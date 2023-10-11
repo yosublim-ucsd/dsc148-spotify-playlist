@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 
 > get into the groove
 
-[Spotify](https://open.spotify.com/user/spotify) - 182,704 likes - 100 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 182,732 likes - 100 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUbycBFSWTh7.md) - [plain]
 | 99 | [4U](https://open.spotify.com/track/7yiQpdAvNV3geOS6l7y7BK) | [Vesin](https://open.spotify.com/artist/16bt4x9EfkHTAvJsaz9wh5) | [4U](https://open.spotify.com/album/3IvQRuVR9rXDXd3bUIfEKo) | 3:26 |
 | 100 | [Lifted](https://open.spotify.com/track/2UKGefVmPDeAvGrNvTbvRl) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE) | [Holy Sun](https://open.spotify.com/album/0Rss280gMlEq7MuYgOlCry) | 6:56 |
 
-Snapshot ID: `MCw3NDIwOTliNWUzOWNiY2E2MWJlZWVmYzkyMTk5MGNkMTFhMzQxY2Vh`
+Snapshot ID: `MCxkNzAxOTMyZjU1MjQ2ZTQ4MzgxZDMzOTIxZjY2YTFhMzUzZTIwYTVl`

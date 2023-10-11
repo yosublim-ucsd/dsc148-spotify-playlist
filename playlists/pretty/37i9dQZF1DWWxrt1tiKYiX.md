@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 
 > Lovely, acoustic pop\. Cover: Jonah Kagen
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,912 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,988 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 | 23 | [STRINGS \(feat\. JVKE & Bazzi\) \- Stripped Version](https://open.spotify.com/track/4VfnCDIo9jJpURfQ2mlImk) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [STRINGS \(feat\. JVKE & Bazzi\) \[Stripped Version\]](https://open.spotify.com/album/2WiZ4BUTVALB9f61XmI3cP) | 2:31 |
 | 24 | [How to Save a Life](https://open.spotify.com/track/2Q7ZNu0GWr9Lr5uoxoQ6oh) | [Kate McGill](https://open.spotify.com/artist/2zEASt0PHuI24e3JlAe17d) | [The Salcombe Sessions, Vol\. 1](https://open.spotify.com/album/3h94Q7lxR7AK5wtuDAMkDf) | 3:31 |
 | 25 | [Thunderclouds](https://open.spotify.com/track/3dFLOHljbnOZ9sFo6SjcVd) | [Haley Reinhart](https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q), [Kris Allen](https://open.spotify.com/artist/2zwHaEmXxX6DTv4i8ajNCM) | [Thunderclouds](https://open.spotify.com/album/5Ms2Gpc7e4cKJjBh8Gh0CJ) | 3:16 |
-| 26 | [0800 HEAVEN \- Acoustic](https://open.spotify.com/track/0mcegVVpLwrLRZB7a6bMgk) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN \(Acoustic\)](https://open.spotify.com/album/0mCdfKtiB1IFVpPhBClsq3) | 3:48 |
+| 26 | [0800 HEAVEN \- Acoustic](https://open.spotify.com/track/1GkYwdCxt9CANT3gsF5qGP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN \(Acoustic\)](https://open.spotify.com/album/7Gv5e3oZ7nPKMXwQBO3MYm) | 3:48 |
 | 27 | [The Hardest Part \- Acoustic](https://open.spotify.com/track/2zcoAxkc0xxXa4SnQXyhYU) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Hardest Part](https://open.spotify.com/album/2deMeM43Oj3TFZjvpHwxUI) | 2:55 |
 | 28 | [afraid of heights](https://open.spotify.com/track/1NBH8vdNQ2qG7U8VMntBLg) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [afraid of heights](https://open.spotify.com/album/5x6BZ6XJ2YVcwE6l26yy6p) | 2:34 |
 | 29 | [Wish You The Best](https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent](https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWxrt1tiKYiX.md) - [plain]
 | 99 | [New Rules \- Acoustic](https://open.spotify.com/track/4X283dKwcjIqJiOCV1dMBJ) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [New Rules \(Acoustic\)](https://open.spotify.com/album/6kuqSRKActdXC7tu7c0L3o) | 3:33 |
 | 100 | [You should be sad \- Acoustic](https://open.spotify.com/track/4whxuYrgqxYoqqp41iIw66) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/1hlapolkCnQLMgKcKNVCuc) | 3:18 |
 
-Snapshot ID: `MCw1NTJmMTkyM2MyNmJmMWI4YTUyZDkzZmRhNzY4YjE0MGVmYWIwYzZm`
+Snapshot ID: `MCxiMDRkMWU3ZWYzOWMzY2MyYWNlNWRjOTU4N2VkMTVhM2E4OTk4NjE2`

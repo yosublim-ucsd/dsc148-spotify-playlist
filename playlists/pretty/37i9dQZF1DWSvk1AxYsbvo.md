@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,726 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,755 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 22 | [Just You](https://open.spotify.com/track/0tZikH1DN7ozvJbObBbBu9) | [J Rabbit](https://open.spotify.com/artist/4Imsd61cGosmAFBaMLtl4G) | [Record of Youth \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/447N7ppCfmPhtj9vULuQpt) | 3:45 |
 | 23 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 |
 | 24 | [Summer Festa](https://open.spotify.com/track/48FmyTNts7wIojfB3NxDfR) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Summer Festa](https://open.spotify.com/album/014u0JnJJYVQCpxVSQ9awM) | 3:10 |
-| 25 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
-| 26 | [내 사랑 내 곁에](https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY) | 3:53 |
+| 25 | [내 사랑 내 곁에](https://open.spotify.com/track/77odrU6Z94fsXryPiPf7P7) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [기막힌 유산 \(Original Television Soundtrack\) Pt\. 4](https://open.spotify.com/album/0gSEdT5M23E5utrxIofSBY) | 3:53 |
+| 26 | [It will be all fine](https://open.spotify.com/track/7xzN0ZWjfkLCagoEeQWLri) | [Hoyeon Kim](https://open.spotify.com/artist/2F6vo1DnhCOz8CxcUz7s7m) | [Lean On Me \(Original Television Soundtrack\)](https://open.spotify.com/album/5wTDnPeT17KsAzFiDwhQuR) | 2:33 |
 | 27 | [Goodbye](https://open.spotify.com/track/01xHwwkwASfIfuO7tzCwli) | [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Goodbye](https://open.spotify.com/album/2fIKo8rgZyUXBQswQdeHcK) | 4:14 |
 | 28 | [What Should I do](https://open.spotify.com/track/4ARhTCA10vYH49DceecURl) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [What Should I do](https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt) | 4:27 |
-| 29 | [beautiful inside](https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/2X9zquczSyputp24lpjLkr) | 3:39 |
-| 30 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 |
+| 29 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 |
+| 30 | [beautiful inside](https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR) | [Hello Ga\-Young](https://open.spotify.com/artist/1yewRvlKGWmNRHOSGgiRRo) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 9](https://open.spotify.com/album/2X9zquczSyputp24lpjLkr) | 3:39 |
 | 31 | [The Film](https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [The Film](https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq) | 3:16 |
-| 32 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 |
-| 33 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
-| 34 | [SHE](https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [SHE](https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ) | 3:18 |
+| 32 | [SHE](https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [SHE](https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ) | 3:18 |
+| 33 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 |
+| 34 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
 | 35 | [i and i](https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [i and i](https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU) | 2:58 |
 | 36 | [When It’s Cold](https://open.spotify.com/track/1d4rYg3JcSOSnVYa2IPDSr) | [Bily Acoustie](https://open.spotify.com/artist/5r7uTezbOPCO32i7RljvaA) | [When It's Cold](https://open.spotify.com/album/0yd7TX2398Ii7AiZAMp2ey) | 3:03 |
 | 37 | [비밀 얘기를 하고 싶어](https://open.spotify.com/track/6SD7vuRnI22lQ2eoqUTowA) | [Who R U?](https://open.spotify.com/artist/0raZp61hFiFlRDWtEqX1HK) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.18](https://open.spotify.com/album/71vDmAH3pDMbqbE1pgP7gD) | 3:00 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 46 | [To You](https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:13 |
 | 47 | [시소](https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J) | [KiTak](https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM) | [시소](https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR) | 2:43 |
 | 48 | [moon river \(2021\)](https://open.spotify.com/track/3PdER8czrfvUUjtEbvynjp) | [Shin Ji Hoon](https://open.spotify.com/artist/0RpcAXbMHCcEEurjyHvuyg) | [A story that will turn into a poem](https://open.spotify.com/album/4pwFaLkL7sfjhD1O6IZPqF) | 3:13 |
-| 49 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 |
-| 50 | [Mm Mm \- Acoustic Version](https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Mm Mm](https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw) | 2:54 |
+| 49 | [Mm Mm \- Acoustic Version](https://open.spotify.com/track/0XSKOtWYAz9MaVPHCfJtTu) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Mm Mm](https://open.spotify.com/album/4XdRqwWMaqajrsAguE0sTw) | 2:54 |
+| 50 | [Leave like this](https://open.spotify.com/track/1DjihD1VQAuuaRaMDOKOjy) | [Seokman Cheon](https://open.spotify.com/artist/5KoLNvPbAWGHVOCXwam9T0), [Blue Mangtto](https://open.spotify.com/artist/0K44FUw6SBCO7dunhMz8sp) | [Leave like this](https://open.spotify.com/album/6FQObmvOZQ9MXzRddnhUkJ) | 3:25 |
 
-Snapshot ID: `MCw5YTBiNzZiYTNlZGM3MDE3NTM3NDViNDMzZmVjMWVlMTYwOGMzMmM2`
+Snapshot ID: `MCwyMjUxNzhhMzNjZjc2OTk3N2E1MjNjYmE5YjE1YTU4MDE2ZmY1ZGQ5`

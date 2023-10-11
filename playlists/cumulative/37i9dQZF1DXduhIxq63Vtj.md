@@ -4,7 +4,7 @@
 
 > ¡Ay Jalisco no te rajes!
 
-102 songs - 5 hr 42 min
+103 songs - 5 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [El Tiempo de Ti](https://open.spotify.com/track/4EJgy5Bmo6cxEiL1krzv07) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [Canciones De Hotel](https://open.spotify.com/album/1s6NvhoX40Ob6g8C5E1C4v) | 5:06 | 2023-05-24 |  |
 | [Estos Celos](https://open.spotify.com/track/6u6kH7V7Tx5xDJtF82vVw0) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:10 | 2022-01-26 |  |
 | [Eva Maria](https://open.spotify.com/track/6feqhxjb5br6vyxIXX2rcz) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:47 | 2023-05-24 | 2023-10-02 |
+| [Eva María](https://open.spotify.com/track/45iHQJmGDY9RRHb4EXDySF) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella De Los Bailes](https://open.spotify.com/album/2TKiDd5rUQRwq7yjCChfOj) | 2:47 | 2023-05-24 |  |
 | [Extraños](https://open.spotify.com/track/1ZlBHkvF6NgMuoXTbAvJT9) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x) | [Náufrago](https://open.spotify.com/album/07Ght6RYliCbCdKKbElmWK) | 3:22 | 2023-05-24 |  |
 | [Globos](https://open.spotify.com/track/4utNmwmHfwvzPBT3kMtwEN) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Bahía Santiago](https://open.spotify.com/album/7p6sqvNdTInCL3bAAUoDlY) | 4:20 | 2023-05-24 |  |
 | [Guadalajara](https://open.spotify.com/track/7bqkK6DMlXwcIHbSzLq1xx) | [Mariachi Vargas De Tecalitlán](https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78) | [Música de America](https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR) | 2:56 | 2022-01-26 |  |
@@ -105,7 +106,7 @@
 | [Torito Serrano](https://open.spotify.com/track/4BFHo7sWvDEoPErm3aVS9C) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con El Mariachi Vargas](https://open.spotify.com/album/4Cg0XRlaFZkco0rQRP7zGX) | 2:55 | 2022-01-26 | 2023-05-25 |
 | [Tu Luz](https://open.spotify.com/track/0bqfNDZvqXB10fUKSfj6mY) | [Azul Violeta](https://open.spotify.com/artist/5U5HiTvNUclEE0bwGVDBIX) | [Globoscopio](https://open.spotify.com/album/3ZmohMIf51g01KO57xm6Zc) | 4:33 | 2023-05-24 |  |
 | [Tus Ojos](https://open.spotify.com/track/4XTRWWCbB68WDeAHLfv2HP) | [Belanova](https://open.spotify.com/artist/3oNy8cjBtJzLC07I70sklp) | [Cocktail](https://open.spotify.com/album/6L2qELGG144WItEUaAwVme) | 3:00 | 2023-05-24 |  |
-| [Un indio quiere llorar](https://open.spotify.com/track/2EiI77Zus1qAINPOxFTcyK) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 2:49 | 2023-05-24 |  |
+| [Un indio quiere llorar](https://open.spotify.com/track/2EiI77Zus1qAINPOxFTcyK) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Sentimientos](https://open.spotify.com/album/0W25izQQWhI54q5Dvs2PkO) | 2:49 | 2023-05-24 | 2023-10-11 |
 | [Ya Vas Carnal](https://open.spotify.com/track/3gJO6TqU3wqgrKTy49kVk8) | [Gerardo Reyes](https://open.spotify.com/artist/2HdTW6TLACOcKKsUaRdP0e) | [Serie De Colecc\. 15 Auténticos Exitos](https://open.spotify.com/album/2NBlTAiYb311082CIMKqjU) | 2:50 | 2022-01-26 | 2023-05-25 |
 | [Yo No Fui](https://open.spotify.com/track/0SygIagLM5nPX3qWvh53UY) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Yo No Fui](https://open.spotify.com/album/7gXeZSbYYmSsWvbe8rxcPu) | 4:52 | 2022-01-26 | 2023-05-25 |
 | [Yo Soy El Aventurero](https://open.spotify.com/track/03dFbJTkFEqJXotllXzfaf) | [Pedro Fernández](https://open.spotify.com/artist/24dYJ8P3YuFihvMcElFUWh) | [Corazones Mexicanos Vol\. 1](https://open.spotify.com/album/2Zl2Vugjf6EblGmT78CpUk) | 2:58 | 2022-01-26 | 2022-11-13 |

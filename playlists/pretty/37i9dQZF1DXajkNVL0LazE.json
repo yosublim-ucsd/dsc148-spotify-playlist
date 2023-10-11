@@ -1,12 +1,12 @@
 {
   "description": "Indie folk that defined the 2000s.",
-  "num_followers": 78443,
+  "num_followers": 78564,
   "original_name": "00s Indie Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1YzcyNTBkNGQwMTg5MTRmNWFhN2IxZTBiODcxOTI5MWVkODI3MjVh",
+  "snapshot_id": "MCxmZjBhN2M3MzE1YjYwM2U0NGMzOGIzNGIyNGM2OTgxY2IxNTZkYmYz",
   "tracks": [
     {
       "added_at": "2022-02-04 22:01:34",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Riot On An Empty Street",
-        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 209026,
-      "name": "I'd Rather Dance With You",
-      "url": "https://open.spotify.com/track/119MXpXxpY20WUkDIdE6U4"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Civilian",
         "url": "https://open.spotify.com/album/2nPcgCU0oLOBRnag0zmUIS"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 220917,
       "name": "Civilian",
       "url": "https://open.spotify.com/track/3wqMCDKWWYHnPLldMskKHe"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Riot On An Empty Street",
+        "url": "https://open.spotify.com/album/2AlmzyF5aM1A1Mq9QkwTEI"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 209026,
+      "name": "I'd Rather Dance With You",
+      "url": "https://open.spotify.com/track/119MXpXxpY20WUkDIdE6U4"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Chutes Too Narrow",
-        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 193546,
-      "name": "Gone for Good",
-      "url": "https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "O",
         "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 286653,
       "name": "The Blower's Daughter",
       "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Chutes Too Narrow",
+        "url": "https://open.spotify.com/album/05APAIA6c0Qf7QtFQYZAKm"
+      },
+      "artists": [
+        {
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
+        }
+      ],
+      "duration_ms": 193546,
+      "name": "Gone for Good",
+      "url": "https://open.spotify.com/track/6Q0ah7m011fAcNTFJBjQGI"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Let It Die",
-        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 224506,
-      "name": "Mushaboom",
-      "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "War Elephant",
         "url": "https://open.spotify.com/album/2jMilAyC3RBmAoWr1JZ7MR"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 181186,
       "name": "Baltimore Blues No. 1",
       "url": "https://open.spotify.com/track/14irPxTJLePlTfUd9U5hWL"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Let It Die",
+        "url": "https://open.spotify.com/album/1dukVxiix2ckr6CMs1T1zI"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 224506,
+      "name": "Mushaboom",
+      "url": "https://open.spotify.com/track/66olzBxCgKlpFRB1LKH5pO"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Wilco (The Album)",
-        "url": "https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 205240,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "The Midnight Organ Fight",
         "url": "https://open.spotify.com/album/42UPwzHW8rhA13t5JJxp09"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 228453,
       "name": "The Modern Leper",
       "url": "https://open.spotify.com/track/3aunzvczA4MkwIrHuARjqM"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Wilco (The Album)",
+        "url": "https://open.spotify.com/album/1cezxBJdWm1Xod9ZiGy4YE"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 205240,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/2fdMAIsNH4wY7RRda8aCfL"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "A Ghost Is Born (Deluxe Version)",
-        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
+        "name": "The Stand Ins",
+        "url": "https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi"
       },
       "artists": [
         {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+          "name": "Okkervil River",
+          "url": "https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY"
         }
       ],
-      "duration_ms": 363000,
-      "name": "Handshake Drugs",
-      "url": "https://open.spotify.com/track/7wOXAS9DfepmybaTYyfYwd"
+      "duration_ms": 331800,
+      "name": "Lost Coastlines",
+      "url": "https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1359,18 +1359,18 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Stand Ins",
-        "url": "https://open.spotify.com/album/7nNpULGXAzEnNAXmoKEyUi"
+        "name": "A Ghost Is Born (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1f8UM82zkRXTLy7qGp4lJF"
       },
       "artists": [
         {
-          "name": "Okkervil River",
-          "url": "https://open.spotify.com/artist/5E7zSu46SqTmgKqsc0tFkY"
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 331800,
-      "name": "Lost Coastlines",
-      "url": "https://open.spotify.com/track/5n9od7Y9hQuExDiN1bTg9B"
+      "duration_ms": 363000,
+      "name": "Handshake Drugs",
+      "url": "https://open.spotify.com/track/7wOXAS9DfepmybaTYyfYwd"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "Yankee Hotel Foxtrot",
-        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 418200,
-      "name": "I Am Trying to Break Your Heart",
-      "url": "https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "Woke On A Whaleheart",
         "url": "https://open.spotify.com/album/4ZrfprqjbFWKGV0prZfDGH"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 335800,
       "name": "Sycamore",
       "url": "https://open.spotify.com/track/0do3zfmbVl5DiGxUXrbhrT"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "Yankee Hotel Foxtrot",
+        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 418200,
+      "name": "I Am Trying to Break Your Heart",
+      "url": "https://open.spotify.com/track/3HWxpLKnTlz6jE3Vi5dTF2"
     },
     {
       "added_at": "2022-02-04 22:01:34",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2022-02-04 22:01:34",
       "album": {
-        "name": "The Trials of Van Occupanther",
-        "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
-      },
-      "artists": [
-        {
-          "name": "Midlake",
-          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
-        }
-      ],
-      "duration_ms": 291640,
-      "name": "Young Bride",
-      "url": "https://open.spotify.com/track/4YyFSSPQgXooWQzVzya7nU"
-    },
-    {
-      "added_at": "2022-02-04 22:01:34",
-      "album": {
         "name": "In The Reins",
         "url": "https://open.spotify.com/album/0s1mKAEcqr7od5xY3pZ921"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 223773,
       "name": "He Lays In The Reins",
       "url": "https://open.spotify.com/track/06KMxCt6MwBqgivE20KDC4"
+    },
+    {
+      "added_at": "2022-02-04 22:01:34",
+      "album": {
+        "name": "The Trials of Van Occupanther",
+        "url": "https://open.spotify.com/album/034XwDisEPdZwJWTOaUaVs"
+      },
+      "artists": [
+        {
+          "name": "Midlake",
+          "url": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
+        }
+      ],
+      "duration_ms": 291640,
+      "name": "Young Bride",
+      "url": "https://open.spotify.com/track/4YyFSSPQgXooWQzVzya7nU"
     },
     {
       "added_at": "2022-02-04 22:01:34",

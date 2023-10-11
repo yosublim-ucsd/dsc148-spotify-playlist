@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Los Primos del Este en portada.
 
-398 songs - 21 hr 26 min
+399 songs - 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Castillo De Ilusión](https://open.spotify.com/track/4fULKqADhPqLutoSfZZtEo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Castillo De Ilusión](https://open.spotify.com/album/1gzPnbtL63YRYwbbfzDcVH) | 3:26 | 2023-01-13 | 2023-01-21 |
 | [Chalino](https://open.spotify.com/track/6KrKCKqR8fYEMw2F4XNbE8) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Chalino](https://open.spotify.com/album/266gbjmcYrta8TVjVInvHO) | 3:34 | 2022-03-11 | 2023-04-15 |
 | [Chambeando Recio](https://open.spotify.com/track/5GUn6oyW713HWxE9F1Xp0T) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Chambeando Recio](https://open.spotify.com/album/5iYuRSAA6tEhTDAOBhTDff) | 2:37 | 2022-07-01 | 2023-07-15 |
-| [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 | 2022-12-02 |  |
+| [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 | 2022-12-02 | 2023-10-11 |
 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 | 2023-02-24 |  |
 | [Cinco Letras de Miel](https://open.spotify.com/track/0NnQVi8cI6GDY70gcY58JF) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Graciela Beltran](https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl) | [Cinco Letras de Miel](https://open.spotify.com/album/2pAF6tby7WfPilxShPyPsr) | 3:42 | 2023-05-12 | 2023-06-18 |
 | [Coincidencia](https://open.spotify.com/track/6mG194I8D0FM4lHwVnfdWu) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Coincidencia](https://open.spotify.com/album/5kZpacNK5T75ydnsjHPI5A) | 3:10 | 2023-05-12 | 2023-05-27 |
@@ -133,6 +133,7 @@
 | [El Pescuezo Del Pollo \(En Vivo\)](https://open.spotify.com/track/0N3dAhEqj3zTeHJcDuA5fB) | [Los Juniors de La Montaña](https://open.spotify.com/artist/304T5qiPITdwBthiURWORg) | [El Pescuezo Del Pollo \(En Vivo\)](https://open.spotify.com/album/24X2SfIgfDI6fBWDM9OaHy) | 4:24 | 2023-04-14 | 2023-06-08 |
 | [El Pickles](https://open.spotify.com/track/1xcFgv2NqLU17sc2ri5TTG) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Pickles](https://open.spotify.com/album/2zJwQTD8HeEMsnxVIa4ssq) | 3:02 | 2023-01-13 | 2023-04-15 |
 | [El Precio De La Soledad](https://open.spotify.com/track/179TZwPk0txEvjkraVTVKo) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Así Es Esto](https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB) | 3:06 | 2022-06-10 |  |
+| [El Preso Y La Luna](https://open.spotify.com/track/5vSDruEF72vz5f8ULC6GSM) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Preso Y La Luna](https://open.spotify.com/album/3hnblc9MhXoQr5oAZe8S8p) | 3:15 | 2023-10-06 |  |
 | [El Pávido Návido](https://open.spotify.com/track/0sTV1ucJEAj8M15YJQCLsR) | [Los Igualados](https://open.spotify.com/artist/7CZBDOxXPcGXM2IAoZHCmB) | [A Bailar Huapangos](https://open.spotify.com/album/3HwzYVu702BGntM846aF8T) | 4:12 | 2022-09-02 | 2023-07-01 |
 | [El Que a Ti Te Gusta](https://open.spotify.com/track/5drpITkUIpFNfuP2eCWAz4) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [El Que a Ti Te Gusta](https://open.spotify.com/album/47wEWNQJIhuqODvvVTUtrl) | 3:11 | 2022-07-01 | 2022-07-15 |
 | [El Rescate](https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [El Rescate](https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP) | 2:40 | 2022-08-05 |  |

@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 3615929,
+  "num_followers": 3617846,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjhiMzZlM2NhZmY5OGU1ZmMxMmQzZDFlZGJiNDY1ODZlMWZjYjVl",
+  "snapshot_id": "MCwwYmY5Yjk4Y2Q0NThjNjM3NmNmY2UzYzdlNzM4YzBiOWUwOGQxNmIy",
   "tracks": [
     {
       "added_at": "2023-09-12 14:27:27",
@@ -23,6 +23,22 @@
       "duration_ms": 119120,
       "name": "ecstacy (slowed)",
       "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
+    },
+    {
+      "added_at": "2023-10-03 14:28:52",
+      "album": {
+        "name": "IT GIRL",
+        "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
+      },
+      "artists": [
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "duration_ms": 161760,
+      "name": "IT GIRL",
+      "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
     },
     {
       "added_at": "2023-09-06 15:22:16",
@@ -205,22 +221,6 @@
       "url": "https://open.spotify.com/track/3xKsf9qdS1CyvXSMEid6g8"
     },
     {
-      "added_at": "2023-10-03 14:28:52",
-      "album": {
-        "name": "IT GIRL",
-        "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
-      },
-      "artists": [
-        {
-          "name": "Aliyah's Interlude",
-          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
-        }
-      ],
-      "duration_ms": 161760,
-      "name": "IT GIRL",
-      "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
-    },
-    {
       "added_at": "2023-10-06 17:44:50",
       "album": {
         "name": "For All The Dogs",
@@ -345,6 +345,22 @@
       "url": "https://open.spotify.com/track/0QIjsbm2fh1cJ45XO9eGqq"
     },
     {
+      "added_at": "2023-08-22 16:37:37",
+      "album": {
+        "name": "Volcano",
+        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 209482,
+      "name": "Back On 74",
+      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
+    },
+    {
       "added_at": "2023-09-08 19:34:44",
       "album": {
         "name": "Mama's Boy",
@@ -361,20 +377,20 @@
       "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
     },
     {
-      "added_at": "2023-10-07 23:04:05",
+      "added_at": "2023-09-20 16:38:39",
       "album": {
-        "name": "Live For Me",
-        "url": "https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY"
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 211666,
-      "name": "Live For Me",
-      "url": "https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n"
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "added_at": "2023-06-09 16:12:25",
@@ -435,6 +451,26 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
+    },
+    {
+      "added_at": "2023-10-10 16:20:32",
+      "album": {
+        "name": "EVOL",
+        "url": "https://open.spotify.com/album/3jJKDKdlwRS584zUlHV2Ly"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 313546,
+      "name": "Low Life (feat. The Weeknd)",
+      "url": "https://open.spotify.com/track/7EiZI6JVHllARrX9PUvAdX"
     },
     {
       "added_at": "2023-09-27 17:27:56",
@@ -517,20 +553,20 @@
       "url": "https://open.spotify.com/track/187zHzb6JDM4YDSFNGkQ9u"
     },
     {
-      "added_at": "2023-09-21 15:02:04",
+      "added_at": "2023-10-10 16:28:24",
       "album": {
-        "name": "WY@",
-        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
+        "name": "Normal People Things",
+        "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
       },
       "artists": [
         {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
         }
       ],
-      "duration_ms": 208038,
-      "name": "WY@",
-      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
+      "duration_ms": 164844,
+      "name": "Normal People Things",
+      "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
     },
     {
       "added_at": "2023-06-09 16:12:25",
@@ -549,6 +585,22 @@
       "url": "https://open.spotify.com/track/2ogKhhoMClkFXek7ZgxAhN"
     },
     {
+      "added_at": "2023-10-10 18:37:48",
+      "album": {
+        "name": "Dance Vault Mixes - Copacabana (At The Copa)",
+        "url": "https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 236760,
+      "name": "Copacabana (At the Copa)",
+      "url": "https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl"
+    },
+    {
       "added_at": "2023-09-25 14:54:01",
       "album": {
         "name": "Smile",
@@ -563,22 +615,6 @@
       "duration_ms": 185480,
       "name": "Harleys In Hawaii",
       "url": "https://open.spotify.com/track/3B4etxytImrRKQgV3XHjnR"
-    },
-    {
-      "added_at": "2023-08-22 16:37:37",
-      "album": {
-        "name": "Volcano",
-        "url": "https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 209482,
-      "name": "Back On 74",
-      "url": "https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO"
     },
     {
       "added_at": "2023-06-09 16:12:25",
@@ -597,6 +633,22 @@
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
+      "added_at": "2023-09-21 15:02:04",
+      "album": {
+        "name": "WY@",
+        "url": "https://open.spotify.com/album/5qcDP5z7uGM9BPCUEE4KYd"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 208038,
+      "name": "WY@",
+      "url": "https://open.spotify.com/track/1cFKKdG6gmpptMBFxasJOE"
+    },
+    {
       "added_at": "2023-09-27 17:27:56",
       "album": {
         "name": "Colourmeinkindness",
@@ -611,6 +663,38 @@
       "duration_ms": 227340,
       "name": "Covet",
       "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF"
+    },
+    {
+      "added_at": "2023-06-09 16:12:25",
+      "album": {
+        "name": "I Can't Handle Change",
+        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
+      },
+      "artists": [
+        {
+          "name": "Roar",
+          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+        }
+      ],
+      "duration_ms": 135693,
+      "name": "Christmas Kids",
+      "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
+    },
+    {
+      "added_at": "2023-10-10 18:37:48",
+      "album": {
+        "name": "i am not who i was",
+        "url": "https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId"
+      },
+      "artists": [
+        {
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+        }
+      ],
+      "duration_ms": 145438,
+      "name": "i am not who i was",
+      "url": "https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe"
     },
     {
       "added_at": "2023-06-12 13:50:37",
@@ -631,18 +715,22 @@
     {
       "added_at": "2023-06-09 16:12:25",
       "album": {
-        "name": "I Can't Handle Change",
-        "url": "https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d"
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
       "artists": [
         {
-          "name": "Roar",
-          "url": "https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 135693,
-      "name": "Christmas Kids",
-      "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
+      "duration_ms": 239613,
+      "name": "Open Arms (feat. Travis Scott)",
+      "url": "https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF"
     },
     {
       "added_at": "2023-09-27 15:19:48",
@@ -659,6 +747,22 @@
       "duration_ms": 174512,
       "name": "Superpowers",
       "url": "https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu"
+    },
+    {
+      "added_at": "2023-10-07 23:04:05",
+      "album": {
+        "name": "Live For Me",
+        "url": "https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Live For Me",
+      "url": "https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n"
     },
     {
       "added_at": "2023-10-07 14:37:46",
@@ -679,6 +783,26 @@
       "duration_ms": 195680,
       "name": "Need It",
       "url": "https://open.spotify.com/track/6mtjo5kIHKlboGE84lf1FJ"
+    },
+    {
+      "added_at": "2023-06-09 16:12:25",
+      "album": {
+        "name": "Rodeo (Remix)",
+        "url": "https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq"
+      },
+      "artists": [
+        {
+          "name": "Lah Pat",
+          "url": "https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd"
+        },
+        {
+          "name": "Flo Milli",
+          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+        }
+      ],
+      "duration_ms": 245959,
+      "name": "Rodeo (Remix)",
+      "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
     },
     {
       "added_at": "2023-09-26 19:10:32",
@@ -801,26 +925,6 @@
       "url": "https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj"
     },
     {
-      "added_at": "2023-06-09 16:12:25",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 239613,
-      "name": "Open Arms (feat. Travis Scott)",
-      "url": "https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF"
-    },
-    {
       "added_at": "2023-10-03 14:28:52",
       "album": {
         "name": "Did you know that there's a tunnel under Ocean Blvd",
@@ -857,22 +961,6 @@
       "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
     },
     {
-      "added_at": "2023-09-20 16:38:39",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
-    },
-    {
       "added_at": "2023-06-09 16:12:25",
       "album": {
         "name": "Zanaka (Deluxe)",
@@ -889,24 +977,20 @@
       "url": "https://open.spotify.com/track/4TNFLwe6DhtR3Wn1JKMqMJ"
     },
     {
-      "added_at": "2023-06-09 16:12:25",
+      "added_at": "2023-09-26 19:10:32",
       "album": {
-        "name": "Rodeo (Remix)",
-        "url": "https://open.spotify.com/album/2grKiiEtU4ij4yPgvlBGTq"
+        "name": "RAGE",
+        "url": "https://open.spotify.com/album/6yGJLpiDEOw5bCqbyIwWP4"
       },
       "artists": [
         {
-          "name": "Lah Pat",
-          "url": "https://open.spotify.com/artist/6dhd3wcal02KeLBk5wScfd"
-        },
-        {
-          "name": "Flo Milli",
-          "url": "https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd"
+          "name": "scraizis",
+          "url": "https://open.spotify.com/artist/3Hj6nCmjTEHQyatEOW4sOf"
         }
       ],
-      "duration_ms": 245959,
-      "name": "Rodeo (Remix)",
-      "url": "https://open.spotify.com/track/035MzEbx4z2DxuRDymHXbv"
+      "duration_ms": 82062,
+      "name": "RAGE",
+      "url": "https://open.spotify.com/track/52OWRufMrpxRcv3Sy97A42"
     },
     {
       "added_at": "2023-09-15 18:59:46",
@@ -1011,22 +1095,6 @@
       "duration_ms": 149391,
       "name": "AMERICAN HORROR SHOW",
       "url": "https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g"
-    },
-    {
-      "added_at": "2023-09-26 19:10:32",
-      "album": {
-        "name": "RAGE",
-        "url": "https://open.spotify.com/album/6yGJLpiDEOw5bCqbyIwWP4"
-      },
-      "artists": [
-        {
-          "name": "scraizis",
-          "url": "https://open.spotify.com/artist/3Hj6nCmjTEHQyatEOW4sOf"
-        }
-      ],
-      "duration_ms": 82062,
-      "name": "RAGE",
-      "url": "https://open.spotify.com/track/52OWRufMrpxRcv3Sy97A42"
     },
     {
       "added_at": "2023-07-27 13:55:06",
@@ -1449,24 +1517,20 @@
       "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
     },
     {
-      "added_at": "2023-07-17 16:11:21",
+      "added_at": "2023-07-26 01:22:24",
       "album": {
-        "name": "Peaches & Eggplants (feat. 21 Savage)",
-        "url": "https://open.spotify.com/album/6Hj61lLEt0UxscLniz6h74"
+        "name": "Her Love Still Haunts Me Like a Ghost",
+        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
       },
       "artists": [
         {
-          "name": "Young Nudy",
-          "url": "https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 203813,
-      "name": "Peaches & Eggplants (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp"
+      "duration_ms": 208000,
+      "name": "Bathroom",
+      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
     },
     {
       "added_at": "2023-06-23 18:14:02",
@@ -1515,22 +1579,6 @@
       "duration_ms": 219642,
       "name": "Mu\u00f1ekita (with El Alfa & JT)",
       "url": "https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX"
-    },
-    {
-      "added_at": "2023-07-26 01:22:24",
-      "album": {
-        "name": "Her Love Still Haunts Me Like a Ghost",
-        "url": "https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Bathroom",
-      "url": "https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt"
     },
     {
       "added_at": "2023-07-26 01:22:24",
@@ -1787,22 +1835,6 @@
       "duration_ms": 194840,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/4RJTTrZqPFWaWACVXHkvjw"
-    },
-    {
-      "added_at": "2023-06-18 16:43:18",
-      "album": {
-        "name": "(It Goes Like) Nanana [Edit]",
-        "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
-      },
-      "artists": [
-        {
-          "name": "Peggy Gou",
-          "url": "https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN"
-        }
-      ],
-      "duration_ms": 231545,
-      "name": "(It Goes Like) Nanana - Edit",
-      "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
       "added_at": "2023-06-14 17:39:24",

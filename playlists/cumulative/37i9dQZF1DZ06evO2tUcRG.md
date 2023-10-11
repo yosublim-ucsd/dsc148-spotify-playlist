@@ -4,13 +4,13 @@
 
 > This is Gabriela Rocha\. The essential tracks, all in one playlist.
 
-54 songs - 5 hr 39 min
+55 songs - 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Ele a Glória \- Ao Vivo](https://open.spotify.com/track/5aH9yQIcGLtxjDBUhMRkSi) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Ele a Glória \(Ao Vivo\)](https://open.spotify.com/album/72mzPRnaOjSY2uWdMqChwY) | 7:17 | 2023-07-09 |  |
 | [A Ele a Glória / Porque Ele vive \- Live 2020](https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 6:24 | 2023-07-09 |  |
-| [A Voz](https://open.spotify.com/track/4N2yjawma1TdAtBcqLvend) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Pra Onde Iremos?](https://open.spotify.com/album/1ifW4VsChr6AgOvpmd8ZFo) | 4:29 | 2023-07-09 |  |
+| [A Voz](https://open.spotify.com/track/4N2yjawma1TdAtBcqLvend) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Pra Onde Iremos?](https://open.spotify.com/album/1ifW4VsChr6AgOvpmd8ZFo) | 4:29 | 2023-07-09 | 2023-10-11 |
 | [Abraça\-me \- Live 2020](https://open.spotify.com/track/4o5WmT5T3jZl6EA3L4W8Wf) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 3:42 | 2023-07-09 |  |
 | [Acts 2](https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Acts 2](https://open.spotify.com/album/1dMORalDL5wqJ4xEIN61U1) | 6:15 | 2023-09-25 |  |
 | [Alfa E Ômega / Pra Te Adorar](https://open.spotify.com/track/7d9UqIsX4AKTICcI4ritcN) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 5:59 | 2023-07-09 |  |
@@ -47,6 +47,7 @@
 | [Ninguém Explica Deus \(feat\. Gabriela Rocha\) \- Ao Vivo](https://open.spotify.com/track/682XjN6L1Qhs5rXbuGSQKK) | [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Preto no Branco \(Ao Vivo\)](https://open.spotify.com/album/5HtYrFWRTSbUjvoov6YAsG) | 6:30 | 2023-07-09 |  |
 | [Não Há Nome Maior](https://open.spotify.com/track/4WkdRazRRMtnsvdyiiC7FB) | [REVERE](https://open.spotify.com/artist/4O2WXMRRTS8XqmqSTcBnrb), [Gabriel Guedes de Almeida](https://open.spotify.com/artist/5ETTRSAa5g5uIMNOgqnJPB), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Não Há Nome Maior](https://open.spotify.com/album/6vuoxQ1WYRV4xAKBm7f9ok) | 5:09 | 2023-07-09 |  |
 | [O Mover do Espírito \(Quero que Valorize\)](https://open.spotify.com/track/2PDn2K8c6Tw5V2aJXWe4DT) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 3:50 | 2023-07-09 |  |
+| [Oh, Quão Lindo esse nome é / Só Tu és Santo / Pra Te adorar \- Live 2020](https://open.spotify.com/track/4v5aGcoGfj22PEr53NJOHN) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 12:28 | 2023-10-10 |  |
 | [Os Sonhos de Deus](https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Os Sonhos de Deus](https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b) | 4:27 | 2023-07-09 |  |
 | [Outro Na Fornalha](https://open.spotify.com/track/7ncFnwbpGAfD2dZdNWUI1E) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 4:26 | 2023-07-09 |  |
 | [Pra Onde Iremos? \(feat\. Felippe Valadão\) \- Ao Vivo](https://open.spotify.com/track/3eL1SOAEopSLzdzzlHaJ18) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Felippe Valadão](https://open.spotify.com/artist/0KegzT9izcAVRGF2k3mJ05) | [Até Transbordar \(Ao Vivo\)](https://open.spotify.com/album/3HjpM1erx8nlbEgmNKpIj0) | 4:31 | 2023-07-09 |  |

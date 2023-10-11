@@ -931,6 +931,24 @@
     },
     {
       "album": {
+        "name": "Ya Me La Deb\u00edas",
+        "url": "https://open.spotify.com/album/4pjscqb5KSeStDFgaQoNra"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179066,
+      "name": "Ya Me La Deb\u00edas",
+      "url": "https://open.spotify.com/track/2Qr69HxvmlfpxBbnqrEbOa"
+    },
+    {
+      "album": {
         "name": "Todo Depende De Ti",
         "url": "https://open.spotify.com/album/2pPGfPv8AKkeFyTtgHTOUr"
       },

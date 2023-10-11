@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Bhaskar
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,233,368 likes - 81 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,232,541 likes - 81 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 80 | [You Talkin'](https://open.spotify.com/track/0V3OXJgLiRK8yezOxVsr49) | [Chapter & Verse](https://open.spotify.com/artist/5yPVuutf3WAXUt1VqDaN1t), [Victor Lou](https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt) | [You Talkin'](https://open.spotify.com/album/17OGNhyHM0gCe9ACFi7YFY) | 2:47 |
 | 81 | [Heat](https://open.spotify.com/track/6uffqxl4bVeg3rPGDqctxq) | [Duske](https://open.spotify.com/artist/6VfL0NK2Mqt7OWXP6j2YZi), [Faithman](https://open.spotify.com/artist/67TlEACho22Dbu27Q3upti) | [Heat](https://open.spotify.com/album/5S1h4L00DB6P9IIRwjVfO9) | 3:23 |
 
-Snapshot ID: `MCw3ZjlkMTNjYTI3YTczMDY4ZDYyMTZlMzNkNGE5NTlhZjIwYTNhNDIx`
+Snapshot ID: `MCwyYTMyMzdmMDQ5MTQ5NGE2ZDhhZTg2NTkyMTUzNGQyODEwYzYzOGMy`

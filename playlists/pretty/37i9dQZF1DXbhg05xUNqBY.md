@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 
 > Breathe deep, and relax with the softer side of Christian music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,098 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,262 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,16 +60,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 50 | [Transparente](https://open.spotify.com/track/53OH88v4fyx4cqRlHE1Ezy) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm) | [Todos A La Mesa](https://open.spotify.com/album/6Etivewzt1lcrYkWUAqnd9) | 5:05 |
 | 51 | [Shiloh](https://open.spotify.com/track/5bbpGneGOh76SyDWEhZRXN) | [Audrey Assad](https://open.spotify.com/artist/1GKYNY4rIPnOuTfC0J1IWw) | [Shiloh](https://open.spotify.com/album/1fQcrISwcL6Xg8O46S8ytG) | 4:28 |
 | 52 | [God You Are \(feat\. Josh Baldwin\)](https://open.spotify.com/track/2nWc0P3X3ZizOllGoSCC9x) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Josh Baldwin](https://open.spotify.com/artist/2cB6hX2LI14KUTAevpaYn2) | [God You Are](https://open.spotify.com/album/4SBHWu7CyTqKCK1P4T665j) | 4:25 |
-| 53 | [Graves Into Gardens \- Acoustic](https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Graves Into Gardens \(Acoustic\)](https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF) | 4:38 |
-| 54 | [Ever Closer](https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Ever Closer](https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc) | 3:52 |
-| 55 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 |
-| 56 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
+| 53 | [Quiet Talk](https://open.spotify.com/track/1T2Z13PDAqCE9pAyIOeAHg) | [Jillian Edwards](https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp) | [Quiet Talk](https://open.spotify.com/album/6T6uSJ7XppYHhopjg1AOdW) | 2:48 |
+| 54 | [Graves Into Gardens \- Acoustic](https://open.spotify.com/track/0yMTBqAAAtjNtCkphns47E) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Graves Into Gardens \(Acoustic\)](https://open.spotify.com/album/2lgBs5Jkwh9k8LvRxCaNmF) | 4:38 |
+| 55 | [Ever Closer](https://open.spotify.com/track/7FPk4lvq4NbxZhAcVn6vdI) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Ever Closer](https://open.spotify.com/album/71LjLdoffQMtueXs1nJkCc) | 3:52 |
+| 56 | [Holy, Holy, Holy](https://open.spotify.com/track/6xO4gnKFDGCvLiIFiiDsLT) | [John Tibbs](https://open.spotify.com/artist/4Wm66SItUBLYFqJq03WH6d) | [Holy, Holy, Holy](https://open.spotify.com/album/4iCzXfUIGxmEX8DA42flzB) | 2:26 |
 | 57 | [Be My Shalom](https://open.spotify.com/track/6eGFb1mib8IH3F6QGirRIG) | [Evan Craft](https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4), [Meredith Andrews](https://open.spotify.com/artist/6qk2W9h3eE5UtPJlIatzsY) | [Be My Shalom](https://open.spotify.com/album/5Q3pr1K8HU2taEjuQavQac) | 3:07 |
 | 58 | [Rest On Us](https://open.spotify.com/track/4NPEyG5EK6PwJCBNr9phnE) | [Ben Potter](https://open.spotify.com/artist/7MgoxvbWh0Svv2Yqt0V2iX), [Eric Gilmour](https://open.spotify.com/artist/6fVjCsKdS30DoRnMfOlG4j) | [Rest On Us](https://open.spotify.com/album/6CMg5UAglJqxvtWakN3YcF) | 3:29 |
 | 59 | [Hold On](https://open.spotify.com/track/47GwIvmWNwmzurul1rFyJ2) | [Lydia Laird](https://open.spotify.com/artist/6zuKZ8dwAsS828nS4xyZ9y) | [Hold On](https://open.spotify.com/album/4UycA6we6inG3usBonCkN5) | 3:37 |
 | 60 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
-| 61 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 |
-| 62 | [No Hopeless Soul \- Unplugged](https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [No Hopeless Soul](https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk) | 3:13 |
+| 61 | [No Hopeless Soul \- Unplugged](https://open.spotify.com/track/6wMKTbF8Vi03uBJDGHZcHC) | [Stephen Stanley](https://open.spotify.com/artist/5uGLuPqfATGbvk6shtjDoX) | [No Hopeless Soul](https://open.spotify.com/album/5mg0wELBle06BD2gHOafYk) | 3:13 |
+| 62 | [Lord Send Revival \- Acoustic](https://open.spotify.com/track/13cY2FEHsAtgwJANN9kRKr) | [Hillsong Young & Free](https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ) | [All Of My Best Friends \(Acoustic\)](https://open.spotify.com/album/4nPE5EwG89V0ZNTPUpm7OA) | 4:53 |
 | 63 | [Battle Is the Lord's](https://open.spotify.com/track/2kj7BxMb1pUQOFK2tDE8gi) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v) | [Battle Is the Lord's](https://open.spotify.com/album/2tuiNFjJyMb9lbhcjz4j6g) | 3:55 |
 | 64 | [Learning to Let You Go](https://open.spotify.com/track/1cAaPTC1aCFsOUFVmfZri3) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [Learning to Let You Go](https://open.spotify.com/album/4M7526VytrMjd32RxtGJXy) | 3:31 |
 | 65 | [Way Maker \- Acoustic](https://open.spotify.com/track/4mX7EwCwqR6iW2Wl5WzDxG) | [Will Morrison](https://open.spotify.com/artist/34VjmhQP0q93vBQ8eganjB) | [Way Maker \(Acoustic\)](https://open.spotify.com/album/5KAHkPE1V2eFznIELyRYNX) | 4:13 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbhg05xUNqBY.md) - [plain]
 | 67 | [Same God \- Acoustic](https://open.spotify.com/track/4Q4fzpczkjfZRdpt6P2gDW) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Same God \(Acoustic\)](https://open.spotify.com/album/2r1aM6zqJOqmFBiCiQQ2Lt) | 3:44 |
 | 68 | [Dawn](https://open.spotify.com/track/5rKbWEBYZNIR3ep6pBOK0t) | [Rebecca St\. James](https://open.spotify.com/artist/1SaELUYn7deVoQ9kGDGUD9), [Luke Smallbone](https://open.spotify.com/artist/4HNwDTkRZBK8UyA54udpGX) | [Dawn](https://open.spotify.com/album/4X8FlSjZW7YUTj277XNyFY) | 4:57 |
 | 69 | [Kingdom of God](https://open.spotify.com/track/2jneHgyd1uUIfk7eVhqmDK) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Kingdom of God](https://open.spotify.com/album/6AjIsBDVmomaL3GeB3H7uJ) | 4:47 |
-| 70 | [Holy Love](https://open.spotify.com/track/6DBGrnhBL00xF2B94oGdd9) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db), [Taylor Leonhardt](https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i) | [Holy Love](https://open.spotify.com/album/5xw7giFJg2lKDi5OKcZESt) | 4:07 |
+| 70 | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/track/6Qn5PXBQQxfTeu7QT742MQ) | [Ri\-An](https://open.spotify.com/artist/0q8s2UD3GPKFfYuXWbvRVo), [Sebastien Corn](https://open.spotify.com/artist/601DNxtvVupKqvm3STxGTW) | [In Christ Alone \(En Jésus Seul\)](https://open.spotify.com/album/7H8MtnvyshMhC5LVKRqBQL) | 3:42 |
 
-Snapshot ID: `MCxhNmI4ODhiNTQxMzNiN2I2ZDc2MjU2OGNjMjI0NGZjYjNlNjIzODYy`
+Snapshot ID: `MCw1MWIxNGRmZTdmNWVlZTU0OGI3MjAxOTdmYTRkOWUzOGU3OTYzMWVi`

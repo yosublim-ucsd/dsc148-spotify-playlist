@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 733,178 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,079 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [DISKOTEKA](https://open.spotify.com/track/16jNbcjTGEskPA06R4wbQz) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [DISKOTEKA](https://open.spotify.com/album/6B3r8BialUCTnVf6o8D4yQ) | 2:12 |
 | 50 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 |
 
-Snapshot ID: `MCw2MDZiZjIwODViZjFjMDUxMGIxZDg1ODI0YmI3Y2UwNjZhNGVlZGNl`
+Snapshot ID: `MCw0ZDM0MmNkZmM1NzczNmI3YzkyNzg1MDNjZTM3OGUxNTEwMzhjNzFk`

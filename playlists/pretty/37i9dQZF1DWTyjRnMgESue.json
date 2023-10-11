@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Ed Sheeran",
-  "num_followers": 63012,
+  "num_followers": 63137,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMDlkNThiZTNhMDgwNGRiMTdiYTY3NGVmMTliZTgzMTZmYWYxNDM1",
+  "snapshot_id": "MCxlYzA3NzVkYzhkMTI3NDViYzg3OTdjMGViZWE3ZDM1ZTE2NGI5YTdm",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "In These Silent Days",
-        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
-      },
-      "artists": [
-        {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
-        }
-      ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Sapling / Signs Of Life",
         "url": "https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 257853,
       "name": "Sapling",
       "url": "https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "In These Silent Days",
+        "url": "https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Green Eyes",
-        "url": "https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz"
-      },
-      "artists": [
-        {
-          "name": "Jake Scott",
-          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
-        }
-      ],
-      "duration_ms": 150180,
-      "name": "Green Eyes",
-      "url": "https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Are You Happy Now?",
         "url": "https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 160533,
       "name": "How Do You Dress for the Rain?",
       "url": "https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz"
+      },
+      "artists": [
+        {
+          "name": "Jake Scott",
+          "url": "https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV"
+        }
+      ],
+      "duration_ms": 150180,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "handgun",
+        "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
+      },
+      "artists": [
+        {
+          "name": "jake minch",
+          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
+        }
+      ],
+      "duration_ms": 173446,
+      "name": "handgun",
+      "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Light Year (feat. Lennon Stella)",
         "url": "https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 188043,
       "name": "Light Year (feat. Lennon Stella)",
       "url": "https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "handgun",
-        "url": "https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL"
-      },
-      "artists": [
-        {
-          "name": "jake minch",
-          "url": "https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC"
-        }
-      ],
-      "duration_ms": 173446,
-      "name": "handgun",
-      "url": "https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Colour Your World",
-        "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
-      },
-      "artists": [
-        {
-          "name": "Mega",
-          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
-        }
-      ],
-      "duration_ms": 193367,
-      "name": "If Not My Heart",
-      "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Midnight",
         "url": "https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 228066,
       "name": "Midnight",
       "url": "https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Colour Your World",
+        "url": "https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ"
+      },
+      "artists": [
+        {
+          "name": "Mega",
+          "url": "https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg"
+        }
+      ],
+      "duration_ms": 193367,
+      "name": "If Not My Heart",
+      "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Is It Just Me?",
-        "url": "https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi"
-      },
-      "artists": [
-        {
-          "name": "Meg McRee",
-          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
-        }
-      ],
-      "duration_ms": 201120,
-      "name": "Mary Jane & Chardonnay",
-      "url": "https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "I BELIEVE",
         "url": "https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 206999,
       "name": "I BELIEVE",
       "url": "https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Is It Just Me?",
+        "url": "https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi"
+      },
+      "artists": [
+        {
+          "name": "Meg McRee",
+          "url": "https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Mary Jane & Chardonnay",
+      "url": "https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

@@ -4,7 +4,7 @@
 
 > Éxitos urbanos de Latinoamérica con Bad Bunny.
 
-700 songs - 1 day 14 hr 51 min
+701 songs - 1 day 14 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,7 +562,7 @@
 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 | 2023-07-14 |  |
 | [Sabe](https://open.spotify.com/track/0XYZhJIcwKNjd0tjbSXwaQ) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Parte de Mí](https://open.spotify.com/album/3ma7if5xuOYxZouDsuCsdP) | 2:57 | 2021-12-17 | 2022-06-14 |
 | [Sabor A Miel](https://open.spotify.com/track/0Umk0kzKHlXsLw2NsP5IHE) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales](https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx) | 2:51 | 2022-09-02 | 2022-10-29 |
-| [Sahara](https://open.spotify.com/track/5G1KCcMIWwbtdICHAMEkcj) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Sahara](https://open.spotify.com/album/4UNDV8AqUornyJWPnlRWQs) | 2:55 | 2023-09-21 |  |
+| [Sahara](https://open.spotify.com/track/5G1KCcMIWwbtdICHAMEkcj) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94) | [Sahara](https://open.spotify.com/album/4UNDV8AqUornyJWPnlRWQs) | 2:55 | 2023-09-21 | 2023-10-11 |
 | [Sale Pa la Calle](https://open.spotify.com/track/5oAzWgKYosXee4Xfjpkbt6) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:31 | 2023-08-10 |  |
 | [Salgo a Bailar](https://open.spotify.com/track/7xX7bER73YZSE4m76OpMXV) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Salgo a Bailar](https://open.spotify.com/album/0uRoHlgfvgSwumltupp9vs) | 2:37 | 2023-09-01 |  |
 | [Salimo de Noche](https://open.spotify.com/track/6P096SaOzrgGxs8NWOfX7M) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Salimo de Noche](https://open.spotify.com/album/0S3Zf8tQnpcnRbzY9qJ2x8) | 2:57 | 2021-12-17 | 2022-04-29 |
@@ -633,6 +633,7 @@
 | [Toda Guapa](https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Fran C](https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8) | [Toda Guapa](https://open.spotify.com/album/5jBPkUmcXBzPyff2y1Wzc2) | 2:35 | 2023-05-05 | 2023-06-30 |
 | [Toda Remix \- Remix](https://open.spotify.com/track/47ZS1OjnJpJVfGN9yHXfMn) | [Alex Rose](https://open.spotify.com/artist/2DspEsT7UXGKd2VaaedgG4), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y), [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW) | [Toda Remix](https://open.spotify.com/album/49BbDxaXZIPz4sZE6G7618) | 6:07 | 2022-01-13 | 2022-05-13 |
 | [Todas Mueren por Mí](https://open.spotify.com/track/2uMoRVFsd7ET4bLrDqu6y8) | [Cartel De Santa](https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP) | [Greatest \- Hits](https://open.spotify.com/album/5iZB8JDxunNlWFTc3BdEHp) | 3:41 | 2021-12-17 | 2022-06-28 |
+| [Todos Mienten](https://open.spotify.com/track/5d5OZU83S7zk9tywpKXU7H) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg), [Los Rogelios](https://open.spotify.com/artist/3Iq3cJnSTLqSEg7IFzsers), [ElMalaFama](https://open.spotify.com/artist/4jyb6tiyWziOp0Gu1Gre49), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Robin Rouse](https://open.spotify.com/artist/36pU0SBDFZq23Ca4qq40jg) | [Todos Mienten](https://open.spotify.com/album/3Smf95F1l0e8wO5TDfpnpV) | 6:24 | 2023-10-10 |  |
 | [TOP 5](https://open.spotify.com/track/7JZ5mOTea5T4LH0UdwCsWx) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Temporada de Reggaetón](https://open.spotify.com/album/48vGyeerQqM7mWU0JzRkAl) | 2:26 | 2022-01-13 | 2022-05-13 |
 | [Tormenta \(feat\. Bad Bunny\)](https://open.spotify.com/track/38UYeBLfvpnDSG9GznZdnL) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Cracker Island](https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan) | 3:13 | 2023-03-17 | 2023-07-22 |
 | [TORO](https://open.spotify.com/track/1fnQGR72fCePrSjdD4XZpt) | [Jowell & Randy](https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs) | [Toro](https://open.spotify.com/album/3r2ezgmQBn4LdV2HNyo7y2) | 4:14 | 2022-10-14 | 2023-03-18 |

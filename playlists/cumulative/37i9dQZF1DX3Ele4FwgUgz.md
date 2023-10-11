@@ -4,7 +4,7 @@
 
 > Music from "Love Live! Nijigasaki High School Idol Club" 「ラブライブ！虹ヶ咲学園スクールアイドル同好会」の楽曲を1つのプレイリストで。<br/>©2022 プロジェクトラブライブ！虹ヶ咲学園スクールアイドル同好会
 
-122 songs - 8 hr 29 min
+124 songs - 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Cheer for you!!](https://open.spotify.com/track/3IBLu2lUtOtuXEbh20H7Y0) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Dream Land!Dream World!](https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN) | 3:39 | 2022-06-25 | 2022-07-22 |
 | [Cherry Bomb](https://open.spotify.com/track/6Ut3eQN8VLwQXjRejHmNk3) | [Setsuna Yuki \(CV: Coco Hayashi\)](https://open.spotify.com/artist/4uhgRKs6zvKdexMFWGRxwT) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 3:39 | 2023-10-03 |  |
 | [Colorful Dreams! Colorful Smiles!](https://open.spotify.com/track/6Z5h7cmLThLY6AlRPGR1kq) | [虹ヶ咲学園スクールアイドル同好会](https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1) | [Colorful Dreams! Colorful Smiles!](https://open.spotify.com/album/6lBta1zPCDQhOb09DfhCcO) | 4:24 | 2022-06-25 | 2023-06-28 |
+| [Cooking with Love](https://open.spotify.com/track/3fezscuqnw3AFYPDOoMXan) | [Kanata Konoe \(CV: Akari Kito\)](https://open.spotify.com/artist/7bjCUJfthLYihRCjhrx4Ev) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 3:51 | 2023-10-03 |  |
 | [Diabolic mulier](https://open.spotify.com/track/0OnCmz8Pdgj2CBcLew7D5Z) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [L!L!L! \(Love the Life We Live\)](https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i) | 4:05 | 2022-06-25 | 2022-07-21 |
 | [DIVE!](https://open.spotify.com/track/1U1MCOvXcpTguCzyXyBE90) | [優木せつ菜 \(CV.楠木ともり\)](https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN) | [Dream with You / Poppin' Up! / DIVE! \(優木せつ菜盤\)](https://open.spotify.com/album/2B6zWwAKJXh0RMSne3pQvZ) | 4:03 | 2022-06-25 |  |
 | [Dream Land!Dream World!](https://open.spotify.com/track/7qpVKG6LJb1OORejlgkN9b) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Dream Land!Dream World!](https://open.spotify.com/album/6OqZjoN8TM3WSbwHRfRZfN) | 3:51 | 2022-06-25 | 2023-10-09 |
@@ -64,10 +65,11 @@
 | [Not Sad](https://open.spotify.com/track/0jfqESQKZffIftSyZUAbPx) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [Swinging!](https://open.spotify.com/album/3m6u28D0IqjWvNFbazxH9K) | 4:17 | 2022-06-25 | 2022-07-28 |
 | [PASTEL](https://open.spotify.com/track/5Ua417wd0zaOjIcC0bDe7Q) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [PASTEL](https://open.spotify.com/album/5VNJPg765C7xruuoJX92Xd) | 3:51 | 2022-11-22 |  |
 | [Poker face&お願い!Fairy](https://open.spotify.com/track/13SJhZ8YrJP2uyTWhbGIvb) | [A・ZU・NA](https://open.spotify.com/artist/6J6RrsIzXnWKqcFu7ri9Pd) | [Infinity! Our wings!!](https://open.spotify.com/album/2QVpsejvYq0As5FLW3BFoo) | 4:47 | 2022-06-25 | 2023-02-12 |
-| [Poppin' Up!](https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [Dream with You / Poppin' Up! / DIVE! \(中須かすみ盤\)](https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar) | 4:18 | 2022-06-25 |  |
+| [Poppin' Up!](https://open.spotify.com/track/0paCkEf09T6bhSrr5ZkIEe) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [Dream with You / Poppin' Up! / DIVE! \(中須かすみ盤\)](https://open.spotify.com/album/3lChyBrPhbKYt1uEL0o0ar) | 4:18 | 2022-06-25 | 2023-10-11 |
 | [Queendom](https://open.spotify.com/track/1ydn7r96t51VLtpZ5T8CeI) | [鐘 嵐珠 \(CV.法元明菜\)](https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK) | [MONSTER GIRLS](https://open.spotify.com/album/0oMa84sBIJyioafjIAvEar) | 3:59 | 2022-07-26 |  |
 | [Queendom](https://open.spotify.com/track/24YAlEszD3FMlpqUUgKhSy) | [鐘 嵐珠 \(CV.法元明菜\)](https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK) | [MONSTER GIRLS](https://open.spotify.com/album/4v7l44G9d8Xls4O0gEYvyi) | 3:59 | 2022-06-25 | 2022-07-29 |
 | [Say Good\-Bye 涙](https://open.spotify.com/track/3SI3r4xZo4wawWw0iv9p5K) | [上原歩夢 \(CV.大西亜玖璃\)](https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:01 | 2022-06-25 | 2022-07-29 |
+| [Senobi shitatte](https://open.spotify.com/track/3VMVavIjzv2gIMmMpaDxYv) | [Kasumi Nakasu \(CV: Mayu Sagara\)](https://open.spotify.com/artist/3iu88M69eEW3iir7oStMqB) | [Fly with You!!](https://open.spotify.com/album/0liOwoOHpSHuRVt6DcvTFX) | 4:11 | 2023-10-03 |  |
 | [Shadow Effect](https://open.spotify.com/track/2p8XDR373QnaS1iNrqASfe) | [DiverDiva](https://open.spotify.com/artist/0PyKHNnxTNPQDA4Ow7jRnd) | [Shadow Effect](https://open.spotify.com/album/2YAcYDJt8KOSKbU4JoHBFJ) | 3:56 | 2022-10-04 |  |
 | [Silent Blaze](https://open.spotify.com/track/4O0Lc6uip1ApCNNVF9yLVs) | [近江彼方 \(CV.鬼頭明里\)](https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI) | [L!L!L! \(Love the Life We Live\)](https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i) | 4:02 | 2022-06-25 | 2022-07-29 |
 | [Sing & Smile!!](https://open.spotify.com/track/305C9BYvdU0bLNfMI3bhPw) | [QU4RTZ](https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK) | [Sing & Smile!!](https://open.spotify.com/album/21Q8yMfBtYhvX4bve6h8AW) | 4:41 | 2022-06-25 |  |
@@ -91,7 +93,7 @@
 | [☆ワンダーランド☆](https://open.spotify.com/track/4Pxuo9SNT3CuNNd1WdOjIB) | [中須かすみ \(CV.相良茉優\)](https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA) | [Love U my friends](https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV) | 3:04 | 2022-06-25 | 2022-07-28 |
 | [あなたの理想のヒロイン](https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 5:26 | 2022-06-25 | 2023-10-04 |
 | [いつだってfor you!](https://open.spotify.com/track/2RGnf6gCBZtUXDSG8Saes5) | [エマ・ヴェルデ \(CV.指出毬亜\)](https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M) | [L!L!L! \(Love the Life We Live\)](https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i) | 4:00 | 2022-06-25 | 2022-07-29 |
-| [めっちゃGoing!!](https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:48 | 2022-06-25 |  |
+| [めっちゃGoing!!](https://open.spotify.com/track/1zejfjJaa1blkQzijxLBeN) | [宮下 愛 \(CV.村上奈津実\)](https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01) | [TOKIMEKI Runners](https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ) | 4:48 | 2022-06-25 | 2023-10-11 |
 | [やがてひとつの物語](https://open.spotify.com/track/0EoTGDUKh0Se9mChgBghmp) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:20 | 2022-06-25 | 2022-07-28 |
 | [アナログハート](https://open.spotify.com/track/6vWqcL79ETNeXDZpR231Tn) | [天王寺璃奈 \(CV.田中ちえ美\)](https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3) | [Just Believe!!!](https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA) | 4:40 | 2022-06-25 | 2022-07-23 |
 | [エイエ戦サー](https://open.spotify.com/track/2HJeb0v2zfXtnvsL7wxWFq) | [桜坂しずく \(CV.前田佳織里\)](https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq) | [L!L!L! \(Love the Life We Live\)](https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i) | 4:23 | 2022-06-25 | 2022-07-29 |

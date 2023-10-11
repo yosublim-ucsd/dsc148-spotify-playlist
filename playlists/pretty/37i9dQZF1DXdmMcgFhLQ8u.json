@@ -1,12 +1,12 @@
 {
   "description": "These country songs know exactly how you feel.",
-  "num_followers": 182693,
+  "num_followers": 182798,
   "original_name": "Country Heartache",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTRhYWUwNTZmYmY5YWIyYzA1Yzg4MGFiOTY0NzljZDZmMTJlZTQ3",
+  "snapshot_id": "MCw2NDgzNWRiMWI4ZjZmNGI2ZmUyNmVkZDE5MWI5MmYyZGM2ZTU3YjMx",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -111,22 +111,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Sayin' What I'm Thinkin'",
-        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 203373,
-      "name": "Things a Man Oughta Know",
-      "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Dan + Shay",
         "url": "https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 196746,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/42fw0rxRO2xbesF6mJfd4Y"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Sayin' What I'm Thinkin'",
+        "url": "https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 203373,
+      "name": "Things a Man Oughta Know",
+      "url": "https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -287,22 +287,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "29: Written In Stone",
-        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
-      },
-      "artists": [
-        {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        }
-      ],
-      "duration_ms": 191226,
-      "name": "What He Didn't Do",
-      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "I Quit Drinking",
         "url": "https://open.spotify.com/album/5c5S9cyjHKBQRm1DGU1E8J"
       },
@@ -339,18 +323,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
+        "name": "29: Written In Stone",
+        "url": "https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a"
       },
       "artists": [
         {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
         }
       ],
-      "duration_ms": 186106,
-      "name": "Cold As You",
-      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
+      "duration_ms": 191226,
+      "name": "What He Didn't Do",
+      "url": "https://open.spotify.com/track/5OLaVCAM2pqg7X9mAM2W8M"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Mr. Misunderstood",
+        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "duration_ms": 179346,
+      "name": "Record Year",
+      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -371,18 +371,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Mr. Misunderstood",
-        "url": "https://open.spotify.com/album/1QIZsTZrZdQwQ9QJnFoFao"
+        "name": "What You See Ain't Always What You Get (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 179346,
-      "name": "Record Year",
-      "url": "https://open.spotify.com/track/5fSPbm5lcwtqwXkeQQswW8"
+      "duration_ms": 186106,
+      "name": "Cold As You",
+      "url": "https://open.spotify.com/track/7IWV29mryrqtO0JVgnPtfv"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -423,18 +423,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Did I Shave My Legs For This?",
-        "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
+        "name": "Carly Pearce",
+        "url": "https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc"
       },
       "artists": [
         {
-          "name": "Deana Carter",
-          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
+          "name": "Carly Pearce",
+          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
+        },
+        {
+          "name": "Lee Brice",
+          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
         }
       ],
-      "duration_ms": 291533,
-      "name": "Strawberry Wine",
-      "url": "https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH"
+      "duration_ms": 198688,
+      "name": "I Hope You\u2019re Happy Now",
+      "url": "https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -455,22 +459,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Carly Pearce",
-        "url": "https://open.spotify.com/album/44gX26I9jSjyy1KXAgquPc"
+        "name": "Did I Shave My Legs For This?",
+        "url": "https://open.spotify.com/album/3rVrwVrTgiFmCBZCmYBryn"
       },
       "artists": [
         {
-          "name": "Carly Pearce",
-          "url": "https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72"
-        },
-        {
-          "name": "Lee Brice",
-          "url": "https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk"
+          "name": "Deana Carter",
+          "url": "https://open.spotify.com/artist/0aqrM7Fo3Ml66Kc5JAzmjt"
         }
       ],
-      "duration_ms": 198688,
-      "name": "I Hope You\u2019re Happy Now",
-      "url": "https://open.spotify.com/track/0Al3wN3keprGTSgG8NBwjr"
+      "duration_ms": 291533,
+      "name": "Strawberry Wine",
+      "url": "https://open.spotify.com/track/5Pgwi0iizu96RHxJ4xL3SH"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Telling All My Secrets",
-        "url": "https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        }
-      ],
-      "duration_ms": 211767,
-      "name": "Drunk Me",
-      "url": "https://open.spotify.com/track/1G4cdOtF36ZCs6i2dZoC87"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "All of It",
         "url": "https://open.spotify.com/album/2SxBuClrOCg8WZPXEDobmm"
       },
@@ -643,34 +627,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The First Time",
-        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+        "name": "Telling All My Secrets",
+        "url": "https://open.spotify.com/album/4ZRa15xusMfr3hLWUNGBG0"
       },
       "artists": [
         {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
         }
       ],
-      "duration_ms": 200040,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "What Do They Know",
-        "url": "https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0"
-      },
-      "artists": [
-        {
-          "name": "Tyler Braden",
-          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
-        }
-      ],
-      "duration_ms": 219640,
-      "name": "Try Losing One",
-      "url": "https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7"
+      "duration_ms": 211767,
+      "name": "Drunk Me",
+      "url": "https://open.spotify.com/track/1G4cdOtF36ZCs6i2dZoC87"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -691,6 +659,38 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "What Do They Know",
+        "url": "https://open.spotify.com/album/0NR3FJJhD27XgurmHEQHY0"
+      },
+      "artists": [
+        {
+          "name": "Tyler Braden",
+          "url": "https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N"
+        }
+      ],
+      "duration_ms": 219640,
+      "name": "Try Losing One",
+      "url": "https://open.spotify.com/track/6mDokQBBmkDhu7uDEFhyQ7"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The First Time",
+        "url": "https://open.spotify.com/album/4smRLX0wglNhMXGyahWuUf"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/2wqXQjOmQ9KoBm9Ssgt4Fo"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Chasing After You (with Maren Morris)",
         "url": "https://open.spotify.com/album/5QUwCi1lbk0kZ5k87fRNbK"
       },
@@ -707,22 +707,6 @@
       "duration_ms": 207973,
       "name": "Chasing After You (with Maren Morris)",
       "url": "https://open.spotify.com/track/1ZIKpMTRPqhwAoVXWY3tXI"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "You Should Be Here",
-        "url": "https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei"
-      },
-      "artists": [
-        {
-          "name": "Cole Swindell",
-          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
-        }
-      ],
-      "duration_ms": 190173,
-      "name": "You Should Be Here",
-      "url": "https://open.spotify.com/track/63thx7OANplv4I4BQsanHk"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -759,6 +743,22 @@
       "duration_ms": 242840,
       "name": "You and Tequila (feat. Grace Potter)",
       "url": "https://open.spotify.com/track/1t2hJFgJyUPD2crOafMUEk"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "You Should Be Here",
+        "url": "https://open.spotify.com/album/7EZEhfO3ULNRHwX2jaiGei"
+      },
+      "artists": [
+        {
+          "name": "Cole Swindell",
+          "url": "https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW"
+        }
+      ],
+      "duration_ms": 190173,
+      "name": "You Should Be Here",
+      "url": "https://open.spotify.com/track/63thx7OANplv4I4BQsanHk"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -907,18 +907,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "From A Room: Volume 1",
-        "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
+        "name": "Weekends Look A Little Different These Days",
+        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Brett Young",
+          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
         }
       ],
-      "duration_ms": 248053,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/6Wo5YxkdXgwzKQZbDg2r17"
+      "duration_ms": 225813,
+      "name": "You Didn\u2019t",
+      "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Weekends Look A Little Different These Days",
-        "url": "https://open.spotify.com/album/2JJ2v7A5nR6HaYxyO2T0PX"
-      },
-      "artists": [
-        {
-          "name": "Brett Young",
-          "url": "https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0"
-        }
-      ],
-      "duration_ms": 225813,
-      "name": "You Didn\u2019t",
-      "url": "https://open.spotify.com/track/5Jwcv2Le3Klwgrgyqa12ZA"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "SOUTHSIDE",
         "url": "https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 215933,
       "name": "Breaking Up Was Easy In The 90's",
       "url": "https://open.spotify.com/track/4sf2L157iEgAR7yrCNLgSq"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "From A Room: Volume 1",
+        "url": "https://open.spotify.com/album/5L0e8X6Mf9lfjs2miK2WUB"
+      },
+      "artists": [
+        {
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+        }
+      ],
+      "duration_ms": 248053,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/6Wo5YxkdXgwzKQZbDg2r17"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Giving You Up (Acoustic)",
-        "url": "https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD"
-      },
-      "artists": [
-        {
-          "name": "Kameron Marlowe",
-          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
-        }
-      ],
-      "duration_ms": 232039,
-      "name": "Giving You Up - Acoustic",
-      "url": "https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "First Taste of Gone",
         "url": "https://open.spotify.com/album/3K8GylZf6YCpFCUVG6UCJg"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 172782,
       "name": "First Taste of Gone",
       "url": "https://open.spotify.com/track/1ynN7dkkujotC2rL31qX48"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Giving You Up (Acoustic)",
+        "url": "https://open.spotify.com/album/7MQzvFfSyYioQwB6r98dwD"
+      },
+      "artists": [
+        {
+          "name": "Kameron Marlowe",
+          "url": "https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI"
+        }
+      ],
+      "duration_ms": 232039,
+      "name": "Giving You Up - Acoustic",
+      "url": "https://open.spotify.com/track/5NIGKX5at9iO87OyOHmoiV"
     },
     {
       "added_at": "2023-10-06 04:00:00",

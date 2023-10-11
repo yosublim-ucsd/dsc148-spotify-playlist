@@ -1,12 +1,12 @@
 {
   "description": "und macht laune",
-  "num_followers": 508129,
+  "num_followers": 508510,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NTk5ZDY5OTRjMTk0MWE5ZjdmMjhhMWYzZGIxZGJhMTVjYjk5NGU2",
+  "snapshot_id": "MCw0ZjQzMDQ1ZjExODgyMDYyMzAyN2U5ZGM1YzI0MWE1ZTJlMTQwNGVi",
   "tracks": [
     {
       "added_at": "2023-10-03 11:57:51",
@@ -243,30 +243,6 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "Friesenjung",
-        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
-      },
-      "artists": [
-        {
-          "name": "Ski Aggu",
-          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
-        },
-        {
-          "name": "Joost",
-          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
-        },
-        {
-          "name": "Otto Waalkes",
-          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
-        }
-      ],
-      "duration_ms": 146086,
-      "name": "Friesenjung",
-      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
         "name": "Thunder",
         "url": "https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf"
       },
@@ -287,6 +263,30 @@
       "duration_ms": 160000,
       "name": "Thunder",
       "url": "https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
+        "name": "Friesenjung",
+        "url": "https://open.spotify.com/album/4yavemUxS14K84SLwsHNmn"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Joost",
+          "url": "https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR"
+        },
+        {
+          "name": "Otto Waalkes",
+          "url": "https://open.spotify.com/artist/1T6DQ853AlyL47W8a2jC0f"
+        }
+      ],
+      "duration_ms": 146086,
+      "name": "Friesenjung",
+      "url": "https://open.spotify.com/track/6tAKikIvnoWfUeZrfkopLL"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
+        "name": "Big Jet Plane",
+        "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Big Jet Plane",
+      "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
         "name": "Fine Day Anthem",
         "url": "https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb"
       },
@@ -495,18 +511,18 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "Big Jet Plane",
-        "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
+        "name": "Bicep",
+        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
       },
       "artists": [
         {
-          "name": "Restricted",
-          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Big Jet Plane",
-      "url": "https://open.spotify.com/track/6nYJWAPKIJfXIKtiYc4P4O"
+      "duration_ms": 269149,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -531,22 +547,6 @@
       "duration_ms": 155020,
       "name": "Anders",
       "url": "https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
-        "name": "Bicep",
-        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 269149,
-      "name": "Glue",
-      "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1043,18 +1043,18 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "Mangos mit Chili",
-        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
+        "name": "How I Fell in Love",
+        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
       },
       "artists": [
         {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+          "name": "CH4YN",
+          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
         }
       ],
-      "duration_ms": 134887,
-      "name": "Mangos mit Chili",
-      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
+      "duration_ms": 112551,
+      "name": "How I Fell in Love",
+      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "How I Fell in Love",
-        "url": "https://open.spotify.com/album/461FLD6OW9OextuRH70VKF"
+        "name": "Mangos mit Chili",
+        "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
       },
       "artists": [
         {
-          "name": "CH4YN",
-          "url": "https://open.spotify.com/artist/3G42n5HyIQhYUmKX67yOaU"
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
         }
       ],
-      "duration_ms": 112551,
-      "name": "How I Fell in Love",
-      "url": "https://open.spotify.com/track/2wUmENDPjBtgNvP2XmnRr7"
+      "duration_ms": 134887,
+      "name": "Mangos mit Chili",
+      "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1115,26 +1115,6 @@
       "duration_ms": 161440,
       "name": "Durstl\u00f6scher",
       "url": "https://open.spotify.com/track/2QAsTQ1tydZ6mhYH2FyzfG"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
-        "name": "Peter Pan",
-        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
-      },
-      "artists": [
-        {
-          "name": "Julian Sommer",
-          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
-        },
-        {
-          "name": "Mia Julia",
-          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
-        }
-      ],
-      "duration_ms": 210869,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1171,6 +1151,26 @@
       "duration_ms": 161454,
       "name": "Es kracht in Buxtehude",
       "url": "https://open.spotify.com/track/1oryzuL2gSZMmTGgKD3sh1"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
+        "name": "Peter Pan",
+        "url": "https://open.spotify.com/album/6z3sGEQXxPO0lx5SOWGHgn"
+      },
+      "artists": [
+        {
+          "name": "Julian Sommer",
+          "url": "https://open.spotify.com/artist/77puYb4Nubacm3PAzkY1UQ"
+        },
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        }
+      ],
+      "duration_ms": 210869,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/5CvAzdenlzv3ImMcG7awJV"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1235,26 +1235,6 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "All Night",
-        "url": "https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm"
-      },
-      "artists": [
-        {
-          "name": "RAF Camora",
-          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
-        },
-        {
-          "name": "Luciano",
-          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
-        }
-      ],
-      "duration_ms": 153674,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
         "name": "Down Under (feat. Colin Hay)",
         "url": "https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW"
       },
@@ -1271,6 +1251,26 @@
       "duration_ms": 158774,
       "name": "Down Under (feat. Colin Hay)",
       "url": "https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
+        "name": "All Night",
+        "url": "https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm"
+      },
+      "artists": [
+        {
+          "name": "RAF Camora",
+          "url": "https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L"
+        },
+        {
+          "name": "Luciano",
+          "url": "https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg"
+        }
+      ],
+      "duration_ms": 153674,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "Rave Harder Techno Bass",
-        "url": "https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe"
-      },
-      "artists": [
-        {
-          "name": "Mark Dekoda",
-          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
-        }
-      ],
-      "duration_ms": 360000,
-      "name": "Rave Harder Techno Bass",
-      "url": "https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
         "name": "Say It Right",
         "url": "https://open.spotify.com/album/7bcU3xaRbfbL62Gg6xj8ZH"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 165209,
       "name": "Say It Right",
       "url": "https://open.spotify.com/track/7v9PgkhtIlivxuFXO1Dl1V"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
+        "name": "Rave Harder Techno Bass",
+        "url": "https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe"
+      },
+      "artists": [
+        {
+          "name": "Mark Dekoda",
+          "url": "https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8"
+        }
+      ],
+      "duration_ms": 360000,
+      "name": "Rave Harder Techno Bass",
+      "url": "https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1623,6 +1623,26 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
+        "name": "33 Max Verstappen",
+        "url": "https://open.spotify.com/album/5ph3neJzadn49q1YxktC8V"
+      },
+      "artists": [
+        {
+          "name": "Carte Blanq",
+          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
+        },
+        {
+          "name": "Maxx Power",
+          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
+        }
+      ],
+      "duration_ms": 170390,
+      "name": "33 Max Verstappen",
+      "url": "https://open.spotify.com/track/4nKRZAONxGgcKCMin730Ai"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
         "name": "Schei\u00df auf eure Party 2.0",
         "url": "https://open.spotify.com/album/1MNjy6MEHcxJ5GzPt7Avte"
       },
@@ -1663,6 +1683,30 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
+        "name": "I Can Feel",
+        "url": "https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7"
+      },
+      "artists": [
+        {
+          "name": "Leony",
+          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+        },
+        {
+          "name": "Niklas Dee",
+          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
+        },
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "I Can Feel",
+      "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
         "name": "2022 war film gewesen",
         "url": "https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ"
       },
@@ -1687,46 +1731,6 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
-        "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
-      },
-      "artists": [
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
-        },
-        {
-          "name": "Chacel",
-          "url": "https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep"
-        }
-      ],
-      "duration_ms": 178614,
-      "name": "S&M (With Chacel) - HYPERTECHNO Edit",
-      "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
-        "name": "33 Max Verstappen",
-        "url": "https://open.spotify.com/album/5ph3neJzadn49q1YxktC8V"
-      },
-      "artists": [
-        {
-          "name": "Carte Blanq",
-          "url": "https://open.spotify.com/artist/2JMSG0XzHySNP6pdV6g30o"
-        },
-        {
-          "name": "Maxx Power",
-          "url": "https://open.spotify.com/artist/5xO3qTeIdumG381f7Kuqu5"
-        }
-      ],
-      "duration_ms": 170390,
-      "name": "33 Max Verstappen",
-      "url": "https://open.spotify.com/track/4nKRZAONxGgcKCMin730Ai"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
         "name": "Milkshake 20 (Alex Wann Remix)",
         "url": "https://open.spotify.com/album/4B5VkayNwax1Z2ZDThsNt9"
       },
@@ -1743,6 +1747,26 @@
       "duration_ms": 176949,
       "name": "Milkshake 20 - Alex Wann Remix",
       "url": "https://open.spotify.com/track/39jBAaaSlgM9UdZBSKDd6F"
+    },
+    {
+      "added_at": "2023-10-03 11:57:51",
+      "album": {
+        "name": "S&M (With Chacel) [HYPERTECHNO Edit]",
+        "url": "https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK"
+      },
+      "artists": [
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        },
+        {
+          "name": "Chacel",
+          "url": "https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep"
+        }
+      ],
+      "duration_ms": 178614,
+      "name": "S&M (With Chacel) - HYPERTECHNO Edit",
+      "url": "https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM"
     },
     {
       "added_at": "2023-10-03 11:57:51",
@@ -1771,46 +1795,22 @@
     {
       "added_at": "2023-10-03 11:57:51",
       "album": {
-        "name": "I Can Feel",
-        "url": "https://open.spotify.com/album/1dGXSpvShR62ZdS9k4qjy7"
+        "name": "KETA UND KRAWALL",
+        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
       },
       "artists": [
         {
-          "name": "Leony",
-          "url": "https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC"
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
         },
         {
-          "name": "Niklas Dee",
-          "url": "https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE"
-        },
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
         }
       ],
-      "duration_ms": 173360,
-      "name": "I Can Feel",
-      "url": "https://open.spotify.com/track/2siKpBqjCCIsOFf5L4AqoR"
-    },
-    {
-      "added_at": "2023-10-03 11:57:51",
-      "album": {
-        "name": "WILDES DING",
-        "url": "https://open.spotify.com/album/6nnBMvIedNf19zjzk2KGhF"
-      },
-      "artists": [
-        {
-          "name": "Valexus",
-          "url": "https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1"
-        },
-        {
-          "name": "Culcha Candela",
-          "url": "https://open.spotify.com/artist/3gemH8D6fpu12DmTmUZYAL"
-        }
-      ],
-      "duration_ms": 136204,
-      "name": "WILDES DING",
-      "url": "https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk"
+      "duration_ms": 125492,
+      "name": "KETA UND KRAWALL",
+      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
     }
   ],
   "unique_name": "schiebt anders",

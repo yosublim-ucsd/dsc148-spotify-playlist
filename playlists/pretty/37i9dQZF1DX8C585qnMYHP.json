@@ -1,12 +1,12 @@
 {
   "description": "The best new Experimental by independent artists and labels, with Estrella del Sol on cover. Updates every Wednesday.",
-  "num_followers": 117281,
+  "num_followers": 117407,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjIyNTIwNzBiYzBlM2VjMDVkNTU0OTg0ZDk2YTNlOTUzZDY0OTM3",
+  "snapshot_id": "MCxiZmRmZDY3NjNjMzczZTRkNTkzN2FlYjdlOGMwZjY0NDJiYmNlNmM1",
   "tracks": [
     {
       "added_at": "2023-08-02 14:55:57",
@@ -281,20 +281,20 @@
       "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
+      "added_at": "2023-08-30 04:00:00",
       "album": {
-        "name": "The Shuttle Bus",
-        "url": "https://open.spotify.com/album/1sZls3SUwE3dE7aLrRRHLe"
+        "name": "Birthday Party",
+        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
       },
       "artists": [
         {
-          "name": "group O",
-          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
+          "name": "Vines",
+          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
         }
       ],
-      "duration_ms": 215974,
-      "name": "The Shuttle Bus",
-      "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
+      "duration_ms": 92737,
+      "name": "drive thru",
+      "url": "https://open.spotify.com/track/7jxS1PV00IKvsvqrCRdoXC"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -313,36 +313,20 @@
       "url": "https://open.spotify.com/track/662hnQxH5qXWqMlwZnL0OA"
     },
     {
-      "added_at": "2023-10-04 14:25:37",
+      "added_at": "2023-08-16 06:00:00",
       "album": {
-        "name": "RIFT (Ambient Version)",
-        "url": "https://open.spotify.com/album/4t8epmIXuDQ6QXXBPjdajD"
+        "name": "The Shuttle Bus",
+        "url": "https://open.spotify.com/album/1sZls3SUwE3dE7aLrRRHLe"
       },
       "artists": [
         {
-          "name": "Honeychurch",
-          "url": "https://open.spotify.com/artist/7t5JF3FCDzTM64OgEVtEY5"
+          "name": "group O",
+          "url": "https://open.spotify.com/artist/77MD0CeIUigcitW3c8OfvC"
         }
       ],
-      "duration_ms": 194000,
-      "name": "State of Grace - Ambient Version",
-      "url": "https://open.spotify.com/track/2B3AOSa351dCQytIBWYQV8"
-    },
-    {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Birthday Party",
-        "url": "https://open.spotify.com/album/0SXC0ZCfo5i8qgAXWi11Te"
-      },
-      "artists": [
-        {
-          "name": "Vines",
-          "url": "https://open.spotify.com/artist/46QrQRXLvHhE54yH8J1fX7"
-        }
-      ],
-      "duration_ms": 92737,
-      "name": "drive thru",
-      "url": "https://open.spotify.com/track/7jxS1PV00IKvsvqrCRdoXC"
+      "duration_ms": 215974,
+      "name": "The Shuttle Bus",
+      "url": "https://open.spotify.com/track/73w1icJpBicVXNIyq0bPgV"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -365,6 +349,22 @@
       "url": "https://open.spotify.com/track/1aOmzJa2WQndveXvOedH36"
     },
     {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "RIFT (Ambient Version)",
+        "url": "https://open.spotify.com/album/4t8epmIXuDQ6QXXBPjdajD"
+      },
+      "artists": [
+        {
+          "name": "Honeychurch",
+          "url": "https://open.spotify.com/artist/7t5JF3FCDzTM64OgEVtEY5"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "State of Grace - Ambient Version",
+      "url": "https://open.spotify.com/track/2B3AOSa351dCQytIBWYQV8"
+    },
+    {
       "added_at": "2023-08-16 06:00:00",
       "album": {
         "name": "Shoegaze 5G",
@@ -379,6 +379,22 @@
       "duration_ms": 210908,
       "name": "The Sandcastle",
       "url": "https://open.spotify.com/track/6S1i81DSaMsjU6KwlxpvzC"
+    },
+    {
+      "added_at": "2023-08-01 21:02:30",
+      "album": {
+        "name": "Ulaan",
+        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 210267,
+      "name": "Ulaan",
+      "url": "https://open.spotify.com/track/6L3tXaAI7sceFnhTA0wRFQ"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -399,22 +415,6 @@
       "duration_ms": 160693,
       "name": "Ver a Trav\u00e9s de tus Ojos",
       "url": "https://open.spotify.com/track/2MGKlTC9Dw17dB3SztZOhU"
-    },
-    {
-      "added_at": "2023-08-01 21:02:30",
-      "album": {
-        "name": "Ulaan",
-        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 210267,
-      "name": "Ulaan",
-      "url": "https://open.spotify.com/track/6L3tXaAI7sceFnhTA0wRFQ"
     },
     {
       "added_at": "2023-07-18 19:13:40",
@@ -497,20 +497,20 @@
       "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
     },
     {
-      "added_at": "2023-08-01 21:02:30",
+      "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Ulaan",
-        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
+        "name": "Huele a Fraude",
+        "url": "https://open.spotify.com/album/33M6iurGTMMsjFC5kULSJn"
       },
       "artists": [
         {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+          "name": "Robert Ouyang Rusli",
+          "url": "https://open.spotify.com/artist/7HlECNrTc4ovaW1QLFs9vY"
         }
       ],
-      "duration_ms": 321671,
-      "name": "Picture / Three Shadows",
-      "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
+      "duration_ms": 84180,
+      "name": "Monument to Possibilities",
+      "url": "https://open.spotify.com/track/56sdpPGIid7f1GkzibrJXV"
     },
     {
       "added_at": "2023-10-04 14:25:37",
@@ -533,20 +533,20 @@
       "url": "https://open.spotify.com/track/1lMkjU3ZlTXJR7HsblUglU"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
+      "added_at": "2023-08-01 21:02:30",
       "album": {
-        "name": "Huele a Fraude",
-        "url": "https://open.spotify.com/album/33M6iurGTMMsjFC5kULSJn"
+        "name": "Ulaan",
+        "url": "https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat"
       },
       "artists": [
         {
-          "name": "Robert Ouyang Rusli",
-          "url": "https://open.spotify.com/artist/7HlECNrTc4ovaW1QLFs9vY"
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
         }
       ],
-      "duration_ms": 84180,
-      "name": "Monument to Possibilities",
-      "url": "https://open.spotify.com/track/56sdpPGIid7f1GkzibrJXV"
+      "duration_ms": 321671,
+      "name": "Picture / Three Shadows",
+      "url": "https://open.spotify.com/track/6CxtBb5fB51AKCtMciI7Ce"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -563,22 +563,6 @@
       "duration_ms": 303500,
       "name": "Hint",
       "url": "https://open.spotify.com/track/5RTICRvRhMHjURWKZvYO9y"
-    },
-    {
-      "added_at": "2023-07-18 19:13:40",
-      "album": {
-        "name": "Dogwood Variations",
-        "url": "https://open.spotify.com/album/3a2KKDtdH7jhn5aElXTESl"
-      },
-      "artists": [
-        {
-          "name": "Austin Cash",
-          "url": "https://open.spotify.com/artist/63JuPlLsaNSlB5bQzUOO7i"
-        }
-      ],
-      "duration_ms": 384727,
-      "name": "Franklin, King of the Beers",
-      "url": "https://open.spotify.com/track/0ZeRwyqeEsWZORy2lPcfHv"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -613,6 +597,22 @@
       "url": "https://open.spotify.com/track/5DNJQWIQKqmfZGDC6lYJuR"
     },
     {
+      "added_at": "2023-07-18 19:13:40",
+      "album": {
+        "name": "Dogwood Variations",
+        "url": "https://open.spotify.com/album/3a2KKDtdH7jhn5aElXTESl"
+      },
+      "artists": [
+        {
+          "name": "Austin Cash",
+          "url": "https://open.spotify.com/artist/63JuPlLsaNSlB5bQzUOO7i"
+        }
+      ],
+      "duration_ms": 384727,
+      "name": "Franklin, King of the Beers",
+      "url": "https://open.spotify.com/track/0ZeRwyqeEsWZORy2lPcfHv"
+    },
+    {
       "added_at": "2023-09-13 15:55:38",
       "album": {
         "name": "How The River Flows",
@@ -627,22 +627,6 @@
       "duration_ms": 263451,
       "name": "How The River Flows",
       "url": "https://open.spotify.com/track/4M4ote4L4R4Zs4JeOmHzo6"
-    },
-    {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "The Rot",
-        "url": "https://open.spotify.com/album/7tm2ZEs5F1ojgkcDjjcAK1"
-      },
-      "artists": [
-        {
-          "name": "fibril",
-          "url": "https://open.spotify.com/artist/4lJLsFUfYj3vw6jQaIeRB0"
-        }
-      ],
-      "duration_ms": 122258,
-      "name": "vie",
-      "url": "https://open.spotify.com/track/6zoJOYYbX1NOZb78eBztZe"
     },
     {
       "added_at": "2023-08-16 06:00:00",
@@ -675,6 +659,22 @@
       "duration_ms": 122368,
       "name": "Tinnitus Titles (Tinnitus OST)",
       "url": "https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK"
+    },
+    {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "The Rot",
+        "url": "https://open.spotify.com/album/7tm2ZEs5F1ojgkcDjjcAK1"
+      },
+      "artists": [
+        {
+          "name": "fibril",
+          "url": "https://open.spotify.com/artist/4lJLsFUfYj3vw6jQaIeRB0"
+        }
+      ],
+      "duration_ms": 122258,
+      "name": "vie",
+      "url": "https://open.spotify.com/track/6zoJOYYbX1NOZb78eBztZe"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -909,6 +909,22 @@
       "url": "https://open.spotify.com/track/34fOJJhPBB5RR1cRK5ogKz"
     },
     {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "Firefly",
+        "url": "https://open.spotify.com/album/2Na8p20PZQm4jyeSoyLxst"
+      },
+      "artists": [
+        {
+          "name": "Talik",
+          "url": "https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz"
+        }
+      ],
+      "duration_ms": 260157,
+      "name": "Gloworm",
+      "url": "https://open.spotify.com/track/1fwqhGIRtQeSNr21eSkhKF"
+    },
+    {
       "added_at": "2023-08-01 13:11:26",
       "album": {
         "name": "Gatherings",
@@ -923,22 +939,6 @@
       "duration_ms": 163320,
       "name": "Window",
       "url": "https://open.spotify.com/track/3b0AuqT3ghwDbUXXExwgoe"
-    },
-    {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "FREE EL GINGER*",
-        "url": "https://open.spotify.com/album/0Is9kTdmYy1axa5hJDv7T6"
-      },
-      "artists": [
-        {
-          "name": "GINGER*",
-          "url": "https://open.spotify.com/artist/4u3OXMzSp3Z6oAbWpqKz1e"
-        }
-      ],
-      "duration_ms": 234962,
-      "name": "APLASTADOR ALACRANE\u00d3",
-      "url": "https://open.spotify.com/track/6udPbBVJUZNsWUB03jetvK"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-10-04 14:25:37",
       "album": {
-        "name": "Firefly",
-        "url": "https://open.spotify.com/album/2Na8p20PZQm4jyeSoyLxst"
+        "name": "FREE EL GINGER*",
+        "url": "https://open.spotify.com/album/0Is9kTdmYy1axa5hJDv7T6"
       },
       "artists": [
         {
-          "name": "Talik",
-          "url": "https://open.spotify.com/artist/4cmy7XSN6YNnPZyQu7hJHz"
+          "name": "GINGER*",
+          "url": "https://open.spotify.com/artist/4u3OXMzSp3Z6oAbWpqKz1e"
         }
       ],
-      "duration_ms": 260157,
-      "name": "Gloworm",
-      "url": "https://open.spotify.com/track/1fwqhGIRtQeSNr21eSkhKF"
+      "duration_ms": 234962,
+      "name": "APLASTADOR ALACRANE\u00d3",
+      "url": "https://open.spotify.com/track/6udPbBVJUZNsWUB03jetvK"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1085,22 +1085,6 @@
       "url": "https://open.spotify.com/track/5tpvGcFAp8rF3MGy0laB7D"
     },
     {
-      "added_at": "2023-08-30 04:00:00",
-      "album": {
-        "name": "Your Problem as a Mountain",
-        "url": "https://open.spotify.com/album/32ETZyt4DObynaLJF51O90"
-      },
-      "artists": [
-        {
-          "name": "Party Milk",
-          "url": "https://open.spotify.com/artist/2oM77Kesir4L1mzaQ8O3cR"
-        }
-      ],
-      "duration_ms": 96436,
-      "name": "Every Runner",
-      "url": "https://open.spotify.com/track/6lhPLGhKKLrPGhcV0G539S"
-    },
-    {
       "added_at": "2023-07-18 19:13:40",
       "album": {
         "name": "WIREPULLER",
@@ -1131,6 +1115,22 @@
       "duration_ms": 263999,
       "name": "C (Featuring the Voice of Fred Moten)",
       "url": "https://open.spotify.com/track/3ttvx9JURlyt351VhBFmkg"
+    },
+    {
+      "added_at": "2023-08-30 04:00:00",
+      "album": {
+        "name": "Your Problem as a Mountain",
+        "url": "https://open.spotify.com/album/32ETZyt4DObynaLJF51O90"
+      },
+      "artists": [
+        {
+          "name": "Party Milk",
+          "url": "https://open.spotify.com/artist/2oM77Kesir4L1mzaQ8O3cR"
+        }
+      ],
+      "duration_ms": 96436,
+      "name": "Every Runner",
+      "url": "https://open.spotify.com/track/6lhPLGhKKLrPGhcV0G539S"
     },
     {
       "added_at": "2023-09-13 15:55:38",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2023-08-01 13:11:26",
       "album": {
-        "name": "Rebirth",
-        "url": "https://open.spotify.com/album/631ofUEwlUCpCoeLVUseu6"
-      },
-      "artists": [
-        {
-          "name": "AIKA",
-          "url": "https://open.spotify.com/artist/45Yg0CLJFZcueQqoR4CS5m"
-        }
-      ],
-      "duration_ms": 114886,
-      "name": "Room of Fear",
-      "url": "https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm"
-    },
-    {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
         "name": "Classic Fevers and Chills",
         "url": "https://open.spotify.com/album/1B9JvmQ0t27avixYQVuWb8"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 407434,
       "name": "Vibrant Books",
       "url": "https://open.spotify.com/track/0ZrSKZdcURiYrk85Z3XrT6"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/631ofUEwlUCpCoeLVUseu6"
+      },
+      "artists": [
+        {
+          "name": "AIKA",
+          "url": "https://open.spotify.com/artist/45Yg0CLJFZcueQqoR4CS5m"
+        }
+      ],
+      "duration_ms": 114886,
+      "name": "Room of Fear",
+      "url": "https://open.spotify.com/track/0Xla3rLHq8UmkD0DX6J9hm"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1271,6 +1271,22 @@
       "duration_ms": 259026,
       "name": "Misplaced Dream",
       "url": "https://open.spotify.com/track/5TXE8o5Te1UKMvRFtRyFis"
+    },
+    {
+      "added_at": "2023-08-01 13:11:26",
+      "album": {
+        "name": "Two Monkeys",
+        "url": "https://open.spotify.com/album/0roIOBFDe3nLLmNobQbggs"
+      },
+      "artists": [
+        {
+          "name": "Everything Else",
+          "url": "https://open.spotify.com/artist/1xFZYGv7rqQ21JjoO4qhGd"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Asleep",
+      "url": "https://open.spotify.com/track/7fE3ZAc2j7Z5Y4gQwW1lB0"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1309,22 +1325,6 @@
       "url": "https://open.spotify.com/track/0h4MS5onjOSx9v1vbeuoQX"
     },
     {
-      "added_at": "2023-08-01 13:11:26",
-      "album": {
-        "name": "Two Monkeys",
-        "url": "https://open.spotify.com/album/0roIOBFDe3nLLmNobQbggs"
-      },
-      "artists": [
-        {
-          "name": "Everything Else",
-          "url": "https://open.spotify.com/artist/1xFZYGv7rqQ21JjoO4qhGd"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Asleep",
-      "url": "https://open.spotify.com/track/7fE3ZAc2j7Z5Y4gQwW1lB0"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Tall Vision-of-the-Voyage",
@@ -1361,6 +1361,22 @@
       "url": "https://open.spotify.com/track/2z0xkLDfg1BwlqKREicqpQ"
     },
     {
+      "added_at": "2023-10-04 14:25:37",
+      "album": {
+        "name": "Boundless",
+        "url": "https://open.spotify.com/album/1cUYR2EBSW0DVZ6IIqFBNy"
+      },
+      "artists": [
+        {
+          "name": "David's Lyre",
+          "url": "https://open.spotify.com/artist/7r391x0B3O3T9GNLdlhaJw"
+        }
+      ],
+      "duration_ms": 155903,
+      "name": "Boundless",
+      "url": "https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ"
+    },
+    {
       "added_at": "2023-08-30 04:00:00",
       "album": {
         "name": "J\u00e1 n\u00e3o consigo mais, mas vou continuar",
@@ -1375,6 +1391,22 @@
       "duration_ms": 354031,
       "name": "J\u00e1 n\u00e3o consigo mais, mas vou continuar",
       "url": "https://open.spotify.com/track/7GUaRliFFYyWV2NuUPjsPh"
+    },
+    {
+      "added_at": "2023-08-23 14:01:12",
+      "album": {
+        "name": "Variable Happiness",
+        "url": "https://open.spotify.com/album/0PNX72AdXt7VDrkjrBXSlk"
+      },
+      "artists": [
+        {
+          "name": "Edsel Axle",
+          "url": "https://open.spotify.com/artist/00YusfX57VytvF81253D01"
+        }
+      ],
+      "duration_ms": 450253,
+      "name": "Come Down From the Tree Now",
+      "url": "https://open.spotify.com/track/3tNzbH4X3O5KxgFcPJANPt"
     },
     {
       "added_at": "2023-08-01 13:11:26",
@@ -1395,34 +1427,18 @@
     {
       "added_at": "2023-10-04 14:25:37",
       "album": {
-        "name": "Boundless",
-        "url": "https://open.spotify.com/album/1cUYR2EBSW0DVZ6IIqFBNy"
+        "name": "True",
+        "url": "https://open.spotify.com/album/7ijzRbx3rClwBIBcJLVe0t"
       },
       "artists": [
         {
-          "name": "David's Lyre",
-          "url": "https://open.spotify.com/artist/7r391x0B3O3T9GNLdlhaJw"
+          "name": "Color Plus",
+          "url": "https://open.spotify.com/artist/7pkOGM2vlSsmTeVh4HTdYH"
         }
       ],
-      "duration_ms": 155903,
-      "name": "Boundless",
-      "url": "https://open.spotify.com/track/2X3U6oC0OOfZ2rGMhf8AxQ"
-    },
-    {
-      "added_at": "2023-08-23 14:01:12",
-      "album": {
-        "name": "Variable Happiness",
-        "url": "https://open.spotify.com/album/0PNX72AdXt7VDrkjrBXSlk"
-      },
-      "artists": [
-        {
-          "name": "Edsel Axle",
-          "url": "https://open.spotify.com/artist/00YusfX57VytvF81253D01"
-        }
-      ],
-      "duration_ms": 450253,
-      "name": "Come Down From the Tree Now",
-      "url": "https://open.spotify.com/track/3tNzbH4X3O5KxgFcPJANPt"
+      "duration_ms": 122331,
+      "name": "Wired",
+      "url": "https://open.spotify.com/track/1ttEhhzFufoxZYJw2S4l69"
     },
     {
       "added_at": "2023-08-30 04:00:00",
@@ -1439,22 +1455,6 @@
       "duration_ms": 2699773,
       "name": "~",
       "url": "https://open.spotify.com/track/7a6GrnIsmcv0mqbNUMBLKe"
-    },
-    {
-      "added_at": "2023-10-04 14:25:37",
-      "album": {
-        "name": "True",
-        "url": "https://open.spotify.com/album/7ijzRbx3rClwBIBcJLVe0t"
-      },
-      "artists": [
-        {
-          "name": "Color Plus",
-          "url": "https://open.spotify.com/artist/7pkOGM2vlSsmTeVh4HTdYH"
-        }
-      ],
-      "duration_ms": 122331,
-      "name": "Wired",
-      "url": "https://open.spotify.com/track/1ttEhhzFufoxZYJw2S4l69"
     },
     {
       "added_at": "2023-08-23 14:01:12",
@@ -1537,22 +1537,6 @@
       "url": "https://open.spotify.com/track/30tgD1QE4NU8wr0g81Q9BJ"
     },
     {
-      "added_at": "2023-08-16 06:00:00",
-      "album": {
-        "name": "Irukandji",
-        "url": "https://open.spotify.com/album/33dHUlzhFzq0l06T2nIANf"
-      },
-      "artists": [
-        {
-          "name": "The Breedling",
-          "url": "https://open.spotify.com/artist/0NldlxCOpbroIKLIAzfWG2"
-        }
-      ],
-      "duration_ms": 243713,
-      "name": "Betrayer",
-      "url": "https://open.spotify.com/track/1Ifm02tflyx53arFi8u5LU"
-    },
-    {
       "added_at": "2023-10-04 14:25:37",
       "album": {
         "name": "Miracle-Tech",
@@ -1567,6 +1551,22 @@
       "duration_ms": 186185,
       "name": "Reno",
       "url": "https://open.spotify.com/track/65i8qMn7gtqUu1cfKhCL6j"
+    },
+    {
+      "added_at": "2023-08-16 06:00:00",
+      "album": {
+        "name": "Irukandji",
+        "url": "https://open.spotify.com/album/33dHUlzhFzq0l06T2nIANf"
+      },
+      "artists": [
+        {
+          "name": "The Breedling",
+          "url": "https://open.spotify.com/artist/0NldlxCOpbroIKLIAzfWG2"
+        }
+      ],
+      "duration_ms": 243713,
+      "name": "Betrayer",
+      "url": "https://open.spotify.com/track/1Ifm02tflyx53arFi8u5LU"
     },
     {
       "added_at": "2023-10-04 14:25:37",

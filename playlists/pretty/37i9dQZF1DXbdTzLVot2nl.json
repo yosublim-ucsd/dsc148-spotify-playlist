@@ -1,12 +1,12 @@
 {
   "description": "Feel on top of the world with these uplifting anthems of the 80s",
-  "num_followers": 110578,
+  "num_followers": 110620,
   "original_name": "Good Feeling 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNzYzYzZiZmQwNDYzYTE2ZDczYTg1M2IyNzYyOWIyMmZlMTkyZWNi",
+  "snapshot_id": "MCw3ZWRlNjlkOGI4ZDMwMjMzYjNhMjRiM2NiZGFjNGQ2OTUzNGNjNzUx",
   "tracks": [
     {
       "added_at": "2022-06-08 06:25:05",
@@ -795,6 +795,22 @@
     {
       "added_at": "2022-06-08 06:25:05",
       "album": {
+        "name": "Street Songs (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
+      },
+      "artists": [
+        {
+          "name": "Rick James",
+          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
+        }
+      ],
+      "duration_ms": 205466,
+      "name": "Super Freak",
+      "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
+    },
+    {
+      "added_at": "2022-06-08 06:25:05",
+      "album": {
         "name": "So Excited! (Expanded Edition)",
         "url": "https://open.spotify.com/album/4iqsNkST0v1aaL3S0Fd4XS"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 257359,
       "name": "U Can't Touch This",
       "url": "https://open.spotify.com/track/1B75hgRqe7A4fwee3g3Wmu"
-    },
-    {
-      "added_at": "2022-06-08 06:25:05",
-      "album": {
-        "name": "Street Songs (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2DBFUBBqJQvfXpodPi2WP5"
-      },
-      "artists": [
-        {
-          "name": "Rick James",
-          "url": "https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL"
-        }
-      ],
-      "duration_ms": 205466,
-      "name": "Super Freak",
-      "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
     },
     {
       "added_at": "2022-06-08 06:25:05",

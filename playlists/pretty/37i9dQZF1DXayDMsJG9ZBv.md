@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 
 > 世界中のトレンドと日本の最新ヒット曲をまとめてお届けします。Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 325,141 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 325,144 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXayDMsJG9ZBv.md) - [plain]
 | 49 | [Overdose](https://open.spotify.com/track/2Dzzhb1oV5ckgOjWZLraIB) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [Overdose](https://open.spotify.com/album/1ieXthJ9zXRWqTU8ROAeJa) | 3:17 |
 | 50 | [キリエ・憐れみの讃歌](https://open.spotify.com/track/7p2uXeTDH9a7Iat6oqY9Uq) | [Kyrie](https://open.spotify.com/artist/1W3oa2UIRtBlQSPwszyIWu), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [DEBUT](https://open.spotify.com/album/16UD0fdKRMlLwVfCIviFyZ) | 5:18 |
 
-Snapshot ID: `MCw0ZWFmYWI3YzA4NjJiYTgyMGU4MWU1NDJhYWRmMzY3OTJmMTU0YTg5`
+Snapshot ID: `MCwxMzJhYTdmNjVmYTMzYzIyNjJhZDEzOWU5MDM4MThkOTBhMjJlYTNi`

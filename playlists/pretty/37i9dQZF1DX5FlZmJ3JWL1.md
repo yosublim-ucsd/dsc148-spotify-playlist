@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,459 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,744 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 27 | [Blow It Up](https://open.spotify.com/track/7EXennxBRtugSuQX13uLSu) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Love Harder](https://open.spotify.com/artist/09JJrjk6Mr5ZYwk1mk7aEb) | [Blow It Up](https://open.spotify.com/album/6nHzBvtQQsdGWXrLvZyMU9) | 3:01 |
 | 28 | [Follow](https://open.spotify.com/track/5aXTfpNOqLj35ydEiLio67) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Zedd](https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq) | [Follow](https://open.spotify.com/album/0mHq8oTwln3MA72n3uHscJ) | 3:41 |
 | 29 | [Low](https://open.spotify.com/track/4bAzLbJOkwkZEakSiKd3sZ) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY) | [Low](https://open.spotify.com/album/56aYNth1A4q02fd3cUn3QQ) | 2:15 |
-| 30 | [Bad Day](https://open.spotify.com/track/1hLjDjDukRRGLdqfseaNsa) | [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc), [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Bad Day](https://open.spotify.com/album/4N3ODBFIfU3SrBUfRAVxpo) | 2:15 |
-| 31 | [Disconnected](https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Disconnected](https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP) | 3:14 |
+| 30 | [Disconnected](https://open.spotify.com/track/3MK2rvp7XjarzRKFrPGMOb) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Disconnected](https://open.spotify.com/album/6SGpVej56gEYCk3Z0u8ZSP) | 3:14 |
+| 31 | [Bad Day](https://open.spotify.com/track/1hLjDjDukRRGLdqfseaNsa) | [Agent Zed](https://open.spotify.com/artist/2Qies5tt1MrS9aziIKigkc), [Daniel Powter](https://open.spotify.com/artist/7xTcuBOIAAIGDOSvwYFPzk) | [Bad Day](https://open.spotify.com/album/4N3ODBFIfU3SrBUfRAVxpo) | 2:15 |
 | 32 | [Drinkin](https://open.spotify.com/track/1Usa0Fv8L9NmRKY4UYk4sD) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Drinkin](https://open.spotify.com/album/2M4jhdsyvC0xpuXXc1SKWE) | 2:16 |
 | 33 | [Anybody Out There](https://open.spotify.com/track/1RNVJLDH2ZtLIkUqQd9QxI) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [Anybody Out There](https://open.spotify.com/album/5SRLMR7GftfOdciVf9DjKM) | 3:08 |
 | 34 | [Bailando](https://open.spotify.com/track/60DGBqku2Iq7m2xrpJEcOp) | [Loona](https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [DJ Sammy](https://open.spotify.com/artist/4z4m1P0iX2nRSPDBEZ8LBT) | [Bailando](https://open.spotify.com/album/3jMmPvArFAhJbdKcFwCazV) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [Energy \(feat\. Bay\-C\)](https://open.spotify.com/track/3gEeuIgoPgU592HYvgn0wn) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr), [Bay\-C](https://open.spotify.com/artist/21ciCl1i66cJdB0owlmyQ8) | [Energy \(feat\. Bay\-C\)](https://open.spotify.com/album/0PS5JxokId6B3FsRjycHfs) | 2:32 |
 | 50 | [Make U SWEAT!](https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [Make U SWEAT!](https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3) | 3:54 |
 
-Snapshot ID: `MCw1NGU1NWEyZDhiNmFmNjAyNDM0ZDhhMjFlZTdiNzIwMWI4ZDA5ZjFk`
+Snapshot ID: `MCxiMGQ5NmM4Y2RhM2Q3NWUyNWIwYTkwMzY5NWEzN2Y3ZmE1MjU2MWUz`

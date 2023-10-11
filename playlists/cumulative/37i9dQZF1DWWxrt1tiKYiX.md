@@ -4,11 +4,12 @@
 
 > Lovely, acoustic pop\. Cover: Jonah Kagen
 
-215 songs - 11 hr 53 min
+216 songs - 11 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [0800 HEAVEN \- Acoustic](https://open.spotify.com/track/0mcegVVpLwrLRZB7a6bMgk) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN \(Acoustic\)](https://open.spotify.com/album/0mCdfKtiB1IFVpPhBClsq3) | 3:48 | 2023-07-07 |  |
+| [0800 HEAVEN \- Acoustic](https://open.spotify.com/track/0mcegVVpLwrLRZB7a6bMgk) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN \(Acoustic\)](https://open.spotify.com/album/0mCdfKtiB1IFVpPhBClsq3) | 3:48 | 2023-07-07 | 2023-10-11 |
+| [0800 HEAVEN \- Acoustic](https://open.spotify.com/track/1GkYwdCxt9CANT3gsF5qGP) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN \(Acoustic\)](https://open.spotify.com/album/7Gv5e3oZ7nPKMXwQBO3MYm) | 3:48 | 2023-09-29 |  |
 | [17 \- Acoustic](https://open.spotify.com/track/4ensio3acJ17PegjBcmXVg) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [17 \(Acoustic\)](https://open.spotify.com/album/6KeC6LLX6HHL4H9w2wb2K9) | 2:49 | 2022-01-28 | 2023-07-15 |
 | [29 \- Stripped](https://open.spotify.com/track/2qfFLxiCWqQarHQ9cVoXKy) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29 \(Stripped\)](https://open.spotify.com/album/03JZ828bZucFZsbVmgZfGa) | 2:32 | 2022-10-08 | 2023-03-11 |
 | [afraid of heights](https://open.spotify.com/track/1NBH8vdNQ2qG7U8VMntBLg) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [afraid of heights](https://open.spotify.com/album/5x6BZ6XJ2YVcwE6l26yy6p) | 2:34 | 2023-09-03 |  |

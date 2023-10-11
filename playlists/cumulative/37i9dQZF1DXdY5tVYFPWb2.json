@@ -2324,7 +2324,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 210120,
       "name": "FANTASY",
       "url": "https://open.spotify.com/track/2qfEkXsVx69flzqbZHRvao"
@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 197500,
       "name": "Good Morning",
       "url": "https://open.spotify.com/track/5RzbfqriTQAvMkSDKRwT4J"
@@ -3440,7 +3440,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 191663,
       "name": "It's all about you",
       "url": "https://open.spotify.com/track/4D8vdQENwuYMbcaYG0ZKcr"
@@ -7362,7 +7362,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 206573,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/2SXtvdfWlt12jA0pWrAr2u"
@@ -7540,6 +7540,24 @@
       "duration_ms": 258838,
       "name": "Sunrise",
       "url": "https://open.spotify.com/track/09449DPrk7pUeshYrRsezL"
+    },
+    {
+      "album": {
+        "name": "Sunset Breeze",
+        "url": "https://open.spotify.com/album/3kXg1Kbexer43ATVsRBIcb"
+      },
+      "artists": [
+        {
+          "name": "JADHU",
+          "url": "https://open.spotify.com/artist/4AJMAEPckiQvmlJCoubqGf"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202879,
+      "name": "Sunset Breeze",
+      "url": "https://open.spotify.com/track/2f0PpCp15kfsqXFqwqkaSp"
     },
     {
       "album": {
@@ -8017,6 +8035,24 @@
     },
     {
       "album": {
+        "name": "THINK OF SUMMER",
+        "url": "https://open.spotify.com/album/6j854MxXOXhZ8WiNdhOi9a"
+      },
+      "artists": [
+        {
+          "name": "Natsu Summer",
+          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278571,
+      "name": "THINK OF SUMMER",
+      "url": "https://open.spotify.com/track/5uLq64klXKRMcdX6GIKfEO"
+    },
+    {
+      "album": {
         "name": "Think of you",
         "url": "https://open.spotify.com/album/6Pv4mFUNnZHZoBmV6BFOsd"
       },
@@ -8122,6 +8158,28 @@
       "duration_ms": 207014,
       "name": "Time of adult",
       "url": "https://open.spotify.com/track/52BmVOetghDJzb1LtVYx3n"
+    },
+    {
+      "album": {
+        "name": "Todome no ichigeki (feat. Cory Wong)",
+        "url": "https://open.spotify.com/album/6BOkaOo3G5lmEsWYOqNdLK"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310160,
+      "name": "Todome no ichigeki (feat. Cory Wong)",
+      "url": "https://open.spotify.com/track/7AObB1OaxymMYQ2pTmFV0f"
     },
     {
       "album": {
@@ -8649,6 +8707,28 @@
     },
     {
       "album": {
+        "name": "waver",
+        "url": "https://open.spotify.com/album/46ybrTqtnh7GOQ5tGVdvII"
+      },
+      "artists": [
+        {
+          "name": "AKIRA",
+          "url": "https://open.spotify.com/artist/6ssW8So4tdpbto3NUOktqv"
+        },
+        {
+          "name": "TOSHIKI HAYASHI(%C)",
+          "url": "https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224403,
+      "name": "waver",
+      "url": "https://open.spotify.com/track/6mRb7nMsWrekmnXP0PrbL9"
+    },
+    {
+      "album": {
         "name": "white",
         "url": "https://open.spotify.com/album/04yLwJaUBT6SHkkZ9GyCeG"
       },
@@ -8908,7 +8988,7 @@
       ],
       "date_added": "2022-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 171500,
       "name": "YOU+ME=",
       "url": "https://open.spotify.com/track/7AxghpcGPvNjbrJScnnrgO"
@@ -10198,7 +10278,7 @@
       ],
       "date_added": "2023-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 218166,
       "name": "\u30b9\u30d1\u30f3\u30b3\u30fc\u30eb\u306e\u5973",
       "url": "https://open.spotify.com/track/3HFqp1jOem1Htc6K7nFpTm"
@@ -10898,6 +10978,28 @@
       "duration_ms": 302240,
       "name": "\u30e9\u30f3\u30c7\u30d6\u30fc",
       "url": "https://open.spotify.com/track/2f8uKvA1wnSilrmcneWfkP"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30fc\u30b8\u30e5 feat. \u5411\u4e95\u592a\u4e00",
+        "url": "https://open.spotify.com/album/1nUWMtWcOHFLlzVjFHOlIQ"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        },
+        {
+          "name": "Taichi Mukai",
+          "url": "https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217924,
+      "name": "\u30eb\u30fc\u30b8\u30e5 feat. \u5411\u4e95\u592a\u4e00",
+      "url": "https://open.spotify.com/track/06KGPEWi5lFvv31MK7Qzu4"
     },
     {
       "album": {
@@ -12598,6 +12700,24 @@
       "duration_ms": 244325,
       "name": "\u7d42\u96fb\u3067\u5e30\u308a\u307e\u3059",
       "url": "https://open.spotify.com/track/6D7eSKejjPAow87gnqH3YM"
+    },
+    {
+      "album": {
+        "name": "\u840c",
+        "url": "https://open.spotify.com/album/6DnW96P5uz81LMRm3RnSEI"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269806,
+      "name": "\u840c",
+      "url": "https://open.spotify.com/track/0mKWFi26UzF83bie9CIrDm"
     },
     {
       "album": {

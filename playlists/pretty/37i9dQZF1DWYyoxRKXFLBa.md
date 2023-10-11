@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 
 > Conoce a puras morras rifadas en La Marketa\. ¡Súbele al volumen, te esperamos el 6 de Agosto en Jardín Juárez! En portada: Now Girls Rule
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,237 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,247 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 42 | [Break!](https://open.spotify.com/track/2PxLq9EhlNZyw08kZiqbq9) | [Fazerdaze](https://open.spotify.com/artist/2awB7Ol181cocZcLLNBBAh) | [Break!](https://open.spotify.com/album/3E6nSXNMIVy4wofjSstjka) | 2:53 |
 | 43 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 |
 | 44 | [Desmotivada](https://open.spotify.com/track/5XXP7McoRRdfmplsrKGeBv) | [Buenos Vampiros](https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo) | [DESTRUYA!](https://open.spotify.com/album/1NXvepDJRwZ2zJNqMZNxdy) | 2:22 |
-| 45 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:39 |
-| 46 | [Tu Color](https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm) | 3:46 |
-| 47 | [Headrush](https://open.spotify.com/track/1ixglVHa1y9sh6NHMmbn0A) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 3:28 |
-| 48 | [Nobody](https://open.spotify.com/track/78ipSas2YpqGhoVpbFnjBj) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 2:47 |
+| 45 | [Headrush](https://open.spotify.com/track/1ixglVHa1y9sh6NHMmbn0A) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 3:28 |
+| 46 | [Horas Contigo](https://open.spotify.com/track/5LsqbIej8JeVAMCD5mZKCJ) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [Horas Contigo](https://open.spotify.com/album/0M2juBtEpeh1WRg3VmaNfe) | 2:39 |
+| 47 | [Nobody](https://open.spotify.com/track/78ipSas2YpqGhoVpbFnjBj) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 2:47 |
+| 48 | [Tu Color](https://open.spotify.com/track/51MQDiZAgOyUH8UXD3TTlY) | [BUDAYA](https://open.spotify.com/artist/1uLgN9ifDGflQ7RywGw67U) | [Tu Color](https://open.spotify.com/album/38DaQfytg4lkX9qupqzohm) | 3:46 |
 | 49 | [Soy Vertical](https://open.spotify.com/track/5JHvSr5jry0K2miFIJ5whI) | [Marcela Viejo](https://open.spotify.com/artist/1j2sGZWC8B3TvIxsK7mVpx) | [Soy Vertical](https://open.spotify.com/album/0GgXrrPAu26XWuakFBi0ph) | 3:24 |
 | 50 | [Cumbia Feminista](https://open.spotify.com/track/7M2mgKUSxmjHumNkwpjN2d) | [Las Decapitadas](https://open.spotify.com/artist/0NEkSiH8k5fTu30jlK2UdQ) | [Cumbia Feminista](https://open.spotify.com/album/51CRWf9nKbj5OWlKLudBuZ) | 3:53 |
 | 51 | [Romantinski](https://open.spotify.com/track/3Wy7M9W8QqwyNQwovhHNw4) | [Aiko el grupo](https://open.spotify.com/artist/0mk9dVJMJF4fanFzeZo6K1) | [Romantinski](https://open.spotify.com/album/2q6MDcpS342VSGIxCrOg6e) | 2:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYyoxRKXFLBa.md) - [plain]
 | 79 | [Escapar](https://open.spotify.com/track/6eK3x5Q6m3ItwHGdmVEo1d) | [Silver Rose](https://open.spotify.com/artist/2JGwyKMo0j1SIbEcbA0QBP) | [Las Distancias](https://open.spotify.com/album/6iw6U4obwRM38eN7JZ33Dm) | 4:01 |
 | 80 | [surrealismo.](https://open.spotify.com/track/6MtkCUkLfo9lxnbofkQbjC) | [cKovi](https://open.spotify.com/artist/3sdVgczphtmF1sKTgPZrOO) | [surrealismo.](https://open.spotify.com/album/24gpp8Y3ggwerd9gUKNnre) | 3:11 |
 
-Snapshot ID: `MCwyMjdiZWM3MTk2NjJiNzEwM2Q3OGY5ZDBhYzU5ZmY2MTMyZDJjOTc5`
+Snapshot ID: `MCw0NjlhMDhhOTIzNzM4MjYwZDE4ZTFjMzBjOTMyNGJmMjVmMTA0MDAw`

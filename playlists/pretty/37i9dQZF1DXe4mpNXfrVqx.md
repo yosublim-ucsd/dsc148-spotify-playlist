@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 
 ### [Só as Minas](https://open.spotify.com/playlist/37i9dQZF1DXe4mpNXfrVqx)
 
-> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Ebony
+> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Mc Luanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,294 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,374 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hentai](https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Hentai](https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02) | 2:22 |
-| 2 | [Karma](https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:57 |
-| 3 | [Joias Caras](https://open.spotify.com/track/6qL6PbTSJYMF9waKQOWdNb) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh), [Biazotto](https://open.spotify.com/artist/6pIhlzAGpJu6YkWsG3fe3b) | [Joias Caras](https://open.spotify.com/album/6iPNo87W8FkjKyPPwsnhdG) | 1:58 |
-| 4 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 |
-| 5 | [Fôlego](https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Fôlego](https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s) | 2:46 |
-| 6 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
+| 1 | [HSEH](https://open.spotify.com/track/5XgR6XGex53JjwrjTq352w) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Mello Santana](https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [HSEH](https://open.spotify.com/album/6PBAk2kBNGViZwog68l5XP) | 2:30 |
+| 2 | [Hentai](https://open.spotify.com/track/7zavTjMO64hQNg6KZkvGR8) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M) | [Hentai](https://open.spotify.com/album/1gSYN4x7QCuRTynao5vr02) | 2:22 |
+| 3 | [Karma](https://open.spotify.com/track/3LLoZcwEjjApTTTtUdTNDo) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:57 |
+| 4 | [Joias Caras](https://open.spotify.com/track/6qL6PbTSJYMF9waKQOWdNb) | [Nivy](https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh), [Biazotto](https://open.spotify.com/artist/6pIhlzAGpJu6YkWsG3fe3b) | [Joias Caras](https://open.spotify.com/album/6iPNo87W8FkjKyPPwsnhdG) | 1:58 |
+| 5 | [Fé nas Maluca](https://open.spotify.com/track/31VGydKjJimZM0ESZ5Wzb1) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes), [Mc Carol](https://open.spotify.com/artist/78jcF59aMpz63E2TYmntws) | [Fé nas Maluca](https://open.spotify.com/album/6hZtSSd2s0RRobFtcRepaA) | 2:23 |
+| 6 | [Fôlego](https://open.spotify.com/track/3qaUjRnNnYkRTXywDKwBMm) | [Barona](https://open.spotify.com/artist/26STitvgUGkBvAG0obuDQn), [YORI](https://open.spotify.com/artist/5klQdFd7MRjOrk0fgzsD5E) | [Fôlego](https://open.spotify.com/album/7naaLUZqJKOQQ393Ox5E6s) | 2:46 |
 | 7 | [Hater](https://open.spotify.com/track/0Wa6kRj45gtvOzQSYWMGNw) | [Killua](https://open.spotify.com/artist/7N0gUkzHkjXISZ7WyilZfo), [Langris](https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI) | [Hater](https://open.spotify.com/album/1T3ku3EPCv8Lwti5vyoxAy) | 2:17 |
 | 8 | [Indispensável](https://open.spotify.com/track/5i8uaqyosYWLvTyNp1NWct) | [Souto MC](https://open.spotify.com/artist/4WELyrcl29LZhemUKihfB4), [Feat Saci](https://open.spotify.com/artist/3xDHxwjYq5n6xFnvNMt2ML) | [Feat Saci \#12](https://open.spotify.com/album/26T75gINhFqs4PtKnNYIk0) | 2:45 |
 | 9 | [Leoa](https://open.spotify.com/track/21wVBDCyZqturea0eQt2Mh) | [Nath](https://open.spotify.com/artist/1ZR7K6689W7X054C916aV2), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM) | [Leoa](https://open.spotify.com/album/5LpK6S7hgWW8l1orZtASoE) | 1:59 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4mpNXfrVqx.md) - [plain]
 | 74 | [Para pra Pensar](https://open.spotify.com/track/3x3k5PnejMAIRjtU59BwxP) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [Para pra Pensar](https://open.spotify.com/album/0FDi3B8r4Xio6ZSfgZkcRV) | 4:04 |
 | 75 | [Facetime](https://open.spotify.com/track/3jlHHNWI4zDED91EaX5ttE) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [Facetime](https://open.spotify.com/album/2l1e5lXljgsDSAbZShQacr) | 2:43 |
 
-Snapshot ID: `MCw4OWY0ODQ1NGY0MWFlNmZlM2RlMjdlOTMzNjY2YTQzN2ZkZDMxNWIy`
+Snapshot ID: `MCw2M2EzNDc4MWQ5ZmVjODY0ZWRkZTYwYmRiMzM1NmY3NmZlNzU4OTUx`

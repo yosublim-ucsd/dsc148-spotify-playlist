@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 
 > Breathe\. Sense\. Feel\. Transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,758,578 likes - 232 songs - 11 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,759,703 likes - 230 songs - 11 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,22 +223,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqd5JICZI0u.md) - [plain]
 | 213 | [Catharsis](https://open.spotify.com/track/0lDLcIR8XdXwXD4rzEUVMb) | [Zzeta](https://open.spotify.com/artist/2App8sL5EXUqCRCqYYiZIr) | [Catharsis](https://open.spotify.com/album/2BsvG13W1rHgl5sawsazjf) | 2:46 |
 | 214 | [Moments](https://open.spotify.com/track/0UtZUu5j2Ye9QDxWyhReTx) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Moments](https://open.spotify.com/album/2MnGNTAK3FNzZJIZ9OPdHs) | 3:24 |
 | 215 | [Shimmer in the Morning](https://open.spotify.com/track/0oZcBTfv9wd9Oh2JBicCmz) | [Sola Vimi](https://open.spotify.com/artist/7DcQEPYqfl3Nx3yBwfozPF) | [Shimmer in the Morning](https://open.spotify.com/album/3y5jiEGMaWTGelesFKGtPR) | 2:06 |
-| 216 | [Malam Damai](https://open.spotify.com/track/6D70aCXcWTHKQwKF0UwEXK) | [Danyel Varda](https://open.spotify.com/artist/1VNg7iPAT2si1mruaa2ABB) | [Malam Damai](https://open.spotify.com/album/0PqegpoTe8loOHH8QVTKsj) | 3:45 |
-| 217 | [Deep breaths](https://open.spotify.com/track/1XhhBtMKmNGM4yfgMZQVxf) | [Jirou Soller](https://open.spotify.com/artist/0gTSb6SH0iohVVodJGSUlH) | [Deep breaths](https://open.spotify.com/album/3JEiMxMBlySWYU9dpuSMoA) | 2:11 |
-| 218 | [Desiderio](https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Desiderio](https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk) | 3:26 |
-| 219 | [Acceptance](https://open.spotify.com/track/5QeQFwJ4WN1CCtqalohl5y) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Acceptance](https://open.spotify.com/album/07D4Pc9dTzMWGdnZuXnP9m) | 3:07 |
-| 220 | [Noqueue](https://open.spotify.com/track/6UwHHL5Td690uBRy4ZzzWV) | [Blake Tyber](https://open.spotify.com/artist/4vbBZNG20uRReoBN64izRQ) | [Noqueue](https://open.spotify.com/album/7EDnvaKOuANJGoPbs9XhRY) | 2:29 |
-| 221 | [Affection](https://open.spotify.com/track/3B4B5r2IFmxVxE0fl7wQ6a) | [Calming Eyes](https://open.spotify.com/artist/32QebOlHD4A8nInyCK0wvf) | [Affection](https://open.spotify.com/album/6LpNCVlqshM81DVYhRktLd) | 3:22 |
-| 222 | [Release U](https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y) | [Jamie Soner](https://open.spotify.com/artist/1bdlQnsdKWva2CelmDntCB) | [Release U](https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq) | 3:14 |
-| 223 | [Sleep Hibernation](https://open.spotify.com/track/0ek2PwrDkUWRqoaTq6WKDj) | [Moon Laika](https://open.spotify.com/artist/4xahRLuZzobrHSZMsJFtyC) | [Sleep Hibernation](https://open.spotify.com/album/11F5dVBbgB8wWuuACxtMYF) | 2:55 |
-| 224 | [Anatomy of Change](https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG) | [Oto Roth](https://open.spotify.com/artist/0tpBeC4HolBI7fkc5omALQ) | [Anatomy of Change](https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69) | 2:24 |
-| 225 | [Absolutely Still](https://open.spotify.com/track/4hDxgtDNwOscsG2X8kks6W) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Absolutely Still](https://open.spotify.com/album/5dTOR4DO7P3IHgU1zgr9w6) | 2:41 |
-| 226 | [Day One](https://open.spotify.com/track/4ahkHICHrJKitc3ki96AAY) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Day One](https://open.spotify.com/album/0GCpcuJ72RuNUVwurbmPTu) | 3:42 |
-| 227 | [Metric](https://open.spotify.com/track/4zSOtBBAs9EyMUpNwbp6ta) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Metric](https://open.spotify.com/album/3mRR2xufUTCLv6ZVqJgwJY) | 2:24 |
-| 228 | [Ut Ameris, Amabilis Esto](https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Ut Ameris, Amabilis Esto](https://open.spotify.com/album/5u1SNTHUl1fN2TJLUNYDyV) | 3:04 |
-| 229 | [Insua](https://open.spotify.com/track/4jAgDrorjMDaqWCB8oVzK1) | [Nordesía](https://open.spotify.com/artist/6sbqijgtC98MAYaPcH3cuu) | [Insua](https://open.spotify.com/album/5AUkwgbTPKrkYs6cyHadxv) | 2:41 |
-| 230 | [Appreciation](https://open.spotify.com/track/70w16KjhO0HQz6eqllKYJo) | [Vishal Casey](https://open.spotify.com/artist/4gaEPQ8r7KJfK9QE9nV0Wa) | [Appreciation](https://open.spotify.com/album/1YZf74mUBjZqIhNEeymUw9) | 2:49 |
-| 231 | [Stream Of Somnolence](https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Stream Of Somnolence](https://open.spotify.com/album/1WyX4lP1K5UAGEerqUchTZ) | 3:05 |
-| 232 | [Večeras](https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Večeras](https://open.spotify.com/album/1Ca4LT06gvbRZhNJRXljpY) | 3:05 |
+| 216 | [Deep breaths](https://open.spotify.com/track/1XhhBtMKmNGM4yfgMZQVxf) | [Jirou Soller](https://open.spotify.com/artist/0gTSb6SH0iohVVodJGSUlH) | [Deep breaths](https://open.spotify.com/album/3JEiMxMBlySWYU9dpuSMoA) | 2:11 |
+| 217 | [Desiderio](https://open.spotify.com/track/0wOCx6BAKo9ZSpejgL8C2Y) | [Artemio Li Fonti](https://open.spotify.com/artist/78cI0FrhBVpr9Dq0fN5BZw) | [Desiderio](https://open.spotify.com/album/3sN0qF9BHNIrLSN2Z0IWYk) | 3:26 |
+| 218 | [Acceptance](https://open.spotify.com/track/5QeQFwJ4WN1CCtqalohl5y) | [Minnie Delarosa](https://open.spotify.com/artist/5abR6pakumxnpAm0OXTMJX) | [Acceptance](https://open.spotify.com/album/07D4Pc9dTzMWGdnZuXnP9m) | 3:07 |
+| 219 | [Noqueue](https://open.spotify.com/track/6UwHHL5Td690uBRy4ZzzWV) | [Blake Tyber](https://open.spotify.com/artist/4vbBZNG20uRReoBN64izRQ) | [Noqueue](https://open.spotify.com/album/7EDnvaKOuANJGoPbs9XhRY) | 2:29 |
+| 220 | [Release U](https://open.spotify.com/track/23RCTNUpMvJoBpnWUizG3y) | [Jamie Soner](https://open.spotify.com/artist/1bdlQnsdKWva2CelmDntCB) | [Release U](https://open.spotify.com/album/4TdzdTQDRB9NQs3OYgDPaq) | 3:14 |
+| 221 | [Sleep Hibernation](https://open.spotify.com/track/0ek2PwrDkUWRqoaTq6WKDj) | [Moon Laika](https://open.spotify.com/artist/4xahRLuZzobrHSZMsJFtyC) | [Sleep Hibernation](https://open.spotify.com/album/11F5dVBbgB8wWuuACxtMYF) | 2:55 |
+| 222 | [Anatomy of Change](https://open.spotify.com/track/1kh6iEcYhNL6jbMr5BVEVG) | [Oto Roth](https://open.spotify.com/artist/0tpBeC4HolBI7fkc5omALQ) | [Anatomy of Change](https://open.spotify.com/album/4MrcKyzpC5XEr21ut3bH69) | 2:24 |
+| 223 | [Absolutely Still](https://open.spotify.com/track/4hDxgtDNwOscsG2X8kks6W) | [William Francisco](https://open.spotify.com/artist/2jQwLGGaI5zOgqc5SiMp7V) | [Absolutely Still](https://open.spotify.com/album/5dTOR4DO7P3IHgU1zgr9w6) | 2:41 |
+| 224 | [Day One](https://open.spotify.com/track/4ahkHICHrJKitc3ki96AAY) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Day One](https://open.spotify.com/album/0GCpcuJ72RuNUVwurbmPTu) | 3:42 |
+| 225 | [Metric](https://open.spotify.com/track/4zSOtBBAs9EyMUpNwbp6ta) | [Ervin Alba](https://open.spotify.com/artist/3gBRdpF4cFeZPXkvp0R1LQ) | [Metric](https://open.spotify.com/album/3mRR2xufUTCLv6ZVqJgwJY) | 2:24 |
+| 226 | [Ut Ameris, Amabilis Esto](https://open.spotify.com/track/63c4hUw16NhQGrTyaoyj0M) | [Alma Grøtte](https://open.spotify.com/artist/7uLS5Q5tx0Chuaihp53VEE) | [Ut Ameris, Amabilis Esto](https://open.spotify.com/album/5u1SNTHUl1fN2TJLUNYDyV) | 3:04 |
+| 227 | [Insua](https://open.spotify.com/track/4jAgDrorjMDaqWCB8oVzK1) | [Nordesía](https://open.spotify.com/artist/6sbqijgtC98MAYaPcH3cuu) | [Insua](https://open.spotify.com/album/5AUkwgbTPKrkYs6cyHadxv) | 2:41 |
+| 228 | [Appreciation](https://open.spotify.com/track/70w16KjhO0HQz6eqllKYJo) | [Vishal Casey](https://open.spotify.com/artist/4gaEPQ8r7KJfK9QE9nV0Wa) | [Appreciation](https://open.spotify.com/album/1YZf74mUBjZqIhNEeymUw9) | 2:49 |
+| 229 | [Stream Of Somnolence](https://open.spotify.com/track/2J3PRFCSCcuyHY4Dfi4hbh) | [Maurie](https://open.spotify.com/artist/0we3lcrMUMrc57nxVUC7g2) | [Stream Of Somnolence](https://open.spotify.com/album/1WyX4lP1K5UAGEerqUchTZ) | 3:05 |
+| 230 | [Večeras](https://open.spotify.com/track/7aYv33i1kUIlBcTMJPUzFm) | [Judi Khan](https://open.spotify.com/artist/7f2S72fSfAb1fpowkNB4WK) | [Večeras](https://open.spotify.com/album/1Ca4LT06gvbRZhNJRXljpY) | 3:05 |
 
-Snapshot ID: `MCw3MTJkYTcwZjY5NjExOTdkOWE4YjM5YjVhNDU0MDY0NWMzZDY4NTQy`
+Snapshot ID: `MCw2MzY4MzllNjk3NjMwZTFmYTExZGY5ZmM5MDIzMWMwZTdhNjBjZWNk`

@@ -4,10 +4,11 @@
 
 > Positive, uplifting piano to make you feel good.
 
-268 songs - 10 hr 56 min
+273 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [A Marlene Melody](https://open.spotify.com/track/1vdpvcd1r330uJwTmrcsdT) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [A Marlene Melody](https://open.spotify.com/album/0ybpLOZ07qSpsWL2VtpJKB) | 2:37 | 2023-10-10 |  |
 | [A Moment For Us](https://open.spotify.com/track/7K0BCfDf8sBsbGVnbg7SSD) | [Michel Vernier](https://open.spotify.com/artist/2nXxUDqU4WIvBnhU4bWle5) | [A Moment For Us](https://open.spotify.com/album/4bk37pGNPPUueyE4hBR71i) | 2:12 | 2021-12-14 | 2023-04-19 |
 | [A Picture Of Her](https://open.spotify.com/track/3W2VdvndrAvJdlqa2pn2Pc) | [Derick Carson](https://open.spotify.com/artist/0CaZ6x330PQergmF3mEpuY) | [A Picture Of Her](https://open.spotify.com/album/6tWUieCeCdwaimukWcmJdv) | 2:13 | 2023-06-20 |  |
 | [A Thought Evoked](https://open.spotify.com/track/5CIuhTu5H6req55w8yBejp) | [Chloé Czans](https://open.spotify.com/artist/56Np50YJGZsJG6Z1nqTUqu) | [A Thought Evoked](https://open.spotify.com/album/5tbZrlYXjQCuPYF9IwjI7w) | 2:54 | 2021-12-14 |  |
@@ -15,8 +16,10 @@
 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 | 2021-12-14 |  |
 | [Alentejo](https://open.spotify.com/track/2AbSbrm05gpRaZoomLi2LM) | [Dwight Rivera](https://open.spotify.com/artist/418rmHL9Xl5t9hCYF1Wgyl) | [Alentejo](https://open.spotify.com/album/4bodWawvIufMLPIJyx9Bwq) | 2:16 | 2022-12-06 |  |
 | [Allegrini](https://open.spotify.com/track/7GYHZi5vPB3ihAInagsKu2) | [Valentina Barbarella](https://open.spotify.com/artist/72dJh8lvMFa3XnK7JSHoBw) | [Allegrini](https://open.spotify.com/album/0AV7kYSGd7yiNupGpSZ8UF) | 1:58 | 2022-09-13 | 2023-09-19 |
+| [Always Shining Bright](https://open.spotify.com/track/4s561TKv61mdyVq98FtbNk) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Always Shining Bright](https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A) | 2:16 | 2023-10-10 |  |
 | [Amaprinces Bend](https://open.spotify.com/track/6DhmBzQD76Ajsd1S0UyT1H) | [Sumsar](https://open.spotify.com/artist/3IKjg0f073Wk4IecayFzWW) | [Amaprinces Bend](https://open.spotify.com/album/4HYFWPnnGISTl8MVk85fgR) | 3:12 | 2021-12-14 | 2023-04-19 |
 | [Ambro](https://open.spotify.com/track/5kU2kYLFu3uNDBlmjvvNxg) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Ambro](https://open.spotify.com/album/3B6FfU08qymnkrY7paVtUX) | 2:45 | 2021-12-14 | 2022-04-29 |
+| [An Inward Stillness](https://open.spotify.com/track/2uz5jMm6bt6UkoLtj6eaug) | [Augustino](https://open.spotify.com/artist/2hl8fayyJZBI8s07wgRbhC) | [An Inward Stillness](https://open.spotify.com/album/1DCzbv2wKumot4uzhCFAdW) | 2:42 | 2023-10-10 |  |
 | [Anyone](https://open.spotify.com/track/7uhLvrY31QKUS3JTEEuNyu) | [Lena Terne](https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg) | [Anyone](https://open.spotify.com/album/5xHrLZlqWVl4EWIVTpCuiu) | 3:35 | 2022-12-21 |  |
 | [Apelblom](https://open.spotify.com/track/6FiFFLgiC4yfPfTCXWIKtT) | [Alfred Janders](https://open.spotify.com/artist/5Q7WksIlCit2j220mJx7ek) | [Apelblom](https://open.spotify.com/album/6uJkw3rmz4nuIcoMxVRBY1) | 2:04 | 2021-12-14 |  |
 | [Apricity](https://open.spotify.com/track/0gqETOpvyX2eAbcbfjjqGz) | [Ivalu Karlsen](https://open.spotify.com/artist/4RHvOz3KD1p3LmEEnpVN8a) | [Apricity](https://open.spotify.com/album/4EV4xaMY99ldNfGanMgaoe) | 2:12 | 2021-12-14 |  |
@@ -32,7 +35,9 @@
 | [Blue Dream \(Softly\)](https://open.spotify.com/track/1EKQupLgrWvH2mVmzMvKRl) | [Fiona Joy Hawkins](https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d) | [Blue Dream \(Softly\)](https://open.spotify.com/album/6OL1SjkyAh7gy1chc1H0la) | 3:08 | 2022-04-28 | 2023-06-01 |
 | [Blue Dream \(Softly\)](https://open.spotify.com/track/2xTAGiKs5DiR6tY70wie7G) | [Fiona Joy Hawkins](https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d) | [Blue Dream \- Solo Piano](https://open.spotify.com/album/5si60eoqcOG4hIOlhUZbrz) | 3:08 | 2023-09-05 |  |
 | [Blue Dream \(Softly\)](https://open.spotify.com/track/5JUb9uhLMytRWi18UvvZAS) | [Fiona Joy Hawkins](https://open.spotify.com/artist/1UnEeCMhJgy2JrfmNX4v0d) | [Blue Dream \(Softly\)](https://open.spotify.com/album/2EpDD5MHbJxuTBTwt5JagM) | 3:08 | 2023-05-09 | 2023-09-11 |
+| [Blue in Navy](https://open.spotify.com/track/2tCGNbqDih63om2SqaVZNk) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Blue in Navy](https://open.spotify.com/album/5k70Is3eskwYuu9hhfgGRa) | 2:12 | 2023-10-10 |  |
 | [Blumenwiese](https://open.spotify.com/track/5LqtZQRkuuz3X6sa7vKAuN) | [Paul Herfort](https://open.spotify.com/artist/7m2yuNYMuLBtNgcHh9yBpl) | [Blumenwiese](https://open.spotify.com/album/1y3sMt414NJdOYiHYGDGSn) | 2:40 | 2022-10-26 |  |
+| [Boite à Musique](https://open.spotify.com/track/3XZDnfcnrOokM3dDgQ6oYX) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Boite à Musique](https://open.spotify.com/album/58jpKetqYQHsoVcwOLj4Ef) | 2:19 | 2023-10-10 |  |
 | [Brighter Days](https://open.spotify.com/track/00QS3WvHXKf0BwZRcKtruO) | [Andrew Lodge](https://open.spotify.com/artist/34k08Wh9fmLzg8Hg3wPS2y) | [Brighter Days](https://open.spotify.com/album/2yo3evs2rNkuRBTDDwW4bw) | 3:25 | 2023-01-09 |  |
 | [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 | 2021-12-14 | 2022-07-21 |
 | [Brothers](https://open.spotify.com/track/3bnbVhW9oTICGh0l8cwSqj) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Brothers](https://open.spotify.com/album/0nSGSxftcsyML7gy5shGgs) | 2:42 | 2023-06-27 |  |

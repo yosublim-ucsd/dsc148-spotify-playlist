@@ -1,12 +1,12 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2113037,
+  "num_followers": 2112975,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWNjMjMwY2MwMGQ4OWFlNTUzMWU0ODk3NWYyZjdhNWM0ZjkzMjkz",
+  "snapshot_id": "MCw0YjZiYjE5ZDJiN2M2ZWJkYTNiNWI5MTQ4MTU5YTVmZGRmNWI1NTli",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -327,22 +327,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Justice",
-        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 153190,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Justice",
+        "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 153190,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Hell N Back",
-        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 213573,
-      "name": "Hell N Back",
-      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "On My Love",
         "url": "https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 222911,
       "name": "On My Love",
       "url": "https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Hell N Back",
+        "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 213573,
+      "name": "Hell N Back",
+      "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "AUSTIN",
-        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 165175,
-      "name": "Enough Is Enough",
-      "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Do It Like That",
         "url": "https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 145065,
       "name": "Do It Like That",
       "url": "https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 165175,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Almost Healed",
         "url": "https://open.spotify.com/album/6ciIG1XKTlVIn0Yl8rvsce"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 219173,
       "name": "Stand By Me (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/1fXnu2HzxbDtoyvFPWG3Bw"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Love Like This",
-        "url": "https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7"
+        "name": "Don't Start Now",
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
       },
       "artists": [
         {
-          "name": "ZAYN",
-          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 173303,
-      "name": "Love Like This",
-      "url": "https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA"
+      "duration_ms": 183290,
+      "name": "Don't Start Now",
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1179,18 +1179,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Don't Start Now",
-        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp"
+        "name": "Love Like This",
+        "url": "https://open.spotify.com/album/5IFyTHAafGhBc6YmARuzt7"
       },
       "artists": [
         {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          "name": "ZAYN",
+          "url": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
         }
       ],
-      "duration_ms": 183290,
-      "name": "Don't Start Now",
-      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+      "duration_ms": 173303,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/3P9pRL7V9yM9DhY6NGZjzA"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "When You're Gone",
+        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 172266,
+      "name": "When You're Gone",
+      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1211,22 +1227,6 @@
       "duration_ms": 137065,
       "name": "Other Boys",
       "url": "https://open.spotify.com/track/5WZlorRUxgryaweu7kqeHd"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "When You're Gone",
-        "url": "https://open.spotify.com/album/4EGVr9mSwFPoqvDMkiahJp"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 172266,
-      "name": "When You're Gone",
-      "url": "https://open.spotify.com/track/0U1W2LZVUX7qTm7dDpqxh6"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Summertime Friends",
-        "url": "https://open.spotify.com/album/4Fskvi7B1rmq52xIx9zTsV"
-      },
-      "artists": [
-        {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-        }
-      ],
-      "duration_ms": 136586,
-      "name": "Summertime Friends",
-      "url": "https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Better Place (From TROLLS Band Together)",
         "url": "https://open.spotify.com/album/6kF2smJylLgcekEyliE3p8"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 216666,
       "name": "Better Place (From TROLLS Band Together)",
       "url": "https://open.spotify.com/track/1bHnRc60O1N0l3PbHjaKyK"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Summertime Friends",
+        "url": "https://open.spotify.com/album/4Fskvi7B1rmq52xIx9zTsV"
+      },
+      "artists": [
+        {
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+        }
+      ],
+      "duration_ms": 136586,
+      "name": "Summertime Friends",
+      "url": "https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Dead Man",
-        "url": "https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY"
-      },
-      "artists": [
-        {
-          "name": "David Kushner",
-          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
-        }
-      ],
-      "duration_ms": 274870,
-      "name": "Dead Man",
-      "url": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Mirage (for Assassin's Creed Mirage)",
         "url": "https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 133183,
       "name": "Mirage - for Assassin's Creed Mirage",
       "url": "https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Dead Man",
+        "url": "https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY"
+      },
+      "artists": [
+        {
+          "name": "David Kushner",
+          "url": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+        }
+      ],
+      "duration_ms": 274870,
+      "name": "Dead Man",
+      "url": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1483,6 +1483,26 @@
       "duration_ms": 137514,
       "name": "Choose Your Fighter (From Barbie The Album)",
       "url": "https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
+        }
+      ],
+      "duration_ms": 163000,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1527,26 +1547,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Coast",
         "url": "https://open.spotify.com/album/0152qvGv0mmX2vU36Rocng"
       },
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Album",
-        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 161811,
-      "name": "Summer Baby",
-      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "We Didn\u2019t Start The Fire",
         "url": "https://open.spotify.com/album/1PWKDjoZgljWTZJ7HCL4Ja"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 215530,
       "name": "We Didn\u2019t Start The Fire",
       "url": "https://open.spotify.com/track/60glT2wsoSHV3B8yCRSB8v"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The Album",
+        "url": "https://open.spotify.com/album/7aq7a226T631f2w1Vs1vXx"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 161811,
+      "name": "Summer Baby",
+      "url": "https://open.spotify.com/track/3FyfTh70PkgooRDe4SNP0U"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1663,6 +1663,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
+      },
+      "artists": [
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "duration_ms": 187888,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Praising You (feat. Fatboy Slim)",
         "url": "https://open.spotify.com/album/2FJeCuU3JcO6EQWsjAGIdu"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 164693,
       "name": "Praising You (feat. Fatboy Slim)",
       "url": "https://open.spotify.com/track/6jSvgAwRVrJIP0VYz5L2J8"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6"
-      },
-      "artists": [
-        {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
-        }
-      ],
-      "duration_ms": 187888,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/6aDsgHPZsMztSbZernzlF8"
     },
     {
       "added_at": "2023-10-06 04:00:00",

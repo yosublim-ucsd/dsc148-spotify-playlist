@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Dave & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,480 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,523 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 13 | [Off The Grid](https://open.spotify.com/track/6LNoArVBBVZzUTUiAX2aKO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 5:39 |
 | 14 | [NO SNITCHING \(with Dusty Locane\)](https://open.spotify.com/track/07NgzcfZh94EiueKm5KiT4) | [Lil Mabu](https://open.spotify.com/artist/6FAo7ORAHEzSSf5q10LLfN), [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DOUBLE M'S](https://open.spotify.com/album/5jBQATS4iLhsYP7pGhdAcp) | 2:40 |
 | 15 | [Let's Do It \(feat\. Dee Play4Keeps\)](https://open.spotify.com/track/5S3IJ9t7F1ZkyDR7Pjz7oS) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Dee Play4Keeps](https://open.spotify.com/artist/1gocjCamV704bOkNiCMGhA) | [Let's Do It](https://open.spotify.com/album/0WlIxiPWaiMGEJrrp1QFoG) | 2:49 |
-| 16 | [Hot N\*gga](https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Hot N\*gga](https://open.spotify.com/album/5ptl9Sheh9eWaogxFOZ3PV) | 3:14 |
-| 17 | [Faneto](https://open.spotify.com/track/7EcE5yCPVZaZut1JqowbcI) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Back from the Dead 2](https://open.spotify.com/album/6uOn9t70gVO6YPU4M65h5g) | 3:26 |
+| 16 | [Faneto](https://open.spotify.com/track/7EcE5yCPVZaZut1JqowbcI) | [Chief Keef](https://open.spotify.com/artist/15iVAtD3s3FsQR4w1v6M0P) | [Back from the Dead 2](https://open.spotify.com/album/6uOn9t70gVO6YPU4M65h5g) | 3:26 |
+| 17 | [Hot N\*gga](https://open.spotify.com/track/19gEmPjfqSZT0ulDRfjl0m) | [Bobby Shmurda](https://open.spotify.com/artist/34Y0ldeyUv7jBvukWOGASO) | [Hot N\*gga](https://open.spotify.com/album/5ptl9Sheh9eWaogxFOZ3PV) | 3:14 |
 | 18 | [Welcome To Brixton](https://open.spotify.com/track/7kQUdVjev73xIuwu7W6YW9) | [SR](https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h) | [Welcome To Brixton](https://open.spotify.com/album/2cJGDIj1sw0CRisyitZqdQ) | 3:00 |
 | 19 | [Veteran](https://open.spotify.com/track/2cHetITRRw9TZtcmsVdjbS) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [Veteran](https://open.spotify.com/album/2NkaFioRIq3TyUiQLtz1i7) | 2:20 |
 | 20 | [6 For 6](https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/track/2NVXBBbO4xGO851zrMfCFi) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/album/43AaQNHNlJlf8F2iQkivyx) | 2:16 |
 | 50 | [Healing](https://open.spotify.com/track/1l40rYTK1jU4OMpSK6BwD0) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Healing](https://open.spotify.com/album/6MKGuZlTv1ECBhjJ5AvrFl) | 2:40 |
 
-Snapshot ID: `MCxkMDNhMzAyMmI3NTdmOTc3MjQ4NzAyYTI3ZmM3MzIwOWYwMWVjYmEy`
+Snapshot ID: `MCw0MjQxNDQ3MDQ1NTkwODFjNWU5YjFlZTFkMTBmZGY3NzQ1NjU4Y2Nk`

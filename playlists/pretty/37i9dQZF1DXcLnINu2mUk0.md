@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,167 likes - 70 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,238 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 62 | [Tempo Perdido](https://open.spotify.com/track/3p7AgzNf2zkKQX1tcTvkm4) | [VALE](https://open.spotify.com/artist/1zBe6fC6su0Z6xEwXYDPbk) | [Tempo Perdido](https://open.spotify.com/album/4F6Gt40NFBhX7xsiUNjuv7) | 3:58 |
 | 63 | [Deixa Arder](https://open.spotify.com/track/6jdWRN2OOnFPLdjtLkPTnP) | [Flepa](https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb), [Blacci](https://open.spotify.com/artist/36Hz9bJe0iBjUpTqpmEGak), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB) | [Não Sou Daqui](https://open.spotify.com/album/6F0dv3FpCtzK5HGldys7dX) | 3:26 |
 | 64 | [Muda](https://open.spotify.com/track/5lTx1aJfs6rqYVqQbSzbve) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Muda](https://open.spotify.com/album/350MDczLAQuFoU07xEjRCB) | 2:57 |
-| 65 | [FAZ ME FICAR](https://open.spotify.com/track/6H42vwpapfQH1XpihD9OD4) | [Zarco](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [FAZ ME FICAR](https://open.spotify.com/album/2o2rUwESaEF5HxmL8d584q) | 3:56 |
-| 66 | [What i Want, How i Like](https://open.spotify.com/track/5ESYN254hHVlueVCHxMj9A) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [What i Want, How i Like](https://open.spotify.com/album/5tBWVO75zR2LP8WQzdz494) | 3:56 |
-| 67 | [Nosso Som](https://open.spotify.com/track/3i9QW2ocovZ44yX2bsUfjQ) | [MAZ3R](https://open.spotify.com/artist/5MsvCh3d3tgS38ACW7DsWN), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Nosso Som](https://open.spotify.com/album/6sK5Lo6qAW5wqsegG2hTPK) | 3:40 |
-| 68 | [Amor](https://open.spotify.com/track/3Ip0TaOOaXTrCmZCdJkgpf) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Amor](https://open.spotify.com/album/1aJgyzKAmMg1UL0bmzX7XG) | 3:01 |
-| 69 | [TUDO OU NADA](https://open.spotify.com/track/3FzM5fHg2Wu87fuLxBstDY) | [Dinis Mota](https://open.spotify.com/artist/4ZtaPrKdemEzqprB4bIzdx) | [TRIAGEM](https://open.spotify.com/album/3i1DXVUJpTTBnxbRD8fB0K) | 3:06 |
-| 70 | [À Tona](https://open.spotify.com/track/2pejdDJoyqDBWM706pwC9M) | [Dote](https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP) | [À Tona](https://open.spotify.com/album/6AQ5jQ3Tqm0ygMnBnmWUbe) | 2:14 |
+| 65 | [Nosso Som](https://open.spotify.com/track/3i9QW2ocovZ44yX2bsUfjQ) | [MAZ3R](https://open.spotify.com/artist/5MsvCh3d3tgS38ACW7DsWN), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Nosso Som](https://open.spotify.com/album/6sK5Lo6qAW5wqsegG2hTPK) | 3:40 |
+| 66 | [FAZ ME FICAR](https://open.spotify.com/track/6H42vwpapfQH1XpihD9OD4) | [Zarco](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [FAZ ME FICAR](https://open.spotify.com/album/2o2rUwESaEF5HxmL8d584q) | 3:56 |
+| 67 | [What i Want, How i Like](https://open.spotify.com/track/5ESYN254hHVlueVCHxMj9A) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [What i Want, How i Like](https://open.spotify.com/album/5tBWVO75zR2LP8WQzdz494) | 3:56 |
+| 68 | [Black Rose](https://open.spotify.com/track/7ENmhCZ25LCZD5we01hlBy) | [Franeselak](https://open.spotify.com/artist/1zA8OHFEUWY3Kk9DdbGW00), [Augusto Madeira](https://open.spotify.com/artist/5lHK1JEJ4EZsrswfM4fNQ5) | [Black Rose](https://open.spotify.com/album/5DJX7aQdtgLf2XJkCfnW5C) | 3:32 |
+| 69 | [À Tona](https://open.spotify.com/track/2pejdDJoyqDBWM706pwC9M) | [Dote](https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP) | [À Tona](https://open.spotify.com/album/6AQ5jQ3Tqm0ygMnBnmWUbe) | 2:14 |
+| 70 | [Amor](https://open.spotify.com/track/3Ip0TaOOaXTrCmZCdJkgpf) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Amor](https://open.spotify.com/album/1aJgyzKAmMg1UL0bmzX7XG) | 3:01 |
 
-Snapshot ID: `MCxhNWU4MmVkZjBmMjdmNmM4YjY3ODQ5MDRkZjA5OGU0ZjRhNDQ3M2M5`
+Snapshot ID: `MCxiN2Q1YmZiYzhjNDZkNDA4YTRiMjJmNzdjM2IxNDJmNTRhMDZhNDU4`

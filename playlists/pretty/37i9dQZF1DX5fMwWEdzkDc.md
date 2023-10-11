@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 
 > 2000년대를 수 놓았던 명곡들을 즐겨보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,236 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,275 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,13 +79,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 69 | [Crazy \(feat.Eric\)](https://open.spotify.com/track/2k89RdgmjsrEaZcMbQsLyn) | [Son Dam Bi](https://open.spotify.com/artist/3cCbcs6r1Lma7MfEjyfCGU), [Eric](https://open.spotify.com/artist/3q3HSjyRiHQ0AC5HSrmO4m) | [Son Dam Bi Mini Album vol\. 2](https://open.spotify.com/album/03g00ngaa5I53sAoQiLrQL) | 4:01 |
 | 70 | [어떤가요](https://open.spotify.com/track/6oh5mZnvl3qfe9OBXTwnCm) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Because I Love You](https://open.spotify.com/album/55YORiOuEr6NpZBvWnM9zc) | 4:31 |
 | 71 | [0%](https://open.spotify.com/track/4QyJ9NbwZSXu9wcQpHiwqP) | [god](https://open.spotify.com/artist/7h3uRR9CdZGjnAY9stn0es) | [Chapter 5 Letter](https://open.spotify.com/album/50TP0Mj8SX6qy13FbKfOCy) | 3:48 |
-| 72 | [사랑..그게 뭔데](https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [The Windows Of My Soul](https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu) | 3:58 |
-| 73 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 |
+| 72 | [Break Away](https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Like The Bible](https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe) | 4:19 |
+| 73 | [사랑..그게 뭔데](https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C) | [Yangpa](https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS) | [The Windows Of My Soul](https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu) | 3:58 |
 | 74 | [널 사랑하겠어](https://open.spotify.com/track/1cSPBiaK1NydJnQaYxKwDt) | [Seo Young Eun](https://open.spotify.com/artist/62kwqoGbwQOLwfOWnDb2iB) | [Remake Romantic 2](https://open.spotify.com/album/6enjQFbMz6pMOLxWPBporQ) | 3:35 |
 | 75 | [A Letter to you Part.2](https://open.spotify.com/track/7fRegG6DYNpGClPDCp851s) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 4:07 |
 | 76 | [Bad Man](https://open.spotify.com/track/40SeJqkDwPJp9tcVWMEgMB) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [N001](https://open.spotify.com/album/6uHdPehfuo9Es9tWGatg8c) | 3:37 |
-| 77 | [Shady Girl](https://open.spotify.com/track/7rWRuFyvRqMlUh8rUTuWqb) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [Shady Girl](https://open.spotify.com/album/4r8SgrpHX0W7u1kT0lAULE) | 3:14 |
-| 78 | [추억은 사랑을 닮아](https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [The Breeze Of Sea](https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S) | 5:29 |
+| 77 | [추억은 사랑을 닮아](https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq) | [Park Hyo Shin](https://open.spotify.com/artist/57htMBtzpppc1yoXgjbslj) | [The Breeze Of Sea](https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S) | 5:29 |
+| 78 | [Shady Girl](https://open.spotify.com/track/7rWRuFyvRqMlUh8rUTuWqb) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [Shady Girl](https://open.spotify.com/album/4r8SgrpHX0W7u1kT0lAULE) | 3:14 |
 | 79 | [LOVE119 \(feat\. MC Mong\)](https://open.spotify.com/track/4rC34fBjcpOZ4uxonNlLIh) | [K.Will](https://open.spotify.com/artist/1XNC9ksvgXeD1xRJruSA5t), [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [Dropping the Tears](https://open.spotify.com/album/2LPszV62iNiLadCZ2J0kol) | 3:58 |
 | 80 | [1Tym](https://open.spotify.com/track/3LjJ0Hjqot5HDeL172lAcw) | [1TYM](https://open.spotify.com/artist/0P8IEJrM7oUTK4WwdMKsvS) | [One Time For Your Mind](https://open.spotify.com/album/2SVamLzGfpr4QCyCWjmXjT) | 3:30 |
 | 81 | [Ice Cream](https://open.spotify.com/track/2KlzrWVFpUIyI2goyvInX4) | [MC MONG](https://open.spotify.com/artist/6gEWl778wJTkq4Uk5eBvgD) | [The Way I Am](https://open.spotify.com/album/2Mh0JWqsD08Wox0fwXaVsk) | 3:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5fMwWEdzkDc.md) - [plain]
 | 99 | [We Should've Been Friends](https://open.spotify.com/track/4nLwtNzEa1I1tvqC89xo1L) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Like Them](https://open.spotify.com/album/374rk50TgKbQSbeBaLFjek) | 4:41 |
 | 100 | [Officially Missing You](https://open.spotify.com/track/1QSzf6iO6gvndN7Z4wYPbz) | [Geeks](https://open.spotify.com/artist/5VxfguafjfSdJcN10ACVZe) | [Officially Missing You](https://open.spotify.com/album/1sm1QmdYNIjHxunGha7OyU) | 3:31 |
 
-Snapshot ID: `MCw3NWMyNjk1MWYyN2IzM2Q4ZWU5OTNiYWFkYTljZGIzZWM1ZWUyZjRl`
+Snapshot ID: `MCw1OTVlY2YwMDYxZTY4MTk3ZmViNjFhNzFmMjM4MDAxYTQ0YjNlZWFh`

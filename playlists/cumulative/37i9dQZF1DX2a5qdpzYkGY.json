@@ -522,7 +522,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 337586,
       "name": "Bishara",
       "url": "https://open.spotify.com/track/3TuJn4bY8y4Dqdz22zWypG"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2023-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 468373,
       "name": "Dr. Hooch",
       "url": "https://open.spotify.com/track/1sTK6xF1WJVM2ERbyzGjJI"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2023-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 216892,
       "name": "EIS O HOMEM",
       "url": "https://open.spotify.com/track/684bq3L70SYnS4W7nJDEtF"
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 289642,
       "name": "Entropy",
       "url": "https://open.spotify.com/track/7e6bj3wHC3OljTIiSM7K56"
@@ -2456,7 +2456,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-11",
+      "date_removed": null,
       "duration_ms": 518120,
       "name": "Lithuania",
       "url": "https://open.spotify.com/track/6yd6TACdbS9W4v2p30D6E8"
@@ -2496,7 +2496,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 483506,
       "name": "L\u00e1grimas Del Mar",
       "url": "https://open.spotify.com/track/7Hn2QzqGHoVe81bMFBwVSX"
@@ -2954,7 +2954,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-29",
+      "date_removed": null,
       "duration_ms": 183851,
       "name": "Mysteries",
       "url": "https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv"
@@ -3212,7 +3212,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-05-17",
+      "date_removed": null,
       "duration_ms": 156201,
       "name": "Passing Lights - Cinematic Version",
       "url": "https://open.spotify.com/track/2W0euyZlyIjmwYNzEfcVwr"
@@ -4075,6 +4075,24 @@
     },
     {
       "album": {
+        "name": "The Lamentations of Jeremiah",
+        "url": "https://open.spotify.com/album/2xyjuimdchfHIk17LrnwE6"
+      },
+      "artists": [
+        {
+          "name": "Vince Clarke",
+          "url": "https://open.spotify.com/artist/7zkGCcaPSB7nLCtaxEWWE1"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263978,
+      "name": "The Lamentations of Jeremiah",
+      "url": "https://open.spotify.com/track/1HecBEsDV1CRaDYbVld4iX"
+    },
+    {
+      "album": {
         "name": "The Last Retention",
         "url": "https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t"
       },
@@ -4230,7 +4248,7 @@
       ],
       "date_added": "2023-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 330565,
       "name": "Thunder Perfect - Album Mix",
       "url": "https://open.spotify.com/track/5Zvf7vZgafQ0P4DarGV4dp"

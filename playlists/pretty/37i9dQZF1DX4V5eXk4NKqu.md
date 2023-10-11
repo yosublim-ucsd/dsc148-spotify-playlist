@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 
 > The best Latin Indie tracks right now, featuring Simon Grossman.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,866 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,865 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 59 | [Maybe Baby](https://open.spotify.com/track/0qKCO9DXAH7kqc2JF3U5jd) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Maybe Baby](https://open.spotify.com/album/4tnEnvRN4d6GE6JpKzZNZe) | 3:47 |
 | 60 | [Hacedora](https://open.spotify.com/track/3CaqjyISMBli311fJtv44h) | [Axel Fiks](https://open.spotify.com/artist/6GEaxHZNiogI175zUr4KvH) | [Hacedora](https://open.spotify.com/album/6DhHC7S2KFdOh7yAtawwUk) | 2:07 |
 | 61 | [en la ciudad](https://open.spotify.com/track/5smdosXwKG5czbMDXqRtc7) | [Mario Puglia](https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT), [dóntia](https://open.spotify.com/artist/6otFL2m5sOProVKidtkpyx) | [en la ciudad](https://open.spotify.com/album/6FC9OVa2vFyot2dp23GdiM) | 3:31 |
-| 62 | [El Rayo Vallecano](https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [El Rayo Vallecano](https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5) | 2:50 |
-| 63 | [Se Apagó](https://open.spotify.com/track/7w9UoMZ5Jk22dFdNHi7pBU) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Se Apagó](https://open.spotify.com/album/19wVnNE8bc13xCCRTVqECe) | 2:21 |
+| 62 | [Se Apagó](https://open.spotify.com/track/7w9UoMZ5Jk22dFdNHi7pBU) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [Se Apagó](https://open.spotify.com/album/19wVnNE8bc13xCCRTVqECe) | 2:21 |
+| 63 | [El Rayo Vallecano](https://open.spotify.com/track/5vfZy8DtOxmwsozEwmbAcd) | [Dromedarios Mágicos](https://open.spotify.com/artist/3UP83Ekm9Jse6j0dWZJlH9) | [El Rayo Vallecano](https://open.spotify.com/album/2cwftCb3SwCpNu1WILU6r5) | 2:50 |
 | 64 | [Cortada en la Frente](https://open.spotify.com/track/6q2zT7E0nsAhLggEVeCv96) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Cortada en la Frente](https://open.spotify.com/album/2XTHHhHJJiOWmx3ptLnOGy) | 3:20 |
 | 65 | [Te Quiero Olvidar](https://open.spotify.com/track/3fQr5yEzrOis5U7klzyKql) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [CARISMA](https://open.spotify.com/album/62TQ8Q7gaq5T4eUzYr3YXQ) | 3:22 |
 | 66 | [Match](https://open.spotify.com/track/50xxt81t7cjfV0wPhUTmiU) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Match](https://open.spotify.com/album/3kx5G9S55HO7FRFOK3rJ79) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V5eXk4NKqu.md) - [plain]
 | 74 | [Better With You](https://open.spotify.com/track/4mW0oRgTmwPGFmpuwbvLud) | [Katzù Oso](https://open.spotify.com/artist/4tSzEOfCj6LXhaf0jtk4XO) | [Tmí](https://open.spotify.com/album/6BFTCcyxGLFBHocDnivQnY) | 2:36 |
 | 75 | [Te Espero Aquí](https://open.spotify.com/track/5cTyKJd1pHOxTt8pt8hAi7) | [Monogem](https://open.spotify.com/artist/4rNzwpjkFq8A7SeCMKBkEV) | [Gardenia](https://open.spotify.com/album/1aUCzIb8C1558x8qlo2gjM) | 4:11 |
 
-Snapshot ID: `MCxmZmMzZjllN2UxYzYwZGE5MTA2MmYzMWZjMGNmMTUzYTgxNzI4MjNi`
+Snapshot ID: `MCxjOWQ5NzJhNTZlMWE0ZDllZjY2Y2ZjZGRjOWRiZDlkYWY0MDUxMTVl`

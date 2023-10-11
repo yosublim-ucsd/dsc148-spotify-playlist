@@ -1,12 +1,12 @@
 {
   "description": "Para ahogar las penas en el fondo de una botella.",
-  "num_followers": 118785,
+  "num_followers": 118863,
   "original_name": "Rancheras, Despecho & Licor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZGFiZjZmNTZjMjNjNjQyNjk0MTAwMTA5OThhNDFmZDQwMzkxM2Ew",
+  "snapshot_id": "MCxlM2UxZTI1NDE0ZWE1YTczMGU1OTI4MGMwZDA5MGZkNDllY2EwOWQ2",
   "tracks": [
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-04-14 06:00:00",
       "album": {
-        "name": "De Pura Rabia",
-        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 187397,
-      "name": "De Pura Rabia",
-      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
         "name": "Mis Borracheras",
         "url": "https://open.spotify.com/album/7gq0O9v34SWXIzggHHOZli"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 167895,
       "name": "Mis Borracheras",
       "url": "https://open.spotify.com/track/3V9ZEYBGRNiogfBzY5kffn"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "De Pura Rabia",
+        "url": "https://open.spotify.com/album/3aKCApnTz9ESmKTUenfojX"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 187397,
+      "name": "De Pura Rabia",
+      "url": "https://open.spotify.com/track/4bjhTbUKjfxODbAgUNAwHT"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1627,22 +1627,6 @@
       "duration_ms": 211121,
       "name": "Ahora Que Puedo",
       "url": "https://open.spotify.com/track/5ydlSsuMpaqmEg2wKPBe9E"
-    },
-    {
-      "added_at": "2023-04-14 06:00:00",
-      "album": {
-        "name": "Bendecida",
-        "url": "https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0"
-      },
-      "artists": [
-        {
-          "name": "Yeison Jimenez",
-          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
-        }
-      ],
-      "duration_ms": 190230,
-      "name": "Bendecida",
-      "url": "https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl"
     },
     {
       "added_at": "2023-04-14 06:00:00",
@@ -1731,6 +1715,22 @@
       "duration_ms": 201200,
       "name": "Una Llamada Perdida",
       "url": "https://open.spotify.com/track/1seKHgwXPVAK9o6bh7IzlF"
+    },
+    {
+      "added_at": "2023-04-14 06:00:00",
+      "album": {
+        "name": "Bendecida",
+        "url": "https://open.spotify.com/album/5nDCeTPTS23OaddyzgMJF0"
+      },
+      "artists": [
+        {
+          "name": "Yeison Jimenez",
+          "url": "https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT"
+        }
+      ],
+      "duration_ms": 190230,
+      "name": "Bendecida",
+      "url": "https://open.spotify.com/track/5qFO4vlG88RGZ0SpuXMikl"
     },
     {
       "added_at": "2023-04-14 06:00:00",

@@ -4,7 +4,7 @@
 
 > Best of the modern folk artists! Cover\- Indian Ocean
 
-66 songs - 4 hr 42 min
+67 songs - 4 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Banna](https://open.spotify.com/track/5jg83QUqVDtu5qeVXk8AhB) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj) | [Banna](https://open.spotify.com/album/2sxtyPtwyblck3hU9lZuuu) | 5:36 | 2023-05-30 | 2023-09-07 |
 | [Bhammariyo](https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD) | [Divya Kumar](https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj), [Shruti Pathak](https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE) | [Bhammariyo](https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D) | 3:53 | 2023-03-10 |  |
 | [Boondan Boondan \(feat\. Ankita Joshi\)](https://open.spotify.com/track/5Nhvabw21YaRwoFwEZr3Uu) | [Maati Baani](https://open.spotify.com/artist/07mqL75cnHcpiu3f8vKgYn), [Ankita Joshi](https://open.spotify.com/artist/6nXrB6fb3HwgMXYZ8VNmhS) | [Maati Baani](https://open.spotify.com/album/3ouYJEEpLO73hey4E943zf) | 4:33 | 2023-03-10 |  |
+| [Bulaava Aaya](https://open.spotify.com/track/6HnkVw9GKU1ZqzJzpFOfvS) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Gurdas Maan](https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT) | [Bulaava Aaya](https://open.spotify.com/album/05UdHSttBA2pc0JcTUrsXP) | 5:34 | 2023-10-10 |  |
 | [Chanda Jhaanke](https://open.spotify.com/track/6dimVWFSWOrJ7MjwJL2Z26) | [Baba Hansraj Raghuwanshi](https://open.spotify.com/artist/58dEyoXedmI4PZAWWnnQSJ), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm) | [Chanda Jhaanke](https://open.spotify.com/album/78XzPufvH4XnpzstGoutVt) | 3:38 | 2023-05-30 | 2023-08-10 |
 | [Chanda Jhaanke](https://open.spotify.com/track/5X3oePi6rfWKfwwcAbjXQL) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Hansraj Raghuwanshi](https://open.spotify.com/artist/5cEE1pTgDhFe8QuigmqxJF) | [Chanda Jhaanke](https://open.spotify.com/album/61r6m0nwOsuAJdt1NNwvXG) | 3:38 | 2023-03-10 |  |
 | [Chekele](https://open.spotify.com/track/48onZ4ZEQnfzaH0yAofSsA) | [Ashic Arun](https://open.spotify.com/artist/3tarLlwi7lpfUrIGZjgigA) | [Chekele](https://open.spotify.com/album/0rPIpdxZnQKdP6iEeI05n2) | 2:22 | 2023-03-10 | 2023-10-06 |
@@ -71,7 +72,7 @@
 | [Safar](https://open.spotify.com/track/17PQNiQynwG4iCGwPglRuL) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Kimaya](https://open.spotify.com/album/5W5uidFGkEFw2GFKWUyT03) | 4:36 | 2023-03-10 |  |
 | [Sajaniya](https://open.spotify.com/track/2DdVtEaKssleK9Prel4ymy) | [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD) | [Sajaniya](https://open.spotify.com/album/4E8BL6gyfuIoFRAyw9XSrp) | 5:31 | 2023-03-10 |  |
 | [Samjhe Na](https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Mame Khan](https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD), [Ruchika Chauhan](https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1) | [Samjhe Na](https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq) | 3:17 | 2023-03-10 |  |
-| [Tanna Na](https://open.spotify.com/track/46nOdCXzOiSRDvfd8UHtPW) | [Nyasa](https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM) | [Tanna Na](https://open.spotify.com/album/2smTIeKKgY9AIVYPtvADak) | 3:22 | 2023-05-30 |  |
+| [Tanna Na](https://open.spotify.com/track/46nOdCXzOiSRDvfd8UHtPW) | [Nyasa](https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM) | [Tanna Na](https://open.spotify.com/album/2smTIeKKgY9AIVYPtvADak) | 3:22 | 2023-05-30 | 2023-10-11 |
 | [Tedo Tedo \- From Sonic Roots \- Songs of Soil](https://open.spotify.com/track/0BD132qaHZZAxQUlhLlDWI) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Kirtidan Gadhvi](https://open.spotify.com/artist/7odYFkW15De3A7aAuk5x9h) | [Tedo Tedo \(From Sonic Roots \- Songs of Soil\)](https://open.spotify.com/album/0M4sKyzt7oZx2rtgqExkAZ) | 3:51 | 2023-03-10 | 2023-07-12 |
 | [Umeed](https://open.spotify.com/track/3sCM3fyhfyWCuhSOSCiG6u) | [Alif](https://open.spotify.com/artist/66PL9mtBViWeqR2wUrS0Bk) | [Umeed](https://open.spotify.com/album/0XGQaeSfuP8rrEu2ZilbTn) | 4:51 | 2023-05-30 | 2023-06-11 |
 

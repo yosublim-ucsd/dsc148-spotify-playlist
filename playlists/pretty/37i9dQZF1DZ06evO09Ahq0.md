@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 
 > This is Avenged Sevenfold\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 431,997 likes - 48 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 432,649 likes - 49 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,11 +26,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 16 | [Beast and the Harlot](https://open.spotify.com/track/6FVYwnVrnAEIRnY3bHJb46) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 5:43 |
 | 17 | [Buried Alive](https://open.spotify.com/track/4veeNpXDK1YRHMTJ1Cppsg) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr) | 6:44 |
 | 18 | [Almost Easy](https://open.spotify.com/track/0DkmhHO4yyqCJFjosmmWPU) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 3:54 |
-| 19 | [Cosmic](https://open.spotify.com/track/1xA87lWGnZlIjG8tw4327F) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 7:31 |
+| 19 | [Game Over](https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 3:46 |
 | 20 | [Carry On](https://open.spotify.com/track/1hrfvLgEC9lci0kB89QEQ0) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Carry On](https://open.spotify.com/album/74n2zwxeFpTANK5e9z3LsK) | 4:15 |
 | 21 | [Danger Line](https://open.spotify.com/track/5mbXd14GteojYPpciTLYDk) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nightmare](https://open.spotify.com/album/1kZNgA27ewArSfE17yog8U) | 5:28 |
 | 22 | [Critical Acclaim](https://open.spotify.com/track/4VymMhILk4DSwghPkLUPVS) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Avenged Sevenfold](https://open.spotify.com/album/3Id3VUk9jSKBD1guNo1buF) | 5:15 |
-| 23 | [Game Over](https://open.spotify.com/track/5dSidrJ5XHdP1xb11xpV2z) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 3:46 |
+| 23 | [Cosmic](https://open.spotify.com/track/1xA87lWGnZlIjG8tw4327F) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 7:31 |
 | 24 | [M.I.A.](https://open.spotify.com/track/3PrvYgv97s5U752pIpDMNf) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [City of Evil](https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA) | 8:46 |
 | 25 | [Until the End](https://open.spotify.com/track/5NJTJElk0ArSxQtYjA0rYR) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 4:45 |
 | 26 | [Warmness On The Soul](https://open.spotify.com/track/018zT8xThRbMH2QeUoMlKQ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Sounding The Seventh Trumpet](https://open.spotify.com/album/3Pi6o8NqDPlEBilGeMKi8q) | 4:19 |
@@ -50,11 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09Ahq0.md) - [plain]
 | 40 | [Second Heartbeat](https://open.spotify.com/track/3hmX5dfwY9oRIpJKvt755u) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 7:00 |
 | 41 | [The Stage](https://open.spotify.com/track/69gBAQdpxvCsw34Bbf8MnD) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 8:32 |
 | 42 | [God Damn](https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage](https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko) | 3:41 |
-| 43 | [St\. James](https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 5:02 |
+| 43 | [Crossroads](https://open.spotify.com/track/4Oq241mV2LEcQsfXQPOfZe) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 4:30 |
 | 44 | [Remenissions](https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Waking The Fallen](https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk) | 6:06 |
 | 45 | [Set Me Free](https://open.spotify.com/track/2IrdmiRatVE5s3l2YRcIXH) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Set Me Free](https://open.spotify.com/album/0QKfHcNAjUqQo6PyQrGPk9) | 6:21 |
-| 46 | [Crossroads](https://open.spotify.com/track/4Oq241mV2LEcQsfXQPOfZe) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 4:30 |
-| 47 | [Girl I Know](https://open.spotify.com/track/7CAdycFxxvZqfSKNsdcVQB) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 4:24 |
-| 48 | [Paranoid](https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 2:42 |
+| 46 | [We Love You Moar \(feat\. Pussy Riot\)](https://open.spotify.com/track/37pQPRmfsWA9HM7xMM6yXv) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [We Love You Moar \(feat\. Pussy Riot\)](https://open.spotify.com/album/2Fjz2tjt6Hwsbjlio7n9vB) | 4:35 |
+| 47 | [St\. James](https://open.spotify.com/track/2n8rY6H6u2AnUe6Fi8M6P6) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 5:02 |
+| 48 | [Girl I Know](https://open.spotify.com/track/7CAdycFxxvZqfSKNsdcVQB) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 4:24 |
+| 49 | [Paranoid](https://open.spotify.com/track/53pWOzRC9DI6LixasJEdZZ) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Diamonds in the Rough](https://open.spotify.com/album/6VcCunBnnw4BVkCit5rk7d) | 2:42 |
 
-Snapshot ID: `MjgyNzUyNTYsMDAwMDAwMDAyMmZiOTM2OGY0ZTE1MmNmZDQ3NjI1NTAzOGE5Mjg5Yg==`
+Snapshot ID: `MjgyODI0MTYsMDAwMDAwMDAxZmZmYTE5YWEzZTNlODU4ZDM5NjA5ZDVjMTQ0NjVjNg==`

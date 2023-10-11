@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-[Spotify](https://open.spotify.com/user/spotify) - 782,377 likes - 70 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 782,418 likes - 70 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 11 | [Ouvi Dizer](https://open.spotify.com/track/1qCLx3nX25NuhfPjM5E1qV) | [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Melim](https://open.spotify.com/album/5zj7hdfXIpN0OV2aFbk27J) | 3:30 |
 | 12 | [Águas De Março](https://open.spotify.com/track/15ouqiBsgL12olEwP3COsH) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3SE9n6EaVOJ81KA1KPLUWS) | 3:34 |
 | 13 | [O Sol](https://open.spotify.com/track/1j5N75y26nH2l0uPa9JlKe) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Adrenalizou](https://open.spotify.com/album/7zI1acetTFBNiKnl5kBWQi) | 3:31 |
-| 14 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 |
+| 14 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO) | 6:34 |
 | 15 | [Ata\-me](https://open.spotify.com/track/3zFak51eEEHDHxmBnms9sm) | [Alaíde Costa](https://open.spotify.com/artist/2KkoeJkkFr802J5gPjlRGs) | [Ata\-me](https://open.spotify.com/album/5m1WwMk6bpyxqU5A0TCRog) | 3:36 |
-| 16 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/6hFKP7kl22184msxWDhXLL) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/7zwPBW2cZWLHNHxeOunZoO) | 6:34 |
+| 16 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 |
 | 17 | [Fica](https://open.spotify.com/track/3KK3nLgrRdycpnYxPDVfMV) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/73LZa11pSpEYhaCCcIXAiZ) | 3:04 |
 | 18 | [Andei Só \- Ao Vivo](https://open.spotify.com/track/7xMb0izMxYXFT0T7w0s9ir) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 4:23 |
 | 19 | [Bem Melhor](https://open.spotify.com/track/00vOICbp9QDX7e0R9l0Vl6) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Bem Melhor](https://open.spotify.com/album/1EDPtYxbHJ8iqRdLH6u2m4) | 3:03 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 41 | [Tempo Perdido \(Versão Os Dias Eram Assim\)](https://open.spotify.com/track/5nJNdtx7ZtkNRKiYdhb87Z) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Tempo Perdido \(Versão Os Dias Eram Assim\)](https://open.spotify.com/album/7t5ScMLW7t6WIa5F1VRvNN) | 3:28 |
 | 42 | [Nossa Conversa](https://open.spotify.com/track/5LMD7LjRhnBrDiTUVja4nG) | [Kell Smith](https://open.spotify.com/artist/74WDLxBsm1TLxV6WVwD994) | [Girassol](https://open.spotify.com/album/4TBlkvzwaXXMidx4Y24Lda) | 4:04 |
 | 43 | [Pra Me Refazer](https://open.spotify.com/track/1NocSraHhZfASkuG2WdE5r) | [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Pra Me Refazer](https://open.spotify.com/album/24l6oqlnRqFyxTBoh3phe5) | 3:35 |
-| 44 | [Mais Bonito Não Há](https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Mais Bonito Não Há](https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd) | 3:57 |
-| 45 | [Não Olha Assim Pra Mim](https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Encaixe](https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX) | 3:32 |
+| 44 | [Não Olha Assim Pra Mim](https://open.spotify.com/track/6Nhhr4fy6YKwLfoo3GDugB) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo) | [Encaixe](https://open.spotify.com/album/5MdoqDbChGI02hD8d9ZdzX) | 3:32 |
+| 45 | [Mais Bonito Não Há](https://open.spotify.com/track/3TjdjYx5sBXrRdytJkzJJX) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Mais Bonito Não Há](https://open.spotify.com/album/26a6ajd9PLDhLzlMZCawEd) | 3:57 |
 | 46 | [Samba](https://open.spotify.com/track/1E2TPHygHwO5m602LLaQZ3) | [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Samba](https://open.spotify.com/album/0tTsTvzc7K3UqkTZS2AlKT) | 2:40 |
 | 47 | [Promete](https://open.spotify.com/track/7iB72vyGDEcc232lctJdgL) | [Ana Vilela](https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4) | [Promete](https://open.spotify.com/album/6DXshRqI83BTRfeWtspvyQ) | 3:18 |
 | 48 | [O Que Será \(A Flor Da Terra\)](https://open.spotify.com/track/0rfbvwLPBLBsEd4Bxz8IVb) | [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Meus Caros Amigos](https://open.spotify.com/album/2LxncTIR5lf2dzoZb3QNC6) | 2:46 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 54 | [Dançando](https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx) | [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Agridoce](https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x) | 5:49 |
 | 55 | [Lança Perfume](https://open.spotify.com/track/3cijWAljXxxJDco4N2aLQl) | [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ), [Roberto De Carvalho](https://open.spotify.com/artist/4w4ll81d0dR8gz989jjko1) | [Rita Lee](https://open.spotify.com/album/77whDq0J0bYLftDVMKAlK7) | 5:10 |
 | 56 | [Petrified](https://open.spotify.com/track/0G41EUi3xiwUR6iOtXAQCz) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:17 |
-| 57 | [Brasil pandeiro](https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Enciclopédia Musical Brasileira](https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz) | 3:55 |
-| 58 | [Gostoso Demais \- Ao Vivo](https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Abraçar e Agradecer \(Ao Vivo\)](https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS) | 1:45 |
+| 57 | [Gostoso Demais \- Ao Vivo](https://open.spotify.com/track/1Xg14zUBW0I9OrAaUII020) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Abraçar e Agradecer \(Ao Vivo\)](https://open.spotify.com/album/64yiQDoh3XgaxonCFKg6HS) | 1:45 |
+| 58 | [Brasil pandeiro](https://open.spotify.com/track/4IIK7KvWCTSkVVRufxyh3d) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Enciclopédia Musical Brasileira](https://open.spotify.com/album/1RBORtbwQzlPBgcYXErnZz) | 3:55 |
 | 59 | [O Leãozinho \- Ao Vivo Em São Paulo / 2017](https://open.spotify.com/track/3ejU8JMenktibKkNz9dPBL) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Ofertório \(Ao Vivo\)](https://open.spotify.com/album/3PlAbFQa9MEymxTgQC51wv) | 2:56 |
 | 60 | [Laços](https://open.spotify.com/track/67TkwLw4MU99lmHtUYo340) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Reconstrução](https://open.spotify.com/album/4MaXnFPKQXHK7voqrWGEPn) | 3:24 |
 | 61 | [Eu sei que vou te amar](https://open.spotify.com/track/39zQVNn96cCKq0JxfB9RM5) | [Paula Sergio](https://open.spotify.com/artist/6P4y8CZPgk4uB6UlJV5uwS) | [Brasil Bossa Nova Grandes Autores Vinicius Toquinho Tom Jobin](https://open.spotify.com/album/7iFtBoq7mSSnMKWoePFOpG) | 3:49 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV6hddfqLW3Z.md) - [plain]
 | 69 | [Preciso Me Encontrar](https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:59 |
 | 70 | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/track/4B4yZrE4D1ZTJF9c70wOMz) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K) | [Não Quero Vingança \- Spotify Singles](https://open.spotify.com/album/32ZTfHW7lUG1u7EQmqiVgX) | 2:56 |
 
-Snapshot ID: `MCw2OWU5YjNmMzdiMmMzOGE0ODBjOTA0ZGZmNmJiMmEwMjMxNGZiOTIz`
+Snapshot ID: `MCw3OTVkZTdkM2NjNzNmYjM0MDAwM2NhMmNjNDY1ZWI2ZjhmZTg1Zjgx`

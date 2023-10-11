@@ -1,12 +1,12 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 204092,
+  "num_followers": 204277,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MzRmYzRlZjIyOTgyYWRmM2I3ZTQ3YzliMjAzNTJmN2NmMDFhMjll",
+  "snapshot_id": "MCwzN2FlZGVkYzY3ODM4YzBjMzVjODc1OGE0M2EzZjc5OTI2NTE1ZjEx",
   "tracks": [
     {
       "added_at": "2022-12-07 21:09:44",
@@ -271,22 +271,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 212754,
-      "name": "Me Enamore",
-      "url": "https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Amor de Internet",
         "url": "https://open.spotify.com/album/4EUUeYCNRYC0eTdlPKF7Rl"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 230226,
       "name": "Amor de Internet",
       "url": "https://open.spotify.com/track/0tAxedQQR6bPR26BlfZ8d2"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 212754,
+      "name": "Me Enamore",
+      "url": "https://open.spotify.com/track/69Z2hUoeaxVx3Hxf8unmks"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -447,22 +447,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Coraz\u00f3n de Papel",
-        "url": "https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq"
-      },
-      "artists": [
-        {
-          "name": "Los Charros",
-          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Amores como el nuestro",
-      "url": "https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Separece A Ti",
         "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 248786,
       "name": "Se Parece M\u00e1s A Ti",
       "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Coraz\u00f3n de Papel",
+        "url": "https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq"
+      },
+      "artists": [
+        {
+          "name": "Los Charros",
+          "url": "https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Amores como el nuestro",
+      "url": "https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -547,22 +547,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Los M\u00e1s Queridos",
-        "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
-      },
-      "artists": [
-        {
-          "name": "La Nueva Luna",
-          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
-        }
-      ],
-      "duration_ms": 203600,
-      "name": "Te Vas a Arrepentir",
-      "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "En Tus Manos",
         "url": "https://open.spotify.com/album/5z3TRIQbmeAvd3yzCOmslK"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 209533,
       "name": "En Tus Manos",
       "url": "https://open.spotify.com/track/7dniUnDWDCZn9V7iT2dAhl"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Los M\u00e1s Queridos",
+        "url": "https://open.spotify.com/album/6I4Hfrp7oGAXRmPjcfCAW4"
+      },
+      "artists": [
+        {
+          "name": "La Nueva Luna",
+          "url": "https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX"
+        }
+      ],
+      "duration_ms": 203600,
+      "name": "Te Vas a Arrepentir",
+      "url": "https://open.spotify.com/track/5XjusjnRecmB48YdD9BEIJ"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Sueno Latino",
-        "url": "https://open.spotify.com/album/1hgd43q4QftJJ9RLkz6cz5"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Pavas",
-          "url": "https://open.spotify.com/artist/5iCx0rNkZzVivaykkSXLZm"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Mil Horas",
-      "url": "https://open.spotify.com/track/415WOC7qIqb1pvOOhe90si"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "S\u00f3lo \u00c9xitos",
         "url": "https://open.spotify.com/album/5hfRoSTXSY1sISkQTVc0nn"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 220533,
       "name": "Cumbia Francesa",
       "url": "https://open.spotify.com/track/6gcI2byXyIPQM2tFybviuo"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Sueno Latino",
+        "url": "https://open.spotify.com/album/1hgd43q4QftJJ9RLkz6cz5"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Pavas",
+          "url": "https://open.spotify.com/artist/5iCx0rNkZzVivaykkSXLZm"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Mil Horas",
+      "url": "https://open.spotify.com/track/415WOC7qIqb1pvOOhe90si"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -803,22 +803,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Cerca De Ti",
-        "url": "https://open.spotify.com/album/08u4HX1MAvPf6IWc8GC2pi"
-      },
-      "artists": [
-        {
-          "name": "Super Lamas",
-          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
-        }
-      ],
-      "duration_ms": 252840,
-      "name": "Todo Lo Encuentro En Ti",
-      "url": "https://open.spotify.com/track/7rAKlP1M9qDfYImf6VYnEI"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "El Poder de la Cumbia",
         "url": "https://open.spotify.com/album/79LPQTAIJn9zkZbQxjijae"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 311386,
       "name": "Rumba Frenesi",
       "url": "https://open.spotify.com/track/1nASPG3ZiLBi3fJMOZmRsJ"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Cerca De Ti",
+        "url": "https://open.spotify.com/album/08u4HX1MAvPf6IWc8GC2pi"
+      },
+      "artists": [
+        {
+          "name": "Super Lamas",
+          "url": "https://open.spotify.com/artist/0A8eZ8ou3msWR8xVkJOFXe"
+        }
+      ],
+      "duration_ms": 252840,
+      "name": "Todo Lo Encuentro En Ti",
+      "url": "https://open.spotify.com/track/7rAKlP1M9qDfYImf6VYnEI"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "17 Aniversario",
-        "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
-      },
-      "artists": [
-        {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
-        }
-      ],
-      "duration_ms": 199862,
-      "name": "Cosas del Amor",
-      "url": "https://open.spotify.com/track/7hUeM605R3peXzGU9FBgix"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "El Soltero",
         "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 146146,
       "name": "Cangrejito Playero",
       "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "17 Aniversario",
+        "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
+      },
+      "artists": [
+        {
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+        }
+      ],
+      "duration_ms": 199862,
+      "name": "Cosas del Amor",
+      "url": "https://open.spotify.com/track/7hUeM605R3peXzGU9FBgix"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Solo Para Entendidos",
-        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
-      },
-      "artists": [
-        {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
-        }
-      ],
-      "duration_ms": 182466,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Matamoros Querido",
         "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 187200,
       "name": "Matamoros Querido",
       "url": "https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Solo Para Entendidos",
+        "url": "https://open.spotify.com/album/6v4EOAJlhIqTgl7vbRbUga"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 182466,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/6ZHydaYmmzJKeceEV5nmuS"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Puros Vatos...Choca Y Rebota",
-        "url": "https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe"
-      },
-      "artists": [
-        {
-          "name": "Chicos de Barrio",
-          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Mentirosa (Eres Mentirosa)",
-      "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Nuevamente! Salsas y Cumbias",
         "url": "https://open.spotify.com/album/3Zx5e0NwrsEZdgyWwA9KWZ"
       },
@@ -1527,18 +1511,18 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "M\u00fasica Sin Limites - Tropical",
-        "url": "https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp"
+        "name": "Puros Vatos...Choca Y Rebota",
+        "url": "https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe"
       },
       "artists": [
         {
-          "name": "Internacional Carro Show",
-          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
+          "name": "Chicos de Barrio",
+          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
         }
       ],
-      "duration_ms": 161520,
-      "name": "Amor De Unas Horas",
-      "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
+      "duration_ms": 273893,
+      "name": "Mentirosa (Eres Mentirosa)",
+      "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1555,6 +1539,22 @@
       "duration_ms": 171746,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "M\u00fasica Sin Limites - Tropical",
+        "url": "https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp"
+      },
+      "artists": [
+        {
+          "name": "Internacional Carro Show",
+          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
+        }
+      ],
+      "duration_ms": 161520,
+      "name": "Amor De Unas Horas",
+      "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1685,20 +1685,20 @@
       "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
     },
     {
-      "added_at": "2022-12-07 21:09:44",
+      "added_at": "2022-12-30 17:21:35",
       "album": {
-        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
-        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
       },
       "artists": [
         {
-          "name": "Los Askis",
-          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
         }
       ],
-      "duration_ms": 211440,
-      "name": "\u00a1Ay! El Amor",
-      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
+      "duration_ms": 287896,
+      "name": "En Mi Escritorio (La Carta)",
+      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1719,6 +1719,22 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
+        "name": "Grandes \u00c9xitos Remezclados Y Masterizados",
+        "url": "https://open.spotify.com/album/6gecuyIGvYoTOQdyZkovhS"
+      },
+      "artists": [
+        {
+          "name": "Los Askis",
+          "url": "https://open.spotify.com/artist/7wiOKrtPg196Hh90CdoKPi"
+        }
+      ],
+      "duration_ms": 211440,
+      "name": "\u00a1Ay! El Amor",
+      "url": "https://open.spotify.com/track/6PAUYlcbuqx6s2MC5RAGLJ"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
         "name": "Exitos Quemantes Vol. IV",
         "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 183440,
       "name": "Ojitos Mentirosos",
       "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
-    },
-    {
-      "added_at": "2022-12-30 17:21:35",
-      "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
-      },
-      "artists": [
-        {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
-        }
-      ],
-      "duration_ms": 287896,
-      "name": "En Mi Escritorio (La Carta)",
-      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
     },
     {
       "added_at": "2022-12-07 21:09:44",

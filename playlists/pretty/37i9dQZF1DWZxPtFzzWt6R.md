@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: André e Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,090 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,104 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 42 | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/track/1q3rYJMoGc0FDhdyPcTnBw) | [Kleuder Leão](https://open.spotify.com/artist/7Ft5r1OOfJxIoMrm61T8tk), [Carlos Henrique](https://open.spotify.com/artist/3QlHTFeE4uEB4zLEv9gy4r) | [Mais que Vencedor \(feat\. Carlos Henrique\)](https://open.spotify.com/album/67hDmO0TuD5Dsau7zZbK73) | 3:35 |
 | 43 | [Oliveira Verdadeira \- Ao Vivo em São Paulo](https://open.spotify.com/track/7u0d3etlKZIj2dGvXvJfXq) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Louvor Raíz \(Ao Vivo em São Paulo\)](https://open.spotify.com/album/2Vu9z0dwmSBVKmXB8mOXPF) | 4:14 |
 | 44 | [Quem Foi Que Me Tocou](https://open.spotify.com/track/0FgEqIM4SYwjvCbdIzQU04) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Quem Foi Que Me Tocou](https://open.spotify.com/album/7f6cChSO1EpHAlmEZLXbRX) | 4:41 |
-| 45 | [A Terra e o Lavrador](https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Terra e o Lavrador](https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb) | 3:20 |
-| 46 | [Deus Proverá](https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus Proverá](https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN) | 4:33 |
+| 45 | [Deus Proverá](https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus Proverá](https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN) | 4:33 |
+| 46 | [A Terra e o Lavrador](https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Terra e o Lavrador](https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb) | 3:20 |
 | 47 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 |
 | 48 | [Tem Milagre Vindo Aí](https://open.spotify.com/track/2BLbkAosZfN5bmdOCLdwCv) | [Monique Grazielle](https://open.spotify.com/artist/2CdJLbNKlntgLM95IWuTWM) | [No Tempo Certo](https://open.spotify.com/album/59lcFTldjKDGy2w2mS8nj9) | 3:56 |
 | 49 | [Aquele Que Morreu na Cruz](https://open.spotify.com/track/1WQxnqVIpabXhfguWVML3e) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Rayssa Peres](https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA) | [Aquele Que Morreu na Cruz](https://open.spotify.com/album/7MmnGwOEROxep15P3jyDuV) | 3:23 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 51 | [Amar É Fácil](https://open.spotify.com/track/0dwykNS2PkwLAQ0fgpIUQU) | [Lenno Maia](https://open.spotify.com/artist/7h4qSS1HJt6i1Fws0qInTx) | [Amar É Fácil](https://open.spotify.com/album/3wcYcruIxHI6xfQcVqiTo8) | 4:37 |
 | 52 | [Minha Ilha](https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Minha Ilha](https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb) | 4:44 |
 | 53 | [Ovelha Rebelde](https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [O Meu Clamor, Vol\. 2](https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e) | 3:14 |
-| 54 | [Arma Forjada](https://open.spotify.com/track/3wgJ32iIfOTwFmd6zSL6dG) | [Ronaldo André](https://open.spotify.com/artist/4ncW0avyx3Z9dDloRttewh) | [Arma Forjada](https://open.spotify.com/album/6Ks3dxIO88IeFfLgqZHdFG) | 4:07 |
-| 55 | [Situações](https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Situações](https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq) | 4:21 |
+| 54 | [Situações](https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Situações](https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq) | 4:21 |
+| 55 | [Arma Forjada](https://open.spotify.com/track/3wgJ32iIfOTwFmd6zSL6dG) | [Ronaldo André](https://open.spotify.com/artist/4ncW0avyx3Z9dDloRttewh) | [Arma Forjada](https://open.spotify.com/album/6Ks3dxIO88IeFfLgqZHdFG) | 4:07 |
 | 56 | [Uma Música, uma História: Vendavais](https://open.spotify.com/track/32BFnIiEV8SQf1RYWsi0cz) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Uma Música, uma História: Vendavais](https://open.spotify.com/album/65AR5SWnfULr33MQngy9at) | 4:30 |
 | 57 | [A Resposta É Deus](https://open.spotify.com/track/3wYqm1QcLqtgxQes7KxvE2) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [A Resposta É Deus](https://open.spotify.com/album/0id1PiZXaaYLPMxLNJVTmE) | 4:16 |
 | 58 | [Refém do Caminhão](https://open.spotify.com/track/3DHX5Ca4Vzest42XWIMhrc) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [Refém do Caminhão](https://open.spotify.com/album/0TPZmILuwLS8LvijT4cLKy) | 4:36 |
 | 59 | [Volta pra Casa](https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Volta pra Casa](https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC) | 4:49 |
 | 60 | [Além da Medicina](https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Além da Medicina](https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED) | 4:46 |
 
-Snapshot ID: `MCxiNDVkNGI4Y2Y1MDEyY2QyMjc1YzZmNWZhYWNkY2MxMjQwMzI4OGJk`
+Snapshot ID: `MCwyYjYwNDY3YWI3ZWY4OTg0ZjIzZjJjNGU1ZmZjYTQyN2U0MDU5NmNh`

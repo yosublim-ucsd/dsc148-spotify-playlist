@@ -2,9 +2,9 @@
 
 ### [Autumn Classical Japan](https://open.spotify.com/playlist/37i9dQZF1DXcUv9n7At27D)
 
-> 今年の秋に聴きたい日本のクラシックを集めました。
+> 今年の秋に聴きたい日本のクラシックを集めました。cover: 小桜 ハル\(こざくら はる\)　 ©阿久井真／小学館／NHK・NEP・日本アニメーション
 
-172 songs - 10 hr 59 min
+173 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Found](https://open.spotify.com/track/0nmsZnjOt2rVGToXSyPm18) | [Marika Takeuchi](https://open.spotify.com/artist/0lsDi98XEKVkgN2kdZWBHT) | [Melding](https://open.spotify.com/album/4e9GDgyr6XVS50tjwUeKy0) | 5:13 | 2022-09-21 |  |
 | [Fragment](https://open.spotify.com/track/0SzKEFWzWvqrPmHPPilLxA) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Fragment](https://open.spotify.com/album/5R5yXIlGTWcSOqq1gT0Y7j) | 3:14 | 2023-02-28 | 2023-06-10 |
 | [Gardenia](https://open.spotify.com/track/5VvDYrvmi1oiPlmLcf6Rr8) | [Masaki Kawasaki](https://open.spotify.com/artist/5Erzr1UaaVg4uG9QNBlksK) | [Gardenia](https://open.spotify.com/album/1Q5cMBpn4o5H9qFwqo3xAP) | 3:29 | 2023-06-09 | 2023-09-15 |
+| [G線上のアリア（無伴奏ヴァイオリン版）](https://open.spotify.com/track/3fXUgYuJJ6iNskUNfLTE8V) | [小川恭子](https://open.spotify.com/artist/22MNZFpm5ETAg33C7ZNodS), [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408) | [J.S.バッハ：G線上のアリア（無伴奏ヴァイオリン版）](https://open.spotify.com/album/5fJER6xaeHGZTQMXBzOxt9) | 5:05 | 2023-10-10 |  |
 | [G線上のアリア（Ａｉｒ）](https://open.spotify.com/track/32aXWDVLpSqOnIEvBftq0Z) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Ikuko Kawai](https://open.spotify.com/artist/3Mn8t5WvKxtpW1vjxDjphD) | [The Melody ～100年の音楽～](https://open.spotify.com/album/6qlcoQ2M33fJ9Y2Y7VW3kY) | 2:27 | 2022-09-21 |  |
 | [Hakukou](https://open.spotify.com/track/5f5m8do8PCgqJLEm2G02JH) | [Ayatake Ezaki](https://open.spotify.com/artist/30XTStA4lExo4PotWkoOQT) | [Hakukou](https://open.spotify.com/album/7zP5tM1fwHaRvPNRY2TYpv) | 4:30 | 2023-06-09 | 2023-09-15 |
 | [hananoame](https://open.spotify.com/track/0pPlbgLKDPFlGKTbmApQiX) | [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [hananoame](https://open.spotify.com/album/3c2oU0PlWnVe0Eg4IZIb5D) | 4:20 | 2022-11-30 | 2023-03-01 |

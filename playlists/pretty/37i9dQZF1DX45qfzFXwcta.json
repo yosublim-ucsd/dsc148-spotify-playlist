@@ -1,12 +1,12 @@
 {
   "description": "Instrumental beats from (and influenced by) Hip-Hop's golden era; to help you study, work and vibe. ",
-  "num_followers": 34792,
+  "num_followers": 34931,
   "original_name": "Boom Bap Focus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjA4ZGEwYmQ4Njk0M2ZiYjA0MzZkYTMxNzZlMGQ1ZTliODcxOGJh",
+  "snapshot_id": "MCwxNDBmM2M1MjAxYjM2MTcxMDhhZmJiZjUyZTY2OTE1NmFjNDJiNWZm",
   "tracks": [
     {
       "added_at": "2022-12-09 13:00:46",
@@ -1631,6 +1631,62 @@
       "duration_ms": 152613,
       "name": "Courtyard Cadence",
       "url": "https://open.spotify.com/track/2UsnJcR7WFjg316sshTPVK"
+    },
+    {
+      "added_at": "2023-10-10 18:35:15",
+      "album": {
+        "name": "Dreamer's Disease (Instrumentals)",
+        "url": "https://open.spotify.com/album/1eW7YxArELoW5iCXdCjEmC"
+      },
+      "artists": [
+        {
+          "name": "yeyts.",
+          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+        }
+      ],
+      "duration_ms": 167441,
+      "name": "Fool's Gold - Instrumental",
+      "url": "https://open.spotify.com/track/400dKJ9NMuxsg99O0te1Ix"
+    },
+    {
+      "added_at": "2023-10-10 18:35:15",
+      "album": {
+        "name": "Aix",
+        "url": "https://open.spotify.com/album/5I7cP45DUe2N8gjKM2X6vB"
+      },
+      "artists": [
+        {
+          "name": "Bokoya",
+          "url": "https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA"
+        },
+        {
+          "name": "FloFilz",
+          "url": "https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds"
+        }
+      ],
+      "duration_ms": 139906,
+      "name": "Aix",
+      "url": "https://open.spotify.com/track/34mXkxjLfdL4LseDpQYps0"
+    },
+    {
+      "added_at": "2023-10-10 18:35:15",
+      "album": {
+        "name": "Tanqueray",
+        "url": "https://open.spotify.com/album/4oLwCJS6Mn5QT9WObQVdkB"
+      },
+      "artists": [
+        {
+          "name": "Jaz93",
+          "url": "https://open.spotify.com/artist/1GUv8VOUxgJrbN9hx20xxi"
+        },
+        {
+          "name": "Kick a Dope Verse!",
+          "url": "https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z"
+        }
+      ],
+      "duration_ms": 171439,
+      "name": "Leave A Message",
+      "url": "https://open.spotify.com/track/5KJqEIAYKfey08rG9KmtgE"
     }
   ],
   "unique_name": "Boom Bap Focus",

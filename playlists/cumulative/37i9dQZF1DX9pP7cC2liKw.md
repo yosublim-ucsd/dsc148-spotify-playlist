@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-304 songs - 21 hr 20 min
+306 songs - 21 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Deep Cumbia](https://open.spotify.com/track/6dfFxwfNJhe1A1vNGioiyL) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Deep Cumbia](https://open.spotify.com/album/4bIjpYcmePHJU30xuxMQCC) | 9:02 | 2022-09-12 | 2022-11-21 |
 | [Dolores](https://open.spotify.com/track/1wXeMZqegwYZ2zWtrwvXab) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Dolores](https://open.spotify.com/album/0WDiOaWlbou6miFDG9sXlZ) | 3:38 | 2022-04-17 | 2023-03-25 |
 | [Don’t You Want My Love](https://open.spotify.com/track/4L60ULqvJpqFReaNwmq8F0) | [Moodymann](https://open.spotify.com/artist/6pohviZSNRueSX7uNu63ZX) | [Forevernevermore](https://open.spotify.com/album/2NhQapO6mTOWbip0fvru36) | 4:24 | 2022-06-15 | 2023-03-25 |
-| [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 | 2023-03-31 |  |
+| [Dubby Sunday](https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Dubby Sunday](https://open.spotify.com/album/5dWRxAldaLhTCV6eBDHWBt) | 5:48 | 2023-03-31 | 2023-10-11 |
 | [Duele](https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Duele](https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk) | 3:17 | 2022-06-30 | 2022-08-07 |
 | [Each Time I Think of You](https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF) | [Beach Planet Vol\. 1](https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp) | 6:24 | 2022-01-06 | 2022-07-28 |
 | [Eclipse](https://open.spotify.com/track/52Ntzc7mUEEH5ilCz7MYpF) | [XIXA](https://open.spotify.com/artist/00TFWY9PfTDEgsptXLrl1e) | [Eclipse](https://open.spotify.com/album/27SOPYyLOq2RWnzPx6pW4d) | 3:26 | 2022-01-04 | 2022-06-13 |
@@ -242,6 +242,7 @@
 | [Sabe a Tu Nombre](https://open.spotify.com/track/4kPG4XKpeWVhBd4bfDYuyF) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa) | [Sabe a Tu Nombre](https://open.spotify.com/album/5gkAUF7ohgE237sxZuIFaB) | 3:48 | 2022-01-04 | 2022-07-28 |
 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 | 2022-07-01 |  |
 | [Sala Nabina \- Karmaâ Remix](https://open.spotify.com/track/19NaGWC4RQwfNJmgclF3XX) | [IZADORÄ](https://open.spotify.com/artist/1rPvh2OggGcSpB8iBaTksJ), [Ayoub Rahhal](https://open.spotify.com/artist/6IVY9D4To5r6rpCHwoFkqZ), [Karmaâ](https://open.spotify.com/artist/3yx74xmlyOAsmyqn0r4iOV) | [Sala Nabina \(Karmaâ Remix\)](https://open.spotify.com/album/2HT5Fus8tASVOThQIGznZA) | 7:14 | 2022-01-04 | 2022-05-25 |
+| [Sale el Sol](https://open.spotify.com/track/1YKNaQqLDMVNDULbyOHGqK) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 3:33 | 2023-10-10 |  |
 | [SALTA](https://open.spotify.com/track/3Jc8DUdZ1iX5FbYaKzKVh1) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [TANDEM](https://open.spotify.com/album/1qm1yaOMS8Hhz4QS4aUB69) | 2:50 | 2022-04-17 |  |
 | [Samba del Arenal](https://open.spotify.com/track/4etH0m0htL9X8uHEWRIsIx) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Cinemar](https://open.spotify.com/artist/2t96uQP8to5GTqfwPJ9T37) | [Samba del Arenal](https://open.spotify.com/album/6ZCVkOvf6wk9h5KLNs21Fk) | 4:13 | 2022-01-04 |  |
 | [San Junipero](https://open.spotify.com/track/34e6THp9JMgOZO2vZplFYP) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV) | [San Junipero](https://open.spotify.com/album/60MTpbM78B7EG2j3nJlrBV) | 3:11 | 2023-03-23 | 2023-05-27 |
@@ -255,7 +256,7 @@
 | [Savanne](https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:16 | 2022-08-03 |  |
 | [Selva y mar](https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva y mar](https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG) | 4:08 | 2022-04-17 | 2023-08-19 |
 | [Sentir](https://open.spotify.com/track/52LzaPKWxeHxGTJq0GkEqx) | [Ilse Hendrix](https://open.spotify.com/artist/4nKY8xVK5R0lpdv2oDyraB) | [Sentir](https://open.spotify.com/album/6JrZVD3zusGjBWMuT37q3z) | 3:48 | 2022-01-04 | 2023-09-25 |
-| [Señor](https://open.spotify.com/track/00Ab7huoVjqKfhtzzu8vYE) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W) | [Señor](https://open.spotify.com/album/58NsuYYnNzRJUhAMFB7pQK) | 2:30 | 2022-06-15 |  |
+| [Señor](https://open.spotify.com/track/00Ab7huoVjqKfhtzzu8vYE) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W) | [Señor](https://open.spotify.com/album/58NsuYYnNzRJUhAMFB7pQK) | 2:30 | 2022-06-15 | 2023-10-11 |
 | [Señor](https://open.spotify.com/track/7JDJFIsPs8ir43qeH1WsrQ) | [Desta French](https://open.spotify.com/artist/0Wqws1yyGkVRdAd7ncSW3W) | [Señor](https://open.spotify.com/album/0MNEoUApUNkyOPAsxaCAni) | 2:30 | 2022-01-04 | 2022-07-29 |
 | [Shinjuku Strut](https://open.spotify.com/track/40eiz1003cXrXFRnMtBvIU) | [Rick Wade](https://open.spotify.com/artist/1HaiySQ7RMsuvfCEVML84p) | [Hustler's Lullaby](https://open.spotify.com/album/742wdMvR7gEPIPL8ubSl8z) | 5:14 | 2022-04-17 |  |
 | [Siempre Simón y Nunca Nel](https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Siempre Simón y Nunca Nel](https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq) | 4:01 | 2022-07-13 | 2023-09-07 |
@@ -291,6 +292,7 @@
 | [To My Love \- Tainy Remix](https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Amanecer \(Remixed\)](https://open.spotify.com/album/7jo5KFYHLHpbVX0glLHiIA) | 4:11 | 2022-06-15 | 2023-03-25 |
 | [Todo Cambia](https://open.spotify.com/track/2f3mTJUP0bhLf9q9jgfIeQ) | [Son de Aquí](https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ) | [Al Otro Lado del Mar](https://open.spotify.com/album/1cMLf2f5pP1TDA5z0sGi8G) | 4:18 | 2022-09-03 | 2022-11-17 |
 | [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 | 2022-03-30 | 2022-07-27 |
+| [Trago Coqueto](https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 3:02 | 2023-10-10 |  |
 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 | 2022-02-14 |  |
 | [Tune Rider](https://open.spotify.com/track/4HBz7gmSjQ143OiMoFFKJu) | [Tunkuy](https://open.spotify.com/artist/66E1mdKk5XT2HUZ3hkKEX0), [German I](https://open.spotify.com/artist/0cGJK3i9jWhsjvY7svZas3) | [Tune Rider](https://open.spotify.com/album/1AOe1eOT8UamKJwpkHV110) | 3:50 | 2022-01-04 | 2022-07-26 |
 | [Turn Around](https://open.spotify.com/track/3C8jZgiUP0pP1l58837NzH) | [Rampue](https://open.spotify.com/artist/3YRLUjgMJ1xg1TIcknIxlv) | [Turn Around](https://open.spotify.com/album/7LiFR5PvKfWfQ7qzYpU25u) | 7:17 | 2022-06-15 | 2023-02-05 |

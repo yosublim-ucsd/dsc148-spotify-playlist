@@ -1,12 +1,12 @@
 {
   "description": "Work or rest with these gems from the 80s.",
-  "num_followers": 214776,
+  "num_followers": 214916,
   "original_name": "Chilled 80s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYjk3MjQ4YjFlMzNmMjhmM2I0YmJhOTcxYTQ2NDQ5MjBhMjVkNjEw",
+  "snapshot_id": "MCxiYTk2ZWFjOTFkYmY0MzVmYzdjODQzOTMwMWM1Njk1MzVmMTZlOTQ3",
   "tracks": [
     {
       "added_at": "2018-12-12 11:36:39",
@@ -232,7 +232,7 @@
           "url": "https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo"
         }
       ],
-      "duration_ms": 256839,
+      "duration_ms": 256840,
       "name": "Avalon",
       "url": "https://open.spotify.com/track/7iWIdiJlKvJ4PjFYVrWLUU"
     },
@@ -271,22 +271,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The End Of The Innocence",
-        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
-      },
-      "artists": [
-        {
-          "name": "Don Henley",
-          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
-        }
-      ],
-      "duration_ms": 315306,
-      "name": "The End Of The Innocence",
-      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "The Sensual World (2018 Remaster)",
         "url": "https://open.spotify.com/album/5EyDvOit9McsAc9ao1QROt"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 216306,
       "name": "This Woman's Work - 2018 Remaster",
       "url": "https://open.spotify.com/track/7ijKen7rccf56qOMGkS22e"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The End Of The Innocence",
+        "url": "https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl"
+      },
+      "artists": [
+        {
+          "name": "Don Henley",
+          "url": "https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2"
+        }
+      ],
+      "duration_ms": 315306,
+      "name": "The End Of The Innocence",
+      "url": "https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -399,22 +399,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "The Joshua Tree (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 257365,
-      "name": "Running To Stand Still",
-      "url": "https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Magical Ring",
         "url": "https://open.spotify.com/album/1HQJUZCAhN3e3LR43VVa5j"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 149026,
       "name": "Theme from Harry's Game - Remastered",
       "url": "https://open.spotify.com/track/2hcxPnu5RljXH0eMOtctuF"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "The Joshua Tree (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 257365,
+      "name": "Running To Stand Still",
+      "url": "https://open.spotify.com/track/4MLPCRYNhDIKcRjzS54ceu"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -479,22 +479,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
-      },
-      "artists": [
-        {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
-        }
-      ],
-      "duration_ms": 234546,
-      "name": "Send Her My Love",
-      "url": "https://open.spotify.com/track/48Wu7j5ANO17SOpjb3oVPC"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Blade Runner (Music From The Original Soundtrack)",
         "url": "https://open.spotify.com/album/6NkuCdMz5tGmHbOXAWbtCW"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 295693,
       "name": "Love Theme",
       "url": "https://open.spotify.com/track/2oDR7QWoLBk9VYMwsFbRGq"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+      },
+      "artists": [
+        {
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+        }
+      ],
+      "duration_ms": 234546,
+      "name": "Send Her My Love",
+      "url": "https://open.spotify.com/track/48Wu7j5ANO17SOpjb3oVPC"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -735,22 +735,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Thirty Thousand Feet Over China",
-        "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
-      },
-      "artists": [
-        {
-          "name": "The Passions",
-          "url": "https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3"
-        }
-      ],
-      "duration_ms": 241320,
-      "name": "I'm In Love With A German Film Star",
-      "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Rock a Little",
         "url": "https://open.spotify.com/album/0guJSEAsHAQ1gXPC18u7hc"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 279413,
       "name": "Has Anyone Ever Written Anything for You",
       "url": "https://open.spotify.com/track/1PAnGhRo2tHpM2DNibEEe6"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Thirty Thousand Feet Over China",
+        "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
+      },
+      "artists": [
+        {
+          "name": "The Passions",
+          "url": "https://open.spotify.com/artist/6emLiLQsxkbmQMs0Bn51h3"
+        }
+      ],
+      "duration_ms": 241320,
+      "name": "I'm In Love With A German Film Star",
+      "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
     },
     {
       "added_at": "2018-12-12 11:36:39",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2018-12-12 11:36:39",
       "album": {
-        "name": "Hats",
-        "url": "https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv"
-      },
-      "artists": [
-        {
-          "name": "The Blue Nile",
-          "url": "https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM"
-        }
-      ],
-      "duration_ms": 304280,
-      "name": "Over the Hillside",
-      "url": "https://open.spotify.com/track/3VYjrxEmu7MaG9c7ubVn99"
-    },
-    {
-      "added_at": "2018-12-12 11:36:39",
-      "album": {
         "name": "Treasure",
         "url": "https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 244066,
       "name": "Otterley",
       "url": "https://open.spotify.com/track/5GO0qzKdvndy7g9r0iKEDz"
+    },
+    {
+      "added_at": "2018-12-12 11:36:39",
+      "album": {
+        "name": "Hats",
+        "url": "https://open.spotify.com/album/4pLVvQiysxBwbUuSB3ceQv"
+      },
+      "artists": [
+        {
+          "name": "The Blue Nile",
+          "url": "https://open.spotify.com/artist/1GWV70Reko15eV2nHCm0bM"
+        }
+      ],
+      "duration_ms": 304280,
+      "name": "Over the Hillside",
+      "url": "https://open.spotify.com/track/3VYjrxEmu7MaG9c7ubVn99"
     },
     {
       "added_at": "2018-12-12 11:36:39",

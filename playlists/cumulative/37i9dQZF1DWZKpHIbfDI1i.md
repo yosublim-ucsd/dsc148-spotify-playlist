@@ -4,7 +4,7 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Carin León en portada.
 
-710 songs - 1 day 14 hr 27 min
+711 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,6 +303,7 @@
 | [Julieta](https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julieta](https://open.spotify.com/album/7aVTkuM4X00Q3fyWynNYxE) | 3:30 | 2023-06-30 |  |
 | [Julietota](https://open.spotify.com/track/1AZbs0L3SkXe625DKp37KQ) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [Julietota](https://open.spotify.com/album/70M8jSJsOoV9GsE9ALzxj7) | 3:32 | 2023-08-25 |  |
 | [Kilos de Amor](https://open.spotify.com/track/6sChylyoQyLrKKQ9S3sYjD) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kilos de Amor](https://open.spotify.com/album/3fQBllTfCCkwBN1WupQfRp) | 3:56 | 2022-11-25 | 2022-12-31 |
+| [Kitty Culea](https://open.spotify.com/track/5w8cpNXc7Gw6ZMvheFfrmE) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:50 | 2023-10-06 |  |
 | [Kong 2.0](https://open.spotify.com/track/11xyATb8URhEFt5QKHgYZN) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Kong 2.0](https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi) | 3:22 | 2022-05-27 | 2022-06-18 |
 | [La 701](https://open.spotify.com/track/4CjcofBzrS6NMChHVVAFf4) | [El Panter Bélico](https://open.spotify.com/artist/3EdJV0cTCNXp5uFEJHbkUF) | [La 701](https://open.spotify.com/album/2NKjIy66LPXKZZVSWfDs2E) | 3:00 | 2023-08-25 | 2023-09-02 |
 | [La 701](https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La 701](https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI) | 3:00 | 2023-07-14 | 2023-09-09 |
@@ -429,7 +430,7 @@
 | [Más Que Amigas](https://open.spotify.com/track/7vKgCQQc1gjudgVX4SALki) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Más Que Amigas](https://open.spotify.com/album/2tgiIMkITUGSyQaUVjtMpf) | 2:41 | 2023-06-09 | 2023-06-16 |
 | [Más Te Va a Doler](https://open.spotify.com/track/5zKXodTRdBV2Mv12UmM3Tc) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Más Te Va a Doler](https://open.spotify.com/album/7GXA6EaThSEbjVVdaBvuZg) | 3:14 | 2023-06-09 | 2023-07-29 |
 | [Máscara de Niña](https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Máscara de Niña](https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw) | 3:14 | 2023-03-31 | 2023-04-22 |
-| [Méxxico Es Todo](https://open.spotify.com/track/4ZAHtzkitK8SanEc7XZoVX) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Méxxico Es Todo](https://open.spotify.com/album/11m7pZleAOAkhrm60ihmov) | 3:34 | 2023-09-08 |  |
+| [Méxxico Es Todo](https://open.spotify.com/track/4ZAHtzkitK8SanEc7XZoVX) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Méxxico Es Todo](https://open.spotify.com/album/11m7pZleAOAkhrm60ihmov) | 3:34 | 2023-09-08 | 2023-10-11 |
 | [Mía Mía](https://open.spotify.com/track/0hLHKOrFIHcr4NeWHlPTaI) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Mía Mía](https://open.spotify.com/album/6JItTIS5UxMSndYqRMHpTX) | 2:10 | 2022-09-30 | 2023-01-14 |
 | [Mía Un Año](https://open.spotify.com/track/0q2CjjP0hoopNMz2924hey) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Mía Un Año](https://open.spotify.com/album/2wBBAPcIsgXx9fsXygNmVT) | 2:54 | 2022-09-30 | 2022-12-08 |
 | [Míranos Ahora](https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Míranos Ahora](https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3) | 3:18 | 2022-03-11 | 2022-07-09 |

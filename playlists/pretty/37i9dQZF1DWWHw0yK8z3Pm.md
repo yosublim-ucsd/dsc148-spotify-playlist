@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Tyler Childers
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,246 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,337 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 30 | [Ghost Town](https://open.spotify.com/track/2U8gE23QKFcJKNtOE39f50) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Ghost Town](https://open.spotify.com/album/6h4kEmbmGNXFEADoyjwIaK) | 2:48 |
 | 31 | [In the Morning](https://open.spotify.com/track/4CAdFDe8JiL6P992pHAGwy) | [The Ballroom Thieves](https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC) | [Clouds](https://open.spotify.com/album/3pg8vVz9dDzYdfQxgT9MCP) | 2:26 |
 | 32 | [Pretending](https://open.spotify.com/track/5sv88ka8oK6lBuhf1hXobI) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Good Ol Days](https://open.spotify.com/album/0AYf7a5HfwRars592KS1Dr) | 5:39 |
-| 33 | [The Otter](https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:58 |
+| 33 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 |
 | 34 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 |
-| 35 | [In Dreams](https://open.spotify.com/track/0ewKJ6eM0Z761OissISTW7) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Long Time Coming](https://open.spotify.com/album/5ZI0k3IynnC5C9QKMmY7cB) | 2:41 |
+| 35 | [The Otter](https://open.spotify.com/track/0zesU7Cq6UM582kMYC6J3E) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Lavender Days](https://open.spotify.com/album/6RgGsXtsTnwA53ts3jDeDW) | 2:58 |
 | 36 | [Broadview](https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 4:05 |
 | 37 | [Born For Loving You](https://open.spotify.com/track/1kcwEVl9hYYg1JU0BFbzmc) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Vampire Empire / Born For Loving You](https://open.spotify.com/album/1JLHhSfD3K4gc3pSIyrvsf) | 3:34 |
-| 38 | [Cocaine Country Dancing](https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 4:16 |
-| 39 | [Damn Darlin'](https://open.spotify.com/track/6QAxm6mkOsTaFldlg6Iken) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 3:19 |
+| 38 | [Damn Darlin'](https://open.spotify.com/track/6QAxm6mkOsTaFldlg6Iken) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/1u5IKTsfXmfqqRbtOkHZWw) | 3:19 |
+| 39 | [Cocaine Country Dancing](https://open.spotify.com/track/4B9v2AXBpnA5tBhGTaQG0G) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Room 41](https://open.spotify.com/album/4ABV7fsu8iN6eAmnQhvd0a) | 4:16 |
 | 40 | [Mean Old Sun](https://open.spotify.com/track/4kXeBpZekIq5f6I6hFcNk5) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Mean Old Sun](https://open.spotify.com/album/3iQR8qK9tsam26456UNnmk) | 4:08 |
 | 41 | [Road Runner](https://open.spotify.com/track/3hQ51c9dPj9FcSdOHhrfkq) | [Vincent Neil Emerson](https://open.spotify.com/artist/2TbbmB7fmmCN7rlOt1wHlC), [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Road Runner](https://open.spotify.com/album/78omrT8twYQBzaZWhy275N) | 2:36 |
 | 42 | [Goodbye Mr\. Blue](https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Chloë and the Next 20th Century](https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz) | 5:00 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 81 | [TLC Cagematch](https://open.spotify.com/track/5jZxm02JT3CpJulGo4phH3) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0) | 3:52 |
 | 82 | [Chasing Spirits](https://open.spotify.com/track/4KFerK4qS5krV7MxVC4iDe) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 2:44 |
 | 83 | [CAMPFIRE](https://open.spotify.com/track/0hNbaatSkThALWtJK1Eov8) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [CAMPFIRE](https://open.spotify.com/album/7LKZyqX1XBDWktfX8HyMOA) | 3:00 |
-| 84 | [Peacemaker](https://open.spotify.com/track/5YmT2lYxtHHgSlMowSlvUe) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Peacemaker](https://open.spotify.com/album/4BAve16knUSPUFxMOb3vXJ) | 3:53 |
-| 85 | [Baby, You're a Gun](https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Kingmaker](https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa) | 3:29 |
-| 86 | [River of Tears](https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [River of Tears](https://open.spotify.com/album/3ktr2vipK7vsd0BUUB6QIx) | 3:03 |
+| 84 | [Baby, You're a Gun](https://open.spotify.com/track/2t75rwAHmPqCvb1B86NiGN) | [Tami Neilson](https://open.spotify.com/artist/4PmC63uE7ZLY5TI3p0PGd3) | [Kingmaker](https://open.spotify.com/album/5fuIzeNg4rYracgepUeZWa) | 3:29 |
+| 85 | [River of Tears](https://open.spotify.com/track/2GLkz5Z49Y0nkYNNKaUQNn) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j), [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [River of Tears](https://open.spotify.com/album/3ktr2vipK7vsd0BUUB6QIx) | 3:03 |
+| 86 | [Peacemaker](https://open.spotify.com/track/5YmT2lYxtHHgSlMowSlvUe) | [Great Lake Swimmers](https://open.spotify.com/artist/2HcZuUtnktqMHm4H1R9gAR) | [Peacemaker](https://open.spotify.com/album/4BAve16knUSPUFxMOb3vXJ) | 3:53 |
 | 87 | [Better Off High](https://open.spotify.com/track/08iVl7NDnT63Xf1zqokboz) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 4:30 |
 | 88 | [Talkin' to Myself](https://open.spotify.com/track/6HkEvfSpXWeiNV9Z7bpmwP) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Nightroamer](https://open.spotify.com/album/0znJUYNB3QOMzDeVxsDeoc) | 2:46 |
 | 89 | [Change Of Heart](https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Strays](https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 |
 | 100 | [Maritime](https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA) | [Pretty Archie](https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW) | [Pretty Archie](https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI) | 4:38 |
 
-Snapshot ID: `MCw2YmI4MGM5MmM4MTc4ZWM1MGNlNWM5YTg5MGQ3MDNlYTc2OWYyMjg2`
+Snapshot ID: `MCw4MGIwYzhlOWIxODJkYzZjM2FkYmFlMWYxNWEzMTk5MDlkNjc4YTg2`

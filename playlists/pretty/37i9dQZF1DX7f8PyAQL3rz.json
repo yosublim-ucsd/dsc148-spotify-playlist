@@ -1,12 +1,12 @@
 {
   "description": "reizinho da vida cara desde menozin, orochi",
-  "num_followers": 1263055,
+  "num_followers": 1263268,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGYzM2Q3MjY0YWYzZjU4YzljOTVjMDU2ZjNkMzE4NWI3OTJlNGVh",
+  "snapshot_id": "MCw2N2I5MGZmYzJhM2JlMjQyY2ZkNjg2OWFkYmNiOGJkMWFlNTA5NzYy",
   "tracks": [
     {
       "added_at": "2023-10-06 03:03:00",
@@ -723,6 +723,50 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
+        "name": "Felina",
+        "url": "https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn"
+      },
+      "artists": [
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "Felina",
+      "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
+        "name": "Flow Espacial",
+        "url": "https://open.spotify.com/album/02bPJTNRLkXeVWQPihqHNX"
+      },
+      "artists": [
+        {
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
+        },
+        {
+          "name": "WIU",
+          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
+        },
+        {
+          "name": "Matu\u00ea",
+          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
+        }
+      ],
+      "duration_ms": 165925,
+      "name": "Flow Espacial",
+      "url": "https://open.spotify.com/track/4qDT0BeJ7BjatrN9k8AvB4"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
         "name": "Poesia Ac\u00fastica 14",
         "url": "https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN"
       },
@@ -775,50 +819,6 @@
       "duration_ms": 849230,
       "name": "Poesia Ac\u00fastica 14",
       "url": "https://open.spotify.com/track/0Co2c6T1U06m4wLT6kOxdc"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
-        "name": "Felina",
-        "url": "https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn"
-      },
-      "artists": [
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        }
-      ],
-      "duration_ms": 225882,
-      "name": "Felina",
-      "url": "https://open.spotify.com/track/2orGm2E68ODFYOURjaES62"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
-        "name": "Flow Espacial",
-        "url": "https://open.spotify.com/album/02bPJTNRLkXeVWQPihqHNX"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        },
-        {
-          "name": "WIU",
-          "url": "https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7"
-        },
-        {
-          "name": "Matu\u00ea",
-          "url": "https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8"
-        }
-      ],
-      "duration_ms": 165925,
-      "name": "Flow Espacial",
-      "url": "https://open.spotify.com/track/4qDT0BeJ7BjatrN9k8AvB4"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -959,22 +959,18 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
-        "name": "Se Voc\u00ea For Embora",
-        "url": "https://open.spotify.com/album/7IbQtUpNuUHQS2Cr8uNTRJ"
+        "name": "Minha Vida \u00e9 um Filme",
+        "url": "https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj"
       },
       "artists": [
         {
-          "name": "Tz da Coronel",
-          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
-        },
-        {
-          "name": "Langris",
-          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
         }
       ],
-      "duration_ms": 130496,
-      "name": "Se Voc\u00ea for Embora",
-      "url": "https://open.spotify.com/track/7haCn21tCWhVqg87x6tkRS"
+      "duration_ms": 186666,
+      "name": "Minha Vida \u00e9 um Filme",
+      "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -1007,6 +1003,26 @@
       "duration_ms": 234193,
       "name": "Meca Cereja",
       "url": "https://open.spotify.com/track/52kcarcX0FQ6wPulXm2bMJ"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
+        "name": "Se Voc\u00ea For Embora",
+        "url": "https://open.spotify.com/album/7IbQtUpNuUHQS2Cr8uNTRJ"
+      },
+      "artists": [
+        {
+          "name": "Tz da Coronel",
+          "url": "https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e"
+        },
+        {
+          "name": "Langris",
+          "url": "https://open.spotify.com/artist/2J4i3afJjXrqDGWRYn6sBI"
+        }
+      ],
+      "duration_ms": 130496,
+      "name": "Se Voc\u00ea for Embora",
+      "url": "https://open.spotify.com/track/7haCn21tCWhVqg87x6tkRS"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -1071,22 +1087,6 @@
       "duration_ms": 294418,
       "name": "Sereia",
       "url": "https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
-        "name": "Minha Vida \u00e9 um Filme",
-        "url": "https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Minha Vida \u00e9 um Filme",
-      "url": "https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -1167,38 +1167,18 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
-        "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
-        "url": "https://open.spotify.com/album/4rNuycR489JZenIDq4Fz5h"
+        "name": "Fim de Semana no Rio",
+        "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
       },
       "artists": [
         {
-          "name": "Nagalli",
-          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
-        },
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+          "name": "Teto",
+          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
         }
       ],
-      "duration_ms": 228571,
-      "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
-      "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
+      "duration_ms": 165882,
+      "name": "Fim de Semana no Rio",
+      "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -1231,6 +1211,42 @@
       "duration_ms": 178407,
       "name": "2023",
       "url": "https://open.spotify.com/track/4sfY9Q4rQKVwxQVKo6v04i"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
+        "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
+        "url": "https://open.spotify.com/album/4rNuycR489JZenIDq4Fz5h"
+      },
+      "artists": [
+        {
+          "name": "Nagalli",
+          "url": "https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk"
+        },
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 228571,
+      "name": "Mal Intencionada (J\u00e1 Foi, J\u00e1 Era)",
+      "url": "https://open.spotify.com/track/4TvKjqrk0Hp6k0vsbxyXjK"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -1307,22 +1323,6 @@
       "duration_ms": 195000,
       "name": "Avisa Minha M\u00e3e",
       "url": "https://open.spotify.com/track/3ImhKE2Io4Em1iVpq7zw5D"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
-        "name": "Fim de Semana no Rio",
-        "url": "https://open.spotify.com/album/02q2gOT5jYZN9fXLPFxy9S"
-      },
-      "artists": [
-        {
-          "name": "Teto",
-          "url": "https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo"
-        }
-      ],
-      "duration_ms": 165882,
-      "name": "Fim de Semana no Rio",
-      "url": "https://open.spotify.com/track/7afaZ37wJJL6880z1NRgJS"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -1452,17 +1452,17 @@
           "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
-        },
-        {
           "name": "Marquinho no Beat",
           "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+        },
+        {
+          "name": "Wall Hein",
+          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
         }
       ],
-      "duration_ms": 229326,
-      "name": "Melhor S\u00f3",
-      "url": "https://open.spotify.com/track/2fwDJWwEr9gKzVZAP3gjM9"
+      "duration_ms": 124913,
+      "name": "C'est la vie (B\u00f4nus)",
+      "url": "https://open.spotify.com/track/1QRDn63eQzqC8dpNcI7HtQ"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -1523,6 +1523,30 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        }
+      ],
+      "duration_ms": 177877,
+      "name": "Dose de Gin",
+      "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
         "name": "O \u00daltimo Rom\u00e2ntico Online",
         "url": "https://open.spotify.com/album/5J2k1X6ezNvPGwchhujAA4"
       },
@@ -1551,30 +1575,6 @@
       "duration_ms": 230886,
       "name": "O \u00daltimo Rom\u00e2ntico Online (feat. Pedro Lotto & Wey)",
       "url": "https://open.spotify.com/track/4yzSTxcOIaCbEdtM4KwJ1W"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
-        "name": "Ascens\u00e3o do Cisne Negro",
-        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
-      },
-      "artists": [
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        }
-      ],
-      "duration_ms": 177877,
-      "name": "Dose de Gin",
-      "url": "https://open.spotify.com/track/6kuirWr63J83WizobD7Bx9"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -1672,17 +1672,17 @@
           "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
         },
         {
-          "name": "Marquinho no Beat",
-          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
         },
         {
-          "name": "Wall Hein",
-          "url": "https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB"
+          "name": "Marquinho no Beat",
+          "url": "https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe"
         }
       ],
-      "duration_ms": 124913,
-      "name": "C'est la vie (B\u00f4nus)",
-      "url": "https://open.spotify.com/track/1QRDn63eQzqC8dpNcI7HtQ"
+      "duration_ms": 229326,
+      "name": "Melhor S\u00f3",
+      "url": "https://open.spotify.com/track/2fwDJWwEr9gKzVZAP3gjM9"
     },
     {
       "added_at": "2023-10-06 03:03:00",

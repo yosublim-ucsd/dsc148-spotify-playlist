@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 
 > The full collection of Spotify Singles recordings\. Cover: Bad Snacks.<br/>Feeling inspired? Check out Bad Snacks' exclusive sound pack for <a href=“https://www.soundtrap.com/”>Soundtrap, </a>  Spotify’s online music studio for songwriters and beat makers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,040 likes - 897 songs - 2 day 6 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,018 likes - 897 songs - 2 day 6 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -298,7 +298,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 288 | [One Step Closer – Spotify Singles](https://open.spotify.com/track/3PmNDKYfKGALpIRz5CEQD1) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [One Step Closer – Spotify Singles](https://open.spotify.com/album/6IJc9uUeydaQenQSu9d3Ym) | 2:26 |
 | 289 | [Sucker \- Recorded at Parr Street Studios](https://open.spotify.com/track/5MbnqAuNXbvF3VDxkwC5wv) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Spotify Singles](https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN) | 3:38 |
 | 290 | [Adore You \- Recorded at Parr Street Studios](https://open.spotify.com/track/5XXZ66ZImYeF7qMk1vbe2L) | [Vistas](https://open.spotify.com/artist/5YA1c6yVkPnflTLMfOgjzc) | [Spotify Singles](https://open.spotify.com/album/1vpkXxcn8dnyKLWhpJvtKN) | 3:55 |
-| 291 | [Gates to the Sun \(POLLEN Singles\)](https://open.spotify.com/track/6EG0w98d2S1u1copDAHDqP) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Gates to the Sun \(POLLEN Singles\)](https://open.spotify.com/album/6SaeE8lgGxlOafd4yZFYs8) | 2:15 |
+| 291 | [Gates to the Sun \(POLLEN Singles\)](https://open.spotify.com/track/6EG0w98d2S1u1copDAHDqP) | [SahBabii](https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T) | [Gates to the Sun \(POLLEN Singles\)](https://open.spotify.com/album/6SaeE8lgGxlOafd4yZFYs8) | 2:15 |
 | 292 | [Reasons I Drink](https://open.spotify.com/track/0ImrsByuYWejtu8O5zixZS) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E) | 3:38 |
 | 293 | [You Oughta Know](https://open.spotify.com/track/336gUVrBgd22Y1iyjH5wRD) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Spotify Singles](https://open.spotify.com/album/7sVf305wgcAC6MkzZchs6E) | 4:41 |
 | 294 | [Sky Walker \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4oqJfELaUGTTAhpYP2HQGM) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Spotify Singles](https://open.spotify.com/album/3fUHDbd0oujqAerhHZjdsj) | 3:04 |
@@ -906,4 +906,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUm9HjVUKnL.md) - [plain]
 | 896 | [Way down We Go \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3inSmIa388icRdpDi5ecJd) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 3:13 |
 | 897 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 
-Snapshot ID: `MCw0NDFmYzlhMjM2ZjA0NDQ2NTZmZjY4YjBjMDg1ZjNkNzJlZTkzNTA2`
+Snapshot ID: `MCw4MjdlNjE4MWNmMDA4Y2RhOWRmZDcyZGU3OTI2MWQ4YTVmMDBkZjVl`

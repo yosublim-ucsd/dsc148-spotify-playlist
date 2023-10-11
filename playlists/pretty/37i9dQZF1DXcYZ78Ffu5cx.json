@@ -1,12 +1,12 @@
 {
   "description": "music, waves, friends and a good time.",
-  "num_followers": 6540,
+  "num_followers": 6587,
   "original_name": "Fiesta en Bote",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYzEwMjQ4MzZlMjBlNGU5ZTVmNzFhMGQ1NDMxYzQ5MTg4NWM0NzNm",
+  "snapshot_id": "MCxjMDUwODJjYzQ5M2NhMzkxYTYwNzQ2Y2I0NzI3ZjdiOGY1NTFiMmVh",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -443,22 +443,6 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "COCO LOCO",
-        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166734,
-      "name": "COCO LOCO",
-      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
         "name": "MERCHO",
         "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1143,22 +1143,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "JOSE",
-        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
+        "name": "Timelezz",
+        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 217360,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP"
+      "duration_ms": 263253,
+      "name": "Ley Seca",
+      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1183,22 +1183,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Timelezz",
-        "url": "https://open.spotify.com/album/3AwzfcsXeljU7JkG5GQn8Y"
+        "name": "JOSE",
+        "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 263253,
-      "name": "Ley Seca",
-      "url": "https://open.spotify.com/track/3JCaq3KDSROg3TXhdiDa9n"
+      "duration_ms": 217360,
+      "name": "Qu\u00e9 M\u00e1s Pues?",
+      "url": "https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "El Amor En Los Tiempos Del Perreo",
+        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 211998,
+      "name": "Tan Bonita",
+      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "L\u00edderes",
         "url": "https://open.spotify.com/album/6tOFRRXAis3nniv1wG6Nae"
       },
@@ -1343,22 +1359,6 @@
       "duration_ms": 274946,
       "name": "Algo Me Gusta De Ti",
       "url": "https://open.spotify.com/track/2FqoR7diymD1Eh7cVb3DMg"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "El Amor En Los Tiempos Del Perreo",
-        "url": "https://open.spotify.com/album/4ARUAVQnIDB02yVO8uvaJE"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "Tan Bonita",
-      "url": "https://open.spotify.com/track/6mm3K0yWp6uzfOMuipM9Zh"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Desde Abajo",
+        "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
+      },
+      "artists": [
+        {
+          "name": "Mach & Daddy",
+          "url": "https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8"
+        }
+      ],
+      "duration_ms": 177293,
+      "name": "La Botella",
+      "url": "https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW"
       },
@@ -1443,22 +1459,6 @@
       "duration_ms": 176491,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Desde Abajo",
-        "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
-      },
-      "artists": [
-        {
-          "name": "Mach & Daddy",
-          "url": "https://open.spotify.com/artist/5Q1vijNjTVhQBoVrZVXms8"
-        }
-      ],
-      "duration_ms": 177293,
-      "name": "La Botella",
-      "url": "https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 192452,
       "name": "Dream Girl - Remix",
       "url": "https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Versions of Me",
-        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1711,22 +1711,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "La F\u00f3rmula",
-        "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
+        "name": "Chica Ideal",
+        "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
       },
       "artists": [
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         },
         {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
         }
       ],
-      "duration_ms": 267016,
-      "name": "La F\u00f3rmula",
-      "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
+      "duration_ms": 183240,
+      "name": "Chica Ideal",
+      "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1755,22 +1755,22 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Chica Ideal",
-        "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
+        "name": "La F\u00f3rmula",
+        "url": "https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         },
         {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 183240,
-      "name": "Chica Ideal",
-      "url": "https://open.spotify.com/track/21N4Buj4xsyLb218lYle61"
+      "duration_ms": 267016,
+      "name": "La F\u00f3rmula",
+      "url": "https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
+        "name": "Por Primera Vez",
+        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 179339,
+      "name": "Tutu",
+      "url": "https://open.spotify.com/track/1Ol5LmdNDNpFu1oNwfgkux"
+    },
+    {
+      "added_at": "2023-08-11 04:00:00",
+      "album": {
         "name": "Celular",
         "url": "https://open.spotify.com/album/63lKEkj06RrCmAOKRURfnd"
       },
@@ -1867,26 +1887,6 @@
       "duration_ms": 176017,
       "name": "Celular",
       "url": "https://open.spotify.com/track/0LUG9jzDNXcIdIWeSx9g2C"
-    },
-    {
-      "added_at": "2023-08-11 04:00:00",
-      "album": {
-        "name": "Por Primera Vez",
-        "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 179339,
-      "name": "Tutu",
-      "url": "https://open.spotify.com/track/1Ol5LmdNDNpFu1oNwfgkux"
     },
     {
       "added_at": "2023-08-11 04:00:00",

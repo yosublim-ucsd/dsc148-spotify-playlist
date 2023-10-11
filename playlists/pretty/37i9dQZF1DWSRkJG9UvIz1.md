@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 
 > Vai curtir um dia no parque? A tarde com os amigos? É só dar play e sair pro sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,728 likes - 60 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,748 likes - 60 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 6 | [Bossa No Sé \(feat\. Jean Carter\)](https://open.spotify.com/track/3kEsMLO3qUUwiXeCndsMIb) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Jean Carter](https://open.spotify.com/artist/2LRR1XoqMZ64hebNjiFJqj) | [Para Mi](https://open.spotify.com/album/6e8eJS3DUWZ9SAjHE5AD5m) | 3:21 |
 | 7 | [Summertime Magic](https://open.spotify.com/track/4j3GWI86JvSaF0BLdmgcfF) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Summer Pack](https://open.spotify.com/album/15k99o4mZJ9mfpQGIOrZ45) | 3:33 |
 | 8 | [Sorri, Sou Rei \(feat\. Claudia Leitte\)](https://open.spotify.com/track/4UChhDCTtneR0QXN0btEmz) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Claudia Leitte](https://open.spotify.com/artist/2OjoIDVPQKT9B7loZbPEfp) | [Box Natiruts](https://open.spotify.com/album/6H7aEzVGlXJlMXfcZml7vP) | 5:32 |
-| 9 | [Voltei Pra Mim](https://open.spotify.com/track/3aexu2VagwWh2r3pd3PAJW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:18 |
-| 10 | [Brazilian Soul \(feat\. Sofi Tukker\) \- Acoustic Bossa Version](https://open.spotify.com/track/5iX7aAVoO3dzUOZ1eAvg6f) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Brazilian Soul \(feat\. Sofi Tukker\) \[Remixes\]](https://open.spotify.com/album/2OTIyP1zBOinX4qEj6x3Qa) | 4:10 |
+| 9 | [Brazilian Soul \(feat\. Sofi Tukker\) \- Acoustic Bossa Version](https://open.spotify.com/track/5iX7aAVoO3dzUOZ1eAvg6f) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Brazilian Soul \(feat\. Sofi Tukker\) \[Remixes\]](https://open.spotify.com/album/2OTIyP1zBOinX4qEj6x3Qa) | 4:10 |
+| 10 | [Voltei Pra Mim](https://open.spotify.com/track/3aexu2VagwWh2r3pd3PAJW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:18 |
 | 11 | [Feliz e Ponto](https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Júpiter](https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj) | 2:36 |
 | 12 | [Lovestained](https://open.spotify.com/track/0RJ2QoAPH4VTdfhrX2HKQe) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Lovestained](https://open.spotify.com/album/3tTbk9Yvi984H6ESRGk0Nl) | 2:55 |
 | 13 | [Desafinado \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/12j5ByuhjK6vsb0vJS1cwM) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Desafinado \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/3l4QQKkuRpYQCmmq3F6DLv) | 2:10 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 45 | [Concrete Jungle](https://open.spotify.com/track/0WAZhuiNHBnFVluqlFK5Qb) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [CéU](https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB) | 3:32 |
 | 46 | [Areia](https://open.spotify.com/track/4VZCV9TBVfxEAKiiimCvFa) | [Russo Passapusso](https://open.spotify.com/artist/4Rgs2uEA4ZPVrfSGTcFvVm) | [Paraíso da Miragem](https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy) | 2:08 |
 | 47 | [Maris](https://open.spotify.com/track/0JrLw5kXhCDMp2xgnFYI9E) | [JORGE](https://open.spotify.com/artist/3IbVfJviJDBrLOwegCpaRP) | [Maris](https://open.spotify.com/album/2XwjNgH7Ft786K89P5Sc27) | 4:39 |
-| 48 | [Terrorista Del Amor](https://open.spotify.com/track/3vgKWd00cIiEl2qqh6x7t4) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [TU](https://open.spotify.com/album/2iN2Xs3KZSOrRs7GXf7Gla) | 3:12 |
-| 49 | [Bossanova](https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Bossanova](https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh) | 3:21 |
+| 48 | [Bossanova](https://open.spotify.com/track/2ZgGStsZYfObB9TnhGDMoa) | [Zenon Pereyra](https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee), [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Bossanova](https://open.spotify.com/album/7mWnMU0JMv9IhluaZSEfWh) | 3:21 |
+| 49 | [Terrorista Del Amor](https://open.spotify.com/track/3vgKWd00cIiEl2qqh6x7t4) | [Tulipa Ruiz](https://open.spotify.com/artist/6OokCpvxnYv43WcFqejMLb), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [TU](https://open.spotify.com/album/2iN2Xs3KZSOrRs7GXf7Gla) | 3:12 |
 | 50 | [Quem Tem Um Amigo \(Tem Tudo\)](https://open.spotify.com/track/5F3mu5GTHwGSCRey0b6TBS) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [AmarElo](https://open.spotify.com/album/22ltKhPdKZ4IuFrna73xPG) | 4:09 |
 | 51 | [Nó](https://open.spotify.com/track/5bl35Grj38IZo4VUvb0wuj) | [Dan Abranches](https://open.spotify.com/artist/39OcL2HQfkltkdWwPAl3RC), [Gabriela Brown](https://open.spotify.com/artist/7i0oKqLCG3UKrZi5Lh044f) | [Flor de Laranjeira](https://open.spotify.com/album/6oghWRjUCeWa8VMp9DA4tl) | 3:30 |
 | 52 | [Rio da Bossa Nova](https://open.spotify.com/track/07tHMgxtVHlo10234lOBML) | [Beto Villares](https://open.spotify.com/artist/5buchbVIeExunKNBkTCxlt) | [Beto Villares](https://open.spotify.com/album/7hFXKyehOxxMd7d4YeLe1p) | 3:26 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkJG9UvIz1.md) - [plain]
 | 59 | [Noite Quente de Verão](https://open.spotify.com/track/7qZyfCxl6GJfO11NJ6MXJ1) | [Clara Lima](https://open.spotify.com/artist/4XdUyu7YX6zgKLi34JYQSG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SELFIE](https://open.spotify.com/album/047tLugURWhdI0iuJ6by70) | 2:03 |
 | 60 | [Ya Sé](https://open.spotify.com/track/2ejZIgsZ5Ax9JbjPkWMK9W) | [Edu Requejo](https://open.spotify.com/artist/6ZNFH9pfiRpTSgJaKQBb8M) | [Ya Sé](https://open.spotify.com/album/7F8kZWnb4B1nN9wkFNgX15) | 2:43 |
 
-Snapshot ID: `MCxmZjQzYzJiMjk0MzhmM2Q5MWU4MTA2ZjllNTY2Y2ZlZDk3YTY0Mjli`
+Snapshot ID: `MCw3N2U1ZjU4NmRlNWRmOThmNmE3ZGExYThhYzk2YWRkYzJiNTUzMTll`

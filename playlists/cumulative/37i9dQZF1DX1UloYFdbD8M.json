@@ -34,7 +34,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 198691,
       "name": "Aakasham",
       "url": "https://open.spotify.com/track/2sKNMV4SfPYWbsUeWjUFGX"
@@ -858,7 +858,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 190834,
       "name": "Kaalatheneet",
       "url": "https://open.spotify.com/track/4XG8H0mprQswdfTgHJuXnM"
@@ -1087,6 +1087,24 @@
     },
     {
       "album": {
+        "name": "Katturumbu",
+        "url": "https://open.spotify.com/album/0AVeHvPxaAuhDVprmsL4J8"
+      },
+      "artists": [
+        {
+          "name": "Sangeeth",
+          "url": "https://open.spotify.com/artist/3eLmrMxtn3oTcqng8BNoPZ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296948,
+      "name": "Katturumbu",
+      "url": "https://open.spotify.com/track/2jjzkXKzLB0iqq6YHXxeOD"
+    },
+    {
+      "album": {
         "name": "Kunnolam anenikishtam",
         "url": "https://open.spotify.com/album/4RuQccxjGRPk54B0KZ06EC"
       },
@@ -1273,6 +1291,28 @@
     },
     {
       "album": {
+        "name": "Mazha",
+        "url": "https://open.spotify.com/album/0duNv6aeYqZA46xqHLwH4G"
+      },
+      "artists": [
+        {
+          "name": "Rohit Matt",
+          "url": "https://open.spotify.com/artist/2NxaBdfeHXKhnl7fBoJBOC"
+        },
+        {
+          "name": "Marthyan",
+          "url": "https://open.spotify.com/artist/0lOLPZ7YJFRdpjon1K9f4T"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231833,
+      "name": "Mazha",
+      "url": "https://open.spotify.com/track/6FQlgBbteed9kBiZIHfYuk"
+    },
+    {
+      "album": {
         "name": "Mazhaye",
         "url": "https://open.spotify.com/album/3J3R9cnHC96bApTpmsSKgh"
       },
@@ -1416,7 +1456,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 304733,
       "name": "Nada Nada",
       "url": "https://open.spotify.com/track/7biM1l4aQn6P2XpDBLrE4t"
@@ -1818,7 +1858,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 335750,
       "name": "Pilleranu",
       "url": "https://open.spotify.com/track/76WNVxMrseVg3NT5UQ1dcd"
@@ -1934,6 +1974,28 @@
       "duration_ms": 537295,
       "name": "Rangapura Vihara",
       "url": "https://open.spotify.com/track/0DanEzIERtRw1Toae6IFXM"
+    },
+    {
+      "album": {
+        "name": "Rasayayo | The Story Teller",
+        "url": "https://open.spotify.com/album/6zfAeISOe4tlq5Xf4soWsr"
+      },
+      "artists": [
+        {
+          "name": "Bhadra Rajin",
+          "url": "https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn"
+        },
+        {
+          "name": "Sudeep Palanad",
+          "url": "https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200546,
+      "name": "Rasayayo | The Story Teller",
+      "url": "https://open.spotify.com/track/1eHQIi86wj1FmFOdNhxrOv"
     },
     {
       "album": {
@@ -2346,6 +2408,28 @@
       "duration_ms": 313624,
       "name": "Urumbu",
       "url": "https://open.spotify.com/track/3YJhk1j7I3JGekpNKVf0Jn"
+    },
+    {
+      "album": {
+        "name": "Vaarkadal",
+        "url": "https://open.spotify.com/album/2TYy2MAcm8czR5fXD1Ayxp"
+      },
+      "artists": [
+        {
+          "name": "The Non Violinist Project",
+          "url": "https://open.spotify.com/artist/0yWjRJpQnQb3oANLj2QhKb"
+        },
+        {
+          "name": "K. S. Harisankar",
+          "url": "https://open.spotify.com/artist/4JXqxFqi9dxlsiXKZhKvzB"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265250,
+      "name": "Vaarkadal",
+      "url": "https://open.spotify.com/track/457AZM8fq9yR2yRfRRrD9N"
     },
     {
       "album": {

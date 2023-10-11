@@ -4,7 +4,7 @@
 
 > New indie driving the current\. Cover: Jordan Ward
 
-367 songs - 19 hr 17 min
+368 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Back To Life](https://open.spotify.com/track/7Cgqdh9mds9zdbwitjanVY) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T) | [Synthetic Soul](https://open.spotify.com/album/3ZTUu9z3rxEC4MA9N4ZOzl) | 3:42 | 2022-02-18 | 2022-02-26 |
 | [Bad Ting](https://open.spotify.com/track/6ui76rE0geLZvF57z4fPK2) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Bad Ting](https://open.spotify.com/album/5F52mSRpY9XvPTdmsgdMr8) | 3:26 | 2022-02-18 | 2022-02-26 |
 | [Bamboo](https://open.spotify.com/track/7aJGnriGYMhFONUgC4yDFh) | [Ivy Sole](https://open.spotify.com/artist/4NcMrSi3B8eUVy6e1Ni3wu) | [Bamboo](https://open.spotify.com/album/5nbiNNINR828Q0QWmZ0pxK) | 4:50 | 2022-02-18 | 2022-11-12 |
+| [Basquiat](https://open.spotify.com/track/1KeXz6D76LhEaBhYR9n5vI) | [Black Hibiscus](https://open.spotify.com/artist/6LPW0r5I57Z5itdpQJbHgN) | [The End of the World](https://open.spotify.com/album/1IhJclrz77F5stIY0oMh7i) | 3:55 | 2023-10-11 |  |
 | [Beautiful](https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Beautiful](https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU) | 2:46 | 2022-10-03 | 2023-02-11 |
 | [Beautifully Black](https://open.spotify.com/track/0EgaO4boPVHe3Kk1sNUdMB) | [Rahael](https://open.spotify.com/artist/3oldP3klCA3xONdq9IW6YJ) | [Beautifully Black](https://open.spotify.com/album/74Ps9MKdrjQwRHY4rryHCG) | 3:05 | 2022-02-18 | 2022-03-26 |
 | [Before It Hurts](https://open.spotify.com/track/7iP6bz6tvVKzy1rZOvJ4Pz) | [Naimah](https://open.spotify.com/artist/4RNIFrUK6i8KFU2Nga8rVf) | [Before It Hurts](https://open.spotify.com/album/5RXvlBiL2CgJR6eRdiGdvg) | 4:13 | 2022-02-18 | 2022-11-12 |
@@ -156,7 +157,7 @@
 | [Heart Break Escape](https://open.spotify.com/track/2d7ROIV6XJOehN3b6jBnfO) | [Liv.e](https://open.spotify.com/artist/0YCL71Clky5els6NireSBP) | [Girl In The Half Pearl](https://open.spotify.com/album/45oxyD0tdWU3AGK2w55W2w) | 2:20 | 2023-02-17 | 2023-08-22 |
 | [Heart Storm \(with NAO\)](https://open.spotify.com/track/7txZm78LBuKa7oD0YnWt0t) | [serpentwithfeet](https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl), [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Heart Storm \(with NAO\)](https://open.spotify.com/album/43vZ7lfU9t7EzSeM4e8I0D) | 3:13 | 2022-02-18 | 2022-03-15 |
 | [HEAVEN TO ME](https://open.spotify.com/track/4Z1ZlABSKDlVByJL3y5OVs) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [CALL ME IF YOU GET LOST: The Estate Sale](https://open.spotify.com/album/1GG6U2SSJPHO6XsFiBzxYv) | 3:50 | 2023-03-31 |  |
-| [heavun](https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [heavun](https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te) | 3:11 | 2023-06-16 |  |
+| [heavun](https://open.spotify.com/track/2gtEPlDqBTQ0uYMsaQebcH) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [heavun](https://open.spotify.com/album/6rIqnMYGM6a1CMD65is0Te) | 3:11 | 2023-06-16 | 2023-10-11 |
 | [Heavy Heart](https://open.spotify.com/track/5eWmggao2s6P1vVDeheUIg) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Farm to Table](https://open.spotify.com/album/5szOdnVq0e6pDDFNxz6YK3) | 4:23 | 2023-01-18 | 2023-03-07 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-01-18 | 2023-02-11 |
 | [hey! \- Spotify Singles](https://open.spotify.com/track/6clyEvI0vWeNuc2wWUqNLo) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [hey! \- Spotify Singles](https://open.spotify.com/album/36A3sE4wnPiEtVP1KfO3DQ) | 2:13 | 2022-02-18 | 2022-06-19 |

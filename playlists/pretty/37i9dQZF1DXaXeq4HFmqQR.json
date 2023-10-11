@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Marineros.",
-  "num_followers": 12789,
+  "num_followers": 12793,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2RhZGM3MWMzNDFmZDI4NTVmZjEyZjMzN2UxNDlmZTAyMzA2ZDgz",
+  "snapshot_id": "MCw2MTM0ODU2NzI0ZTgyNjViMmRjZjE3YmFhM2UyNjFiOGZiMTNmYWY5",
   "tracks": [
     {
       "added_at": "2023-10-04 04:00:00",
@@ -167,6 +167,22 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "Ganas de Dejarte",
+        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
+      },
+      "artists": [
+        {
+          "name": "Olivia Garc\u00eda",
+          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
+        }
+      ],
+      "duration_ms": 139688,
+      "name": "Ganas de Dejarte",
+      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "La Mariposa",
         "url": "https://open.spotify.com/album/0c6di7PysBHM3aaqyhC5BO"
       },
@@ -183,22 +199,6 @@
       "duration_ms": 109962,
       "name": "La Mariposa",
       "url": "https://open.spotify.com/track/3k8diAty8oozYqQV8j7v0R"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "Ganas de Dejarte",
-        "url": "https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za"
-      },
-      "artists": [
-        {
-          "name": "Olivia Garc\u00eda",
-          "url": "https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3"
-        }
-      ],
-      "duration_ms": 139688,
-      "name": "Ganas de Dejarte",
-      "url": "https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -579,6 +579,26 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
+        "name": "virgen suicida",
+        "url": "https://open.spotify.com/album/1ON6oGHI5yilSXfYxA77Kz"
+      },
+      "artists": [
+        {
+          "name": "Vicenta",
+          "url": "https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo"
+        },
+        {
+          "name": "Cabiria",
+          "url": "https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC"
+        }
+      ],
+      "duration_ms": 173689,
+      "name": "correr",
+      "url": "https://open.spotify.com/track/5D4NZPyvA7lGtKrouJS9ZR"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
         "name": "Terracota",
         "url": "https://open.spotify.com/album/5MtnxpR2ErMUS785q1GuJJ"
       },
@@ -611,26 +631,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "virgen suicida",
-        "url": "https://open.spotify.com/album/1ON6oGHI5yilSXfYxA77Kz"
-      },
-      "artists": [
-        {
-          "name": "Vicenta",
-          "url": "https://open.spotify.com/artist/0fMFxEzzksKzDMk4bFZodo"
-        },
-        {
-          "name": "Cabiria",
-          "url": "https://open.spotify.com/artist/2y7OtEBQuQCeFh2a8bYZVC"
-        }
-      ],
-      "duration_ms": 173689,
-      "name": "correr",
-      "url": "https://open.spotify.com/track/5D4NZPyvA7lGtKrouJS9ZR"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Quiero Estar Sola",
         "url": "https://open.spotify.com/album/5sEEKD6TjMPKp8De3Ss7ra"
       },
@@ -643,6 +643,22 @@
       "duration_ms": 174257,
       "name": "Quiero Estar Sola",
       "url": "https://open.spotify.com/track/1ycM7HfsgQ6CvfU0HKnVsX"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "Valientes",
+        "url": "https://open.spotify.com/album/1K2HuoKRr6EcSECJ6pX66Z"
+      },
+      "artists": [
+        {
+          "name": "Nicole",
+          "url": "https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS"
+        }
+      ],
+      "duration_ms": 241790,
+      "name": "Valientes",
+      "url": "https://open.spotify.com/track/25PChx1yPUT0BNmNyuxMsh"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -663,22 +679,6 @@
       "duration_ms": 194999,
       "name": "Dame Una Se\u00f1al",
       "url": "https://open.spotify.com/track/3QuuNFeiWyDbUrRKpw8Ksq"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
-        "name": "Valientes",
-        "url": "https://open.spotify.com/album/1K2HuoKRr6EcSECJ6pX66Z"
-      },
-      "artists": [
-        {
-          "name": "Nicole",
-          "url": "https://open.spotify.com/artist/3iIMN6aYzb6coyCECxkHaS"
-        }
-      ],
-      "duration_ms": 241790,
-      "name": "Valientes",
-      "url": "https://open.spotify.com/track/25PChx1yPUT0BNmNyuxMsh"
     },
     {
       "added_at": "2023-10-04 04:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2023-10-04 04:00:00",
       "album": {
-        "name": "EP Agua",
-        "url": "https://open.spotify.com/album/4PCgmB23blDBm7y8orvLpk"
-      },
-      "artists": [
-        {
-          "name": "Emaflu",
-          "url": "https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy"
-        },
-        {
-          "name": "Camila Ba\u00f1ados",
-          "url": "https://open.spotify.com/artist/70PLmIOAULXzPlvKP8Zliq"
-        }
-      ],
-      "duration_ms": 230034,
-      "name": "Luz",
-      "url": "https://open.spotify.com/track/1VCR3tKkne22xzGKH3jQzb"
-    },
-    {
-      "added_at": "2023-10-04 04:00:00",
-      "album": {
         "name": "Soltera (Remix)",
         "url": "https://open.spotify.com/album/6oduJOhQOBYZ8gnfSyUMvn"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 203475,
       "name": "Soltera - Remix",
       "url": "https://open.spotify.com/track/73IXhWTLFCycLmvuAk33mY"
+    },
+    {
+      "added_at": "2023-10-04 04:00:00",
+      "album": {
+        "name": "EP Agua",
+        "url": "https://open.spotify.com/album/4PCgmB23blDBm7y8orvLpk"
+      },
+      "artists": [
+        {
+          "name": "Emaflu",
+          "url": "https://open.spotify.com/artist/5PS09CXdU7Lze7eAk2z3Yy"
+        },
+        {
+          "name": "Camila Ba\u00f1ados",
+          "url": "https://open.spotify.com/artist/70PLmIOAULXzPlvKP8Zliq"
+        }
+      ],
+      "duration_ms": 230034,
+      "name": "Luz",
+      "url": "https://open.spotify.com/track/1VCR3tKkne22xzGKH3jQzb"
     },
     {
       "added_at": "2023-10-04 04:00:00",

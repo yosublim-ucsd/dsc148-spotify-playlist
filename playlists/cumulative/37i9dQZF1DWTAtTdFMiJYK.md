@@ -2,9 +2,9 @@
 
 ### [RADAR India](https://open.spotify.com/playlist/37i9dQZF1DWTAtTdFMiJYK)
 
-> Most exciting artists from the Indian Indie scene\. Cover : Garvit \- Priyansh
+> Most exciting artists from the Indian Indie scene\. Cover : Komorebi
 
-266 songs - 15 hr 36 min
+267 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,7 +168,7 @@
 | [Mayflower](https://open.spotify.com/track/4uU5ALeQE7LN8rsv5IdVCW) | [Easy Wanderlings](https://open.spotify.com/artist/2hfWu4We2fbIRY9kClxBHT), [Nikhil D'Souza](https://open.spotify.com/artist/39fT56OHEL2E98zDKrqBsC) | [Caught in a Parade](https://open.spotify.com/album/6ogjWRRZa9qyaj6Fw62KgG) | 4:09 | 2022-10-13 | 2023-02-11 |
 | [Meherbaan](https://open.spotify.com/track/5AeCYcLTcrY8AiW33Ue2Ll) | [Sagar Dhote](https://open.spotify.com/artist/63NTePIe7eeyeT1Sv8TP7a), [Sneha Astunkar](https://open.spotify.com/artist/5vnUKpiC4Pxh6deCoUK2lD), [Abhay Jodhpurkar](https://open.spotify.com/artist/27rK4pP0VMqWiRe7pamKe5) | [Meherbaan](https://open.spotify.com/album/48ugxOs8V5HbIHSY4RB6S6) | 3:44 | 2022-08-02 | 2023-06-10 |
 | [Mera Safar](https://open.spotify.com/track/2AB7fsbG0eZJjDGile69CQ) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Mera Safar](https://open.spotify.com/album/5MaDDfFcO8Eao37Crt324Q) | 3:10 | 2022-10-04 |  |
-| [Meri Baari](https://open.spotify.com/track/0XdDE6lmn5srPDUDBq5xcg) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Meri Baari](https://open.spotify.com/album/6CZIFpN6kaO3BRnlZoACbB) | 3:19 | 2023-01-24 |  |
+| [Meri Baari](https://open.spotify.com/track/0XdDE6lmn5srPDUDBq5xcg) | [Iqlipse Nova](https://open.spotify.com/artist/5tVEtYVMATyQ6OVOetuZlk) | [Meri Baari](https://open.spotify.com/album/6CZIFpN6kaO3BRnlZoACbB) | 3:19 | 2023-01-24 | 2023-10-11 |
 | [Milan](https://open.spotify.com/track/1BI9irBUCtnXev21pUTfMJ) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Milan](https://open.spotify.com/album/1MJ13VB6N8lso4u6kTSixy) | 4:03 | 2023-05-19 |  |
 | [Miracle](https://open.spotify.com/track/5daYg1jlX2JoOgDnlK4V0m) | [Jaden Maskie](https://open.spotify.com/artist/14GDCPY8cDyxLReAEXiNt0) | [Miracle](https://open.spotify.com/album/2OPof019rnmR6xThgEF71j) | 3:49 | 2022-01-27 | 2023-01-21 |
 | [Motoliya 2.0](https://open.spotify.com/track/3x3iya64y8XmsVxOYFUkXC) | [Sannidhya Bhuyan](https://open.spotify.com/artist/3up6Gqw9IAsQ9KqLzVkyTN), [Aarxslan](https://open.spotify.com/artist/67137rl2C1Z9kPUiLGqNXr) | [Motoliya 2.0](https://open.spotify.com/album/4aJmymmOUvOo1gZGz3TVvY) | 3:56 | 2022-01-10 | 2023-01-11 |
@@ -255,6 +255,7 @@
 | [Tu Kaun Hai](https://open.spotify.com/track/0z4WjqjRgQJuXlWbOC5L6A) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Pavithra Chari](https://open.spotify.com/artist/16IvLiMrXTMDCT1o2btRrG) | [Tu Kaun Hai](https://open.spotify.com/album/4UgSmIR3uBY5ehDNeZszsZ) | 5:33 | 2022-09-14 | 2023-02-18 |
 | [Tum Jaise Ho](https://open.spotify.com/track/7ofq7AcSmMCB2fKpj1iDoo) | [Utsavi Jha](https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX) | [Tum Jaise Ho](https://open.spotify.com/album/40CMf6LyJR9XT0gaUuQdX0) | 4:10 | 2023-09-26 |  |
 | [Tum Mere Kya Ho](https://open.spotify.com/track/59S0sPZf1q48PvmeeXN0bj) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW) | [Tum Mere Kya Ho](https://open.spotify.com/album/65xBCpWtwwZ3PoloPQzTum) | 2:55 | 2023-09-22 |  |
+| [Ud Ke Chali](https://open.spotify.com/track/0zVhqtuCf3QCozl1NewYyT) | [Komorebi](https://open.spotify.com/artist/33wbulGqQSccMOCox5UdIS) | [Ud Ke Chali](https://open.spotify.com/album/2hkVPBR8j7cZWNmCdWer5f) | 3:55 | 2023-10-10 |  |
 | [Udd Chala](https://open.spotify.com/track/7n6DDEpcqkhkiGhXwexF9I) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Udd Chala](https://open.spotify.com/album/7LT4xezgouCmrPpbqQOwTu) | 4:46 | 2023-02-10 |  |
 | [Unicorn and the Sheep](https://open.spotify.com/track/4YWeZa7AfJArkijVVq8ayc) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Unicorn And The Sheep](https://open.spotify.com/album/1Gd4ISqgkzf5WZHLjzUaHI) | 2:31 | 2021-12-06 | 2022-01-11 |
 | [Wahin Ka Wahin](https://open.spotify.com/track/3DC2ncI10e2EvocIBzIQT7) | [Lifafa](https://open.spotify.com/artist/6i50rQJbETLRREwFn3plcw) | [Superpower 2020](https://open.spotify.com/album/2ey1GnFSMrqu2QWbyjt4WE) | 5:41 | 2022-01-10 | 2022-07-29 |

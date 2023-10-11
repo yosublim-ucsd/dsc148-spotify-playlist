@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 
 > Soft and soothing ambient piano music to help you meditate and find inner peace.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,205 likes - 134 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,230 likes - 134 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,4 +143,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb7eLtQI7KhP.md) - [plain]
 | 133 | [Kindred Spirits](https://open.spotify.com/track/2E2LkJCGxdELKo9WnL4p7k) | [Clark Rhee](https://open.spotify.com/artist/2DrtllITdgCklBWKoeIfkv) | [Kindred Spirits](https://open.spotify.com/album/6ESQFCQLr3c6F9BOu7AI3X) | 2:58 |
 | 134 | [A Pillow For Her Mind](https://open.spotify.com/track/4rJ9FYsLQeB7oi7DSVEeUn) | [Roberta Leontini](https://open.spotify.com/artist/7B8dWi5admMjncLMdbxfns) | [A Pillow For Her Mind](https://open.spotify.com/album/0SVZiy0h2h4ALjd5wueeYw) | 2:19 |
 
-Snapshot ID: `MCwxZjlmMDk0OGQ0ZTg3YmI1NTcxMWQ1YzQ4ZjY4MzdjZjhmYTAzNWQ2`
+Snapshot ID: `MCxhMmZkZGRhMWNlYzUzMWY0NDljOTBlMjZmYmQzNDhiZWNjM2EzNTNm`

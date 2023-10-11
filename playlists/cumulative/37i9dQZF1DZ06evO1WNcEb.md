@@ -4,13 +4,14 @@
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-59 songs - 5 hr 13 min
+60 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Alma Abatida \- Ao Vivo](https://open.spotify.com/track/4W9vnyH1PxCMApLVXqSDKQ) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Palavra Tocada](https://open.spotify.com/artist/1X83lxunU8lGIWjOIo3wYo) | [A Alma Abatida \(Ao Vivo\)](https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ) | 4:36 | 2023-07-09 |  |
 | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/track/1uywMDAMeLkFnatbhfXlUE) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Amigo Espírito Santo \(Ao Vivo\)](https://open.spotify.com/album/4t2qBZ5yBilE2xaVIInAtP) | 5:34 | 2023-07-09 |  |
 | [Até Tocar o Céu](https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 7:06 | 2023-07-09 |  |
+| [Basta um Olhar](https://open.spotify.com/track/3DhNZYL6m4JP76g1zd4Da3) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Sonhos Não Têm Fim](https://open.spotify.com/album/4dTjsSkmgBLEfPrtmqerb5) | 5:28 | 2023-10-10 |  |
 | [Bondade de Deus \(Goodness of God\) \- Ao Vivo](https://open.spotify.com/track/6lC6UDR9sBHagx4R1q4t7c) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Bondade de Deus \(Goodness of God\) \[Ao Vivo\]](https://open.spotify.com/album/4nopLVQt4ORCAzAsFisfGy) | 5:29 | 2023-07-09 |  |
 | [Canção do Amor](https://open.spotify.com/track/45yVIwLnEmGrLSK0xqr5Cs) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Canção do Amor](https://open.spotify.com/album/0yaKi8TPRzEJKKQH1jm7BD) | 3:28 | 2023-08-21 | 2023-08-24 |
 | [Casa de Bênção](https://open.spotify.com/track/5ShkPfQmBWA1BT2uqu8S7Q) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Terremoto](https://open.spotify.com/album/60Iq7fE7TtyGXc4wJiJluJ) | 5:58 | 2023-07-09 |  |
@@ -21,7 +22,7 @@
 | [Deus no Controle \- Remix](https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Deus no Controle \- Remix](https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn) | 3:35 | 2023-07-29 |  |
 | [Deus Proverá](https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus Proverá](https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm) | 5:35 | 2023-07-09 |  |
 | [Ele Se Move](https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Ele Se Move](https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ) | 5:41 | 2023-07-09 |  |
-| [Ele Vem](https://open.spotify.com/track/0sSWmtnfKfNrbS3U9TM3q3) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Ele Vem](https://open.spotify.com/album/2pdoa7juTWSNe7grySHEnQ) | 6:43 | 2023-07-09 |  |
+| [Ele Vem](https://open.spotify.com/track/0sSWmtnfKfNrbS3U9TM3q3) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Ele Vem](https://open.spotify.com/album/2pdoa7juTWSNe7grySHEnQ) | 6:43 | 2023-07-09 | 2023-10-11 |
 | [Em Tua Presença](https://open.spotify.com/track/5otYJnOZCNRsLKtxcn2DE3) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Em Tua Presença / Vai Amanhecer](https://open.spotify.com/album/4drXBiKtDTXb2EmloXbDnp) | 5:42 | 2023-07-09 | 2023-08-07 |
 | [Espírito Santo](https://open.spotify.com/track/4iznng5u9df8eqllNmoRp4) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 4:22 | 2023-07-09 |  |
 | [Eu Ainda Vou Sonhar](https://open.spotify.com/track/3y8V1S0UPTBXgZZYXyzxpF) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Eu Ainda Vou Sonhar](https://open.spotify.com/album/6VwzItDBlPjnzMDApGAzU1) | 4:24 | 2023-07-09 |  |

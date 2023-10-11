@@ -1,12 +1,12 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 58663,
+  "num_followers": 58671,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDI5NzRlNDVjZWFkZjA1MTVmZTYzZjc4MzZlM2E4NzEzM2NmYjU2",
+  "snapshot_id": "MCwyMDEwYmZhM2I2MmZmYTNkZDBkMjZjMmY0YTJhNDIyYTUxNmU3NGY4",
   "tracks": [
     {
       "added_at": "2023-10-05 11:28:23",
@@ -515,22 +515,6 @@
     {
       "added_at": "2023-10-05 11:28:23",
       "album": {
-        "name": "The Season",
-        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 300586,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F"
-    },
-    {
-      "added_at": "2023-10-05 11:28:23",
-      "album": {
         "name": "Songs of December (Anniversary Edition)",
         "url": "https://open.spotify.com/album/6mJY98zjTLSZm9wOL0Tmjk"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 289786,
       "name": "It's The Most Wonderful Time Of The Year",
       "url": "https://open.spotify.com/track/4Bj8bQZcjuPEABckmO6wrA"
+    },
+    {
+      "added_at": "2023-10-05 11:28:23",
+      "album": {
+        "name": "The Season",
+        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 300586,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/1dpM2N7IkTM1gSUtomiE9F"
     },
     {
       "added_at": "2023-10-05 11:28:23",
@@ -627,6 +627,22 @@
     {
       "added_at": "2023-10-05 11:28:23",
       "album": {
+        "name": "Merry Christmas",
+        "url": "https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE"
+      },
+      "artists": [
+        {
+          "name": "Chantal Chamberland",
+          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
+        }
+      ],
+      "duration_ms": 236354,
+      "name": "Maybe Next Christmas",
+      "url": "https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV"
+    },
+    {
+      "added_at": "2023-10-05 11:28:23",
+      "album": {
         "name": "No\u00ebl ! No\u00ebl !! No\u00ebl !!!",
         "url": "https://open.spotify.com/album/2rdx6TO7cg7BLcqGFNzLU3"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 242506,
       "name": "Jolis sapins",
       "url": "https://open.spotify.com/track/30wgv3YjIy0MUtKrtolqRd"
-    },
-    {
-      "added_at": "2023-10-05 11:28:23",
-      "album": {
-        "name": "Merry Christmas",
-        "url": "https://open.spotify.com/album/6el8HN8F8E4l7gv5TbZFmE"
-      },
-      "artists": [
-        {
-          "name": "Chantal Chamberland",
-          "url": "https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU"
-        }
-      ],
-      "duration_ms": 236354,
-      "name": "Maybe Next Christmas",
-      "url": "https://open.spotify.com/track/4HPE7dfz44sK8Azlix2hLV"
     },
     {
       "added_at": "2023-10-05 11:28:23",
@@ -807,18 +807,18 @@
     {
       "added_at": "2023-10-05 11:28:23",
       "album": {
-        "name": "'Tis The Season",
-        "url": "https://open.spotify.com/album/47BNK2T9N8W3XmdQDgIrdZ"
+        "name": "It's Christmas Time",
+        "url": "https://open.spotify.com/album/33c9tUex88FIIpVhGtdXYO"
       },
       "artists": [
         {
-          "name": "Silvio Thompson Band",
-          "url": "https://open.spotify.com/artist/0lnYAYDUAQD1kWQ5lvD08C"
+          "name": "Luca Francis",
+          "url": "https://open.spotify.com/artist/3FgLeRMQZpS804lwNv3i7a"
         }
       ],
-      "duration_ms": 200180,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/0yplKXN6RMNEEF54PRo9DG"
+      "duration_ms": 159622,
+      "name": "Jingle Bells",
+      "url": "https://open.spotify.com/track/42xLgS2PPfJMj45AHNDLfb"
     },
     {
       "added_at": "2023-10-05 11:28:23",

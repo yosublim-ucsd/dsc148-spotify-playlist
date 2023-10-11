@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Pepe Aguilar & Marc Anthony. ",
-  "num_followers": 26492,
+  "num_followers": 26521,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTY5NTAzMTE4NDFhMDc4YjJjNWU2NzRjMDYwMGY0NzFhZDU4NGU0",
+  "snapshot_id": "MCwwNjM4OWM1NzUxNTE2OGRhZTA0NGI0N2EwZjRlN2NmMzY2YTI2Yjc5",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1007,50 +1007,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Enfermo de Riqueza",
-        "url": "https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Ovi",
-          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
-        }
-      ],
-      "duration_ms": 234611,
-      "name": "Enfermo de Riqueza",
-      "url": "https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 157040,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -1075,6 +1031,50 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 157040,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Enfermo de Riqueza",
+        "url": "https://open.spotify.com/album/24l98xY35ZOq2Lwn8dU0Wr"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Ovi",
+          "url": "https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv"
+        }
+      ],
+      "duration_ms": 234611,
+      "name": "Enfermo de Riqueza",
+      "url": "https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "DESVELADO",
-        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
-      },
-      "artists": [
-        {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 236945,
-      "name": "Tomando Tequila",
-      "url": "https://open.spotify.com/track/3yFKnvGcp6DqmXgYR7QW2I"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "$ad Boyz 4 Life",
         "url": "https://open.spotify.com/album/0X24VcVf6nQJ52c5QmncsO"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 314000,
       "name": "Por Dentro",
       "url": "https://open.spotify.com/track/59Z1qb7vX4nMksBQ9vIkRr"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "DESVELADO",
+        "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
+      },
+      "artists": [
+        {
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 236945,
+      "name": "Tomando Tequila",
+      "url": "https://open.spotify.com/track/3yFKnvGcp6DqmXgYR7QW2I"
     },
     {
       "added_at": "2023-10-06 04:00:00",

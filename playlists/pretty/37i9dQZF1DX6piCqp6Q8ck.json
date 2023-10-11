@@ -1,12 +1,12 @@
 {
   "description": "Uplifting and happy jazz christmas classics.",
-  "num_followers": 100099,
+  "num_followers": 100101,
   "original_name": "Feel Good Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmMwN2U1ZTBjY2I5YzhkZDIzNGYzNTNmNWYwYjZmZDgwMzdmNjdl",
+  "snapshot_id": "MCw0OWUzOTA3NDdiZThjN2FkNzQ3OTdkMjM4NjkzYjhiOWNmN2ExMTYx",
   "tracks": [
     {
       "added_at": "2023-10-06 00:01:00",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "A Jazzy Christmas Celebration",
-        "url": "https://open.spotify.com/album/6Ss48nr4OdDZvR9Si3ONQP"
-      },
-      "artists": [
-        {
-          "name": "Carl Winther",
-          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
-        }
-      ],
-      "duration_ms": 126284,
-      "name": "Mary's Boy Child",
-      "url": "https://open.spotify.com/track/5rfIV7AoYPDdv6XZZjGPKh"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "The Complete Decca Singles Vol. 4: 1950-1955",
         "url": "https://open.spotify.com/album/3nXCCfwBpz0FlUdxJrMfwM"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 189497,
       "name": "Santa Claus Got Stuck (In My Chimney)",
       "url": "https://open.spotify.com/track/37DyuqC8sgnnfmqxA5I1Fq"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "A Jazzy Christmas Celebration",
+        "url": "https://open.spotify.com/album/6Ss48nr4OdDZvR9Si3ONQP"
+      },
+      "artists": [
+        {
+          "name": "Carl Winther",
+          "url": "https://open.spotify.com/artist/6sGRzzszXhAo63o0iHBs7R"
+        }
+      ],
+      "duration_ms": 126284,
+      "name": "Mary's Boy Child",
+      "url": "https://open.spotify.com/track/5rfIV7AoYPDdv6XZZjGPKh"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -591,6 +591,26 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
+        "name": "Louis Wishes You a Cool Yule",
+        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+        }
+      ],
+      "duration_ms": 191093,
+      "name": "I've Got My Love To Keep Me Warm",
+      "url": "https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
         "name": "Their Complete Recordings Together",
         "url": "https://open.spotify.com/album/59FWajrRYfw3QEoR3VSNc7"
       },
@@ -611,6 +631,22 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
+        "name": "Jolly old st Nicolas",
+        "url": "https://open.spotify.com/album/5cqLmVLHqKrcSDE2i4T9o5"
+      },
+      "artists": [
+        {
+          "name": "Michael Stylez & Co",
+          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+        }
+      ],
+      "duration_ms": 104169,
+      "name": "Jolly old st Nicolas",
+      "url": "https://open.spotify.com/track/4i7Gh6vfIhFA6HTWERr2TM"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
         "name": "Holiday For Swing!",
         "url": "https://open.spotify.com/album/1oPkmzcGvZT9Q32eLLjIS4"
       },
@@ -623,26 +659,6 @@
       "duration_ms": 153533,
       "name": "Mele Kalikimaka",
       "url": "https://open.spotify.com/track/0UqkDwuC21kH8aBghYK5gd"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Louis Wishes You a Cool Yule",
-        "url": "https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
-        }
-      ],
-      "duration_ms": 191093,
-      "name": "I've Got My Love To Keep Me Warm",
-      "url": "https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -715,18 +731,34 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Jolly old st Nicolas",
-        "url": "https://open.spotify.com/album/5cqLmVLHqKrcSDE2i4T9o5"
+        "name": "Gospel Train (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
       },
       "artists": [
         {
-          "name": "Michael Stylez & Co",
-          "url": "https://open.spotify.com/artist/64jHiDhZlL99Y3MxOwQ4qT"
+          "name": "Sister Rosetta Tharpe",
+          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
         }
       ],
-      "duration_ms": 104169,
-      "name": "Jolly old st Nicolas",
-      "url": "https://open.spotify.com/track/4i7Gh6vfIhFA6HTWERr2TM"
+      "duration_ms": 146022,
+      "name": "O Little Town Of Bethlehem",
+      "url": "https://open.spotify.com/track/6V23uUPhBn3NZuUVq1aOlz"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Ella & Louis Christmas",
+        "url": "https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "Let It Snow! Let It Snow! Let It Snow!",
+      "url": "https://open.spotify.com/track/79Vow814grawUCdrBlYZbs"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -759,38 +791,6 @@
       "duration_ms": 180240,
       "name": "We Three Kings",
       "url": "https://open.spotify.com/track/6Z2g3GpvZOGBzWIJw4gVNz"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Ella & Louis Christmas",
-        "url": "https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Let It Snow! Let It Snow! Let It Snow!",
-      "url": "https://open.spotify.com/track/79Vow814grawUCdrBlYZbs"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Gospel Train (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3OGOZW8wCyD0zj254FZ0Ei"
-      },
-      "artists": [
-        {
-          "name": "Sister Rosetta Tharpe",
-          "url": "https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7"
-        }
-      ],
-      "duration_ms": 146022,
-      "name": "O Little Town Of Bethlehem",
-      "url": "https://open.spotify.com/track/6V23uUPhBn3NZuUVq1aOlz"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -831,26 +831,6 @@
       "duration_ms": 163600,
       "name": "Little Jack Frost Get Lost (with Marjorie Hughes) - 78rpm Version",
       "url": "https://open.spotify.com/track/2VOdqW6WMnCGeJRQDE4rR1"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Joe Stilgoe's Christmas Album",
-        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
-      },
-      "artists": [
-        {
-          "name": "Joe Stilgoe",
-          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
-        },
-        {
-          "name": "Ben Castle",
-          "url": "https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Little White Berry",
-      "url": "https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -919,22 +899,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "I'll Be Home for Christmas",
-        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Latchin Trio",
-          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
-        }
-      ],
-      "duration_ms": 263960,
-      "name": "Silent Night",
-      "url": "https://open.spotify.com/track/0zn7ckz69IBdsYnMwiGGqF"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "What A Night! A Christmas Album",
         "url": "https://open.spotify.com/album/545gVC14v9Z8qiThMSJgui"
       },
@@ -947,6 +911,42 @@
       "duration_ms": 203573,
       "name": "What a Night!",
       "url": "https://open.spotify.com/track/3379BhHoOyWDkewjzpgZAv"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Joe Stilgoe's Christmas Album",
+        "url": "https://open.spotify.com/album/5Dic2tDaLuLf3HdwD8Tbc1"
+      },
+      "artists": [
+        {
+          "name": "Joe Stilgoe",
+          "url": "https://open.spotify.com/artist/3mbE8KcHOtqusTu843P6Am"
+        },
+        {
+          "name": "Ben Castle",
+          "url": "https://open.spotify.com/artist/3cMu4zqTDHd01cuFpaA9a4"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Little White Berry",
+      "url": "https://open.spotify.com/track/04i0n52ZpDuITt7uQpaWnt"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "I'll Be Home for Christmas",
+        "url": "https://open.spotify.com/album/2279rFm900f7XZRc1qKUmh"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Latchin Trio",
+          "url": "https://open.spotify.com/artist/79PWBQ4rekAQItLBfqIdzl"
+        }
+      ],
+      "duration_ms": 263960,
+      "name": "Silent Night",
+      "url": "https://open.spotify.com/track/0zn7ckz69IBdsYnMwiGGqF"
     },
     {
       "added_at": "2023-10-06 00:01:00",

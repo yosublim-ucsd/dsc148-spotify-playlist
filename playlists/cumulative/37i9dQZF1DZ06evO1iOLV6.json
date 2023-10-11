@@ -52,7 +52,7 @@
       ],
       "date_added": "2022-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 191681,
       "name": "After Party",
       "url": "https://open.spotify.com/track/2mgcd1yyXVz0mMvFE9yCGo"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 204000,
       "name": "Amazing Grace",
       "url": "https://open.spotify.com/track/4iUR52Vde7PjuXJDdQzUaq"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 239706,
       "name": "Celebrate Me",
       "url": "https://open.spotify.com/track/02J7gPkx8wI2NDi8eWM4w4"
@@ -506,7 +506,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 259230,
       "name": "Do Better",
       "url": "https://open.spotify.com/track/0vtXr3xIGXkHI0eidEOuUg"
@@ -1904,6 +1904,44 @@
       "duration_ms": 169006,
       "name": "Roll On Me",
       "url": "https://open.spotify.com/track/7dwgWc4n7rp7ruK9c21cyo"
+    },
+    {
+      "album": {
+        "name": "Roll On Me",
+        "url": "https://open.spotify.com/album/6ssSTfQhXX5lDGanUJkOvJ"
+      },
+      "artists": [
+        {
+          "name": "Lavaud",
+          "url": "https://open.spotify.com/artist/5vN74Jan4kXV79cq9SLp7T"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        },
+        {
+          "name": "KANIS",
+          "url": "https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc"
+        },
+        {
+          "name": "Reekado Banks",
+          "url": "https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn"
+        },
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Saint & Citizen",
+          "url": "https://open.spotify.com/artist/3a1mtJHahvdHcYQEBQB5YY"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190615,
+      "name": "Roll On Me",
+      "url": "https://open.spotify.com/track/503wKpMyZNr1fvB5eSZ8LC"
     },
     {
       "album": {

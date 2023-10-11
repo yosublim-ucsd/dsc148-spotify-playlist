@@ -1,12 +1,12 @@
 {
   "description": "Lovely, pop-filled, fun.",
-  "num_followers": 42193,
+  "num_followers": 42222,
   "original_name": "Wholesome",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTQ0YjA3OTYyZDY5OGVhZTM2MjAzOTgzMjI2MzQzZjZjMjMxMTQ0",
+  "snapshot_id": "MCw5OTc4NTIyZDk1NjM1Nzg2YTg0YTUzN2UxOGQyZmE2ODk1ZjgxM2M2",
   "tracks": [
     {
       "added_at": "2023-10-03 18:58:47",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "Waffle House",
-        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 145440,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
-    },
-    {
-      "added_at": "2023-10-03 18:58:47",
-      "album": {
         "name": "TV",
         "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 173640,
       "name": "AOK",
       "url": "https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP"
+    },
+    {
+      "added_at": "2023-10-03 18:58:47",
+      "album": {
+        "name": "Waffle House",
+        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145440,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -259,22 +259,6 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "Never Gonna Not Dance Again",
-        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 225789,
-      "name": "Never Gonna Not Dance Again",
-      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
-    },
-    {
-      "added_at": "2023-10-03 18:58:47",
-      "album": {
         "name": "Welcome To The Madhouse",
         "url": "https://open.spotify.com/album/5DVaT8HXcp9bbJh7p4dSpf"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 178156,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/2zBDKzqa6sdxeI0fC6OWIC"
+    },
+    {
+      "added_at": "2023-10-03 18:58:47",
+      "album": {
+        "name": "Never Gonna Not Dance Again",
+        "url": "https://open.spotify.com/album/6MCHSjoEVriUjWE6LERAaR"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 225789,
+      "name": "Never Gonna Not Dance Again",
+      "url": "https://open.spotify.com/track/6sZo5nJIsFWXefRCCexpx0"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "Cloudy Day",
-        "url": "https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 185303,
-      "name": "Cloudy Day",
-      "url": "https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS"
-    },
-    {
-      "added_at": "2023-10-03 18:58:47",
-      "album": {
         "name": "That's Just The Way It Is, Babe",
         "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 208253,
       "name": "That\u2019s Just The Way It Is, Babe",
       "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
+    },
+    {
+      "added_at": "2023-10-03 18:58:47",
+      "album": {
+        "name": "Cloudy Day",
+        "url": "https://open.spotify.com/album/3IbmFFjHMuAkhfk1zFDSow"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 185303,
+      "name": "Cloudy Day",
+      "url": "https://open.spotify.com/track/0mA7zotmg2ZFMRALljdZsS"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -787,6 +787,22 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
+      },
+      "artists": [
+        {
+          "name": "Olivia Dean",
+          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
+        }
+      ],
+      "duration_ms": 81222,
+      "name": "I Could Be A Florist",
+      "url": "https://open.spotify.com/track/2LzOTLGAqF9IPkwHFiCysq"
+    },
+    {
+      "added_at": "2023-10-03 18:58:47",
+      "album": {
         "name": "Mountain",
         "url": "https://open.spotify.com/album/3iRiuWFQaB6J31fqTl0oiw"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 195145,
       "name": "Here",
       "url": "https://open.spotify.com/track/5yuGEEvvqMHvoLIxEFnaDT"
-    },
-    {
-      "added_at": "2023-10-03 18:58:47",
-      "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/5YlBA1tCY0M8DDs75RB2LY"
-      },
-      "artists": [
-        {
-          "name": "Olivia Dean",
-          "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
-        }
-      ],
-      "duration_ms": 81222,
-      "name": "I Could Be A Florist",
-      "url": "https://open.spotify.com/track/2LzOTLGAqF9IPkwHFiCysq"
     },
     {
       "added_at": "2023-10-03 18:58:47",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-10-03 18:58:47",
       "album": {
-        "name": "I Just Came To Dance",
-        "url": "https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3"
-      },
-      "artists": [
-        {
-          "name": "Mae Muller",
-          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
-        }
-      ],
-      "duration_ms": 144950,
-      "name": "I Just Came To Dance",
-      "url": "https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg"
-    },
-    {
-      "added_at": "2023-10-03 18:58:47",
-      "album": {
         "name": "Are You Awake?",
         "url": "https://open.spotify.com/album/6Zxv2rfp6HzEMNW5fb1Un4"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 224429,
       "name": "Are You Awake?",
       "url": "https://open.spotify.com/track/6liAgoBoFdFbKW4ai28HIE"
+    },
+    {
+      "added_at": "2023-10-03 18:58:47",
+      "album": {
+        "name": "I Just Came To Dance",
+        "url": "https://open.spotify.com/album/66GYmSfy8LWQilm80dopa3"
+      },
+      "artists": [
+        {
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+        }
+      ],
+      "duration_ms": 144950,
+      "name": "I Just Came To Dance",
+      "url": "https://open.spotify.com/track/2LQ3i7FKz0i2mrkcjWGeIg"
     },
     {
       "added_at": "2023-10-03 18:58:47",

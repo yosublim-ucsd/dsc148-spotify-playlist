@@ -1981,6 +1981,24 @@
     },
     {
       "album": {
+        "name": "El Mo\u00f1o de Mar\u00eda",
+        "url": "https://open.spotify.com/album/2QC98oIsSXFwEVeQ9jIg9y"
+      },
+      "artists": [
+        {
+          "name": "Los Calvos",
+          "url": "https://open.spotify.com/artist/7EysVBxbAXcaVkrvgZ3a2z"
+        }
+      ],
+      "date_added": "2022-02-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155757,
+      "name": "El Mo\u00f1o de Mar\u00eda",
+      "url": "https://open.spotify.com/track/4YCi1vdAJupmjJfilduiMZ"
+    },
+    {
+      "album": {
         "name": "La Candela Viva",
         "url": "https://open.spotify.com/album/2UChA5fC8ycqyOJbMwjtZw"
       },
@@ -3164,7 +3182,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 265333,
       "name": "Kunta Kinte Dub",
       "url": "https://open.spotify.com/track/7622Jo93hnCOkViAgertAz"

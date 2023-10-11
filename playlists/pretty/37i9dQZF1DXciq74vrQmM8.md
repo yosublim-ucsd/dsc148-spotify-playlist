@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 
 > welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. dorian electra
 
-[Spotify](https://open.spotify.com/user/spotify) - 520,004 likes - 85 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 520,067 likes - 85 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciq74vrQmM8.md) - [plain]
 | 84 | [couldn't care less](https://open.spotify.com/track/1sLWgbOqMolBU1yQUKZTYF) | [Sepha.](https://open.spotify.com/artist/094ug46k28Q0tdaGPm3WNA) | [couldn't care less](https://open.spotify.com/album/3eLTT0rJiKbhYRzH7PMW7d) | 4:34 |
 | 85 | [Death Before Designer \(feat\. SosMula\)](https://open.spotify.com/track/3hqDihPfqmf5tpybblro6a) | [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp), [SosMula](https://open.spotify.com/artist/7fFfPSHnrplQpezV79CFYc) | [Death Before Designer \(feat\. SosMula\)](https://open.spotify.com/album/19nFdELhwOhpFp3FwR7Sfp) | 2:02 |
 
-Snapshot ID: `MCxmZjdjNDA0NTJkYTE2ZjczY2I2NDExM2NjNmZhMzE3NTMzNmU5YmZi`
+Snapshot ID: `MCw0ZTM2NTMyZDQ1OGFhMGJiMzY5ZGMyYjAwMGE5MTkxNmQ2N2VlMjJk`

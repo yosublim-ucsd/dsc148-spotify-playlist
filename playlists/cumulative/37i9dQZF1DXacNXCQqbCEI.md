@@ -4,7 +4,7 @@
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-265 songs - 19 hr 16 min
+266 songs - 19 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Brujería](https://open.spotify.com/track/473WXZ7uM7cyOD699Er496) | [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Li Saumet](https://open.spotify.com/artist/1hYzHxIYlfYgHXN9DVZaNw) | [Brujería](https://open.spotify.com/album/3GJBYtFuHxPDeNeW8jSCec) | 3:43 | 2023-09-15 |  |
 | [Bye Bye](https://open.spotify.com/track/1S4sh25ZPqskyvoV0UlDGC) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Bye Bye](https://open.spotify.com/album/3ZSoRUnuOmnGXhV359Jpir) | 4:31 | 2022-04-15 | 2023-09-09 |
 | [Bye Bye](https://open.spotify.com/track/1i8hvM3XJ1EoeqcR9ELxwN) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Móntate en El Viaje](https://open.spotify.com/album/6SKvXVpiz3f38UkRMnMyvZ) | 4:31 | 2022-04-15 | 2022-07-09 |
+| [Bye Bye](https://open.spotify.com/track/4IfzEViG2rW1mhZrxN45D1) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Bye Bye](https://open.spotify.com/album/2wiDl7atqcgGip0yIZQf2g) | 4:31 | 2023-02-13 |  |
 | [Búho](https://open.spotify.com/track/15A389LUr9IMkztXv6oFbM) | [Mr\. Bleat](https://open.spotify.com/artist/4s30l2MADdxxpZbsNNCgCb) | [Búho](https://open.spotify.com/album/5LNivPzS2smPjnunOBwKuX) | 5:00 | 2021-11-26 |  |
 | [Canario](https://open.spotify.com/track/6NmWZzCK8iVMXDzUQHRsPb) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/1C6ozZe6bRxeTeGgB6C5Vk) | 4:08 | 2021-11-26 | 2022-07-29 |
 | [Canario](https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv) | [Shika Shika / Botanas, Vol\. 15](https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6) | 4:09 | 2023-02-13 |  |
@@ -215,7 +216,7 @@
 | [Sendero del Monte](https://open.spotify.com/track/4L5Q7sI9pbOkplxpLY9EC1) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx) | [Respira](https://open.spotify.com/album/0nj1mWqRNnyCz2IlDkx8qj) | 3:51 | 2021-11-26 | 2022-07-20 |
 | [Serpiente Dorada](https://open.spotify.com/track/1lAwqRBdQOnGltiX0oNm9I) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Serpiente Dorada](https://open.spotify.com/album/4gmnDvOxEJDjGmGlILKZst) | 3:09 | 2022-04-15 |  |
 | [Serpiente Dorada](https://open.spotify.com/track/6vQ0lV1kKIrv34UWsOnl5s) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG) | [Serpiente Dorada](https://open.spotify.com/album/6siJLs13j5enCTwe9H7SXy) | 3:09 | 2021-11-26 | 2022-07-27 |
-| [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 | 2021-11-26 |  |
+| [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 | 2021-11-26 | 2023-10-11 |
 | [Siete](https://open.spotify.com/track/0G1rTJ4blA2SxXRB8QrEOw) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Siete](https://open.spotify.com/album/0fk3UOJJhuc7OEMKpZWvg6) | 5:47 | 2021-11-26 | 2022-07-29 |
 | [Siete](https://open.spotify.com/track/6H76nYgiuQ1BotX9hUKW6i) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Siku](https://open.spotify.com/album/3Ebykp28PuMSSQfqzkt8DO) | 5:47 | 2022-04-15 |  |
 | [Sin control](https://open.spotify.com/track/4yNonlwveBYAglVu6lO4hw) | [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Sin control](https://open.spotify.com/album/55UvtCx5rsi1djBrqEJ7tb) | 3:46 | 2021-11-26 | 2022-07-17 |

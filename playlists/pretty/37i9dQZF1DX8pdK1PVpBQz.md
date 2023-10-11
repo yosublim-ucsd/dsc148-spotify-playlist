@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > Discover something new from local independent artists on the rise\. Cover: yergurl\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,598 likes - 116 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,621 likes - 116 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -125,4 +125,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 | 115 | [All My Friends \(Are Your Friends\)](https://open.spotify.com/track/0kNJy3Jt0Gyv9hafyoraF4) | [Loretta](https://open.spotify.com/artist/59D3Q3GPUKTirID5bOxnzR) | [All My Friends \(Are Your Friends\)](https://open.spotify.com/album/6TlcgQSldmuE8YAC3HWzvs) | 2:30 |
 | 116 | [Breeze](https://open.spotify.com/track/05fIHUKB2klPwPGHW543Bc) | [Tyde Levi](https://open.spotify.com/artist/4JMLeb984vOKewdcPcRgz4) | [Breeze](https://open.spotify.com/album/4tkXWPtDuJbS63F4GRs1Jk) | 4:32 |
 
-Snapshot ID: `MCwxNWYxNjkyYzk1OTlmZTY0Y2FjYmQ1ZmFlNDBkNWNhZDZiMjA2NmVh`
+Snapshot ID: `MCwyYjBhMzUyNDFlYmRjNTEzMWQxNzE0NjdhOTU5MDM5YzI5OTg2NDZh`

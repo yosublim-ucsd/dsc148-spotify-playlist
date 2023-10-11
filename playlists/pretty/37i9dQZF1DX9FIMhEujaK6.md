@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 
 > The ultimate chilled soundtrack to bring your day to a close.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,448 likes - 50 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,525 likes - 50 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 36 | [Howl \- Chill Mix](https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl \(Chill Mix\)](https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x) | 3:17 |
 | 37 | [Rolling Back](https://open.spotify.com/track/335EcT0oI5889ZgM0q413d) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [Rolling Back \(Durante Remix\)](https://open.spotify.com/album/1GiOPy7dvYrVMRwMPsprlT) | 3:58 |
 | 38 | [Lone Raver](https://open.spotify.com/track/06r5aMZ8cT6wZXcEyqOLH4) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Lone Raver](https://open.spotify.com/album/0qpxpizwkNZexLID0TEPWe) | 4:17 |
-| 39 | [Linked](https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Linked](https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR) | 6:09 |
-| 40 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
+| 39 | [Can't Do Without You](https://open.spotify.com/track/5owacNcWuezb4JHoGdoQSj) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Our Love](https://open.spotify.com/album/4JOmLltFC735tBL7jfHfA7) | 3:56 |
+| 40 | [Linked](https://open.spotify.com/track/3rCtueI7qBN2kZBZnXuk5K) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Linked](https://open.spotify.com/album/6Eb3lH04iEMK0YJ8gk01MR) | 6:09 |
 | 41 | [Nights Introlude](https://open.spotify.com/track/5I6jxFTcbN8sHT3MPUeTAH) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K) | 4:40 |
 | 42 | [Suzuki](https://open.spotify.com/track/7DBBuzCuZQaWNRix9ys6UB) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 6:04 |
 | 43 | [The Sea](https://open.spotify.com/track/7MRI6ZNv3neLVYy2kQ91nQ) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Big Calm](https://open.spotify.com/album/7rjjFxMFZjPzQzBMj6mXr2) | 5:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FIMhEujaK6.md) - [plain]
 | 49 | [Truth Is Light](https://open.spotify.com/track/2XTfdMl5x2qgGl9ZVjmNhF) | [Joe Goddard](https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5) | [Electric Lines \(Bonus Edition\)](https://open.spotify.com/album/3IbY6WzMWrPx7ZnqMfEkd6) | 3:59 |
 | 50 | [Hayling](https://open.spotify.com/track/5ewsTJzfU5eiBLcGlaSrpG) | [FC Kahuna](https://open.spotify.com/artist/1UQ5GQDdYPKgbIEn9sMiSg), [Hafdis Huld](https://open.spotify.com/artist/49gtDVpCBqLszTPkOy8idU) | [Machine Says Yes](https://open.spotify.com/album/2IHhaQat5XDDqjlU57CRPo) | 6:47 |
 
-Snapshot ID: `MCxiMDVkYmFhNDhjYTAyOTVjNDFhYzc5YTMxMTFiYWZjZDBkNmRlNTA4`
+Snapshot ID: `MCxmNzFmYjBiZGU4NDU2NDYwOGVhNDI3ZDU3OTgyZWU5ZjFkMTE1NDcz`

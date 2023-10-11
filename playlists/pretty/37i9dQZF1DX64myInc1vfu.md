@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: La Isla Centeno
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,005 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,056 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Por el Resto de Tu Vida](https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Por el Resto de Tu Vida](https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm) | 3:17 |
 | 2 | [La Mitad](https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:57 |
 | 3 | [Un Ratito](https://open.spotify.com/track/6B5qbGyX9UPkdWJIkJlfnP) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Medianoche](https://open.spotify.com/album/3XCI5ZjZMArpKdOcyqVFZL) | 3:00 |
-| 4 | [La Distancia](https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 |
-| 5 | [Beso](https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:31 |
+| 4 | [Beso](https://open.spotify.com/track/4PpuZIMmeng6qPicveSI22) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Háblate de Mí](https://open.spotify.com/album/5DtrZ74RgqpVVqLWncmqyZ) | 3:31 |
+| 5 | [La Distancia](https://open.spotify.com/track/0LpEr3qpmDQ1gEabnsQlGC) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [Eterno](https://open.spotify.com/album/4DiqVS0SU6o0jrgRMbfqxi) | 3:17 |
 | 6 | [Los mismos](https://open.spotify.com/track/6LnWzTjHrsrv57lVATmnZR) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg) | [Los mismos](https://open.spotify.com/album/5FOyz0vBUeOoj49M9loFTg) | 2:54 |
 | 7 | [Se Me Olvidó](https://open.spotify.com/track/6mDaKsBN1KHIBfeNXJwhZk) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Se Me Olvidó](https://open.spotify.com/album/6sbeex4HisXrm68OJuUR2g) | 3:40 |
 | 8 | [Soledad y el Mar \(feat\. Los Macorinos\)](https://open.spotify.com/track/1Xtz05nIgJiEYdncfd1w8h) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp), [Los Macorinos](https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx) | [Musas \(Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol\. 1\)](https://open.spotify.com/album/30isRfL4u7fowKgTVsydDt) | 3:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 59 | [Para No Olvidar](https://open.spotify.com/track/5V2PAJnOJn7H4e8FwSbRdr) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Para No Olvidar](https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy) | 4:04 |
 | 60 | [Perfidia](https://open.spotify.com/track/14PXI56j53LkKFLexnpf8n) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Perfidia](https://open.spotify.com/album/101igY1HyXs27avcElHKzj) | 3:31 |
 
-Snapshot ID: `MCwxZDYyYTMwNDFkOWUwZmJiNjYzMjRjYzU3M2VmZjc1NjBmNzdiMjY3`
+Snapshot ID: `MCw4N2E1ZGNjMWQ0NTEzYTRkNTEwOTdhZmZiYTQzY2U2ODM2OGEwNDI2`

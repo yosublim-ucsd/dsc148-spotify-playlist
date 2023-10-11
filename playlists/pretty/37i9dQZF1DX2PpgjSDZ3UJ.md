@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 
 > Las mejores canciones de indie/alternativo durante el 2020\. En portada: Ela Minus
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,516 likes - 89 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,520 likes - 89 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,10 +81,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 71 | [Cara De Idiota](https://open.spotify.com/track/6iHbLjuZudv2uD6pTWZSjp) | [Axolotes Mexicanos](https://open.spotify.com/artist/31IVfzTQ5bAPL8XMrO6dVx) | [Cara De Idiota](https://open.spotify.com/album/1mjEYQfRUPROm5rLgPUeae) | 2:33 |
 | 72 | [Caminos Extraños](https://open.spotify.com/track/75bf2scFyzrtEZrt6xEAiM) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [En Transmisión Perpetua](https://open.spotify.com/album/7waXpt8GJxXs9pS1bLxzCe) | 4:19 |
 | 73 | [Y Ahora](https://open.spotify.com/track/5bfOcYeiVE8yy6EWpwYduo) | [Mula](https://open.spotify.com/artist/7bWZkUZ5drGDoGAFhGoYGE) | [Mundos](https://open.spotify.com/album/04IsLcbwfDd5Y7fwdaGML6) | 3:12 |
-| 74 | [Perdidos en Pantitlán](https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Perdidos en Pantitlán](https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd) | 2:32 |
-| 75 | [Eternos](https://open.spotify.com/track/0BRQB84vP5k2XOeAMEkw74) | [Hay Un Dinosaurio](https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe) | [Eternos](https://open.spotify.com/album/5Ch3VsbQLxLmsewBpNKs8U) | 3:43 |
-| 76 | [Acción \- O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano](https://open.spotify.com/track/5om9LfUKsyTaQWbHH2Refu) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Acción \(O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano\)](https://open.spotify.com/album/72PseYEGxsIboQQbMB3oUj) | 4:08 |
-| 77 | [Momento de Escapar](https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n) | [Paraisso](https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi) | [Buenos Tiempos](https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m) | 3:37 |
+| 74 | [Momento de Escapar](https://open.spotify.com/track/19YD7AIpHqbObWPzvS3B0n) | [Paraisso](https://open.spotify.com/artist/3s5dsJWkL6dAGsvY4r5cyi) | [Buenos Tiempos](https://open.spotify.com/album/0oj2LzYjVhWmshX8dSDg2m) | 3:37 |
+| 75 | [Perdidos en Pantitlán](https://open.spotify.com/track/0Timp3zrA5PZg9qPoUCVfR) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Perdidos en Pantitlán](https://open.spotify.com/album/7aIjw8NNEqqUiSnwiEMncd) | 2:32 |
+| 76 | [Eternos](https://open.spotify.com/track/0BRQB84vP5k2XOeAMEkw74) | [Hay Un Dinosaurio](https://open.spotify.com/artist/6EarpkLGAtCbNZcKJ0WnGe) | [Eternos](https://open.spotify.com/album/5Ch3VsbQLxLmsewBpNKs8U) | 3:43 |
+| 77 | [Acción \- O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano](https://open.spotify.com/track/5om9LfUKsyTaQWbHH2Refu) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [Acción \(O: Decreto de Guerra a Muerte a los Traidores del Rock Latinoamericano\)](https://open.spotify.com/album/72PseYEGxsIboQQbMB3oUj) | 4:08 |
 | 78 | [Diciembre](https://open.spotify.com/track/0HWHBcKEk8aT82oHLUJ1IE) | [Encarta 98](https://open.spotify.com/artist/28Am1s75o5KAGaAwCQ22mv) | [Diciembre](https://open.spotify.com/album/2CaTs90sNVNUxcNhVDfjzt) | 4:38 |
 | 79 | [Las Ruinas](https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q) | [Misile](https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0) | [Ruinas](https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0) | 5:02 |
 | 80 | [Pong](https://open.spotify.com/track/4r5DPWa4xFtqS0CROTIc41) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Pong](https://open.spotify.com/album/3O9Sh32VPoskDSbkiW77Jb) | 3:28 |
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PpgjSDZ3UJ.md) - [plain]
 | 85 | [Puede Ser Mortal](https://open.spotify.com/track/38fXO2P0O838i1ahIiWVWo) | [Feroe](https://open.spotify.com/artist/404eCbMqcGFfsXfrQtzi9a) | [Puede Ser Mortal](https://open.spotify.com/album/7ssdUA4nhK1P9Fvz9zSxr2) | 4:14 |
 | 86 | [Semana Satán](https://open.spotify.com/track/7xDX0lOF3D2aXHXEkInhZ4) | [Uniforms](https://open.spotify.com/artist/6OUh2Ek6fOHcCrVdhXFTQL) | [Fantasía Moral](https://open.spotify.com/album/0ZXZRe3KRbC1smAPK9UIUg) | 5:05 |
 | 87 | [Alguien Detrás de Mi](https://open.spotify.com/track/386O3o4TbBhoasmd97QQIJ) | [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Se Parece A](https://open.spotify.com/album/3IYROUym8NgqWWQCX7ifr9) | 3:48 |
-| 88 | [Honestidad](https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:45 |
-| 89 | [Sabes](https://open.spotify.com/track/6DH8mb9KAv1dexrLgy9aS8) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [Sabes](https://open.spotify.com/album/6GUwOeqKSqk98yJK2dPkEr) | 3:25 |
+| 88 | [Sabes](https://open.spotify.com/track/6DH8mb9KAv1dexrLgy9aS8) | [La Era de Gomes](https://open.spotify.com/artist/2JsaY1GQhGPbIlFSrAncg0) | [Sabes](https://open.spotify.com/album/6GUwOeqKSqk98yJK2dPkEr) | 3:25 |
+| 89 | [Honestidad](https://open.spotify.com/track/2TSGYYXqPLk1Xy6eTtlTmG) | [Lucia Tacchetti](https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [ELETÉ](https://open.spotify.com/album/2yrXDD1dTZFPVSKMp9ADpL) | 3:45 |
 
-Snapshot ID: `MCxiNWM1YWM0YTdkNThiNzhhZmUzZWUxOGE1MmVhYjc4ODgzM2NkY2Fk`
+Snapshot ID: `MCw1MzEwMTNmMzgzOWZmNTkyNWZhYWMxMTcyMGRhY2NjM2FhOGU1NDEx`

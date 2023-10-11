@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 229,861 likes - 100 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 229,989 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,16 +30,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 20 | [Lies](https://open.spotify.com/track/54SpjxPioot7g7hVfbrXHh) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [Always](https://open.spotify.com/album/4T1fv3gIYifquPf9dRhJei) | 3:49 |
 | 21 | [Sherlock \(Clue + Note\)](https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Sherlock \- The 4th Mini Album](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) | 3:59 |
 | 22 | [Loner](https://open.spotify.com/track/7wqBDFp7JZfWp3aPaC4gHQ) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [Bluetory](https://open.spotify.com/album/6uXXlobOpwaecX1eNZtW4O) | 3:37 |
-| 23 | [Man In Love](https://open.spotify.com/track/4CLZtVqnJTaTMiPEiwpO0E) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [New Challenge](https://open.spotify.com/album/7to9h7fVE0VSyks3yz8kUA) | 3:17 |
+| 23 | [Abracadabra](https://open.spotify.com/track/33bXkEzVYbyp1nCTx4KNwc) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [Sound G.](https://open.spotify.com/album/01ylpNorWq5UkR5Vd0XBqw) | 3:02 |
 | 24 | [SHAKE IT](https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [SHAKE IT](https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C) | 3:28 |
 | 25 | [Genie](https://open.spotify.com/track/7m48u7EC4gnCfAhwoLfbCE) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Genie \- The Second Mini Album](https://open.spotify.com/album/7dXtKHYGXhQZCE2mEg0l93) | 3:50 |
-| 26 | [Abracadabra](https://open.spotify.com/track/33bXkEzVYbyp1nCTx4KNwc) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [Sound G.](https://open.spotify.com/album/01ylpNorWq5UkR5Vd0XBqw) | 3:02 |
+| 26 | [Man In Love](https://open.spotify.com/track/4CLZtVqnJTaTMiPEiwpO0E) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [New Challenge](https://open.spotify.com/album/7to9h7fVE0VSyks3yz8kUA) | 3:17 |
 | 27 | [Hush](https://open.spotify.com/track/3jb7gznZVfqyMQGJo4hzG2) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [Hush](https://open.spotify.com/album/01zi2Tsa9ojYgPY5Q08aUb) | 3:06 |
 | 28 | [Bad Boy](https://open.spotify.com/track/7GLlnuHjYIKy3YR59ziaQe) | [BIGBANG](https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX) | [ALIVE](https://open.spotify.com/album/5rI92smOlSS5d1Hq05BY7M) | 3:56 |
 | 29 | [FIRE](https://open.spotify.com/track/4q2HU9Ijpk4zJ24x7oMdXb) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [COLLECTION](https://open.spotify.com/album/3Cenzci2VpnZbo1S9Ruade) | 3:45 |
 | 30 | [Electric Shock](https://open.spotify.com/track/7tMN6iGJMulMFpSCeU7pmU) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Electric Shock \- The 2nd Mini Album](https://open.spotify.com/album/7LVMjDwcyhVhDTHddKPjIs) | 3:16 |
-| 31 | [Be Mine](https://open.spotify.com/track/3Ase3jvjv2RYIa92MMfu82) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [Over The TOP](https://open.spotify.com/album/3AnWl2Q3EXf5nomLjvYJg5) | 3:26 |
-| 32 | [STEP](https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [KARA 3rd Album STEP](https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9) | 3:23 |
+| 31 | [STEP](https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [KARA 3rd Album STEP](https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9) | 3:23 |
+| 32 | [Be Mine](https://open.spotify.com/track/3Ase3jvjv2RYIa92MMfu82) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [Over The TOP](https://open.spotify.com/album/3AnWl2Q3EXf5nomLjvYJg5) | 3:26 |
 | 33 | [I Like That](https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [INSANE LOVE](https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8) | 3:41 |
 | 34 | [Heartbeat](https://open.spotify.com/track/1H7AvyWHYAYvbjFi1IVUhP) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [1:59PM](https://open.spotify.com/album/3FlMNN4eJ1mGpw2EJqBHpG) | 3:13 |
 | 35 | [Hoot](https://open.spotify.com/track/1uLBl4JvBl7bwSRkxmggkS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Hoot \- The 3rd Mini Album](https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg) | 3:19 |
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 37 | [So Hot](https://open.spotify.com/track/34ur063WdATV4hGzCeEAsx) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [So Hot](https://open.spotify.com/album/7uLVRq4SzLmamXRIBONIBv) | 3:01 |
 | 38 | [Alone](https://open.spotify.com/track/40gUfKHwCNLpXowFN9Hvsu) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [ALONE](https://open.spotify.com/album/5PXVRXQIPAXH0j78MfeDrV) | 3:26 |
 | 39 | [첫 사랑니 \(Rum Pum Pum Pum\)](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Pink Tape \- The 2nd Album](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) | 3:17 |
-| 40 | [The Chaser](https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [INFINITIZE](https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D) | 3:22 |
+| 40 | [Mr.](https://open.spotify.com/track/4OqRMlyNvV36bP1DtJFp4t) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Revolution](https://open.spotify.com/album/4wpDaa2Pr2nAfNKdRCv1hB) | 3:13 |
 | 41 | [bang](https://open.spotify.com/track/4eIyItvPfLiRpBsvk81voz) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [Afterschool 3rd Single BANG](https://open.spotify.com/album/2Gwu5SCjiLprQy9GTaAQ5h) | 3:18 |
-| 42 | [Mr.](https://open.spotify.com/track/4OqRMlyNvV36bP1DtJFp4t) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Revolution](https://open.spotify.com/album/4wpDaa2Pr2nAfNKdRCv1hB) | 3:13 |
+| 42 | [The Chaser](https://open.spotify.com/track/6fzJaYb6xprozFzFdqfI9s) | [INFINITE](https://open.spotify.com/artist/1bkpTEmumLC3xc7HgMsttU) | [INFINITIZE](https://open.spotify.com/album/6jMmMQGdqpi0XA4eiNfx1D) | 3:22 |
 | 43 | [너라고 It's You](https://open.spotify.com/track/2TG8kKgwsyyZU8lZIH6SZ1) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [너라고 It's You](https://open.spotify.com/album/3TC76yhvBNYaVvnzmyZN4J) | 3:51 |
 | 44 | [Good\-bye Baby](https://open.spotify.com/track/0HWzu5wDNPI1f365KKICdz) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [A Class](https://open.spotify.com/album/5Nq0GIIfrsCnUPx4Ayej1c) | 3:45 |
 | 45 | [Hot Summer](https://open.spotify.com/track/1dyMRzKZMakJqmOnsUUZ9X) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Hot Summer \- The 1st Album Repackage](https://open.spotify.com/album/5hr3fB4sBOMC7kZr4VvsUu) | 3:45 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 62 | [Lupin](https://open.spotify.com/track/3RmwOvD5VBSsqSES1GsFX6) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [Lupin](https://open.spotify.com/album/0z3NBMOUlrNI3gLdy1V28s) | 3:12 |
 | 63 | [High High](https://open.spotify.com/track/00Luoss7SGaxzTEy94cfia) | [GD&TOP](https://open.spotify.com/artist/3e3oLJehq4vQl2H0FAJnvn) | [GD&TOP](https://open.spotify.com/album/6M11igFHxA92s2ks2uqu6F) | 3:06 |
 | 64 | [Love Ya](https://open.spotify.com/track/6nW76DRJWhwBnhTLVripJe) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [Destination](https://open.spotify.com/album/6k16yhvezz8OZfMFw7gsoC) | 3:25 |
-| 65 | [Be My Baby](https://open.spotify.com/track/5GCixDdpW0HcfR8ewmOOcI) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [Wonder World](https://open.spotify.com/album/318RAh1OyVhnegQ7oZ8Fib) | 3:31 |
-| 66 | [I Don't Need a Man](https://open.spotify.com/track/1sWJyo5PBNSmm0FVIQ6GQ3) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [Hush](https://open.spotify.com/album/01zi2Tsa9ojYgPY5Q08aUb) | 3:30 |
+| 65 | [I Don't Need a Man](https://open.spotify.com/track/1sWJyo5PBNSmm0FVIQ6GQ3) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [Hush](https://open.spotify.com/album/01zi2Tsa9ojYgPY5Q08aUb) | 3:30 |
+| 66 | [Be My Baby](https://open.spotify.com/track/5GCixDdpW0HcfR8ewmOOcI) | [Wonder Girls](https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM) | [Wonder World](https://open.spotify.com/album/318RAh1OyVhnegQ7oZ8Fib) | 3:31 |
 | 67 | [Shock](https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Shock Of The New Era](https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg) | 3:45 |
 | 68 | [Come Back To Me](https://open.spotify.com/track/4ezlt6ciGxes2ctqphnKVU) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [Just Listen.......](https://open.spotify.com/album/4QoM0VDe5UPOotBYmmcg5U) | 4:06 |
 | 69 | [Lucifer](https://open.spotify.com/track/48239f9arCavZ0KjdEk3Zd) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Hello \- SHINee The 2nd Album Repackage](https://open.spotify.com/album/3IC82yhFJAPw2jbSfMBzBy) | 3:53 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 96 | [POISON](https://open.spotify.com/track/2r5xY48FMJ35oD3lKXl9eB) | [Secret](https://open.spotify.com/artist/503DjcVO5Ku1NgLPhVuNg7) | [POISON](https://open.spotify.com/album/25R9uXJqiwyH3WJdCdUdKK) | 3:27 |
 | 97 | [Dejavu](https://open.spotify.com/track/4Q4JDOphODwPg9QcFqiPyN) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [Dejavu \(Single\)](https://open.spotify.com/album/2HpU5ApLkQsMwLnpsrSo5c) | 3:32 |
 | 98 | [LOVE](https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q) | [Brown Eyed Girls](https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7) | [With L.O.V.E Brown Eyed Girls](https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl) | 3:37 |
-| 99 | [HUG](https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Hug](https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf) | 3:48 |
-| 100 | [Y](https://open.spotify.com/track/3xVGwwax3gAPAkJewnB2eZ) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [Y](https://open.spotify.com/album/4fajjTR9Fr9mLYV54l6Wh5) | 3:28 |
+| 99 | [Y](https://open.spotify.com/track/3xVGwwax3gAPAkJewnB2eZ) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [Y](https://open.spotify.com/album/4fajjTR9Fr9mLYV54l6Wh5) | 3:28 |
+| 100 | [HUG](https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Hug](https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf) | 3:48 |
 
-Snapshot ID: `MCw4MjI3OWMzMGQ3MTFmMDQ4NmNjYTRiY2IzNmYwMTkxM2Y0M2I2Njgz`
+Snapshot ID: `MCw0Mzc0NWE4OWNmMDAyNDg0YjVhNzA3YjBiMmUwMjhiMzgzNjkyYjRj`

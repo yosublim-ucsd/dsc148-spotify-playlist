@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 
 > 深夜の読書、お酒を飲みながらネットサーフィン ....そんなリラックスタイムのお供に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,422 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,442 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3qfKi1la1B1.md) - [plain]
 | 57 | [better off](https://open.spotify.com/track/7bdYxWPCs46dQ0XLwySOyv) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [glisten](https://open.spotify.com/album/14lSyFVCuhvEoW7ogOIzD0) | 3:13 |
 | 58 | [Something About You \(with Rudimental\) \- Chill Mix](https://open.spotify.com/track/6sgqf4wXFWSAmjL1TEXNvZ) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo) | [Something About You \(with Rudimental\) \[Alternate Versions\]](https://open.spotify.com/album/4T4QEtrQvAUYtvpX20DO3z) | 2:46 |
 | 59 | [Wonder Woman](https://open.spotify.com/track/3BLWGYOcy1svvsBByeFxLh) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [LEGEND](https://open.spotify.com/album/0kRBs6M0VbrourQ6fYbCiJ) | 2:48 |
-| 60 | [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 |
+| 60 | [Take Me Home](https://open.spotify.com/track/26AmP3ukYC4Zs9lSGlh55I) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Take me home](https://open.spotify.com/album/4CykmPXyJzacASnoxR33ns) | 3:20 |
 
-Snapshot ID: `MCw0ZDU3N2M2OTcyNjBkZTY5YjY4ZmJjM2Y5NTRjMWFjMTcxNDkyNDg4`
+Snapshot ID: `MCxkNmE0MTQ2ZTcwOWVhNmY4YzNkMDE3MzE1Y2NiYmFiN2Q1MDBmZTFk`

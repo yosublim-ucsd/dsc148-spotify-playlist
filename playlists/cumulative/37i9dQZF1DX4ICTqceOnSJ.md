@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-150 songs - 8 hr 19 min
+151 songs - 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Alma Sola \- Versión Acústica](https://open.spotify.com/track/2jVb4wnqiooprgsu1TUb09) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Yorka](https://open.spotify.com/artist/71bG6LIwKMYALxV8WuIezn) | [Alma Sola \(Versión Acústica\)](https://open.spotify.com/album/1rkG4GlLGjDCLEAqXVKCo2) | 4:42 | 2023-07-14 |  |
 | [Amantes](https://open.spotify.com/track/7fsk4uHED00HfG2z5Hpq5h) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Amantes \- Su Majestad La Eternidad](https://open.spotify.com/album/7HvthDR7lGp5JNua540inw) | 3:52 | 2023-03-19 | 2023-05-10 |
 | [AMOR MINIMAL](https://open.spotify.com/track/3gydgoR0OGDNJNhkY0337b) | [Cancamusa](https://open.spotify.com/artist/6GSnSFc0O2JMkPkGcBFsNc) | [AMOR MINIMAL](https://open.spotify.com/album/0OACOxBHoNzyA36x7au0bo) | 3:27 | 2023-03-19 | 2023-04-11 |
-| [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 | 2023-07-11 |  |
+| [Amores De Colores](https://open.spotify.com/track/6JiKdKOTGtgatt1obe5cIE) | [Alex Eugenio](https://open.spotify.com/artist/5zVZavNyXi3uT9ZTeMzYfR) | [Veraneras](https://open.spotify.com/album/3BcXlbfEI0L2Ll45yBzSMO) | 3:05 | 2023-07-11 | 2023-10-11 |
 | [Animal](https://open.spotify.com/track/0oj0QRfjA5WsLvZkoOQk6f) | [Norwayy](https://open.spotify.com/artist/2Oco3IVZNWcII3kGXRaNaU) | [Animal](https://open.spotify.com/album/1YeMVUEEBUcehIKC8PQkK5) | 4:15 | 2023-03-19 | 2023-05-09 |
 | [Anita](https://open.spotify.com/track/3ppvrwFRLLD4PTxmZDZVfO) | [Pacifica](https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse) | [Anita](https://open.spotify.com/album/0zKPQqcqkPWWdNwcE6ZCVy) | 2:51 | 2023-05-28 | 2023-08-21 |
 | [Antes que el sol nos queme](https://open.spotify.com/track/5In0QvvpyuKt8FHVviuRre) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [Antes que el sol nos queme](https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU) | 4:15 | 2023-04-21 | 2023-07-25 |
@@ -41,6 +41,7 @@
 | [Climax](https://open.spotify.com/track/44rBnwPtuBSZTKUhjChFvI) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ), [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd) | [Climax](https://open.spotify.com/album/2C7rex6fcBtRICYrdOKxEz) | 2:28 | 2023-08-04 |  |
 | [Cometa Ti](https://open.spotify.com/track/6lvQX4xvlkLKOB86DTFcTY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [ODD MAMI](https://open.spotify.com/artist/2Y6AtL4xQFvg8nroRM3ZV6) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 2:56 | 2023-09-14 |  |
 | [Como Si Nada](https://open.spotify.com/track/3qeEnBDyql3BF8ZRo1fbSU) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Como Si Nada](https://open.spotify.com/album/3gaqW9uYFzUf8Ah2tggT5K) | 3:30 | 2023-04-26 | 2023-07-30 |
+| [con amor](https://open.spotify.com/track/7JBPVpXn8stTvfn4SotY9N) | [Josearmen](https://open.spotify.com/artist/2RB7pU0xCVApiluKSjpwyf) | [con amor](https://open.spotify.com/album/4nF818Y5SvdfNxgLYL55Sr) | 2:42 | 2023-10-10 |  |
 | [Confuso](https://open.spotify.com/track/2Rl03TiPufCJyuv7v7DqAz) | [Dawn Haze](https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U) | [Confuso](https://open.spotify.com/album/2QuwIFRO0WUW6NQu2kF0I3) | 3:18 | 2023-03-19 | 2023-04-19 |
 | [Confuso](https://open.spotify.com/track/7zYdwyOOjJdfk0mfz1yWA4) | [Dawn Haze](https://open.spotify.com/artist/32JSwTOeaGSHi268j8f73U) | [Confuso](https://open.spotify.com/album/4U7ZiteMO7A6zIVlFJA8fG) | 3:18 | 2023-04-10 | 2023-05-09 |
 | [cosquillas](https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [FOMO](https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q) | 2:49 | 2023-03-19 | 2023-04-15 |

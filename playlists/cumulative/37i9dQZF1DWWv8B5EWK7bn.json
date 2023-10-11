@@ -3529,6 +3529,24 @@
     },
     {
       "album": {
+        "name": "New Joy",
+        "url": "https://open.spotify.com/album/3VbIOwadp0IpBVvNfBmRxx"
+      },
+      "artists": [
+        {
+          "name": "Slauson Malone 1",
+          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196583,
+      "name": "New Joy",
+      "url": "https://open.spotify.com/track/2XWMDcbMGRypWYc58lOeTI"
+    },
+    {
+      "album": {
         "name": "NIGHT CRAWLING",
         "url": "https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm"
       },
@@ -4972,7 +4990,7 @@
       ],
       "date_added": "2022-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 157179,
       "name": "Sour Sun",
       "url": "https://open.spotify.com/track/58MSdjZOSfpi4Namw33bJ8"

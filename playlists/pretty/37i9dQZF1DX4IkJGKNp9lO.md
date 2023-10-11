@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 
 > 
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,900 likes - 65 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,911 likes - 65 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 37 | [Tyst för fan](https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y) | [Ebba Grön](https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9) | [Ebba Grön 1978 \- 1982](https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R) | 2:29 |
 | 38 | [När Världssamvetet Tog Semester](https://open.spotify.com/track/7sB961OKIFLjJpNDPYxlLy) | [Charta 77](https://open.spotify.com/artist/4l3QLs54bIREe8aDr8o3Iq) | [Tecken I Tiden](https://open.spotify.com/album/3KYVzrsazBDbsbkbDQBXAd) | 3:20 |
 | 39 | [Psykist Instabil](https://open.spotify.com/track/58iJFpZzIWeGEvDJ0YSUBO) | [Asta Kask](https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX) | [Med is i magen](https://open.spotify.com/album/7CPT7qKCX5GRzEbWl0eRH2) | 2:47 |
-| 40 | [Solglasögon](https://open.spotify.com/track/3zpIlRP7EV4m8Urdm8w46N) | [Docent Död](https://open.spotify.com/artist/6L6NYBOQGOwaajr9yJ0muM) | [Docent Död \(Mini\-LP\)](https://open.spotify.com/album/2S9DWuSoChp6oI1eWiequT) | 2:27 |
-| 41 | [Balladen Om Lilla Elsa](https://open.spotify.com/track/1K0fEr5SmhneWgbnP8HmzM) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 2:23 |
+| 40 | [Balladen Om Lilla Elsa](https://open.spotify.com/track/1K0fEr5SmhneWgbnP8HmzM) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 2:23 |
+| 41 | [Solglasögon](https://open.spotify.com/track/3zpIlRP7EV4m8Urdm8w46N) | [Docent Död](https://open.spotify.com/artist/6L6NYBOQGOwaajr9yJ0muM) | [Docent Död \(Mini\-LP\)](https://open.spotify.com/album/2S9DWuSoChp6oI1eWiequT) | 2:27 |
 | 42 | [En slemmig torsk](https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Aktion](https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6) | 1:49 |
 | 43 | [Tänk negativt](https://open.spotify.com/track/49gKIBAd8nsGWGs8Aimouy) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Tänk negativt](https://open.spotify.com/album/0f5LTeksAWDDcPSMzyNZE7) | 2:31 |
 | 44 | [Leva loppan](https://open.spotify.com/track/3a5FtkugQkAfqH1A8Psuwd) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Pengarna eller livet](https://open.spotify.com/album/5AkRYj8nWPwjcZVoP5MKdD) | 3:01 |
@@ -61,17 +61,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IkJGKNp9lO.md) - [plain]
 | 51 | [Punkfestival](https://open.spotify.com/track/2HsOYlJSGyrQoMU5ju4YJ9) | [Attentat](https://open.spotify.com/artist/78GFaTPk9W1HfaWvmoRO8n) | [Punkfestival](https://open.spotify.com/album/2dHXmO7yLflqWRsE1O0b5A) | 2:22 |
 | 52 | [Sibylla](https://open.spotify.com/track/5ZXcG9xpZbedvg6XjEF9JC) | [Hans & Greta](https://open.spotify.com/artist/1MiHrCnLxMQT9PHFYWN4ie) | [Snabbmat För Folk I Farten](https://open.spotify.com/album/0QxstpnJJBgNvD4qzqolGw) | 3:30 |
 | 53 | [Amelia](https://open.spotify.com/track/4u3SRmpI2DEbuOZuejog83) | [Barbaras Grannar](https://open.spotify.com/artist/35ySzAXjdrvkFBPKNUBu1u) | [Amelia](https://open.spotify.com/album/4WR5DkdrAaD5okww70B1xY) | 4:11 |
-| 54 | [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 |
-| 55 | [Varje ensam natt](https://open.spotify.com/track/08PsVeAcmLKotmovg8ZADv) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [Varje ensam natt](https://open.spotify.com/album/0JSfu5YQErdJflzgob8S3y) | 3:24 |
+| 54 | [Varje ensam natt](https://open.spotify.com/track/08PsVeAcmLKotmovg8ZADv) | [Hurula](https://open.spotify.com/artist/5haVwjDd8z1dsR0uQewwoP) | [Varje ensam natt](https://open.spotify.com/album/0JSfu5YQErdJflzgob8S3y) | 3:24 |
+| 55 | [Hela hatet stormar](https://open.spotify.com/track/7KxxR4leTRgoF36DPyeqDD) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI), [Loke Nyberg](https://open.spotify.com/artist/1SovpimyX6noSdwHMymCIA) | [För Sverige](https://open.spotify.com/album/1qAOtAfBZwnxpU4n1fVzoS) | 3:25 |
 | 56 | [Simpel Matematik](https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ) | [Kardinal Synd](https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O) | [\[emo\]](https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP) | 3:12 |
 | 57 | [Brinner](https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR) | [Mimikry](https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv) | [Alla sover](https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v) | 2:47 |
 | 58 | [39 Steg](https://open.spotify.com/track/2rV0t4N2oZnTl2yjDnRc0I) | [Strebers](https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ) | [Kallt Stål, Varmt Blod + I Fädrens Spår](https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t) | 3:31 |
 | 59 | [Som En Doft Av Napalm](https://open.spotify.com/track/68dRAj0qJy7KQe4FxjUqrc) | [Slutstation Tjernobyl](https://open.spotify.com/artist/7hGagoTcGYInEGKeZdS6wC) | [Vi Är Alla Stjärnor](https://open.spotify.com/album/7E2RVJCOJyo0WqyH1b9GNn) | 2:25 |
 | 60 | [Fabriken](https://open.spotify.com/track/5EUmW6SjzUmexP82gl93jd) | [Kardborrebandet](https://open.spotify.com/artist/6CaozjJFhs3wLYvch7B0At) | [Välkommen till fabriken](https://open.spotify.com/album/3TzvCcOrrzkWZm6unnpa9S) | 2:26 |
-| 61 | [Ändras och förändra](https://open.spotify.com/track/3ThgiJYysAuWrabao04nAj) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Ändras och förändra](https://open.spotify.com/album/1CBwaG5G67eyftT3LhOAOA) | 2:05 |
-| 62 | [Grabbarna på stan](https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Grabbarna på Stan](https://open.spotify.com/artist/6MoD7VNBYbyiu8HmOFiG4L) | [Grabbarna på Stan](https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D) | 3:34 |
-| 63 | [Jag Vill Ha En Slav](https://open.spotify.com/track/4xO1DQ3opSAtufO7oNP0C4) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj) | 2:32 |
+| 61 | [Grabbarna på stan](https://open.spotify.com/track/4Cvp01XRJtsBa2d8iLPQBg) | [Danny Cooltmoore](https://open.spotify.com/artist/5QJXgfc6xBUgLtMctf1fHF), [Grabbarna på Stan](https://open.spotify.com/artist/6MoD7VNBYbyiu8HmOFiG4L) | [Grabbarna på Stan](https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D) | 3:34 |
+| 62 | [Jag Vill Ha En Slav](https://open.spotify.com/track/4xO1DQ3opSAtufO7oNP0C4) | [Krymplings](https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ) | [Krymplings](https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj) | 2:32 |
+| 63 | [Ändras och förändra](https://open.spotify.com/track/3ThgiJYysAuWrabao04nAj) | [Lastkaj 14](https://open.spotify.com/artist/6xTo3T8agKHb56mxJA3yJI) | [Ändras och förändra](https://open.spotify.com/album/1CBwaG5G67eyftT3LhOAOA) | 2:05 |
 | 64 | [Dom bränner bilar](https://open.spotify.com/track/5yVfBRMPGnNDFZiUJWX0bN) | [KSMB](https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71) | [Ond saga](https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X) | 2:20 |
 | 65 | [Vägra](https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl) | [Borgerlig Begravning](https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q) | [Borgerlig begravning](https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH) | 2:01 |
 
-Snapshot ID: `MCxlZDdjZmZhMDMwOTgxZTMwOWM3MTBlNGQxMmQwODlkNzc3YzI3NjJm`
+Snapshot ID: `MCw0NzNhYmEyYzlkYjcwNjdkNDE3Y2U1MzQ2NzNlYTViZDZkYjJlNmYw`

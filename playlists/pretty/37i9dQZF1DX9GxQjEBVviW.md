@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 
 > ​Boogie along to doo\-wop's greatest hits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,047 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,102 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 6 | [Yakety Yak \- 2007 Remaster](https://open.spotify.com/track/3Lbxie6whOW4eMt4jtI32k) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [There's A Riot Goin' On: The Coasters On Atco](https://open.spotify.com/album/1oi6aLPgSAwv3352Jtmjku) | 1:56 |
 | 7 | [Love Potion No\. 9 \- Remastered / Single Version](https://open.spotify.com/track/5ytPMYb6dkoli8sNSEsdmZ) | [The Clovers](https://open.spotify.com/artist/0ckkj0a9CvIJr4h84B0OlN) | [The Best Of The Clovers \(Love Potion No\. 9\)](https://open.spotify.com/album/6tfGv9PH9Kx1fKpp2dVe4y) | 1:53 |
 | 8 | [Why Do Fools Fall in Love](https://open.spotify.com/track/2xKfXRhw5xaUXfevJJspZf) | [Frankie Lymon](https://open.spotify.com/artist/2KMQz6s6MNRr4bxI8EQdRk), [The Teenagers](https://open.spotify.com/artist/1C5aVv7xV2lMH2epG5Dpi4) | [The Best Of Frankie Lymon & The Teenagers](https://open.spotify.com/album/0vMlyH3qNCkun2rIFVU5Gm) | 2:19 |
-| 9 | [Stay](https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct) | [Maurice Williams & The Zodiacs](https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 1:34 |
-| 10 | [Earth Angel](https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [Earth Angel](https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd) | 2:51 |
+| 9 | [Earth Angel](https://open.spotify.com/track/7GnMzVWOHLBPcfco4L1GtE) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [Earth Angel](https://open.spotify.com/album/42uu50W2ko5aQriXh7naAd) | 2:51 |
+| 10 | [Stay](https://open.spotify.com/track/5R2DZitRTDYtrkCoJiddct) | [Maurice Williams & The Zodiacs](https://open.spotify.com/artist/43BgumF6B7s0W2mhVkmVO4) | [Dirty Dancing \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0mtLFaQ3hL371jsNraRo9g) | 1:34 |
 | 11 | [Little Darlin'](https://open.spotify.com/track/7ycFNferNuk6wAjBa0vWvl) | [The Diamonds](https://open.spotify.com/artist/3s9kaLrpplvv4vIzZBYPga) | [The Best Of The Diamonds](https://open.spotify.com/album/6iUnqREt5OzfM2EDpJVEVM) | 2:09 |
 | 12 | [Duke of Earl](https://open.spotify.com/track/6Hy22YDN9HJMRlJP1LwnJy) | [Gene Chandler](https://open.spotify.com/artist/52uMkSFt2RVO6XxTEt5VeW) | [The Duke Of Earl](https://open.spotify.com/album/2VmU63FIBsGgQYItCvsYkl) | 2:27 |
 | 13 | [Tears on My Pillow](https://open.spotify.com/track/07ePHsQ0SopWrnCbNjNC2D) | [Little Anthony & The Imperials](https://open.spotify.com/artist/3PF1KBeHYb14yKgsiE693V) | [Greatest Hits](https://open.spotify.com/album/5f1KMzQPkGnHOerwnOkHSV) | 2:20 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GxQjEBVviW.md) - [plain]
 | 38 | [Barbara Ann](https://open.spotify.com/track/44iYHhqsZumnQedqNtOK6x) | [The Regents](https://open.spotify.com/artist/3ukGXal9ZRsjAUSRL6fRDn) | [Barbara\-Ann](https://open.spotify.com/album/6DP5bJB1hGXFSuZFz9fWPB) | 2:15 |
 | 39 | [There Goes My Baby \- Rerecorded](https://open.spotify.com/track/3ntA3FI3FR18yPO9snKvZ3) | [The Drifters](https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT) | [20 Best of Doo Wop](https://open.spotify.com/album/7q4HXnmWEyMJLQIqnGZTH5) | 2:14 |
 | 40 | [In the Still of the Night](https://open.spotify.com/track/5XiWLaXiajWLXnQWN7fUWy) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [Dirty Dancing: Anniversary Edition](https://open.spotify.com/album/3LRhyjBARwKrCp28rmcmAM) | 3:05 |
-| 41 | [Buzz, Buzz, Buzz](https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg) | [The Hollywood Flames](https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC) | [The Hollywood Flames](https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET) | 2:16 |
+| 41 | [At The Hop](https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [For Cool Grandkids Everywhere](https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a) | 2:36 |
 | 42 | [Searchin'](https://open.spotify.com/track/5DCqNn752dBJbjM6LEtQJU) | [The Coasters](https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM) | [The Coasters](https://open.spotify.com/album/3HRX7bzilG4zT8CZ6KTdtO) | 2:39 |
 | 43 | [Can't We Be Sweethearts](https://open.spotify.com/track/6vF8EUUjVNkKf1Yb2lmovx) | [The Cleftones](https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf) | [The Best Of The Cleftones](https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN) | 2:59 |
-| 44 | [At The Hop](https://open.spotify.com/track/0X1rGmNiBAdqpkeWlaZbmi) | [Danny & The Juniors](https://open.spotify.com/artist/6Ahm6X9wSKXitavOvu0XzY) | [For Cool Grandkids Everywhere](https://open.spotify.com/album/32xVr7I4Aj0RqHYRTsQx0a) | 2:36 |
+| 44 | [Buzz, Buzz, Buzz](https://open.spotify.com/track/1rhkJsynQ42VnaJanPmNwg) | [The Hollywood Flames](https://open.spotify.com/artist/121nZKKBmAkL8NKaXY0rkC) | [The Hollywood Flames](https://open.spotify.com/album/6ezr8YCNogJhJv0ggSRtET) | 2:16 |
 | 45 | [My True Story](https://open.spotify.com/track/1zfxyezgvocPSjSVup5ND4) | [The Jive Five](https://open.spotify.com/artist/2HWsf577KqaPhXyBFzei7L) | [Presenting the Jive Five](https://open.spotify.com/album/38QUQ8y53mMhnpd4Yv07CI) | 2:34 |
 | 46 | [Lovers Never Say Goodbye](https://open.spotify.com/track/1XDKn16I6tc1PNpXf58y3t) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Playlist: The Best Of The Flamingos](https://open.spotify.com/album/4jwec58eQ4tIr8YWKdxyjg) | 2:53 |
 | 47 | [Sincerely](https://open.spotify.com/track/6OkPtqmjlq8hWkkZGv7LWY) | [Harvey & The Moonglows](https://open.spotify.com/artist/2ZPn0kfIZf1aeq4J988Z5b) | [Harvey & The Moonglows 2000](https://open.spotify.com/album/4AHMnxyxnTiZh6rPD0Hs2E) | 3:10 |
 | 48 | [Little Girl of Mine](https://open.spotify.com/track/6YI7hHSjotVuw7czjRNCBN) | [The Cleftones](https://open.spotify.com/artist/55vDUEAKaeyEYSlzm5rRyf) | [The Best Of The Cleftones](https://open.spotify.com/album/4Ww5jdBeQfopiPnKvbYEcN) | 3:12 |
 | 49 | [Shop Around](https://open.spotify.com/track/1VMncXCJ34SIAosUKhzjHy) | [The Miracles](https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND) | [Greatest Hits: From The Beginning](https://open.spotify.com/album/5XmTHDRdxXFdrctu02TLMP) | 2:49 |
-| 50 | [Maybe](https://open.spotify.com/track/3OQws3wO9koGb1g2QP2YsN) | [The Chantels](https://open.spotify.com/artist/08kLJJHCIH3KZGk4FZmWSK) | [Doo Wop Classics Vol\. 1](https://open.spotify.com/album/74o0BLyhgBt6bvNqflYNmp) | 2:50 |
+| 50 | [Crying in the Chapel \- Remastered](https://open.spotify.com/track/53AD8JznNIb0jUZvwFY6MB) | [Sonny Til & The Orioles](https://open.spotify.com/artist/0xu2ZjoR7pUPjMIDcJ67dW) | [Anthology: The Deluxe Collection \(Remastered\)](https://open.spotify.com/album/5GuwHCtGYe062YWhAyc0jF) | 3:01 |
 
-Snapshot ID: `MCxkNWY4YjMwNjI2YjIzNGVmNDI0YWM1YjM4MmNhZjVlNTcyMmI1M2Jk`
+Snapshot ID: `MCw4NWVmMDY5ODllZGM0MmRlOWNjNmQzMDA0ZmY3NTg0M2JkOGQwZDFm`

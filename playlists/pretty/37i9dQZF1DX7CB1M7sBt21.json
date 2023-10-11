@@ -1,12 +1,12 @@
 {
   "description": "Ingenting peppar en under ett tr\u00e4ningspass som riktigt bra musik.",
-  "num_followers": 5441,
+  "num_followers": 5457,
   "original_name": "Peppl\u00e5tar till tr\u00e4ningspasset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNjZmMmVjZWVlODRhNThhOTBkZmIyZjgzMzZlN2ZmZTliN2ZjMGRk",
+  "snapshot_id": "MCw1OTUxODY4ZGQxZDc0MDQ2YTAxYTUyMWE5MzJjMDZkYmFmNGY5NGQw",
   "tracks": [
     {
       "added_at": "2023-09-14 17:36:14",
@@ -551,26 +551,6 @@
     {
       "added_at": "2023-09-14 17:36:14",
       "album": {
-        "name": "Me Provocas",
-        "url": "https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x"
-      },
-      "artists": [
-        {
-          "name": "Dynoro",
-          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
-        },
-        {
-          "name": "Fumaratto",
-          "url": "https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw"
-        }
-      ],
-      "duration_ms": 147255,
-      "name": "Me Provocas",
-      "url": "https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu"
-    },
-    {
-      "added_at": "2023-09-14 17:36:14",
-      "album": {
         "name": "Snacks",
         "url": "https://open.spotify.com/album/16H9XbDP9IxeyOohsXkKXb"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 169466,
       "name": "All Day And Night",
       "url": "https://open.spotify.com/track/5naYe7rLMZcLfO1DKg48MK"
+    },
+    {
+      "added_at": "2023-09-14 17:36:14",
+      "album": {
+        "name": "Me Provocas",
+        "url": "https://open.spotify.com/album/7nTh2NTu702X1jGG4Ew02x"
+      },
+      "artists": [
+        {
+          "name": "Dynoro",
+          "url": "https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n"
+        },
+        {
+          "name": "Fumaratto",
+          "url": "https://open.spotify.com/artist/3iuDJzaIhy7gDPgmUW2ujw"
+        }
+      ],
+      "duration_ms": 147255,
+      "name": "Me Provocas",
+      "url": "https://open.spotify.com/track/7sEwsJK7Ol0J6PFV9nioxu"
     },
     {
       "added_at": "2023-09-14 17:36:14",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2023-09-14 17:36:14",
       "album": {
-        "name": "Sweet & Sour (feat. Lauv & Tyga)",
-        "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
-      },
-      "artists": [
-        {
-          "name": "Jawsh 685",
-          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
-        },
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 163228,
-      "name": "Sweet & Sour (feat. Lauv & Tyga)",
-      "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
-    },
-    {
-      "added_at": "2023-09-14 17:36:14",
-      "album": {
         "name": "Don't Cry For Me (with Jason Derulo)",
         "url": "https://open.spotify.com/album/6ZPH8jjxr3QtODz3bXX4kP"
       },
@@ -1151,18 +1127,50 @@
     {
       "added_at": "2023-09-14 17:36:14",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+        "name": "Sweet & Sour (feat. Lauv & Tyga)",
+        "url": "https://open.spotify.com/album/6u45i7JOUffv0VXbGFG1mL"
       },
       "artists": [
         {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+          "name": "Jawsh 685",
+          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
+        },
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 179831,
-      "name": "OMG What's Happening",
-      "url": "https://open.spotify.com/track/11OPriDpmUrTMTji52ta17"
+      "duration_ms": 163228,
+      "name": "Sweet & Sour (feat. Lauv & Tyga)",
+      "url": "https://open.spotify.com/track/3ZWhRS2EJVL5B0IEzkcvZa"
+    },
+    {
+      "added_at": "2023-09-14 17:36:14",
+      "album": {
+        "name": "Kernkraft 400 (A Better Day) [MistaJam Remix]",
+        "url": "https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        },
+        {
+          "name": "MistaJam",
+          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
+        }
+      ],
+      "duration_ms": 140078,
+      "name": "Kernkraft 400 (A Better Day) - MistaJam Remix",
+      "url": "https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC"
     },
     {
       "added_at": "2023-09-14 17:36:14",
@@ -1191,26 +1199,18 @@
     {
       "added_at": "2023-09-14 17:36:14",
       "album": {
-        "name": "Kernkraft 400 (A Better Day) [MistaJam Remix]",
-        "url": "https://open.spotify.com/album/1I8JFG49o9pCJ9cxzLe6uz"
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
       },
       "artists": [
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "A7S",
-          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
-        },
-        {
-          "name": "MistaJam",
-          "url": "https://open.spotify.com/artist/3qi5fhSI6aUecvRN0XqIJ2"
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
         }
       ],
-      "duration_ms": 140078,
-      "name": "Kernkraft 400 (A Better Day) - MistaJam Remix",
-      "url": "https://open.spotify.com/track/6lFHE3POUybg20bbWqrYJC"
+      "duration_ms": 179831,
+      "name": "OMG What's Happening",
+      "url": "https://open.spotify.com/track/11OPriDpmUrTMTji52ta17"
     },
     {
       "added_at": "2023-09-14 17:36:14",
@@ -1339,30 +1339,6 @@
     {
       "added_at": "2023-09-14 17:36:14",
       "album": {
-        "name": "Never Love You Again",
-        "url": "https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ"
-      },
-      "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
-        {
-          "name": "Little Big Town",
-          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
-        },
-        {
-          "name": "Bryn Christopher",
-          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
-        }
-      ],
-      "duration_ms": 191329,
-      "name": "Never Love You Again",
-      "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
-    },
-    {
-      "added_at": "2023-09-14 17:36:14",
-      "album": {
         "name": "TIM",
         "url": "https://open.spotify.com/album/6Ad1E9vl75ZB3Ir87zwXIJ"
       },
@@ -1383,6 +1359,30 @@
       "duration_ms": 191248,
       "name": "Tough Love (feat. Agnes, Vargas & Lagola)",
       "url": "https://open.spotify.com/track/1yfyIdEw5U2bD5I6gxQCxW"
+    },
+    {
+      "added_at": "2023-09-14 17:36:14",
+      "album": {
+        "name": "Never Love You Again",
+        "url": "https://open.spotify.com/album/7eWg7UKU6LsRSvXthmlmZZ"
+      },
+      "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
+        {
+          "name": "Little Big Town",
+          "url": "https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv"
+        },
+        {
+          "name": "Bryn Christopher",
+          "url": "https://open.spotify.com/artist/7mWMzxN6IAIQ1tfFFtAiQv"
+        }
+      ],
+      "duration_ms": 191329,
+      "name": "Never Love You Again",
+      "url": "https://open.spotify.com/track/676tQQmFrilCR8L7kxRcGd"
     },
     {
       "added_at": "2023-09-14 17:36:14",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-09-14 17:36:14",
       "album": {
-        "name": "1 Day 2 Nights",
-        "url": "https://open.spotify.com/album/4QKRzndxnaFsUKGLAQb4Ou"
-      },
-      "artists": [
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 138200,
-      "name": "1 Day 2 Nights",
-      "url": "https://open.spotify.com/track/2LAtELE0xGyMKcvNlxiyF3"
-    },
-    {
-      "added_at": "2023-09-14 17:36:14",
-      "album": {
         "name": "Something Stupid (feat. AWA)",
         "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 176734,
       "name": "Something Stupid (feat. AWA)",
       "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
+    },
+    {
+      "added_at": "2023-09-14 17:36:14",
+      "album": {
+        "name": "1 Day 2 Nights",
+        "url": "https://open.spotify.com/album/4QKRzndxnaFsUKGLAQb4Ou"
+      },
+      "artists": [
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 138200,
+      "name": "1 Day 2 Nights",
+      "url": "https://open.spotify.com/track/2LAtELE0xGyMKcvNlxiyF3"
     },
     {
       "added_at": "2023-09-14 17:36:14",

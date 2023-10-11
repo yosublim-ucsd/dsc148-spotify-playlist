@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 102694,
+  "num_followers": 102726,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMWU0ODA2MGE5YzYzYjY4ZTZlNTk0MmM3OWJiMWZiMTdiNDRiNTYw",
+  "snapshot_id": "MCxiNmI0Y2RiNTUzMThmNjU5ODY3ODA3MzBhOGFiNDNjY2QzZWEwNzgy",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
-        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
-      },
-      "artists": [
-        {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "La Rueda M\u00e1gica - En Vivo",
-      "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Salud! Los Perez Garcia en Vivo",
         "url": "https://open.spotify.com/album/7Ix5ulHLNIeVYw8ggqPUD6"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 299176,
       "name": "Los A\u00f1os Que Vivimos en Peligro (En Vivo)",
       "url": "https://open.spotify.com/track/3UetPSQ5yRz2dFTV5EuJkY"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "El Amor Despu\u00e9s Del Amor 20 A\u00f1os ( En Vivo )",
+        "url": "https://open.spotify.com/album/69hkXFR8jgVt1cLqfQmKEj"
+      },
+      "artists": [
+        {
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "La Rueda M\u00e1gica - En Vivo",
+      "url": "https://open.spotify.com/track/4lhtqmdz80xSAKWMwDUcuK"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -731,22 +731,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Una Vez M\u00e1s (En Vivo)",
-        "url": "https://open.spotify.com/album/1U6EoDtF3m3oddpw0LHunn"
+        "name": "Todo Eso Que Nos Queda (En Vivo en el Gran Rex)",
+        "url": "https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT"
       },
       "artists": [
         {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        },
-        {
-          "name": "Juanse",
-          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
+          "name": "Los Perez Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
         }
       ],
-      "duration_ms": 286786,
-      "name": "Una Vez M\u00e1s - En Vivo",
-      "url": "https://open.spotify.com/track/3x7KnlNcfrvfNRYHb9mk0A"
+      "duration_ms": 244222,
+      "name": "Todo Eso Que Nos Queda - En Vivo en el Gran Rex",
+      "url": "https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -763,22 +759,6 @@
       "duration_ms": 291139,
       "name": "Banda de Garage",
       "url": "https://open.spotify.com/track/5lOFksI7IFX1g96ekSGBiU"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Todo Eso Que Nos Queda (En Vivo en el Gran Rex)",
-        "url": "https://open.spotify.com/album/1sD3x5nHHviRWDdjuaMCxT"
-      },
-      "artists": [
-        {
-          "name": "Los Perez Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WEyRDFePTrRVfpV0Vdjs3"
-        }
-      ],
-      "duration_ms": 244222,
-      "name": "Todo Eso Que Nos Queda - En Vivo en el Gran Rex",
-      "url": "https://open.spotify.com/track/37S1A1oGrwCs0R2K5fU9Ht"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -815,6 +795,26 @@
       "duration_ms": 383040,
       "name": "Espejismo - En Vivo",
       "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Una Vez M\u00e1s (En Vivo)",
+        "url": "https://open.spotify.com/album/1U6EoDtF3m3oddpw0LHunn"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        },
+        {
+          "name": "Juanse",
+          "url": "https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I"
+        }
+      ],
+      "duration_ms": 286786,
+      "name": "Una Vez M\u00e1s - En Vivo",
+      "url": "https://open.spotify.com/track/3x7KnlNcfrvfNRYHb9mk0A"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1183,22 +1183,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Hasta Estallar (En Vivo)",
-        "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
+        "name": "Alucinados como la primera vez",
+        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
       },
       "artists": [
         {
-          "name": "Los Caballeros De La Quema",
-          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "Pier",
+          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
         }
       ],
-      "duration_ms": 280810,
-      "name": "Hasta Estallar (En Vivo)",
-      "url": "https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L"
+      "duration_ms": 331453,
+      "name": "Sacrificio y Rock and Roll",
+      "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1219,18 +1215,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Alucinados como la primera vez",
-        "url": "https://open.spotify.com/album/7HcdNaR29l7Ia06pPjz9SD"
+        "name": "Hasta Estallar (En Vivo)",
+        "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
       },
       "artists": [
         {
-          "name": "Pier",
-          "url": "https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog"
+          "name": "Los Caballeros De La Quema",
+          "url": "https://open.spotify.com/artist/6Iv9dXeKX45ff7qe0LDuFW"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         }
       ],
-      "duration_ms": 331453,
-      "name": "Sacrificio y Rock and Roll",
-      "url": "https://open.spotify.com/track/3YeTUDReoVOsMmN9Vp8uRc"
+      "duration_ms": 280810,
+      "name": "Hasta Estallar (En Vivo)",
+      "url": "https://open.spotify.com/track/0xAHBxUFTNvajevhqgka2L"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1251,8 +1251,8 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Huracanes en Luna Plateada (En Vivo)",
-        "url": "https://open.spotify.com/album/1z9HFVvWCXsY1BkmyGBiRx"
+        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
+        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
       },
       "artists": [
         {
@@ -1260,9 +1260,9 @@
           "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 270253,
-      "name": "Labios de Seda - En Vivo",
-      "url": "https://open.spotify.com/track/65tZTcEHzp0kUd09bJxM6B"
+      "duration_ms": 414120,
+      "name": "Marad\u00f3 - En Vivo",
+      "url": "https://open.spotify.com/track/6IvGufWgArG0cd8WDeypdH"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Fr\u00e1gil (En Vivo)",
+        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 200985,
+      "name": "Fr\u00e1gil - En Vivo",
+      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Trascenlace (Vivo en Obras)",
         "url": "https://open.spotify.com/album/3b9dOyIcbeR3847hEt9hVy"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 617491,
       "name": "Dorado y P\u00farpura - En Vivo",
       "url": "https://open.spotify.com/track/082OAP5nOvl0u5hJgs15rB"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Fr\u00e1gil (En Vivo)",
-        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 200985,
-      "name": "Fr\u00e1gil - En Vivo",
-      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Ni Mierda (Vivo En Obras)",
-        "url": "https://open.spotify.com/album/7kzJtlZEgD8fLVuT2wgoVs"
-      },
-      "artists": [
-        {
-          "name": "La Perra Que Los Pari\u00f3",
-          "url": "https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7"
-        }
-      ],
-      "duration_ms": 311014,
-      "name": "Ni Mierda - Vivo En Obras",
-      "url": "https://open.spotify.com/track/5uNgDVyoegpIQcHu4Fto8h"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "La Fuente (Vivo en Obras 11/06/2022)",
         "url": "https://open.spotify.com/album/0UAX7WjcXyGu4YQvg3DeVp"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 251434,
       "name": "T\u00fanel de la Vida - Vivo en Obras 11/06/2022",
       "url": "https://open.spotify.com/track/04i1O9I6yHG7z9rNQJbSJ6"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Ni Mierda (Vivo En Obras)",
+        "url": "https://open.spotify.com/album/7kzJtlZEgD8fLVuT2wgoVs"
+      },
+      "artists": [
+        {
+          "name": "La Perra Que Los Pari\u00f3",
+          "url": "https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7"
+        }
+      ],
+      "duration_ms": 311014,
+      "name": "Ni Mierda - Vivo En Obras",
+      "url": "https://open.spotify.com/track/5uNgDVyoegpIQcHu4Fto8h"
     },
     {
       "added_at": "2023-10-06 03:00:00",

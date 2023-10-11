@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai
 
-195 songs - 11 hr 0 min
+196 songs - 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Alvida \- Unplugged](https://open.spotify.com/track/2MEviVXfyeaCCbro4ewCiJ) | [Dhiren](https://open.spotify.com/artist/1sRgove6hd99H244tmsvxZ) | [Alvida \(Unplugged\)](https://open.spotify.com/album/6HMp56pHJKt4f6q2r2EwD8) | 3:30 | 2023-05-17 | 2023-07-25 |
 | [Aye Ajnabi](https://open.spotify.com/track/2pifOwXzqTdRHnVWXWoozl) | [Azadd](https://open.spotify.com/artist/03iLvvBbav8KGD0s6j8bPA) | [Aye Ajnabi](https://open.spotify.com/album/1n55d51MmvrGDqKba3Fx5W) | 2:56 | 2023-05-31 | 2023-09-23 |
 | [Baarish Ki Boondein](https://open.spotify.com/track/18FhNEar51YMYXureTvkIn) | [Vibhas Arora](https://open.spotify.com/artist/5XNdEnoXYNrEm253PGukm3) | [Baarish Ki Boondein](https://open.spotify.com/album/178HTP7ToLI97nK9HySr0m) | 3:28 | 2023-07-07 |  |
-| [Baarishein](https://open.spotify.com/track/07Nu7WQpx6eKoS3VLprxOR) | [Shubham Agrawal](https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev) | [Baarishein](https://open.spotify.com/album/0391DL7W1ftvUB6K1TO4an) | 3:33 | 2023-08-04 |  |
+| [Baarishein](https://open.spotify.com/track/07Nu7WQpx6eKoS3VLprxOR) | [Shubham Agrawal](https://open.spotify.com/artist/0hXmRbCfPzmsKcTkYy0jev) | [Baarishein](https://open.spotify.com/album/0391DL7W1ftvUB6K1TO4an) | 3:33 | 2023-08-04 | 2023-10-11 |
 | [Baarishein \(Acoustic\)](https://open.spotify.com/track/3Ro0jYDrZcygFkdomURHqt) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Baarishein \(Acoustic\)](https://open.spotify.com/album/2YzCwXR0mLizrGV0sRVF2I) | 3:29 | 2023-07-14 |  |
 | [Baarishein Lana](https://open.spotify.com/track/6RuodKizBBkchDPm4a39m0) | [Reshabh Chhabra](https://open.spotify.com/artist/0CH9aQmuz1i2RyBW4dOtIk) | [Baarishein Lana](https://open.spotify.com/album/2dytF2kzDYrmyD5jlSbvOZ) | 3:08 | 2023-07-05 | 2023-07-26 |
 | [Baarishon Mein](https://open.spotify.com/track/5vy3eZEsqsDH06DVtyvuLj) | [Gurashish Singh](https://open.spotify.com/artist/2HZX9rmB8FMz1C7Oq6q3Ir), [Vidur Anand](https://open.spotify.com/artist/3PzaEhia9yDWE1BMmadPEL) | [Baarishon Mein](https://open.spotify.com/album/28cnP6Q0Nk6D0Ty7spGDWq) | 3:43 | 2023-07-13 | 2023-10-05 |
@@ -31,6 +31,7 @@
 | [Back To College](https://open.spotify.com/track/6UXNYzUEn7WMmdrA3d52vE) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh) | [Back To College](https://open.spotify.com/album/4YstqbeaEbhxWhZrihruzM) | 3:01 | 2023-05-17 | 2023-06-07 |
 | [Bade Achhe Lagte Hai](https://open.spotify.com/track/65qGnOwNU4odSdjL4gzx48) | [Ashish Khandal](https://open.spotify.com/artist/65XZEmEVa5U52jYJRQzuSF) | [Saregama Open Stage, Vol\. 15](https://open.spotify.com/album/32gAy0gxgW1ZEokDsNu76h) | 1:34 | 2023-05-17 | 2023-07-21 |
 | [Bade Achhe Lagte Hain](https://open.spotify.com/track/6Vl1npfEdPnhtZ26xtpE7Z) | [Rahul Jain](https://open.spotify.com/artist/5tJx4B5oBr1LJkkHI8GFYX) | [Rahul Jain Romantic Hits](https://open.spotify.com/album/6WIwOfxOvJYhjuHRdfaGss) | 2:44 | 2023-05-17 | 2023-07-08 |
+| [Bairiya](https://open.spotify.com/track/1OrjhoNFXThtmwPdm8lc7h) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Tanishka Bahl](https://open.spotify.com/artist/0RZSHotYnUAsA9mzApotQw) | [Love19](https://open.spotify.com/album/3uovRrWC0V8zckaZAbPoSK) | 3:22 | 2023-10-10 |  |
 | [Baithe Baithe \(From "T\-Series Listed"\)](https://open.spotify.com/track/70oyK852uX6zmyCfu3bdIj) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR), [Irshad Kamil](https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP) | [Baithe Baithe \(From "T\-Series Listed"\)](https://open.spotify.com/album/6u7VqWwhENXdzqg0cue6Rp) | 2:29 | 2023-05-17 |  |
 | [Banja Beimaan](https://open.spotify.com/track/4F6hIftaEtiZqX7O9qohUo) | [Siddharth Agarwal](https://open.spotify.com/artist/0khYzwgAKUdtcnxx3ETNRs) | [Banja Beimaan](https://open.spotify.com/album/5iiyu8Old8pPtzM0HULCVE) | 4:32 | 2023-05-17 | 2023-06-21 |
 | [Barsaat Aa Gayi \- Acoustic](https://open.spotify.com/track/3u2TfgGswNKiTuBMB8cIXe) | [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Hina Khan](https://open.spotify.com/artist/4xKss8ZlA5A4abTQpqynah) | [Barsaat Aa Gayi \(Acoustic\)](https://open.spotify.com/album/1nOjUyG49pdq4P20pv7Nam) | 3:36 | 2023-09-21 |  |

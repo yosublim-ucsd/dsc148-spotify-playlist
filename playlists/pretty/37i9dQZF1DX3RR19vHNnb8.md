@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 
 > Hip hop tracks to kick your workout up a notch
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,287 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,315 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 12 | [Longevity Flow](https://open.spotify.com/track/4xftWzEdtv72VcDlVvA5t0) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Longevity Flow](https://open.spotify.com/album/0UV7EM6NwjbyINDUwEpQUg) | 3:03 |
 | 13 | [Like Ice Spice](https://open.spotify.com/track/61iDSv1MgCsdo0zKXGxvCO) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Like Ice Spice / Bezos](https://open.spotify.com/album/6m8f7PHYHp3IlMOxdBNKvA) | 2:03 |
 | 14 | [Lonely \(with Lil Wayne\)](https://open.spotify.com/track/6pmNoWKk0r6zfIjWneJRxR) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Lonely \(with Lil Wayne\)](https://open.spotify.com/album/6PwnWA19E1JThqWMdRrj6l) | 2:34 |
-| 15 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
+| 15 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 |
 | 16 | [YAYA](https://open.spotify.com/track/0xAwmnpzW0AOF6Dzk6UZXP) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 3:13 |
-| 17 | [Lazarus \(feat\. Boj\)](https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [We're All Alone In This Together](https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG) | 3:24 |
+| 17 | [DECLAN RICE](https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [DECLAN RICE](https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy) | 2:04 |
 | 18 | [MC OLUOMO](https://open.spotify.com/track/7d0wP4hqtVIQ23H5uEnqBm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [MC OLUOMO](https://open.spotify.com/album/6SOHUdxwVth3saPV3VnnoE) | 1:47 |
 | 19 | [E.N.K.R](https://open.spotify.com/track/2ZHm36ojzqkGPOfpkNpcJ4) | [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO) | [E.N.K.R](https://open.spotify.com/album/6fUW1ADYZQIxY81HfkxKEf) | 0:55 |
 | 20 | [018](https://open.spotify.com/track/7vaW4NJiToSP1iretmDZq4) | [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [018](https://open.spotify.com/album/7cc1c9rmxzod99qDf3P5P1) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3RR19vHNnb8.md) - [plain]
 | 49 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/7bhBk8gX5aRsiUTBaaaCwq) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [Young Preacher](https://open.spotify.com/album/5J4BbjFnBq9C31xsph3ld2) | 3:01 |
 | 50 | [Put It On Da Floor Again \(Continued\) \(feat\. Cardi B\)](https://open.spotify.com/track/4TYLdoKFwfnFHrgsTH0bit) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(Continued\) \(feat\. Cardi B\)](https://open.spotify.com/album/3SdAsOeEizCDHMZMWGPPMj) | 4:00 |
 
-Snapshot ID: `MCwyY2FjZTljNzdjYjM3ZjI5ZWZlZDA5ZTNhMGRkNzBhZjZhZTY3MTc2`
+Snapshot ID: `MCwyMmY4MDA1ZDM4YjdkNzRmM2M3M2QyNThmYWM1MjA0M2IxYWJmOTdh`

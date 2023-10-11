@@ -1,12 +1,12 @@
 {
   "description": "All your favourite mood boosting bangers...",
-  "num_followers": 591624,
+  "num_followers": 591859,
   "original_name": "Happy Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MDg5M2ZjZDc1NTg1MjdlOGFlYzkzNWM3NTlkZWMwYTg1NmU0MGQx",
+  "snapshot_id": "MCxmZjAyMTZhZjg5MTlmYjY4ZDlmYTY0ODg4ZWM3YmI1NzgxYWIwNjFh",
   "tracks": [
     {
       "added_at": "2023-10-03 14:04:51",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-10-03 14:04:51",
       "album": {
+        "name": "Gold Rush Kid",
+        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 167613,
+      "name": "Green Green Grass",
+      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
+    },
+    {
+      "added_at": "2023-10-03 14:04:51",
+      "album": {
         "name": "Relax My Eyes",
         "url": "https://open.spotify.com/album/2vIDF8BeMN3BcF0yOSMgmN"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 192150,
       "name": "Relax My Eyes",
       "url": "https://open.spotify.com/track/5u4hhtZ7f4rWkMZEZcTKrH"
-    },
-    {
-      "added_at": "2023-10-03 14:04:51",
-      "album": {
-        "name": "Gold Rush Kid",
-        "url": "https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 167613,
-      "name": "Green Green Grass",
-      "url": "https://open.spotify.com/track/4N5s8lPTsjI9EGP7K4SXzB"
     },
     {
       "added_at": "2023-10-03 14:04:51",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-10-03 14:04:51",
       "album": {
-        "name": "Rush",
-        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 185093,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
-    },
-    {
-      "added_at": "2023-10-03 14:04:51",
-      "album": {
         "name": "Can't Tame Her",
         "url": "https://open.spotify.com/album/7ytOBcbbFsYDHojnMP5Gs7"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 196939,
       "name": "Can't Tame Her",
       "url": "https://open.spotify.com/track/4vOoQh9MhS9pyrbvc8LyMz"
+    },
+    {
+      "added_at": "2023-10-03 14:04:51",
+      "album": {
+        "name": "Rush",
+        "url": "https://open.spotify.com/album/6CvEsGBD3JdbDKpmJaXn2E"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 185093,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/1rrqJ9QkOBYJlsZgqqwxgB"
     },
     {
       "added_at": "2023-10-03 14:04:51",
@@ -803,26 +803,6 @@
     {
       "added_at": "2023-10-03 14:04:51",
       "album": {
-        "name": "Work With My Love",
-        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 150483,
-      "name": "Work With My Love",
-      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
-    },
-    {
-      "added_at": "2023-10-03 14:04:51",
-      "album": {
         "name": "Bittersweet Goodbye",
         "url": "https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh"
       },
@@ -839,18 +819,22 @@
     {
       "added_at": "2023-10-03 14:04:51",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+        "name": "Work With My Love",
+        "url": "https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 179757,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
+      "duration_ms": 150483,
+      "name": "Work With My Love",
+      "url": "https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw"
     },
     {
       "added_at": "2023-10-03 14:04:51",
@@ -875,6 +859,22 @@
       "duration_ms": 149545,
       "name": "Drinkin'",
       "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
+    },
+    {
+      "added_at": "2023-10-03 14:04:51",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "added_at": "2023-10-03 14:04:51",

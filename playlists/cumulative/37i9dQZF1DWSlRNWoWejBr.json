@@ -657,6 +657,28 @@
     },
     {
       "album": {
+        "name": "Eu Vou te Empurrar 300 Por Hora",
+        "url": "https://open.spotify.com/album/1QBYiriaRtRCKDTsU21lU2"
+      },
+      "artists": [
+        {
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+        },
+        {
+          "name": "JK NO BEAT",
+          "url": "https://open.spotify.com/artist/58oIAGQ8MEuIWIuQh2E3yg"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Eu Vou te Empurrar 300 Por Hora",
+      "url": "https://open.spotify.com/track/1HEjwd9SwKqj1Kbeb0fz6a"
+    },
+    {
+      "album": {
         "name": "Famoso Machuca Xota",
         "url": "https://open.spotify.com/album/63xpMm2iLQj9qhqUYipHf0"
       },
@@ -1072,8 +1094,8 @@
           "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
         },
         {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+          "name": "Mc Karol",
+          "url": "https://open.spotify.com/artist/3PcaoyXip46S7I2LyU8sxW"
         }
       ],
       "date_added": "2023-10-06",
@@ -1108,10 +1130,28 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 145080,
       "name": "Montagem Coral",
       "url": "https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix"
+    },
+    {
+      "album": {
+        "name": "Montagem Coral",
+        "url": "https://open.spotify.com/album/6m8N6j8GfGmW3cqgP5uiHq"
+      },
+      "artists": [
+        {
+          "name": "vicX",
+          "url": "https://open.spotify.com/artist/4qiIMJtorRG5GfdyRsLBtC"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145124,
+      "name": "Montagem Coral",
+      "url": "https://open.spotify.com/track/3F02rCPD3IvrnZ7GPSjR5t"
     },
     {
       "album": {
@@ -1850,28 +1890,6 @@
       "duration_ms": 105461,
       "name": "Tchau",
       "url": "https://open.spotify.com/track/043UqjcBUxcuoKfaxujfLA"
-    },
-    {
-      "album": {
-        "name": "Te Empurrar Socadao Socadinha",
-        "url": "https://open.spotify.com/album/1QBYiriaRtRCKDTsU21lU2"
-      },
-      "artists": [
-        {
-          "name": "MC Menor MT",
-          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
-        },
-        {
-          "name": "JK NO BEAT",
-          "url": "https://open.spotify.com/artist/58oIAGQ8MEuIWIuQh2E3yg"
-        }
-      ],
-      "date_added": "2023-10-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214153,
-      "name": "Te Empurrar Socadao Socadinha",
-      "url": "https://open.spotify.com/track/1HEjwd9SwKqj1Kbeb0fz6a"
     },
     {
       "album": {

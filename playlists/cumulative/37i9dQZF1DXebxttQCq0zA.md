@@ -4,7 +4,7 @@
 
 > Soothing drones, ambient piano and new age music.
 
-352 songs - 18 hr 3 min
+353 songs - 18 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,6 +96,7 @@
 | [Drommenes Verden](https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7) | [Casper Bjerke](https://open.spotify.com/artist/2txNKTOHpcXh0tC1wZ2FD4) | [Drommenes Verden](https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j) | 3:19 | 2022-10-15 |  |
 | [Dès vu](https://open.spotify.com/track/5n3P1XLlsYNdm14Mugb0ED) | [Lior Freudenthal](https://open.spotify.com/artist/2LQloGA6q2wNTNovie8OpO) | [Dès vu](https://open.spotify.com/album/3bdqf1w2uj49fxFv3ZqopB) | 3:06 | 2022-05-25 |  |
 | [Early Morning Song](https://open.spotify.com/track/1yAV3jaWFJcy98R3fdzeHf) | [Moments of Clarity](https://open.spotify.com/artist/752MndEnUavC68pPM6NtxB) | [Early Morning Song](https://open.spotify.com/album/3vKF61GauYt2Q1Na4kUvv8) | 3:10 | 2022-05-25 | 2022-09-28 |
+| [eau du mist](https://open.spotify.com/track/1hJbakwBwRHO0RkuWMZTrL) | [Mellow Line](https://open.spotify.com/artist/04VbUIBiU4FPdTGp83ATXB) | [eau du mist](https://open.spotify.com/album/7G8jEerdN6GEqP81tAj4A3) | 3:00 | 2023-10-06 |  |
 | [Echoes](https://open.spotify.com/track/4TGVSsk5tV5rPA2eZ5QW2s) | [Leya Watson](https://open.spotify.com/artist/39UfixE7ExBBDvdxM832Wn) | [Leave It All Behind](https://open.spotify.com/album/4Z4cjLPjCrgIKC0NgYyMdt) | 3:29 | 2023-04-21 |  |
 | [Ecos de Meditación](https://open.spotify.com/track/3SUcijcSGfwULQCHh0yEZK) | [Esmeraldas](https://open.spotify.com/artist/1mIhqTBJzWF8W2iWSuuO8f) | [Renacer en Calma](https://open.spotify.com/album/7rhUJ9JlU3L2j4TZdyFoLW) | 2:40 | 2023-06-09 |  |
 | [Elm Lake](https://open.spotify.com/track/2OTbdztO2bxflTGGlxyEri) | [Elm Lake](https://open.spotify.com/artist/5PWrgM1uXWZwpK2rIQtX36) | [Elm Lake](https://open.spotify.com/album/0SOGd49PlU8IvNWwsB2gTA) | 2:57 | 2022-05-25 | 2022-09-28 |

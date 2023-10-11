@@ -1,12 +1,12 @@
 {
   "description": "It's the witching hours. ",
-  "num_followers": 120482,
+  "num_followers": 121542,
   "original_name": "Protect Your Energy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTkzYjU2MGIzYTFlNDkzNTg3MzY0MjJmMDgyNWE1MzY5MWFkOWFk",
+  "snapshot_id": "MCxkMmE3MTNkM2MyZGNjOTI0NjlhOGRmNGUzYjAzNjE0ZDA5YWUzMGRl",
   "tracks": [
     {
       "added_at": "2023-07-11 23:25:54",
@@ -283,6 +283,22 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
+        "name": "Good Looking",
+        "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
+      },
+      "artists": [
+        {
+          "name": "Suki Waterhouse",
+          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Good Looking",
+      "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
         "name": "Mrs Magic",
         "url": "https://open.spotify.com/album/3Oovjf1PZOryLQSDKwjJzO"
       },
@@ -297,20 +313,20 @@
       "url": "https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw"
     },
     {
-      "added_at": "2023-07-11 23:25:54",
+      "added_at": "2023-10-10 17:49:12",
       "album": {
-        "name": "Good Looking",
-        "url": "https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz"
+        "name": "Rituals On The Bank Of A Familiar River",
+        "url": "https://open.spotify.com/album/0sxjVtCBiHWdZLWyndytPJ"
       },
       "artists": [
         {
-          "name": "Suki Waterhouse",
-          "url": "https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL"
+          "name": "Kiki Rockwell",
+          "url": "https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F"
         }
       ],
-      "duration_ms": 214800,
-      "name": "Good Looking",
-      "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6"
+      "duration_ms": 244584,
+      "name": "Burn Your Village",
+      "url": "https://open.spotify.com/track/16Ggpcwd7ZxTveNBNN4GWT"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -463,22 +479,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Oh, Inverted World (20th Anniversary Remaster)",
-        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
-      },
-      "artists": [
-        {
-          "name": "The Shins",
-          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
-        }
-      ],
-      "duration_ms": 230866,
-      "name": "New Slang - 2021 Remaster",
-      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
       },
@@ -495,18 +495,18 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
-        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+        "name": "Oh, Inverted World (20th Anniversary Remaster)",
+        "url": "https://open.spotify.com/album/5XmhHMj5LZLWo32aA6ntKE"
       },
       "artists": [
         {
-          "name": "AURORA",
-          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+          "name": "The Shins",
+          "url": "https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO"
         }
       ],
-      "duration_ms": 248826,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
+      "duration_ms": 230866,
+      "name": "New Slang - 2021 Remaster",
+      "url": "https://open.spotify.com/track/0NslHuacjxQYfUTOW3HCIV"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -523,6 +523,22 @@
       "duration_ms": 286293,
       "name": "Nothing's Gonna Hurt You Baby",
       "url": "https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "All My Demons Greeting Me as a Friend (Deluxe)",
+        "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        }
+      ],
+      "duration_ms": 248826,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -559,22 +575,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 264906,
-      "name": "Gypsy",
-      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Ctrl",
         "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 231400,
       "name": "Drew Barrymore",
       "url": "https://open.spotify.com/track/06u5LrUpbosQlQ1QJFhPpG"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 264906,
+      "name": "Gypsy",
+      "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -947,22 +963,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Heard It In A Past Life",
-        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fallingwater",
-      "url": "https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
       },
@@ -975,6 +975,22 @@
       "duration_ms": 164933,
       "name": "Spooky (Single Version)",
       "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Heard It In A Past Life",
+        "url": "https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fallingwater",
+      "url": "https://open.spotify.com/track/2CPLGREl5ahzA2WPBMkpxh"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2023-07-11 23:25:54",
       "album": {
-        "name": "Wolfcat",
-        "url": "https://open.spotify.com/album/5mlgzPatuoMGqqHsPIofKr"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 174221,
-      "name": "Wolfcat",
-      "url": "https://open.spotify.com/track/1Hu2OypX8tMPwBcCUaAeO4"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
         "name": "Savage Daughter",
         "url": "https://open.spotify.com/album/0Ts5Jzl0y8Nc13RVuEJFxi"
       },
@@ -1155,6 +1155,22 @@
       "duration_ms": 178168,
       "name": "Savage Daughter",
       "url": "https://open.spotify.com/track/0dVnj3XPVTHfCvxpbIDOcx"
+    },
+    {
+      "added_at": "2023-07-11 23:25:54",
+      "album": {
+        "name": "Wolfcat",
+        "url": "https://open.spotify.com/album/5mlgzPatuoMGqqHsPIofKr"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 174221,
+      "name": "Wolfcat",
+      "url": "https://open.spotify.com/track/1Hu2OypX8tMPwBcCUaAeO4"
     },
     {
       "added_at": "2023-07-11 23:25:54",
@@ -1283,22 +1299,6 @@
       "duration_ms": 132915,
       "name": "peppermint",
       "url": "https://open.spotify.com/track/7EBungIZdfO2SgFxqFtGfE"
-    },
-    {
-      "added_at": "2023-07-11 23:25:54",
-      "album": {
-        "name": "Chlo\u00eb and the Next 20th Century",
-        "url": "https://open.spotify.com/album/2tfg6zi5pwuYeQ0IHYnOBz"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 300240,
-      "name": "Goodbye Mr. Blue",
-      "url": "https://open.spotify.com/track/7ydJaSdC8Au68eYgspNznY"
     }
   ],
   "unique_name": "Protect Your Energy",

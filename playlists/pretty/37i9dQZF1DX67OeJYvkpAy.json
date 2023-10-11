@@ -1,12 +1,12 @@
 {
   "description": "the best of the deep end. cover: Prinz",
-  "num_followers": 88881,
+  "num_followers": 88915,
   "original_name": "lofi rap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzQ1NjA2YTkxMWU5M2I1YWQ3NjEyY2VmYzdjNzljZGZiN2JiZjY1",
+  "snapshot_id": "MCxmMDU3MzM0NjVmMmExZjhlM2VkOWJiMDNkN2UzODU3OWEzMDM4NTcy",
   "tracks": [
     {
       "added_at": "2023-08-01 17:14:44",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
+        "name": "One Mic Freestyle (S3-EP1)",
+        "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
+      },
+      "artists": [
+        {
+          "name": "K1",
+          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
+        }
+      ],
+      "duration_ms": 121624,
+      "name": "One Mic Freestyle (S3-EP1)",
+      "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
         "name": "Never Been Ordinary",
         "url": "https://open.spotify.com/album/64qtcm4JdwhwtLDJjfSrmF"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 153089,
       "name": "My Girl (Gemini)",
       "url": "https://open.spotify.com/track/7EhL87rPmietx4XPlTnWVb"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
-        "name": "One Mic Freestyle (S3-EP1)",
-        "url": "https://open.spotify.com/album/2mCtZg2UhnNeHFi4MIQibe"
-      },
-      "artists": [
-        {
-          "name": "K1",
-          "url": "https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4"
-        }
-      ],
-      "duration_ms": 121624,
-      "name": "One Mic Freestyle (S3-EP1)",
-      "url": "https://open.spotify.com/track/7jE4hIFXIvcVKMRT9mqAIP"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Scorpio Trait",
-        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
-      },
-      "artists": [
-        {
-          "name": "Fabz",
-          "url": "https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW"
-        }
-      ],
-      "duration_ms": 249600,
-      "name": "Scorpio Trait",
-      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Voices",
         "url": "https://open.spotify.com/album/21I5Lnj2L2hXDvHGr1AiMR"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 135000,
       "name": "Voices",
       "url": "https://open.spotify.com/track/6HfHA59NuCFzWWLOZ8WHzv"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Scorpio Trait",
+        "url": "https://open.spotify.com/album/6p8BPSJzlmggZCMWCPovq7"
+      },
+      "artists": [
+        {
+          "name": "Fabz",
+          "url": "https://open.spotify.com/artist/7LXCcM3l2atOFVrLyhQMOW"
+        }
+      ],
+      "duration_ms": 249600,
+      "name": "Scorpio Trait",
+      "url": "https://open.spotify.com/track/1s0afz1Dafp3gn8odpXL9t"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Home For Winter",
-        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
-      },
-      "artists": [
-        {
-          "name": "Teks Sinatra",
-          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
-        }
-      ],
-      "duration_ms": 199799,
-      "name": "Role Model",
-      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "Losing Interest",
         "url": "https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq"
       },
@@ -1319,22 +1303,38 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Is it too much? (Pray things change)",
-        "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
+        "name": "Home For Winter",
+        "url": "https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR"
       },
       "artists": [
         {
-          "name": "G!ft",
-          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
-        },
-        {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4"
+          "name": "Teks Sinatra",
+          "url": "https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57"
         }
       ],
-      "duration_ms": 171678,
-      "name": "Is it too much? (Pray things change)",
-      "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
+      "duration_ms": 199799,
+      "name": "Role Model",
+      "url": "https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Berlin Luv",
+        "url": "https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU"
+      },
+      "artists": [
+        {
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+        },
+        {
+          "name": "AD North",
+          "url": "https://open.spotify.com/artist/3qUtesOtI25wpAoWcS57gs"
+        }
+      ],
+      "duration_ms": 140146,
+      "name": "Berlin Luv",
+      "url": "https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1371,22 +1371,22 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Berlin Luv",
-        "url": "https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU"
+        "name": "Is it too much? (Pray things change)",
+        "url": "https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX"
       },
       "artists": [
         {
-          "name": "Alex1",
-          "url": "https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3"
+          "name": "G!ft",
+          "url": "https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm"
         },
         {
-          "name": "AD North",
-          "url": "https://open.spotify.com/artist/3qUtesOtI25wpAoWcS57gs"
+          "name": "Alex1",
+          "url": "https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4"
         }
       ],
-      "duration_ms": 140146,
-      "name": "Berlin Luv",
-      "url": "https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s"
+      "duration_ms": 171678,
+      "name": "Is it too much? (Pray things change)",
+      "url": "https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o"
     },
     {
       "added_at": "2023-08-01 17:14:44",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-08-01 17:14:44",
       "album": {
-        "name": "Told Me",
-        "url": "https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz"
-      },
-      "artists": [
-        {
-          "name": "Wdz",
-          "url": "https://open.spotify.com/artist/58QPxaitgr8bLIJm4m4zFY"
-        }
-      ],
-      "duration_ms": 142027,
-      "name": "Told Me",
-      "url": "https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps"
-    },
-    {
-      "added_at": "2023-08-01 17:14:44",
-      "album": {
         "name": "9AM",
         "url": "https://open.spotify.com/album/1ucTQSkMf86AVwVfkpZZK8"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 172199,
       "name": "9AM",
       "url": "https://open.spotify.com/track/3DogHIsWZ7blJBVgBtjbGf"
+    },
+    {
+      "added_at": "2023-08-01 17:14:44",
+      "album": {
+        "name": "Told Me",
+        "url": "https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz"
+      },
+      "artists": [
+        {
+          "name": "Wdz",
+          "url": "https://open.spotify.com/artist/58QPxaitgr8bLIJm4m4zFY"
+        }
+      ],
+      "duration_ms": 142027,
+      "name": "Told Me",
+      "url": "https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps"
     },
     {
       "added_at": "2023-08-01 17:14:44",

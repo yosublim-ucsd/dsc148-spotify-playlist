@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Pettinellis
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,448 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,339 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 49 | [Dignidad](https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J) | [La Mórbida](https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K) | [Dignidad](https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt) | 4:08 |
 | 50 | [Dual](https://open.spotify.com/track/0RFhbOwk4IWANsiZGeedTr) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [El Niño Que Vivía Entre Sombras](https://open.spotify.com/album/7miX6KkbYuLJIv2wzkT5mH) | 4:24 |
 
-Snapshot ID: `MCxiMjEzM2IxNmY4Yjg0OGJkNTM1YzA4MWU2MzljYmU3Y2VlYzZhYjEy`
+Snapshot ID: `MCwyMjFlODAzMzYyYjQ3OWI5ZjlhZWRjNmZkMjQzYzhiY2YxZTJjNzE0`

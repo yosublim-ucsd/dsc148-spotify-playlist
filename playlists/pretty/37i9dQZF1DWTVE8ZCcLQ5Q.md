@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 
 > Descubra Abbot e novos talentos brasileiros no horizonte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,790 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,687 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTVE8ZCcLQ5Q.md) - [plain]
 | 74 | [Se Fecha](https://open.spotify.com/track/5iinZw7x6qOVf48tgBGpI5) | [Hate Rct](https://open.spotify.com/artist/0g36YnLj0KIFfgJhTeM9d7), [Noze](https://open.spotify.com/artist/0D7VE7FoqaknItgitI6Ojc), [OG L](https://open.spotify.com/artist/6usXKXCK5gkyeZ18o3Fmg6) | [Se Fecha](https://open.spotify.com/album/0mt6v6UL8sTN16kwK4sWHB) | 2:17 |
 | 75 | [Vivara](https://open.spotify.com/track/6v8l1VlZloOoR83tK8OWKK) | [Mc Jean](https://open.spotify.com/artist/7iT64TaHLjA4wDm53frq3B), [Campanha MC](https://open.spotify.com/artist/73afrwTwaERzC4iChaDgaY), [MC Murilo MT](https://open.spotify.com/artist/0KelBuBLAY4mPbrEdNtzlP) | [Vivara](https://open.spotify.com/album/3BIAmUy9t19xvRg9dQGXDk) | 4:16 |
 
-Snapshot ID: `MCxhM2EwNDFiNTRmNWRkZTU2OGFmM2Q0ODAyMWI3YjRiYTFmOWQ1YWYz`
+Snapshot ID: `MCw3NTUzNDgwOTVlYjA4ZDRhODA5ZDg5MTQ3NDAwNTY0NGI2YjRiMDRl`

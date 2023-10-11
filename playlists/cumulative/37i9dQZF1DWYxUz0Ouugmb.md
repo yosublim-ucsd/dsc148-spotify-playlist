@@ -4,7 +4,7 @@
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Anggi Marito
 
-170 songs - 10 hr 51 min
+171 songs - 10 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,8 @@
 | [Aku Kamu Yang Lain](https://open.spotify.com/track/2v3asiNSERjr0e9N37O62z) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Aku Kamu Yang Lain](https://open.spotify.com/album/7tWVynEyRLO8eGVrkXl64l) | 3:35 | 2022-03-24 | 2022-07-29 |
 | [Aku Kamu Yang Lain](https://open.spotify.com/track/2yhAtx8uyIKRnxLX3ftu8I) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Aku Kamu Yang Lain](https://open.spotify.com/album/2WbvbkUUDWh8yFKxzXNux1) | 3:35 | 2022-07-28 | 2023-04-14 |
 | [All I Want](https://open.spotify.com/track/55RcUZy6dOwmuuc58X8iUQ) | [The Panturas](https://open.spotify.com/artist/1eblwVFP5H4whVZrYmXQLl) | [Ombak Banyu Asmara](https://open.spotify.com/album/5sETnYAu5J0G3dMIfGRGBW) | 2:41 | 2021-11-25 | 2022-03-25 |
-| [Amin Kita Beda](https://open.spotify.com/track/4p1KGLLCWRPd83EMds7APR) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/6U2e0q8eld9ufm7hQ9z6FL) | 4:08 | 2023-04-13 |  |
+| [Amin Kita Beda](https://open.spotify.com/track/6cHeFykKTpMpWfGG1T6SbG) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/1H1E64YHp6JOoKxKjwmQqm) | 4:07 | 2023-10-08 |  |
+| [Amin Kita Beda](https://open.spotify.com/track/4p1KGLLCWRPd83EMds7APR) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/6U2e0q8eld9ufm7hQ9z6FL) | 4:08 | 2023-04-13 | 2023-10-11 |
 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 | 2021-11-25 | 2022-03-25 |
 | [anything 4 u](https://open.spotify.com/track/20p998Iw1tqEeHHvnxZ1wx) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [anything 4 u](https://open.spotify.com/album/64K42F7vbZEIxKUZjz0bq5) | 3:23 | 2022-08-04 | 2023-04-14 |
 | [Apa Mungkin](https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl) | [Bernadya](https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC) | [Apa Mungkin](https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31) | 3:58 | 2023-04-13 |  |
@@ -91,7 +92,7 @@
 | [LDR \- Live](https://open.spotify.com/track/6wsHEkpLbtPJtCrx33qK9G) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [LDR \(Live\)](https://open.spotify.com/album/7lvBy6sKkWTXb22LBghHnG) | 5:03 | 2023-08-03 |  |
 | [Leave](https://open.spotify.com/track/0EoKAD9I7OOOohRmmVvtIT) | [Jinan Laetitia](https://open.spotify.com/artist/0BCK8dKHWITYcDo06Fuxth) | [One](https://open.spotify.com/album/13P9zBl1EtCVYBrMbiPqXJ) | 3:07 | 2022-09-01 | 2023-04-14 |
 | [Lebih Dari Egoku](https://open.spotify.com/track/4vh193RZbEEBanSG0719Wh) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Lebih Dari Egoku](https://open.spotify.com/album/3Q11b83KaQfF6KjjKMiRYu) | 4:09 | 2021-11-25 | 2022-03-25 |
-| [Lone Wolf](https://open.spotify.com/track/3X2ISSBvNgWoszBED6HctH) | [RINNI](https://open.spotify.com/artist/586wqf9BkWqW2kA01xxPsg), [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [Lone Wolf](https://open.spotify.com/album/1ceC2Z4tJ4vHjhjYbfRPyV) | 3:04 | 2023-10-06 |  |
+| [Lone Wolf](https://open.spotify.com/track/3X2ISSBvNgWoszBED6HctH) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh), [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [Lone Wolf](https://open.spotify.com/album/1ceC2Z4tJ4vHjhjYbfRPyV) | 3:04 | 2023-10-06 |  |
 | [Losing Us.](https://open.spotify.com/track/1O2pZvuJQrSY9gBLIbZCYG) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/16xmYlPdc3CAWwKDihpOzC) | 3:56 | 2022-03-24 | 2022-07-29 |
 | [Losing Us.](https://open.spotify.com/track/6embPWj9qvusLg9JpbAmCQ) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Losing Us.](https://open.spotify.com/album/5rcVsRWjcqRgK91jsNCVWo) | 3:56 | 2022-07-28 | 2023-04-14 |
 | [Make Me Proud \- Acoustic](https://open.spotify.com/track/6Hf6eneXT5MOXoH8zAuZWy) | [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Acoustic For Dummies](https://open.spotify.com/album/1NUGRzeyEWKvw08uYjdp3q) | 2:50 | 2022-02-17 | 2022-03-25 |

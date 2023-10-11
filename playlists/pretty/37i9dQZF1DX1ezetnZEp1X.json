@@ -1,12 +1,12 @@
 {
   "description": "Sinta o clima e fa\u00e7a uma viagem ao passado.",
-  "num_followers": 70297,
+  "num_followers": 70329,
   "original_name": "Ver\u00e3o Cl\u00e1ssico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYmEyMzFmMDBhYzUwNDRhMTlhYjhlMzliOGYzZTQzNWU0M2QyZTky",
+  "snapshot_id": "MCwzMTI3ZTQwNmYxYWQ1ZjU0MTBhM2JlMDQ2ZjBjNWI1ODA2OWY2NGJl",
   "tracks": [
     {
       "added_at": "2020-11-30 23:28:56",
@@ -239,22 +239,6 @@
     {
       "added_at": "2020-11-30 23:28:56",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "Superstition - Single Version",
-      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
-    },
-    {
-      "added_at": "2020-11-30 23:28:56",
-      "album": {
         "name": "Looking Glass",
         "url": "https://open.spotify.com/album/5ThwnbpYrk9R1xXkAGCLIs"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 186826,
       "name": "Brandy (You're a Fine Girl)",
       "url": "https://open.spotify.com/track/2BY7ALEWdloFHgQZG6VMLA"
+    },
+    {
+      "added_at": "2020-11-30 23:28:56",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/4E1itnJOhTMRSATNaxh0Sq"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "Superstition - Single Version",
+      "url": "https://open.spotify.com/track/1h2xVEoJORqrg71HocgqXd"
     },
     {
       "added_at": "2020-11-30 23:28:56",
@@ -287,22 +287,6 @@
     {
       "added_at": "2020-11-30 23:28:56",
       "album": {
-        "name": "In The Groove",
-        "url": "https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 194293,
-      "name": "I Heard It Through The Grapevine",
-      "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"
-    },
-    {
-      "added_at": "2020-11-30 23:28:56",
-      "album": {
         "name": "From the Foundations (Expanded Edition)",
         "url": "https://open.spotify.com/album/0tvm3lygYS8TWU0x8nBKmc"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 177519,
       "name": "Build Me Up Buttercup",
       "url": "https://open.spotify.com/track/4eGlvsFXmFqdJrVXe9FbgD"
+    },
+    {
+      "added_at": "2020-11-30 23:28:56",
+      "album": {
+        "name": "In The Groove",
+        "url": "https://open.spotify.com/album/36VMWZPLjg9rucvMxdA2Pz"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 194293,
+      "name": "I Heard It Through The Grapevine",
+      "url": "https://open.spotify.com/track/1tqT6DhmsrtQgyCKUwotiw"
     },
     {
       "added_at": "2020-11-30 23:28:56",

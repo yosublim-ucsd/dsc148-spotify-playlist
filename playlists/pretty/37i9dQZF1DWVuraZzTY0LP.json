@@ -1,12 +1,12 @@
 {
   "description": "Lo m\u00e1s alternativo para una mam\u00e1 muy mo-der-na.",
-  "num_followers": 329683,
+  "num_followers": 329725,
   "original_name": "mam\u00e1 cool",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0M2RiMGE2OTAzOWRjYTU4ZWQ1ZTVmYTllZjc4YWRlOGY1ZWRjNTk4",
+  "snapshot_id": "MCwzMGFjNjBlMzk5NzRiZmIzZWNjZWQ3ZGUzZWM1ZDI5OTBiZmZiMGFi",
   "tracks": [
     {
       "added_at": "2023-09-29 08:52:09",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-09-29 08:52:09",
       "album": {
-        "name": "Bug Like an Angel",
-        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "Bug Like an Angel",
-      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
-    },
-    {
-      "added_at": "2023-09-29 08:52:09",
-      "album": {
         "name": "New Gold (feat. Tame Impala and Bootie Brown)",
         "url": "https://open.spotify.com/album/4V9YFKLqZ5h8nQFTvDQscC"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 215149,
       "name": "New Gold (feat. Tame Impala and Bootie Brown)",
       "url": "https://open.spotify.com/track/64dLd6rVqDLtkXFYrEUHIU"
+    },
+    {
+      "added_at": "2023-09-29 08:52:09",
+      "album": {
+        "name": "Bug Like an Angel",
+        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Bug Like an Angel",
+      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
     },
     {
       "added_at": "2023-09-29 08:52:09",
@@ -799,6 +799,26 @@
     {
       "added_at": "2023-09-29 08:52:09",
       "album": {
+        "name": "Cracker Island (feat. Thundercat)",
+        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Thundercat",
+          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
+        }
+      ],
+      "duration_ms": 213750,
+      "name": "Cracker Island (feat. Thundercat)",
+      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
+    },
+    {
+      "added_at": "2023-09-29 08:52:09",
+      "album": {
         "name": "United",
         "url": "https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 148690,
       "name": "Worms",
       "url": "https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq"
-    },
-    {
-      "added_at": "2023-09-29 08:52:09",
-      "album": {
-        "name": "Cracker Island (feat. Thundercat)",
-        "url": "https://open.spotify.com/album/3488fiYQcGSfkKKpr3ttCD"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Thundercat",
-          "url": "https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw"
-        }
-      ],
-      "duration_ms": 213750,
-      "name": "Cracker Island (feat. Thundercat)",
-      "url": "https://open.spotify.com/track/2W3ZpQg9i6lE6kmHbcdu9N"
     },
     {
       "added_at": "2023-09-29 08:52:09",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-09-29 08:52:09",
       "album": {
-        "name": "After Midnight (feat. Clairo)",
-        "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
-      },
-      "artists": [
-        {
-          "name": "Phoenix",
-          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
-        },
-        {
-          "name": "Clairo",
-          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "After Midnight (feat. Clairo)",
-      "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
-    },
-    {
-      "added_at": "2023-09-29 08:52:09",
-      "album": {
         "name": "People In Motion",
         "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 329666,
       "name": "Lady Blue",
       "url": "https://open.spotify.com/track/492aSGsuE0dOOBKB66781Z"
+    },
+    {
+      "added_at": "2023-09-29 08:52:09",
+      "album": {
+        "name": "After Midnight (feat. Clairo)",
+        "url": "https://open.spotify.com/album/6xsvkBbeMsrk6HPDBsJEwS"
+      },
+      "artists": [
+        {
+          "name": "Phoenix",
+          "url": "https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU"
+        },
+        {
+          "name": "Clairo",
+          "url": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "After Midnight (feat. Clairo)",
+      "url": "https://open.spotify.com/track/0KIpuVYhKUUUpjo6H5NvBY"
     },
     {
       "added_at": "2023-09-29 08:52:09",
@@ -1191,18 +1191,18 @@
     {
       "added_at": "2023-09-29 08:52:09",
       "album": {
-        "name": "Sandhills",
-        "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
+        "name": "Paranoia Pop",
+        "url": "https://open.spotify.com/album/7oKpkZ7JZqjK4GP5cyKCyV"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 205546,
-      "name": "Sidelines",
-      "url": "https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW"
+      "duration_ms": 219386,
+      "name": "Sin Se\u00f1al",
+      "url": "https://open.spotify.com/track/4CA5GAc6d6zM2ft0MbQ1BW"
     }
   ],
   "unique_name": "mam\u00e1 cool",

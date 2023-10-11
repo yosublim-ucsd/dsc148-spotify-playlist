@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:5n9VtqOD2WpsEHeCdTCLKt\">Zawadzki</a>",
+  "description": "B\u0105d\u017a sob\u0105 \u2728 Pos\u0142uchaj g\u0142osu polskich artyst\u00f3w LGBTQIA+. Cover: <a href=\"spotify:artist:4GUR4UKtbNQiAV2h5qV2df\">Kamil Kempi\u0144ski</a>",
   "name": "GLOW Polska",
   "tracks": [
     {
@@ -38,6 +38,28 @@
       "duration_ms": 140000,
       "name": "49 Groszy",
       "url": "https://open.spotify.com/track/7E9o5ZkutleRx9BS6GWK9Q"
+    },
+    {
+      "album": {
+        "name": "4900 Groszy",
+        "url": "https://open.spotify.com/album/4YLvr3nm2e4Dt8L04dwu2a"
+      },
+      "artists": [
+        {
+          "name": "Aljas",
+          "url": "https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a"
+        },
+        {
+          "name": "M\u0142ody B",
+          "url": "https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129500,
+      "name": "49 Groszy - Remix",
+      "url": "https://open.spotify.com/track/4dve4Ig2kTxUCxSIcaoNcd"
     },
     {
       "album": {
@@ -88,7 +110,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 141340,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX"
@@ -182,7 +204,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-18",
+      "date_removed": null,
       "duration_ms": 182219,
       "name": "Bezpowrotnie",
       "url": "https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc"
@@ -254,7 +276,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-17",
+      "date_removed": null,
       "duration_ms": 239354,
       "name": "Bum Bum",
       "url": "https://open.spotify.com/track/5t5BoByzGMZE0gXqXPgxK9"
@@ -388,7 +410,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 243979,
       "name": "Cie\u0144",
       "url": "https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ"
@@ -446,7 +468,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 260000,
       "name": "Cztery Dwa Zero",
       "url": "https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg"
@@ -656,7 +678,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 261818,
       "name": "Don't Collapse",
       "url": "https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP"
@@ -734,7 +756,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-14",
+      "date_removed": null,
       "duration_ms": 431721,
       "name": "Duel 35 Chamber Orchestra",
       "url": "https://open.spotify.com/track/3CMYL3nRaIIPN7kInmRZy5"
@@ -756,7 +778,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 220000,
       "name": "Dziewczyna z NASA",
       "url": "https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK"
@@ -814,7 +836,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 224706,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL"
@@ -890,7 +912,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 395000,
       "name": "Girls, Gays, People",
       "url": "https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10"
@@ -1366,7 +1388,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-12",
+      "date_removed": null,
       "duration_ms": 254436,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa"
@@ -1460,7 +1482,7 @@
       ],
       "date_added": "2021-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 305869,
       "name": "Nieludzie (Ignorance Ha)",
       "url": "https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683"
@@ -1688,7 +1710,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 169090,
       "name": "Po Szkole",
       "url": "https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU"
@@ -2062,7 +2084,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-11",
+      "date_removed": null,
       "duration_ms": 267000,
       "name": "Rojava",
       "url": "https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW"
@@ -2318,7 +2340,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 262014,
       "name": "Stamina",
       "url": "https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t"
@@ -2484,7 +2506,7 @@
       ],
       "date_added": "2022-06-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-05",
+      "date_removed": null,
       "duration_ms": 248202,
       "name": "Tak\u0105 Polsk\u0119 lubi\u0119 nawet",
       "url": "https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1"
@@ -2520,7 +2542,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 225920,
       "name": "Tango",
       "url": "https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4"
@@ -2546,7 +2568,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-09",
+      "date_removed": null,
       "duration_ms": 230906,
       "name": "Technikolor",
       "url": "https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt"
@@ -2626,7 +2648,7 @@
       ],
       "date_added": "2023-04-10",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 175200,
       "name": "Ulubione miejsce",
       "url": "https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7"

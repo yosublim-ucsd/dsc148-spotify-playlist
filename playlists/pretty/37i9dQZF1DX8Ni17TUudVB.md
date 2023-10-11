@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,032 likes - 90 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,058 likes - 90 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 76 | [Winter](https://open.spotify.com/track/5DLust6tLTz5uyaTPhbu7r) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Flakkë](https://open.spotify.com/artist/1sxPqLUpMnZDhO9QcMb7X1) | [Winter](https://open.spotify.com/album/6lUdjya8BnAVg2mIF6tOuS) | 2:24 |
 | 77 | [AGEN WIDA](https://open.spotify.com/track/35V6qXUDCvwZdmbKe5PlPG) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [AGEN WIDA](https://open.spotify.com/album/5Oc42yHyXbHNXD87yEwfA7) | 3:19 |
 | 78 | [Moonlight](https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Moonlight](https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7) | 2:53 |
-| 79 | [So What](https://open.spotify.com/track/22Ckl8uaVR71UMChg6NLRQ) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [So What](https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr) | 2:15 |
-| 80 | [Check This Out](https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx) | [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Check This Out](https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz) | 2:31 |
+| 79 | [Check This Out](https://open.spotify.com/track/40mYZdW4XYsfVU4D1L3cXx) | [Toby Green](https://open.spotify.com/artist/7IVgVM49Z4ztdmOqOIxhvP) | [Check This Out](https://open.spotify.com/album/2UJEcNBmxdzbEn9r9CUrdz) | 2:31 |
+| 80 | [So What](https://open.spotify.com/track/22Ckl8uaVR71UMChg6NLRQ) | [Jay Pryor](https://open.spotify.com/artist/1ZUpQr4VSnnP86WbaRRMpd) | [So What](https://open.spotify.com/album/7c5V6ykHcEZRhxlDFdfaTr) | 2:15 |
 | 81 | [Nothing To Do](https://open.spotify.com/track/23xtuubzgbV2UCKepN0h84) | [Bancali](https://open.spotify.com/artist/2WLu3mkdi8l6Jjm6HCVC9h) | [Nothing To Do](https://open.spotify.com/album/5Dfz1XYeRSSdhOOTNrhedG) | 2:33 |
 | 82 | [Unlove You](https://open.spotify.com/track/7CVG8gFuFM2OTkUVOkk4iX) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Balance](https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3) | 2:30 |
 | 83 | [IM GONE](https://open.spotify.com/track/7CEvYqcXhE11M8tBVIpUb0) | [JOYRYDE](https://open.spotify.com/artist/24neLwyYRyj4ItaGnFeIT0) | [BRAVE](https://open.spotify.com/album/5brsR3l3zFhJ4jGXh0wfF7) | 4:45 |
@@ -97,6 +97,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Ni17TUudVB.md) - [plain]
 | 87 | [Emergency](https://open.spotify.com/track/0iQd47VJs14l8EA00PlI71) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Novak](https://open.spotify.com/artist/4RqAxYmN6sJO2Ty0tJ2RMy), [YAX.X](https://open.spotify.com/artist/0dPvgsYtDUI9Wcr0WREIJK) | [Emergency](https://open.spotify.com/album/4xeOgbxFCERSTBCaxuKSqY) | 3:12 |
 | 88 | [Morenito](https://open.spotify.com/track/6etTt33N7wYwtDfuaqgthc) | [Chile](https://open.spotify.com/artist/0BnmjviyW0BAR2kK67AOPQ), [Mystic Natives](https://open.spotify.com/artist/0jltTJpT4TwfWBNDb393BY), [Aynes](https://open.spotify.com/artist/0WByZEwRntV98feeVnccWG) | [Morenito](https://open.spotify.com/album/5DYHkNfYvVuSJxjGSg0ptA) | 3:10 |
 | 89 | [Shock \(feat\. Kabasaki\)](https://open.spotify.com/track/0aHZqxYvut2l9cqJ73VrpK) | [Ceaese](https://open.spotify.com/artist/580taoAhpqvyGCRoJsVdw9), [Aqua VS](https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p), [Fuka](https://open.spotify.com/artist/5TyQ1yXiSsZxrJHrL5kFmZ), [Kabasaki](https://open.spotify.com/artist/4rO00pQq33bIv73QyJdivX) | [Shock \(feat\. Kabasaki\)](https://open.spotify.com/album/3Bz8QogW92aM0p6YkXwqsp) | 2:47 |
-| 90 | [Dished \(Male Stripper\)](https://open.spotify.com/track/4DIspILFDWAlU7bViTMqhS) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Dished \(Male Stripper\)](https://open.spotify.com/album/6RzHkehHgF4kgwFrZJX5D4) | 4:13 |
+| 90 | [Back to the Oldskool](https://open.spotify.com/track/2Kz0LyPpbHDljctj1tzLwP) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Back to the Oldskool](https://open.spotify.com/album/0YHcF5aiUDLAYM2mpF7Pwz) | 2:24 |
 
-Snapshot ID: `MCwyNDJkZjg2Zjg0ZDRmNTgyNmQ3ODNjN2MwMzgwZDc5OTlkOWM0NjEx`
+Snapshot ID: `MCxhODJhNDZkYzJiMzEwYzZiNWEzMTY0NGNhMmJhNzEyNzNiYTFjM2Y1`

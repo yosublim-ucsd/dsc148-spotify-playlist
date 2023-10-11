@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 
 > slowed, reverbed, chopped and screwed.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,059,932 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,061,051 likes - 100 songs - 5 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 72 | [I Don't Trust Nobody \- Slowed and Reverb](https://open.spotify.com/track/5kFWqLVb9idG4f52ZVD99r) | [ZRobb](https://open.spotify.com/artist/1RmSC77TcLJOAryLDXEpbZ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [My Head In The Sky](https://open.spotify.com/album/42LRVvno1lbcasw45M1vZJ) | 1:35 |
 | 73 | [Good Ones \- Perfume Genius Remix](https://open.spotify.com/track/0S986gqvIWWdZzTKZGqKfU) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Good Ones \(Perfume Genius Remix\)](https://open.spotify.com/album/0fF3b80mTfc9IXeSATBX0u) | 3:23 |
 | 74 | [JACKIE BROWN \(CHOPNOTSLOP REMIX\)](https://open.spotify.com/track/2TqPcMoynCqfa7GbPQMIYA) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [DJ Candlestick](https://open.spotify.com/artist/0Ld26D4Ya5Od7ZZpLanfQJ), [OG Ron C](https://open.spotify.com/artist/2LQF8AgyQUgLfquM92Rx8N) | [WASTELAND \- CHOPPED NOT SLOPPED](https://open.spotify.com/album/3DpamulE7VP1pDprRODb28) | 5:07 |
-| 75 | [bad habits \- slowed + reverb](https://open.spotify.com/track/3fhixDZJY3oAlO5ByIyoeM) | [Ayparia](https://open.spotify.com/artist/2p95ymqzTS36FNCRY9uM3r), [Sarvanss](https://open.spotify.com/artist/4Egfyrp2hMmpjgUbABbyof), [Chappo](https://open.spotify.com/artist/3G7pRLSS9s5h09hdaluISz) | [bad habits \(slowed + reverb\)](https://open.spotify.com/album/1E84p5XusaeDnAK0RGzLXl) | 3:07 |
+| 75 | [Bad Habits \(Slowed + Reverb\)](https://open.spotify.com/track/3pYvs3jAA5APaB5cax7eXr) | [Solstice](https://open.spotify.com/artist/0jowzILNRrPmfpajO2iWmz) | [Villains \(Slowed + Reverb\)](https://open.spotify.com/album/6FZKyNYrKmICp07GkFjsAx) | 3:07 |
 | 76 | [Ease Off \- Slowed & Reverbed](https://open.spotify.com/track/7yy3QgAa5unQuY2Ulpznbi) | [YNG Martyr](https://open.spotify.com/artist/357dDcxIE2hkKGn03PClIF) | [Ease Off \(Slowed & Reverbed\)](https://open.spotify.com/album/3NduNanzkjGZgLQE6FUzD9) | 2:41 |
 | 77 | [go \- Lower & Slower](https://open.spotify.com/track/4W1dEYQlTmRXabO9xhLGZi) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Go \(Remixes\)](https://open.spotify.com/album/1kGbwOHke3PrRnZAmlkoOu) | 3:44 |
 | 78 | [Happy Endings \(feat\. iann dior and UPSAHL\) \- slowed + reverb](https://open.spotify.com/track/0YhbiKLcr7Qd0rnpeamGNX) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Happy Endings \(feat\. iann dior and UPSAHL\) \[slowed + reverb / Nightcore Edit\]](https://open.spotify.com/album/3qbn9bA3stgYP5yuqfjMTV) | 3:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0h2LvJ7ZJ15.md) - [plain]
 | 99 | [Possibility \- Slowed Down](https://open.spotify.com/track/03JlIW3RyZdEJBJgfJBWiF) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Possibility](https://open.spotify.com/album/38pk7xhWyZNvTODl9fdSVP) | 6:23 |
 | 100 | [Everything's Good \- slowed + reverb](https://open.spotify.com/track/7AlaXfx2sqPDyv5iTnVJVf) | [Phil Good](https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv) | [Everything's \(Not\) Good](https://open.spotify.com/album/5JcqFw1JKinpCu1IOeEnCz) | 3:47 |
 
-Snapshot ID: `MCw0ZjZiZWEyNTY4ZTQ0ZjRjZmM4YzMzZGYzZWRmZmZmMGI0YzI4ZWU3`
+Snapshot ID: `MCxkMDNkOTc3YjgyZjA1NzQ2YjI4YTVmOTBkYjUwMWRjMDk0YWU1ZTll`

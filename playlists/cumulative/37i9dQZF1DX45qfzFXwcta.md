@@ -4,7 +4,7 @@
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-117 songs - 5 hr 59 min
+120 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Day's Work](https://open.spotify.com/track/0NU5gSlW7uQ4TA7x3Do4YC) | [Handbook](https://open.spotify.com/artist/6OvOdUubb1MOOz2FtGWlHk) | [Neighbourhood](https://open.spotify.com/album/1HviRq9nPOlBT2d4EPB6Cj) | 3:15 | 2022-07-22 |  |
 | [A Little Soul](https://open.spotify.com/track/00t78SKl7PHj3KfQ54fenL) | [Pete Rock](https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2) | [Petestrumentals](https://open.spotify.com/album/3BXHZmPR0u5TBVlxcp4Tjk) | 5:41 | 2022-07-22 |  |
 | [Acid Raindrops \- Instrumental](https://open.spotify.com/track/13VTI8Azbyt0HW8XEMZIKY) | [People Under The Stairs](https://open.spotify.com/artist/0av074qUwLn5eyzwqoq3xh) | [Acid Raindrops](https://open.spotify.com/album/6wRasCHEWubnqxdDlUf7mo) | 4:24 | 2023-03-02 |  |
+| [Aix](https://open.spotify.com/track/34mXkxjLfdL4LseDpQYps0) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Aix](https://open.spotify.com/album/5I7cP45DUe2N8gjKM2X6vB) | 2:19 | 2023-10-10 |  |
 | [Amalfi](https://open.spotify.com/track/2mFXGxuPmNSnz8CEiVWPyO) | [Dylan Sitts](https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93) | [Amalfi](https://open.spotify.com/album/5M2w39JfqEM0yIbsXShpnd) | 2:02 | 2023-09-15 |  |
 | [ATLiens \- Instrumental](https://open.spotify.com/track/5YvXuk6Jei13V71KSFQ0fs) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens \(25th Anniversary Deluxe Edition\)](https://open.spotify.com/album/4PID9ExpAM3SuYCPlBseRv) | 3:41 | 2022-07-22 | 2023-02-01 |
 | [Azisa \- Instrumental](https://open.spotify.com/track/6QGgUrvDvfQVeMlMuVKjQ6) | [Figub Brazlevic](https://open.spotify.com/artist/4Eo1mdoAOk2DbXMDUDnCum) | [Booth Brothers & Sisters Instrumentals 1\-10](https://open.spotify.com/album/0XSP0PtqGs0omZmJ9gIbX3) | 2:24 | 2022-10-14 |  |
@@ -42,6 +43,7 @@
 | [East Ward](https://open.spotify.com/track/4PMUz5gEkv4XphJ5lyDLE9) | [Lex \(de Kalhex\)](https://open.spotify.com/artist/7Dqkr5jq8RjsIUP5hlnwcX) | [East Ward](https://open.spotify.com/album/04XhdiFJeyqFD3804vPDlf) | 3:00 | 2023-08-17 | 2023-09-01 |
 | [Feel Me Flow \- Original Instrumental](https://open.spotify.com/track/5JXds2GdDVL603R6yqGmD9) | [Naughty By Nature](https://open.spotify.com/artist/4Otx4bRLSfpah5kX8hdgDC) | [Feel Me Flow/Hang Out and Hustle](https://open.spotify.com/album/4zPfTvVB9wEfNlPITAsI8d) | 3:35 | 2022-07-22 |  |
 | [Fixed Emotions](https://open.spotify.com/track/7zqjFQqv1FEAv8nlEYLVoR) | [rec.memos](https://open.spotify.com/artist/6n2kivcHpNhuk2kQICjkBZ) | [Fixed Emotions](https://open.spotify.com/album/7LKwn7YZmvlrtABV6oNOHu) | 2:38 | 2022-07-22 | 2023-10-03 |
+| [Fool's Gold \- Instrumental](https://open.spotify.com/track/400dKJ9NMuxsg99O0te1Ix) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Dreamer's Disease \(Instrumentals\)](https://open.spotify.com/album/1eW7YxArELoW5iCXdCjEmC) | 2:47 | 2023-10-10 |  |
 | [For Da Love Of Da Game \- Instrumental](https://open.spotify.com/track/0ZEbf11WdOyaxdR9Ja73XX) | [DJ Jazzy Jeff](https://open.spotify.com/artist/3nmiIgeri4vEY7y0VpbsCn) | [The Magnificent EP /For Da Love Of Da Game](https://open.spotify.com/album/6kNgpWi0IZuOWC7p1IzwbZ) | 5:34 | 2022-07-22 |  |
 | [For the Future](https://open.spotify.com/track/70otjXKq2lzJbynH7W3N76) | [Marco Polo](https://open.spotify.com/artist/3FQVWA8Owd6lje2nMg1qcl) | [Port Authority: Instrumentals](https://open.spotify.com/album/1lcRcpO52ZmsfWhtn6USOx) | 3:37 | 2022-11-25 |  |
 | [foreplay perfume](https://open.spotify.com/track/42M9EKXuqmJsOqrMlLcPKW) | [Knowsum](https://open.spotify.com/artist/5n286gaq2TJok5XfBjSX7q) | [foreplay perfume](https://open.spotify.com/album/3kv8dIMuBLRfVkjkDnYHL9) | 1:55 | 2022-10-28 | 2022-11-24 |
@@ -64,6 +66,7 @@
 | [Jam On It](https://open.spotify.com/track/08OHpvm1MmHuWZnLZrRnxO) | [K\-DEF](https://open.spotify.com/artist/16FH3fjfgWVv3JbLs8zUA7) | [BEATS FROM THE 90's](https://open.spotify.com/album/5gmtiIxZ1cYc40JpMLTMK0) | 3:13 | 2022-07-22 |  |
 | [John Gotti \- Instrumental](https://open.spotify.com/track/1cGkCqQaLjuMSpQeKEUhXh) | [Sean Price](https://open.spotify.com/artist/2x6jz70u3sZq75tW10akUW), [Small Professor](https://open.spotify.com/artist/50wcJriOZeC8PbLSk8X9QP), [AG Da Coroner](https://open.spotify.com/artist/736quRgvvGLe7eBO18oUzx), [Guilty Simpson](https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h), [Your Old Droog](https://open.spotify.com/artist/20dRvQDfCTLJU0pgq13ZYp) | [86 Witness \(Instrumentals\)](https://open.spotify.com/album/5t8JvlQa4ZNZBDaeYua6mf) | 3:18 | 2023-03-02 |  |
 | [K.I.M\. \- Instrumental](https://open.spotify.com/track/4rp7XMYnpNBpLA5wO8BMEl) | [Smif\-N\-Wessun](https://open.spotify.com/artist/2p0Hf0MF8Nw8lwAXokczf0) | [Wrektime b/w K.I.M.](https://open.spotify.com/album/7GXP02tJSrhuAxAGIW4T76) | 2:59 | 2023-05-02 |  |
+| [Leave A Message](https://open.spotify.com/track/5KJqEIAYKfey08rG9KmtgE) | [Jaz93](https://open.spotify.com/artist/1GUv8VOUxgJrbN9hx20xxi), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Tanqueray](https://open.spotify.com/album/4oLwCJS6Mn5QT9WObQVdkB) | 2:51 | 2023-10-10 |  |
 | [Listen to your heart](https://open.spotify.com/track/0BODaqe1PfKlFtV2rjtY9D) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Elsa](https://open.spotify.com/album/2o1BLv6s8yEj7AbTiul87R) | 3:16 | 2022-10-14 | 2023-01-11 |
 | [Listen to your heart](https://open.spotify.com/track/2ov6f8mXppqPHffDiCKZtZ) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Listen to your heart](https://open.spotify.com/album/2rkomgqyv6owGar7tmmW2Y) | 3:16 | 2022-09-02 | 2022-11-20 |
 | [Look How Pretty Today Is](https://open.spotify.com/track/1r06SNlcN9DeAxngjsSUWt) | [Sarah, the Illstrumentalist](https://open.spotify.com/artist/4D8x1OO5HeS7yQaSoSbAc6) | [RIDING AROUND](https://open.spotify.com/album/4uzGpc26ZtByWohlYtm5GK) | 2:08 | 2023-02-24 |  |

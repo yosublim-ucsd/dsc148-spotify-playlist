@@ -4,7 +4,7 @@
 
 > New and approved indie pop\. Cover: hemlocke springs
 
-1,686 songs - 3 day 16 hr 49 min
+1,687 songs - 3 day 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -884,6 +884,7 @@
 | [Less Like](https://open.spotify.com/track/5iEvWfUIV8sWCU5thnoXHt) | [Hollis](https://open.spotify.com/artist/28KOnhhvUnyvgRNXEQ41WL) | [Less Like](https://open.spotify.com/album/6BLQDI9duVfrkQ8tjNeqRn) | 2:53 | 2021-10-13 | 2021-10-14 |
 | [Let Go](https://open.spotify.com/track/6GJA6CB0PWuqfM3b5K8lcc) | [LAUREL](https://open.spotify.com/artist/6y6iXD929Jqq0xc6lgwhl1) | [Let Go](https://open.spotify.com/album/4QvD9VCn7pCi7S9NXpMrnD) | 4:14 | 2021-06-03 | 2021-12-02 |
 | [Let Her Remember](https://open.spotify.com/track/7LbREuDqWJlMqgkBYSz3Co) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Let Her Remember](https://open.spotify.com/album/0uh5hvOaSsrGsTu6kDBJbv) | 3:32 | 2022-03-18 | 2022-04-21 |
+| [Let Me Go](https://open.spotify.com/track/1NqIMpmNukrvX1aAgxujvO) | [Carl :Cries](https://open.spotify.com/artist/6B1HBD8SBFMKAimyjUFesP) | [Let Me Go](https://open.spotify.com/album/3y71vzK8w8vkyJejrz9UfF) | 3:04 | 2023-10-11 |  |
 | [Let Me Know](https://open.spotify.com/track/4V33aS5qju2ujbQt8JKi6P) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Pacifico](https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB) | 2:17 | 2021-06-25 | 2022-04-21 |
 | [Let Me Love You Like A Woman](https://open.spotify.com/track/4HvE2E9rXJDcQhE4YfeNuG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Let Me Love You Like A Woman](https://open.spotify.com/album/6yEZH1HexM9sqOX34qUE4u) | 3:20 | 2020-10-20 | 2021-05-28 |
 | [Let U Go](https://open.spotify.com/track/7FEiuFp1Zo9rxehIquEtL2) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Let U Go](https://open.spotify.com/album/5hDUlkrk1mRlWKslw839TQ) | 2:48 | 2022-06-24 | 2023-07-01 |
@@ -1210,7 +1211,7 @@
 | [Prom](https://open.spotify.com/track/5flMoOfc914PhFtAD8e1gX) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Prom](https://open.spotify.com/album/35R9EjeVUv2oZBiEur310h) | 2:47 | 2021-02-25 | 2021-10-14 |
 | [Prom](https://open.spotify.com/track/0jDly7CyGCcPWGw5LNr7KL) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Prom](https://open.spotify.com/album/0NB5k9Uopjw1Fxg5wjISAk) | 4:09 | 2021-05-08 | 2022-04-16 |
 | [Prom Queen](https://open.spotify.com/track/6MpCaSIOfqBqbMED4kXgNY) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H) | [Prom Queen](https://open.spotify.com/album/1lgr82yCJYR5lgsSyxXgBH) | 2:16 | 2021-03-06 | 2022-04-06 |
-| [promised](https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder](https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ) | 3:58 | 2023-02-24 |  |
+| [promised](https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ) | [quinnie](https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e) | [flounder](https://open.spotify.com/album/3AmWQhIXHawKYgthdEJSLJ) | 3:58 | 2023-02-24 | 2023-10-11 |
 | [Punching Bag](https://open.spotify.com/track/68LD7fYCVnACJtnLKHd3Q9) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Punching Bag](https://open.spotify.com/album/5btTgXXIZWCd7oAnToE1pl) | 2:33 | 2021-06-04 | 2022-10-18 |
 | [Puppy](https://open.spotify.com/track/3R5YAmx1HzkobNpMDNbFT4) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [Puppy](https://open.spotify.com/album/7yVEnMhX4OPPftLAsU6zsn) | 2:26 | 2020-10-13\* | 2020-10-16 |
 | [Purge The Poison](https://open.spotify.com/track/1sy0mqUBREJx0A89UsIkIl) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Purge The Poison](https://open.spotify.com/album/4l15cBxcsMtKozzTLPsXnc) | 3:16 | 2021-05-03 | 2021-05-26 |

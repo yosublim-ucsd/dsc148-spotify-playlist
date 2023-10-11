@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 
 > Take another hit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 839,151 likes - 75 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 839,148 likes - 75 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 45 | [Us Against the World \- Remix](https://open.spotify.com/track/0pGecxPm2EOIQgc241d38t) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Us Against the World \(Remix\)](https://open.spotify.com/album/5SZXD6IbW91jQKMTJmwlvv) | 3:12 |
 | 46 | [TIKI TAKA](https://open.spotify.com/track/2RMALBOw1E6ZDJJEPGrKif) | [Ashafar](https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Elai](https://open.spotify.com/artist/41qfKbF6qreDxiWBmOX39N) | [TIKI TAKA](https://open.spotify.com/album/6bIYFuAoPgqTyMUoWLSd7d) | 3:48 |
 | 47 | [UNAVAILABLE \(feat\. Musa Keys\)](https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:49 |
-| 48 | [Tigini North African Remix](https://open.spotify.com/track/26adxYjTm41LAcuCBS6LxU) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8), [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo) | [Tigini North African Remix](https://open.spotify.com/album/1686yQJeTTDEuqlPPJZJqh) | 2:54 |
+| 48 | [Tigini North African Remix](https://open.spotify.com/track/3AynbrynqxhxJrx5aKfEDS) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [Kikimoteleba](https://open.spotify.com/artist/20fLTbSref8bRqtfD82pSo), [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Tigini North African Remix](https://open.spotify.com/album/3Qq67nsNbhILj8AWNK9rmL) | 2:54 |
 | 49 | [Hands Up \(feat\. Dopebwoy\)](https://open.spotify.com/track/4SG0taCeFyMRCk1B2oPJ9R) | [Kevcody](https://open.spotify.com/artist/3heGIV1KV0B4c4MW7H2mey), [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hands Up \(feat\. Dopebwoy\)](https://open.spotify.com/album/48xPTdsbfEwQcuJ3FIHNpn) | 2:38 |
 | 50 | [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 |
 | 51 | [Niks Persoonlijks](https://open.spotify.com/track/7bxFIHG0ULALzcupONGVWc) | [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl), [DJEZJA](https://open.spotify.com/artist/6bJ0SXA2VXkqXpJBR2SQkf), [Blacka](https://open.spotify.com/artist/30pd29wLmBULRRp7k5yIxW) | [Niks Persoonlijks](https://open.spotify.com/album/4Eyx66Hc6RfGpCw59BhbqH) | 2:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68x6hand0cN.md) - [plain]
 | 74 | [Ku Je Ti \(feat\. Ricky Rich & Dafina Zeqiri\)](https://open.spotify.com/track/0xVDkht7T97HkFCXmiCQLT) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dafina Zeqiri](https://open.spotify.com/artist/6V6mxrGG67IyLFy2l4poNZ) | [Ku Je Ti \(feat\. Ricky Rich & Dafina Zeqiri\)](https://open.spotify.com/album/5A9aJ7wIhbEXQcJuE91YKQ) | 3:14 |
 | 75 | [Dégaine \(feat\. Damso\)](https://open.spotify.com/track/5cqLFudVQryezmVFmmyRJN) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Dégaine \(feat\. Damso\)](https://open.spotify.com/album/0qHraUEsPCcdTqCFBFDQvn) | 3:30 |
 
-Snapshot ID: `MCw4MTE0YmNlZmQ5ZTFmY2I4MmY1ZTE1MDFmZWI3Njc4NDg2ZmM1MTg5`
+Snapshot ID: `MCwwMWJlMDkwMjE0ODUzNjk3NjFiMzY3ODIxZDU1ZGZlYjg0MTU2M2I2`

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq?si=rZHTf\-z8SliHgWipyvUQKA">Tems</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,881 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,015 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 |
 | 2 | [Me & U](https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Me & U](https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa) | 3:12 |
-| 3 | [Mratata \(feat\. Leemckrazy\)](https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh) | [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg) | [DALI DALI](https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc) | 6:25 |
+| 3 | [Moratata \(feat\. Leemckrazy & TitoM\)](https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh) | [Daliwonga](https://open.spotify.com/artist/0oW137oXCLwA5b4uYRxvIn), [LeeMcKrazy](https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg), [TitoM](https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k) | [DALI DALI](https://open.spotify.com/album/7nXYx6bxFcyqnJENfgdEkc) | 6:25 |
 | 4 | [Maybe](https://open.spotify.com/track/0iUC5CRjpV3Kayoz0oNvE6) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Maybe](https://open.spotify.com/album/1S34M64cH8Q95LwKvFKLpq) | 2:47 |
 | 5 | [Lalala](https://open.spotify.com/track/69aZGQs6CvW11zgeofty60) | [Sam Deep](https://open.spotify.com/artist/46R9PUVbIOMjSUtMsQZbQq), [Sino Msolo](https://open.spotify.com/artist/5zvuXUYTvZczhbPG9HZRYI) | [Lalala](https://open.spotify.com/album/2Q85SIvAsPEG1y6qYgI36d) | 6:56 |
 | 6 | [Always By My Side](https://open.spotify.com/track/3vQe560Jawf6WeHNG3x6XB) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Wake Up, It's Morning](https://open.spotify.com/album/2jDVVWdGzt3sKd7HSemXzb) | 3:19 |
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 37 | [Hey DJ](https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hey DJ](https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi) | 2:37 |
 | 38 | [Why Would I?](https://open.spotify.com/track/5IN2qvFpISNge4Bed3fJz4) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [Why Would I?](https://open.spotify.com/album/2lAvIgCeAzIgdjJHLjuBt5) | 1:59 |
 | 39 | [Hey Sister](https://open.spotify.com/track/6C0crUpYIl6EvCHomd0IAg) | [DJ Bongz](https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F), [Dlala Thukzin](https://open.spotify.com/artist/5kmceQl1Y7lveTVbcy5ycD), [Funky Qla](https://open.spotify.com/artist/1raznef8uIDK0SAlPabb86) | [Hey Sister](https://open.spotify.com/album/3zzGP2HY9cNbJ17Po8935W) | 6:23 |
-| 40 | [You & Me \(Coachella ver.\)](https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
+| 40 | [You & Me](https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
 | 41 | [Ungalibali](https://open.spotify.com/track/3NVAiYJDcWbNGZvluLBFSb) | [LOOKATUPS](https://open.spotify.com/artist/3Juf3knCVNci9CIpYraBER), [SimulationRxps](https://open.spotify.com/artist/6QTVNiWqHPMz6Aoxyk0Y5e) | [Ungalibali](https://open.spotify.com/album/4xqLdAYplCYUHvbq3KIL9N) | 2:30 |
 | 42 | [Dancing With A Ghost](https://open.spotify.com/track/59l9ToPcTNhaoJRaSnH5Jc) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV) | [Dancing With A Ghost](https://open.spotify.com/album/6rRgBjM0ceIiy8MiguAX7D) | 2:33 |
 | 43 | [Wozani La](https://open.spotify.com/track/4ohYLvcAJqgnBr7ZGpFWAD) | [MJ Wemoto](https://open.spotify.com/artist/1K4l5pezBhs1hisWkoRbTe) | [Wozani La](https://open.spotify.com/album/0Vn3LtIfwte0785er5fC2d) | 3:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 74 | [Vulindlela](https://open.spotify.com/track/5k9vytySwcJN1TxkafDy9J) | [SONGØ](https://open.spotify.com/artist/3Gzg1sv93BQZJXwbM1RnW3) | [Vulindlela](https://open.spotify.com/album/4uQdJ3WgU0Vq18PqU4hgQP) | 4:20 |
 | 75 | [This you](https://open.spotify.com/track/53x4f2jV9FeggvnPrOJMR9) | [Babette](https://open.spotify.com/artist/4U4ZzduTBxu3bSKxWo3DJa) | [This you](https://open.spotify.com/album/7BKvZhq2iXfATsPybDlLzi) | 3:45 |
 
-Snapshot ID: `MCxiNTMyZWQ0OTAzNTUwYzEyOGZkMWI4MTk4YjljOGU1ZTgyNThiMDRh`
+Snapshot ID: `MCw3NzBmYzk0NTRhOGYwNjYxZDQ2MzRlNWRhNzI2MGFkMDA4MGUxOGI1`

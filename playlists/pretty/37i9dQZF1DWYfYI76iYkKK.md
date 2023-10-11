@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,061 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,038 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,13 +40,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 30 | [If Only...](https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ) | [ØZI](https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD) | [If Only...](https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y) | 3:07 |
 | 31 | [年輪說](https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [冊葉一：一與一](https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG) | 4:55 |
 | 32 | [明室](https://open.spotify.com/track/61rAMMOHksE6rLlkWnXV9m) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [明室](https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D) | 4:19 |
-| 33 | [第一個清晨](https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O) | 4:46 |
-| 34 | [晴時多雲偶想你](https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [晴時多雲偶想你](https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a) | 4:48 |
+| 33 | [晴時多雲偶想你](https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [晴時多雲偶想你](https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a) | 4:48 |
+| 34 | [第一個清晨](https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O) | 4:46 |
 | 35 | [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 |
 | 36 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
 | 37 | [青空未來](https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [青空未來](https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR) | 4:15 |
-| 38 | [願溫柔的你被世界溫柔以待 \- Demo](https://open.spotify.com/track/596QP1necn4XdusdVzB0TW) | [綠繡眼](https://open.spotify.com/artist/7dwt5S8gmrCEnG5WWtbCri) | [願溫柔的你被世界溫柔以待 \(Demo\)](https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn) | 3:49 |
-| 39 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
+| 38 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
+| 39 | [願溫柔的你被世界溫柔以待 \- Demo](https://open.spotify.com/track/596QP1necn4XdusdVzB0TW) | [綠繡眼](https://open.spotify.com/artist/7dwt5S8gmrCEnG5WWtbCri) | [願溫柔的你被世界溫柔以待 \(Demo\)](https://open.spotify.com/album/09q2CO9Bw3PFsVC72nS5Pn) | 3:49 |
 | 40 | [大海](https://open.spotify.com/track/2PBgXM5T6RGutisj2Nrv5Z) | [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [大海](https://open.spotify.com/album/1bJZhytOyONPzQcNWW8P88) | 3:31 |
 | 41 | [陪著你](https://open.spotify.com/track/4BkFO1PMv2wgTANMuC6wk1) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 5:10 |
 | 42 | [祝我幸福](https://open.spotify.com/track/12gRkmf9gFy5G6uDV9dQUH) | [Edward Chen](https://open.spotify.com/artist/2Vl4kZKeQslEl4P0ATWuue) | [應該](https://open.spotify.com/album/5G14836yEpzVp5ud2o05kB) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 49 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 |
 | 50 | [假男友](https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [我和我的布拉姆斯](https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI) | 4:26 |
 
-Snapshot ID: `MCw5MzM1MGVjNWFmNzU1MDYxZTg2N2IzODc1MGQ1Yzk3YWQ4OTIyMWJm`
+Snapshot ID: `MCw5NzFlZWYzODY4ODA3MmNiNjYwN2NjMTg2ZTE4ODkyOWFmNzNmYTFk`

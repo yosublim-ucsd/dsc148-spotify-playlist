@@ -216,7 +216,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -2218,7 +2218,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 266160,
       "name": "Caraluna",
       "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
@@ -4886,7 +4886,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 160517,
       "name": "Fr\u00e1gil",
       "url": "https://open.spotify.com/track/7BVMtLpd7edHeOizt4RWz9"
@@ -8692,7 +8692,7 @@
       ],
       "date_added": "2023-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 167692,
       "name": "No Es Por Ac\u00e1",
       "url": "https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF"
@@ -8838,6 +8838,28 @@
       "duration_ms": 194019,
       "name": "No Se Va - En Vivo",
       "url": "https://open.spotify.com/track/5JhUm1v5AbI5Yu6jLKCPRO"
+    },
+    {
+      "album": {
+        "name": "en dormir sin Madrid",
+        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151468,
+      "name": "No soy Eterno",
+      "url": "https://open.spotify.com/track/0aPs3kmiqmt9QG7gWXdefA"
     },
     {
       "album": {
@@ -11232,7 +11254,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 156500,
       "name": "SABOR FRESA",
       "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
@@ -12680,7 +12702,7 @@
       ],
       "date_added": "2023-10-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 137053,
       "name": "Toy en el Mic",
       "url": "https://open.spotify.com/track/3DeZc9cOc1DM8YNoJV8lAv"
@@ -14198,7 +14220,7 @@
       ],
       "date_added": "2023-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 179164,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"

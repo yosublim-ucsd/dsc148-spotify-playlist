@@ -4,7 +4,7 @@
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-121 songs - 7 hr 33 min
+122 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 | 2021-11-01 |  |
 | [Destino](https://open.spotify.com/track/78KzU9VKRmDrEO6EvZlQRG) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:59 | 2021-11-01 |  |
 | [Décimas a La Muerte](https://open.spotify.com/track/3Qg17l5FX1OxStkPDLp2i5) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 3:58 | 2021-11-01 |  |
-| [Dia De Los Muertos](https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1) | [El Haru Kuroi](https://open.spotify.com/artist/683Jz9L8U9Ba2lGOBuRgj8) | [Sabung](https://open.spotify.com/album/2qOJpwhMowXGwlNVoBKVfA) | 3:10 | 2021-11-01 |  |
+| [Dia De Los Muertos](https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1) | [El Haru Kuroi](https://open.spotify.com/artist/683Jz9L8U9Ba2lGOBuRgj8) | [Sabung](https://open.spotify.com/album/2qOJpwhMowXGwlNVoBKVfA) | 3:10 | 2021-11-01 | 2023-10-11 |
 | [Dios nunca muere](https://open.spotify.com/track/6mIjLHD3t1bcsUwQjyh4wn) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [Inmortales de Pedro Infante \(USA\)](https://open.spotify.com/album/4ZMUQuAe77nOQXZ6aIoMg8) | 2:45 | 2021-11-01 |  |
 | [Don Diablo](https://open.spotify.com/track/0imrhMFOWQ9XYDCnLfecYV) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | ["Miguel"](https://open.spotify.com/album/6Xo9GlYWbxSTZn0KI7l7Gb) | 3:47 | 2021-11-01 |  |
 | [Drácula, Calígula, Tarántula](https://open.spotify.com/track/4ifPUlltadf0iiL8p6YdFV) | [31 Minutos](https://open.spotify.com/artist/1EgVsKobLzbNgILxx9wrVG) | [Arwrarwrirwrarwro \(Banda Sonora Original de la Cuarta Temporada\)](https://open.spotify.com/album/1YeHBkb7zNMGUU4wsR19Ew) | 2:53 | 2021-11-01 |  |
@@ -91,6 +91,7 @@
 | [Monton de Tierra](https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA) | [Regina Orozco](https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM) | [Rosa Mexicano](https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw) | 2:44 | 2021-11-01 |  |
 | [Morir Soñando](https://open.spotify.com/track/63dcYPuE3PEauC0t480FKn) | [Mariachi Nuevo Tecalitlan](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Dia de los Muertos \(Con Mariachi\)](https://open.spotify.com/album/2jhrvg3VaRCvGwEvhLLsmw) | 3:40 | 2021-11-01 | 2023-09-20 |
 | [Moños Negros](https://open.spotify.com/track/1DAIPsYEXEOaOlJaG8Lv0w) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Moños Negros](https://open.spotify.com/album/5amUm1QKYdr7cW3T4uoUX9) | 3:22 | 2021-11-01 |  |
+| [Muerte](https://open.spotify.com/track/5DWOuxRP9nHMoozf9NPlxA) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 5:49 | 2023-10-10 |  |
 | [Muerte Querida \- Remasterizado 2008](https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Rey Azúcar](https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc) | 4:18 | 2021-11-01 |  |
 | [Muerto en Vida](https://open.spotify.com/track/5ZWMkJaf6f52V1UecbNjOP) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Mexico Que Se Nos Fue](https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q) | 3:31 | 2021-11-01 |  |
 | [Mujer Antigua, La Bruja](https://open.spotify.com/track/7rEBX9KE26h09AjNX75LGM) | [Son De Madera](https://open.spotify.com/artist/5IjDhtfKUReD5VeIeynKme) | [Caribe Mar Sincopado](https://open.spotify.com/album/2hCmmR9twhWkwWAm3vgGfx) | 7:28 | 2021-11-01 |  |

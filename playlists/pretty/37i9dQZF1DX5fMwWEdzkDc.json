@@ -1,12 +1,12 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 12236,
+  "num_followers": 12275,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NWMyNjk1MWYyN2IzM2Q4ZWU5OTNiYWFkYTljZGIzZWM1ZWUyZjRl",
+  "snapshot_id": "MCw1OTVlY2YwMDYxZTY4MTk3ZmViNjFhNzFmMjM4MDAxYTQ0YjNlZWFh",
   "tracks": [
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "The Windows Of My Soul",
-        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
-      },
-      "artists": [
-        {
-          "name": "Yangpa",
-          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
-        }
-      ],
-      "duration_ms": 238393,
-      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
-      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "Like The Bible",
         "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 259626,
       "name": "Break Away",
       "url": "https://open.spotify.com/track/3xN3UkMQPosLdU6nldyxjl"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "The Windows Of My Soul",
+        "url": "https://open.spotify.com/album/606BZa2tirkJXRAEfOvmZu"
+      },
+      "artists": [
+        {
+          "name": "Yangpa",
+          "url": "https://open.spotify.com/artist/05Tt2bRgkP3yY2TnpRMvpS"
+        }
+      ],
+      "duration_ms": 238393,
+      "name": "\uc0ac\ub791..\uadf8\uac8c \ubb54\ub370",
+      "url": "https://open.spotify.com/track/17YZlswC4YRd6vMVkH6F5C"
     },
     {
       "added_at": "2021-03-11 16:26:11",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2021-03-11 16:26:11",
       "album": {
-        "name": "Shady Girl",
-        "url": "https://open.spotify.com/album/4r8SgrpHX0W7u1kT0lAULE"
-      },
-      "artists": [
-        {
-          "name": "SISTAR",
-          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
-        }
-      ],
-      "duration_ms": 194324,
-      "name": "Shady Girl",
-      "url": "https://open.spotify.com/track/7rWRuFyvRqMlUh8rUTuWqb"
-    },
-    {
-      "added_at": "2021-03-11 16:26:11",
-      "album": {
         "name": "The Breeze Of Sea",
         "url": "https://open.spotify.com/album/0bWcrwRhhxMaweFaBA8G1S"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 329026,
       "name": "\ucd94\uc5b5\uc740 \uc0ac\ub791\uc744 \ub2ee\uc544",
       "url": "https://open.spotify.com/track/0MjRPE2eH1ZQm9DC3BtZyq"
+    },
+    {
+      "added_at": "2021-03-11 16:26:11",
+      "album": {
+        "name": "Shady Girl",
+        "url": "https://open.spotify.com/album/4r8SgrpHX0W7u1kT0lAULE"
+      },
+      "artists": [
+        {
+          "name": "SISTAR",
+          "url": "https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP"
+        }
+      ],
+      "duration_ms": 194324,
+      "name": "Shady Girl",
+      "url": "https://open.spotify.com/track/7rWRuFyvRqMlUh8rUTuWqb"
     },
     {
       "added_at": "2021-03-11 16:26:11",

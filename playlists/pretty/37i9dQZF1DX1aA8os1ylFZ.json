@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 237903,
+  "num_followers": 237952,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWMxNzE1YTI1MDNiNDg0NzlhY2EzYjEyOTJhZTk5NGUzNzhkMThh",
+  "snapshot_id": "MCxkYjc1ZGM2YzZkMmFjNjJkODU2ZDYzNTAzNTVhNDRmMjBmMmRmNGJj",
   "tracks": [
     {
       "added_at": "2023-10-09 08:34:22",
@@ -1211,26 +1211,6 @@
     {
       "added_at": "2023-10-09 08:34:22",
       "album": {
-        "name": "Overture",
-        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
-      },
-      "artists": [
-        {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
-        },
-        {
-          "name": "Joshua J",
-          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
-        }
-      ],
-      "duration_ms": 221492,
-      "name": "Say Yes (Turquoise) (feat. Joshua J)",
-      "url": "https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3"
-    },
-    {
-      "added_at": "2023-10-09 08:34:22",
-      "album": {
         "name": "Open (Remix)",
         "url": "https://open.spotify.com/album/4f9Dwoweev0tjSi4AmMq7C"
       },
@@ -1255,18 +1235,22 @@
     {
       "added_at": "2023-10-09 08:34:22",
       "album": {
-        "name": "Message From My Ex / 3 Words (Message To My Ex)",
-        "url": "https://open.spotify.com/album/2yARKR3gbPNq9ywOYhbp9V"
+        "name": "Overture",
+        "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
       "artists": [
         {
-          "name": "Wes Nelson",
-          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        },
+        {
+          "name": "Joshua J",
+          "url": "https://open.spotify.com/artist/2AZupS7RiLA0sh5uzwsr2l"
         }
       ],
-      "duration_ms": 186083,
-      "name": "3 Words (Message To My Ex)",
-      "url": "https://open.spotify.com/track/2EY6qTRyt8Fnsb1ACZ9sas"
+      "duration_ms": 221492,
+      "name": "Say Yes (Turquoise) (feat. Joshua J)",
+      "url": "https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3"
     },
     {
       "added_at": "2023-10-09 08:34:22",
@@ -1287,6 +1271,22 @@
     {
       "added_at": "2023-10-09 08:34:22",
       "album": {
+        "name": "Message From My Ex / 3 Words (Message To My Ex)",
+        "url": "https://open.spotify.com/album/2yARKR3gbPNq9ywOYhbp9V"
+      },
+      "artists": [
+        {
+          "name": "Wes Nelson",
+          "url": "https://open.spotify.com/artist/4ktBrNjagCGftyuBLJkATq"
+        }
+      ],
+      "duration_ms": 186083,
+      "name": "3 Words (Message To My Ex)",
+      "url": "https://open.spotify.com/track/2EY6qTRyt8Fnsb1ACZ9sas"
+    },
+    {
+      "added_at": "2023-10-09 08:34:22",
+      "album": {
         "name": "Obsession",
         "url": "https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-10-09 08:34:22",
       "album": {
-        "name": "Frozen",
-        "url": "https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH"
-      },
-      "artists": [
-        {
-          "name": "Tamera",
-          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
-        }
-      ],
-      "duration_ms": 178226,
-      "name": "Frozen",
-      "url": "https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S"
-    },
-    {
-      "added_at": "2023-10-09 08:34:22",
-      "album": {
         "name": "Solstice",
         "url": "https://open.spotify.com/album/0qirqalFHKsdczuFN3mcEL"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 178348,
       "name": "Pleasure & Pain",
       "url": "https://open.spotify.com/track/36xSEKbM5mpSiErUfYvzW0"
+    },
+    {
+      "added_at": "2023-10-09 08:34:22",
+      "album": {
+        "name": "Frozen",
+        "url": "https://open.spotify.com/album/6xy4Z5pqY5Wu8tNLHkiFOH"
+      },
+      "artists": [
+        {
+          "name": "Tamera",
+          "url": "https://open.spotify.com/artist/4S68J6bchvHhqHO1Kp8W9X"
+        }
+      ],
+      "duration_ms": 178226,
+      "name": "Frozen",
+      "url": "https://open.spotify.com/track/1W0fC2AWuK4CS7BpSurT3S"
     },
     {
       "added_at": "2023-10-09 08:34:22",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2023-10-09 08:34:22",
       "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "duration_ms": 189063,
+      "name": "If You Leave",
+      "url": "https://open.spotify.com/track/1eIc5n6TmMaWdU6IT2KgWJ"
+    },
+    {
+      "added_at": "2023-10-09 08:34:22",
+      "album": {
         "name": "Bag (with Lucky Daye)",
         "url": "https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 211400,
       "name": "Bag (with Lucky Daye)",
       "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
-    },
-    {
-      "added_at": "2023-10-09 08:34:22",
-      "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m"
-      },
-      "artists": [
-        {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
-        }
-      ],
-      "duration_ms": 189063,
-      "name": "If You Leave",
-      "url": "https://open.spotify.com/track/1eIc5n6TmMaWdU6IT2KgWJ"
     },
     {
       "added_at": "2023-10-09 08:34:22",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-10-09 08:34:22",
       "album": {
-        "name": "Cheetos",
-        "url": "https://open.spotify.com/album/5Jby2Guls2iIWSotmzpHoM"
-      },
-      "artists": [
-        {
-          "name": "Mael",
-          "url": "https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7"
-        }
-      ],
-      "duration_ms": 152727,
-      "name": "Cheetos",
-      "url": "https://open.spotify.com/track/6ZJ3sIrY1vsOpu75NnNVEz"
-    },
-    {
-      "added_at": "2023-10-09 08:34:22",
-      "album": {
         "name": "I Love You And Its Getting Worse",
         "url": "https://open.spotify.com/album/4EveH7LTJ6mTkxXWK6y2Vu"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 179112,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h"
+    },
+    {
+      "added_at": "2023-10-09 08:34:22",
+      "album": {
+        "name": "Cheetos",
+        "url": "https://open.spotify.com/album/5Jby2Guls2iIWSotmzpHoM"
+      },
+      "artists": [
+        {
+          "name": "Mael",
+          "url": "https://open.spotify.com/artist/3jTFwkFtPm70r8cAIVFsT7"
+        }
+      ],
+      "duration_ms": 152727,
+      "name": "Cheetos",
+      "url": "https://open.spotify.com/track/6ZJ3sIrY1vsOpu75NnNVEz"
     },
     {
       "added_at": "2023-10-09 08:34:22",

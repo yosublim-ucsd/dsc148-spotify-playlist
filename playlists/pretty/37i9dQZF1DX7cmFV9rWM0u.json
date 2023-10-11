@@ -1,12 +1,12 @@
 {
   "description": "Break a sweat with this Zumba-inspired playlist! Find a class at Zumba.Dance",
-  "num_followers": 1869890,
+  "num_followers": 1869019,
   "original_name": "Zumba\u00ae Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNGIyNzk1MWVjYzEzMGM4MDVhOGRjYjI2YzlkOGZiMmE2ZmZmYTBi",
+  "snapshot_id": "MCxkYzAzMDk2YmQ5MGFhMmZiMzNjNDBiZjJhMDcxZDAyNTcwY2ViNmIz",
   "tracks": [
     {
       "added_at": "2023-09-15 04:05:27",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-09-15 04:05:27",
       "album": {
-        "name": "COCO LOCO",
-        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166734,
-      "name": "COCO LOCO",
-      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
-    },
-    {
-      "added_at": "2023-09-15 04:05:27",
-      "album": {
         "name": "MERCHO",
         "url": "https://open.spotify.com/album/5beJZJo0DqVaPVlA1cHwjj"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 161451,
       "name": "MERCHO",
       "url": "https://open.spotify.com/track/1DxEbt6OSbrkRthk6pjZue"
+    },
+    {
+      "added_at": "2023-09-15 04:05:27",
+      "album": {
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
     },
     {
       "added_at": "2023-09-15 04:05:27",
@@ -199,6 +199,26 @@
       "duration_ms": 158804,
       "name": "Monoton\u00eda",
       "url": "https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76"
+    },
+    {
+      "added_at": "2023-09-15 04:05:27",
+      "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
     },
     {
       "added_at": "2023-09-15 04:05:27",
@@ -347,22 +367,6 @@
     {
       "added_at": "2023-09-15 04:05:27",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Despu\u00e9s de la Playa",
-      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
-    },
-    {
-      "added_at": "2023-09-15 04:05:27",
-      "album": {
         "name": "FRIKI",
         "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
       },
@@ -379,6 +383,22 @@
       "duration_ms": 144986,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
+    },
+    {
+      "added_at": "2023-09-15 04:05:27",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Despu\u00e9s de la Playa",
+      "url": "https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2"
     },
     {
       "added_at": "2023-09-15 04:05:27",
@@ -483,22 +503,22 @@
     {
       "added_at": "2023-09-15 04:05:27",
       "album": {
-        "name": "BEACHY",
-        "url": "https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id"
+        "name": "KESI (Remix)",
+        "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
       },
       "artists": [
         {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         },
         {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
         }
       ],
-      "duration_ms": 168000,
-      "name": "BEACHY",
-      "url": "https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW"
+      "duration_ms": 176575,
+      "name": "KESI - Remix",
+      "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
     },
     {
       "added_at": "2023-09-15 04:05:27",
@@ -523,22 +543,22 @@
     {
       "added_at": "2023-09-15 04:05:27",
       "album": {
-        "name": "KESI (Remix)",
-        "url": "https://open.spotify.com/album/00R62QqtlwSpAuwkS5kxB3"
+        "name": "BEACHY",
+        "url": "https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id"
       },
       "artists": [
         {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         },
         {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
         }
       ],
-      "duration_ms": 176575,
-      "name": "KESI - Remix",
-      "url": "https://open.spotify.com/track/0IqCoZ168iRc9LqfrYgpZy"
+      "duration_ms": 168000,
+      "name": "BEACHY",
+      "url": "https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW"
     },
     {
       "added_at": "2023-09-15 04:05:27",
@@ -651,22 +671,6 @@
     {
       "added_at": "2023-09-15 04:05:27",
       "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 248768,
-      "name": "RUMBAT\u00d3N",
-      "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
-    },
-    {
-      "added_at": "2023-09-15 04:05:27",
-      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
       },
@@ -735,6 +739,22 @@
     {
       "added_at": "2023-09-15 04:05:27",
       "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "RUMBAT\u00d3N",
+      "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
+    },
+    {
+      "added_at": "2023-09-15 04:05:27",
+      "album": {
         "name": "Chica Ideal",
         "url": "https://open.spotify.com/album/7aS92ROK5rixV65VSRGPct"
       },
@@ -795,22 +815,6 @@
     {
       "added_at": "2023-09-15 04:05:27",
       "album": {
-        "name": "Que Tire Pa Lante",
-        "url": "https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 210520,
-      "name": "Que Tire Pa Lante",
-      "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
-    },
-    {
-      "added_at": "2023-09-15 04:05:27",
-      "album": {
         "name": "The SpongeBob Movie: Sponge On The Run (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/7ojjiN0aOkWA15XONyCnA7"
       },
@@ -847,6 +851,22 @@
       "duration_ms": 194892,
       "name": "Mu\u00e9velo",
       "url": "https://open.spotify.com/track/4VgYtXCVJ7IbWAZ5ryfvEQ"
+    },
+    {
+      "added_at": "2023-09-15 04:05:27",
+      "album": {
+        "name": "Que Tire Pa Lante",
+        "url": "https://open.spotify.com/album/155yGQqPxsYkhV7zQyL95t"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 210520,
+      "name": "Que Tire Pa Lante",
+      "url": "https://open.spotify.com/track/6RyaV7owmVU6fzEPE17sF1"
     },
     {
       "added_at": "2023-09-15 04:05:27",
@@ -1139,30 +1159,6 @@
     {
       "added_at": "2023-09-15 04:05:27",
       "album": {
-        "name": "PAM",
-        "url": "https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U"
-      },
-      "artists": [
-        {
-          "name": "Justin Quiles",
-          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "PAM",
-      "url": "https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn"
-    },
-    {
-      "added_at": "2023-09-15 04:05:27",
-      "album": {
         "name": "ME PASE (feat. Farruko)",
         "url": "https://open.spotify.com/album/4JMaZaBdFCVJDpEAkNb4nZ"
       },
@@ -1203,6 +1199,30 @@
       "duration_ms": 180788,
       "name": "Me Gusta (with Cardi B & Myke Towers)",
       "url": "https://open.spotify.com/track/7e1VoRlNumuEkXlITMHKLE"
+    },
+    {
+      "added_at": "2023-09-15 04:05:27",
+      "album": {
+        "name": "PAM",
+        "url": "https://open.spotify.com/album/4cQLUsauu6PltpXfMxQH3U"
+      },
+      "artists": [
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "PAM",
+      "url": "https://open.spotify.com/track/0eeKDrQxjqNl5bX5VCHDcn"
     },
     {
       "added_at": "2023-09-15 04:05:27",
@@ -1339,26 +1359,6 @@
       "duration_ms": 168648,
       "name": "Selfish Love (with Selena Gomez)",
       "url": "https://open.spotify.com/track/3XoflnowYPFRPOh3uFvHcm"
-    },
-    {
-      "added_at": "2023-09-15 04:05:27",
-      "album": {
-        "name": "Casualidad",
-        "url": "https://open.spotify.com/album/2TMrMWOfJY01n2MRhANkWi"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 193112,
-      "name": "Casualidad",
-      "url": "https://open.spotify.com/track/5FcT2TuosRkokjn3xyncER"
     }
   ],
   "unique_name": "Zumba\u00ae Beats",

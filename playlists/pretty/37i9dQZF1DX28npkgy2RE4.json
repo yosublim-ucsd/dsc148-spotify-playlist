@@ -1,12 +1,12 @@
 {
   "description": "New styles, deep sounds. Cover: Tr\u00e9 Burt",
-  "num_followers": 413579,
+  "num_followers": 413547,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2NiMjAxODY0MTk2MGI1MWM4NTgyYmIwMmE3YWMwYTg5ZGQxNTEw",
+  "snapshot_id": "MCw5MmI3OGE4ZWZmZTIwMTA4MTExZTA4NjdiY2M3YTNjOGI1OWIyZDA1",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Without a Light",
-        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
-      },
-      "artists": [
-        {
-          "name": "Drew Holcomb & The Neighbors",
-          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
-        }
-      ],
-      "duration_ms": 142200,
-      "name": "Without a Light",
-      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Best Day Of My Life",
         "url": "https://open.spotify.com/album/5eKyTl0Q430cufzTo8ibcX"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 146895,
       "name": "Best Day Of My Life",
       "url": "https://open.spotify.com/track/6rUtMKEej81ORTGtCpjyOJ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Without a Light",
+        "url": "https://open.spotify.com/album/2eVxQMHiWZ8P96B9QIlNdR"
+      },
+      "artists": [
+        {
+          "name": "Drew Holcomb & The Neighbors",
+          "url": "https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9"
+        }
+      ],
+      "duration_ms": 142200,
+      "name": "Without a Light",
+      "url": "https://open.spotify.com/track/1CYBnHYYbOAsuDCGa0zrw0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Believe",
-        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
-      },
-      "artists": [
-        {
-          "name": "Caamp",
-          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "My Ego Dies At The End",
         "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 242644,
       "name": "My Ego Dies At The End",
       "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Believe",
+        "url": "https://open.spotify.com/album/0WOkJaVLYAGfbuBvcKCTCo"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/0QFGZqqB1KDpOtyL3vXMXo"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -599,22 +599,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Another Friday Night / Hot Heavy Summer / Sister",
-        "url": "https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa"
+        "name": "Tomb",
+        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
       },
       "artists": [
         {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
         }
       ],
-      "duration_ms": 229291,
-      "name": "Hot Heavy Summer",
-      "url": "https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc"
+      "duration_ms": 205657,
+      "name": "You Needed Love, I Needed You",
+      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -635,18 +631,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Tomb",
-        "url": "https://open.spotify.com/album/4bUHu3F1zbCbKKcwvCmAXj"
+        "name": "Another Friday Night / Hot Heavy Summer / Sister",
+        "url": "https://open.spotify.com/album/2rsmAi0OAtqU4Er2qvhRUa"
       },
       "artists": [
         {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
         }
       ],
-      "duration_ms": 205657,
-      "name": "You Needed Love, I Needed You",
-      "url": "https://open.spotify.com/track/0MIqB2F979ng3e9fLKEAt6"
+      "duration_ms": 229291,
+      "name": "Hot Heavy Summer",
+      "url": "https://open.spotify.com/track/2Yu0AtCUsskiFKqtLCm0zc"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "BIG SHOT",
-      "url": "https://open.spotify.com/track/3UHNRo52Jrra0NfaIlYbk4"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 164224,
       "name": "zombie girl",
       "url": "https://open.spotify.com/track/3v2OxIsGWJXWfLuRkB59Q6"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "BRIGHTSIDE",
+        "url": "https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "BIG SHOT",
+      "url": "https://open.spotify.com/track/3UHNRo52Jrra0NfaIlYbk4"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Home Video",
+        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 254735,
+      "name": "First Time",
+      "url": "https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Joy'All",
         "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
       },
@@ -1003,38 +1019,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Home Video",
-        "url": "https://open.spotify.com/album/2nwfSapJ3YIq7Ofad4Vuh1"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 254735,
-      "name": "First Time",
-      "url": "https://open.spotify.com/track/5OLVjtDBzeHtqGTn5Pwo1B"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
-      },
-      "artists": [
-        {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
-        }
-      ],
-      "duration_ms": 186269,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Among Horses III",
         "url": "https://open.spotify.com/album/1EeXJ45fmNfRtHRGPWAjvz"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 123000,
       "name": "Francis",
       "url": "https://open.spotify.com/track/7g07tmYNBITxvbR3KaTZjU"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
+      },
+      "artists": [
+        {
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+        }
+      ],
+      "duration_ms": 186269,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Terms of Surrender",
-        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
-      },
-      "artists": [
-        {
-          "name": "Hiss Golden Messenger",
-          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
-        }
-      ],
-      "duration_ms": 197596,
-      "name": "I Need a Teacher",
-      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Collections From The Whiteout",
         "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 257773,
       "name": "What A Day - Edit",
       "url": "https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Terms of Surrender",
+        "url": "https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu"
+      },
+      "artists": [
+        {
+          "name": "Hiss Golden Messenger",
+          "url": "https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE"
+        }
+      ],
+      "duration_ms": 197596,
+      "name": "I Need a Teacher",
+      "url": "https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "I'm Not Sorry, I Was Just Being Me",
+        "url": "https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC"
+      },
+      "artists": [
+        {
+          "name": "King Hannah",
+          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
+        }
+      ],
+      "duration_ms": 209603,
+      "name": "All Being Fine",
+      "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Call My Name",
         "url": "https://open.spotify.com/album/0vnEKpCttcVJxw41Im2f2a"
       },
@@ -1195,22 +1211,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "I'm Not Sorry, I Was Just Being Me",
-        "url": "https://open.spotify.com/album/329jZGec5ndGWyYUAX1xJC"
-      },
-      "artists": [
-        {
-          "name": "King Hannah",
-          "url": "https://open.spotify.com/artist/7t00AYOoiQrcgNlpTkNer6"
-        }
-      ],
-      "duration_ms": 209603,
-      "name": "All Being Fine",
-      "url": "https://open.spotify.com/track/1AObGJHBNGq23MkG3ZDjbJ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Old Bone / Trust No Man",
         "url": "https://open.spotify.com/album/6pTUF8e5RU8pU2GLRoQl5Q"
       },
@@ -1223,22 +1223,6 @@
       "duration_ms": 187120,
       "name": "Old Bone",
       "url": "https://open.spotify.com/track/5byJBGDhkVXs81MS3b3Ncq"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "See the World",
-        "url": "https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy"
-      },
-      "artists": [
-        {
-          "name": "Brett Dennen",
-          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
-        }
-      ],
-      "duration_ms": 201226,
-      "name": "Paul Newman Daytona Rolex",
-      "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Right on Time",
-        "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
+        "name": "See the World",
+        "url": "https://open.spotify.com/album/5DjZqk7gJGrQBCeTKnBViy"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
         }
       ],
-      "duration_ms": 185228,
-      "name": "Right on Time",
-      "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
+      "duration_ms": 201226,
+      "name": "Paul Newman Daytona Rolex",
+      "url": "https://open.spotify.com/track/4pAjn6PcQp81T2BKOzPOtn"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1287,6 +1271,22 @@
       "duration_ms": 242562,
       "name": "The Pool",
       "url": "https://open.spotify.com/track/3I8Y491lACYzJTM8fmIWdI"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Right on Time",
+        "url": "https://open.spotify.com/album/3w75u634fjDNuVKeI0VYXd"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 185228,
+      "name": "Right on Time",
+      "url": "https://open.spotify.com/track/5uyw6qVn71nKSBVyBl3Ytv"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 164245,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Wilderado",
         "url": "https://open.spotify.com/album/4jPnb0rdxEawWMlO8RfzJP"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 220405,
       "name": "Help Me Down",
       "url": "https://open.spotify.com/track/564vp2eEPOegtvHjnkhnhs"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "This Is A Photograph",
+        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 164245,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/17ctpmqT0N9hGhXWWvOob5"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "all of my lessons",
-        "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 176795,
-      "name": "all of my lessons",
-      "url": "https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Warm Chris",
         "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 219213,
       "name": "Tick Tock",
       "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "all of my lessons",
+        "url": "https://open.spotify.com/album/4unK854kzraNk7AGOP9aTO"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 176795,
+      "name": "all of my lessons",
+      "url": "https://open.spotify.com/track/5pngx2j5NVygoo72yqNaEF"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Things Take Time, Take Time",
+        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 271206,
+      "name": "Rae Street",
+      "url": "https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Deli Daydreams",
         "url": "https://open.spotify.com/album/46PFhovdF7y9Q3Z7qdCohx"
       },
@@ -1731,38 +1747,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Things Take Time, Take Time",
-        "url": "https://open.spotify.com/album/3InSvUCYvJ5XWg6PegGNCv"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 271206,
-      "name": "Rae Street",
-      "url": "https://open.spotify.com/track/4DtQQ82VSTgYfsCBSxvK9k"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Blue",
-        "url": "https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 156333,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Snowplow",
         "url": "https://open.spotify.com/album/2pvt0zp6tTBZdF1HZ50LsQ"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 161776,
       "name": "Snowplow",
       "url": "https://open.spotify.com/track/6LvRXtQfbvMF7m0hNQu5eF"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Blue",
+        "url": "https://open.spotify.com/album/3qhBGzvetkErUwWV0Ohtu3"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 156333,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/7i8uptpD5FTrfQu0DXHPDv"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "San Isabel",
+        "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
+      },
+      "artists": [
+        {
+          "name": "Jamestown Revival",
+          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
+        }
+      ],
+      "duration_ms": 280813,
+      "name": "Crazy World (Judgement Day)",
+      "url": "https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Spin It Faster",
         "url": "https://open.spotify.com/album/1T6SLtqelpeRnPQAG2ehKI"
       },
@@ -1831,22 +1847,6 @@
       "duration_ms": 236217,
       "name": "Spin It Faster",
       "url": "https://open.spotify.com/track/65kIGQ8TIXVLKxcZahctVO"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "San Isabel",
-        "url": "https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv"
-      },
-      "artists": [
-        {
-          "name": "Jamestown Revival",
-          "url": "https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it"
-        }
-      ],
-      "duration_ms": 280813,
-      "name": "Crazy World (Judgement Day)",
-      "url": "https://open.spotify.com/track/0ZLvbkO8VwaNhV9aS1yi6T"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV"
-      },
-      "artists": [
-        {
-          "name": "Haux",
-          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
-        }
-      ],
-      "duration_ms": 181200,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Seventeen Again (feat. Novo Amor)",
         "url": "https://open.spotify.com/album/5f60fAxPrT39rjbmNssvvR"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 204520,
       "name": "Seventeen Again (feat. Novo Amor)",
       "url": "https://open.spotify.com/track/1Qcx39jI9pjoTrURXuk3QY"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/4nZA7fWo4mVBvOaTjgX4AV"
+      },
+      "artists": [
+        {
+          "name": "Haux",
+          "url": "https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS"
+        }
+      ],
+      "duration_ms": 181200,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/6CnXcjsNmdzh5aUfnxgcQb"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2299,22 +2299,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "I Am Not There Anymore",
-        "url": "https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR"
-      },
-      "artists": [
-        {
-          "name": "The Clientele",
-          "url": "https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0"
-        }
-      ],
-      "duration_ms": 196666,
-      "name": "Blue Over Blue",
-      "url": "https://open.spotify.com/track/5l8hwRyvvAqTpwhzbaSr8l"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Satan / Jacob Rose",
         "url": "https://open.spotify.com/album/5nExpRArSDcibPvnuQQc3I"
       },
@@ -2327,6 +2311,22 @@
       "duration_ms": 196264,
       "name": "Satan",
       "url": "https://open.spotify.com/track/32i4BnsK39hrEtYUpPg4D4"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "I Am Not There Anymore",
+        "url": "https://open.spotify.com/album/0o5pPvWlsSeZBVAR08y3mR"
+      },
+      "artists": [
+        {
+          "name": "The Clientele",
+          "url": "https://open.spotify.com/artist/3xZBpeXHkSjTKQIR1OeKN0"
+        }
+      ],
+      "duration_ms": 196666,
+      "name": "Blue Over Blue",
+      "url": "https://open.spotify.com/track/5l8hwRyvvAqTpwhzbaSr8l"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2363,6 +2363,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Wayfinder",
+        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
+      },
+      "artists": [
+        {
+          "name": "Boy Scouts",
+          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
+        }
+      ],
+      "duration_ms": 182012,
+      "name": "That's Life Honey",
+      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Quitters",
         "url": "https://open.spotify.com/album/4m0J4ljxRrsHJfXSmjiYUG"
       },
@@ -2379,22 +2395,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Nick Waterhouse",
-        "url": "https://open.spotify.com/album/1e1FoOAXam30VAJJb4q4Zk"
-      },
-      "artists": [
-        {
-          "name": "Nick Waterhouse",
-          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
-        }
-      ],
-      "duration_ms": 200813,
-      "name": "I Feel an Urge Coming On",
-      "url": "https://open.spotify.com/track/501jsSXfxhgClQe4UDrofk"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Break Me Open",
         "url": "https://open.spotify.com/album/3GnC2xEY4b6wowL2eBIwGc"
       },
@@ -2407,6 +2407,22 @@
       "duration_ms": 183026,
       "name": "Break Me Open",
       "url": "https://open.spotify.com/track/24DK3nZUzwGYx6xzBXOz3V"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Nick Waterhouse",
+        "url": "https://open.spotify.com/album/1e1FoOAXam30VAJJb4q4Zk"
+      },
+      "artists": [
+        {
+          "name": "Nick Waterhouse",
+          "url": "https://open.spotify.com/artist/0V7uVrIYr4FwFvUN9S4kYr"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "I Feel an Urge Coming On",
+      "url": "https://open.spotify.com/track/501jsSXfxhgClQe4UDrofk"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2439,22 +2455,6 @@
       "duration_ms": 208817,
       "name": "Strange Weather",
       "url": "https://open.spotify.com/track/12O9MpMmewwdDkxZC9uqvS"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Wayfinder",
-        "url": "https://open.spotify.com/album/5wRHPgsA4wtC2zDTOyp7DN"
-      },
-      "artists": [
-        {
-          "name": "Boy Scouts",
-          "url": "https://open.spotify.com/artist/02fo9VYWbuaOVly5sEjd5V"
-        }
-      ],
-      "duration_ms": 182012,
-      "name": "That's Life Honey",
-      "url": "https://open.spotify.com/track/4ruhASOVIoqNGNXSjLwVQZ"
     },
     {
       "added_at": "2023-10-06 04:00:00",

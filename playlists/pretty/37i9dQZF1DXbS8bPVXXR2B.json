@@ -1,12 +1,12 @@
 {
   "description": "We just wanna rock you all night long.",
-  "num_followers": 219696,
+  "num_followers": 219751,
   "original_name": "Disco Hi-Life",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNWM3MDc3ZWFmOTJkMzIyN2M3ZmE4MTRjYjVjNmE4ZGVlZjEyNDYw",
+  "snapshot_id": "MCwyZDhkNmM1Y2Q4ZjNlZWEwMGFlMzJlYWZiYTI2M2QyNTg4ZDAxNWM1",
   "tracks": [
     {
       "added_at": "2022-09-05 16:54:43",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
-      },
-      "artists": [
-        {
-          "name": "Indeep",
-          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
-        }
-      ],
-      "duration_ms": 341426,
-      "name": "Last Night a D.J. Saved My Life",
-      "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "The Best of Delegation",
         "url": "https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 316266,
       "name": "You and I",
       "url": "https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1"
+      },
+      "artists": [
+        {
+          "name": "Indeep",
+          "url": "https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h"
+        }
+      ],
+      "duration_ms": 341426,
+      "name": "Last Night a D.J. Saved My Life",
+      "url": "https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X"
     },
     {
       "added_at": "2022-09-05 16:54:43",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2022-09-05 16:54:43",
       "album": {
-        "name": "Disco Illusion",
-        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
-      },
-      "artists": [
-        {
-          "name": "Stephen Encinas",
-          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
-        }
-      ],
-      "duration_ms": 284985,
-      "name": "Lypso Illusion",
-      "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
-    },
-    {
-      "added_at": "2022-09-05 16:54:43",
-      "album": {
         "name": "Raw Silk Vol. 1",
         "url": "https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 251653,
       "name": "Saturday Jam",
       "url": "https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD"
+    },
+    {
+      "added_at": "2022-09-05 16:54:43",
+      "album": {
+        "name": "Disco Illusion",
+        "url": "https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9"
+      },
+      "artists": [
+        {
+          "name": "Stephen Encinas",
+          "url": "https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5"
+        }
+      ],
+      "duration_ms": 284985,
+      "name": "Lypso Illusion",
+      "url": "https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N"
     }
   ],
   "unique_name": "Disco Hi-Life",

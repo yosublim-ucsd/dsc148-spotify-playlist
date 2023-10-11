@@ -1294,7 +1294,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 141212,
       "name": "Amen (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/0Mrnt1YqVuW2bqmwu4VxDt"
@@ -4928,7 +4928,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 120000,
       "name": "D.N.D.",
       "url": "https://open.spotify.com/track/2VwCWeNBekU08ls7YbxJRL"
@@ -14922,7 +14922,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 186623,
       "name": "Letters From The Past",
       "url": "https://open.spotify.com/track/1h5ac7iBaSOFknqPf0W4li"
@@ -17666,6 +17666,24 @@
       "duration_ms": 389107,
       "name": "My Little Love",
       "url": "https://open.spotify.com/track/2DuPBbS5mIldXnh7Wum8Cy"
+    },
+    {
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
       "album": {

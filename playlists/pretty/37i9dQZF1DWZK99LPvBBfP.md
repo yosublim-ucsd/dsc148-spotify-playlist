@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,341 likes - 80 songs - 6 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 231,465 likes - 80 songs - 6 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 35 | [Offshore](https://open.spotify.com/track/4jy7tsWx2FZjXspLV5uZkQ) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Far From The Maddening Crowds](https://open.spotify.com/album/38STXsjk42fP4pBr8dHgi3) | 6:57 |
 | 36 | [We Come 1 \- Radio Edit](https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Faithless 2.0](https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O) | 3:42 |
 | 37 | [Café Del Mar \- Three 'n One Radio Edit](https://open.spotify.com/track/791WQUn8PePLamJVPgGKZC) | [Energy 52](https://open.spotify.com/artist/0sElgscu7tp38PM1MtsUz7), [Three 'N One](https://open.spotify.com/artist/2IKWO17lkL7nUKTzd9opi0) | [Café Del Mar: The Best of the Remixes](https://open.spotify.com/album/6ovkQXabRgialkTUgF3Jun) | 3:49 |
-| 38 | [Finally](https://open.spotify.com/track/1BeZ3neH8aQioMKccVHdS9) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX) | [It's In the Lifestyle \(Limited Edition\)](https://open.spotify.com/album/3vAbdq0NCzDbPKlo3qejkt) | 5:15 |
-| 39 | [Situation](https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 5:46 |
+| 38 | [Situation](https://open.spotify.com/track/1QlogZxaAT35c3HqjJt1JH) | [Yazoo](https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs) | [Upstairs At Eric's](https://open.spotify.com/album/47FOg0GaQDPGTbBTHDXg9V) | 5:46 |
+| 39 | [Finally](https://open.spotify.com/track/1BeZ3neH8aQioMKccVHdS9) | [Kings Of Tomorrow](https://open.spotify.com/artist/2b8d0BREA7r3nbVhD649yX) | [It's In the Lifestyle \(Limited Edition\)](https://open.spotify.com/album/3vAbdq0NCzDbPKlo3qejkt) | 5:15 |
 | 40 | [Go](https://open.spotify.com/track/0e8C9dPERvvARURkNOFrrC) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Moby](https://open.spotify.com/album/1slROdhMf4S9kwLHGfMrSk) | 3:37 |
 | 41 | [Big Fun](https://open.spotify.com/track/4PyhlL1vrSvPlhYLdphszr) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp) | [Paradise](https://open.spotify.com/album/2CwxbRPETEraKmAKDNrEcs) | 3:26 |
 | 42 | [Past](https://open.spotify.com/track/2xtxL91lK4jlKkZ0RBC7EQ) | [Sub Sub](https://open.spotify.com/artist/7GWspDz4ebIKpeZwtYYvKm) | [Full Fathom Five](https://open.spotify.com/album/0TyQpOi3Ws2QydVDFgT0tL) | 2:55 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 79 | [Body Language \- Original Mix](https://open.spotify.com/track/52wJfSCcUt8qFkU0KYvQ4S) | [M.A.N.D.Y.](https://open.spotify.com/artist/20O4Ik25BbWfWBz0kZtsxX), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Body Language](https://open.spotify.com/album/6WCgNMIXZ6V0SUMASwL9UV) | 7:18 |
 | 80 | [E Samba \- Club Mix](https://open.spotify.com/track/0piWS6CqL9AqUp62YmdhPV) | [Junior Jack](https://open.spotify.com/artist/583EYzsIVCz1HsEKZbuJ1k) | [Defected Presents House Masters \- Junior Jack](https://open.spotify.com/album/6R5BuoO5JiRKNM8N8OY4bw) | 7:13 |
 
-Snapshot ID: `MCw3YWQ2ODNlMTQwMTc4ZTdkMzQ2ZDEwNzFkZTllZWNlOTM5ZTc2MTcz`
+Snapshot ID: `MCwyNzI3Njg0Y2NmZTMwODVjYTkyMzBiNzc1NDUwMmM4NWQ0OTBjMWI5`

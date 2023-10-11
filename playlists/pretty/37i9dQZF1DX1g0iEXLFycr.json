@@ -1,12 +1,12 @@
 {
   "description": "Uplifting anthems to power you through 'til the weekend.",
-  "num_followers": 1086176,
+  "num_followers": 1086062,
   "original_name": "Feel Good Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDMwMzU0NGQ0MTExOTk5YTljMDg3YTliZDVkZTk1MWE1ZGFjOWY2",
+  "snapshot_id": "MCwzZWM5YmM4YjcyMDVmOWIwMTUwMDgwZTY1NmM2NzI4YTlkZThmYjc1",
   "tracks": [
     {
       "added_at": "2020-08-27 16:10:25",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2020-08-27 16:10:25",
       "album": {
-        "name": "Sing When You're Winning",
-        "url": "https://open.spotify.com/album/0fpjbJvjq6Zxj8xoIjX31m"
-      },
-      "artists": [
-        {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
-        }
-      ],
-      "duration_ms": 260560,
-      "name": "Rock DJ",
-      "url": "https://open.spotify.com/track/7oQSevUCbYs4QawXTHQVV1"
-    },
-    {
-      "added_at": "2020-08-27 16:10:25",
-      "album": {
         "name": "A Million Lights (Deluxe Version)",
         "url": "https://open.spotify.com/album/2mduHypWQwgRXMQ9kEFssu"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 207975,
       "name": "Call My Name",
       "url": "https://open.spotify.com/track/5o7TXypciBNWzWLE6Hdzuz"
+    },
+    {
+      "added_at": "2020-08-27 16:10:25",
+      "album": {
+        "name": "Sing When You're Winning",
+        "url": "https://open.spotify.com/album/0fpjbJvjq6Zxj8xoIjX31m"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 260560,
+      "name": "Rock DJ",
+      "url": "https://open.spotify.com/track/7oQSevUCbYs4QawXTHQVV1"
     },
     {
       "added_at": "2020-08-27 16:10:25",

@@ -1,12 +1,12 @@
 {
   "description": "Unwind in time to these 70s classics.",
-  "num_followers": 279854,
+  "num_followers": 279929,
   "original_name": "Unwind 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTBiYjc1MDgxNzg1Mzc2NTBlMWI2YWVlNDJjMTY1ZGI4OTNkYmU0",
+  "snapshot_id": "MCxiOTRkNzk3NTRjYmE5YjU5ODJlZDNlMTU2MWYyMTAyOTQzYjVhMzFk",
   "tracks": [
     {
       "added_at": "2022-03-27 23:14:12",
@@ -239,22 +239,6 @@
     {
       "added_at": "2022-03-27 23:14:12",
       "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
-    },
-    {
-      "added_at": "2022-03-27 23:14:12",
-      "album": {
         "name": "Bigger Than Both Of Us",
         "url": "https://open.spotify.com/album/5TNzBp7QYsXIHrI5xxVuic"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 142786,
       "name": "Rich Girl",
       "url": "https://open.spotify.com/track/0qRR9d89hIS0MHRkQ0ejxX"
+    },
+    {
+      "added_at": "2022-03-27 23:14:12",
+      "album": {
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
     },
     {
       "added_at": "2022-03-27 23:14:12",
@@ -435,22 +435,6 @@
     {
       "added_at": "2022-03-27 23:14:12",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 256426,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
-    },
-    {
-      "added_at": "2022-03-27 23:14:12",
-      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 187866,
       "name": "Imagine - Remastered 2010",
       "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
+    },
+    {
+      "added_at": "2022-03-27 23:14:12",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 256426,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1JQ6Xm1JrvHfvAqhl5pwaA"
     },
     {
       "added_at": "2022-03-27 23:14:12",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-03-27 23:14:12",
       "album": {
-        "name": "Breakfast In America (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
-      },
-      "artists": [
-        {
-          "name": "Supertramp",
-          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
-        }
-      ],
-      "duration_ms": 251253,
-      "name": "The Logical Song - Remastered 2010",
-      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
-    },
-    {
-      "added_at": "2022-03-27 23:14:12",
-      "album": {
         "name": "Dancing in the Moonlight",
         "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 181133,
       "name": "Dancing in the Moonlight",
       "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
+    },
+    {
+      "added_at": "2022-03-27 23:14:12",
+      "album": {
+        "name": "Breakfast In America (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
+      },
+      "artists": [
+        {
+          "name": "Supertramp",
+          "url": "https://open.spotify.com/artist/3JsMj0DEzyWc0VDlHuy9Bx"
+        }
+      ],
+      "duration_ms": 251253,
+      "name": "The Logical Song - Remastered 2010",
+      "url": "https://open.spotify.com/track/6mHOcVtsHLMuesJkswc0GZ"
     },
     {
       "added_at": "2022-03-27 23:14:12",

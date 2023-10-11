@@ -2,7 +2,7 @@
 
 ### [Baby Sleep Aid Rain Sounds](https://open.spotify.com/playlist/37i9dQZF1DXdp5bwJ1FHFe)
 
-> Relaxing rain sounds for sleepy babies.
+> Sonidos relajantes de lluvia para bebés dormilones.
 
 239 songs - 11 hr 17 min
 
@@ -44,7 +44,7 @@
 | [Det Regnar](https://open.spotify.com/track/0M3WuiuXXtxT1g2uAydhSs) | [Regnmannen](https://open.spotify.com/artist/64tKbWpanYm2SDHGclvjSj) | [Regnmannen](https://open.spotify.com/album/61sPEWCE2jjChul4Xs66Tn) | 3:12 | 2022-04-07 |  |
 | [Distant Rain](https://open.spotify.com/track/5yvsWvwVq8bYrltqTi9TxJ) | [Pacific Rain](https://open.spotify.com/artist/1bgpRrszIfYOXgzXcR02jP) | [Distant Rain](https://open.spotify.com/album/5hy25TSUbMLRjGzyQp0FMR) | 3:28 | 2022-04-07 |  |
 | [Distant Rain Pt\. 1](https://open.spotify.com/track/72pW7y6bP3EFB46VI06Ji1) | [Brainwave Samples](https://open.spotify.com/artist/3yivOlARUBTtzvsacIgLb7) | [Distant Rain](https://open.spotify.com/album/1SlwaQ3UQq8qYbTdTpFiSQ) | 2:50 | 2022-04-07 |  |
-| [Divine Drops](https://open.spotify.com/track/1AYRQcbxDoDsRlCgpxqjjs) | [Okami Sky](https://open.spotify.com/artist/3UjdSZhRRq4rEZ3K2HQWIP) | [Divine Drops](https://open.spotify.com/album/1YoCawYKVJKWWoZp97VC0T) | 2:40 | 2022-04-07 | 2023-10-05 |
+| [Divine Drops](https://open.spotify.com/track/1AYRQcbxDoDsRlCgpxqjjs) | [Okami Sky](https://open.spotify.com/artist/3UjdSZhRRq4rEZ3K2HQWIP) | [Divine Drops](https://open.spotify.com/album/1YoCawYKVJKWWoZp97VC0T) | 2:40 | 2022-04-07 |  |
 | [Divine Sleep](https://open.spotify.com/track/1z6QujIsfrLI9RjR2vBRj0) | [Tranquility Spree](https://open.spotify.com/artist/5TwGqGqJXW0bmSzmdCKLp7) | [Divine Sleep](https://open.spotify.com/album/5E3Jk03J3a6pr8tbIL1KAL) | 2:40 | 2022-04-07 |  |
 | [Dock Rain 독 비](https://open.spotify.com/track/5Xn5HO5wAQS1ya8fmJMkAQ) | [sumyeon uisa 수면 의사](https://open.spotify.com/artist/2o0U8zZEXzdcTHWnbGQt4X) | [Dock Rain](https://open.spotify.com/album/00N23ZtewpOkwzYpluaZzf) | 2:07 | 2022-04-07 |  |
 | [Don't Mind The Rain](https://open.spotify.com/track/0MaiuoWpYrbJVeCibetT3k) | [R\. Guru](https://open.spotify.com/artist/1J6XFH9yaFImOmbaAWAx48) | [Don't Mind The Rain](https://open.spotify.com/album/3YIFklxeh8I6NljMqk1CEP) | 3:12 | 2022-04-07 |  |
@@ -53,7 +53,7 @@
 | [Dreamy Rain](https://open.spotify.com/track/4MkRYtYntl1YpyjeXLMP1B) | [Oasis of Sleep](https://open.spotify.com/artist/1BhI98thKFuBTeSvxFDd3g) | [Dreamy Rain](https://open.spotify.com/album/2ubzY0tGpiExYeNVvA89eI) | 2:48 | 2022-04-07 |  |
 | [Dreamy Rain](https://open.spotify.com/track/0oSU0oQ4xp3H6sMh1In9W8) | [Rainded](https://open.spotify.com/artist/0fHeyixPnac66k5oBPclVW) | [Skyscraps](https://open.spotify.com/album/6GsRwYmzOWbrMDXtBUmkCN) | 2:31 | 2022-04-07 |  |
 | [dripping rain](https://open.spotify.com/track/6C2FGz9oUL6iLXkkFKhrfZ) | [lumen](https://open.spotify.com/artist/6wtLDIGKKFNj1SgEJgkfVu) | [rain me to sleep](https://open.spotify.com/album/15FPonuOwe3Ls9363HwWXK) | 3:28 | 2022-04-07 | 2023-07-04 |
-| [Drops Of Rain](https://open.spotify.com/track/3FEbGo3HICXw4tKZ10I2QM) | [Skies of Rain](https://open.spotify.com/artist/5zXNGEbDUFyv5w4jN9V496) | [Drops Of Rain](https://open.spotify.com/album/6CnU8uUkd2rIGzOytJuQao) | 2:58 | 2022-04-07 |  |
+| [Drops Of Rain](https://open.spotify.com/track/3FEbGo3HICXw4tKZ10I2QM) | [Skies of Rain](https://open.spotify.com/artist/5zXNGEbDUFyv5w4jN9V496) | [Drops Of Rain](https://open.spotify.com/album/6CnU8uUkd2rIGzOytJuQao) | 2:58 | 2022-04-07 | 2023-10-11 |
 | [Earth Rain](https://open.spotify.com/track/678emSwcNj7TVaNlFRt2DC) | [Celestial Noise](https://open.spotify.com/artist/6UxIoQdnDknYEYsVX61G9z) | [Space Rain](https://open.spotify.com/album/456q0OuTOQvx6QuVxdmB3K) | 3:41 | 2022-04-07 |  |
 | [Earthly Breeze Rain](https://open.spotify.com/track/3qUTSu08pdZb2fR5aAskKP) | [Mother Nature Sound FX](https://open.spotify.com/artist/4lrOh2SR7H3guHky2lAYOk) | [Tranquil Rain](https://open.spotify.com/album/0Mmvg8rBE91sWDrdMNzeJm) | 2:16 | 2022-04-07 |  |
 | [Endless Rain Loop](https://open.spotify.com/track/3MU3OGBU2fJS23fIU3JE8s) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [Clean Rain](https://open.spotify.com/album/5ejOmM66rpAkjk3Y8BGzQB) | 3:56 | 2022-04-07 |  |

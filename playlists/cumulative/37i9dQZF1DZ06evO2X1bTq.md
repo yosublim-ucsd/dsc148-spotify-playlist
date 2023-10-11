@@ -4,12 +4,13 @@
 
 > This is U2\. The essential tracks, all in one playlist.
 
-71 songs - 5 hr 9 min
+72 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [11 O'Clock Tick Tock \- Songs Of Surrender](https://open.spotify.com/track/7wAbGha9YKADhOCmNRnlu1) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 3:58 | 2023-03-19 | 2023-06-11 |
 | [All I Want Is You](https://open.spotify.com/track/34sL4eaI8UKWOyYpCvoboU) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Rattle And Hum](https://open.spotify.com/album/7hIoJcH4ObWasDFq78u1x9) | 6:29 | 2022-10-24 |  |
+| [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-10-10 |  |
 | [Bad \- Edit](https://open.spotify.com/track/3fOsKEaGwhp9TRgJnrMA2z) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Best Of 1980 \- 1990](https://open.spotify.com/album/0WSpHK6tinGHU4gvP8fHih) | 5:49 | 2022-10-24 |  |
 | [Bad \- Remastered 2009](https://open.spotify.com/track/6TQ7XVKcCQcfCEmv0QYYV8) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Unforgettable Fire \(Remastered\)](https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3) | 6:08 | 2023-02-03 | 2023-02-26 |
 | [Bad \- Songs Of Surrender](https://open.spotify.com/track/2Xnbnmo8pIBbfkcgEBVydz) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Songs Of Surrender](https://open.spotify.com/album/3fqPfbVHsvdpovpJXOJlvU) | 5:31 | 2023-03-24 | 2023-05-15 |

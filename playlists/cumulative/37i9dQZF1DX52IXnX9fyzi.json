@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Always Shining Bright",
+        "url": "https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A"
+      },
+      "artists": [
+        {
+          "name": "Sheila Withmore",
+          "url": "https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136107,
+      "name": "Always Shining Bright",
+      "url": "https://open.spotify.com/track/4s561TKv61mdyVq98FtbNk"
+    },
+    {
+      "album": {
         "name": "Am Arbersee",
         "url": "https://open.spotify.com/album/6fCYKO0Zd3eUALoZh2viCB"
       },
@@ -1140,6 +1158,24 @@
       "duration_ms": 139661,
       "name": "Coastal",
       "url": "https://open.spotify.com/track/4qY01pTRNtpqB9vAYXipiy"
+    },
+    {
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S"
+      },
+      "artists": [
+        {
+          "name": "Catherine Peterson",
+          "url": "https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155750,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c"
     },
     {
       "album": {
@@ -2173,6 +2209,24 @@
     },
     {
       "album": {
+        "name": "Hat full of candles",
+        "url": "https://open.spotify.com/album/6egJetQktX1XDBVLpAcvOe"
+      },
+      "artists": [
+        {
+          "name": "Lupe Sinsonte",
+          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Hat full of candles",
+      "url": "https://open.spotify.com/track/3Ap6yfaMLSbcHsTcx5Y967"
+    },
+    {
+      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/69L1ipjKws5rY7QuECAicd"
       },
@@ -2422,6 +2476,24 @@
       "duration_ms": 181725,
       "name": "I know you're there",
       "url": "https://open.spotify.com/track/5WGYWJw11o7urLQDU6p3Pg"
+    },
+    {
+      "album": {
+        "name": "I'll Be Around",
+        "url": "https://open.spotify.com/album/2A01x4zvltCBhOa8cpl9mf"
+      },
+      "artists": [
+        {
+          "name": "Gavin Luke",
+          "url": "https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190875,
+      "name": "I'll Be Around",
+      "url": "https://open.spotify.com/track/4UJ8IkZl3qhcRLFdZ9XyY5"
     },
     {
       "album": {
@@ -2782,7 +2854,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 110000,
       "name": "Just For Now",
       "url": "https://open.spotify.com/track/2mmkokfVO72zAHkz9OTRZO"
@@ -2908,7 +2980,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 126500,
       "name": "Komorebi",
       "url": "https://open.spotify.com/track/4e8dECQ4wRfLn2nXfkOuqC"
@@ -4622,7 +4694,7 @@
       ],
       "date_added": "2022-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 129789,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/1qXzQi8CxX0Y5JqZ22m1zy"
@@ -5024,6 +5096,24 @@
       "duration_ms": 141250,
       "name": "Semplice",
       "url": "https://open.spotify.com/track/7nvmbWRwKohWwRnp5vmbzU"
+    },
+    {
+      "album": {
+        "name": "Serendipity",
+        "url": "https://open.spotify.com/album/2wNAbEjhncEufCUqKmG848"
+      },
+      "artists": [
+        {
+          "name": "Pablo Jean Baptiste",
+          "url": "https://open.spotify.com/artist/5gtl7HjPLF8fDkzHiAyfnV"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Serendipity",
+      "url": "https://open.spotify.com/track/0Ks7CrwX6VtU8nK7nylC9f"
     },
     {
       "album": {

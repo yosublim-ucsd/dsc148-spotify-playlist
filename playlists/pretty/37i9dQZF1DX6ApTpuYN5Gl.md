@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,236 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,392 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 22 | [You've Done Enough](https://open.spotify.com/track/77VqW84V88aKD8Bi8CzEsP) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [Olympia](https://open.spotify.com/album/3r4dG6bUfL4jasKeo50kLE) | 3:32 |
 | 23 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
 | 24 | [Oceans](https://open.spotify.com/track/2eVofaQRJvddSUBfcub7Gz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Oceans](https://open.spotify.com/album/6kfKntjGEwjKUL7q43j5rO) | 4:39 |
-| 25 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 |
-| 26 | [Dancing Thing](https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Dancing Thing](https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr) | 3:04 |
+| 25 | [Dancing Thing](https://open.spotify.com/track/4M2pTJYh02HGpH3KqkGvoP) | [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Dancing Thing](https://open.spotify.com/album/3Lc3AX7Ta7WsefbEAFplQr) | 3:04 |
+| 26 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 |
 | 27 | [Beyond the Fire](https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Beyond the Fire](https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1) | 3:48 |
 | 28 | [On My Mind](https://open.spotify.com/track/55Qwa5Sfzx4ab7Q2MBhgas) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Kezano](https://open.spotify.com/artist/0Le6TvnuhTKjcrNYENXDX4) | [On My Mind](https://open.spotify.com/album/4pDIOPC2fdiaPJFlyTBJmE) | 2:16 |
 | 29 | [Through the Fire](https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Through the Fire](https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB) | 2:29 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 44 | [Love Like We're Dying](https://open.spotify.com/track/1jyIQoMPkCD6Pz1x1pzZs5) | [Scorz](https://open.spotify.com/artist/2WSmz7fObdRrG8ZTXz7kcn), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp) | [Love Like We're Dying](https://open.spotify.com/album/4G1MoyjTIErFuPYNV2WJad) | 3:03 |
 | 45 | [All In My Head](https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9) | [All In My Head](https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F) | 2:33 |
 | 46 | [Alone Together](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Georgia Blackwell](https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq) | [Alone Together](https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE) | 3:19 |
-| 47 | [Over You](https://open.spotify.com/track/7dTkiXLxCLpAquNt3MulYB) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Over You](https://open.spotify.com/album/1a8j1xt8u7J9ozOgZVm9AI) | 2:51 |
-| 48 | [Afterlife](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Afterlife](https://open.spotify.com/album/4B1YBavH7Qp0X6mAS3L9xO) | 3:12 |
+| 47 | [Afterlife](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Afterlife](https://open.spotify.com/album/4B1YBavH7Qp0X6mAS3L9xO) | 3:12 |
+| 48 | [Over You](https://open.spotify.com/track/7dTkiXLxCLpAquNt3MulYB) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Over You](https://open.spotify.com/album/1a8j1xt8u7J9ozOgZVm9AI) | 2:51 |
 | 49 | [Something About](https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ) | [CRi](https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi) | [Something About](https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM) | 3:44 |
 | 50 | [Hiding](https://open.spotify.com/track/3hcAYNfSHm1opoJ1Jhkrch) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Hiding](https://open.spotify.com/album/6s2VNewtJumECtFLbf3iC3) | 3:40 |
 
-Snapshot ID: `MCxjZGE4NzVjODg5ZTZhNzU5MmQ3N2Y4ODkwMjQwYTg4OGQ4Y2JkYWUx`
+Snapshot ID: `MCxjYjVkN2EzNmU3ZDI4ZmQwODhkNDYwOTM4YWYwZWZjYmE1N2I1ZmY3`

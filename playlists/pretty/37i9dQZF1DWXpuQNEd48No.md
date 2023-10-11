@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: MC SQUARE
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,411 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,493 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 17 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 |
 | 18 | [No Mercy](https://open.spotify.com/track/5vdsRp6ExGxmfuJ2cG5Kqx) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Desi Melbourniye](https://open.spotify.com/artist/3ZDK52wRO5QRwoW3QyyRfH) | [No Mercy](https://open.spotify.com/album/0ig0cN50Yv63nJs0O0LyZo) | 3:05 |
 | 19 | [Ram Ram](https://open.spotify.com/track/64jX14ntYSUd1lbzVgBMr6) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF) | [Mtv Hustle 2.0](https://open.spotify.com/album/2WbTyQKy64ReQPkxN4pR8R) | 3:29 |
-| 20 | [12 Bore](https://open.spotify.com/track/45BRHFObplu7mg7PAOUB0M) | [Rahul Kadyan](https://open.spotify.com/artist/4Clvkor0pUXm35Gdz0fbJt) | [12 Bore](https://open.spotify.com/album/04nAiiHzOLmmCG6zT12e7g) | 3:21 |
-| 21 | [Chore Haryana Aale](https://open.spotify.com/track/1bbbcdT3UhWkSIXH0FzipI) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Chore Haryana Aale](https://open.spotify.com/album/4uH6nJZ7YA3GpeaBZccaCC) | 2:58 |
+| 20 | [Chore Haryana Aale](https://open.spotify.com/track/1bbbcdT3UhWkSIXH0FzipI) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY), [The LeKhak](https://open.spotify.com/artist/4mXXjQa72yzGxqboQMSqiT) | [Chore Haryana Aale](https://open.spotify.com/album/4uH6nJZ7YA3GpeaBZccaCC) | 2:58 |
+| 21 | [12 Bore](https://open.spotify.com/track/45BRHFObplu7mg7PAOUB0M) | [Rahul Kadyan](https://open.spotify.com/artist/4Clvkor0pUXm35Gdz0fbJt) | [12 Bore](https://open.spotify.com/album/04nAiiHzOLmmCG6zT12e7g) | 3:21 |
 | 22 | [Desi Haan Ji](https://open.spotify.com/track/1LXUJ62m2Ak7ZuXSxkftgW) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K), [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe) | [Desi Haan Ji](https://open.spotify.com/album/4iFoZiTsA7Q6aSrB5EIETo) | 3:53 |
 | 23 | [Shok Albaadi](https://open.spotify.com/track/5cJlyLJumez6qSJyhfoDD7) | [Monty Badanpur](https://open.spotify.com/artist/0sS5ed7XGTBxG0PhOK8SYa) | [Shok Albaadi](https://open.spotify.com/album/3qXAk8FMwN1oY4y4QQeUFw) | 2:50 |
 | 24 | [32 Bore](https://open.spotify.com/track/0EPQT3CkZHMHIJvCFZqYke) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy) | [32 Bore](https://open.spotify.com/album/5uneWMrAfrjpvrKOZ9nGdC) | 2:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 49 | [Haryana Roadways](https://open.spotify.com/track/3zhGKnKeYa3f71ndZomZqn) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Haryana Roadways](https://open.spotify.com/album/4UoqnEe3bNT8RyULI2Z8iW) | 3:08 |
 | 50 | [Jaat Warriors](https://open.spotify.com/track/6oWxnsiYG5bj2tqhDcdlRY) | [BigMoney](https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE), [PRNCE SIDHU](https://open.spotify.com/artist/1qRoIdvXPOUe0Omn4NsFp4) | [Jaat Warriors](https://open.spotify.com/album/0XMUkwivt9uRvZtVhrSk4J) | 2:43 |
 
-Snapshot ID: `MCxlMzQ3YTZiNjgwODllY2NjMTVhMTliYjQ1MTEyMDIyOGIwOTVjNWIy`
+Snapshot ID: `MCw4YTg5Yjg3YzY3ZDJmYTdlOGM5Y2Y3NDczZGQ5MzY4MTc3ZmQ3Mzdh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > Plutonio e Vulgo FK entram na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,295 likes - 75 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,177 likes - 75 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 74 | [Deus é Pai](https://open.spotify.com/track/6fpBvRKhQuF3Ig678I6eOG) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Kuptz](https://open.spotify.com/artist/5LzaJ0lNZxQBkZxzOqJYkd) | [Deus é Pai](https://open.spotify.com/album/0YrZzoDGUdyGhoUxc2kaAE) | 2:51 |
 | 75 | [Peitto Feitto](https://open.spotify.com/track/7MuaeiBSGXeQQt4skDjdNU) | [Il\-Brutto](https://open.spotify.com/artist/2PhIdF7Do8K7sungAwRtj7), [Blasph](https://open.spotify.com/artist/5koOSepeZBSfzyHxyiHedQ), [9 Miller](https://open.spotify.com/artist/4yqP75Gm0jSMIS1gQ7s6lX) | [Peitto Feitto](https://open.spotify.com/album/2QijrWoTINhxq40VL8TQj5) | 3:38 |
 
-Snapshot ID: `MCwxYWFmNDk4MzIzMzU5MmRkNmE0ODgzOTRhOTJjMjI0OTA2MGUyMGI3`
+Snapshot ID: `MCw0YzU5MzQxNzAxY2ZkOWRjOGQwZDA2MTRlNzg2NDM0MTg3YzJlODU3`

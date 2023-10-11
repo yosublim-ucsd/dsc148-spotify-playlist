@@ -214,7 +214,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 269933,
       "name": "Ball and Chain",
       "url": "https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2022-09-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-03-05",
+      "date_removed": null,
       "duration_ms": 119038,
       "name": "Heat Wave - Mono Version",
       "url": "https://open.spotify.com/track/3IB71F5yOKijAjhzEMpwpk"
@@ -1094,6 +1094,24 @@
       "duration_ms": 213680,
       "name": "My Wife",
       "url": "https://open.spotify.com/track/04jUWHa4mIZKn7duaD2gXW"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Next : Life House (Super Deluxe)",
+        "url": "https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd"
+      },
+      "artists": [
+        {
+          "name": "The Who",
+          "url": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359920,
+      "name": "Naked Eye - Remake Version",
+      "url": "https://open.spotify.com/track/7B6DdL3oTVHvq6HvQB8RH2"
     },
     {
       "album": {
@@ -1648,7 +1666,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 337680,
       "name": "Too Much - Lifehouse Chronicles / Demo / Remastered 2022",
       "url": "https://open.spotify.com/track/7wMKxe4sp8O2AkCsXzAgrx"

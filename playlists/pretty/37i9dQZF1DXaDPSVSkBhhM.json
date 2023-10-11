@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pop-punk por siempre!",
-  "num_followers": 64988,
+  "num_followers": 65014,
   "original_name": "Escena Pop Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Yzk3YmM3ZDk0ZjM2NDBhZGM2OTg5ODUzMDQyMDcwMDVjMTlkZTFj",
+  "snapshot_id": "MCxkNmJiNjMyZDdhNWU4Y2RjM2EwNzJiNTI1ODc0OWU4ODBhOTQ3NTA0",
   "tracks": [
     {
       "added_at": "2023-09-22 06:00:00",
@@ -143,18 +143,18 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Ella Miente",
-        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
+        "name": "Delux",
+        "url": "https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl"
       },
       "artists": [
         {
-          "name": "Helian Evans",
-          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
+          "name": "Delux",
+          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
         }
       ],
-      "duration_ms": 139700,
-      "name": "Ella Miente",
-      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
+      "duration_ms": 168840,
+      "name": "M\u00e1s de Lo Que Te Imaginas",
+      "url": "https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -175,18 +175,18 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Delux",
-        "url": "https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl"
+        "name": "Ella Miente",
+        "url": "https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6"
       },
       "artists": [
         {
-          "name": "Delux",
-          "url": "https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz"
+          "name": "Helian Evans",
+          "url": "https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N"
         }
       ],
-      "duration_ms": 168840,
-      "name": "M\u00e1s de Lo Que Te Imaginas",
-      "url": "https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6"
+      "duration_ms": 139700,
+      "name": "Ella Miente",
+      "url": "https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Un X100To (Cover)",
-        "url": "https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN"
-      },
-      "artists": [
-        {
-          "name": "Pedro y el Lobo",
-          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
-        }
-      ],
-      "duration_ms": 166265,
-      "name": "Un X100To - Cover",
-      "url": "https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Humanos Como T\u00fa",
         "url": "https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 228920,
       "name": "Humanos Como T\u00fa",
       "url": "https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Un X100To (Cover)",
+        "url": "https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN"
+      },
+      "artists": [
+        {
+          "name": "Pedro y el Lobo",
+          "url": "https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak"
+        }
+      ],
+      "duration_ms": 166265,
+      "name": "Un X100To - Cover",
+      "url": "https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Dualidad",
-        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
-      },
-      "artists": [
-        {
-          "name": "Allison",
-          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
-        }
-      ],
-      "duration_ms": 223046,
-      "name": "Dualidad",
-      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Cereal",
         "url": "https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 161226,
       "name": "Cereal",
       "url": "https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Dualidad",
+        "url": "https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg"
+      },
+      "artists": [
+        {
+          "name": "Allison",
+          "url": "https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr"
+        }
+      ],
+      "duration_ms": 223046,
+      "name": "Dualidad",
+      "url": "https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m"
     },
     {
       "added_at": "2023-09-22 06:00:00",
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-09-22 06:00:00",
       "album": {
-        "name": "Ciencia Ficci\u00f3n",
-        "url": "https://open.spotify.com/album/1wzWJCTRw6p6vSTnsQIQtG"
-      },
-      "artists": [
-        {
-          "name": "Buen Viaje",
-          "url": "https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ"
-        }
-      ],
-      "duration_ms": 224735,
-      "name": "Ciencia Ficci\u00f3n",
-      "url": "https://open.spotify.com/track/4G8wj2dAQxmJMXuNHsEKyf"
-    },
-    {
-      "added_at": "2023-09-22 06:00:00",
-      "album": {
         "name": "Cometas",
         "url": "https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 183118,
       "name": "Cometas",
       "url": "https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL"
+    },
+    {
+      "added_at": "2023-09-22 06:00:00",
+      "album": {
+        "name": "Ciencia Ficci\u00f3n",
+        "url": "https://open.spotify.com/album/1wzWJCTRw6p6vSTnsQIQtG"
+      },
+      "artists": [
+        {
+          "name": "Buen Viaje",
+          "url": "https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ"
+        }
+      ],
+      "duration_ms": 224735,
+      "name": "Ciencia Ficci\u00f3n",
+      "url": "https://open.spotify.com/track/4G8wj2dAQxmJMXuNHsEKyf"
     },
     {
       "added_at": "2023-09-22 06:00:00",

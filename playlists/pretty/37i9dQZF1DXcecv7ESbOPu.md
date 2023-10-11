@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag! Lyssna på veckans hetaste nya releaser i New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,581 likes - 121 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,567 likes - 121 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 120 | [DJ Play A Christmas Song](https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [DJ Play A Christmas Song](https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8) | 3:29 |
 | 121 | [On My Love \- Live Acoustic](https://open.spotify.com/track/0CZ0NcS4jXLR4I2zM3FKGq) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love \(Live Acoustic\)](https://open.spotify.com/album/4dBBsaKdTO58KorP8Z9qc3) | 3:44 |
 
-Snapshot ID: `MCxiZjA2MmVjMDU1ZjVhMzAyMTg4Mzk2ODc4NTExN2QzMWI5ZmFiZWMz`
+Snapshot ID: `MCwwMWY2ZTFjOTA3OGNjOGRkOGZhM2U5YzdjNTNmNDc4MTI4M2NkOTg3`

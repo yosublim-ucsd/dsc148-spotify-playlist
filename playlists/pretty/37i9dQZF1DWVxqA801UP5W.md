@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 
 > All your favourite pop songs, remixed to perfection\. Cover: Hannah Laing
 
-[Spotify](https://open.spotify.com/user/spotify) - 452,246 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 452,252 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 7 | [Love Like This \- Mura Masa Remix](https://open.spotify.com/track/1wgYKTumhfVTlanuSQ67Jx) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Love Like This \(Mura Masa Remix\)](https://open.spotify.com/album/270xDX1gI4F98Hli76aDdP) | 2:43 |
 | 8 | [Rush \- Tom Santa Remix](https://open.spotify.com/track/6MxXe1BRJMl1Bu1NB1oKwU) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Tom Santa](https://open.spotify.com/artist/1dTEPvUhxpFzL7UMKHWFfZ) | [Rush \(Remixes\)](https://open.spotify.com/album/2YdP8LNldo2EPpJGlSN2Au) | 2:23 |
 | 9 | [Bittersweet Goodbye \- Tiësto’s Hardcore Remix](https://open.spotify.com/track/4UWDgSvethiugRKFdbaiik) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Bittersweet Goodbye \(Tiësto’s Hardcore Remix\)](https://open.spotify.com/album/3PELjYBsaayCNLTWJARJ4P) | 2:38 |
-| 10 | [0800 HEAVEN \(feat\. Ella Henderson\) \- Ben Nicky Remix](https://open.spotify.com/track/1Iz54kcegQGncuWqO9JEem) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN \(Ben Nicky Remix\)](https://open.spotify.com/album/0VnydGXs0wcPueO5XjSNr7) | 2:24 |
+| 10 | [0800 HEAVEN \(feat\. Ella Henderson\) \- Ben Nicky Remix](https://open.spotify.com/track/3BAmNWlTP90FfHkvXd6tq0) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN \(feat\. Ella Henderson\) \[Ben Nicky Remix\]](https://open.spotify.com/album/2zD8miHJaNZvAByGuDsLY8) | 2:24 |
 | 11 | [Lavender Haze \- Snakehips Remix](https://open.spotify.com/track/6F67FNdOBNMFzxdj1CQ5pL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP) | [Lavender Haze \(Remixes\)](https://open.spotify.com/album/5LyzI39gkePgpHz38bEQIr) | 3:07 |
 | 12 | [So Much In Love \- Sub Focus Remix](https://open.spotify.com/track/5AWwWvLjBsttSyFXBaNdsy) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [So Much In Love \(Remixes\)](https://open.spotify.com/album/3YY2xK0tFsg6Fp81z5G7jm) | 3:55 |
 | 13 | [How Does It Feel \- Joel Corry Remix](https://open.spotify.com/track/6VGhytFFk1k9xIzkRsYLZQ) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [How Does It Feel \(Joel Corry Remix\)](https://open.spotify.com/album/6ko9r3KK7mLahvJoQVEQ9U) | 2:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxqA801UP5W.md) - [plain]
 | 49 | [Good Ones \- Joel Corry Remix](https://open.spotify.com/track/2Jt8OOQV33kCWJs7ojOCUJ) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Good Ones \(Joel Corry Remix\)](https://open.spotify.com/album/6gSdPxoDUwQ7ClDwEsq7gv) | 2:45 |
 | 50 | [Say So \(Jax Jones Midnight Snack Remix\)](https://open.spotify.com/track/7qrO2oI0A9DW6wQPjSADxx) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr) | [Say So \(Jax Jones Midnight Snack Remix\)](https://open.spotify.com/album/6pbeqvCzbgBigh3zo8SSit) | 3:30 |
 
-Snapshot ID: `MCxiNzAyYWVmNjkxNjk5ODIzNTEwZjAzNWZlZjA2NTZiZDY2NmIxNGVl`
+Snapshot ID: `MCw4MTliMTdiNjBiYTNjN2MyZDQ0NmMzNmVlOTZiMWRhODY0NWQ0OTZi`

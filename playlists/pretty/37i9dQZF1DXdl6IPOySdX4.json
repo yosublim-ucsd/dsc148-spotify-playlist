@@ -1,12 +1,12 @@
 {
   "description": "you up?",
-  "num_followers": 1541435,
+  "num_followers": 1544208,
   "original_name": "goosebumps",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTk5MzcxZDk3ZTlkNzcyYjcyNWFlNDVhNGRiODE1Zjg1OTQ5N2Y5",
+  "snapshot_id": "MCw0OTRiZGY0MjE1OTBjMjkxOTc3ZTEzZTAyZmNlZDAzODliYzczNzBk",
   "tracks": [
     {
       "added_at": "2023-09-29 16:11:55",
@@ -423,18 +423,22 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
-        "name": "ANTI (Deluxe)",
-        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
+        "name": "My Dear Melancholy,",
+        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
       },
       "artists": [
         {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Gesaffelstein",
+          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Love On The Brain",
-      "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
+      "duration_ms": 241066,
+      "name": "I Was Never There",
+      "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
     },
     {
       "added_at": "2023-09-29 16:11:55",
@@ -475,22 +479,18 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
-        "name": "My Dear Melancholy,",
-        "url": "https://open.spotify.com/album/4qZBW3f2Q8y0k1A84d4iAO"
+        "name": "ANTI (Deluxe)",
+        "url": "https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u"
       },
       "artists": [
         {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Gesaffelstein",
-          "url": "https://open.spotify.com/artist/3hteYQFiMFbJY7wS0xDymP"
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 241066,
-      "name": "I Was Never There",
-      "url": "https://open.spotify.com/track/1cKHdTo9u0ZymJdPGSh6nq"
+      "duration_ms": 224000,
+      "name": "Love On The Brain",
+      "url": "https://open.spotify.com/track/5oO3drDxtziYU2H1X23ZIp"
     },
     {
       "added_at": "2023-09-29 16:11:55",
@@ -635,18 +635,22 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
-        "name": "Hard To Imagine The Neighbourhood Ever Changing",
-        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
       },
       "artists": [
         {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
         }
       ],
-      "duration_ms": 153000,
-      "name": "You Get Me So High",
-      "url": "https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS"
+      "duration_ms": 278179,
+      "name": "Get You (feat. Kali Uchis)",
+      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
     },
     {
       "added_at": "2023-09-29 16:11:55",
@@ -667,22 +671,18 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 278179,
-      "name": "Get You (feat. Kali Uchis)",
-      "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
+      "duration_ms": 153000,
+      "name": "You Get Me So High",
+      "url": "https://open.spotify.com/track/7zwn1eykZtZ5LODrf7c0tS"
     },
     {
       "added_at": "2023-09-29 16:11:55",
@@ -743,6 +743,26 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
+        "name": "Freudian",
+        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        },
+        {
+          "name": "H.E.R.",
+          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
+        }
+      ],
+      "duration_ms": 209831,
+      "name": "Best Part (feat. H.E.R.)",
+      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+    },
+    {
+      "added_at": "2023-09-29 16:11:55",
+      "album": {
         "name": "BALLADS 1",
         "url": "https://open.spotify.com/album/34GQP3dILpyCN018y2k61L"
       },
@@ -791,22 +811,6 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "Streets",
-      "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
-    },
-    {
-      "added_at": "2023-09-29 16:11:55",
-      "album": {
         "name": "Novacane",
         "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
       },
@@ -823,38 +827,34 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
-        "name": "More Life",
-        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 219692,
-      "name": "Teenage Fever",
-      "url": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
+      "duration_ms": 226986,
+      "name": "Streets",
+      "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
     },
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
-        "name": "Freudian",
-        "url": "https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0"
+        "name": "NEVER ENOUGH",
+        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
       },
       "artists": [
         {
           "name": "Daniel Caesar",
           "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-        },
-        {
-          "name": "H.E.R.",
-          "url": "https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os"
         }
       ],
-      "duration_ms": 209831,
-      "name": "Best Part (feat. H.E.R.)",
-      "url": "https://open.spotify.com/track/1RMJOxR6GRPsBHL8qeC2ux"
+      "duration_ms": 225312,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
     },
     {
       "added_at": "2023-09-29 16:11:55",
@@ -871,6 +871,22 @@
       "duration_ms": 208853,
       "name": "Melting",
       "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
+    },
+    {
+      "added_at": "2023-09-29 16:11:55",
+      "album": {
+        "name": "More Life",
+        "url": "https://open.spotify.com/album/1lXY618HWkwYKJWBRYR4MK"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 219692,
+      "name": "Teenage Fever",
+      "url": "https://open.spotify.com/track/6n3HGiq4v35D6eFOSwqYuo"
     },
     {
       "added_at": "2023-09-29 16:11:55",
@@ -927,22 +943,6 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/4FdPaL1MvZtioq0Uf74Jau"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 230010,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/2jQiSYrwJehQAcuaaQrXnS"
-    },
-    {
-      "added_at": "2023-09-29 16:11:55",
-      "album": {
         "name": "WASTELAND",
         "url": "https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg"
       },
@@ -959,18 +959,18 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ"
+        "name": "0.1 flaws and all.",
+        "url": "https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0"
       },
       "artists": [
         {
-          "name": "80purppp",
-          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
+          "name": "wave to earth",
+          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
         }
       ],
-      "duration_ms": 122221,
-      "name": "Hex",
-      "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
+      "duration_ms": 263250,
+      "name": "bad",
+      "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
     },
     {
       "added_at": "2023-09-29 16:11:55",
@@ -991,34 +991,34 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
-        "name": "NEVER ENOUGH",
-        "url": "https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y"
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/1CPRTq5GLeZ9hn4igzS6uZ"
       },
       "artists": [
         {
-          "name": "Daniel Caesar",
-          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+          "name": "80purppp",
+          "url": "https://open.spotify.com/artist/4F9apzBcSE0OSfHYbxo4RF"
         }
       ],
-      "duration_ms": 225312,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus"
+      "duration_ms": 122221,
+      "name": "Hex",
+      "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
     },
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
-        "name": "0.1 flaws and all.",
-        "url": "https://open.spotify.com/album/0kT2Dn4QknHk92h76ZcMk0"
+        "name": "i'm yours",
+        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
       },
       "artists": [
         {
-          "name": "wave to earth",
-          "url": "https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg"
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
         }
       ],
-      "duration_ms": 263250,
-      "name": "bad",
-      "url": "https://open.spotify.com/track/5TZKpQFKCbIlWGD8DzHbC6"
+      "duration_ms": 145667,
+      "name": "i'm yours",
+      "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6"
     },
     {
       "added_at": "2023-09-29 16:11:55",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
-        "name": "i'm yours",
-        "url": "https://open.spotify.com/album/3Q25UtV9pHu7onNcKwmmZ3"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 145667,
-      "name": "i'm yours",
-      "url": "https://open.spotify.com/track/37vVp2sWHuuIBOSl1NswP6"
-    },
-    {
-      "added_at": "2023-09-29 16:11:55",
-      "album": {
         "name": "Bad Habit",
         "url": "https://open.spotify.com/album/69JpAhN3XgLkOsJ7MCtW4V"
       },
@@ -1071,22 +1055,6 @@
       "duration_ms": 232114,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
-    },
-    {
-      "added_at": "2023-09-29 16:11:55",
-      "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 158420,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
     },
     {
       "added_at": "2023-09-29 16:11:55",
@@ -1143,6 +1111,22 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/03nFfkhtHqQZZqprep3G6r"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 158420,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/0oufSLnKQDoBFX5mgkDCgR"
+    },
+    {
+      "added_at": "2023-09-29 16:11:55",
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -1159,22 +1143,6 @@
       "duration_ms": 239613,
       "name": "Open Arms (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF"
-    },
-    {
-      "added_at": "2023-09-29 16:11:55",
-      "album": {
-        "name": "Poison",
-        "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 212992,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
     },
     {
       "added_at": "2023-09-29 16:11:55",
@@ -1251,22 +1219,6 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 216680,
-      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
-      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
-    },
-    {
-      "added_at": "2023-09-29 16:11:55",
-      "album": {
         "name": "A 20 Something Fuck",
         "url": "https://open.spotify.com/album/4ThJUigPBlok72LoKGk2g1"
       },
@@ -1283,6 +1235,22 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2023-09-29 16:11:55",
+      "album": {
         "name": "eyes don't lie",
         "url": "https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT"
       },
@@ -1295,6 +1263,38 @@
       "duration_ms": 150720,
       "name": "eyes don't lie",
       "url": "https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX"
+    },
+    {
+      "added_at": "2023-09-29 16:11:55",
+      "album": {
+        "name": "Petals to Thorns",
+        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "duration_ms": 175875,
+      "name": "Sleep Well",
+      "url": "https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE"
+    },
+    {
+      "added_at": "2023-09-29 16:11:55",
+      "album": {
+        "name": "Poison",
+        "url": "https://open.spotify.com/album/17dsllSewkPuKbkGWU4chD"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 212992,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/5NijSs5dAwaIybq1GaRTIe"
     },
     {
       "added_at": "2023-09-29 16:11:55",
@@ -1319,22 +1319,6 @@
       "duration_ms": 238253,
       "name": "Private Landing (feat. Justin Bieber & Future)",
       "url": "https://open.spotify.com/track/52NGJPcLUzQq5w7uv4e5gf"
-    },
-    {
-      "added_at": "2023-09-29 16:11:55",
-      "album": {
-        "name": "Petals to Thorns",
-        "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
-      },
-      "artists": [
-        {
-          "name": "d4vd",
-          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-        }
-      ],
-      "duration_ms": 175875,
-      "name": "Sleep Well",
-      "url": "https://open.spotify.com/track/5ye1TParxcolbnNsOXO8qE"
     },
     {
       "added_at": "2023-09-29 16:11:55",
@@ -1511,6 +1495,26 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
+        "name": "Fell In Love",
+        "url": "https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 121283,
+      "name": "Fell In Love",
+      "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
+    },
+    {
+      "added_at": "2023-09-29 16:11:55",
+      "album": {
         "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
         "url": "https://open.spotify.com/album/4q4rHdKxyCzxuQrPcdjPyC"
       },
@@ -1531,26 +1535,6 @@
       "duration_ms": 204763,
       "name": "SAD GIRLZ LUV MONEY Remix (feat. Kali Uchis and Moliy)",
       "url": "https://open.spotify.com/track/09gysnJpfQ3ublBmJDfcEC"
-    },
-    {
-      "added_at": "2023-09-29 16:11:55",
-      "album": {
-        "name": "Fell In Love",
-        "url": "https://open.spotify.com/album/4AkiEkHlDW2ZyPsO7iJct8"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 121283,
-      "name": "Fell In Love",
-      "url": "https://open.spotify.com/track/1N8klHEbZ0bFOHnMVs8C9S"
     },
     {
       "added_at": "2023-09-29 16:11:55",
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2023-09-29 16:11:55",
       "album": {
+        "name": "Cry",
+        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 286773,
+      "name": "Heavenly",
+      "url": "https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm"
+    },
+    {
+      "added_at": "2023-09-29 16:11:55",
+      "album": {
         "name": "There's Really A Wolf",
         "url": "https://open.spotify.com/album/0lUL92det7mZ4DaHYmiUEC"
       },
@@ -1683,22 +1683,6 @@
       "duration_ms": 259093,
       "name": "Sail",
       "url": "https://open.spotify.com/track/7ueP5u2qkdZbIPN2YA6LR0"
-    },
-    {
-      "added_at": "2023-09-29 16:11:55",
-      "album": {
-        "name": "Cry",
-        "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 286773,
-      "name": "Heavenly",
-      "url": "https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm"
     },
     {
       "added_at": "2023-09-29 16:11:55",
@@ -1735,6 +1719,22 @@
       "duration_ms": 197333,
       "name": "Hotel",
       "url": "https://open.spotify.com/track/0JzG1wJuB4v9UPkSE7LMXi"
+    },
+    {
+      "added_at": "2023-09-29 16:11:55",
+      "album": {
+        "name": "Love Is a Bitch",
+        "url": "https://open.spotify.com/album/6TMbfpGthu5uDvxssPWB9s"
+      },
+      "artists": [
+        {
+          "name": "Two Feet",
+          "url": "https://open.spotify.com/artist/5sWHDYs0csV6RS48xBl0tH"
+        }
+      ],
+      "duration_ms": 181466,
+      "name": "Love Is a Bitch",
+      "url": "https://open.spotify.com/track/6MiVIH3fQlmz44jGx2DXn4"
     }
   ],
   "unique_name": "goosebumps",

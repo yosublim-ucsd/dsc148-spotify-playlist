@@ -1,12 +1,12 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Charmaine",
-  "num_followers": 8173,
+  "num_followers": 8194,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMTIxMThlMWVmZThmMDNiNTE4OTI5ODk2NjY1MTcwYWMzZmFjYmZk",
+  "snapshot_id": "MCwxMGQ2YzNjMWUzYjlmN2I5NGY2MGFmNjRmNzIzZDU5NGUwMzEyZjUw",
   "tracks": [
     {
       "added_at": "2023-10-06 03:28:18",
@@ -959,6 +959,22 @@
     {
       "added_at": "2023-10-06 03:28:18",
       "album": {
+        "name": "Come Outside",
+        "url": "https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7"
+      },
+      "artists": [
+        {
+          "name": "K Money",
+          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
+        }
+      ],
+      "duration_ms": 198383,
+      "name": "Come Outside",
+      "url": "https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI"
+    },
+    {
+      "added_at": "2023-10-06 03:28:18",
+      "album": {
         "name": "Mansion",
         "url": "https://open.spotify.com/album/1nwyxrszUQuWwdwgIKw02E"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 167026,
       "name": "The Jungle",
       "url": "https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw"
-    },
-    {
-      "added_at": "2023-10-06 03:28:18",
-      "album": {
-        "name": "Come Outside",
-        "url": "https://open.spotify.com/album/75x5wfzR5mjfrO5pHQJnw7"
-      },
-      "artists": [
-        {
-          "name": "K Money",
-          "url": "https://open.spotify.com/artist/3WC4zw6QqkpKgs9rqk6ot6"
-        }
-      ],
-      "duration_ms": 198383,
-      "name": "Come Outside",
-      "url": "https://open.spotify.com/track/6fMYBc25dXkqOj0eO9jhQI"
     },
     {
       "added_at": "2023-10-06 03:28:18",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2023-10-06 03:28:18",
       "album": {
-        "name": "Til The Morning",
-        "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
-      },
-      "artists": [
-        {
-          "name": "ARDN",
-          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
-        }
-      ],
-      "duration_ms": 130560,
-      "name": "Til The Morning",
-      "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
-    },
-    {
-      "added_at": "2023-10-06 03:28:18",
-      "album": {
         "name": "Toronto",
         "url": "https://open.spotify.com/album/0y3xUMCymFZQDuFWPDa0Qm"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 150292,
       "name": "VULTURES",
       "url": "https://open.spotify.com/track/0gTmo8jEPfVnAFBKN0jndQ"
+    },
+    {
+      "added_at": "2023-10-06 03:28:18",
+      "album": {
+        "name": "Til The Morning",
+        "url": "https://open.spotify.com/album/5Iedaq7J17gvFEATBmfLOC"
+      },
+      "artists": [
+        {
+          "name": "ARDN",
+          "url": "https://open.spotify.com/artist/5jxe5kzLkm5ICEy03BcLwo"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "Til The Morning",
+      "url": "https://open.spotify.com/track/4pvUifF5EPmy70TsS7nDI7"
     },
     {
       "added_at": "2023-10-06 03:28:18",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2023-10-06 03:28:18",
       "album": {
+        "name": "NightmareZ",
+        "url": "https://open.spotify.com/album/2YlFBQKbefAcrWtidbdms7"
+      },
+      "artists": [
+        {
+          "name": "Duvy",
+          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
+        }
+      ],
+      "duration_ms": 109446,
+      "name": "NightmareZ",
+      "url": "https://open.spotify.com/track/7eziXF3TKXmpwSXs0XX7ZR"
+    },
+    {
+      "added_at": "2023-10-06 03:28:18",
+      "album": {
         "name": "Repeat",
         "url": "https://open.spotify.com/album/5tUI7R1lHw5Lk6nUENIgtG"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 208991,
       "name": "Repeat",
       "url": "https://open.spotify.com/track/3KFef9uMAxT4gyS2fEi9vd"
-    },
-    {
-      "added_at": "2023-10-06 03:28:18",
-      "album": {
-        "name": "NightmareZ",
-        "url": "https://open.spotify.com/album/2YlFBQKbefAcrWtidbdms7"
-      },
-      "artists": [
-        {
-          "name": "Duvy",
-          "url": "https://open.spotify.com/artist/3HShZ9OYr5GdhHI8DU9Yzy"
-        }
-      ],
-      "duration_ms": 109446,
-      "name": "NightmareZ",
-      "url": "https://open.spotify.com/track/7eziXF3TKXmpwSXs0XX7ZR"
     }
   ],
   "unique_name": "Hip-Hop Rewind",

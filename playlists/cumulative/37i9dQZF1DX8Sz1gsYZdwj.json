@@ -191,6 +191,24 @@
     },
     {
       "album": {
+        "name": "Afterlight",
+        "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Afterlight",
+      "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
+    },
+    {
+      "album": {
         "name": "Piano Recital: Rosenberger, Carol - Kabalevsky, D. / Tchaikovsky, P. (Perchance To Dream - A Lullaby Album for Children and Adults)",
         "url": "https://open.spotify.com/album/2wiv4F0IkUWwFkv453uEkT"
       },
@@ -995,6 +1013,24 @@
     },
     {
       "album": {
+        "name": "In my arms",
+        "url": "https://open.spotify.com/album/0eQUSx23ROwXjwPKo0BQLo"
+      },
+      "artists": [
+        {
+          "name": "Limestone Quarry",
+          "url": "https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "In my arms",
+      "url": "https://open.spotify.com/track/54y634vST5xlwpSMwKcXoK"
+    },
+    {
+      "album": {
         "name": "In The Stars",
         "url": "https://open.spotify.com/album/0lR0lulxdzgblDc5QLbQKV"
       },
@@ -1756,6 +1792,24 @@
       "duration_ms": 180000,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT"
+    },
+    {
+      "album": {
+        "name": "Night Clouds",
+        "url": "https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd"
+      },
+      "artists": [
+        {
+          "name": "Domi Nova",
+          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172552,
+      "name": "Night Clouds",
+      "url": "https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF"
     },
     {
       "album": {

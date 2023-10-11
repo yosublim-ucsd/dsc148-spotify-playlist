@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 
 > 50 Canadian artists to watch, handpicked by our curators\. Cover: SadBoi
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,034 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,042 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 31 | [Soft Like a Flower](https://open.spotify.com/track/2hj7KCZ38HJWlEfQDs4IQH) | [Cherry Glazerr](https://open.spotify.com/artist/3pIGm1omCcHIb1juBNHspg) | [I Don't Want You Anymore](https://open.spotify.com/album/5BDZURHIJ6XQWJVaT9sZIb) | 3:18 |
 | 32 | [Beginner's guide to birdwatching](https://open.spotify.com/track/6e83lKs8dUhT1kY8kL3brG) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 4:29 |
 | 33 | [Sweet Tooth](https://open.spotify.com/track/5wsmOFafDWAqVeWQ24GySz) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Sweet Tooth](https://open.spotify.com/album/6O1lVM16NaI3cMhTVTzsyx) | 2:30 |
-| 34 | [Débloquer](https://open.spotify.com/track/0nbMa3ZHOLlgb2IJPsGFCt) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/3gwKFYmiUvCxCUP5lRLHF5) | 3:38 |
+| 34 | [Débloquer](https://open.spotify.com/track/0nbMa3ZHOLlgb2IJPsGFCt) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/3gwKFYmiUvCxCUP5lRLHF5) | 3:27 |
 | 35 | [Oh My Days](https://open.spotify.com/track/2NzLUARHYNcPH7OErQIkOq) | [BOYFRN](https://open.spotify.com/artist/3u0vmi7mLqKIUgnyL6OND2), [Young Clancy](https://open.spotify.com/artist/1gWVuqL7Ag3foUmrV5Us98) | [Oh My Days](https://open.spotify.com/album/757Xqp7ZVR7F4P9lSVLpNM) | 2:30 |
 | 36 | [détours](https://open.spotify.com/track/6i3q4BXaN42wQ4JdcUUxr6) | [Ivytide](https://open.spotify.com/artist/1FYG11siqeY73Lu2hrFMYp) | [détours](https://open.spotify.com/album/2gdBJRe6IHRlwWLeBY6XYY) | 2:40 |
 | 37 | [perky](https://open.spotify.com/track/3ij9bvJRbDU8ZJiYIUkzUV) | [Antoniya](https://open.spotify.com/artist/5kA25TZjzmQtCEFCIAwlOE) | [perky](https://open.spotify.com/album/1XBYiyhsR1Z9UQgbVI85gu) | 2:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WmphwNfZfk.md) - [plain]
 | 49 | [fall](https://open.spotify.com/track/4QgVlI8j7UrbJk3fQNVcMb) | [Jay Portal](https://open.spotify.com/artist/2mE6lFglCyhkrseEcufU0d) | [fall](https://open.spotify.com/album/0bFqjbudaEwjUxclJ1tats) | 2:41 |
 | 50 | [Viv](https://open.spotify.com/track/6SMxtIKmMvfR0W7DFnpNyb) | [Ash Molloy](https://open.spotify.com/artist/7r9idpCLiq7S2KS1n5Fp7J) | [Viv](https://open.spotify.com/album/3uwkKLVkmD9zY5Ne3aegU0) | 3:50 |
 
-Snapshot ID: `MCxmOTI2MDgxYjY0Y2ZmMmNlNTg2OTJhOGNlMzAyNzllOTZlNGMyMmEx`
+Snapshot ID: `MCwxMzg4ZjMyMGYwNWJiODJjNDEyYmY1ZmRjNzIzZmQzMWQ4N2QzN2Rl`

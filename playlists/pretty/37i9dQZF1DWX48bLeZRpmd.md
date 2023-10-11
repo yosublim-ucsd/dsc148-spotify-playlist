@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 
 > Enjoy music & episodes from "The Quintessential Quintuplets"! / かわいさ500%の五つ子ラブコメ！アニメ『五等分の花嫁』プレイリスト！©春場ねぎ・講談社／「五等分の花嫁∽」製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,456 likes - 51 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,481 likes - 51 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX48bLeZRpmd.md) - [plain]
 | 50 | [Gobun no Ichi \- Pandaboy Tropical House Edit](https://open.spotify.com/track/2HZTjHng09WdSzAQC9Fnt8) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/2MtezrwA8SIntTXJsJ86eP) | 4:40 |
 | 51 | [Gotoubun no Kimochi \- Pandaboy Five Flowers Dance Edit](https://open.spotify.com/track/6oAfira2qMlknBX1EIBeQ3) | [中野家の五つ子](https://open.spotify.com/artist/28ile6AlnprjyeQzy4F0SB) | [Gotoubun no Hanayome \(Kawaisa Max Remix\)](https://open.spotify.com/album/2MtezrwA8SIntTXJsJ86eP) | 3:48 |
 
-Snapshot ID: `MCw5MTQzZjgzMDA4MjJlMTEwNjVlMDM0MGQwY2QxMzIzZDBjOTFkMmJm`
+Snapshot ID: `MCxkOTEyNWJkNjRkYTM3ZTZhNTkxOTNkYWRjMTg1NDIwMjI4MzU5NDdl`

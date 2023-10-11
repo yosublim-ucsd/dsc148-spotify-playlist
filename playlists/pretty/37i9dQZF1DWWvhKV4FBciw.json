@@ -1,12 +1,12 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1622656,
+  "num_followers": 1623063,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2FiZmY0ZjRhODc3MTliYWE1YTY5MjUwOTk0NzU0MGI5ZTM2M2M3",
+  "snapshot_id": "MCwzODZiMDg0ZDk1MDRmNzAwOTA4YWM0ZWMzY2JhNzk0YWY0NTQyMWRj",
   "tracks": [
     {
       "added_at": "2022-09-23 17:06:51",
@@ -195,18 +195,18 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Inseparable",
-        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
+        "name": "Tell Mama",
+        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
       },
       "artists": [
         {
-          "name": "Natalie Cole",
-          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 171960,
-      "name": "This Will Be (An Everlasting Love)",
-      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
+      "duration_ms": 156653,
+      "name": "I'd Rather Go Blind",
+      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -247,18 +247,18 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Tell Mama",
-        "url": "https://open.spotify.com/album/4ReJ59T4YxC62WkfyVTWpr"
+        "name": "Inseparable",
+        "url": "https://open.spotify.com/album/1eTNYVS06XwHjwMssf6Fsx"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Natalie Cole",
+          "url": "https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9"
         }
       ],
-      "duration_ms": 156653,
-      "name": "I'd Rather Go Blind",
-      "url": "https://open.spotify.com/track/1kPBT8S2wJFNAyBMnGVZgL"
+      "duration_ms": 171960,
+      "name": "This Will Be (An Everlasting Love)",
+      "url": "https://open.spotify.com/track/0PDCewmZCp0P5s00bptcdd"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -731,22 +731,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 165226,
-      "name": "Dancing In The Street",
-      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Please Mr. Postman",
         "url": "https://open.spotify.com/album/65n7GqedAHDVRWNh3msH1V"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 148040,
       "name": "Please Mr. Postman - Single Version / Mono",
       "url": "https://open.spotify.com/track/6jX5mso4x00c1EiNMrTU9U"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 165226,
+      "name": "Dancing In The Street",
+      "url": "https://open.spotify.com/track/6rLqjzGV5VMLDWEnuUqi8q"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -875,22 +875,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Dance Party",
-        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Nowhere To Run",
-      "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "More Hits By The Supremes",
         "url": "https://open.spotify.com/album/2maj3yWtoFnr0g7TlNao7A"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 172906,
       "name": "Stop! In The Name Of Love",
       "url": "https://open.spotify.com/track/52FlwUMMDnTK8TGkCag9Jd"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Dance Party",
+        "url": "https://open.spotify.com/album/3lFGAL3WruNTdBXfct7ZbZ"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Nowhere To Run",
+      "url": "https://open.spotify.com/track/1WPqawIF9HCKfSOt7mN6X0"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Mothership Connection",
-        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
-      },
-      "artists": [
-        {
-          "name": "Parliament",
-          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
-        }
-      ],
-      "duration_ms": 348066,
-      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
-      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
-    },
-    {
-      "added_at": "2022-09-23 17:06:51",
-      "album": {
         "name": "Love Songs",
         "url": "https://open.spotify.com/album/2paShliFsxYoO3WJEdTVdA"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 164933,
       "name": "Spooky (Single Version)",
       "url": "https://open.spotify.com/track/4RYwE31p4KflK1h7J7m1Yt"
+    },
+    {
+      "added_at": "2022-09-23 17:06:51",
+      "album": {
+        "name": "Mothership Connection",
+        "url": "https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2"
+      },
+      "artists": [
+        {
+          "name": "Parliament",
+          "url": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH"
+        }
+      ],
+      "duration_ms": 348066,
+      "name": "Give Up The Funk (Tear The Roof Off The Sucker)",
+      "url": "https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y"
     },
     {
       "added_at": "2022-09-23 17:06:51",
@@ -1299,26 +1299,18 @@
     {
       "added_at": "2022-09-23 17:06:51",
       "album": {
-        "name": "Motherlode",
-        "url": "https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f"
+        "name": "Freedom Flight",
+        "url": "https://open.spotify.com/album/7suTZDEkiDpzkouw300noM"
       },
       "artists": [
         {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        },
-        {
-          "name": "Fred Wesley",
-          "url": "https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam"
-        },
-        {
-          "name": "The J.B.'s",
-          "url": "https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di"
+          "name": "Shuggie Otis",
+          "url": "https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl"
         }
       ],
-      "duration_ms": 544640,
-      "name": "People Get Up And Drive Your Funky Soul - Remix",
-      "url": "https://open.spotify.com/track/5U3i59kbTLrxo46TU1FRnF"
+      "duration_ms": 239906,
+      "name": "Strawberry Letter 23",
+      "url": "https://open.spotify.com/track/4W8IEREeLldaSQyGXcZQ2I"
     }
   ],
   "unique_name": "Funk & Soul Classics",

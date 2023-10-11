@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Curated by Bun B.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,048 likes - 94 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,068 likes - 94 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 26 | [Let Me Ride](https://open.spotify.com/track/36yUCSB9OaMz0RMUQDOSpT) | [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jewell](https://open.spotify.com/artist/05cqfWVtssCo3KVcqEAYG3) | [The Chronic](https://open.spotify.com/album/2V5rhszUpCudPcb01zevOt) | 4:20 |
 | 27 | [Shawty \(feat\. T Pain\)](https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg) | [Plies](https://open.spotify.com/artist/3jksrX4oBklxR78ft8gv3j), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [The Real Testament](https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW) | 4:15 |
 | 28 | [Move Bitch](https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [I\-20](https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk) | [Word Of Mouf](https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr) | 4:30 |
-| 29 | [I'm a Thug](https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [THUGS ARE US](https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH) | 4:14 |
-| 30 | [Salt Shaker](https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m), [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x) | [Me & My Brother](https://open.spotify.com/album/2SS2QYikI1mNohhyPN2v95) | 4:12 |
+| 29 | [Salt Shaker](https://open.spotify.com/track/4Kd0FzFpOgIGxlBl4HXuFn) | [Ying Yang Twins](https://open.spotify.com/artist/44PA0rCQXikgOWbfY7Fq7m), [Lil Jon & The East Side Boyz](https://open.spotify.com/artist/3ciRvbBIVz9fBoPbtSYq4x) | [Me & My Brother](https://open.spotify.com/album/2SS2QYikI1mNohhyPN2v95) | 4:12 |
+| 30 | [I'm a Thug](https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI) | [Trick Daddy](https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25) | [THUGS ARE US](https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH) | 4:14 |
 | 31 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
 | 32 | [Slow Jamz \(feat\. Kanye West & Jamie Foxx\)](https://open.spotify.com/track/1boHm9rjmvzxpJASd9dnGK) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [Kamikaze](https://open.spotify.com/album/6Xu470gdLgDOnFDj5qND1N) | 3:32 |
 | 33 | [Sippin On Some Syrup \(feat\. UGK \(Underground Kingz\) & Project Pat\)](https://open.spotify.com/track/2EduiM2UNwjCC7PsLxnOCH) | [Three 6 Mafia](https://open.spotify.com/artist/26s8LSolLfCIY88ysQbIuT), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [When the Smoke Clears: Sixty 6, Sixty 1](https://open.spotify.com/album/16T5Usl6Qs24qps5ZwIeVI) | 4:21 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 93 | [Top Billin'](https://open.spotify.com/track/0ctyMxVlNs8oE7k0ZMcrKn) | [Audio Two](https://open.spotify.com/artist/10toSzLMkc2zIYiiAemHt1) | [Old School Hip Hop Beats](https://open.spotify.com/album/2KDLQ8ypKKudHoO49Ttpi0) | 2:55 |
 | 94 | [Could This Be Love](https://open.spotify.com/track/0W9DTUYHHGLl62f4ETnTWI) | [The Suffers](https://open.spotify.com/artist/73ncl3RMnT90eLFhZdO2WU) | [It Starts with Love \(Deluxe\)](https://open.spotify.com/album/2kw3VjK47np2HYq8IkvgXk) | 5:13 |
 
-Snapshot ID: `MCwyZGZjMmE3ZWFlNWM3YWFhOWNlZTFlYzFjZTk0ZDlkYjhiYmRlNjAw`
+Snapshot ID: `MCw0ZmQ2NTVlZGQ0ZmIyYjgwZDExNjljMDZiZDhmMGE5MjFhYzRlNWMw`

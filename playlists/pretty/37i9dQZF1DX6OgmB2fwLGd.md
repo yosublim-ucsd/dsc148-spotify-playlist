@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > The soundtrack to the internet\. Cover: Cash Cobain
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,931 likes - 101 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,394,831 likes - 101 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 100 | [HE HE](https://open.spotify.com/track/6EYuyAZwkczXFjySjHzI5R) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [NO ONE'S NICE TO ME](https://open.spotify.com/album/5YvgvpgACOjrJHe7LFqJhc) | 2:31 |
 | 101 | [XTAYALIVE](https://open.spotify.com/track/1JjiTsqfpfMoukoIW9cM5O) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [XTAYALIVE](https://open.spotify.com/album/48QWy8mreJlAa6XdruLXtl) | 2:06 |
 
-Snapshot ID: `MCw4ZDIzZTY1MzcyNGJlYjBhYjBmNGNjYWJjM2FkMzRkMGQzMWE1OTFk`
+Snapshot ID: `MCw1M2Q1MDE3NzNiMjc2NDJhNTY2YzFkNjc0YzZiNmU3NGJkYmZlYWFk`

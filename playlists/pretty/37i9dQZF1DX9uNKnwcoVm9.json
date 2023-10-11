@@ -1,12 +1,12 @@
 {
   "description": "Un playlist que te llena de esperanza.  \u00a1Con fe!",
-  "num_followers": 245483,
+  "num_followers": 245612,
   "original_name": "Con Fe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2Y0OWFiYzVjNWYzMjM2MTRlNTAwNDA4NjViYjdiMjIwNzUyYjAw",
+  "snapshot_id": "MCw2N2MxODljMGZmMTA3ZDUwZjM1NjM2NzVkNDJmYzEwNjhjNmE1ZmFh",
   "tracks": [
     {
       "added_at": "2020-11-24 13:23:38",
@@ -463,6 +463,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Dios Siempre Tiene el Control",
+        "url": "https://open.spotify.com/album/1wDPq47guRiC7EIictF8mv"
+      },
+      "artists": [
+        {
+          "name": "Samuel Hern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU"
+        }
+      ],
+      "duration_ms": 289693,
+      "name": "Dios Siempre Tiene el Control",
+      "url": "https://open.spotify.com/track/25uL5bEmMZ0ObN8A7HH2n9"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Creo en Ti",
         "url": "https://open.spotify.com/album/1TMLlJQHzj0J07QexSE72S"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 330973,
       "name": "Soy Un Altar",
       "url": "https://open.spotify.com/track/0b8Sxqx5Lt8mgU4xPsm7Hr"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
-        }
-      ],
-      "duration_ms": 79213,
-      "name": "El Poderoso de Israel",
-      "url": "https://open.spotify.com/track/0Uh50z2eslMbLWoewgHqKM"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -527,18 +527,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Dios Siempre Tiene el Control",
-        "url": "https://open.spotify.com/album/1wDPq47guRiC7EIictF8mv"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR"
       },
       "artists": [
         {
-          "name": "Samuel Hern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/17XxPdvl2MD39MnT9zhNjU"
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
         }
       ],
-      "duration_ms": 289693,
-      "name": "Dios Siempre Tiene el Control",
-      "url": "https://open.spotify.com/track/25uL5bEmMZ0ObN8A7HH2n9"
+      "duration_ms": 79213,
+      "name": "El Poderoso de Israel",
+      "url": "https://open.spotify.com/track/0Uh50z2eslMbLWoewgHqKM"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -687,38 +687,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Algo Grande Viene",
-        "url": "https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX"
-      },
-      "artists": [
-        {
-          "name": "Jose Luis Reyes",
-          "url": "https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie"
-        }
-      ],
-      "duration_ms": 252640,
-      "name": "Tan Solo Cree",
-      "url": "https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
-        "name": "De Vuelta Al Jardin",
-        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 258640,
-      "name": "\u00c9l Nos Ama",
-      "url": "https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Me Has Hecho Libre",
         "url": "https://open.spotify.com/album/0dNBk8BUcnZoA0YouvHGRP"
       },
@@ -735,6 +703,22 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
+        "name": "Algo Grande Viene",
+        "url": "https://open.spotify.com/album/72sKgqdTMvoBgWyVo6ZzXX"
+      },
+      "artists": [
+        {
+          "name": "Jose Luis Reyes",
+          "url": "https://open.spotify.com/artist/77Zo41CMTIsSUP47AkNhie"
+        }
+      ],
+      "duration_ms": 252640,
+      "name": "Tan Solo Cree",
+      "url": "https://open.spotify.com/track/52UBY1QBlCTRAyWa6GO0mZ"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
         "name": "Vivo Para Cristo",
         "url": "https://open.spotify.com/album/1qgCskTkH93V8WYbltMZMn"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 527133,
       "name": "El Borde De Su Manto",
       "url": "https://open.spotify.com/track/6tYqerwTycPh7ooEszkobq"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "De Vuelta Al Jardin",
+        "url": "https://open.spotify.com/album/4TKIXPyW2jTchcOFw1xAf6"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 258640,
+      "name": "\u00c9l Nos Ama",
+      "url": "https://open.spotify.com/track/6ceXM33Unn92BZIVfjQZ3s"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -819,22 +819,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR"
-      },
-      "artists": [
-        {
-          "name": "Juan Carlos Alvarado",
-          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
-        }
-      ],
-      "duration_ms": 136960,
-      "name": "Jehov\u00e1 Es Mi Guerrero/Le Llaman (Reprise)",
-      "url": "https://open.spotify.com/track/5IsqUSeMnxmoEdX9Ooot0r"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "La Compilaci\u00f3n",
         "url": "https://open.spotify.com/album/4OY1bctzMV7vclglgvN9Oe"
       },
@@ -903,18 +887,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vive Tu D\u00eda",
-        "url": "https://open.spotify.com/album/6fHvKK6aA0ucqGEoK3glz2"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1IIvk8o6xJnkPmzo8eSqXR"
       },
       "artists": [
         {
-          "name": "Ruth Mixter",
-          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
+          "name": "Juan Carlos Alvarado",
+          "url": "https://open.spotify.com/artist/1NWIpqck2zZ43JamLJgf6U"
         }
       ],
-      "duration_ms": 255626,
-      "name": "Ponle Nombre a Tu Milagro",
-      "url": "https://open.spotify.com/track/6vv7lMrDejc9E3EW5EfA9R"
+      "duration_ms": 136960,
+      "name": "Jehov\u00e1 Es Mi Guerrero/Le Llaman (Reprise)",
+      "url": "https://open.spotify.com/track/5IsqUSeMnxmoEdX9Ooot0r"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -931,6 +915,22 @@
       "duration_ms": 360386,
       "name": "Toda la Gloria",
       "url": "https://open.spotify.com/track/3lTjQX4rSNfLhXrqyNM8nn"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Vive Tu D\u00eda",
+        "url": "https://open.spotify.com/album/6fHvKK6aA0ucqGEoK3glz2"
+      },
+      "artists": [
+        {
+          "name": "Ruth Mixter",
+          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
+        }
+      ],
+      "duration_ms": 255626,
+      "name": "Ponle Nombre a Tu Milagro",
+      "url": "https://open.spotify.com/track/6vv7lMrDejc9E3EW5EfA9R"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -987,22 +987,6 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Dios Lo Har\u00e1 Otra Vez",
-        "url": "https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI"
-      },
-      "artists": [
-        {
-          "name": "Ruth Mixter",
-          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
-        }
-      ],
-      "duration_ms": 270001,
-      "name": "Por el Sue\u00f1o De Dios",
-      "url": "https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR"
-    },
-    {
-      "added_at": "2020-11-24 13:23:38",
-      "album": {
         "name": "Dios Siempre Tiene el Control",
         "url": "https://open.spotify.com/album/1wDPq47guRiC7EIictF8mv"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 285000,
       "name": "No Me Digas Adi\u00f3s",
       "url": "https://open.spotify.com/track/3egMhO3nfCiet0IGp95czv"
+    },
+    {
+      "added_at": "2020-11-24 13:23:38",
+      "album": {
+        "name": "Dios Lo Har\u00e1 Otra Vez",
+        "url": "https://open.spotify.com/album/1qu2wAOiIGzTCcS5Dad9jI"
+      },
+      "artists": [
+        {
+          "name": "Ruth Mixter",
+          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
+        }
+      ],
+      "duration_ms": 270001,
+      "name": "Por el Sue\u00f1o De Dios",
+      "url": "https://open.spotify.com/track/1hKVju5eLUkPkYFVYh7hkR"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1103,18 +1103,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Vivir\u00e9",
-        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
+        "name": "Inquebrantable",
+        "url": "https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u"
       },
       "artists": [
         {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+          "name": "Ruth Mixter",
+          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
         }
       ],
-      "duration_ms": 325128,
-      "name": "Simplemente Gracias",
-      "url": "https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK"
+      "duration_ms": 329013,
+      "name": "Por el poder de tu amor (The power of your Love)",
+      "url": "https://open.spotify.com/track/3euqm8P1Mye2BiCEtjwFbT"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Inquebrantable",
-        "url": "https://open.spotify.com/album/4tsFZXkN7eXwhY4ujk6C3u"
+        "name": "Vivir\u00e9",
+        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
       },
       "artists": [
         {
-          "name": "Ruth Mixter",
-          "url": "https://open.spotify.com/artist/6Y3LN0FCFH8p38tlH7ctJA"
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 329013,
-      "name": "Por el poder de tu amor (The power of your Love)",
-      "url": "https://open.spotify.com/track/3euqm8P1Mye2BiCEtjwFbT"
+      "duration_ms": 325128,
+      "name": "Simplemente Gracias",
+      "url": "https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1275,18 +1275,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/5quXdbYBxYKxcYjz2QLWSM"
+        "name": "Por Fin en Casa",
+        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
       },
       "artists": [
         {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
         }
       ],
-      "duration_ms": 499411,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/6snr2DTNX0Ar2wPxNkuU2R"
+      "duration_ms": 465335,
+      "name": "De Lo M\u00e1s Profundo",
+      "url": "https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL"
     },
     {
       "added_at": "2020-11-24 13:23:38",
@@ -1307,18 +1307,18 @@
     {
       "added_at": "2020-11-24 13:23:38",
       "album": {
-        "name": "Por Fin en Casa",
-        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/5quXdbYBxYKxcYjz2QLWSM"
       },
       "artists": [
         {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 465335,
-      "name": "De Lo M\u00e1s Profundo",
-      "url": "https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL"
+      "duration_ms": 499411,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/6snr2DTNX0Ar2wPxNkuU2R"
     },
     {
       "added_at": "2020-11-24 13:23:38",

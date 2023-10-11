@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > dorian alert
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,098 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,127 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Idolize](https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 2:25 |
 | 2 | [Speed Drive \- jamesjamesjames Remix; From Barbie The Album](https://open.spotify.com/track/5Ww9JTu9VNftDjSvjlNzHz) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [Speed Drive](https://open.spotify.com/album/3pUyExZz3VhtXDospnbazV) | 4:24 |
 | 3 | [Beautiful \(2023 Edit\)](https://open.spotify.com/track/36T6UzxRznWRn038GvM7U5) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Beautiful \(2023 Edit\)](https://open.spotify.com/album/3LEJXj4WKlgjnEFQJscKJS) | 3:04 |
-| 4 | [good things 2 \(with tana\)](https://open.spotify.com/track/6A8z1ijn6ttUSg9Hy4Y1nr) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [tana](https://open.spotify.com/artist/4QZVVLf3qrubL7BI5cbcIG) | [good things 2 \(with tana\)](https://open.spotify.com/album/2N3S0h8qgKOpHAUkAcpNgY) | 2:54 |
+| 4 | [good things 2 \(with tana\)](https://open.spotify.com/track/6A8z1ijn6ttUSg9Hy4Y1nr) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [good things 2 \(with tana\)](https://open.spotify.com/album/2N3S0h8qgKOpHAUkAcpNgY) | 2:54 |
 | 5 | [c u never](https://open.spotify.com/track/0K0ccueOxKjB5vgLVpnhIf) | [tomcbumpz](https://open.spotify.com/artist/0klU31gyC6EZqKgLvVANCy), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [c u never](https://open.spotify.com/album/07AUfVrlOlRhyzlwrlaT0A) | 2:55 |
 | 6 | [Haunted](https://open.spotify.com/track/1toNKayLMeCcVlsLGXJl7n) | [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6) | [Haunted](https://open.spotify.com/album/2iguPTaSTwtx4MiAkj6w5O) | 1:42 |
 | 7 | [Undo U](https://open.spotify.com/track/4zaKOfQhWKkq9xhEvuevXU) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Undo U](https://open.spotify.com/album/7Cr1Y5N2iMW4qKpiXH462f) | 2:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 99 | [Baby My Phone](https://open.spotify.com/track/2SjvBmZYIbQTJ7rrPgdmV8) | [Yameii Online](https://open.spotify.com/artist/141ww9EOPLPetF8mMt1gKF) | [Baby My Phone](https://open.spotify.com/album/3fLglAkAwRiXwFKjGRQxQq) | 3:35 |
 | 100 | [lost n found](https://open.spotify.com/track/4QTb29gVaviE9RXyeeabkT) | [i9bonsai](https://open.spotify.com/artist/7dqb1363wqRxJw9RfgQeo3) | [lost n found](https://open.spotify.com/album/24RsDhoXk1dS3xSCRWgB1w) | 2:44 |
 
-Snapshot ID: `MCw0YTQyMjQ2ZTMyOWQ2NTc1MjM5MGU1YzMwMjZhMDZkYzZmZmJlN2Qz`
+Snapshot ID: `MCw1YmFjOWU4Yjk0NjkzYTJmOGFiMjdmYjA2MDJjNzBhMmQyZTE1NTA4`

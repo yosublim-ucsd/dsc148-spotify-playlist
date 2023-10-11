@@ -2,9 +2,9 @@
 
 ### [Telugu Indie](https://open.spotify.com/playlist/37i9dQZF1DX3I9bqAkK5Dr)
 
-> Check out the emerging Independent Artists in Telugu.<br/>Cover : Ram Miriyala
+> Check out the emerging Independent Artists in Telugu.<br/>Cover : Damini Bhatla, Krishna Tejasvi
 
-159 songs - 9 hr 37 min
+160 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,7 +84,7 @@
 | [Naa Friendhemo Pelli](https://open.spotify.com/track/1Xdn6Jvs5Z5WntxmciIwCP) | [Sravana Bhargavi](https://open.spotify.com/artist/4xVrxpa8IgoLneQbdPnSsk), [Jayathi](https://open.spotify.com/artist/6qcblFUBA90tZxWievgx3G) | [Naa Friendhemo Pelli](https://open.spotify.com/album/5R1mBqMQYhJRGY4ONj88Yv) | 4:43 | 2023-05-18 |  |
 | [Naa Kallalona](https://open.spotify.com/track/3VTflnVXTdm1L14hgP3AqR) | [Akshi](https://open.spotify.com/artist/3CBzFyPzRfVrTIFn6Ciu6J), [Trigger C](https://open.spotify.com/artist/14xZTIq3USFNORRd16e1ES) | [Naa Kallalona](https://open.spotify.com/album/3vfmAG1l0dPRISf8JaJaly) | 3:46 | 2023-05-23 |  |
 | [Naalo Kalisave](https://open.spotify.com/track/4gurofjle2L1VbQPzAmZyL) | [Sweekar Agasthi](https://open.spotify.com/artist/7w4ACCsPEsD4KTxUNPXftc), [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1) | [Naalo Kalisave](https://open.spotify.com/album/3iuXBy218ITzay6mc72Oaz) | 5:12 | 2023-03-31 | 2023-06-01 |
-| [Naku Breakup Ayyindoch](https://open.spotify.com/track/0aZ4bfNEBJPj43i7kzFaBV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Naku Breakup Ayyindoch](https://open.spotify.com/album/0NC6F3B8BYECN2xB7skKqL) | 3:52 | 2023-06-02 |  |
+| [Naku Breakup Ayyindoch](https://open.spotify.com/track/0aZ4bfNEBJPj43i7kzFaBV) | [Rahul Sipligunj](https://open.spotify.com/artist/1H4ZvA2yyK7wCmbvEUWvPn) | [Naku Breakup Ayyindoch](https://open.spotify.com/album/0NC6F3B8BYECN2xB7skKqL) | 3:52 | 2023-06-02 | 2023-10-11 |
 | [Nanu Kalchesave](https://open.spotify.com/track/31tVd72hvyazi3YM3RPa4m) | [Rahul Sathu](https://open.spotify.com/artist/64UjPeMUmhyalooujVrEU3) | [Nanu Kalchesave](https://open.spotify.com/album/1WBJy6c9vvTefmDmsf3Af0) | 1:43 | 2023-01-16 | 2023-10-05 |
 | [Nee Kosam](https://open.spotify.com/track/4P7t79MRfREzq1Je631jpj) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Nee Kosam](https://open.spotify.com/album/6P4m7QctAiX2WBjX8HJyNI) | 2:59 | 2023-05-19 | 2023-05-26 |
 | [Nee Kosam](https://open.spotify.com/track/1oML0e4HFyAvNCNrNdxpDg) | [Törk](https://open.spotify.com/artist/7xGyFtxJOldAjiu2bvDAsy), [AKSH](https://open.spotify.com/artist/4XuG5Czd9PgDg9GF87E137) | [Nee Kosam](https://open.spotify.com/album/65B5rk7dznh1ma7nV0H6DO) | 3:12 | 2023-06-27 | 2023-08-03 |
@@ -127,6 +127,7 @@
 | [Prasthanam](https://open.spotify.com/track/20aEMdNcA7b4m8Xr2gLadc) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Lekha](https://open.spotify.com/album/69fz15ObWrTqavZz2ygTxf) | 3:56 | 2023-08-21 | 2023-10-10 |
 | [Prema Prema](https://open.spotify.com/track/5OvIL2IyH3L8AHCRAdQCIm) | [Jagadish Kommuri](https://open.spotify.com/artist/5uj0ZzEL7EUZ3wEgfubrzq) | [Prema Prema](https://open.spotify.com/album/0M3qDZEGKDLKwQANc1KblL) | 4:32 | 2023-02-03 | 2023-06-21 |
 | [Premaga](https://open.spotify.com/track/1baUONzJFIOvHjj9wYPXTm) | [Varun Raghavan](https://open.spotify.com/artist/4NkVbFtRfMRioCkzZ6gg2C), [Neha Venugopal](https://open.spotify.com/artist/5UN71z4zK3sryzvO1aLUWz) | [Premaga](https://open.spotify.com/album/03K7rbDgmaJmCflM6BzkrS) | 2:58 | 2023-05-02 |  |
+| [Premalekha](https://open.spotify.com/track/5Vwh2Q1i7rgCOPlINMI4Ju) | [Damini Bhatla](https://open.spotify.com/artist/5KhT12McR6Gh33dA0ntBAB), [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q) | [Premalekha](https://open.spotify.com/album/3OO5kpArurrmesBm3lWx3u) | 4:09 | 2023-10-10 |  |
 | [Premalona](https://open.spotify.com/track/0o8t82I40o1YuJyLM2TTxV) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Premalona](https://open.spotify.com/album/08YLhIiDa8hIUDg7rJ4pal) | 1:31 | 2023-09-21 |  |
 | [Preme](https://open.spotify.com/track/4GN3kyhteAgfCPqcZYx6wV) | [Joseph Vijay](https://open.spotify.com/artist/1GkrvUf71uUhmbV0lvfX7p), [Ravi G](https://open.spotify.com/artist/7F0SYkO9wyNY0aJFD2C1bD) | [Preme](https://open.spotify.com/album/3xAIfUpFgshmPDO97ZwnNB) | 4:01 | 2023-09-08 |  |
 | [Priya](https://open.spotify.com/track/5EsYWuhhGZQEj1GZmxF4l3) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Priya](https://open.spotify.com/album/7gm0Xh4k3ax15aFHUuptGu) | 3:15 | 2023-06-26 | 2023-07-25 |

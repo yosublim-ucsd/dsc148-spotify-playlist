@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Cover: Lefar
 
-[Spotify](https://open.spotify.com/user/spotify) - 223,953 likes - 55 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 223,936 likes - 55 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 54 | [Supernova](https://open.spotify.com/track/63LyHQhQ23buXUq1NdWYbR) | [Jacline Jones](https://open.spotify.com/artist/3ALquUdUg6G6tpRQNkSTsh) | [Supernova](https://open.spotify.com/album/66pUVXpA8YKblpPxCLxtKO) | 2:26 |
 | 55 | [AAAnimal](https://open.spotify.com/track/6wXtc9rxZcSWH77mgqps2W) | [Lina Simons](https://open.spotify.com/artist/3yhkGoGV96W6E2pLU3ymjJ), [Gransta MSV](https://open.spotify.com/artist/47TJtqEyW7NkvzWaoNWixW) | [P.A.S.](https://open.spotify.com/album/1mGVUOrgbQssKkgKsIYbEd) | 2:53 |
 
-Snapshot ID: `MCwwYjg1ZjM3ZjE3Y2ExNTUzODMzY2QwN2NlMTU5MzYxZTMyNzQ5NzZl`
+Snapshot ID: `MCw1NDRhYTUwOGM1ZDNiYzY2Y2RkYjM3Mzg3ZTJjYTg1ZTNiYzQ3YjBk`

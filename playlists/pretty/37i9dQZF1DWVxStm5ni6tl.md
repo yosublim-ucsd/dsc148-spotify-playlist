@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 > Discover the <a href="spotify:genre:0JQ5DAqbMKFImHYGo3eTSg">best new music</a> by independent artists and labels in Canada, updated every Wednesday\. Cover: Myles Lloyd, Artwork by: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,606 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,629 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 32 | [Blackfly](https://open.spotify.com/track/4UTFsMF7GTNoxm8MdtqVLh) | [Sasha Cay](https://open.spotify.com/artist/70PKezrSmt6UkxyZU6ueHc) | [Spin](https://open.spotify.com/album/6C8DvllbjfiHGnKRQtWTFA) | 3:44 |
 | 33 | [Última Mujer](https://open.spotify.com/track/3YmhGYWtH60KrL9nSsUDfY) | [Chantel](https://open.spotify.com/artist/0mrCXumAZyMWHVXYYgLcVK) | [Última Mujer](https://open.spotify.com/album/5T12FeTyAorp8QjO8sZt97) | 3:51 |
 | 34 | [Sneakers](https://open.spotify.com/track/4yPkDI4vaPkngjEOqA4kVV) | [Goodbye Karelle](https://open.spotify.com/artist/68VYqXg7Ruk6VWnUHBDoJM) | [Hugh Greene & the Lucies Made Me](https://open.spotify.com/album/4vwqlH10hHwECcGv1fnxdH) | 3:19 |
-| 35 | [Débloquer](https://open.spotify.com/track/0nbMa3ZHOLlgb2IJPsGFCt) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/3gwKFYmiUvCxCUP5lRLHF5) | 3:38 |
+| 35 | [Débloquer](https://open.spotify.com/track/0nbMa3ZHOLlgb2IJPsGFCt) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/3gwKFYmiUvCxCUP5lRLHF5) | 3:27 |
 | 36 | [Tout le monde oublie](https://open.spotify.com/track/7aETyOLVxF0ru54LVBTt1w) | [Cosmophone](https://open.spotify.com/artist/7mLFikX4xNVtYm0XEcr9MC) | [Feu toi, feu moi](https://open.spotify.com/album/2g3XHN37Ogr7KdbLnrxFP8) | 2:49 |
 | 37 | [reckless](https://open.spotify.com/track/0DnBvHPTfnRxjHy7OoCxP8) | [Josh Sahunta](https://open.spotify.com/artist/37aXAbBndtjTPR4aUKumLV) | [reckless](https://open.spotify.com/album/3eLX12aoSDZXHArTJpBdeH) | 2:46 |
 | 38 | [Teach Me How To Love](https://open.spotify.com/track/7cqYcFDDCD9ipzdUqK1yvC) | [Laraw](https://open.spotify.com/artist/7vxKZcJkulVyFjO6Bb1Pq1) | [Teach Me How To Love](https://open.spotify.com/album/1TPjPKBB0IHkg7vR90ACsg) | 2:52 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 74 | [Peace & Money](https://open.spotify.com/track/65PrqnLVBO6H0ACYeMa7Kk) | [Serenade](https://open.spotify.com/artist/3pXkGyRhsDavFHyVL9pmoY) | [EZ PZ LEMON SQUEEZY](https://open.spotify.com/album/40ZLE1pRA0n7UyKXOcfaR7) | 2:09 |
 | 75 | [FLOW](https://open.spotify.com/track/2qHaIj2QmVDJZBLRGptfzU) | [DORESSA](https://open.spotify.com/artist/0mrGJjgyeVmhwKCF0KOsdZ) | [FLOW](https://open.spotify.com/album/6IbZd4jTPIwdKv6tmkXVXQ) | 3:38 |
 
-Snapshot ID: `MCwwYWIzNjliYjAwN2NjMjAxYzA5MjY0NzA2ZWY1Y2I0ZGU3YTI2OWY5`
+Snapshot ID: `MCw4MTUyYzA4Y2JmZWE4Mzk2ODljYzU5YmM3ZTBmYzBhMmFkMmJhNDdj`

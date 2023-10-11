@@ -1,12 +1,12 @@
 {
   "description": "Indie pop when ur crushing",
-  "num_followers": 509723,
+  "num_followers": 509857,
   "original_name": "text me back",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZWI4NmQ1ZmNjNWE1ZGMyNDZlNDk0NzlmYWYxMmNkMTZiMDU4YmU1",
+  "snapshot_id": "MCw2MjkxYjVmNmU0MjNlMGUzZGQyMzI5ODZlNmY0MmM0Y2ZjMDMzZGMz",
   "tracks": [
     {
       "added_at": "2023-09-29 20:24:12",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "closer to closure",
-        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
-      },
-      "artists": [
-        {
-          "name": "Lexi Jayde",
-          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
-        }
-      ],
-      "duration_ms": 213133,
-      "name": "drunk text me",
-      "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "A Brief Inquiry Into Online Relationships",
         "url": "https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 256687,
       "name": "Be My Mistake",
       "url": "https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "closer to closure",
+        "url": "https://open.spotify.com/album/6CfZkq2gT8JmDKJGgHOIf1"
+      },
+      "artists": [
+        {
+          "name": "Lexi Jayde",
+          "url": "https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC"
+        }
+      ],
+      "duration_ms": 213133,
+      "name": "drunk text me",
+      "url": "https://open.spotify.com/track/5gukv8x9eP58gFy2OcZEBQ"
     },
     {
       "added_at": "2023-09-29 20:24:12",
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-09-29 20:24:12",
       "album": {
-        "name": "Youth Novels",
-        "url": "https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo"
-      },
-      "artists": [
-        {
-          "name": "Lykke Li",
-          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
-        }
-      ],
-      "duration_ms": 273426,
-      "name": "Little Bit",
-      "url": "https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD"
-    },
-    {
-      "added_at": "2023-09-29 20:24:12",
-      "album": {
         "name": "Cayendo (Side A - Acoustic)",
         "url": "https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 202200,
       "name": "Cayendo (Side A - Acoustic)",
       "url": "https://open.spotify.com/track/72794Eag03xdy7TO0KNuid"
+    },
+    {
+      "added_at": "2023-09-29 20:24:12",
+      "album": {
+        "name": "Youth Novels",
+        "url": "https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo"
+      },
+      "artists": [
+        {
+          "name": "Lykke Li",
+          "url": "https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in"
+        }
+      ],
+      "duration_ms": 273426,
+      "name": "Little Bit",
+      "url": "https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD"
     },
     {
       "added_at": "2023-09-29 20:24:12",

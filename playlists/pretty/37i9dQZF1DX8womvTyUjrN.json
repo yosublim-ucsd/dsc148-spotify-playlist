@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Leon Leiden & Juliana",
-  "num_followers": 285721,
+  "num_followers": 285675,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzViOWQzMmYyYTM3ZjA5YmExMDZlMDE4YTAyMDAxZjY1ZjU4NGM4",
+  "snapshot_id": "MCwwYWU2N2JjYmU1M2M3NzQ3NzM4ZDhiZGY2NWZlZGZlNDgzNDc3ZTkz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -207,22 +207,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Como Yo :(",
-        "url": "https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1"
+        "name": "XQ Sigues Pasando :(",
+        "url": "https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz"
       },
       "artists": [
         {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
         },
         {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 141865,
-      "name": "Como Yo :(",
-      "url": "https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M"
+      "duration_ms": 214800,
+      "name": "XQ Sigues Pasando :(",
+      "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -243,22 +243,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "XQ Sigues Pasando :(",
-        "url": "https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz"
+        "name": "Como Yo :(",
+        "url": "https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1"
       },
       "artists": [
         {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
         },
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 214800,
-      "name": "XQ Sigues Pasando :(",
-      "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
+      "duration_ms": 141865,
+      "name": "Como Yo :(",
+      "url": "https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -563,6 +563,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "El Plan",
+        "url": "https://open.spotify.com/album/1YjrPN6E4SlrkxHWQ4ItCa"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 172685,
+      "name": "El Plan",
+      "url": "https://open.spotify.com/track/5juSakkUUW9gSOXSrB6BHb"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Besos y Pendientes",
         "url": "https://open.spotify.com/album/0yzbu4LzWQWLA9y5E7LQsF"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 171680,
       "name": "Besos y Pendientes",
       "url": "https://open.spotify.com/track/4xxIXKRyO2t4KiPzzZvHnj"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "El Plan",
-        "url": "https://open.spotify.com/album/1YjrPN6E4SlrkxHWQ4ItCa"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 172685,
-      "name": "El Plan",
-      "url": "https://open.spotify.com/track/5juSakkUUW9gSOXSrB6BHb"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "cielo violeta",
+        "url": "https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "cielo violeta",
+      "url": "https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "MUCHO TXT",
         "url": "https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 149777,
       "name": "Multiverso (feat. Jay Wheeler)",
       "url": "https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "cielo violeta",
-        "url": "https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "cielo violeta",
-      "url": "https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Nuez",
+        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
+      },
+      "artists": [
+        {
+          "name": "Valentina Rico",
+          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
+        }
+      ],
+      "duration_ms": 212698,
+      "name": "Nuez",
+      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Nunca Deja De Llover",
         "url": "https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 170389,
       "name": "Nunca Deja de Llover",
       "url": "https://open.spotify.com/track/5wCv4JWrrvRNlonIy536tC"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Nuez",
-        "url": "https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT"
-      },
-      "artists": [
-        {
-          "name": "Valentina Rico",
-          "url": "https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d"
-        }
-      ],
-      "duration_ms": 212698,
-      "name": "Nuez",
-      "url": "https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX"
     },
     {
       "added_at": "2023-10-06 04:00:00",

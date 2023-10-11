@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 
 > Music from Nashville's emerging Singers and Songwriters\. Cover: Alexandra Kay
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,367 likes - 171 songs - 9 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,397 likes - 171 songs - 9 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvM9hRJYH10.md) - [plain]
 | 170 | [You Can Have Him](https://open.spotify.com/track/6dEnXxziCl4UwUL3BZUE9g) | [Jillian Steele](https://open.spotify.com/artist/0pkLsR4G0gWsY5OyIXuXQz) | [You Can Have Him](https://open.spotify.com/album/4An9zUetG23BuNpjDVo28D) | 3:17 |
 | 171 | [Beautifully Broken](https://open.spotify.com/track/3EEnS5a2qAKgWNjNf9CspG) | [Onoleigh](https://open.spotify.com/artist/2k2ug0ceFkR3QzBmlMZsrt) | [Beautifully Broken](https://open.spotify.com/album/6iwv4JaUaiJdHXZuqfijvR) | 3:11 |
 
-Snapshot ID: `MCw5MzEzNWQ3YmE2MWU0OGQ2NzIwZjkwNWJiZTdiNjhlMTc5ZTFjNjU5`
+Snapshot ID: `MCxhNzM5MWUwYmZjM2I4MWEzNmJhYmRiODkzNGE5MTYzZGQ3MjQ1YzUz`

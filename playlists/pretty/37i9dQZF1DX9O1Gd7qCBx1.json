@@ -1,12 +1,12 @@
 {
   "description": "Para honrar a los muertos con el m\u00e1s sublime placer terrenal.",
-  "num_followers": 191096,
+  "num_followers": 191194,
   "original_name": "D\u00eda de Muertos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODNiMTlkMGM4YzhlNGZkZGZmMTM4OWNkOTg3NGY5MzdiNTA0ODRi",
+  "snapshot_id": "MCw0NzAzZjRlOTQ3YWY3ODkxMzliOWQ5NGQ1MmQzMWI4NGU3OTE1NTI0",
   "tracks": [
     {
       "added_at": "2021-11-01 17:39:36",
@@ -185,20 +185,20 @@
       "url": "https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg"
     },
     {
-      "added_at": "2021-11-01 17:39:36",
+      "added_at": "2023-10-10 02:26:47",
       "album": {
-        "name": "Descansando",
-        "url": "https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI"
+        "name": "De Todas las Flores",
+        "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
       "artists": [
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Descansando",
-      "url": "https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18"
+      "duration_ms": 349160,
+      "name": "Muerte",
+      "url": "https://open.spotify.com/track/5DWOuxRP9nHMoozf9NPlxA"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -219,6 +219,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Descansando",
+        "url": "https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Descansando",
+      "url": "https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Caifanes",
         "url": "https://open.spotify.com/album/7oNSmwtmqu8EvnD3cv2HOr"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 213360,
       "name": "M\u00e1tenme Porque Me Muero",
       "url": "https://open.spotify.com/track/6cqwDeMvlCKI9CoeVahGrM"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Cazador",
-        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 185014,
-      "name": "Descansa Mi Amor",
-      "url": "https://open.spotify.com/track/7GFIRU9DfwqiLQaDDlyVp3"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -267,18 +267,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Primero Soy Mexicana",
-        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+        "name": "Cazador",
+        "url": "https://open.spotify.com/album/1RKTcX2nAi11XqLriIlKiD"
       },
       "artists": [
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 490753,
-      "name": "La Llorona",
-      "url": "https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh"
+      "duration_ms": 185014,
+      "name": "Descansa Mi Amor",
+      "url": "https://open.spotify.com/track/7GFIRU9DfwqiLQaDDlyVp3"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -299,6 +299,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Primero Soy Mexicana",
+        "url": "https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 490753,
+      "name": "La Llorona",
+      "url": "https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Cl\u00e1sicos Latinos",
         "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
@@ -315,22 +331,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Lo Esencial De Ana Gabriel",
-        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 239773,
-      "name": "Destino",
-      "url": "https://open.spotify.com/track/78KzU9VKRmDrEO6EvZlQRG"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Lo Mejor De Lo Mejor De RCA Victor",
         "url": "https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo"
       },
@@ -343,6 +343,22 @@
       "duration_ms": 209133,
       "name": "Tata Dios",
       "url": "https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Lo Esencial De Ana Gabriel",
+        "url": "https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 239773,
+      "name": "Destino",
+      "url": "https://open.spotify.com/track/78KzU9VKRmDrEO6EvZlQRG"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -395,22 +411,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Las 30 grandes de Chavela Vargas",
-        "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 511333,
-      "name": "La llorona",
-      "url": "https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Mexicano Hasta los Huesos",
         "url": "https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm"
       },
@@ -427,6 +427,22 @@
       "duration_ms": 186513,
       "name": "Cuando Dos Almas",
       "url": "https://open.spotify.com/track/3Hg4c2ypdIozxRIzdO2Ms5"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Las 30 grandes de Chavela Vargas",
+        "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 511333,
+      "name": "La llorona",
+      "url": "https://open.spotify.com/track/21VxAmhZn3p0kdb0jXu4Ry"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -463,22 +479,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Payaso",
-        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
-      },
-      "artists": [
-        {
-          "name": "Javier Sol\u00eds",
-          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
-        }
-      ],
-      "duration_ms": 166933,
-      "name": "Cuatro Cirios",
-      "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "El Abuelo",
         "url": "https://open.spotify.com/album/0OIYe6PJEmhsKP8m9Kdbz1"
       },
@@ -491,6 +491,22 @@
       "duration_ms": 187037,
       "name": "El Abuelo",
       "url": "https://open.spotify.com/track/3XL9NdAfiirtappFSAZyCr"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Payaso",
+        "url": "https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN"
+      },
+      "artists": [
+        {
+          "name": "Javier Sol\u00eds",
+          "url": "https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj"
+        }
+      ],
+      "duration_ms": 166933,
+      "name": "Cuatro Cirios",
+      "url": "https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -775,22 +791,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Pedro Infante interpreta a Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
-        "url": "https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe"
-      },
-      "artists": [
-        {
-          "name": "Pedro Infante",
-          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
-        }
-      ],
-      "duration_ms": 190200,
-      "name": "La vida es un sue\u00f1o",
-      "url": "https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Las 100 Cl\u00e1sicas de Cri Cri Vol. 1",
         "url": "https://open.spotify.com/album/4fY0mv7l1rEmuBHOeLGq13"
       },
@@ -819,6 +819,22 @@
       "duration_ms": 247453,
       "name": "Los Versos de la Catrina",
       "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Pedro Infante interpreta a Jos\u00e9 Alfredo Jim\u00e9nez Vol. 2",
+        "url": "https://open.spotify.com/album/6IXzOZdEJfqgoLtrpGEEVe"
+      },
+      "artists": [
+        {
+          "name": "Pedro Infante",
+          "url": "https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV"
+        }
+      ],
+      "duration_ms": 190200,
+      "name": "La vida es un sue\u00f1o",
+      "url": "https://open.spotify.com/track/3jiw1dB4dz2AeyTAINvBQA"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -927,6 +943,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Canciones de D\u00eda de Muertos",
+        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
+      },
+      "artists": [
+        {
+          "name": "CARLOS AZCUAGA",
+          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Calaverita de Az\u00facar",
+      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Buenaventura",
         "url": "https://open.spotify.com/album/1hEVnJ09psV81C2PBGEjCk"
       },
@@ -971,22 +1003,6 @@
       "duration_ms": 236346,
       "name": "Janitzio",
       "url": "https://open.spotify.com/track/2ViwuwrjUKpop2PxROUJP5"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Canciones de D\u00eda de Muertos",
-        "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
-      },
-      "artists": [
-        {
-          "name": "CARLOS AZCUAGA",
-          "url": "https://open.spotify.com/artist/3hdeCDIA82KbccDhWtxp0g"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Calaverita de Az\u00facar",
-      "url": "https://open.spotify.com/track/1FBwY5QHbedQrNfAk24lun"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1059,18 +1075,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Rey Az\u00facar",
-        "url": "https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc"
+        "name": "Pasajeros",
+        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
       },
       "artists": [
         {
-          "name": "Los Fabulosos Cadillacs",
-          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
+          "name": "Espumas y Terciopelo",
+          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
         }
       ],
-      "duration_ms": 258226,
-      "name": "Muerte Querida - Remasterizado 2008",
-      "url": "https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi"
+      "duration_ms": 210760,
+      "name": "Pasajeros",
+      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1091,18 +1107,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Pasajeros",
-        "url": "https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D"
+        "name": "Rey Az\u00facar",
+        "url": "https://open.spotify.com/album/5PeJ5yyyJWcC0wkuMHGSqc"
       },
       "artists": [
         {
-          "name": "Espumas y Terciopelo",
-          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
+          "name": "Los Fabulosos Cadillacs",
+          "url": "https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ"
         }
       ],
-      "duration_ms": 210760,
-      "name": "Pasajeros",
-      "url": "https://open.spotify.com/track/3GaV4GsB2UwrC7jDLWYO3e"
+      "duration_ms": 258226,
+      "name": "Muerte Querida - Remasterizado 2008",
+      "url": "https://open.spotify.com/track/0wBg0TvK3auirlBeX6Ggvi"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1139,22 +1155,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Mexicano Hasta los Huesos",
-        "url": "https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 175896,
-      "name": "Nadie Es Eterno",
-      "url": "https://open.spotify.com/track/77fA4R188aqOgv3oXBOqhE"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "God Save The Queers EP",
         "url": "https://open.spotify.com/album/3dqUvQdsfeBfIJH0Zz0THJ"
       },
@@ -1167,6 +1167,22 @@
       "duration_ms": 288253,
       "name": "Kumbia Zombie",
       "url": "https://open.spotify.com/track/3i5QMzqtVccNIp2TWSquEH"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Mexicano Hasta los Huesos",
+        "url": "https://open.spotify.com/album/6IlYrSFtmY9o6Gdi49rTkm"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 175896,
+      "name": "Nadie Es Eterno",
+      "url": "https://open.spotify.com/track/77fA4R188aqOgv3oXBOqhE"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1279,6 +1295,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Cantando Con la Muerte",
+        "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
+      },
+      "artists": [
+        {
+          "name": "Los Folkloristas",
+          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "Coplas del Muerto (Coplas) [M\u00e9xico]",
+      "url": "https://open.spotify.com/track/0qOkrzZJWLTWDm8AanZwm6"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Songbook 3 El Amor Es Vida",
         "url": "https://open.spotify.com/album/5xTYvmQhMKxPo0W4O2CdDT"
       },
@@ -1299,22 +1331,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Cantando Con la Muerte",
-        "url": "https://open.spotify.com/album/1N47s2RcEQ0P2vZkNeyt06"
-      },
-      "artists": [
-        {
-          "name": "Los Folkloristas",
-          "url": "https://open.spotify.com/artist/2iALv7pTGUwcobl2VPoJPU"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Coplas del Muerto (Coplas) [M\u00e9xico]",
-      "url": "https://open.spotify.com/track/0qOkrzZJWLTWDm8AanZwm6"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Canciones de D\u00eda de Muertos",
         "url": "https://open.spotify.com/album/6QYcsgmP6E5YAqrzPklpAJ"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 232037,
       "name": "Pan de Muertos",
       "url": "https://open.spotify.com/track/1ZlZR2fjNZAwcRJ5NNvVcp"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Rosa Mexicano",
-        "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
-      },
-      "artists": [
-        {
-          "name": "Regina Orozco",
-          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
-        }
-      ],
-      "duration_ms": 164080,
-      "name": "Monton de Tierra",
-      "url": "https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
+        "name": "Rosa Mexicano",
+        "url": "https://open.spotify.com/album/2vpRcljD0QFlLlgxbs2Fkw"
+      },
+      "artists": [
+        {
+          "name": "Regina Orozco",
+          "url": "https://open.spotify.com/artist/6EBTfrUBSr4Bv3sSkIOyfM"
+        }
+      ],
+      "duration_ms": 164080,
+      "name": "Monton de Tierra",
+      "url": "https://open.spotify.com/track/3LIXKvAKTFn0n8nnDaGevA"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
         "name": "Mano a Mano - Tangos a la Manera de Vicente Fern\u00e1ndez",
         "url": "https://open.spotify.com/album/6sh6Vqdbu9mHsnWvsqyikC"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 226640,
       "name": "Sus Ojos Se Cerraron",
       "url": "https://open.spotify.com/track/18u7VFcTzUIm86HJ1oo3UZ"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
-        "name": "Quema Quema Quema",
-        "url": "https://open.spotify.com/album/6jegEIB9gDoeF6BaAqrZfw"
-      },
-      "artists": [
-        {
-          "name": "Kanaku y El Tigre",
-          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
-        }
-      ],
-      "duration_ms": 232386,
-      "name": "Si Te Mueres Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/46zIvpt8U9JcwsDmfcXn5y"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1411,22 +1411,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Contestadas Y Rancheras",
-        "url": "https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t"
+        "name": "Quema Quema Quema",
+        "url": "https://open.spotify.com/album/6jegEIB9gDoeF6BaAqrZfw"
       },
       "artists": [
         {
-          "name": "Trio Armonia Huasteca",
-          "url": "https://open.spotify.com/artist/4jyDN8IXegV9Hn6RNVcejK"
-        },
-        {
-          "name": "Las Rancheritas",
-          "url": "https://open.spotify.com/artist/0JrvKuMSrLHPKvWd4bM5YJ"
+          "name": "Kanaku y El Tigre",
+          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
         }
       ],
-      "duration_ms": 138541,
-      "name": "La Catr\u00edna Pobre",
-      "url": "https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD"
+      "duration_ms": 232386,
+      "name": "Si Te Mueres Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/46zIvpt8U9JcwsDmfcXn5y"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1459,6 +1455,26 @@
       "duration_ms": 276970,
       "name": "Mictl\u00e1n",
       "url": "https://open.spotify.com/track/0mv4wsluGcvNmoB0UonpX9"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "Contestadas Y Rancheras",
+        "url": "https://open.spotify.com/album/4IKibIvIpvYbcibKsxnv7t"
+      },
+      "artists": [
+        {
+          "name": "Trio Armonia Huasteca",
+          "url": "https://open.spotify.com/artist/4jyDN8IXegV9Hn6RNVcejK"
+        },
+        {
+          "name": "Las Rancheritas",
+          "url": "https://open.spotify.com/artist/0JrvKuMSrLHPKvWd4bM5YJ"
+        }
+      ],
+      "duration_ms": 138541,
+      "name": "La Catr\u00edna Pobre",
+      "url": "https://open.spotify.com/track/6conItSeJ4djinIUrq2mJD"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Caracoles",
-        "url": "https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv"
-      },
-      "artists": [
-        {
-          "name": "Kanaku y El Tigre",
-          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
-        }
-      ],
-      "duration_ms": 145484,
-      "name": "El Funeral",
-      "url": "https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "La Danza de la Muerte (D\u00eda de Muertos)",
         "url": "https://open.spotify.com/album/2ZPACZToEtrhz8rXxw6DjZ"
       },
@@ -1575,18 +1575,18 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Vivir Muriendo",
-        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
+        "name": "Caracoles",
+        "url": "https://open.spotify.com/album/4Q9zv0BFqFTDb3KF3ZrwJv"
       },
       "artists": [
         {
-          "name": "Astrid Hadad",
-          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
+          "name": "Kanaku y El Tigre",
+          "url": "https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS"
         }
       ],
-      "duration_ms": 244813,
-      "name": "A Mi Me Mato\u0301 La Vida",
-      "url": "https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43"
+      "duration_ms": 145484,
+      "name": "El Funeral",
+      "url": "https://open.spotify.com/track/61IjyAktalOHr6HpPkutRI"
     },
     {
       "added_at": "2021-11-01 17:39:36",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "La huesuda",
-        "url": "https://open.spotify.com/album/1EURs2L4xEKmMtnEvBPjS9"
-      },
-      "artists": [
-        {
-          "name": "Ariel Rot",
-          "url": "https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu"
-        }
-      ],
-      "duration_ms": 217306,
-      "name": "La huesuda",
-      "url": "https://open.spotify.com/track/45Qh9HP3UPOhrkoFNPyKvM"
-    },
-    {
-      "added_at": "2021-11-01 17:39:36",
-      "album": {
         "name": "Amorosas, Divertidas y Horrorosis\u00edmas Canciones de la Calaca Flaca",
         "url": "https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8"
       },
@@ -1655,18 +1639,34 @@
     {
       "added_at": "2021-11-01 17:39:36",
       "album": {
-        "name": "Sabung",
-        "url": "https://open.spotify.com/album/2qOJpwhMowXGwlNVoBKVfA"
+        "name": "Vivir Muriendo",
+        "url": "https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1"
       },
       "artists": [
         {
-          "name": "El Haru Kuroi",
-          "url": "https://open.spotify.com/artist/683Jz9L8U9Ba2lGOBuRgj8"
+          "name": "Astrid Hadad",
+          "url": "https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3"
         }
       ],
-      "duration_ms": 190226,
-      "name": "Dia De Los Muertos",
-      "url": "https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1"
+      "duration_ms": 244813,
+      "name": "A Mi Me Mato\u0301 La Vida",
+      "url": "https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43"
+    },
+    {
+      "added_at": "2021-11-01 17:39:36",
+      "album": {
+        "name": "La huesuda",
+        "url": "https://open.spotify.com/album/1EURs2L4xEKmMtnEvBPjS9"
+      },
+      "artists": [
+        {
+          "name": "Ariel Rot",
+          "url": "https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu"
+        }
+      ],
+      "duration_ms": 217306,
+      "name": "La huesuda",
+      "url": "https://open.spotify.com/track/45Qh9HP3UPOhrkoFNPyKvM"
     }
   ],
   "unique_name": "D\u00eda de Muertos",

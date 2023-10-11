@@ -1,12 +1,12 @@
 {
   "description": "Una euf\u00f3rica dosis de urbano rom\u00e1ntico en espa\u00f1ol.",
-  "num_followers": 159482,
+  "num_followers": 159575,
   "original_name": "Rimas Pa'l Cora",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmNjYTFkNTJkZDE2ODc5NWYwZjc2M2VlZGIxMGQyZDU1N2ZkNWUy",
+  "snapshot_id": "MCwyODlkZjY0M2Q5N2ZlZjU1ZDE5MTAyMTg0NDdhNzY0MjA3ZjI5MTRl",
   "tracks": [
     {
       "added_at": "2023-10-06 01:50:45",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2023-10-06 01:50:45",
       "album": {
-        "name": "Te Amodio",
-        "url": "https://open.spotify.com/album/25N4zFBTWXO5C5zWPBMYjA"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        },
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 267428,
-      "name": "Te Amodio",
-      "url": "https://open.spotify.com/track/4gJAYXiTkzDlbfeZn4EH9F"
-    },
-    {
-      "added_at": "2023-10-06 01:50:45",
-      "album": {
         "name": "No quise da\u00f1arte",
         "url": "https://open.spotify.com/album/0NAjyZrDAPqiqYXhu9gSTV"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 195920,
       "name": "No quise da\u00f1arte",
       "url": "https://open.spotify.com/track/57EhNdIYjhowMMKiR8frkG"
+    },
+    {
+      "added_at": "2023-10-06 01:50:45",
+      "album": {
+        "name": "Te Amodio",
+        "url": "https://open.spotify.com/album/25N4zFBTWXO5C5zWPBMYjA"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        },
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 267428,
+      "name": "Te Amodio",
+      "url": "https://open.spotify.com/track/4gJAYXiTkzDlbfeZn4EH9F"
     },
     {
       "added_at": "2023-10-06 01:50:45",

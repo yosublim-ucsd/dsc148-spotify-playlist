@@ -2,7 +2,7 @@
 
 ### [Rock 'n' Run](https://open.spotify.com/playlist/37i9dQZF1DWXx3Txis2L4x)
 
-> Keep your run going with these upbeat rock tracks.
+> Don't use these shoes to run\. It's just because they look cool\. But they will hurt your feet.
 
 181 songs - 10 hr 28 min
 

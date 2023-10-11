@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > dk rap holder det 100 lige nu 🚨  ICEKIID tar forsiden
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,283 likes - 54 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,305 likes - 54 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 33 | [Under Radar](https://open.spotify.com/track/18jOIUboPPzwu84t9GlUKu) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [B.O.C](https://open.spotify.com/artist/2X22Hm97hQA8mFjSrn2foA) | [Under Radar](https://open.spotify.com/album/5e09iR2DufFRiMK8JmTlNu) | 3:10 |
 | 34 | [Som Forleden](https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Som Forleden](https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd) | 2:41 |
 | 35 | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/track/7ME4hi8iUI8ppwRpIGbKg4) | [RH](https://open.spotify.com/artist/0BecZI4vqLoN178y3f16XJ), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [NO MONEY NO FUNNY \(feat\. Branco\)](https://open.spotify.com/album/26JQ7MSTG8tAdJbLVU7ZMN) | 2:16 |
-| 36 | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/track/3T4sq2A6qyg4LnUJWx8Q4u) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/album/1fNhtDc8Mls92rWD1q6rWK) | 2:31 |
+| 36 | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/track/49fxzVDFQGVorGiv3FEUcv) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Slow Mo' / Swervin'](https://open.spotify.com/album/2QVD6w1lvKmxSr2petQ7H8) | 2:31 |
 | 37 | [Puto Criminel \(feat\. ZUUZ\)](https://open.spotify.com/track/4PJqYYdcQ1rubq1O0S8AVu) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn), [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Puto Criminel \(feat\. ZUUZ\)](https://open.spotify.com/album/1ZjCCgHb5cOFqbFLhM4F22) | 1:53 |
 | 38 | [Rider](https://open.spotify.com/track/3OKI9yggHapQONX0k8xtlD) | [Lii Fuego](https://open.spotify.com/artist/5rZWktOlVarOV0j2AXkasF), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Rider](https://open.spotify.com/album/7rsFe7IgBjlh2TCd23lX4t) | 3:12 |
 | 39 | [Rock with It](https://open.spotify.com/track/0H5Q7G69hxQs8qdkD6rmRJ) | [HAM fra Syd](https://open.spotify.com/artist/142bVo1OspxTJbxwyawU5h), [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Rock with It](https://open.spotify.com/album/0vs2X0QGBP3RSK7jtzLOrE) | 2:25 |
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 53 | [TIL VI DØR](https://open.spotify.com/track/1EWIROunAjtVo8bZtOEt7w) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 3:00 |
 | 54 | [Run Away](https://open.spotify.com/track/2SWp6DtNlUdpyQ7OCvH6ZK) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Run Away](https://open.spotify.com/album/6r4uMfuIDI5l3nYjLELNmx) | 2:49 |
 
-Snapshot ID: `MCxkYjMzMWM3OGE2ZGE1YTU3MzRjZTYxZWNlODg2NDA2ODJhNjY1YTlh`
+Snapshot ID: `MCxhOGM1MTJhYTAwNjc5YmI5M2VkMzVlMzBhY2E0MDE1YzAyMjEwZDNm`

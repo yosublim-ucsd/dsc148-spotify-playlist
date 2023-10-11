@@ -1,12 +1,12 @@
 {
   "description": "Music from the most memorable Super Bowl halftime shows. Cover: Rihanna",
-  "num_followers": 86853,
+  "num_followers": 86877,
   "original_name": "Halftime Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZjQyYjVmOTBjODI4Mzg2NTI5ODI3NzYyNTk4NGVkMDEwNWI4Zjll",
+  "snapshot_id": "MCwzYTljZmJmNjk2YmI0NDFjNTgwMjk2MzczOTYwNjYxMjJjMmFjZWZk",
   "tracks": [
     {
       "added_at": "2023-01-28 00:44:44",
@@ -623,8 +623,8 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "Summer Party Anthems",
-        "url": "https://open.spotify.com/album/7oA3n7CRInntyXA0GQiJsm"
+        "name": "El Dorado",
+        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
       },
       "artists": [
         {
@@ -632,13 +632,13 @@
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Freshlyground",
-          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 201773,
-      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
-      "url": "https://open.spotify.com/track/1ZlHr9FYHT7YTbXCoxPq5C"
+      "duration_ms": 195840,
+      "name": "Chantaje (feat. Maluma)",
+      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
     },
     {
       "added_at": "2023-01-28 00:44:44",
@@ -739,8 +739,8 @@
     {
       "added_at": "2023-01-28 00:44:44",
       "album": {
-        "name": "El Dorado",
-        "url": "https://open.spotify.com/album/6bUxh58rYTL67FS8dyTKMN"
+        "name": "Summer Party Anthems",
+        "url": "https://open.spotify.com/album/7oA3n7CRInntyXA0GQiJsm"
       },
       "artists": [
         {
@@ -748,13 +748,13 @@
           "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "Freshlyground",
+          "url": "https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle"
         }
       ],
-      "duration_ms": 195840,
-      "name": "Chantaje (feat. Maluma)",
-      "url": "https://open.spotify.com/track/6mICuAdrwEjh6Y6lroV2Kg"
+      "duration_ms": 201773,
+      "name": "Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground)",
+      "url": "https://open.spotify.com/track/1ZlHr9FYHT7YTbXCoxPq5C"
     },
     {
       "added_at": "2023-01-28 00:44:44",

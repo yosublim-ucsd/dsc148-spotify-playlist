@@ -805,6 +805,24 @@
     },
     {
       "album": {
+        "name": "Lost Empire",
+        "url": "https://open.spotify.com/album/6s5cPCbFitanKRBHYNHjk9"
+      },
+      "artists": [
+        {
+          "name": "David Celeste",
+          "url": "https://open.spotify.com/artist/14elbOcXjl043MKBKQuGPS"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223787,
+      "name": "Lost Empire",
+      "url": "https://open.spotify.com/track/7FS3ODVO5LkK9eoI4G2kb8"
+    },
+    {
+      "album": {
         "name": "Love Theme For Linda",
         "url": "https://open.spotify.com/album/0cBmUUiRdqPsX1NNU8U3QQ"
       },

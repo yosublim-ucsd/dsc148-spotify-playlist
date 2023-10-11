@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: Joyce Blessing
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,414 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,449 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,14 +49,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 39 | [Onwanwani](https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3) | [Edwin Dadson](https://open.spotify.com/artist/47Faqq0jbVjfytkzaHxlIb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Isaiah Fosu\-Kwakye Jnr](https://open.spotify.com/artist/7nFCc2h1AAmKMGwr2Nc72u) | [Onwanwani](https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs) | 8:33 |
 | 40 | [Testimony \- Acoustic](https://open.spotify.com/track/1T2eUPRw51qAhPllM3Zgk7) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [Testimony Therapy](https://open.spotify.com/album/3Ke8XArGN62MmA4FYe2HH7) | 3:39 |
 | 41 | [Okasa](https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc) | [Eugene Zuta](https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP) | [Okasa](https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP) | 4:27 |
-| 42 | [Nkunim \(The Victory Song\)](https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8) | [Carl Clottey](https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R) | [Nkunim \(The Victory Song\)](https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB) | 6:49 |
-| 43 | [GOD NEVER FAILS](https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [BLESSINGS](https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ) | 3:23 |
+| 42 | [GOD NEVER FAILS](https://open.spotify.com/track/1oxeayKfZKRJ9h9HhEY1nJ) | [richieo](https://open.spotify.com/artist/1I0DhnrGCFdgRHreaYacf0), [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [BLESSINGS](https://open.spotify.com/album/7vSURO3t1M4dAUEeAMGNWZ) | 3:23 |
+| 43 | [Nkunim \(The Victory Song\)](https://open.spotify.com/track/57S84dg7sXUWXUj0ZNP1X8) | [Carl Clottey](https://open.spotify.com/artist/6gfnKDWsTRi84l2hjKod2R) | [Nkunim \(The Victory Song\)](https://open.spotify.com/album/2G7yF1iLgKxjMjcNxbhEOB) | 6:49 |
 | 44 | [Glory Chants](https://open.spotify.com/track/29zRC9vQVtAfCJuiBgtsUb) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [MOVE VOL 1](https://open.spotify.com/album/3DFFAcSAftKfh8EqfBVTck) | 7:13 |
 | 45 | [Mehyia Yesu](https://open.spotify.com/track/65T99WARm5ZKGigiN4cLZC) | [Omari Kissi Jnr](https://open.spotify.com/artist/1PAXq5GrcinmMPRvUzilwd) | [Mehyia Yesu](https://open.spotify.com/album/0q5QYDFWMtsriypN3zIgKp) | 8:38 |
 | 46 | [Perfect Love \(Romans 8:38\-39\)](https://open.spotify.com/track/45Jaa9BfSzCWck93WKD9EA) | [De.ViZION](https://open.spotify.com/artist/73WpLtkNbaWoFvefZcOdtB) | [Perfect Love \(Romans 8:38\-39\)](https://open.spotify.com/album/4jYS7PnRh5Pv2ym6pmmmOe) | 2:56 |
 | 47 | [Adom Bi](https://open.spotify.com/track/78qtI2HtGEAmSGyKNMLdiU) | [Prophet Dominion](https://open.spotify.com/artist/3oZ9HnpUIgWhWcSFO1ocsc), [Brother Sammy](https://open.spotify.com/artist/462css63bI6oOmHwsofdDM) | [Adom Bi](https://open.spotify.com/album/79jWpJZrG5I7T3tCtu6EWO) | 5:19 |
-| 48 | [A Letter to the Wise](https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7) | [Israel Chemphe](https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z) | [A Letter to the Wise](https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh) | 3:32 |
-| 49 | [More](https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn) | [Irene Logan](https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz) | [More](https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk) | 5:21 |
+| 48 | [More](https://open.spotify.com/track/3YzVHJmmQAuGFdrX6yPHyn) | [Irene Logan](https://open.spotify.com/artist/5E0zjnKqKIVeXOPSiIhnUz) | [More](https://open.spotify.com/album/7xfrnuQPFXGHNLfKBi54fk) | 5:21 |
+| 49 | [A Letter to the Wise](https://open.spotify.com/track/0e4RCiQHnm2GOZCltde0t7) | [Israel Chemphe](https://open.spotify.com/artist/1qJeZoDyrYPQ3R02TY1s9Z) | [A Letter to the Wise](https://open.spotify.com/album/7uX0NKSvnJnyDCYvkSMOYh) | 3:32 |
 | 50 | [I Know](https://open.spotify.com/track/7EAjENjTiYE5xhv6x7kXEe) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce) | [I Know](https://open.spotify.com/album/6HtyFbcZM4kNGxRKdiXstv) | 2:15 |
 
-Snapshot ID: `MCxkMzVkOTJmNjE5MTE4MzJkYjgzMjJmYzhiOWI0YjIwZjdjZDBhNTk2`
+Snapshot ID: `MCxmNzUxMjhiNTJkNjdmZTE3N2E3ZTgzOTc3Y2I2N2Q2NWE1YjZhZmZl`

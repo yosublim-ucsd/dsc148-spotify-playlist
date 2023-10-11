@@ -1,12 +1,12 @@
 {
   "description": "Left of center indie/alternative LGBTQIA+ artists. Cover: The Japanese House",
-  "num_followers": 140335,
+  "num_followers": 140416,
   "original_name": "Alternative Pride",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmNjZGU4Y2E1MTM0MDkyNGIwMDI5NTgxNmE1OWYxY2E4YjE3NTMy",
+  "snapshot_id": "MCxiYzJkZDVmYzM5ZGJlNTQzMjUwYTU3MmE2YzNhMTMxMGY2NGEyMDlk",
   "tracks": [
     {
       "added_at": "2023-06-01 04:00:00",
@@ -317,22 +317,6 @@
       "url": "https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L"
     },
     {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Collapsed In Sunbeams",
-        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 223413,
-      "name": "Eugene",
-      "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
-    },
-    {
       "added_at": "2023-06-30 04:00:00",
       "album": {
         "name": "Kill Your Pain (with King Princess)",
@@ -351,6 +335,22 @@
       "duration_ms": 166194,
       "name": "Kill Your Pain (with King Princess)",
       "url": "https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
+        "name": "Collapsed In Sunbeams",
+        "url": "https://open.spotify.com/album/42joEEymK7EIHODfNB4yug"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 223413,
+      "name": "Eugene",
+      "url": "https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -401,22 +401,6 @@
       "url": "https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Loveher",
-        "url": "https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX"
-      },
-      "artists": [
-        {
-          "name": "Romy",
-          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
-        }
-      ],
-      "duration_ms": 229346,
-      "name": "Loveher",
-      "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
-    },
-    {
       "added_at": "2023-03-07 19:29:41",
       "album": {
         "name": "Little Oblivions",
@@ -451,6 +435,22 @@
       "duration_ms": 186836,
       "name": "Pegasus (ft. Phoebe Bridgers)",
       "url": "https://open.spotify.com/track/2oZH5jrlSr0sFWoiIymVHh"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Loveher",
+        "url": "https://open.spotify.com/album/6n07xRHzroJVVSFnQ6TyiX"
+      },
+      "artists": [
+        {
+          "name": "Romy",
+          "url": "https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb"
+        }
+      ],
+      "duration_ms": 229346,
+      "name": "Loveher",
+      "url": "https://open.spotify.com/track/75PNzduM0yViwNeye50xdP"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -683,6 +683,22 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
+        "name": "if we lived on the moon",
+        "url": "https://open.spotify.com/album/6JQ2RblwAmhFXVIxh56p6a"
+      },
+      "artists": [
+        {
+          "name": "vivi rincon",
+          "url": "https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE"
+        }
+      ],
+      "duration_ms": 151223,
+      "name": "if we lived on the moon",
+      "url": "https://open.spotify.com/track/0jT6z5YUpHQ1qOd6tWXuCd"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/4hXoT1uNsd5I4FwibFwK4f"
       },
@@ -703,22 +719,6 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
-        "name": "if we lived on the moon",
-        "url": "https://open.spotify.com/album/6JQ2RblwAmhFXVIxh56p6a"
-      },
-      "artists": [
-        {
-          "name": "vivi rincon",
-          "url": "https://open.spotify.com/artist/7G3PkBcNf57mBBK1qYA1iE"
-        }
-      ],
-      "duration_ms": 151223,
-      "name": "if we lived on the moon",
-      "url": "https://open.spotify.com/track/0jT6z5YUpHQ1qOd6tWXuCd"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
         "name": "forevher",
         "url": "https://open.spotify.com/album/1Gkq8xYCUvIaRshmoLa6ze"
       },
@@ -731,22 +731,6 @@
       "duration_ms": 247346,
       "name": "religion (u can lay your hands on me)",
       "url": "https://open.spotify.com/track/4YIimRZi9KYx0ohj1b7vmj"
-    },
-    {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "INDUSTRY GAMES",
-        "url": "https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0"
-      },
-      "artists": [
-        {
-          "name": "CHIKA",
-          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
-        }
-      ],
-      "duration_ms": 241612,
-      "name": "SONGS ABOUT YOU",
-      "url": "https://open.spotify.com/track/2Fxly6AusNFtTf8ZBaVWnh"
     },
     {
       "added_at": "2023-03-07 19:29:41",
@@ -763,6 +747,22 @@
       "duration_ms": 173905,
       "name": "Legs",
       "url": "https://open.spotify.com/track/4uP0hLJCQCm8PkXXCLw9Js"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "INDUSTRY GAMES",
+        "url": "https://open.spotify.com/album/0tTGA5SQN17ewHMpisb0n0"
+      },
+      "artists": [
+        {
+          "name": "CHIKA",
+          "url": "https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8"
+        }
+      ],
+      "duration_ms": 241612,
+      "name": "SONGS ABOUT YOU",
+      "url": "https://open.spotify.com/track/2Fxly6AusNFtTf8ZBaVWnh"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -1011,6 +1011,22 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
+        "name": "Thirstier",
+        "url": "https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu"
+      },
+      "artists": [
+        {
+          "name": "TORRES",
+          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
+        }
+      ],
+      "duration_ms": 261941,
+      "name": "Don't Go Puttin Wishes in My Head",
+      "url": "https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
         "name": "DEACON",
         "url": "https://open.spotify.com/album/7dHEw1ug6SGPnGa74DQMxV"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 176318,
       "name": "death proof",
       "url": "https://open.spotify.com/track/6jgpzjzjqJBtSjvhAOq4MR"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Thirstier",
-        "url": "https://open.spotify.com/album/5Sq7ZgoJQQEY54oupmAtbu"
-      },
-      "artists": [
-        {
-          "name": "TORRES",
-          "url": "https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9"
-        }
-      ],
-      "duration_ms": 261941,
-      "name": "Don't Go Puttin Wishes in My Head",
-      "url": "https://open.spotify.com/track/7JKW0gH84HWAyDEBQgsNbX"
     },
     {
       "added_at": "2023-06-01 04:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-03-07 19:29:41",
       "album": {
+        "name": "Someone Else",
+        "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
+      },
+      "artists": [
+        {
+          "name": "Deb Never",
+          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
+        }
+      ],
+      "duration_ms": 207946,
+      "name": "Someone Else",
+      "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
+    },
+    {
+      "added_at": "2023-03-07 19:29:41",
+      "album": {
         "name": "Day Breaks",
         "url": "https://open.spotify.com/album/6ST0U2V3WOBV8RzFYwBg6F"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 175664,
       "name": "Back",
       "url": "https://open.spotify.com/track/0mytPbo2GAlCTjA0zZ1Z8e"
-    },
-    {
-      "added_at": "2023-03-07 19:29:41",
-      "album": {
-        "name": "Someone Else",
-        "url": "https://open.spotify.com/album/4Hu3O4jVEImkIqYmvq2KUk"
-      },
-      "artists": [
-        {
-          "name": "Deb Never",
-          "url": "https://open.spotify.com/artist/55EarwWraRQY9diMo9Oeul"
-        }
-      ],
-      "duration_ms": 207946,
-      "name": "Someone Else",
-      "url": "https://open.spotify.com/track/43tQOLiTfoVwURdx5Ei7yr"
     },
     {
       "added_at": "2023-06-01 04:00:00",

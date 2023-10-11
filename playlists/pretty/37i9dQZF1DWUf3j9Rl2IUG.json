@@ -1,12 +1,12 @@
 {
   "description": "Afrobeats' hottest singles. Cover: <a href=\"https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG?si=2-B6h7PLTd20CGZtBywsBg\"> Bayanni </a>   ",
-  "num_followers": 73622,
+  "num_followers": 73745,
   "original_name": "Gbedu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjZmMmI0MjZjNjcyYTgzYzE2NzA2YmMzODNjNDA3ODZkY2JhZTI2",
+  "snapshot_id": "MCwzZDE3MGE2NjEzY2I0OTI5YmE5OWVmOTNhNzg5OWY4NzE4NjI1OTRj",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "YAWA",
-        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "YAWA",
-      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Trench to Triumph",
         "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 221217,
       "name": "Ngozi",
       "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "YAWA",
+        "url": "https://open.spotify.com/album/3x4uU6LegVMe04Dn5fLiLw"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "YAWA",
+      "url": "https://open.spotify.com/track/5tM3Fo4qBqDAwWJ9ZY5AtX"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Pick Up",
-        "url": "https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU"
-      },
-      "artists": [
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 156550,
-      "name": "Pick Up",
-      "url": "https://open.spotify.com/track/1deimiQlzca70jziGDtTsm"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1oSN6MKvpXR5WOHnsPi05w"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 197000,
       "name": "Kolomental",
       "url": "https://open.spotify.com/track/3kqE7QmylUIJV3QXC6arrR"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Pick Up",
+        "url": "https://open.spotify.com/album/17Q3HSD6YVtEGWuhN4HrPU"
+      },
+      "artists": [
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 156550,
+      "name": "Pick Up",
+      "url": "https://open.spotify.com/track/1deimiQlzca70jziGDtTsm"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Red Flags",
-        "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 175254,
-      "name": "Red Flags",
-      "url": "https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Traboski",
         "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Red Flags",
+        "url": "https://open.spotify.com/album/2GcVQ3E89aRrJgdRoe3IVz"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 175254,
+      "name": "Red Flags",
+      "url": "https://open.spotify.com/track/3DfHEgzFDF893oP7lZTGbb"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Shu-Peru",
-        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        }
-      ],
-      "duration_ms": 139377,
-      "name": "Shu-Peru",
-      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "WO WO (Remix)",
         "url": "https://open.spotify.com/album/3wwREZUMLVKc33adNjlAhi"
       },
@@ -1187,6 +1171,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Dog Eat Dog",
+        "url": "https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        }
+      ],
+      "duration_ms": 149052,
+      "name": "Dog Eat Dog",
+      "url": "https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "Trumpet",
         "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
       },
@@ -1207,34 +1207,18 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Dog Eat Dog",
-        "url": "https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH"
+        "name": "Shu-Peru",
+        "url": "https://open.spotify.com/album/2zjCG42Kbz157MZgGreOps"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
         }
       ],
-      "duration_ms": 149052,
-      "name": "Dog Eat Dog",
-      "url": "https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Jonzing Boy",
-        "url": "https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Jonzing Boy",
-      "url": "https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9"
+      "duration_ms": 139377,
+      "name": "Shu-Peru",
+      "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 138034,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Jonzing Boy",
+        "url": "https://open.spotify.com/album/7nn3qjLeYE65qfRUjreXqP"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Jonzing Boy",
+      "url": "https://open.spotify.com/track/0JoCuk9LuUwjLavIGxtKs9"
     },
     {
       "added_at": "2023-09-29 00:01:00",

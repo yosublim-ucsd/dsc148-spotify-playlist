@@ -1,12 +1,12 @@
 {
   "description": "Experience music from some of your favorite Gospel artists and those they've influenced.  Cover:  <a href=\"https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz?si=e38a49f3f17a4147\">Dante Bowe</a>",
-  "num_followers": 214890,
+  "num_followers": 214963,
   "original_name": "Rhythm & Praise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2U5MjJlYjMxOTZhY2FlNWMyZmRmOWUwMmY5Zjg0ZmZhZmNiZTk1",
+  "snapshot_id": "MCxkMzY5NDNjYmZiMGJiMGZjZjZkMWY1NWFlYzIzYTEzNTM3NTJlOGIy",
   "tracks": [
     {
       "added_at": "2023-07-21 11:58:05",
@@ -547,22 +547,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "New Day",
-        "url": "https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H"
+        "name": "This I Know",
+        "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
       },
       "artists": [
         {
-          "name": "Blanca",
-          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
+          "name": "Eris Ford",
+          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
         },
         {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+          "name": "Evan and Eris",
+          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
         }
       ],
-      "duration_ms": 181776,
-      "name": "New Day",
-      "url": "https://open.spotify.com/track/5DPZx70S847lrn640OizK3"
+      "duration_ms": 168236,
+      "name": "This I Know",
+      "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -583,22 +583,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "This I Know",
-        "url": "https://open.spotify.com/album/1KT8xnJzurscLm5UpElift"
+        "name": "New Day",
+        "url": "https://open.spotify.com/album/03BX2eYHXIAC0MfXdK943H"
       },
       "artists": [
         {
-          "name": "Eris Ford",
-          "url": "https://open.spotify.com/artist/1zZDuiPTuQzsbXPj4N58G4"
+          "name": "Blanca",
+          "url": "https://open.spotify.com/artist/0GMSpOzEVXA4kboHiyvddO"
         },
         {
-          "name": "Evan and Eris",
-          "url": "https://open.spotify.com/artist/238va5VNKAEetJLTECq9vf"
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
         }
       ],
-      "duration_ms": 168236,
-      "name": "This I Know",
-      "url": "https://open.spotify.com/track/1Rdb8kU0idzzbLRTjj4mVv"
+      "duration_ms": 181776,
+      "name": "New Day",
+      "url": "https://open.spotify.com/track/5DPZx70S847lrn640OizK3"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -699,22 +699,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Miracles (feat. Pastor Mike Jr.)",
-        "url": "https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD"
+        "name": "Hearts in Pain",
+        "url": "https://open.spotify.com/album/1aXo94Pxz8t8fGbvaZ81Sj"
       },
       "artists": [
         {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+          "name": "Angie Rose",
+          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
         },
         {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+          "name": "Poetics",
+          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
         }
       ],
-      "duration_ms": 358885,
-      "name": "Miracles (feat. Pastor Mike Jr.)",
-      "url": "https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok"
+      "duration_ms": 172972,
+      "name": "Hearts in Pain",
+      "url": "https://open.spotify.com/track/1dJ603jNcGc6eXdRL9Jv78"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -743,6 +743,26 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
+        "name": "Miracles (feat. Pastor Mike Jr.)",
+        "url": "https://open.spotify.com/album/33sy8ZsbmMJYER9v5Yw3xD"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 358885,
+      "name": "Miracles (feat. Pastor Mike Jr.)",
+      "url": "https://open.spotify.com/track/5fATOdcoblNwc2cW4DTUok"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
         "name": "Hard Times (feat. Mali Music)",
         "url": "https://open.spotify.com/album/25hqQNi8mhRfP34y9dKvD0"
       },
@@ -759,26 +779,6 @@
       "duration_ms": 205333,
       "name": "Hard Times (feat. Mali Music)",
       "url": "https://open.spotify.com/track/3rFbsLHao2fghAslf30Qmm"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
-        "name": "Hearts in Pain",
-        "url": "https://open.spotify.com/album/1aXo94Pxz8t8fGbvaZ81Sj"
-      },
-      "artists": [
-        {
-          "name": "Angie Rose",
-          "url": "https://open.spotify.com/artist/2vOqb0eO8aBj2dLpxlmscX"
-        },
-        {
-          "name": "Poetics",
-          "url": "https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP"
-        }
-      ],
-      "duration_ms": 172972,
-      "name": "Hearts in Pain",
-      "url": "https://open.spotify.com/track/1dJ603jNcGc6eXdRL9Jv78"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Kingdom Book One (Deluxe)",
-        "url": "https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 180678,
-      "name": "Exodus",
-      "url": "https://open.spotify.com/track/1nbFfUotkjhYnK9CYenld3"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "Belongs To You (Remix Pack)",
         "url": "https://open.spotify.com/album/4JFyOepnA6LzoCMgDc8T7X"
       },
@@ -907,22 +887,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
+        "name": "Kingdom Book One (Deluxe)",
+        "url": "https://open.spotify.com/album/6yyl9jkkJYITe8z6dNDvIj"
       },
       "artists": [
         {
-          "name": "ELEVATION RHYTHM",
-          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Ryan Ellis",
-          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
         }
       ],
-      "duration_ms": 147604,
-      "name": "Has anyone ever left you high and dry?",
-      "url": "https://open.spotify.com/track/2F5hDBihY3yLQhoznHGDed"
+      "duration_ms": 180678,
+      "name": "Exodus",
+      "url": "https://open.spotify.com/track/1nbFfUotkjhYnK9CYenld3"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -943,6 +923,26 @@
       "duration_ms": 162580,
       "name": "Come and Be My Love",
       "url": "https://open.spotify.com/track/41p6wYPGfrUkUYHgE550c0"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/2t6iyhcrH9dDuPzCSjnxFG"
+      },
+      "artists": [
+        {
+          "name": "ELEVATION RHYTHM",
+          "url": "https://open.spotify.com/artist/0qZ8aSF0iMCQI99AAXikF8"
+        },
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "duration_ms": 147604,
+      "name": "Has anyone ever left you high and dry?",
+      "url": "https://open.spotify.com/track/2F5hDBihY3yLQhoznHGDed"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Motive",
-        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
-      },
-      "artists": [
-        {
-          "name": "Kennis Clark",
-          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
-        }
-      ],
-      "duration_ms": 162500,
-      "name": "Motive",
-      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "A Good Thing",
         "url": "https://open.spotify.com/album/7FUZ0Z40BXZMDDSNMbpeYS"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 172940,
       "name": "A Good Thing",
       "url": "https://open.spotify.com/track/5TgtiD1sCDSvlD6KjqrsJz"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Motive",
+        "url": "https://open.spotify.com/album/6BwDhZVaF5BiXi9pLnP8rH"
+      },
+      "artists": [
+        {
+          "name": "Kennis Clark",
+          "url": "https://open.spotify.com/artist/3f0rz7vcRwXDBjkbBkkmSs"
+        }
+      ],
+      "duration_ms": 162500,
+      "name": "Motive",
+      "url": "https://open.spotify.com/track/3Sxbmguh06sHGiOedKYCqY"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Journey",
-        "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
+        "name": "Safe Place",
+        "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
       },
       "artists": [
         {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+          "name": "Pauline Zoe Park",
+          "url": "https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T"
         }
       ],
-      "duration_ms": 235994,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/0PSiRaqS435Yg2EReUCm0p"
+      "duration_ms": 211209,
+      "name": "Safe Place",
+      "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
+        "name": "Journey",
+        "url": "https://open.spotify.com/album/0LWrNQc2qnMHOWAC7EA2RJ"
+      },
+      "artists": [
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 235994,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/0PSiRaqS435Yg2EReUCm0p"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
         "name": "Let You In",
         "url": "https://open.spotify.com/album/3Cc6mAPJrSzD7jRMmvxudJ"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 203023,
       "name": "Let You In",
       "url": "https://open.spotify.com/track/4DRdaM4ItZyTXVTtJQbsCr"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
-        "name": "Safe Place",
-        "url": "https://open.spotify.com/album/0hvxD5XUvOhvGAJ9pNmIDx"
-      },
-      "artists": [
-        {
-          "name": "Pauline Zoe Park",
-          "url": "https://open.spotify.com/artist/5EtDkb4TepNWQ3k09hrW4T"
-        }
-      ],
-      "duration_ms": 211209,
-      "name": "Safe Place",
-      "url": "https://open.spotify.com/track/4qRRObsRR0MNKPfGM7p5yD"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Heavy",
-        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
-      },
-      "artists": [
-        {
-          "name": "Daphne Richardson",
-          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
         "name": "polaroids.",
         "url": "https://open.spotify.com/album/5Prj7tghns9XY626lMR3LL"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 155688,
       "name": "who.",
       "url": "https://open.spotify.com/track/4nz2Tku7f6FyEE0WZfd2mZ"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
+        "name": "Heavy",
+        "url": "https://open.spotify.com/album/1AMyeFXfU67wKsGzdnNkpE"
+      },
+      "artists": [
+        {
+          "name": "Daphne Richardson",
+          "url": "https://open.spotify.com/artist/5KoV3ti1KQiY6Q430OSIHa"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/5hJLoLdTvr2IhKkJpDnVJp"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1535,30 +1535,18 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "HOMIE",
-        "url": "https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY"
+        "name": "Nothing To Something",
+        "url": "https://open.spotify.com/album/7xSHG5Qj1WZJ0ykFgnMwjY"
       },
       "artists": [
         {
-          "name": "Bridge Music",
-          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
-        },
-        {
-          "name": "SAO!",
-          "url": "https://open.spotify.com/artist/5nvwoFVHtYJsI16yn2vDT2"
-        },
-        {
-          "name": "Reggie Dartey",
-          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
-        },
-        {
-          "name": "Alfa Tavares",
-          "url": "https://open.spotify.com/artist/6TvGpg3Or2JKDGF2TFpUBW"
+          "name": "Grace Tena",
+          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
         }
       ],
-      "duration_ms": 153083,
-      "name": "HOMIE",
-      "url": "https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF"
+      "duration_ms": 257896,
+      "name": "Nothing To Something",
+      "url": "https://open.spotify.com/track/4IE9nQZmfNXVJCRau4PzTz"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1591,18 +1579,30 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Nothing To Something",
-        "url": "https://open.spotify.com/album/7xSHG5Qj1WZJ0ykFgnMwjY"
+        "name": "HOMIE",
+        "url": "https://open.spotify.com/album/76LraBETj4zBYpsAmtJDtY"
       },
       "artists": [
         {
-          "name": "Grace Tena",
-          "url": "https://open.spotify.com/artist/1W2fPbaUIDHflSKOe4S8QT"
+          "name": "Bridge Music",
+          "url": "https://open.spotify.com/artist/2dlCuzBPpSIeyY4ZCJBKGS"
+        },
+        {
+          "name": "SAO!",
+          "url": "https://open.spotify.com/artist/5nvwoFVHtYJsI16yn2vDT2"
+        },
+        {
+          "name": "Reggie Dartey",
+          "url": "https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui"
+        },
+        {
+          "name": "Alfa Tavares",
+          "url": "https://open.spotify.com/artist/6TvGpg3Or2JKDGF2TFpUBW"
         }
       ],
-      "duration_ms": 257896,
-      "name": "Nothing To Something",
-      "url": "https://open.spotify.com/track/4IE9nQZmfNXVJCRau4PzTz"
+      "duration_ms": 153083,
+      "name": "HOMIE",
+      "url": "https://open.spotify.com/track/0xEdclbbUYJR2khLnKn3eF"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
+        "name": "Say Less",
+        "url": "https://open.spotify.com/album/0wu9KEXqi0MTpnumPsSSHw"
+      },
+      "artists": [
+        {
+          "name": "Relena-Rochelle",
+          "url": "https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA"
+        }
+      ],
+      "duration_ms": 167926,
+      "name": "Say Less",
+      "url": "https://open.spotify.com/track/3gGCBBWJfWtoTrgwaueQMG"
+    },
+    {
+      "added_at": "2023-07-21 11:58:05",
+      "album": {
         "name": "Gotta Be God",
         "url": "https://open.spotify.com/album/5QoG06Wf5RiAb3Vf6i1gkv"
       },
@@ -1723,18 +1739,22 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Say Less",
-        "url": "https://open.spotify.com/album/0wu9KEXqi0MTpnumPsSSHw"
+        "name": "Perfect Love",
+        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
       },
       "artists": [
         {
-          "name": "Relena-Rochelle",
-          "url": "https://open.spotify.com/artist/0YKaXNU9tnAbUcxUyjhHFA"
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        },
+        {
+          "name": "No\u00ebl Mio",
+          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
         }
       ],
-      "duration_ms": 167926,
-      "name": "Say Less",
-      "url": "https://open.spotify.com/track/3gGCBBWJfWtoTrgwaueQMG"
+      "duration_ms": 180375,
+      "name": "You're The One",
+      "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1755,26 +1775,6 @@
       "duration_ms": 177214,
       "name": "Simple Ways",
       "url": "https://open.spotify.com/track/4pRmJstStQ4d23TUhjDj6a"
-    },
-    {
-      "added_at": "2023-07-21 11:58:05",
-      "album": {
-        "name": "Perfect Love",
-        "url": "https://open.spotify.com/album/72sgI7kVlLaFCOZPs0TPFg"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        },
-        {
-          "name": "No\u00ebl Mio",
-          "url": "https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta"
-        }
-      ],
-      "duration_ms": 180375,
-      "name": "You're The One",
-      "url": "https://open.spotify.com/track/6vCGmtaAMAqXvoKPqRA3jg"
     },
     {
       "added_at": "2023-07-21 11:58:05",
@@ -1863,22 +1863,18 @@
     {
       "added_at": "2023-07-21 11:58:05",
       "album": {
-        "name": "Unguilty Pleasure",
-        "url": "https://open.spotify.com/album/6h3zsp0Lkb0z1tzXbzq4t0"
+        "name": "Preach",
+        "url": "https://open.spotify.com/album/6EujkT5oqXhCfzmXFJS7Vj"
       },
       "artists": [
         {
-          "name": "Princeton South",
-          "url": "https://open.spotify.com/artist/5BoFZUfqPCRXgzBUWEU8wn"
-        },
-        {
-          "name": "Asha Elia",
-          "url": "https://open.spotify.com/artist/60CbU4u8dlhoHzRCNhTA1S"
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
         }
       ],
-      "duration_ms": 193398,
-      "name": "Unguilty Pleasure",
-      "url": "https://open.spotify.com/track/3CLg16dkjsA2vgcUieeDwU"
+      "duration_ms": 180000,
+      "name": "Preach",
+      "url": "https://open.spotify.com/track/5mzY0sgr4IfN9MI8lDU3Zv"
     }
   ],
   "unique_name": "Rhythm & Praise",

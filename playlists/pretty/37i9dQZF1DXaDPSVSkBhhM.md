@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 
 > ¡Pop\-punk por siempre!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,988 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,014 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 6 | [Eso Es Todo Lo Que Soy](https://open.spotify.com/track/3A0t8Bg8kFoVuCZFiKhY9k) | [GUFI](https://open.spotify.com/artist/2x6OBrjZlSnyftY3Da2mmN) | [Historias De La Calle](https://open.spotify.com/album/0It6LpqmGgPSMdXMSXKS1w) | 3:30 |
 | 7 | [Cien Inviernos](https://open.spotify.com/track/0cOHNQigalz5bWC7hdateS) | [Sputnik](https://open.spotify.com/artist/4x3qtUyePwLlDmDBlxetPG) | [Monumentos](https://open.spotify.com/album/0okUAbYIWPQ9QDlHkKhYeK) | 3:07 |
 | 8 | [Gracias por la Herida](https://open.spotify.com/track/52JXNqsIEDNzEy2Iu0G5fV) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Gracias por la Herida](https://open.spotify.com/album/5Dgg26VbrIcbkVaZUyTgRQ) | 3:49 |
-| 9 | [Ella Miente](https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp) | [Helian Evans](https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N) | [Ella Miente](https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6) | 2:19 |
+| 9 | [Más de Lo Que Te Imaginas](https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Delux](https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl) | 2:48 |
 | 10 | [Resiste](https://open.spotify.com/track/72uy4Nq5wCHFYnV6z2FCp5) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Resiste EP](https://open.spotify.com/album/2VgAfzswusFVxGpMxAzUY9) | 3:37 |
-| 11 | [Más de Lo Que Te Imaginas](https://open.spotify.com/track/4tgzXBZfiR5VKjbqThmtG6) | [Delux](https://open.spotify.com/artist/4VIdUXSfXMQpNulb1L0FUz) | [Delux](https://open.spotify.com/album/3hWSo1wNmgWsYTiFakLuvl) | 2:48 |
+| 11 | [Ella Miente](https://open.spotify.com/track/6cCsyE7NzSudXeDNuLS0Hp) | [Helian Evans](https://open.spotify.com/artist/0zX0CnUqQpJKrwLhgLMN3N) | [Ella Miente](https://open.spotify.com/album/1RD7dFPtirurqEyykabBi6) | 2:19 |
 | 12 | [Mientras quede aliento](https://open.spotify.com/track/5luYUiCm5cKiYeFyntShb5) | [Pignoise](https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw) | [Mientras quede aliento](https://open.spotify.com/album/0dbOXHbcNBNEq5LpmJGGrG) | 3:13 |
 | 13 | [Yonaguni](https://open.spotify.com/track/333TyrvOWbHpq0AIipyIHy) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [RPDF](https://open.spotify.com/album/3bwL8cvP3ALLfMEOOnLgc1) | 3:13 |
 | 14 | [3 de Noviembre \(No Me Agüito\)](https://open.spotify.com/track/5jz98zp21M1LkTGtsSzfsV) | [Chingadazo de Kung Fu](https://open.spotify.com/artist/6xT6c42KpjrOlEhZK12rBL) | [Me Pongo Hasta la Madre Porque Estoy Hasta la Madre](https://open.spotify.com/album/5aiTG05rC4AcL0ZaV2pAYu) | 3:03 |
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDPSVSkBhhM.md) - [plain]
 | 38 | [No olvides de enfocarte siempre en lo importante](https://open.spotify.com/track/1fUj7cHob9Imrk2NfKeesK) | [Da Skate](https://open.spotify.com/artist/3j5RvqYJKTwcBFebeRNrxW) | [La teoría de los septenios](https://open.spotify.com/album/0reFkfAIDklJl8B2CCqxwo) | 2:31 |
 | 39 | [Conversaciones Con Mi Almohada](https://open.spotify.com/track/56azZHaAdx4Ml2GybnV58P) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ), [Fear Allison](https://open.spotify.com/artist/75t1ar10ekAij353mysCMK) | [Autodestrucción](https://open.spotify.com/album/3OeUOu3JA9jwSWqE95VPrR) | 3:54 |
 | 40 | [Un Año](https://open.spotify.com/track/1NvuUQSActakCpCg071n2x) | [Abril 88](https://open.spotify.com/artist/0vAYt4d53Aqk5zqJ764Y9l) | [Un Año](https://open.spotify.com/album/33PGlKYVigoH6jR1qwUfh6) | 2:46 |
-| 41 | [Un X100To \- Cover](https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Un X100To \(Cover\)](https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN) | 2:46 |
-| 42 | [Humanos Como Tú](https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Humanos Como Tú](https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY) | 3:48 |
+| 41 | [Humanos Como Tú](https://open.spotify.com/track/3fvNWLnmratSXuqcVXIHyU) | [División Minúscula](https://open.spotify.com/artist/2Ky9mFKNApb9KpEcORXE3p) | [Humanos Como Tú](https://open.spotify.com/album/0HqeYIoIRBpQ9zt31b5VQY) | 3:48 |
+| 42 | [Un X100To \- Cover](https://open.spotify.com/track/5jAy79SzEzta9iXoGOeTfp) | [Pedro y el Lobo](https://open.spotify.com/artist/46p5O2p6Qi9L0RPB55gzak) | [Un X100To \(Cover\)](https://open.spotify.com/album/0jZNt1uX0aBjDWatpmv0mN) | 2:46 |
 | 43 | [Lugar Especial](https://open.spotify.com/track/2fsGUc8CFRD0RT6OlkES1s) | [Finde](https://open.spotify.com/artist/1F9nkzoHCrTN7e1tuJUXDC) | [Lugar Especial](https://open.spotify.com/album/0gwPRpZuHJJh1lzCPnUDNT) | 3:24 |
-| 44 | [Dualidad](https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Dualidad](https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg) | 3:43 |
-| 45 | [Cereal](https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Cereal](https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL) | 2:41 |
+| 44 | [Cereal](https://open.spotify.com/track/1jEyfhLrKrtbpm0DGbnS7H) | [Wiplash](https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9) | [Cereal](https://open.spotify.com/album/4RFAbUoR8Wjr4800cYcZEL) | 2:41 |
+| 45 | [Dualidad](https://open.spotify.com/track/7uYMRAb62VrGKpOWbaY86m) | [Allison](https://open.spotify.com/artist/4AP5EFbVVcBv8cfyqO0oqr) | [Dualidad](https://open.spotify.com/album/6Nt5M8zfrtUKTjgKrHXASg) | 3:43 |
 | 46 | [Miedo A Caer \(Opening 3 Latino Sub.amv\)](https://open.spotify.com/track/7JVkWGxZo44Jmrb9hbDIpA) | [MIKI](https://open.spotify.com/artist/5ngVZyrFVySdOrvwhYmuss) | [CRISIS](https://open.spotify.com/album/1KkuK9uYHUFAgTLFjTpG0R) | 2:54 |
 | 47 | [15 de Junio](https://open.spotify.com/track/1P9AQNoaDW3F5SThfJ7dUZ) | [Liz Forte](https://open.spotify.com/artist/7GArathIWiQj50qNsBBLN1) | [15 de Junio](https://open.spotify.com/album/4P1ONNbWN12mI1YNxFFQlO) | 2:10 |
-| 48 | [Ciencia Ficción](https://open.spotify.com/track/4G8wj2dAQxmJMXuNHsEKyf) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ) | [Ciencia Ficción](https://open.spotify.com/album/1wzWJCTRw6p6vSTnsQIQtG) | 3:44 |
-| 49 | [Cometas](https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL) | [Novella Inc](https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm) | [Cometas](https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li) | 3:03 |
+| 48 | [Cometas](https://open.spotify.com/track/6mm1LKObTbVz0shiDdricL) | [Novella Inc](https://open.spotify.com/artist/3CtVX0akQ8axuqRjzGajdm) | [Cometas](https://open.spotify.com/album/63yw4FkIB1x854LgBU60Li) | 3:03 |
+| 49 | [Ciencia Ficción](https://open.spotify.com/track/4G8wj2dAQxmJMXuNHsEKyf) | [Buen Viaje](https://open.spotify.com/artist/2JbVpWXj4zBylmwqoDrDhJ) | [Ciencia Ficción](https://open.spotify.com/album/1wzWJCTRw6p6vSTnsQIQtG) | 3:44 |
 | 50 | [Diablo](https://open.spotify.com/track/62mgkKxsHBxt1Hmd04GMai) | [NUNO](https://open.spotify.com/artist/3cvT82FVElcs4E8MBwKgV8) | [Al infierno y de regreso](https://open.spotify.com/album/7rW8Qb4gpmNMZkS4h6nCKa) | 3:24 |
 
-Snapshot ID: `MCw2Yzk3YmM3ZDk0ZjM2NDBhZGM2OTg5ODUzMDQyMDcwMDVjMTlkZTFj`
+Snapshot ID: `MCxkNmJiNjMyZDdhNWU4Y2RjM2EwNzJiNTI1ODc0OWU4ODBhOTQ3NTA0`

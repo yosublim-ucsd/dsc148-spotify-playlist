@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-22",
-  "description": "Taking it back to the 2000s. Cover: T.I.",
+  "description": "Taking it back to the 2000s. Cover: Ja Rule",
   "name": "I Love My 2000s Hip-Hop",
   "tracks": [
     {
@@ -418,6 +418,24 @@
       "duration_ms": 209106,
       "name": "Candy Shop",
       "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
+    },
+    {
+      "album": {
+        "name": "Blood In My Eye",
+        "url": "https://open.spotify.com/album/0O11EhdLUWCOErqA4Xm3b6"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296466,
+      "name": "Clap Back",
+      "url": "https://open.spotify.com/track/1FK0sZfZzCAIDUn7htCemp"
     },
     {
       "album": {
@@ -1640,7 +1658,7 @@
       ],
       "date_added": "2022-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 254706,
       "name": "Like A Pimp",
       "url": "https://open.spotify.com/track/0DW5anNzTO7h0OlKqFsVQ6"
@@ -1666,6 +1684,28 @@
       "duration_ms": 338853,
       "name": "Live Your Life",
       "url": "https://open.spotify.com/track/3jlbL2OTD5YmIunYzgQTAN"
+    },
+    {
+      "album": {
+        "name": "Pain Is Love",
+        "url": "https://open.spotify.com/album/2iIIgsaTEtVjDhrV7HKDJC"
+      },
+      "artists": [
+        {
+          "name": "Ja Rule",
+          "url": "https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6"
+        },
+        {
+          "name": "Case",
+          "url": "https://open.spotify.com/artist/5aEWnrN8h3MhuFUPRfaVuy"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257133,
+      "name": "Livin' It Up",
+      "url": "https://open.spotify.com/track/4ToZV7r72wSbVrljaLSp13"
     },
     {
       "album": {
@@ -2902,7 +2942,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 327666,
       "name": "Swagga Like Us",
       "url": "https://open.spotify.com/track/2kNtAwWATYkqV3CdT20RV0"

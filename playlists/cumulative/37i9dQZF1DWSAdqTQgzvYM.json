@@ -331,6 +331,24 @@
     },
     {
       "album": {
+        "name": "CONFIDENT",
+        "url": "https://open.spotify.com/album/45pqzyFPMnLw0KN9Qe2Ous"
+      },
+      "artists": [
+        {
+          "name": "Zindzi & The Zillionaires",
+          "url": "https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112960,
+      "name": "CONFIDENT",
+      "url": "https://open.spotify.com/track/4Q2ellywUb76X5n08rn8TE"
+    },
+    {
+      "album": {
         "name": "Daisies",
         "url": "https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Os hits j\u00e1 consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: Cynthia Luz",
-  "num_followers": 367005,
+  "num_followers": 366907,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZDg1M2RiMTg2MTY2NjMzN2MzODQ0YzJmY2VmNTI2YTlmNjBiNDQ4",
+  "snapshot_id": "MCxmZWJhZTYyZmE3MWFkYWFiYjQzMjEwYWMwOTU3ZGQ0MjBhZmU1YWJi",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -663,38 +663,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Baile do Papato",
-        "url": "https://open.spotify.com/album/2xReweSuwmZbdogHMILeek"
-      },
-      "artists": [
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        },
-        {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
-        },
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        },
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        }
-      ],
-      "duration_ms": 181670,
-      "name": "24 Horas",
-      "url": "https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Depois do Fim",
         "url": "https://open.spotify.com/album/6Gh9k6PdqxQ6l3tZxZWSH9"
       },
@@ -707,6 +675,34 @@
       "duration_ms": 139649,
       "name": "Coisa Boa",
       "url": "https://open.spotify.com/track/0Z5IDWR4JHuJo7FBsSoM1k"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] [2023 Version]",
+        "url": "https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "LIT killah",
+          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+        },
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 160961,
+      "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version",
+      "url": "https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -747,30 +743,34 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] [2023 Version]",
-        "url": "https://open.spotify.com/album/360cogIQEaXAo8mpdcJFfI"
+        "name": "Baile do Papato",
+        "url": "https://open.spotify.com/album/2xReweSuwmZbdogHMILeek"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
         },
         {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "LIT killah",
-          "url": "https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq"
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
         },
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         }
       ],
-      "duration_ms": 160961,
-      "name": "I'm Good (Blue) [feat. Bebe Rexha, Ludmilla and LIT killah] - 2023 Version",
-      "url": "https://open.spotify.com/track/68NaWutYrE6BcbWuY49HYP"
+      "duration_ms": 181670,
+      "name": "24 Horas",
+      "url": "https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Lua Cheia",
+        "url": "https://open.spotify.com/album/6aRPIPyZQKpSQi3W2p7o4Y"
+      },
+      "artists": [
+        {
+          "name": "Wanessa Camargo",
+          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
+        }
+      ],
+      "duration_ms": 181436,
+      "name": "Lua Cheia",
+      "url": "https://open.spotify.com/track/0MpBrNgNg9ihjLNHW7O6pU"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Controla O Tempo",
         "url": "https://open.spotify.com/album/516Yh6vOtJL96EGeQXaq5r"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 122490,
       "name": "Controla O Tempo",
       "url": "https://open.spotify.com/track/1Qn4RLZbJ5UFD4dWR7dhCs"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Lua Cheia",
-        "url": "https://open.spotify.com/album/6aRPIPyZQKpSQi3W2p7o4Y"
-      },
-      "artists": [
-        {
-          "name": "Wanessa Camargo",
-          "url": "https://open.spotify.com/artist/4tKyqcDgQpGEIvJlbhl07P"
-        }
-      ],
-      "duration_ms": 181436,
-      "name": "Lua Cheia",
-      "url": "https://open.spotify.com/track/0MpBrNgNg9ihjLNHW7O6pU"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Desculpa por Eu N\u00e3o Te Amar",
+        "url": "https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z"
+      },
+      "artists": [
+        {
+          "name": "Thiago Pantale\u00e3o",
+          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
+        }
+      ],
+      "duration_ms": 186188,
+      "name": "Desculpa por Eu N\u00e3o Te Amar",
+      "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Brigas Demais - Live",
         "url": "https://open.spotify.com/album/0vCLrwZTtam4AFmvbNN0fC"
       },
@@ -1067,22 +1083,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Desculpa por Eu N\u00e3o Te Amar",
-        "url": "https://open.spotify.com/album/2vZAzUAtQz2IfEMCu8470Z"
-      },
-      "artists": [
-        {
-          "name": "Thiago Pantale\u00e3o",
-          "url": "https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6"
-        }
-      ],
-      "duration_ms": 186188,
-      "name": "Desculpa por Eu N\u00e3o Te Amar",
-      "url": "https://open.spotify.com/track/3sOpdZk6nc2As9ZaeGYkUG"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Ondas",
         "url": "https://open.spotify.com/album/2vF6eAgdrbrlfXwYhNHG9r"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 168220,
       "name": "Ondas",
       "url": "https://open.spotify.com/track/5jgRQRPhDC8sBoCNZYq7a5"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Bomba",
-        "url": "https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo"
-      },
-      "artists": [
-        {
-          "name": "PRISCILLA",
-          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
-        }
-      ],
-      "duration_ms": 136806,
-      "name": "Bomba",
-      "url": "https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Bomba",
+        "url": "https://open.spotify.com/album/50fMxICIH05gOr9npaZiPo"
+      },
+      "artists": [
+        {
+          "name": "PRISCILLA",
+          "url": "https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa"
+        }
+      ],
+      "duration_ms": 136806,
+      "name": "Bomba",
+      "url": "https://open.spotify.com/track/6EOoEjJEfyijbj5JXmbPw3"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Amigos N\u00e3o Se Pegam",
         "url": "https://open.spotify.com/album/4vt8nWm8cNHSINt9VZyWgr"
       },
@@ -1143,6 +1143,22 @@
       "duration_ms": 165240,
       "name": "Amigos N\u00e3o Se Pegam",
       "url": "https://open.spotify.com/track/3pk8Y2u396N40hnzh0GoRz"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Quero te ver gozar",
+        "url": "https://open.spotify.com/album/58y3yjaCfF8Z3lCoAxqcog"
+      },
+      "artists": [
+        {
+          "name": "Jaloo",
+          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
+        }
+      ],
+      "duration_ms": 181951,
+      "name": "Quero te ver gozar",
+      "url": "https://open.spotify.com/track/25AI0OE0Dl2le4omEsIwyW"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1163,22 +1179,6 @@
       "duration_ms": 118577,
       "name": "MALDADE",
       "url": "https://open.spotify.com/track/2ZdZkj7bt6R0khItCrD9QB"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Quero te ver gozar",
-        "url": "https://open.spotify.com/album/58y3yjaCfF8Z3lCoAxqcog"
-      },
-      "artists": [
-        {
-          "name": "Jaloo",
-          "url": "https://open.spotify.com/artist/1rdXEdH8SRIqbuTbzQzd93"
-        }
-      ],
-      "duration_ms": 181951,
-      "name": "Quero te ver gozar",
-      "url": "https://open.spotify.com/track/25AI0OE0Dl2le4omEsIwyW"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "S\u00f3 Minha",
+        "url": "https://open.spotify.com/album/6Ra6EkKXpxMzlj9LDzAb4H"
+      },
+      "artists": [
+        {
+          "name": "Sofia Gayoso",
+          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
+        }
+      ],
+      "duration_ms": 171536,
+      "name": "S\u00f3 Minha",
+      "url": "https://open.spotify.com/track/5MWedCrdHFDo0LA9CA6Giz"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "DARK POP",
         "url": "https://open.spotify.com/album/6cFlWu1S2B4Xc0CB5gMS2A"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 168254,
       "name": "Karma",
       "url": "https://open.spotify.com/track/1bI9r5cGAL2D1GqOON37Gg"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "S\u00f3 Minha",
-        "url": "https://open.spotify.com/album/6Ra6EkKXpxMzlj9LDzAb4H"
-      },
-      "artists": [
-        {
-          "name": "Sofia Gayoso",
-          "url": "https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG"
-        }
-      ],
-      "duration_ms": 171536,
-      "name": "S\u00f3 Minha",
-      "url": "https://open.spotify.com/track/5MWedCrdHFDo0LA9CA6Giz"
     },
     {
       "added_at": "2023-10-06 03:00:00",

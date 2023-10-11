@@ -1288,7 +1288,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 247000,
       "name": "I\u2019m The President",
       "url": "https://open.spotify.com/track/61KjKb7MNasVxEBMkcJblU"
@@ -1642,6 +1642,24 @@
       "duration_ms": 197210,
       "name": "Nautical - Radio Edit",
       "url": "https://open.spotify.com/track/2fuEnEKYed6EpgWcMjVVqx"
+    },
+    {
+      "album": {
+        "name": "Never Fight The Way You Feel",
+        "url": "https://open.spotify.com/album/3zc7JOm4n76FkKzaNwV3qQ"
+      },
+      "artists": [
+        {
+          "name": "Ella Thompson",
+          "url": "https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163000,
+      "name": "Never Fight The Way You Feel",
+      "url": "https://open.spotify.com/track/1dO4drroXmLL5YcJ2NtYLl"
     },
     {
       "album": {

@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Afterlight",
+        "url": "https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "Afterlight",
+      "url": "https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr"
+    },
+    {
+      "album": {
         "name": "Alba",
         "url": "https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq"
       },
@@ -239,6 +257,24 @@
     },
     {
       "album": {
+        "name": "At A Glance",
+        "url": "https://open.spotify.com/album/4vBxCrmYU5niiq6ihQiYd0"
+      },
+      "artists": [
+        {
+          "name": "Gale Moore",
+          "url": "https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157995,
+      "name": "At A Glance",
+      "url": "https://open.spotify.com/track/2UsLov7NMKkN1Uh9WUBEw9"
+    },
+    {
+      "album": {
         "name": "Fragment",
         "url": "https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE"
       },
@@ -272,6 +308,24 @@
       "duration_ms": 169000,
       "name": "At The Other End",
       "url": "https://open.spotify.com/track/4UfJ7pMdJMCyg2nO2pLjBr"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/2Zf3XnfqZ8f23RyehUilEC"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 D\u00edvou",
+          "url": "https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/2bHfIDLkWeCXSg4ehFuUlo"
     },
     {
       "album": {
@@ -1443,6 +1497,24 @@
     },
     {
       "album": {
+        "name": "If I Told Him",
+        "url": "https://open.spotify.com/album/58xwZGnCeeKs4knfEr2oun"
+      },
+      "artists": [
+        {
+          "name": "Maybelle Watson",
+          "url": "https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147969,
+      "name": "If I Told Him",
+      "url": "https://open.spotify.com/track/0HspurIsQT5VsX9UD2D28q"
+    },
+    {
+      "album": {
         "name": "If You Must Go",
         "url": "https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd"
       },
@@ -1512,6 +1584,24 @@
       "duration_ms": 224000,
       "name": "In Essence",
       "url": "https://open.spotify.com/track/22wf4F0EwtjXyPbg0kioHm"
+    },
+    {
+      "album": {
+        "name": "In my arms",
+        "url": "https://open.spotify.com/album/0eQUSx23ROwXjwPKo0BQLo"
+      },
+      "artists": [
+        {
+          "name": "Limestone Quarry",
+          "url": "https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "In my arms",
+      "url": "https://open.spotify.com/track/54y634vST5xlwpSMwKcXoK"
     },
     {
       "album": {
@@ -2106,6 +2196,24 @@
       "duration_ms": 180000,
       "name": "New Moon",
       "url": "https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT"
+    },
+    {
+      "album": {
+        "name": "Night Clouds",
+        "url": "https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd"
+      },
+      "artists": [
+        {
+          "name": "Domi Nova",
+          "url": "https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172552,
+      "name": "Night Clouds",
+      "url": "https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF"
     },
     {
       "album": {
@@ -3370,6 +3478,24 @@
       "duration_ms": 128994,
       "name": "Ups & Downs",
       "url": "https://open.spotify.com/track/4fjEDWJKkQpaBZVsRBXe10"
+    },
+    {
+      "album": {
+        "name": "Valencia",
+        "url": "https://open.spotify.com/album/5EblH0XOm0QKeOEeypwONP"
+      },
+      "artists": [
+        {
+          "name": "Gaspar Becerra",
+          "url": "https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174353,
+      "name": "Valencia",
+      "url": "https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs"
     },
     {
       "album": {

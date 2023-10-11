@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 
 > La playlist idéale pour prendre la route.
 
-[Spotify](https://open.spotify.com/user/spotify) - 411,268 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 411,360 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1S89tRXh2OS.md) - [plain]
 | 79 | [Crossroads](https://open.spotify.com/track/4rxamav7i2lJexbuAxcvfe) | [Tracy Chapman](https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP) | [Crossroads](https://open.spotify.com/album/7xlc8VKmPqZJ9m1Dphm6O5) | 4:11 |
 | 80 | [Heal Tomorrow](https://open.spotify.com/track/3h7eMylOrv17N8f1RlTom0) | [Naive New Beaters](https://open.spotify.com/artist/0xW1QQBD5O09HptO2fEaI4), [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [A la folie](https://open.spotify.com/album/7G1A4q4iZs7nqKeORKHlW2) | 3:36 |
 
-Snapshot ID: `MCxiY2Q5ZjhlM2M2OGRiYzliMTQ3MTBhYTA3MWY1ZWJiMmM4NWU1NGM0`
+Snapshot ID: `MCxlZmE2ZDcyMDVlZTc4ZjMxYmNjNWI4OTRlMDkxZmNiZTljZTY0MDk3`

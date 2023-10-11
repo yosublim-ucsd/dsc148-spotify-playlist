@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 17748,
+  "num_followers": 17801,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZDgwYzNkMzgxNGM0YjI1ZmE0ZDJjZmUzYjViYzQ5ODNmMTg0NWVl",
+  "snapshot_id": "MCwwOGUzYWNmZTEzMzA3NzQ5ZDNiMTI5YzI4N2RhMTczY2E1ZTMwZWE1",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Jambazz",
+        "url": "https://open.spotify.com/album/5ga030ura8BLMtslCr8Lol"
+      },
+      "artists": [
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 139573,
+      "name": "Jambazz",
+      "url": "https://open.spotify.com/track/4FW5bi4wZqMY6cAlVAWGTB"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "Comforter (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 216000,
       "name": "Comforter (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Jambazz",
-        "url": "https://open.spotify.com/album/5ga030ura8BLMtslCr8Lol"
-      },
-      "artists": [
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 139573,
-      "name": "Jambazz",
-      "url": "https://open.spotify.com/track/4FW5bi4wZqMY6cAlVAWGTB"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "The Second Wave",
-        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
-      },
-      "artists": [
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        }
-      ],
-      "duration_ms": 206775,
-      "name": "Snapchat",
-      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "19 & Dangerous",
         "url": "https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv"
       },
@@ -563,22 +547,18 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+        "name": "The Second Wave",
+        "url": "https://open.spotify.com/album/2X0RCBDJankvvvaJgMUUHD"
       },
       "artists": [
         {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 174117,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
+      "duration_ms": 206775,
+      "name": "Snapchat",
+      "url": "https://open.spotify.com/track/10m1yYuud3w7bb43srjbWi"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -595,6 +575,26 @@
       "duration_ms": 192475,
       "name": "WITH YOU",
       "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Spell (Remix)",
-        "url": "https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 173304,
-      "name": "Spell - Remix",
-      "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Line Of Fire",
         "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Spell (Remix)",
+        "url": "https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 173304,
+      "name": "Spell - Remix",
+      "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Life Is Better Now",
+        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "duration_ms": 151724,
+      "name": "Troubling",
+      "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "Anticipate",
         "url": "https://open.spotify.com/album/1gjvuirxy43mXAc6O7UNLD"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 167355,
       "name": "Anticipate",
       "url": "https://open.spotify.com/track/1riqbH7Qd4VEXaWBd0L9YA"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Life Is Better Now",
-        "url": "https://open.spotify.com/album/7yVVSBfsdnDXKgi4pKwJMo"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 151724,
-      "name": "Troubling",
-      "url": "https://open.spotify.com/track/2ES55pOmP7U7DnFueBuLwO"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1239,6 +1239,26 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB"
+      },
+      "artists": [
+        {
+          "name": "Tony Frank",
+          "url": "https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 155141,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "History",
         "url": "https://open.spotify.com/album/44zdr1Zpmdyh01GgGIONF0"
       },
@@ -1271,26 +1291,6 @@
       "duration_ms": 156771,
       "name": "Eye to Eye",
       "url": "https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "No Stress",
-        "url": "https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB"
-      },
-      "artists": [
-        {
-          "name": "Tony Frank",
-          "url": "https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 155141,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1391,6 +1391,26 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Alinko",
+        "url": "https://open.spotify.com/album/2emgoSO0tHVlIv8s4fprne"
+      },
+      "artists": [
+        {
+          "name": "ShineTTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+        },
+        {
+          "name": "KTIZO",
+          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+        }
+      ],
+      "duration_ms": 149387,
+      "name": "Alinko",
+      "url": "https://open.spotify.com/track/0aUYRTlB5OkYf2MIpjWVgm"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "2 Bad",
         "url": "https://open.spotify.com/album/67MMNKNZHyB86skPewtMoZ"
       },
@@ -1431,22 +1451,18 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Alinko",
-        "url": "https://open.spotify.com/album/2emgoSO0tHVlIv8s4fprne"
+        "name": "Upcoming (Check on Me)",
+        "url": "https://open.spotify.com/album/5UDgGPdFSnkySQ192FyrgX"
       },
       "artists": [
         {
-          "name": "ShineTTW",
-          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
-        },
-        {
-          "name": "KTIZO",
-          "url": "https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr"
+          "name": "Priesst",
+          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
         }
       ],
-      "duration_ms": 149387,
-      "name": "Alinko",
-      "url": "https://open.spotify.com/track/0aUYRTlB5OkYf2MIpjWVgm"
+      "duration_ms": 145676,
+      "name": "Upcoming (Check on Me)",
+      "url": "https://open.spotify.com/track/5D1nn7nHPn1oLP4bWIKS0V"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1467,22 +1483,6 @@
       "duration_ms": 242026,
       "name": "Trobul",
       "url": "https://open.spotify.com/track/3mitop70iyN03AreLNsit4"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Upcoming (Check on Me)",
-        "url": "https://open.spotify.com/album/5UDgGPdFSnkySQ192FyrgX"
-      },
-      "artists": [
-        {
-          "name": "Priesst",
-          "url": "https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP"
-        }
-      ],
-      "duration_ms": 145676,
-      "name": "Upcoming (Check on Me)",
-      "url": "https://open.spotify.com/track/5D1nn7nHPn1oLP4bWIKS0V"
     },
     {
       "added_at": "2023-09-29 00:01:00",

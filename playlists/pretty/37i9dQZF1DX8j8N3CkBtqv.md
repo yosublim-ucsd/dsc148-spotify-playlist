@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover\- Prateek Kuhad
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,489 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,519 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Mulaqat](https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/2LBQG9vBtXEL7RD4FUTJTa) | 4:06 |
 | 2 | [Berang](https://open.spotify.com/track/1YnNzDtqdYOmiW7PMSpqxg) | [Raveena Paul](https://open.spotify.com/artist/3JShaTOiYkvAT6XoaU38se), [Reena Gilbert](https://open.spotify.com/artist/0MTZdlgu4KBHtWotp2ShV0) | [Berang](https://open.spotify.com/album/45ZIuB3SzUQqMxyIbnWbyX) | 3:16 |
-| 3 | [Kyun Tujhse Mila](https://open.spotify.com/track/5dNZtHAcfs2XAAmONCi74E) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N) | [Kyun Tujhse Mila](https://open.spotify.com/album/10DLl9xX4RVhfBgb1AINbM) | 3:02 |
+| 3 | [Kyun Tujhse Mila](https://open.spotify.com/track/5dNZtHAcfs2XAAmONCi74E) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Kyun Tujhse Mila](https://open.spotify.com/album/10DLl9xX4RVhfBgb1AINbM) | 3:02 |
 | 4 | [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 |
 | 5 | [Dil Hi To Hai](https://open.spotify.com/track/7zBgwvwMEdFmTIOxYCoM3X) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Dil Hi To Hai](https://open.spotify.com/album/6gdK76yyTXbwBgRbPP5Ii5) | 2:38 |
 | 6 | [Kyu Duur Hai](https://open.spotify.com/track/65ri2V67w0oYnr2SkZEeTe) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Shor](https://open.spotify.com/artist/3S8X8QIU0sGRzRKYHDiXDX) | [Kyu Duur Hai](https://open.spotify.com/album/73agZtVf8E0inXNHq6KaLM) | 2:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 49 | [Sun Beliya](https://open.spotify.com/track/4dIXexUt5xZfhf4f6lp90B) | [Deepshikha Raina](https://open.spotify.com/artist/65RSx9RT02eH4TvBKdeqBY) | [Sun Beliya](https://open.spotify.com/album/5e2Il2vYU1XJZ3Arsk1KLt) | 3:55 |
 | 50 | [Aankho](https://open.spotify.com/track/48u0CB0okfJOGMNI48XXkM) | [Vasu Raina](https://open.spotify.com/artist/5wwyvQQMsmzSUZo6FBoWJL), [Rosha](https://open.spotify.com/artist/67EXdrGwwfa57WXXb8CTpL), [Jakhar](https://open.spotify.com/artist/5ixfE5Gruh9c4sCudjTzNk) | [Aankho](https://open.spotify.com/album/2wU0l9dmzo1qxHJE929gvo) | 3:24 |
 
-Snapshot ID: `MCxjZTkzZThmNDBjOWM4NWFkZWJmNzc1NjA1YjdiMGEwNjVmYTAyZjYw`
+Snapshot ID: `MCxlNGFmNTE4MWU0MTU1NjI1ZDIxYmE5ZGE0ODgzZWE4MTE2MzRhNjI1`

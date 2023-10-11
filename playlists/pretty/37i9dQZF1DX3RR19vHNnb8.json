@@ -1,12 +1,12 @@
 {
   "description": "Hip hop tracks to kick your workout up a notch",
-  "num_followers": 15287,
+  "num_followers": 15315,
   "original_name": "Pump it Up ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2FjZTljNzdjYjM3ZjI5ZWZlZDA5ZTNhMGRkNzBhZjZhZTY3MTc2",
+  "snapshot_id": "MCwyMmY4MDA1ZDM4YjdkNzRmM2M3M2QyNThmYWM1MjA0M2IxYWJmOTdh",
   "tracks": [
     {
       "added_at": "2023-09-15 09:00:30",
@@ -271,18 +271,22 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         }
       ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+      "duration_ms": 204373,
+      "name": "Lazarus (feat. Boj)",
+      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
     },
     {
       "added_at": "2023-09-15 09:00:30",
@@ -303,22 +307,18 @@
     {
       "added_at": "2023-09-15 09:00:30",
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 204373,
-      "name": "Lazarus (feat. Boj)",
-      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "added_at": "2023-09-15 09:00:30",

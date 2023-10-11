@@ -1,12 +1,12 @@
 {
   "description": "Chill to these acoustic songs from the Middle East and North Africa. Cover: Labess.",
-  "num_followers": 60433,
+  "num_followers": 60454,
   "original_name": "Acoustic Arabic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxYWE3M2EyZjcxMzAwYzE4ODhmMDYyNWY2NDg4ZWI3Y2YwOWZlMWZj",
+  "snapshot_id": "MCw2NWJiMDc3ZDY4YjY1NmQzMjZmMTUwYWNlY2YwOTJjNWQ0YTFkMjg0",
   "tracks": [
     {
       "added_at": "2022-05-09 08:05:11",
@@ -195,6 +195,26 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "K'lma",
+        "url": "https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81"
+      },
+      "artists": [
+        {
+          "name": "Fay\u00e7al Azizi",
+          "url": "https://open.spotify.com/artist/1eoHwLV1bakKB2Jm2cLwhQ"
+        },
+        {
+          "name": "Sakina Lafdaili",
+          "url": "https://open.spotify.com/artist/4Vw07BA7nA6viX20DkLmpl"
+        }
+      ],
+      "duration_ms": 310000,
+      "name": "Warda Ala Warda",
+      "url": "https://open.spotify.com/track/5wvvAkLPVVwk1IZZEkjdeD"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "Identit\u00e9",
         "url": "https://open.spotify.com/album/0BhgbOGDmeayGBVonX5hVR"
       },
@@ -207,6 +227,22 @@
       "duration_ms": 216506,
       "name": "El Kess Yaddour",
       "url": "https://open.spotify.com/track/7pgUEhd5vgSZLDMBVapiTm"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Chura",
+        "url": "https://open.spotify.com/album/1Gs4HM1Ra5HzuGyUJkxtmQ"
+      },
+      "artists": [
+        {
+          "name": "\u0178uma",
+          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
+        }
+      ],
+      "duration_ms": 160078,
+      "name": "Smek",
+      "url": "https://open.spotify.com/track/1w6PwIPjMOA2FZ2Dq9HGIV"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -231,58 +267,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Chura",
-        "url": "https://open.spotify.com/album/1Gs4HM1Ra5HzuGyUJkxtmQ"
-      },
-      "artists": [
-        {
-          "name": "\u0178uma",
-          "url": "https://open.spotify.com/artist/1PRH2VLBHk1kMY2BFI0GQW"
-        }
-      ],
-      "duration_ms": 160078,
-      "name": "Smek",
-      "url": "https://open.spotify.com/track/1w6PwIPjMOA2FZ2Dq9HGIV"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "K'lma",
-        "url": "https://open.spotify.com/album/2XY4xSVrYpRDTuUbPkVo81"
-      },
-      "artists": [
-        {
-          "name": "Fay\u00e7al Azizi",
-          "url": "https://open.spotify.com/artist/1eoHwLV1bakKB2Jm2cLwhQ"
-        },
-        {
-          "name": "Sakina Lafdaili",
-          "url": "https://open.spotify.com/artist/4Vw07BA7nA6viX20DkLmpl"
-        }
-      ],
-      "duration_ms": 310000,
-      "name": "Warda Ala Warda",
-      "url": "https://open.spotify.com/track/5wvvAkLPVVwk1IZZEkjdeD"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Ahwak ( Version)",
-        "url": "https://open.spotify.com/album/6eJh5YvfNPAF7FVb8w4tMV"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 94432,
-      "name": "Ahwak - Acoustic",
-      "url": "https://open.spotify.com/track/3JfR7VLGOcl6ZdCGa7ciID"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "\u0635\u062d \u0627\u0644\u0646\u0648\u0645",
         "url": "https://open.spotify.com/album/5GLEKnaRshEuOfenkwAC0j"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 199636,
       "name": "Ahwak Hiba",
       "url": "https://open.spotify.com/track/4dMQ70p4sCovJ4qrpyOvmN"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Ahwak ( Version)",
+        "url": "https://open.spotify.com/album/6eJh5YvfNPAF7FVb8w4tMV"
+      },
+      "artists": [
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        }
+      ],
+      "duration_ms": 94432,
+      "name": "Ahwak - Acoustic",
+      "url": "https://open.spotify.com/track/3JfR7VLGOcl6ZdCGa7ciID"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -719,6 +719,38 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
+        "name": "Baby Baby (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0LriuhHAoi1kknfbUrAq82"
+      },
+      "artists": [
+        {
+          "name": "Mok Saib",
+          "url": "https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Baby Baby - Acoustic Version",
+      "url": "https://open.spotify.com/track/3s7QTPgwtWfrOXraMAF3cO"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Matalib - COLORS Sudan",
+        "url": "https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk"
+      },
+      "artists": [
+        {
+          "name": "Sammany",
+          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
+        }
+      ],
+      "duration_ms": 158896,
+      "name": "Matalib - COLORS Sudan",
+      "url": "https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
         "name": "El Nour",
         "url": "https://open.spotify.com/album/3l39Bl8unEhLRYfIIDyqjF"
       },
@@ -751,38 +783,6 @@
       "duration_ms": 199171,
       "name": "Sahar El Layali (Kan Enna Tahoun)",
       "url": "https://open.spotify.com/track/1T3Awxy8awy2c75OeSsPyL"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Matalib - COLORS Sudan",
-        "url": "https://open.spotify.com/album/2nBqEnlrPggCNvmoFY32yk"
-      },
-      "artists": [
-        {
-          "name": "Sammany",
-          "url": "https://open.spotify.com/artist/4NyCG4OTfplfwyO65U7gY7"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Matalib - COLORS Sudan",
-      "url": "https://open.spotify.com/track/6EX84olr1TqoAfa08NH28j"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
-        "name": "Baby Baby (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0LriuhHAoi1kknfbUrAq82"
-      },
-      "artists": [
-        {
-          "name": "Mok Saib",
-          "url": "https://open.spotify.com/artist/6jcvupTBm6vk5SMEEVpvSW"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Baby Baby - Acoustic Version",
-      "url": "https://open.spotify.com/track/3s7QTPgwtWfrOXraMAF3cO"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -867,22 +867,6 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Keda Bardou (Acoustic Version)",
-        "url": "https://open.spotify.com/album/3DRoMceTit2X7pVuxGk0SJ"
-      },
-      "artists": [
-        {
-          "name": "Maya Diab",
-          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
-        }
-      ],
-      "duration_ms": 163631,
-      "name": "Keda Bardou - Acoustic Version",
-      "url": "https://open.spotify.com/track/1pfjYmRDZtkza7Z1nAkb32"
-    },
-    {
-      "added_at": "2022-05-09 08:05:11",
-      "album": {
         "name": "Between City Walls",
         "url": "https://open.spotify.com/album/0aUGJkdUCaTmBqlB2gD3I0"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 221043,
       "name": "Enough",
       "url": "https://open.spotify.com/track/4CZ2wKpcjgoQDxGMQNUdqb"
+    },
+    {
+      "added_at": "2022-05-09 08:05:11",
+      "album": {
+        "name": "Keda Bardou (Acoustic Version)",
+        "url": "https://open.spotify.com/album/3DRoMceTit2X7pVuxGk0SJ"
+      },
+      "artists": [
+        {
+          "name": "Maya Diab",
+          "url": "https://open.spotify.com/artist/4b5UHpUmrPycvsgu2M3ujz"
+        }
+      ],
+      "duration_ms": 163631,
+      "name": "Keda Bardou - Acoustic Version",
+      "url": "https://open.spotify.com/track/1pfjYmRDZtkza7Z1nAkb32"
     },
     {
       "added_at": "2022-05-09 08:05:11",
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2022-05-09 08:05:11",
       "album": {
-        "name": "Fattah Al Ward",
-        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
+        "name": "Checkpoint Rock: Canciones Desde Palestina",
+        "url": "https://open.spotify.com/album/5elgS21gSfVxSjz2y22iP8"
       },
       "artists": [
         {
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
         }
       ],
-      "duration_ms": 173013,
-      "name": "Keber Al Alb",
-      "url": "https://open.spotify.com/track/2gM94Dic9ifye4kt6Kvu5U"
+      "duration_ms": 189546,
+      "name": "Memories Of A Palestinian Wound",
+      "url": "https://open.spotify.com/track/7EuovX8mMPgIuDjAPECG02"
     },
     {
       "added_at": "2022-05-09 08:05:11",

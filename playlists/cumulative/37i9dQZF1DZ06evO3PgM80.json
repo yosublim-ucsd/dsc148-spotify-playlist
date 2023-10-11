@@ -357,6 +357,32 @@
     },
     {
       "album": {
+        "name": "Testemunho",
+        "url": "https://open.spotify.com/album/5WL6YejG3O4C9TmMzWC3pz"
+      },
+      "artists": [
+        {
+          "name": "Passion",
+          "url": "https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16"
+        },
+        {
+          "name": "Chidima",
+          "url": "https://open.spotify.com/artist/6zlQA1XhUAeqMSs1hkSi9a"
+        },
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281414,
+      "name": "Lindo Jesus",
+      "url": "https://open.spotify.com/track/75muDXrQ8LSrPGvyNYdMX6"
+    },
+    {
+      "album": {
         "name": "Me Deixe Aqui / Tudo Entregarei (Ao Vivo)",
         "url": "https://open.spotify.com/album/1XzaVO3g4JZm1G7409Jhmh"
       },

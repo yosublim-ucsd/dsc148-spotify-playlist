@@ -1,12 +1,12 @@
 {
   "description": "Tudo de novo que t\u00e1 rolando no pop! Atualizada toda semana \u2728 Foto: Tate McRaezinha",
-  "num_followers": 121230,
+  "num_followers": 121259,
   "original_name": "SUPERNOVA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTVmZDY1NDMwYTM4MDZiYzMzMmQzYTZlYjRjZDMxMzkwOWZmOWU0",
+  "snapshot_id": "MCxjMWZhNjRhN2YwMWFmNDM5NjIyZWIxNWI4YzhhMDU0MzM1NWQ1NDRi",
   "tracks": [
     {
       "added_at": "2023-10-09 17:11:58",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-10-09 17:11:58",
       "album": {
-        "name": "THE GIRLS (BLACKPINK THE GAME OST)",
-        "url": "https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
       "artists": [
         {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 162000,
-      "name": "THE GIRLS - BLACKPINK THE GAME OST",
-      "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
+      "duration_ms": 230480,
+      "name": "Paint The Town Red",
+      "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
     },
     {
       "added_at": "2023-10-09 17:11:58",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-10-09 17:11:58",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+        "name": "THE GIRLS (BLACKPINK THE GAME OST)",
+        "url": "https://open.spotify.com/album/01K5Mr0IkO7GQrvoUEsWfS"
       },
       "artists": [
         {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
         }
       ],
-      "duration_ms": 230480,
-      "name": "Paint The Town Red",
-      "url": "https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC"
+      "duration_ms": 162000,
+      "name": "THE GIRLS - BLACKPINK THE GAME OST",
+      "url": "https://open.spotify.com/track/1mFpMoeZfkIqtqW2AfQ8ba"
     },
     {
       "added_at": "2023-10-09 17:11:58",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-10-09 17:11:58",
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 195573,
-      "name": "Demons",
-      "url": "https://open.spotify.com/track/6vb4kCEIM7zrwuHlxFbfeB"
-    },
-    {
-      "added_at": "2023-10-09 17:11:58",
-      "album": {
         "name": "Dead Man",
         "url": "https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY"
       },
@@ -643,6 +627,22 @@
     {
       "added_at": "2023-10-09 17:11:58",
       "album": {
+        "name": "Mosquito",
+        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
+      },
+      "artists": [
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 146240,
+      "name": "Mosquito",
+      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
+    },
+    {
+      "added_at": "2023-10-09 17:11:58",
+      "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
       },
@@ -655,6 +655,22 @@
       "duration_ms": 197976,
       "name": "American Town",
       "url": "https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h"
+    },
+    {
+      "added_at": "2023-10-09 17:11:58",
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 195573,
+      "name": "Demons",
+      "url": "https://open.spotify.com/track/6vb4kCEIM7zrwuHlxFbfeB"
     },
     {
       "added_at": "2023-10-09 17:11:58",
@@ -683,18 +699,22 @@
     {
       "added_at": "2023-10-09 17:11:58",
       "album": {
-        "name": "Mosquito",
-        "url": "https://open.spotify.com/album/4D4XpwlWhUNp8dOdYmuNIB"
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
       },
       "artists": [
         {
-          "name": "PinkPantheress",
-          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Lloyiso",
+          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
         }
       ],
-      "duration_ms": 146240,
-      "name": "Mosquito",
-      "url": "https://open.spotify.com/track/0LzidBf7cUsnZnG34OUPSF"
+      "duration_ms": 163000,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
     },
     {
       "added_at": "2023-10-09 17:11:58",
@@ -739,26 +759,6 @@
     {
       "added_at": "2023-10-09 17:11:58",
       "album": {
-        "name": "Real Love",
-        "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Lloyiso",
-          "url": "https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g"
-        }
-      ],
-      "duration_ms": 163000,
-      "name": "Real Love",
-      "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
-    },
-    {
-      "added_at": "2023-10-09 17:11:58",
-      "album": {
         "name": "Silence Between Songs",
         "url": "https://open.spotify.com/album/0Q0rJ81u7O4EFCpqkcwJJ2"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2023-10-09 17:11:58",
       "album": {
-        "name": "Be More",
-        "url": "https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 231684,
-      "name": "Be More",
-      "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
-    },
-    {
-      "added_at": "2023-10-09 17:11:58",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/4zhSWdHOuYGS7EoJiY6PaE"
       },
@@ -827,6 +811,22 @@
     {
       "added_at": "2023-10-09 17:11:58",
       "album": {
+        "name": "Be More",
+        "url": "https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 231684,
+      "name": "Be More",
+      "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
+    },
+    {
+      "added_at": "2023-10-09 17:11:58",
+      "album": {
         "name": "Tension",
         "url": "https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA"
       },
@@ -839,26 +839,6 @@
       "duration_ms": 216453,
       "name": "Tension",
       "url": "https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p"
-    },
-    {
-      "added_at": "2023-10-09 17:11:58",
-      "album": {
-        "name": "NO SZNS",
-        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
-      },
-      "artists": [
-        {
-          "name": "Jean Dawson",
-          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 213026,
-      "name": "NO SZNS",
-      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
     },
     {
       "added_at": "2023-10-09 17:11:58",
@@ -879,6 +859,26 @@
       "duration_ms": 176187,
       "name": "My Love (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR"
+    },
+    {
+      "added_at": "2023-10-09 17:11:58",
+      "album": {
+        "name": "NO SZNS",
+        "url": "https://open.spotify.com/album/05kT1p6wyim40HJVzg7tt3"
+      },
+      "artists": [
+        {
+          "name": "Jean Dawson",
+          "url": "https://open.spotify.com/artist/7vNNmjV14SKQzlQAEg0BXP"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 213026,
+      "name": "NO SZNS",
+      "url": "https://open.spotify.com/track/0dn6S6lJqAIQg90kMmWtVj"
     },
     {
       "added_at": "2023-10-09 17:11:58",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-10-09 17:11:58",
       "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf"
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
         }
       ],
-      "duration_ms": 226740,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1"
+      "duration_ms": 163392,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa"
     },
     {
       "added_at": "2023-10-09 17:11:58",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2023-10-09 17:11:58",
       "album": {
-        "name": "Alone In A Crowd",
-        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/471LKZ5JPTXVww871Bn9cf"
       },
       "artists": [
         {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
         }
       ],
-      "duration_ms": 163392,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/44KmuZ16Pj6t9vCenzwxxa"
+      "duration_ms": 226740,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/3hRG2nZPcYUN0VYohLBds1"
     },
     {
       "added_at": "2023-10-09 17:11:58",

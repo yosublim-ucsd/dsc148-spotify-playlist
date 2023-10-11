@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Tino Martin & Mart Hoogkamer
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,556 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,576 likes - 40 songs - 1 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 15 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 |
 | 16 | [7K Op Je Feestje](https://open.spotify.com/track/3StdsywJPGA9TskfcwQpPa) | [Noano](https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m), [Antybanty](https://open.spotify.com/artist/0gndIS0odhxIsyIfgDj9pK) | [7K op je feestje](https://open.spotify.com/album/3ElOBNDYJI00N3IDimQ4ex) | 2:10 |
 | 17 | [Flip Flops](https://open.spotify.com/track/6uVTOJ519YPiVjQqV52nse) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Flip Flops](https://open.spotify.com/album/357TcCWG8M77WVXX1xXWmY) | 3:29 |
-| 18 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 |
-| 19 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 |
-| 20 | [Niemand](https://open.spotify.com/track/07PeylRU2ER1If9qYqFMKn) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Niemand](https://open.spotify.com/album/6eDS1JAROZjvlsuzVF54fy) | 2:47 |
-| 21 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 |
+| 18 | [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 |
+| 19 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 |
+| 20 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 |
+| 21 | [Niemand](https://open.spotify.com/track/07PeylRU2ER1If9qYqFMKn) | [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Niemand](https://open.spotify.com/album/6eDS1JAROZjvlsuzVF54fy) | 2:47 |
 | 22 | [Black Friday](https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Black Friday](https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp) | 3:41 |
 | 23 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 |
 | 24 | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/track/1P7hMSbpJOQy58eC78qx7s) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Dash Berlin](https://open.spotify.com/artist/1xT5p0VBpnZDrvVSjX9sri), [Vikkstar](https://open.spotify.com/artist/3wE6Lb4RCyPMoXsnXV0ZPC) | [Better Off \(Alone, Pt\. III\)](https://open.spotify.com/album/1eQk5l0bTQPg2w8knqu6NS) | 2:31 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 | 39 | [Cuff It](https://open.spotify.com/track/4aklcHyOrgB2t4iXNgpvk9) | [Idaly](https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM) | [Cuff It](https://open.spotify.com/album/3ujSj1tKnkjg9V3d7WREoD) | 3:31 |
 | 40 | [LALA](https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 3:17 |
 
-Snapshot ID: `MCw4MDI5NzU0OTExZDVjZDE3M2JlZTVkOGU0MWQ0ODIyNTk5MjBkNmJm`
+Snapshot ID: `MCw1NzViMjlhOTQwZGYxZDdlM2IzMzU1MDA5MDBhZDNmZDYyMTgyODZj`

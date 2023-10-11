@@ -1,12 +1,12 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 346294,
+  "num_followers": 346365,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYWM2MDE5MjQxNTgxMGUxMzRmZDc1ODM2MzBmZDQ4MDBlMmU2N2Qw",
+  "snapshot_id": "MCw1YWJlNTJiMTg0OGJlMzM0MjkwNThlY2U4YWU0N2ZiYzA2MDdhODQx",
   "tracks": [
     {
       "added_at": "2023-09-15 09:57:52",
@@ -467,22 +467,18 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
-        "name": "Bad For Me (feat. Teddy Swims)",
-        "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
+        "name": "20s",
+        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
       },
       "artists": [
         {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Bow Anderson",
+          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
         }
       ],
-      "duration_ms": 213283,
-      "name": "Bad For Me (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
+      "duration_ms": 184457,
+      "name": "20s",
+      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
     },
     {
       "added_at": "2023-09-15 09:57:52",
@@ -503,18 +499,22 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
-        "name": "20s",
-        "url": "https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc"
+        "name": "Bad For Me (feat. Teddy Swims)",
+        "url": "https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu"
       },
       "artists": [
         {
-          "name": "Bow Anderson",
-          "url": "https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO"
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 184457,
-      "name": "20s",
-      "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
+      "duration_ms": 213283,
+      "name": "Bad For Me (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1"
     },
     {
       "added_at": "2023-09-15 09:57:52",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-09-15 09:57:52",
       "album": {
-        "name": "99 Nights",
-        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Cardin",
-          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
-        }
-      ],
-      "duration_ms": 183195,
-      "name": "Jim Carrey",
-      "url": "https://open.spotify.com/track/6nTTiI03SJDXC9252gWGrN"
-    },
-    {
-      "added_at": "2023-09-15 09:57:52",
-      "album": {
         "name": "Best Night Ever",
         "url": "https://open.spotify.com/album/1fPkLLMbiHl9v9L2JyBVoJ"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 133142,
       "name": "Best Night Ever",
       "url": "https://open.spotify.com/track/3WPLO5uBmbT050ogKdxT5C"
+    },
+    {
+      "added_at": "2023-09-15 09:57:52",
+      "album": {
+        "name": "99 Nights",
+        "url": "https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "duration_ms": 183195,
+      "name": "Jim Carrey",
+      "url": "https://open.spotify.com/track/6nTTiI03SJDXC9252gWGrN"
     },
     {
       "added_at": "2023-09-15 09:57:52",

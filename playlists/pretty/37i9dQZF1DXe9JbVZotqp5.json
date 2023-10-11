@@ -1,12 +1,12 @@
 {
   "description": "Easy rock for that peaceful, easy feeling. Cover: U2",
-  "num_followers": 14714,
+  "num_followers": 15201,
   "original_name": "Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMmNkZTA3ZDg4MDVlMjFmNGU3NmU1OGI0OTI2NzNjMGJmYTUxNjJj",
+  "snapshot_id": "MCw2YWU2MGJkMGY1MzcyZTllYjQ4ZGI5YjQwZTEzZDk0OTI5YzlhMWJl",
   "tracks": [
     {
       "added_at": "2023-04-11 13:31:58",
@@ -27,18 +27,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+        "name": "Out Of Time (25th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
       },
       "artists": [
         {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+          "name": "R.E.M.",
+          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
         }
       ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+      "duration_ms": 268426,
+      "name": "Losing My Religion",
+      "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -59,18 +59,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Out Of Time (25th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK"
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 268426,
-      "name": "Losing My Religion",
-      "url": "https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx"
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2023-05-18 15:21:12",
@@ -363,22 +363,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Tragic Kingdom",
-        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
-      },
-      "artists": [
-        {
-          "name": "No Doubt",
-          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
-        }
-      ],
-      "duration_ms": 263560,
-      "name": "Don't Speak",
-      "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Reckless (30th Anniversary / Deluxe Edition)",
         "url": "https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 243360,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Tragic Kingdom",
+        "url": "https://open.spotify.com/album/3VekjWskUut57hx6W9wqL8"
+      },
+      "artists": [
+        {
+          "name": "No Doubt",
+          "url": "https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF"
+        }
+      ],
+      "duration_ms": 263560,
+      "name": "Don't Speak",
+      "url": "https://open.spotify.com/track/6urCAbunOQI4bLhmGpX7iS"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/0E5IKYhiKgbYQkmfsFonbZ"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 252239,
       "name": "A Horse with No Name",
       "url": "https://open.spotify.com/track/54eZmuggBFJbV7k248bTTt"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -527,18 +527,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Results May Vary",
-        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
+        "name": "Achtung Baby (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
         }
       ],
-      "duration_ms": 269973,
-      "name": "Behind Blue Eyes",
-      "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
+      "duration_ms": 276186,
+      "name": "One",
+      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -559,18 +559,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Achtung Baby (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0ta5VdkJcpdVnNrn7g4cZe"
+        "name": "Results May Vary",
+        "url": "https://open.spotify.com/album/3oUoQ0UH7Rv06x1kpSjS36"
       },
       "artists": [
         {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         }
       ],
-      "duration_ms": 276186,
-      "name": "One",
-      "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
+      "duration_ms": 269973,
+      "name": "Behind Blue Eyes",
+      "url": "https://open.spotify.com/track/1MTQHCpraD4S8g5PAFKzoj"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Room For Squares",
-        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Your Body Is a Wonderland",
-      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "The Fray",
         "url": "https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 200293,
       "name": "Keep on Loving You",
       "url": "https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Room For Squares",
+        "url": "https://open.spotify.com/album/3yHOaiXecTJVUdn7mApZ48"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Your Body Is a Wonderland",
+      "url": "https://open.spotify.com/track/7vFv0yFGMJW3qVXbAd9BK9"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -975,18 +975,34 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "All the Right Reasons",
-        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
+        "name": "Alannah Myles",
+        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
       },
       "artists": [
         {
-          "name": "Nickelback",
-          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
+          "name": "Alannah Myles",
+          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
         }
       ],
-      "duration_ms": 238173,
-      "name": "Far Away",
-      "url": "https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl"
+      "duration_ms": 287440,
+      "name": "Black Velvet",
+      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Wheels Are Turnin'",
+        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
+      },
+      "artists": [
+        {
+          "name": "REO Speedwagon",
+          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+        }
+      ],
+      "duration_ms": 294773,
+      "name": "Can't Fight This Feeling",
+      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1023,18 +1039,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Alannah Myles",
-        "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
+        "name": "All the Right Reasons",
+        "url": "https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3"
       },
       "artists": [
         {
-          "name": "Alannah Myles",
-          "url": "https://open.spotify.com/artist/6IYnSXO40Bh7Zdqhf6rQoj"
+          "name": "Nickelback",
+          "url": "https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF"
         }
       ],
-      "duration_ms": 287440,
-      "name": "Black Velvet",
-      "url": "https://open.spotify.com/track/1KU5EHSz04JhGg3rReGJ0N"
+      "duration_ms": 238173,
+      "name": "Far Away",
+      "url": "https://open.spotify.com/track/0ADZ5dmXhlfzjMw6lefoPl"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1071,18 +1087,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Wheels Are Turnin'",
-        "url": "https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR"
+        "name": "Ghost Stories",
+        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
       },
       "artists": [
         {
-          "name": "REO Speedwagon",
-          "url": "https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 294773,
-      "name": "Can't Fight This Feeling",
-      "url": "https://open.spotify.com/track/5WwqdeavrQrbeAMDxGawse"
+      "duration_ms": 285014,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1115,22 +1131,6 @@
       "duration_ms": 248466,
       "name": "The Sound of Silence",
       "url": "https://open.spotify.com/track/1Cj2vqUwlJVG27gJrun92y"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
-        "name": "Ghost Stories",
-        "url": "https://open.spotify.com/album/2G4AUqfwxcV1UdQjm2ouYr"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 285014,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/23khhseCLQqVMCIT1WMAns"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Again",
-        "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 231666,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x"
-    },
-    {
-      "added_at": "2023-04-11 13:31:58",
-      "album": {
         "name": "Marc Cohn",
         "url": "https://open.spotify.com/album/0Zndfz8u9OTb8sXDkve96m"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 202173,
       "name": "Open Arms",
       "url": "https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t"
+    },
+    {
+      "added_at": "2023-04-11 13:31:58",
+      "album": {
+        "name": "Again",
+        "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 231666,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x"
     },
     {
       "added_at": "2023-04-11 13:31:58",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-04-11 13:31:58",
       "album": {
-        "name": "Shake Your Money Maker",
-        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
+        "name": "Atlantic Crossing",
+        "url": "https://open.spotify.com/album/7vV3q5jE7DSuKsnHr7OmmN"
       },
       "artists": [
         {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+          "name": "Rod Stewart",
+          "url": "https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT"
         }
       ],
-      "duration_ms": 329400,
-      "name": "She Talks To Angels",
-      "url": "https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4"
+      "duration_ms": 277960,
+      "name": "Sailing",
+      "url": "https://open.spotify.com/track/6OuRbvP4PgbuzBIapVzmFJ"
     }
   ],
   "unique_name": "Easy Rock",

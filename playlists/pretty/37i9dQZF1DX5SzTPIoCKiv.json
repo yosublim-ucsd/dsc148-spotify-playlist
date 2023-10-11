@@ -1,12 +1,12 @@
 {
   "description": "Recent smashes from your favorite Christian Contemporary artists.  Cover: Mac Powell",
-  "num_followers": 597207,
+  "num_followers": 597185,
   "original_name": "Christian Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NTNjYTcwNTYwNGIwZWNmZDRjOGNmY2ZlM2Y2OWRkMTM1OGVjN2Y5",
+  "snapshot_id": "MCxlNGI2NTIwZjEwMDc4ZjkxODhjNGNiMjdkNzEyMTViY2QwMjI3MWQw",
   "tracks": [
     {
       "added_at": "2023-02-18 03:22:25",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-02-18 03:22:25",
       "album": {
+        "name": "In the Arms",
+        "url": "https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P"
+      },
+      "artists": [
+        {
+          "name": "Terrian",
+          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "In the Arms",
+      "url": "https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU"
+    },
+    {
+      "added_at": "2023-02-18 03:22:25",
+      "album": {
         "name": "Canyon",
         "url": "https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 211066,
       "name": "Sweet Ever After (feat. Bear Rinehart of NEEDTOBREATHE)",
       "url": "https://open.spotify.com/track/0zdLZywwUVyg8xnzzxgDBP"
-    },
-    {
-      "added_at": "2023-02-18 03:22:25",
-      "album": {
-        "name": "In the Arms",
-        "url": "https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P"
-      },
-      "artists": [
-        {
-          "name": "Terrian",
-          "url": "https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "In the Arms",
-      "url": "https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU"
     },
     {
       "added_at": "2023-02-18 03:22:25",

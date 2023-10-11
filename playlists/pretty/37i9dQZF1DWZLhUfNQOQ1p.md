@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 
 > Musica da ascoltare con un Negroni in mano\. 🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,057 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,063 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 43 | [All In A Dream](https://open.spotify.com/track/11SEKnYpFCFRXnUap3Cso2) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Joseph Ashworth](https://open.spotify.com/artist/7CpmbhzkL9uT1D9nhckTxB) | [All In A Dream](https://open.spotify.com/album/6X8Qi8j1bvHv7FYoJ04fE6) | 3:50 |
 | 44 | [Dance of the Crab \- Edit](https://open.spotify.com/track/6vIMrduIYxfdyFgTyaOX5k) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Dance of the Crab](https://open.spotify.com/album/6m7rjijYs1Anoo3ZAfjECL) | 2:24 |
 | 45 | [Alala](https://open.spotify.com/track/2GRrIHGGboa714SZeVcprI) | [Populous](https://open.spotify.com/artist/5Uy8Skuxzxf38jMDTndKIU) | [Azulejos](https://open.spotify.com/album/1hpTHSEosXRl8z47mcRL2J) | 3:34 |
-| 46 | [Keep the Fire Burning](https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [On My Way](https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9) | 5:44 |
-| 47 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 |
+| 46 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 |
+| 47 | [Keep the Fire Burning](https://open.spotify.com/track/4rS4K30qVDExdjeU4feF4c) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [On My Way](https://open.spotify.com/album/4s4o0cdIjRxqL92hFa30c9) | 5:44 |
 | 48 | [The Divine Chord](https://open.spotify.com/track/3A0cAzFKPefBCz7Z02UnnO) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE), [Johnny Marr](https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS) | [We Will Always Love You](https://open.spotify.com/album/755yBlrk0Sz8tIgMMTgyr1) | 3:07 |
 | 49 | [Eple](https://open.spotify.com/track/7pbEKdMWHGwPQSDGfcNycM) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Melody A.M.](https://open.spotify.com/album/4WOZU9evfEO7eI6ICsoGN0) | 3:38 |
 | 50 | [Half\-time Dreams](https://open.spotify.com/track/7LKPoZj6pjbpykI0ZKYPxR) | [Massimiliano Pagliara](https://open.spotify.com/artist/6rr6POhpIL25CJFS3o3Dym), [INIT](https://open.spotify.com/artist/3k6lezqoh9ESd5A4Ebdo5Q) | [See You in Paradise](https://open.spotify.com/album/5lZL8Q3nz0oSRYMCiTOQFS) | 4:25 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 60 | [She's Just the Type of Girl](https://open.spotify.com/track/6O1nkPz0MoSrN8XhZUXiOc) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9) | [She's Just the Type of Girl](https://open.spotify.com/album/6VMekpzEYoucovwkIj6zDl) | 2:41 |
 | 61 | [Happy Music](https://open.spotify.com/track/7uGpUhy4uf2UrHH7TyhM6C) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music / Something on My Mind](https://open.spotify.com/album/3UgxrgP8q9U0Zjz4t7PPGR) | 3:52 |
 | 62 | [Praja Magia](https://open.spotify.com/track/1E0DgbwpT4sfkrbulNpxi4) | [Nu Genea](https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ) | [Bar Mediterraneo](https://open.spotify.com/album/1PBw30oj8VdileUpLUzhhS) | 3:20 |
-| 63 | [Rah That's A Mad Question](https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Rah That's A Mad Question](https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI) | 3:47 |
-| 64 | [Feel Good](https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 4:00 |
+| 63 | [Feel Good](https://open.spotify.com/track/2UkX27EXS59qpKUXrMTZlK) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Cyclorama](https://open.spotify.com/album/2XLO00VSPGAGxpUjezhHoC) | 4:00 |
+| 64 | [Rah That's A Mad Question](https://open.spotify.com/track/7oklbyYBpXg9Uvl4tMW2iU) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Rah That's A Mad Question](https://open.spotify.com/album/1tCAbCRfFmq6SJjklzryDI) | 3:47 |
 | 65 | [Calla](https://open.spotify.com/track/55U8TrpDMrrLUsAIETCVQ4) | [Lorenzo\_BITW](https://open.spotify.com/artist/3Za28S9hIyeyGQmAk8d4FV), [Clap! Clap!](https://open.spotify.com/artist/1kvoVygySqbDgyY22qirrv) | [Pantea](https://open.spotify.com/album/7tjjFuEY18RaR8b5BgLxNa) | 4:11 |
 | 66 | [JOY \(Head To The Sky\)](https://open.spotify.com/track/1qx0YqBNlRlqJAB4w3PjQo) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R) | [JOY \(Head To The Sky\)](https://open.spotify.com/album/3lmxO2QJCTxkr2ERMZHwFu) | 3:50 |
 | 67 | [L.I.F.E](https://open.spotify.com/track/3BWFWF4G8XySY7b98HjS6K) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [L.I.F.E](https://open.spotify.com/album/2lHZPKz3zuSek7PXOYk7r2) | 7:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLhUfNQOQ1p.md) - [plain]
 | 99 | [A Tune For Jack](https://open.spotify.com/track/1AKHclGKFc3fjv0V9qnZ3w) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 6:45 |
 | 100 | [Manifesto \(feat\. Jungle By Night\)](https://open.spotify.com/track/0a4dravjLsr8lygvwBHNoN) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Jungle by Night](https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO) | [Manifesto](https://open.spotify.com/album/20Xt1wX0TmekDqvzD0JSVY) | 7:23 |
 
-Snapshot ID: `MCwxYjZmZjZjNjQwM2U2MTk3NmYyNTVlZWFlZTUwOTQ4OWE4MjE3ODdi`
+Snapshot ID: `MCw0MzIzNGY1MmEzYTk4YWQ2YWY3NjhlZWI3OGMxOTJhNGJhOWExNjFl`

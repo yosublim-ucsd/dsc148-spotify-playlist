@@ -1,12 +1,12 @@
 {
   "description": "Se acab\u00f3 el amor. La m\u00fasica contin\u00faa.",
-  "num_followers": 1760528,
+  "num_followers": 1759310,
   "original_name": "Sin Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjc5OWM4OTZiM2MxYmFkYjNkMDQ4N2QyYWU3YTc2ZmUxMzRmMTJk",
+  "snapshot_id": "MCxmOWNjMmYyMzQ2NDgwOThjOGMyOGQ5OWNlOTk5NjA3YjBlMDM4MTg5",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Vidas Pasadas",
-        "url": "https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 138937,
-      "name": "Vidas Pasadas",
-      "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "S\u00f3lo Para Mujeres",
         "url": "https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 281800,
       "name": "Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Vidas Pasadas",
+        "url": "https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 138937,
+      "name": "Vidas Pasadas",
+      "url": "https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Para Aventuras y Curiosidades",
+        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 208986,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
         "url": "https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 244802,
       "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
       "url": "https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Para Aventuras y Curiosidades",
-        "url": "https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 208986,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Amar Sin Mentiras",
-        "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 305346,
-      "name": "Ahora Quien",
-      "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "CU4TRO",
         "url": "https://open.spotify.com/album/7tYKnQqP7OCQC8iV5hyCq1"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 187533,
       "name": "Fue Lo Mejor",
       "url": "https://open.spotify.com/track/5EMc0D7ColnFc9t21jF6PD"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Amar Sin Mentiras",
+        "url": "https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 305346,
+      "name": "Ahora Quien",
+      "url": "https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Estemos Donde Estemos",
-        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
-      },
-      "artists": [
-        {
-          "name": "TIM\u00d8",
-          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
-        }
-      ],
-      "duration_ms": 107320,
-      "name": "50/50",
-      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Amarte y Perderte",
         "url": "https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 208947,
       "name": "Amarte y Perderte",
       "url": "https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Estemos Donde Estemos",
+        "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
+      },
+      "artists": [
+        {
+          "name": "TIM\u00d8",
+          "url": "https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX"
+        }
+      ],
+      "duration_ms": 107320,
+      "name": "50/50",
+      "url": "https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk"
     },
     {
       "added_at": "2023-09-15 04:01:00",

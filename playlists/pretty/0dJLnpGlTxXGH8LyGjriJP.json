@@ -6,7 +6,7 @@
     "name": "skillstreet",
     "url": "https://open.spotify.com/user/skillstreet"
   },
-  "snapshot_id": "ODM2LDIxNWJiYWZjYTBmMTEwNDg1ZjkzNWI1ODA2YzQ5ZmQyOTAwNTgyZjQ=",
+  "snapshot_id": "ODM3LGJjZjZiMGQ5NTNlZDY0ZjlmZjExNzBiYWM0YTc0NTg5NTQzNjFlNjY=",
   "tracks": [
     {
       "added_at": "2022-05-25 21:35:35",
@@ -12715,6 +12715,30 @@
       "duration_ms": 258592,
       "name": "Away From Home",
       "url": "https://open.spotify.com/track/4IcbUXrAzBtn6iUO1LP471"
+    },
+    {
+      "added_at": "2023-10-10 22:42:20",
+      "album": {
+        "name": "The Voice of the Heroes",
+        "url": "https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 173419,
+      "name": "Still Runnin (feat. Meek Mill)",
+      "url": "https://open.spotify.com/track/5cAN3P7jWVf78gev1eF7TJ"
     }
   ],
   "unique_name": "locked tf in\ud83d\udd12",

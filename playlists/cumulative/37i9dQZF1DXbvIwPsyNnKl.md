@@ -2,9 +2,9 @@
 
 ### [Kalye Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: Morobeats
+> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: HELLMERRY
 
-54 songs - 3 hr 2 min
+55 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Elevate](https://open.spotify.com/track/7g0PwcVq4qNuum1ex9OO0N) | [Jeff Grecia](https://open.spotify.com/artist/6Dg35SGkgpUJ2hGAYrx5Qa) | [Elevate](https://open.spotify.com/album/0hfsRbEdvwv69Qf5ynzFpZ) | 3:38 | 2023-09-20 |  |
 | [EMPILIGHT](https://open.spotify.com/track/6liHmUVmfhbXFG45ybCr96) | [Jonas Dichoso](https://open.spotify.com/artist/6Owr8RDbHYlbDwh1EMzEVS) | [EMPILIGHT](https://open.spotify.com/album/1KDtgR9GpE4cHonerqkrPn) | 3:19 | 2023-09-20 |  |
 | [Fetty](https://open.spotify.com/track/1O26SjawSDVCpikl9nNUyp) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [Fetty](https://open.spotify.com/album/6H8VIr3GCleqBUGRalNd6H) | 3:26 | 2023-09-20 |  |
+| [FREESTYLE](https://open.spotify.com/track/6a9c4NKoIdrugAs9fmWuSg) | [lmaobdy](https://open.spotify.com/artist/3CJhyHQgAStaSWNEVGgr8E), [Osidemafia, Xanny Warhol](https://open.spotify.com/artist/5i2iMEr9KYjnf6BxITukQq) | [FREESTYLE](https://open.spotify.com/album/0gb4iHpvS2Vc1HoCw0tt2m) | 3:50 | 2023-10-11 |  |
 | [GO GETTA](https://open.spotify.com/track/5fAIlWElS0Xj1T365oO3LJ) | [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp) | [O COAST](https://open.spotify.com/album/3E2ZsA4ZGIWPkzPr9Zc12R) | 4:12 | 2023-09-20 |  |
 | [Hide n Seek](https://open.spotify.com/track/6UK7OmsoQ6Ee6EklS68GcQ) | [$ho](https://open.spotify.com/artist/5jq0FNV7UUOnySZ6lvv8tH), [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [Hide n Seek](https://open.spotify.com/album/6GA41ej75Yzw9GSDA9TnSd) | 2:57 | 2023-10-04 |  |
 | [High Score](https://open.spotify.com/track/1CLBLpfBGZ7zk3J9X1SVQt) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [High Score](https://open.spotify.com/album/6oK1jN95CwhOcNiU6grIn1) | 3:29 | 2023-09-20 |  |
@@ -56,7 +57,7 @@
 | [So Fine](https://open.spotify.com/track/1M5KNlFaSwG8gDZQCTjFx2) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5) | [So Fine](https://open.spotify.com/album/0I4DciUUKfcgQo54XDYtUZ) | 3:45 | 2023-09-20 |  |
 | [SONG 4 U](https://open.spotify.com/track/5uNqALZBRhu9y8lQjwBWCG) | [Clien](https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK), [Jom](https://open.spotify.com/artist/021sXp6RH5MQCCp2hmal6q), [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz), [ivan G.](https://open.spotify.com/artist/0S1iKltXNxlw9vCv4bCUY9) | [SONG 4 U](https://open.spotify.com/album/6f5sqRBMgqYNZVdjl0wDQE) | 4:01 | 2023-09-20 |  |
 | [Still](https://open.spotify.com/track/1n0GXltCdgPZMqQv7JY8SI) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Still](https://open.spotify.com/album/14HnYmLsn1HXFjrXPpWpQl) | 2:16 | 2023-10-04 |  |
-| [THA GANG COSTA](https://open.spotify.com/track/0LyLTBeT1SGeAQnwYUkkOF) | [Iggy Napoles](https://open.spotify.com/artist/5W3GwQT1NcWLptNoNmGCEQ), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [THA GANG COSTA](https://open.spotify.com/album/4I7Sd0CUTic8R2htYeV7do) | 3:10 | 2023-09-20 |  |
+| [THA GANG COSTA](https://open.spotify.com/track/0LyLTBeT1SGeAQnwYUkkOF) | [Iggy Napoles](https://open.spotify.com/artist/5W3GwQT1NcWLptNoNmGCEQ), [Costa Cashman](https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI) | [THA GANG COSTA](https://open.spotify.com/album/4I7Sd0CUTic8R2htYeV7do) | 3:10 | 2023-09-20 | 2023-10-11 |
 | [THAT'S MY BABY](https://open.spotify.com/track/4RNvgyQgvmZYPJxnNEHfS3) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [HAPPY ACCIDENTS VOL\. 1](https://open.spotify.com/album/7FdHCEnDxBZh1M8FG9yYKE) | 3:55 | 2023-09-20 |  |
 | [Wa Na Wa \- Spotify Singles](https://open.spotify.com/track/0edn3pvwzpiFkNd4QJI2SD) | [Midnasty](https://open.spotify.com/artist/5vInrcUTu2zWamDqZnnozJ), [Cookie$](https://open.spotify.com/artist/3mzdfGKp0mQXzuNoS8z915) | [Wa Na Wa \- Spotify Singles](https://open.spotify.com/album/49HuZw2rqL5Uw3ZPiTxR4B) | 3:24 | 2023-09-20 |  |
 | [WELCOME2DTQ](https://open.spotify.com/track/3gRhGExNITCqVo0mCyqp3m) | [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [WELCOME2DTQ](https://open.spotify.com/album/1coaR0jupZjPePYu3AkFQP) | 2:59 | 2023-09-20 |  |

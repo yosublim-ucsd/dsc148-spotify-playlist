@@ -1,12 +1,12 @@
 {
   "description": "Why so serious? Get through your workday with K-Pop. (\ub0b4\uc801\ub304\uc2a4 \uc720\ubc1c \ub178\ub3d9\uc694\uc640 \ud568\uaed8 \uc2e0\ub098\ub294 \uc5c5\ubb34 & \uacf5\ubd80\uc2dc\uac04\uc744 \ubcf4\ub0b4\uc138\uc694!)",
-  "num_followers": 112096,
+  "num_followers": 112069,
   "original_name": "Workday K-Pop (\ub0b4\uc801\ub304\uc2a4 \uc5c5\ubb34/\uacf5\ubd80)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYjJjYjBlNmEyZDM2YjNhOTczMWE2ZTI3NDI1Y2MzOTFiY2NjYjk4",
+  "snapshot_id": "MCw4MTY1YjE3YjhkNDg3Njc2ZWY0YjNhNzIxNDkxNzUwODc2ZDJiMWRl",
   "tracks": [
     {
       "added_at": "2023-09-15 05:31:39",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "Paint Me Naked - SM STATION",
-        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
-      },
-      "artists": [
-        {
-          "name": "TEN",
-          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Paint Me Naked",
-      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "ELEVEN",
         "url": "https://open.spotify.com/album/1XMYvsHRt52sMi6wittWqI"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 178453,
       "name": "ELEVEN",
       "url": "https://open.spotify.com/track/7n2FZQsaLb7ZRfRPfEeIvr"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "Paint Me Naked - SM STATION",
+        "url": "https://open.spotify.com/album/4oj5R0SVazc5Eq3WnIC0e6"
+      },
+      "artists": [
+        {
+          "name": "TEN",
+          "url": "https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Paint Me Naked",
+      "url": "https://open.spotify.com/track/4UaGQ2D4MBuRBWumZO52Ma"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1043,8 +1043,8 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
-        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
+        "name": "minisode 2: Thursday's Child",
+        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
       },
       "artists": [
         {
@@ -1052,9 +1052,9 @@
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 199919,
-      "name": "LO$ER=LO\u2661ER",
-      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
+      "duration_ms": 191038,
+      "name": "Good Boy Gone Bad",
+      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "IU 5th Album 'LILAC'",
-        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "LILAC",
-      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "The Perfect Red Velvet - The 2nd Album Repackage",
         "url": "https://open.spotify.com/album/0OkJThJls8FO1lutMzMDJ0"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 210817,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/5GKwq4sO5ZHKuWaDmdwMQc"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "IU 5th Album 'LILAC'",
+        "url": "https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "LILAC",
+      "url": "https://open.spotify.com/track/5xrtzzzikpG3BLbo4q1Yul"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1171,8 +1171,8 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "minisode 2: Thursday's Child",
-        "url": "https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8"
+        "name": "The Chaos Chapter: FIGHT OR ESCAPE",
+        "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
       },
       "artists": [
         {
@@ -1180,9 +1180,9 @@
           "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
         }
       ],
-      "duration_ms": 191038,
-      "name": "Good Boy Gone Bad",
-      "url": "https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3"
+      "duration_ms": 199919,
+      "name": "LO$ER=LO\u2661ER",
+      "url": "https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "Not Shy",
-        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
-      },
-      "artists": [
-        {
-          "name": "ITZY",
-          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
-        }
-      ],
-      "duration_ms": 177728,
-      "name": "Not Shy",
-      "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "Down to Earth",
         "url": "https://open.spotify.com/album/6uMu4poce5OdMd1HYglZux"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 175775,
       "name": "VIBE (feat. Jimin of BTS)",
       "url": "https://open.spotify.com/track/4NIe9Is7bN5JWyTeCW2ahK"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "Not Shy",
+        "url": "https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "duration_ms": 177728,
+      "name": "Not Shy",
+      "url": "https://open.spotify.com/track/1ehags7lQMM1qX94VJkoaf"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
-      },
-      "artists": [
-        {
-          "name": "TAEYANG",
-          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
-        }
-      ],
-      "duration_ms": 229989,
-      "name": "\ub208,\ucf54,\uc785 (Eyes, Nose, Lips)",
-      "url": "https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "\u56de:Walpurgis Night",
         "url": "https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 199133,
       "name": "MAGO",
       "url": "https://open.spotify.com/track/46WaBBaEHzgbN88Ew0nh50"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/1Y9so4jq4t4taAHu0VdKX3"
+      },
+      "artists": [
+        {
+          "name": "TAEYANG",
+          "url": "https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV"
+        }
+      ],
+      "duration_ms": 229989,
+      "name": "\ub208,\ucf54,\uc785 (Eyes, Nose, Lips)",
+      "url": "https://open.spotify.com/track/0lYtIvI7bO51PZSeK22Mbz"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "SEOULITE",
-        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
-      },
-      "artists": [
-        {
-          "name": "LeeHi",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 288915,
-      "name": "BREATHE",
-      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "1-1=0 (NOTHING WITHOUT YOU)",
         "url": "https://open.spotify.com/album/0fxMTiQG9ym37gYmIXgqG8"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 189355,
       "name": "Energetic",
       "url": "https://open.spotify.com/track/3NkkcnnKrNHv4AiGaPdD76"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "SEOULITE",
+        "url": "https://open.spotify.com/album/2c41Flo2HQgy0A9P3xuSFf"
+      },
+      "artists": [
+        {
+          "name": "LeeHi",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 288915,
+      "name": "BREATHE",
+      "url": "https://open.spotify.com/track/6G4z9WbxyEeWdEQTfShACT"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2191,22 +2191,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "REAL",
-        "url": "https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 233586,
-      "name": "Good day",
-      "url": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
       },
@@ -2223,22 +2207,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "Midnight Guest",
-        "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "DM",
-      "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "Guilty Pleasure",
         "url": "https://open.spotify.com/album/7jke1vYOze3jdyTiWhtFnz"
       },
@@ -2251,6 +2219,38 @@
       "duration_ms": 167333,
       "name": "I`m a B",
       "url": "https://open.spotify.com/track/1AToLLvWghQgiBFef1iGuR"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "REAL",
+        "url": "https://open.spotify.com/album/4WY1pPvmP9sBlVICuPxBQh"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 233586,
+      "name": "Good day",
+      "url": "https://open.spotify.com/track/1SwZVVH9BnXtLRLi2cbFhw"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "Midnight Guest",
+        "url": "https://open.spotify.com/album/2WT1URsANJa9zhPsqzspMR"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "DM",
+      "url": "https://open.spotify.com/track/7B9W7Qsy5M2kyUNjQYIEG8"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2303,6 +2303,26 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
+        "name": "I - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        },
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "duration_ms": 206038,
+      "name": "I",
+      "url": "https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
         "name": "Lion Heart - The 5th Album",
         "url": "https://open.spotify.com/album/4eKdn0skJCidO2wqIJyCgB"
       },
@@ -2331,26 +2351,6 @@
       "duration_ms": 213853,
       "name": "Galaxy",
       "url": "https://open.spotify.com/track/15c7KZTrsCUxCQcOdUVELc"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
-        "name": "I - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4e7kLQu7SKBUiMtV5WH3A1"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        },
-        {
-          "name": "Verbal Jint",
-          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
-        }
-      ],
-      "duration_ms": 206038,
-      "name": "I",
-      "url": "https://open.spotify.com/track/5ZkITfPpcNPnyYGTibkO6m"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2403,6 +2403,22 @@
       "duration_ms": 192536,
       "name": "Waste It On Me",
       "url": "https://open.spotify.com/track/66XDf77gBcfQKi4I2vIbTj"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "My Voice - The 1st Album (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 223451,
+      "name": "11:11",
+      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2467,22 +2483,6 @@
       "duration_ms": 212136,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
-        "name": "My Voice - The 1st Album (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7MG0bxf0ZFsAyej9W3XzTO"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 223451,
-      "name": "11:11",
-      "url": "https://open.spotify.com/track/67QGnT1Vdfuuy4HkLTUVjj"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2759,22 +2759,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "from our Memento Box",
-        "url": "https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo"
-      },
-      "artists": [
-        {
-          "name": "fromis_9",
-          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
-        }
-      ],
-      "duration_ms": 195653,
-      "name": "Stay This Way",
-      "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "GFRIEND The 6th Mini Album <Time for the moon night>",
         "url": "https://open.spotify.com/album/4YkF0cmnD2nmzdpLk1ZUUP"
       },
@@ -2787,6 +2771,22 @@
       "duration_ms": 226698,
       "name": "Time for the moon night",
       "url": "https://open.spotify.com/track/2jL9sjFc2LZsQBGbQnrjXR"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "from our Memento Box",
+        "url": "https://open.spotify.com/album/5HpgQwHm9jI5JcnmJqcCYo"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "duration_ms": 195653,
+      "name": "Stay This Way",
+      "url": "https://open.spotify.com/track/3pqgVtpnQbBAZoWT4AEm1B"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2855,6 +2855,22 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
+        "name": "WANT - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/7E01VOJ7gyYPz9HXUVeQeq"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 208967,
+      "name": "WANT",
+      "url": "https://open.spotify.com/track/0aLG42zaidNkblhiQgJknP"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
         "name": "SoulMate (feat. IU)",
         "url": "https://open.spotify.com/album/0aDnkPxX660ezxCWBcqzVo"
       },
@@ -2875,18 +2891,18 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "WANT - The 2nd Mini Album",
-        "url": "https://open.spotify.com/album/7E01VOJ7gyYPz9HXUVeQeq"
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
       },
       "artists": [
         {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
         }
       ],
-      "duration_ms": 208967,
-      "name": "WANT",
-      "url": "https://open.spotify.com/track/0aLG42zaidNkblhiQgJknP"
+      "duration_ms": 217044,
+      "name": "Bom",
+      "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -2903,22 +2919,6 @@
       "duration_ms": 178173,
       "name": "PANORAMA",
       "url": "https://open.spotify.com/track/7DwR5sQ0kpwvAz60Fm0FEk"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
-        "name": "Puberty Book\u2160 Bom",
-        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 217044,
-      "name": "Bom",
-      "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
     },
     {
       "added_at": "2023-09-15 05:31:39",
@@ -3079,22 +3079,6 @@
     {
       "added_at": "2023-09-15 05:31:39",
       "album": {
-        "name": "Why So Lonely",
-        "url": "https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U"
-      },
-      "artists": [
-        {
-          "name": "Wonder Girls",
-          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
-        }
-      ],
-      "duration_ms": 206706,
-      "name": "Why So Lonely",
-      "url": "https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX"
-    },
-    {
-      "added_at": "2023-09-15 05:31:39",
-      "album": {
         "name": "MADE",
         "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
       },
@@ -3107,6 +3091,22 @@
       "duration_ms": 169429,
       "name": "BAE BAE",
       "url": "https://open.spotify.com/track/3miMeSGd7rzJEtuhQnzm0f"
+    },
+    {
+      "added_at": "2023-09-15 05:31:39",
+      "album": {
+        "name": "Why So Lonely",
+        "url": "https://open.spotify.com/album/2TzaSJlsVyKcZ0NOf2TI9U"
+      },
+      "artists": [
+        {
+          "name": "Wonder Girls",
+          "url": "https://open.spotify.com/artist/3Cv2vi3WTl8VZOTdrBkKdM"
+        }
+      ],
+      "duration_ms": 206706,
+      "name": "Why So Lonely",
+      "url": "https://open.spotify.com/track/2FBNkgK3GbF2tVWxKNFRjX"
     },
     {
       "added_at": "2023-09-15 05:31:39",

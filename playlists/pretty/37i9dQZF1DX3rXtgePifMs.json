@@ -1,12 +1,12 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 55453,
-  "original_name": "EA SPORTS FC 24 Official Soundtrack",
+  "num_followers": 55942,
+  "original_name": "Soundtrack oficial de EA SPORTS FC 24",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOTA4MWU5NmY0NTQ1M2YxZTc2YjNmOTQ3YWMzOTI3YjRjZmZhYWFh",
+  "snapshot_id": "MCxkZWJlMzQzNzIzMTM5YjZjZGYyNjA2NmRhYTBlMmQ0ZTczNWVhMjJl",
   "tracks": [
     {
       "added_at": "2023-10-06 19:23:39",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "6am",
+        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 221748,
+      "name": "6am",
+      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "MICHAEL",
         "url": "https://open.spotify.com/album/2mBH7RhAS6vRKkSlA7IRIJ"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 165653,
       "name": "DON'T LET THE DEVIL (feat. thankugoodsir)",
       "url": "https://open.spotify.com/track/1f7eBRPgFfKPhqMU7z31yF"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "6am",
-        "url": "https://open.spotify.com/album/2pyGNsIfsvhBLb2GrQ9Orm"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 221748,
-      "name": "6am",
-      "url": "https://open.spotify.com/track/1lx452Y4CLMvIois88vwBr"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -575,18 +575,18 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "For Granted",
-        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
+        "name": "SPECCHIO",
+        "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
       },
       "artists": [
         {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+          "name": "ARIETE",
+          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
         }
       ],
-      "duration_ms": 161946,
-      "name": "For Granted",
-      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
+      "duration_ms": 183386,
+      "name": "AVVISO",
+      "url": "https://open.spotify.com/track/2YMvLfACAlvQMiKonxdeUq"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -615,18 +615,18 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "SPECCHIO",
-        "url": "https://open.spotify.com/album/2siu332vR3M1qf1F9D7LY3"
+        "name": "For Granted",
+        "url": "https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ"
       },
       "artists": [
         {
-          "name": "ARIETE",
-          "url": "https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8"
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
         }
       ],
-      "duration_ms": 183386,
-      "name": "AVVISO",
-      "url": "https://open.spotify.com/track/2YMvLfACAlvQMiKonxdeUq"
+      "duration_ms": 161946,
+      "name": "For Granted",
+      "url": "https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -743,26 +743,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Show Me The Money (with Tkay Maidza)",
-        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
-        }
-      ],
-      "duration_ms": 187058,
-      "name": "Show Me The Money (with Tkay Maidza)",
-      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Who Let Him In",
         "url": "https://open.spotify.com/album/0TmS0p8Dvqk8ZnJ3ZqmQus"
       },
@@ -779,22 +759,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "I Just Wanna Dance",
-        "url": "https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts"
+        "name": "Show Me The Money (with Tkay Maidza)",
+        "url": "https://open.spotify.com/album/7L0qZYtIIxyo1B5omj6F4B"
       },
       "artists": [
         {
-          "name": "Higgo",
-          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
         },
         {
-          "name": "mustbejohn",
-          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
         }
       ],
-      "duration_ms": 163750,
-      "name": "I Just Wanna Dance",
-      "url": "https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8"
+      "duration_ms": 187058,
+      "name": "Show Me The Money (with Tkay Maidza)",
+      "url": "https://open.spotify.com/track/7EA2tzWnu6i0Nai8PMUZgp"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -827,6 +807,26 @@
       "duration_ms": 121089,
       "name": "poster boy",
       "url": "https://open.spotify.com/track/0Gz4Q1Bmyef5yA0G6LIIQZ"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "I Just Wanna Dance",
+        "url": "https://open.spotify.com/album/56zVapikmKNxBhX4Osw5ts"
+      },
+      "artists": [
+        {
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
+        },
+        {
+          "name": "mustbejohn",
+          "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "I Just Wanna Dance",
+      "url": "https://open.spotify.com/track/4dJsbFmhri91euJQbhVqT8"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -947,6 +947,38 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "Hostage",
+        "url": "https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G"
+      },
+      "artists": [
+        {
+          "name": "Peter Xan",
+          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
+        }
+      ],
+      "duration_ms": 208747,
+      "name": "Hostage",
+      "url": "https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/3n3gvdhR2fkx9qXXPrIAi3"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "Stone",
         "url": "https://open.spotify.com/album/573W01Ur1qCXuqPguHZX3H"
       },
@@ -963,22 +995,6 @@
       "duration_ms": 182270,
       "name": "Stone",
       "url": "https://open.spotify.com/track/5C8ZVCqSWQluWHXsTdLCOW"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "Hostage",
-        "url": "https://open.spotify.com/album/4fAX7xHj1PJZfIMKtnri9G"
-      },
-      "artists": [
-        {
-          "name": "Peter Xan",
-          "url": "https://open.spotify.com/artist/2szFgPvkzJHtlrmuVdhSBP"
-        }
-      ],
-      "duration_ms": 208747,
-      "name": "Hostage",
-      "url": "https://open.spotify.com/track/2HtXypOaDQhfWG1sKrjN0f"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1031,22 +1047,6 @@
       "duration_ms": 212521,
       "name": "TOMMY",
       "url": "https://open.spotify.com/track/2z0vNWVD3E6FCXZZkt58Po"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/3n3gvdhR2fkx9qXXPrIAi3"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Better Than I?",
-        "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
-      },
-      "artists": [
-        {
-          "name": "Shakes",
-          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
-        }
-      ],
-      "duration_ms": 145861,
-      "name": "Better Than I?",
-      "url": "https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Pinking Shears",
         "url": "https://open.spotify.com/album/5tEQyQksm6Hx1QPpvr8NYK"
       },
@@ -1267,6 +1251,22 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "Better Than I?",
+        "url": "https://open.spotify.com/album/1C3pe9P7vbFgAXH4NUDRr5"
+      },
+      "artists": [
+        {
+          "name": "Shakes",
+          "url": "https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y"
+        }
+      ],
+      "duration_ms": 145861,
+      "name": "Better Than I?",
+      "url": "https://open.spotify.com/track/0nt7P9iu1hp7cxoNq7mZrG"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "BORED",
         "url": "https://open.spotify.com/album/5HYHaoxTH6iM4RqdVW0rsX"
       },
@@ -1279,6 +1279,22 @@
       "duration_ms": 206997,
       "name": "BORED",
       "url": "https://open.spotify.com/track/2npxF2SvUP0GNLpqgY0Hn1"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "Paragon Songs",
+        "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
+      },
+      "artists": [
+        {
+          "name": "whenyoung",
+          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
+        }
+      ],
+      "duration_ms": 247613,
+      "name": "Gan Ainm",
+      "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1303,22 +1319,6 @@
       "duration_ms": 174830,
       "name": "FORMULA",
       "url": "https://open.spotify.com/track/383FsUoOEqgBRcttGMeoLs"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "Paragon Songs",
-        "url": "https://open.spotify.com/album/0ugiYjbKYVSvM8AIwnR3DA"
-      },
-      "artists": [
-        {
-          "name": "whenyoung",
-          "url": "https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp"
-        }
-      ],
-      "duration_ms": 247613,
-      "name": "Gan Ainm",
-      "url": "https://open.spotify.com/track/1Wo9ZA41M0iru3vcjPJ53O"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "Who Else Would It Be",
-        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
-      },
-      "artists": [
-        {
-          "name": "KayCyy",
-          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
-        }
-      ],
-      "duration_ms": 91913,
-      "name": "Who Else Would It Be",
-      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "i've got a bf (best friend)",
         "url": "https://open.spotify.com/album/5db7wptFrRLFAp6ob1oqec"
       },
@@ -1407,6 +1391,42 @@
       "duration_ms": 148852,
       "name": "i've got a bf (best friend)",
       "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "Who Else Would It Be",
+        "url": "https://open.spotify.com/album/25i87dAxFScrO1VjyyOLlm"
+      },
+      "artists": [
+        {
+          "name": "KayCyy",
+          "url": "https://open.spotify.com/artist/7gmVTgaiN0gpDJKvTHPTRL"
+        }
+      ],
+      "duration_ms": 91913,
+      "name": "Who Else Would It Be",
+      "url": "https://open.spotify.com/track/3WbusxungaQoyYLe33Yepv"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "EZ 4 Me",
+        "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
+      },
+      "artists": [
+        {
+          "name": "Bianca Oblivion",
+          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
+        },
+        {
+          "name": "Eliza Legzdina",
+          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
+        }
+      ],
+      "duration_ms": 180628,
+      "name": "EZ 4 Me",
+      "url": "https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1431,26 +1451,6 @@
       "duration_ms": 150344,
       "name": "Waiting To Go",
       "url": "https://open.spotify.com/track/3n7QF1NicPjiwce2MpBOUw"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "EZ 4 Me",
-        "url": "https://open.spotify.com/album/4LP7SRO9YsGGtDjvOMVWlg"
-      },
-      "artists": [
-        {
-          "name": "Bianca Oblivion",
-          "url": "https://open.spotify.com/artist/4aoxM9H8u55MtDh7lkjj94"
-        },
-        {
-          "name": "Eliza Legzdina",
-          "url": "https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op"
-        }
-      ],
-      "duration_ms": 180628,
-      "name": "EZ 4 Me",
-      "url": "https://open.spotify.com/track/7atFLBiAaQxMyZP5zzVp3T"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1495,26 +1495,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "I Go Get It",
-        "url": "https://open.spotify.com/album/1NCyCAeI4jdb8HTymUhouL"
-      },
-      "artists": [
-        {
-          "name": "Souls Of Creation",
-          "url": "https://open.spotify.com/artist/2IdVY7sUy5Dvugq7YXpp9L"
-        },
-        {
-          "name": "Bobbie Johnson",
-          "url": "https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO"
-        }
-      ],
-      "duration_ms": 131320,
-      "name": "I Go Get It",
-      "url": "https://open.spotify.com/track/4ADaOjVuuwWbRrOyvayozt"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Relentless",
         "url": "https://open.spotify.com/album/0bHBnCqz1qeDuwRc6qSAIp"
       },
@@ -1543,6 +1523,26 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "I Go Get It",
+        "url": "https://open.spotify.com/album/1NCyCAeI4jdb8HTymUhouL"
+      },
+      "artists": [
+        {
+          "name": "Souls Of Creation",
+          "url": "https://open.spotify.com/artist/2IdVY7sUy5Dvugq7YXpp9L"
+        },
+        {
+          "name": "Bobbie Johnson",
+          "url": "https://open.spotify.com/artist/53UYVk8esbujg16JqCpQEO"
+        }
+      ],
+      "duration_ms": 131320,
+      "name": "I Go Get It",
+      "url": "https://open.spotify.com/track/4ADaOjVuuwWbRrOyvayozt"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "Pemmican",
         "url": "https://open.spotify.com/album/6gzWaO97UPIi51o0MkoBjV"
       },
@@ -1559,6 +1559,22 @@
       "duration_ms": 212971,
       "name": "Pemmican",
       "url": "https://open.spotify.com/track/54DPC3DrwCJeyQwgBoO0wh"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "My Way",
+        "url": "https://open.spotify.com/album/2HByMoy9KrW78HhZk1Jf6h"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Devaney",
+          "url": "https://open.spotify.com/artist/58quCP7j2McEeEtRungVle"
+        }
+      ],
+      "duration_ms": 148674,
+      "name": "My Way",
+      "url": "https://open.spotify.com/track/7jNvkE2zWQeUqLJpy6tbyq"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1587,22 +1603,6 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
-        "name": "My Way",
-        "url": "https://open.spotify.com/album/2HByMoy9KrW78HhZk1Jf6h"
-      },
-      "artists": [
-        {
-          "name": "Charlotte Devaney",
-          "url": "https://open.spotify.com/artist/58quCP7j2McEeEtRungVle"
-        }
-      ],
-      "duration_ms": 148674,
-      "name": "My Way",
-      "url": "https://open.spotify.com/track/7jNvkE2zWQeUqLJpy6tbyq"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
         "name": "Mantra No. 9",
         "url": "https://open.spotify.com/album/2ZUa47nI8CFCIJhA94UGEj"
       },
@@ -1615,6 +1615,22 @@
       "duration_ms": 212213,
       "name": "So Clear",
       "url": "https://open.spotify.com/track/33IXYq3ncfQfh5KRzXeleo"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
+        "name": "The Gates Will Open",
+        "url": "https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv"
+      },
+      "artists": [
+        {
+          "name": "Karma Kid",
+          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
+        }
+      ],
+      "duration_ms": 346775,
+      "name": "The Gates Will Open",
+      "url": "https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1639,22 +1655,6 @@
       "duration_ms": 257828,
       "name": "I Can't Stay",
       "url": "https://open.spotify.com/track/2J0NODVUeY1wMGFjsl4CRR"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "The Gates Will Open",
-        "url": "https://open.spotify.com/album/1B8aBnkCqVbDcpk8kIfqzv"
-      },
-      "artists": [
-        {
-          "name": "Karma Kid",
-          "url": "https://open.spotify.com/artist/2X2cDFal9ci8yS5FDHYZv2"
-        }
-      ],
-      "duration_ms": 346775,
-      "name": "The Gates Will Open",
-      "url": "https://open.spotify.com/track/3mYH1lXw1QUPllZantOaw4"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1703,6 +1703,26 @@
     {
       "added_at": "2023-10-06 19:23:39",
       "album": {
+        "name": "Sigo Tus Pasos",
+        "url": "https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub"
+      },
+      "artists": [
+        {
+          "name": "Pahua",
+          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
+        },
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        }
+      ],
+      "duration_ms": 242983,
+      "name": "Sigo Tus Pasos",
+      "url": "https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO"
+    },
+    {
+      "added_at": "2023-10-06 19:23:39",
+      "album": {
         "name": "Earache / Sekkle In",
         "url": "https://open.spotify.com/album/6U80BQXg2cyQrWJ6dm0soD"
       },
@@ -1739,26 +1759,6 @@
       "duration_ms": 212790,
       "name": "R.A.V.E.A.S.A.P (Unglued Remix)",
       "url": "https://open.spotify.com/track/1FSy5JFWNsPj6hM2qIWr7W"
-    },
-    {
-      "added_at": "2023-10-06 19:23:39",
-      "album": {
-        "name": "Sigo Tus Pasos",
-        "url": "https://open.spotify.com/album/2bPAdT9z9WiYvw65vVq2Ub"
-      },
-      "artists": [
-        {
-          "name": "Pahua",
-          "url": "https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch"
-        },
-        {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
-        }
-      ],
-      "duration_ms": 242983,
-      "name": "Sigo Tus Pasos",
-      "url": "https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO"
     },
     {
       "added_at": "2023-10-06 19:23:39",
@@ -1869,6 +1869,6 @@
       "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
     }
   ],
-  "unique_name": "EA SPORTS FC 24 Official Soundtrack",
+  "unique_name": "Soundtrack oficial de EA SPORTS FC 24",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX3rXtgePifMs"
 }

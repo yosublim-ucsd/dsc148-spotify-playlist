@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 
 > Những ca khúc để đời của dòng nhạc vàng\. Ảnh bìa: Lệ Quyên
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,946 likes - 50 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,920 likes - 50 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 37 | [Con Đương Xưa Em Đi](https://open.spotify.com/track/2zCHvO1CVTPjtPHlFFbDXE) | [Hương Lan](https://open.spotify.com/artist/7KOMoBXp30tI5E6SA0NQVn), [Chế Linh](https://open.spotify.com/artist/1tTV7NZodR1nsNtMdAz5Qi) | [Người Xa Người](https://open.spotify.com/album/5C4MnF156Jw3gH1Z2nf7gq) | 4:16 |
 | 38 | [Qua Cơn Mê](https://open.spotify.com/track/0bjODEyw6tUCWIP7uDZ7Gt) | [Duy Khanh](https://open.spotify.com/artist/36Ltp1cc3ExQQJ8h9GCT4O) | [Một Mai Giã Từ Vũ Khí](https://open.spotify.com/album/5Mwa2pqo8DKUNvOBhaRdie) | 5:03 |
 | 39 | [Chiều Tây Đô](https://open.spotify.com/track/4AI14CynUc9CGne8oRbdCi) | [Hoàng Oanh](https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o) | [Ai Nhớ Chăng Ai](https://open.spotify.com/album/6ejaYB328yZGYlnvJzdM9B) | 4:55 |
-| 40 | [Con Đường Xưa Em Đi](https://open.spotify.com/track/1EUto6KDh02A83gyKMtKcn) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Song Ca Nhạc Vàng Bolero Và Remix Phần 1](https://open.spotify.com/album/6Hagz8ylcRuUBQx3gd357q) | 5:00 |
-| 41 | [Chiều hạ vàng](https://open.spotify.com/track/5mu3UYniDvObjYnzlSNS6J) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Chiều Hạ Vàng](https://open.spotify.com/album/6ExA6zIA7KnG95BWeroXdB) | 4:20 |
+| 40 | [Chiều hạ vàng](https://open.spotify.com/track/5mu3UYniDvObjYnzlSNS6J) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Chiều Hạ Vàng](https://open.spotify.com/album/6ExA6zIA7KnG95BWeroXdB) | 4:20 |
+| 41 | [Con Đường Xưa Em Đi](https://open.spotify.com/track/1EUto6KDh02A83gyKMtKcn) | [Tố My](https://open.spotify.com/artist/1marWJ3Id2c1evTL8eV1lb) | [Song Ca Nhạc Vàng Bolero Và Remix Phần 1](https://open.spotify.com/album/6Hagz8ylcRuUBQx3gd357q) | 5:00 |
 | 42 | [Lại Nhớ Người Yêu](https://open.spotify.com/track/0nDTdQm4QBUeqKyADkGvH1) | [Thiên Quang](https://open.spotify.com/artist/58mUjJjKQywcSmunX8z30H), [Quỳnh Trang](https://open.spotify.com/artist/76p6SuLTYuJutQQYcXMgbw) | [Đường Tím Ngày Xưa](https://open.spotify.com/album/0su8JLaHcq9OM5TgIusVXO) | 4:53 |
 | 43 | [Hoa Trinh Nữ](https://open.spotify.com/track/1e3XVECaKioH2FdzNM83Fk) | [Mỹ Tâm](https://open.spotify.com/artist/1CWwyDPjCowRTO4p6A7r6g) | [Bolero Edition](https://open.spotify.com/album/7veulXKjGs1XbnMECXrtzL) | 5:59 |
 | 44 | [Chỉ Hai Đứa Mình](https://open.spotify.com/track/4IduE5TDLuPvg0YxmrRNAV) | [Bảo Yến](https://open.spotify.com/artist/0pOtP6jMG4IXacNYJIGTAe) | [Nhạc Vàng](https://open.spotify.com/album/3k1SXNvYsRQ5Nb4Q4hBb7E) | 7:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWdlSG3xntgM.md) - [plain]
 | 49 | [Về Đâu Mái Tóc Người Thương](https://open.spotify.com/track/3mpQ1AviqQ8iC9H5AaVVWu) | [Hoàng Oanh](https://open.spotify.com/artist/2ztKQFCq6NdVbjWLq33H7o), [Phương Dung](https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3) | [Sao Chưa Thấy Hồi Âm](https://open.spotify.com/album/5vaRnl2QeL8hONSGhi1EE8) | 5:42 |
 | 50 | [Tám Điệp Khúc](https://open.spotify.com/track/2Nt6SXQtMQ8OmPbkM9N05h) | [Thanh Phong](https://open.spotify.com/artist/3zir1qGiUwDRJlez2949oc) | [Đừng Nói Xa Nhau](https://open.spotify.com/album/7wm2kvlHjIbudyEtEWDOPm) | 5:50 |
 
-Snapshot ID: `MCw3MzQyZDA2MmU5OWJlYTQwMzA1MmVlZmE2YWQ2NDNiZDQxNzBjMzI2`
+Snapshot ID: `MCxjY2EyMzBhNWIyMWM0NzRhMDkwYTQ5MGMxM2JkMDQ3ZTQ4MjgwNmY2`

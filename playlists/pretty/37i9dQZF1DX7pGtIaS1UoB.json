@@ -1,12 +1,12 @@
 {
   "description": "\u9019\u4e9b\u6709\u7bc0\u594f\u6709\u6eab\u5ea6\u7684\u60c5\u6b4c\uff0c\u80fd\u8b93\u4f60\u6642\u6642\u523b\u523b\u90fd\u6709\u5728\u5e78\u798f\u4e2d\u904a\u8d70\u7684\u611f\u89ba\u3002",
-  "num_followers": 93185,
+  "num_followers": 93189,
   "original_name": "\u6696\u5fc3\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkY2Y5MDI4NmQxZWU2MjM3YzZkZDVlNmIzNTk3NTUwNDk4MDFlYzAz",
+  "snapshot_id": "MCw0YTEyZmY2ZDhlNDI4NDdiOTdjZDEzOTBmNjk3MWFmNThkZWY2ZjM4",
   "tracks": [
     {
       "added_at": "2023-10-08 16:21:40",
@@ -463,22 +463,18 @@
     {
       "added_at": "2023-10-08 16:21:40",
       "album": {
-        "name": "\u5982\u679c\u96e8\u4e4b\u5f8c",
-        "url": "https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g"
+        "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
+        "url": "https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz"
       },
       "artists": [
         {
-          "name": "Eric Chou",
-          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
-        },
-        {
-          "name": "\u8a31\u744b\u752f",
-          "url": "https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB"
+          "name": "OHMYMEITING",
+          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
         }
       ],
-      "duration_ms": 245160,
-      "name": "\u9ecf\u9ecf (feat. \u8a31\u744b\u752f)",
-      "url": "https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL"
+      "duration_ms": 221443,
+      "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
+      "url": "https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB"
     },
     {
       "added_at": "2023-10-08 16:21:40",
@@ -503,18 +499,22 @@
     {
       "added_at": "2023-10-08 16:21:40",
       "album": {
-        "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
-        "url": "https://open.spotify.com/album/0kxdozp8b7SxMfeiJ5Pxgz"
+        "name": "\u5982\u679c\u96e8\u4e4b\u5f8c",
+        "url": "https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g"
       },
       "artists": [
         {
-          "name": "OHMYMEITING",
-          "url": "https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx"
+          "name": "Eric Chou",
+          "url": "https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi"
+        },
+        {
+          "name": "\u8a31\u744b\u752f",
+          "url": "https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB"
         }
       ],
-      "duration_ms": 221443,
-      "name": "\u5df4\u9ece\u7684\u5341\u4e8c\u9ede",
-      "url": "https://open.spotify.com/track/4dVlQJVxsUNEL4lTSSwAJB"
+      "duration_ms": 245160,
+      "name": "\u9ecf\u9ecf (feat. \u8a31\u744b\u752f)",
+      "url": "https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL"
     },
     {
       "added_at": "2023-10-08 16:21:40",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-10-08 16:21:40",
       "album": {
+        "name": "\u6211\u7684\u9ea5\u514b\u98a8",
+        "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
+      },
+      "artists": [
+        {
+          "name": "Will Pan",
+          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
+        }
+      ],
+      "duration_ms": 241213,
+      "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
+      "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
+    },
+    {
+      "added_at": "2023-10-08 16:21:40",
+      "album": {
         "name": "\u7f8e\u4e3d\u7684\u59b3",
         "url": "https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 189004,
       "name": "\u7f8e\u4e3d\u7684\u59b3",
       "url": "https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt"
-    },
-    {
-      "added_at": "2023-10-08 16:21:40",
-      "album": {
-        "name": "\u6211\u7684\u9ea5\u514b\u98a8",
-        "url": "https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX"
-      },
-      "artists": [
-        {
-          "name": "Will Pan",
-          "url": "https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0"
-        }
-      ],
-      "duration_ms": 241213,
-      "name": "\u611b\u4e0a\u672a\u4f86\u7684\u4f60",
-      "url": "https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl"
     },
     {
       "added_at": "2023-10-08 16:21:40",

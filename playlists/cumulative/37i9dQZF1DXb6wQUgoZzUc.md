@@ -4,7 +4,7 @@
 
 > Un perreito en la pared...
 
-379 songs - 21 hr 16 min
+380 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Este Tema Maste](https://open.spotify.com/track/2GK3qCHRnRLs3wxdvKQ3Zr) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [Este Tema Maste](https://open.spotify.com/album/6364lyBqR7QRoiLhUfjGUH) | 3:24 | 2022-01-11 | 2022-01-26 |
 | [Esto Se Va A Descontrolar](https://open.spotify.com/track/5JJxVdS5tN3RGbCDjkXvvj) | [Ecko](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Esto Se Va A Descontrolar](https://open.spotify.com/album/2OeM48pyZ2peAYu8Z4bL2B) | 2:15 | 2022-03-09 | 2022-03-24 |
 | [Explícito](https://open.spotify.com/track/6qraVL4IJaIj0IuEexYJNa) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Para Mi Ex](https://open.spotify.com/album/4ht3ZwHsmWhrrR8LcKd62u) | 3:15 | 2021-12-31 |  |
+| [FERXXO 30](https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:53 | 2023-10-11 |  |
 | [Fiel](https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs) | [Los Legendarios](https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Los Legendarios 001](https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf) | 4:21 | 2021-12-31 |  |
 | [FRIKI](https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [FRIKI](https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2) | 2:24 | 2021-12-31 |  |
 | [Frikitona](https://open.spotify.com/track/5JDjxO6F0RrLkzAdIOG6P3) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [Frikitona \- Single](https://open.spotify.com/album/4NGXJ1L18IjOD3H9tLV9Lk) | 3:03 | 2022-03-25 |  |
@@ -364,7 +365,7 @@
 | [Unfollow](https://open.spotify.com/track/6GsD646HrIDJJpzoY9T1Rt) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36) | [Unfollow](https://open.spotify.com/album/7kZP9XNkAgcKMqhXWZG4PB) | 3:16 | 2022-03-25 | 2023-02-25 |
 | [Uy K Raro](https://open.spotify.com/track/526lL7I17vKOuiD9Wd2vMt) | [Mont](https://open.spotify.com/artist/41gFAk6ZyYdt7Q1Ir4cbH0) | [Uy K Raro](https://open.spotify.com/album/5FqitTSr4aw1i56OFbbbhn) | 2:07 | 2021-12-31 | 2022-04-21 |
 | [Vacaciones](https://open.spotify.com/track/3dQDid3IUNhZy1OehIfYfE) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Vacaciones](https://open.spotify.com/album/6k0mxvr3REgMTOT08V7mFj) | 3:58 | 2022-03-25 | 2022-04-20 |
-| [VACAXIONES](https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VACAXIONES](https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7) | 3:06 | 2021-12-31 |  |
+| [VACAXIONES](https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [VACAXIONES](https://open.spotify.com/album/3aHEfUe8GAjKYGVB2hENP7) | 3:06 | 2021-12-31 | 2023-10-11 |
 | [Vacilon](https://open.spotify.com/track/4RSoYhMvBaQkxCXfq0kvjj) | [Don Chezina](https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt) | [Boricua Reggaeton Clasicos de Barrio, Vol\. 1](https://open.spotify.com/album/6bUq5lb8Dgl3whC2xgrXCl) | 2:30 | 2022-08-01 | 2022-09-09 |
 | [Velitas](https://open.spotify.com/track/7q3NthaBqFI6s0WnAlnIvq) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Velitas](https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA) | 3:45 | 2022-01-14 | 2023-02-18 |
 | [VEN ARREBÁTATE](https://open.spotify.com/track/36GbqfgNwZJQULo5YghqKk) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE) | [VEN ARREBÁTATE](https://open.spotify.com/album/5fepa7gJGppMHycR9XP2qr) | 4:18 | 2023-05-26 | 2023-06-03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 
 > Current favorites and exciting new music\. Cover: Kylie Minogue
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,851,993 likes - 102 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,851,556 likes - 102 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcRXFNfZr7Tp.md) - [plain]
 | 101 | [All For Love](https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [All For Love](https://open.spotify.com/album/2pOgDztbw4e30HjuwpdouX) | 2:46 |
 | 102 | [Rock My Body](https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Rock My Body \(with INNA & Sash!\)](https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB) | 2:17 |
 
-Snapshot ID: `MCxmM2UzN2Q1ZTg5ZmJmYmM1MmRhZDBhMGYwMWJmNmIyYjFmYTY3NGQ2`
+Snapshot ID: `MCw0YWE5Yzg4YTljZjQ3NTMzN2JhZDI3NWQ1NWIyODc3YWZjMjBlMmNj`

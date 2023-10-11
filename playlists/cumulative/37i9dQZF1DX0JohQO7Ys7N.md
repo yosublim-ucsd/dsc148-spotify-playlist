@@ -4,7 +4,7 @@
 
 > Kickback, Relax to some smooth R&B from The City Under The Sun \- Nairobi\. Cover: PHY
 
-139 songs - 7 hr 48 min
+140 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [ARUSHA](https://open.spotify.com/track/5wMu7s9qqZBAu6BEsrsklL) | [Umoja Sounds](https://open.spotify.com/artist/6a8xnLQPDn7HANbZgT3tj9), [Emma Cheruto](https://open.spotify.com/artist/3vIVa24HAi5YMEWiyW4ve3) | [ARUSHA](https://open.spotify.com/album/3yCFjNsTx8v0dJa5RR9rcX) | 3:30 | 2022-06-23 | 2022-10-28 |
 | [Built for You](https://open.spotify.com/track/46TDKUYWxWeDrbWWsntEu6) | [Wanja Wohoro](https://open.spotify.com/artist/6x42DjzrK28UZZzKsKGvVE) | [Built for You](https://open.spotify.com/album/3RV5Ev9KtvyEzkhzJb3OIT) | 3:35 | 2021-12-28 | 2022-09-09 |
 | [Can't Get Enough](https://open.spotify.com/track/553jHYX9KWMe4ww9XnQSb9) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Can't Get Enough](https://open.spotify.com/album/7EHk9suPUmKdravDqbzrb2) | 3:57 | 2022-03-31 | 2023-06-30 |
-| [Can't Keep It In](https://open.spotify.com/track/5r5x6rTbWTn2CxoNVg86lN) | [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [Can't Keep It In](https://open.spotify.com/album/2s5m4P630f4PkTWMesgkfV) | 2:49 | 2022-09-22 |  |
+| [Can't Keep It In](https://open.spotify.com/track/5r5x6rTbWTn2CxoNVg86lN) | [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [Can't Keep It In](https://open.spotify.com/album/2s5m4P630f4PkTWMesgkfV) | 2:49 | 2022-09-22 | 2023-10-11 |
+| [Can't Keep It In](https://open.spotify.com/track/6YtTeD6tpQ40Fih6E1oqEN) | [Supadrum](https://open.spotify.com/artist/2q7ob4iRW4coFJm5I6nY0H), [Iyanah](https://open.spotify.com/artist/6dRAXLNCcsl6P2mgIu6WhO) | [Can't Keep It In](https://open.spotify.com/album/03TPBnGax4n6AzpTqDWlqK) | 2:49 | 2023-10-06 |  |
 | [Catch Me Later](https://open.spotify.com/track/23ccG0YrcOB1ZiEMRfkNVq) | [Emmie Muthiga](https://open.spotify.com/artist/3C7QGmFonaPwN5s7loihkR) | [FREE](https://open.spotify.com/album/1eo8gcKfYcFCE12POc0Uqa) | 3:31 | 2022-08-26 | 2023-02-24 |
 | [Coka Mucie](https://open.spotify.com/track/4WUB5yrRvObEzUIld8zRm8) | [STACY KAMATU](https://open.spotify.com/artist/6l0EZy2duhAIJ97BaqRb6Y) | [Coka Mucie](https://open.spotify.com/album/77IgdQQfnJkNuRtjSN3DtP) | 4:13 | 2021-12-28 |  |
 | [Cotton Candy](https://open.spotify.com/track/1StTldm9Adge3KhJf1hjOh) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H) | [Cotton Candy](https://open.spotify.com/album/0CKwnv5z8fLTM3trd704Gr) | 2:51 | 2023-06-29 |  |

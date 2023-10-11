@@ -4,7 +4,7 @@
 
 > Degusta de lo más delicioso para cenar.
 
-379 songs - 1 day 0 hr 16 min
+380 songs - 1 day 0 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,6 +181,7 @@
 | [I’m Sentimental, After All](https://open.spotify.com/track/529n27BE2TPAhHMHfmlE2B) | [The Headliner Trio](https://open.spotify.com/artist/79XAL1YXeOMQ2ksDQjvFa7) | [I’m Sentimental, After All](https://open.spotify.com/album/7j9lWOy0juahXQyS0k8ELB) | 2:28 | 2022-06-29 |  |
 | [Journeying](https://open.spotify.com/track/0rxrNlowteTww0qD51gmJC) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Journeying](https://open.spotify.com/album/3P9JiFggKtxEEdi9l67JRp) | 3:51 | 2023-04-20 |  |
 | [Just For Tonight](https://open.spotify.com/track/1vwtIkZtFqmekoyuHH5jxO) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Just For Tonight](https://open.spotify.com/album/2Rnh8BfeFA5RkUdiHyP3MH) | 2:44 | 2023-03-27 |  |
+| [Keep going](https://open.spotify.com/track/7k82PhqzL3q6fign67v8GJ) | [Benjamine Leroy Quartet](https://open.spotify.com/artist/0HsfmmG8LqKOxS2LBIO9bM) | [Keep going](https://open.spotify.com/album/7BukZAguWbVLNLzFLDjZTf) | 3:34 | 2023-10-06 |  |
 | [Lady in the Blue Dress](https://open.spotify.com/track/4PtCTyed2hD6brWYYBZSQj) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Lady in the Blue Dress](https://open.spotify.com/album/2nN6DzHIhxoFSzfEdxZszD) | 4:07 | 2022-06-29 |  |
 | [Lady Sings the Blues](https://open.spotify.com/track/3JlzYRcXGNW8Gay4WQdmZm) | [The Capital Club Trio](https://open.spotify.com/artist/5zYKDdUuVKola3uCqk6WeW) | [Beyond the Sea](https://open.spotify.com/album/1HemrEZkZ9CNgCXhUy7uih) | 4:30 | 2022-06-29 | 2023-10-01 |
 | [Last Call](https://open.spotify.com/track/2nUhKiUfVdLcGmcdYHdjBw) | [Glass Trio](https://open.spotify.com/artist/2RfscHz3ooemLWvQslMeqm) | [Nightcaps](https://open.spotify.com/album/2LkaBy0R9FbEBd6xqsT0ja) | 2:49 | 2023-02-16 |  |
@@ -341,7 +342,7 @@
 | [This isn’t home](https://open.spotify.com/track/7FJiPlX1unkR69o7SwYJa4) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [This isn’t home](https://open.spotify.com/album/6cfSkl9nRlvkdVvOdTE3un) | 2:46 | 2023-03-02 |  |
 | [This sweet pet](https://open.spotify.com/track/2Bv8LgnuZkVg6P6ZPsfuwB) | [Keanan Field Group](https://open.spotify.com/artist/3Nswj36GKhom7iy2bLvJNJ) | [This sweet pet](https://open.spotify.com/album/6VgGGR4IdKoHtxmuDRtTvK) | 3:38 | 2023-06-09 |  |
 | [Through The Years](https://open.spotify.com/track/7g5SC1jZlV5dG5czITyjWa) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Through The Years](https://open.spotify.com/album/4fWa037ryzZJYfrxejalL0) | 3:56 | 2022-06-29 |  |
-| [Tideaway](https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [Forest Green](https://open.spotify.com/album/7plhGaXJdEwRsJkBr15KIb) | 3:29 | 2023-10-06 |  |
+| [Tideaway](https://open.spotify.com/track/7vffwkV7miOu7Sxz75pSuY) | [Emergence Quartet](https://open.spotify.com/artist/0VzjGHBEq1AjqXabKQIRUm) | [Forest Green](https://open.spotify.com/album/7plhGaXJdEwRsJkBr15KIb) | 3:29 | 2023-10-06 | 2023-10-11 |
 | [Tidewater](https://open.spotify.com/track/2o8qn04QtYku0WNWxcGps6) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Tidewater](https://open.spotify.com/album/3hX9C1BMAHerJlzLfhupta) | 3:36 | 2022-06-29 |  |
 | [Time After Time](https://open.spotify.com/track/1b027Iusu7sUPRNk1T7ZKo) | [Carlton Maison Quartet](https://open.spotify.com/artist/0Tq1tUZV3Vw3CUvNwIjxpm) | [Time After Time](https://open.spotify.com/album/5S3nYxOStnKHFmzduinNco) | 3:36 | 2022-06-29 |  |
 | [To the Moon and Back](https://open.spotify.com/track/2kpab8oAK2b4f6AcR076PA) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [To the Moon and Back](https://open.spotify.com/album/6kn3tGxawwwCILy9FvSjNQ) | 5:07 | 2022-06-29 | 2023-07-04 |

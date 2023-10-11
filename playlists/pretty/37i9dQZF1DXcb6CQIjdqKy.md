@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 
 > The best mix of today's Christian music, all genres, worldwide\. Cover:  <a href="spotify:artist:4akybxRTGHJZ1DXjLhJ1qu">Kirk Franklin</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,583,300 likes - 98 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583,047 likes - 98 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcb6CQIjdqKy.md) - [plain]
 | 97 | [For the Love of God](https://open.spotify.com/track/5OrJhxKDfqRsikTH1SaWp7) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [For the Love of God](https://open.spotify.com/album/0PXAm9ob71rL4Cyi4gQTq2) | 3:48 |
 | 98 | [Anxious Heart](https://open.spotify.com/track/2lgK3q3cnmrHzZwDOgfMdG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [When You Speak](https://open.spotify.com/album/0ZhquyWDlKCae6wcNjIouZ) | 2:57 |
 
-Snapshot ID: `MCw4ZjY4ZTA0YjMzMzhiNjc4NjcwZjJhY2VhMDYwODdlODA2ZmRiNjJk`
+Snapshot ID: `MCxkNWZhODNjMTllODQ5OWQ2ZDI4ZDRiMmE1M2M3YWY2Y2FkNWQ2ODNi`

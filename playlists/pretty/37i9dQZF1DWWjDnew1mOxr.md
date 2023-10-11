@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 
 > Boss music for boss people\. Cover: JAMIE WEBSTER
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,023 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,048 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 39 | [Wor Flags](https://open.spotify.com/track/2lvcExg0HKWUjxVeRwKjno) | [Andrew Cushin](https://open.spotify.com/artist/0mUufv9jrIi9BPpN9VHduc) | [Wor Flags](https://open.spotify.com/album/6uLXBuJe88sWg7sW1Hsnlm) | 3:45 |
 | 40 | [Cherish](https://open.spotify.com/track/2TfDppfA0KZ3rTQT0dgrTo) | [She's In Parties](https://open.spotify.com/artist/3A9BLI8S2rNSxXS3QsMkOY) | [Cherish](https://open.spotify.com/album/3qOfKTVNQD2C5sYqpTQsMo) | 2:40 |
 | 41 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 |
-| 42 | [somebody to talk about](https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [somebody to talk about](https://open.spotify.com/album/4uF7jMhZTxluxHuudjixpA) | 3:19 |
-| 43 | [Troubled Son](https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Troubled Son](https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35) | 3:20 |
+| 42 | [Troubled Son](https://open.spotify.com/track/1NuOxTkp5SwxkT1K3yqcpm) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Troubled Son](https://open.spotify.com/album/3hapFmR8CqczqZH3uWly35) | 3:20 |
+| 43 | [somebody to talk about](https://open.spotify.com/track/5yzPeajLIddrlWJeD7HAuz) | [second thoughts](https://open.spotify.com/artist/7KSGahEAA5BSZlVgslhXzX) | [somebody to talk about](https://open.spotify.com/album/4uF7jMhZTxluxHuudjixpA) | 3:19 |
 | 44 | [3AM](https://open.spotify.com/track/7q6sN7NKKowCDvPHS0SaCi) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [3AM](https://open.spotify.com/album/1Cmfz56eoj4qs3ZMvfvCUx) | 3:31 |
 | 45 | [Landmines](https://open.spotify.com/track/7BN61WUSYSHP8OrGfTqdI8) | [The K's](https://open.spotify.com/artist/6DlKk9ibc9dCgvyNPGNXdH) | [Landmines](https://open.spotify.com/album/0mtjOk14meeRpSlVpbUzpa) | 4:43 |
 | 46 | [Going Nowhere](https://open.spotify.com/track/07PfgizN70SFfSP134eAU2) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [People Like Me & You](https://open.spotify.com/album/5CctSFDfkZCmQOp5vMfGA4) | 3:56 |
@@ -59,9 +59,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 49 | [Bullet Farm](https://open.spotify.com/track/3CTZvBM4GoGazlOfR2aopV) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [Bullet Farm](https://open.spotify.com/album/32MwWq9YA4sIKBH95h3hee) | 3:10 |
 | 50 | [Sertraline](https://open.spotify.com/track/590R8KUGLq2KhNDjccahYK) | [The Lottery Winners](https://open.spotify.com/artist/0LLilNa5TUAaUwJwLyOf2b) | [Anxiety Replacement Therapy](https://open.spotify.com/album/7IX8SVSpjtuU4qNukaXcZu) | 3:06 |
 | 51 | [Cavalryman](https://open.spotify.com/track/2KUqbwVAwyiajA6wyMdxWH) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [Cavalryman](https://open.spotify.com/album/1DtKTmCjirkrY5hvcObsGt) | 3:13 |
-| 52 | [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 |
+| 52 | [Baggio](https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Baggio](https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg) | 3:41 |
 | 53 | [Right Time](https://open.spotify.com/track/6ShMhtk1om88amkkiUrpS9) | [overpass](https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8) | [Right Time](https://open.spotify.com/album/1VsVEFWRQdn1MtFcjrTUXW) | 4:00 |
-| 54 | [Baggio](https://open.spotify.com/track/56xBkDSJfpuWbQfRs9gVxw) | [Miles Kane](https://open.spotify.com/artist/3M0H4efyA5YcijrKlaKbYn) | [Baggio](https://open.spotify.com/album/039GsP3Uy8n0l7JlZcADEg) | 3:41 |
+| 54 | [Never Good Enough](https://open.spotify.com/track/1pGqAguykp8zDDqXggYMOg) | [Tom A\. Smith](https://open.spotify.com/artist/6haZIHZVYI79wKvp6FCFML) | [Never Good Enough](https://open.spotify.com/album/1maaBTu2ouZNKanqe8Foap) | 3:47 |
 | 55 | [Blisters](https://open.spotify.com/track/1Y8j5sFITgFnRxMtSbWnFr) | [The Royston Club](https://open.spotify.com/artist/5N5jf98OOEf3uAIJpi1deD) | [Blisters](https://open.spotify.com/album/4uoNUCK3k5Xy5ADC5mY7nP) | 2:59 |
 | 56 | [Just Move](https://open.spotify.com/track/64fVObugIv5tiWtN6LhCRf) | [Pixey](https://open.spotify.com/artist/0Mwm5rtTYi44wClH4ZXjkI) | [Just Move](https://open.spotify.com/album/1g5uEvVcsGl0nMRjGRcGy6) | 3:06 |
 | 57 | [I Let Go](https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Let Go](https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N) | 2:21 |
@@ -80,25 +80,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 70 | [Sheila](https://open.spotify.com/track/0pEUe59mLxAsX2zDpbApuA) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Panic Prevention](https://open.spotify.com/album/4C7oYM9ScJk9SamwCPfg9T) | 4:19 |
 | 71 | [Lovers Come and Lovers Go](https://open.spotify.com/track/0JWafcuc5QarfXoWSs5MLO) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Lovers Come and Lovers Go](https://open.spotify.com/album/6K7sOJaH3TEsJ764csQ5MS) | 2:39 |
 | 72 | [Wide Asleep](https://open.spotify.com/track/1xpmaqqqyxCzZGPlZnnLyC) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Wide Asleep](https://open.spotify.com/album/2DY3DFla02eVvCjHgW6s64) | 4:12 |
-| 73 | [Female of the Species](https://open.spotify.com/track/2K8kox96chIc5gFJVRWJgg) | [The Sukis](https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT) | [A Sense Of Doubt](https://open.spotify.com/album/7rarto0TdC6zceBil7cgxK) | 3:06 |
-| 74 | [ITSA](https://open.spotify.com/track/6e4xO6Q0hZY2cVvOdQHWZv) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [ITSA](https://open.spotify.com/album/2MPhNCqzpEbSZkWX5juNYo) | 3:39 |
-| 75 | [Lost Without You](https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Lost Without You](https://open.spotify.com/album/6bjbaKvxQUftREKm8amxOe) | 3:47 |
-| 76 | [Bring Us Down](https://open.spotify.com/track/3h2RARW0N82V81Del0u88T) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm) | 3:22 |
+| 73 | [These Days](https://open.spotify.com/track/5omsPZVDwJS3Jt2Ivlv7J2) | [Tide Lines](https://open.spotify.com/artist/47WvBuryaMeInhqbcoi0uN) | [An Ocean Full of Islands](https://open.spotify.com/album/01FjLg54vBily703i6K8bT) | 3:18 |
+| 74 | [Female of the Species](https://open.spotify.com/track/2K8kox96chIc5gFJVRWJgg) | [The Sukis](https://open.spotify.com/artist/0z2w2g48teQXR561xEi3zT) | [A Sense Of Doubt](https://open.spotify.com/album/7rarto0TdC6zceBil7cgxK) | 3:06 |
+| 75 | [ITSA](https://open.spotify.com/track/6e4xO6Q0hZY2cVvOdQHWZv) | [L'objectif](https://open.spotify.com/artist/7dB5TtNG9BHNj4QCfS0SQg) | [ITSA](https://open.spotify.com/album/2MPhNCqzpEbSZkWX5juNYo) | 3:39 |
+| 76 | [Lost Without You](https://open.spotify.com/track/7ckvoom2YHogDgVDHG2sF3) | [Spyres](https://open.spotify.com/artist/0gu9FiIFp32jTZSCRhdqFO) | [Lost Without You](https://open.spotify.com/album/6bjbaKvxQUftREKm8amxOe) | 3:47 |
 | 77 | [Lets Stay out Tonight](https://open.spotify.com/track/6EN2izjvx1QpyM7JTz7mij) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Emergency \(15 Year Anniversary Version\)](https://open.spotify.com/album/56nvxwuP4qL4GhO6ZgKjGS) | 2:34 |
-| 78 | [These Days](https://open.spotify.com/track/5omsPZVDwJS3Jt2Ivlv7J2) | [Tide Lines](https://open.spotify.com/artist/47WvBuryaMeInhqbcoi0uN) | [An Ocean Full of Islands](https://open.spotify.com/album/01FjLg54vBily703i6K8bT) | 3:18 |
+| 78 | [Bring Us Down](https://open.spotify.com/track/3h2RARW0N82V81Del0u88T) | [The Luka State](https://open.spotify.com/artist/6DaXEbr3LdLNcui8pZf6AF) | [More Than This](https://open.spotify.com/album/0FbO9feyM3p7fIj0sBfZxm) | 3:22 |
 | 79 | [Isn't](https://open.spotify.com/track/5kD48GFbfBOUEXMXyfhnWr) | [The Night Café](https://open.spotify.com/artist/1ShwUjKIwQRaUJij7jgRhp) | [Isn't](https://open.spotify.com/album/6uIUWQiVY2uoHvXT779jdv) | 3:47 |
 | 80 | [Propaganda](https://open.spotify.com/track/7ySX1sgdBBCzw7WacxCYiS) | [Hannah Grae](https://open.spotify.com/artist/06vyPLBCJLDF8EGgQJEEhV) | [Propaganda](https://open.spotify.com/album/4DypGkmzZGw3chFK6Zh3Pr) | 2:26 |
 | 81 | [Does It Rain on You?](https://open.spotify.com/track/6bL29v2gkVXgFbAUEp6NYY) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [In Separation](https://open.spotify.com/album/5ts1C0PznmiGWsKZAr5Kgo) | 3:02 |
-| 82 | [Lazy Brain](https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Deepest Blue](https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl) | 3:38 |
-| 83 | [CHEMICALS](https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [THE WALL](https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk) | 3:31 |
+| 82 | [CHEMICALS](https://open.spotify.com/track/3bGnizZtJfcuY6ZOoaSMZI) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [THE WALL](https://open.spotify.com/album/2qN0UtOJpDpdtbW6JoCTAk) | 3:31 |
+| 83 | [Lazy Brain](https://open.spotify.com/track/3lIVyH8SN5yPVExgWuyiYh) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Deepest Blue](https://open.spotify.com/album/2l6T54veKjGFPc4MHVPrjl) | 3:38 |
 | 84 | [Remember All The Girls](https://open.spotify.com/track/7EPUyFHUWXCSmu5EoO58ET) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [Remember All The Girls](https://open.spotify.com/album/6fb4iHgNQBpYtLjcFD3W82) | 3:42 |
 | 85 | [Patsy Decline](https://open.spotify.com/track/5e0X1BgUtlx8930aZ2QWU0) | [RATS](https://open.spotify.com/artist/0xS02ATWv2azbvKGV4Evc0) | [Jenny / Patsy Decline](https://open.spotify.com/album/7iFb0X7ZlAVkeb917gi2CD) | 2:46 |
 | 86 | [Hummus and Pitta](https://open.spotify.com/track/7n6biK1HTuLfsNZv7LVFZa) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Hummus and Pitta](https://open.spotify.com/album/7G2IyVdw8K2clKwdNvAF7v) | 2:17 |
 | 87 | [Third Time Lucky](https://open.spotify.com/track/49HgyKaneQrj1YeJp6OvUC) | [Manilla Times](https://open.spotify.com/artist/4pJF1tw5SVplqOd4WIMz5n) | [Third Time Lucky](https://open.spotify.com/album/4UVmRemGmqnJspiJAT2c8q) | 3:06 |
-| 88 | [The Enemy](https://open.spotify.com/track/6dNfjKaqLLMUxXOcycbOFr) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/4t250HKL2vikczwZILscU5) | 3:08 |
-| 89 | [King of My Head](https://open.spotify.com/track/6AIDWsvlNJMVOwVzf04mu2) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [King of My Head](https://open.spotify.com/album/5auDLhlDrX07I0K3SHsH0H) | 3:40 |
-| 90 | [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 |
-| 91 | [What You Want](https://open.spotify.com/track/4UyXpL9yyJb9t2FGAyDzjC) | [Zuzu](https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm) | [How It Feels](https://open.spotify.com/album/49fsS2odS0bn5gu3UFxqK0) | 3:22 |
+| 88 | [King of My Head](https://open.spotify.com/track/6AIDWsvlNJMVOwVzf04mu2) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [King of My Head](https://open.spotify.com/album/5auDLhlDrX07I0K3SHsH0H) | 3:40 |
+| 89 | [The Enemy](https://open.spotify.com/track/6dNfjKaqLLMUxXOcycbOFr) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [The Enemy](https://open.spotify.com/album/4t250HKL2vikczwZILscU5) | 3:08 |
+| 90 | [What You Want](https://open.spotify.com/track/4UyXpL9yyJb9t2FGAyDzjC) | [Zuzu](https://open.spotify.com/artist/4GcpGBggb1BbFfG4jS2Wpm) | [How It Feels](https://open.spotify.com/album/49fsS2odS0bn5gu3UFxqK0) | 3:22 |
+| 91 | [Wait For Me](https://open.spotify.com/track/4iVabnzKwxEKPJApgMbzoG) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [How Will I Know If Heaven Will Find Me?](https://open.spotify.com/album/5wtPiwfkmZQSbrMUODMD4f) | 2:57 |
 | 92 | [Hull Sky](https://open.spotify.com/track/3KTFknLMGHEH7yaxCjDrS7) | [LIFE](https://open.spotify.com/artist/2NWimAynlyqVUWD4YnJHlC) | [Shipping Forecast](https://open.spotify.com/album/4bDVGO2hYS0Hxe07ilSi9x) | 2:37 |
 | 93 | [PRAWN SOUP](https://open.spotify.com/track/5PEH48ZYmU1Ewx15tFJz6w) | [The Skinner Brothers](https://open.spotify.com/artist/4PY51S3HuOMhnZA0Sx8FRN) | [Prawn Soup](https://open.spotify.com/album/79n2NMO61v0yMwY65V0t9y) | 2:33 |
 | 94 | [Fashion](https://open.spotify.com/track/4SovnusZTVLsnd5SF9nVcZ) | [Bilk](https://open.spotify.com/artist/5ryYQaYPltS7u7tjByRM3K) | [Fashion](https://open.spotify.com/album/4VF6M7rtmO3PCX0PUcB8tx) | 2:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjDnew1mOxr.md) - [plain]
 | 99 | [People Should Know Better](https://open.spotify.com/track/3jB0zfTTSyyQZpKMb53I2f) | [SPINN](https://open.spotify.com/artist/3VRqGLyj4cnRers46I0Yk4) | [Outside Of The Blue](https://open.spotify.com/album/67gfgBg54Xsi0xWtPZmYU4) | 3:15 |
 | 100 | [Slowly Break My Heart](https://open.spotify.com/track/7aTbJIgfkh5Hhq3C1309sD) | [Frankie Beetlestone](https://open.spotify.com/artist/3P9q1XRVPpimotcMCGOFqH) | [Slowly Break My Heart](https://open.spotify.com/album/6GPCijZTBrxaiEB2v7sVyF) | 3:14 |
 
-Snapshot ID: `MCxmN2NlODA3NjE3N2Q4ZmZjMTM2NjM1YWMwNmExNjY5Mzc5NGU5ZTdm`
+Snapshot ID: `MCw4ZGVlZWNkNjMzZWNjZDdlNDEzMDVjZjcyNzQ0YTZmYjY4MDgyYjY1`

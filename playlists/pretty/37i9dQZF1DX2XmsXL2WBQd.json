@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 374290,
+  "num_followers": 374344,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWU1ZmNiN2E5MGEwMDRhMDYzNWM3ZTNhNTMwZDIzOWU5YTg5NDUx",
+  "snapshot_id": "MCxlZmUwYTYxMjBkMGY1MjRlZTI3MjA2OTRkNzMxOGU0NzI4NzBjOWYx",
   "tracks": [
     {
       "added_at": "2023-08-07 11:45:42",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "All World",
-        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 321986,
-      "name": "I Need Love",
-      "url": "https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "The Collection",
         "url": "https://open.spotify.com/album/1MBp9PBjgcjojxprBh69m5"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 282866,
       "name": "Freaks Come Out at Night",
       "url": "https://open.spotify.com/track/743DaI0d44SpwV2ArTPGmy"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "All World",
+        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 321986,
+      "name": "I Need Love",
+      "url": "https://open.spotify.com/track/3UP7dzy4ISy8S3HOReCd1q"
     },
     {
       "added_at": "2023-08-07 11:45:42",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-08-07 11:45:42",
       "album": {
-        "name": "All World",
-        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
-      },
-      "artists": [
-        {
-          "name": "LL COOL J",
-          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
-        }
-      ],
-      "duration_ms": 279960,
-      "name": "I'm Bad",
-      "url": "https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg"
-    },
-    {
-      "added_at": "2023-08-07 11:45:42",
-      "album": {
         "name": "Biz's Baddest Beats: The Best of Biz Markie",
         "url": "https://open.spotify.com/album/2OKf5WlgqFgszrDsxMq07t"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 180093,
       "name": "Cha Cha Cha",
       "url": "https://open.spotify.com/track/1McWPMA7NVuHh0bTm7ljRA"
+    },
+    {
+      "added_at": "2023-08-07 11:45:42",
+      "album": {
+        "name": "All World",
+        "url": "https://open.spotify.com/album/75oGBjE0TVxgdiXhU6J20M"
+      },
+      "artists": [
+        {
+          "name": "LL COOL J",
+          "url": "https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC"
+        }
+      ],
+      "duration_ms": 279960,
+      "name": "I'm Bad",
+      "url": "https://open.spotify.com/track/77nTnRGCyI8NNZUcgjShjg"
     },
     {
       "added_at": "2023-08-07 11:45:42",

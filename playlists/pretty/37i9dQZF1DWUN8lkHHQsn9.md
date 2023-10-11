@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 
 ### [GLOW Polska](https://open.spotify.com/playlist/37i9dQZF1DWUN8lkHHQsn9)
 
-> Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:5n9VtqOD2WpsEHeCdTCLKt">Zawadzki</a>
+> Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:4GUR4UKtbNQiAV2h5qV2df">Kamil Kempiński</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,486 likes - 60 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,521 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,5 +68,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUN8lkHHQsn9.md) - [plain]
 | 58 | [Jeszcze mam serce](https://open.spotify.com/track/5MJ1xR7rF7LUvCy3sZpUJw) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [Jeszcze mam serce](https://open.spotify.com/album/3iYrUbgIpYz5yZUis0Z7Ow) | 4:11 |
 | 59 | [BSoD \(Bluescreen\)](https://open.spotify.com/track/3Ry1yhZnlCYdwpiz3n2qat) | [Dawid Grzelak](https://open.spotify.com/artist/5VjRKb301ZdGDhoiXPLV4c) | [BSoD \(Bluescreen\)](https://open.spotify.com/album/2nUamr4mpMpj0ARF90cMag) | 2:59 |
 | 60 | [Polska](https://open.spotify.com/track/4duqZuqKqtxW0KM0TtxA2L) | [Raf Skowroński](https://open.spotify.com/artist/1alcdAcSxQfrx5GmgWAqGk) | [Polska](https://open.spotify.com/album/05iTzY6S2F3CVYL97LcnOR) | 4:03 |
+| 61 | [Tango](https://open.spotify.com/track/4a2OePCLrPoBzQdjpHrcq4) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 3:45 |
+| 62 | [Barbie](https://open.spotify.com/track/6qw0cxzRzqAw9EctLLSGkX) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B) | 2:21 |
+| 63 | [Ulubione miejsce](https://open.spotify.com/track/0iFNWwWyfAlv0T4hyJLql7) | [MAS](https://open.spotify.com/artist/7nMyiwlK2JwXR9FXBrOiuH) | [Ulubione miejsce](https://open.spotify.com/album/1K30GrnVuxAInOoiXek8sf) | 2:55 |
+| 64 | [Dziewczyna z NASA](https://open.spotify.com/track/253Y585hav2OJuy2gNp0vK) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai), [Panilas](https://open.spotify.com/artist/50v7wSqTiWk0lHxax89jRa) | [Dziewczyna z NASA](https://open.spotify.com/album/1Ght8K533HO0VfaltfaFdX) | 3:40 |
+| 65 | [Technikolor](https://open.spotify.com/track/3vLyOAz1K81lxoIlKzwmAt) | [Shady Lady](https://open.spotify.com/artist/1g0MOYlsQFn7If1Vp7o5L0), [Twoja Stara](https://open.spotify.com/artist/1UmoEzwpL135ejsMxsWpKZ), [Lola Eyeonyou Potocki](https://open.spotify.com/artist/2C8FVoqy4jl5YFhDTTwofP) | [Technikolor](https://open.spotify.com/album/2sSazPeOiKE4nclKDMaZqc) | 3:50 |
+| 66 | [Taką Polskę lubię nawet](https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Taką Polskę lubię nawet](https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER) | 4:08 |
+| 67 | [FOMO](https://open.spotify.com/track/0N1JQHZEUbVqcgMryK9NpL) | [Shyness!](https://open.spotify.com/artist/4qAVYs7aD1BMBRPn9dAKym) | [FOMO](https://open.spotify.com/album/0cP9ZrJM3O7XSUdJVRXoLJ) | 3:44 |
+| 68 | [Cień](https://open.spotify.com/track/7C7G5i9pHHjdPXGCu02oTJ) | [Kamil Kowalski](https://open.spotify.com/artist/0e06gUDSCntc3X6v8mL6kk) | [DOM](https://open.spotify.com/album/2PGFxvrz2d9GixdQRL8ziH) | 4:03 |
+| 69 | [Bezpowrotnie](https://open.spotify.com/track/1tbfKxKjznTSgwR8PX0WSc) | [Zawadzki](https://open.spotify.com/artist/5n9VtqOD2WpsEHeCdTCLKt) | [Bezpowrotnie](https://open.spotify.com/album/6zmndzBsKowsmJBxlNeT06) | 3:02 |
+| 70 | [Stamina](https://open.spotify.com/track/4yVnVhWGIN2E2Gl6GgFU6t) | [Decadent Fun Club](https://open.spotify.com/artist/5tylpiuHFMebHMqITUMzki) | [Stamina](https://open.spotify.com/album/698CpODMEheVL58NRNUKUE) | 4:22 |
+| 71 | [Rojava](https://open.spotify.com/track/1JFGEjYNN1gUHBXWuwsATW) | [MICUŁA](https://open.spotify.com/artist/7GHCUyKOaUg7OE6l4pOpai) | [Rojava](https://open.spotify.com/album/1xHgpZuHmlOATKtuOIsT0L) | 4:27 |
+| 72 | [Don't Collapse](https://open.spotify.com/track/11ZmWCdq4Jlvx7b5OVTmmP) | [Didi Lez](https://open.spotify.com/artist/6e37ehXKRAloIRP7cW8w0v), [Julia Bossque](https://open.spotify.com/artist/6mhPM4qRPEoFIz6AAZKj51) | [Don't Collapse](https://open.spotify.com/album/1FXhql6RzeIEdk790tOYBm) | 4:21 |
+| 73 | [Bum Bum](https://open.spotify.com/track/5t5BoByzGMZE0gXqXPgxK9) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb) | [Maski](https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK) | 3:59 |
+| 74 | [Po Szkole](https://open.spotify.com/track/1chndxFq6bSnakKnBO6UoU) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Kółko I Krzyżyk](https://open.spotify.com/album/1lTGKDGJZOFKBGwDKRU6ex) | 2:49 |
+| 75 | [Duel 35 Chamber Orchestra](https://open.spotify.com/track/3CMYL3nRaIIPN7kInmRZy5) | [Zamilska](https://open.spotify.com/artist/5spFDEIIv5V1yEHxIBStKH), [Patryk Piłasiewicz](https://open.spotify.com/artist/2j4TBbXIHH6qGqx9G7bYJO), [Chamber Orchestra](https://open.spotify.com/artist/1aMgsRyMOjklxOf80Ley9F), [Jan Cieszyński](https://open.spotify.com/artist/56SBcXfudvYb4rTdsXZKAo), [Agata Doszczak](https://open.spotify.com/artist/6rEMWX1OnDhseavIt6HuvC), [Dominik Drewniak](https://open.spotify.com/artist/59oImb1kKYMwjjexZxsFeJ), [Katarzyna Hejnowicz](https://open.spotify.com/artist/1txje25nHpf9q0hLb0PCyj), [Filip Mikulski](https://open.spotify.com/artist/0jcYHj9RFoNwx3in1eCeA5), [Kosma Müller](https://open.spotify.com/artist/6pNH9U1BwU274C8fJCFsZN), [Julia Polowczyk](https://open.spotify.com/artist/71MPlsVNg2hSRaNaKasfkT), [Beata Prus](https://open.spotify.com/artist/5xjLU3UmwaigK4LeWeKzRI), [Barbara Słomian](https://open.spotify.com/artist/77URrQS0BIpNIcZO2Sgb81), [Weronika Stabrawa](https://open.spotify.com/artist/7ekzgARFTMaUc7RKHKphFP), [Anna Zaryczna](https://open.spotify.com/artist/7K1crcEXeirFg8HE7ab341), [Jakub Zoń](https://open.spotify.com/artist/36yxLwof16SmVab7auYzrx), [Weronika Bagniewska](https://open.spotify.com/artist/6JfrZAtC5qgiX9DgYRYtb9) | [DUEL 35 Chamber Orchestra](https://open.spotify.com/album/2BH8azU0tqyYsxhTLt1sPd) | 7:11 |
+| 76 | [Nieludzie \(Ignorance Ha\)](https://open.spotify.com/track/0jS1ZL03A6dSpdhUz0T683) | [Avtomat](https://open.spotify.com/artist/2WtjfyhUnUtXa6xB2cHAnj) | [Gusła \(Human Rites\)](https://open.spotify.com/album/7LL8vd2QrpFTKSmnOe0DVX) | 5:05 |
+| 77 | [49 Groszy \- Remix](https://open.spotify.com/track/4dve4Ig2kTxUCxSIcaoNcd) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a), [Młody B](https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c) | [4900 Groszy](https://open.spotify.com/album/4YLvr3nm2e4Dt8L04dwu2a) | 2:09 |
+| 78 | [Cztery Dwa Zero](https://open.spotify.com/track/4UfS5O48srRx2V1HGjYApg) | [Brokatowe Damy](https://open.spotify.com/artist/3NCIJgTchxctVxgH1oOiVX) | [POTĘŻNE LESBIJKI Z MIECZAMI](https://open.spotify.com/album/47jrlicjC5poOuxmBtgBZ7) | 4:20 |
+| 79 | [Monsters](https://open.spotify.com/track/5sFeA9E3XBROiOBTCOMfUa) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb) | [Maski](https://open.spotify.com/album/2ySVc9A0CxOUm65gOsYFCK) | 4:14 |
+| 80 | [Girls, Gays, People](https://open.spotify.com/track/0hcEoARENUw9yAc4H7fr10) | [Yanch](https://open.spotify.com/artist/0cB5gHRy82zYYouDMeckVZ) | [Girls, Gays, People](https://open.spotify.com/album/4Chm1IYsC21b9Zevy8Vbr9) | 6:35 |
 
-Snapshot ID: `MCxkYjVmYzcxZTIyNjZhZmQxYmQzNWRiOGFmZWYyNGMyMGJhNTMyNzVi`
+Snapshot ID: `MCw1NjI0MGJkMDYzYWVjZjgxYmJlMWJjODAwMzQ3MzE2NTczM2MxNWJm`

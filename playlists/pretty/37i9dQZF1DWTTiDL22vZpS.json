@@ -1,12 +1,12 @@
 {
   "description": "Funk-inspired beats by latinos.",
-  "num_followers": 18052,
+  "num_followers": 18093,
   "original_name": "feels like latin funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3Zjg3NzQ4NDg4ZjUyNTMyMmQxNDQ5NTA5YTFhOGZjNjU2OWZmNWM2",
+  "snapshot_id": "MCw2MTQyZDMzMjU5ZWY3NzczMDIyYTk3YzVkOTAwZmZiM2VhZmIyZmRi",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Delorean",
-        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
-      },
-      "artists": [
-        {
-          "name": "Mi$HNRZ",
-          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
-        }
-      ],
-      "duration_ms": 188400,
-      "name": "Delorean",
-      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
         "name": "Bajo las Luces",
         "url": "https://open.spotify.com/album/1dNEgzCpvrqeF64dp9iESC"
       },
@@ -495,18 +479,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+        "name": "Delorean",
+        "url": "https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t"
       },
       "artists": [
         {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+          "name": "Mi$HNRZ",
+          "url": "https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C"
         }
       ],
-      "duration_ms": 228466,
-      "name": "Golden Choice",
-      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
+      "duration_ms": 188400,
+      "name": "Delorean",
+      "url": "https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -523,6 +507,22 @@
       "duration_ms": 318058,
       "name": "Esta canci\u00f3n",
       "url": "https://open.spotify.com/track/4sKS8hXdU95mCgPUsdgi7f"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
+      },
+      "artists": [
+        {
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        }
+      ],
+      "duration_ms": 228466,
+      "name": "Golden Choice",
+      "url": "https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/50h6fCnNHIHPOsxoT8o58H"
+        "name": "R\u00edo Salvaje",
+        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
       },
       "artists": [
         {
-          "name": "La Garfield",
-          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+          "name": "Little Jesus",
+          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 254218,
-      "name": "Tu y Yo",
-      "url": "https://open.spotify.com/track/7JyK2pz85N5xDu9N8pdv5S"
+      "duration_ms": 326040,
+      "name": "Tr\u00e1game Tierra",
+      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/50h6fCnNHIHPOsxoT8o58H"
+      },
+      "artists": [
+        {
+          "name": "La Garfield",
+          "url": "https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt"
+        }
+      ],
+      "duration_ms": 254218,
+      "name": "Tu y Yo",
+      "url": "https://open.spotify.com/track/7JyK2pz85N5xDu9N8pdv5S"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "M\u00fasica Moderna",
         "url": "https://open.spotify.com/album/1zE6fgn3iqkOwJGS18B0sm"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 237262,
       "name": "T\u00fa",
       "url": "https://open.spotify.com/track/3ODOLzIiOCWiyRE1Wy9KLG"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "R\u00edo Salvaje",
-        "url": "https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI"
-      },
-      "artists": [
-        {
-          "name": "Little Jesus",
-          "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
-        }
-      ],
-      "duration_ms": 326040,
-      "name": "Tr\u00e1game Tierra",
-      "url": "https://open.spotify.com/track/25w814wNZ7B0XoVBV5miTs"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Chango",
+        "url": "https://open.spotify.com/album/65ZOMODDFgGWpANqUL9umN"
+      },
+      "artists": [
+        {
+          "name": "Isla de Caras",
+          "url": "https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF"
+        }
+      ],
+      "duration_ms": 185994,
+      "name": "Despacio",
+      "url": "https://open.spotify.com/track/4M8EITXCAirNIaYcwmf1LI"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "Fugaz",
         "url": "https://open.spotify.com/album/1Ah9gV6yPpVHjq3VdxwLej"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 199334,
       "name": "Juntos",
       "url": "https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Groovin' Bohemia",
-        "url": "https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI"
-      },
-      "artists": [
-        {
-          "name": "Groovin' Bohemia",
-          "url": "https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1"
-        }
-      ],
-      "duration_ms": 155124,
-      "name": "Ki Flip",
-      "url": "https://open.spotify.com/track/1JMCvBGLY8DvM8nXKGjP7D"
     }
   ],
   "unique_name": "feels like latin funk",

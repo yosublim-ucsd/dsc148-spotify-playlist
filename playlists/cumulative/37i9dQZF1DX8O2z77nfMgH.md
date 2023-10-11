@@ -4,7 +4,7 @@
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Ovy On The Drums, Bad Gyal, y Ryan Castro
 
-5,665 songs - 12 day 17 hr 36 min
+5,666 songs - 12 day 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1868,7 +1868,8 @@
 | [ESTÁS BUENÍSIMO](https://open.spotify.com/track/13MRbFUJGGRKucCMzzdnWF) | [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [ESTÁS BUENÍSIMO](https://open.spotify.com/album/5whnoCyMbHr7TRFMoSGsM5) | 3:31 | 2022-11-11 | 2022-11-19 |
 | [Eternamente](https://open.spotify.com/track/71tUVS9wwekoX9qg494zq9) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Eternamente](https://open.spotify.com/album/6eHJ3AnPmuxpS519h43UCG) | 4:03 | 2023-06-09 | 2023-06-17 |
 | [Eto Eh Dembow](https://open.spotify.com/track/79k7Rz7oQDjH3OlAzX8Bzc) | [Braulio Fogon](https://open.spotify.com/artist/0XXR1ghu7pFEcfdmhq52E9), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [Eto Eh Dembow](https://open.spotify.com/album/5ExfMqWEJSe1xEuxbHu1Vm) | 1:36 | 2023-05-12 | 2023-05-20 |
-| [Eu Gosto Assim \- Ao Vivo](https://open.spotify.com/track/2NjThLqCDNuvNuqadFuejQ) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/21U1GoBgmEpjRQpUzsMtcb) | 2:26 | 2023-10-06 |  |
+| [Eu Gosto Assim \- Ao Vivo](https://open.spotify.com/track/2NjThLqCDNuvNuqadFuejQ) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/21U1GoBgmEpjRQpUzsMtcb) | 2:26 | 2023-10-06 | 2023-10-11 |
+| [Eu Gosto Assim \- Ao Vivo](https://open.spotify.com/track/4EnpYMfTXW5aCjs67Qv9ux) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/2eDXZQ6rgIN3nZ6lwXbONV) | 2:26 | 2023-10-06 |  |
 | [Eu Gosto Assim \- Ao Vivo](https://open.spotify.com/track/4ASA1PZyWGbuc4d9N8OAcF) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Eu Gosto Assim \(Ao Vivo\)](https://open.spotify.com/album/704T1TAZMGGokh8HyNaMbO) | 2:28 | 2022-09-16 | 2022-09-24 |
 | [Eu Me Trai \- Ao Vivo](https://open.spotify.com/track/4KKUy3C5lFNnxyTFT7qqNv) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Manifesto Musical \(Ao Vivo / Vol\. 7\)](https://open.spotify.com/album/0MnOtM8L8melcvKgjsJtv6) | 2:59 | 2022-04-22 | 2022-04-29 |
 | [Eu Não Dou Conta \- Ao Vivo](https://open.spotify.com/track/6rpUGV7bcWW9ro65Bf8uYY) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [João Gomes](https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S) | [Eu Não Dou Conta \(Ao Vivo\)](https://open.spotify.com/album/6UBLAsfIQMtOdWaDgpgz2G) | 2:49 | 2023-09-22 | 2023-09-30 |

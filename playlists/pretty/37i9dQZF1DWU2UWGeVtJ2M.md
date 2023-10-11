@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,795 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,830 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 60 | [Gone](https://open.spotify.com/track/1wFwyUWoNFdr0Fl0QygxZ2) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Gone](https://open.spotify.com/album/6v6x88d6F3VhxiCL6j4Qhn) | 3:15 |
 | 61 | [Feels So Good ◑](https://open.spotify.com/track/0NdAh5vk2C5hVNy54043lj) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Love Me / Love Me Not](https://open.spotify.com/album/0fwZXPXf41aF6H0CN3UtXV) | 3:48 |
 | 62 | [Feels \(feat\. Khalid\)](https://open.spotify.com/track/6LZ9FO9UsGIcTKbShnfNsG) | [WATTS](https://open.spotify.com/artist/4B3aifxHtpcKHuNi12lmSt), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Feels \(feat\. Khalid\)](https://open.spotify.com/album/7zbaDQ3uGL5GyIyeUVkktz) | 3:41 |
-| 63 | [What About Me \(feat\. Sosamann\)](https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Sosamann](https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 3:36 |
+| 63 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
 | 64 | [Want U Bad](https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Want U Bad](https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT) | 3:42 |
-| 65 | [Tides](https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Tides](https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY) | 3:46 |
+| 65 | [What About Me \(feat\. Sosamann\)](https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Sosamann](https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 3:36 |
 | 66 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 |
 | 67 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
-| 68 | [Cheap Vacations \(feat\. Glassface\)](https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:35 |
-| 69 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 |
+| 68 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 |
+| 69 | [Cheap Vacations \(feat\. Glassface\)](https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:35 |
 | 70 | [Feel A Way](https://open.spotify.com/track/0Nt3UdaA4KrHEUSNwq9nCI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 3:28 |
 | 71 | [It's Not This](https://open.spotify.com/track/7HzrpdEZb4RU2sUGeERyUm) | [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg), [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [It's Not This](https://open.spotify.com/album/33mhKB7yhqqtP6JjPyXLu2) | 3:10 |
 | 72 | [Slowing Down](https://open.spotify.com/track/7mV7MXnHBHMhKC3aRQX6z4) | [Bronze Whale](https://open.spotify.com/artist/448VwSmqc6SpRDqK5WYXIt) | [Slowing Down](https://open.spotify.com/album/3D7t1vyMzSbE98hO5yLHiG) | 2:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 99 | [Seventeen](https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Seventeen](https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd) | 4:25 |
 | 100 | [Holding the Gun](https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:08 |
 
-Snapshot ID: `MCw5MTRhYWY2Njc3OWE0MjNiMDY3MzQxYjJiOTI1NzMxMjBlNmQxMWZh`
+Snapshot ID: `MCw0YjBmZWJkZTg3YzU0ODMwYjVmMjk5YWMwZmI4NWY3ODZlM2EyN2U0`

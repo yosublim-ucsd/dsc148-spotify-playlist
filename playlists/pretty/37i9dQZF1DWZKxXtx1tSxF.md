@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 
 > Un mix de reggae y buena vibra para ver caer el sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,195 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,240 likes - 70 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 20 | [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 |
 | 21 | [Porque Yo](https://open.spotify.com/track/2eqLgrPkcSTgCvxEtsymiz) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Porque Yo](https://open.spotify.com/album/5AaUcL3YvlknHmRu6oeNXI) | 3:01 |
 | 22 | [Isla del Ritmo](https://open.spotify.com/track/5YAQFjWdqU0Rjm0SbnY8wf) | [Ritmo Machine](https://open.spotify.com/artist/00sAqRmmkclLUg9p8ICDnw) | [Isla del Ritmo](https://open.spotify.com/album/00hZw0zggoguww2I6rb1FH) | 3:16 |
-| 23 | [Bff <3](https://open.spotify.com/track/0XQsWXjHkSjLuSHnHB1qLL) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Bff <3](https://open.spotify.com/album/0sQbAzt4xQNbYTVRcEEhss) | 2:53 |
-| 24 | [Decide Tú](https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:08 |
+| 23 | [Decide Tú](https://open.spotify.com/track/1OuRWuKhsxNdV2FCIkyCnV) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Caminarás Caminos](https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS) | 4:08 |
+| 24 | [Bff <3](https://open.spotify.com/track/0XQsWXjHkSjLuSHnHB1qLL) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Bff <3](https://open.spotify.com/album/0sQbAzt4xQNbYTVRcEEhss) | 2:53 |
 | 25 | [No Te Desanimes](https://open.spotify.com/track/5UhdNEQw0SOtfdUYx3FhkU) | [Antidoping](https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY) | [No Te Desanimes](https://open.spotify.com/album/3ULGENdwrVsBlo4aCHhywh) | 4:28 |
 | 26 | [San Bá](https://open.spotify.com/track/1SZmIlruJaumMmS2CzTdDE) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Candela](https://open.spotify.com/album/7gSN3OHB6q52ivR61esxSe) | 3:14 |
 | 27 | [Si el Amor Se Cae \- Versión 25 Años \[Live\]](https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [25 Años de Música](https://open.spotify.com/album/6zhjig78tafXcTTZmjO752) | 3:58 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZKxXtx1tSxF.md) - [plain]
 | 63 | [Eu Tein](https://open.spotify.com/track/2BMooPnGWTUMSKuT4EI4xT) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Traspasa](https://open.spotify.com/album/4SgkWnlMfXsXPJcYArOYTl) | 4:02 |
 | 64 | [Últimos Días](https://open.spotify.com/track/4XHpwVBeG6b5blmdsBRPrk) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2) | [Últimos Días](https://open.spotify.com/album/0djIGaaGS2IqwXOPO8bGj3) | 5:19 |
 | 65 | [Tengo Lo Que Tengo](https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL) | [Jimena Angel](https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E) | [Tengo Lo Que Tengo](https://open.spotify.com/album/3cBPxSdXfF1BGajgGm2QtE) | 3:23 |
-| 66 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 |
+| 66 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 |
 | 67 | [Ilegal \- En Vivo](https://open.spotify.com/track/2GOSQgWXYsy0rc1GbiWst0) | [Cultura Profética](https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi) | [15 Aniversario en el Luna Park](https://open.spotify.com/album/6g8zQxyKvT4Vus79FtKHnc) | 5:16 |
-| 68 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 |
+| 68 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 |
 | 69 | [Cómo Te Hago Entender](https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Cómo Te Hago Entender](https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg) | 2:39 |
-| 70 | [Ho!](https://open.spotify.com/track/0DAJPhpwTrFE7pgcGJvD9k) | [Sara Hebe](https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW), [Ramiro Jota](https://open.spotify.com/artist/643hBnrVfRzLm6Kz9YYfga) | [Colectivo Vacio](https://open.spotify.com/album/1BWRMuZHdFBD9QwZWHJ0X9) | 4:22 |
+| 70 | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 |
 
-Snapshot ID: `MCxjZWY4MjI5ZDBkOWEyOWQ5MTYzMTFjZjEzMzBhMTkwYTk5NDRhZmM5`
+Snapshot ID: `MCwyOGFhMzc4NmJjMmNlYzE4Mzc2YTg1ZTI3NDUyZjdiYTQwZTg1YmM5`

@@ -4,7 +4,7 @@
 
 > the beat of your drift
 
-590 songs - 22 hr 43 min
+591 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -334,8 +334,9 @@
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6YC5ibtCMyXU1RQ1LkQLIn) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/79gX4oNb3k71P2J0XjN2Bn) | 1:01 | 2023-06-02 | 2023-07-12 |
 | [MONTAGEM \- PR FUNK](https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Menor Do Alvorada](https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH) | [MONTAGEM \- PR FUNK](https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB) | 1:01 | 2023-06-02 |  |
 | [Montagem Celestial de Atenas](https://open.spotify.com/track/3EbCHjv7JbnBoF88Ku5giz) | [DJ ORBITAL](https://open.spotify.com/artist/01XS19DjUcPe5dfYEkXjsg), [G7 MUSIC BR](https://open.spotify.com/artist/4fPR5Tro0vdgsaMZanGjZ4) | [Montagem Celestial de Atenas](https://open.spotify.com/album/1ZDSWNvpRCtsvLrKEh9a50) | 3:30 | 2023-09-29 | 2023-10-07 |
-| [Montagem Coral](https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix) | [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [MC Cyclope](https://open.spotify.com/artist/5yGArOIHgCn6AOA86LaW9N) | [Montagem Coral](https://open.spotify.com/album/7yB8cqc8wyJXq9w4oEZ9Qu) | 2:25 | 2023-09-22 |  |
+| [Montagem Coral](https://open.spotify.com/track/2gSznr1VkIxWdWXBJ8xdix) | [DJ Holanda](https://open.spotify.com/artist/7yC8pbSjZCPUp7q9zxhGAC), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly), [MC Cyclope](https://open.spotify.com/artist/5yGArOIHgCn6AOA86LaW9N) | [Montagem Coral](https://open.spotify.com/album/7yB8cqc8wyJXq9w4oEZ9Qu) | 2:25 | 2023-09-22 | 2023-10-11 |
 | [MONTAGEM CORAL](https://open.spotify.com/track/3XxgfnKzZAc8hZlsjBCOIK) | [somai](https://open.spotify.com/artist/6q8Xr34whpzJxsu3lax6fh) | [MONTAGEM CORAL](https://open.spotify.com/album/2OKsctX02r3R3qhyq64mSG) | 2:25 | 2023-09-22 | 2023-10-05 |
+| [Montagem Coral](https://open.spotify.com/track/3F02rCPD3IvrnZ7GPSjR5t) | [vicX](https://open.spotify.com/artist/4qiIMJtorRG5GfdyRsLBtC) | [Montagem Coral](https://open.spotify.com/album/6m8N6j8GfGmW3cqgP5uiHq) | 2:25 | 2023-09-22 |  |
 | [Montagem Dilatação Hipnótica 5.0](https://open.spotify.com/track/2FtXfaiyJDRMoqXNLooqwU) | [DJ Crazy 013](https://open.spotify.com/artist/3LMb9Tf8kmQWdKoDmoQM29), [Dj Gk7 Original](https://open.spotify.com/artist/7tiJgTm0H2F1qtsjzVVWqB), [DJ Lipe Da Zn](https://open.spotify.com/artist/6AGAWCe3ACpl0wPBgcmxEv) | [Montagem Dilatação Hipnótica 5.0](https://open.spotify.com/album/3PSJUPT4YdbepqHW7ZXsYD) | 2:30 | 2023-10-06 |  |
 | [Montagem Game 196 e Nem Começou o Filme \(feat\. MC Morena de SP\)](https://open.spotify.com/track/5KAwRUyeAky7zPyRkuuUl9) | [DJ Blakes](https://open.spotify.com/artist/68sRe1jDgKyZ9bYjAvwEAz), [DJ MK DA DZ7](https://open.spotify.com/artist/2Atu34xAie4Mum2NN3o4rG), [MC VN Cria](https://open.spotify.com/artist/40LeQEFO0XM6PI09sYowjn), [MC Morena de SP](https://open.spotify.com/artist/7hZV3aaWoyCn6xQ40w9LQn) | [Montagem Game 196 e Nem Começou o Filme](https://open.spotify.com/album/6eQz3wAHijyDd189Uu3ICV) | 3:45 | 2023-07-14 |  |
 | [MORTAL](https://open.spotify.com/track/0I7I4kUnGVqoxemDmYcysN) | [Pharmacist](https://open.spotify.com/artist/6VlPp1wb53ANKMIwZPJfM0) | [MORTAL](https://open.spotify.com/album/5vg1cPV2HG0c987ofDZlc4) | 2:23 | 2022-07-08 | 2022-08-06 |

@@ -1,12 +1,12 @@
 {
   "description": "The very best of the alternative rock scene. Cover: Teenage Wrist",
-  "num_followers": 475684,
+  "num_followers": 475621,
   "original_name": "New  Alt-Rock Mixtape",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMzM2NTc0MzlhN2M0MDUwNDIxNjQ3MDQ5MzA5OWQ1OTlmZThiNjJi",
+  "snapshot_id": "MCxkMjQ1MDE2NWYwZTQwZDg2ZWU4YTgzOGUwM2Y0Yzg2MmM5MWUyZjU5",
   "tracks": [
     {
       "added_at": "2023-09-08 20:23:35",
@@ -661,22 +661,6 @@
       "url": "https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp"
     },
     {
-      "added_at": "2023-10-05 15:20:21",
-      "album": {
-        "name": "Old Wounds",
-        "url": "https://open.spotify.com/album/1SBSorzR4CV7sQiN4gTFG5"
-      },
-      "artists": [
-        {
-          "name": "L.S. Dunes",
-          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
-        }
-      ],
-      "duration_ms": 335733,
-      "name": "Old Wounds",
-      "url": "https://open.spotify.com/track/75RGCZ1i8sxXMeBetvp84e"
-    },
-    {
       "added_at": "2023-09-08 20:23:35",
       "album": {
         "name": "Centipede",
@@ -691,6 +675,22 @@
       "duration_ms": 157704,
       "name": "Centipede",
       "url": "https://open.spotify.com/track/49xISBZpODXRwd7vVxGL93"
+    },
+    {
+      "added_at": "2023-10-05 15:20:21",
+      "album": {
+        "name": "Old Wounds",
+        "url": "https://open.spotify.com/album/1SBSorzR4CV7sQiN4gTFG5"
+      },
+      "artists": [
+        {
+          "name": "L.S. Dunes",
+          "url": "https://open.spotify.com/artist/2uRjuSX3CCVJO0KBA518XG"
+        }
+      ],
+      "duration_ms": 335733,
+      "name": "Old Wounds",
+      "url": "https://open.spotify.com/track/75RGCZ1i8sxXMeBetvp84e"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -727,6 +727,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Too Many Things",
+        "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "duration_ms": 155893,
+      "name": "Too Many Things",
+      "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "This Won't Go Over Well",
         "url": "https://open.spotify.com/album/4Nxlb1mo54gPu2bXibj259"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 204197,
       "name": "This Won't Go Over Well",
       "url": "https://open.spotify.com/track/4WNJmm4Xv8d0ELJgowypjT"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "delirious",
-        "url": "https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C"
-      },
-      "artists": [
-        {
-          "name": "swim school",
-          "url": "https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F"
-        }
-      ],
-      "duration_ms": 171443,
-      "name": "delirious",
-      "url": "https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -775,34 +775,34 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Too Many Things",
-        "url": "https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx"
+        "name": "delirious",
+        "url": "https://open.spotify.com/album/4L9LiVVUoPfPnrkve1SR3C"
       },
       "artists": [
         {
-          "name": "The Linda Lindas",
-          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+          "name": "swim school",
+          "url": "https://open.spotify.com/artist/7hC74DRW4q3obXLB5lTq4F"
         }
       ],
-      "duration_ms": 155893,
-      "name": "Too Many Things",
-      "url": "https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx"
+      "duration_ms": 171443,
+      "name": "delirious",
+      "url": "https://open.spotify.com/track/2i6H4Pv8FAGamAIdftleDu"
     },
     {
-      "added_at": "2023-09-08 20:23:35",
+      "added_at": "2023-10-05 15:20:21",
       "album": {
-        "name": "Sweet & Sour America",
-        "url": "https://open.spotify.com/album/3R8rOhhzsMZ4i18xTR3LTm"
+        "name": "KILLJOY",
+        "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
       },
       "artists": [
         {
-          "name": "Demob Happy",
-          "url": "https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI"
+          "name": "Coach Party",
+          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
         }
       ],
-      "duration_ms": 192533,
-      "name": "Sweet & Sour America",
-      "url": "https://open.spotify.com/track/59vcPuuPULBU5Conczvnuh"
+      "duration_ms": 138944,
+      "name": "What's The Point In Life",
+      "url": "https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -821,20 +821,20 @@
       "url": "https://open.spotify.com/track/38g0al4YO0WctLwI4Z8394"
     },
     {
-      "added_at": "2023-10-05 15:20:21",
+      "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "KILLJOY",
-        "url": "https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN"
+        "name": "Sweet & Sour America",
+        "url": "https://open.spotify.com/album/3R8rOhhzsMZ4i18xTR3LTm"
       },
       "artists": [
         {
-          "name": "Coach Party",
-          "url": "https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ"
+          "name": "Demob Happy",
+          "url": "https://open.spotify.com/artist/6FKokxvL5PCWIxrVhMyDgI"
         }
       ],
-      "duration_ms": 138944,
-      "name": "What's The Point In Life",
-      "url": "https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T"
+      "duration_ms": 192533,
+      "name": "Sweet & Sour America",
+      "url": "https://open.spotify.com/track/59vcPuuPULBU5Conczvnuh"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Daydreaming",
-        "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
-      },
-      "artists": [
-        {
-          "name": "P\u00c6RISH",
-          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
-        }
-      ],
-      "duration_ms": 215986,
-      "name": "Daydreaming",
-      "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "i heard they found you face down inside your living room",
         "url": "https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q"
       },
@@ -983,18 +967,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "MYSTERY",
-        "url": "https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq"
+        "name": "Daydreaming",
+        "url": "https://open.spotify.com/album/1Q8BDjqStLsJa9fhlp5yjv"
       },
       "artists": [
         {
-          "name": "Turnstile",
-          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+          "name": "P\u00c6RISH",
+          "url": "https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL"
         }
       ],
-      "duration_ms": 155199,
-      "name": "MYSTERY",
-      "url": "https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm"
+      "duration_ms": 215986,
+      "name": "Daydreaming",
+      "url": "https://open.spotify.com/track/1m4ZGzVWW9Z6J96THHBJMj"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1011,6 +995,22 @@
       "duration_ms": 175333,
       "name": "Flood Into",
       "url": "https://open.spotify.com/track/19meO0ADnoTjRuBMXZCdbs"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "MYSTERY",
+        "url": "https://open.spotify.com/album/7fESyOnq9rZD3b37TuMXJq"
+      },
+      "artists": [
+        {
+          "name": "Turnstile",
+          "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
+        }
+      ],
+      "duration_ms": 155199,
+      "name": "MYSTERY",
+      "url": "https://open.spotify.com/track/1QlGmLx0IWNZq8Dm4N94xm"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "She Said",
-        "url": "https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk"
-      },
-      "artists": [
-        {
-          "name": "Starcrawler",
-          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
-        }
-      ],
-      "duration_ms": 241334,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
         "name": "I Feel Like I'm Falling",
         "url": "https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 144240,
       "name": "I Feel Like I'm Falling",
       "url": "https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
+        "name": "She Said",
+        "url": "https://open.spotify.com/album/6CCzu7oKzxpJ9pH3aKdAhk"
+      },
+      "artists": [
+        {
+          "name": "Starcrawler",
+          "url": "https://open.spotify.com/artist/0ZhtrY2Lt1s9klwm03lu8i"
+        }
+      ],
+      "duration_ms": 241334,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/02VlDdPkrqytJL6s130GSu"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
+        "name": "Taste The Sun",
+        "url": "https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7"
+      },
+      "artists": [
+        {
+          "name": "The Pale White",
+          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+        }
+      ],
+      "duration_ms": 243947,
+      "name": "How Far Can You Push A Man?",
+      "url": "https://open.spotify.com/track/16tDz8bSV96yJ5CQlhuVlG"
+    },
+    {
+      "added_at": "2023-09-08 20:23:35",
+      "album": {
         "name": "Eye For An Eye",
         "url": "https://open.spotify.com/album/3REjMVpoGBmy5bh0cs8bKY"
       },
@@ -1567,18 +1583,18 @@
     {
       "added_at": "2023-09-08 20:23:35",
       "album": {
-        "name": "Taste The Sun",
-        "url": "https://open.spotify.com/album/4GWmCsQY6CQnw5Xf3sbxl7"
+        "name": "Car Crash",
+        "url": "https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB"
       },
       "artists": [
         {
-          "name": "The Pale White",
-          "url": "https://open.spotify.com/artist/3uhfMjcE5HJqMIWh3Iolw0"
+          "name": "Low Lying Sun",
+          "url": "https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge"
         }
       ],
-      "duration_ms": 243947,
-      "name": "How Far Can You Push A Man?",
-      "url": "https://open.spotify.com/track/16tDz8bSV96yJ5CQlhuVlG"
+      "duration_ms": 232584,
+      "name": "Car Crash",
+      "url": "https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8"
     },
     {
       "added_at": "2023-09-08 20:23:35",
@@ -1595,22 +1611,6 @@
       "duration_ms": 201534,
       "name": "Boy",
       "url": "https://open.spotify.com/track/2hshvAEGDQESVol0zrHPQU"
-    },
-    {
-      "added_at": "2023-09-08 20:23:35",
-      "album": {
-        "name": "Car Crash",
-        "url": "https://open.spotify.com/album/6YlDs4igPMcAXPvnaKtNsB"
-      },
-      "artists": [
-        {
-          "name": "Low Lying Sun",
-          "url": "https://open.spotify.com/artist/1xdFO7BuQ7OS0PPmpfKlge"
-        }
-      ],
-      "duration_ms": 232584,
-      "name": "Car Crash",
-      "url": "https://open.spotify.com/track/5W0pqbWqy3ek86f7CjHyR8"
     },
     {
       "added_at": "2023-09-08 20:23:35",

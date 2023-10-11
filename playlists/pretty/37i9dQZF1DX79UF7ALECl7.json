@@ -1,12 +1,12 @@
 {
   "description": "Have some chill house with your coffee\n",
-  "num_followers": 119754,
+  "num_followers": 119775,
   "original_name": "Coffee Club",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZDUxODIxMmM4ZmNhMjdhMGM4ZWM3ZDRmNWU0YzIyZmVjOGMzOWJj",
+  "snapshot_id": "MCw1ZTU0ZjhmMWMwZjAzOTQ2YTM2ZTg1ZmFkY2VlYmM4MTY2ZTAzZTA0",
   "tracks": [
     {
       "added_at": "2023-09-29 05:31:51",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-09-29 05:31:51",
       "album": {
+        "name": "Endurance / Heart",
+        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
+      },
+      "artists": [
+        {
+          "name": "Road Kahan",
+          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
+        }
+      ],
+      "duration_ms": 200126,
+      "name": "Endurance",
+      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
+    },
+    {
+      "added_at": "2023-09-29 05:31:51",
+      "album": {
         "name": "Ltdblbl008",
         "url": "https://open.spotify.com/album/7rAE32SE0JvYkrHHS3CpQ9"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 247724,
       "name": "Coffee and Feels",
       "url": "https://open.spotify.com/track/2Z2qsGVCBCAPGvXqe3JxeG"
-    },
-    {
-      "added_at": "2023-09-29 05:31:51",
-      "album": {
-        "name": "Endurance / Heart",
-        "url": "https://open.spotify.com/album/62QvEUJymDy8luwuJQFALW"
-      },
-      "artists": [
-        {
-          "name": "Road Kahan",
-          "url": "https://open.spotify.com/artist/3YR1VNcG6ld2CHMSkia9Xs"
-        }
-      ],
-      "duration_ms": 200126,
-      "name": "Endurance",
-      "url": "https://open.spotify.com/track/2PEQZNjNKN4GEsUbo3yD8d"
     },
     {
       "added_at": "2023-09-29 05:31:51",
@@ -443,6 +443,22 @@
     {
       "added_at": "2023-09-29 05:31:51",
       "album": {
+        "name": "Miss You",
+        "url": "https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 279960,
+      "name": "Miss You",
+      "url": "https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ"
+    },
+    {
+      "added_at": "2023-09-29 05:31:51",
+      "album": {
         "name": "Good Life",
         "url": "https://open.spotify.com/album/4ROrdn8vpQyKPP1PBKHcuZ"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 163298,
       "name": "Shallow Breathing",
       "url": "https://open.spotify.com/track/24vGrrym5luFslhM3Uc9Eb"
-    },
-    {
-      "added_at": "2023-09-29 05:31:51",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/401BY5jGvGKB4xt7zomYRA"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 279960,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/2OrmvwrqfGH0C0I70w4SRZ"
     },
     {
       "added_at": "2023-09-29 05:31:51",
@@ -567,18 +567,22 @@
     {
       "added_at": "2023-09-29 05:31:51",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
+        "name": "Resilience",
+        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
       },
       "artists": [
         {
-          "name": "Alex Lustig",
-          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
+          "name": "Swann Decamme",
+          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
+        },
+        {
+          "name": "Oktave",
+          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
         }
       ],
-      "duration_ms": 182564,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
+      "duration_ms": 415903,
+      "name": "Resilience",
+      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
     },
     {
       "added_at": "2023-09-29 05:31:51",
@@ -623,38 +627,18 @@
     {
       "added_at": "2023-09-29 05:31:51",
       "album": {
-        "name": "Resilience",
-        "url": "https://open.spotify.com/album/02RAJQOn6I2qtoJt13m0Kg"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/5X2ams2raZNJC4wnz1zbev"
       },
       "artists": [
         {
-          "name": "Swann Decamme",
-          "url": "https://open.spotify.com/artist/41AOvXWcYS1IxaItxtahgA"
-        },
-        {
-          "name": "Oktave",
-          "url": "https://open.spotify.com/artist/1EEM7nMm39HPZWTc3xBqbM"
+          "name": "Alex Lustig",
+          "url": "https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB"
         }
       ],
-      "duration_ms": 415903,
-      "name": "Resilience",
-      "url": "https://open.spotify.com/track/48TeoDBw0mNbwF5F3pMhzE"
-    },
-    {
-      "added_at": "2023-09-29 05:31:51",
-      "album": {
-        "name": "Just for a Moment",
-        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
-      },
-      "artists": [
-        {
-          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
-          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Just for a Moment",
-      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
+      "duration_ms": 182564,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/5XFuyKyEC69ZsP9FocyMsw"
     },
     {
       "added_at": "2023-09-29 05:31:51",
@@ -671,6 +655,22 @@
       "duration_ms": 230400,
       "name": "Groove 32",
       "url": "https://open.spotify.com/track/6658u0EPu6u0x9r5A4qT4h"
+    },
+    {
+      "added_at": "2023-09-29 05:31:51",
+      "album": {
+        "name": "Just for a Moment",
+        "url": "https://open.spotify.com/album/7xsTvotryV8cW8m9RuiIEO"
+      },
+      "artists": [
+        {
+          "name": "M\u00d2Z\u00c2MB\u00ceQ\u00daE",
+          "url": "https://open.spotify.com/artist/1xRwYjmKXvMT5LerneSa9T"
+        }
+      ],
+      "duration_ms": 193200,
+      "name": "Just for a Moment",
+      "url": "https://open.spotify.com/track/1yzYunxXOdl5sQNy1WmOYO"
     },
     {
       "added_at": "2023-09-29 05:31:51",
@@ -731,6 +731,46 @@
     {
       "added_at": "2023-09-29 05:31:51",
       "album": {
+        "name": "Too Hot, Too Cold",
+        "url": "https://open.spotify.com/album/0kNwXzdBoqZK48KzqlAvCt"
+      },
+      "artists": [
+        {
+          "name": "Frase",
+          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
+        },
+        {
+          "name": "SkiiTour",
+          "url": "https://open.spotify.com/artist/5LVcxojBbX8xI4mGpQ5Zck"
+        }
+      ],
+      "duration_ms": 246407,
+      "name": "Too Hot, Too Cold",
+      "url": "https://open.spotify.com/track/2NjeiZqZSRyCdL8xbQehNL"
+    },
+    {
+      "added_at": "2023-09-29 05:31:51",
+      "album": {
+        "name": "Speak Like the Hurricane",
+        "url": "https://open.spotify.com/album/1S6lVG4Fe19Y1XN6qBewrF"
+      },
+      "artists": [
+        {
+          "name": "Marc Bianco",
+          "url": "https://open.spotify.com/artist/6XD63w7shze8nTGtkm32Y3"
+        },
+        {
+          "name": "Folamour",
+          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
+        }
+      ],
+      "duration_ms": 417391,
+      "name": "Pelicanism",
+      "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
+    },
+    {
+      "added_at": "2023-09-29 05:31:51",
+      "album": {
         "name": "Blue Moon",
         "url": "https://open.spotify.com/album/0BpjFdJHvqDSvzilqt4sxv"
       },
@@ -751,22 +791,18 @@
     {
       "added_at": "2023-09-29 05:31:51",
       "album": {
-        "name": "Too Hot, Too Cold",
-        "url": "https://open.spotify.com/album/0kNwXzdBoqZK48KzqlAvCt"
+        "name": "Reconnect",
+        "url": "https://open.spotify.com/album/3EP85qe0EoJe5p7TqEPqG7"
       },
       "artists": [
         {
-          "name": "Frase",
-          "url": "https://open.spotify.com/artist/7s9LTAKRwkBQ0CqWlbE254"
-        },
-        {
-          "name": "SkiiTour",
-          "url": "https://open.spotify.com/artist/5LVcxojBbX8xI4mGpQ5Zck"
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
         }
       ],
-      "duration_ms": 246407,
-      "name": "Too Hot, Too Cold",
-      "url": "https://open.spotify.com/track/2NjeiZqZSRyCdL8xbQehNL"
+      "duration_ms": 252234,
+      "name": "Reconnect",
+      "url": "https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA"
     },
     {
       "added_at": "2023-09-29 05:31:51",
@@ -791,42 +827,6 @@
       "duration_ms": 304440,
       "name": "Pro\u2019s & Con\u2019s - Kraak & Smaak Remix",
       "url": "https://open.spotify.com/track/17BrcbqJAd1VT7rZHZEGyU"
-    },
-    {
-      "added_at": "2023-09-29 05:31:51",
-      "album": {
-        "name": "Reconnect",
-        "url": "https://open.spotify.com/album/3EP85qe0EoJe5p7TqEPqG7"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 252234,
-      "name": "Reconnect",
-      "url": "https://open.spotify.com/track/5f81kMkgmZLBsio8pAM6oA"
-    },
-    {
-      "added_at": "2023-09-29 05:31:51",
-      "album": {
-        "name": "Speak Like the Hurricane",
-        "url": "https://open.spotify.com/album/1S6lVG4Fe19Y1XN6qBewrF"
-      },
-      "artists": [
-        {
-          "name": "Marc Bianco",
-          "url": "https://open.spotify.com/artist/6XD63w7shze8nTGtkm32Y3"
-        },
-        {
-          "name": "Folamour",
-          "url": "https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS"
-        }
-      ],
-      "duration_ms": 417391,
-      "name": "Pelicanism",
-      "url": "https://open.spotify.com/track/6LC4enBqq1ywrDXlr0pnG1"
     },
     {
       "added_at": "2023-09-29 05:31:51",
@@ -1035,6 +1035,26 @@
     {
       "added_at": "2023-09-29 05:31:51",
       "album": {
+        "name": "Let Me",
+        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
+      },
+      "artists": [
+        {
+          "name": "Luminous",
+          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
+        },
+        {
+          "name": "R.O",
+          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
+        }
+      ],
+      "duration_ms": 220800,
+      "name": "Let Me",
+      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
+    },
+    {
+      "added_at": "2023-09-29 05:31:51",
+      "album": {
         "name": "The Sin and the Soul",
         "url": "https://open.spotify.com/album/5gpNg3bQylhPG0za13Z7gz"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 176356,
       "name": "Infinity (SLCT Remix) (Instrumental Version)",
       "url": "https://open.spotify.com/track/3XZu6dyTtjOlvskuMfJPTM"
-    },
-    {
-      "added_at": "2023-09-29 05:31:51",
-      "album": {
-        "name": "Let Me",
-        "url": "https://open.spotify.com/album/4mNntEEGm90nZKu3AaYmcD"
-      },
-      "artists": [
-        {
-          "name": "Luminous",
-          "url": "https://open.spotify.com/artist/3ZqiOLqjaluKDLdKxQFn6u"
-        },
-        {
-          "name": "R.O",
-          "url": "https://open.spotify.com/artist/7HjjdBLZHCZEIjlLbGVLi0"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Let Me",
-      "url": "https://open.spotify.com/track/2uLNusBKHvDrY5kH2Ymu4f"
     },
     {
       "added_at": "2023-09-29 05:31:51",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-09-29 05:31:51",
       "album": {
-        "name": "<3DAYSOFLOVE",
-        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
-      },
-      "artists": [
-        {
-          "name": "Hypsidia",
-          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
-        }
-      ],
-      "duration_ms": 305370,
-      "name": "<3DAYSOFLOVE",
-      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
-    },
-    {
-      "added_at": "2023-09-29 05:31:51",
-      "album": {
         "name": "V\u00edn",
         "url": "https://open.spotify.com/album/2N4UzYs2Qk7xRyc67kaehi"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 309596,
       "name": "April",
       "url": "https://open.spotify.com/track/6KmIwU5i6sCvyeNgP8QB4o"
+    },
+    {
+      "added_at": "2023-09-29 05:31:51",
+      "album": {
+        "name": "<3DAYSOFLOVE",
+        "url": "https://open.spotify.com/album/3rSkEED1B8lUxoQFaNwiTK"
+      },
+      "artists": [
+        {
+          "name": "Hypsidia",
+          "url": "https://open.spotify.com/artist/7yGLwWPe7sZPZwKMUVadkJ"
+        }
+      ],
+      "duration_ms": 305370,
+      "name": "<3DAYSOFLOVE",
+      "url": "https://open.spotify.com/track/29zlMjekcudZdtBi96VEhW"
     },
     {
       "added_at": "2023-09-29 05:31:51",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-09-29 05:31:51",
       "album": {
+        "name": "At The Horizon",
+        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
+      },
+      "artists": [
+        {
+          "name": "Marc Hartman",
+          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
+        }
+      ],
+      "duration_ms": 294995,
+      "name": "At The Horizon",
+      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
+    },
+    {
+      "added_at": "2023-09-29 05:31:51",
+      "album": {
         "name": "Falling Upwards",
         "url": "https://open.spotify.com/album/1loUSig71TgbVjRSVRUzzj"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 343384,
       "name": "Falling Upwards",
       "url": "https://open.spotify.com/track/1sFWXmh4IJcDspidGG4d5f"
-    },
-    {
-      "added_at": "2023-09-29 05:31:51",
-      "album": {
-        "name": "At The Horizon",
-        "url": "https://open.spotify.com/album/1wCdaqAaCROkKGLHQ2htYw"
-      },
-      "artists": [
-        {
-          "name": "Marc Hartman",
-          "url": "https://open.spotify.com/artist/2ACJgAEcjpSAqR2TyGluyS"
-        }
-      ],
-      "duration_ms": 294995,
-      "name": "At The Horizon",
-      "url": "https://open.spotify.com/track/2U47VRLzs7s5DSwpZSlQi2"
     },
     {
       "added_at": "2023-09-29 05:31:51",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2023-09-29 05:31:51",
       "album": {
+        "name": "Voyage Direct (2020 Remaster)",
+        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
+      },
+      "artists": [
+        {
+          "name": "Tom Trago",
+          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
+        }
+      ],
+      "duration_ms": 277899,
+      "name": "Lost in the Streets of NYC - 2020 Remaster",
+      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
+    },
+    {
+      "added_at": "2023-09-29 05:31:51",
+      "album": {
         "name": "Blue Ridge",
         "url": "https://open.spotify.com/album/5wY4vCQ7vz1BH2pZhtKrbG"
       },
@@ -1455,38 +1471,6 @@
     {
       "added_at": "2023-09-29 05:31:51",
       "album": {
-        "name": "Voyage Direct (2020 Remaster)",
-        "url": "https://open.spotify.com/album/6oiM1TCgVPIIr6UHym5eN7"
-      },
-      "artists": [
-        {
-          "name": "Tom Trago",
-          "url": "https://open.spotify.com/artist/2vUpX2Zq1DBdCHuoEnmzkK"
-        }
-      ],
-      "duration_ms": 277899,
-      "name": "Lost in the Streets of NYC - 2020 Remaster",
-      "url": "https://open.spotify.com/track/7sCHLirrIq2Ap5UfL8gbZ9"
-    },
-    {
-      "added_at": "2023-09-29 05:31:51",
-      "album": {
-        "name": "Moraine",
-        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Davidson",
-          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
-        }
-      ],
-      "duration_ms": 237947,
-      "name": "Moraine",
-      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
-    },
-    {
-      "added_at": "2023-09-29 05:31:51",
-      "album": {
         "name": "Hachi",
         "url": "https://open.spotify.com/album/5Z9u65XxlamRAfn05tClOI"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 165517,
       "name": "Hachi",
       "url": "https://open.spotify.com/track/0xlK5pNlJjTqpKFHIY63r0"
+    },
+    {
+      "added_at": "2023-09-29 05:31:51",
+      "album": {
+        "name": "Moraine",
+        "url": "https://open.spotify.com/album/47dCDllqthOKWSyMw3yLQb"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Davidson",
+          "url": "https://open.spotify.com/artist/1uO4ut3M0hYeCfEEUdFnEp"
+        }
+      ],
+      "duration_ms": 237947,
+      "name": "Moraine",
+      "url": "https://open.spotify.com/track/68gG8lazvms6X0uC6MWmFz"
     },
     {
       "added_at": "2023-09-29 05:31:51",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-09-29 05:31:51",
       "album": {
+        "name": "Mr. Magic",
+        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
+      },
+      "artists": [
+        {
+          "name": "Baka G",
+          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
+        }
+      ],
+      "duration_ms": 345534,
+      "name": "Mr. Magic",
+      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
+    },
+    {
+      "added_at": "2023-09-29 05:31:51",
+      "album": {
         "name": "Astro Reescrituras",
         "url": "https://open.spotify.com/album/29sunXe011nEVfz7Yzo7zN"
       },
@@ -1579,22 +1595,6 @@
       "duration_ms": 257183,
       "name": "Religar - Chancha Via Circuito Remix",
       "url": "https://open.spotify.com/track/0jlscRIgKn35uudF8MP17p"
-    },
-    {
-      "added_at": "2023-09-29 05:31:51",
-      "album": {
-        "name": "Mr. Magic",
-        "url": "https://open.spotify.com/album/3ThYrWOxW8L6qdwwMBZBtk"
-      },
-      "artists": [
-        {
-          "name": "Baka G",
-          "url": "https://open.spotify.com/artist/7CfH9Pe1z2V3OuUCIH9ru4"
-        }
-      ],
-      "duration_ms": 345534,
-      "name": "Mr. Magic",
-      "url": "https://open.spotify.com/track/0dSoodH9dHclkP2kMec21H"
     },
     {
       "added_at": "2023-09-29 05:31:51",

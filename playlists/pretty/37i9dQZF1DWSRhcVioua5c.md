@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Una selección de baladas para suspirar de amor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,163 likes - 90 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,193 likes - 90 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 89 | [Quiero Saber Si Me Extrañas](https://open.spotify.com/track/4lcip47RQ3nlji6e1RzFvy) | [Bruno Sosa Trotti](https://open.spotify.com/artist/69IsxpKZpuUKs4DSJYtWXZ) | [Canciones Con Sentido](https://open.spotify.com/album/3Zq1F0eml16ZdQGEuSko8w) | 3:04 |
 | 90 | [Ansiado Encuentro](https://open.spotify.com/track/4bgaEcs1bsLuV49Q67DtRT) | [ALEJANDRO FARIAS](https://open.spotify.com/artist/5p5tYck12ZHCLPdbFp13rh), [La Eulogia Folk](https://open.spotify.com/artist/044zb14KOZosDnxI71XpGr) | [Ansiado Encuentro](https://open.spotify.com/album/3Z3dyIUxHZfTlBarrWrHLR) | 4:35 |
 
-Snapshot ID: `MCw5OTM4MTQ0OTU2NTc2YTczYmJmYjEwOGU1Mjc2ZTYyMWUyMzE2Yzhm`
+Snapshot ID: `MCw1NTA3ZTJhNTM5NGFkZTU2ODkxYjlkODE4NGEyMDEzMzRkN2ZkMzkw`

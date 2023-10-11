@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 
 > Apasiónate y revive los temas de tus historias predilectas\. Foto: Thalía
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,270 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,362 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 58 | [Tan Enamorados](https://open.spotify.com/track/2yAQWxFEkBD7SWA1aemkua) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Ricardo Montaner Volumen 2](https://open.spotify.com/album/2OLhHgoFR9T1SebPzV0bjD) | 4:16 |
 | 59 | [Ámame Como Soy \(En Vivo\)](https://open.spotify.com/track/3tc8mJk3KTTiSmmAQiqKz1) | [DKDA](https://open.spotify.com/artist/0nMUgbsNVXEOVBTB5JBoxb) | [Sueños de Juventud](https://open.spotify.com/album/4cQY4cujpOI7UvLj34JBbk) | 5:35 |
 | 60 | [Mi tesoro](https://open.spotify.com/track/0ThQ0DXcsRbEyOsvKVdZWo) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mi tesoro](https://open.spotify.com/album/3XUPV2CIpfIZDHUI8WKFfY) | 3:29 |
-| 61 | [Dime](https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB) | [Aranza](https://open.spotify.com/artist/5gXXR7qrvOV5qY8J9P3ptB) | [Mirada de Mujer](https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3) | 2:59 |
-| 62 | [A Dónde Va Nuestro Amor \- Versión Telenovela](https://open.spotify.com/track/0zA1PzaGYhJSdOFcsFOyUS) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [De Días y de Noches \(En Vivo\) \(Centro Cultural Roberto Cantoral\)](https://open.spotify.com/album/1M80e2cT0RjwiumdKlk4aw) | 3:31 |
+| 61 | [A Dónde Va Nuestro Amor \- Versión Telenovela](https://open.spotify.com/track/0zA1PzaGYhJSdOFcsFOyUS) | [Playa Limbo](https://open.spotify.com/artist/6XmHtVhgpE33VHFEp2V1P8) | [De Días y de Noches \(En Vivo\) \(Centro Cultural Roberto Cantoral\)](https://open.spotify.com/album/1M80e2cT0RjwiumdKlk4aw) | 3:31 |
+| 62 | [Dime](https://open.spotify.com/track/2YFXBVYGpDN1Ui8tPqk2ZB) | [Aranza](https://open.spotify.com/artist/5gXXR7qrvOV5qY8J9P3ptB) | [Mirada de Mujer](https://open.spotify.com/album/2IkQ5gZGR8ym3VVXT4WPK3) | 2:59 |
 | 63 | [Día De Suerte](https://open.spotify.com/track/2AXs2wo7CyMu5aZreyhZ31) | [Alejandra Guzman](https://open.spotify.com/artist/7Hf9AwMO37bSdxHb0FBGmO) | [Lo Mejor De...](https://open.spotify.com/album/0vLZBQhGBr7Elt7qLDRipR) | 3:33 |
 | 64 | [Amor Real](https://open.spotify.com/track/3TTGJWEf6djut1oziq9h02) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 4:05 |
 | 65 | [Alegrijes y rebujos](https://open.spotify.com/track/2U0eZH4CmdPMcfUPqsMqae) | [Soundtrack Alegrijes y Rebujos](https://open.spotify.com/artist/78Gki9mhnVIJYJdogQyno5) | [Alegrije](https://open.spotify.com/album/0Nmu9Wqf6bBvVzGlT5RejR) | 2:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX219uawZE3sT.md) - [plain]
 | 69 | [El Amor De Mi Vida](https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [La Mas Completa Coleccion](https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB) | 4:34 |
 | 70 | [Contra Viento Y Marea](https://open.spotify.com/track/5o6WIZr8i93PtynxDAzT7U) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Super \#1's](https://open.spotify.com/album/4fjmN8hFRaHWe8HEtMc3Eh) | 3:40 |
 
-Snapshot ID: `MCxjMTBlYjA5OWM5YTNlZjhkMGVhM2ViYzA1Nzg1M2IwODNhYjMyZjcz`
+Snapshot ID: `MCxkZTM4MWViMGJiYmFkY2Q3NmU1MzdkNzU4NzBjYzUzMzE3M2JkZDVi`

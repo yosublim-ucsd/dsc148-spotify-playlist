@@ -4,7 +4,7 @@
 
 > Mellow songs from the 2000s.
 
-288 songs - 19 hr 7 min
+289 songs - 19 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,7 +206,7 @@
 | [Say It Right](https://open.spotify.com/track/2aI21FnmY7TJVKeMaoQZ0t) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Loose](https://open.spotify.com/album/2yboV2QBcVGEhcRlYuPpDT) | 3:43 | 2021-11-18 |  |
 | [Seasons in the Sun](https://open.spotify.com/track/523WUV77jFBx3fbeJTOWZ6) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/03zaputfmJ3wwrKh6bHcTN) | 4:08 | 2022-05-30 |  |
 | [Seasons in the Sun](https://open.spotify.com/track/6D17ZfWe6kCi2BS563dMc7) | [Westlife](https://open.spotify.com/artist/5Z1CCuBsyhEHngq3U5IraY) | [Westlife](https://open.spotify.com/album/22pfCAdDOgyC2JfSi5OwxT) | 4:09 | 2021-11-18 | 2022-07-29 |
-| [Sexed Up](https://open.spotify.com/track/6xwsfXjIXJgJjumbxdJiLi) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Escapology](https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V) | 4:21 | 2021-11-18 |  |
+| [Sexed Up](https://open.spotify.com/track/6xwsfXjIXJgJjumbxdJiLi) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Escapology](https://open.spotify.com/album/4QyE2i0y4nyxHsiwm6VK9V) | 4:21 | 2021-11-18 | 2023-10-11 |
 | [Shape of My Heart](https://open.spotify.com/track/35o9a4iAfLl5jRmqMX9c1D) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Black & Blue](https://open.spotify.com/album/41zXjyVr6dzmchWf8tv3UO) | 3:50 | 2021-11-18 |  |
 | [She Will Be Loved](https://open.spotify.com/track/5s5t0OFg9lIlBFaCI14K1i) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane](https://open.spotify.com/album/7gGcnUEEQgIMV2JRwVQbrF) | 4:17 | 2021-11-18 | 2022-07-29 |
 | [She Will Be Loved \- Radio Mix](https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [Songs About Jane: 10th Anniversary Edition](https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc) | 4:19 | 2022-05-30 |  |
@@ -216,6 +216,7 @@
 | [Someone Like Me](https://open.spotify.com/track/7wvEYzhI8rxbnbBUcH3NK9) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Ladies Night](https://open.spotify.com/album/6qsgLiECZ00OmrxvA3FSJ5) | 2:07 | 2021-11-18 | 2022-04-21 |
 | [Someone New](https://open.spotify.com/track/6AAg8xwJkN4EWVUkd6zSBI) | [Eskobar](https://open.spotify.com/artist/30HOv0AHfAhEn36DA0DGzS), [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [There's Only Now \(Bonus Version\)](https://open.spotify.com/album/7pN4sXrIMunvhPWpv7Q5HJ) | 3:31 | 2021-11-18 | 2022-04-21 |
 | [Somethin' Stupid](https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Nicole Kidman](https://open.spotify.com/artist/0ExYzTb7raTAfsXPtiI5vq) | [Swing When You're Winning](https://open.spotify.com/album/3eWoVPAUtBO8JpwOkWpvnw) | 2:50 | 2021-11-18 |  |
+| [Sometimes You Can't Make It On Your Own](https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 5:05 | 2023-01-28 |  |
 | [Sometimes You Can't Make It On Your Own](https://open.spotify.com/track/1AKfLYTm4RqfLKqgQmv9V2) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/2nPJlUlcyQ24e1VdayD6TT) | 5:08 | 2021-11-18 | 2022-04-21 |
 | [Somewhere Only We Know](https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0qsT8HLvlWaSWIq8Rc95BI) | 3:56 | 2022-05-30 |  |
 | [Somewhere Only We Know](https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G) | [Keane](https://open.spotify.com/artist/53A0W3U0s8diEn9RhXQhVz) | [Hopes And Fears](https://open.spotify.com/album/0MlTOiC5ZYKFGeZ8h3D4rd) | 3:57 | 2021-11-18 | 2022-07-29 |

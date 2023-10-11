@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-217 songs - 20 hr 1 min
+218 songs - 20 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 | 2023-09-29 |  |
 | [Calvary's Enough](https://open.spotify.com/track/2oBrfq6TBwRyW15UZozfZs) | [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Calvary's Enough](https://open.spotify.com/album/0WSEBQibT5euqk9cNl6PU8) | 3:17 | 2023-10-06 |  |
 | [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 | 2022-06-30 | 2023-09-11 |
+| [Chinedum](https://open.spotify.com/track/2Ec5ca9NM0Rwb0MddtQSHI) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Chinedum](https://open.spotify.com/album/5V0vhc3p1EllrWsBNQR6Hh) | 4:40 | 2023-09-29 |  |
 | [Clarity](https://open.spotify.com/track/0BSGQmGCwbUOru8zrUryal) | [DOE](https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW) | [Clarity](https://open.spotify.com/album/6KwtJ6Sxu6vO45Di4906m7) | 3:34 | 2022-06-30 | 2023-01-20 |
 | [Cock & Bull](https://open.spotify.com/track/3ZRgwGkJsp5LKVUopyVfUg) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Cock & Bull](https://open.spotify.com/album/6Uogs97Nbk2Ed4UtBJYQdi) | 10:02 | 2023-04-14 | 2023-07-25 |
 | [Come & See](https://open.spotify.com/track/6u15MnjmTHU0eeSn5ulhYZ) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Come & See \(Creative Version\)](https://open.spotify.com/album/6DIEcOqCnFOmwMw9TAxInT) | 7:13 | 2022-11-25 | 2023-06-07 |
@@ -131,7 +132,7 @@
 | [My God Is Good \- Double Double Remix/Live](https://open.spotify.com/track/3ya7LWyudZ1kv04IwmBGes) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj) | [The Glory Experience \(Live In Houston\)](https://open.spotify.com/album/0SfURVlWdCFsuLysixiSAZ) | 2:28 | 2022-06-30 |  |
 | [My Worship \- Live](https://open.spotify.com/track/7nwC7KGXARrDEAw3kzP3MK) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [My Worship \(Live\)](https://open.spotify.com/album/5TQiS6WdCz1HEKnbSOsUAb) | 10:37 | 2023-09-15 |  |
 | [Na Me Be This](https://open.spotify.com/track/7sBlJJNFdQH6x0i8ACg7XO) | [Waje](https://open.spotify.com/artist/6RaKdMfhnMdLFXvsWSZaa0) | [Unbroken](https://open.spotify.com/album/4d1tJfuZwH1zzlMdP2CbgH) | 3:29 | 2022-09-01 | 2023-01-20 |
-| [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2022-06-30 |  |
+| [Na You Dey Reign](https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:27 | 2022-06-30 | 2023-10-11 |
 | [Na Your Hand](https://open.spotify.com/track/4of2lvm7dopjHj5NoELI5O) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Na Your Hand](https://open.spotify.com/album/0m1pNqZhVWVwJOWAoWP9mC) | 12:37 | 2023-05-05 | 2023-05-19 |
 | [NEVER FORGET](https://open.spotify.com/track/1ijxBrziPh6sxVk45tlZT8) | [King Dareal](https://open.spotify.com/artist/2Fh0nGDeyjps1Y1L4bayKY), [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [NEVER FORGET](https://open.spotify.com/album/4hrg22mA1U6Jae5LRPNkgq) | 3:37 | 2022-09-09 | 2023-06-29 |
 | [Never Leave Me](https://open.spotify.com/track/2pKYbiPIEL1caU7mD2XYIS) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Dena Mwana](https://open.spotify.com/artist/3hI9YP4rI93GyoPk5E9zT3) | [Never Leave Me](https://open.spotify.com/album/6mJv3BhqQ4n6XbSCYDRRyG) | 2:40 | 2022-06-30 | 2023-09-01 |

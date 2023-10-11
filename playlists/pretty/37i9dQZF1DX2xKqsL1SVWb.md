@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Dali Mata y Breton en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,593 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,587 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 52 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/1Oie9uASbo83OrEkZ2whEM) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/1KFVMgFxBDhf1fprYdbxHl) | 3:29 |
 | 53 | [La Vida Nos Hizo En Pares](https://open.spotify.com/track/3gXaySyXvlEfzUNgiJJgE7) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [La Vida Nos Hizo En Pares](https://open.spotify.com/album/5K2ZzoGMtuuml2Bg2ueaZQ) | 2:57 |
 | 54 | [Todo Lo Que Hay](https://open.spotify.com/track/78VEN4CxhRBCtE23LdIN6t) | [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg), [Venado Meraki](https://open.spotify.com/artist/5bLXtvIMDtusv4j9PtXjgB) | [Todo Lo Que Hay](https://open.spotify.com/album/1O1Awr8xY2q6FwZ0qVsWf7) | 2:49 |
-| 55 | [Sobre el Mar](https://open.spotify.com/track/3T9jOyviuZ0JoX3dfBKE0m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Sobre el Mar](https://open.spotify.com/album/4ss0ZG3vjtuYtvbM1fgab0) | 3:47 |
-| 56 | [Pasado y Olvido](https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Pasado y Olvido](https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs) | 4:15 |
+| 55 | [Pasado y Olvido](https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Pasado y Olvido](https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs) | 4:15 |
+| 56 | [Sobre el Mar](https://open.spotify.com/track/3T9jOyviuZ0JoX3dfBKE0m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Sobre el Mar](https://open.spotify.com/album/4ss0ZG3vjtuYtvbM1fgab0) | 3:47 |
 | 57 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 |
 | 58 | [Dejar Ir](https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6) | [Carope](https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs) | [Dejar Ir](https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA) | 4:49 |
 | 59 | [Juntos](https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:40 |
@@ -84,9 +84,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 74 | [Nos Dijimos Adiós](https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Nos Dijimos Adiós](https://open.spotify.com/album/2AQqArbCTwT5LEAD01IXHe) | 3:42 |
 | 75 | [Antes de Partir \- Cap.1](https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND) | [Erick Mendoza](https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4) | [Antes de Partir \- Cap.1](https://open.spotify.com/album/3yBJgpGmpOIQ79oBEbaNdm) | 3:31 |
 | 76 | [Hoy Es Hoy](https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hoy Es Hoy](https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF) | 2:54 |
-| 77 | [Siente Lo Que Siento](https://open.spotify.com/track/1R8V7nKleObC1wq6Mf8qGc) | [Carolina en Llamas](https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo) | [Siente Lo Que Siento](https://open.spotify.com/album/2ANMr0EkMlQJrwqLkBae7h) | 4:04 |
+| 77 | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/album/7EoVqsPnTl7mEj3p1wMZus) | 3:34 |
 | 78 | [El Fin](https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N) | [Karla Cruise](https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs) | [El Fin](https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8) | 2:57 |
 | 79 | [Arena Blanca](https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Páramo Místico](https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL) | 3:23 |
-| 80 | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/album/7EoVqsPnTl7mEj3p1wMZus) | 3:34 |
+| 80 | [Siente Lo Que Siento](https://open.spotify.com/track/1R8V7nKleObC1wq6Mf8qGc) | [Carolina en Llamas](https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo) | [Siente Lo Que Siento](https://open.spotify.com/album/2ANMr0EkMlQJrwqLkBae7h) | 4:04 |
 
-Snapshot ID: `MCw0ODllOWQ4MjU3ZTNkMjMxYTllYmY4NjM4NDBmODhkMDljYTRjZjlk`
+Snapshot ID: `MCw5MTBkNDhkZDhmMWQzZjk1MTAzZDdhOWQwY2QwY2ExNTI1NGMxYjU0`

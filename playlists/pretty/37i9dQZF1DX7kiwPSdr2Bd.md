@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Aline Barros
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,910 likes - 80 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,809 likes - 80 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 24 | [Inflama \- Ao Vivo](https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN) | [Valesca Mayssa](https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh) | [Inflama \(Ao Vivo\)](https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8) | 6:51 |
 | 25 | [Deus dos Bastidores](https://open.spotify.com/track/5QLGQkK2rfw68Bk0Q1siy9) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm) | [Deus dos Bastidores](https://open.spotify.com/album/0E4HV1PsIP1fNFWhV8rbPW) | 5:32 |
 | 26 | [Canção do Céu \- Ao vivo](https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Canção do Céu \(Ao Vivo\)](https://open.spotify.com/album/2KGMmd1fToQKwrpeEDMkhS) | 8:19 |
-| 27 | [Eu Tenho Pai](https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Eu Tenho Pai](https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw) | 6:40 |
-| 28 | [Não Se Cobre Tanto \- Ao Vivo](https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Não Se Cobre Tanto \(Ao Vivo\)](https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo) | 4:58 |
+| 27 | [Não Se Cobre Tanto \- Ao Vivo](https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m) | [Kailane Frauches](https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD) | [Não Se Cobre Tanto \(Ao Vivo\)](https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo) | 4:58 |
+| 28 | [Eu Tenho Pai](https://open.spotify.com/track/6tyGZ5AYYRSaUop9z3PbBP) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [ONE Service](https://open.spotify.com/artist/0kCOnrKSr2couo2O5uj2hP) | [Eu Tenho Pai](https://open.spotify.com/album/2qXVPwFzQIoCpTwWD5hPJw) | 6:40 |
 | 29 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 6:06 |
 | 30 | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/track/5b75WAmLLdqIiVWyMTMctF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/album/6WKir025Bp9KQGjKAodPSi) | 5:12 |
 | 31 | [Sou um Milagre](https://open.spotify.com/track/4aA3PDel1koEbggFsSOVKz) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Sou um Milagre](https://open.spotify.com/album/4ZgjRKu5PlGIcAfbWzMNly) | 7:46 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7kiwPSdr2Bd.md) - [plain]
 | 79 | [Vida Aos Sepulcros \- Ao Vivo](https://open.spotify.com/track/1KJDPb9x2L1mDRl5O2YEjs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A Presença \(Deluxe\) \[Ao Vivo\]](https://open.spotify.com/album/1lapMenp91z3CCdPBr7S23) | 5:51 |
 | 80 | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/track/4qs5rB4poxnuCBb5k5Ix5T) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Senhor Formoso És / Ele é Exaltado](https://open.spotify.com/album/68FpY5H3qrTqpRFY5QQdYW) | 5:09 |
 
-Snapshot ID: `MCxhMjZmODFhNDllNTY4YmVlN2ZiYzk5ODM0ZTZmZjRkMTEzNDY0MWY0`
+Snapshot ID: `MCwzZmQxNTQxZGIwOGJjZTRmZGE2ODBkYzVkNTA3ODM3YmFiZGQ2MGQ1`

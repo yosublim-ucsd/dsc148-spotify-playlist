@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 
 > Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars\. Remembering Charlie Robison.
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,106 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,177 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 41 | [Love](https://open.spotify.com/track/7F9ckjDpL3J6wvI68Nb8PB) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ), [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Noise Complaint](https://open.spotify.com/album/3O0ADFFtbXVRMf1x2fiClS) | 3:43 |
 | 42 | [West Texas in My Eye](https://open.spotify.com/track/7rr2MisgPp9gRn1ydcwpe7) | [The Panhandlers](https://open.spotify.com/artist/3PDBePAkhZWQPgR72nhbW8), [John Baumann](https://open.spotify.com/artist/5OCPKdyvsphdpbIVpVts3L), [William Clark Green](https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ), [Josh Abbott Band](https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb), [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [The Panhandlers](https://open.spotify.com/album/4ZTVXx7vjRCbLhIUteip4R) | 3:08 |
 | 43 | [7 & 7](https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:49 |
-| 44 | [Freight Train](https://open.spotify.com/track/7eoYXgC7gir4LYY1KXGK97) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [The Underdog](https://open.spotify.com/album/3vOJnbTBrWwHPgNBHE9WwU) | 2:55 |
+| 44 | [Come Back Down](https://open.spotify.com/track/61jsFe3tc6Z6uIHU2Qeq3B) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Medicine Man](https://open.spotify.com/album/5SqBAJno2evV4WNNlBYZOY) | 4:33 |
 | 45 | [Meet You in the Middle](https://open.spotify.com/track/5fgeba92zIjtr49JupqI9O) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [The Limestone Kid](https://open.spotify.com/album/7jba5tL6K9s6hT0NLsf5P7) | 3:30 |
-| 46 | [Come Back Down](https://open.spotify.com/track/61jsFe3tc6Z6uIHU2Qeq3B) | [Tanner Usrey](https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7) | [Medicine Man](https://open.spotify.com/album/5SqBAJno2evV4WNNlBYZOY) | 4:33 |
+| 46 | [Freight Train](https://open.spotify.com/track/7eoYXgC7gir4LYY1KXGK97) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [The Underdog](https://open.spotify.com/album/3vOJnbTBrWwHPgNBHE9WwU) | 2:55 |
 | 47 | [I Believe In You](https://open.spotify.com/track/1PpbrbgsXRXeKw1GnZMEv7) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [I Believe In You](https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG) | 4:06 |
 | 48 | [Pretty Heart](https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Pretty Heart](https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u) | 4:04 |
 | 49 | [Wave on Wave](https://open.spotify.com/track/7rS87NoPWbAkVURdVFbGH9) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Wave On Wave](https://open.spotify.com/album/0HjdNkgyrUKC2ynRUNna7V) | 4:04 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 51 | [Good Lord Lorrie](https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 5:01 |
 | 52 | [Forever](https://open.spotify.com/track/3AdV1d3U70EWsqE6NDJ0yv) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Harold Saul High](https://open.spotify.com/album/1tkILSHrftqtIaop0bcCqg) | 2:57 |
 | 53 | [In My Arms Instead](https://open.spotify.com/track/4hFSl2YfBUCY7RgZ8OhwCO) | [Randy Rogers Band](https://open.spotify.com/artist/04DUpHOyQqwbHFyvIhcGi3) | [Randy Rogers Band](https://open.spotify.com/album/5tvHSuAIkmG9UD8jAmnXup) | 5:18 |
-| 54 | [Damn Good Goodbye](https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Blink You'll Miss It](https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq) | 3:32 |
-| 55 | [One I Want](https://open.spotify.com/track/0EYBK3ZxxO8VlN5cJ9MiYN) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Humble Folks](https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa) | 3:51 |
+| 54 | [One I Want](https://open.spotify.com/track/0EYBK3ZxxO8VlN5cJ9MiYN) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Humble Folks](https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa) | 3:51 |
+| 55 | [Damn Good Goodbye](https://open.spotify.com/track/1tPAhtdVRtRexRdH9QXOSP) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Blink You'll Miss It](https://open.spotify.com/album/3fWz8gQUrBBsf7y7q1znTq) | 3:32 |
 | 56 | [A Life Where We Work Out \(feat\. Kaitlin Butts\)](https://open.spotify.com/track/7rJRYP73BI3LLFtteweC2F) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [Humble Folks](https://open.spotify.com/album/62dtvPwt2JNDqtfPI7B7Aa) | 3:10 |
 | 57 | [New Year's Day](https://open.spotify.com/track/7DXNTiUCWJvomSGEGMr3H8) | [Charlie Robison](https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt) | [Good Times](https://open.spotify.com/album/4vHUA1pDoYFTaxuCNOhK2z) | 3:54 |
 | 58 | [You In A Honky Tonk](https://open.spotify.com/track/76DhLVnoczE6umkHKR2Ec6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [You In A Honky Tonk](https://open.spotify.com/album/4UQUjGOmIqVh7mg0c7hYeJ) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX05oRSrPGj3d.md) - [plain]
 | 99 | [Somewhere Down in Texas](https://open.spotify.com/track/1kRlt3v0NI6OLhyMkZZAee) | [Jason Boland & The Stragglers](https://open.spotify.com/artist/1sX1MkGoDKuMzzhaALPFyZ) | [Pearl Snaps](https://open.spotify.com/album/77K4BgKsROJot7MZJhejJJ) | 5:53 |
 | 100 | [The Love That We Need](https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Lovers and Leavers](https://open.spotify.com/album/7z5FvJZESvRTwHTJT2uKc4) | 4:08 |
 
-Snapshot ID: `MCxkM2E1NGJjNGM3OGMyMmNiNzgyYjEzMzNiMGMxYzc1NDFjODg3ZjY1`
+Snapshot ID: `MCxiNTk3MDhiOTc4ZTFiNDNlMjNhMDhlMzU3N2Q1OGU3YmJhM2VlMDFm`

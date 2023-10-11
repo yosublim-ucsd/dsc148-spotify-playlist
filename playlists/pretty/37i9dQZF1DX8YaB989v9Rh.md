@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/blaircaldwell/">Blair Caldwell</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,390 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,419 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 | 12 | [U Remind Me](https://open.spotify.com/track/2QsZVnbWVSjKMXK6K3uRBL) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [8701](https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi) | 4:26 |
 | 13 | [Umbrella](https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 4:35 |
 | 14 | [Slow Jamz](https://open.spotify.com/track/3A4cpTBPaIQdtPFb5JxtaX) | [Twista](https://open.spotify.com/artist/6vbY3hOaCAhC7VjucswgdS), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Jamie Foxx](https://open.spotify.com/artist/7LnaAXbDVIL75IVPnndf7w) | [The College Dropout](https://open.spotify.com/album/4Uv86qWpGTxf7fU7lG5X6F) | 5:16 |
-| 15 | [Tears Dry On Their Own](https://open.spotify.com/track/7MDfN1ldfTMtuXXdVz2Pzc) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:06 |
-| 16 | [Chasing Pavements](https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:30 |
+| 15 | [Chasing Pavements](https://open.spotify.com/track/56pHllZT7QOacB0bP56ofx) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [19](https://open.spotify.com/album/59ULskOkBMij4zL8pS7mi0) | 3:30 |
+| 16 | [Tears Dry On Their Own](https://open.spotify.com/track/7MDfN1ldfTMtuXXdVz2Pzc) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 3:06 |
 | 17 | [Are You That Somebody](https://open.spotify.com/track/3PqAnW2bB5TQnMoBivyFOb) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4) | [I Care 4 U](https://open.spotify.com/album/50GHwAog5gmnqkypVkDso8) | 4:25 |
 | 18 | [Over My Head \(Cable Car\)](https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [How To Save A Life](https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK) | 3:56 |
 | 19 | [You Rock My World](https://open.spotify.com/track/1Lhwn4PqeGpM4LTVUowW76) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Invincible](https://open.spotify.com/album/52E4RP7XDzalpIrOgSTgiQ) | 5:37 |
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 | 24 | [Twisted](https://open.spotify.com/track/69QIVIjPMnI1ABLBqh9P1b) | [Keith Sweat](https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m) | [Keith Sweat](https://open.spotify.com/album/0BzXvdpUKDEk612hLc6rZV) | 4:20 |
 | 25 | [Rehab](https://open.spotify.com/track/5X3ahLXhOw16BR09GjYPUT) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:54 |
 | 26 | [Let It Go](https://open.spotify.com/track/2RqZFOLOnzVmHUX7ZMcaES) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Just Like You](https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK) | 3:58 |
-| 27 | [Slow Motion](https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Soulja Slim](https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd) | [Juve The Great](https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A) | 4:08 |
-| 28 | [Your Love](https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:05 |
+| 27 | [Your Love](https://open.spotify.com/track/1w6kG4Rc29m5EherbvpkF5) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:05 |
+| 28 | [Slow Motion](https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Soulja Slim](https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd) | [Juve The Great](https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A) | 4:08 |
 | 29 | [Kick, Push](https://open.spotify.com/track/6nz35DNIzbtj5ztpDEcW1j) | [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Lupe Fiasco's Food & Liquor](https://open.spotify.com/album/0TDJRkEr2SrhWTetdkEzED) | 4:14 |
 | 30 | [Lost Without U](https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP) | [The Evolution of Robin Thicke](https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb) | 4:14 |
 | 31 | [They Don't Know](https://open.spotify.com/track/0b5w1gamS9f239Sms9guAB) | [Jon B.](https://open.spotify.com/artist/3SRJWVa6lZnqRHOyAHmDrX) | [COOL RELAX](https://open.spotify.com/album/4OLSMLHNl7Nf8wwsxnxqwJ) | 4:34 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8YaB989v9Rh.md) - [plain]
 | 44 | [All Night Long](https://open.spotify.com/track/7iyjZ4paFWpTrJJenM0yZb) | [Mary Jane Girls](https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr) | [In My House](https://open.spotify.com/album/4W5tAjZ4fF60N6a2v8EWnF) | 5:43 |
 | 45 | [Just The Two Of Us](https://open.spotify.com/track/01F8B0dhzGdWvmcSO6vUdi) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 5:15 |
 | 46 | [Full Moon](https://open.spotify.com/track/0pLmfgIANOX9FB9uZDU43x) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Full Moon](https://open.spotify.com/album/7721xmJK5tmifUQdcmJ6An) | 4:08 |
-| 47 | [Number One \(feat\. Kanye West\)](https://open.spotify.com/track/3zQGmJ4k3JeqwAjfrEcwHp) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 3:18 |
-| 48 | [U Know What's Up](https://open.spotify.com/track/3seflYvRN3gmh50Iih5yMd) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [The Best of Donell Jones](https://open.spotify.com/album/5L5nD7OgxeVH86DQMQb0Pf) | 4:00 |
+| 47 | [U Know What's Up](https://open.spotify.com/track/3seflYvRN3gmh50Iih5yMd) | [Donell Jones](https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B) | [The Best of Donell Jones](https://open.spotify.com/album/5L5nD7OgxeVH86DQMQb0Pf) | 4:00 |
+| 48 | [Number One \(feat\. Kanye West\)](https://open.spotify.com/track/3zQGmJ4k3JeqwAjfrEcwHp) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 3:18 |
 | 49 | [T.O.N.Y.](https://open.spotify.com/track/6GI2PcrptZqGDOVrqjsec0) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [Sol\-Angel and the Hadley St\. Dreams \(Deluxe\)](https://open.spotify.com/album/6MsVbAqh2A9i7jYvPOsGNx) | 3:52 |
 | 50 | [Talk About Our Love \(feat\. Kanye West\)](https://open.spotify.com/track/6tvOzCdhzkrJo3ASWwbSPZ) | [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Afrodisiac](https://open.spotify.com/album/0TBkOhBNDAooz45OxNZSle) | 3:34 |
 
-Snapshot ID: `MCxkYTEwYzJhMmVmMGM0NzYwNjE2YzQ1ZjYwNjg1YTZiYzM2ZDgxZDIz`
+Snapshot ID: `MCwwOWI2NmNhNDFkZWJjN2E2NDQwZmI4NDdjOTk5OWZmZDA0MTVhZTdi`

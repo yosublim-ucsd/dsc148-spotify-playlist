@@ -1775,6 +1775,24 @@
     },
     {
       "album": {
+        "name": "S9aiR",
+        "url": "https://open.spotify.com/album/6VGtl5hQVxkrUoY3k0t5vm"
+      },
+      "artists": [
+        {
+          "name": "SennaRin",
+          "url": "https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197672,
+      "name": "S9aiR",
+      "url": "https://open.spotify.com/track/2bREEoMT7EyoUFwxh04IzM"
+    },
+    {
+      "album": {
         "name": "\u7532\u9244\u57ce\u306e\u30ab\u30d0\u30cd\u30ea COMPLETE SOUNDTRACK",
         "url": "https://open.spotify.com/album/4w86tNooD8SvmyWVjsjwNt"
       },

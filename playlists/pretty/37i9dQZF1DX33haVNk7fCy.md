@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 
 > When everything around you is falling apart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,364 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,538 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 41 | [Akela Hoon](https://open.spotify.com/track/7pWAX5kJBULFTDNiH8oB42) | [AMAN](https://open.spotify.com/artist/2fbOTJal9uKzOkYEWxaiCK) | [Akela Hoon](https://open.spotify.com/album/3N8AcmFbxtKV8YfeYMFEKk) | 3:44 |
 | 42 | [Ek Tukda Dhoop \(From "Thappad"\)](https://open.spotify.com/track/50Emj7dvfU5NTCQsS7ECJ7) | [Raghav Chaitanya](https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK), [Anurag Saikia](https://open.spotify.com/artist/6hzngLO20cX5IGqT0hVv1G) | [Ek Tukda Dhoop \(From "Thappad"\)](https://open.spotify.com/album/0qHOnEEAja3oeBJQDp7zGY) | 5:25 |
 | 43 | [Roke Na Ruke Naina \(From "Badrinath Ki Dulhania"\)](https://open.spotify.com/track/6jzUvO5F2fnOvYqCTMd5U1) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Heart Touching Songs](https://open.spotify.com/album/17tjOnr6MqgosUNRmThObQ) | 4:38 |
-| 44 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 |
-| 45 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 |
+| 44 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 |
+| 45 | [Raaz Tera Mera](https://open.spotify.com/track/4hGHgXcTOD8BzJKMz062ZN) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Raaz Tera Mera](https://open.spotify.com/album/600DUfcwqsdjfnTK15RogK) | 3:28 |
 | 46 | [Mehram](https://open.spotify.com/track/2oi55VmillH7At5wHVNFbE) | [Asfar Hussain](https://open.spotify.com/artist/7lDDbppbcK5F2ZJXG12pru), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Mehram](https://open.spotify.com/album/1I7fGWBGZzOfsbkxxLGSyq) | 5:38 |
 | 47 | [Bin Tere \- Reprise](https://open.spotify.com/track/7zG4akZAie70mOCMmtoacS) | [Vishal\-Shekhar](https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb), [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw) | [I Hate Luv Storys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4SPHfSWibeoFCSdR4vd5QL) | 3:40 |
 | 48 | [Iktara \- Male Version](https://open.spotify.com/track/37QFYtNOmvmXrgesLTRhMq) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Tochi Raina](https://open.spotify.com/artist/6k6dimE4a6OFnD0HWmkIUW), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx), [Raman Mahadevan](https://open.spotify.com/artist/5jbcmPkWWDvnHws3S60EVd) | [Javeda Sufiaana](https://open.spotify.com/album/4veoDRq0o3nLw4lqVKU4Pl) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33haVNk7fCy.md) - [plain]
 | 74 | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/track/1plFCZ6QFAjSRutT02GTCn) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Channa Mereya \(From "Ae Dil Hai Mushkil"\)](https://open.spotify.com/album/7IuYiJjqLtPUqgDYlUTuML) | 4:49 |
 | 75 | [Ve Kamleya \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/track/1AmwIgy0WYLJJ5e24aCFTm) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Shadab Faridi](https://open.spotify.com/artist/6WixbETKEXH0xBf0OB9kRB), [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Ve Kamleya \(From "Rocky Aur Rani Kii Prem Kahaani"\)](https://open.spotify.com/album/7q4DcFIuSUzOoQs3QMvwNe) | 4:06 |
 
-Snapshot ID: `MCwzMTk5NjgwYzM5ODhiYTMyODIwMzE3NTRhMGU5MmQ5NmFjNDhhNzY4`
+Snapshot ID: `MCxlYzVkY2RkNmIzZDZjOWU4M2Q3MTkyMmQ5OTc4YjIzM2I4NTgxZTc5`

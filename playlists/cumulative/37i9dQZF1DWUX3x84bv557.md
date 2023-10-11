@@ -4,7 +4,7 @@
 
 > De nieuwste Nederlandse liedjes! Cover: Do
 
-362 songs - 17 hr 30 min
+363 songs - 17 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,8 @@
 | [Wat Als Het Lukt](https://open.spotify.com/track/0cyNDPp11HqsUH713X7WCe) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/4eZx6Pc0j1rRJUmpdV9ThY) | 2:32 | 2023-06-15 |  |
 | [Wat Doe Je Nou](https://open.spotify.com/track/2U1cBksfUvDB5YoVj0gdms) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Wat Doe Je Nou](https://open.spotify.com/album/34LFiUIgmU2Bp4YfF9CjI4) | 2:36 | 2023-02-23 | 2023-04-07 |
 | [Wat Ik Met Je Moet](https://open.spotify.com/track/4tnR69RLKKnFHXwdoqhpLM) | [Amber Delil](https://open.spotify.com/artist/1vEHJYnp7FQ27RGabDTasf) | [Wat Ik Met Je Moet](https://open.spotify.com/album/5BnmpGWzBTpSo27O8uQCqF) | 3:00 | 2023-06-08 | 2023-09-22 |
-| [Wat ik Zocht](https://open.spotify.com/track/3UNGg3HXwemW4tjy7XIw3g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/09rwghZuPsHR4t84q7vwoy) | 2:52 | 2023-09-28 |  |
+| [Wat ik Zocht](https://open.spotify.com/track/3UNGg3HXwemW4tjy7XIw3g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/09rwghZuPsHR4t84q7vwoy) | 2:52 | 2023-09-28 | 2023-10-11 |
+| [Wat ik Zocht](https://open.spotify.com/track/3gMNloOnIjQ9eZzQhiiDrb) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/1sh6HCkhboWsoln9lf0ay8) | 2:52 | 2023-10-05 |  |
 | [Wat Is Er Gebeurd](https://open.spotify.com/track/4SBsVlE0RPcONLZePOTpS5) | [Vincent Visser](https://open.spotify.com/artist/5Pt6RzzwjfVqE0TWHyK101), [Jairzinho](https://open.spotify.com/artist/4owt1GWUqAh4gsXT13roop) | [Wat Is Er Gebeurd](https://open.spotify.com/album/5QXDJtS4EHkcVK2mYYwCr7) | 2:35 | 2023-03-02 | 2023-06-30 |
 | [Wat Wil Je Van Mij](https://open.spotify.com/track/1KxRzfQuO8k0dCua9JVRgM) | [Metejoor](https://open.spotify.com/artist/7hdCH3dJ27WvUbo00gAMwE), [Hannah Mae](https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG) | [Wat Wil Je Van Mij](https://open.spotify.com/album/5kUWt2aSUlU911bG7oqkqh) | 3:19 | 2023-02-23 | 2023-03-25 |
 | [We doen wat we kunnen \(feat\. Geike\) \- Single Edit](https://open.spotify.com/track/5Bzuagyvt3iOyI7CgNTj9x) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [We doen wat we kunnen \(feat\. Geike\)](https://open.spotify.com/album/6OFRhULTO9UJf1yk7v9XfZ) | 4:00 | 2023-02-23 | 2023-03-18 |

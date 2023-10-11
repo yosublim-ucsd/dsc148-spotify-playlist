@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 
 > The best of folk\-infused pop and singer\-songwriter\. Cover: David Kushner
 
-[Spotify](https://open.spotify.com/user/spotify) - 866,419 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 866,673 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 43 | [Runaway](https://open.spotify.com/track/58uBXXmWLDeezlYx2uGeC0) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [Runaway](https://open.spotify.com/album/4zrWlaReyL0EypP5ZeCoHc) | 4:32 |
 | 44 | [Dance All Over Me](https://open.spotify.com/track/4gIDvFHsqRsniD9JngIVCL) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Gold Rush Kid](https://open.spotify.com/album/5RaDlk1pjOFSfcGDurH62z) | 3:14 |
 | 45 | [as good a reason](https://open.spotify.com/track/3wPm5GutqeJtOgsjwbtvnh) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [as good a reason](https://open.spotify.com/album/2Npo80FlYSQtGbbd2wChH9) | 2:49 |
-| 46 | [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 |
-| 47 | [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:51 |
+| 46 | [Thousand Miles \(feat\. Brandi Carlile\)](https://open.spotify.com/track/3DoSolxGSDoV7G7MtcIPiZ) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:51 |
+| 47 | [London's Song](https://open.spotify.com/track/1Mk9ou2m6hsEZJYuNRJFpO) | [Matt Hartke](https://open.spotify.com/artist/6OkqAt7MtIDPOadHr1gEkz) | [London's Song](https://open.spotify.com/album/7znWNtOhMKIQiYUldh2Rmr) | 2:58 |
 | 48 | [Like Gold](https://open.spotify.com/track/6Od2OWvoT4embWAgIGeFRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:44 |
 | 49 | [You and Me On The Rock \(feat\. Lucius\)](https://open.spotify.com/track/61X73CJcpwGIxgQgKEXbw0) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:50 |
 | 50 | [Wildflower](https://open.spotify.com/track/7HYVXHGXsXOoQGi7UjYBrQ) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/75sVhPaNpMaypvDzhPbjXa) | 3:32 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 60 | [What I Do](https://open.spotify.com/track/27V9QAXyt9u9itQpS7A7lO) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Palomar Parade](https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh) | 3:35 |
 | 61 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 |
 | 62 | [Amadeus](https://open.spotify.com/track/4F9jpNQDKRFoyM4Ebpni6S) | [Family and Friends](https://open.spotify.com/artist/2AmW5LU0vqfHoN2qvghRFe) | [XOXO](https://open.spotify.com/album/1SX20zgyjlyqjHSzOTmqxf) | 3:27 |
-| 63 | [Valapriso](https://open.spotify.com/track/1Z3hqW2OprFrwO05euqt8z) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Valapriso](https://open.spotify.com/album/6Ro2L2h4BlChNYSiy00mys) | 3:07 |
-| 64 | [Waves](https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Waves](https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO) | 2:16 |
+| 63 | [Waves](https://open.spotify.com/track/5luLMIQajTbWm2Zz4EsO9D) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Waves](https://open.spotify.com/album/5ZO7Yhx5k8r4513DjUb0GO) | 2:16 |
+| 64 | [Valapriso](https://open.spotify.com/track/1Z3hqW2OprFrwO05euqt8z) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Valapriso](https://open.spotify.com/album/6Ro2L2h4BlChNYSiy00mys) | 3:07 |
 | 65 | [Sword from the Stone](https://open.spotify.com/track/1Fc2Gqn9bTuoeSHfhl1net) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Songs for the Drunk and Broken Hearted](https://open.spotify.com/album/6OGJr5I1SVTn9cla4JPiO1) | 3:21 |
 | 66 | [Pollution](https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Pollution](https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq) | 3:54 |
 | 67 | [Celeste](https://open.spotify.com/track/23cj0rlc0UtTBaCg60VCkm) | [Ezra Vine](https://open.spotify.com/artist/2gJqa0PdfSuLpoQlWAIAzn) | [Celeste EP](https://open.spotify.com/album/3W0K6QezWMLCYcZlJitqHt) | 3:23 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 71 | [letting go](https://open.spotify.com/track/30a5DDL7xq347S143EoOPp) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [searching for freedom](https://open.spotify.com/album/01Dk72C4YTgkEHQRzk0rHX) | 4:26 |
 | 72 | [Atlantis](https://open.spotify.com/track/4Lp2SmcFyyMiWzfsDV2Qzh) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [A Pillar of Salt](https://open.spotify.com/album/6hlXrXeAAxPOZ4y5lonxiQ) | 5:19 |
 | 73 | [Horse to Water](https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Neptune](https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS) | 4:04 |
-| 74 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 |
-| 75 | [This Could Be Good](https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:00 |
+| 74 | [This Could Be Good](https://open.spotify.com/track/7d2ytNiHGDf32YwZOU6RnZ) | [Morningsiders](https://open.spotify.com/artist/5hPR4Atp3QY2ztiAcz1inl) | [I've Got a Song](https://open.spotify.com/album/4z3NrWP94ySfz0W3dDmQs7) | 3:00 |
+| 75 | [Yellow Paper Daisy](https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Yellow Paper Daisy](https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH) | 3:19 |
 | 76 | [Backstage in Glasgow](https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP) | [The 502s](https://open.spotify.com/artist/4sIuoDOzSlBqeiNJl631zX) | [Backstage in Glasgow](https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S) | 2:16 |
 | 77 | [Never Come Back Again](https://open.spotify.com/track/4yRlTvPVfEyhXfp6GZurq9) | [Austin Plaine](https://open.spotify.com/artist/6AMV5iw09ZrX1h3o4x7uVN) | [Austin Plaine](https://open.spotify.com/album/78yPA5hNyDnuTF42jJyblN) | 3:16 |
 | 78 | [How Do We Stay In Love?](https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [How Do We Stay In Love?](https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR) | 2:39 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 82 | [Back to You](https://open.spotify.com/track/6iB4FVNBjXR9M5nhvSlZde) | [Twin Forks](https://open.spotify.com/artist/6GwNGuDRNbx5XwoHQA3QiD) | [Twin Forks](https://open.spotify.com/album/5RtOloqFxDxiJJgAkDqrvZ) | 2:50 |
 | 83 | [Part of Me](https://open.spotify.com/track/5TA2vNVGdgTdNyNNeq52e0) | [Good Old War](https://open.spotify.com/artist/33szNKNcVX8x0jl8X7hxHL) | [Part of Me](https://open.spotify.com/album/6gvcXUbaSTH7qqHxPBkvb2) | 3:02 |
 | 84 | [I Don't Really Care for You](https://open.spotify.com/track/38x9U1nlxCblWCmu6g4mPy) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [If My Wife New I'd Be Dead \(Deluxe\)](https://open.spotify.com/album/0xItOwIAddsdxIZBHJyJYh) | 4:04 |
-| 85 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 |
-| 86 | [Everything We Need](https://open.spotify.com/track/6lmJ5Nn7CrAmZkuMejx8YZ) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Everything We Need](https://open.spotify.com/album/5gDSgkqX0dEzmOyVKANv7M) | 3:33 |
+| 85 | [Everything We Need](https://open.spotify.com/track/6lmJ5Nn7CrAmZkuMejx8YZ) | [Wilfred](https://open.spotify.com/artist/7dZa7l5PsnUBItVQFPp6ym) | [Everything We Need](https://open.spotify.com/album/5gDSgkqX0dEzmOyVKANv7M) | 3:33 |
+| 86 | [Better Together](https://open.spotify.com/track/3xPrdaCplbZRvgJiOBmGs4) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Better Together](https://open.spotify.com/album/6iPltWDB2BeiopAigyQG3g) | 2:58 |
 | 87 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 |
 | 88 | [See the World](https://open.spotify.com/track/0YPX6ztcWM4QTbR9tpnHNB) | [Brett Dennen](https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT) | [See the World](https://open.spotify.com/album/4mWXndqtN0KU5ndYussdyK) | 4:17 |
 | 89 | [Better Days](https://open.spotify.com/track/02HJc2G0BfiJBJhet27Scm) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Better Days](https://open.spotify.com/album/76H7LQRjofrjoPlGDLwkwk) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJyjYpHunCf.md) - [plain]
 | 99 | [Flora](https://open.spotify.com/track/4fKAjt8XPW1PzZ60Dal4VZ) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Flora](https://open.spotify.com/album/1MzWFaZYAMa9mmQoHocXUD) | 4:08 |
 | 100 | [Keeps Me Coming Back](https://open.spotify.com/track/2oUOH2tCU4kKpooynVfS36) | [WILD](https://open.spotify.com/artist/0jcaMhfyinUx3Pj8w4nmWZ) | [Goin' Back](https://open.spotify.com/album/7v4UurEtaSYhz08qrumP7g) | 2:49 |
 
-Snapshot ID: `MCwyYzYwZTg1M2E2ODI3MTQxZTVmYjY5YjU4YWNiNmYwYjYwM2RjNjBj`
+Snapshot ID: `MCxlMjM5NDZlNmI0Y2ZhOWNlYzJjNDA2NTA2NDM1NzQ4ZjYzZTRlZGFm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 
 > This is beabadoobee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,529 likes - 46 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,869 likes - 46 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 | 18 | [1999](https://open.spotify.com/track/0oS6978exXanyIZJD4cdgV) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 3:11 |
 | 19 | [She Plays Bass](https://open.spotify.com/track/52zzYSu7RUsSFn8cZlVjWp) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [She Plays Bass](https://open.spotify.com/album/6aSy1zAuCiFQxUFITf3ymw) | 3:27 |
 | 20 | [He Gets Me So High](https://open.spotify.com/track/6PvxbkegGnVGxd1NDYS6fZ) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:45 |
-| 21 | [Ripples](https://open.spotify.com/track/0SIrEgMzTSWzFoT272mk2X) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 3:07 |
-| 22 | [Spacing Out](https://open.spotify.com/track/6Jmr2w49vC2cj4fPgmkjfH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 1:40 |
-| 23 | [Everest](https://open.spotify.com/track/13GNwY7azIE7J0VJUaz18S) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 2:38 |
+| 21 | [Talk](https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:38 |
+| 22 | [Everest](https://open.spotify.com/track/13GNwY7azIE7J0VJUaz18S) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 2:38 |
+| 23 | [Spacing Out](https://open.spotify.com/track/6Jmr2w49vC2cj4fPgmkjfH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 1:40 |
 | 24 | [How Was Your Day?](https://open.spotify.com/track/1FnaRNR5YLddYYd6xwJ3DX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 4:20 |
-| 25 | [Talk](https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:38 |
-| 26 | [Animal Noises](https://open.spotify.com/track/3KENEwjmiRoWoW3HTE9JNb) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 3:34 |
-| 27 | [Art Class](https://open.spotify.com/track/5R4u3LgAC2BNkxo0bKQmS5) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 4:07 |
+| 25 | [Ripples](https://open.spotify.com/track/0SIrEgMzTSWzFoT272mk2X) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 3:07 |
+| 26 | [Art Class](https://open.spotify.com/track/5R4u3LgAC2BNkxo0bKQmS5) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 4:07 |
+| 27 | [Animal Noises](https://open.spotify.com/track/3KENEwjmiRoWoW3HTE9JNb) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 3:34 |
 | 28 | [Back To Mars](https://open.spotify.com/track/0ZkpIZ3PQb1rYrM3ghBXIv) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 1:30 |
 | 29 | [Bobby](https://open.spotify.com/track/0mW58kig39aueBh99f6yGz) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 3:25 |
 | 30 | [Disappear](https://open.spotify.com/track/1vKPCcclqSIHpMIh4YieQG) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 4:08 |
@@ -42,17 +42,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1MEzV6.md) - [plain]
 | 32 | [Care](https://open.spotify.com/track/1aTf6n7MSd9z1LQYJEcmqF) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:14 |
 | 33 | [Home Alone](https://open.spotify.com/track/1TUff6XKeK8DoVxdPIJnT3) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 2:20 |
 | 34 | [Ceilings](https://open.spotify.com/track/5GP8cNzgiMG5Sm8of4zQ6c) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 3:59 |
-| 35 | [I Wish I Was Stephen Malkmus](https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [I Wish I Was Stephen Malkmus](https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM) | 3:51 |
+| 35 | [Susie May](https://open.spotify.com/track/3JGhWkxALa6OLMjBv6yz79) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Susie May](https://open.spotify.com/album/6xzmdcRuP4SoAJB4gdhjop) | 4:26 |
 | 36 | [Worth It](https://open.spotify.com/track/3r1qdSsvJEwiMKHeCWapMM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:14 |
 | 37 | [Angry Song](https://open.spotify.com/track/3b8FrA74Tm4y22Zzi01Yk4) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Lice](https://open.spotify.com/album/4olGUJUS3SjAZuqdkPnr9s) | 1:08 |
 | 38 | [Angel](https://open.spotify.com/track/6mZPt7IcgSaqk5H4NX9a6f) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Loveworm](https://open.spotify.com/album/475CNcvlqtRpaXjTcn4hCP) | 3:13 |
 | 39 | [Silver Into Rain](https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:21 |
 | 40 | [Dye It Red](https://open.spotify.com/track/02EKM4d0J6AftgttumTzzB) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:09 |
-| 41 | [Susie May](https://open.spotify.com/track/3JGhWkxALa6OLMjBv6yz79) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Susie May](https://open.spotify.com/album/6xzmdcRuP4SoAJB4gdhjop) | 4:26 |
+| 41 | [I Wish I Was Stephen Malkmus](https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [I Wish I Was Stephen Malkmus](https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM) | 3:51 |
 | 42 | [Space Cadet](https://open.spotify.com/track/0DuGEqN0pRJ5QAVFvnLe6P) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Space Cadet](https://open.spotify.com/album/1R5kPLo5rJAgp161g5hOFQ) | 4:24 |
 | 43 | [Speed Dial](https://open.spotify.com/track/2NyB1mSR0rm5zxMwjryLa5) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Silk](https://open.spotify.com/album/7KylYQE83iLriEOCeOWpd7) | 5:16 |
 | 44 | [Sorry](https://open.spotify.com/track/6U2tdXbNc2MLcgSTvDrb5L) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fake It Flowers](https://open.spotify.com/album/3SGFxGF2loXeOFZtKvdmxo) | 3:53 |
 | 45 | [Hurry Home \(with beabadoobee & Jay Som\)](https://open.spotify.com/track/6Ha8pqxdSJHdPY4tlzPhlT) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Hurry Home \(with beabadoobee & Jay Som\)](https://open.spotify.com/album/6vAkWJVChKrwbY9WTLeKZZ) | 3:56 |
 | 46 | [Sun More Often](https://open.spotify.com/track/1qkKf2v0cE3BVePzQQEQq3) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Space Cadet](https://open.spotify.com/album/1R5kPLo5rJAgp161g5hOFQ) | 4:01 |
 
-Snapshot ID: `MjgyNzM3MzUsMDAwMDAwMDA4MWUwYWNiMTgyNTQyYmU4YWFiYTU5YTViMjJmMWY5Zg==`
+Snapshot ID: `MjgyODI0MTcsMDAwMDAwMDA0ZmIzYTc4ZGFhNjZkOTczZjJkN2ZhNTM2NTAzZWZhZQ==`

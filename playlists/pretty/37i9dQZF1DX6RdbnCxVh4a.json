@@ -1,12 +1,12 @@
 {
   "description": "Mode lecture al\u00e9atoire obligatoire.",
-  "num_followers": 25662,
+  "num_followers": 25740,
   "original_name": "boxon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YjgwMjIzNjkwMDg0ZjcwYjEwY2M1OTA4YzAzM2U1Y2Y4N2Y4ZjY4",
+  "snapshot_id": "MCxiMWFjYjk1ZGQzZjI5MDhhOGI0N2E2YjQ5OTU2Yjg0Mjg4OTY1MDJl",
   "tracks": [
     {
       "added_at": "2023-09-25 08:13:40",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-09-25 08:13:40",
       "album": {
-        "name": "First Two Pages of Frankenstein",
-        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 309400,
-      "name": "Tropic Morning News",
-      "url": "https://open.spotify.com/track/6oYXnC1pi6S8GJF32jvdmx"
-    },
-    {
-      "added_at": "2023-09-25 08:13:40",
-      "album": {
         "name": "Skinty Fia",
         "url": "https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 241093,
       "name": "Jackie Down The Line",
       "url": "https://open.spotify.com/track/3ITvhrRB5TlEks19k9qy2k"
+    },
+    {
+      "added_at": "2023-09-25 08:13:40",
+      "album": {
+        "name": "First Two Pages of Frankenstein",
+        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        }
+      ],
+      "duration_ms": 309400,
+      "name": "Tropic Morning News",
+      "url": "https://open.spotify.com/track/6oYXnC1pi6S8GJF32jvdmx"
     },
     {
       "added_at": "2023-09-25 08:13:40",

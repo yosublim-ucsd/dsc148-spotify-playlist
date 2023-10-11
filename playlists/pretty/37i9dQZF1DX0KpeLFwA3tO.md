@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: blink\-182
 
-[Spotify](https://open.spotify.com/user/spotify) - 295,762 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 295,759 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 | 99 | [Drop](https://open.spotify.com/track/2OxH7BbCRiY9fldXLX4VhI) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Drop](https://open.spotify.com/album/6sMn0pz6YR7V09IL0icryl) | 2:15 |
 | 100 | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/track/0mtGnMCDl70UkOi3VRnzY2) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Calm Down \(A Little Bit Louder Now\)](https://open.spotify.com/album/69u1Q1ds3YWF8VDM8rhJu6) | 2:42 |
 
-Snapshot ID: `MCxjODA4Yzk1NjJmMjE3ZjM5YWE0YjQzNDljYTI4Mzk5YWMwZTI1NWEw`
+Snapshot ID: `MCwyNzEyNWE1OGJiNjY5ODIyNTEzNTZkOWQ0NDAzNDgyYmEzYmUwZGJl`

@@ -1,12 +1,12 @@
 {
   "description": "Your favorite indie & alternative jams, reimagined and recorded exclusively for Spotify Singles. Cover: Ezra Koenig",
-  "num_followers": 104274,
+  "num_followers": 104282,
   "original_name": "Spotify Singles: Indie & Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjE5MmQ0MTQ4NzM1NTZhMWE5Y2Y3OWRmYzZkZDA4YmE5MWNiMzA2",
+  "snapshot_id": "MCw4ODI2MDI4NDFlMTQwNGM0ZjhjZmY4NzUwNDgyY2U1NGM3MWNjNjc4",
   "tracks": [
     {
       "added_at": "2023-01-11 22:54:33",
@@ -98,10 +98,6 @@
         {
           "name": "SahBabii",
           "url": "https://open.spotify.com/artist/7GuUYiGZOzQwq4L6gAfy1T"
-        },
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
         }
       ],
       "duration_ms": 135748,
@@ -511,22 +507,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Black Pumas (Expanded Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux"
-      },
-      "artists": [
-        {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
-        }
-      ],
-      "duration_ms": 261605,
-      "name": "Sugar Man",
-      "url": "https://open.spotify.com/track/6skjFQ6Rs3sQlE2nsIB9Nh"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2up3OPMp9Tb4dAKM2erWXQ"
       },
@@ -539,6 +519,22 @@
       "duration_ms": 205583,
       "name": "For You - Recorded At Spotify Studios Stockholm",
       "url": "https://open.spotify.com/track/4AHIgOApMmqVfpvc1hxK6x"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Black Pumas (Expanded Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 261605,
+      "name": "Sugar Man",
+      "url": "https://open.spotify.com/track/6skjFQ6Rs3sQlE2nsIB9Nh"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -624,22 +620,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 188528,
-      "name": "You Can Call Me Al - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2AgqXfsn2W4lXjchlqRyz1"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7LDRKBdy3nivZDXnwUrgAE"
       },
       "artists": [
@@ -651,6 +631,22 @@
       "duration_ms": 252240,
       "name": "Movement - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5EaHXf4tvFDKr3W2dDTlaO"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 188528,
+      "name": "You Can Call Me Al - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2AgqXfsn2W4lXjchlqRyz1"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -847,22 +843,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "macrodosing - Spotify Singles",
-        "url": "https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr"
-      },
-      "artists": [
-        {
-          "name": "Dua Saleh",
-          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
-        }
-      ],
-      "duration_ms": 170897,
-      "name": "macrodosing - Spotify Singles",
-      "url": "https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/6MfeMJhhtj6Aas0rDfkHcO"
       },
@@ -875,6 +855,22 @@
       "duration_ms": 281960,
       "name": "Cornflake Girl - Recorded At RAK Studios, London",
       "url": "https://open.spotify.com/track/0eJEcotVKze2Ioy4u0T7eR"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "macrodosing - Spotify Singles",
+        "url": "https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr"
+      },
+      "artists": [
+        {
+          "name": "Dua Saleh",
+          "url": "https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB"
+        }
+      ],
+      "duration_ms": 170897,
+      "name": "macrodosing - Spotify Singles",
+      "url": "https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1039,22 +1035,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 236644,
-      "name": "Feeling Like I Do - Spotify Singles",
-      "url": "https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Dance In The Dark (Spotify Singles)",
         "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
       },
@@ -1067,6 +1047,22 @@
       "duration_ms": 225366,
       "name": "Dance In The Dark - Spotify Singles",
       "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0mR7W6agdgHVdqHdz7KMRN"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 236644,
+      "name": "Feeling Like I Do - Spotify Singles",
+      "url": "https://open.spotify.com/track/2NqGPfYbG0MyeLi3EMmHuR"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1331,6 +1327,22 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 310400,
+      "name": "When the Night is Over - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2omW4OJrifRkLNb1byj0e6"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
         "name": "Black Pumas (Expanded Deluxe Edition)",
         "url": "https://open.spotify.com/album/1gn89OoC81JmZk95TMmOux"
       },
@@ -1347,22 +1359,6 @@
       "duration_ms": 269300,
       "name": "Colors",
       "url": "https://open.spotify.com/track/5MRB560kWM0Zr9evG1YQ4t"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 310400,
-      "name": "When the Night is Over - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2omW4OJrifRkLNb1byj0e6"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1532,6 +1528,22 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/68eMz3o7xJZLO9P2RJj2eI"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 221115,
+      "name": "Whole Wide World - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5aWs6pUwG4gPNJxCF4wOwy"
       },
       "artists": [
@@ -1547,22 +1559,6 @@
       "duration_ms": 257712,
       "name": "Come On Up To The House (feat. X Ambassadors) - Spotify Singles",
       "url": "https://open.spotify.com/track/2DVBF5MoZYTzxmfZl8ex2H"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/68eMz3o7xJZLO9P2RJj2eI"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 221115,
-      "name": "Whole Wide World - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/1r6JOvVgGQ2QU2uNrvk98g"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1695,22 +1691,6 @@
     {
       "added_at": "2023-01-11 22:54:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214410,
-      "name": "Lay It on Me - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/3WkcZXy8frwOqLdlzrOdph"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
         "name": "Spotify Singles (Recorded At Spotify Studios NYC)",
         "url": "https://open.spotify.com/album/2G0u5GF3ShGtNqpsrdPzcY"
       },
@@ -1723,6 +1703,22 @@
       "duration_ms": 204290,
       "name": "Maps - Recorded At Spotify Studios NYC",
       "url": "https://open.spotify.com/track/1eHbFX3dETUPt5oSzgmQDF"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3PtrWbEYEoqYWpgMeIAFb9"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214410,
+      "name": "Lay It on Me - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/3WkcZXy8frwOqLdlzrOdph"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1760,22 +1756,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
-      },
-      "artists": [
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 235979,
-      "name": "Pressure - Live at AIR Studios, London",
-      "url": "https://open.spotify.com/track/3aaKyI6jJUNaGGa9PVmzMz"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ucvkJnUz1XNMtrglreeEn"
       },
       "artists": [
@@ -1787,6 +1767,22 @@
       "duration_ms": 292687,
       "name": "Nocturne - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5T0gOPHHcr98UlcATj39XV"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2C5HYffMBumERQlNfceyrO"
+      },
+      "artists": [
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
+        }
+      ],
+      "duration_ms": 235979,
+      "name": "Pressure - Live at AIR Studios, London",
+      "url": "https://open.spotify.com/track/3aaKyI6jJUNaGGa9PVmzMz"
     },
     {
       "added_at": "2023-01-11 22:54:33",
@@ -1968,22 +1964,6 @@
       "added_at": "2023-01-11 22:54:33",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
-      },
-      "artists": [
-        {
-          "name": "Welles",
-          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
-        }
-      ],
-      "duration_ms": 251803,
-      "name": "Lovesong - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
-    },
-    {
-      "added_at": "2023-01-11 22:54:33",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1VSf2rThMsBiBira4kH0Ak"
       },
       "artists": [
@@ -1995,6 +1975,22 @@
       "duration_ms": 192522,
       "name": "If I Ever Was A Child - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/69eSem5Y1nrCaGi2FrQhVJ"
+    },
+    {
+      "added_at": "2023-01-11 22:54:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
+      },
+      "artists": [
+        {
+          "name": "Welles",
+          "url": "https://open.spotify.com/artist/6jobcjsqxweTygItqxfN5l"
+        }
+      ],
+      "duration_ms": 251803,
+      "name": "Lovesong - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
     },
     {
       "added_at": "2023-01-11 22:54:33",

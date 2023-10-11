@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29964,
+  "num_followers": 29995,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzYmJiZmQ3N2I5NWQ2NTA4ZjAyYzlhZTBhNTZkNWE5NmI2MGQzZjdh",
+  "snapshot_id": "MCxiODQ2ZWZlY2EwYTc5ZTc5NzkyMWQ2MWYyNzc4MmYyMmRmYmUwZDNi",
   "tracks": [
     {
       "added_at": "2023-07-31 16:03:37",
@@ -1943,6 +1943,22 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 236919,
+      "name": "The Truth Is",
+      "url": "https://open.spotify.com/track/4EzqNvmGUyGAqiAOivsydr"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "Ask Bout Me",
         "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
       },
@@ -1959,22 +1975,6 @@
       "duration_ms": 198893,
       "name": "Yacht (feat. Vic Mensa)",
       "url": "https://open.spotify.com/track/4qyXiEXiOfSxqn3YrY0NKW"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 236919,
-      "name": "The Truth Is",
-      "url": "https://open.spotify.com/track/4EzqNvmGUyGAqiAOivsydr"
     },
     {
       "added_at": "2023-07-31 16:03:37",

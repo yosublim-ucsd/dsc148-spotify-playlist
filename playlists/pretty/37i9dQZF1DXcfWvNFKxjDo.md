@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Joel Corry
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,160 likes - 75 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 283,282 likes - 75 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 9 | [Lullaby](https://open.spotify.com/track/3BAjEeh5aXku904NIK0nfR) | [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [Lullaby](https://open.spotify.com/album/2aRFXAUffmR3oMkQv3hMyG) | 2:14 |
 | 10 | [Disconnected](https://open.spotify.com/track/0elPKqkYWPPuhpaKAj1fPP) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Disconnected](https://open.spotify.com/album/4VQAVGBcC2gPvo3CyLlgrT) | 2:42 |
 | 11 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 |
-| 12 | [Higher Up](https://open.spotify.com/track/40wwHFwGXfaJVjp6pFAlKU) | [Maxim Schunk](https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB), [Renns](https://open.spotify.com/artist/1KuINlip3yVc0knS6EwR5b), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Higher Up](https://open.spotify.com/album/1sJAhPJuhHxnKUsoGXGqaR) | 2:44 |
+| 12 | [Higher Up](https://open.spotify.com/track/40wwHFwGXfaJVjp6pFAlKU) | [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [Maxim Schunk](https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB), [Renns](https://open.spotify.com/artist/1KuINlip3yVc0knS6EwR5b), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Higher Up](https://open.spotify.com/album/1sJAhPJuhHxnKUsoGXGqaR) | 2:44 |
 | 13 | [Sweat](https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU) | 2:12 |
 | 14 | [NRG](https://open.spotify.com/track/79Ojf7CxxJw04NP4d8hrf8) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [NRG](https://open.spotify.com/album/3S6FlsCt2FK6saAarcRoyy) | 2:26 |
 | 15 | [Turn The Lights Off](https://open.spotify.com/track/2L1FxAxL03r8Llu1AE3Slx) | [Braaheim](https://open.spotify.com/artist/5yczwlOmRZG3wUEtvLiGBg), [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1), [Dani Vidi](https://open.spotify.com/artist/1273CkIB0lP8EWV7OoqiKc) | [Turn The Lights Off](https://open.spotify.com/album/09Dp56mvYQrsseAyPRnVwu) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 74 | [Secrets](https://open.spotify.com/track/5P0quNgefuYhIMxeGCYdqs) | [Sergio Trillini](https://open.spotify.com/artist/632XNUTWRkhxOkb7y4698e) | [Secrets](https://open.spotify.com/album/1EoFFjUp5s2mK6K6cyvhRX) | 2:11 |
 | 75 | [Morning Light](https://open.spotify.com/track/7fJ5UGjo2oiNG1pmIboATC) | [Le Youth](https://open.spotify.com/artist/1Zz6NBe8UIZjm88TvehFtx) | [About Us](https://open.spotify.com/album/1hhz0ag2dAr0qw7W78smcT) | 4:33 |
 
-Snapshot ID: `MCw1ZDVmYzY4YzIwNjNiZjllMWEzODg0Y2ZhYTI3MmRmYzc3NTNiNjBk`
+Snapshot ID: `MCwwOTgxNDZlZDMwYTdmMWI1MzgxMTg2NTViNjQ0MGVlNzlkNjkzMzcy`

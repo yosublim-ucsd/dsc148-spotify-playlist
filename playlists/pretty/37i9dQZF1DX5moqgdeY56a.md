@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 
 > Antonio, Pepe, Ángela, Majo & Leonardo..\. Los Aguilar a través de las generaciones.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,150 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,206 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 30 | [Nadie Es Eterno](https://open.spotify.com/track/4i3uCgeimloYd8UgEj8Rkl) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 6](https://open.spotify.com/album/4KtbBbWdNmdbuNZj4QO3Ca) | 2:52 |
 | 31 | [Navajas En El Viento](https://open.spotify.com/track/6EhatS1CYbGwgn1Sip0nG7) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [Navajas En El Viento](https://open.spotify.com/album/2yGAqrfzTvChwWsB10c5Nj) | 3:45 |
 | 32 | [Ahí Donde Me Ven](https://open.spotify.com/track/7AU5lOckSQL0jOFNiv1uUy) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 4:04 |
-| 33 | [Amor Ilegal](https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amor Ilegal](https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW) | 2:50 |
-| 34 | [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 |
+| 33 | [Triste Recuerdo](https://open.spotify.com/track/7cE2WMUfKOaU0U7HMUdNaW) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Triste Recuerdo](https://open.spotify.com/album/5uR5QUOgcN5N7UcTbF6L7O) | 3:28 |
+| 34 | [Amor Ilegal](https://open.spotify.com/track/4RBH4sNzQen0YqoIhqw7Eg) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Amor Ilegal](https://open.spotify.com/album/65WCj2K3NGk7Qe63CKlvUW) | 2:50 |
 | 35 | [Cielo Rojo](https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Cielo Rojo](https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G) | 4:18 |
 | 36 | [Directo Al Corazón](https://open.spotify.com/track/659B2PbbBVtPwJh5QkB1WB) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Por Mujeres Como Tú](https://open.spotify.com/album/1i8KV89uJq08T3MTNEELgL) | 3:20 |
 | 37 | [Ni Contigo, Ni Sin Ti](https://open.spotify.com/track/4AH5SY6g1lITqkLwntQV75) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Pepe Aguilar te Acompaña en Navidad](https://open.spotify.com/album/5ecA4SaKr8pKR1tPHw2j3S) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5moqgdeY56a.md) - [plain]
 | 49 | [La Chancla](https://open.spotify.com/track/312yuF1Zl8N7M2RuuJ4MUi) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Rancheras de Relajo](https://open.spotify.com/album/5ZvBBcbj77jfjhfkvJtr7N) | 3:44 |
 | 50 | [Ando Que Me Lleva](https://open.spotify.com/track/5g3gJFLrcIpVW1G1JfO0uZ) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora, Vol\. 2](https://open.spotify.com/album/69YwhTINpm6QzCUz6ZwZUd) | 3:22 |
 
-Snapshot ID: `MCw2OTUyOGNkN2I2YzRlMTUzODg1NjhmMzk2MWM4YjA0Zjg0NmI3NDhk`
+Snapshot ID: `MCxhZmMyMTljMTM3MzJkZmM1NDMzMTdlNzUxNjU2ZDFmMjE1NTI0ZGFl`

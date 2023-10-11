@@ -1,12 +1,12 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 105339,
+  "num_followers": 105373,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMGI1ZDE1ODE1OWI5YTA0ZDFmMjMwODFiMzZlMWEwNzQyOTc5OTll",
+  "snapshot_id": "MCxiOGE0M2Q1ZmViMmM0OGYwOWQ5NzA2OWE3MWJjNDk2NjhkMTQwY2Y3",
   "tracks": [
     {
       "added_at": "2021-10-22 11:07:27",
@@ -271,22 +271,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "YosepH",
-        "url": "https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD"
-      },
-      "artists": [
-        {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
-        }
-      ],
-      "duration_ms": 257880,
-      "name": "I Love Acid",
-      "url": "https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "The Album",
         "url": "https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 326920,
       "name": "Bassline",
       "url": "https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "YosepH",
+        "url": "https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD"
+      },
+      "artists": [
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 257880,
+      "name": "I Love Acid",
+      "url": "https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw"
     },
     {
       "added_at": "2021-10-22 11:07:27",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-10-22 11:07:27",
       "album": {
-        "name": "The Big Cover-Up",
-        "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
-      },
-      "artists": [
-        {
-          "name": "Todd Terje & The Olsens",
-          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
-        }
-      ],
-      "duration_ms": 391222,
-      "name": "Firecracker",
-      "url": "https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx"
-    },
-    {
-      "added_at": "2021-10-22 11:07:27",
-      "album": {
         "name": "Behaviour: Further Listening 1990 - 1991 (2018 Remaster)",
         "url": "https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 247000,
       "name": "Miserablism - 2018 Remaster",
       "url": "https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA"
+    },
+    {
+      "added_at": "2021-10-22 11:07:27",
+      "album": {
+        "name": "The Big Cover-Up",
+        "url": "https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt"
+      },
+      "artists": [
+        {
+          "name": "Todd Terje & The Olsens",
+          "url": "https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq"
+        }
+      ],
+      "duration_ms": 391222,
+      "name": "Firecracker",
+      "url": "https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx"
     },
     {
       "added_at": "2021-10-22 11:07:27",

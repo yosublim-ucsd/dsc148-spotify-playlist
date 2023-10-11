@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,321 likes - 200 songs - 15 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,502 likes - 200 songs - 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 
-Snapshot ID: `MCxiODE1MDkxMmJkM2E1YThhM2IzOTkzODg0MGM4MzcwZmJkOWY0YzQ1`
+Snapshot ID: `MCxkMzlmYzk1ZjhlMjY5ZTQxNjlkYTA0YzRjYzNkMDhiODgzMzRiMWI5`

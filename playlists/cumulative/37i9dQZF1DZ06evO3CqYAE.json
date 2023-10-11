@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280424,
+      "name": "Chinedum",
+      "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
+    },
+    {
+      "album": {
         "name": "Chinedum",
         "url": "https://open.spotify.com/album/5V0vhc3p1EllrWsBNQR6Hh"
       },
@@ -100,7 +118,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 280440,
       "name": "Chinedum",
       "url": "https://open.spotify.com/track/2Ec5ca9NM0Rwb0MddtQSHI"
@@ -567,8 +585,8 @@
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 613918,
-      "name": "Oke Mmiri",
+      "duration_ms": 504000,
+      "name": "Oke Mmiri - Live",
       "url": "https://open.spotify.com/track/7ai3gQ391WGtQumyR1qI7e"
     },
     {
@@ -822,7 +840,7 @@
       ],
       "date_added": "2023-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 296751,
       "name": "Strong Tower",
       "url": "https://open.spotify.com/track/69dqXCQKvyZQyHdOpNKRVV"

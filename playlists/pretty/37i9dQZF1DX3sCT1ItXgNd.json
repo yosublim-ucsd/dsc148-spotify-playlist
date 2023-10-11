@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
-  "num_followers": 991022,
+  "num_followers": 992711,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YWE0ZDJlNGExNjcyMDcwZDIwOGY5M2YwYmI4MWJmOGQyMjUxNjUz",
+  "snapshot_id": "MCw5ZTczMmI5NGY5NGRlNjljNjQ4Mzk2NTlmY2I2NmE2N2MwYjJkZWU0",
   "tracks": [
     {
       "added_at": "2023-10-09 15:39:18",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
+        "name": "tu fan",
+        "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
+      },
+      "artists": [
+        {
+          "name": "mafalda cardenal",
+          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+        }
+      ],
+      "duration_ms": 240473,
+      "name": "tu fan",
+      "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
+    },
+    {
+      "added_at": "2023-10-09 15:39:18",
+      "album": {
         "name": "Santorini",
         "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
       },
@@ -227,18 +243,18 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
-        "name": "tu fan",
-        "url": "https://open.spotify.com/album/1vt9k84zvlnJKa3D3CNnzx"
+        "name": "Nunca Volvieron",
+        "url": "https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw"
       },
       "artists": [
         {
-          "name": "mafalda cardenal",
-          "url": "https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz"
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
         }
       ],
-      "duration_ms": 240473,
-      "name": "tu fan",
-      "url": "https://open.spotify.com/track/0tLXkjxahQsnZkKP2GXXf6"
+      "duration_ms": 201493,
+      "name": "Nunca Volvieron",
+      "url": "https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex"
     },
     {
       "added_at": "2023-10-09 15:39:18",
@@ -259,18 +275,22 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
-        "name": "Nunca Volvieron",
-        "url": "https://open.spotify.com/album/6Iqk4LhVsc56yikaL6TCvw"
+        "name": "ESQUINAS",
+        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
         }
       ],
-      "duration_ms": 201493,
-      "name": "Nunca Volvieron",
-      "url": "https://open.spotify.com/track/3vbPFmgM1KBVbnV0Ydwcex"
+      "duration_ms": 232795,
+      "name": "2NDO CHANCE",
+      "url": "https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx"
     },
     {
       "added_at": "2023-10-09 15:39:18",
@@ -291,26 +311,6 @@
       "duration_ms": 214800,
       "name": "XQ Sigues Pasando :(",
       "url": "https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE"
-    },
-    {
-      "added_at": "2023-10-09 15:39:18",
-      "album": {
-        "name": "ESQUINAS",
-        "url": "https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        }
-      ],
-      "duration_ms": 232795,
-      "name": "2NDO CHANCE",
-      "url": "https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx"
     },
     {
       "added_at": "2023-10-09 15:39:18",
@@ -363,26 +363,6 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
-        "name": "Paranoia",
-        "url": "https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD"
-    },
-    {
-      "added_at": "2023-10-09 15:39:18",
-      "album": {
         "name": "Olvid\u00e9 Olvidarte",
         "url": "https://open.spotify.com/album/3HKHxcUZx0qPs6iLacsp1P"
       },
@@ -399,6 +379,26 @@
       "duration_ms": 181840,
       "name": "Olvid\u00e9 Olvidarte",
       "url": "https://open.spotify.com/track/6nys7RehgP4R0KzSVGm3CI"
+    },
+    {
+      "added_at": "2023-10-09 15:39:18",
+      "album": {
+        "name": "Paranoia",
+        "url": "https://open.spotify.com/album/3yJW0HcMSssOheVWwXiOkq"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/2JJ9q46qjWALmWy9vjBTnD"
     },
     {
       "added_at": "2023-10-09 15:39:18",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
+        "name": "Hablando En Plata",
+        "url": "https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "duration_ms": 188345,
+      "name": "Hablando En Plata",
+      "url": "https://open.spotify.com/track/0XFNQRApcucLu0RZdbDB9F"
+    },
+    {
+      "added_at": "2023-10-09 15:39:18",
+      "album": {
         "name": "RESPIRAR",
         "url": "https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai"
       },
@@ -787,26 +807,6 @@
       "duration_ms": 190434,
       "name": "PIDE UN DESEO",
       "url": "https://open.spotify.com/track/1GBf0EYr9qC7KAPbrOHaf8"
-    },
-    {
-      "added_at": "2023-10-09 15:39:18",
-      "album": {
-        "name": "Hablando En Plata",
-        "url": "https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        },
-        {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
-        }
-      ],
-      "duration_ms": 188345,
-      "name": "Hablando En Plata",
-      "url": "https://open.spotify.com/track/0XFNQRApcucLu0RZdbDB9F"
     },
     {
       "added_at": "2023-10-09 15:39:18",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
-        "name": "Que se caiga el cielo",
-        "url": "https://open.spotify.com/album/3OS2rIj6cyb2K34ATaVh2t"
-      },
-      "artists": [
-        {
-          "name": "Marlon",
-          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
-        }
-      ],
-      "duration_ms": 227628,
-      "name": "Que se caiga el cielo",
-      "url": "https://open.spotify.com/track/5hpOWFyKa1hvE5DnCoGV2A"
-    },
-    {
-      "added_at": "2023-10-09 15:39:18",
-      "album": {
         "name": "TE TRAJE FLORES",
         "url": "https://open.spotify.com/album/4dzuTa3xJlpktfUcbp5i83"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 184792,
       "name": "TE TRAJE FLORES",
       "url": "https://open.spotify.com/track/4SRojgjWd8Vqc40sicAEC8"
+    },
+    {
+      "added_at": "2023-10-09 15:39:18",
+      "album": {
+        "name": "Que se caiga el cielo",
+        "url": "https://open.spotify.com/album/3OS2rIj6cyb2K34ATaVh2t"
+      },
+      "artists": [
+        {
+          "name": "Marlon",
+          "url": "https://open.spotify.com/artist/1RTZXV2Txeij9hW1C88mfs"
+        }
+      ],
+      "duration_ms": 227628,
+      "name": "Que se caiga el cielo",
+      "url": "https://open.spotify.com/track/5hpOWFyKa1hvE5DnCoGV2A"
     },
     {
       "added_at": "2023-10-09 15:39:18",

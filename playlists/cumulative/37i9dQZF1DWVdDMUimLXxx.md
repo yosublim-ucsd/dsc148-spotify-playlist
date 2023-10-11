@@ -4,7 +4,7 @@
 
 > Add dramatic flair to your strategy game.
 
-79 songs - 4 hr 7 min
+80 songs - 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Let's Run Away Together](https://open.spotify.com/track/7jxJHRmtMpGNR3EmxnspDB) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/4dgeskwXtoICOIJuPqXBAt) | 2:57 | 2022-04-22 | 2022-07-29 |
 | [Let's Run Away Together](https://open.spotify.com/track/2HfkmgoO8fLWRFeksDGpa6) | [Johannes Bornlöf](https://open.spotify.com/artist/1yLIaxyVkZnLMXhfRSYEjV) | [The Boy Who Flew Away](https://open.spotify.com/album/1s1aADIorXvJ1DUmMKxWId) | 2:57 | 2022-07-08 |  |
 | [Lost Crusaders](https://open.spotify.com/track/6gsZtwWWTFL2tpLXFKl2Rw) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Lost Crusaders](https://open.spotify.com/album/5BIJc879MbWsGzlAHOrST5) | 4:16 | 2022-09-02 |  |
+| [Lost Empire](https://open.spotify.com/track/7FS3ODVO5LkK9eoI4G2kb8) | [David Celeste](https://open.spotify.com/artist/14elbOcXjl043MKBKQuGPS) | [Lost Empire](https://open.spotify.com/album/6s5cPCbFitanKRBHYNHjk9) | 3:43 | 2023-10-10 |  |
 | [Love Theme For Linda](https://open.spotify.com/track/6yEKX6B4ehcaI2epFjkKtl) | [Ulf Janson](https://open.spotify.com/artist/6EY0o8bLVxMJlgpipFvfhK) | [Love Theme For Linda](https://open.spotify.com/album/0cBmUUiRdqPsX1NNU8U3QQ) | 2:03 | 2022-04-22 |  |
 | [MATI](https://open.spotify.com/track/6HeFLsBljHuuYdG4gUzlyE) | [Mallias](https://open.spotify.com/artist/7Jha5lv1MsoExRH2GMSNLk) | [MATI](https://open.spotify.com/album/41wh35g4nY8ilqZKYDBr4h) | 2:16 | 2022-04-22 |  |
 | [Mouvement Déterminé](https://open.spotify.com/track/6ryCqg8031fqxpL7Tic6qZ) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Mouvement Déterminé](https://open.spotify.com/album/70WIfeigUPwzlT0PUWSXAW) | 3:14 | 2022-04-22 |  |

@@ -4,13 +4,14 @@
 
 > A mixtape for the perfect anime fight scene.
 
-283 songs - 12 hr 5 min
+284 songs - 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [2077](https://open.spotify.com/track/6kRxT8sggyNJ6mYoSKTwCh) | [do not resurrect](https://open.spotify.com/artist/0QRp7CyL31iErUn6cX0YU3) | [2077](https://open.spotify.com/album/4MWsQHhgiMXbH3KkffTd7i) | 2:15 | 2023-04-25 | 2023-09-30 |
 | [2K FREESTYLE](https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF) | [Lazy3x](https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [2K FREESTYLE](https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm) | 3:33 | 2022-05-25 |  |
 | [5unna](https://open.spotify.com/track/2M1LHRfp0vsJKjKfKxOUx3) | [Homixide Gang](https://open.spotify.com/artist/2ojqsY1ycYzZOpLDBBwHPU), [R5 Homixide](https://open.spotify.com/artist/0dhgemnyYGddxaOFhqJ2Kw) | [Snotty World \(Deluxe\)](https://open.spotify.com/album/5Fy36L5DnmGWWmAQsq4Ido) | 1:40 | 2023-09-15 | 2023-09-27 |
+| [7AM](https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV) | [Adrian](https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA) | [7AM](https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1) | 2:25 | 2023-09-29 |  |
 | [90mh](https://open.spotify.com/track/2wzPI8E6xhswusjuFAP7rW) | [love shayla](https://open.spotify.com/artist/0SLChsZNfgO7zbH3gevHvE) | [90mh](https://open.spotify.com/album/2fVFQwzs6D0PSfUiXWkfZA) | 2:23 | 2022-09-15 | 2022-09-24 |
 | [90mh](https://open.spotify.com/track/3Njj92H4LXQq551pOR7vZE) | [love shayla](https://open.spotify.com/artist/0SLChsZNfgO7zbH3gevHvE) | [90mh](https://open.spotify.com/album/5QehQyl95YcyakJAjvOdw2) | 2:23 | 2022-08-05 | 2022-09-09 |
 | [90mh](https://open.spotify.com/track/1VxvGm1moDJ3svQlwjdBwA) | [Trefuego](https://open.spotify.com/artist/4HQfNWcXe8k5dlMHx4QrTP) | [90mh](https://open.spotify.com/album/7FwOvQz127KJx1S2bYkrJc) | 2:23 | 2022-06-10 | 2022-09-30 |
@@ -77,7 +78,7 @@
 | [e girl](https://open.spotify.com/track/1Sdf8Z17iHkcJGX2H5q6df) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [Letoa](https://open.spotify.com/artist/6x3qkVWtPGzHKCED9ATXrV) | [e girl](https://open.spotify.com/album/1UHAkH3U5IhqOYISO518LN) | 2:01 | 2022-06-01 | 2022-10-08 |
 | [E\-GIRLS ARE RUINING MY LIFE!](https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [E\-GIRLS ARE RUINING MY LIFE!](https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT) | 1:45 | 2022-05-25 |  |
 | [Erase Your Social](https://open.spotify.com/track/4uhvMW7ly7tJil31YYscAN) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [The Perfect LUV Tape](https://open.spotify.com/album/6LX75kNicFqjjiAOeZgN67) | 3:19 | 2022-05-25 | 2023-07-14 |
-| [EXORCIST](https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [KILL!](https://open.spotify.com/album/2Bk3pomO5BGIJrNhwjzqRE) | 1:34 | 2023-04-25 |  |
+| [EXORCIST](https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [KILL!](https://open.spotify.com/album/2Bk3pomO5BGIJrNhwjzqRE) | 1:34 | 2023-04-25 | 2023-10-11 |
 | [eyes \- vip mix](https://open.spotify.com/track/56rlMjA64EogThHrCENHDA) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [rave](https://open.spotify.com/album/1ysVukRMORU8J6Cpympwgw) | 2:23 | 2023-09-15 | 2023-09-27 |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-09-15 | 2023-09-27 |
 | [fear no man](https://open.spotify.com/track/3rQFAulh8ywHTvPRMRxVZ8) | [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [GAULTIER](https://open.spotify.com/album/3gAJr7IDHRv8qZvCDhQiaH) | 1:56 | 2023-09-15 | 2023-09-27 |

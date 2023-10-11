@@ -2,7 +2,7 @@
 
 ### [Classical Romance](https://open.spotify.com/playlist/37i9dQZF1DX4s3V2rTswzO)
 
-> Para ese momento especial, escucha estas piezas clásicas que van directo al corazón.
+> Set the scene for romance with beautiful classical music.
 
 99 songs - 7 hr 17 min
 
@@ -81,7 +81,7 @@
 | [Sheep May Safely Graze \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/5Y4NircviB9cWOEn3oVrF8) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [When the Bells Ring](https://open.spotify.com/album/39L6Mn2b1cuxpsUQ7Ck3qK) | 2:03 | 2023-03-31 | 2023-04-22 |
 | [Sheep May Safely Graze \- Arr\. by Alexis Ffrench](https://open.spotify.com/track/62vy0nReW4u7ct09gyUlxm) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX) | [Sheep May Safely Graze](https://open.spotify.com/album/35sLTSEVfSOZr37eTTdReu) | 2:03 | 2023-03-28 | 2023-04-01 |
 | [Sicilienne in E Minor \(After Handel's HWV 369\)](https://open.spotify.com/track/4RrqS5QeuCvi4VY4a8CDmZ) | [Anonymous](https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y), [Hitomi Niikura](https://open.spotify.com/artist/1JFGO7YoBFo4lzQGLXy1CR), [Yuri Umemura](https://open.spotify.com/artist/3YMEAK1xeRRw8vmVGDwFeI) | [Danza](https://open.spotify.com/album/6qmd2JNUUAYNg8NhExfCHX) | 2:39 | 2023-03-28 |  |
-| [Sicilienne, Op\. 78](https://open.spotify.com/track/7uGumfAbZ4lROA6wr0LP5E) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Harriet Krijgh](https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP), [Kamilla Isanbaeva](https://open.spotify.com/artist/3LZBJFYsHwyMu6pnl3RvUq) | [The French Album](https://open.spotify.com/album/2OFiVje1NA3KyOdioI1kak) | 3:31 | 2023-03-28 |  |
+| [Sicilienne, Op\. 78](https://open.spotify.com/track/7uGumfAbZ4lROA6wr0LP5E) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Harriet Krijgh](https://open.spotify.com/artist/5V9Qpd9ZLs4gcrADy24ABP), [Kamilla Isanbaeva](https://open.spotify.com/artist/3LZBJFYsHwyMu6pnl3RvUq) | [The French Album](https://open.spotify.com/album/2OFiVje1NA3KyOdioI1kak) | 3:31 | 2023-03-28 | 2023-10-11 |
 | [Siegfried Idyll](https://open.spotify.com/track/0AoBVHrn422YM52l4TAS0P) | [Richard Wagner](https://open.spotify.com/artist/1C1x4MVkql8AiABuTw6DgE), [Swedish Chamber Orchestra](https://open.spotify.com/artist/1mlMBjVFn5oeZLAXHIM5no), [Thomas Dausgaard](https://open.spotify.com/artist/58CE0vlZwCJZ8pLzctnt2B) | [Wagner: Wesendonck\-Lieder \- Siegfried\-Idyll](https://open.spotify.com/album/3znjjW6oBlje6noIsHkF75) | 17:10 | 2021-12-20 | 2023-03-29 |
 | [Sonata for Cello and Piano No\. 4 in C Major, Op\. 102 No\. 1: I\. Andante](https://open.spotify.com/track/0EKPj41uhOc0r0UjkKbjsm) | [Ludwig van Beethoven](https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS), [Mischa Maisky](https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I), [Martha Argerich](https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4) | [Beethoven: Cello Sonatas Op.69 & 102; Variations](https://open.spotify.com/album/78ZbLKWcIAkdgY50qDRMIA) | 2:59 | 2023-03-28 |  |
 | [String Quartet No\. 3, Op\. 44 No\. 1, MWV R30: II\. Menuetto\. Up poco allegretto](https://open.spotify.com/track/6tOJ0ShJiEx6XXUQ0NgbYj) | [Felix Mendelssohn](https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710), [Doric String Quartet](https://open.spotify.com/artist/5eY6Yc7jVMpdIXgUI2spLr) | [Mendelssohn: String Quartets, Vol\. 2](https://open.spotify.com/album/0bCanBuTghKVuMhttLQZca) | 5:10 | 2021-12-20 | 2023-03-29 |

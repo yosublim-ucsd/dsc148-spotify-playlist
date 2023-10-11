@@ -1,12 +1,12 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: James Francis",
-  "num_followers": 34054,
+  "num_followers": 34112,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTBhODgyZTg1NmQxNzQxNzE2OWRhODFhMzVhMWE4OWJmNTYwNGQ0",
+  "snapshot_id": "MCw2MDdmMWFkYjQwM2NiZDA5ODg2ODEyYmFhY2FkNzkwZTQyODY5ZTRi",
   "tracks": [
     {
       "added_at": "2023-10-06 00:01:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
+        "name": "Le club",
+        "url": "https://open.spotify.com/album/2z6MP9UZpaod9KNSKmKDOz"
+      },
+      "artists": [
+        {
+          "name": "The Offline",
+          "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9"
+        }
+      ],
+      "duration_ms": 190080,
+      "name": "Le club",
+      "url": "https://open.spotify.com/track/1ksWrHM0fbcNpBMaKGNnOS"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
         "name": "SGJAZZ, Vol. 2",
         "url": "https://open.spotify.com/album/0A7nQz0OVtaozlGtWNQYKB"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 90600,
       "name": "Night Swim",
       "url": "https://open.spotify.com/track/0COa6aw2qYulXlzsraUqCk"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Le club",
-        "url": "https://open.spotify.com/album/2z6MP9UZpaod9KNSKmKDOz"
-      },
-      "artists": [
-        {
-          "name": "The Offline",
-          "url": "https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9"
-        }
-      ],
-      "duration_ms": 190080,
-      "name": "Le club",
-      "url": "https://open.spotify.com/track/1ksWrHM0fbcNpBMaKGNnOS"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -783,26 +783,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Nardis",
-        "url": "https://open.spotify.com/album/2DL0X8hLdbYSKlBUIgTqG2"
-      },
-      "artists": [
-        {
-          "name": "UKDD",
-          "url": "https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8"
-        },
-        {
-          "name": "Soul Food Horns",
-          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "Nardis",
-      "url": "https://open.spotify.com/track/0MO6SnNz53dYGbAb0UFBx9"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "Come Again",
         "url": "https://open.spotify.com/album/6CoPJwN6vjxLbi7tA0Fmdu"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 203574,
       "name": "Come Again",
       "url": "https://open.spotify.com/track/33b5uoFVzbQDe9vCmJu45J"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Nardis",
+        "url": "https://open.spotify.com/album/2DL0X8hLdbYSKlBUIgTqG2"
+      },
+      "artists": [
+        {
+          "name": "UKDD",
+          "url": "https://open.spotify.com/artist/14AiEXtiaKk6yF7YO2fap8"
+        },
+        {
+          "name": "Soul Food Horns",
+          "url": "https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "Nardis",
+      "url": "https://open.spotify.com/track/0MO6SnNz53dYGbAb0UFBx9"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Doomed",
-        "url": "https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        }
-      ],
-      "duration_ms": 272124,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "fugla",
         "url": "https://open.spotify.com/album/2MyxEuKVIJgT2RHpK2HpUO"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 130240,
       "name": "fugla",
       "url": "https://open.spotify.com/track/38tYOR0HDj5UA2hev4YZvJ"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/53AJ5qgFQh5z377zjBCi9P"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        }
+      ],
+      "duration_ms": 272124,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4tFdR7HgWWVpmh7vflca1d"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
+        "name": "Routes To Knowledge",
+        "url": "https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl"
+      },
+      "artists": [
+        {
+          "name": "The Golden Eternity",
+          "url": "https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu"
+        }
+      ],
+      "duration_ms": 177201,
+      "name": "Routes To Knowledge",
+      "url": "https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
         "name": "Digilog I",
         "url": "https://open.spotify.com/album/0aLKKlg3Ax9BGfaDv7LQ3V"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 181258,
       "name": "Waiting",
       "url": "https://open.spotify.com/track/1SDTig6UDgcSrDBHmXDne2"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Routes To Knowledge",
-        "url": "https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl"
-      },
-      "artists": [
-        {
-          "name": "The Golden Eternity",
-          "url": "https://open.spotify.com/artist/4aqECXxlXiQKDaOIJYrwTu"
-        }
-      ],
-      "duration_ms": 177201,
-      "name": "Routes To Knowledge",
-      "url": "https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Dominoes",
-        "url": "https://open.spotify.com/album/6Bt1kYgQdHFiFzo25V5KsB"
-      },
-      "artists": [
-        {
-          "name": "moondiver",
-          "url": "https://open.spotify.com/artist/1RwPRnLOygluoe1EJTCIgp"
-        }
-      ],
-      "duration_ms": 260153,
-      "name": "Dominoes",
-      "url": "https://open.spotify.com/track/0MgjvVDcrFz9Y4ECI4KNOM"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "Sweet Nothings",
         "url": "https://open.spotify.com/album/0eFa1m5BblZrUWym0SJrpo"
       },
@@ -1803,6 +1787,22 @@
       "duration_ms": 140838,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/5y2xnNe1bxYXwpfWyWIiQ1"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Dominoes",
+        "url": "https://open.spotify.com/album/6Bt1kYgQdHFiFzo25V5KsB"
+      },
+      "artists": [
+        {
+          "name": "moondiver",
+          "url": "https://open.spotify.com/artist/1RwPRnLOygluoe1EJTCIgp"
+        }
+      ],
+      "duration_ms": 260153,
+      "name": "Dominoes",
+      "url": "https://open.spotify.com/track/0MgjvVDcrFz9Y4ECI4KNOM"
     },
     {
       "added_at": "2023-10-06 00:01:00",

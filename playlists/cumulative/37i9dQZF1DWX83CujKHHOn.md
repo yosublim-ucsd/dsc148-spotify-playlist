@@ -4,7 +4,7 @@
 
 > Being alone \(again\) can be tough, but these songs will keep you company.
 
-356 songs - 22 hr 6 min
+358 songs - 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [Can I Be Him](https://open.spotify.com/track/0VhgEqMTNZwYL1ARDLLNCX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Back from the Edge](https://open.spotify.com/album/7oiJYvEJHsmYtrgviAVIBD) | 4:06 | 2021-12-06 |  |
 | [Can't Go Back](https://open.spotify.com/track/6oz8T0xhXzkEVxyelC3Hc3) | [Rosi Golan](https://open.spotify.com/artist/1eggYygEtBl6TJv5CtkYn7) | [Lead Balloon](https://open.spotify.com/album/5xcKokaga7HALAx6Iy2MBB) | 3:47 | 2022-01-05 | 2022-04-21 |
 | [cellophane](https://open.spotify.com/track/7x8pIrhMu9FCmqqHNyuH0P) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [MAGDALENE](https://open.spotify.com/album/3DMR3yM5crnt1dG9lLaMTZ) | 3:24 | 2022-08-05 | 2023-05-31 |
-| [Champion](https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Champion](https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt) | 2:53 | 2021-12-06 |  |
+| [Champion](https://open.spotify.com/track/1z1mMZtZW0gvR9FSPc7JpJ) | [Elina](https://open.spotify.com/artist/4K9OTkRXEFL6NDXFTqVmq9) | [Champion](https://open.spotify.com/album/7Bn79CglkuFFWRJa7w5FPt) | 2:53 | 2021-12-06 | 2023-10-11 |
 | [Chandelier \- Piano Version](https://open.spotify.com/track/0Ha4WnjeGxmsnzTnlEvjvZ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 4:01 | 2022-01-05 |  |
 | [Ciao, Bella](https://open.spotify.com/track/1JxadVAaAPwYnzGV5KWTtu) | [Lesha](https://open.spotify.com/artist/796yJgEbZmYnqJKvWNfeIi) | [Ciao, Bella](https://open.spotify.com/album/2FJiVWqvCTiDbPymkO43r4) | 4:12 | 2022-03-18 | 2022-07-29 |
 | [Close To You](https://open.spotify.com/track/6D2tzc8kRnZb7P1lNwMBLH) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:43 | 2021-12-06 |  |
@@ -123,6 +123,7 @@
 | [I Can't Save Us](https://open.spotify.com/track/4tfdz4KQW9DmDAAVJiUXBh) | [After Nourway](https://open.spotify.com/artist/1db4VIGVnfIOdVnQv5hQfH) | [I Can't Save Us](https://open.spotify.com/album/5xc8ACw8fyfo3Bu6KByL43) | 5:43 | 2022-07-08 | 2022-07-23 |
 | [I Could Use a Love Song](https://open.spotify.com/track/09iyGiljLWRYXdRazFkdtJ) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [HERO \(Deluxe Edition\)](https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK) | 3:16 | 2023-02-03 |  |
 | [i don't wanna fall](https://open.spotify.com/track/0LC1h8rusvI7cgVLm1kaiR) | [Grey Zeigler](https://open.spotify.com/artist/7KPQ1gyjGeNrDCySwrXAhI) | [i don't wanna fall](https://open.spotify.com/album/6oIpqp8C7fajHbgc6ctWYZ) | 2:45 | 2022-03-07 | 2022-07-27 |
+| [I Don't Wanna Leave Just Yet](https://open.spotify.com/track/5hM0JAqF7VzzD8JxU5RbYL) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [I Don't Wanna Leave Just Yet](https://open.spotify.com/album/5CA5LlVVLzW1XCF6ESiCGq) | 3:05 | 2023-10-10 |  |
 | [I Don't Wanna See You with Her](https://open.spotify.com/track/1gs1wX1reGRMb775gtQNCs) | [Maria Mena](https://open.spotify.com/artist/3rTRHzFfbTk5GL3LpYZGHR) | [I Don't Wanna See You with Her](https://open.spotify.com/album/7eSV4Y9VZ45dr3XTTM70EI) | 3:43 | 2021-12-06 | 2022-11-13 |
 | [I Don't Want to Change You](https://open.spotify.com/track/0rryOf4AVjQdDDgotJ3PbS) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [I Don't Want to Change You](https://open.spotify.com/album/5XjLh03TyuPPWZWMYQeExC) | 5:26 | 2022-01-05 | 2022-04-21 |
 | [I Don't Want You Back](https://open.spotify.com/track/38nKfxyRrjYfx0ODX1W5yB) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Hopeful](https://open.spotify.com/album/2HkUMYp8oYG62y7qKK2olM) | 3:44 | 2022-04-29 |  |
@@ -139,7 +140,7 @@
 | [I know it won't work](https://open.spotify.com/track/3weQKQG9ZuqgYAZVswovYS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/1KR6xkLa2lvdvCABYlk7OO) | 4:05 | 2023-02-24 | 2023-07-05 |
 | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/track/2xmrfQpmS2iJExTlklLoAL) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/album/78zct4Yn5hwMqrlh5uQedB) | 3:25 | 2021-12-06 | 2022-07-29 |
 | [I Miss You \(feat\. Julia Michaels\)](https://open.spotify.com/track/0Ult84lvFuqNvbyXwyRQ58) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [What Is Love? \(Deluxe Edition\)](https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc) | 3:25 | 2022-07-08 |  |
-| [I Never Told You](https://open.spotify.com/track/2rJWnAqSuLMls0KOv416Io) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Breakthrough \(Deluxe Edition\)](https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8) | 3:53 | 2022-01-05 |  |
+| [I Never Told You](https://open.spotify.com/track/2rJWnAqSuLMls0KOv416Io) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Breakthrough \(Deluxe Edition\)](https://open.spotify.com/album/3spYzDjQBTJuBM6VhoFah8) | 3:53 | 2022-01-05 | 2023-10-11 |
 | [I Will Remember You](https://open.spotify.com/track/0HWP0zWAUviRgsXdqCCOSc) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Closer: The Best Of Sarah McLachlan \(Deluxe Version\)](https://open.spotify.com/album/3RfooZA6Pvw8odFuOvnjhB) | 4:51 | 2022-10-28 | 2022-11-13 |
 | [I Will Remember You](https://open.spotify.com/track/0NkqfPo6Z4UpKq9ThAvpaa) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [The Essential Sarah McLachlan](https://open.spotify.com/album/4iTYqcQFGfJeVow2bn2nsU) | 4:51 | 2022-01-05 | 2022-04-20 |
 | [I Wrote You a Letter](https://open.spotify.com/track/6MjDnmBgbCu2UfDK0DRczh) | [Fudasca](https://open.spotify.com/artist/3gVs02kUSkMOkErgzttj7T), [Thomas Reid](https://open.spotify.com/artist/0dcxj82ddksd6tDDcJgbqo) | [Youth](https://open.spotify.com/album/2yMNSyP4jE7YVvc0VFwyZM) | 2:40 | 2021-12-06 | 2022-07-29 |
@@ -216,6 +217,7 @@
 | [Never Be Alone](https://open.spotify.com/track/4LWIp8HAFxpfg37mnxHqCS) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten](https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ) | 3:35 | 2022-07-08 |  |
 | [Never Be Alone](https://open.spotify.com/track/2K4qtTAE8fjFaIUBFTuj1a) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Never Be Alone](https://open.spotify.com/album/0peR91ylvMQsYxyNPP93BR) | 3:35 | 2021-12-06 | 2022-07-29 |
 | [Never Be Mine](https://open.spotify.com/track/40X3bzEwiAyvjo9b9vOS5M) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [Never Be Mine](https://open.spotify.com/album/7MigeuNpatBwRQB5n0CWui) | 3:42 | 2023-03-31 | 2023-07-18 |
+| [Never Get Over You](https://open.spotify.com/track/68Y2EMgrAZDrwRIlhWxLxa) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [Never Get Over You](https://open.spotify.com/album/3s5eczhgSVYS1dhBao4UQu) | 3:40 | 2023-10-10 |  |
 | [Never Say Never](https://open.spotify.com/track/57uX2vR9j9DNiANDYfXw1i) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray](https://open.spotify.com/album/3ibdlhMmbFPMYoWvwHCzI3) | 4:16 | 2021-12-06 |  |
 | [No Matter](https://open.spotify.com/track/5Q1m46EdcNAkg0Ht0f3YgC) | [Cinzia & The Eclipse](https://open.spotify.com/artist/3eyyNHkVEK4Hy9Qnw7i13W) | [No Matter](https://open.spotify.com/album/5NRbTPuE8enOjvcKkuhzDP) | 3:09 | 2021-12-06 | 2022-07-24 |
 | [No Peace](https://open.spotify.com/track/5ZX1X9Rl4zbx1Wwyn3idVD) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ) | 4:43 | 2021-12-06 |  |

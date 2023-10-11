@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Artie 5ive, Baby Gang, Slings e tanti altri.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,885 likes - 80 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,918 likes - 80 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 79 | [PUBLIC EYE](https://open.spotify.com/track/3HujGEA0Gt9AMX5xPAM90b) | [fxs](https://open.spotify.com/artist/75E46nbLjmQvjO478IsXAZ) | [PUBLIC EYE](https://open.spotify.com/album/1WkxcPl7pZWpXZojDJJlGk) | 2:38 |
 | 80 | [Adesso e ora](https://open.spotify.com/track/1WG7INmzIDlc6nY0FdHBES) | [Aleam](https://open.spotify.com/artist/7wDD1hvJRRHrs2WSEFlswM), [Daniele Franzese](https://open.spotify.com/artist/370EsCiUQUG0uQQ8NytAPI), [Clementino](https://open.spotify.com/artist/0ba6wsfB7G2rhdHMebCdO3) | [Adesso e ora](https://open.spotify.com/album/59KLkV4qeoNnZUCKIplYyx) | 3:17 |
 
-Snapshot ID: `MCwzOWJkYTU1OTJjMTdmMjZjYmIyNjIxOGVjODBjZjU3ZmEwNDE2OTlj`
+Snapshot ID: `MCxiYTllMzhiMjQ4MmI2YmVlNzA3MTM4Y2I1NGE5YWIyNDhmNzg1ZThj`

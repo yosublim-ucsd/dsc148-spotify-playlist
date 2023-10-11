@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1980s.
 
-308 songs - 21 hr 12 min
+309 songs - 21 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Ain't Nobody](https://open.spotify.com/track/3LvwBSqRXnDeTFqxxQcBBY) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW) | [Ain't Nobody: Soul & Groove Classics](https://open.spotify.com/album/4IxO5MMRzeLa3zlZZOYEaj) | 4:45 | 2021-01-07 | 2022-07-29 |
 | [Ain't Nobody](https://open.spotify.com/track/53Za5vyGc1x7GxgJVRjRKc) | [Rufus](https://open.spotify.com/artist/3MCjwjfIor5FkK3h639qkW), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Stompin' At The Savoy](https://open.spotify.com/album/3j0kxKahatiR5d0sPPtTjP) | 4:45 | 2021-01-07 |  |
 | [All Night Long \(All Night\)](https://open.spotify.com/track/1DxT6f6mH7kLriOUWbujup) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 6:22 | 2021-01-07 | 2022-07-29 |
+| [All Night Long \(All Night\)](https://open.spotify.com/track/7gaQtc0vrSpmRJpSMDiPEk) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down \(Deluxe Edition\)](https://open.spotify.com/album/609oTPBaxPzZUCHzQikOtC) | 6:23 | 2021-01-07 |  |
 | [Always on My Mind](https://open.spotify.com/track/07ABETRdek3ACMpRPvQuaT) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Discography \- Complete Singles Collection](https://open.spotify.com/album/0Jt2LzWgtGxy3GZH5i2Kcy) | 3:54 | 2021-09-08 | 2022-07-29 |
 | [Americanos](https://open.spotify.com/track/0WFyFJBpLuarpIQTMQ5Lr3) | [Holly Johnson](https://open.spotify.com/artist/6IDifUtaIPK4yuAiq5W2iG) | [Blast](https://open.spotify.com/album/2r9fw0nRxU66dI5B95GPNs) | 3:35 | 2021-09-08 | 2022-07-29 |
 | [Annie, I'm Not Your Daddy](https://open.spotify.com/track/5paJLghWSGmEf6sY7LeYel) | [Kid Creole And The Coconuts](https://open.spotify.com/artist/6KPWnJouOHhX0ZhscJsIU1) | [The Best Of Kid Creole & The Coconuts](https://open.spotify.com/album/4sxYCvb4V1M2XX1yrZveFD) | 3:47 | 2021-09-08 | 2022-07-29 |
@@ -200,7 +201,7 @@
 | [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 | 2021-01-07 |  |
 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 | 2021-09-08 |  |
 | [On The Radio](https://open.spotify.com/track/41v23mPw4Se92JKUGvnkmW) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [On The Radio: Greatest Hits Volumes I & II](https://open.spotify.com/album/1DeQ0MqQiY2RpMSMFEsILA) | 4:01 | 2021-09-08 |  |
-| [One Night In Bangkok \- Radio Edit / From “Chess” / Remastered 2016](https://open.spotify.com/track/1xgqGXZW1udHCjuwjeRDVO) | [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR) | [One Night In Bangkok \(Radio Edit / From “Chess” / Remastered 2016\)](https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g) | 3:13 | 2021-09-08 |  |
+| [One Night In Bangkok \- Radio Edit / From “Chess” / Remastered 2016](https://open.spotify.com/track/1xgqGXZW1udHCjuwjeRDVO) | [Murray Head](https://open.spotify.com/artist/479Yp6DvyXoIaCssAxB4QR) | [One Night In Bangkok \(Radio Edit / From “Chess” / Remastered 2016\)](https://open.spotify.com/album/0t3C9Mp3pJceakRaQmwr9g) | 3:13 | 2021-09-08 | 2023-10-11 |
 | [Open Your Heart](https://open.spotify.com/track/6poribUG9PSY1eudyCjJTS) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue \(Reissue\)](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:13 | 2021-09-08 | 2022-07-18 |
 | [Our House](https://open.spotify.com/track/1EXrFPfVNVsyb32yapebbM) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [The Rise & Fall](https://open.spotify.com/album/6CZkNYiE9HGqRlGFprzR4i) | 3:23 | 2021-01-07 | 2022-07-29 |
 | [Papa Don't Preach](https://open.spotify.com/track/6A8OnjnpShshNpcqWtZRjr) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [True Blue](https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD) | 4:28 | 2021-09-08 |  |

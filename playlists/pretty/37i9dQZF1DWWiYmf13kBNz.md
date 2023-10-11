@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 
 > Feels like falling in love in the 50s
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,223 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,395 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 31 | [When I Fall In Love](https://open.spotify.com/track/6s6h2XK7Nl8lEcTzr7ezeB) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Love Is The Thing](https://open.spotify.com/album/0M74fKKEBEFUSmiGbjIkps) | 3:10 |
 | 32 | [Lonesome Town](https://open.spotify.com/track/0SsYlkXxZ5vkWOTsKxMfMz) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Sings Again \(Expanded Edition / Remastered\)](https://open.spotify.com/album/30csxUzrzcgwuOT5QVmFmg) | 2:14 |
 | 33 | [I've Got You Under My Skin \- Remastered 1998](https://open.spotify.com/track/3aEJMh1cXKEjgh52claxQp) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Songs For Swingin' Lovers! \(Remastered\)](https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc) | 3:43 |
-| 34 | [La Vie en rose](https://open.spotify.com/track/3lAun9V0YdTlCSIEXPvfsY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 3:07 |
-| 35 | [Forever \- Single Version](https://open.spotify.com/track/5rWyKJMaTXL0TArnJ8IGts) | [The Little Dippers](https://open.spotify.com/artist/0cT2S58Ulp0BGro6KXAm56) | [Forever](https://open.spotify.com/album/7zV5IIfdqRHHRAUNkQ3aLX) | 2:23 |
+| 34 | [Forever \- Single Version](https://open.spotify.com/track/5rWyKJMaTXL0TArnJ8IGts) | [The Little Dippers](https://open.spotify.com/artist/0cT2S58Ulp0BGro6KXAm56) | [Forever](https://open.spotify.com/album/7zV5IIfdqRHHRAUNkQ3aLX) | 2:23 |
+| 35 | [La Vie en rose](https://open.spotify.com/track/3lAun9V0YdTlCSIEXPvfsY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Edith Piaf \- The Best Of](https://open.spotify.com/album/6I2DFKuP1jIsibWllFGY3Q) | 3:07 |
 | 36 | [Misty](https://open.spotify.com/track/5oEJyOsT68BDRwLoQQJl6W) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:29 |
 | 37 | [I'm In The Mood For Love](https://open.spotify.com/track/6crfO56bDm0RjpctUuGs5X) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:29 |
 | 38 | [Call Me Irresponsible \- 2001 Remaster](https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [From Hello Dolly To Goodbye Charlie](https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug) | 2:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 49 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 2:59 |
 | 50 | [She's Got You \- Single Version](https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:01 |
 
-Snapshot ID: `MCxmNWY4MmZkNzc2ZTYzYmVmOGExZWVkZTU1NTgxMGM5NzBhODk5YzFj`
+Snapshot ID: `MCxhMzhjMjAzNjdmNWFjMzI1NzI1MjY3YjhlZjZiZjI3YmUxNDY5ZTJl`

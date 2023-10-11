@@ -1,12 +1,12 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 383165,
+  "num_followers": 383237,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmZjYTFmNTU2YWY4NzQ3NzYyZTQwODJjNzlmMDI1ZmI1MTJlNGZj",
+  "snapshot_id": "MCxhNWVkODY1YWY3OThkMzQ5YzNjZjk1YzMxZTUwYWY0YjVlYTA4ODhl",
   "tracks": [
     {
       "added_at": "2023-08-21 00:02:44",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
+        "name": "Too Cold At Home",
+        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
+      },
+      "artists": [
+        {
+          "name": "Mark Chesnutt",
+          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Brother Jukebox",
+      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
         "name": "Nashville Rebel",
         "url": "https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 153200,
       "name": "Mammas, Don't Let Your Babies Grow Up to Be Cowboys",
       "url": "https://open.spotify.com/track/1gKSpFpX3poa17WIAyFVsp"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
-        "name": "Too Cold At Home",
-        "url": "https://open.spotify.com/album/4AayO56uNmJLHcHtF0aTpA"
-      },
-      "artists": [
-        {
-          "name": "Mark Chesnutt",
-          "url": "https://open.spotify.com/artist/2cNV8vNe2fPFf6OfGOBbSS"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Brother Jukebox",
-      "url": "https://open.spotify.com/track/1Ov6koHfZL43pGCDdfIoHf"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -943,6 +943,22 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
+        "name": "Ultimate Clint Black",
+        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
+      },
+      "artists": [
+        {
+          "name": "Clint Black",
+          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Killin' Time",
+      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
         "name": "Ultimate Dolly Parton",
         "url": "https://open.spotify.com/album/03DTXxfU0UJ96lt1umUtts"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 249293,
       "name": "Islands In the Stream",
       "url": "https://open.spotify.com/track/4dqEzdFAYkj1rjYLVDuTlN"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
-        "name": "Ultimate Clint Black",
-        "url": "https://open.spotify.com/album/3fsGT85qu4Jhvs9htCgygz"
-      },
-      "artists": [
-        {
-          "name": "Clint Black",
-          "url": "https://open.spotify.com/artist/3Ay15wt0QChT4Kapsuw5Jt"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Killin' Time",
-      "url": "https://open.spotify.com/track/4H2TRR9FjnnIwxGnIt9stO"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1091,30 +1091,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Trio (2016 Remaster)",
-        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        },
-        {
-          "name": "Emmylou Harris",
-          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
-        }
-      ],
-      "duration_ms": 216573,
-      "name": "Wildflowers - 2015 Remaster",
-      "url": "https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Sentimentally Yours",
         "url": "https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ"
       },
@@ -1147,6 +1123,30 @@
       "duration_ms": 236626,
       "name": "Meet Me In Montana",
       "url": "https://open.spotify.com/track/0qXUwQbZHFnhAGCgqwz2lR"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Trio (2016 Remaster)",
+        "url": "https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        },
+        {
+          "name": "Emmylou Harris",
+          "url": "https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP"
+        }
+      ],
+      "duration_ms": 216573,
+      "name": "Wildflowers - 2015 Remaster",
+      "url": "https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Get Rhythm / I Walk the Line",
-        "url": "https://open.spotify.com/album/1ybcnccmuEwjwx9Y8NzvRH"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        },
-        {
-          "name": "The Tennessee Two",
-          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
-        }
-      ],
-      "duration_ms": 163045,
-      "name": "I Walk The Line - Single Version",
-      "url": "https://open.spotify.com/track/0e1mMD6Pkn7zd9mhCQnrsY"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "The Essential Porter Wagoner & Dolly Parton",
         "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 156160,
       "name": "The Last Thing On My Mind",
       "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Get Rhythm / I Walk the Line",
+        "url": "https://open.spotify.com/album/1ybcnccmuEwjwx9Y8NzvRH"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        },
+        {
+          "name": "The Tennessee Two",
+          "url": "https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt"
+        }
+      ],
+      "duration_ms": 163045,
+      "name": "I Walk The Line - Single Version",
+      "url": "https://open.spotify.com/track/0e1mMD6Pkn7zd9mhCQnrsY"
     },
     {
       "added_at": "2023-08-21 00:02:44",

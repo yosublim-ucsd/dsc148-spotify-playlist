@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels, updated every Wednesday\. Cover: Jon Darc, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,022 likes - 80 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,025 likes - 80 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 79 | [Night Dive](https://open.spotify.com/track/3HTmeBzVuuIDVipmH1LYUA) | [Pete Gelée](https://open.spotify.com/artist/3hnWBzPHPTCjeWKsMcsFTW), [Gelée](https://open.spotify.com/artist/20Aw9gD1C3jArExAqKkTmX) | [Skinny Dipping](https://open.spotify.com/album/3fqCFFaVvL05Dd49oyULrQ) | 3:48 |
 | 80 | [Das stimmt doch gar nicht](https://open.spotify.com/track/0VPbCiBVoZfIZ0WX4jVqCt) | [MYA](https://open.spotify.com/artist/14TYA16u3JaszjSQTLxtsS) | [Das stimmt doch gar nicht](https://open.spotify.com/album/7s8EMDgQIWv3xBCsdYHxlt) | 3:02 |
 
-Snapshot ID: `MCwwMGI5MzMwMGUwY2Y1ZjRmNmM1NDMxYzEwMTdjZGZiNTJiODRmOTIz`
+Snapshot ID: `MCxhMzIzMjMzMTdmZmNhNWI3ODQ0ZDEwMDY0YzNjYzAzMTVhOTMwYjA2`

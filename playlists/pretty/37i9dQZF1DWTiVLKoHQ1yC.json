@@ -1,12 +1,12 @@
 {
   "description": "Come alive with this progressive & melodic house selection.",
-  "num_followers": 165704,
+  "num_followers": 165811,
   "original_name": "Melodic & Euphoric",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDFiNGY3MzE4NTg3MDNiZDNhNjc2NTE3Mzk3ZWQwYTUxYmJkNmRl",
+  "snapshot_id": "MCxlYThiYmYyMzY1YjE4NGI2MzUwMzkzN2JlZDkyYjYwYTRjYTBkYTEy",
   "tracks": [
     {
       "added_at": "2022-11-25 16:56:36",
@@ -783,22 +783,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
-        "url": "https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS"
-      },
-      "artists": [
-        {
-          "name": "Going Deeper",
-          "url": "https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4"
-        }
-      ],
-      "duration_ms": 283628,
-      "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
-      "url": "https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "All We Have Is Now / Stay The Same",
         "url": "https://open.spotify.com/album/72TTK8jGMZmOtlOILk41ny"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 252125,
       "name": "All We Have Is Now",
       "url": "https://open.spotify.com/track/2mE3NVgBQcuHgaKVa8rybJ"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
+        "url": "https://open.spotify.com/album/3RMnzbvkcxMwSqcrq9LqYS"
+      },
+      "artists": [
+        {
+          "name": "Going Deeper",
+          "url": "https://open.spotify.com/artist/2SHmJ9pvh1h1TXu2WulzL4"
+        }
+      ],
+      "duration_ms": 283628,
+      "name": "\u0421\u0442\u043e\u043b\u0438\u0446\u0430 \u0437\u0430\u043a\u0430\u0442\u043e\u0432",
+      "url": "https://open.spotify.com/track/6DwuQjVWPRRICEqJJedZYb"
     },
     {
       "added_at": "2022-11-25 16:56:36",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-11-25 16:56:36",
       "album": {
-        "name": "Hiding",
-        "url": "https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH"
-      },
-      "artists": [
-        {
-          "name": "Hidden Empire",
-          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
-        },
-        {
-          "name": "Artche",
-          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
-        }
-      ],
-      "duration_ms": 431162,
-      "name": "Hiding",
-      "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
-    },
-    {
-      "added_at": "2022-11-25 16:56:36",
-      "album": {
         "name": "Freedom Call",
         "url": "https://open.spotify.com/album/6MdOQa7i68HuppXqgBgkEo"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 239789,
       "name": "Freedom Call",
       "url": "https://open.spotify.com/track/68ctazgs0K7svqWLzsheDB"
+    },
+    {
+      "added_at": "2022-11-25 16:56:36",
+      "album": {
+        "name": "Hiding",
+        "url": "https://open.spotify.com/album/2XAdRKNStUZKUDrZ1flBkH"
+      },
+      "artists": [
+        {
+          "name": "Hidden Empire",
+          "url": "https://open.spotify.com/artist/44Ga1YqZthFOzZSTHiNWkC"
+        },
+        {
+          "name": "Artche",
+          "url": "https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV"
+        }
+      ],
+      "duration_ms": 431162,
+      "name": "Hiding",
+      "url": "https://open.spotify.com/track/6rAbSwrfReG9rpcmwIsgPH"
     },
     {
       "added_at": "2022-11-25 16:56:36",

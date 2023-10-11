@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,977 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,941 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 27 | [Kingston Town](https://open.spotify.com/track/2OHQhOiGIYaXqqJVIMpNrF) | [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [Soul Pirate](https://open.spotify.com/album/3hhWPRjFBsNYm3v3nbOqQC) | 3:12 |
 | 28 | [A Droga do Amor](https://open.spotify.com/track/6WlyTsLonLLiKYigIANVA4) | [Ari](https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE), [Felipe Play](https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ), [Dom R](https://open.spotify.com/artist/0ucf3N9AACArceQVOowiD1), [Tiankris](https://open.spotify.com/artist/0G1OtpH8DaTJVAhg8b6hhI) | [Ari Acústico](https://open.spotify.com/album/2ZQpFuF0C6zsbTqROgbe2d) | 3:52 |
 | 29 | [Pescador](https://open.spotify.com/track/5yQW46XPWdGqkX2PyMegLD) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Casinha](https://open.spotify.com/album/4LEeNDHmnXsM04yoJARCYu) | 2:59 |
-| 30 | [Burn One Down](https://open.spotify.com/track/2QzMJkYUhThZxM94ahgOzN) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 3:31 |
+| 30 | [Are You In?](https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:24 |
 | 31 | [Upside Down](https://open.spotify.com/track/6shRGWCtBUOPFLFTTqXZIC) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Jack Johnson And Friends: Sing\-A\-Longs And Lullabies For The Film Curious George](https://open.spotify.com/album/3Jl7i9Vo0Ht4co9SqTFjQy) | 3:28 |
-| 32 | [Are You In?](https://open.spotify.com/track/1MvJno497VkQR3RsiJcRVm) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Morning View](https://open.spotify.com/album/1rQZbncicoXyB64DqoH7OY) | 4:24 |
+| 32 | [Burn One Down](https://open.spotify.com/track/2QzMJkYUhThZxM94ahgOzN) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Fight For Your Mind](https://open.spotify.com/album/3qw2TRebw37Mdb3aP78kM4) | 3:31 |
 | 33 | [Queen of California](https://open.spotify.com/track/0CETmgFGt8Ne8vLnaLcduU) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Born and Raised](https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0) | 4:10 |
 | 34 | [Jumpin' Jack Flash \- Mono Version](https://open.spotify.com/track/3V4XaPTKFMigQEqzH9HDKS) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/17BYe75slJy2AWCLJBlhvO) | 3:43 |
 | 35 | [Beach in Hawaii](https://open.spotify.com/track/45JFUzpVO7pvS2bApjj8d0) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2dEIytIxbKk4ykAMfIOxFX) | 3:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 74 | [Pipeline](https://open.spotify.com/track/4JnefzMlvvO3OUBRW4oLlU) | [Stevie Ray Vaughan](https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1), [Dick Dale](https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg) | [The Real Deal: Greatest Hits Volume 2](https://open.spotify.com/album/2SYJxEVYF7yzxEf2Ncymi1) | 2:59 |
 | 75 | [Invincible](https://open.spotify.com/track/6NTaNlVIeigg3ERXef5wjM) | [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh) | [Earthling](https://open.spotify.com/album/7woWmF7vNQwAVNymD0UkbY) | 4:46 |
 
-Snapshot ID: `MCw2MDRkNzk0NGMxZmRjMjgzNWJmNjg5OGNhNTcxMWI0N2I0ZjlkMTZm`
+Snapshot ID: `MCwyNTE2OTRkMmM5NDVhZTMwOGUyMjNkOGViMTRhYzM5ODdiMWJhZGJk`

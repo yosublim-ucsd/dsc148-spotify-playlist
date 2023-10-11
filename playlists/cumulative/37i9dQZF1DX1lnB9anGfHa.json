@@ -23,6 +23,32 @@
     },
     {
       "album": {
+        "name": "Shade Under Your Hands",
+        "url": "https://open.spotify.com/album/4e284Hh1gNyh52cGN9F0vj"
+      },
+      "artists": [
+        {
+          "name": "OSOO",
+          "url": "https://open.spotify.com/artist/5ZObDw7aCElSslzU8T1zH4"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60000,
+      "name": "21 Reasons",
+      "url": "https://open.spotify.com/track/4Etlj7z37w0ZMsiChsb2DA"
+    },
+    {
+      "album": {
         "name": "Miss Anthropocene (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ZKbjlrUC5REoa13uSH5KL"
       },
@@ -574,7 +600,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 264748,
       "name": "Bu Izd\u0131rab\u0131n Panzehiri",
       "url": "https://open.spotify.com/track/2o5KI2ZX1xfalxYOAxl6Kt"
@@ -2312,7 +2338,7 @@
       ],
       "date_added": "2021-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 279999,
       "name": "Otro",
       "url": "https://open.spotify.com/track/4y2aw66CxenyRNHddJ6wFt"
@@ -3432,6 +3458,24 @@
       "duration_ms": 245008,
       "name": "Unknown Tokyo",
       "url": "https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/6I2ZYYta7J2bTkh1UMe8zm"
+      },
+      "artists": [
+        {
+          "name": "Of The Muses",
+          "url": "https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526066,
+      "name": "V",
+      "url": "https://open.spotify.com/track/3Sk8oGy02QK1eZ52A2BYyI"
     },
     {
       "album": {

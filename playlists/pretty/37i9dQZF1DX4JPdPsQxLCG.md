@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes for the open road\. Special selections by Blue Rodeo in time for the long weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,627 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,847 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 10 | [drive](https://open.spotify.com/track/1POBIDmX5L8lDEQSkO1DBi) | [Scott Helman](https://open.spotify.com/artist/2LgklPXmvWVOQfzPVkuChg) | [drive](https://open.spotify.com/album/0DbML0JCn2c8JhNYwx2Fcu) | 2:46 |
 | 11 | [Hayloft](https://open.spotify.com/track/2kS6td1yvmpNgZTt1q5pQq) | [Mother Mother](https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph) | [O My Heart](https://open.spotify.com/album/0X7S0TEZ5NJsSxmyTnfYi2) | 3:01 |
 | 12 | [When the Night Feels My Song](https://open.spotify.com/track/5qMc9XB0lALs9VnQmY5qFv) | [Bedouin Soundclash](https://open.spotify.com/artist/2Au2mS47rMRkqbU4XJqKMh) | [Sounding a Mosaic](https://open.spotify.com/album/0AhsJ8sWpUbBJUQRXtR1NE) | 3:07 |
-| 13 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
+| 13 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
 | 14 | [I'm Like A Bird](https://open.spotify.com/track/2aGw77pZqli064JiPuXYRi) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly! \(Expanded Edition\)](https://open.spotify.com/album/0emt7fmxNjW3lb37nTOXR0) | 4:03 |
 | 15 | [Bobcaygeon](https://open.spotify.com/track/2oPzisApHGH3hbcu4C9UJS) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Phantom Power](https://open.spotify.com/album/3HWQXn3dGZPSnIhVkvHIOz) | 4:55 |
 | 16 | [American Woman \- 7" Single Version](https://open.spotify.com/track/5LPGZnsy07YNxeuTI1X3RT) | [The Guess Who](https://open.spotify.com/artist/0cQuYRSzlItquYxsQKDvVc) | [Platinum & Gold Collection](https://open.spotify.com/album/049pDJuLOtgEpo1buRzScg) | 3:51 |
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 35 | [Drinking in L.A.](https://open.spotify.com/track/4WEaJQLlhlkOU7YJDLhn7x) | [Bran Van 3000](https://open.spotify.com/artist/3D3blX3lLE3BCMdo3SOMlB) | [Glee](https://open.spotify.com/album/5YMokuqZmSpvwlnbBhUaAp) | 3:56 |
 | 36 | [Steal My Sunshine](https://open.spotify.com/track/4agp6oHofabdUedr0B1krj) | [LEN](https://open.spotify.com/artist/0nyc9SZGLITSOJASmTZsnZ) | [You Can't Stop The Bum Rush](https://open.spotify.com/album/5NndKV7nc18qRQfFvLgZ1k) | 4:25 |
 | 37 | [Where Have All The Good People Gone?](https://open.spotify.com/track/0T4TdNQ93GEXKtfkCx9zYF) | [Sam Roberts Band](https://open.spotify.com/artist/09XH90DXG8hru6NN96GbA0) | [We Were Born In A Flame](https://open.spotify.com/album/7iyRJ3WSW2y2LbIPUYJhgS) | 4:24 |
-| 38 | [Fat Lip](https://open.spotify.com/track/4KacUpvbA3Mfo05gttTjhN) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:58 |
+| 38 | [Man! I Feel Like A Woman!](https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:54 |
 | 39 | [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | 3:44 |
 | 40 | [The Weight \- Remastered 2000](https://open.spotify.com/track/0P7DoyGrr4Wp9w5TotEtUC) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 4:34 |
 | 41 | [Sundown](https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k) | [Gordon Lightfoot](https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4) | [Sundown](https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y) | 3:33 |
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 46 | [Landmines](https://open.spotify.com/track/05FEHgvSVpx3jnM2zNeSo9) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Landmines](https://open.spotify.com/album/4qbFtX3gAZCiNDkkDMYGCR) | 2:55 |
 | 47 | [Working for the Weekend](https://open.spotify.com/track/35k31HZI4z9PbBOioaI4dZ) | [Loverboy](https://open.spotify.com/artist/2CLVPk9FcywjClBcTvWPkT) | [Get Lucky](https://open.spotify.com/album/6oZb0svo8JG9mVxZmHjPxE) | 3:41 |
 | 48 | [Takin' Care Of Business](https://open.spotify.com/track/0lzNXoZINVBLHWNIxKxWOo) | [Bachman\-Turner Overdrive](https://open.spotify.com/artist/5q4AzEtCoYJyXjMMoEkSU5) | [Bachman\-Turner Overdrive II](https://open.spotify.com/album/1p2tbwfEfN8kZNOi4F3bGH) | 4:49 |
-| 49 | [Life Is A Highway](https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World \(Deluxe\)](https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8) | 4:26 |
+| 49 | [Rockstar \- 2020 Remaster](https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All The Right Reasons \(15th Anniversary Expanded Edition\)](https://open.spotify.com/album/3MNvfg19MJsXCQ0I3WVdkm) | 4:15 |
 | 50 | [Born To Be Wild \- Single Version](https://open.spotify.com/track/3lN8PP6R2IxbLP05QpYXng) | [Steppenwolf](https://open.spotify.com/artist/1WRM9i067hd2ujxxi8FI3m) | [Steppenwolf](https://open.spotify.com/album/64q58AfjSrrX9Egp7Zryw8) | 3:32 |
-| 51 | [Rockstar \- 2020 Remaster](https://open.spotify.com/track/05tlUh0E6IFks9sCQguQKN) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All The Right Reasons \(15th Anniversary Expanded Edition\)](https://open.spotify.com/album/3MNvfg19MJsXCQ0I3WVdkm) | 4:15 |
+| 51 | [Life Is A Highway](https://open.spotify.com/track/7jIFGkTBIK1UwWaEXMW2Nh) | [Tom Cochrane](https://open.spotify.com/artist/5Jj4mqGYiplyowPLKkJLHt) | [Mad Mad World \(Deluxe\)](https://open.spotify.com/album/1Jn0dHH6ztd0CD7lstrIR8) | 4:26 |
 | 52 | [Suzanne](https://open.spotify.com/track/2L93TdW2GMue1H2zlkt30F) | [Leonard Cohen](https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV) | [Songs Of Leonard Cohen](https://open.spotify.com/album/2Aiv0ThDpFa7lqHphR6MN5) | 3:49 |
 | 53 | [Seasons in the Sun](https://open.spotify.com/track/7pGMRy91RcQT9oHdPgYz3A) | [Terry Jacks](https://open.spotify.com/artist/09dDdtfi4mWLdC2BHOrIrl) | [Seasons In The Sun \(Expanded Edition\)](https://open.spotify.com/album/6qKGMVfcz7HxHeXnhUsK9J) | 3:28 |
 | 54 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 61 | [Driving](https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Driving](https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e) | 3:00 |
 | 62 | [Building a Mystery](https://open.spotify.com/track/3ozomn4PrGEKEuusxX2HpC) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:07 |
 | 63 | [Cuts Like A Knife](https://open.spotify.com/track/5oZ2YnJxTXl7CdJJKehPHR) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Cuts Like A Knife](https://open.spotify.com/album/5ZZ5S9fqcpQo4N3n7nPUk7) | 5:19 |
-| 64 | [The Old Apartment](https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Born on a Pirate Ship \(Enhanced Edition\)](https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ) | 3:29 |
-| 65 | [Electric Pow Wow Drum](https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z) | [A Tribe Called Red](https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ) | 3:39 |
+| 64 | [Electric Pow Wow Drum](https://open.spotify.com/track/5e8v4ibmsMHxHLALe5KaiZ) | [The Halluci Nation](https://open.spotify.com/artist/2jlWF9ltd8UtoaqW0PxY4z) | [A Tribe Called Red](https://open.spotify.com/album/1FYVy6b5R41tMIAhWS6fXJ) | 3:39 |
+| 65 | [The Old Apartment](https://open.spotify.com/track/5HjviQMuDBIvcyNXJtka23) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Born on a Pirate Ship \(Enhanced Edition\)](https://open.spotify.com/album/0ZhGG0DUBuvVNyICBnHlpZ) | 3:29 |
 | 66 | [99 Nights](https://open.spotify.com/track/7w3vaoMGxdzfkiN25jmDDE) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 2:56 |
 | 67 | [We're Here For A Good Time \(Not A Long Time\)](https://open.spotify.com/track/5QSf82Wy6anGZ1NEUr1neJ) | [Trooper](https://open.spotify.com/artist/2bT4eELLlSuDTtZWV2Z3jN) | [Knock 'Em Dead Kid](https://open.spotify.com/album/4lRGegSdH4MiZGY0dCCIDQ) | 3:34 |
 | 68 | [I Hear You Calling](https://open.spotify.com/track/7KsLCoGgjP1tsGPJuvi2SX) | [Gob](https://open.spotify.com/artist/0c4fpXIFPFNve1CxmGgXQf) | [The World According To Gob](https://open.spotify.com/album/5W9KaweYXnOVDlG7UjIbCb) | 3:11 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [Leaving On A Jet Plane](https://open.spotify.com/track/2tFYV2RZGwRLCmfDqfI3OT) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Since We Met: The Best of 1996\-2006](https://open.spotify.com/album/67QWVDS41ddKIKYhlsJjJt) | 4:40 |
 | 75 | [Feeling Good](https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [The Sheepdogs \(Deluxe\)](https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw) | 3:10 |
 
-Snapshot ID: `MCw4M2FjYTVkN2I5YWFiN2FkMGMzODI5OTFiMDdjODM0MmNiMThkMTZk`
+Snapshot ID: `MCxjZGUyYmEzMDMwNDZmNmIzZDVkMGNhYWRlY2ZiOTZkNTViYjc5YmM2`

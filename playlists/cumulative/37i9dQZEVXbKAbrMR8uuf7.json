@@ -392,7 +392,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-09",
+      "date_removed": null,
       "duration_ms": 201812,
       "name": "3D (feat. Jack Harlow)",
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
@@ -5340,7 +5340,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 135655,
       "name": "Dimdon - Remix",
       "url": "https://open.spotify.com/track/3STV7c3i82ArcyMejMHIwH"
@@ -5914,7 +5914,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 273473,
       "name": "El Final - Remix",
       "url": "https://open.spotify.com/track/2JBdEfaJGjKAkkGGZn1Iad"
@@ -9390,7 +9390,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 162637,
       "name": "La Bachata",
       "url": "https://open.spotify.com/track/3tt9i3Hhzq84dPS8H7iSiJ"
@@ -15313,6 +15313,28 @@
     },
     {
       "album": {
+        "name": "en dormir sin Madrid",
+        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201272,
+      "name": "Penas de Anta\u00f1o",
+      "url": "https://open.spotify.com/track/4zYHsmc2V9RyR8eOA0mlx6"
+    },
+    {
+      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -15892,7 +15914,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 221739,
       "name": "PLEBADA",
       "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
@@ -16786,7 +16808,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 162244,
       "name": "Quien Es Dei V?",
       "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
@@ -18972,7 +18994,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 143256,
       "name": "Sin fotos",
       "url": "https://open.spotify.com/track/7rAdp3TgcTFEZnG8KgMLSv"

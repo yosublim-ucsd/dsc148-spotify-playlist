@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 
 > Una eufórica dosis de urbano romántico en español.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,482 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,575 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 64 | [0cm](https://open.spotify.com/track/4WCk2VAPDqySlBSxZTlNjK) | [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [0cm](https://open.spotify.com/album/5TTk79eZvPAB7D6PvrdANe) | 2:38 |
 | 65 | [Balada](https://open.spotify.com/track/4i1AQRFGt5pMeXDi7WL0xT) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1) | [Bitácoras Callejeras, Vol\. 2](https://open.spotify.com/album/72UUDbcdajvOVAvKgRnhIS) | 4:20 |
 | 66 | [Equivocado](https://open.spotify.com/track/371Q3sLN68N4rwkw4ObnTp) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Equivocado](https://open.spotify.com/album/5J8KXckopyAatMvWk2nyvI) | 4:06 |
-| 67 | [Te Amodio](https://open.spotify.com/track/4gJAYXiTkzDlbfeZn4EH9F) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Te Amodio](https://open.spotify.com/album/25N4zFBTWXO5C5zWPBMYjA) | 4:27 |
-| 68 | [No quise dañarte](https://open.spotify.com/track/57EhNdIYjhowMMKiR8frkG) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [No quise dañarte](https://open.spotify.com/album/0NAjyZrDAPqiqYXhu9gSTV) | 3:15 |
+| 67 | [No quise dañarte](https://open.spotify.com/track/57EhNdIYjhowMMKiR8frkG) | [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [No quise dañarte](https://open.spotify.com/album/0NAjyZrDAPqiqYXhu9gSTV) | 3:15 |
+| 68 | [Te Amodio](https://open.spotify.com/track/4gJAYXiTkzDlbfeZn4EH9F) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8) | [Te Amodio](https://open.spotify.com/album/25N4zFBTWXO5C5zWPBMYjA) | 4:27 |
 | 69 | [Los No Tan Tristes](https://open.spotify.com/track/2iS1BUa0VwSil4uQ89cfst) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Los No Tan Tristes](https://open.spotify.com/album/01X0X1KTVjis1cNXF0zA9U) | 4:06 |
 | 70 | [Azul](https://open.spotify.com/track/3a5W4nmrBbVRjG021nr7TT) | [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Jose Macario](https://open.spotify.com/artist/7HiasoqcVt5qyJtcCbI2bM), [Gordo del Funk](https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3) | [Azul](https://open.spotify.com/album/2FMtltWwGmupZfrxlrBqgf) | 2:43 |
 | 71 | [Confundido](https://open.spotify.com/track/27RuS7SkQmWvmrtzVVujIo) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Confundido](https://open.spotify.com/album/4bRYQKtGDLljfLWR7XHMve) | 4:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbMnDeC4VENb.md) - [plain]
 | 99 | [Maldito Romántico](https://open.spotify.com/track/00Lz6oOMNjlCthAaiQLsfr) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [444 Paradise "Encerrado, No Enterrado"](https://open.spotify.com/album/0SJjqErbyJDc46YKzV4ein) | 4:32 |
 | 100 | [Querida](https://open.spotify.com/track/5RyOeJHSAHUVZi2nAR2qlf) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Querida](https://open.spotify.com/album/66kffsd3bubXY3tEe7Mv6S) | 3:08 |
 
-Snapshot ID: `MCw4NmNjYTFkNTJkZDE2ODc5NWYwZjc2M2VlZGIxMGQyZDU1N2ZkNWUy`
+Snapshot ID: `MCwyODlkZjY0M2Q5N2ZlZjU1ZDE5MTAyMTg0NDdhNzY0MjA3ZjI5MTRl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 
 > Celebrate the legend Lata Mangeshkar with her evergreen songs \(1929 \- ∞\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,700 likes - 49 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,918 likes - 49 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 | 14 | [Sayonara Sayonara](https://open.spotify.com/track/01b0TeyxTgDphNYCAme6ka) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Love in Tokyo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3u2FxL3onJAawtVsRrimd9) | 4:13 |
 | 15 | [Tu Mere Samne](https://open.spotify.com/track/08XzRV4mGjGwbpvYw68xBk) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Udit Narayan](https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K) | [Darr \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7xGWECEsvj4iI3CajtZ1GH) | 6:06 |
 | 16 | [Gaata Rahe Mera Dil \(From "Guide"\)](https://open.spotify.com/track/3lckSqgPVQsds7BpITo3eA) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 4:52 |
-| 17 | [Tere Bina Zindagi Se](https://open.spotify.com/track/4Pn8JyAoXFJPC4rAymNo5A) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lata Mangeshkar Songs Geet](https://open.spotify.com/album/0LirbqjR3GTYYn6fhFa1ML) | 5:54 |
+| 17 | [Tere Bina Zindagi Se \(From "Aandhi"\)](https://open.spotify.com/track/0GeRudbh3e3WY3yws8dO3Y) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 5:54 |
 | 18 | [Kora Kagaz Tha Yeh Man Mera \(From "Aradhana"\)](https://open.spotify.com/track/58XCR4OiSlFULlDmACjrF8) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Kishore Kumar](https://open.spotify.com/artist/0GF4shudTAFv8ak9eWdd4Y) | [Diamonds Forever \- Lata Mangeshkar](https://open.spotify.com/album/7cmbUR0oPLKzrP6j6303Ad) | 5:38 |
 | 19 | [Tere Liye](https://open.spotify.com/track/3i11e2jzUtO3jChiFl3v9x) | [Madan Mohan](https://open.spotify.com/artist/5Uvn1P3OFu268QovsUAnDu), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc), [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa), [Javed Akhtar](https://open.spotify.com/artist/3UpmjPgIFSGqnxXuiwD014) | [Veer \- Zaara](https://open.spotify.com/album/690w3h4czL3x3W3zIgEcB6) | 5:31 |
 | 20 | [Raina Beeti Jaye](https://open.spotify.com/track/4vJ8iKlaXGyuREfmY2ZWkG) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Amar Prem \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2eUczyrgWxGjL6jDXZDxBl) | 5:18 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdvlDiPKrOk4.md) - [plain]
 | 48 | [DIL DEEWANA](https://open.spotify.com/track/4qHVuUaejwuIrrvuuMZyiA) | [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Lata Didi \- Free Hits](https://open.spotify.com/album/3oNP4YgQxI9wzPmBlBkvr8) | 5:55 |
 | 49 | [Luka Chuppi](https://open.spotify.com/track/500H9ENeR5AYbKU1ScK6ME) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Lata Mangeshkar](https://open.spotify.com/artist/61JrslREXq98hurYL2hYoc) | [Rang De Basanti \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0NKNDn80mhKn4Xi6nHrsqQ) | 6:36 |
 
-Snapshot ID: `MCwwNmFjNWExMmY1NDBlMTEyN2VmNTcxOWUwNTc5MDgwMTYwZTk3MmNj`
+Snapshot ID: `MCwyYjBiYjYzMjkxOWRhZGZjM2IxOTAzMGFlNDRlN2NiYTFhZTA0ODAx`

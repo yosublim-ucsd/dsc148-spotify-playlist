@@ -4,7 +4,7 @@
 
 > This is Janis Joplin\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 5 min
+52 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Piece of My Heart](https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 4:13 | 2023-07-22 |  |
 | [Piece Of My Heart \- Live at The Woodstock Music & Art Fair, August 17, 1969](https://open.spotify.com/track/6vP58GXFuniePZLJkJzk0g) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis Joplin: The Woodstock Experience](https://open.spotify.com/album/6U1PifBvvskUGjsJGeKGp4) | 4:57 | 2023-07-22 |  |
 | [Raise Your Hand \(Live Tom Jones TV Show 4th December 1969\)](https://open.spotify.com/track/2ml5UVCSXDi7sxDrO0tXKG) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:28 | 2023-07-25 | 2023-09-03 |
+| [Raise Your Hand \- Live at Jahrhunderthalle, Frankfurt, Germany](https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Janis: Little Girl Blue \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK) | 3:44 | 2023-10-10 |  |
 | [Summertime](https://open.spotify.com/track/3eYCJXTViFwl5mdtcTsF4G) | [Big Brother & The Holding Company](https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo), [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Cheap Thrills](https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX) | 3:58 | 2023-07-22 |  |
 | [Summertime](https://open.spotify.com/track/1mZfzcclmxrk7QtfzOLF00) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [Live: Texas International Pop Festival, Dallas TX 30 Aug' '69 \- Remastered from Original Tape](https://open.spotify.com/album/1cczYgxFJu08mmIA1o7CsF) | 4:38 | 2023-07-22 |  |
 | [Take Another Piece of my Heart \(Live SWR TV Frankfurt Germany 12th April 1969\)](https://open.spotify.com/track/4S2JUPvHwCSwRot68vbY6l) | [Janis Joplin](https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC) | [The Television Broadcast Sessions 1968 \-1970](https://open.spotify.com/album/7bZBijUEXmuM3ekfJ943oz) | 3:54 | 2023-07-22 | 2023-09-01 |

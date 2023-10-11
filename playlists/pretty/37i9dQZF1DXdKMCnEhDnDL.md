@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: Suzan & Freek en Claude
 
-[Spotify](https://open.spotify.com/user/spotify) - 475,102 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 475,122 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 9 | [Ruggengraat](https://open.spotify.com/track/0rLMwM9J5DkkucxXByncSZ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Ruggengraat](https://open.spotify.com/album/3JVuWFwn71zVGhyMKyw85V) | 2:34 |
 | 10 | [Verleden Tijd](https://open.spotify.com/track/1vYF6O8JLonzVYrJGSGNNW) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Verleden Tijd](https://open.spotify.com/album/2NZL8RRqr3CyrOYUuSOcPa) | 2:47 |
 | 11 | [Hou Me Los Van Dichtbij](https://open.spotify.com/track/7bG8a7JbcBftmxVtFMyz9Y) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm), [Jonna Fraser](https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg) | [Hou Me Los Van Dichtbij](https://open.spotify.com/album/58WgPfVCz1tOCJ4DTcwVKA) | 2:34 |
-| 12 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/5tufQXu4n8u156Jy8JJdz0) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/09rwghZuPsHR4t84q7vwoy) | 3:07 |
+| 12 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/3u5mjulfL1YY9exQEBmKLY) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/1sh6HCkhboWsoln9lf0ay8) | 3:07 |
 | 13 | [Noodgeval](https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Betaalbare Romantiek](https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO) | 3:34 |
 | 14 | [Het Heeft Zo Moeten Zijn](https://open.spotify.com/track/2vEIeP2yzMbijx7o27YT39) | [Jaap Reesema](https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4) | [Het Heeft Zo Moeten Zijn](https://open.spotify.com/album/3Zm4rS2BrqDniIQxHWy8kE) | 3:42 |
 | 15 | [Ik Kom Weer Thuis](https://open.spotify.com/track/5VzimlAe6d9QJgCYgWky8v) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Ik Kom Weer Thuis](https://open.spotify.com/album/4oFvk66h8AGIxNyh0sFkhk) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKMCnEhDnDL.md) - [plain]
 | 99 | [Hallo](https://open.spotify.com/track/7GwNDFyxvpHAd4l1IfUDmr) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Hallo](https://open.spotify.com/album/4K6Rcm7dBmWNsHclnRWQO1) | 2:12 |
 | 100 | [Vroeger](https://open.spotify.com/track/4ZxRhotBmIcc1WUCdSJIQt) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj) | [Vroeger](https://open.spotify.com/album/2tKIKvy498Gp8pqsfYobV4) | 2:44 |
 
-Snapshot ID: `MCwwOWIyYzI4OWVjZjJjZmJhZmU4N2QzODk1ZTMyYzVjMTNjNGQ2N2Nk`
+Snapshot ID: `MCxlNWMxODMzOTQyYWIxNTcxOTU1YWY0ZDlhMDBkMDcxOTZiMjVlODZk`

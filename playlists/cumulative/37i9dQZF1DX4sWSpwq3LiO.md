@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,640 songs - 3 day 0 hr 53 min
+1,641 songs - 3 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -487,7 +487,8 @@
 | [Friend](https://open.spotify.com/track/41jpD9d8fOSzOya79B7A7K) | [Leonard Anderson](https://open.spotify.com/artist/1cXE0r5JyjFer1EwCcv8zS) | [Friend](https://open.spotify.com/album/3gMNDU94vR2HTmQen6gfqT) | 2:45 | 2021-05-27 | 2022-08-27 |
 | [Friends without end](https://open.spotify.com/track/3txtZUnBLGOg3GGTORFCS1) | [Lisa Kriegler](https://open.spotify.com/artist/5Mt0AabvbSZtBXNPhfMBik) | [Friends without end](https://open.spotify.com/album/5dBDbcpIZiAhGlvNBnwVzg) | 1:51 | 2022-09-12 | 2022-10-14 |
 | [From Above](https://open.spotify.com/track/5LIsR2QFLqxot9tX9huYwi) | [Albin Svensson](https://open.spotify.com/artist/6H6czwdkHT6pD0mdiMxroP) | [Your Story](https://open.spotify.com/album/02mdAAH2cPIPnDCP8qgln2) | 1:46 | 2022-08-26 | 2023-07-19 |
-| [From Home](https://open.spotify.com/track/02VydYQOYaLGZX2MWoCCQ8) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [From Home](https://open.spotify.com/album/7BF0crTRDCArRVfdCX94Yt) | 3:22 | 2022-11-09 |  |
+| [From Home](https://open.spotify.com/track/02VydYQOYaLGZX2MWoCCQ8) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [From Home](https://open.spotify.com/album/7BF0crTRDCArRVfdCX94Yt) | 3:22 | 2022-11-09 | 2023-10-11 |
+| [From Home](https://open.spotify.com/track/0EgbLbMqBzyEjIySBupBqH) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [From Home](https://open.spotify.com/album/4s631bf05BJesvz6XT3iDT) | 3:22 | 2023-10-09 |  |
 | [From This Day](https://open.spotify.com/track/3YwKWP2h2kJEMDIEylnrYs) | [Anthony Sullivan](https://open.spotify.com/artist/7iSn0nvJUeiIHTmWw9y59a) | [From This Day](https://open.spotify.com/album/1kdEjESVU0bMzMDsbdsG0L) | 2:14 | 2020-02-11 | 2021-02-17 |
 | [Früh](https://open.spotify.com/track/7J6nPXzpkCcAOdVgCkCNtM) | [Franz Ewer](https://open.spotify.com/artist/7p9jnrJ98pQ5CCOzhUt6wu) | [Früh](https://open.spotify.com/album/6rYq4871w4zJ9YrD5xmYIL) | 2:07 | 2021-12-15 | 2022-08-09 |
 | [Full Bloom](https://open.spotify.com/track/04i9TIi97Aoh1xjrCCM0aI) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [Full Bloom](https://open.spotify.com/album/1iri0k7a8k3f4QR7krIGlT) | 2:22 | 2023-10-02 |  |

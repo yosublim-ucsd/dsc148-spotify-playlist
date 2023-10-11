@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 
 > Hit dance per l'estate 2023! ☀️🍹🏝️
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,452 likes - 100 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,490 likes - 100 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVE0GbO5rNDb.md) - [plain]
 | 89 | [Fresh \- House of Prayers Poolside Edit](https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01) | [Crazibiza](https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1), [House of Prayers](https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg) | [Fresh](https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV) | 4:44 |
 | 90 | [Alive](https://open.spotify.com/track/2KlnRC8jhbWokqr3PQMwgO) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Declan J Donovan](https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r) | [Alive](https://open.spotify.com/album/4dvts8ZkUUsbQdGASHVmbi) | 2:28 |
 | 91 | [Run Into Trouble](https://open.spotify.com/track/5C2mUkFTs51bizl4LAaqRy) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Run Into Trouble](https://open.spotify.com/album/2Cfzwp8KLSsL7oul0sGirP) | 3:02 |
-| 92 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 |
-| 93 | [My Head & My Heart \- Jonas Blue Remix](https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [My Head & My Heart \(Jonas Blue Remix\)](https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe) | 2:59 |
+| 92 | [My Head & My Heart \- Jonas Blue Remix](https://open.spotify.com/track/7x74XLYJqptDCmY4y3FaVh) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [My Head & My Heart \(Jonas Blue Remix\)](https://open.spotify.com/album/3OdtkwvY57hITlhQvON5oe) | 2:59 |
+| 93 | [Stick Your Tongue Out](https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Club Romantech](https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz) | 2:47 |
 | 94 | [How You Samba](https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp) | [How You Samba](https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH) | 2:31 |
 | 95 | [Madan \(King\)](https://open.spotify.com/track/5EGAY1Txvi5A3hFkYYGsXx) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM) | [Madan \(King\)](https://open.spotify.com/album/17nQWgqiyuKwi5Oku7BDAl) | 3:03 |
 | 96 | [Pretty People \(feat\. INJI\)](https://open.spotify.com/track/1EdmLWe4HDbrw5CM0bOnxS) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [INJI](https://open.spotify.com/artist/0Z4Ir8usNVcAdCSQl0fQki) | [Pretty People \(feat\. INJI\)](https://open.spotify.com/album/4Rk7c9Vfq3if5ra3ibISDd) | 2:29 |
 | 97 | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/track/5RVjB86R02f47lCZSPFOzj) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Damn \(You’ve Got Me Saying\)](https://open.spotify.com/album/53i5TggV9rLa7XBaDbD8Hp) | 3:15 |
 | 98 | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/track/1iZsKjjHVeFV7jQijZszZc) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc), [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8) | [Freak Me Now \(with Róisín Murphy\)](https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ) | 3:33 |
-| 99 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
-| 100 | [Hero](https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hero](https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV) | 2:51 |
+| 99 | [Hero](https://open.spotify.com/track/29p6UW08MXzwj9thWBW3uF) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [Hero](https://open.spotify.com/album/6KV17NyVQwm5PJOVwAVlyV) | 2:51 |
+| 100 | [Enjoy Your Life](https://open.spotify.com/track/0yM2YvOGR3cBIoWBeFdtmS) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Enjoy Your Life](https://open.spotify.com/album/7Kb95mdNRyzLjpXA7piX3N) | 4:00 |
 
-Snapshot ID: `MCw4MGYyZDYwYWVjMzI0ZDFkMjM1MjUxZDJlZDkyMmZhYzRjMWM0Njgy`
+Snapshot ID: `MCwzOTVkZDJmYTE1MjRmNjA4NTlmNGQ1YTFjZTdmOTNlNGY1MjAxY2E2`

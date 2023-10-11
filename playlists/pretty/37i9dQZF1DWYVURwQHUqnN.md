@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo: Heuss L'enfoiré
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,560 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,549 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 39 | [Je remplace mes exs](https://open.spotify.com/track/3QSTzAm336llccLmSrdqzI) | [TK](https://open.spotify.com/artist/5vnUF9uAL0ly7qw25ERLuC), [Zaho](https://open.spotify.com/artist/0vN920jukdAbErvjo2OJ2o) | [Je remplace mes exs](https://open.spotify.com/album/1JCfwbRtYqlTF6sQChqcuM) | 2:53 |
 | 40 | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/track/4E6tv93xB55kTFRtNKxMo1) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [DaChoyce](https://open.spotify.com/artist/6nStjcAtMWhraEtrTrePkl) | [TESLA \(feat\. DaChoyce\)](https://open.spotify.com/album/1Dch6Gn8vANXc18qHo2uB9) | 2:11 |
 
-Snapshot ID: `MCwwYmY2YTNjYjE5NmJkYmJiMThlYzUxYWI2NDVjNzY3ZDdiNWNiODE2`
+Snapshot ID: `MCwxM2YzM2UwMTZiZWZmMGFjZmJlNTI0ZDk4ZTk3YTYzNzdiYjBiOGU2`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\bBewhY(\ube44\uc640\uc774))",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\bBOBBY)",
   "name": "KrOWN",
   "tracks": [
     {
@@ -2399,7 +2399,7 @@
     },
     {
       "album": {
-        "name": "Ballerina (Music from The Netflix Series)",
+        "name": "Ballerina (Music from The Netflix Film)",
         "url": "https://open.spotify.com/album/11HqjJX3c1LsSrCmUUBjI5"
       },
       "artists": [
@@ -6215,6 +6215,24 @@
     },
     {
       "album": {
+        "name": "ROBERT",
+        "url": "https://open.spotify.com/album/4VTHhmhVaB2gpViAdHbKHg"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128920,
+      "name": "f",
+      "url": "https://open.spotify.com/track/02Nkt660XIvXwZQf9bkwh6"
+    },
+    {
+      "album": {
         "name": "PEOPLE",
         "url": "https://open.spotify.com/album/2UF3SkoMBUZZf5n6sCBUft"
       },
@@ -8610,6 +8628,28 @@
       "duration_ms": 186180,
       "name": "Hell Chosen (feat. oygli)",
       "url": "https://open.spotify.com/track/6HkTBbrBIWSfW55hkGMycy"
+    },
+    {
+      "album": {
+        "name": "ROBERT",
+        "url": "https://open.spotify.com/album/4VTHhmhVaB2gpViAdHbKHg"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        },
+        {
+          "name": "JUSTHIS",
+          "url": "https://open.spotify.com/artist/0Ch0t9gI47Lkal71uQnmV3"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168773,
+      "name": "hercules! (feat. JUSTHIS)",
+      "url": "https://open.spotify.com/track/0SKLsOCqt5fLZwC3Jk6Y2f"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 
 > El ritmo cumbiero que te mueve el corazón\. <br/>Foto: Leo Mattioli.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,357 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,496 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,15 +78,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXciANtXsejm4.md) - [plain]
 | 68 | [Y Hoy Volvimos A Vernos](https://open.spotify.com/track/6QOQE9nGY9vEdDqVjOKOuF) | [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1), [Paula Rivas](https://open.spotify.com/artist/47i4noBzl5Os351Qlmxuia) | [Y Hoy Volvimos A Vernos](https://open.spotify.com/album/0ynZ4j1JKfxZ5ldYJgzplc) | 3:23 |
 | 69 | [Dígale](https://open.spotify.com/track/08c3uA4n8HcMMj8zgTqAZK) | [Chanchi y Los Autenticos](https://open.spotify.com/artist/137pHEZ9U76r4ouXTa6Bjc) | [Como un Caramelo](https://open.spotify.com/album/5AWeZMvbhQFe3c6XJ8DxA6) | 4:52 |
 | 70 | [Flor Pálida](https://open.spotify.com/track/20DbqQ7SNfIbid1UG8LnVq) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Mensajes del Corazon](https://open.spotify.com/album/1J0EOSLqRsHdjfJpcbyGaW) | 4:22 |
-| 71 | [No Fue Culpa Mia](https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [No Fue Culpa Mia](https://open.spotify.com/album/2hwcGbBQKle8mt23Z3gy6p) | 3:48 |
-| 72 | [Entre el Odio y el Amor](https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 3:38 |
+| 71 | [Entre el Odio y el Amor](https://open.spotify.com/track/5qfwWBHMPJVyVuS7BcyKkX) | [La Groupera](https://open.spotify.com/artist/0vOORe7cIa49Egvl6QUVt7) | [Rico y Suave](https://open.spotify.com/album/2fhIHdHYooK2MPRt6ehxsP) | 3:38 |
+| 72 | [No Fue Culpa Mia](https://open.spotify.com/track/3Ctr9XqYTTSYqTowQ3t1D2) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [No Fue Culpa Mia](https://open.spotify.com/album/2hwcGbBQKle8mt23Z3gy6p) | 3:48 |
 | 73 | [Háblame de Ti](https://open.spotify.com/track/7KwtJYezYZoCM5bn9lJhI2) | [El Combo 10](https://open.spotify.com/artist/5eHmtjAF9bKZWmaP3GFQyf) | [Inconfundibles](https://open.spotify.com/album/5XS53CuiCnRIbG3gE49ZzS) | 3:31 |
 | 74 | [Te Sorprenderás](https://open.spotify.com/track/1E8z534drq0XGV06iu2HWS) | [Ezequiel El Brujo](https://open.spotify.com/artist/325zdFw59lq0YHEmd5rWtk), [Mario Luis](https://open.spotify.com/artist/13KeE3TnUrYh367HJu0sMx) | [Te Sorprenderás](https://open.spotify.com/album/603RFxAyL68TKKtSUe4YT8) | 3:08 |
 | 75 | [Insaciable](https://open.spotify.com/track/62MwZTT02y2hPelIia0HlX) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [Insaciable](https://open.spotify.com/album/1AjvJTxq6SiZzvomF0GZ3P) | 3:26 |
 | 76 | [Se Enamoró de Mi la Soledad](https://open.spotify.com/track/1MExvjfH2rZQGsORsR3Pcy) | [Miguel Angel](https://open.spotify.com/artist/4XJ0JtGRa6QKkKvaQPrYKL) | [Se Enamoró de Mi la Soledad](https://open.spotify.com/album/6cSeVk2rJQB3LnbHVUwPnI) | 4:05 |
 | 77 | [Pechos Calientes / Mojada por Dentro / El No Va a Venir / Voy a Morir Dentro Tuyo](https://open.spotify.com/track/4wvQj6T8Ut1oixkIr7r0S3) | [Grupo Trinidad](https://open.spotify.com/artist/4Frz1l5pFsgAYeUhAskAcZ) | [Grupo Trinidad y Sus Cantantes](https://open.spotify.com/album/561huq2PdxoEwR2L7NYMw3) | 7:37 |
 | 78 | [Porqué Les Mientes](https://open.spotify.com/track/3jh7wZ6QGEVu5i5HM6xbk3) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE) | [Un Nuevo Desafío](https://open.spotify.com/album/7vlYe0SeAaPzRS3ehgtq18) | 3:40 |
-| 79 | [Enganchado Homenaje a Leo Mattioli \- Cada vez te quiero más \- Te llevo dentro de mi \- Después de ti \- Te tengo que olvidar](https://open.spotify.com/track/4TLBCFkqq1OPNd3USWzL9y) | [Palmae](https://open.spotify.com/artist/6UnXebpVutLe2rgBz108JR), [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1) | [Enganchado Homenaje a Leo Mattioli \(Padres e Hijos\)](https://open.spotify.com/album/2zy5hs0VuLBjYwpVo5Pq7Y) | 5:11 |
-| 80 | [Dos Hombres y un Destino](https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Clásicos Vivos](https://open.spotify.com/album/2w11EboINsdQtXVzZXKuJo) | 3:09 |
+| 79 | [Dos Hombres y un Destino](https://open.spotify.com/track/1iIAxG5tkw8ahvPRQQbETT) | [Walter Encina](https://open.spotify.com/artist/7B3kLf1ZWaepQ3ts6Adlkp) | [Clásicos Vivos](https://open.spotify.com/album/2w11EboINsdQtXVzZXKuJo) | 3:09 |
+| 80 | [Enganchado Homenaje a Leo Mattioli \- Cada vez te quiero más \- Te llevo dentro de mi \- Después de ti \- Te tengo que olvidar](https://open.spotify.com/track/4TLBCFkqq1OPNd3USWzL9y) | [Palmae](https://open.spotify.com/artist/6UnXebpVutLe2rgBz108JR), [Nico Mattioli](https://open.spotify.com/artist/6WVAHhEnELJ0NI11yZu9j1) | [Enganchado Homenaje a Leo Mattioli \(Padres e Hijos\)](https://open.spotify.com/album/2zy5hs0VuLBjYwpVo5Pq7Y) | 5:11 |
 
-Snapshot ID: `MCwzYTU0NWE5ODQ4YjBmZmJmNjBlODA5MWU4NTEzZTVhODkwNDJiNmRj`
+Snapshot ID: `MCw4YzhiNDM5ZTVkNDFhMjg4MDNmYzBjM2Q2ODc2NzAxYjdmYmM4MWJk`

@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "again",
+        "url": "https://open.spotify.com/album/0QIoiV1zp5iciJIpVI07Y0"
+      },
+      "artists": [
+        {
+          "name": "\u304b\u3089\u3042\u3052\u5f01\u5f53",
+          "url": "https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221130,
+      "name": "again",
+      "url": "https://open.spotify.com/track/7jFM74WwcnAZnHy4v4YTvK"
+    },
+    {
+      "album": {
         "name": "Ainokansoki",
         "url": "https://open.spotify.com/album/5T0FVtQa6uPc1DNF5Aj8lq"
       },
@@ -257,6 +275,24 @@
     },
     {
       "album": {
+        "name": "I like you",
+        "url": "https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "I like you",
+      "url": "https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk"
+    },
+    {
+      "album": {
         "name": "Country Road",
         "url": "https://open.spotify.com/album/6ZtpnrvdBqke77cOazRblq"
       },
@@ -322,7 +358,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 186590,
       "name": "Kokkisin",
       "url": "https://open.spotify.com/track/3xN7nR1BQt9PewgVODVuit"
@@ -722,7 +758,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 237975,
       "name": "yunagieiso",
       "url": "https://open.spotify.com/track/618pyNivEdcfLnc9TbKAuQ"
@@ -870,6 +906,24 @@
       "duration_ms": 207360,
       "name": "\u30ab\u30bf\u30aa\u30e2\u30a4",
       "url": "https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz"
+    },
+    {
+      "album": {
+        "name": "Phantom youth",
+        "url": "https://open.spotify.com/album/5Y60C1TrIcx4cyZzCxOcD1"
+      },
+      "artists": [
+        {
+          "name": "bokula.",
+          "url": "https://open.spotify.com/artist/03d8apfHOy2uV3oLL9lsFG"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146633,
+      "name": "\u30ac\u30fc\u30eb\u30d6\u30ec\u30f3\u30c9",
+      "url": "https://open.spotify.com/track/0Fiu1sRG9L4g8YCJwQmj1B"
     },
     {
       "album": {
@@ -1064,7 +1118,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 248100,
       "name": "\u30d2\u30ab\u30ea\u30c4\u30ca\u30ae",
       "url": "https://open.spotify.com/track/5y6j4ZP7xyQqgqRRS8TShD"
@@ -1086,7 +1140,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 250773,
       "name": "\u30d6\u30eb\u30fc\u30a2\u30f3\u30d3\u30a8\u30f3\u30b9",
       "url": "https://open.spotify.com/track/1S1WSh4uCprvucg6Hx57Eh"
@@ -1670,6 +1724,24 @@
       "duration_ms": 270026,
       "name": "\u9752\u3068\u590f",
       "url": "https://open.spotify.com/track/5BC6kr6etk2Y9J62AyI4i3"
+    },
+    {
+      "album": {
+        "name": "\u98a8\u306e\u5642",
+        "url": "https://open.spotify.com/album/22gvgKShk2m1bbuecfgEP5"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30f3\u30dc\u30b3\u30fc\u30d7",
+          "url": "https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "\u98a8\u306e\u5642",
+      "url": "https://open.spotify.com/track/0XF71aEbLVIqAkvOdnf8YA"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXdxPR0maUKqu"

@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 224213,
       "name": "'Til You Can't",
       "url": "https://open.spotify.com/track/4k3lPl8YTKuY8c1HelVnm3"
@@ -822,7 +822,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 179640,
       "name": "Dancin\u2019 In The Country",
       "url": "https://open.spotify.com/track/2KtGiBi5CrX2ERPD2PAS34"
@@ -1947,6 +1947,28 @@
     },
     {
       "album": {
+        "name": "Mamaw's House",
+        "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187269,
+      "name": "Mamaw's House",
+      "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
+    },
+    {
+      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
@@ -2496,10 +2518,28 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-28",
+      "date_removed": null,
       "duration_ms": 181498,
       "name": "Please Don't Go",
       "url": "https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC"
+    },
+    {
+      "album": {
+        "name": "Porch Light",
+        "url": "https://open.spotify.com/album/2t0vbfmG9x5kKI8MqaxQKA"
+      },
+      "artists": [
+        {
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184949,
+      "name": "Porch Light",
+      "url": "https://open.spotify.com/track/43SoxERu5UlXAgt4Es1VQU"
     },
     {
       "album": {
@@ -2706,6 +2746,28 @@
       "duration_ms": 202133,
       "name": "Sand In My Boots",
       "url": "https://open.spotify.com/track/0uRrG2jRR5tuifsYIJHEao"
+    },
+    {
+      "album": {
+        "name": "Sarah's Place (feat. Noah Kahan)",
+        "url": "https://open.spotify.com/album/4nCpzKTB9VoZF1hsogANQi"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214056,
+      "name": "Sarah's Place (feat. Noah Kahan)",
+      "url": "https://open.spotify.com/track/1fvC3CmNAbsx0V9ULMU8NB"
     },
     {
       "album": {
@@ -3250,7 +3312,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 222800,
       "name": "Think I'm In Love With You",
       "url": "https://open.spotify.com/track/65M92JpTbAdHmTQm4jGaDa"
@@ -3380,7 +3442,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 189053,
       "name": "Tourniquet",
       "url": "https://open.spotify.com/track/3EvZ03hGAFwGZ2Ebcu86YH"

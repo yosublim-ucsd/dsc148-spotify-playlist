@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 
 > Este es el Reggae, al sur del continente americano\. Foto: Nonpalidece.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,457 likes - 89 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,477 likes - 89 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,12 +62,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 52 | [Si No Fuera](https://open.spotify.com/track/23GLxJaCdFtophvNc9SUes) | [Gondwana](https://open.spotify.com/artist/4nSgEvZncnC5oNPVrtwnLd) | [Si No Fuera \- Single](https://open.spotify.com/album/1HEw09m1UAKkfpD1RcAnuW) | 3:38 |
 | 53 | [Señorita](https://open.spotify.com/track/7mJy5qyNuTxGhHyubNPB2E) | [Lumumba Oficial](https://open.spotify.com/artist/4Q3FY7gu0jZuth76T2z3fT), [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Amilcar Nadal](https://open.spotify.com/artist/7cN0yTuilvxUpDhMbhYH2d), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Raices y Cultura](https://open.spotify.com/album/0oiiX0OFkTy4QrnaLX9uLx) | 4:41 |
 | 54 | [Puede Parecer](https://open.spotify.com/track/1hLdypz7khXd9pociYJo1Q) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP) | [Sí Serás](https://open.spotify.com/album/0ZToxlCx1Z93ECG3yZWsZ0) | 3:18 |
-| 55 | [Mi Dulce Amor](https://open.spotify.com/track/58c0vA53oFYJVppKfZlYXY) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Radiante](https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC) | 3:09 |
-| 56 | [The Chicken](https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Groovin' High](https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2) | 7:15 |
+| 55 | [The Chicken](https://open.spotify.com/track/1ixPeXUL8LA0r6o9Og6Apc) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Groovin' High](https://open.spotify.com/album/344IQjBlB9LO2sjzvjUtl2) | 7:15 |
+| 56 | [Mi Dulce Amor](https://open.spotify.com/track/58c0vA53oFYJVppKfZlYXY) | [De Bruces A Mi](https://open.spotify.com/artist/0Mib7yfd1ByhIhA1DmEeMg), [Pablo Molina](https://open.spotify.com/artist/1PoD7Jl0frSiDWXY5Qt0fB) | [Radiante](https://open.spotify.com/album/7yIFVoRj5P8Tkgcebc1KGC) | 3:09 |
 | 57 | [Revolution Rock](https://open.spotify.com/track/4CXWFFeM5WWCPq7rsUMQGu) | [Hugo Lobo](https://open.spotify.com/artist/50UQHipbWWMFQiT6DZYvHN), [Mimi Maura](https://open.spotify.com/artist/4VKHNaUBImLsxPOCdG5Mwl), [Rotman](https://open.spotify.com/artist/7AdeMWeqQNVbth5VTo9gOf), [Kevin Fingier](https://open.spotify.com/artist/12QxNefUHXnBCZ7h7ekoEz) | [Rockin'](https://open.spotify.com/album/7KF1Tscv5C6Nxs9K2YdGJw) | 3:28 |
 | 58 | [Aroma de Café](https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8) | [Laguna Pai](https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS) | [Aroma de Café](https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg) | 4:14 |
-| 59 | [Lo De Siempre](https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 3:22 |
-| 60 | [Dimelo Ayer](https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc) | [Coral Campopiano](https://open.spotify.com/artist/657Gml68DCgI2F5q8ON4s7), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Dimelo Ayer](https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1) | 2:39 |
+| 59 | [Dimelo Ayer](https://open.spotify.com/track/3oLLeHt1QC4UZQR2SQ2wyc) | [Coral Campopiano](https://open.spotify.com/artist/657Gml68DCgI2F5q8ON4s7), [Cucho Parisi](https://open.spotify.com/artist/1uuzWNBMb1W3xA1eP3VGHm) | [Dimelo Ayer](https://open.spotify.com/album/3y26sdvr1EWg1hELlXHTm1) | 2:39 |
+| 60 | [Lo De Siempre](https://open.spotify.com/track/6QG5E3dAlrnoj8yIwJFr1X) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Amor De Barrio](https://open.spotify.com/album/2LvjJW52h7wcohlk5hvGCj) | 3:22 |
 | 61 | [Desenvaina](https://open.spotify.com/track/2ZS1fTBq23a0DV25OEoXuE) | [MAMA GAIA](https://open.spotify.com/artist/5uvIzs93CiewRg46Q9VpCx), [Alika](https://open.spotify.com/artist/0w32WixD69mKW0O6bYwRCt) | [Desenvaina](https://open.spotify.com/album/5PENxTBkBfb8mdYD6WmilY) | 3:02 |
 | 62 | [Quién Sos?](https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH) | [Rondamon](https://open.spotify.com/artist/3rFiEktiHH0wicgmF2HEMP), [Julieta Rada](https://open.spotify.com/artist/5KA95SZBQeMgNMTuqnxzJd) | [Quién Sos?](https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA) | 3:51 |
 | 63 | [El Pescador](https://open.spotify.com/track/5UU7hhIQFIZKjryRuUXmed) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Rey Mago de las Nubes](https://open.spotify.com/album/0IHgCVEFlbvu0QxWzqKA78) | 3:05 |
@@ -91,11 +91,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20S3TU4dlyR.md) - [plain]
 | 81 | [Torito](https://open.spotify.com/track/2ZwuTO02WfcIVWwp6CBRbd) | [Bahiano](https://open.spotify.com/artist/3FXD2eQcHOiacO9qXENLUN) | [Torito](https://open.spotify.com/album/4rJJIsQzU6JTebS1JztNp4) | 3:16 |
 | 82 | [Emocionado](https://open.spotify.com/track/0gAcguZ7sg8FAN1W5KhFBR) | [Fidel Nadal](https://open.spotify.com/artist/7l2wptrNdI4wEHxTlWa6SS), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Emocionado](https://open.spotify.com/album/0v0voYOZZByqK4iVheZdhz) | 4:10 |
 | 83 | [Desinformation](https://open.spotify.com/track/1217Z3BPonXG3Kmm8aSkAp) | [Dancing Mood](https://open.spotify.com/artist/70XauTb6oEJbXxFoH6wY9F) | [Desinformation](https://open.spotify.com/album/1K0WhObVbaoWr0JP4qzv5J) | 4:03 |
-| 84 | [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 |
-| 85 | [Buena Suerte](https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Humo](https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE) | 3:59 |
+| 84 | [Buena Suerte](https://open.spotify.com/track/4dr6LUn5QQyBAYuFzJSZfU) | [Leonchalon](https://open.spotify.com/artist/18hhcln4FwPkj2iwxT5yB0) | [Humo](https://open.spotify.com/album/7fnXhIC06cyvU9ZOP6BaBE) | 3:59 |
+| 85 | [Tenia Tanto Para Darte](https://open.spotify.com/track/5qrhqH8hLTSKD7kWBBPLSb) | [Matamba](https://open.spotify.com/artist/7icDj3mEmk3X2phthD7iA2) | [Tenia Tanto Para Darte](https://open.spotify.com/album/43pSNKPzm4MTPmqbgzc96B) | 4:23 |
 | 86 | [El Cuento](https://open.spotify.com/track/1Qdl60UYYCVLkZbsNwSyQZ) | [12 Tribus](https://open.spotify.com/artist/7whGu0xfNiwItHQv41NXH4), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Súbete](https://open.spotify.com/album/7g5vosPUeBXE53YHV923pU) | 4:05 |
-| 87 | [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 |
-| 88 | [La Ventanita](https://open.spotify.com/track/5xTJCta6EUo8YsTlxuGPmz) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [El Gran Poder, Vol\. 2](https://open.spotify.com/album/34ei7ktYVRfNWrjvmqhR7U) | 3:35 |
+| 87 | [La Ventanita](https://open.spotify.com/track/5xTJCta6EUo8YsTlxuGPmz) | [Karamelo Santo](https://open.spotify.com/artist/609ifGTYnL9iOfPI5KIzq1) | [El Gran Poder, Vol\. 2](https://open.spotify.com/album/34ei7ktYVRfNWrjvmqhR7U) | 3:35 |
+| 88 | [Nada Que Me Venga Mal](https://open.spotify.com/track/3mCh5KP0yBG8j3ZKN32HBo) | [Slow Burnin´](https://open.spotify.com/artist/5oASUTlwuH3OXP0hRx52IV) | [Liberación](https://open.spotify.com/album/6f4GpIJ3krZEEVCxGNQLi1) | 2:51 |
 | 89 | [Es Real](https://open.spotify.com/track/4X4hOKhoNHdwpvS6bwLvX9) | [Riddim](https://open.spotify.com/artist/4nrP6H78NuKzQr9bQxAFVk) | [Es Real](https://open.spotify.com/album/67sqDVeSGLXUmM3cPx4B3d) | 4:17 |
 
-Snapshot ID: `MCxmN2UyYTZjYzBlM2Y1YWMwN2E5MmRlM2ZiMWQ0NzZhYTBlY2MwMGRi`
+Snapshot ID: `MCwzNzI1NTBmMTUyYzY5ZWI4MTg1ODUyNGRkNjZmYmE0ZGU1ODZiOGZj`

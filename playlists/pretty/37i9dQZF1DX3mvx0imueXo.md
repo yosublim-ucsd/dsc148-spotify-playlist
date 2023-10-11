@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 
 > Let the music lift your soul\. Vibes from the different islands in the Caribbean
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,455 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 406,125 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3mvx0imueXo.md) - [plain]
 | 43 | [Honey \(feat\. Hollie Cook\)](https://open.spotify.com/track/1mXRyHsVvA3EVIRMcFPiuC) | [Gentleman's Dub Club](https://open.spotify.com/artist/6AGZSUNP6AVZ2BTxUsbJsr), [Hollie Cook](https://open.spotify.com/artist/1fwuUuFbqXJx3B17PUhFCE) | [Down to Earth](https://open.spotify.com/album/1ZILnlUmwWbgFRyQMc1bj6) | 4:29 |
 | 44 | [Mr\. Global \(with Kabaka Pyramid\)](https://open.spotify.com/track/45wzZ9CfGX8dDw1qbJTvEp) | [Mellow Mood](https://open.spotify.com/artist/0DoxfbAxoISNySf35oVCN5), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Mr\. Global \(with Kabaka Pyramid\)](https://open.spotify.com/album/1zXR7PaPj9fKIOC1XAXb2o) | 3:28 |
 | 45 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
-| 46 | [Stay Woke](https://open.spotify.com/track/6osoYGfqRBZ2QdHo1pBCk5) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L), [Danjah](https://open.spotify.com/artist/2ZyQXz3BsnPPB5bcUYZ6hO), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Stay Woke](https://open.spotify.com/album/34i058rgu3AHHS7IoIy25O) | 3:09 |
-| 47 | [Chosen People](https://open.spotify.com/track/6syjfmKZUlo6IAPJqGDvR2) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:12 |
+| 46 | [Chosen People](https://open.spotify.com/track/6syjfmKZUlo6IAPJqGDvR2) | [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf), [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:12 |
+| 47 | [Stay Woke](https://open.spotify.com/track/6osoYGfqRBZ2QdHo1pBCk5) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Million Stylez](https://open.spotify.com/artist/2TF8gIfNvlOCCEgAoOUz2L), [Danjah](https://open.spotify.com/artist/2ZyQXz3BsnPPB5bcUYZ6hO), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Stay Woke](https://open.spotify.com/album/34i058rgu3AHHS7IoIy25O) | 3:09 |
 | 48 | [Trample Dem](https://open.spotify.com/track/7Dyln70mOiNJJOCsgieCHc) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 3:08 |
 | 49 | [Country For Sale](https://open.spotify.com/track/68oDnG7v4aBLMuv1eai4Wz) | [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Country For Sale](https://open.spotify.com/album/3XuNfGRXqZu5Io2clP5RUd) | 4:00 |
 | 50 | [Do Your Ting](https://open.spotify.com/track/7pXiEvsPrQDXfgl1Cq1I8m) | [Mr\. Williamz](https://open.spotify.com/artist/3iL52u3kr14P6cTpB0VuEs), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Do Your Ting](https://open.spotify.com/album/2H6K5EZURlSU5dnnlEFJxU) | 3:12 |
 
-Snapshot ID: `MCw3YTE5ODcwZTVjNjUwMTZjMDNlMzg4MGY1ZDYwMGZmNDQ4YzI0ZmIx`
+Snapshot ID: `MCwwNTQzMzRkMDQ2MGQ0Y2MxYjZlYjYwNjMyODQzZmEzZWYzMDNhNzM5`

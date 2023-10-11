@@ -2885,6 +2885,24 @@
     },
     {
       "album": {
+        "name": "Soltar",
+        "url": "https://open.spotify.com/album/7eK4jDOu5p360olwqEXCGQ"
+      },
+      "artists": [
+        {
+          "name": "Josep Alba",
+          "url": "https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178422,
+      "name": "Soltar",
+      "url": "https://open.spotify.com/track/3d1B1D0n0gVOkY0kbV6s4p"
+    },
+    {
+      "album": {
         "name": "Soul Sanctuary",
         "url": "https://open.spotify.com/album/7vsIKloIvCCSEKAssTlBkH"
       },
@@ -3076,7 +3094,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 214083,
       "name": "Sun Salutation",
       "url": "https://open.spotify.com/track/5NlB5vx0KNyOr4RM9oelFz"

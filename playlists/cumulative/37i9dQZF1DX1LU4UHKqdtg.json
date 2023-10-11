@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: NewJeans",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: (G)I-DLE",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -1694,7 +1694,7 @@
       ],
       "date_added": "2023-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 226632,
       "name": "blessing in disguise",
       "url": "https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq"
@@ -3743,6 +3743,24 @@
     },
     {
       "album": {
+        "name": "THE X",
+        "url": "https://open.spotify.com/album/7xPrNhb6rvNXfEC3nD9Iq2"
+      },
+      "artists": [
+        {
+          "name": "Seo In Guk",
+          "url": "https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183160,
+      "name": "Don\u2018t Be Jealous",
+      "url": "https://open.spotify.com/track/0lDI92xY3cKdX2shXzzJKz"
+    },
+    {
+      "album": {
         "name": "HARMONY : ZERO IN",
         "url": "https://open.spotify.com/album/73CTPjApMDvFsycjbbROji"
       },
@@ -5276,7 +5294,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 218146,
       "name": "Golden Age",
       "url": "https://open.spotify.com/track/6NVdrwoqcAD16HMPOT6FLE"
@@ -5554,6 +5572,24 @@
       "duration_ms": 224533,
       "name": "HANA MICHI",
       "url": "https://open.spotify.com/track/6Ype063HsGKF7AholzHRFh"
+    },
+    {
+      "album": {
+        "name": "Hands Up",
+        "url": "https://open.spotify.com/album/6J2BAxUAbaNojOQNAvXMiR"
+      },
+      "artists": [
+        {
+          "name": "NCT NEW TEAM",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194653,
+      "name": "Hands Up",
+      "url": "https://open.spotify.com/track/0Wp5yopFqgKyklOReg9S8a"
     },
     {
       "album": {
@@ -7104,7 +7140,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 212520,
       "name": "LIP GLOSS",
       "url": "https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as"
@@ -7938,7 +7974,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 184760,
       "name": "Miss You feat. Vernon of SEVENTEEN",
       "url": "https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi"
@@ -9458,7 +9494,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 191893,
       "name": "Ready or Not",
       "url": "https://open.spotify.com/track/5ArnumzuZkiaSmZaxPsQfh"
@@ -11032,7 +11068,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 190000,
       "name": "Spicy - Nitepunk Remix",
       "url": "https://open.spotify.com/track/41Kf9FQ2Dxj81cjQpEWDUJ"
@@ -11314,6 +11350,24 @@
       "duration_ms": 186619,
       "name": "Sugar Rush Ride - Japanese Ver.",
       "url": "https://open.spotify.com/track/7hQwG47K0xxgxdJN1aXRGu"
+    },
+    {
+      "album": {
+        "name": "Sugar-holic",
+        "url": "https://open.spotify.com/album/1eFW6R2WJUCHWSHchYkLN2"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183146,
+      "name": "Sugar-holic",
+      "url": "https://open.spotify.com/track/47YvjyoCQpYwZbRj0Rs985"
     },
     {
       "album": {
@@ -13138,7 +13192,7 @@
       ],
       "date_added": "2023-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 188532,
       "name": "We Go",
       "url": "https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ"
@@ -13850,6 +13904,24 @@
       "duration_ms": 230813,
       "name": "\u3042\u3044\u306e\u3061\u304b\u3089",
       "url": "https://open.spotify.com/track/3I5W8iA8iZAyO62UVceK3F"
+    },
+    {
+      "album": {
+        "name": "\u3042\u306a\u305f\u304c\u3044\u308b\u3053\u3068\u3067",
+        "url": "https://open.spotify.com/album/0N5eCVXJi53QdpnD3AjsdA"
+      },
+      "artists": [
+        {
+          "name": "J-JUN",
+          "url": "https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 314120,
+      "name": "\u3042\u306a\u305f\u304c\u3044\u308b\u3053\u3068\u3067",
+      "url": "https://open.spotify.com/track/1KRiLcsOgWg5B2Og97VqCj"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 
 > Strictly for the streets\. Cover: Lil Durk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,057 likes - 101 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,955 likes - 101 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 66 | [GTA](https://open.spotify.com/track/0BjnnSOpNQa779935YIE81) | [21 Lil Harold](https://open.spotify.com/artist/6X9Dt3dsZDeWzMBfekaoPB) | [GTA](https://open.spotify.com/album/0XJ7SlwKhONKSr4qUSeC9r) | 2:03 |
 | 67 | [Ain't Original \(feat\. BLP Kosher\)](https://open.spotify.com/track/4LzFEoCf9DIdV5bIcEBhkZ) | [SCY Jimm](https://open.spotify.com/artist/5vhUGtJ92TFdOlyZMDCXyT), [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Ain't Original \(feat\. BLP Kosher\)](https://open.spotify.com/album/0j99VVsMbU9MxVkrPLxMEk) | 2:45 |
 | 68 | [Fan Or A Killer](https://open.spotify.com/track/4TvpN52tawjwsilh1WA6jf) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ), [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [ENJOY THE SHOW](https://open.spotify.com/album/3RtdXc8lRp6bZN6s5XcFKA) | 2:15 |
-| 69 | [BRRR B \(feat\. Gucci Mane\)](https://open.spotify.com/track/0h4RTOJWacHhYBXBzPbL2q) | [Brezden](https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [BRRR B \(feat\. Gucci Mane\)](https://open.spotify.com/album/1pSmiBc3J2Ty2HKvn3QGPq) | 3:24 |
+| 69 | [BRRR B](https://open.spotify.com/track/0h4RTOJWacHhYBXBzPbL2q) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Brezden](https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt) | [BRRR B \(feat\. Gucci Mane\)](https://open.spotify.com/album/1pSmiBc3J2Ty2HKvn3QGPq) | 3:24 |
 | 70 | [Smooth](https://open.spotify.com/track/7fT5oRGPyTQVoR56GLM57W) | [Kountry50K](https://open.spotify.com/artist/1nAk4f03QT0MjFLLTY4PbH), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [Smooth](https://open.spotify.com/album/5CiZTOCNU2PVQQjsAGz1WP) | 2:39 |
 | 71 | [No Statements](https://open.spotify.com/track/0pSOqjxYRQ0HjHs1LbxIkw) | [ScarLip](https://open.spotify.com/artist/0XSAX3u9L4gKXmbhSwPnIJ) | [No Statements](https://open.spotify.com/album/5iWKMNJfz4v7ht3m0sqbiK) | 2:38 |
 | 72 | [One Time](https://open.spotify.com/track/6JXJgBcTfcuiPAd0416sOB) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [One Time](https://open.spotify.com/album/2B4p1yxwU3nBooi6ZYlUUn) | 2:59 |
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxIqwkEGFEh.md) - [plain]
 | 100 | [Raw ASL](https://open.spotify.com/track/5lCXJ1n0JQPJM4SgSp054k) | [Icewear Vezzo](https://open.spotify.com/artist/1ZbmerOthZbxz5eR3c9Mn1) | [Raw ASL](https://open.spotify.com/album/7KimPKI5rbjUnx7UFd6eZC) | 2:26 |
 | 101 | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/track/2HvORsttUMTfUqEyhX7z1x) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5) | [B'CUZ \(feat\. G Herbo\)](https://open.spotify.com/album/2DTtyXTqV77kHcu20TDNyE) | 2:51 |
 
-Snapshot ID: `MCw3ZmY0OThhYjE2MDljMTU2MmQwZmYzNWJhZDQxMzMwMjRjZGYzNGNj`
+Snapshot ID: `MCwxYTJmZGE1YWVhMWRkYTI4MDZhOWQ1ODFhMjdmYjI4NjBkZTc2NGE0`

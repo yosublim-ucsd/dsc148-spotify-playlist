@@ -1,12 +1,12 @@
 {
   "description": "heartbreak feels good in a place like this Cover: Rene\u00e9 Rapp",
-  "num_followers": 1633084,
+  "num_followers": 1633994,
   "original_name": "sad hour",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDM1ZmNjYmVjNmZiYmEzYmUyOTRiODZiZDNjZDExNDYxYjVmN2M1",
+  "snapshot_id": "MCw5NzYxNzI2MTExNGNmOGQ4NWEzYTA3MTkxYjk4ODFkNWFmNjA5MDdm",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -175,22 +175,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Plastic Hearts",
-        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
-      },
-      "artists": [
-        {
-          "name": "Miley Cyrus",
-          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
-        }
-      ],
-      "duration_ms": 196453,
-      "name": "Angels Like You",
-      "url": "https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Romantic Homicide",
         "url": "https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B"
       },
@@ -203,6 +187,22 @@
       "duration_ms": 132630,
       "name": "Romantic Homicide",
       "url": "https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Plastic Hearts",
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 196453,
+      "name": "Angels Like You",
+      "url": "https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Broken By Desire To Be Heavenly Sent",
-        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 210880,
-      "name": "Wish You The Best",
-      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Rare",
         "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 206458,
       "name": "Lose You To Love Me",
       "url": "https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Broken By Desire To Be Heavenly Sent",
+        "url": "https://open.spotify.com/album/0ECSyPejfD7oL95dD3jgoi"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 210880,
+      "name": "Wish You The Best",
+      "url": "https://open.spotify.com/track/3gdPwk2wyOXNRnTA1KXnEr"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 163586,
-      "name": "1 step forward, 3 steps back",
-      "url": "https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Black Friday",
         "url": "https://open.spotify.com/album/0BdmqjXLz0L6gF78ldUYHp"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 221510,
       "name": "Black Friday",
       "url": "https://open.spotify.com/track/1XTY6rA7XQosc0ynkkE9kN"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 163586,
+      "name": "1 step forward, 3 steps back",
+      "url": "https://open.spotify.com/track/4wcBRRpIfesgcyUtis7PEg"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "orange blood",
-        "url": "https://open.spotify.com/album/2Eci8P9zJCFawKXvoNCTKE"
-      },
-      "artists": [
-        {
-          "name": "Zach Templar",
-          "url": "https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj"
-        }
-      ],
-      "duration_ms": 145833,
-      "name": "missin something",
-      "url": "https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Petals to Thorns",
         "url": "https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 284305,
       "name": "This Is How It Feels (with Laufey)",
       "url": "https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "orange blood",
+        "url": "https://open.spotify.com/album/2Eci8P9zJCFawKXvoNCTKE"
+      },
+      "artists": [
+        {
+          "name": "Zach Templar",
+          "url": "https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj"
+        }
+      ],
+      "duration_ms": 145833,
+      "name": "missin something",
+      "url": "https://open.spotify.com/track/790xAaylcgzyKm40GM95Gl"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "anatomy",
-        "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
-      },
-      "artists": [
-        {
-          "name": "kenzie",
-          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
-        }
-      ],
-      "duration_ms": 182073,
-      "name": "anatomy",
-      "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Oceans & Engines",
         "url": "https://open.spotify.com/album/2va673nk2JXgCxJeTiZdM9"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 336000,
       "name": "Oceans & Engines",
       "url": "https://open.spotify.com/track/3vZk7OAUjMtVDNC852aNqi"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "anatomy",
+        "url": "https://open.spotify.com/album/1HqB6FRF465zbiakkjsCLg"
+      },
+      "artists": [
+        {
+          "name": "kenzie",
+          "url": "https://open.spotify.com/artist/5pWUVnrc1y0FpWZ6VCy0Hg"
+        }
+      ],
+      "duration_ms": 182073,
+      "name": "anatomy",
+      "url": "https://open.spotify.com/track/7r2DoJ1tzl12CJ3fbsmoUT"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1899,6 +1899,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/11p55BSOZRJ6NvNuycreEl"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "Empty Room",
+      "url": "https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "The Loveliest Time",
         "url": "https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 180274,
       "name": "Hurtless",
       "url": "https://open.spotify.com/track/6HJizCbaqaEQG1eLjn341Z"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/11p55BSOZRJ6NvNuycreEl"
-      },
-      "artists": [
-        {
-          "name": "Jamie Miller",
-          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
-        }
-      ],
-      "duration_ms": 184746,
-      "name": "Empty Room",
-      "url": "https://open.spotify.com/track/4ZIfi9sghAcESLhBFvbxHc"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Phases",
-        "url": "https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3"
-      },
-      "artists": [
-        {
-          "name": "Keenan Te",
-          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
-        }
-      ],
-      "duration_ms": 168461,
-      "name": "Unlearn You",
-      "url": "https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Broken Memories",
         "url": "https://open.spotify.com/album/7Exl3hREAY4tg3m06nkbys"
       },
@@ -2055,6 +2039,22 @@
       "duration_ms": 201306,
       "name": "I Lost Myself In Loving You",
       "url": "https://open.spotify.com/track/3PhzwF9SOkkMIoUSIxFtwo"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Phases",
+        "url": "https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3"
+      },
+      "artists": [
+        {
+          "name": "Keenan Te",
+          "url": "https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Unlearn You",
+      "url": "https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2075,22 +2075,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Keep Your Head Up Princess",
-        "url": "https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 198220,
-      "name": "Keep Your Head Up Princess",
-      "url": "https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Never Had a Chance",
         "url": "https://open.spotify.com/album/6xetIkLc35ytsM6poTBsdt"
       },
@@ -2103,6 +2087,22 @@
       "duration_ms": 145520,
       "name": "Never Had a Chance",
       "url": "https://open.spotify.com/track/5SSN6VUT5PduTBsGbTd2Sd"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Keep Your Head Up Princess",
+        "url": "https://open.spotify.com/album/5Wwvdrq2pNP4zWBh6NtdvK"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 198220,
+      "name": "Keep Your Head Up Princess",
+      "url": "https://open.spotify.com/track/19pChrR4hwdINqoOFUo2Hj"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2315,6 +2315,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "In The Lonely Hour (Drowning Shadows Edition)",
+        "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 162732,
+      "name": "Make It To Me",
+      "url": "https://open.spotify.com/track/13CHIxzN5Z4mbjjADGplNT"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "What Was",
         "url": "https://open.spotify.com/album/2UormkcNVEx1y48KAY3B5T"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 204398,
       "name": "you don't love me anymore",
       "url": "https://open.spotify.com/track/306BR5TD0UlriDlzObxvk9"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "In The Lonely Hour (Drowning Shadows Edition)",
-        "url": "https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 162732,
-      "name": "Make It To Me",
-      "url": "https://open.spotify.com/track/13CHIxzN5Z4mbjjADGplNT"
     },
     {
       "added_at": "2023-09-29 04:00:00",

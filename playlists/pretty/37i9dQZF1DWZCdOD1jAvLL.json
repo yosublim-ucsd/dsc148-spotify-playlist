@@ -1,12 +1,12 @@
 {
   "description": "Ride the bassline. Cover: Nostalgix & Rico Nasty",
-  "num_followers": 225688,
+  "num_followers": 225744,
   "original_name": "Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZTkxOWRhMTFkNTY5MGU2NzY3ZGQwOGIyNGRhNjYxZjViOGEyYWFm",
+  "snapshot_id": "MCwwZmYzMzZhMjBkZmRkZDcyYjE4ODZkNmNhMjMyYmJkZTAyNzMzOTQw",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Make U SWEAT!",
+        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "duration_ms": 234285,
+      "name": "Make U SWEAT!",
+      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Criminal",
         "url": "https://open.spotify.com/album/1uyc31Iw3pbYXstxykjzfr"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 251862,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/1wlsLLlTQjtqBvrPbKXHXd"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Make U SWEAT!",
-        "url": "https://open.spotify.com/album/0kHRNlcXwAsSJTlUYOtmg3"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        }
-      ],
-      "duration_ms": 234285,
-      "name": "Make U SWEAT!",
-      "url": "https://open.spotify.com/track/5uh8m2Lna0Gfk8YGqYVb6d"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1663,6 +1663,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Synergy",
+        "url": "https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "DVBBS",
+          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
+        }
+      ],
+      "duration_ms": 209714,
+      "name": "Synergy",
+      "url": "https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "GORILLA WARFARE",
         "url": "https://open.spotify.com/album/5T8GgvkUuurpkaYsoTA1Dx"
       },
@@ -1683,26 +1703,6 @@
       "duration_ms": 156800,
       "name": "WARFARE",
       "url": "https://open.spotify.com/track/6lKOsX2JpmCcOf1ja3Xu6g"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Synergy",
-        "url": "https://open.spotify.com/album/10FiVORbZ6sRGYLWkP3PQ4"
-      },
-      "artists": [
-        {
-          "name": "Timmy Trumpet",
-          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
-        },
-        {
-          "name": "DVBBS",
-          "url": "https://open.spotify.com/artist/5X4LWwbUFNzPkEas04uU82"
-        }
-      ],
-      "duration_ms": 209714,
-      "name": "Synergy",
-      "url": "https://open.spotify.com/track/5KkxBEAqnxcfibAepMZSyA"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1995,6 +1995,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Sword In Stone",
+        "url": "https://open.spotify.com/album/62m1HkDMOhYnZyZv7IiOfq"
+      },
+      "artists": [
+        {
+          "name": "Black Tiger Sex Machine",
+          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
+        },
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 216827,
+      "name": "Sword In Stone",
+      "url": "https://open.spotify.com/track/7vq6EwYSOUHoUwzLoR0OdV"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Move Your Body (feat. Moxie Knox)",
         "url": "https://open.spotify.com/album/6yWax0Ay0UMS5CXJquubSu"
       },
@@ -2015,26 +2035,6 @@
       "duration_ms": 190625,
       "name": "Move Your Body (feat. Moxie Knox)",
       "url": "https://open.spotify.com/track/2QUjCgRuF6grKzr4mINjs8"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Sword In Stone",
-        "url": "https://open.spotify.com/album/62m1HkDMOhYnZyZv7IiOfq"
-      },
-      "artists": [
-        {
-          "name": "Black Tiger Sex Machine",
-          "url": "https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC"
-        },
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 216827,
-      "name": "Sword In Stone",
-      "url": "https://open.spotify.com/track/7vq6EwYSOUHoUwzLoR0OdV"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2283,22 +2283,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pocketknife",
-        "url": "https://open.spotify.com/album/2dAJpqKsJv9xiWMAH1z0k0"
+        "name": "Thinkin of You",
+        "url": "https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6"
       },
       "artists": [
         {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+          "name": "Dylan & Harry",
+          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
         },
         {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+          "name": "Party Favor",
+          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
         }
       ],
-      "duration_ms": 259812,
-      "name": "Pocketknife",
-      "url": "https://open.spotify.com/track/4s3SY8wz9GaTMkAYBloV4k"
+      "duration_ms": 137142,
+      "name": "Thinkin of You",
+      "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2319,6 +2323,26 @@
       "duration_ms": 215156,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/4rKQA3rD8ytaoaRABz9CL6"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Pocketknife",
+        "url": "https://open.spotify.com/album/2dAJpqKsJv9xiWMAH1z0k0"
+      },
+      "artists": [
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 259812,
+      "name": "Pocketknife",
+      "url": "https://open.spotify.com/track/4s3SY8wz9GaTMkAYBloV4k"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2347,30 +2371,6 @@
       "duration_ms": 217846,
       "name": "BACK ONLINE",
       "url": "https://open.spotify.com/track/46bI9wmq6kDJJ3yAqTvkzH"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Thinkin of You",
-        "url": "https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6"
-      },
-      "artists": [
-        {
-          "name": "Dylan & Harry",
-          "url": "https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc"
-        },
-        {
-          "name": "Party Favor",
-          "url": "https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm"
-        },
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 137142,
-      "name": "Thinkin of You",
-      "url": "https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej"
     },
     {
       "added_at": "2023-10-06 04:00:00",

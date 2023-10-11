@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,381 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,436 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 37 | [Knowing We'll Be Here](https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone Logic](https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92) | 5:42 |
 | 38 | [Nektar Leftie MIX \- Erdbeerschnitzel Remix](https://open.spotify.com/track/5yHjIzK4HlP9pmnpTyKiyQ) | [Iron Curtis](https://open.spotify.com/artist/3SxSMKGboN9d8DxDRIB7pH), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt), [Lisa Toh](https://open.spotify.com/artist/17oFlDwJ5mU3pfbUxArTCO), [Erdbeerschnitzel](https://open.spotify.com/artist/36VqKnfwNzccEtS4eiFkMx) | [Moon II Remixes Pt\. II](https://open.spotify.com/album/7xlT3P0bDwaphbAUhIYYpD) | 4:37 |
 | 39 | [Between Dreams and Reality \- Niko Schwind Remix](https://open.spotify.com/track/3YJIq3N5IQy1hhkmUnt2NM) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2), [Niko Schwind](https://open.spotify.com/artist/4jPpDbD1ERO3zjBon97ECM) | [Between Dreams and Reality EP](https://open.spotify.com/album/2UlAQEGL6LQ0G2KFP4x6e4) | 8:48 |
-| 40 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
-| 41 | [The Right Place \(feat\. Teira\)](https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:32 |
+| 40 | [The Right Place \(feat\. Teira\)](https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:32 |
+| 41 | [Monolith](https://open.spotify.com/track/5HUQByo24AQbWzEEWJeBiB) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [LNOE Introducing Vol\. 1](https://open.spotify.com/album/3qdIt9ZElhxVeGwbydXpzz) | 5:22 |
 | 42 | [Years On Years](https://open.spotify.com/track/7jp4qGkFD3kSMekSTC8pTL) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Years On Years \(Remixes\)](https://open.spotify.com/album/2Mb92lfeM1wG0qB8NK69Jy) | 2:03 |
 | 43 | [Kindness](https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Kindness](https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t) | 4:35 |
 | 44 | [Archive Seven](https://open.spotify.com/track/5q9o521FdgonxiKsvAFIPJ) | [Pilotpriest](https://open.spotify.com/artist/6WedqgL53vbco33SU3sVAX) | [WWDKF](https://open.spotify.com/album/1PZ4lKDTSi66OmL8plZEfM) | 5:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 49 | [Ichika](https://open.spotify.com/track/1MRBa5AnDvmIoiT2NyyBoL) | [Jozef K](https://open.spotify.com/artist/30qZ701I6hThXcmPPkcrF0) | [Ichika](https://open.spotify.com/album/4lrJKMimi4yC5uGgUVNdgZ) | 8:05 |
 | 50 | [Cow Palace](https://open.spotify.com/track/3KOJFD2qK8pvcXMstA8Ss4) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [The Haunted House of House](https://open.spotify.com/album/2F0NkwRHdlAjnMIiYbjF1n) | 5:46 |
 
-Snapshot ID: `MCwwMTFlOGY3OTg2ZjJiNjk1MTEyOTM3NzY2ZTQ3N2FmNDQwMjQ4ZDUy`
+Snapshot ID: `MCxmZDM0ZGEyMjgwZGU3OTUwMGQ2NDYzMzU1MTY0YTg5ZDU3MDczNmQ2`

@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Dannylux en portada.",
-  "num_followers": 55046,
+  "num_followers": 55050,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTY5NzRkN2E0OWU3N2U0ZGQ1NmQ3OTkzMmFhYTRjNWNhZjUwMDRi",
+  "snapshot_id": "MCwyODhlYjU2NmYwYWNlMTMyMzBhNmVkMTMwNjEyNWRiYjQxZGU4ZTVi",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1159,8 +1159,8 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Scare",
-        "url": "https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC"
+        "name": "Empty Words",
+        "url": "https://open.spotify.com/album/3ZkgrJ5TuwFNMniMQIKRRl"
       },
       "artists": [
         {
@@ -1168,17 +1168,13 @@
           "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
         },
         {
-          "name": "Gerard Butler",
-          "url": "https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U"
-        },
-        {
           "name": "S & L",
           "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
         }
       ],
-      "duration_ms": 204000,
-      "name": "Scare",
-      "url": "https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd"
+      "duration_ms": 167500,
+      "name": "Empty Words",
+      "url": "https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1319,6 +1315,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT"
+      },
+      "artists": [
+        {
+          "name": "SANTO BEATS",
+          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
+        }
+      ],
+      "duration_ms": 121937,
+      "name": "FUEL",
+      "url": "https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Covalent Bond",
         "url": "https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK"
       },
@@ -1339,24 +1351,8 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/2yTFKloSOxRQA29lkcqTiT"
-      },
-      "artists": [
-        {
-          "name": "SANTO BEATS",
-          "url": "https://open.spotify.com/artist/7DqK1Dh8pT3MLdsf9Nomml"
-        }
-      ],
-      "duration_ms": 121937,
-      "name": "FUEL",
-      "url": "https://open.spotify.com/track/04IaS7b2qlJGviIMQDJm2A"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Empty Words",
-        "url": "https://open.spotify.com/album/3ZkgrJ5TuwFNMniMQIKRRl"
+        "name": "Scare",
+        "url": "https://open.spotify.com/album/6BPhjXdUpmMAOkJSCqelmC"
       },
       "artists": [
         {
@@ -1364,13 +1360,17 @@
           "url": "https://open.spotify.com/artist/41haltKXF86Qj99kzlGZZE"
         },
         {
+          "name": "Gerard Butler",
+          "url": "https://open.spotify.com/artist/7H25O93TTUoaZ0ZaFk318U"
+        },
+        {
           "name": "S & L",
           "url": "https://open.spotify.com/artist/30FC2mjDus2hHWKrXFUlkL"
         }
       ],
-      "duration_ms": 167500,
-      "name": "Empty Words",
-      "url": "https://open.spotify.com/track/6yAGKyOvFquLOnrM75re5N"
+      "duration_ms": 204000,
+      "name": "Scare",
+      "url": "https://open.spotify.com/track/6XGF8hGFGgbr7rzCwpRRLd"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Give Me Your Heart (Somos Uno)",
+        "url": "https://open.spotify.com/album/3R79qs8T32OudQdPBZ0Ope"
+      },
+      "artists": [
+        {
+          "name": "Sisster",
+          "url": "https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF"
+        }
+      ],
+      "duration_ms": 209267,
+      "name": "Give Me Your Heart (Somos Uno)",
+      "url": "https://open.spotify.com/track/0cEkRIcJMo0KIxNsWiKyob"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Filosof\u00eda",
         "url": "https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 180918,
       "name": "Filosof\u00eda",
       "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Give Me Your Heart (Somos Uno)",
-        "url": "https://open.spotify.com/album/3R79qs8T32OudQdPBZ0Ope"
-      },
-      "artists": [
-        {
-          "name": "Sisster",
-          "url": "https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF"
-        }
-      ],
-      "duration_ms": 209267,
-      "name": "Give Me Your Heart (Somos Uno)",
-      "url": "https://open.spotify.com/track/0cEkRIcJMo0KIxNsWiKyob"
     },
     {
       "added_at": "2023-10-06 06:00:00",

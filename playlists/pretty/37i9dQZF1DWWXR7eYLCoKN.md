@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,850 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,913 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 49 | [Chega de Saudade](https://open.spotify.com/track/7CS9xHifm0tfyGCmrRAEQ7) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [Beth](https://open.spotify.com/album/57u3pqnTEmTJvl9iJ5x2kO) | 3:28 |
 | 50 | [Histórias Pra Ninar Gente Grande](https://open.spotify.com/track/5thOB6WCgzFvmLzxz4sd5G) | [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Mangueira \- a Menina Dos Meus Olhos](https://open.spotify.com/album/1fM9ENPGM3zEqigHsWQXCC) | 2:37 |
 | 51 | [Trilha do Amor \- Ao Vivo](https://open.spotify.com/track/62CE5q62TRlQn6IlkRY5e1) | [Roberta Sá](https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG) | [Sambasá \(Ao Vivo\)](https://open.spotify.com/album/5oOP2shCd8ScEWH2mHDecV) | 3:35 |
-| 52 | [Saudosa Maloca](https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Para Sempre](https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF) | 2:20 |
-| 53 | [Tiro Ao Álvaro](https://open.spotify.com/track/2sLvYnCS3S8klPvZGXGic2) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Elis Regina](https://open.spotify.com/album/4huMvebKxtKXAm51LCfOoC) | 2:42 |
+| 52 | [Tiro Ao Álvaro](https://open.spotify.com/track/2sLvYnCS3S8klPvZGXGic2) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Elis Regina](https://open.spotify.com/album/4huMvebKxtKXAm51LCfOoC) | 2:42 |
+| 53 | [Saudosa Maloca](https://open.spotify.com/track/1BSOKVzoPqJh6z6YzvJtkJ) | [Adoniran Barbosa](https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP) | [Para Sempre](https://open.spotify.com/album/377Lmb4EKi6WZAuTdvm4RF) | 2:20 |
 | 54 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 |
 | 55 | [Samba de Amanda e Té](https://open.spotify.com/track/6xWOiauYbwhl7VgznlCAoc) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:16 |
 | 56 | [Papo Final](https://open.spotify.com/track/1S8iDtct4TXU3AbZYW5BIp) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Maria Rita](https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI) | [Papo Final](https://open.spotify.com/album/4RAvbjlgTKKlWTfX2XOGmQ) | 2:33 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 61 | [Coisa de Louco](https://open.spotify.com/track/6XkGn0O46URevLIgKY7RV4) | [Wilson Simonal](https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya) | [Ninguém Proíbe o Amor](https://open.spotify.com/album/49MDngi8Qu6oQIFnRxuJmq) | 3:54 |
 | 62 | [Tristeza Pé No Chão](https://open.spotify.com/track/2NqeDvrZpwUQLP0Uwcdw4L) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151) | [Canto Sagrado \- Uma Homenagem à Clara Nunes](https://open.spotify.com/album/2Ma8jKWBczZsqzZS4jeIzo) | 4:24 |
 | 63 | [Mercado das Flores](https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd) | [Rodrigo Maranhão](https://open.spotify.com/artist/04r6DFJdJcb3qx9IPidegH) | [Mercado das Flores](https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup) | 3:10 |
-| 64 | [Aprendi a Ser Feliz](https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx) | [Elisa Fernandes](https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ) | [Saravá, Paz e Bem](https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z) | 3:43 |
-| 65 | [E Luxo Só](https://open.spotify.com/track/2gmmc95lX2fuZA3gVzBOjc) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:59 |
+| 64 | [E Luxo Só](https://open.spotify.com/track/2gmmc95lX2fuZA3gVzBOjc) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [João Gilberto Apresenta Chega de Saudade](https://open.spotify.com/album/6eEhHeu8VTc5WemfyfgLY8) | 1:59 |
+| 65 | [Aprendi a Ser Feliz](https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx) | [Elisa Fernandes](https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ) | [Saravá, Paz e Bem](https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z) | 3:43 |
 | 66 | [Gema \(342 Amazônia ao Vivo no Circo Voador\)](https://open.spotify.com/track/0QEZd6kBAGnVjpfL0T165H) | [Teresa Cristina](https://open.spotify.com/artist/2j5unrF80yCu3AF8MPE2VE), [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Gema \(342 Amazônia ao Vivo no Circo Voador\)](https://open.spotify.com/album/0sbkCMPCxWHQlPjXRlLy2D) | 2:25 |
 | 67 | [Atraco](https://open.spotify.com/track/6iSEEpOeVU0VdXdpq8O6CM) | [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ), [Mari Tavares](https://open.spotify.com/artist/2wUOBLQeG4XpiuIe1QGUxR) | [Pagode Novo](https://open.spotify.com/album/0s8D5BFXXSI6sxJuszFphf) | 3:25 |
 | 68 | [Se Me Chamar, Ô Sorte!](https://open.spotify.com/track/0CbaCHAddjPeDbA7x5Y2xp) | [Wilson Das Neves](https://open.spotify.com/artist/0dDz30ZxGRurnghF0Q6Oxn), [Cláudio Jorge](https://open.spotify.com/artist/1xvCT2DwPjwDTrRrgOkD8c) | [Se Me Chamar, Ô Sorte](https://open.spotify.com/album/6On7sJLC8PM1TM4FLdHNZt) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 99 | [Malandro \- Ao Vivo](https://open.spotify.com/track/54G9rpksU4kOftGuzvPErz) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Carioca da Gema \(Ao Vivo\)](https://open.spotify.com/album/4LNmMWxJoJ5xKoJLyX0iX5) | 4:16 |
 | 100 | [Disseram Que Eu Voltei Americanizada \- Live 1992](https://open.spotify.com/track/7wxDeUTfCqoZf0ZaKFhcdN) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Circulado Vivo](https://open.spotify.com/album/0OLjXOG6wYYWfvFj049bGm) | 1:39 |
 
-Snapshot ID: `MCw5N2U4NDJmMzYwZjE3NDQzMGQ4ODllYzQ2YTYxNzc5MDE0ZWY5ZTAw`
+Snapshot ID: `MCwyNTllMjc4ZDZjYjM5OWI1NzkwMjg1N2RlNmE2MjZhNjJjMWU0ZDZh`

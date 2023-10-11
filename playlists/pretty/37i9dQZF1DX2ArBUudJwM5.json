@@ -1,12 +1,12 @@
 {
   "description": "Mujeres a todo volumen. Foto: Juliana Gattas",
-  "num_followers": 39277,
+  "num_followers": 39270,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzZmI5NTM1M2M3NDc4NzE5MDBkODdiZGUxNjc5MzBhYmYwNmFkMzJi",
+  "snapshot_id": "MCxlNTgzNjM2YWY5NWQzZDc0YzdhMzcxYTcyOGUwYzdlYzFjODRkNDc4",
   "tracks": [
     {
       "added_at": "2023-10-04 03:00:00",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
+        "name": "En vivo en El Xirgu",
+        "url": "https://open.spotify.com/album/1e44sKDnluTHDRNuuDyVeJ"
+      },
+      "artists": [
+        {
+          "name": "Paula Trama",
+          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "La Cascada de Tu Pelo Enredado",
+      "url": "https://open.spotify.com/track/3NsRU4E09BC9qlWS7Pn2wY"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
         "name": "Pervertida",
         "url": "https://open.spotify.com/album/07oXThRDn2gQ4hvcNMWFRK"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 149538,
       "name": "Pervertida",
       "url": "https://open.spotify.com/track/3NdVUpnmEzQgJXREHnOZAk"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
-        "name": "En vivo en El Xirgu",
-        "url": "https://open.spotify.com/album/1e44sKDnluTHDRNuuDyVeJ"
-      },
-      "artists": [
-        {
-          "name": "Paula Trama",
-          "url": "https://open.spotify.com/artist/6qUDw7IqelgJuzAIhGMx6u"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "La Cascada de Tu Pelo Enredado",
-      "url": "https://open.spotify.com/track/3NsRU4E09BC9qlWS7Pn2wY"
     },
     {
       "added_at": "2023-10-04 03:00:00",

@@ -3676,7 +3676,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 261666,
       "name": "Sexed Up",
       "url": "https://open.spotify.com/track/6xwsfXjIXJgJjumbxdJiLi"
@@ -3850,6 +3850,24 @@
       "duration_ms": 170493,
       "name": "Somethin' Stupid",
       "url": "https://open.spotify.com/track/4kSKacywUJHdhyst4PL6pl"
+    },
+    {
+      "album": {
+        "name": "How To Dismantle An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "date_added": "2023-01-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305080,
+      "name": "Sometimes You Can't Make It On Your Own",
+      "url": "https://open.spotify.com/track/6fzcnVO0X2cpYjsHk19GJo"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 817039,
+  "num_followers": 816674,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMzM5NzhiZGUxZDMwNDllYTU5YjU2YWVhYjNhZWQ3OTJiNGUyZmIw",
+  "snapshot_id": "MCw2ZDliNWQ2YWJkZmQ5ZjhkYTdjN2E1ODE1ODc0YzU1YWE2YWE5YWRh",
   "tracks": [
     {
       "added_at": "2023-06-09 14:25:05",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
+        "name": "I Know a Place",
+        "url": "https://open.spotify.com/album/4QpxAjaWDtNgxf6XtxWUsA"
       },
       "artists": [
         {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+          "name": "Chevy",
+          "url": "https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc"
         }
       ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
+      "duration_ms": 129000,
+      "name": "I Know a Place",
+      "url": "https://open.spotify.com/track/3HopXEwE96WWXPP4OK78wW"
     },
     {
       "added_at": "2023-06-16 00:58:30",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "I Know a Place",
-        "url": "https://open.spotify.com/album/4QpxAjaWDtNgxf6XtxWUsA"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
       },
       "artists": [
         {
-          "name": "Chevy",
-          "url": "https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc"
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
         }
       ],
-      "duration_ms": 129000,
-      "name": "I Know a Place",
-      "url": "https://open.spotify.com/track/3HopXEwE96WWXPP4OK78wW"
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -515,6 +515,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Peace Or Love",
+        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
+      },
+      "artists": [
+        {
+          "name": "Kings of Convenience",
+          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
+        }
+      ],
+      "duration_ms": 236372,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
         "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 194884,
       "name": "South of the Border (feat. Camila Cabello) - Acoustic",
       "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Peace Or Love",
-        "url": "https://open.spotify.com/album/1jyVgS78GWmR0EjkFst9YC"
-      },
-      "artists": [
-        {
-          "name": "Kings of Convenience",
-          "url": "https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7"
-        }
-      ],
-      "duration_ms": 236372,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/2CioKOaM8dU2VvjYUCNRGx"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 172766,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "drivers license",
         "url": "https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 246345,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 172766,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "I Love You Madly EP",
-        "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
-      },
-      "artists": [
-        {
-          "name": "Irene Diaz",
-          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
-        }
-      ],
-      "duration_ms": 226200,
-      "name": "Crazy Love",
-      "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Heather",
         "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 198007,
       "name": "Heather - Acoustic",
       "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "I Love You Madly EP",
+        "url": "https://open.spotify.com/album/1OLFfUp0dJ4aVItd0EfCyu"
+      },
+      "artists": [
+        {
+          "name": "Irene Diaz",
+          "url": "https://open.spotify.com/artist/1ADOdE5G5ToLJQBP9hv9NF"
+        }
+      ],
+      "duration_ms": 226200,
+      "name": "Crazy Love",
+      "url": "https://open.spotify.com/track/3C4njwEL5bda64vv1JAQt5"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Feels",
-        "url": "https://open.spotify.com/album/3l89eH0y4ftA1DeETIv6P9"
-      },
-      "artists": [
-        {
-          "name": "The Mistrals",
-          "url": "https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk"
-        }
-      ],
-      "duration_ms": 214143,
-      "name": "Feels - Acoustic",
-      "url": "https://open.spotify.com/track/2dOhS9p28YanQHsI2sl2Th"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "#Acoustic #2",
         "url": "https://open.spotify.com/album/2yENbnhh873NzrwFmxYMeO"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 180643,
       "name": "We are Young",
       "url": "https://open.spotify.com/track/3lmVxRzXSE6Ls94GwWZ5pu"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Feels",
+        "url": "https://open.spotify.com/album/3l89eH0y4ftA1DeETIv6P9"
+      },
+      "artists": [
+        {
+          "name": "The Mistrals",
+          "url": "https://open.spotify.com/artist/2PSdm3Fy1O6xpCRUM5EJjk"
+        }
+      ],
+      "duration_ms": 214143,
+      "name": "Feels - Acoustic",
+      "url": "https://open.spotify.com/track/2dOhS9p28YanQHsI2sl2Th"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "We Saw Blue",
-        "url": "https://open.spotify.com/album/7chq6VXsRNWMf5s5SH2z9T"
-      },
-      "artists": [
-        {
-          "name": "Ley Line",
-          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
-        }
-      ],
-      "duration_ms": 183502,
-      "name": "Ciranda",
-      "url": "https://open.spotify.com/track/7swEWuNhJedU3DdNyXVCLJ"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Los Feliz",
         "url": "https://open.spotify.com/album/0NpSYwkF7F7jrbfH1fUDaP"
       },
@@ -1935,6 +1919,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "We Saw Blue",
+        "url": "https://open.spotify.com/album/7chq6VXsRNWMf5s5SH2z9T"
+      },
+      "artists": [
+        {
+          "name": "Ley Line",
+          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
+        }
+      ],
+      "duration_ms": 183502,
+      "name": "Ciranda",
+      "url": "https://open.spotify.com/track/7swEWuNhJedU3DdNyXVCLJ"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Old Town Road",
         "url": "https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv"
       },
@@ -1947,22 +1947,6 @@
       "duration_ms": 171866,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 274040,
-      "name": "Shadow Captain",
-      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1995,6 +1979,22 @@
       "duration_ms": 198293,
       "name": "Brindo",
       "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 274040,
+      "name": "Shadow Captain",
+      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "No Tears Left To Cry",
+        "url": "https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y"
+      },
+      "artists": [
+        {
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
+        }
+      ],
+      "duration_ms": 238431,
+      "name": "No Tears Left To Cry",
+      "url": "https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Sweet but Psycho",
         "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
       },
@@ -2123,22 +2139,6 @@
       "duration_ms": 213098,
       "name": "Trampoline - Acoustic",
       "url": "https://open.spotify.com/track/72xTsTouZ5nBmASX8k1XCW"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "No Tears Left To Cry",
-        "url": "https://open.spotify.com/album/2QU9UieGw1gfqyyMh2187Y"
-      },
-      "artists": [
-        {
-          "name": "Isabella Celander",
-          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
-        }
-      ],
-      "duration_ms": 238431,
-      "name": "No Tears Left To Cry",
-      "url": "https://open.spotify.com/track/4J4JYXUaYLxtKstFyABT5J"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2175,6 +2175,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 213041,
+      "name": "Ay, Amor \u2665\ufe0e",
+      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Giant",
         "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
       },
@@ -2203,22 +2219,6 @@
       "duration_ms": 187298,
       "name": "Lado B",
       "url": "https://open.spotify.com/track/4ER0Cnu2cbSV34VYP54BoK"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 213041,
-      "name": "Ay, Amor \u2665\ufe0e",
-      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2287,6 +2287,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Lullabies for Adults & Children",
+        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
+      },
+      "artists": [
+        {
+          "name": "Odessa",
+          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
+        }
+      ],
+      "duration_ms": 156214,
+      "name": "Wake Up With the Sun",
+      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Songs of Dylan",
         "url": "https://open.spotify.com/album/0g3wrEeb4CHYrCf1mVM9xJ"
       },
@@ -2315,22 +2331,6 @@
       "duration_ms": 155000,
       "name": "The Moons Detriment",
       "url": "https://open.spotify.com/track/6dRKRVyjzxa2efBCXZez6R"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Lullabies for Adults & Children",
-        "url": "https://open.spotify.com/album/39hjO63EvM6Jibz9i4z5cX"
-      },
-      "artists": [
-        {
-          "name": "Odessa",
-          "url": "https://open.spotify.com/artist/7xtlNrmdLZS2sqIkgWewi1"
-        }
-      ],
-      "duration_ms": 156214,
-      "name": "Wake Up With the Sun",
-      "url": "https://open.spotify.com/track/60mU9COPbr4mcGDRVPPGok"
     },
     {
       "added_at": "2023-06-09 14:25:05",

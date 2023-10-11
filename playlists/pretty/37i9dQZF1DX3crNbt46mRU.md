@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Elodie
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,200 likes - 109 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,206 likes - 109 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 43 | [Irgendwohin](https://open.spotify.com/track/37IYzFKwRvqaENAeW3kZiC) | [Antje Schomaker](https://open.spotify.com/artist/7Kif1sqh6J226OZFwUgt8n), [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol), [Eva Briegel](https://open.spotify.com/artist/46Ks1huLimSVHpgTUruVoj) | [Irgendwohin](https://open.spotify.com/album/2FW91nAqAirhuG4Wyf6toh) | 3:15 |
 | 44 | [Fire](https://open.spotify.com/track/0J9dyAEyUZzIPZevkqzAvG) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ), [Sunlike Brothers](https://open.spotify.com/artist/6ag0HxAKmKQFDXVdt6FUVx) | [Fire](https://open.spotify.com/album/3bUzefGeNrbsDtVEutMzCg) | 2:28 |
 | 45 | [Promets\-moi](https://open.spotify.com/track/4NZUIBH4Nrqepi8GyDerit) | [Vitaa](https://open.spotify.com/artist/0Ntl0oWMPWfBOoi9Qcr9ht) | [Charlotte](https://open.spotify.com/album/0FupCLD5qVgIl3Omjjp6gu) | 3:08 |
-| 46 | [Higher Up](https://open.spotify.com/track/40wwHFwGXfaJVjp6pFAlKU) | [Maxim Schunk](https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB), [Renns](https://open.spotify.com/artist/1KuINlip3yVc0knS6EwR5b), [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Higher Up](https://open.spotify.com/album/1sJAhPJuhHxnKUsoGXGqaR) | 2:44 |
+| 46 | [Higher Up](https://open.spotify.com/track/40wwHFwGXfaJVjp6pFAlKU) | [WhiteCapMusic](https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB), [Maxim Schunk](https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB), [Renns](https://open.spotify.com/artist/1KuINlip3yVc0knS6EwR5b), [Scarlett](https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s) | [Higher Up](https://open.spotify.com/album/1sJAhPJuhHxnKUsoGXGqaR) | 2:44 |
 | 47 | [Alles unter groß ist mir zu klein](https://open.spotify.com/track/5H5JWvy5SbbP8vCZzdbW9Y) | [KLAN](https://open.spotify.com/artist/3PWVGBibvYW9YfZX6ayYq8), [CONNY](https://open.spotify.com/artist/4KBi0XchUE2c3JiGON6Okm) | [Alles unter groß ist mir zu klein](https://open.spotify.com/album/6na6llxlIChpuvqxUidYoB) | 2:37 |
 | 48 | [Blaui Stund](https://open.spotify.com/track/3RJ2iCXcWRnhLm4wu11x7v) | [Didi](https://open.spotify.com/artist/618CkKAZvvzRlKwFRMY4Yp) | [Blaui Stund](https://open.spotify.com/album/3CyKAyyc0jTf3FdnWknvkY) | 2:41 |
 | 49 | [The Corner \(feat\. Joe Devlin\)](https://open.spotify.com/track/4IXaBsfsyE1OIcM2zF8ns0) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Joe Devlin](https://open.spotify.com/artist/6zvaBH9XesIrlYqkC4w6ze) | [The Corner \(feat\. Joe Devlin\)](https://open.spotify.com/album/4qJHgg4eGbNiRyG3oVWK8z) | 2:36 |
@@ -118,4 +118,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 108 | [Let's Talk Money \(feat\. Headie One\)](https://open.spotify.com/track/0RpedbIrHwjQQTt7HnYPm7) | [Slim](https://open.spotify.com/artist/6ilmWgqASE3c1iRqM6kgou), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [Still Working 2](https://open.spotify.com/album/6Bh2znaTLb4uZkY99tRvde) | 2:59 |
 | 109 | [Encore Une Fois](https://open.spotify.com/track/63kqU92X0Xxh0MiilmrpnW) | [Alex Christensen](https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq), [The Berlin Orchestra](https://open.spotify.com/artist/6cM5S5JAR9qY9GdYyLAuUY), [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz) | [Classical 90s Dance \- The Icons](https://open.spotify.com/album/0owIszJHScaFc1U7GOVl0T) | 2:31 |
 
-Snapshot ID: `MCxlNWY4NTEyZTAzNTdjNGU0MGVjMzc1OGU4MjkwODQyYWM5MDQwODU2`
+Snapshot ID: `MCxlYTY0MzU0NzM5ZTg2ZGFjNzZmYjgwMDE4NTUxZTFjYzdiZTMwNTQw`

@@ -1,12 +1,12 @@
 {
   "description": "Meet the vocalists representing Korea! (Cover:\bHYNN(\ubc15\ud61c\uc6d0)) (\ub300\ud55c\ubbfc\uad6d\uc744 \ub300\ud45c\ud558\ub294 \ubcf4\uceec\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 326334,
+  "num_followers": 326287,
   "original_name": "v o K a l",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODk1ZGZhY2RlOTliNGRkYzJmOWI3NTI2OTc2MjI5NzVmYWYzY2U5",
+  "snapshot_id": "MCwxMGExZmNlMDg3N2I3ZWE1OWEwOWMzZTRiZDI5YjNhMTI5ZWExOWY5",
   "tracks": [
     {
       "added_at": "2023-10-05 09:08:06",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-10-05 09:08:06",
       "album": {
-        "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
+        "name": "Destined with You (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
       },
       "artists": [
         {
-          "name": "AILEE",
-          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+          "name": "PARK WON",
+          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
         }
       ],
-      "duration_ms": 256173,
-      "name": "I\u2032m Sorry",
-      "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
+      "duration_ms": 203746,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
     },
     {
       "added_at": "2023-10-05 09:08:06",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-10-05 09:08:06",
       "album": {
-        "name": "Destined with You (Original Television Soundtrack), Pt.1",
-        "url": "https://open.spotify.com/album/45i3tB9z0dgJ33olyrsLUz"
+        "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
       },
       "artists": [
         {
-          "name": "PARK WON",
-          "url": "https://open.spotify.com/artist/1XujSdsxykPhP3dn6HaT4l"
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
         }
       ],
-      "duration_ms": 203746,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/3YP99J8wTzG55t1cFmd6iq"
+      "duration_ms": 256173,
+      "name": "I\u2032m Sorry",
+      "url": "https://open.spotify.com/track/3LUkaacGXrVcn8jo29Vymi"
     },
     {
       "added_at": "2023-10-05 09:08:06",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-10-05 09:08:06",
       "album": {
-        "name": "A Love Supreme",
-        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
-      },
-      "artists": [
-        {
-          "name": "SOLE",
-          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "I Want to Be Closer to You",
-      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
-    },
-    {
-      "added_at": "2023-10-05 09:08:06",
-      "album": {
         "name": "The King's Affection OST Part.3",
         "url": "https://open.spotify.com/album/0BIXwx4XAJR9xe9k3DZK2J"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 221080,
       "name": "IF I",
       "url": "https://open.spotify.com/track/3QGz3EzsWbW9LoNVk5MPHT"
+    },
+    {
+      "added_at": "2023-10-05 09:08:06",
+      "album": {
+        "name": "A Love Supreme",
+        "url": "https://open.spotify.com/album/7Mcgv379kU4bRHl54JJqhi"
+      },
+      "artists": [
+        {
+          "name": "SOLE",
+          "url": "https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "I Want to Be Closer to You",
+      "url": "https://open.spotify.com/track/6QlCumx7Sow4nRgVt6tDms"
     },
     {
       "added_at": "2023-10-05 09:08:06",
@@ -887,6 +887,22 @@
     {
       "added_at": "2023-10-05 09:08:06",
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi"
+      },
+      "artists": [
+        {
+          "name": "Rothy",
+          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
+        }
+      ],
+      "duration_ms": 260264,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq"
+    },
+    {
+      "added_at": "2023-10-05 09:08:06",
+      "album": {
         "name": "Mother Nature (H\u2082O)",
         "url": "https://open.spotify.com/album/6gdnJ11QQyvpVljTUR3BWw"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 232586,
       "name": "Mother Nature (H\u2082O)",
       "url": "https://open.spotify.com/track/7KZThhMaRjQpB9x6yIJvZ8"
-    },
-    {
-      "added_at": "2023-10-05 09:08:06",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/0Kjrj9VlwLkuAWb1FugHoi"
-      },
-      "artists": [
-        {
-          "name": "Rothy",
-          "url": "https://open.spotify.com/artist/0jUn8CXobOt0IixyR72una"
-        }
-      ],
-      "duration_ms": 260264,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/5vMmRDWrRsogNA6xm916nq"
     },
     {
       "added_at": "2023-10-05 09:08:06",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-10-05 09:08:06",
       "album": {
-        "name": "It\u2032s You",
-        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "It\u2032s You",
-      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
-    },
-    {
-      "added_at": "2023-10-05 09:08:06",
-      "album": {
         "name": "Go Back",
         "url": "https://open.spotify.com/album/2CpY4FJ5OJlN1NAhQs5EsE"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 234000,
       "name": "Go Back",
       "url": "https://open.spotify.com/track/4SQH8x0PnOqEWWgbAlXIXJ"
+    },
+    {
+      "added_at": "2023-10-05 09:08:06",
+      "album": {
+        "name": "It\u2032s You",
+        "url": "https://open.spotify.com/album/5wPEtP41dY7dqF3GcLBlfC"
+      },
+      "artists": [
+        {
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "It\u2032s You",
+      "url": "https://open.spotify.com/track/23PyDwW8pLgDsjpyFdjYgj"
     },
     {
       "added_at": "2023-10-05 09:08:06",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2023-10-05 09:08:06",
       "album": {
-        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
-        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
-      },
-      "artists": [
-        {
-          "name": "PARK MIN HYE",
-          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
-        }
-      ],
-      "duration_ms": 256320,
-      "name": "After this night",
-      "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
-    },
-    {
-      "added_at": "2023-10-05 09:08:06",
-      "album": {
         "name": "Hate Everything",
         "url": "https://open.spotify.com/album/4NV2SxuesqKwcBdDgACH9R"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 205759,
       "name": "Hate Everything - Korean Version",
       "url": "https://open.spotify.com/track/6GX6ky9XJINogCHQ1c3UUx"
+    },
+    {
+      "added_at": "2023-10-05 09:08:06",
+      "album": {
+        "name": "Doctor Cha (Original Television Soundtrack) Pt. 4",
+        "url": "https://open.spotify.com/album/6hejnZLYkczl403CuzDnn4"
+      },
+      "artists": [
+        {
+          "name": "PARK MIN HYE",
+          "url": "https://open.spotify.com/artist/7jLmvmR5MEXHgBbPpfwAIJ"
+        }
+      ],
+      "duration_ms": 256320,
+      "name": "After this night",
+      "url": "https://open.spotify.com/track/3MAQWeovl3g5BGUiu7YJdj"
     },
     {
       "added_at": "2023-10-05 09:08:06",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-10-05 09:08:06",
       "album": {
-        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
-      },
-      "artists": [
-        {
-          "name": "Kim Min-seok (MeloMance)",
-          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
-        }
-      ],
-      "duration_ms": 272946,
-      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
-      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
-    },
-    {
-      "added_at": "2023-10-05 09:08:06",
-      "album": {
         "name": "The King: Eternal Monarch (Original Television Soundtrack), Pt. 13",
         "url": "https://open.spotify.com/album/30LZlh9d2k2GMQOPbJvdxd"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 238022,
       "name": "didn't know me",
       "url": "https://open.spotify.com/track/4Ompd9kJo9Os4yB0YFzsEC"
+    },
+    {
+      "added_at": "2023-10-05 09:08:06",
+      "album": {
+        "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+        "url": "https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie"
+      },
+      "artists": [
+        {
+          "name": "Kim Min-seok (MeloMance)",
+          "url": "https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp"
+        }
+      ],
+      "duration_ms": 272946,
+      "name": "You Were Beautiful (My love X Kim Min-seok (MeloMance))",
+      "url": "https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy"
     },
     {
       "added_at": "2023-10-05 09:08:06",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2023-10-05 09:08:06",
       "album": {
-        "name": "Faith OST",
-        "url": "https://open.spotify.com/album/0uFJieT8zGkryWddYK7Vkd"
-      },
-      "artists": [
-        {
-          "name": "Shin Yong Jae",
-          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
-        }
-      ],
-      "duration_ms": 267937,
-      "name": "Walking Slowly",
-      "url": "https://open.spotify.com/track/2zahaztD28KVpM84zFoeQ9"
-    },
-    {
-      "added_at": "2023-10-05 09:08:06",
-      "album": {
         "name": "The Fairy Tale",
         "url": "https://open.spotify.com/album/76ASw7kgzeLbfGyei95zN1"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 227054,
       "name": "Tale",
       "url": "https://open.spotify.com/track/3VtDqefAMMvUcg4x9Ma2LB"
+    },
+    {
+      "added_at": "2023-10-05 09:08:06",
+      "album": {
+        "name": "Dear",
+        "url": "https://open.spotify.com/album/2UKLUzxg6b2A1vZJfuf63p"
+      },
+      "artists": [
+        {
+          "name": "Shin Yong Jae",
+          "url": "https://open.spotify.com/artist/2frFGmni9tkRgXYdXmzQvR"
+        }
+      ],
+      "duration_ms": 240840,
+      "name": "First Line",
+      "url": "https://open.spotify.com/track/2jyX7hcIU3N4DY1n9EKIab"
     },
     {
       "added_at": "2023-10-05 09:08:06",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2023-10-05 09:08:06",
       "album": {
+        "name": "Long time no see (Original Television Soundtrack From \"The Witch Store Reopening\")",
+        "url": "https://open.spotify.com/album/52p2C1TriWORdN2fUGX4fc"
+      },
+      "artists": [
+        {
+          "name": "Yang Da Il",
+          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "Long time no see",
+      "url": "https://open.spotify.com/track/4PwrkFF5wNLBCJLxfEdtIW"
+    },
+    {
+      "added_at": "2023-10-05 09:08:06",
+      "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
       },
@@ -1659,22 +1675,6 @@
       "duration_ms": 258112,
       "name": "Anymore (Feat. Whee In of MAMAMOO)",
       "url": "https://open.spotify.com/track/72X2j4RIxqhho6A60i3Uk1"
-    },
-    {
-      "added_at": "2023-10-05 09:08:06",
-      "album": {
-        "name": "Long time no see (Original Television Soundtrack From \"The Witch Store Reopening\")",
-        "url": "https://open.spotify.com/album/52p2C1TriWORdN2fUGX4fc"
-      },
-      "artists": [
-        {
-          "name": "Yang Da Il",
-          "url": "https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt"
-        }
-      ],
-      "duration_ms": 208493,
-      "name": "Long time no see",
-      "url": "https://open.spotify.com/track/4PwrkFF5wNLBCJLxfEdtIW"
     },
     {
       "added_at": "2023-10-05 09:08:06",

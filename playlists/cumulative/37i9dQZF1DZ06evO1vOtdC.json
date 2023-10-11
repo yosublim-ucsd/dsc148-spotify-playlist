@@ -49,6 +49,24 @@
     },
     {
       "album": {
+        "name": "J.Lo",
+        "url": "https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245360,
+      "name": "Ain't It Funny",
+      "url": "https://open.spotify.com/track/6J8vBmsokURohC3UygqYOH"
+    },
+    {
+      "album": {
         "name": "J To Tha L-O! The Remixes",
         "url": "https://open.spotify.com/album/1eqm8uDzngK88EvMfp4MOm"
       },
@@ -68,7 +86,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 229800,
       "name": "Ain't It Funny (feat. Ja Rule & Cadillac Tah) - Murder Remix",
       "url": "https://open.spotify.com/track/5ahFyKndeg1hqfmNumL3WF"
@@ -264,7 +282,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200920,
-      "name": "Back It Up (feat. Jennifer Lopez & Pitbull)",
+      "name": "Back It Up (feat. Jennifer Lopez & Pitbull) - Video Version",
       "url": "https://open.spotify.com/track/6Y0mJNAcx8CDBOhSy6icFP"
     },
     {
@@ -872,7 +890,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 238226,
       "name": "Let's Get Loud",
       "url": "https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73"
@@ -1018,7 +1036,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 174708,
       "name": "Miami",
       "url": "https://open.spotify.com/track/2wRlMMLTfPao0vHpAJPtlY"
@@ -1280,7 +1298,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 214333,
       "name": "Theme From Mahagony (Do You Know Where You're Going To)",
       "url": "https://open.spotify.com/track/7bNnrac7k9CkwQRQsfGb7x"
@@ -1342,7 +1360,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 246426,
       "name": "Waiting for Tonight",
       "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"

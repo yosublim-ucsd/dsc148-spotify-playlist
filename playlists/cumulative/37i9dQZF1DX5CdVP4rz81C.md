@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Stephen Sanchez
 
-1,481 songs - 3 day 5 hr 48 min
+1,483 songs - 3 day 5 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -623,6 +623,7 @@
 | [howling](https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [howling](https://open.spotify.com/album/1TjUo3z2Wjfd8dcKYiz2kL) | 3:33 | 2021-09-25 | 2021-10-16 |
 | [Howling at the Moon](https://open.spotify.com/track/4vJ0MTIjJGGa7OoVoGl1m3) | [Mike Posner](https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [Howling at the Moon](https://open.spotify.com/album/2jA4W67AkjedTpJCnwp45y) | 2:26 | 2023-02-10 | 2023-03-04 |
 | [Hypochondriac](https://open.spotify.com/track/3GXQOlfK0oPdsW6Y5ptII6) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [Hypochondriac](https://open.spotify.com/album/1YFqzrSFmL8WdhQ79eLKJe) | 3:22 | 2020-10-13\* | 2020-12-10 |
+| [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 | 2023-10-10 |  |
 | [I Blame The World](https://open.spotify.com/track/3SrSjUKxAJ6Cq1vpe1mqCZ) | [Sasha Alex Sloan](https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5) | [I Blame The World](https://open.spotify.com/album/7mIYNERWd8SdGObD8GrO2F) | 3:17 | 2022-04-08 | 2022-09-24 |
 | [I Burned LA Down](https://open.spotify.com/track/34Mg7rSCT7nRsf1kVCAvgz) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [I Burned LA Down](https://open.spotify.com/album/71EPoeTo5QAlsr2OWCRNhM) | 3:15 | 2022-04-08 | 2022-05-20 |
 | [I Can Love Anyone \(As Long As It's You\)](https://open.spotify.com/track/16TVnHHANCCcDN7673V7tC) | [Anson Seabra](https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg) | [I Can Love Anyone \(As Long As It's You\)](https://open.spotify.com/album/3e6UcgzWDEJRC38lJ8Zj7o) | 3:22 | 2023-01-27 | 2023-04-15 |
@@ -1452,6 +1453,7 @@
 | [why me](https://open.spotify.com/track/0ZpJQsYQaZVoZCspPc7zru) | [Zevia](https://open.spotify.com/artist/6z9k3E8sR90LH0N4zyOxUu) | [why me](https://open.spotify.com/album/1I0WTrZlybhWAsK4PwMyK5) | 2:42 | 2023-04-14 | 2023-07-03 |
 | [Wide Open \(feat\. Ta\-ku & Masego\)](https://open.spotify.com/track/6NHQNFSpBaBvTHTt96dhfy) | [Wafia](https://open.spotify.com/artist/0FL2d6iFFNAV3yBUbXjZ1U), [Ta\-ku](https://open.spotify.com/artist/13Kd75NSHSp9lB4CaqPMOV), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Wide Open \(feat\. Ta\-ku & Masego\)](https://open.spotify.com/album/0XKpLb1bh3PvdQ7BaPRA29) | 4:03 | 2021-06-26 | 2021-07-24 |
 | [wild](https://open.spotify.com/track/5jb2NJCCUN5utz8MVFYycH) | [Carly Rose](https://open.spotify.com/artist/0Z49rYPKsyCCLGq1UiHrBe), [Goody Grace](https://open.spotify.com/artist/1iH2Yx2Ea0kZ0zKI3Nlk30) | [WILD](https://open.spotify.com/album/3fYPO77DBvXDGbLUNFwbsF) | 2:24 | 2020-10-13\* | 2020-11-20 |
+| [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 | 2023-10-10 |  |
 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 | 2021-05-15 | 2022-03-05 |
 | [Will It Ever Feel The Same?](https://open.spotify.com/track/2bsuvsOwkhIstFmn0IHkhG) | [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [Will It Ever Feel The Same?](https://open.spotify.com/album/2FkJKUyeNKvWKhZJLdgTUd) | 3:00 | 2022-05-13 | 2022-07-02 |
 | [willow](https://open.spotify.com/track/3Uo7WG0vmLQ07WB4BDwy7D) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm) | 3:34 | 2020-12-18 | 2021-02-26 |

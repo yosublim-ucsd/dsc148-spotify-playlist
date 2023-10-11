@@ -1213,6 +1213,28 @@
     },
     {
       "album": {
+        "name": "KETA UND KRAWALL",
+        "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Barr\u00e9",
+          "url": "https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125492,
+      "name": "KETA UND KRAWALL",
+      "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
+    },
+    {
+      "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
       },
@@ -2470,7 +2492,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 136204,
       "name": "WILDES DING",
       "url": "https://open.spotify.com/track/2BssmP7ruTX7iZrWLm7EVk"

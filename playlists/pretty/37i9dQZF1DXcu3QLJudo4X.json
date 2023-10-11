@@ -1,12 +1,12 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 65251,
+  "num_followers": 65335,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNzBhNjc5MWI5ZjYwOWM1OTdjNzcyOGI1NzAxZWUzMGZlNTllZWUw",
+  "snapshot_id": "MCwyZmIxMmIwN2M5YWQzZWY5NWJmN2RjMDczY2UzNzZjYWIwNzcwMDBi",
   "tracks": [
     {
       "added_at": "2023-08-23 10:30:13",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 184906,
-      "name": "I'm Ready",
-      "url": "https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs"
+      "duration_ms": 264800,
+      "name": "Stormy Monday",
+      "url": "https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
       "artists": [
         {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 264800,
-      "name": "Stormy Monday",
-      "url": "https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl"
+      "duration_ms": 184906,
+      "name": "I'm Ready",
+      "url": "https://open.spotify.com/track/6MK4Omudz4gPzLCgvTXOXs"
     },
     {
       "added_at": "2023-08-23 10:30:13",

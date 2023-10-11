@@ -4,7 +4,7 @@
 
 > Songs you love with an indie spin on it\. Cover: Soccer Mommy
 
-420 songs - 1 day 1 hr 44 min
+421 songs - 1 day 1 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Let's Dance to Joy Division](https://open.spotify.com/track/3FChIBncGO2pCxv9QIFIcI) | [Lemony Rug](https://open.spotify.com/artist/3W8SYXmxfkh6bvQ41VjSFY) | [Let's Dance to Joy Division](https://open.spotify.com/album/72w9n6hWEOWE5QrMqrmJv8) | 3:23 | 2023-09-22 |  |
 | [Light Years \- The National Cover](https://open.spotify.com/track/7uAhjayzJxAo7lnmcyAqqg) | [Dizzy](https://open.spotify.com/artist/0g3BS5QoR5r6pOAg1tvwXv) | [Light Years \(The National Cover\)](https://open.spotify.com/album/15rgJS2CtlWy2BscYiHpvr) | 3:01 | 2021-03-12 | 2022-07-29 |
 | [Like a Rolling Stone](https://open.spotify.com/track/49Q2VVHzabFRwAUQ1ByLNa) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [Like a Rolling Stone](https://open.spotify.com/album/5UJhgkj2fP5ycNLbVdzQ3H) | 6:49 | 2022-05-20 | 2023-09-24 |
+| [Like a Rolling Stone](https://open.spotify.com/track/6nMb0jnVYulCHhe5UpyKBq) | [Phosphorescent](https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP) | [The Full Moon Project](https://open.spotify.com/album/0VraDVmjkr0vVjaZqLM7bi) | 6:49 | 2023-05-05 |  |
 | [Like a Virgin](https://open.spotify.com/track/1FaxioLjUIAGpuvkDIDQHF) | [L'Isle](https://open.spotify.com/artist/1Dha3TduO0PBC7aRD84PHP) | [Like a Virgin](https://open.spotify.com/album/3D6BRQjosyRAjyfAiogrKE) | 3:27 | 2021-03-12 | 2022-04-12 |
 | [Limit To Your Love](https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:36 | 2021-03-12 | 2022-08-10 |
 | [Line Of Fire \(feat\. Sharon Van Etten\)](https://open.spotify.com/track/1oweOQ4jXiQJ6qdS8W3VY3) | [Junip](https://open.spotify.com/artist/7HcipAIJatVGT4U6HQrnFW), [Elias Araya](https://open.spotify.com/artist/5sIkHEIJz1lDVV4PHV6tPs), [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe), [Tobias Winterkorn](https://open.spotify.com/artist/6zL6OfCqiThdz2GXTLIB0K) | [Line Of Fire \(feat\. Sharon Van Etten\)](https://open.spotify.com/album/2rGFxglu6CsziJdvShqaut) | 5:38 | 2023-05-26 | 2023-07-13 |
@@ -307,7 +308,7 @@
 | [Skinny Love \- Spotify Singles](https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Spotify Singles](https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z) | 3:46 | 2022-04-01 |  |
 | [Slide](https://open.spotify.com/track/0BKIK1Zf025Y5zklE4IXSd) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Slide](https://open.spotify.com/album/3pEOuINxpeoHPL9Sf9IAe2) | 3:53 | 2023-04-11 |  |
 | [Slow Burn](https://open.spotify.com/track/6uSNQLr7hNFCsRCY0C2WJ9) | [Jack Grace](https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB) | [Slow Burn](https://open.spotify.com/album/7dpk0QXdjtRSLqkbFnBSKg) | 3:36 | 2021-03-12 | 2022-07-27 |
-| [slow dancing in a burning room \- stripped](https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [slow dancing in a burning room \(stripped\)](https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx) | 3:15 | 2022-09-03 |  |
+| [slow dancing in a burning room \- stripped](https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME) | [ST LUNA](https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw) | [slow dancing in a burning room \(stripped\)](https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx) | 3:15 | 2022-09-03 | 2023-10-11 |
 | [Soak Up The Sun](https://open.spotify.com/track/1siBPIRWS5dlMlnCGVWOkI) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [Soak Up The Sun](https://open.spotify.com/album/6SraX0SRjbk7IAQ3bYdlbD) | 5:04 | 2023-08-08 |  |
 | [Some Things Last A Long Time](https://open.spotify.com/track/45OkuBV8goyDppKZg3amkk) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Let Go b/w Some Things Last A Long Time](https://open.spotify.com/album/1DZPuUHbDCJ3aeaNMXoNJX) | 6:09 | 2021-07-21 | 2022-07-16 |
 | [Somebody Told Me](https://open.spotify.com/track/1NipBTZQXFIeQaqzy1Mdjj) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Somebody Told Me](https://open.spotify.com/album/3kLyeLRbV9sExn8j6Dxd5P) | 3:51 | 2023-07-20 | 2023-09-27 |

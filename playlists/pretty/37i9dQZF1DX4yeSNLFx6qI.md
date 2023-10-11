@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 
 > Se acabó el amor\. La música continúa.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,760,528 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,759,310 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 44 | [Yo No Merezco Volver](https://open.spotify.com/track/1uFl33ahAD59XrccuSxpkz) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:40 |
 | 45 | [Primer Avión](https://open.spotify.com/track/7uQ9KzntzNaenXNb7JCrwH) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:03 |
 | 46 | [+](https://open.spotify.com/track/5Cbo7oz78gqkzV3EAM63VA) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [+](https://open.spotify.com/album/6zardvJflEyoRedCUCBUw9) | 3:39 |
-| 47 | [Vidas Pasadas](https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vidas Pasadas](https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6) | 2:18 |
-| 48 | [Me Enseñaste](https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Sólo Para Mujeres](https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9) | 4:41 |
+| 47 | [Me Enseñaste](https://open.spotify.com/track/5pSfMKeflHUgtXJHIXzioQ) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Sólo Para Mujeres](https://open.spotify.com/album/6GAL5gNwSJKlpl2ozzdNb9) | 4:41 |
+| 48 | [Vidas Pasadas](https://open.spotify.com/track/2G6cOHhIjJGd7fhBKXBjLr) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Vidas Pasadas](https://open.spotify.com/album/6xUsWpvDVdDD8qDbQOsOL6) | 2:18 |
 | 49 | [amantes y amigos](https://open.spotify.com/track/2Ye3wsl794JOx6Miklej48) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:51 |
 | 50 | [Recuerdos de Amor \(Lembranças de Amor\) \- Si Fuera Mía](https://open.spotify.com/track/3rmG6egiqYCmA1v2sEQUpT) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Si Fuera Mía \- EP](https://open.spotify.com/album/0Blo1xKwN9GKOUgCBBWvmx) | 3:47 |
 | 51 | [Si tú no vuelves](https://open.spotify.com/track/7C5l5hLxS4uZX1VJR13ZBT) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S) | [Colección Definitiva](https://open.spotify.com/album/0nEL8RK9TM7RD6oTzv27Zf) | 4:38 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 64 | [cómo acaba](https://open.spotify.com/track/4PbKNrqL6I3jzUrwWgzinP) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:44 |
 | 65 | [No Le Llames Amor](https://open.spotify.com/track/5czRuLp5tTxJJOUOUNLGej) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2) | [No Le Llames Amor](https://open.spotify.com/album/2D6IxtHM8myA2hrIopVR9l) | 3:23 |
 | 66 | [¿Qué Vas a Hacer?](https://open.spotify.com/track/2KOlQ5BfzhNe79KtGHDJ8S) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 3:44 |
-| 67 | [Arreglándome y Dañándome](https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Arreglándome y Dañándome](https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF) | 4:04 |
-| 68 | [Perdóname](https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:28 |
+| 67 | [Perdóname](https://open.spotify.com/track/4mivRZXyZbIDecPTiCtOjw) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [Para Aventuras y Curiosidades](https://open.spotify.com/album/01yYW0rRRwlEZx1dMmc5ff) | 3:28 |
+| 68 | [Arreglándome y Dañándome](https://open.spotify.com/track/1dKK4hfno7Jfsh84FQVa5R) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk) | [Arreglándome y Dañándome](https://open.spotify.com/album/1PIYczCyoij3KAG5FRTChF) | 4:04 |
 | 69 | [Te echo de menos](https://open.spotify.com/track/3gPOFPYLgpvQz0ZMwmv7NE) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Te echo de menos](https://open.spotify.com/album/3SOqCdYh4P6GPFjGh0ZHrj) | 3:14 |
 | 70 | [Devuélveme El Corazón](https://open.spotify.com/track/0AbUjX0KljK02Ts6q7YITU) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Devuélveme El Corazón](https://open.spotify.com/album/6bWoGN8NnZ5IHuwU7PBp3d) | 4:04 |
 | 71 | [Si hubieras querido](https://open.spotify.com/track/0Q6Pc3dqsl6qHKZ91DPUTH) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Si hubieras querido](https://open.spotify.com/album/0mag3mrok9LV07L6nnACOt) | 3:41 |
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 80 | [Me vas a ver](https://open.spotify.com/track/5BhSZWrUa5xkZ2K7Ze5fVT) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Me vas a ver](https://open.spotify.com/album/2fQQrxHLh19ZQGFLOGBc2X) | 2:15 |
 | 81 | [Cómo Decirle](https://open.spotify.com/track/6MZ9o9OdyLojAxQeDq8Wke) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Limonada](https://open.spotify.com/album/21Rr5TeYSjmfyGsDrsZIDA) | 4:01 |
 | 82 | [Lo Siento Mucho](https://open.spotify.com/track/6mcuBSkO6GQwafMxpwrQaZ) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb) | [Rojo](https://open.spotify.com/album/3n0zkanqLGhc1R0O7Ddl1G) | 3:18 |
-| 83 | [Ahora Quien](https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Amar Sin Mentiras](https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq) | 5:05 |
-| 84 | [Fue Lo Mejor](https://open.spotify.com/track/5EMc0D7ColnFc9t21jF6PD) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [CU4TRO](https://open.spotify.com/album/7tYKnQqP7OCQC8iV5hyCq1) | 3:07 |
+| 83 | [Fue Lo Mejor](https://open.spotify.com/track/5EMc0D7ColnFc9t21jF6PD) | [Ingrid Contreras](https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By) | [CU4TRO](https://open.spotify.com/album/7tYKnQqP7OCQC8iV5hyCq1) | 3:07 |
+| 84 | [Ahora Quien](https://open.spotify.com/track/3i3fYhl23l7exbIj9oAJPN) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Amar Sin Mentiras](https://open.spotify.com/album/3MKpH3rMkzXgX5JLWeIvrq) | 5:05 |
 | 85 | [Por Tu Bien](https://open.spotify.com/track/5znXf6RfeOEQhD5qkupv8C) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Por Tu Bien](https://open.spotify.com/album/1C4uTws6xznbtPOlkl1uBr) | 3:53 |
 | 86 | [Dolería](https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [rifresh](https://open.spotify.com/album/7nGv8O2aompJCOD5N4DO24) | 2:57 |
 | 87 | [Nunca Voy a Olvidarte \- Primera Fila \- Live Version](https://open.spotify.com/track/4HAPPGfvox8QdKdU1lD3wf) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Cristian Castro En Primera Fila \- Día 1](https://open.spotify.com/album/79S9eRBE4zhXybavIRwAv0) | 3:57 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4yeSNLFx6qI.md) - [plain]
 | 95 | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/track/5WKZKW5LNPUYI8X5AZAxau) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Te Necesito \(Live Acoustic\)](https://open.spotify.com/album/2N2uXaMFPE1ijwSgJADheH) | 3:15 |
 | 96 | [Atado Entre Tus Manos](https://open.spotify.com/track/0A7Bx1u7ufBNclwcfs02mG) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Atado Entre Tus Manos](https://open.spotify.com/album/4ynLSCZ4KGaB3mIbYHb2dw) | 3:16 |
 | 97 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 |
-| 98 | [50/50](https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 1:47 |
-| 99 | [Amarte y Perderte](https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Amarte y Perderte](https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL) | 3:28 |
+| 98 | [Amarte y Perderte](https://open.spotify.com/track/3mYV0dsiuvpsEHTAG74n1d) | [Chucho Rivas](https://open.spotify.com/artist/1tClPu7uXdaZEQ32vihyJ1) | [Amarte y Perderte](https://open.spotify.com/album/61m0MH9BQYHXRV4wbL6RbL) | 3:28 |
+| 99 | [50/50](https://open.spotify.com/track/464aJm0nr5hDzFEoYyqnNk) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Estemos Donde Estemos](https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C) | 1:47 |
 | 100 | [La Despedida](https://open.spotify.com/track/1s8TR4ZPyrRf0E7zbNNjvZ) | [Cami](https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn) | [La Despedida](https://open.spotify.com/album/2zFA8GmjeGDq1fxj1Na67g) | 3:09 |
 
-Snapshot ID: `MCxhYjc5OWM4OTZiM2MxYmFkYjNkMDQ4N2QyYWU3YTc2ZmUxMzRmMTJk`
+Snapshot ID: `MCxmOWNjMmYyMzQ2NDgwOThjOGMyOGQ5OWNlOTk5NjA3YjBlMDM4MTg5`

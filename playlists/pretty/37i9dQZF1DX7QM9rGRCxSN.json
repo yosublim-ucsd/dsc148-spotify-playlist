@@ -1,12 +1,12 @@
 {
   "description": "Belleza y distorsi\u00f3n imaginada por bandas iberoamericanas. Estrella del Sol en portada.",
-  "num_followers": 27110,
+  "num_followers": 27133,
   "original_name": "Shoegaze & Dreampop en espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjlhZmVmNjIxYzUyZDI5MmJlOGI5NWRkZmJiOTgzNDg3ZWEzNjE2",
+  "snapshot_id": "MCxlZmI2YTY2MGVlZGNkMTljMmQ1ZTA4MzFiNTU1ZGE2NzMxY2ZmNTRj",
   "tracks": [
     {
       "added_at": "2023-09-03 23:24:36",
@@ -275,6 +275,22 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Delicadeza",
+      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
         "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
         "url": "https://open.spotify.com/album/5RwW7blxdp4AtsWPKJ9Qk2"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 188728,
       "name": "Duramos Ma\u0301s Cuando Menos Nos Conocemos",
       "url": "https://open.spotify.com/track/4bFLWgZkJuPoa1Js25VQU8"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/6jTRjT19UMchfrkupOwJ8c"
-      },
-      "artists": [
-        {
-          "name": "sailawway",
-          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
-        }
-      ],
-      "duration_ms": 242813,
-      "name": "Especial",
-      "url": "https://open.spotify.com/track/01NQwSOqajbHOhRRnHPUWH"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -323,18 +323,18 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jTRjT19UMchfrkupOwJ8c"
       },
       "artists": [
         {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+          "name": "sailawway",
+          "url": "https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q"
         }
       ],
-      "duration_ms": 178146,
-      "name": "Delicadeza",
-      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+      "duration_ms": 242813,
+      "name": "Especial",
+      "url": "https://open.spotify.com/track/01NQwSOqajbHOhRRnHPUWH"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Almost Reach the Sun",
-        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
-      },
-      "artists": [
-        {
-          "name": "Trementina",
-          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
-        }
-      ],
-      "duration_ms": 237087,
-      "name": "Lazy Lovers",
-      "url": "https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 267019,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Almost Reach the Sun",
+        "url": "https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS"
+      },
+      "artists": [
+        {
+          "name": "Trementina",
+          "url": "https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X"
+        }
+      ],
+      "duration_ms": 237087,
+      "name": "Lazy Lovers",
+      "url": "https://open.spotify.com/track/223R25sVUNY4QCvA7XjkNk"
     },
     {
       "added_at": "2023-05-05 06:00:00",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-05-05 06:00:00",
       "album": {
-        "name": "Ceremonia",
-        "url": "https://open.spotify.com/album/0eJvHrZXZkkUDVMQuEJq07"
-      },
-      "artists": [
-        {
-          "name": "Margaritas Podridas",
-          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Ceremonia",
-      "url": "https://open.spotify.com/track/1ycIEEREuhHTHtmPCaJiMg"
-    },
-    {
-      "added_at": "2023-05-05 06:00:00",
-      "album": {
         "name": "reina de primavera",
         "url": "https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 245840,
       "name": "reina de primavera",
       "url": "https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6"
+    },
+    {
+      "added_at": "2023-05-05 06:00:00",
+      "album": {
+        "name": "Ceremonia",
+        "url": "https://open.spotify.com/album/0eJvHrZXZkkUDVMQuEJq07"
+      },
+      "artists": [
+        {
+          "name": "Margaritas Podridas",
+          "url": "https://open.spotify.com/artist/5O9NicFLG2F9Xr7OHxmrb7"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Ceremonia",
+      "url": "https://open.spotify.com/track/1ycIEEREuhHTHtmPCaJiMg"
     }
   ],
   "unique_name": "Shoegaze & Dreampop en espa\u00f1ol",

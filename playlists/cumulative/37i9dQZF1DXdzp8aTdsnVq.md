@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Diego Daza y Carlos Rueda
 
-107 songs - 7 hr 32 min
+108 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Manantial de Amor](https://open.spotify.com/track/4fjpYExoflfn8tLFo1T4f0) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Grandes Hits](https://open.spotify.com/album/6tb0dUes8ZvDbOqQuFLHEW) | 4:21 | 2022-10-21 | 2022-11-13 |
 | [Manantial De Amor](https://open.spotify.com/track/7Jj7xLUrsvHCiwOsNxzPPC) | [Binomio de Oro de América](https://open.spotify.com/artist/3yHLsTJ9OZ19qwY1Q5BEQJ) | [Seguimos Por Lo Alto](https://open.spotify.com/album/5XNXhNFKS5oCCcVWKKKzR0) | 4:21 | 2022-09-02 |  |
 | [Mañanita De Invierno \(feat\. Silvestre Dangond\)](https://open.spotify.com/track/661BYmEBVdUPhMY8X6DhKz) | [Poncho Zuleta](https://open.spotify.com/artist/1FrVJr7a4ZTOCSnKz3Fuq1), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Poncho Zuleta 45 Años](https://open.spotify.com/album/5K5ALlnrnBQUwtzzcA4qCy) | 8:37 | 2022-09-02 |  |
+| [Me Das Y Me Quitas Todo](https://open.spotify.com/track/3hRLE4fGujnPKx3lJi7Y5K) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt), [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek) | [Dos Épocas \(Segunda Edición\)](https://open.spotify.com/album/2PxwFOfB6afTLTGxYgwICy) | 4:48 | 2023-10-06 |  |
 | [Me Gustas Mucho](https://open.spotify.com/track/5KsBV3bKtUtU64TmqCgVP7) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Sergio Luis Rodrí](https://open.spotify.com/artist/1ynyzPMXLuvZ3Of56x8i8A) | [Ni Un Paso Atrás](https://open.spotify.com/album/1p5Pm8Vqk932S2VFVUAoi4) | 3:28 | 2022-09-02 |  |
 | [Me Llevó a La Luna](https://open.spotify.com/track/3Xb8tWqcrIDB3DjOIOEFrT) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [Esto Que Dice!](https://open.spotify.com/album/1GEQTKbUhZTn8Gt22ao8kH) | 3:17 | 2023-04-05 |  |
 | [Me Llevó a la Luna](https://open.spotify.com/track/7Jf4BXs1gNxvNfyvRdrgRr) | [Diego Daza](https://open.spotify.com/artist/6Rx5xY11vfnmOp312VzXMc), [Carlos Rueda](https://open.spotify.com/artist/7LVgdS3biF4E0taTah5GEW) | [Me Llevó a la Luna](https://open.spotify.com/album/081pGgewGVZcmXyvP5pjLH) | 3:17 | 2022-09-02 | 2023-05-20 |
@@ -103,7 +104,7 @@
 | [TBT](https://open.spotify.com/track/0Vy0zLbeULv6NAVlT3t0rf) | [Traviesos Del Vallenato](https://open.spotify.com/artist/3J2T0PYtMr3IqIGlPgJjAD) | [TBT](https://open.spotify.com/album/5rFEUePpaXiOT4XHBSmm89) | 3:52 | 2023-04-14 | 2023-08-26 |
 | [Te Lo Dije](https://open.spotify.com/track/0uWc7lXGIv3K3575AhP6Cp) | [Churo Diaz](https://open.spotify.com/artist/35hWXzGwF4IR8nRicL7jey), [Elías Mendoza](https://open.spotify.com/artist/0oniumgsmbuItH1l6O8vER) | [El Rey Guajiro](https://open.spotify.com/album/6rWUTRk4HYaV3ExfbtPmkh) | 4:19 | 2022-09-02 |  |
 | [Te Recomiendo](https://open.spotify.com/track/6NbXGk6bATIXVzJjzzL3rk) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Más Gigantes Que Nunca](https://open.spotify.com/album/3CJwJFB2FjTQfcfuzpa498) | 3:22 | 2022-09-02 | 2022-10-15 |
-| [Terminó Gustando](https://open.spotify.com/track/7lnBlgW6U6fLTotoXt6Tb4) | [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ), [Zona 8 R](https://open.spotify.com/artist/7M7XJgVgKowhXOEd4vGjuN) | [Terminó Gustando](https://open.spotify.com/album/10FtmtPmy2qRZbHUN6dezW) | 3:42 | 2023-09-15 |  |
+| [Terminó Gustando](https://open.spotify.com/track/7lnBlgW6U6fLTotoXt6Tb4) | [Rolando Ochoa](https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ), [Zona 8 R](https://open.spotify.com/artist/7M7XJgVgKowhXOEd4vGjuN) | [Terminó Gustando](https://open.spotify.com/album/10FtmtPmy2qRZbHUN6dezW) | 3:42 | 2023-09-15 | 2023-10-11 |
 | [Tierra Mala](https://open.spotify.com/track/7iJ43W1RWMrNjU3Or15jxX) | [Julio Meza](https://open.spotify.com/artist/61KRv7WhZJ2erWoYnJYHvL) | [Julio Canta Vallenato](https://open.spotify.com/album/5Qxd7iZAeoYqYFBLc3rchd) | 4:34 | 2022-09-02 | 2023-08-26 |
 | [Tierra Mala](https://open.spotify.com/track/1kWIPZYKp8pel13Wzrzocf) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Tierra Mala](https://open.spotify.com/album/1ifSWefkAmzfDlBowUtmjU) | 4:49 | 2022-09-02 |  |
 | [Tú Me Gustas, Mujer!!!](https://open.spotify.com/track/1zfs7wu5eDin6jDpIC662H) | [Rafa Perez](https://open.spotify.com/artist/20atSGIEvROfpnloxbI3KJ) | [Tú Me Gustas, Mujer!!!](https://open.spotify.com/album/1AH2y3HEWgiSKSYkbrgBEn) | 3:43 | 2022-09-02 |  |

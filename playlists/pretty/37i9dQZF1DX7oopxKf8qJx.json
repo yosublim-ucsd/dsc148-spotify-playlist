@@ -1,12 +1,12 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 73298,
+  "num_followers": 73384,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiY2QxMzA5MTFlZTgxNWJmNjc2YjE1MDkwNDkxNGMxOWQ1OTk1NTlh",
+  "snapshot_id": "MCxjNTAwZjA4NTAzNjYzZjIyMmQ5NzhkODQzNzEzY2I3ZTkzMDdkM2E1",
   "tracks": [
     {
       "added_at": "2023-09-01 09:29:43",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
+        "name": "American Serenade",
+        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 244826,
+      "name": "Moon over Miami",
+      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
+    },
+    {
+      "added_at": "2023-09-01 09:29:43",
+      "album": {
         "name": "Beyond The Sea",
         "url": "https://open.spotify.com/album/39LqBKNafyurGq9p6jDqrQ"
       },
@@ -395,22 +411,6 @@
       "duration_ms": 217266,
       "name": "Ebb Tide",
       "url": "https://open.spotify.com/track/2jCGELICh9bYpSiJ9bl2vL"
-    },
-    {
-      "added_at": "2023-09-01 09:29:43",
-      "album": {
-        "name": "American Serenade",
-        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 244826,
-      "name": "Moon over Miami",
-      "url": "https://open.spotify.com/track/6hIrh8XKgx6VLUJd29lsdN"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -467,18 +467,18 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "The Piano Legend (Remastered)",
-        "url": "https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV"
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
       },
       "artists": [
         {
-          "name": "Russ Conway",
-          "url": "https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60"
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
         }
       ],
-      "duration_ms": 203973,
-      "name": "Theme from Picnic - Remastered",
-      "url": "https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0"
+      "duration_ms": 148106,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -499,18 +499,18 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "I Wish You Love",
-        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
+        "name": "The Piano Legend (Remastered)",
+        "url": "https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV"
       },
       "artists": [
         {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+          "name": "Russ Conway",
+          "url": "https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60"
         }
       ],
-      "duration_ms": 168666,
-      "name": "I Wish You Love",
-      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
+      "duration_ms": 203973,
+      "name": "Theme from Picnic - Remastered",
+      "url": "https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -531,18 +531,18 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/2NGgziFUMP8Hs3S7WysJi1"
+        "name": "I Wish You Love",
+        "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
       },
       "artists": [
         {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
         }
       ],
-      "duration_ms": 148106,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/1GWSHN7cCSTdX1kULdoVPh"
+      "duration_ms": 168666,
+      "name": "I Wish You Love",
+      "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -559,6 +559,22 @@
       "duration_ms": 194880,
       "name": "Once In A While",
       "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
+    },
+    {
+      "added_at": "2023-09-01 09:29:43",
+      "album": {
+        "name": "American Serenade",
+        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 216960,
+      "name": "Autumn in New York",
+      "url": "https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -611,22 +627,6 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "The America Album",
-        "url": "https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW"
-      },
-      "artists": [
-        {
-          "name": "James Last",
-          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
-        }
-      ],
-      "duration_ms": 264693,
-      "name": "Jean",
-      "url": "https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0"
-    },
-    {
-      "added_at": "2023-09-01 09:29:43",
-      "album": {
         "name": "Blue Midnight (Remastered)",
         "url": "https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza"
       },
@@ -639,6 +639,22 @@
       "duration_ms": 177560,
       "name": "Lonely Nightingale",
       "url": "https://open.spotify.com/track/4WG40Rn4T2tRxNF8rLj3pa"
+    },
+    {
+      "added_at": "2023-09-01 09:29:43",
+      "album": {
+        "name": "The America Album",
+        "url": "https://open.spotify.com/album/1Nfll2ZgujqwqmbGozAUKW"
+      },
+      "artists": [
+        {
+          "name": "James Last",
+          "url": "https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG"
+        }
+      ],
+      "duration_ms": 264693,
+      "name": "Jean",
+      "url": "https://open.spotify.com/track/29z6TDFegnPabgoD16wpt0"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -663,6 +679,22 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
+        "name": "Plays Latin Themes For Young Lovers",
+        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
+      },
+      "artists": [
+        {
+          "name": "Percy Faith",
+          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
+        }
+      ],
+      "duration_ms": 158373,
+      "name": "How Insensitive",
+      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
+    },
+    {
+      "added_at": "2023-09-01 09:29:43",
+      "album": {
         "name": "The Shadow of Your Smile & Other Great Themes",
         "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
       },
@@ -675,22 +707,6 @@
       "duration_ms": 177213,
       "name": "Forget Domani",
       "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
-    },
-    {
-      "added_at": "2023-09-01 09:29:43",
-      "album": {
-        "name": "American Serenade",
-        "url": "https://open.spotify.com/album/19pCSMgiHqMCSrpgiGTTE0"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 216960,
-      "name": "Autumn in New York",
-      "url": "https://open.spotify.com/track/5smT2oBOeVSaoXKEP8rr1H"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -731,8 +747,8 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "Charade",
-        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
+        "name": "Hatari!",
+        "url": "https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ"
       },
       "artists": [
         {
@@ -740,9 +756,9 @@
           "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 179066,
-      "name": "Megeve",
-      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
+      "duration_ms": 203493,
+      "name": "Night Side",
+      "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -759,22 +775,6 @@
       "duration_ms": 205173,
       "name": "If I Had You",
       "url": "https://open.spotify.com/track/58JEIINhz1END8PYpnBZ55"
-    },
-    {
-      "added_at": "2023-09-01 09:29:43",
-      "album": {
-        "name": "Plays Latin Themes For Young Lovers",
-        "url": "https://open.spotify.com/album/2ybHNlJ6rpRTCVrrQs56Qa"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith",
-          "url": "https://open.spotify.com/artist/6unIK8JFrGemCge3NIUDKE"
-        }
-      ],
-      "duration_ms": 158373,
-      "name": "How Insensitive",
-      "url": "https://open.spotify.com/track/0Hm8nvg2mibkKlJJJ0SFOB"
     },
     {
       "added_at": "2023-09-01 09:29:43",
@@ -827,8 +827,8 @@
     {
       "added_at": "2023-09-01 09:29:43",
       "album": {
-        "name": "Hatari!",
-        "url": "https://open.spotify.com/album/1LszH7Tu8af3uWzi2VhQcQ"
+        "name": "Charade",
+        "url": "https://open.spotify.com/album/1liumaVjSFdj8VfmFolmWy"
       },
       "artists": [
         {
@@ -836,9 +836,9 @@
           "url": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
         }
       ],
-      "duration_ms": 203493,
-      "name": "Night Side",
-      "url": "https://open.spotify.com/track/4hs1t5oe0lJ2wzgMCmf5cu"
+      "duration_ms": 179066,
+      "name": "Megeve",
+      "url": "https://open.spotify.com/track/5BIkK1aQYDSoKz6J9AuNPj"
     },
     {
       "added_at": "2023-09-01 09:29:43",

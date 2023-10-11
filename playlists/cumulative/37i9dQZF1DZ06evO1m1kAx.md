@@ -4,7 +4,7 @@
 
 > This is 2Baba\. The essential tracks, all in one playlist.
 
-94 songs - 6 hr 28 min
+95 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,13 +77,14 @@
 | [Possibility](https://open.spotify.com/track/3wsj3rTvMRTtsyisz3urrj) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Danger](https://open.spotify.com/album/13yKq0XTkdxftNDr4vsi7e) | 5:03 | 2022-03-07 |  |
 | [Rainbow \- Remix](https://open.spotify.com/track/3rosTvZ4MAbOAzNbbEp6Ha) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [AWAY & BEYOND PLUS](https://open.spotify.com/album/2jlFfIJGPB0NQb3Q040sLa) | 4:26 | 2021-12-28 | 2022-11-22 |
 | [Raindrops](https://open.spotify.com/track/4cpQzHK4clbqMSQ1xBDpMY) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Unstoppable International](https://open.spotify.com/album/5sfbvpDCLWPobjdnjes1w0) | 4:49 | 2021-12-29 |  |
+| [Regret \(feat\. 2Baba\)](https://open.spotify.com/track/4RkuFGsIae9AGdGnxIQTGx) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:14 | 2023-10-10 |  |
 | [Remember \(feat\. 2face\)](https://open.spotify.com/track/6tqRTGMys8jvDUmdxsPwdk) | [Bracket](https://open.spotify.com/artist/6yd6lB5T20BZjUVkSlwojA), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Cupid Stories](https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci) | 4:02 | 2021-12-28 |  |
 | [Right Here](https://open.spotify.com/track/2L7I6WIUbzBMlepi4iVfXd) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [BEENIE MAN,KUNLE,O.J.B.,BLACK FACE,DE NATIVES,FREESTYL,E.T.C.](https://open.spotify.com/artist/19cKseNCx5VEeRRLEYPybV) | [Face 2 Face](https://open.spotify.com/album/5K1zEMnLKKLcoFUbR4GEOw) | 4:48 | 2021-12-28 |  |
 | [Right Here \- Remastered Version](https://open.spotify.com/track/6uDx4p5FwDZesqipK8inqo) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Face 2 Face 10.0](https://open.spotify.com/album/1PdMP3dtb5w0z4f2jVgXzF) | 4:46 | 2022-03-29 | 2022-11-17 |
 | [Rise Up](https://open.spotify.com/track/52vFTpJ6BRTSMI9K9IwI4f) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Rise Up](https://open.spotify.com/album/1Q2opiQfdZIP9DvBZNryG7) | 5:04 | 2021-12-28 |  |
 | [Searching](https://open.spotify.com/track/6A6rSOYp5xAgyNELLBwdWH) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [Bongos Ikwue](https://open.spotify.com/artist/4JSDqRrKYBFBjxS31YfWYK) | [Searching](https://open.spotify.com/album/34w5UK4AMarI8UU8G09ZOD) | 4:12 | 2021-12-28 | 2022-08-08 |
 | [See Me So](https://open.spotify.com/track/0RdXMS28fH63l6Is3eHZXM) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp), [VIP](https://open.spotify.com/artist/38wGnQ9uC7XyV0TFHaEiO4) | [Grass 2 Grace](https://open.spotify.com/album/37wGpWfZrk5wZax5cdJVSA) | 4:40 | 2021-12-28 |  |
-| [Siren \(feat\. 2Baba\)](https://open.spotify.com/track/7rzy41sQdrUDQ0DLGPq0Np) | [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Reality CHQ](https://open.spotify.com/album/1CdeE7uNA1vP0BpManopra) | 3:25 | 2022-10-12 | 2023-09-16 |
+| [Siren \(feat\. 2Baba\)](https://open.spotify.com/track/7rzy41sQdrUDQ0DLGPq0Np) | [Sound Sultan](https://open.spotify.com/artist/3ncebjXyf0NwYMutzK2DNg), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Reality CHQ](https://open.spotify.com/album/1CdeE7uNA1vP0BpManopra) | 3:25 | 2022-10-12 |  |
 | [Smile](https://open.spotify.com/track/2ZHqDc1DTTRF3enwT0NLmt) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Smile](https://open.spotify.com/album/4ImJy9yLwIoS5IaLX2tyzG) | 4:03 | 2022-01-22 |  |
 | [Street Credibility](https://open.spotify.com/track/74BCbm03x3JamvFUAEcVGH) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Gongo Aso](https://open.spotify.com/album/4Lkl7erFMkTHWmkdSmEpj3) | 4:48 | 2023-09-25 |  |
 | [street Credibility \(feat\. 2baba\)](https://open.spotify.com/track/18733EhJ3aCTkRDtNpCq01) | [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH), [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [Gongo Aso](https://open.spotify.com/album/1lCce0gAFEo9f3oBA43Aex) | 4:48 | 2021-12-28 | 2023-09-26 |

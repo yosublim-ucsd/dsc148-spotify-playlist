@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq?si=rZHTf-z8SliHgWipyvUQKA\">Tems</a>",
-  "num_followers": 70881,
+  "num_followers": 71015,
   "original_name": "New Music Friday South Africa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTMyZWQ0OTAzNTUwYzEyOGZkMWI4MTk4YjljOGU1ZTgyNThiMDRh",
+  "snapshot_id": "MCw3NzBmYzk0NTRhOGYwNjYxZDQ2MzRlNWRhNzI2MGFkMDA4MGUxOGI1",
   "tracks": [
     {
       "added_at": "2023-10-06 10:05:00",
@@ -58,10 +58,14 @@
         {
           "name": "LeeMcKrazy",
           "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
         }
       ],
       "duration_ms": 385731,
-      "name": "Mratata (feat. Leemckrazy)",
+      "name": "Moratata (feat. Leemckrazy & TitoM)",
       "url": "https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh"
     },
     {
@@ -805,7 +809,7 @@
       "url": "https://open.spotify.com/track/6C0crUpYIl6EvCHomd0IAg"
     },
     {
-      "added_at": "2023-10-06 10:05:00",
+      "added_at": "2023-10-09 07:13:54",
       "album": {
         "name": "JENNIE Special Single [You & Me]",
         "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
@@ -816,9 +820,9 @@
           "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
         }
       ],
-      "duration_ms": 179864,
-      "name": "You & Me (Coachella ver.)",
-      "url": "https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi"
+      "duration_ms": 179164,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
     },
     {
       "added_at": "2023-10-06 10:05:00",

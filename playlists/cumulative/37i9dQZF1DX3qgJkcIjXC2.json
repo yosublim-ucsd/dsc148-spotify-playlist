@@ -1385,6 +1385,24 @@
     },
     {
       "album": {
+        "name": "Na You Dey Reign",
+        "url": "https://open.spotify.com/album/7EUG7ICDtR5G6FLseXjADm"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "date_added": "2023-08-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267572,
+      "name": "Na You Dey Reign",
+      "url": "https://open.spotify.com/track/2cf0ayENplwaFuiG0aphAS"
+    },
+    {
+      "album": {
         "name": "SATISFIED",
         "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
       },
@@ -1396,7 +1414,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 267572,
       "name": "Na You Dey Reign",
       "url": "https://open.spotify.com/track/66KhGOqJXHLZQCmfWKMdqC"

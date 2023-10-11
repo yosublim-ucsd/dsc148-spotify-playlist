@@ -1,12 +1,12 @@
 {
   "description": "Las superestrellas del agua y el jab\u00f3n.",
-  "num_followers": 122472,
+  "num_followers": 122608,
   "original_name": "Cantando en el Ba\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTc1NzhlYTZhMDU1YjczMjgzY2FkOGMwMThmYzhjY2ZhMWI1MzZm",
+  "snapshot_id": "MCw5MzRmMGE1OGM3MmEwNDljNjM3ZDUxNzJlNGE3NTBkZTQ0ZWJmZGNi",
   "tracks": [
     {
       "added_at": "2023-08-29 14:09:26",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-08-29 14:09:26",
       "album": {
-        "name": "Bigger, Better, Faster, More !",
-        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
-      },
-      "artists": [
-        {
-          "name": "4 Non Blondes",
-          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
-        }
-      ],
-      "duration_ms": 295533,
-      "name": "What's Up?",
-      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
-    },
-    {
-      "added_at": "2023-08-29 14:09:26",
-      "album": {
         "name": "A Thousand Years",
         "url": "https://open.spotify.com/album/15yvc643iYfQtb6zh9NEJo"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 285120,
       "name": "A Thousand Years",
       "url": "https://open.spotify.com/track/6lanRgr6wXibZr8KgzXxBl"
+    },
+    {
+      "added_at": "2023-08-29 14:09:26",
+      "album": {
+        "name": "Bigger, Better, Faster, More !",
+        "url": "https://open.spotify.com/album/2P8M5eo4zWFD0JJtH4D0iA"
+      },
+      "artists": [
+        {
+          "name": "4 Non Blondes",
+          "url": "https://open.spotify.com/artist/0Je74SitssvJg1w4Ra2EK7"
+        }
+      ],
+      "duration_ms": 295533,
+      "name": "What's Up?",
+      "url": "https://open.spotify.com/track/0jWgAnTrNZmOGmqgvHhZEm"
     },
     {
       "added_at": "2023-08-29 14:09:26",

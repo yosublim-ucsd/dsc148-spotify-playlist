@@ -4,7 +4,7 @@
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films\. 代表作「進撃の巨人」シリーズ劇伴をはじめ、数々の名曲を世界に送り出している音楽家。SawanoHiroyuki\[nZk\]名義でも精力的に活動中。
 
-141 songs - 9 hr 37 min
+142 songs - 9 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,6 +95,7 @@
 | [s\-AVE](https://open.spotify.com/track/5VTCTEHELRevrwWxVNFrXB) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [o1](https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL) | 4:34 | 2022-06-21 |  |
 | [s\-AVE](https://open.spotify.com/track/2EMhwWtzu0EyGBP3j1harP) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [BEST SELECTION "noir"](https://open.spotify.com/album/3HORDo7fTgMBQoI9sjuEM8) | 4:36 | 2022-09-29 | 2022-11-13 |
 | [s\-AVE](https://open.spotify.com/track/1cT6cws3eNVGQCyrtpGHpQ) | [SawanoHiroyuki\[nZk\]:Aimer](https://open.spotify.com/artist/24aMUtQKIRHDMvPI7wPd35) | [o1](https://open.spotify.com/album/7rvt413Q8h0wYZZ7AjNL6T) | 4:34 | 2022-06-07 | 2022-07-29 |
+| [S9aiR](https://open.spotify.com/track/2bREEoMT7EyoUFwxh04IzM) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [S9aiR](https://open.spotify.com/album/6VGtl5hQVxkrUoY3k0t5vm) | 3:17 | 2023-10-10 |  |
 | [S\_TEAM](https://open.spotify.com/track/01oCO0CvwQLlbq3aHOvJOZ) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [甲鉄城のカバネリ COMPLETE SOUNDTRACK](https://open.spotify.com/album/4w86tNooD8SvmyWVjsjwNt) | 3:58 | 2022-06-07 |  |
 | [Saving Us](https://open.spotify.com/track/3ixdZukTK7y7bccizNfiYt) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Gemie](https://open.spotify.com/artist/7xD8IJZvqsewBhbMyiEIdz) | [o1](https://open.spotify.com/album/0ntFpUDU2WMXtEtM4og8RL) | 4:43 | 2022-06-21 |  |
 | [Saving Us](https://open.spotify.com/track/3qhuTGCGZJ0O9mFz5gpl69) | [SawanoHiroyuki\[nZk\]:Gemie](https://open.spotify.com/artist/1RET5OmR7BEQ7rQthMCRWE) | [o1](https://open.spotify.com/album/7rvt413Q8h0wYZZ7AjNL6T) | 4:43 | 2022-06-07 | 2022-07-29 |

@@ -4,7 +4,7 @@
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-75 songs - 3 hr 51 min
+76 songs - 3 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 | 2021-11-19 |  |
 | [Cha Cha Slide](https://open.spotify.com/track/146IdUhpqJAKpfGPegGtd1) | [Freeze Dance DJ's](https://open.spotify.com/artist/2vnlIUooL0M6u8zJaJImU9) | [FREEZE DANCE PARTY](https://open.spotify.com/album/5IsGdDTrqIPHPumGqtWRL0) | 3:42 | 2021-11-19 |  |
 | [Chicken Noodle Soup](https://open.spotify.com/track/749wOMJv0SwOcBcvVUwPdv) | [Kids Rap'n The Hits](https://open.spotify.com/artist/2BrDz1Swv1kqola1AYzjGI) | [Kids Rap'n The Hits Vol\. 3](https://open.spotify.com/album/64WmCTDYlflVG7D1HOpSWx) | 3:02 | 2021-11-19 | 2023-04-09 |
+| [CONFIDENT](https://open.spotify.com/track/4Q2ellywUb76X5n08rn8TE) | [Zindzi & The Zillionaires](https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB) | [CONFIDENT](https://open.spotify.com/album/45pqzyFPMnLw0KN9Qe2Ous) | 1:52 | 2023-10-10 |  |
 | [Dance Party in the House](https://open.spotify.com/track/6ZSMbNa2ZSmLR7LlC5Bz0m) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap \(In the House\)](https://open.spotify.com/album/2waS7cb3Rnkr2oZLO6l0Wf) | 3:18 | 2021-11-19 |  |
 | [Dance to the Reggae Rhythm \(feat\. Father Goose\)](https://open.spotify.com/track/0PylWiOSendDTztmimb42y) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [Father Goose](https://open.spotify.com/artist/7aufdCkGeBn79Gmb6ir6ys) | [One](https://open.spotify.com/album/5uTpQiaJIt5aSKMXAlCCqW) | 3:25 | 2021-11-19 |  |
 | [Do My Dance](https://open.spotify.com/track/56LCZNVDZBgVXmsP37ksgy) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 4 \(Kids on Da Track\)](https://open.spotify.com/album/1LbNXfKTY8F2FpfdUXw60g) | 2:30 | 2021-11-19 | 2023-04-09 |
@@ -25,7 +26,7 @@
 | [Getting Silly](https://open.spotify.com/track/60kcJIrsehemBC5S2PTTG3) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 1:50 | 2021-11-19 |  |
 | [Girls Run Everything](https://open.spotify.com/track/0GxUrzpQT8TR76G8ijZyTb) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Girls Run Everything](https://open.spotify.com/album/3Faeifft7FibKUEmSyoUdL) | 1:49 | 2021-11-19 | 2022-07-29 |
 | [Girls Run Everything](https://open.spotify.com/track/6lIFLRxoupohiSJXw7PXpZ) | [ZaZa](https://open.spotify.com/artist/7ipwVPuLHQUfpP4wRmj1nn) | [Girls Run Everything](https://open.spotify.com/album/62rQGSafiS9Fq3lOsTBGOB) | 1:49 | 2022-02-04 |  |
-| [Girls vs\. Boys](https://open.spotify.com/track/1JIICzNjNibNpB3HeefvFm) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 7](https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6) | 3:31 | 2021-11-19 |  |
+| [Girls vs\. Boys](https://open.spotify.com/track/1JIICzNjNibNpB3HeefvFm) | [Kids Rap Radio](https://open.spotify.com/artist/2YD4kgyo0midNau1KI6g8x) | [Kids Rap Radio, Vol\. 7](https://open.spotify.com/album/33KsrRSRtZkSaemIaFC6U6) | 3:31 | 2021-11-19 | 2023-10-11 |
 | [Go DJ](https://open.spotify.com/track/1iD60ApOiYKOb32UCaYWP1) | [Lil' Max$o](https://open.spotify.com/artist/7kXeApbOgTQGEeF76m6qQP) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:22 | 2021-11-19 |  |
 | [Go Play Outside](https://open.spotify.com/track/5oGi3t0P5LJ4Opu87mlLUg) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 2:27 | 2021-11-19 |  |
 | [Have Fun](https://open.spotify.com/track/2SRrXQG5zBbd2VUZFu38iL) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:06 | 2021-11-19 |  |

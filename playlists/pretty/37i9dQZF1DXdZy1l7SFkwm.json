@@ -1,12 +1,12 @@
 {
   "description": "El aderezo que te falta.",
-  "num_followers": 37022,
+  "num_followers": 37074,
   "original_name": "Cocina con sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmY1NDVkYjM2MmEzMDFiODJhMDE0NTNkMDBiNTEwNTViZTFmMDlk",
+  "snapshot_id": "MCwzZTE3MDY2Y2Q0MGIzZGI5NTkyNzc3NmE3OTA2YjI3NTg3NzEzN2Ni",
   "tracks": [
     {
       "added_at": "2021-03-15 16:04:53",
@@ -171,6 +171,26 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 445080,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
@@ -191,22 +211,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+        "name": "Canta En Espa\u00f1ol Con Los Panchos",
+        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+          "name": "Eydie Gorm\u00e9",
+          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
         },
         {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
         }
       ],
-      "duration_ms": 445080,
-      "name": "Pedro Navaja",
-      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+      "duration_ms": 137560,
+      "name": "Piel Canela",
+      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -279,50 +299,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Canta En Espa\u00f1ol Con Los Panchos",
-        "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
-      },
-      "artists": [
-        {
-          "name": "Eydie Gorm\u00e9",
-          "url": "https://open.spotify.com/artist/6HnHBbeScFiQKXt3sUQA3Z"
-        },
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 137560,
-      "name": "Piel Canela",
-      "url": "https://open.spotify.com/track/5NYQS0JkqRRfhlliy0P3Dv"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Asalto Navide\u00f1o",
-        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        },
-        {
-          "name": "Yomo Toro",
-          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
-        }
-      ],
-      "duration_ms": 334080,
-      "name": "La Murga",
-      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Buena Vista Social Club",
         "url": "https://open.spotify.com/album/6DPdEaZ0KDBCCgXyy4q8bi"
       },
@@ -371,6 +347,30 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Asalto Navide\u00f1o",
+        "url": "https://open.spotify.com/album/4TnqBA58KybPV53g95LHLe"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        },
+        {
+          "name": "Yomo Toro",
+          "url": "https://open.spotify.com/artist/112OOUPY3pq7Hr35s3po6E"
+        }
+      ],
+      "duration_ms": 334080,
+      "name": "La Murga",
+      "url": "https://open.spotify.com/track/5O2Id1rWAmR9ff9kGUfikf"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Tim Maia 1973",
         "url": "https://open.spotify.com/album/6gK1Uf1uZolqGBibGaW5qK"
       },
@@ -383,6 +383,22 @@
       "duration_ms": 217604,
       "name": "R\u00e9u Confesso",
       "url": "https://open.spotify.com/track/3BpiaGyTIb7VIoAYbvSzTH"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "I Get The Sweetest Feeling",
+        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
+      },
+      "artists": [
+        {
+          "name": "Jackie Wilson",
+          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
+        }
+      ],
+      "duration_ms": 178373,
+      "name": "I Get The Sweetest Feeling",
+      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -411,22 +427,6 @@
       "duration_ms": 139986,
       "name": "Corcovado (Quiet Nights Of Quiet Stars) - Single Version",
       "url": "https://open.spotify.com/track/5nU7dvOfzYs9QVVL7YVNPE"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "I Get The Sweetest Feeling",
-        "url": "https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6"
-      },
-      "artists": [
-        {
-          "name": "Jackie Wilson",
-          "url": "https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju"
-        }
-      ],
-      "duration_ms": 178373,
-      "name": "I Get The Sweetest Feeling",
-      "url": "https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -479,22 +479,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
-        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7oise Hardy",
-          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
-        }
-      ],
-      "duration_ms": 187746,
-      "name": "Tous les gar\u00e7ons et les filles - Slow",
-      "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Suzanne Beware of the Devil - The Best of Dandy Livingstone",
         "url": "https://open.spotify.com/album/3U6KCS5Upe8m98q7guV1Lf"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 168480,
       "name": "Rudy, A Message To You",
       "url": "https://open.spotify.com/track/4WKQHFv4KqIehRBb3V3a9p"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Fran\u00e7oise Hardy (Tous les gar\u00e7ons et les filles)",
+        "url": "https://open.spotify.com/album/0TcP4beTgxQmREuHJ7BBY2"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7oise Hardy",
+          "url": "https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g"
+        }
+      ],
+      "duration_ms": 187746,
+      "name": "Tous les gar\u00e7ons et les filles - Slow",
+      "url": "https://open.spotify.com/track/0Yg1hSAUgd2AAneReFOVzS"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -543,6 +543,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 155666,
+      "name": "Take It Easy My Brother Charles",
+      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "The Harder They Come (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4oxdKcC9epGo9viy1j8fN7"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 313493,
       "name": "Estrelar",
       "url": "https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 155666,
-      "name": "Take It Easy My Brother Charles",
-      "url": "https://open.spotify.com/track/399Hm1oqfzzQaZRu3CtVMb"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -699,6 +699,22 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Samba Esquema Novo",
+        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 167066,
+      "name": "Por Causa De Voc\u00ea, Menina",
+      "url": "https://open.spotify.com/track/0YojqXjn4xb5hblpFAhqJr"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Endangered Species (Bonus Edition)",
         "url": "https://open.spotify.com/album/37XWqnkktzlWXa5JGp7zF3"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 222920,
       "name": "Mi Swing es Tropical",
       "url": "https://open.spotify.com/track/3zK2IUdvnOaKWC3yCP0P3C"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "Samba Esquema Novo",
-        "url": "https://open.spotify.com/album/3xWp6y0HGsHZlXljNs7VRy"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 167066,
-      "name": "Por Causa De Voc\u00ea, Menina",
-      "url": "https://open.spotify.com/track/0YojqXjn4xb5hblpFAhqJr"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -839,22 +839,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Jorge Ben",
-        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 155493,
-      "name": "Bebete V\u00e3obora",
-      "url": "https://open.spotify.com/track/3vST7tho4iT90949PEtM7i"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "O Amor, O Sorriso e a Flor (Ultimate Mix)",
         "url": "https://open.spotify.com/album/31wFbkHhgPP1c8S3wYx7it"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 118361,
       "name": "O Pato - Ultimate Mix",
       "url": "https://open.spotify.com/track/5nHimcXKoQiJtKytX9Gx21"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Jorge Ben",
+        "url": "https://open.spotify.com/album/3V3XJ3Sh62jPUYUMSQ1Tsf"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 155493,
+      "name": "Bebete V\u00e3obora",
+      "url": "https://open.spotify.com/track/3vST7tho4iT90949PEtM7i"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Buenos Hermanos",
-        "url": "https://open.spotify.com/album/2U4d397MrGSUt8c289VZVT"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        }
-      ],
-      "duration_ms": 227573,
-      "name": "Boliviana",
-      "url": "https://open.spotify.com/track/0c3dYyhdKUFd2zUSL4tdvz"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Para Todo el Mundo, Vol. 2",
         "url": "https://open.spotify.com/album/3SQO9WCqdtEMUclk7oMIT2"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 155773,
       "name": "Toda una vida",
       "url": "https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Buenos Hermanos",
+        "url": "https://open.spotify.com/album/2U4d397MrGSUt8c289VZVT"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        }
+      ],
+      "duration_ms": 227573,
+      "name": "Boliviana",
+      "url": "https://open.spotify.com/track/0c3dYyhdKUFd2zUSL4tdvz"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
-        "url": "https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU"
-      },
-      "artists": [
-        {
-          "name": "Ibrahim Ferrer",
-          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
-        },
-        {
-          "name": "Omara Portuondo",
-          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
-        }
-      ],
-      "duration_ms": 278640,
-      "name": "Silencio",
-      "url": "https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
         "name": "Beach Samba",
         "url": "https://open.spotify.com/album/1nd8Xz8Zh7tZv5EdLbg5nF"
       },
@@ -1411,6 +1391,26 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
+        "name": "Ibrahim Ferrer (Buena Vista Social Club Presents)",
+        "url": "https://open.spotify.com/album/2W49Vkri8OTFs5Gi7UWFUU"
+      },
+      "artists": [
+        {
+          "name": "Ibrahim Ferrer",
+          "url": "https://open.spotify.com/artist/5dss7E1Ph0KxuF1ULfAx4D"
+        },
+        {
+          "name": "Omara Portuondo",
+          "url": "https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy"
+        }
+      ],
+      "duration_ms": 278640,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/7uzTm4WG1hFLcj4QPGkVZm"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
         "name": "Loose & Juicy",
         "url": "https://open.spotify.com/album/1QrIXVqDiXZzmHLR0woYk7"
       },
@@ -1423,6 +1423,22 @@
       "duration_ms": 289000,
       "name": "Ain't No Sunshine",
       "url": "https://open.spotify.com/track/7DmExRy2zWKkM9QX8Wy7oM"
+    },
+    {
+      "added_at": "2021-03-15 16:04:53",
+      "album": {
+        "name": "Latin Piece of Soul",
+        "url": "https://open.spotify.com/album/4MyYzH7E0gpryzun66ebxl"
+      },
+      "artists": [
+        {
+          "name": "Setenta",
+          "url": "https://open.spotify.com/artist/4dRBVaj6yRwtOnJMqSNSeg"
+        }
+      ],
+      "duration_ms": 186698,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/6RHy322Av13zA6TDy1luMu"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1443,18 +1459,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "Latin Piece of Soul",
-        "url": "https://open.spotify.com/album/4MyYzH7E0gpryzun66ebxl"
+        "name": "S'Imbora - A Hist\u00f3ria De Wilson Simonal",
+        "url": "https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4"
       },
       "artists": [
         {
-          "name": "Setenta",
-          "url": "https://open.spotify.com/artist/4dRBVaj6yRwtOnJMqSNSeg"
+          "name": "Wilson Simonal",
+          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
         }
       ],
-      "duration_ms": 186698,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/6RHy322Av13zA6TDy1luMu"
+      "duration_ms": 152226,
+      "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
+      "url": "https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1479,18 +1495,18 @@
     {
       "added_at": "2021-03-15 16:04:53",
       "album": {
-        "name": "S'Imbora - A Hist\u00f3ria De Wilson Simonal",
-        "url": "https://open.spotify.com/album/4N9x0tpa3JaHNTWfoRvIx4"
+        "name": "The Vintage Series",
+        "url": "https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD"
       },
       "artists": [
         {
-          "name": "Wilson Simonal",
-          "url": "https://open.spotify.com/artist/6DqFCzjARUV3xH9meu3Bya"
+          "name": "Pat Kelly",
+          "url": "https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi"
         }
       ],
-      "duration_ms": 152226,
-      "name": "Nem Vem Que N\u00e3o Tem - Ao Vivo",
-      "url": "https://open.spotify.com/track/2Tu5gM7e8Di209p7Gg2CCp"
+      "duration_ms": 166186,
+      "name": "Little Boy Blue",
+      "url": "https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn"
     },
     {
       "added_at": "2021-03-15 16:04:53",
@@ -1507,22 +1523,6 @@
       "duration_ms": 188466,
       "name": "Sweet and Dandy",
       "url": "https://open.spotify.com/track/0vYfDfb2G23BsMfRUybVsD"
-    },
-    {
-      "added_at": "2021-03-15 16:04:53",
-      "album": {
-        "name": "The Vintage Series",
-        "url": "https://open.spotify.com/album/79trt5vU4vqyna7znhWjqD"
-      },
-      "artists": [
-        {
-          "name": "Pat Kelly",
-          "url": "https://open.spotify.com/artist/5mLxA9ySBmpMnMNvx1bEUi"
-        }
-      ],
-      "duration_ms": 166186,
-      "name": "Little Boy Blue",
-      "url": "https://open.spotify.com/track/4M8o993Gt5U6mSogtuviYn"
     },
     {
       "added_at": "2021-03-15 16:04:53",

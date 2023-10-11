@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Kynnie",
-  "num_followers": 164000,
+  "num_followers": 164025,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNTllZGNmMzNkZGQ4YzgwMmU5YWE5NzE2NzRlMmMzMDY2ZjRiYTU5",
+  "snapshot_id": "MCxkYTQzZjlmMDFmOTdiNzVlMzAyMWZjZmY2NDA5NzEyYTc0YjEyYzY3",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -339,6 +339,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "MENTIROSO",
+        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 167936,
+      "name": "MENTIROSO",
+      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "A S\u00f3s",
         "url": "https://open.spotify.com/album/66vwSPGMqAoKx9yaB1ThoJ"
       },
@@ -363,22 +379,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "MENTIROSO",
-        "url": "https://open.spotify.com/album/4M1ABS74NBYnrsXMSEQIRV"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 167936,
-      "name": "MENTIROSO",
-      "url": "https://open.spotify.com/track/2pWh0qXT9466a6HwMf9I1W"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Ceder",
         "url": "https://open.spotify.com/album/2U7SgeSUNChbpRuNzng2OS"
       },
@@ -395,6 +395,22 @@
       "duration_ms": 197617,
       "name": "Ceder",
       "url": "https://open.spotify.com/track/6kTqxXfCTgWMWWrMlpBGFm"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Pacotinho (M\u00fasica Pra Ch\u00e1 Revela\u00e7\u00e3o)",
+        "url": "https://open.spotify.com/album/7ae0cv8LouEl4n51QDhQz9"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        }
+      ],
+      "duration_ms": 162634,
+      "name": "Pacotinho (Menino)",
+      "url": "https://open.spotify.com/track/66yTfEFEiKLFRs3V0RermR"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -475,18 +491,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Pacotinho (M\u00fasica Pra Ch\u00e1 Revela\u00e7\u00e3o)",
-        "url": "https://open.spotify.com/album/7ae0cv8LouEl4n51QDhQz9"
+        "name": "Sinal de Fuma\u00e7a",
+        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
       },
       "artists": [
         {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
+        },
+        {
+          "name": "Thebosh",
+          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
         }
       ],
-      "duration_ms": 162634,
-      "name": "Pacotinho (Menino)",
-      "url": "https://open.spotify.com/track/66yTfEFEiKLFRs3V0RermR"
+      "duration_ms": 150833,
+      "name": "Sinal de Fuma\u00e7a",
+      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -515,6 +535,26 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Nessa Vida",
+        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
+      },
+      "artists": [
+        {
+          "name": "IGOR",
+          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
+        },
+        {
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
+        }
+      ],
+      "duration_ms": 189233,
+      "name": "Nessa Vida",
+      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Censura e Prazer",
         "url": "https://open.spotify.com/album/6GVlO9fjTtVFxQFSIvODog"
       },
@@ -539,26 +579,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Sinal de Fuma\u00e7a",
-        "url": "https://open.spotify.com/album/5OkI6zKfhKzl1w3CjpvnOi"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Thebosh",
-          "url": "https://open.spotify.com/artist/6NCFegwTfE1dbVEOPrAGxI"
-        }
-      ],
-      "duration_ms": 150833,
-      "name": "Sinal de Fuma\u00e7a",
-      "url": "https://open.spotify.com/track/76M93slEhL9Q9MEvbxycbe"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Faz Arrepiar",
         "url": "https://open.spotify.com/album/2eECtXgZdmITR6VSzq5CW7"
       },
@@ -575,26 +595,6 @@
       "duration_ms": 140832,
       "name": "Faz Arrepiar",
       "url": "https://open.spotify.com/track/7JGHeEIqdqrQJUXONANuKz"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Nessa Vida",
-        "url": "https://open.spotify.com/album/5SivaxB405MCGeZroyNpza"
-      },
-      "artists": [
-        {
-          "name": "IGOR",
-          "url": "https://open.spotify.com/artist/4zCVTLvRnKYmkVyCxfV2ny"
-        },
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        }
-      ],
-      "duration_ms": 189233,
-      "name": "Nessa Vida",
-      "url": "https://open.spotify.com/track/4ryu7kty8u9SiA5Md11D0B"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -627,6 +627,58 @@
       "duration_ms": 211524,
       "name": "Mergulhei",
       "url": "https://open.spotify.com/track/58H4xYSRZ65vvmZPEAZ91H"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Volta",
+        "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
+      },
+      "artists": [
+        {
+          "name": "Murilo Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
+        },
+        {
+          "name": "FELL",
+          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
+        },
+        {
+          "name": "WALL",
+          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
+        },
+        {
+          "name": "Briozzini",
+          "url": "https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj"
+        }
+      ],
+      "duration_ms": 204937,
+      "name": "Volta",
+      "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Liga\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
+      },
+      "artists": [
+        {
+          "name": "Meraki",
+          "url": "https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs"
+        },
+        {
+          "name": "BlakkLan\u00e7a",
+          "url": "https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo"
+        },
+        {
+          "name": "BlakkStar",
+          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
+        }
+      ],
+      "duration_ms": 209389,
+      "name": "Liga\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -699,58 +751,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Volta",
-        "url": "https://open.spotify.com/album/62zSQrFRSQI9dsJS1Uw8TL"
-      },
-      "artists": [
-        {
-          "name": "Murilo Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4TlfxFPeRDsDbWxm3iBt9A"
-        },
-        {
-          "name": "FELL",
-          "url": "https://open.spotify.com/artist/0tiAA1lSHnRZapINp4gMBB"
-        },
-        {
-          "name": "WALL",
-          "url": "https://open.spotify.com/artist/047ncrQayjiFjUVlWAAhLY"
-        },
-        {
-          "name": "Briozzini",
-          "url": "https://open.spotify.com/artist/3F7B2VzJ2nvWQPKEQuBHTj"
-        }
-      ],
-      "duration_ms": 204937,
-      "name": "Volta",
-      "url": "https://open.spotify.com/track/1jcpYFepwi07ZSuq5H0m5z"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Liga\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
-      },
-      "artists": [
-        {
-          "name": "Meraki",
-          "url": "https://open.spotify.com/artist/2y8PQh31BuCKxhKVmavWWs"
-        },
-        {
-          "name": "BlakkLan\u00e7a",
-          "url": "https://open.spotify.com/artist/1NgGByizxiFLxa0jtHiXQo"
-        },
-        {
-          "name": "BlakkStar",
-          "url": "https://open.spotify.com/artist/0xOEY6ZB9xhdW3SnfmlgvX"
-        }
-      ],
-      "duration_ms": 209389,
-      "name": "Liga\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Meu Bem",
         "url": "https://open.spotify.com/album/2bo02n8YzdGhdbUGbKLj5h"
       },
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Casual",
-        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
-      },
-      "artists": [
-        {
-          "name": "N9NE",
-          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Casual",
-      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Quem Vai Fazer Voc\u00ea Feliz?",
         "url": "https://open.spotify.com/album/4PJDIaZRbnsolFvvJJ78TB"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 250032,
       "name": "Quem Vai Fazer Voc\u00ea Feliz?",
       "url": "https://open.spotify.com/track/1tE34sFD7UkGqTHzUDwhN6"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Casual",
+        "url": "https://open.spotify.com/album/6ACqA0GV9YblnMQPIS93Zu"
+      },
+      "artists": [
+        {
+          "name": "N9NE",
+          "url": "https://open.spotify.com/artist/15alwx15s1tZ2Gl9zF6Abv"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/6FFsKesuw6oJKJ0WACbpPn"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -879,6 +879,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "\u00c9ramos",
+        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
+      },
+      "artists": [
+        {
+          "name": "Jota SF",
+          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
+        }
+      ],
+      "duration_ms": 218890,
+      "name": "Bahamas",
+      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Real (Citando Djonga)",
         "url": "https://open.spotify.com/album/08Yhvx5F6NvLrVUA6t4hgb"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 205480,
       "name": "Real (Citando Djonga)",
       "url": "https://open.spotify.com/track/04WuhfAZ2E2pOsT6MjfHOS"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "\u00c9ramos",
-        "url": "https://open.spotify.com/album/3zfJsn2QgHYbRJa6wZTG9i"
-      },
-      "artists": [
-        {
-          "name": "Jota SF",
-          "url": "https://open.spotify.com/artist/4ztJeuWS0uCCvhSHcO76ib"
-        }
-      ],
-      "duration_ms": 218890,
-      "name": "Bahamas",
-      "url": "https://open.spotify.com/track/1YWbYVHpotGLTpQ0wgji3Z"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "1001 Motivos",
-        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
-      },
-      "artists": [
-        {
-          "name": "Jeff Black",
-          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
-        }
-      ],
-      "duration_ms": 163201,
-      "name": "1001 Motivos",
-      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Imaturos",
         "url": "https://open.spotify.com/album/2kK3WLKERpEahvQt5g3Twr"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 212000,
       "name": "Imaturos",
       "url": "https://open.spotify.com/track/1pLMyLeCuV7LXnM4UlBJgw"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "1001 Motivos",
+        "url": "https://open.spotify.com/album/5WBUhncmkdthBpkab2acDS"
+      },
+      "artists": [
+        {
+          "name": "Jeff Black",
+          "url": "https://open.spotify.com/artist/0C2oPRdGxKKSBMvmAcSUrs"
+        }
+      ],
+      "duration_ms": 163201,
+      "name": "1001 Motivos",
+      "url": "https://open.spotify.com/track/58BRMUXVVwe3haP1jlZBuo"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Caixa Postal",
+        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
+      },
+      "artists": [
+        {
+          "name": "Doug O.",
+          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "Caixa Postal",
+      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Liga\u00e7\u00f5es",
         "url": "https://open.spotify.com/album/3X4pfBeCpDeMG9vbsAm95e"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 141714,
       "name": "Santa Melanina",
       "url": "https://open.spotify.com/track/3ztQ8cprZjCh4UhtAKY5Be"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Caixa Postal",
-        "url": "https://open.spotify.com/album/1U5wE2R3c7dsOq8YIaOdJR"
-      },
-      "artists": [
-        {
-          "name": "Doug O.",
-          "url": "https://open.spotify.com/artist/1mj6W331lVCliU08OYyMg0"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "Caixa Postal",
-      "url": "https://open.spotify.com/track/59VUO5wlGbV01g6fKBkms9"
     },
     {
       "added_at": "2023-10-06 03:00:00",

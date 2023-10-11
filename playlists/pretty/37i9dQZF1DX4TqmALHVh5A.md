@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Miel de Montagne
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,269 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,292 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 47 | [dénudée](https://open.spotify.com/track/4dJo55UsW4gWpKkkRvRTy1) | [Lonepsi](https://open.spotify.com/artist/5iu7PzNW2d8xKOE8IsXgef) | [dénudée](https://open.spotify.com/album/3n2PoNjcnOX4QSTbZuitU2) | 2:11 |
 | 48 | [Worried](https://open.spotify.com/track/0Ssz96Q8DAEry7mDrBRbcN) | [SOvOX](https://open.spotify.com/artist/5lJYPsXHNHiTtMbkW42tXN) | [Worried](https://open.spotify.com/album/74mX36E0PkXXiGc6FYZQBE) | 2:23 |
 | 49 | [Sans Cesse](https://open.spotify.com/track/2DLzUlHC6TY0JIri9c3Nd0) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Sans Cesse](https://open.spotify.com/album/5k9uPMU5VmYPDP3Zh5Iu1e) | 2:47 |
-| 50 | [Planisphère](https://open.spotify.com/track/4JMVCc9j54W3HqWD33YG46) | [Louis La Flemme](https://open.spotify.com/artist/4zu3kzgzqjnbULEKo6hIXI) | [Planisphère](https://open.spotify.com/album/6fpYPafHSYj9xRdD6vMl9x) | 3:07 |
+| 50 | [Planisphère](https://open.spotify.com/track/4JMVCc9j54W3HqWD33YG46) | [Louis La Flemme](https://open.spotify.com/artist/6BiGrnotVsXgC9NiadCMVW) | [Planisphère](https://open.spotify.com/album/6fpYPafHSYj9xRdD6vMl9x) | 3:07 |
 
-Snapshot ID: `MCxiYzU5ZWQ2ZmQ5N2U5N2VhMGUyNzNmNDgyODY2ZjEwMTZkYjc3YTBh`
+Snapshot ID: `MCwxNzE3ZDc3NjFmNmJkOWRmZDc3OTYwZDliNTZkMmE1MzJjMzRmOTlk`

@@ -4,7 +4,7 @@
 
 > Fino y elegante, como Feid 👻 🔦
 
-202 songs - 10 hr 37 min
+203 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [14/20](https://open.spotify.com/track/61fxkxoroML09OXhhUfsP4) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [14/20](https://open.spotify.com/album/6vdBr8NQLpiS67TpgMYybx) | 3:15 | 2023-04-21 |  |
 | [3/21](https://open.spotify.com/track/0rV8UItPm7YFJuUDZBDrB8) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [3/21](https://open.spotify.com/album/2DlsYBU1TofLqTzvdeiFFp) | 2:46 | 2023-05-19 |  |
 | [A Fuego](https://open.spotify.com/track/2OBDbcbEoulxcvV7VIJVLu) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [A Fuego](https://open.spotify.com/album/3rMdauQMPRGqfX7GeNIlRO) | 3:08 | 2022-10-13 | 2023-04-29 |
-| [ACTiVO](https://open.spotify.com/track/2FVWJLzBTCIYn1txnGXdQK) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [ACTiVO](https://open.spotify.com/album/0RmN5d0FNhPuisN9oWOdnc) | 2:31 | 2023-09-08 |  |
+| [ACTiVO](https://open.spotify.com/track/2FVWJLzBTCIYn1txnGXdQK) | [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [ACTiVO](https://open.spotify.com/album/0RmN5d0FNhPuisN9oWOdnc) | 2:31 | 2023-09-08 | 2023-10-11 |
 | [Ajena \(with Myke Towers, Dylan Fuentes\)](https://open.spotify.com/track/4KXtFUFmPObTROXShFLHZX) | [Dayme y El High](https://open.spotify.com/artist/4JreHVYyb6GqE2BU03Kx96), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin) | [Ajena](https://open.spotify.com/album/09f8EgWWvka2uplSWGdIwV) | 2:42 | 2022-10-13 |  |
 | [AL NATURAL](https://open.spotify.com/track/2Hr2c6kxojvdyu5eJzq4NE) | [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [AL NATURAL](https://open.spotify.com/album/1BmvwEPLkAqdVOeW19LW4t) | 3:15 | 2022-10-13 | 2023-02-25 |
 | [Alguien Más](https://open.spotify.com/track/5mROvpdGeu1vSbZhZoay5O) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Alguien Más](https://open.spotify.com/album/75hoyFZLUqsTxCAq2JpCGG) | 2:57 | 2022-10-13 | 2023-01-21 |
@@ -96,6 +96,7 @@
 | [Juan Duque Hotline: Cobuz & Bustta](https://open.spotify.com/track/6Uzmod8XYgpEFdCVjYywCI) | [Cobuz & Bustta](https://open.spotify.com/artist/3IpCt5oIfvR2qlkuoCoGYU), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Juan Duque Hotline: Cobuz & Bustta](https://open.spotify.com/album/3xZKHxoSd1t3QL9wRv1JRa) | 3:06 | 2022-09-30 |  |
 | [KAWAII](https://open.spotify.com/track/1AFcJGVt4enuH1gqGw2axN) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [KAWAII](https://open.spotify.com/album/7HkcjdEaCl3g9uD3MaJLrf) | 3:18 | 2022-09-30 | 2022-10-14 |
 | [KILÓMETRO CERO](https://open.spotify.com/track/5ynzg8MEPGDZ8SP11rxdnA) | [Luis7Lunes](https://open.spotify.com/artist/6IQraFTvYMjzlx6AsrmsuB), [Kid Sanchez](https://open.spotify.com/artist/1tVHSMYLGXR8dGdHbCCyLS), [Afterclass](https://open.spotify.com/artist/66Q5qHfWVPJDj6m1nmIK0N) | [KILÓMETRO CERO](https://open.spotify.com/album/6AWgDlLJ4Fvt9tHhNRBUw3) | 2:13 | 2023-08-11 | 2023-09-30 |
+| [KLKNTOKI](https://open.spotify.com/track/6KaezqeYEakCN6jq5a7T1w) | [Nath](https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11), [Cheztom](https://open.spotify.com/artist/5DJQ2mf4W5JFyjLt4KdEQn) | [KLKNTOKI](https://open.spotify.com/album/7gESv8nqIStiWMjTT4C4Wc) | 3:21 | 2023-10-10 |  |
 | [La Bandi](https://open.spotify.com/track/0aDIBzGaTSs3jTSh3fySgP) | [Kapla y Miky](https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [ÁREA 57](https://open.spotify.com/album/42ljyrHYLjYnv1kaWzlGoF) | 3:36 | 2022-10-13 | 2022-11-23 |
 | [La Bandi \- La Bandi](https://open.spotify.com/track/1aBXDpDzdkuPYSXIFgsVy5) | [Kapla y Miky](https://open.spotify.com/artist/4dhKkIzf9LXogFL1NXfQc1), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [ÁREA 57](https://open.spotify.com/album/6doUHJ090UD6gUwwJn7cAU) | 3:36 | 2022-11-13 | 2022-12-01 |
 | [La HP \- Spotify Singles](https://open.spotify.com/track/0GKmZutSxfdOUQzElk0Psv) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [La HP \- Spotify Singles](https://open.spotify.com/album/4EA3vA6Qya4YZRUYlT9PPB) | 3:06 | 2022-11-11 | 2022-12-10 |

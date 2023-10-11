@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Kossisko
 
-[Spotify](https://open.spotify.com/user/spotify) - 312,256 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,280 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 | 99 | [Holy Ghost](https://open.spotify.com/track/2GtECeftLDCtulYx0sIiXP) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s) | [Operation Funk](https://open.spotify.com/album/5LOlSBya1sfbXDP53KK2A3) | 4:36 |
 | 100 | [Gigantic Energy](https://open.spotify.com/track/2PRmFMuhCCwa9fNtqRi4M1) | [Michael Thurber](https://open.spotify.com/artist/5zdCcd7nJejwygIgvJzjhf), [Huntertones](https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd) | [Gigantic Energy](https://open.spotify.com/album/2bIcCEYZZHRgOHZNEicdXw) | 4:24 |
 
-Snapshot ID: `MCxlNzA1MTIyODk0ODVmOWE4ZmFjM2NmMjM1N2JjN2I4ZmUyZDI4ZjM5`
+Snapshot ID: `MCwwMzlkNDVkMTA5ODQ0MDBmMTQ4Mjg4NTBkNWMzNTViNjIzZjY3ZmZi`

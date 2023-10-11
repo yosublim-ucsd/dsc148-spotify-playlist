@@ -1,12 +1,12 @@
 {
   "description": "Tunes for sun drenched days and balmy nights.",
-  "num_followers": 72812,
+  "num_followers": 72805,
   "original_name": "Summer Daze",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmNmOGUyNThlNDUzNGFhZmQzYWUwZThkMGVlYmI2OTdkMWE5M2Ux",
+  "snapshot_id": "MCw0NjFkMzQ4ZDk5MDllZWRkNjJlYmQyZDdjNGE4MDhkMTQ4ODBjMDg2",
   "tracks": [
     {
       "added_at": "2023-03-08 13:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Bloodline",
-        "url": "https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd"
-      },
-      "artists": [
-        {
-          "name": "Sam Heselwood",
-          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
-        }
-      ],
-      "duration_ms": 300915,
-      "name": "Book Full Of Answers",
-      "url": "https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "To Enjoy is the Only Thing",
         "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 257160,
       "name": "Friend",
       "url": "https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "Bloodline",
+        "url": "https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd"
+      },
+      "artists": [
+        {
+          "name": "Sam Heselwood",
+          "url": "https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6"
+        }
+      ],
+      "duration_ms": 300915,
+      "name": "Book Full Of Answers",
+      "url": "https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "Grew Inside the Water",
-        "url": "https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY"
-      },
-      "artists": [
-        {
-          "name": "Mimi Gilbert",
-          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
-        }
-      ],
-      "duration_ms": 284037,
-      "name": "Society's a Mansion",
-      "url": "https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk"
-    },
-    {
-      "added_at": "2023-03-08 13:00:00",
-      "album": {
         "name": "Sunday Morning",
         "url": "https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 232639,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl"
+    },
+    {
+      "added_at": "2023-03-08 13:00:00",
+      "album": {
+        "name": "Grew Inside the Water",
+        "url": "https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY"
+      },
+      "artists": [
+        {
+          "name": "Mimi Gilbert",
+          "url": "https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P"
+        }
+      ],
+      "duration_ms": 284037,
+      "name": "Society's a Mansion",
+      "url": "https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk"
     },
     {
       "added_at": "2023-03-08 13:00:00",
@@ -979,18 +979,18 @@
     {
       "added_at": "2023-03-08 13:00:00",
       "album": {
-        "name": "The Sweetest Days",
-        "url": "https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE"
+        "name": "this is how you fall in love",
+        "url": "https://open.spotify.com/album/4y9pwFu4CY9pcY1ZDAupwh"
       },
       "artists": [
         {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+          "name": "Parker Rose",
+          "url": "https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF"
         }
       ],
-      "duration_ms": 214088,
-      "name": "The Sweetest Days",
-      "url": "https://open.spotify.com/track/4uKbNHTS478jijU1okANjz"
+      "duration_ms": 161632,
+      "name": "this is how you fall in love",
+      "url": "https://open.spotify.com/track/7iqp8pV9NTmxJQf2uuVTOE"
     }
   ],
   "unique_name": "Summer Daze",

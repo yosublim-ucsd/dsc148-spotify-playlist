@@ -4,7 +4,7 @@
 
 > This is Botellita De Jerez\. The essential tracks, all in one playlist.
 
-63 songs - 3 hr 42 min
+64 songs - 3 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,8 +43,9 @@
 | [Guarda Mi Corazon](https://open.spotify.com/track/2jHLJSxPeTH7sTQwIgF4Cd) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Lo Pior Del Estuche De Peluche](https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS) | 4:26 | 2023-01-14 |  |
 | [Heavy Metro](https://open.spotify.com/track/6X4AiGfwsNohgMbSrD0tXA) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:37 | 2023-01-14 |  |
 | [Jefe De Jefes](https://open.spotify.com/track/6ZVpMSjOgWVn8DYWnt4qTr) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [El Mas Grande Homenaje A Los Tigres Del Norte \(Reissue\)](https://open.spotify.com/album/2CV4KdKMJ4fNq29HLmGmri) | 4:24 | 2023-01-14 |  |
+| [La Balona de la Conquista](https://open.spotify.com/track/0XzvypCYjCXRiV7V3f7X3v) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Superespecial De Botellita de Jerez Acústico Semi \- Desenchufado en Vivo un Plug](https://open.spotify.com/album/4lIYlrkQAGs8PtFP9TNUuA) | 7:38 | 2023-10-10 |  |
 | [La Calaca](https://open.spotify.com/track/0mEOv7YRL877hbe9Xazu3y) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 3:25 | 2023-01-14 |  |
-| [La Sorpresa](https://open.spotify.com/track/4xIX8bh2MEE1QkGk1sbWxf) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 2:54 | 2023-02-04 | 2023-09-26 |
+| [La Sorpresa](https://open.spotify.com/track/4xIX8bh2MEE1QkGk1sbWxf) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 2:54 | 2023-02-04 |  |
 | [La Valona de la Conquista](https://open.spotify.com/track/4HDDb63OphLhe87KxZ61SS) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 6:10 | 2023-01-21 |  |
 | [Laberinto de la Soledad](https://open.spotify.com/track/1qilssmXFoyUuQxA20dpAB) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 3:14 | 2023-01-14 |  |
 | [Luna Misteriosa](https://open.spotify.com/track/2vcXBSX5oVbBm8V76aQkVL) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 5:59 | 2023-06-18 |  |
@@ -69,7 +70,7 @@
 | [Vamos a la Alberca](https://open.spotify.com/track/6lwlEDfZNSNESBQOiErgul) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 3:04 | 2023-01-14 |  |
 | [Vete Al Averno](https://open.spotify.com/track/0FEtNfXErt5haCQc4KjYKC) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Singles](https://open.spotify.com/album/5q54omEW1Ko4xPvxlTO9GF) | 4:17 | 2023-01-14 |  |
 | [¡No Te La Vas A Acabar!](https://open.spotify.com/track/1njT3ThrR0oCkYwBThI0SQ) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 3:01 | 2023-03-22 | 2023-03-25 |
-| [¡Que Se Acaben Los Guapos!](https://open.spotify.com/track/4OMF4unx7V16o87gijklQd) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 3:06 | 2023-01-14 |  |
-| [¿Te Gusta a Ti Ese Son?](https://open.spotify.com/track/0xo20TzPU8fo8ZI0Re8vUG) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Superespecial De Botellita de Jerez Acústico Semi \- Desenchufado en Vivo un Plug](https://open.spotify.com/album/4lIYlrkQAGs8PtFP9TNUuA) | 3:53 | 2023-06-18 |  |
+| [¡Que Se Acaben Los Guapos!](https://open.spotify.com/track/4OMF4unx7V16o87gijklQd) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 3:06 | 2023-01-14 | 2023-10-11 |
+| [¿Te Gusta a Ti Ese Son?](https://open.spotify.com/track/0xo20TzPU8fo8ZI0Re8vUG) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Superespecial De Botellita de Jerez Acústico Semi \- Desenchufado en Vivo un Plug](https://open.spotify.com/album/4lIYlrkQAGs8PtFP9TNUuA) | 3:53 | 2023-06-18 | 2023-10-11 |
 
 \*This playlist was first scraped on 2023-01-14. Prior content cannot be recovered.

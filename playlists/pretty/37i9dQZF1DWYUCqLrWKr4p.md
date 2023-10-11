@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 
 > Unforgettable love songs from the 1960s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,638 likes - 73 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,755 likes - 73 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,12 +74,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUCqLrWKr4p.md) - [plain]
 | 64 | [\(Today I Met\) The Boy I'm Gonna Marry](https://open.spotify.com/track/2Px4PrbPBMeWB1silbjI5H) | [Darlene Love](https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu) | [The Sound Of Love: The Very Best Of Darlene Love](https://open.spotify.com/album/2KMh9uqFrGblh1Ui23yoXU) | 2:46 |
 | 65 | [Forever](https://open.spotify.com/track/3s2inuLbQQZ7z1GJrdlQr6) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [Playboy](https://open.spotify.com/album/0XuV6U9ee6UB1faItAbEic) | 2:21 |
 | 66 | [\('Til\) I Kissed You](https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ) | [The Everly Brothers](https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs) | [The Very Best of The Everly Brothers](https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT) | 2:26 |
-| 67 | [When the Girl in Your Arms Is the Girl in Your Heart \- 2005 Remaster](https://open.spotify.com/track/1jJVls8580ru1Glnumcyig) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [The Young Ones](https://open.spotify.com/album/07UPkUx165h6EttjbOjguo) | 2:23 |
-| 68 | [Hey Paula](https://open.spotify.com/track/3kl9waNDdEv2BqDJBu9fuw) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [Hey Paula](https://open.spotify.com/album/2FF9i414vwTDa2sJWrhIqh) | 2:26 |
+| 67 | [Hey Paula](https://open.spotify.com/track/3kl9waNDdEv2BqDJBu9fuw) | [Paul & Paula](https://open.spotify.com/artist/2pycVt1qR9u8bKdb4oLI98) | [Hey Paula](https://open.spotify.com/album/2FF9i414vwTDa2sJWrhIqh) | 2:26 |
+| 68 | [When the Girl in Your Arms Is the Girl in Your Heart \- 2005 Remaster](https://open.spotify.com/track/1jJVls8580ru1Glnumcyig) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [The Young Ones](https://open.spotify.com/album/07UPkUx165h6EttjbOjguo) | 2:23 |
 | 69 | [When Something Is Wrong with My Baby](https://open.spotify.com/track/056rtilqF4cqLOgDQGqYqv) | [Sam & Dave](https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2) | [The Best of Sam & Dave](https://open.spotify.com/album/4IDa38FYTYlqHFbZM6rb5I) | 3:14 |
 | 70 | [Love Child](https://open.spotify.com/track/1JguzruTnY4PrbWu7BKD38) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq) | [The Definitive Collection](https://open.spotify.com/album/4SFKj31HM4ZHONVy5TZoGR) | 2:55 |
 | 71 | [Come Closer to Me](https://open.spotify.com/track/4vH7AAArSCrfS9HwM7t6yb) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Spanish Harlem](https://open.spotify.com/album/2WcVleVG28RWzWLDLZnVgp) | 2:35 |
 | 72 | [You Can Count On Me](https://open.spotify.com/track/0SShdjTlefnYkLOqlVzGZH) | [Mel Carter](https://open.spotify.com/artist/3CgsVtt7tP8iduzkTCfel9) | [You Can Count On Me](https://open.spotify.com/album/6bHotJZZGphw5gHRCdwETH) | 3:16 |
 | 73 | [When You're Young And In Love](https://open.spotify.com/track/3URfKi5DOvUaJMuTuT8osm) | [The Marvelettes](https://open.spotify.com/artist/0MponVSpW81oLvJZ53vYZH) | [The Marvelettes](https://open.spotify.com/album/10PshaiGlvqUfdADKJXbTV) | 2:39 |
 
-Snapshot ID: `MCw5NTUyZDM1MzE2NGU5NmZmZjE2MGZiNGE5NDZkYmE0NzY0YzdlZWY2`
+Snapshot ID: `MCw5NjgwZTZhNjI5ZGM0YTg4YTA2MjAwNzVhZGQwYTIxYjc1MzQ0ODFi`

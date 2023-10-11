@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 
 > Dos estilos, dos sonidos, un mismo origen: El Barrio\. El Wiko & Simpson Ahuevo en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,533 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,576 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 76 | [Es Mi Gusto](https://open.spotify.com/track/0rvq213XxZoie8MfC1qO65) | [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Proyecto Akwid](https://open.spotify.com/album/5NWuecfh5WbfmDPdIOb2zq) | 3:35 |
 | 77 | [Mi Corrido \- Remix / En Vivo](https://open.spotify.com/track/684U87L4tAJAPr4AfTj9rD) | [Hadrian](https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U) | [Mi Corrido \(Remix / En Vivo\)](https://open.spotify.com/album/1A2kOPeWivOgBXX0B5a7yJ) | 3:41 |
 | 78 | [EPA](https://open.spotify.com/track/30hjAIB08HXjBbEHgR1sAq) | [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [EPA](https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq) | 2:57 |
-| 79 | [La 701](https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La 701](https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI) | 3:00 |
-| 80 | [No Soy de Allá](https://open.spotify.com/track/2qm4wUO2XJeGxAM8nH7237) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [No Soy de Allá](https://open.spotify.com/album/3ZJokNTxSFe6fAE4bo5rAt) | 3:27 |
+| 79 | [No Soy de Allá](https://open.spotify.com/track/2qm4wUO2XJeGxAM8nH7237) | [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [No Soy de Allá](https://open.spotify.com/album/3ZJokNTxSFe6fAE4bo5rAt) | 3:27 |
+| 80 | [La 701](https://open.spotify.com/track/6NKkscuqh2UWR4gzXIF84G) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [La 701](https://open.spotify.com/album/5dJtr2DikQCxBRGlKKdRPI) | 3:00 |
 | 81 | [Que Soporten \(Y La Queso\)](https://open.spotify.com/track/3ml2gJVRbyXGz1kjFeAopL) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Que Soporten \(Y La Queso\)](https://open.spotify.com/album/3DExPO534tjZE270sHmsJR) | 3:16 |
 | 82 | [Pateando El Bote](https://open.spotify.com/track/6t3PjoEUPfZGzw1yHQCwTr) | [Jose Gomez](https://open.spotify.com/artist/6OAcZpQHWwBwgDWejEd8DB), [Kevin Ortiz](https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm) | [Pateando El Bote](https://open.spotify.com/album/3WpZ9itqu22gESDv2KXXVR) | 2:57 |
 | 83 | [Pensamientos Grandes](https://open.spotify.com/track/59ENQOCMamUD6WdUN54mcW) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Manuel Rodriguez](https://open.spotify.com/artist/2tSneO7PgprETUeUA8NfDH) | [Pensamientos Grandes](https://open.spotify.com/album/4z3q8XT5a2F91iMH9BIKYf) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbH5bzpmFWXy.md) - [plain]
 | 99 | [Delivery](https://open.spotify.com/track/1ZxJvq28DUmAFZxt9lU7n6) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Delivery](https://open.spotify.com/album/5u4ZtfixpavZj0gq6gVbe9) | 3:29 |
 | 100 | [Cuerno Mio](https://open.spotify.com/track/1kiwk2pQBVQNIbx7Hf3y8Z) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [Cuerno Mio](https://open.spotify.com/album/7JsxIQrW9Wyvnw2hzmEiqY) | 2:47 |
 
-Snapshot ID: `MCwxYTk2ODNlNzczZDk0NDM4YzRjYmRjODMyZGVhNzllNGViNjZiMzJi`
+Snapshot ID: `MCxkMjM2Yjc0OTdjZjkyYzkzYTMzZDcxNGRhZmY5MTRiMjA3NWM5NGNi`

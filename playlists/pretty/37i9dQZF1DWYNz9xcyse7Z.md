@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 
 > Cruzando cerros y arroyos mientras recordamos el legado campirano y rancherón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,734 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,890 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,13 +39,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 29 | [A Cada Instante](https://open.spotify.com/track/50H4yBJSse8EXL2834flF1) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ["14 Exitos" A Cada Instante](https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z) | 2:44 |
 | 30 | [La Canelera](https://open.spotify.com/track/4mHff3K0s1s8An8waTlHL1) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [Como Duele Saber](https://open.spotify.com/album/3hvPmp7f7z0b7G9tbM60Fo) | 3:18 |
 | 31 | [Eres Alta Y Delgadita](https://open.spotify.com/track/2PlKMLi8sdNqwwpWVMzt4l) | [Los Nietos](https://open.spotify.com/artist/3exw3iAIHmh6Kw7fevjPHv) | [Mirandote En Las Estrellas](https://open.spotify.com/album/05b9wzPqYuDm8Dkbu4q2v0) | 3:37 |
-| 32 | [Con Que Me Pagas](https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:14 |
+| 32 | [La Que Se Fue](https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:59 |
 | 33 | [Equivocación \- En Vivo](https://open.spotify.com/track/5fjuZmyHPsRdsU69RWyzLR) | [Sierreños de Sinaloa](https://open.spotify.com/artist/49XtLcagl18fnpRxiW7QW8) | [Y Te Veré Llorar \(En Vivo\)](https://open.spotify.com/album/4NGzYSSDqAZzy9n2DphuTu) | 3:25 |
 | 34 | [Por No Perderte Te Perdi](https://open.spotify.com/track/2ztISQmyTEG5YFb6z3VX3O) | [Ariel Camacho y Los Plebes Del Rancho](https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul) | [El Karma \(Deluxe Version\)](https://open.spotify.com/album/2ReeGlHU8J7gkxsMGlpNhY) | 3:32 |
 | 35 | [El Bazucazo](https://open.spotify.com/track/78JYoTnPfIqSvoNVGAPZux) | [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Duelo De Shakas](https://open.spotify.com/album/5PwL80iiZsnkoJDVSMXEPm) | 3:45 |
 | 36 | [Medias Negras](https://open.spotify.com/track/4THPXBPEMxUpu2cqzqhJYP) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Aferrado](https://open.spotify.com/album/5cnO4MJMGDjRQ24TYmI6eH) | 2:49 |
 | 37 | [Atrapado](https://open.spotify.com/track/3GRuvSySNW7ewnrXEtPTku) | [Los Alegres de la Sierra](https://open.spotify.com/artist/4Yfe8uXcl5PYwknQ4OMZIP) | [10th Aniversario](https://open.spotify.com/album/2vBnKNe8AYlOjvI767hpiz) | 3:58 |
-| 38 | [La Que Se Fue](https://open.spotify.com/track/1yluoIrIPGx20QsXmUYNRO) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:59 |
+| 38 | [Con Que Me Pagas](https://open.spotify.com/track/2EAabOFWset3x4EkvCJqaX) | [El Potro De Sinaloa](https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN) | [La Que Se Fue](https://open.spotify.com/album/4nq2E1X1n3p4Lq1to52vhB) | 2:14 |
 | 39 | [Estrellas Y Diamantes](https://open.spotify.com/track/7aITKvNtiZUfi2zt7ZZAyN) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7) | ["14 Exitos" A Cada Instante](https://open.spotify.com/album/26vKr0uiVeTMbiqyNJcc6Z) | 2:04 |
 | 40 | [Sentimiento De Dolor](https://open.spotify.com/track/7z1YWymBM7ZnzN8ewUFQ7B) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 3:42 |
 | 41 | [Presiento Que Voy a Llorar](https://open.spotify.com/track/2YxHE4qEwBM127tIpdE2FM) | [Grupo cessna](https://open.spotify.com/artist/5cxRMXREpTmtI6lFc5hE7W) | [Besos y Caricias](https://open.spotify.com/album/5uvu6Ou4krCcb0GEkyuhI4) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNz9xcyse7Z.md) - [plain]
 | 99 | [Ella Me Dijo Que No](https://open.spotify.com/track/3S5Z71zGniOIV9cqSFBzQ0) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [En La Mira](https://open.spotify.com/album/3rZ0PIGZtHCSSaBKZPYJAa) | 2:43 |
 | 100 | [Mi Virgencita](https://open.spotify.com/track/2kLYRxamXLrWk11CRRtlp2) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Carnita Asada Sierreña](https://open.spotify.com/album/3wv1ZejKf5Gbk32GYfKPZR) | 2:24 |
 
-Snapshot ID: `MCxiMjk1ZDdlNTFkOGUxNTg5OWFkNWRlNTA5NWVhMDlkMzM3OWE2Zjc5`
+Snapshot ID: `MCxhNWQwMzcwMjAzODZiNzNmZTgzMzBmYjBkMzM3NGU3ZjkwN2YzYzVh`

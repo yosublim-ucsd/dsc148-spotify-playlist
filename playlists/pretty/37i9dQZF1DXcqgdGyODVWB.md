@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 
 > Cumbia Norteña y Norteño Sax para las vibras de verano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,300 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,355 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcqgdGyODVWB.md) - [plain]
 | 90 | [Simplemente Gracias](https://open.spotify.com/track/0HGxHzii8mi1z2tB7z2FvW) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Simplemente Gracias](https://open.spotify.com/album/1s3r2lkbalw3SIolEp0IMV) | 3:05 |
 | 91 | [Total que más da](https://open.spotify.com/track/0XAocBz2uu1P0SKru9TpKz) | [Grupo Legitimo](https://open.spotify.com/artist/1ovPxptMcDubQ0CgYsS5hm) | [Pídeme](https://open.spotify.com/album/1TGPYyBwqTXBovx6vxjJ9t) | 3:50 |
 | 92 | [Y Lo Busqué](https://open.spotify.com/track/2tUS7pJAfKcOS84ncN5D3o) | [Conjunto Nube](https://open.spotify.com/artist/08Iky6YUq0V8qKzBiNdVS4) | [Olvídala](https://open.spotify.com/album/6055KSpuhGP02JmbUIYRsh) | 3:56 |
-| 93 | [A Ver Si Capea](https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:11 |
-| 94 | [Stand By Me](https://open.spotify.com/track/1lctBYvNCptEvAHz7s1yLb) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Stand By Me](https://open.spotify.com/album/2k3VR0pvO9KcfUm6wxC28P) | 2:47 |
-| 95 | [Molinos de Viento](https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Que Se Arme la Fiesta](https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO) | 4:00 |
+| 93 | [Stand By Me](https://open.spotify.com/track/1lctBYvNCptEvAHz7s1yLb) | [La Energia Nortena](https://open.spotify.com/artist/6uFxO15AG9aoz7MS4aQQvp), [Las Fenix](https://open.spotify.com/artist/2ZNrWgSrqOlD6uF54Hx4ZY) | [Stand By Me](https://open.spotify.com/album/2k3VR0pvO9KcfUm6wxC28P) | 2:47 |
+| 94 | [Molinos de Viento](https://open.spotify.com/track/3xCyBGCKtkyzD44L1pQJr3) | [Los Rugar](https://open.spotify.com/artist/7GwU9JkNrNzwUPP0Puswe9) | [Que Se Arme la Fiesta](https://open.spotify.com/album/4AKnoboSYY1A9EotKTRjyO) | 4:00 |
+| 95 | [A Ver Si Capea](https://open.spotify.com/track/1seRvngYgRfDeCbIkJOMQK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [21 Black Jack](https://open.spotify.com/album/5ZyR9EAtVpj70b11dZYmNC) | 3:11 |
 | 96 | [Un Cariño Como Tú](https://open.spotify.com/track/20WRrWYgSULYXFtxBcazwU) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño, Vol\. 2](https://open.spotify.com/album/2misjU3JTrJmzfXwmhK41R) | 2:47 |
 | 97 | [Quiero Saber de Ti](https://open.spotify.com/track/5EYvfSYETZF8vBAuQV9OET) | [Los Vendavales de Adan Melendez](https://open.spotify.com/artist/3aaB0ikurvg0sqDqrcOuI4) | [Nunca Imaginé](https://open.spotify.com/album/4rGVMonf0nBGkWWR8nnuEL) | 3:52 |
 | 98 | [La Bailadora](https://open.spotify.com/track/2l52pr1dzM4fHEhQUMqOAU) | [Joss Favela](https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh) | [Aclarando la Mente](https://open.spotify.com/album/1g0abe216Yaxv2GNMaaL6L) | 3:25 |
 | 99 | [Duele De A Madre](https://open.spotify.com/track/0TkQ3zCOFNJCmB8dYj2i47) | [Conjunto Rienda Real](https://open.spotify.com/artist/5N3AyFVEE8vJa7AZEl7nD3) | [Duele De A Madre](https://open.spotify.com/album/0drIr1wTxVUeQmpu6pYHdv) | 2:55 |
 | 100 | [Fuiste Mala](https://open.spotify.com/track/3L4Uma47VZ9pxoRJ5A4P3o) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Fuiste Mala](https://open.spotify.com/album/3ME3ProACErxI1b0Inwfbw) | 3:24 |
 
-Snapshot ID: `MCw1M2U0OTZhMmEzYWQ5MDMxOWVjZTA5ZjE0NWZhYzA5ZDU0OTc0MGFk`
+Snapshot ID: `MCwzZTU5MjkxOWViYjQxZWQ1MDFjM2EzYjExNjNiNjY3M2VjYzYwOTlj`

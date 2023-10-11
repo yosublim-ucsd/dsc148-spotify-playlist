@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for just hanging out.
 
-702 songs - 1 day 18 hr 9 min
+703 songs - 1 day 18 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Blue Sea, Red Sea](https://open.spotify.com/track/1TNIPwsB6knLXdlfjjnPTX) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Blue Sea, Red Sea](https://open.spotify.com/album/2U7xjAw0NfmFOUNV3zCV7F) | 3:53 | 2020-10-05\* | 2022-06-25 |
 | [BNR](https://open.spotify.com/track/54uXC93r53jOJFuhMueold) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [BNR & Balloon](https://open.spotify.com/album/5xAIgRLvUIVd0SgVBAlpFl) | 3:01 | 2021-05-03 | 2022-04-20 |
 | [Body Fat \- Edit](https://open.spotify.com/track/4EgOBJmOd71QqAlqFXQxCy) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | [The Anteroom](https://open.spotify.com/album/0hCuM8sgQPmlvgWVvVfiE1) | 3:34 | 2020-10-05\* | 2020-10-06 |
+| [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 | 2023-09-29 |  |
 | [Bound](https://open.spotify.com/track/0CsLshwxsSHYq3m6gLw3Uo) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/73JjCWpjzmp1alhxVtywvF) | 3:40 | 2022-11-10 | 2023-09-16 |
 | [Bound](https://open.spotify.com/track/3QVOw80vrsAV8UpNMUKI3G) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Letter Blue](https://open.spotify.com/album/2EfIa1JzzYjckiiEbtM7g3) | 3:40 | 2022-06-01 | 2022-11-18 |
 | [Build Me a Way \- Single Version](https://open.spotify.com/track/123UKU5C3VGi3vrJTwtjQ1) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Build Me a Way](https://open.spotify.com/album/5MR8fKYnll1WuHP148kma4) | 2:21 | 2021-11-19 | 2022-07-17 |
@@ -520,7 +521,7 @@
 | [Retrograde](https://open.spotify.com/track/756NPuruFfqHO0CEtL8kyu) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Overgrown](https://open.spotify.com/album/2Fn2oOYHKBJfzZtVtKOW7z) | 3:43 | 2021-03-16 | 2022-04-15 |
 | [Ring of Past](https://open.spotify.com/track/11sfRkHdvsop5DdHVmGpt1) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Ring of Past](https://open.spotify.com/album/4zTH06G28TKcid3B8Vhy8L) | 3:21 | 2023-02-17 | 2023-09-16 |
 | [Rise Again \- Harris Cole & Somni Remix](https://open.spotify.com/track/39lFjmuCMTYq8FVjDZL60F) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Rise Again \(Harris Cole & Somni Remix\)](https://open.spotify.com/album/1PQ2tS2gKa8ljhpOr3ypk2) | 3:29 | 2022-03-07 | 2022-07-25 |
-| [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 | 2023-09-15 |  |
+| [Robes](https://open.spotify.com/track/1qD1cw9NSca7RMNwOKcpWA) | [Ricky Gourmet](https://open.spotify.com/artist/0Q4wGWyoRtJmgRaQJYNtbg) | [Robes](https://open.spotify.com/album/0XoXRIqvPe0m0dCPHqi0jy) | 3:07 | 2023-09-15 | 2023-10-11 |
 | [Rockaway](https://open.spotify.com/track/3Mc1wHPrWcXiLeokUZ3Oab) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [Five Easy Hot Dogs](https://open.spotify.com/album/2Ao4brMpPgMyyuh9dPK4oK) | 2:06 | 2023-09-15 |  |
 | [Roddy](https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv) | 4:12 | 2020-10-05\* | 2022-10-13 |
 | [Roddy](https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:12 | 2022-10-07 |  |

@@ -1201,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "The Third Kind",
+        "url": "https://open.spotify.com/album/5RswtvkaBBt1KivjwF3Hl4"
+      },
+      "artists": [
+        {
+          "name": "Espacio Dios",
+          "url": "https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Blueprint",
+      "url": "https://open.spotify.com/track/4mwq55DaCkiptwx1UljRvB"
+    },
+    {
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/0Drhz709vGb3KuzToVxDKT"
       },

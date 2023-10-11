@@ -4,7 +4,7 @@
 
 > Il rap più forte del mondo in una sola playlist\. Cover: Drake
 
-445 songs - 23 hr 22 min
+446 songs - 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [I KNOW ?](https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:31 | 2023-07-28 |  |
 | [I'm Not Human](https://open.spotify.com/track/1LWlpRhu9jUkDK47xzUzu1) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [I'm Not Human \(feat\. Lil Uzi Vert\)](https://open.spotify.com/album/5M1l0LVWP5xtaimoomh4MY) | 3:15 | 2023-06-23 | 2023-06-30 |
 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 | 2023-04-13 | 2023-04-21 |
+| [IDGAF \(feat\. Yeat\)](https://open.spotify.com/track/6G4q8Qb7CQP5gVtzQNK0zT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [For All The Dogs](https://open.spotify.com/album/35nmDyrcnDY4B1ISYpKEEs) | 4:20 | 2023-10-10 |  |
 | [IFTK](https://open.spotify.com/track/7e1WjNmwjzNsbQeg2CGlgF) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [IFTK](https://open.spotify.com/album/6UtuXgjAgX8C06C0FbdlCG) | 3:10 | 2022-07-26 | 2022-07-29 |
 | [In Ha Mood](https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [In Ha Mood](https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW) | 2:09 | 2023-03-22 |  |
 | [In My Head](https://open.spotify.com/track/2RJAKIw6nIkgZVsAIKhmqz) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [In My Head](https://open.spotify.com/album/4I00tpvL54vnWy49vH5fRK) | 3:12 | 2022-10-28 |  |
@@ -345,7 +346,7 @@
 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 | 2023-03-03 | 2023-07-27 |
 | [Retail Therapy](https://open.spotify.com/track/1E8xVRD9lPeXJQ3vXIlJk2) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Retail Therapy](https://open.spotify.com/album/4w3zllIwPthZ7AfhpeZNOe) | 2:55 | 2022-05-10 | 2022-07-29 |
 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 | 2023-10-06 |  |
-| [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-30 |  |
+| [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-30 | 2023-10-11 |
 | [Rich MF \(feat\. Polo G & Lil Durk\)](https://open.spotify.com/track/5KQxun2WxwDMsV7HCN2ONK) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Trip At Knight](https://open.spotify.com/album/2CKiKnlmneU5Lr0aQLB83Q) | 4:07 | 2022-05-10 | 2022-07-29 |
 | [Rich MF \(feat\. Polo G & Lil Durk\)](https://open.spotify.com/track/6cUHiQEECDl5m3WFGQ1GCR) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Trip At Knight \(Complete Edition\)](https://open.spotify.com/album/4sS5IjHR0YOJQdSTQ8whWz) | 4:07 | 2022-07-28 | 2023-03-22 |
 | [Rich Minion](https://open.spotify.com/track/1JIgFmCP5OCTEGV866WP3b) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Rich Minion](https://open.spotify.com/album/2JDTUHzxf0mkHdKxIw8Aje) | 2:45 | 2022-07-21 | 2022-09-07 |

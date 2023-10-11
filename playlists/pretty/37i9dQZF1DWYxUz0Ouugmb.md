@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 
 > Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Anggi Marito
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,433 likes - 46 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,448 likes - 46 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Tak Segampang Itu](https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU) | [Anggi Marito](https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx) | [Tak Segampang Itu](https://open.spotify.com/album/6gO5mDyNTqiIqHItRil4OG) | 3:51 |
 | 2 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
-| 3 | [Lone Wolf](https://open.spotify.com/track/3X2ISSBvNgWoszBED6HctH) | [RINNI](https://open.spotify.com/artist/586wqf9BkWqW2kA01xxPsg), [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [Lone Wolf](https://open.spotify.com/album/1ceC2Z4tJ4vHjhjYbfRPyV) | 3:04 |
+| 3 | [Lone Wolf](https://open.spotify.com/track/3X2ISSBvNgWoszBED6HctH) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh), [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [Lone Wolf](https://open.spotify.com/album/1ceC2Z4tJ4vHjhjYbfRPyV) | 3:04 |
 | 4 | [Waktu Yang Hilang](https://open.spotify.com/track/0Vk3H9BNPmaa6Be1RGpy4V) | [Stereo Wall](https://open.spotify.com/artist/0kw7tMniMnrp9Pcr7vgDAm) | [Prologue](https://open.spotify.com/album/5xGgVRebfE9c1LkYPdK21s) | 3:39 |
 | 5 | [Ku Tak Bisa \- Live Ska Reggae](https://open.spotify.com/track/1bWf6khDmlEU6TrGihA7v8) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La), [Ochi Alvira](https://open.spotify.com/artist/0IDoFKt8JOLluarIdWJ5aZ) | [Ku Tak Bisa \(Live Ska Reggae\)](https://open.spotify.com/album/49iF2rvuxoIWLORKzwHozO) | 4:45 |
 | 6 | [Akhir Cerita Cinta](https://open.spotify.com/track/015Ot9oX7wEKAafr1L74wu) | [The Bakuucakar](https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs), [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Akhir Cerita Cinta](https://open.spotify.com/album/42kfP3Blcw7nbqmCBq8Rem) | 5:04 |
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYxUz0Ouugmb.md) - [plain]
 | 42 | [to be with me](https://open.spotify.com/track/5OB6BoRXGsHSLxS6SOWSB5) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [wonder in time](https://open.spotify.com/album/4rp85WPCI7BXYvDzEU5AgB) | 3:39 |
 | 43 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 |
 | 44 | [Menikmati Sedih](https://open.spotify.com/track/2heuYHKwBHBPlZXwBzgPKR) | [Naura Ayu](https://open.spotify.com/artist/319m3CeBHBZzYpVprhURJ2) | [Menikmati Sedih](https://open.spotify.com/album/6YvHggy1I85hyUcPw2uXpZ) | 4:06 |
-| 45 | [Amin Kita Beda](https://open.spotify.com/track/4p1KGLLCWRPd83EMds7APR) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/6U2e0q8eld9ufm7hQ9z6FL) | 4:08 |
+| 45 | [Amin Kita Beda](https://open.spotify.com/track/6cHeFykKTpMpWfGG1T6SbG) | [Awdella](https://open.spotify.com/artist/2A7XpBQ8X227lVi5BphdPw) | [Amin Kita Beda](https://open.spotify.com/album/1H1E64YHp6JOoKxKjwmQqm) | 4:07 |
 | 46 | [Cinta Air Mata](https://open.spotify.com/track/1Mhevyt2cl5lvG3htZoK7a) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Cinta Air Mata](https://open.spotify.com/album/7LdARvPk1Wms5pKXqP5UUp) | 4:39 |
 
-Snapshot ID: `MCw5M2E4MDUyZDY1ZTUxMmE3MDRiMDc2MDNhZDRiMDc4NDNhM2Y2YTQ2`
+Snapshot ID: `MCw0Mzg5YjQ3OWM3NjlmZDc4MjhjNGYwNzE5OWEwYjUzMmFkMmVmOWFk`

@@ -972,7 +972,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 240403,
       "name": "Badlands",
       "url": "https://open.spotify.com/track/6EqEtYGJnkP3BBySHscyLj"
@@ -1102,6 +1102,28 @@
       "duration_ms": 335883,
       "name": "Black Spider",
       "url": "https://open.spotify.com/track/6DPSVTLOjfyGQ6OrhFl9hA"
+    },
+    {
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/55g3kFOFsp00P2cHNJWvwD"
+      },
+      "artists": [
+        {
+          "name": "Victor Ruiz",
+          "url": "https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z"
+        },
+        {
+          "name": "Mode\u0101",
+          "url": "https://open.spotify.com/artist/6dsy10LVNALrvHyVEadrsJ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278181,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4AqLfv5PWtRBhDm0VA8ewq"
     },
     {
       "album": {
@@ -1975,6 +1997,24 @@
     },
     {
       "album": {
+        "name": "Croce",
+        "url": "https://open.spotify.com/album/6EtroVRtXWx7AJWEwEPzgx"
+      },
+      "artists": [
+        {
+          "name": "Deborah de Luca",
+          "url": "https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334285,
+      "name": "Croce",
+      "url": "https://open.spotify.com/track/1WFlFVMRyCc0tP0tdQCaDw"
+    },
+    {
+      "album": {
         "name": "Cryptic Speech EP",
         "url": "https://open.spotify.com/album/3wjYTOt0x1gLUtVPtr2lMQ"
       },
@@ -2516,7 +2556,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 230764,
       "name": "DISTURBED MIND",
       "url": "https://open.spotify.com/track/55UH9Vbv1fLyYe3KvFYTW0"
@@ -2930,7 +2970,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 509346,
       "name": "El Medano",
       "url": "https://open.spotify.com/track/7uTLJJ0mb3LCsICzSlKrlR"
@@ -3346,6 +3386,24 @@
       "duration_ms": 258573,
       "name": "Feel It",
       "url": "https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk"
+    },
+    {
+      "album": {
+        "name": "The Unexpected",
+        "url": "https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z"
+      },
+      "artists": [
+        {
+          "name": "Mha Iri",
+          "url": "https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "Filthy",
+      "url": "https://open.spotify.com/track/6ko1CEDLBksdlNlMknDVNo"
     },
     {
       "album": {
@@ -3818,7 +3876,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 248888,
       "name": "Gam Gam - 2023",
       "url": "https://open.spotify.com/track/1mWbB1bGjvdZR3vFtaT2gL"
@@ -3876,7 +3934,7 @@
       ],
       "date_added": "2023-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 339940,
       "name": "Gigantia",
       "url": "https://open.spotify.com/track/2W0okYa253wH35AgMldHDT"
@@ -3956,7 +4014,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 322293,
       "name": "Good Energy",
       "url": "https://open.spotify.com/track/0Xy9SDulwgZhez4ybnRfuz"
@@ -4694,6 +4752,24 @@
       "duration_ms": 417246,
       "name": "Immortal",
       "url": "https://open.spotify.com/track/3Y7kUkLjiY70JafNJnC31R"
+    },
+    {
+      "album": {
+        "name": "R006",
+        "url": "https://open.spotify.com/album/1kpUbzVdV4jEdJQjHWdY5F"
+      },
+      "artists": [
+        {
+          "name": "In Verruf",
+          "url": "https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313037,
+      "name": "In Der Nacht",
+      "url": "https://open.spotify.com/track/2HRSVvvATNEndZOR47UPPZ"
     },
     {
       "album": {
@@ -5802,7 +5878,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 393012,
       "name": "Melodrama",
       "url": "https://open.spotify.com/track/5nQhot82EiDVqafaSriZqY"
@@ -6158,6 +6234,28 @@
       "duration_ms": 222599,
       "name": "Music Is The Answer - Short Version",
       "url": "https://open.spotify.com/track/704Rw7OlcdzuvSd2nk1cNB"
+    },
+    {
+      "album": {
+        "name": "My Gasoline",
+        "url": "https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a"
+      },
+      "artists": [
+        {
+          "name": "Maddix",
+          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
+        },
+        {
+          "name": "F\u0113l\u0113s",
+          "url": "https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236999,
+      "name": "My Gasoline",
+      "url": "https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE"
     },
     {
       "album": {
@@ -8139,6 +8237,32 @@
     },
     {
       "album": {
+        "name": "Sequence X (Simina Grigoriu Remix)",
+        "url": "https://open.spotify.com/album/5ZFtNS0C7EnnHztNrzxXHF"
+      },
+      "artists": [
+        {
+          "name": "Sisko Electrofanatik",
+          "url": "https://open.spotify.com/artist/2PbcMvsyyMPrwHWYQn6c6l"
+        },
+        {
+          "name": "Dyno",
+          "url": "https://open.spotify.com/artist/4O7AoU5Zyn9PODWpcckxHF"
+        },
+        {
+          "name": "Simina Grigoriu",
+          "url": "https://open.spotify.com/artist/1PjzNHCXycxUqsP2yqFqhU"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 373309,
+      "name": "Sequence X - Simina Grigoriu Remix",
+      "url": "https://open.spotify.com/track/5miLmeyVhMJRnZUFixhUoL"
+    },
+    {
+      "album": {
         "name": "Serenity",
         "url": "https://open.spotify.com/album/5SBYcUgDbjQNxILy4xvhop"
       },
@@ -9740,7 +9864,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 453333,
       "name": "Touch The Darkness",
       "url": "https://open.spotify.com/track/6BaQEqUuo6R1RISio9U5T3"
@@ -10096,7 +10220,7 @@
       ],
       "date_added": "2023-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 312746,
       "name": "Unity - Original Mix",
       "url": "https://open.spotify.com/track/4lotSTi1ufPLtyfTLZ4VNF"
@@ -10870,6 +10994,24 @@
       "duration_ms": 370909,
       "name": "Zodiac",
       "url": "https://open.spotify.com/track/3IMTEfVAOJZAD5xE6kDct3"
+    },
+    {
+      "album": {
+        "name": "T3RN4L EP",
+        "url": "https://open.spotify.com/album/1QvQ0lTgeVyBVtixIUCmGt"
+      },
+      "artists": [
+        {
+          "name": "Tensal",
+          "url": "https://open.spotify.com/artist/3mRdWhXS0ujP6WUjpOiHB1"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366968,
+      "name": "ZOY.AYN - Original",
+      "url": "https://open.spotify.com/track/4DZdgHxftinsAKFXCSiEvb"
     },
     {
       "album": {

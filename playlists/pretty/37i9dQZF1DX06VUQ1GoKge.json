@@ -1,12 +1,12 @@
 {
   "description": "Louder, faster! Kickass metal tracks to drive you forward.",
-  "num_followers": 555072,
+  "num_followers": 555247,
   "original_name": "Metal Charge",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMWRiYTJmZmJjOGJkYzBhNjlkNWQzYzZlNDFlMDFiZGMwZDFiMzJm",
+  "snapshot_id": "MCwxMjg0NzNkODIyOWE3ZTc2ZDEyNDdhYzQ4N2ZkMjU4YTc4OTY2ODgw",
   "tracks": [
     {
       "added_at": "2023-09-14 13:20:31",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
+        "name": "American Capitalist (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Under and Over It",
+      "url": "https://open.spotify.com/track/0xKFHPdmWipLYPG3zlPpr4"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
         "name": "Rust In Peace",
         "url": "https://open.spotify.com/album/4e6ML9RBhDyyKTaTwbiRZv"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 291440,
       "name": "Angel Of Death",
       "url": "https://open.spotify.com/track/61dTqhd46yMkSWmC5LAh5F"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
-        "name": "American Capitalist (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6u1mCPtlgfflxh5LZiPdoM"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Under and Over It",
-      "url": "https://open.spotify.com/track/0xKFHPdmWipLYPG3zlPpr4"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 191331,
-      "name": "Hardwired",
-      "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
         "name": "American Sun",
         "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 225026,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 191331,
+      "name": "Hardwired",
+      "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
-        "name": "Aurora",
-        "url": "https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX"
-      },
-      "artists": [
-        {
-          "name": "Annisokay",
-          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
-        }
-      ],
-      "duration_ms": 210406,
-      "name": "STFU",
-      "url": "https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
         "name": "The Way It Ends",
         "url": "https://open.spotify.com/album/2pVCexIJwUK0Mg9cFtDhxr"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 214477,
       "name": "A Flag to Wave",
       "url": "https://open.spotify.com/track/2vbIlZuY3e7Coho7Av1eYz"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/27iMGsljLzEgyFU1rAR0bX"
+      },
+      "artists": [
+        {
+          "name": "Annisokay",
+          "url": "https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg"
+        }
+      ],
+      "duration_ms": 210406,
+      "name": "STFU",
+      "url": "https://open.spotify.com/track/0X6WHH6WvXFTMmwWrsFeob"
     },
     {
       "added_at": "2023-09-14 13:20:31",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-09-14 13:20:31",
       "album": {
-        "name": "Nightmare Logic",
-        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
-      },
-      "artists": [
-        {
-          "name": "Power Trip",
-          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Executioner's Tax (Swing of the Axe)",
-      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
-    },
-    {
-      "added_at": "2023-09-14 13:20:31",
-      "album": {
         "name": "Atonement",
         "url": "https://open.spotify.com/album/5k1IQPbz37ctTDrw4vbvtp"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 185266,
       "name": "The Signal Fire",
       "url": "https://open.spotify.com/track/5kP32cKaf8ln4PSoY6sD13"
+    },
+    {
+      "added_at": "2023-09-14 13:20:31",
+      "album": {
+        "name": "Nightmare Logic",
+        "url": "https://open.spotify.com/album/3suNG9n4WGYQabXhUTkQ70"
+      },
+      "artists": [
+        {
+          "name": "Power Trip",
+          "url": "https://open.spotify.com/artist/3TmaQHOfq1olDKHtE38zYT"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Executioner's Tax (Swing of the Axe)",
+      "url": "https://open.spotify.com/track/1kbwEcixFWVj5dFO9Kso3J"
     },
     {
       "added_at": "2023-09-14 13:20:31",

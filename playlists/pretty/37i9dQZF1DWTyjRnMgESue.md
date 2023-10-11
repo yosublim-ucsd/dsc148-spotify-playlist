@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 
 > The best new songs from modern singer\-songwriters\. Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,012 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,137 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,18 +67,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 57 | [My Father's Daughter](https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu) | [Olivia Vedder](https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E), [Eddie Vedder](https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh), [Glen Hansard](https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0) | [My Father's Daughter \(From The “Flag Day” Original Soundtrack\)](https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1) | 2:50 |
 | 58 | [Horses](https://open.spotify.com/track/1cncEDS6zwXOguyaMGp6vU) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Surrender](https://open.spotify.com/album/2VeOtQQAJxR8VyvmoXqIbI) | 5:05 |
 | 59 | [A Concert Six Months From Now](https://open.spotify.com/track/7aDIsG4RJx4THcSEMeM01x) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Optimist](https://open.spotify.com/album/3KChz6qdEH9AfHE6VCBshZ) | 3:25 |
-| 60 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 |
-| 61 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
+| 60 | [Sapling](https://open.spotify.com/track/3pMbjkN5k9z6kZ2bcEZH1s) | [Foy Vance](https://open.spotify.com/artist/4bUqnkrDrb4f7rqmDR9yDu) | [Sapling / Signs Of Life](https://open.spotify.com/album/3NDur1o0sAsj62FgRrDqvH) | 4:17 |
+| 61 | [Right on Time](https://open.spotify.com/track/5i4WgW0TL9VSosy73Q3Ttv) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:05 |
 | 62 | [london](https://open.spotify.com/track/4mmtgoBJCUA8l8uDRJlnro) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII), [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [these words are all for you too](https://open.spotify.com/album/1OZvSGYMq3CixeCjZH9m4M) | 4:26 |
 | 63 | [How Do We Stay In Love?](https://open.spotify.com/track/57C2Jt6xUTlN9QVrWSimBJ) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [How Do We Stay In Love?](https://open.spotify.com/album/4CPmCif9l0FLCp4jRwu8AR) | 2:39 |
 | 64 | [Wildfire](https://open.spotify.com/track/69xOrL71OeGz5fqXFTnJ5L) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Wildfire](https://open.spotify.com/album/1oYKM818Z1hEdfking1DEP) | 2:31 |
-| 65 | [Green Eyes](https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Green Eyes](https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz) | 2:30 |
-| 66 | [My Ego Dies At The End](https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 4:02 |
-| 67 | [How Do You Dress for the Rain?](https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [How Do You Dress for the Rain?](https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh) | 2:40 |
+| 65 | [My Ego Dies At The End](https://open.spotify.com/track/2qpmDv8xnUxULb5TlDk9yS) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Are You Happy Now?](https://open.spotify.com/album/5NaLnnKsTGdzPuSZceQpa9) | 4:02 |
+| 66 | [How Do You Dress for the Rain?](https://open.spotify.com/track/42ZSEXG0TtHAHbWOho7GDS) | [Sam MacPherson](https://open.spotify.com/artist/4AMBKLK4ZalL6gm7uvvdZh) | [How Do You Dress for the Rain?](https://open.spotify.com/album/5qXWbwkmZ5HL2AlweZD9Bh) | 2:40 |
+| 67 | [Green Eyes](https://open.spotify.com/track/6kH8Teb9KlAUFgZC77k8oY) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Green Eyes](https://open.spotify.com/album/1YeEV5nSQpYMLXqhC6qYzz) | 2:30 |
 | 68 | [All Is Well \(feat\. Joy Williams\)](https://open.spotify.com/track/4WlxchxKQJ9y0Vlqaz8h66) | [Avi Kaplan](https://open.spotify.com/artist/179MtpbgyNgeNnwNVqnn4p), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [All Is Well Feat\. Joy Williams](https://open.spotify.com/album/50zBQhK1LygYSQGYwm7T0J) | 2:57 |
 | 69 | [Resentment](https://open.spotify.com/track/2Dms8axOrrjXETwVwtvBF5) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:53 |
-| 70 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 |
-| 71 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 |
+| 70 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 |
+| 71 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 |
 | 72 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 |
 | 73 | [More Like You](https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:40 |
 | 74 | [Far from Home](https://open.spotify.com/track/74i65cFb7Mfa5VuX0Vho3M) | [Plàsi](https://open.spotify.com/artist/4XPttwv3iZzydK67YRl8tL) | [Foreign Sea](https://open.spotify.com/album/2zw3vj7T9QBMk7xCwy5cTt) | 3:12 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTyjRnMgESue.md) - [plain]
 | 91 | [If I Didn’t Love You](https://open.spotify.com/track/3zQu8poEmXrOYEeju3ohuJ) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Friendly Fire](https://open.spotify.com/album/2spypN99tWruHzNm3dU6QT) | 4:06 |
 | 92 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 |
 | 93 | [Any Day Now](https://open.spotify.com/track/2YzM9n2UdWc5iiMbg8B4Mb) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [What Happiness Is](https://open.spotify.com/album/2o76vZToghhg9NBmSCb0sD) | 3:21 |
-| 94 | [If Not My Heart](https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Colour Your World](https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ) | 3:13 |
-| 95 | [Midnight](https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Midnight](https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB) | 3:48 |
+| 94 | [Midnight](https://open.spotify.com/track/3uTdOMyG1ixtUxdtspkngM) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [Midnight](https://open.spotify.com/album/4JheIQU7B3Fb8pCld4z5iB) | 3:48 |
+| 95 | [If Not My Heart](https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Colour Your World](https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ) | 3:13 |
 | 96 | [Happier Without Me](https://open.spotify.com/track/0jj6QrlJcrBFkOq1vnmJOM) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Make Believe](https://open.spotify.com/album/1VwMUOIMVdhdB80dTVxnxe) | 3:40 |
 | 97 | [Evergreen](https://open.spotify.com/track/6cNWPXtmdKqKl9OnyKkYgC) | [Luca Fogale](https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med) | [Run Where the Light Calls](https://open.spotify.com/album/6WHWwuMGt0T2sH2aZKnmiD) | 3:04 |
 | 98 | [Head Start](https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 3:23 |
-| 99 | [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 |
-| 100 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 |
+| 99 | [I BELIEVE](https://open.spotify.com/track/2Xqrj5tSNMmAlW2r8m6cUZ) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [I BELIEVE](https://open.spotify.com/album/1MN1yM90jYm2DGrcwxTRlg) | 3:26 |
+| 100 | [Mary Jane & Chardonnay](https://open.spotify.com/track/1Oa10qvMw6KP7VYtJUcsLi) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Is It Just Me?](https://open.spotify.com/album/0wlwXhATsyfP9ZjqOCkTqi) | 3:21 |
 
-Snapshot ID: `MCwzMDlkNThiZTNhMDgwNGRiMTdiYTY3NGVmMTliZTgzMTZmYWYxNDM1`
+Snapshot ID: `MCxlYzA3NzVkYzhkMTI3NDViYzg3OTdjMGViZWE3ZDM1ZTE2NGI5YTdm`

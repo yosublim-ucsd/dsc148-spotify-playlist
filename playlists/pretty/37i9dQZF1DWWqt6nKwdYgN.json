@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Tino el Ping\u00fcino en portada. ",
-  "num_followers": 11469,
+  "num_followers": 11506,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1M2UwMTJlZTBjMDJmOTQyZWVjMmI4MDU4MzFiMmU3ZGM0ZjM2NDI0",
+  "snapshot_id": "MCxlY2FlYWYxMzM4ZmU2NDAyNzg0MWZhY2RlMWRlMjc5YTIwOGQwNzNh",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "El 17",
+        "url": "https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "duration_ms": 165168,
+      "name": "El Canton Norte",
+      "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "antes que sea tarde",
         "url": "https://open.spotify.com/album/23yhtkPNPwEjeoz6MyWBDZ"
       },
@@ -1051,26 +1067,6 @@
       "duration_ms": 168778,
       "name": "antes que sea tarde",
       "url": "https://open.spotify.com/track/1NhsPILt0sgxY0DHruZ9ao"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Desde Peque\u00f1o",
-        "url": "https://open.spotify.com/album/7KPHrskSaXSDD59ncpixpS"
-      },
-      "artists": [
-        {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
-        },
-        {
-          "name": "Penyair",
-          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
-        }
-      ],
-      "duration_ms": 219000,
-      "name": "Desde Peque\u00f1o",
-      "url": "https://open.spotify.com/track/7moKLf7wnziXF8bwMUuu5Y"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1103,18 +1099,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "El 17",
-        "url": "https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj"
+        "name": "Desde Peque\u00f1o",
+        "url": "https://open.spotify.com/album/7KPHrskSaXSDD59ncpixpS"
       },
       "artists": [
         {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Penyair",
+          "url": "https://open.spotify.com/artist/0hKJVChUaok3RN4noo7G3c"
         }
       ],
-      "duration_ms": 165168,
-      "name": "El Canton Norte",
-      "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
+      "duration_ms": 219000,
+      "name": "Desde Peque\u00f1o",
+      "url": "https://open.spotify.com/track/7moKLf7wnziXF8bwMUuu5Y"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
-        "url": "https://open.spotify.com/album/3hVJhCpEprcHgzqBa1iIRr"
-      },
-      "artists": [
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
-        }
-      ],
-      "duration_ms": 371367,
-      "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
-      "url": "https://open.spotify.com/track/0XpoiS2ctPWAmQ2JCM5ZTa"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Tranquilo",
         "url": "https://open.spotify.com/album/6YRiaULjOY1hjYBaEjQy8Y"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 227702,
       "name": "Tranquilo",
       "url": "https://open.spotify.com/track/35K0LpLwLnV8XVlwMHu1yA"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
+        "url": "https://open.spotify.com/album/3hVJhCpEprcHgzqBa1iIRr"
+      },
+      "artists": [
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        }
+      ],
+      "duration_ms": 371367,
+      "name": "Qui\u00e9n Mat\u00f3 al Alcalde?",
+      "url": "https://open.spotify.com/track/0XpoiS2ctPWAmQ2JCM5ZTa"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1479,6 +1479,30 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Cumbia Castrosa",
+        "url": "https://open.spotify.com/album/0ZlNlIgcLPYQZyiAJwAcwf"
+      },
+      "artists": [
+        {
+          "name": "Lil Wacho",
+          "url": "https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ"
+        },
+        {
+          "name": "Chikano Jcr",
+          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
+        },
+        {
+          "name": "Maxo IR",
+          "url": "https://open.spotify.com/artist/0PXfNy7XDVO9w2YCHYedBo"
+        }
+      ],
+      "duration_ms": 212999,
+      "name": "Cumbia Castrosa",
+      "url": "https://open.spotify.com/track/4Z2RpX71Du8dQQxMTRYxKF"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "El Orfanato",
         "url": "https://open.spotify.com/album/7CtW9Y0W2Sxo8BX8GY5gxo"
       },
@@ -1491,22 +1515,6 @@
       "duration_ms": 325107,
       "name": "El Orfanato",
       "url": "https://open.spotify.com/track/2qz8xEfDz2RARPMZdgk4FV"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Celos",
-        "url": "https://open.spotify.com/album/2mK8A5KVsMA9Fh7fP0770B"
-      },
-      "artists": [
-        {
-          "name": "Luck",
-          "url": "https://open.spotify.com/artist/7zwitdSes97HTlglggSPoj"
-        }
-      ],
-      "duration_ms": 149052,
-      "name": "Celos",
-      "url": "https://open.spotify.com/track/0lqYJX9XoHCsJKKCZ4hk60"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1531,26 +1539,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Cumbia Castrosa",
-        "url": "https://open.spotify.com/album/0ZlNlIgcLPYQZyiAJwAcwf"
+        "name": "Celos",
+        "url": "https://open.spotify.com/album/2mK8A5KVsMA9Fh7fP0770B"
       },
       "artists": [
         {
-          "name": "Lil Wacho",
-          "url": "https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ"
-        },
-        {
-          "name": "Chikano Jcr",
-          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
-        },
-        {
-          "name": "Maxo IR",
-          "url": "https://open.spotify.com/artist/0PXfNy7XDVO9w2YCHYedBo"
+          "name": "Luck",
+          "url": "https://open.spotify.com/artist/7zwitdSes97HTlglggSPoj"
         }
       ],
-      "duration_ms": 212999,
-      "name": "Cumbia Castrosa",
-      "url": "https://open.spotify.com/track/4Z2RpX71Du8dQQxMTRYxKF"
+      "duration_ms": 149052,
+      "name": "Celos",
+      "url": "https://open.spotify.com/track/0lqYJX9XoHCsJKKCZ4hk60"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Resurgir",
-        "url": "https://open.spotify.com/album/7z1FnYbJHBqY1SiVUzC9bx"
-      },
-      "artists": [
-        {
-          "name": "Soui Uno",
-          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
-        }
-      ],
-      "duration_ms": 152666,
-      "name": "Resurgir",
-      "url": "https://open.spotify.com/track/7EiggHJ0lC1qUj6qNeM2hN"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Ecolocalizaci\u00f3n",
         "url": "https://open.spotify.com/album/0VoXLs9SrZgi9AFdkNbW8P"
       },
@@ -1667,6 +1651,22 @@
       "duration_ms": 116102,
       "name": "Freud",
       "url": "https://open.spotify.com/track/7xFvOja9qVdmXU84rH9sX3"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Resurgir",
+        "url": "https://open.spotify.com/album/7z1FnYbJHBqY1SiVUzC9bx"
+      },
+      "artists": [
+        {
+          "name": "Soui Uno",
+          "url": "https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu"
+        }
+      ],
+      "duration_ms": 152666,
+      "name": "Resurgir",
+      "url": "https://open.spotify.com/track/7EiggHJ0lC1qUj6qNeM2hN"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1755,6 +1755,26 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Bendici\u00f3n o Desgracia",
+        "url": "https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO"
+      },
+      "artists": [
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        }
+      ],
+      "duration_ms": 163723,
+      "name": "Bendici\u00f3n o Desgracia",
+      "url": "https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "REPRE$ENT",
         "url": "https://open.spotify.com/album/4o7fWPGfSBfKVe7R3ZWdnA"
       },
@@ -1775,26 +1795,6 @@
       "duration_ms": 245340,
       "name": "REPRE$ENT",
       "url": "https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Bendici\u00f3n o Desgracia",
-        "url": "https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO"
-      },
-      "artists": [
-        {
-          "name": "Ma\u00f1as Ru-Fino",
-          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
-        },
-        {
-          "name": "Doble Porcion",
-          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
-        }
-      ],
-      "duration_ms": 163723,
-      "name": "Bendici\u00f3n o Desgracia",
-      "url": "https://open.spotify.com/track/5H4xazm3fBhE9DVv1zkbJ8"
     },
     {
       "added_at": "2023-10-06 06:00:00",

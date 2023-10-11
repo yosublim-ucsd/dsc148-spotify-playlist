@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 
 > Headbangers of Bangladesh\. Cover \- Warfaze
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,688 likes - 90 songs - 7 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,779 likes - 90 songs - 7 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,26 +77,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MUQrfTBXMY.md) - [plain]
 | 67 | [ONUBHUTI](https://open.spotify.com/track/6gOYHUPMviZ9kNdIkNgKjq) | [Arbovirus](https://open.spotify.com/artist/6SAIBTqNQJDC2kzZDPLKle) | [ONUBHUTI](https://open.spotify.com/album/5Gs4vwvB68JbP2TbBtsigY) | 3:59 |
 | 68 | [Oporanho](https://open.spotify.com/track/5pvcKpHBdbhIUuE3JDvfQE) | [Icons](https://open.spotify.com/artist/5dSpt5bMnQoSC0n16fpQUD) | [Icons](https://open.spotify.com/album/0KZiBnskH17AUkKhELLfve) | 4:09 |
 | 69 | [Eden](https://open.spotify.com/track/53NYK7ZRLBErAMdJNBJEoo) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Eden](https://open.spotify.com/album/5LtAT3Wo7DQ8dDCiR0bN1T) | 4:18 |
-| 70 | [Shotto Mithey](https://open.spotify.com/track/47qNROGtcjIyHOaVbeNXCB) | [Level Five](https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8) | [Obosheshey](https://open.spotify.com/album/0aR6U7GqhgmTvhhRZhlGDR) | 5:05 |
-| 71 | [Esho Amar Shohore](https://open.spotify.com/track/5CM1vkHKmfjGk5Akzd6An1) | [Meghdol](https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC) | [Esho Amar Shohore](https://open.spotify.com/album/0GaKAf0jqP3TLdY0Ju3IXe) | 5:18 |
-| 72 | [Odyssey](https://open.spotify.com/track/4D7uYtaf2tUMJQU764Tuqs) | [Conclusion](https://open.spotify.com/artist/5SVgbg1080uyYMNC7rBoIp) | [Odyssey](https://open.spotify.com/album/1E86gHTDuuyIqUxbtGwefu) | 4:57 |
-| 73 | [Jadukar](https://open.spotify.com/track/6O8n8QgQwT7GobevUzeks7) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Perfume](https://open.spotify.com/album/6CL5dmZep8ThOIisw1vWR7) | 4:44 |
-| 74 | [Shomoy Gele](https://open.spotify.com/track/2xP8WYl7ERfcJmOL0i7lL9) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6iBQKsbl0ouZbbpaZha8MS) | 4:37 |
-| 75 | [Amar Prithibi](https://open.spotify.com/track/74hm14zpKp0b792FvVJ71t) | [Black](https://open.spotify.com/artist/4gtC4UjNWYeviDzZreoDXd) | [Amar Prithibi](https://open.spotify.com/album/5RZpZjnmV9bsX6GGNAXGwZ) | 4:11 |
-| 76 | [Bhondo](https://open.spotify.com/track/07qgJazJQyknsbmuJZDL6N) | [Oblique](https://open.spotify.com/artist/4UZiqcfIggY32IYR1j13fz) | [Aloron](https://open.spotify.com/album/3B7o0RIBaO8xsXFuEGOUzr) | 4:40 |
-| 77 | [Biprotip](https://open.spotify.com/track/0kUD0WErxFfyM1VLgpWuIo) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Otritio](https://open.spotify.com/album/7sEMcFTGVOMbsjgdufzOWH) | 7:51 |
-| 78 | [Ondho Deyal](https://open.spotify.com/track/3t5RiZ8gNRK41NJucuL3ju) | [Shonar Bangla Circus](https://open.spotify.com/artist/0VunpVWO2MCBMR1qwGRWzh) | [Hyena Express](https://open.spotify.com/album/1y3dEPRfsbLgGelBKtXyuq) | 5:37 |
-| 79 | [Mohomukti](https://open.spotify.com/track/5P8DC05BN6GaqHWMyCX4i5) | [Karnival](https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl) | [Mohomukti](https://open.spotify.com/album/2QjYtadVjnPoQkZVLqkzqv) | 4:09 |
-| 80 | [Aluminium Er Dana](https://open.spotify.com/track/14YaeVVN587cOQdTXPQ5FH) | [Meghdol](https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC) | [Aluminium Er Dana](https://open.spotify.com/album/6jbgYcBgkMPpyEuKUnmAK0) | 4:04 |
-| 81 | [Chaap](https://open.spotify.com/track/5yZh1R7FxddR7E2WsVALg8) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Chaap](https://open.spotify.com/album/0vRBUL0pp2UW4b5bC5Zj6g) | 4:36 |
-| 82 | [Thomke Keno?](https://open.spotify.com/track/34AGDBCiylYjKHmSdZtTwN) | [Naive](https://open.spotify.com/artist/15akENis2TaJHxXw8cwzXw) | [Thomke Keno?](https://open.spotify.com/album/0ju5tTv07hzCUCLxvToKZw) | 4:39 |
-| 83 | [Biplobir](https://open.spotify.com/track/7H8Owjdx0E4ZKRXB9mOoY3) | [Aftermath](https://open.spotify.com/artist/79iOqoOkavfzftyQjx21qp) | [Biplobir](https://open.spotify.com/album/3srEbLtjtQoFcWzMwFxUMn) | 3:15 |
-| 84 | [Tumio Paro](https://open.spotify.com/track/7lEGQOFnvf5c6XB0zMSo5I) | [Odd Signature](https://open.spotify.com/artist/4j8byCgeZUKS1oeXdwD1GC) | [Tumio Paro](https://open.spotify.com/album/5k1E74l88CVzAsP7pMNtdz) | 6:25 |
-| 85 | [Shomorpon](https://open.spotify.com/track/3Rzqc31gdXt3CnlMSuDoXj) | [Owned](https://open.spotify.com/artist/2khsQvqlAuVDTR4f6vFVrU) | [Eighteen](https://open.spotify.com/album/0Dx2OWUZzYn8QXF1rCtjhT) | 4:21 |
-| 86 | [Morron Iccha](https://open.spotify.com/track/7qDBGtbzTU480J25m6Y30m) | [Popeye Bangladesh](https://open.spotify.com/artist/1tOl4RqWQOpbUiKqnP14GF) | [Morron Iccha](https://open.spotify.com/album/3Fbx30pRAjxhfTRWpz6Rbt) | 4:40 |
-| 87 | [Godhulir Opare](https://open.spotify.com/track/0RA0vnBIXFtoC83Za1Cfoh) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Shoto Asha](https://open.spotify.com/album/0rvy3iL4b5Ckb6dGLTQD1A) | 3:48 |
-| 88 | [Chhera Pata](https://open.spotify.com/track/1Z34M2te04nLWUicn8PFzt) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Chhera Pata](https://open.spotify.com/album/1vM4JQBcisA0vZRHrPvm04) | 5:13 |
-| 89 | [Na](https://open.spotify.com/track/4i1j5lA3ZreDpPoFzY3CHg) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/11Iz1nDEWgwtkM74rLDVOJ) | 4:50 |
-| 90 | [Ami Bodle Jabo](https://open.spotify.com/track/70I6M0XVW11XCLh4UR0jMY) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Ami Bodle Jabo](https://open.spotify.com/album/7JdEnsEJrrrtGLbL2N4n6B) | 5:20 |
+| 70 | [Chaya](https://open.spotify.com/track/6YdezeXuIAkGaLRgbC08Ny) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Chaya](https://open.spotify.com/album/5DHclWpAoKJglHp93WrQ2F) | 6:25 |
+| 71 | [Shotto Mithey](https://open.spotify.com/track/47qNROGtcjIyHOaVbeNXCB) | [Level Five](https://open.spotify.com/artist/0wf0kncEWHLMGqYqXgZql8) | [Obosheshey](https://open.spotify.com/album/0aR6U7GqhgmTvhhRZhlGDR) | 5:05 |
+| 72 | [Esho Amar Shohore](https://open.spotify.com/track/5CM1vkHKmfjGk5Akzd6An1) | [Meghdol](https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC) | [Esho Amar Shohore](https://open.spotify.com/album/0GaKAf0jqP3TLdY0Ju3IXe) | 5:18 |
+| 73 | [Odyssey](https://open.spotify.com/track/4D7uYtaf2tUMJQU764Tuqs) | [Conclusion](https://open.spotify.com/artist/5SVgbg1080uyYMNC7rBoIp) | [Odyssey](https://open.spotify.com/album/1E86gHTDuuyIqUxbtGwefu) | 4:57 |
+| 74 | [Jadukar](https://open.spotify.com/track/6O8n8QgQwT7GobevUzeks7) | [Shironamhin](https://open.spotify.com/artist/3zoceu8YD9dVjL4jaleJLg) | [Perfume](https://open.spotify.com/album/6CL5dmZep8ThOIisw1vWR7) | 4:44 |
+| 75 | [Shomoy Gele](https://open.spotify.com/track/2xP8WYl7ERfcJmOL0i7lL9) | [Lalon Band](https://open.spotify.com/artist/2sEoW2m80iIVDpHIlgfkPw) | [Khepa](https://open.spotify.com/album/6iBQKsbl0ouZbbpaZha8MS) | 4:37 |
+| 76 | [Amar Prithibi](https://open.spotify.com/track/74hm14zpKp0b792FvVJ71t) | [Black](https://open.spotify.com/artist/4gtC4UjNWYeviDzZreoDXd) | [Amar Prithibi](https://open.spotify.com/album/5RZpZjnmV9bsX6GGNAXGwZ) | 4:11 |
+| 77 | [Bhondo](https://open.spotify.com/track/07qgJazJQyknsbmuJZDL6N) | [Oblique](https://open.spotify.com/artist/4UZiqcfIggY32IYR1j13fz) | [Aloron](https://open.spotify.com/album/3B7o0RIBaO8xsXFuEGOUzr) | 4:40 |
+| 78 | [Biprotip](https://open.spotify.com/track/0kUD0WErxFfyM1VLgpWuIo) | [Artcell](https://open.spotify.com/artist/5ThqNILsplOvwjj9kx0Hnt) | [Otritio](https://open.spotify.com/album/7sEMcFTGVOMbsjgdufzOWH) | 7:51 |
+| 79 | [Chaap](https://open.spotify.com/track/5yZh1R7FxddR7E2WsVALg8) | [Arekta Rock Band](https://open.spotify.com/artist/5c7JjKTazKNQubk2GjgbJT) | [Chaap](https://open.spotify.com/album/0vRBUL0pp2UW4b5bC5Zj6g) | 4:36 |
+| 80 | [Thomke Keno?](https://open.spotify.com/track/34AGDBCiylYjKHmSdZtTwN) | [Naive](https://open.spotify.com/artist/15akENis2TaJHxXw8cwzXw) | [Thomke Keno?](https://open.spotify.com/album/0ju5tTv07hzCUCLxvToKZw) | 4:39 |
+| 81 | [Tumio Paro](https://open.spotify.com/track/7lEGQOFnvf5c6XB0zMSo5I) | [Odd Signature](https://open.spotify.com/artist/4j8byCgeZUKS1oeXdwD1GC) | [Tumio Paro](https://open.spotify.com/album/5k1E74l88CVzAsP7pMNtdz) | 6:25 |
+| 82 | [Shomorpon](https://open.spotify.com/track/3Rzqc31gdXt3CnlMSuDoXj) | [Owned](https://open.spotify.com/artist/2khsQvqlAuVDTR4f6vFVrU) | [Eighteen](https://open.spotify.com/album/0Dx2OWUZzYn8QXF1rCtjhT) | 4:21 |
+| 83 | [Morron Iccha](https://open.spotify.com/track/7qDBGtbzTU480J25m6Y30m) | [Popeye Bangladesh](https://open.spotify.com/artist/1tOl4RqWQOpbUiKqnP14GF) | [Morron Iccha](https://open.spotify.com/album/3Fbx30pRAjxhfTRWpz6Rbt) | 4:40 |
+| 84 | [Godhulir Opare](https://open.spotify.com/track/0RA0vnBIXFtoC83Za1Cfoh) | [Shunno](https://open.spotify.com/artist/2S7h1jilqmzK8iyU47nmSk) | [Shoto Asha](https://open.spotify.com/album/0rvy3iL4b5Ckb6dGLTQD1A) | 3:48 |
+| 85 | [Na](https://open.spotify.com/track/4i1j5lA3ZreDpPoFzY3CHg) | [Warfaze](https://open.spotify.com/artist/06eRdiCBgFUhiuFjei0eH2) | [Shotto](https://open.spotify.com/album/11Iz1nDEWgwtkM74rLDVOJ) | 4:50 |
+| 86 | [Ami Bodle Jabo](https://open.spotify.com/track/70I6M0XVW11XCLh4UR0jMY) | [Ashes](https://open.spotify.com/artist/7dHv80FOCQj8SoWjREiojc) | [Ami Bodle Jabo](https://open.spotify.com/album/7JdEnsEJrrrtGLbL2N4n6B) | 5:20 |
+| 87 | [Nirban](https://open.spotify.com/track/3y4jqOZZzsMcCOtWflfhpf) | [Meghdol](https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC) | [Shohorbondi](https://open.spotify.com/album/2fUpZhtCCo3xVhLpMsdROa) | 3:40 |
+| 88 | [Shakkhi](https://open.spotify.com/track/4INckSy3Cf5hdY9g1ZKn7p) | [HIGHWAY](https://open.spotify.com/artist/62mZpB59RHyxLGNesP78Vg) | [Shakkhi](https://open.spotify.com/album/3mnsxLnOSXAcbAGZbFV7Cr) | 5:55 |
+| 89 | [Sheishob Din Raatri](https://open.spotify.com/track/0lrXNv7c4pZ44KJjtyXlDb) | [Karnival](https://open.spotify.com/artist/6xArchxfpOsC8rvclgSeAl) | [Mohomukti](https://open.spotify.com/album/2QjYtadVjnPoQkZVLqkzqv) | 5:30 |
+| 90 | [Unmadonai Katey Prem \- Live](https://open.spotify.com/track/4vKXOLGanWc4oRUwwu2WjU) | [Maqsood O' Dhaka](https://open.spotify.com/artist/74vzaVfhxanARGrDOJgWIf) | [Legends Of Rock \(Live Concert\)](https://open.spotify.com/album/5Fz8D51Dy1V1pitVd1R5mt) | 5:04 |
 
-Snapshot ID: `MCxhOTYwOTMwMDNmNmI4YjVmN2YxNDVkMWJlYTlkMjY5YTc0NGE3ZTNm`
+Snapshot ID: `MCw1ZWQxNTEzZjdkOWNiMDgwOTJlZmQ5ZmMyOWRkZTk4MzExNzVlOTQ3`

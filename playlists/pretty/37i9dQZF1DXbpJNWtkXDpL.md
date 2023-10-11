@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > El futuro está acá\. Conoce a El Frizian en RADAR México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,485 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,547 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [Me Voy Pa'l Infierno](https://open.spotify.com/track/2Z4UiHf6vgdoMtoU7FvpMc) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Me Voy Pa'l Infierno](https://open.spotify.com/album/1WGlZO78Xjlb8chgRMLcTJ) | 3:07 |
 | 50 | [Cartier en Mano](https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Cartier en Mano](https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL) | 2:35 |
 
-Snapshot ID: `MCxiNGE3NjIxMGZlZGQ5NWIzNjQ2Nzc1OWI5MGJkYmI1NWVmZTk0ZGIw`
+Snapshot ID: `MCxjY2MyZTk3ZTBjODVjMTA0OTIzN2I5ZTVhN2U2YjVmYjYzOWVjNmI1`

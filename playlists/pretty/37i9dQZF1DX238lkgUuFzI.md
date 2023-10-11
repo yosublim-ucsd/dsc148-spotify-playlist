@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 
 > 2022 highlight from the misfits 2.0 universe\. Cover: Bring Me The Horizon
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,674 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,668 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 32 | [MIDNIGHT](https://open.spotify.com/track/6i1eYbNsiH2wJyfy0LfzdF) | [Johnny Goth](https://open.spotify.com/artist/1ejkQAcOu9cl7kEbZ3Nb8b) | [UNDER THE FLOOR](https://open.spotify.com/album/6IGooPMTgWHzDjS1QLHRkM) | 2:49 |
 | 33 | [THERAPY!](https://open.spotify.com/track/1Mm3g0AaApb6QMMphK8n9V) | [Lauren Sanderson](https://open.spotify.com/artist/06vRrrjT3DBRkhBlXoBdYj) | [Death Of A Fantasy](https://open.spotify.com/album/52hdobxNdIURg1z3iP1tic) | 2:13 |
 | 34 | [MISS ME?](https://open.spotify.com/track/2D0nHpEE4mKXpGw7SRGTPm) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr) | [PSYCHX](https://open.spotify.com/album/7GjyuDC6hZNicG8Gj7cR8R) | 2:13 |
-| 35 | [DEADGIRL](https://open.spotify.com/track/4OWUFhOO3jv3X3aSMM9NgJ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [UNDEAD IT](https://open.spotify.com/album/2U2LfyzD6ek0LCjoyd7O9d) | 4:10 |
+| 35 | [DEADGIRL](https://open.spotify.com/track/72X5kj8ilaZGIO4zFbt39U) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [DEADGIRL](https://open.spotify.com/album/48CPMZleL4rHMqtQN5opuV) | 4:10 |
 | 36 | [I Really Want to Stay at Your House](https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm) | [Rosa Walton](https://open.spotify.com/artist/1X0HaTcdkHW7LviblBiEeq), [Hallie Coggins](https://open.spotify.com/artist/5JNkPX6dYGLeEm4cUjHNGc) | [Cyberpunk 2077: Radio, Vol\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/1VGVJdmvOSRK2w9RKXk18A) | 4:06 |
 | 37 | [SINS](https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [SINS](https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra) | 2:57 |
 | 38 | [Too Dead Inside](https://open.spotify.com/track/3xpjud2OuXqfbzLve7j0OV) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [Glitch Princess](https://open.spotify.com/album/6jBRjtrgSlOvQvrSdtQa8Q) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX238lkgUuFzI.md) - [plain]
 | 49 | [god sent me as karma](https://open.spotify.com/track/7sUDunSJDK8HnFPJOCtPef) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [loneliest b!tch in america](https://open.spotify.com/album/1HdkKXXUh1AP7Koj2x14Af) | 3:06 |
 | 50 | [weekends](https://open.spotify.com/track/6rCgN00t4al5TAqo4pNGOk) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Quantum Jumping](https://open.spotify.com/album/1XAzH6OVdH1BlpBEnjMcPk) | 2:52 |
 
-Snapshot ID: `MCw5ZjFkYzU3YTgxMGI3MDJmZWQ3NzhjMzllYmIwODhjNzlmYzYxN2Rj`
+Snapshot ID: `MCw3N2QxOGVkY2FhZWI1ZThkMzI0ZWEwMzA0MTZiMDdhZmZiN2MyMDZl`

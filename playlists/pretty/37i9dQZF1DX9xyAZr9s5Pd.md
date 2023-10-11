@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 
 > ¡Estos son los nombres que amplifican el sonido indie de los Andes! Foto: Paola Navarrete
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,370 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,382 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xyAZr9s5Pd.md) - [plain]
 | 59 | [Tenemos que hablar](https://open.spotify.com/track/1pSwtcaRE3LbpKiOK00l4N) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Tenemos que hablar](https://open.spotify.com/album/4bza078y7xvT1KpPoVzbx2) | 3:33 |
 | 60 | [Gravity](https://open.spotify.com/track/1uZjGWW5zZ7W0NKuxcCPp1) | [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws), [Amantina](https://open.spotify.com/artist/7hc53iJC9NjiLwr0BLWim7), [San Pedro Bonfim](https://open.spotify.com/artist/2zgWIWNakYzjY1IJaj6QFp) | [Gravity](https://open.spotify.com/album/6CsC1YU6PlbzRCV9pWpbFT) | 3:12 |
 
-Snapshot ID: `MCxhMmJiNDU0ZDZkM2E2NGI2ODliYTNiNzNkMzVjNzg4Njg3ZDRlMTgy`
+Snapshot ID: `MCxhOTA4NGY2MTAzOGY3ZjU0OTVkYTkxODUzN2UzNWE4NDJjNTE5OTQw`

@@ -4,7 +4,7 @@
 
 > The composers and musicians bending genres, redefining rules, and bringing classical music into the 21st century.
 
-427 songs - 1 day 5 hr 39 min
+428 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Air to Breath](https://open.spotify.com/track/00qqEAAQJkVK7gw8vlJMC2) | [Daníel Bjarnason](https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon), [Gyða Valtýsdóttir](https://open.spotify.com/artist/35tWzCzjzv7skImbSeb2hc) | [Air to Breath](https://open.spotify.com/album/7zc8Fz7Tdw9VryEZzkBPre) | 4:42 | 2020-12-04 | 2020-12-11 |
 | [Air to Breath](https://open.spotify.com/track/5bp3XeAaagIusKus58U5vK) | [Daníel Bjarnason](https://open.spotify.com/artist/5kUBSTaVz7OFpuyHDSbQon), [Gyða Valtýsdóttir](https://open.spotify.com/artist/35tWzCzjzv7skImbSeb2hc) | [Epicycle II](https://open.spotify.com/album/4uhtsy7BxJm8GoIw2wuNWs) | 4:42 | 2020-12-04 | 2020-12-11 |
 | [Akal Ki](https://open.spotify.com/track/3sUtDNoHKdFV4WXShozY22) | [Aukai](https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny) | [Akal Ki](https://open.spotify.com/album/2nx8t6zpzR9stTOrBgKDsl) | 4:04 | 2020-10-20\* | 2022-07-25 |
+| [All I Hear Is Birds \- Focus Rework](https://open.spotify.com/track/09rP4tUYNfL3BkX7NXIRpm) | [Elliott Jack Sansom](https://open.spotify.com/artist/22WxwAyT9U9wWsKA7ToO7K), [Matt Robertson](https://open.spotify.com/artist/1jITXkrcFf3ZLtFA62cxax) | [All I Hear Is Birds \(Focus Rework\)](https://open.spotify.com/album/4t4tCii62BbElIz6tqy2FJ) | 4:08 | 2023-10-06 |  |
 | [All in Circles](https://open.spotify.com/track/3ilpuRkfis9IFCVgj28CyH) | [Shida Shahabi](https://open.spotify.com/artist/72kYzyvgJS9izgSp2ttqdm) | [Shifts](https://open.spotify.com/album/0FLDcvEabxPZdEUrkVsDLf) | 3:56 | 2021-02-06 | 2021-02-12 |
 | [All the Way Round \- Edit](https://open.spotify.com/track/68Cz5sfSKx1ugwoxJzLIHh) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [All the Way Round](https://open.spotify.com/album/5bQ65flJGJ4mhQG9cYWzri) | 4:30 | 2020-10-20\* | 2022-07-26 |
 | [Always With You](https://open.spotify.com/track/0dw2EEX075EVNNQGyUxdz0) | [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Diamond Note](https://open.spotify.com/artist/0x4uyhukabmnOqixAWsICd) | [Always With You](https://open.spotify.com/album/6yWYaXO5FfwY1NMjC7bRYI) | 3:36 | 2020-10-21 | 2022-04-20 |
@@ -113,7 +114,7 @@
 | [Dusk](https://open.spotify.com/track/7lM2CmKUPA0jhkcZkwrp0Z) | [Tom Ashbrook](https://open.spotify.com/artist/481U7FXn2fSb0YXFqKdYtO) | [Dusk](https://open.spotify.com/album/5puGQvvBklPaRgbr6sqd9J) | 2:20 | 2023-05-05 | 2023-06-03 |
 | [Dvergmál \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/track/0ziXftS3A7jAVobpKVKwg9) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy), [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1), [Maria Huld Markan Sigfúsdóttir](https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ), [Steindór Andersen](https://open.spotify.com/artist/1q1JhA8NmMYJhIPHKtlFwg) | [Dvergmál](https://open.spotify.com/album/3sEsQzwdu8GATbacKJfDBw) | 7:37 | 2020-10-23 | 2022-04-17 |
 | [Earnest Leslye](https://open.spotify.com/track/0jvRgeODIdcvsr1X9AeKSD) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/5srfaoIk7kp5n2anvqsWo3) | 3:49 | 2020-10-20\* | 2022-07-29 |
-| [Earnest Leslye](https://open.spotify.com/track/1Hc6eaCHZXbtUl8V8sVUre) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/1A76Rz2tsAds0OQCYYrsAY) | 3:49 | 2023-08-04 |  |
+| [Earnest Leslye](https://open.spotify.com/track/1Hc6eaCHZXbtUl8V8sVUre) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/1A76Rz2tsAds0OQCYYrsAY) | 3:49 | 2023-08-04 | 2023-10-11 |
 | [Earnest Leslye](https://open.spotify.com/track/5RJNXi1qzxp01mX7V1IrvG) | [Peter Broderick](https://open.spotify.com/artist/3haVJx9TUcufYl1rPyH0iv) | [Earnest Leslye](https://open.spotify.com/album/4ofVz6Wz5SqA1aMixm6JVK) | 3:49 | 2023-03-03 | 2023-05-01 |
 | [Earthly Heaven](https://open.spotify.com/track/4Lq20e4GB0sJABMHhMrgJR) | [Rachel Grimes](https://open.spotify.com/artist/3NkEUEwXXgy5IQixHpsHQ9) | [Marion County 1938](https://open.spotify.com/album/5xIzBaxrFEAabBKp9PbVlM) | 6:34 | 2021-02-06 | 2021-02-12 |
 | [East London Street \- Edit](https://open.spotify.com/track/5j7CNRmC6Rx6bCW8a55kr2) | [Hidden Orchestra](https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz) | [East London Street \(Edit\)](https://open.spotify.com/album/5Q5j2jlwAKTOvWmOtRqW2d) | 3:58 | 2021-02-23 | 2022-04-18 |

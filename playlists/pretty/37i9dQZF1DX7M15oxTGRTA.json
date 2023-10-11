@@ -1,12 +1,12 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 83840,
+  "num_followers": 83933,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2JlMWRjMzg3YjM5MjJkN2NhNzZiNTY4MGZlN2VkOTFlOThhNzJj",
+  "snapshot_id": "MCxiYWM4Y2M0YmNmYjJhZTQyYjU3ZWVkOTg3OGU4OWVjZGM2NjM2ZTVi",
   "tracks": [
     {
       "added_at": "2023-09-14 19:15:58",
@@ -679,22 +679,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Ben",
-        "url": "https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 167386,
-      "name": "Ben - Single Version",
-      "url": "https://open.spotify.com/track/0ZFqB9g2FujbmMSrjqsL3j"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "The Stylistics - The Original Debut Album",
         "url": "https://open.spotify.com/album/3b0WbtWBcqi3dk9co2oFAJ"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 175506,
       "name": "You Are Everything",
       "url": "https://open.spotify.com/track/0TFBANCgctg5hAt9ez2V2g"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Ben",
+        "url": "https://open.spotify.com/album/3xo2soey9XEBI5DlmT4KlQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 167386,
+      "name": "Ben - Single Version",
+      "url": "https://open.spotify.com/track/0ZFqB9g2FujbmMSrjqsL3j"
     },
     {
       "added_at": "2023-09-14 19:15:58",

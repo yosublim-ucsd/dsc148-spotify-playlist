@@ -1,12 +1,12 @@
 {
   "description": "Zeit f\u00fcr Kastanienm\u00e4nnchen, Laternenlieder und K\u00fcrbis schnitzen. ",
-  "num_followers": 22406,
+  "num_followers": 22491,
   "original_name": "Familienzeit: Herbst",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZTI4OGEzNjBmMmJkMDRmNzMwMWNhMWRmNjcxOTAyZTljMmJiMjRk",
+  "snapshot_id": "MCw2ZWU2ZmMwMmI3YzRhNWZkNzc1N2UwZTk0NzI1NTI1MDU4MTA1NDVl",
   "tracks": [
     {
       "added_at": "2023-09-29 07:31:17",
@@ -227,26 +227,6 @@
     {
       "added_at": "2023-09-29 07:31:17",
       "album": {
-        "name": "Giraffenaffen 3",
-        "url": "https://open.spotify.com/album/5VZGaclaVcOskXydrnfbRd"
-      },
-      "artists": [
-        {
-          "name": "Stefanie Heinzmann",
-          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
-        },
-        {
-          "name": "Giraffenaffen",
-          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
-        }
-      ],
-      "duration_ms": 187560,
-      "name": "Unter dem Meer",
-      "url": "https://open.spotify.com/track/1TGdhVJgT8iWOPu9QjyXzF"
-    },
-    {
-      "added_at": "2023-09-29 07:31:17",
-      "album": {
         "name": "Die 30 besten Herbstlieder f\u00fcr Kinder",
         "url": "https://open.spotify.com/album/3DB9WITlUNbkGWWHvj94fL"
       },
@@ -267,6 +247,26 @@
       "duration_ms": 239924,
       "name": "Mein kleiner K\u00fcrbis",
       "url": "https://open.spotify.com/track/1qfmntr0uLVqUJKrbzXrPi"
+    },
+    {
+      "added_at": "2023-09-29 07:31:17",
+      "album": {
+        "name": "Giraffenaffen 3",
+        "url": "https://open.spotify.com/album/5VZGaclaVcOskXydrnfbRd"
+      },
+      "artists": [
+        {
+          "name": "Stefanie Heinzmann",
+          "url": "https://open.spotify.com/artist/0bm9qSmVJmT9CEukIhhZY5"
+        },
+        {
+          "name": "Giraffenaffen",
+          "url": "https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex"
+        }
+      ],
+      "duration_ms": 187560,
+      "name": "Unter dem Meer",
+      "url": "https://open.spotify.com/track/1TGdhVJgT8iWOPu9QjyXzF"
     },
     {
       "added_at": "2023-09-29 07:31:17",

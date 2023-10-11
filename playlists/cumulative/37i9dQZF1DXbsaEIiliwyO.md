@@ -2,9 +2,9 @@
 
 ### [Anime Rocks](https://open.spotify.com/playlist/37i9dQZF1DXbsaEIiliwyO)
 
-> アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover:KANA\-BOON
+> アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover:UNISON SQUARE GARDEN
 
-80 songs - 5 hr 5 min
+83 songs - 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [FightSong](https://open.spotify.com/track/37vujUbX37xoBmwoddMYck) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [FightSong](https://open.spotify.com/album/6rpUs50OKVNUGDDusbHvET) | 3:28 | 2023-08-03 | 2023-10-06 |
 | [FLY & DIVE](https://open.spotify.com/track/1GyJ9861V1V5xddnmDIRpx) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [FLY & DIVE](https://open.spotify.com/album/5DQw8dUj4sorH7LFW6LBFc) | 3:44 | 2023-09-25 | 2023-10-04 |
 | [FLY HIGH!!](https://open.spotify.com/track/3YOZLPRiTuYgItSGO41gPT) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT) | [檸檬](https://open.spotify.com/album/48IbAUpWY9uLHfJNaiXnkP) | 4:04 | 2023-08-03 | 2023-10-04 |
+| [GET BACK](https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GET BACK](https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo) | 3:15 | 2023-10-10 |  |
 | [GO!!!\(20周年アニバーサリーバージョン\)](https://open.spotify.com/track/2xviYduF3PGpFsxyGp4f0B) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GO!!!\(20周年アニバーサリーバージョン\)](https://open.spotify.com/album/3XMc4oQZGmdkKRznV1TTMf) | 3:59 | 2023-08-03 |  |
 | [GRAYSCALE DOMINATOR](https://open.spotify.com/track/3d3daBk3HYupo4j1QIp0yx) | [OxT](https://open.spotify.com/artist/2qaq1aaJNXMlqsdS50FDrW) | [OPENING THEME FROM TV SERIES ”THE EMINENCE IN SHADOW” 2ND SEASON](https://open.spotify.com/album/7vnKFhEQihYcVGPAClsSBL) | 3:31 | 2023-10-05 |  |
 | [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/track/1aA5eHoRPcuNxtJkVeWoZy) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/album/2rmLgQmIb0NhFGZHz2XUhV) | 3:49 | 2023-10-03 |  |
@@ -31,7 +32,8 @@
 | [Hyper](https://open.spotify.com/track/7wECiHnoElwvW21CROuwIW) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [Hyper](https://open.spotify.com/album/5UrYZZ0ZaVChCX0etpep4N) | 4:17 | 2023-10-03 |  |
 | [Kaikai Kitan](https://open.spotify.com/track/6y4GYuZszeXNOXuBFsJlos) | [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf) | [Kaikai Kitan / Ao No Waltz](https://open.spotify.com/album/6BZjN6j79mjz7PJfGmvCR1) | 3:41 | 2023-08-03 |  |
 | [KICK BACK](https://open.spotify.com/track/3khEEPRyBeOUabbmOPJzAG) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [KICK BACK](https://open.spotify.com/album/6RH1fEIz8HVXregzz5Xp2B) | 3:13 | 2023-08-03 |  |
-| [Knock Out\(Album Mix\)](https://open.spotify.com/track/3J6zAKrJoz24YsoEYtWLSh) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [OT WORKS Ⅲ \(Selected ver.\)](https://open.spotify.com/album/5SCmQmrYIKFsnBA5Ml2kCZ) | 3:45 | 2023-10-03 |  |
+| [Knock Out\(Album Mix\)](https://open.spotify.com/track/3J6zAKrJoz24YsoEYtWLSh) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [OT WORKS Ⅲ \(Selected ver.\)](https://open.spotify.com/album/5SCmQmrYIKFsnBA5Ml2kCZ) | 3:45 | 2023-10-03 | 2023-10-11 |
+| [Kokkisin](https://open.spotify.com/track/3xN7nR1BQt9PewgVODVuit) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [Kokkisin](https://open.spotify.com/album/5cf61jQY5LOLwPpEPXgepe) | 3:06 | 2023-10-10 |  |
 | [KUNOICHI](https://open.spotify.com/track/54oSb0hs2lyn13ZanbVUkW) | [BURNOUT SYNDROMES](https://open.spotify.com/artist/0Oazwl71qoHvXnbSxv0wOT), [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [KUNOICHI](https://open.spotify.com/album/1pVKX4UnCrRGGvwth0FyOI) | 3:39 | 2023-10-03 |  |
 | [Kyouran Hey Kids!!](https://open.spotify.com/track/38kcwx5znepLWCIBID0Bwm) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [FIXION](https://open.spotify.com/album/7uy0IV2P1VxmeYcssedEq0) | 4:10 | 2023-08-03 |  |
 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 | 2023-08-03 |  |
@@ -52,7 +54,7 @@
 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5YcUxwigZPVTeBAMXWHaYq) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/40a3oAU208h1oFcfi0U25E) | 4:31 | 2023-09-26 | 2023-09-28 |
 | [unravel](https://open.spotify.com/track/1rN9QoVxw5U7TJkyaUR8C1) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [Fantastic Magic](https://open.spotify.com/album/1jLua47U6YKYY4GyktVbBb) | 3:58 | 2023-08-03 |  |
 | [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-08-03 |  |
-| [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 | 2023-08-03 |  |
+| [Zenzenzense \- movie ver.](https://open.spotify.com/track/2DLrgv7HhJanCuD8L9uJLR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 4:45 | 2023-08-03 | 2023-10-11 |
 | [いけないfool logic](https://open.spotify.com/track/7bssqLtlFKC3DZXoUCzsAo) | [UNISON SQUARE GARDEN](https://open.spotify.com/artist/449AEgfeOxqAuRn0uX6l3u) | [いけないfool logic](https://open.spotify.com/album/2FGXwd9HF1RNw7C3XIQLW4) | 4:15 | 2023-10-03 |  |
 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2023-08-03 | 2023-09-21 |
 | [アマリリス](https://open.spotify.com/track/4eIDKBcRJnlZmrRLNdlbgX) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [アマリリス](https://open.spotify.com/album/5Tdq4ftTKRVA2FYE4kc0QT) | 3:53 | 2023-09-05 | 2023-09-07 |
@@ -69,6 +71,7 @@
 | [ピースサイン](https://open.spotify.com/track/364JzOajs76bJymjHm3sVY) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [BOOTLEG](https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC) | 3:58 | 2023-08-03 |  |
 | [ポラリス](https://open.spotify.com/track/28DlaPydCnrs8NxYOnUPZ8) | [BLUE ENCOUNT](https://open.spotify.com/artist/1CWmF1EcrKoWIbZt9Ivfg2) | [Q.E.D](https://open.spotify.com/album/4DifEg0usPQvzxk6K9H04Z) | 3:44 | 2023-08-03 |  |
 | [メフィスト](https://open.spotify.com/track/45LUKiex0D78VuhP3Oz6mG) | [QUEEN BEE](https://open.spotify.com/artist/6whFEcaV75AmQMiwlfaxvc) | [メフィスト](https://open.spotify.com/album/4GlhyWqXM0Ir8083Ue9Je0) | 3:47 | 2023-08-03 |  |
+| [リップシンク](https://open.spotify.com/track/1bvbHclmu1q5yLsGuaV1pS) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [リップシンク](https://open.spotify.com/album/1Hf7LSW4yGAhlTgOdsvBJU) | 3:13 | 2023-10-10 |  |
 | [一途](https://open.spotify.com/track/7ncPjJBktLEOpstY5JOUMK) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [一途](https://open.spotify.com/album/5sCVCfINkiQ40ozBngqGaY) | 3:10 | 2023-08-03 |  |
 | [冬のはなし](https://open.spotify.com/track/3VrKkcEm7RYXBI9RLv7SL7) | [ギヴン](https://open.spotify.com/artist/6LQYtKNp3ZsJ9xOzVVUj5j) | [gift](https://open.spotify.com/album/7wR9KWzI8aoR89ryUPDhmr) | 3:28 | 2023-08-03 | 2023-10-04 |
 | [夏暁](https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [夏暁](https://open.spotify.com/album/5N6ezwJ6Sr3pyupk8TV9ez) | 3:52 | 2023-09-25 |  |
@@ -82,7 +85,7 @@
 | [紅蓮華](https://open.spotify.com/track/0qMip0B2D4ePEjBJvAtYre) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 3:57 | 2023-08-03 |  |
 | [絆ノ奇跡](https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ), [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM) | [絆ノ奇跡](https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s) | 3:43 | 2023-08-03 |  |
 | [美しい鰭](https://open.spotify.com/track/3RauRsiIxUOQTS8h9sVWcP) | [SPITZ](https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0) | [美しい鰭](https://open.spotify.com/album/5npmI7gA2KMh68DwRjNSj9) | 3:29 | 2023-08-03 |  |
-| [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 | 2023-08-03 |  |
+| [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 | 2023-08-03 | 2023-10-11 |
 | [逆夢](https://open.spotify.com/track/6ZiEWet0uFRwWBCEKCQ8rY) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [逆夢](https://open.spotify.com/album/4ViuBpPF350uPP6bVoDmQ2) | 5:07 | 2023-08-03 |  |
 | [遥か彼方](https://open.spotify.com/track/5ORPYXJKlpHWIdceavSGrL) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [BEST HIT AKG](https://open.spotify.com/album/2fgUFE1g0dJfGL007BoveA) | 4:03 | 2023-08-03 |  |
 | [閃光](https://open.spotify.com/track/6orDsQsMy7BaqGoRWw3fVN) | [\[Alexandros\]](https://open.spotify.com/artist/1luOe8HkZQ7zwuaO2wuJqI) | [閃光](https://open.spotify.com/album/1M0bv6o77rYRLeP0RYAcju) | 4:25 | 2023-08-03 |  |

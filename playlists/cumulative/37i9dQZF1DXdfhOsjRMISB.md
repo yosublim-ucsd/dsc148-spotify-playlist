@@ -4,7 +4,7 @@
 
 > Country music to accompany you on the open road\. Cover: Tim McGraw
 
-342 songs - 18 hr 56 min
+343 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Getting Good](https://open.spotify.com/track/6ZU30kIHamg5oiQm4gQQ3A) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Getting Good](https://open.spotify.com/album/3Jdjyvn35LXAi6r7cIHx4U) | 3:21 | 2021-12-03 | 2022-07-21 |
 | [Getting Over Him](https://open.spotify.com/track/0OCY4cY7ZhmFMLR8Zipb51) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Getting Over Him](https://open.spotify.com/album/5Nnd51BWrdzEI2xTkTvjQ4) | 2:47 | 2022-02-01 | 2022-07-29 |
 | [GIVE HEAVEN SOME HELL](https://open.spotify.com/track/2bVeUlOC5JjTpkQXuUUoYm) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:37 | 2021-12-03 |  |
-| [Giving Up On That](https://open.spotify.com/track/2Iu5OBDudGv5B0qfKKKbGm) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Giving Up On That](https://open.spotify.com/album/38V4J5JSybT2xPJ3pGtibK) | 3:31 | 2023-04-21 |  |
+| [Giving Up On That](https://open.spotify.com/track/2Iu5OBDudGv5B0qfKKKbGm) | [Dalton Dover](https://open.spotify.com/artist/5xF3SekjB3b2VO0FKN3K0A) | [Giving Up On That](https://open.spotify.com/album/38V4J5JSybT2xPJ3pGtibK) | 3:31 | 2023-04-21 | 2023-10-11 |
 | [Giving You Up](https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up](https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p) | 3:50 | 2021-12-03 | 2022-09-28 |
 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 | 2021-12-03 | 2023-04-22 |
 | [God Whispered Your Name](https://open.spotify.com/track/7Ce11Oh1kConF6UlkBWnaZ) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [God Whispered Your Name](https://open.spotify.com/album/6AZ3VDmcFGG0rZfJPgUCVp) | 3:52 | 2021-12-03 | 2022-07-22 |
@@ -294,6 +294,7 @@
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/4wBjKhJx6JnGoNJfJs24pd) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Blue In The Sky](https://open.spotify.com/album/58zetIrM1Kf5xf2utMJOJi) | 2:50 | 2022-07-01 |  |
 | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/track/7DhvNzyMM8jJWcfykG3psB) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Thinking 'Bout You \(feat\. MacKenzie Porter\)](https://open.spotify.com/album/2KwIVKnLZLilwl5mYKTtTH) | 2:50 | 2021-12-03 | 2022-07-29 |
 | [This Is It](https://open.spotify.com/track/34DFpyq5NJJ79GnGbbJH3p) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/3OTNvYUGlsb091nCxTMRON) | 3:50 | 2022-02-01 | 2022-05-09 |
+| [This Is It](https://open.spotify.com/track/74CEfiZthUGX5yUNNUM4bj) | [Scotty McCreery](https://open.spotify.com/artist/6ZV6lGY0prbqpTD0Md8i29) | [Seasons Change](https://open.spotify.com/album/2DFoTBlnZYCW4FuHAZxJMj) | 3:50 | 2023-08-04 |  |
 | [This is Us](https://open.spotify.com/track/7DnNU5rQLgy4KEYvFMrGgW) | [Jimmie Allen](https://open.spotify.com/artist/147nKr9upHZSSxqCzh9j7c), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [This is Us](https://open.spotify.com/album/4lMVogl1pJ3NXl2dMtdjFB) | 3:25 | 2021-12-03 | 2022-07-01 |
 | [Thought You Should Know](https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Thought You Should Know](https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i) | 3:35 | 2023-01-13 |  |
 | [Till There's Nothing Left](https://open.spotify.com/track/6rIIhxmidzI07z1kgiOqY8) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [The Otherside](https://open.spotify.com/album/5MVSCE7VkkqDA6TS9Ug1rW) | 3:15 | 2021-12-03 | 2023-05-19 |

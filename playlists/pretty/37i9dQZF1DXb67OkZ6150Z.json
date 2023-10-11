@@ -1,12 +1,12 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Soccer Mommy ",
-  "num_followers": 286173,
+  "num_followers": 286214,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjJiZWRiZjc5OTAwMGM5NWMzMjZlNmQ2YTg2NmVhOTEzZWYzYjRi",
+  "snapshot_id": "MCxlZjc2ZjQ4ODdmZTFiNDUxYzhiMDY0ZTMyYmJlMmNmNjhkMzY2ZmQ2",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -27,22 +27,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Tom's Diner",
-        "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
+        "name": "Put Your Records On",
+        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
       },
       "artists": [
         {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        },
-        {
-          "name": "Giant Rooks",
-          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
         }
       ],
-      "duration_ms": 269333,
-      "name": "Tom's Diner",
-      "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
+      "duration_ms": 210463,
+      "name": "Put Your Records On",
+      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -63,18 +59,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Put Your Records On",
-        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7"
+        "name": "Tom's Diner",
+        "url": "https://open.spotify.com/album/7ClPGbXY81egfNn8H1hDAg"
       },
       "artists": [
         {
-          "name": "Ritt Momney",
-          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        },
+        {
+          "name": "Giant Rooks",
+          "url": "https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb"
         }
       ],
-      "duration_ms": 210463,
-      "name": "Put Your Records On",
-      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
+      "duration_ms": 269333,
+      "name": "Tom's Diner",
+      "url": "https://open.spotify.com/track/0oA9wBGDY4uyILLg4GymWP"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -147,22 +147,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 269952,
-      "name": "Toxic",
-      "url": "https://open.spotify.com/track/4X1qDzQdpuxN6UOkaq6UXi"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Our Generation - Spotify Singles",
         "url": "https://open.spotify.com/album/3aVpww6hYzU8sHdkSeO0Bw"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 120961,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0WCQS4X35RP4kLo6qRiOD3"
+      },
+      "artists": [
+        {
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
+        }
+      ],
+      "duration_ms": 269952,
+      "name": "Toxic",
+      "url": "https://open.spotify.com/track/4X1qDzQdpuxN6UOkaq6UXi"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -291,22 +291,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Clocks",
-        "url": "https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT"
-      },
-      "artists": [
-        {
-          "name": "Mar Malade",
-          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
-        }
-      ],
-      "duration_ms": 197576,
-      "name": "Clocks",
-      "url": "https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Where Is My Mind?",
         "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
       },
@@ -319,6 +303,22 @@
       "duration_ms": 177260,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Clocks",
+        "url": "https://open.spotify.com/album/5UKlVynkdwTBjftXDwugaT"
+      },
+      "artists": [
+        {
+          "name": "Mar Malade",
+          "url": "https://open.spotify.com/artist/31XESXereH3q4fhAjG1NUw"
+        }
+      ],
+      "duration_ms": 197576,
+      "name": "Clocks",
+      "url": "https://open.spotify.com/track/3MnfasLZZPbuzowQtifkcQ"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Dancing on My Own",
-        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
-      },
-      "artists": [
-        {
-          "name": "The Regrettes",
-          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
-        }
-      ],
-      "duration_ms": 209813,
-      "name": "Dancing on My Own",
-      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Volume 1",
         "url": "https://open.spotify.com/album/4a9VIksdlTfLwRkdDnycfd"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 126343,
       "name": "Heat Waves",
       "url": "https://open.spotify.com/track/76sXxllp4hfL5cAY2906oP"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Dancing on My Own",
+        "url": "https://open.spotify.com/album/5cUBGCKASqckBH8auhHKLa"
+      },
+      "artists": [
+        {
+          "name": "The Regrettes",
+          "url": "https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E"
+        }
+      ],
+      "duration_ms": 209813,
+      "name": "Dancing on My Own",
+      "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
     },
     {
       "added_at": "2023-06-16 04:00:00",
@@ -971,6 +971,26 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Go Easy, Kid (with James Blake)",
+        "url": "https://open.spotify.com/album/5RMjaRKQfjdeaqdnxaeALK"
+      },
+      "artists": [
+        {
+          "name": "Monica Martin",
+          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 267946,
+      "name": "Go Easy, Kid (with James Blake)",
+      "url": "https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Lost",
         "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 164351,
       "name": "Attack of the Ghost Riders",
       "url": "https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Go Easy, Kid (with James Blake)",
-        "url": "https://open.spotify.com/album/5RMjaRKQfjdeaqdnxaeALK"
-      },
-      "artists": [
-        {
-          "name": "Monica Martin",
-          "url": "https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN"
-        },
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 267946,
-      "name": "Go Easy, Kid (with James Blake)",
-      "url": "https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Home Again / It's Too Late",
-        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 197647,
-      "name": "It's Too Late",
-      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Horror Show",
         "url": "https://open.spotify.com/album/2Qse49swFybD2LtrWM5kTq"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 216440,
       "name": "Because The Night",
       "url": "https://open.spotify.com/track/32xJ7Ays4uyxMuZFxfH0Zj"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Home Again / It's Too Late",
+        "url": "https://open.spotify.com/album/2z0btmJ0XxDYLEWMgQNVpc"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 197647,
+      "name": "It's Too Late",
+      "url": "https://open.spotify.com/track/4GvAhHdh2mvlSlHcqGC20V"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1295,18 +1295,26 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Industry Baby",
-        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
       },
       "artists": [
         {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        },
+        {
+          "name": "Pop Goes Ambient",
+          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
+        },
+        {
+          "name": "Amelia Magdalena",
+          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
         }
       ],
-      "duration_ms": 231381,
-      "name": "Industry Baby",
-      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
+      "duration_ms": 262714,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1331,26 +1339,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/3pC14s49yUVj2VJskAshde"
+        "name": "Industry Baby",
+        "url": "https://open.spotify.com/album/5T8h52l8nVMqPSGq52Q8kq"
       },
       "artists": [
         {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        },
-        {
-          "name": "Pop Goes Ambient",
-          "url": "https://open.spotify.com/artist/2jHRNCV3XlGTMJJaBaB3sP"
-        },
-        {
-          "name": "Amelia Magdalena",
-          "url": "https://open.spotify.com/artist/0z0lcAGtZwp9PUrqUCArLu"
+          "name": "Noga Erez",
+          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
         }
       ],
-      "duration_ms": 262714,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/34Jfxprxev4z3iF3R0wG0b"
+      "duration_ms": 231381,
+      "name": "Industry Baby",
+      "url": "https://open.spotify.com/track/0ypcpkYOckOLxySl4m69gM"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Music From The Pen Gala 1983",
-        "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
-      },
-      "artists": [
-        {
-          "name": "Local Natives",
-          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
-        }
-      ],
-      "duration_ms": 211786,
-      "name": "More Than This",
-      "url": "https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Under The Milky Way",
         "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
       },
@@ -1511,6 +1495,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Music From The Pen Gala 1983",
+        "url": "https://open.spotify.com/album/2WedBViHbzk10PflnQhNOg"
+      },
+      "artists": [
+        {
+          "name": "Local Natives",
+          "url": "https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ"
+        }
+      ],
+      "duration_ms": 211786,
+      "name": "More Than This",
+      "url": "https://open.spotify.com/track/2zhwY62MVZlWBVzgh210HV"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "i wanna be your girlfriend",
         "url": "https://open.spotify.com/album/1GLJbv53SbSavS2XKqJttz"
       },
@@ -1523,6 +1523,22 @@
       "duration_ms": 311844,
       "name": "i wanna be your girlfriend",
       "url": "https://open.spotify.com/track/0rpsYTdLM9iNgkUGgFhGB8"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Float On",
+        "url": "https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb"
+      },
+      "artists": [
+        {
+          "name": "Phil Good",
+          "url": "https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv"
+        }
+      ],
+      "duration_ms": 176853,
+      "name": "Float On",
+      "url": "https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v"
     },
     {
       "added_at": "2023-07-20 17:53:48",
@@ -1543,18 +1559,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Float On",
-        "url": "https://open.spotify.com/album/7r66RwoqENhVVxQ1vonlgb"
+        "name": "Stolen Time Deluxe",
+        "url": "https://open.spotify.com/album/27Pl4ZURgCynlnGAgTQEds"
       },
       "artists": [
         {
-          "name": "Phil Good",
-          "url": "https://open.spotify.com/artist/3MDqk7o9WcL4FSvlyyGjRv"
+          "name": "Abigail Lapell",
+          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
         }
       ],
-      "duration_ms": 176853,
-      "name": "Float On",
-      "url": "https://open.spotify.com/track/2ymifjFHCi1myYA58sHI4v"
+      "duration_ms": 190333,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/6GeJeIWS9dNh5jJqyEutj9"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1607,22 +1623,6 @@
       "duration_ms": 206000,
       "name": "Teardrop",
       "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Stolen Time Deluxe",
-        "url": "https://open.spotify.com/album/27Pl4ZURgCynlnGAgTQEds"
-      },
-      "artists": [
-        {
-          "name": "Abigail Lapell",
-          "url": "https://open.spotify.com/artist/6HyT9nfsNKEtu76UKQBD5g"
-        }
-      ],
-      "duration_ms": 190333,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/6GeJeIWS9dNh5jJqyEutj9"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1691,18 +1691,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "slow dancing in a burning room (stripped)",
-        "url": "https://open.spotify.com/album/5Oko6eHLcDSmnswIyJPPgx"
+        "name": "The Full Moon Project",
+        "url": "https://open.spotify.com/album/0VraDVmjkr0vVjaZqLM7bi"
       },
       "artists": [
         {
-          "name": "ST LUNA",
-          "url": "https://open.spotify.com/artist/4zahKdp1kPNHEVGrJ2gZdw"
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
         }
       ],
-      "duration_ms": 195578,
-      "name": "slow dancing in a burning room - stripped",
-      "url": "https://open.spotify.com/track/1JA3n5owbVpTDuNDWcolME"
+      "duration_ms": 409860,
+      "name": "Like a Rolling Stone",
+      "url": "https://open.spotify.com/track/6nMb0jnVYulCHhe5UpyKBq"
     },
     {
       "added_at": "2023-05-05 17:19:46",

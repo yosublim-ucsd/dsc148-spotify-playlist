@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Yudhveer Dagar
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,656 likes - 58 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,794 likes - 58 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 57 | [Raosahab](https://open.spotify.com/track/1OkSGjNN37znjSZd7LwrzB) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Raosahab](https://open.spotify.com/album/64V6bH51CIBl9GLaxipZHK) | 2:52 |
 | 58 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 |
 
-Snapshot ID: `MCxlN2Y5YTM0MTJiZjY5OGExYzc5M2U2MDZjYjVjMzQ0NTlmNWM1OGM1`
+Snapshot ID: `MCw3ODY4MWFiZTUyZTFkMDZiYTU2OTBlMjk1NmI3ZTZiYTVlODJjMTZk`

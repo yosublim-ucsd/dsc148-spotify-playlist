@@ -4,7 +4,7 @@
 
 > La psicodelia tropical latinoamericana y sus alucinantes ritmos.
 
-110 songs - 6 hr 58 min
+111 songs - 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Cumbia Buena](https://open.spotify.com/track/0NA27btGDmBNAgJiV0QBdG) | [Mike Laure](https://open.spotify.com/artist/39vVl1HOIZwca5O4g8QQ8h) | [Bueno Pa' Bailar](https://open.spotify.com/album/4uWDQj68C6UF6e0TvWMAWF) | 2:24 | 2022-07-14 |  |
 | [Cumbia de la Montaña](https://open.spotify.com/track/39h2XcPNOiMbFyxOOMhVyf) | [Amantes del Futuro](https://open.spotify.com/artist/6dFvUQyg4lryyquleOuUO0) | [Sabor Sónico](https://open.spotify.com/album/08VzWkqOdpCE30H0kJvoFQ) | 6:26 | 2021-10-20 |  |
 | [Cumbia De Los Pajaritos](https://open.spotify.com/track/2qthHzKgzuQIlfSVV44FkK) | [Grupo Fantasma](https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE) | [Sonidos Gold](https://open.spotify.com/album/2lBRiANHPb6WCzlwjWDF1f) | 2:41 | 2021-10-20 |  |
-| [Cumbia del Metrónomo](https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz) | [Las Muiscas](https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige) | [Cumbia del Metrónomo](https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac) | 5:04 | 2022-02-12 | 2023-09-10 |
+| [Cumbia del Metrónomo](https://open.spotify.com/track/7bwN33H6XD0TR0Tu7CwJRz) | [Las Muiscas](https://open.spotify.com/artist/4RHL341vneyqWQTIVq6ige) | [Cumbia del Metrónomo](https://open.spotify.com/album/3gmy0O8akgbJfuagwuYPac) | 5:04 | 2022-02-12 |  |
 | [Cumbia del Monte Fuji](https://open.spotify.com/track/1O9k2KJkdTALaxjkzUoLCT) | [Minyo Crusaders](https://open.spotify.com/artist/1zpJ58qKOgKcWge9iaFxHG), [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cumbia del Monte Fuji](https://open.spotify.com/album/6JEkMpOD5jA6py8yAEoYc9) | 4:24 | 2021-10-20 |  |
 | [Cumbia del Pichamán](https://open.spotify.com/track/5WjRThnwydfhzybQStKVaI) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Cumbia siglo XXI](https://open.spotify.com/album/6s91YTFJHq3LWDRMC4QOvp) | 3:17 | 2021-10-20 |  |
 | [Cumbia en do Menor](https://open.spotify.com/track/3s82dVyBp9xjyL2ysM5vhl) | [Lito Barrientos y su Orquesta](https://open.spotify.com/artist/05iql7fgeGRNLLDjU66wN6) | [Very, Very, Well](https://open.spotify.com/album/5Qk3wsVkRcwoUB1hfy4bll) | 2:45 | 2021-10-20 |  |
@@ -52,7 +52,7 @@
 | [El Pinochito Saltarin](https://open.spotify.com/track/5C7mC5BrHui4uc1RH1BGLk) | [Juaneco Y Su Combo](https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR) | [Legado: Colección Definitiva](https://open.spotify.com/album/4MukcroENYODSNMYfyvZHW) | 2:36 | 2021-10-20 |  |
 | [Elsa](https://open.spotify.com/track/04ZstZIjwSRoXAGix50GPT) | [Los Destellos](https://open.spotify.com/artist/2xfdrsA1TWrKlaEfQQbbmf) | [Mundial....](https://open.spotify.com/album/3gT44BsjTWWgIZvItinJSH) | 3:40 | 2021-10-20 |  |
 | [Futurista](https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A) | [Gabriele Poso](https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp) | [Tamburo Infinito](https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx) | 2:59 | 2022-02-15 |  |
-| [Guadalupe](https://open.spotify.com/track/2gokZy0P2QgqIRGMljHJAg) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 3:24 | 2021-10-20 |  |
+| [Guadalupe](https://open.spotify.com/track/2gokZy0P2QgqIRGMljHJAg) | [Jaguar](https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC) | [Madremonte](https://open.spotify.com/album/4AVxyQmiN8t769CBjIzcZl) | 3:24 | 2021-10-20 | 2023-10-11 |
 | [Guaracha U.F.O \(No Estamos Solos...\)](https://open.spotify.com/track/5A8XYp8wXZD5Y3gQlZp81h) | [Meridian Brothers](https://open.spotify.com/artist/08Y6RNx87Eolrcq1aLM6ow) | [Desesperanza](https://open.spotify.com/album/00F2FhpcLejOuh1nDnfnRm) | 6:51 | 2021-10-20 |  |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2021-10-20 |  |
 | [Hotline Bling](https://open.spotify.com/track/6q3HqeduJaaZvoGkxcJEOb) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8), [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu) | [Hotline Bling](https://open.spotify.com/album/3wIfrWCteaifdw84a9ckUi) | 3:23 | 2021-10-20 |  |
@@ -66,7 +66,7 @@
 | [La Danza de los Simpsons](https://open.spotify.com/track/59WEhlP47JI0naL5ub1c7U) | [Chicha Libre](https://open.spotify.com/artist/1eiodDx0lIftKNviQGG95x) | [Cuatro Tigres](https://open.spotify.com/album/3HdnrOGtv9y40s33FCuXcR) | 2:26 | 2021-10-20 |  |
 | [La Danza del Petrolero](https://open.spotify.com/track/6wYvtOi8fqJfC2vLNncDnL) | [Los Mirlos](https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh) | [Los Charapas de Oro](https://open.spotify.com/album/1JJYeA9PCioo6wAewUA8CY) | 3:41 | 2021-10-20 |  |
 | [La Niña Cuántica](https://open.spotify.com/track/11iLvJ8LlvfgPCRGPtY6Ez) | [Julián Mayorga](https://open.spotify.com/artist/2TcRGEZR3tYPVDe71l5Fui) | [Nixon en la Playa](https://open.spotify.com/album/22ZNOoOKta5HRqL2hlO0ZA) | 2:08 | 2021-10-20 |  |
-| [La Número Uno](https://open.spotify.com/track/4eNcQUEVbRkIIu9HdfN180) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Pase lo Que Pase](https://open.spotify.com/album/0VpJRPCHSMXQpI1LGJx179) | 4:04 | 2021-10-20 |  |
+| [La Número Uno](https://open.spotify.com/track/4eNcQUEVbRkIIu9HdfN180) | [El Dragón Criollo](https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G) | [Pase lo Que Pase](https://open.spotify.com/album/0VpJRPCHSMXQpI1LGJx179) | 4:04 | 2021-10-20 | 2023-10-11 |
 | [La Weá](https://open.spotify.com/track/4WYTHHlht6Dd9v9fG497u9) | [La Cumbia Chicharra](https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr), [Emilie Rambaud](https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG) | [Hijo de Tigre](https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB) | 5:56 | 2021-10-20 |  |
 | [Lamento en la Selva](https://open.spotify.com/track/0rxjDRE2wot2sAiilVDiZt) | [Money Chicha](https://open.spotify.com/artist/3fsyG1yskjAgNCPPfIUBcE) | [Echo en Mexico](https://open.spotify.com/album/4ZjWUw1okFSeqCCRrzLQH4) | 5:02 | 2021-10-20 |  |
 | [Lazalypso](https://open.spotify.com/track/3OItIAWkXXMi3wXkKwmhsj) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh) | [Baile Bucanero](https://open.spotify.com/album/4DrEI2T7ihZsJl6sNEDa6Y) | 3:33 | 2021-10-20 |  |
@@ -74,6 +74,7 @@
 | [Los Chucos Suaves \(featuring Macha\)](https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Macha](https://open.spotify.com/artist/4nlcyHlvzjmpjOJ09k2nb9) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:12 | 2021-10-20 |  |
 | [Los Olvidados \(Cumbia\)](https://open.spotify.com/track/1ENaWkSrM7Ls1TQw7Xu7IW) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e) | [Tropidélico](https://open.spotify.com/album/2VBt7XqrvUKqKGDtxEoghS) | 3:26 | 2021-10-20 |  |
 | [Luna Villera](https://open.spotify.com/track/4ojdqJnTaFlR3FgBtY6DJN) | [Cosmic Wacho](https://open.spotify.com/artist/6qVCBovVysB8MOf7a1mUKa), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Luna Villera](https://open.spotify.com/album/5Vm7UF6GDOFqCNfOMDtxwi) | 3:57 | 2023-05-25 |  |
+| [Mambo Del Fierro Viejo](https://open.spotify.com/track/6pv5ldwnEZDJxyn9bQqEKy) | [Sonido Gallo Negro](https://open.spotify.com/artist/3lSqMCuyfqugFoibdOCeZo) | [Paganismo \(Deluxe\)](https://open.spotify.com/album/3r07WtUQn429L9DknXqYE2) | 3:09 | 2023-10-10 |  |
 | [Mamita Santa](https://open.spotify.com/track/6NwPLDzVZuoBvCDmipbjCR) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5) | [Mamita Santa](https://open.spotify.com/album/619zP71cN2JNAFGGyCgkzg) | 3:13 | 2022-01-14 |  |
 | [Mamita Santa](https://open.spotify.com/track/2jLqTQadOF5w75Z23hztT7) | [Porter](https://open.spotify.com/artist/7eBQrhxTHcor6gcbcLhqE5), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Mamita Santa](https://open.spotify.com/album/0sw3hxYLMgoepONHVbAs0R) | 3:59 | 2023-04-01 |  |
 | [Me Estoy Poniendo Viejo](https://open.spotify.com/track/4AhZ2PyD5xny2A8hltSuVr) | [Los Esplifs](https://open.spotify.com/artist/5caq5gxBeWAzvz8boqmBdb) | [Me Estoy Poniendo Viejo](https://open.spotify.com/album/0FyBzQotrJGBsTwj2Vk7hv) | 3:54 | 2023-02-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 
 > Tengan a la mano las máscaras de lucha libre y la tabla de surf.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,771 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,790 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 54 | [Surf De L'amour](https://open.spotify.com/track/08qSIeJEOg3aQaDN4xii9C) | [Messer Chups](https://open.spotify.com/artist/756Li3sKcK4EdDiniLPqRl) | [Taste the Blood of Guitaracula](https://open.spotify.com/album/36Zg5IWSFPezDutbYpwrfB) | 2:45 |
 | 55 | [The Trouble With Those Mothra Girls](https://open.spotify.com/track/5DS76z4SSW8MWAyl9NVqMg) | [Daikaiju](https://open.spotify.com/artist/1boMjUeqvfISOyhMtR89QC) | [Daikaiju](https://open.spotify.com/album/2JeW42eEkcpxw1UHvZFfVG) | 3:29 |
 | 56 | [Whirlpool](https://open.spotify.com/track/4uUyxCK28787qPada57VMI) | [The Volcanos](https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i) | [Surf Quake!](https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz) | 2:06 |
-| 57 | [Hey Lupe](https://open.spotify.com/track/1oyb4zsThmXB92wdKWcqXv) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Rock en Espanol, Vol\. 1](https://open.spotify.com/album/7izW2Pzyz1qLA2Z6Pc79xS) | 3:19 |
+| 57 | [It's Monster Surfing Time](https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2) | 2:11 |
 | 58 | [La Viuda Negra](https://open.spotify.com/track/0vlcfidir85v3y6ths4HWZ) | [Fenomeno Fuzz](https://open.spotify.com/artist/7kg2KlLovywtCGI1zGlhgc) | [Sonido Bestia](https://open.spotify.com/album/3X31PsiKoR8dBnc9wrQCIc) | 3:06 |
 | 59 | [Mar De Caca](https://open.spotify.com/track/6EF3LO2JAec99G5OFvrdJK) | [Viernes de Hongos](https://open.spotify.com/artist/3wx5qwQq4y9aFxuNp5LCSo) | [¡Puedes O No Puedes!](https://open.spotify.com/album/3nKCnrYo0hNwudR9vTFRl8) | 3:34 |
 | 60 | [Shooby Doo Wop](https://open.spotify.com/track/0hRphF5bOnJkQzKSKuJbmc) | [Rebel Cats](https://open.spotify.com/artist/2ukziVbiZa3N5eSdUOXgXL), [Daniel Gutierrez](https://open.spotify.com/artist/4BjnUrsKtotSlzyIN5AYGq) | [Rebel Cats Y Sus Amigos](https://open.spotify.com/album/6eEtfyJ0LiBL2EueE8Wmfw) | 2:28 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVhEq8aJ7AYV.md) - [plain]
 | 64 | [Piangi Con Me](https://open.spotify.com/track/4K5Yo0mU2jOFUEQ7MnWUEB) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [I Wanna Believe](https://open.spotify.com/album/6EnAmJs0JJSoXNchktGik8) | 3:58 |
 | 65 | [Space Oddity](https://open.spotify.com/track/1aqKNWVSHrdJNxYTtl8kZU) | [The Neanderthals](https://open.spotify.com/artist/3IEkhYN4pmmS1XFtB2cAT8), [Eddie Angel \(Los Straitjackets\)](https://open.spotify.com/artist/1vo1sJls2CJ26A7VcvWEqC) | [The Neanderthals In Space](https://open.spotify.com/album/18Q5PGVJ162yrxJvZD6Uei) | 2:59 |
 | 66 | [Calle 24](https://open.spotify.com/track/71TRXnTTvP0qT1kpCvsJAX) | [Guadalupe Plata](https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK) | [Guadalupe Plata 2015](https://open.spotify.com/album/3U4UpsI47qhAGyujC2smUy) | 3:14 |
-| 67 | [It's Monster Surfing Time](https://open.spotify.com/track/1mq3yiM47o1mOXgGPhoTKM) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Mondo Zombie Boogaloo](https://open.spotify.com/album/0Cg66yZQ6YfeHjywgaIge2) | 2:11 |
+| 67 | [Hey Lupe](https://open.spotify.com/track/1oyb4zsThmXB92wdKWcqXv) | [Los Straitjackets](https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB) | [Rock en Espanol, Vol\. 1](https://open.spotify.com/album/7izW2Pzyz1qLA2Z6Pc79xS) | 3:19 |
 | 68 | [Lancha Con Fondo De Cristal](https://open.spotify.com/track/3y0nZ0vHHBhmqRdYuz0DNV) | [Los Esquizitos](https://open.spotify.com/artist/2zYgJ6dbHzarjjnMCGeV2A) | [Los Esquizitos](https://open.spotify.com/album/72qcrTIMcqB0UxMnHDZ8R3) | 2:12 |
 | 69 | [Peyoteando Con Ayahuasca](https://open.spotify.com/track/1dfR1vi6sYqngeVc75nFZW) | [Los Peyotes](https://open.spotify.com/artist/1VbfSBBZCtzmy9I3a4oHJp) | [Garaje o Muerte](https://open.spotify.com/album/21cnBP9BOz7CgVTsAyWon6) | 3:06 |
 | 70 | [1,2,3,4 \- Los Cogelones Remix](https://open.spotify.com/track/0Fn7a7chIZRWOt80MOchqJ) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu), [Los Cogelones](https://open.spotify.com/artist/0E6wzL7Jdd5XiLjadvcpKS) | [1, 2, 3, 4 \(Los Cogelones Remix\)](https://open.spotify.com/album/1naZNZNvA9YfCMP7LZPnEJ) | 3:47 |
 | 71 | [Miradas de Amor](https://open.spotify.com/track/005PrMKAhDjR0cUSMYmdYH) | [Danny Amis with Lost Acapulco](https://open.spotify.com/artist/0PLhEPFzmqf0yjfyb8261k) | [Daddy\-O Grande In Mexico](https://open.spotify.com/album/7jOrFMu39xWwTIKvhGwlDj) | 2:58 |
 | 72 | [Bandidos](https://open.spotify.com/track/78U6exECZTeqH3A9sSb1Tr) | [Twin Tones](https://open.spotify.com/artist/3iWXaK2ztxcwFVtCX3QsKV) | [Nación Apache](https://open.spotify.com/album/2LgkoOYWhYWwxwVzTXm5Sp) | 2:05 |
-| 73 | [The Last Wave](https://open.spotify.com/track/6N0aUylT9YlFEGGbtzW77Q) | [The Volcanos](https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i) | [Surf Quake!](https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz) | 2:07 |
+| 73 | [Swan's Lake](https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR) | [Los Twang! Marvels](https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL) | [Guitars In Orbit](https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc) | 2:03 |
 | 74 | [The Falcon Sleeps Tonight](https://open.spotify.com/track/4toFjXCMOTkZrw36kzixHy) | [Corizonas](https://open.spotify.com/artist/3Jyx7BnfcTeK52GYGoI3BP) | [The News Today](https://open.spotify.com/album/5RHDJFdQC90EIRn682wXXN) | 3:10 |
-| 75 | [Swan's Lake](https://open.spotify.com/track/2dMCzVJOAAo0gUDWzBAIPR) | [Los Twang! Marvels](https://open.spotify.com/artist/4ZQDQBB4n9WSJ6OK7GB8pL) | [Guitars In Orbit](https://open.spotify.com/album/1ztjKDuWAsYJ92QCBAHwzc) | 2:03 |
+| 75 | [The Last Wave](https://open.spotify.com/track/6N0aUylT9YlFEGGbtzW77Q) | [The Volcanos](https://open.spotify.com/artist/4GCNnUFn0gHoQve1ENVr5i) | [Surf Quake!](https://open.spotify.com/album/1rCo9zhVtthN9GWsi6CBdz) | 2:07 |
 
-Snapshot ID: `MCwzMWJmZTJiY2QxNGQyMzgxNzU2ZjdkY2VjMzc0YTcyMmI1MzhmYjRj`
+Snapshot ID: `MCw1NDY0YmFkYjJmMzBjYTdjMmZlYzg5ZmIzY2IyNmRmNDNhMzViYjNh`

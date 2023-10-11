@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 
 > Peaceful ambient for mind body connection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,541 likes - 136 songs - 6 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,588 likes - 136 songs - 6 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,24 +25,24 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 15 | [Sojourn](https://open.spotify.com/track/0vt9Z5bs20zegRzu3WfHcJ) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Sojourn](https://open.spotify.com/album/678tvE12gbHFdLNL5ME8L0) | 3:21 |
 | 16 | [Emersion](https://open.spotify.com/track/2pxDPvNqRMkrnoOiL3CVYK) | [Yasmin Ryan](https://open.spotify.com/artist/5yNo2UDxYyUsMrH7UdPW1g) | [Emersion](https://open.spotify.com/album/2AVFXtKshMtp06uEyDMx7Z) | 2:48 |
 | 17 | [Selama Aku Bersamamu](https://open.spotify.com/track/6j3XbhOPbyAqJcYc1gkRdS) | [Indah Bethari](https://open.spotify.com/artist/6PEb2KuIsMYIR8DFdBL2al) | [Selama Aku Bersamamu](https://open.spotify.com/album/14AvT6nrlER3v91lS8MvDs) | 4:12 |
-| 18 | [Spirit of Now](https://open.spotify.com/track/6EDGhLq5RfOIzjJTMNgUG8) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Spirit of Now](https://open.spotify.com/album/1kEYXVCoLl2c15HfkubYSr) | 3:19 |
-| 19 | [Calming Winds](https://open.spotify.com/track/1ScsfyaRKIOcIzkkfHwC0A) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Calming Winds](https://open.spotify.com/album/79SUMG1B1GU23f7jz6bW2S) | 2:36 |
-| 20 | [Senses](https://open.spotify.com/track/40btANYJL2hwYW0C5b28pb) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Senses](https://open.spotify.com/album/74K5NTAi3kXSgzuBbneNiG) | 3:09 |
-| 21 | [Djupet](https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Djupet](https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK) | 3:43 |
-| 22 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 |
-| 23 | [Carpe Noctem](https://open.spotify.com/track/027030DBi749hu0tVBAFgX) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Carpe Noctem](https://open.spotify.com/album/38AOIqKaMi4AmlwjD1R9wJ) | 3:03 |
-| 24 | [Kaivalya](https://open.spotify.com/track/6S9lxnDITYii6HT1o8CE5Y) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Moksha](https://open.spotify.com/album/2NBJRiyIdMaLzJwjxLd6N9) | 2:37 |
-| 25 | [Overview](https://open.spotify.com/track/6bJS4c8xM5nGOtxqndR0G7) | [Magenta Dust](https://open.spotify.com/artist/6g7j780GtRaJOzRCzEuSrj) | [New Wings](https://open.spotify.com/album/0nIpY77hGOsJKfiWomgZXO) | 3:18 |
-| 26 | [Ahasaas](https://open.spotify.com/track/4rt8jPJ9Yk4jzgRYsUxYIW) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Ahasaas](https://open.spotify.com/album/4x7wRUVS5XAzvEPbihKndQ) | 2:45 |
-| 27 | [Praise](https://open.spotify.com/track/6JPkvrIXIROTBKMg6fZTKC) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Praise](https://open.spotify.com/album/6lkZbG6qQljcbdT4UrUDuh) | 3:06 |
-| 28 | [Wake Up Bliss](https://open.spotify.com/track/0xcodadlWJxKIj8REEN3GK) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Wake Up Bliss](https://open.spotify.com/album/7D0UM2X4UVBsShe1VK2ipB) | 3:50 |
-| 29 | [Ethereal Spaces Pt 2](https://open.spotify.com/track/1mD0RfHVYUkOizGgyJgJD1) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Ethereal Spaces Pt 2](https://open.spotify.com/album/7hET4nANrxoMHd7ysLsdCC) | 8:10 |
-| 30 | [Valtamania](https://open.spotify.com/track/495yKNbAKF5CcwYizd6XIP) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Valtamania](https://open.spotify.com/album/5LuQNxrMBFujBBMTRfXFGv) | 2:33 |
-| 31 | [Rejuvenation](https://open.spotify.com/track/3fAV0eFLbmNgCjS3fMhqf6) | [Amela Clouds](https://open.spotify.com/artist/62UW4G3lvlmjFMTy5CUQ6l) | [Rejuvenation](https://open.spotify.com/album/7atqe3Cp2ezHLqBL8mo0OQ) | 3:20 |
-| 32 | [Summer Showers](https://open.spotify.com/track/02SaJ1OMfv7gDlIRM5OSmw) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Summer Showers](https://open.spotify.com/album/7DKs2pH9pjErdZZHCkd5mt) | 2:46 |
-| 33 | [Devine Minds](https://open.spotify.com/track/0q7nN1QZG0NmhmINE08LZl) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Devine Minds](https://open.spotify.com/album/1xom6Zd4dfnWXGZGzTuEPS) | 3:14 |
-| 34 | [Through The Self](https://open.spotify.com/track/2uUsM8gmp9HHToPcehe9Zl) | [Nima Noi](https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy) | [Through The Self](https://open.spotify.com/album/4QUK3vdURh2byRlf6YSXQV) | 3:19 |
-| 35 | [Sun Salutation](https://open.spotify.com/track/5NlB5vx0KNyOr4RM9oelFz) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Sun Salutation](https://open.spotify.com/album/55KUA09F5TsAqTTCxbWtL1) | 3:34 |
+| 18 | [Soltar](https://open.spotify.com/track/3d1B1D0n0gVOkY0kbV6s4p) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Soltar](https://open.spotify.com/album/7eK4jDOu5p360olwqEXCGQ) | 2:58 |
+| 19 | [Spirit of Now](https://open.spotify.com/track/6EDGhLq5RfOIzjJTMNgUG8) | [Ara Amar](https://open.spotify.com/artist/6YWZXgJnIkhmLN7GYX3sF4) | [Spirit of Now](https://open.spotify.com/album/1kEYXVCoLl2c15HfkubYSr) | 3:19 |
+| 20 | [Calming Winds](https://open.spotify.com/track/1ScsfyaRKIOcIzkkfHwC0A) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Calming Winds](https://open.spotify.com/album/79SUMG1B1GU23f7jz6bW2S) | 2:36 |
+| 21 | [Senses](https://open.spotify.com/track/40btANYJL2hwYW0C5b28pb) | [Sasha Green](https://open.spotify.com/artist/5OnulnqJlxCzWEyq3IfoVt) | [Senses](https://open.spotify.com/album/74K5NTAi3kXSgzuBbneNiG) | 3:09 |
+| 22 | [Djupet](https://open.spotify.com/track/4G7eckq0cn40VWV05gTJia) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Djupet](https://open.spotify.com/album/7heZwQ3Yua1lr3XCYJzhbK) | 3:43 |
+| 23 | [Leuchten](https://open.spotify.com/track/4KNuwSHlzgZIRuT9Ur1JCZ) | [Mystisse](https://open.spotify.com/artist/6IpbJpzWfnVDsdJG9fJHWp) | [Leuchten](https://open.spotify.com/album/6fLtePVdyqmM4WrnC85p9j) | 2:42 |
+| 24 | [Carpe Noctem](https://open.spotify.com/track/027030DBi749hu0tVBAFgX) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Carpe Noctem](https://open.spotify.com/album/38AOIqKaMi4AmlwjD1R9wJ) | 3:03 |
+| 25 | [Kaivalya](https://open.spotify.com/track/6S9lxnDITYii6HT1o8CE5Y) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Moksha](https://open.spotify.com/album/2NBJRiyIdMaLzJwjxLd6N9) | 2:37 |
+| 26 | [Overview](https://open.spotify.com/track/6bJS4c8xM5nGOtxqndR0G7) | [Magenta Dust](https://open.spotify.com/artist/6g7j780GtRaJOzRCzEuSrj) | [New Wings](https://open.spotify.com/album/0nIpY77hGOsJKfiWomgZXO) | 3:18 |
+| 27 | [Ahasaas](https://open.spotify.com/track/4rt8jPJ9Yk4jzgRYsUxYIW) | [Asanah](https://open.spotify.com/artist/2DCbSulOeRJeGXct0hQOzR) | [Ahasaas](https://open.spotify.com/album/4x7wRUVS5XAzvEPbihKndQ) | 2:45 |
+| 28 | [Praise](https://open.spotify.com/track/6JPkvrIXIROTBKMg6fZTKC) | [Uli Jons](https://open.spotify.com/artist/0K4PNBCw5wDm6lKZYil6cU) | [Praise](https://open.spotify.com/album/6lkZbG6qQljcbdT4UrUDuh) | 3:06 |
+| 29 | [Wake Up Bliss](https://open.spotify.com/track/0xcodadlWJxKIj8REEN3GK) | [ZIWA](https://open.spotify.com/artist/0b4CwcngfsLbUi3lNZ1WRf) | [Wake Up Bliss](https://open.spotify.com/album/7D0UM2X4UVBsShe1VK2ipB) | 3:50 |
+| 30 | [Ethereal Spaces Pt 2](https://open.spotify.com/track/1mD0RfHVYUkOizGgyJgJD1) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Ethereal Spaces Pt 2](https://open.spotify.com/album/7hET4nANrxoMHd7ysLsdCC) | 8:10 |
+| 31 | [Valtamania](https://open.spotify.com/track/495yKNbAKF5CcwYizd6XIP) | [Space Case Travel Inc.](https://open.spotify.com/artist/1mncFR44LStEXPFNplCyrC) | [Valtamania](https://open.spotify.com/album/5LuQNxrMBFujBBMTRfXFGv) | 2:33 |
+| 32 | [Rejuvenation](https://open.spotify.com/track/3fAV0eFLbmNgCjS3fMhqf6) | [Amela Clouds](https://open.spotify.com/artist/62UW4G3lvlmjFMTy5CUQ6l) | [Rejuvenation](https://open.spotify.com/album/7atqe3Cp2ezHLqBL8mo0OQ) | 3:20 |
+| 33 | [Summer Showers](https://open.spotify.com/track/02SaJ1OMfv7gDlIRM5OSmw) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Summer Showers](https://open.spotify.com/album/7DKs2pH9pjErdZZHCkd5mt) | 2:46 |
+| 34 | [Devine Minds](https://open.spotify.com/track/0q7nN1QZG0NmhmINE08LZl) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Devine Minds](https://open.spotify.com/album/1xom6Zd4dfnWXGZGzTuEPS) | 3:14 |
+| 35 | [Through The Self](https://open.spotify.com/track/2uUsM8gmp9HHToPcehe9Zl) | [Nima Noi](https://open.spotify.com/artist/16FXG6RNdKhKWL12WRvBZy) | [Through The Self](https://open.spotify.com/album/4QUK3vdURh2byRlf6YSXQV) | 3:19 |
 | 36 | [Lotus Garden](https://open.spotify.com/track/4iDlSNw5sqmHobQFFgoNZU) | [The Tides](https://open.spotify.com/artist/0Z3GVEGMJYq0nTdZNJAx4V) | [Lotus Garden & Healing Serenade](https://open.spotify.com/album/7KoiOv415asddhMDXYYOlQ) | 3:31 |
 | 37 | [Sensory Perception](https://open.spotify.com/track/0gkpdzAJ3065QgKDO0Nm8x) | [Rigby Jay](https://open.spotify.com/artist/12s8RdGDrmojyfC16intDY) | [Sensory Perception](https://open.spotify.com/album/4LKuWF3OzhS6dwvN9e0LNs) | 3:05 |
 | 38 | [Light Of Purpose](https://open.spotify.com/track/3ZKiF3zKAwMC0Ftjxd7tpT) | [Strangewoods](https://open.spotify.com/artist/0KwJGZ4wFqLaQ5fGoC19cH) | [Light Of Purpose](https://open.spotify.com/album/7fPup8POfEeT6xK3nnamVH) | 2:43 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvpVE2NxPV2.md) - [plain]
 | 135 | [Fragility](https://open.spotify.com/track/76PJSFCBGkVazJvMcE3Uyi) | [Chris Lukas](https://open.spotify.com/artist/2PYNWD01lteVriJrx1nzz9) | [Fragility](https://open.spotify.com/album/5xoJiIPUG9kVH5HoQiKRb6) | 2:28 |
 | 136 | [Descendent](https://open.spotify.com/track/1WQU9B3hbamPd5uRsQuDEZ) | [The Thing About Noise](https://open.spotify.com/artist/3YDqHBcfFRqJ136NsrFyYa) | [Texture](https://open.spotify.com/album/5WDvrrJdqAhIRh97925mPe) | 3:06 |
 
-Snapshot ID: `MCwwYzk3MGVkMWFhN2JiYzYzODBmNWYzMTBkMDFmYzVkZTI2ZjQzYTAx`
+Snapshot ID: `MCw0MTNhMjhmNWVhYTQzYjdlNDk5NmE4NzQ5MGZhODAzYzJmODE4ZmUz`

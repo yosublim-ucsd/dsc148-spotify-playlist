@@ -4,7 +4,7 @@
 
 > Lo mejor de la nueva\. Foto: El Bogueto
 
-228 songs - 11 hr 52 min
+229 songs - 11 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,7 @@
 | [Como Nunca](https://open.spotify.com/track/5qaa2uIoOJHpym5V1vgXw4) | [Mati Gómez](https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE), [Bala](https://open.spotify.com/artist/2NCWhIDKWeV5nF4HpvkxNL) | [Como Nunca](https://open.spotify.com/album/15Pr6sIxq3SuTMqvKoyY2z) | 3:03 | 2022-05-13 | 2022-05-27 |
 | [Como Si Nada](https://open.spotify.com/track/2ECKWYbTPpKvtnKiRiUQqC) | [ADSO](https://open.spotify.com/artist/29b16XDtyMXDrfo2hZ69wf) | [Como Si Nada](https://open.spotify.com/album/25baT12B8EsCMIjKVCztUi) | 2:36 | 2022-05-13 |  |
 | [COMO TE VEO](https://open.spotify.com/track/0A2hY1pA45fdkd4TtIyyTN) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [COMO TE VEO](https://open.spotify.com/album/0Qvobw139ix8zLlfLjjtKC) | 3:26 | 2022-05-13 | 2023-07-22 |
-| [COMO TE VEO](https://open.spotify.com/track/0UhTJB22OyfSp4sbYz0MSa) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [COMO TE VEO](https://open.spotify.com/album/7JdT4amYapsoKhOvZYT2tE) | 3:26 | 2023-06-29 |  |
+| [COMO TE VEO](https://open.spotify.com/track/0UhTJB22OyfSp4sbYz0MSa) | [Darho](https://open.spotify.com/artist/3Vzymy9i8OqVAbiCbAXCWq) | [COMO TE VEO](https://open.spotify.com/album/7JdT4amYapsoKhOvZYT2tE) | 3:26 | 2023-06-29 | 2023-10-11 |
 | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/track/4xvYZWvfmL7FnWJHZhV1VS) | [Club16](https://open.spotify.com/artist/2MXDat5eYxVcnHht0N2uSF), [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Jota Rosa](https://open.spotify.com/artist/7gK06FGYa8dtJogKJXAG80) | [Como Ñengo \(feat\. Jota Rosa\)](https://open.spotify.com/album/1D0xvI1Mz6Wv0TpTa6UAhC) | 3:24 | 2022-08-26 |  |
 | [Completa](https://open.spotify.com/track/6UZjOADNdSQOBmi0lafs5B) | [Amesty](https://open.spotify.com/artist/7ydulAijh9CshP34VMrzuy), [Omar K11](https://open.spotify.com/artist/5MgAfWCS0vzouE9lVzwjJy), [Thomaz](https://open.spotify.com/artist/0oJmDwK2QxYDXfkdlTvc4C) | [Completa](https://open.spotify.com/album/4YPZ6oBBlkzgR0tufiBXC3) | 3:14 | 2022-05-13 | 2022-07-28 |
 | [Con To'](https://open.spotify.com/track/3mesqg1ztOmGuZIjQcszCX) | [LASTMONDAY](https://open.spotify.com/artist/7x3VJT4Tm32G8l0fquiayN) | [Con To'](https://open.spotify.com/album/7lpYfSfvsIkfRZphob0YWr) | 2:44 | 2022-10-28 | 2022-11-19 |
@@ -73,6 +73,7 @@
 | [FVCKBOY](https://open.spotify.com/track/2F745sJVQfgQDGtbLZWhTo) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [FVCKBOY](https://open.spotify.com/album/5df5qACxEsrQPDASKg17s4) | 2:45 | 2022-05-13 | 2022-07-29 |
 | [Garabatos](https://open.spotify.com/track/7IiFfzVEtu05WUEhR8i8ye) | [ROBI](https://open.spotify.com/artist/6ISKc7ev3V4EGnEagkXexc), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Garabatos](https://open.spotify.com/album/5dZs5nHvzlqJyqKQ6NK5oD) | 3:22 | 2022-08-22 | 2023-06-30 |
 | [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 | 2022-11-18 | 2022-12-24 |
+| [Gatita](https://open.spotify.com/track/4MFpFnhirNfY968H72VLpg) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Kittyponeo](https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM) | 2:33 | 2023-10-06 |  |
 | [Gatita](https://open.spotify.com/track/4ilZV1WNjL7IxwE81OnaRY) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/6264ANGNsltdE7SYjKMTKs) | 2:33 | 2022-12-09 | 2023-10-08 |
 | [GORRR](https://open.spotify.com/track/6ajCHt1rB8DlQonkxkwOJQ) | [ADRYY](https://open.spotify.com/artist/5O63cA75kC3bexODJyDXRu) | [GORRR](https://open.spotify.com/album/4IzJzpXBgaU2JbUxC8H4n8) | 2:09 | 2023-10-06 |  |
 | [Guilla](https://open.spotify.com/track/4xTZL1wNVCtCrqJQUHqHdc) | [Loyaltty](https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf) | [Guilla](https://open.spotify.com/album/2wvlZcsnGAzbRx6C1wUYtw) | 2:19 | 2022-08-26 | 2023-04-12 |

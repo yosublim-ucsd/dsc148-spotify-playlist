@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 388875,
+  "num_followers": 389007,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNTFjYjhlZDYzOTM2MDY3ZTQ3MzhlMTg4ZjMyOGY2YjM0MDNiZjRj",
+  "snapshot_id": "MCwxZWM0YjQ0MTZkMTAwOTg3OGVhY2VmMjgwOTQzOWUyMGQyMzEyYjM2",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -763,18 +763,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "En Esto Creo (Live)",
-        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
+        "name": "GOZO",
+        "url": "https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj"
       },
       "artists": [
         {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+          "name": "Miel San Marcos",
+          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
         }
       ],
-      "duration_ms": 259613,
-      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
-      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
+      "duration_ms": 237367,
+      "name": "GOZO",
+      "url": "https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -827,22 +831,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "GOZO",
-        "url": "https://open.spotify.com/album/59dQZ1gOKCaoWhYLx9SIwj"
+        "name": "En Esto Creo (Live)",
+        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
       },
       "artists": [
         {
-          "name": "Miel San Marcos",
-          "url": "https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
-      "duration_ms": 237367,
-      "name": "GOZO",
-      "url": "https://open.spotify.com/track/6kp2PJxAraS3t4nek5zqYO"
+      "duration_ms": 259613,
+      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
+      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "El Cielo Gobierna",
+        "url": "https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy"
+      },
+      "artists": [
+        {
+          "name": "David Scarpeta",
+          "url": "https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd"
+        }
+      ],
+      "duration_ms": 265280,
+      "name": "El Cielo Gobierna",
+      "url": "https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Ama A Dios Y A Tu Vecino",
         "url": "https://open.spotify.com/album/7cIlbOk2EXPl3ZBkuYDSnG"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 206133,
       "name": "Ama A Dios Y A Tu Vecino",
       "url": "https://open.spotify.com/track/0ZIzGwc3j4lVacHR1c5DKb"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "El Cielo Gobierna",
-        "url": "https://open.spotify.com/album/5qDjBjsXxYlBVRvBDwVXMy"
-      },
-      "artists": [
-        {
-          "name": "David Scarpeta",
-          "url": "https://open.spotify.com/artist/72eEtA2xeitbF17cpqGwqd"
-        }
-      ],
-      "duration_ms": 265280,
-      "name": "El Cielo Gobierna",
-      "url": "https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1219,6 +1219,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Jes\u00fas (feat. Marcos Witt)",
+        "url": "https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 305981,
+      "name": "Jes\u00fas (feat. Marcos Witt)",
+      "url": "https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Nuevo Comienzo",
         "url": "https://open.spotify.com/album/5g3M3W1QqI4YYTFLjjnSfa"
       },
@@ -1239,18 +1255,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Jes\u00fas (feat. Marcos Witt)",
-        "url": "https://open.spotify.com/album/5IFNo2WJY1TjSF52Pwie1u"
+        "name": "Por Fin en Casa",
+        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
       },
       "artists": [
         {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+          "name": "Fuego",
+          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
         }
       ],
-      "duration_ms": 305981,
-      "name": "Jes\u00fas (feat. Marcos Witt)",
-      "url": "https://open.spotify.com/track/4NrlfdOywCSFKlC1XDvZoR"
+      "duration_ms": 465335,
+      "name": "De Lo M\u00e1s Profundo",
+      "url": "https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1267,22 +1283,6 @@
       "duration_ms": 361253,
       "name": "Digno Es El Se\u00f1or",
       "url": "https://open.spotify.com/track/5TCqiDV3pfwqblGQTIHreC"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Por Fin en Casa",
-        "url": "https://open.spotify.com/album/2cg1RtFVrDEf2LRTiSIxH1"
-      },
-      "artists": [
-        {
-          "name": "Fuego",
-          "url": "https://open.spotify.com/artist/3F5E6wKnGN6qRjtsF2Z6vt"
-        }
-      ],
-      "duration_ms": 465335,
-      "name": "De Lo M\u00e1s Profundo",
-      "url": "https://open.spotify.com/track/2YlJSBmdJcGmWAda2m5moL"
     },
     {
       "added_at": "2021-05-21 19:19:27",

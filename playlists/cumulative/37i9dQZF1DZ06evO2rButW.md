@@ -4,10 +4,11 @@
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-57 songs - 3 hr 30 min
+58 songs - 3 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [40 y MM](https://open.spotify.com/track/7DBZjgdH5YHr8CQY5DKDAc) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [40 y MM](https://open.spotify.com/album/3kwh1wumBMqfivrWVKEGNO) | 3:22 | 2023-10-10 |  |
 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 | 2023-03-24 |  |
 | [Amigos Simplemente](https://open.spotify.com/track/1koHbG9KKSn7p8jyJueSp4) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:02 | 2023-03-24 |  |
 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 | 2023-03-24 |  |

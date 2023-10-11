@@ -2297,6 +2297,24 @@
     },
     {
       "album": {
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "date_added": "2023-08-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252454,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+    },
+    {
+      "album": {
         "name": "Good Thing",
         "url": "https://open.spotify.com/album/5zq4azS8yD6fil5tnqr1g5"
       },
@@ -6656,7 +6674,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 230747,
       "name": "Up Granville",
       "url": "https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd"

@@ -20,7 +20,7 @@
       ],
       "date_added": "2022-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 218920,
       "name": "Aquarius / Let The Sun Shine In",
       "url": "https://open.spotify.com/track/2w88WBqzi6y7lmAW6tcJLL"
@@ -138,7 +138,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 146533,
       "name": "Bajo la Luna - Remastered 2012",
       "url": "https://open.spotify.com/track/0v7WSTmUCNqnCKIQm3d9Hk"
@@ -586,7 +586,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 174626,
       "name": "Desvelo De Amor",
       "url": "https://open.spotify.com/track/5z46fEEorQBtY64lIyyBfo"
@@ -1348,7 +1348,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 253346,
       "name": "La Negra Tiene Tumbao",
       "url": "https://open.spotify.com/track/2uzCfFYh6tSNFdz14ZIf3N"
@@ -1800,7 +1800,7 @@
       ],
       "date_added": "2021-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 156866,
       "name": "No Encuentro Palabras",
       "url": "https://open.spotify.com/track/43T1DZEtE6edC62ojuU5Dw"
@@ -1886,7 +1886,7 @@
       ],
       "date_added": "2021-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 186106,
       "name": "Pa La Paloma",
       "url": "https://open.spotify.com/track/35NvKX5qqxt2Q9Ma5VVlZJ"
@@ -1990,6 +1990,48 @@
       "duration_ms": 152090,
       "name": "Para Ti Mi Boogaloo",
       "url": "https://open.spotify.com/track/3EmMeV9qQRUUWs6QNGa6KZ"
+    },
+    {
+      "album": {
+        "name": "Patria y Vida (Salsa)",
+        "url": "https://open.spotify.com/album/5VM9rbI3btwMg0aCMmteIF"
+      },
+      "artists": [
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        },
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "El Funky",
+          "url": "https://open.spotify.com/artist/2dHyenXNc5AXYDCdSfROhm"
+        },
+        {
+          "name": "Maykel Osorbo",
+          "url": "https://open.spotify.com/artist/5UrnIgOA6WZvJnDmFd4G2u"
+        },
+        {
+          "name": "Arturo Sandoval",
+          "url": "https://open.spotify.com/artist/0MGQZNEMaEICyku3cSDrnJ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245865,
+      "name": "Patria y Vida - Salsa",
+      "url": "https://open.spotify.com/track/6AfRpMDQsXierL7fSMHvEO"
     },
     {
       "album": {
@@ -2484,7 +2526,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 259000,
       "name": "Usted Abus\u00f3",
       "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"

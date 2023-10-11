@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Always Shining Bright",
+        "url": "https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A"
+      },
+      "artists": [
+        {
+          "name": "Sheila Withmore",
+          "url": "https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136107,
+      "name": "Always Shining Bright",
+      "url": "https://open.spotify.com/track/4s561TKv61mdyVq98FtbNk"
+    },
+    {
+      "album": {
         "name": "Amour naturel",
         "url": "https://open.spotify.com/album/390yjRO6OCnaiCCMz6HNu3"
       },
@@ -960,6 +978,24 @@
       "duration_ms": 113173,
       "name": "Coming Closer",
       "url": "https://open.spotify.com/track/14mdXvg5LTzl4gp0ALbGOe"
+    },
+    {
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S"
+      },
+      "artists": [
+        {
+          "name": "Catherine Peterson",
+          "url": "https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155750,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c"
     },
     {
       "album": {
@@ -1968,6 +2004,24 @@
       "duration_ms": 126078,
       "name": "Graphite",
       "url": "https://open.spotify.com/track/5DFfMIOV51LYdeoIs3GiKx"
+    },
+    {
+      "album": {
+        "name": "Hat full of candles",
+        "url": "https://open.spotify.com/album/6egJetQktX1XDBVLpAcvOe"
+      },
+      "artists": [
+        {
+          "name": "Lupe Sinsonte",
+          "url": "https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183529,
+      "name": "Hat full of candles",
+      "url": "https://open.spotify.com/track/3Ap6yfaMLSbcHsTcx5Y967"
     },
     {
       "album": {

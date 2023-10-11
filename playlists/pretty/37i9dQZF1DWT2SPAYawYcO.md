@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Teen Jesus and the Jean Teasers
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,185 likes - 95 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,241 likes - 95 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 38 | [A Running Start](https://open.spotify.com/track/1TsArKeEAf1VPEdT98ZuUM) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [A Running Start](https://open.spotify.com/album/2kfgxC8y548LmSA6ICrOoG) | 4:21 |
 | 39 | [It's You \(feat\. BIA\)](https://open.spotify.com/track/2vrrcekBMTpaadCzsBgGxw) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx), [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [It's You \(feat\. BIA\)](https://open.spotify.com/album/1bHsKvnj1DJaE2c9Ea4mHY) | 2:12 |
 | 40 | [i don’t sleep as good as i used to](https://open.spotify.com/track/2YCrJo5Ly8VS7rWMO30xbX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [i don’t sleep as good as i used to](https://open.spotify.com/album/6aUYWT72B92zOpEK5xIo0i) | 3:03 |
-| 41 | [Tell Me](https://open.spotify.com/track/7aC9syDKJbFcwaoWXodmNb) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [Doolie](https://open.spotify.com/artist/02C1o6UELjUNfthPNScsPp) | [Coalesce](https://open.spotify.com/album/7w8VZmBYyc8lzb1EkKTxhF) | 3:45 |
+| 41 | [Tell Me](https://open.spotify.com/track/7aC9syDKJbFcwaoWXodmNb) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [DOOLIE](https://open.spotify.com/artist/52IMdPUhmYfGU7daNnmHVA) | [Coalesce](https://open.spotify.com/album/7w8VZmBYyc8lzb1EkKTxhF) | 3:45 |
 | 42 | [Swinging at the Stars](https://open.spotify.com/track/0plgpP6pbcptrfbCEHKKcA) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Just Because](https://open.spotify.com/album/2ArWkmluhZLOmbwCfyKurF) | 3:43 |
 | 43 | [Simply Paradise](https://open.spotify.com/track/1EKpwGoisV5nUOqqMZ7gAJ) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Ryan Paris](https://open.spotify.com/artist/3nRifdQMP5925XSkIN07oC) | [Simply Paradise](https://open.spotify.com/album/4NKglcnKOsi2uFYJOSGkUM) | 2:35 |
 | 44 | [Live It Up \(High Tide\)](https://open.spotify.com/track/1NQerA4L5VGpEtL9j7P7Xb) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [Live It Up \(High Tide\)](https://open.spotify.com/album/4WSj8yr6mN3vxGSku9pyv3) | 2:34 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 94 | [Promises](https://open.spotify.com/track/0CPQuLqXxxx5PXHIXWV91u) | [Mark Wilkinson](https://open.spotify.com/artist/2xotqeudHAi6eXva57U5nK) | [Promises](https://open.spotify.com/album/7hRioMLO2cpK6kbhUh9GMN) | 4:04 |
 | 95 | [All My Friends Hate Me](https://open.spotify.com/track/03m467XlcAzQFP4grnIMRV) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [All My Friends Hate Me](https://open.spotify.com/album/0dZKvHf8KIeuRFKa2UKntu) | 3:44 |
 
-Snapshot ID: `MCw4NmRjNWRmZDI4OTI5NTBmYTRiOTZiNTMyMjBkMmY0ZjQ2MmNkY2Uy`
+Snapshot ID: `MCxjOGQ5ZTM1M2ZjMDdkNGU5MWQxNmJkNjk4YmNmMTRlZTMxNGYxZDhk`

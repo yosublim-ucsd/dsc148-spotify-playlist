@@ -6087,6 +6087,28 @@
     },
     {
       "album": {
+        "name": "Kittyponeo",
+        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170447,
+      "name": "Kitty Culea",
+      "url": "https://open.spotify.com/track/5w8cpNXc7Gw6ZMvheFfrmE"
+    },
+    {
+      "album": {
         "name": "Kong 2.0",
         "url": "https://open.spotify.com/album/4KUHWZWKbwWosKAc4rKMHi"
       },
@@ -8650,7 +8672,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 214493,
       "name": "M\u00e9xxico Es Todo",
       "url": "https://open.spotify.com/track/4ZAHtzkitK8SanEc7XZoVX"

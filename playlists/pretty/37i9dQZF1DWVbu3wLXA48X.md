@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Sufjan Stevens
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,395 likes - 95 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,378 likes - 95 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 | 94 | [Space Invader](https://open.spotify.com/track/7eP181rqgdCB0q9HD4BzMK) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Space Invader](https://open.spotify.com/album/3NYiaVQ8wD0rx56fMcAaFG) | 6:58 |
 | 95 | [Like It Was Meant To Be](https://open.spotify.com/track/72GB7Yf1lIstTjcD7eQAju) | [Vira Talisa](https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv) | [Bloomingtale](https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3) | 3:29 |
 
-Snapshot ID: `MCxiMTc4MjkwMWI3Y2RkZGM0MGFjMjBmNGVlMDljYTAwYTBkNmQ1MjIy`
+Snapshot ID: `MCwwNWMyMDgxMWQwMDk3YjZmZGNkYTgwMDI1NWI3ZGNiZWM1MjlhNWVl`

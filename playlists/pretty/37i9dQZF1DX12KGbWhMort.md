@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 
 > Dale play, y que el amor no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,045 likes - 100 songs - 6 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,096 likes - 100 songs - 6 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 82 | [No Se Si Es Amor \(It Must Have Been Love\)](https://open.spotify.com/track/1kAJFyicakML1Bjd3Tqt1B) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [Baladas En Español](https://open.spotify.com/album/7iKhBP0N1KgoQsoCr3YvI2) | 4:42 |
 | 83 | [Seré](https://open.spotify.com/track/50M1kLXHo81fX9puNdB5ER) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [Tu Mano](https://open.spotify.com/album/0ofPx6C6bKrF23aZbDwbLR) | 4:09 |
 | 84 | [Me Haces Falta](https://open.spotify.com/track/7wCqmkAjudO0oKRASmv8Wg) | [Antonio José](https://open.spotify.com/artist/1dbp04JzZ81JXlMGupCnJ8) | [A Un Milímetro De Ti](https://open.spotify.com/album/7aAYfzJAOZaETczNmMcoMY) | 3:28 |
-| 85 | [De Enero a Enero](https://open.spotify.com/track/1UQw9rjhed1P8vNxNWJ0tR) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Sabroso](https://open.spotify.com/album/7Bw4f5B4VlYURukRFjBov0) | 3:10 |
-| 86 | [Con La Miel En Los Labios](https://open.spotify.com/track/5VOPzPBHcubxHK1BEru2G5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Con La Miel En Los Labios](https://open.spotify.com/album/4pIf4sqEVKaTjXUgLsG6aD) | 3:22 |
+| 85 | [Con La Miel En Los Labios](https://open.spotify.com/track/5VOPzPBHcubxHK1BEru2G5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Con La Miel En Los Labios](https://open.spotify.com/album/4pIf4sqEVKaTjXUgLsG6aD) | 3:22 |
+| 86 | [De Enero a Enero](https://open.spotify.com/track/1UQw9rjhed1P8vNxNWJ0tR) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Sabroso](https://open.spotify.com/album/7Bw4f5B4VlYURukRFjBov0) | 3:10 |
 | 87 | [Hasta El Final](https://open.spotify.com/track/4jLAgMw4tzHzSJuKF3UJA7) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [20 Años Contigo](https://open.spotify.com/album/7j74PZNNtthH0JwMPSqIVw) | 2:47 |
 | 88 | [Perdóname](https://open.spotify.com/track/63I0BWAZ6HxEoiR18ZEmAn) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Quien Quiera Escuchar \(Deluxe Edition\)](https://open.spotify.com/album/375cUd86z58eqXN2yW3Do9) | 4:00 |
 | 89 | [Besos a la Lona](https://open.spotify.com/track/0p9zxloVaytLMbORCBMfwO) | [Melendi](https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4) | [Besos a la Lona](https://open.spotify.com/album/2OVkLEMcPk9LPdl4eza40X) | 4:06 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX12KGbWhMort.md) - [plain]
 | 94 | [Mujer de las Mil Batallas](https://open.spotify.com/track/4CKNP0H3WEWQBSNGeOvjFU) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Devuélveme Mi Libertad](https://open.spotify.com/album/2fde5WKTf4YilScZxEdd07) | 3:24 |
 | 95 | [Me Enamoré De Ti](https://open.spotify.com/track/3Vfqh883w3ydFU2wjMPxPp) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Me Enamore De Ti](https://open.spotify.com/album/1N1f6kovQCF1BzSoIIwWBY) | 4:41 |
 | 96 | [Volver](https://open.spotify.com/track/0fnSf6DuXn8uxlSdanhJqg) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Las Cosas Son Como Son](https://open.spotify.com/album/2L1ZdknL3hPfV2vFM18r14) | 4:28 |
-| 97 | [Miénteme](https://open.spotify.com/track/1Nw2GDJ7Xy1JtbPE8w5fcA) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Miénteme](https://open.spotify.com/album/5ZyGgGHp4jgUgDO9gSYiim) | 3:53 |
-| 98 | [Te Voy A Amar](https://open.spotify.com/track/1UulLfK9fqsOCr7TibaNxF) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [Un Nuevo Sol](https://open.spotify.com/album/4sTLmzASztF6Kwtm68uuN4) | 4:13 |
+| 97 | [Te Voy A Amar](https://open.spotify.com/track/1UulLfK9fqsOCr7TibaNxF) | [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [Un Nuevo Sol](https://open.spotify.com/album/4sTLmzASztF6Kwtm68uuN4) | 4:13 |
+| 98 | [Miénteme](https://open.spotify.com/track/1Nw2GDJ7Xy1JtbPE8w5fcA) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Miénteme](https://open.spotify.com/album/5ZyGgGHp4jgUgDO9gSYiim) | 3:53 |
 | 99 | [Aunque no te pueda ver](https://open.spotify.com/track/6UTRKQhyERZY5Jduii5Jmv) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad \(american edition\)](https://open.spotify.com/album/2NVUSpunMuwYEFaqJsTRd1) | 4:25 |
 | 100 | [Dame La Llave De Tu Corazón](https://open.spotify.com/track/2d7SjuRbbQVddAWuhivrvT) | [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Dame La Llave De Tu Corazón](https://open.spotify.com/album/1V5VHepWfoiD7mRXCnEK4O) | 3:18 |
 
-Snapshot ID: `MCxlMzhlYmEzOWNjMGI4NmFmODkwYzQ1NzE0NjAxMWZhNzc5ZTkxMDE0`
+Snapshot ID: `MCw0YjFkOTNjM2M0MDE1NDVhNzNkYThiNDkzZWFkN2E3ZjhjZDZkNGZm`

@@ -1,12 +1,12 @@
 {
   "description": "Planta de la bugambilia que me cubres y me matas. ",
-  "num_followers": 58901,
+  "num_followers": 58982,
   "original_name": "Bugambilias",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjQ0ZjM5ODFkZDNhZDlhMDRmMmFkOTVkZjYwMjU1YTY1MzU3NjEy",
+  "snapshot_id": "MCw1NTE5MDU3ZjlkZmRkNmNmNWU4MjQyOGFjNjdkM2ViMjRiM2I2OWFm",
   "tracks": [
     {
       "added_at": "2023-06-15 16:40:57",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Chavela Vargas: 30 Exitos",
-        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
-      },
-      "artists": [
-        {
-          "name": "Chavela Vargas",
-          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
-        }
-      ],
-      "duration_ms": 204617,
-      "name": "Que Te Vaya Bonito",
-      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Amores",
         "url": "https://open.spotify.com/album/0DSrZQhNEnpV8WiiIoaLVH"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 195613,
       "name": "Amores",
       "url": "https://open.spotify.com/track/0BrONFWDiPzPENqT88xP03"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Chavela Vargas: 30 Exitos",
+        "url": "https://open.spotify.com/album/5APXKgrB5OtipEWIdJMxse"
+      },
+      "artists": [
+        {
+          "name": "Chavela Vargas",
+          "url": "https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c"
+        }
+      ],
+      "duration_ms": 204617,
+      "name": "Que Te Vaya Bonito",
+      "url": "https://open.spotify.com/track/3fAj5jFmlNKi6UztFnTJOl"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -867,38 +867,6 @@
       "duration_ms": 205280,
       "name": "Que Sepan Todos",
       "url": "https://open.spotify.com/track/5g6Mar687Mnu6w2RQexEzB"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Bugambilia",
-        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
-      },
-      "artists": [
-        {
-          "name": "Zuaraz",
-          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
-        }
-      ],
-      "duration_ms": 187016,
-      "name": "La Can\u00edcula",
-      "url": "https://open.spotify.com/track/5ltGrLgjwhLk5o0yGP1WXL"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
-        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Mu\u00f1eca",
-      "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -979,6 +947,38 @@
       "duration_ms": 236058,
       "name": "Pa'lante",
       "url": "https://open.spotify.com/track/2Zh91nwJJNTyE6WzXfuZrO"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Bon appetit (Lo Mejor de Pat\u00e9 de Fu\u00e1)",
+        "url": "https://open.spotify.com/album/4NCt0MxUIzpRifMmnFV29f"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/08Tzy57uT2EvJegmSeL9Lr"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Bugambilia",
+        "url": "https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK"
+      },
+      "artists": [
+        {
+          "name": "Zuaraz",
+          "url": "https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch"
+        }
+      ],
+      "duration_ms": 187016,
+      "name": "La Can\u00edcula",
+      "url": "https://open.spotify.com/track/5ltGrLgjwhLk5o0yGP1WXL"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
-        "name": "Sauce",
-        "url": "https://open.spotify.com/album/0J3ZUsihPAvYKEzuOhoVF7"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        }
-      ],
-      "duration_ms": 168549,
-      "name": "Sauce",
-      "url": "https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
         "name": "Sabor a Mar",
         "url": "https://open.spotify.com/album/5WfWuKkIHBJqcCogIQem9v"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 197862,
       "name": "Sabor a M\u00ed - Amuzgo",
       "url": "https://open.spotify.com/track/3Gdua3DERZXgZBaozvc9fb"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Sauce",
+        "url": "https://open.spotify.com/album/0J3ZUsihPAvYKEzuOhoVF7"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        }
+      ],
+      "duration_ms": 168549,
+      "name": "Sauce",
+      "url": "https://open.spotify.com/track/0HSJcMdGPoPJ0X8fJ5tEM8"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1587,26 +1587,6 @@
       "duration_ms": 158500,
       "name": "Vuelas Tan Lindo",
       "url": "https://open.spotify.com/track/4Bq8JO07RD7i1QxDcfzfXS"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Calathea",
-        "url": "https://open.spotify.com/album/2lZm5nOEwqiy3na4CZb9kD"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Calathea",
-      "url": "https://open.spotify.com/track/0eBoG9AbS66bi87PimGqZE"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1667,6 +1647,26 @@
     {
       "added_at": "2023-06-15 16:40:57",
       "album": {
+        "name": "Calathea",
+        "url": "https://open.spotify.com/album/2lZm5nOEwqiy3na4CZb9kD"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "Calathea",
+      "url": "https://open.spotify.com/track/0eBoG9AbS66bi87PimGqZE"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
         "name": "Noche Fr\u00eda",
         "url": "https://open.spotify.com/album/3izNSTBUp5gbNSU8bFZYGx"
       },
@@ -1679,26 +1679,6 @@
       "duration_ms": 189573,
       "name": "Noche Fr\u00eda",
       "url": "https://open.spotify.com/track/45Q2gf2HToBlmhX4eeLMNy"
-    },
-    {
-      "added_at": "2023-06-15 16:40:57",
-      "album": {
-        "name": "Helecho",
-        "url": "https://open.spotify.com/album/46g3w3mPi117Oho4GUL4eC"
-      },
-      "artists": [
-        {
-          "name": "Ruth de las Plantas",
-          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
-        },
-        {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
-        }
-      ],
-      "duration_ms": 137100,
-      "name": "Helecho",
-      "url": "https://open.spotify.com/track/2N8ppLwzpApkwHCFAReRoA"
     },
     {
       "added_at": "2023-06-15 16:40:57",
@@ -1747,6 +1727,26 @@
       "duration_ms": 145000,
       "name": "Rayando el Sol",
       "url": "https://open.spotify.com/track/1FNL149Oyeb9KA6tVyToEA"
+    },
+    {
+      "added_at": "2023-06-15 16:40:57",
+      "album": {
+        "name": "Helecho",
+        "url": "https://open.spotify.com/album/46g3w3mPi117Oho4GUL4eC"
+      },
+      "artists": [
+        {
+          "name": "Ruth de las Plantas",
+          "url": "https://open.spotify.com/artist/7xtkne3Y9293zwMXsJp0QP"
+        },
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 137100,
+      "name": "Helecho",
+      "url": "https://open.spotify.com/track/2N8ppLwzpApkwHCFAReRoA"
     },
     {
       "added_at": "2023-06-15 16:40:57",

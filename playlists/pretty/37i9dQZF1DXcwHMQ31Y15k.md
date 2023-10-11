@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 
 > Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Woro Widowati
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,634 likes - 90 songs - 7 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,801 likes - 90 songs - 7 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcwHMQ31Y15k.md) - [plain]
 | 89 | [angin dalu](https://open.spotify.com/track/658ox296pj18QSjzTBGWWy) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X) | [angin dalu](https://open.spotify.com/album/398tNxv0AePP2zEWNYOmKs) | 4:19 |
 | 90 | [Top Topan](https://open.spotify.com/track/5pjJmCYsCzg2xRJHDq18kq) | [Woro Widowati](https://open.spotify.com/artist/0wjrZ5PUcVjAbUUX33JRr8) | [Top Topan](https://open.spotify.com/album/6VB2l8Dz7ozkpgDAw42ehB) | 4:26 |
 
-Snapshot ID: `MCxlZGI1OWI4ZDdmZjY0ZWQ1NTdiNThhOGIzYjZhODFjZDI3ZWNiYzAz`
+Snapshot ID: `MCwxMmRlMzY0NjNmZDBkYjg5MjAzMjZmZGQyNTUwYzdlOGJjOWI4MDc3`

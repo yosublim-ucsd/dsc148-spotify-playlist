@@ -1,12 +1,12 @@
 {
   "description": "Walk the bridge between indie and folk. Cover: Baerd",
-  "num_followers": 76933,
+  "num_followers": 77077,
   "original_name": "Folk Arc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3OTM4NDlmZWQwYmYzMTQyZDkxOWZhZTc1Mzg0NzM1ZjAzZTcwNzk1",
+  "snapshot_id": "MCwyYzk1ZTAxYTIxY2JiNDQzODZhODdiN2Q5MDcxNjk3MjVlZDA4NTMz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "tiny things",
+        "url": "https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB"
+      },
+      "artists": [
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
+        }
+      ],
+      "duration_ms": 150926,
+      "name": "tiny things",
+      "url": "https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "songs",
         "url": "https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ"
       },
@@ -647,22 +663,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "tiny things",
-        "url": "https://open.spotify.com/album/3bKudQjY5CKr4OQaRCkJpB"
-      },
-      "artists": [
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
-        }
-      ],
-      "duration_ms": 150926,
-      "name": "tiny things",
-      "url": "https://open.spotify.com/track/68jZByx2c1UWtRyIX7gpN7"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Cool Dry Place",
         "url": "https://open.spotify.com/album/584CDFxeA55Hrr1dydGfQE"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 159453,
       "name": "Juniper",
       "url": "https://open.spotify.com/track/7boY9U14Ss41yLp320uVGX"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "The Ballad of Betty and Barney Hill",
-        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
-      },
-      "artists": [
-        {
-          "name": "Angelo De Augustine",
-          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
-        }
-      ],
-      "duration_ms": 196755,
-      "name": "The Ballad of Betty and Barney Hill",
-      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -723,6 +707,22 @@
       "duration_ms": 163384,
       "name": "whore",
       "url": "https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The Ballad of Betty and Barney Hill",
+        "url": "https://open.spotify.com/album/68VcIv6kUKYasPKuRjchQC"
+      },
+      "artists": [
+        {
+          "name": "Angelo De Augustine",
+          "url": "https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi"
+        }
+      ],
+      "duration_ms": 196755,
+      "name": "The Ballad of Betty and Barney Hill",
+      "url": "https://open.spotify.com/track/4DxozqavOpL0FODjFxzV4r"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Jockeys of Love",
-        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
-      },
-      "artists": [
-        {
-          "name": "TOLEDO",
-          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
-        }
-      ],
-      "duration_ms": 256629,
-      "name": "Sunday Funday",
-      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "I'm Not Like Alice",
         "url": "https://open.spotify.com/album/26U9UPoJU8Dcng6KqKKjmL"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 136153,
       "name": "I'm Not Like Alice",
       "url": "https://open.spotify.com/track/1AeBPeEi4QbvDLPx3iosv5"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Jockeys of Love",
+        "url": "https://open.spotify.com/album/3yAepUj1zxXIt5g7w6uvYT"
+      },
+      "artists": [
+        {
+          "name": "TOLEDO",
+          "url": "https://open.spotify.com/artist/2xK3hBpuuHSxmHr96TzgDO"
+        }
+      ],
+      "duration_ms": 256629,
+      "name": "Sunday Funday",
+      "url": "https://open.spotify.com/track/2OjZhG8BnvrsVWqGnZk4PO"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Come June",
-        "url": "https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg"
-      },
-      "artists": [
-        {
-          "name": "Mitch Rowland",
-          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
-        }
-      ],
-      "duration_ms": 216964,
-      "name": "Come June",
-      "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Soup Song",
         "url": "https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8"
       },
@@ -951,6 +935,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Come June",
+        "url": "https://open.spotify.com/album/34Z7YoAQ9K3NzV8E8OBxZg"
+      },
+      "artists": [
+        {
+          "name": "Mitch Rowland",
+          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
+        }
+      ],
+      "duration_ms": 216964,
+      "name": "Come June",
+      "url": "https://open.spotify.com/track/3D5Q74gpo1mRbFlkEwIa5a"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Eye On The Bat",
         "url": "https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR"
       },
@@ -963,6 +963,22 @@
       "duration_ms": 176869,
       "name": "Eye On The Bat",
       "url": "https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "To Enjoy is the Only Thing",
+        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+      },
+      "artists": [
+        {
+          "name": "Maple Glider",
+          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+        }
+      ],
+      "duration_ms": 252454,
+      "name": "Good Thing",
+      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -999,18 +1015,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "To Enjoy is the Only Thing",
-        "url": "https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK"
+        "name": "Yard",
+        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
       },
       "artists": [
         {
-          "name": "Maple Glider",
-          "url": "https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk"
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
         }
       ],
-      "duration_ms": 252454,
-      "name": "Good Thing",
-      "url": "https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC"
+      "duration_ms": 245466,
+      "name": "Broadview",
+      "url": "https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1043,22 +1059,6 @@
       "duration_ms": 553213,
       "name": "Snow Globes",
       "url": "https://open.spotify.com/track/0hpDqky5jV8MQqdvMWFv7K"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Yard",
-        "url": "https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9"
-      },
-      "artists": [
-        {
-          "name": "Slow Pulp",
-          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
-        }
-      ],
-      "duration_ms": 245466,
-      "name": "Broadview",
-      "url": "https://open.spotify.com/track/1hTbH1tGOQ2sqVav7iDHfQ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Plum",
-        "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 264954,
-      "name": "Plum",
-      "url": "https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Lotta Love",
         "url": "https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 197624,
       "name": "Lotta Love",
       "url": "https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Plum",
+        "url": "https://open.spotify.com/album/3pFbQCFNSwQgcmU4RzTgLA"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 264954,
+      "name": "Plum",
+      "url": "https://open.spotify.com/track/5IGWNhUvt8pmhlUF5bGz2a"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Sandhills",
-        "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
+        "name": "Bindi in the Dirt",
+        "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
       },
       "artists": [
         {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+          "name": "Mikayla Pasterfield",
+          "url": "https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA"
         }
       ],
-      "duration_ms": 195146,
-      "name": "Sandhills",
-      "url": "https://open.spotify.com/track/6dBkJ5LGEm5oaR3CxAR7yg"
+      "duration_ms": 231573,
+      "name": "Bindi in the Dirt",
+      "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Holdup",
-        "url": "https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk"
+        "name": "Sandhills",
+        "url": "https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF"
       },
       "artists": [
         {
-          "name": "Ethan Tasch",
-          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
         }
       ],
-      "duration_ms": 155262,
-      "name": "Holdup",
-      "url": "https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo"
+      "duration_ms": 195146,
+      "name": "Sandhills",
+      "url": "https://open.spotify.com/track/6dBkJ5LGEm5oaR3CxAR7yg"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1491,6 +1491,22 @@
       "duration_ms": 210281,
       "name": "Planet Song",
       "url": "https://open.spotify.com/track/3PG8fHedXu9L0JOcBGt4EA"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Holdup",
+        "url": "https://open.spotify.com/album/0xwKLtHe9vEa7a4w88guxk"
+      },
+      "artists": [
+        {
+          "name": "Ethan Tasch",
+          "url": "https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw"
+        }
+      ],
+      "duration_ms": 155262,
+      "name": "Holdup",
+      "url": "https://open.spotify.com/track/698FjMKtAofPXufwpCbsxo"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1543,22 +1559,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Barbara",
-        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
-      },
-      "artists": [
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Jenny",
-      "url": "https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Norm",
         "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
       },
@@ -1591,18 +1591,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Bindi in the Dirt",
-        "url": "https://open.spotify.com/album/1TZxkG5PUqA5eRGwtbZoVm"
+        "name": "from here on out",
+        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
       },
       "artists": [
         {
-          "name": "Mikayla Pasterfield",
-          "url": "https://open.spotify.com/artist/5pjqc9QU0GVTrgbmCbjJIA"
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
         }
       ],
-      "duration_ms": 231573,
-      "name": "Bindi in the Dirt",
-      "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
+      "duration_ms": 271421,
+      "name": "from here on out",
+      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Barbara",
+        "url": "https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL"
+      },
+      "artists": [
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Jenny",
+      "url": "https://open.spotify.com/track/3AK2d1ZlEvO4OJe9Lo53xD"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1623,38 +1639,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Lightning",
-        "url": "https://open.spotify.com/album/6tDh0PENW9b8hS7lsZfhCk"
-      },
-      "artists": [
-        {
-          "name": "Will Paquin",
-          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
-        }
-      ],
-      "duration_ms": 195884,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/41RUkJjGhB4bDLZ3oDP2FA"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Sunburn Fades",
-        "url": "https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 233600,
-      "name": "Sunburn Fades",
-      "url": "https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Thompson's Station",
         "url": "https://open.spotify.com/album/4zaSYI7zjDbqxz3KjJEXcV"
       },
@@ -1671,18 +1655,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Cubic Zirconia",
-        "url": "https://open.spotify.com/album/69ZGp2Lhcx5RbGsvgwP6JT"
+        "name": "Lightning",
+        "url": "https://open.spotify.com/album/6tDh0PENW9b8hS7lsZfhCk"
       },
       "artists": [
         {
-          "name": "Katy Kirby",
-          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
+          "name": "Will Paquin",
+          "url": "https://open.spotify.com/artist/0oouuXi8tdasgUgk520Jy6"
         }
       ],
-      "duration_ms": 244218,
-      "name": "Cubic Zirconia",
-      "url": "https://open.spotify.com/track/409WM1TeevBE5DuAuCkkeJ"
+      "duration_ms": 195884,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/41RUkJjGhB4bDLZ3oDP2FA"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1703,18 +1687,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Somewhere",
-        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
+        "name": "Cubic Zirconia",
+        "url": "https://open.spotify.com/album/69ZGp2Lhcx5RbGsvgwP6JT"
       },
       "artists": [
         {
-          "name": "Sun June",
-          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
+          "name": "Katy Kirby",
+          "url": "https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy"
         }
       ],
-      "duration_ms": 247506,
-      "name": "Bad girl",
-      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
+      "duration_ms": 244218,
+      "name": "Cubic Zirconia",
+      "url": "https://open.spotify.com/track/409WM1TeevBE5DuAuCkkeJ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Sunburn Fades",
+        "url": "https://open.spotify.com/album/1YHBRdvhAcSDDV5DypIPia"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 233600,
+      "name": "Sunburn Fades",
+      "url": "https://open.spotify.com/track/5Y1syktNHkkg5dhbeoEBwX"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1735,34 +1735,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "from here on out",
-        "url": "https://open.spotify.com/album/0fC2Pfh9vQetDVO7phh1jM"
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/3tqWpScYda0eUqExXOqQnm"
       },
       "artists": [
         {
-          "name": "lighthearted",
-          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+          "name": "Sun June",
+          "url": "https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb"
         }
       ],
-      "duration_ms": 271421,
-      "name": "from here on out",
-      "url": "https://open.spotify.com/track/01wyoN3xlUf3k3jWSewMoB"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Diamonds",
-        "url": "https://open.spotify.com/album/0yMzpSlb7U4emqlTclNLbM"
-      },
-      "artists": [
-        {
-          "name": "Luluc",
-          "url": "https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72"
-        }
-      ],
-      "duration_ms": 232600,
-      "name": "Diamonds",
-      "url": "https://open.spotify.com/track/4410U1LBFEbAXKdWpclkkD"
+      "duration_ms": 247506,
+      "name": "Bad girl",
+      "url": "https://open.spotify.com/track/4wyQsARSHoKsToZkEss5FD"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1783,6 +1767,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Diamonds",
+        "url": "https://open.spotify.com/album/0yMzpSlb7U4emqlTclNLbM"
+      },
+      "artists": [
+        {
+          "name": "Luluc",
+          "url": "https://open.spotify.com/artist/2Jtfa8vjvzAAGxDfgIkU72"
+        }
+      ],
+      "duration_ms": 232600,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/4410U1LBFEbAXKdWpclkkD"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "gr\u00e6",
         "url": "https://open.spotify.com/album/1iYsYnkc0Bccy66X4GQ2tm"
       },
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Sundowner",
-        "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
-      },
-      "artists": [
-        {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        }
-      ],
-      "duration_ms": 319053,
-      "name": "Campfire",
-      "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Waysides",
         "url": "https://open.spotify.com/album/6Vsrdh2ayCbJuyh6roVVri"
       },
@@ -1827,6 +1811,22 @@
       "duration_ms": 226258,
       "name": "The Solitude",
       "url": "https://open.spotify.com/track/4PHkFP1O9ukoB7RMudN4PM"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Sundowner",
+        "url": "https://open.spotify.com/album/7qmhqRQL8WRl4B0PMlYfHk"
+      },
+      "artists": [
+        {
+          "name": "Kevin Morby",
+          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
+        }
+      ],
+      "duration_ms": 319053,
+      "name": "Campfire",
+      "url": "https://open.spotify.com/track/3kkTF2ffofmjrKA3pf5kDF"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Crispy Crunchy Nothing",
+        "url": "https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F"
+      },
+      "artists": [
+        {
+          "name": "PACKS",
+          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
+        }
+      ],
+      "duration_ms": 139559,
+      "name": "Cheese",
+      "url": "https://open.spotify.com/track/1MD78xqTQoIXvZCn0CFyvF"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Three Hours",
         "url": "https://open.spotify.com/album/2mYlWSBNyu22LyQ9qy50hT"
       },
@@ -1883,6 +1899,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Metaphor",
+        "url": "https://open.spotify.com/album/1IX1wLeq3fcZuV4IT5Uo6E"
+      },
+      "artists": [
+        {
+          "name": "Marlon Funaki",
+          "url": "https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6"
+        }
+      ],
+      "duration_ms": 237794,
+      "name": "Metaphor",
+      "url": "https://open.spotify.com/track/2khytXmfph4aUqGqIHrw70"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Shell",
         "url": "https://open.spotify.com/album/6esFCGuOOIckYOmpFPxpBL"
       },
@@ -1899,22 +1931,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Crispy Crunchy Nothing",
-        "url": "https://open.spotify.com/album/6iZCdzygVnM4rMAPNW5I5F"
-      },
-      "artists": [
-        {
-          "name": "PACKS",
-          "url": "https://open.spotify.com/artist/1ZgzpPiODfKa4B9Fkw1dWm"
-        }
-      ],
-      "duration_ms": 139559,
-      "name": "Cheese",
-      "url": "https://open.spotify.com/track/1MD78xqTQoIXvZCn0CFyvF"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Only You",
         "url": "https://open.spotify.com/album/0kGzSpCAb6tLLuyI9vhOOg"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 276880,
       "name": "Only You",
       "url": "https://open.spotify.com/track/7BaYmGOuHwdosJil9lObDL"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Metaphor",
-        "url": "https://open.spotify.com/album/1IX1wLeq3fcZuV4IT5Uo6E"
-      },
-      "artists": [
-        {
-          "name": "Marlon Funaki",
-          "url": "https://open.spotify.com/artist/3BcSXip92N0HwJRA9sVmP6"
-        }
-      ],
-      "duration_ms": 237794,
-      "name": "Metaphor",
-      "url": "https://open.spotify.com/track/2khytXmfph4aUqGqIHrw70"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Norm",
-        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Telephone",
-      "url": "https://open.spotify.com/track/6kmeI9upOHk6TRSi2StNlr"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Local Valley",
         "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 235773,
       "name": "Visions",
       "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Norm",
+        "url": "https://open.spotify.com/album/0TaN6TZg6BpT0lQNJAhGrC"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Telephone",
+      "url": "https://open.spotify.com/track/6kmeI9upOHk6TRSi2StNlr"
     },
     {
       "added_at": "2023-10-06 04:00:00",

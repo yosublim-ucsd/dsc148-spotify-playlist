@@ -4,7 +4,7 @@
 
 > Gentle Ambient piano to help you fall asleep.
 
-867 songs - 1 day 19 hr 39 min
+871 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Beatific](https://open.spotify.com/track/3ggQqaU6hdn5udlJEGt5Ut) | [Caius Biel](https://open.spotify.com/artist/7HFBFAbRfdiaHWUXzU1Vsq) | [Beatific](https://open.spotify.com/album/4reMaKYbd4T46jVORffBF4) | 3:16 | 2021-06-16 | 2023-06-17 |
 | [Beautiful Imagination](https://open.spotify.com/track/5LEHlRPjGcZ5RdagAwXpHS) | [Little Circuits](https://open.spotify.com/artist/1UyzP6admqk7jIIgedlD4B) | [Beautiful Imagination](https://open.spotify.com/album/3hFObbQaeADDqmUJM6BXlQ) | 2:23 | 2021-03-14 |  |
 | [Beautiful Whispers](https://open.spotify.com/track/1oOqtVnJU3bjrIqypr0J1V) | [Eleonor Bauer](https://open.spotify.com/artist/5FeOCRq508gqckvhfqdQY6) | [Peaceful Atmospheres for Sleep and Rest Vol 3](https://open.spotify.com/album/06DmjX4lMysgspXtRXc1Cn) | 2:53 | 2022-09-13 |  |
+| [Beautiful Wish](https://open.spotify.com/track/0TMLICmbI09bnhsA0f2brI) | [Aveline Auclair](https://open.spotify.com/artist/6FL5lxsl1kpKAEUeDliRoC) | [Beautiful Wish](https://open.spotify.com/album/0qIWJod5my5ZEGOIUhEOIw) | 2:46 | 2023-10-10 |  |
 | [Beauty Inside](https://open.spotify.com/track/3EoB47UhhyDo8pQVZ3AZnN) | [Blissful Heaven](https://open.spotify.com/artist/4QEyQYiRdLu1c6wzHyp0ds) | [Kundalini Yoga 2](https://open.spotify.com/album/5FsOZs6yup9qNrFG82VCKR) | 2:32 | 2021-10-06 | 2022-02-18 |
 | [Beauty Sleep](https://open.spotify.com/track/2ys5FmFBhMgJeK2oKzG9bB) | [Beautiful Sleep](https://open.spotify.com/artist/4wapzvXqBROuuOhKmB0mxh) | [Hush Little Darling](https://open.spotify.com/album/3RkigDYewsl1fmS4pvnZSq) | 3:18 | 2020-10-20\* | 2020-12-12 |
 | [Becalming](https://open.spotify.com/track/0SHIkGcjuVoAuAbezjBfiT) | [Rebecka Aether](https://open.spotify.com/artist/06s7ddCmb1OcHlZzu9DzIr) | [Becalming](https://open.spotify.com/album/69OXN86g9WZ04FvDs0Nlgp) | 3:10 | 2021-03-14 | 2023-03-18 |
@@ -254,6 +255,7 @@
 | [Early Sunrise](https://open.spotify.com/track/4cQslVzf6ICrDuEozu5NPv) | [In Stars Above](https://open.spotify.com/artist/1FxVcJX21nISmUFSvaE9fh) | [Early Sunrise](https://open.spotify.com/album/6BcDkBlrLSLsbK4afKiLj9) | 3:04 | 2020-10-20\* | 2021-03-14 |
 | [Eascodset](https://open.spotify.com/track/1BMgyrYXHolIe6e0oU9OqQ) | [Phoenomenatic](https://open.spotify.com/artist/1jOAI3YkQLJswHVGCIKbu4) | [Eascodset](https://open.spotify.com/album/7zPoPXFJwRprw2MwaLjr7V) | 3:06 | 2022-07-22 |  |
 | [Easy Mind](https://open.spotify.com/track/3uGD7qaTWdiIDQZxnKOXr2) | [Alma Meris](https://open.spotify.com/artist/7nHBvqVu3gxM1AFY5gHQs0) | [Easy Mind](https://open.spotify.com/album/7DnwBjJZheJD5XHqjE1aSl) | 2:40 | 2020-11-21 | 2021-06-16 |
+| [Eden](https://open.spotify.com/track/4ORHZVpfFF3t4qwyU6PT5g) | [Sara Kisha](https://open.spotify.com/artist/77qANxC0CCaFtLxLCJfCEM) | [Eden](https://open.spotify.com/album/4OYtAWXVfqSLglJqGsH1zI) | 3:20 | 2023-10-10 |  |
 | [Eenzame stilte](https://open.spotify.com/track/1e6nwN0hH6Ui144FkjL53z) | [Dries Wold](https://open.spotify.com/artist/7nUGsX8XXGenXjcE2ZLMEv) | [Eenzame stilte \(Ambient version\)](https://open.spotify.com/album/0tPYMZZWlYoevwpJUX79be) | 2:33 | 2021-05-04 | 2021-09-03 |
 | [Ein neuer Tag](https://open.spotify.com/track/0m3sUxYwx3DRzB291geuJR) | [Lina Amsler](https://open.spotify.com/artist/5i7lSqtuk0e6UOc9prZ88q) | [Ein neuer Tag](https://open.spotify.com/album/3k8hFl0PUK58om8iGsTHaD) | 2:56 | 2021-09-22 | 2023-02-18 |
 | [Eleven](https://open.spotify.com/track/2VS5gBeWwMYhrGOJAs1aYc) | [Muh Re](https://open.spotify.com/artist/4FimVNSfsYDIj9JdNq1gXe) | [11](https://open.spotify.com/album/0oAnFMLX1yGvFXAQP7Uewx) | 2:50 | 2022-12-02 |  |
@@ -542,6 +544,7 @@
 | [Nox](https://open.spotify.com/track/6e8eaU1oPzSu0WXnbSyZt7) | [Wolfgang Snow](https://open.spotify.com/artist/6FDOmi6UcqTevNjdwQfpsD) | [Nox](https://open.spotify.com/album/7H7xsgmAr1XitXSeiP6ADc) | 2:28 | 2021-06-16 | 2023-06-17 |
 | [Nuuk](https://open.spotify.com/track/2Wx7l5zsE7N5YQssh32eqq) | [Peer Lynge](https://open.spotify.com/artist/6RCPJMCnR1oF3uis5UNBp7) | [Nuuk](https://open.spotify.com/album/4pT4omK2Xji9ZIdh0JCHdb) | 2:44 | 2020-10-20\* | 2021-05-04 |
 | [Nyugalom](https://open.spotify.com/track/235v7dHl1bUhimWpF0rGT4) | [Vas Bela](https://open.spotify.com/artist/3cImBo0rZ6vxsXJnyxORzK) | [Nyugalom](https://open.spotify.com/album/5TfVZpufvjjQRm758oCRa8) | 3:13 | 2020-10-20\* | 2020-12-12 |
+| [Ocean Breeze](https://open.spotify.com/track/4Yc25I1SqcrubwEmg8DSry) | [Salen](https://open.spotify.com/artist/5KNC8OGbrY5TThciLb1ZpN) | [Ocean Breeze](https://open.spotify.com/album/2DYUFJ1wSGfU5fYZ9fY5pI) | 3:10 | 2023-10-10 |  |
 | [Ocean Sleep](https://open.spotify.com/track/3XZIrkKbfuKGmgFv4m3Gmu) | [Good Night World](https://open.spotify.com/artist/50XjDK4NtbS0HAv1aJkZwo) | [Good Night World](https://open.spotify.com/album/5nY0DtC9fqJZbWGdN32hvK) | 2:57 | 2020-10-20\* | 2021-03-14 |
 | [Oceans](https://open.spotify.com/track/2QGOgN08U9BsyakxPg90hy) | [Nikos Romani](https://open.spotify.com/artist/3rFlHNMGnbPouTFXv4Z8U4) | [Oceans](https://open.spotify.com/album/0uzlDWveBGUjsWybBdio6H) | 4:50 | 2020-10-20\* | 2020-12-12 |
 | [Oceanwide](https://open.spotify.com/track/7Mr3SK5zRJ0mrdNraurM5Z) | [Harlow Moss](https://open.spotify.com/artist/1sVm3d1J0iADPftVNfTdBE) | [Oceanwide](https://open.spotify.com/album/0zrCCtHKET7BZkwwuo7Mhu) | 2:32 | 2022-03-15 |  |
@@ -568,6 +571,7 @@
 | [Parts Unknown](https://open.spotify.com/track/7zoNjIq4DZadcFOxwKvrlC) | [Night Poets](https://open.spotify.com/artist/13Dj1DIYUAAhlmDPdgoDui) | [Parts Unknown](https://open.spotify.com/album/0DY9PT0TNIiAmWSPw3GhK6) | 3:57 | 2020-10-20\* | 2021-02-06 |
 | [Passages](https://open.spotify.com/track/5VzaFU0O3pTmG3fnjs0Ff0) | [Kim Nalah](https://open.spotify.com/artist/3EY39ZsyVU9c2Uw17ILmcJ) | [Passages](https://open.spotify.com/album/4XZCuM5CJRMMAvV1apBvXH) | 3:01 | 2023-09-29 |  |
 | [Path to Sleep](https://open.spotify.com/track/4s9W9B4fY7lZ1wriVJy11V) | [Arush Mandal](https://open.spotify.com/artist/5WSATrMjcuhKibg0jp4uHI) | [Wisdom](https://open.spotify.com/album/1Zv1m9DKQhnyQ1ayAzCHXp) | 3:04 | 2020-10-20\* | 2021-06-16 |
+| [Patterns](https://open.spotify.com/track/3bF0QR3cIkE5bSXPuLYnuL) | [Dronia](https://open.spotify.com/artist/5Z1hoAJ3HE5peZejeQP2as) | [Patterns](https://open.spotify.com/album/2EZsiUDSdF1LR8Cr7EMsgN) | 3:03 | 2023-10-10 |  |
 | [Pause](https://open.spotify.com/track/2IrOsuqSttz8KBastkZCzy) | [Serene & Pax](https://open.spotify.com/artist/2oUi0GgBsOQRYea2aOa52L) | [Pause](https://open.spotify.com/album/5BXX9xYJVjUczw1gsM51Yx) | 2:43 | 2021-07-07 | 2023-06-03 |
 | [Peace Of Mind](https://open.spotify.com/track/1LUmUwchFBJUz03G7XXri8) | [Saveliy Lleu](https://open.spotify.com/artist/6GR4x2rlUUYUrj2mimfXm9) | [Peace Of Mind](https://open.spotify.com/album/7FGsISOQimBeFG9vJWKaWP) | 2:34 | 2022-10-21 |  |
 | [Peace Within](https://open.spotify.com/track/1Wfu5TKZ6B6B7rkpIEmrUE) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Nocturne](https://open.spotify.com/album/7b2fxYSSumh0ViCuTTUQOc) | 3:48 | 2020-10-20\* | 2021-02-06 |

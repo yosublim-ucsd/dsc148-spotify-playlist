@@ -4,7 +4,7 @@
 
 > This is Rauw Alejandro\. The essential tracks, all in one playlist.
 
-70 songs - 4 hr 10 min
+71 songs - 4 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,13 +22,14 @@
 | [CORAZÓN DESPEINADO](https://open.spotify.com/track/6yNIT5iO7lUGOFDLG5CPJC) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:27 | 2023-04-06 | 2023-07-12 |
 | [Cosa Guapa](https://open.spotify.com/track/7aWiJeMyxxPEyjwvZyauAF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 4:15 | 2023-05-27 |  |
 | [CUANDO BAJE EL SOL](https://open.spotify.com/track/4OVHxReloGwGriqVFF2M79) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 2:46 | 2023-07-09 |  |
-| [CUKI](https://open.spotify.com/track/3tYDYSZU2Wn7zudbFEJeko) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 2:45 | 2023-07-09 |  |
+| [CUKI](https://open.spotify.com/track/3tYDYSZU2Wn7zudbFEJeko) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 2:45 | 2023-07-09 | 2023-10-11 |
 | [Cúrame](https://open.spotify.com/track/1FlL8ycld6uVDDyhV7P5FA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:44 | 2023-04-06 |  |
 | [DE CAROLINA](https://open.spotify.com/track/6J3kt4eAqRffh5lBuHJJSO) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:01 | 2023-04-06 |  |
 | [DEJAU'](https://open.spotify.com/track/2aCbaVxzJctzRCde49qLGC) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Playero](https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:02 | 2023-04-06 |  |
 | [Desenfocao'](https://open.spotify.com/track/2CEf2gU5ZJamLXa3NrgAvA) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 2:50 | 2023-04-06 |  |
 | [Desesperados](https://open.spotify.com/track/6mmPpaltUZK7xjNlBPQQ0p) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [VICE VERSA](https://open.spotify.com/album/2Nt6MDJXfoxQ22tIQgWXIh) | 3:44 | 2023-04-06 |  |
 | [Dile a El](https://open.spotify.com/track/13Tbv4nflNxg9kYBIbJnd9) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Afrodisíaco](https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v) | 3:29 | 2023-04-06 |  |
+| [DILUVIO](https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:17 | 2023-10-10 |  |
 | [DIME QUIÉN????](https://open.spotify.com/track/1ImWmtI7DM2uFPNJHHbD8g) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 2:44 | 2023-04-06 | 2023-07-12 |
 | [Dream Girl \- Remix](https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dream Girl \(Remix\)](https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86) | 3:12 | 2023-04-06 |  |
 | [El Efecto](https://open.spotify.com/track/4SJHHpKhcuXwDsCsPqshXj) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [El Efecto](https://open.spotify.com/album/6C8ObcezFoorqPgY2J320r) | 3:37 | 2023-04-06 |  |

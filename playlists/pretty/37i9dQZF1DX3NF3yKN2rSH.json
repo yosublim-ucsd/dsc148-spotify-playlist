@@ -1,12 +1,12 @@
 {
   "description": "New and classic Gospel songs to celebrate the Easter season.",
-  "num_followers": 53740,
+  "num_followers": 53736,
   "original_name": "Easter Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OWY4YTFjMmU3OTA5ZmY2ZWVjYzJiZGEwNjM1NzJhYmIyZDgzODg2",
+  "snapshot_id": "MCwwNzBhNDgxZTFiZDJiMzNjYWQwOTk5N2Q5MmI4ZjA2NjNkN2Q2Zjg0",
   "tracks": [
     {
       "added_at": "2023-04-09 08:49:39",
@@ -871,26 +871,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Choirmaster",
-        "url": "https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR"
-      },
-      "artists": [
-        {
-          "name": "Ricky Dillard",
-          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
-        },
-        {
-          "name": "Tiff Joy",
-          "url": "https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9"
-        }
-      ],
-      "duration_ms": 243914,
-      "name": "Release - Live/Edit",
-      "url": "https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Evidence",
         "url": "https://open.spotify.com/album/3X10R33baD5m8UJ0KeIfSo"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 130214,
       "name": "Raised to Life (feat. The Walls Group)",
       "url": "https://open.spotify.com/track/4boN2DqFBWlVTIQhBgNJBo"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Choirmaster",
+        "url": "https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR"
+      },
+      "artists": [
+        {
+          "name": "Ricky Dillard",
+          "url": "https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM"
+        },
+        {
+          "name": "Tiff Joy",
+          "url": "https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9"
+        }
+      ],
+      "duration_ms": 243914,
+      "name": "Release - Live/Edit",
+      "url": "https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Alone In His Presence",
-        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 277533,
-      "name": "Blood Medley",
-      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Easter Project",
         "url": "https://open.spotify.com/album/09ofZQBVrHv1cQoFJDdrTB"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 273963,
       "name": "The Resurrection",
       "url": "https://open.spotify.com/track/6avTKEs6LUPsjfiA3w3uVm"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Alone In His Presence",
+        "url": "https://open.spotify.com/album/71nz5Lyn5UQI8AeELu2BaZ"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 277533,
+      "name": "Blood Medley",
+      "url": "https://open.spotify.com/track/2Krj7jYL2jZJh3SM0Zbwqe"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
+        "name": "He Lives",
+        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
+      },
+      "artists": [
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+        }
+      ],
+      "duration_ms": 457000,
+      "name": "He Lives",
+      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
         "name": "Live in Concert",
         "url": "https://open.spotify.com/album/1DwIkkDUYWYgslR1McB65B"
       },
@@ -1591,22 +1607,6 @@
       "duration_ms": 130306,
       "name": "Oh Happy Day (feat. Shirley Miller)",
       "url": "https://open.spotify.com/track/6PH0etRGVIaYBpKmXYCHYo"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
-        "name": "He Lives",
-        "url": "https://open.spotify.com/album/3UUmUr51F13KRlmLFAf8QH"
-      },
-      "artists": [
-        {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
-        }
-      ],
-      "duration_ms": 457000,
-      "name": "He Lives",
-      "url": "https://open.spotify.com/track/5dKh33qcTXewtJWEO44q57"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Live: The Praise, the Worship",
-        "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        }
-      ],
-      "duration_ms": 329186,
-      "name": "Oh Holy Lamb",
-      "url": "https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb"
-    },
-    {
-      "added_at": "2023-04-09 08:49:39",
-      "album": {
         "name": "Family & Friends Choir III",
         "url": "https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 325666,
       "name": "He Proved His Love",
       "url": "https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl"
+    },
+    {
+      "added_at": "2023-04-09 08:49:39",
+      "album": {
+        "name": "Live: The Praise, the Worship",
+        "url": "https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        }
+      ],
+      "duration_ms": 329186,
+      "name": "Oh Holy Lamb",
+      "url": "https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb"
     },
     {
       "added_at": "2023-04-09 08:49:39",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2023-04-09 08:49:39",
       "album": {
-        "name": "Sing A Nu Song",
-        "url": "https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t"
+        "name": "Beginnings",
+        "url": "https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR"
       },
       "artists": [
         {
-          "name": "Deitrick Haddon",
-          "url": "https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9"
+          "name": "Richard Smallwood",
+          "url": "https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP"
         }
       ],
-      "duration_ms": 370826,
-      "name": "I Know It Was the Blood",
-      "url": "https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP"
+      "duration_ms": 348773,
+      "name": "Calvary",
+      "url": "https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0"
     }
   ],
   "unique_name": "Easter Gospel",

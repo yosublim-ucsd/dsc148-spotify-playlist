@@ -425,6 +425,24 @@
     },
     {
       "album": {
+        "name": "Holy Forever",
+        "url": "https://open.spotify.com/album/3lEsF7vsvyhRuP0MTjCuj4"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307460,
+      "name": "Holy Forever - Single Version",
+      "url": "https://open.spotify.com/track/7EhoE7vi7slUIsMKrfy1yB"
+    },
+    {
+      "album": {
         "name": "CeCe Winans",
         "url": "https://open.spotify.com/album/0rJg3QtLoMmkkK91BOH69P"
       },
@@ -776,6 +794,28 @@
       "duration_ms": 207400,
       "name": "More Than What I Wanted",
       "url": "https://open.spotify.com/track/5eDAm9j65OVuw3jTiO9IYS"
+    },
+    {
+      "album": {
+        "name": "My Tribute (To God Be The Glory)",
+        "url": "https://open.spotify.com/album/1qaeNHwNFPFbOviqzzhEVt"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341986,
+      "name": "My Tribute (To God Be The Glory)",
+      "url": "https://open.spotify.com/track/6SlbC6p7ZZD73bhjARDV86"
     },
     {
       "album": {

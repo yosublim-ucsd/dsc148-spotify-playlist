@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 
 > On a pas pu appeler ça Québec Shiny Tunes\. Photo: EXTERIO
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,223 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,224 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcSKbfhHetFR.md) - [plain]
 | 49 | [Si j'ai tort](https://open.spotify.com/track/0AjB4QVAB8T2DZgt0GrJPx) | [France D'Amour](https://open.spotify.com/artist/5g40u1MQUx691VciJIh3jI) | [Le silence des roses](https://open.spotify.com/album/2J5HzUbk4AxuM8j1sbyWKF) | 4:23 |
 | 50 | [Brooklyn](https://open.spotify.com/track/5UEPGKnRkwZxYB8wch5Hxp) | [Bonjour Brumaire](https://open.spotify.com/artist/4af2HIvHL4Rl6hID6GOdCv) | [De la nature des foules](https://open.spotify.com/album/1UBtBPyjtPpJEgey7lbFds) | 4:04 |
 
-Snapshot ID: `MCw1NDM5OGYxMTIwZDg0YmRiODhkMmRhMThjYTgyOTc1NmE4ODc1NGIz`
+Snapshot ID: `MCxjODU5NjEyZGE3YTJiNTEyOWY2MjEwNjM0ZTJlM2Q5ODYzZTgyMjQ5`

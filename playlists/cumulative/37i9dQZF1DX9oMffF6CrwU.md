@@ -4,7 +4,7 @@
 
 > The creepiest folk and roots songs, sure to raise the hair on your neck.
 
-88 songs - 5 hr 24 min
+89 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Dyin Day](https://open.spotify.com/track/2VNrqHrmeQ3NeOOopjKOwq) | [Anaïs Mitchell](https://open.spotify.com/artist/7K5Lm5dxoEwEpOS0Fc3l3s) | [Young Man In America](https://open.spotify.com/album/4RNXc0opm9igpGD1Ga9FsY) | 3:06 | 2022-10-27 |  |
 | [Everybody Walkin' This Land](https://open.spotify.com/track/7LXLgoroFNCQQpMQt0tMA7) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Everybody Walkin' This Land](https://open.spotify.com/album/4JkTiX8mi8aEkAg8Pmal3c) | 3:06 | 2022-10-27 |  |
 | [Feast Of The Dead](https://open.spotify.com/track/4TrVfDJGf5mHvWGT2Lch7B) | [Buddy & Julie Miller](https://open.spotify.com/artist/61YXt5O4gENijzfR9cjjSV), [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp), [Julie Miller](https://open.spotify.com/artist/1LpjGrgy09O2ElDMR3TDfu) | [Breakdown On 20th Ave\. South](https://open.spotify.com/album/3VqWUojroBnrQV1DGL346Z) | 3:59 | 2022-10-27 |  |
+| [Francis](https://open.spotify.com/track/7g07tmYNBITxvbR3KaTZjU) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X), [Max García Conover](https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4) | [Among Horses III](https://open.spotify.com/album/1EeXJ45fmNfRtHRGPWAjvz) | 2:03 | 2023-10-10 |  |
 | [Friend of the Devil](https://open.spotify.com/track/6O60CS8ck9bmHyOJOWp61m) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Day of the Dead](https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz) | 4:31 | 2022-10-27 |  |
 | [Gallows Pole](https://open.spotify.com/track/5L1BHZ2uApRTpP95yGykjv) | [Willie Watson](https://open.spotify.com/artist/5j9IEu1SEY0JslCPmfVsgq) | [Folksinger Vol\. 2](https://open.spotify.com/album/2CBLeaL8ProyeOOhc1QFpb) | 4:06 | 2022-10-27 |  |
 | [Ghosts That We Knew](https://open.spotify.com/track/0ZZ22x24tcXRPvEnZLpt2m) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Babel](https://open.spotify.com/album/3keXhA98WpXzqn5e3oQkx6) | 5:39 | 2022-10-27 | 2022-11-13 |

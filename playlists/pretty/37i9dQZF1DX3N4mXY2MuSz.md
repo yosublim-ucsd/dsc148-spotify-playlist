@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,516 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,513 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 33 | [Fool's Holiday](https://open.spotify.com/track/3s44CRFEl7bbZcYoervR3L) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:43 |
 | 34 | [I Won't Be Home For Christmas](https://open.spotify.com/track/41olw7iIGVyds8dnSR9pb0) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [I Won't Be Home For Christmas](https://open.spotify.com/album/6aXNm9ZaI6eKoRvaVBwU9j) | 3:18 |
 | 35 | [White Christmas](https://open.spotify.com/track/1Hal68E1MbcY7GPcsQbqVm) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Christmas Songs](https://open.spotify.com/album/6C89e7cpRmYu1SSKK3GcwS) | 1:49 |
-| 36 | [Is This Christmas? \- Radio Edit](https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:37 |
-| 37 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/2rFjx4qhTiyQwCAnNSnJQs) | 3:07 |
+| 36 | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/track/3FaUJo1nrRUm51tc4nldkg) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Christmas \(Baby Please Come Home\)](https://open.spotify.com/album/2rFjx4qhTiyQwCAnNSnJQs) | 3:07 |
+| 37 | [Is This Christmas? \- Radio Edit](https://open.spotify.com/track/5gWJr20lfpkdmUh9wo7V1W) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation \(Special Edition\)](https://open.spotify.com/album/03403404Rwa4suo4nzYyUY) | 3:37 |
 | 38 | [We Wish You a Merry Christmas](https://open.spotify.com/track/2dFbGpUtgwwkB169RoSB9B) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 2:12 |
 | 39 | [Jack Skellington](https://open.spotify.com/track/3n6jtHaCd5Jf06akv6B8Ue) | [The Jins](https://open.spotify.com/artist/5WvFLGeK0O8imCwfQF1j3b) | [Jack Skellington](https://open.spotify.com/album/3F0gEqWQO2FXYcSSmSPcZp) | 2:53 |
 | 40 | [Forget December](https://open.spotify.com/track/2BHNw4MANcwKf69MF4LR8z) | [Something Corporate](https://open.spotify.com/artist/71h7GTahhKcSkQ1ayhTvOD) | [Played In Space: The Best of Something Corporate](https://open.spotify.com/album/0xmgh2wvcRW6jNZDq2YTmR) | 3:12 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 60 | [Mr\. Winter](https://open.spotify.com/track/3dboEgQj1XkorQYxcj62PY) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | […And A Happy New Year](https://open.spotify.com/album/0nvXgp11ABRjr2BFuBm3rP) | 3:21 |
 | 61 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/64q83lEZPlPy88UMvdbiTB) | [Issues](https://open.spotify.com/artist/3zRstk92RGCVDyslSySNsm) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:47 |
 | 62 | [Nothing For Christmas](https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:35 |
-| 63 | [It's Christmas And I Fucking Miss You](https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh), [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [It's Christmas And I Fucking Miss You](https://open.spotify.com/album/59gyPN2FnzfC6w9mrkebEn) | 2:41 |
-| 64 | [Santa Baby](https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Santa Baby](https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH) | 2:38 |
+| 63 | [Santa Baby](https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Santa Baby](https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH) | 2:38 |
+| 64 | [It's Christmas And I Fucking Miss You](https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh), [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [It's Christmas And I Fucking Miss You](https://open.spotify.com/album/59gyPN2FnzfC6w9mrkebEn) | 2:41 |
 | 65 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 |
 | 66 | [Decemberism](https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [The Human Highlight Reel](https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3) | 3:04 |
 | 67 | [New Year's Revolution](https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Stoke Extinguisher](https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7) | 2:19 |
-| 68 | [This Christmas](https://open.spotify.com/track/7E7UX0xNqCJ6GBfoG1S9iJ) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:03 |
-| 69 | [Somewhere in My Memory](https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Somewhere in My Memory](https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa) | 2:29 |
+| 68 | [Somewhere in My Memory](https://open.spotify.com/track/0w06ax9ZDaTbFFmD2wOCnu) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Somewhere in My Memory](https://open.spotify.com/album/3aCzUZ1LlCUINl0yKQaGHa) | 2:29 |
+| 69 | [This Christmas](https://open.spotify.com/track/7E7UX0xNqCJ6GBfoG1S9iJ) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:03 |
 | 70 | [Rudolph The Red\-Nosed Reindeer](https://open.spotify.com/track/2Symnv19lk0n4TsYRzM6O4) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Goldfinger Christmas EP](https://open.spotify.com/album/01EZvMeQxgkRFmVQ2LiR5a) | 1:26 |
 | 71 | [This Time of Year](https://open.spotify.com/track/6dx7fWgnbnYYP1mGMzORwm) | [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK) | [Medium Rare](https://open.spotify.com/album/3OfHQ8ixlhgrSt8avPSiVO) | 2:17 |
 | 72 | [Father Christmas](https://open.spotify.com/track/4ye8DKOAbTLH5a2Y0Zpxkn) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:29 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 74 | [Christmas by the Phone](https://open.spotify.com/track/2QnFQnvjcdzFra2fxf8AlP) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N) | 3:01 |
 | 75 | [Winter Wonderland](https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Winter Wonderland](https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv) | 2:01 |
 
-Snapshot ID: `MCwyMzM0NWViN2EwNTdmY2JiZWNkZGMxYjQ0MTQ3NTQ3MmM1ZTM0NzRk`
+Snapshot ID: `MCw1MzU2Nzg3Y2E2ZmU2NjZiMDY2NWY1OGU4ZWE3ZWRkMzJmMzBlYjky`

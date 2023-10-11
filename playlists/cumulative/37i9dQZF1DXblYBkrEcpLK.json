@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u6c34\u6a39\u5948\u3005 (Nana Mizuki)",
+  "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u5185\u7530\u771f\u793c(Maaya Uchida)",
   "name": "EQUAL Anime",
   "tracks": [
     {
@@ -2519,6 +2519,24 @@
     },
     {
       "album": {
+        "name": "Love You Tender!",
+        "url": "https://open.spotify.com/album/0teYYt0UReRcl1Dv1rIBaU"
+      },
+      "artists": [
+        {
+          "name": "Maaya Uchida",
+          "url": "https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224920,
+      "name": "Love You Tender!",
+      "url": "https://open.spotify.com/track/1EE8P5OZGivcXrP6dqzGDj"
+    },
+    {
+      "album": {
         "name": "Love-Evidence",
         "url": "https://open.spotify.com/album/6TDFwzNnos4RFkmDG7lNnG"
       },
@@ -2746,7 +2764,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 259225,
       "name": "Never Say Goodbye",
       "url": "https://open.spotify.com/track/4xBgTB0jPU3EM1yxQuD5vf"
@@ -3770,7 +3788,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 181594,
       "name": "Shogeki",
       "url": "https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO"
@@ -4594,7 +4612,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 183531,
       "name": "U - English Version",
       "url": "https://open.spotify.com/track/169YBmYRX0JNR3o4CJVWXY"
@@ -4930,6 +4948,24 @@
       "duration_ms": 138386,
       "name": "Zanshi",
       "url": "https://open.spotify.com/track/6P9SwHf2xX5qWr7LYsuwS6"
+    },
+    {
+      "album": {
+        "name": "ZOOM ZOOM",
+        "url": "https://open.spotify.com/album/1A6g2ZDdb7ggiiTXUbEuMP"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192733,
+      "name": "ZOOM ZOOM",
+      "url": "https://open.spotify.com/track/3DZwsHxTYjCcMUTcSkATPl"
     },
     {
       "album": {
@@ -6304,7 +6340,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 213560,
       "name": "\u30b9\u30af\u30e9\u30c3\u30d7\u30a2\u30fc\u30c8",
       "url": "https://open.spotify.com/track/1cza4rtohdOAOZNtDQWCYO"
@@ -8240,7 +8276,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 269000,
       "name": "\u660e\u3051\u661f",
       "url": "https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12"
@@ -8432,7 +8468,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 245826,
       "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
       "url": "https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2"
@@ -8992,7 +9028,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-04",
+      "date_removed": null,
       "duration_ms": 309427,
       "name": "\u82b1\u54b2\u307f",
       "url": "https://open.spotify.com/track/0iL43uP0m7L7sxNR98b8nv"
@@ -9054,6 +9090,24 @@
       "duration_ms": 208920,
       "name": "\u8ca0\u3051\u30a4\u30d9\u5b9f\u6cc1\u30d7\u30ec\u30a4",
       "url": "https://open.spotify.com/track/7KRcAcbxPVrQLHouMK9hvB"
+    },
+    {
+      "album": {
+        "name": "\u8cb4\u65b9\u306e\u5074\u306b\u3002",
+        "url": "https://open.spotify.com/album/4l2NmkiWx4EKEfZ1d4QXSM"
+      },
+      "artists": [
+        {
+          "name": "Riria.",
+          "url": "https://open.spotify.com/artist/1J6OD7vLbjEuFVgVRlusmS"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242321,
+      "name": "\u8cb4\u65b9\u306e\u5074\u306b\u3002",
+      "url": "https://open.spotify.com/track/6TTAZeyRDN03BHlhQ9Lq6L"
     },
     {
       "album": {

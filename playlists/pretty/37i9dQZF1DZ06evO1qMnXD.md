@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 
 > This is Mitski\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,215 likes - 45 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,716 likes - 45 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,11 +17,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 | 7 | [Me and My Husband](https://open.spotify.com/track/3pANfZVFdtuVnJsE6xa5Ox) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:17 |
 | 8 | [First Love/Late Spring](https://open.spotify.com/track/3sslYZcFKtUvIEWN9lADgr) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Bury Me At Makeout Creek](https://open.spotify.com/album/3I2KkX13lHXuYqfBjSOopo) | 4:38 |
 | 9 | [Liquid Smooth](https://open.spotify.com/track/3XCveEutwTaDiekRkkfdp9) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 2:49 |
-| 10 | [I Don't Like My Mind](https://open.spotify.com/track/1l0BBsLElenQWul8Fn8tT1) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:25 |
+| 10 | [Buffalo Replaced](https://open.spotify.com/track/06m6Q2ZUHNsHGEHK9m8hLf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:40 |
 | 11 | [Nobody](https://open.spotify.com/track/2P5yIMu2DNeMXTyOANKS6k) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 3:13 |
 | 12 | [I Want You](https://open.spotify.com/track/7FHj19QQigvMH1onMYRNLn) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 3:03 |
 | 13 | [Brand New City](https://open.spotify.com/track/47k7FCxk7ylTwKCnJ3QTVc) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 2:12 |
-| 14 | [Buffalo Replaced](https://open.spotify.com/track/06m6Q2ZUHNsHGEHK9m8hLf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:40 |
+| 14 | [I Don't Like My Mind](https://open.spotify.com/track/1l0BBsLElenQWul8Fn8tT1) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:25 |
 | 15 | [A Pearl](https://open.spotify.com/track/7fd3aMiuwHWKsTdZafjOfZ) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:36 |
 | 16 | [Goodbye, My Danish Sweetheart](https://open.spotify.com/track/5aBGhgBAQui7ESYNH0zFJB) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 2:17 |
 | 17 | [A Burning Hill](https://open.spotify.com/track/6gz3orrUlKresI8GShSkdq) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Puberty 2](https://open.spotify.com/album/4Coa8Eb9SzjrkwWEom963Q) | 1:49 |
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1qMnXD.md) - [plain]
 | 39 | [Because Dreaming Costs Money, My Dear](https://open.spotify.com/track/4Ghr5ZxYQ9ti06fRTltVop) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 3:05 |
 | 40 | [This Is A Life](https://open.spotify.com/track/20UK2eUwlRzNuW60gzITuj) | [Son Lux](https://open.spotify.com/artist/3kZdsaTYgaaolNxpnJ4iDe), [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK), [David Byrne](https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB) | [Everything Everywhere All at Once \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6dJKjotJRGEE9rmGgmxDWu) | 2:41 |
 | 41 | [Eric](https://open.spotify.com/track/6xsoxv6FtJSjAOBVwuZSGf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Lush](https://open.spotify.com/album/22MICAVuz34zzqm4Se5Lga) | 3:17 |
-| 42 | [Stay Soft](https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:16 |
+| 42 | [Heat Lightning](https://open.spotify.com/track/01vuMD0IeeHeQTSUk0f7iK) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:51 |
 | 43 | [Humpty](https://open.spotify.com/track/1F0BkspIdyq3N7EyZ94Bfa) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Retired from Sad, New Career in Business](https://open.spotify.com/album/7K4SuWzgUEweJScduBcC6f) | 3:21 |
-| 44 | [Heat Lightning](https://open.spotify.com/track/01vuMD0IeeHeQTSUk0f7iK) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:51 |
+| 44 | [Stay Soft](https://open.spotify.com/track/07zVQBJfbOuaAhpT3stRFL) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 3:16 |
 | 45 | [Valentine, Texas](https://open.spotify.com/track/21r4kosHuDosz3AIdXqUGk) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Laurel Hell](https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22) | 2:35 |
 
-Snapshot ID: `MjgyNzM3MzUsMDAwMDAwMDA1MWM1MDA3OTgwZjM2NjQzY2M1Njc5NzFjNzY1MTA3MQ==`
+Snapshot ID: `MjgyODI0MTcsMDAwMDAwMDBhYjgxZjUzMWQyYzNhNTViZmM2NmYwNTc2MDNlNWJjNQ==`

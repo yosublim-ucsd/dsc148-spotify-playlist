@@ -1,12 +1,12 @@
 {
   "description": "La m\u00fasica de ayer, el party de hoy.",
-  "num_followers": 432440,
+  "num_followers": 432459,
   "original_name": "TBT Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYzA2ZTVlMzE2Y2MyYTkyZTQ4ZjhmOTcwY2NjYjI3ZjJiOGY4OGIw",
+  "snapshot_id": "MCw2MzNjYzBhMjRlMWI0MDYyZTdkYWY2MjlkMDc4NzE1NGZmMjc1YmJk",
   "tracks": [
     {
       "added_at": "2022-08-05 16:22:41",
@@ -479,6 +479,22 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
+        "name": "Prince Royce",
+        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        }
+      ],
+      "duration_ms": 211453,
+      "name": "Coraz\u00f3n Sin Cara",
+      "url": "https://open.spotify.com/track/0u4N6w5lBw5xMrzJitRWUo"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
         "name": "Intimo",
         "url": "https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 172854,
       "name": "X",
       "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
-        "name": "Prince Royce",
-        "url": "https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        }
-      ],
-      "duration_ms": 211453,
-      "name": "Coraz\u00f3n Sin Cara",
-      "url": "https://open.spotify.com/track/0u4N6w5lBw5xMrzJitRWUo"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -611,18 +611,18 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
+        "name": "Soy el Mismo",
+        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
       },
       "artists": [
         {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
         }
       ],
-      "duration_ms": 222560,
-      "name": "Reggaet\u00f3n Lento (Bailemos)",
-      "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
+      "duration_ms": 206933,
+      "name": "Darte un Beso",
+      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -663,18 +663,18 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Soy el Mismo",
-        "url": "https://open.spotify.com/album/4o8ZyBzwPxPVc2bqNG5Xfe"
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/0YLrAWUbY0nyM7PFtqnYld"
       },
       "artists": [
         {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
         }
       ],
-      "duration_ms": 206933,
-      "name": "Darte un Beso",
-      "url": "https://open.spotify.com/track/6cJLfIqwh0tCKRjYM3WpZ5"
+      "duration_ms": 222560,
+      "name": "Reggaet\u00f3n Lento (Bailemos)",
+      "url": "https://open.spotify.com/track/3AEZUABDXNtecAOSC1qTfo"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -807,26 +807,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 221653,
       "name": "Me Niego (feat. Ozuna & Wisin)",
       "url": "https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 232786,
+      "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc"
     },
     {
       "added_at": "2022-08-05 16:22:41",
@@ -927,26 +927,6 @@
     {
       "added_at": "2022-08-05 16:22:41",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 227480,
-      "name": "Amigos Con Derechos",
-      "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
-    },
-    {
-      "added_at": "2022-08-05 16:22:41",
-      "album": {
         "name": "3.0",
         "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 250836,
       "name": "Por Fin Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/2DAULesb1U4Qz4FSTZpEUJ"
+    },
+    {
+      "added_at": "2022-08-05 16:22:41",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 227480,
+      "name": "Amigos Con Derechos",
+      "url": "https://open.spotify.com/track/4yVO0wOhXsZC1RuPgHP524"
     },
     {
       "added_at": "2022-08-05 16:22:41",

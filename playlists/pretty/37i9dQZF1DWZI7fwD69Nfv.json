@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ya huele a sopita! Buen provecho. ",
-  "num_followers": 102410,
+  "num_followers": 102433,
   "original_name": "M\u00fasica de Fonda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNzNhNzdkNzdkNWVlZTk3Nzk0YzE2NjE1OGNhMDk2YzMzMWRmZmE1",
+  "snapshot_id": "MCxkNzVhMGQ2MDdlMmUwOWU5YjMwMmJiYmU4MjFhZjJkNmI2OWVkMjcw",
   "tracks": [
     {
       "added_at": "2023-08-25 06:00:00",
@@ -751,26 +751,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Se Fue La Pantera (En Vivo)",
-        "url": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 202021,
-      "name": "Se Fue La Pantera (En Vivo)",
-      "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "T\u00fa Me Gustas",
         "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 206956,
       "name": "T\u00fa Me Gustas",
       "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Se Fue La Pantera (En Vivo)",
+        "url": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 202021,
+      "name": "Se Fue La Pantera (En Vivo)",
+      "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Vuelvo Contigo",
-        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 161493,
-      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
-      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Te Llor\u00e9 Un R\u00edo",
         "url": "https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 230811,
       "name": "Te Llor\u00e9 Un R\u00edo",
       "url": "https://open.spotify.com/track/6uYtv0KmSNBGFfaY7yW8tY"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Vuelvo Contigo",
+        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 161493,
+      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
+      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Mi Mexico Querido",
-        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
-      },
-      "artists": [
-        {
-          "name": "Mi Banda El Mexicano",
-          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
-        }
-      ],
-      "duration_ms": 217521,
-      "name": "Feliz Feliz",
-      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Guajiro Natural",
         "url": "https://open.spotify.com/album/1X7NlROjvvMICSei8xcFJh"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 364573,
       "name": "Un Mont\u00f3n De Estrellas",
       "url": "https://open.spotify.com/track/21iD8UKoYicaMmVISo6Pi4"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Mi Mexico Querido",
+        "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
+      },
+      "artists": [
+        {
+          "name": "Mi Banda El Mexicano",
+          "url": "https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5"
+        }
+      ],
+      "duration_ms": 217521,
+      "name": "Feliz Feliz",
+      "url": "https://open.spotify.com/track/0JZV1UuBsbSwHhGirgWaXI"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-        "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 250686,
-      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "En Vivo en el Palacio de los Deportes - 25 Aniversario",
         "url": "https://open.spotify.com/album/7gSe5tBOrBERCFvQgR6TsC"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 234985,
       "name": "No Me Importa el Dinero (feat. Julieta Venegas) - Vivo en el Palacio de los Deportes",
       "url": "https://open.spotify.com/track/4wXjnoLIMTninCnKRgGsQc"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+        "url": "https://open.spotify.com/album/6VmAsJkmfT8qjXbJH5QOQN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 250686,
+      "name": "Cada Vez Te Extra\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/70w1mwTod6NgCNV6e7ZlIQ"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1775,6 +1775,26 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/3xQxAY9NIQsUUocYxGWxcW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda la Sinaloense de Alex Ojeda",
+          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+        }
+      ],
+      "duration_ms": 232611,
+      "name": "Decide T\u00fa",
+      "url": "https://open.spotify.com/track/1BzsZa83qlhgv8hyt1UtWc"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
         "name": "Huapango Amor Ranchero",
         "url": "https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl"
       },
@@ -1811,22 +1831,18 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Decide T\u00fa",
-        "url": "https://open.spotify.com/album/3xQxAY9NIQsUUocYxGWxcW"
+        "name": "Antolog\u00eda, Vol. 1",
+        "url": "https://open.spotify.com/album/7HWP9Iq6XV65DG84VqYtNm"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda la Sinaloense de Alex Ojeda",
-          "url": "https://open.spotify.com/artist/6ucSqPKWD0QdphhjNrVnUf"
+          "name": "Grupo Abracadabra",
+          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
         }
       ],
-      "duration_ms": 232611,
-      "name": "Decide T\u00fa",
-      "url": "https://open.spotify.com/track/1BzsZa83qlhgv8hyt1UtWc"
+      "duration_ms": 221663,
+      "name": "En Realidad (Reprise)",
+      "url": "https://open.spotify.com/track/4sYzLjHySEugo857NgZGHq"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -1847,22 +1863,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1",
-        "url": "https://open.spotify.com/album/7HWP9Iq6XV65DG84VqYtNm"
-      },
-      "artists": [
-        {
-          "name": "Grupo Abracadabra",
-          "url": "https://open.spotify.com/artist/5Tr3Dj96kdzVnRiY3H457O"
-        }
-      ],
-      "duration_ms": 221663,
-      "name": "En Realidad (Reprise)",
-      "url": "https://open.spotify.com/track/4sYzLjHySEugo857NgZGHq"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Cumbia Buena",
         "url": "https://open.spotify.com/album/2hKZd4cGeRpBrO8R8YegAB"
       },
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
-        "name": "Ch\u00fantaros Radio Poder",
-        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
-      },
-      "artists": [
-        {
-          "name": "El Gran Silencio",
-          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
-        }
-      ],
-      "duration_ms": 245481,
-      "name": "C\u00edrculo De Amor",
-      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
         "name": "Tan Bella y Tan Presumida",
         "url": "https://open.spotify.com/album/0oLNMVzG71nzpxPzDVhnkn"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 181264,
       "name": "Tan Bella y Tan Presumida",
       "url": "https://open.spotify.com/track/0wSPEEU9RvF3VZZlpgdGoE"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
+        "name": "Ch\u00fantaros Radio Poder",
+        "url": "https://open.spotify.com/album/0wqb0G7P5hA3ajYi9ihVQL"
+      },
+      "artists": [
+        {
+          "name": "El Gran Silencio",
+          "url": "https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD"
+        }
+      ],
+      "duration_ms": 245481,
+      "name": "C\u00edrculo De Amor",
+      "url": "https://open.spotify.com/track/3GZf0kWZobn4GwkujDYR7C"
     },
     {
       "added_at": "2023-08-25 06:00:00",
@@ -2031,6 +2031,22 @@
     {
       "added_at": "2023-08-25 06:00:00",
       "album": {
+        "name": "Te Volver\u00eda A Elegir",
+        "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Te Volver\u00eda A Elegir",
+      "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
+    },
+    {
+      "added_at": "2023-08-25 06:00:00",
+      "album": {
         "name": "Me Hace Tanto Bien",
         "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
@@ -2047,22 +2063,6 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
-    },
-    {
-      "added_at": "2023-08-25 06:00:00",
-      "album": {
-        "name": "Te Volver\u00eda A Elegir",
-        "url": "https://open.spotify.com/album/0oGyrEpTd0K9eGB3LGhhX4"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Te Volver\u00eda A Elegir",
-      "url": "https://open.spotify.com/track/1QgLKIL39m8266PA54HnmQ"
     },
     {
       "added_at": "2023-08-25 06:00:00",

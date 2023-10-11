@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: James Hype, Kim Petras
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,031 likes - 97 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,039 likes - 97 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 4 | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Drums \(Feat\. Kim Petras\)](https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M) | 2:32 |
 | 5 | [Undo U](https://open.spotify.com/track/4zaKOfQhWKkq9xhEvuevXU) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Undo U](https://open.spotify.com/album/7Cr1Y5N2iMW4qKpiXH462f) | 2:02 |
 | 6 | [Only In My Mind](https://open.spotify.com/track/4PrGyX4YgCT6V3YqY7XEUw) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Only In My Mind](https://open.spotify.com/album/4JWnSrjQv0zOW594N76PMf) | 2:41 |
-| 7 | [Tell Me](https://open.spotify.com/track/7aC9syDKJbFcwaoWXodmNb) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [Doolie](https://open.spotify.com/artist/02C1o6UELjUNfthPNScsPp) | [Coalesce](https://open.spotify.com/album/7w8VZmBYyc8lzb1EkKTxhF) | 3:45 |
+| 7 | [Tell Me](https://open.spotify.com/track/7aC9syDKJbFcwaoWXodmNb) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [DOOLIE](https://open.spotify.com/artist/52IMdPUhmYfGU7daNnmHVA) | [Coalesce](https://open.spotify.com/album/7w8VZmBYyc8lzb1EkKTxhF) | 3:45 |
 | 8 | [Won't Forget You](https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Won't Forget You](https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK) | 2:33 |
 | 9 | [Hide and Seek](https://open.spotify.com/track/7MF2sZdu9QmAe9ABVjE5Y3) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7) | [Lustre](https://open.spotify.com/album/4ItxYoE7OV3dGs7xswvnCx) | 4:08 |
 | 10 | [5 Days](https://open.spotify.com/track/5ohlEsEOzBg6Ga7GQpqlrS) | [Moav](https://open.spotify.com/artist/5zRUR3UaVa9rcJTZumB4cr) | [5 Days](https://open.spotify.com/album/3qpfJHrl2IkzPHmrvi3mCa) | 2:47 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 96 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 |
 | 97 | [Sugar and Spice feat\. iLL BLU](https://open.spotify.com/track/1f434xo0pTFHk2dIVmQSqH) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [Sugar and Spice feat\. iLL BLU](https://open.spotify.com/album/2p0zD4HbmVF8Yim1nSzfwQ) | 2:48 |
 
-Snapshot ID: `MCwzNjE4OTliODZiODFkY2Q2YmM4MmNkOGFmNjA2NzBkZjdjNzQ4M2Vh`
+Snapshot ID: `MCw1NDMwMDgxMTE0ZTQ5OTUwNWU4ZTVkMDg5YzQwMWYzNWJjZjdjNmFh`

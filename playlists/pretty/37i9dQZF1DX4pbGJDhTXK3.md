@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,225 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,243 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 18 | [Breathe \- Qrion Remix](https://open.spotify.com/track/7lZjor53FqYpyJb8Uc0Pve) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Breathe \(Qrion Remix\)](https://open.spotify.com/album/5t0fkdOmBKTj7MzjkTuQHF) | 4:31 |
 | 19 | [Moon Jocks n Prog Rocks](https://open.spotify.com/track/190sUkgX3sm1co7Qkd7SBX) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [Moon Jocks n Prog Rocks](https://open.spotify.com/album/1mAPYemEY9Bb5K3L0T0nT6) | 13:33 |
 | 20 | [View](https://open.spotify.com/track/0eiVc8xmZgqy2V92ye6eHU) | [Himmel](https://open.spotify.com/artist/2SaSegJV3zAzlLOiQTFXKm) | [View](https://open.spotify.com/album/6U8tCwy6JKrPmBwT4rb2CD) | 4:04 |
-| 21 | [Tyrkisk Pepper \- Dolle Jolle Remix](https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL), [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Tyrkisk Pepper](https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt) | 8:02 |
-| 22 | [how long is..\. cold pizza good for](https://open.spotify.com/track/4xDLHt2Ss3pYDoLCK2uUPB) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Villa Amorini](https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG) | 5:59 |
+| 21 | [A Man Called Anthony](https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv) | [Magnus International](https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE) | [Echo to Echo](https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec) | 4:15 |
+| 22 | [Tyrkisk Pepper \- Dolle Jolle Remix](https://open.spotify.com/track/38KKAivesNw1zoh8eshIZX) | [Blackbelt Andersen](https://open.spotify.com/artist/67qty1jpSV57pPDYDTDUgL), [Dølle Jølle](https://open.spotify.com/artist/1UbgLp0E5zKU0BAhpPp59B) | [Tyrkisk Pepper](https://open.spotify.com/album/2KUdBmCPOBpD2YweRXPAMt) | 8:02 |
 | 23 | [Be A Man You Ant \- Original Mix](https://open.spotify.com/track/380B4H9JdSzDqjdJFtTykb) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Be A Man You Ant](https://open.spotify.com/album/5PNdVI9kYjjyda8J7fuxig) | 6:24 |
-| 24 | [A Man Called Anthony](https://open.spotify.com/track/2C2vLPP0C619yxaEsE6OVv) | [Magnus International](https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE) | [Echo to Echo](https://open.spotify.com/album/63wGONylhY5SRDvmjKDCec) | 4:15 |
+| 24 | [how long is..\. cold pizza good for](https://open.spotify.com/track/4xDLHt2Ss3pYDoLCK2uUPB) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Villa Amorini](https://open.spotify.com/album/5PdhR2YW9IubgKjU9N28RG) | 5:59 |
 | 25 | [Flott Flyt](https://open.spotify.com/track/53EEccmWk0f2AVzEn7ontY) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP) | 6:41 |
 | 26 | [Closing Shot](https://open.spotify.com/track/1ROqr2iZR9SSGv0PvlPssV) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [Closing Shot](https://open.spotify.com/album/1skGl2lZ48OV8KUalrFBPD) | 8:23 |
 | 27 | [Ok, Kjor Romskip \- Original Mix](https://open.spotify.com/track/1i7POakPGDR8Z7PJEGDp5P) | [Rune Lindbaek](https://open.spotify.com/artist/6SXxObLtqUzAjJGtMwgsbk) | [Sondag](https://open.spotify.com/album/1LdfVewFu5TLTgaxFCyABn) | 5:30 |
@@ -39,12 +39,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 29 | [Love in the Night](https://open.spotify.com/track/1fRkrCgp1BFtTBUXxelmdX) | [Skatebård](https://open.spotify.com/artist/54CS7wTXpIfstKRMkHHM9Q) | [CDIII](https://open.spotify.com/album/7dcZZUQV9XhdaWF6fbOLhF) | 8:13 |
 | 30 | [Hard Trafikk](https://open.spotify.com/track/5jJuwmQ8Jdfx08F9hAx5tg) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Trøbbel](https://open.spotify.com/album/1Es585IxIHauFNjCaRoRyU) | 4:42 |
 | 31 | [Formanta](https://open.spotify.com/track/2EsksidmH4QLEEWxFH1X9I) | [Biosphere](https://open.spotify.com/artist/2rcnAZ6DvORQ365X3zVYpr) | [Shortwave Memories](https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy) | 4:09 |
-| 32 | [Vegvisir \(Nils Olav Remix\)](https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT), [Nils Olav](https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op) | [Vegvisir \(Nils Olav Remix\)](https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb) | 6:12 |
-| 33 | [Like A Petal But Not Really](https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs) | [Ugress](https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f) | [Like a Petal but Not Really](https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD) | 3:24 |
-| 34 | [Kosmetisk](https://open.spotify.com/track/5Lx3mPW7NV7MCw31OofvV4) | [Magnus International](https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE) | [Kosmetisk](https://open.spotify.com/album/5Tsih38nrHZzQPHaLkwjc7) | 5:42 |
+| 32 | [Kosmetisk](https://open.spotify.com/track/5Lx3mPW7NV7MCw31OofvV4) | [Magnus International](https://open.spotify.com/artist/7LAZbZOoUvDR4hgHkMRPSE) | [Kosmetisk](https://open.spotify.com/album/5Tsih38nrHZzQPHaLkwjc7) | 5:42 |
+| 33 | [Vegvisir \(Nils Olav Remix\)](https://open.spotify.com/track/1RBoSmN7Pim35gXON3vY8E) | [Helene Bøksle](https://open.spotify.com/artist/78gOgvMoKp4Zz3gnnEyLYT), [Nils Olav](https://open.spotify.com/artist/0hkFnaKBojetxGr9X6B4Op) | [Vegvisir \(Nils Olav Remix\)](https://open.spotify.com/album/6JyjI5YwVDXYWYh19vJGhb) | 6:12 |
+| 34 | [Like A Petal But Not Really](https://open.spotify.com/track/5N1afdUHdVEc0hJGhuCgWs) | [Ugress](https://open.spotify.com/artist/7z7iM83U5FOtatZG5pd53f) | [Like a Petal but Not Really](https://open.spotify.com/album/36cqJsLpY0klltWHlmZRKD) | 3:24 |
 | 35 | [Staying In](https://open.spotify.com/track/6gQIMENC4azncXDUOzD1YE) | [Diskjokke](https://open.spotify.com/artist/77jljjDLgcihmTS2WW7Uxo) | [Staying In](https://open.spotify.com/album/0SSgR5G630l1HxQkCMoWhP) | 3:54 |
-| 36 | [Andromeda \(Prelude to the Future\)](https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D) | [Meanderthals](https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is) | [Desire Lines](https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn) | 4:34 |
-| 37 | [A City So Convenient](https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [A City So Convenient](https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J) | 6:26 |
+| 36 | [A City So Convenient](https://open.spotify.com/track/6Tlxp0jf4hOmSeOiuhnM5v) | [Mungolian Jetset](https://open.spotify.com/artist/3we4aZ9sQc0tp8UOyOEtpt) | [A City So Convenient](https://open.spotify.com/album/61GhllHN2g6exhlV6dTx9J) | 6:26 |
+| 37 | [Andromeda \(Prelude to the Future\)](https://open.spotify.com/track/7fBOoxCd7EOueVPd0rfN5D) | [Meanderthals](https://open.spotify.com/artist/6gWgAcsn746qDWvkkuX5Is) | [Desire Lines](https://open.spotify.com/album/0hUC2a4dsq8z6637JruBtn) | 4:34 |
 | 38 | [Thirst Issues](https://open.spotify.com/track/28SztSmKNenBcY2vMQl00W) | [Melkeveien](https://open.spotify.com/artist/0I22LfGyl3Ro59xmhLQPx8) | [Full Pupp Splits 004 \- Hamar\-O\-Ramah!](https://open.spotify.com/album/3PuGBseuPHRXLXO05LYsFy) | 5:58 |
 | 39 | [The Walk](https://open.spotify.com/track/0PNpTYNySZMLu8sFbznKiN) | [Frede](https://open.spotify.com/artist/6KSw87A52Tjr4BRotQCn56) | [The Walk](https://open.spotify.com/album/7m5rLSCixXObpvrZaXIMoG) | 4:24 |
 | 40 | [Tidløs \- Kohib Remix](https://open.spotify.com/track/33ZKHbquD746iTaSk6y58k) | [Aggie Frost](https://open.spotify.com/artist/6KuOR1yUOE16fw6IwThbC0), [Kohib](https://open.spotify.com/artist/26oQRM3dr784QWCkxn38kw) | [Tidløs \(Remixes\)](https://open.spotify.com/album/44ShL59sThfH0kX2NhnKli) | 7:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 49 | [This Soft Apocalypse](https://open.spotify.com/track/19SLtZkiiimfEy1mwWGFeM) | [Of Norway](https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz) | [This Soft Apocalypse](https://open.spotify.com/album/17IgvKjvNvTamb9NGboCpI) | 3:21 |
 | 50 | [HS](https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Pax Americana](https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF) | 4:51 |
 
-Snapshot ID: `MCwyNWIzZDliYjJjNzZhODlkYTgxMzE4NTY0MTZlMDBlNzk2OGFkZGFk`
+Snapshot ID: `MCxlOTQ1MDI4NDM1Y2NkMWUxMTAyMmExODJhZjA3YzEyMTVmMmU4MzI5`

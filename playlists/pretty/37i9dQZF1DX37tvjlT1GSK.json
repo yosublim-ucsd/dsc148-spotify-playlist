@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Becky G en portada. ",
-  "num_followers": 740525,
+  "num_followers": 741444,
   "original_name": "Sierre\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzE2OGVmOTRmZDFkYzM5ZTAxNjRhZTA5NDRiZjMwYjllN2Q0YTVh",
+  "snapshot_id": "MCxjOGFlYzVmNzA4NTQ1M2FkMDNlZDY0ZjdjZWZjNjNjZmJlYzE2ZjM4",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "GXLE 3",
+        "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 158769,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Vete Ya",
         "url": "https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "GXLE 3",
-        "url": "https://open.spotify.com/album/27hDq1oNof8J1u08xMCvQk"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 158769,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/7FI04jmsPiLOz4GfpnCw3M"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "D\u00e9jenla Que Sea Feliz",
         "url": "https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3"
       },
@@ -1323,26 +1323,6 @@
       "duration_ms": 175677,
       "name": "D\u00e9jenla Que Sea Feliz",
       "url": "https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Triste",
-        "url": "https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8"
-      },
-      "artists": [
-        {
-          "name": "Ivan Cornejo",
-          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
-        },
-        {
-          "name": "Polo Gonzalez",
-          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
-        }
-      ],
-      "duration_ms": 166124,
-      "name": "Triste",
-      "url": "https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1363,6 +1343,26 @@
       "duration_ms": 129022,
       "name": "Una en Un Millon",
       "url": "https://open.spotify.com/track/2fuftZ5cJqs2T2lZqDVr5y"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Triste",
+        "url": "https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8"
+      },
+      "artists": [
+        {
+          "name": "Ivan Cornejo",
+          "url": "https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV"
+        },
+        {
+          "name": "Polo Gonzalez",
+          "url": "https://open.spotify.com/artist/0OpXeanba0vYnyoft00BP6"
+        }
+      ],
+      "duration_ms": 166124,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/3KBPBsKy6quP8PvTo81D5W"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Dinero F\u00e1cil",
+        "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 224442,
+      "name": "Quiero Llorar y No Puedo",
+      "url": "https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "El Baleado",
         "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 219264,
       "name": "El Baleado",
       "url": "https://open.spotify.com/track/75Rim2x8dZP6BDjAaSbfhp"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Dinero F\u00e1cil",
-        "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 224442,
-      "name": "Quiero Llorar y No Puedo",
-      "url": "https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Los Envidiosos",
-        "url": "https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 181553,
-      "name": "Los Envidiosos",
-      "url": "https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Noches De Verano",
         "url": "https://open.spotify.com/album/25FCfNQGfRwwAVCOfIm9yy"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 158000,
       "name": "Efecto Al Corazon",
       "url": "https://open.spotify.com/track/467uh81a8AkjzFd77ly5M0"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Los Envidiosos",
+        "url": "https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 181553,
+      "name": "Los Envidiosos",
+      "url": "https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2011,22 +2011,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "D\u00edganle A Mi Ex",
-        "url": "https://open.spotify.com/album/1bUFT404T1SsM8vX4L6Mqi"
-      },
-      "artists": [
-        {
-          "name": "Los Plebes del Rancho de Ariel Camacho",
-          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
-        }
-      ],
-      "duration_ms": 180659,
-      "name": "D\u00edganle A Mi Ex",
-      "url": "https://open.spotify.com/track/3DGiTIEZWuOXRHei5UTgHf"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Qui\u00e9n Se Apunta",
         "url": "https://open.spotify.com/album/0K96amjgXLbldWdd3tDrjO"
       },
@@ -2047,18 +2031,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Ando Triste",
-        "url": "https://open.spotify.com/album/0QGvhNBMCUs4UKSyHUSdyW"
+        "name": "D\u00edganle A Mi Ex",
+        "url": "https://open.spotify.com/album/1bUFT404T1SsM8vX4L6Mqi"
       },
       "artists": [
         {
-          "name": "Efecto Elegante",
-          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
+          "name": "Los Plebes del Rancho de Ariel Camacho",
+          "url": "https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77"
         }
       ],
-      "duration_ms": 160108,
-      "name": "Ando Triste",
-      "url": "https://open.spotify.com/track/2NSr6ZIecxwvuLuMZIyQpm"
+      "duration_ms": 180659,
+      "name": "D\u00edganle A Mi Ex",
+      "url": "https://open.spotify.com/track/3DGiTIEZWuOXRHei5UTgHf"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2083,18 +2067,34 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe"
+        "name": "Ando Triste",
+        "url": "https://open.spotify.com/album/0QGvhNBMCUs4UKSyHUSdyW"
       },
       "artists": [
         {
-          "name": "Los Luna",
-          "url": "https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC"
+          "name": "Efecto Elegante",
+          "url": "https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3"
         }
       ],
-      "duration_ms": 183600,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd"
+      "duration_ms": 160108,
+      "name": "Ando Triste",
+      "url": "https://open.spotify.com/track/2NSr6ZIecxwvuLuMZIyQpm"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "A 180",
+        "url": "https://open.spotify.com/album/5CBwX2peGRvpXpNDo6q7V4"
+      },
+      "artists": [
+        {
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
+        }
+      ],
+      "duration_ms": 181600,
+      "name": "A 180",
+      "url": "https://open.spotify.com/track/4R5boTls8v2TvV88wv0dCz"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -2115,6 +2115,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe"
+      },
+      "artists": [
+        {
+          "name": "Los Luna",
+          "url": "https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Empezar de Nuevo",
         "url": "https://open.spotify.com/album/6J6C7D6kL82ie5XKRTUqrK"
       },
@@ -2127,22 +2143,6 @@
       "duration_ms": 227509,
       "name": "Empezar de Nuevo",
       "url": "https://open.spotify.com/track/7hCT8qcGvyVr0FQmpoCI93"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "A 180",
-        "url": "https://open.spotify.com/album/5CBwX2peGRvpXpNDo6q7V4"
-      },
-      "artists": [
-        {
-          "name": "Justin Morales",
-          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
-        }
-      ],
-      "duration_ms": 181600,
-      "name": "A 180",
-      "url": "https://open.spotify.com/track/4R5boTls8v2TvV88wv0dCz"
     },
     {
       "added_at": "2023-09-15 04:00:00",

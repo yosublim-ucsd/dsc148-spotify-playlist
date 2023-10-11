@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,799 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,859 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,9 +20,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 10 | [Better Is One Day](https://open.spotify.com/track/1BWbw8Sl2Xq8zKAWTEpHiN) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [The Friendship And The Fear](https://open.spotify.com/album/3v02URjr4ljfiNISxf508B) | 6:23 |
 | 11 | [Southtown](https://open.spotify.com/track/5tJjQIhH6mH3PhG1DjW3gD) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 4:07 |
 | 12 | [Shackles \(Praise You\)](https://open.spotify.com/track/7JKEA8xYDoFp4q0QBW2PGg) | [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [Go Get It](https://open.spotify.com/album/20bME4IGNpUBm1Rk3TzuP9) | 3:18 |
-| 13 | [Sadie Hawkins Dance](https://open.spotify.com/track/37OI3jA1ts5U0nmuk2qBXR) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [The Anatomy of the Tongue in Cheek](https://open.spotify.com/album/7pkfdwjlOmJfzARVbLXE60) | 2:57 |
+| 13 | [God of Wonders](https://open.spotify.com/track/0TkFpOjGJCjmXJyDHC56Sh) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Offerings II: All I Have to Give](https://open.spotify.com/album/4TDlKYbi6YxSphRYPMMe3k) | 4:39 |
 | 14 | [Awesome God](https://open.spotify.com/track/4WeJ3uVTTkI2jg9JDmY1IV) | [Rich Mullins](https://open.spotify.com/artist/13UhfW7GPizrArBwq7ugps) | [Songs](https://open.spotify.com/album/5ETGa7hc1jtpp2OGIv1wdq) | 3:03 |
-| 15 | [God of Wonders](https://open.spotify.com/track/0TkFpOjGJCjmXJyDHC56Sh) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch) | [Offerings II: All I Have to Give](https://open.spotify.com/album/4TDlKYbi6YxSphRYPMMe3k) | 4:39 |
+| 15 | [Sadie Hawkins Dance](https://open.spotify.com/track/37OI3jA1ts5U0nmuk2qBXR) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [The Anatomy of the Tongue in Cheek](https://open.spotify.com/album/7pkfdwjlOmJfzARVbLXE60) | 2:57 |
 | 16 | [Stranded](https://open.spotify.com/track/2iWTsNDdK2X1dYqzxfkDGi) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [candycoatedwaterdrops](https://open.spotify.com/album/0fjkgS1zQxeWoctrtSCrp1) | 3:39 |
 | 17 | [Walk By Faith](https://open.spotify.com/track/6NXaZTK2rnbA91jOEc3t1h) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Stay](https://open.spotify.com/album/5gbs9nxCzkbMdQRYXj955d) | 3:59 |
 | 18 | [Ooh Ahh \(My Life Be Like\) \[feat\. Tobymac\]](https://open.spotify.com/track/1KBN9lYx9QkfUJC3NSXlhQ) | [Grits](https://open.spotify.com/artist/6aUgzC0cMh0StjV7LyFEDr), [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [The Art of Translation](https://open.spotify.com/album/3SNV12s5lZN3puLp5Vft8w) | 3:53 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 58 | [Prophet, Priest and King](https://open.spotify.com/track/7rEDMH58B288SJZuKO0FuS) | [Smalltown Poets](https://open.spotify.com/artist/0mHos4yS8iAhpYPABHFdBc) | [Smalltown Poets](https://open.spotify.com/album/3VSgWtarqDC0SoLgLzoM8E) | 3:36 |
 | 59 | [Gravity](https://open.spotify.com/track/6z5hemlFOgSeqGgArca8sS) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Mezzamorphis](https://open.spotify.com/album/5GpaRJfeglVrlsClIlhPtn) | 3:20 |
 | 60 | [Goodbye](https://open.spotify.com/track/4T2YM2TrhtxE9QvyptdBos) | [Plankeye](https://open.spotify.com/artist/1BEzx2txNgJpTDRcgP3ub4) | [Relocation](https://open.spotify.com/album/3HNhQynHgqCzawAk6PGIu9) | 4:20 |
-| 61 | [Butterfly \- Seven Day Jesus Album Version](https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD) | [Seven Day Jesus](https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa) | [Seven Day Jesus](https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP) | 3:30 |
-| 62 | [Into You](https://open.spotify.com/track/7HMBPVrRkwGuABMvMVTiys) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [Lay It Down](https://open.spotify.com/album/5cxJJ5gekgM7WSbTtvO9H4) | 3:04 |
+| 61 | [Into You](https://open.spotify.com/track/7HMBPVrRkwGuABMvMVTiys) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [Lay It Down](https://open.spotify.com/album/5cxJJ5gekgM7WSbTtvO9H4) | 3:04 |
+| 62 | [Butterfly \- Seven Day Jesus Album Version](https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD) | [Seven Day Jesus](https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa) | [Seven Day Jesus](https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP) | 3:30 |
 | 63 | [The Sun Also Rises](https://open.spotify.com/track/1riMbTj6HbiQ0tpD1aRema) | [Brave Saint Saturn](https://open.spotify.com/artist/3ThPMQBJlcHA839lBHxQr9) | [The Light Of Things Hoped For](https://open.spotify.com/album/7nxwgdX2XXJ92gJ936QCa1) | 3:15 |
 | 64 | [Free At Last \- Live](https://open.spotify.com/track/5zmoHiyoqhSnoV9EGcYhYi) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Free At Last \(Live\)](https://open.spotify.com/album/7whdJR9MEFJixUeSmATRUD) | 4:44 |
 | 65 | [Revive Us](https://open.spotify.com/track/3C6jSw9wdYUEdgtSMjLsZn) | [Anointed](https://open.spotify.com/artist/6GrYT1CB2T0IxumY1MQpZJ) | [Anointed](https://open.spotify.com/album/2E9vqclDxqceNEMbYn6IxB) | 4:08 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 74 | [Why Do I Do](https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT) | [Jump5](https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq) | [The Ultimate Collection](https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX) | 3:22 |
 | 75 | [The Devil Is Bad](https://open.spotify.com/track/7HU4ubA9Ml4ztErtnHdOMW) | [The W's](https://open.spotify.com/artist/6hbwBTYR4mLag3kkI6wXSV) | [Fourth From The Last](https://open.spotify.com/album/5ZyJ4WdmnQEGI6vWOKs7Ab) | 3:33 |
 
-Snapshot ID: `MCxhYzQ4MGE4YzAxNGI1ZGM4NzgyM2EwMmMyOGQ3NTdjNDMwYWI5MGVj`
+Snapshot ID: `MCxlNzBiYmVhOTg5YTQ5MTE4MWMxZTRiY2U4YTk5ZTE2MzA2MzE3YzI5`

@@ -4,11 +4,11 @@
 
 > Los temas esenciales de la escena independiente nacional\. Furland en portada.
 
-106 songs - 6 hr 55 min
+107 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| ["Babyrock" Rock](https://open.spotify.com/track/6ww4rsVsG3tVLyzb8fWgNA) | [Clorofila](https://open.spotify.com/artist/5ns1lY8egNoPsITbbNpli6) | [Corridos Urbanos](https://open.spotify.com/album/0B3SqGuOGULuzYrzBu0s9g) | 4:40 | 2023-09-01 |  |
+| ["Babyrock" Rock](https://open.spotify.com/track/6ww4rsVsG3tVLyzb8fWgNA) | [Clorofila](https://open.spotify.com/artist/5ns1lY8egNoPsITbbNpli6) | [Corridos Urbanos](https://open.spotify.com/album/0B3SqGuOGULuzYrzBu0s9g) | 4:40 | 2023-09-01 | 2023-10-11 |
 | [16 De Febrero](https://open.spotify.com/track/1SY9VFGNeOrFYepm4WzbR5) | [Emmanuel Del Real](https://open.spotify.com/artist/3zsKni86bXvCrbu8HxSIAM), [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY) | [Fuera Del Cielo](https://open.spotify.com/album/31cZKWtP8UL8WCko2UFDQ1) | 3:52 | 2021-07-08 |  |
 | [Acicálame](https://open.spotify.com/track/5Ew6ieSRFMoGZlF3rWtDNM) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg) | [Correspondencia](https://open.spotify.com/album/1AYrH8rgkrGL2MBZZiaCSa) | 3:22 | 2021-07-08 |  |
 | [Algo Está Cambiando](https://open.spotify.com/track/7mJG18yZGq0aXKWNtK3FQf) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Si](https://open.spotify.com/album/3pNoZEMsLO0HZygvwaXANB) | 4:00 | 2021-07-08 |  |
@@ -18,6 +18,7 @@
 | [Awake](https://open.spotify.com/track/7DZQLVgavqL4bgbqBvH9wF) | [sailawway](https://open.spotify.com/artist/7tg2hHygz0gM2dq5PrNH2q) | [Fragments](https://open.spotify.com/album/6Pkec94jk2FvXfd1p7JudT) | 2:33 | 2021-07-08 | 2023-08-21 |
 | [Azul](https://open.spotify.com/track/3V4TnrGeVCxB2TLZ2pZQYO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:14 | 2021-07-08 |  |
 | [Azul](https://open.spotify.com/track/04BizsqpIiqNQALwvaPr5a) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [HU HU HU](https://open.spotify.com/album/7wr357GNp9CgeJRUfpX7hf) | 6:33 | 2021-07-08 |  |
+| [Azul Oscuro](https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn) | [Zurdok](https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF) | [Azul Oscuro](https://open.spotify.com/album/5iYmmcWr3mTo9xzQOXByPe) | 4:21 | 2023-09-01 |  |
 | [Berlín](https://open.spotify.com/track/4z55q1ocJQOiSwkFQAdUFO) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Norte](https://open.spotify.com/album/3ccENIV5z7jcA7MFTz3Tfw) | 4:45 | 2022-05-10 |  |
 | [Bestia](https://open.spotify.com/track/1r3L5Aze7FgPc0ck828XFz) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [Bestia](https://open.spotify.com/album/3thOTiN8dswNmDUHEkIXiL) | 4:08 | 2021-07-08 |  |
 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 | 2021-07-08 |  |
@@ -29,7 +30,7 @@
 | [Dancing In The Dark](https://open.spotify.com/track/2Dsc3Cx6d9qr19aoXi6Fqm) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Dancing In The Dark](https://open.spotify.com/album/0blCS4K4dzy4hfLa6xOwUb) | 3:27 | 2021-07-08 |  |
 | [Dead](https://open.spotify.com/track/0qy3tNhBzyxKxcOqCczcVX) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [The Room](https://open.spotify.com/album/3Ts9hy3YbTeBDqNL9ItCJj) | 4:46 | 2021-07-08 |  |
 | [Deja Te Conecto](https://open.spotify.com/track/0txzKMVwjig6MFiSn6TetQ) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Zoé](https://open.spotify.com/album/505KuEEsIP9oOFrhJC7s5x) | 5:29 | 2021-07-08 |  |
-| [Dias Perfectos](https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [El Techo es el Suelo](https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1) | 4:40 | 2022-05-10 | 2023-10-06 |
+| [Dias Perfectos](https://open.spotify.com/track/4urHBS1qKGZ5b4TRDpsONJ) | [Quiero Club](https://open.spotify.com/artist/4Y2UbwMINPpv3z3wdTyajA) | [El Techo es el Suelo](https://open.spotify.com/album/203Q63gFcoKrppI1TcQee1) | 4:40 | 2022-05-10 |  |
 | [Dulce Mal](https://open.spotify.com/track/4bVaYbaxhHaxeCLGyERNfT) | [The Chamanas](https://open.spotify.com/artist/4QUnWR26plj0oHiQgRyhvk) | [Dulce Mal](https://open.spotify.com/album/7u7PYKzkFojFmGAj0JI37Y) | 4:02 | 2021-07-08 |  |
 | [Dulce Soledad](https://open.spotify.com/track/0BKJNlqLlNvvIunfg2BPCg) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Daltónico](https://open.spotify.com/album/5oWrwOXe12fNZc4r13XODy) | 3:44 | 2021-07-08 |  |
 | [Días De Fuego](https://open.spotify.com/track/0llXG2KrSGVjW3fVJrrmcE) | [Odisseo](https://open.spotify.com/artist/7GkhznErka8OWEHJS05Dpd) | [Días De Fuego](https://open.spotify.com/album/0DZPvNS2UafM6bBPMm3QEX) | 3:05 | 2021-07-08 |  |
@@ -104,7 +105,7 @@
 | [Soun Tha Mi Primer Amor \- Mtv Unplugged \(En Vivo\)](https://open.spotify.com/track/1s36ag5aYkHwoiAUGvZDPM) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Mtv Unplugged](https://open.spotify.com/album/21BcXV7FQT8LVbqOpRUHJ8) | 3:50 | 2022-05-10 |  |
 | [Soun Tha Mi Primer Amor \- Remastered](https://open.spotify.com/track/1ABzvnkHLpLaIN7VlB00LJ) | [Kinky](https://open.spotify.com/artist/4WOIfFwyvx22jM0eg2fpKv) | [Kinky \(Remastered\)](https://open.spotify.com/album/0EuvehvpSxGl1Q3GJ0p6pI) | 3:11 | 2021-07-08 |  |
 | [Tarde O Temprano](https://open.spotify.com/track/4XA2bWf1gbyETv4p0x3KHF) | [Elis Paprika](https://open.spotify.com/artist/7LVz7xRg5YcXb6bD5JZRtk) | [EXPRESS](https://open.spotify.com/album/5X6VPdxmPVASY9SuQJHR6n) | 2:40 | 2021-07-08 |  |
-| [Tienes Miedo](https://open.spotify.com/track/2vnR5qteOcCrHjaozA9I2Q) | [Songs for eleonor](https://open.spotify.com/artist/5C7xSI0tTUDRgF0Lvs7zNj) | [Plant a Seed](https://open.spotify.com/album/7rYk9RlD0N8b4r5kslGie8) | 3:23 | 2023-05-09 |  |
+| [Tienes Miedo](https://open.spotify.com/track/2vnR5qteOcCrHjaozA9I2Q) | [Songs for eleonor](https://open.spotify.com/artist/5C7xSI0tTUDRgF0Lvs7zNj) | [Plant a Seed](https://open.spotify.com/album/7rYk9RlD0N8b4r5kslGie8) | 3:23 | 2023-05-09 | 2023-10-11 |
 | [Tijuana Sound Machine](https://open.spotify.com/track/7HW7q9Vcgr3GlUV7PKHKOj) | [Nortec: Bostich + Fussible](https://open.spotify.com/artist/3Jarv4dvk7d9k6AkqDUVJg) | [Tijuana Sound Machine \(Nortec Collective Presents: Bostich+Fussible\)](https://open.spotify.com/album/4H3jCH55WS5z7CF6g144eV) | 3:02 | 2021-07-08 |  |
 | [Todavía Te Alcanzo a Ver](https://open.spotify.com/track/5lHsdhq0XAlOowiYZgjNKD) | [Canseco](https://open.spotify.com/artist/4FiUcS3nZ5bfUOVAIC3Up5) | [El Tiempo y la Ciudad](https://open.spotify.com/album/3e8mntdTH7cBTooN1OqzwK) | 3:13 | 2021-07-08 |  |
 | [Uno de Esos Días](https://open.spotify.com/track/14Tb6kzWxf8pLPgSJGWggi) | [Ventilader](https://open.spotify.com/artist/7kUKD63HDFP5otOSYEBz0p) | [No Es un Adiós](https://open.spotify.com/album/7l8QCiQTA97JflmEp8xYAn) | 3:11 | 2021-07-08 |  |

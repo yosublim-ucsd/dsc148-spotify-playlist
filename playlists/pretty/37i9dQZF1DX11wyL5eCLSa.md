@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\. Little Jesus en Portada.
+> Sangre fresca en las escenas del indie y el rock\. Jay de la Cueva en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,804 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,835 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Club de Fans de John Boy](https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Club de Fans de John Boy](https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y) | 3:38 |
-| 2 | [Cabras](https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jimena González](https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc) | [Cabras](https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5) | 3:41 |
-| 3 | [Tokyo](https://open.spotify.com/track/4YETK2Zs4oJ6YIAVbfqYMH) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Tokyo](https://open.spotify.com/album/2XbAH4JRlR941sejnT2suC) | 3:14 |
+| 1 | [Tokyo](https://open.spotify.com/track/4YETK2Zs4oJ6YIAVbfqYMH) | [Jay de la Cueva](https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu) | [Tokyo](https://open.spotify.com/album/2XbAH4JRlR941sejnT2suC) | 3:14 |
+| 2 | [Club de Fans de John Boy](https://open.spotify.com/track/04bVV45KVRvd1h0hfLqRjQ) | [Love of Lesbian](https://open.spotify.com/artist/6VCoG3MG7ZKRxDjaYOvtrF), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Club de Fans de John Boy](https://open.spotify.com/album/0AX6fEdcmURGqUXk5DDf9Y) | 3:38 |
+| 3 | [Cabras](https://open.spotify.com/track/0Z6NjrgKeVaR3G1lAOk4at) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit), [Jimena González](https://open.spotify.com/artist/7C2SYZIxEKVRD1VacM3xxc) | [Cabras](https://open.spotify.com/album/4l3SJgabo5QTmFqTfW3KM5) | 3:41 |
 | 4 | [Víctimas](https://open.spotify.com/track/4FeOc23B21fz3Z1pLnnKo6) | [Bersuit Vergarabat](https://open.spotify.com/artist/6MxyNXnnmwQwdW2PD0gXYO) | [Víctimas](https://open.spotify.com/album/4J21DOgMP48X3i1Bct05ON) | 3:58 |
 | 5 | [Que fue lo que Pasó](https://open.spotify.com/track/6e705fkOBUYIBAe7MVczDD) | [Genitallica](https://open.spotify.com/artist/5Bk3LL5WujH6UG9iqpDaxA), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Que fue lo que Pasó](https://open.spotify.com/album/52lw9gZ6CxwOj0KLt5aJEW) | 3:29 |
 | 6 | [Fuera de Control](https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Fuera de Control](https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt) | 3:30 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [Enemigo \(Acústico\)](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo \(Acústico\)](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 |
 | 100 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 |
 
-Snapshot ID: `MCxhMTczZTFjNTQ1YTE4YzgxZDA5ZmI0YWVlNzgwMTZkMzJjOGY1YjAw`
+Snapshot ID: `MCw3NDFmMGM3OWFlNjRmZDFhMGY3YmNiOWU1OTU4ODVlYzk4YWEzOGFj`

@@ -129,6 +129,32 @@
     },
     {
       "album": {
+        "name": "Aman",
+        "url": "https://open.spotify.com/album/1F4xprPT8v1hwQJf0xQpBg"
+      },
+      "artists": [
+        {
+          "name": "Nandu",
+          "url": "https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0"
+        },
+        {
+          "name": "Radeckt",
+          "url": "https://open.spotify.com/artist/266oTSLOTKmaChZqMvx7QL"
+        },
+        {
+          "name": "Keena_ofc",
+          "url": "https://open.spotify.com/artist/56qT3rcUKo1j1IamLgJHP1"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313386,
+      "name": "Aman",
+      "url": "https://open.spotify.com/track/5W4hN9QuLKyWv356TguQ8i"
+    },
+    {
+      "album": {
         "name": "Somoya EP",
         "url": "https://open.spotify.com/album/1pnZocy43xoV4IsGM49yAp"
       },
@@ -638,7 +664,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 256773,
       "name": "Crazy (feat. Iveta Mukuchyan)",
       "url": "https://open.spotify.com/track/6XG6VKBORCSGMuWlF30YvO"
@@ -858,7 +884,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 203428,
       "name": "Enjoy The Rain (feat. Nathan Daisy)",
       "url": "https://open.spotify.com/track/7F6vxNOUuo6unbeEmB0BpJ"
@@ -1006,7 +1032,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 277894,
       "name": "Fortune Teller",
       "url": "https://open.spotify.com/track/1t8Q66Stnzgm6VExvVmNHG"
@@ -1174,7 +1200,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 302521,
       "name": "Hokema (feat. Delaram Kamareh)",
       "url": "https://open.spotify.com/track/1VoTZU5zicdDgvKu2DLxRv"
@@ -1568,7 +1594,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 267004,
       "name": "Love And Hate",
       "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
@@ -2483,6 +2509,28 @@
     },
     {
       "album": {
+        "name": "Stray Man",
+        "url": "https://open.spotify.com/album/68DaViJtOktyyAHn1q3MJv"
+      },
+      "artists": [
+        {
+          "name": "Filippos",
+          "url": "https://open.spotify.com/artist/1p93D1YEV3oqMBq2W9bIqT"
+        },
+        {
+          "name": "Dimp",
+          "url": "https://open.spotify.com/artist/2RlHPqeP6PaOAIgHCu6oM6"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 411777,
+      "name": "Stray Man",
+      "url": "https://open.spotify.com/track/4DFM5DkXoFNXetaM6OOIrS"
+    },
+    {
+      "album": {
         "name": "Remix Crusades (2007-2013)",
         "url": "https://open.spotify.com/album/3ebvYDbbG9vfNFpyPlCf1A"
       },
@@ -2654,7 +2702,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "Tijuana",
       "url": "https://open.spotify.com/track/0GXNKuzGu6a5w9TcmDc6T2"
@@ -2930,7 +2978,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 214676,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/2rKgp5Ih2eNVVGl6Yqn5VW"
@@ -2992,7 +3040,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 314181,
       "name": "Wash Away",
       "url": "https://open.spotify.com/track/3QL6Q8HFEhAURfU5AqOBj7"
@@ -3176,7 +3224,7 @@
       ],
       "date_added": "2022-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 548146,
       "name": "Yauna",
       "url": "https://open.spotify.com/track/0c61iOnlEq1LPWfHdRQqqU"

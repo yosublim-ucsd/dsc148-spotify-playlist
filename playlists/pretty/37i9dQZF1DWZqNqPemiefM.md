@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 
 > Deep concentration with these outstanding Japanese ambient tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,054 likes - 50 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,119 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqNqPemiefM.md) - [plain]
 | 46 | [Stars](https://open.spotify.com/track/0k7UbZFOcNSebBda0H52rT) | [Yosi Horikawa](https://open.spotify.com/artist/1JSPpoXFLcEG2WhYlvmHPJ) | [Vapor](https://open.spotify.com/album/1IpHSURAZpaIlAkLX8vqGt) | 6:19 |
 | 47 | [One Day](https://open.spotify.com/track/4BER2aGl5Nta8DEs3CV35s) | [Nobukazu Takemura](https://open.spotify.com/artist/1iXLUp5POcP8TLvg3p2ze9) | [Hoshi No Koe](https://open.spotify.com/album/6ZEv1wpEkZcjUO1UL9TLtb) | 1:43 |
 | 48 | [Monotony](https://open.spotify.com/track/09V60XC2fnZQ69LY6saLt1) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [No Highs](https://open.spotify.com/album/7nKNz12BoGEYHqJmwUoC4P) | 8:22 |
-| 49 | [Pierrepont](https://open.spotify.com/track/4pHyknEztGC2aXC8lxX9xs) | [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [Pierrepont](https://open.spotify.com/album/1x11gmqgSiQC6CjkrCiieR) | 4:30 |
+| 49 | [Stratum](https://open.spotify.com/track/6yXUaEbzWHCrYYUrw2KTpV) | [Visible Cloaks](https://open.spotify.com/artist/2gqmFO0Wo92qaqwwgL6fZG), [Yoshio Ojima](https://open.spotify.com/artist/311stj8V2orjkfjvLrLvfa), [Satsuki Shibano](https://open.spotify.com/artist/41uROYFIU6V6D0dHUdpS6c) | [FRKWYS Vol\. 15: serenitatem](https://open.spotify.com/album/3c8oJantTYVugv4AyIRhiP) | 7:11 |
 | 50 | [vi \(almost equal to\) ix](https://open.spotify.com/track/5JZq6B2jtxGVvmausM9Xed) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [vi \(almost equal to\) ix](https://open.spotify.com/album/6HeluvAtfAwsWp2e7sTCOf) | 3:44 |
 
-Snapshot ID: `MCw5YzZhMGI0NjM5NmRkOTE3ZmM1MTcyM2Y0M2UzMTFiNDNjY2RhZjkx`
+Snapshot ID: `MCw1M2M4YzFkMWZjMWEwYTI5OWIyNGQ5MjA5ODhlMWQ1YzViODFiNzE0`

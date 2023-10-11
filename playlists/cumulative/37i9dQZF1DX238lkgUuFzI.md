@@ -4,7 +4,7 @@
 
 > 2022 highlight from the misfits 2.0 universe\. Cover: Bring Me The Horizon
 
-113 songs - 5 hr 17 min
+114 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,8 @@
 | [Choose Your Fighter](https://open.spotify.com/track/6tL8gSH1BWB5noSIac3uGZ) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Supernova](https://open.spotify.com/album/41ycYGcnhkDb3pFkL8vSPJ) | 2:15 | 2022-11-30 |  |
 | [Day I Die](https://open.spotify.com/track/4Qt6fOWtoMdjQYtV5jztL2) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [Songs For My Funeral](https://open.spotify.com/album/4SmLiMThmp5f4dCTOsIguj) | 2:57 | 2021-12-01 | 2022-12-01 |
 | [DAYWALKER! \(feat\. CORPSE\)](https://open.spotify.com/track/2NnJpRXIlx35Vij3bPZO0h) | [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW) | [DAYWALKER! \(feat\. CORPSE\)](https://open.spotify.com/album/2y8j3djW8ZswvAbEcPBBti) | 2:17 | 2021-12-01 | 2022-12-01 |
-| [DEADGIRL](https://open.spotify.com/track/4OWUFhOO3jv3X3aSMM9NgJ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [UNDEAD IT](https://open.spotify.com/album/2U2LfyzD6ek0LCjoyd7O9d) | 4:10 | 2022-11-30 |  |
+| [DEADGIRL](https://open.spotify.com/track/4OWUFhOO3jv3X3aSMM9NgJ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [UNDEAD IT](https://open.spotify.com/album/2U2LfyzD6ek0LCjoyd7O9d) | 4:10 | 2022-11-30 | 2023-10-11 |
+| [DEADGIRL](https://open.spotify.com/track/72X5kj8ilaZGIO4zFbt39U) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [DEADGIRL](https://open.spotify.com/album/48CPMZleL4rHMqtQN5opuV) | 4:10 | 2022-11-30 |  |
 | [Deal With It \(feat\. Kelis\)](https://open.spotify.com/track/1S85LGnDPKKOkfuFaK6vFu) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [DEMIDEVIL](https://open.spotify.com/album/438ToDoVaJH5aTIXXrlDyI) | 3:11 | 2021-12-01 | 2022-12-01 |
 | [Dear Goth](https://open.spotify.com/track/1pSQLQAj7xy6CybmqUnHax) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Dear Goth](https://open.spotify.com/album/7mWd8LS3zZWlFMPvuMNpIb) | 3:29 | 2021-12-01 | 2022-12-01 |
 | [DiE4u](https://open.spotify.com/track/2gT72HL4Y84K2Mle3miAMJ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [DiE4u](https://open.spotify.com/album/4L4TlrXB94790rqWBprweP) | 3:27 | 2021-12-01 | 2022-12-01 |

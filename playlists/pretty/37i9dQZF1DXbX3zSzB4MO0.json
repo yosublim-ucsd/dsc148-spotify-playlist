@@ -1,12 +1,12 @@
 {
   "description": "Club vibes wherever you are!",
-  "num_followers": 809266,
+  "num_followers": 809454,
   "original_name": "Club Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmI2YjEyOTM2MTM0OTVjZGZiZjExZWViODYyMWUwNDE0Y2QzNzll",
+  "snapshot_id": "MCwyOGM5MmU3NTllNzM0NDZmY2NhMDk0MWU3M2RhNjY3NmE0YTZlODFh",
   "tracks": [
     {
       "added_at": "2023-10-05 22:21:44",
@@ -647,6 +647,22 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
+        "name": "Sun Is Dark",
+        "url": "https://open.spotify.com/album/4cJpfipD6q3smdPwp8COoO"
+      },
+      "artists": [
+        {
+          "name": "WILL K",
+          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Sun Is Dark",
+      "url": "https://open.spotify.com/track/6Lmx1AyfNlmOVCW2Sxisnk"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
         "name": "Miracle Maker",
         "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 188592,
       "name": "Miracle Maker",
       "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
-        "name": "Sun Is Dark",
-        "url": "https://open.spotify.com/album/4cJpfipD6q3smdPwp8COoO"
-      },
-      "artists": [
-        {
-          "name": "WILL K",
-          "url": "https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Sun Is Dark",
-      "url": "https://open.spotify.com/track/6Lmx1AyfNlmOVCW2Sxisnk"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -727,6 +727,26 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
+        "name": "Chill Like That",
+        "url": "https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf"
+      },
+      "artists": [
+        {
+          "name": "Sunday Scaries",
+          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+        },
+        {
+          "name": "PiCKUPLiNES",
+          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
+        }
+      ],
+      "duration_ms": 178908,
+      "name": "Chill Like That",
+      "url": "https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
         "name": "Jam Inside Your Love (feat. Carla Monroe)",
         "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
       },
@@ -747,22 +767,22 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Chill Like That",
-        "url": "https://open.spotify.com/album/189CZXjmGJs7PzbQ0S5WVf"
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
       "artists": [
         {
-          "name": "Sunday Scaries",
-          "url": "https://open.spotify.com/artist/0PavAVTZWBEpaj4iJdKCyj"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "PiCKUPLiNES",
-          "url": "https://open.spotify.com/artist/0Nqow4lyg43fW8ktlTR9Vi"
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         }
       ],
-      "duration_ms": 178908,
-      "name": "Chill Like That",
-      "url": "https://open.spotify.com/track/2UwgoIMAYT0pDOxUFTjEVJ"
+      "duration_ms": 242880,
+      "name": "Redlight",
+      "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -787,26 +807,6 @@
       "duration_ms": 175748,
       "name": "Something To Hold On To (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/617tj2kCbyrza6mHhzT6JQ"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
-        "name": "Paradise Again",
-        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        }
-      ],
-      "duration_ms": 242880,
-      "name": "Redlight",
-      "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "The Voodoo Babe",
-        "url": "https://open.spotify.com/album/43LUjSYSBd6THnIxFNqE9M"
-      },
-      "artists": [
-        {
-          "name": "Matt Sassari",
-          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
-        },
-        {
-          "name": "CHRSTPHR",
-          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
-        }
-      ],
-      "duration_ms": 126666,
-      "name": "The Voodoo Babe",
-      "url": "https://open.spotify.com/track/16Y0MeVVRU0SwpKDN9durD"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
         "name": "New Bottega",
         "url": "https://open.spotify.com/album/6dlPgHkvVUMkTBsovGFAxH"
       },
@@ -1147,22 +1127,22 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "One By One",
-        "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
+        "name": "The Voodoo Babe",
+        "url": "https://open.spotify.com/album/43LUjSYSBd6THnIxFNqE9M"
       },
       "artists": [
         {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+          "name": "Matt Sassari",
+          "url": "https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS"
         },
         {
-          "name": "HOSANNA",
-          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+          "name": "CHRSTPHR",
+          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
         }
       ],
-      "duration_ms": 145920,
-      "name": "One By One",
-      "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
+      "duration_ms": 126666,
+      "name": "The Voodoo Babe",
+      "url": "https://open.spotify.com/track/16Y0MeVVRU0SwpKDN9durD"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -1179,6 +1159,26 @@
       "duration_ms": 186727,
       "name": "Talamanca",
       "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
+        "name": "One By One",
+        "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "HOSANNA",
+          "url": "https://open.spotify.com/artist/7M9O9v7kmiDSjN4eKFSik7"
+        }
+      ],
+      "duration_ms": 145920,
+      "name": "One By One",
+      "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
     },
     {
       "added_at": "2023-10-05 22:21:44",

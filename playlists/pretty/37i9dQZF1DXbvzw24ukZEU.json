@@ -1,12 +1,12 @@
 {
   "description": "Relax to the the rhythm of these smooth Latin tunes of the 2010s.\n\n",
-  "num_followers": 81923,
+  "num_followers": 81980,
   "original_name": "Latin Chillout 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NDIyMTRjY2ZlN2ZjYzZhZDYyODk5MzM1OGM0MDU4NTUyZDc1M2Rl",
+  "snapshot_id": "MCxkMzI5N2I0MzhhZjI3NjI4NDQ4ZjBhMTRhNzcwOWU2MzllNzI2ZDgw",
   "tracks": [
     {
       "added_at": "2023-02-17 19:20:00",
@@ -415,26 +415,6 @@
     {
       "added_at": "2023-02-17 19:20:00",
       "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 232549,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
-    },
-    {
-      "added_at": "2023-02-17 19:20:00",
-      "album": {
         "name": "Cama Incendiada",
         "url": "https://open.spotify.com/album/36lGlwe75fTsr4CLVlfYQa"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 272576,
       "name": "Mi Verdad (feat. Shakira)",
       "url": "https://open.spotify.com/track/3YmA3gZqlXl0MkwhkVKxRy"
+    },
+    {
+      "added_at": "2023-02-17 19:20:00",
+      "album": {
+        "name": "Criminal",
+        "url": "https://open.spotify.com/album/0S19ks6TFDHZKEYWFvrRm0"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 232549,
+      "name": "Criminal",
+      "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
     },
     {
       "added_at": "2023-02-17 19:20:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-02-17 19:20:00",
       "album": {
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 237093,
+      "name": "Cancioncitas de Amor",
+      "url": "https://open.spotify.com/track/6bcdiJvYNX115yvbh3wASz"
+    },
+    {
+      "added_at": "2023-02-17 19:20:00",
+      "album": {
         "name": "FIVE (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 196480,
       "name": "Deja vu",
       "url": "https://open.spotify.com/track/46HdsiK0uR26B2dY9QPzda"
-    },
-    {
-      "added_at": "2023-02-17 19:20:00",
-      "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 237093,
-      "name": "Cancioncitas de Amor",
-      "url": "https://open.spotify.com/track/6bcdiJvYNX115yvbh3wASz"
     },
     {
       "added_at": "2023-02-17 19:20:00",
@@ -903,6 +903,22 @@
     {
       "added_at": "2023-02-17 19:20:00",
       "album": {
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 279213,
+      "name": "Lo Que Construimos",
+      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
+    },
+    {
+      "added_at": "2023-02-17 19:20:00",
+      "album": {
         "name": "Deixa (feat. Ana Gabriela)",
         "url": "https://open.spotify.com/album/5y1vdBmkTHZNGCz5qswQzM"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 176025,
       "name": "Deixa (feat. Ana Gabriela)",
       "url": "https://open.spotify.com/track/3fLqmaO4vvZpFZSZy52VMp"
-    },
-    {
-      "added_at": "2023-02-17 19:20:00",
-      "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 279213,
-      "name": "Lo Que Construimos",
-      "url": "https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH"
     },
     {
       "added_at": "2023-02-17 19:20:00",

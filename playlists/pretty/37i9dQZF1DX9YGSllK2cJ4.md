@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,267 likes - 197 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,319 likes - 197 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,7 +105,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 95 | [We Together](https://open.spotify.com/track/45hG7DYmo87yN0hQ1MeJ0C) | [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [We Together](https://open.spotify.com/album/6ruK7Ax6fmYBopQ22j59RU) | 2:02 |
 | 96 | [Loneliness is my only company](https://open.spotify.com/track/6vDrmzekBoFnbFO0XcKGqZ) | [Odette Pineda](https://open.spotify.com/artist/2Eiqzzb4kGdlWttizRLpaw) | [Loneliness is my only company](https://open.spotify.com/album/3A9XSZyHfBjqBWZLxlu5Xw) | 2:17 |
 | 97 | [No More Goodbyes](https://open.spotify.com/track/6HCRtBZl2Ez50aHXh2JRds) | [Wyatt Elil](https://open.spotify.com/artist/2krX8gm9Nw3Bdp7vniNwum) | [Through Valleys](https://open.spotify.com/album/6j2Q4yWL0niKxmWAplQolc) | 2:23 |
-| 98 | [From Home](https://open.spotify.com/track/02VydYQOYaLGZX2MWoCCQ8) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [From Home](https://open.spotify.com/album/7BF0crTRDCArRVfdCX94Yt) | 3:22 |
+| 98 | [From Home](https://open.spotify.com/track/0EgbLbMqBzyEjIySBupBqH) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [From Home](https://open.spotify.com/album/4s631bf05BJesvz6XT3iDT) | 3:22 |
 | 99 | [Our Call](https://open.spotify.com/track/0iMIWdUvO3QmoOwvpazgMW) | [Jonah Bjoern](https://open.spotify.com/artist/0BYrqsYWd4pHg2C21k1cBp) | [Our Call](https://open.spotify.com/album/6FRFcy8VBTOBPDULVG7S7P) | 2:14 |
 | 100 | [Morpho](https://open.spotify.com/track/090GAAwLiSybtUpvq50r6T) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Morpho](https://open.spotify.com/album/73BOlPGDgMu2sw8XvmiO9V) | 2:00 |
 | 101 | [Solaris](https://open.spotify.com/track/6cv8No97M6bO6MT1q2FNyn) | [Matti Aalto](https://open.spotify.com/artist/4nGn3LnoPxjDGpkYY7fW9E) | [Solaris](https://open.spotify.com/album/1WjxXz4gCszSPaxKNFQczu) | 2:30 |
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 196 | [Mélancolie](https://open.spotify.com/track/5JlrnENzKipdE51pDq8mDT) | [Auguste Léon](https://open.spotify.com/artist/5bGNRY7ynJDYPD22BWT05Q) | [Mélancolie](https://open.spotify.com/album/5Dmdf5KPs7djGXKwaOAO7N) | 3:11 |
 | 197 | [Persistence](https://open.spotify.com/track/0axAOvyLwfINcKe3tw7U2f) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [Persistence](https://open.spotify.com/album/7hihzMSbAIsrcRtSGjebl8) | 2:19 |
 
-Snapshot ID: `MCxiMmI1NDgzMWRiYTA5OGM0ZGQ5YmEwMzE4OWM3NDA5ZGUxOTQwMDlm`
+Snapshot ID: `MCw2ODI1MDhhYWE0YzZhYzMyMWVhMTgyMzgyOTY4ZGQzNjE4ZTYxY2U2`

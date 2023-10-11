@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 
 > Life in plastic is fantastic
 
-[Spotify](https://open.spotify.com/user/spotify) - 283,229 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,064 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 65 | [Want U Back](https://open.spotify.com/track/6E11E0lT5Zy7yb6iT3y8DN) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Sticks & Stones](https://open.spotify.com/album/16liSbjaxbH0oamsQlqJ4Z) | 3:34 |
 | 66 | [Cut To The Feeling](https://open.spotify.com/track/6EJiVf7U0p1BBfs0qqeb1f) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Cut To The Feeling](https://open.spotify.com/album/6S9qcfPMsqtYQXVyeC7Hip) | 3:27 |
 | 67 | [What Dreams Are Made Of](https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk) | [Hilary Duff](https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h) | [The Lizzie McGuire Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh) | 4:02 |
-| 68 | [Hands](https://open.spotify.com/track/0r9P2WPP0kRvw0idqKedgK) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 2:45 |
-| 69 | [Bubble Pop Electric](https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Johnny Vulture](https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:42 |
+| 68 | [Bubble Pop Electric](https://open.spotify.com/track/2bx879t8gUpxkQ0avl8xTf) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Johnny Vulture](https://open.spotify.com/artist/698jqy5RzKp9XzvSiNbCDy) | [Love Angel Music Baby \(Deluxe Version\)](https://open.spotify.com/album/3Lqn8M0QxPLIPRJ4nUKTGN) | 3:42 |
+| 69 | [Hands](https://open.spotify.com/track/0r9P2WPP0kRvw0idqKedgK) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension \(Deluxe\)](https://open.spotify.com/album/3StjwfadugiV10gNhLDu29) | 2:45 |
 | 70 | [Unlock it \(Lock It\) \- feat\. Kim Petras and Jay Park](https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 3:52 |
 | 71 | [disco tits](https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [BLUE LIPS \(lady wood phase II\)](https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L) | 3:43 |
 | 72 | [Boss Bitch](https://open.spotify.com/track/0kEzNFvi5ZOlwn6ly5DR8i) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Birds of Prey: The Album](https://open.spotify.com/album/3wITH77YIxYdtVv1W4W1SI) | 2:14 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45grRWk2ghU.md) - [plain]
 | 74 | [Girls Like Girls](https://open.spotify.com/track/3dNjUFt6EFU4Gq6Q5vfJqf) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN) | [This Side of Paradise](https://open.spotify.com/album/1DBeQGiRdap7iuvuxSx3bD) | 3:49 |
 | 75 | [Nothing On \(But The Radio\)](https://open.spotify.com/track/58q4iIjSd6zueicG8F65GW) | [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP) | [AR](https://open.spotify.com/album/4HFL8GJomswlqQwqJGwKDt) | 2:29 |
 
-Snapshot ID: `MCxmZmFlYmU3Nzg4YWRmNGMwYmNlZjA2NmVjYTBiN2VjZDBiNzkzMjJi`
+Snapshot ID: `MCw2NGIyMWUzOWJiZDdjNmM3NWZlY2YyY2FjMGUwNDVmYjY0NDVhMDcy`

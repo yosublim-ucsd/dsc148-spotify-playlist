@@ -1111,6 +1111,32 @@
     },
     {
       "album": {
+        "name": "Dos \u00c9pocas (Segunda Edici\u00f3n)",
+        "url": "https://open.spotify.com/album/2PxwFOfB6afTLTGxYgwICy"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        },
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        },
+        {
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288071,
+      "name": "Me Das Y Me Quitas Todo",
+      "url": "https://open.spotify.com/track/3hRLE4fGujnPKx3lJi7Y5K"
+    },
+    {
+      "album": {
         "name": "Ni Un Paso Atr\u00e1s",
         "url": "https://open.spotify.com/album/1p5Pm8Vqk932S2VFVUAoi4"
       },
@@ -1962,7 +1988,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 222173,
       "name": "Termin\u00f3 Gustando",
       "url": "https://open.spotify.com/track/7lnBlgW6U6fLTotoXt6Tb4"

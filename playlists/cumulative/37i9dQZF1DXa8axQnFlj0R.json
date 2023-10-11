@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-30",
-  "description": "let me hold both your hands in the holes of my sweater",
+  "description": "The playlist version of a warm hug",
   "name": "Sweater Weather",
   "tracks": [
     {
@@ -56,6 +56,24 @@
       "duration_ms": 154250,
       "name": "accidentally told you - demo",
       "url": "https://open.spotify.com/track/1VI5k8ZyR8LzTkmoDvR7oP"
+    },
+    {
+      "album": {
+        "name": "all in good Time,",
+        "url": "https://open.spotify.com/album/7MhrNDo9kcpjAK2MLJTWWh"
+      },
+      "artists": [
+        {
+          "name": "Torri Weidinger",
+          "url": "https://open.spotify.com/artist/48WSeSXisRpPcjSaXVR2LM"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301278,
+      "name": "all in good Time,",
+      "url": "https://open.spotify.com/track/1b61dvikZLHwdnGWKSIUJJ"
     },
     {
       "album": {
@@ -315,6 +333,28 @@
     },
     {
       "album": {
+        "name": "Boys Of Faith (feat. Bon Iver)",
+        "url": "https://open.spotify.com/album/4h4A1l4ReII0UD3wtOPI3q"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170824,
+      "name": "Boys Of Faith (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/4Zj2uX6ApCFK9XzjwIhCIr"
+    },
+    {
+      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/4xWtA8LqGtCavhLcd6dSqt"
       },
@@ -402,6 +442,24 @@
       "duration_ms": 228798,
       "name": "Call Me A Dreamer",
       "url": "https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw"
+    },
+    {
+      "album": {
+        "name": "Canada",
+        "url": "https://open.spotify.com/album/0zcyks6yhT0hcLkq0bejgV"
+      },
+      "artists": [
+        {
+          "name": "Laura Alden",
+          "url": "https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190253,
+      "name": "Canada",
+      "url": "https://open.spotify.com/track/7z5riBToXE2PBrdiAxQMdX"
     },
     {
       "album": {
@@ -564,7 +622,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 275320,
       "name": "coney island (feat. The National)",
       "url": "https://open.spotify.com/track/3k7ne7VmH43ZPWxPdvPUgR"
@@ -600,7 +658,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 180692,
       "name": "Dancing Alone",
       "url": "https://open.spotify.com/track/3waZuM6xOriyiAu5tXDOLS"
@@ -744,7 +802,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 304280,
       "name": "Delicious Things",
       "url": "https://open.spotify.com/track/0f1bOH82cQvNNZBmmkKv4d"
@@ -820,6 +878,24 @@
       "duration_ms": 189506,
       "name": "Doomsday",
       "url": "https://open.spotify.com/track/5jxjLdZXCqZlAOCC1OHOmc"
+    },
+    {
+      "album": {
+        "name": "Dream Song",
+        "url": "https://open.spotify.com/album/6NlSEYD0tosjRfVAUqBSLb"
+      },
+      "artists": [
+        {
+          "name": "Shallow Alcove",
+          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163125,
+      "name": "Dream Song",
+      "url": "https://open.spotify.com/track/6ojor4w0aY3Nl101vyidbH"
     },
     {
       "album": {
@@ -972,7 +1048,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 263760,
       "name": "Forward",
       "url": "https://open.spotify.com/track/0bI1DRcJE4kKO5IBZffHEU"
@@ -1213,6 +1289,24 @@
     },
     {
       "album": {
+        "name": "House Song",
+        "url": "https://open.spotify.com/album/7oOTLwRSrfnGY1yFjBZYL2"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294189,
+      "name": "House Song",
+      "url": "https://open.spotify.com/track/1kr0XkYcWe2HTuCFN3BuGA"
+    },
+    {
+      "album": {
         "name": "How Do You Know",
         "url": "https://open.spotify.com/album/0friSADlRRmOBVfIJgx0Ob"
       },
@@ -1271,6 +1365,24 @@
     },
     {
       "album": {
+        "name": "I have more than enough",
+        "url": "https://open.spotify.com/album/1yxqPXthiboSg3CyB3xOh6"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328098,
+      "name": "I have more than enough",
+      "url": "https://open.spotify.com/track/52TZItSmEl1Cb3Ai55Bwdi"
+    },
+    {
+      "album": {
         "name": "I Should Go (Solo Version)",
         "url": "https://open.spotify.com/album/3d11dBT3l0OGHxHaOBr4nV"
       },
@@ -1322,6 +1434,24 @@
       "duration_ms": 182240,
       "name": "I Wanna Dance With Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/0cbBZFEMcIsQujl5dIdcdi"
+    },
+    {
+      "album": {
+        "name": "i went outside",
+        "url": "https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25"
+      },
+      "artists": [
+        {
+          "name": "Arny Margret",
+          "url": "https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293400,
+      "name": "i went outside",
+      "url": "https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL"
     },
     {
       "album": {
@@ -1495,6 +1625,24 @@
     },
     {
       "album": {
+        "name": "Look Mom I Made It",
+        "url": "https://open.spotify.com/album/2UHt6YFQJLuHmfCIOMFyns"
+      },
+      "artists": [
+        {
+          "name": "Annika Kilkenny",
+          "url": "https://open.spotify.com/artist/6BPf3YvvXG87cFZPT9WQgx"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179213,
+      "name": "Look Mom I Made It",
+      "url": "https://open.spotify.com/track/7wcPHCnA9lyB8vL9ylZ7Tk"
+    },
+    {
+      "album": {
         "name": "Love You Twice",
         "url": "https://open.spotify.com/album/6cCcFoDt2Zncbda2vn0Ji5"
       },
@@ -1506,7 +1654,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 204736,
       "name": "Love You Twice",
       "url": "https://open.spotify.com/track/0p8N7QE1DJtY6IVmLy1YZc"
@@ -1658,7 +1806,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 193905,
       "name": "Midnight Sun - Acoustic Version",
       "url": "https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0"
@@ -1676,10 +1824,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 208973,
       "name": "mirrorball",
       "url": "https://open.spotify.com/track/5jQyGzcwqAxwT5QUIMivoX"
+    },
+    {
+      "album": {
+        "name": "Moonflowers (Binaural Acoustic Version)",
+        "url": "https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183734,
+      "name": "Moonflowers (Binaural Acoustic Version)",
+      "url": "https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ"
     },
     {
       "album": {
@@ -1788,7 +1954,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 176328,
       "name": "Northern Towns",
       "url": "https://open.spotify.com/track/6wKeiw7N5DVCX4QvlVZ33j"
@@ -1939,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Our Time",
+        "url": "https://open.spotify.com/album/7AvyzgmBfIOyRRBqY85puH"
+      },
+      "artists": [
+        {
+          "name": "Roo Panes",
+          "url": "https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204773,
+      "name": "Our Time",
+      "url": "https://open.spotify.com/track/44cqu9aiiJarV1znSUY1YZ"
+    },
+    {
+      "album": {
         "name": "Party Dress",
         "url": "https://open.spotify.com/album/4Ai0OqgDbUNNRwhXQHbZEv"
       },
@@ -1950,7 +2134,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 194942,
       "name": "Party Dress",
       "url": "https://open.spotify.com/track/2G2IOxSv0G4zOitsfFpFQl"
@@ -1986,7 +2170,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 236800,
       "name": "Peaches",
       "url": "https://open.spotify.com/track/5oM94y5XDIQQOouLu28dFR"
@@ -2004,7 +2188,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 177533,
       "name": "Pictures",
       "url": "https://open.spotify.com/track/2cEBG31c2Y7mfRlLY8g1ah"
@@ -2026,10 +2210,28 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-13",
+      "date_removed": null,
       "duration_ms": 204563,
       "name": "Pinetrees",
       "url": "https://open.spotify.com/track/51l3Yw0yTqmDRMBnxMsE1n"
+    },
+    {
+      "album": {
+        "name": "Autumn Variations",
+        "url": "https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206008,
+      "name": "Punchline",
+      "url": "https://open.spotify.com/track/5IUq1DyjOjej1u3U9gWaUa"
     },
     {
       "album": {
@@ -2152,7 +2354,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 151240,
       "name": "Rookery",
       "url": "https://open.spotify.com/track/3a2PR9xITzp6NU7tBJfi2T"
@@ -2188,7 +2390,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 275528,
       "name": "Seastroke",
       "url": "https://open.spotify.com/track/5D1LlqWG0VUMMvfqRBch2S"
@@ -2640,6 +2842,24 @@
       "duration_ms": 292110,
       "name": "Sweet",
       "url": "https://open.spotify.com/track/6ilc4vQcwMPlvAHFfsTGng"
+    },
+    {
+      "album": {
+        "name": "That's Just The Way It Is, Babe",
+        "url": "https://open.spotify.com/album/02Zc3D5tiEHFXMeEdvGcFE"
+      },
+      "artists": [
+        {
+          "name": "John Vincent III",
+          "url": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208253,
+      "name": "That\u2019s Just The Way It Is, Babe",
+      "url": "https://open.spotify.com/track/7I5Kv0uTItrFKOA2C2ls4M"
     },
     {
       "album": {
@@ -3130,7 +3350,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 296560,
       "name": "we\u2019ll be fine - acoustic",
       "url": "https://open.spotify.com/track/7FdvD8jMcvUW5xbxSsQTA8"
@@ -3268,7 +3488,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 267266,
       "name": "Winter Song",
       "url": "https://open.spotify.com/track/3dSKTUE46UbfYaEjDWhiCg"

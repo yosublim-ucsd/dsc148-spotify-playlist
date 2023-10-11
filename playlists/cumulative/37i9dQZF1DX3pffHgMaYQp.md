@@ -2,7 +2,7 @@
 
 ### [lo hice por el punk](https://open.spotify.com/playlist/37i9dQZF1DX3pffHgMaYQp)
 
-> Música para insubordinados\. Vondré en portada.
+> Música para insubordinados\. Sum 41 en portada.
 
 134 songs - 7 hr 16 min
 
@@ -14,7 +14,7 @@
 | [A Todo Madre o a Un Desmadre](https://open.spotify.com/track/5SiPuGuAxZQ3TB1OQQUTdK) | [Juventude Maldita](https://open.spotify.com/artist/7bzxsNuoCLrHXzs34HEfL2), [Acidez](https://open.spotify.com/artist/6WLR9DKDnuIRXUXtEBPl8D) | [A Todo Madre o a Un Desmadre](https://open.spotify.com/album/4FtPiw8sIm5dGMDXx7AQ0q) | 4:22 | 2023-07-28 |  |
 | [Above Me \- Original Demo Version](https://open.spotify.com/track/69YSvP5hAOdA6UdAAxnDLk) | [Rufio](https://open.spotify.com/artist/0HjoyITAvSVktTCjXUa40Q) | [Perhaps, I Suppose...](https://open.spotify.com/album/4ugKYcki4uFjdb6MAMLZED) | 3:12 | 2023-09-23 |  |
 | [Aeropuerto](https://open.spotify.com/track/1f6ZoZeirpFWvvkOvKR3ct) | [2 minutos](https://open.spotify.com/artist/5sASmkskUJsvYDSYKRkkYd), [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Aeropuerto](https://open.spotify.com/album/7LOdn5nP05V21rRhA0zndn) | 3:14 | 2023-03-31 |  |
-| [Aguas Locas](https://open.spotify.com/track/4rMqG3Xj6kk9kXnxDoZ0yw) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Aguas Locas](https://open.spotify.com/album/4gnqhlPrixTTVE3socigXn) | 2:08 | 2022-03-25 |  |
+| [Aguas Locas](https://open.spotify.com/track/4rMqG3Xj6kk9kXnxDoZ0yw) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Belafonte Sensacional](https://open.spotify.com/artist/6GzJDY171oHEEUgvoais06) | [Aguas Locas](https://open.spotify.com/album/4gnqhlPrixTTVE3socigXn) | 2:08 | 2022-03-25 | 2023-10-11 |
 | [Algo Bien](https://open.spotify.com/track/7ny19tle78dtsBq4JXTNjt) | [Pájaros Vampiro](https://open.spotify.com/artist/1mDd7cul31CzwMxrjL6wXd) | [Algo Bien](https://open.spotify.com/album/4JbqoyE0SeNc6FNi64WEe8) | 3:14 | 2022-03-25 |  |
 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ) | 3:14 | 2023-09-23 |  |
 | [Amigos \- En Vivo \- Mazunte 3016](https://open.spotify.com/track/3MjFHWF85f099edPlGN4Mm) | [Los Blenders](https://open.spotify.com/artist/19JX619qYCK7xfjaTxzhai) | [Amigos \(En Vivo \- Mazunte 3016\)](https://open.spotify.com/album/1JLlqbasqPbugK1n2U7DRA) | 3:04 | 2022-03-25 |  |
@@ -108,7 +108,7 @@
 | [Perro Quieto](https://open.spotify.com/track/1xrODYFckm3LB32KtUgpbJ) | [Loiis](https://open.spotify.com/artist/3VBZYuZlqBLBXKNtCz5knz) | [Wimbledon](https://open.spotify.com/album/1MwiOHgqYHnyfzuHIKhw5p) | 5:13 | 2022-03-25 |  |
 | [Plan Z.E.N.](https://open.spotify.com/track/6meYT2oiVwCKHAB1NJCi7w) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Plan Z.E.N.](https://open.spotify.com/album/7avi7XMW0Q1wEcUsBWcVvP) | 3:13 | 2023-06-09 |  |
 | [Por Mi Culpa \(Una Canción Punk Que Salvara el Mundo\)](https://open.spotify.com/track/0zgbf52Epwji5epCpvDEWk) | [Carrion Kids](https://open.spotify.com/artist/3BaXYCo5ZPoXCQ4MW93ulu) | [Por Mi Culpa \(Una Canción Punk Que Salvara el Mundo\)](https://open.spotify.com/album/4BFYE0jc2qL7uVSNha6Qnu) | 2:47 | 2022-03-25 |  |
-| [Por Que](https://open.spotify.com/track/7mi455N9KTLTKfxEjXwgAw) | [Mujeres Podridas](https://open.spotify.com/artist/2zy61vaLJYK5I9zcoZWOEt) | [Muerte en Paraíso](https://open.spotify.com/album/0x2HFQ4eCRCCYmXvzg6uOE) | 1:58 | 2022-03-25 |  |
+| [Por Que](https://open.spotify.com/track/7mi455N9KTLTKfxEjXwgAw) | [Mujeres Podridas](https://open.spotify.com/artist/2zy61vaLJYK5I9zcoZWOEt) | [Muerte en Paraíso](https://open.spotify.com/album/0x2HFQ4eCRCCYmXvzg6uOE) | 1:58 | 2022-03-25 | 2023-10-11 |
 | [Raindrops Of Poison](https://open.spotify.com/track/5E3XLPrhHu6HbwoqYfFrth) | [Descartes A Kant](https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j) | [After Destruction](https://open.spotify.com/album/7jhSHFst3jCbRlxwvWa7AX) | 3:25 | 2023-09-29 |  |
 | [Real Thing](https://open.spotify.com/track/1Rz1CTinAymBA4dcMPGijY) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 1:56 | 2023-09-23 |  |
 | [Rest Assured](https://open.spotify.com/track/0EWhAlXHKrwWIJjX9Gg56R) | [The Lemonheads](https://open.spotify.com/artist/6w7fc6IZlo5zwBaKT5jU1X) | [Come on Feel The Lemonheads](https://open.spotify.com/album/1mA5CUUztAKf53GDuypfAT) | 2:28 | 2023-09-23 |  |
@@ -133,7 +133,7 @@
 | [Vicente Amor](https://open.spotify.com/track/6cT3lvZsX1QOqo5LPgQSHJ) | [shego](https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33) | [Vicente Amor](https://open.spotify.com/album/4kDXE9CEGdB3CcoroleDP4) | 1:52 | 2022-03-25 |  |
 | [videoclub](https://open.spotify.com/track/3zjxH68heuJi9YGAlHuOG4) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/6F8kAxB0RbrQud6iceMMl2) | 3:14 | 2022-03-25 |  |
 | [videoclub](https://open.spotify.com/track/462xoGsHcgDbnVZVHqMSUJ) | [mitimitis](https://open.spotify.com/artist/3iEWpEqmO2yLUPIiu7Dv9F) | [videoclub](https://open.spotify.com/album/0AuLG5EdbX6yBkJG2pjrLz) | 3:14 | 2022-03-25 | 2022-07-29 |
-| [Viernes](https://open.spotify.com/track/6PyM3fAtL74EHBNMwbaGSH) | [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Deseo Querer](https://open.spotify.com/album/15xRUHTZm2vIDwZzqFEpEe) | 1:18 | 2022-03-25 |  |
+| [Viernes](https://open.spotify.com/track/6PyM3fAtL74EHBNMwbaGSH) | [Diamante Negro](https://open.spotify.com/artist/51WUBWxuW4MAoBwuYraA4v) | [Deseo Querer](https://open.spotify.com/album/15xRUHTZm2vIDwZzqFEpEe) | 1:18 | 2022-03-25 | 2023-10-11 |
 | [Viva la Muerte](https://open.spotify.com/track/3diPeeR8fI20qsVoUM3RuM) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Viva la Muerte \(Viva 2021\)](https://open.spotify.com/album/2sV9w7wqsnQ49uI43EnSc4) | 3:18 | 2022-03-25 | 2023-09-02 |
 | [Viva la Muerte](https://open.spotify.com/track/2TDIBx2Za2zvHO0pEpXD4g) | [The Americojones Experience](https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf) | [Animal del Demonio](https://open.spotify.com/album/5KNxhqnCYNxQGYTMZcPeM7) | 3:19 | 2023-07-28 |  |
 | [Waiting Room](https://open.spotify.com/track/2DBlfjL5chsdeULzhTp5K8) | [Fugazi](https://open.spotify.com/artist/62sC6lUEWRjbFqXpMmOk4G) | [13 Songs](https://open.spotify.com/album/1FcRwT7uoNdO8L9wbYsfAY) | 2:53 | 2023-09-23 |  |

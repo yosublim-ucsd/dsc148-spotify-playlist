@@ -2,7 +2,7 @@
 
 ### [Só as Minas](https://open.spotify.com/playlist/37i9dQZF1DXe4mpNXfrVqx)
 
-> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Ebony
+> Aqui quem manda são elas! Ouça grandes Mc's do hip hop nacional\. Foto: Mc Luanna
 
 161 songs - 7 hr 5 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 
 > You bring the ingredients\. We bring the flavor\. Enjoy la cena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,978 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,864 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,11 +81,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 71 | [Electric Boogaloo](https://open.spotify.com/track/2uNlYmmvtJB0m3ZXhXsHKW) | [Yerba Buena](https://open.spotify.com/artist/024R83OqqR3AgPjYc3QtyT) | [President Alien](https://open.spotify.com/album/1kF981Cq9HULhdiAxKH5FH) | 4:00 |
 | 72 | [Around the World \(Intro\)](https://open.spotify.com/track/21lWmLmNPE7tBehlegKU7c) | [Atom TM](https://open.spotify.com/artist/2a8NW6dE2Igxb6LQXDhdgL) | [Señor Coconut / Around the World](https://open.spotify.com/album/3kc3Xf5509dG8PJeAkmZuF) | 2:47 |
 | 73 | [Quien Sabe](https://open.spotify.com/track/2bhLqV1h7texAwg4uEhBIx) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Soñar Contigo\. Una Colección de Sus Grandes Canciones](https://open.spotify.com/album/2NsgXX7zdnsp3Ph6un8S08) | 3:59 |
-| 74 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 |
-| 75 | [El Llamado](https://open.spotify.com/track/7HPXEAZ8m5IXk0VCvmEZ0I) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Coral Way](https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s) | 3:41 |
+| 74 | [El Llamado](https://open.spotify.com/track/7HPXEAZ8m5IXk0VCvmEZ0I) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [Coral Way](https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s) | 3:41 |
+| 75 | [Bailando Con Un Pie](https://open.spotify.com/track/0NEHr6HubGty2liiPyFw2u) | [KerreKe](https://open.spotify.com/artist/5DsW9fidnHgj7FeHJ4T08P) | [Rituales](https://open.spotify.com/album/2wk8ikP4VBxoPrPL0z00dm) | 2:54 |
 | 76 | [Pelear](https://open.spotify.com/track/6VJyMwGnx1TvDXVmTDKxwM) | [Blanco Palamera](https://open.spotify.com/artist/6SEgrMW4qNH72UAx4h9epk) | [Pelear](https://open.spotify.com/album/2DzQ7GgN00WQRvXt7U4Qva) | 4:12 |
-| 77 | [El Liso \(feat\. Luis Towers\)](https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA), [Louis Towers](https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:18 |
-| 78 | [Speakin' Nuyorican](https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Cookin' Gumbo](https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe) | 3:29 |
+| 77 | [Speakin' Nuyorican](https://open.spotify.com/track/19TS1MDtT4FT2I5WO3Vdbz) | [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Cookin' Gumbo](https://open.spotify.com/album/4pJ5dsbsazELJyHyMBS5Qe) | 3:29 |
+| 78 | [El Liso \(feat\. Luis Towers\)](https://open.spotify.com/track/42dfjFDLaDrWIjFZWzQrsm) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA), [Louis Towers](https://open.spotify.com/artist/4AXeE39BJVhTXxKMVdF2Lc) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:18 |
 | 79 | [Guajira](https://open.spotify.com/track/4HMLjIO0JWKskd4OcO66re) | [HABIBI](https://open.spotify.com/artist/3RwYN0Swosf86cRdNn77Jt), [Elisabeth Borne](https://open.spotify.com/artist/3xgdUKPsJSjxeYeLWeLgna) | [Guajira](https://open.spotify.com/album/4S06ERzg9mgSwWlfyZdO2V) | 3:30 |
 | 80 | [Somos Hermanas](https://open.spotify.com/track/41THofGqCI97EnFDlPr7uZ) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Somos Hermanas](https://open.spotify.com/album/5jwDeAqliI9J5t7KXDInjK) | 3:50 |
 | 81 | [Price of Life](https://open.spotify.com/track/0WXHvhN3VnXrlk1JACQkf8) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [III](https://open.spotify.com/album/5tZXoFSg0vzFbJk0q8TtkI) | 3:44 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2zAr9vdmFlU.md) - [plain]
 | 96 | [El Amor Después Del Amor](https://open.spotify.com/track/0hqlx9C514EqYJ3OUIgNW1) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [El Amor Después Del Amor](https://open.spotify.com/album/7CLnc7ghDp9nX6zJy3Q7e6) | 3:45 |
 | 97 | [En Medio Del Jardín](https://open.spotify.com/track/3Yqh9YIKQaI7EwhKWIXUI5) | [DRIMS](https://open.spotify.com/artist/3fS9E7MLqc9VAQJeaE5B19) | [En Medio Del Jardín](https://open.spotify.com/album/48UdlUGkJlQBpMWc9iYlHY) | 3:41 |
 | 98 | [Agüita de Coco](https://open.spotify.com/track/1N5jZ3y5O2AMtcw1iggw76) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1), [Butera Knowless](https://open.spotify.com/artist/3x4ddfyjJHpGIBcPvdFxeK) | [Agüita de Coco](https://open.spotify.com/album/57BymNURM2SQpLtCzedXtx) | 2:33 |
-| 99 | [Malo Para Mí](https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1) | [Banana Leaf Boy](https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY) | [Malo Para Mí](https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo) | 4:42 |
-| 100 | [Desde Lejos](https://open.spotify.com/track/4HCnxcNcKPDa1Mxq4DmCMO) | [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [Desde Lejos](https://open.spotify.com/album/6G6B4oku3ddF4m8yNCMyMK) | 4:30 |
+| 99 | [Desde Lejos](https://open.spotify.com/track/4HCnxcNcKPDa1Mxq4DmCMO) | [Ley Line](https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX) | [Desde Lejos](https://open.spotify.com/album/6G6B4oku3ddF4m8yNCMyMK) | 4:30 |
+| 100 | [Malo Para Mí](https://open.spotify.com/track/0Sa0Y9ypKrbad4pweUUfC1) | [Banana Leaf Boy](https://open.spotify.com/artist/76fnNniEsJceBtSKOneZyY) | [Malo Para Mí](https://open.spotify.com/album/7nCbqstWngWFUAbN210EKo) | 4:42 |
 
-Snapshot ID: `MCw2OWE0MmEzN2MxOGRiNjQ0ZjFmOTdmNzhiNmFjMjVmMTM4MTY5ZDU3`
+Snapshot ID: `MCxkYzM4NzQ5YjNjOTYwMTE0N2E0MmVlZDZkNGEzYzFhMzI0NmZhMDYx`

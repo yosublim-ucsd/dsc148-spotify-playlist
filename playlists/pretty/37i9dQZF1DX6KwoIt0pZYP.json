@@ -1,12 +1,12 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 199756,
+  "num_followers": 200040,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWY2YTZmMDBhNmE4NjA1MmU2ZDM3MTk3M2VmMzExNDdjZDA3N2E3",
+  "snapshot_id": "MCxjOTU4NWIzZWZkZjc5MTNlYjVkN2VmOTcxOTgzYjQ2OWE3NzAwMDg5",
   "tracks": [
     {
       "added_at": "2023-10-06 02:07:14",
@@ -1343,26 +1343,6 @@
     {
       "added_at": "2023-10-06 02:07:14",
       "album": {
-        "name": "Slow (with Ciara)",
-        "url": "https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK"
-      },
-      "artists": [
-        {
-          "name": "Jackson Wang",
-          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 192181,
-      "name": "Slow (with Ciara)",
-      "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
-    },
-    {
-      "added_at": "2023-10-06 02:07:14",
-      "album": {
         "name": "No Hard Feelings",
         "url": "https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa"
       },
@@ -1387,18 +1367,38 @@
     {
       "added_at": "2023-10-06 02:07:14",
       "album": {
-        "name": "kiss me thru the phone",
-        "url": "https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P"
+        "name": "Slow (with Ciara)",
+        "url": "https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK"
       },
       "artists": [
         {
-          "name": "CLUB BOYBND",
-          "url": "https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN"
+          "name": "Jackson Wang",
+          "url": "https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
         }
       ],
-      "duration_ms": 117480,
-      "name": "kiss me thru the phone",
-      "url": "https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E"
+      "duration_ms": 192181,
+      "name": "Slow (with Ciara)",
+      "url": "https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5"
+    },
+    {
+      "added_at": "2023-10-06 02:07:14",
+      "album": {
+        "name": "butterflies",
+        "url": "https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        }
+      ],
+      "duration_ms": 212790,
+      "name": "butterflies",
+      "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
     },
     {
       "added_at": "2023-10-06 02:07:14",
@@ -1419,18 +1419,18 @@
     {
       "added_at": "2023-10-06 02:07:14",
       "album": {
-        "name": "butterflies",
-        "url": "https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv"
+        "name": "kiss me thru the phone",
+        "url": "https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P"
       },
       "artists": [
         {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+          "name": "CLUB BOYBND",
+          "url": "https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN"
         }
       ],
-      "duration_ms": 212790,
-      "name": "butterflies",
-      "url": "https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07"
+      "duration_ms": 117480,
+      "name": "kiss me thru the phone",
+      "url": "https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E"
     },
     {
       "added_at": "2023-10-06 02:07:14",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-10-06 02:07:14",
       "album": {
-        "name": "Toast",
-        "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
-      },
-      "artists": [
-        {
-          "name": "CLAUDIA",
-          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
-        }
-      ],
-      "duration_ms": 154105,
-      "name": "Toast",
-      "url": "https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s"
-    },
-    {
-      "added_at": "2023-10-06 02:07:14",
-      "album": {
         "name": "Yesterday",
         "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 191220,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2023-10-06 02:07:14",
+      "album": {
+        "name": "Toast",
+        "url": "https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb"
+      },
+      "artists": [
+        {
+          "name": "CLAUDIA",
+          "url": "https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P"
+        }
+      ],
+      "duration_ms": 154105,
+      "name": "Toast",
+      "url": "https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s"
     },
     {
       "added_at": "2023-10-06 02:07:14",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 
 > Música sabrosa para festejar la temporada de carnavales en México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,339 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,313 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 | 32 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
 | 33 | [Torero](https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 3:37 |
 | 34 | [Cumbia sobre el río / Interludio](https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 5:42 |
-| 35 | [Tonta](https://open.spotify.com/track/4HjIiXDTRKEVXL6Jov3kCY) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Orgánico](https://open.spotify.com/album/5JzUIBngiv4yCq8MfYMH74) | 3:25 |
-| 36 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 |
+| 35 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 |
+| 36 | [Tonta](https://open.spotify.com/track/4HjIiXDTRKEVXL6Jov3kCY) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Orgánico](https://open.spotify.com/album/5JzUIBngiv4yCq8MfYMH74) | 3:25 |
 | 37 | [La Ventanita](https://open.spotify.com/track/49nYkvvZTU06Pcwu1SrK4h) | [Garibaldi](https://open.spotify.com/artist/5PMqVxegfGlvhatvLA61uX) | [Caribe](https://open.spotify.com/album/3kpnPvG6TOLfpV0TvD0FUd) | 4:11 |
 | 38 | [Tu Sonrisa](https://open.spotify.com/track/3IS5IWZuDJJdqBJ9XVqpbh) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df) | [Suavemente](https://open.spotify.com/album/378XG6oO0TWcsGuxeQy2Os) | 4:34 |
 | 39 | [El Paso Del Gigante](https://open.spotify.com/track/5SW0bSJXKMukbh8FCcplA6) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Los Reyes De Los Sonidos](https://open.spotify.com/album/2iJqJTne30V8xi4X0AqUP6) | 3:36 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 | 48 | [El Ladrón \(with Julieta Venegas\)](https://open.spotify.com/track/7oRifTMLmeNCnTGtDH7KLV) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [La Sonora Santanera en Su 60 Aniversario](https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U) | 3:02 |
 | 49 | [El Baile del Perrito](https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [The Reventon: 30 Pegaditas](https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD) | 4:23 |
 | 50 | [Ramito De Violetas](https://open.spotify.com/track/7BwEomcUntwQkSWf3U0Yxl) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Éxitos](https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify) | 3:32 |
-| 51 | [Pero La Recuerdo](https://open.spotify.com/track/3mtThJNrqACi4f6GJeduAR) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Pero La Recuerdo](https://open.spotify.com/album/1rZTUDYyxdMYExoSiMa9kC) | 4:02 |
-| 52 | [1 2 3](https://open.spotify.com/track/3rxs4C8FPu0DcuKVaZlUCu) | [El Simbolo](https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3) | [Éxitos](https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd) | 3:39 |
+| 51 | [1 2 3](https://open.spotify.com/track/3rxs4C8FPu0DcuKVaZlUCu) | [El Simbolo](https://open.spotify.com/artist/276SjaOhqPfWqk3eDTDrz3) | [Éxitos](https://open.spotify.com/album/39823i6I0X4cFWoCQPZWOd) | 3:39 |
+| 52 | [Pero La Recuerdo](https://open.spotify.com/track/3mtThJNrqACi4f6GJeduAR) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv) | [Pero La Recuerdo](https://open.spotify.com/album/1rZTUDYyxdMYExoSiMa9kC) | 4:02 |
 | 53 | [Matamoros Querido](https://open.spotify.com/track/0ZrptJWS6dYhcv7j8ncrmf) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Matamoros Querido](https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR) | 3:07 |
 | 54 | [El Listón De Tu Pelo](https://open.spotify.com/track/4gPBK5eYojAxc2SldHkvTo) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Grandes Éxitos Remezclados Y Remasterizados](https://open.spotify.com/album/5I7CydpUxGqOSgFzSlxOew) | 3:34 |
 | 55 | [Bomboro Quiñá Quiñá \(with Rubén Albarrán\)](https://open.spotify.com/track/1rE3FOiSxAR0vmDg4Yntjy) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [La Sonora Santanera en Su 60 Aniversario](https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U) | 2:44 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 | 64 | [Mi Niña Mujer](https://open.spotify.com/track/2WPxFf05MYsEHQCxonA1vS) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8) | [De Plaza En Plaza \(Cumbia Sinfónica/Deluxe\)](https://open.spotify.com/album/7oxd8r5ovhnE67VLXEXS5M) | 3:14 |
 | 65 | [Cachondea](https://open.spotify.com/track/4TedxdAWvmtDCpYY9M6kue) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [Descarga Espectacular](https://open.spotify.com/album/6NK3Dj0pKVYzY7IUsTDsvP) | 4:57 |
 | 66 | [Mi Cucu](https://open.spotify.com/track/2cUKBUN66IsL9lc8PdISQY) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Lucho Argain](https://open.spotify.com/artist/69KQI0QMvoPN5OcpNgTC2b), [La India Meliyará](https://open.spotify.com/artist/0zBKolPOzGoV8uja8nnaUG) | [Greatest Cumbia Classics Of Colombia, Vol\. 1](https://open.spotify.com/album/53W9qG1q6xaKlUVuzkBNPV) | 3:54 |
-| 67 | [Tu Pun Pun](https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:32 |
-| 68 | [Amor Añejo](https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL) | [Internacional Carro Show](https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt) | [Las Viejas Mas Bailadas](https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET) | 3:05 |
+| 67 | [Amor Añejo](https://open.spotify.com/track/1H1kbmFt0EExo2dRPjZjCL) | [Internacional Carro Show](https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt) | [Las Viejas Mas Bailadas](https://open.spotify.com/album/6Q6fb0PsCRX0n0ufBmdxET) | 3:05 |
+| 68 | [Tu Pun Pun](https://open.spotify.com/track/5MIWYWguyDnxBlCQT9V4Kt) | [El General](https://open.spotify.com/artist/1fqHLAKthJsVYcukjFrroK) | [Estas Buena](https://open.spotify.com/album/0Qq0V5ltYmOukWBisFoZDI) | 3:32 |
 | 69 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
 | 70 | [La Sirenita](https://open.spotify.com/track/6X2Mxz4KnWYOAOHmv3MNAK) | [Rigo Tovar](https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx) | [Amor Y Cumbia](https://open.spotify.com/album/4nSARKHzo1d323AHGmvzsQ) | 3:56 |
 | 71 | [El Gran Varon](https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Legal Alien \- Top Secrets](https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ) | 6:54 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 | 74 | [Baila Esta Cumbia](https://open.spotify.com/track/23TUteFlo4GRVKy2zRvtMC) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 4:22 |
 | 75 | [Tan Bella Y Tan Presumida](https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP) | [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [Eva María](https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y) | 3:05 |
 
-Snapshot ID: `MCxiMGM3ZjQwMDk4MjFhZjk2YzYxYzlhNGJlMjBiOWQzOWQ3MDlmNzFi`
+Snapshot ID: `MCxkZDlmMWE3YTFjY2YxM2UxNTIyNDEwNThiNmVkOWVhNDQyNzcwY2Zh`

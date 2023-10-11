@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring Drake, Earl Sweatshirt and more\. Cover: Fivio Foreign
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,108 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,237 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 49 | [Return Of The Gangsta](https://open.spotify.com/track/60ujufmGzQFHcCswIiiWIw) | [Big Mali](https://open.spotify.com/artist/7x34WSbxJuJnz7pMPWg4Yz) | [Return Of The Gangsta](https://open.spotify.com/album/1QyxemTyRGvd68PDKOqzyx) | 2:44 |
 | 50 | [Rap Game Dead](https://open.spotify.com/track/0XHuPRrqUSjup0cyPc1kSF) | [ShaqIsDope](https://open.spotify.com/artist/3Is1kGaN2jmS0hB1Hn6dp4) | [Rap Game Dead](https://open.spotify.com/album/0WAtfFhLs7okYM50r51RIv) | 3:12 |
 
-Snapshot ID: `MCwyZDJlNjFhNDE3YjgwM2ZmNzdlYmYwMzMwMDZlYTE5ODlmNDBhMjM5`
+Snapshot ID: `MCxjNDk0YzNlODhlN2Y3NjUzMjBhYWY4Y2E4MTNjMTRkY2RiYjAwMGM4`

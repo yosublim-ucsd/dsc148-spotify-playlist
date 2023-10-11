@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > Die Tage werden kürzer und die Luft frischer\. Hier ist dein Soundtrack für den goldenen Herbst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,024,515 likes - 80 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,025,563 likes - 80 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 47 | [New Normal](https://open.spotify.com/track/2CIYemjFXdmCWpJnfbtrD6) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [New Normal](https://open.spotify.com/album/3icfuNPdPHFm1FS8WdBvRk) | 3:18 |
 | 48 | [Runaway](https://open.spotify.com/track/67MDtHFmozKIM6WlbXIhCl) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Runaway](https://open.spotify.com/album/6i9bj9UAehl2AQLDmz5SDH) | 3:06 |
 | 49 | [Eyes](https://open.spotify.com/track/5TL0AtDGqqAN5djwMTm7RV) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Eyes](https://open.spotify.com/album/43ZD81KI1vdDZiPoKedtQA) | 4:17 |
-| 50 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 |
-| 51 | [Trade it for the Night](https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/1TUyTfzAhejrdz4I4pymgp) | 4:50 |
+| 50 | [Trade it for the Night](https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/1TUyTfzAhejrdz4I4pymgp) | 4:50 |
+| 51 | [Coffee Shop](https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Coffee Shop](https://open.spotify.com/album/1jWqXdJ2EeP9CZvIfa3F9U) | 2:04 |
 | 52 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 |
 | 53 | [Calico](https://open.spotify.com/track/7EWwiyBXMaLzoSXwWZkYyU) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Calico](https://open.spotify.com/album/6ocDemfIGrj8hpvvpjDFoc) | 3:51 |
 | 54 | [Oceanside](https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Oceanside](https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV) | 2:47 |
@@ -68,25 +68,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 58 | [Bisschen wach](https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Am Ende des Tages](https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL) | 3:15 |
 | 59 | [Slow Dancing](https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [a touch of the beat gets you up on your feet gets you out and then into the sun](https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT) | 4:27 |
 | 60 | [ARE YOU WITH ME](https://open.spotify.com/track/6JaHUUwEULmCzw99jyBc4G) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [ARE YOU WITH ME](https://open.spotify.com/album/3kjidQ6jlBMkrpNucShbY2) | 2:47 |
-| 61 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
-| 62 | [Where the Heart Is \- Single Version](https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Where the Heart Is](https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG) | 3:37 |
+| 61 | [Where the Heart Is \- Single Version](https://open.spotify.com/track/6z7ilJUz6errwzC7cEoDgm) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Where the Heart Is](https://open.spotify.com/album/6R4T8gjO7lrbP0bALaRFjG) | 3:37 |
+| 62 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
 | 63 | [Two Thirds](https://open.spotify.com/track/4iwlTULepVCvBDYDGuibt1) | [Childe](https://open.spotify.com/artist/4KCn6A86ivcp0kJcOOi2sq) | [Two Thirds](https://open.spotify.com/album/2dnS3oCYGlApopA4gYbNNL) | 3:26 |
 | 64 | [Kahan \(last year\)](https://open.spotify.com/track/0fGsBRR1Am2H5nIQx9nFCT) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Kahan \(last year\)](https://open.spotify.com/album/215RCt9IFitsQ2fuDrnysX) | 3:36 |
 | 65 | [All Again](https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Prolog I](https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v) | 4:18 |
-| 66 | [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 |
-| 67 | [Confidant](https://open.spotify.com/track/5K8Qw6DCqInCJmnz1CwfiP) | [Blakey](https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl) | [Embers Mixtape](https://open.spotify.com/album/2YtYYKvQHPUSnKvrSwbsQi) | 3:35 |
+| 66 | [Confidant](https://open.spotify.com/track/5K8Qw6DCqInCJmnz1CwfiP) | [Blakey](https://open.spotify.com/artist/3cqjRMFHyTEbY3Gq1P7sAl) | [Embers Mixtape](https://open.spotify.com/album/2YtYYKvQHPUSnKvrSwbsQi) | 3:35 |
+| 67 | [Back In Love](https://open.spotify.com/track/20aysL9kYxvNPuSWEzh8pl) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Back In Love](https://open.spotify.com/album/6QqRF5zCtaC7QxClwaGUDf) | 4:41 |
 | 68 | [luft \(feat\. Friedberg\)](https://open.spotify.com/track/2bi2Sfu6PNmQByYPKrE1l9) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [Friedberg](https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn) | [trip](https://open.spotify.com/album/0vC7eOkhy4vQVm36mPMvkC) | 2:58 |
-| 69 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
-| 70 | [Told You So](https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Told You So](https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj) | 3:04 |
+| 69 | [Told You So](https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Told You So](https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj) | 3:04 |
+| 70 | [Addicted](https://open.spotify.com/track/3vMtiUewPWlK5UsIlE8lIy) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Addicted](https://open.spotify.com/album/4oGNxeyb9Qe4LcS98Szhcs) | 3:24 |
 | 71 | [Tissues](https://open.spotify.com/track/07rDOk6qeP4CpqlkJmUo5x) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Tissues](https://open.spotify.com/album/41tFNtJfGLhjTA3p510KOa) | 2:33 |
 | 72 | [Bound](https://open.spotify.com/track/1iOPoPTFROlTeYpJik7VMs) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Unfurl](https://open.spotify.com/album/3f91d3qVwL2zX9k4PKoXK2) | 4:58 |
 | 73 | [Call Me A Dreamer](https://open.spotify.com/track/5PMp84lVFm0SWEWOx1aQsw) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [Call Me A Dreamer](https://open.spotify.com/album/3zKpAuwGhuBpavexvu6ySj) | 3:48 |
-| 74 | [Piano in the Sky](https://open.spotify.com/track/2fOW155ruGcjxBdKoYFys4) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD) | 3:10 |
-| 75 | [Regen \(Piano Version\)](https://open.spotify.com/track/67pt4LpKzOe86oFtrMPb9V) | [Fynn Kliemann](https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS), [Philipp Schwär](https://open.spotify.com/artist/21zpknhD3wjZyfgr6WF0lg), [Klinger](https://open.spotify.com/artist/5IZvbL90N2vOjH9Cjqrgqr) | [Nur](https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK) | 3:36 |
-| 76 | [Just A Girl](https://open.spotify.com/track/1YU5Bgj457XVDNAyn4BO7R) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Just A Girl](https://open.spotify.com/album/5xYQJ2yZPnLyCrdpprwLUT) | 3:50 |
+| 74 | [Just A Girl](https://open.spotify.com/track/1YU5Bgj457XVDNAyn4BO7R) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Just A Girl](https://open.spotify.com/album/5xYQJ2yZPnLyCrdpprwLUT) | 3:50 |
+| 75 | [Piano in the Sky](https://open.spotify.com/track/2fOW155ruGcjxBdKoYFys4) | [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Island of the Sun](https://open.spotify.com/album/09ueWCq40PyJSmgxxMqIVD) | 3:10 |
+| 76 | [Regen \(Piano Version\)](https://open.spotify.com/track/67pt4LpKzOe86oFtrMPb9V) | [Fynn Kliemann](https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS), [Philipp Schwär](https://open.spotify.com/artist/21zpknhD3wjZyfgr6WF0lg), [Klinger](https://open.spotify.com/artist/5IZvbL90N2vOjH9Cjqrgqr) | [Nur](https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK) | 3:36 |
 | 77 | [By](https://open.spotify.com/track/5C4sp6JprCFTO9ZQcg4qXs) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [Hosoi](https://open.spotify.com/album/7zhdVONU5HcwpbmC7XtXsn) | 2:46 |
-| 78 | [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 |
-| 79 | [Aftermath](https://open.spotify.com/track/4qOGGLSAQau7XwhXBrFOdA) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 3:31 |
-| 80 | [Man Man](https://open.spotify.com/track/1Ibiuakl4eDRoOpA7jYyRM) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Man Man](https://open.spotify.com/album/3N4rKiNU9T3WAuv6Xg9TIR) | 2:52 |
+| 78 | [Aftermath](https://open.spotify.com/track/4qOGGLSAQau7XwhXBrFOdA) | [Mogli](https://open.spotify.com/artist/1E05B8q4mGKUB0n8Ag0Q7c) | [Ravage](https://open.spotify.com/album/6dvDfQcy2wY0G6sUjkfYpu) | 3:31 |
+| 79 | [Outgrown](https://open.spotify.com/track/4FhHveCp4LekuCDGPJxAhp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Amniotic \(Deluxe Version\)](https://open.spotify.com/album/0t4Ik0UYACGKrHBQ74S3U7) | 4:34 |
+| 80 | [Same Vibes](https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Same Vibes](https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO) | 3:00 |
 
-Snapshot ID: `MCw2NTkyYWM1NzVkZGY1MzY2OTlmOGUyN2IyMzU3NmEzNDg3ZWE5OWU3`
+Snapshot ID: `MCxiZWNkYmJmYzFlNjY3ZDMzNWNhZGRjODJhZDYxYmQzNWM4MjI1MjI4`

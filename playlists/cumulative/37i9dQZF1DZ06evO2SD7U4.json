@@ -635,6 +635,24 @@
     },
     {
       "album": {
+        "name": "Superespecial De Botellita de Jerez Ac\u00fastico Semi - Desenchufado en Vivo un Plug",
+        "url": "https://open.spotify.com/album/4lIYlrkQAGs8PtFP9TNUuA"
+      },
+      "artists": [
+        {
+          "name": "Botellita De Jerez",
+          "url": "https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458866,
+      "name": "La Balona de la Conquista",
+      "url": "https://open.spotify.com/track/0XzvypCYjCXRiV7V3f7X3v"
+    },
+    {
+      "album": {
         "name": "Ni\u00f1a De Mis Ojos",
         "url": "https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp"
       },
@@ -664,7 +682,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 174600,
       "name": "La Sorpresa",
       "url": "https://open.spotify.com/track/4xIX8bh2MEE1QkGk1sbWxf"
@@ -1114,7 +1132,7 @@
       ],
       "date_added": "2023-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 186053,
       "name": "\u00a1Que Se Acaben Los Guapos!",
       "url": "https://open.spotify.com/track/4OMF4unx7V16o87gijklQd"
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 233133,
       "name": "\u00bfTe Gusta a Ti Ese Son?",
       "url": "https://open.spotify.com/track/0xo20TzPU8fo8ZI0Re8vUG"

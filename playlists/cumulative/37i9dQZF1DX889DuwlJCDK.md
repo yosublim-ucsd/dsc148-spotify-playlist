@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。Cover: WurtS
 
-234 songs - 14 hr 23 min
+235 songs - 14 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [BIRTHDAY](https://open.spotify.com/track/4aULuHlNkw0JtUgarkgO4c) | [Ivy to Fraudulent Game](https://open.spotify.com/artist/4tfU4ctKJhrv0PJmSzMlJX) | [RE:BIRTH](https://open.spotify.com/album/1lzeSqAU7CcMDjZo23tslk) | 5:02 | 2023-09-26 | 2023-10-04 |
 | [Blue light](https://open.spotify.com/track/4maIfu6RioRLlTBOeTnP5g) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Blue light](https://open.spotify.com/album/7CgmEdA9U6sm9bneO5gc6M) | 3:55 | 2023-07-27 | 2023-08-25 |
 | [Blue Youth](https://open.spotify.com/track/04zTPJMXog2HpYK2mK5Wdg) | [Hikarinonakani](https://open.spotify.com/artist/7v1EcexaWSP0Ra29bQCsnm) | [Blue Youth](https://open.spotify.com/album/5fQudcd31VvtMr4IvFEWwo) | 1:48 | 2023-07-27 | 2023-08-29 |
-| [Boom Boom Boom](https://open.spotify.com/track/4hj6mw72DR2tk3g5NfQXpA) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [Boom Boom Boom](https://open.spotify.com/album/61CtIauFYJ0I3TktajTK21) | 2:24 | 2023-09-01 |  |
+| [Boom Boom Boom](https://open.spotify.com/track/4hj6mw72DR2tk3g5NfQXpA) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [Boom Boom Boom](https://open.spotify.com/album/61CtIauFYJ0I3TktajTK21) | 2:24 | 2023-09-01 | 2023-10-11 |
 | [BORDER](https://open.spotify.com/track/4vRqGi0BbbecchqNA5PJMK) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BORDER](https://open.spotify.com/album/21ptDmeuxNhWWmM0Hkp4y9) | 2:55 | 2023-07-27 |  |
 | [Boys&Boys](https://open.spotify.com/track/7xJZ7QeXbRMEmzMiE1hepV) | [Kanna](https://open.spotify.com/artist/47U5PirBYuleMsuD307qej) | [& Boys](https://open.spotify.com/album/7ggmoPLAxF87ltWZH4Lcm8) | 2:50 | 2023-08-08 | 2023-08-16 |
 | [Cinderella Boy](https://open.spotify.com/track/4UALTBWz0OdQcjbTsjFceV) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [Lazy Sunday](https://open.spotify.com/album/2EqGqT6xIeNpaJJe5yjFr3) | 3:54 | 2023-08-15 |  |
@@ -233,6 +233,7 @@
 | [花火散って、君がちょっと遠くなる](https://open.spotify.com/track/48PlhJn0xEPITYbpR5QG8q) | [FOMARE](https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH) | [花火散って、君がちょっと遠くなる](https://open.spotify.com/album/5iDOicWocj5H84iu0MJ8Zk) | 3:36 | 2023-07-27 |  |
 | [花瓶](https://open.spotify.com/track/4cJRvfyxLWzJKlQtuBwafi) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [NEW BORN GHOST](https://open.spotify.com/album/7I0gE5xwblR3qtvT3Z4uxc) | 3:27 | 2023-07-27 |  |
 | [貴方の恋人になりたい](https://open.spotify.com/track/5O7dUqcxMUVPFL9YAE9e7q) | [チョーキューメイ](https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq) | [するどいささくれ](https://open.spotify.com/album/7cLT6wmWAnltQhrBDo6jUt) | 3:54 | 2023-07-27 |  |
+| [貴方依存症](https://open.spotify.com/track/1i9rg9GEjQCrVC5PzaDOHD) | [ガラクタ](https://open.spotify.com/artist/7lcx8q6UJSp5VnlV0FRJOA) | [貴方依存症](https://open.spotify.com/album/0ONjD4LBW7N5V1XC6KcjT4) | 2:36 | 2023-10-10 |  |
 | [退屈日和](https://open.spotify.com/track/1SANS0ANduqRipbtBBozqk) | [なきごと](https://open.spotify.com/artist/0TuzJGIGYfXb4jIlr4flYl) | [君と暮らしの真ん中で](https://open.spotify.com/album/6OYxxPsxVd5R0dWQ8Lql5z) | 3:41 | 2023-10-03 | 2023-10-05 |
 | [過呼吸愛](https://open.spotify.com/track/2JPnyNJbfwBac5ij3jHaj2) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [羽化](https://open.spotify.com/album/2AbNjfO01Yyyeew0oYsHNR) | 2:25 | 2023-08-29 |  |
 | [道の途中](https://open.spotify.com/track/03V3gmMDZZa8U3CGXTEOsu) | [グソクムズ](https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk) | [道の途中](https://open.spotify.com/album/2I2XSTxcPhYvozdRWKswAj) | 4:05 | 2023-08-22 | 2023-10-09 |

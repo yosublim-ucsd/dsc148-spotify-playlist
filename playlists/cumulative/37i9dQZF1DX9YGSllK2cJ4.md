@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-347 songs - 15 hr 34 min
+348 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,8 @@
 | [Fornaboda](https://open.spotify.com/track/0kMtMEFvFQjTa7H7bdkCKM) | [Christian Peterson\-Bergling](https://open.spotify.com/artist/0jXPRVmiApahArJiibipfH) | [Fornaboda](https://open.spotify.com/album/3LyjyHrROwekL8eomtUcxd) | 2:28 | 2023-03-07 |  |
 | [Fragile Beauty](https://open.spotify.com/track/1hroEYeXHwndmO03pfIu9u) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [Fragile Beauty](https://open.spotify.com/album/63UFtAXFba8wSrPEouv010) | 2:30 | 2023-05-09 |  |
 | [Fragments](https://open.spotify.com/track/70JLpMenajRsMtCXaQ1jzu) | [Domenik Kalinsky](https://open.spotify.com/artist/4JYktW5hRyzdlGNRZDXjkQ) | [Fragments](https://open.spotify.com/album/1Txz3W66EqLF7DPLFGoL3K) | 2:42 | 2022-08-01 |  |
-| [From Home](https://open.spotify.com/track/02VydYQOYaLGZX2MWoCCQ8) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [From Home](https://open.spotify.com/album/7BF0crTRDCArRVfdCX94Yt) | 3:22 | 2022-12-05 |  |
+| [From Home](https://open.spotify.com/track/02VydYQOYaLGZX2MWoCCQ8) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [From Home](https://open.spotify.com/album/7BF0crTRDCArRVfdCX94Yt) | 3:22 | 2022-12-05 | 2023-10-11 |
+| [From Home](https://open.spotify.com/track/0EgbLbMqBzyEjIySBupBqH) | [Vivian Roost](https://open.spotify.com/artist/7aCsFWCF4YljmoHrXRA63I) | [From Home](https://open.spotify.com/album/4s631bf05BJesvz6XT3iDT) | 3:22 | 2023-10-09 |  |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2022-08-01 | 2022-12-06 |
 | [Gaude](https://open.spotify.com/track/702r5Zp3MlUuhf2whnn9iW) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Gaude](https://open.spotify.com/album/1Zkf2MRdYNBekP25u1p5BR) | 3:00 | 2023-01-31 | 2023-04-05 |
 | [Gestalt](https://open.spotify.com/track/5RqRq2sgnvkwjossuNUrjp) | [Carla Simmons](https://open.spotify.com/artist/5kReV2cF2cX1N5FruIhM9h) | [Gestalt](https://open.spotify.com/album/6ObPArNQyZa5fECTKmNaxg) | 2:55 | 2023-02-06 |  |

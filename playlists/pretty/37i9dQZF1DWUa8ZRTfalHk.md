@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 
 > Who's now and next in pop\. Cover: Kenya Grace
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,110,118 likes - 85 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,110,450 likes - 85 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8ZRTfalHk.md) - [plain]
 | 84 | [Better Things](https://open.spotify.com/track/6zZWoHlF2zNSLUNLvx4GUl) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Better Things](https://open.spotify.com/album/1SHLOv0DDdRecK60z86Lth) | 3:23 |
 | 85 | [Padam Padam](https://open.spotify.com/track/3k0DJq2HdWJqnqor8NX0ac) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Padam Padam](https://open.spotify.com/album/7vH3G0c3n1WsgTJHBmZxdV) | 2:46 |
 
-Snapshot ID: `MCwwNGYwMDAyY2VmMDllNzc0NWNkZTEyZDNlYjcyNjBjZTVjMmI2NGVk`
+Snapshot ID: `MCxhZjc2NDRlZmUwY2QyYjExNThlNWYxZDY1ZGM1N2Q0NzNiNjMxNDYw`

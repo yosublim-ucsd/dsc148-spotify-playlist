@@ -1,12 +1,12 @@
 {
   "description": "The soulful tunes to ease you into your day.",
-  "num_followers": 756736,
+  "num_followers": 756704,
   "original_name": "Soul Coffee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMmQzZGM1MGRhNzYxODNjMWE3MzZjYmQwZDE3ODI5NDBkZGRiYTMy",
+  "snapshot_id": "MCxlYzE4NjNkMzhhODcyODFjM2I4ZTY3ZWRhNzM4NGJhN2RjZWFjMjEx",
   "tracks": [
     {
       "added_at": "2023-08-25 04:00:00",
@@ -337,6 +337,38 @@
       "url": "https://open.spotify.com/track/2BoSvqAkYFcV9eO2j8b9po"
     },
     {
+      "added_at": "2022-09-23 04:06:59",
+      "album": {
+        "name": "SIDE OF YOU",
+        "url": "https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 165980,
+      "name": "SIDE OF YOU",
+      "url": "https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H"
+    },
+    {
+      "added_at": "2023-09-16 14:17:34",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 236236,
+      "name": "Go Baby",
+      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
+    },
+    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "My Phone Can Die",
@@ -359,38 +391,6 @@
       "duration_ms": 179508,
       "name": "My Phone Can Die",
       "url": "https://open.spotify.com/track/4RYsLFK1VLPtrwipmcAWoo"
-    },
-    {
-      "added_at": "2023-09-16 14:17:34",
-      "album": {
-        "name": "Heaven",
-        "url": "https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 236236,
-      "name": "Go Baby",
-      "url": "https://open.spotify.com/track/3NiL2JcFIncyshy4KOKA73"
-    },
-    {
-      "added_at": "2022-09-23 04:06:59",
-      "album": {
-        "name": "SIDE OF YOU",
-        "url": "https://open.spotify.com/album/4bl5UiLHsOJc2OIaO9ugmG"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 165980,
-      "name": "SIDE OF YOU",
-      "url": "https://open.spotify.com/track/1cHBuQf2xa55GghN4eBp1H"
     },
     {
       "added_at": "2022-03-11 05:00:00",
@@ -653,22 +653,6 @@
       "url": "https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8"
     },
     {
-      "added_at": "2023-09-08 06:01:16",
-      "album": {
-        "name": "Pool",
-        "url": "https://open.spotify.com/album/1evGeFVD7S1s4OZgm50imJ"
-      },
-      "artists": [
-        {
-          "name": "Samoht",
-          "url": "https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Pool",
-      "url": "https://open.spotify.com/track/1BsIEwG3lEAvss3L82xeeD"
-    },
-    {
       "added_at": "2023-04-28 04:00:00",
       "album": {
         "name": "All For You",
@@ -687,6 +671,22 @@
       "duration_ms": 238571,
       "name": "Lying To You",
       "url": "https://open.spotify.com/track/67ngp6fHtPNrUGuGu4cvcm"
+    },
+    {
+      "added_at": "2023-09-08 06:01:16",
+      "album": {
+        "name": "Pool",
+        "url": "https://open.spotify.com/album/1evGeFVD7S1s4OZgm50imJ"
+      },
+      "artists": [
+        {
+          "name": "Samoht",
+          "url": "https://open.spotify.com/artist/25uXu4OnYB9IH9GI6OgxsK"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Pool",
+      "url": "https://open.spotify.com/track/1BsIEwG3lEAvss3L82xeeD"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/7shWFWckY9KfesurTuUHkR"
     },
     {
-      "added_at": "2023-09-16 14:17:34",
-      "album": {
-        "name": "Black Rainbows",
-        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
-      },
-      "artists": [
-        {
-          "name": "Corinne Bailey Rae",
-          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
-        }
-      ],
-      "duration_ms": 225298,
-      "name": "He Will Follow You With His Eyes",
-      "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "PATTERNS",
@@ -883,6 +867,22 @@
       "duration_ms": 140960,
       "name": "Right My Wrongs",
       "url": "https://open.spotify.com/track/0kAy9nius3LMRVcE3W0I9J"
+    },
+    {
+      "added_at": "2023-09-16 14:17:34",
+      "album": {
+        "name": "Black Rainbows",
+        "url": "https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1"
+      },
+      "artists": [
+        {
+          "name": "Corinne Bailey Rae",
+          "url": "https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn"
+        }
+      ],
+      "duration_ms": 225298,
+      "name": "He Will Follow You With His Eyes",
+      "url": "https://open.spotify.com/track/4kP5P9xl4iu191ZvPzGuZW"
     },
     {
       "added_at": "2023-08-25 04:00:00",
@@ -1049,6 +1049,38 @@
       "url": "https://open.spotify.com/track/2YyVFxsdtALHVaEJPC8mbA"
     },
     {
+      "added_at": "2023-09-01 04:50:07",
+      "album": {
+        "name": "crumbs in my bed",
+        "url": "https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh"
+      },
+      "artists": [
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "no spine",
+      "url": "https://open.spotify.com/track/1YHB8m41zFD61dCHy96BFI"
+    },
+    {
+      "added_at": "2023-08-11 05:34:17",
+      "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
+      },
+      "artists": [
+        {
+          "name": "Elmiene",
+          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
+        }
+      ],
+      "duration_ms": 220573,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
+    },
+    {
       "added_at": "2022-03-11 05:00:00",
       "album": {
         "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
@@ -1071,38 +1103,6 @@
       "duration_ms": 299366,
       "name": "Better Than I Imagined (Feat. H.E.R. & Meshell Ndegeocello)",
       "url": "https://open.spotify.com/track/04vYVsWbhkQaTLx2kgVNks"
-    },
-    {
-      "added_at": "2023-08-11 05:34:17",
-      "album": {
-        "name": "Mama",
-        "url": "https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6"
-      },
-      "artists": [
-        {
-          "name": "Elmiene",
-          "url": "https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL"
-        }
-      ],
-      "duration_ms": 220573,
-      "name": "Mama",
-      "url": "https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8"
-    },
-    {
-      "added_at": "2023-09-01 04:50:07",
-      "album": {
-        "name": "crumbs in my bed",
-        "url": "https://open.spotify.com/album/4zw4swEirlhHxLrjm1gTGh"
-      },
-      "artists": [
-        {
-          "name": "Amie Blu",
-          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "no spine",
-      "url": "https://open.spotify.com/track/1YHB8m41zFD61dCHy96BFI"
     },
     {
       "added_at": "2023-02-24 05:00:00",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/39RJfDkli3BkEsW6LN4DrZ"
     },
     {
-      "added_at": "2023-06-30 04:28:27",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/2k5NXdSqKdDcAFFPzTouet"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 216986,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Blue",
@@ -1219,6 +1203,22 @@
       "duration_ms": 205229,
       "name": "Why (Spare Me Tears)",
       "url": "https://open.spotify.com/track/6IGHR5Ei4cFvcxwg22PAKB"
+    },
+    {
+      "added_at": "2023-06-30 04:28:27",
+      "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/2k5NXdSqKdDcAFFPzTouet"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 216986,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/4HDsNTcpprSDjtO9nK31yb"
     },
     {
       "added_at": "2023-03-31 05:53:45",
@@ -1253,6 +1253,22 @@
       "url": "https://open.spotify.com/track/5PAS1dyZn7mb7Eq3JM0ejK"
     },
     {
+      "added_at": "2023-06-02 04:00:00",
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
+    },
+    {
       "added_at": "2023-08-25 04:00:00",
       "album": {
         "name": "Welcome Home",
@@ -1271,22 +1287,6 @@
       "duration_ms": 223406,
       "name": "Don't Turn The Music Down",
       "url": "https://open.spotify.com/track/5oCRONUj1i5wNH4XM5lPSl"
-    },
-    {
-      "added_at": "2023-06-02 04:00:00",
-      "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "bend yr ear",
-      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "added_at": "2023-06-16 06:17:29",
@@ -1353,6 +1353,38 @@
       "url": "https://open.spotify.com/track/0BCCNCHg7w7RV0JczNwzyP"
     },
     {
+      "added_at": "2022-11-11 05:00:00",
+      "album": {
+        "name": "Untitled (God)",
+        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
+      },
+      "artists": [
+        {
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
+        }
+      ],
+      "duration_ms": 155813,
+      "name": "Colour Blind",
+      "url": "https://open.spotify.com/track/2MdaZiTCxs3ocA43K0lsgx"
+    },
+    {
+      "added_at": "2023-05-26 13:00:09",
+      "album": {
+        "name": "Midnight Microdose, Vol. 1",
+        "url": "https://open.spotify.com/album/3y0aueHT3E9cXsnuRwIaGV"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+        }
+      ],
+      "duration_ms": 125706,
+      "name": "Cocoa",
+      "url": "https://open.spotify.com/track/5z4UjNfc0s3mkAR1l8A1cb"
+    },
+    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "Queen Space (with Summer Walker)",
@@ -1373,36 +1405,20 @@
       "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
     },
     {
-      "added_at": "2023-05-26 13:00:09",
+      "added_at": "2023-04-07 04:00:00",
       "album": {
-        "name": "Midnight Microdose, Vol. 1",
-        "url": "https://open.spotify.com/album/3y0aueHT3E9cXsnuRwIaGV"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ"
       },
       "artists": [
         {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+          "name": "Otis Kane",
+          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
         }
       ],
-      "duration_ms": 125706,
-      "name": "Cocoa",
-      "url": "https://open.spotify.com/track/5z4UjNfc0s3mkAR1l8A1cb"
-    },
-    {
-      "added_at": "2022-11-11 05:00:00",
-      "album": {
-        "name": "Untitled (God)",
-        "url": "https://open.spotify.com/album/106QT3POAohZwyjbesTK5L"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 155813,
-      "name": "Colour Blind",
-      "url": "https://open.spotify.com/track/2MdaZiTCxs3ocA43K0lsgx"
+      "duration_ms": 199903,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1419,22 +1435,6 @@
       "duration_ms": 156440,
       "name": "That's All I Wanted From You",
       "url": "https://open.spotify.com/track/6KPPfdQTxqmpt4Mr1RU09o"
-    },
-    {
-      "added_at": "2023-04-07 04:00:00",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ"
-      },
-      "artists": [
-        {
-          "name": "Otis Kane",
-          "url": "https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl"
-        }
-      ],
-      "duration_ms": 199903,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV"
     },
     {
       "added_at": "2023-04-07 04:00:00",
@@ -1465,22 +1465,6 @@
       "url": "https://open.spotify.com/track/7mxvuhXGwCU8qmTuQR5rcg"
     },
     {
-      "added_at": "2023-04-28 04:00:00",
-      "album": {
-        "name": "Don't Doubt It",
-        "url": "https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN"
-      },
-      "artists": [
-        {
-          "name": "Sam Wills",
-          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
-        }
-      ],
-      "duration_ms": 182493,
-      "name": "Don't Doubt It",
-      "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "PHILEO",
@@ -1497,6 +1481,22 @@
       "url": "https://open.spotify.com/track/5RPbT8pJDjf4LCERWd2Qgd"
     },
     {
+      "added_at": "2023-04-28 04:00:00",
+      "album": {
+        "name": "Don't Doubt It",
+        "url": "https://open.spotify.com/album/7misvvbAa72HkMvqBPNfRN"
+      },
+      "artists": [
+        {
+          "name": "Sam Wills",
+          "url": "https://open.spotify.com/artist/7JFinw4LobpCUjapyKvsjo"
+        }
+      ],
+      "duration_ms": 182493,
+      "name": "Don't Doubt It",
+      "url": "https://open.spotify.com/track/28yYqgatnEJFxN8JOmvxUk"
+    },
+    {
       "added_at": "2023-03-03 05:39:26",
       "album": {
         "name": "Sheet Music",
@@ -1511,22 +1511,6 @@
       "duration_ms": 188333,
       "name": "Only You",
       "url": "https://open.spotify.com/track/3inov7UTS3ZHlq3RvDT5Ga"
-    },
-    {
-      "added_at": "2023-09-08 06:01:16",
-      "album": {
-        "name": "Million Shades",
-        "url": "https://open.spotify.com/album/09OzZziZlOvz02UoNanftg"
-      },
-      "artists": [
-        {
-          "name": "Dre Scot",
-          "url": "https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1"
-        }
-      ],
-      "duration_ms": 190129,
-      "name": "MIllion Shades",
-      "url": "https://open.spotify.com/track/4qTg1pM6JpCxfmGVqOLqRY"
     },
     {
       "added_at": "2023-05-05 05:35:01",
@@ -1549,24 +1533,36 @@
       "url": "https://open.spotify.com/track/0B5RsEt6AbLQJhgJxWfN9O"
     },
     {
-      "added_at": "2023-06-16 06:17:29",
+      "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "I Can Say To You [Feat. Vanisha Gould]",
-        "url": "https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC"
+        "name": "Mrs. Postman",
+        "url": "https://open.spotify.com/album/6ku3r5n7dUQAXadxQ9ggZe"
       },
       "artists": [
         {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        },
-        {
-          "name": "Vanisha Gould",
-          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
         }
       ],
-      "duration_ms": 217984,
-      "name": "I Can Say To You [Feat. Vanisha Gould] - Single Edit",
-      "url": "https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs"
+      "duration_ms": 248213,
+      "name": "Mrs. Postman",
+      "url": "https://open.spotify.com/track/0RmDnoikD0DgBBcXsrt1qN"
+    },
+    {
+      "added_at": "2023-09-08 06:01:16",
+      "album": {
+        "name": "Million Shades",
+        "url": "https://open.spotify.com/album/09OzZziZlOvz02UoNanftg"
+      },
+      "artists": [
+        {
+          "name": "Dre Scot",
+          "url": "https://open.spotify.com/artist/2DYHQcNeA2fbIsSx7kYvE1"
+        }
+      ],
+      "duration_ms": 190129,
+      "name": "MIllion Shades",
+      "url": "https://open.spotify.com/track/4qTg1pM6JpCxfmGVqOLqRY"
     },
     {
       "added_at": "2023-03-10 05:00:00",
@@ -1605,20 +1601,24 @@
       "url": "https://open.spotify.com/track/4ywdVPBmQr1PAkAQitNqyS"
     },
     {
-      "added_at": "2023-09-29 04:00:00",
+      "added_at": "2023-06-16 06:17:29",
       "album": {
-        "name": "Mrs. Postman",
-        "url": "https://open.spotify.com/album/6ku3r5n7dUQAXadxQ9ggZe"
+        "name": "I Can Say To You [Feat. Vanisha Gould]",
+        "url": "https://open.spotify.com/album/0cdH5hfYt9f70uLrkiSolC"
       },
       "artists": [
         {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        },
+        {
+          "name": "Vanisha Gould",
+          "url": "https://open.spotify.com/artist/0z7qSkfrWXvgNrSgnidiag"
         }
       ],
-      "duration_ms": 248213,
-      "name": "Mrs. Postman",
-      "url": "https://open.spotify.com/track/0RmDnoikD0DgBBcXsrt1qN"
+      "duration_ms": 217984,
+      "name": "I Can Say To You [Feat. Vanisha Gould] - Single Edit",
+      "url": "https://open.spotify.com/track/77QJgfFBYZQU0zXByezYGs"
     },
     {
       "added_at": "2023-06-09 04:00:00",
@@ -1639,6 +1639,22 @@
       "duration_ms": 200252,
       "name": "Liquor Store In The Sky (feat. Freddie Gibbs)",
       "url": "https://open.spotify.com/track/0y3DGDbZOewDRrNIhchtDj"
+    },
+    {
+      "added_at": "2022-11-04 04:00:00",
+      "album": {
+        "name": "Closer (Deluxe)",
+        "url": "https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 234144,
+      "name": "On My Mind",
+      "url": "https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP"
     },
     {
       "added_at": "2023-08-11 05:34:17",
@@ -1663,22 +1679,6 @@
       "duration_ms": 190259,
       "name": "Temperature High",
       "url": "https://open.spotify.com/track/7EfXF5eDjdGvAp6Lvqz7w0"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "Closer (Deluxe)",
-        "url": "https://open.spotify.com/album/6rByiyStzXd3JzGaVL8KTj"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        }
-      ],
-      "duration_ms": 234144,
-      "name": "On My Mind",
-      "url": "https://open.spotify.com/track/10JP2PrHstD8gQHeui3teP"
     },
     {
       "added_at": "2023-04-28 04:00:00",
@@ -1733,22 +1733,6 @@
       "url": "https://open.spotify.com/track/3fMDMQEcEFW4LV7P6oay3b"
     },
     {
-      "added_at": "2023-02-12 14:52:23",
-      "album": {
-        "name": "I Need To Know",
-        "url": "https://open.spotify.com/album/18jbgIaS5OO0tDykAUMs07"
-      },
-      "artists": [
-        {
-          "name": "Ledisi",
-          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
-        }
-      ],
-      "duration_ms": 240889,
-      "name": "I Need To Know",
-      "url": "https://open.spotify.com/track/2pQb0GnMbJHdUJu5dIQ3hw"
-    },
-    {
       "added_at": "2022-10-14 04:00:00",
       "album": {
         "name": "Come Around and Love Me",
@@ -1763,6 +1747,22 @@
       "duration_ms": 175426,
       "name": "What A Difference She Made",
       "url": "https://open.spotify.com/track/4kOdKWtst1d1PwERMtOWlX"
+    },
+    {
+      "added_at": "2023-02-12 14:52:23",
+      "album": {
+        "name": "I Need To Know",
+        "url": "https://open.spotify.com/album/18jbgIaS5OO0tDykAUMs07"
+      },
+      "artists": [
+        {
+          "name": "Ledisi",
+          "url": "https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA"
+        }
+      ],
+      "duration_ms": 240889,
+      "name": "I Need To Know",
+      "url": "https://open.spotify.com/track/2pQb0GnMbJHdUJu5dIQ3hw"
     },
     {
       "added_at": "2023-06-02 04:00:00",
@@ -1861,6 +1861,22 @@
       "url": "https://open.spotify.com/track/5YjXdf3xOgpix4ULgoVJnT"
     },
     {
+      "added_at": "2023-09-08 06:01:16",
+      "album": {
+        "name": "Bring You A Ring",
+        "url": "https://open.spotify.com/album/5BsO8y5Kd9RfIRRpCY8OhZ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 186710,
+      "name": "Bring You A Ring",
+      "url": "https://open.spotify.com/track/66ELEVRlZzcOx3V55qYY5F"
+    },
+    {
       "added_at": "2023-09-29 04:00:00",
       "album": {
         "name": "Real",
@@ -1887,22 +1903,6 @@
       "duration_ms": 186750,
       "name": "Real",
       "url": "https://open.spotify.com/track/5s0HBOVFessQ9nkxz0aMDT"
-    },
-    {
-      "added_at": "2023-09-08 06:01:16",
-      "album": {
-        "name": "Bring You A Ring",
-        "url": "https://open.spotify.com/album/5BsO8y5Kd9RfIRRpCY8OhZ"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 186710,
-      "name": "Bring You A Ring",
-      "url": "https://open.spotify.com/track/66ELEVRlZzcOx3V55qYY5F"
     },
     {
       "added_at": "2023-09-01 04:50:07",
@@ -2109,20 +2109,20 @@
       "url": "https://open.spotify.com/track/7t15QHGSW2IyHkVEjsD6XH"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
+      "added_at": "2023-06-09 04:00:00",
       "album": {
-        "name": "Taxi Driver / 7711",
-        "url": "https://open.spotify.com/album/64Mcx8MEsX8PDEEMfI4ixU"
+        "name": "These Songs Are For Anyone Sick Of Earth",
+        "url": "https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j"
       },
       "artists": [
         {
-          "name": "Felix Ames",
-          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
+          "name": "Aliah Sheffield",
+          "url": "https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ"
         }
       ],
-      "duration_ms": 176453,
-      "name": "Taxi Driver",
-      "url": "https://open.spotify.com/track/7vAlIaKmcTYB1BqFcTuQmW"
+      "duration_ms": 229299,
+      "name": "Good For The Money",
+      "url": "https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF"
     },
     {
       "added_at": "2023-04-21 04:00:00",
@@ -2145,20 +2145,20 @@
       "url": "https://open.spotify.com/track/05JIFzIzIFqS9Gms1b4TUr"
     },
     {
-      "added_at": "2023-06-09 04:00:00",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "These Songs Are For Anyone Sick Of Earth",
-        "url": "https://open.spotify.com/album/5QA7U5txuoQ6JLwdqa6J4j"
+        "name": "Taxi Driver / 7711",
+        "url": "https://open.spotify.com/album/64Mcx8MEsX8PDEEMfI4ixU"
       },
       "artists": [
         {
-          "name": "Aliah Sheffield",
-          "url": "https://open.spotify.com/artist/6qQANHDxlpq5OEz47UBzMJ"
+          "name": "Felix Ames",
+          "url": "https://open.spotify.com/artist/0UBIK7mjIJeYZ5qy6fUPG2"
         }
       ],
-      "duration_ms": 229299,
-      "name": "Good For The Money",
-      "url": "https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF"
+      "duration_ms": 176453,
+      "name": "Taxi Driver",
+      "url": "https://open.spotify.com/track/7vAlIaKmcTYB1BqFcTuQmW"
     },
     {
       "added_at": "2022-11-18 18:12:42",
@@ -2253,6 +2253,26 @@
       "url": "https://open.spotify.com/track/23O3KsvjLmGlijBpF4wS6v"
     },
     {
+      "added_at": "2023-04-21 04:00:00",
+      "album": {
+        "name": "Trash",
+        "url": "https://open.spotify.com/album/06dSrdMvvtas3Y4OvQXXkb"
+      },
+      "artists": [
+        {
+          "name": "NNAVY",
+          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
+        },
+        {
+          "name": "Ben L'Oncle Soul",
+          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
+        }
+      ],
+      "duration_ms": 209446,
+      "name": "Trash",
+      "url": "https://open.spotify.com/track/5Gmqh7FQA5S002e5wdkFnj"
+    },
+    {
       "added_at": "2023-05-05 05:35:01",
       "album": {
         "name": "The Energy",
@@ -2275,26 +2295,6 @@
       "duration_ms": 219464,
       "name": "The Energy",
       "url": "https://open.spotify.com/track/0KhNmUNDpg3fPrGV0YpvnH"
-    },
-    {
-      "added_at": "2023-04-21 04:00:00",
-      "album": {
-        "name": "Trash",
-        "url": "https://open.spotify.com/album/06dSrdMvvtas3Y4OvQXXkb"
-      },
-      "artists": [
-        {
-          "name": "NNAVY",
-          "url": "https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu"
-        },
-        {
-          "name": "Ben L'Oncle Soul",
-          "url": "https://open.spotify.com/artist/2dJTa3mUidZAO9sKcY72tK"
-        }
-      ],
-      "duration_ms": 209446,
-      "name": "Trash",
-      "url": "https://open.spotify.com/track/5Gmqh7FQA5S002e5wdkFnj"
     },
     {
       "added_at": "2023-07-21 04:00:00",
@@ -2345,6 +2345,22 @@
       "url": "https://open.spotify.com/track/2Tv98WrbvTsQfa2xH5OSwO"
     },
     {
+      "added_at": "2023-10-06 04:12:18",
+      "album": {
+        "name": "Fly By",
+        "url": "https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4"
+      },
+      "artists": [
+        {
+          "name": "Joy Denalane",
+          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
+        }
+      ],
+      "duration_ms": 201960,
+      "name": "Fly By",
+      "url": "https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq"
+    },
+    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "Pros and Cons",
@@ -2377,26 +2393,6 @@
       "url": "https://open.spotify.com/track/0mBX1jSxAQbOlfSWgZlL0I"
     },
     {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "COME AS YOU ARE",
-        "url": "https://open.spotify.com/album/4P5fBzAOk6fcsyzUHs8ce2"
-      },
-      "artists": [
-        {
-          "name": "C.S. Armstrong",
-          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
-        },
-        {
-          "name": "Coco O.",
-          "url": "https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy"
-        }
-      ],
-      "duration_ms": 156150,
-      "name": "PATIENCE",
-      "url": "https://open.spotify.com/track/1s4nf70ewlVgOgULKYkvoR"
-    },
-    {
       "added_at": "2023-02-24 05:00:00",
       "album": {
         "name": "beat of a slow dance",
@@ -2417,20 +2413,24 @@
       "url": "https://open.spotify.com/track/1lhSO8JusksTEPOV7zchg1"
     },
     {
-      "added_at": "2023-02-24 05:00:00",
+      "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "(Please Don't) Leave Me Now",
-        "url": "https://open.spotify.com/album/57rOrL0GoJfxl5BmigUTxv"
+        "name": "COME AS YOU ARE",
+        "url": "https://open.spotify.com/album/4P5fBzAOk6fcsyzUHs8ce2"
       },
       "artists": [
         {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
+          "name": "C.S. Armstrong",
+          "url": "https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO"
+        },
+        {
+          "name": "Coco O.",
+          "url": "https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy"
         }
       ],
-      "duration_ms": 183701,
-      "name": "(Please Don't) Leave Me Now",
-      "url": "https://open.spotify.com/track/0FsApA1lcgdcUHFlwEnTfE"
+      "duration_ms": 156150,
+      "name": "PATIENCE",
+      "url": "https://open.spotify.com/track/1s4nf70ewlVgOgULKYkvoR"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -2449,20 +2449,20 @@
       "url": "https://open.spotify.com/track/4YIVPG1e2m9moeCRdc3w0E"
     },
     {
-      "added_at": "2023-10-06 04:12:18",
+      "added_at": "2023-02-24 05:00:00",
       "album": {
-        "name": "Fly By",
-        "url": "https://open.spotify.com/album/4UIxOfBaYhCmzQmXWs0LK4"
+        "name": "(Please Don't) Leave Me Now",
+        "url": "https://open.spotify.com/album/57rOrL0GoJfxl5BmigUTxv"
       },
       "artists": [
         {
-          "name": "Joy Denalane",
-          "url": "https://open.spotify.com/artist/5vP3nmsaGrondXXS5BvrSH"
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
         }
       ],
-      "duration_ms": 201960,
-      "name": "Fly By",
-      "url": "https://open.spotify.com/track/2UdpL4QOvjOmsp0JNgRzTq"
+      "duration_ms": 183701,
+      "name": "(Please Don't) Leave Me Now",
+      "url": "https://open.spotify.com/track/0FsApA1lcgdcUHFlwEnTfE"
     },
     {
       "added_at": "2023-02-03 05:00:00",
@@ -2553,6 +2553,22 @@
       "url": "https://open.spotify.com/track/5N7usY5OYD0sCTNiZZlyQn"
     },
     {
+      "added_at": "2023-10-06 04:12:18",
+      "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 198939,
+      "name": "Deep (Hold You)",
+      "url": "https://open.spotify.com/track/0TBTTHWLCOstRgZvQslRYm"
+    },
+    {
       "added_at": "2022-11-04 04:00:00",
       "album": {
         "name": "enLIGHTened",
@@ -2567,22 +2583,6 @@
       "duration_ms": 224420,
       "name": "You Got This",
       "url": "https://open.spotify.com/track/6uI4xbZ7ASvRO9oEVZfZPF"
-    },
-    {
-      "added_at": "2023-05-12 06:47:47",
-      "album": {
-        "name": "Love Me Down",
-        "url": "https://open.spotify.com/album/4H8cNDBzIJG4CjkaWC8aCx"
-      },
-      "artists": [
-        {
-          "name": "LA'DY",
-          "url": "https://open.spotify.com/artist/5b0jEo4I7GhpkpINczgE0E"
-        }
-      ],
-      "duration_ms": 172018,
-      "name": "Love Me Down",
-      "url": "https://open.spotify.com/track/50dMlZYLpRrPjiaaik0PVp"
     },
     {
       "added_at": "2022-09-09 04:08:19",
@@ -2617,6 +2617,22 @@
       "url": "https://open.spotify.com/track/1E7ssTY1Eeb69pr6aVe6xM"
     },
     {
+      "added_at": "2023-05-12 06:47:47",
+      "album": {
+        "name": "Love Me Down",
+        "url": "https://open.spotify.com/album/4H8cNDBzIJG4CjkaWC8aCx"
+      },
+      "artists": [
+        {
+          "name": "LA'DY",
+          "url": "https://open.spotify.com/artist/5b0jEo4I7GhpkpINczgE0E"
+        }
+      ],
+      "duration_ms": 172018,
+      "name": "Love Me Down",
+      "url": "https://open.spotify.com/track/50dMlZYLpRrPjiaaik0PVp"
+    },
+    {
       "added_at": "2022-09-09 04:08:19",
       "album": {
         "name": "Under the Sun",
@@ -2633,6 +2649,22 @@
       "url": "https://open.spotify.com/track/5cyQOgAlJrY2idaIoC4Dzp"
     },
     {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Kiss The Sky",
+        "url": "https://open.spotify.com/album/5VHPseQHlNgqVA8L0tjYj1"
+      },
+      "artists": [
+        {
+          "name": "Avery Wilson",
+          "url": "https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3"
+        }
+      ],
+      "duration_ms": 348284,
+      "name": "Kiss The Sky",
+      "url": "https://open.spotify.com/track/5kRwRpU0ah48DmRfxARPHt"
+    },
+    {
       "added_at": "2023-09-08 06:01:16",
       "album": {
         "name": "What Do You Do",
@@ -2647,38 +2679,6 @@
       "duration_ms": 188506,
       "name": "What Do You Do",
       "url": "https://open.spotify.com/track/76To8vko0V30a8PT3q312Z"
-    },
-    {
-      "added_at": "2022-03-11 05:00:00",
-      "album": {
-        "name": "Stolen Fruit",
-        "url": "https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv"
-      },
-      "artists": [
-        {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        }
-      ],
-      "duration_ms": 217625,
-      "name": "Stolen Fruit",
-      "url": "https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF"
-    },
-    {
-      "added_at": "2023-02-24 05:00:00",
-      "album": {
-        "name": "STILL HAVE YOU",
-        "url": "https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX"
-      },
-      "artists": [
-        {
-          "name": "Jake Isaac",
-          "url": "https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB"
-        }
-      ],
-      "duration_ms": 142306,
-      "name": "STILL HAVE YOU",
-      "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
     }
   ],
   "unique_name": "Soul Coffee",

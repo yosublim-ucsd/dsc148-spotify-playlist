@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-888 songs - 2 day 10 hr 10 min
+889 songs - 2 day 10 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -375,7 +375,7 @@
 | [If I Had My Way](https://open.spotify.com/track/6140Uf7R4cNyHUJnhYG5h7) | [Osees](https://open.spotify.com/artist/0Ynh5WKqwbdYqJUpVpfEGS), [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Protean Threat](https://open.spotify.com/album/16l3FJwjZooUHbU37sdeeI) | 2:47 | 2022-04-20 | 2023-03-07 |
 | [If I Were A Butterfly \- Single Version](https://open.spotify.com/track/6inkWeYbXK6IuhCALR379j) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [If I Were A Butterfly](https://open.spotify.com/album/5zF48gx3TWHg2Mi8nFrtpn) | 5:11 | 2022-09-02 | 2022-09-21 |
 | [If You Don't Wanna Know](https://open.spotify.com/track/6u2sNdU0FNLbtZypNb2ubE) | [Fake Laugh](https://open.spotify.com/artist/0T9yyggayix1EKjiq3hW2m) | [If You Don't Wanna Know](https://open.spotify.com/album/2bhkXqzbP7wROlIJPe0BE9) | 3:27 | 2021-04-02 | 2022-04-21 |
-| [Iggy](https://open.spotify.com/track/2HKILv0izIotCwJeBsnmpP) | [Chelsea Days](https://open.spotify.com/artist/0Ix2QkyM31FfPRCQjnkttP) | [sincerely,](https://open.spotify.com/album/5p24JDgC6pO7shv1OmX2dO) | 2:53 | 2023-06-23 |  |
+| [Iggy](https://open.spotify.com/track/2HKILv0izIotCwJeBsnmpP) | [Chelsea Days](https://open.spotify.com/artist/0Ix2QkyM31FfPRCQjnkttP) | [sincerely,](https://open.spotify.com/album/5p24JDgC6pO7shv1OmX2dO) | 2:53 | 2023-06-23 | 2023-10-11 |
 | [ILLUSIONS](https://open.spotify.com/track/5brlbAE683E1wEzKDNT3B8) | [Gavin Turek](https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG) | [ILLUSIONS](https://open.spotify.com/album/4hBStZD5wKMAlhylLMACpT) | 3:58 | 2021-06-25 | 2022-04-21 |
 | [Imaginary Girl](https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy) | [The Lazy Eyes](https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8) | [SongBook](https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0) | 4:21 | 2022-04-22 | 2022-07-30 |
 | [In Between](https://open.spotify.com/track/4rQlCooK88oFN819QAduCw) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0) | [Dreaming Eyes](https://open.spotify.com/album/3P1A2rJ6ZP2zeroDBb0kOV) | 4:16 | 2022-12-16 | 2023-02-23 |
@@ -616,6 +616,7 @@
 | [Pure Romance](https://open.spotify.com/track/2ESR8gjyHNCkiJN7vVMquj) | [Wand](https://open.spotify.com/artist/53by9P3tpXOW1diWCI6MNu) | [Pure Romance](https://open.spotify.com/album/3F2WGXzvaI7ptsLumZk5Xz) | 3:37 | 2021-04-02 | 2022-04-17 |
 | [Quiero](https://open.spotify.com/track/0LLCHT7kYYjKrs4gD5WZPD) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Foam](https://open.spotify.com/album/1ZatuoLaIMYhumTppO5I24) | 3:11 | 2022-07-22 | 2023-03-07 |
 | [Quiero](https://open.spotify.com/track/6tBhtdAEIGEacpqUZTk72s) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Foam](https://open.spotify.com/album/3QsNakJqvIGLEjDeInXKk0) | 3:11 | 2021-04-02 | 2022-07-21 |
+| [Rainsticks](https://open.spotify.com/track/4sxaSxY6uO2TYJEiSguCXq) | [Mr Finn](https://open.spotify.com/artist/0axjvVn56MPSdulcxOWXiF) | [Rainsticks](https://open.spotify.com/album/03V6xFFrhzEr0zEzpMO5d4) | 4:20 | 2023-10-10 |  |
 | [Rakıya Su Katamam](https://open.spotify.com/track/53YrFJD6mDPGKq8e0SK5LC) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Rakiya Su Katamam b/w Leylim Ley](https://open.spotify.com/album/2fr4NMJF6laNA85zchtlX2) | 3:40 | 2023-01-20 | 2023-03-11 |
 | [Raspberry Jam](https://open.spotify.com/track/3i2pAVmEzBgJIHtIMkNQBJ) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/2L8OeILKoTrzQr8swQx2Ys) | 3:48 | 2021-04-02 | 2022-05-29 |
 | [Raspberry Jam](https://open.spotify.com/track/4fRpUfyqeqTOeunuvRkJ57) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Raspberry Jam](https://open.spotify.com/album/4iCizTMmauFrJibEF9TI1G) | 3:48 | 2022-05-23 | 2023-04-29 |

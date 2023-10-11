@@ -1,15 +1,15 @@
 {
   "description": "This is Luis Miguel. The essential tracks, all in one playlist.",
-  "num_followers": 2191626,
+  "num_followers": 2193470,
   "original_name": "This Is Luis Miguel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNzM3MzUsMDAwMDAwMDA4NTNmNGRmMTJkMzNhN2U4YTY2YmNkNzZjMGM0MjZhZQ==",
+  "snapshot_id": "MjgyODI0MTYsMDAwMDAwMDBhZjI0YWM3MDQ4MzlhMTFmYmRlODBjYjY1Nzg5YmU2NQ==",
   "tracks": [
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Segundo Romance",
         "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
@@ -25,23 +25,7 @@
       "url": "https://open.spotify.com/track/1lKI9y1DL6QnYTZguVmACX"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
-      "album": {
-        "name": "Soy Como Quiero Ser",
-        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 191973,
-      "name": "Ahora Te Puedes Marchar",
-      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
-    },
-    {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
@@ -57,7 +41,23 @@
       "url": "https://open.spotify.com/track/6vPAmoERUMRoTZaCCSWQ12"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
+      "album": {
+        "name": "Soy Como Quiero Ser",
+        "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Ahora Te Puedes Marchar",
+      "url": "https://open.spotify.com/track/1uKjQoh8JZj9ryuYRhpd7E"
+    },
+    {
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Busca Una Mujer",
         "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
@@ -89,7 +89,7 @@
       "url": "https://open.spotify.com/track/2DAsLftcRKP3iarCPmI1RY"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Romances",
         "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
@@ -105,7 +105,7 @@
       "url": "https://open.spotify.com/track/4FqfHVML025cwjfhAOFbfa"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "20 A\u00f1os",
         "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
@@ -121,7 +121,7 @@
       "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Busca Una Mujer",
         "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "El Concierto",
         "url": "https://open.spotify.com/album/6efyUFJcUK18KRFTMoxNSI"
@@ -153,7 +153,7 @@
       "url": "https://open.spotify.com/track/7nAvryV9PVCt9PQGPx7I0z"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Vivo",
         "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
@@ -169,7 +169,7 @@
       "url": "https://open.spotify.com/track/1jxO9AwMqYynDsuMWKrPvi"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "20 A\u00f1os",
         "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
@@ -185,7 +185,7 @@
       "url": "https://open.spotify.com/track/5fj3zNkXfOlrJGVcZBId6D"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Mexico en la Piel (edicion diamante)",
         "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
@@ -201,7 +201,7 @@
       "url": "https://open.spotify.com/track/21Ullb4TU8qMsQd0Iselng"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Romances",
         "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
@@ -217,7 +217,7 @@
       "url": "https://open.spotify.com/track/68zSzKkU28AfZvr5FkAUWT"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Palabra De Honor",
         "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
@@ -233,7 +233,7 @@
       "url": "https://open.spotify.com/track/6Ucocvd2YaEJRPmbT4SFgu"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/0MHSnVk2CrGP8hIkxpxwMJ"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Mexico en la Piel (edicion diamante)",
         "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/2TOBMDqbtPP6sAQtWc2Br9"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Romances",
         "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
@@ -281,7 +281,7 @@
       "url": "https://open.spotify.com/track/6BTte0lvV5phb00xaxseC4"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/5HooteTWKKPU1GjuOo5Bpf"
@@ -297,7 +297,7 @@
       "url": "https://open.spotify.com/track/0svWUjefj6RBlIQxA3VCvx"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
@@ -313,7 +313,7 @@
       "url": "https://open.spotify.com/track/2MkeDQiyZ8MV45IjLhCPSF"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Busca Una Mujer",
         "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Segundo Romance",
         "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
@@ -345,7 +345,7 @@
       "url": "https://open.spotify.com/track/1FJSXlDrgr9AS37w67CPHP"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "C\u00f3mplices",
         "url": "https://open.spotify.com/album/0PsSywVZE4qeOPBNiSj4Hz"
@@ -361,7 +361,7 @@
       "url": "https://open.spotify.com/track/4tljir1112UOLjqP2lXn4J"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Aries",
         "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
@@ -377,7 +377,7 @@
       "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Busca Una Mujer",
         "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
@@ -393,7 +393,7 @@
       "url": "https://open.spotify.com/track/3ZRUhvuUE2lwZF19puKM8P"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
@@ -409,39 +409,7 @@
       "url": "https://open.spotify.com/track/2pSZjEpbXwlocV8js7MNmu"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
-      "album": {
-        "name": "Amarte Es Un Placer",
-        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 211760,
-      "name": "Amarte es un placer",
-      "url": "https://open.spotify.com/track/4lQWZGUrquRfH9se6nlmp3"
-    },
-    {
-      "added_at": "2023-10-04 12:55:29",
-      "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 202760,
-      "name": "La Gloria Eres Tu",
-      "url": "https://open.spotify.com/track/5SPUsNcUtRUpAPj7rJq7CD"
-    },
-    {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Soy Como Quiero Ser",
         "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
@@ -457,10 +425,10 @@
       "url": "https://open.spotify.com/track/3hVaK0zn3sVWWY8TvN1Te5"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
-        "name": "Vivo",
-        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+        "name": "Amarte Es Un Placer",
+        "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
       },
       "artists": [
         {
@@ -468,15 +436,15 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 162093,
-      "name": "Y - En vivo",
-      "url": "https://open.spotify.com/track/6QbEENozheS46xQY56acH9"
+      "duration_ms": 211760,
+      "name": "Amarte es un placer",
+      "url": "https://open.spotify.com/track/4lQWZGUrquRfH9se6nlmp3"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
       },
       "artists": [
         {
@@ -484,12 +452,12 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 234293,
-      "name": "Historia De Un Amor",
-      "url": "https://open.spotify.com/track/6av3uLAacGG7c9fjshWmuH"
+      "duration_ms": 202760,
+      "name": "La Gloria Eres Tu",
+      "url": "https://open.spotify.com/track/5SPUsNcUtRUpAPj7rJq7CD"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "\u00a1M\u00c9XICO Por Siempre!",
         "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
@@ -505,7 +473,23 @@
       "url": "https://open.spotify.com/track/3zceb1fYe5jdwEmuGvJINO"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
+      "album": {
+        "name": "Vivo",
+        "url": "https://open.spotify.com/album/2GtCBgC1SYeeb8fcxGWCLo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "Y - En vivo",
+      "url": "https://open.spotify.com/track/6QbEENozheS46xQY56acH9"
+    },
+    {
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
@@ -521,10 +505,10 @@
       "url": "https://open.spotify.com/track/1kS5xIvvytkr5Ut1JkQ9SM"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
-        "name": "Romances",
-        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
       },
       "artists": [
         {
@@ -532,12 +516,12 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 251760,
-      "name": "Voy a Apagar La Luz / Contigo Aprend\u00ed",
-      "url": "https://open.spotify.com/track/4BCiucu42W0U9Y1eqPaQDx"
+      "duration_ms": 234293,
+      "name": "Historia De Un Amor",
+      "url": "https://open.spotify.com/track/6av3uLAacGG7c9fjshWmuH"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Mexico en la Piel (edicion diamante)",
         "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
@@ -553,7 +537,23 @@
       "url": "https://open.spotify.com/track/5BPq1UQa1NSN647R6IzD3n"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
+      "album": {
+        "name": "Romances",
+        "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 251760,
+      "name": "Voy a Apagar La Luz / Contigo Aprend\u00ed",
+      "url": "https://open.spotify.com/track/4BCiucu42W0U9Y1eqPaQDx"
+    },
+    {
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Palabra De Honor",
         "url": "https://open.spotify.com/album/45xKQlOetCnDcZxRu4tEwh"
@@ -569,7 +569,7 @@
       "url": "https://open.spotify.com/track/3WY8ecMJJjdepU2k2NoFv1"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Amarte Es Un Placer",
         "url": "https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n"
@@ -585,23 +585,7 @@
       "url": "https://open.spotify.com/track/7u5wdRqlAC4qeRp47e7hce"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
-      "album": {
-        "name": "\u00a1M\u00c9XICO Por Siempre!",
-        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 204533,
-      "name": "Llamarada",
-      "url": "https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ"
-    },
-    {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Mexico en la Piel (edicion diamante)",
         "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
@@ -617,7 +601,23 @@
       "url": "https://open.spotify.com/track/0j0ntQup1Wp9ZiQTUvgnhm"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
+      "album": {
+        "name": "\u00a1M\u00c9XICO Por Siempre!",
+        "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "Llamarada",
+      "url": "https://open.spotify.com/track/6JEgMLyMEqFTaoQyMg4vhQ"
+    },
+    {
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Romance",
         "url": "https://open.spotify.com/album/4MjzdTkEmTwPAlVwDSSivP"
@@ -633,23 +633,7 @@
       "url": "https://open.spotify.com/track/1uSRXFGgEkukRZIa9WsX52"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
-      "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 241693,
-      "name": "El D\u00eda Que Me Quieras",
-      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
-    },
-    {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Soy Como Quiero Ser",
         "url": "https://open.spotify.com/album/2dJCC5WZDKqQbXmUJeLe9Z"
@@ -665,10 +649,10 @@
       "url": "https://open.spotify.com/track/5SnH7xubfdfvHomShSjiIe"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
-        "name": "Mexico en la Piel (edicion diamante)",
-        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
       },
       "artists": [
         {
@@ -676,12 +660,12 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 212440,
-      "name": "Motivos",
-      "url": "https://open.spotify.com/track/4yEJ1SNpgfK5GPx3Y0YhIU"
+      "duration_ms": 241693,
+      "name": "El D\u00eda Que Me Quieras",
+      "url": "https://open.spotify.com/track/3NKIbFFAioTfznWbnjAMXX"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Romances",
         "url": "https://open.spotify.com/album/3OdgRM6jaoh8Q1Nu3BnheU"
@@ -697,10 +681,10 @@
       "url": "https://open.spotify.com/track/3llKUN9le04V1enu8MHudF"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+        "name": "Mexico en la Piel (edicion diamante)",
+        "url": "https://open.spotify.com/album/41VfVz6sKvbm1yCbqAlwfM"
       },
       "artists": [
         {
@@ -708,12 +692,12 @@
           "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 191693,
-      "name": "Somos Novios",
-      "url": "https://open.spotify.com/track/4dr2h9rnEW6OBxm8LvRBW2"
+      "duration_ms": 212440,
+      "name": "Motivos",
+      "url": "https://open.spotify.com/track/4yEJ1SNpgfK5GPx3Y0YhIU"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "20 A\u00f1os",
         "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
@@ -729,7 +713,23 @@
       "url": "https://open.spotify.com/track/2PZtKB8fDoDGLot27oUnWH"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 191693,
+      "name": "Somos Novios",
+      "url": "https://open.spotify.com/track/4dr2h9rnEW6OBxm8LvRBW2"
+    },
+    {
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Mis Romances",
         "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"
@@ -745,7 +745,7 @@
       "url": "https://open.spotify.com/track/2inyRCfWB1ey6vNX43TTCl"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "\u00a1M\u00c9XICO Por Siempre!",
         "url": "https://open.spotify.com/album/46FkZmwdxnGPVXUTTfhche"
@@ -761,23 +761,7 @@
       "url": "https://open.spotify.com/track/2y3C3tWoNictZWuOuUtDuO"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
-      "album": {
-        "name": "Segundo Romance",
-        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 214506,
-      "name": "Como Yo Te Am\u00e9",
-      "url": "https://open.spotify.com/track/4uP2EipoPEAq3InMMCQMG9"
-    },
-    {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "20 A\u00f1os",
         "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
@@ -793,7 +777,23 @@
       "url": "https://open.spotify.com/track/2ZYvD9zQf1iBLelkgkUl7U"
     },
     {
-      "added_at": "2023-10-04 12:55:29",
+      "added_at": "2023-10-10 13:36:50",
+      "album": {
+        "name": "Segundo Romance",
+        "url": "https://open.spotify.com/album/2e6Hp6xaTbUDVzcGLNTHm0"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 214506,
+      "name": "Como Yo Te Am\u00e9",
+      "url": "https://open.spotify.com/track/4uP2EipoPEAq3InMMCQMG9"
+    },
+    {
+      "added_at": "2023-10-10 13:36:50",
       "album": {
         "name": "Mis Romances",
         "url": "https://open.spotify.com/album/0hAqX9l2oj2RQAHLWrilLv"

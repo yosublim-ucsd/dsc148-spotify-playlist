@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 
 > Big rooms and big sounds\. Cover: LUM!X
 
-[Spotify](https://open.spotify.com/user/spotify) - 458,769 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,013 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 47 | [The Age of Love 2022](https://open.spotify.com/track/6KvYwiJbPUzmBw7Wif2aMX) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [The Age of Love 2022](https://open.spotify.com/album/2SFKqoZuBpOzhu4zcG9ATE) | 3:09 |
 | 48 | [Dark Water](https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [JESSCA](https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9) | [Dark Water](https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK) | 3:26 |
 | 49 | [No Pictures](https://open.spotify.com/track/18nfqYE5Jl9YsJnj2hEEiB) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [No Pictures](https://open.spotify.com/album/573qIEbqPVxrCYCjnr7U3l) | 2:30 |
-| 50 | [Spitfire](https://open.spotify.com/track/7j9J5wZI8xVd9H8iy8fHES) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Spitfire](https://open.spotify.com/album/3uVzRplKnlKereBzUsE4zG) | 2:44 |
-| 51 | [Insomnia \- Rework](https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Insomnia \(Rework\)](https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6) | 3:00 |
+| 50 | [Insomnia \- Rework](https://open.spotify.com/track/6uRUfq1y0VayUjh2M935g7) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9), [Jack Holiday](https://open.spotify.com/artist/64yON9pK0j392YkionGKAF) | [Insomnia \(Rework\)](https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6) | 3:00 |
+| 51 | [Spitfire](https://open.spotify.com/track/7j9J5wZI8xVd9H8iy8fHES) | [NWYR](https://open.spotify.com/artist/558dSyN1mMqsKrEBcKJ2p0), [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4) | [Spitfire](https://open.spotify.com/album/3uVzRplKnlKereBzUsE4zG) | 2:44 |
 | 52 | [WANNA GO BANG](https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG) | 3:57 |
 | 53 | [BANG!](https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [BANG!](https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa) | 2:48 |
 | 54 | [Quantum](https://open.spotify.com/track/7cmpWAZsamIlIiyU1aMGZD) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e) | [Quantum](https://open.spotify.com/album/35xmlcqBI4rtJZXiDAI9Xo) | 2:58 |
@@ -83,10 +83,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3d2wagqzwmM.md) - [plain]
 | 73 | [TARAKA \- Tiësto Remix](https://open.spotify.com/track/3tDhrE0UftmIEuPwBLUf7d) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [TARAKA \(Tiësto Remix\)](https://open.spotify.com/album/6busnvOpzGXyFGe7hJXMa3) | 4:24 |
 | 74 | [Minerva](https://open.spotify.com/track/7D9NidXOJwb3ZAPJ7LOkoD) | [SaberZ](https://open.spotify.com/artist/7wVdHjM4odGF5lGsqVSHJT) | [Minerva](https://open.spotify.com/album/1V2i9HepUHLseVkSdAeSuv) | 2:52 |
 | 75 | [The Playground](https://open.spotify.com/track/6otJQ1BMqoWjOXZb2KtgaQ) | [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR) | [The Playground](https://open.spotify.com/album/6tEEZtViXnvNeS5pFcY9fz) | 3:02 |
-| 76 | [LFG](https://open.spotify.com/track/68ZnVusVckKXOLW80KGeRh) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [LFG](https://open.spotify.com/album/2wkzGaDtc9o705E0cxBTxT) | 2:11 |
+| 76 | [Eternal](https://open.spotify.com/track/4ywSs3wQa6U85OYS6qzX9A) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [Eternal](https://open.spotify.com/album/03GTeOx1Ko7sZZxQdiaNOq) | 3:05 |
 | 77 | [Maria Maria](https://open.spotify.com/track/6scnPzPV3aHgsusrG9uHMZ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Maria Maria](https://open.spotify.com/album/1zR7dGlwSYBvfbPQum2JbO) | 3:15 |
-| 78 | [Eternal](https://open.spotify.com/track/4ywSs3wQa6U85OYS6qzX9A) | [VINAI](https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [Eternal](https://open.spotify.com/album/03GTeOx1Ko7sZZxQdiaNOq) | 3:05 |
+| 78 | [LFG](https://open.spotify.com/track/68ZnVusVckKXOLW80KGeRh) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3) | [LFG](https://open.spotify.com/album/2wkzGaDtc9o705E0cxBTxT) | 2:11 |
 | 79 | [Give Me](https://open.spotify.com/track/5kbFc1QbGvCRJmQTldYod4) | [AVAO](https://open.spotify.com/artist/6bdAgX0KYeVKzqNhnARYBw) | [Give Me](https://open.spotify.com/album/1yMWuEo9Za8Jodpd8C7GdZ) | 2:36 |
 | 80 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 |
 
-Snapshot ID: `MCxmYjYzY2E0MWIwZTJmMmQ2MzEwMmFjMzc3NzYyOTVmYjE0MmM0OGQz`
+Snapshot ID: `MCw3YmE4OTE0Zjk2MTgxMDA5MTk1MzBlMjlkZWVmMjYwZmZjY2Y0N2Vl`

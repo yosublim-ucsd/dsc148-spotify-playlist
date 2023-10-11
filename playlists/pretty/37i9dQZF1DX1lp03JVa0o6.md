@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest Dance hits! Cover: Dom Dolla
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,448 likes - 94 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,477 likes - 94 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 12 | [Lover](https://open.spotify.com/track/6XQG1qMfjvf1K05XYxcx7N) | [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Amen UK](https://open.spotify.com/artist/7dX2xvzI7SHnSat8WLS1oW), [Rachel McFarlane](https://open.spotify.com/artist/0WDmCK0LA3cTozbHJKyZJ0) | [Lover](https://open.spotify.com/album/3rYkXYPbP90vGPoqgLvhXU) | 2:32 |
 | 13 | [Elysian Park](https://open.spotify.com/track/3pbZCLBe6fUZ8dBntDWQ64) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Elysian Park](https://open.spotify.com/album/5FrzfGTsoOcoH2sk4sONHe) | 2:22 |
 | 14 | [Locked Up \(ft\. Akon\)](https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Trinix](https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Locked Up \(ft\. Akon\)](https://open.spotify.com/album/4eUAfbKPrliNUtflCe6sEu) | 2:27 |
-| 15 | [Tell Me](https://open.spotify.com/track/7aC9syDKJbFcwaoWXodmNb) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [Doolie](https://open.spotify.com/artist/02C1o6UELjUNfthPNScsPp) | [Coalesce](https://open.spotify.com/album/7w8VZmBYyc8lzb1EkKTxhF) | 3:45 |
+| 15 | [Tell Me](https://open.spotify.com/track/7aC9syDKJbFcwaoWXodmNb) | [Motez](https://open.spotify.com/artist/3SwgftmsT5rVepCSSco3ZR), [DOOLIE](https://open.spotify.com/artist/52IMdPUhmYfGU7daNnmHVA) | [Coalesce](https://open.spotify.com/album/7w8VZmBYyc8lzb1EkKTxhF) | 3:45 |
 | 16 | [Only In My Mind](https://open.spotify.com/track/4PrGyX4YgCT6V3YqY7XEUw) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Only In My Mind](https://open.spotify.com/album/4JWnSrjQv0zOW594N76PMf) | 2:41 |
 | 17 | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/track/12qq70vp6hMUikpAyeyDPc) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Hyunjin](https://open.spotify.com/artist/0ymFDpsRImjK673AGgFBcg) | [Rush \(feat\. PinkPantheress & Hyunjin of Stray Kids\)](https://open.spotify.com/album/3D5NnN6OYVFfBYGOWQ78Ns) | 2:52 |
 | 18 | [We Could Be Love \(Odd Mob Remix\)](https://open.spotify.com/track/2ntDcAqijGPcZP5dHAn2lq) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [We Could Be Love \(Odd Mob Remix\)](https://open.spotify.com/album/2S5Pr4KC4o42Vo9EDoZnIS) | 2:51 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 93 | [Like It \(feat\. Reckz'Capo\)](https://open.spotify.com/track/4yWySFuYFhkVrHggrfnulp) | [Kinder](https://open.spotify.com/artist/0ufdKQBFDYKui7twp71QLm), [Reckz'Capo](https://open.spotify.com/artist/0mmIDGCcblwYtZgsNPGDlo) | [Like It \(feat\. Reckz'Capo\)](https://open.spotify.com/album/7uE7ppiL1rC4JOjfkYryay) | 3:15 |
 | 94 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 |
 
-Snapshot ID: `MCwzZWRjZTk4NzczMDI3YTg3MDIxODY0ZjQ3MGMwYjAxZTgzNGZhYzA4`
+Snapshot ID: `MCw0NThhMmYyYmUwMTE2YzJiMmQwOWEzNTEzY2RkNGFmYWI5NTAzMjlh`

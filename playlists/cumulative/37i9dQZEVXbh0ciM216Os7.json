@@ -3614,11 +3614,27 @@
         {
           "name": "Big Ghost Ltd",
           "url": "https://open.spotify.com/artist/2ImVXJxagzYSK38S6qGBJ5"
+        },
+        {
+          "name": "Big Daddy Kane",
+          "url": "https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W"
+        },
+        {
+          "name": "Cappadonna",
+          "url": "https://open.spotify.com/artist/0dS5xeDefwoUNasLUHnCjR"
+        },
+        {
+          "name": "Styliztik Jones",
+          "url": "https://open.spotify.com/artist/0mwBwtIaE7RtAcr42LiJBj"
+        },
+        {
+          "name": "Harley",
+          "url": "https://open.spotify.com/artist/73VBdYikibq60OH9xmoA8F"
         }
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-09",
+      "date_removed": null,
       "duration_ms": 324057,
       "name": "Done it Again",
       "url": "https://open.spotify.com/track/2rJh0F25kLFq3AUmhP45g4"
@@ -3656,7 +3672,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 324057,
       "name": "Done it Again",
       "url": "https://open.spotify.com/track/6dIuhhhgSs2EVxnj8dhFiz"
@@ -11588,7 +11604,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 287446,
       "name": "Skyfall (Metal Version)",
       "url": "https://open.spotify.com/track/0Z8mp3OV0TLQ26Em637U0K"
@@ -11606,7 +11622,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 287446,
       "name": "Skyfall (Metal Version)",
       "url": "https://open.spotify.com/track/3Nd1FM5i5aBIXqyVyD4BOT"

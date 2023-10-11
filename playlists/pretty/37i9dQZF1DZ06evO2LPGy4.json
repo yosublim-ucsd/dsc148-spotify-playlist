@@ -1,47 +1,15 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 410791,
+  "num_followers": 411888,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNjA3MzcsMDAwMDAwMDA2OWI2MTE1ZTFlNzU1OGQ4ZDU1ODE1ZjMxZWQ5MmI2Mw==",
+  "snapshot_id": "MjgyODI0MTcsMDAwMDAwMDA2ZDFhMzBjYTM4OTAyYzIyMTJjNjU2YmNhY2Q1NDYyZQ==",
   "tracks": [
     {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "D\u00e9cimo Aniversario",
-        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 164360,
-      "name": "Tranquilito",
-      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 131853,
-      "name": "Fuiste M\u00eda",
-      "url": "https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Archivos de Mi Vida",
         "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
@@ -57,7 +25,39 @@
       "url": "https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 131853,
+      "name": "Fuiste M\u00eda",
+      "url": "https://open.spotify.com/track/0QRHEmvbFr73h5Fyk33fji"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "El Primer Ministro",
         "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/5GFb9XV4WnIQZ3H6dr9lbd"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "The Green Trip",
         "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
@@ -93,7 +93,23 @@
       "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "Mujer De Piedra",
+      "url": "https://open.spotify.com/track/4US4uNDUynAor7UMaQHaxv"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
@@ -113,23 +129,7 @@
       "url": "https://open.spotify.com/track/1AdTZFQgPAOc5DlO86ww0x"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 173866,
-      "name": "Mujer De Piedra",
-      "url": "https://open.spotify.com/track/4US4uNDUynAor7UMaQHaxv"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
@@ -153,23 +153,7 @@
       "url": "https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "El Primer Ministro",
-        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 159026,
-      "name": "D\u00e1maso",
-      "url": "https://open.spotify.com/track/7yAwyQ2np0KRjeXsGwirez"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Comer\u00e9 Callado, Vol. 1",
         "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
@@ -185,7 +169,7 @@
       "url": "https://open.spotify.com/track/4pA15wGSXsWRPnRc9u4Dh5"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Archivos de Mi Vida",
         "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
@@ -201,7 +185,39 @@
       "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 159026,
+      "name": "D\u00e1maso",
+      "url": "https://open.spotify.com/track/7yAwyQ2np0KRjeXsGwirez"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 181680,
+      "name": "\u00bfPor Qu\u00e9 Terminamos?",
+      "url": "https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Morir y Existir En Vivo",
         "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
@@ -217,7 +233,23 @@
       "url": "https://open.spotify.com/track/0N9sBJBig8ToeFflB5KdsB"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 200386,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Tal Como Eres",
         "url": "https://open.spotify.com/album/7l5DIHz7uYdBHFjX7VlLNa"
@@ -237,39 +269,7 @@
       "url": "https://open.spotify.com/track/5iDnp09ecAvbywcRBkabXg"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 181680,
-      "name": "\u00bfPor Qu\u00e9 Terminamos?",
-      "url": "https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 200386,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Ni Hoy Ni Manana",
         "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
@@ -285,39 +285,7 @@
       "url": "https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "No Tengo Rival",
-        "url": "https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 135127,
-      "name": "El Convoy de los Hermanos",
-      "url": "https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 282266,
-      "name": "Cara A La Muerte (En Vivo)",
-      "url": "https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Entre Dios y El Diablo (Deluxe Version)",
         "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
@@ -333,7 +301,39 @@
       "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 282266,
+      "name": "Cara A La Muerte (En Vivo)",
+      "url": "https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "No Tengo Rival",
+        "url": "https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 135127,
+      "name": "El Convoy de los Hermanos",
+      "url": "https://open.spotify.com/track/4BwiQHmZt92xZpQsLaRbw7"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Ni Hoy Ni Manana",
         "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Andamos Recio",
         "url": "https://open.spotify.com/album/5OU2nDge99Voto4N4Vl6yS"
@@ -369,7 +369,7 @@
       "url": "https://open.spotify.com/track/4x02u1dxnmoeR4GHOAmuXG"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Comer\u00e9 Callado, Vol. 1",
         "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
@@ -385,39 +385,7 @@
       "url": "https://open.spotify.com/track/13owSDdId4auyDUXxS7H8i"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 161293,
-      "name": "Y Me Besa",
-      "url": "https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 154946,
-      "name": "El Trokero Lokochon",
-      "url": "https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Al Frente y de Frente",
         "url": "https://open.spotify.com/album/3HBCUAU5pi2fQVk9K0zj3c"
@@ -437,7 +405,39 @@
       "url": "https://open.spotify.com/track/3WW63E8a8JLIAHMiatELLb"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 154946,
+      "name": "El Trokero Lokochon",
+      "url": "https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 161293,
+      "name": "Y Me Besa",
+      "url": "https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Comer\u00e9 Callado, Vol. 1",
         "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
@@ -453,7 +453,7 @@
       "url": "https://open.spotify.com/track/4UhPBzZ2yHMsedsRxfH40T"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Comer\u00e9 Callado, Vol. 2",
         "url": "https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR"
@@ -469,7 +469,7 @@
       "url": "https://open.spotify.com/track/1WXjAJivkxzKrbfy71aUbM"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Asi Es la Vida",
         "url": "https://open.spotify.com/album/3XLeRZusHt9brXcWTNslHO"
@@ -489,7 +489,7 @@
       "url": "https://open.spotify.com/track/4xIPF0XvckZ32QXXI6fW9P"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Pura Manzanita Vol. 3",
         "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Entre Dios y El Diablo (Deluxe Version)",
         "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
@@ -525,43 +525,7 @@
       "url": "https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "FIVE (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
-      },
-      "artists": [
-        {
-          "name": "Prince Royce",
-          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 186773,
-      "name": "Moneda (feat. Gerardo Ortiz)",
-      "url": "https://open.spotify.com/track/6zR3aAwQ7cn2U7F1sBtdj1"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "Los Envidiosos",
-        "url": "https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 181553,
-      "name": "Los Envidiosos",
-      "url": "https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "La Parca",
         "url": "https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG"
@@ -581,7 +545,75 @@
       "url": "https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "FIVE (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7fIqsFfeYEEP9RO25KHj8P"
+      },
+      "artists": [
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 186773,
+      "name": "Moneda (feat. Gerardo Ortiz)",
+      "url": "https://open.spotify.com/track/6zR3aAwQ7cn2U7F1sBtdj1"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 133226,
+      "name": "El Cholo",
+      "url": "https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Aquiles Afirmo",
+      "url": "https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 126120,
+      "name": "A La Moda",
+      "url": "https://open.spotify.com/track/4qap3khBojdW5RkU9FouIV"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "Coquio Castro (En Vivo)",
         "url": "https://open.spotify.com/album/4RCrIPTYt1YCI96WEunbuH"
@@ -601,43 +633,7 @@
       "url": "https://open.spotify.com/track/1EGcw5OrBiqQUYHW51IMYT"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Aquiles Afirmo",
-      "url": "https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "M En El Radar",
-        "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
-      },
-      "artists": [
-        {
-          "name": "La Adictiva",
-          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 140546,
-      "name": "M En El Radar",
-      "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "El Coach (En Vivo)",
         "url": "https://open.spotify.com/album/5GrA7aAr5CK4BjIKybsShe"
@@ -657,10 +653,10 @@
       "url": "https://open.spotify.com/track/3QS5Z1l9keZLelGpmnsSBl"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
-        "name": "Hoy M\u00e1s Fuerte",
-        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+        "name": "Los Envidiosos",
+        "url": "https://open.spotify.com/album/7Bf354JhLL28E8E0YAz0wL"
       },
       "artists": [
         {
@@ -668,148 +664,32 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 133226,
-      "name": "El Cholo",
-      "url": "https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi"
+      "duration_ms": 181553,
+      "name": "Los Envidiosos",
+      "url": "https://open.spotify.com/track/5p82KrCO024Gsbkex8SGiQ"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
-        "name": "Destapando Botellitas",
-        "url": "https://open.spotify.com/album/6GcK0lJrvH4rFp5bLh4NLm"
+        "name": "M En El Radar",
+        "url": "https://open.spotify.com/album/6WjorFCymLlEUdC1bFs3Nc"
       },
       "artists": [
         {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 139449,
-      "name": "Destapando Botellitas",
-      "url": "https://open.spotify.com/track/3FgvsU9Qr1cxmlSdZFPQ3q"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 126120,
-      "name": "A La Moda",
-      "url": "https://open.spotify.com/track/4qap3khBojdW5RkU9FouIV"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 169373,
-      "name": "El Muletas (En Vivo)",
-      "url": "https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "Gente del Nini",
-        "url": "https://open.spotify.com/album/1LRhDW3RKbXS0jCgl7Y1R8"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 211820,
-      "name": "Gente del Nini",
-      "url": "https://open.spotify.com/track/6pw1JhdFisuezjcr4DwJXY"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "80 A\u00f1os De M\u00fasica Entre Amigos",
-        "url": "https://open.spotify.com/album/1scgYlpUobokSRDYyeAwE3"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "La Adictiva",
+          "url": "https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM"
         },
         {
           "name": "Gerardo Ortiz",
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 137600,
-      "name": "Mi Vicio M\u00e1s Grande",
-      "url": "https://open.spotify.com/track/6c2OfsMKs7pv7qhD0sGGeM"
+      "duration_ms": 140546,
+      "name": "M En El Radar",
+      "url": "https://open.spotify.com/track/0MtDgKq4LQwyQxwTDVhCUw"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "Modo Crudo (Versi\u00f3n Banda)",
-        "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 128513,
-      "name": "Modo Crudo - Versi\u00f3n Banda",
-      "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "Polvito de Lim\u00f3n",
-        "url": "https://open.spotify.com/album/5tlfPbg3TlQkMzCxtFN8we"
-      },
-      "artists": [
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        },
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 161147,
-      "name": "Polvito de Lim\u00f3n",
-      "url": "https://open.spotify.com/track/30NTCvmEfRddA4bsnRZ7U3"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
-      "album": {
-        "name": "Comer\u00e9 Callado, Vol. 2",
-        "url": "https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 172267,
-      "name": "El Aroma de Tu Piel",
-      "url": "https://open.spotify.com/track/6ppEDoyrYVONvuaGo7Chv6"
-    },
-    {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "No Tengo Rival",
         "url": "https://open.spotify.com/album/6vfTTVKTh4TgsA6aI8tixn"
@@ -825,7 +705,39 @@
       "url": "https://open.spotify.com/track/5ES9ds2DtcCMemTxLhzAmY"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "Comer\u00e9 Callado, Vol. 2",
+        "url": "https://open.spotify.com/album/2NnG41uV3cvz0iYocqk5WR"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 172267,
+      "name": "El Aroma de Tu Piel",
+      "url": "https://open.spotify.com/track/6ppEDoyrYVONvuaGo7Chv6"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 169373,
+      "name": "El Muletas (En Vivo)",
+      "url": "https://open.spotify.com/track/24S2rcxfPv2hWwILSBMF3x"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "M\u00e1s Caro, que ayer",
         "url": "https://open.spotify.com/album/1lvumJJFlnydYEOXwdNrnk"
@@ -841,7 +753,23 @@
       "url": "https://open.spotify.com/track/62hyMZrYL0AjHgndb9ebZO"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 114120,
+      "name": "El Primer Ministro",
+      "url": "https://open.spotify.com/track/33fgAYNJAmbNoT76SLiOL1"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
       "album": {
         "name": "El Comando del Diablo (En Vivo)",
         "url": "https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx"
@@ -861,10 +789,50 @@
       "url": "https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ"
     },
     {
-      "added_at": "2023-09-25 12:17:17",
+      "added_at": "2023-10-10 13:37:14",
       "album": {
-        "name": "El Gabito",
-        "url": "https://open.spotify.com/album/1toEeNk0tz2X6J0bVwZGlR"
+        "name": "80 A\u00f1os De M\u00fasica Entre Amigos",
+        "url": "https://open.spotify.com/album/1scgYlpUobokSRDYyeAwE3"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 137600,
+      "name": "Mi Vicio M\u00e1s Grande",
+      "url": "https://open.spotify.com/track/6c2OfsMKs7pv7qhD0sGGeM"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "Polvito de Lim\u00f3n",
+        "url": "https://open.spotify.com/album/5tlfPbg3TlQkMzCxtFN8we"
+      },
+      "artists": [
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 161147,
+      "name": "Polvito de Lim\u00f3n",
+      "url": "https://open.spotify.com/track/30NTCvmEfRddA4bsnRZ7U3"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "Modo Crudo (Versi\u00f3n Banda)",
+        "url": "https://open.spotify.com/album/2miY1Si17V3AvA1YXe8O5k"
       },
       "artists": [
         {
@@ -872,9 +840,45 @@
           "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
         }
       ],
-      "duration_ms": 163422,
-      "name": "El Gabito",
-      "url": "https://open.spotify.com/track/4irQHeQLap1F8Roqj3xJXW"
+      "duration_ms": 128513,
+      "name": "Modo Crudo - Versi\u00f3n Banda",
+      "url": "https://open.spotify.com/track/21VxcprEejJWPVNHxA23Hs"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "Destapando Botellitas",
+        "url": "https://open.spotify.com/album/6GcK0lJrvH4rFp5bLh4NLm"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 139449,
+      "name": "Destapando Botellitas",
+      "url": "https://open.spotify.com/track/3FgvsU9Qr1cxmlSdZFPQ3q"
+    },
+    {
+      "added_at": "2023-10-10 13:37:14",
+      "album": {
+        "name": "M\u00e9xico de Mi Coraz\u00f3n, Vol. 2",
+        "url": "https://open.spotify.com/album/1Me7BNQom5WrqVsZE2igCY"
+      },
+      "artists": [
+        {
+          "name": "Natalia Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 128520,
+      "name": "Fuiste M\u00eda",
+      "url": "https://open.spotify.com/track/2NiABj6NgG9T9p7Yzckd7D"
     }
   ],
   "unique_name": "This Is Gerardo Ortiz",

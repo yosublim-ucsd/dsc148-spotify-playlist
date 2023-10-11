@@ -1644,7 +1644,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 226853,
       "name": "Dive In : Dive Out",
       "url": "https://open.spotify.com/track/3c9geGzOBDEgOwv9YbtjAb"
@@ -4660,6 +4660,28 @@
       "duration_ms": 410000,
       "name": "Pottery Fragments",
       "url": "https://open.spotify.com/track/12dFfK2PQfys4RuyDYlBz7"
+    },
+    {
+      "album": {
+        "name": "\u039a\u03bb\u03af\u03bc\u03b1 (Klima)",
+        "url": "https://open.spotify.com/album/3NexLrkzrFVDLZBbyLEfkN"
+      },
+      "artists": [
+        {
+          "name": "Christina Vantzou",
+          "url": "https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR"
+        },
+        {
+          "name": "John Also Bennett",
+          "url": "https://open.spotify.com/artist/763QqRidfZUpg74lK6k9rk"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410000,
+      "name": "Pottery Fragments",
+      "url": "https://open.spotify.com/track/3y8XTCiPWQJkFEnKIahCJo"
     },
     {
       "album": {

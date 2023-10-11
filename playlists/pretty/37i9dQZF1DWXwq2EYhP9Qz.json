@@ -1,12 +1,12 @@
 {
   "description": "Our editors' favorites of the moment. Save them to your collection before they're gone!",
-  "num_followers": 2293,
+  "num_followers": 2307,
   "original_name": "Latin songs you should save \u271a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTBmNDZmMTM4MjVmNTZhNGZiNTViMmIyN2RiOWUzZjM2MTdhNGQ1",
+  "snapshot_id": "MCw3OTIyZWNmZTAwZjdlNDFlZDFmMGMxY2ZjZGUwYmViMzY1ZDM1YmRh",
   "tracks": [
     {
       "added_at": "2023-10-06 21:28:50",
@@ -319,22 +319,6 @@
     {
       "added_at": "2023-10-06 21:28:50",
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
-      },
-      "artists": [
-        {
-          "name": "Ralphie Choo",
-          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
-        }
-      ],
-      "duration_ms": 140378,
-      "name": "JUAN SALVADOR GAVIOTA",
-      "url": "https://open.spotify.com/track/5l2STIhKgH7UqyWwQr5i5E"
-    },
-    {
-      "added_at": "2023-10-06 21:28:50",
-      "album": {
         "name": "REVOLUCION AZUL",
         "url": "https://open.spotify.com/album/4qmFz9qSSzSMkqgmszlXBm"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 254439,
       "name": "REVOLUCION AZUL",
       "url": "https://open.spotify.com/track/2ebfsQkDYWCq8d0otA1zbu"
+    },
+    {
+      "added_at": "2023-10-06 21:28:50",
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/7KdsjQmMyF9B25UqADi117"
+      },
+      "artists": [
+        {
+          "name": "Ralphie Choo",
+          "url": "https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7"
+        }
+      ],
+      "duration_ms": 140378,
+      "name": "JUAN SALVADOR GAVIOTA",
+      "url": "https://open.spotify.com/track/5l2STIhKgH7UqyWwQr5i5E"
     },
     {
       "added_at": "2023-10-06 21:28:50",
@@ -387,22 +387,6 @@
     {
       "added_at": "2023-10-06 21:28:50",
       "album": {
-        "name": "FDA",
-        "url": "https://open.spotify.com/album/6DlORJmquAxLQ3UALhbkcn"
-      },
-      "artists": [
-        {
-          "name": "Vic Mirallas",
-          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
-        }
-      ],
-      "duration_ms": 159272,
-      "name": "vulnerable",
-      "url": "https://open.spotify.com/track/41iIfXRMk0pS2K1N1Y0j6C"
-    },
-    {
-      "added_at": "2023-10-06 21:28:50",
-      "album": {
         "name": "Los mismos",
         "url": "https://open.spotify.com/album/5FOyz0vBUeOoj49M9loFTg"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 174285,
       "name": "Los mismos",
       "url": "https://open.spotify.com/track/6LnWzTjHrsrv57lVATmnZR"
+    },
+    {
+      "added_at": "2023-10-06 21:28:50",
+      "album": {
+        "name": "FDA",
+        "url": "https://open.spotify.com/album/6DlORJmquAxLQ3UALhbkcn"
+      },
+      "artists": [
+        {
+          "name": "Vic Mirallas",
+          "url": "https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922"
+        }
+      ],
+      "duration_ms": 159272,
+      "name": "vulnerable",
+      "url": "https://open.spotify.com/track/41iIfXRMk0pS2K1N1Y0j6C"
     },
     {
       "added_at": "2023-10-06 21:28:50",

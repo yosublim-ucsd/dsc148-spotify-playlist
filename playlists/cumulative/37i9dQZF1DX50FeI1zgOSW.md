@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Martin Kartenjer
 
-151 songs - 8 hr 38 min
+152 songs - 8 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Kanavin Azhagi](https://open.spotify.com/track/7ij3EIOUwmt8cp6O8BktQ4) | [Satwik Aradhya](https://open.spotify.com/artist/7pe68lUGRTFDmAxisdfNaE), [Sathwik Padiyar](https://open.spotify.com/artist/1b9bFx1BDk5oFuhox0BMQX) | [Kanavin Azhagi](https://open.spotify.com/album/6pF6ByVbKZqppfsGfmQAEw) | 2:59 | 2023-03-21 | 2023-09-26 |
 | [Kanmoodiye](https://open.spotify.com/track/2IkUztqsbiqVPZutx7SPqX) | [Kishawn](https://open.spotify.com/artist/7apJKSnsatIWY5brBenbA0), [Sheyel Rajahselvam](https://open.spotify.com/artist/0tuS7DqEUTKWxChYOAn4ix) | [Kanmoodiye](https://open.spotify.com/album/5ME9QeRHBoS38pspVVNsVb) | 2:40 | 2023-05-08 | 2023-07-25 |
 | [Kannaamoochi](https://open.spotify.com/track/3PsFYwXnytC7hR2Ev23oLq) | [Anand Sudhan](https://open.spotify.com/artist/7j3EpyzdP3GTNT1wEkqqMo), [Yajeevan](https://open.spotify.com/artist/70cWAz6LxWVbbYiTsMXTWr), [Krishna Kumary](https://open.spotify.com/artist/3HpH2sE2VtmIVGLEsYE0eI) | [Kannaamoochi](https://open.spotify.com/album/5UbrVTI1I3deiyXCa55X5s) | 3:36 | 2023-03-21 | 2023-07-25 |
+| [Kannadi Kaadhal](https://open.spotify.com/track/47WrhLnsR1m70M12EVhuiq) | [Sharan musician](https://open.spotify.com/artist/0PQ7Qxxuybj8aNYQEKUV53) | [Kannadi Kaadhal](https://open.spotify.com/album/4JrXLB4Hd01QUkT717ZLX6) | 1:17 | 2023-10-10 |  |
 | [Kannil Veesum](https://open.spotify.com/track/5Csa0chWVHlZAKDIGKmYkG) | [Nitin K Siva](https://open.spotify.com/artist/1ClekcsZ4VLBcjLiZ1ZUis) | [Kannil Veesum](https://open.spotify.com/album/0k9njB0P9brJuvg3tkEEcQ) | 4:00 | 2023-03-21 | 2023-09-26 |
 | [Karpanai](https://open.spotify.com/track/5mHYekF6dYS1tngug0sKYm) | [Akhilesh Rajan](https://open.spotify.com/artist/2yNWhTumhIEaplBWzONC0I), [Krishna B](https://open.spotify.com/artist/75GR08Hbybw9eIFJbW1s9W), [On The Streets](https://open.spotify.com/artist/50ef72eTfmz8InSE1OErSu) | [Karpanai](https://open.spotify.com/album/63lmhSCepLlrKohnhi4NOg) | 3:31 | 2023-06-27 |  |
 | [Karupalagi](https://open.spotify.com/track/5WbO7n09uccYyjhF510EKz) | [Kishore krishnan](https://open.spotify.com/artist/7lCO7RX3b2d22J0OUMYRXj) | [Karupalagi](https://open.spotify.com/album/4tjkowdfpmhjMtRKAovi9N) | 3:29 | 2023-07-19 |  |

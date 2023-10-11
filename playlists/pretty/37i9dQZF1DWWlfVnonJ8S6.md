@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,062 likes - 102 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,260 likes - 102 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -111,4 +111,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 101 | [Boondein Ye Barse \- Lofi](https://open.spotify.com/track/1pelGFBc8UiG8FKVHkYjsx) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Sunidhi Chauhan](https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v) | [Boondein Ye Barse \- Lofi](https://open.spotify.com/album/4qYzHtTjU0S3rRXkasO1jS) | 4:02 |
 | 102 | [Saibo \- Lofi Flip](https://open.spotify.com/track/1E16f7KcZmuXuhlenRwA2m) | [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh) | [Saibo \(Lofi Flip\)](https://open.spotify.com/album/4c9FRN0aGll1nzuNwQ68HU) | 2:26 |
 
-Snapshot ID: `MCxhYmEwNmEyOTYzMzMzNjE0N2JlMTc0YjM1MTc0MDBjMmE4ZjQxZTk2`
+Snapshot ID: `MCwxMTViZTIxYzdlNTExMTgyMDNiZGRhN2NjYzJmNDliOTk0ZmQ2MTU3`

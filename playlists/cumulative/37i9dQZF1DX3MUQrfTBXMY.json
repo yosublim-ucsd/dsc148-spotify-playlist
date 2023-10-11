@@ -74,7 +74,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 244461,
       "name": "Aluminium Er Dana",
       "url": "https://open.spotify.com/track/14YaeVVN587cOQdTXPQ5FH"
@@ -930,7 +930,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 195779,
       "name": "Biplobir",
       "url": "https://open.spotify.com/track/7H8Owjdx0E4ZKRXB9mOoY3"
@@ -1302,7 +1302,7 @@
       ],
       "date_added": "2022-06-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-08",
+      "date_removed": null,
       "duration_ms": 385263,
       "name": "Chaya",
       "url": "https://open.spotify.com/track/6YdezeXuIAkGaLRgbC08Ny"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 313790,
       "name": "Chhera Pata",
       "url": "https://open.spotify.com/track/1Z34M2te04nLWUicn8PFzt"
@@ -2888,7 +2888,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 249425,
       "name": "Mohomukti",
       "url": "https://open.spotify.com/track/5P8DC05BN6GaqHWMyCX4i5"
@@ -3108,6 +3108,24 @@
       "duration_ms": 356250,
       "name": "Nijer Jonno Gan",
       "url": "https://open.spotify.com/track/2fEMTumzVh5H1ozQwkBDyu"
+    },
+    {
+      "album": {
+        "name": "Shohorbondi",
+        "url": "https://open.spotify.com/album/2fUpZhtCCo3xVhLpMsdROa"
+      },
+      "artists": [
+        {
+          "name": "Meghdol",
+          "url": "https://open.spotify.com/artist/0WBg7b6KiPmfh7lI5vbFKC"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220636,
+      "name": "Nirban",
+      "url": "https://open.spotify.com/track/3y4jqOZZzsMcCOtWflfhpf"
     },
     {
       "album": {
@@ -3418,7 +3436,7 @@
       ],
       "date_added": "2023-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 337250,
       "name": "Ondho Deyal",
       "url": "https://open.spotify.com/track/3t5RiZ8gNRK41NJucuL3ju"
@@ -4342,7 +4360,7 @@
       ],
       "date_added": "2023-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-27",
+      "date_removed": null,
       "duration_ms": 355124,
       "name": "Shakkhi",
       "url": "https://open.spotify.com/track/4INckSy3Cf5hdY9g1ZKn7p"
@@ -4400,7 +4418,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-15",
+      "date_removed": null,
       "duration_ms": 330398,
       "name": "Sheishob Din Raatri",
       "url": "https://open.spotify.com/track/0lrXNv7c4pZ44KJjtyXlDb"
@@ -5086,6 +5104,24 @@
       "duration_ms": 385901,
       "name": "Tumio Paro",
       "url": "https://open.spotify.com/track/7lEGQOFnvf5c6XB0zMSo5I"
+    },
+    {
+      "album": {
+        "name": "Legends Of Rock (Live Concert)",
+        "url": "https://open.spotify.com/album/5Fz8D51Dy1V1pitVd1R5mt"
+      },
+      "artists": [
+        {
+          "name": "Maqsood O' Dhaka",
+          "url": "https://open.spotify.com/artist/74vzaVfhxanARGrDOJgWIf"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304016,
+      "name": "Unmadonai Katey Prem - Live",
+      "url": "https://open.spotify.com/track/4vKXOLGanWc4oRUwwu2WjU"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "Entspannung pur oder viel los? Hier findest du die passenden Beats f\u00fcr deine Pl\u00e4ne!",
-  "num_followers": 493622,
+  "num_followers": 493567,
   "original_name": "Wochenende",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmUwMzRmM2UxYWE0YThmZDhmMmNiNDU2ZmFjNzgzMTk5MTVjOTkx",
+  "snapshot_id": "MCw3MDllYzc2Y2NhOGM3YzFiMjE2OTQ4NDIyNThiZWE5Njc5MDllZjBk",
   "tracks": [
     {
       "added_at": "2023-10-06 09:30:00",
@@ -639,6 +639,26 @@
     {
       "added_at": "2023-10-06 09:30:00",
       "album": {
+        "name": "All Or Nothing",
+        "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
+      },
+      "artists": [
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "HRVY",
+          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "All Or Nothing",
+      "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
+    },
+    {
+      "added_at": "2023-10-06 09:30:00",
+      "album": {
         "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
         "url": "https://open.spotify.com/album/1oIy8CYApH9VUB73DqUvPT"
       },
@@ -659,26 +679,6 @@
       "duration_ms": 175150,
       "name": "Say Say Say (feat. Paul McCartney & Michael Jackson)",
       "url": "https://open.spotify.com/track/16vUeW77F6Xiz1irHBvTAM"
-    },
-    {
-      "added_at": "2023-10-06 09:30:00",
-      "album": {
-        "name": "All Or Nothing",
-        "url": "https://open.spotify.com/album/1RbpoiBzVURNZ86m1f32y5"
-      },
-      "artists": [
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "HRVY",
-          "url": "https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "All Or Nothing",
-      "url": "https://open.spotify.com/track/2AcKLW30dJ03qXsGU3RehH"
     },
     {
       "added_at": "2023-10-06 09:30:00",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2023-10-06 09:30:00",
       "album": {
-        "name": "I Need to Know (feat. Flynn)",
-        "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Flynn",
-          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
-        }
-      ],
-      "duration_ms": 155519,
-      "name": "I Need to Know (feat. Flynn)",
-      "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
-    },
-    {
-      "added_at": "2023-10-06 09:30:00",
-      "album": {
         "name": "Daydreamer",
         "url": "https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF"
       },
@@ -1243,22 +1223,38 @@
     {
       "added_at": "2023-10-06 09:30:00",
       "album": {
-        "name": "Now or Never",
-        "url": "https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt"
+        "name": "I Need to Know (feat. Flynn)",
+        "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
       },
       "artists": [
         {
-          "name": "Trinix",
-          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
         },
         {
-          "name": "Dominic Neill",
-          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
         }
       ],
-      "duration_ms": 182750,
-      "name": "Now or Never",
-      "url": "https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4"
+      "duration_ms": 155519,
+      "name": "I Need to Know (feat. Flynn)",
+      "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
+    },
+    {
+      "added_at": "2023-10-06 09:30:00",
+      "album": {
+        "name": "COLD",
+        "url": "https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s"
+      },
+      "artists": [
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        }
+      ],
+      "duration_ms": 137826,
+      "name": "COLD",
+      "url": "https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U"
     },
     {
       "added_at": "2023-10-06 09:30:00",
@@ -1283,6 +1279,26 @@
     {
       "added_at": "2023-10-06 09:30:00",
       "album": {
+        "name": "Now or Never",
+        "url": "https://open.spotify.com/album/0wXhfqZywLaSc3EHaA5kWt"
+      },
+      "artists": [
+        {
+          "name": "Trinix",
+          "url": "https://open.spotify.com/artist/3HqP3nd8WI0VfHRhApPlan"
+        },
+        {
+          "name": "Dominic Neill",
+          "url": "https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi"
+        }
+      ],
+      "duration_ms": 182750,
+      "name": "Now or Never",
+      "url": "https://open.spotify.com/track/6nNXTSvVO6ue9Ywshh4PZ4"
+    },
+    {
+      "added_at": "2023-10-06 09:30:00",
+      "album": {
         "name": "Boots",
         "url": "https://open.spotify.com/album/2DbkReYC72KnO92dAL8V0Z"
       },
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2023-10-06 09:30:00",
       "album": {
-        "name": "COLD",
-        "url": "https://open.spotify.com/album/0pQF3bDC9wGPa5QhhF1w0s"
+        "name": "Don't Give Up",
+        "url": "https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK"
       },
       "artists": [
         {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
         }
       ],
-      "duration_ms": 137826,
-      "name": "COLD",
-      "url": "https://open.spotify.com/track/3QKB8XAHPIbBaD4wlVHa3U"
+      "duration_ms": 166856,
+      "name": "Don't Give Up",
+      "url": "https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2"
     },
     {
       "added_at": "2023-10-06 09:30:00",
@@ -1339,22 +1355,6 @@
     {
       "added_at": "2023-10-06 09:30:00",
       "album": {
-        "name": "Don't Give Up",
-        "url": "https://open.spotify.com/album/2XZMNStMl0nxjQ3LYdNboK"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        }
-      ],
-      "duration_ms": 166856,
-      "name": "Don't Give Up",
-      "url": "https://open.spotify.com/track/7AGMaD98w28eaNh2639jD2"
-    },
-    {
-      "added_at": "2023-10-06 09:30:00",
-      "album": {
         "name": "Burning My Bridges",
         "url": "https://open.spotify.com/album/2rLID7wv6SFT9x9Y3g0A84"
       },
@@ -1371,26 +1371,26 @@
     {
       "added_at": "2023-10-06 09:30:00",
       "album": {
-        "name": "Where You Want",
-        "url": "https://open.spotify.com/album/1Pl10i0UUrGwR7JYIywlR4"
+        "name": "Hopeless Heart",
+        "url": "https://open.spotify.com/album/5lvVTFSjzf72tpVCyiIALc"
       },
       "artists": [
         {
-          "name": "Riton",
-          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Toby Romeo",
+          "url": "https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey"
         },
         {
-          "name": "Jozzy",
-          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
+          "name": "SACHA",
+          "url": "https://open.spotify.com/artist/1VP5hxNzge9bfbtDvCJwFG"
         }
       ],
-      "duration_ms": 138773,
-      "name": "Where You Want",
-      "url": "https://open.spotify.com/track/43wKRbV4ZvC6AoCR05zGMh"
+      "duration_ms": 151903,
+      "name": "Hopeless Heart",
+      "url": "https://open.spotify.com/track/2tJ4fnUrG5v7OmYVGq7sw8"
     },
     {
       "added_at": "2023-10-06 09:30:00",
@@ -1415,30 +1415,26 @@
     {
       "added_at": "2023-10-06 09:30:00",
       "album": {
-        "name": "YEAH (feat. ClockClock)",
-        "url": "https://open.spotify.com/album/5CivJsN8TmERWIOMxCGAWs"
+        "name": "Where You Want",
+        "url": "https://open.spotify.com/album/1Pl10i0UUrGwR7JYIywlR4"
       },
       "artists": [
         {
-          "name": "Glockenbach",
-          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+          "name": "Riton",
+          "url": "https://open.spotify.com/artist/7i9j813KFoSBMldGqlh2Z1"
         },
         {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Tenchi",
-          "url": "https://open.spotify.com/artist/2fT7Qc9vG2ULsvZH7l1HqK"
-        },
-        {
-          "name": "ClockClock",
-          "url": "https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk"
+          "name": "Jozzy",
+          "url": "https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY"
         }
       ],
-      "duration_ms": 158847,
-      "name": "YEAH (feat. ClockClock)",
-      "url": "https://open.spotify.com/track/2OXvvdHQ9Q4KAqd152MTj2"
+      "duration_ms": 138773,
+      "name": "Where You Want",
+      "url": "https://open.spotify.com/track/43wKRbV4ZvC6AoCR05zGMh"
     }
   ],
   "unique_name": "Wochenende",

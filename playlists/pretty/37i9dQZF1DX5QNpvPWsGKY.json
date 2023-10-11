@@ -1,12 +1,12 @@
 {
   "description": "Un buffet de ritmos sabrositos para satisfacer tu paladar.",
-  "num_followers": 101161,
+  "num_followers": 101251,
   "original_name": "Taco Placero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0OGUxNGNlMjZiM2YyOTA0NjQzNDc2YWVjYmM3NDMxODQ3ZDQ2MzQ1",
+  "snapshot_id": "MCw5MmFlZDAxN2VhZjE0ZGIzMjI5M2IxZGFhOGM5MWNlMmMzNzBjZWVm",
   "tracks": [
     {
       "added_at": "2022-01-25 19:05:16",
@@ -155,18 +155,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Los Yaguaru",
-        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
+        "name": "Inolvidables",
+        "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
       },
       "artists": [
         {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+          "name": "Los Dinnosaurios",
+          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
         }
       ],
-      "duration_ms": 234945,
-      "name": "Suavemente Amor",
-      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
+      "duration_ms": 224946,
+      "name": "El Taxista",
+      "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -187,18 +187,18 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Inolvidables",
-        "url": "https://open.spotify.com/album/6bMC920IXyDwMQVm6ZtCLU"
+        "name": "Los Yaguaru",
+        "url": "https://open.spotify.com/album/6zLHoo66ahzFaPgo7Sp3FA"
       },
       "artists": [
         {
-          "name": "Los Dinnosaurios",
-          "url": "https://open.spotify.com/artist/2WI2ub4Nn8cJM70m9IM2Hz"
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
         }
       ],
-      "duration_ms": 224946,
-      "name": "El Taxista",
-      "url": "https://open.spotify.com/track/5ugABx5bnTbKl0j6iPwaku"
+      "duration_ms": 234945,
+      "name": "Suavemente Amor",
+      "url": "https://open.spotify.com/track/7bCNS79pv7K9iYtqAo0uIW"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -419,22 +419,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 228675,
-      "name": "Vida No Te Vayas",
-      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Vanidosa",
         "url": "https://open.spotify.com/album/0Vqmm3BrCwMeo79WVZz5Gs"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 254440,
       "name": "La Loca",
       "url": "https://open.spotify.com/track/7mpz4Drmu692aPo4qsaHTC"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 228675,
+      "name": "Vida No Te Vayas",
+      "url": "https://open.spotify.com/track/6GU3eVzFRKEFme03ut4b6G"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -531,22 +531,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Corazoncito Pum Pum",
-        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
-      },
-      "artists": [
-        {
-          "name": "Los Yaguar\u00fa",
-          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
-        }
-      ],
-      "duration_ms": 207516,
-      "name": "Como Decirte Adios",
-      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Sergio El Bailador",
         "url": "https://open.spotify.com/album/1sk1X49mukrl5sFPjCtk1y"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 169600,
       "name": "Sergio el Bailador",
       "url": "https://open.spotify.com/track/3M7WBL64QOmuPiPjhySCJW"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Corazoncito Pum Pum",
+        "url": "https://open.spotify.com/album/07MvwQNWa6J5fSw3FSS4C5"
+      },
+      "artists": [
+        {
+          "name": "Los Yaguar\u00fa",
+          "url": "https://open.spotify.com/artist/1CajkwEgJac9j9alNJJxTQ"
+        }
+      ],
+      "duration_ms": 207516,
+      "name": "Como Decirte Adios",
+      "url": "https://open.spotify.com/track/0NpBzxRYK7lcC0T98mLjCI"
     },
     {
       "added_at": "2023-01-10 17:48:12",
@@ -755,22 +755,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Nunca Te Olvidar\u00e9",
-        "url": "https://open.spotify.com/album/45zzHjXdJoNXKFLysKLj88"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 205333,
-      "name": "Ella Se Olvido De M\u00ed",
-      "url": "https://open.spotify.com/track/5eFByyYnqWv7euW1wTGUle"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "\u00daltimas Noticias",
         "url": "https://open.spotify.com/album/5Y81X2aAPTKzjnIhsSz177"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 173133,
       "name": "Ultimas Noticias",
       "url": "https://open.spotify.com/track/1KtOcVH5cR2D7QeWpzwm8I"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Nunca Te Olvidar\u00e9",
+        "url": "https://open.spotify.com/album/45zzHjXdJoNXKFLysKLj88"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 205333,
+      "name": "Ella Se Olvido De M\u00ed",
+      "url": "https://open.spotify.com/track/5eFByyYnqWv7euW1wTGUle"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
-        "name": "Y Es por Ti",
-        "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
-      },
-      "artists": [
-        {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Juana la Cubana",
-      "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
         "name": "Sabor A Cumbia",
         "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 207400,
       "name": "Mu\u00f1eca Esquiva",
       "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Y Es por Ti",
+        "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
+      },
+      "artists": [
+        {
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
+        "name": "Tongoneaito",
+        "url": "https://open.spotify.com/album/1lzVhmM626QsRoXoR7uipM"
+      },
+      "artists": [
+        {
+          "name": "Mister Chivo",
+          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
+        }
+      ],
+      "duration_ms": 194413,
+      "name": "Tongoneaito",
+      "url": "https://open.spotify.com/track/2Qa5wRsOns8hp7mHeRFkey"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
         "name": "Disco De Oro - Cumbia",
         "url": "https://open.spotify.com/album/6uHRsIS95PzYt0ajDqtGCU"
       },
@@ -1643,22 +1659,6 @@
       "duration_ms": 180012,
       "name": "Cumbia Barulera",
       "url": "https://open.spotify.com/track/2CR5YD5yF77bSxV7qXrSTG"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Tongoneaito",
-        "url": "https://open.spotify.com/album/1lzVhmM626QsRoXoR7uipM"
-      },
-      "artists": [
-        {
-          "name": "Mister Chivo",
-          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
-        }
-      ],
-      "duration_ms": 194413,
-      "name": "Tongoneaito",
-      "url": "https://open.spotify.com/track/2Qa5wRsOns8hp7mHeRFkey"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1731,6 +1731,22 @@
     {
       "added_at": "2022-01-25 19:05:16",
       "album": {
+        "name": "Ron Y Coca Cola",
+        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
+      },
+      "artists": [
+        {
+          "name": "Mister Chivo",
+          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
+        }
+      ],
+      "duration_ms": 194840,
+      "name": "Ron Y Coca Cola",
+      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
+    },
+    {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
         "name": "La Coloreteada",
         "url": "https://open.spotify.com/album/112NtpiLJlcKg2vw4Y3b3y"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 172813,
       "name": "Amor Libre",
       "url": "https://open.spotify.com/track/417hz3bOfPdXH9vKjzfM23"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Ron Y Coca Cola",
-        "url": "https://open.spotify.com/album/4fcUEob7X3ipsrIBa3jZyx"
-      },
-      "artists": [
-        {
-          "name": "Mister Chivo",
-          "url": "https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw"
-        }
-      ],
-      "duration_ms": 194840,
-      "name": "Ron Y Coca Cola",
-      "url": "https://open.spotify.com/track/6jPNqIc5llDGJ9hr5GfIhV"
     },
     {
       "added_at": "2022-01-25 19:05:16",
@@ -1889,6 +1889,22 @@
       "url": "https://open.spotify.com/track/4B3PNNSg06yZ6Jj7novC8l"
     },
     {
+      "added_at": "2022-01-25 19:05:16",
+      "album": {
+        "name": "Cumbiando Este 5 De Mayo",
+        "url": "https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 324280,
+      "name": "Cumbia En La Playa",
+      "url": "https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC"
+    },
+    {
       "added_at": "2023-01-10 17:48:12",
       "album": {
         "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
@@ -1919,22 +1935,6 @@
       "duration_ms": 216573,
       "name": "La Enfermera",
       "url": "https://open.spotify.com/track/1MYQWI4rfKa6q1aUZpjPxT"
-    },
-    {
-      "added_at": "2022-01-25 19:05:16",
-      "album": {
-        "name": "Cumbiando Este 5 De Mayo",
-        "url": "https://open.spotify.com/album/1PWKIRqLB0BPIgJuGMlyfb"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 324280,
-      "name": "Cumbia En La Playa",
-      "url": "https://open.spotify.com/track/6CgVMTAJsotV8x0jMfYHbC"
     },
     {
       "added_at": "2022-01-25 19:05:16",

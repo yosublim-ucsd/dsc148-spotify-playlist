@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 
 > Qué bonito se siente el amor\. 💘
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,015,468 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,014,436 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 49 | [🦋 MARIPOSAS 🦋](https://open.spotify.com/track/4FJHG1aW704Cq66OxuyOrq) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [🦋 MARIPOSAS 🦋](https://open.spotify.com/album/21lNO9EMMnQMQsXytV9ORY) | 2:42 |
 | 50 | [Carmín \(feat\. Juan Luis Guerra\)](https://open.spotify.com/track/7feNblkR0A56vttsAGTyzK) | [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Golden](https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS) | 3:28 |
 | 51 | [Ella](https://open.spotify.com/track/7hydwXc3IVJIItIif6ZuLH) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Circo Soledad](https://open.spotify.com/album/3MYtBNFvuGUSEIi2Sfwl2w) | 3:18 |
-| 52 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 |
+| 52 | [Contigo](https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Contigo](https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH) | 3:28 |
 | 53 | [Me Enamoré](https://open.spotify.com/track/00nvL9u5K8jEJ6TSxGdtPK) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [DJ Nelson](https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg) | [Platónico](https://open.spotify.com/album/2Xz6s5xkP24hNqWCWHSsww) | 4:13 |
 | 54 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 |
-| 55 | [Contigo](https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Contigo](https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH) | 3:28 |
+| 55 | [Si Tú Me Quieres](https://open.spotify.com/track/6EjZfW6C5msXQNaf1kquu7) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Si Tú Me Quieres](https://open.spotify.com/album/74rEKU2G8oF2VRMjd14IcY) | 3:24 |
 | 56 | [Lo Mejor de Mi Vida Eres Tú \(feat\. Natalia Jiménez\)](https://open.spotify.com/track/2uhaDVmfG7pT94VO5jl2r4) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R) | [Más Música + Alma + Sexo](https://open.spotify.com/album/0a9o88R6EXFDtbcbdYqKD2) | 3:36 |
 | 57 | [PROMESA](https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:16 |
 | 58 | [Tengo Tu Love](https://open.spotify.com/track/2hgzokI1dOZAxs5PUG0gBT) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz) | [Mucha Cosa Buena](https://open.spotify.com/album/2Lvsyubptl5ITRCjy0FTmH) | 3:51 |
@@ -85,14 +85,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 75 | [Sonreír \- Versión Acústica](https://open.spotify.com/track/6Vk8greV4Rn5a1RDCHtydm) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido](https://open.spotify.com/album/6s7EnMQQbeyjkIlHRorgyj) | 3:29 |
 | 76 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 |
 | 77 | [NEGRO MATE](https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 2:51 |
-| 78 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
-| 79 | [Un Amor de Verdad](https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:32 |
-| 80 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
-| 81 | [Tiburones](https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Tiburones](https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW) | 3:13 |
+| 78 | [Un Amor de Verdad](https://open.spotify.com/track/4Z3wNhlam0BHHnK1lZmPRU) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Des/Amor](https://open.spotify.com/album/6Tap30zqzXj22sVKoy1GUj) | 3:32 |
+| 79 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 |
+| 80 | [Tiburones](https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Tiburones](https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW) | 3:13 |
+| 81 | [SI ES AMOR](https://open.spotify.com/track/7JahThtCGJ9cdn6HWTWf9S) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [@dannocean](https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA) | 3:32 |
 | 82 | [YOKO](https://open.spotify.com/track/6dlZryuz7NIz20faRoZV4k) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [YOKO](https://open.spotify.com/album/4hIrXHdSBr4iXJAsyq3Fd0) | 3:27 |
 | 83 | [Soy Yo](https://open.spotify.com/track/4n8cY8SZgldxSbq9uJ05Tq) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Soy Yo](https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki) | 4:04 |
-| 84 | [Te Adoraré](https://open.spotify.com/track/3e4lLl0zCsOmiXjl9rBfNk) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 3:47 |
-| 85 | [Por fin](https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 4:01 |
+| 84 | [Por fin](https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Terral](https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS) | 4:01 |
+| 85 | [Te Adoraré](https://open.spotify.com/track/3e4lLl0zCsOmiXjl9rBfNk) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 3:47 |
 | 86 | [TV](https://open.spotify.com/track/7umNRgkjLJEnGF8Iq8f2rI) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TV](https://open.spotify.com/album/1QlWbtKAAJnMTxYnLcRupx) | 2:45 |
 | 87 | [Tan Enamorados](https://open.spotify.com/track/4z9b9AbzCw32Azqg8uJ0B6) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4) | [Tan Enamorados](https://open.spotify.com/album/0GmPTq9AHYUmbelg8bVamu) | 2:59 |
 | 88 | [Bombón](https://open.spotify.com/track/0nhckEPANmrYlBOPCB0pxT) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Bombón](https://open.spotify.com/album/60tj4hg4wjcfjgnewQyGJT) | 2:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoGbRYcteyC.md) - [plain]
 | 99 | [La Mujer Perfecta](https://open.spotify.com/track/0mAGeks6ns4FZWBPkjD9HR) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [La Mujer Perfecta](https://open.spotify.com/album/4Sj72xRJkdtcQ79INIEvvX) | 3:37 |
 | 100 | [Nada Es Como Tú \- Acústico](https://open.spotify.com/track/0FJoj1lLkUDPH4dazfrBOz) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [Apague la Luz y Escuche](https://open.spotify.com/album/1Ke5xraBJtqZ8mM8Rb62TN) | 3:30 |
 
-Snapshot ID: `MCxhMWFjNzU3YWUwNDQ3ZGUxMDAyN2U1ZDk1NDhlMzY1NDViMzUxZmM4`
+Snapshot ID: `MCwwNGM0ODc0OGJlOWZjOGI1OTQxYmRkM2RjM2I5MTBiOWJkODZhYzFh`

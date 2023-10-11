@@ -1,13 +1,29 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 457914,
+  "num_followers": 457909,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2YTU0MDY2NjE3N2YzZDAyNTZmZGU2MTVjNzQxMWJjODkwMjUwZWUw",
+  "snapshot_id": "MCw4ZWY2MzcxNTZmNmMzNjFlMjg3MjdmYTA5MzZlNWRjZWI2MzZmYmY3",
   "tracks": [
+    {
+      "added_at": "2023-10-10 02:44:22",
+      "album": {
+        "name": "Makeshift Tourniquet",
+        "url": "https://open.spotify.com/album/73T8ZTaxv3LBS4wQo9NW3n"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "duration_ms": 317835,
+      "name": "Makeshift Tourniquet",
+      "url": "https://open.spotify.com/track/4YrUH3TZazK6DC2w5qXryI"
+    },
     {
       "added_at": "2023-07-28 21:29:53",
       "album": {
@@ -25,38 +41,6 @@
       "url": "https://open.spotify.com/track/7rhmmDBFUwZHC7rSeMxO2E"
     },
     {
-      "added_at": "2023-07-24 18:47:06",
-      "album": {
-        "name": "Butterfly Effect",
-        "url": "https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p"
-      },
-      "artists": [
-        {
-          "name": "Forest Swords",
-          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
-        }
-      ],
-      "duration_ms": 211726,
-      "name": "Butterfly Effect",
-      "url": "https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA"
-    },
-    {
-      "added_at": "2023-07-18 19:12:42",
-      "album": {
-        "name": "Pleiades",
-        "url": "https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi"
-      },
-      "artists": [
-        {
-          "name": "AINO",
-          "url": "https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu"
-        }
-      ],
-      "duration_ms": 508603,
-      "name": "Alcyone",
-      "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
-    },
-    {
       "added_at": "2023-08-17 17:08:08",
       "album": {
         "name": "kanashi\u0304",
@@ -71,42 +55,6 @@
       "duration_ms": 291463,
       "name": "Calico",
       "url": "https://open.spotify.com/track/2lJM9fK3zYQRXVXOTauwhZ"
-    },
-    {
-      "added_at": "2023-07-28 21:29:53",
-      "album": {
-        "name": "Zero to Sixty",
-        "url": "https://open.spotify.com/album/4LSkUOsye6mMhUOVVkUG7f"
-      },
-      "artists": [
-        {
-          "name": "Lusine",
-          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
-        },
-        {
-          "name": "Sarah Jaffe",
-          "url": "https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Zero to Sixty",
-      "url": "https://open.spotify.com/track/0WSMGjQGf1WJvAPpbx1Efn"
-    },
-    {
-      "added_at": "2023-08-29 00:53:44",
-      "album": {
-        "name": "Familiar Flavours",
-        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
-      },
-      "artists": [
-        {
-          "name": "700 Feel",
-          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
-        }
-      ],
-      "duration_ms": 260202,
-      "name": "Familiar Flavours",
-      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
     },
     {
       "added_at": "2022-09-07 00:29:17",
@@ -139,6 +87,38 @@
       "duration_ms": 278561,
       "name": "TIOLI",
       "url": "https://open.spotify.com/track/0lfQ5Cw75fnkAg2JXAh0Qh"
+    },
+    {
+      "added_at": "2023-08-29 00:53:44",
+      "album": {
+        "name": "Familiar Flavours",
+        "url": "https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU"
+      },
+      "artists": [
+        {
+          "name": "700 Feel",
+          "url": "https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV"
+        }
+      ],
+      "duration_ms": 260202,
+      "name": "Familiar Flavours",
+      "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+    },
+    {
+      "added_at": "2023-07-24 18:47:06",
+      "album": {
+        "name": "Butterfly Effect",
+        "url": "https://open.spotify.com/album/2vRxyC0FDfmCSc3Xh6c06p"
+      },
+      "artists": [
+        {
+          "name": "Forest Swords",
+          "url": "https://open.spotify.com/artist/2VarlUiM6Lw0SA7BvwVPRP"
+        }
+      ],
+      "duration_ms": 211726,
+      "name": "Butterfly Effect",
+      "url": "https://open.spotify.com/track/6pVzSO33n03YNefcafgvzA"
     },
     {
       "added_at": "2023-03-03 04:17:23",
@@ -193,22 +173,6 @@
       "url": "https://open.spotify.com/track/13aqTF1q4504gb1WxzDZ1k"
     },
     {
-      "added_at": "2022-12-07 00:43:07",
-      "album": {
-        "name": "Forest Theory",
-        "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
-      },
-      "artists": [
-        {
-          "name": "Ricky Bamboo",
-          "url": "https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD"
-        }
-      ],
-      "duration_ms": 231648,
-      "name": "Universal Sound",
-      "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
-    },
-    {
       "added_at": "2022-04-22 18:53:10",
       "album": {
         "name": "Tahara",
@@ -225,20 +189,40 @@
       "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
     },
     {
-      "added_at": "2022-01-21 20:14:08",
+      "added_at": "2023-07-28 21:29:53",
       "album": {
-        "name": "Leave Here",
-        "url": "https://open.spotify.com/album/4kwlyY10z4cSiF6jmyngt9"
+        "name": "Zero to Sixty",
+        "url": "https://open.spotify.com/album/4LSkUOsye6mMhUOVVkUG7f"
       },
       "artists": [
         {
-          "name": "Jacques Greene",
-          "url": "https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9"
+          "name": "Lusine",
+          "url": "https://open.spotify.com/artist/2fMe9lZs5HGGOwh8cMSIub"
+        },
+        {
+          "name": "Sarah Jaffe",
+          "url": "https://open.spotify.com/artist/1z2SrszsRmq47kDhBAnyNS"
         }
       ],
-      "duration_ms": 297585,
-      "name": "Leave Here",
-      "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
+      "duration_ms": 288000,
+      "name": "Zero to Sixty",
+      "url": "https://open.spotify.com/track/0WSMGjQGf1WJvAPpbx1Efn"
+    },
+    {
+      "added_at": "2022-12-07 00:43:07",
+      "album": {
+        "name": "Forest Theory",
+        "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
+      },
+      "artists": [
+        {
+          "name": "Ricky Bamboo",
+          "url": "https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD"
+        }
+      ],
+      "duration_ms": 231648,
+      "name": "Universal Sound",
+      "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
     },
     {
       "added_at": "2023-04-12 01:28:07",
@@ -255,6 +239,22 @@
       "duration_ms": 193655,
       "name": "realcopy",
       "url": "https://open.spotify.com/track/2lMn6u6ErHC3TCnxM6pm1T"
+    },
+    {
+      "added_at": "2023-07-18 19:12:42",
+      "album": {
+        "name": "Pleiades",
+        "url": "https://open.spotify.com/album/3020KpkLo9yLDjngEMEMIi"
+      },
+      "artists": [
+        {
+          "name": "AINO",
+          "url": "https://open.spotify.com/artist/7vU8gqDFkKNP0hYtLERGiu"
+        }
+      ],
+      "duration_ms": 508603,
+      "name": "Alcyone",
+      "url": "https://open.spotify.com/track/4krxkDBSFWRhvogjeVgN6Q"
     },
     {
       "added_at": "2022-08-19 02:33:31",
@@ -357,6 +357,22 @@
       "url": "https://open.spotify.com/track/6svlauimgL7pyT2IciIE6P"
     },
     {
+      "added_at": "2021-10-15 03:56:52",
+      "album": {
+        "name": "Put Your Head Above The Parakeets",
+        "url": "https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 436052,
+      "name": "Head Above The Parakeets",
+      "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
+    },
+    {
       "added_at": "2022-03-30 04:42:42",
       "album": {
         "name": "Chamas Do Cerrado",
@@ -403,22 +419,6 @@
       "duration_ms": 283200,
       "name": "l'empelt",
       "url": "https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4"
-    },
-    {
-      "added_at": "2021-10-15 03:56:52",
-      "album": {
-        "name": "Put Your Head Above The Parakeets",
-        "url": "https://open.spotify.com/album/6SJSwXUsU7XAuI32YfX2iC"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 436052,
-      "name": "Head Above The Parakeets",
-      "url": "https://open.spotify.com/track/1F7wFVvXwazyZdy4jq3Bj8"
     },
     {
       "added_at": "2023-06-27 23:11:49",
@@ -481,6 +481,22 @@
       "url": "https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl"
     },
     {
+      "added_at": "2022-07-15 18:13:54",
+      "album": {
+        "name": "Eden Portal",
+        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 366500,
+      "name": "Eden Portal",
+      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
+    },
+    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -499,22 +515,6 @@
       "duration_ms": 260006,
       "name": "April Dub (Koyas Mix)",
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
-    },
-    {
-      "added_at": "2022-07-15 18:13:54",
-      "album": {
-        "name": "Eden Portal",
-        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
-      },
-      "artists": [
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 366500,
-      "name": "Eden Portal",
-      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
     },
     {
       "added_at": "2022-03-30 05:37:06",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
-      "added_at": "2022-07-15 05:34:07",
-      "album": {
-        "name": "GRIT.",
-        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
-      },
-      "artists": [
-        {
-          "name": "Luke Vibert",
-          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
-        }
-      ],
-      "duration_ms": 331032,
-      "name": "Surrounded By Neighbours",
-      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
-    },
-    {
       "added_at": "2023-01-07 02:50:03",
       "album": {
         "name": "ITSAME",
@@ -579,6 +563,22 @@
       "duration_ms": 461613,
       "name": "ITSAME [group hugg]",
       "url": "https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82"
+    },
+    {
+      "added_at": "2022-07-15 05:34:07",
+      "album": {
+        "name": "GRIT.",
+        "url": "https://open.spotify.com/album/5WDvciEo1xl8XeTV04C5DB"
+      },
+      "artists": [
+        {
+          "name": "Luke Vibert",
+          "url": "https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv"
+        }
+      ],
+      "duration_ms": 331032,
+      "name": "Surrounded By Neighbours",
+      "url": "https://open.spotify.com/track/4eJpV2XFajmu9sao42J5ax"
     },
     {
       "added_at": "2022-07-08 04:48:31",
@@ -601,22 +601,6 @@
       "url": "https://open.spotify.com/track/57Vf7VMA5QSahRghyzywIa"
     },
     {
-      "added_at": "2023-01-04 00:21:35",
-      "album": {
-        "name": "Baby, We're Ascending",
-        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
-      },
-      "artists": [
-        {
-          "name": "HAAi",
-          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
-        }
-      ],
-      "duration_ms": 399240,
-      "name": "Pigeon Barron",
-      "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
-    },
-    {
       "added_at": "2023-01-07 03:51:32",
       "album": {
         "name": "Crass",
@@ -633,6 +617,22 @@
       "url": "https://open.spotify.com/track/2Gh7Fv6yk1sgbwT6kMVV0U"
     },
     {
+      "added_at": "2023-01-04 00:21:35",
+      "album": {
+        "name": "Baby, We're Ascending",
+        "url": "https://open.spotify.com/album/7FlN0x6yjToDvOIjpuIm48"
+      },
+      "artists": [
+        {
+          "name": "HAAi",
+          "url": "https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4"
+        }
+      ],
+      "duration_ms": 399240,
+      "name": "Pigeon Barron",
+      "url": "https://open.spotify.com/track/3J4QilICdLFiPX7lB3lyOJ"
+    },
+    {
       "added_at": "2023-03-28 06:18:56",
       "album": {
         "name": "weirdbloom",
@@ -647,6 +647,30 @@
       "duration_ms": 279816,
       "name": "NPCs have feelings too",
       "url": "https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t"
+    },
+    {
+      "added_at": "2022-12-16 06:00:00",
+      "album": {
+        "name": "Hondo (Remix)",
+        "url": "https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        },
+        {
+          "name": "Techno Para Dos",
+          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
+        },
+        {
+          "name": "issuesonissues",
+          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
+        }
+      ],
+      "duration_ms": 321210,
+      "name": "Hondo (Remix)",
+      "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
       "added_at": "2022-03-30 05:10:26",
@@ -681,30 +705,6 @@
       "url": "https://open.spotify.com/track/1MmksCcZL31uJu8J4swpsC"
     },
     {
-      "added_at": "2022-12-16 06:00:00",
-      "album": {
-        "name": "Hondo (Remix)",
-        "url": "https://open.spotify.com/album/4U8wUMf1YW7sRhrAuVi2Mn"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        },
-        {
-          "name": "Techno Para Dos",
-          "url": "https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h"
-        },
-        {
-          "name": "issuesonissues",
-          "url": "https://open.spotify.com/artist/2dzJGWoV8Hdmq2ZnpbTGG0"
-        }
-      ],
-      "duration_ms": 321210,
-      "name": "Hondo (Remix)",
-      "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
-    },
-    {
       "added_at": "2022-04-29 18:24:26",
       "album": {
         "name": "Cruda",
@@ -737,22 +737,6 @@
       "url": "https://open.spotify.com/track/4yvUIVFjmNJL7nrb0irmBa"
     },
     {
-      "added_at": "2022-01-19 22:44:25",
-      "album": {
-        "name": "Fwd: Re: late (Ref.: karoshi)",
-        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Fwd: Re: late (Ref.: karoshi)",
-      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
-    },
-    {
       "added_at": "2023-06-01 23:13:49",
       "album": {
         "name": "Circuitous",
@@ -767,6 +751,22 @@
       "duration_ms": 334798,
       "name": "Circuitous",
       "url": "https://open.spotify.com/track/6vu6oVaFUJkHt49OeoaO3k"
+    },
+    {
+      "added_at": "2022-01-19 22:44:25",
+      "album": {
+        "name": "Fwd: Re: late (Ref.: karoshi)",
+        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Fwd: Re: late (Ref.: karoshi)",
+      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     },
     {
       "added_at": "2022-12-20 19:12:56",

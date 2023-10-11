@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Offset
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,194,954 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,194,876 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 | 74 | [Talk To Em \(feat\. Veeze\)](https://open.spotify.com/track/74oeFXv2DcW9VEAAVmNNhv) | [BigWalkDog](https://open.spotify.com/artist/5RivQkx7CAT7TSVFJKvbDz), [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Talk To Em \(feat\. Veeze\)](https://open.spotify.com/album/6gGFoQNndkYJq5Dt5oK8fT) | 2:55 |
 | 75 | [Taylor Port Junkie \(feat\. Lil Yachty\)](https://open.spotify.com/track/0bHfRPMnqoMmSpzZywlCmq) | [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Been One](https://open.spotify.com/album/69bYMgvQpIYHsNNDxDTQqa) | 3:28 |
 
-Snapshot ID: `MCxlMDY0N2Y2NDMyMGI5ZTVjNTQ5NTM2MGJlZGY2MTA3YTQ4YTI1NDQw`
+Snapshot ID: `MCxjMzI3OWE2NTM3NTUwMTZhMmUxODE3YjE0OGUyZWVkYzVmMDZjYTVk`

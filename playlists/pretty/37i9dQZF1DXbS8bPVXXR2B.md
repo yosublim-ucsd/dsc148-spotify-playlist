@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,696 likes - 100 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,751 likes - 100 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 20 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
 | 21 | [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 |
 | 22 | [I.G.Y.](https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [The Nightfly](https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8) | 6:03 |
-| 23 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [The Collection](https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1) | 5:41 |
-| 24 | [You and I](https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [The Best of Delegation](https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc) | 5:16 |
+| 23 | [You and I](https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [The Best of Delegation](https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc) | 5:16 |
+| 24 | [Last Night a D.J\. Saved My Life](https://open.spotify.com/track/6NSqiyQWIyZLouviktad9X) | [Indeep](https://open.spotify.com/artist/50xejJlMNloQ4PUB7lGP9h) | [The Collection](https://open.spotify.com/album/3kBttrxwsNFoNTtRGyhge1) | 5:41 |
 | 25 | [Nights Over Egypt](https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Get as Much Love as You Can](https://open.spotify.com/album/3tpCzBzJytqzc7eHcJQChi) | 4:39 |
 | 26 | [Relight My Fire \- Single Version](https://open.spotify.com/track/6UW4Uo5zRI5gJw5urNwiwN) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Relight My Fire \(Expanded Edition\)](https://open.spotify.com/album/0zHX5CKQciDiMewajwcAf4) | 3:45 |
 | 27 | [Risin' to the Top](https://open.spotify.com/track/5iVxHPyHVO7vWSDnRpNH5d) | [Keni Burke](https://open.spotify.com/artist/1EVOoMiMrmOEYXHd36poF2) | [Changes \(Expanded Edition\)](https://open.spotify.com/album/0hpXGYRKh9jmWz5ueqKaqh) | 5:14 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 96 | [Do It Do It Disco \(Tom Noble Remix\)](https://open.spotify.com/track/67XDCDC0hwYS1jNt01oyZt) | [Myron & E](https://open.spotify.com/artist/6c6ke5hTJ7g6g0CWZb5Maj), [Tom Noble](https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF) | [Do It Do It Disco](https://open.spotify.com/album/5Auymg5cz9Dv9gURiVaU0Q) | 5:50 |
 | 97 | [When You Wake up Tomorrow](https://open.spotify.com/track/4b7CZF01PSfOYVPGY3adiY) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Chance](https://open.spotify.com/album/4RtrnkVrwWjMAvvYZ24PWB) | 6:46 |
 | 98 | [All This Love That I'm Givin'](https://open.spotify.com/track/18Zt6bYW7WZ7gIzFHPHNXu) | [Gwen McCrae](https://open.spotify.com/artist/742YR9ZgF0tCO5juBfvPAU) | [Gwen McCrae: Cat & Atlantic Years](https://open.spotify.com/album/5hUkNJBkNpK5oINAjEdpVt) | 3:53 |
-| 99 | [Lypso Illusion](https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 4:44 |
-| 100 | [Saturday Jam](https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD) | [Benedek](https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t), [K\-Maxx](https://open.spotify.com/artist/5RSuS2evjc9IGjLJUt1iZR), [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt), [Turquoise Summers](https://open.spotify.com/artist/3m8JJr3ASeNiSHK85P4o4z), [Buscrates 16 Bit Ensemble](https://open.spotify.com/artist/2w04ct5AHBWI3AxA6PbuEb), [East Liberty Quarters](https://open.spotify.com/artist/4vJ4MIyanwJLkDECKh0Dik), [Henning](https://open.spotify.com/artist/5ppN1E00CZsVGCmTlAOtQO), [TONI CLARKE](https://open.spotify.com/artist/6vyhMj9yU8TGz3VfHfzNsB) | [Raw Silk Vol\. 1](https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D) | 4:11 |
+| 99 | [Saturday Jam](https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD) | [Benedek](https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t), [K\-Maxx](https://open.spotify.com/artist/5RSuS2evjc9IGjLJUt1iZR), [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt), [Turquoise Summers](https://open.spotify.com/artist/3m8JJr3ASeNiSHK85P4o4z), [Buscrates 16 Bit Ensemble](https://open.spotify.com/artist/2w04ct5AHBWI3AxA6PbuEb), [East Liberty Quarters](https://open.spotify.com/artist/4vJ4MIyanwJLkDECKh0Dik), [Henning](https://open.spotify.com/artist/5ppN1E00CZsVGCmTlAOtQO), [TONI CLARKE](https://open.spotify.com/artist/6vyhMj9yU8TGz3VfHfzNsB) | [Raw Silk Vol\. 1](https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D) | 4:11 |
+| 100 | [Lypso Illusion](https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 4:44 |
 
-Snapshot ID: `MCwwNWM3MDc3ZWFmOTJkMzIyN2M3ZmE4MTRjYjVjNmE4ZGVlZjEyNDYw`
+Snapshot ID: `MCwyZDhkNmM1Y2Q4ZjNlZWEwMGFlMzJlYWZiYTI2M2QyNTg4ZDAxNWM1`

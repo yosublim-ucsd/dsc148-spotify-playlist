@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 
 > 2003 was an ICONIC moment for music\. Relive the year's biggest hits! Cover: The Killers
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,856 likes - 60 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,832 likes - 60 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLUQ5WYaArq.md) - [plain]
 | 59 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
 | 60 | [The Bitter End](https://open.spotify.com/track/2yYASbXnAV71CLbNY1HCWf) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4) | 3:10 |
 
-Snapshot ID: `MCxjMzBiYjhjNmQyMDVhYjIyNmIwZmY3MDU1YTQyMzM3NTg3YTAxZGZi`
+Snapshot ID: `MCxjMTkxNzg5NGRhOWU3MGVkNmZiNWJhZjJmMmI2MGVkYzk0NWZmMjQy`

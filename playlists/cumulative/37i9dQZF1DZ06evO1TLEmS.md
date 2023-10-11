@@ -4,7 +4,7 @@
 
 > This is Madison Cunningham\. The essential tracks, all in one playlist.
 
-66 songs - 4 hr 20 min
+67 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Lover, You Should’ve Come Over](https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Wednesday \(Extended Edition\)](https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk) | 5:36 | 2022-09-16 |  |
 | [Milk And Honey](https://open.spotify.com/track/3MBj4YAt6umNKhjOzAOWoz) | [Ondara](https://open.spotify.com/artist/33saQZHi434TBuDAXbyU2W), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Tales Of America \(The Second Coming\)](https://open.spotify.com/album/53NJ8rhui9uzJ1IagwQa4V) | 2:54 | 2022-09-16 |  |
 | [Modern Man \(feat\. Madison Cunningham\)](https://open.spotify.com/track/5wo8gxWeFb9YsZ719fALSL) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Modern Man](https://open.spotify.com/album/2mYhqIuQKJ8CQCkuJH14A2) | 3:04 | 2022-09-16 |  |
+| [Neighbor Song \[Feat\. Madison Cunningham\]](https://open.spotify.com/track/5t6reWfzf0aOeMgVijYRGS) | [Lake Street Dive](https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Neighbor Song \(ft\. Madison Cunningham\)](https://open.spotify.com/album/1gWFh2G3METlCAbzhfaIzs) | 3:40 | 2023-10-10 |  |
 | [No One Else To Blame](https://open.spotify.com/track/3tICJ9T0zJHV9NRakK8PHw) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No One Else To Blame](https://open.spotify.com/album/4RrYiD9kEUbyPYaWBmgVy8) | 3:02 | 2022-09-16 |  |
 | [No Surprises](https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [No Surprises](https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi) | 3:35 | 2022-09-16 |  |
 | [Our Rebellion](https://open.spotify.com/track/42rHpSXnUgHvVyIU1VCVPf) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Revealer](https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D) | 3:08 | 2022-09-16 | 2023-08-10 |
@@ -56,7 +57,7 @@
 | [Plain Letters](https://open.spotify.com/track/785XCeQqmArhIMXov8OIsc) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Who Are You Now](https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy) | 3:37 | 2022-10-26 | 2022-11-13 |
 | [Plain Letters \- Reimagined](https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Plain Letters \(Reimagined\)](https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O) | 4:33 | 2022-09-16 |  |
 | [Poses](https://open.spotify.com/track/2GIaxXqz1YwwCeq7fgyTrq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Poses](https://open.spotify.com/album/32tEwUgi2ZxgptAXlxXV0L) | 4:45 | 2022-09-16 | 2023-07-25 |
-| [Redemption Ground](https://open.spotify.com/track/3Hb9XXnDjtXcd7lXy8N8Rf) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Glory Song](https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo) | 4:46 | 2022-10-12 |  |
+| [Redemption Ground](https://open.spotify.com/track/3Hb9XXnDjtXcd7lXy8N8Rf) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Glory Song](https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo) | 4:46 | 2022-10-12 | 2023-10-11 |
 | [Remember, Remember](https://open.spotify.com/track/2X0imj3VOfDGWXOwaYlChu) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Love, Lose, Remember](https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL) | 4:50 | 2022-09-16 | 2023-09-19 |
 | [Send My Regards](https://open.spotify.com/track/4k5N65CQWpIFuLmLOfSyRI) | [Anthony da Costa](https://open.spotify.com/artist/59FeKdChfWED6sfb6QQbzj), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Send My Regards](https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH) | 4:07 | 2022-09-16 |  |
 | [Side By Side](https://open.spotify.com/track/2BtUkMC928pz4Yqz27ZQo9) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Departures](https://open.spotify.com/album/6XjPtcU79xRGRXvCx3Owlj) | 4:13 | 2022-09-16 |  |

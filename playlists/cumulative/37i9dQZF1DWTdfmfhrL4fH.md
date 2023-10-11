@@ -4,7 +4,7 @@
 
 > Any songs you forgot existed? Let's go deep into 2010s rock!  Cover: Papa Roach.
 
-549 songs - 1 day 10 hr 28 min
+550 songs - 1 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -275,6 +275,7 @@
 | [Last Day Under The Sun](https://open.spotify.com/track/6QrC8IQV29mwLgLMW1zGmm) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Rewind, Replay, Rebound \(Deluxe\)](https://open.spotify.com/album/700dWAqcIsUkNJ1WN1XPT5) | 4:47 | 2022-05-25 |  |
 | [Last Night](https://open.spotify.com/track/3cO8w5kGXDdwQywhiX0G8J) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Cardiology](https://open.spotify.com/album/08utRHYjRSDcceEsjFRFX0) | 3:40 | 2022-05-25 | 2022-07-25 |
 | [Learn To Walk Again](https://open.spotify.com/track/0WqNI4pN93epyGavKOHqgj) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/1OSVLEGK6WXM1wPsF4v5M1) | 2:47 | 2022-05-25 | 2023-08-31 |
+| [Learn To Walk Again](https://open.spotify.com/track/7hNxx6bokdjR2GDBxrgLGO) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [N.A.T.I.O.N.](https://open.spotify.com/album/6yMblFoGadj25t99DryfSv) | 2:47 | 2023-01-18 |  |
 | [Leave It All Behind](https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost \(Deluxe\)](https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B) | 3:18 | 2023-01-18 |  |
 | [Leave It All Behind](https://open.spotify.com/track/5J1tThACf3JLPc3cC1neEH) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [How It Feels to Be Lost](https://open.spotify.com/album/19BZXyyyJmxcCys5VDFOOB) | 3:18 | 2022-05-25 | 2022-07-29 |
 | [Let It Burn](https://open.spotify.com/track/6FlCPO7Z0QGgwtIL8ocZzY) | [Red](https://open.spotify.com/artist/01crEa9G3pNpXZ5m7wuHOk) | [Until We Have Faces](https://open.spotify.com/album/3mCFgW3TWFsRTD1Kc1yEtO) | 4:57 | 2022-05-25 | 2023-02-25 |
@@ -322,7 +323,7 @@
 | [Miracle](https://open.spotify.com/track/6A6PDawvZIfnJHW40sBHzz) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS](https://open.spotify.com/album/6pUg9RDDoVyQQVJ48FkmXz) | 3:26 | 2022-05-25 |  |
 | [Miss Nothing](https://open.spotify.com/track/1FFpE97M77Nf8HxF8SDJZJ) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq) | [Light Me Up](https://open.spotify.com/album/0moY5BetMaS0Vyi0Hh3zpb) | 3:13 | 2022-05-25 | 2022-07-27 |
 | [Missed Connection](https://open.spotify.com/track/4R9KztunyNTH13KtAqePLp) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [Living Mirage](https://open.spotify.com/album/27LNgTSAGxE2fitrsCukmT) | 3:15 | 2023-01-18 | 2023-09-07 |
-| [Missing You](https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 4:04 | 2022-05-25 |  |
+| [Missing You](https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Future Hearts](https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I) | 4:04 | 2022-05-25 | 2023-10-11 |
 | [Monarchy of Roses](https://open.spotify.com/track/16Bf9uR4PI2dCoXDIjs0cP) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [I'm with You](https://open.spotify.com/album/5wZtSIvijWCMc1vlPFqAyB) | 4:11 | 2022-05-25 | 2022-07-22 |
 | [Money Run Low](https://open.spotify.com/track/3LhGRE7ZNOEZhrqazWMYRI) | [The Score](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I) | [ATLAS \(Deluxe\)](https://open.spotify.com/album/2estDSavGQ2q3IHLbzxkSE) | 3:05 | 2022-05-25 | 2023-08-30 |
 | [Mother](https://open.spotify.com/track/0Rzhp7yczZfx4LuMM2wDcL) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Future Dust](https://open.spotify.com/album/7sRAdyIMXnDLFiC6sVo2ke) | 4:46 | 2022-05-25 | 2022-07-02 |

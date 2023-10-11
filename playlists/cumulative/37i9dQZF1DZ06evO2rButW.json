@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "40 y MM",
+        "url": "https://open.spotify.com/album/3kwh1wumBMqfivrWVKEGNO"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202373,
+      "name": "40 y MM",
+      "url": "https://open.spotify.com/track/7DBZjgdH5YHr8CQY5DKDAc"
+    },
+    {
+      "album": {
         "name": "Algo Es Mejor",
         "url": "https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r"
       },

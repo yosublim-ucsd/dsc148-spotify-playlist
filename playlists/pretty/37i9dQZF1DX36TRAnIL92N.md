@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,375 likes - 50 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,828 likes - 50 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 49 | [Together One Time](https://open.spotify.com/track/5UH3wpmBqgrTqMjtBdDv2s) | [Kaiserdisco](https://open.spotify.com/artist/2lPXenWgbh51R950CMdk6i) | [Together One Time](https://open.spotify.com/album/7oF7soCZFmCFhnLeDKQ19Y) | 4:48 |
 | 50 | [Can't Stop the Feeling](https://open.spotify.com/track/0NsigEyiIwuysCjeU9EhRU) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Deep Down](https://open.spotify.com/album/15G5lWobigPCcfut6h0eaD) | 3:28 |
 
-Snapshot ID: `MCxkMjA1MDA1NzM3MTkxYmYzYzhlYTdmMmU3NDEzZDI5ZTAyZThmYjRk`
+Snapshot ID: `MCwyMTJkOGYyNTg2OGExMGExNTk0YjZiOWEyOTc0MzAwNDVmMGFlZmRm`

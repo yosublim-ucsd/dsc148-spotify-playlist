@@ -1,12 +1,12 @@
 {
   "description": "O trap nacional pra qualquer hora, daquele jeit\u00e3o. Foto: Caio Luccas",
-  "num_followers": 122554,
+  "num_followers": 122582,
   "original_name": "Trap Classe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMWQ1Y2Q0YTljNTNjNzcxZDkyODY5ZjYxNjJkNDU3MTA1Yzk1YjVl",
+  "snapshot_id": "MCw5YzNmZTg0M2RkYmU0NmQzYzFkNjBkYjdmMjA4YzY2NmQ5YWUyOWIy",
   "tracks": [
     {
       "added_at": "2023-10-06 03:03:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
-        "name": "Avi\u00e3o",
-        "url": "https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf"
-      },
-      "artists": [
-        {
-          "name": "MC Caverinha",
-          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Avi\u00e3o",
-      "url": "https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
         "name": "Gigante",
         "url": "https://open.spotify.com/album/2VrpLiOjWgQqhA9eemx7VC"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 147130,
       "name": "Gigante",
       "url": "https://open.spotify.com/track/7rJK5hWRhsG40Ga9zp7DlO"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
+        "name": "Avi\u00e3o",
+        "url": "https://open.spotify.com/album/3qB0aw6UmDycNX9pWvyjXf"
+      },
+      "artists": [
+        {
+          "name": "MC Caverinha",
+          "url": "https://open.spotify.com/artist/7tojcuXcZ7eBlQjbAc65Ee"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Avi\u00e3o",
+      "url": "https://open.spotify.com/track/3vG5tTQZsAPTDqMiXFhKJy"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
-        "name": "Criminal Influencer",
-        "url": "https://open.spotify.com/album/4c14Voy3lrcEd4pseEreG3"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Tarcis",
-          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "Criminal Influencer",
-      "url": "https://open.spotify.com/track/1yGJUwPOptMclOwV2kvAxH"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
         "name": "Assault (Angra)",
         "url": "https://open.spotify.com/album/7C71AMfoi1LwvHIV17o2HU"
       },
@@ -1155,6 +1135,26 @@
       "duration_ms": 269998,
       "name": "Assault (Angra)",
       "url": "https://open.spotify.com/track/0In8P4w9CvupkqGBuyHTLv"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
+        "name": "Criminal Influencer",
+        "url": "https://open.spotify.com/album/4c14Voy3lrcEd4pseEreG3"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Tarcis",
+          "url": "https://open.spotify.com/artist/2qb3anjfE3Rmn5edv2ULzg"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "Criminal Influencer",
+      "url": "https://open.spotify.com/track/1yGJUwPOptMclOwV2kvAxH"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -1507,6 +1507,26 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
+        "name": "Nintendo Switch",
+        "url": "https://open.spotify.com/album/5fc2wwSt0HNPNskNwt4k3s"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9 Santiago",
+          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
+        },
+        {
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
+        }
+      ],
+      "duration_ms": 259672,
+      "name": "Nintendo Switch",
+      "url": "https://open.spotify.com/track/2yESwIR0YXuAmH8vhKd0RO"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
         "name": "Menino Ney",
         "url": "https://open.spotify.com/album/3IWRs9fZhKc4i7lCkqNPHU"
       },
@@ -1527,26 +1547,6 @@
       "duration_ms": 139636,
       "name": "Menino Ney",
       "url": "https://open.spotify.com/track/3n7ASTQanOp5milmESBqlt"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
-        "name": "Nintendo Switch",
-        "url": "https://open.spotify.com/album/5fc2wwSt0HNPNskNwt4k3s"
-      },
-      "artists": [
-        {
-          "name": "J\u00e9 Santiago",
-          "url": "https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI"
-        },
-        {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
-        }
-      ],
-      "duration_ms": 259672,
-      "name": "Nintendo Switch",
-      "url": "https://open.spotify.com/track/2yESwIR0YXuAmH8vhKd0RO"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -1799,6 +1799,26 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
+        "name": "Esculpido a Machado",
+        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
+      },
+      "artists": [
+        {
+          "name": "LEALL",
+          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
+        },
+        {
+          "name": "Babidi",
+          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
+        }
+      ],
+      "duration_ms": 145365,
+      "name": "Pedro Bala",
+      "url": "https://open.spotify.com/track/2Dh5R6Jhlhu6C9FtgV1XQF"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
         "name": "Lobo-Guar\u00e1",
         "url": "https://open.spotify.com/album/28mf805fbXJs5B8rCRMjch"
       },
@@ -1827,26 +1847,6 @@
       "duration_ms": 262199,
       "name": "Lobo-Guar\u00e1",
       "url": "https://open.spotify.com/track/6pPPjzQCW3TauculUPjKDs"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
-        "name": "Esculpido a Machado",
-        "url": "https://open.spotify.com/album/5BCSltKIxLBav5MEeF0aOh"
-      },
-      "artists": [
-        {
-          "name": "LEALL",
-          "url": "https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz"
-        },
-        {
-          "name": "Babidi",
-          "url": "https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul"
-        }
-      ],
-      "duration_ms": 145365,
-      "name": "Pedro Bala",
-      "url": "https://open.spotify.com/track/2Dh5R6Jhlhu6C9FtgV1XQF"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -1971,6 +1971,34 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/0ujQ7p7VDbqL9YpAhIb4dO"
+      },
+      "artists": [
+        {
+          "name": "UCL\u00c3",
+          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
+        },
+        {
+          "name": "Sueth",
+          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
+        },
+        {
+          "name": "Sos",
+          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
+        },
+        {
+          "name": "Sobs",
+          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
+        }
+      ],
+      "duration_ms": 215160,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
         "name": "C Walk 2",
         "url": "https://open.spotify.com/album/1acftUORHmGwfl2HMP2ZUH"
       },
@@ -2059,34 +2087,6 @@
       "duration_ms": 165600,
       "name": "Drink Azul",
       "url": "https://open.spotify.com/track/2rIUgXHdMeQb6i8TFKrGOK"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/0ujQ7p7VDbqL9YpAhIb4dO"
-      },
-      "artists": [
-        {
-          "name": "UCL\u00c3",
-          "url": "https://open.spotify.com/artist/4zP89WNloauEX8v8JdZbxP"
-        },
-        {
-          "name": "Sueth",
-          "url": "https://open.spotify.com/artist/4ZyBq7WEL7d2dDH0BkVDPX"
-        },
-        {
-          "name": "Sos",
-          "url": "https://open.spotify.com/artist/01y0qj3pkC0Fw07YLnKsvK"
-        },
-        {
-          "name": "Sobs",
-          "url": "https://open.spotify.com/artist/0zuan1WYTIhlisigYXsqY9"
-        }
-      ],
-      "duration_ms": 215160,
-      "name": "21",
-      "url": "https://open.spotify.com/track/2lLygaAejjDX1yMt5XuMGG"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -2223,30 +2223,6 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
-        "name": "Antigolpe",
-        "url": "https://open.spotify.com/album/32BpbaukPvEWLVnJQ7mp6a"
-      },
-      "artists": [
-        {
-          "name": "Xaga",
-          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
-        },
-        {
-          "name": "Raff\u00e9",
-          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
-        },
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        }
-      ],
-      "duration_ms": 214168,
-      "name": "Antigolpe",
-      "url": "https://open.spotify.com/track/4o9RbfyhanDFbT0vKc4h73"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
         "name": "Modo Trapa\u00e7a",
         "url": "https://open.spotify.com/album/4zKBStIg0K3ZoPDQHq1IIQ"
       },
@@ -2283,6 +2259,30 @@
       "duration_ms": 168152,
       "name": "Espanha",
       "url": "https://open.spotify.com/track/0hcXSJ2MOEVxlzTLtRunJl"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
+        "name": "Antigolpe",
+        "url": "https://open.spotify.com/album/32BpbaukPvEWLVnJQ7mp6a"
+      },
+      "artists": [
+        {
+          "name": "Xaga",
+          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
+        },
+        {
+          "name": "Raff\u00e9",
+          "url": "https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        }
+      ],
+      "duration_ms": 214168,
+      "name": "Antigolpe",
+      "url": "https://open.spotify.com/track/4o9RbfyhanDFbT0vKc4h73"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -2355,6 +2355,22 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
+        "name": "Baby Hair",
+        "url": "https://open.spotify.com/album/3mH7zs57PG8YdYX9JLoIbO"
+      },
+      "artists": [
+        {
+          "name": "Recayd Mob",
+          "url": "https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71"
+        }
+      ],
+      "duration_ms": 221501,
+      "name": "Baby Hair",
+      "url": "https://open.spotify.com/track/7mtGQwe1XBh3A9BgVainvb"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
         "name": "Uo*L",
         "url": "https://open.spotify.com/album/4UgjKTwjLKEs8VqFZvqckb"
       },
@@ -2371,22 +2387,6 @@
       "duration_ms": 133668,
       "name": "Uo*L",
       "url": "https://open.spotify.com/track/4hVSWdyWtnowu9MWLPa0KF"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
-        "name": "Baby Hair",
-        "url": "https://open.spotify.com/album/3mH7zs57PG8YdYX9JLoIbO"
-      },
-      "artists": [
-        {
-          "name": "Recayd Mob",
-          "url": "https://open.spotify.com/artist/1QBWA6tuiZ0JuDluPqbe71"
-        }
-      ],
-      "duration_ms": 221501,
-      "name": "Baby Hair",
-      "url": "https://open.spotify.com/track/7mtGQwe1XBh3A9BgVainvb"
     },
     {
       "added_at": "2023-10-06 03:03:00",

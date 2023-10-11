@@ -1071,6 +1071,28 @@
     },
     {
       "album": {
+        "name": "We Love You Moar (feat. Pussy Riot)",
+        "url": "https://open.spotify.com/album/2Fjz2tjt6Hwsbjlio7n9vB"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        },
+        {
+          "name": "Pussy Riot",
+          "url": "https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275564,
+      "name": "We Love You Moar (feat. Pussy Riot)",
+      "url": "https://open.spotify.com/track/37pQPRmfsWA9HM7xMM6yXv"
+    },
+    {
+      "album": {
         "name": "Nightmare",
         "url": "https://open.spotify.com/album/7vfuTRXIAYJz5Uc8SddnTr"
       },

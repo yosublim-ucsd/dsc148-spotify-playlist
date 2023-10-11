@@ -1,12 +1,12 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 115262,
+  "num_followers": 115296,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2UxNjA4YzExYmFhNjQ5NzBmNzJlMDY3ZmVhNjkyZWI0NDYyNDEz",
+  "snapshot_id": "MCw5ZWEyNzAwM2RmNjc0ZGY2NDIxM2E1MjBjYmZlNTNmZmNhZjI2OTA5",
   "tracks": [
     {
       "added_at": "2022-06-28 08:56:25",
@@ -875,26 +875,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "H\u00e4ndel: Water Works",
-        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Syr\u00e8ne Saxophone Quartet",
-          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
-        }
-      ],
-      "duration_ms": 64773,
-      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
-      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Baroque Masterpieces",
         "url": "https://open.spotify.com/album/2entznF0FUMgl5m5Q813BW"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 174320,
       "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: I. Menuet I",
       "url": "https://open.spotify.com/track/1LIvAJXJvqUNKkeB5m5NHv"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "H\u00e4ndel: Water Works",
+        "url": "https://open.spotify.com/album/0hLOMULylE3BjdwQwX97Br"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Syr\u00e8ne Saxophone Quartet",
+          "url": "https://open.spotify.com/artist/42zAZXwDwnuYmn4RmEZxWo"
+        }
+      ],
+      "duration_ms": 64773,
+      "name": "Water Music: Suite No. 2 in D, HWV 349: XIII. Minuet",
+      "url": "https://open.spotify.com/track/7CM56fEgOdGeq9w7e6bSsd"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -947,8 +947,8 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
-        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+        "name": "Peaceful Handel",
+        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
       },
       "artists": [
         {
@@ -956,17 +956,21 @@
           "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Pierre Boulez",
-          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+          "name": "Jozef Cejka",
+          "url": "https://open.spotify.com/artist/2RckiLCxwEVZNipnXzCbG3"
         },
         {
-          "name": "New York Philharmonic",
-          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+          "name": "Capella Istropolitana",
+          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
+        },
+        {
+          "name": "Richard Edlinger",
+          "url": "https://open.spotify.com/artist/09Ruas7vF7YHnor4to4Eyo"
         }
       ],
-      "duration_ms": 142133,
-      "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
-      "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
+      "duration_ms": 227000,
+      "name": "Serse (Xerxes), Hwv 40 (arr. for oboe and orchestra): Act I: Ombra mai fu, \"largo\"",
+      "url": "https://open.spotify.com/track/0Bzw4breRe6YyvaHpjaSYD"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -991,6 +995,30 @@
       "duration_ms": 280266,
       "name": "Concerti grossi, Op. 6, Concerto Grosso No. 3 in E Minor, HWV 321: IV. Polonaise",
       "url": "https://open.spotify.com/track/7cp6Eo0en3PyejoEQv1bg2"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
+        "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Pierre Boulez",
+          "url": "https://open.spotify.com/artist/2prZJWfQMnIgwUKxKcBxH7"
+        },
+        {
+          "name": "New York Philharmonic",
+          "url": "https://open.spotify.com/artist/3gacryguGmpmCvgPGt2CBI"
+        }
+      ],
+      "duration_ms": 142133,
+      "name": "Water Music: Suite No. 2 in D Major, HWV 349, I. Allegro",
+      "url": "https://open.spotify.com/track/1aK44lWlnmXhfWNbOzhZn5"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1067,34 +1095,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Peaceful Handel",
-        "url": "https://open.spotify.com/album/3lCyIUqOxVLKgPc4rWhxtS"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Jozef Cejka",
-          "url": "https://open.spotify.com/artist/2RckiLCxwEVZNipnXzCbG3"
-        },
-        {
-          "name": "Capella Istropolitana",
-          "url": "https://open.spotify.com/artist/3COykW4UPvB0DqwnzlnfWt"
-        },
-        {
-          "name": "Richard Edlinger",
-          "url": "https://open.spotify.com/artist/09Ruas7vF7YHnor4to4Eyo"
-        }
-      ],
-      "duration_ms": 227000,
-      "name": "Serse (Xerxes), Hwv 40 (arr. for oboe and orchestra): Act I: Ombra mai fu, \"largo\"",
-      "url": "https://open.spotify.com/track/0Bzw4breRe6YyvaHpjaSYD"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Water Music; Royal Fireworks Music - Expanded Edition",
         "url": "https://open.spotify.com/album/637JBFzsaEwlw8tD7SYjoH"
       },
@@ -1115,34 +1115,6 @@
       "duration_ms": 157733,
       "name": "Water Music: Suite No. 1 in F Major, HWV 348, VII. Air",
       "url": "https://open.spotify.com/track/4qMKtNSa5KhCTp1kWgFTvA"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "HANDEL: Recorder Sonatas, Op. 1, Nos. 2, 4, 7 and 11",
-        "url": "https://open.spotify.com/album/1vaSnKicMO4nHHMY77vAlv"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "L\u00e1szl\u00f3 Czidra",
-          "url": "https://open.spotify.com/artist/4AOTuAm81DV2ElJF1yFMkA"
-        },
-        {
-          "name": "P\u00e1l Kelemen",
-          "url": "https://open.spotify.com/artist/2Vp6pBo6skj1xdAt8Sot2v"
-        },
-        {
-          "name": "Zsuzsa Pertis",
-          "url": "https://open.spotify.com/artist/6EoqRbLEP9xsmznf0BdYlC"
-        }
-      ],
-      "duration_ms": 134800,
-      "name": "Recorder Sonata in F Major, Op. 1 No. 11, HWV 369: I. Larghetto",
-      "url": "https://open.spotify.com/track/0RH8m7C8hHdOZip0Oml7vp"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1171,6 +1143,34 @@
       "duration_ms": 164320,
       "name": "Handel: Coronation Anthem No. 4, HWV 261 \"My Heart Is Inditing\": I. My Heart Is Inditing",
       "url": "https://open.spotify.com/track/5VPuxHjU7hVG4kWkSyAR1H"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "HANDEL: Recorder Sonatas, Op. 1, Nos. 2, 4, 7 and 11",
+        "url": "https://open.spotify.com/album/1vaSnKicMO4nHHMY77vAlv"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "L\u00e1szl\u00f3 Czidra",
+          "url": "https://open.spotify.com/artist/4AOTuAm81DV2ElJF1yFMkA"
+        },
+        {
+          "name": "P\u00e1l Kelemen",
+          "url": "https://open.spotify.com/artist/2Vp6pBo6skj1xdAt8Sot2v"
+        },
+        {
+          "name": "Zsuzsa Pertis",
+          "url": "https://open.spotify.com/artist/6EoqRbLEP9xsmznf0BdYlC"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "Recorder Sonata in F Major, Op. 1 No. 11, HWV 369: I. Larghetto",
+      "url": "https://open.spotify.com/track/0RH8m7C8hHdOZip0Oml7vp"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1551,6 +1551,34 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
+        "name": "Handel: Rodelinda",
+        "url": "https://open.spotify.com/album/5XShHnZAUtGkczKq62J2o1"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Marijana Mijanovic",
+          "url": "https://open.spotify.com/artist/1vLaIsYTkk542cZ0ZUEnH7"
+        },
+        {
+          "name": "Il Complesso Barocco",
+          "url": "https://open.spotify.com/artist/0tEcOib2nBnCi6OM5jgC87"
+        },
+        {
+          "name": "Alan Curtis",
+          "url": "https://open.spotify.com/artist/5Y7iJYhrTiihtH6hmph8fR"
+        }
+      ],
+      "duration_ms": 324413,
+      "name": "Rodelinda / Act 3: Vivi, tiranno, io t'ho scampato",
+      "url": "https://open.spotify.com/track/1hc8nadCBhW9jyNyQyfaCh"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
         "name": "Handel: Judas Maccabaeus",
         "url": "https://open.spotify.com/album/7aIYizHCqmbKfn7vK8PINm"
       },
@@ -1583,34 +1611,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Rodelinda",
-        "url": "https://open.spotify.com/album/5XShHnZAUtGkczKq62J2o1"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Marijana Mijanovic",
-          "url": "https://open.spotify.com/artist/1vLaIsYTkk542cZ0ZUEnH7"
-        },
-        {
-          "name": "Il Complesso Barocco",
-          "url": "https://open.spotify.com/artist/0tEcOib2nBnCi6OM5jgC87"
-        },
-        {
-          "name": "Alan Curtis",
-          "url": "https://open.spotify.com/artist/5Y7iJYhrTiihtH6hmph8fR"
-        }
-      ],
-      "duration_ms": 324413,
-      "name": "Rodelinda / Act 3: Vivi, tiranno, io t'ho scampato",
-      "url": "https://open.spotify.com/track/1hc8nadCBhW9jyNyQyfaCh"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Water Music; Music For The Royal Fireworks",
         "url": "https://open.spotify.com/album/21EO8CCwxMvVpIPvhHP6Q4"
       },
@@ -1631,26 +1631,6 @@
       "duration_ms": 155666,
       "name": "Water Music Suite No. 1 in F, HWV 348: 3a. Allegro",
       "url": "https://open.spotify.com/track/7tn0NUPLTxnpLQBqblZDzI"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
-        "name": "Handel: Keyboard Suites, Vol. 1",
-        "url": "https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Philip Edward Fisher",
-          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
-        }
-      ],
-      "duration_ms": 247760,
-      "name": "Keyboard Suite No. 3 (Set I) in D Minor, HWV 428: VI. Presto",
-      "url": "https://open.spotify.com/track/795t4y1VfUwlUPbGpyMhwH"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1679,6 +1659,26 @@
       "duration_ms": 408213,
       "name": "Esther, HWV 50a: O Jordan, Jordan, Sacred Tide (Aria - Priest of the Israelites)",
       "url": "https://open.spotify.com/track/6l3ZXdjOoZVabNvUJW1353"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Keyboard Suites, Vol. 1",
+        "url": "https://open.spotify.com/album/5rZNiDIYiqLWoCKrwQ0y23"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Philip Edward Fisher",
+          "url": "https://open.spotify.com/artist/3iEF3lnsArDpnKXvg6Zys7"
+        }
+      ],
+      "duration_ms": 247760,
+      "name": "Keyboard Suite No. 3 (Set I) in D Minor, HWV 428: VI. Presto",
+      "url": "https://open.spotify.com/track/795t4y1VfUwlUPbGpyMhwH"
     },
     {
       "added_at": "2022-06-28 08:56:25",

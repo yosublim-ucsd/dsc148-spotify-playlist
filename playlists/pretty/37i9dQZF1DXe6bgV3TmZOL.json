@@ -1,12 +1,12 @@
 {
   "description": "If your workout doubles as an outlet for your aggression, this is the playlist for you.",
-  "num_followers": 2311936,
+  "num_followers": 2313086,
   "original_name": "Adrenaline Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NDMyYzJmNTA1MGZjMTA0YjVmN2VlMmI3NTY4OGZjMTY5YmVjZjZi",
+  "snapshot_id": "MCw4OGYyNmYyMzdkYTI1YWRlYWIzYzA3NDhjZDg0OWEzMmJkYmQ5MTcx",
   "tracks": [
     {
       "added_at": "2023-10-03 19:17:31",
@@ -91,38 +91,6 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Vol. 3: The Subliminal Verses",
-        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
-      },
-      "artists": [
-        {
-          "name": "Slipknot",
-          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
-        }
-      ],
-      "duration_ms": 278600,
-      "name": "Before I Forget",
-      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
-        "name": "Vulgar Display of Power",
-        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 315120,
-      "name": "Walk",
-      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
         "name": "The Sickness",
         "url": "https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY"
       },
@@ -135,6 +103,22 @@
       "duration_ms": 279213,
       "name": "Down with the Sickness",
       "url": "https://open.spotify.com/track/40rvBMQizxkIqnjPdEWY1v"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Vol. 3: The Subliminal Verses",
+        "url": "https://open.spotify.com/album/4ZDBQSIDIZRUBOG2OHcN3T"
+      },
+      "artists": [
+        {
+          "name": "Slipknot",
+          "url": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8"
+        }
+      ],
+      "duration_ms": 278600,
+      "name": "Before I Forget",
+      "url": "https://open.spotify.com/track/6wqJeItl3Vc3az4ZicSQAB"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -155,22 +139,6 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Turn It Up (Keyboard Warriors Social Club)",
-        "url": "https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO"
-      },
-      "artists": [
-        {
-          "name": "NOVELISTS",
-          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
-        }
-      ],
-      "duration_ms": 238577,
-      "name": "Turn It Up (Keyboard Warriors Social Club)",
-      "url": "https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
         "name": "Hybrid Theory (Bonus Edition)",
         "url": "https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM"
       },
@@ -187,18 +155,34 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Popular Monster",
-        "url": "https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4"
+        "name": "Turn It Up (Keyboard Warriors Social Club)",
+        "url": "https://open.spotify.com/album/4NFy4DOMmDAdtoW3Ep5EtO"
       },
       "artists": [
         {
-          "name": "Falling In Reverse",
-          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+          "name": "NOVELISTS",
+          "url": "https://open.spotify.com/artist/6o8sDniHcZPM1SixvjKiYS"
         }
       ],
-      "duration_ms": 220537,
-      "name": "Popular Monster",
-      "url": "https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij"
+      "duration_ms": 238577,
+      "name": "Turn It Up (Keyboard Warriors Social Club)",
+      "url": "https://open.spotify.com/track/0PkWNpQAsH7xQHtzYJHgSD"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Vulgar Display of Power",
+        "url": "https://open.spotify.com/album/7kW0cpKgSVsEqcc8xgbSb0"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 315120,
+      "name": "Walk",
+      "url": "https://open.spotify.com/track/7fcfNW0XxTWlwVlftzfDOR"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -215,6 +199,22 @@
       "duration_ms": 199773,
       "name": "Coming Undone",
       "url": "https://open.spotify.com/track/3o7TMr6RmIusYH7Kkg7ujR"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Popular Monster",
+        "url": "https://open.spotify.com/album/4gxFqhVYU4wp1XDH1KiIo4"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        }
+      ],
+      "duration_ms": 220537,
+      "name": "Popular Monster",
+      "url": "https://open.spotify.com/track/4GssB27iJeqmfGxS94Tfij"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Cowboys from Hell",
-        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
-      },
-      "artists": [
-        {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
-        }
-      ],
-      "duration_ms": 243533,
-      "name": "Cowboys from Hell",
-      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
         "name": "Sehnsucht (Anniversary Edition - Remastered)",
         "url": "https://open.spotify.com/album/6hh5ax5BomINXGoi4q7FDP"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 205394,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/0YZEYxd1oiqZRFhnnmTKKi"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Cowboys from Hell",
+        "url": "https://open.spotify.com/album/5szY4sBOSD6IFjFN1RtWTe"
+      },
+      "artists": [
+        {
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+        }
+      ],
+      "duration_ms": 243533,
+      "name": "Cowboys from Hell",
+      "url": "https://open.spotify.com/track/2SgbR6ttzoNlCRGQOKjrop"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -439,26 +439,6 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Pink Tape",
-        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        },
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 239863,
-      "name": "Werewolf (feat. Bring Me The Horizon)",
-      "url": "https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
         "name": "Fever",
         "url": "https://open.spotify.com/album/3q3DB4fElKDIDE2bXTLFlb"
       },
@@ -487,6 +467,26 @@
       "duration_ms": 223173,
       "name": "Hurricane",
       "url": "https://open.spotify.com/track/2GFwwTIVLjnOrtP7m9luHC"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Pink Tape",
+        "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
+      },
+      "artists": [
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+        },
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 239863,
+      "name": "Werewolf (feat. Bring Me The Horizon)",
+      "url": "https://open.spotify.com/track/3ySqZ8yGoh4Emi9HiPCCdP"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -571,22 +571,6 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Magma",
-        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
-      },
-      "artists": [
-        {
-          "name": "Gojira",
-          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
-        }
-      ],
-      "duration_ms": 269533,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
         "name": "Got Your Six (Deluxe)",
         "url": "https://open.spotify.com/album/5CCuwNYZibM0V2GWuEHtcG"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 304373,
       "name": "Awake",
       "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Magma",
+        "url": "https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w"
+      },
+      "artists": [
+        {
+          "name": "Gojira",
+          "url": "https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt"
+        }
+      ],
+      "duration_ms": 269533,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "TRUE POWER",
-        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
-      },
-      "artists": [
-        {
-          "name": "I Prevail",
-          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
-        }
-      ],
-      "duration_ms": 146176,
-      "name": "Self-Destruction",
-      "url": "https://open.spotify.com/track/4UhMvTR5tHf2ecfoz0KV92"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
         "name": "The Oracle (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6yOWKkrlpmUWOC5yndULeq"
       },
@@ -743,22 +727,6 @@
       "duration_ms": 201666,
       "name": "Cryin' Like A Bitch!!",
       "url": "https://open.spotify.com/track/4a9i7rCLfPjbS1sNamZeQN"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
-        "name": "Garage, Inc.",
-        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 304893,
-      "name": "Whiskey In The Jar",
-      "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -779,6 +747,38 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
+        "name": "TRUE POWER",
+        "url": "https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa"
+      },
+      "artists": [
+        {
+          "name": "I Prevail",
+          "url": "https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V"
+        }
+      ],
+      "duration_ms": 146176,
+      "name": "Self-Destruction",
+      "url": "https://open.spotify.com/track/4UhMvTR5tHf2ecfoz0KV92"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/5b7HQ04lPT7eGJQ7fmVsjC"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 304893,
+      "name": "Whiskey In The Jar",
+      "url": "https://open.spotify.com/track/3ZpWy5rBZv2aLQAldnmTsP"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
         "name": "ATTENTION ATTENTION",
         "url": "https://open.spotify.com/album/0dtwIycvTaFNjo44QRwWz7"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 207986,
       "name": "DEVIL",
       "url": "https://open.spotify.com/track/2hEYslbdYWFSIA6JboUvnR"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
-        "name": "Might Love Myself",
-        "url": "https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 219973,
-      "name": "Might Love Myself",
-      "url": "https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -827,18 +811,18 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Bad Vibrations (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
+        "name": "Might Love Myself",
+        "url": "https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa"
       },
       "artists": [
         {
-          "name": "A Day To Remember",
-          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 200676,
-      "name": "Paranoia",
-      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
+      "duration_ms": 219973,
+      "name": "Might Love Myself",
+      "url": "https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -859,18 +843,18 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Ember",
-        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
+        "name": "Bad Vibrations (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU"
       },
       "artists": [
         {
-          "name": "Breaking Benjamin",
-          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+          "name": "A Day To Remember",
+          "url": "https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN"
         }
       ],
-      "duration_ms": 189120,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
+      "duration_ms": 200676,
+      "name": "Paranoia",
+      "url": "https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -887,6 +871,22 @@
       "duration_ms": 172826,
       "name": "When Legends Rise",
       "url": "https://open.spotify.com/track/1Si7crvw1M6Kgz9XiAtMiJ"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Ember",
+        "url": "https://open.spotify.com/album/2D1s85eD7MLnPd3zjfK4tr"
+      },
+      "artists": [
+        {
+          "name": "Breaking Benjamin",
+          "url": "https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP"
+        }
+      ],
+      "duration_ms": 189120,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/7gQ7DfSSc3b8e4cHtFnDxu"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -1039,38 +1039,6 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "The Mortal Coil",
-        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
-      },
-      "artists": [
-        {
-          "name": "Polaris",
-          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
-        }
-      ],
-      "duration_ms": 243913,
-      "name": "The Remedy",
-      "url": "https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
-        "name": "Reverence",
-        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
-      },
-      "artists": [
-        {
-          "name": "Parkway Drive",
-          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
-        }
-      ],
-      "duration_ms": 233079,
-      "name": "The Void",
-      "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
         "name": "Crooked Teeth",
         "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
       },
@@ -1087,6 +1055,22 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
+        "name": "The Mortal Coil",
+        "url": "https://open.spotify.com/album/1bxVLZDxByhblJftVPTddl"
+      },
+      "artists": [
+        {
+          "name": "Polaris",
+          "url": "https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX"
+        }
+      ],
+      "duration_ms": 243913,
+      "name": "The Remedy",
+      "url": "https://open.spotify.com/track/63GJDO5mxiFP1ZQEpdUWRd"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
         "name": "N.A.T.I.O.N.",
         "url": "https://open.spotify.com/album/6yMblFoGadj25t99DryfSv"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 237065,
       "name": "Killing Me Slowly",
       "url": "https://open.spotify.com/track/5RBWMYMSe6ihNb0hC8ro8v"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Reverence",
+        "url": "https://open.spotify.com/album/46hNwndF4Tm6D1cGr0G5zL"
+      },
+      "artists": [
+        {
+          "name": "Parkway Drive",
+          "url": "https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo"
+        }
+      ],
+      "duration_ms": 233079,
+      "name": "The Void",
+      "url": "https://open.spotify.com/track/5znIVOv7RucpCHGkbonySq"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
+        "name": "Notorious",
+        "url": "https://open.spotify.com/album/6zJ7mT53nFoMbtOgkPuRpD"
+      },
+      "artists": [
+        {
+          "name": "Adelitas Way",
+          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+        }
+      ],
+      "duration_ms": 170160,
+      "name": "Notorious",
+      "url": "https://open.spotify.com/track/2ni4ZSzsQoG74IUjYvyv8n"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
         "name": "Ritual",
         "url": "https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL"
       },
@@ -1187,50 +1203,18 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Notorious",
-        "url": "https://open.spotify.com/album/6zJ7mT53nFoMbtOgkPuRpD"
+        "name": "Digimortal",
+        "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
       },
       "artists": [
         {
-          "name": "Adelitas Way",
-          "url": "https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk"
+          "name": "Fear Factory",
+          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
         }
       ],
-      "duration_ms": 170160,
-      "name": "Notorious",
-      "url": "https://open.spotify.com/track/2ni4ZSzsQoG74IUjYvyv8n"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
-        "name": "Vengeance Falls (Special Edition)",
-        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 269266,
-      "name": "Strife",
-      "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
-        "name": "Five",
-        "url": "https://open.spotify.com/album/56CWTHCr8ZBZ1ojmppH5br"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 187654,
-      "name": "Whatever It Takes",
-      "url": "https://open.spotify.com/track/2ouOVzQTzSsLa2OH1Zxhvu"
+      "duration_ms": 204853,
+      "name": "Linchpin",
+      "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -1267,18 +1251,34 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Digimortal",
-        "url": "https://open.spotify.com/album/3BBDp81EDmExUsPDKERVkN"
+        "name": "Vengeance Falls (Special Edition)",
+        "url": "https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow"
       },
       "artists": [
         {
-          "name": "Fear Factory",
-          "url": "https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX"
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 204853,
-      "name": "Linchpin",
-      "url": "https://open.spotify.com/track/4qjvr0qMFUo26SxwC4VygS"
+      "duration_ms": 269266,
+      "name": "Strife",
+      "url": "https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Five",
+        "url": "https://open.spotify.com/album/56CWTHCr8ZBZ1ojmppH5br"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 187654,
+      "name": "Whatever It Takes",
+      "url": "https://open.spotify.com/track/2ouOVzQTzSsLa2OH1Zxhvu"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 261680,
-      "name": "Are You Ready",
-      "url": "https://open.spotify.com/track/4zvqMZ6g4wKZaPpOQvoBpP"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
         "name": "Threat to Survival",
         "url": "https://open.spotify.com/album/7969zwJB8p021EBcCUjsv9"
       },
@@ -1327,6 +1311,38 @@
       "duration_ms": 210706,
       "name": "Asking for It",
       "url": "https://open.spotify.com/track/3Tp7y0bLogDQsIO5tTTOH4"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Panic",
+        "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
+      },
+      "artists": [
+        {
+          "name": "From Ashes to New",
+          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Panic",
+      "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 261680,
+      "name": "Are You Ready",
+      "url": "https://open.spotify.com/track/4zvqMZ6g4wKZaPpOQvoBpP"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -1359,22 +1375,6 @@
       "duration_ms": 322339,
       "name": "Deutschland",
       "url": "https://open.spotify.com/track/1T8IRUJBga0JXioJZvxjBR"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
-        "name": "Panic",
-        "url": "https://open.spotify.com/album/1n7TACcJCefyyR6UQl28BG"
-      },
-      "artists": [
-        {
-          "name": "From Ashes to New",
-          "url": "https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Panic",
-      "url": "https://open.spotify.com/track/7mUaGkK1gMEuo3IUWCqF0P"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
+      },
+      "artists": [
+        {
+          "name": "We Came As Romans",
+          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
+        },
+        {
+          "name": "Caleb Shomo",
+          "url": "https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD"
+        }
+      ],
+      "duration_ms": 179181,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
         "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
         "url": "https://open.spotify.com/album/0aYSKCa9w1LcDSbBNfdS4d"
       },
@@ -1503,38 +1523,18 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/4rTul9Y40kljIY12LiVAwB"
+        "name": "American Sun",
+        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
       },
       "artists": [
         {
-          "name": "We Came As Romans",
-          "url": "https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz"
-        },
-        {
-          "name": "Caleb Shomo",
-          "url": "https://open.spotify.com/artist/0YbrhcmTTHZbsXyqjsGCGD"
+          "name": "Fire From The Gods",
+          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
         }
       ],
-      "duration_ms": 179181,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/4Y7eqYTpV7fQxpYj1isN2F"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
-        "name": "Hardwired\u2026To Self-Destruct",
-        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 191331,
-      "name": "Hardwired",
-      "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
+      "duration_ms": 225026,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -1551,6 +1551,22 @@
       "duration_ms": 244493,
       "name": "Did My Time",
       "url": "https://open.spotify.com/track/1F0S2kbZhHAw19f9ihA3FH"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Hardwired\u2026To Self-Destruct",
+        "url": "https://open.spotify.com/album/4kizef5du9TgAGfNhWbKmt"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 191331,
+      "name": "Hardwired",
+      "url": "https://open.spotify.com/track/7myke8Id4WyKFlWcRBJdIF"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -1587,18 +1603,34 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "American Sun",
-        "url": "https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7"
+        "name": "Silence in the Snow (Special Edition)",
+        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
       },
       "artists": [
         {
-          "name": "Fire From The Gods",
-          "url": "https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS"
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
         }
       ],
-      "duration_ms": 225026,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/1cFx6g4ytDsZAx9gmap4pR"
+      "duration_ms": 321161,
+      "name": "Until the World Goes Cold",
+      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Memento Mori",
+        "url": "https://open.spotify.com/album/3R8iA3RLV2cS2rxTvEn4Kn"
+      },
+      "artists": [
+        {
+          "name": "Gemini Syndrome",
+          "url": "https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN"
+        }
+      ],
+      "duration_ms": 225263,
+      "name": "Remember We Die",
+      "url": "https://open.spotify.com/track/2iQoaliksvoEBhldqjYPgL"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -1615,22 +1647,6 @@
       "duration_ms": 279752,
       "name": "SELF HELL",
       "url": "https://open.spotify.com/track/5qFKySO2oLQ1eo9kMN6mgm"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
-        "name": "Silence in the Snow (Special Edition)",
-        "url": "https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI"
-      },
-      "artists": [
-        {
-          "name": "Trivium",
-          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
-        }
-      ],
-      "duration_ms": 321161,
-      "name": "Until the World Goes Cold",
-      "url": "https://open.spotify.com/track/1hPKSQuvfLlPeIu8xhRyTf"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -1679,22 +1695,6 @@
       "duration_ms": 214134,
       "name": "Hardcore",
       "url": "https://open.spotify.com/track/1kKzLv3w7I5NXzEtWkSzi4"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
-        "name": "Memento Mori",
-        "url": "https://open.spotify.com/album/3R8iA3RLV2cS2rxTvEn4Kn"
-      },
-      "artists": [
-        {
-          "name": "Gemini Syndrome",
-          "url": "https://open.spotify.com/artist/5plcM0NxqZcnAWQVECcjWN"
-        }
-      ],
-      "duration_ms": 225263,
-      "name": "Remember We Die",
-      "url": "https://open.spotify.com/track/2iQoaliksvoEBhldqjYPgL"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Jomsviking",
-        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
-      },
-      "artists": [
-        {
-          "name": "Amon Amarth",
-          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
-        }
-      ],
-      "duration_ms": 263760,
-      "name": "Raise Your Horns",
-      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
         "name": "How It Feels to Be Lost (Deluxe)",
         "url": "https://open.spotify.com/album/3L0vJbE2mnyvXbixErax8B"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 198248,
       "name": "Leave It All Behind",
       "url": "https://open.spotify.com/track/3k0tqE5mlRFbzUB5iHVDFN"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Jomsviking",
+        "url": "https://open.spotify.com/album/5LlHYLimFw8u8SPzbNAUhG"
+      },
+      "artists": [
+        {
+          "name": "Amon Amarth",
+          "url": "https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL"
+        }
+      ],
+      "duration_ms": 263760,
+      "name": "Raise Your Horns",
+      "url": "https://open.spotify.com/track/6ypKaenmVXMCXvlkfYOpjf"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -1895,50 +1895,18 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "STRENGTH IN NUMB333RS",
-        "url": "https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf"
+        "name": "Diamond Eyes",
+        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
       },
       "artists": [
         {
-          "name": "FEVER 333",
-          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
         }
       ],
-      "duration_ms": 232053,
-      "name": "BURN IT",
-      "url": "https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 183437,
-      "name": "You Never Know",
-      "url": "https://open.spotify.com/track/2KJwci3DPtYbfg7pxczvWf"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
-        "name": "Five",
-        "url": "https://open.spotify.com/album/56CWTHCr8ZBZ1ojmppH5br"
-      },
-      "artists": [
-        {
-          "name": "Hollywood Undead",
-          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
-        }
-      ],
-      "duration_ms": 234774,
-      "name": "California Dreaming",
-      "url": "https://open.spotify.com/track/5jsn38ryHgFhcbJgZMQCo0"
+      "duration_ms": 254120,
+      "name": "Rocket Skates",
+      "url": "https://open.spotify.com/track/6Q7POvDeFGVFDYPmz7huYP"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -1959,18 +1927,50 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Diamond Eyes",
-        "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/1EFr8cW4waL1ASHS1RdmhF"
       },
       "artists": [
         {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
         }
       ],
-      "duration_ms": 254120,
-      "name": "Rocket Skates",
-      "url": "https://open.spotify.com/track/6Q7POvDeFGVFDYPmz7huYP"
+      "duration_ms": 183437,
+      "name": "You Never Know",
+      "url": "https://open.spotify.com/track/2KJwci3DPtYbfg7pxczvWf"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "STRENGTH IN NUMB333RS",
+        "url": "https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf"
+      },
+      "artists": [
+        {
+          "name": "FEVER 333",
+          "url": "https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy"
+        }
+      ],
+      "duration_ms": 232053,
+      "name": "BURN IT",
+      "url": "https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Five",
+        "url": "https://open.spotify.com/album/56CWTHCr8ZBZ1ojmppH5br"
+      },
+      "artists": [
+        {
+          "name": "Hollywood Undead",
+          "url": "https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E"
+        }
+      ],
+      "duration_ms": 234774,
+      "name": "California Dreaming",
+      "url": "https://open.spotify.com/track/5jsn38ryHgFhcbJgZMQCo0"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -2023,22 +2023,6 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "For Those That Wish To Exist",
-        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 241034,
-      "name": "Meteor",
-      "url": "https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
         "name": "La G\u00e1rgola",
         "url": "https://open.spotify.com/album/6ctiVzuLDrwlsHkgsatIqg"
       },
@@ -2055,18 +2039,18 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
+        "name": "For Those That Wish To Exist",
+        "url": "https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4"
       },
       "artists": [
         {
-          "name": "In This Moment",
-          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
         }
       ],
-      "duration_ms": 249050,
-      "name": "As Above, So Below",
-      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
+      "duration_ms": 241034,
+      "name": "Meteor",
+      "url": "https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -2083,6 +2067,22 @@
       "duration_ms": 233297,
       "name": "MANTRA",
       "url": "https://open.spotify.com/track/7dRj3sTBYkNbEx5kdNHriv"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/28IlwCwIt69Xh627BwUC8F"
+      },
+      "artists": [
+        {
+          "name": "In This Moment",
+          "url": "https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT"
+        }
+      ],
+      "duration_ms": 249050,
+      "name": "As Above, So Below",
+      "url": "https://open.spotify.com/track/4pj2L6WbBAlevdxx6jgm32"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -2167,22 +2167,18 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Talk To Me (feat. Lzzy Hale)",
-        "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
+        "name": "Big Tings",
+        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
       },
       "artists": [
         {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        },
-        {
-          "name": "Lzzy Hale",
-          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+          "name": "Skindred",
+          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
         }
       ],
-      "duration_ms": 208021,
-      "name": "Talk To Me (feat. Lzzy Hale)",
-      "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
+      "duration_ms": 196051,
+      "name": "That's My Jam",
+      "url": "https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -2199,6 +2195,26 @@
       "duration_ms": 193493,
       "name": "Feels Like Forever",
       "url": "https://open.spotify.com/track/3iPMVDlzpkXuYkvsa1PRQj"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Talk To Me (feat. Lzzy Hale)",
+        "url": "https://open.spotify.com/album/3W8ep9kCGVEf5TLFtRRB2T"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        },
+        {
+          "name": "Lzzy Hale",
+          "url": "https://open.spotify.com/artist/3Nbau9SoiH72jmJdUTqjOY"
+        }
+      ],
+      "duration_ms": 208021,
+      "name": "Talk To Me (feat. Lzzy Hale)",
+      "url": "https://open.spotify.com/track/00i9VF7sjSaTqblAuKFBDO"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -2235,18 +2251,18 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Big Tings",
-        "url": "https://open.spotify.com/album/3zzPgycVf0JRD1Fj6JdLam"
+        "name": "The Stage",
+        "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
       },
       "artists": [
         {
-          "name": "Skindred",
-          "url": "https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap"
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 196051,
-      "name": "That's My Jam",
-      "url": "https://open.spotify.com/track/5q8PArV4Tbt6efvP7qxp0u"
+      "duration_ms": 221973,
+      "name": "God Damn",
+      "url": "https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -2267,18 +2283,38 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "The Stage",
-        "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
+        "name": "Unbreakable",
+        "url": "https://open.spotify.com/album/2S2fJjhwJknUU0GoBLMrmb"
       },
       "artists": [
         {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+          "name": "Kingdom Collapse",
+          "url": "https://open.spotify.com/artist/5OA7FiSNGhsL2ryfAtarP4"
         }
       ],
-      "duration_ms": 221973,
-      "name": "God Damn",
-      "url": "https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7"
+      "duration_ms": 159566,
+      "name": "Unbreakable",
+      "url": "https://open.spotify.com/track/0UKIP5PzRX6WY0rURFxxqQ"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Flawed Design",
+        "url": "https://open.spotify.com/album/1mIKXNfCh0SNefV65SRsId"
+      },
+      "artists": [
+        {
+          "name": "Saint Asonia",
+          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
+        },
+        {
+          "name": "Sully Erna",
+          "url": "https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy"
+        }
+      ],
+      "duration_ms": 223846,
+      "name": "The Hunted",
+      "url": "https://open.spotify.com/track/0EtWHPCGpLUGIAw46wsVX3"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -2303,22 +2339,34 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Flawed Design",
-        "url": "https://open.spotify.com/album/1mIKXNfCh0SNefV65SRsId"
+        "name": "Wisconsin Death Trip",
+        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
       },
       "artists": [
         {
-          "name": "Saint Asonia",
-          "url": "https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8"
-        },
-        {
-          "name": "Sully Erna",
-          "url": "https://open.spotify.com/artist/5L1SdeG9JS8cmL742IYBIy"
+          "name": "Static-X",
+          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
         }
       ],
-      "duration_ms": 223846,
-      "name": "The Hunted",
-      "url": "https://open.spotify.com/track/0EtWHPCGpLUGIAw46wsVX3"
+      "duration_ms": 225400,
+      "name": "Bled for Days",
+      "url": "https://open.spotify.com/track/38i5zDVbBEZNxnHGsto6kn"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "when we were young",
+        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 193886,
+      "name": "when we were young",
+      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
     },
     {
       "added_at": "2023-10-03 19:17:31",
@@ -2355,70 +2403,6 @@
     {
       "added_at": "2023-10-03 19:17:31",
       "album": {
-        "name": "Unbreakable",
-        "url": "https://open.spotify.com/album/2S2fJjhwJknUU0GoBLMrmb"
-      },
-      "artists": [
-        {
-          "name": "Kingdom Collapse",
-          "url": "https://open.spotify.com/artist/5OA7FiSNGhsL2ryfAtarP4"
-        }
-      ],
-      "duration_ms": 159566,
-      "name": "Unbreakable",
-      "url": "https://open.spotify.com/track/0UKIP5PzRX6WY0rURFxxqQ"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
-        "name": "when we were young",
-        "url": "https://open.spotify.com/album/2ZGOqvkbQFLEayRqXxGjc9"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 193886,
-      "name": "when we were young",
-      "url": "https://open.spotify.com/track/5wTfzzRW8ddRdgW2kASbox"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
-        "name": "Wisconsin Death Trip",
-        "url": "https://open.spotify.com/album/2WRLwr5MIIXr9gAWOOQ6J5"
-      },
-      "artists": [
-        {
-          "name": "Static-X",
-          "url": "https://open.spotify.com/artist/7JDSHlDdVTo7aZKdQZ53Vf"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Bled for Days",
-      "url": "https://open.spotify.com/track/38i5zDVbBEZNxnHGsto6kn"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
-        "name": "Earthbound",
-        "url": "https://open.spotify.com/album/5F0t9Dkxsx4pX6Z57aWXkZ"
-      },
-      "artists": [
-        {
-          "name": "Bury Tomorrow",
-          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
-        }
-      ],
-      "duration_ms": 222101,
-      "name": "Earthbound",
-      "url": "https://open.spotify.com/track/1DKbMKbzeZ57yo6yI4MeXe"
-    },
-    {
-      "added_at": "2023-10-03 19:17:31",
-      "album": {
         "name": "Idol (feat. Tech N9ne)",
         "url": "https://open.spotify.com/album/6UXqIJqZInWaAQ71rcAWeU"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 247154,
       "name": "Idol (feat. Tech N9ne)",
       "url": "https://open.spotify.com/track/3bLU7rl0xkgzcLPYHO3HuK"
+    },
+    {
+      "added_at": "2023-10-03 19:17:31",
+      "album": {
+        "name": "Earthbound",
+        "url": "https://open.spotify.com/album/5F0t9Dkxsx4pX6Z57aWXkZ"
+      },
+      "artists": [
+        {
+          "name": "Bury Tomorrow",
+          "url": "https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt"
+        }
+      ],
+      "duration_ms": 222101,
+      "name": "Earthbound",
+      "url": "https://open.spotify.com/track/1DKbMKbzeZ57yo6yI4MeXe"
     },
     {
       "added_at": "2023-10-03 19:17:31",

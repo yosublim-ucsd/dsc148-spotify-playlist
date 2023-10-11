@@ -4,7 +4,7 @@
 
 > This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-79 songs - 5 hr 27 min
+80 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,8 @@
 | [Baby I Love You](https://open.spotify.com/track/1jJNeiTnmoVqHhawN9tXfE) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Deuces Wild](https://open.spotify.com/album/3fIftPnF4eb7gkg2lFS1TV) | 4:01 | 2022-10-12 |  |
 | [Blame it On Me](https://open.spotify.com/track/6t6mN09CvoFzDpRVNrXcdF) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Just Like That...](https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd) | 5:47 | 2022-08-06 |  |
 | [Bluebird \- 2008 Remaster](https://open.spotify.com/track/78bu2DHF5nvCWmvh5VCe9P) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 3:29 | 2022-08-05 |  |
-| [Call It Home](https://open.spotify.com/track/70M4idjXPiTmBs2E6uTuyC) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Call It Home: Vol\. 1 & 2](https://open.spotify.com/album/1Al6jsQRyzcE44JFpkoAwE) | 4:08 | 2023-07-05 |  |
+| [Call It Home](https://open.spotify.com/track/4EN9iaFnuzHQRDZwNt8fpM) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Call It Home, Vol\. 1](https://open.spotify.com/album/2BgDbmhRwn30Kv24s6Kzq0) | 4:08 | 2023-10-10 |  |
+| [Call It Home](https://open.spotify.com/track/70M4idjXPiTmBs2E6uTuyC) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Call It Home: Vol\. 1 & 2](https://open.spotify.com/album/1Al6jsQRyzcE44JFpkoAwE) | 4:08 | 2023-07-05 | 2023-10-11 |
 | [Can't Find My Way Home](https://open.spotify.com/track/2tguJA2ZWhkhhNf4QS0csZ) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Gerald's Evil Game The Complete Fantasy Playlist](https://open.spotify.com/album/4jSy7M83rJx0oGAqy9oLSe) | 3:07 | 2023-03-20 |  |
 | [Can't Find My Way Home](https://open.spotify.com/track/4E2HtOs7OvTqXCLvvHXCfj) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Under The Falling Sky](https://open.spotify.com/album/30IMv7jvl0uGinaXg4Lp0T) | 3:07 | 2022-09-11 | 2023-03-13 |
 | [Can't Find My Way Home](https://open.spotify.com/track/7nIykpm45vKrsuW0KCEQ6i) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Gerald's Evil Game The Complete Fantasy Playlist](https://open.spotify.com/album/58iea9RDlr1v2yM7yh1788) | 3:07 | 2022-08-05 | 2023-01-09 |
@@ -27,8 +28,8 @@
 | [Feels Like Home](https://open.spotify.com/track/7mUQ0w8i88ObXwSnrUwfZO) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Music From The Motion Picture Michael](https://open.spotify.com/album/52LfK1ML8u7Xj1ArC8oC22) | 4:24 | 2022-08-05 |  |
 | [Feels Like Rain \(feat\. Bonnie Raitt\)](https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Feels Like Rain](https://open.spotify.com/album/2GXqcjyaSAMRnmFuvHM2Bd) | 4:35 | 2022-08-05 |  |
 | [Finest Lovin' Man \- 2008 Remaster](https://open.spotify.com/track/6RjcJGWKuDUZn5lgXLMD6L) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Bonnie Raitt \(2008 Remaster\)](https://open.spotify.com/album/4gjY9JfOCvVlr7yTIyl2e0) | 4:42 | 2023-01-21 |  |
-| [Give It Up or Let Me Go \- 2008 Remaster](https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 4:29 | 2022-08-05 | 2023-09-22 |
-| [Give It Up or Let Me Go \- Live](https://open.spotify.com/track/0Wdzw1MuCCqm9ykpy6WjCB) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Oakland 1989](https://open.spotify.com/album/2bvC10g4TXozsZnxha30GY) | 6:04 | 2023-09-21 |  |
+| [Give It Up or Let Me Go \- 2008 Remaster](https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 4:29 | 2022-08-05 |  |
+| [Give It Up or Let Me Go \- Live](https://open.spotify.com/track/0Wdzw1MuCCqm9ykpy6WjCB) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Oakland 1989](https://open.spotify.com/album/2bvC10g4TXozsZnxha30GY) | 6:04 | 2023-09-21 | 2023-10-11 |
 | [Good Man, Good Woman](https://open.spotify.com/track/3ooyUyDHyNU7HfUoJky1Ei) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Delbert McClinton](https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU) | [Luck Of The Draw](https://open.spotify.com/album/6blrkOZ0VmkhYPjfoD7eqf) | 3:33 | 2022-08-06 |  |
 | [Guilty \- 2008 Remaster](https://open.spotify.com/track/2QUpntd3v7cZQByy7Kyh4L) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:00 | 2022-08-06 | 2022-10-07 |
 | [Gypsy In Me](https://open.spotify.com/track/4w539nhl7KGUajmyrX5GNq) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 4:09 | 2022-08-05 | 2023-03-31 |

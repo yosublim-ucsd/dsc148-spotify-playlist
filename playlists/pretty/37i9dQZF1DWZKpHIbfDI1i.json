@@ -1,12 +1,12 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Carin Le\u00f3n en portada.",
-  "num_followers": 599371,
+  "num_followers": 600027,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYjVjMzY0NzcwYmFjZWIwZDdlYjYzNGI1Y2NlOGJhN2MwZmIyY2Uz",
+  "snapshot_id": "MCxmNDQ2OGJiNzEyYTUxMGZhYWQ0NzNlMDE5MDNlYzBlMjljY2MyZmJi",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -463,22 +463,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 212976,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 205299,
       "name": "As\u00ed Lo Quiso Dios",
       "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 212976,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -519,6 +519,26 @@
       "duration_ms": 147877,
       "name": "CCC - Remix",
       "url": "https://open.spotify.com/track/1SlPNQ3vAF56AiHr6Ul6jM"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Te Lo Agradezco",
+        "url": "https://open.spotify.com/album/4b54nXTn2X4aRFgUnCaMGE"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 183667,
+      "name": "Te Lo Agradezco",
+      "url": "https://open.spotify.com/track/0NnbCdowqhKtgtNEQ9oeBX"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -559,26 +579,6 @@
       "duration_ms": 210413,
       "name": "Julieta",
       "url": "https://open.spotify.com/track/1QgY3dbddC41h8cBm9lxKd"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
-        "name": "Te Lo Agradezco",
-        "url": "https://open.spotify.com/album/4b54nXTn2X4aRFgUnCaMGE"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 183667,
-      "name": "Te Lo Agradezco",
-      "url": "https://open.spotify.com/track/0NnbCdowqhKtgtNEQ9oeBX"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -867,26 +867,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Fuego de Noche, Nieve de D\u00eda",
-        "url": "https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        },
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 282565,
-      "name": "Fuego de Noche, Nieve de D\u00eda",
-      "url": "https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "Bien Loco",
         "url": "https://open.spotify.com/album/4ZmFdjdojnPfXISVRDgCeA"
       },
@@ -915,18 +895,22 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Tenemos que hablar",
-        "url": "https://open.spotify.com/album/6SppbUoXhxk8dUHPLbRmMU"
+        "name": "Fuego de Noche, Nieve de D\u00eda",
+        "url": "https://open.spotify.com/album/5MPWqO3tZLzTjCXYK74Sos"
       },
       "artists": [
         {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 190213,
-      "name": "Tenemos que hablar",
-      "url": "https://open.spotify.com/track/5xFwioXLRFwel6y4Z3dHwI"
+      "duration_ms": 282565,
+      "name": "Fuego de Noche, Nieve de D\u00eda",
+      "url": "https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -943,6 +927,22 @@
       "duration_ms": 208107,
       "name": "Dinero No Tenia - En Vivo",
       "url": "https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Tenemos que hablar",
+        "url": "https://open.spotify.com/album/6SppbUoXhxk8dUHPLbRmMU"
+      },
+      "artists": [
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 190213,
+      "name": "Tenemos que hablar",
+      "url": "https://open.spotify.com/track/5xFwioXLRFwel6y4Z3dHwI"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-09-29 06:00:00",
       "album": {
-        "name": "Haci\u00e9ndolo Fino",
-        "url": "https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl"
-      },
-      "artists": [
-        {
-          "name": "Alem\u00e1n",
-          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
-        }
-      ],
-      "duration_ms": 166708,
-      "name": "Erick Serm\u00f3n",
-      "url": "https://open.spotify.com/track/6Vtf1lKeDHjYoUzj53wQFk"
-    },
-    {
-      "added_at": "2023-09-29 06:00:00",
-      "album": {
         "name": "LALA",
         "url": "https://open.spotify.com/album/7CNQuFMI9yYy8dHkPx9Y13"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 191213,
       "name": "LALA",
       "url": "https://open.spotify.com/track/4l2yplVehb4oiQ5qS5XCQc"
+    },
+    {
+      "added_at": "2023-09-29 06:00:00",
+      "album": {
+        "name": "Haci\u00e9ndolo Fino",
+        "url": "https://open.spotify.com/album/0DDsexe1qhQ2TQ43XztwMl"
+      },
+      "artists": [
+        {
+          "name": "Alem\u00e1n",
+          "url": "https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE"
+        }
+      ],
+      "duration_ms": 166708,
+      "name": "Erick Serm\u00f3n",
+      "url": "https://open.spotify.com/track/6Vtf1lKeDHjYoUzj53wQFk"
     },
     {
       "added_at": "2023-09-29 06:00:00",
@@ -1429,20 +1429,24 @@
       "url": "https://open.spotify.com/track/1k9D0uyT8BvBCNJQoPBZLK"
     },
     {
-      "added_at": "2023-09-29 06:00:00",
+      "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "M\u00e9xxico Es Todo",
-        "url": "https://open.spotify.com/album/11m7pZleAOAkhrm60ihmov"
+        "name": "Kittyponeo",
+        "url": "https://open.spotify.com/album/2u2IVr3kVR13lr517rvcjM"
       },
       "artists": [
         {
-          "name": "Juan Gabriel",
-          "url": "https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Don Chezina",
+          "url": "https://open.spotify.com/artist/1ljNTY4uIBecRJmy69UNWt"
         }
       ],
-      "duration_ms": 214493,
-      "name": "M\u00e9xxico Es Todo",
-      "url": "https://open.spotify.com/track/4ZAHtzkitK8SanEc7XZoVX"
+      "duration_ms": 170447,
+      "name": "Kitty Culea",
+      "url": "https://open.spotify.com/track/5w8cpNXc7Gw6ZMvheFfrmE"
     },
     {
       "added_at": "2023-09-29 06:00:00",

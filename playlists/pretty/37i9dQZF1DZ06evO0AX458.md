@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 
 > This is Touché Amoré\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,145 likes - 38 songs - 1 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,148 likes - 38 songs - 1 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AX458.md) - [plain]
 | 33 | [I'll Deserve Just That](https://open.spotify.com/track/31Aw4lTh5VI3lnlifsIP4G) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Searching For A Pulse/The Worth Of The World](https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI) | 1:43 |
 | 34 | [Suckerfish](https://open.spotify.com/track/24GkGstdibYrnnhfZWsFE4) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:38 |
 | 35 | [I'll Get My Just Deserve](https://open.spotify.com/track/5qpT7CVS0r3yfGsMvI7MwS) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Searching For A Pulse/The Worth Of The World](https://open.spotify.com/album/6tZip1UYmRLpKlI6wIfWQI) | 1:34 |
-| 36 | [And Now It's Happening in Mine](https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:37 |
-| 37 | [Swimming with Sharks](https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:03 |
+| 36 | [Swimming with Sharks](https://open.spotify.com/track/4BjDJV6gg3dCVwoXyQkf8q) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:03 |
+| 37 | [And Now It's Happening in Mine](https://open.spotify.com/track/4i2ZnG3km6mvQ3zqcsEAio) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 1:37 |
 | 38 | [Nine](https://open.spotify.com/track/5GRro6xGJrZEwQykaaKXEk) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [...To the Beat of a Dead Horse](https://open.spotify.com/album/1nJQWexPwURsCTkp2THvg1) | 0:44 |
 
-Snapshot ID: `MjgyNzUyNTYsMDAwMDAwMDA4YThmMTczYzk3ZTIxMGI3YmRhMTQ4YzQ3YjZmYjZjMw==`
+Snapshot ID: `MjgyODI0MTYsMDAwMDAwMDBhYjk4ZjJlNzhmZTM3MTZiMzZhMzQ4MDE5YTUwNzc2Zg==`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Lyodra, Afgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,193 likes - 112 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,107 likes - 112 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 6 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 |
 | 7 | [Kelamaan Teman](https://open.spotify.com/track/6T7xBcPOje6aqyraT0sgsK) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom) | [Kelamaan Teman](https://open.spotify.com/album/7JUSxCbKQMx1CORlBcfU7o) | 3:25 |
 | 8 | [Do Over](https://open.spotify.com/track/1GG0HmgAbXrjTZN7RvEjU1) | [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Do Over](https://open.spotify.com/album/2L7uxbiwKCGm6kLnFacrJ5) | 3:32 |
-| 9 | [Lone Wolf](https://open.spotify.com/track/3X2ISSBvNgWoszBED6HctH) | [RINNI](https://open.spotify.com/artist/586wqf9BkWqW2kA01xxPsg), [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [Lone Wolf](https://open.spotify.com/album/1ceC2Z4tJ4vHjhjYbfRPyV) | 3:04 |
+| 9 | [Lone Wolf](https://open.spotify.com/track/3X2ISSBvNgWoszBED6HctH) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh), [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [Lone Wolf](https://open.spotify.com/album/1ceC2Z4tJ4vHjhjYbfRPyV) | 3:04 |
 | 10 | [Problematic](https://open.spotify.com/track/0I2BCIvlzrb6Iix9hAbQFF) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Lucid Dreams](https://open.spotify.com/album/4KAtLRVIfB0bKnRY01dveY) | 2:44 |
 | 11 | [Only Place](https://open.spotify.com/track/5GFsYPZY1eebEMuO3gfVkG) | [Jamie Miller](https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6) | [The Things I Left Unsaid](https://open.spotify.com/album/2MbohPX2P1ms4RjAo9X0iW) | 3:25 |
 | 12 | [Live For Me](https://open.spotify.com/track/0d5OZ7YYD8YXlXGitjHO0n) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Live For Me](https://open.spotify.com/album/4CBFkLLUglKClajY5weXhY) | 3:31 |
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 111 | [3:07](https://open.spotify.com/track/3Z1rQsWrqtCk3lgQFbqnrI) | [d0my](https://open.spotify.com/artist/1qgcFvdiH5hS2Nkf4mZ5Gx), [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x) | [3:07](https://open.spotify.com/album/5lv0shRMmophaPNApOmK65) | 3:48 |
 | 112 | [Sanctuary](https://open.spotify.com/track/4C03G8jrKuzw6OZk7qlvNp) | [The Great Spy Experiment](https://open.spotify.com/artist/6eMW7MJMdeHuAEXhixxsKH) | [Sanctuary / Secrets](https://open.spotify.com/album/4AH7OqMaRuC2DBXNntBxzL) | 4:36 |
 
-Snapshot ID: `MCw3YTFhYThiMTgwMDI4OTIwNDM3YTg5MmM5YjA4MTMwMGM1YzZmMGIx`
+Snapshot ID: `MCxiMTliNDMyNTkwNzJiMjlmMjdjNDNmOWY1ZWMwNTRlOWQyY2E5MGU3`

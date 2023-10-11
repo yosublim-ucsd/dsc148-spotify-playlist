@@ -4,7 +4,7 @@
 
 > Du Congo, au monde\. 🌍 Photo: Gino J
 
-282 songs - 17 hr 43 min
+282 songs - 17 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Doucement](https://open.spotify.com/track/3y7t7hnu9bIv7IIH2rBfrC) | [Rolls Des Nuances](https://open.spotify.com/artist/0qlAmqdnILTjaNXi0uoHaM), [Still Fresh](https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4) | [Doucement](https://open.spotify.com/album/0RnNLpEuu508N7UcgndkBf) | 2:48 | 2022-12-16 | 2023-07-22 |
 | [Dubai](https://open.spotify.com/track/3Jg3zb38h4kPxF0FnOseFU) | [Samarino](https://open.spotify.com/artist/3rIS2pZczFmGjl4LVxelm7), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Dubai](https://open.spotify.com/album/0DNol5cKf3k5lqtcGGTizD) | 3:18 | 2022-12-30 | 2023-08-26 |
 | [Duda](https://open.spotify.com/track/2fCkFI19Md79sMg9lyZSxq) | [Tito Monako](https://open.spotify.com/artist/0QjXhvnUioV2bhmMRcOvPE) | [Duda](https://open.spotify.com/album/1ZZpj2GgG8vw6Gj4Jo2OAD) | 5:40 | 2022-07-15 | 2022-11-26 |
-| [Débloquer](https://open.spotify.com/track/0nbMa3ZHOLlgb2IJPsGFCt) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/3gwKFYmiUvCxCUP5lRLHF5) | 3:38 | 2023-09-29 |  |
+| [Débloquer](https://open.spotify.com/track/0nbMa3ZHOLlgb2IJPsGFCt) | [Ya Cetidon](https://open.spotify.com/artist/2CRqfNWZYEQ7KuWr9XewAj), [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Débloquer](https://open.spotify.com/album/3gwKFYmiUvCxCUP5lRLHF5) | 3:27 | 2023-09-29 |  |
 | [Dépenser](https://open.spotify.com/track/0PaTtFEQVVzknrmkAxpEk9) | [Monroe Djoboke](https://open.spotify.com/artist/419F5ECudqV2Ek9qMdyC4I) | [Escapade](https://open.spotify.com/album/2i3fdjcO4bn4XSfrfqdyXl) | 3:35 | 2022-06-30 | 2023-02-25 |
 | [Ebembe ya dula](https://open.spotify.com/track/1gKHVSEhXOiBlygk6GnXty) | [Martial Pa'nucci](https://open.spotify.com/artist/2SNXLRyVOjrNqMzqbUkjLB) | [Ebembe ya dula](https://open.spotify.com/album/7MGOXUe5INfN1Xq94x3fDK) | 4:21 | 2022-08-26 | 2023-02-11 |
 | [Elengi \(feat\. Koffi Olomide\)](https://open.spotify.com/track/0TBRFyidKDV8Gswfc4haxh) | [Innoss'B](https://open.spotify.com/artist/1nLQWXXs7ZauI4SC6rUFPV), [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Elengi \(feat\. Koffi Olomide\)](https://open.spotify.com/album/1u1FkfGwN92at9xyF791nf) | 4:05 | 2022-06-30 | 2022-09-17 |

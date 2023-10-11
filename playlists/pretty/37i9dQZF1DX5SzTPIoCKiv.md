@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 
 > Recent smashes from your favorite Christian Contemporary artists\.  Cover: Mac Powell
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,207 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,185 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 51 | [Great Are You Lord](https://open.spotify.com/track/1Hv54MWloXiAZDam1ez840) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [All Sons & Daughters](https://open.spotify.com/album/5f8vRVVJgA5uAqYMDYDju6) | 4:56 |
 | 52 | [Multiplied](https://open.spotify.com/track/4zgO1SgXOeFmr6Hno9DLs4) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Rivers in the Wasteland](https://open.spotify.com/album/52e12cyeu7IY7JGSoUArHw) | 4:35 |
 | 53 | [Different](https://open.spotify.com/track/0HGGx9fQ55LFw5QFIB5MKp) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:17 |
-| 54 | [Sweet Ever After \(feat\. Bear Rinehart of NEEDTOBREATHE\)](https://open.spotify.com/track/0zdLZywwUVyg8xnzzxgDBP) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Bear Rinehart](https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:31 |
-| 55 | [In the Arms](https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [In the Arms](https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P) | 3:52 |
+| 54 | [In the Arms](https://open.spotify.com/track/25d5ECcMe57FZaK5PJqiIU) | [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [In the Arms](https://open.spotify.com/album/2gybUUpxYO2SyDa3CbgX4P) | 3:52 |
+| 55 | [Sweet Ever After \(feat\. Bear Rinehart of NEEDTOBREATHE\)](https://open.spotify.com/track/0zdLZywwUVyg8xnzzxgDBP) | [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs), [Bear Rinehart](https://open.spotify.com/artist/1TlTGJuzfnndWJDNxnODzh), [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Canyon](https://open.spotify.com/album/7Hbyzqec8Ls87yM0J7xCaQ) | 3:31 |
 | 56 | [Hymn Of Heaven](https://open.spotify.com/track/6UwxHDz7vGUhbDSevNUUcj) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Hymn Of Heaven](https://open.spotify.com/album/51IGu0d5eyVVO3wAxIm2Ep) | 4:27 |
 | 57 | [God So Loved](https://open.spotify.com/track/2kcKzbmiyS7kpwSka7nSmt) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 4:25 |
 | 58 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5SzTPIoCKiv.md) - [plain]
 | 99 | [Made to Fly](https://open.spotify.com/track/01ynxhBoTGfbPtsVg2G0Fs) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Made to Fly](https://open.spotify.com/album/16ugRESDhHdmmc3xxakT7c) | 3:44 |
 | 100 | [Freedom \- Live](https://open.spotify.com/track/5UKiOsxr7Q3NQT2LkyFt9n) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Living With A Fire \(Live\)](https://open.spotify.com/album/0K4TZjqRa9XgexXHvWTwlp) | 6:31 |
 
-Snapshot ID: `MCw4NTNjYTcwNTYwNGIwZWNmZDRjOGNmY2ZlM2Y2OWRkMTM1OGVjN2Y5`
+Snapshot ID: `MCxlNGI2NTIwZjEwMDc4ZjkxODhjNGNiMjdkNzEyMTViY2QwMjI3MWQw`

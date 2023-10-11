@@ -4,7 +4,7 @@
 
 > This is Iggy Pop\. The essential tracks, all in one playlist.
 
-84 songs - 5 hr 16 min
+85 songs - 5 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [C'est si bon](https://open.spotify.com/track/7n5rnQbELuaeHJ8T4gU00m) | [Thomas Dutronc](https://open.spotify.com/artist/6ADpAfFsO5dJadJoBKv3nz), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [C’est si bon](https://open.spotify.com/album/1ONj7ygR1DJ7KvR0p1j5mI) | 3:24 | 2022-11-04 |  |
 | [Candy](https://open.spotify.com/track/6sFpmdsk4UDMcDWdy4T1Kc) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Brick By Brick](https://open.spotify.com/album/2Il7QADGDfqLRsJkAx0JY8) | 4:13 | 2022-11-04 |  |
 | [China Girl](https://open.spotify.com/track/5nB8x0jxofKalTtaQLpGZL) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Idiot](https://open.spotify.com/album/78UazygH85UAB0qXqQpzg6) | 5:08 | 2022-11-04 | 2023-10-02 |
+| [China Girl \- Alternative Mix](https://open.spotify.com/track/1K4Sp1OLeqpSJ2J1yheq3Z) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [The Bowie Years: Edits + Out\-Takes](https://open.spotify.com/album/15yJJuL2foCDTV9FDYSher) | 5:13 | 2023-10-10 |  |
 | [Chocolate Drops](https://open.spotify.com/track/2WJ4KUVJhARzAB7HkZkr12) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Post Pop Depression](https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1) | 3:58 | 2022-11-04 |  |
 | [Comments](https://open.spotify.com/track/59QajhlzAmlJ1wIRwzLxv8) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [EVERY LOSER](https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd) | 3:53 | 2023-01-07 |  |
 | [Cry For Love](https://open.spotify.com/track/7Fb9KsEzGFKqRABQJMr2ot) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Blah\-Blah\-Blah](https://open.spotify.com/album/4j1zp01LTkV9kNWAuKU45c) | 4:28 | 2022-11-04 |  |
@@ -37,7 +38,7 @@
 | [I Want To Go To The Beach](https://open.spotify.com/track/3Jeyxi4v6n8VakOmiG4TPf) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:52 | 2022-11-04 |  |
 | [I'll Be Seeing You](https://open.spotify.com/track/4LnKrdv2q8UFdRWyoevN3A) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Clair Obscur](https://open.spotify.com/album/0ccMLn7DlKbdGZWY6ItEmK) | 4:05 | 2023-04-18 | 2023-10-05 |
 | [I'm Bored](https://open.spotify.com/track/6GVfe1CSI7n6G8818mPArW) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Arista Heritage Series: Iggy Pop](https://open.spotify.com/album/2uLW0zozcIW2QjSthikLLo) | 2:47 | 2022-11-04 |  |
-| [I'm Going Away Smiling](https://open.spotify.com/track/23pV3PqMtZz0poleCOjqJg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:38 | 2022-12-01 |  |
+| [I'm Going Away Smiling](https://open.spotify.com/track/23pV3PqMtZz0poleCOjqJg) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Après \(10th\-anniversary edition\)](https://open.spotify.com/album/2uZ1gpEIyqpSG5EaMWaAe2) | 2:38 | 2022-12-01 | 2023-10-11 |
 | [In The Deathcar \- "Arizona Dream" Original Motion Picture Soundtrack](https://open.spotify.com/track/1Tqz4XfxXPeZ2lbk8MBlzY) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Arizona Dream \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JOFv28xH21bzQdFuf4Y5F) | 5:14 | 2022-11-04 |  |
 | [James Bond](https://open.spotify.com/track/4MtGjAHHh3pSvJPaDltuhm) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Free](https://open.spotify.com/album/7BLKzTgaj5fHkNpSPGwjwh) | 4:31 | 2022-11-04 |  |
 | [King Of The Dogs](https://open.spotify.com/track/1QFEq5VoRobiMhe47yKWOM) | [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Preliminaires](https://open.spotify.com/album/1CXwGPRwAbg5OOMhTB5xs9) | 2:01 | 2022-11-04 |  |

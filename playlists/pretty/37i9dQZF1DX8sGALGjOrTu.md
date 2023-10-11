@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 
 > Back to the golden age of the scene\. Cover: The Used
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,239 likes - 75 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,411 likes - 75 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,13 +63,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 53 | [The Difference Between Medicine And Poison Is In The Dose](https://open.spotify.com/track/3SizB9Beb0HZHww3PjoXbQ) | [Circa Survive](https://open.spotify.com/artist/11FY888Qctoy6YueCpFkXT) | [On Letting Go](https://open.spotify.com/album/4Chn7XF8fzngf9GPfTMXLz) | 4:17 |
 | 54 | [The Words "Best Friend" Become Redefined](https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [All's Well That Ends Well](https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS) | 3:36 |
 | 55 | [The Days Of The Phoenix](https://open.spotify.com/track/7oSQG8KgYbrcR2kgwUD9SU) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [The Art Of Drowning](https://open.spotify.com/album/3x1951P584xqRUW7KdLs6A) | 3:27 |
-| 56 | [And I Told Them I Invented Times New Roman](https://open.spotify.com/track/7CR0CfMEC6BZBuYLaKSbu9) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Downtown Battle Mountain](https://open.spotify.com/album/1VBfG7a6qZVJ1KWPIJpyLz) | 4:48 |
-| 57 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
+| 56 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
+| 57 | [And I Told Them I Invented Times New Roman](https://open.spotify.com/track/7CR0CfMEC6BZBuYLaKSbu9) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Downtown Battle Mountain](https://open.spotify.com/album/1VBfG7a6qZVJ1KWPIJpyLz) | 4:48 |
 | 58 | [Apology](https://open.spotify.com/track/6hNA4yDJr0hGn0TlnmRVUQ) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [Try This With Your Eyes Closed](https://open.spotify.com/album/0UqeJDOoeBuikFNW2NX6VD) | 4:09 |
 | 59 | [Things That Rhyme With Orange](https://open.spotify.com/track/77vNp4OsXJdDt3OwlQW0HS) | [I Set My Friends On Fire](https://open.spotify.com/artist/2QF7jwUc5zgjSbOTYh1xV0) | [You Can't Spell Slaughter Without Laughter](https://open.spotify.com/album/3OuA2gHFQ0GwXMw0FSI9Ra) | 3:24 |
 | 60 | [Holding On](https://open.spotify.com/track/48H6uWuBYeeZUiXwb5f69K) | [Scary Kids Scaring Kids](https://open.spotify.com/artist/3cdos5vq3wSUR8mEvMiqq9) | [Scary Kids Scaring Kids](https://open.spotify.com/album/3VrYxnxSDWTuJWxO3riGar) | 4:21 |
-| 61 | [The Past Should Stay Dead](https://open.spotify.com/track/3ybttms1Zl5kfsSl2QxIbP) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Relativity](https://open.spotify.com/album/42QT0gBnEJbmo10gAL1m32) | 4:33 |
-| 62 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 |
+| 61 | [Car Underwater](https://open.spotify.com/track/4CilIy3dA3P9Tq2NFqKEOX) | [Armor For Sleep](https://open.spotify.com/artist/7eSbps3Uha3MMBNWhMYa2H) | [What To Do When You Are Dead](https://open.spotify.com/album/6kYEwpX4miUeuyPLyvq7lK) | 3:48 |
+| 62 | [The Past Should Stay Dead](https://open.spotify.com/track/3ybttms1Zl5kfsSl2QxIbP) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Relativity](https://open.spotify.com/album/42QT0gBnEJbmo10gAL1m32) | 4:33 |
 | 63 | [The Thespian](https://open.spotify.com/track/2JPe6EP1iDsVwiPHwvhik0) | [Alesana](https://open.spotify.com/artist/1fnDlUNi67FQtHHqBl4Yfg) | [The Emptiness](https://open.spotify.com/album/4HOobzcnXNTNaKxP2MIBrg) | 3:57 |
 | 64 | [Deadbolt](https://open.spotify.com/track/5Kj6WCM3ZNak8s8DCh95XX) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Illusion of Safety](https://open.spotify.com/album/1FPafRXRCsX5ZDhL16Qlyc) | 3:00 |
 | 65 | [Letters To You](https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 3:19 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sGALGjOrTu.md) - [plain]
 | 67 | [Tree Village](https://open.spotify.com/track/0C9d07g8OTaJeZVVmjN0pS) | [Dance Gavin Dance](https://open.spotify.com/artist/6guC9FqvlVboSKTI77NG2k) | [Happiness](https://open.spotify.com/album/2uEHtF7phOSbrXdKUes5GL) | 3:21 |
 | 68 | [Guys Like You Make Us Look Bad](https://open.spotify.com/track/75rctYH1J87zkJ51c4cxaq) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [His Last Walk](https://open.spotify.com/album/3ANtCCvIfTVZexgdh0LXdM) | 3:55 |
 | 69 | [Bulls Make Money, Bears Make Money, Pigs Get Slaughtered](https://open.spotify.com/track/6XYFBEphCFnRlZ8JiQdv9y) | [Chiodos](https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o) | [Bone Palace Ballet: Grand Coda](https://open.spotify.com/album/6hRCJsYR4b3S2WAtrV29Hk) | 3:28 |
-| 70 | [A Toast to the future kids!](https://open.spotify.com/track/7jDZIM59S1utHXZcmYSEYx) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Emarosa](https://open.spotify.com/album/1OlewCHNhDBcQBqzXhNws5) | 3:48 |
-| 71 | [Ready To Fall](https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:47 |
-| 72 | [Boiled Frogs](https://open.spotify.com/track/4nRO24HUeh7dNcg5fu63vt) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1eAMmJv65w0W2w50HDmTEw) | 3:56 |
-| 73 | [Capricorn \(A Brand New Name\)](https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 3:53 |
+| 70 | [Ready To Fall](https://open.spotify.com/track/2r1yo1u0PHegpetacdrHh2) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [The Sufferer & The Witness](https://open.spotify.com/album/1VZ0i4vJ0AkPbmpuaktZMJ) | 3:47 |
+| 71 | [A Toast to the future kids!](https://open.spotify.com/track/7jDZIM59S1utHXZcmYSEYx) | [Emarosa](https://open.spotify.com/artist/68tKVjVvcqUfKFFLr2j0Ek) | [Emarosa](https://open.spotify.com/album/1OlewCHNhDBcQBqzXhNws5) | 3:48 |
+| 72 | [Capricorn \(A Brand New Name\)](https://open.spotify.com/track/1e714xkChvo3z1s9hNxkK5) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [30 Seconds To Mars](https://open.spotify.com/album/5zUm6nApm20NjtX913O6Nz) | 3:53 |
+| 73 | [Boiled Frogs](https://open.spotify.com/track/4nRO24HUeh7dNcg5fu63vt) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Crisis](https://open.spotify.com/album/1eAMmJv65w0W2w50HDmTEw) | 3:56 |
 | 74 | [Smashed Into Pieces](https://open.spotify.com/track/1CKfTyQ4JMJxM9HFlvz187) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [When Broken Is Easily Fixed](https://open.spotify.com/album/3fEej3BLA97fBcKe61PeSc) | 3:42 |
 | 75 | [Walls](https://open.spotify.com/track/7zVv1G1EB8k7BbrTF6f2SQ) | [Emery](https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni) | [The Weak's End](https://open.spotify.com/album/7fiFm9mCrQ9s0iswgK4X0a) | 3:23 |
 
-Snapshot ID: `MCw0Y2NmMjY5NzI5YjhkZWM5ZjI4YTdiMTAyZmIyMGFhNWZkYzQxY2Jm`
+Snapshot ID: `MCwxYjg2OTBiMzY3MDAxNTk0MmNhZjBkNTJjNmE4ODUxMWFlYWVmMmI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,402 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,464 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 57 | [Rattlesnakes](https://open.spotify.com/track/1QgYQ3Qk4s3I1fj1sPknv5) | [Emancipator](https://open.spotify.com/artist/6HCnsY0Rxi3cg53xreoAIm) | [Safe in the Steep Cliffs](https://open.spotify.com/album/6NkSldA9yAJrDomtPAz1Zs) | 4:10 |
 | 58 | [Hey Now](https://open.spotify.com/track/51ZPtAuqT0V5lNONYZTrxy) | [London Grammar](https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO) | [If You Wait](https://open.spotify.com/album/2J4dwQHk8EZKPKGhM1EzOU) | 3:27 |
 | 59 | [Utopia](https://open.spotify.com/track/7mYUeJq8M8S8kzDZUs6o23) | [Goldfrapp](https://open.spotify.com/artist/5BKsn7SCN2XmbF7apdCpRS) | [Felt Mountain](https://open.spotify.com/album/6cJfHiiiH0fH6Ly5uRE902) | 4:18 |
-| 60 | [No jive](https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu) | [De\-Phazz](https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN) | [Hôtel Costes](https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8) | 4:24 |
-| 61 | [Black Jesus](https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Paradise Blown](https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu) | 4:05 |
+| 60 | [Black Jesus](https://open.spotify.com/track/2Aujipv9QnsdezNWnb7s4W) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Paradise Blown](https://open.spotify.com/album/5Z8qe0ZaUHELNSxGMqODtu) | 4:05 |
+| 61 | [No jive](https://open.spotify.com/track/222Ag8me5qQFQ5oDxigDiu) | [De\-Phazz](https://open.spotify.com/artist/0WLS16S6MJvMgWXrUezleN) | [Hôtel Costes](https://open.spotify.com/album/7lp6VEaf4BefnCWv6Qfnf8) | 4:24 |
 | 62 | [High Noon](https://open.spotify.com/track/0oP2XkRvW12u8gCxpBfVVU) | [Kruder & Dorfmeister](https://open.spotify.com/artist/39ywlwtGw8RTGobakgb11L) | [G\-Stoned](https://open.spotify.com/album/4AKnOEd9fx1pj36xAq5eUN) | 6:26 |
 | 63 | [Nova](https://open.spotify.com/track/0lcfJc4pG6xnNmrUlZ9232) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Permutation](https://open.spotify.com/album/7jxs0XY2yJS36PZCjUv4Hp) | 4:42 |
 | 64 | [DUST](https://open.spotify.com/track/7AHaKrKuhzpl4xK0r2Jd9g) | [HÆLOS](https://open.spotify.com/artist/132sZpCaM8ie6byAEcOcRs) | [Full Circle](https://open.spotify.com/album/71wCH1CJ7wh3kmPC3cQH71) | 4:38 |
@@ -87,26 +87,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 77 | [Recurring](https://open.spotify.com/track/0tXU2cpXxXysj6jg4vSUbv) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Days To Come](https://open.spotify.com/album/5HLoU4oijKdSIFOk2o7mYn) | 4:52 |
 | 78 | [Purrfect](https://open.spotify.com/track/7bfMKlkk76s6ou41vmRS9W) | [Funki Porcini](https://open.spotify.com/artist/2RNUVT2Tl938bULcNzDRNw) | [Love Pussycats & Carwrecks](https://open.spotify.com/album/5EPPzyZrU8ytrdBJDS95l9) | 4:50 |
 | 79 | [Bittersweet Faith](https://open.spotify.com/track/3mjQWntZaTIysjKdQZWlgG) | [Bitter:Sweet](https://open.spotify.com/artist/28bLlI81wfpcHUSUPgktlx) | [The Mating Game](https://open.spotify.com/album/17FDgwgmO3tD7X7qX6m7Sy) | 4:19 |
-| 80 | [Nothing Can Stop Us](https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:21 |
-| 81 | [Melt \- Remastered](https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 5:12 |
+| 80 | [Melt \- Remastered](https://open.spotify.com/track/5XoUmYzWa8YTaxxV9DWEU3) | [Leftfield](https://open.spotify.com/artist/72hqBMsw7x5jnfxxwkii8L) | [Leftism](https://open.spotify.com/album/6Hh2XrY2Yuse8omAzSabdp) | 5:12 |
+| 81 | [Nothing Can Stop Us](https://open.spotify.com/track/3izKffzHXSwXdhtJ9DasZU) | [Saint Etienne](https://open.spotify.com/artist/1N2FgBLehaq77UEdJhCt7f) | [Foxbase Alpha](https://open.spotify.com/album/7e0mEjhM8D2x8E5c9H1oY3) | 4:21 |
 | 82 | [Broken Together](https://open.spotify.com/track/7ItezsVpDJjSP2Y5mpnOnH) | [Sofa Surfers](https://open.spotify.com/artist/0pNP0TPeyffi8QbE8U5D1X), [Mani Obeya](https://open.spotify.com/artist/3Ex5qqvWXjVZkWuTkYkKc6) | [Superluminal](https://open.spotify.com/album/3l50IaIO1hQnl4MiTHTJsn) | 4:46 |
 | 83 | [All Is Full of Love](https://open.spotify.com/track/3rrtbnOBDzKQfyYKTezEFe) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Greatest Hits](https://open.spotify.com/album/7AUW3zs7IECZjVVks1tfb2) | 4:47 |
 | 84 | [Emkay](https://open.spotify.com/track/37A0JOrJ5WnmhIyGNnAhRN) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:25 |
 | 85 | [Your Girl](https://open.spotify.com/track/4iBqN4fvv1j9mvc8sHp8Nu) | [Blue States](https://open.spotify.com/artist/2wlTl7AyP0icYtAsmPylw6) | [Nothing Changes Under The Sun](https://open.spotify.com/album/6RQQ8KVvHBburwHP0zpLfK) | 5:04 |
 | 86 | [Smile](https://open.spotify.com/track/6pw0Smtd6ydy5oywoqRXjY) | [Télépopmusik](https://open.spotify.com/artist/3aKCo8gLJfuPYtr88aWKjF), [Angela McCluskey](https://open.spotify.com/artist/5AlIxbb8HarTSm2tdA5F0x) | [Genetic World](https://open.spotify.com/album/1H10CTGW4xbk0IQewKbK50) | 4:01 |
 | 87 | [Stars](https://open.spotify.com/track/3bJU6OwW2N0O7DVO5mp08l) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0) | [Smokers Delight](https://open.spotify.com/album/3stVzMomzhVGw0prDxLY0K) | 6:59 |
-| 88 | [The Garden](https://open.spotify.com/track/5Tp97LcL45G82uC6vaLvt5) | [Cut Chemist](https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh) | [The Audience's Listening \(U.S\. Version\)](https://open.spotify.com/album/51eBQ2u5LInHRAicVdekxi) | 6:15 |
-| 89 | [Never the Same](https://open.spotify.com/track/4eKIHs1qmbmcFLdFYH6pU2) | [Supreme Beings of Leisure](https://open.spotify.com/artist/1fMiEUAUshtCFawy3aD0oD) | [Supreme Beings Of Leisure](https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz) | 4:03 |
+| 88 | [Never the Same](https://open.spotify.com/track/4eKIHs1qmbmcFLdFYH6pU2) | [Supreme Beings of Leisure](https://open.spotify.com/artist/1fMiEUAUshtCFawy3aD0oD) | [Supreme Beings Of Leisure](https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz) | 4:03 |
+| 89 | [The Garden](https://open.spotify.com/track/5Tp97LcL45G82uC6vaLvt5) | [Cut Chemist](https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh) | [The Audience's Listening \(U.S\. Version\)](https://open.spotify.com/album/51eBQ2u5LInHRAicVdekxi) | 6:15 |
 | 90 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
 | 91 | [I Don't Know What I Can Save You From \- Röyksopp Remix](https://open.spotify.com/track/3DvQTKQ0ydUn5SNYzRL5wr) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Versus](https://open.spotify.com/album/1iP2GfxXwQyeHw4CZCTBGI) | 4:12 |
-| 92 | [In A State](https://open.spotify.com/track/2HpCmHLndCtXehzHhsJebm) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC) | [Never, Never, Land](https://open.spotify.com/album/4cgoTXgEihIObjGZ7XWVvI) | 6:57 |
-| 93 | [Angels](https://open.spotify.com/track/5lzo7Gtu5z7A5kV6he5chD) | [Wax Poetic](https://open.spotify.com/artist/4WeRix3pCmdwef6aBAIbYf), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Wax Poetic](https://open.spotify.com/album/7DvlXVQ997HD3NGp9oCMXQ) | 4:03 |
+| 92 | [Angels](https://open.spotify.com/track/5lzo7Gtu5z7A5kV6he5chD) | [Wax Poetic](https://open.spotify.com/artist/4WeRix3pCmdwef6aBAIbYf), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Wax Poetic](https://open.spotify.com/album/7DvlXVQ997HD3NGp9oCMXQ) | 4:03 |
+| 93 | [In A State](https://open.spotify.com/track/2HpCmHLndCtXehzHhsJebm) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC) | [Never, Never, Land](https://open.spotify.com/album/4cgoTXgEihIObjGZ7XWVvI) | 6:57 |
 | 94 | [Honey](https://open.spotify.com/track/33jQyNBQp4kn10STv1o5St) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 5:57 |
-| 95 | [Malemolência](https://open.spotify.com/track/1Wit1Nw3sVBbyyX9NjjT7H) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [CéU](https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB) | 2:54 |
-| 96 | [Electric Lazyland](https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Electric Lazyland](https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9) | 5:52 |
+| 95 | [Electric Lazyland](https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Electric Lazyland](https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9) | 5:52 |
+| 96 | [Malemolência](https://open.spotify.com/track/1Wit1Nw3sVBbyyX9NjjT7H) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [CéU](https://open.spotify.com/album/6dG1XPrl1KEeK4MND7WAoB) | 2:54 |
 | 97 | [Superheroes](https://open.spotify.com/track/2akoq472I49TzrFSJjjf47) | [Esthero](https://open.spotify.com/artist/1VmTG1NmumTwTIOGbew6gH) | [Breath From Another](https://open.spotify.com/album/5IjiTlH5NjwgFjfCxXlY0S) | 3:58 |
 | 98 | [The Hardest](https://open.spotify.com/track/2rdr8VQ1NPnoQLKfqEPFgl) | [Gasoline](https://open.spotify.com/artist/3RnTXThtZ7Oe4RZYE6mRyp) | [Journey Into Abstract Hip Hop](https://open.spotify.com/album/62S3iAhIMlheNq8K8h1BF1) | 4:02 |
 | 99 | [His Majesty King Raam](https://open.spotify.com/track/4J8ms7TbPISBz71G5z2SGS) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 7:20 |
 | 100 | [Transatlantic](https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Apricot Morning](https://open.spotify.com/album/4RQOGfXsV5TVo5hJXNQ5ql) | 4:44 |
 
-Snapshot ID: `MCwwZGI4MGNmNThmYTYzOGQzNzViMGE2MTU0ODc2NzIxZmQ3NzQyNDc2`
+Snapshot ID: `MCxhZWM2ZmMxODM4YWQ3MWVhYzEyM2VlYjY5NDEzOTA0MjhmOTMxOWVl`

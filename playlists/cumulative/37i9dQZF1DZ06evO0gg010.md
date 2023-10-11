@@ -4,18 +4,19 @@
 
 > This is Fuerza Regida\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 42 min
+55 songs - 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [911 \- En Vivo](https://open.spotify.com/track/1O0IFR3MYqgQbziKTCf0X4) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [911 \(En Vivo\)](https://open.spotify.com/album/5C481uIDXJ2Ddkqtq8A28H) | 2:55 | 2023-08-08 |  |
 | [Ahora Piden Paros](https://open.spotify.com/track/1oRxWYm6Vw7dwsnmewFuhx) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Ahora Piden Paros](https://open.spotify.com/album/0MSj2lraOwsb0XACGOItcQ) | 2:19 | 2023-08-08 |  |
+| [Antídoto](https://open.spotify.com/track/6cxQ0CafJh50tbiRtr6qou) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Antídoto](https://open.spotify.com/album/6mSBEqGKBR1xw8OHVnrhvB) | 3:13 | 2023-10-10 |  |
 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 | 2023-08-25 |  |
 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 | 2023-08-08 | 2023-08-26 |
 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 | 2023-08-08 |  |
 | [Ch y la Pizza](https://open.spotify.com/track/0UbesRsX2TtiCeamOIVEkp) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:16 | 2023-08-08 |  |
 | [Chingas A Tu Madre](https://open.spotify.com/track/2IN5quW5Yd0mi6PzMoaz5y) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Chingas A Tu Madre](https://open.spotify.com/album/4WPBhjPQg9haxbzJ6EF257) | 3:25 | 2023-08-08 |  |
-| [Creció La Cuenta](https://open.spotify.com/track/5Fg4huU4W2ByloZXYfaJD4) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Creció La Cuenta](https://open.spotify.com/album/2KK6p9x9C1XbwDrQQXdSZh) | 3:33 | 2023-08-08 |  |
+| [Creció La Cuenta](https://open.spotify.com/track/5Fg4huU4W2ByloZXYfaJD4) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Creció La Cuenta](https://open.spotify.com/album/2KK6p9x9C1XbwDrQQXdSZh) | 3:33 | 2023-08-08 | 2023-10-11 |
 | [De Lunes A Viernes](https://open.spotify.com/track/1NG1ZbHFYLL27Upnnkz9af) | [Angel Ureta](https://open.spotify.com/artist/3rvluTyk2vmAj3dN1b0bw8), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [De Lunes A Viernes](https://open.spotify.com/album/3yuosxLkQXRX9wg4XZMLir) | 2:33 | 2023-08-08 |  |
 | [Descansando](https://open.spotify.com/track/3QXBaUQ8iwP2WI1GpQIP18) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Descansando](https://open.spotify.com/album/4n05Mdr8HuetVr4V6TWnWI) | 3:45 | 2023-08-08 |  |
 | [Desvelado](https://open.spotify.com/track/3YmjSVBCe6jXOUT0DQxy34) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Desvelado](https://open.spotify.com/album/3mAEZ4e27b2iFwnjY8enqt) | 3:30 | 2023-08-08 |  |

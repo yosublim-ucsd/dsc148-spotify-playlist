@@ -4,7 +4,7 @@
 
 > De beste Nederlandse hits van vroeger en nu\. Cover: Suzan & Freek en Claude
 
-153 songs - 7 hr 54 min
+154 songs - 7 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,8 @@
 | [Zij Weet Het \- Studio Versie](https://open.spotify.com/track/0rwf08N6Fm5K57S7e7FJty) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Zij Weet Het \(Studio Versie\)](https://open.spotify.com/album/45DK1JElovyDUaa1VtnMMs) | 4:01 | 2023-02-24 |  |
 | [Zij Wil Mij](https://open.spotify.com/track/3Falq0rEoroeaZqNp9UDIY) | [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk) | [Zij Wil Mij](https://open.spotify.com/album/0NIlQZDDCGRMDuZbujA2ZR) | 2:36 | 2023-02-24 | 2023-05-16 |
 | [Zo Kan Het Dus Ook](https://open.spotify.com/track/0ZDkMMdWTw9ykmmIGUVnrS) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Zo Kan Het Dus Ook](https://open.spotify.com/album/7HC6X1dkpJzDMwrrVlSHzk) | 2:34 | 2023-02-24 |  |
-| [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/5tufQXu4n8u156Jy8JJdz0) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/09rwghZuPsHR4t84q7vwoy) | 3:07 | 2023-10-04 |  |
+| [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/3u5mjulfL1YY9exQEBmKLY) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/1sh6HCkhboWsoln9lf0ay8) | 3:07 | 2023-10-05 |  |
+| [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/5tufQXu4n8u156Jy8JJdz0) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/09rwghZuPsHR4t84q7vwoy) | 3:07 | 2023-10-04 | 2023-10-11 |
 | [Zoals Ik Jou Gevonden Heb](https://open.spotify.com/track/7lV6AmnEDfNwCMKLf9Tbmk) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/63zOiWwbAQgq0Ygfba01R4) | 3:07 | 2023-09-28 | 2023-10-05 |
 | [Zoutelande \- feat\. Geike](https://open.spotify.com/track/5rYilIuAwh6HhpVB44HI31) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [Aan](https://open.spotify.com/album/6IiOFSTSh6WvohnNBDzMRE) | 3:43 | 2023-02-24 |  |
 

@@ -1,12 +1,12 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 62332,
+  "num_followers": 62452,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOWU0N2Q4NzU2NjAzYWRmZjc0OTQ0YzRlOTZiYjQ4MzU1NmFiOTA2",
+  "snapshot_id": "MCw2YmRmZmM0MmI0YzRhN2RjNjYwNzdhNjA0YjM4NjU4NTY2Y2M1ZjBj",
   "tracks": [
     {
       "added_at": "2023-04-27 17:13:18",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "things with wings",
+        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 108363,
+      "name": "cheap liquor",
+      "url": "https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "Dial Tone",
         "url": "https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 178823,
       "name": "Dial Tone",
       "url": "https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "things with wings",
-        "url": "https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 108363,
-      "name": "cheap liquor",
-      "url": "https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
+        "name": "hi, i'm dante",
+        "url": "https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV"
+      },
+      "artists": [
+        {
+          "name": "ericdoa",
+          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
+        }
+      ],
+      "duration_ms": 116349,
+      "name": "movinglikeazombie",
+      "url": "https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
         "name": "food house",
         "url": "https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 167235,
       "name": "ok im cool",
       "url": "https://open.spotify.com/track/2pDjxMXn7PLMIbd526fhRb"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
-        "name": "hi, i'm dante",
-        "url": "https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV"
-      },
-      "artists": [
-        {
-          "name": "ericdoa",
-          "url": "https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn"
-        }
-      ],
-      "duration_ms": 116349,
-      "name": "movinglikeazombie",
-      "url": "https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1"
     },
     {
       "added_at": "2023-04-27 17:13:18",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-04-27 17:13:18",
       "album": {
-        "name": "Flamboyant",
-        "url": "https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn"
-      },
-      "artists": [
-        {
-          "name": "Dorian Electra",
-          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
-        }
-      ],
-      "duration_ms": 197757,
-      "name": "Man To Man",
-      "url": "https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo"
-    },
-    {
-      "added_at": "2023-04-27 17:13:18",
-      "album": {
         "name": "i hate it here",
         "url": "https://open.spotify.com/album/0zCWwURtHzZhsNjg4gziIU"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 157144,
       "name": "i hate it here",
       "url": "https://open.spotify.com/track/2raN4Xp2bY3MAeU0OBx9Bg"
+    },
+    {
+      "added_at": "2023-04-27 17:13:18",
+      "album": {
+        "name": "Flamboyant",
+        "url": "https://open.spotify.com/album/4svcCm5yRZtKE0tXn4n1cn"
+      },
+      "artists": [
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        }
+      ],
+      "duration_ms": 197757,
+      "name": "Man To Man",
+      "url": "https://open.spotify.com/track/4C9DiRUDbryWo0FRjozaoo"
     },
     {
       "added_at": "2023-04-27 17:13:18",

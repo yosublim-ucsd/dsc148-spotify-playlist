@@ -1,12 +1,12 @@
 {
   "description": "Chill afro music to study with.",
-  "num_followers": 23742,
+  "num_followers": 23785,
   "original_name": "Sound Semester ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDY4YzE3ZDk0YTgxMTg0NWE5MjVmNWI3OTAxZWYxZTc2MzllZTVi",
+  "snapshot_id": "MCxlN2U0Mjg4N2M0NmMwYWZmZWJjM2MxYmI1NDc0NTdiOWYwNmQ3NjQ5",
   "tracks": [
     {
       "added_at": "2023-10-06 17:32:10",
@@ -47,22 +47,6 @@
     {
       "added_at": "2023-10-06 17:32:10",
       "album": {
-        "name": "Realms",
-        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        }
-      ],
-      "duration_ms": 156083,
-      "name": "Again",
-      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
-    },
-    {
-      "added_at": "2023-10-06 17:32:10",
-      "album": {
         "name": "Me & U",
         "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 192935,
       "name": "Me & U",
       "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+    },
+    {
+      "added_at": "2023-10-06 17:32:10",
+      "album": {
+        "name": "Realms",
+        "url": "https://open.spotify.com/album/0ZdiHNx2h4QTKwfF7fEM8j"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        }
+      ],
+      "duration_ms": 156083,
+      "name": "Again",
+      "url": "https://open.spotify.com/track/6qk3jI8bKCgURI3h0d8zBZ"
     },
     {
       "added_at": "2023-10-06 17:32:10",
@@ -323,6 +323,26 @@
     {
       "added_at": "2023-10-06 17:32:10",
       "album": {
+        "name": "Jaga Jaga (with Babyboy AV)",
+        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Jaga Jaga (with Babyboy AV)",
+      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
+    },
+    {
+      "added_at": "2023-10-06 17:32:10",
+      "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
@@ -375,26 +395,6 @@
     {
       "added_at": "2023-10-06 17:32:10",
       "album": {
-        "name": "Jaga Jaga (with Babyboy AV)",
-        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Jaga Jaga (with Babyboy AV)",
-      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
-    },
-    {
-      "added_at": "2023-10-06 17:32:10",
-      "album": {
         "name": "These Days",
         "url": "https://open.spotify.com/album/08qRQYikLvDOV16LBxcRTL"
       },
@@ -427,26 +427,6 @@
     {
       "added_at": "2023-10-06 17:32:10",
       "album": {
-        "name": "Trumpet",
-        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        },
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 188656,
-      "name": "Trumpet",
-      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
-    },
-    {
-      "added_at": "2023-10-06 17:32:10",
-      "album": {
         "name": "No Dey Form",
         "url": "https://open.spotify.com/album/019TDVSSWLHZtDiqJlSiLV"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 138034,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5"
+    },
+    {
+      "added_at": "2023-10-06 17:32:10",
+      "album": {
+        "name": "Trumpet",
+        "url": "https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        },
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 188656,
+      "name": "Trumpet",
+      "url": "https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv"
     },
     {
       "added_at": "2023-10-06 17:32:10",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-10-06 17:32:10",
       "album": {
-        "name": "For Days",
-        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
-      },
-      "artists": [
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 164557,
-      "name": "For Days",
-      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
-    },
-    {
-      "added_at": "2023-10-06 17:32:10",
-      "album": {
         "name": "Bad Boy Etiquette 101",
         "url": "https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 200412,
       "name": "In Love",
       "url": "https://open.spotify.com/track/78LJK1nCgnYprkhLK0JriD"
+    },
+    {
+      "added_at": "2023-10-06 17:32:10",
+      "album": {
+        "name": "For Days",
+        "url": "https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 164557,
+      "name": "For Days",
+      "url": "https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz"
     },
     {
       "added_at": "2023-10-06 17:32:10",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-10-06 17:32:10",
       "album": {
+        "name": "WITH YOU",
+        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 192475,
+      "name": "WITH YOU",
+      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
+    },
+    {
+      "added_at": "2023-10-06 17:32:10",
+      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 207473,
       "name": "FYN",
       "url": "https://open.spotify.com/track/0kmVNMFtYuiN3vjyxsyZZS"
-    },
-    {
-      "added_at": "2023-10-06 17:32:10",
-      "album": {
-        "name": "WITH YOU",
-        "url": "https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        }
-      ],
-      "duration_ms": 192475,
-      "name": "WITH YOU",
-      "url": "https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX"
     },
     {
       "added_at": "2023-10-06 17:32:10",

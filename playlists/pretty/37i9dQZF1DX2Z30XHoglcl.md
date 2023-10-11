@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z30XHoglcl.md) - [plain]
 
 > EDM's ever stable <a href="spotify:artist:0CbeG1224FS58EUx4tPevZ">Timmy Trumpet</a>  spins his favorite summer anthems in his most recent mix for Spotify.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,404 likes - 31 songs - 59 min 40 sec
+[Spotify](https://open.spotify.com/user/spotify) - 35,464 likes - 31 songs - 59 min 40 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dance Tonight \- Mixed](https://open.spotify.com/track/0MCAExnM6vujhDTnhVTbY2) | [Darren Styles](https://open.spotify.com/artist/2gZzTzeACSwFqkMroVxmnm), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Dance Tonight \(Mixed\)](https://open.spotify.com/album/5ynGfRiz96O1xfqVBloTgM) | 2:23 |
-| 2 | [Forever Alive \- Mixed](https://open.spotify.com/track/4u7T1AzhtXXA35RG6OtftV) | [Just\_\_\_\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Forever Alive \(Mixed\)](https://open.spotify.com/album/7GwERUmOO3YAowvvlwi3uC) | 1:12 |
+| 2 | [Forever Alive \- Mixed](https://open.spotify.com/track/4u7T1AzhtXXA35RG6OtftV) | [Just\_\_\_\_\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Forever Alive \(Mixed\)](https://open.spotify.com/album/7GwERUmOO3YAowvvlwi3uC) | 1:12 |
 | 3 | [Belly Dancer \- Mixed](https://open.spotify.com/track/3AkAtnwBQLtVWnIknB1q1L) | [BYOR](https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Belly Dancer \(Mixed\)](https://open.spotify.com/album/4GZiWw3UDXkjNRD7kYl9ul) | 1:30 |
 | 4 | [The Chant \(feat\. Savage\) \- Mixed](https://open.spotify.com/track/25nFmQOVuiRXW1U8JFlWIq) | [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf), [Restricted](https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [The Chant \(feat\. Savage\) \[Mixed\]](https://open.spotify.com/album/0f4DNJ4WaplcsuJl1nhzw9) | 2:32 |
 | 5 | [Super Gremlin \- David Guetta Trap House Mix \- Mixed](https://open.spotify.com/track/4GIqYjYvmTDCTXD9cS9g9L) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Super Gremlin \- David Guetta Trap House Mix \(Mixed\)](https://open.spotify.com/album/3NmMs1DD0WxKKLGIZfX69v) | 1:39 |
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z30XHoglcl.md) - [plain]
 | 30 | [How To Save A Life \(feat\. loafers & The High\) \- Mixed](https://open.spotify.com/track/6Vxl0NY9KCvN30s50X83xr) | [The High](https://open.spotify.com/artist/5mKNjpx3SmjNqtxQTmuo9Z), [loafers](https://open.spotify.com/artist/4O8EiXZbelscSDs7TgOXHc), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [How To Save A Life \(feat\. loafers & The High\) \[Mixed\]](https://open.spotify.com/album/3iAn5jK8e7Tg7smu7rj6VP) | 2:59 |
 | 31 | [The Elite \- Mixed](https://open.spotify.com/track/48dLS5Y0NsoT05MntuAoUJ) | [Hard Driver](https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl), [Da Tweekaz](https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6), [Coone](https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C) | [The Elite \(Mixed\)](https://open.spotify.com/album/3ppjh8vGJ7ypHcAEBY8WA5) | 1:56 |
 
-Snapshot ID: `MCwxNWE1ZTgyZTFkZWUzZDU3MWNiOWFlMmM0MjEzZTUxY2Y4NmM2YzQ4`
+Snapshot ID: `MCxlYmQ0NzRjMDdhYzE0ZGExMTEyMDU4ZmMxYmUwZTU2MWUzZGEzZjhk`

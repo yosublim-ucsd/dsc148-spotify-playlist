@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 
 > Les meilleurs Pop Hits Maghrébins sont ici\. Cover: Zouhair Bahaoui, Hind Ziadi
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,650 likes - 60 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,725 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,21 +12,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 2 | [MA DENBI](https://open.spotify.com/track/447567rKGG5x3ZGHcIp2Cm) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [MA DENBI](https://open.spotify.com/album/5JrL5ugsY0fkGmjeMlFnfh) | 3:11 |
 | 3 | [Hyati](https://open.spotify.com/track/1bsoYydWFNmocIOD2eeWI5) | [Duke](https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r) | [Hyati](https://open.spotify.com/album/4YwFCbGREEY27uNJ7nxTEN) | 2:35 |
 | 4 | [Ness Lil](https://open.spotify.com/track/07F2Rm83gNLKwiBi2ucRep) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Ness Lil](https://open.spotify.com/album/63EmbDWn9juvJwL4iqgmPx) | 3:24 |
-| 5 | [Beniya](https://open.spotify.com/track/0tqpU9lkMNcFXXAqKYyAof) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Beniya](https://open.spotify.com/album/29DCRNBzkwiHXiP5tU4cCl) | 3:59 |
-| 6 | [Mtitti](https://open.spotify.com/track/6k1nMH5vxZPIG6UFtlZqdV) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mtitti](https://open.spotify.com/album/2iNdSLozlzr9Q9HW8AHRNf) | 3:53 |
-| 7 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 |
-| 8 | [الحب صعيب](https://open.spotify.com/track/4bYW1TxbDO22wBTOIIMUwC) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [الحب صعيب](https://open.spotify.com/album/4W5cxfCoUq7Tym9sJ3qaBO) | 3:36 |
-| 9 | [مسرارة](https://open.spotify.com/track/1X2YrdeAORRcsgesqns9tO) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [مسرارة](https://open.spotify.com/album/49lMg7NFxghohrYO2FLldc) | 4:06 |
-| 10 | [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 |
-| 11 | [MARJANA](https://open.spotify.com/track/5lWQ5qYAy2pe11J3Ze7u9o) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MARJANA](https://open.spotify.com/album/4rOy8yQlICtPvNwZubYkh6) | 3:58 |
-| 12 | [Symphonia](https://open.spotify.com/track/0FMWWmtZ5PlOKuhtXVeaoD) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Symphonia](https://open.spotify.com/album/4QZfpbH0dWrsNxAXlB04m3) | 3:24 |
-| 13 | [Mchat Alik](https://open.spotify.com/track/2beWUWJ4hEgSLa3XYCEPdl) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Mchat Alik](https://open.spotify.com/album/4S2EP0CL35nPg3fij4y9gJ) | 3:24 |
-| 14 | [Sharara](https://open.spotify.com/track/5ZYEXWjn0u2W0r9KxjgOjJ) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI) | [Sharara](https://open.spotify.com/album/4g58khCt50ohrpG1G10fzR) | 2:41 |
-| 15 | [Jayeb Khbari](https://open.spotify.com/track/7g6MW822UoLSQCFrSXUZCI) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Jayeb Khbari](https://open.spotify.com/album/0RFcMf8UFXmaltJ8mk2oV6) | 3:08 |
-| 16 | [WAJAHNI](https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [WAJAHNI](https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV) | 3:26 |
-| 17 | [Cinema](https://open.spotify.com/track/6oCJXqoK6138TxpdB9PYmc) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Cinema](https://open.spotify.com/album/6qL0TJQDp0ifUlPHBjna94) | 2:39 |
-| 18 | [Habibi](https://open.spotify.com/track/24l2OcwxLfv2qmlD5oUfuf) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Habibi](https://open.spotify.com/album/3PM8U6jiewiRInoRFVmqrx) | 2:36 |
-| 19 | [Andak \- عنداك](https://open.spotify.com/track/55ImWS9DvTTw0j4enHTbBx) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Andak \(عنداك\)](https://open.spotify.com/album/5G7tHCfT95m6WYXtdpBQHM) | 2:46 |
+| 5 | [Mtitti](https://open.spotify.com/track/6k1nMH5vxZPIG6UFtlZqdV) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Mtitti](https://open.spotify.com/album/2iNdSLozlzr9Q9HW8AHRNf) | 3:53 |
+| 6 | [Mriyech](https://open.spotify.com/track/7735rwGeak348luaiQVRNE) | [Mehdi Fadili](https://open.spotify.com/artist/3fRwXTuOQctGeBiWD456cG) | [Mriyech](https://open.spotify.com/album/4eLxm3sq1QQ8y22wZi7n2H) | 3:28 |
+| 7 | [الحب صعيب](https://open.spotify.com/track/4bYW1TxbDO22wBTOIIMUwC) | [Douzi](https://open.spotify.com/artist/2elOTj4JyFOFPiZOcn4RNG) | [الحب صعيب](https://open.spotify.com/album/4W5cxfCoUq7Tym9sJ3qaBO) | 3:36 |
+| 8 | [مسرارة](https://open.spotify.com/track/1X2YrdeAORRcsgesqns9tO) | [Ta Ha](https://open.spotify.com/artist/63gB2Rrr0fOcwBa4zEspU4) | [مسرارة](https://open.spotify.com/album/49lMg7NFxghohrYO2FLldc) | 4:06 |
+| 9 | [Rmadi](https://open.spotify.com/track/0muYqG3zcO7STxOBSErQ7s) | [Muslim](https://open.spotify.com/artist/6eQdvOOIyiwu6kfzdbUnxU) | [Rmadi](https://open.spotify.com/album/0nRgtWj4KcY9ZMSWepds3P) | 3:48 |
+| 10 | [MARJANA](https://open.spotify.com/track/5lWQ5qYAy2pe11J3Ze7u9o) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [MARJANA](https://open.spotify.com/album/4rOy8yQlICtPvNwZubYkh6) | 3:58 |
+| 11 | [Mchat Alik](https://open.spotify.com/track/2beWUWJ4hEgSLa3XYCEPdl) | [Zaynab](https://open.spotify.com/artist/392PzXdHwMWrN2PArb8aJu) | [Mchat Alik](https://open.spotify.com/album/4S2EP0CL35nPg3fij4y9gJ) | 3:24 |
+| 12 | [Sharara](https://open.spotify.com/track/5ZYEXWjn0u2W0r9KxjgOjJ) | [Jamila](https://open.spotify.com/artist/7K0Se2JHfaWPp6OUS2gvgI) | [Sharara](https://open.spotify.com/album/4g58khCt50ohrpG1G10fzR) | 2:41 |
+| 13 | [Jayeb Khbari](https://open.spotify.com/track/7g6MW822UoLSQCFrSXUZCI) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc) | [Jayeb Khbari](https://open.spotify.com/album/0RFcMf8UFXmaltJ8mk2oV6) | 3:08 |
+| 14 | [Beniya](https://open.spotify.com/track/0tqpU9lkMNcFXXAqKYyAof) | [Leil](https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3) | [Beniya](https://open.spotify.com/album/29DCRNBzkwiHXiP5tU4cCl) | 3:59 |
+| 15 | [WAJAHNI](https://open.spotify.com/track/74ej9D4v1lsgepeEetuB0J) | [Hind Ziadi](https://open.spotify.com/artist/0jGwvpxtkFVxvk9XGunXuK) | [WAJAHNI](https://open.spotify.com/album/0sx8JWJDbiT3oUuusuU5ZV) | 3:26 |
+| 16 | [Cinema](https://open.spotify.com/track/6oCJXqoK6138TxpdB9PYmc) | [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Cinema](https://open.spotify.com/album/6qL0TJQDp0ifUlPHBjna94) | 2:39 |
+| 17 | [Habibi](https://open.spotify.com/track/24l2OcwxLfv2qmlD5oUfuf) | [Cravata](https://open.spotify.com/artist/2zWCw43oRZ74LlMb14JWVR) | [Habibi](https://open.spotify.com/album/3PM8U6jiewiRInoRFVmqrx) | 2:36 |
+| 18 | [Andak \- عنداك](https://open.spotify.com/track/55ImWS9DvTTw0j4enHTbBx) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Andak \(عنداك\)](https://open.spotify.com/album/5G7tHCfT95m6WYXtdpBQHM) | 2:46 |
+| 19 | [Symphonia](https://open.spotify.com/track/0FMWWmtZ5PlOKuhtXVeaoD) | [Abdeelgha4](https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv) | [Symphonia](https://open.spotify.com/album/4QZfpbH0dWrsNxAXlB04m3) | 3:24 |
 | 20 | [Gana \(feat\. Hatim Ammor\)](https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:12 |
 | 21 | [هذا حالي من بعدك](https://open.spotify.com/track/2JaUxUVwjygjUZdGrJqOTr) | [Asma Lmnawar](https://open.spotify.com/artist/3P3OCB20KqjdkpIP8fnTq3) | [هذا حالي من بعدك](https://open.spotify.com/album/0rwewNIHSFnDqe92fZq4Fo) | 3:10 |
 | 22 | [Wala Bghiti](https://open.spotify.com/track/6MrdoWkAdnnlyVCd2qdriE) | [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8), [Zina Daoudia](https://open.spotify.com/artist/7z6FZ4HMfpp3zHy5OFq93i) | [Wala Bghiti](https://open.spotify.com/album/5pEvTUwO8EC0f3rxubqbKC) | 3:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5KSzehSFkvg.md) - [plain]
 | 59 | [Jro7i \- Li Kanet Omri](https://open.spotify.com/track/3bZvwCGEHeoLXEyrbFjGUm) | [Rajaa Belmir](https://open.spotify.com/artist/6Ap4eCAS7mQixYK8mbbYAp) | [Jro7i \- Li Kanet Omri](https://open.spotify.com/album/1KRlyoERWrjrZXJ3sAxylo) | 3:39 |
 | 60 | [CHINWI](https://open.spotify.com/track/0KJjxv5b5sm0rJ3T1bdiVR) | [7\-Toun](https://open.spotify.com/artist/3IRAzpoLeNDGv7kqwNK3bp) | [BANDANA](https://open.spotify.com/album/24JV61zK3eDqPTNdcAnmK5) | 3:41 |
 
-Snapshot ID: `MCw3YTM0YmQwNzA0ZGM4ZGY1ODQ2NjE4MTcwODE0YjQzM2RkMGExZmQ1`
+Snapshot ID: `MCw3MDBmNDIxZmQyYzg0MGY2YWQwZmJhZmI2ZjNkZjNhYjQ1ZTY0N2Q4`

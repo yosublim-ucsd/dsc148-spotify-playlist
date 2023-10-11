@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 
 > A heavy collision of punk, hardcore and everything in between\. Cover: Knocked Loose
 
-[Spotify](https://open.spotify.com/user/spotify) - 467,042 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 467,070 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,12 +71,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 61 | [11 Minutes](https://open.spotify.com/track/3fU5UTgRMz50UEJGA7WJHa) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [11 Minutes](https://open.spotify.com/album/35BbA1D0ehsQOYWZCjcAsO) | 3:04 |
 | 62 | [Before I Cave In](https://open.spotify.com/track/6PB07jO0s8JMyAaQk8CH7q) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Before I Cave In](https://open.spotify.com/album/3NyafgxbBgTtR4nOSRelDr) | 4:20 |
 | 63 | [Evil Finds Light](https://open.spotify.com/track/51ktvRKdU2hi52Ra9Q8rFF) | [DRAIN](https://open.spotify.com/artist/7FAAkDlPg6pg0860CIDzmu) | [LIVING PROOF](https://open.spotify.com/album/035ul2Le143j2WBozMShrW) | 2:07 |
-| 64 | [Overthinking](https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Anon.](https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo) | 2:53 |
-| 65 | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dani Filth](https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK) | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/album/1uunFc8ZPthd7kFXaf393T) | 4:34 |
+| 64 | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/track/1kq5dLuzkRLgemasnkUg9G) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Dani Filth](https://open.spotify.com/artist/76qhZXwfMnhJPXacLwGcNK) | [wonderful life \(feat\. Dani Filth\)](https://open.spotify.com/album/1uunFc8ZPthd7kFXaf393T) | 4:34 |
+| 65 | [Overthinking](https://open.spotify.com/track/5D8BIY1mY2L1N0M66KiMfv) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT) | [Anon.](https://open.spotify.com/album/2qtLF5Z8OxMV919Knbi3oo) | 2:53 |
 | 66 | [Pray](https://open.spotify.com/track/1DuYS5IWAl7fk4sottVMyZ) | [Picturesque](https://open.spotify.com/artist/412BedlPBwXH6Dz6xetzGI) | [Pray](https://open.spotify.com/album/5Icvhj9ZzhnOkgrkhb67a1) | 3:44 |
-| 67 | [myfeelingshavefeelings](https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [wet milk](https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI) | 2:16 |
-| 68 | [satellites\* \*](https://open.spotify.com/track/4MJcimcruJ4GkDsmVaHR3V) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 3:46 |
-| 69 | [Stars Before The Sun](https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Restless Heart, Keep Running](https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ) | 3:27 |
+| 67 | [Stars Before The Sun](https://open.spotify.com/track/3tTtwKs8ZlE9fbSdMla9EM) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Restless Heart, Keep Running](https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ) | 3:27 |
+| 68 | [myfeelingshavefeelings](https://open.spotify.com/track/5gBQmRUJa29eBwgLMF4wTP) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [wet milk](https://open.spotify.com/album/63Tn8e7etpMuOX8h8ZChGI) | 2:16 |
+| 69 | [satellites\* \*](https://open.spotify.com/track/4MJcimcruJ4GkDsmVaHR3V) | [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Nothing is True & Everything is Possible](https://open.spotify.com/album/5RqRElQANHEUFyIWPt8FEp) | 3:46 |
 | 70 | [Domino](https://open.spotify.com/track/6rYBRpj2tKN3pTnrugVuZF) | [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [New Age Filth](https://open.spotify.com/album/5DGfTPWaXmfdiwlUOBzZdh) | 4:24 |
 | 71 | [Pick Me Up](https://open.spotify.com/track/0u6WZr90OXffdCGY6xer1r) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [I'm Hard To Love, But So Are You, Vol\. 4](https://open.spotify.com/album/3DyfZShpkj7K8kt1tt77mE) | 3:23 |
 | 72 | [Sick Day](https://open.spotify.com/track/5Ms33wMo1MxDuLHekXX9S9) | [Teen Mortgage](https://open.spotify.com/artist/4SX1RwkM82CQll2eoV9HaP) | [Sick Day](https://open.spotify.com/album/0XIVrYRLXzwTuGXZdEzVw6) | 2:03 |
@@ -90,9 +90,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 80 | [Were You Nervous?](https://open.spotify.com/track/0NbSknyxXKyeodt8udVDI0) | [Speech Patterns](https://open.spotify.com/artist/5dIfnkclImFkRSKrSVLt3e) | [Were You Nervous?](https://open.spotify.com/album/4QZSzjWjWwLVklcNmPuK5Q) | 3:28 |
 | 81 | [Wicked & Bad](https://open.spotify.com/track/5TIFTm6spva9cGIeJujqee) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Bob Vylan Presents The Price Of Life](https://open.spotify.com/album/4OF9eUiJhh9iUasNJnzC7m) | 2:30 |
 | 82 | [Feel It](https://open.spotify.com/track/2UoHSNo1rTOoSH5KBHYvFe) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 2:54 |
-| 83 | [Devastation](https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Devastation](https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU) | 3:41 |
-| 84 | [Empty Thoughts](https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [My Descend](https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6) | 3:32 |
-| 85 | [Signs](https://open.spotify.com/track/7v6YqvhuUAJXn08bOT9JBs) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Ghost Like You](https://open.spotify.com/album/5IHiJ6cpup8qShT8s3rUJG) | 4:28 |
+| 83 | [Signs](https://open.spotify.com/track/7v6YqvhuUAJXn08bOT9JBs) | [Caskets](https://open.spotify.com/artist/2XIbOWDT5vZPW7jNyzdfcK) | [Ghost Like You](https://open.spotify.com/album/5IHiJ6cpup8qShT8s3rUJG) | 4:28 |
+| 84 | [Devastation](https://open.spotify.com/track/7JlMigJUTnVlmXODusrtdF) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Devastation](https://open.spotify.com/album/770QyevFqrQduuJDRPtVHU) | 3:41 |
+| 85 | [Empty Thoughts](https://open.spotify.com/track/7fsSWnDC5MIaBqklTIXS2W) | [Glass Tides](https://open.spotify.com/artist/3ss8CCHIds5hKnQ9un3dU0) | [My Descend](https://open.spotify.com/album/55bPotsZFpNo5Oim20cuh6) | 3:32 |
 | 86 | [Tradition](https://open.spotify.com/track/6lrXcmmm0Rsg1K5FdkZE0U) | [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [The Love You Let Too Close](https://open.spotify.com/album/6hMVzepzCKSs0LRJ8KWjt3) | 3:22 |
 | 87 | [Our Song](https://open.spotify.com/track/4TbQTssne2OMNMureg9Qtt) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me](https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX) | 3:11 |
 | 88 | [Cold](https://open.spotify.com/track/4tKctEHsnF6EuQUeJDq1Ip) | [Bloom](https://open.spotify.com/artist/65kdSVYKtaef3P8EOCGWHl) | [Cold](https://open.spotify.com/album/5zTT2gcdsgm0RZbLd3gE0O) | 3:39 |
@@ -100,13 +100,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3YlUroplxjF.md) - [plain]
 | 90 | [Familiar Drugs](https://open.spotify.com/track/5s3bk38b50O6LfZRwV8ApE) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Familiar Drugs](https://open.spotify.com/album/6Cvt8vsgpxQ5DRG0nqW25B) | 4:18 |
 | 91 | [No One's Listening](https://open.spotify.com/track/0WWL5rECF9ILJQBwM7nCuZ) | [Point North](https://open.spotify.com/artist/5Vp7LqcfAtx2U1RfIX8i7r) | [Brand New Vision](https://open.spotify.com/album/33c3LDySpfYMOEwfu1eUU1) | 2:50 |
 | 92 | [We’ll Always Have Paris](https://open.spotify.com/track/7vzYqUrCAoWmkFdJrhCzMg) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE) | [Restless Heart, Keep Running](https://open.spotify.com/album/6pvjitW060jLuW2TCLreMJ) | 3:47 |
-| 93 | [Messed Up](https://open.spotify.com/track/6VyVscmvqF2DvH94Yx8KCd) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease \(Deluxe Edition\)](https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8) | 3:05 |
-| 94 | [Afterlife \- Single Edit](https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Afterlife](https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi) | 3:46 |
+| 93 | [Afterlife \- Single Edit](https://open.spotify.com/track/5EP4iTqknNPDQsbXrc6Ab3) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Afterlife](https://open.spotify.com/album/41aWOCOKzixf8tmnc79Wdi) | 3:46 |
+| 94 | [Messed Up](https://open.spotify.com/track/6VyVscmvqF2DvH94Yx8KCd) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Disease \(Deluxe Edition\)](https://open.spotify.com/album/0W1v4PxSlD1gMIbUlejqr8) | 3:05 |
 | 95 | [Shh!](https://open.spotify.com/track/410Kdc2Io4pknK9gBRCe4z) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [Pink Elephant](https://open.spotify.com/album/7mSFPsjZjTx8K1UmtDSQPu) | 2:38 |
 | 96 | [Brick Wall](https://open.spotify.com/track/7wU0SnptDXFEwyQbrSiSLF) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Brick Wall](https://open.spotify.com/album/4r9I2tBybOiKUqPkoKvPOA) | 3:30 |
 | 97 | [Bankrupt](https://open.spotify.com/track/5yUG0jhJLyYeWlpjG9AcZ1) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Misery Made Me](https://open.spotify.com/album/3Dc0NWGnXDqRsf4sjV8JpX) | 3:21 |
-| 98 | [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 |
-| 99 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 |
-| 100 | [Distance](https://open.spotify.com/track/0wb8L0gFCKBnPHeG8Aw9OX) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Distance](https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA) | 2:59 |
+| 98 | [Distance](https://open.spotify.com/track/0wb8L0gFCKBnPHeG8Aw9OX) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Distance](https://open.spotify.com/album/5SyXDNKtQTzNiJ2aDQBPKA) | 2:59 |
+| 99 | [Stand Up](https://open.spotify.com/track/5UbS0IXeN6JCXFfFrAvBF0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Stand Up](https://open.spotify.com/album/7A65ASxK8FMdNEFMQvRKG5) | 3:48 |
+| 100 | [Sweet Dreams of Otherness](https://open.spotify.com/track/02AtE63KsG9iYLaznzv2aM) | [Alexisonfire](https://open.spotify.com/artist/53RsXctnNmj9oKXvcbvzI2) | [Sweet Dreams of Otherness](https://open.spotify.com/album/5z9liNsv9Mnuhj7HSNWv1g) | 4:44 |
 
-Snapshot ID: `MCxhY2VmNzQ5MjllMjQ5YzM3ZGQyOWNmNDQ2M2U3YjA0MjQ1NDhhM2E5`
+Snapshot ID: `MCxmMGFiM2UwNDhhMTczNmY2ZDQ0Njk3MzgyZjI4ZjEwMmY0Yjc4YzBm`

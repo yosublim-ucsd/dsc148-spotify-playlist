@@ -348,7 +348,7 @@
       ],
       "date_added": "2023-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 158620,
       "name": "BALL LIKE ME TOO",
       "url": "https://open.spotify.com/track/2niJk9HZuWEBGPuR1aGYjy"
@@ -756,6 +756,32 @@
       "duration_ms": 112560,
       "name": "Everybody Shooters Too",
       "url": "https://open.spotify.com/track/6QHlEUJAtLzAtb1ZmhSamg"
+    },
+    {
+      "album": {
+        "name": "Gangsta Art 2",
+        "url": "https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA"
+      },
+      "artists": [
+        {
+          "name": "Yo Gotti",
+          "url": "https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq"
+        },
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "CMG The Label",
+          "url": "https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164856,
+      "name": "Fa Fa Fa (Yo Gotti, EST Gee)",
+      "url": "https://open.spotify.com/track/0lXARimmFyRbhQsv0is6Ju"
     },
     {
       "album": {

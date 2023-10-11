@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Egypt.
 
-710 songs - 1 day 17 hr 9 min
+711 songs - 1 day 17 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -469,7 +469,7 @@
 | [Ser Alsada \( Mountain View\)](https://open.spotify.com/track/1b4eTrznDOiLZX2oWisl2m) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Ser Alsada \( Mountain View\)](https://open.spotify.com/album/7ihocihukbewYHZZBzfk8c) | 3:50 | 2021-05-14 | 2023-03-26 |
 | [Set Me Free Pt.2](https://open.spotify.com/track/59hBR0BCtJsfIbV9VzCVAp) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [Set Me Free Pt.2](https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz) | 3:20 | 2023-03-18 | 2023-03-28 |
 | [Setto Ana](https://open.spotify.com/track/1BVNW6ruCHYS7nHhLIGtLF) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ayten Amer](https://open.spotify.com/artist/3bUeg0maVIE0EnHJcsfyZE) | [Setto Ana](https://open.spotify.com/album/49n9NvltTck1iJAWiqstbM) | 2:21 | 2022-04-09 | 2022-04-29 |
-| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-15 |  |
+| [Seven \(feat\. Latto\) \(Explicit Ver.\)](https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Seven \(feat\. Latto\)](https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX) | 3:04 | 2023-07-15 | 2023-10-11 |
 | [Sham3 3id El Milad](https://open.spotify.com/track/0kcmuRtga0TXoKTOcfLRXr) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc) | [Sham3 3id El Milad](https://open.spotify.com/album/2ubz2Ex7oXN1nch00vvyKN) | 2:14 | 2021-04-01 | 2021-04-09 |
 | [Shei2 Ghayrek](https://open.spotify.com/track/4YPA0Hn3l89uUXltOcu4vK) | [Ahmed Kamel](https://open.spotify.com/artist/41g2nSmocqVLuYnmndxefu) | [Baad Montasaf Al Leil](https://open.spotify.com/album/1Ssez3FFutWFtAvENJ3WDH) | 4:03 | 2023-02-18 | 2023-02-22 |
 | [Shitan](https://open.spotify.com/track/688F82dCi3uY3SjSgxb6nK) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO) | [Ras Shitan](https://open.spotify.com/album/5xs1hPBH7vjLHf8UY7TxDY) | 2:38 | 2022-07-07 | 2022-07-12 |
@@ -705,6 +705,7 @@
 | [نص سيطو مني \( احنا صحاب بلادنا \)](https://open.spotify.com/track/7FhwM9XJeuVHbmpOcuZxxs) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [نص سيطو مني \( احنا صحاب بلدنا \)](https://open.spotify.com/album/1HQLxlzb8omGEwF5CreomA) | 3:04 | 2023-06-18 |  |
 | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/track/3Ab2U2Yvs9kM0IuXxC1HmT) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هدي في قلبك طلقه \( لو عوزت تكلمني \)](https://open.spotify.com/album/4UuC0L72EoVpiUo02fjolL) | 4:44 | 2022-11-04 | 2023-02-02 |
 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة \(من فيلم تاج\)](https://open.spotify.com/album/6uXSbOjm2YQbn1JfUMuig1) | 2:47 | 2023-06-30 | 2023-08-31 |
+| [و افتكرت](https://open.spotify.com/track/2ZYxLGcohgsKpor8pGMc0o) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [ناويها](https://open.spotify.com/album/1I8Klnu5XE2py8zIsz842u) | 4:13 | 2023-10-10 |  |
 | [واحد وعشرين](https://open.spotify.com/track/57a5ISfPIQodpJBCJyjiEz) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [واحد وعشرين](https://open.spotify.com/album/5RvNtdJQJpueJce6nDvspM) | 3:51 | 2022-04-05 | 2022-06-09 |
 | [واحد وعشرين](https://open.spotify.com/track/7pBr36brGBNxCk3JahhyHb) | [Wegz](https://open.spotify.com/artist/4BKC2HOGEqtYz2Xbgp9N1q) | [واحد وعشرين](https://open.spotify.com/album/4tBtjfCFQGr1K87yACxkJZ) | 3:51 | 2021-03-27\* | 2022-04-06 |
 | [واحدة من مليون](https://open.spotify.com/track/1TdfNHr3Njy9Bmn5aMAOdr) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [عقد احتراف](https://open.spotify.com/album/34cUR6XjHpwHswwPq7R9v1) | 3:54 | 2022-06-19 | 2022-07-23 |

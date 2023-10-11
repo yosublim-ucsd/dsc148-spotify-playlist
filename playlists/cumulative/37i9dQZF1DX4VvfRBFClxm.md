@@ -4,7 +4,7 @@
 
 > A mix of soulful, folksy, and beloved singer\-songwriter acoustic gems\. Cover: Ed Sheeran
 
-351 songs - 21 hr 1 min
+352 songs - 21 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,6 +170,7 @@
 | [King \- Acoustic](https://open.spotify.com/track/1zZDoGaxzbO2f8aqLY1WBk) | [Years & Years](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Communion \(Deluxe\)](https://open.spotify.com/album/50jDQcZjE2kdx5rn3AL0c8) | 4:03 | 2022-03-25 | 2022-04-20 |
 | [Last Time \- Live At RAK](https://open.spotify.com/track/6yJQDasgfRQtIAQ7ZHbuDY) | [Liv Dawson](https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7) | [Last Time \(Live At RAK\)](https://open.spotify.com/album/18sXU8bUjd3YYTRbfKPTtK) | 3:22 | 2021-10-13 | 2022-01-07 |
 | [Latch \- Acoustic](https://open.spotify.com/track/44jGrgXzD1p1jCLTHrveg8) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Nirvana EP](https://open.spotify.com/album/5gPBPIX3VHPLVZkvGpvzKY) | 3:41 | 2022-03-25 | 2022-04-19 |
+| [Latch \- Acoustic](https://open.spotify.com/track/1dOQwrGmaSWotCvZwD9CK3) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 3:43 | 2023-09-01 |  |
 | [Latch \- Acoustic](https://open.spotify.com/track/5vUNRJsvEOUsz4sbKkJpFr) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:43 | 2022-07-22 | 2023-10-04 |
 | [Lay It on Me \- Acoustic](https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Lay It on Me \(Acoustic\)](https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7) | 3:21 | 2022-03-25 | 2022-04-20 |
 | [Lego House](https://open.spotify.com/track/3PEb2ARloVhBrffWcS8hyy) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lego House \- Single](https://open.spotify.com/album/66ea8tadxoqqcT2Ad5ynRR) | 3:31 | 2021-10-13 | 2022-07-29 |
@@ -221,7 +222,7 @@
 | [Not Enough Drugs \(Acoustic\)](https://open.spotify.com/track/4JWgRSFQqIQFFase45s6Ho) | [Curtis Peoples](https://open.spotify.com/artist/7LfBHu0AWzbnRsqkMtypBG), [Marié Digby](https://open.spotify.com/artist/2XMxHczWkSzDDFhiC3zt8k) | [Not Enough Drugs \(Acoustic\)](https://open.spotify.com/album/0XcgfWRJfCjo1OnVi2paW1) | 3:46 | 2021-10-13 | 2022-01-01 |
 | [Nothing Arrived \- Live from Spotify London](https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [Spotify Sessions](https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W) | 3:39 | 2021-10-13 |  |
 | [O Me O My](https://open.spotify.com/track/1rTdlRuVou2Bb1SRPzIShJ) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [O Me O My](https://open.spotify.com/album/6CWVXl49SWXE5e2YKMgcy7) | 2:52 | 2022-03-25 | 2022-04-21 |
-| [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 | 2023-09-01 |  |
+| [O Me O My](https://open.spotify.com/track/6GXbpne1EKdVlYhFazWFs4) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [New Magic](https://open.spotify.com/album/6wYeJwJU9Y4fuLQVfGyJk9) | 2:52 | 2023-09-01 | 2023-10-11 |
 | [Ocean \- Stripped Acoustic](https://open.spotify.com/track/77o0diCQA70xYZnOey5OeD) | [Andreas Moe](https://open.spotify.com/artist/5kW2ng5av985BfqrOMRpk0) | [Ocean](https://open.spotify.com/album/1iRpLcqQNCdKWN4zfqFn9L) | 2:37 | 2021-10-13 | 2022-06-18 |
 | [Ol' Sweet Day](https://open.spotify.com/track/5FJGb4bs2Y4BbiX59zXksH) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [We Made It Through the Wreckage](https://open.spotify.com/album/24DUTosxSiZ6X1h1jMMmKX) | 2:58 | 2021-10-13 | 2022-06-25 |
 | [Old Friends](https://open.spotify.com/track/1DYWwl31lmXa33zEtJ4bMt) | [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [Old Friends](https://open.spotify.com/album/2zpHfAiut6wqmWNS3McrxI) | 3:33 | 2022-03-25 | 2022-04-21 |

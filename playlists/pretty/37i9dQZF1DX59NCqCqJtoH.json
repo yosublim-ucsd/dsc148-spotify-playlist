@@ -1,12 +1,12 @@
 {
   "description": "we hear you.",
-  "num_followers": 1164933,
+  "num_followers": 1165200,
   "original_name": "idk.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODNlZTE0MGQ4Yjk0MzhlNjI2NjA3OGM4M2I2ODVlYWM3OGY1M2U4",
+  "snapshot_id": "MCxhN2RhOTJiMGFmOTQ2ZjQ2ZTUwZmM5ODc3MDk5OGY1N2IwNzZhZGNi",
   "tracks": [
     {
       "added_at": "2023-09-29 20:20:52",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
+        "name": "No Surprises",
+        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
+      },
+      "artists": [
+        {
+          "name": "Juliana Chahayed",
+          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
+        }
+      ],
+      "duration_ms": 120961,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
         "name": "I'm Not Enough and I'm Sorry",
         "url": "https://open.spotify.com/album/6Ytf20PGSKpvTLBqlZas1l"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 120035,
       "name": "I'm Not Enough and I'm Sorry",
       "url": "https://open.spotify.com/track/7DMMYxniMtUtiyAgjUVHCD"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
-        "name": "No Surprises",
-        "url": "https://open.spotify.com/album/4Ff20g63ORgfY7NBeiv86V"
-      },
-      "artists": [
-        {
-          "name": "Juliana Chahayed",
-          "url": "https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR"
-        }
-      ],
-      "duration_ms": 120961,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/62aaJpv0hPmj7HMc21zKwW"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up"
-      },
-      "artists": [
-        {
-          "name": "Laica",
-          "url": "https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ"
-        }
-      ],
-      "duration_ms": 211746,
-      "name": "Close to Me",
-      "url": "https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Sonder (2023)",
         "url": "https://open.spotify.com/album/0uEpKcZU1hGooddCjct4j2"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 133866,
       "name": "Any Love",
       "url": "https://open.spotify.com/track/3x9uA9T40z2W6x0qG41Uqe"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/0R2eIVnmPN3dXRj77Gb4Up"
+      },
+      "artists": [
+        {
+          "name": "Laica",
+          "url": "https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ"
+        }
+      ],
+      "duration_ms": 211746,
+      "name": "Close to Me",
+      "url": "https://open.spotify.com/track/4jPr49jXRJHftXlwTEA2w4"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -783,22 +783,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Grey Lines",
-        "url": "https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj"
-      },
-      "artists": [
-        {
-          "name": "Austin George",
-          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Grey Lines",
-      "url": "https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Worn Out Heart",
         "url": "https://open.spotify.com/album/4LzEBzni6lrIqW37VP1Z6g"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 142588,
       "name": "I Need U",
       "url": "https://open.spotify.com/track/6tmZRSTEAW90RI8nXsly1f"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Grey Lines",
+        "url": "https://open.spotify.com/album/60UeVI6qh6PRnTYf4uqtzj"
+      },
+      "artists": [
+        {
+          "name": "Austin George",
+          "url": "https://open.spotify.com/artist/5SVHLhz1Vv5m4xmkT4Pk6D"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Grey Lines",
+      "url": "https://open.spotify.com/track/1cyGXol3yjiLI6UXpkI1xk"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Unpeeled",
-        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
-      },
-      "artists": [
-        {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
-        }
-      ],
-      "duration_ms": 280213,
-      "name": "Right Before My Eyes - Unpeeled",
-      "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Tell Me About You (feat. Mishaal)",
         "url": "https://open.spotify.com/album/5VxArOD8Qs6kmKR04wIshn"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 194400,
       "name": "Tell Me About You (feat. Mishaal)",
       "url": "https://open.spotify.com/track/1haZCYSR61JHOAivPNOuQH"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Unpeeled",
+        "url": "https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7"
+      },
+      "artists": [
+        {
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+        }
+      ],
+      "duration_ms": 280213,
+      "name": "Right Before My Eyes - Unpeeled",
+      "url": "https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "hortel\u00e3",
-        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
-      },
-      "artists": [
-        {
-          "name": "MARO",
-          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
-        }
-      ],
-      "duration_ms": 289058,
-      "name": "just wanna forget you",
-      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "willow",
         "url": "https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 212119,
       "name": "willow",
       "url": "https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "hortel\u00e3",
+        "url": "https://open.spotify.com/album/3oMdmDwmhLfCrP2Tmvg6DU"
+      },
+      "artists": [
+        {
+          "name": "MARO",
+          "url": "https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn"
+        }
+      ],
+      "duration_ms": 289058,
+      "name": "just wanna forget you",
+      "url": "https://open.spotify.com/track/67sznBMSDKrj1zeFFNCQHo"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Hey u x",
-        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
-      },
-      "artists": [
-        {
-          "name": "BENEE",
-          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
-        }
-      ],
-      "duration_ms": 231700,
-      "name": "Happen To Me",
-      "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "songs written for piano",
         "url": "https://open.spotify.com/album/4b3sAKmiYUPq7OCe7JEX4O"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 147853,
       "name": "white lies",
       "url": "https://open.spotify.com/track/3twtKmTjKfNjavNLZg5jLH"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Hey u x",
+        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
+      },
+      "artists": [
+        {
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        }
+      ],
+      "duration_ms": 231700,
+      "name": "Happen To Me",
+      "url": "https://open.spotify.com/track/4Kjo34blxmLG5HNUKEvHRM"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Emotionless",
-        "url": "https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl"
-      },
-      "artists": [
-        {
-          "name": "Crisaunt",
-          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
-        }
-      ],
-      "duration_ms": 148401,
-      "name": "Emotionless",
-      "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "the way we used to love.",
         "url": "https://open.spotify.com/album/5TpuZa5jlD6Jf3Kf6qglHo"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 225600,
       "name": "disappear",
       "url": "https://open.spotify.com/track/5YVuTCLDxjS8pORppZhNsf"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Emotionless",
+        "url": "https://open.spotify.com/album/1kYZYrM6n5Io70OGadcoxl"
+      },
+      "artists": [
+        {
+          "name": "Crisaunt",
+          "url": "https://open.spotify.com/artist/0cuIIYEWDS7V1iBl65NtL6"
+        }
+      ],
+      "duration_ms": 148401,
+      "name": "Emotionless",
+      "url": "https://open.spotify.com/track/4WhpjIKKkQlFmbsYQIuJxO"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "i care so much that i dont care at all",
-        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
-      },
-      "artists": [
-        {
-          "name": "glaive",
-          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
-        }
-      ],
-      "duration_ms": 189052,
-      "name": "2005 barbie doll",
-      "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
-    },
-    {
-      "added_at": "2023-09-29 20:20:52",
-      "album": {
         "name": "Meant to Be",
         "url": "https://open.spotify.com/album/2htrQFSW4pVKkBtrTVbBbx"
       },
@@ -1623,18 +1607,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Cruel",
-        "url": "https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F"
+        "name": "i care so much that i dont care at all",
+        "url": "https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC"
       },
       "artists": [
         {
-          "name": "Hojean",
-          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
+          "name": "glaive",
+          "url": "https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565"
         }
       ],
-      "duration_ms": 186686,
-      "name": "Cruel",
-      "url": "https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5"
+      "duration_ms": 189052,
+      "name": "2005 barbie doll",
+      "url": "https://open.spotify.com/track/5eSuJiqfipF2q0x9jyW59c"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1655,18 +1639,18 @@
     {
       "added_at": "2023-09-29 20:20:52",
       "album": {
-        "name": "Maya",
-        "url": "https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr"
+        "name": "Cruel",
+        "url": "https://open.spotify.com/album/62ft4e9TqvJRNaUt9QYk2F"
       },
       "artists": [
         {
-          "name": "Tobias Dray",
-          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
+          "name": "Hojean",
+          "url": "https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w"
         }
       ],
-      "duration_ms": 207955,
-      "name": "Maya",
-      "url": "https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu"
+      "duration_ms": 186686,
+      "name": "Cruel",
+      "url": "https://open.spotify.com/track/6uJdUARnEctC9X4nrbaNP5"
     },
     {
       "added_at": "2023-09-29 20:20:52",
@@ -1683,6 +1667,22 @@
       "duration_ms": 213720,
       "name": "howling",
       "url": "https://open.spotify.com/track/566yEfNfBoojymRCZRbkxU"
+    },
+    {
+      "added_at": "2023-09-29 20:20:52",
+      "album": {
+        "name": "Maya",
+        "url": "https://open.spotify.com/album/3L9E8GtsdPSOIyqISsq3Qr"
+      },
+      "artists": [
+        {
+          "name": "Tobias Dray",
+          "url": "https://open.spotify.com/artist/52X0HmQRQ8oRiq0pSEmJ9W"
+        }
+      ],
+      "duration_ms": 207955,
+      "name": "Maya",
+      "url": "https://open.spotify.com/track/59cZhvYZEcKLrYwxCN7ovu"
     }
   ],
   "unique_name": "idk.",

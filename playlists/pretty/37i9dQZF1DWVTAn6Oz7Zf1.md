@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 
 > In cerca di energie? Prova con la nostra playlist!
 
-[Spotify](https://open.spotify.com/user/spotify) - 238 likes - 80 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 256 likes - 80 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 | 39 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 |
 | 40 | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/track/11TSwkrxQ7HEOhM8nvzhpj) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [10 Out Of 10 \(feat\. Kylie Minogue\)](https://open.spotify.com/album/58sL2tSx8ZOGPYZQAUNBA0) | 2:50 |
 | 41 | [Love Again \- Imanbek Remix](https://open.spotify.com/track/0zg8u9UUlvwSvBJYEjhgDT) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [Love Again \(Imanbek Remix\)](https://open.spotify.com/album/1P0qTV2aAW913jN2rDjnl7) | 3:34 |
-| 42 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 |
-| 43 | [Chain My Heart](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chain My Heart](https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD) | 2:26 |
+| 42 | [Chain My Heart](https://open.spotify.com/track/67lbzVADsqJJ6tyVk0XCgn) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chain My Heart](https://open.spotify.com/album/2b9wwxzrv65ARnSiX1T9zD) | 2:26 |
+| 43 | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/track/5MnmuLgPmsAFkmG5n85cna) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Better \(feat\. Teddy Swims\)](https://open.spotify.com/album/0sZCthcwNebNdmwpXXmMKI) | 3:02 |
 | 44 | [Hurricane](https://open.spotify.com/track/0iVkWge9ytV4Scgy2hQ2za) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Hurricane](https://open.spotify.com/album/06J9dABYtcM4blnT4cIpsS) | 2:27 |
 | 45 | [Waterfall](https://open.spotify.com/track/3X2Aw6bQ7TfMMKsTzjTlDg) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Waterfall](https://open.spotify.com/album/2GDxorOmiV0k1LnoAoiTIi) | 3:52 |
 | 46 | [Peru \- R3HAB Remix](https://open.spotify.com/track/3kv0lHXKrW8oltTe7fYbBq) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Peru \(R3HAB Remix\)](https://open.spotify.com/album/4aJ4phZnjQ1LQC8erkLOi4) | 2:29 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTAn6Oz7Zf1.md) - [plain]
 | 79 | [Hungry \(For Love\)](https://open.spotify.com/track/4Uz7te06snSlkmcIwwAvkw) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Hungry \(For Love\)](https://open.spotify.com/album/2VhVESPvETnPjoM9XOoeRA) | 2:09 |
 | 80 | [Crazy Love](https://open.spotify.com/track/6jQXpMHQNaGGFE03wRDiUM) | [Toby Romeo](https://open.spotify.com/artist/2XnY6NZ6rENbLMYabjkRey), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Crazy Love](https://open.spotify.com/album/0nFUcnT6Kdx9BWoM3RKAxh) | 3:06 |
 
-Snapshot ID: `MCxhMjVlMDU5NmRkMTIxNjk4OTQ3MmJlYzZkYmQwZDg2OGMxZjk3NjA3`
+Snapshot ID: `MCwwY2JmMGE3YThiMzI1YjEzMWU2YmE4OWZkZTQ3Y2E0MjVmZDM2Y2E4`

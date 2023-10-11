@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 
 > Electronic music with caffeine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,080 likes - 160 songs - 7 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,136 likes - 160 songs - 7 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uaml3UXYLk.md) - [plain]
 | 159 | [Together Forever](https://open.spotify.com/track/3zfzHaKtAAey6JIzkDZZwS) | [Alba Petersen](https://open.spotify.com/artist/7iAYNShn0GIFTAUqxabBWb) | [Together Forever](https://open.spotify.com/album/3wRz3weljJwo7QnC9CK0Cy) | 2:12 |
 | 160 | [Beach & Towel](https://open.spotify.com/track/0S2WwkBNYpiXWssKc6Nwrf) | [Superbandy](https://open.spotify.com/artist/3QldRhGT9NdS8ehqa6g40b) | [Beach & Towel](https://open.spotify.com/album/19IWLkyd4dr67RCRMbIyGG) | 2:40 |
 
-Snapshot ID: `MCw1ZTM2OTc1OWM5YzY0ODE0MGI5MjMyNTA5OWIzM2IyMTgwOTFiMzM0`
+Snapshot ID: `MCxiN2Q5Y2MwOWNmNWY5M2UzZmQ4NmQ4M2YzNzAwNzc1NGFlMmE4ODMw`

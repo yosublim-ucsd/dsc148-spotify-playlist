@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,422 likes - 85 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,433 likes - 85 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 12 | [Mama](https://open.spotify.com/track/4qrbq2Cnq8Ns2cTcxYojge) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Here's A Blessing For You](https://open.spotify.com/album/4XrUwhhwqU5RrQG7alP4qi) | 3:04 |
 | 13 | [Tell Your Heart To Beat Again](https://open.spotify.com/track/4F6KXBE38OBGPZsryUih1x) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Hope In Front of Me](https://open.spotify.com/album/0Bn0aAb7sjp09j9fgqNjCM) | 3:53 |
 | 14 | [Lead Me](https://open.spotify.com/track/7iuU9NU6rhcWNYJ1KjylTO) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Pieces Of A Real Heart](https://open.spotify.com/album/5U37znh7JU30xL3JHFLHAz) | 3:48 |
-| 15 | [Praise You In This Storm](https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:57 |
-| 16 | [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 |
+| 15 | [Counting Every Blessing](https://open.spotify.com/track/0lATXmstYwzQjOLgkzvnEc) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [Good News \(Deluxe Edition\)](https://open.spotify.com/album/1do9XXkq2SLwDV7vsEjtjg) | 5:02 |
+| 16 | [Praise You In This Storm](https://open.spotify.com/track/4Zyf0pjpdBBIfp4oax9PG5) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Lifesong](https://open.spotify.com/album/2v95tknJRY8fBHvaNHm6Fc) | 4:57 |
 | 17 | [Keep Me In The Moment \- Radio Version](https://open.spotify.com/track/2c87x3mBYuffK4ihylVwAG) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [Keep Me In The Moment \(Radio Version\)](https://open.spotify.com/album/3oqTEcAfMzfN861Fearp4G) | 3:27 |
 | 18 | [Look Up Child](https://open.spotify.com/track/3UUPQ4sAtAVnkcaSr06NBi) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:03 |
 | 19 | [Control \(Somehow You Want Me\)](https://open.spotify.com/track/0pAPFaE1Iwfvex9EVJuQlG) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [Followers](https://open.spotify.com/album/4Hjjqd2cPyD9K8TbSC9O6C) | 4:08 |
@@ -86,12 +86,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 76 | [Mamma's Kitchen](https://open.spotify.com/track/17toD0xlCUdWdn4B47uvr5) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Purified](https://open.spotify.com/album/6FfAauX1EP2zHgPoOnwWZ8) | 3:05 |
 | 77 | [Infinite Love](https://open.spotify.com/track/7nSi8zg7M36sQ8X65CG1q4) | [Orlando Vick](https://open.spotify.com/artist/3MZY2J55U6iYpPB5A7BCyE) | [Infinite Love](https://open.spotify.com/album/5xY3XsSsbDpF5UBQzgGTWu) | 3:43 |
 | 78 | [Mama](https://open.spotify.com/track/4TsPRvWfCbbaGq3nDMfaux) | [Lamboginny](https://open.spotify.com/artist/4KK2BzTIojD7LTz9ndsVGF) | [Mama](https://open.spotify.com/album/4UIzTVq2CaK61HXnoccPj5) | 2:38 |
-| 79 | [Mother's Day](https://open.spotify.com/track/3ZpuWtuKqvssoyMeSc4i3M) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [100 Proof](https://open.spotify.com/album/4r4cqfO40mFUgVCnoeuE7e) | 3:40 |
-| 80 | [Little Boy On His Knees AKA Cameron's Song](https://open.spotify.com/track/6Hczkb1UlY1QfS0aO8nqTN) | [Cheri Keaggy](https://open.spotify.com/artist/0TJpmZw9iFR95HEsRxcvzL) | [Child Of The Father](https://open.spotify.com/album/6yePsevSZkLJtIxLUAQVJG) | 3:36 |
+| 79 | [Little Boy On His Knees AKA Cameron's Song](https://open.spotify.com/track/6Hczkb1UlY1QfS0aO8nqTN) | [Cheri Keaggy](https://open.spotify.com/artist/0TJpmZw9iFR95HEsRxcvzL) | [Child Of The Father](https://open.spotify.com/album/6yePsevSZkLJtIxLUAQVJG) | 3:36 |
+| 80 | [Mother's Day](https://open.spotify.com/track/3ZpuWtuKqvssoyMeSc4i3M) | [Kellie Pickler](https://open.spotify.com/artist/021hNAnkFIbyFyL97br6NB) | [100 Proof](https://open.spotify.com/album/4r4cqfO40mFUgVCnoeuE7e) | 3:40 |
 | 81 | [Like A Child With Its Mother \(Psalm 131\)](https://open.spotify.com/track/0pugZgr6RTCvVQcyGhAPDt) | [Caroline Cobb](https://open.spotify.com/artist/1qjWvtEJlR1dAEAL4A3IOM), [Jess Ray](https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3) | [Like A Child With Its Mother \(Psalm 131\) / Have Mercy \(Psalm 51\)](https://open.spotify.com/album/2B8NQDsqq1Pp4VknY7zvq1) | 4:21 |
-| 82 | [Mama \(Sentimental\)](https://open.spotify.com/track/4G9s3pYrx3TgnHZa92dVON) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Mama \(Sentimental\)](https://open.spotify.com/album/57ybSKXLHW8E6Ioo96OMKM) | 3:26 |
-| 83 | [One Heartbeat At A Time](https://open.spotify.com/track/26nITVQTFc1HtJZt5B1DMe) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [This Moment](https://open.spotify.com/album/0D5Xb7LlTG0qQjdtKv92LM) | 4:04 |
+| 82 | [One Heartbeat At A Time](https://open.spotify.com/track/26nITVQTFc1HtJZt5B1DMe) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [This Moment](https://open.spotify.com/album/0D5Xb7LlTG0qQjdtKv92LM) | 4:04 |
+| 83 | [Mama \(Sentimental\)](https://open.spotify.com/track/4G9s3pYrx3TgnHZa92dVON) | [Dawson Hollow](https://open.spotify.com/artist/4BgqG2TR5C45CxBXtuXJ3R) | [Mama \(Sentimental\)](https://open.spotify.com/album/57ybSKXLHW8E6Ioo96OMKM) | 3:26 |
 | 84 | [After The Fire](https://open.spotify.com/track/4Gqx9729vziD22mSmqAewG) | [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Simple Things](https://open.spotify.com/album/0hx7o90RXZZtJ6MS5nvxjF) | 3:21 |
 | 85 | [O God Our Mother](https://open.spotify.com/track/1CFsZ1rppH7wb9tJ6BW3Wm) | [Samantha McCabe](https://open.spotify.com/artist/7jEdW0KbQk4baXIdRNHArL) | [O God Our Mother](https://open.spotify.com/album/0QRDfO8uH9FiyoETaU4Vda) | 3:41 |
 
-Snapshot ID: `MCw5ODE0Njc2ZjQxNjJkMzlmYjE3YmU2OTExYjNjYjQ5YzBlOGRlYTk3`
+Snapshot ID: `MCwxOTc4NTA4NzQ1ZDUxYjEzMDNmM2FhOTg1MmJmNzAyNmI5ZTRjYjNi`

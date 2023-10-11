@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 
 > Tu lista favorita de Bachata ❤️ Cover: Enrique Iglesias y Maria Becerra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,916,552 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,915,369 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 56 | [atravesao](https://open.spotify.com/track/6ZQau5OYmv8C3iZb8WUQLF) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ya no somos los mismos](https://open.spotify.com/album/7MaRtS1x0WlCKm3j8PJ0jH) | 3:20 |
 | 57 | [LA FALTA QUE ME HACES \- Bachata Version](https://open.spotify.com/track/2L7Fd4XIh0uxgqYoFt1pT3) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [LA FALTA QUE ME HACES \(Bachata Version\)](https://open.spotify.com/album/0bBc5FTXAPIWwKWzX0oy6x) | 2:51 |
 | 58 | [Amor Sincero](https://open.spotify.com/track/2ay6PrLaK03kYDh7EZIi7y) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Contigo](https://open.spotify.com/album/3j09eak04YqZqOY1md4lp2) | 3:34 |
-| 59 | [Que Vuelvas](https://open.spotify.com/track/6YBMVW3OF19qHwJJ6AmQ6N) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm), [DJ Ramon](https://open.spotify.com/artist/6UTnO6XhjHYM2Oe9V0DEH1) | [Que Vuelvas](https://open.spotify.com/album/4KN1ZXAY94rRlL8IwH1Pxg) | 3:33 |
-| 60 | [Call On Me](https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Call On Me](https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx) | 2:48 |
+| 59 | [Call On Me](https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Call On Me](https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx) | 2:48 |
+| 60 | [Que Vuelvas](https://open.spotify.com/track/6YBMVW3OF19qHwJJ6AmQ6N) | [Lirow](https://open.spotify.com/artist/7DstIz9YAYYupeK7r5tbbs), [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm), [DJ Ramon](https://open.spotify.com/artist/6UTnO6XhjHYM2Oe9V0DEH1) | [Que Vuelvas](https://open.spotify.com/album/4KN1ZXAY94rRlL8IwH1Pxg) | 3:33 |
 | 61 | [Que Sera de Mi](https://open.spotify.com/track/4T7xZSaBTDUmUWjnHtnSvQ) | [El Varon de la bachata](https://open.spotify.com/artist/3VYBdLlzLcwpbLHNhcxpoV) | [Que Sera de Mi](https://open.spotify.com/album/6S2qBQU4NA4ZEOzARrS1QF) | 4:31 |
 | 62 | [Ven Tú](https://open.spotify.com/track/0weK7Rpf3QwOPqTBJM4Hau) | [Domenic Marte](https://open.spotify.com/artist/7EXwl78TqHmZ78cV3sc37C) | [Intimamente](https://open.spotify.com/album/37z6UCsiMV6Mk6p7kwmDKD) | 4:50 |
 | 63 | [Quien Sabe](https://open.spotify.com/track/4vOWNHRx4FGlQhs0pyxgJl) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 4:29 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 67 | [Adónde Se Fue ?](https://open.spotify.com/track/6hj4B44W9LzsFJFNHpmFTw) | [Xtreme](https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C) | [Haciendo Historia](https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D) | 3:05 |
 | 68 | [Veterana](https://open.spotify.com/track/1Gxr5RquVDikoWOruiAdPh) | [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Veterana](https://open.spotify.com/album/0FscLw84kogJ9EUVNTc65A) | 3:14 |
 | 69 | [Mi Secreto](https://open.spotify.com/track/0EL8nDCstXlfIUONRc8JTj) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Mi Secreto](https://open.spotify.com/album/78zqrmLSjeNYaebSKuYzA8) | 2:59 |
-| 70 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 |
-| 71 | [Niña De Mi Corazón](https://open.spotify.com/track/1fwtJ5PoXp02amYo4gFHpP) | [Karlos Rosé](https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib) | [Géminis](https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt) | 3:05 |
+| 70 | [Niña De Mi Corazón](https://open.spotify.com/track/1fwtJ5PoXp02amYo4gFHpP) | [Karlos Rosé](https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib) | [Géminis](https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt) | 3:05 |
+| 71 | [Noche Primavera](https://open.spotify.com/track/2k27NZDlbYUf2Dfh7C2CQg) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [Noche Primavera](https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG) | 3:19 |
 | 72 | [Me Puedo Matar](https://open.spotify.com/track/5nHpjvTs9EQoK755qThyHt) | [Héctor Acosta "El Torito"](https://open.spotify.com/artist/4TCAAIMmeZXCTVlHUsicOn), [Bachat Heightz](https://open.spotify.com/artist/2K2jez7AWc6Eb7w74DSWVg) | [La Historia…Mis Éxitos](https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w) | 4:24 |
-| 73 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 |
-| 74 | [La Carta](https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [La Carta](https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3) | 3:03 |
+| 73 | [La Carta](https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y) | [Daniela Spalla](https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt) | [La Carta](https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3) | 3:03 |
+| 74 | [Fronteo](https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP) | [Pinto Picasso](https://open.spotify.com/artist/40DtWCtcmCd6GH8vKrDaJs), [sP Polanco](https://open.spotify.com/artist/3ZK68DhfWiJTIUZySAywPS) | [Fronteo](https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC) | 2:32 |
 | 75 | [Volvio el dolor](https://open.spotify.com/track/0NnwEPjfSBJ9lHnck0g1Up) | [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Volvio el Dolor](https://open.spotify.com/album/33deX4or4XvWtR7TDsz1mi) | 3:33 |
 | 76 | [El Verde de Tus Ojos](https://open.spotify.com/track/4P1JzdUkyVzw27tiahNLJY) | [Kiko Rodriguez](https://open.spotify.com/artist/1YYp1qwJ7EAitFINQ7gOKV) | [Y Los Claveles Mios](https://open.spotify.com/album/4BWwsPAtWQClj4WvrQOL68) | 3:56 |
 | 77 | [Sangre De Mis Venas](https://open.spotify.com/track/6y7zN0mg5yfkZXTz1kD7NL) | [Vena](https://open.spotify.com/artist/6lt3lJcAlHKrDfDZuKscZd) | [Sangre De Mis Venas](https://open.spotify.com/album/4lxga8GAH3aaPPNuiAkBKo) | 4:09 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7MTlMMRl0MD.md) - [plain]
 | 93 | [El Cuchillo](https://open.spotify.com/track/51sf8K5TcoLvuMF24c84Lv) | [Optimo](https://open.spotify.com/artist/37tpydsl5wICltyf0U7iHM) | [A World Tour](https://open.spotify.com/album/7M4TBKECznxg5dPL0tgI3U) | 3:41 |
 | 94 | [Los Infieles](https://open.spotify.com/track/6IBrFNHdmwP244yzpRLetH) | [Aventura](https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi) | [Todavía Me Amas: Lo Mejor de Aventura](https://open.spotify.com/album/4rncYwFMKLyhdd0yYQH19k) | 4:17 |
 | 95 | [Tengo un Amor](https://open.spotify.com/track/4dz2XW41AQTMn0bFKzaqsr) | [Toby Love](https://open.spotify.com/artist/72R3RMGmSmzG57R7OUaDaN) | [Toby Love](https://open.spotify.com/album/4fbI9fPXCA7DZkkef3rBuG) | 4:18 |
-| 96 | [Celoso](https://open.spotify.com/track/73DAgDEI5kFmascekWsZIe) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Celoso](https://open.spotify.com/album/0l60Oj3eiI7gBWUoAn8YLq) | 3:23 |
+| 96 | [Hablame De Ti](https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Hablame De Ti](https://open.spotify.com/album/5uAejFtlnv9SC42nXpN6Tn) | 4:27 |
 | 97 | [Sin Tu Amor](https://open.spotify.com/track/3fWAe3mBB6PfCMGocEiwbl) | [Johnny Sky](https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d) | [Sin Tu Amor](https://open.spotify.com/album/6yjjKUSBZeIOfJCuSHmPla) | 2:41 |
 | 98 | [7 Pecados](https://open.spotify.com/track/6xl0OFFGmvDd0MnmOT4zuj) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [7 Pecados](https://open.spotify.com/album/176s0aCeKMzCKl51vXul3X) | 3:24 |
-| 99 | [Hablame De Ti](https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF) | [El Chaval de la Bachata](https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC) | [Hablame De Ti](https://open.spotify.com/album/5uAejFtlnv9SC42nXpN6Tn) | 4:27 |
+| 99 | [Celoso](https://open.spotify.com/track/73DAgDEI5kFmascekWsZIe) | [Lil Eddie](https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi) | [Celoso](https://open.spotify.com/album/0l60Oj3eiI7gBWUoAn8YLq) | 3:23 |
 | 100 | [Una Mentirita](https://open.spotify.com/track/6ut8ePIEbWycmzEHXWU06p) | [Henry Santos](https://open.spotify.com/artist/1cUfMJtWJXfhTQvYGJQtaF), [Luis Vargas](https://open.spotify.com/artist/6Mjbr8K3MiiRMqmFIB4zWq) | [Friends & Legends](https://open.spotify.com/album/6ynC3pKZOdcjotW7NTFta1) | 3:37 |
 
-Snapshot ID: `MCw4NmRhZTY4OTJmODFjN2FlNjU2ODBmZDA5OWU3NGVmODQ5YTI2Y2Ex`
+Snapshot ID: `MCxkNWYyYWU5NDNhZDcyZTg2MmZjZGRjYWQyMWE3ODAwZjg0ZWM0ODQy`

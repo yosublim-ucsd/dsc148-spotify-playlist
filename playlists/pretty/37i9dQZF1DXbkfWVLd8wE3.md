@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 
 > Classics like In Da Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,830 likes - 90 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,148 likes - 90 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 76 | [Gossip Folks \(feat\. Ludacris\)](https://open.spotify.com/track/75DjPjiIp2fvJDjtt41Jfs) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 3:54 |
 | 77 | [Danger \(Been So Long\) \(feat\. Nivea\)](https://open.spotify.com/track/0e42i89bY2NmPuVDtey8pg) | [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [Nivea](https://open.spotify.com/artist/15Dh5PvHQj909E0RgAe0aN) | [Let's Get Ready](https://open.spotify.com/album/388lv1ynvLzyJooZsNmf0l) | 3:31 |
 | 78 | [Ruff Ryders' Anthem \- Re\-Recorded](https://open.spotify.com/track/32SFvZODywPBVDYSYtqxCj) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [Greatest Hits with a Twist \- Deluxe Edition](https://open.spotify.com/album/0K2A6RaCTpcNKTZwvLMeqY) | 3:51 |
-| 79 | [Pass The Courvoisier Part II \(feat\. P\. Diddy & Pharrell\) \- Remix](https://open.spotify.com/track/4SnTf4ixVZCfQtxHNhky0T) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:58 |
-| 80 | [Ooh Wee \(feat\. Ghostface Killah, Nate Dogg, Trife & Saigon\)](https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Trife](https://open.spotify.com/artist/3wPM3fbGYp56vzXMId27qs), [Saigon](https://open.spotify.com/artist/0mTfntDCCWRozUnyxpGf6E) | [Here Comes The Fuzz](https://open.spotify.com/album/62Qu5QoNx3De0p5qQT0u7o) | 3:29 |
+| 79 | [Ooh Wee \(feat\. Ghostface Killah, Nate Dogg, Trife & Saigon\)](https://open.spotify.com/track/4WimB4Ei0LU3MotHhL3kBL) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h), [Trife](https://open.spotify.com/artist/3wPM3fbGYp56vzXMId27qs), [Saigon](https://open.spotify.com/artist/0mTfntDCCWRozUnyxpGf6E) | [Here Comes The Fuzz](https://open.spotify.com/album/62Qu5QoNx3De0p5qQT0u7o) | 3:29 |
+| 80 | [Pass The Courvoisier Part II \(feat\. P\. Diddy & Pharrell\) \- Remix](https://open.spotify.com/track/4SnTf4ixVZCfQtxHNhky0T) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Genesis](https://open.spotify.com/album/6cj1gdwhr2MVJr9YnWghUd) | 3:58 |
 | 81 | [Nothin'](https://open.spotify.com/track/5ZKVNTG7yu7gbX4vryqS2X) | [N.O.R.E.](https://open.spotify.com/artist/4GMgdB3vwbBOc42hbXEi9p) | [God's Favorite](https://open.spotify.com/album/4Gb8Xs87uYNhBwh5wfG7qt) | 4:24 |
 | 82 | [Cold as Ice](https://open.spotify.com/track/493CPxYEHHzXeSdnp8Ul73) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [Warriorz](https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j) | 4:04 |
 | 83 | [Move Bitch](https://open.spotify.com/track/0LyZGZEZcFqpeF8bAfx3v0) | [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi), [Mystikal](https://open.spotify.com/artist/3LIJJJkO7R5RasRwt7xIn5), [I\-20](https://open.spotify.com/artist/0qziYi2GvPoLPnchRMQdxk) | [Ludacris Presents Disturbing Tha Peace: Golden Grain](https://open.spotify.com/album/1HjiZwq8HvkzLchkB2XcyV) | 4:32 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbkfWVLd8wE3.md) - [plain]
 | 89 | [Breathe And Stop](https://open.spotify.com/track/7nDtDxsKJ3fho8xEmU65JJ) | [Q\-Tip](https://open.spotify.com/artist/3ZotbHeyVQKxQCPDJuQ4SU) | [Amplified](https://open.spotify.com/album/2SGHbXwTsuIOoAdBPsnIDW) | 4:03 |
 | 90 | [Ante Up \(Robbin Hoodz Theory\)](https://open.spotify.com/track/55MzgLFlIz9I5s5CwAWXeE) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [B2K Presents "You Got Served" Soundtrack](https://open.spotify.com/album/56m66MCo7QzlpVr2EwGuHT) | 3:52 |
 
-Snapshot ID: `MCwxMjBjNTVlNTBlOGRjYThiNmM5YTlkNTA0OWRhMzc0YWU4ZDllMTE5`
+Snapshot ID: `MCw3MjAyNGY5M2NkZTE2ZDc1Mzc3MzZmYmVjZjg0MDJjZTkyMWRhOWU4`

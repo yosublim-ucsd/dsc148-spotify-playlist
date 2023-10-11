@@ -3070,19 +3070,19 @@
       },
       "artists": [
         {
-          "name": "Brezden",
-          "url": "https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt"
-        },
-        {
           "name": "Gucci Mane",
           "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Brezden",
+          "url": "https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt"
         }
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 204050,
-      "name": "BRRR B (feat. Gucci Mane)",
+      "name": "BRRR B",
       "url": "https://open.spotify.com/track/0h4RTOJWacHhYBXBzPbL2q"
     },
     {

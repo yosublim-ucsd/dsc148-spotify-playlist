@@ -1,12 +1,12 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 142684,
+  "num_followers": 142693,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MGQ2MTg3MTI0MDY4MDMxNzUxMDEyM2NmYjAxNjY4NjQ3NjMxYTQy",
+  "snapshot_id": "MCxjNDU1ZmIzYmEzMzY0YTAzYWNhMWRiMDZjMjE5NTExYTNhYWZlMWRk",
   "tracks": [
     {
       "added_at": "2022-10-27 05:38:58",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 248964,
+      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
+      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Thousand Peaces",
         "url": "https://open.spotify.com/album/79mdn7airf7jJw1dhV1PCI"
       },
@@ -891,22 +907,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-        "url": "https://open.spotify.com/album/2uMaCzN7a35J3I3qceso0c"
-      },
-      "artists": [
-        {
-          "name": "Sufjan Stevens",
-          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
-        }
-      ],
-      "duration_ms": 248964,
-      "name": "Mystery of Love (From the Original Motion Picture \u201cCall Me by Your Name\u201d)",
-      "url": "https://open.spotify.com/track/0oTtnnedK0C4unALxVTPhz"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Geography",
-        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        }
-      ],
-      "duration_ms": 357357,
-      "name": "Movie",
-      "url": "https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "A Collection of Fleeting Moments and Daydreams",
         "url": "https://open.spotify.com/album/1Ckbuzoh1dYKFnpNYmVEof"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 169822,
       "name": "Antidote",
       "url": "https://open.spotify.com/track/1NlGXcWeUSe1s3IgRKcqmB"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Geography",
+        "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        }
+      ],
+      "duration_ms": 357357,
+      "name": "Movie",
+      "url": "https://open.spotify.com/track/0kKrJbP4oATz98qQp2iXeC"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 215493,
+      "name": "Lay It on Me",
+      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
         "name": "Beautiful People Will Ruin Your Life",
         "url": "https://open.spotify.com/album/6APrFw7uAsqi0vXaQTtSYi"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 189796,
       "name": "Homemade Dynamite",
       "url": "https://open.spotify.com/track/02oAUzv4M0ItuTDy2RT3IT"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Lay It on Me",
-      "url": "https://open.spotify.com/track/7oekneJCJO74ycdLzdk16v"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Lovers",
-        "url": "https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "Lovers",
-      "url": "https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Crack-Up",
         "url": "https://open.spotify.com/album/0xtTojp4zfartyGtbFKN3v"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 210506,
       "name": "If You Need To, Keep Time on Me",
       "url": "https://open.spotify.com/track/7d0XkI4iJ32nxeFAHFXbLQ"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "Lovers",
+        "url": "https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct"
+      },
+      "artists": [
+        {
+          "name": "Anna of the North",
+          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
+        }
+      ],
+      "duration_ms": 215773,
+      "name": "Lovers",
+      "url": "https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ"
     },
     {
       "added_at": "2022-10-27 05:38:58",

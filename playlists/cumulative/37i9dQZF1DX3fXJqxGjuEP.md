@@ -4,7 +4,7 @@
 
 > ¡Dale buena onda cálida y frutal a tu día!
 
-483 songs - 1 day 5 hr 0 min
+484 songs - 1 day 5 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,7 @@
 | [Ciénaga](https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Ciénaga](https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn) | 2:56 | 2021-10-20 | 2022-07-11 |
 | [Clandestina \- Spotify Singles](https://open.spotify.com/track/2ETi6XTUOuEjObLiRNmO8F) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Spotify Singles](https://open.spotify.com/album/6HqgKz3U8TtxrwikzgEKfJ) | 3:29 | 2022-04-20 | 2022-08-04 |
 | [Clandestino](https://open.spotify.com/track/4UlW3vi9SxRbvG8hyrJ3ju) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E) | [Clandestino](https://open.spotify.com/album/6w0NI3nCd8tlgsrtF4Vd5u) | 3:01 | 2023-04-07 |  |
-| [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h) | [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T) | 2:38 | 2021-10-20 |  |
+| [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h) | [Clandestino \(feat\. Calypso Rose\)](https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T) | 2:38 | 2021-10-20 | 2023-10-11 |
 | [Claridad](https://open.spotify.com/track/2CZp6sRzNcCPkvnrzy89bF) | [El Otro Polo](https://open.spotify.com/artist/6guLg5yfcFlYyRp4DzrEO2) | [Claridad](https://open.spotify.com/album/3p1iWnA4UhCi9fe7tKU4cF) | 2:53 | 2021-10-20 | 2022-07-29 |
 | [Cliché](https://open.spotify.com/track/4LibnjBGrnHExVThKnN3BG) | [Vera Pedro](https://open.spotify.com/artist/2agXYMhipkDXIGmy5C158S) | [Cliché](https://open.spotify.com/album/7aVEWvrRBqfRArFCJUtfVf) | 3:44 | 2021-10-20 | 2022-07-14 |
 | [Comadre](https://open.spotify.com/track/6KZnvozLmnxxOEzHaH404F) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch), [TIRAYA](https://open.spotify.com/artist/3VbXBoA7I3k5KURFPIajpy) | [Comadre](https://open.spotify.com/album/5GsTcqmOSSHQcWStrI0E2m) | 3:32 | 2022-09-02 | 2022-10-01 |
@@ -445,6 +445,7 @@
 | [Tierra](https://open.spotify.com/track/4JnUNSoH5576ZKA9CPLQhD) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Vesica Piscis](https://open.spotify.com/album/1wLQVoxpUOdcCymwnCyH7e) | 5:12 | 2022-03-17 | 2022-06-08 |
 | [Todo el Día en la Cama](https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG) | [Todo el Día en la Cama](https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz) | 4:16 | 2021-10-20 | 2023-01-29 |
 | [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 | 2022-03-30 | 2022-06-08 |
+| [Trago Coqueto](https://open.spotify.com/track/5t4rndvpGfblr16xsSZCZ2) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [Switched\-On](https://open.spotify.com/album/3hwjbzlHMrrc4ul4tGo4jD) | 3:02 | 2023-10-10 |  |
 | [Tropical \(feat\. Ondina\)](https://open.spotify.com/track/6AEHWKKEglbd8oBJeenGD5) | [Pachará](https://open.spotify.com/artist/1b2gJhPNbVGtx6N13ZfPfI), [Ondina](https://open.spotify.com/artist/3PiOyb43kGMgy66LQ9lAQ1) | [Tropical](https://open.spotify.com/album/6IBlw7e0Ycqypby7DgzSqH) | 3:15 | 2021-10-20 | 2022-04-17 |
 | [Tusa](https://open.spotify.com/track/14jaIxzz2KHx46jTo0XlCz) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r) | [re\-COVER\-sión VOL.1](https://open.spotify.com/album/1b1S7xbjXzkv0vZXwmg4Pk) | 2:31 | 2021-10-20 | 2022-07-29 |
 | [Tú](https://open.spotify.com/track/1jecO8NeYLsVWVptITz4c1) | [maye](https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt) | [Tú](https://open.spotify.com/album/41OfyTxfB3ou95Ib24VlV2) | 3:26 | 2021-10-20 |  |

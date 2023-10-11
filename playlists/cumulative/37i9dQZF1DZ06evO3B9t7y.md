@@ -4,7 +4,7 @@
 
 > This is Carin Leon\. The essential tracks, all in one playlist.
 
-109 songs - 5 hr 47 min
+111 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [La Justiciera](https://open.spotify.com/track/37SX2Yxw00H1e40B5wOE7d) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak) | [La Justiciera](https://open.spotify.com/album/5iE2MGncS5bQyfbVkndK0O) | 3:00 | 2023-08-13 |  |
 | [La Tipica](https://open.spotify.com/track/3AxEZyQEGEhHuTJgRrT7dh) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [La Tipica](https://open.spotify.com/album/1hPw3w27KcDVAKp6CDvdIZ) | 3:11 | 2022-06-01 | 2022-09-27 |
 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 | 2022-06-09 |  |
+| [Love Like This \- En Vivo](https://open.spotify.com/track/3tVSavUm2ytulh0CWlknlH) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche Live Sessions \(En Vivo\)](https://open.spotify.com/album/4lAoWJAGBqKpgCBMGGVTWz) | 3:38 | 2023-10-10 |  |
 | [Mal Necesario](https://open.spotify.com/track/0UQdOHYfDl4OY9waK0gFfu) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Mal Necesario](https://open.spotify.com/album/146b6Xmk2VYXUwg8QsJxT1) | 2:52 | 2022-06-01 | 2022-10-12 |
 | [Me Aceptaste \- En Vivo](https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [JJ Araujo](https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:08 | 2023-02-19 |  |
 | [Me Gusta Estar Contigo](https://open.spotify.com/track/4MWma3oh4U6javb4kGF1jx) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Amanecida Con Todo y Con Todos](https://open.spotify.com/album/21EdAKCODBRv3OSIEHSYUa) | 2:48 | 2022-06-01 | 2023-08-26 |
@@ -78,6 +79,7 @@
 | [No Es Por Acá](https://open.spotify.com/track/6tEl8GwFJEFyxZAO1ibTRF) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:47 | 2023-08-19 |  |
 | [Ojos Cerrados](https://open.spotify.com/track/4OVpyR6yhYyVoRj9D7CERz) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Ojos Cerrados](https://open.spotify.com/album/0bmO2mhykyBDs7jt1ftQe0) | 3:00 | 2022-06-01 |  |
 | [Pedazo De Tonto](https://open.spotify.com/track/2B9E5Lh019LAYrUAUZSHUA) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [Pedazo De Tonto](https://open.spotify.com/album/593tg8SYFso8AAC4BCEkJb) | 2:40 | 2023-03-03 |  |
+| [Por La Familia](https://open.spotify.com/track/03uEJDEIXtm3FAV4iXcs68) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [BorderKid](https://open.spotify.com/artist/7ygIMSIwRfGk8Ro6AOEuu3) | [Por La Familia](https://open.spotify.com/album/7D7a4qJmKNXAdDnHvHNJ2T) | 2:33 | 2023-10-10 |  |
 | [Primera Cita](https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Primera Cita](https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z) | 3:06 | 2023-04-27 |  |
 | [Que Es Pa' Mi](https://open.spotify.com/track/2HdkLQkwXWT6yyZJYySAPf) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 3:36 | 2022-06-01 | 2022-12-24 |
 | [Que Mas Puedo Pedir \(Bonus Track\)](https://open.spotify.com/track/3Y1Xr5Hfie9SDXPxIHSgbz) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Inédito](https://open.spotify.com/album/0GjbNjkZ7Bp8rvzU6y8L4w) | 3:17 | 2022-06-01 | 2023-08-26 |

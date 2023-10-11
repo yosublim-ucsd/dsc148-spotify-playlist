@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores\. Foto: Leonardo Gonçalves
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,294 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,321 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 32 | [Meu Coração](https://open.spotify.com/track/1MDXv0hRY9EgHTwvQyr7EG) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Meu Coração](https://open.spotify.com/album/6y2SSn86BAh3LZHKwNiKK4) | 2:17 |
 | 33 | [Medley das Crianças](https://open.spotify.com/track/04lDkeEi5mxKfXkBXcmrAQ) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl), [Galo Jacó](https://open.spotify.com/artist/6JDieX8x5rmjocsN3Rxs2L) | [Medley das Crianças](https://open.spotify.com/album/6kA8eLY4fy4LqYmQVWD3tH) | 4:12 |
 | 34 | [Chevere \(feat\. Lito Atalaia\)](https://open.spotify.com/track/3Ecllma7tEPF8gZZZsNp1v) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Chevere \(feat\. Lito Atalaia\)](https://open.spotify.com/album/2nuYrKJ4TCQ1B9ZV2Mjupg) | 3:33 |
-| 35 | [Tic Tac](https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx) | [Talitha Franco](https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Tic Tac](https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk) | 3:08 |
-| 36 | [Jesus Me Ama Tanto](https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX) | [Arieta Magrini](https://open.spotify.com/artist/3KPggmoiyvKE7nhNdJ3sL5), [Metodista Kids](https://open.spotify.com/artist/2IsqqcA3KOtxZHKplFVUaa) | [Jesus Me Ama Tanto](https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc) | 3:56 |
-| 37 | [Deus Grandão](https://open.spotify.com/track/4P0TyPgmAOq2gVQJf7LMV5) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Grandão](https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn) | 4:11 |
-| 38 | [Tudo Vai Terminar Bem](https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Tudo Vai Terminar Bem](https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA) | 3:45 |
-| 39 | [Tão Pequeno](https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc) | [Spoleta](https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci), [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Spoleta](https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro) | 1:26 |
+| 35 | [Tão Pequeno](https://open.spotify.com/track/6GAFddIaa9OBHZRZRTttKc) | [Spoleta](https://open.spotify.com/artist/29FAWlmhQUsUO7T2blu9Ci), [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Spoleta](https://open.spotify.com/album/5XtJA6IrAUBAGlO3hcDIro) | 1:26 |
+| 36 | [Tic Tac](https://open.spotify.com/track/4jygcdgSgyyf7QJacekxmx) | [Talitha Franco](https://open.spotify.com/artist/4a9BpHMkMFUFZT7j00Dubq), [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3) | [Tic Tac](https://open.spotify.com/album/1g8HEmXjdRfNLqk9rk1Grk) | 3:08 |
+| 37 | [Jesus Me Ama Tanto](https://open.spotify.com/track/0J8hD8AoGlQipoHU6LF6ZX) | [Arieta Magrini](https://open.spotify.com/artist/3KPggmoiyvKE7nhNdJ3sL5), [Metodista Kids](https://open.spotify.com/artist/2IsqqcA3KOtxZHKplFVUaa) | [Jesus Me Ama Tanto](https://open.spotify.com/album/2Zz9nQm8tCtURbCYJnN0mc) | 3:56 |
+| 38 | [Deus Grandão](https://open.spotify.com/track/4P0TyPgmAOq2gVQJf7LMV5) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Deus Grandão](https://open.spotify.com/album/1zkpj6qPydhF9RAaDnrWRn) | 4:11 |
+| 39 | [Tudo Vai Terminar Bem](https://open.spotify.com/track/4oYgECBXPGWladYejkc4bP) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Tudo Vai Terminar Bem](https://open.spotify.com/album/45SiWKT4wFF9c67wCqiMBA) | 3:45 |
 | 40 | [Rock da Arca](https://open.spotify.com/track/7HzkYbSog275m1M5kaAUFW) | [Kelly Benigno](https://open.spotify.com/artist/2YYbZyhGyLlVQGfaE1Hn5X) | [Rock da Arca](https://open.spotify.com/album/1cNrPAjRtZWUKeMiSqJmEG) | 3:22 |
 | 41 | [Verdadeiro Amor](https://open.spotify.com/track/0yWQuYf69YZPteFYdVpubx) | [Bunekão de Jesus](https://open.spotify.com/artist/3EzcPGgFNYyoFpcLjec4c2), [Olívia Teles](https://open.spotify.com/artist/2ojdlKsNAWovUgFXkFC2IZ) | [Verdadeiro Amor](https://open.spotify.com/album/4UxBeejCnl6LjKlBXNpjTH) | 3:31 |
 | 42 | [Obra do Criador \- Ao Vivo](https://open.spotify.com/track/6H4h2cnyfeTnqAHfdqi5dw) | [Louvor Videira Kids](https://open.spotify.com/artist/5xQlLW7wWdVaYLUzbphgGu) | [Comigo Sonhou](https://open.spotify.com/album/3tbgkAsVPkMHK4TBOwIwpV) | 3:07 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 44 | [Toc Toc Toc \- Baby Fun \- Remix](https://open.spotify.com/track/6KjIPIOhwSHq2K4ItYRDJb) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Toc Toc Toc \- Baby Fun \(Remix\)](https://open.spotify.com/album/1g7vUqTtKS2DzSRn3lugll) | 2:17 |
 | 45 | [Ao Orarmos](https://open.spotify.com/track/0OCSLWbLai3RpfM4kjo5Ne) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Ao Orarmos](https://open.spotify.com/album/2bax4vbgz2FjqaV6kJDExx) | 3:09 |
 | 46 | [Galileia](https://open.spotify.com/track/1NxGlZCXHdExP3sPld6UV0) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Galileia](https://open.spotify.com/album/1WsqUCNmbFJOsA4Ukmu8lV) | 2:37 |
-| 47 | [Satisfação](https://open.spotify.com/track/5rmBG2lYpzQFXU5LXrWHTE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Satisfação](https://open.spotify.com/album/7dNxBMr0QOAUD3ydFcCH8f) | 2:17 |
+| 47 | [Eu Sou Um Cordeirinho](https://open.spotify.com/track/3S638bURBDmKdnoFbTEwXE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Eu Sou Um Cordeirinho](https://open.spotify.com/album/7uVIoEnQpDw7N8hRh07uUo) | 2:42 |
 | 48 | [Festa das Cores](https://open.spotify.com/track/2OgjuP2rTKfweuPiZDORMw) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Festa das Cores](https://open.spotify.com/album/7y3if5oFUBEKP94vf2mCQW) | 3:26 |
-| 49 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
-| 50 | [Eu Sou Um Cordeirinho](https://open.spotify.com/track/3S638bURBDmKdnoFbTEwXE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Eu Sou Um Cordeirinho](https://open.spotify.com/album/7uVIoEnQpDw7N8hRh07uUo) | 2:42 |
+| 49 | [Satisfação](https://open.spotify.com/track/5rmBG2lYpzQFXU5LXrWHTE) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Satisfação](https://open.spotify.com/album/7dNxBMr0QOAUD3ydFcCH8f) | 2:17 |
+| 50 | [Sr\. Antônimo](https://open.spotify.com/track/1mExcbeOoQEh2ZRFTY705r) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [ImaginAline](https://open.spotify.com/album/4DpfGOe1QVwuIENUOhxgsa) | 4:36 |
 
-Snapshot ID: `MCwyYjY1N2M3ZjEyYzM2MDMwMzliNjA2ZTk2NDFhNmIwOTY4MWNlZjcw`
+Snapshot ID: `MCw4MmZmYjA0YTEwNTA3OTE4ZGJlMTU2MjM0YjAxNWRjMDVjOGU3OTAy`

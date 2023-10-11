@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 
 > Music from and inspired by Blood & Water, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,017 likes - 75 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,019 likes - 75 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 | 2 | [Molo](https://open.spotify.com/track/5isU7Lab1tVrqzHanOL4Pk) | [Jst Sako](https://open.spotify.com/artist/7bAt7MYd2N3dRMrXVMvOug) | [Molo](https://open.spotify.com/album/4dm4OxLTzqRizPrbH5JL2S) | 4:00 |
 | 3 | [WAGMI](https://open.spotify.com/track/4bxjgQ4hZ1kBsCzvpVFBFn) | [Tyler Page](https://open.spotify.com/artist/3Py4gpY3Qhk3ZmUKps21Rl) | [WAGMI](https://open.spotify.com/album/28yfEKfv7kmNGgoOTVVMnz) | 3:29 |
 | 4 | [Dreams](https://open.spotify.com/track/2YOGTQF0EarnzzrfMvWyqT) | [Yung Nasa](https://open.spotify.com/artist/4HUwdGiWsD5cqaAR7iItw2) | [Not Cool Never Was](https://open.spotify.com/album/5FxR4VponhaZvNkrNp9nPj) | 2:44 |
-| 5 | [John Vuli Gate \(feat\. Ntosh Gazi & Colano\)](https://open.spotify.com/track/5JiC9aVRdEaEylSPhs9SXC) | [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Colano](https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [John Vuli Gate](https://open.spotify.com/album/7LaWhzEvDOvuKIHg1DsQT4) | 5:55 |
+| 5 | [John Vuli Gate](https://open.spotify.com/track/0iHnYSPIQlmQzo1NVN6kRJ) | [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY), [Colano](https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI) | [John Vuli Gate](https://open.spotify.com/album/2LV2PfwatDDB9HeMs9NeH0) | 5:55 |
 | 6 | [Bekezela](https://open.spotify.com/track/4Jq6FYc0XfBKe6mfvavL9b) | [uSanele](https://open.spotify.com/artist/2D70qn16njNHR9H5hP8rPo), [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Gangular](https://open.spotify.com/album/2zWns4UZ9ApT2gid3nVInC) | 4:06 |
 | 7 | [Too Late for Mama](https://open.spotify.com/track/6xfGoZlwaIuBkDtTQV8lSX) | [Mpho Sebina](https://open.spotify.com/artist/3Z2T6mI5rrWuijYZkclFEN), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8) | [Too Late for Mama](https://open.spotify.com/album/1mlmOZ5TQjexDf1wIO4h9y) | 4:07 |
 | 8 | [Ewe Kwedini](https://open.spotify.com/track/0SSkytDTTZyANk2zmVqK1e) | [T\. Em](https://open.spotify.com/artist/34SG9KNrqrqPkCe4SJlRZH), [uFezekile](https://open.spotify.com/artist/60MEpj4GxzCgSVEWoPY2kw) | [Ewe Kwedini](https://open.spotify.com/album/2PyW1PhtCGj4Lk9cgmgm6E) | 6:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfKPI3Q69qH.md) - [plain]
 | 74 | [Yasis](https://open.spotify.com/track/2eTT5Ayr27aFhsBh2hlIrG) | [YoungstaCPT](https://open.spotify.com/artist/3QYKq7aMSiAu6gvfwNNFsv) | [Yasis](https://open.spotify.com/album/7tJxAH5vflixnj7bFdabUg) | 3:46 |
 | 75 | [John Cena](https://open.spotify.com/track/07xpeB1txX9bPKTwkuflMg) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [John Cena](https://open.spotify.com/album/5VQoz4FBYZsfmm09XlpOVh) | 3:01 |
 
-Snapshot ID: `MCwwMzU0NDgzY2YzMTU0ZjVhMWYzZjMzYWNkMTJiMGM4OGNkMjI3NTA0`
+Snapshot ID: `MCw5ZGQwNTRjMjRkMzIwY2RiYzZmMDcyM2VhY2M1YjFiMmU3MjkwNGI2`

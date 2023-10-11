@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 
 > Your favorite holiday tunes, like you've never heard before\. Cover: Meghan Trainor
 
-[Spotify](https://open.spotify.com/user/spotify) - 718,382 likes - 79 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 718,230 likes - 79 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 10 | [Christmas Tree Farm \- Spotify Singles](https://open.spotify.com/track/3agFbERmZM62th15YW4Iru) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj) | [Christmas Tree Farm \- Spotify Singles](https://open.spotify.com/album/2qA6ipSGFgsVG6cXrFBbOx) | 3:34 |
 | 11 | [After LIKE \- Holiday Remix](https://open.spotify.com/track/7DMsSbvw9BOp4BpxraTtNX) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Spotify Singles \- Holiday](https://open.spotify.com/album/6LNdcxlSXwXv2UFKQ3pvMk) | 2:52 |
 | 12 | [Driving Home for Christmas \- Spotify Singles Holiday](https://open.spotify.com/track/0yCuAztZbBfa3eg2fRaxyl) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Driving Home for Christmas \(Spotify Singles Holiday\)](https://open.spotify.com/album/2k90XUjZZFzSUnk5XYaY8a) | 3:41 |
-| 13 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [Jaden Hossler](https://open.spotify.com/artist/6LP3XoLzeYXRGWjTfqEhqZ) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 |
+| 13 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [Jaden Hossler](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 |
 | 14 | [Blanca Navidad \- Spotify Singles Holiday](https://open.spotify.com/track/1nKL3Vx69N5DzmCeP6AHBE) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Blanca Navidad \(Spotify Singles Holiday\)](https://open.spotify.com/album/6XOvqTL0wI3ToELKzrULfH) | 2:39 |
 | 15 | [Silver Bells \- Spotify Singles](https://open.spotify.com/track/2pR9egtFKNDMm18zGfif0l) | [Ryan Hurd](https://open.spotify.com/artist/7lDVEkjIURPMyUYwoQRrpw) | [Silver Bells \(Spotify Singles\)](https://open.spotify.com/album/5nvYEOcMNKiZSfCISL4rzv) | 3:21 |
 | 16 | [Triste Navidad \- Spotify Singles](https://open.spotify.com/track/2JIBylKkq8Fan9Ode61X7D) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Triste Navidad \- Spotify Singles](https://open.spotify.com/album/1uTAF8ztXofqNCTzUY6kg8) | 3:27 |
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdam5VrqMf3y.md) - [plain]
 | 78 | [Oh My Christmas Tree \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/60SifRrS0a3jOQITjpstp8) | [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4) | [Spotify Singles \- Christmas](https://open.spotify.com/album/5en558OdtGQER6bVirXNnM) | 4:04 |
 | 79 | [Baby It's Cold Outside \- Spotify Singles \- Christmas, Recorded at Metropolis Studios, London](https://open.spotify.com/track/2jB9jrpggKxSvymiWXM2pz) | [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa), [B.B\. Bones](https://open.spotify.com/artist/61QhyKKCq2VbbWRgFLlD6B) | [Baby It's Cold Outside \- Spotify Singles \- Christmas, Recorded at Metropolis Studios, London](https://open.spotify.com/album/05mmfK3BaBsbXRUmds8FYU) | 2:43 |
 
-Snapshot ID: `MCw5NDMxMzY5NmVjOTJiN2MzNzI3Njg3NmM3MjM0NjIzYzdjZGUxNDgy`
+Snapshot ID: `MCw0ZDgzYTFjNWJiMmVhNWU5NDJhNTY1NTJhNTU2NjJhMzAyYWU0Y2Jh`

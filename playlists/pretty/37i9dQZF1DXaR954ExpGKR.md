@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 
 > The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,897 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,946 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 | 49 | [Traag](https://open.spotify.com/track/5fySAmiBZEILTlSwo8n4Wi) | [Bizzey](https://open.spotify.com/artist/5GIcOzVFTNnzArytjmTkW8), [Jozo](https://open.spotify.com/artist/45eUXWgwkv92uAk1KQFI6D), [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Traag](https://open.spotify.com/album/5MHVtiFIv6DASkrHsgbOXE) | 3:09 |
 | 50 | [T'as peur](https://open.spotify.com/track/35XF6veSvhoPdWy89zaeaj) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DNK](https://open.spotify.com/album/2sDLGR5LQ1pRmyCOT0alhN) | 3:35 |
 
-Snapshot ID: `MCxmNGE0ZDI1NjZmZjYyYTQ0NTJkY2ZkNjE4ZTJmM2M3YTNkZWU4M2Y4`
+Snapshot ID: `MCw3MjhiNjQ5OWIzMjg3MmMxNTFlODU1NjZkYzIwM2I2YzdjOTQ5ODBj`

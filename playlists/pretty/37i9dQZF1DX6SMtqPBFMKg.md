@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6SMtqPBFMKg.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Las mejores bandas en vivo\. Lenin Ramírez & Luis R Conriquez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,063 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,125 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6SMtqPBFMKg.md) - [plain]
 | 49 | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc) | [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Hasta la Miel Amarga \(feat\. Grupo Firme\)](https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD) | 4:18 |
 | 50 | [Tambien Las Mujeres Pueden \(En Vivo\)](https://open.spotify.com/track/0EwW3CpYxYmiwa4LHOmbxY) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF), [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [Tambien Las Mujeres Pueden \(En Vivo\)](https://open.spotify.com/album/0A9jc2mNfi0CeYveDasqI3) | 3:02 |
 
-Snapshot ID: `MCw5YzhiZmNiY2EzMWQyNWQwNmI0YzI5NmNlMGRhYmI0ZGIzMTQyOWJm`
+Snapshot ID: `MCw5Mzg0OGFhNTNjMzI0ZTZhZmEzYzUzNzg1ZmQ1MzEyMjY3NDViYTVi`

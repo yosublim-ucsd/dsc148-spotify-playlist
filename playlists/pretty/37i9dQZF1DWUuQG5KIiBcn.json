@@ -1,12 +1,12 @@
 {
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
-  "num_followers": 510648,
+  "num_followers": 510911,
   "original_name": "Corridos de Anta\u00f1o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjRlMGI0ZTFhNGZmMThjMjRmNjFmNDIwYzVhYThhYjQ4YTg1ZjZl",
+  "snapshot_id": "MCxkZGExMmNhMWJjMWUwNjQ0NzZmOThkZDY1NDRjN2VhNDcyMjBjYjAz",
   "tracks": [
     {
       "added_at": "2023-08-22 06:00:00",
@@ -271,22 +271,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Los 20 Mejores Corridos y Rancheras, Vol. 2",
-        "url": "https://open.spotify.com/album/1JXX5Z7nbAS2P2t8fH7S73"
-      },
-      "artists": [
-        {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
-        }
-      ],
-      "duration_ms": 178013,
-      "name": "Clave Privada",
-      "url": "https://open.spotify.com/track/4m5hcZXjgM3iL1tWNCWaer"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "Joan Sebastian con Tambora",
         "url": "https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 278058,
       "name": "Manuel Ju\u00e1rez",
       "url": "https://open.spotify.com/track/1pVPh9e9gsgmxCmGljoWta"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "Los 20 Mejores Corridos y Rancheras, Vol. 2",
+        "url": "https://open.spotify.com/album/1JXX5Z7nbAS2P2t8fH7S73"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 178013,
+      "name": "Clave Privada",
+      "url": "https://open.spotify.com/track/4m5hcZXjgM3iL1tWNCWaer"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "CORRIDOS DE CONTRABANDO (Remastered)",
-        "url": "https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s"
-      },
-      "artists": [
-        {
-          "name": "Los Alegres De Teran",
-          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "la carga blanca",
-      "url": "https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "40 \u00c9xitos",
         "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 198533,
       "name": "Baraja De Oro",
       "url": "https://open.spotify.com/track/4vxGRxWgmTtaVOJlVV1TjC"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "CORRIDOS DE CONTRABANDO (Remastered)",
+        "url": "https://open.spotify.com/album/2n5kAvHsATHI1DblHoBC3s"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "la carga blanca",
+      "url": "https://open.spotify.com/track/0E1zqbwu7dZlzrBYBuYnPE"
     },
     {
       "added_at": "2023-08-22 06:00:00",

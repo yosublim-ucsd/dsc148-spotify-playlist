@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse liedjes! Cover: Do
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,964 likes - 60 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,973 likes - 60 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 12 | [Dresscode](https://open.spotify.com/track/20Il3468yznPyLB8fjZEBX) | [Marc Floor](https://open.spotify.com/artist/68Y9QV4i004HBLR6AI5TBc) | [Van Huis Uit](https://open.spotify.com/album/3c5HcU9hSV8SjM51ZO31aY) | 2:24 |
 | 13 | [Vrouw Van De Wereld](https://open.spotify.com/track/3ssFHRmjHtu6ZwSd8mCjCj) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Vrouw Van De Wereld](https://open.spotify.com/album/303su5NnOpJDJzlO9YNrGT) | 2:38 |
 | 14 | [De Helft Van Mij](https://open.spotify.com/track/1b4EY1iGSNPRIW2fulM8Lj) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Iemand Van Vroeger](https://open.spotify.com/album/1AiSzH7IpBmv9O9Y6oObXc) | 3:24 |
-| 15 | [Wat ik Zocht](https://open.spotify.com/track/3UNGg3HXwemW4tjy7XIw3g) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/09rwghZuPsHR4t84q7vwoy) | 2:52 |
+| 15 | [Wat ik Zocht](https://open.spotify.com/track/3gMNloOnIjQ9eZzQhiiDrb) | [MEAU](https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10) | [Beste Zangers 2023 \(MEAU\)](https://open.spotify.com/album/1sh6HCkhboWsoln9lf0ay8) | 2:52 |
 | 16 | [De Tijd Gaat Mooie Dingen Doen](https://open.spotify.com/track/3uMtq20Rh0Bb2rodXPNhzQ) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [De Tijd Gaat Mooie Dingen Doen](https://open.spotify.com/album/4qwPLM18gSBRtb9twSnOGU) | 3:31 |
 | 17 | [Morgen Gaan We Praten](https://open.spotify.com/track/1hq1XJPTjakVHRjntJxGG9) | [Xerxes](https://open.spotify.com/artist/6y1vggOkn0ekeAgqG7AZKS), [Nienke Leone](https://open.spotify.com/artist/1s26JLsXSP2wyCoywwPF46) | [Morgen Gaan We Praten](https://open.spotify.com/album/4LGsHcf4ciNkjFNwWe03Nx) | 2:48 |
 | 18 | [Keep It Real](https://open.spotify.com/track/29ATYUGisQLeSCphYSB4LL) | [Montana](https://open.spotify.com/artist/5JxBfSx4Hez2JQEqZy9xgb) | [Keep It Real](https://open.spotify.com/album/14uCrw5li2R6CAc16pL4vn) | 2:38 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 59 | [De Bloemen Die Je Stuurde](https://open.spotify.com/track/1Wmj2gkXgEm0xLpvO5hT4s) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [De Bloemen Die Je Stuurde](https://open.spotify.com/album/1YS93womgDgRHgIXIapToF) | 2:48 |
 | 60 | [Wat Als Het Lukt](https://open.spotify.com/track/0cyNDPp11HqsUH713X7WCe) | [Jasha Rudge](https://open.spotify.com/artist/4viTemJKI4Rl9OzQJ8iGVL) | [Bliksem & Donder](https://open.spotify.com/album/4eZx6Pc0j1rRJUmpdV9ThY) | 2:32 |
 
-Snapshot ID: `MCxhMWY1MzgyYjgwMmIwY2QyOGQ3YjUwMTg0M2JkNzFjOGI4NzZhODEy`
+Snapshot ID: `MCxmNGQ1ODc2MTg3NjY4ZjhhMjBmMjZkOTUyYjdmOGI1NGVlNzE3ODEz`

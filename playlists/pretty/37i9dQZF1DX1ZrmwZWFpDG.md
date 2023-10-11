@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZrmwZWFpDG.md) - [plain]
 
 > Let's end the year with a bang\. These are the ultimate floorfillers for your New Year's party!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,475 likes - 38 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,470 likes - 38 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Lose Yourself to Dance \(feat\. Pharrell Williams\)](https://open.spotify.com/track/5CMjjywI0eZMixPeqNd75R) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [Random Access Memories](https://open.spotify.com/album/4m2880jivSbbyEGAKfITCa) | 5:53 |
 | 2 | [We Are Young \(feat\. Janelle Monáe\)](https://open.spotify.com/track/7a86XRg84qjasly9f6bPSD) | [fun.](https://open.spotify.com/artist/5nCi3BB41mBaMH9gfr6Su0), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Some Nights](https://open.spotify.com/album/7iycyHwOW2plljYIK6I1Zo) | 4:10 |
-| 3 | [Jubel](https://open.spotify.com/track/5m6adNVeSWlJoP0c0smACx) | [Konina](https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj), [Reaxys](https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI), [Deluxe1337](https://open.spotify.com/artist/1h8UsH6AbwP6Bk8PE46coV) | [Jubel](https://open.spotify.com/album/0YmJBTpPvSVH3KouPoO8Wk) | 3:20 |
+| 3 | [Jubel \- Radio Edit](https://open.spotify.com/track/0D2VYiRlBv43asKUgieZaM) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel \(Radio Edit\)](https://open.spotify.com/album/7fkrTTjzWHgZQj7vizhTza) | 3:21 |
 | 4 | [Hey Brother](https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:15 |
 | 5 | [On Top Of The World](https://open.spotify.com/track/6KuHjfXHkfnIjdmcIvt9r0) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Night Visions \(Deluxe\)](https://open.spotify.com/album/1rzDtYMpZDhRgKNigB467r) | 3:09 |
 | 6 | [Kids](https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 5:02 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZrmwZWFpDG.md) - [plain]
 | 37 | [Sex on Fire](https://open.spotify.com/track/0ntQJM78wzOLVeCUAW7Y45) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:23 |
 | 38 | [Big Pimpin'](https://open.spotify.com/track/7m97yKVzPpXV9Z4ezEziOD) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [UGK](https://open.spotify.com/artist/6ZhjJOJXXwnPS8PrXdmjLw) | [Vol\. 3..\. Life And Times Of S\. Carter](https://open.spotify.com/album/3rWJsuu7ukoZZhp7YYkjNZ) | 4:43 |
 
-Snapshot ID: `MCw3ZGI1N2QyYjkxMjYxNzQyMWY2MDAwOTlhNzQ4Yzc3ZGFkZGMzNjY3`
+Snapshot ID: `MCw1ZmYyMDcxZTJkODg2OWU5NTM3NDI5MWZlYzk2N2IwZGYwOTdkMjFl`

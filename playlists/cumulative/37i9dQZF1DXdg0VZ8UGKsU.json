@@ -1777,36 +1777,6 @@
     },
     {
       "album": {
-        "name": "Greatest Hits 1979-1990",
-        "url": "https://open.spotify.com/album/0HpZFxWfSL8V4wzEtUvGFo"
-      },
-      "artists": [
-        {
-          "name": "Dionne Warwick",
-          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
-        },
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        },
-        {
-          "name": "Gladys Knight",
-          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
-        },
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "date_added": "2022-06-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 256466,
-      "name": "That's What Friends Are For",
-      "url": "https://open.spotify.com/track/1cOj24fUMnBSXhtp7waHVW"
-    },
-    {
-      "album": {
         "name": "Friends",
         "url": "https://open.spotify.com/album/7IigfsyypJlb6NW6f9vSt7"
       },
@@ -1834,6 +1804,36 @@
       "duration_ms": 255933,
       "name": "That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder)",
       "url": "https://open.spotify.com/track/1OzrlK57iLTIjmbZC1ppWM"
+    },
+    {
+      "album": {
+        "name": "Greatest Hits 1979-1990",
+        "url": "https://open.spotify.com/album/0HpZFxWfSL8V4wzEtUvGFo"
+      },
+      "artists": [
+        {
+          "name": "Dionne Warwick",
+          "url": "https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp"
+        },
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        },
+        {
+          "name": "Gladys Knight",
+          "url": "https://open.spotify.com/artist/2aXiJJHJei5BmCykxI37y0"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2022-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256466,
+      "name": "That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder)",
+      "url": "https://open.spotify.com/track/1cOj24fUMnBSXhtp7waHVW"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Randy Rogers and Wade Bowen
 
-[Spotify](https://open.spotify.com/user/spotify) - 419,291 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 419,217 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 67 | [Boy From Anderson County](https://open.spotify.com/track/6H4TyfdTbm1bIaBkXiyvvw) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County](https://open.spotify.com/album/2Mo6Xc2RfhJD6QkmRjYdid) | 4:04 |
 | 68 | [Dark Bar Daisy](https://open.spotify.com/track/1I4CgfY1bvPRPF08Rs2yEG) | [Harper O'Neill](https://open.spotify.com/artist/4jmirGdgyRdMSmoZSmM6yg) | [Dark Bar Daisy](https://open.spotify.com/album/42usTvGb3VvGS194AP2p7a) | 4:04 |
 | 69 | [blood](https://open.spotify.com/track/2YqZCQhkuQpPUb5M9wptBq) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [blood](https://open.spotify.com/album/4ttXGpNxsIaxGtsV2M3unU) | 4:58 |
-| 70 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
+| 70 | [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 |
 | 71 | [Map Dot Missing You](https://open.spotify.com/track/6Zn2UwxIE8A7Ppnvz6iosp) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88) | [Map Dot Missing You](https://open.spotify.com/album/2Bd8KaslC78hDhi2X9OikT) | 3:29 |
 | 72 | [Quittin' Ain't Workin' \(feat\. Mike Ryan\)](https://open.spotify.com/track/6mPpuNKf0wPSoOCD3rFbdz) | [Larry Fleet](https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw), [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Quittin' Ain't Workin' \(feat\. Mike Ryan\)](https://open.spotify.com/album/3r9sGBc6fpTs96wv1eXkwG) | 3:15 |
-| 73 | [Tennessee Drinkin'](https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28) | [William Beckmann](https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb) | [Here's To You\. Here's To Me.](https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl) | 3:02 |
+| 73 | [Dancin' With The Devil](https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Dancin' With The Devil](https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4) | 2:58 |
 | 74 | [Cold Shoulder](https://open.spotify.com/track/282YiPLSxibbQvGCQ05bkF) | [Mary Heather Hickman](https://open.spotify.com/artist/7HCxS7azUAuU5SyWIY5fDl) | [Cold Shoulder](https://open.spotify.com/album/7rRa6fVsCQPLQPfQlyE8TS) | 2:51 |
 | 75 | [Dust](https://open.spotify.com/track/7mEK8ZfXB69HKYZrOnV9CD) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Dust](https://open.spotify.com/album/23IQqam0aRAKSCLjOv9hlu) | 3:06 |
 | 76 | [Lovin' Not Leavin'](https://open.spotify.com/track/5rdW1DHY49AjT38jP4NZhf) | [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI) | [Lovin' Not Leavin'](https://open.spotify.com/album/6mc464jvzmrvUJBwlLdExy) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ee0ngF5ZVQ.md) - [plain]
 | 99 | [John Wayne](https://open.spotify.com/track/32HzrX0rfhNdd9uJdeLO7u) | [Rachel LaRen](https://open.spotify.com/artist/52mZQzoHHS6rWygkzKuZFv) | [John Wayne](https://open.spotify.com/album/5s32nBJPKJ8jr4c8I4dj0M) | 3:08 |
 | 100 | [When the Good Ol Boys Age Out](https://open.spotify.com/track/5LAbNvWjVcWgVCkiLdTrfR) | [Jon Wolfe](https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp), [Jamey Johnson](https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8) | [When the Good Ol Boys Age Out](https://open.spotify.com/album/4XeY6zjxs6rQ19UeeNo6jY) | 4:16 |
 
-Snapshot ID: `MCwxZDBkNmNlYjJkMGIxOGI3ZDY2ZDA3OWZhZjcxZTE5YmZjMzg3ZjNh`
+Snapshot ID: `MCw1Mzc4YzUwOGYzZmJjMTI0NWZiOWJhNDE0MmVmMGQxYzU0ZjViNWUy`

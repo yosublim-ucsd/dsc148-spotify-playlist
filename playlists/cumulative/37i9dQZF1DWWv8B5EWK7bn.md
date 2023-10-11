@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-335 songs - 1 day 0 hr 1 min
+336 songs - 1 day 0 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -192,6 +192,7 @@
 | [Mouth](https://open.spotify.com/track/05cL1sVT4MNyBqBw3ef5vb) | [Orions Belte](https://open.spotify.com/artist/3Kzo2BzQIPQW0397gx9rRp) | [Mouth](https://open.spotify.com/album/6pgLIoWlqTwulgAFoZhjve) | 4:01 | 2021-10-06 | 2022-10-06 |
 | [Máscara de Niña](https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Máscara de Niña](https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw) | 3:14 | 2023-03-23 | 2023-06-02 |
 | [Nada Es Real](https://open.spotify.com/track/4R1okSTH8zqxtfZMgyx7cr) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Aline Terrein](https://open.spotify.com/artist/1KHhTDB0lBCXqm54Fseodx) | [Nada Es Real](https://open.spotify.com/album/2Qi9MlTtbvoaoSxn5EvZmd) | 3:29 | 2022-07-29 | 2022-09-01 |
+| [New Joy](https://open.spotify.com/track/2XWMDcbMGRypWYc58lOeTI) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [New Joy](https://open.spotify.com/album/3VbIOwadp0IpBVvNfBmRxx) | 3:16 | 2023-10-10 |  |
 | [NIGHT CRAWLING](https://open.spotify.com/track/1mSYUtXT32YJZg2cALSq0O) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [NIGHT CRAWLING](https://open.spotify.com/album/2r1nEJHd2dvPfpSMnpNZRm) | 4:53 | 2022-08-13 |  |
 | [NIGHT CRAWLING](https://open.spotify.com/track/6eqE3PGD8WHW1UysiCGmZk) | [John Cale](https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW) | [STORY OF BLOOD](https://open.spotify.com/album/6voVkae1055milSYpRzzGc) | 4:53 | 2023-01-20 | 2023-02-04 |
 | [Nisemono](https://open.spotify.com/track/2pKk2VK9uSKfAq9rtDPJef) | [Ginger Root](https://open.spotify.com/artist/4UAW69682T7N0wrABUhqx0) | [Nisemono](https://open.spotify.com/album/7taDp3ENsj9voOAwVQ36PQ) | 3:01 | 2022-09-09 | 2023-03-25 |
@@ -268,7 +269,7 @@
 | [Sospetto](https://open.spotify.com/track/6gTRoJiuxI5IoOgdmkEhBK) | [Trees Speak](https://open.spotify.com/artist/7Bw4KOeFdVW8DGMn8OBQB3) | [Mind Maze](https://open.spotify.com/album/5zuMSx2P6VTkSXUuMR4X1P) | 3:08 | 2023-04-14 |  |
 | [Sour Mango](https://open.spotify.com/track/7stREI9Xh4myxmMmaj3gIo) | [Gabriel Garzón\-Montano](https://open.spotify.com/artist/1R4GxRuSVTPSb6oy56SPST) | [Jardín](https://open.spotify.com/album/3F10bARKBtqRdRywrjwAti) | 4:19 | 2023-01-20 | 2023-03-18 |
 | [Sour Sun](https://open.spotify.com/track/3OjsDgh6zdsi1PbYfOkgt6) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Fairy Rust](https://open.spotify.com/album/0wl8ikp9PHraTsaKP1haF7) | 2:37 | 2022-09-07 | 2023-04-30 |
-| [Sour Sun](https://open.spotify.com/track/58MSdjZOSfpi4Namw33bJ8) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Fairy Rust](https://open.spotify.com/album/2zufQqm9WmCxVQDhWUvTvR) | 2:37 | 2022-09-07 |  |
+| [Sour Sun](https://open.spotify.com/track/58MSdjZOSfpi4Namw33bJ8) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Fairy Rust](https://open.spotify.com/album/2zufQqm9WmCxVQDhWUvTvR) | 2:37 | 2022-09-07 | 2023-10-11 |
 | [Special Affair](https://open.spotify.com/track/3NWTRZ0A8xKlBP1qgNftql) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Ego Death](https://open.spotify.com/album/69g3CtOVg98TPOwqmI2K7Q) | 2:56 | 2023-01-20 | 2023-03-18 |
 | [Starry Nights](https://open.spotify.com/track/1ijMJdADgg379aghDnIby7) | [Adrian Quesada](https://open.spotify.com/artist/07YivsJVCrmhhjzBcBtMGv), [Neal Francis](https://open.spotify.com/artist/2e5y5Gs5lgnDmiY4TKLsq3) | [Starry Nights](https://open.spotify.com/album/4C7LlniFpxLzq9zqycHosH) | 3:25 | 2022-11-17 |  |
 | [Starved for Glamour](https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ) | [Marker Starling](https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if), [Laetitia Sadier](https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb) | [High January](https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE) | 4:26 | 2021-10-06 |  |

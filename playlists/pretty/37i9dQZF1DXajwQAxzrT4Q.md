@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 
 > Bounce to the Brick City sound\. From New Jersey to the world\. Cover: Lay Bankz
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,015 likes - 75 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,128 likes - 75 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 45 | [eyes](https://open.spotify.com/track/2YOev1DTVgKTqBuUN3J5kg) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM) | [eyes](https://open.spotify.com/album/3kjWlk30j8gIzBe39MbndW) | 2:22 |
 | 46 | [UDNTLUVME](https://open.spotify.com/track/2hjutKtktLpMj9eNAvwf8v) | [Dro Kenji](https://open.spotify.com/artist/46fHMu9KxdQwcGV9xI1L9R) | [UDNTLUVME](https://open.spotify.com/album/2V8xV6rPlvAPPh3z9QpLV0) | 2:18 |
 | 47 | [CTRL](https://open.spotify.com/track/0cGwZWfdBTLWZSiATC7OXm) | [Mysie](https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf) | [CTRL](https://open.spotify.com/album/3lg6V1KDuWepNyGt3YSTJ7) | 2:19 |
-| 48 | [Cupid, Pt\. 2](https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Cupid, Pt\. 2](https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn) | 1:42 |
-| 49 | [Break From Jersey](https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Break From Jersey](https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi) | 2:31 |
+| 48 | [Break From Jersey](https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY) | [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Break From Jersey](https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi) | 2:31 |
+| 49 | [Cupid, Pt\. 2](https://open.spotify.com/track/7zk0z0E2uZ8azp9raTp5N2) | [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [Cupid, Pt\. 2](https://open.spotify.com/album/3H43yex9wZwkwbTe8tp6nn) | 1:42 |
 | 50 | [WOAH](https://open.spotify.com/track/5tF9WEhxbT2hDzD1TN5yPo) | [KYLE](https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v), [Lay Bankz](https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F) | [WOAH](https://open.spotify.com/album/2KIwLYx6itepTddDMWhkoW) | 2:48 |
 | 51 | [We Are Young \(Jersey Club\)](https://open.spotify.com/track/4F8JgSAhDLib5yoUoykMMZ) | [Kyle Edwards](https://open.spotify.com/artist/5zvOGQ4uW2viBHMmkyl3C2), [DJ Smallz 732](https://open.spotify.com/artist/6GrHfxMFCXCdIhN9DrAxjK) | [We Are Young \(Jersey Club\)](https://open.spotify.com/album/56kpBfXOfkpKg3QYHKKAJj) | 1:49 |
 | 52 | [Jersey Anniversary](https://open.spotify.com/track/4dNU2ZPVNFv5kDGee25DSU) | [KiaBHN](https://open.spotify.com/artist/6qEQN3nqhzCkT8tFvlmPLk), [Tony! Toni! Toné!](https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW), [DJ BigO](https://open.spotify.com/artist/2Cy1KpNWiTxaVCwDgz0jRD), [Vivid The Producer](https://open.spotify.com/artist/00NSEb3Siwey1RGnfGayah), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [Gratitude](https://open.spotify.com/album/6YH27S9buQftksi0FRgh0f) | 3:12 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXajwQAxzrT4Q.md) - [plain]
 | 74 | [\#miles \(DJ Sliink Remix\)](https://open.spotify.com/track/4OWGtEwXCFTopkKyEZv0ur) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [DJ Sliink](https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk) | [\#miles \(DJ Sliink Remix\)](https://open.spotify.com/album/6edZ2TEStQvGjvtTuv20mK) | 3:16 |
 | 75 | [Hatin' Ass Bitches Anthem](https://open.spotify.com/track/31a8W1uih2MM9VDogfbbft) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki), [Flyy TheProducer](https://open.spotify.com/artist/74iuhv9ckDRfg4fGDaOMTG), [Pyt Ny](https://open.spotify.com/artist/2nUK9dIcPlhwjBZ8H6kBKy), [Dj Blizz](https://open.spotify.com/artist/2zYaRrKIuHRb2zeseymcUu) | [Hatin' Ass Bitches Anthem](https://open.spotify.com/album/75l0Wfo3Y4SCb7jkk8Rn10) | 1:56 |
 
-Snapshot ID: `MCxlYjZmMmVjMDcyNDAxZjU5NzIyMGFiMWI3NmRkNDY1ZWRiNmEzNWY4`
+Snapshot ID: `MCxlOGU2ODQ1ZjJlMWM2YmJhOWVjM2I0YTQxNTZiNmY5Y2RjYmVlMjVm`

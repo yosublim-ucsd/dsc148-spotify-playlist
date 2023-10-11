@@ -1,12 +1,12 @@
 {
   "description": "These hits were made to stay! Revive los \u00e9xitos de los \u00faltimos meses aqu\u00ed.",
-  "num_followers": 551106,
+  "num_followers": 551126,
   "original_name": "Latin Hit Mix",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmM5MWQwZmFlODhlYTA0NDNmNzIyMjBhMDBiNmZiOGVmY2NhZWFm",
+  "snapshot_id": "MCwyOWVmZTU3MDZlNDFhMWFmMDU2MWU3MTY3NGNiOTUzMDdiN2JiN2I1",
   "tracks": [
     {
       "added_at": "2023-09-18 19:26:00",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-09-18 19:26:00",
       "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 243716,
+      "name": "Tit\u00ed Me Pregunt\u00f3",
+      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
+    },
+    {
+      "added_at": "2023-09-18 19:26:00",
+      "album": {
         "name": "Un Finde | CROSSOVER #2",
         "url": "https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 162500,
       "name": "Un Finde | CROSSOVER #2",
       "url": "https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY"
-    },
-    {
-      "added_at": "2023-09-18 19:26:00",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 243716,
-      "name": "Tit\u00ed Me Pregunt\u00f3",
-      "url": "https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ"
     },
     {
       "added_at": "2023-09-18 19:26:00",
@@ -211,22 +211,18 @@
     {
       "added_at": "2023-09-18 19:26:00",
       "album": {
-        "name": "Fr\u00e1gil",
-        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
+        "name": "La Bachata",
+        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
       },
       "artists": [
         {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
         }
       ],
-      "duration_ms": 160517,
-      "name": "Fr\u00e1gil",
-      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
+      "duration_ms": 162637,
+      "name": "La Bachata",
+      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
     },
     {
       "added_at": "2023-09-18 19:26:00",
@@ -251,18 +247,38 @@
     {
       "added_at": "2023-09-18 19:26:00",
       "album": {
-        "name": "La Bachata",
-        "url": "https://open.spotify.com/album/1TpGeAzOJgAGdPkcWl95r2"
+        "name": "Fr\u00e1gil",
+        "url": "https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2"
       },
       "artists": [
         {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        },
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 162637,
-      "name": "La Bachata",
-      "url": "https://open.spotify.com/track/5ww2BF9slyYgNOk37BlC4u"
+      "duration_ms": 160517,
+      "name": "Fr\u00e1gil",
+      "url": "https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0"
+    },
+    {
+      "added_at": "2023-09-18 19:26:00",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 213061,
+      "name": "Efecto",
+      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
     },
     {
       "added_at": "2023-09-18 19:26:00",
@@ -339,22 +355,6 @@
     {
       "added_at": "2023-09-18 19:26:00",
       "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 213061,
-      "name": "Efecto",
-      "url": "https://open.spotify.com/track/5Eax0qFko2dh7Rl2lYs3bx"
-    },
-    {
-      "added_at": "2023-09-18 19:26:00",
-      "album": {
         "name": "SIXDO",
         "url": "https://open.spotify.com/album/31L7J7AO993tSBxAunoeoa"
       },
@@ -427,6 +427,22 @@
     {
       "added_at": "2023-09-18 19:26:00",
       "album": {
+        "name": "c\u00f3mo dormiste?",
+        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "duration_ms": 112572,
+      "name": "c\u00f3mo dormiste?",
+      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
+    },
+    {
+      "added_at": "2023-09-18 19:26:00",
+      "album": {
         "name": "Copa Vac\u00eda",
         "url": "https://open.spotify.com/album/4qtiO9UGqajxnKC0z0Mxn7"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 173547,
       "name": "Copa Vac\u00eda",
       "url": "https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G"
-    },
-    {
-      "added_at": "2023-09-18 19:26:00",
-      "album": {
-        "name": "c\u00f3mo dormiste?",
-        "url": "https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK"
-      },
-      "artists": [
-        {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
-        }
-      ],
-      "duration_ms": 112572,
-      "name": "c\u00f3mo dormiste?",
-      "url": "https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ"
     },
     {
       "added_at": "2023-09-18 19:26:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-09-18 19:26:00",
       "album": {
-        "name": "Bye",
-        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 212976,
-      "name": "Bye",
-      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
-    },
-    {
-      "added_at": "2023-09-18 19:26:00",
-      "album": {
         "name": "DESVELADO",
         "url": "https://open.spotify.com/album/5aDEezKnOqyQo0qvTFhpkM"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 205299,
       "name": "As\u00ed Lo Quiso Dios",
       "url": "https://open.spotify.com/track/6X5WZbJzXtk6aO03HlxuZ9"
+    },
+    {
+      "added_at": "2023-09-18 19:26:00",
+      "album": {
+        "name": "Bye",
+        "url": "https://open.spotify.com/album/5mRzjZUa5VfaveaPtPqJBB"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 212976,
+      "name": "Bye",
+      "url": "https://open.spotify.com/track/6n2P81rPk2RTzwnNNgFOdb"
     },
     {
       "added_at": "2023-09-18 19:26:00",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-09-18 19:26:00",
       "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 193333,
+      "name": "Mas Altas Que Bajadas",
+      "url": "https://open.spotify.com/track/4Zx0yrZwW4uNpd1FhIrOV5"
+    },
+    {
+      "added_at": "2023-09-18 19:26:00",
+      "album": {
         "name": "Ni\u00f1a Bonita",
         "url": "https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 187653,
       "name": "Ni\u00f1a Bonita",
       "url": "https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv"
-    },
-    {
-      "added_at": "2023-09-18 19:26:00",
-      "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 193333,
-      "name": "Mas Altas Que Bajadas",
-      "url": "https://open.spotify.com/track/4Zx0yrZwW4uNpd1FhIrOV5"
     },
     {
       "added_at": "2023-09-18 19:26:00",
@@ -907,6 +907,22 @@
     {
       "added_at": "2023-09-18 19:26:00",
       "album": {
+        "name": "Lisa",
+        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 159306,
+      "name": "Lisa",
+      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
+    },
+    {
+      "added_at": "2023-09-18 19:26:00",
+      "album": {
         "name": "DEMBOW B\u00c9LICO",
         "url": "https://open.spotify.com/album/0tBIOtAGyBryVpVVU4umOL"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 126522,
       "name": "DEMBOW B\u00c9LICO",
       "url": "https://open.spotify.com/track/0FkD2FHEZrZIofVkY6XPFK"
-    },
-    {
-      "added_at": "2023-09-18 19:26:00",
-      "album": {
-        "name": "Lisa",
-        "url": "https://open.spotify.com/album/2jy7QlJB9hWgYsajBv4IOt"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 159306,
-      "name": "Lisa",
-      "url": "https://open.spotify.com/track/44FzVABpR2cciquTqADA0D"
     },
     {
       "added_at": "2023-09-18 19:26:00",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-09-18 19:26:00",
       "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
-      },
-      "artists": [
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 176142,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
-    },
-    {
-      "added_at": "2023-09-18 19:26:00",
-      "album": {
         "name": "Rinc\u00f3n",
         "url": "https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 164810,
       "name": "Rinc\u00f3n",
       "url": "https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb"
+    },
+    {
+      "added_at": "2023-09-18 19:26:00",
+      "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
     },
     {
       "added_at": "2023-09-18 19:26:00",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2023-09-18 19:26:00",
       "album": {
-        "name": "Feliz Cumplea\u00f1os Ferxxo",
-        "url": "https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 156400,
-      "name": "Feliz Cumplea\u00f1os Ferxxo",
-      "url": "https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp"
-    },
-    {
-      "added_at": "2023-09-18 19:26:00",
-      "album": {
         "name": "L3tra",
         "url": "https://open.spotify.com/album/70ubyVo5JwY94DLaZBkIBI"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 141340,
       "name": "Caile",
       "url": "https://open.spotify.com/track/6i1g5ZRmJZAkDwBaUZ3f2i"
+    },
+    {
+      "added_at": "2023-09-18 19:26:00",
+      "album": {
+        "name": "Feliz Cumplea\u00f1os Ferxxo",
+        "url": "https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 156400,
+      "name": "Feliz Cumplea\u00f1os Ferxxo",
+      "url": "https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp"
     },
     {
       "added_at": "2023-09-18 19:26:00",

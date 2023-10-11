@@ -1,12 +1,12 @@
 {
   "description": "Canciones tropicales que te transportan a Caleta y Caletilla.",
-  "num_followers": 72676,
+  "num_followers": 72742,
   "original_name": "Acapulco en la Azotea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYjJhZTEyYWM4M2E0MDg4NWYzMmI2ZGRmOTI2NzNhNjQ1MGFkN2Nl",
+  "snapshot_id": "MCxiYWJiMjk3YTIzNjlhMDkyYTNiYTIxNDc5NWE2ZWFlYTc0NzJkNGJh",
   "tracks": [
     {
       "added_at": "2023-06-16 16:50:57",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "La Chica Que So\u00f1e",
-        "url": "https://open.spotify.com/album/1QF3TDSasFAaeqxL5Cj25g"
-      },
-      "artists": [
-        {
-          "name": "Tropical Panam\u00e1",
-          "url": "https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb"
-        }
-      ],
-      "duration_ms": 190773,
-      "name": "La Chica Que So\u00f1\u00e9",
-      "url": "https://open.spotify.com/track/16NRutjxxtfqIDvlwLFw1A"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/7jeKLx1cNUzdOLZdH8iEn1"
       },
@@ -363,18 +347,18 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Castigo\u2026",
-        "url": "https://open.spotify.com/album/68M7vT5AExw4SOIhEbYL7q"
+        "name": "La Chica Que So\u00f1e",
+        "url": "https://open.spotify.com/album/1QF3TDSasFAaeqxL5Cj25g"
       },
       "artists": [
         {
-          "name": "Los Byby's",
-          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
+          "name": "Tropical Panam\u00e1",
+          "url": "https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb"
         }
       ],
-      "duration_ms": 168320,
-      "name": "Llorar Llorar Llorar",
-      "url": "https://open.spotify.com/track/5APUuzq91fI3G1x3OsaOeJ"
+      "duration_ms": 190773,
+      "name": "La Chica Que So\u00f1\u00e9",
+      "url": "https://open.spotify.com/track/16NRutjxxtfqIDvlwLFw1A"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -391,6 +375,22 @@
       "duration_ms": 71893,
       "name": "Pedacito de Mi Vida",
       "url": "https://open.spotify.com/track/19YvqddJfyV89RVT2MwlXz"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Castigo\u2026",
+        "url": "https://open.spotify.com/album/68M7vT5AExw4SOIhEbYL7q"
+      },
+      "artists": [
+        {
+          "name": "Los Byby's",
+          "url": "https://open.spotify.com/artist/3CmqbJaTL0hrMiYfY0ssiN"
+        }
+      ],
+      "duration_ms": 168320,
+      "name": "Llorar Llorar Llorar",
+      "url": "https://open.spotify.com/track/5APUuzq91fI3G1x3OsaOeJ"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "17 Aniversario",
-        "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
-      },
-      "artists": [
-        {
-          "name": "Grupo Pegasso",
-          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
-        }
-      ],
-      "duration_ms": 199862,
-      "name": "Cosas del Amor",
-      "url": "https://open.spotify.com/track/7hUeM605R3peXzGU9FBgix"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "El Soltero",
         "url": "https://open.spotify.com/album/0bjpHFI6ooAjv8ePZj8NsL"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 146146,
       "name": "Cangrejito Playero",
       "url": "https://open.spotify.com/track/6mitEFB3w4GBe8YDlLfITL"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "17 Aniversario",
+        "url": "https://open.spotify.com/album/4joa1vqbREElbkYJRzLG77"
+      },
+      "artists": [
+        {
+          "name": "Grupo Pegasso",
+          "url": "https://open.spotify.com/artist/00YglmekVqqlHbv8N8erfv"
+        }
+      ],
+      "duration_ms": 199862,
+      "name": "Cosas del Amor",
+      "url": "https://open.spotify.com/track/7hUeM605R3peXzGU9FBgix"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Y Es por Ti",
-        "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
-      },
-      "artists": [
-        {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
-        }
-      ],
-      "duration_ms": 193146,
-      "name": "Juana la Cubana",
-      "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Sabor A Cumbia",
         "url": "https://open.spotify.com/album/0Fx3NFasbLGE619e3M6LP2"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 207400,
       "name": "Mu\u00f1eca Esquiva",
       "url": "https://open.spotify.com/track/4ggg2LHw1hxissztRc2Iga"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Y Es por Ti",
+        "url": "https://open.spotify.com/album/5HHGQxwgUibH2gDmN7CA0m"
+      },
+      "artists": [
+        {
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+        }
+      ],
+      "duration_ms": 193146,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "Cumbias Cumbias Cumbias",
-        "url": "https://open.spotify.com/album/6pJYj1JmkoLlDFNkF5WpN4"
-      },
-      "artists": [
-        {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
-        }
-      ],
-      "duration_ms": 226960,
-      "name": "Sorbito De Champana",
-      "url": "https://open.spotify.com/track/1Oqe4XCDKIRS2eK4g5BQIj"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "15 Exitos",
         "url": "https://open.spotify.com/album/6tmgzoSUGJV7YmkCD8LiA0"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 163000,
       "name": "Dame Mas Amor",
       "url": "https://open.spotify.com/track/2HTCgnClGkbNQLUVBLR8EC"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "Cumbias Cumbias Cumbias",
+        "url": "https://open.spotify.com/album/6pJYj1JmkoLlDFNkF5WpN4"
+      },
+      "artists": [
+        {
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+        }
+      ],
+      "duration_ms": 226960,
+      "name": "Sorbito De Champana",
+      "url": "https://open.spotify.com/track/1Oqe4XCDKIRS2eK4g5BQIj"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
+        "name": "Exitos Quemantes Vol. IV",
+        "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
+      },
+      "artists": [
+        {
+          "name": "Tropical\u00edsimo Apache",
+          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
+        }
+      ],
+      "duration_ms": 183440,
+      "name": "Ojitos Mentirosos",
+      "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
         "name": "12 Super Exitos",
         "url": "https://open.spotify.com/album/5W827hvHWk2pL0gP0xzixG"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 188943,
       "name": "Adolescente y Bonita",
       "url": "https://open.spotify.com/track/3V29kIVkcNchC5ydvY0ZyR"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
-        "name": "Exitos Quemantes Vol. IV",
-        "url": "https://open.spotify.com/album/1nYMViSA4UU0LvvWlKrcrC"
-      },
-      "artists": [
-        {
-          "name": "Tropical\u00edsimo Apache",
-          "url": "https://open.spotify.com/artist/1veLiIQBt4YcFO5Z36DwFO"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Ojitos Mentirosos",
-      "url": "https://open.spotify.com/track/7DTKpVBKNPsDGKwVTl2Txe"
     },
     {
       "added_at": "2023-06-16 16:50:57",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-06-16 16:50:57",
       "album": {
-        "name": "15 EXITOS",
-        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Santanera",
-          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
-        }
-      ],
-      "duration_ms": 166066,
-      "name": "El Ladr\u00f3n",
-      "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
-    },
-    {
-      "added_at": "2023-06-16 16:50:57",
-      "album": {
         "name": "Viva el Amor",
         "url": "https://open.spotify.com/album/1o5ZMdsdZIjhjCRV54BDlF"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 208882,
       "name": "Viva el Amor",
       "url": "https://open.spotify.com/track/0dPW1gm93Ls6VVdNDuxbGw"
+    },
+    {
+      "added_at": "2023-06-16 16:50:57",
+      "album": {
+        "name": "15 EXITOS",
+        "url": "https://open.spotify.com/album/2CHM7kNjxlfUHpOj1BuxOs"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Santanera",
+          "url": "https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77"
+        }
+      ],
+      "duration_ms": 166066,
+      "name": "El Ladr\u00f3n",
+      "url": "https://open.spotify.com/track/6wD6ELX0mFyBzEMqhDp3F8"
     },
     {
       "added_at": "2023-06-16 16:50:57",

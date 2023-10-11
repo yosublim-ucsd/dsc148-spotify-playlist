@@ -1,12 +1,12 @@
 {
   "description": "Gospel music from across East Africa",
-  "num_followers": 3077,
+  "num_followers": 3086,
   "original_name": "Sunday Service",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzMxYzcyNDg5NWM3OTAxNjYwN2VjOTEzZWFkYjU5NmRmZTNkMWFk",
+  "snapshot_id": "MCw0ZjUwNDU0ZDkzNTMwN2M3MmU3MGVlNGY1NDY4ODQ3NDc2MWIwNjVk",
   "tracks": [
     {
       "added_at": "2023-06-16 00:01:00",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
+        "name": "Safari: The Journey",
+        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
+      },
+      "artists": [
+        {
+          "name": "Adawnage",
+          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
+        }
+      ],
+      "duration_ms": 282932,
+      "name": "Naomba",
+      "url": "https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
         "name": "WINNING",
         "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 152622,
       "name": "WINNING",
       "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
-        "name": "Safari: The Journey",
-        "url": "https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy"
-      },
-      "artists": [
-        {
-          "name": "Adawnage",
-          "url": "https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3"
-        }
-      ],
-      "duration_ms": 282932,
-      "name": "Naomba",
-      "url": "https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV"
     },
     {
       "added_at": "2023-08-25 00:01:00",
@@ -669,26 +669,6 @@
       "url": "https://open.spotify.com/track/1nO0fZt8fzqEcwl7GTIFp2"
     },
     {
-      "added_at": "2023-09-15 00:01:00",
-      "album": {
-        "name": "Good",
-        "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
-      },
-      "artists": [
-        {
-          "name": "Nolly",
-          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
-        },
-        {
-          "name": "Omojo",
-          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
-        }
-      ],
-      "duration_ms": 216111,
-      "name": "Good",
-      "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
-    },
-    {
       "added_at": "2023-08-25 00:01:00",
       "album": {
         "name": "Blessings (Everywhere I Go)",
@@ -715,6 +695,26 @@
       "duration_ms": 183529,
       "name": "Blessings (Everywhere I Go)",
       "url": "https://open.spotify.com/track/6wgw0w5N3AQ7AfHcoL2JqW"
+    },
+    {
+      "added_at": "2023-09-15 00:01:00",
+      "album": {
+        "name": "Good",
+        "url": "https://open.spotify.com/album/0hoXUusEcoPlaMlclSn51i"
+      },
+      "artists": [
+        {
+          "name": "Nolly",
+          "url": "https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM"
+        },
+        {
+          "name": "Omojo",
+          "url": "https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC"
+        }
+      ],
+      "duration_ms": 216111,
+      "name": "Good",
+      "url": "https://open.spotify.com/track/6RM5xAAj92QSAIGTd2i267"
     },
     {
       "added_at": "2023-09-01 00:01:00",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-08-25 00:01:00",
       "album": {
-        "name": "Mungu Ni Mungu Tu",
-        "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
-      },
-      "artists": [
-        {
-          "name": "Christopher Mwahangila",
-          "url": "https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt"
-        }
-      ],
-      "duration_ms": 507425,
-      "name": "Mungu Ni Mungu Tu",
-      "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
-    },
-    {
-      "added_at": "2023-08-25 00:01:00",
-      "album": {
         "name": "Tumeshinda",
         "url": "https://open.spotify.com/album/1RdqSSPAjSvXgGo7IhXNo9"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 365417,
       "name": "Tumeshinda",
       "url": "https://open.spotify.com/track/4P7IRSGCVIynyzUWRoXHBK"
+    },
+    {
+      "added_at": "2023-08-25 00:01:00",
+      "album": {
+        "name": "Mungu Ni Mungu Tu",
+        "url": "https://open.spotify.com/album/6VN94Rh765VubmbJqUgsHl"
+      },
+      "artists": [
+        {
+          "name": "Christopher Mwahangila",
+          "url": "https://open.spotify.com/artist/7MxY8jHpDAllgtfbyg52Kt"
+        }
+      ],
+      "duration_ms": 507425,
+      "name": "Mungu Ni Mungu Tu",
+      "url": "https://open.spotify.com/track/0lNCtObfOXRHOYqPn0vr3C"
     },
     {
       "added_at": "2023-08-25 00:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women from all over the world, at full volume\. Cover: Nadya Okamoto
 
-[Spotify](https://open.spotify.com/user/spotify) - 917,374 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 916,949 likes - 75 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 23 | [I Love My Body](https://open.spotify.com/track/0pHylQR53epYtRcVIhUSCh) | [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [I Love My Body](https://open.spotify.com/album/7Lbc8drIJGlYLT4hdcBvre) | 2:30 |
 | 24 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 |
 | 25 | [Loba](https://open.spotify.com/track/1fPCGREltHJuV3axEPydLp) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [She Wolf \(Expanded Edition\)](https://open.spotify.com/album/5u0OuxRnf3FzvZR07xAxL2) | 3:09 |
-| 26 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
-| 27 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 |
+| 26 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 |
+| 27 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 |
 | 28 | [Pardonne\-moi](https://open.spotify.com/track/7e9St8J2mT2Y7peHokbQRY) | [Louane](https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC) | [Pardonne\-moi](https://open.spotify.com/album/53PJ9MPRmz9TJaVdzUXiO9) | 3:07 |
 | 29 | [Independent Women, Pt\. 1](https://open.spotify.com/track/69XUpOpjzDKcfdxqZebGiI) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 3:41 |
 | 30 | [Ma muse](https://open.spotify.com/track/04Y0l7UQzs13uyKXzCYi2p) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Ma muse / Je t'haine](https://open.spotify.com/album/6GuWrATXQamfjDlQdion0H) | 2:58 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 50 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 |
 | 51 | [MARIA PRZED OŁTARZEM](https://open.spotify.com/track/5sobLosz9Iylv99EoX6759) | [Mery Spolsky](https://open.spotify.com/artist/4U3Mh4fpzJb7XD1CR1ZbDx) | [MARIA PRZED OŁTARZEM](https://open.spotify.com/album/0UyyV7i0FJmHgD06VwtYAR) | 3:00 |
 | 52 | [Sushi en Lata](https://open.spotify.com/track/0ay8DzY6bSJ7Ok85oR34Mn) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 2:07 |
-| 53 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
-| 54 | [Hay aliya](https://open.spotify.com/track/3uXfxzrlhW9KwIM8aF5Zq3) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Hay aliya](https://open.spotify.com/album/0kke5oKlPdP0oSqlKaXsjR) | 2:57 |
+| 53 | [Hay aliya](https://open.spotify.com/track/3uXfxzrlhW9KwIM8aF5Zq3) | [Numidia Lezoul](https://open.spotify.com/artist/6muXgBSOp2nEPpnoJZUvGZ) | [Hay aliya](https://open.spotify.com/album/0kke5oKlPdP0oSqlKaXsjR) | 2:57 |
+| 54 | [Los Paisajes](https://open.spotify.com/track/6EraKvLemUTpusIFpGdPTn) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Natural](https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx) | 3:58 |
 | 55 | [Nieba nie ma](https://open.spotify.com/track/4WCr0otDWYCVYHsbtvxqZU) | [Kasia Lins](https://open.spotify.com/artist/7IRnDitYnXmIpoClQ0XspK) | [Nieba nie ma](https://open.spotify.com/album/7tE91JMUMPk4AHAX0IGNXn) | 2:58 |
 | 56 | [Di Arsy\-Mu](https://open.spotify.com/track/4GvHn9ArvWi0eB6lvq1Rzk) | [Lesti](https://open.spotify.com/artist/4Brw5KASFH1RpDEfdtzsJB) | [Di Arsy\-Mu](https://open.spotify.com/album/4vLuDMMcmt8JeSIYMyTCM7) | 5:46 |
 | 57 | [I Like Boys](https://open.spotify.com/track/51M1VWU6EMuNBGPfce03sZ) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [I Like Boys](https://open.spotify.com/album/5VUDQzV5sQED97pVSlGDdi) | 3:09 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 63 | [Wild Girl](https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Wild Girl](https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT) | 3:14 |
 | 64 | [Home With Me](https://open.spotify.com/track/4L5k6CJOltwqapOYT7OvkH) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Home With Me](https://open.spotify.com/album/4YuGF62IsiSP9PzRu3YERe) | 2:47 |
 | 65 | [berlin U5](https://open.spotify.com/track/6S3oslrDkG9vyTDrtyjokA) | [Zahara](https://open.spotify.com/artist/7uLePkJ2f0MwEcphODfkuu) | [PUTA](https://open.spotify.com/album/2ctwMRxRCZabremU4pGcz4) | 3:39 |
-| 66 | [DELİ](https://open.spotify.com/track/3dqetJY7RPBoXOC1nv8cX0) | [Elanur](https://open.spotify.com/artist/33FCgXF01vOfBtjoul6ne1) | [DELİ](https://open.spotify.com/album/6UUYyNcEYx5zaSgjEgqIr9) | 1:48 |
-| 67 | [Pao Sto Nisi](https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pao Sto Nisi](https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD) | 2:58 |
-| 68 | [Energy](https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h) | [Energy](https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf) | 2:37 |
-| 69 | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/track/7GcPP6XnsvwJzJ7GMem62o) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/album/5aVa3UtePEKd3BBLmHWYdc) | 3:46 |
+| 66 | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/track/7GcPP6XnsvwJzJ7GMem62o) | [Thiều Bảo Trâm](https://open.spotify.com/artist/6RUfMGubOnHT1p3nfeXpBl), [Châu Đăng Khoa](https://open.spotify.com/artist/7oOFsgF6y3Z9wI7fgJTbFk) | [Chắc Anh Có Nỗi Khổ Tâm](https://open.spotify.com/album/5aVa3UtePEKd3BBLmHWYdc) | 3:46 |
+| 67 | [DELİ](https://open.spotify.com/track/3dqetJY7RPBoXOC1nv8cX0) | [Elanur](https://open.spotify.com/artist/33FCgXF01vOfBtjoul6ne1) | [DELİ](https://open.spotify.com/album/6UUYyNcEYx5zaSgjEgqIr9) | 1:48 |
+| 68 | [Pao Sto Nisi](https://open.spotify.com/track/3gPB5PoS0A1tVb6mBAy3D0) | [Katerina Lioliou](https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD) | [Pao Sto Nisi](https://open.spotify.com/album/1hSA2yesJuKQeEfhzWxkwD) | 2:58 |
+| 69 | [Energy](https://open.spotify.com/track/60NWySy9UQUs0uhkW8KG3L) | [Mystic Marley](https://open.spotify.com/artist/5WhXMSMSiOyEhXBNI6Lf2h) | [Energy](https://open.spotify.com/album/1ugvgS5zZC3YizYlhJ8TBf) | 2:37 |
 | 70 | [Say My Name](https://open.spotify.com/track/6AchAK5rBD4KTzJ14wOvSI) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [Say My Name](https://open.spotify.com/album/2tAO03fZDc1V1TureuHTeH) | 2:39 |
 | 71 | [Miami \- From Miami Bici 2 The Movie](https://open.spotify.com/track/6zssQJs1w0wOFuyVBU8VB2) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [Miami \(From Miami Bici 2 The Movie\)](https://open.spotify.com/album/0r81zGM7H4gVVz2YpvLbzT) | 2:20 |
 | 72 | [Flowers!](https://open.spotify.com/track/5hUWDfvdFgWCmmv8HWSi18) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [Flowers!](https://open.spotify.com/album/0rOJqOs5SZZm63oZDvLNFU) | 2:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 74 | [m00d](https://open.spotify.com/track/45DZdd09Sopo3UOoeJgifU) | [LAYYI](https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr) | [m00d](https://open.spotify.com/album/5zFqEhDGip3zPPvLshFeDk) | 3:04 |
 | 75 | [Kimseye Etmem Şikayet](https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb) | [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd) | [Atatürk'ün Sevdigi Sarkilar](https://open.spotify.com/album/5J4QWWmohr3y08TRNwWc04) | 3:48 |
 
-Snapshot ID: `MCw0YTk2YWNhMjA2NDE0OGFlM2YxZTE3Y2Q4YjZiY2MxMmMyYjE0ZTRi`
+Snapshot ID: `MCw0M2MyNjc4MWQ2N2Q0NTQ3OTRkMWI5ZDgzYjhmYjFiY2EwNzJkMzhh`

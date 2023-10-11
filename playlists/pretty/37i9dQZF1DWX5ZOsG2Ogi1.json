@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Perreo del bueno! Cover: Feid",
-  "num_followers": 1336636,
+  "num_followers": 1336453,
   "original_name": "Puro Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YWM5NjMxZmI1NDhiODcwYzg3ZGMyMTE3ZWY1MGJkZjA1Y2NiMTdm",
+  "snapshot_id": "MCw2OWY5MWRiZjY0ZmZjZWVlZTZhNTQyMmVmOTM0N2FkMmU0YzNhMTYw",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -943,26 +943,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "LOKERA",
-        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
+        "name": "Borracho y Loco",
+        "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
         },
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 197101,
-      "name": "LOKERA",
-      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
+      "duration_ms": 171800,
+      "name": "Borracho y Loco",
+      "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -987,6 +983,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Jordan",
+        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
+      },
+      "artists": [
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 176142,
+      "name": "Jordan",
+      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "En To Lao",
         "url": "https://open.spotify.com/album/6vbpPVgsQJgXyfXc6q6CPl"
       },
@@ -1007,18 +1019,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Jordan",
-        "url": "https://open.spotify.com/album/5NXNrP5J2LhfkbI9ZfcNXI"
+        "name": "LOKERA",
+        "url": "https://open.spotify.com/album/4vJcqwIGUuk5TeP29OPovU"
       },
       "artists": [
         {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
         }
       ],
-      "duration_ms": 176142,
-      "name": "Jordan",
-      "url": "https://open.spotify.com/track/6y8z28epOv5FlaxDv1Lo5B"
+      "duration_ms": 197101,
+      "name": "LOKERA",
+      "url": "https://open.spotify.com/track/79HZAZNnOE97rb2hnI0XQr"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1055,26 +1075,6 @@
       "duration_ms": 417920,
       "name": "Te Bot\u00e9 - Remix",
       "url": "https://open.spotify.com/track/3V8UKqhEK5zBkBb6d6ub8i"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Borracho y Loco",
-        "url": "https://open.spotify.com/album/4Wp1sJVGqgS1ZgPqBL1AlX"
-      },
-      "artists": [
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 171800,
-      "name": "Borracho y Loco",
-      "url": "https://open.spotify.com/track/7G0vBgcC5p2tBpeHiQzGFf"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Hora de Salir",
-        "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 183040,
-      "name": "Hora de Salir",
-      "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "La Receta",
         "url": "https://open.spotify.com/album/2KcbwgVZYmXv6Zh0hpY12y"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 175733,
       "name": "La Receta",
       "url": "https://open.spotify.com/track/5F9UDD7ZNbmyRFYyb4qF2z"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Hora de Salir",
+        "url": "https://open.spotify.com/album/4HAKrFKWngyiF8OsEdoS09"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 183040,
+      "name": "Hora de Salir",
+      "url": "https://open.spotify.com/track/6yv9it6siINSacVKHrgLmI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1791,22 +1791,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Felicilandia",
-        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
+        "name": "Good Times",
+        "url": "https://open.spotify.com/album/14TXiNiKS2IN3DS2yebo6M"
       },
       "artists": [
         {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 192613,
-      "name": "Problem\u00f3n",
-      "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
+      "duration_ms": 219626,
+      "name": "Good Times",
+      "url": "https://open.spotify.com/track/5GeGyUYqWOjFBLKEa1CTet"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1843,18 +1839,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Good Times",
-        "url": "https://open.spotify.com/album/14TXiNiKS2IN3DS2yebo6M"
+        "name": "Felicilandia",
+        "url": "https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN"
       },
       "artists": [
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 219626,
-      "name": "Good Times",
-      "url": "https://open.spotify.com/track/5GeGyUYqWOjFBLKEa1CTet"
+      "duration_ms": 192613,
+      "name": "Problem\u00f3n",
+      "url": "https://open.spotify.com/track/1mSviQV9iQnGSRyvTIuxAj"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1915,6 +1915,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Instagram",
+        "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
+      },
+      "artists": [
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Instagram",
+      "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Trajecito XS",
         "url": "https://open.spotify.com/album/7GBVZbQlOaJzfzxo7kCHQ1"
       },
@@ -1931,22 +1947,6 @@
       "duration_ms": 220880,
       "name": "Trajecito XS",
       "url": "https://open.spotify.com/track/535EyYs5tDynf3kt9niGa4"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Instagram",
-        "url": "https://open.spotify.com/album/0FLBLU9SceeQFuIaR54MJH"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Instagram",
-      "url": "https://open.spotify.com/track/0EFxJw34fK8DWlTxx9qYeW"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1991,22 +1991,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "NO PARE",
-        "url": "https://open.spotify.com/album/7Cox5cc0YmFSLTMElICoW8"
-      },
-      "artists": [
-        {
-          "name": "NATTI NATASHA",
-          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
-        }
-      ],
-      "duration_ms": 155607,
-      "name": "NO PARE",
-      "url": "https://open.spotify.com/track/4cEYQceQjgsi0hZZQQWhXp"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Mi Ni\u00f1a",
         "url": "https://open.spotify.com/album/5F7rUv9XZPAnNfeKCYkqZS"
       },
@@ -2047,6 +2031,22 @@
       "duration_ms": 200816,
       "name": "Cochinae",
       "url": "https://open.spotify.com/track/01EzG8Qg7oQqYMTNV5YkOW"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "NO PARE",
+        "url": "https://open.spotify.com/album/7Cox5cc0YmFSLTMElICoW8"
+      },
+      "artists": [
+        {
+          "name": "NATTI NATASHA",
+          "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7"
+        }
+      ],
+      "duration_ms": 155607,
+      "name": "NO PARE",
+      "url": "https://open.spotify.com/track/4cEYQceQjgsi0hZZQQWhXp"
     },
     {
       "added_at": "2023-10-06 04:00:00",

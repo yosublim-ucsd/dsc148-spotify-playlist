@@ -1,12 +1,12 @@
 {
   "description": "Afro sounds crossing borders.  Cover: Burna Boy",
-  "num_followers": 621144,
+  "num_followers": 621359,
   "original_name": "We Everywhere",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTE1NjExZTUxNzQzODExZTE5OGI0NmI4ZGZiMmVhNjE0ZDE5OTg0",
+  "snapshot_id": "MCw3NGU5OGZmOTU3YTcxZmUwMjAwMDYyNTI5MmJiYTA1NWQyNzgwMDA4",
   "tracks": [
     {
       "added_at": "2023-08-24 23:00:00",
@@ -391,6 +391,26 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
+        "name": "Made In Lagos",
+        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 248040,
+      "name": "Essence (feat. Tems)",
+      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
         "name": "People (Remixes)",
         "url": "https://open.spotify.com/album/2Ebc4HsLcB4fXrTA5oNE5G"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 184633,
       "name": "People (feat. Ayra Starr & Omah Lay)",
       "url": "https://open.spotify.com/track/4AxG1T6UJJ4xCX4Wz6JDLG"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
-        "name": "Made In Lagos",
-        "url": "https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 248040,
-      "name": "Essence (feat. Tems)",
-      "url": "https://open.spotify.com/track/5FG7Tl93LdH117jEKYl3Cm"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -527,26 +527,6 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "Finesse",
-        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
-      },
-      "artists": [
-        {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Finesse",
-      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
         "name": "Trench to Triumph",
         "url": "https://open.spotify.com/album/60dzSRKqWPNVTunBR1aHal"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 221217,
       "name": "Ngozi",
       "url": "https://open.spotify.com/track/5mhM7bfzv52bzfCzlq8vH1"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
+        "name": "Finesse",
+        "url": "https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1"
+      },
+      "artists": [
+        {
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Finesse",
+      "url": "https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1103,6 +1103,34 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
+        "name": "Know Your Worth (feat. Davido & Tems)",
+        "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
+      },
+      "artists": [
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        },
+        {
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 191067,
+      "name": "Know Your Worth (feat. Davido & Tems)",
+      "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
         "name": "Electricity",
         "url": "https://open.spotify.com/album/5vOpDVowekdCylaDIiV5We"
       },
@@ -1155,34 +1183,6 @@
       "duration_ms": 296975,
       "name": "Yahyuppiyah (feat. Pcee, EeQue & Chley)",
       "url": "https://open.spotify.com/track/6L1UdBhj6v8Ol9qKHBtvLN"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
-        "name": "Know Your Worth (feat. Davido & Tems)",
-        "url": "https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 191067,
-      "name": "Know Your Worth (feat. Davido & Tems)",
-      "url": "https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1271,18 +1271,22 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "DECLAN RICE",
-        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
+        "name": "We're All Alone In This Together",
+        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
       },
       "artists": [
         {
-          "name": "ODUMODUBLVCK",
-          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        },
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
         }
       ],
-      "duration_ms": 124000,
-      "name": "DECLAN RICE",
-      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
+      "duration_ms": 204373,
+      "name": "Lazarus (feat. Boj)",
+      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1331,22 +1335,18 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
-        "name": "We're All Alone In This Together",
-        "url": "https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG"
+        "name": "DECLAN RICE",
+        "url": "https://open.spotify.com/album/2CVwxKWCF92MeTLjmdJFXy"
       },
       "artists": [
         {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
-        },
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         }
       ],
-      "duration_ms": 204373,
-      "name": "Lazarus (feat. Boj)",
-      "url": "https://open.spotify.com/track/4wvnXoQqjIOoEis5eyTbCl"
+      "duration_ms": 124000,
+      "name": "DECLAN RICE",
+      "url": "https://open.spotify.com/track/1sEIkVGd7fG4K5wFQS6f6y"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1663,6 +1663,58 @@
     {
       "added_at": "2023-08-24 23:00:00",
       "album": {
+        "name": "Get Layd",
+        "url": "https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 171730,
+      "name": "Lo Lo",
+      "url": "https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
+        "name": "Bloody Samaritan",
+        "url": "https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Bloody Samaritan",
+      "url": "https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
+        "name": "A Good Time",
+        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 172500,
+      "name": "D & G (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
         "name": "Big Flexa",
         "url": "https://open.spotify.com/album/5MhQBsStYfPKxStExE5wM3"
       },
@@ -1695,58 +1747,6 @@
       "duration_ms": 327079,
       "name": "Big Flexa",
       "url": "https://open.spotify.com/track/16vqEDaCZpq5zdgop8U9uM"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
-        "name": "Bloody Samaritan",
-        "url": "https://open.spotify.com/album/6yVmMVK9QFBPECEAft4mOd"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Bloody Samaritan",
-      "url": "https://open.spotify.com/track/3Keas2doqXf1veo2DOOIdz"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
-        "name": "Get Layd",
-        "url": "https://open.spotify.com/album/2GsFfeO4XlGuOJMMJRhefL"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 171730,
-      "name": "Lo Lo",
-      "url": "https://open.spotify.com/track/20hZEnFjyvUIk4YkONRGMZ"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
-        "name": "A Good Time",
-        "url": "https://open.spotify.com/album/0s3BbZlcqsUdAD8wIYdO5n"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "D & G (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/0xr7t6jQWzFsZ9XwfcxAu7"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1795,6 +1795,26 @@
       "duration_ms": 213599,
       "name": "PAMI (feat. Wizkid, Adekunle Gold & Omah Lay)",
       "url": "https://open.spotify.com/track/6iC4xfqow6iAsRhPh5IrWz"
+    },
+    {
+      "added_at": "2023-08-24 23:00:00",
+      "album": {
+        "name": "Lotto",
+        "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Lotto",
+      "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
     },
     {
       "added_at": "2023-08-24 23:00:00",
@@ -1983,26 +2003,6 @@
       "duration_ms": 159338,
       "name": "Damn (feat. 6lack)",
       "url": "https://open.spotify.com/track/2SVObssPWzeJquNyR05NjL"
-    },
-    {
-      "added_at": "2023-08-24 23:00:00",
-      "album": {
-        "name": "Lotto",
-        "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Lotto",
-      "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
     },
     {
       "added_at": "2023-08-24 23:00:00",

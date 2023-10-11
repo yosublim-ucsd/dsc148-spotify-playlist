@@ -1,12 +1,12 @@
 {
   "description": "The decade of the Outlaws of Country Music - where traditional and crossover country collided. Cover: Charley Pride",
-  "num_followers": 282557,
+  "num_followers": 282690,
   "original_name": "70s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGFmZDBiZDc1NGYxMDkyNmQzNmQ0ZmIzYWRlNDBhNWFiMTVmZDky",
+  "snapshot_id": "MCwzM2U3ZmYwZDM5YmZjNjQ3ZTQwZGFlNGEwODEwNzJhZWJiMjMxZTBh",
   "tracks": [
     {
       "added_at": "2023-08-21 19:26:53",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
-      },
-      "artists": [
-        {
-          "name": "Tom T. Hall",
-          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
-        }
-      ],
-      "duration_ms": 126666,
-      "name": "I Love",
-      "url": "https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB"
-    },
-    {
-      "added_at": "2023-08-21 19:26:53",
-      "album": {
         "name": "Rocky Mountain Music",
         "url": "https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 142773,
       "name": "Two Dollars in the Jukebox - 2008 Remaster",
       "url": "https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C"
+    },
+    {
+      "added_at": "2023-08-21 19:26:53",
+      "album": {
+        "name": "Country Classics: American Legends Tom T. Hall (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5"
+      },
+      "artists": [
+        {
+          "name": "Tom T. Hall",
+          "url": "https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T"
+        }
+      ],
+      "duration_ms": 126666,
+      "name": "I Love",
+      "url": "https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -947,22 +947,18 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music",
-        "url": "https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB"
+        "name": "Winners",
+        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
       },
       "artists": [
         {
-          "name": "Eric Weissberg",
-          "url": "https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g"
-        },
-        {
-          "name": "Steve Mandell",
-          "url": "https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj"
+          "name": "Donna Fargo",
+          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
         }
       ],
-      "duration_ms": 194879,
-      "name": "Dueling Banjos",
-      "url": "https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp"
+      "duration_ms": 151306,
+      "name": "The Happiest Girl In The Whole U.S.A.",
+      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
     },
     {
       "added_at": "2023-08-21 19:26:53",
@@ -983,18 +979,22 @@
     {
       "added_at": "2023-08-21 19:26:53",
       "album": {
-        "name": "Winners",
-        "url": "https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f"
+        "name": "Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music",
+        "url": "https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB"
       },
       "artists": [
         {
-          "name": "Donna Fargo",
-          "url": "https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC"
+          "name": "Eric Weissberg",
+          "url": "https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g"
+        },
+        {
+          "name": "Steve Mandell",
+          "url": "https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj"
         }
       ],
-      "duration_ms": 151306,
-      "name": "The Happiest Girl In The Whole U.S.A.",
-      "url": "https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV"
+      "duration_ms": 194879,
+      "name": "Dueling Banjos",
+      "url": "https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp"
     },
     {
       "added_at": "2023-08-21 19:26:53",

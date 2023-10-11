@@ -4,7 +4,7 @@
 
 > The amazing sounds of the tropics.
 
-344 songs - 1 day 4 hr 7 min
+345 songs - 1 day 4 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [El Justiceiro](https://open.spotify.com/track/69lUtWoJ8KzaeQk9hXUiFR) | [Os Mutantes](https://open.spotify.com/artist/5C0gCCG8N5Dh5dZytIgzLX) | [Tecnicolor](https://open.spotify.com/album/3V1DtzwjDoXJb0jEcJdQPC) | 3:53 | 2021-12-24 |  |
 | [El Makako](https://open.spotify.com/track/7EICRbByyRrSz1gaHHDnuP) | [Palenke Soultribe](https://open.spotify.com/artist/4WGdIlBeHU97hLsYbXkkWA) | [Versus \(EP\)](https://open.spotify.com/album/6fgxUYxx6bFiXASvLzUBFw) | 4:26 | 2021-12-24 |  |
 | [El Moño de María](https://open.spotify.com/track/0rN90EapZBTWVqQLr0tb8M) | [Los Calvos](https://open.spotify.com/artist/7EysVBxbAXcaVkrvgZ3a2z) | [...Y Que Calvos](https://open.spotify.com/album/7o2KhBaz9BqbFyNPwEWWHZ) | 2:35 | 2022-02-18 | 2023-10-06 |
+| [El Moño de María](https://open.spotify.com/track/4YCi1vdAJupmjJfilduiMZ) | [Los Calvos](https://open.spotify.com/artist/7EysVBxbAXcaVkrvgZ3a2z) | [El Moño de María](https://open.spotify.com/album/2QC98oIsSXFwEVeQ9jIg9y) | 2:35 | 2022-02-18 |  |
 | [El Pescador](https://open.spotify.com/track/5STDVTFO7ziu4LDaaRCx2n) | [Totó La Momposina](https://open.spotify.com/artist/26BL0aeVS96sje8JfCNfUk) | [La Candela Viva](https://open.spotify.com/album/2UChA5fC8ycqyOJbMwjtZw) | 4:07 | 2021-12-24 |  |
 | [El Pito \(I'll Never Go Back To Georgia\)](https://open.spotify.com/track/4urZ7xOhe9Ss1Yi2t9a9NY) | [Cheo Feliciano](https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC), [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Anthology](https://open.spotify.com/album/3ukST4dz4n39IwgDiFTk8x) | 5:33 | 2021-12-24 |  |
 | [El Quinto De Beethoven](https://open.spotify.com/track/72yH8Nd9NIb4KZM1ZSWtCL) | [Frankie Dante Cerda](https://open.spotify.com/artist/0u9Xdm4kOf3Xb0o7jOJUxk), [Markolino Dimond](https://open.spotify.com/artist/6VQvhYxBQvgzc2tD6EAvMO) | [Beethoven's V](https://open.spotify.com/album/3XQwfLK5tbQw2xDh9gnc5m) | 5:46 | 2021-12-24 |  |
@@ -174,7 +175,7 @@
 | [Kingdom Come](https://open.spotify.com/track/5uhJnZd0m9Xz3GafDeMJxK) | [The Souljazz Orchestra](https://open.spotify.com/artist/0MiCOT2cVYso39XSskiUUo) | [Inner Fire](https://open.spotify.com/album/2w28yTFohFkW0UnIGKqLdY) | 4:12 | 2021-12-24 |  |
 | [Knona](https://open.spotify.com/track/0HRJPL72vbCbQ1cKSOxqKI) | [Miriam Makeba](https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W) | [Wortels Musiek Uit Afrika](https://open.spotify.com/album/38IPpEnPP51pG66pU1dFok) | 4:21 | 2021-12-24 |  |
 | [Kourouni](https://open.spotify.com/track/5zD479X69IpXpMJHzDi4C3) | [Nahawa Doumbia](https://open.spotify.com/artist/0lJ4sCynTDDS2Oot6PEhaV) | [Mali 2013 \- Music for Peace \(Mandingue\)](https://open.spotify.com/album/3aEYntAoATnDh7ifQ4C5zV) | 7:33 | 2021-12-24 |  |
-| [Kunta Kinte Dub](https://open.spotify.com/track/7622Jo93hnCOkViAgertAz) | [The Revolutionaries](https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7) | [Drum Sound \- More Gems From the Channel One Dub Room 1974 \-1980](https://open.spotify.com/album/0VLAJO6is3voHtYLzk7fM8) | 4:25 | 2021-12-24 |  |
+| [Kunta Kinte Dub](https://open.spotify.com/track/7622Jo93hnCOkViAgertAz) | [The Revolutionaries](https://open.spotify.com/artist/72kiVqCJIy9eOnmLp8r0h7) | [Drum Sound \- More Gems From the Channel One Dub Room 1974 \-1980](https://open.spotify.com/album/0VLAJO6is3voHtYLzk7fM8) | 4:25 | 2021-12-24 | 2023-10-11 |
 | [La Bestia](https://open.spotify.com/track/6zFY4U2AbpjoF8mlhzzFKe) | [QUITAPENAS](https://open.spotify.com/artist/64NFwIwtxjxfrmg8Fro1HD) | [Ya Veran](https://open.spotify.com/album/5Enfa6tWuVcbTvCyksdQBL) | 5:06 | 2021-12-24 |  |
 | [La Burrita](https://open.spotify.com/track/38Qu8Yfc7LyBouqhvQxn6u) | [Los Corraleros De Majagual](https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4), [Eliseo Herrera](https://open.spotify.com/artist/3YpIrDTEyfabU64t89sani) | [Nuevo Ritmo..!](https://open.spotify.com/album/22BNlNUmPU2Kp9cTWTBZbd) | 2:40 | 2021-12-24 |  |
 | [La Casa en el Aire](https://open.spotify.com/track/6Dskic2YCmIr0fifDNmDB6) | [Rafael Escalona](https://open.spotify.com/artist/1eKIYOevfXDbtnLe5saz94) | [Homenaje a Los Grandes Compositores de la Música Tropical Colombiana Volume 3](https://open.spotify.com/album/3Agn1GrWYPQMVqiES3P9JU) | 3:03 | 2021-12-24 |  |

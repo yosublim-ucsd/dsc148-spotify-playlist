@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ska 100% Mexicano, c\u00edrculos de paz y baile! Out Of Control Army en portada. ",
-  "num_followers": 8698,
+  "num_followers": 8795,
   "original_name": "MexSka ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTI5ZWIxZWNlMmIxMjFjNGJkODI3ZjdmNDEyOTY3ZTEzZDY0NTUw",
+  "snapshot_id": "MCw1Nzk3ZjBlZjgzOTExODViY2ViN2JhYzZkYmViMDJkYzkyODE5ZWNm",
   "tracks": [
     {
       "added_at": "2023-09-29 00:58:35",
@@ -75,8 +75,8 @@
     {
       "added_at": "2023-09-29 00:58:35",
       "album": {
-        "name": "Alma En Fuego",
-        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
+        "name": "Ska a La Carta",
+        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 241626,
-      "name": "Amnesia",
-      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
+      "duration_ms": 243253,
+      "name": "Me Estoy Enamorando",
+      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
     },
     {
       "added_at": "2023-09-29 00:58:35",
@@ -231,8 +231,8 @@
     {
       "added_at": "2023-09-29 00:58:35",
       "album": {
-        "name": "Ska a La Carta",
-        "url": "https://open.spotify.com/album/2h8m3JO1mo6Kew8UEQDtPd"
+        "name": "Alma En Fuego",
+        "url": "https://open.spotify.com/album/6xwImhyXk9H1xYsccwKPIk"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
         }
       ],
-      "duration_ms": 243253,
-      "name": "Me Estoy Enamorando",
-      "url": "https://open.spotify.com/track/0CYoeBgcZEPjiRhwtxGDTR"
+      "duration_ms": 241626,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/41xb9U5PEsvZYLKFW50xCZ"
     },
     {
       "added_at": "2023-09-29 00:58:35",
@@ -1355,26 +1355,6 @@
     {
       "added_at": "2023-09-29 00:58:35",
       "album": {
-        "name": "Otros Nosotros",
-        "url": "https://open.spotify.com/album/6nLleEGPcDbvgiNxa392nQ"
-      },
-      "artists": [
-        {
-          "name": "Sax",
-          "url": "https://open.spotify.com/artist/5h0ng91IU5Pv8LDpamqVN1"
-        },
-        {
-          "name": "Salvador Moreno",
-          "url": "https://open.spotify.com/artist/3SjK2DHQbnpcAHyebi1UPs"
-        }
-      ],
-      "duration_ms": 214238,
-      "name": "Otros Nosotros",
-      "url": "https://open.spotify.com/track/7Klq4wBMnMUeBADEBYfKPf"
-    },
-    {
-      "added_at": "2023-09-29 00:58:35",
-      "album": {
         "name": "Almas",
         "url": "https://open.spotify.com/album/4ZwuuEgoDjNmM58S91dA39"
       },
@@ -1391,6 +1371,26 @@
       "duration_ms": 209620,
       "name": "Almas",
       "url": "https://open.spotify.com/track/2ghJikYE3GMJ2VAxmyBcRT"
+    },
+    {
+      "added_at": "2023-09-29 00:58:35",
+      "album": {
+        "name": "Otros Nosotros",
+        "url": "https://open.spotify.com/album/6nLleEGPcDbvgiNxa392nQ"
+      },
+      "artists": [
+        {
+          "name": "Sax",
+          "url": "https://open.spotify.com/artist/5h0ng91IU5Pv8LDpamqVN1"
+        },
+        {
+          "name": "Salvador Moreno",
+          "url": "https://open.spotify.com/artist/3SjK2DHQbnpcAHyebi1UPs"
+        }
+      ],
+      "duration_ms": 214238,
+      "name": "Otros Nosotros",
+      "url": "https://open.spotify.com/track/7Klq4wBMnMUeBADEBYfKPf"
     },
     {
       "added_at": "2023-09-29 00:58:35",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-09-29 00:58:35",
       "album": {
+        "name": "Perdedor",
+        "url": "https://open.spotify.com/album/1g7JMXCHye91zIUlYtKOxC"
+      },
+      "artists": [
+        {
+          "name": "La Silueta Ska",
+          "url": "https://open.spotify.com/artist/2yZDukL7Vwwai8IGPh3WuL"
+        }
+      ],
+      "duration_ms": 185577,
+      "name": "Perdedor",
+      "url": "https://open.spotify.com/track/1cESlqirsaIX9hn6gQINFN"
+    },
+    {
+      "added_at": "2023-09-29 00:58:35",
+      "album": {
         "name": "Ciao",
         "url": "https://open.spotify.com/album/6yQCx1G68XrLOIQkHBXlce"
       },
@@ -1511,22 +1527,6 @@
     {
       "added_at": "2023-09-29 00:58:35",
       "album": {
-        "name": "Loco amor",
-        "url": "https://open.spotify.com/album/2y2lRGqPNPT68MaClgU2FL"
-      },
-      "artists": [
-        {
-          "name": "La trenza De La Abuela",
-          "url": "https://open.spotify.com/artist/6QU6mxgWdOOKNkUErSqEMM"
-        }
-      ],
-      "duration_ms": 180813,
-      "name": "alo alo",
-      "url": "https://open.spotify.com/track/4tXIQlSCFi0hTn85dS6MJl"
-    },
-    {
-      "added_at": "2023-09-29 00:58:35",
-      "album": {
         "name": "Jamaica Ska",
         "url": "https://open.spotify.com/album/6DDi0g2UP6IYKTY8xyT2Xq"
       },
@@ -1543,34 +1543,18 @@
     {
       "added_at": "2023-09-29 00:58:35",
       "album": {
-        "name": "Perdedor",
-        "url": "https://open.spotify.com/album/1g7JMXCHye91zIUlYtKOxC"
+        "name": "Loco amor",
+        "url": "https://open.spotify.com/album/2y2lRGqPNPT68MaClgU2FL"
       },
       "artists": [
         {
-          "name": "La Silueta Ska",
-          "url": "https://open.spotify.com/artist/2yZDukL7Vwwai8IGPh3WuL"
+          "name": "La trenza De La Abuela",
+          "url": "https://open.spotify.com/artist/6QU6mxgWdOOKNkUErSqEMM"
         }
       ],
-      "duration_ms": 185577,
-      "name": "Perdedor",
-      "url": "https://open.spotify.com/track/1cESlqirsaIX9hn6gQINFN"
-    },
-    {
-      "added_at": "2023-09-29 00:58:35",
-      "album": {
-        "name": "Frente al Mar",
-        "url": "https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n"
-      },
-      "artists": [
-        {
-          "name": "Girls Go Ska",
-          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
-        }
-      ],
-      "duration_ms": 304172,
-      "name": "Felicidad",
-      "url": "https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg"
+      "duration_ms": 180813,
+      "name": "alo alo",
+      "url": "https://open.spotify.com/track/4tXIQlSCFi0hTn85dS6MJl"
     },
     {
       "added_at": "2023-09-29 00:58:35",
@@ -1607,22 +1591,6 @@
     {
       "added_at": "2023-09-29 00:58:35",
       "album": {
-        "name": "Marcando El Ritmo",
-        "url": "https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE"
-      },
-      "artists": [
-        {
-          "name": "Moon Stomper",
-          "url": "https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE"
-        }
-      ],
-      "duration_ms": 155965,
-      "name": "Stay Rude",
-      "url": "https://open.spotify.com/track/1GTsw9fJdctqyT7iVQS35i"
-    },
-    {
-      "added_at": "2023-09-29 00:58:35",
-      "album": {
         "name": "Humanidad",
         "url": "https://open.spotify.com/album/1mPrv36x0YIpoMvOPq8KWx"
       },
@@ -1635,6 +1603,38 @@
       "duration_ms": 155469,
       "name": "Humanidad",
       "url": "https://open.spotify.com/track/2rcV9YNXMA0LaVAOLA2aBq"
+    },
+    {
+      "added_at": "2023-09-29 00:58:35",
+      "album": {
+        "name": "Frente al Mar",
+        "url": "https://open.spotify.com/album/5mo377nus6GhMWCoPMhi7n"
+      },
+      "artists": [
+        {
+          "name": "Girls Go Ska",
+          "url": "https://open.spotify.com/artist/0jLRSH7uzp7DAbl3vfBhjo"
+        }
+      ],
+      "duration_ms": 304172,
+      "name": "Felicidad",
+      "url": "https://open.spotify.com/track/4nO5Ljx7tRrYqC6t3BGRhg"
+    },
+    {
+      "added_at": "2023-09-29 00:58:35",
+      "album": {
+        "name": "Lamento Egipcio",
+        "url": "https://open.spotify.com/album/6UjC13m2EheNOtFdU5ayVd"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3dulo Ghetto",
+          "url": "https://open.spotify.com/artist/7LC3IkN0ds990xsji4GrhM"
+        }
+      ],
+      "duration_ms": 233120,
+      "name": "Lamento Egipcio",
+      "url": "https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG"
     },
     {
       "added_at": "2023-09-29 00:58:35",
@@ -1659,38 +1659,34 @@
     {
       "added_at": "2023-09-29 00:58:35",
       "album": {
-        "name": "Lamento Egipcio",
-        "url": "https://open.spotify.com/album/6UjC13m2EheNOtFdU5ayVd"
+        "name": "Revoluciones",
+        "url": "https://open.spotify.com/album/5WV18rJf103xCSq1bruZwJ"
       },
       "artists": [
         {
-          "name": "M\u00f3dulo Ghetto",
-          "url": "https://open.spotify.com/artist/7LC3IkN0ds990xsji4GrhM"
+          "name": "La Hoja Ensamble",
+          "url": "https://open.spotify.com/artist/5xnipUAcWtXKEdc0czxTPE"
         }
       ],
-      "duration_ms": 233120,
-      "name": "Lamento Egipcio",
-      "url": "https://open.spotify.com/track/1FPDoLtvmAX1bWzuNWKRJG"
+      "duration_ms": 387922,
+      "name": "Revoluciones",
+      "url": "https://open.spotify.com/track/5OjXaJ32H7olIakpiNSDbS"
     },
     {
       "added_at": "2023-09-29 00:58:35",
       "album": {
-        "name": "El Chapul\u00edn",
-        "url": "https://open.spotify.com/album/165IEkSYLUmnQvd4GS8hNR"
+        "name": "Marcando El Ritmo",
+        "url": "https://open.spotify.com/album/537Yl2DlSZ58rPkV07E5aE"
       },
       "artists": [
         {
-          "name": "Paco Ellington",
-          "url": "https://open.spotify.com/artist/2GJeoAx45CGPveeIWVD8Hg"
-        },
-        {
-          "name": "Skapoli",
-          "url": "https://open.spotify.com/artist/3nrbc0A8FvXAaS7XxV2iLE"
+          "name": "Moon Stomper",
+          "url": "https://open.spotify.com/artist/6jDS4uqEOGwHlfHnLPz3KE"
         }
       ],
-      "duration_ms": 206636,
-      "name": "El Chapul\u00edn",
-      "url": "https://open.spotify.com/track/59sQU11cdcoC2HEmMxVFv5"
+      "duration_ms": 155965,
+      "name": "Stay Rude",
+      "url": "https://open.spotify.com/track/1GTsw9fJdctqyT7iVQS35i"
     }
   ],
   "unique_name": "MexSka ",

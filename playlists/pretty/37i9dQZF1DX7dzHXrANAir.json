@@ -1,12 +1,12 @@
 {
   "description": "The genre-defying artists inspired by classical music. Photo: Nils Frahm.",
-  "num_followers": 100998,
+  "num_followers": 101038,
   "original_name": "Classical X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTdiOTY5NzA4MzgzY2JiMGE0NDgxZDNlNjNjMDI0ZmNiZjI1YTc2",
+  "snapshot_id": "MCxjODQ4YzEwODRlMjM4ODM5OTllODVkM2FjN2UwZTNmOWIyZDY4MThi",
   "tracks": [
     {
       "added_at": "2023-09-29 04:01:00",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "The Boat",
-        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
-      },
-      "artists": [
-        {
-          "name": "Hania Rani",
-          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
-        }
-      ],
-      "duration_ms": 425600,
-      "name": "The Boat",
-      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "Moving Slowly",
         "url": "https://open.spotify.com/album/7lCtm2VoakicgPRDsjS72W"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 197346,
       "name": "Moving Slowly",
       "url": "https://open.spotify.com/track/596oi0xDA9ZQIHTLJr1Zg6"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "The Boat",
+        "url": "https://open.spotify.com/album/0J4vsdDsgHSiP9DwdPTj6r"
+      },
+      "artists": [
+        {
+          "name": "Hania Rani",
+          "url": "https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD"
+        }
+      ],
+      "duration_ms": 425600,
+      "name": "The Boat",
+      "url": "https://open.spotify.com/track/6Q1RTxAXNBJ6jgSBEkIQNy"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Driving Through the Aftermath of a Storm on a Clear Day",
-        "url": "https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y"
-      },
-      "artists": [
-        {
-          "name": "David Allred",
-          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
-        }
-      ],
-      "duration_ms": 151695,
-      "name": "Wave",
-      "url": "https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "Round",
         "url": "https://open.spotify.com/album/7LKWlwxI49rXKvckLV5NmB"
       },
@@ -639,6 +623,22 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
+        "name": "Driving Through the Aftermath of a Storm on a Clear Day",
+        "url": "https://open.spotify.com/album/36LoAi8p604bD1v5wBhF8Y"
+      },
+      "artists": [
+        {
+          "name": "David Allred",
+          "url": "https://open.spotify.com/artist/05XWJrLfEbTiyv1oirnMSm"
+        }
+      ],
+      "duration_ms": 151695,
+      "name": "Wave",
+      "url": "https://open.spotify.com/track/1eOYcaEDoM1OrnrWHajquU"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
         "name": "N\u00e9fos",
         "url": "https://open.spotify.com/album/07cr40kGjUlSCOHTL5ka8B"
       },
@@ -651,22 +651,6 @@
       "duration_ms": 192000,
       "name": "N\u00e9fos",
       "url": "https://open.spotify.com/track/6EAknZpfUmyVJZrZQVGxoV"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Mists Inhabit This Place",
-        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
-      },
-      "artists": [
-        {
-          "name": "Brambles",
-          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Mists Inhabit This Place",
-      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -695,26 +679,34 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "L(oo)ping [Live with ONL]",
-        "url": "https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O"
+        "name": "Mists Inhabit This Place",
+        "url": "https://open.spotify.com/album/4i5u6Kn6UQMkBzI0GOe6Cv"
       },
       "artists": [
         {
-          "name": "Rone",
-          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
-        },
-        {
-          "name": "Dirk Bross\u00e9",
-          "url": "https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y"
-        },
-        {
-          "name": "Orchestre National De Lyon",
-          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
+          "name": "Brambles",
+          "url": "https://open.spotify.com/artist/0sNXk2NCcF4VpqvJ0KRffX"
         }
       ],
-      "duration_ms": 312653,
-      "name": "Ghosts - Live with ONL",
-      "url": "https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY"
+      "duration_ms": 230213,
+      "name": "Mists Inhabit This Place",
+      "url": "https://open.spotify.com/track/2mLbCMXMmJRWrWY918jLwB"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Apricity",
+        "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
+      },
+      "artists": [
+        {
+          "name": "Aukai",
+          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Caf\u00e9 Papantla",
+      "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -771,18 +763,26 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Apricity",
-        "url": "https://open.spotify.com/album/6gw9cTHx6LsTpixClO4xJe"
+        "name": "L(oo)ping [Live with ONL]",
+        "url": "https://open.spotify.com/album/1vilAgPngRqfMUWHffyR4O"
       },
       "artists": [
         {
-          "name": "Aukai",
-          "url": "https://open.spotify.com/artist/2AyLrA3GFbgbrjOjVnGcny"
+          "name": "Rone",
+          "url": "https://open.spotify.com/artist/3Dw9w3jnmr58ocgxiwITcq"
+        },
+        {
+          "name": "Dirk Bross\u00e9",
+          "url": "https://open.spotify.com/artist/34bKiLjmHfp1mAX5Tq3d2y"
+        },
+        {
+          "name": "Orchestre National De Lyon",
+          "url": "https://open.spotify.com/artist/5nBrvb1brhyZFKTuC2GIAo"
         }
       ],
-      "duration_ms": 186000,
-      "name": "Caf\u00e9 Papantla",
-      "url": "https://open.spotify.com/track/3LpMime27p6chEwOIZbluE"
+      "duration_ms": 312653,
+      "name": "Ghosts - Live with ONL",
+      "url": "https://open.spotify.com/track/30I4KLVCqUtRR1JICkr4PY"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -847,6 +847,26 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
+        "name": "Traveller (Lambert rework)",
+        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
+      },
+      "artists": [
+        {
+          "name": "Josin",
+          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
+        },
+        {
+          "name": "Lambert",
+          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
+        }
+      ],
+      "duration_ms": 200259,
+      "name": "Traveller - Lambert rework",
+      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
         "name": "In Memory Of A Honey Bee",
         "url": "https://open.spotify.com/album/0UxXgN6snQJUtGzO4my3cP"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 175500,
       "name": "In Memory Of A Honey Bee",
       "url": "https://open.spotify.com/track/0ZTQntkek3PSvpPI1qTxFu"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Traveller (Lambert rework)",
-        "url": "https://open.spotify.com/album/6cMwZymDA1uYLXb47Bqeql"
-      },
-      "artists": [
-        {
-          "name": "Josin",
-          "url": "https://open.spotify.com/artist/0QgpJAGWO61N2hgJQhW4xW"
-        },
-        {
-          "name": "Lambert",
-          "url": "https://open.spotify.com/artist/6pSQcy8935ABNiK2qOpOlK"
-        }
-      ],
-      "duration_ms": 200259,
-      "name": "Traveller - Lambert rework",
-      "url": "https://open.spotify.com/track/4YaHDtdK7EgzS7vT9WnCha"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -967,34 +967,18 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
-        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
+        "name": "Who Tends a Garden",
+        "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
       },
       "artists": [
         {
-          "name": "TWO LANES",
-          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+          "name": "Alaskan Tapes",
+          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
         }
       ],
-      "duration_ms": 335149,
-      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
-      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
-        "name": "Piano",
-        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
-      },
-      "artists": [
-        {
-          "name": "Felix R\u00f6sch",
-          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
-        }
-      ],
-      "duration_ms": 268124,
-      "name": "Ostinato",
-      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
+      "duration_ms": 280625,
+      "name": "Who Tends a Garden",
+      "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1015,18 +999,34 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Who Tends a Garden",
-        "url": "https://open.spotify.com/album/0i1t8drfXdByzo8FYiVNCS"
+        "name": "Piano",
+        "url": "https://open.spotify.com/album/09sqDvwoOvLHTpGWfywY6I"
       },
       "artists": [
         {
-          "name": "Alaskan Tapes",
-          "url": "https://open.spotify.com/artist/5GHBk4xcO1UqlbyrUXv5dq"
+          "name": "Felix R\u00f6sch",
+          "url": "https://open.spotify.com/artist/5DN6qP3OzoKVYXF3o2KCXp"
         }
       ],
-      "duration_ms": 280625,
-      "name": "Who Tends a Garden",
-      "url": "https://open.spotify.com/track/2Lt0bFZb8rudzv6DYt5voS"
+      "duration_ms": 268124,
+      "name": "Ostinato",
+      "url": "https://open.spotify.com/track/7xXQh52SZq9Af2DHQ4GNHI"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer [TWO LANES Rework (FRAGMENTS / Erik Satie)]",
+        "url": "https://open.spotify.com/album/4f6WOROkFAHPvikfrY54Lh"
+      },
+      "artists": [
+        {
+          "name": "TWO LANES",
+          "url": "https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k"
+        }
+      ],
+      "duration_ms": 335149,
+      "name": "Pi\u00e8ces froides: II. Danses de travers, 2. Passer - TWO LANES Rework (FRAGMENTS / Erik Satie)",
+      "url": "https://open.spotify.com/track/1lj5ruJAs5WDmVQO4pavbU"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Recaptures",
-        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
-      },
-      "artists": [
-        {
-          "name": "Minihi",
-          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
-        }
-      ],
-      "duration_ms": 210600,
-      "name": "Minquiers",
-      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
         "url": "https://open.spotify.com/album/5MZ8acAjqGSHJSzZEPeQny"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 307840,
       "name": "ok (Dustin O'Halloran Rework) (feat. Dustin O'Halloran)",
       "url": "https://open.spotify.com/track/487hpT0HXTGIpyQXvrVzSg"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Recaptures",
+        "url": "https://open.spotify.com/album/7D3SWtqwK4bhUmcVBUFRKc"
+      },
+      "artists": [
+        {
+          "name": "Minihi",
+          "url": "https://open.spotify.com/artist/4uIPLGk2ey0PKhgD2pq9s0"
+        }
+      ],
+      "duration_ms": 210600,
+      "name": "Minquiers",
+      "url": "https://open.spotify.com/track/3fPjTevbs1gCDorMjymahc"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "Walking With Ghosts",
-        "url": "https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a"
-      },
-      "artists": [
-        {
-          "name": "Thom Robson",
-          "url": "https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk"
-        }
-      ],
-      "duration_ms": 234473,
-      "name": "Remembering",
-      "url": "https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE"
-    },
-    {
-      "added_at": "2023-09-29 04:01:00",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7A6v2isTzFfC5z60taBwmu"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 199106,
       "name": "Home",
       "url": "https://open.spotify.com/track/1ZAJkFiMMjRIX8mNqtQd6R"
+    },
+    {
+      "added_at": "2023-09-29 04:01:00",
+      "album": {
+        "name": "Walking With Ghosts",
+        "url": "https://open.spotify.com/album/64rmZu0eAuaBkLf6qmqC9a"
+      },
+      "artists": [
+        {
+          "name": "Thom Robson",
+          "url": "https://open.spotify.com/artist/6dSKrqQgsG1AI65KmkJ3lk"
+        }
+      ],
+      "duration_ms": 234473,
+      "name": "Remembering",
+      "url": "https://open.spotify.com/track/2RHW2VL9lzT70oVA4PvNaE"
     },
     {
       "added_at": "2023-09-29 04:01:00",
@@ -1495,22 +1495,22 @@
     {
       "added_at": "2023-09-29 04:01:00",
       "album": {
-        "name": "II",
-        "url": "https://open.spotify.com/album/34oPtzKQHxNuIocCYTAhVI"
+        "name": "Human Reworked",
+        "url": "https://open.spotify.com/album/5teIPUqUyhOYb3Nlu64YYu"
       },
       "artists": [
         {
-          "name": "Natalia Tsupryk",
-          "url": "https://open.spotify.com/artist/3u32k4tGe6y6GiYNBsi0DX"
+          "name": "Vanbur",
+          "url": "https://open.spotify.com/artist/0R2bPrDcf0qEFHbQazwiXj"
         },
         {
-          "name": "Angus MacRae",
-          "url": "https://open.spotify.com/artist/461sVAxk7a1yog2yExyBRX"
+          "name": "Alexandra Hamilton-Ayres",
+          "url": "https://open.spotify.com/artist/6o0pKKljrn7GYEZTQPFwKp"
         }
       ],
-      "duration_ms": 267871,
-      "name": "Enerhodar",
-      "url": "https://open.spotify.com/track/3BIMrVj8s2PYgteQaT4RCo"
+      "duration_ms": 277653,
+      "name": "In Cold Light (Alexandra Hamilton-Ayres Rework)",
+      "url": "https://open.spotify.com/track/2ehINrB8wyWA58H8L8S6y4"
     },
     {
       "added_at": "2023-09-29 04:01:00",

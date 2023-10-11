@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones cristianas\.  Foto: <a href="spotify:artist:1uVtllLSmvkfPRozmSmxzG">Cardec Drums,</a> <a href="spotify:artist:4sPaDVtUm4TRrM6TATYC8D">Don Ryvcko,</a> <a href="spotify:artist:3YUvGhcDPnR0Y8m8It9WuP"> Chuiqui,</a> y <a href="spotify:artist:37Bz4qzDoJ2eTwKPKiT7iE"> Issac Fontanez</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,652 likes - 100 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,661 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 99 | [Tu Habitación \- Live](https://open.spotify.com/track/5K1KztZIKtkq6eJdPjAtHQ) | [Yelitza Cintron](https://open.spotify.com/artist/22XIzHmwPvEbKCT1dnLMt8), [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [Tu Habitación \(Live\)](https://open.spotify.com/album/1BJXzDHZSUFqlNkWyoVI2I) | 11:56 |
 | 100 | [Eres Mi Bendición](https://open.spotify.com/track/4PWOHWzNDlENfrapoZqU8o) | [Funky](https://open.spotify.com/artist/4B4YYJ0BAYBK86yxqQV7mu), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Rewind](https://open.spotify.com/album/427gdsvNPa8CZ5pe0IXh4L) | 3:26 |
 
-Snapshot ID: `MCxlMWFkODQ0OTRiMWJkOWRmYWJhMTA5ZGQ0NjcwN2M2MjkyYzRmNmRi`
+Snapshot ID: `MCw5YmRiMjRkMjkxY2Y0NzQ0NDU5NWY0NWJhZGY1ODNiZjIyYTJhYWFm`

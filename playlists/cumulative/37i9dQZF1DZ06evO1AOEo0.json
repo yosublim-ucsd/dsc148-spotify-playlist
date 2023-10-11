@@ -179,6 +179,28 @@
     },
     {
       "album": {
+        "name": "The Worship Initiative, Vol. 20",
+        "url": "https://open.spotify.com/album/2cuCnA14duuyj2jhlIyG1p"
+      },
+      "artists": [
+        {
+          "name": "The Worship Initiative",
+          "url": "https://open.spotify.com/artist/1bMkQIx4MpNHLxoylvipdQ"
+        },
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271267,
+      "name": "Christ Our Hope In Life And Death",
+      "url": "https://open.spotify.com/track/1zk44kfCF3DBdyrdtQg7wf"
+    },
+    {
+      "album": {
         "name": "The Worship Initiative, Vol. 12",
         "url": "https://open.spotify.com/album/2vjhzwPDUzGP8Rp2iddddV"
       },
@@ -622,7 +644,7 @@
       ],
       "date_added": "2023-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 352629,
       "name": "My Portion - Live",
       "url": "https://open.spotify.com/track/3mwWdYeDIXIN6tSLhU7EOf"

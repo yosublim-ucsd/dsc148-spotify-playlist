@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > Fresh releases from your future favorite artists\. Cover: Dear Dahlia  Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,406 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,349 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 74 | [Baby Blues](https://open.spotify.com/track/5EQZZNj3rT2I3TqRxrz9Qk) | [Monique de los Santos](https://open.spotify.com/artist/4iWbMwf9a5QFaJJ9uMddWY) | [Baby Blues](https://open.spotify.com/album/3Ui3xHH9X99VmPL4zS4QnS) | 4:25 |
 | 75 | [Whenever](https://open.spotify.com/track/7eGGpCULYU8fpV2uGGaaDO) | [L!FE](https://open.spotify.com/artist/1qasRfipyyyAbCsY7ZTg7C) | [Whenever](https://open.spotify.com/album/4KrZYHA2OTGiQneHwIm7Nu) | 2:58 |
 
-Snapshot ID: `MCwxNjM5NWI4YjdlNzFiZmIyMDUzZjM0NjUxMjcxOTlhZDhlYTM4YmM3`
+Snapshot ID: `MCwyZTQ5MjE2YjZmMTM5MTVlYmZhNmYyNzY3MTYxYTFkMzIxYjc4N2Vk`

@@ -1,12 +1,12 @@
 {
   "description": "Blues with a British flavor. Cover: Jeff Beck",
-  "num_followers": 126134,
+  "num_followers": 126191,
   "original_name": "Brit-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMTIyZTdmY2Q2ODI4NmQ3ODJhYmJiNmFhMDBmZTdlYzQ1YTFiNDU5",
+  "snapshot_id": "MCwwZWYxMzg1NWZhMDVhNmY5ODgwNDIwNTI4MjNlMmI3NTMxZTliZDQ2",
   "tracks": [
     {
       "added_at": "2021-04-22 22:35:02",
@@ -743,22 +743,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Blues Helping",
-        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
-      },
-      "artists": [
-        {
-          "name": "Love Sculpture",
-          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
-        }
-      ],
-      "duration_ms": 310360,
-      "name": "3 O'Clock Blues - 1999 RemasterStereo",
-      "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 215453,
       "name": "I Put a Spell on You",
       "url": "https://open.spotify.com/track/7nNL3wfaSz4wUzHr66ICTk"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Blues Helping",
+        "url": "https://open.spotify.com/album/08ihWWd9zFaUBPjF7Hs8PB"
+      },
+      "artists": [
+        {
+          "name": "Love Sculpture",
+          "url": "https://open.spotify.com/artist/4D1hYdWKVKyQQQNxNHlYtq"
+        }
+      ],
+      "duration_ms": 310360,
+      "name": "3 O'Clock Blues - 1999 RemasterStereo",
+      "url": "https://open.spotify.com/track/41849X1PrqMv0elH2prPWp"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/6miLmB0XTcmTqGFoz3gWAA"
     },
     {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
-        "name": "Down the Road Apiece - the Recordings 1963-1966",
-        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
-        }
-      ],
-      "duration_ms": 181720,
-      "name": "Don't Ask Me What I Say",
-      "url": "https://open.spotify.com/track/1e2XkpfWp7u0QCCoh5doUo"
-    },
-    {
       "added_at": "2022-03-25 04:01:00",
       "album": {
         "name": "02:10 The Early Years",
@@ -927,18 +911,18 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Thank Christ for the Bomb (50th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0YnFiCAP5cvIJe6dEQPfzo"
+        "name": "Down the Road Apiece - the Recordings 1963-1966",
+        "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
       "artists": [
         {
-          "name": "The Groundhogs",
-          "url": "https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak"
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
         }
       ],
-      "duration_ms": 304933,
-      "name": "Eccentric Man - 2003 Remastered Version",
-      "url": "https://open.spotify.com/track/002YdWxaenIUL4PHiv5EB5"
+      "duration_ms": 181720,
+      "name": "Don't Ask Me What I Say",
+      "url": "https://open.spotify.com/track/1e2XkpfWp7u0QCCoh5doUo"
     },
     {
       "added_at": "2022-03-25 04:01:00",
@@ -955,6 +939,22 @@
       "duration_ms": 256733,
       "name": "What's It Gonna Be",
       "url": "https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "Thank Christ for the Bomb (50th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0YnFiCAP5cvIJe6dEQPfzo"
+      },
+      "artists": [
+        {
+          "name": "The Groundhogs",
+          "url": "https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak"
+        }
+      ],
+      "duration_ms": 304933,
+      "name": "Eccentric Man - 2003 Remastered Version",
+      "url": "https://open.spotify.com/track/002YdWxaenIUL4PHiv5EB5"
     },
     {
       "added_at": "2021-04-22 22:35:02",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2021-04-22 22:35:02",
       "album": {
-        "name": "Thank Christ for the Groundhogs: The Liberty Years 1968-1972",
-        "url": "https://open.spotify.com/album/2xpmn3S9CKC1HnnbsHw2mD"
-      },
-      "artists": [
-        {
-          "name": "The Groundhogs",
-          "url": "https://open.spotify.com/artist/0c3RL3vVEgfxD6VBv7CGak"
-        }
-      ],
-      "duration_ms": 251800,
-      "name": "Still a Fool - Single Edit",
-      "url": "https://open.spotify.com/track/4lYuosKr9Iux8wgkRkJGSN"
-    },
-    {
-      "added_at": "2021-04-22 22:35:02",
-      "album": {
         "name": "As Safe As Yesterday Is",
         "url": "https://open.spotify.com/album/43KR0GXJQQ7uBwTdga0QLw"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 175853,
       "name": "Jo Ann",
       "url": "https://open.spotify.com/track/2fsmlot7lUJuNMt3AIcSys"
+    },
+    {
+      "added_at": "2021-04-22 22:35:02",
+      "album": {
+        "name": "The Marquis Sessions",
+        "url": "https://open.spotify.com/album/2jIctQtMRND7mnasTHEFmW"
+      },
+      "artists": [
+        {
+          "name": "Duffy Power",
+          "url": "https://open.spotify.com/artist/1HD11ESo3mcg0LtEJSZkvN"
+        }
+      ],
+      "duration_ms": 162360,
+      "name": "I Don't Care",
+      "url": "https://open.spotify.com/track/3hbwdoayA5vJwebCygMDg2"
     }
   ],
   "unique_name": "Brit-Blues",

@@ -4,7 +4,7 @@
 
 > songs that feel like new and old friends, all stitched together.
 
-489 songs - 1 day 3 hr 24 min
+490 songs - 1 day 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,6 +115,7 @@
 | [don't jump the gun](https://open.spotify.com/track/5A4IUiCLfZAjEME2QPgf8P) | [Sfven](https://open.spotify.com/artist/77NQclqFwTZe98FzGpHsIb) | [don't jump the gun](https://open.spotify.com/album/3GrECJ07gyegeBtv5ZMG7T) | 2:35 | 2023-01-04 | 2023-08-15 |
 | [Don't Shut Me Down](https://open.spotify.com/track/2AHnmlkyZbnxqSA66B7jK3) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [I Still Have Faith In You / Don't Shut Me Down](https://open.spotify.com/album/02hUNciNYPRn4Fk5tY4toP) | 3:58 | 2022-03-31 | 2023-08-05 |
 | [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 | 2023-08-14 |  |
+| [Doubt](https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 2:35 | 2023-09-26 |  |
 | [Doubt](https://open.spotify.com/track/6zGXpYNIkVYy5QRmj9Qlg4) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Doubt](https://open.spotify.com/album/1vezGOGezdPu9GzJaFEjZF) | 2:35 | 2023-08-14 | 2023-10-08 |
 | [Drama Queen](https://open.spotify.com/track/7ojngZF30QLSk5yRBpDAQk) | [milk.](https://open.spotify.com/artist/2Sf3JoQvmbE3hi7hfwzofq) | [Drama Queen](https://open.spotify.com/album/4OhlOxCucVO6BAeTN83OHr) | 3:58 | 2021-12-22 | 2022-07-29 |
 | [Dramamine](https://open.spotify.com/track/2MCcUgZVe1RH8beGoeA4bE) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/4n6oL9oDtMwzf2ip2wDt2s) | 2:55 | 2021-12-22 | 2022-07-29 |
@@ -255,7 +256,7 @@
 | [life goes by](https://open.spotify.com/track/7MBC9JuSIvqSUz8s4aMzMz) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [life goes by](https://open.spotify.com/album/1Sqtv8W45M3jWecsa4rtRY) | 2:33 | 2023-08-14 |  |
 | [Liquor Store](https://open.spotify.com/track/17NlAopmbL9vdVKR8nSfbz) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Liquor Store](https://open.spotify.com/album/3WzePV4wHBijHcoFKLyDrE) | 2:52 | 2021-12-22 | 2022-07-29 |
 | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/track/7imJEoNqRJL4n8OQEChzWG) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/album/4JShuZ6qkG6qk6yUVQHVM2) | 2:40 | 2022-02-04 | 2022-07-29 |
-| [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/track/3aWWm6V15SPqSgdxtyRM2I) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 2:41 | 2023-01-04 |  |
+| [Little Bother \(feat\. Fousheé\)](https://open.spotify.com/track/3aWWm6V15SPqSgdxtyRM2I) | [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Hold On Baby](https://open.spotify.com/album/3Q998ztjKK3ybjToj0QL9c) | 2:41 | 2023-01-04 | 2023-10-11 |
 | [Lonely As I Ever Was](https://open.spotify.com/track/1eYHAdDUKLUUWn0lhZgyUz) | [Spencer.](https://open.spotify.com/artist/20PdOyVym0ZZrOB1rfcvCR) | [Lonely As I Ever Was](https://open.spotify.com/album/2zzmIdVneqgcQVkKicolqF) | 3:53 | 2021-12-22 | 2022-07-27 |
 | [Long Drives](https://open.spotify.com/track/2jDrRaea7deXVEt4JmpvBU) | [BoyWithUke](https://open.spotify.com/artist/1Cd373x8qzC7SNUg5IToqp) | [Long Drives](https://open.spotify.com/album/0Mpe1VWJDZ5FxbZlE1nUaU) | 2:39 | 2022-03-31 | 2023-08-05 |
 | [Losers](https://open.spotify.com/track/1eefRCECiFkeCI7QgcadsC) | [Sipper](https://open.spotify.com/artist/2BjcWnk7C01aHhp59HqUED) | [Losers](https://open.spotify.com/album/07j0qkF5exWt26iXfRcnNf) | 2:57 | 2021-12-22 | 2022-07-29 |

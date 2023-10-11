@@ -1,12 +1,12 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil. Foto: Paulla",
-  "num_followers": 11619,
+  "num_followers": 11689,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDc3OTg1MjFlY2Q1OTFiOWYzYWVmMzVmYTlkNjZhMTkwZDM5MWRh",
+  "snapshot_id": "MCw3MTViODY2MzQ1ZmM4OWM1ODc5ZGEzZDNkNTVhNTg0MTlhYmY3NDJk",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -523,6 +523,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "VxRxS",
+        "url": "https://open.spotify.com/album/4pRtgWxHewubCRQPaQnhe6"
+      },
+      "artists": [
+        {
+          "name": "V\u00edrus",
+          "url": "https://open.spotify.com/artist/1PUMdtllFKYq4Ymzduzocv"
+        }
+      ],
+      "duration_ms": 90618,
+      "name": "Andarilho",
+      "url": "https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Promessas",
         "url": "https://open.spotify.com/album/5SzwkmVh7Udr3jRLgG2Bo3"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 130666,
       "name": "Promessas",
       "url": "https://open.spotify.com/track/0sm2tZy8hskQW46adEhKuB"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "VxRxS",
-        "url": "https://open.spotify.com/album/4pRtgWxHewubCRQPaQnhe6"
-      },
-      "artists": [
-        {
-          "name": "V\u00edrus",
-          "url": "https://open.spotify.com/artist/1PUMdtllFKYq4Ymzduzocv"
-        }
-      ],
-      "duration_ms": 90618,
-      "name": "Andarilho",
-      "url": "https://open.spotify.com/track/7C50cr8Jasct0C4cRdNacH"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -627,34 +627,6 @@
       "duration_ms": 185466,
       "name": "Pagar Pra Ter",
       "url": "https://open.spotify.com/track/3Sr0nvA4P1D0QYHjrp1CjU"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Compasso",
-        "url": "https://open.spotify.com/album/4e5ouUNZcjSCA6yIw9q1eX"
-      },
-      "artists": [
-        {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
-        },
-        {
-          "name": "Konai",
-          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Shouga",
-          "url": "https://open.spotify.com/artist/27VTmGkdhD5rAMJ7TQ1oql"
-        }
-      ],
-      "duration_ms": 156781,
-      "name": "Compasso",
-      "url": "https://open.spotify.com/track/6NnlPOIrYoKhYfiJzDTNNd"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -747,6 +719,34 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Compasso",
+        "url": "https://open.spotify.com/album/4e5ouUNZcjSCA6yIw9q1eX"
+      },
+      "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
+        {
+          "name": "Konai",
+          "url": "https://open.spotify.com/artist/12YpLBd0FvDYA0c4nsaxFp"
+        },
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Shouga",
+          "url": "https://open.spotify.com/artist/27VTmGkdhD5rAMJ7TQ1oql"
+        }
+      ],
+      "duration_ms": 156781,
+      "name": "Compasso",
+      "url": "https://open.spotify.com/track/6NnlPOIrYoKhYfiJzDTNNd"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "S\u00f3 Sei Falar de Amor",
         "url": "https://open.spotify.com/album/3JpZq1oauNz1PELKRSMJ0t"
       },
@@ -771,26 +771,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Canc\u00fan",
-        "url": "https://open.spotify.com/album/2fHM4ZxQCcFe7pbflBMpgD"
+        "name": "Em Mim",
+        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
       },
       "artists": [
         {
-          "name": "Altamira",
-          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
         },
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
-        },
-        {
-          "name": "FreezaMC",
-          "url": "https://open.spotify.com/artist/6aiPY2UsxHJrLq0X1ruIiU"
+          "name": "Guetta FInelly",
+          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
         }
       ],
-      "duration_ms": 142105,
-      "name": "Canc\u00fan",
-      "url": "https://open.spotify.com/track/2gbmbB5KHCpLYgr7AMwNEn"
+      "duration_ms": 126143,
+      "name": "Em Mim",
+      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -843,22 +839,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Ressaca",
-        "url": "https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG"
-      },
-      "artists": [
-        {
-          "name": "Coruja Bc1",
-          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
-        }
-      ],
-      "duration_ms": 238500,
-      "name": "Ressaca",
-      "url": "https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Anos Luz",
         "url": "https://open.spotify.com/album/3ODbaa0vBZtfyZXaNFGgxy"
       },
@@ -875,22 +855,38 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Em Mim",
-        "url": "https://open.spotify.com/album/24yXgj5YYaX70GSzazTuPq"
+        "name": "Ressaca",
+        "url": "https://open.spotify.com/album/7n6OgUHqVmMddUERyTONlG"
       },
       "artists": [
         {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        },
-        {
-          "name": "Guetta FInelly",
-          "url": "https://open.spotify.com/artist/1V9u0JLL2G1CTkI9Uf4nJX"
+          "name": "Coruja Bc1",
+          "url": "https://open.spotify.com/artist/6mw0OyFqwxCOmz1v3W3htO"
         }
       ],
-      "duration_ms": 126143,
-      "name": "Em Mim",
-      "url": "https://open.spotify.com/track/0waABf8cZaYuSyRMCvQlFm"
+      "duration_ms": 238500,
+      "name": "Ressaca",
+      "url": "https://open.spotify.com/track/6G5jevhPxuWf3bWiWosEzQ"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Me Deixa",
+        "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
+      },
+      "artists": [
+        {
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 149351,
+      "name": "Me Deixa",
+      "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -943,22 +939,26 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Me Deixa",
-        "url": "https://open.spotify.com/album/1cDvl8vFwh5TTweTSZYmxk"
+        "name": "Canc\u00fan",
+        "url": "https://open.spotify.com/album/2fHM4ZxQCcFe7pbflBMpgD"
       },
       "artists": [
+        {
+          "name": "Altamira",
+          "url": "https://open.spotify.com/artist/12xPPAGu03vdZR3AmWNIxZ"
+        },
         {
           "name": "Kail\u00ea",
           "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
         },
         {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+          "name": "FreezaMC",
+          "url": "https://open.spotify.com/artist/6aiPY2UsxHJrLq0X1ruIiU"
         }
       ],
-      "duration_ms": 149351,
-      "name": "Me Deixa",
-      "url": "https://open.spotify.com/track/1u6iYgTh8yBx2riLQWEHwI"
+      "duration_ms": 142105,
+      "name": "Canc\u00fan",
+      "url": "https://open.spotify.com/track/2gbmbB5KHCpLYgr7AMwNEn"
     },
     {
       "added_at": "2023-10-06 03:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "No tags, no labels - just free form. Cover: Sainte & Cash Cobain",
-  "num_followers": 154627,
+  "num_followers": 154681,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGY5MjBjYWJiMGMzMGY5MzkxZWQwYjJhMjM1NjU4ZTdlNzdlMjNk",
+  "snapshot_id": "MCw0OTEzZDdjM2M1YjM3M2UyYTdlYjRkOGZiOWVkOTEzNDE4YTY5NDA4",
   "tracks": [
     {
       "added_at": "2023-08-18 08:12:16",
@@ -395,6 +395,22 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
+        "name": "Local Mvp",
+        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
+      },
+      "artists": [
+        {
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Stylin'",
+      "url": "https://open.spotify.com/track/0SLE0Ym3WhxfHSDR7Qd5pf"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
         "name": "KAYTRAMIN\u00c9",
         "url": "https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 156000,
       "name": "Sossaup",
       "url": "https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
-        "name": "Local Mvp",
-        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
-      },
-      "artists": [
-        {
-          "name": "Saint\u00e9",
-          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Stylin'",
-      "url": "https://open.spotify.com/track/0SLE0Ym3WhxfHSDR7Qd5pf"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Local Mvp",
-        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
-      },
-      "artists": [
-        {
-          "name": "Saint\u00e9",
-          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Hunnids",
-      "url": "https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
         "name": "Fountain Baby",
         "url": "https://open.spotify.com/album/3dKdkVeR6hPjAOH5K2nYTh"
       },
@@ -559,6 +543,26 @@
       "duration_ms": 148573,
       "name": "Wasted Eyes",
       "url": "https://open.spotify.com/track/7dEXXV4xk5OpEdswCWC3GX"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
+        "name": "Unfinished Business",
+        "url": "https://open.spotify.com/album/0cgZa2nCPq1jsEVPsa4g0v"
+      },
+      "artists": [
+        {
+          "name": "Fredo",
+          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
+        },
+        {
+          "name": "Eric IV",
+          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+        }
+      ],
+      "duration_ms": 175600,
+      "name": "Quarter Past 3",
+      "url": "https://open.spotify.com/track/1EtbujcET83u1Zitv6Np77"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -583,22 +587,18 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "Unfinished Business",
-        "url": "https://open.spotify.com/album/0cgZa2nCPq1jsEVPsa4g0v"
+        "name": "Local Mvp",
+        "url": "https://open.spotify.com/album/02gUzFCFgKdsj8p1KcnASN"
       },
       "artists": [
         {
-          "name": "Fredo",
-          "url": "https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z"
-        },
-        {
-          "name": "Eric IV",
-          "url": "https://open.spotify.com/artist/56r1mYQ64egjnM0klZb2Cc"
+          "name": "Saint\u00e9",
+          "url": "https://open.spotify.com/artist/3DEdNjxF3ea9taOMCXouZ6"
         }
       ],
-      "duration_ms": 175600,
-      "name": "Quarter Past 3",
-      "url": "https://open.spotify.com/track/1EtbujcET83u1Zitv6Np77"
+      "duration_ms": 166000,
+      "name": "Hunnids",
+      "url": "https://open.spotify.com/track/1N4WFXhgmkrTRxK0X7R90u"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -723,6 +723,26 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
+        "name": "Lotto",
+        "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
+      },
+      "artists": [
+        {
+          "name": "Bad Boy Timz",
+          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
+        },
+        {
+          "name": "Mixtape Madness",
+          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
+        }
+      ],
+      "duration_ms": 185142,
+      "name": "Lotto",
+      "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
         "name": "Right Hand",
         "url": "https://open.spotify.com/album/0DFUakFW6jzPiP9qH70lvq"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 193243,
       "name": "Celine",
       "url": "https://open.spotify.com/track/2FAubZAGaGl5k2Be1n1nrG"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
-        "name": "Lotto",
-        "url": "https://open.spotify.com/album/6trpH2gOheocHdjxeotCNZ"
-      },
-      "artists": [
-        {
-          "name": "Bad Boy Timz",
-          "url": "https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS"
-        },
-        {
-          "name": "Mixtape Madness",
-          "url": "https://open.spotify.com/artist/4ocdD0Bi1syVqLs1GiHqQ9"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Lotto",
-      "url": "https://open.spotify.com/track/4BWX21Z66fCp2y7IxZjJOW"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
+        "name": "SUMO",
+        "url": "https://open.spotify.com/album/6VRUcQIKK7pPHMjnEKXEoM"
+      },
+      "artists": [
+        {
+          "name": "SamRecks",
+          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "SUMO",
+      "url": "https://open.spotify.com/track/4EKJDqxtPUGPs6MbmWF3WR"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
         "name": "Leon the Professional",
         "url": "https://open.spotify.com/album/1NG1UlXaxBYm25tBEa5a9l"
       },
@@ -935,18 +951,18 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
-        "name": "SUMO",
-        "url": "https://open.spotify.com/album/6VRUcQIKK7pPHMjnEKXEoM"
+        "name": "Caroline",
+        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
       },
       "artists": [
         {
-          "name": "SamRecks",
-          "url": "https://open.spotify.com/artist/3hHIZyA3xXTamnwX8zXien"
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
         }
       ],
-      "duration_ms": 180000,
-      "name": "SUMO",
-      "url": "https://open.spotify.com/track/4EKJDqxtPUGPs6MbmWF3WR"
+      "duration_ms": 216933,
+      "name": "Caroline",
+      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -971,22 +987,6 @@
       "duration_ms": 192733,
       "name": "terms (feat. Dominic Fike & Denzel Curry)",
       "url": "https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
-        "name": "Caroline",
-        "url": "https://open.spotify.com/album/75p2ynuvcTWcFIFs4OyDkQ"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "Caroline",
-      "url": "https://open.spotify.com/track/21aQ9GdgEXK6qeovX0YaKb"
     },
     {
       "added_at": "2023-08-18 08:12:16",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-08-18 08:12:16",
       "album": {
+        "name": "Green Eyes",
+        "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 197524,
+      "name": "Green Eyes",
+      "url": "https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83"
+    },
+    {
+      "added_at": "2023-08-18 08:12:16",
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty"
       },
@@ -1079,26 +1095,6 @@
       "duration_ms": 195829,
       "name": "Vibe (feat. Popcaan)",
       "url": "https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB"
-    },
-    {
-      "added_at": "2023-08-18 08:12:16",
-      "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        },
-        {
-          "name": "Juls",
-          "url": "https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic"
-        }
-      ],
-      "duration_ms": 238917,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
     }
   ],
   "unique_name": "Free Form",

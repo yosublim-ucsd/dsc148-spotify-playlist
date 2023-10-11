@@ -1,12 +1,12 @@
 {
   "description": "Esos \u00e9xitos que todav\u00eda quieres seguir escuchando. Foto: Anuel AA & Bad Bunny",
-  "num_followers": 630254,
+  "num_followers": 630580,
   "original_name": "Reggaet\u00f3n Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwM2I0YmFhMGZhNTI0ZDczN2U5ZDYzMDllYmRjNDNhNzkzYTBlZjlk",
+  "snapshot_id": "MCw0MzkxMThlMTg0MjhiNjdhOTlhMjVlYjQ0NTI2NTU3NThhZmYyY2E2",
   "tracks": [
     {
       "added_at": "2023-02-13 15:33:35",
@@ -1519,26 +1519,6 @@
     {
       "added_at": "2023-02-13 15:33:35",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 232786,
-      "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc"
-    },
-    {
-      "added_at": "2023-02-13 15:33:35",
-      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/4BvD9caT3ZohqNQFcR8dVD"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 221653,
       "name": "Me Niego (feat. Ozuna & Wisin)",
       "url": "https://open.spotify.com/track/4ggiDYAkJ7Yk8d5xOr7Xjo"
+    },
+    {
+      "added_at": "2023-02-13 15:33:35",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6I32dRerwcm3jYRsprxb5k"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 232786,
+      "name": "Esc\u00e1pate Conmigo (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/1KSqYYJFyfTecXFk9M0prc"
     },
     {
       "added_at": "2023-02-13 15:33:35",
@@ -1615,26 +1615,6 @@
     {
       "added_at": "2023-02-13 15:33:35",
       "album": {
-        "name": "RITMO (Bad Boys For Life)",
-        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        },
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 221714,
-      "name": "RITMO (Bad Boys For Life)",
-      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
-    },
-    {
-      "added_at": "2023-02-13 15:33:35",
-      "album": {
         "name": "Asesina",
         "url": "https://open.spotify.com/album/5HfLVrLABowoW9EoCavQld"
       },
@@ -1651,6 +1631,26 @@
       "duration_ms": 187312,
       "name": "Asesina",
       "url": "https://open.spotify.com/track/5lZaM4985p0t3YfizlQWUz"
+    },
+    {
+      "added_at": "2023-02-13 15:33:35",
+      "album": {
+        "name": "RITMO (Bad Boys For Life)",
+        "url": "https://open.spotify.com/album/6EobpC5SDFy5DF50dWNVGF"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 221714,
+      "name": "RITMO (Bad Boys For Life)",
+      "url": "https://open.spotify.com/track/6cy3ki60hLwimwIje7tALf"
     },
     {
       "added_at": "2023-02-13 15:33:35",
@@ -2187,30 +2187,6 @@
     {
       "added_at": "2023-02-13 15:33:35",
       "album": {
-        "name": "SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)",
-        "url": "https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Descemer Bueno",
-          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 207680,
-      "name": "SUBEME LA RADIO",
-      "url": "https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn"
-    },
-    {
-      "added_at": "2023-02-13 15:33:35",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/3TgOrQ3p23Af8zSsxK8fdX"
       },
@@ -2251,6 +2227,30 @@
     {
       "added_at": "2023-02-13 15:33:35",
       "album": {
+        "name": "SUBEME LA RADIO (feat. Descemer Bueno & Zion & Lennox)",
+        "url": "https://open.spotify.com/album/2Ib7wM5qXKXDzZFhzNQ7TG"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Descemer Bueno",
+          "url": "https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 207680,
+      "name": "SUBEME LA RADIO",
+      "url": "https://open.spotify.com/track/7nKBxz47S9SD79N086fuhn"
+    },
+    {
+      "added_at": "2023-02-13 15:33:35",
+      "album": {
         "name": "3 A.M.",
         "url": "https://open.spotify.com/album/6DAFWiPpok2nZEtjdSZO3X"
       },
@@ -2267,6 +2267,26 @@
       "duration_ms": 183573,
       "name": "3 A.M.",
       "url": "https://open.spotify.com/track/0yyZN5ASdrYu0XYWFzfxUu"
+    },
+    {
+      "added_at": "2023-02-13 15:33:35",
+      "album": {
+        "name": "MALA SANTA",
+        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 256519,
+      "name": "Cuando Te Bes\u00e9",
+      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
     },
     {
       "added_at": "2023-02-13 15:33:35",
@@ -2303,26 +2323,6 @@
       "duration_ms": 289898,
       "name": "El Efecto - Remix",
       "url": "https://open.spotify.com/track/74j34STf8L6uADnTN69ohv"
-    },
-    {
-      "added_at": "2023-02-13 15:33:35",
-      "album": {
-        "name": "MALA SANTA",
-        "url": "https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 256519,
-      "name": "Cuando Te Bes\u00e9",
-      "url": "https://open.spotify.com/track/74wEiOpnvCe1tCTWKGSYta"
     },
     {
       "added_at": "2023-02-13 15:33:35",
@@ -2511,22 +2511,6 @@
     {
       "added_at": "2023-02-13 15:33:35",
       "album": {
-        "name": "Sentimiento, Elegancia y Maldad",
-        "url": "https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 171333,
-      "name": "Hace Mucho Tiempo",
-      "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
-    },
-    {
-      "added_at": "2023-02-13 15:33:35",
-      "album": {
         "name": "El Pr\u00edncipe [Ghost Edition]",
         "url": "https://open.spotify.com/album/6A6eSLDcS2r7qT9ZFYSJlL"
       },
@@ -2539,6 +2523,22 @@
       "duration_ms": 238564,
       "name": "Prrrum",
       "url": "https://open.spotify.com/track/774Vy9sPhpePjj0B7WHaG2"
+    },
+    {
+      "added_at": "2023-02-13 15:33:35",
+      "album": {
+        "name": "Sentimiento, Elegancia y Maldad",
+        "url": "https://open.spotify.com/album/61bxUN2kedSEPjpvuLtSYe"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 171333,
+      "name": "Hace Mucho Tiempo",
+      "url": "https://open.spotify.com/track/5Y0ZwhwMEQ7NIb5PeAp0YI"
     },
     {
       "added_at": "2023-02-13 15:33:35",

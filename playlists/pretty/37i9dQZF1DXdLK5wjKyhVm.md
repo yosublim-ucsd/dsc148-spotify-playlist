@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 
 > Blissed out beats and head nodding grooves \- Relax, study and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,029 likes - 183 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,137 likes - 183 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdLK5wjKyhVm.md) - [plain]
 | 182 | [Shakshuka](https://open.spotify.com/track/6kTd6Xu9IBCB5ShedtldZw) | [Philanthrope](https://open.spotify.com/artist/13ACz7DIictCpSYGglNTHs), [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [Shakshuka](https://open.spotify.com/album/2qL1eyBwFr9f4mDOFEXuii) | 2:52 |
 | 183 | [Meeting Under The Enchanted Oak](https://open.spotify.com/track/6Y7ICzw5bHPBnqpYaIxEoR) | [Raimu](https://open.spotify.com/artist/4PMAJlYIlc9EafX6z8lwZ3) | [Meeting Under The Enchanted Oak](https://open.spotify.com/album/3VT2QmsS419WRFJZg3ZVWO) | 3:25 |
 
-Snapshot ID: `MCwyNTcwYWU5YmU3NzYyNTE4OTEzOWQwYjY0OGQyZmRmY2M4OTJiOGZk`
+Snapshot ID: `MCw2MWI1MWUyNWEyYzk2ZmI1ZmFhYWVjZjhlYTUzNGNhMjMwYjdkMTMw`

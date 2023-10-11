@@ -1,12 +1,12 @@
 {
   "description": "Novedades y cl\u00e1sicos del popular g\u00e9nero colombiano. Foto: Diego Daza y Carlos Rueda",
-  "num_followers": 355110,
+  "num_followers": 353956,
   "original_name": "Lo + del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2Q1ZWRlOWVlMmI1N2ZmMDJmNGVjNjFhN2FjM2RjNDAzNjIyNmRk",
+  "snapshot_id": "MCw0ZTM3YjhhNTliNDM1MWFkNmZiYTcwNWUwYmFmMGVhODM4MDkxOGIw",
   "tracks": [
     {
       "added_at": "2023-08-25 05:24:41",
@@ -49,10 +49,10 @@
       "url": "https://open.spotify.com/track/6OIvXRQYGEhmvLjcYNcV4n"
     },
     {
-      "added_at": "2023-08-25 05:24:41",
+      "added_at": "2023-10-06 04:30:08",
       "album": {
-        "name": "Dos \u00c9pocas",
-        "url": "https://open.spotify.com/album/580WWF84fAKqqzgInvnUsz"
+        "name": "Dos \u00c9pocas (Segunda Edici\u00f3n)",
+        "url": "https://open.spotify.com/album/2PxwFOfB6afTLTGxYgwICy"
       },
       "artists": [
         {
@@ -62,31 +62,15 @@
         {
           "name": "Los Gigantes Del Vallenato",
           "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
-        }
-      ],
-      "duration_ms": 299345,
-      "name": "Despu\u00e9s Del Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3qvkHyt2EBuycESNoeqr2b"
-    },
-    {
-      "added_at": "2023-09-15 05:02:00",
-      "album": {
-        "name": "Termin\u00f3 Gustando",
-        "url": "https://open.spotify.com/album/10FtmtPmy2qRZbHUN6dezW"
-      },
-      "artists": [
-        {
-          "name": "Rolando Ochoa",
-          "url": "https://open.spotify.com/artist/0VWoer2RDTKY4Sr9U93QTJ"
         },
         {
-          "name": "Zona 8 R",
-          "url": "https://open.spotify.com/artist/7M7XJgVgKowhXOEd4vGjuN"
+          "name": "Jorge Celed\u00f3n",
+          "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
         }
       ],
-      "duration_ms": 222173,
-      "name": "Termin\u00f3 Gustando",
-      "url": "https://open.spotify.com/track/7lnBlgW6U6fLTotoXt6Tb4"
+      "duration_ms": 288071,
+      "name": "Me Das Y Me Quitas Todo",
+      "url": "https://open.spotify.com/track/3hRLE4fGujnPKx3lJi7Y5K"
     },
     {
       "added_at": "2023-08-25 05:24:41",
@@ -203,6 +187,26 @@
       "duration_ms": 222134,
       "name": "Modo Avi\u00f3n",
       "url": "https://open.spotify.com/track/0hkMAFDOIP6whke8ckr0bs"
+    },
+    {
+      "added_at": "2023-08-25 05:24:41",
+      "album": {
+        "name": "Dos \u00c9pocas",
+        "url": "https://open.spotify.com/album/580WWF84fAKqqzgInvnUsz"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        },
+        {
+          "name": "Los Gigantes Del Vallenato",
+          "url": "https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt"
+        }
+      ],
+      "duration_ms": 299345,
+      "name": "Despu\u00e9s Del Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3qvkHyt2EBuycESNoeqr2b"
     },
     {
       "added_at": "2023-08-25 05:24:41",

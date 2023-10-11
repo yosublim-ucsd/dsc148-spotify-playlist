@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Kris Kross Amsterdam, SERA, Conor Maynard
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,789 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,905 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 99 | [Always By My Side](https://open.spotify.com/track/3vQe560Jawf6WeHNG3x6XB) | [Matthew Mole](https://open.spotify.com/artist/1LfnIuggAY5qQdS4sP1K86) | [Wake Up, It's Morning](https://open.spotify.com/album/2jDVVWdGzt3sKd7HSemXzb) | 3:19 |
 | 100 | [Rocketship](https://open.spotify.com/track/0vWQiEw7qjknJKiJ9fNy0y) | [Moonloops](https://open.spotify.com/artist/2rXIqzzsMByBxUJhiZPXWo) | [Rocketship](https://open.spotify.com/album/3xtsrCBIcf6TLsqOVbQZay) | 4:15 |
 
-Snapshot ID: `MCxmNjU1MzM4M2MwMWM3ZjhlYjFkYzU2ZjE4YTJkMWM5MGFjYTEyZDVh`
+Snapshot ID: `MCxjY2FmOTRmZDA1MTc5YTUwNWU3ODFhMjM3MTUyN2FkM2JiNGRiMTBm`

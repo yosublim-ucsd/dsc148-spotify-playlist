@@ -16185,6 +16185,24 @@
     },
     {
       "album": {
+        "name": "Let Me Go",
+        "url": "https://open.spotify.com/album/3y71vzK8w8vkyJejrz9UfF"
+      },
+      "artists": [
+        {
+          "name": "Carl :Cries",
+          "url": "https://open.spotify.com/artist/6B1HBD8SBFMKAimyjUFesP"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184750,
+      "name": "Let Me Go",
+      "url": "https://open.spotify.com/track/1NqIMpmNukrvX1aAgxujvO"
+    },
+    {
+      "album": {
         "name": "Pacifico",
         "url": "https://open.spotify.com/album/5PrhnVNOKoJC2aLLfabxuB"
       },
@@ -22284,7 +22302,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 238680,
       "name": "promised",
       "url": "https://open.spotify.com/track/2Fv3WCZVsCxQtkMAQLHMmJ"

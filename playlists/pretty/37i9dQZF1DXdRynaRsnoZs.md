@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,475 likes - 59 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,505 likes - 59 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 | 58 | [Christ Child's Lullaby \(Instrumental Version\)](https://open.spotify.com/track/4mIDI8cbAsw2sVD4oG3vCl) | [The O'Neill Brothers Group](https://open.spotify.com/artist/0cylxW7HGdK9xMdubw2oYW) | [Christmas Sounds on Harp](https://open.spotify.com/album/4jiBc5Y3OuHOlllmKb0zb3) | 3:14 |
 | 59 | [We Three Kings \(Instrumental\)](https://open.spotify.com/track/4K9nBWXE1KaAuORjR6fafU) | [Rockabye Lullaby](https://open.spotify.com/artist/3y0d6ljlxup7X9hZKSdKbr) | [Christmas Lullabies Vol 3](https://open.spotify.com/album/17kPYRSo1D9KTGZy4fKB7n) | 3:23 |
 
-Snapshot ID: `MCwwZmRjMGM5YTQyOGIxOGI4NWRkZDI3ODA4ZGY0NzcxYmU3ZmIwN2I4`
+Snapshot ID: `MCw2NDBhYjBmYTE1MTAwZjdlODYyOTg4YjM1Yjk1YWI0OGVjYjk3ZTBh`

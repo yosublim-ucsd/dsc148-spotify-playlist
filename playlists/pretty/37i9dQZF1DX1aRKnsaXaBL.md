@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 
 > Chasing sunsets con buena música de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,293 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,317 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 26 | [La Verdad](https://open.spotify.com/track/2mhPZQ1vdMX6My3Nr3ICGU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Tripolar](https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS) | 4:02 |
 | 27 | [Esta Noche Que Salí](https://open.spotify.com/track/3SN1eGZpzGJlFbnde0B6Sy) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [Esta Noche Que Salí](https://open.spotify.com/album/6mdB3Romt9Cx8ROwOaDs2Z) | 3:19 |
 | 28 | [Mejor Que Nadie](https://open.spotify.com/track/6J1S8dFlnAcNgl7nHPB1XJ) | [Technicolor Fabrics](https://open.spotify.com/artist/2GtdjV9W8RmiI4W2AUl4Pl) | [Mejor Que Nadie](https://open.spotify.com/album/0I2eLAIopLwwIUlUZx8muE) | 4:40 |
-| 29 | [Sinoca](https://open.spotify.com/track/4iShCCbhtU3ZlUJbBmUAzz) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Sinoca](https://open.spotify.com/album/7lMl5fZ7zkS24TzVrlBcMn) | 3:35 |
-| 30 | [Billie Max](https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:54 |
+| 29 | [Billie Max](https://open.spotify.com/track/3K4K4XZPEGLU0fyASkFo17) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [¿Quién es Billie Max?](https://open.spotify.com/album/1sbuiA6muqHf3S3sbe58O3) | 2:54 |
+| 30 | [Sinoca](https://open.spotify.com/track/4iShCCbhtU3ZlUJbBmUAzz) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Sinoca](https://open.spotify.com/album/7lMl5fZ7zkS24TzVrlBcMn) | 3:35 |
 | 31 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 32 | [NO TE ALEJES](https://open.spotify.com/track/4Nx5BIyMer4DjxbE5aJh1v) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [TE QUIERO](https://open.spotify.com/album/65EzIW9HRqb0a7v8gY3oXJ) | 3:30 |
 | 33 | [jardín de flores](https://open.spotify.com/track/7DHPDiXzR6MIanHwQ0AuZi) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [jardín de flores](https://open.spotify.com/album/7ytEMDrNLT9r9vRYMmjtwi) | 3:19 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aRKnsaXaBL.md) - [plain]
 | 40 | [Dejarte Ir](https://open.spotify.com/track/5eyC34a60pEb4iYysPTgBX) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir También Es Amar](https://open.spotify.com/album/0xuwW3Q0bqsIstfTl4kgYi) | 3:12 |
 | 41 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 |
 | 42 | [¿Dónde Estabas Tú?](https://open.spotify.com/track/3Jege5i2BBYLvsTPiHANja) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [El Sol De Las 3](https://open.spotify.com/album/2CEg0wCMivKXUXVKk90YOA) | 2:32 |
-| 43 | [Nunca Te Quise](https://open.spotify.com/track/4LnW4biZe5TnYQPcFayoQX) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Nunca Te Quise](https://open.spotify.com/album/6DkPLxjjuUT5BtLZ0vczNv) | 3:35 |
-| 44 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 |
+| 43 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 |
+| 44 | [Nunca Te Quise](https://open.spotify.com/track/4LnW4biZe5TnYQPcFayoQX) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Nunca Te Quise](https://open.spotify.com/album/6DkPLxjjuUT5BtLZ0vczNv) | 3:35 |
 | 45 | [Adolescente](https://open.spotify.com/track/1dDacT8TuPd9vQ8Q3866sC) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 5:00 |
 | 46 | [Nos Soltamos](https://open.spotify.com/track/5wiHLVINwcLi2x0G6IoIYL) | [Divino Niño](https://open.spotify.com/artist/2O2KJngZ80ZTK71HamDNYi) | [Last Spa on Earth](https://open.spotify.com/album/0Wcevqdyy01R4lGtAYoleB) | 3:34 |
 | 47 | [Porque](https://open.spotify.com/track/50mMnSKjwWAvkL3OwUiVhS) | [Juku Ares](https://open.spotify.com/artist/02WiMWJUw1eRS0d2tEJauw) | [Quemarropa](https://open.spotify.com/album/5EOlfoHmwgfn6N5Vz74ss9) | 3:00 |
 | 48 | [Todo Va a Estar Bien](https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Todo Va a Estar Bien](https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw) | 3:15 |
-| 49 | [Soy Un Guapo](https://open.spotify.com/track/0Hl9zIp6BUMfdijVXEXAQG) | [The Guapos](https://open.spotify.com/artist/0rpiQ50GeyAWnvorWR4pvh) | [Soy Un Guapo](https://open.spotify.com/album/2vmMCMxlftRO0lB0guabEu) | 3:02 |
-| 50 | [El Ding Dong](https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Ding Dong](https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp) | 2:39 |
+| 49 | [El Ding Dong](https://open.spotify.com/track/3BsdHpAazyhrsZJldvlJjI) | [Silvestre y La Naranja](https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO) | [El Ding Dong](https://open.spotify.com/album/5fIoGmJwYfj24FqrUU8Yvp) | 2:39 |
+| 50 | [Los Años Maravillosos](https://open.spotify.com/track/42d6mbHHtDTnlmnzYV31Py) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Los Años Maravillosos](https://open.spotify.com/album/4a8QZdeULQRoMTgxVbcsCw) | 4:23 |
 
-Snapshot ID: `MCwwNzU4N2E2NTZhMGQ2Nzc4Y2RiMmVhOThjMzQ2NTg3OGUzN2M2Nzcz`
+Snapshot ID: `MCwzYjViNGRmMjIxN2M0ZGQyMDBhMDE0NzM2NDRjMTE3NDgxZDcwZTcy`

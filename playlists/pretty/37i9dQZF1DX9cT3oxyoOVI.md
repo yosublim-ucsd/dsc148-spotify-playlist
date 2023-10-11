@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 
 > romanticizing indie music
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,810 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,825 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 | 74 | [Je Suis la Pomme Rouge](https://open.spotify.com/track/5LVaQHjgN0jiKDYaoMQqFG) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [The Night is Clear](https://open.spotify.com/album/4AzsujfeRZCjymYlgxOpjm) | 4:30 |
 | 75 | [UNO](https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [UNO](https://open.spotify.com/album/6OZef64g2SeanHZyzsaLiW) | 3:10 |
 
-Snapshot ID: `MCwwNzUyYTU5MDQ0YzM4YTVjNDQ4YTE3ZGQ1ODExOTNjMDFkOTVkNDRh`
+Snapshot ID: `MCxkYzA1MTQxZWEzOGVjNWIwMWI3Y2UyZDQzMWFlZjA1YzA2MmExMGUw`

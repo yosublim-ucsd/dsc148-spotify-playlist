@@ -1,12 +1,12 @@
 {
   "description": "Salsa que representa Puerto Rico. Portada: El Gran Combo De Puerto Rico",
-  "num_followers": 144093,
+  "num_followers": 144105,
   "original_name": "Salsa Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmVhNzJiOTM2YjQzNjMwYjJkNzc4OWJlZGQ1ZTc2Njc4MjA1YWMw",
+  "snapshot_id": "MCwzMDAyMTgzYzM5OTgyMmY4MzRjZTUyMDZiNjEyMjU4OTJmNTM1MjBi",
   "tracks": [
     {
       "added_at": "2023-08-11 04:00:00",
@@ -319,8 +319,8 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
+        "name": "3.0",
+        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 228966,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
+      "duration_ms": 279360,
+      "name": "Cambio de Piel",
+      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -403,8 +403,8 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "3.0",
-        "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 279360,
-      "name": "Cambio de Piel",
-      "url": "https://open.spotify.com/track/3AjxOdecZ2eKDL0aOtcYsJ"
+      "duration_ms": 228966,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -439,18 +439,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
+        "name": "V\u00e1monos Pa'l Monte",
+        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
       },
       "artists": [
         {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
         }
       ],
-      "duration_ms": 252400,
-      "name": "El Men\u00fa",
-      "url": "https://open.spotify.com/track/734AX6t02v4SNG1bkhNxT9"
+      "duration_ms": 426840,
+      "name": "V\u00e1monos Pa'l Monte",
+      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
     },
     {
       "added_at": "2023-08-11 04:00:00",
@@ -471,18 +471,18 @@
     {
       "added_at": "2023-08-11 04:00:00",
       "album": {
-        "name": "V\u00e1monos Pa'l Monte",
-        "url": "https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK"
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/3pYgBhT551TztQNYbXqB26"
       },
       "artists": [
         {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 426840,
-      "name": "V\u00e1monos Pa'l Monte",
-      "url": "https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId"
+      "duration_ms": 252400,
+      "name": "El Men\u00fa",
+      "url": "https://open.spotify.com/track/734AX6t02v4SNG1bkhNxT9"
     },
     {
       "added_at": "2023-08-11 04:00:00",

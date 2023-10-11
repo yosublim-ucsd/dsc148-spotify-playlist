@@ -1271,6 +1271,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
+    },
+    {
+      "album": {
         "name": "Un Verano Sin Ti",
         "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
       },
@@ -1760,7 +1778,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 225040,
       "name": "Amour plastique",
       "url": "https://open.spotify.com/track/269XSeQhDrWEotMALJaACW"
@@ -2809,6 +2827,24 @@
     },
     {
       "album": {
+        "name": "BAIXO",
+        "url": "https://open.spotify.com/album/2Osz2h7ZjKHOZh5grL7o6G"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104013,
+      "name": "BAIXO",
+      "url": "https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2"
+    },
+    {
+      "album": {
         "name": "Cuanto Quiero Que Me Quieras",
         "url": "https://open.spotify.com/album/2jVihPZkUwGX0mL8VoA4wZ"
       },
@@ -3849,6 +3885,28 @@
     },
     {
       "album": {
+        "name": "Buenas",
+        "url": "https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        },
+        {
+          "name": "Saiko",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192954,
+      "name": "Buenas",
+      "url": "https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ"
+    },
+    {
+      "album": {
         "name": "Bugambilia",
         "url": "https://open.spotify.com/album/2Ex6JjyUiIcQRqFeoTSInw"
       },
@@ -4870,7 +4928,7 @@
       ],
       "date_added": "2023-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 194638,
       "name": "Code Con Sprite",
       "url": "https://open.spotify.com/track/6VA0v4ZxYhjYyp4iw1JOij"
@@ -5884,7 +5942,7 @@
       ],
       "date_added": "2023-08-22",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-29",
+      "date_removed": null,
       "duration_ms": 147494,
       "name": "Darkera",
       "url": "https://open.spotify.com/track/2TBuVTy3QnnFn4u4IV7ZMy"
@@ -6384,7 +6442,7 @@
       ],
       "date_added": "2023-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 262153,
       "name": "Devuelvete (Guaracha)",
       "url": "https://open.spotify.com/track/1SODbO76xvYjobGXyvQA15"
@@ -7364,6 +7422,28 @@
       "duration_ms": 140706,
       "name": "El Guat\u00f3n Loyola",
       "url": "https://open.spotify.com/track/3aFCdWQnmCskffgpP9UN8L"
+    },
+    {
+      "album": {
+        "name": "El Jefe",
+        "url": "https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170297,
+      "name": "El Jefe",
+      "url": "https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o"
     },
     {
       "album": {
@@ -12692,7 +12772,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 134853,
       "name": "Le Monde - From Talk to Me",
       "url": "https://open.spotify.com/track/4mOMTUl8XiaqILHwh8zm4H"
@@ -13484,7 +13564,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 179683,
       "name": "Love Lee",
       "url": "https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ"
@@ -16880,7 +16960,7 @@
       ],
       "date_added": "2023-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-07",
+      "date_removed": null,
       "duration_ms": 148314,
       "name": "No Me Sueltes",
       "url": "https://open.spotify.com/track/0nxTx0b1KOKwycQESSeZym"
@@ -20567,6 +20647,24 @@
     },
     {
       "album": {
+        "name": "Quien Es Dei V?",
+        "url": "https://open.spotify.com/album/1crhj8lhrbNVe159yiSWlC"
+      },
+      "artists": [
+        {
+          "name": "Dei V",
+          "url": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162244,
+      "name": "Quien Es Dei V?",
+      "url": "https://open.spotify.com/track/5nSUskJwcSRFS9dIqrVfrv"
+    },
+    {
+      "album": {
         "name": "Quiere Que Llame",
         "url": "https://open.spotify.com/album/2L6SuPwlXXHm3puWVEULxU"
       },
@@ -21266,6 +21364,28 @@
       "duration_ms": 141954,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/6nYyGlTP5L2R6SEd1xG8Xs"
+    },
+    {
+      "album": {
+        "name": "Ropa Combina",
+        "url": "https://open.spotify.com/album/72dVl9kfFQlYDUyqSUco4D"
+      },
+      "artists": [
+        {
+          "name": "snakio21",
+          "url": "https://open.spotify.com/artist/04Yedfi7Lc90uxWRUNZdvg"
+        },
+        {
+          "name": "Amkise",
+          "url": "https://open.spotify.com/artist/331z5QkNalMfRLxZGn8Xsj"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202106,
+      "name": "Ropa Combina",
+      "url": "https://open.spotify.com/track/6SEIeSDZzpTPPrPDGEKtvl"
     },
     {
       "album": {
@@ -22752,7 +22872,7 @@
       ],
       "date_added": "2023-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 310490,
       "name": "Slime You Out (feat. SZA)",
       "url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH"
@@ -22788,7 +22908,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -22922,7 +23042,7 @@
       ],
       "date_added": "2023-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 156560,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/6TTkgmwbCnz8Y4oiUdzmtD"
@@ -23610,6 +23730,28 @@
       "duration_ms": 195373,
       "name": "Sure Thing",
       "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
+    },
+    {
+      "album": {
+        "name": "SUSTANCIAS EN MI CORAZON",
+        "url": "https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK"
+      },
+      "artists": [
+        {
+          "name": "STRANGEHUMAN",
+          "url": "https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196875,
+      "name": "SUSTANCIAS EN MI CORAZON",
+      "url": "https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak"
     },
     {
       "album": {
@@ -27080,7 +27222,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 184153,
       "name": "we fell in love in october",
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"

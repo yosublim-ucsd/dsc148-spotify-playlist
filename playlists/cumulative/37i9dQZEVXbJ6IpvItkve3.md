@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Israel.
 
-811 songs - 1 day 21 hr 41 min
+812 songs - 1 day 21 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Shivers](https://open.spotify.com/track/75MNhvTCCKsST3YqqUiU9r) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Shivers](https://open.spotify.com/album/531c37GGv5IvddCvBv3sWT) | 3:27 | 2021-09-18 | 2021-10-31 |
 | [SHUM](https://open.spotify.com/track/7mEDVrAHDnQJStDo8jKJJm) | [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x) | [SHUM](https://open.spotify.com/album/4AQOhI7QMKq9vmHuzduPRk) | 2:52 | 2021-05-25 | 2021-05-26 |
 | [Shut Down](https://open.spotify.com/track/7gRFDGEzF9UkBV233yv2dc) | [BLACKPINK](https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF) | [BORN PINK](https://open.spotify.com/album/0kbZ4ZNRs76sSFeGUEErFM) | 2:55 | 2022-09-20 | 2022-10-01 |
+| [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-10 |  |
 | [Silent Hill](https://open.spotify.com/track/3tYTyAt1q6BFBiGyYVOLhi) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:40 | 2022-05-14 | 2022-05-20 |
 | [SIRENS](https://open.spotify.com/track/7LSpFCvRZZot2AlmkUzy9k) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:24 | 2023-07-29 | 2023-07-31 |
 | [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:10 | 2023-10-08 | 2023-10-10 |
@@ -382,7 +383,7 @@
 | [Versace on the Floor](https://open.spotify.com/track/0kN8xEmgMW9mh7UmDYHlJP) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 4:21 | 2023-10-05 | 2023-10-09 |
 | [VIEWS](https://open.spotify.com/track/5xlKyUU727MRZycNqeGWVr) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Reo Cragun](https://open.spotify.com/artist/08v1r0jqDyvSo2LtSqHxcy), [ROUSSO](https://open.spotify.com/artist/0B0XXiGxIzdpQAvf3otjUb) | [KIDS](https://open.spotify.com/album/55JRBOOVB5twmQbydWvzBc) | 2:45 | 2021-04-15 | 2021-04-22 |
 | [Vigilante Shit](https://open.spotify.com/track/1xwAWUI6Dj0WGC3KiUPN0O) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 2:44 | 2022-10-22 | 2022-10-27 |
-| [Virginia Beach](https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:11 | 2023-10-07 |  |
+| [Virginia Beach](https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:11 | 2023-10-07 | 2023-10-11 |
 | [Watergun](https://open.spotify.com/track/4ih4oGbMt9b6PbKhTPbAmw) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Watergun](https://open.spotify.com/album/6aBXNHeyTnhy5PooV2izJT) | 2:52 | 2023-05-15 | 2023-05-17 |
 | [Watermelon Sugar](https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Fine Line](https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml) | 2:54 | 2021-03-27\* | 2022-05-05 |
 | [Way 2 Sexy \(with Future & Young Thug\)](https://open.spotify.com/track/0k1WUmIRnG3xU6fvvDVfRG) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:17 | 2021-09-05 | 2021-10-28 |

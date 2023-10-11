@@ -1,12 +1,12 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 734823,
+  "num_followers": 734957,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjZlZTBhMGRhMGUwYmU2NTI4OTdiNzY2ZTVjYjVjMTM2ZDE5OThk",
+  "snapshot_id": "MCw3ZGUzMzJjYTIyZGIwMDE0Mjk4NmJjNWEzZmZlOWRjYWEyOGZiYzFm",
   "tracks": [
     {
       "added_at": "2023-09-01 17:03:00",
@@ -215,6 +215,22 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
+        "name": "Before the Storm",
+        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 445210,
+      "name": "Before the Storm",
+      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
         "name": "Aruna Chandra",
         "url": "https://open.spotify.com/album/09jd5geuKV6itKwcvamNEn"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 538000,
       "name": "Aruna Chandra",
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "Before the Storm",
-        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 445210,
-      "name": "Before the Storm",
-      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -371,26 +371,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Milambi",
-        "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
-      },
-      "artists": [
-        {
-          "name": "Pablo Nouvelle",
-          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
-        },
-        {
-          "name": "Angelique Kidjo",
-          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
-        }
-      ],
-      "duration_ms": 193278,
-      "name": "Milambi",
-      "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "Ormila",
         "url": "https://open.spotify.com/album/7rHLPxwPdaBh1VBGx5wlmX"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 298867,
       "name": "Ormila",
       "url": "https://open.spotify.com/track/5neaZwPu8aVigvIZ0kqt91"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Milambi",
+        "url": "https://open.spotify.com/album/4D4QOUYRQ98dXcmNHAAS7q"
+      },
+      "artists": [
+        {
+          "name": "Pablo Nouvelle",
+          "url": "https://open.spotify.com/artist/2OIJq28O1lXrZ2x3NGSk8P"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        }
+      ],
+      "duration_ms": 193278,
+      "name": "Milambi",
+      "url": "https://open.spotify.com/track/6Bg9rnY8OXQZOG79lCveyu"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -539,6 +539,22 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
+        "name": "Fata Morgana",
+        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+      },
+      "artists": [
+        {
+          "name": "Lassjo",
+          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+        }
+      ],
+      "duration_ms": 309680,
+      "name": "Fata Morgana",
+      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
         "name": "Maasai (Doctor Flake Remix)",
         "url": "https://open.spotify.com/album/4cysb3VUt41H4YmApVHN9Q"
       },
@@ -579,18 +595,38 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Fata Morgana",
-        "url": "https://open.spotify.com/album/2rLEqB3NEHclyYWEAjHdlz"
+        "name": "Global Entry 2",
+        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
       },
       "artists": [
         {
-          "name": "Lassjo",
-          "url": "https://open.spotify.com/artist/2g504CS5Du2Mtuffv3ALth"
+          "name": "Be Svendsen",
+          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
         }
       ],
-      "duration_ms": 309680,
-      "name": "Fata Morgana",
-      "url": "https://open.spotify.com/track/7walQouy5fsUKIOLfvnGOJ"
+      "duration_ms": 469335,
+      "name": "State the Obvious",
+      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "The Deep South",
+        "url": "https://open.spotify.com/album/20G0qgscNeMWWrmmYbHfBY"
+      },
+      "artists": [
+        {
+          "name": "Marco Tegui",
+          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
+        },
+        {
+          "name": "Yusuf Lemone",
+          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
+        }
+      ],
+      "duration_ms": 383775,
+      "name": "Pastorcita",
+      "url": "https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -611,22 +647,6 @@
       "duration_ms": 187118,
       "name": "Sand",
       "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "Global Entry 2",
-        "url": "https://open.spotify.com/album/69LMoWpK2ruprvAdiFPwSm"
-      },
-      "artists": [
-        {
-          "name": "Be Svendsen",
-          "url": "https://open.spotify.com/artist/4BaLB5aiExO29BEGVUisru"
-        }
-      ],
-      "duration_ms": 469335,
-      "name": "State the Obvious",
-      "url": "https://open.spotify.com/track/6WVvJAAzcrcYJhimrjqEIh"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -663,26 +683,6 @@
       "duration_ms": 267004,
       "name": "Love And Hate",
       "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "The Deep South",
-        "url": "https://open.spotify.com/album/20G0qgscNeMWWrmmYbHfBY"
-      },
-      "artists": [
-        {
-          "name": "Marco Tegui",
-          "url": "https://open.spotify.com/artist/4gqouQdirzlMyGgnjMrrIU"
-        },
-        {
-          "name": "Yusuf Lemone",
-          "url": "https://open.spotify.com/artist/5KhkTwLettZaWLuBwEox5M"
-        }
-      ],
-      "duration_ms": 383775,
-      "name": "Pastorcita",
-      "url": "https://open.spotify.com/track/3Y3inhZXBQ1KPfhWYYeuR3"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -775,6 +775,42 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
+        "name": "Man Dies Alone",
+        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
+      },
+      "artists": [
+        {
+          "name": "Depart",
+          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Man Dies Alone - Short Version",
+      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "REKERE",
+        "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Stakev",
+          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
+        }
+      ],
+      "duration_ms": 465502,
+      "name": "Kwenzenjani",
+      "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
         "name": "Into Your Tribe (Bedouin Remix)",
         "url": "https://open.spotify.com/album/6TPJ9cK3kjACehsD2Yu9GR"
       },
@@ -803,42 +839,6 @@
       "duration_ms": 454680,
       "name": "Into Your Tribe - Bedouin Remix",
       "url": "https://open.spotify.com/track/4WtH6JyDF4OlQXglvX7oCV"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "REKERE",
-        "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
-      },
-      "artists": [
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Stakev",
-          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
-        }
-      ],
-      "duration_ms": 465502,
-      "name": "Kwenzenjani",
-      "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "Man Dies Alone",
-        "url": "https://open.spotify.com/album/3UMqCv5HqtHjRCTl4DAoPQ"
-      },
-      "artists": [
-        {
-          "name": "Depart",
-          "url": "https://open.spotify.com/artist/5Mqcuj649T5GFhMGlaNGHy"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Man Dies Alone - Short Version",
-      "url": "https://open.spotify.com/track/06uE6yOg0nc1HFTJWOhFYJ"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
+        "name": "Boho",
+        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
+      },
+      "artists": [
+        {
+          "name": "Slow Nomaden",
+          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
+        }
+      ],
+      "duration_ms": 293000,
+      "name": "Boho",
+      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
         "name": "The Landing",
         "url": "https://open.spotify.com/album/65jdNET1pQoq35hAb6FXep"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 435466,
       "name": "The Landing - Nadav Dagon & JPattersson",
       "url": "https://open.spotify.com/track/5BmOeZnWcFejkiUsdIRgpl"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
-        "name": "Boho",
-        "url": "https://open.spotify.com/album/0ADygtQU38R8k7pSQFcEkU"
-      },
-      "artists": [
-        {
-          "name": "Slow Nomaden",
-          "url": "https://open.spotify.com/artist/4zygNhOWWhflJVjoHMul6K"
-        }
-      ],
-      "duration_ms": 293000,
-      "name": "Boho",
-      "url": "https://open.spotify.com/track/3RMeetVInlc8rcg5m5j8PZ"
     },
     {
       "added_at": "2023-09-01 17:03:00",
@@ -1259,30 +1259,6 @@
     {
       "added_at": "2023-09-01 17:03:00",
       "album": {
-        "name": "Alkebulan Remix",
-        "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
-      },
-      "artists": [
-        {
-          "name": "ANT LaROCK",
-          "url": "https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS"
-        },
-        {
-          "name": "Roland Clark",
-          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
-        },
-        {
-          "name": "David Mayer",
-          "url": "https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf"
-        }
-      ],
-      "duration_ms": 470243,
-      "name": "Alkebulan - David Mayer Remix",
-      "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
-    },
-    {
-      "added_at": "2023-09-01 17:03:00",
-      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/5PpbFirZsHSSonZhxWx500"
       },
@@ -1307,6 +1283,30 @@
       "duration_ms": 329756,
       "name": "Afro Sambroso - Rampa Version",
       "url": "https://open.spotify.com/track/23IBJoNkMZNL286OoJobc9"
+    },
+    {
+      "added_at": "2023-09-01 17:03:00",
+      "album": {
+        "name": "Alkebulan Remix",
+        "url": "https://open.spotify.com/album/2JoZyLBoWtjzNLJKsXNoVs"
+      },
+      "artists": [
+        {
+          "name": "ANT LaROCK",
+          "url": "https://open.spotify.com/artist/6u4RO7eYTIJW3TEITwgzhS"
+        },
+        {
+          "name": "Roland Clark",
+          "url": "https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5"
+        },
+        {
+          "name": "David Mayer",
+          "url": "https://open.spotify.com/artist/7Mf7RKErlQ5maEdHTXNexf"
+        }
+      ],
+      "duration_ms": 470243,
+      "name": "Alkebulan - David Mayer Remix",
+      "url": "https://open.spotify.com/track/4Bl14xQWo7Q6jagOcPZ5mI"
     },
     {
       "added_at": "2023-09-01 17:03:00",

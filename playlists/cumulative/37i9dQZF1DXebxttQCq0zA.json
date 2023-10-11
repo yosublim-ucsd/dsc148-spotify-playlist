@@ -1601,6 +1601,24 @@
     },
     {
       "album": {
+        "name": "eau du mist",
+        "url": "https://open.spotify.com/album/7G8jEerdN6GEqP81tAj4A3"
+      },
+      "artists": [
+        {
+          "name": "Mellow Line",
+          "url": "https://open.spotify.com/artist/04VbUIBiU4FPdTGp83ATXB"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "eau du mist",
+      "url": "https://open.spotify.com/track/1hJbakwBwRHO0RkuWMZTrL"
+    },
+    {
+      "album": {
         "name": "Leave It All Behind",
         "url": "https://open.spotify.com/album/4Z4cjLPjCrgIKC0NgYyMdt"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Le canzoni italiane pi\u00f9 romantiche di sempre \u2764\ufe0f",
-  "num_followers": 172141,
+  "num_followers": 172156,
   "original_name": "Amore Davvero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTQyYWViZDdiNWI4ZmQxODNjNWM4YjllYzk2MzIzYjFhN2FmZWQ1",
+  "snapshot_id": "MCxhOGY0MGRjMTU5ZmEzMWZhZmZlZjEzY2Q0ZDk4ZTkzMTM2NmMwYTgz",
   "tracks": [
     {
       "added_at": "2023-02-20 09:56:57",
@@ -179,22 +179,18 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Brividi",
-        "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
+        "name": "Polaroid 2.0",
+        "url": "https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz"
       },
       "artists": [
         {
-          "name": "Mahmood",
-          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
-        },
-        {
-          "name": "BLANCO",
-          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
+          "name": "Carl Brave x Franco126",
+          "url": "https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b"
         }
       ],
-      "duration_ms": 199146,
-      "name": "Brividi",
-      "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
+      "duration_ms": 190451,
+      "name": "Sempre In Due",
+      "url": "https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -247,18 +243,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Polaroid 2.0",
-        "url": "https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz"
+        "name": "Brividi",
+        "url": "https://open.spotify.com/album/06ZMpecsvvoHGWJHlc2St7"
       },
       "artists": [
         {
-          "name": "Carl Brave x Franco126",
-          "url": "https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b"
+          "name": "Mahmood",
+          "url": "https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd"
+        },
+        {
+          "name": "BLANCO",
+          "url": "https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH"
         }
       ],
-      "duration_ms": 190451,
-      "name": "Sempre In Due",
-      "url": "https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk"
+      "duration_ms": 199146,
+      "name": "Brividi",
+      "url": "https://open.spotify.com/track/1ZMGp9MTXbtAPvcKa0U3zS"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -459,6 +459,22 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
+        "name": "Supereroe",
+        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
+      },
+      "artists": [
+        {
+          "name": "Emis Killa",
+          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
+        }
+      ],
+      "duration_ms": 209179,
+      "name": "Fuoco e benzina",
+      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
         "name": "9",
         "url": "https://open.spotify.com/album/0orR3i1y0uPP6smKEFFbP8"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 251413,
       "name": "Tu",
       "url": "https://open.spotify.com/track/6Gbc24EJdvZgpY0b5pNxhA"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
-        "name": "Supereroe",
-        "url": "https://open.spotify.com/album/67g3eUjlYFB7EkhS1pjKe4"
-      },
-      "artists": [
-        {
-          "name": "Emis Killa",
-          "url": "https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G"
-        }
-      ],
-      "duration_ms": 209179,
-      "name": "Fuoco e benzina",
-      "url": "https://open.spotify.com/track/4Fs1sEg9Mwn6vykFD89xvc"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Iperbole",
-        "url": "https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG"
-      },
-      "artists": [
-        {
-          "name": "Raf",
-          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
-        }
-      ],
-      "duration_ms": 296040,
-      "name": "Infinito",
-      "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "This Is Elodie",
         "url": "https://open.spotify.com/album/3EREGNLTHWi1SZCoDKT4Pd"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 205253,
       "name": "Niente Canzoni D'Amore",
       "url": "https://open.spotify.com/track/3Pqm4BPjluxMX3afwDlKy5"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Iperbole",
+        "url": "https://open.spotify.com/album/11ppqhDtSVmjuGCJygZdIG"
+      },
+      "artists": [
+        {
+          "name": "Raf",
+          "url": "https://open.spotify.com/artist/3rlKqNmhaP9UiC0wFQyFS3"
+        }
+      ],
+      "duration_ms": 296040,
+      "name": "Infinito",
+      "url": "https://open.spotify.com/track/7KyPP4IenVDrKeewWlAp5L"
     },
     {
       "added_at": "2023-02-20 09:56:57",
@@ -811,22 +811,6 @@
     {
       "added_at": "2023-02-20 09:56:57",
       "album": {
-        "name": "Samuele Bersani",
-        "url": "https://open.spotify.com/album/1lilnguoSNmu9aIoz9VKgR"
-      },
-      "artists": [
-        {
-          "name": "Samuele Bersani",
-          "url": "https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz"
-        }
-      ],
-      "duration_ms": 235693,
-      "name": "Giudizi universali",
-      "url": "https://open.spotify.com/track/5RvCpd2obakLvY1HFJOOYJ"
-    },
-    {
-      "added_at": "2023-02-20 09:56:57",
-      "album": {
         "name": "111 Centoundici",
         "url": "https://open.spotify.com/album/76mOM6b77zUWXjoL0MpjB7"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 264986,
       "name": "Sere nere",
       "url": "https://open.spotify.com/track/4Ovy5UkvkweOluGd9hoKsR"
+    },
+    {
+      "added_at": "2023-02-20 09:56:57",
+      "album": {
+        "name": "Samuele Bersani",
+        "url": "https://open.spotify.com/album/1lilnguoSNmu9aIoz9VKgR"
+      },
+      "artists": [
+        {
+          "name": "Samuele Bersani",
+          "url": "https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz"
+        }
+      ],
+      "duration_ms": 235693,
+      "name": "Giudizi universali",
+      "url": "https://open.spotify.com/track/5RvCpd2obakLvY1HFJOOYJ"
     }
   ],
   "unique_name": "Amore Davvero",

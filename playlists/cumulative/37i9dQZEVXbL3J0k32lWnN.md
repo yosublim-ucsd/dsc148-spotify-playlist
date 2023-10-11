@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Denmark.
 
-1,243 songs - 2 day 17 hr 0 min
+1,244 songs - 2 day 17 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [7969 Santa](https://open.spotify.com/track/1GpWY5RiInhezB8wGWs6oN) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:19 | 2023-10-07 | 2023-10-10 |
 | [7am On Bridle Path](https://open.spotify.com/track/42m3eP1JJhtzffal9B136J) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:59 | 2021-09-05 | 2021-09-10 |
 | [80s \(feat\. Sivas\)](https://open.spotify.com/track/19bPUStvf9ZJZXTctUbAnY) | [Larry](https://open.spotify.com/artist/2ws8pkPraOgD2gzMM6hUsh), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [80s \(feat\. Sivas\)](https://open.spotify.com/album/2ktUgs67ixfn0J0dL88JWW) | 2:43 | 2022-09-24 | 2022-10-02 |
+| [8am in Charlotte](https://open.spotify.com/track/0w3Mfe4PIVjuFjJbe3OlYv) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:26 | 2023-10-10 |  |
 | [9MM](https://open.spotify.com/track/73HMcBiaDNuEIzrFXX2qiQ) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Mastermind](https://open.spotify.com/artist/7cebmXLpLp4Rk2eFI00ppV) | [10 YEARS](https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU) | 2:49 | 2021-09-25 | 2021-09-30 |
 | [A Beautiful Life \(From the Netflix Film ‘A Beautiful Life’\)](https://open.spotify.com/track/2e6JU6XBm7w0FnHyQqrqMs) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [A Beautiful Life \(Music From The Netflix Film\)](https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C) | 3:38 | 2023-06-05 | 2023-07-30 |
 | [A List \(Intro\)](https://open.spotify.com/track/38MRF4igGDBhv6CSZN1K50) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 2:48 | 2023-03-21 | 2023-03-23 |
@@ -425,7 +426,7 @@
 | [God Pige \(feat\. TopGunn\)](https://open.spotify.com/track/71JW11U2IpJQBRicrFUzMZ) | [Danser Med Piger](https://open.spotify.com/artist/0OhwwB6b7ugDTS41UT4YJS), [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [BOYBAND](https://open.spotify.com/album/5SorawwOwcnSYnDfXzU2ot) | 2:47 | 2023-04-01 | 2023-10-10 |
 | [GOD'S COUNTRY](https://open.spotify.com/track/04WxWo7XeVyx22xEsrWRUb) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 2:07 | 2023-07-29 | 2023-07-31 |
 | [Gode Dage, Gode Drinks](https://open.spotify.com/track/5nGAVhhCo2sev68RzHrQJ5) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Gode Dage, Gode Drinks](https://open.spotify.com/album/3VhCfnPU8oabodFfd9pqlA) | 2:20 | 2022-08-06 | 2022-09-04 |
-| [Gode Dage, Gode Drinks](https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 2:20 | 2022-09-03 |  |
+| [Gode Dage, Gode Drinks](https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Kronisk Skeptisk](https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2) | 2:20 | 2022-09-03 | 2023-10-11 |
 | [Golazo \(feat\. Sivas\)](https://open.spotify.com/track/7LpgpLEA7ShgT5kkvpMb1K) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF), [Sivas](https://open.spotify.com/artist/3W7YeaPmcpi1UFutTF49kx) | [Golazo \(feat\. Sivas\)](https://open.spotify.com/album/4eG8ObsNb2D2revUXTzHkW) | 2:12 | 2022-06-18 | 2022-07-17 |
 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 | 2023-01-13 | 2023-01-29 |
 | [Gonzo](https://open.spotify.com/track/0RcrxkcFT5FJpDgaXmzIEF) | [Suspekt](https://open.spotify.com/artist/74HomvqoUecDcUPRespyqg) | [Sindssyge Ting](https://open.spotify.com/album/5ZV4OMZ6uOFjhTiqqDM2h0) | 2:52 | 2022-01-02 | 2023-10-08 |

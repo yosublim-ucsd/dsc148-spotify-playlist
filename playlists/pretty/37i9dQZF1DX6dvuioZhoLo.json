@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Sierra Ferrell",
-  "num_followers": 287644,
+  "num_followers": 287638,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyN2VjYzEwOTY0MjNhZWE0MTE5Y2FlM2EyYzIzM2ExNTkzNTE0MWMx",
+  "snapshot_id": "MCxiNTVjYjA1NjJhZTYxY2M0Mjk3NGQyYzU2ZDlkZjg3ZGQ5NzBhODFl",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Weight of These Wings",
-        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 227893,
-      "name": "To Learn Her",
-      "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Goodnight Rhonda Lee",
         "url": "https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 153466,
       "name": "Goodnight Rhonda Lee",
       "url": "https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The Weight of These Wings",
+        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 227893,
+      "name": "To Learn Her",
+      "url": "https://open.spotify.com/track/3l78vP424XB904B5MMmEdN"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "That's How Rumors Get Started",
-        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
-      },
-      "artists": [
-        {
-          "name": "Margo Price",
-          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Stone Me",
-      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Warning",
         "url": "https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm"
       },
@@ -1507,18 +1491,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Comeback",
-        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
+        "name": "That's How Rumors Get Started",
+        "url": "https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL"
       },
       "artists": [
         {
-          "name": "The Reckless Electric",
-          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
+          "name": "Margo Price",
+          "url": "https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl"
         }
       ],
-      "duration_ms": 206729,
-      "name": "Ice Cream and Liquor",
-      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
+      "duration_ms": 189093,
+      "name": "Stone Me",
+      "url": "https://open.spotify.com/track/41G13b0SToDtz6rIENwswT"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1539,18 +1523,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Silver Tears",
-        "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
+        "name": "Comeback",
+        "url": "https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb"
       },
       "artists": [
         {
-          "name": "Aaron Lee Tasjan",
-          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
+          "name": "The Reckless Electric",
+          "url": "https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM"
         }
       ],
-      "duration_ms": 218641,
-      "name": "Memphis Rain",
-      "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
+      "duration_ms": 206729,
+      "name": "Ice Cream and Liquor",
+      "url": "https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1567,6 +1551,22 @@
       "duration_ms": 206835,
       "name": "Light As a Fire",
       "url": "https://open.spotify.com/track/1GaMKT7VrFJnyzjflhrRHu"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Silver Tears",
+        "url": "https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L"
+      },
+      "artists": [
+        {
+          "name": "Aaron Lee Tasjan",
+          "url": "https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo"
+        }
+      ],
+      "duration_ms": 218641,
+      "name": "Memphis Rain",
+      "url": "https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo"
     },
     {
       "added_at": "2023-10-06 04:00:00",

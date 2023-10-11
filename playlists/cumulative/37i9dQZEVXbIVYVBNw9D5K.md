@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Turkey.
 
-767 songs - 1 day 14 hr 30 min
+768 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Benim O](https://open.spotify.com/track/0AkvY8WDd022glmGKtP43y) | [Tuğba Yurt](https://open.spotify.com/artist/1063YgLGlWU0JM26pOnrnv) | [Benim O](https://open.spotify.com/album/5CPrAKeArzVG4Of99SgO9G) | 3:01 | 2021-05-21 | 2021-07-21 |
 | [Benimle Gel](https://open.spotify.com/track/6TQj22qKkIAd9cuBiFlvKf) | [Reckol](https://open.spotify.com/artist/5FqTuN42w2zGw4Pzd50yaS), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Benimle Gel](https://open.spotify.com/album/3UHVdV8G1u2xI1t1qX9sSJ) | 2:41 | 2022-02-12 | 2022-07-24 |
 | [Benimle Kayboldun](https://open.spotify.com/track/6pJI8iZBKPuMjWDstvO081) | [Kaan Boşnak](https://open.spotify.com/artist/03cvjFEHz8eGwYHq1L0Pp2) | [Demos](https://open.spotify.com/album/0odjf0KuVBxAj33O36LH8c) | 3:09 | 2021-04-19 | 2021-05-19 |
+| [Bertaraf](https://open.spotify.com/track/1PiyTtoNn0m4kfJWLfjHny) | [Canbay & Wolker](https://open.spotify.com/artist/1hgaXjbAcED2p80Lj8dzXT), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [SIR](https://open.spotify.com/album/7l1gVxwITzFt0YE4gqLVyk) | 2:34 | 2023-10-10 |  |
 | [Best Friends](https://open.spotify.com/track/1E5Xu8dur0fAjSP1VpVhAZ) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 2:43 | 2022-01-08 | 2022-01-10 |
 | [Beyaz Skandalım](https://open.spotify.com/track/1gLCVATJt0IT6aRuqZvrKt) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Ağır Roman](https://open.spotify.com/album/2sXpdxb6xQ1t3lOX072al6) | 3:35 | 2021-06-12 | 2022-01-05 |
 | [Beyaz Skandalım](https://open.spotify.com/track/7gI0722sWUhVpI0xOpejmZ) | [Emir Can İğrek](https://open.spotify.com/artist/4XP7cGw4t8BqZ8Du5q3bHg) | [Ağır Roman](https://open.spotify.com/album/5ux7MVV2OT5BOOLXETC4qL) | 3:35 | 2022-01-04 | 2022-02-13 |
@@ -385,7 +386,7 @@
 | [İntikam](https://open.spotify.com/track/3bzRdp5Q2GpwCqTSZsouqP) | [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [İntikam](https://open.spotify.com/album/2ha9lxn6XE1KFrp8jSuC1p) | 2:36 | 2023-03-18 | 2023-04-16 |
 | [İSTANBUL](https://open.spotify.com/track/2qmdgQun2BbLmIRsQsedER) | [Zen\-G](https://open.spotify.com/artist/4HSiNCPhdU2snKaVJytlUM), [Bayhan](https://open.spotify.com/artist/7yiLonxrJVgZKSbjo0gh6V) | [ZENGBEJ](https://open.spotify.com/album/5YO5YKavkoBZDA5tTZbsm7) | 3:41 | 2021-03-27\* | 2021-04-11 |
 | [İSTEMEM](https://open.spotify.com/track/4FOVdn9oZhxH6AOEhL78BR) | [Aspova](https://open.spotify.com/artist/2sjnyyL9NXijL3Fr2eLikf), [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m) | [İSTEMEM](https://open.spotify.com/album/3CUU4TFr7UowburX1Au22f) | 3:18 | 2022-10-01 | 2022-10-03 |
-| [İZLEDİ MAHALLE](https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 1:41 | 2023-06-22 |  |
+| [İZLEDİ MAHALLE](https://open.spotify.com/track/0tHWG2M4GAvT7E59oZrJLi) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [BABA](https://open.spotify.com/album/0K41qRqQ4RRq29ZjoPmXZQ) | 1:41 | 2023-06-22 | 2023-10-11 |
 | [İçime Ata Ata](https://open.spotify.com/track/5rCYZ1IltI5gJ9LbxEiQDk) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [İçime Ata Ata](https://open.spotify.com/album/7caYzMyzWotKVnu2xmHLQj) | 2:52 | 2022-01-04 | 2022-02-20 |
 | [İçime Ata Ata](https://open.spotify.com/track/776fVqyFVMxHbZIvbRxX92) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN), [Kurtuluş Kuş](https://open.spotify.com/artist/4jF4tHJlYKS5Z9xdEatCfq) | [İçime Ata Ata](https://open.spotify.com/album/3uA7KyXVZIfZh0hYc6q2qk) | 2:52 | 2021-12-12 | 2022-01-05 |
 | [Jalebi Baby](https://open.spotify.com/track/6GKGoi0FHzldk1ZRQoV1fv) | [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Jalebi Baby](https://open.spotify.com/album/2k8nShpibT4psqEQV7Smqc) | 3:09 | 2021-04-10 | 2021-04-15 |

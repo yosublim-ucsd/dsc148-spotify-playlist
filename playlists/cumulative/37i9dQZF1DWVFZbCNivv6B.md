@@ -2,7 +2,7 @@
 
 ### [Arena Hip\-Hop](https://open.spotify.com/playlist/37i9dQZF1DWVFZbCNivv6B)
 
-> Aquí vive el hip\-hop mexicano\. Lefty Sm, Santa Fe Klan, Dharius, C\-Kan, MC Davo, y Neto Peña en la casa.
+> Aquí vive el hip\-hop mexicano\. La DHA y todo El Clan en la casa.
 
 426 songs - 1 day 1 hr 13 min
 

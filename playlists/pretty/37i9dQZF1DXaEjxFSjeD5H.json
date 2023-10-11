@@ -1,12 +1,12 @@
 {
   "description": "Nada que un buen danz\u00f3n no pueda curar. ",
-  "num_followers": 16334,
+  "num_followers": 16347,
   "original_name": "Danz\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwODY0YmRmOTkyZjI0NzMxY2RhZWNhZTI4YmU1MmZmYWMxNTU2ZmIy",
+  "snapshot_id": "MCxmYTg1N2UwODMxNDE3Yzc0OWRmNDAyNjVkZjg5OGRkN2U4YTIxN2M3",
   "tracks": [
     {
       "added_at": "2022-08-02 23:28:22",
@@ -495,18 +495,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "Danzones Y Cha Cha Cha",
-        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
+        "name": "El Embrujo del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
       },
       "artists": [
         {
-          "name": "Orquesta de Mexico de Pedro Mendoza",
-          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
+          "name": "Danzonera Veracruz",
+          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        },
+        {
+          "name": "Vicente Labastida Velasco",
+          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
         }
       ],
-      "duration_ms": 313253,
-      "name": "Acayucan",
-      "url": "https://open.spotify.com/track/1J30Fv6OF4KDDYIfhHUcua"
+      "duration_ms": 265200,
+      "name": "Nana",
+      "url": "https://open.spotify.com/track/7mW06F9Qz6xWkqSOgTwlWT"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -527,22 +531,18 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
-        "name": "El Embrujo del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
+        "name": "Danzones Y Cha Cha Cha",
+        "url": "https://open.spotify.com/album/5K7rJUtYAUfGUqGv38mu6d"
       },
       "artists": [
         {
-          "name": "Danzonera Veracruz",
-          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        },
-        {
-          "name": "Vicente Labastida Velasco",
-          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
+          "name": "Orquesta de Mexico de Pedro Mendoza",
+          "url": "https://open.spotify.com/artist/79vcEAET1Hi0KmAW7FYonp"
         }
       ],
-      "duration_ms": 265200,
-      "name": "Nana",
-      "url": "https://open.spotify.com/track/7mW06F9Qz6xWkqSOgTwlWT"
+      "duration_ms": 313253,
+      "name": "Acayucan",
+      "url": "https://open.spotify.com/track/1J30Fv6OF4KDDYIfhHUcua"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -611,6 +611,22 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
+        "name": "La Leyenda Viviente del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
+      },
+      "artists": [
+        {
+          "name": "Danzonera Veracruz",
+          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        }
+      ],
+      "duration_ms": 293040,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/6a3E473gvUNtcVfpn3UeVO"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
         "name": "55 A\u00f1os En El Danzon",
         "url": "https://open.spotify.com/album/69b6rtmaL5v3B3s6UznGMJ"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 251866,
       "name": "Isora Club (Danzon)",
       "url": "https://open.spotify.com/track/1NaLxDm29Sw7ecSYVt29Ii"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "La Leyenda Viviente del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/4DfvLNKnO7yeFwv2MCDixD"
-      },
-      "artists": [
-        {
-          "name": "Danzonera Veracruz",
-          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        }
-      ],
-      "duration_ms": 293040,
-      "name": "Cecilia",
-      "url": "https://open.spotify.com/track/6a3E473gvUNtcVfpn3UeVO"
     },
     {
       "added_at": "2022-08-02 23:28:22",
@@ -1127,6 +1127,26 @@
     {
       "added_at": "2022-08-02 23:28:22",
       "album": {
+        "name": "El Embrujo del Danz\u00f3n",
+        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
+      },
+      "artists": [
+        {
+          "name": "Danzonera Veracruz",
+          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
+        },
+        {
+          "name": "Vicente Labastida Velasco",
+          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
+        }
+      ],
+      "duration_ms": 256173,
+      "name": "Josefina",
+      "url": "https://open.spotify.com/track/19eylWjaNeiQThuH2dKKIc"
+    },
+    {
+      "added_at": "2022-08-02 23:28:22",
+      "album": {
         "name": "Danzones Salon Mexico",
         "url": "https://open.spotify.com/album/5TfNAJMWwNTle3C3zjkorQ"
       },
@@ -1155,26 +1175,6 @@
       "duration_ms": 180976,
       "name": "Los Timbales de Acerina",
       "url": "https://open.spotify.com/track/0GtJmLS2CQDmjT6ePxaBxy"
-    },
-    {
-      "added_at": "2022-08-02 23:28:22",
-      "album": {
-        "name": "El Embrujo del Danz\u00f3n",
-        "url": "https://open.spotify.com/album/1XWS6QyxlzoK02wfBvdOge"
-      },
-      "artists": [
-        {
-          "name": "Danzonera Veracruz",
-          "url": "https://open.spotify.com/artist/0oZxiriFYXViKwVXak46sD"
-        },
-        {
-          "name": "Vicente Labastida Velasco",
-          "url": "https://open.spotify.com/artist/5xAmljqquK7Dy5rAIumX8C"
-        }
-      ],
-      "duration_ms": 256173,
-      "name": "Josefina",
-      "url": "https://open.spotify.com/track/19eylWjaNeiQThuH2dKKIc"
     },
     {
       "added_at": "2022-08-02 23:28:22",

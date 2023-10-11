@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: Omar Apollo
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,328,912 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,328,873 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 | 99 | [Mates](https://open.spotify.com/track/7caHa8cZXqyzCv0JGwzL12) | [John Carroll Kirby](https://open.spotify.com/artist/7FQiZr787umw7P5dO3zqld) | [Mates](https://open.spotify.com/album/7GW3JPpqLTzy7LjSujyWPT) | 4:57 |
 | 100 | [Charge It](https://open.spotify.com/track/2YIIDMcF9zWJ2xcFSA99lH) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL) | [We Go Again](https://open.spotify.com/album/4vdQXcHcAGcVSBA7956EMq) | 3:05 |
 
-Snapshot ID: `MCw2ZTE5ODRhZTQ1ODcxZmJmNzdlNWM3MGEzMTM5NDI2ODgyMTdmOGM0`
+Snapshot ID: `MCwwMmVlYjFkZTRmMWFmZTk3ZTE2NDU5YmE0ZjBmNDU4NDE1OTNiYTE3`

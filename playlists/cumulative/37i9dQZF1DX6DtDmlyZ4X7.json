@@ -1172,7 +1172,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-02",
+      "date_removed": null,
       "duration_ms": 145188,
       "name": "Because I Miss You",
       "url": "https://open.spotify.com/track/6AMskZ3bXPZ68yRaqL6MeL"
@@ -2198,7 +2198,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 226868,
       "name": "Distances",
       "url": "https://open.spotify.com/track/3MJkEsmJfxO7JiOJjlEm8Z"
@@ -2544,6 +2544,24 @@
       "duration_ms": 156853,
       "name": "Empty Pews",
       "url": "https://open.spotify.com/track/4RnRAj8j9eLv4ksbuhjk78"
+    },
+    {
+      "album": {
+        "name": "Enchanted",
+        "url": "https://open.spotify.com/album/1Ok4CK8AVQH0v7KAVkmHSS"
+      },
+      "artists": [
+        {
+          "name": "Francine Ga\u00e9tane",
+          "url": "https://open.spotify.com/artist/6gMlkMM2jbGYhiNAzcR6Zw"
+        }
+      ],
+      "date_added": "2023-10-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136559,
+      "name": "Enchanted",
+      "url": "https://open.spotify.com/track/4VFWqPpohVxrvj0X30zY7M"
     },
     {
       "album": {
@@ -8852,7 +8870,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 139994,
       "name": "Sk\u00e4rg\u00e5rd",
       "url": "https://open.spotify.com/track/5WHAPNyWoUYm8TB13lAVTX"
@@ -9432,7 +9450,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 141791,
       "name": "Sweet Alyssum",
       "url": "https://open.spotify.com/track/18pY1jOgghih2kWeKu6Yhw"
@@ -10390,7 +10408,7 @@
       ],
       "date_added": "2021-12-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 170573,
       "name": "two wheels north",
       "url": "https://open.spotify.com/track/3lHhDgHyTDL6A9WEss4GY4"

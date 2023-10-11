@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 516,647 likes - 75 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 516,853 likes - 75 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 65 | [Mind Is God \- Original Mix](https://open.spotify.com/track/2a0MXNSukUC3ZfORJNmW6n) | [Space Tribe](https://open.spotify.com/artist/748vK7dsovMo6AepldQGI9), [Mad Maxx](https://open.spotify.com/artist/4NxdtrVLPVumYVGjJhnWOv) | [Mind Is God \- Single](https://open.spotify.com/album/14vUJhUnVc1lhx0fRTAiep) | 9:00 |
 | 66 | [Key To Happiness](https://open.spotify.com/track/5gprlslyCZD2zaFRwbu22t) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [All In One](https://open.spotify.com/artist/7MXDSgITltdRMyBikZiaEx), [Dantra](https://open.spotify.com/artist/7jReU323puI26T1mx4ryaG) | [Key To Happiness](https://open.spotify.com/album/2JOtRwO9GnCSK0lYnuleOw) | 5:55 |
 | 67 | [Altaria](https://open.spotify.com/track/07Lh4wRSYJ8uSYP9j14sD1) | [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [Altaria](https://open.spotify.com/album/73HrRrtbJM0HBsJdi4I4Qc) | 2:47 |
-| 68 | [Enimatek](https://open.spotify.com/track/6QXjBAxGgcDcSx4VjH7Pf2) | [Kore\-G](https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7) | [Enimatek](https://open.spotify.com/album/00TsqOQn92UASwSACrS81W) | 4:00 |
-| 69 | [Mantra](https://open.spotify.com/track/63Yiik2JPGd9UzuL0AhjUs) | [MARKZ](https://open.spotify.com/artist/0hNfuXJDUdFMIuNJ2a0KSB) | [Mantra](https://open.spotify.com/album/6aUwD7H6ZDFL7NDuc0QwtK) | 2:52 |
-| 70 | [Silence](https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0) | [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Silence](https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub) | 7:32 |
-| 71 | [Dark Oscillator](https://open.spotify.com/track/4ioCpFK3ZYGHCLwIIV3NOW) | [Audiomatic](https://open.spotify.com/artist/1EVqYQzE00Z8L5ly9oNxiV) | [Dark Oscillator](https://open.spotify.com/album/6EDTw2MWFNcjpY9H71p3vF) | 6:19 |
+| 68 | [Mantra](https://open.spotify.com/track/63Yiik2JPGd9UzuL0AhjUs) | [MARKZ](https://open.spotify.com/artist/0hNfuXJDUdFMIuNJ2a0KSB) | [Mantra](https://open.spotify.com/album/6aUwD7H6ZDFL7NDuc0QwtK) | 2:52 |
+| 69 | [Silence](https://open.spotify.com/track/75PXINUJqSDqEbLj3p9tv0) | [Morten Granau](https://open.spotify.com/artist/49loZrPArxoDvk5XKyugw0) | [Silence](https://open.spotify.com/album/1FKMaVHL6Gekwe9D7deIub) | 7:32 |
+| 70 | [Enimatek](https://open.spotify.com/track/6QXjBAxGgcDcSx4VjH7Pf2) | [Kore\-G](https://open.spotify.com/artist/6BEW6MppWLhidd94YfkjF7) | [Enimatek](https://open.spotify.com/album/00TsqOQn92UASwSACrS81W) | 4:00 |
+| 71 | [Huna \(feat\. Ravid Kahalani\)](https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Ravid Kahalani](https://open.spotify.com/artist/2H1fweQYJVHp6FKwzpye6s) | [Huna \(feat\. Ravid Kahalani\)](https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc) | 2:25 |
 | 72 | [Keleno](https://open.spotify.com/track/3167iOe6WMN5VgukbH8EXw) | [Ranji](https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p), [Pondora](https://open.spotify.com/artist/6xc4VTgBl1NfMXVc7Iod6S) | [Keleno](https://open.spotify.com/album/7CdhemAsnK8Y1e89duyBCi) | 6:46 |
 | 73 | [End Of The End \(feat\. Krigarè\)](https://open.spotify.com/track/322F7GxsKWwpo3Za2cHAHD) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [Reality Test](https://open.spotify.com/artist/4hGD47LaZWcMLj1gH3uru8), [UNSECRET](https://open.spotify.com/artist/721Thvnq29Or9LXUyfF75c), [Krigarè](https://open.spotify.com/artist/5UHbXPFqcRsZm7uS5ev8Q1) | [End Of The End \(feat\. Krigarè\)](https://open.spotify.com/album/6QOPCj17rs5nB1Kc8ayrX2) | 3:40 |
-| 74 | [Huna \(feat\. Ravid Kahalani\)](https://open.spotify.com/track/2MTosWcPKh92SAzZgZhVlc) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22), [Zafrir](https://open.spotify.com/artist/3DJVDo0kd19fZXpTabasOX), [Ravid Kahalani](https://open.spotify.com/artist/2H1fweQYJVHp6FKwzpye6s) | [Huna \(feat\. Ravid Kahalani\)](https://open.spotify.com/album/2zCbJe1hvzAZqkP4JIJMHc) | 2:25 |
-| 75 | [Chamunda \- Radio Edit](https://open.spotify.com/track/1JI5SuVVmXWCGrJ8HiicxF) | [Shanti People](https://open.spotify.com/artist/4udXDlf1VbsKEaII28KQLt), [S3N0](https://open.spotify.com/artist/5R1yd5y1Aap6x2iFiXjPj1) | [Chamunda](https://open.spotify.com/album/2lu9LraHRyUq1q7yEAuF9u) | 3:22 |
+| 74 | [Dark Oscillator](https://open.spotify.com/track/4ioCpFK3ZYGHCLwIIV3NOW) | [Audiomatic](https://open.spotify.com/artist/1EVqYQzE00Z8L5ly9oNxiV) | [Dark Oscillator](https://open.spotify.com/album/6EDTw2MWFNcjpY9H71p3vF) | 6:19 |
+| 75 | [Crossroads \(Remix\)](https://open.spotify.com/track/5pBEiBE1cCShb5fDt8973h) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Major7](https://open.spotify.com/artist/7t6kb9BaKLBDnii5rDGm4V), [Rexalted](https://open.spotify.com/artist/6QXNQ8OQ9hbHzg88culdya) | [Crossroads](https://open.spotify.com/album/6KslRrpR7Bao2FZskC5MWI) | 5:43 |
 
-Snapshot ID: `MCxiNTAzOTQ5Yjg2ZmU2ZGVmYzYxODNlZGFiNjA0Y2Y5M2MyMWMwMGRh`
+Snapshot ID: `MCwzODU3OGI0YTg1Mzc1NjdkMDBjMTQ5NmIwZmI3YzY5YjgwNTE3NjA0`

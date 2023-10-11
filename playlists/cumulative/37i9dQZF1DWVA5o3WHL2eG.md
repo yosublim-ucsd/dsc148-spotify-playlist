@@ -4,7 +4,7 @@
 
 > Women at full volume! Cover: Joy Denalane
 
-1,138 songs - 2 day 11 hr 17 min
+1,139 songs - 2 day 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Alles gleich](https://open.spotify.com/track/1X06guJcCRZWf3wAAypBiU) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Alles gleich](https://open.spotify.com/album/1YUm7AIgpPjXsY2nnY1tAD) | 2:53 | 2022-01-04 | 2022-01-21 |
 | [Alles ok](https://open.spotify.com/track/2ecbEV38LSy9f2MaD64M36) | [Pippa](https://open.spotify.com/artist/3YnovPMNx58Jp0JCpNUz6x) | [Alles ok](https://open.spotify.com/album/6vY0j0uusvvF8jNltvHxOf) | 3:42 | 2023-04-04 | 2023-05-03 |
 | [Alles Scheisse](https://open.spotify.com/track/3H1zM1uFstYvyEy8l0bisr) | [SERPENTIN](https://open.spotify.com/artist/5OqZTCIS0UcVN7tPiUtGEF) | [Alles Scheisse](https://open.spotify.com/album/2WVwilXGM4HrUAfZVVAg6J) | 2:57 | 2022-08-02 | 2022-09-07 |
-| [Already There](https://open.spotify.com/track/3gfzBLJ3IY5wvNp0arkLmJ) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Drinking Gasoline](https://open.spotify.com/album/62T5pNg4RAc5367qR8VAjc) | 2:59 | 2023-10-03 |  |
+| [Already There](https://open.spotify.com/track/3gfzBLJ3IY5wvNp0arkLmJ) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Drinking Gasoline](https://open.spotify.com/album/62T5pNg4RAc5367qR8VAjc) | 2:59 | 2023-10-03 | 2023-10-11 |
+| [Already There](https://open.spotify.com/track/7bg3d9PhFUrkmNGRkvpQap) | [Dottie Andersson](https://open.spotify.com/artist/360qeHf7kan9K9bKFPNwVM) | [Drinking Gasoline](https://open.spotify.com/album/0EpIQ8fu194s2Um54bybXd) | 2:59 | 2023-10-03 |  |
 | [always okay](https://open.spotify.com/track/70sd0T6eTCowGMu9m1n0mz) | [Philippa Kinsky](https://open.spotify.com/artist/6Ef2HLmifsqFi0VtoeY7C0) | [always okay](https://open.spotify.com/album/33Ps1v8rCTYbZJE2vPk2zF) | 3:08 | 2022-04-05 | 2022-05-04 |
 | [Aló](https://open.spotify.com/track/5X05GodF8j6g6Zx35bQP0B) | [Terry Joe](https://open.spotify.com/artist/2Npb4qJMwRjjv2ZUHOuP4q) | [Aló](https://open.spotify.com/album/6kO0ndhbVxaSo9CvvSGVr7) | 2:17 | 2023-06-06 | 2023-07-05 |
 | [Am I Human?](https://open.spotify.com/track/0kGAoSq5IEG8JyZ8W4swyL) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [Am I Human?](https://open.spotify.com/album/2wagkL8o47G71cciBICnsI) | 2:32 | 2023-09-05 | 2023-10-04 |

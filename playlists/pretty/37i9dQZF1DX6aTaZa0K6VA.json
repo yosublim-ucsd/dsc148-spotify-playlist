@@ -1,12 +1,12 @@
 {
   "description": "Super mega hits! Foto: The Weeknd",
-  "num_followers": 6734317,
+  "num_followers": 6733422,
   "original_name": "Pop Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NWQ4MDYwNjJkYTNhMGRlMTI4M2Y2MDhkMzQwZTlkZGFmMDhmNGI5",
+  "snapshot_id": "MCxhODI5NjY2MDk4ZjkzNjRkNTZmNzYyOWYwYWFhNGZmMjczMDUwZTI0",
   "tracks": [
     {
       "added_at": "2023-10-05 23:00:00",
@@ -491,6 +491,22 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
         "name": "I'm Good (Blue)",
         "url": "https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 175238,
       "name": "I'm Good (Blue)",
       "url": "https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
     },
     {
       "added_at": "2023-10-05 23:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 183374,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 200255,
       "name": "Water",
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 183374,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
       "added_at": "2023-10-05 23:00:00",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 153946,
+      "name": "Kill Bill",
+      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 158040,
       "name": "Sunflower - Spider-Man: Into the Spider-Verse",
       "url": "https://open.spotify.com/track/3KkXRkHbMCARz0aVfEt68P"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 153946,
-      "name": "Kill Bill",
-      "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"
     },
     {
       "added_at": "2023-10-05 23:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
+        "name": "Got Me Started",
+        "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
         "name": "HONEY (ARE U COMING?)",
         "url": "https://open.spotify.com/album/48hTnkFG81hz49oW8KjUa9"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 232893,
       "name": "Only Love Can Hurt Like This",
       "url": "https://open.spotify.com/track/62ke5zFUJN6RvtXZgVH0F8"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
-        "name": "Got Me Started",
-        "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 198448,
-      "name": "Got Me Started",
-      "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
     },
     {
       "added_at": "2023-10-05 23:00:00",
@@ -1447,26 +1447,6 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "PRISM (Deluxe)",
-        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Juicy J",
-          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
-        }
-      ],
-      "duration_ms": 215672,
-      "name": "Dark Horse",
-      "url": "https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy"
-    },
-    {
-      "added_at": "2023-10-05 23:00:00",
-      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 175500,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
+    },
+    {
+      "added_at": "2023-10-05 23:00:00",
+      "album": {
+        "name": "PRISM (Deluxe)",
+        "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Juicy J",
+          "url": "https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi"
+        }
+      ],
+      "duration_ms": 215672,
+      "name": "Dark Horse",
+      "url": "https://open.spotify.com/track/5jrdCoLpJSvHHorevXBATy"
     },
     {
       "added_at": "2023-10-05 23:00:00",

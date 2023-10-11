@@ -1,12 +1,12 @@
 {
   "description": "A journey into the unknown, dark, and experimental.",
-  "num_followers": 207416,
+  "num_followers": 207493,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNWJiYjE2OTMxMWIzODRlN2I5ZWU1OTcwNTRkNzhlNjEyNjZmYjZh",
+  "snapshot_id": "MCxiNThiZTc3MDFjZDc1NmFiOWQ5MmU2OTFhM2FmMjIyNTNlOGM3ZTk4",
   "tracks": [
     {
       "added_at": "2023-10-06 00:01:00",
@@ -77,6 +77,30 @@
       "url": "https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x"
     },
     {
+      "added_at": "2023-10-10 01:52:40",
+      "album": {
+        "name": "Shade Under Your Hands",
+        "url": "https://open.spotify.com/album/4e284Hh1gNyh52cGN9F0vj"
+      },
+      "artists": [
+        {
+          "name": "OSOO",
+          "url": "https://open.spotify.com/artist/5ZObDw7aCElSslzU8T1zH4"
+        },
+        {
+          "name": "Kyson",
+          "url": "https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "21 Reasons",
+      "url": "https://open.spotify.com/track/4Etlj7z37w0ZMsiChsb2DA"
+    },
+    {
       "added_at": "2023-10-06 00:01:00",
       "album": {
         "name": "Weighing of the Heart",
@@ -127,22 +151,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Taivshral",
-        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "Deeper",
         "url": "https://open.spotify.com/album/4sdTiKZkufFUNlvtNcIiFh"
       },
@@ -171,6 +179,22 @@
       "duration_ms": 308186,
       "name": "Hello",
       "url": "https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -231,6 +255,22 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
+        "name": "ANIMA",
+        "url": "https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm"
+      },
+      "artists": [
+        {
+          "name": "Thom Yorke",
+          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+        }
+      ],
+      "duration_ms": 423173,
+      "name": "Twist",
+      "url": "https://open.spotify.com/track/1bIO8oWeMRyLUHUIUsTcTY"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
         "name": "Of Air",
         "url": "https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX"
       },
@@ -251,18 +291,18 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "ANIMA",
-        "url": "https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm"
+        "name": "Sway",
+        "url": "https://open.spotify.com/album/6XplDOCrKwqK9MzH7HZQvN"
       },
       "artists": [
         {
-          "name": "Thom Yorke",
-          "url": "https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau"
+          "name": "YSI",
+          "url": "https://open.spotify.com/artist/2UvpgJrLxsGgyStbpzldZj"
         }
       ],
-      "duration_ms": 423173,
-      "name": "Twist",
-      "url": "https://open.spotify.com/track/1bIO8oWeMRyLUHUIUsTcTY"
+      "duration_ms": 340196,
+      "name": "Shake well before use",
+      "url": "https://open.spotify.com/track/6JnPiDL5e9Z56jWahzGWMY"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -283,38 +323,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Sway",
-        "url": "https://open.spotify.com/album/6XplDOCrKwqK9MzH7HZQvN"
-      },
-      "artists": [
-        {
-          "name": "YSI",
-          "url": "https://open.spotify.com/artist/2UvpgJrLxsGgyStbpzldZj"
-        }
-      ],
-      "duration_ms": 340196,
-      "name": "Shake well before use",
-      "url": "https://open.spotify.com/track/6JnPiDL5e9Z56jWahzGWMY"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Another Life",
-        "url": "https://open.spotify.com/album/0H6yPrBlXON15blsgmA4Aq"
-      },
-      "artists": [
-        {
-          "name": "Amnesia Scanner",
-          "url": "https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF"
-        }
-      ],
-      "duration_ms": 254500,
-      "name": "AS Too Wrong",
-      "url": "https://open.spotify.com/track/74wUpuW4tRQJJGiucm4JfJ"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "The Metallic Index",
         "url": "https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr"
       },
@@ -331,6 +339,38 @@
       "duration_ms": 94632,
       "name": "The Metallic Index",
       "url": "https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr"
+    },
+    {
+      "added_at": "2023-10-10 03:14:03",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/6I2ZYYta7J2bTkh1UMe8zm"
+      },
+      "artists": [
+        {
+          "name": "Of The Muses",
+          "url": "https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch"
+        }
+      ],
+      "duration_ms": 526066,
+      "name": "V",
+      "url": "https://open.spotify.com/track/3Sk8oGy02QK1eZ52A2BYyI"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Another Life",
+        "url": "https://open.spotify.com/album/0H6yPrBlXON15blsgmA4Aq"
+      },
+      "artists": [
+        {
+          "name": "Amnesia Scanner",
+          "url": "https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF"
+        }
+      ],
+      "duration_ms": 254500,
+      "name": "AS Too Wrong",
+      "url": "https://open.spotify.com/track/74wUpuW4tRQJJGiucm4JfJ"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -367,50 +407,18 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Trececerotres",
-        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
+        "name": "I Hope You Can Forgive Me",
+        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
       },
       "artists": [
         {
-          "name": "Daniela Lalita",
-          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+          "name": "Madison McFerrin",
+          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
         }
       ],
-      "duration_ms": 135773,
-      "name": "Trececerotres",
-      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu",
-      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Atlantic Diva",
-        "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 243921,
-      "name": "Atlantic Diva",
-      "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
+      "duration_ms": 55860,
+      "name": "Deep Sea",
+      "url": "https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -431,6 +439,70 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
+        "name": "Trececerotres",
+        "url": "https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO"
+      },
+      "artists": [
+        {
+          "name": "Daniela Lalita",
+          "url": "https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds"
+        }
+      ],
+      "duration_ms": 135773,
+      "name": "Trececerotres",
+      "url": "https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Radical Romantics",
+        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
+      },
+      "artists": [
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        }
+      ],
+      "duration_ms": 267763,
+      "name": "What They Call Us",
+      "url": "https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Atlantic Diva",
+        "url": "https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 243921,
+      "name": "Atlantic Diva",
+      "url": "https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu",
+      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
         "name": "MY BLACK CAT",
         "url": "https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ"
       },
@@ -443,22 +515,6 @@
       "duration_ms": 149433,
       "name": "MY BLACK CAT",
       "url": "https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "I Hope You Can Forgive Me",
-        "url": "https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5"
-      },
-      "artists": [
-        {
-          "name": "Madison McFerrin",
-          "url": "https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e"
-        }
-      ],
-      "duration_ms": 55860,
-      "name": "Deep Sea",
-      "url": "https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -479,22 +535,6 @@
       "duration_ms": 136546,
       "name": "Chills Me to the Bone",
       "url": "https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Radical Romantics",
-        "url": "https://open.spotify.com/album/0GSARUUhweinQufLR663b4"
-      },
-      "artists": [
-        {
-          "name": "Fever Ray",
-          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
-        }
-      ],
-      "duration_ms": 267763,
-      "name": "What They Call Us",
-      "url": "https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -547,6 +587,22 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
+        "name": "The Distance Between Heart And Mouth",
+        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
+      },
+      "artists": [
+        {
+          "name": "Elaine Howley",
+          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
+        }
+      ],
+      "duration_ms": 233610,
+      "name": "Archeological Longing",
+      "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
         "name": "Thin Air (WaterBABii_MiiX)",
         "url": "https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ"
       },
@@ -567,22 +623,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "The Distance Between Heart And Mouth",
-        "url": "https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu"
-      },
-      "artists": [
-        {
-          "name": "Elaine Howley",
-          "url": "https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh"
-        }
-      ],
-      "duration_ms": 233610,
-      "name": "Archeological Longing",
-      "url": "https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "Unknown Tokyo",
         "url": "https://open.spotify.com/album/5WtMHNfW6oFN7spvwb1jwh"
       },
@@ -599,6 +639,22 @@
       "duration_ms": 245008,
       "name": "Unknown Tokyo",
       "url": "https://open.spotify.com/track/6MruNrnfGnISP5aKUyFC4g"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "r(EMOTE)",
+        "url": "https://open.spotify.com/album/4gYQKBqHDABqdmJuTnSjvS"
+      },
+      "artists": [
+        {
+          "name": "L'Rain",
+          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
+        }
+      ],
+      "duration_ms": 221163,
+      "name": "r(EMOTE)",
+      "url": "https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -627,22 +683,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "r(EMOTE)",
-        "url": "https://open.spotify.com/album/4gYQKBqHDABqdmJuTnSjvS"
-      },
-      "artists": [
-        {
-          "name": "L'Rain",
-          "url": "https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn"
-        }
-      ],
-      "duration_ms": 221163,
-      "name": "r(EMOTE)",
-      "url": "https://open.spotify.com/track/3iOMiZlt4gEeQsEgnW0MeQ"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "\u041a\u043e\u0436\u0430",
         "url": "https://open.spotify.com/album/4wCIFuLXlbqc5QQIj14H1S"
       },
@@ -655,22 +695,6 @@
       "duration_ms": 268184,
       "name": "\u041a\u043e\u0436\u0430",
       "url": "https://open.spotify.com/track/6O2IxBAZlVeQxgjQIQZtz1"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "B-Sides & Rarities: Volume 1",
-        "url": "https://open.spotify.com/album/27sproEBf122MWgqS30BiI"
-      },
-      "artists": [
-        {
-          "name": "Ethan P. Flynn",
-          "url": "https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z"
-        }
-      ],
-      "duration_ms": 228586,
-      "name": "Are You Doing This to Hurt Me",
-      "url": "https://open.spotify.com/track/0cfDDqPuyrpyVuxMzdotk0"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -691,22 +715,34 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u"
+        "name": "B-Sides & Rarities: Volume 1",
+        "url": "https://open.spotify.com/album/27sproEBf122MWgqS30BiI"
       },
       "artists": [
         {
-          "name": "Johan Graden",
-          "url": "https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak"
-        },
-        {
-          "name": "Ellen Arkbro",
-          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
+          "name": "Ethan P. Flynn",
+          "url": "https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z"
         }
       ],
-      "duration_ms": 320547,
-      "name": "Close",
-      "url": "https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW"
+      "duration_ms": 228586,
+      "name": "Are You Doing This to Hurt Me",
+      "url": "https://open.spotify.com/track/0cfDDqPuyrpyVuxMzdotk0"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
+      },
+      "artists": [
+        {
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
+        }
+      ],
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -727,18 +763,22 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
+        "name": "Close",
+        "url": "https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u"
       },
       "artists": [
         {
-          "name": "Fuensanta",
-          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
+          "name": "Johan Graden",
+          "url": "https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak"
+        },
+        {
+          "name": "Ellen Arkbro",
+          "url": "https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn"
         }
       ],
-      "duration_ms": 237917,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
+      "duration_ms": 320547,
+      "name": "Close",
+      "url": "https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -791,30 +831,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Otro",
-        "url": "https://open.spotify.com/album/52iwoA7t8Sn6kkAfWzEh1D"
-      },
-      "artists": [
-        {
-          "name": "todo hombre es ruido",
-          "url": "https://open.spotify.com/artist/5MaCKOuxFORaVHpJKsOH7e"
-        },
-        {
-          "name": "Caillou",
-          "url": "https://open.spotify.com/artist/6SRjzYXse2LjszXueqw2vi"
-        },
-        {
-          "name": "Bucephalus",
-          "url": "https://open.spotify.com/artist/55VusI1wUo1ZPSvdXt3Qqv"
-        }
-      ],
-      "duration_ms": 279999,
-      "name": "Otro",
-      "url": "https://open.spotify.com/track/4y2aw66CxenyRNHddJ6wFt"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "P\u00e1rpados",
         "url": "https://open.spotify.com/album/3FMot3T0ERF8jjJZ1Guoov"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 240500,
       "name": "Me Acoplo",
       "url": "https://open.spotify.com/track/0MuFAufcq283OanYu5Ku8X"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Anadolu Ejderi",
-        "url": "https://open.spotify.com/album/6lADF6NT8H5p3KCdHE3CfZ"
-      },
-      "artists": [
-        {
-          "name": "Gaye Su Akyol",
-          "url": "https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ"
-        }
-      ],
-      "duration_ms": 264748,
-      "name": "Bu Izd\u0131rab\u0131n Panzehiri",
-      "url": "https://open.spotify.com/track/2o5KI2ZX1xfalxYOAxl6Kt"
     },
     {
       "added_at": "2023-10-06 00:01:00",

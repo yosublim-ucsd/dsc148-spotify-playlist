@@ -1,12 +1,12 @@
 {
   "description": "The best new rock tracks every week. Cover: Teen Jesus and the Jean Teasers",
-  "num_followers": 425904,
+  "num_followers": 426047,
   "original_name": "All New Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZGZmY2MzNTgyMjMwY2RhZGM4YjIyMmMyMDU1ZTkyN2E0NjI2YzM1",
+  "snapshot_id": "MCw2ODc2OWZiNDc5NmMyODczZTA0OWM0NGI2MTZiNThhZWE2MDY1NjQz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Fried Rice",
+        "url": "https://open.spotify.com/album/4i1Tx8xN9dlwNmMaa8KLPj"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 207120,
+      "name": "Fried Rice",
+      "url": "https://open.spotify.com/track/1mE0VuGu21W63oGEnJ7hq2"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Still The Dumb One (feat. MOD SUN)",
         "url": "https://open.spotify.com/album/2x6gsSfwIYObP2LmtzQLXf"
       },
@@ -215,18 +231,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Fried Rice",
-        "url": "https://open.spotify.com/album/4i1Tx8xN9dlwNmMaa8KLPj"
+        "name": "faceplant",
+        "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
         }
       ],
-      "duration_ms": 207120,
-      "name": "Fried Rice",
-      "url": "https://open.spotify.com/track/1mE0VuGu21W63oGEnJ7hq2"
+      "duration_ms": 161206,
+      "name": "faceplant",
+      "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -243,22 +259,6 @@
       "duration_ms": 193516,
       "name": "Hell",
       "url": "https://open.spotify.com/track/44cwcFNclhaQm29UTexzDg"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "faceplant",
-        "url": "https://open.spotify.com/album/6bat5qSI2gzHzDOxE6fKup"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 161206,
-      "name": "faceplant",
-      "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -283,22 +283,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Move On",
-        "url": "https://open.spotify.com/album/3n3gvdhR2fkx9qXXPrIAi3"
-      },
-      "artists": [
-        {
-          "name": "FIDLAR",
-          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
-        }
-      ],
-      "duration_ms": 161800,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Walking On Ice",
         "url": "https://open.spotify.com/album/4rzlFh4dPWc2rh7C68lDTk"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 163155,
       "name": "Walking On Ice",
       "url": "https://open.spotify.com/track/0QpjxbyUFXkGYpBgFsza2V"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Move On",
+        "url": "https://open.spotify.com/album/3n3gvdhR2fkx9qXXPrIAi3"
+      },
+      "artists": [
+        {
+          "name": "FIDLAR",
+          "url": "https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud"
+        }
+      ],
+      "duration_ms": 161800,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/1uD1DhAEZ2XzU8psOERt54"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "At Least I Tried",
-        "url": "https://open.spotify.com/album/6wDY1BlAruClWkBibcP01Z"
-      },
-      "artists": [
-        {
-          "name": "Sun Room",
-          "url": "https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y"
-        }
-      ],
-      "duration_ms": 155545,
-      "name": "At Least I Tried",
-      "url": "https://open.spotify.com/track/6EMyGdzKWQjz61i3aLzYDJ"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Miss Again",
         "url": "https://open.spotify.com/album/1I5rQb5CtuRZKm2NA6VQiu"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 219183,
       "name": "Miss Again",
       "url": "https://open.spotify.com/track/0CykGGOeJSAvMsjScRs3D3"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "At Least I Tried",
+        "url": "https://open.spotify.com/album/6wDY1BlAruClWkBibcP01Z"
+      },
+      "artists": [
+        {
+          "name": "Sun Room",
+          "url": "https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y"
+        }
+      ],
+      "duration_ms": 155545,
+      "name": "At Least I Tried",
+      "url": "https://open.spotify.com/track/6EMyGdzKWQjz61i3aLzYDJ"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "No Spell for Moving Water",
+        "url": "https://open.spotify.com/album/1GnhsJ96TxmK11CgBiEKZn"
+      },
+      "artists": [
+        {
+          "name": "Velvet Two Stripes",
+          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Boots Walkin' All over You",
+      "url": "https://open.spotify.com/track/26FT7b8OmWRAQvxV2KSvIM"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Ilion",
         "url": "https://open.spotify.com/album/759EtlXJpbASpseS57pVyL"
       },
@@ -479,22 +495,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "No Spell for Moving Water",
-        "url": "https://open.spotify.com/album/1GnhsJ96TxmK11CgBiEKZn"
-      },
-      "artists": [
-        {
-          "name": "Velvet Two Stripes",
-          "url": "https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Boots Walkin' All over You",
-      "url": "https://open.spotify.com/track/26FT7b8OmWRAQvxV2KSvIM"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "The CARR Show",
         "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
       },
@@ -507,22 +507,6 @@
       "duration_ms": 213188,
       "name": "I Like Dogs",
       "url": "https://open.spotify.com/track/6zesqtIAy9kc4UnHnhz3Nq"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Tuesday",
-        "url": "https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf"
-      },
-      "artists": [
-        {
-          "name": "mary in the junkyard",
-          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
-        }
-      ],
-      "duration_ms": 299136,
-      "name": "Tuesday",
-      "url": "https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -543,22 +527,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Personal 2",
-        "url": "https://open.spotify.com/album/4om5YzxBtw1mrVA3WAyDVG"
-      },
-      "artists": [
-        {
-          "name": "Disappeared Completely",
-          "url": "https://open.spotify.com/artist/4R5wiVl9fXPuS71ws235Ch"
-        }
-      ],
-      "duration_ms": 209050,
-      "name": "Personal 2",
-      "url": "https://open.spotify.com/track/5BfAUjH3xucwKBbwmuHMPe"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "NOTHINGNESS",
         "url": "https://open.spotify.com/album/26VIcq9CQqqGixCH7y56Pb"
       },
@@ -571,6 +539,54 @@
       "duration_ms": 194960,
       "name": "NOTHINGNESS",
       "url": "https://open.spotify.com/track/0QRK0E7CwPfw1ON6kIGfNX"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Lies",
+        "url": "https://open.spotify.com/album/6Y6O7YxqmoPwydJo5Hdfml"
+      },
+      "artists": [
+        {
+          "name": "Wait of the World",
+          "url": "https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si"
+        }
+      ],
+      "duration_ms": 197928,
+      "name": "Lies",
+      "url": "https://open.spotify.com/track/2DSiMn5zZQbGG4sK3LbxJx"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Tuesday",
+        "url": "https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf"
+      },
+      "artists": [
+        {
+          "name": "mary in the junkyard",
+          "url": "https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M"
+        }
+      ],
+      "duration_ms": 299136,
+      "name": "Tuesday",
+      "url": "https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Personal 2",
+        "url": "https://open.spotify.com/album/4om5YzxBtw1mrVA3WAyDVG"
+      },
+      "artists": [
+        {
+          "name": "Disappeared Completely",
+          "url": "https://open.spotify.com/artist/4R5wiVl9fXPuS71ws235Ch"
+        }
+      ],
+      "duration_ms": 209050,
+      "name": "Personal 2",
+      "url": "https://open.spotify.com/track/5BfAUjH3xucwKBbwmuHMPe"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -591,18 +607,34 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Lies",
-        "url": "https://open.spotify.com/album/6Y6O7YxqmoPwydJo5Hdfml"
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/4vKBpPK8Y4YaIgudaBeNu4"
       },
       "artists": [
         {
-          "name": "Wait of the World",
-          "url": "https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si"
+          "name": "Baby Fisher",
+          "url": "https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA"
         }
       ],
-      "duration_ms": 197928,
-      "name": "Lies",
-      "url": "https://open.spotify.com/track/2DSiMn5zZQbGG4sK3LbxJx"
+      "duration_ms": 176135,
+      "name": "Madonna",
+      "url": "https://open.spotify.com/track/5WGbFv0TIXvvQKD5dr4FuD"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Stupid and Famous",
+        "url": "https://open.spotify.com/album/58riorwSTiBrDtCLgsYsv0"
+      },
+      "artists": [
+        {
+          "name": "Yam Haus",
+          "url": "https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL"
+        }
+      ],
+      "duration_ms": 114108,
+      "name": "So Long",
+      "url": "https://open.spotify.com/track/1mQYvjPXigBBxEyM6VfPPp"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -639,34 +671,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Stupid and Famous",
-        "url": "https://open.spotify.com/album/58riorwSTiBrDtCLgsYsv0"
+        "name": "Here's Looking At You, Kid!",
+        "url": "https://open.spotify.com/album/0pQe7BNRBgq6IxafMBlCFY"
       },
       "artists": [
         {
-          "name": "Yam Haus",
-          "url": "https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL"
+          "name": "Uninvited",
+          "url": "https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn"
         }
       ],
-      "duration_ms": 114108,
-      "name": "So Long",
-      "url": "https://open.spotify.com/track/1mQYvjPXigBBxEyM6VfPPp"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/4vKBpPK8Y4YaIgudaBeNu4"
-      },
-      "artists": [
-        {
-          "name": "Baby Fisher",
-          "url": "https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA"
-        }
-      ],
-      "duration_ms": 176135,
-      "name": "Madonna",
-      "url": "https://open.spotify.com/track/5WGbFv0TIXvvQKD5dr4FuD"
+      "duration_ms": 164307,
+      "name": "Here's Looking At You, Kid!",
+      "url": "https://open.spotify.com/track/3qrdJp0kQATq1WvXW0GNML"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -683,22 +699,6 @@
       "duration_ms": 215520,
       "name": "Windows 98",
       "url": "https://open.spotify.com/track/4ii5CgpcLll9NwfXfAvWKj"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Here's Looking At You, Kid!",
-        "url": "https://open.spotify.com/album/0pQe7BNRBgq6IxafMBlCFY"
-      },
-      "artists": [
-        {
-          "name": "Uninvited",
-          "url": "https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn"
-        }
-      ],
-      "duration_ms": 164307,
-      "name": "Here's Looking At You, Kid!",
-      "url": "https://open.spotify.com/track/3qrdJp0kQATq1WvXW0GNML"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -735,38 +735,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Screwjob '97",
-        "url": "https://open.spotify.com/album/5mg3bMfkS9LUoLK6rKBc7Q"
-      },
-      "artists": [
-        {
-          "name": "WALWIN",
-          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
-        }
-      ],
-      "duration_ms": 181247,
-      "name": "Screwjob '97",
-      "url": "https://open.spotify.com/track/0Nxdgw4M7xzVHRSQ7YN4n3"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Yoko",
-        "url": "https://open.spotify.com/album/2oBKEtQRdnrkjqcqYvwvAC"
-      },
-      "artists": [
-        {
-          "name": "Ghost Woman",
-          "url": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
-        }
-      ],
-      "duration_ms": 210835,
-      "name": "Yoko",
-      "url": "https://open.spotify.com/track/4BwgdCvZHQ94ZSs8UoFKQp"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "REDEMPTION ARC",
         "url": "https://open.spotify.com/album/7uge8Yp8wNJ3CB6P4UYkyl"
       },
@@ -783,18 +751,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "I Like To",
-        "url": "https://open.spotify.com/album/5qkvmC4dK5Jgj28BfxDzYq"
+        "name": "Screwjob '97",
+        "url": "https://open.spotify.com/album/5mg3bMfkS9LUoLK6rKBc7Q"
       },
       "artists": [
         {
-          "name": "Symposium",
-          "url": "https://open.spotify.com/artist/3YUqeikmjlNZDLLImxLPuq"
+          "name": "WALWIN",
+          "url": "https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG"
         }
       ],
-      "duration_ms": 162466,
-      "name": "I Like To",
-      "url": "https://open.spotify.com/track/5ul0F5Toj41mBjkv8Zf5NC"
+      "duration_ms": 181247,
+      "name": "Screwjob '97",
+      "url": "https://open.spotify.com/track/0Nxdgw4M7xzVHRSQ7YN4n3"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -815,6 +783,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Yoko",
+        "url": "https://open.spotify.com/album/2oBKEtQRdnrkjqcqYvwvAC"
+      },
+      "artists": [
+        {
+          "name": "Ghost Woman",
+          "url": "https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy"
+        }
+      ],
+      "duration_ms": 210835,
+      "name": "Yoko",
+      "url": "https://open.spotify.com/track/4BwgdCvZHQ94ZSs8UoFKQp"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Far Away",
         "url": "https://open.spotify.com/album/1LiO8NC3ONOnCOh9dqcPUC"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 224789,
       "name": "Far Away",
       "url": "https://open.spotify.com/track/3lz93pLdSuGjkfXBRBw42N"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "I Like To",
+        "url": "https://open.spotify.com/album/5qkvmC4dK5Jgj28BfxDzYq"
+      },
+      "artists": [
+        {
+          "name": "Symposium",
+          "url": "https://open.spotify.com/artist/3YUqeikmjlNZDLLImxLPuq"
+        }
+      ],
+      "duration_ms": 162466,
+      "name": "I Like To",
+      "url": "https://open.spotify.com/track/5ul0F5Toj41mBjkv8Zf5NC"
     }
   ],
   "unique_name": "All New Rock",

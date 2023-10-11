@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Disfruta con los grandes del rock colombiano! Foto: Diamante El\u00e9ctrico",
-  "num_followers": 85276,
+  "num_followers": 85251,
   "original_name": "Rock Colombia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OGZkNzY5ZGZkOTU4ZWQ2YmI3OTdjN2E2NTdjYTMzNTMxMWQyMzQ5",
+  "snapshot_id": "MCxmZWRjYjJhYTc4ZWM2YzQ4MjZlN2Q4MjU2YjU4NTc3NjIzZmIwZDUy",
   "tracks": [
     {
       "added_at": "2023-10-07 00:35:47",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-10-07 00:35:47",
       "album": {
-        "name": "Productos Desaparecidos",
-        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
-      },
-      "artists": [
-        {
-          "name": "La Pestilencia",
-          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
-        }
-      ],
-      "duration_ms": 225693,
-      "name": "Ahora Me Cuesta",
-      "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
-    },
-    {
-      "added_at": "2023-10-07 00:35:47",
-      "album": {
         "name": "N\u00f3mada",
         "url": "https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 287701,
       "name": "N\u00f3mada",
       "url": "https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A"
+    },
+    {
+      "added_at": "2023-10-07 00:35:47",
+      "album": {
+        "name": "Productos Desaparecidos",
+        "url": "https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG"
+      },
+      "artists": [
+        {
+          "name": "La Pestilencia",
+          "url": "https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3"
+        }
+      ],
+      "duration_ms": 225693,
+      "name": "Ahora Me Cuesta",
+      "url": "https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L"
     },
     {
       "added_at": "2023-10-07 00:35:47",

@@ -2425,6 +2425,24 @@
     },
     {
       "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173760,
+      "name": "FERXXO 30",
+      "url": "https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV"
+    },
+    {
+      "album": {
         "name": "Los Legendarios 001",
         "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
       },
@@ -8220,7 +8238,7 @@
       ],
       "date_added": "2021-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 186693,
       "name": "VACAXIONES",
       "url": "https://open.spotify.com/track/6DdC4I8ENm7zHH9Jy9pFg4"

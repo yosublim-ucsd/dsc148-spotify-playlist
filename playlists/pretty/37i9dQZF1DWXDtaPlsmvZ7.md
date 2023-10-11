@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,913 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,921 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 71 | [Reggaeton Lento](https://open.spotify.com/track/5pT4ZI8pghpB294iQOds0E) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Lemonchamp](https://open.spotify.com/album/4Ie3Z2Ss3MPXX0OVjAnT9y) | 2:36 |
 | 72 | [Procura](https://open.spotify.com/track/4EhJSTlHXyP5dbz1CaZZmU) | [Cristian Jacobo](https://open.spotify.com/artist/02HnByHOPN5e2RXNHZ9HhW) | [Procura](https://open.spotify.com/album/0M0rRbZMiMlwEyXn06zJPy) | 4:32 |
 | 73 | [Felices Los 4 \- Version Cumbia](https://open.spotify.com/track/70VKTITzq3LkUUMmWFrZ8l) | [Alex Dover](https://open.spotify.com/artist/1mZ4z5FjhzO1nEVCsl3wUz), [Chule](https://open.spotify.com/artist/09QoQi6E7GP5AePICzRcZe) | [Felices Los 4 \(Version Cumbia\)](https://open.spotify.com/album/735ID4Ax2DldOpClH686PW) | 2:48 |
-| 74 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
-| 75 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
+| 74 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
+| 75 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
 
-Snapshot ID: `MCwyM2JiNTkwYmIyNjM0YWFlZGFlMTc4MGRmN2U5MTY0ZmE2OGY0N2Vk`
+Snapshot ID: `MCxhMmE0MWI5ZmU1ZmZkODAyNGQ3MTRkMTk1NTkzYjQxZDlmMmViZDc0`

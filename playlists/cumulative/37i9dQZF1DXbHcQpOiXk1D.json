@@ -519,6 +519,24 @@
     },
     {
       "album": {
+        "name": "angel numbers",
+        "url": "https://open.spotify.com/album/3aZYhkmL0GXMeA3mVIGhkK"
+      },
+      "artists": [
+        {
+          "name": "MaZz",
+          "url": "https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149968,
+      "name": "angel numbers",
+      "url": "https://open.spotify.com/track/2m20gc2fNcai0gI1uU5YLV"
+    },
+    {
+      "album": {
         "name": "Annie's Tune",
         "url": "https://open.spotify.com/album/3g9x7MAnIZuGQwjp2TquRP"
       },
@@ -1696,7 +1714,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 212000,
       "name": "COME ON NOW",
       "url": "https://open.spotify.com/track/3QD4S81ddphPVQaMGLc8Sl"

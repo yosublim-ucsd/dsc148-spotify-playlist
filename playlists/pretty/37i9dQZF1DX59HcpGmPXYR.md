@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59HcpGmPXYR.md) - [plain]
 
 > The revolutionaries, the allies, and the just plain fabulous: these flawless tracks are beyond perfect for Pride\. Cover: Sam Smith & Kim Petras
 
-[Spotify](https://open.spotify.com/user/spotify) - 656,676 likes - 60 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 656,602 likes - 60 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59HcpGmPXYR.md) - [plain]
 | 59 | [Nails, Hair, Hips, Heels](https://open.spotify.com/track/3gWIY6WqA34ZRy8QVjTq5v) | [Todrick Hall](https://open.spotify.com/artist/0gBvuNzrFCOVaiyKexoYMH) | [Haus Party, Pt\. 1](https://open.spotify.com/album/7HuGa9781G05ax5o354dpo) | 3:56 |
 | 60 | [Beg for You \(feat\. Rina Sawayama\)](https://open.spotify.com/track/50ZFpw2wS6ERvLmW8TINhq) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Beg For You \(feat\. Rina Sawayama\)](https://open.spotify.com/album/0ffmwwS9EBmpLAgjblX75O) | 2:48 |
 
-Snapshot ID: `MCwxMTNkMjljMmE0NGJhYWM3YmVkMGY3NGZkZmFhM2Q1ZmNlMmNhY2Jj`
+Snapshot ID: `MCwyNzViN2Y5YTlmYWMxNTdhZWZmYjZkMmU3NGVmOWU4YjAzN2FlMTRm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 
 > Island life vibes ✨ Relajados y disfrutando la vida con musiquita linda de fondo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,833 likes - 75 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,859 likes - 75 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 43 | [Bolerito Sad](https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Triste Pero Fresh](https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM) | 3:01 |
 | 44 | [Un Día a la Vez](https://open.spotify.com/track/1BuJDqgkqw3kWzcYA5iRMo) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Los Rivera Destino](https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid) | [Un Koala En Una Palmera](https://open.spotify.com/album/3ZAYuvF9D2gG3Qflm4Ps4U) | 4:05 |
 | 45 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 |
-| 46 | [En Otra Vida](https://open.spotify.com/track/6jxwnoSEnnhmPWqCylbyEH) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [En Otra Vida](https://open.spotify.com/album/6krx2ErzaeocE6TXn7JglP) | 3:06 |
+| 46 | [Te necesito everywhere](https://open.spotify.com/track/4cLZmzNCVnjROyOD8JbqKO) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Te necesito everywhere](https://open.spotify.com/album/3ehqz79yp50mzuawG3lqmG) | 2:46 |
 | 47 | [Guayaba](https://open.spotify.com/track/6Po685xMKAviFTftDPyEkk) | [Anakena](https://open.spotify.com/artist/0kHEttD7XzMjXbZtMq6XYo) | [Anakena](https://open.spotify.com/album/6ck1uJ9NESkBlk3qCAWVtd) | 3:32 |
-| 48 | [Te necesito everywhere](https://open.spotify.com/track/4cLZmzNCVnjROyOD8JbqKO) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Te necesito everywhere](https://open.spotify.com/album/3ehqz79yp50mzuawG3lqmG) | 2:46 |
+| 48 | [En Otra Vida](https://open.spotify.com/track/6jxwnoSEnnhmPWqCylbyEH) | [RIZA](https://open.spotify.com/artist/710CMv31X4B1WF2nruibK1) | [En Otra Vida](https://open.spotify.com/album/6krx2ErzaeocE6TXn7JglP) | 3:06 |
 | 49 | [Jugar a Vivir](https://open.spotify.com/track/1QlZUoChINBN5BMRmZF0sS) | [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Camino al Sol](https://open.spotify.com/album/1XuG26LABHJVOLlf8VqkSN) | 3:45 |
 | 50 | [Niña de Mis Ojos](https://open.spotify.com/track/4hjxm4OOqQcwB0Oi8wDV2N) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Niña de Mis Ojos](https://open.spotify.com/album/4qx9aRb19XNXAkmKU4QJj6) | 3:13 |
 | 51 | [Eterno Verano](https://open.spotify.com/track/1LKZ4TNbzvhXypk8XSEVOR) | [chimi](https://open.spotify.com/artist/3bERmnGbNw9n8tHKP5MUSj), [Marie Gabrielle Blix](https://open.spotify.com/artist/6dwPBKzmGIo6MlRAJ4cxFe) | [Eterno Verano](https://open.spotify.com/album/40LKXLc5JwGyVQ85mvdcEI) | 3:58 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 63 | [BACANA](https://open.spotify.com/track/4tmR87MHUV0746GNg7jGv3) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [BACANA](https://open.spotify.com/album/1OU7jqRIorGSu9U4uENrLd) | 3:05 |
 | 64 | [Libre](https://open.spotify.com/track/6zmlvhQshwFBAIpOOAEVfb) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Nella](https://open.spotify.com/artist/6hgiVWraSMs9mbUrhPq8Oh) | [Libre](https://open.spotify.com/album/7oBjTSSK15OF6X5kFJJugd) | 4:39 |
 | 65 | [Quiero Quedarme](https://open.spotify.com/track/62NQL85GaZA7FE1ejQQgkE) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Quiero Quedarme](https://open.spotify.com/album/7JMcgEmmRUXb7cunOvi0In) | 3:48 |
-| 66 | [Miel <3](https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 3:23 |
-| 67 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
+| 66 | [Ganas de Dejarte](https://open.spotify.com/track/1lrZCQZiW8WFph4TlLqEwT) | [Olivia García](https://open.spotify.com/artist/5ZLOSt2DZOG4V3nG0kDoh3) | [Ganas de Dejarte](https://open.spotify.com/album/3iikqJogxGgONOMVfzI5za) | 2:19 |
+| 67 | [Miel <3](https://open.spotify.com/track/4DjuqRQQIBLkOz9S6MN28t) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Suspiros](https://open.spotify.com/album/67kgDdEZm4L3H1O67WYLXg) | 3:23 |
 | 68 | [estamos bien](https://open.spotify.com/track/1VvnmpJBpaJ6LOObkwOg7C) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [estamos bien](https://open.spotify.com/album/1kCf3v2NqFFTmQwRwlRe3G) | 2:40 |
 | 69 | [Nada Te Pido](https://open.spotify.com/track/2BgaHOrVH5QD1YRIaZraQo) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Nada Te Pido](https://open.spotify.com/album/4yFAfqltaU7RRFT3U6XcLO) | 2:59 |
 | 70 | [for good \(with RENEE\)](https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [for good \(with RENEE\)](https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H) | 3:02 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5RJFUyAPLw.md) - [plain]
 | 74 | [Instantes y Aullidos](https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [Instantes y Aullidos](https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q) | 5:00 |
 | 75 | [Sin Yolanda](https://open.spotify.com/track/2P8lowDRQsyXnPryS7s20o) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch), [Gutinho](https://open.spotify.com/artist/5xneBcnKxnlHnspytUfcyE) | [Últimamente me acuerdo mucho de tu casa](https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf) | 3:50 |
 
-Snapshot ID: `MCw4ZjEzMGJiMjFhYjlmMmYxMjI5NTc2N2I5MDZkZWIwMDMwYjFiNDg0`
+Snapshot ID: `MCxmYzBhODY2NjU2NjM0OTU1YmViYmJiYWUwZjMzNWM0MTNlNDkwY2U1`

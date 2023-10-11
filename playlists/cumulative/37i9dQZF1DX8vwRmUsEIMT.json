@@ -9191,6 +9191,28 @@
     },
     {
       "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247444,
+      "name": "First Person Shooter (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
+    },
+    {
+      "album": {
         "name": "Flip A Switch. (feat. Coi Leray) [Remix]",
         "url": "https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd"
       },
@@ -15436,7 +15458,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 208933,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3jS0d7uwqKGbfwQ2ia2JN0"
@@ -24362,7 +24384,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 196685,
       "name": "Thoughts of a Child",
       "url": "https://open.spotify.com/track/4ww0PnbgRU4pxFFkk0xUO8"
@@ -24612,6 +24634,28 @@
       "duration_ms": 221823,
       "name": "To be honest",
       "url": "https://open.spotify.com/track/3G1rPeSTMK5MNno47y1Ll0"
+    },
+    {
+      "album": {
+        "name": "To Do List (After The Breakup) [feat. Findlay]",
+        "url": "https://open.spotify.com/album/0wolH6CLHJUXtRawT42iEq"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        },
+        {
+          "name": "Findlay",
+          "url": "https://open.spotify.com/artist/12XBVoWq6M6etLxxe1TQWn"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195059,
+      "name": "To Do List (After The Breakup) [feat. Findlay]",
+      "url": "https://open.spotify.com/track/2esepe5BORsvUyEXqcIQd4"
     },
     {
       "album": {

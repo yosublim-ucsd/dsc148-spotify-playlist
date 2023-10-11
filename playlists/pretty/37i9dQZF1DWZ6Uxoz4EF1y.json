@@ -1,12 +1,12 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 155507,
+  "num_followers": 155734,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDhlNmUxZDVkOTRkMWNlZjFjNTc5MTE0NjJmMjM3OTgwNTA3ZjM1",
+  "snapshot_id": "MCxhZTllNGM3NjI5ODRiMWQxOWFhZDA3Nzc0NTNlY2U5ODE4ZTI2MzYz",
   "tracks": [
     {
       "added_at": "2023-04-09 08:31:46",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Misericordia",
-        "url": "https://open.spotify.com/album/0Y29ylAB8U61Jfb1O719IS"
-      },
-      "artists": [
-        {
-          "name": "Onell Diaz",
-          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 218942,
-      "name": "Misericordia",
-      "url": "https://open.spotify.com/track/45kBRk3OOKJNKJJFO0h1OJ"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Cielo En La Tierra",
         "url": "https://open.spotify.com/album/62ZcFS2JhS73t3fhAZ6rZX"
       },
@@ -539,6 +519,26 @@
       "duration_ms": 386426,
       "name": "Cielo En La Tierra",
       "url": "https://open.spotify.com/track/4LTqkLILC2Vfrbg0C85i5b"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Misericordia",
+        "url": "https://open.spotify.com/album/0Y29ylAB8U61Jfb1O719IS"
+      },
+      "artists": [
+        {
+          "name": "Onell Diaz",
+          "url": "https://open.spotify.com/artist/0CY3fhkYxiPZh9XCwBeao2"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 218942,
+      "name": "Misericordia",
+      "url": "https://open.spotify.com/track/45kBRk3OOKJNKJJFO0h1OJ"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -647,18 +647,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "En Esto Creo (Live)",
-        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/3cDznNz3cXNQql9O9KTAvi"
       },
       "artists": [
         {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+          "name": "Esperanza de Vida",
+          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
         }
       ],
-      "duration_ms": 259613,
-      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
-      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
+      "duration_ms": 360386,
+      "name": "Toda la Gloria",
+      "url": "https://open.spotify.com/track/3lTjQX4rSNfLhXrqyNM8nn"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -683,18 +683,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/3cDznNz3cXNQql9O9KTAvi"
+        "name": "En Esto Creo (Live)",
+        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
       },
       "artists": [
         {
-          "name": "Esperanza de Vida",
-          "url": "https://open.spotify.com/artist/2JjoUSP8dUA7UhlWW59fK1"
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
-      "duration_ms": 360386,
-      "name": "Toda la Gloria",
-      "url": "https://open.spotify.com/track/3lTjQX4rSNfLhXrqyNM8nn"
+      "duration_ms": 259613,
+      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
+      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "Santo R\u00edo de Dios",
+        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 301958,
+      "name": "Santo R\u00edo de Dios",
+      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "En Las Alas Del Amor",
         "url": "https://open.spotify.com/album/3zHypYyLfjX3Ikil2H9bOI"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 528800,
       "name": "Digno Y Santo",
       "url": "https://open.spotify.com/track/1vsA02g4fNXwTAy9BooYbX"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Santo R\u00edo de Dios",
-        "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 301958,
-      "name": "Santo R\u00edo de Dios",
-      "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 410827,
+      "name": "Jes\u00fas Eres Mi Buen Pastor",
+      "url": "https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
         "name": "Mirar\u00e9 al Rey",
         "url": "https://open.spotify.com/album/027pf1seCyz8BPhya74n2L"
       },
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Me Visti\u00f3 De Promesas",
-        "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
-      },
-      "artists": [
-        {
-          "name": "Julissa",
-          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
-        }
-      ],
-      "duration_ms": 288266,
-      "name": "Creemos",
-      "url": "https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Vivo para Ti",
         "url": "https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ"
       },
@@ -1039,6 +1039,22 @@
       "duration_ms": 213446,
       "name": "Te Amo Jes\u00fas",
       "url": "https://open.spotify.com/track/1G7lUahhD2iJZd8DTwkG9d"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Me Visti\u00f3 De Promesas",
+        "url": "https://open.spotify.com/album/1SUEDD9quNY1LYU36X6UUp"
+      },
+      "artists": [
+        {
+          "name": "Julissa",
+          "url": "https://open.spotify.com/artist/6WCFOdK10oxg9dYaaIyeZu"
+        }
+      ],
+      "duration_ms": 288266,
+      "name": "Creemos",
+      "url": "https://open.spotify.com/track/1Z33wIAMRaaGFSuBnFcYRU"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1091,38 +1107,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Muerte Por Vida",
-        "url": "https://open.spotify.com/album/0gTUTqQo7JdXl9yaj5wUcg"
-      },
-      "artists": [
-        {
-          "name": "Belen Losa",
-          "url": "https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw"
-        }
-      ],
-      "duration_ms": 368683,
-      "name": "Muerte Por Vida",
-      "url": "https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "Enciende una Luz",
-        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 410827,
-      "name": "Jes\u00fas Eres Mi Buen Pastor",
-      "url": "https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Grande y Fiel (Live)",
         "url": "https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH"
       },
@@ -1139,6 +1123,38 @@
       "duration_ms": 387500,
       "name": "Santo Es Tu Nombre - Live",
       "url": "https://open.spotify.com/track/0hGBNTxVICQBA55B9uHXT2"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Muerte Por Vida",
+        "url": "https://open.spotify.com/album/0gTUTqQo7JdXl9yaj5wUcg"
+      },
+      "artists": [
+        {
+          "name": "Belen Losa",
+          "url": "https://open.spotify.com/artist/6ykUpAJTNpbCpuyApOAxHw"
+        }
+      ],
+      "duration_ms": 368683,
+      "name": "Muerte Por Vida",
+      "url": "https://open.spotify.com/track/68rCrBWih9O3ctD7NbXUUH"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "En adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 299429,
+      "name": "Enciende una luz",
+      "url": "https://open.spotify.com/track/1UEwI2FyRaowh1kUWCzNLg"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1255,22 +1271,6 @@
       "duration_ms": 439480,
       "name": "No Hay Otro Nombre - Live",
       "url": "https://open.spotify.com/track/5EcTHBNB5GUHh66dExVIGC"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
-        "name": "En adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 299429,
-      "name": "Enciende una luz",
-      "url": "https://open.spotify.com/track/1UEwI2FyRaowh1kUWCzNLg"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Mi Coraz\u00f3n Te Anhela",
-        "url": "https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bernal",
-          "url": "https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6"
-        }
-      ],
-      "duration_ms": 295692,
-      "name": "Mi Coraz\u00f3n Te Anhela",
-      "url": "https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y"
-    },
-    {
-      "added_at": "2023-04-09 08:31:46",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/6fo1XymhMMxx90DkdF5uYd"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 393769,
       "name": "Gracias",
       "url": "https://open.spotify.com/track/3DegJt9Nl9iqk9Z8hwt1Eq"
+    },
+    {
+      "added_at": "2023-04-09 08:31:46",
+      "album": {
+        "name": "Mi Coraz\u00f3n Te Anhela",
+        "url": "https://open.spotify.com/album/1IoMVo2hPhfuDWKvcCxBfE"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bernal",
+          "url": "https://open.spotify.com/artist/51JOqmQTWX5eqqOlSYBIs6"
+        }
+      ],
+      "duration_ms": 295692,
+      "name": "Mi Coraz\u00f3n Te Anhela",
+      "url": "https://open.spotify.com/track/2v6tJGan59otCNvwSWD19y"
     },
     {
       "added_at": "2023-04-09 08:31:46",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2023-04-09 08:31:46",
       "album": {
-        "name": "Nada Guardaste",
-        "url": "https://open.spotify.com/album/2ijSFbYgcekIrCJLcpsHrd"
+        "name": "Como en Casa (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/73FehpfDRan2EMqqnlyW5V"
       },
       "artists": [
         {
-          "name": "Ana Bolivar",
-          "url": "https://open.spotify.com/artist/0F6ECVJUrc57maR7Ee0DNV"
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
         }
       ],
-      "duration_ms": 219320,
-      "name": "Nada Guardaste",
-      "url": "https://open.spotify.com/track/5tI6ogwTmRC4M9xR9PF8QS"
+      "duration_ms": 363772,
+      "name": "Vives T\u00fa Vivo Yo - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3aQ72h2vInTXJvE72Z6V0E"
     }
   ],
   "unique_name": "Jes\u00fas Vive",

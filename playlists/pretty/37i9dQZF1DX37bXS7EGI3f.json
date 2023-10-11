@@ -1,12 +1,12 @@
 {
   "description": "Epic and melodic metal. Cover: Within Temptation",
-  "num_followers": 749806,
+  "num_followers": 749896,
   "original_name": "Epic & Melodic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDJkMDY3ZTlhNWU4ZTlmN2MzOWExN2NlZDFjODM3MDI2YjU0NTgz",
+  "snapshot_id": "MCwzZDUxYTY0ZmQ4OTQ4YTYxNDQxYzlmZTcyZTRiMWE1MjI1M2U5Mzc3",
   "tracks": [
     {
       "added_at": "2023-05-19 04:00:00",
@@ -505,22 +505,6 @@
       "url": "https://open.spotify.com/track/08yNiukGEc21at2TakEvQT"
     },
     {
-      "added_at": "2023-07-17 22:14:26",
-      "album": {
-        "name": "Cicada",
-        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
-      },
-      "artists": [
-        {
-          "name": "Blackbriar",
-          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
-        }
-      ],
-      "duration_ms": 271693,
-      "name": "Cicada",
-      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
-    },
-    {
       "added_at": "2023-05-19 04:00:00",
       "album": {
         "name": "Glory for Salvation",
@@ -535,6 +519,22 @@
       "duration_ms": 346053,
       "name": "Son of Vengeance",
       "url": "https://open.spotify.com/track/0fNSEGMYMcJpQIcLpUq9FT"
+    },
+    {
+      "added_at": "2023-07-17 22:14:26",
+      "album": {
+        "name": "Cicada",
+        "url": "https://open.spotify.com/album/0s6oyS1Qbf3dJjyBgtWa2x"
+      },
+      "artists": [
+        {
+          "name": "Blackbriar",
+          "url": "https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI"
+        }
+      ],
+      "duration_ms": 271693,
+      "name": "Cicada",
+      "url": "https://open.spotify.com/track/28Npl9mDDanrITQV8NNe2A"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Chapter III - Downfall",
-        "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
-      },
-      "artists": [
-        {
-          "name": "Ad Infinitum",
-          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
-        }
-      ],
-      "duration_ms": 234346,
-      "name": "Eternal Rains",
-      "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Fairy of the Bog",
         "url": "https://open.spotify.com/album/1JahUk68dOo6qgqppAkfk1"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 276705,
       "name": "Fairy of the Bog",
       "url": "https://open.spotify.com/track/1bonbXXlT83xzDsyKIc0Am"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Chapter III - Downfall",
+        "url": "https://open.spotify.com/album/1yd879vcVkRxjGlxWtG9st"
+      },
+      "artists": [
+        {
+          "name": "Ad Infinitum",
+          "url": "https://open.spotify.com/artist/2X3qFQFHkm1sOGo5ppIoSD"
+        }
+      ],
+      "duration_ms": 234346,
+      "name": "Eternal Rains",
+      "url": "https://open.spotify.com/track/6dsKcPKE6PLr6PBRxeNPfi"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Seventh Rum of a Seventh Rum",
-        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
-      },
-      "artists": [
-        {
-          "name": "Alestorm",
-          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
-        }
-      ],
-      "duration_ms": 201114,
-      "name": "Seventh Rum of a Seventh Rum",
-      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Pop Metal",
         "url": "https://open.spotify.com/album/3chKNZRdtp9IFFIgzYIWoz"
       },
@@ -1019,22 +1003,34 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Not All Those Who Wander Are Lost",
-        "url": "https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65"
+        "name": "Seventh Rum of a Seventh Rum",
+        "url": "https://open.spotify.com/album/27a7wYxLOTiiUiRnSEXCzY"
       },
       "artists": [
         {
-          "name": "Eklipse",
-          "url": "https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH"
-        },
-        {
-          "name": "Melissa Bonny",
-          "url": "https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb"
+          "name": "Alestorm",
+          "url": "https://open.spotify.com/artist/3OpqU68JpZlzvjAJj3B2Da"
         }
       ],
-      "duration_ms": 286525,
-      "name": "Not All Those Who Wander Are Lost",
-      "url": "https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt"
+      "duration_ms": 201114,
+      "name": "Seventh Rum of a Seventh Rum",
+      "url": "https://open.spotify.com/track/7KyyCMD4fPZgJ0kKVuNAo3"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Phoenix",
+        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
+      },
+      "artists": [
+        {
+          "name": "Dark Princess",
+          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
+        }
+      ],
+      "duration_ms": 182479,
+      "name": "My Shadow Self",
+      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Phoenix",
-        "url": "https://open.spotify.com/album/7pqRiN3pUnKElwIXBdUAV1"
+        "name": "Not All Those Who Wander Are Lost",
+        "url": "https://open.spotify.com/album/2Hdnxdxtbgbajj18nZcp65"
       },
       "artists": [
         {
-          "name": "Dark Princess",
-          "url": "https://open.spotify.com/artist/1uy1Q1ri5F7S3Mct15kJPN"
+          "name": "Eklipse",
+          "url": "https://open.spotify.com/artist/6kART38d9tWb1yOcSO40YH"
+        },
+        {
+          "name": "Melissa Bonny",
+          "url": "https://open.spotify.com/artist/6STRFYHUSkHG7O4XkH48hb"
         }
       ],
-      "duration_ms": 182479,
-      "name": "My Shadow Self",
-      "url": "https://open.spotify.com/track/2gjvBpoGUgSkym7J391chE"
+      "duration_ms": 286525,
+      "name": "Not All Those Who Wander Are Lost",
+      "url": "https://open.spotify.com/track/3BllrsBQnKlfb4rNDcllkt"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
+        "name": "Black Venom",
+        "url": "https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq"
+      },
+      "artists": [
+        {
+          "name": "Without Warning",
+          "url": "https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe"
+        }
+      ],
+      "duration_ms": 197000,
+      "name": "Black Venom",
+      "url": "https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
         "name": "After Forever (15th Anniversary Edition)",
         "url": "https://open.spotify.com/album/6yHSM7kypL6cP7JcboPiVE"
       },
@@ -1191,18 +1207,34 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Now Is the Time",
-        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
+        "name": "Here We Stand",
+        "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
       },
       "artists": [
         {
-          "name": "Power Quest",
-          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
+          "name": "In Victory",
+          "url": "https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3"
         }
       ],
-      "duration_ms": 378549,
-      "name": "Now Is the Time",
-      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
+      "duration_ms": 248026,
+      "name": "Here We Stand",
+      "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "The Beast Has Awoken",
+        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
+      },
+      "artists": [
+        {
+          "name": "Hate World Hero",
+          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
+        }
+      ],
+      "duration_ms": 213473,
+      "name": "The Beast Has Awoken",
+      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1231,50 +1263,18 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Here We Stand",
-        "url": "https://open.spotify.com/album/47tmMof0okT3jCJteSF1rR"
+        "name": "Now Is the Time",
+        "url": "https://open.spotify.com/album/4IFXE9orZJ3dAxIZDjp3aV"
       },
       "artists": [
         {
-          "name": "In Victory",
-          "url": "https://open.spotify.com/artist/56rg8R5k95tY2jT4cQPyK3"
+          "name": "Power Quest",
+          "url": "https://open.spotify.com/artist/0m9MRvdIdPp3cR1JkaEVip"
         }
       ],
-      "duration_ms": 248026,
-      "name": "Here We Stand",
-      "url": "https://open.spotify.com/track/3PMyqW85Gvncxxup60MIie"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "Black Venom",
-        "url": "https://open.spotify.com/album/3fRo6gSfiyW73l7Rd7nQPq"
-      },
-      "artists": [
-        {
-          "name": "Without Warning",
-          "url": "https://open.spotify.com/artist/4t91G6AzXhhZXQkbpZX7Fe"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Black Venom",
-      "url": "https://open.spotify.com/track/28D4Z3vzudtzMu0NQ5789S"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
-        "name": "The Beast Has Awoken",
-        "url": "https://open.spotify.com/album/3Ch8TYT2iPsUCjKAcCe4rc"
-      },
-      "artists": [
-        {
-          "name": "Hate World Hero",
-          "url": "https://open.spotify.com/artist/3fUpS8AGXpd7PO9I8bs4jh"
-        }
-      ],
-      "duration_ms": 213473,
-      "name": "The Beast Has Awoken",
-      "url": "https://open.spotify.com/track/1DCcgFZYNC4DbeysRwBpjo"
+      "duration_ms": 378549,
+      "name": "Now Is the Time",
+      "url": "https://open.spotify.com/track/0H0g6Rk2E39yNF9ShYj9z0"
     },
     {
       "added_at": "2023-05-19 04:00:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2023-05-19 04:00:00",
       "album": {
-        "name": "Drink with the Gods",
-        "url": "https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW"
-      },
-      "artists": [
-        {
-          "name": "Bloodbound",
-          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Drink with the Gods",
-      "url": "https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk"
-    },
-    {
-      "added_at": "2023-05-19 04:00:00",
-      "album": {
         "name": "Juokse Sin\u00e4 Humma",
         "url": "https://open.spotify.com/album/7iAwpnzJHBl22urMdnmaWN"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 196636,
       "name": "Juokse Sin\u00e4 Humma",
       "url": "https://open.spotify.com/track/0VuiLKm86hsS2DLDM2UVia"
+    },
+    {
+      "added_at": "2023-05-19 04:00:00",
+      "album": {
+        "name": "Drink with the Gods",
+        "url": "https://open.spotify.com/album/6NrEzBItZhPjJtvdyMnPPW"
+      },
+      "artists": [
+        {
+          "name": "Bloodbound",
+          "url": "https://open.spotify.com/artist/6nf7iwR6AoROxfUKZWd1r6"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Drink with the Gods",
+      "url": "https://open.spotify.com/track/03b3kwWJNx0QJUXVmG4WWk"
     },
     {
       "added_at": "2023-05-19 04:00:00",

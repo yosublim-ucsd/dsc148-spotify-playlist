@@ -1,12 +1,12 @@
 {
   "description": "A collection of the world's best emotional songs. Cover: <a href=\"https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl_branch=1\">Djouher</a>",
-  "num_followers": 142460,
+  "num_followers": 142457,
   "original_name": "Ballads International",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMjU3MzVmNjU2ODhhZTU5OTg0YTkzNjYzOTUyNGNjYTc2ZTY3OGIx",
+  "snapshot_id": "MCwwYWRhMDYzNjQ5YjNmNmRkMjk5NTc2ZDRiNTY2Y2ZkZTU3YzFjMWQ5",
   "tracks": [
     {
       "added_at": "2022-10-17 15:00:00",
@@ -247,22 +247,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 203384,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Only Human (Deluxe)",
         "url": "https://open.spotify.com/album/6Vip5A5NmEazvKuxj6GLYf"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 204326,
       "name": "You Are The Reason",
       "url": "https://open.spotify.com/track/69vToJ9BMbbLlFZo7k7A7B"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 203384,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 4",
-        "url": "https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk"
-      },
-      "artists": [
-        {
-          "name": "Yerin Baek",
-          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
-        }
-      ],
-      "duration_ms": 234840,
-      "name": "Here I Am Again",
-      "url": "https://open.spotify.com/track/1uZ5Ulb2qfle3HbqB12vNQ"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Binalewala",
         "url": "https://open.spotify.com/album/1793zMKn7sOceKYWdN7yQX"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 268486,
       "name": "Binalewala - Original Version",
       "url": "https://open.spotify.com/track/2tR5liucorXRwduxr0qEx6"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Crash Landing on You (Original Television Soundtrack), Pt. 4",
+        "url": "https://open.spotify.com/album/2qCB3BnsOtq3Rja6nPslrk"
+      },
+      "artists": [
+        {
+          "name": "Yerin Baek",
+          "url": "https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK"
+        }
+      ],
+      "duration_ms": 234840,
+      "name": "Here I Am Again",
+      "url": "https://open.spotify.com/track/1uZ5Ulb2qfle3HbqB12vNQ"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "What If I Told You That I Love You",
-        "url": "https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M"
-      },
-      "artists": [
-        {
-          "name": "Ali Gatie",
-          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
-        }
-      ],
-      "duration_ms": 193667,
-      "name": "What If I Told You That I Love You",
-      "url": "https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Dahan",
         "url": "https://open.spotify.com/album/5ZMRUtgLCoeyhrDdRhSXij"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 297500,
       "name": "Dahan",
       "url": "https://open.spotify.com/track/6BxJLJw228OY5BFerPGl7z"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "What If I Told You That I Love You",
+        "url": "https://open.spotify.com/album/0FJdFiVzdDw7YXiNdds38M"
+      },
+      "artists": [
+        {
+          "name": "Ali Gatie",
+          "url": "https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T"
+        }
+      ],
+      "duration_ms": 193667,
+      "name": "What If I Told You That I Love You",
+      "url": "https://open.spotify.com/track/74D7JUfU6HYeMx4bZhsHnG"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Con La Miel En Los Labios",
-        "url": "https://open.spotify.com/album/4pIf4sqEVKaTjXUgLsG6aD"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 202446,
-      "name": "Con La Miel En Los Labios",
-      "url": "https://open.spotify.com/track/5VOPzPBHcubxHK1BEru2G5"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Learning To Live Without You",
         "url": "https://open.spotify.com/album/4D3Kj2stDw3tnnfjOBrEvB"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 193784,
       "name": "Learning To Live Without You",
       "url": "https://open.spotify.com/track/2cEMwE3n0z4Uw4xVwNqDst"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Con La Miel En Los Labios",
+        "url": "https://open.spotify.com/album/4pIf4sqEVKaTjXUgLsG6aD"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 202446,
+      "name": "Con La Miel En Los Labios",
+      "url": "https://open.spotify.com/track/5VOPzPBHcubxHK1BEru2G5"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sei L\u00e1",
-        "url": "https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj"
-      },
-      "artists": [
-        {
-          "name": "B\u00e1rbara Tinoco",
-          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
-        }
-      ],
-      "duration_ms": 202386,
-      "name": "Sei L\u00e1",
-      "url": "https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "\u6cbf\u5fd7\u594f\u9022",
         "url": "https://open.spotify.com/album/4R14tXqrX3Vl7qJfouSshx"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 284360,
       "name": "\u7cf8",
       "url": "https://open.spotify.com/track/3HUpfIdFGQ02XlDp1f2F8t"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Sei L\u00e1",
+        "url": "https://open.spotify.com/album/67qnQQfaph7WX9OsW0KMQj"
+      },
+      "artists": [
+        {
+          "name": "B\u00e1rbara Tinoco",
+          "url": "https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT"
+        }
+      ],
+      "duration_ms": 202386,
+      "name": "Sei L\u00e1",
+      "url": "https://open.spotify.com/track/1Zta013L8lvFsTjmnF34B6"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1755,18 +1755,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Sajni",
-        "url": "https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar"
+        "name": "Media Tinta",
+        "url": "https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2"
       },
       "artists": [
         {
-          "name": "The Yellow Diary",
-          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
+          "name": "Sofia Ellar",
+          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
         }
       ],
-      "duration_ms": 298000,
-      "name": "Sajni",
-      "url": "https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9"
+      "duration_ms": 234340,
+      "name": "Media Tinta",
+      "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Media Tinta",
-        "url": "https://open.spotify.com/album/3fy0AQR7nr6OnEMrhgymm2"
+        "name": "Sajni",
+        "url": "https://open.spotify.com/album/41YV2heM2DxkpqNZQKBiar"
       },
       "artists": [
         {
-          "name": "Sofia Ellar",
-          "url": "https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR"
+          "name": "The Yellow Diary",
+          "url": "https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc"
         }
       ],
-      "duration_ms": 234340,
-      "name": "Media Tinta",
-      "url": "https://open.spotify.com/track/05Xna7BUYBWuvEPdBNOq7t"
+      "duration_ms": 298000,
+      "name": "Sajni",
+      "url": "https://open.spotify.com/track/1PvMhEinxD26qgSbyzdsh9"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Madhaniyan (Live)",
-        "url": "https://open.spotify.com/album/1JQBJ5I4LF77Q6XHSvuPN1"
-      },
-      "artists": [
-        {
-          "name": "Neha Bhasin",
-          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
-        }
-      ],
-      "duration_ms": 261592,
-      "name": "Madhaniyan (Live)",
-      "url": "https://open.spotify.com/track/6xuGNFWVVz2VKn56MSkT3D"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "yours, sincerely",
         "url": "https://open.spotify.com/album/43b8UZkmMf0dVTktnr7qTO"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 271191,
       "name": "Black",
       "url": "https://open.spotify.com/track/52KkasHx39h4QJ5yiEcw1n"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Madhaniyan (Live)",
+        "url": "https://open.spotify.com/album/1JQBJ5I4LF77Q6XHSvuPN1"
+      },
+      "artists": [
+        {
+          "name": "Neha Bhasin",
+          "url": "https://open.spotify.com/artist/4E5oyNFcB3uXLkLdjYmP9Z"
+        }
+      ],
+      "duration_ms": 261592,
+      "name": "Madhaniyan (Live)",
+      "url": "https://open.spotify.com/track/6xuGNFWVVz2VKn56MSkT3D"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2323,22 +2323,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "SICK",
-        "url": "https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3"
-      },
-      "artists": [
-        {
-          "name": "Adam Hender",
-          "url": "https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB"
-        }
-      ],
-      "duration_ms": 239803,
-      "name": "Sick",
-      "url": "https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Tum Jaisi Ho",
         "url": "https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 331607,
       "name": "D\u00fc\u015ft\u00fc\u011f\u00fcm Gibi Kalkar\u0131m - Akustikhane",
       "url": "https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "SICK",
+        "url": "https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3"
+      },
+      "artists": [
+        {
+          "name": "Adam Hender",
+          "url": "https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB"
+        }
+      ],
+      "duration_ms": 239803,
+      "name": "Sick",
+      "url": "https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR"
     },
     {
       "added_at": "2022-10-17 15:00:00",
@@ -2439,22 +2439,6 @@
     {
       "added_at": "2022-10-17 15:00:00",
       "album": {
-        "name": "Burnout",
-        "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
-      },
-      "artists": [
-        {
-          "name": "Calby",
-          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
-        }
-      ],
-      "duration_ms": 187535,
-      "name": "The Everyday Bit",
-      "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
-    },
-    {
-      "added_at": "2022-10-17 15:00:00",
-      "album": {
         "name": "Cardamom Tea",
         "url": "https://open.spotify.com/album/0O1cH9xGBP2R9op3r2p3bq"
       },
@@ -2467,6 +2451,22 @@
       "duration_ms": 221714,
       "name": "Cardamom Tea",
       "url": "https://open.spotify.com/track/66ny3dMX2VHExd8qX9KaTh"
+    },
+    {
+      "added_at": "2022-10-17 15:00:00",
+      "album": {
+        "name": "Burnout",
+        "url": "https://open.spotify.com/album/6k47ejXCq00U0GjjDlhBdJ"
+      },
+      "artists": [
+        {
+          "name": "Calby",
+          "url": "https://open.spotify.com/artist/0G0umTp1UkZhB0Jd6N1oOa"
+        }
+      ],
+      "duration_ms": 187535,
+      "name": "The Everyday Bit",
+      "url": "https://open.spotify.com/track/0FA50lbxlU1lY24uhT8nkp"
     },
     {
       "added_at": "2022-10-17 15:00:00",

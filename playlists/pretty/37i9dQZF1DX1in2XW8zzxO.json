@@ -1,12 +1,12 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 42847,
+  "num_followers": 43065,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZmJhNGQyZTE3YjhiNTY1NjkxZGI2OGFhYmE4YjQ2M2MxZDQxYTJl",
+  "snapshot_id": "MCw3ZjI2MTUxZDU3ZWYxMTBmYzBjMjA4MDAxODgyOGE0Y2NmNWEyZDBk",
   "tracks": [
     {
       "added_at": "2023-10-05 23:00:00",
@@ -270,10 +270,14 @@
         {
           "name": "LeeMcKrazy",
           "url": "https://open.spotify.com/artist/5vFGtc23dtvt3f7FSK7vtg"
+        },
+        {
+          "name": "TitoM",
+          "url": "https://open.spotify.com/artist/5eYSqn4LCXLgIFYR4qOZ1k"
         }
       ],
       "duration_ms": 385731,
-      "name": "Moratata (feat. Leemckrazy)",
+      "name": "Moratata (feat. Leemckrazy & TitoM)",
       "url": "https://open.spotify.com/track/6S8s9bbemYqPI4VUpwNOBh"
     },
     {
@@ -624,7 +628,7 @@
       "added_at": "2023-10-05 23:00:00",
       "album": {
         "name": "Masego",
-        "url": "https://open.spotify.com/album/1eBp7lKuofxvC46hCYml0u"
+        "url": "https://open.spotify.com/album/3SQvKMjiNxWvup5k9HnX6c"
       },
       "artists": [
         {
@@ -637,8 +641,8 @@
         }
       ],
       "duration_ms": 411952,
-      "name": "Mang' Dakiwe (feat. Leon Lee)",
-      "url": "https://open.spotify.com/track/2uHImha8ZRh5gDQAsCzcle"
+      "name": "Mang' Dakiwe",
+      "url": "https://open.spotify.com/track/5MYAArfzgqwgyhR6XFRwGq"
     },
     {
       "added_at": "2023-10-05 23:00:00",
@@ -1203,8 +1207,8 @@
     {
       "added_at": "2023-10-05 23:00:00",
       "album": {
-        "name": "John Vuli Gate (feat. Ntosh Gazi & Colano)",
-        "url": "https://open.spotify.com/album/1MOJaKNs5h3Pz5gA8WAc7r"
+        "name": "John Vuli Gate",
+        "url": "https://open.spotify.com/album/2LV2PfwatDDB9HeMs9NeH0"
       },
       "artists": [
         {
@@ -1212,17 +1216,17 @@
           "url": "https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih"
         },
         {
-          "name": "Colano",
-          "url": "https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI"
-        },
-        {
           "name": "Ntosh Gazi",
           "url": "https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY"
+        },
+        {
+          "name": "Colano",
+          "url": "https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI"
         }
       ],
       "duration_ms": 355033,
-      "name": "John Vuli Gate (feat. Ntosh Gazi & Colano)",
-      "url": "https://open.spotify.com/track/7IAMurey3mCF73caRZcdOC"
+      "name": "John Vuli Gate",
+      "url": "https://open.spotify.com/track/0iHnYSPIQlmQzo1NVN6kRJ"
     },
     {
       "added_at": "2023-10-05 23:00:00",

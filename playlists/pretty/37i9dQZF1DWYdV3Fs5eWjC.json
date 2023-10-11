@@ -1,12 +1,12 @@
 {
   "description": "Discover the multifaceted creativity of the black queer community. Cover: Janelle Mon\u00e1e",
-  "num_followers": 76027,
+  "num_followers": 76028,
   "original_name": "Black, Queer, & Proud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTEzZThlZWEyYWI3ZDNmN2IyZjY3MjljMDVhMGMyZTFmMDE3YWYx",
+  "snapshot_id": "MCxiYmRmZTVmZTJiZDQyMDNmMDEyY2M0NWY1ZTRiMmZmNTNkMTE2YjAw",
   "tracks": [
     {
       "added_at": "2021-08-03 17:22:27",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-10-05 17:45:18",
       "album": {
-        "name": "Risk",
-        "url": "https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo"
-      },
-      "artists": [
-        {
-          "name": "Idman",
-          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Beach",
-      "url": "https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc"
-    },
-    {
-      "added_at": "2023-10-05 17:45:18",
-      "album": {
         "name": "Switching Sides (feat. Dee Gatti)",
         "url": "https://open.spotify.com/album/0t0KTaeuABJBI0XiNM9vyr"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 139794,
       "name": "Switching Sides (feat. Dee Gatti)",
       "url": "https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863"
+    },
+    {
+      "added_at": "2023-10-05 17:45:18",
+      "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo"
+      },
+      "artists": [
+        {
+          "name": "Idman",
+          "url": "https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Beach",
+      "url": "https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc"
     }
   ],
   "unique_name": "Black, Queer, & Proud",

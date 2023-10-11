@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 
 > From sultry vocalists, sexy divas to cutesy girl\-groups, the women of K\-Pop are a formidable force to be reckoned with\. \(Cover: HWASA\) \(케이팝을 대표하는 한국의 여성 가수들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 948,443 likes - 64 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 948,518 likes - 64 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,10 +67,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Cy4Vr7Hu2y.md) - [plain]
 | 57 | [MOONLIGHT SUNRISE](https://open.spotify.com/track/5IN9W6eUfk3014My9awagX) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [READY TO BE](https://open.spotify.com/album/7hzP5i7StxYG4StECA0rrJ) | 3:00 |
 | 58 | [SNEAKERS](https://open.spotify.com/track/2WoluqyWzsgRmFCeHeGlnm) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CHECKMATE](https://open.spotify.com/album/64EGnoCD5NuC41OqQ3E7UK) | 2:59 |
 | 59 | [La Vie en Rose](https://open.spotify.com/track/3WfaJhCL4p2JbdffJjV6Va) | [IZ\*ONE](https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH) | [COLOR\*IZ](https://open.spotify.com/album/5Fl13rfH2DRRTo6OV4ecJY) | 3:38 |
-| 60 | [Hate Rodrigo \(Feat\. YUQI\)](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 3:01 |
+| 60 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 |
 | 61 | [Teddy Bear](https://open.spotify.com/track/4kSDi21MeOoSvpZs6MveI9) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Teddy Bear](https://open.spotify.com/album/325MEzmbNCQvjsP3oaJh4x) | 3:09 |
-| 62 | [WA DA DA](https://open.spotify.com/track/4gdiCHNbwugojBqr5Jt3pq) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [FIRST IMPACT](https://open.spotify.com/album/7pHyAucSgWoDNlFHfhQfVN) | 3:03 |
+| 62 | [Hate Rodrigo \(Feat\. YUQI\)](https://open.spotify.com/track/5ms7rcVKjBFUtoVh8hE0Y9) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [HATE XX](https://open.spotify.com/album/3aYLtPSWEqmcLTCfM0ZYl7) | 3:01 |
 | 63 | [Rollin'](https://open.spotify.com/track/6SQUopvuZyrWYjYayxxSXl) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin'](https://open.spotify.com/album/3FuZ0bCYhMcoex6KN0F360) | 3:17 |
 | 64 | [Young, Dumb, Stupid](https://open.spotify.com/track/09BWOhiJUaYufcOiKCA973) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/4OEXCY70MiuMJaenbxxRb2) | 3:10 |
 
-Snapshot ID: `MCxhM2IyMWRhOTc3ZDE0MGJkNWE3OWI3Y2E3MDZlMjJiMjc5MzkyNjBl`
+Snapshot ID: `MCwzODk5NDUwOTRkNmMyM2RlMTRiM2EyZmZjNWFmYWZmNWQ2ZDRlMDZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,276 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,251 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 23 | [Apología de una Amigdala Inflamada](https://open.spotify.com/track/34sNFlKyNs9IjmdUttxtWA) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Apología de una Amigdala Inflamada](https://open.spotify.com/album/5LEInPf0wx6Z0zvKkI72PQ) | 2:32 |
 | 24 | [Barco de Papel](https://open.spotify.com/track/5Pv4XZQu60gd4BeFKUgjna) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Barco de Papel](https://open.spotify.com/album/7HmHk8sLbDpg8t3rO8PSz1) | 3:32 |
 | 25 | [Algún Contexto](https://open.spotify.com/track/3VthvpD7tsAm5lybsXWXX1) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Armenia](https://open.spotify.com/album/4tT3ltCmgXpxtVuYTWN1bm) | 2:54 |
-| 26 | [Ahora Me Cuesta](https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L) | [La Pestilencia](https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3) | [Productos Desaparecidos](https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG) | 3:45 |
-| 27 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 |
+| 26 | [Nómada](https://open.spotify.com/track/2J4drmgsDr6u7EP3DvyN9A) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Nómada](https://open.spotify.com/album/4tUaCFfhnftL5Eg6li46K6) | 4:47 |
+| 27 | [Ahora Me Cuesta](https://open.spotify.com/track/3kpmzwSyKbVhGxu6Rvme0L) | [La Pestilencia](https://open.spotify.com/artist/09N5SuYvKJPb6mX34qfeM3) | [Productos Desaparecidos](https://open.spotify.com/album/1JyFH6v4N1WNofSsCRcYiG) | 3:45 |
 | 28 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 29 | [Hacia la Noche](https://open.spotify.com/track/2vd58HO8mKz1yBkh2mJjlo) | [Diamante Eléctrico](https://open.spotify.com/artist/4VAZ6unMJx5upeWn0aFYuo) | [Buitres](https://open.spotify.com/album/1DQ3KAs2WuIVMVKwrEeseh) | 3:55 |
 | 30 | [Somos Coyotes](https://open.spotify.com/track/0RGuPZmtJxMblQwZIvcNsQ) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI) | [Doce Vientos](https://open.spotify.com/album/7iJkzoo9QSgy0nW13uIohq) | 3:42 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 59 | [Analogía de una Laguna](https://open.spotify.com/track/25dVgkeJ3KPjcYBrswDFfJ) | [Margarita Siempre Viva](https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH) | [Analogía de una Laguna](https://open.spotify.com/album/723DfEBve0LRScRimGdq9c) | 3:30 |
 | 60 | [Sigo](https://open.spotify.com/track/55zNzKBlbbSBMKmeDAuq3I) | [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Sigo](https://open.spotify.com/album/3Zrd8cJji2EZsKcO4loQ6K) | 3:19 |
 
-Snapshot ID: `MCw4OGZkNzY5ZGZkOTU4ZWQ2YmI3OTdjN2E2NTdjYTMzNTMxMWQyMzQ5`
+Snapshot ID: `MCxmZWRjYjJhYTc4ZWM2YzQ4MjZlN2Q4MjU2YjU4NTc3NjIzZmIwZDUy`

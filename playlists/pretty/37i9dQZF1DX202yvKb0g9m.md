@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 
 > A collection of tracks produced with the legendary TB\-303 rhythm composer\. Cover: Richie Hawtin
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,339 likes - 50 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,373 likes - 50 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 14 | [Cornish Acid](https://open.spotify.com/track/4aRLOuRBuy3FhHkHJfCqDR) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 2:14 |
 | 15 | [No Way Back](https://open.spotify.com/track/7nQaBI1NTv5kpPyeMruTTK) | [Adonis](https://open.spotify.com/artist/3DxtKajg4nhMlf0qBES7sz) | [No Way Back](https://open.spotify.com/album/2VNvQnGB9tXRpLV2aOVrmX) | 4:55 |
 | 16 | [Acperience 1](https://open.spotify.com/track/2IQ61J0AFfjnxBm4lQEU0W) | [Hardfloor](https://open.spotify.com/artist/6z9JhbmcTrVKITp9ah4mJk) | [TB Resucitation](https://open.spotify.com/album/2ucG4BEW3uOUQgjdJ9c5GN) | 9:02 |
-| 17 | [I Love Acid](https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD) | 4:17 |
-| 18 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
+| 17 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
+| 18 | [I Love Acid](https://open.spotify.com/track/4BR6nukSZQ2AhNAoaHrtdw) | [Luke Vibert](https://open.spotify.com/artist/0HfxCluo7N2dhr4oRM0wBv) | [YosepH](https://open.spotify.com/album/3qbvYXMKBxCEP6WHZBJktD) | 4:17 |
 | 19 | [Defiant order](https://open.spotify.com/track/2VkcdC0qHtOpn0VB0hzvpJ) | [Birdy Nam Nam](https://open.spotify.com/artist/4e7qJTThm5uI3CplqZObfT) | [Defiant Order](https://open.spotify.com/album/5bPX46ziWG24Ay3GVr9m35) | 3:42 |
 | 20 | [Charlie can't dance](https://open.spotify.com/track/1SPtQ4u1JIz7u4PRXYCqiY) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [stuff i used to do](https://open.spotify.com/album/3NqLE9V39dR0Pikwv1hYAA) | 2:21 |
 | 21 | [Do I Do \- Extended Mix](https://open.spotify.com/track/26qBSwDTiiydtbXibx6fuq) | [Maurice McGee](https://open.spotify.com/artist/5LjPmruRksinKkKw8s81H2) | [Do I Do](https://open.spotify.com/album/1HVxSZYaIqn7ckoaIUhy5C) | 7:14 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 31 | [Commuter](https://open.spotify.com/track/587ctTTmgozFfNlVTCXYJ2) | [Ceephax Acid Crew](https://open.spotify.com/artist/3Q0VPr02bPlokDVsv5T90I) | [United Acid Emirates](https://open.spotify.com/album/6mANZenVe14ONb3NDd4EDb) | 5:31 |
 | 32 | [Acid Tracks](https://open.spotify.com/track/63eiF9VouGtmhiBKjm1LHU) | [Phuture](https://open.spotify.com/artist/4y7BsfdIKQ7Of5SskHej70) | [Acid Tracks](https://open.spotify.com/album/3yXJAOqJTv38NrPlwzCZro) | 12:19 |
 | 33 | [Arrival](https://open.spotify.com/track/28a79mD2Tkuz5gz7gEVxaJ) | [MATRiXXMAN](https://open.spotify.com/artist/2KYGpc3Hn1KG7uw7CxQB2y) | [Sector II: Acid](https://open.spotify.com/album/4MAJPXXQDS2icpR3MqUq8U) | 7:45 |
-| 34 | [Firecracker](https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx) | [Todd Terje & The Olsens](https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq) | [The Big Cover\-Up](https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt) | 6:31 |
-| 35 | [Miserablism \- 2018 Remaster](https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Behaviour: Further Listening 1990 \- 1991 \(2018 Remaster\)](https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET) | 4:07 |
+| 34 | [Miserablism \- 2018 Remaster](https://open.spotify.com/track/6DRXOyjJK2HN3tgl1LbACA) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Behaviour: Further Listening 1990 \- 1991 \(2018 Remaster\)](https://open.spotify.com/album/52coGwksoCtU0ZfSjgGRET) | 4:07 |
+| 35 | [Firecracker](https://open.spotify.com/track/61FZNafhhexdpEngWny5Wx) | [Todd Terje & The Olsens](https://open.spotify.com/artist/6JClxoCdn17qYJRwYDWDqq) | [The Big Cover\-Up](https://open.spotify.com/album/1p5C7xu6fz7z6IOVPWCIGt) | 6:31 |
 | 36 | [What Time Is Love / Time Of Love](https://open.spotify.com/track/2zxLPxHy1VCVfjayfTEV3u) | [K.l.f.s.](https://open.spotify.com/artist/0KlyyTMu0e8jWOmSfjt4Sj) | [What Time Is Love](https://open.spotify.com/album/50K3nUg5BsHNbzs79p2Zh7) | 6:15 |
 | 37 | [Auto Machine](https://open.spotify.com/track/16qMkS25a2cS1xEV9S3wwC) | [Osunlade](https://open.spotify.com/artist/4mHngi71hWNKTRuyl3W9FY) | [Basic Sketches For Beginners](https://open.spotify.com/album/61MlV5v8LMdY0wR13gZMuq) | 9:50 |
 | 38 | [The Smell Of Suds And Steel](https://open.spotify.com/track/0wZ7yAcRnaY9Lz0YJiSizK) | [Helena Hauff](https://open.spotify.com/artist/1JcefSOP7bcWEluL0iEIaN) | [Qualm](https://open.spotify.com/album/2hYmcjIinZoVCog5sP4k0H) | 8:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX202yvKb0g9m.md) - [plain]
 | 49 | [Everybody Needs A 303](https://open.spotify.com/track/3JoEudxv4MYugQXrxMSUVs) | [Fatboy Slim](https://open.spotify.com/artist/4Y7tXHSEejGu1vQ9bwDdXW) | [Better Living Through Chemistry](https://open.spotify.com/album/4q9EafI4cNCb3yMjEPoPCB) | 5:49 |
 | 50 | [Do You Feel The Same?](https://open.spotify.com/track/0irwK3Hld6BTGAWH9CFjop) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [The Feast Of The Broken Heart](https://open.spotify.com/album/6fyz9Ic9kY0zdayyNOpoKH) | 4:41 |
 
-Snapshot ID: `MCwzMGI1ZDE1ODE1OWI5YTA0ZDFmMjMwODFiMzZlMWEwNzQyOTc5OTll`
+Snapshot ID: `MCxiOGE0M2Q1ZmViMmM0OGYwOWQ5NzA2OWE3MWJjNDk2NjhkMTQwY2Y3`

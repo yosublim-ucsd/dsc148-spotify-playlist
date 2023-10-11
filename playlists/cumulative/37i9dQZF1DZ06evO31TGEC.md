@@ -4,7 +4,7 @@
 
 > This is El Chapo De Sinaloa\. The essential tracks, all in one playlist.
 
-74 songs - 3 hr 43 min
+75 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,8 @@
 | [Si Te Agarran Las Ganas](https://open.spotify.com/track/5Yc2e9umwB41EAAdt3ywTe) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 2:47 | 2022-06-01 |  |
 | [Si Yo Fuera Ladrón](https://open.spotify.com/track/3smCnGYSUF8BwNDjbpAZZA) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Tu Yo Y La Luna](https://open.spotify.com/album/6TaajQPlK5bJgltZtbWxF9) | 3:20 | 2022-06-01 |  |
 | [Sueño De Amor](https://open.spotify.com/track/4UIGSDbEbBGM2GDUentqRe) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Mis Decretos](https://open.spotify.com/album/1l4cvjCrT3h7TJWtUoJ5TQ) | 3:13 | 2022-06-01 |  |
-| [Sí Te Llamé](https://open.spotify.com/track/1FOiBAz7YauO4EfjzjxI54) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 3:42 | 2022-06-01 |  |
+| [Sí Te Llamé](https://open.spotify.com/track/0jSpFvnSfDN76zDtxXg4mW) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Para Siempre](https://open.spotify.com/album/1NJu91OmmSIo9xn7vJXIbd) | 3:38 | 2023-10-10 |  |
+| [Sí Te Llamé](https://open.spotify.com/track/1FOiBAz7YauO4EfjzjxI54) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Las Bandas Románticas](https://open.spotify.com/album/3IA8iPRvAC08B44kHiOFfr) | 3:42 | 2022-06-01 | 2023-10-11 |
 | [Te Amo](https://open.spotify.com/track/6lEhR4Y8eaC0TRscLMoFG3) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Triunfador](https://open.spotify.com/album/2G0Mvzab2JrxgJdNpoD9dU) | 2:52 | 2022-06-01 |  |
 | [Te Extraño](https://open.spotify.com/track/4NJtRhRFKjodwYKFBa2NRc) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [Te Va A Gustar](https://open.spotify.com/album/55gLZanxNh5UDbrRMv6cCU) | 3:18 | 2022-09-30 | 2022-10-02 |
 | [Tengo Celos](https://open.spotify.com/track/65Mn4u3S7pgxxn424KcuZ5) | [El Chapo De Sinaloa](https://open.spotify.com/artist/59Ih0XIAzMXq7Yf9ny3u5t) | [La Noche Perfecta](https://open.spotify.com/album/1VGvkh26EO1xl365vgz7UT) | 2:51 | 2022-06-01 |  |

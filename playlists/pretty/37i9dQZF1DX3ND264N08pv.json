@@ -1,12 +1,12 @@
 {
   "description": "Hardcore and uptempo to get you pumped",
-  "num_followers": 60408,
+  "num_followers": 60572,
   "original_name": "Hardcore Rage 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDljNTgzY2E1YjcyOWUwOTRjZDAyNGQ0NDU5NWUwZTM0M2I1YmI3",
+  "snapshot_id": "MCxhNGQ1NzUzMjZiMTNhM2NkZDliMjE0M2E1ODVkODk4NGEwZDcxMDQx",
   "tracks": [
     {
       "added_at": "2023-10-06 11:45:29",
@@ -347,6 +347,22 @@
     {
       "added_at": "2023-10-06 11:45:29",
       "album": {
+        "name": "F#ck The Haters",
+        "url": "https://open.spotify.com/album/3EgcPoSBiZCFK8QhKU6buM"
+      },
+      "artists": [
+        {
+          "name": "Mutilator",
+          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+        }
+      ],
+      "duration_ms": 147003,
+      "name": "F#ck The Haters",
+      "url": "https://open.spotify.com/track/2MkEOJ1yZ1wBk1Sx022OTo"
+    },
+    {
+      "added_at": "2023-10-06 11:45:29",
+      "album": {
         "name": "Terrified",
         "url": "https://open.spotify.com/album/4tD5GB1lBAMJLWqZDif3Ae"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 202040,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/0TYBkC9jZ5b8FPW7kn673t"
-    },
-    {
-      "added_at": "2023-10-06 11:45:29",
-      "album": {
-        "name": "F#ck The Haters",
-        "url": "https://open.spotify.com/album/3EgcPoSBiZCFK8QhKU6buM"
-      },
-      "artists": [
-        {
-          "name": "Mutilator",
-          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
-        }
-      ],
-      "duration_ms": 147003,
-      "name": "F#ck The Haters",
-      "url": "https://open.spotify.com/track/2MkEOJ1yZ1wBk1Sx022OTo"
     },
     {
       "added_at": "2023-10-06 11:45:29",
@@ -419,18 +419,18 @@
     {
       "added_at": "2023-10-06 11:45:29",
       "album": {
-        "name": "Raver",
-        "url": "https://open.spotify.com/album/14dF0WfiWvhDWZGBh0sv4W"
+        "name": "You Can't Stop Me",
+        "url": "https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ"
       },
       "artists": [
         {
-          "name": "The Dope Doctor",
-          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
         }
       ],
-      "duration_ms": 132846,
-      "name": "Raver",
-      "url": "https://open.spotify.com/track/5avzhrNSqYgb4juAOzwyEz"
+      "duration_ms": 199200,
+      "name": "You Can't Stop Me",
+      "url": "https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid"
     },
     {
       "added_at": "2023-10-06 11:45:29",
@@ -451,18 +451,18 @@
     {
       "added_at": "2023-10-06 11:45:29",
       "album": {
-        "name": "You Can't Stop Me",
-        "url": "https://open.spotify.com/album/2ebP1DLH7d1TDWicgcLAHQ"
+        "name": "Raver",
+        "url": "https://open.spotify.com/album/14dF0WfiWvhDWZGBh0sv4W"
       },
       "artists": [
         {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+          "name": "The Dope Doctor",
+          "url": "https://open.spotify.com/artist/5aoT8gj20bt8UN42nzbAHh"
         }
       ],
-      "duration_ms": 199200,
-      "name": "You Can't Stop Me",
-      "url": "https://open.spotify.com/track/1tuBppcw5aSqMNnGUmXcid"
+      "duration_ms": 132846,
+      "name": "Raver",
+      "url": "https://open.spotify.com/track/5avzhrNSqYgb4juAOzwyEz"
     },
     {
       "added_at": "2023-10-06 11:45:29",
@@ -563,6 +563,26 @@
     {
       "added_at": "2023-10-06 11:45:29",
       "album": {
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8"
+      },
+      "artists": [
+        {
+          "name": "Miss K8",
+          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
+        },
+        {
+          "name": "D-Sturb",
+          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
+        }
+      ],
+      "duration_ms": 221368,
+      "name": "Dope Sh!t",
+      "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
+    },
+    {
+      "added_at": "2023-10-06 11:45:29",
+      "album": {
         "name": "Fat Beat",
         "url": "https://open.spotify.com/album/4FxTlGHqQ4Xl6S5QByZEBl"
       },
@@ -619,26 +639,6 @@
       "duration_ms": 191999,
       "name": "U Will Be Mine",
       "url": "https://open.spotify.com/track/7qZhWZkh309jgVao0Jo8DO"
-    },
-    {
-      "added_at": "2023-10-06 11:45:29",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/1YnDpDHRlgSwkwZaqmAVy8"
-      },
-      "artists": [
-        {
-          "name": "Miss K8",
-          "url": "https://open.spotify.com/artist/776uRsooWrGiVZkVWtvfgO"
-        },
-        {
-          "name": "D-Sturb",
-          "url": "https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO"
-        }
-      ],
-      "duration_ms": 221368,
-      "name": "Dope Sh!t",
-      "url": "https://open.spotify.com/track/3NXA25q68QQgGVKPx4SIhs"
     },
     {
       "added_at": "2023-10-06 11:45:29",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-10-06 11:45:29",
       "album": {
+        "name": "The Chop Game",
+        "url": "https://open.spotify.com/album/77fohbVi79RssB18lmWX1S"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "The Chop Game",
+      "url": "https://open.spotify.com/track/4jp0Z4REkbEeGmSgTlf18C"
+    },
+    {
+      "added_at": "2023-10-06 11:45:29",
+      "album": {
         "name": "Woo",
         "url": "https://open.spotify.com/album/3Zf6HFquFGMyFJrVCvp2bB"
       },
@@ -727,6 +743,26 @@
       "duration_ms": 217652,
       "name": "Woo",
       "url": "https://open.spotify.com/track/0EpqkTQgogq6iHpeOwEoGh"
+    },
+    {
+      "added_at": "2023-10-06 11:45:29",
+      "album": {
+        "name": "Go Insane",
+        "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
+      },
+      "artists": [
+        {
+          "name": "Anime",
+          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
+        },
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Go Insane",
+      "url": "https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w"
     },
     {
       "added_at": "2023-10-06 11:45:29",
@@ -755,38 +791,18 @@
     {
       "added_at": "2023-10-06 11:45:29",
       "album": {
-        "name": "The Chop Game",
-        "url": "https://open.spotify.com/album/77fohbVi79RssB18lmWX1S"
+        "name": "LOSE STRESS",
+        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
       },
       "artists": [
         {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+          "name": "LunaKorpz",
+          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
         }
       ],
-      "duration_ms": 187200,
-      "name": "The Chop Game",
-      "url": "https://open.spotify.com/track/4jp0Z4REkbEeGmSgTlf18C"
-    },
-    {
-      "added_at": "2023-10-06 11:45:29",
-      "album": {
-        "name": "Go Insane",
-        "url": "https://open.spotify.com/album/4R8s9MjRlSZvddk9uleGeG"
-      },
-      "artists": [
-        {
-          "name": "Anime",
-          "url": "https://open.spotify.com/artist/6lnEWBl7dhcA1FL5yqRHPO"
-        },
-        {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Go Insane",
-      "url": "https://open.spotify.com/track/1oe3wAz4XvMtn6nFoldM1w"
+      "duration_ms": 168101,
+      "name": "LOSE STRESS",
+      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
     },
     {
       "added_at": "2023-10-06 11:45:29",
@@ -803,22 +819,6 @@
       "duration_ms": 171000,
       "name": "Take Me High",
       "url": "https://open.spotify.com/track/0ojP7HmCeflp0I0ZUmT8JI"
-    },
-    {
-      "added_at": "2023-10-06 11:45:29",
-      "album": {
-        "name": "LOSE STRESS",
-        "url": "https://open.spotify.com/album/2OKZCUdcVh8mCgPZEpQBhZ"
-      },
-      "artists": [
-        {
-          "name": "LunaKorpz",
-          "url": "https://open.spotify.com/artist/2OSIL8pcABTROov8XT74z1"
-        }
-      ],
-      "duration_ms": 168101,
-      "name": "LOSE STRESS",
-      "url": "https://open.spotify.com/track/1awFS7E8LutYumdpdYGq7M"
     },
     {
       "added_at": "2023-10-06 11:45:29",
@@ -895,6 +895,22 @@
     {
       "added_at": "2023-10-06 11:45:29",
       "album": {
+        "name": "Without Respect",
+        "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
+      },
+      "artists": [
+        {
+          "name": "System of Fury",
+          "url": "https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Without Respect",
+      "url": "https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd"
+    },
+    {
+      "added_at": "2023-10-06 11:45:29",
+      "album": {
         "name": "Burn MF",
         "url": "https://open.spotify.com/album/3xQTtEFddnUR8jjHR36RUh"
       },
@@ -951,18 +967,38 @@
     {
       "added_at": "2023-10-06 11:45:29",
       "album": {
-        "name": "Without Respect",
-        "url": "https://open.spotify.com/album/1HchmgP9OViO0fwt5IJGhw"
+        "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
+        "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
       },
       "artists": [
         {
-          "name": "System of Fury",
-          "url": "https://open.spotify.com/artist/6Qzf4osFUb1YZBMynU2FmN"
+          "name": "Dj Mad Dog",
+          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
+        },
+        {
+          "name": "Dave Revan",
+          "url": "https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Without Respect",
-      "url": "https://open.spotify.com/track/4jnzaXsBg7Y938Q7Po9LFd"
+      "duration_ms": 235734,
+      "name": "The Roots - Official Harmony of Hardcore 2023 Anthem",
+      "url": "https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8"
+    },
+    {
+      "added_at": "2023-10-06 11:45:29",
+      "album": {
+        "name": "I'm A Raver",
+        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
+      },
+      "artists": [
+        {
+          "name": "Never Surrender",
+          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+        }
+      ],
+      "duration_ms": 205664,
+      "name": "I'm A Raver",
+      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
     },
     {
       "added_at": "2023-10-06 11:45:29",
@@ -991,54 +1027,22 @@
     {
       "added_at": "2023-10-06 11:45:29",
       "album": {
-        "name": "I'm A Raver",
-        "url": "https://open.spotify.com/album/6ZGaPeQGX4vnaSu5bOHzEu"
+        "name": "Fight Them All",
+        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
       },
       "artists": [
+        {
+          "name": "Broken Minds",
+          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
+        },
         {
           "name": "Never Surrender",
           "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
         }
       ],
-      "duration_ms": 205664,
-      "name": "I'm A Raver",
-      "url": "https://open.spotify.com/track/1zdCuA3OezPXkK2raYt0BY"
-    },
-    {
-      "added_at": "2023-10-06 11:45:29",
-      "album": {
-        "name": "The Roots (Official Harmony of Hardcore 2023 Anthem)",
-        "url": "https://open.spotify.com/album/7awpx7LqeMQlpGyu5CoBbA"
-      },
-      "artists": [
-        {
-          "name": "Dj Mad Dog",
-          "url": "https://open.spotify.com/artist/7oX7rzli18XsB2WFd88oW4"
-        },
-        {
-          "name": "Dave Revan",
-          "url": "https://open.spotify.com/artist/6lnLf5Y8uD0mP5dC0gXouZ"
-        }
-      ],
-      "duration_ms": 235734,
-      "name": "The Roots - Official Harmony of Hardcore 2023 Anthem",
-      "url": "https://open.spotify.com/track/6z0i14WyHNAdQq889bnSu8"
-    },
-    {
-      "added_at": "2023-10-06 11:45:29",
-      "album": {
-        "name": "Beastmode",
-        "url": "https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY"
-      },
-      "artists": [
-        {
-          "name": "Evil Activities",
-          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
-        }
-      ],
-      "duration_ms": 241333,
-      "name": "Beastmode",
-      "url": "https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU"
+      "duration_ms": 171789,
+      "name": "Fight Them All",
+      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
     },
     {
       "added_at": "2023-10-06 11:45:29",
@@ -1063,22 +1067,18 @@
     {
       "added_at": "2023-10-06 11:45:29",
       "album": {
-        "name": "Fight Them All",
-        "url": "https://open.spotify.com/album/7wY8Z4jVcMXECcIQ83docS"
+        "name": "Beastmode",
+        "url": "https://open.spotify.com/album/4SX8CfWWnB4zeUnvhG1WKY"
       },
       "artists": [
         {
-          "name": "Broken Minds",
-          "url": "https://open.spotify.com/artist/0b2rM3fXiBkA4c1SpSkoqE"
-        },
-        {
-          "name": "Never Surrender",
-          "url": "https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6"
+          "name": "Evil Activities",
+          "url": "https://open.spotify.com/artist/1Y1sNScqx8BPZceaO7LjTO"
         }
       ],
-      "duration_ms": 171789,
-      "name": "Fight Them All",
-      "url": "https://open.spotify.com/track/0rZBe91kLd0h85B9e7T3vR"
+      "duration_ms": 241333,
+      "name": "Beastmode",
+      "url": "https://open.spotify.com/track/2NRNiUqKzAAt2CQL1FWSMU"
     },
     {
       "added_at": "2023-10-06 11:45:29",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2023-10-06 11:45:29",
       "album": {
+        "name": "Not Afraid to Fall",
+        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
+      },
+      "artists": [
+        {
+          "name": "Hyperverb",
+          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
+        }
+      ],
+      "duration_ms": 185230,
+      "name": "Not Afraid to Fall",
+      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
+    },
+    {
+      "added_at": "2023-10-06 11:45:29",
+      "album": {
         "name": "Mutilate",
         "url": "https://open.spotify.com/album/1N5ZJaQFOrT6GJnqUW2c6b"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 230281,
       "name": "Mutilate",
       "url": "https://open.spotify.com/track/5Th8O9vWzImhIqb1kO8TLE"
-    },
-    {
-      "added_at": "2023-10-06 11:45:29",
-      "album": {
-        "name": "Not Afraid to Fall",
-        "url": "https://open.spotify.com/album/45XBkkNEnLzgSQJFWMqo92"
-      },
-      "artists": [
-        {
-          "name": "Hyperverb",
-          "url": "https://open.spotify.com/artist/6wBNWFHe0PIG1p867KLihx"
-        }
-      ],
-      "duration_ms": 185230,
-      "name": "Not Afraid to Fall",
-      "url": "https://open.spotify.com/track/6YLTwVpwO2OwuKPq5MC5oe"
     },
     {
       "added_at": "2023-10-06 11:45:29",

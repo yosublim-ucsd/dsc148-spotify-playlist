@@ -4,7 +4,7 @@
 
 > Altijd fris in Fresh Hits\. Cover: Tino Martin & Mart Hoogkamer
 
-319 songs - 15 hr 19 min
+320 songs - 15 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,6 +116,7 @@
 | [Feeling the Love Again \(Explode\)](https://open.spotify.com/track/4SGrxDaKCNwmsDhfYEBiPd) | [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs), [Michael Rivera](https://open.spotify.com/artist/2637RX1gxx8olEwuYvMyce), [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke) | [Feeling the Love Again \(Explode\)](https://open.spotify.com/album/03NA4ZGn8nBRSmpJfEG29l) | 2:42 | 2023-06-15 | 2023-06-21 |
 | [Fiets](https://open.spotify.com/track/7dXXQRborTggr2w04Ofo1j) | [Tribal Kush](https://open.spotify.com/artist/7fr6F0dEvfSoZW3fJ5fvUD), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI) | [Fiets](https://open.spotify.com/album/7hqt1WB6yK6aqET4FW0yEg) | 1:41 | 2023-02-23 | 2023-03-25 |
 | [Fine Day Anthem](https://open.spotify.com/track/6tifCCTIVBLC2TmTquYG7G) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Fine Day Anthem](https://open.spotify.com/album/2mxzA7momOeBvCyKDgZRIb) | 3:13 | 2023-07-13 | 2023-09-01 |
+| [First Person Shooter \(feat\. J\. Cole\)](https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 4:07 | 2023-10-10 |  |
 | [Flip Flops](https://open.spotify.com/track/6uVTOJ519YPiVjQqV52nse) | [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx) | [Flip Flops](https://open.spotify.com/album/357TcCWG8M77WVXX1xXWmY) | 3:29 | 2023-10-05 |  |
 | [Flowers](https://open.spotify.com/track/0yLdNVWF3Srea0uzk55zFn) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Flowers](https://open.spotify.com/album/7I0tjwFtxUwBC1vgyeMAax) | 3:20 | 2023-02-23 | 2023-03-02 |
 | [Friends ;\)](https://open.spotify.com/track/49SNbAIw8fVt05OzBArbr7) | [Daimy Lotus](https://open.spotify.com/artist/0st9WYbAji9jWuubd0HGDL) | [Friends ;\)](https://open.spotify.com/album/5CrUfeMnviNo7PA8j3lMDk) | 2:33 | 2023-02-23 | 2023-03-28 |
@@ -256,7 +257,7 @@
 | [Sittin' On Top Of The World](https://open.spotify.com/track/4L4m2mgZDF8KIkJPdWWIAf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sittin' On Top Of The World](https://open.spotify.com/album/3QZxr89jANriqgMK02R9Bn) | 2:39 | 2023-06-01 | 2023-07-21 |
 | [Skyboy](https://open.spotify.com/track/2HFigR6saLng0ZUEr9ISCE) | [Duncan Laurence](https://open.spotify.com/artist/3klZnJvYGIbWritVwQD434) | [Skyboy](https://open.spotify.com/album/1aBJUsmDLkDgfeZ2nCqHlm) | 3:31 | 2023-03-23 | 2023-04-15 |
 | [Sliden](https://open.spotify.com/track/2444a4pBCXlAX5dSxXR0t9) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl) | [Sliden EP](https://open.spotify.com/album/4DtdhtDmxanQokbOQmpytY) | 2:11 | 2023-06-01 | 2023-07-01 |
-| [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-15 |  |
+| [Slime You Out \(feat\. SZA\)](https://open.spotify.com/track/3RaCGXCiiMufRPoexXxGkV) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Slime You Out](https://open.spotify.com/album/4DjJtllSDzVDBf7PYtsHaT) | 5:10 | 2023-09-15 | 2023-10-11 |
 | [Slow Low](https://open.spotify.com/track/4MQXkF0FjdlqEHy73IZfoO) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Slow Low](https://open.spotify.com/album/7sjRFU0NZtRbPwAPDlvu8x) | 3:04 | 2023-07-31 | 2023-09-15 |
 | [Snelle Leven](https://open.spotify.com/track/1ZeHGimKwY5ukfq01CxrpE) | [Henkie T](https://open.spotify.com/artist/3n51Vz9Zb9aFmoXmXZ50El), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Starlife](https://open.spotify.com/album/6DI7opq6lLbdMddkNVOxSD) | 3:25 | 2023-03-20 | 2023-03-31 |
 | [Soldier](https://open.spotify.com/track/5tdppmnunAggNDFPkpM1fe) | [Cor](https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3), [KA](https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd) | [Soldier](https://open.spotify.com/album/5GyDKLFgmm6anhrarefEqv) | 2:34 | 2023-03-20 | 2023-03-28 |

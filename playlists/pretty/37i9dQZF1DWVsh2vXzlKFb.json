@@ -1,12 +1,12 @@
 {
   "description": "The t-shirt weather essentials.",
-  "num_followers": 467072,
+  "num_followers": 467151,
   "original_name": "Summer Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OWZlODIyYThkNWM2MjIyYjEwNWNiYTZkNGFkM2Q1M2E5MGMyNDQ2",
+  "snapshot_id": "MCwxYjJkZDcyY2JlMzNiNzBjMjk2MDVhOWFiMGMyNjcxZDJhMzZiOTQy",
   "tracks": [
     {
       "added_at": "2023-08-08 22:15:15",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Living In A Haze",
-        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
-      },
-      "artists": [
-        {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
-        }
-      ],
-      "duration_ms": 173369,
-      "name": "Living In A Haze",
-      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "Cyclones and Hey Lover",
         "url": "https://open.spotify.com/album/076hhK2bCjHhQJqWY7wRh0"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 162560,
       "name": "Hey Lover!",
       "url": "https://open.spotify.com/track/7rC3P7tpWriaC4hYWKwGQd"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Living In A Haze",
+        "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
+      },
+      "artists": [
+        {
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+        }
+      ],
+      "duration_ms": 173369,
+      "name": "Living In A Haze",
+      "url": "https://open.spotify.com/track/3yfki4r5cgFA784trLoHnk"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Punisher",
-        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 184524,
-      "name": "Kyoto",
-      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "Del Water Gap",
         "url": "https://open.spotify.com/album/22ljnmjYzy4TS5tCtaRIUE"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 199232,
       "name": "Ode to a Conversation Stuck in Your Throat",
       "url": "https://open.spotify.com/track/51Lf3l6wx008NdBxCQnD6B"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Punisher",
+        "url": "https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 184524,
+      "name": "Kyoto",
+      "url": "https://open.spotify.com/track/4vjvx7Zxkb4AltGcZ0BBvI"
     },
     {
       "added_at": "2023-07-24 22:20:42",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Loving In Stereo",
-        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
-      },
-      "artists": [
-        {
-          "name": "Jungle",
-          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
-        }
-      ],
-      "duration_ms": 240880,
-      "name": "Keep Moving",
-      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
         "name": "Preacher\u2019s Daughter",
         "url": "https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 258418,
       "name": "American Teenager",
       "url": "https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Loving In Stereo",
+        "url": "https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "duration_ms": 240880,
+      "name": "Keep Moving",
+      "url": "https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf"
     },
     {
       "added_at": "2023-07-24 22:20:42",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f"
     },
     {
-      "added_at": "2023-08-04 12:43:17",
-      "album": {
-        "name": "Peanut Butter & Tears",
-        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 225613,
-      "name": "Peanut Butter & Tears",
-      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
-    },
-    {
       "added_at": "2023-07-21 10:48:21",
       "album": {
         "name": "Torches",
@@ -975,6 +959,22 @@
       "duration_ms": 202466,
       "name": "Houdini",
       "url": "https://open.spotify.com/track/5Fli1xRi01bvCjsZvKWro0"
+    },
+    {
+      "added_at": "2023-08-04 12:43:17",
+      "album": {
+        "name": "Peanut Butter & Tears",
+        "url": "https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 225613,
+      "name": "Peanut Butter & Tears",
+      "url": "https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1483,18 +1483,18 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
-        "name": "Jubilee",
-        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0"
       },
       "artists": [
         {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 195370,
-      "name": "Be Sweet",
-      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+      "duration_ms": 252987,
+      "name": "Roddy",
+      "url": "https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
+        "name": "Jubilee",
+        "url": "https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 195370,
+      "name": "Be Sweet",
+      "url": "https://open.spotify.com/track/0dpyzcT3RMNNSd2xKBf35I"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
         "name": "Gone Now",
         "url": "https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ"
       },
@@ -1527,70 +1543,6 @@
       "duration_ms": 215546,
       "name": "Don't Take The Money",
       "url": "https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 252987,
-      "name": "Roddy",
-      "url": "https://open.spotify.com/track/5hS8s1Vf4CeSRBT1bTWa39"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
-        "name": "The English Riviera",
-        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
-      },
-      "artists": [
-        {
-          "name": "Metronomy",
-          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
-        }
-      ],
-      "duration_ms": 290173,
-      "name": "The Bay",
-      "url": "https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
-        "name": "All We Ever Do Is Talk",
-        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "All We Ever Do Is Talk",
-      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
-    },
-    {
-      "added_at": "2023-07-21 10:48:21",
-      "album": {
-        "name": "Seventeen Going Under (Deluxe)",
-        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Getting Started",
-      "url": "https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx"
     },
     {
       "added_at": "2023-07-21 10:48:21",
@@ -1611,6 +1563,22 @@
     {
       "added_at": "2023-07-21 10:48:21",
       "album": {
+        "name": "The English Riviera",
+        "url": "https://open.spotify.com/album/716fnrS2qXChPC3J2X73pK"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        }
+      ],
+      "duration_ms": 290173,
+      "name": "The Bay",
+      "url": "https://open.spotify.com/track/2akjLHnHjDGsgqxuf48VYs"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
         "name": "Witches",
         "url": "https://open.spotify.com/album/2tqLyWHOTHOGRvEYXUHoqM"
       },
@@ -1623,6 +1591,38 @@
       "duration_ms": 195078,
       "name": "Witches",
       "url": "https://open.spotify.com/track/5BBK1WoaiD3b3sJ2UysLuM"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "Seventeen Going Under (Deluxe)",
+        "url": "https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Getting Started",
+      "url": "https://open.spotify.com/track/4jzK6Ey84SAexMK5C2JWKx"
+    },
+    {
+      "added_at": "2023-07-21 10:48:21",
+      "album": {
+        "name": "All We Ever Do Is Talk",
+        "url": "https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw"
+      },
+      "artists": [
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 226133,
+      "name": "All We Ever Do Is Talk",
+      "url": "https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv"
     },
     {
       "added_at": "2023-07-24 22:20:42",

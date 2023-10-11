@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 
 > TikTokとSpotifyが共同でアーティストを応援するプログラム「Buzz Tracker」！世界中の音楽シーンのBuzzをどこよりも早くTrack\(=追跡\)するプレイリスト。Cover: マルシィ
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,626 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,674 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTxsEGukhp4.md) - [plain]
 | 49 | [そんな人生を堪能したい](https://open.spotify.com/track/0dj1xrFO8n4Ln4iU1cnOlr) | [虎鷹](https://open.spotify.com/artist/3tYCVKXyZ05qXTvYNmt9ou) | [そんな人生を堪能したい](https://open.spotify.com/album/5vJmr7z9UoxG5p0UpuKSq5) | 3:54 |
 | 50 | [Ura\-Shuden](https://open.spotify.com/track/6CR6gbIvujlQ2xyhLUSHgp) | [Qujila Yoluno Machi](https://open.spotify.com/artist/3hdtbNgPSlPKcE082xdCMq) | [Ura\-Shuden](https://open.spotify.com/album/2EBqSBPMP3cORqb3FT4PrT) | 3:27 |
 
-Snapshot ID: `MCw5ZWE4NDBkZTIwNWZkM2RjYWI2ZjQ1MGMxNzcxNDJmMTI4MzUyYmVm`
+Snapshot ID: `MCxhOGM4NmMzNDQ4ZjQ5OTNmMGE2ZTE2MjI3ZDBiNmFhZmY2ZjA3YjRh`

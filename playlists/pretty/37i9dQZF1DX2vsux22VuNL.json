@@ -1,12 +1,12 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Criolo",
-  "num_followers": 287564,
+  "num_followers": 287597,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OTEyOWQwYzcxMWVjNmIzY2NlMjliNmRhNTljMDRjZWI5MzBlNjM2",
+  "snapshot_id": "MCw2NGNjNzE0YWY5NTg5ZmQyZjY0MjRhZmNlYWYyMzFmZTc1Mzc3ODll",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -835,6 +835,30 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Eu vim pra Somar",
+        "url": "https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku"
+      },
+      "artists": [
+        {
+          "name": "Ari",
+          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
+        },
+        {
+          "name": "Luan Otten",
+          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
+        },
+        {
+          "name": "Felipe Play",
+          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
+        }
+      ],
+      "duration_ms": 223448,
+      "name": "Eu vim pra Somar",
+      "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Fim de Semana",
         "url": "https://open.spotify.com/album/1VseR4x7w6UFb9BlxQAZqM"
       },
@@ -867,30 +891,6 @@
       "duration_ms": 163030,
       "name": "Fim de Semana",
       "url": "https://open.spotify.com/track/0WhV2RQb0a7WDoJnMQRbnt"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Eu vim pra Somar",
-        "url": "https://open.spotify.com/album/6x2rSX6jgdCmqhLUi6pVku"
-      },
-      "artists": [
-        {
-          "name": "Ari",
-          "url": "https://open.spotify.com/artist/6EkinzGVGybboT2maC1VyE"
-        },
-        {
-          "name": "Luan Otten",
-          "url": "https://open.spotify.com/artist/7tcFzUKSICkJWCZzWs4htq"
-        },
-        {
-          "name": "Felipe Play",
-          "url": "https://open.spotify.com/artist/3thozP2mfHYnunQbT2seuZ"
-        }
-      ],
-      "duration_ms": 223448,
-      "name": "Eu vim pra Somar",
-      "url": "https://open.spotify.com/track/5CZXwIoZKIji8dNP0yy5L0"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1099,50 +1099,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "O Agora",
-        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
-      },
-      "artists": [
-        {
-          "name": "Morcego",
-          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Dj Codi",
-          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
-        }
-      ],
-      "duration_ms": 194730,
-      "name": "O Agora",
-      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Um Pouco Mais",
-        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Zoli",
-          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
-        },
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        }
-      ],
-      "duration_ms": 182586,
-      "name": "Um Pouco Mais",
-      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Toda Mal\u00e9vola",
         "url": "https://open.spotify.com/album/4eOTa398Hc7UBahLKwfJxD"
       },
@@ -1167,6 +1123,50 @@
       "duration_ms": 196691,
       "name": "Toda Mal\u00e9vola",
       "url": "https://open.spotify.com/track/1Sog3ja6kO7LkugqHZdrEK"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Um Pouco Mais",
+        "url": "https://open.spotify.com/album/3lZRBH2jUZn00MMnJfjVga"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Zoli",
+          "url": "https://open.spotify.com/artist/78qbkWvG9eXN65GYqaFEZ8"
+        },
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        }
+      ],
+      "duration_ms": 182586,
+      "name": "Um Pouco Mais",
+      "url": "https://open.spotify.com/track/40tzeN89kbNNo5amOxErCb"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "O Agora",
+        "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
+      },
+      "artists": [
+        {
+          "name": "Morcego",
+          "url": "https://open.spotify.com/artist/5CEDufbycfPy95Z6lyZC81"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Dj Codi",
+          "url": "https://open.spotify.com/artist/4IIg5uCfev53fphH0r69Qv"
+        }
+      ],
+      "duration_ms": 194730,
+      "name": "O Agora",
+      "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/2tmBwAa0NoFE0c8h3LfCCp"
-      },
-      "artists": [
-        {
-          "name": "NIZZ",
-          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
-        }
-      ],
-      "duration_ms": 175208,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/6a5l5Yh0RHApkOPcE39T02"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "N\u00f3s Dois",
         "url": "https://open.spotify.com/album/7xKWFFnBKO9EM0GpWQ4JmY"
       },
@@ -1419,6 +1403,22 @@
       "duration_ms": 147040,
       "name": "N\u00f3s Dois",
       "url": "https://open.spotify.com/track/3OSKdxDJ15q682cx1NF0ne"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/2tmBwAa0NoFE0c8h3LfCCp"
+      },
+      "artists": [
+        {
+          "name": "NIZZ",
+          "url": "https://open.spotify.com/artist/0JBQitnMdq6q2zt5SNGI1L"
+        }
+      ],
+      "duration_ms": 175208,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/6a5l5Yh0RHApkOPcE39T02"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1571,6 +1571,26 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "L\u00e1bia",
+        "url": "https://open.spotify.com/album/3wEHJr1DqFpzRNbFk4o5hC"
+      },
+      "artists": [
+        {
+          "name": "RAMON",
+          "url": "https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl"
+        },
+        {
+          "name": "Two Records",
+          "url": "https://open.spotify.com/artist/4SfxAv3Xdu1gD1HBs6BYSn"
+        }
+      ],
+      "duration_ms": 177997,
+      "name": "L\u00e1bia",
+      "url": "https://open.spotify.com/track/3jiSDYClzVY31izbE8lxGQ"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Magia",
         "url": "https://open.spotify.com/album/716CE4q0Mg2HXKjjv11fXz"
       },
@@ -1631,26 +1651,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "L\u00e1bia",
-        "url": "https://open.spotify.com/album/3wEHJr1DqFpzRNbFk4o5hC"
-      },
-      "artists": [
-        {
-          "name": "RAMON",
-          "url": "https://open.spotify.com/artist/3sdFrsuQ0ttHe1PcUqZnEl"
-        },
-        {
-          "name": "Two Records",
-          "url": "https://open.spotify.com/artist/4SfxAv3Xdu1gD1HBs6BYSn"
-        }
-      ],
-      "duration_ms": 177997,
-      "name": "L\u00e1bia",
-      "url": "https://open.spotify.com/track/3jiSDYClzVY31izbE8lxGQ"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Essa Daqui Voc\u00ea Sabe Que \u00c9 pra Voc\u00ea",
         "url": "https://open.spotify.com/album/5HbjLnESfjN6sui1F6E7rO"
       },
@@ -1675,26 +1675,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Baby",
-        "url": "https://open.spotify.com/album/2aohzSz5kigRkQZ5lagVaM"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00e1",
-          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
-        },
-        {
-          "name": "Maipo Beats",
-          "url": "https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx"
-        }
-      ],
-      "duration_ms": 178367,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/1R1Og3MKiYJGUFUpudLklx"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "No Ponto",
         "url": "https://open.spotify.com/album/0MMeTJK5RBZzPyje8EkZdT"
       },
@@ -1715,6 +1695,26 @@
       "duration_ms": 125333,
       "name": "No Ponto",
       "url": "https://open.spotify.com/track/19467mwzgOpeJPFjWlsChc"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Baby",
+        "url": "https://open.spotify.com/album/2aohzSz5kigRkQZ5lagVaM"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00e1",
+          "url": "https://open.spotify.com/artist/5wfYCqurlk6LzsqINa2Gy3"
+        },
+        {
+          "name": "Maipo Beats",
+          "url": "https://open.spotify.com/artist/63BTHXg5UTtmmAiAGc0fQx"
+        }
+      ],
+      "duration_ms": 178367,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1R1Og3MKiYJGUFUpudLklx"
     }
   ],
   "unique_name": "brisa",

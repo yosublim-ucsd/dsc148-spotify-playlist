@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 
 > Downtempo and ambient electronic music\. Feel the undertones 🍃
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,840 likes - 80 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,350 likes - 80 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe1cC3XInKct.md) - [plain]
 | 79 | [On the Shore](https://open.spotify.com/track/1J2ObShjzqTOe2eJzYg0s9) | [Bluetung](https://open.spotify.com/artist/79WPKJgJwIiymK2BNhcrCd) | [Eternity by the Stars](https://open.spotify.com/album/5ALpewfvkyuuKT12Y8cImv) | 7:10 |
 | 80 | [Heavenly Data](https://open.spotify.com/track/6oZdI01WQrUH4JOikTZ7MX) | [MTLDA](https://open.spotify.com/artist/3HNFNsVoyPblJOCLPGrjVy) | [God Is a DJ](https://open.spotify.com/album/6ph5yvbPRjMxrO81UVCSzy) | 5:13 |
 
-Snapshot ID: `MCxiNjQwZDg4NTViYTczYzgyZmIwMGY0OWU2NmYyZWEwNmQzNjNmYTc2`
+Snapshot ID: `MCwzMWJmYzE0YWE2OWY0MmY0YjMzZGZlZThlNDNhOTY2ZjhjZDI1MDU4`

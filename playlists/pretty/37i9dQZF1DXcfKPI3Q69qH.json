@@ -1,12 +1,12 @@
 {
   "description": "Music from and inspired by Blood & Water, now streaming on Netflix.",
-  "num_followers": 8017,
+  "num_followers": 8019,
   "original_name": "Blood & Water",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMzU0NDgzY2YzMTU0ZjVhMWYzZjMzYWNkMTJiMGM4OGNkMjI3NTA0",
+  "snapshot_id": "MCw5ZGQwNTRjMjRkMzIwY2RiYzZmMDcyM2VhY2M1YjFiMmU3MjkwNGI2",
   "tracks": [
     {
       "added_at": "2022-11-29 19:53:44",
@@ -76,7 +76,7 @@
       "added_at": "2022-11-29 19:53:44",
       "album": {
         "name": "John Vuli Gate",
-        "url": "https://open.spotify.com/album/7LaWhzEvDOvuKIHg1DsQT4"
+        "url": "https://open.spotify.com/album/2LV2PfwatDDB9HeMs9NeH0"
       },
       "artists": [
         {
@@ -84,17 +84,17 @@
           "url": "https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih"
         },
         {
-          "name": "Colano",
-          "url": "https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI"
-        },
-        {
           "name": "Ntosh Gazi",
           "url": "https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY"
+        },
+        {
+          "name": "Colano",
+          "url": "https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI"
         }
       ],
       "duration_ms": 355033,
-      "name": "John Vuli Gate (feat. Ntosh Gazi & Colano)",
-      "url": "https://open.spotify.com/track/5JiC9aVRdEaEylSPhs9SXC"
+      "name": "John Vuli Gate",
+      "url": "https://open.spotify.com/track/0iHnYSPIQlmQzo1NVN6kRJ"
     },
     {
       "added_at": "2022-11-29 19:53:44",

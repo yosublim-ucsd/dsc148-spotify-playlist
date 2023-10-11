@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href="https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h?si=TLqQVP6\-QziOqQfFUa6AQw">TESTIMONY JAGA</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,427 likes - 94 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,462 likes - 94 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 40 | [Jesus my insurance](https://open.spotify.com/track/0zOc2IhKiao3XMy4UwIOYx) | [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [Jesus my insurance](https://open.spotify.com/album/7KcdlB1lvoOg2iLcU4UUWn) | 2:29 |
 | 41 | [Light Em Up](https://open.spotify.com/track/1xWxKD5rD4vpSsTDk1EEUR) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq) | [Light Em Up](https://open.spotify.com/album/7e2QijTA2D2Ea1psNJPCGe) | 2:45 |
 | 42 | [Pamper Me](https://open.spotify.com/track/0QbyPkK8m2lecv5x0HSftI) | [Jlyricz](https://open.spotify.com/artist/4cubKpeUAFDsrOnFRs9DGi) | [Pamper Me](https://open.spotify.com/album/6ITtnml1OIcIsxYJqnjuGU) | 2:34 |
-| 43 | [Angry](https://open.spotify.com/track/2yqJx0rvu6Ps6phFD9cD3Z) | [Royrex](https://open.spotify.com/artist/7DAEq1p6P7kHyUaAW1wkN6), [Kaleb Mitchell](https://open.spotify.com/artist/5HfuDsFVNaxn4NAW00HqbH) | [Angry](https://open.spotify.com/album/1HRokIF8U9zBv8vwvI4pz8) | 3:29 |
+| 43 | [Angry](https://open.spotify.com/track/2yqJx0rvu6Ps6phFD9cD3Z) | [Royrex](https://open.spotify.com/artist/7DAEq1p6P7kHyUaAW1wkN6), [Kaleb Mitchell](https://open.spotify.com/artist/4WpAIQu9OT1XmYnympTnnC) | [Angry](https://open.spotify.com/album/1HRokIF8U9zBv8vwvI4pz8) | 3:29 |
 | 44 | [In You](https://open.spotify.com/track/2vXt1arz2ckoAgQbVxiIOR) | [Realist Kingsolo](https://open.spotify.com/artist/5NA7wzrYFKmxYrv0GFOSyS), [JoeKings](https://open.spotify.com/artist/5nMmEYNTGHolTC9ViHFbAR) | [In You](https://open.spotify.com/album/2czV6Y0kswQAFZp2uQdC9x) | 2:41 |
 | 45 | [Wonu mi](https://open.spotify.com/track/1tsSMDFenfT8fMFcTwunc1) | [IceberG](https://open.spotify.com/artist/7x6uIE3cF02iPqfgA9NTQh) | [Wonu mi](https://open.spotify.com/album/0vDYWshCDuGb8JyI7zJoYw) | 3:04 |
 | 46 | [Tate](https://open.spotify.com/track/4V7gzz7gtgVpaFBr4YK1Gi) | [Saint Realest](https://open.spotify.com/artist/0s1xpeEP8VX2sytVILCDBs), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX), [Kelvin Sings](https://open.spotify.com/artist/1ovCKfecPdY5niaJ4cKogC) | [Ah Yami](https://open.spotify.com/album/7tQV02VyNXreMnwXiG8Qxy) | 3:13 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 93 | [Jehovah My Hero](https://open.spotify.com/track/0uVSjrAkL9WI7mja7aTqZ2) | [Louise A\. Kolaco](https://open.spotify.com/artist/0TyTBDEIHwKplk1PBToxpf) | [Jehovah My Hero](https://open.spotify.com/album/2yaGVy02e7GWzBHUJymMJi) | 3:43 |
 | 94 | [OLÙGBÈJÀ](https://open.spotify.com/track/5DXFUaVUCxYvpvrzbjfhQP) | [Veekee James](https://open.spotify.com/artist/3d0vDLmDic461i6fOfImUA), [Shallom Matthew](https://open.spotify.com/artist/5ELs59GeiNNa11OOGO4vVl), [OBA](https://open.spotify.com/artist/6RSMZnjbnEHuVEB2l1vfIj) | [OLÙGBÈJÀ](https://open.spotify.com/album/2hpKtfaNQc6Obg1iEgse2G) | 14:48 |
 
-Snapshot ID: `MCw1ZjRlMmYzMjM3NDBjZTFhM2ZhOTQzYTFlYzg3ZWIyN2FhOTljYThj`
+Snapshot ID: `MCwyOGY5YmY0NWMxNTVmOGFiZThmZmRjYTViNWJjN2U5ZDFkODA5MWJi`

@@ -4,7 +4,7 @@
 
 > Music from and inspired by Blood & Water, now streaming on Netflix.
 
-78 songs - 5 hr 21 min
+79 songs - 5 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,7 +42,8 @@
 | [I Need You \- From the Netflix original series "Blood & Water"](https://open.spotify.com/track/3b6CZJw9JOpJ3fQTJbj6pT) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Rowlene](https://open.spotify.com/artist/0pEJe38UHfdkFEEaPgwH0P) | [I Need You \(From the Netflix original series "Blood & Water"\)](https://open.spotify.com/album/1Ud8OuHGHAQncOCWqOPhs8) | 3:25 | 2020-05-21 |  |
 | [Idhom](https://open.spotify.com/track/1pVciVSYHcEbAtKTNvZxh5) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [Limpopo Champions League](https://open.spotify.com/album/7o3lhq3Md6qkEzfU1SVGtu) | 3:38 | 2020-05-20 |  |
 | [John Cena](https://open.spotify.com/track/07xpeB1txX9bPKTwkuflMg) | [Sho Madjozi](https://open.spotify.com/artist/08V2vgJBY6VLoUPWlznRKo) | [John Cena](https://open.spotify.com/album/5VQoz4FBYZsfmm09XlpOVh) | 3:01 | 2020-05-20 |  |
-| [John Vuli Gate \(feat\. Ntosh Gazi & Colano\)](https://open.spotify.com/track/5JiC9aVRdEaEylSPhs9SXC) | [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Colano](https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [John Vuli Gate](https://open.spotify.com/album/7LaWhzEvDOvuKIHg1DsQT4) | 5:55 | 2022-11-29 |  |
+| [John Vuli Gate](https://open.spotify.com/track/0iHnYSPIQlmQzo1NVN6kRJ) | [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY), [Colano](https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI) | [John Vuli Gate](https://open.spotify.com/album/2LV2PfwatDDB9HeMs9NeH0) | 5:55 | 2022-11-29 |  |
+| [John Vuli Gate \(feat\. Ntosh Gazi & Colano\)](https://open.spotify.com/track/5JiC9aVRdEaEylSPhs9SXC) | [Mapara A Jazz](https://open.spotify.com/artist/07iC6rj6LOxVbylqwbVPih), [Colano](https://open.spotify.com/artist/02OOc2ZYid4CK1DJF5RXrI), [Ntosh Gazi](https://open.spotify.com/artist/1PVQZbVl2qjnSDoHF1PzQY) | [John Vuli Gate](https://open.spotify.com/album/7LaWhzEvDOvuKIHg1DsQT4) | 5:55 | 2022-11-29 | 2023-10-11 |
 | [Juba Lami](https://open.spotify.com/track/3nyXJJW7MGLxffHmfRVLYF) | [Jessica LM](https://open.spotify.com/artist/3Q259wuL2vRuisWyvYcebg), [Woza Sabza](https://open.spotify.com/artist/1BWIpSA0QKI7kRth9UG644) | [Juba Lami](https://open.spotify.com/album/1CWv9WJWAUw73RgXC70Z8P) | 5:51 | 2022-11-29 |  |
 | [Just a Taste](https://open.spotify.com/track/3JkSGGDGqsHPNmAwNDUV1R) | [Luka](https://open.spotify.com/artist/52RrVukaLWLFZo3vJ6ULC1), [Sio](https://open.spotify.com/artist/4jLhrV95ZIrW5KFIM5SCsv) | [Just a Taste](https://open.spotify.com/album/1iFfLLlPqn6FObeWPEgRkt) | 4:00 | 2022-11-29 |  |
 | [Look What I've Found](https://open.spotify.com/track/4k4wBUSOr6B8VKlelhJ7MJ) | [Atlay](https://open.spotify.com/artist/5KJKgTUA1vrzCF2rWY3suF) | [Look What I've Found](https://open.spotify.com/album/7Dt9n5om3n6IZs8mZxUjrG) | 2:19 | 2020-05-22 |  |

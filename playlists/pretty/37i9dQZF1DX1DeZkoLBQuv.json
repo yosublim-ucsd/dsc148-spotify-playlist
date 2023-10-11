@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmODBiNWUyZjc5ZDczMWU5Y2YzYmQzMzQ4M2UwY2VkZjc4MDIzY2Yy",
+  "snapshot_id": "MCwyMjc4YzFiOGVmYjc1MDJjYzAyMzRlN2E5NDk0YmFmMjNlZDI3MDA1",
   "tracks": [
     {
       "added_at": "2022-12-09 06:26:14",
@@ -535,6 +535,22 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
+        "name": "Celebrando o Natal",
+        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 196765,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
         "name": "Gl\u00f3ria a Deus nas Alturas",
         "url": "https://open.spotify.com/album/3oNhHQUS1PmE0LM5Pyf3Pk"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2022-12-09 06:26:14",
       "album": {
-        "name": "Celebrando o Natal",
-        "url": "https://open.spotify.com/album/7sYvSBmi0geLSPMv3p0eHq"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 196765,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/1hDbPsFAV6FSFhvLIaEfuP"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
         "name": "\u00d3, Vinde, Adoremos",
         "url": "https://open.spotify.com/album/18SwXFPhxjgOzEnJERhcBd"
       },
@@ -587,26 +587,6 @@
       "duration_ms": 195000,
       "name": "\u00d3, Vinde, Adoremos",
       "url": "https://open.spotify.com/track/5DVZUWNEIsKUq12krk7On2"
-    },
-    {
-      "added_at": "2022-12-09 06:26:14",
-      "album": {
-        "name": "Natal Real",
-        "url": "https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK"
-      },
-      "artists": [
-        {
-          "name": "Novo Tom",
-          "url": "https://open.spotify.com/artist/45y2879LBmuzrx4krY6vQh"
-        },
-        {
-          "name": "Vitrine UNASP",
-          "url": "https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK"
-        }
-      ],
-      "duration_ms": 256217,
-      "name": "Natal Real",
-      "url": "https://open.spotify.com/track/7gx0SQWgU3PoLNPW02oRzW"
     },
     {
       "added_at": "2022-12-09 06:26:14",
@@ -635,6 +615,26 @@
       "duration_ms": 301859,
       "name": "Natal de Amor",
       "url": "https://open.spotify.com/track/2ygJjF3mMGpICRfkJZKQS3"
+    },
+    {
+      "added_at": "2022-12-09 06:26:14",
+      "album": {
+        "name": "Natal Real",
+        "url": "https://open.spotify.com/album/2m49nalJlB2nQHMjZaeIDK"
+      },
+      "artists": [
+        {
+          "name": "Novo Tom",
+          "url": "https://open.spotify.com/artist/45y2879LBmuzrx4krY6vQh"
+        },
+        {
+          "name": "Vitrine UNASP",
+          "url": "https://open.spotify.com/artist/0PLADEHVEWTRR5fuaK2FFK"
+        }
+      ],
+      "duration_ms": 256217,
+      "name": "Natal Real",
+      "url": "https://open.spotify.com/track/7gx0SQWgU3PoLNPW02oRzW"
     },
     {
       "added_at": "2022-12-09 06:26:14",

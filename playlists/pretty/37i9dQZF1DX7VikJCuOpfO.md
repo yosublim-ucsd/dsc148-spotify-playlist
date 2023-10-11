@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Paola Jara, Chiquis,
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,234 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,253 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 92 | [Te Amo](https://open.spotify.com/track/5qU3ueDwaTS5lFXgKGh1xQ) | [Alex Fernández](https://open.spotify.com/artist/4Xwvz864z2uP3bwPcjKJjC) | [Te Amo](https://open.spotify.com/album/4ygevNEHvsankgq9DTSMba) | 2:55 |
 | 93 | [La Lotería](https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 3:06 |
 | 94 | [Todo Me Recuerda A Ti](https://open.spotify.com/track/0ooSm6DWVb708WQbOy99De) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6), [Julio Preciado](https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3) | [Todo Me Recuerda A Ti](https://open.spotify.com/album/7sQmXyi4Bd9aw1q7mradRJ) | 3:28 |
-| 95 | [Cuatro Copas](https://open.spotify.com/track/61tGx5rUhzrt85uVxDqzof) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Cuatro Copas](https://open.spotify.com/album/2Q0z2joI0OzF4kLV1ty0gP) | 3:59 |
-| 96 | [Me lo vas a agradecer](https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Me lo vas a agradecer](https://open.spotify.com/album/4wmK6yBz7s8AyDW2hOcv3a) | 3:10 |
-| 97 | [El Tenampa](https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [El Tenampa](https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A) | 2:14 |
+| 95 | [El Tenampa](https://open.spotify.com/track/3TSMfXa4ttDntwsBsurici) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb) | [El Tenampa](https://open.spotify.com/album/7oUYcVSDhu2TA7G5BMCI6A) | 2:14 |
+| 96 | [Cuatro Copas](https://open.spotify.com/track/61tGx5rUhzrt85uVxDqzof) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Cuatro Copas](https://open.spotify.com/album/2Q0z2joI0OzF4kLV1ty0gP) | 3:59 |
+| 97 | [Me lo vas a agradecer](https://open.spotify.com/track/0XNpmYRhxlgC8n7QeuwLTq) | [Griss Romero](https://open.spotify.com/artist/36eqG3jM0MhxTR7Cuw7BQA) | [Me lo vas a agradecer](https://open.spotify.com/album/4wmK6yBz7s8AyDW2hOcv3a) | 3:10 |
 | 98 | [Ya No Vuelvas](https://open.spotify.com/track/5lqrDIEQy8YORSY8MoW37I) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 2:54 |
 | 99 | [Niña Bonita](https://open.spotify.com/track/0c25Xv2LEYmRoAqmKUB9VA) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu) | 2:04 |
 | 100 | [En Tu Sonrisa](https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [En Tu Sonrisa](https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F) | 3:01 |
 
-Snapshot ID: `MCw0MWE1ZTQ1NGU4OTU1MjJjNTkzMDRiNjdhNzY3ZGQ3YzVjZmI3YmNj`
+Snapshot ID: `MCwwMmRmZWMxMzVhZjhiMjk3ZjNhODFlZDU5ZTMzNGU5OTMxMjk0ODVi`

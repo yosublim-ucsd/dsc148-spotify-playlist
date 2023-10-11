@@ -2,7 +2,7 @@
 
 ### [Viva Latino](https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva)
 
-> Today's top Latin hits, elevando nuestra música\. Cover: BIzarrap & Milo j
+> Today's top Latin hits, elevando nuestra música\. Cover: Bizarrap & Milo j
 
 399 songs - 21 hr 27 min
 

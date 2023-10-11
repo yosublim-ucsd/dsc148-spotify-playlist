@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "All 00s, all dance! Cover - Dostana",
+  "description": "Groove it to the biggest bangers of the decade. Cover - Tashan",
   "name": "00's Dance Bollywood",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 256000,
       "name": "Aashiqui Mein Teri - Akbar Sami Remix",
       "url": "https://open.spotify.com/track/0DYkV2X5XRyAAdfeuTmGKV"
@@ -1768,7 +1768,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 307160,
       "name": "Gustakh Dil Tere Liye",
       "url": "https://open.spotify.com/track/0LV75MCWmIBfUelqOyy5h0"
@@ -1828,7 +1828,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 274576,
       "name": "Heyy Babyy",
       "url": "https://open.spotify.com/track/4XUeVYXnrFJIvKnXTAIpBn"
@@ -2028,7 +2028,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 333093,
       "name": "It's the Time to Disco",
       "url": "https://open.spotify.com/track/3hCUkos0NxuSFl73oOHJzb"
@@ -2072,7 +2072,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 345506,
       "name": "Janaabe Ali",
       "url": "https://open.spotify.com/track/71pvMxq8FQBLlMkifES3U7"
@@ -2139,6 +2139,28 @@
     },
     {
       "album": {
+        "name": "Mujhse Shaadi Karogi",
+        "url": "https://open.spotify.com/album/7KPRB8KERypJQurpX1xUpm"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321320,
+      "name": "Jeene Ke Hain Chaar Din",
+      "url": "https://open.spotify.com/track/4UJih0aZ8YcQm4CIErba45"
+    },
+    {
+      "album": {
         "name": "Jehda Nasha (From \"An Action Hero\")",
         "url": "https://open.spotify.com/album/2ishN6ZECK81K6uRwPd7RH"
       },
@@ -2188,6 +2210,44 @@
       "duration_ms": 317560,
       "name": "Jhalak Dikhla Ja",
       "url": "https://open.spotify.com/track/43SKg10CCeaoyr7XSKfpTR"
+    },
+    {
+      "album": {
+        "name": "Jhoom Barabar Jhoom",
+        "url": "https://open.spotify.com/album/5xRsmEKZOuvwgnHJfDscnI"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "KK",
+          "url": "https://open.spotify.com/artist/4fEkbug6kZzzJ8eYX6Kbbp"
+        },
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Mahalakshmi Iyer",
+          "url": "https://open.spotify.com/artist/0Yb0T3wUUNiIvHjqnfkbuH"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425613,
+      "name": "Jhoom Barabar Jhoom",
+      "url": "https://open.spotify.com/track/4HfmI5Yisll9PCOjJhtijw"
     },
     {
       "album": {
@@ -2252,6 +2312,40 @@
       "duration_ms": 325640,
       "name": "Just Chill",
       "url": "https://open.spotify.com/track/4DaKJIg4pTjRtGaUxzbLHR"
+    },
+    {
+      "album": {
+        "name": "Bunty Aur Babli",
+        "url": "https://open.spotify.com/album/5qO12aRQP26eh6XeplVIC9"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Alisha Chinai",
+          "url": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
+        },
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Gulzar",
+          "url": "https://open.spotify.com/artist/0yRC5n90spXG0d3aiDQ0vB"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 482586,
+      "name": "Kajra Re",
+      "url": "https://open.spotify.com/track/72HdutlIHBZJ7WT1xVAAZT"
     },
     {
       "album": {
@@ -2382,7 +2476,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 425413,
       "name": "Kay Sera Sera",
       "url": "https://open.spotify.com/track/0OXQa6GOzxeYWFopEmASw9"
@@ -2412,6 +2506,24 @@
       "duration_ms": 310746,
       "name": "Khallas",
       "url": "https://open.spotify.com/track/3db5d0Qw7OGCOzio7MJxbl"
+    },
+    {
+      "album": {
+        "name": "Garam Masala (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4HaPtlICUuRXPUNoQ9m1lq"
+      },
+      "artists": [
+        {
+          "name": "Adnan Sami",
+          "url": "https://open.spotify.com/artist/0kJO65h553i1iGsZutBuqz"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223373,
+      "name": "Kiss Me Baby",
+      "url": "https://open.spotify.com/track/4gNGi2Mr26me7wGKd8TQSF"
     },
     {
       "album": {
@@ -2505,6 +2617,28 @@
     },
     {
       "album": {
+        "name": "Rakht",
+        "url": "https://open.spotify.com/album/0kjDrzX0PnOP58XUuwIaSs"
+      },
+      "artists": [
+        {
+          "name": "Blaaze",
+          "url": "https://open.spotify.com/artist/4DqSAnlpn10M4pHUFPEt4E"
+        },
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207186,
+      "name": "Kya Maine Socha (One Love)",
+      "url": "https://open.spotify.com/track/5FW4XDJuPVKZaoiQICVLNV"
+    },
+    {
+      "album": {
         "name": "Kyaa Baat Haii 2.0 (From \"Govinda Naam Mera\")",
         "url": "https://open.spotify.com/album/2WGf3hNRhDAbcI29cAFolO"
       },
@@ -2580,7 +2714,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 253357,
       "name": "Lucky Boy",
       "url": "https://open.spotify.com/track/7smFVnYqFp9RwKg00C6nKN"
@@ -2702,7 +2836,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 362026,
       "name": "Mayya",
       "url": "https://open.spotify.com/track/0hp4qW1zgKnBBiyyAdW3Sz"
@@ -2724,7 +2858,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 447000,
       "name": "Mehbooba Mehbooba",
       "url": "https://open.spotify.com/track/4Tt6aPhCnVPA9tFrK7E0Mx"
@@ -2794,7 +2928,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-09",
+      "date_removed": null,
       "duration_ms": 244427,
       "name": "Mind Blowing Mahiya",
       "url": "https://open.spotify.com/track/57FxwAwOqRpIG28j2j9VUa"
@@ -2854,6 +2988,28 @@
       "duration_ms": 198025,
       "name": "Morni Banke (From \"Badhaai Ho\")",
       "url": "https://open.spotify.com/track/2Wu9PNpLUCBl3W1GaPqkhl"
+    },
+    {
+      "album": {
+        "name": "Tumsa Nahin Dekha - A Love Story (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3pa0FwkCEoV0pxPs8HzqDB"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Shaan",
+          "url": "https://open.spotify.com/artist/5cB4d4jPYjMT326sjihQ4m"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 351400,
+      "name": "Mujhe Tumse Mohabbat Hai",
+      "url": "https://open.spotify.com/track/6eumVFuO7xizVEdpzAbwbB"
     },
     {
       "album": {
@@ -2970,7 +3126,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 362762,
       "name": "Nach Baliye",
       "url": "https://open.spotify.com/track/7AJtoJnHV80IMEHgQs6YvU"
@@ -3149,6 +3305,28 @@
     },
     {
       "album": {
+        "name": "No Entry (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5aUxoLhNeMrP9ayXVCB62K"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        },
+        {
+          "name": "Alisha Chinai",
+          "url": "https://open.spotify.com/artist/4mBxoO0pAcMbAwuTcrcLMc"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 368840,
+      "name": "No Entry: Ishq Di Galli Vich",
+      "url": "https://open.spotify.com/track/0BTq3SmPRKdTrJXHAtq2S5"
+    },
+    {
+      "album": {
         "name": "O Saki Saki (From \"Batla House\")",
         "url": "https://open.spotify.com/album/0te1B7RLmSG29MBoj0cKzq"
       },
@@ -3292,7 +3470,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 339613,
       "name": "Piya Piya O Piya",
       "url": "https://open.spotify.com/track/0Wk0LjauV4cIqnQC5Lbpa2"
@@ -3384,10 +3562,32 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 224226,
       "name": "Right Here Right Now - Hip Hop Mix",
       "url": "https://open.spotify.com/track/52K4JXqPfWZJj7hrBbRf0w"
+    },
+    {
+      "album": {
+        "name": "Musafir",
+        "url": "https://open.spotify.com/album/4yOCbNcDeF2f1xs1PzLFnT"
+      },
+      "artists": [
+        {
+          "name": "Sukhwinder Singh",
+          "url": "https://open.spotify.com/artist/19MVxKZZdPj2X0F8pi0OCT"
+        },
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321240,
+      "name": "Saaki",
+      "url": "https://open.spotify.com/track/3zEkqnyPzhHBuHCeoWLYjQ"
     },
     {
       "album": {
@@ -3487,6 +3687,36 @@
     },
     {
       "album": {
+        "name": "Salaam Namaste",
+        "url": "https://open.spotify.com/album/2IENY924rGfG14TIQIdZFr"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Kunal Ganjawala",
+          "url": "https://open.spotify.com/artist/3t4P7aXVor3NxlJPZxLzOQ"
+        },
+        {
+          "name": "Vasundhara Das",
+          "url": "https://open.spotify.com/artist/0myVJmNOHZ7v7g8JVWGw8H"
+        },
+        {
+          "name": "Jaideep Sahni",
+          "url": "https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233534,
+      "name": "Salaam Namaste (Dhol Mix)",
+      "url": "https://open.spotify.com/track/4VRtOg5S4lk4bIsDLVCH2v"
+    },
+    {
+      "album": {
         "name": "Bluff Master (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5sASM5OybJgExUWUXLH2eQ"
       },
@@ -3506,7 +3736,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 197240,
       "name": "Say Na Say Na",
       "url": "https://open.spotify.com/track/4apmtrZ0jOe4AqT3dByOCH"
@@ -3726,7 +3956,7 @@
       ],
       "date_added": "2023-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 305346,
       "name": "Tauba Tauba",
       "url": "https://open.spotify.com/track/0dfDtMJigXYVWoqNovKPA3"

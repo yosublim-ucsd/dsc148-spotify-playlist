@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,911 likes - 70 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,981 likes - 70 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 63 | [I'm on My Way](https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:11 |
 | 64 | [It's Mighty Hard](https://open.spotify.com/track/4OvJmdA6sHxhKsyD6bXnHN) | [Katie Webster](https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe) | [No Foolin'!](https://open.spotify.com/album/5YxmBxdk0V7Mx2XS3ExyB6) | 6:30 |
 | 65 | [Change is Inevitable \(feat\. AJ Fullerton\)](https://open.spotify.com/track/1ch8BB3SZgCvJN1qWft4Et) | [Tony Holiday](https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv), [AJ Fullerton](https://open.spotify.com/artist/6QvypbcfvYqd5WtYd06zGp) | [Porch Sessions, Vol\. 2](https://open.spotify.com/album/62fmTuO2waPpKrOGXk67AI) | 2:50 |
-| 66 | [Ain't Nobody's Business](https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 5:15 |
-| 67 | [Today I Sing the Blues](https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:25 |
+| 66 | [Today I Sing the Blues](https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [The Delta Meets Detroit: Aretha's Blues](https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9) | 4:25 |
+| 67 | [Ain't Nobody's Business](https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b) | 5:15 |
 | 68 | [I Got a Mind to Give up Living](https://open.spotify.com/track/0WpiGyQFNJbtfxlSvBiQl2) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [Complete Albums 1965\-1980](https://open.spotify.com/album/74Q5wVKJAvWBv2wDOSoJPg) | 4:58 |
 | 69 | [A Touch Of The Blues \- Single Version](https://open.spotify.com/track/4IxspXe4ihU15PKgeUQqfo) | [Bobby "Blue" Bland](https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj) | [That's It! / Duke Recordings Vol\. III](https://open.spotify.com/album/6UDjveu23U4KAxKU5RlnsB) | 3:19 |
 | 70 | [Anyhow](https://open.spotify.com/track/13SV6q70zRxTJR3yEAqh2C) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 6:54 |
 
-Snapshot ID: `MCxiNzQ4NzkwY2IyYjg3YmM4NmYxNDI0Y2I4ZmJjZjQ0Y2FkMjk4YjU1`
+Snapshot ID: `MCwzOTRkMzI0YzkyYzFiMDkwOTUzYjBiNTM2OTgyZjA5MTY1NzFjMDhj`

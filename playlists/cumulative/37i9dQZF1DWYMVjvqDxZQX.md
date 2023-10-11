@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5eitAUlYmlha3LLWg7aBn5">Kelly Lee Owens</a>'s favorite tracks\. Updated regularly\. Curated by Kelly Lee Owens\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-49 songs - 5 hr 10 min
+50 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,8 @@
 | [Naive Response](https://open.spotify.com/track/4yGVlUUhN0PAHnuM8m2KZD) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone Logic](https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92) | 5:23 | 2022-07-29 |  |
 | [Pkd](https://open.spotify.com/track/0Pu0xDnLH0es3Fie9FxmNj) | [Arctor](https://open.spotify.com/artist/73YzpscGUNw70CUjwnh1zA) | [Memory Gene](https://open.spotify.com/album/0OIdy1tA3Cp135ZBTGhFTl) | 7:40 | 2022-07-29 |  |
 | [Plonk](https://open.spotify.com/track/2IDnHMKaA8pGJ60ZuNaxpq) | [VC\-118A](https://open.spotify.com/artist/6bAk1VOoyEqW2QWSlMWthy) | [Crunch / Plonk](https://open.spotify.com/album/3nMAbMkBYEdzpFicG39wPq) | 6:24 | 2022-07-29 |  |
-| [Plush Egg \(feat\. Regularfantasy & D\. Tiffany\)](https://open.spotify.com/track/3lvXIXo4KFZ61dkr0ADxV4) | [Plush Managements Inc.](https://open.spotify.com/artist/31G3ruAVnEO9MTv4edNti0), [Regularfantasy](https://open.spotify.com/artist/4X8qmnrVs1wkdsccBjik8z), [D\. Tiffany](https://open.spotify.com/artist/2LMaARRMktW5O2umBFaQUu) | [Trust Issues](https://open.spotify.com/album/31APlgiK79iEarjZ0HZfRX) | 8:07 | 2022-07-29 |  |
+| [Plush Egg](https://open.spotify.com/track/2QMHHrHB6mXQMS7xza62Q5) | [Plush Managements Inc.](https://open.spotify.com/artist/31G3ruAVnEO9MTv4edNti0) | [Trust Issues](https://open.spotify.com/album/6JR4fP4ivQ8hH7KzwLR4sH) | 8:07 | 2022-07-29 |  |
+| [Plush Egg \(feat\. Regularfantasy & D\. Tiffany\)](https://open.spotify.com/track/3lvXIXo4KFZ61dkr0ADxV4) | [Plush Managements Inc.](https://open.spotify.com/artist/31G3ruAVnEO9MTv4edNti0), [Regularfantasy](https://open.spotify.com/artist/4X8qmnrVs1wkdsccBjik8z), [D\. Tiffany](https://open.spotify.com/artist/2LMaARRMktW5O2umBFaQUu) | [Trust Issues](https://open.spotify.com/album/31APlgiK79iEarjZ0HZfRX) | 8:07 | 2022-07-29 | 2023-10-11 |
 | [Roscoh Denk](https://open.spotify.com/track/16ZJ1VwxhKZfumIawqptvk) | [Ryan James Ford](https://open.spotify.com/artist/74i1kmPHu9k0NW1ogD5fZA) | [Six Stair EP](https://open.spotify.com/album/16Ysw6Ao5EMiPDmxnidZuA) | 5:10 | 2022-07-29 |  |
 | [Route Acid](https://open.spotify.com/track/48DWPjpA6fCzH73Z40ifsa) | [Hymns](https://open.spotify.com/artist/4q3S7z8M849VsOCdlXsfMF) | [SALT002](https://open.spotify.com/album/6dNf6UZiu263WXccSrQRn7) | 6:02 | 2022-07-29 |  |
 | [SCN 2](https://open.spotify.com/track/4U8LEx7zjRAjbJ7PiBInUY) | [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [SCN EP](https://open.spotify.com/album/4IydOYX0CmNvUV6IN34y1v) | 6:15 | 2022-07-29 |  |

@@ -2280,7 +2280,7 @@
       ],
       "date_added": "2022-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 297585,
       "name": "Leave Here",
       "url": "https://open.spotify.com/track/3JKn7wZYSwOGriPALOQPBT"
@@ -2464,6 +2464,24 @@
       "duration_ms": 230534,
       "name": "Magic Pony Ride (Pt.1)",
       "url": "https://open.spotify.com/track/2np71UUbhAVIJ61jkQDRDe"
+    },
+    {
+      "album": {
+        "name": "Makeshift Tourniquet",
+        "url": "https://open.spotify.com/album/73T8ZTaxv3LBS4wQo9NW3n"
+      },
+      "artists": [
+        {
+          "name": "Vegyn",
+          "url": "https://open.spotify.com/artist/5iUnvXddCpOrbWKm7QMr6o"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317835,
+      "name": "Makeshift Tourniquet",
+      "url": "https://open.spotify.com/track/4YrUH3TZazK6DC2w5qXryI"
     },
     {
       "album": {

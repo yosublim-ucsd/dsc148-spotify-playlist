@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 
 > Dale play, y que la cumbia no pare.
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,027 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,098 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 15 | [Caramelo de Limón](https://open.spotify.com/track/7sSsNAStIdLCZkrLkWIdvb) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Ricky Maravilla](https://open.spotify.com/artist/57zdSImRVdyfT1Ol0mmlWo) | [Caramelo de Limón](https://open.spotify.com/album/7LIgmmIVuNQKqSJrKN6CQY) | 3:40 |
 | 16 | [El Bombón](https://open.spotify.com/track/68drjp77R32xEkzP1vxlF6) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Un Sentimiento](https://open.spotify.com/album/2EUyMEEhYoXunjH60VsniI) | 3:23 |
 | 17 | [Esa Te Dejó](https://open.spotify.com/track/7yv8s5bPBn3rEjK3bDrt5b) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Regalo de Dios](https://open.spotify.com/album/47cUeGraYSIf2ZALnKzKs1) | 2:58 |
-| 18 | [Amores como el nuestro](https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Corazón de Papel](https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq) | 3:18 |
+| 18 | [Se Parece Más A Ti](https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Separece A Ti](https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw) | 4:08 |
 | 19 | [Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Engañes Mas](https://open.spotify.com/track/3WYGGrbZKz6AiMVDX9QblT) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Son de Amores / Chica del Este / Me Olvide de Ti / Cenizas / No Lo Engañes Mas](https://open.spotify.com/album/5H2hv6jPGgW87AYmAmIFoR) | 5:26 |
 | 20 | [Qué Ironía](https://open.spotify.com/track/5FmJy09OizHiP0440KL1S7) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Qué Ironía](https://open.spotify.com/album/6q2RlNPqDohxAfpcc5cVno) | 4:27 |
-| 21 | [Se Parece Más A Ti](https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Separece A Ti](https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw) | 4:08 |
+| 21 | [Amores como el nuestro](https://open.spotify.com/track/7l2nk7fFbaibO3sjvo4wvq) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Corazón de Papel](https://open.spotify.com/album/1gFTYh0ijDv3y8sjdzR4Fq) | 3:18 |
 | 22 | [Tramposa y Mentirosa](https://open.spotify.com/track/6QmChI3qnlVSMHihZPzCTf) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 3:32 |
 | 23 | [Se Me Ha Perdido un Corazón](https://open.spotify.com/track/1uHjrdkCGineIG5yNDF8b2) | [Gilda](https://open.spotify.com/artist/6Q6qTNC2rAegcR5QjzcRgE) | [Los Más Grandes Exitos](https://open.spotify.com/album/5O2xqtPFhEp81GUIkKNV8Z) | 3:26 |
 | 24 | [Porque te amo](https://open.spotify.com/track/3G26H8W47acDASCgaKQjR5) | [La Cumbia](https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev) | [Sa, Za...Sabor](https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06) | 3:53 |
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 30 | [Llorarás Más de Diez Veces](https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [Carolina Antiman](https://open.spotify.com/artist/290gGqoqPQYcOCD3mvL76T) | [Aún Sigue La Lección](https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG) | 3:31 |
 | 31 | [Con la Misma Moneda](https://open.spotify.com/track/6HIZ8QjtS1jGxAfTEYFyi4) | [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq) | [Con la Misma Moneda](https://open.spotify.com/album/0uHMJhys3A6ZexbwOQj0Hc) | 4:26 |
 | 32 | [Bonita](https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Hecho con Amor](https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl) | 3:22 |
-| 33 | [Una Calle Nos Separa](https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:32 |
-| 34 | [Una Ráfaga De Amor](https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Un Fenómeno Natural](https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy) | 3:02 |
-| 35 | [El Polvito Del Amor](https://open.spotify.com/track/2mzncewLAIAvfFeJ01Ukhg) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:08 |
-| 36 | [Yo No Sé Mañana](https://open.spotify.com/track/2YnJKK6rYV0Dy5XdBpa36l) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Yo No Sé Mañana](https://open.spotify.com/album/3vlIfLtvvxFaFsuZ9XimoN) | 2:50 |
-| 37 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
+| 33 | [Una Ráfaga De Amor](https://open.spotify.com/track/4vFJMrCClTb09P4fjF5oHQ) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Un Fenómeno Natural](https://open.spotify.com/album/1kGqRwzx7Z0519BTQigZxy) | 3:02 |
+| 34 | [Yo No Sé Mañana](https://open.spotify.com/track/2YnJKK6rYV0Dy5XdBpa36l) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Yo No Sé Mañana](https://open.spotify.com/album/3vlIfLtvvxFaFsuZ9XimoN) | 2:50 |
+| 35 | [Una Calle Nos Separa](https://open.spotify.com/track/48yRazqbGXUfSpGiTPNw0r) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/4hAN3ZyBVH5jvhjgW2ZAO8) | 3:32 |
+| 36 | [Iluminará](https://open.spotify.com/track/76BnEV7y0FIyDodcCt9sxC) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Grandes Éxitos Regrabados](https://open.spotify.com/album/7Hui8LAkH3zKpZMIztPYLr) | 4:02 |
+| 37 | [El Polvito Del Amor](https://open.spotify.com/track/2mzncewLAIAvfFeJ01Ukhg) | [Amar Azul](https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg) | [Lo Mejor de Lo Mejor](https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn) | 3:08 |
 | 38 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 |
 | 39 | [Después de Ti](https://open.spotify.com/track/2nhrH1UoaHJWLFMrt1NB5w) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Un Homenaje al Cielo](https://open.spotify.com/album/1ZlJYrZ68YhJevmEAaQBdL) | 3:21 |
 | 40 | [Cinco Minutos](https://open.spotify.com/track/2mDq3mPvdpwE8zAXpRXE0b) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Montevideo 418](https://open.spotify.com/album/6MJnOjPMpFdInIEWItilLP) | 3:31 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 62 | [El Soy Yo](https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0) | [Mensajeros del Amor](https://open.spotify.com/artist/3IbAQiPGvV3aSwvYBMo3o3) | [Mensajeros del Amor](https://open.spotify.com/album/2yD6FFYH2YGoaRCOcdfsR6) | 3:12 |
 | 63 | [Bonita](https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Agustín Casanova](https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Bonita](https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU) | 2:34 |
 | 64 | [Yo Que Te Amé](https://open.spotify.com/track/2DHJHxgnQZwkcmwvANdiui) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [20 Grandes Éxitos](https://open.spotify.com/album/3iNy7btWJcxCSAOIBEU8v6) | 3:29 |
-| 65 | [No Me Lo Creo](https://open.spotify.com/track/4D0sX1ScgNTnEW0VT6X9mZ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Como la Gente](https://open.spotify.com/album/75t4wjj5y0Q820HCrh60Xb) | 4:45 |
-| 66 | [La Pollera Amarilla](https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Pollera Amarilla](https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE) | 3:09 |
+| 65 | [La Pollera Amarilla](https://open.spotify.com/track/03G43mO3a34IGIsyDd4sj5) | [Gladys "La bomba tucumana"](https://open.spotify.com/artist/09jut908wvFm55SqnO4DN3) | [La Pollera Amarilla](https://open.spotify.com/album/1r02rGE96IPnrhhcHbZdWE) | 3:09 |
+| 66 | [No Me Lo Creo](https://open.spotify.com/track/4D0sX1ScgNTnEW0VT6X9mZ) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX) | [Como la Gente](https://open.spotify.com/album/75t4wjj5y0Q820HCrh60Xb) | 4:45 |
 | 67 | [La colorada](https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [Pibes Chorros \- Criando Cuervos](https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs) | 3:13 |
 | 68 | [Vete de Mi Lado](https://open.spotify.com/track/6JbqHYS9zYzxX1eWUZbKSl) | [Los Chakales](https://open.spotify.com/artist/643YpbScVr0u07i276NRiP) | [Vete de Mi Lado](https://open.spotify.com/album/15gCkMpPvEIoU7Ebov0NNr) | 3:07 |
 | 69 | [Esa Malvada](https://open.spotify.com/track/68yHLkMJJeeACIDwcTkT8T) | [Volcan](https://open.spotify.com/artist/6NbiEhux3dGIa1Akjqg9Qk) | [Te Sigo Queriendo](https://open.spotify.com/album/7KyFOWUu5Wdj28JqPmYwDK) | 2:57 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXavAgzH4TQLa.md) - [plain]
 | 79 | [No Llores](https://open.spotify.com/track/5371C5dR6UbNkr5aNemWQp) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [No Llores](https://open.spotify.com/album/6DHN6UTsXJj69qyyqrlAlT) | 4:16 |
 | 80 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 |
 
-Snapshot ID: `MCwyZmY1Y2U5OWI0NTNmNzk2YTJhMGU4ZDAzZTlmMzc5NDBmNWE1ODFl`
+Snapshot ID: `MCwwN2E3OTBlOTFkZmI4ZmVjOTA4NzU2ZDVkOWY4ZjhkNDgyOTUyMmFk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Mac DeMarco & Ryan Paris
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,286,814 likes - 160 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,284,459 likes - 160 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -167,6 +167,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 157 | [Bright Green Vibrant Gray](https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Bright Green Vibrant Gray](https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO) | 3:39 |
 | 158 | [Higher Frequency](https://open.spotify.com/track/4Sz0SPIAxsBfkkpqr3YwaJ) | [Bliss Samsa](https://open.spotify.com/artist/5Jb935Bdh5o2pBYzXFSFU6) | [Higher Frequency](https://open.spotify.com/album/29vz3ZKqjaJz4zdUPwgGNg) | 4:04 |
 | 159 | [forest green](https://open.spotify.com/track/4ARqMW0NJQpNtqnYHAgbjO) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [forest green](https://open.spotify.com/album/10avrb3XzKDttFJte6w2gR) | 3:27 |
-| 160 | [So You Are Tired](https://open.spotify.com/track/0BjU4kaYvJPjRIQqdxtNom) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Will Anybody Ever Love Me?](https://open.spotify.com/album/0k9E8vq5iYJUNO40E2G6U1) | 4:49 |
+| 160 | [So You Are Tired](https://open.spotify.com/track/0pkm7xATstQUqHoitmE3ru) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Javelin](https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs) | 4:49 |
 
-Snapshot ID: `MCxjZDUzYTIzNmI5MjlhY2QzYmQ1NjM5OGRmYjA3MGMyNDVmYzhiMzU5`
+Snapshot ID: `MCw1NDA4NjU3NzBhODc3NjUzMDZjODJmZmIwZDI3OTAxMDFiOGIxOWU4`

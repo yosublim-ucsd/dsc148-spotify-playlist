@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino\. Foto: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,388 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,216 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 88 | [Twerk \(feat\. Cardi B\)](https://open.spotify.com/track/0RRm4OS5ymfZryXBuj0G2m) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Girl Code](https://open.spotify.com/album/6zzs0HMzEPRotJaEJe8uwJ) | 2:46 |
 | 89 | [Calm Down](https://open.spotify.com/track/7xq3uN2toVZ8IbNzfTucyJ) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z) | [When It's Dark Out](https://open.spotify.com/album/09Q3WwGYsQe5ognkvVkmCu) | 2:07 |
 | 90 | [Simon Says](https://open.spotify.com/track/67IvfvAMYQzJEeHopvwMMW) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Simon Says](https://open.spotify.com/album/2hKCg2JLGtjATrYvpQedT5) | 2:53 |
-| 91 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 |
-| 92 | [Points of Authority / 99 Problems / One Step Closer](https://open.spotify.com/track/65eohvrL4ttjA7EfFkQOhX) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Collision Course \(Deluxe Version\)](https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy) | 4:55 |
+| 91 | [Points of Authority / 99 Problems / One Step Closer](https://open.spotify.com/track/65eohvrL4ttjA7EfFkQOhX) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Collision Course \(Deluxe Version\)](https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy) | 4:55 |
+| 92 | [Anybody](https://open.spotify.com/track/44SSviC4R1TkAdsyptjDpE) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:08 |
 | 93 | [Straightenin](https://open.spotify.com/track/3X2r2CnHOJeV5YekPTgBnK) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Straightenin](https://open.spotify.com/album/7MFj8Fxl8OrEAOyOBSMz51) | 4:15 |
 | 94 | [Stupid Again](https://open.spotify.com/track/1fPnUpoXCpD2NDI4vPVeLw) | [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [The New Toronto 3](https://open.spotify.com/album/2TbrXjwWklhT7JrC5sdUkf) | 2:54 |
 | 95 | [Party \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/track/5PDoWY5Av2Ba3rWIdY9Ij0) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Party \(feat\. A Boogie Wit da Hoodie\)](https://open.spotify.com/album/2ce9XFj7OA3f78oO5XFFhV) | 3:30 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 97 | [Hylander](https://open.spotify.com/track/3sOcmmmWB7dqyziUVLXpTi) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [somynem.grin](https://open.spotify.com/artist/5AQpcBCqfE0mHDM4dh02mf) | [Hylander](https://open.spotify.com/album/0XbOcrzCIIltxgcBdBUGAs) | 1:36 |
 | 98 | [We Set The Trends \(feat\. Migos & ‎Juelz Santana\) \- Remix](https://open.spotify.com/track/3KNxJvz0dM6aPb6bVJdyKi) | [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [We Set The Trends \(Remix\) \[feat\. ‎Migos & Juelz Santana\]](https://open.spotify.com/album/7JZ79IAZ6xFXBqbzsb06YE) | 3:37 |
 | 99 | [ROOF](https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Back On My Baby Jesus Sh!t AGAIN](https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B) | 1:34 |
-| 100 | [Bonde da Rock](https://open.spotify.com/track/6sC0OMXUGXDtzcm0SkJYv5) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm) | [Bonde da Rock](https://open.spotify.com/album/4lyBsKWg4M8zHI0Ormmpo7) | 2:17 |
+| 100 | [APESHIT](https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:24 |
 
-Snapshot ID: `MCwwMTJlMWVkOTA1MWYwNGEzYmRmYzI2YmU2ZWZmNmQ1ODhmNGY0Mjhj`
+Snapshot ID: `MCw1ZWE1NmVlMGFjMTFiYzBmOGE3YjQwZDM3OTI2NDM5OWQxZTM3ZjA2`

@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 455078,
+  "num_followers": 455121,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZmI3YTZkNzM4NjU4NDc2YzBiNzE0YzI2YmNiY2IzYmY0ZDFlODcz",
+  "snapshot_id": "MCwxNjU3OGJmYmRlMmMxYTcyOGE4MDFhMWEwYzFhOGY4ZWRkMmJmNDc3",
   "tracks": [
     {
       "added_at": "2023-09-20 04:42:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
-        "name": "P.S. I LOVE YOU",
-        "url": "https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq"
-      },
-      "artists": [
-        {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
-        }
-      ],
-      "duration_ms": 240903,
-      "name": "P.S. I LOVE YOU",
-      "url": "https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy"
-    },
-    {
-      "added_at": "2023-09-20 04:42:00",
-      "album": {
         "name": "Walk The Talk",
         "url": "https://open.spotify.com/album/7IRlD9qEXisysWi8O24EkU"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 207937,
       "name": "Kenangan Manis",
       "url": "https://open.spotify.com/track/1tS1dRfxIV9FzqdYTbJgMn"
+    },
+    {
+      "added_at": "2023-09-20 04:42:00",
+      "album": {
+        "name": "P.S. I LOVE YOU",
+        "url": "https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 240903,
+      "name": "P.S. I LOVE YOU",
+      "url": "https://open.spotify.com/track/1w3azB0VuRFp79AduIwrIy"
     },
     {
       "added_at": "2023-09-20 04:42:00",
@@ -895,22 +895,6 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
-        "name": "Mesin Waktu",
-        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
-      },
-      "artists": [
-        {
-          "name": "Budi Doremi",
-          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
-        }
-      ],
-      "duration_ms": 262734,
-      "name": "Mesin Waktu",
-      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
-    },
-    {
-      "added_at": "2023-09-20 04:42:00",
-      "album": {
         "name": "Film Favorit",
         "url": "https://open.spotify.com/album/2nXulMdqeETddh6KThsEjI"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 223500,
       "name": "Film Favorit",
       "url": "https://open.spotify.com/track/2BCYKFDWnZi9PMkZiemQh1"
+    },
+    {
+      "added_at": "2023-09-20 04:42:00",
+      "album": {
+        "name": "Mesin Waktu",
+        "url": "https://open.spotify.com/album/50po9sQMJ9mv7TNWW5lPZy"
+      },
+      "artists": [
+        {
+          "name": "Budi Doremi",
+          "url": "https://open.spotify.com/artist/6Ifk2cbxyVzT41jLexYCas"
+        }
+      ],
+      "duration_ms": 262734,
+      "name": "Mesin Waktu",
+      "url": "https://open.spotify.com/track/4ZX6ww7kJCABHIDQfy9Bmd"
     },
     {
       "added_at": "2023-09-20 04:42:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
+        "name": "f\u00e1bula",
+        "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
+      },
+      "artists": [
+        {
+          "name": "Mahalini",
+          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Melawan Restu",
+      "url": "https://open.spotify.com/track/6H7lvP0NgAF39Rn3qve4Og"
+    },
+    {
+      "added_at": "2023-09-20 04:42:00",
+      "album": {
         "name": "Ruang Tunggu",
         "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 393072,
       "name": "Yang Patah Tumbuh, Yang Hilang Berganti",
       "url": "https://open.spotify.com/track/6Rd4ep779v8CjlFVhaHrNX"
-    },
-    {
-      "added_at": "2023-09-20 04:42:00",
-      "album": {
-        "name": "f\u00e1bula",
-        "url": "https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv"
-      },
-      "artists": [
-        {
-          "name": "Mahalini",
-          "url": "https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Melawan Restu",
-      "url": "https://open.spotify.com/track/6H7lvP0NgAF39Rn3qve4Og"
     },
     {
       "added_at": "2023-09-20 04:42:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
-        "name": "Taman Langit",
-        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
-      },
-      "artists": [
-        {
-          "name": "Noah",
-          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
-        }
-      ],
-      "duration_ms": 199138,
-      "name": "Yang Terdalam",
-      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
-    },
-    {
-      "added_at": "2023-09-20 04:42:00",
-      "album": {
         "name": "The Best of Dewa 19",
         "url": "https://open.spotify.com/album/2AYCO1vDSYRYnlu7tK6ZcS"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 241266,
       "name": "Kamulah Satu - Satunya",
       "url": "https://open.spotify.com/track/6pCfc6xxUXYBWLMQhIWDmh"
+    },
+    {
+      "added_at": "2023-09-20 04:42:00",
+      "album": {
+        "name": "Taman Langit",
+        "url": "https://open.spotify.com/album/3f75vj6VfHVhh4v0Sw6ZzC"
+      },
+      "artists": [
+        {
+          "name": "Noah",
+          "url": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+        }
+      ],
+      "duration_ms": 199138,
+      "name": "Yang Terdalam",
+      "url": "https://open.spotify.com/track/6HP1bbIqafhFCRwMw81c7G"
     },
     {
       "added_at": "2023-09-20 04:42:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
-        "name": "Seamin Tak Seiman",
-        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
-      },
-      "artists": [
-        {
-          "name": "Mahen",
-          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
-        }
-      ],
-      "duration_ms": 216448,
-      "name": "Seamin Tak Seiman",
-      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
-    },
-    {
-      "added_at": "2023-09-20 04:42:00",
-      "album": {
         "name": "Belum Siap Kehilangan - Single",
         "url": "https://open.spotify.com/album/6WwKxL6zDhU9ENkD0VnzPW"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 288333,
       "name": "Belum Siap Kehilangan",
       "url": "https://open.spotify.com/track/3TSie4NZOh12yHhDwulBBV"
+    },
+    {
+      "added_at": "2023-09-20 04:42:00",
+      "album": {
+        "name": "Seamin Tak Seiman",
+        "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
+      },
+      "artists": [
+        {
+          "name": "Mahen",
+          "url": "https://open.spotify.com/artist/5Ag6luL11YrL1Znq0xsVuh"
+        }
+      ],
+      "duration_ms": 216448,
+      "name": "Seamin Tak Seiman",
+      "url": "https://open.spotify.com/track/26mwiyfmCKJBneTzlELpun"
     },
     {
       "added_at": "2023-09-20 04:42:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2023-09-20 04:42:00",
       "album": {
-        "name": "Ello",
-        "url": "https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s"
-      },
-      "artists": [
-        {
-          "name": "Ello",
-          "url": "https://open.spotify.com/artist/00o36BiAS5VuyfvzNtd3Ig"
-        }
-      ],
-      "duration_ms": 267600,
-      "name": "Pergi Untuk Kembali",
-      "url": "https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2"
-    },
-    {
-      "added_at": "2023-09-20 04:42:00",
-      "album": {
         "name": "Handmade",
         "url": "https://open.spotify.com/album/59KvITHzZaIAfs7lpHSbrY"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 257252,
       "name": "Kali Kedua",
       "url": "https://open.spotify.com/track/4CvYHgcpBFbefsz6Q55ID1"
+    },
+    {
+      "added_at": "2023-09-20 04:42:00",
+      "album": {
+        "name": "Ello",
+        "url": "https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s"
+      },
+      "artists": [
+        {
+          "name": "Ello",
+          "url": "https://open.spotify.com/artist/00o36BiAS5VuyfvzNtd3Ig"
+        }
+      ],
+      "duration_ms": 267600,
+      "name": "Pergi Untuk Kembali",
+      "url": "https://open.spotify.com/track/1WS4gL6sXWZ832B2SKYMq2"
     }
   ],
   "unique_name": "Santai Sejenak",

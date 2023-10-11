@@ -1,12 +1,12 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 189975,
+  "num_followers": 190031,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ODljNmM3NGYwN2I1MTYwODgxYmEzNGJhNjhiNzU3MzM4ZGQzZDNl",
+  "snapshot_id": "MCxiZjE4MmEyOGEyYjFkYzIyZjBlZDI3YzY1N2M4YjA4MzMyMWM0Y2U5",
   "tracks": [
     {
       "added_at": "2023-10-05 22:00:00",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "v\u00e1r",
-        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
-      },
-      "artists": [
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        }
-      ],
-      "duration_ms": 232392,
-      "name": "v\u00e1r",
-      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
         "name": "i went outside",
         "url": "https://open.spotify.com/album/62WGQjLeIZ2aZ5yA8Tth25"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 293400,
       "name": "i went outside",
       "url": "https://open.spotify.com/track/4FqqjYkdjKttebtiv6ovJL"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "v\u00e1r",
+        "url": "https://open.spotify.com/album/4Fy4CcZQ4WpfmRjfNmQMZF"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        }
+      ],
+      "duration_ms": 232392,
+      "name": "v\u00e1r",
+      "url": "https://open.spotify.com/track/34iSLP2Qs7dH4BZqP0Bj9U"
     },
     {
       "added_at": "2023-10-05 22:00:00",

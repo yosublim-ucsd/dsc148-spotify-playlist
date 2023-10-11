@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 
 > <a href="spotify:artist:7o2Y6TQr9B0ynZGhUDAkyj">Lotic</a>'s favorite tracks\. Updated regularly\. Curated by Lotic\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,621 likes - 81 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,627 likes - 81 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 46 | [Poenka](https://open.spotify.com/track/6NNS7zZ86ZohlXLIhXOU2Y) | [De Schuurman](https://open.spotify.com/artist/4PiQEwBGt6N4Hlblsia5N4) | [Bubbling Inside](https://open.spotify.com/album/4Xs5TnPOdo343Df5NCmgBZ) | 3:34 |
 | 47 | [No Debate](https://open.spotify.com/track/3xtG9ZIlwhW9nRuq39z0Iw) | [Rico Nasty](https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU) | [Nightmare Vacation](https://open.spotify.com/album/0jJEiaA2W9eFhTXC1EGMqG) | 2:13 |
 | 48 | [Quarantine Thick \(feat\. Latto\)](https://open.spotify.com/track/4JfCA7yaiEORC7NcKBS9nk) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [So Help Me God!](https://open.spotify.com/album/5RYrgGSMiYXGF8iwj2i1wF) | 3:10 |
-| 49 | [Peng Black Girls](https://open.spotify.com/track/4pRaCcnpz979CNaMiOS1tS) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Amia Brave](https://open.spotify.com/artist/3Sjv0t3F7FMsQrkWVZcOuW) | [Peng Black Girls](https://open.spotify.com/album/2bflMoQjvDfL59NRUMHylP) | 3:30 |
+| 49 | [Peng Black Girls \(feat\. Amia Brave\)](https://open.spotify.com/track/4pRaCcnpz979CNaMiOS1tS) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Amia Brave](https://open.spotify.com/artist/3Sjv0t3F7FMsQrkWVZcOuW) | [Peng Black Girls \(feat\. Amia Brave\)](https://open.spotify.com/album/2bflMoQjvDfL59NRUMHylP) | 3:30 |
 | 50 | [Jelly](https://open.spotify.com/track/7upI4eeUGFQWpHvFF36p2G) | [Big Homie Ty.Ni](https://open.spotify.com/artist/0IiQOvnmgZpXMLB1fLVYko) | [Jelly](https://open.spotify.com/album/62vEl5UFS0O6XcF7haIZDN) | 2:22 |
 | 51 | [Dickscipline](https://open.spotify.com/track/2UBbbRi3ReN6y8xAZ2KN82) | [Ms\. Boogie](https://open.spotify.com/artist/7HVlaChQbM9guWdiKMGxBq) | [Dickscipline](https://open.spotify.com/album/3V16MYzSW6nfGl9sp619N0) | 2:36 |
 | 52 | [UT Squad](https://open.spotify.com/track/294w7zSPE0BZfe2i3dEobH) | [DJ Danifox](https://open.spotify.com/artist/58qqZsbpx5jsctoHd4qhpL) | [UT Squad](https://open.spotify.com/album/4lrgl2Nm5IbTN5WIDdK3kz) | 3:22 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6eScvf6tpFA.md) - [plain]
 | 80 | [Régime des Fleurs](https://open.spotify.com/track/16xWwjg8p3T9n1aAptjIRp) | [Christina Vantzou](https://open.spotify.com/artist/4CMC2nnStv4EENjKBSDpKR) | [Régime des Fleurs](https://open.spotify.com/album/7cIyUAuwTnbQEvTIy5Nsju) | 2:50 |
 | 81 | [The Richest Garden in your Memory](https://open.spotify.com/track/1NnmRSDbEyJmeC7gufEOiw) | [Hinako Omori](https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB) | [a journey...](https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M) | 2:57 |
 
-Snapshot ID: `MCxlZjUzNWZkYjRiNmNjNTZlZmUzNTIyMDI5ZGQ5Nzk4MDcwOGNkYTk3`
+Snapshot ID: `MCwyZTk4YWM0NDA3ZjA0YjUyYTBmNGViZjMxYTE0NjVkNjE2OGFlZGQy`

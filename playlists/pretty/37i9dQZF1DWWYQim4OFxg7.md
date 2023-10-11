@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYQim4OFxg7.md) - [plain]
 
 > These songs about science will get your kids thinking \(and dancing!\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,177 likes - 30 songs - 1 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,195 likes - 30 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWYQim4OFxg7.md) - [plain]
 | 29 | [Science Is Real](https://open.spotify.com/track/7xFXq8zWrmUsM4geMf4ieS) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 1:54 |
 | 30 | [Speed and Velocity](https://open.spotify.com/track/7BT6rJugPKZS9STlaAiNxH) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O), [Marty Beller](https://open.spotify.com/artist/7mI3lEVRmJ9Yjpuu2J0GfI) | [Here Comes Science](https://open.spotify.com/album/0DiKDeuH9pBNY9mfiNSpAd) | 1:48 |
 
-Snapshot ID: `MCw5NWYwMTIwZjBiMTU2ZmNhNTAxMTVlMDNiMDU2NGE4NGNkYmNjZDU3`
+Snapshot ID: `MCwyMzM3ZmI2OTVkNjBmOWFlYmRmZDkxNWM2YWE2YjAzODQ2MjFmOWJi`

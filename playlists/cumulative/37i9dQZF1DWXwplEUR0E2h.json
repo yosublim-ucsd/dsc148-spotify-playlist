@@ -358,7 +358,7 @@
       ],
       "date_added": "2023-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 209655,
       "name": "En Mi Piel",
       "url": "https://open.spotify.com/track/7xkMZiXypSSqi7EIIYLDHF"
@@ -1238,6 +1238,48 @@
       "duration_ms": 191573,
       "name": "Si Te La Encuentras Por Ah\u00ed",
       "url": "https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT"
+    },
+    {
+      "album": {
+        "name": "Todos Mienten",
+        "url": "https://open.spotify.com/album/3Smf95F1l0e8wO5TDfpnpV"
+      },
+      "artists": [
+        {
+          "name": "Soley",
+          "url": "https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        },
+        {
+          "name": "Reboll333",
+          "url": "https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg"
+        },
+        {
+          "name": "Los Rogelios",
+          "url": "https://open.spotify.com/artist/3Iq3cJnSTLqSEg7IFzsers"
+        },
+        {
+          "name": "ElMalaFama",
+          "url": "https://open.spotify.com/artist/4jyb6tiyWziOp0Gu1Gre49"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        },
+        {
+          "name": "Robin Rouse",
+          "url": "https://open.spotify.com/artist/36pU0SBDFZq23Ca4qq40jg"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "Todos Mienten",
+      "url": "https://open.spotify.com/track/5d5OZU83S7zk9tywpKXU7H"
     },
     {
       "album": {

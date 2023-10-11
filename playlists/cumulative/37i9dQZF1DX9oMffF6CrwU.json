@@ -507,6 +507,28 @@
     },
     {
       "album": {
+        "name": "Among Horses III",
+        "url": "https://open.spotify.com/album/1EeXJ45fmNfRtHRGPWAjvz"
+      },
+      "artists": [
+        {
+          "name": "Haley Heynderickx",
+          "url": "https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X"
+        },
+        {
+          "name": "Max Garc\u00eda Conover",
+          "url": "https://open.spotify.com/artist/4ztTnsVkjvWdYvrrXLFdW4"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123000,
+      "name": "Francis",
+      "url": "https://open.spotify.com/track/7g07tmYNBITxvbR3KaTZjU"
+    },
+    {
+      "album": {
         "name": "Day of the Dead",
         "url": "https://open.spotify.com/album/5eVGVLpLcMEjuP1BNdlKWz"
       },

@@ -4,7 +4,7 @@
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-53 songs - 2 hr 29 min
+54 songs - 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Catarino y los Rurales](https://open.spotify.com/track/3KXnVMFgHKnJFkoot8yJBU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 2:32 | 2023-08-08 |  |
 | [Chalito \- En Vivo](https://open.spotify.com/track/5fzKzpAcYCgBX7w5ZnWqrb) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Chalito \(En Vivo\)](https://open.spotify.com/album/1LGdkrFFofe48iC2BxIggu) | 2:37 | 2023-08-08 | 2023-08-20 |
 | [Cuanto Me Gusta Este Rancho](https://open.spotify.com/track/7gZmWoDwKhBJUnU69Mo8fc) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 2:38 | 2023-08-08 |  |
+| [Cuatro Caminos](https://open.spotify.com/track/3ZRed7OJLXiSvfl0Ikv0qH) | [Banda Lirio](https://open.spotify.com/artist/1CeKKAjI4yG5sAIPMxJvY8), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Al Rey José Alfredo Jiménez Vol\. 2](https://open.spotify.com/album/2OSScqwUyJf5gtMfj93T2b) | 2:36 | 2023-10-10 |  |
 | [De 8 A 5](https://open.spotify.com/track/19CPH67llc3aSBnTtQNTZE) | [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [DE 8 A 5](https://open.spotify.com/album/5qiRNbxxZW5kUPFA9v0O8c) | 3:14 | 2023-08-08 |  |
 | [De Mi Viejo](https://open.spotify.com/track/7carA1Po4OJtsuw8QlIJko) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 3:03 | 2023-08-08 |  |
 | [De Puntitas](https://open.spotify.com/track/5krlcKy4xFlCQbJ75rhNJ9) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Hay pa' Toro](https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp) | 2:39 | 2023-08-08 |  |
@@ -59,7 +60,7 @@
 | [Soy de Durango](https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:21 | 2023-08-08 | 2023-09-19 |
 | [Todo Cuanto Tuve](https://open.spotify.com/track/6JwjqMU4RLbtLkBjfxpOoA) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Todo Cuanto Tuve](https://open.spotify.com/album/1BNiuAljuo2eYq65BqvzTh) | 2:29 | 2023-08-08 |  |
 | [Tus Desprecios](https://open.spotify.com/track/6gyPojQkJawXsMryAeu5Se) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Tus Desprecios](https://open.spotify.com/album/3si2q6g6Mw94o5wsftqXH6) | 2:22 | 2023-08-08 |  |
-| [Una Enorme Distancia](https://open.spotify.com/track/0lOCeRlDcp66rN0chuRIoU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Hay pa' Toro](https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp) | 1:50 | 2023-08-08 |  |
+| [Una Enorme Distancia](https://open.spotify.com/track/0lOCeRlDcp66rN0chuRIoU) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Hay pa' Toro](https://open.spotify.com/album/1sFW62xlG5S3d5PrM0H7Cp) | 1:50 | 2023-08-08 | 2023-10-11 |
 | [Vengo a Aclarar](https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Vengo a Aclarar](https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR) | 2:30 | 2023-08-08 |  |
 
 \*This playlist was first scraped on 2023-08-09. Prior content cannot be recovered.

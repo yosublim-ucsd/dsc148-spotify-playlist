@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,622 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,722 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 79 | [The World Seen Through Your Eyes](https://open.spotify.com/track/3wZJx9WqtJpWwtJ0rRjRFv) | [Findlay Brown](https://open.spotify.com/artist/5SxW5qi5l3VJnO0qzsI8Rs) | [The World Seen Through Your Eyes](https://open.spotify.com/album/2dpFmlFSx2XbdNBDRPYciW) | 2:30 |
 | 80 | [I Hate Myself](https://open.spotify.com/track/0c0S1M4ik3EnhHdqH43VTv) | [Florence Pugh](https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq) | [Allison's Songs](https://open.spotify.com/album/3LGwrBU9oDIZRPICGaAMhH) | 4:02 |
 
-Snapshot ID: `MCxiZDcwMWYwZTk2N2VlMGIwZTIwZWIyYTJiYmM3YmY1Njc3MzExY2Nk`
+Snapshot ID: `MCw1ZDdkZmIzNGVjYTMyMGNlODY5ODRkODk3MTJhMGIwOTQ4Y2E1Yzlj`

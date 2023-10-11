@@ -4,7 +4,7 @@
 
 > Home is where you park it.
 
-292 songs - 18 hr 12 min
+293 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [A Lingering Love](https://open.spotify.com/track/6Edccn5z5RF4fb0nzFfpzH) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Gold Past Life](https://open.spotify.com/album/4yyxKPCiD1A7kQkfidacBu) | 3:36 | 2021-12-09 | 2022-07-29 |
 | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/track/2my0HGJw82GQrF3xhnTUVS) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [A Song for the Drunk and Broken Hearted](https://open.spotify.com/album/1Px3Gber8VEiOAMsRzf0vY) | 3:59 | 2021-12-09 | 2022-07-19 |
 | [A\-Train](https://open.spotify.com/track/0ktYrEjj1nNE7O5fjPuZnn) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Voyage Voyage](https://open.spotify.com/album/0ywaz1IM15sKDoQMZ2shoR) | 4:59 | 2021-12-09 | 2022-07-29 |
-| [A\-Train](https://open.spotify.com/track/54YPsBTRPJAIITS8oND6wx) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Voyage Voyage](https://open.spotify.com/album/0cwcEJiVLcBtY84ojgKYsc) | 4:59 | 2022-07-21 |  |
+| [A\-Train](https://open.spotify.com/track/54YPsBTRPJAIITS8oND6wx) | [COMA](https://open.spotify.com/artist/5t9SPy7c5n665XZCoAuR52) | [Voyage Voyage](https://open.spotify.com/album/0cwcEJiVLcBtY84ojgKYsc) | 4:59 | 2022-07-21 | 2023-10-11 |
 | [A.M\. RADIO](https://open.spotify.com/track/0Hu1ylV8WuaLcLclixNgTV) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [BRIGHTSIDE](https://open.spotify.com/album/3K8XmeN3jQvl6reRJcfakL) | 3:57 | 2022-07-21 |  |
 | [A.M\. RADIO](https://open.spotify.com/track/0szIXYe2JiSuNHLWkh5cAP) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [A.M\. RADIO](https://open.spotify.com/album/5oNA6BVdRfyj4XyHv4X4wz) | 3:57 | 2021-12-09 | 2022-07-29 |
 | [All Fall Down](https://open.spotify.com/track/2vl3iQZmJZ2Ztz3USIUHCH) | [Travis](https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh) | [All Fall Down](https://open.spotify.com/album/0p6mdiaKAjYCS3uX4VL1rT) | 3:27 | 2021-12-09 | 2022-07-01 |
@@ -41,6 +41,7 @@
 | [Belo Horizonte](https://open.spotify.com/track/2F09YSqsNCGLBGvrvUWvZp) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [Welcome To Kookoo Island](https://open.spotify.com/album/2O9fmLV4Ces4cMW5NySLWT) | 3:46 | 2022-09-30 |  |
 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 | 2021-12-09 | 2022-11-13 |
 | [Bicycle Day](https://open.spotify.com/track/0wC6uIBKnc4vTwA3WMb9cN) | [Markus Nikolaus](https://open.spotify.com/artist/4ZjrEAWRBDsm5PRwCzKCds) | [Bicycle Day](https://open.spotify.com/album/0FR0jouBzwrB9Rbd2lGwcH) | 3:34 | 2022-09-30 | 2022-11-17 |
+| [Black & Thunder](https://open.spotify.com/track/2oJDtsC8StI3UIX1zEGiAr) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [At the Roadhouse](https://open.spotify.com/album/2UpcMYFkeMbmD1LiBjvYn9) | 5:01 | 2023-10-04 |  |
 | [Black & Thunder](https://open.spotify.com/track/67o1YjulbnuP5zSAuCKuFN) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Black & Thunder](https://open.spotify.com/album/5KyfBZXbi33Sl7Zn426t8L) | 5:01 | 2023-07-26 | 2023-09-05 |
 | [Blinking](https://open.spotify.com/track/41z41ChUI6twSJj07WGe5T) | [The Slow Show](https://open.spotify.com/artist/696uMzB97pg2uqfzmK3MvO) | [Blinking](https://open.spotify.com/album/79OGQ3TYv55TqTSCqSDZ7q) | 3:40 | 2021-12-09 | 2022-07-29 |
 | [Blue](https://open.spotify.com/track/1MrElax7day41jzoztYk2k) | [Angelo De Augustine](https://open.spotify.com/artist/0W79ONUwHoehEib1nRXlmi) | [Blue](https://open.spotify.com/album/3iIrKF9cVzG0sctCOOgP3U) | 2:36 | 2021-12-09 | 2022-07-27 |

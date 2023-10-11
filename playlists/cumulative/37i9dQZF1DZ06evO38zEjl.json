@@ -1017,6 +1017,36 @@
     },
     {
       "album": {
+        "name": "The Surgeon of the Nightsky Restores Dead Things by the Power of Sound",
+        "url": "https://open.spotify.com/album/74g7seSo0zRdbrTYee6CnF"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "J.A. Deane",
+          "url": "https://open.spotify.com/artist/1mhS5UKsgRzY9KffORVlQ3"
+        },
+        {
+          "name": "Jean-Philippe Rykiel",
+          "url": "https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn"
+        },
+        {
+          "name": "Michael Brook",
+          "url": "https://open.spotify.com/artist/5NTEVDdw1KuWN3cUX3kZ1y"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 429381,
+      "name": "Hamburg",
+      "url": "https://open.spotify.com/track/57mpO1gHEyVdH90hdRaOqm"
+    },
+    {
+      "album": {
         "name": "Psychogeography (Zones Of Feeling)",
         "url": "https://open.spotify.com/album/1pEsxrM0zpGCkHAXZtskVZ"
       },
@@ -1534,7 +1564,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 270040,
       "name": "Ondas Do Mar De Vigo",
       "url": "https://open.spotify.com/track/79JXjJ4YPgLlgJEJ9BJ9Wd"
@@ -1730,7 +1760,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 427533,
       "name": "Power Spot",
       "url": "https://open.spotify.com/track/2W01MVAo5hFT1ybtruRc5c"
@@ -2346,7 +2376,7 @@
       ],
       "date_added": "2023-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 263306,
       "name": "Warm Shift",
       "url": "https://open.spotify.com/track/7gGjI3K2oHJb3tZKbCuX4l"

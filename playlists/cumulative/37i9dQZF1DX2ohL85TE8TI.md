@@ -2,7 +2,7 @@
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: My Lovely Boxer\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 순정복서\)
+> Hot & new K\-Drama OSTs are here! \(Cover: BALLERINA\(발레리나\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 순정복서\)
 
 734 songs - 1 day 20 hr 29 min
 
@@ -87,7 +87,7 @@
 | [Bite](https://open.spotify.com/track/5SVGGGHyZaRPwvJtVMgCgr) | [D.O.](https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC) | [Bad Prosecutor \(Original Television Soundtrack, Pt\. 3\)](https://open.spotify.com/album/4b2cSq7UmDqQOCWFNzkAVw) | 3:21 | 2022-11-03 | 2023-02-25 |
 | [Bite!](https://open.spotify.com/track/5INLCxTdmeulHS3UB4Qq30) | [Baekho](https://open.spotify.com/artist/5N1kYTtrjl9ksUacreBHZf) | [Crazy Love \(Original Television Soundtrack\) Pt\. 3](https://open.spotify.com/album/5Mhnp2r2l5veahC1v5dDpb) | 3:18 | 2022-03-22 | 2022-06-14 |
 | [Blindness](https://open.spotify.com/track/2ZhlLjvrhfwjtTkyDynNVE) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Celebrity \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/1DZAAzyj7SIZgi6EqVh2uP) | 3:43 | 2023-07-17 |  |
-| [BLOOD ON MY HANDS \(Feat\. Paul Blanco & DeVita\)](https://open.spotify.com/track/2tWlrQ5VAwVcVmTdxeqa5J) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Ballerina \(Music from The Netflix Series\)](https://open.spotify.com/album/11HqjJX3c1LsSrCmUUBjI5) | 3:31 | 2023-10-10 |  |
+| [BLOOD ON MY HANDS \(Feat\. Paul Blanco & DeVita\)](https://open.spotify.com/track/2tWlrQ5VAwVcVmTdxeqa5J) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Ballerina \(Music from The Netflix Film\)](https://open.spotify.com/album/11HqjJX3c1LsSrCmUUBjI5) | 3:31 | 2023-10-10 |  |
 | [Blood Sign](https://open.spotify.com/track/7uNZkJWibKfa0tTPQ058qW) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [One Ordinary Day \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/3ZQ8KyTqp298sj29BvsGgA) | 3:33 | 2021-12-19 | 2022-03-23 |
 | [Blue](https://open.spotify.com/track/4gmfWtdGKKruVwfQVHAkQs) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [국민사형투표 OST Part.3 \(Soundtrack\)](https://open.spotify.com/album/2KJdUlvaz9AJWBOvpJPvrP) | 4:12 | 2023-10-10 |  |
 | [BLUE BIRD](https://open.spotify.com/track/5oRnMV22oGPgbZaX7XisuU) | [LUNCH](https://open.spotify.com/artist/65YBBPdR47xfH0Nc0Lc5tF) | [UNCLE \(Original Television Soundtrack\)](https://open.spotify.com/album/0Y2fzS4d6ZkDUcjTMEQI38) | 3:46 | 2022-02-03 | 2022-05-04 |

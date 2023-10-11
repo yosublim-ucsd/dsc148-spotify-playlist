@@ -6356,10 +6356,28 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 172949,
       "name": "Wat ik Zocht",
       "url": "https://open.spotify.com/track/3UNGg3HXwemW4tjy7XIw3g"
+    },
+    {
+      "album": {
+        "name": "Beste Zangers 2023 (MEAU)",
+        "url": "https://open.spotify.com/album/1sh6HCkhboWsoln9lf0ay8"
+      },
+      "artists": [
+        {
+          "name": "MEAU",
+          "url": "https://open.spotify.com/artist/2F3Mdh2idBVOiMTxXoxc10"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172949,
+      "name": "Wat ik Zocht",
+      "url": "https://open.spotify.com/track/3gMNloOnIjQ9eZzQhiiDrb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic <a href="spotify:genre:house">house</a> and <a href="spotify:genre:techno">techno</a> to light up the night.
 
-510 songs - 2 day 1 hr 45 min
+511 songs - 2 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -342,7 +342,7 @@
 | [Only](https://open.spotify.com/track/79nJCukLolYKeltbUDlLS8) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Only](https://open.spotify.com/album/0EahPFAeYJ0NJRWrltZFi8) | 7:34 | 2022-07-18 | 2022-08-23 |
 | [Open Secret](https://open.spotify.com/track/4cKPCUHY4PmNbQEUjS3KUU) | [Fiin](https://open.spotify.com/artist/1epLtVgUJz01HSPZbdAT1X) | [Open Secret](https://open.spotify.com/album/1GipAiG1HNG1npI5lSeWs7) | 4:33 | 2022-05-20 | 2022-07-22 |
 | [Oracle](https://open.spotify.com/track/3gJu4keUtRC5e32h64905c) | [Michael Canitrot](https://open.spotify.com/artist/6cHlz9dCAlPQakpsEnuIMv) | [Oracle](https://open.spotify.com/album/4HlY3pU8a1WADSLdTS6iBX) | 4:51 | 2022-07-01 | 2023-07-09 |
-| [Orbit \- Radio Mix](https://open.spotify.com/track/2DcYimY0tMvZ0hcPtCuw6q) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Branka](https://open.spotify.com/album/3KssGSJxtkbJPUSzy5BbuI) | 3:31 | 2023-07-28 |  |
+| [Orbit \- Radio Mix](https://open.spotify.com/track/2DcYimY0tMvZ0hcPtCuw6q) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [Branka](https://open.spotify.com/album/3KssGSJxtkbJPUSzy5BbuI) | 3:31 | 2023-07-28 | 2023-10-11 |
 | [Osama \- Claptone Remix](https://open.spotify.com/track/1XcpR3x6MzWP4soqbXU7Qu) | [Zakes Bantwini](https://open.spotify.com/artist/5mZLaYqN0ZkjxfeUUmiuqL), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r), [Claptone](https://open.spotify.com/artist/4mncDFjVLUa3s025Tct3Ry) | [Osama \(Claptone Remix\)](https://open.spotify.com/album/7c9uVaoqvliWaTRFRPwMYN) | 3:09 | 2023-09-08 |  |
 | [Osaya](https://open.spotify.com/track/5Hmc0lNbOukoKNToiDtMai) | [Mozambo](https://open.spotify.com/artist/7p0BlEIc8u88hMrzTfWQhi), [Meloko](https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg) | [Osaya](https://open.spotify.com/album/7eowi1M8nTwOXigGzn90J9) | 6:15 | 2023-06-02 |  |
 | [Otaku](https://open.spotify.com/track/2pKqAIkPQraNbuL0quBuPo) | [Nure](https://open.spotify.com/artist/4zsl085OD62z4Pyc7JPhUq) | [Otaku](https://open.spotify.com/album/4v4qIlqoXLTX1CyIvdtZaU) | 6:12 | 2022-01-12 | 2022-07-17 |
@@ -514,6 +514,7 @@
 | [Yoruba](https://open.spotify.com/track/6VNWwYYl9jCCIZD224ALSD) | [Yamil](https://open.spotify.com/artist/28ZgRJOXwmLwPRppMCcLWS) | [Yoruba](https://open.spotify.com/album/5S65Qudj7Jk2YLiDUsWBJ9) | 7:07 | 2022-11-11 | 2023-07-16 |
 | [Your Inner Workings](https://open.spotify.com/track/3nEHRDu0SiBcMYg5WuHsN0) | [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Your Inner Workings](https://open.spotify.com/album/4ABZUaxjI2R19wvLzXgNHC) | 5:33 | 2022-05-24 | 2022-10-15 |
 | [Your Love \- Agents of Time Remix](https://open.spotify.com/track/3dZ7Xexqt0O3mx2hhTfYri) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Your Love \(Agents of Time Remix\)](https://open.spotify.com/album/7yud1MBi2dNt3mqzfVXgXT) | 6:50 | 2022-10-28 |  |
+| [YOUR NAME](https://open.spotify.com/track/7uHnPv1DBxADOMBemb1Xdn) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [SILVERLAKE 03](https://open.spotify.com/album/3EHHWKU0W1jIsFcmpaXqas) | 5:11 | 2023-10-06 |  |
 | [Your Voice \- Adam Port Remix](https://open.spotify.com/track/1Rv6Lfdcny3Avjmpm4W4YM) | [Caiiro](https://open.spotify.com/artist/0fs9otT9TtwXUOcFXZomZY), [AWEN](https://open.spotify.com/artist/5uOaNXrr4qGx9YXbo9HaUl), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Your Voice \(Adam Port Remix\)](https://open.spotify.com/album/7i97hHLFqXAVFIIsUGw2Da) | 4:20 | 2022-08-19 |  |
 | [Your Way](https://open.spotify.com/track/2V64rudkFZ9gciglMM0t5S) | [Emanuele Esposito](https://open.spotify.com/artist/0dnLkdyWw9XCNQhGln0HZU), [Darksidevinyl](https://open.spotify.com/artist/7JgdmzLGGrt808y5C1STh0) | [Your Way](https://open.spotify.com/album/0QZrG85ir88fpUnbxzgFe6) | 6:18 | 2022-09-30 | 2022-10-29 |
 | [Zodiac](https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Zodiac](https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV) | 5:42 | 2023-05-12 |  |

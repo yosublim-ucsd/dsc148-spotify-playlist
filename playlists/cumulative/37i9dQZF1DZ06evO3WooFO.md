@@ -4,7 +4,7 @@
 
 > This is blink\-182\. The essential tracks, all in one playlist.
 
-70 songs - 3 hr 37 min
+71 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Carousel](https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 3:14 | 2022-01-11 |  |
 | [Cynical](https://open.spotify.com/track/0oOOVSZGuPriWBqwbh0uuJ) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 1:55 | 2023-01-14 |  |
 | [Dammit](https://open.spotify.com/track/6WkSUgo1VdpzgtiXKlFPcY) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/2CoVyQi2zIifUNBcVR0gEH) | 2:45 | 2022-01-11 |  |
+| [DANCE WITH ME](https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [DANCE WITH ME](https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh) | 3:08 | 2023-10-10 |  |
 | [Darkside](https://open.spotify.com/track/39n1y2JqVOPIdfUeLqzgfl) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [NINE](https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF) | 3:00 | 2022-01-11 |  |
 | [death bed \(feat\. beabadoobee & blink\-182\) \- bonus remix](https://open.spotify.com/track/607PGYIaTaTyAKQtmPpUom) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [poems of the past](https://open.spotify.com/album/4VUCwdM2v9WfRR8mwZuVq4) | 2:13 | 2022-10-12 | 2023-07-11 |
 | [Dogs Eating Dogs](https://open.spotify.com/track/5uqOdeWBd2gFKUAJPoy1q6) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dogs Eating Dogs](https://open.spotify.com/album/3Jpdv1X5cweLrcebtM1tar) | 3:30 | 2022-01-11 |  |

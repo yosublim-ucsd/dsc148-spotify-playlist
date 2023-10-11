@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-[Spotify](https://open.spotify.com/user/spotify) - 410,389 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 410,598 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,10 +98,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 88 | [Ocean](https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB) | [Brijean](https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb) | [Feelings](https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi) | 4:21 |
 | 89 | [Sweet Lie](https://open.spotify.com/track/47AS3xyNXDjP5SrgpG3cmL) | [Max Jury](https://open.spotify.com/artist/3MuPVbFDynbq9zRTAqjRxi) | [Modern World](https://open.spotify.com/album/5lLgEhk1YTVF7mg3MyN28p) | 4:42 |
 | 90 | [Awake](https://open.spotify.com/track/1fxTBBkvupe6a6qo8fLGST) | [Rosehip](https://open.spotify.com/artist/3FEUxHWFYivuxwd4tjIPoT) | [Awake](https://open.spotify.com/album/6WvJL6ZCOXBbBtCOiyBOuK) | 3:06 |
-| 91 | [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 |
+| 91 | [Sounds Of Blue](https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Sounds Of Blue](https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc) | 3:34 |
 | 92 | [Hold On](https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Hold On](https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ) | 3:30 |
 | 93 | [Baby No More](https://open.spotify.com/track/50YFf2wxdUPioeqahWKCl1) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Giver Taker](https://open.spotify.com/album/5UWRaW0ui40kohTv4PyBEc) | 2:44 |
-| 94 | [Sounds Of Blue](https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F) | [Morcheeba](https://open.spotify.com/artist/6bWxFw65IEJzBYjx3SxUXd) | [Sounds Of Blue](https://open.spotify.com/album/3RZlQHoOCB6F9RjrFveKfc) | 3:34 |
+| 94 | [Harlem River](https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [Under Darkening Skies](https://open.spotify.com/album/7fDsHkCbzW928mVa9irayU) | 4:37 |
 | 95 | [Saturday Yawning](https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Saturday Yawning](https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA) | 2:28 |
 | 96 | [Foreign Affair](https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng) | [Garden City Movement](https://open.spotify.com/artist/3HrczLBDJXJu6dJWEMbKHa) | [Apollonia](https://open.spotify.com/album/5HFw44c3URCTNzgCAM47wu) | 2:38 |
 | 97 | [Baby Blu](https://open.spotify.com/track/5TLMnMcFTlxa7on9ZltYzz) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [Miss Universe](https://open.spotify.com/album/1kodX6YjT66DyInfVS6aGv) | 4:41 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KOz8PNkOlS.md) - [plain]
 | 99 | [Tru Love](https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Tru Love](https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8) | 3:18 |
 | 100 | [Je t'aime encore](https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Je t'aime encore](https://open.spotify.com/album/2LwLu0fzlazgCv4wDc3xpQ) | 3:37 |
 
-Snapshot ID: `MCwwZWNmMmUyZGU0M2M1MTBhOGRmZDE3NGU5MTIzYjBkNzY2ZWY5NzVm`
+Snapshot ID: `MCxmNDMwZTE1NTU5Y2ZhYjIzMjNkMDc1NGJlYTMzZDQ2Y2IwYWU4MzJl`

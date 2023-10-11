@@ -4,7 +4,7 @@
 
 > This is ClariS\. The essential tracks, all in one playlist.
 
-86 songs - 6 hr 3 min
+87 songs - 6 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [with you](https://open.spotify.com/track/0q7cr2AmsvucswUwfX1FoL) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SECOND STORY](https://open.spotify.com/album/33dTcMAujg3u1lpBsbUsWx) | 3:54 | 2022-06-12 |  |
 | [はいからさんが通る](https://open.spotify.com/track/6QrS77ONjNMxEYsB2oUFMJ) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [はいからさんが通る](https://open.spotify.com/album/0dca4QVNK34ZVjcive1X1y) | 4:43 | 2023-06-10 |  |
 | [ひらひら　ひらら](https://open.spotify.com/track/5WCOCRgRtn8OfkDJfoyYYv) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Castle\(Deluxe Edition）](https://open.spotify.com/album/0rH0uunj6T2TNLNKuHXjy4) | 5:13 | 2022-06-09 |  |
+| [ふぉりら](https://open.spotify.com/track/10Oq2X4RVbAn4ZHOsVi7yn) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [ふぉりら](https://open.spotify.com/album/1HExkowmkR1bvHMvrP4AcJ) | 3:44 | 2023-10-10 |  |
 | [もういちど ルミナス](https://open.spotify.com/track/2nMVkKOSXWlx39bDb6O3Ac) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3), [丸山彩 from Pastel\*Palettes](https://open.spotify.com/artist/0N8XbKOOPtJqiSZcjKPfCI) | [もういちど ルミナス](https://open.spotify.com/album/3iAPqnmOiEYK1Il7Ngydj5) | 4:21 | 2022-06-09 | 2022-09-17 |
 | [アイデンティティ](https://open.spotify.com/track/1rSTT91gK0K4CbLOrGtaxu) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 4:51 | 2022-06-16 | 2022-09-26 |
 | [アイヲウタエ](https://open.spotify.com/track/4qfhuChuz77EaZrqKgwHEA) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [SHIORI](https://open.spotify.com/album/00paTaIXU1wa5JRcpZE21q) | 4:03 | 2022-06-09 |  |
@@ -92,7 +93,7 @@
 | [淋しい熱帯魚](https://open.spotify.com/track/1oNBmN9FfWYE94BRiIGeBM) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [淋しい熱帯魚](https://open.spotify.com/album/1hyaup1uQPsURjo4Eja3Lj) | 4:26 | 2023-05-10 |  |
 | [淋しい熱帯魚 \-SCRAMBLES ver.\-](https://open.spotify.com/track/6vIANGW9UVlwgRYP4oolrY) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [淋しい熱帯魚](https://open.spotify.com/album/5RhxWqFO2DZvw1NJjByTET) | 4:00 | 2023-06-27 |  |
 | [眠り姫](https://open.spotify.com/track/4C6L6e2wXdWXj4tw5TcLcP) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [PARTY TIME](https://open.spotify.com/album/66y4Wxg2FCFTr6g67NXfYY) | 4:00 | 2022-10-04 | 2022-10-06 |
-| [瞳の中のローレライ](https://open.spotify.com/track/0GxGhggqr0zvTiFb5yEC4z) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 3:13 | 2022-10-12 |  |
+| [瞳の中のローレライ](https://open.spotify.com/track/0GxGhggqr0zvTiFb5yEC4z) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Parfaitone](https://open.spotify.com/album/5vtV8mTQkDP2UORcFCXk8J) | 3:13 | 2022-10-12 | 2023-10-11 |
 | [陽だまり](https://open.spotify.com/track/092Ify2XiyScCNOpZlhDc9) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [Fairy Party](https://open.spotify.com/album/34cOizYrnROPXji1gfR38k) | 4:14 | 2022-06-11 | 2022-08-31 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

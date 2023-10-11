@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,616 likes - 110 songs - 6 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,906 likes - 110 songs - 6 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 2 | [That's What I Like](https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [24K Magic](https://open.spotify.com/album/4PgleR09JVnm3zY1fW3XBA) | 3:26 |
 | 3 | [What It Is \(Solo Version\)](https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [What It Is \(Versions\)](https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5) | 3:09 |
 | 4 | [Woman](https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 2:52 |
-| 5 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
-| 6 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 |
+| 5 | [Umbrella](https://open.spotify.com/track/49FYlytm3dAAraYgpoJZux) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 4:35 |
+| 6 | [CUFF IT](https://open.spotify.com/track/1xzi1Jcr7mEi9K2RfzLOqS) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:45 |
 | 7 | [Can't Feel My Face](https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Beauty Behind The Madness](https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s) | 3:33 |
 | 8 | [Lost](https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:54 |
 | 9 | [Low](https://open.spotify.com/track/2GAhgAjOhEmItWLfgisyOn) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 78 | [Spotlight](https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We) | [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5) | [Jennifer Hudson](https://open.spotify.com/album/6RCEPR3vf58GQTK2sT1cQP) | 4:10 |
 | 79 | [Don't Waste My Time \(feat\. Ella Mai\)](https://open.spotify.com/track/3Ey11v2aiX14s4wBaYbhlp) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Don't Waste My Time \(feat\. Ella Mai\)](https://open.spotify.com/album/2veUi52T9SqSvwXJYd5aIT) | 3:19 |
 | 80 | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/track/3unpulZnIiKRZ4MCymHfXx) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Smoke \(feat\. Lucky Daye\)](https://open.spotify.com/album/24myqNnAEPwBjGfhEm6WJA) | 3:06 |
-| 81 | [Last Night](https://open.spotify.com/track/3Cn1FSSTXeQ7hCfrbizrD0) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Just Like You](https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK) | 4:15 |
-| 82 | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 2:47 |
+| 81 | [Simmer \(feat\. Burna Boy\)](https://open.spotify.com/track/5S2TCmPS3UUrG3ZK7NBa7b) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 2:47 |
+| 82 | [Last Night](https://open.spotify.com/track/3Cn1FSSTXeQ7hCfrbizrD0) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA) | [Just Like You](https://open.spotify.com/album/7mdy09EO4q6F9VWBtXDDjK) | 4:15 |
 | 83 | [Right Here \- Human Nature Radio Mix](https://open.spotify.com/track/5u3FywQOPJ5O7ZAjm31cnq) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Right Here](https://open.spotify.com/album/5mfslBbxkZtxhSfnB2u2Gj) | 3:46 |
 | 84 | [Get Right](https://open.spotify.com/track/0rLzyBecRbTpnBWvMtPVFR) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Rebirth](https://open.spotify.com/album/1fRr47hbp60yegltnsvkEH) | 3:45 |
 | 85 | [Only U \- No Intro](https://open.spotify.com/track/3sckKKIx96cjPXtiqPHCTB) | [Ashanti](https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83) | [Concrete Rose](https://open.spotify.com/album/3oL0vq8diYrPLGWVgjJBPD) | 3:06 |
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 109 | [No, No, No Pt\. 2 \(feat\. Wyclef Jean\)](https://open.spotify.com/track/5kHgrRO3hMDPehtH9VhYQc) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i), [Wyclef Jean](https://open.spotify.com/artist/7aBzpmFXB4WWpPl2F7RjBe) | [Destiny's Child](https://open.spotify.com/album/3zB2PjaK4CDzxBErKvDvfo) | 3:27 |
 | 110 | [Call Me Every Day \(feat\. Wizkid\)](https://open.spotify.com/track/0SSVi1ND8YAk5XpaHOePoo) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Breezy \(Deluxe\)](https://open.spotify.com/album/1C3mF3UUqVmt7udrgQGbJC) | 2:26 |
 
-Snapshot ID: `MCxiOTk0YTlhMTgxYjVkMDU1YzlhYWNmMzVmODI3N2M4ZjJhOTRkYTZk`
+Snapshot ID: `MCwzYmMzNzJlMjMyMmQwMzIxOTg3ZWRmZTRiZjM3NTU3ZTg0YTk0MTIz`

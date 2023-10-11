@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,970 likes - 65 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,035 likes - 65 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 17 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 |
 | 18 | [Soul On Fire \(feat\. All Sons & Daughters\) \(feat\. All Sons & Daughters\)](https://open.spotify.com/track/73ZSUS3WLluxgASR1Hp74B) | [Third Day](https://open.spotify.com/artist/7uWXomGkKtIq9B4XgA3gch), [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir) | [Lead Us Back: Songs of Worship](https://open.spotify.com/album/0SgfcGHEntlBVfb3DOxkZw) | 3:17 |
 | 19 | [Eye of the Storm \(feat\. Gabe Real\)](https://open.spotify.com/track/6RSBBvhrP0KvkpaUSMPI11) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97), [Gabereal](https://open.spotify.com/artist/7pMRuTQan8Xa2erCF93GR7) | [Fresh Start](https://open.spotify.com/album/0deQGdpl2LNu0o7s9wRVGk) | 5:31 |
-| 20 | [The River](https://open.spotify.com/track/3gQC0KTBXZeysuzRqMrfbD) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Beloved](https://open.spotify.com/album/6xzgb1SLbb9yC3fONCwYI1) | 3:15 |
-| 21 | [Even Then](https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:16 |
+| 20 | [Even Then](https://open.spotify.com/track/1dN6rm3ywe9rWuANyICuCG) | [Micah Tyler](https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi) | [Different](https://open.spotify.com/album/6qDY9KRWCs4DX3hNvN9wMB) | 3:16 |
+| 21 | [The River](https://open.spotify.com/track/3gQC0KTBXZeysuzRqMrfbD) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Beloved](https://open.spotify.com/album/6xzgb1SLbb9yC3fONCwYI1) | 3:15 |
 | 22 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 |
 | 23 | [Springtime](https://open.spotify.com/track/0TmYlHDVP4gUTkUbl7AIsv) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Let the Ground Rest](https://open.spotify.com/album/67cPtLz0jVSsGHWLiIMip7) | 4:14 |
 | 24 | [At The Cross \(Love Ran Red\)](https://open.spotify.com/track/27uBwOJbW6kHsCbKGukxMK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 4:10 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 64 | [My Prayer For You](https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:03 |
 | 65 | [Who You Say I Am \- Live](https://open.spotify.com/track/6nkJ6jerrO6S4V0kdc4KRp) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [Who You Say I Am \(Live\)](https://open.spotify.com/album/6AwxNZobkuWGt3PFL5wFVc) | 5:29 |
 
-Snapshot ID: `MCwzMzIwYjEzNDg3NDkxZWYzNGJhMTg2ZmJmMzQzMjkxMGE0N2FmY2Mw`
+Snapshot ID: `MCw0YmQ5NDIwZjQzMTkyNWY5Mzk3MWRmYmY2MzRjNWRhMWYzMWM5MDk0`

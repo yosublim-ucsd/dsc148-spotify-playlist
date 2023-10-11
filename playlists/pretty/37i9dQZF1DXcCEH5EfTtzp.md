@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCEH5EfTtzp.md) - [plain]
 
 > Energetic drum & bass to keep your rhythm pumping.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,414 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,514 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCEH5EfTtzp.md) - [plain]
 | 21 | [Just a Thought](https://open.spotify.com/track/2EbqiDj1qphX79aYluZqtw) | [Fred V & Grafix](https://open.spotify.com/artist/1wzBqAvtFexgKHjt7i3ena), [Reija Lee](https://open.spotify.com/artist/19Lu0quNl0YH77llcXOiDB) | [Just a Thought](https://open.spotify.com/album/2rFUzgJlwZI9mc2Q9Wyh95) | 5:46 |
 | 22 | [Junipero](https://open.spotify.com/track/4O4ZTbRcRN8PQT9NqnNLwe) | [Jack Mirror](https://open.spotify.com/artist/2R9vcW0kK2LNTxSFtFgSgP), [Elle Exxe](https://open.spotify.com/artist/4Y8MTcJjGJ2pHoLVLf9Dpa) | [Junipero](https://open.spotify.com/album/66QImKgI6JNsBowTvPWfYW) | 4:13 |
 | 23 | [Don't Let Me Go](https://open.spotify.com/track/1xxPxD1FDHA3wsYfkWcHRr) | [The Prototypes](https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX), [Amy Pearson](https://open.spotify.com/artist/45zLG5M6J0SN3A8qVeNZmM) | [City of Gold \(Bonus Version\)](https://open.spotify.com/album/0d40rt2GajKuAiXLviKGVY) | 4:30 |
-| 24 | [Embers feat\. Jill Harris \- Feint Remix](https://open.spotify.com/track/1fnY8pVtFE5pnmzI8uVBTP) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Jill Harris](https://open.spotify.com/artist/0sS6vdjySCo7woMsZ1rWtx) | [Bloodless](https://open.spotify.com/album/38RBUsybcjNmmNyquxSoU0) | 3:54 |
+| 24 | [We Can Have It All \- Sigma Remix](https://open.spotify.com/track/2tjmXoZlWjtqJCIyhr4Oq8) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG) | [Rave Digger \(Special Edition\)](https://open.spotify.com/album/36xBHpakmB89bWWOB572IV) | 5:37 |
 | 25 | [I Need To Feel](https://open.spotify.com/track/5NOds8na1gzgwXlAo1eGoh) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [I Need To Feel](https://open.spotify.com/album/6Wu75AP5tQnH26vWoYcoRM) | 3:36 |
-| 26 | [We Can Have It All \- Sigma Remix](https://open.spotify.com/track/2tjmXoZlWjtqJCIyhr4Oq8) | [Danny Byrd](https://open.spotify.com/artist/7iczgrgAFILjQVGzLsUzbG) | [Rave Digger \(Special Edition\)](https://open.spotify.com/album/36xBHpakmB89bWWOB572IV) | 5:37 |
+| 26 | [Embers feat\. Jill Harris \- Feint Remix](https://open.spotify.com/track/1fnY8pVtFE5pnmzI8uVBTP) | [Dabin](https://open.spotify.com/artist/7lZauDnRoAC3kmaYae2opv), [Feint](https://open.spotify.com/artist/6RQ9kYbHisp1UUbnfwHNeU), [Jill Harris](https://open.spotify.com/artist/0sS6vdjySCo7woMsZ1rWtx) | [Bloodless](https://open.spotify.com/album/38RBUsybcjNmmNyquxSoU0) | 3:54 |
 | 27 | [Searching](https://open.spotify.com/track/7qoQn2qMmK53Xs4LIydI0c) | [Kove](https://open.spotify.com/artist/4cxzGdmQtUZJL1WYOdFQ5F) | [Searching](https://open.spotify.com/album/3n4T8URktdTykDQnsRvoZI) | 4:13 |
 | 28 | [Again \(feat\. Takura\)](https://open.spotify.com/track/6b5yDIjAWJlc3KbjKULccB) | [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Faith In Chaos](https://open.spotify.com/album/26Vyrwt4qfkiPMqUJUf7dr) | 3:51 |
 | 29 | [By A Thread](https://open.spotify.com/track/5XIVnow02xlkHwxETQ3Lnq) | [Mediks](https://open.spotify.com/artist/1CSR4k7z9w7H99xTbrqcu1), [Georgina Upton](https://open.spotify.com/artist/7JCBYEYzXAvuU7OWNN3TUw) | [Fast Lane EP](https://open.spotify.com/album/0vcrQUHgikgybKzujWvVx3) | 4:36 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcCEH5EfTtzp.md) - [plain]
 | 44 | [If This Is Love](https://open.spotify.com/track/77ebieOFB2bE9eSBm9zdiV) | [DC Breaks](https://open.spotify.com/artist/4D5VLxuFvZ058Z5S8YmE47) | [If This Is Love](https://open.spotify.com/album/4oX2Kv0zByhQnLNvfmMi3H) | 4:21 |
 | 45 | [Make It There \- The Prototypes Remix](https://open.spotify.com/track/3ILChiLd3fzmL2rfAe4ctO) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa), [Folly Rae](https://open.spotify.com/artist/4wZBiNHbCi2TMXjSP86LJ6), [The Prototypes](https://open.spotify.com/artist/7F6nxkPQrlh4qWDetjgnpX) | [Make It There](https://open.spotify.com/album/6XCA1yakc5A9Pf874HXzds) | 4:22 |
 | 46 | [Astral Walker](https://open.spotify.com/track/0K0Yq0qxbKR5WSYDxvDGgP) | [Station Earth](https://open.spotify.com/artist/1G9FmqZJybVEOXqMOR5usy) | [The Rampage EP](https://open.spotify.com/album/0iEO9pPagEb3Ewp3VSH2uq) | 5:37 |
-| 47 | [Air Castles \- Original Mix](https://open.spotify.com/track/7EU15pPIughfkoZIv6lkcH) | [Avizura](https://open.spotify.com/artist/7s8NiB8C6FinzSpeDtyJHm) | [Galaxy of Dreams 2 \(Liquicity Presents\)](https://open.spotify.com/album/262DAiwfDs0TcvfvTbUyRL) | 4:26 |
-| 48 | [Zainab](https://open.spotify.com/track/3tdey5GSO6U8tAQrfJDVeJ) | [IYRE](https://open.spotify.com/artist/4lOMuHPiA5TrLjPk1aseIc) | [Āśrama](https://open.spotify.com/album/715eUzIu8MRswkzjLWNnSP) | 5:01 |
+| 47 | [Zainab](https://open.spotify.com/track/3tdey5GSO6U8tAQrfJDVeJ) | [IYRE](https://open.spotify.com/artist/4lOMuHPiA5TrLjPk1aseIc) | [Āśrama](https://open.spotify.com/album/715eUzIu8MRswkzjLWNnSP) | 5:01 |
+| 48 | [Air Castles \- Original Mix](https://open.spotify.com/track/7EU15pPIughfkoZIv6lkcH) | [Avizura](https://open.spotify.com/artist/7s8NiB8C6FinzSpeDtyJHm) | [Galaxy of Dreams 2 \(Liquicity Presents\)](https://open.spotify.com/album/262DAiwfDs0TcvfvTbUyRL) | 4:26 |
 | 49 | [Renegade Style](https://open.spotify.com/track/3GXdJbnrlYdYHk2KJW0mqk) | [Benny V](https://open.spotify.com/artist/5BzGLS6EMMEBNueYreXaZI), [DJ Uniques](https://open.spotify.com/artist/3xhcT4NHKeMwEccRRVGSLH), [MC Fearless](https://open.spotify.com/artist/3fUEoPDtbh0OKVFlg1Mheh) | [Who's Ready?](https://open.spotify.com/album/60iJ0JcGYYeQIS9eWALZ8Y) | 4:50 |
 | 50 | [Futurism](https://open.spotify.com/track/0TzjN3TEKHd5Ewb2OLHpzQ) | [GEST](https://open.spotify.com/artist/0MmQJrFB85cY6DCj3wjCtk) | [Futurism](https://open.spotify.com/album/4TFqV5gUh7qoMhKa2FZBlM) | 5:13 |
 
-Snapshot ID: `MCxlZTYwNmFiZTJhMjhiMzgxY2UxMWUzODMxMWIwOTg0M2ViOTZiMmNi`
+Snapshot ID: `MCwxYzM2MzBhOWExNmE3NDg3ZWNhN2UyMjkyNDM0YTFmYzdlOGZlMjcz`

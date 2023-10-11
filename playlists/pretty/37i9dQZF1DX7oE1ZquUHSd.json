@@ -1,12 +1,12 @@
 {
   "description": "El poder real del Hip Hop latinoamericano y espa\u00f1ol. La Banda Bast\u00f6n en portada. ",
-  "num_followers": 167818,
+  "num_followers": 167880,
   "original_name": "Cl\u00e1sicos del Hip Hop Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2EwNTQ4Y2JmNTQ5MjNiOWY4YTg3MDMyYmM4ZTM0Y2Y0MTMzZjg0",
+  "snapshot_id": "MCwwZWJmZTdhOGEzNjY1NzIyZDBiMzZiNGMwYmU4OWMwZDNhYzc4NTUy",
   "tracks": [
     {
       "added_at": "2023-08-08 02:05:58",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Rain",
-        "url": "https://open.spotify.com/album/2rmhl1gQux3WGPJA77FgRN"
-      },
-      "artists": [
-        {
-          "name": "Trueno",
-          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
-        }
-      ],
-      "duration_ms": 182831,
-      "name": "Rain",
-      "url": "https://open.spotify.com/track/1EljzqiV1RDtXj1QUbx3db"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "ANDR\u00d3MEDA",
         "url": "https://open.spotify.com/album/5hP0Os6zCLLnf5ADAeIVs7"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 171475,
       "name": "ANDR\u00d3MEDA",
       "url": "https://open.spotify.com/track/3hNKWD8kkxOEJ7K90PjWri"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/2rmhl1gQux3WGPJA77FgRN"
+      },
+      "artists": [
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "duration_ms": 182831,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1EljzqiV1RDtXj1QUbx3db"
     },
     {
       "added_at": "2023-08-08 02:05:58",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-08-08 02:05:58",
       "album": {
-        "name": "Minotauro",
-        "url": "https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg"
-      },
-      "artists": [
-        {
-          "name": "Proof",
-          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
-        }
-      ],
-      "duration_ms": 245958,
-      "name": "Minotauro",
-      "url": "https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U"
-    },
-    {
-      "added_at": "2023-08-08 02:05:58",
-      "album": {
         "name": "ANIMAL",
         "url": "https://open.spotify.com/album/4eBTljS2CAgzO8rfcwRTGp"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 170981,
       "name": "ANIMAL",
       "url": "https://open.spotify.com/track/06b0Au6pvZiO03eKTCvgWh"
+    },
+    {
+      "added_at": "2023-08-08 02:05:58",
+      "album": {
+        "name": "Minotauro",
+        "url": "https://open.spotify.com/album/2hAcA9mRxXHUvAJ5SIj1dg"
+      },
+      "artists": [
+        {
+          "name": "Proof",
+          "url": "https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd"
+        }
+      ],
+      "duration_ms": 245958,
+      "name": "Minotauro",
+      "url": "https://open.spotify.com/track/3EaQ8vn5i8TUyE5jmSAn2U"
     },
     {
       "added_at": "2023-08-08 02:05:58",

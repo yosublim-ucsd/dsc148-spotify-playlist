@@ -1,12 +1,12 @@
 {
   "description": "All the stuff that will blow your speakers!",
-  "num_followers": 329578,
+  "num_followers": 329848,
   "original_name": "Bass Explosion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2UwZWU2YWYzYjdiNjNiMDk4M2UyNzFiMmQzZGE2ZTQzYWIxYTg5",
+  "snapshot_id": "MCw1Zjk3YWIzZDU0ZjBhZjg2ZTE3ODExNTNiNTg3ZjliY2M5MWRiY2Ux",
   "tracks": [
     {
       "added_at": "2023-10-05 22:00:00",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Say It Again",
-        "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
       },
       "artists": [
         {
-          "name": "Will Sparks",
-          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Say It Again",
-      "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
+      "duration_ms": 152015,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "CALYPSO",
-        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
+        "name": "Say It Again",
+        "url": "https://open.spotify.com/album/6qmP3e4qPHcnj0576IRaV6"
       },
       "artists": [
         {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+          "name": "Will Sparks",
+          "url": "https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U"
         }
       ],
-      "duration_ms": 152015,
-      "name": "CALYPSO",
-      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
+      "duration_ms": 207272,
+      "name": "Say It Again",
+      "url": "https://open.spotify.com/track/0dDGl66J8riMFyp2yUn88W"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
+        "name": "Techno Sound",
+        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
+      },
+      "artists": [
+        {
+          "name": "LUM!X",
+          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+        }
+      ],
+      "duration_ms": 189960,
+      "name": "Techno Sound",
+      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
         "name": "Better Than Gold",
         "url": "https://open.spotify.com/album/5A3WkvUJOGBMYpruWmySBh"
       },
@@ -1315,26 +1331,6 @@
       "duration_ms": 320000,
       "name": "Better Than Gold",
       "url": "https://open.spotify.com/track/5cxskQNZLSxEkEhqdi5ad6"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
-        "name": "Kids",
-        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Tony Junior",
-          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
-        }
-      ],
-      "duration_ms": 248471,
-      "name": "Kids",
-      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -1359,18 +1355,22 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Techno Sound",
-        "url": "https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5"
+        "name": "Kriss Kross",
+        "url": "https://open.spotify.com/album/29D6qw7B4I5h9IemDdeoTZ"
       },
       "artists": [
         {
-          "name": "LUM!X",
-          "url": "https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy"
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        },
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
         }
       ],
-      "duration_ms": 189960,
-      "name": "Techno Sound",
-      "url": "https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C"
+      "duration_ms": 156705,
+      "name": "Kriss Kross",
+      "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -1395,22 +1395,22 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Kriss Kross",
-        "url": "https://open.spotify.com/album/29D6qw7B4I5h9IemDdeoTZ"
+        "name": "Kids",
+        "url": "https://open.spotify.com/album/6NLWTRopducZJWVcygmaFq"
       },
       "artists": [
         {
-          "name": "W&W",
-          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
         },
         {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+          "name": "Tony Junior",
+          "url": "https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0"
         }
       ],
-      "duration_ms": 156705,
-      "name": "Kriss Kross",
-      "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
+      "duration_ms": 248471,
+      "name": "Kids",
+      "url": "https://open.spotify.com/track/5G2gw64OPqCc26U8bsjb4g"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -1523,38 +1523,22 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "She Knows (with Akon) [3 Are Legend x MANDY Remix]",
-        "url": "https://open.spotify.com/album/5LZqYANVnxVQjjV1d9KE0W"
+        "name": "All Of The Lights",
+        "url": "https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov"
       },
       "artists": [
         {
-          "name": "Dimitri Vegas & Like Mike",
-          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
+          "name": "Coone",
+          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Afro Bros",
-          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "3 Are Legend",
-          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
-        },
-        {
-          "name": "MANDY",
-          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
+          "name": "Robert Falcon",
+          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
         }
       ],
-      "duration_ms": 182598,
-      "name": "She Knows (with Akon) - 3 Are Legend x MANDY Remix",
-      "url": "https://open.spotify.com/track/4nzwusPHj8TosWlr3J1EZ5"
+      "duration_ms": 241600,
+      "name": "All Of The Lights",
+      "url": "https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -1595,22 +1579,38 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "All Of The Lights",
-        "url": "https://open.spotify.com/album/0wK6eSB5Q8rwc8cjkTUfov"
+        "name": "She Knows (with Akon) [3 Are Legend x MANDY Remix]",
+        "url": "https://open.spotify.com/album/5LZqYANVnxVQjjV1d9KE0W"
       },
       "artists": [
         {
-          "name": "Coone",
-          "url": "https://open.spotify.com/artist/1Wt63OMKtv6v2ivHuQLm2C"
+          "name": "Dimitri Vegas & Like Mike",
+          "url": "https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk"
         },
         {
-          "name": "Robert Falcon",
-          "url": "https://open.spotify.com/artist/5CVwY7MrkxGF1aM4f1u6Xk"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Afro Bros",
+          "url": "https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "3 Are Legend",
+          "url": "https://open.spotify.com/artist/6w0JXd2nT27GXVTbsuQ2II"
+        },
+        {
+          "name": "MANDY",
+          "url": "https://open.spotify.com/artist/59VlEky6rgwrcluurlvspE"
         }
       ],
-      "duration_ms": 241600,
-      "name": "All Of The Lights",
-      "url": "https://open.spotify.com/track/5hBqQDU8fb3tuUDgtRR13H"
+      "duration_ms": 182598,
+      "name": "She Knows (with Akon) - 3 Are Legend x MANDY Remix",
+      "url": "https://open.spotify.com/track/4nzwusPHj8TosWlr3J1EZ5"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -1651,6 +1651,30 @@
       "duration_ms": 154285,
       "name": "Sweet Dreams (Are Made Of This)",
       "url": "https://open.spotify.com/track/2VgsFO5sOTrLo2AOXV7q0W"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Low (Macon's HYPERTECHNO Remix)",
+        "url": "https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V"
+      },
+      "artists": [
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Low (Macon's HYPERTECHNO Remix)",
+      "url": "https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -1731,30 +1755,6 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Welcome to the Club",
-        "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
-      },
-      "artists": [
-        {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
-        },
-        {
-          "name": "KYANU",
-          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
-        },
-        {
-          "name": "DJ Gollum",
-          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
-        }
-      ],
-      "duration_ms": 195537,
-      "name": "Welcome to the Club",
-      "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
         "name": "Superman",
         "url": "https://open.spotify.com/album/7tYL9vmWTgy5l6XN2yMnYc"
       },
@@ -1779,46 +1779,26 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Low (Macon's HYPERTECHNO Remix)",
-        "url": "https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V"
+        "name": "Welcome to the Club",
+        "url": "https://open.spotify.com/album/20oXdz9ix2ZGYlGvAIo7PZ"
       },
       "artists": [
         {
-          "name": "71 Digits",
-          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
         },
         {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+          "name": "KYANU",
+          "url": "https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ"
         },
         {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+          "name": "DJ Gollum",
+          "url": "https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT"
         }
       ],
-      "duration_ms": 166666,
-      "name": "Low (Macon's HYPERTECHNO Remix)",
-      "url": "https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
-        "name": "Take Me Up",
-        "url": "https://open.spotify.com/album/0ZMTslSR9ktXlBVOIXXoI8"
-      },
-      "artists": [
-        {
-          "name": "Da Tweekaz",
-          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
-        },
-        {
-          "name": "Gammer",
-          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
-        }
-      ],
-      "duration_ms": 205919,
-      "name": "Take Me Up",
-      "url": "https://open.spotify.com/track/0AJD30r5ExP6Dy0frAruiT"
+      "duration_ms": 195537,
+      "name": "Welcome to the Club",
+      "url": "https://open.spotify.com/track/6TvQn79IjdaQanfYK7ZDgo"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -1843,22 +1823,42 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "Weekend Party",
-        "url": "https://open.spotify.com/album/4iELrv5c4zQNNlzEZdLdo1"
+        "name": "Ray Of Solar (Anfisa Letyago Remix)",
+        "url": "https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2"
       },
       "artists": [
         {
-          "name": "Harris & Ford",
-          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "ItaloBrothers",
-          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
         }
       ],
-      "duration_ms": 143600,
-      "name": "Weekend Party",
-      "url": "https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8"
+      "duration_ms": 207919,
+      "name": "Ray Of Solar - Anfisa Letyago Remix",
+      "url": "https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
+        "name": "Take Me Up",
+        "url": "https://open.spotify.com/album/0ZMTslSR9ktXlBVOIXXoI8"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        },
+        {
+          "name": "Gammer",
+          "url": "https://open.spotify.com/artist/5nd7jnne7zbsV2J5jBKNOY"
+        }
+      ],
+      "duration_ms": 205919,
+      "name": "Take Me Up",
+      "url": "https://open.spotify.com/track/0AJD30r5ExP6Dy0frAruiT"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -1879,26 +1879,6 @@
       "duration_ms": 206733,
       "name": "Dark Water",
       "url": "https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy"
-    },
-    {
-      "added_at": "2023-10-05 22:00:00",
-      "album": {
-        "name": "Ray Of Solar (Anfisa Letyago Remix)",
-        "url": "https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Anfisa Letyago",
-          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
-        }
-      ],
-      "duration_ms": 207919,
-      "name": "Ray Of Solar - Anfisa Letyago Remix",
-      "url": "https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR"
     },
     {
       "added_at": "2023-10-05 22:00:00",
@@ -2007,6 +1987,26 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
+        "name": "Weekend Party",
+        "url": "https://open.spotify.com/album/4iELrv5c4zQNNlzEZdLdo1"
+      },
+      "artists": [
+        {
+          "name": "Harris & Ford",
+          "url": "https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt"
+        },
+        {
+          "name": "ItaloBrothers",
+          "url": "https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ"
+        }
+      ],
+      "duration_ms": 143600,
+      "name": "Weekend Party",
+      "url": "https://open.spotify.com/track/6l6qbSwlEAWRGfbL5sf8y8"
+    },
+    {
+      "added_at": "2023-10-05 22:00:00",
+      "album": {
         "name": "Insomnia (Rework)",
         "url": "https://open.spotify.com/album/3O4Td8QTtXYMfbj8d4h7P6"
       },
@@ -2063,18 +2063,22 @@
     {
       "added_at": "2023-10-05 22:00:00",
       "album": {
-        "name": "BANG!",
-        "url": "https://open.spotify.com/album/3u5seutkhK9M6DdLiTaZMa"
+        "name": "Elevate",
+        "url": "https://open.spotify.com/album/0npNLby7U2chGnsBha4XZM"
       },
       "artists": [
         {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+          "name": "Little Sis Nora",
+          "url": "https://open.spotify.com/artist/1KYt3TMGpa1LtVi0m2A0F9"
+        },
+        {
+          "name": "S3RL",
+          "url": "https://open.spotify.com/artist/11aa081aKYUzmeFm0yHdT2"
         }
       ],
-      "duration_ms": 168775,
-      "name": "BANG!",
-      "url": "https://open.spotify.com/track/5FsTWdLoi1GTy1B6KIMO8N"
+      "duration_ms": 183771,
+      "name": "Elevate",
+      "url": "https://open.spotify.com/track/28JBNdOB8oCOcZpKgu39Dv"
     }
   ],
   "unique_name": "Bass Explosion",

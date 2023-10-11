@@ -1,12 +1,12 @@
 {
   "description": "Smooth soul-inspired tracks ",
-  "num_followers": 15601,
+  "num_followers": 15633,
   "original_name": "Cocoa Butter ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDNlMjY5OGI0OTJhNzI2ZjQxMTAyODdkNGRkNjU3OTlmN2RjY2Q5",
+  "snapshot_id": "MCw2NTgwYjRjNDI5ZWFiZGIzMTBlNjhkZTViNmE5ODcyYTgyYzg4MjE0",
   "tracks": [
     {
       "added_at": "2023-10-06 17:31:38",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-10-06 17:31:38",
       "album": {
+        "name": "Gold",
+        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 229477,
+      "name": "There Will Be No Crying",
+      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
+    },
+    {
+      "added_at": "2023-10-06 17:31:38",
+      "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 227448,
       "name": "Mukulu",
       "url": "https://open.spotify.com/track/5kYxdQaX15bCWOltfEUmvM"
-    },
-    {
-      "added_at": "2023-10-06 17:31:38",
-      "album": {
-        "name": "Gold",
-        "url": "https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 229477,
-      "name": "There Will Be No Crying",
-      "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
     },
     {
       "added_at": "2023-10-06 17:31:38",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-10-06 17:31:38",
       "album": {
+        "name": "If Orange Was A Place",
+        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 224171,
+      "name": "Avoid Things",
+      "url": "https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV"
+    },
+    {
+      "added_at": "2023-10-06 17:31:38",
+      "album": {
         "name": "Party Girls (feat. Buju Banton)",
         "url": "https://open.spotify.com/album/0ixL0K67B2xkOjom88AdXQ"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 243094,
       "name": "Party Girls (feat. Buju Banton)",
       "url": "https://open.spotify.com/track/5h0uJbjD9QEvXwigegc5O5"
-    },
-    {
-      "added_at": "2023-10-06 17:31:38",
-      "album": {
-        "name": "If Orange Was A Place",
-        "url": "https://open.spotify.com/album/0x2ntwkM3GoLVAPjAOPrWv"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 224171,
-      "name": "Avoid Things",
-      "url": "https://open.spotify.com/track/2fw39xbq6pDrtzQB4M1MhV"
     },
     {
       "added_at": "2023-10-06 17:31:38",
@@ -371,30 +371,22 @@
     {
       "added_at": "2023-10-06 17:31:38",
       "album": {
-        "name": "The Age of Pleasure",
-        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
+        "name": "Bad Boy Etiquette 101",
+        "url": "https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp"
       },
       "artists": [
         {
-          "name": "Janelle Mon\u00e1e",
-          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
+          "name": "Ajebo Hustlers",
+          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
         },
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Seun Kuti",
-          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
-        },
-        {
-          "name": "Egypt 80",
-          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
+          "name": "Fave",
+          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
         }
       ],
-      "duration_ms": 169986,
-      "name": "Know Better (feat. CKay, Seun Kuti & Egypt 80)",
-      "url": "https://open.spotify.com/track/0pSIOwm8Jz5iMj3nR2rllq"
+      "duration_ms": 200412,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/78LJK1nCgnYprkhLK0JriD"
     },
     {
       "added_at": "2023-10-06 17:31:38",
@@ -419,22 +411,30 @@
     {
       "added_at": "2023-10-06 17:31:38",
       "album": {
-        "name": "Bad Boy Etiquette 101",
-        "url": "https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp"
+        "name": "The Age of Pleasure",
+        "url": "https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ"
       },
       "artists": [
         {
-          "name": "Ajebo Hustlers",
-          "url": "https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4"
+          "name": "Janelle Mon\u00e1e",
+          "url": "https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs"
         },
         {
-          "name": "Fave",
-          "url": "https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        },
+        {
+          "name": "Egypt 80",
+          "url": "https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW"
         }
       ],
-      "duration_ms": 200412,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/78LJK1nCgnYprkhLK0JriD"
+      "duration_ms": 169986,
+      "name": "Know Better (feat. CKay, Seun Kuti & Egypt 80)",
+      "url": "https://open.spotify.com/track/0pSIOwm8Jz5iMj3nR2rllq"
     },
     {
       "added_at": "2023-10-06 17:31:38",
@@ -483,6 +483,22 @@
     {
       "added_at": "2023-10-06 17:31:38",
       "album": {
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
+      },
+      "artists": [
+        {
+          "name": "Tay Iwar",
+          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
+        }
+      ],
+      "duration_ms": 156213,
+      "name": "Don't Lie",
+      "url": "https://open.spotify.com/track/4PjUTGWC6hQJ84zQQOMkWk"
+    },
+    {
+      "added_at": "2023-10-06 17:31:38",
+      "album": {
         "name": "When It Blooms",
         "url": "https://open.spotify.com/album/6yJ4EJm92OdmuMy8ijBZGq"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 191952,
       "name": "Kilimanjaro (with BEAM)",
       "url": "https://open.spotify.com/track/3r8tz52ga3zUJwYyMe6lyM"
-    },
-    {
-      "added_at": "2023-10-06 17:31:38",
-      "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/2YZpIbvbQ8XSJbak4KeocR"
-      },
-      "artists": [
-        {
-          "name": "Tay Iwar",
-          "url": "https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo"
-        }
-      ],
-      "duration_ms": 156213,
-      "name": "Don't Lie",
-      "url": "https://open.spotify.com/track/4PjUTGWC6hQJ84zQQOMkWk"
     },
     {
       "added_at": "2023-10-06 17:31:38",
@@ -659,22 +659,6 @@
     {
       "added_at": "2023-10-06 17:31:38",
       "album": {
-        "name": "Selling Dreams",
-        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
-      },
-      "artists": [
-        {
-          "name": "Nana Fofie",
-          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
-        }
-      ],
-      "duration_ms": 148283,
-      "name": "Selling Dreams",
-      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
-    },
-    {
-      "added_at": "2023-10-06 17:31:38",
-      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/53xFvK9UHs6TujEwY2NZhb"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 238917,
       "name": "Summer Breeze",
       "url": "https://open.spotify.com/track/3Xp7M0XASUptb61H0mLAcQ"
+    },
+    {
+      "added_at": "2023-10-06 17:31:38",
+      "album": {
+        "name": "Selling Dreams",
+        "url": "https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL"
+      },
+      "artists": [
+        {
+          "name": "Nana Fofie",
+          "url": "https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW"
+        }
+      ],
+      "duration_ms": 148283,
+      "name": "Selling Dreams",
+      "url": "https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR"
     },
     {
       "added_at": "2023-10-06 17:31:38",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-10-06 17:31:38",
       "album": {
-        "name": "In A Perfect World",
-        "url": "https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI"
-      },
-      "artists": [
-        {
-          "name": "\u00c4yanna",
-          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
-        }
-      ],
-      "duration_ms": 172008,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/1OTnajlDj0KrMMkhtlc7uY"
-    },
-    {
-      "added_at": "2023-10-06 17:31:38",
-      "album": {
         "name": "TOP BOY",
         "url": "https://open.spotify.com/album/7GmKqpAQbUw7Nr8SboaAPq"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 182400,
       "name": "Honest",
       "url": "https://open.spotify.com/track/2vnNYl3UDY9Grubs0VAK5m"
+    },
+    {
+      "added_at": "2023-10-06 17:31:38",
+      "album": {
+        "name": "In A Perfect World",
+        "url": "https://open.spotify.com/album/3oPebCk2nGseupO5q4PxiI"
+      },
+      "artists": [
+        {
+          "name": "\u00c4yanna",
+          "url": "https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD"
+        }
+      ],
+      "duration_ms": 172008,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/1OTnajlDj0KrMMkhtlc7uY"
     },
     {
       "added_at": "2023-10-06 17:31:38",
@@ -843,26 +843,6 @@
     {
       "added_at": "2023-10-06 17:31:38",
       "album": {
-        "name": "Spell (Remix)",
-        "url": "https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW"
-      },
-      "artists": [
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        }
-      ],
-      "duration_ms": 173304,
-      "name": "Spell - Remix",
-      "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
-    },
-    {
-      "added_at": "2023-10-06 17:31:38",
-      "album": {
         "name": "Line Of Fire",
         "url": "https://open.spotify.com/album/3U6QUf4oimV7XlmeTwKx4I"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 255000,
       "name": "Line Of Fire",
       "url": "https://open.spotify.com/track/6IKuTYKo7pIlHQ9Xnxvoxj"
+    },
+    {
+      "added_at": "2023-10-06 17:31:38",
+      "album": {
+        "name": "Spell (Remix)",
+        "url": "https://open.spotify.com/album/1PkHJwwi8qhvfT7f5UDPfW"
+      },
+      "artists": [
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        }
+      ],
+      "duration_ms": 173304,
+      "name": "Spell - Remix",
+      "url": "https://open.spotify.com/track/1rgpvUOxnI0Mno6OTsXTFh"
     },
     {
       "added_at": "2023-10-06 17:31:38",
@@ -927,6 +927,22 @@
     {
       "added_at": "2023-10-06 17:31:38",
       "album": {
+        "name": "TROUBLE - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "TROUBLE - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw"
+    },
+    {
+      "added_at": "2023-10-06 17:31:38",
+      "album": {
         "name": "Moonlight",
         "url": "https://open.spotify.com/album/0yMD9zrKIky3GRSNn2VC25"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 130679,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/4O4jWAcIvbEDF6lOoW1LT5"
-    },
-    {
-      "added_at": "2023-10-06 17:31:38",
-      "album": {
-        "name": "TROUBLE - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/4FdZWXrvbPEXhWuyCZaF5Q"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "TROUBLE - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/7bhyLtr2FFiL9Psq42UNiw"
     },
     {
       "added_at": "2023-10-06 17:31:38",
@@ -1031,26 +1031,6 @@
     {
       "added_at": "2023-10-06 17:31:38",
       "album": {
-        "name": "Jane",
-        "url": "https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0"
-      },
-      "artists": [
-        {
-          "name": "Skip Marley",
-          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 202372,
-      "name": "Jane",
-      "url": "https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y"
-    },
-    {
-      "added_at": "2023-10-06 17:31:38",
-      "album": {
         "name": "Gbagada Express",
         "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
       },
@@ -1071,6 +1051,26 @@
       "duration_ms": 193515,
       "name": "In A Loop",
       "url": "https://open.spotify.com/track/4n1SykKn2Da29B4riTa41U"
+    },
+    {
+      "added_at": "2023-10-06 17:31:38",
+      "album": {
+        "name": "Jane",
+        "url": "https://open.spotify.com/album/7kjDusgZHn05WZuo2Xlww0"
+      },
+      "artists": [
+        {
+          "name": "Skip Marley",
+          "url": "https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 202372,
+      "name": "Jane",
+      "url": "https://open.spotify.com/track/7hyx7lEMBsMHgSYVNCDW2y"
     },
     {
       "added_at": "2023-10-06 17:31:38",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-10-06 17:31:38",
       "album": {
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf"
+      },
+      "artists": [
+        {
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+        }
+      ],
+      "duration_ms": 184166,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G"
+    },
+    {
+      "added_at": "2023-10-06 17:31:38",
+      "album": {
         "name": "Eye to Eye",
         "url": "https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy"
       },
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2023-10-06 17:31:38",
       "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/2qjiZYwMeOeejMdtupyMXf"
+        "name": "Little Things I want (Sync Version)",
+        "url": "https://open.spotify.com/album/5Q52c4OQE5Tv94HhAhygb2"
       },
       "artists": [
         {
-          "name": "Mellissa",
-          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
+          "name": "Sam Opoku",
+          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
         }
       ],
-      "duration_ms": 184166,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/47EElDzmkP731PXNzeXt0G"
+      "duration_ms": 80000,
+      "name": "Little Things I want - Sync Version",
+      "url": "https://open.spotify.com/track/2GmDuSpcIHuAi9OCye3ZMm"
     },
     {
       "added_at": "2023-10-06 17:31:38",
@@ -1295,22 +1311,6 @@
       "duration_ms": 228470,
       "name": "Addicted",
       "url": "https://open.spotify.com/track/5mIwvBNb5dUdYBACx8fzGj"
-    },
-    {
-      "added_at": "2023-10-06 17:31:38",
-      "album": {
-        "name": "Little Things I want (Sync Version)",
-        "url": "https://open.spotify.com/album/5Q52c4OQE5Tv94HhAhygb2"
-      },
-      "artists": [
-        {
-          "name": "Sam Opoku",
-          "url": "https://open.spotify.com/artist/5NDzGl3leOCXxfUcyQC0sv"
-        }
-      ],
-      "duration_ms": 80000,
-      "name": "Little Things I want - Sync Version",
-      "url": "https://open.spotify.com/track/2GmDuSpcIHuAi9OCye3ZMm"
     },
     {
       "added_at": "2023-10-06 17:31:38",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2023-10-06 17:31:38",
       "album": {
-        "name": "Sovereignty",
-        "url": "https://open.spotify.com/album/6FoJ8tjtSh3IdDinPS7ie0"
-      },
-      "artists": [
-        {
-          "name": "Aiza",
-          "url": "https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Sovereignty",
-      "url": "https://open.spotify.com/track/0VamvzBKHLbzIPVsNx1MPg"
-    },
-    {
-      "added_at": "2023-10-06 17:31:38",
-      "album": {
         "name": "Sail",
         "url": "https://open.spotify.com/album/6QyzYTkLfUpToqNDd8SpSm"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 148695,
       "name": "Sail",
       "url": "https://open.spotify.com/track/26mrUHchbcgiCahub27gZY"
+    },
+    {
+      "added_at": "2023-10-06 17:31:38",
+      "album": {
+        "name": "Sovereignty",
+        "url": "https://open.spotify.com/album/6FoJ8tjtSh3IdDinPS7ie0"
+      },
+      "artists": [
+        {
+          "name": "Aiza",
+          "url": "https://open.spotify.com/artist/33swwbOrC7iMmPF3TXGLNi"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Sovereignty",
+      "url": "https://open.spotify.com/track/0VamvzBKHLbzIPVsNx1MPg"
     },
     {
       "added_at": "2023-10-06 17:31:38",

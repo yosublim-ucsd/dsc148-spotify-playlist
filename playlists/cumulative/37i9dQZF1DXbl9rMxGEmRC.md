@@ -4,7 +4,7 @@
 
 > Black, death and beyond\. Recent tracks and classics from the world of extreme metal\. Cover: Immortal
 
-520 songs - 1 day 20 hr 21 min
+521 songs - 1 day 20 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Cult of Shaad'oah](https://open.spotify.com/track/1G2gIvViMPVHsjHQ9Cqxkq) | [Horrendous](https://open.spotify.com/artist/1Na6P4MqOassrZtvT9Z12s) | [Cult of Shaad'oah](https://open.spotify.com/album/3TgbVo0JRtM8sXTVtPWxb6) | 5:23 | 2023-06-23 | 2023-07-19 |
 | [Culture of Violence](https://open.spotify.com/track/6001jTk0jdao1oVV4vanVB) | [Extinction A.D.](https://open.spotify.com/artist/1AVn1BUp281M9gQhYCrvGQ) | [Culture of Violence](https://open.spotify.com/album/6RLlW1OIKY7lpwu37ywZMw) | 3:25 | 2022-03-18 |  |
 | [Cursed](https://open.spotify.com/track/1TaLL0z52wvVRNcmLl0HJF) | [Naraka](https://open.spotify.com/artist/7Js05ttQyRt4Pczu0F2LRo) | [Cursed](https://open.spotify.com/album/3KWgXdrDm75vJbSxWwZvf2) | 5:11 | 2021-12-17 | 2022-03-11 |
+| [Cycle of Suffering](https://open.spotify.com/track/33N9eYEFkNqQvFedpH82kU) | [Carnation](https://open.spotify.com/artist/7s6SmrbyQvp26jN5EbnU9u) | [Cycle of Suffering](https://open.spotify.com/album/31JVSJMrlzxxqPQuOJy2AN) | 4:05 | 2023-10-09 |  |
 | [Damned In Black](https://open.spotify.com/track/2YY18uNgbN6YlLh0I72QAL) | [Immortal](https://open.spotify.com/artist/2mVTkiwfm4ic6DnHpmFq8K) | [Damned In Black](https://open.spotify.com/album/1BZyUaPqQrSfnK1OCSEFau) | 6:51 | 2022-07-13 |  |
 | [Dark Medieval Times](https://open.spotify.com/track/3lVL1Jr6osIOLAbPHXUDkr) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Dark Medieval Times](https://open.spotify.com/album/0xXdL2dhLdLfAgw9wAB6bC) | 8:11 | 2022-07-13 | 2022-07-29 |
 | [Dark Medieval Times \- Remastered 2021](https://open.spotify.com/track/7qTuFxOFVJnmWP0FuGWegz) | [Satyricon](https://open.spotify.com/artist/221Rd0FvVxMx7eCbWqjiKd) | [Dark Medieval Times \(Remastered 2021\)](https://open.spotify.com/album/1PI7BARhjM3hpdvt6dGtYl) | 8:11 | 2022-07-13 | 2023-08-19 |
@@ -445,7 +446,7 @@
 | [The Fifth Illusion](https://open.spotify.com/track/7AYkjUqjPI3kDLLwKTQlYP) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Non Serviam](https://open.spotify.com/album/3o5Gb5maaKt6DZQQwk3Dal) | 5:34 | 2022-07-13 |  |
 | [The Fifth Illusion](https://open.spotify.com/track/1DLxHchZ0ZEKZTGXpcTcth) | [Rotting Christ](https://open.spotify.com/artist/7FhkwcO8Jd7BRWdllBpXBJ) | [Non Serviam \(2006 Remastered\)](https://open.spotify.com/album/3fczhcYfPlYtdBSUw8SvRr) | 5:34 | 2022-07-13 | 2022-07-25 |
 | [The Head of the Snake](https://open.spotify.com/track/4WX5bprRQGTlZaxEcBICqZ) | [Ex Deo](https://open.spotify.com/artist/7jBfzxUkrHRmy6EezZuegA) | [Head of the Snake](https://open.spotify.com/album/1OhiUVjIVR8dr5Itzpfyzv) | 4:05 | 2021-12-17 | 2022-04-09 |
-| [The Hell I Create](https://open.spotify.com/track/6eytvHhAxFnCgz5ihOLrWI) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [The Hell I Create](https://open.spotify.com/album/0K8S2JBCHkAn9xO7fY5h7y) | 5:52 | 2023-07-07 |  |
+| [The Hell I Create](https://open.spotify.com/track/6eytvHhAxFnCgz5ihOLrWI) | [I Am Your God](https://open.spotify.com/artist/5jmZYC9vzvvJnN0QHExUsn) | [The Hell I Create](https://open.spotify.com/album/0K8S2JBCHkAn9xO7fY5h7y) | 5:52 | 2023-07-07 | 2023-10-11 |
 | [The howling](https://open.spotify.com/track/6f00AO3IhdBrySQ0SuRvJz) | [Watain](https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX) | [The howling](https://open.spotify.com/album/7iPrKhg1qGiwyAl47UfGfi) | 4:08 | 2022-02-11 |  |
 | [The Intertwined](https://open.spotify.com/track/1uUB0yPKZolbq3ryoLDOlY) | [Skepticism](https://open.spotify.com/artist/2mZuhQebSc9U63QjaADtzF) | [Companion](https://open.spotify.com/album/4kQyk8NpLezupFyYnK9q8n) | 8:19 | 2021-12-17 | 2022-05-14 |
 | [The Last Dance](https://open.spotify.com/track/1qXNVmeNI6V5wI1cwakweP) | [Hanging Garden](https://open.spotify.com/artist/1Uq2a1JUnYXWUzrUGKyZwN) | [The Last Dance](https://open.spotify.com/album/4G4RKJjmLnZBsvalhWFOSH) | 4:40 | 2021-12-17 | 2022-01-08 |

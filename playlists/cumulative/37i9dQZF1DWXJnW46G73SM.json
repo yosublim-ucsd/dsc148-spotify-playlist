@@ -4016,7 +4016,7 @@
       ],
       "date_added": "2023-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 167873,
       "name": "Hala Beek Ya Medala3",
       "url": "https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu"
@@ -5806,7 +5806,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 130285,
       "name": "Maktoob Aleina",
       "url": "https://open.spotify.com/track/2XILChOM6XTI6LbDqruTxy"
@@ -5832,7 +5832,7 @@
       ],
       "date_added": "2023-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 130285,
       "name": "Maktoob Aleina",
       "url": "https://open.spotify.com/track/3RfC9t6UYws4b6EJVuP601"
@@ -10105,6 +10105,28 @@
     },
     {
       "album": {
+        "name": "\u0628\u062c\u0646\u0646\u0647\u0627",
+        "url": "https://open.spotify.com/album/2tKwYcytQaJ4mOAmXwXviF"
+      },
+      "artists": [
+        {
+          "name": "Resha Costa",
+          "url": "https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8"
+        },
+        {
+          "name": "Samara Now",
+          "url": "https://open.spotify.com/artist/33C02CFofpaWCgYTPD1au0"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196798,
+      "name": "\u0628\u062c\u0646\u0646\u0647\u0627",
+      "url": "https://open.spotify.com/track/4KoqDXkPiia2Ym0Rglaexi"
+    },
+    {
+      "album": {
         "name": "\u0628\u062d\u0628\u0643",
         "url": "https://open.spotify.com/album/4NNJ14KEMD3pvCSdzdxdUV"
       },
@@ -11681,6 +11703,24 @@
     },
     {
       "album": {
+        "name": "\u0644\u0633\u0647 \u0647\u0639\u064a\u0634",
+        "url": "https://open.spotify.com/album/1sQs3SuVGHgjNTuqs85vEF"
+      },
+      "artists": [
+        {
+          "name": "\u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0646\u0627\u0635\u0631",
+          "url": "https://open.spotify.com/artist/34cgeyBX5QJGZ5aYXEmqwo"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195692,
+      "name": "\u0644\u0633\u0647 \u0647\u0639\u064a\u0634",
+      "url": "https://open.spotify.com/track/1K22aN6CGHiFAxqImwSQTD"
+    },
+    {
+      "album": {
         "name": "\u0644\u0641\u064a\u0646\u0627 \u0627\u0644\u062f\u0646\u064a\u0627",
         "url": "https://open.spotify.com/album/6hBfYe9PE9Wp1CAs9C2nRq"
       },
@@ -12356,24 +12396,6 @@
       "duration_ms": 269664,
       "name": "\u0648\u0633\u0637 \u0627\u0644\u0648\u0634\u0648\u0634 - \u062a\u062a\u0631 \u0645\u0633\u0644\u0633\u0644 \u0628\u0646\u0648\u0646",
       "url": "https://open.spotify.com/track/6jVUA2W2YcGnTJsV2YGajs"
-    },
-    {
-      "album": {
-        "name": "\u0648\u0644\u0633\u0647 \u0647\u0639\u064a\u0634",
-        "url": "https://open.spotify.com/album/1sQs3SuVGHgjNTuqs85vEF"
-      },
-      "artists": [
-        {
-          "name": "\u0639\u0628\u062f\u0627\u0644\u0644\u0647 \u0646\u0627\u0635\u0631",
-          "url": "https://open.spotify.com/artist/34cgeyBX5QJGZ5aYXEmqwo"
-        }
-      ],
-      "date_added": "2023-10-06",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 195692,
-      "name": "\u0648\u0644\u0633\u0647 \u0647\u0639\u064a\u0634",
-      "url": "https://open.spotify.com/track/1K22aN6CGHiFAxqImwSQTD"
     },
     {
       "album": {

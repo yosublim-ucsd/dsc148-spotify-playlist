@@ -1,12 +1,12 @@
 {
   "description": "Enter a world of stunning melodies and absolutely enormous hammers; this is the music of Mahler.",
-  "num_followers": 45157,
+  "num_followers": 45172,
   "original_name": "This Is Mahler",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZDQyMzEwMTgzODFkNDMwZmJiZTI3ZmYyNzJjMjk0YmU3ZTk3N2Vh",
+  "snapshot_id": "MCxhOGQyNmJlZjZiMWJiYzMyNjY4ODRhZWJmYjgxOTQyZTQ3MDFjMGEz",
   "tracks": [
     {
       "added_at": "2022-06-27 09:16:34",
@@ -579,30 +579,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
-        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Lorin Maazel",
-          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        }
-      ],
-      "duration_ms": 305760,
-      "name": "Symphony No. 2 in C Minor \"Resurrection\": IV. Urlicht. Sehr feierlich, aber schlicht",
-      "url": "https://open.spotify.com/track/4j82Pmshbiv9dNumhlw7CL"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No. 1",
         "url": "https://open.spotify.com/album/1h3x1CJQPdNJRgBK2MTRnM"
       },
@@ -623,6 +599,30 @@
       "duration_ms": 880186,
       "name": "Symphony No. 1 in D Major \"Titan\": I. Langsam. Schleppend - Im Anfang Gem\u00e4chlich",
       "url": "https://open.spotify.com/track/61aXHCnh31ZqFmmjHXPAbX"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Symphony No. 2 in C Minor \"Resurrection\"",
+        "url": "https://open.spotify.com/album/7bonMeFynV4RClKhvje0zX"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Lorin Maazel",
+          "url": "https://open.spotify.com/artist/3EQvBmWlfyaRLGDuVfKmve"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "duration_ms": 305760,
+      "name": "Symphony No. 2 in C Minor \"Resurrection\": IV. Urlicht. Sehr feierlich, aber schlicht",
+      "url": "https://open.spotify.com/track/4j82Pmshbiv9dNumhlw7CL"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -759,6 +759,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler: Totenfeier, Lieder eines fahrenden Gesellen",
+        "url": "https://open.spotify.com/album/5sxVMd8ztG4IBJRCy2ex8l"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Orchestra of the Age of Enlightenment",
+          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
+        },
+        {
+          "name": "Vladimir Jurowski",
+          "url": "https://open.spotify.com/artist/56zD3vlVlbxtkfNPaznQoA"
+        }
+      ],
+      "duration_ms": 1352400,
+      "name": "Totenfeier",
+      "url": "https://open.spotify.com/track/20qzS0mm8lSIFdq4y3gSHi"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler - Vol. 1",
         "url": "https://open.spotify.com/album/5X45NadglUgmWarRxRjrS7"
       },
@@ -787,30 +811,6 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Totenfeier, Lieder eines fahrenden Gesellen",
-        "url": "https://open.spotify.com/album/5sxVMd8ztG4IBJRCy2ex8l"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Orchestra of the Age of Enlightenment",
-          "url": "https://open.spotify.com/artist/1WWZAYN8d4n4iwjYALmmKB"
-        },
-        {
-          "name": "Vladimir Jurowski",
-          "url": "https://open.spotify.com/artist/56zD3vlVlbxtkfNPaznQoA"
-        }
-      ],
-      "duration_ms": 1352400,
-      "name": "Totenfeier",
-      "url": "https://open.spotify.com/track/20qzS0mm8lSIFdq4y3gSHi"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
         "name": "Mahler: Symphony No. 4 in G Major",
         "url": "https://open.spotify.com/album/7bTMelFIt5w2yTuOVX19MJ"
       },
@@ -835,8 +835,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler: Das Lied von der Erde",
-        "url": "https://open.spotify.com/album/1k4ahNyUuhTwoIwUU9lmSt"
+        "name": "Mahler: Symphony No. 4 in G Major",
+        "url": "https://open.spotify.com/album/7bTMelFIt5w2yTuOVX19MJ"
       },
       "artists": [
         {
@@ -844,25 +844,21 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Jane Henschel",
-          "url": "https://open.spotify.com/artist/46yCH0gv3CwQiPNTKIooEf"
+          "name": "Lynda Russell",
+          "url": "https://open.spotify.com/artist/5WRHtXZQZccFS5FMELjl5l"
         },
         {
-          "name": "Gregory Kunde",
-          "url": "https://open.spotify.com/artist/3VQAuDmYhpTUyg7UP8fbKa"
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
         },
         {
-          "name": "Houston Symphony",
-          "url": "https://open.spotify.com/artist/4b1OFVRz9W1m6T5pFtwjGG"
-        },
-        {
-          "name": "Hans Graf",
-          "url": "https://open.spotify.com/artist/61QRbGcgOYOud7f4YGzofV"
+          "name": "Antoni Wit",
+          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
         }
       ],
-      "duration_ms": 570586,
-      "name": "Das Lied von der Erde (Song of the Earth): II. Der Einsame im Herbst (The Lonely One in Autumn)",
-      "url": "https://open.spotify.com/track/0M8f4M5NRFuLkOm6RnPrtG"
+      "duration_ms": 564213,
+      "name": "Symphony No. 4 in G Major: IV. Sehr behaglich",
+      "url": "https://open.spotify.com/track/7MSjAESpXgKmF3ewr119m3"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -900,6 +896,38 @@
       "added_at": "2022-06-27 09:16:34",
       "album": {
         "name": "Mahler: Das Lied von der Erde",
+        "url": "https://open.spotify.com/album/1k4ahNyUuhTwoIwUU9lmSt"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Jane Henschel",
+          "url": "https://open.spotify.com/artist/46yCH0gv3CwQiPNTKIooEf"
+        },
+        {
+          "name": "Gregory Kunde",
+          "url": "https://open.spotify.com/artist/3VQAuDmYhpTUyg7UP8fbKa"
+        },
+        {
+          "name": "Houston Symphony",
+          "url": "https://open.spotify.com/artist/4b1OFVRz9W1m6T5pFtwjGG"
+        },
+        {
+          "name": "Hans Graf",
+          "url": "https://open.spotify.com/artist/61QRbGcgOYOud7f4YGzofV"
+        }
+      ],
+      "duration_ms": 570586,
+      "name": "Das Lied von der Erde (Song of the Earth): II. Der Einsame im Herbst (The Lonely One in Autumn)",
+      "url": "https://open.spotify.com/track/0M8f4M5NRFuLkOm6RnPrtG"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
+        "name": "Mahler: Das Lied von der Erde",
         "url": "https://open.spotify.com/album/7yu4NWQJVCcsOryunJ8MBp"
       },
       "artists": [
@@ -923,34 +951,6 @@
       "duration_ms": 486120,
       "name": "Das Lied von der Erde: I. Das Trinklied vom Jammer der Erde",
       "url": "https://open.spotify.com/track/0nxbzSRf2JH6wPzIeW6Jg1"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler: Symphony No. 4 in G Major",
-        "url": "https://open.spotify.com/album/7bTMelFIt5w2yTuOVX19MJ"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Lynda Russell",
-          "url": "https://open.spotify.com/artist/5WRHtXZQZccFS5FMELjl5l"
-        },
-        {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
-        },
-        {
-          "name": "Antoni Wit",
-          "url": "https://open.spotify.com/artist/2OJaTm0rPZVyMA5k5s8vbh"
-        }
-      ],
-      "duration_ms": 564213,
-      "name": "Symphony No. 4 in G Major: IV. Sehr behaglich",
-      "url": "https://open.spotify.com/track/7MSjAESpXgKmF3ewr119m3"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1399,6 +1399,30 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
+        "name": "Mahler, G.: Symphony No. 7",
+        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
+      },
+      "artists": [
+        {
+          "name": "Gustav Mahler",
+          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
+        },
+        {
+          "name": "Polish National Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+        },
+        {
+          "name": "Michael Halasz",
+          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+        }
+      ],
+      "duration_ms": 835280,
+      "name": "Symphony No. 7 in E Minor: IV. Nachtmusik II: Andante amoroso",
+      "url": "https://open.spotify.com/track/2DkYKQPhxXOidcyUbL0IAM"
+    },
+    {
+      "added_at": "2022-06-27 09:16:34",
+      "album": {
         "name": "Mahler: Symphony No. 4 in G Major",
         "url": "https://open.spotify.com/album/7bTMelFIt5w2yTuOVX19MJ"
       },
@@ -1447,8 +1471,8 @@
     {
       "added_at": "2022-06-27 09:16:34",
       "album": {
-        "name": "Mahler, G.: Symphony No. 7",
-        "url": "https://open.spotify.com/album/4nI8QVH45a1AMLoDHvgmQn"
+        "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
+        "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
       },
       "artists": [
         {
@@ -1456,17 +1480,17 @@
           "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
         },
         {
-          "name": "Polish National Radio Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/62QURushyB5wug2XPwajwK"
+          "name": "Sir Simon Rattle",
+          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
         },
         {
-          "name": "Michael Halasz",
-          "url": "https://open.spotify.com/artist/6Dkj1lYjjOCsGB170vlWc6"
+          "name": "City Of Birmingham Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
         }
       ],
-      "duration_ms": 835280,
-      "name": "Symphony No. 7 in E Minor: IV. Nachtmusik II: Andante amoroso",
-      "url": "https://open.spotify.com/track/2DkYKQPhxXOidcyUbL0IAM"
+      "duration_ms": 627306,
+      "name": "Mahler: Symphony No. 3 in D Minor: II. Tempo di menuetto. Sehr m\u00e4ssig",
+      "url": "https://open.spotify.com/track/2rXA32fOuctoPtFk5DngwZ"
     },
     {
       "added_at": "2022-06-27 09:16:34",
@@ -1495,30 +1519,6 @@
       "duration_ms": 336967,
       "name": "Kindertotenlieder: In diesem Wetter",
       "url": "https://open.spotify.com/track/18F4kGlmsGOkjhaymciS9V"
-    },
-    {
-      "added_at": "2022-06-27 09:16:34",
-      "album": {
-        "name": "Mahler: Symphony No. 3 & 8 Lieder aus \"Des Knaben Wunderhorn\"",
-        "url": "https://open.spotify.com/album/1790OLoc0o98MSQapnWY52"
-      },
-      "artists": [
-        {
-          "name": "Gustav Mahler",
-          "url": "https://open.spotify.com/artist/2ANtgfhQkKpsW6EYSDqldz"
-        },
-        {
-          "name": "Sir Simon Rattle",
-          "url": "https://open.spotify.com/artist/4GQwgdcDQwqtcHICjUNndp"
-        },
-        {
-          "name": "City Of Birmingham Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/6wuudWq7XpVutoFp4bsVDo"
-        }
-      ],
-      "duration_ms": 627306,
-      "name": "Mahler: Symphony No. 3 in D Minor: II. Tempo di menuetto. Sehr m\u00e4ssig",
-      "url": "https://open.spotify.com/track/2rXA32fOuctoPtFk5DngwZ"
     },
     {
       "added_at": "2022-06-27 09:16:34",

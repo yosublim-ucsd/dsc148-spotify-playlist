@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 
 ### [MANSIÓN REGGAETÓN](https://open.spotify.com/playlist/37i9dQZF1DWZjqjZMudx9T)
 
-> De la CALLE a la CIMA con EL FERXXO.
+> De la CALLE a la CIMA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,754,707 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,756,652 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [FERXXO 30](https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:53 |
-| 2 | [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 |
+| 1 | [UN PREVIEW](https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [UN PREVIEW](https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj) | 2:45 |
+| 2 | [FERXXO 30](https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:53 |
 | 3 | [ANDO](https://open.spotify.com/track/6hwGwCfCwHoSJQw7AYPEQu) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Gittobeatz](https://open.spotify.com/artist/4rRwh9ghjocFABAwIwnunp) | [ANDO](https://open.spotify.com/album/6UJ9acnNOzxZCq9lv8Mo8D) | 2:52 |
 | 4 | [RITMO DE MEDALLO](https://open.spotify.com/track/3gquN8yA0TnqD4NemqCnng) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:58 |
 | 5 | [QLONA](https://open.spotify.com/track/5RqSsdzTNPX1uzkmlHCFvK) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 | 49 | [LA BABY](https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [LA BABY](https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW) | 3:02 |
 | 50 | [DISPO](https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:13 |
 
-Snapshot ID: `MCw2M2Y5MTkyODZlZTJkNzIxN2FlMjA0YTY0N2M3ZjkzZDllNGI4MWEy`
+Snapshot ID: `MCxmYWRmOTA5Mjg4NjhmZDIwYzYxYzQ4YzQ1OGNjNGNkZDJiZmM2MzYz`

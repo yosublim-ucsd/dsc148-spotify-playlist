@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "GET BACK",
+        "url": "https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo"
+      },
+      "artists": [
+        {
+          "name": "FLOW",
+          "url": "https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195750,
+      "name": "GET BACK",
+      "url": "https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR"
+    },
+    {
+      "album": {
         "name": "26 a Go Go !!!",
         "url": "https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs"
       },
@@ -1126,7 +1144,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 219694,
       "name": "United Sparrows",
       "url": "https://open.spotify.com/track/49KkIt4ilha2JSCkeUI0eR"
@@ -1144,7 +1162,7 @@
       ],
       "date_added": "2023-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 219146,
       "name": "Voyage",
       "url": "https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv"
@@ -1386,7 +1404,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 235813,
       "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9",
       "url": "https://open.spotify.com/track/5mdvXxeJTn71DzTtTyOfxQ"
@@ -1408,7 +1426,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 232240,
       "name": "\u30d6\u30eb\u30fc\u30d0\u30fc\u30c9(NARUTO\u7e1b\u308aMix ver.)",
       "url": "https://open.spotify.com/track/7ohGwEAtTE8aV5YL2RySz3"
@@ -1646,7 +1664,7 @@
       ],
       "date_added": "2023-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 231706,
       "name": "\u6d41\u308c\u661f \uff5eShooting Star\uff5e",
       "url": "https://open.spotify.com/track/27k5RlJ8BhKMM3Bi8K7cGK"

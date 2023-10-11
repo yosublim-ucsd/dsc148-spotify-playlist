@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-369 songs - 15 hr 44 min
+372 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 | 2022-04-04 |  |
 | [All I Know](https://open.spotify.com/track/0uyLuw53EGon6rU894LnDV) | [Colias Fieldii](https://open.spotify.com/artist/2Y77at6ifgThnn4eR1xp4v) | [Times Gone By](https://open.spotify.com/album/58MF4lru4Nm7MQq7ctCym8) | 1:51 | 2022-11-18 | 2023-07-19 |
 | [Altar](https://open.spotify.com/track/4GBWvw48RFr6WQDSvFJ5yh) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Altar](https://open.spotify.com/album/7gmheB2m41ayIEe5yPWFPj) | 2:17 | 2023-02-21 |  |
+| [Always Shining Bright](https://open.spotify.com/track/4s561TKv61mdyVq98FtbNk) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Always Shining Bright](https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A) | 2:16 | 2023-10-10 |  |
 | [Amour naturel](https://open.spotify.com/track/39bh8hsTP2ZBQWH0E308rT) | [Massimo Pavoni](https://open.spotify.com/artist/7f7ACBPPCHUj6Bi1x0gLqr) | [Amour naturel](https://open.spotify.com/album/390yjRO6OCnaiCCMz6HNu3) | 2:52 | 2022-04-04 |  |
 | [And it Starts to Rain](https://open.spotify.com/track/5DtE1VkhyWxvqUNRbdVZ1y) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [And it Starts to Rain](https://open.spotify.com/album/00ilvHLWNO3SaC4uXl8J3L) | 2:50 | 2022-04-04 | 2022-11-19 |
 | [Annapurna](https://open.spotify.com/track/5LzBkotVxLdY5Z37QBbd9L) | [Vincent Pino](https://open.spotify.com/artist/6jemOV5J9N3xXXhXwaY5fR) | [Annapurna](https://open.spotify.com/album/6t7E0Y8KfE8867S0IAHbrs) | 2:33 | 2022-11-18 |  |
@@ -61,6 +62,7 @@
 | [Colorado Nights](https://open.spotify.com/track/6CTYTP3Kb3TKDLurnsPcOP) | [Lander Jacobson](https://open.spotify.com/artist/3loblVZXbtYpTvNtkp4V1s) | [Colorado Nights](https://open.spotify.com/album/3CqYjTyGVynO1zpNagTctc) | 2:50 | 2022-04-04 |  |
 | [Colori autunnali](https://open.spotify.com/track/4m1nRLXsFQE7dNQGDxCvlX) | [Giacinta Toscano](https://open.spotify.com/artist/1RySkA0U8k1vui9rxEkbAL) | [Colori autunnali](https://open.spotify.com/album/20DhZgb2kEo49HdXwGjhEo) | 2:52 | 2022-04-04 | 2022-04-29 |
 | [Coming Closer](https://open.spotify.com/track/14mdXvg5LTzl4gp0ALbGOe) | [Richard Sauzal](https://open.spotify.com/artist/229hOmb9kFA41wSxNPelAI) | [Evenings](https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge) | 1:53 | 2022-11-18 | 2023-07-19 |
+| [Coming Home](https://open.spotify.com/track/71m2wUi0w4bQHDqloMQg5c) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Coming Home](https://open.spotify.com/album/3Gi20dWoDXkD68d73yiM6S) | 2:35 | 2023-10-10 |  |
 | [Conscious](https://open.spotify.com/track/0NpvwAPp3lxlBxy72gXAuK) | [Kjell Sønksen](https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW) | [Conscious](https://open.spotify.com/album/3wp7uBll4dmd2U8Qd7LuLD) | 2:56 | 2023-06-20 |  |
 | [Consilium](https://open.spotify.com/track/5Yd5eQlc2x0ve3JCFSgoAQ) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [Consilium](https://open.spotify.com/album/7pS00vJKlwX2kFPlTx51kJ) | 2:16 | 2023-06-20 |  |
 | [Contemplation](https://open.spotify.com/track/04QMzMxrwND0Tkh3Na0K6K) | [Sorrel Hauer](https://open.spotify.com/artist/5F8nqlAgRked7aLmw3uWlo) | [Contemplation](https://open.spotify.com/album/3yuVxlE4JhW8J4ZRvyMaqb) | 3:04 | 2022-04-04 |  |
@@ -117,6 +119,7 @@
 | [Grace](https://open.spotify.com/track/7awIIxfZGrKfqIWOD3iZPV) | [Celine Hayes](https://open.spotify.com/artist/5DYjSQAZSKcn363QyjYNrG) | [Grace](https://open.spotify.com/album/2AFvFo44JnSdEghSwTaSFq) | 2:46 | 2022-04-04 |  |
 | [Grains of Time](https://open.spotify.com/track/19gF5KNJTpdA3mLoSl5CY4) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Grains of Time](https://open.spotify.com/album/4z6JqhA5nY307DOyxgLFHb) | 2:38 | 2022-07-07 |  |
 | [Graphite](https://open.spotify.com/track/5DFfMIOV51LYdeoIs3GiKx) | [Andrea Azzola](https://open.spotify.com/artist/0HPaw3WHFtKOTqUko3e8Nx) | [Graphite](https://open.spotify.com/album/4PyRaAiVAtdzw5P47JFEqH) | 2:06 | 2023-04-04 |  |
+| [Hat full of candles](https://open.spotify.com/track/3Ap6yfaMLSbcHsTcx5Y967) | [Lupe Sinsonte](https://open.spotify.com/artist/5VrQgRw2aE8eIfz6bWGuWE) | [Hat full of candles](https://open.spotify.com/album/6egJetQktX1XDBVLpAcvOe) | 3:03 | 2023-10-10 |  |
 | [Haven](https://open.spotify.com/track/5K5WAmv3SxQR8Is4zJklrz) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Haven](https://open.spotify.com/album/2GtLmksn6hajz3ZX14bjO7) | 2:45 | 2022-04-04 |  |
 | [Heartbeat](https://open.spotify.com/track/5gYcfdwdwQ7eowE3ycuXaW) | [Errol Hayward](https://open.spotify.com/artist/5QqAOx4RRkDlVmHse16kNx) | [Heartbeat](https://open.spotify.com/album/23F1BckCyP3XYDPo7JQtZL) | 2:17 | 2022-04-04 |  |
 | [Heartland](https://open.spotify.com/track/0M3DaTZsuttjClg5VG8exA) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Heartland](https://open.spotify.com/album/0fKjmVxLE5o2sDd1b47REq) | 3:28 | 2022-04-04 |  |

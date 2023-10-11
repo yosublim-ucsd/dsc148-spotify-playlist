@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 22811,
+  "num_followers": 22847,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZjNmYTQ1YjNjZDcyZGQzNzc2NTIwNGZmYzhlNGM0ZmI1MTA1NTA1",
+  "snapshot_id": "MCxiM2RkZmQ0ZGE3MDYwNWY0YzAwMzg5ZjdlNGE4ZWMzM2RkYjhjZWM0",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -719,22 +719,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Las Alegres de los Infinitos",
-        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
-      },
-      "artists": [
-        {
-          "name": "Los Infinitos Puro Zirahuen",
-          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
-        }
-      ],
-      "duration_ms": 253015,
-      "name": "El Carretero",
-      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Y Seguimos Loqueando!",
         "url": "https://open.spotify.com/album/03RRx4Txfj8Q151lsqoJAq"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 244680,
       "name": "El Torito de Petate - La Fiesta del Carnaval",
       "url": "https://open.spotify.com/track/3gnPTcrVXDY0fN3gjMCCB2"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Las Alegres de los Infinitos",
+        "url": "https://open.spotify.com/album/2i5ASZlby3bDtfMaAMAr3d"
+      },
+      "artists": [
+        {
+          "name": "Los Infinitos Puro Zirahuen",
+          "url": "https://open.spotify.com/artist/1CUhdRw7cr3alXldvYkuH9"
+        }
+      ],
+      "duration_ms": 253015,
+      "name": "El Carretero",
+      "url": "https://open.spotify.com/track/5Li8aTVHhTJgAfocGruRpw"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -787,18 +787,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Que Chulo Es el Jaripeo",
-        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
+        "name": "Son de la Raza",
+        "url": "https://open.spotify.com/album/6ySJJe2KvD1k31SKZNHsTk"
       },
       "artists": [
         {
-          "name": "Banda la Fascinante del Merito Zirahuen",
-          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
+          "name": "Banda La Mera Mera",
+          "url": "https://open.spotify.com/artist/2jAGJTtRJxHl5BH1EHZr3c"
         }
       ],
-      "duration_ms": 211426,
-      "name": "El Toro Requeson",
-      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
+      "duration_ms": 217626,
+      "name": "Son de la Raza",
+      "url": "https://open.spotify.com/track/099O9iFzWFLKSCMfCETcac"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -819,18 +819,18 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Son de la Raza",
-        "url": "https://open.spotify.com/album/6ySJJe2KvD1k31SKZNHsTk"
+        "name": "Que Chulo Es el Jaripeo",
+        "url": "https://open.spotify.com/album/0YIi0dyu3IGa5Vzwpji83F"
       },
       "artists": [
         {
-          "name": "Banda La Mera Mera",
-          "url": "https://open.spotify.com/artist/2jAGJTtRJxHl5BH1EHZr3c"
+          "name": "Banda la Fascinante del Merito Zirahuen",
+          "url": "https://open.spotify.com/artist/0Okqj1OnCQCSgahhvdxo0W"
         }
       ],
-      "duration_ms": 217626,
-      "name": "Son de la Raza",
-      "url": "https://open.spotify.com/track/099O9iFzWFLKSCMfCETcac"
+      "duration_ms": 211426,
+      "name": "El Toro Requeson",
+      "url": "https://open.spotify.com/track/3JBvJYWA23gl28AxyHO1mD"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -951,22 +951,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Una Leyenda",
-        "url": "https://open.spotify.com/album/4q2ttJ0S8WeMFFJYUET8kf"
-      },
-      "artists": [
-        {
-          "name": "La Picosa Hern\u00e1ndez Banda",
-          "url": "https://open.spotify.com/artist/1KTmRPNOnnKT8SgcsDlSH2"
-        }
-      ],
-      "duration_ms": 325035,
-      "name": "Popurr\u00ed Coste\u00f1o: Pinotepa / San Marque\u00f1a / Son Coste\u00f1o",
-      "url": "https://open.spotify.com/track/4eVPp8bC3VqBbLklGJzkYZ"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Mas Zacatecano Que Nunca",
         "url": "https://open.spotify.com/album/6zv9F7ORGgSGIP7pC8aNLH"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 154266,
       "name": "Zapateando Con La Banda",
       "url": "https://open.spotify.com/track/6lDjvoyKmgHhmKbLqtqoji"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Una Leyenda",
+        "url": "https://open.spotify.com/album/4q2ttJ0S8WeMFFJYUET8kf"
+      },
+      "artists": [
+        {
+          "name": "La Picosa Hern\u00e1ndez Banda",
+          "url": "https://open.spotify.com/artist/1KTmRPNOnnKT8SgcsDlSH2"
+        }
+      ],
+      "duration_ms": 325035,
+      "name": "Popurr\u00ed Coste\u00f1o: Pinotepa / San Marque\u00f1a / Son Coste\u00f1o",
+      "url": "https://open.spotify.com/track/4eVPp8bC3VqBbLklGJzkYZ"
     },
     {
       "added_at": "2022-08-02 22:31:47",

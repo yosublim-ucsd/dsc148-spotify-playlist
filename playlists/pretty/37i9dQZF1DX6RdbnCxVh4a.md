@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 
 > Mode lecture aléatoire obligatoire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,662 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,740 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 | 10 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 |
 | 11 | [Iron](https://open.spotify.com/track/0j1VVFif10Ib9s3U59adli) | [Woodkid](https://open.spotify.com/artist/44TGR1CzjKBxSHsSEy7bi9) | [Iron](https://open.spotify.com/album/74Ewey3td9g8nCtt0Q3bz7) | 3:07 |
 | 12 | [Part Of The Band](https://open.spotify.com/track/4S80oe7OJnBVlhNrbQTnt3) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 4:20 |
-| 13 | [Tropic Morning News](https://open.spotify.com/track/6oYXnC1pi6S8GJF32jvdmx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 5:09 |
-| 14 | [Jackie Down The Line](https://open.spotify.com/track/3ITvhrRB5TlEks19k9qy2k) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 4:01 |
+| 13 | [Jackie Down The Line](https://open.spotify.com/track/3ITvhrRB5TlEks19k9qy2k) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Skinty Fia](https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S) | 4:01 |
+| 14 | [Tropic Morning News](https://open.spotify.com/track/6oYXnC1pi6S8GJF32jvdmx) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [First Two Pages of Frankenstein](https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6) | 5:09 |
 | 15 | [2am](https://open.spotify.com/track/0Tyi56S51KsufCIcqRHWCN) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Life Is Yours](https://open.spotify.com/album/7CBK26TFXHyt2l6NQcXIsq) | 3:44 |
 | 16 | [Despair, Hangover & Ecstasy](https://open.spotify.com/track/0LuShx5q0CPiZZjSWHK7tN) | [The Dø](https://open.spotify.com/artist/2mcNCn1qbZUQ3J9KHapUxj) | [Shake Shook Shaken](https://open.spotify.com/album/0q44mFwXE2oJiDGf7YXAcn) | 2:53 |
 | 17 | [In This Dark Time](https://open.spotify.com/track/2tVJpUamLfNdUI7SiyPIFF) | [Aime Simone](https://open.spotify.com/artist/75oAxYtjhDyLttgvGwQIvM) | [Say Yes, Say No](https://open.spotify.com/album/1gqXX51DCiNoe0Xt9RHUIT) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 | 49 | [Only Good Things](https://open.spotify.com/track/1xn7DfWI2NeNlcS463ku3F) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Gigi's Recovery](https://open.spotify.com/album/6ZbJKlwcSja0MbKg2dQQLJ) | 3:15 |
 | 50 | [Need A Little Time](https://open.spotify.com/track/38O0SN9P3sC0UFLsgLqLju) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Tell Me How You Really Feel](https://open.spotify.com/album/3l7JWewI3ZByxaT5BCgRx2) | 3:58 |
 
-Snapshot ID: `MCw5YjgwMjIzNjkwMDg0ZjcwYjEwY2M1OTA4YzAzM2U1Y2Y4N2Y4ZjY4`
+Snapshot ID: `MCxiMWFjYjk1ZGQzZjI5MDhhOGI0N2E2YjQ5OTU2Yjg0Mjg4OTY1MDJl`

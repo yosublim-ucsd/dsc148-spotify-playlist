@@ -4232,7 +4232,7 @@
       ],
       "date_added": "2021-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 217925,
       "name": "In My Feelings",
       "url": "https://open.spotify.com/track/0h1W19pS59KtEd7aDzF58i"
@@ -10158,6 +10158,24 @@
       "duration_ms": 169265,
       "name": "you broke me first",
       "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
+    },
+    {
+      "album": {
+        "name": "Young And Beautiful",
+        "url": "https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236053,
+      "name": "Young And Beautiful",
+      "url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 
 > Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers\. \(Cover: SOLE, Sung Si Kyung\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,616 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,495 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZYjbSZYSpu6.md) - [plain]
 | 49 | [My Day Is Full Of You](https://open.spotify.com/track/2QWa5RjnIGFwraHDPqlhFh) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [The King: Eternal Monarch \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/02zl7wdcgbI0URRfMbzmF5) | 3:40 |
 | 50 | [Love\(Prod.Rocoberry\)](https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS) | [Loco](https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm), [Lee sung kyung](https://open.spotify.com/artist/7AqcQSFPIpFD44ZNRm22m4) | [Love\(Prod.Rocoberry\)](https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH) | 3:40 |
 
-Snapshot ID: `MCw4NDk3NmMwYTkzM2ZjZjhmYjhiMTE4ZDk5M2EwZWVlOWQ3M2MzOTU4`
+Snapshot ID: `MCw0YzBhOWVjZTMxYTAzOTQ0NzI5MzQ3NmY1YWU1MTAzN2IwY2QwMGY3`

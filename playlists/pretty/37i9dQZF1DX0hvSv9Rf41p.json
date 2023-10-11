@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with GRiZ",
-  "num_followers": 975380,
+  "num_followers": 975409,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjFkZjExODdhZGNkMDExNDUzNWU5ZDU1ZWEyZDQ2NmVkMDgwM2Fh",
+  "snapshot_id": "MCxkNmM4ZmRiZDc1MzZjNGRkM2JlMjllNjQxNGI5MDJlYTQ2OTA0NWMz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -427,6 +427,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "CALYPSO",
+        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "duration_ms": 152015,
+      "name": "CALYPSO",
+      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/3fzBtjYF8O1DFb3pmpkWgd"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 240000,
       "name": "Hollow",
       "url": "https://open.spotify.com/track/6AoG52kxfptY0QBQnjuQOe"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "CALYPSO",
-        "url": "https://open.spotify.com/album/0T0m6cryYM9dObB9iRNik3"
-      },
-      "artists": [
-        {
-          "name": "ero808",
-          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
-        },
-        {
-          "name": "NXSTY",
-          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
-        }
-      ],
-      "duration_ms": 152015,
-      "name": "CALYPSO",
-      "url": "https://open.spotify.com/track/18ty2CvaOkyz3WOD3DkqNk"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Muscaria / Everglade March (VIP)",
-        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
-      },
-      "artists": [
-        {
-          "name": "Of The Trees",
-          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
-        }
-      ],
-      "duration_ms": 169462,
-      "name": "Muscaria",
-      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "SHYPOP",
         "url": "https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8"
       },
@@ -1027,22 +1011,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Beyond The Veil (Deluxe)",
-        "url": "https://open.spotify.com/album/4K5YF7y9LvkmFUYna1GtXy"
+        "name": "Muscaria / Everglade March (VIP)",
+        "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
       },
       "artists": [
         {
-          "name": "Seven Lions",
-          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
-        },
-        {
-          "name": "Dotter",
-          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+          "name": "Of The Trees",
+          "url": "https://open.spotify.com/artist/5V7NIXgCnX2KuQ01Bxg20c"
         }
       ],
-      "duration_ms": 238566,
-      "name": "Brightest Light (feat. Dotter)",
-      "url": "https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3"
+      "duration_ms": 169462,
+      "name": "Muscaria",
+      "url": "https://open.spotify.com/track/2oHt6KQZ5IXExcBEQhObjZ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1063,6 +1043,26 @@
       "duration_ms": 208615,
       "name": "Move Back",
       "url": "https://open.spotify.com/track/4eX9IUbwqNJKyzFWDRExjc"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Beyond The Veil (Deluxe)",
+        "url": "https://open.spotify.com/album/4K5YF7y9LvkmFUYna1GtXy"
+      },
+      "artists": [
+        {
+          "name": "Seven Lions",
+          "url": "https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp"
+        },
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "duration_ms": 238566,
+      "name": "Brightest Light (feat. Dotter)",
+      "url": "https://open.spotify.com/track/1Xf3rkHsxGa5eJxvVOxug3"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1115,26 +1115,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pump",
-        "url": "https://open.spotify.com/album/3LocwBHPnRIn9FFkDLMQ9d"
-      },
-      "artists": [
-        {
-          "name": "Teddy Killerz",
-          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
-        },
-        {
-          "name": "Pegboard Nerds",
-          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
-        }
-      ],
-      "duration_ms": 264827,
-      "name": "Pump",
-      "url": "https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "REMEMBER ME",
         "url": "https://open.spotify.com/album/1QxYcTftGSxVKi3zm8A56S"
       },
@@ -1151,6 +1131,26 @@
       "duration_ms": 231724,
       "name": "REMEMBER ME",
       "url": "https://open.spotify.com/track/725iOiE8tnUX1aJXc7ktXp"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Pump",
+        "url": "https://open.spotify.com/album/3LocwBHPnRIn9FFkDLMQ9d"
+      },
+      "artists": [
+        {
+          "name": "Teddy Killerz",
+          "url": "https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm"
+        },
+        {
+          "name": "Pegboard Nerds",
+          "url": "https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y"
+        }
+      ],
+      "duration_ms": 264827,
+      "name": "Pump",
+      "url": "https://open.spotify.com/track/0wdmg7VuwWNWnRkDWOh27n"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1203,46 +1203,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pocketknife",
-        "url": "https://open.spotify.com/album/2dAJpqKsJv9xiWMAH1z0k0"
-      },
-      "artists": [
-        {
-          "name": "EDDIE",
-          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
-        },
-        {
-          "name": "Lights",
-          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
-        }
-      ],
-      "duration_ms": 259812,
-      "name": "Pocketknife",
-      "url": "https://open.spotify.com/track/4s3SY8wz9GaTMkAYBloV4k"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Next Shot",
-        "url": "https://open.spotify.com/album/7hdaK9tIbwej1JVwuCcxOM"
-      },
-      "artists": [
-        {
-          "name": "12th Planet",
-          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
-        },
-        {
-          "name": "Vulgatron",
-          "url": "https://open.spotify.com/artist/3BojQr5ihZly0IUXsLPN3w"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Next Shot",
-      "url": "https://open.spotify.com/track/450ieMdH9byHoYTXfx8ORV"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Exodia",
         "url": "https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo"
       },
@@ -1267,18 +1227,42 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Grenade",
-        "url": "https://open.spotify.com/album/5ByIux1mE8VfB072JtjUWL"
+        "name": "Next Shot",
+        "url": "https://open.spotify.com/album/7hdaK9tIbwej1JVwuCcxOM"
       },
       "artists": [
         {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+          "name": "12th Planet",
+          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+        },
+        {
+          "name": "Vulgatron",
+          "url": "https://open.spotify.com/artist/3BojQr5ihZly0IUXsLPN3w"
         }
       ],
-      "duration_ms": 248147,
-      "name": "Grenade",
-      "url": "https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ"
+      "duration_ms": 200000,
+      "name": "Next Shot",
+      "url": "https://open.spotify.com/track/450ieMdH9byHoYTXfx8ORV"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Pocketknife",
+        "url": "https://open.spotify.com/album/2dAJpqKsJv9xiWMAH1z0k0"
+      },
+      "artists": [
+        {
+          "name": "EDDIE",
+          "url": "https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        }
+      ],
+      "duration_ms": 259812,
+      "name": "Pocketknife",
+      "url": "https://open.spotify.com/track/4s3SY8wz9GaTMkAYBloV4k"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1295,6 +1279,22 @@
       "duration_ms": 221142,
       "name": "dontstopme!",
       "url": "https://open.spotify.com/track/6IJg6Lj08UReeoz9590Ps5"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Grenade",
+        "url": "https://open.spotify.com/album/5ByIux1mE8VfB072JtjUWL"
+      },
+      "artists": [
+        {
+          "name": "QUIX",
+          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
+        }
+      ],
+      "duration_ms": 248147,
+      "name": "Grenade",
+      "url": "https://open.spotify.com/track/4tRDqT9CZtUGnjGAJNVqaQ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1339,26 +1339,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Where You At",
-        "url": "https://open.spotify.com/album/1ojzEUbTPZd1TvXbcV4mj7"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Conrank",
-          "url": "https://open.spotify.com/artist/3qNEgvMVFSPWLeBGuqRQ4F"
-        }
-      ],
-      "duration_ms": 233689,
-      "name": "Where You At",
-      "url": "https://open.spotify.com/track/1l4Jlmelh8O7QSURiSxQXT"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "OH LAWD",
         "url": "https://open.spotify.com/album/4qKjQ6GfhuN7WRxOHdB7U4"
       },
@@ -1399,6 +1379,26 @@
       "duration_ms": 225600,
       "name": "Paper Moon",
       "url": "https://open.spotify.com/track/0QkLyxDS85ZsgqMazrhOMK"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Where You At",
+        "url": "https://open.spotify.com/album/1ojzEUbTPZd1TvXbcV4mj7"
+      },
+      "artists": [
+        {
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Conrank",
+          "url": "https://open.spotify.com/artist/3qNEgvMVFSPWLeBGuqRQ4F"
+        }
+      ],
+      "duration_ms": 233689,
+      "name": "Where You At",
+      "url": "https://open.spotify.com/track/1l4Jlmelh8O7QSURiSxQXT"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1503,26 +1503,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Dominate (Boombox Cartel Edit)",
-        "url": "https://open.spotify.com/album/6pyOAdOI2rY9eilAUn8tUI"
-      },
-      "artists": [
-        {
-          "name": "Space Laces",
-          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
-        },
-        {
-          "name": "Boombox Cartel",
-          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
-        }
-      ],
-      "duration_ms": 111040,
-      "name": "Dominate - Boombox Cartel Edit",
-      "url": "https://open.spotify.com/track/3HDTkL6fBNThcfeqKk8D17"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Play With You",
         "url": "https://open.spotify.com/album/2cRHpoN1heCtuKIHHxwo8w"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 214005,
       "name": "Take Your Throne",
       "url": "https://open.spotify.com/track/6hZ9RASHR1lgLRtRjjjhDn"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Dominate (Boombox Cartel Edit)",
+        "url": "https://open.spotify.com/album/6pyOAdOI2rY9eilAUn8tUI"
+      },
+      "artists": [
+        {
+          "name": "Space Laces",
+          "url": "https://open.spotify.com/artist/37PZXblQTqpEWGdjctNcGP"
+        },
+        {
+          "name": "Boombox Cartel",
+          "url": "https://open.spotify.com/artist/4m1yRHUMhvB8gKAJTjK4kO"
+        }
+      ],
+      "duration_ms": 111040,
+      "name": "Dominate - Boombox Cartel Edit",
+      "url": "https://open.spotify.com/track/3HDTkL6fBNThcfeqKk8D17"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Your Lovin'",
+        "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
+      },
+      "artists": [
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 219718,
+      "name": "Your Lovin'",
+      "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Full Circle",
         "url": "https://open.spotify.com/album/5gPc52ohFMwjEGcV3sQu4N"
       },
@@ -1623,6 +1639,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Breath",
+        "url": "https://open.spotify.com/album/4ZjGSYAVcd7TbZfFNUFWM8"
+      },
+      "artists": [
+        {
+          "name": "Elohim",
+          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
+        }
+      ],
+      "duration_ms": 200339,
+      "name": "Breath",
+      "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/7MgxcmKEBi7OSNvdep5nsF"
       },
@@ -1643,22 +1675,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Breath",
-        "url": "https://open.spotify.com/album/4ZjGSYAVcd7TbZfFNUFWM8"
-      },
-      "artists": [
-        {
-          "name": "Elohim",
-          "url": "https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY"
-        }
-      ],
-      "duration_ms": 200339,
-      "name": "Breath",
-      "url": "https://open.spotify.com/track/5jA67K9o5mEW5NzjRCdAUg"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Nonstop",
         "url": "https://open.spotify.com/album/3tS6hhl22D2BWjA7Y0Vf35"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 294653,
       "name": "Nonstop",
       "url": "https://open.spotify.com/track/0SUc7tyzR0jSTBEElIzqxB"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Your Lovin'",
-        "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
-      },
-      "artists": [
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 219718,
-      "name": "Your Lovin'",
-      "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Cheap Thrills",
-        "url": "https://open.spotify.com/album/2HCpsqhia2r9yhCzZd5fll"
-      },
-      "artists": [
-        {
-          "name": "Effin",
-          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Thrill",
-      "url": "https://open.spotify.com/track/4cnSDRJALb1Tts0m7wcB3J"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Witchcraft",
         "url": "https://open.spotify.com/album/2faxG5bQqAHDPhM4bPACvC"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 219428,
       "name": "Witchcraft",
       "url": "https://open.spotify.com/track/562XrisoThlh0IP3Gid2vb"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Cheap Thrills",
+        "url": "https://open.spotify.com/album/2HCpsqhia2r9yhCzZd5fll"
+      },
+      "artists": [
+        {
+          "name": "Effin",
+          "url": "https://open.spotify.com/artist/6l0u1oM2imxw0isrGcXpmH"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Thrill",
+      "url": "https://open.spotify.com/track/4cnSDRJALb1Tts0m7wcB3J"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1931,6 +1931,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Die With It",
+        "url": "https://open.spotify.com/album/6uwEBRSWF2VwW6SUmGnhpW"
+      },
+      "artists": [
+        {
+          "name": "Azide",
+          "url": "https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h"
+        },
+        {
+          "name": "J Swey",
+          "url": "https://open.spotify.com/artist/7qF6NAMsPdmVz0o8n5v1Ht"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Die With It",
+      "url": "https://open.spotify.com/track/3ZDuop6M6asvg8zae32PVz"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "\u5929\u306e\u5ddd (River of Heaven)",
         "url": "https://open.spotify.com/album/6NitlvfyIC8Bxo4wRP6syP"
       },
@@ -1999,22 +2019,6 @@
       "duration_ms": 223714,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "HUMAN",
-        "url": "https://open.spotify.com/album/5iXNn0qS3oGyl4jnYW8Y8d"
-      },
-      "artists": [
-        {
-          "name": "Nitepunk",
-          "url": "https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg"
-        }
-      ],
-      "duration_ms": 160204,
-      "name": "Hyperdust",
-      "url": "https://open.spotify.com/track/1P3o5TUYsIN3Qx7u17iRBN"
     }
   ],
   "unique_name": "Bass Arcade",

@@ -4,7 +4,7 @@
 
 > Swinging jazz for relaxing and unwinding.
 
-390 songs - 1 day 0 hr 9 min
+392 songs - 1 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Frontline \- CARRTOONS Remix](https://open.spotify.com/track/3Qhv1YKYj84eJ6JSVO6E5n) | [Butcher Brown](https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP), [CARRTOONS](https://open.spotify.com/artist/0994Up3Ob4zUFm3OFOWpzJ) | [Frontline \(CARRTOONS Remix\)](https://open.spotify.com/album/20J2i6BDv9gNl2ytEXSHSL) | 3:06 | 2022-02-17 | 2022-06-03 |
 | [Fruit Market Jazz](https://open.spotify.com/track/2rUed9JkrDpHCU0KR1AYEh) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Fruit Market Jazz](https://open.spotify.com/album/7mTU3mxr061prOhmRKuHzQ) | 1:59 | 2022-02-17 | 2023-03-21 |
 | [Glencoe Sketches](https://open.spotify.com/track/6JC5HZH8ZawV80A1FozgHY) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Glencoe Sketches](https://open.spotify.com/album/0VPDNVVzgSIVUA2w5M587C) | 4:21 | 2023-09-22 |  |
-| [Gloomy Sunday](https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Gloomy Sunday](https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk) | 3:13 | 2023-10-06 |  |
+| [Gloomy Sunday](https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3) | [Alec Taylor Trio](https://open.spotify.com/artist/67UMypld1JroGkopxoDP9J) | [Gloomy Sunday](https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk) | 3:13 | 2023-10-06 | 2023-10-11 |
 | [Gone Surfing](https://open.spotify.com/track/6K8z3GPdPLr6DqDxiluhyk) | [Hemai](https://open.spotify.com/artist/0eOlWPcqRSIbrJ1i9ESFhz) | [Strange Beauty Instrumental](https://open.spotify.com/album/3ZoOg4mHUlrcATrLte79uZ) | 3:14 | 2022-04-22 | 2022-06-03 |
 | [Good Night](https://open.spotify.com/track/3hWjbyHK72kyF3CXMCjoSx) | [Charlie James\-Walker](https://open.spotify.com/artist/7apm9TJQ66v5ykLahf9B3U) | [Good Night](https://open.spotify.com/album/0vYW9ULnZQnTCBCmOSMZKS) | 3:56 | 2023-03-20 |  |
 | [Graceful Rhapsody](https://open.spotify.com/track/3VRTgB7okjGGrRg4pTFC8r) | [Velvet Groove](https://open.spotify.com/artist/48LGJPZrYDxU9i6tKtakia) | [Graceful Rhapsody](https://open.spotify.com/album/0nSIdCAU3WMSoCuIM9Fzfm) | 2:42 | 2023-09-22 |  |
@@ -207,6 +207,7 @@
 | [Maze of Tranquility](https://open.spotify.com/track/06henIQqvVk2vAKj1yQtTp) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Maze of Tranquility](https://open.spotify.com/album/3xOT2GRM03MGNTRMQFSPZS) | 4:22 | 2023-03-20 |  |
 | [Me and You](https://open.spotify.com/track/13PQrxT6yKIpsjIKPRBtC5) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Du & Jag](https://open.spotify.com/album/6XFSqJXCjg1x5GeBslZkBN) | 3:02 | 2023-03-20 |  |
 | [Memories Of Her Music](https://open.spotify.com/track/11Ya486KvEdIaYgsT8cwsw) | [Songbird Trio](https://open.spotify.com/artist/1Lbuv3aiWkUkCnw0okZ4Fh) | [Memories Of Her Music](https://open.spotify.com/album/0ae4cJFhCtFf2ZSO4UMewV) | 3:33 | 2023-03-20 |  |
+| [Midnight Mood](https://open.spotify.com/track/21DBgFgwnYGspw2b2gfqZE) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Midnight Mood](https://open.spotify.com/album/00JwIcg9QId8yv41j8hsiF) | 2:58 | 2023-10-06 |  |
 | [Midnight Tokyo](https://open.spotify.com/track/1NkMK6oNQXBtfyz6T2zRrJ) | [Dreamlike Studio](https://open.spotify.com/artist/3VlRT5debonTpgMwGxtLtF) | [Midnight Tokyo](https://open.spotify.com/album/1vIQMLWca2bhhBYnyDq2b0) | 2:09 | 2022-08-31 | 2023-05-05 |
 | [Miscellaneous \(Live\)](https://open.spotify.com/track/13EHxipY8tNTgJBtOrVMQi) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt), [Floris van der Vlugt](https://open.spotify.com/artist/2s0GB9h7qb9UAum2R2Z06O), [MONODUKE](https://open.spotify.com/artist/7GMURXXNVyc1SXq3cvw197) | [Undertones \(Live\)](https://open.spotify.com/album/5te7urDPMWPADOtb7lnPKw) | 3:22 | 2022-04-22 | 2023-03-21 |
 | [Modjadji](https://open.spotify.com/track/2zLckBnqmefpJSPZM75KpW) | [Makram Aboul Hosn](https://open.spotify.com/artist/687cij80cUDv1u0l8C7PB6) | [Transmigration](https://open.spotify.com/album/2G4hThAYQf5XvkIdzQRtrP) | 5:01 | 2022-02-17 | 2022-05-04 |
@@ -392,7 +393,8 @@
 | [You Never Say You're Sorry](https://open.spotify.com/track/1bB1538FOBYVUs2z06ssQ3) | [Martin Landström](https://open.spotify.com/artist/4S6bYPPOxQPs9hSnUBbGBN) | [Lazy Art](https://open.spotify.com/album/0nwE46ZJn2ggRiBKmrN7Vi) | 4:18 | 2023-03-20 |  |
 | [You're A Girl For One Man Only](https://open.spotify.com/track/3dZEdQQB0vBh1k1SOlOVud) | [Brandee Younger](https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB) | [You're A Girl For One Man Only](https://open.spotify.com/album/600hcaoPfwUyZSEQO8dKi2) | 3:58 | 2023-02-23 | 2023-04-16 |
 | [You're A Rainbow](https://open.spotify.com/track/79Or4J2Ka8SUSVZjSrZGBz) | [Paul Moretti Trio](https://open.spotify.com/artist/13xgTeeJ91pCS0JYRCL41b) | [Love In Your Arms](https://open.spotify.com/album/16GmRGoCxQ2Iz61Sf02p5o) | 4:15 | 2023-03-20 |  |
-| [Your Lonely Heart](https://open.spotify.com/track/5v6yimzSI3z7ydQl1W0ocx) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Your Lonely Heart](https://open.spotify.com/album/2NIBEfyoyrHBLcr1LfnTKW) | 3:42 | 2023-05-04 |  |
+| [Young At Heart](https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Young At Heart](https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B) | 4:39 | 2023-10-06 |  |
+| [Your Lonely Heart](https://open.spotify.com/track/5v6yimzSI3z7ydQl1W0ocx) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [Your Lonely Heart](https://open.spotify.com/album/2NIBEfyoyrHBLcr1LfnTKW) | 3:42 | 2023-05-04 | 2023-10-11 |
 | [Youth](https://open.spotify.com/track/68bV95MWkeZOcuBMRezls1) | [Portico Quartet](https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx) | [Youth](https://open.spotify.com/album/55HaJYtXUgeT4Xs0XHbXGp) | 5:08 | 2022-02-17 | 2022-06-10 |
 | [YU YU](https://open.spotify.com/track/2UYVoA8FN7lEjR1bfRcjb2) | [Oli Howe](https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof) | [YU YU](https://open.spotify.com/album/6YIpdbYu4g2tMwwGGwcUbw) | 1:38 | 2022-12-09 | 2023-01-19 |
 | [Zari](https://open.spotify.com/track/7CKoRCXq7YNisjXbmU2ba8) | [Jaubi](https://open.spotify.com/artist/3nb0xF02MfjP2lM9zVNgnp), [Latarnik](https://open.spotify.com/artist/6BiuRrRE5zJ5yXJnriLeJ8), [Tenderlonious](https://open.spotify.com/artist/5D1w6T6H7pnRDQZIrhwlxo) | [Nafs at Peace](https://open.spotify.com/album/3mihMKEickUerWqYhi2Vg6) | 5:51 | 2022-02-17 | 2022-02-21 |

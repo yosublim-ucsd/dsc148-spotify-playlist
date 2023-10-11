@@ -787,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Janis: Little Girl Blue (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5F6Th386ar5HNmOkcA0QrK"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224386,
+      "name": "Raise Your Hand - Live at Jahrhunderthalle, Frankfurt, Germany",
+      "url": "https://open.spotify.com/track/6grR9jNzUcXpE8aq80Nqtg"
+    },
+    {
+      "album": {
         "name": "Cheap Thrills",
         "url": "https://open.spotify.com/album/2rogKfOpmCFuqNhtGKf2dX"
       },

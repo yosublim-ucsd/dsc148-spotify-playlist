@@ -1,12 +1,12 @@
 {
   "description": "Formas musicales de decir \"Te quiero\".",
-  "num_followers": 319189,
+  "num_followers": 319149,
   "original_name": "Te quiero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYjAxNzk4NmI1Y2E0ODQ0NzQ0NzY4MGY1OTU0NGE3MmZiOGQ3YzU3",
+  "snapshot_id": "MCwwODhhYjEyNjM2ZjM3N2FkM2ZjZGNjNjE5NTU3NTc4MzMxMTM4MTAy",
   "tracks": [
     {
       "added_at": "2021-02-12 18:11:45",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2021-02-12 18:11:45",
       "album": {
-        "name": "Radio la Colifata Presenta: El Canto del Loco",
-        "url": "https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf"
-      },
-      "artists": [
-        {
-          "name": "El Canto Del Loco",
-          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Contigo (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum"
-    },
-    {
-      "added_at": "2021-02-12 18:11:45",
-      "album": {
         "name": "Si T\u00fa La Quieres",
         "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
       },
@@ -1215,6 +1195,26 @@
       "duration_ms": 224761,
       "name": "Si T\u00fa La Quieres",
       "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
+    },
+    {
+      "added_at": "2021-02-12 18:11:45",
+      "album": {
+        "name": "Radio la Colifata Presenta: El Canto del Loco",
+        "url": "https://open.spotify.com/album/6ILlAsXOF5S8OdIYyS1XZf"
+      },
+      "artists": [
+        {
+          "name": "El Canto Del Loco",
+          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Contigo (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/3StCElHKaN6ASLf7Pymdum"
     },
     {
       "added_at": "2021-02-12 18:11:45",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Franco Rey
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,065 likes - 82 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,104 likes - 82 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 81 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 |
 | 82 | [Mi Estilo](https://open.spotify.com/track/5Mh7ttqT7eDrAMSDdYLT2m) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Mi Estilo](https://open.spotify.com/album/09hkkkk36xgJfcg8fssPlq) | 4:45 |
 
-Snapshot ID: `MCwwNGUxY2JiNDA4OWQ2OTU0NTQxNTRmZDI1MjkzOGUyZTcyYTQ1N2Jm`
+Snapshot ID: `MCxhNjJjYTFlNmU0ZTAwMWIwODdkODY0ZDI2YjI5MjQ3MTEyNDQzZDA1`

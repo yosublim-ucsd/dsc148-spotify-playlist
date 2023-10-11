@@ -4,7 +4,7 @@
 
 > Son jóvenes, guerreras y cool\. Foto: Kirnbauer, Joaquina Mertz, María Centeno & Noa Sainz.
 
-560 songs - 1 day 7 hr 53 min
+561 songs - 1 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Cortaste toda la luz](https://open.spotify.com/track/6sEkyi71nwR0Z7UC9OLWTg) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [Cortaste toda la luz](https://open.spotify.com/album/5lbpiRYTFik8UBu7UKRI9E) | 2:58 | 2023-07-14 | 2023-10-06 |
 | [Cosas Moradas](https://open.spotify.com/track/4vVC4ABAKzmkCalefOogIH) | [Ginebras](https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva) | [Ya Dormiré Cuando Me Muera](https://open.spotify.com/album/2gircpN65vFPiuw6zOk51w) | 2:39 | 2022-01-21 | 2023-06-10 |
 | [Costa Brava](https://open.spotify.com/track/1v8BGid2yEnnb7rBEf1qoc) | [Rosario Bléfari](https://open.spotify.com/artist/048Ps9xL1nU6dsliRDJi3y) | [Sector Apagado](https://open.spotify.com/album/5M1wEgLPmIX6d15YolKaie) | 2:54 | 2022-01-21 | 2022-07-13 |
-| [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 | 2023-06-30 |  |
+| [Cronos](https://open.spotify.com/track/6HWgKKrdh2aaYiqWDyJmZe) | [Carmen Sánchez Viamonte](https://open.spotify.com/artist/5Ofqrhibux9l9dNgt6qZP6) | [Cronos](https://open.spotify.com/album/00VsknyMSfgH3hE4fHoLjH) | 3:49 | 2023-06-30 | 2023-10-11 |
 | [Cuando](https://open.spotify.com/track/1tvQDFpAtWhBOJYf5Dvt6j) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/1ysIsiNZ4iKrrXjVu85wGp) | 3:10 | 2022-01-21 | 2022-10-13 |
 | [Cuando](https://open.spotify.com/track/7aVoNDapJRl60fW84l2vxH) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:10 | 2022-12-09 | 2023-04-16 |
 | [Cuando Sea Abuela](https://open.spotify.com/track/1m0cRuKnkpkfX68eF7fir0) | [Kurmi](https://open.spotify.com/artist/1BF5IPlIOTc6JJWQPuqG3W) | [Historias para Cuando Sea Abuela](https://open.spotify.com/album/0LtK9bUcKNtbu0iwZBgyGU) | 4:17 | 2022-01-21 | 2022-07-17 |
@@ -158,7 +158,7 @@
 | [Do Not Disturb](https://open.spotify.com/track/57NTX2X49uwDouWhoxXXhl) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [Do Not Disturb](https://open.spotify.com/album/0tHAFovt5oYlIaykidO1BV) | 1:26 | 2023-07-14 | 2023-08-19 |
 | [Dormir Contigo](https://open.spotify.com/track/4lckjigNyvJ3IY54d6Qi0I) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Dormir Contigo](https://open.spotify.com/album/59bouilTnKOb4R2VctA4D8) | 3:24 | 2022-01-14 | 2023-06-10 |
 | [Dos](https://open.spotify.com/track/0J49GNG60XrmImmBl3UGCQ) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Dos](https://open.spotify.com/album/0TEAkQp2XSbE12UE0BsP2W) | 3:54 | 2022-01-14 | 2022-07-29 |
-| [Dwele](https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Dwele](https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz) | 3:12 | 2022-06-03 | 2023-03-07 |
+| [Dwele](https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [Dwele](https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz) | 3:12 | 2022-06-03 |  |
 | [Déjame](https://open.spotify.com/track/5M6tbiFcXlmUsExGACcB2W) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H), [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Déjame](https://open.spotify.com/album/0bMqqQFF8RH3HF44FLcsde) | 3:46 | 2022-01-21 | 2022-07-28 |
 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 | 2022-01-14 | 2023-06-10 |
 | [DÍAS COMO HOY](https://open.spotify.com/track/6ukf7MHX1L5iwGUKCxm13N) | [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Lonely Fans](https://open.spotify.com/album/0jAcrKA6rbQWSQ1eBGo38P) | 3:31 | 2022-12-09 |  |
@@ -192,7 +192,7 @@
 | [Estereotipa](https://open.spotify.com/track/4kEWrooNVhdx4IXTzxQl3g) | [Gianna Sotera](https://open.spotify.com/artist/0slraaTntA9kCC4p2K7HRc) | [Estereotipa](https://open.spotify.com/album/0NGAex3VjmFCjZpFx20t8L) | 3:05 | 2022-01-21 | 2022-07-09 |
 | [Excusas](https://open.spotify.com/track/6FCy6lQw7O7GMu17tbA4eb) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Excusas](https://open.spotify.com/album/1HdFSJuwUiodRazWiyoovN) | 3:59 | 2022-01-14 | 2023-06-10 |
 | [FAKE](https://open.spotify.com/track/51t95XJ2OQ9MLRKWd1PXEp) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [FAKE](https://open.spotify.com/album/2sK71LmqForUrfyjX7pFdq) | 2:40 | 2022-04-01 | 2022-07-28 |
-| [fantasma](https://open.spotify.com/track/6UHmGelkukDsNbo2lKqoi6) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [fantasma](https://open.spotify.com/album/7yJzwzAmcw0LUZeMWnrYUh) | 3:14 | 2023-09-22 |  |
+| [fantasma](https://open.spotify.com/track/6UHmGelkukDsNbo2lKqoi6) | [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [fantasma](https://open.spotify.com/album/7yJzwzAmcw0LUZeMWnrYUh) | 3:14 | 2023-09-22 | 2023-10-11 |
 | [Fantasmas](https://open.spotify.com/track/09PyIVzV0oQlDkXwvFExDB) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Fantasmas](https://open.spotify.com/album/4CiBWK8rGcw3MjgOqaAJAf) | 3:43 | 2022-01-14 | 2022-10-14 |
 | [Fantasmas](https://open.spotify.com/track/6ysYTOjc5pCMqx66zvj85D) | [Ambar Lucid](https://open.spotify.com/artist/4nzV0hThyodYzrwksnS86G) | [Garden of Lucid](https://open.spotify.com/album/06l0dAmzy9g9AFUfcCDEeS) | 3:43 | 2022-10-14 | 2023-06-10 |
 | [Fantástico](https://open.spotify.com/track/3FpnoOgJnoihLQoEmm9Y8h) | [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR), [Oli Miglioli](https://open.spotify.com/artist/2c1M2ZvDn2Ikm4III7GrOy) | [Fantástico](https://open.spotify.com/album/7D0GfKfbXGfJW6YHfeAWTw) | 4:51 | 2022-01-21 | 2022-07-29 |
@@ -288,6 +288,7 @@
 | [M2](https://open.spotify.com/track/45JFy1hrbnfTzS18foQ5yZ) | [Maia Basso](https://open.spotify.com/artist/7zNrkkdNEcYNogDpjZMAEI) | [La Pregunta Última](https://open.spotify.com/album/2DFkYtvFtgBHYoGeUZjkrR) | 4:53 | 2022-02-11 | 2022-07-18 |
 | [mala](https://open.spotify.com/track/0NizLHiBid5U3tEdcfMD1b) | [carla martinez](https://open.spotify.com/artist/61boNdzdBfHexUTjbd1mrg) | [mala](https://open.spotify.com/album/3fV24ioWRPE5jfTlwhZiLj) | 3:26 | 2023-06-30 | 2023-08-19 |
 | [Maldita Primavera](https://open.spotify.com/track/72BwodBTqLkvm1pFqoBW6N) | [Javiera Parra](https://open.spotify.com/artist/1mBmpJSQUdUOTJzbfEg5m8), [Los Imposibles](https://open.spotify.com/artist/6znWM6UcbWBdTafliJGRgz) | [AM + bonus Tracks \(Edición Aniversario\)](https://open.spotify.com/album/4vGtwmxQqFEbG4FrGhuZel) | 3:45 | 2022-04-01 |  |
+| [Male](https://open.spotify.com/track/3wTK9UTRtwE0HbyEgoDW9n) | [Clara\_mente](https://open.spotify.com/artist/2fT7IpuxCPeR81zCxf9olk) | [Male](https://open.spotify.com/album/1JHlDmbAr9GM2BoZh9yLCA) | 3:02 | 2023-10-05 |  |
 | [Manantial](https://open.spotify.com/track/7uzWKaLX90ejqe8Ha71Mhh) | [Manu Martínez](https://open.spotify.com/artist/37P2y0CGo3jIcG0QIIJQfS) | [Manantial](https://open.spotify.com/album/0YeDa0ObnnbZhCZXf5oaBS) | 2:50 | 2022-06-03 | 2022-07-25 |
 | [Mandolin](https://open.spotify.com/track/7zv9v808xkSHwSnVsE3j14) | [Barbi Bloom](https://open.spotify.com/artist/6kKUt2inJruJEL9jZ89lJ5) | [Mandolin](https://open.spotify.com/album/1n2BooIWT74yPWEfRY6XRh) | 2:52 | 2022-07-08 | 2022-07-28 |
 | [Mango Negro](https://open.spotify.com/track/09ojDTXnHxPaJKDyRnWxGh) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Mango Negro](https://open.spotify.com/album/33HzZjfFI3PrkisNVc04mY) | 3:34 | 2022-01-14 | 2022-07-28 |

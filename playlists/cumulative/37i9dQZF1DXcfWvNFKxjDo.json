@@ -1836,36 +1836,6 @@
     {
       "album": {
         "name": "Higher Up",
-        "url": "https://open.spotify.com/album/1sJAhPJuhHxnKUsoGXGqaR"
-      },
-      "artists": [
-        {
-          "name": "Maxim Schunk",
-          "url": "https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB"
-        },
-        {
-          "name": "Renns",
-          "url": "https://open.spotify.com/artist/1KuINlip3yVc0knS6EwR5b"
-        },
-        {
-          "name": "WhiteCapMusic",
-          "url": "https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB"
-        },
-        {
-          "name": "Scarlett",
-          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
-        }
-      ],
-      "date_added": "2023-10-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 164475,
-      "name": "Higher Up",
-      "url": "https://open.spotify.com/track/40wwHFwGXfaJVjp6pFAlKU"
-    },
-    {
-      "album": {
-        "name": "Higher Up",
         "url": "https://open.spotify.com/album/1CnNO75ipPJwo8988PveOP"
       },
       "artists": [
@@ -1892,6 +1862,36 @@
       "duration_ms": 164475,
       "name": "Higher Up",
       "url": "https://open.spotify.com/track/6fVSLifg2GfBvJFClYQqIb"
+    },
+    {
+      "album": {
+        "name": "Higher Up",
+        "url": "https://open.spotify.com/album/1sJAhPJuhHxnKUsoGXGqaR"
+      },
+      "artists": [
+        {
+          "name": "WhiteCapMusic",
+          "url": "https://open.spotify.com/artist/3zapR5nlQJViW68imqxoeB"
+        },
+        {
+          "name": "Maxim Schunk",
+          "url": "https://open.spotify.com/artist/0KLoDGhaSkX3k59O9PzniB"
+        },
+        {
+          "name": "Renns",
+          "url": "https://open.spotify.com/artist/1KuINlip3yVc0knS6EwR5b"
+        },
+        {
+          "name": "Scarlett",
+          "url": "https://open.spotify.com/artist/06ahQOusxyLRkcUMrXts8s"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164475,
+      "name": "Higher Up",
+      "url": "https://open.spotify.com/track/40wwHFwGXfaJVjp6pFAlKU"
     },
     {
       "album": {

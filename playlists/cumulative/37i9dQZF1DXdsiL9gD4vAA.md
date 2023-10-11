@@ -4,7 +4,7 @@
 
 > Let these contemplative couplets take you away.
 
-109 songs - 10 hr 20 min
+110 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Dil Jalaane Ki Baat](https://open.spotify.com/track/1LW6iw61YZVYHfZ7S3yRyF) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [The Reluctant Fundamentalist](https://open.spotify.com/album/3Hzm5TP92QvufU2sJqwiB8) | 1:42 | 2023-09-15 |  |
 | [Dil Jalaane Ki Baat](https://open.spotify.com/track/7y8nfUqN3m56KiisCjYk7s) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [The Reluctant Fundamentalist Soundtrack](https://open.spotify.com/album/0DY2lIwaHNbR7aoLKWZit5) | 1:42 | 2021-12-01 | 2023-09-22 |
 | [Dil Lagta Hi Nahi](https://open.spotify.com/track/5TyvTWaL4SPH3jkCnBAIcL) | [AASHI TITORIA](https://open.spotify.com/artist/0ZgI3wn1xsCsYxVLofMu5q) | [Dil Lagta Hi Nahi](https://open.spotify.com/album/3zW2rhHAI9vwmL8VPQaIv3) | 3:22 | 2023-06-30 | 2023-07-26 |
+| [Dil Todne Wale](https://open.spotify.com/track/6xO3SmNmVtaygvN66l0tAT) | [Sudeep Banerji](https://open.spotify.com/artist/7FdTsGrbJB8uVpWbTrKR2H), [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Charlie Chopra and the Mystery of Solang Valley \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2iosAMmpoI7hP5N6ArzvR8) | 3:58 | 2023-10-09 |  |
 | [Dilkash](https://open.spotify.com/track/4RBzmqblZsEuNypCAHdWYf) | [Talat Aziz](https://open.spotify.com/artist/6a0qIxqTaL1BgqUfby0JLc) | [Gulmohar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79Xlo73WJ5gL2TnbAFWw87) | 4:29 | 2023-02-27 | 2023-03-21 |
 | [Duniya Kisi Ke Pyar Mein](https://open.spotify.com/track/4UDsOiaMP4pLawOzlmeGKk) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Golden Greats Of Mehdi Hassan](https://open.spotify.com/album/5kZPQXY1qFWCZrlGLApOKq) | 5:40 | 2021-12-01 |  |
 | [Duniya Kisie Ke Pyar Mein](https://open.spotify.com/track/1xoxOHmcRZqygAmiXugPs5) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan](https://open.spotify.com/album/70aqO6m7wDEb0vF3aWK2Kl) | 3:14 | 2021-12-01 | 2023-04-17 |
@@ -80,7 +81,7 @@
 | [Main Teri Yaad Ko](https://open.spotify.com/track/4ZkmpKwyfIuoHWewex1NfD) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Collection of Memorable Ghazals](https://open.spotify.com/album/0l5ac88or0M9cXIm4sfZ4Q) | 8:32 | 2021-12-01 | 2022-07-29 |
 | [Main Teri Yaad Ko](https://open.spotify.com/track/3FoMsUV3YRuLoQDdFZxVvN) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Shahad](https://open.spotify.com/album/0YCKkEc1hyPL7qCtpYrCNa) | 8:36 | 2022-07-26 |  |
 | [Mere Qatil](https://open.spotify.com/track/2i16NsRLKUsvLWyYRla7rn) | [Malika Pukhraj](https://open.spotify.com/artist/5rmKDntSlnGQF6Ndc5IklQ) | [Ghazals By Malika Pukhraj](https://open.spotify.com/album/2PsagHFpEZ3W1mLZYXmtmg) | 6:21 | 2021-12-01 |  |
-| [Meri Aankhon Mein](https://open.spotify.com/track/0r0xRQWURgruzTqF3yd6Mw) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sanjay Vidyarthi](https://open.spotify.com/artist/6tYoojxHYH95QPMINKJmkO) | [Meri Aankhon Mein](https://open.spotify.com/album/1VgsO8Cw4bNOt8dVT1oucS) | 4:50 | 2023-05-01 |  |
+| [Meri Aankhon Mein](https://open.spotify.com/track/0r0xRQWURgruzTqF3yd6Mw) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Sanjay Vidyarthi](https://open.spotify.com/artist/6tYoojxHYH95QPMINKJmkO) | [Meri Aankhon Mein](https://open.spotify.com/album/1VgsO8Cw4bNOt8dVT1oucS) | 4:50 | 2023-05-01 | 2023-10-11 |
 | [Meri Ajab Hai Zindagi](https://open.spotify.com/track/41ffCRz4qgkCidL08CBuPo) | [Kirti Anuraag](https://open.spotify.com/artist/3k76V6C9xfs43QCm8mqhOd), [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Rare Moments](https://open.spotify.com/album/4kTiRFjbJLrP4Py00IA10N) | 5:30 | 2021-12-01 |  |
 | [Mujhe Tum Nazar Se Gira To Rahe Ho](https://open.spotify.com/track/6D5YqPRZo1OfpD2cy5hUz1) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Golden Strokes Of Sohail Rana](https://open.spotify.com/album/45zJ5AmAvKqBnCsfymVLbV) | 3:55 | 2021-12-01 |  |
 | [Na Kajare Ki Dhar \(Duet Version\) \- With Heart Beats](https://open.spotify.com/track/5Lfsdm1eKTsUxEdqwmbBLb) | [Pankaj Udhas](https://open.spotify.com/artist/4Qpbhxe0sO2zhvUVfODdZw), [Sadhana Sargam](https://open.spotify.com/artist/1HGMG8RHvcu1mfdM9MeTek) | [Top 20 Hits \(With Heart Beats\)](https://open.spotify.com/album/5kRbMqkJmFYaOmU3Oi9nsL) | 5:08 | 2021-12-01 | 2023-07-01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 
 > the pearls of an oyster.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,208 likes - 105 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,220 likes - 105 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Wvd8VINtcF.md) - [plain]
 | 104 | [Fragile](https://open.spotify.com/track/0twVtYBVwNXIA15brQRf5y) | [Knife Girl](https://open.spotify.com/artist/0992VRpOtjqDFNoSHneK6L) | [Fragile](https://open.spotify.com/album/6gjW6IETdWXGmJLQPMT7ZT) | 4:39 |
 | 105 | [red rock flower bloom](https://open.spotify.com/track/7gLIyHO2xboJ2DwH6PXtaH) | [WIINSTON](https://open.spotify.com/artist/2y83GOxwL8okDqmxSmyX5o) | [red rock flower bloom](https://open.spotify.com/album/6NapR3UvcadQZmH9XTnreT) | 2:28 |
 
-Snapshot ID: `MCwyNzlhNzBjMWYxMTdmYmY0Y2FiMzNmMjFkN2QwMmQwZmYyNTZjMTBj`
+Snapshot ID: `MCw1MGI0NjcyYTE1OWM0NDQwMzhlMDI1MzkxYTQ0MTgxMGE4ZWJjZjQ3`

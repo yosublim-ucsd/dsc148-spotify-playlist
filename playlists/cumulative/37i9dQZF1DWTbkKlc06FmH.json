@@ -4625,6 +4625,24 @@
     },
     {
       "album": {
+        "name": "Live It Up (High Tide)",
+        "url": "https://open.spotify.com/album/4WSj8yr6mN3vxGSku9pyv3"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154368,
+      "name": "Live It Up (High Tide)",
+      "url": "https://open.spotify.com/track/1NQerA4L5VGpEtL9j7P7Xb"
+    },
+    {
+      "album": {
         "name": "Yonawo House",
         "url": "https://open.spotify.com/album/1SMSwFypOv7m5OWgSObTdX"
       },
@@ -5905,6 +5923,28 @@
     },
     {
       "album": {
+        "name": "O.M.M (feat. \u85e4\u7530\u7e54\u4e5f)",
+        "url": "https://open.spotify.com/album/1q8b5fH5kvHVhaQwhsEXEF"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        },
+        {
+          "name": "\u85e4\u7530\u7e54\u4e5f",
+          "url": "https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "O.M.M - feat. \u85e4\u7530\u7e54\u4e5f",
+      "url": "https://open.spotify.com/track/2ctOBBuKRVEbK0BsShiaJq"
+    },
+    {
+      "album": {
         "name": "Funk Wav Bounces Vol. 2",
         "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
       },
@@ -6408,7 +6448,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 182027,
       "name": "Peel (feat. miida)",
       "url": "https://open.spotify.com/track/6dtcmIjH4wh7nIn4amUs44"
@@ -8030,7 +8070,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
@@ -8808,7 +8848,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 178252,
       "name": "trippin",
       "url": "https://open.spotify.com/track/4JkFNeANK0lv1NXmarRnmT"
@@ -10310,6 +10350,28 @@
       "duration_ms": 300169,
       "name": "\u30d7\u30e9\u30b9\u30c6\u30a3\u30c3\u30af\u30fb\u30e9\u30d6",
       "url": "https://open.spotify.com/track/4wGxmG5XLeSs4EiUzhbOcY"
+    },
+    {
+      "album": {
+        "name": "\u30eb\u30fc\u30b8\u30e5 feat. \u5411\u4e95\u592a\u4e00",
+        "url": "https://open.spotify.com/album/1nUWMtWcOHFLlzVjFHOlIQ"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        },
+        {
+          "name": "Taichi Mukai",
+          "url": "https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217924,
+      "name": "\u30eb\u30fc\u30b8\u30e5 feat. \u5411\u4e95\u592a\u4e00",
+      "url": "https://open.spotify.com/track/06KGPEWi5lFvv31MK7Qzu4"
     },
     {
       "album": {

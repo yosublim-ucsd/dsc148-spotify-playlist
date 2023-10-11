@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 
 > Tropical jams to catch a vibe and whine to\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,914 likes - 92 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,082 likes - 92 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiuTkmMSmb9.md) - [plain]
 | 91 | [Calm Down](https://open.spotify.com/track/3BnDvpeuGOj21Ir2aVEtQo) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses](https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG) | 3:39 |
 | 92 | [NOBODY ELSE](https://open.spotify.com/track/2bnNuJb9pvIJGbeXsJ8A8S) | [Adrian Dzvuke](https://open.spotify.com/artist/3fgolNSZnidBlbm5dFi4go), [Beckah Amani](https://open.spotify.com/artist/6AlUh97NNEBLo3OqYORyIi) | [NOBODY ELSE](https://open.spotify.com/album/6cRQwq6B93zOqb6zu6lfAw) | 3:18 |
 
-Snapshot ID: `MCw4N2FkN2Q1NDY4ZjIwN2MwNWZlY2MxNDI0YjhmYTFmNDYwMTE0OTNl`
+Snapshot ID: `MCwyYjMxODhmMDhmZTcxM2Y5YThiNzc5NDMwNzVjOGExZDZkODRkNTA3`

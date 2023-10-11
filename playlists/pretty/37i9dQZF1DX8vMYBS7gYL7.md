@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vMYBS7gYL7.md) - [plain]
 
 > Un poco de sabrosura y color para esos días lluviosos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,589 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,634 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vMYBS7gYL7.md) - [plain]
 | 40 | [Lluvia](https://open.spotify.com/track/54vtEWLZyP51FGh9R585Zo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Lluvia \(Baile Total\)](https://open.spotify.com/album/4AgZZalEkba03Ww2hTl8cW) | 4:56 |
 | 41 | [Princesa](https://open.spotify.com/track/5ABUWUrqYGMXbF8qCZ5zF9) | [Frank Reyes](https://open.spotify.com/artist/4vQV1LCGBdYAt5rIIPjSFZ) | [Dosis De Amor](https://open.spotify.com/album/7hE53AMbrz2Td4f86WxbGV) | 3:25 |
 | 42 | [El Watusi](https://open.spotify.com/track/5jK21S6FXKQqjlK4vTBiMd) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [Charanga Moderna](https://open.spotify.com/album/5uYeVU8weEJgTFLblDuHFf) | 2:40 |
-| 43 | [Vámonos Pa'l Monte](https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vámonos Pa'l Monte](https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK) | 7:06 |
-| 44 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 |
+| 43 | [No Es una Novela](https://open.spotify.com/track/6u0YMyjnpSHi8EyHRkCCAP) | [Monchy & Alexandra](https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub) | [Éxitos](https://open.spotify.com/album/6yPF9eRGxfqwKy1bLkmUzA) | 3:40 |
+| 44 | [Vámonos Pa'l Monte](https://open.spotify.com/track/65kCIrgNhXeufeG2WVmHId) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Vámonos Pa'l Monte](https://open.spotify.com/album/4fIT7FtkFbq19m1lZyExAK) | 7:06 |
 | 45 | [Quiéreme Sempre](https://open.spotify.com/track/2UkKWdjByMLTsxQDiP3XAc) | [Orquesta Aragón](https://open.spotify.com/artist/2jXlqT8v9XIJnKQYRgLvSr) | [Me Voy Para La Luna](https://open.spotify.com/album/37kARifCI57YAygnMjcyAZ) | 3:02 |
 | 46 | [Agúzate](https://open.spotify.com/track/1JtLVwufQ1S0KggOg7ZxbA) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc), [Bobby Cruz](https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4) | [Agúzate](https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4) | 6:17 |
 | 47 | [Arroyito](https://open.spotify.com/track/5gRcvozPg8roCPDrd1VBQS) | [Fonseca](https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP) | [Gratitud](https://open.spotify.com/album/7enkpVoHsPr8ry7GSoZHi9) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vMYBS7gYL7.md) - [plain]
 | 49 | [Sabre Olvidar](https://open.spotify.com/track/6PIJEKugYG10SjXzGnWZ32) | [TNT Band](https://open.spotify.com/artist/4ljGaqO3BLQFsZKlV63RLF) | [Discos Bailables](https://open.spotify.com/album/04bxlf3LWGIRIC1b0lZKoI) | 3:56 |
 | 50 | [Margie](https://open.spotify.com/track/468KewwnYDaGofS7CHhR3K) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D) | [El “Ray” Criollo](https://open.spotify.com/album/4YQdtCI5Cx84mTFZQObPcK) | 3:19 |
 
-Snapshot ID: `MCxmNjY3OWMwMmM4ZTc4YTU0NGExMjA0YWM3NmE2MWU5ZjJmMzUzMjA4`
+Snapshot ID: `MCxiZTQ4ODIwOTMwYWVhY2RlYTZiMTdhMjM2ZTRhZjA2NjU2OTdjOWVm`

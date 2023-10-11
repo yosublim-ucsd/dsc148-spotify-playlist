@@ -4,7 +4,7 @@
 
 > Peaceful ambient for mind body connection.
 
-209 songs - 10 hr 55 min
+210 songs - 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [Sojourn](https://open.spotify.com/track/0vt9Z5bs20zegRzu3WfHcJ) | [Chim Suri](https://open.spotify.com/artist/42gcYwvtpQqAOqTarrqiKg) | [Sojourn](https://open.spotify.com/album/678tvE12gbHFdLNL5ME8L0) | 3:21 | 2023-08-11 |  |
 | [Sol Rythym](https://open.spotify.com/track/1SuOOxR5CYtqp0wUgG6KqK) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Sol Rhythm](https://open.spotify.com/album/2AJAJVg6ebdW9pY61qeV6x) | 3:04 | 2022-05-12 | 2022-12-10 |
 | [Solsken](https://open.spotify.com/track/0r14frSgaiYUHdW66ZCDY3) | [Owen Meyers](https://open.spotify.com/artist/3pTw5Y5aUfDyTD1OQVojEM) | [Solsken](https://open.spotify.com/album/06ZptErgRD4TluQw7ax1wj) | 3:45 | 2022-06-02 | 2022-12-10 |
+| [Soltar](https://open.spotify.com/track/3d1B1D0n0gVOkY0kbV6s4p) | [Josep Alba](https://open.spotify.com/artist/67X3gp8Bvmxl4fmYcuX7JG) | [Soltar](https://open.spotify.com/album/7eK4jDOu5p360olwqEXCGQ) | 2:58 | 2023-10-10 |  |
 | [Soul Sanctuary](https://open.spotify.com/track/0F0D6AJURYa1gLkMuaClSc) | [Phanari](https://open.spotify.com/artist/4EbKxHUCFQoF8htm8bKXxg) | [Soul Sanctuary](https://open.spotify.com/album/7vsIKloIvCCSEKAssTlBkH) | 3:17 | 2023-06-20 |  |
 | [Soulful Serenity](https://open.spotify.com/track/7z49f0uSg5zzR0M7c2WuVB) | [Neoterikoi](https://open.spotify.com/artist/003GvxsE75RdUGOB36UElA) | [Soulful Serenity](https://open.spotify.com/album/692iI5bmgzIOAdpkD6zMvj) | 3:04 | 2023-09-29 |  |
 | [Sparrow Cloud](https://open.spotify.com/track/0ScOpQ7ZnaFE1wjkuZ5pIX) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Essence of Mind](https://open.spotify.com/album/2kXPGbbn7SVW9YCDFYbx1Y) | 4:00 | 2022-08-12 | 2022-12-10 |
@@ -178,7 +179,7 @@
 | [Stillness is Waiting](https://open.spotify.com/track/4lGwOa5uQ6NFjm1wTZODUo) | [Alex Couture](https://open.spotify.com/artist/25G0894RyKrGyKDqdG1pGu) | [Handpan Reflections](https://open.spotify.com/album/449GydnmUhqj6rKP6P8ufT) | 2:38 | 2022-01-07 |  |
 | [Strings of Light](https://open.spotify.com/track/7pLqzJr6EA7gFm6hAeYxD9) | [Surrounding Life](https://open.spotify.com/artist/7x0g29FUOlzLsQrKB0NioF) | [Rivers of Relief](https://open.spotify.com/album/08i8VU7ZL1rBE9dNhf6ldr) | 4:55 | 2022-01-07 | 2022-06-03 |
 | [Summer Showers](https://open.spotify.com/track/02SaJ1OMfv7gDlIRM5OSmw) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Summer Showers](https://open.spotify.com/album/7DKs2pH9pjErdZZHCkd5mt) | 2:46 | 2022-01-07 |  |
-| [Sun Salutation](https://open.spotify.com/track/5NlB5vx0KNyOr4RM9oelFz) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Sun Salutation](https://open.spotify.com/album/55KUA09F5TsAqTTCxbWtL1) | 3:34 | 2022-11-25 |  |
+| [Sun Salutation](https://open.spotify.com/track/5NlB5vx0KNyOr4RM9oelFz) | [Namaste Flute](https://open.spotify.com/artist/2GZ3J2d45O3Z6cFOWXSXOD) | [Sun Salutation](https://open.spotify.com/album/55KUA09F5TsAqTTCxbWtL1) | 3:34 | 2022-11-25 | 2023-10-11 |
 | [Tao of Flow](https://open.spotify.com/track/6RbXL8mNfFDeW0DFgroGHU) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Tao of Flow](https://open.spotify.com/album/39OrBCe2KmJWfuZCsVGFbr) | 2:39 | 2022-11-25 |  |
 | [The Journey Within](https://open.spotify.com/track/3q0ss0KoYMVsUmgiaMRc7q) | [Samaneh Awad](https://open.spotify.com/artist/2r6oyERO8APn3d2BXDB3e1) | [The Journey Within](https://open.spotify.com/album/17IeLGiiEG70TNZ9KG21US) | 2:08 | 2022-11-25 |  |
 | [The Sun Has Risen \- Instrumental](https://open.spotify.com/track/1yUMnQ7kDd874TaPn924Lo) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw), [Firas Roby](https://open.spotify.com/artist/0hLfoeEsM4nCp6169vUXyL) | [The Sun Has Risen](https://open.spotify.com/album/0joOM7y34aAr62thU6wsXx) | 3:25 | 2022-01-07 | 2022-10-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDlhJPQNPrw.md) - [plain]
 
 > things will get better soon\. for now, just listen and dream.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,458 likes - 147 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,480 likes - 147 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,4 +156,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUDlhJPQNPrw.md) - [plain]
 | 146 | [Through My Eyes](https://open.spotify.com/track/1qPf5T5XSCkBKDOCtLI6X9) | [Martin Rapide](https://open.spotify.com/artist/0rsshRiKbaGqpYNI0jYNIX) | [Through My Eyes](https://open.spotify.com/album/0B02Uvb9zJ0kw1fENyd0CN) | 2:53 |
 | 147 | [October stroll](https://open.spotify.com/track/0djBbURQR8Zu4SD4K48lzJ) | [Jutila](https://open.spotify.com/artist/58Rq5hbLIcvGAlFeMAQFWn) | [October stroll](https://open.spotify.com/album/7dnDyRoLFwV6HSSiZ3L1AP) | 2:09 |
 
-Snapshot ID: `MCxmMjM2NjA0N2QwZjY1ZWNhNWNmMTE2ODc1ZmVkY2NjMDQ2ZmI2ODU5`
+Snapshot ID: `MCxhZjc2MGIzNTNkN2QzZDlmZTY1ZTg3ZDQ2NjFkNmYyZWMxYzY1NTM1`

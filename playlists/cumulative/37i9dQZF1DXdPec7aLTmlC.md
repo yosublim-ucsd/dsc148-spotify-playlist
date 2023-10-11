@@ -4,7 +4,7 @@
 
 > Hits to boost your mood and fill you with happiness!
 
-752 songs - 1 day 15 hr 45 min
+753 songs - 1 day 15 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Betty \(Get Money\)](https://open.spotify.com/track/4cacyP5c3PMlfnyjpg13xW) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Betty \(Get Money\)](https://open.spotify.com/album/3FEQZNn34v3EdxrVKi9pZF) | 2:26 | 2022-07-21 | 2023-08-09 |
 | [Big Plans](https://open.spotify.com/track/6Yx181fZzA0YE2EkUsYruq) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Big Plans](https://open.spotify.com/album/4XSRrYHawXjGuQ6qEk3Kk5) | 2:59 | 2019-05-26\* | 2022-04-18 |
 | [Bigger Than](https://open.spotify.com/track/5X73AYzzEE5Di0JwcQKt9N) | [Justin Jesso](https://open.spotify.com/artist/1QDrz3DMMaz3TB1cm0PGDu), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Bigger Than](https://open.spotify.com/album/0ryzyI2FzzvGCjoysiWMW0) | 3:28 | 2019-12-17 | 2022-07-29 |
+| [Bittersweet Symphony](https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony](https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s) | 3:14 | 2023-09-28 |  |
 | [Bittersweet Symphony \(feat\. Emily Roberts\)](https://open.spotify.com/track/6sYJuVcEu4gFHmeTLdHzRz) | [GAMPER & DADONI](https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J), [Emily Roberts](https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo) | [Bittersweet Symphony \(feat\. Emily Roberts\)](https://open.spotify.com/album/4kFCmKMq1c6gl8eema7wkg) | 3:14 | 2019-06-27 | 2022-04-11 |
 | [Black or White \- Single Version](https://open.spotify.com/track/2Cy7QY8HPLk925AyNAt6OG) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [The Essential Michael Jackson](https://open.spotify.com/album/77dNyQA0z8dV33M4so4eRY) | 3:22 | 2019-07-06 | 2019-08-13 |
 | [Blame It on the Boogie](https://open.spotify.com/track/1qDxpXApOmGgfkvq8DNhFT) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Destiny](https://open.spotify.com/album/3pIvt7ca8uJmrfnJAQA5l1) | 3:34 | 2019-07-07 | 2019-08-27 |
@@ -458,7 +459,7 @@
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-19 |  |
 | [My Head & My Heart](https://open.spotify.com/track/1KixkQVDUHggZMU9dUobgm) | [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [Heaven & Hell](https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM) | 2:54 | 2020-11-20 |  |
 | [My Love](https://open.spotify.com/track/3akpDdQJUVckqG4r1bmR25) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Dream Girl](https://open.spotify.com/album/4pI2XhkcyVb6MJXfEDF67u) | 3:41 | 2019-12-31 | 2022-04-19 |
-| [My Stupid Heart](https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [My Stupid Heart](https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39) | 2:40 | 2023-02-23 |  |
+| [My Stupid Heart](https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [My Stupid Heart](https://open.spotify.com/album/5csTYfCTB01hnZ3tT1yI39) | 2:40 | 2023-02-23 | 2023-10-11 |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-10-10 |  |
 | [My Way](https://open.spotify.com/track/67CZNsG3SQ1S8O2BsjTo4R) | [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [My Way](https://open.spotify.com/album/1l9oYbtssYCsKBChiBseJm) | 3:30 | 2020-06-29 | 2022-04-20 |
 | [My Way](https://open.spotify.com/track/1vvNmPOiUuyCbgWmtc6yfm) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [My Way](https://open.spotify.com/album/0dzeoQhVNzKkwM5ieOJC54) | 3:39 | 2019-10-24 | 2020-01-04 |

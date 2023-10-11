@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 
 > Instrumental beats from \(and influenced by\) Hip\-Hop's golden era; to help you study, work and vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,792 likes - 96 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,931 likes - 99 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,5 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX45qfzFXwcta.md) - [plain]
 | 94 | [RÅW & UNCUT](https://open.spotify.com/track/3qCdb8GuMPzXbVzBbkre9P) | [Matt Large](https://open.spotify.com/artist/107WzwlsOTR6Nxnw2kPHd3) | [RÅW & UNCUT](https://open.spotify.com/album/4toPAW7HgveYu5M9lAYUga) | 3:04 |
 | 95 | [Riga By Bike](https://open.spotify.com/track/5LTT4eNSUmsRh5UPWtyhjj) | [Rooftop Shenanigans](https://open.spotify.com/artist/6vbJBmz0ItqFtpo6OhNIl8) | [Riga By Bike](https://open.spotify.com/album/5eziB08STdQkuVE9UAgyOk) | 2:22 |
 | 96 | [Courtyard Cadence](https://open.spotify.com/track/2UsnJcR7WFjg316sshTPVK) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [Deli Dynamics](https://open.spotify.com/album/5efz5F8RirhZADaEiAE7fd) | 2:32 |
+| 97 | [Fool's Gold \- Instrumental](https://open.spotify.com/track/400dKJ9NMuxsg99O0te1Ix) | [yeyts.](https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR) | [Dreamer's Disease \(Instrumentals\)](https://open.spotify.com/album/1eW7YxArELoW5iCXdCjEmC) | 2:47 |
+| 98 | [Aix](https://open.spotify.com/track/34mXkxjLfdL4LseDpQYps0) | [Bokoya](https://open.spotify.com/artist/74FQKqCtm4hmvvxvIJlzrA), [FloFilz](https://open.spotify.com/artist/39ZQx0618UYVBgGTDOJ2ds) | [Aix](https://open.spotify.com/album/5I7cP45DUe2N8gjKM2X6vB) | 2:19 |
+| 99 | [Leave A Message](https://open.spotify.com/track/5KJqEIAYKfey08rG9KmtgE) | [Jaz93](https://open.spotify.com/artist/1GUv8VOUxgJrbN9hx20xxi), [Kick a Dope Verse!](https://open.spotify.com/artist/1Wc42aAvPBQxi2CsAN2Q5z) | [Tanqueray](https://open.spotify.com/album/4oLwCJS6Mn5QT9WObQVdkB) | 2:51 |
 
-Snapshot ID: `MCw2NjA4ZGEwYmQ4Njk0M2ZiYjA0MzZkYTMxNzZlMGQ1ZTliODcxOGJh`
+Snapshot ID: `MCwxNDBmM2M1MjAxYjM2MTcxMDhhZmJiZjUyZTY2OTE1NmFjNDJiNWZm`

@@ -1,12 +1,12 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 167317,
+  "num_followers": 167395,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWU0NDY1OWExMzRlNTQ2ZjFmNDhiMTM4OWJkYWVmYmEzYmU1NzBi",
+  "snapshot_id": "MCw0NTVhNjhhNGYzNmM1OGM2MTIyZGU0YTllZjJiZDIxNTNkMjBkM2Vj",
   "tracks": [
     {
       "added_at": "2023-10-10 00:48:29",
@@ -39,6 +39,22 @@
       "duration_ms": 284551,
       "name": "Loading",
       "url": "https://open.spotify.com/track/0GQW2gDyxgT5IsNEM4osbJ"
+    },
+    {
+      "added_at": "2023-10-10 03:17:13",
+      "album": {
+        "name": "New Joy",
+        "url": "https://open.spotify.com/album/3VbIOwadp0IpBVvNfBmRxx"
+      },
+      "artists": [
+        {
+          "name": "Slauson Malone 1",
+          "url": "https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N"
+        }
+      ],
+      "duration_ms": 196583,
+      "name": "New Joy",
+      "url": "https://open.spotify.com/track/2XWMDcbMGRypWYc58lOeTI"
     },
     {
       "added_at": "2023-08-11 15:45:26",
@@ -229,22 +245,6 @@
       "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
     },
     {
-      "added_at": "2022-09-07 01:02:18",
-      "album": {
-        "name": "Fairy Rust",
-        "url": "https://open.spotify.com/album/2zufQqm9WmCxVQDhWUvTvR"
-      },
-      "artists": [
-        {
-          "name": "Wombo",
-          "url": "https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4"
-        }
-      ],
-      "duration_ms": 157179,
-      "name": "Sour Sun",
-      "url": "https://open.spotify.com/track/58MSdjZOSfpi4Namw33bJ8"
-    },
-    {
       "added_at": "2023-09-25 03:39:17",
       "album": {
         "name": "Sorry I Haven't Called",
@@ -329,22 +329,6 @@
       "url": "https://open.spotify.com/track/6ZvVNzqFvCXIIpX9Z22CsN"
     },
     {
-      "added_at": "2023-08-24 03:26:17",
-      "album": {
-        "name": "RPG",
-        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
-      },
-      "artists": [
-        {
-          "name": "Me Lost Me",
-          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
-        }
-      ],
-      "duration_ms": 227120,
-      "name": "Heat!",
-      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
-    },
-    {
       "added_at": "2022-07-15 05:42:04",
       "album": {
         "name": "Arkhon",
@@ -359,6 +343,22 @@
       "duration_ms": 204262,
       "name": "Lost",
       "url": "https://open.spotify.com/track/5NIrChwN4QRg8sGrFalgMU"
+    },
+    {
+      "added_at": "2023-08-24 03:26:17",
+      "album": {
+        "name": "RPG",
+        "url": "https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15"
+      },
+      "artists": [
+        {
+          "name": "Me Lost Me",
+          "url": "https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO"
+        }
+      ],
+      "duration_ms": 227120,
+      "name": "Heat!",
+      "url": "https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG"
     },
     {
       "added_at": "2022-01-14 00:51:04",
@@ -409,22 +409,6 @@
       "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
     },
     {
-      "added_at": "2022-02-25 03:06:43",
-      "album": {
-        "name": "You Belong There",
-        "url": "https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt"
-      },
-      "artists": [
-        {
-          "name": "Daniel Rossen",
-          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
-        }
-      ],
-      "duration_ms": 369231,
-      "name": "Unpeopled Space",
-      "url": "https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK"
-    },
-    {
       "added_at": "2022-08-02 14:49:54",
       "album": {
         "name": "\u00a1Ay!",
@@ -439,6 +423,22 @@
       "duration_ms": 215296,
       "name": "No tiempo",
       "url": "https://open.spotify.com/track/28rXyBF4c6ziSoiY6QDcZO"
+    },
+    {
+      "added_at": "2022-02-25 03:06:43",
+      "album": {
+        "name": "You Belong There",
+        "url": "https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt"
+      },
+      "artists": [
+        {
+          "name": "Daniel Rossen",
+          "url": "https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4"
+        }
+      ],
+      "duration_ms": 369231,
+      "name": "Unpeopled Space",
+      "url": "https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/1PzCaE03jo2hmMm261h0XP"
     },
     {
-      "added_at": "2023-08-08 03:45:10",
-      "album": {
-        "name": "Highlight",
-        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
-      },
-      "artists": [
-        {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
-        }
-      ],
-      "duration_ms": 197500,
-      "name": "Highlight",
-      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Mahi Mahi",
@@ -511,6 +495,22 @@
       "duration_ms": 196355,
       "name": "Mahi Mahi",
       "url": "https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU"
+    },
+    {
+      "added_at": "2023-08-08 03:45:10",
+      "album": {
+        "name": "Highlight",
+        "url": "https://open.spotify.com/album/2MZZi4fuP7DkF5a59woyIU"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 197500,
+      "name": "Highlight",
+      "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -625,22 +625,6 @@
       "url": "https://open.spotify.com/track/63QQBvV5qzxQ4jIPg4stP4"
     },
     {
-      "added_at": "2023-06-05 20:56:02",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 363346,
-      "name": "Makkuroi Mizu",
-      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
-    },
-    {
       "added_at": "2023-08-15 18:36:31",
       "album": {
         "name": "Sus Dog",
@@ -659,6 +643,22 @@
       "duration_ms": 276045,
       "name": "Sus Dog",
       "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
+    },
+    {
+      "added_at": "2023-06-05 20:56:02",
+      "album": {
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
+      },
+      "artists": [
+        {
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+        }
+      ],
+      "duration_ms": 363346,
+      "name": "Makkuroi Mizu",
+      "url": "https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5"
     },
     {
       "added_at": "2023-03-23 20:08:51",
@@ -693,6 +693,26 @@
       "url": "https://open.spotify.com/track/233ArIuVyP9GNBlfNavB4W"
     },
     {
+      "added_at": "2023-01-20 04:21:17",
+      "album": {
+        "name": "Inner Song",
+        "url": "https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz"
+      },
+      "artists": [
+        {
+          "name": "Kelly Lee Owens",
+          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
+        },
+        {
+          "name": "John Cale",
+          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
+        }
+      ],
+      "duration_ms": 447453,
+      "name": "Corner Of My Sky",
+      "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
+    },
+    {
       "added_at": "2022-09-29 00:57:24",
       "album": {
         "name": "Meditations on Crime",
@@ -715,26 +735,6 @@
       "duration_ms": 213159,
       "name": "Crime Seed",
       "url": "https://open.spotify.com/track/5vyoWTsI8hVl9fJHqW2ieb"
-    },
-    {
-      "added_at": "2023-01-20 04:21:17",
-      "album": {
-        "name": "Inner Song",
-        "url": "https://open.spotify.com/album/79fGMhdBAKmCiih3K8Gwqz"
-      },
-      "artists": [
-        {
-          "name": "Kelly Lee Owens",
-          "url": "https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5"
-        },
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 447453,
-      "name": "Corner Of My Sky",
-      "url": "https://open.spotify.com/track/0Kx5mnfoluqEcrZmQDin6m"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -785,22 +785,6 @@
       "url": "https://open.spotify.com/track/4oxYyTVMHCt9PJkr92Wu4V"
     },
     {
-      "added_at": "2023-06-07 04:10:00",
-      "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
-      },
-      "artists": [
-        {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
-        }
-      ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
-    },
-    {
       "added_at": "2023-01-03 01:09:50",
       "album": {
         "name": "Time Skiffs",
@@ -833,24 +817,20 @@
       "url": "https://open.spotify.com/track/7s9RUTS8u8JSfwpLxmbPIK"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2023-06-07 04:10:00",
       "album": {
-        "name": "High January",
-        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z"
       },
       "artists": [
         {
-          "name": "Marker Starling",
-          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
-        },
-        {
-          "name": "Laetitia Sadier",
-          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
         }
       ],
-      "duration_ms": 266287,
-      "name": "Starved for Glamour",
-      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/3Q74p61vgqdsCBFQlOP1kQ"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -883,6 +863,26 @@
       "duration_ms": 285898,
       "name": "Follow the Cyborg",
       "url": "https://open.spotify.com/track/29Tr5faNVWpHHaN2JytX98"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "High January",
+        "url": "https://open.spotify.com/album/3er7U7Xz3YFryjGaFnpKSE"
+      },
+      "artists": [
+        {
+          "name": "Marker Starling",
+          "url": "https://open.spotify.com/artist/3ng4JmUTAES0oTSlDkF3if"
+        },
+        {
+          "name": "Laetitia Sadier",
+          "url": "https://open.spotify.com/artist/5s8mrbpjYHWIuGYUzNTpEb"
+        }
+      ],
+      "duration_ms": 266287,
+      "name": "Starved for Glamour",
+      "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
       "added_at": "2023-01-20 04:21:17",
@@ -993,22 +993,6 @@
       "url": "https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Jacqueline",
-        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
-      },
-      "artists": [
-        {
-          "name": "Jackie Lynn",
-          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
-        }
-      ],
-      "duration_ms": 324022,
-      "name": "Dream St.",
-      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
-    },
-    {
       "added_at": "2022-02-09 04:04:07",
       "album": {
         "name": "Sans oublier",
@@ -1027,6 +1011,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "Jacqueline",
+        "url": "https://open.spotify.com/album/3ykZ3V0mxK2yq5udGPeBDU"
+      },
+      "artists": [
+        {
+          "name": "Jackie Lynn",
+          "url": "https://open.spotify.com/artist/18txRfxTDTI9CZj7XgKLOV"
+        }
+      ],
+      "duration_ms": 324022,
+      "name": "Dream St.",
+      "url": "https://open.spotify.com/track/49SiBBu5SZn0lqSFAhgJ5t"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "Robber",
         "url": "https://open.spotify.com/album/2qx7Ow0ojN6OPb64V5b5t5"
       },
@@ -1039,6 +1039,30 @@
       "duration_ms": 320524,
       "name": "Robber",
       "url": "https://open.spotify.com/track/2cTLouneODFXlosSyN3sxK"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Hildegard",
+        "url": "https://open.spotify.com/album/73YfC8h0xwIr2KFhW99iLk"
+      },
+      "artists": [
+        {
+          "name": "Hildegard",
+          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
+        },
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        },
+        {
+          "name": "Ouri",
+          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+        }
+      ],
+      "duration_ms": 186544,
+      "name": "Jour 3",
+      "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
     },
     {
       "added_at": "2022-01-21 20:15:30",
@@ -1093,6 +1117,22 @@
       "url": "https://open.spotify.com/track/1ijMJdADgg379aghDnIby7"
     },
     {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
+        "name": "Heartlow",
+        "url": "https://open.spotify.com/album/3uWfwfYAKxPBC0Ro4xof8i"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 218925,
+      "name": "Heartlow - Edit",
+      "url": "https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg"
+    },
+    {
       "added_at": "2023-01-20 04:21:17",
       "album": {
         "name": "MERCY",
@@ -1115,18 +1155,18 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Heartlow",
-        "url": "https://open.spotify.com/album/3uWfwfYAKxPBC0Ro4xof8i"
+        "name": "Rivers That You Cannot See",
+        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
       },
       "artists": [
         {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+          "name": "North Americans",
+          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
         }
       ],
-      "duration_ms": 218925,
-      "name": "Heartlow - Edit",
-      "url": "https://open.spotify.com/track/2vUDoEBAGVLvcy8kDE0FTg"
+      "duration_ms": 235093,
+      "name": "Rivers That You Cannot See",
+      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
     },
     {
       "added_at": "2023-06-26 14:24:59",
@@ -1147,22 +1187,6 @@
       "duration_ms": 269399,
       "name": "Island Family - uh Remix",
       "url": "https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "Rivers That You Cannot See",
-        "url": "https://open.spotify.com/album/35iioCINJwSsujHf6csIMy"
-      },
-      "artists": [
-        {
-          "name": "North Americans",
-          "url": "https://open.spotify.com/artist/0SsM5OCOiiwycZIO63OT1S"
-        }
-      ],
-      "duration_ms": 235093,
-      "name": "Rivers That You Cannot See",
-      "url": "https://open.spotify.com/track/3FtbB9OOYaoxnn18aezZRh"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1213,22 +1237,6 @@
       "url": "https://open.spotify.com/track/4fbvhFhIhItsBS4V5EUdYu"
     },
     {
-      "added_at": "2023-03-31 19:24:48",
-      "album": {
-        "name": "Counter Melodies",
-        "url": "https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot"
-      },
-      "artists": [
-        {
-          "name": "Maps",
-          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
-        }
-      ],
-      "duration_ms": 318750,
-      "name": "Windows Open",
-      "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
-    },
-    {
       "added_at": "2023-03-31 19:12:14",
       "album": {
         "name": "Follow the Cyborg",
@@ -1245,28 +1253,20 @@
       "url": "https://open.spotify.com/track/3g5v5S6Adv3gqPpKuli6Q5"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2023-03-31 19:24:48",
       "album": {
-        "name": "Hildegard",
-        "url": "https://open.spotify.com/album/73YfC8h0xwIr2KFhW99iLk"
+        "name": "Counter Melodies",
+        "url": "https://open.spotify.com/album/4LWyrJebQ4M0oL9OVDH1ot"
       },
       "artists": [
         {
-          "name": "Hildegard",
-          "url": "https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC"
-        },
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        },
-        {
-          "name": "Ouri",
-          "url": "https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv"
+          "name": "Maps",
+          "url": "https://open.spotify.com/artist/3hImYGOkGn8Rsh9Vygcds2"
         }
       ],
-      "duration_ms": 186544,
-      "name": "Jour 3",
-      "url": "https://open.spotify.com/track/1RLMR4pVuuHEzn8mOe1U2s"
+      "duration_ms": 318750,
+      "name": "Windows Open",
+      "url": "https://open.spotify.com/track/2gbExwEbhJtlrL9q1d7k9T"
     },
     {
       "added_at": "2023-01-03 23:48:36",
@@ -1285,22 +1285,6 @@
       "url": "https://open.spotify.com/track/0XTurmb33W1OnYZji8eIQe"
     },
     {
-      "added_at": "2023-06-02 00:41:12",
-      "album": {
-        "name": "Music For Film: Women Against The Bomb",
-        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
-      },
-      "artists": [
-        {
-          "name": "MEMORIALS",
-          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
-        }
-      ],
-      "duration_ms": 212626,
-      "name": "It's In Our Hands",
-      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
-    },
-    {
       "added_at": "2022-03-30 04:28:53",
       "album": {
         "name": "Sans oublier",
@@ -1315,6 +1299,22 @@
       "duration_ms": 170737,
       "name": "La Roseraie",
       "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
+    },
+    {
+      "added_at": "2023-06-02 00:41:12",
+      "album": {
+        "name": "Music For Film: Women Against The Bomb",
+        "url": "https://open.spotify.com/album/3h5hrCfmIHXQcxZYUnfE85"
+      },
+      "artists": [
+        {
+          "name": "MEMORIALS",
+          "url": "https://open.spotify.com/artist/1j3MgTGdEPOg24YXGJd9gP"
+        }
+      ],
+      "duration_ms": 212626,
+      "name": "It's In Our Hands",
+      "url": "https://open.spotify.com/track/7HoJFfvWJMlBfUh0wC0m1L"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1457,22 +1457,6 @@
       "url": "https://open.spotify.com/track/0QsQEgTZoi83rFri3jEKZt"
     },
     {
-      "added_at": "2022-08-13 01:25:00",
-      "album": {
-        "name": "THE 55",
-        "url": "https://open.spotify.com/album/3VRckeo4W4pLalver76sg1"
-      },
-      "artists": [
-        {
-          "name": "GUSPY",
-          "url": "https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp"
-        }
-      ],
-      "duration_ms": 172941,
-      "name": "THE 55",
-      "url": "https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70"
-    },
-    {
       "added_at": "2021-10-15 03:46:13",
       "album": {
         "name": "Vines",
@@ -1487,6 +1471,22 @@
       "duration_ms": 406163,
       "name": "Sunken Lupine",
       "url": "https://open.spotify.com/track/72SzjydU6s6oVsj2Ml1YV3"
+    },
+    {
+      "added_at": "2022-08-13 01:25:00",
+      "album": {
+        "name": "THE 55",
+        "url": "https://open.spotify.com/album/3VRckeo4W4pLalver76sg1"
+      },
+      "artists": [
+        {
+          "name": "GUSPY",
+          "url": "https://open.spotify.com/artist/1zixgqu3Rx9mXzCsS7k7lp"
+        }
+      ],
+      "duration_ms": 172941,
+      "name": "THE 55",
+      "url": "https://open.spotify.com/track/61aBhscbYMdkvI4V4ikn70"
     },
     {
       "added_at": "2023-01-20 04:21:17",

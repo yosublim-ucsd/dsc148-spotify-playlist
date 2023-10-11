@@ -241,6 +241,36 @@
     },
     {
       "album": {
+        "name": "A Internet \u00c9 Toxica",
+        "url": "https://open.spotify.com/album/3PZQ1JYIh7M5QuyoK6rLYM"
+      },
+      "artists": [
+        {
+          "name": "Dj Lc",
+          "url": "https://open.spotify.com/artist/3JcD2LnyvfEki9d7705GaY"
+        },
+        {
+          "name": "DJ JOAO DA INESTAN",
+          "url": "https://open.spotify.com/artist/1K3wppIvsUK99HODkiNgeu"
+        },
+        {
+          "name": "Mc Pretchako",
+          "url": "https://open.spotify.com/artist/5r3Fsh6QhUaKlr9CKgBxcv"
+        },
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161884,
+      "name": "A Internet \u00c9 Toxica",
+      "url": "https://open.spotify.com/track/6Gn8SHd3RIWjOermcidCJk"
+    },
+    {
+      "album": {
         "name": "abcdefu",
         "url": "https://open.spotify.com/album/6tUQPKlpR4x1gjrXTtOImI"
       },
@@ -388,7 +418,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 203453,
       "name": "Al\u00f4 Novinha na Inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/6JP3AqdFKj99jfW3hOwfta"
@@ -410,7 +440,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 203465,
       "name": "Al\u00f4 novinha na inten\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/00lWuB1hTPk9BngrNqER01"
@@ -850,7 +880,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 166435,
       "name": "Balan\u00e7o da Rede",
       "url": "https://open.spotify.com/track/2qmG7dokbGpDGD0T5wORWt"
@@ -1018,7 +1048,7 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 197104,
       "name": "Beb\u00ea T\u00e1 Solta",
       "url": "https://open.spotify.com/track/1TgVaCf8D5mXZrK1d7uIZe"
@@ -2687,6 +2717,28 @@
     },
     {
       "album": {
+        "name": "Eu Vou te Empurrar 300 Por Hora",
+        "url": "https://open.spotify.com/album/1QBYiriaRtRCKDTsU21lU2"
+      },
+      "artists": [
+        {
+          "name": "MC Menor MT",
+          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
+        },
+        {
+          "name": "JK NO BEAT",
+          "url": "https://open.spotify.com/artist/58oIAGQ8MEuIWIuQh2E3yg"
+        }
+      ],
+      "date_added": "2023-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214153,
+      "name": "Eu Vou te Empurrar 300 Por Hora",
+      "url": "https://open.spotify.com/track/1HEjwd9SwKqj1Kbeb0fz6a"
+    },
+    {
+      "album": {
         "name": "Evoque Prata",
         "url": "https://open.spotify.com/album/5lvH0uC0dJxie3qMtGuawa"
       },
@@ -3593,6 +3645,64 @@
     },
     {
       "album": {
+        "name": "Let's Go 4",
+        "url": "https://open.spotify.com/album/5bL1JfGehas80YH7qoCyBL"
+      },
+      "artists": [
+        {
+          "name": "Dj GBR",
+          "url": "https://open.spotify.com/artist/0IhzJFf4QBEz0ifqLwScKV"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "Mc Luki",
+          "url": "https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "TrapLaudo",
+          "url": "https://open.spotify.com/artist/39QiJaZ1HzRcpY9xlMKCsF"
+        },
+        {
+          "name": "MC GP",
+          "url": "https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0"
+        },
+        {
+          "name": "MC GH do 7",
+          "url": "https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 641941,
+      "name": "Let's Go 4",
+      "url": "https://open.spotify.com/track/2InS5VWKJQbsFBKOsf1cJB"
+    },
+    {
+      "album": {
         "name": "Decretos Reais, Vol. 2",
         "url": "https://open.spotify.com/album/44GonyeOgM1vGc9uHpoimf"
       },
@@ -3792,7 +3902,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 131318,
       "name": "Macho Preferido",
       "url": "https://open.spotify.com/track/4D4yBfKqS2aBblJyVlpA7i"
@@ -4398,8 +4508,8 @@
           "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
         },
         {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+          "name": "Mc Karol",
+          "url": "https://open.spotify.com/artist/3PcaoyXip46S7I2LyU8sxW"
         }
       ],
       "date_added": "2023-09-14",
@@ -6139,6 +6249,60 @@
     },
     {
       "album": {
+        "name": "Set Dj Gm 4.0",
+        "url": "https://open.spotify.com/album/2TZye9wiSQv87brj9DlCNM"
+      },
+      "artists": [
+        {
+          "name": "Mc Lipi",
+          "url": "https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc"
+        },
+        {
+          "name": "MC Paulin da Capital",
+          "url": "https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Dj GM",
+          "url": "https://open.spotify.com/artist/03PnQHlbH5nDDVX3hNg628"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Nego do Borel",
+          "url": "https://open.spotify.com/artist/1B0Rp4SWGnFgGCPU5Pju6E"
+        },
+        {
+          "name": "Mc Neguinho do ITR",
+          "url": "https://open.spotify.com/artist/6TxINSxeDX9C70nAiJZoVA"
+        },
+        {
+          "name": "Theus Costa",
+          "url": "https://open.spotify.com/artist/4qNZfaBcaNA2Q2a9danTGP"
+        },
+        {
+          "name": "Mc Piedro",
+          "url": "https://open.spotify.com/artist/4fBAsjJmj6lwaOuWS15stg"
+        },
+        {
+          "name": "Mc Nathan ZK",
+          "url": "https://open.spotify.com/artist/3H6EeCzAFfNTCayLXuZWdE"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 508865,
+      "name": "Set Dj Gm 4.0",
+      "url": "https://open.spotify.com/track/1N6oQPKuRss4kpl4H2qt8K"
+    },
+    {
+      "album": {
         "name": "Shakira: Bzrp Music Sessions, Vol. 53",
         "url": "https://open.spotify.com/album/1gi2iwr1l8IUyHYHxi01pg"
       },
@@ -6258,28 +6422,6 @@
       "duration_ms": 114573,
       "name": "S\u00e3o Jo\u00e3o Chegou",
       "url": "https://open.spotify.com/track/6sZYCAvTEYjTtQ9Tt5ACbX"
-    },
-    {
-      "album": {
-        "name": "Te Empurrar Socadao Socadinha",
-        "url": "https://open.spotify.com/album/1QBYiriaRtRCKDTsU21lU2"
-      },
-      "artists": [
-        {
-          "name": "MC Menor MT",
-          "url": "https://open.spotify.com/artist/4EMRE0wdcc2xjv1PCmTqUU"
-        },
-        {
-          "name": "JK NO BEAT",
-          "url": "https://open.spotify.com/artist/58oIAGQ8MEuIWIuQh2E3yg"
-        }
-      ],
-      "date_added": "2023-09-14",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214153,
-      "name": "Te Empurrar Socadao Socadinha",
-      "url": "https://open.spotify.com/track/1HEjwd9SwKqj1Kbeb0fz6a"
     },
     {
       "album": {

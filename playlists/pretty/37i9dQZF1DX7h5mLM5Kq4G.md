@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h5mLM5Kq4G.md) - [plain]
 
 > The songs we've been partying to in 2022\. Cover: David Guetta & Bebe Rexha \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,236 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,247 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7h5mLM5Kq4G.md) - [plain]
 | 74 | [DON'T YOU WORRY](https://open.spotify.com/track/0YJW8OXw8G1xDfkzaID3vv) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [ELEVATION](https://open.spotify.com/album/1jH4f6N9caSeq3VwwtTHLn) | 3:14 |
 | 75 | [Light Switch](https://open.spotify.com/track/3AVXwaOGCEL8cmBecfcsFJ) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Light Switch \(Instrumental\)](https://open.spotify.com/album/4RRj9PqBj79OFDB2ydM7qs) | 3:07 |
 
-Snapshot ID: `MCxmMjg2NjJiZGY2NWQ5OTNhMTYxYjBiNDg1NmY4NzFkNGUxNTgxZGFl`
+Snapshot ID: `MCxkNmJiMmZmYWY4MDRjODcxYzA3M2Y4YWZiMTE0MDI5YTgwMTc0YTI1`

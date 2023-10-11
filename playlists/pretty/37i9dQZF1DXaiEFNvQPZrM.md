@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 
 > Traditional country sounds from artists of yesterday and today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 713,928 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 714,102 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,11 +19,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 9 | [Lonesome Drinkers](https://open.spotify.com/track/0dRjCdlwKP9TOddQI8CVjF) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Let's Do Country Right](https://open.spotify.com/album/3iT8ACbErKCSxNmN19frzy) | 3:20 |
 | 10 | [Dear Miss Loretta](https://open.spotify.com/track/0qcxQHmYOp7okI0Eu6Dk69) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72), [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [29: Written In Stone](https://open.spotify.com/album/5lwUnuV4PJekfTcYIbkq6a) | 3:40 |
 | 11 | [Neon Dreamin'](https://open.spotify.com/track/5NlRilI9PDyCQXxSxt0CxW) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Neon Dreamin'](https://open.spotify.com/album/5BAVG5h0zvrNUbR0Kglefr) | 3:27 |
-| 12 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
+| 12 | [Things a Man Oughta Know](https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:23 |
 | 13 | ['Til You Can't](https://open.spotify.com/track/13rC4iKtfQocWIfzPOJxaT) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | ['Til You Can’t / Longer Than She Did](https://open.spotify.com/album/5MzgI1Hzjkf1Dj7xW7d1GL) | 3:44 |
 | 14 | [Palomino Princess](https://open.spotify.com/track/5LmwW6k3kPJicZxfYLRcBG) | [Tyler Booth](https://open.spotify.com/artist/7lUUBDm6D4zeAVxbBqtHel) | [Grab the Reins](https://open.spotify.com/album/2s1xffBgQy0HNUbkS8Kqej) | 3:32 |
 | 15 | [Why Not Me](https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:31 |
-| 16 | [Things a Man Oughta Know](https://open.spotify.com/track/5QS8PNEWbqTEZyQ6e9ZbJf) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Sayin' What I'm Thinkin'](https://open.spotify.com/album/3I0SEplNpqsPfnLVZsNPif) | 3:23 |
+| 16 | [Good Directions](https://open.spotify.com/track/7GQjJEwqlp6m5HNWVQd6OR) | [Billy Currington](https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt) | [Doin' Somethin' Right](https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5) | 3:35 |
 | 17 | [Neon Blue](https://open.spotify.com/track/20LTvIfOH5vjhXC1E7WFxk) | [Joshua Hedley](https://open.spotify.com/artist/6OJg4GNkAEtu0cfDVRbnjh) | [Neon Blue](https://open.spotify.com/album/7tGi2TSrjFhjJ6W6BbD1wQ) | 2:51 |
 | 18 | [Thinkin' About You](https://open.spotify.com/track/5CQ1Pol5ud3mFBqAuCUE9o) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 3:23 |
 | 19 | [Fishing In The Dark](https://open.spotify.com/track/3i5QyEUyXa9Y7lIklr5sWk) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW) | [Anthology](https://open.spotify.com/album/3eI6PUZit1cF2ty6l7sXjI) | 3:21 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaiEFNvQPZrM.md) - [plain]
 | 99 | [Shakin' In Them Boots](https://open.spotify.com/track/7zwi0kPSFtdNUNIXZlKfNF) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Shakin' In Them Boots](https://open.spotify.com/album/12JRLrNicKNlQDu5zNKaF3) | 2:49 |
 | 100 | [Over Drinkin' Under Thinkin'](https://open.spotify.com/track/31EPUusrydPHvsYNDcdAlJ) | [Drake Milligan](https://open.spotify.com/artist/4mskfuiHWZ3nX3qAdeaGiR) | [Dallas/Fort Worth](https://open.spotify.com/album/6JDmMjsVmSWoWJ3yCG2Fq7) | 3:17 |
 
-Snapshot ID: `MCxiY2RjNGY3YmQzNjM5NDZjZmNhY2M3YTAzODkwNTNjZjgyMmQ2M2Ni`
+Snapshot ID: `MCw4NWJhMzFkNzA3N2IyOGM0NTRjZTFkNDUxZDU4ODYyMTdhNjQ4NDQ4`

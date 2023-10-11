@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Carrie Underwood",
-  "num_followers": 515033,
+  "num_followers": 515118,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmJmZGMxNDQwZjlmNTc2MTk3MjJjOTA4MmNhYWRlZjc1NTNjNWNh",
+  "snapshot_id": "MCw3NjRlOGY3MmI4OTI2MmNkMzExZGIwNGU3MTNmYzdhZjRhZjZmYjc5",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Memory Lane",
-        "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
-      },
-      "artists": [
-        {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
-        }
-      ],
-      "duration_ms": 172480,
-      "name": "Memory Lane",
-      "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },
@@ -563,22 +547,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Russell Dickerson",
-        "url": "https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8"
-      },
-      "artists": [
-        {
-          "name": "Russell Dickerson",
-          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
-        }
-      ],
-      "duration_ms": 187226,
-      "name": "God Gave Me A Girl",
-      "url": "https://open.spotify.com/track/7kkLBfxW41iVO0cdLU9e9S"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Different 'Round Here",
         "url": "https://open.spotify.com/album/1FkgWqBfOH8VaaiG8PRGxX"
       },
@@ -595,6 +563,38 @@
       "duration_ms": 174992,
       "name": "Different 'Round Here",
       "url": "https://open.spotify.com/track/4l5w5qGInIhwfvpYmPIYdK"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Russell Dickerson",
+        "url": "https://open.spotify.com/album/1yq5iFSGYrr3NA3UidIgi8"
+      },
+      "artists": [
+        {
+          "name": "Russell Dickerson",
+          "url": "https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw"
+        }
+      ],
+      "duration_ms": 187226,
+      "name": "God Gave Me A Girl",
+      "url": "https://open.spotify.com/track/7kkLBfxW41iVO0cdLU9e9S"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Memory Lane",
+        "url": "https://open.spotify.com/album/4Ih4ml34xMRc32OwssN9yw"
+      },
+      "artists": [
+        {
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+        }
+      ],
+      "duration_ms": 172480,
+      "name": "Memory Lane",
+      "url": "https://open.spotify.com/track/5kB6WithhB8Iv08EMNmAbt"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
-        "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 200346,
-      "name": "Save Me The Trouble",
-      "url": "https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/33TRcgk13pDfnELf22G8wN"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 157906,
       "name": "Take My Name",
       "url": "https://open.spotify.com/track/2afB4eV1KWBqLqFqME6PTh"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Save Me The Trouble, Heartbreak On The Map, Bigger Houses",
+        "url": "https://open.spotify.com/album/0k3Twwed7AzLrgaKywvQWF"
+      },
+      "artists": [
+        {
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        }
+      ],
+      "duration_ms": 200346,
+      "name": "Save Me The Trouble",
+      "url": "https://open.spotify.com/track/7hZTywPKMdVjJzwdWu11BK"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -943,18 +943,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Nobody's Nobody",
-        "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
+        "name": "Fires Don't Start Themselves",
+        "url": "https://open.spotify.com/album/12n7yWhXKfnjn0HMEcrNj9"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "Darius Rucker",
+          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
         }
       ],
-      "duration_ms": 189070,
-      "name": "Nobody's Nobody",
-      "url": "https://open.spotify.com/track/1Q7kOSZkgeCkVpWRmNBAcI"
+      "duration_ms": 225360,
+      "name": "Fires Don't Start Themselves",
+      "url": "https://open.spotify.com/track/6Ahy5fItdBfXRVWYOLo7pM"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Fires Don't Start Themselves",
-        "url": "https://open.spotify.com/album/12n7yWhXKfnjn0HMEcrNj9"
+        "name": "Nobody's Nobody",
+        "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
       },
       "artists": [
         {
-          "name": "Darius Rucker",
-          "url": "https://open.spotify.com/artist/7FY5V3XMwlNBPitEjXowHQ"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 225360,
-      "name": "Fires Don't Start Themselves",
-      "url": "https://open.spotify.com/track/6Ahy5fItdBfXRVWYOLo7pM"
+      "duration_ms": 189070,
+      "name": "Nobody's Nobody",
+      "url": "https://open.spotify.com/track/1Q7kOSZkgeCkVpWRmNBAcI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1075,18 +1075,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Thought You Should Know",
-        "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
+        "name": "See You Next Summer",
+        "url": "https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
         }
       ],
-      "duration_ms": 215571,
-      "name": "Thought You Should Know",
-      "url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R"
+      "duration_ms": 157800,
+      "name": "See You Next Summer",
+      "url": "https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "See You Next Summer",
-        "url": "https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y"
+        "name": "Thought You Should Know",
+        "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
       },
       "artists": [
         {
-          "name": "Brian Kelley",
-          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 157800,
-      "name": "See You Next Summer",
-      "url": "https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc"
+      "duration_ms": 215571,
+      "name": "Thought You Should Know",
+      "url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Everything She Ain\u2019t",
-        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Everything She Ain\u2019t",
-      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "This Is the Heavy",
         "url": "https://open.spotify.com/album/7hWoBHqzfN4QMcVPFSqbBS"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 203680,
       "name": "We Got History",
       "url": "https://open.spotify.com/track/6Awl7JBDQjfm7xkS3LkhDi"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Everything She Ain\u2019t",
+        "url": "https://open.spotify.com/album/761yinsOXW3p74dFBge4c7"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 151973,
+      "name": "Everything She Ain\u2019t",
+      "url": "https://open.spotify.com/track/3zAOcNGOFq5Q1OsN0tcxA0"
     },
     {
       "added_at": "2023-10-06 04:00:00",

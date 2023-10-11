@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOTJhODZkMDQxNWY1NTM1Nzk5NDM3ZTI4MTE5MjVlMTMyN2UzODBi",
+  "snapshot_id": "MCxhNGRjNWRjMjY4MTBkYWNiODEwYzBmOGVmOTk4NTRhZTU5NDI4ODEy",
   "tracks": [
     {
       "added_at": "2023-09-22 07:46:38",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
-        "name": "Omwana",
-        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
-      },
-      "artists": [
-        {
-          "name": "Juliana Kanyomozi",
-          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
-        }
-      ],
-      "duration_ms": 212903,
-      "name": "Omwana",
-      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
-    },
-    {
-      "added_at": "2023-09-22 07:46:38",
-      "album": {
         "name": "Bwereere",
         "url": "https://open.spotify.com/album/4iNoXsaeBjdhkX8DOHrZaX"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 185939,
       "name": "Bwereere",
       "url": "https://open.spotify.com/track/0F0I1DfugB7Ht1ZSYyS6Pm"
+    },
+    {
+      "added_at": "2023-09-22 07:46:38",
+      "album": {
+        "name": "Omwana",
+        "url": "https://open.spotify.com/album/0sizEjoqAPgHXqblr8z2v2"
+      },
+      "artists": [
+        {
+          "name": "Juliana Kanyomozi",
+          "url": "https://open.spotify.com/artist/3v54gVfDRlrLfvFYUQ0J1a"
+        }
+      ],
+      "duration_ms": 212903,
+      "name": "Omwana",
+      "url": "https://open.spotify.com/track/7wVjsVyZXo5LJI19o8P2lK"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -719,26 +719,6 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
-        "name": "On My Mind",
-        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
-      },
-      "artists": [
-        {
-          "name": "Benji Kasule",
-          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
-        },
-        {
-          "name": "Coopy Bly",
-          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
-        }
-      ],
-      "duration_ms": 226153,
-      "name": "On my Mind",
-      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
-    },
-    {
-      "added_at": "2023-09-22 07:46:38",
-      "album": {
         "name": "Fertilizer",
         "url": "https://open.spotify.com/album/6Pz7K5KdsXCbk5CybkwIlp"
       },
@@ -759,34 +739,22 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
-        "name": "Pretty Young Thing",
-        "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
+        "name": "On My Mind",
+        "url": "https://open.spotify.com/album/45UPO8rL6RyzrtWJ80rrAr"
       },
       "artists": [
         {
-          "name": "$hyli",
-          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Pretty Young Thing",
-      "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
-    },
-    {
-      "added_at": "2023-09-22 07:46:38",
-      "album": {
-        "name": "Your Number (Acoustic)",
-        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
-      },
-      "artists": [
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+        },
         {
-          "name": "Kohen Jaycee",
-          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+          "name": "Coopy Bly",
+          "url": "https://open.spotify.com/artist/0t6esBNJscmL7K5PIDwA6Y"
         }
       ],
-      "duration_ms": 136818,
-      "name": "Your Number",
-      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
+      "duration_ms": 226153,
+      "name": "On my Mind",
+      "url": "https://open.spotify.com/track/5qbE876DXDAM3QGjlaYyux"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -811,6 +779,22 @@
     {
       "added_at": "2023-09-22 07:46:38",
       "album": {
+        "name": "Your Number (Acoustic)",
+        "url": "https://open.spotify.com/album/2FdncIyOvj86vjyVYXmvmp"
+      },
+      "artists": [
+        {
+          "name": "Kohen Jaycee",
+          "url": "https://open.spotify.com/artist/2vFrO2ALgC0Q5y9pms9Mq1"
+        }
+      ],
+      "duration_ms": 136818,
+      "name": "Your Number",
+      "url": "https://open.spotify.com/track/0z25xuFIkmaAiOT5WekhGO"
+    },
+    {
+      "added_at": "2023-09-22 07:46:38",
+      "album": {
         "name": "Kitooke Kyagonja",
         "url": "https://open.spotify.com/album/6xb67bqLm01dcf4CrhxEPa"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 190129,
       "name": "Kitooke Kyagonja",
       "url": "https://open.spotify.com/track/2b80GekCEE6WW8DeWZqxi7"
+    },
+    {
+      "added_at": "2023-09-22 07:46:38",
+      "album": {
+        "name": "Pretty Young Thing",
+        "url": "https://open.spotify.com/album/7pAqhUVUSXlXl7ANiO8KgF"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Pretty Young Thing",
+      "url": "https://open.spotify.com/track/67hRQkotvl3eGiEYD3r8FK"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -855,6 +855,26 @@
       "duration_ms": 165015,
       "name": "Chai We Njaye",
       "url": "https://open.spotify.com/track/7kXVi2P9NlNOFlK4FNXD4m"
+    },
+    {
+      "added_at": "2023-09-22 07:46:38",
+      "album": {
+        "name": "WATERSHED",
+        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Lagum the Rapper",
+          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
+        }
+      ],
+      "duration_ms": 137333,
+      "name": "Mama I Made It",
+      "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
     },
     {
       "added_at": "2023-09-22 07:46:38",
@@ -903,26 +923,6 @@
       "duration_ms": 174759,
       "name": "Dont-Stopp",
       "url": "https://open.spotify.com/track/7t1UWWVjom7keLZLzW8Wex"
-    },
-    {
-      "added_at": "2023-09-22 07:46:38",
-      "album": {
-        "name": "WATERSHED",
-        "url": "https://open.spotify.com/album/58RwmQmY5uQjiL6Jb3oqsq"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Lagum the Rapper",
-          "url": "https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124"
-        }
-      ],
-      "duration_ms": 137333,
-      "name": "Mama I Made It",
-      "url": "https://open.spotify.com/track/1S3GfaCHCtLajfFXvmxueH"
     }
   ],
   "unique_name": "Made In Uganda",

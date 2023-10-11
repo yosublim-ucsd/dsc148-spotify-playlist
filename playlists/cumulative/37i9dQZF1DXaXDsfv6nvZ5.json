@@ -1513,6 +1513,24 @@
     },
     {
       "album": {
+        "name": "7",
+        "url": "https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198939,
+      "name": "Deep (Hold You)",
+      "url": "https://open.spotify.com/track/0TBTTHWLCOstRgZvQslRYm"
+    },
+    {
+      "album": {
         "name": "Demon Time (with Ari Lennox) [Remix]",
         "url": "https://open.spotify.com/album/52sE6qrimItEbxEtWbwl9b"
       },
@@ -3488,6 +3506,24 @@
       "duration_ms": 184994,
       "name": "King",
       "url": "https://open.spotify.com/track/1fExFCGaE1Y5qNhPK7aTUy"
+    },
+    {
+      "album": {
+        "name": "Kiss The Sky",
+        "url": "https://open.spotify.com/album/5VHPseQHlNgqVA8L0tjYj1"
+      },
+      "artists": [
+        {
+          "name": "Avery Wilson",
+          "url": "https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 348284,
+      "name": "Kiss The Sky",
+      "url": "https://open.spotify.com/track/5kRwRpU0ah48DmRfxARPHt"
     },
     {
       "album": {
@@ -6034,7 +6070,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 142306,
       "name": "STILL HAVE YOU",
       "url": "https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z"
@@ -6052,7 +6088,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 217625,
       "name": "Stolen Fruit",
       "url": "https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF"

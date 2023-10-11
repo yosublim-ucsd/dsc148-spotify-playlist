@@ -4,7 +4,7 @@
 
 > This is The Who\. The essential tracks, all in one playlist.
 
-97 songs - 6 hr 27 min
+98 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Anyway Anyhow Anywhere \- Stereo Version](https://open.spotify.com/track/7u8Z9Y3VFMAELQT1nEchtL) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 2:43 | 2022-09-17 |  |
 | [Athena](https://open.spotify.com/track/255k7GWdOau9yOsewX85lg) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [It's Hard](https://open.spotify.com/album/46rjSfrOaPBPX8npn50l0A) | 3:47 | 2022-09-17 |  |
 | [Baba O'Riley](https://open.spotify.com/track/3qiyyUfYe7CRYLucrPmulD) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:00 | 2022-09-17 |  |
-| [Ball and Chain](https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 4:29 | 2022-09-17 |  |
+| [Ball and Chain](https://open.spotify.com/track/64csOaHL9FYqiOJxAi8h5X) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 4:29 | 2022-09-17 | 2023-10-11 |
 | [Bargain](https://open.spotify.com/track/4Vtl42qX97JBj68TKifBHR) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 5:33 | 2022-09-17 |  |
 | [Batman](https://open.spotify.com/track/7CcCDv8Pd91brlJISTEZlp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One](https://open.spotify.com/album/4YlPOh1uDMnHtDdzSdAGBM) | 1:34 | 2023-08-25 | 2023-09-19 |
 | [Beads On One String](https://open.spotify.com/track/2rsz7h4cJQViOCB2QgYT65) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [WHO \(Deluxe\)](https://open.spotify.com/album/2WuaYvGgx9MS1Vj37aBiyU) | 3:40 | 2022-09-17 | 2022-10-13 |
@@ -42,7 +42,7 @@
 | [Greyhound Girl \- Lifehouse Chronicles / Demo / Remastered 2022](https://open.spotify.com/track/2JlX5emTuvWBLXJf48V5tx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 3:09 | 2023-09-25 |  |
 | [Had Enough](https://open.spotify.com/track/3b8wboATWjPGIpWgFFORxK) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:30 | 2023-05-04 | 2023-05-06 |
 | [Happy Jack](https://open.spotify.com/track/4EQL3I68WEw20icaY5y6Cy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 2:12 | 2022-09-17 |  |
-| [Heat Wave \- Mono Version](https://open.spotify.com/track/3IB71F5yOKijAjhzEMpwpk) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One \(Mono Version\)](https://open.spotify.com/album/29Qv1bgwsrukJKDHU5MfY0) | 1:59 | 2022-09-17 | 2023-03-05 |
+| [Heat Wave \- Mono Version](https://open.spotify.com/track/3IB71F5yOKijAjhzEMpwpk) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One \(Mono Version\)](https://open.spotify.com/album/29Qv1bgwsrukJKDHU5MfY0) | 1:59 | 2022-09-17 |  |
 | [Heinz Baked Beans](https://open.spotify.com/track/0e9e7vOTvNcofMQUOxoRbs) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Expanded Edition\)](https://open.spotify.com/album/2nSduHVT17MPQCehfMRPG6) | 1:00 | 2022-09-17 | 2023-03-25 |
 | [Heinz Baked Beans \- Mono Version](https://open.spotify.com/track/0iuIIska9fyaf6neCtenZY) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 0:58 | 2023-07-25 | 2023-07-31 |
 | [Helpless Dancer](https://open.spotify.com/track/775kHBFQ3xnxGeRe0rOz7b) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia \(Super Deluxe Edition\)](https://open.spotify.com/album/2miMVTH3qNA49YD2BUaIWK) | 2:33 | 2022-11-22 | 2022-12-24 |
@@ -68,6 +68,7 @@
 | [Magic Bus \- Mono Edit](https://open.spotify.com/track/5PKnZzkjs2y3WTbIYtv5Fq) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Kids Are Alright](https://open.spotify.com/album/0dHf3EzHyFV4s1JhOyCjGp) | 3:22 | 2022-09-17 |  |
 | [My Generation \- Stereo Version](https://open.spotify.com/track/4u9f8hqstB7iITDJNzKhQx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(Stereo Version\)](https://open.spotify.com/album/6Oc6Ok1Oawu8lRkjmD4mXy) | 3:18 | 2022-09-17 |  |
 | [My Wife](https://open.spotify.com/track/04jUWHa4mIZKn7duaD2gXW) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 3:33 | 2022-10-07 | 2022-10-09 |
+| [Naked Eye \- Remake Version](https://open.spotify.com/track/7B6DdL3oTVHvq6HvQB8RH2) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 5:59 | 2023-10-10 |  |
 | [New Song](https://open.spotify.com/track/0RqPDkzJYtVwmAUjjWRjVx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:13 | 2023-06-15 | 2023-06-20 |
 | [Overture](https://open.spotify.com/track/3P0VltjBDpzJeFFHVpF0nK) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 5:20 | 2022-09-17 |  |
 | [Pictures Of Lily](https://open.spotify.com/track/123RhEzztpTieeEd13NexC) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Meaty, Beaty, Big And Bouncy](https://open.spotify.com/album/0NufsuTuf3U0BY0p6jFdxV) | 2:42 | 2022-10-12 |  |
@@ -98,7 +99,7 @@
 | [The Song Is Over](https://open.spotify.com/track/1F10hpkS0xntdnTZ4bIjTp) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who's Next \(Deluxe Edition\)](https://open.spotify.com/album/5MqyhhHbT13zsloD3uHhlQ) | 6:16 | 2022-09-17 | 2022-10-13 |
 | [There's A Fortune In Those Hills \- Demo / Remastered 2022](https://open.spotify.com/track/3OWo2IdRFjbM3XoqMACb0M) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 4:09 | 2023-09-18 |  |
 | [Tommy Can You Hear Me?](https://open.spotify.com/track/0HLIhUYvZdxemJ5vHJsSBy) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 1:35 | 2022-09-19 | 2022-10-11 |
-| [Too Much \- Lifehouse Chronicles / Demo / Remastered 2022](https://open.spotify.com/track/7wMKxe4sp8O2AkCsXzAgrx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 5:37 | 2023-09-21 |  |
+| [Too Much \- Lifehouse Chronicles / Demo / Remastered 2022](https://open.spotify.com/track/7wMKxe4sp8O2AkCsXzAgrx) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who’s Next : Life House \(Super Deluxe\)](https://open.spotify.com/album/4uehIELOvaBf8ZbhQGrhkd) | 5:37 | 2023-09-21 | 2023-10-11 |
 | [Trick Of The Light](https://open.spotify.com/track/5dqvDn65QLD18Q99LZ11hN) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Who Are You](https://open.spotify.com/album/7at3CV9Y9P57wsEXkfU0q8) | 4:47 | 2022-09-17 |  |
 | [Under My Thumb \- UK Single Mix / Mono Version](https://open.spotify.com/track/1W0VRuwNVPQ44zTomFOpSK) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who Sell Out \(Super Deluxe\)](https://open.spotify.com/album/2JyNDhGhp0hiizSPuUs0i9) | 2:37 | 2022-10-06 | 2022-10-08 |
 | [We're Not Gonna Take It](https://open.spotify.com/track/7jFImjC2qNx6K4WP8PPzGv) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Tommy](https://open.spotify.com/album/5cT7ee1sy2oEbFalP4asS4) | 7:06 | 2022-09-20 | 2022-10-07 |

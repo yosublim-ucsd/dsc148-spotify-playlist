@@ -1463,6 +1463,28 @@
     },
     {
       "album": {
+        "name": "Sincerely, Benson",
+        "url": "https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a"
+      },
+      "artists": [
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        },
+        {
+          "name": "2Baba",
+          "url": "https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194954,
+      "name": "Regret (feat. 2Baba)",
+      "url": "https://open.spotify.com/track/4RkuFGsIae9AGdGnxIQTGx"
+    },
+    {
+      "album": {
         "name": "Cupid Stories",
         "url": "https://open.spotify.com/album/2ccdb6tBRWeGQV0ffF3Wci"
       },
@@ -1606,7 +1628,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-16",
+      "date_removed": null,
       "duration_ms": 205546,
       "name": "Siren (feat. 2Baba)",
       "url": "https://open.spotify.com/track/7rzy41sQdrUDQ0DLGPq0Np"

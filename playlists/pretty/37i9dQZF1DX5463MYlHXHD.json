@@ -1,12 +1,12 @@
 {
   "description": "Cumbia pa' volar la chapa \u00f1eri. Foto: BM & La Champions Liga.",
-  "num_followers": 560897,
+  "num_followers": 560825,
   "original_name": "Cumbia de Barrio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZGU1ZWM1Nzg2OGVhMWE0NWVhNmYyZThmMjYwZjcxNWQ2OWE1NjUw",
+  "snapshot_id": "MCw1MTBkNmYzMjkxMTc0MDJmZmU5NDM2ODU0ZjhiMmJkN2VmYWZjMDlh",
   "tracks": [
     {
       "added_at": "2023-10-10 01:31:30",
@@ -635,26 +635,6 @@
     {
       "added_at": "2023-10-10 01:31:30",
       "album": {
-        "name": "Fua Mi Amor",
-        "url": "https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "Four Plack",
-          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
-        }
-      ],
-      "duration_ms": 165756,
-      "name": "Fua Mi Amor",
-      "url": "https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0"
-    },
-    {
-      "added_at": "2023-10-10 01:31:30",
-      "album": {
         "name": "Yendo No, Llegando",
         "url": "https://open.spotify.com/album/3b9MJ9krpxzCmggrlOpIyP"
       },
@@ -683,6 +663,26 @@
       "duration_ms": 211875,
       "name": "Yendo No, Llegando",
       "url": "https://open.spotify.com/track/166qsYi2wR3u6qfg7wrh1r"
+    },
+    {
+      "added_at": "2023-10-10 01:31:30",
+      "album": {
+        "name": "Fua Mi Amor",
+        "url": "https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Four Plack",
+          "url": "https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW"
+        }
+      ],
+      "duration_ms": 165756,
+      "name": "Fua Mi Amor",
+      "url": "https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0"
     },
     {
       "added_at": "2023-10-10 01:31:30",
@@ -1727,22 +1727,6 @@
     {
       "added_at": "2023-10-10 01:31:30",
       "album": {
-        "name": "M\u00e1s Negro Que la Noche",
-        "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
-      },
-      "artists": [
-        {
-          "name": "De La Calle",
-          "url": "https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3"
-        }
-      ],
-      "duration_ms": 152125,
-      "name": "El Whatsapp",
-      "url": "https://open.spotify.com/track/0X1X7twYjUAOv3P0vNnvYf"
-    },
-    {
-      "added_at": "2023-10-10 01:31:30",
-      "album": {
         "name": "Rompe el Party (Remix)",
         "url": "https://open.spotify.com/album/1h6s34Zj3EstmoMgn3J4ZV"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 207673,
       "name": "Rompe el Party (Remix)",
       "url": "https://open.spotify.com/track/0bpzKlI1oiRYp9UnK90qcV"
+    },
+    {
+      "added_at": "2023-10-10 01:31:30",
+      "album": {
+        "name": "M\u00e1s Negro Que la Noche",
+        "url": "https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4"
+      },
+      "artists": [
+        {
+          "name": "De La Calle",
+          "url": "https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3"
+        }
+      ],
+      "duration_ms": 152125,
+      "name": "El Whatsapp",
+      "url": "https://open.spotify.com/track/0X1X7twYjUAOv3P0vNnvYf"
     },
     {
       "added_at": "2023-10-10 01:31:30",
@@ -2151,26 +2151,6 @@
     {
       "added_at": "2023-10-10 01:31:30",
       "album": {
-        "name": "Gordo Rata (En Vivo)",
-        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
-      },
-      "artists": [
-        {
-          "name": "Mala Fama",
-          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
-        },
-        {
-          "name": "Dante Spinetta",
-          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "Gordo Rata - En Vivo",
-      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
-    },
-    {
-      "added_at": "2023-10-10 01:31:30",
-      "album": {
         "name": "ROCAMORA",
         "url": "https://open.spotify.com/album/7mJmTbXDyz0owhiAJmZDUP"
       },
@@ -2187,6 +2167,26 @@
       "duration_ms": 158181,
       "name": "ROCAMORA",
       "url": "https://open.spotify.com/track/6VViszGlqGJ7KKpR8AICGd"
+    },
+    {
+      "added_at": "2023-10-10 01:31:30",
+      "album": {
+        "name": "Gordo Rata (En Vivo)",
+        "url": "https://open.spotify.com/album/5th02ukwk1IHBNaaLqXDqO"
+      },
+      "artists": [
+        {
+          "name": "Mala Fama",
+          "url": "https://open.spotify.com/artist/1AvkrI2S7knrbaZxydvc9B"
+        },
+        {
+          "name": "Dante Spinetta",
+          "url": "https://open.spotify.com/artist/4Dcz7srpGyeBFxFpQTxlvC"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "Gordo Rata - En Vivo",
+      "url": "https://open.spotify.com/track/1khfuo78lkXHfbohSTI5Oy"
     },
     {
       "added_at": "2023-10-10 01:31:30",
@@ -2239,22 +2239,6 @@
     {
       "added_at": "2023-10-10 01:31:30",
       "album": {
-        "name": "El Retutu",
-        "url": "https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e"
-      },
-      "artists": [
-        {
-          "name": "El Retutu",
-          "url": "https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG"
-        }
-      ],
-      "duration_ms": 202040,
-      "name": "Acercate Bandida",
-      "url": "https://open.spotify.com/track/5qLueRsolYdRjdxVcclWLb"
-    },
-    {
-      "added_at": "2023-10-10 01:31:30",
-      "album": {
         "name": "Sin Ayuda",
         "url": "https://open.spotify.com/album/5Lq3TDrL7390XY5a9Wm2OV"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 229500,
       "name": "Sin Ayuda",
       "url": "https://open.spotify.com/track/11mbrI6qv47pr41GzU3reG"
+    },
+    {
+      "added_at": "2023-10-10 01:31:30",
+      "album": {
+        "name": "El Retutu",
+        "url": "https://open.spotify.com/album/0FH1NDJlj2Vvb4G21rPh3e"
+      },
+      "artists": [
+        {
+          "name": "El Retutu",
+          "url": "https://open.spotify.com/artist/3WSePpVeFAwNAI4vQc19rG"
+        }
+      ],
+      "duration_ms": 202040,
+      "name": "Acercate Bandida",
+      "url": "https://open.spotify.com/track/5qLueRsolYdRjdxVcclWLb"
     },
     {
       "added_at": "2023-10-10 01:31:30",
@@ -2347,46 +2347,42 @@
     {
       "added_at": "2023-10-10 01:31:30",
       "album": {
-        "name": "Una Botella X Tu Amor",
-        "url": "https://open.spotify.com/album/4d7TxPsGb8w6Ere4spc9Q2"
+        "name": "Sabado Picado",
+        "url": "https://open.spotify.com/album/3jE8jm4PpLL3diaIqngVyl"
       },
       "artists": [
         {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
+          "name": "El Reja",
+          "url": "https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW"
         },
         {
-          "name": "R Jota",
-          "url": "https://open.spotify.com/artist/48nBjHQMSKiboD7Z4fjZLi"
+          "name": "Markito Navaja",
+          "url": "https://open.spotify.com/artist/5cpU1d4hNVlVL3zNcguTS0"
         },
         {
-          "name": "El Pesa 9",
-          "url": "https://open.spotify.com/artist/2u02lEnSZFFmpocK0jxZXq"
+          "name": "Joaco Lopez",
+          "url": "https://open.spotify.com/artist/72TU86QoReKLAjNKWvBiOR"
         }
       ],
-      "duration_ms": 178591,
-      "name": "Una Botella X Tu Amor",
-      "url": "https://open.spotify.com/track/5UYTx6v8mOGurOSo7qZnNz"
+      "duration_ms": 137608,
+      "name": "Sabado Picado",
+      "url": "https://open.spotify.com/track/0F0hZ3ztek0ldfjqNHFYmW"
     },
     {
       "added_at": "2023-10-10 01:31:30",
       "album": {
-        "name": "Yo amo la m\u00fasica",
-        "url": "https://open.spotify.com/album/2NNCMbHXF5ZyywFPwN5k8g"
+        "name": "El Marginal",
+        "url": "https://open.spotify.com/album/58EvYnCxnhrid5sUBLCUW3"
       },
       "artists": [
         {
-          "name": "Los Gedes",
-          "url": "https://open.spotify.com/artist/466KoO2fOYbRfjIbOgNobf"
-        },
-        {
-          "name": "La Sonora Master",
-          "url": "https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL"
+          "name": "Sara Hebe",
+          "url": "https://open.spotify.com/artist/4pFUriuYqqAmBCvqF9o6LW"
         }
       ],
-      "duration_ms": 224793,
-      "name": "Yo amo la m\u00fasica",
-      "url": "https://open.spotify.com/track/46iC4HPfnbMAj34EwPKJVB"
+      "duration_ms": 189567,
+      "name": "El Marginal",
+      "url": "https://open.spotify.com/track/4SEhmRp9PAp0uS0AlefNWs"
     }
   ],
   "unique_name": "Cumbia de Barrio",

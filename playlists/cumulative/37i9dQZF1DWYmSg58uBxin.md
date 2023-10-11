@@ -4,16 +4,18 @@
 
 > Soothing piano and strings to help you concentrate.
 
-240 songs - 11 hr 12 min
+243 songs - 11 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Gift To Share](https://open.spotify.com/track/1qfYCqVpMcuYLhyThCR7k6) | [Joni Bernier](https://open.spotify.com/artist/0OFX9pzVpaZJd64GoemB3J) | [A Gift To Share](https://open.spotify.com/album/7iqgjaIRglpZ2H1tfqErfy) | 2:19 | 2020-10-20\* |  |
 | [a joyful life](https://open.spotify.com/track/0DFAkAHNm5XxqEEYkFbHcI) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [a joyful life](https://open.spotify.com/album/0PZ7QQQbhiNIfJxfln46So) | 2:08 | 2023-09-08 |  |
+| [A Marlene Melody](https://open.spotify.com/track/1vdpvcd1r330uJwTmrcsdT) | [Joaquim Azevedo](https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH) | [A Marlene Melody](https://open.spotify.com/album/0ybpLOZ07qSpsWL2VtpJKB) | 2:37 | 2023-10-10 |  |
 | [A String in the Night](https://open.spotify.com/track/7dZ3v5DM5NvdviQ66NTcK4) | [Duo Romanza](https://open.spotify.com/artist/4c5bDKFZPlbp3EqDLyk4Hn) | [A String in the Night](https://open.spotify.com/album/2sMWuQaCwsvRsjhc5KIIfH) | 2:02 | 2021-09-03 | 2023-09-09 |
 | [A82 \(Cello Version\)](https://open.spotify.com/track/6TMpieLJKF4pl2AMx9f5sN) | [GÅEL](https://open.spotify.com/artist/3IDwktZCJFdN7oBKwLOZX5), [Alice Allen](https://open.spotify.com/artist/5EhYBIoWiClQb9d8lPBnlC) | [A82 \(Cello Version\)](https://open.spotify.com/album/0p7uwkvw1HTT6AL4KsIfT9) | 2:40 | 2023-09-08 |  |
 | [Adagio in G Minor](https://open.spotify.com/track/2AjyreHCD6PKAtRGV2qsK5) | [Tomaso Albinoni](https://open.spotify.com/artist/17OArJzEhRR3OmhtGcnfBq), [Chamber Orchestra of Miemo](https://open.spotify.com/artist/7I4SytVVBoXQLU1IrG2pDp) | [Adagio in G Minor](https://open.spotify.com/album/71LQkDLQm2RozTdCKAFBpt) | 4:26 | 2020-10-20\* | 2021-10-21 |
 | [After The Rain](https://open.spotify.com/track/5XYAieIJYukSs5yscEgu9w) | [Francesco Siano](https://open.spotify.com/artist/1zvky5OoBfFdl75mLioOw5) | [After The Rain](https://open.spotify.com/album/7tsPRVM0KZQrV7txpBoa4R) | 2:38 | 2022-07-22 | 2023-09-09 |
+| [Always Shining Bright](https://open.spotify.com/track/4s561TKv61mdyVq98FtbNk) | [Sheila Withmore](https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2) | [Always Shining Bright](https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A) | 2:16 | 2023-10-10 |  |
 | [Angustifolia](https://open.spotify.com/track/0wXoceSodypn4BlHQRUYLA) | [Dagmar Sheernan](https://open.spotify.com/artist/3sQmwQXoOcmGEc20ZM1zG9) | [Angustifolia](https://open.spotify.com/album/13Qyyw6AwtO4QPNeFrHfEF) | 2:13 | 2020-10-20\* | 2023-09-09 |
 | [Après tout](https://open.spotify.com/track/1Mb2XNUOWxSJiTkQnoGjGz) | [Alexis Pavot](https://open.spotify.com/artist/3ClYCNzBeMuuOVn23VDVDk) | [Après Tout](https://open.spotify.com/album/1nCHPH8qrolGyCbQ6gXtl3) | 2:27 | 2023-09-26 |  |
 | [Arriving](https://open.spotify.com/track/2BWhYS9sosKmgg8BWjoQul) | [Ryley Moss](https://open.spotify.com/artist/0qWu3rMcE5Hp0gcAUjPPAG) | [Arriving](https://open.spotify.com/album/0JObZV0R4Ko376lsiK0JWF) | 2:48 | 2023-09-08 |  |
@@ -226,6 +228,7 @@
 | [The Sleeping Waltz](https://open.spotify.com/track/4zBUzzH43GCKw5wPaHqKx2) | [Lanai String Section](https://open.spotify.com/artist/31uknRwrjJ98yyV6tg0CXa) | [The Sleeping Waltz](https://open.spotify.com/album/343Vj6jhU4SaQGOyOchcAE) | 2:24 | 2023-09-08 |  |
 | [These Steady Hands](https://open.spotify.com/track/3IIJBXhYKDDRk5UAaSSacY) | [Yonder Dale](https://open.spotify.com/artist/4EEGhKKHmkHT31LAlDnXfb) | [These Steady Hands](https://open.spotify.com/album/5JHD4Jdz7wj1AUxH5IxOPP) | 2:45 | 2020-10-20\* | 2022-09-03 |
 | [Thoughts](https://open.spotify.com/track/3MUvt8kUIA6QPSBTEnjgMr) | [Dilaz](https://open.spotify.com/artist/0TOvt96p0iReJMOGxtV5ub) | [Empty Canvas](https://open.spotify.com/album/6xla5pUFL0vlN6NjCEeOV3) | 3:21 | 2020-10-20\* | 2023-09-09 |
+| [Tia](https://open.spotify.com/track/2kWVfdLPztoMrIwwwSapdC) | [Sebastián Escofet](https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3), [Carlos Britez](https://open.spotify.com/artist/2cgmZKQUmtnBs9XSfnfXax) | [Sueño](https://open.spotify.com/album/1uW5yFeZO4V0W14SDxG61w) | 3:03 | 2023-10-10 |  |
 | [Til Mathilde](https://open.spotify.com/track/74hynqEUgqRntXOfiqAkd9) | [Tine Mydland](https://open.spotify.com/artist/2EvTWBcDR6yBKnXj4aCgQp) | [Til Mathilde](https://open.spotify.com/album/3VgStQpHt6x0AfiBI1t92P) | 4:15 | 2020-10-20\* | 2021-09-03 |
 | [Time Freezes](https://open.spotify.com/track/7A7WJn6zZ1RNoM6FWIffq1) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [Winter Solstice](https://open.spotify.com/album/5GWU9xzKbfbKHXneotKD7f) | 3:15 | 2020-10-20\* | 2022-05-20 |
 | [To Me](https://open.spotify.com/track/5R6uVJy58OxgyA0BQbY7Tk) | [Michel Landau](https://open.spotify.com/artist/2k6f9wKcRu84svgHonsR7x) | [You Are A Flower](https://open.spotify.com/album/0cH0rLc0CxNz3MjpKyuptN) | 2:08 | 2020-10-20\* |  |

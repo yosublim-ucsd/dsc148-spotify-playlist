@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW!  BERCHANDYA! Cover: Tilu, Ali Sariah
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,322 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,344 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 2 | [Ada](https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK) | [Lyodra](https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG), [Afgan](https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du) | [Ada](https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C) | 3:30 |
 | 3 | [Chemistry](https://open.spotify.com/track/3QOstENZ1cTwT4KAWf81Tk) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z), [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je) | [Chemistry](https://open.spotify.com/album/6HW5qoGmSJQNUFWAYB5zjN) | 2:30 |
 | 4 | [onemorenight](https://open.spotify.com/track/1s1KR1i4GhsNbl3EExYhSn) | [ALVN](https://open.spotify.com/artist/72ubqJlbqJ9x9P6DLl3V3m), [YOUHA](https://open.spotify.com/artist/2lZFlNiQMLa2fuX3pkXcan) | [onemorenight](https://open.spotify.com/album/1ArcypkPcPLbNhinYJ8rgZ) | 2:38 |
-| 5 | [Lone Wolf](https://open.spotify.com/track/3X2ISSBvNgWoszBED6HctH) | [RINNI](https://open.spotify.com/artist/586wqf9BkWqW2kA01xxPsg), [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [Lone Wolf](https://open.spotify.com/album/1ceC2Z4tJ4vHjhjYbfRPyV) | 3:04 |
+| 5 | [Lone Wolf](https://open.spotify.com/track/3X2ISSBvNgWoszBED6HctH) | [RINNI](https://open.spotify.com/artist/3rFmw91W5mxZHH6r40GGWh), [ENVY\*](https://open.spotify.com/artist/0wMJryVOHUmtw8y05i7puj) | [Lone Wolf](https://open.spotify.com/album/1ceC2Z4tJ4vHjhjYbfRPyV) | 3:04 |
 | 6 | [Do Over](https://open.spotify.com/track/1GG0HmgAbXrjTZN7RvEjU1) | [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Do Over](https://open.spotify.com/album/2L7uxbiwKCGm6kLnFacrJ5) | 3:32 |
 | 7 | [Kelamaan Teman](https://open.spotify.com/track/6T7xBcPOje6aqyraT0sgsK) | [Eclat Story](https://open.spotify.com/artist/77hI181qpBHYyQItXWNwom) | [Kelamaan Teman](https://open.spotify.com/album/7JUSxCbKQMx1CORlBcfU7o) | 3:25 |
 | 8 | [NEED](https://open.spotify.com/track/2VE0IzIr0CBpCVDAuk8Oc2) | [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [9LIVES](https://open.spotify.com/album/191Zct8zjfTu5SVAbWbIoV) | 2:57 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 40 | [Usik](https://open.spotify.com/track/5GgRntbjr23OK9MMST02di) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Riuh](https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5) | 5:11 |
 | 41 | [Senja Teduh Pelita](https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Senja Teduh Pelita](https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0) | 4:30 |
 | 42 | [Itu Aku](https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Renung Resah](https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj) | 3:42 |
-| 43 | [Flip It Up](https://open.spotify.com/track/6ls04sZoLvBNXwvi7XsZK5) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Flip It Up](https://open.spotify.com/album/6Em77lD3FmCc1CkNVu3iYj) | 3:06 |
-| 44 | [Tawa](https://open.spotify.com/track/2cUtg4hpCug4Gc9aibZIYV) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Tawa](https://open.spotify.com/album/04uwdQzsYFw7yRsCj0u3DT) | 4:15 |
+| 43 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
+| 44 | [Flip It Up](https://open.spotify.com/track/6ls04sZoLvBNXwvi7XsZK5) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Flip It Up](https://open.spotify.com/album/6Em77lD3FmCc1CkNVu3iYj) | 3:06 |
 | 45 | [Jalan Pulang](https://open.spotify.com/track/1ado6H8nwj0izGVinobwuP) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Jalan Pulang](https://open.spotify.com/album/0LqqN2YAboL8vcXqJYpEme) | 3:36 |
-| 46 | [Aku Memilihmu](https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Memilihmu](https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K) | 3:51 |
-| 47 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 |
-| 48 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 |
+| 46 | [Tawa](https://open.spotify.com/track/2cUtg4hpCug4Gc9aibZIYV) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Tawa](https://open.spotify.com/album/04uwdQzsYFw7yRsCj0u3DT) | 4:15 |
+| 47 | [Aku Memilihmu](https://open.spotify.com/track/7EKp3CMq9Eb0TF8TLsDne4) | [Brisia Jodie](https://open.spotify.com/artist/0GxxkBLH2uLa4b3URWudGb), [Fabio Asher](https://open.spotify.com/artist/6FTLayBxjkQeanFdUusk1I) | [Aku Memilihmu](https://open.spotify.com/album/4Eupz9BkITuFqlHttMeu9K) | 3:51 |
+| 48 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 |
 | 49 | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/track/5GqeQ8Xozl7ymUVV7RXjNg) | [Masdo](https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO), [Aisyah Aziz](https://open.spotify.com/artist/4DBXSxqzYS9jcuOpkn0Mh4) | [Pujaanku \(feat\. Aisyah Aziz\)](https://open.spotify.com/album/2m8JrO1U3rXYULpZCtAoHZ) | 3:54 |
 | 50 | [Malampagi](https://open.spotify.com/track/6QV8eV3QVFp5upaTYjm7Xy) | [Saixse](https://open.spotify.com/artist/1gV4xyIbGBTuARpaQoFzJQ) | [Malampagi](https://open.spotify.com/album/1FTrY9mP0Cs22oIK6cIcfO) | 4:06 |
 
-Snapshot ID: `MCw1MmY0Zjk4Zjc1OGY5MDdiNzQ3M2NmYzZhYmRjMzVmNGZiYzVjMjhl`
+Snapshot ID: `MCxjNjJkZjY5Nzg4OGJmZGQ5OTZhM2RmODhjZTk1ODc1ODhlNWExMzli`

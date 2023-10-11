@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NTc2MjQzNTJhZDNkY2RjZWM2YzI2NzNmNGE1NDNlZjdlYWI5MDNj",
+  "snapshot_id": "MCwwNTdjYTMwYTU5ZWM2MjNiODZlOWJkODZmYzE1Y2JmMjAyY2YwZjNj",
   "tracks": [
     {
       "added_at": "2022-04-22 04:01:00",
@@ -347,18 +347,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "The Best of Clifton Chenier: The King of Zydeco & Louisiana Blues",
-        "url": "https://open.spotify.com/album/2hwL2KfeYCpeMHeve8Y3QF"
+        "name": "Junco Partner",
+        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
       },
       "artists": [
         {
-          "name": "Clifton Chenier",
-          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
+          "name": "James Booker",
+          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
         }
       ],
-      "duration_ms": 199893,
-      "name": "I'm Coming Home (To See My Mother)",
-      "url": "https://open.spotify.com/track/75E2RVwx6dncaH51QTFAeU"
+      "duration_ms": 310040,
+      "name": "Junco Partner",
+      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
     },
     {
       "added_at": "2022-03-28 20:10:01",
@@ -379,18 +379,18 @@
     {
       "added_at": "2022-03-28 20:10:01",
       "album": {
-        "name": "Junco Partner",
-        "url": "https://open.spotify.com/album/4vrbtFQktShLb9fqcfWxYV"
+        "name": "The Best of Clifton Chenier: The King of Zydeco & Louisiana Blues",
+        "url": "https://open.spotify.com/album/2hwL2KfeYCpeMHeve8Y3QF"
       },
       "artists": [
         {
-          "name": "James Booker",
-          "url": "https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF"
+          "name": "Clifton Chenier",
+          "url": "https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY"
         }
       ],
-      "duration_ms": 310040,
-      "name": "Junco Partner",
-      "url": "https://open.spotify.com/track/6h42FqekL3vp5Hm3zbuSVK"
+      "duration_ms": 199893,
+      "name": "I'm Coming Home (To See My Mother)",
+      "url": "https://open.spotify.com/track/75E2RVwx6dncaH51QTFAeU"
     },
     {
       "added_at": "2022-03-28 20:10:01",

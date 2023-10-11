@@ -1447,6 +1447,28 @@
     },
     {
       "album": {
+        "name": "Raktaksha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4te7Bszifj3jLQ6Gpnzj0J"
+      },
+      "artists": [
+        {
+          "name": "Supriyaa Ram",
+          "url": "https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp"
+        },
+        {
+          "name": "Dossmode",
+          "url": "https://open.spotify.com/artist/1A7mR5Rc1i25LIVp8hIz4b"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200950,
+      "name": "Arrest Me Baby",
+      "url": "https://open.spotify.com/track/3YPzv066UZeQlfAcOOF4Xk"
+    },
+    {
+      "album": {
         "name": "Dr.56 Kannada",
         "url": "https://open.spotify.com/album/61yCrjQgLJvrRZi5Fu6098"
       },
@@ -3942,7 +3964,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 247200,
       "name": "Comedy King - From \"Namo Bhoothathma 2\"",
       "url": "https://open.spotify.com/track/3Go0RbsqrVCXbGJyp3AZy2"
@@ -7236,7 +7258,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 218250,
       "name": "He..Hendati (From \"Kushi\")",
       "url": "https://open.spotify.com/track/3iJ2zHD9DflK99ovfNPUUz"
@@ -12878,7 +12900,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 235176,
       "name": "Naanemba Swarthava Bittu (From \"DDD\")",
       "url": "https://open.spotify.com/track/78LhTKbBXM0MCiEmDorNCI"

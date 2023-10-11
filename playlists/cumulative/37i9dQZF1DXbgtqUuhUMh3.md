@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Numidia
 
-570 songs - 1 day 9 hr 2 min
+571 songs - 1 day 9 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [Marhaban](https://open.spotify.com/track/6zkq5qtCUmybCKNyZoLjBB) | [Emy Hetari](https://open.spotify.com/artist/0KwPocJ1I0Lzrfs4uCQ3D0) | [Marhaban](https://open.spotify.com/album/087Ek5lR2SpnQ0Yn5RQ641) | 4:33 | 2021-12-23 | 2022-03-02 |
 | [Marra Kaman](https://open.spotify.com/track/1kwK6sbUDoz8ev1emutLAX) | [Aziza](https://open.spotify.com/artist/5Rfskh0eC4Ui4xPIEisqwz) | [Marra Kaman](https://open.spotify.com/album/3Gxs1Nc3IwumGyXtCjQHDZ) | 3:20 | 2022-03-31 | 2022-10-05 |
 | [Mathal Albanat](https://open.spotify.com/track/6G4sRxjZ45accUYT0hmFi4) | [Hala Al Kaseer](https://open.spotify.com/artist/3RvJqoswzwh53Dme2rHbFv) | [Mathal Albanat](https://open.spotify.com/album/3sl2WE6YkHoIQZbHEz2Cfs) | 3:34 | 2021-12-23 | 2022-03-01 |
-| [Matl3tesh Gada3](https://open.spotify.com/track/3Q2awnPZcgaIju7Vr7hFJi) | [Nourhane Al Morshidy](https://open.spotify.com/artist/4MGWotf08LJf0qe1UPVkNs) | [Matl3tesh Gada3](https://open.spotify.com/album/4pCW9ZZIxMKfswfTo59a6m) | 3:02 | 2023-09-08 |  |
+| [Matl3tesh Gada3](https://open.spotify.com/track/3Q2awnPZcgaIju7Vr7hFJi) | [Nourhane Al Morshidy](https://open.spotify.com/artist/4MGWotf08LJf0qe1UPVkNs) | [Matl3tesh Gada3](https://open.spotify.com/album/4pCW9ZZIxMKfswfTo59a6m) | 3:02 | 2023-09-08 | 2023-10-11 |
 | [Mawaqif](https://open.spotify.com/track/3LOqtToly651USdV4pOdXt) | [Shushu Nasser](https://open.spotify.com/artist/1zEVxr4BrEzvLZKofE4Mm2) | [Mawaqif](https://open.spotify.com/album/2Gjo2OBYTE59x8Y2JElDxH) | 3:44 | 2021-12-23 | 2022-02-28 |
 | [Maystahelsh](https://open.spotify.com/track/3io0IKZUAuHS11n9iAKSMx) | [Hanan Redha](https://open.spotify.com/artist/5AFPjqv26lWXQt2UR5BuGV) | [Maystahelsh](https://open.spotify.com/album/50A9VCNn74bi8oyj8SOTic) | 3:36 | 2023-10-01 |  |
 | [Mazaji 3ali](https://open.spotify.com/track/2jBtDB4dAOkOoDuW8onehv) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Mazaji 3ali](https://open.spotify.com/album/317vgHdnjZvEstZ2ibIpmt) | 2:42 | 2021-12-23 | 2022-03-02 |
@@ -522,6 +522,7 @@
 | [صرتلكم شمس](https://open.spotify.com/track/3LStpDeZgBqK2O8sU7NP77) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [صرتلكم شمس](https://open.spotify.com/album/7tUqc0LPVpGb1VIBVvs3mE) | 4:31 | 2021-12-23 | 2022-03-02 |
 | [طرشوله](https://open.spotify.com/track/6zKRAoVTjxGaXYxUdSTUHB) | [Queen G](https://open.spotify.com/artist/6rrCiJnPcTKkALHfG8bpAi) | [طرشوله](https://open.spotify.com/album/16AZzaSG6aSQJJRraYZ1tH) | 3:23 | 2021-12-23 | 2023-03-03 |
 | [طمنها](https://open.spotify.com/track/1HpyCfUXBqFvUteRkz4eId) | [Nedaa Shrara](https://open.spotify.com/artist/73GigUB11JrOl85L4ma1AI) | [طمنها](https://open.spotify.com/album/2cobDXrnAMcK7XZ0xA8Hqh) | 4:04 | 2023-08-15 | 2023-10-03 |
+| [طول الليل](https://open.spotify.com/track/4nYJ8Nd2sq6BFN1fh0XzZD) | [Hala](https://open.spotify.com/artist/30cNtjePd99qoDYYbjHG4k) | [طول الليل](https://open.spotify.com/album/7MJsxMKsO2BX5vk4mamGLq) | 3:01 | 2023-10-10 |  |
 | [طول ما احنا سوا](https://open.spotify.com/track/20zdj7iohWAOpi9dgGSXtO) | [Asala Maleh](https://open.spotify.com/artist/34h9cqQWoQI9E6UesG2dWz) | [طول ما احنا سوا](https://open.spotify.com/album/2sGwKJhW8C18a4I4ZYMZzp) | 3:03 | 2021-12-23 | 2022-03-01 |
 | [عاد بديت](https://open.spotify.com/track/1i7JBHJ9iegLR2Uu4r9gtJ) | [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [عاد بديت](https://open.spotify.com/album/5XWFdvgaY88TgiHSrQvEAj) | 2:53 | 2021-12-23 | 2022-03-02 |
 | [عارفه قيمتي](https://open.spotify.com/track/0k1pF4SI4m4xYHRw8M022J) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [عارفه قيمتي](https://open.spotify.com/album/0csj4uie2SFphm4M2aPrJh) | 3:50 | 2022-11-15 | 2023-05-13 |

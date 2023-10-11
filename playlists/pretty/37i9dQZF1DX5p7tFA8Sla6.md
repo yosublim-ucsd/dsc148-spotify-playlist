@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 
 > Funk \- new and old \- to accompany your drive.
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,598 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,621 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 7 | [Give Up The Funk \(Tear The Roof Off The Sucker\)](https://open.spotify.com/track/4XRkQloZFcRrCONN7ZQ49Y) | [Parliament](https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH) | [Mothership Connection](https://open.spotify.com/album/4q1HNSka8CzuLvC8ydcsD2) | 5:48 |
 | 8 | [Right Place Wrong Time](https://open.spotify.com/track/0I2ELF6uHlL4ABu9aFiou7) | [Dr\. John](https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO) | [In The Right Place](https://open.spotify.com/album/1b1ljTXAkcugOLAHkIi7Eq) | 2:55 |
 | 9 | [Superfly](https://open.spotify.com/track/4XsH9zBWPOCdXoH9ZDdS8r) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly \(Original Soundtrack\)](https://open.spotify.com/album/5ljIGCRRvS48V4ADzPGav2) | 3:53 |
-| 10 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
-| 11 | [People Get Up And Drive Your Funky Soul \- Remix](https://open.spotify.com/track/5U3i59kbTLrxo46TU1FRnF) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Motherlode](https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f) | 9:04 |
+| 10 | [People Get Up And Drive Your Funky Soul \- Remix](https://open.spotify.com/track/5U3i59kbTLrxo46TU1FRnF) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [Fred Wesley](https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam), [The J.B.'s](https://open.spotify.com/artist/4lJHGi5dlJmWwFH0JKF6di) | [Motherlode](https://open.spotify.com/album/3PMLP2hPq76MY9XKAgUC8f) | 9:04 |
+| 11 | [It's Your Thing](https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [It's Our Thing](https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF) | 2:49 |
 | 12 | [Let It Whip](https://open.spotify.com/track/3h5IJ0EzVpkiaoL174GC3M) | [Dazz Band](https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l) | [20th Century Masters: The Millennium Collection: Best Of The Dazz Band](https://open.spotify.com/album/3wT0A6ZVGve1QkFKQrafJG) | 4:47 |
 | 13 | [Mary Jane](https://open.spotify.com/track/5hWLHFSmomXmeTXEE478My) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL) | [Come Get It! \(Expanded Edition\)](https://open.spotify.com/album/3fRI3fAHalHqqnKsW5btnP) | 4:57 |
 | 14 | [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 19 | [Put a Little Love On Me](https://open.spotify.com/track/6EOAOGls9pIdUJsrqytcXK) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [The Best of Delegation](https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc) | 4:29 |
 | 20 | [Do It](https://open.spotify.com/track/79t0exFoQU0jlcpBLJrqes) | [Tuxedo](https://open.spotify.com/artist/0CCqHvxGgfjJzwzQzmPlEr) | [Tuxedo](https://open.spotify.com/album/6A0IarahNWMnEcJ1Q6sn7d) | 4:18 |
 | 21 | [Just Kissed My Baby](https://open.spotify.com/track/1TB0dZqFRQsnf4fLLLRKQV) | [The Meters](https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s) | [Rejuvenation](https://open.spotify.com/album/3OoFKxuziLv3B3NxhEJwOW) | 4:43 |
-| 22 | [Doin' It](https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 8:02 |
-| 23 | [Do You Love What You Feel](https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm) | [Masterjam](https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE) | 4:29 |
+| 22 | [Do You Love What You Feel](https://open.spotify.com/track/7fYozX6MaNmfHoGW7bFTdK) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm) | [Masterjam](https://open.spotify.com/album/2myey2664YObEQ2hs2YJeE) | 4:29 |
+| 23 | [Doin' It](https://open.spotify.com/track/3qQVUOHJdgIFWJd0jrG9GE) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Secrets](https://open.spotify.com/album/13rwtqLWF1jl1NEDhgbYsw) | 8:02 |
 | 24 | [Get Up \(I Feel Like Being A\) Sex Machine](https://open.spotify.com/track/2ivdsb1RcEJjIs5tuHkUC9) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Star Time](https://open.spotify.com/album/2yuTyv0L51qvYuI5RIktlA) | 5:16 |
 | 25 | [GotItBad](https://open.spotify.com/track/59s5vTB8LNV4tyZPp9HM3f) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Young Sick Camellia](https://open.spotify.com/album/4EN9bVE0g7gUvQlNdPrUhL) | 4:50 |
 | 26 | [Freddie's Dead](https://open.spotify.com/track/2ouFIPC3O1HNBcVTw1d9AN) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Superfly: Deluxe 25th Anniversary Edition](https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4) | 5:29 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5p7tFA8Sla6.md) - [plain]
 | 99 | [Mindblastin'](https://open.spotify.com/track/02GrfxYPwe1E0KBc2BdP0o) | [The Soul Motivators](https://open.spotify.com/artist/6OVItMZjDrpX1JWOXTRPoU) | [Mindblastin'](https://open.spotify.com/album/0W940b0eJ4hewqov6f2vLy) | 4:21 |
 | 100 | [Wired Up](https://open.spotify.com/track/3y1j3spsGsSWHE2rCOgewx) | [The Brand New Heavies](https://open.spotify.com/artist/3DEveX6KVzhPDqq2VRuN14), [N'Dea Davenport](https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT) | [TBNH](https://open.spotify.com/album/6gL04x8eHRhPngzh6WzFq2) | 3:32 |
 
-Snapshot ID: `MCwxOGFhYTRiM2UyNDBiYTYzNDc2Mzc0NjQ1OWE4NTY5ZGFiY2RmMDg2`
+Snapshot ID: `MCw3NDNiOWEyY2JiNTkzMGQwM2MxODQ5NjQ2ODgyMTAzMDIzNDQ0ZWFh`

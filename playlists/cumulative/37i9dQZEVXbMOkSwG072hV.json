@@ -1105,6 +1105,24 @@
     },
     {
       "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265360,
+      "name": "Agora Hills",
+      "url": "https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge"
+    },
+    {
+      "album": {
         "name": "Fruto Proibido",
         "url": "https://open.spotify.com/album/48SnM2iORxlYTyCefwJZvs"
       },
@@ -3270,7 +3288,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 131037,
       "name": "Back for More (with Anitta)",
       "url": "https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl"
@@ -3588,6 +3606,24 @@
       "duration_ms": 140307,
       "name": "Baile no Morro",
       "url": "https://open.spotify.com/track/0i4UV3HjjvsUuV3BajEXoD"
+    },
+    {
+      "album": {
+        "name": "BAIXO",
+        "url": "https://open.spotify.com/album/2Osz2h7ZjKHOZh5grL7o6G"
+      },
+      "artists": [
+        {
+          "name": "xxanteria",
+          "url": "https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104013,
+      "name": "BAIXO",
+      "url": "https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2"
     },
     {
       "album": {
@@ -8469,6 +8505,28 @@
     },
     {
       "album": {
+        "name": "Daqui pra Sempre",
+        "url": "https://open.spotify.com/album/3dxJyVfI7myBAZjiekJCto"
+      },
+      "artists": [
+        {
+          "name": "Manu",
+          "url": "https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r"
+        },
+        {
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202644,
+      "name": "Daqui pra Sempre",
+      "url": "https://open.spotify.com/track/35D06z7kmwMmYYbyJ0BkSm"
+    },
+    {
+      "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
       },
@@ -8502,6 +8560,36 @@
       "duration_ms": 61074,
       "name": "DE GLOCK RAJADA AQUI NO PPG",
       "url": "https://open.spotify.com/track/1xmZmitBMROnLjDolm5yDz"
+    },
+    {
+      "album": {
+        "name": "Paz Terr\u00edvel",
+        "url": "https://open.spotify.com/album/3NeF3Ss8ndyPPXi5XR6f90"
+      },
+      "artists": [
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "Skinny Beats",
+          "url": "https://open.spotify.com/artist/0X7BxMRCyABTrHo168C09r"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169411,
+      "name": "De Marola",
+      "url": "https://open.spotify.com/track/5DlrNzF7YmK2dZBjfr0qZ2"
     },
     {
       "album": {
@@ -9226,7 +9314,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 160000,
       "name": "Desfile na Favela",
       "url": "https://open.spotify.com/track/4ODMkKdMusKLAMWolKAchh"
@@ -10476,7 +10564,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 196988,
       "name": "Ela - Ao Vivo",
       "url": "https://open.spotify.com/track/1kWcd9h9HoeXsKaDVhSOtj"
@@ -11815,6 +11903,32 @@
     },
     {
       "album": {
+        "name": "Eu N\u00e3o Dou Conta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6UBLAsfIQMtOdWaDgpgz2G"
+      },
+      "artists": [
+        {
+          "name": "Israel & Rodolffo",
+          "url": "https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid"
+        },
+        {
+          "name": "Mc Don Juan",
+          "url": "https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL"
+        },
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169559,
+      "name": "Eu N\u00e3o Dou Conta - Ao Vivo",
+      "url": "https://open.spotify.com/track/6rpUGV7bcWW9ro65Bf8uYY"
+    },
+    {
+      "album": {
         "name": "Traia V\u00e9ia (Ao Vivo em Goi\u00e2nia)",
         "url": "https://open.spotify.com/album/73lR6Nivc8Qwu3Jym41CKg"
       },
@@ -12818,6 +12932,24 @@
       "duration_ms": 168437,
       "name": "FEARLESS",
       "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
+    },
+    {
+      "album": {
+        "name": "Feed the Machine",
+        "url": "https://open.spotify.com/album/0lKGADKI9s71jBqJe5xYhn"
+      },
+      "artists": [
+        {
+          "name": "Poor Man's Poison",
+          "url": "https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183328,
+      "name": "Feed the Machine",
+      "url": "https://open.spotify.com/track/40wmXUgVB0N5eLK8CuOhm3"
     },
     {
       "album": {
@@ -14530,6 +14662,24 @@
       "duration_ms": 132922,
       "name": "Gostosinho Tu Cai",
       "url": "https://open.spotify.com/track/75fCsUnTiDelE4HMd06t4O"
+    },
+    {
+      "album": {
+        "name": "Got Me Started",
+        "url": "https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198448,
+      "name": "Got Me Started",
+      "url": "https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y"
     },
     {
       "album": {
@@ -21114,8 +21264,8 @@
           "url": "https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ"
         },
         {
-          "name": "Karol Conk\u00e1",
-          "url": "https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge"
+          "name": "Mc Karol",
+          "url": "https://open.spotify.com/artist/3PcaoyXip46S7I2LyU8sxW"
         }
       ],
       "date_added": "2023-09-26",
@@ -21168,7 +21318,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 210024,
       "name": "Montagem Celestial de Atenas",
       "url": "https://open.spotify.com/track/3EbCHjv7JbnBoF88Ku5giz"
@@ -21826,7 +21976,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 200777,
       "name": "Mtg \u00c9 Madeirada At\u00e9 O Amanhecer",
       "url": "https://open.spotify.com/track/7gRzoWCpcfSs2yU9XeOhlh"
@@ -24364,7 +24514,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 135892,
       "name": "Ombrim (ai que delicia o ver\u00e3o) (feat. Mts No Beat)",
       "url": "https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk"
@@ -24760,7 +24910,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 197973,
       "name": "Outra Dose",
       "url": "https://open.spotify.com/track/3F8PQnGC8dMj6RHoUTxiOm"
@@ -25992,6 +26142,32 @@
       "duration_ms": 192708,
       "name": "Pilantra",
       "url": "https://open.spotify.com/track/6B5Nqt8DAciT2oqevzGbUc"
+    },
+    {
+      "album": {
+        "name": "Pilantrinha",
+        "url": "https://open.spotify.com/album/5YOkNn7OGx9ypHBIiNYjDV"
+      },
+      "artists": [
+        {
+          "name": "McLOVIN",
+          "url": "https://open.spotify.com/artist/4A8TVxZZ2eu0vTXmNO7Ibt"
+        },
+        {
+          "name": "DJ KIK PROD",
+          "url": "https://open.spotify.com/artist/2UOllZoqxNEB4zXFAF6b0t"
+        },
+        {
+          "name": "Doug Hits",
+          "url": "https://open.spotify.com/artist/11rNmgKeDd6wHHvvhzPHH9"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Pilantrinha",
+      "url": "https://open.spotify.com/track/5EqzSOIePMNFO2SekB9zme"
     },
     {
       "album": {
@@ -27388,7 +27564,7 @@
       ],
       "date_added": "2023-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 192496,
       "name": "P\u00e1ssaro Noturno",
       "url": "https://open.spotify.com/track/2u48ajpRLBg0tmVwJ9kQpy"
@@ -27900,7 +28076,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 131722,
       "name": "Quer Ser Minha Atriz (feat. DJ Lc do Martins)",
       "url": "https://open.spotify.com/track/6GBwa8Kb3hGyf4Gk9Bs2qb"
@@ -30021,6 +30197,44 @@
     },
     {
       "album": {
+        "name": "SET MC Kauan",
+        "url": "https://open.spotify.com/album/7xIgtgCJ5Hvx6QLRiKgJcn"
+      },
+      "artists": [
+        {
+          "name": "Mc Kauan",
+          "url": "https://open.spotify.com/artist/4TlVDevNpKDPEGlG805z6U"
+        },
+        {
+          "name": "Mc Davi",
+          "url": "https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        },
+        {
+          "name": "Salvador Da Rima",
+          "url": "https://open.spotify.com/artist/3zUcyANWSbo98ikca4ugrV"
+        },
+        {
+          "name": "Mc Daniel",
+          "url": "https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 384000,
+      "name": "SET MC Kauan",
+      "url": "https://open.spotify.com/track/4bRU8vV1N9cEkxPQW1XPau"
+    },
+    {
+      "album": {
         "name": "Set Me Free Pt.2",
         "url": "https://open.spotify.com/album/781fDX4OibkZA9fj56Ycbz"
       },
@@ -30626,7 +30840,7 @@
       ],
       "date_added": "2023-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 310490,
       "name": "Slime You Out (feat. SZA)",
       "url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH"
@@ -30644,7 +30858,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 187026,
       "name": "Slow Dancing",
       "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
@@ -31034,6 +31248,28 @@
       "duration_ms": 206049,
       "name": "SORRY NOT SORRY",
       "url": "https://open.spotify.com/track/410ZZP746AQeiywhKvXWCo"
+    },
+    {
+      "album": {
+        "name": "Silva & Liniker (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        },
+        {
+          "name": "Liniker",
+          "url": "https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230746,
+      "name": "Sorte - Ao Vivo",
+      "url": "https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl"
     },
     {
       "album": {
@@ -32208,6 +32444,40 @@
       "duration_ms": 126226,
       "name": "Taurus",
       "url": "https://open.spotify.com/track/1H1WtGFwc4GfMdwNYPQBDd"
+    },
+    {
+      "album": {
+        "name": "Tchau",
+        "url": "https://open.spotify.com/album/5Ag79jbHYJoqoRxiaa2K6x"
+      },
+      "artists": [
+        {
+          "name": "MC Xangai",
+          "url": "https://open.spotify.com/artist/67PBOFpTBFaNkhz5IouBwi"
+        },
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "DJ TH DO PRIMEIRO",
+          "url": "https://open.spotify.com/artist/0GdMuH0u9HyAz8cLvmg7gD"
+        },
+        {
+          "name": "MC Jacar\u00e9",
+          "url": "https://open.spotify.com/artist/3pfMg9hiGHJt0x9zDhiL7I"
+        },
+        {
+          "name": "DJ Sammer",
+          "url": "https://open.spotify.com/artist/6PZAe0r2oRjcMwriylvnWw"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105461,
+      "name": "Tchau",
+      "url": "https://open.spotify.com/track/043UqjcBUxcuoKfaxujfLA"
     },
     {
       "album": {

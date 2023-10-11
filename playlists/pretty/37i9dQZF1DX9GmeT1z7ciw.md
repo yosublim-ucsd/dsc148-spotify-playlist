@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 
 > 時には、思いっきりラウドな音に感情を乗せてシャウト。 Shout your heart out with these loud tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,528 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,568 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [STFU!](https://open.spotify.com/track/2S3KvNGyadSvbSr2C1JpDB) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/6ijADQARGsV0sWAVHN4imN) | 3:23 |
 | 2 | [Destruction Sisters](https://open.spotify.com/track/2yL4L5IgsXNQ7vBTFB5w9Q) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [INSAINT](https://open.spotify.com/album/7e6Q8ViA61T7KNw15oFr2s) | 2:30 |
-| 3 | [RUMBLE](https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Masato](https://open.spotify.com/artist/11xDXwn09ERXhnM1wZgywo) | [RUMBLE](https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig) | 4:41 |
+| 3 | [不可逆リプレイス](https://open.spotify.com/track/7lFzS8uBjpXckGjQQcpJrW) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 3:51 |
 | 4 | [PARADISE \(Kill The Silence\)](https://open.spotify.com/track/4NS4QnTh3nRK7qhAXTfsmm) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Nonnegative](https://open.spotify.com/album/2XA78l6T2geC3hfxcnOs6V) | 3:43 |
 | 5 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 |
-| 6 | [不可逆リプレイス](https://open.spotify.com/track/7lFzS8uBjpXckGjQQcpJrW) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [ANTITHESE](https://open.spotify.com/album/1brsSK66B0UZYqyLjvG9kK) | 3:51 |
+| 6 | [RUMBLE](https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Masato](https://open.spotify.com/artist/11xDXwn09ERXhnM1wZgywo) | [RUMBLE](https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig) | 4:41 |
 | 7 | [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 |
 | 8 | [I Refuse](https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [I Refuse](https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R) | 3:47 |
 | 9 | [Hunter or Prey](https://open.spotify.com/track/1mSzEhQw7CH50j9e97un0V) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [AXIS](https://open.spotify.com/album/3qKwhlHo13SRpExp9et5eQ) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GmeT1z7ciw.md) - [plain]
 | 49 | [BUG](https://open.spotify.com/track/3ll3777Lzzs15BdKwzbgIU) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [BUG](https://open.spotify.com/album/1Rav5NLGbB4c3nozaOPvRP) | 3:51 |
 | 50 | [Chronostasis](https://open.spotify.com/track/2hvydf5uDU6LD8e55JEScU) | [View From The Soyuz](https://open.spotify.com/artist/3F0nXEE0ikWWVavikJGkOT) | [Immaculate](https://open.spotify.com/album/4MVWrveCovKtARU8jwY0YD) | 2:43 |
 
-Snapshot ID: `MCw3MmY0NDc4NDEzMzA1MjQ5Y2QwNDA2ZjljM2U1Y2U4MTc2MTM3OTA2`
+Snapshot ID: `MCwwOWVhNDFiMWY4ZGM0NTNmOWI2OWM2NWYyNGY1NjU5ZDg3ODdlOWEw`

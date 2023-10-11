@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: YADAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,088 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,077 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 26 | [Imagina](https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9) | 3:44 |
 | 27 | [AMEIANOITE](https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:46 |
 | 28 | [PERREO FURIOSO](https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:32 |
-| 29 | [La Respuesta](https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Respuesta](https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF) | 2:48 |
-| 30 | [Cáscara de Coco](https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:56 |
+| 29 | [Cáscara de Coco](https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:56 |
+| 30 | [La Respuesta](https://open.spotify.com/track/0O1l4OjHaOk2VYvSUL9Q7r) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [La Respuesta](https://open.spotify.com/album/3h19BjRM9GGdkgoZ769sZF) | 2:48 |
 | 31 | [I Like 2 Be](https://open.spotify.com/track/7ilN3oN8goL5nJF6aA48zc) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Monstruos](https://open.spotify.com/album/5eBqDH63grduGAMyVGiYRe) | 2:54 |
 | 32 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/585Vv1qgZ4Brp7J3ARLEIj) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory \(Marfil\)](https://open.spotify.com/album/3ZexesAv5PN4RPMiEkOEXC) | 3:36 |
 | 33 | [Ya No Es Lo Mismo](https://open.spotify.com/track/3TNEAG1g4e32EyEzy7FqqC) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Ya No Es Lo Mismo](https://open.spotify.com/album/60ks7eHWtmz6Wvbdx8k7DG) | 3:49 |
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 47 | [Mucho Peor \- Spotify Singles](https://open.spotify.com/track/3hV8mynJ4tgoClJdqR9ARM) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA), [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ), [María Centeno](https://open.spotify.com/artist/4YJQjp0wW8B5luWzPOcHrG), [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [Mucho Peor \- Spotify Singles](https://open.spotify.com/album/0TT1zlm2slQsgLfVq5UWcf) | 3:31 |
 | 48 | [no cambies tu andar](https://open.spotify.com/track/4mhJ93BE0N4bpwsK2CO95J) | [Alba Reche](https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK) | [no cambies tu andar](https://open.spotify.com/album/69fEXzbm2cy7w4thRgsfj1) | 3:16 |
 | 49 | [Amuleto](https://open.spotify.com/track/0mHrAGsrbfmQEBxmstxS21) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Mojigata](https://open.spotify.com/album/5U8SvHu7gGsae0izVjA9QS) | 3:45 |
-| 50 | [Desbarata](https://open.spotify.com/track/6PvX6uIThIrFSYCi0tdsUt) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [DESBARATA](https://open.spotify.com/album/7JcSJdoEszIcVdmmLkqZvp) | 2:46 |
+| 50 | [REPROGRAMAR](https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:34 |
 | 51 | [Querer Querer](https://open.spotify.com/track/2iR2CH29Oya76P3cg99Ns2) | [Tessa Ia](https://open.spotify.com/artist/2Bo0gW1bqWSjD27xOcVtjg), [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Querer Querer](https://open.spotify.com/album/17sfERphTZkMfRkIzKFVHh) | 3:27 |
-| 52 | [REPROGRAMAR](https://open.spotify.com/track/1NVyxYaawP4iGSGEUlwJ4r) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA](https://open.spotify.com/album/4CtZOAq6nHz4nw6vKqeSkL) | 2:34 |
+| 52 | [Desbarata](https://open.spotify.com/track/6PvX6uIThIrFSYCi0tdsUt) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ) | [DESBARATA](https://open.spotify.com/album/7JcSJdoEszIcVdmmLkqZvp) | 2:46 |
 | 53 | [LIBERTAD](https://open.spotify.com/track/4bFfzFtW3B0kU23liGxvF6) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [LIBERTAD](https://open.spotify.com/album/2pfIr8vef2H2EYjQJQwBym) | 3:36 |
 | 54 | [Los Caminos Del Amor](https://open.spotify.com/track/4fJ4xLmvXpFFNSjjA82Iym) | [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064) | [Los Caminos Del Amor](https://open.spotify.com/album/6wFKtAwUCv2mkIbSquFCkH) | 3:52 |
 | 55 | [Voy en Auto](https://open.spotify.com/track/0kVHMFM0cLUU3LVxP3Ps4F) | [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Voy en Auto](https://open.spotify.com/album/45VXxqHvTgdEicrCiIBXnu) | 2:58 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 67 | [A La Playa](https://open.spotify.com/track/2MANpdplWDEAnmHC2GA42W) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [A La Playa](https://open.spotify.com/album/00FBTtbNuQhQqSGIMNSHjU) | 3:13 |
 | 68 | [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 |
 | 69 | [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 |
-| 70 | [Universo](https://open.spotify.com/track/3jEB4jnVr3ExApgjlPI21c) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Universo](https://open.spotify.com/album/3cW83FmkNbfV2vUBF0teDH) | 3:15 |
-| 71 | [NO ERA MÍA](https://open.spotify.com/track/2TzShbXQsmzGbAwa56WcEN) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [NO ERA MÍA](https://open.spotify.com/album/5cJ8XKtyyYo6lOeSc0UTIT) | 3:13 |
-| 72 | [Brillo](https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Amor, Locura & Otros Vicios](https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD) | 2:50 |
-| 73 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
+| 70 | [Brillo](https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Amor, Locura & Otros Vicios](https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD) | 2:50 |
+| 71 | [Universo](https://open.spotify.com/track/3jEB4jnVr3ExApgjlPI21c) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Universo](https://open.spotify.com/album/3cW83FmkNbfV2vUBF0teDH) | 3:15 |
+| 72 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
+| 73 | [NO ERA MÍA](https://open.spotify.com/track/2TzShbXQsmzGbAwa56WcEN) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [NO ERA MÍA](https://open.spotify.com/album/5cJ8XKtyyYo6lOeSc0UTIT) | 3:13 |
 | 74 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |
 | 75 | [Bailemos en la Sala](https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 4:04 |
 
-Snapshot ID: `MCwyMDExMzk0OTc4NTgwNmIyODg5YjUwM2M1YWQwN2Q1NmIxNmJmNTIw`
+Snapshot ID: `MCxhNTUyY2M4ZGFmN2ZjNzYwZjNjMmMyZGZhZDMxMzE3MmUwZDM1MWNm`

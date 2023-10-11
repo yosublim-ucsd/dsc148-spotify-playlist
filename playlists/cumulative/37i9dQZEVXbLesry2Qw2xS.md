@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Estonia.
 
-1,571 songs - 3 day 12 hr 43 min
+1,572 songs - 3 day 12 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,13 +632,14 @@
 | [Interstellar](https://open.spotify.com/track/1WkFKSzaOZOXZZBG7Ip6ug) | [Stig Rästa](https://open.spotify.com/artist/1fUVSMKClSFfmnk13NVaPU) | [Interstellar](https://open.spotify.com/album/1pq0yQYqXXkSxVNKuESW6d) | 3:05 | 2022-02-14 | 2022-02-16 |
 | [Intro](https://open.spotify.com/track/5lVmzrKaqPpPYtF7udoiNq) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Honestly, Nevermind](https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX) | 0:36 | 2022-06-18 | 2022-06-20 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-08 | 2023-08-19 |
+| [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 | 2023-10-10 |  |
 | [It'll Be Okay](https://open.spotify.com/track/2KnLkZ3z7PO3kgVGHGqDpD) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [It'll Be Okay](https://open.spotify.com/album/3sDud6BapENewYxlL8VH8r) | 3:42 | 2021-12-29 | 2021-12-31 |
 | [It's All Futile! It's All Pointless!](https://open.spotify.com/track/6letGsy9pQEAiVt0VLJIWg) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Pebble Brain](https://open.spotify.com/album/2d2QJv4OPOLS80tXaTCDsB) | 3:40 | 2021-10-17 | 2021-10-18 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/0lLdorYw7lVrJydTINhWdI) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas](https://open.spotify.com/album/3CKVXhODttZebJAzjUs2un) | 3:26 | 2021-11-25 | 2022-12-19 |
 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 | 2022-12-16 | 2022-12-29 |
 | [It's Beginning to Look a Lot Like Christmas \(with Mitchell Ayres & His Orchestra\)](https://open.spotify.com/track/2pXpURmn6zC5ZYDMms6fwa) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu), [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15), [Mitchell Ayres & His Orchestra](https://open.spotify.com/artist/0HS96tPggl2nwiz3gNWWI5) | [Greatest Christmas Songs](https://open.spotify.com/album/4lculT3R9mxFqdmXOCLuY7) | 2:35 | 2021-11-30 | 2022-12-28 |
 | [It's Called: Freefall](https://open.spotify.com/track/474uVhyGgK5MtY9gMcDgGl) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [How to: Friend, Love, Freefall](https://open.spotify.com/album/7vXiklrUeffx5o2F8VYwm3) | 2:32 | 2021-12-20 | 2023-03-31 |
-| [It's Crazy It's Party \(feat\. Tommy Cash\)](https://open.spotify.com/track/1FtibWDIm2kxf7zOlUcXvx) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [It's Crazy It's Party \(feat\. Tommy Cash\)](https://open.spotify.com/album/0YFNkhRzugyL2Td9loECCh) | 3:14 | 2023-09-16 |  |
+| [It's Crazy It's Party \(feat\. Tommy Cash\)](https://open.spotify.com/track/1FtibWDIm2kxf7zOlUcXvx) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [It's Crazy It's Party \(feat\. Tommy Cash\)](https://open.spotify.com/album/0YFNkhRzugyL2Td9loECCh) | 3:14 | 2023-09-16 | 2023-10-11 |
 | [It's No Good](https://open.spotify.com/track/339PPSAl7Ta2CZ25YI7a7v) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Q](https://open.spotify.com/artist/7HYjhgcTjrAIRBCACbSEqE), [Tim Simenon](https://open.spotify.com/artist/2yzxPcfb8JjrKKCIiLGWQW) | [Ultra \| The 12" Singles](https://open.spotify.com/album/3FRJU9jyS1gc71ha3leUp8) | 5:58 | 2023-08-07 | 2023-08-09 |
 | [It's the Most Wonderful Time of the Year](https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A) | [Andy Williams](https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9) | [The Andy Williams Christmas Album](https://open.spotify.com/album/30eO7X0doSEWKhDLAFLMuW) | 2:31 | 2021-11-28 | 2022-12-29 |
 | [ITEM](https://open.spotify.com/track/1EWTsgQAEsUrnQ8iawhDSN) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [5\-STAR](https://open.spotify.com/album/3Pel3gWsPxVpZVrciU0Fm6) | 3:11 | 2023-06-03 | 2023-06-05 |

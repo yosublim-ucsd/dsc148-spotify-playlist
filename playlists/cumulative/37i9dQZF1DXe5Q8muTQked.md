@@ -4,7 +4,7 @@
 
 > Kick back with the perfect mix of covers.
 
-657 songs - 1 day 16 hr 17 min
+658 songs - 1 day 16 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,7 @@
 | [Don't Dream It's Over \(feat\. Sylvan Esso\)](https://open.spotify.com/track/6S6RUMbuYs8AvkaNpDhgMd) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Don't Dream It's Over / Everything Is Free](https://open.spotify.com/album/5K6Ct7CLekvIw90bR7mJJ4) | 3:23 | 2022-02-11 | 2022-07-25 |
 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 | 2021-10-20 |  |
 | [Don't Start Now](https://open.spotify.com/track/4RftloQV6tARnLrBuXKzMr) | [Ingrid Andress](https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii) | [Spotify Singles](https://open.spotify.com/album/3Teo9qaJ93m4gDLmmAH7GS) | 3:11 | 2021-10-20 |  |
-| [Don't Start Now](https://open.spotify.com/track/5rcjnQLlh7AhGFdZrK07tU) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Don't Start Now](https://open.spotify.com/album/1H9JRwVysbzsH2AUTULZNh) | 3:47 | 2021-10-20 |  |
+| [Don't Start Now](https://open.spotify.com/track/5rcjnQLlh7AhGFdZrK07tU) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Don't Start Now](https://open.spotify.com/album/1H9JRwVysbzsH2AUTULZNh) | 3:47 | 2021-10-20 | 2023-10-11 |
 | [Don't Tell Our Friends About Me](https://open.spotify.com/track/01J26T3XB19o21N7XV4npl) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [5 Covers & A Song](https://open.spotify.com/album/2V8YaOsCv3YQd01aVnVa1I) | 4:54 | 2022-03-11 | 2022-04-25 |
 | [Don't Think Twice It's Alright](https://open.spotify.com/track/6AMz2plMmDIbE7JLEOSxEA) | [Chris Thile](https://open.spotify.com/artist/1dyGPAYZZHHW6WIqwKN5QF), [Brad Mehldau](https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq) | [Chris Thile & Brad Mehldau](https://open.spotify.com/album/12ubPehhX3Kf881G8a7Sb7) | 6:01 | 2021-10-20 | 2022-07-29 |
 | [Don't Wanna Know \- Acoustic Version](https://open.spotify.com/track/5l7gQEyycQWk10yVfXspVK) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Don't Wanna Know \(Acoustic Version\)](https://open.spotify.com/album/2pmiZkAmr1b35Aaf5cNCjY) | 3:03 | 2021-10-20 | 2022-07-29 |
@@ -349,6 +349,7 @@
 | [Jolene \- Live](https://open.spotify.com/track/1z5caKH6SJoofqTGVy17HY) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Pine Hollow \(Live\)](https://open.spotify.com/album/0Vpkw3okPNSMI8AFuWqA7j) | 4:13 | 2021-10-20 | 2022-11-13 |
 | [Just Breathe](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:02 | 2021-10-20 |  |
 | [Just Cant Get Enough](https://open.spotify.com/track/0yDU1ZjW870SAdF0n1ST2n) | [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [The Acoustics, Covers](https://open.spotify.com/album/11ryjIhICYwGWVZbPAHjy1) | 1:45 | 2023-07-14 |  |
+| [Just Like a Woman](https://open.spotify.com/track/3uIQZXaYnPrl7ROe1BkKtA) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [You and I \(Expanded Edition\)](https://open.spotify.com/album/4pmq7Cvj5fkPcspI8FaqPm) | 6:28 | 2023-09-15 |  |
 | [just like heaven](https://open.spotify.com/track/5snEypyfTFFdSldNJWakwW) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [brightside bonus tracks](https://open.spotify.com/album/7i79wTvRU35DrHSv0rwJw0) | 3:24 | 2022-06-10 |  |
 | [just like heaven](https://open.spotify.com/track/11xjDJ7i9BLd1AYMedwJQK) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [just like heaven](https://open.spotify.com/album/0RbMCFvFu5OW5trV4Ga7m8) | 3:24 | 2022-04-29 | 2022-07-29 |
 | [Just One Look](https://open.spotify.com/track/525z8O4TTjzSn6gfLItXtd) | [Branches](https://open.spotify.com/artist/6sMpWUXJNv5pPggHyvqKw2) | [Covers](https://open.spotify.com/album/1YDm5Ooe4VB1QaiynDvJpN) | 3:08 | 2021-10-20 | 2022-07-29 |

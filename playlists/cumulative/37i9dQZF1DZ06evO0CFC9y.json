@@ -239,6 +239,24 @@
     },
     {
       "album": {
+        "name": "Black Sails In The Sunset",
+        "url": "https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168573,
+      "name": "Exsanguination",
+      "url": "https://open.spotify.com/track/6OdabvInaZXWONggJSLncn"
+    },
+    {
+      "album": {
         "name": "All Hallows EP",
         "url": "https://open.spotify.com/album/1g3XMX2gmUF6zAwll0jqN6"
       },
@@ -934,7 +952,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 207786,
       "name": "The Prayer Position",
       "url": "https://open.spotify.com/track/6DxOjwql8bm5hGn7WtRnS8"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: James Arthur
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,276 likes - 87 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,252 likes - 87 songs - 4 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 86 | [Empathy Is A Bitch](https://open.spotify.com/track/3rN80CLfrEi26u7CUAouvu) | [Gavendri](https://open.spotify.com/artist/3EMLBUicqUKN1tBFUj718w) | [Empathy Is A Bitch](https://open.spotify.com/album/4HVF74ywAlmQFeUoidzraU) | 3:07 |
 | 87 | [Last Night Was Amazing](https://open.spotify.com/track/3ySGTUxh4BEepw9vsTbW7Z) | [Dead Bachelors](https://open.spotify.com/artist/28anP55ld80zmZjMVOnWZ6) | [Last Night Was Amazing](https://open.spotify.com/album/2h3RItBqNpWaDPGhW8ERR3) | 2:37 |
 
-Snapshot ID: `MCwyMzViNWE0NzY5NGFiZjA5NmZlOWU3NTdjODM4YzI3NWE4MmRhNjFk`
+Snapshot ID: `MCwyY2M3N2E1NTk2ZmE4ZDUyZDhmNGQ0MTU5MWZhNTM4ZTZiNTM0NmJk`

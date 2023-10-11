@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Abdul Hannan
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,122 likes - 70 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,167 likes - 70 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 69 | [Kehdena](https://open.spotify.com/track/6o8tuwVDjGn3fUoiFsNNba) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Kehdena](https://open.spotify.com/album/3apaPtqSwlQoQBiWFmWZu1) | 3:49 |
 | 70 | [Trust Issues](https://open.spotify.com/track/1m5KaAuRcBwvlSgHo8vJap) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Farasat Anees](https://open.spotify.com/artist/05miC2ndfE3ZyZ7xCMnZzm) | [Trust Issues](https://open.spotify.com/album/75I74MMyl3fdzJL3ENkj7T) | 2:27 |
 
-Snapshot ID: `MCw4ZDkzZTJkYjM0NmFjZTdmMGUxODk2ZDhjMjJjZTJhNGZiZDI4Nzk3`
+Snapshot ID: `MCw1ZmNhMTUyOTljMjJjM2ZkOTAyZDBiZDdiMzc5NDU0YmYyOTUwMmYx`

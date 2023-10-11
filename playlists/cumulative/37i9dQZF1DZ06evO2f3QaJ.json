@@ -34,7 +34,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 158117,
       "name": "Alvo",
       "url": "https://open.spotify.com/track/0fmvJwN5m8wJy8RTwON7vN"
@@ -258,7 +258,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 137266,
       "name": "Febre",
       "url": "https://open.spotify.com/track/6S30GnSKCDEQ7uC7Hy40zo"
@@ -342,7 +342,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 158798,
       "name": "Her\u00f3is Mortos",
       "url": "https://open.spotify.com/track/2JheiFwFLWYWVBDhgGQZMB"
@@ -531,6 +531,24 @@
     },
     {
       "album": {
+        "name": "Fa\u00e7a a Coisa Certa",
+        "url": "https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163240,
+      "name": "Ordem Natural",
+      "url": "https://open.spotify.com/track/0KcKSQqYDacO23ZGkxigK1"
+    },
+    {
+      "album": {
         "name": "Zulu: Quarta Parede, Vol.3",
         "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
       },
@@ -704,6 +722,24 @@
       "duration_ms": 263360,
       "name": "Sem Distra\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd"
+    },
+    {
+      "album": {
+        "name": "Zulu: Quarta Parede, Vol.3",
+        "url": "https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ"
+      },
+      "artists": [
+        {
+          "name": "Zudizilla",
+          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103820,
+      "name": "Sem Sono",
+      "url": "https://open.spotify.com/track/0gjtaNRdXuCAiSvp3OfIOx"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance hits\. Cover: Dom Dolla
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,057,434 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,054,381 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 | 74 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 |
 | 75 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 |
 
-Snapshot ID: `MCwzZDg1NDBlNzQwNDk0ZTgwZmYyOTkxMzdjMGZhYzBjZDYxMzgwMmVi`
+Snapshot ID: `MCxkOGU4MGJmZmE0NTViZjdjMjgyNWY1ZmY1ZmQ2ZmU4OTlmMzc0N2Qy`

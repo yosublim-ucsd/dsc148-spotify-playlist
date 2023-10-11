@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-711 songs - 1 day 5 hr 52 min
+712 songs - 1 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,7 +321,7 @@
 | [Key Slip](https://open.spotify.com/track/0OHS8hN7EJ2FoqEDgWBqIQ) | [Lucinda Friese](https://open.spotify.com/artist/6YhUWOVu9JXCbtpvkeYGDT) | [Key Slip](https://open.spotify.com/album/2Ws05Ipm4kXXLazxumpjoe) | 2:33 | 2022-05-27 | 2022-09-24 |
 | [Keys of the mountains](https://open.spotify.com/track/1w3FLtV4CGE1gZCXP2NtWC) | [Rebecca Kruse](https://open.spotify.com/artist/3mznXPzb1gKLmCEFfQqAsb) | [Keys of the mountains](https://open.spotify.com/album/236fA8DlkFs1wmaA7mJEnl) | 2:08 | 2023-05-09 |  |
 | [Kokyu](https://open.spotify.com/track/5v9dmm3md5BdP2qpH0lriI) | [Mizuki Lee](https://open.spotify.com/artist/3Q4E32Z1xrz9ZrDx8pyB0y) | [Kokyu](https://open.spotify.com/album/5C72uHPlWlDljYbWxVGjhU) | 2:06 | 2022-05-27 | 2023-02-19 |
-| [L'automne est là](https://open.spotify.com/track/7xpf7Qnslkz8n7PH20N4mV) | [Alcide St Pierre](https://open.spotify.com/artist/77f8Kuq5BQB3otUyU9rz2P) | [L'automne est là](https://open.spotify.com/album/5SL3Sreq6F4aZK51eXYIm8) | 2:23 | 2022-05-27 |  |
+| [L'automne est là](https://open.spotify.com/track/7xpf7Qnslkz8n7PH20N4mV) | [Alcide St Pierre](https://open.spotify.com/artist/77f8Kuq5BQB3otUyU9rz2P) | [L'automne est là](https://open.spotify.com/album/5SL3Sreq6F4aZK51eXYIm8) | 2:23 | 2022-05-27 | 2023-10-11 |
 | [L'infinito](https://open.spotify.com/track/4U9KyS7RMCjMoC9fG6uHMQ) | [Gabriele da Lentini](https://open.spotify.com/artist/6yo3CUsl2MEphJrr6vemHx) | [L'infinito](https://open.spotify.com/album/6mdP1Hupv6V2ZvCph82kNd) | 2:44 | 2022-05-27 | 2023-03-04 |
 | [La creacion](https://open.spotify.com/track/63OR2oeewLePYRBoHs5mIi) | [Juergen Steltzer](https://open.spotify.com/artist/3zHnZ3P1rQsteEjGjhj01r) | [Hidden Signs](https://open.spotify.com/album/7K0BbmfNlhgi912nRhA7gC) | 3:04 | 2022-05-27 | 2022-11-08 |
 | [La Fleur](https://open.spotify.com/track/3tTr7aNFBaUkH5O7KFB1wS) | [Blithe Youth](https://open.spotify.com/artist/4iIddIHZEHkH5SAjX7hEMu) | [La Fleur](https://open.spotify.com/album/6qec6hpXXfINiHHMnAvpHr) | 2:32 | 2022-05-27 | 2022-08-10 |
@@ -352,7 +352,7 @@
 | [Lik Eit Tre \- Ps.1](https://open.spotify.com/track/57ps5B261JySHVUUcvwrc3) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [Lik Eit Tre \(Ps.1\)](https://open.spotify.com/album/7zLJpFboXTbU17vDakcROE) | 2:34 | 2023-09-04 |  |
 | [Like Before](https://open.spotify.com/track/27An0sDvzMb7GM6pRE9ycF) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/2XnJ6Gy388bHlx1rikNI4p) | 2:15 | 2022-07-20 |  |
 | [Like Before](https://open.spotify.com/track/4gh3kOpFSQPn6jGOI0gZPm) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/7KG32lDHhYrznuU2EXHJPp) | 2:15 | 2022-05-27 | 2022-07-29 |
-| [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-07-20 | 2023-10-10 |
+| [Lillian](https://open.spotify.com/track/5lcjalUNbHaaSvXRTtYd1p) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Mursejler](https://open.spotify.com/album/4fQTzcMpCxxpajM3dMUqID) | 2:07 | 2022-07-20 |  |
 | [Lillian](https://open.spotify.com/track/6DGMmL7Y0CG0OFEvRepJpq) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Søren Tarding](https://open.spotify.com/artist/1bHfoau7ud3dvN33mMtzuj) | [Lillian](https://open.spotify.com/album/0E6zHfeSuibVbeFZQR5v4A) | 2:07 | 2022-05-27 | 2022-07-29 |
 | [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 | 2022-05-27 | 2023-03-10 |
 | [Lizards play](https://open.spotify.com/track/251Nfh1hvBFIUvZHt562NS) | [Emil Negri](https://open.spotify.com/artist/6PRz3C0udLohuqVbczkyL6) | [Lizards play](https://open.spotify.com/album/5lPrbJLWMohcRtbX1SDn5p) | 2:26 | 2022-07-20 |  |
@@ -456,7 +456,7 @@
 | [Ophelia](https://open.spotify.com/track/4HrhGQ4kNxcvLahuCsf3na) | [Irma Kantola](https://open.spotify.com/artist/7eP5EaPos8EeIsG7UJfEVP) | [Ophelia](https://open.spotify.com/album/3ubhoB5TUsA9hae6cvn9y4) | 2:03 | 2022-05-27 | 2022-09-24 |
 | [Ophélia](https://open.spotify.com/track/6TgKautKqkRvvbaJcGCRxr) | [Mathilda Skonare Karlsson](https://open.spotify.com/artist/3vX7jDlJLIsbGSLSVRHunP) | [Ophélia](https://open.spotify.com/album/5CJOzMHgVwXe1sjd0bQABe) | 2:13 | 2022-05-27 | 2023-03-28 |
 | [Ora Domani](https://open.spotify.com/track/3Hd21AmIE6MLzBR3C2lzdm) | [Dawn Weil](https://open.spotify.com/artist/0bsuksrO1OTfsSeIzNppax) | [Forests Overgrown](https://open.spotify.com/album/0X7B435jcoAU3g4SPnf4dD) | 2:23 | 2022-05-27 | 2023-09-19 |
-| [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2022-05-27 |  |
+| [Ornamental](https://open.spotify.com/track/01rwfTz2dYAldzFRtACqTm) | [Marie Denis](https://open.spotify.com/artist/6rAjrihudWZBgNx0WsY2q3) | [Movement](https://open.spotify.com/album/5Mob5wTrlu4hFQUEL0Reb9) | 4:36 | 2022-05-27 | 2023-10-11 |
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-05-27 |  |
 | [Our Time Will Come](https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Our Time Will Come](https://open.spotify.com/album/2CrrbexAFC9h2NUTLveyt5) | 2:34 | 2023-09-18 |  |
 | [Outside](https://open.spotify.com/track/1R5P9ersiA9xKk00JEXfSU) | [Jim Perkins](https://open.spotify.com/artist/6ihM9B0SRS5Xcvsw03Y1Vi) | [Outside](https://open.spotify.com/album/108OAvmRUCY02QqJ3C4OT0) | 1:58 | 2022-05-27 | 2023-05-04 |
@@ -499,6 +499,7 @@
 | [Pyramidale](https://open.spotify.com/track/2ECCRffnbDdRXwbkfBPTzP) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Pyramidale](https://open.spotify.com/album/2ZXnb9NFeJnwzW0wQ4jY8A) | 2:56 | 2023-04-18 |  |
 | [Quando gli alberi incontrano il vento](https://open.spotify.com/track/1HByqL0NBv4U3EXobDUkiy) | [Riccardo Lucciano](https://open.spotify.com/artist/20WwrV7uTNMYTN1Rax9ORA) | [Quando gli alberi incontrano il vento](https://open.spotify.com/album/5gC9wVZoOL4bJNSo9eoclI) | 2:55 | 2022-05-27 | 2023-09-30 |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2022-05-27 |  |
+| [Reaching Out](https://open.spotify.com/track/4qqsH0Wy7dDhW2j2CvfJFS) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Reflections](https://open.spotify.com/album/20yjn2yCBg4NWgHaAegF0m) | 2:55 | 2023-10-09 |  |
 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 | 2022-05-27 |  |
 | [Recluse](https://open.spotify.com/track/3bFvORAkFIg8TFXcpoCYwg) | [Pavel Antonov Manev](https://open.spotify.com/artist/0A7g4WQaIuDvhaZBcKpYee) | [Recluse](https://open.spotify.com/album/3OQ5VptI9YDkb90OnksjrR) | 2:22 | 2022-05-27 | 2022-09-24 |
 | [Reflections](https://open.spotify.com/track/6jkQJB7iKoYFZanJuXlnUf) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Reflections](https://open.spotify.com/album/0E51TVTXSATgUi0AkGzw3s) | 1:53 | 2023-03-13 | 2023-07-25 |

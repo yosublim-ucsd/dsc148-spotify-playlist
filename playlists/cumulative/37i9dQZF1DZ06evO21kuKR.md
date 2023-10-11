@@ -4,10 +4,11 @@
 
 > This is Moneybagg Yo\. The essential tracks, all in one playlist.
 
-86 songs - 4 hr 4 min
+87 songs - 4 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [50/50 \(Moneybagg Yo\)](https://open.spotify.com/track/1aOKOAnj6s8JOgxCEKx4OP) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [CMG The Label](https://open.spotify.com/artist/3rO1KMi81CCLjSjkImNtrA) | [Gangsta Art 2](https://open.spotify.com/album/537PniwRvDxpD7zjGsEQlA) | 2:08 | 2023-10-10 |  |
 | [A Gangsta’s Pain](https://open.spotify.com/track/3bnM8xTlWUoaLh6JLogbw8) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 1:53 | 2023-05-26 |  |
 | [Ain't See It Coming \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/1wQafeevFpRYcIxpLyUpXH) | [King Von](https://open.spotify.com/artist/6QtgPSJPSzcnn7dPZ4VINp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Welcome to O'Block](https://open.spotify.com/album/7gGJ9rNtigRF53dsFo48Wp) | 2:43 | 2023-05-31 | 2023-06-04 |
 | [All Dat \(with Megan Thee Stallion\)](https://open.spotify.com/track/2eukAOMjUM4pxnOdIsUia9) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Time Served](https://open.spotify.com/album/6Wq84YPRzpAIY8CEeluUlv) | 2:23 | 2022-11-02 | 2023-07-25 |
@@ -44,7 +45,7 @@
 | [LLC \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/15OlC497ScJt9N2BS8lOev) | [Money Man](https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Blockchain](https://open.spotify.com/album/7gVVCqQnGgybY3OTdkJuKY) | 3:15 | 2022-10-28 |  |
 | [Love It Here](https://open.spotify.com/track/0uiHv6ieCOkc9sE9ae3nDJ) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [A Gangsta’s Pain](https://open.spotify.com/album/5ffogo3K3fYibGWa93IzUe) | 1:29 | 2022-10-28 |  |
 | [Me Vs Me](https://open.spotify.com/track/1lUTmmPMAsxZBR2iK9CKDF) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Time Served \(Deluxe\)](https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS) | 3:03 | 2022-10-28 |  |
-| [Mind My Business \(with Moneybagg Yo\)](https://open.spotify.com/track/0FfSjdEzSiHGrYel609M4n) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I Showed U So](https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU) | 3:11 | 2023-08-27 |  |
+| [Mind My Business \(with Moneybagg Yo\)](https://open.spotify.com/track/0FfSjdEzSiHGrYel609M4n) | [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [I Showed U So](https://open.spotify.com/album/4GVyz2cTtsOtCX5Jk1zeaU) | 3:11 | 2023-08-27 | 2023-10-11 |
 | [Motion God](https://open.spotify.com/track/4FpgCVHDfwcHQ17hJ9SyuL) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:22 | 2023-06-30 |  |
 | [Motion God](https://open.spotify.com/track/75ZoVrZ4mXEsDxv1bQbEAS) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Motion God](https://open.spotify.com/album/1TwrnBDlShNlNIn20c5h31) | 2:23 | 2023-04-23 | 2023-07-01 |
 | [No Chill \(feat\. Lil Baby & Rylo Rodriguez\)](https://open.spotify.com/track/0K5a9PJkMiDXQZ58FY2w9H) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq) | [Time Served \(Deluxe\)](https://open.spotify.com/album/7eJt0QB6bN6JiqoBTVO7KS) | 3:19 | 2022-10-28 | 2022-12-13 |

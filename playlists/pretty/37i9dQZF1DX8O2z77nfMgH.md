@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Música nueva de toda la región\. Foto: Ovy On The Drums, Bad Gyal, y Ryan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 939,257 likes - 55 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,522 likes - 55 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 46 | [Sadman \(feat\. El ultimo del tren\)](https://open.spotify.com/track/7bzSsAidhv6KtPwn09CmcY) | [Métricas Frías](https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k), [DeeJohend](https://open.spotify.com/artist/6XUEYOORHZPpLe6hoCegF1), [Doble Porcion](https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408), [El ultimo del tren](https://open.spotify.com/artist/35TK53cUM9MH1GYCOVDK0n) | [Niño Caos](https://open.spotify.com/album/1al5KY3S4Ik2DM5j8Hw1yt) | 2:44 |
 | 47 | [bubble gum](https://open.spotify.com/track/2MWaS0ko4ABFXulETnZ3m4) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [bubble gum](https://open.spotify.com/album/67uEROQSX8obMBPZkuhMaw) | 3:30 |
 | 48 | [Me Persigue](https://open.spotify.com/track/1rBEVWJbexy1EjoaT9ZZxA) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip), [Menino Gutto](https://open.spotify.com/artist/4eX5jYwqeLxnUZcBszdrws) | [Me Persigue](https://open.spotify.com/album/6tpSWTW6Vrw3x8hjgqkVM6) | 3:02 |
-| 49 | [Eu Gosto Assim \- Ao Vivo](https://open.spotify.com/track/2NjThLqCDNuvNuqadFuejQ) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/21U1GoBgmEpjRQpUzsMtcb) | 2:26 |
+| 49 | [Eu Gosto Assim \- Ao Vivo](https://open.spotify.com/track/4EnpYMfTXW5aCjs67Qv9ux) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [10 Anos \(Ao Vivo\)](https://open.spotify.com/album/2eDXZQ6rgIN3nZ6lwXbONV) | 2:26 |
 | 50 | [Essa Não](https://open.spotify.com/track/13gt2QnhAdOCH3tq3OxPOY) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z) | [Calendário](https://open.spotify.com/album/6TCXRADv2Xs1ZFhur41Kfc) | 3:44 |
 | 51 | [Todo el Tiempo](https://open.spotify.com/track/0u1Ng1yrU52juwW92L7yB8) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg) | [Todo el Tiempo](https://open.spotify.com/album/64cLuVI6XFdGcbEyas3J4E) | 3:14 |
 | 52 | [VENUZ](https://open.spotify.com/track/1GscP3ayBiY6c5VUlWMLCR) | [Fiebre](https://open.spotify.com/artist/2C0r0f1ek76DLNLb6ls8ro) | [VENUZ](https://open.spotify.com/album/7FywK6WXGkAbsiLukVlb6b) | 2:35 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 54 | [Alô Tranqueira \- Ao Vivo](https://open.spotify.com/track/4N4Jk8n24I4lkSUdzoS0n7) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Escolhas \(Ao Vivo\)](https://open.spotify.com/album/0tBnLmuDb9EtemunXfCMeD) | 2:50 |
 | 55 | [Mesma História](https://open.spotify.com/track/54FV2rMVwLusAVnzROB0c1) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Galdino](https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj), [Ribb](https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE) | [Vida Cara \(Deluxe\)](https://open.spotify.com/album/3KvM71DjnZsDr0dxppQNjT) | 2:43 |
 
-Snapshot ID: `MCw0ZjUxOWI3MjhiN2MwZjRiNjdjNWU1ZTQ3NjI2OTczMjI4NWI5NWYx`
+Snapshot ID: `MCxkOGQyMTg1NjEzZjIwYzlmMjVmNmI3ZDA5ZDk1YTYwNWQ3NTZiNjA2`

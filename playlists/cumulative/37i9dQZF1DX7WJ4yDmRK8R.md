@@ -2,7 +2,7 @@
 
 ### [The Essential Ska](https://open.spotify.com/playlist/37i9dQZF1DX7WJ4yDmRK8R)
 
-> This is the best of ska, new and classic\. Cover: Jeff Rosenstock
+> This is the best of ska, new and classic\. Cover: Madness
 
 259 songs - 13 hr 41 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 
 > Psyched\-out bands from the four corners of the world\. Melody's Echo Chamber on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 389,071 likes - 100 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 389,195 likes - 100 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,12 +65,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 55 | [Trash](https://open.spotify.com/track/1DH4bVlD5AHQBZmFHXWVdr) | [Fuckin Whatever](https://open.spotify.com/artist/27dj7fdNHxGi0ysorNdEGe) | [Fuckin Whatever](https://open.spotify.com/album/0S6kwHyWDsj9wPqPdgxydI) | 3:33 |
 | 56 | [Back to Land](https://open.spotify.com/track/7HGjI1DJeVu2UbVbbGNs25) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [Back to Land](https://open.spotify.com/album/5ucGsqmWnXrx69gHS3ldOV) | 5:17 |
 | 57 | [Paraphernalia](https://open.spotify.com/track/19hgVvXQ8RyP5RtCkoUk5C) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Paraphernalia](https://open.spotify.com/album/5lAMuAXEsJekTC4MbBRax1) | 4:23 |
-| 58 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 |
-| 59 | [Without a Trace](https://open.spotify.com/track/2TRsNuwI2hkWRgYcBoRkrb) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Wilderness of Mirrors](https://open.spotify.com/album/0ggygybxG3Il8OWZoelu6B) | 4:07 |
+| 58 | [Without a Trace](https://open.spotify.com/track/2TRsNuwI2hkWRgYcBoRkrb) | [The Black Angels](https://open.spotify.com/artist/0VNWuGf8SMVU2AerpdhMbP) | [Wilderness of Mirrors](https://open.spotify.com/album/0ggygybxG3Il8OWZoelu6B) | 4:07 |
+| 59 | [The Trip](https://open.spotify.com/track/1AbHOoO3s1pS5LMSv5sZM7) | [Derya Yıldırım & Grup Şimşek](https://open.spotify.com/artist/2Y0SH69uxHrHrjiZCuTSaT) | [The Trip](https://open.spotify.com/album/69NCm5Vh06v4Lh8tbTpmnJ) | 4:17 |
 | 60 | [Illusory Motion](https://open.spotify.com/track/0gMYjcuAwOcCBGruZqj14t) | [Elder](https://open.spotify.com/artist/1687IqXRdWmbRshgn194tT) | [The Gold & Silver Sessions](https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl) | 9:53 |
 | 61 | [Acid Crusher](https://open.spotify.com/track/3JORo0UuJp17QF5A5EWwRX) | [Earthless](https://open.spotify.com/artist/0nsphA9KDqbJ64duYRoEBi) | [Acid Crusher / Mount Swan](https://open.spotify.com/album/2tsErqQpgo0r7MdxtDysiq) | 14:56 |
-| 62 | [Red Sun](https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:52 |
-| 63 | [Jukebox Babe](https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Jukebox Babe](https://open.spotify.com/album/4Qr9GotOrEdcEg1NXmfWEV) | 6:24 |
+| 62 | [Jukebox Babe](https://open.spotify.com/track/5zldKan8Pu2rPegmeY0wIV) | [Moon Duo](https://open.spotify.com/artist/4ipKeGoyPCcpEblETS4qLu) | [Jukebox Babe](https://open.spotify.com/album/4Qr9GotOrEdcEg1NXmfWEV) | 6:24 |
+| 63 | [Red Sun](https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA) | [The Efferusphere](https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA) | 3:52 |
 | 64 | [Wading Out](https://open.spotify.com/track/3e7WFkI9OBb9ANwqJroJwZ) | [Favourite People](https://open.spotify.com/artist/2cIiivDGTDkt9aQVeJYCAt) | [Wading Out / Shell Island](https://open.spotify.com/album/6Fd1qlkC7Rj9Na2J9BfOiT) | 3:41 |
 | 65 | [Todo Bien](https://open.spotify.com/track/4GZknZiW5V6uCJYBdutfkD) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Sancocho Stereo](https://open.spotify.com/album/38Y2bvBgrjb4zyMrGlJjAq) | 4:33 |
 | 66 | [Eclipse](https://open.spotify.com/track/7ww3ZrwEJbZjWhmAac71Mk) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 6:23 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 79 | [Black Acid](https://open.spotify.com/track/79wFxHIwLa9mzaheh7hpHE) | [Death Hawks](https://open.spotify.com/artist/0x2ktQVEo3hmwjR1UMgpb1) | [Death Hawks](https://open.spotify.com/album/35ziwYEOyVtRnX0da8dTvv) | 9:06 |
 | 80 | [Gamma Rays](https://open.spotify.com/track/5k6nmmNdpSGdCNzdnyDoRp) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 4:20 |
 | 81 | [Marihuana](https://open.spotify.com/track/5dcFoEhpwbh4eNMzLjfOn5) | [Los Espiritus](https://open.spotify.com/artist/1UnfU05eCWxrY4vWarpeF0) | [Guayabo de Agua Ardiente](https://open.spotify.com/album/1gZFGvIIXbOnowKlW8cGh9) | 3:40 |
-| 82 | [A Shaman's Hand is Infinite](https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Sacred Drugs](https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST) | 3:06 |
+| 82 | [Black Kite](https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V) | [Yawning Man](https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe) | [The Revolt Against Tired Noises](https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa) | 5:21 |
 | 83 | [Forever End](https://open.spotify.com/track/5aGBLQ3Xrbo7Ok0XDRM3bj) | [The Holydrug Couple](https://open.spotify.com/artist/6ahs4UAnYtpgTHHdiojFHt) | [Hyper Super Mega](https://open.spotify.com/album/4OIFW53ufeQgpo8PCDc8pT) | 4:00 |
-| 84 | [Black Kite](https://open.spotify.com/track/0ded1wHOrEsDsVE3W01m0V) | [Yawning Man](https://open.spotify.com/artist/2d06W6CY8NotPTPdIAgVoe) | [The Revolt Against Tired Noises](https://open.spotify.com/album/71b2Yqz7DCWPuS6YXoMLFa) | 5:21 |
+| 84 | [A Shaman's Hand is Infinite](https://open.spotify.com/track/1tYXvwP2nPrU6bbV9QUU7i) | [Al Lover](https://open.spotify.com/artist/2rVYWIbqIKx8d6hN4owg4A) | [Sacred Drugs](https://open.spotify.com/album/1z3VxBmeYehR4iKUkQ0IST) | 3:06 |
 | 85 | [Lady Rachel](https://open.spotify.com/track/0Sx7vYgpMShPW7obwHjt1a) | [Allah\-Las](https://open.spotify.com/artist/2yDodJUwXfdHzg4crwslUp) | [Aquarium Drunkard's Lagniappe Session](https://open.spotify.com/album/4IM6Ut2jf9cHvgnLSgJWzV) | 5:10 |
 | 86 | [Time Frame](https://open.spotify.com/track/7AkEeczBj2IcPkS3109kHv) | [Speck Joliet](https://open.spotify.com/artist/75VJR7AaBp0U36xbniOrws) | [Sophomore](https://open.spotify.com/album/63UEd4dz1EXqvzAUlrtV9n) | 5:32 |
 | 87 | [Another Quiet Sunday \(Keep Moving On\)](https://open.spotify.com/track/3dvtiG0XQkcfHQpr3Ghhp0) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Another Quiet Sunday](https://open.spotify.com/album/0vLznsp55OgjDuuhAUSE8z) | 4:27 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7k3T9O9bscd.md) - [plain]
 | 91 | [Meme City](https://open.spotify.com/track/6KFtYRLRNKZZf5cQWGvtO0) | [Tropa Magica](https://open.spotify.com/artist/3uCmGQUSAkY2BvcrhMLLzE) | [Tripiando Al Infinito En Mi Recámara](https://open.spotify.com/album/2Z1qKK31ssXm6CsTBc9yic) | 4:10 |
 | 92 | [Hit It and Quit It](https://open.spotify.com/track/0JnYzMYChOTG10sLBwNcl5) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Fudge Sandwich](https://open.spotify.com/album/3DSA6rDV2HqxmPnjngocEw) | 4:00 |
 | 93 | [Barbarian Kings](https://open.spotify.com/track/1cpvPCXIWA4487PUmLyDqQ) | [Morgan Delt](https://open.spotify.com/artist/29ITaP4nYGDlz54m7pLJL1) | [Morgan Delt](https://open.spotify.com/album/54yjoRYk42Cq4XkyRHfYPe) | 3:53 |
-| 94 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 |
-| 95 | [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 |
+| 94 | [Pascuales](https://open.spotify.com/track/5xuuZipGp3riNIiYDLKnXM) | [Bobui](https://open.spotify.com/artist/2PTaOFGt3LsV1g8kg1DVse) | [Pascuales](https://open.spotify.com/album/4wOdqXvqgAWeUtGOyaTNNz) | 3:37 |
+| 95 | [Burial](https://open.spotify.com/track/39OK2v0ZYohVbvqg4X4uDE) | [God Is An Astronaut](https://open.spotify.com/artist/079svMEXkbT5nGU2kfoqO2) | [Ghost Tapes \#10](https://open.spotify.com/album/19Jy4bfbeWkmKAy7qA97oR) | 6:04 |
 | 96 | [Risky Behaviour](https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm) | [Party Dozen](https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm) | [The Real Work](https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx) | 4:26 |
 | 97 | [Rasayana](https://open.spotify.com/track/2WTKsltOhi7DtLPPvfSC8J) | [Siena Root](https://open.spotify.com/artist/119lba2E5Wz6tQUlSu3Q1l) | [A New Day Dawning](https://open.spotify.com/album/3efSeqmN9bPRMnGWbyYySh) | 9:00 |
 | 98 | [Venus](https://open.spotify.com/track/7eCxuDASxBuWrjfnfdpxTk) | [The Exorcist GBG](https://open.spotify.com/artist/6NYa4gzHg26Dc7hFbaHGBV) | [The Exorcist GBG](https://open.spotify.com/album/7uYTlyslljMPzES3uuXjHu) | 2:54 |
 | 99 | [Space Camel](https://open.spotify.com/track/6RKoe7UCtdONhVdo6625Lt) | [Ouzo Bazooka](https://open.spotify.com/artist/2y1Se69lBJcw9GPYEJKQVj) | [Transporter](https://open.spotify.com/album/6GSwsFG6B9fT0Ue7nnWuxe) | 6:37 |
-| 100 | [Asteroid Witch](https://open.spotify.com/track/2UYmc7jYu8TkUCGe5qsKsn) | [Ghost Power](https://open.spotify.com/artist/6puuOMtH1u9d3nrCdwO4Y8) | [Ghost Power](https://open.spotify.com/album/0TdsBPpJLTRc9khFr4US5d) | 3:41 |
+| 100 | [Sword In the Stone](https://open.spotify.com/track/6D4NvZPy1uPdjoPhh1CQMz) | [Gnoomes](https://open.spotify.com/artist/3a4IiCnFeozUcEPbCREbII) | [MU!](https://open.spotify.com/album/3Rgbbvxh8XdL32bJhyQqOY) | 3:28 |
 
-Snapshot ID: `MCw0NjhjYjRjYTZmZDQxOTIxMTllZjM5MDVjODgwYzBkN2QzNWQ2MWY2`
+Snapshot ID: `MCxlYTVmMzgxMWQyNGY0YzgyNDM0ODNiYTBiMDNlOGNhOGY4NTRlYjI2`

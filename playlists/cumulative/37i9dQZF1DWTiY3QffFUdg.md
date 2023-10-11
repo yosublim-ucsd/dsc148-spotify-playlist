@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-88 songs - 5 hr 28 min
+89 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Chase The Sun \- VIP](https://open.spotify.com/track/5KGDSRODIjVBAN040ovdQw) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci) | [Chase The Sun \(VIP\)](https://open.spotify.com/album/162y1Nz7mvmRpChNXHQNwu) | 4:01 | 2023-08-11 |  |
 | [Children \- Radio Edit](https://open.spotify.com/track/7Bg90Jhm3Dhtu7m2YCpo6C) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B), [Robert Miles](https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0) | [Children](https://open.spotify.com/album/4pAD0l5icphM5TC1A4q8Yn) | 3:26 | 2023-08-11 |  |
 | [CHORMA](https://open.spotify.com/track/78sIUhDEOuD5mpSr1zwDwg) | [MILES](https://open.spotify.com/artist/1gs79u8PKkWAW1yfymbkTt), [Greg Willen](https://open.spotify.com/artist/51ltJZ6rB893AdzgCxSOV3) | [CHORMA](https://open.spotify.com/album/2HVE0ZmEDKkasHZhWVmImV) | 3:03 | 2023-08-11 | 2023-09-03 |
-| [Close To You](https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Close To You](https://open.spotify.com/album/5IQSHIPD6Z8EBTTjHI8uUM) | 3:23 | 2023-08-11 |  |
+| [Close To You](https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Close To You](https://open.spotify.com/album/5IQSHIPD6Z8EBTTjHI8uUM) | 3:23 | 2023-08-11 | 2023-10-11 |
 | [Damage](https://open.spotify.com/track/3uYo9KXhl2N2RAAKA9XN9h) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Damage](https://open.spotify.com/album/5N1qmRfrSS7gCfZLcps7tI) | 2:57 | 2023-09-15 |  |
 | [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY) | 2:27 | 2023-10-06 |  |
 | [Dark Water](https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [JESSCA](https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9) | [Dark Water](https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK) | 3:26 | 2023-09-01 |  |
@@ -44,6 +44,7 @@
 | [I Am Machine](https://open.spotify.com/track/7A8ec8nBw1BEwGgdSL5H90) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [I Am Machine](https://open.spotify.com/album/3m4demyPqalmJXRsKInCKi) | 6:17 | 2023-08-11 | 2023-09-28 |
 | [In My Hands \(with Camden Cox\)](https://open.spotify.com/track/5tQBXtnSjBN6ohQYLCxBlX) | [Wax Motif](https://open.spotify.com/artist/7zm3aSdmGiOkTt0aZFSO8R) | [In My Hands \(with Camden Cox\)](https://open.spotify.com/album/0dVvNRierRGIDIJcLabobW) | 3:40 | 2023-09-01 | 2023-09-19 |
 | [Industria](https://open.spotify.com/track/6Kv4u43WIqxp6eBTXaaCiM) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [Industria](https://open.spotify.com/album/4UsNAuPjCA5HQsGUYvgZr0) | 3:31 | 2023-08-18 | 2023-10-01 |
+| [It's a Fine Day](https://open.spotify.com/track/4y4g8oUhA6SODQzbKY7GVp) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv) | [It's a Fine Day](https://open.spotify.com/album/31t5xfyX0K01OEvXOYoKyk) | 2:32 | 2023-10-06 |  |
 | [It's That Time](https://open.spotify.com/track/2YlrFLQMDvkvnAlyS94zo8) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [It's That Time](https://open.spotify.com/album/0kUIijubTS9zx7cBu6HiVv) | 4:00 | 2023-08-22 | 2023-08-27 |
 | [It's That Time](https://open.spotify.com/track/5fF9T9SMqBKUvT06cn7kBR) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [It's That Time](https://open.spotify.com/album/4nSFAyvWxMBkgGYU5W6hOt) | 4:00 | 2023-08-25 |  |
 | [Komodo](https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c) | 2:35 | 2023-09-08 |  |

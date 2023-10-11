@@ -4,7 +4,7 @@
 
 > This is Banda Maguey\. The essential tracks, all in one playlist.
 
-89 songs - 4 hr 15 min
+90 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,7 +53,7 @@
 | [La Culpable](https://open.spotify.com/track/1jThuw8Kx5lbEYEkZqsD1x) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:56 | 2023-06-15 |  |
 | [La Estrella de Los Bailes](https://open.spotify.com/track/6ys6m4XPqVCQcSMXzhFYdC) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:28 | 2022-10-07 |  |
 | [La Estrella de los Bailes \- Live Version](https://open.spotify.com/track/4cr6dHRu6p7sAVCUDrEjTn) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Exitos En Vivo](https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF) | 2:34 | 2022-06-01 | 2022-10-06 |
-| [La Mano de Dios](https://open.spotify.com/track/6DuEpEA8q3Qn7afD6ep5QA) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 2:33 | 2022-06-25 |  |
+| [La Mano de Dios](https://open.spotify.com/track/6DuEpEA8q3Qn7afD6ep5QA) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 2:33 | 2022-06-25 | 2023-10-11 |
 | [La Negra Tete](https://open.spotify.com/track/4DbREQlyfOX0p6PiymhkvW) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Serie 20 Exitos](https://open.spotify.com/album/0LqVH79uT6txB15PXmZLci) | 2:56 | 2022-06-02 | 2022-08-25 |
 | [La Prendita](https://open.spotify.com/track/1QTZrB89xhOmqxXRnJLweE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Lo Que Son las Cosas](https://open.spotify.com/album/1ems7HK5yY95MtyNCDKKDi) | 3:06 | 2022-06-01 |  |
 | [La Que Se Fue](https://open.spotify.com/track/4xy7wejmM34LnfhLDIpanB) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Metamorfosis](https://open.spotify.com/album/4ydVpa0y2L99cdlNAsg8Vy) | 2:19 | 2022-11-04 | 2023-06-26 |
@@ -80,6 +80,7 @@
 | [Piel Canela](https://open.spotify.com/track/5Xl9nJxXWfeFDmF4qdZ6un) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Colección](https://open.spotify.com/album/4q62DxnJ4jXxBybGvBjWuD) | 2:33 | 2022-06-09 | 2022-08-21 |
 | [Popurrí Cumbias](https://open.spotify.com/track/05xTV0QyQyV87C9UNq9vuP) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Que Se Apague el Sol](https://open.spotify.com/album/2FfHFcmKb9jRKs6usSJGob) | 5:34 | 2022-07-04 | 2022-08-16 |
 | [Por Una Lágrima](https://open.spotify.com/track/5XtoPh8NZ8L309wg60p1RE) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Los 15 Para Coleccionar](https://open.spotify.com/album/7zIzOXpkzHVsNNSXRnpTOA) | 2:38 | 2022-06-05 | 2022-09-23 |
+| [Por una Lágrima](https://open.spotify.com/track/5lMi9SktHdwfast6BALpAQ) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Éxitos de Oro](https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq) | 2:38 | 2023-10-10 |  |
 | [Porque Es Amor](https://open.spotify.com/track/1HpuLuxNb7xn0yAL9yRDL4) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tu Eterno Enamorado](https://open.spotify.com/album/1yVWFex6NKNjEpYzwbKkui) | 2:30 | 2022-06-09 |  |
 | [Que Sacrificio](https://open.spotify.com/track/3g8CL3kQy1YYtTbjTKTt2H) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [La Estrella de Los Bailes](https://open.spotify.com/album/5olkVTeTitf7wFn0xpvzaU) | 2:27 | 2022-06-01 |  |
 | [Quiero Volver](https://open.spotify.com/track/7vBRSk7UkuFjLjVVMsoHZx) | [Banda Maguey](https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w) | [Tesoros de Coleccion](https://open.spotify.com/album/32VXfWuobjTws2zbbs2rnM) | 2:47 | 2022-06-01 |  |

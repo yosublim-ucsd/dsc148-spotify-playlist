@@ -1,12 +1,12 @@
 {
   "description": "All 80s, all ballads. Cover: Gloria Estefan",
-  "num_followers": 322210,
+  "num_followers": 323150,
   "original_name": "80s Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYjZlZjJhMTBiYWRjYmIxMTBhZTRhMjhjMjRlOTc0NGEwOGU4NDU0",
+  "snapshot_id": "MCwwYzhkOGZkNjBkNmI5ZDc2YTIxYzc4ZmQ4YzBlOTk4MmNmMzU0OTM1",
   "tracks": [
     {
       "added_at": "2023-06-16 16:59:31",
@@ -363,22 +363,6 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Solitude / Solitaire",
-        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
-      },
-      "artists": [
-        {
-          "name": "Peter Cetera",
-          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
-        }
-      ],
-      "duration_ms": 258333,
-      "name": "Glory of Love",
-      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
         "name": "Alannah Myles",
         "url": "https://open.spotify.com/album/1Ghv7iViywM23K8BRFggQv"
       },
@@ -395,18 +379,34 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "4 (Expanded)",
-        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
+        "name": "Solitude / Solitaire",
+        "url": "https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb"
       },
       "artists": [
         {
-          "name": "Foreigner",
-          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
+          "name": "Peter Cetera",
+          "url": "https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z"
         }
       ],
-      "duration_ms": 292066,
-      "name": "Waiting for a Girl like You",
-      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
+      "duration_ms": 258333,
+      "name": "Glory of Love",
+      "url": "https://open.spotify.com/track/1eyq8cjUQ2daFthW2PC2GM"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
+        "name": "20/20",
+        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
+      },
+      "artists": [
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 242678,
+      "name": "Nothing's Gonna Change My Love for You",
+      "url": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -427,18 +427,18 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "20/20",
-        "url": "https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW"
+        "name": "4 (Expanded)",
+        "url": "https://open.spotify.com/album/2Pw51hAGvWpTA3AYl2WVuu"
       },
       "artists": [
         {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+          "name": "Foreigner",
+          "url": "https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN"
         }
       ],
-      "duration_ms": 242678,
-      "name": "Nothing's Gonna Change My Love for You",
-      "url": "https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ"
+      "duration_ms": 292066,
+      "name": "Waiting for a Girl like You",
+      "url": "https://open.spotify.com/track/2OgVsp77En2nju8pnCieVU"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -759,18 +759,18 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Love Songs (A Compilation Old and New)",
-        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
       },
       "artists": [
         {
-          "name": "Phil Collins",
-          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
+          "name": "Journey",
+          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
         }
       ],
-      "duration_ms": 210733,
-      "name": "A Groovy Kind of Love",
-      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
+      "duration_ms": 267080,
+      "name": "Faithfully",
+      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -791,18 +791,18 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/2EFUNYmwxe0AOGxBORrfaw"
+        "name": "Love Songs (A Compilation Old and New)",
+        "url": "https://open.spotify.com/album/7KZTL6gFUUCzNw4FfjVqCF"
       },
       "artists": [
         {
-          "name": "Journey",
-          "url": "https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt"
+          "name": "Phil Collins",
+          "url": "https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp"
         }
       ],
-      "duration_ms": 267080,
-      "name": "Faithfully",
-      "url": "https://open.spotify.com/track/57ebBLITHpRgRKGrlbxMZS"
+      "duration_ms": 210733,
+      "name": "A Groovy Kind of Love",
+      "url": "https://open.spotify.com/track/5OHUTC4EvTbL0DuZQRIGGX"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -843,22 +843,6 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Avalon Sunset",
-        "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 260385,
-      "name": "Have I Told You Lately",
-      "url": "https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
         "name": "Cry Like a Rainstorm Howl Like the Wind (feat. Aaron Neville)",
         "url": "https://open.spotify.com/album/3f8tUCF1ThwqtNdifZiExM"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 211973,
       "name": "Don't Know Much (with Aaron Neville)",
       "url": "https://open.spotify.com/track/5z3ZDMP02xF33yCvPFnct3"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
+        "name": "Avalon Sunset",
+        "url": "https://open.spotify.com/album/2vE3SSFPxYt7jRu93j6rsi"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 260385,
+      "name": "Have I Told You Lately",
+      "url": "https://open.spotify.com/track/1VsGYaCBFjCVudtX9IGqDg"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -947,6 +947,22 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "duration_ms": 305066,
+      "name": "Didn't We Almost Have It All",
+      "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
         "name": "Jeffrey Osborne",
         "url": "https://open.spotify.com/album/0Z4d4VItwYl3FavOak829u"
       },
@@ -979,18 +995,18 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+        "name": "Lionel Richie",
+        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
       },
       "artists": [
         {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+          "name": "Lionel Richie",
+          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
         }
       ],
-      "duration_ms": 305066,
-      "name": "Didn't We Almost Have It All",
-      "url": "https://open.spotify.com/track/19wadMw1A8XejDV4p5wMt1"
+      "duration_ms": 200506,
+      "name": "Truly",
+      "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -1011,22 +1027,6 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "Lionel Richie",
-        "url": "https://open.spotify.com/album/5R8J87WpdqO4t4pB4F4LNJ"
-      },
-      "artists": [
-        {
-          "name": "Lionel Richie",
-          "url": "https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "Truly",
-      "url": "https://open.spotify.com/track/7AslBsiVLQAGrmFmi79ZeK"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
         "name": "Suddenly (Expanded Edition)",
         "url": "https://open.spotify.com/album/0gNeqVQyUq6SYzVSq7Suuo"
       },
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 225626,
-      "name": "Crazy for You - Edit",
-      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
         "name": "Can't Fight Fate (Expanded Edition)",
         "url": "https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 277600,
       "name": "Love Will Lead You Back",
       "url": "https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 225626,
+      "name": "Crazy for You - Edit",
+      "url": "https://open.spotify.com/track/6G7PVlifniapyhDCmWS2VM"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 351920,
-      "name": "Live to Tell",
-      "url": "https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/571UdIx8tcDmBPgLSW8KG2"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 258600,
       "name": "When the Children Cry",
       "url": "https://open.spotify.com/track/4ZCLM74MYhUy80TPiaAuee"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 351920,
+      "name": "Live to Tell",
+      "url": "https://open.spotify.com/track/095MMFhB9qxPx2VsmvjnUs"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2022-12-28 19:47:29",
       "album": {
-        "name": "The Dude",
-        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
-      },
-      "artists": [
-        {
-          "name": "Quincy Jones",
-          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
-        }
-      ],
-      "duration_ms": 273333,
-      "name": "Just Once",
-      "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
-    },
-    {
-      "added_at": "2022-12-28 19:47:29",
-      "album": {
         "name": "It's Real",
         "url": "https://open.spotify.com/album/5gN7Im7VUNQm7sJnmdofMc"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 253506,
       "name": "I Don't Have the Heart",
       "url": "https://open.spotify.com/track/5In7xBveNACCRX2uWNoPuW"
+    },
+    {
+      "added_at": "2022-12-28 19:47:29",
+      "album": {
+        "name": "The Dude",
+        "url": "https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0"
+      },
+      "artists": [
+        {
+          "name": "Quincy Jones",
+          "url": "https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK"
+        }
+      ],
+      "duration_ms": 273333,
+      "name": "Just Once",
+      "url": "https://open.spotify.com/track/62YP3NEB4FVPJ90XcgJQKS"
     },
     {
       "added_at": "2022-12-28 19:47:29",
@@ -1389,7 +1389,7 @@
         }
       ],
       "duration_ms": 256466,
-      "name": "That's What Friends Are For",
+      "name": "That's What Friends Are For (with Elton John, Gladys Knight & Stevie Wonder)",
       "url": "https://open.spotify.com/track/1cOj24fUMnBSXhtp7waHVW"
     },
     {

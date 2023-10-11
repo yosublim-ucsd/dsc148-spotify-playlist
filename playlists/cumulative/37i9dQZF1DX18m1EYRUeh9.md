@@ -4,7 +4,7 @@
 
 > Smooth joints from around the globe\. Cover: Say She She
 
-155 songs - 10 hr 16 min
+156 songs - 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [IJ](https://open.spotify.com/track/4H0A9h9wDV3eB9JZ3xmxWl) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [IJ](https://open.spotify.com/album/3fmaGX2ZAvTzQY118RuOTa) | 2:30 | 2023-10-05 |  |
 | [Imali](https://open.spotify.com/track/3Z9lmDapyI88AyHZ8utTf1) | [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Hammarsdale](https://open.spotify.com/album/1bgbyxRaOGJaHu4Qze6rle) | 2:42 | 2023-08-10 | 2023-09-25 |
 | [Isn't It Strange \(feat\. Thundercat & JD Beck\)](https://open.spotify.com/track/5iAlHXSoh1hMlHhXvHpRyC) | [Pedro Martins](https://open.spotify.com/artist/7fgw6kQggc48KiNoTGWNU5), [JD Beck](https://open.spotify.com/artist/2eoP74ao4wWLXJUNyFtuBg), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Rádio Mistério](https://open.spotify.com/album/7qk2Lb99r0A8ywmaiUhgZb) | 3:23 | 2023-08-17 |  |
-| [I’m The President](https://open.spotify.com/track/61KjKb7MNasVxEBMkcJblU) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [I’m The President](https://open.spotify.com/album/46uDfYz1fwX99tMqmziZ7L) | 4:07 | 2023-08-17 |  |
+| [I’m The President](https://open.spotify.com/track/61KjKb7MNasVxEBMkcJblU) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [I’m The President](https://open.spotify.com/album/46uDfYz1fwX99tMqmziZ7L) | 4:07 | 2023-08-17 | 2023-10-11 |
 | [I’m The President](https://open.spotify.com/track/7H8mxTjF6Dhgvgx0LlhACG) | [KNOWER](https://open.spotify.com/artist/7fVp0A6oCMfiQJihMnY0SZ) | [KNOWER FOREVER](https://open.spotify.com/album/4HLzhoSO67xRwfZa1T343L) | 4:07 | 2023-10-05 |  |
 | [Juice](https://open.spotify.com/track/5PCewEk7WLgWMpjXZwoy2Z) | [Mouche](https://open.spotify.com/artist/4VGuZY8GBZDsGI9PYW48Jj) | [Juice](https://open.spotify.com/album/5FHbLW2ofN5Go7BlyPrno2) | 3:28 | 2023-08-10 | 2023-09-01 |
 | [Keep It Rising](https://open.spotify.com/track/3vpHZrlh4SUvVNIqs9tMVN) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1), [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:14 | 2023-08-17 |  |
@@ -88,6 +88,7 @@
 | [Much More \- 30/70 Crushin Mix](https://open.spotify.com/track/4kXh3uCLSAaFQJa1geebum) | [dreamcastmoe](https://open.spotify.com/artist/05PeUup2zYw9VOGnaknbn9), [30/70](https://open.spotify.com/artist/2hmDAP9qrP22L93Pbq7FWM) | [Much More \(30/70 Crushin Mix\)](https://open.spotify.com/album/72wCxJtjRZ0nC0VUDhm1sA) | 5:38 | 2023-08-10 | 2023-09-01 |
 | [My Dirty Desire](https://open.spotify.com/track/6LghA3bvjS9btadUaJt4Io) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 3:26 | 2023-08-17 |  |
 | [Nautical \- Radio Edit](https://open.spotify.com/track/2fuEnEKYed6EpgWcMjVVqx) | [GODTET](https://open.spotify.com/artist/09OgHVPSgCgflZLrGScfE9), [Novak Manojlovic](https://open.spotify.com/artist/3m2QbQV4vmNLDSCbQlBkJB) | [Nautical](https://open.spotify.com/album/74YCnRRhFUIFbGbRcN4xkY) | 3:17 | 2023-08-31 |  |
+| [Never Fight The Way You Feel](https://open.spotify.com/track/1dO4drroXmLL5YcJ2NtYLl) | [Ella Thompson](https://open.spotify.com/artist/54o0UmPHSaZ2ADMID5o6y3) | [Never Fight The Way You Feel](https://open.spotify.com/album/3zc7JOm4n76FkKzaNwV3qQ) | 2:43 | 2023-10-10 |  |
 | [New Meaning](https://open.spotify.com/track/6mPQan4lLDiKid0LWGIPHm) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E), [John Raymond](https://open.spotify.com/artist/5TC4dMqip4TDBAWIGVzJ8H), [Aaron Parks](https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Shadowlands](https://open.spotify.com/album/0kiImzjohOce2DmKzymLju) | 3:35 | 2023-09-14 |  |
 | [Nightclub Daydream](https://open.spotify.com/track/5tIWokaSlLIeH4xiQ5U1we) | [Lord Echo](https://open.spotify.com/artist/4SkLPRjzPXh6d5n32Vypy5) | [Rarities 2010 \- 2020: Japanese Tour Singles](https://open.spotify.com/album/30lV8rmhO9bbOTD6NpZMts) | 3:32 | 2023-08-10 | 2023-09-01 |
 | [Nightlife](https://open.spotify.com/track/2HhwgxfCPDqxmpzKB0FlTL) | [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k), [Triple H Horns](https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN) | [Nightlife](https://open.spotify.com/album/3fJnk9OEpO346UKBj1dvyu) | 3:17 | 2023-08-10 | 2023-09-01 |

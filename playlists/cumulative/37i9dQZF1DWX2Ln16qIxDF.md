@@ -4,7 +4,7 @@
 
 > Trueno está en el Top 🔥
 
-245 songs - 12 hr 43 min
+246 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,7 +103,7 @@
 | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/track/5vdQUAFncALEH9EQvyAqIX) | [DJ Jeeh FDC](https://open.spotify.com/artist/5lal0BjsooQ7ON4t7B73bp), [MC LCKaiique](https://open.spotify.com/artist/74rzyUJxQzZ7YoSdsuzXvS), [MC Celo BK](https://open.spotify.com/artist/0nppFBXdpNggDY3LdjX29c), [DJ Menezes](https://open.spotify.com/artist/12ayBbABWnctytOKqQwMyr), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [Forte Forte de Lacoste \- Pra Começar o Final de Semana](https://open.spotify.com/album/3cMus2DPrc3370m8whkCul) | 3:02 | 2023-09-22 |  |
 | [Fruto](https://open.spotify.com/track/4SW9gHnW8NfKOdqmh0ij45) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [en dormir sin Madrid](https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB) | 2:12 | 2023-10-09 |  |
 | [Frágil](https://open.spotify.com/track/4JdSXF2p71cr8uCY3UiJM0) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Frágil](https://open.spotify.com/album/6iZUwDpa27jeAvKxs8UYI2) | 2:40 | 2023-05-19 |  |
-| [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 | 2023-07-28 |  |
+| [Fugaz](https://open.spotify.com/track/2xzdpc3aZm9mKmJpumCsRY) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [Isla Mater](https://open.spotify.com/album/5S48a0ZYFosSdYkZIoLV1D) | 3:11 | 2023-07-28 | 2023-10-11 |
 | [Funk Rave](https://open.spotify.com/track/0nVpE03Iv9uioPSomEN5v0) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Rave](https://open.spotify.com/album/0ebWdQJChnUaxvwx7BWsnu) | 2:27 | 2023-06-23 | 2023-07-08 |
 | [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 | 2023-05-12 | 2023-07-05 |
 | [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 | 2023-09-08 |  |
@@ -137,6 +137,7 @@
 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 | 2023-07-28 |  |
 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 | 2023-08-25 |  |
 | [M.A \- Remix](https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [M.A \(Remix\)](https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR) | 4:32 | 2023-05-12 |  |
+| [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 | 2023-10-10 |  |
 | [Marisola \- Remix](https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Marisola \(Remix\)](https://open.spotify.com/album/262bymaji1sJPAldR7YyaH) | 3:57 | 2023-05-12 | 2023-05-27 |
 | [Me Enteré](https://open.spotify.com/track/5FWQLEX0lavdxiWGBNkBQ4) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Me Enteré](https://open.spotify.com/album/6KBwgofbUBuXuFTuKmi9Js) | 3:02 | 2023-05-19 |  |
 | [Me Olvidé](https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 2:43 | 2023-05-12 | 2023-10-07 |

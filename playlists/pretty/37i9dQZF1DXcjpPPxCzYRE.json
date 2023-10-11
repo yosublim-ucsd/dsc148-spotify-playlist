@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 377686,
+  "num_followers": 377806,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNWUwYTRmYTk2NTBkZDZhZjMwZTYyZWRmYjA3MWJiOWM1NDk4N2Yz",
+  "snapshot_id": "MCxmZDVhZTUwZTllNWQxNGJiNDZjYzlhNzVmYzdmNzI5NTBlZWFlOGIy",
   "tracks": [
     {
       "added_at": "2023-08-18 15:55:41",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-08-18 15:55:41",
       "album": {
-        "name": "SANTIAGO",
-        "url": "https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY"
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
       },
       "artists": [
         {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
         }
       ],
-      "duration_ms": 190915,
-      "name": "No More",
-      "url": "https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw"
+      "duration_ms": 174360,
+      "name": "Stay With Me - Live From Spotify Berlin",
+      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
     },
     {
       "added_at": "2023-08-18 15:55:41",
@@ -703,18 +703,18 @@
     {
       "added_at": "2023-08-18 15:55:41",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU"
+        "name": "SANTIAGO",
+        "url": "https://open.spotify.com/album/3mX0HbDt7oIzBBJHgQYnDY"
       },
       "artists": [
         {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
         }
       ],
-      "duration_ms": 174360,
-      "name": "Stay With Me - Live From Spotify Berlin",
-      "url": "https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df"
+      "duration_ms": 190915,
+      "name": "No More",
+      "url": "https://open.spotify.com/track/2t0y99SWyC7f2ZQZC4LbGw"
     },
     {
       "added_at": "2023-08-18 15:55:41",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-08-18 15:55:41",
       "album": {
-        "name": "Yankee Hotel Foxtrot",
-        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Jesus, Etc.",
-      "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
-    },
-    {
-      "added_at": "2023-08-18 15:55:41",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-08-18 15:55:41",
       "album": {
-        "name": "Either/Or",
-        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+        "name": "Yankee Hotel Foxtrot",
+        "url": "https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv"
       },
       "artists": [
         {
-          "name": "Elliott Smith",
-          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
         }
       ],
-      "duration_ms": 176826,
-      "name": "Angeles",
-      "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
+      "duration_ms": 231000,
+      "name": "Jesus, Etc.",
+      "url": "https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn"
     },
     {
       "added_at": "2023-08-18 15:55:41",
@@ -1175,6 +1159,22 @@
       "duration_ms": 246453,
       "name": "Dirty Old Town",
       "url": "https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh"
+    },
+    {
+      "added_at": "2023-08-18 15:55:41",
+      "album": {
+        "name": "Either/Or",
+        "url": "https://open.spotify.com/album/5bmpvyP7UGqB4VuXmrJUMy"
+      },
+      "artists": [
+        {
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ],
+      "duration_ms": 176826,
+      "name": "Angeles",
+      "url": "https://open.spotify.com/track/1aMafyDbpEw3a8FrVhwRlg"
     },
     {
       "added_at": "2023-08-18 15:55:41",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-08-18 15:55:41",
       "album": {
-        "name": "We Were Here",
-        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
-      },
-      "artists": [
-        {
-          "name": "Joshua Radin",
-          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
-        }
-      ],
-      "duration_ms": 149013,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
-    },
-    {
-      "added_at": "2023-08-18 15:55:41",
-      "album": {
         "name": "Unchained Melody",
         "url": "https://open.spotify.com/album/7BKTOFQtwCo78sCpM7woOG"
       },
@@ -1471,6 +1455,22 @@
       "duration_ms": 156000,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/2eH4LAMhD20bl8tQseKckb"
+    },
+    {
+      "added_at": "2023-08-18 15:55:41",
+      "album": {
+        "name": "We Were Here",
+        "url": "https://open.spotify.com/album/3kJxji4lJkuzZJSTWFbNnG"
+      },
+      "artists": [
+        {
+          "name": "Joshua Radin",
+          "url": "https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34"
+        }
+      ],
+      "duration_ms": 149013,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
     },
     {
       "added_at": "2023-08-18 15:55:41",

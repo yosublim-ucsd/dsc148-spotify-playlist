@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 
 > Tracks para inspirar tu ofni perfecto 🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,571 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,576 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 | 35 | [You Know I'm No Good](https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:17 |
 | 36 | [Here](https://open.spotify.com/track/5zUQZjVB6bfewBXWqsP9PY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All](https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu) | 3:19 |
 | 37 | [BEACHY](https://open.spotify.com/track/7gjnP3VGpnDpCVn3ZzmtvW) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [BEACHY](https://open.spotify.com/album/5xN2TtNpQBicT3t9Ohg6Id) | 2:48 |
-| 38 | [tqum](https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [tqum](https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC) | 2:29 |
-| 39 | [Sarà perché ti amo](https://open.spotify.com/track/6OMjtuz1sYVsHpdeZPUR1n) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Piccolo Amore](https://open.spotify.com/album/7744rXPM3L298rcwG4bX44) | 3:09 |
+| 38 | [Sarà perché ti amo](https://open.spotify.com/track/6OMjtuz1sYVsHpdeZPUR1n) | [Ricchi E Poveri](https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv) | [Piccolo Amore](https://open.spotify.com/album/7744rXPM3L298rcwG4bX44) | 3:09 |
+| 39 | [tqum](https://open.spotify.com/track/3zR2iyPKGtAVyvAYZH1YUr) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [tqum](https://open.spotify.com/album/6ZOjII4udSTX8ooN3BRBjC) | 2:29 |
 | 40 | [Kollage](https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [The Loveliest Time](https://open.spotify.com/album/4bRYGKmKOkXvKL1QBf0cGk) | 4:16 |
 | 41 | [Sin Gato \(MIAU!\)](https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Sin Gato \(MIAU!\)](https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom) | 2:28 |
 | 42 | [Choking on Flowers](https://open.spotify.com/track/6hzEumHWNUVB0VWobDBT6x) | [Fox Academy](https://open.spotify.com/artist/0JqRJZzARcjmH60HwUenow) | [Elsie](https://open.spotify.com/album/71qhgLjIfS9Ayn3986N64X) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 | 49 | [Rosa Pastel](https://open.spotify.com/track/5JAQUTIpKkbccoFiJlYrV0) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Rosa Pastel](https://open.spotify.com/album/3iwukaTIs0irnTqui1vtnk) | 2:56 |
 | 50 | [Cerquita Mío](https://open.spotify.com/track/5014FaQ0AiVT8C87ppM07f) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [No Me Busques Donde Mismo](https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk) | 3:53 |
 
-Snapshot ID: `MCxiM2VlMzVlYzBjODE0Nzc2ZTkwMDQ2MmJhZjJkMDlhZWNiMjQ1MTM0`
+Snapshot ID: `MCxmNTlhMTBlZDBiNTIxMDY5ODE5YjBhZjM1ODZmMjQ4YjYzYzA2MDI1`

@@ -1,12 +1,12 @@
 {
   "description": "Happy tunes from the 50s, 60s & 70s. Cover: The Beach Boys.",
-  "num_followers": 366417,
+  "num_followers": 366534,
   "original_name": "Feel Good Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZDc2ZmQ4MmY1ODRmZTA0MjY1MGU3NzI3Yjk4ZTc0MWIzYjFjYjNh",
+  "snapshot_id": "MCw5MzQ2MGJhMzMwZjM1OTIwZmYwYmNmODIzNWQ0M2UzY2VmMzEyNDE2",
   "tracks": [
     {
       "added_at": "2023-01-03 15:04:36",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/5BckPAYcKEJuYs1eV1BHHe"
     },
     {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
-        "name": "The Supremes A' Go-Go (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
-      },
-      "artists": [
-        {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
-        }
-      ],
-      "duration_ms": 167933,
-      "name": "You Can't Hurry Love",
-      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
-    },
-    {
       "added_at": "2023-05-23 07:27:41",
       "album": {
         "name": "Greatest",
@@ -595,6 +579,22 @@
       "duration_ms": 197213,
       "name": "More Than A Woman",
       "url": "https://open.spotify.com/track/49OMJ1prsRA7ZYgrAjz70c"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "The Supremes A' Go-Go (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5fpOmAuZaVyEXPlQ4oOqJ6"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 167933,
+      "name": "You Can't Hurry Love",
+      "url": "https://open.spotify.com/track/1OppEieGNdItZbE14gLBEv"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1153,22 +1153,6 @@
       "url": "https://open.spotify.com/track/1cU34sZG9kF4FYHCoAD0Ib"
     },
     {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
-        "name": "Under the Boardwalk",
-        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
-      },
-      "artists": [
-        {
-          "name": "The Drifters",
-          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
-        }
-      ],
-      "duration_ms": 161960,
-      "name": "Under the Boardwalk",
-      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
-    },
-    {
       "added_at": "2023-05-23 07:27:41",
       "album": {
         "name": "Young Hearts Run Free (US Internet Release)",
@@ -1183,6 +1167,22 @@
       "duration_ms": 248360,
       "name": "Young Hearts Run Free",
       "url": "https://open.spotify.com/track/3MFa9idQuY4iJLWsZl3tIQ"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Under the Boardwalk",
+        "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
+      },
+      "artists": [
+        {
+          "name": "The Drifters",
+          "url": "https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT"
+        }
+      ],
+      "duration_ms": 161960,
+      "name": "Under the Boardwalk",
+      "url": "https://open.spotify.com/track/65jrjEhWfAvysKfnojk1i0"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Move on Up",
-        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
-      },
-      "artists": [
-        {
-          "name": "Curtis Mayfield",
-          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
-        }
-      ],
-      "duration_ms": 165789,
-      "name": "Move on Up - Single Edit",
-      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Bellamy Brothers",
         "url": "https://open.spotify.com/album/77EM0wkGevYQcBo1AJt7B0"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 198760,
       "name": "Let Your Love Flow",
       "url": "https://open.spotify.com/track/064SVQsmWl5EF0zahmzkQk"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Move on Up",
+        "url": "https://open.spotify.com/album/2EwoYRFQRJqw7BTVG6GlTw"
+      },
+      "artists": [
+        {
+          "name": "Curtis Mayfield",
+          "url": "https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm"
+        }
+      ],
+      "duration_ms": 165789,
+      "name": "Move on Up - Single Edit",
+      "url": "https://open.spotify.com/track/0MHXrqn909p0LRTPsNsGEi"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "The Very Best Of \"The Archies\"",
-        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
-      },
-      "artists": [
-        {
-          "name": "The Archies",
-          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "Sugar, Sugar",
-      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Gorilla (2019 Remaster)",
         "url": "https://open.spotify.com/album/0x491s63vRDvG25x2Fzrny"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 216386,
       "name": "How Sweet It Is (To Be Loved By You) - 2019 Remaster",
       "url": "https://open.spotify.com/track/75Nlnd9AJ4CYrLXgWGsuTF"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "The Very Best Of \"The Archies\"",
+        "url": "https://open.spotify.com/album/7spOTrIPTM8RrMIAhCjLJi"
+      },
+      "artists": [
+        {
+          "name": "The Archies",
+          "url": "https://open.spotify.com/artist/33QmoCkSqADuQEtMCysYLh"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "Sugar, Sugar",
+      "url": "https://open.spotify.com/track/3iSws76HjaU7k49EqJVTfF"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Hey! Baby (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
-      },
-      "artists": [
-        {
-          "name": "Bruce Channel",
-          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
-        }
-      ],
-      "duration_ms": 143627,
-      "name": "Hey! Baby - Remastered",
-      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Rock Around The Clock",
         "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 129893,
       "name": "(We're Gonna) Rock Around The Clock",
       "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Hey! Baby (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/09YAng6bZ2wJVcL3MWVCri"
+      },
+      "artists": [
+        {
+          "name": "Bruce Channel",
+          "url": "https://open.spotify.com/artist/5Do19ow5oRPYYU46jqdkwh"
+        }
+      ],
+      "duration_ms": 143627,
+      "name": "Hey! Baby - Remastered",
+      "url": "https://open.spotify.com/track/0obIo2GEab6qqms6t3JaMY"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Cyan",
-        "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
-      },
-      "artists": [
-        {
-          "name": "Three Dog Night",
-          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
-        }
-      ],
-      "duration_ms": 204106,
-      "name": "Shambala - Single Version",
-      "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Close To You",
         "url": "https://open.spotify.com/album/1CsuCA05y9r7ftG9bGGtWV"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 276000,
       "name": "(They Long To Be) Close To You",
       "url": "https://open.spotify.com/track/50q2aUjWoTn6CJIfSPRJQA"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Cyan",
+        "url": "https://open.spotify.com/album/2wrMdtm48tovrqsqbJ2bRK"
+      },
+      "artists": [
+        {
+          "name": "Three Dog Night",
+          "url": "https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV"
+        }
+      ],
+      "duration_ms": 204106,
+      "name": "Shambala - Single Version",
+      "url": "https://open.spotify.com/track/0P6fEgTn3cxLLyYTJYoYGj"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
+        "name": "Dancin' Party: The Chubby Checker Collection (1960-1966)",
+        "url": "https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY"
+      },
+      "artists": [
+        {
+          "name": "Chubby Checker",
+          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "The Twist",
+      "url": "https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
         "name": "We Are Family (1995 Remaster)",
         "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
       },
@@ -1999,22 +2015,6 @@
       "duration_ms": 346133,
       "name": "Shake Your Groove Thing",
       "url": "https://open.spotify.com/track/5o89Bf80t8ko3uNXJkYoVs"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
-        "name": "Dancin' Party: The Chubby Checker Collection (1960-1966)",
-        "url": "https://open.spotify.com/album/0YgWInMbwTXPCaHRUHqoeY"
-      },
-      "artists": [
-        {
-          "name": "Chubby Checker",
-          "url": "https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2"
-        }
-      ],
-      "duration_ms": 155040,
-      "name": "The Twist",
-      "url": "https://open.spotify.com/track/4YCnTYbq3oL1Lqpyxg33CU"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "It's Our Thing",
-        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 169293,
-      "name": "It's Your Thing",
-      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Pure Gold",
         "url": "https://open.spotify.com/album/3Eg4Laj6Pm6GwV6VF2I1Q8"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 162106,
       "name": "Papa Loves Mambo",
       "url": "https://open.spotify.com/track/62eAoNfrrS84177LOzJMQx"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "It's Our Thing",
+        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 169293,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "The Very Best of The Dixie Cups: Chapel of Love",
-        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
-      },
-      "artists": [
-        {
-          "name": "The Dixie Cups",
-          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
-        }
-      ],
-      "duration_ms": 170786,
-      "name": "Chapel Of Love",
-      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
-    },
-    {
-      "added_at": "2023-01-03 15:04:36",
-      "album": {
         "name": "Ritchie Valens",
         "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
       },
@@ -2339,18 +2323,34 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Shout!",
-        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
+        "name": "The Very Best of The Dixie Cups: Chapel of Love",
+        "url": "https://open.spotify.com/album/3r8dNiqNnFU7hNmQH5Reb8"
       },
       "artists": [
         {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+          "name": "The Dixie Cups",
+          "url": "https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772"
         }
       ],
-      "duration_ms": 268560,
-      "name": "Shout, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
+      "duration_ms": 170786,
+      "name": "Chapel Of Love",
+      "url": "https://open.spotify.com/track/7vVG9xbmNQrtdSPTi7KDUm"
+    },
+    {
+      "added_at": "2023-01-03 15:04:36",
+      "album": {
+        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
+        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
+      },
+      "artists": [
+        {
+          "name": "The Crystals",
+          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
+        }
+      ],
+      "duration_ms": 158853,
+      "name": "Then He Kissed Me",
+      "url": "https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh"
     },
     {
       "added_at": "2023-01-03 15:04:36",
@@ -2371,18 +2371,18 @@
     {
       "added_at": "2023-01-03 15:04:36",
       "album": {
-        "name": "Da Doo Ron Ron: The Very Best of The Crystals",
-        "url": "https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm"
+        "name": "Shout!",
+        "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
       },
       "artists": [
         {
-          "name": "The Crystals",
-          "url": "https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 158853,
-      "name": "Then He Kissed Me",
-      "url": "https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh"
+      "duration_ms": 268560,
+      "name": "Shout, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
     },
     {
       "added_at": "2023-01-03 15:04:36",

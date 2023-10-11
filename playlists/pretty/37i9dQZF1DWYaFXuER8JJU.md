@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 
 > ¡De la tarima a tus bocinas! Lo mejor del norteño en vivo\. Remmy Valenzuela en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,490 likes - 75 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,558 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 | 23 | [Celoso](https://open.spotify.com/track/2Yfs6lzl14H9Q09FB7qSKN) | [Secretto](https://open.spotify.com/artist/70d5BThK07cjuaJPChIUkD) | [Celoso](https://open.spotify.com/album/1OPUq6gkZ41e3x9zhxGPwR) | 3:21 |
 | 24 | [La Octava Maravilla \- En Vivo](https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb) | [Alfredo Montaño](https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH) | [En Vivo](https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1) | 3:53 |
 | 25 | [Locamente Enamorado](https://open.spotify.com/track/4flttXINh6lGchVRSlEBGC) | [Predilecto](https://open.spotify.com/artist/73hTO2mEmqyYZYvvotylqb) | [Locamente Enamorado](https://open.spotify.com/album/1Fw0OFwTabn8QsGocoV82P) | 3:37 |
-| 26 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
-| 27 | [De Botas O Gabanas \- En Vivo](https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg) | [De Botas O Gabanas \(En Vivo\)](https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww) | 2:34 |
+| 26 | [De Botas O Gabanas \- En Vivo](https://open.spotify.com/track/7CBW962s2j5BSgsNye2YQ7) | [Los Nuevos Originales Del Bajio](https://open.spotify.com/artist/18rmI6HslUFyiOEI9xRlOg) | [De Botas O Gabanas \(En Vivo\)](https://open.spotify.com/album/4u6foLRlj8VB70D3OarBww) | 2:34 |
+| 27 | [Cuando Nadie Ve](https://open.spotify.com/track/52ZdW6oH0pi1oJq39SeH1z) | [Impostores De Nuevo Leon](https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI) | [Cuando Nadie Ve](https://open.spotify.com/album/1wxJ9ISQB4tUBWulQzZsTV) | 3:52 |
 | 28 | [Celos Del Viento \(En vivo\)](https://open.spotify.com/track/0tg8RppkhrRC972fm380kd) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Pistiando Con Mi Tata, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/05uudYnuSJPNR6tFefx699) | 2:47 |
 | 29 | [La Flechita \- En Vivo](https://open.spotify.com/track/1MKJ9FCBXbavUvd3hvpdTg) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives Pa' La Raza \(En Vivo\)](https://open.spotify.com/album/5p50bUpy7JxrzPkAs2XS1q) | 2:14 |
 | 30 | [Invéntame \- En Vivo](https://open.spotify.com/track/1HNCgUYyjpX4prbIlaT6iF) | [Remmy Valenzuela](https://open.spotify.com/artist/4stSxe6AbpXw3x7nRDsYVX) | [En Vivo Desde El Rancho](https://open.spotify.com/album/3I8GLnjxkdr32OnYSir6bh) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaFXuER8JJU.md) - [plain]
 | 74 | [Margarita, Margarita](https://open.spotify.com/track/3vZTRTYZarnASwkSHz9oFv) | [Comando Único](https://open.spotify.com/artist/6TGJ5xpxuScTqrVLsUpELK) | [En Vivo, Vol\. 3](https://open.spotify.com/album/1LZhpRZhyKd2cMyetLfbQ3) | 2:36 |
 | 75 | [Simplemente Gracias \- En Vivo](https://open.spotify.com/track/7kTbcfiAVDGv2VBxddSrEf) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:37 |
 
-Snapshot ID: `MCwwNzQ4YWQ4OTE2MjE2ZGJiZGJjZGEzY2RjYTExYzU3ZGZmZGQ3YjYx`
+Snapshot ID: `MCxhMDhlOTYyZThkN2FiM2UxMWM4YjFhZWYwZjMyODY2NmE2ZDRkOWRl`

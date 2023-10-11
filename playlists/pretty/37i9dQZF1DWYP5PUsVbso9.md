@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,557 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,690 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 44 | [Blanket On The Ground](https://open.spotify.com/track/7mTBUlWPquXPQzDg8yGLlJ) | [Billie Jo Spears](https://open.spotify.com/artist/3Xt0yrWeurmp48fodXqMWf) | [Country Greats](https://open.spotify.com/album/2m7xJ3oCOzUKMhHIaFsdwG) | 3:35 |
 | 45 | [Coat of Many Colors](https://open.spotify.com/track/1l2Xmg54EUr3TDzNIaCr1z) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Coat Of Many Colors](https://open.spotify.com/album/17CT6ru3CyDXAi6xVaSUzg) | 3:03 |
 | 46 | [Hello Darlin' \- Single Version](https://open.spotify.com/track/6vmAgl2y9MpoZKrVUXrPe5) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Hello Darlin'](https://open.spotify.com/album/7jHxaZCVO8ITJOtQzexSI8) | 2:29 |
-| 47 | [I Love](https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [Country Classics: American Legends Tom T\. Hall \(Expanded Edition\)](https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5) | 2:06 |
-| 48 | [Two Dollars in the Jukebox \- 2008 Remaster](https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Rocky Mountain Music](https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI) | 2:22 |
+| 47 | [Two Dollars in the Jukebox \- 2008 Remaster](https://open.spotify.com/track/7ueyVuff3whBxbmoanlg4C) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [Rocky Mountain Music](https://open.spotify.com/album/56zMmCEznU5HuK0DW214oI) | 2:22 |
+| 48 | [I Love](https://open.spotify.com/track/5fTwUw09NNgCIOkEKu3bGB) | [Tom T\. Hall](https://open.spotify.com/artist/1SvG3y1gYAFOsv9785Xu9T) | [Country Classics: American Legends Tom T\. Hall \(Expanded Edition\)](https://open.spotify.com/album/2w9g6fpfrMWD8jsxM2I8h5) | 2:06 |
 | 49 | [I Love You, I Honestly Love You](https://open.spotify.com/track/5q8UoqDHPe9bU4R5bbvcJF) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [If You Love Me, Let Me Know](https://open.spotify.com/album/3rjkhRSQsNjjeTjkC7ZnHg) | 3:40 |
 | 50 | [Years](https://open.spotify.com/track/0NmCGVEXhfAu7XMI4JMyff) | [Barbara Mandrell](https://open.spotify.com/artist/67BqBdApdbZ0onglFqRoTg) | [Just For The Record](https://open.spotify.com/album/4eoO8CKZTuLmTitjkPOpIY) | 3:51 |
 | 51 | [Pure Love](https://open.spotify.com/track/4LE5mk1mDDn0TX7669wVvg) | [Ronnie Milsap](https://open.spotify.com/artist/6Sb8EHpZvyjSTT5KD9DjUZ) | [Pure Love](https://open.spotify.com/album/1CYDyOq4idlMXcqqxiJ1A5) | 2:21 |
@@ -65,9 +65,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 55 | [Wasted Days And Wasted Nights](https://open.spotify.com/track/3xPer22ZLDCRQtb6Z03ykt) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [Before The Next Teardrop Falls](https://open.spotify.com/album/3gy2ynEvSm1yV3gydcPWxd) | 2:51 |
 | 56 | [If I Were a Carpenter](https://open.spotify.com/track/1UN6NjkwkztYxl6XzIp0pJ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [June Carter Cash](https://open.spotify.com/artist/0ZnY6mQmgr2yZarjry68td) | [Hello, I'm Johnny Cash](https://open.spotify.com/album/1ET6CG74QlRHqbU1fJ5NhE) | 3:00 |
 | 57 | [Talking In Your Sleep](https://open.spotify.com/track/4JqusF4byBFBfcv43ZPyjc) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [When I Dream](https://open.spotify.com/album/6yjOONx5zNbysHWi6a9sah) | 2:54 |
-| 58 | [Dueling Banjos](https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp) | [Eric Weissberg](https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g), [Steve Mandell](https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj) | [Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music](https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB) | 3:14 |
+| 58 | [The Happiest Girl In The Whole U.S.A.](https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV) | [Donna Fargo](https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC) | [Winners](https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f) | 2:31 |
 | 59 | [You and Me](https://open.spotify.com/track/0yTzqq0G5th4IKPv3Qfick) | [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential Tammy Wynette](https://open.spotify.com/album/5lmYjjjnij8ug8WrEoVQK7) | 3:20 |
-| 60 | [The Happiest Girl In The Whole U.S.A.](https://open.spotify.com/track/60ut42dYikYXfCZQcvVXYV) | [Donna Fargo](https://open.spotify.com/artist/4tIQ6BeFRvYApoAyJmaeVC) | [Winners](https://open.spotify.com/album/34zkdmEjQSzOIZETGtE56f) | 2:31 |
+| 60 | [Dueling Banjos](https://open.spotify.com/track/4xxn8GDqs7RUwgZTNznXNp) | [Eric Weissberg](https://open.spotify.com/artist/2dIzGSHkciATTqFH3Xox5g), [Steve Mandell](https://open.spotify.com/artist/77PPhg2y4Efayq60Xgumgj) | [Dueling Banjos From The Original Sound Track Of Deliverance And Additional Music](https://open.spotify.com/album/2Okci4K13UGLBJRMApE2sB) | 3:14 |
 | 61 | [The Grand Tour](https://open.spotify.com/track/5lXX4SAV6HBaVnZ6sUQPNE) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [George Jones \- 16 Biggest Hits](https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p) | 3:07 |
 | 62 | [You Needed Me](https://open.spotify.com/track/5d4E1hgkLyb7sXr5J3InnM) | [Anne Murray](https://open.spotify.com/artist/7d7q5Y1p2QWS4QRAhTQR5E) | [Let's Keep It That Way](https://open.spotify.com/album/5cLFy5cKLjOetxzo5micoR) | 3:40 |
 | 63 | [Country Sunshine](https://open.spotify.com/track/4jE0JNXJ2H3UdhoYBeu8st) | [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [The Essential Dottie West](https://open.spotify.com/album/0dVCPUNJWfXOw5DZqwzmT1) | 2:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 99 | [Some Broken Hearts Never Mend \- Single Version](https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:48 |
 | 100 | [Every Time Two Fools Collide](https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Every Time Two Fools Collide](https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL) | 3:00 |
 
-Snapshot ID: `MCw4NGFmZDBiZDc1NGYxMDkyNmQzNmQ0ZmIzYWRlNDBhNWFiMTVmZDky`
+Snapshot ID: `MCwzM2U3ZmYwZDM5YmZjNjQ3ZTQwZGFlNGEwODEwNzJhZWJiMjMxZTBh`

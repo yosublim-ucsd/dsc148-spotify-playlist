@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:genre:techno\">techno</a> starter pack",
-  "num_followers": 21601,
+  "num_followers": 22066,
   "original_name": "techno party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYzBkNmUwMDdmNTFiYzZhMTIyMTEzN2RjNTdlMWE0ZWQ5NmNmN2Q0",
+  "snapshot_id": "MCw3MjI0MTVmY2I3MGJhNWUzZTU4YmQzMGJjN2U2YWM2MTBjNWU5N2Rk",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -831,6 +831,30 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Low (Macon's HYPERTECHNO Remix)",
+        "url": "https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V"
+      },
+      "artists": [
+        {
+          "name": "71 Digits",
+          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+        },
+        {
+          "name": "Flo Rida",
+          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
+        },
+        {
+          "name": "Macon",
+          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Low (Macon's HYPERTECHNO Remix)",
+      "url": "https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Damage",
         "url": "https://open.spotify.com/album/5N1qmRfrSS7gCfZLcps7tI"
       },
@@ -891,26 +915,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Low (Macon's HYPERTECHNO Remix)",
-        "url": "https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V"
+        "name": "Ray Of Solar (Anfisa Letyago Remix)",
+        "url": "https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2"
       },
       "artists": [
         {
-          "name": "71 Digits",
-          "url": "https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "Flo Rida",
-          "url": "https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY"
-        },
-        {
-          "name": "Macon",
-          "url": "https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ"
+          "name": "Anfisa Letyago",
+          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
         }
       ],
-      "duration_ms": 166666,
-      "name": "Low (Macon's HYPERTECHNO Remix)",
-      "url": "https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT"
+      "duration_ms": 207919,
+      "name": "Ray Of Solar - Anfisa Letyago Remix",
+      "url": "https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -935,22 +955,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Ray Of Solar (Anfisa Letyago Remix)",
-        "url": "https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2"
+        "name": "It's a Fine Day",
+        "url": "https://open.spotify.com/album/31t5xfyX0K01OEvXOYoKyk"
       },
       "artists": [
         {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Anfisa Letyago",
-          "url": "https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq"
+          "name": "JKRS",
+          "url": "https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv"
         }
       ],
-      "duration_ms": 207919,
-      "name": "Ray Of Solar - Anfisa Letyago Remix",
-      "url": "https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR"
+      "duration_ms": 152608,
+      "name": "It's a Fine Day",
+      "url": "https://open.spotify.com/track/4y4g8oUhA6SODQzbKY7GVp"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -975,26 +991,6 @@
       "duration_ms": 237157,
       "name": "WANNA GO BANG",
       "url": "https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Close To You",
-        "url": "https://open.spotify.com/album/5IQSHIPD6Z8EBTTjHI8uUM"
-      },
-      "artists": [
-        {
-          "name": "KSHMR",
-          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
-        },
-        {
-          "name": "Maddix",
-          "url": "https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA"
-        }
-      ],
-      "duration_ms": 203999,
-      "name": "Close To You",
-      "url": "https://open.spotify.com/track/5NFCZQEma4ll0SD00lS6FQ"
     }
   ],
   "unique_name": "techno party",

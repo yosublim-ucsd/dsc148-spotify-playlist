@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 56818,
+  "num_followers": 56874,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWNiOWNlNDhhZDMxOTZiZjU3ODFlZTIyOWYzZjUwYzNlOWRmNmVl",
+  "snapshot_id": "MCwxNjYwNTQ4Yjc4MTZmMWZjOTIyNDc5NWE4ZGUxMmUzZmM2OTVhNWRi",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -27,6 +27,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Something in the Orange",
+        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "Something in the Orange",
+      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Until I Found You (Em Beihold Version)",
         "url": "https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs"
       },
@@ -43,22 +59,6 @@
       "duration_ms": 176440,
       "name": "Until I Found You (with Em Beihold) - Em Beihold Version",
       "url": "https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Something in the Orange",
-        "url": "https://open.spotify.com/album/1CmTOKCeyz1aHH04OwvTPv"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 228013,
-      "name": "Something in the Orange",
-      "url": "https://open.spotify.com/track/3WMj8moIAXJhHsyLaqIIHI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -179,22 +179,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Signed, Sealed And Delivered",
-        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 161160,
-      "name": "Signed, Sealed, Delivered (I'm Yours)",
-      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Zach Bryan",
         "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 202183,
       "name": "Little Freak",
       "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Signed, Sealed And Delivered",
+        "url": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 161160,
+      "name": "Signed, Sealed, Delivered (I'm Yours)",
+      "url": "https://open.spotify.com/track/2eF8pWbiivYsYRpbntYsnc"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Highs & Lows",
-        "url": "https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8"
-      },
-      "artists": [
-        {
-          "name": "Chance Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
-        }
-      ],
-      "duration_ms": 209621,
-      "name": "Highs & Lows",
-      "url": "https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -935,18 +919,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Fall Into Me",
-        "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
+        "name": "Highs & Lows",
+        "url": "https://open.spotify.com/album/5xcCwJuG2hWwWIwWSWXxw8"
       },
       "artists": [
         {
-          "name": "Forest Blakk",
-          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+          "name": "Chance Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
         }
       ],
-      "duration_ms": 226066,
-      "name": "Fall Into Me",
-      "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
+      "duration_ms": 209621,
+      "name": "Highs & Lows",
+      "url": "https://open.spotify.com/track/7IA1Rvt3w8p0PihpYH9JTB"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -963,6 +947,22 @@
       "duration_ms": 135386,
       "name": "The Way I Am",
       "url": "https://open.spotify.com/track/2E9KlM0BvKZKcZAQRu3OWV"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Fall Into Me",
+        "url": "https://open.spotify.com/album/6nRIGu1lglm6SZC3oG3L4l"
+      },
+      "artists": [
+        {
+          "name": "Forest Blakk",
+          "url": "https://open.spotify.com/artist/7q7IUe2AqtifSZ2q52kHFc"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "Fall Into Me",
+      "url": "https://open.spotify.com/track/7Lv78wiIJcKgND9Zi7AIOt"
     },
     {
       "added_at": "2023-10-06 04:00:00",

@@ -4,7 +4,7 @@
 
 > The perfect playlist to just sit back and chill out with.
 
-389 songs - 1 day 0 hr 37 min
+390 songs - 1 day 0 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Give It Up](https://open.spotify.com/track/54x2yEQLwfcujRmAc8Vky7) | [George Taylor](https://open.spotify.com/artist/0nuq0P5rPEpF6oFM4PTia5) | [Give It Up](https://open.spotify.com/album/4r26l1S2PtMLsPN0P5vX9m) | 3:44 | 2022-03-25 | 2022-04-20 |
 | [Gloria](https://open.spotify.com/track/3w4hSYOCUcsfk86JcjkO1a) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [Gloria](https://open.spotify.com/album/1wtcotBFIrPUocoICHcURo) | 3:47 | 2022-03-25 | 2022-04-13 |
 | [Go In Light \(feat\. Monica Martin\)](https://open.spotify.com/track/4gWSTEBZxAvH1cKq2u8jfQ) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Monica Martin](https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:01 | 2023-01-09 |  |
+| [Good Thing](https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:12 | 2023-08-25 |  |
 | [Good Thing](https://open.spotify.com/track/3oVPWIRcX4lTde9nMUxTmX) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [Good Thing](https://open.spotify.com/album/5zq4azS8yD6fil5tnqr1g5) | 4:12 | 2021-12-17 | 2022-07-29 |
 | [Good Woman](https://open.spotify.com/track/6hZ3wAZGh5yQcZMxDXnTL3) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Good Woman](https://open.spotify.com/album/6b3CgvhvJFT6asCeHiOF3M) | 3:17 | 2021-12-17 | 2022-07-29 |
 | [Goodbye Mr\. Blue](https://open.spotify.com/track/6b97su2rHlDZm0aiyGQCaw) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Goodbye Mr\. Blue](https://open.spotify.com/album/4S8GgZhOvktzQZWA2NXHAX) | 5:00 | 2022-04-01 | 2022-07-29 |
@@ -362,7 +363,7 @@
 | [Two](https://open.spotify.com/track/5tugARliRodpCjuotWjeZk) | [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Two](https://open.spotify.com/album/6Z19DTwmeBlCSXY2Sx3Fvl) | 3:38 | 2021-12-17 | 2022-07-29 |
 | [Two Sides](https://open.spotify.com/track/3CXYKSBNOQxfIGHLcbra1f) | [Joel Taylor](https://open.spotify.com/artist/4WilUzPdhmLAiX67CZ9xTi) | [Two Sides](https://open.spotify.com/album/3FG64GXbcfsmnx1ocD7kwk) | 3:50 | 2022-03-25 | 2022-04-14 |
 | [Unready](https://open.spotify.com/track/4awSzedNPx67Io7cPe6D84) | [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [Unready](https://open.spotify.com/album/2RG8vKpiO8wENNoZg7MVYq) | 3:42 | 2021-12-17 | 2022-04-20 |
-| [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 | 2021-12-17 |  |
+| [Up Granville](https://open.spotify.com/track/38SpxensPT9J0iNbMmQIjd) | [Peach Pit](https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire) | [Up Granville](https://open.spotify.com/album/3A1KfQ0xiG0a6u3V7FTA9p) | 3:50 | 2021-12-17 | 2023-10-11 |
 | [Used To Be Lonely](https://open.spotify.com/track/0jWKeM9GbmR1tG6yLP2wX2) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Forever Turned Around](https://open.spotify.com/album/2tEnM0jAnGCfNvrhVVVZ3h) | 3:48 | 2021-12-17 | 2022-04-18 |
 | [Valium](https://open.spotify.com/track/59OMPI6d9LDo6BSMdroQJG) | [The Felice Brothers](https://open.spotify.com/artist/4Ajgo7nAsTzjSFymIfBjZ1) | [From Dreams to Dust](https://open.spotify.com/album/2yHBOaatHcvlgNQ7WPpNIS) | 4:33 | 2022-04-01 | 2022-04-21 |
 | [Valleys \(My Love\)](https://open.spotify.com/track/2TSt5uNcRSnMbxYJ5AjPvt) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Valleys \(My Love\)](https://open.spotify.com/album/69LugwAAfExMtZx2l3KCPo) | 3:56 | 2021-12-17 | 2022-07-29 |

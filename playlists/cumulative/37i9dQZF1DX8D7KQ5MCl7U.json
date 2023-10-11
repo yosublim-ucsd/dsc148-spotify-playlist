@@ -3483,6 +3483,28 @@
     },
     {
       "album": {
+        "name": "Coke Studio: Season 8",
+        "url": "https://open.spotify.com/album/3peJK6wepWMSteaniFjkbz"
+      },
+      "artists": [
+        {
+          "name": "Mai Dhai",
+          "url": "https://open.spotify.com/artist/2bhqzypxtk5TJRHZLZMJ4u"
+        },
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2022-10-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 460860,
+      "name": "Kadi Aao Ni",
+      "url": "https://open.spotify.com/track/71Nd97QyMzSuosjHsky79O"
+    },
+    {
+      "album": {
         "name": "Coke Studio Sessions: Season 3",
         "url": "https://open.spotify.com/album/1lKwPb6MbXARLx99TnhtZY"
       },
@@ -3620,7 +3642,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 964760,
       "name": "Khabaram Raseeda",
       "url": "https://open.spotify.com/track/0q4658Fq3RFbtzxMyeo1HI"
@@ -5558,7 +5580,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 214000,
       "name": "Paisay Da Nasha",
       "url": "https://open.spotify.com/track/3HGWfAthym1zsmD0lAvrDJ"
@@ -6412,7 +6434,7 @@
       ],
       "date_added": "2022-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 825760,
       "name": "Rung 2",
       "url": "https://open.spotify.com/track/6nw7TxJxt4mngfZX8cuSxt"

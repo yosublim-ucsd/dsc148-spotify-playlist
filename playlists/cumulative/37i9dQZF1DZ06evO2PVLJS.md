@@ -4,7 +4,7 @@
 
 > This is Vicente Fernández\. The essential tracks, all in one playlist.
 
-55 songs - 2 hr 49 min
+56 songs - 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,7 @@
 | [Me Voy a Quitar de en Medio](https://open.spotify.com/track/2kgUPa3UUnHIUfySDkg2bm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 2:46 | 2023-06-29 |  |
 | [Mi Viejo](https://open.spotify.com/track/5jmuiCbNU1SEvFKqMadOZR) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mi Viejo](https://open.spotify.com/album/6H1Ru58NKY7aNmHNEic44G) | 3:10 | 2023-06-29 | 2023-09-01 |
 | [Mujeres Divinas](https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 3:13 | 2023-06-29 |  |
-| [México Lindo Y Querido](https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez La Leyenda Viviente \(Digi\-Pack\)](https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW) | 3:32 | 2023-09-18 |  |
+| [México Lindo Y Querido](https://open.spotify.com/track/2r5HpO5yuhGHR0xDw7FTBr) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez La Leyenda Viviente \(Digi\-Pack\)](https://open.spotify.com/album/4N6NKru01oIgqTQ3MovJXW) | 3:32 | 2023-09-18 | 2023-10-11 |
 | [Ni En Defensa Propia](https://open.spotify.com/track/2DXigvJtnOxD7QPv7hhrIj) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Ni En Defensa Propia](https://open.spotify.com/album/5MjQ6gStH8eWochAk1NbAr) | 2:24 | 2023-06-29 | 2023-09-19 |
 | [No Me Hagas Menos](https://open.spotify.com/track/4j30vBmlV8u1dRY7SjDSn8) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 2:56 | 2023-06-29 |  |
 | [No Me Sé Rajar](https://open.spotify.com/track/7AwZAlZqOgYbmg9KoHFFi8) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Que Manera Te Olvido](https://open.spotify.com/album/7L4fmHhUztvN5kSsRyAjwz) | 2:24 | 2023-06-29 |  |
@@ -58,10 +58,11 @@
 | [Si Te Vas No Hay Lio](https://open.spotify.com/track/5bpu1kq0uHOd5I8B65tSkm) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mujeres Divinas](https://open.spotify.com/album/2jmRtdpdqFiwQGy5wBv3C4) | 2:12 | 2023-07-21 |  |
 | [Sublime Mujer](https://open.spotify.com/track/5mPbC4nz0DYXO3kfnmMgRe) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Entre El Amor Y Yo](https://open.spotify.com/album/3gDr14ItIjCEpR2UJ1wCLU) | 3:07 | 2023-06-29 |  |
 | [Tu Camino y el Mío](https://open.spotify.com/track/3CCOZJRk10XwhS75UjtFso) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 2:57 | 2023-06-29 |  |
-| [Tú Solo Tú](https://open.spotify.com/track/6rPMLKgRvCFKc5o1nYCtvu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Le Canta a los Grandes Compositores de México](https://open.spotify.com/album/56sdl31mYCqHyb9lUwRvNM) | 3:17 | 2023-08-13 |  |
+| [Tú Solo Tú](https://open.spotify.com/track/6rPMLKgRvCFKc5o1nYCtvu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Le Canta a los Grandes Compositores de México](https://open.spotify.com/album/56sdl31mYCqHyb9lUwRvNM) | 3:17 | 2023-08-13 | 2023-10-11 |
 | [Un Millón de Primaveras](https://open.spotify.com/track/6j5LtifAnuTjTYvml61yFZ) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:53 | 2023-06-29 |  |
 | [Urge](https://open.spotify.com/track/3xrowzZGezyuEBl9UzAN4W) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Mientras Ustedes No Dejen De Aplaudir...](https://open.spotify.com/album/302OzIxo56uSLp0ZY1MuTY) | 2:57 | 2023-06-29 |  |
 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 | 2023-06-29 |  |
+| [Ya Me Voy para Siempre](https://open.spotify.com/track/7CKDtdoxrQp0p7dWdIng2W) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Tahur](https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd) | 3:23 | 2023-10-10 |  |
 | [Yo Quiero Ser](https://open.spotify.com/track/45hZQUKq1hhbBVoGaz2M1x) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Palabra De Rey](https://open.spotify.com/album/0npWlNrpoaCdnsrWjiUUtW) | 2:56 | 2023-06-29 | 2023-07-22 |
 
 \*This playlist was first scraped on 2023-06-30. Prior content cannot be recovered.

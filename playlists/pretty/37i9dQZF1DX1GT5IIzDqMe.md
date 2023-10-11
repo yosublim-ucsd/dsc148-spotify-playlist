@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,480 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,511 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,17 +21,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 11 | [Spastik](https://open.spotify.com/track/553HOkDZQktOEBKvxTBPS1) | [Plastikman](https://open.spotify.com/artist/7GoFQNOTX0suC6Tn59qx8n), [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Recycled Plastik](https://open.spotify.com/album/4AFkZfFvIGYxNc28b2FKpy) | 9:15 |
 | 12 | [Andreaen Sand Dunes](https://open.spotify.com/track/5vcCF1Q328JhaZj4MS6XqO) | [Drexciya](https://open.spotify.com/artist/3KcV1kKG7Y0Gq7xPAGVjkZ) | [Neptune's Lair](https://open.spotify.com/album/7bBx5uPv2YgRIAFyXBWhEV) | 6:16 |
 | 13 | [Big Fun \(Remastered\)](https://open.spotify.com/track/0iiQCzqzytQsVmlkGjTGB1) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Big Fun \(Remastered\)](https://open.spotify.com/album/63Tyk1UCFndIYpHtZUKRWr) | 3:18 |
-| 14 | [Never Grow Old \- Re\-Plant](https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Never Grow Old \(Re\-Plant\) / Phobia \(Re\-Plant\)](https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2) | 7:19 |
-| 15 | [Jupiter Jazz](https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X) | [Galaxy 2 Galaxy](https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD) | [Galaxy 2 Galaxy: A High Tech Jazz Compilation](https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV) | 4:30 |
+| 14 | [Jupiter Jazz](https://open.spotify.com/track/2T6rMXWYc934IWMudx1H1X) | [Galaxy 2 Galaxy](https://open.spotify.com/artist/2JW9UTb6ViFLYf7VQxBJqD) | [Galaxy 2 Galaxy: A High Tech Jazz Compilation](https://open.spotify.com/album/5f4gnlLgeEAj7RRoo4gIYV) | 4:30 |
+| 15 | [Never Grow Old \- Re\-Plant](https://open.spotify.com/track/4ylwhtHT57G5VbpVMyUIBR) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [Never Grow Old \(Re\-Plant\) / Phobia \(Re\-Plant\)](https://open.spotify.com/album/7nIB2qmP6H7svgk8bIaQC2) | 7:19 |
 | 16 | [Frisk](https://open.spotify.com/track/4dB7bla8wMutu4Yq8stA7y) | [Patrick Topping](https://open.spotify.com/artist/7yRimuQSC5Ks3T2Ts0iyZa), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Frisk](https://open.spotify.com/album/5VEY7dg6GBsee7YSRNBkDb) | 3:11 |
 | 17 | [Lightyears](https://open.spotify.com/track/4SFEzGRviQqJpZHtQjDAA5) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh), [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q) | [Juan Atkins & Moritz von Oswald Present Borderland: Transport](https://open.spotify.com/album/7kTo32LJe7JOUiYnsATgLT) | 6:07 |
 | 18 | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/track/4EfIHd5ymQthDOEpZifCZ9) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG) | [Pennies From Heaven \(Remastered\)](https://open.spotify.com/album/0OU1d6ClYVzKrvtNzZANKB) | 3:18 |
-| 19 | [The Curse Breaker](https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [The Curse Breaker / What You Need](https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6) | 3:39 |
-| 20 | [A Walk in the Park](https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [A Walk in the Park](https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI) | 5:25 |
-| 21 | [Desire](https://open.spotify.com/track/2j7Lf6WAu02OpLcb5LPN4U) | [69](https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg) | [The Legendary Adventures Of A Filter King](https://open.spotify.com/album/6DoSCkujawZm3BjfqlJrjO) | 6:27 |
-| 22 | [No Ufo's \- Vocal](https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [No Ufo's \(Original Version\)](https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg) | 4:18 |
-| 23 | [A Wonderful Life \- Version](https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Album Formerly Known As ...](https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM) | 6:55 |
-| 24 | [World Of Deep](https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:28 |
+| 19 | [A Walk in the Park](https://open.spotify.com/track/3n8TM8osvrpkm7IddlaO4Q) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B) | [A Walk in the Park](https://open.spotify.com/album/3N0p2BtGWPMdz86ZiTc6ZI) | 5:25 |
+| 20 | [Desire](https://open.spotify.com/track/2j7Lf6WAu02OpLcb5LPN4U) | [69](https://open.spotify.com/artist/7L7l7toWdGA3T1wmFr83sg) | [The Legendary Adventures Of A Filter King](https://open.spotify.com/album/6DoSCkujawZm3BjfqlJrjO) | 6:27 |
+| 21 | [No Ufo's \- Vocal](https://open.spotify.com/track/1Ro7L7RPp5P8heOfW4EQKA) | [Model 500](https://open.spotify.com/artist/2Djz8cbEv5rtrYrJYdzQ20) | [No Ufo's \(Original Version\)](https://open.spotify.com/album/2HPsmy1REVIz76Ow7cEGWg) | 4:18 |
+| 22 | [A Wonderful Life \- Version](https://open.spotify.com/track/65POCexjbdPA7mbSKxL0vd) | [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [The Album Formerly Known As ...](https://open.spotify.com/album/6AwKcT6k1YlIDkEBA3KDKM) | 6:55 |
+| 23 | [World Of Deep](https://open.spotify.com/track/06i10JXZGO969A5NR4MXGD) | [Kevin Saunderson](https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG), [e\-Dancer](https://open.spotify.com/artist/7Mb2QpmkC5kzR4UV6rkzLZ) | [Heavenly Revisited Album](https://open.spotify.com/album/2r4zhVV8z7bxBtNpm3LVPs) | 3:28 |
+| 24 | [The Curse Breaker](https://open.spotify.com/track/0cSjUF4T2ETqFaiajbP2Rj) | [Floorplan](https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies) | [The Curse Breaker / What You Need](https://open.spotify.com/album/00kKPJvarQWnQlFqekyvy6) | 3:39 |
 | 25 | [Maintain](https://open.spotify.com/track/3YEtKgCDIWcMpX7tSndngc) | [Cybotron](https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm) | [Maintain](https://open.spotify.com/album/6DebFF03htFDbSBppriyyM) | 4:56 |
 | 26 | [Tedra](https://open.spotify.com/track/0LXrOoeTSHbDF4gsxZXRSD) | [Kenny Larkin](https://open.spotify.com/artist/7A4qanEMCOPcywaqZ01yVV) | [Azimuth](https://open.spotify.com/album/7JOhFImXm0Upt1MqptmN5X) | 5:41 |
 | 27 | [Track Ten](https://open.spotify.com/track/2TUSbKRL9amtnbH5bwYnt0) | [Juan Atkins](https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh) | [Back To Basics \(Part 1\)](https://open.spotify.com/album/5z8fs4gCaZ3jBYDmgvofYf) | 6:01 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [Red Room](https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Red Room](https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4) | 6:40 |
 | 50 | [Do It All Night \(C2 Edit\) \- Mixed](https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Detroit Love Vol\. 2 \(DJ Mix\)](https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ) | 5:39 |
 
-Snapshot ID: `MCxlOTU3MTAzY2E1NDI4MTNjNzExZTEyYjg2Y2E5NTA3YTA3MzNjNjBm`
+Snapshot ID: `MCxhNTJhNGIxMzRiMmM5OWE5NGExYTNlZjc3MTEwNzdkZWM0ZGVmOTky`

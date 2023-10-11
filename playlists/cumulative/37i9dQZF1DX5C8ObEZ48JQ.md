@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5?si=L6C8qlMDT3SFZVXz\-SvF\-w"> Tha Boy Myles </a>\. Artwork: Isu Kim.
 
-565 songs - 1 day 4 hr 39 min
+566 songs - 1 day 4 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Bite The Bullet](https://open.spotify.com/track/1TLHmCLAuswkUaa2i4LEf1) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [Bite The Bullet](https://open.spotify.com/album/1rPQFEBeCZC8ljgcxIrT5l) | 3:05 | 2022-09-02 | 2022-10-01 |
 | [Blessings](https://open.spotify.com/track/6brVEF4Ru3xosD8F6zYJXY) | [Kayode](https://open.spotify.com/artist/2m9oQENA478WyWswPjnxyr), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [STILL FIGURING LIFE](https://open.spotify.com/album/3lnimhNmAuy3FzBkCiVfT9) | 2:41 | 2023-06-05 | 2023-06-28 |
 | [Blind](https://open.spotify.com/track/05nQi9vhgIRdm4U3Ibt5Ae) | [Jahplaka](https://open.spotify.com/artist/7LHtDuHQxPma5xK94mexGk) | [Blind](https://open.spotify.com/album/5x9iKmrB20VHunQSud1vy6) | 2:27 | 2023-03-29 | 2023-06-06 |
+| [Blueprint](https://open.spotify.com/track/4mwq55DaCkiptwx1UljRvB) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [The Third Kind](https://open.spotify.com/album/5RswtvkaBBt1KivjwF3Hl4) | 3:28 | 2023-10-10 |  |
 | [Blues](https://open.spotify.com/track/6hofzLNwXx1PfubLUaLLKG) | [Abi.Deen](https://open.spotify.com/artist/7jzUnmpVSltSJ99j6gX0Sh), [S3kyerewaa](https://open.spotify.com/artist/11hUTgOvMopsRpP3JzXsub) | [Blues](https://open.spotify.com/album/0Drhz709vGb3KuzToVxDKT) | 3:15 | 2023-02-22 | 2023-03-30 |
 | [Blues](https://open.spotify.com/track/6uoyzoymKumUx2oQwHvVd6) | [Kold AF](https://open.spotify.com/artist/30nT1GUVxPdjDFnXpP1wh8) | [Kold Szn](https://open.spotify.com/album/5wpQuIHSrmQR5OkFSuDf9D) | 3:01 | 2023-02-22 | 2023-03-30 |
 | [BNB](https://open.spotify.com/track/6TYdcksDllQb7KFTpUl5Ek) | [Master Helpline](https://open.spotify.com/artist/4Zm1CD8ECx7N8Vrgk3AqUD), [Spaceboy Mercury](https://open.spotify.com/artist/2mR0GIWBegdzOpWjqoMPfI) | [Stories From Houtbay](https://open.spotify.com/album/5VigFY46G0uqityzdCastP) | 2:01 | 2023-07-26 | 2023-09-27 |

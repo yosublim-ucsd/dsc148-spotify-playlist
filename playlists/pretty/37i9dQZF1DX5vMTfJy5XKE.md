@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,347 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,367 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 38 | [The Greatest Gift](https://open.spotify.com/track/6GBYT0dqkba3xaXS5BkPKE) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [A Family Christmas](https://open.spotify.com/album/5q3BRC7sphYO3vIhAsOTFc) | 4:01 |
 | 39 | [Deck The Halls](https://open.spotify.com/track/1G9qYNrtiZjKXfjMGjMeJJ) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Deck The Halls](https://open.spotify.com/album/0grfLiNmcGd9QPyhkg8ojD) | 2:00 |
 
-Snapshot ID: `MCw1MzM1ZjVmYzNiMDZkZDI5NmI5Y2ZlZGUwZGIxZWYwN2Y3NWE3NmU2`
+Snapshot ID: `MCxmYmM1OGY2Zjc2ODYyNGFjZjc0NWE0NmYwZDczOTk3NGRiMjJlNTVm`

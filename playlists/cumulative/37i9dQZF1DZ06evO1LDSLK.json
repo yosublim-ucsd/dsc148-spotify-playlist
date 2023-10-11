@@ -165,6 +165,24 @@
     },
     {
       "album": {
+        "name": "The Bowie Years: Edits + Out-Takes",
+        "url": "https://open.spotify.com/album/15yJJuL2foCDTV9FDYSher"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 313333,
+      "name": "China Girl - Alternative Mix",
+      "url": "https://open.spotify.com/track/1K4Sp1OLeqpSJ2J1yheq3Z"
+    },
+    {
+      "album": {
         "name": "Post Pop Depression",
         "url": "https://open.spotify.com/album/5jRBK15ic9i5C8ucN5LTx1"
       },
@@ -578,7 +596,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 158400,
       "name": "I'm Going Away Smiling",
       "url": "https://open.spotify.com/track/23pV3PqMtZz0poleCOjqJg"

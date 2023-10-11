@@ -1,12 +1,12 @@
 {
   "description": "Classic songs that built the foundations of punk.",
-  "num_followers": 1538209,
+  "num_followers": 1538114,
   "original_name": "Classic Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTVhZjk0MThjYjY0NGQ3MmQyMDUwMmI1MWMzZGI5NDdmYzllODZi",
+  "snapshot_id": "MCxkNDE1YzMyOGJjMTI0MTJhNGNlYmY2MGI5MzY2ZTY4ZWQ2OGI5MTU4",
   "tracks": [
     {
       "added_at": "2022-11-28 15:26:19",
@@ -551,6 +551,22 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
+        "name": "Adolescents",
+        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
+      },
+      "artists": [
+        {
+          "name": "Adolescents",
+          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
+        }
+      ],
+      "duration_ms": 186626,
+      "name": "Amoeba",
+      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
         "name": "The Clash (Remastered)",
         "url": "https://open.spotify.com/album/49kzgMsxHU5CTeb2XmFHjo"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 120333,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5Jd6yfhjjmDxODdvYTjscz"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
-        "name": "Adolescents",
-        "url": "https://open.spotify.com/album/4qwDRyH5SwFcjyoOJKbE2d"
-      },
-      "artists": [
-        {
-          "name": "Adolescents",
-          "url": "https://open.spotify.com/artist/2sSmGd0x45FGBtjJwNBSFr"
-        }
-      ],
-      "duration_ms": 186626,
-      "name": "Amoeba",
-      "url": "https://open.spotify.com/track/1xQE0QHrmJUQweLoMB0ZWC"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -679,22 +679,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Milo Goes to College",
-        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
-      },
-      "artists": [
-        {
-          "name": "Descendents",
-          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
-        }
-      ],
-      "duration_ms": 100333,
-      "name": "Suburban Home",
-      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Bad Brains",
         "url": "https://open.spotify.com/album/4NpepcKo9rQ8nkdCB6iWMP"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 163880,
       "name": "Alternative Ulster",
       "url": "https://open.spotify.com/track/2yE3bwbhqypdsuhmv48Svn"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Milo Goes to College",
+        "url": "https://open.spotify.com/album/7ap2sARnQnkhfbUxYIEcu8"
+      },
+      "artists": [
+        {
+          "name": "Descendents",
+          "url": "https://open.spotify.com/artist/1FGH4Bh7g9W6V4fUcKZWp5"
+        }
+      ],
+      "duration_ms": 100333,
+      "name": "Suburban Home",
+      "url": "https://open.spotify.com/track/7Meu81YN9Ols2nQdbkKbbh"
     },
     {
       "added_at": "2022-11-28 15:26:19",
@@ -919,22 +919,6 @@
     {
       "added_at": "2022-11-28 15:26:19",
       "album": {
-        "name": "Tim (Expanded)",
-        "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
-      },
-      "artists": [
-        {
-          "name": "The Replacements",
-          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
-        }
-      ],
-      "duration_ms": 218066,
-      "name": "Bastards of Young - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
-    },
-    {
-      "added_at": "2022-11-28 15:26:19",
-      "album": {
         "name": "Spurts: The Richard Hell Story (2013 Remaster)",
         "url": "https://open.spotify.com/album/0nejx6WUKHja3fesKClRCF"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 167840,
       "name": "Blank Generation - 2013 Remaster",
       "url": "https://open.spotify.com/track/5OGfBbWmRRkDiZiJbu5WIr"
+    },
+    {
+      "added_at": "2022-11-28 15:26:19",
+      "album": {
+        "name": "Tim (Expanded)",
+        "url": "https://open.spotify.com/album/47arM25GJraK9aWEk4A1Ve"
+      },
+      "artists": [
+        {
+          "name": "The Replacements",
+          "url": "https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3"
+        }
+      ],
+      "duration_ms": 218066,
+      "name": "Bastards of Young - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0ritgEzDOsxbd2IfYX96S9"
     },
     {
       "added_at": "2022-11-28 15:26:19",

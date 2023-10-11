@@ -1,12 +1,12 @@
 {
   "description": "As belas novidades da MPB. Foto: Roberta Campos",
-  "num_followers": 346287,
+  "num_followers": 346325,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5NjZmN2M1NzA3M2M5MTc2MGIwYjNmMWYwNzliZmJhMmY2MmI5YTEy",
+  "snapshot_id": "MCxhMjZmMGM5YTIwZDUwYjFjODQ3YjA5MmRkNmUxMzRiZGRhZTNjYjdl",
   "tracks": [
     {
       "added_at": "2023-10-09 16:14:41",
@@ -471,22 +471,22 @@
     {
       "added_at": "2023-10-09 16:14:41",
       "album": {
-        "name": "Lisboa",
-        "url": "https://open.spotify.com/album/4iGkVt85kQ6mnNa2hDzuBI"
+        "name": "Farol",
+        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
       },
       "artists": [
         {
-          "name": "Paulo Novaes",
-          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
+          "name": "Maria Luiza Jobim",
+          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
         },
         {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+          "name": "Otto",
+          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
         }
       ],
-      "duration_ms": 222186,
-      "name": "Lisboa",
-      "url": "https://open.spotify.com/track/4Q79hNZOvRHN3bVt8Tf7s6"
+      "duration_ms": 145191,
+      "name": "Farol",
+      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -511,22 +511,22 @@
     {
       "added_at": "2023-10-09 16:14:41",
       "album": {
-        "name": "Farol",
-        "url": "https://open.spotify.com/album/1hcsinjslpOIa1RXhICO7Z"
+        "name": "Lisboa",
+        "url": "https://open.spotify.com/album/4iGkVt85kQ6mnNa2hDzuBI"
       },
       "artists": [
         {
-          "name": "Maria Luiza Jobim",
-          "url": "https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM"
+          "name": "Paulo Novaes",
+          "url": "https://open.spotify.com/artist/1Ee2vIMGWEMnEqcjJ8nKZ6"
         },
         {
-          "name": "Otto",
-          "url": "https://open.spotify.com/artist/6RMDKYDCMydPFG3scpEqjK"
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
         }
       ],
-      "duration_ms": 145191,
-      "name": "Farol",
-      "url": "https://open.spotify.com/track/05kSoelsyqTfXeVV1xIXv4"
+      "duration_ms": 222186,
+      "name": "Lisboa",
+      "url": "https://open.spotify.com/track/4Q79hNZOvRHN3bVt8Tf7s6"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -763,26 +763,6 @@
     {
       "added_at": "2023-10-09 16:14:41",
       "album": {
-        "name": "Pago Pra Ver",
-        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
-      },
-      "artists": [
-        {
-          "name": "Roberta S\u00e1",
-          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 272559,
-      "name": "Pago Pra Ver",
-      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
         "name": "Paula e Bebeto",
         "url": "https://open.spotify.com/album/0uiSAseDeXMBFIjAUAqQ87"
       },
@@ -819,6 +799,26 @@
     {
       "added_at": "2023-10-09 16:14:41",
       "album": {
+        "name": "Pago Pra Ver",
+        "url": "https://open.spotify.com/album/0NBS6JybiWavZoRw4vgwOD"
+      },
+      "artists": [
+        {
+          "name": "Roberta S\u00e1",
+          "url": "https://open.spotify.com/artist/4vKCAkbdulcqatglgbi5CG"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 272559,
+      "name": "Pago Pra Ver",
+      "url": "https://open.spotify.com/track/51i39xBUMKudsDCPqjQF1h"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
         "name": "alma doce",
         "url": "https://open.spotify.com/album/43oxXXEyDxbwlS0modn0cW"
       },
@@ -831,6 +831,22 @@
       "duration_ms": 169915,
       "name": "o sabi\u00e1 e a lua",
       "url": "https://open.spotify.com/track/0dEaMNjKjyLxY17M4lG1b9"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
+        "name": "Caravana Sair\u00e9",
+        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
+      },
+      "artists": [
+        {
+          "name": "Marcelo Jeneci",
+          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
+        }
+      ],
+      "duration_ms": 240834,
+      "name": "Lembran\u00e7a de um Beijo",
+      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -851,22 +867,6 @@
       "duration_ms": 163426,
       "name": "Faz Parte Do Meu Show",
       "url": "https://open.spotify.com/track/2c9cy32pkhuznDXIN0eWMG"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
-        "name": "Caravana Sair\u00e9",
-        "url": "https://open.spotify.com/album/4KZHY52Q67UeZC7m2Cq7UX"
-      },
-      "artists": [
-        {
-          "name": "Marcelo Jeneci",
-          "url": "https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE"
-        }
-      ],
-      "duration_ms": 240834,
-      "name": "Lembran\u00e7a de um Beijo",
-      "url": "https://open.spotify.com/track/3sGadeoCGNzZ997jhrkgiL"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -1219,62 +1219,6 @@
     {
       "added_at": "2023-10-09 16:14:41",
       "album": {
-        "name": "A M\u00fasica de Tom",
-        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
-      },
-      "artists": [
-        {
-          "name": "Ayrton Montarroyos",
-          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
-        },
-        {
-          "name": "Cain\u00e3 Cavalcante",
-          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
-        }
-      ],
-      "duration_ms": 185691,
-      "name": "Eu Sei Que Vou Te Amar",
-      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
-        "name": "desculpe o au\u00ea",
-        "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
-      },
-      "artists": [
-        {
-          "name": "Belle Lune",
-          "url": "https://open.spotify.com/artist/37kiKpzwo3ERmon9VTN86h"
-        },
-        {
-          "name": "Fl\u00e1via Felicio",
-          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
-        }
-      ],
-      "duration_ms": 178867,
-      "name": "desculpe o au\u00ea",
-      "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
-        "name": "Morena Bonita",
-        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
-      },
-      "artists": [
-        {
-          "name": "Anna Setton",
-          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
-        }
-      ],
-      "duration_ms": 179517,
-      "name": "Morena Bonita",
-      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
         "name": "O que restou da Maravilha",
         "url": "https://open.spotify.com/album/3wNYTUaJuK5e4XQDP1V115"
       },
@@ -1299,6 +1243,62 @@
     {
       "added_at": "2023-10-09 16:14:41",
       "album": {
+        "name": "desculpe o au\u00ea",
+        "url": "https://open.spotify.com/album/7rgBUsjxNkW8UhXQ0OFOKu"
+      },
+      "artists": [
+        {
+          "name": "Belle Lune",
+          "url": "https://open.spotify.com/artist/37kiKpzwo3ERmon9VTN86h"
+        },
+        {
+          "name": "Fl\u00e1via Felicio",
+          "url": "https://open.spotify.com/artist/18NAwbvTOm9hTFYcEiG2Xf"
+        }
+      ],
+      "duration_ms": 178867,
+      "name": "desculpe o au\u00ea",
+      "url": "https://open.spotify.com/track/6jCMnAiCyLMugJtcDUGYKY"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
+        "name": "A M\u00fasica de Tom",
+        "url": "https://open.spotify.com/album/5hjn2o1Iqbai6cucACfQAN"
+      },
+      "artists": [
+        {
+          "name": "Ayrton Montarroyos",
+          "url": "https://open.spotify.com/artist/4wjq6jnuXsDYcK1fGztL6h"
+        },
+        {
+          "name": "Cain\u00e3 Cavalcante",
+          "url": "https://open.spotify.com/artist/5p0Jm46smk1qSCdQhzYTzg"
+        }
+      ],
+      "duration_ms": 185691,
+      "name": "Eu Sei Que Vou Te Amar",
+      "url": "https://open.spotify.com/track/0PV0a0DewOdjcMJLOka6pz"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
+        "name": "Morena Bonita",
+        "url": "https://open.spotify.com/album/3SrB4JGQMMwvBfeHjoy3p0"
+      },
+      "artists": [
+        {
+          "name": "Anna Setton",
+          "url": "https://open.spotify.com/artist/7er8R2Few8v9jYtIY2vh9L"
+        }
+      ],
+      "duration_ms": 179517,
+      "name": "Morena Bonita",
+      "url": "https://open.spotify.com/track/5xMM1Dlkw74HHXtRHn3bc9"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
         "name": "Serafim",
         "url": "https://open.spotify.com/album/4if09XvMdG2vNncgwcZwpD"
       },
@@ -1311,6 +1311,22 @@
       "duration_ms": 300028,
       "name": "Serafim",
       "url": "https://open.spotify.com/track/6U5KA2ixrIUSpISQwaH6In"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
+        "name": "Pra lhe Dizer",
+        "url": "https://open.spotify.com/album/2FCd8bsBEd34LSKEVci8o8"
+      },
+      "artists": [
+        {
+          "name": "Adriana Calcanhotto",
+          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
+        }
+      ],
+      "duration_ms": 290141,
+      "name": "Pra lhe Dizer",
+      "url": "https://open.spotify.com/track/2wmLzpkFjqwVNXrAck7i5D"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -1331,22 +1347,6 @@
       "duration_ms": 165815,
       "name": "Regra Tr\u00eas",
       "url": "https://open.spotify.com/track/31P41KIR8XuaRnBw0IMswD"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
-        "name": "Pra lhe Dizer",
-        "url": "https://open.spotify.com/album/2FCd8bsBEd34LSKEVci8o8"
-      },
-      "artists": [
-        {
-          "name": "Adriana Calcanhotto",
-          "url": "https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi"
-        }
-      ],
-      "duration_ms": 290141,
-      "name": "Pra lhe Dizer",
-      "url": "https://open.spotify.com/track/2wmLzpkFjqwVNXrAck7i5D"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -1399,6 +1399,26 @@
       "duration_ms": 319000,
       "name": "Papel Mach\u00ea",
       "url": "https://open.spotify.com/track/4LLd9bypGJLoHO0mK1twcn"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
+        "name": "Nascedouro",
+        "url": "https://open.spotify.com/album/5zY0QtFtAAxBlulHW7cadg"
+      },
+      "artists": [
+        {
+          "name": "Pastoras do Ros\u00e1rio",
+          "url": "https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 200707,
+      "name": "Nascedouro",
+      "url": "https://open.spotify.com/track/0zYLUIY3Snbs5NveQwsZzr"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -1507,26 +1527,6 @@
       "duration_ms": 196614,
       "name": "Alagados",
       "url": "https://open.spotify.com/track/4tFVcNSN26d2OSWSlOxRIf"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
-        "name": "Nascedouro",
-        "url": "https://open.spotify.com/album/5zY0QtFtAAxBlulHW7cadg"
-      },
-      "artists": [
-        {
-          "name": "Pastoras do Ros\u00e1rio",
-          "url": "https://open.spotify.com/artist/5Niazs4Q5CWc74ygGVUYY8"
-        },
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        }
-      ],
-      "duration_ms": 200707,
-      "name": "Nascedouro",
-      "url": "https://open.spotify.com/track/0zYLUIY3Snbs5NveQwsZzr"
     },
     {
       "added_at": "2023-10-09 16:14:41",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2023-10-09 16:14:41",
       "album": {
-        "name": "Entre A Flor E A Cruz",
-        "url": "https://open.spotify.com/album/0bxLC1puu2VPrYP5Cj4au6"
-      },
-      "artists": [
-        {
-          "name": "Banda De Pau E Corda",
-          "url": "https://open.spotify.com/artist/1HAx9lBHiu7Bejp0laOP32"
-        },
-        {
-          "name": "Lenine",
-          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
-        }
-      ],
-      "duration_ms": 211419,
-      "name": "Moer Cana",
-      "url": "https://open.spotify.com/track/1B0BzQySBv9BgtxBORXZcJ"
-    },
-    {
-      "added_at": "2023-10-09 16:14:41",
-      "album": {
         "name": "Cidade Trov\u00e3o",
         "url": "https://open.spotify.com/album/2F1D7j62YB9uAIFVCKknVC"
       },
@@ -1839,6 +1819,26 @@
       "duration_ms": 184517,
       "name": "Cidade Trov\u00e3o",
       "url": "https://open.spotify.com/track/2A5TUnEDlJX2JJiwvQe81W"
+    },
+    {
+      "added_at": "2023-10-09 16:14:41",
+      "album": {
+        "name": "Entre A Flor E A Cruz",
+        "url": "https://open.spotify.com/album/0bxLC1puu2VPrYP5Cj4au6"
+      },
+      "artists": [
+        {
+          "name": "Banda De Pau E Corda",
+          "url": "https://open.spotify.com/artist/1HAx9lBHiu7Bejp0laOP32"
+        },
+        {
+          "name": "Lenine",
+          "url": "https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C"
+        }
+      ],
+      "duration_ms": 211419,
+      "name": "Moer Cana",
+      "url": "https://open.spotify.com/track/1B0BzQySBv9BgtxBORXZcJ"
     },
     {
       "added_at": "2023-10-09 16:14:41",

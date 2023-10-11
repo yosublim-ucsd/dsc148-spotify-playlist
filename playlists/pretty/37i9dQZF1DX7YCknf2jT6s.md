@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Dana and Alden
 
-[Spotify](https://open.spotify.com/user/spotify) - 904,018 likes - 99 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,982 likes - 99 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 98 | [Conga a la Americana](https://open.spotify.com/track/4SdIbOx6RHIYlRRnWCkeiH) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Timba a la Americana](https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C) | 3:13 |
 | 99 | [Baltimore](https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:37 |
 
-Snapshot ID: `MCw0NWY4OWFkNGRmOWZkZDBjYWQ1ZTBlN2E4ODFmZjFlMDE5NDMyOWY3`
+Snapshot ID: `MCwxMDA0NmI4ODA0YjlhYjdlMjU3ZjA4ZDNjNDEyZTU1MmIyNmIyYTgw`

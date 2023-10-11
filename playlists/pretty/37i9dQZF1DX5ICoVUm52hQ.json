@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Con las Letras de estas canciones, no querr\u00e1s soltar el micr\u00f3fono!",
-  "num_followers": 139073,
+  "num_followers": 139127,
   "original_name": "Karaoke Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NjdmZWIxMmM5ZjQ2ZDRlNWM4YzZlYTIzNDMyOWRiODQ1ZTk2YjBk",
+  "snapshot_id": "MCw0M2IyMjllYmIwNzVhNjYzNGI3OTgwNDAxNTUxMzlmZDgyOWQ4NjVk",
   "tracks": [
     {
       "added_at": "2020-10-24 04:53:42",
@@ -163,22 +163,18 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "VIDA",
-        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
+        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
       },
       "artists": [
         {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 229360,
-      "name": "Despacito",
-      "url": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"
+      "duration_ms": 221800,
+      "name": "Hasta la Ra\u00edz",
+      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
     },
     {
       "added_at": "2020-10-24 04:53:42",
@@ -199,18 +195,22 @@
     {
       "added_at": "2020-10-24 04:53:42",
       "album": {
-        "name": "Hasta la Ra\u00edz (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv"
+        "name": "VIDA",
+        "url": "https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 221800,
-      "name": "Hasta la Ra\u00edz",
-      "url": "https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf"
+      "duration_ms": 229360,
+      "name": "Despacito",
+      "url": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"
     },
     {
       "added_at": "2020-10-24 04:53:42",

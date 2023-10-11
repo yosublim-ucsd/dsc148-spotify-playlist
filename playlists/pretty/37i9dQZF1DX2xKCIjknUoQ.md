@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 
 > Le meilleur du rock français moderne\. Photo : Matmatah
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,507 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,559 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKCIjknUoQ.md) - [plain]
 | 45 | [Jouer dehors](https://open.spotify.com/track/3TVoY7A5OWdJvefHDEsfRf) | [Mademoiselle K](https://open.spotify.com/artist/5O2FUMAWxdTikjoCBAXrNI) | [Jouer dehors](https://open.spotify.com/album/5PO1wuSFiCYQZunByOqJfs) | 3:33 |
 | 46 | [Tchi Cum Bah](https://open.spotify.com/track/78thhVErKiQ6QG8n6GY1p5) | [Superbus](https://open.spotify.com/artist/3Hog7RVQ1lAv1crdfiJPLq) | [Aeromusical](https://open.spotify.com/album/6CSMQTYXVhm7FYh54tAtaF) | 2:23 |
 | 47 | [Sur un volcan](https://open.spotify.com/track/5w8bF2RGgf9PkXEoEl8SSN) | [La Maison Tellier](https://open.spotify.com/artist/41EfC0kQmOWfbW2FBGttze) | [Beauté pour tous](https://open.spotify.com/album/5Aqi0GvOzJuVGjiqQqorlH) | 3:05 |
-| 48 | [Anomalie](https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Anomalie](https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf) | 3:09 |
-| 49 | [L'Iditenté](https://open.spotify.com/track/0YfbfdutOwXknxNIY1qwJ4) | [Têtes Raides](https://open.spotify.com/artist/2omAWwH1ZV9JYIyfMUQSgG) | [Gratte Poil](https://open.spotify.com/album/2EiCXoPHAd5D9t6y8hwQ0m) | 4:26 |
+| 48 | [L'Iditenté](https://open.spotify.com/track/0YfbfdutOwXknxNIY1qwJ4) | [Têtes Raides](https://open.spotify.com/artist/2omAWwH1ZV9JYIyfMUQSgG) | [Gratte Poil](https://open.spotify.com/album/2EiCXoPHAd5D9t6y8hwQ0m) | 4:26 |
+| 49 | [Anomalie](https://open.spotify.com/track/4lzxPainD9ovAzAAAeXoqs) | [Louise Attaque](https://open.spotify.com/artist/4CAsSAU842glNKJX71ndA9) | [Anomalie](https://open.spotify.com/album/7BpAbYt9NzfXUOUlniH9Qf) | 3:09 |
 | 50 | [So Much Trouble](https://open.spotify.com/track/0o9SvDBP6RblnFQYoj2ZGn) | [Izïa](https://open.spotify.com/artist/6T08mUIMB32dtqq5ryxQZ3) | [So Much Trouble](https://open.spotify.com/album/6IehctLdSng0qBqvDV5suy) | 4:02 |
 
-Snapshot ID: `MCw1N2IwNmI5NGIzOWU5NTk0OTIxZjM2MjVkZGJiMjgzNjFlZjA0YWE4`
+Snapshot ID: `MCxiZTJmMzJmMTM5ZDMxMTI2Njg2YmUyNmJmZDdjNTcwNDdkOGYyNmY1`

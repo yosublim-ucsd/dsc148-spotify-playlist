@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Nines \(pictured\), Kenya Grace, Tems and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,537 likes - 130 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,504 likes - 130 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -118,7 +118,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 108 | [I LUV MY LIFE](https://open.spotify.com/track/6FhiHZH9IOxLOWZnpO6AOJ) | [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ), [Jason Kwan](https://open.spotify.com/artist/6wy50ZiJ5BfTmEusgYQhX3), [iamkyami](https://open.spotify.com/artist/65m2oSongX6P3iLDeI57U0), [Tascha Jerawan](https://open.spotify.com/artist/0D3PwMT9TYck0jZRTX2cME), [Vishal Chopra](https://open.spotify.com/artist/01GItcv9Ci5mrLEAQ08n11), [Lucy Tun](https://open.spotify.com/artist/6OtMoXdFTNYbPwyx1M6Yk6) | [I LUV MY LIFE](https://open.spotify.com/album/2rFvdojoWmwPUsKgQHqn15) | 2:46 |
 | 109 | [Hard Time Special](https://open.spotify.com/track/1r7f0uMhwCheAukTimkXmB) | [Kiko Bun](https://open.spotify.com/artist/7yMruV2Y0a7ib9RLj9mLQQ) | [Hard Time Special](https://open.spotify.com/album/03TA050D42p82Q6kp8GRSV) | 3:27 |
 | 110 | [Freedom \(In Ur Mind\)](https://open.spotify.com/track/1eUW1kuvyCq6oFUXNLIumU) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Freedom \(In Ur Mind\)](https://open.spotify.com/album/3GRl72NOdFsZt7N55tGeS8) | 2:54 |
-| 111 | [good things 2 \(with tana\)](https://open.spotify.com/track/6A8z1ijn6ttUSg9Hy4Y1nr) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [tana](https://open.spotify.com/artist/4QZVVLf3qrubL7BI5cbcIG) | [good things 2 \(with tana\)](https://open.spotify.com/album/2N3S0h8qgKOpHAUkAcpNgY) | 2:54 |
+| 111 | [good things 2 \(with tana\)](https://open.spotify.com/track/6A8z1ijn6ttUSg9Hy4Y1nr) | [skaiwater](https://open.spotify.com/artist/1URVdcNYXigvk6Dj0fHYOM), [tana](https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV) | [good things 2 \(with tana\)](https://open.spotify.com/album/2N3S0h8qgKOpHAUkAcpNgY) | 2:54 |
 | 112 | [What Do You Do](https://open.spotify.com/track/0iBSGgQlxkHAiUlvmenG1f) | [Nia Wyn](https://open.spotify.com/artist/6llDm40EBFJNERFGyWn2wH) | [What Do You Do](https://open.spotify.com/album/6YdUUHoGvNTMHeTcNYYHmq) | 3:13 |
 | 113 | [Making It Up](https://open.spotify.com/track/4LQQ33skYz3CD4WQcxAsgX) | [Frozemode](https://open.spotify.com/artist/2BhOQjsvbHRatFkBLkjmu5) | [Making It Up](https://open.spotify.com/album/4VeAXGYynwCOFhsal5n8L1) | 3:16 |
 | 114 | [These Cards](https://open.spotify.com/track/0jMNhce70CDeKJLA0Tcz1x) | [Tyler Daley](https://open.spotify.com/artist/4RZ0xAhQmDexe49EAe28hr), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [These Cards](https://open.spotify.com/album/6t49jMdJE8wsp27UBOCbnL) | 3:09 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 129 | [give it to me](https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE) | [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f) | [give it to me](https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt) | 2:45 |
 | 130 | [Wrong](https://open.spotify.com/track/5xrW5jzKsnDAHPH12XSAyw) | [Hotgirl](https://open.spotify.com/artist/5PJ3v1rMpMsDS4UogImlis) | [Wrong](https://open.spotify.com/album/4sJFz2cCDGchd6Muns7o4T) | 5:20 |
 
-Snapshot ID: `MCw4NTVjOWI1NDllYTM5NjRmNjIxMmMwMGRiMjNkN2NhZmU2M2IxMjYz`
+Snapshot ID: `MCw5NjdmYzcyM2YxNjQzOWEyNTJiYWE5ZjFjNzQzMTZmNmMyMzJiMzYw`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 
 > Chaos in electronic form.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,869 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,931 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 3 | [Metropole](https://open.spotify.com/track/4CuUaiTclsHkpsYTfS7g0J) | [Stone Giants](https://open.spotify.com/artist/6Z9PPhoezsXDDnYdrF8HxI), [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [West Coast Love Stories](https://open.spotify.com/album/5wQIX8UTy8aPbxUnen3324) | 3:40 |
 | 4 | [E70 No\. 01](https://open.spotify.com/track/01iglyLhCYZYlCqAxY8Vfz) | [Scott Gilmore](https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN) | [Subtle Vertigo](https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH) | 2:42 |
 | 5 | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/track/5c56mfcwKfh788koF3CCRy) | [Nina Keith](https://open.spotify.com/artist/1nuCYFGzi0e4xb8lE18m2i), [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g), [Qur'an Shaheed](https://open.spotify.com/artist/6zYf3M745APT179QsjrlB4) | [Blow Up Yr Life \(U Need To\)](https://open.spotify.com/album/0Hn0apOsWV86eg8YDjsMAB) | 4:46 |
-| 6 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
+| 6 | [Eden Transit](https://open.spotify.com/track/16q8cwecGhHKGGiwTnkutf) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Hiraeth](https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv) | 4:15 |
 | 7 | [Of Air](https://open.spotify.com/track/11dsa1I6VKaJbbtUw2a9HG) | [Lecx Stacy](https://open.spotify.com/artist/3hf2fbkCVahsazNW73SovO), [Clams Casino](https://open.spotify.com/artist/5vSQUyT33qxr1xAX2Tkf3A) | [Of Air](https://open.spotify.com/album/0mo9eadPkxiwJc2UavuFTX) | 3:08 |
-| 8 | [Eden Transit](https://open.spotify.com/track/16q8cwecGhHKGGiwTnkutf) | [猫 シ Corp.](https://open.spotify.com/artist/4eYVVrnphe4blxWuzahYQE) | [Hiraeth](https://open.spotify.com/album/6VFTvpLVvfzUTMtNBloDEv) | 4:15 |
+| 8 | [Barcarolle](https://open.spotify.com/track/5yTYVsQPA7ujLOANcjdDTW) | [Saloli](https://open.spotify.com/artist/6tZ3TVCfSW7ZuoPovDYKWj) | [The Deep End](https://open.spotify.com/album/3Fwmzb3B5GXy6aUWfFEFXm) | 4:42 |
 | 9 | [On a Hilltop Sat the Moon](https://open.spotify.com/track/3182ZGsY58yGqlr1BJZBgZ) | [Amon Tobin](https://open.spotify.com/artist/3mvkWMe6swnknwscwvGCHO) | [Fear in a Handful of Dust](https://open.spotify.com/album/5JntKJacrklh6D69IsETO7) | 3:36 |
 | 10 | [Internet Dump](https://open.spotify.com/track/5xXab44aWtEqltnKl3mTlD) | [Neukrapsio](https://open.spotify.com/artist/61Z4ARbgYmgk3nsXcyazoa), [Miss Ayesha](https://open.spotify.com/artist/3aJK7LhPLg4rDr6hTbABzZ) | [Internet Dump](https://open.spotify.com/album/4Gml4rYNKgY0bpXKLG6GSW) | 2:06 |
 | 11 | [Unfinished Business](https://open.spotify.com/track/7xB6q501pjADLOIBO55NPp) | [Hong Kong Express](https://open.spotify.com/artist/5kanrcJl2KaWNzmrIT58vf) | [Hong Kong Express](https://open.spotify.com/album/1NPtLS8zjq1Z6giQzAJtiB) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVF0pvJ1YrL7.md) - [plain]
 | 49 | [New Planet](https://open.spotify.com/track/1oU8JXQGiir9KBnmC46qX8) | [Ford & Lopatin](https://open.spotify.com/artist/3eTOYD8UyQa3MalrtkyKha) | [Channel Pressure](https://open.spotify.com/album/0IukYhktfvsurQ1ojVNs1Z) | 3:22 |
 | 50 | [Coris](https://open.spotify.com/track/1G5b1MCRsBsC9T53vv5SH9) | [OVSICORI](https://open.spotify.com/artist/0MVM5Khj39EkpVtLvU9Ujp) | [Bucle](https://open.spotify.com/album/0e2ihe6UiQ1SL73u98L98b) | 7:00 |
 
-Snapshot ID: `MCw4ZTQ5NWIwMTI1MjQ1YTE1OThjYThmYmZhODRmNmNkMmI0MTM0N2Jk`
+Snapshot ID: `MCwwMmRhOTc4OGQxMzRmOTIzMTA0M2Q1NmNmMGFmNmYxNGUxMDE4ZGQ2`

@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs Pop Hits Maghr\u00e9bins sont ici. Cover: Zouhair Bahaoui, Hind Ziadi",
-  "num_followers": 57650,
+  "num_followers": 57725,
   "original_name": "Top Maghreb Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YTM0YmQwNzA0ZGM4ZGY1ODQ2NjE4MTcwODE0YjQzM2RkMGExZmQ1",
+  "snapshot_id": "MCw3MDBmNDIxZmQyYzg0MGY2YWQwZmJhZmI2ZjNkZjNhYjQ1ZTY0N2Q4",
   "tracks": [
     {
       "added_at": "2023-10-05 11:08:59",
@@ -75,22 +75,6 @@
       "duration_ms": 204705,
       "name": "Ness Lil",
       "url": "https://open.spotify.com/track/07F2Rm83gNLKwiBi2ucRep"
-    },
-    {
-      "added_at": "2023-10-05 11:08:59",
-      "album": {
-        "name": "Beniya",
-        "url": "https://open.spotify.com/album/29DCRNBzkwiHXiP5tU4cCl"
-      },
-      "artists": [
-        {
-          "name": "Leil",
-          "url": "https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3"
-        }
-      ],
-      "duration_ms": 239166,
-      "name": "Beniya",
-      "url": "https://open.spotify.com/track/0tqpU9lkMNcFXXAqKYyAof"
     },
     {
       "added_at": "2023-10-05 11:08:59",
@@ -191,22 +175,6 @@
     {
       "added_at": "2023-10-05 11:08:59",
       "album": {
-        "name": "Symphonia",
-        "url": "https://open.spotify.com/album/4QZfpbH0dWrsNxAXlB04m3"
-      },
-      "artists": [
-        {
-          "name": "Abdeelgha4",
-          "url": "https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv"
-        }
-      ],
-      "duration_ms": 204444,
-      "name": "Symphonia",
-      "url": "https://open.spotify.com/track/0FMWWmtZ5PlOKuhtXVeaoD"
-    },
-    {
-      "added_at": "2023-10-05 11:08:59",
-      "album": {
         "name": "Mchat Alik",
         "url": "https://open.spotify.com/album/4S2EP0CL35nPg3fij4y9gJ"
       },
@@ -251,6 +219,22 @@
       "duration_ms": 188865,
       "name": "Jayeb Khbari",
       "url": "https://open.spotify.com/track/7g6MW822UoLSQCFrSXUZCI"
+    },
+    {
+      "added_at": "2023-10-05 11:08:59",
+      "album": {
+        "name": "Beniya",
+        "url": "https://open.spotify.com/album/29DCRNBzkwiHXiP5tU4cCl"
+      },
+      "artists": [
+        {
+          "name": "Leil",
+          "url": "https://open.spotify.com/artist/1qSYFEqGFLFOACQJqebin3"
+        }
+      ],
+      "duration_ms": 239166,
+      "name": "Beniya",
+      "url": "https://open.spotify.com/track/0tqpU9lkMNcFXXAqKYyAof"
     },
     {
       "added_at": "2023-10-05 11:08:59",
@@ -315,6 +299,22 @@
       "duration_ms": 166624,
       "name": "Andak - \u0639\u0646\u062f\u0627\u0643",
       "url": "https://open.spotify.com/track/55ImWS9DvTTw0j4enHTbBx"
+    },
+    {
+      "added_at": "2023-10-05 11:08:59",
+      "album": {
+        "name": "Symphonia",
+        "url": "https://open.spotify.com/album/4QZfpbH0dWrsNxAXlB04m3"
+      },
+      "artists": [
+        {
+          "name": "Abdeelgha4",
+          "url": "https://open.spotify.com/artist/714WB17jXnpvAmSRQJpYGv"
+        }
+      ],
+      "duration_ms": 204444,
+      "name": "Symphonia",
+      "url": "https://open.spotify.com/track/0FMWWmtZ5PlOKuhtXVeaoD"
     },
     {
       "added_at": "2023-10-05 11:08:59",

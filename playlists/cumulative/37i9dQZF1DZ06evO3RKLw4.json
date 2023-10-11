@@ -1449,6 +1449,24 @@
     },
     {
       "album": {
+        "name": "Let The Dominoes Fall (Expanded Version)",
+        "url": "https://open.spotify.com/album/3YKr1OXFNxd2hWu106Ty93"
+      },
+      "artists": [
+        {
+          "name": "Rancid",
+          "url": "https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 96680,
+      "name": "You Want It, You Got It",
+      "url": "https://open.spotify.com/track/3hzmVSQbFf36B0792LLxcj"
+    },
+    {
+      "album": {
         "name": "Rancid (5)",
         "url": "https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw"
       },

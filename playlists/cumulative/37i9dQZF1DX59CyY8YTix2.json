@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Japanese female rock icons. Cover: SCANDAL",
+  "description": "\u56fd\u5185\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3067\u6d3b\u8e8d\u3059\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u305f\u3061\u3092\u7279\u96c6\u3002Japanese female rock icons. Cover: Chilli Beans.",
   "name": "She Rocks",
   "tracks": [
     {
@@ -954,6 +954,24 @@
       "duration_ms": 228684,
       "name": "BEER DE GO (feat.\u6751\u91cc\u674f)",
       "url": "https://open.spotify.com/track/4wQDpYHC9Bb2hZM2G7OZQj"
+    },
+    {
+      "album": {
+        "name": "Believer -cover",
+        "url": "https://open.spotify.com/album/31jgyEhHy7NJAAAtkXyjmW"
+      },
+      "artists": [
+        {
+          "name": "\u82b1\u51b7\u3048\u3002",
+          "url": "https://open.spotify.com/artist/4N2I7VsF86h59tbsvVoB1h"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202428,
+      "name": "Believer -cover",
+      "url": "https://open.spotify.com/track/3PkLD9cDSN89Y5sxvqHNdl"
     },
     {
       "album": {
@@ -2728,7 +2746,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 188473,
       "name": "Ghost Town",
       "url": "https://open.spotify.com/track/2sJZU9wjC3CnUPW3hPAb3i"
@@ -3728,6 +3746,24 @@
       "duration_ms": 264450,
       "name": "i care",
       "url": "https://open.spotify.com/track/0IBP1gSpcGwj5ohApd2gqa"
+    },
+    {
+      "album": {
+        "name": "I like you",
+        "url": "https://open.spotify.com/album/3fDyWpBQokx5FuzPIKeQOF"
+      },
+      "artists": [
+        {
+          "name": "Chilli Beans.",
+          "url": "https://open.spotify.com/artist/48apiuEaHdddhdRvfFjPB7"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "I like you",
+      "url": "https://open.spotify.com/track/3RJRPo3N1StuAjAjJqacYk"
     },
     {
       "album": {
@@ -7600,7 +7636,7 @@
       ],
       "date_added": "2022-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 230553,
       "name": "School",
       "url": "https://open.spotify.com/track/4aFusxXDOfQyzSKlC2fg5b"
@@ -13914,7 +13950,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 215214,
       "name": "\u30cf\u30a4\u30ad",
       "url": "https://open.spotify.com/track/571OuDNbmwsysH42KfVp5P"
@@ -18388,6 +18424,24 @@
       "duration_ms": 189453,
       "name": "\u66b4\u9732",
       "url": "https://open.spotify.com/track/7Moykyl5fw6tqXdjW4MFye"
+    },
+    {
+      "album": {
+        "name": "\u66f4\u8863\u5ba4\u30c7\u30a3\u30b9\u30c8\u30d4\u30a2",
+        "url": "https://open.spotify.com/album/1lMcGC8tL5QEGIFCNrXexL"
+      },
+      "artists": [
+        {
+          "name": "Seiko Oomori",
+          "url": "https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256465,
+      "name": "\u66f4\u8863\u5ba4\u30c7\u30a3\u30b9\u30c8\u30d4\u30a2",
+      "url": "https://open.spotify.com/track/7K1pvJmrvgKuC0TMW73Wgi"
     },
     {
       "album": {

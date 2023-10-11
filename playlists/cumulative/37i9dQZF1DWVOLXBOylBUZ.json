@@ -7275,6 +7275,32 @@
     },
     {
       "album": {
+        "name": "KLKNTOKI",
+        "url": "https://open.spotify.com/album/7gESv8nqIStiWMjTT4C4Wc"
+      },
+      "artists": [
+        {
+          "name": "Nath",
+          "url": "https://open.spotify.com/artist/3fzFGIFcpHenYRfbnGf0JE"
+        },
+        {
+          "name": "Pirlo",
+          "url": "https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11"
+        },
+        {
+          "name": "Cheztom",
+          "url": "https://open.spotify.com/artist/5DJQ2mf4W5JFyjLt4KdEQn"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201649,
+      "name": "KLKNTOKI",
+      "url": "https://open.spotify.com/track/6KaezqeYEakCN6jq5a7T1w"
+    },
+    {
+      "album": {
         "name": "LUNA AZUL EN TOKYO",
         "url": "https://open.spotify.com/album/2dyTu05BXJnUY9YFIoZprR"
       },
@@ -12348,7 +12374,7 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 170624,
       "name": "Remember Me",
       "url": "https://open.spotify.com/track/7LknbZPcWVDMb6VLDI01MY"

@@ -1,12 +1,12 @@
 {
   "description": "\u8a71\u984c\u306e\u30ed\u30c3\u30af\u30d2\u30c3\u30c8\u3092Volume\u4e0a\u3052\u3066\u7206\u97f3\u3067\u3002Cover: Paramore",
-  "num_followers": 45864,
+  "num_followers": 45872,
   "original_name": "Rock The World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2IzMTlmMzM5NWE2NjcyMDk5MDU5NmI2YTFiYmU4NzI0ZDMzYjMw",
+  "snapshot_id": "MCxlNGZjNWU5YWY4YTYzMzQxN2VkNTRiN2ZhMzgxN2VmN2UxMWIzNjE1",
   "tracks": [
     {
       "added_at": "2023-10-05 15:00:00",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-10-05 15:00:00",
       "album": {
-        "name": "Blame Brett",
-        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
+        "name": "A Little Bit Happy",
+        "url": "https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh"
       },
       "artists": [
         {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+          "name": "TALK",
+          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
         }
       ],
-      "duration_ms": 176005,
-      "name": "Blame Brett",
-      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
+      "duration_ms": 195278,
+      "name": "A Little Bit Happy",
+      "url": "https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt"
     },
     {
       "added_at": "2023-10-05 15:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-10-05 15:00:00",
       "album": {
-        "name": "A Little Bit Happy",
-        "url": "https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh"
+        "name": "Dead Club City",
+        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
       },
       "artists": [
         {
-          "name": "TALK",
-          "url": "https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 195278,
-      "name": "A Little Bit Happy",
-      "url": "https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt"
+      "duration_ms": 214723,
+      "name": "Overcome",
+      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
     },
     {
       "added_at": "2023-10-05 15:00:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-10-05 15:00:00",
       "album": {
-        "name": "Dead Club City",
-        "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
+        "name": "Blame Brett",
+        "url": "https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
         }
       ],
-      "duration_ms": 214723,
-      "name": "Overcome",
-      "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
+      "duration_ms": 176005,
+      "name": "Blame Brett",
+      "url": "https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA"
     },
     {
       "added_at": "2023-10-05 15:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2023-10-05 15:00:00",
       "album": {
+        "name": "Normal People Things",
+        "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 164844,
+      "name": "Normal People Things",
+      "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
+    },
+    {
+      "added_at": "2023-10-05 15:00:00",
+      "album": {
         "name": "So Much (For) Stardust",
         "url": "https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 215601,
       "name": "Hold Me Like a Grudge",
       "url": "https://open.spotify.com/track/7LJETXmpThAx6IvUzczYNR"
-    },
-    {
-      "added_at": "2023-10-05 15:00:00",
-      "album": {
-        "name": "Jaded",
-        "url": "https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 262631,
-      "name": "Jaded",
-      "url": "https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE"
     },
     {
       "added_at": "2023-10-05 15:00:00",
@@ -1299,18 +1299,18 @@
     {
       "added_at": "2023-10-05 15:00:00",
       "album": {
-        "name": "Your Side of Town",
-        "url": "https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC"
+        "name": "Jaded",
+        "url": "https://open.spotify.com/album/3bYrjYgEAEWCbgawd17dif"
       },
       "artists": [
         {
-          "name": "The Killers",
-          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
         }
       ],
-      "duration_ms": 187653,
-      "name": "Your Side of Town",
-      "url": "https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9"
+      "duration_ms": 262631,
+      "name": "Jaded",
+      "url": "https://open.spotify.com/track/1ZdDr1zM46JxFu2ugQc1mE"
     },
     {
       "added_at": "2023-10-05 15:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-10-05 15:00:00",
       "album": {
-        "name": "Bug Like an Angel",
-        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
+        "name": "Your Side of Town",
+        "url": "https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC"
       },
       "artists": [
         {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+          "name": "The Killers",
+          "url": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
         }
       ],
-      "duration_ms": 212333,
-      "name": "Bug Like an Angel",
-      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
+      "duration_ms": 187653,
+      "name": "Your Side of Town",
+      "url": "https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9"
     },
     {
       "added_at": "2023-10-05 15:00:00",
@@ -1359,6 +1359,38 @@
       "duration_ms": 161206,
       "name": "faceplant",
       "url": "https://open.spotify.com/track/1iJerx3GyIFeoQswhthnc0"
+    },
+    {
+      "added_at": "2023-10-05 15:00:00",
+      "album": {
+        "name": "Bug Like an Angel",
+        "url": "https://open.spotify.com/album/6Nrv8yzcvGdKfmAcIxuV1A"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "Bug Like an Angel",
+      "url": "https://open.spotify.com/track/7JXl7bdGiIuSlRKAVoZopE"
+    },
+    {
+      "added_at": "2023-10-05 15:00:00",
+      "album": {
+        "name": "Let It Burn",
+        "url": "https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 206092,
+      "name": "Let It Burn",
+      "url": "https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9"
     },
     {
       "added_at": "2023-10-05 15:00:00",
@@ -1387,18 +1419,18 @@
     {
       "added_at": "2023-10-05 15:00:00",
       "album": {
-        "name": "Let It Burn",
-        "url": "https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ"
+        "name": "Don't Stop Me",
+        "url": "https://open.spotify.com/album/1hZIRbIdE5NXfLin7GLO3Q"
       },
       "artists": [
         {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+          "name": "Corella",
+          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
         }
       ],
-      "duration_ms": 206092,
-      "name": "Let It Burn",
-      "url": "https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9"
+      "duration_ms": 196670,
+      "name": "Don't Stop Me",
+      "url": "https://open.spotify.com/track/0f4yOCLh56jPY5sRUYRgTZ"
     },
     {
       "added_at": "2023-10-05 15:00:00",
@@ -1419,18 +1451,18 @@
     {
       "added_at": "2023-10-05 15:00:00",
       "album": {
-        "name": "Don't Stop Me",
-        "url": "https://open.spotify.com/album/1hZIRbIdE5NXfLin7GLO3Q"
+        "name": "Walking On Ice",
+        "url": "https://open.spotify.com/album/4rzlFh4dPWc2rh7C68lDTk"
       },
       "artists": [
         {
-          "name": "Corella",
-          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+          "name": "Last Dinosaurs",
+          "url": "https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4"
         }
       ],
-      "duration_ms": 196670,
-      "name": "Don't Stop Me",
-      "url": "https://open.spotify.com/track/0f4yOCLh56jPY5sRUYRgTZ"
+      "duration_ms": 163155,
+      "name": "Walking On Ice",
+      "url": "https://open.spotify.com/track/0QpjxbyUFXkGYpBgFsza2V"
     },
     {
       "added_at": "2023-10-05 15:00:00",
@@ -1447,22 +1479,6 @@
       "duration_ms": 279133,
       "name": "Bubblegum",
       "url": "https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP"
-    },
-    {
-      "added_at": "2023-10-05 15:00:00",
-      "album": {
-        "name": "Walking On Ice",
-        "url": "https://open.spotify.com/album/4rzlFh4dPWc2rh7C68lDTk"
-      },
-      "artists": [
-        {
-          "name": "Last Dinosaurs",
-          "url": "https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4"
-        }
-      ],
-      "duration_ms": 163155,
-      "name": "Walking On Ice",
-      "url": "https://open.spotify.com/track/0QpjxbyUFXkGYpBgFsza2V"
     },
     {
       "added_at": "2023-10-05 15:00:00",
@@ -1691,22 +1707,6 @@
       "duration_ms": 166148,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli"
-    },
-    {
-      "added_at": "2023-10-05 15:00:00",
-      "album": {
-        "name": "One & Only",
-        "url": "https://open.spotify.com/album/46vi3TK1L8KjWArl67u3N9"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        }
-      ],
-      "duration_ms": 137391,
-      "name": "One & Only",
-      "url": "https://open.spotify.com/track/3lHIanYBxMNZPcRRu0WmWr"
     }
   ],
   "unique_name": "Rock The World",

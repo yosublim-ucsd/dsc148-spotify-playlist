@@ -150,7 +150,7 @@
       ],
       "date_added": "2022-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 195365,
       "name": "A Sonic Womb Pt. 3",
       "url": "https://open.spotify.com/track/5cuoT2PzaEPjfnPjoaIt2K"
@@ -608,7 +608,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 848256,
       "name": "Flowers Of Evil",
       "url": "https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m"
@@ -626,7 +626,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 243586,
       "name": "For Lise",
       "url": "https://open.spotify.com/track/5gZN21iMNI3onWDpyzdtcl"
@@ -756,7 +756,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 254800,
       "name": "If I Could",
       "url": "https://open.spotify.com/track/6ZeJG2I9SmUzTtE0zY5Iwx"
@@ -774,7 +774,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 1140857,
       "name": "Improvisation On Four Sequences Pt.1",
       "url": "https://open.spotify.com/track/3gE5fhbWGw66EdEz8OJSOW"
@@ -846,7 +846,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 258000,
       "name": "La Mer",
       "url": "https://open.spotify.com/track/3h8kKBk7Chy2LXzUhLmVAP"
@@ -954,7 +954,7 @@
       ],
       "date_added": "2022-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 286973,
       "name": "Meeting Mozart",
       "url": "https://open.spotify.com/track/0QQNf1doJ6TzGZjOGtAv7v"
@@ -1123,6 +1123,28 @@
     },
     {
       "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 478986,
+      "name": "Oceanium",
+      "url": "https://open.spotify.com/track/0sEjFNddVHkq8Wf7fWsMSh"
+    },
+    {
+      "album": {
         "name": "The Private Music Of Suzanne Ciani",
         "url": "https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy"
       },
@@ -1152,7 +1174,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-16",
+      "date_removed": null,
       "duration_ms": 216666,
       "name": "Open Seas",
       "url": "https://open.spotify.com/track/51PQWtxQ9doTVToh33gi94"
@@ -1213,6 +1235,28 @@
     },
     {
       "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236920,
+      "name": "Pinwheel",
+      "url": "https://open.spotify.com/track/7mfgr8aIEJ4Rc0ztwdNoZ3"
+    },
+    {
+      "album": {
         "name": "Pianissimo III",
         "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
       },
@@ -1264,6 +1308,28 @@
       "duration_ms": 154973,
       "name": "Rain",
       "url": "https://open.spotify.com/track/4mfLfODYehwVfHnXMlIArx"
+    },
+    {
+      "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252506,
+      "name": "Rainbow Sequence",
+      "url": "https://open.spotify.com/track/3Z9RUz3yc7VhAW3OX6l16g"
     },
     {
       "album": {
@@ -1393,6 +1459,28 @@
     },
     {
       "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199053,
+      "name": "Sonar",
+      "url": "https://open.spotify.com/track/0UDz8oHRqQEWrdN9nNeLAJ"
+    },
+    {
+      "album": {
         "name": "Soul Cruiser",
         "url": "https://open.spotify.com/album/7ydN8OWmIKaQoNLsDiQScz"
       },
@@ -1426,7 +1514,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 246293,
       "name": "Stromboli",
       "url": "https://open.spotify.com/track/7ijPcZ54DGNPRfu5DXQBc5"
@@ -1667,6 +1755,28 @@
     },
     {
       "album": {
+        "name": "Golden Apples of the Sun",
+        "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        },
+        {
+          "name": "Jonathan Fitoussi",
+          "url": "https://open.spotify.com/artist/2EuDyGDH8HMwcmWo8UzR7b"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410120,
+      "name": "Time Lapse",
+      "url": "https://open.spotify.com/track/2e9rLJNPeV9HzCNIhHaQES"
+    },
+    {
+      "album": {
         "name": "Pianissimo II",
         "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
       },
@@ -1826,7 +1936,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 201426,
       "name": "Yang Ming Shen",
       "url": "https://open.spotify.com/track/144VOxc6bRJTg0AiWQnhBj"

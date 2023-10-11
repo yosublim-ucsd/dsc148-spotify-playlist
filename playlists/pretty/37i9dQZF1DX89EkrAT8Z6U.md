@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > A mixtape for the perfect anime fight scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,529 likes - 75 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 757,076 likes - 75 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,12 +54,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 44 | [LA ESPADA](https://open.spotify.com/track/2KYNQpVdHsqC84TgJa5T7O) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe) | [LA ESPADA](https://open.spotify.com/album/251w9v57Ijs1ZCAiwW0hjs) | 2:57 |
 | 45 | [WTH](https://open.spotify.com/track/6J9UUQSQ9Vm9fh6vZgLlzu) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Suffer](https://open.spotify.com/album/4WLWbEhOq5kphrWF5oEEou) | 1:39 |
 | 46 | [MISA MISA!](https://open.spotify.com/track/2biZJ6YK8Pz1bUby8VDV3Q) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Scarlxrd](https://open.spotify.com/artist/6rYogEVj60BCIsLukpAnwr), [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [MISA MISA!](https://open.spotify.com/album/140flQ7ktV8ptZM0WmHfvV) | 1:25 |
-| 47 | [chinatown!](https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7) | [22december](https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [chinatown!](https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N) | 2:25 |
-| 48 | [She Bad](https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [She Bad](https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7) | 1:45 |
+| 47 | [She Bad](https://open.spotify.com/track/0VjBlyHOKvMwbSdMmyiFEp) | [Khantrast](https://open.spotify.com/artist/1MOetFIO4hBem9p9FVP9Jo) | [She Bad](https://open.spotify.com/album/0M6oyngsJDKXdyeuk1kTG7) | 1:45 |
+| 48 | [chinatown!](https://open.spotify.com/track/4JipCNXiKHe9LiKqMQr5w7) | [22december](https://open.spotify.com/artist/5qOORCmdl34SsKnB8o4aaF), [Shady Moon](https://open.spotify.com/artist/2urobxol2zYHXOUJXDh8n4) | [chinatown!](https://open.spotify.com/album/1EEKcUdS6QxuVMBFcK224N) | 2:25 |
 | 49 | [Bunny Girl](https://open.spotify.com/track/7KVBqGLGhrEejVokzYd8vF) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Ciscaux](https://open.spotify.com/artist/5qVVvbyUOpNdgTGvNxzcMW) | [Bunny Girl](https://open.spotify.com/album/2qUV5ZCrwyCRvkC6otWBJl) | 2:46 |
-| 50 | [Death Lotto](https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch) | [ovg!](https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt) | [Death Lotto](https://open.spotify.com/album/64YJodXZbiqUpwg9lkaYoE) | 2:13 |
+| 50 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 |
 | 51 | [E\-GIRLS ARE RUINING MY LIFE!](https://open.spotify.com/track/7bCfHiRcfUjG0YVVNUL7Ve) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Savage Ga$p](https://open.spotify.com/artist/0x7qiZJaal6j8qS7yCydFk) | [E\-GIRLS ARE RUINING MY LIFE!](https://open.spotify.com/album/1wrJvDOGOMQKn2v0iRiSJT) | 1:45 |
-| 52 | [Genesis](https://open.spotify.com/track/05QTU0jumc79qqlpAzMEbw) | [Bravo 1\-2](https://open.spotify.com/artist/7m1XrFL6HVKlTlJ4R6kUcX) | [Genesis](https://open.spotify.com/album/1LTl3mxJfm7flXx9wecciK) | 1:30 |
+| 52 | [Death Lotto](https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch) | [ovg!](https://open.spotify.com/artist/3oSZKapuKjNzTOejmMFXn3), [Grioten](https://open.spotify.com/artist/2UM0Qcw48WXGm5kN5hgpqt) | [Death Lotto](https://open.spotify.com/album/64YJodXZbiqUpwg9lkaYoE) | 2:13 |
 | 53 | [LED](https://open.spotify.com/track/0Sgk9iiFGgjVxJfXv2L3iF) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB) | [Corrupted](https://open.spotify.com/album/03EVEgGgCJkQBaVCk0eCOS) | 2:14 |
 | 54 | [die](https://open.spotify.com/track/4ZIam3omF73NPEKufXiTvi) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou), [Key Kelly](https://open.spotify.com/artist/7tlCdVZ037kAOuupObsQss) | [die](https://open.spotify.com/album/2Gnp1bVMf1pZqI1crlEPfY) | 1:39 |
 | 55 | [Killin' On Demand](https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Killin' On Demand](https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD) | 2:09 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 70 | [Let Me Hear](https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Feeling of Unity](https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY) | 3:45 |
 | 71 | [JoJo Pose](https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW) | [Apollo Fresh](https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ) | [JoJo Pose](https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ) | 1:45 |
 | 72 | [CHROME BERETTA](https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [void](https://open.spotify.com/artist/4jtsFTEnLnF4zDZaBWrH6L), [LEX PAIN](https://open.spotify.com/artist/5gs6KOePAS97FunPmAheEE), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [DONNA](https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI) | 2:38 |
-| 73 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
-| 74 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
-| 75 | [EXORCIST](https://open.spotify.com/track/6qwEeAl6Cl32odNr2GIMjm) | [Kxllswxtch](https://open.spotify.com/artist/2VDZoCBGjxbHJbnzSX5nP6) | [KILL!](https://open.spotify.com/album/2Bk3pomO5BGIJrNhwjzqRE) | 1:34 |
+| 73 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
+| 74 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
+| 75 | [7AM](https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV) | [Adrian](https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA) | [7AM](https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1) | 2:25 |
 
-Snapshot ID: `MCwzNTZhMjk4ZDIzYTgzMzgxZDI3ZTIwZjkwN2VlY2VjMDM2ZjhlYmY3`
+Snapshot ID: `MCxkNWM0ZDc1NWZmZjA4NzAyZGUyNzQwNjUyMTgxMzI0OTg5ZGZhNWZj`

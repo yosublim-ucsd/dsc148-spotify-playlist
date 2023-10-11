@@ -562,7 +562,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 127738,
       "name": "Black Noise FX",
       "url": "https://open.spotify.com/track/3DCuoxRqt5URaDGPwtdlq9"
@@ -598,7 +598,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 156038,
       "name": "Black Noise Haven",
       "url": "https://open.spotify.com/track/3rXPHr1qTde5d7O64q99rl"
@@ -1795,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "Focused Mind Black Noise",
+        "url": "https://open.spotify.com/album/5fZ4T8Ll08WOc4VXIdVcMo"
+      },
+      "artists": [
+        {
+          "name": "Linus Xio",
+          "url": "https://open.spotify.com/artist/41Fdkp5EksVh44WCuZPioL"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190894,
+      "name": "Focused Mind Black Noise",
+      "url": "https://open.spotify.com/track/1CaTOiBEuHSyMtF84KA9qM"
+    },
+    {
+      "album": {
         "name": "Gentle Black Noise",
         "url": "https://open.spotify.com/album/0Gv8mzDoswMXHLSKd6j02w"
       },
@@ -2556,7 +2574,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 163469,
       "name": "Sleeping To The Black Noise",
       "url": "https://open.spotify.com/track/3PCj5llCd5b3E0pPVF1vqf"
@@ -2892,6 +2910,24 @@
       "duration_ms": 78947,
       "name": "Stable Black Noise",
       "url": "https://open.spotify.com/track/0qyLFNg8i9mYQIjDwf05iF"
+    },
+    {
+      "album": {
+        "name": "Study in the Dark Black Noise",
+        "url": "https://open.spotify.com/album/5VLg6w1YiaRFyafixwfgby"
+      },
+      "artists": [
+        {
+          "name": "Xella Machina",
+          "url": "https://open.spotify.com/artist/66uHiAJ1D3MCLQmX9xYJqI"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174175,
+      "name": "Study in the Dark Black Noise",
+      "url": "https://open.spotify.com/track/7iTX39RczgyO1FSLjmWIJK"
     },
     {
       "album": {

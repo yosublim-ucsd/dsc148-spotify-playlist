@@ -1,12 +1,12 @@
 {
   "description": "Revive aquellos tiempos de new wave, post-punk y sentimientos decadentes. Foto: The Cure",
-  "num_followers": 171601,
+  "num_followers": 171792,
   "original_name": "Oscuros 80",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNWNkNmM4ODY3ZDk0NjZmZGVmOWIyOWRhNTYxZjZhOGM3OWVjY2Ux",
+  "snapshot_id": "MCw4NDk2ZmJkYjA5ODI4ZjFjZjU2MTNjNTQ5NGMwMjA3NGI4OTE2OWYw",
   "tracks": [
     {
       "added_at": "2023-01-19 21:29:10",
@@ -363,6 +363,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
+      },
+      "artists": [
+        {
+          "name": "Talk Talk",
+          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+        }
+      ],
+      "duration_ms": 232400,
+      "name": "It's My Life - 1997 Remaster",
+      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "Last of the Independents",
         "url": "https://open.spotify.com/album/6MH35oajuCbpS9YBmwTrPf"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 268506,
       "name": "Owner of a Lonely Heart",
       "url": "https://open.spotify.com/track/0GTK6TesV108Jj5D3MHsYb"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
-      },
-      "artists": [
-        {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
-        }
-      ],
-      "duration_ms": 232400,
-      "name": "It's My Life - 1997 Remaster",
-      "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Visage",
-        "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
-      },
-      "artists": [
-        {
-          "name": "Visage",
-          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
-        }
-      ],
-      "duration_ms": 239360,
-      "name": "Fade To Grey",
-      "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "The Unforgettable Fire (Remastered)",
         "url": "https://open.spotify.com/album/3FFosIE1A9HGRrinKTcBQ3"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 228426,
       "name": "Pride (In The Name Of Love) - Remastered 2009",
       "url": "https://open.spotify.com/track/3dh2LlmeMqKJbzn2WUgt3d"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Visage",
+        "url": "https://open.spotify.com/album/6NsHH43MNyI3q6Uv53jSDf"
+      },
+      "artists": [
+        {
+          "name": "Visage",
+          "url": "https://open.spotify.com/artist/0EPf9vAXPdFV5Ezp1sMX8B"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "Fade To Grey",
+      "url": "https://open.spotify.com/track/3yobQNuKVJ62WDU7h725Fu"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -859,22 +859,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Sonic Temple",
-        "url": "https://open.spotify.com/album/1mq4iXRVf8lo5kAkeMa9aV"
-      },
-      "artists": [
-        {
-          "name": "The Cult",
-          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
-        }
-      ],
-      "duration_ms": 307960,
-      "name": "Fire Woman",
-      "url": "https://open.spotify.com/track/2rbcCco3PrSyMinVJdh61J"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Starfish",
         "url": "https://open.spotify.com/album/3gz1CZk5wFg2inBuUWDa8x"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 297600,
       "name": "Under the Milky Way",
       "url": "https://open.spotify.com/track/1RCtHLyq1xIbgGMrYRrKJ2"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Sonic Temple",
+        "url": "https://open.spotify.com/album/1mq4iXRVf8lo5kAkeMa9aV"
+      },
+      "artists": [
+        {
+          "name": "The Cult",
+          "url": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS"
+        }
+      ],
+      "duration_ms": 307960,
+      "name": "Fire Woman",
+      "url": "https://open.spotify.com/track/2rbcCco3PrSyMinVJdh61J"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -991,22 +991,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 309306,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "Songs to Learn & Sing",
         "url": "https://open.spotify.com/album/0VYyqjM5H2sXj6z8ocAyjb"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 346280,
       "name": "The Killing Moon",
       "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
+      },
+      "artists": [
+        {
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
+        }
+      ],
+      "duration_ms": 309306,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "First Harvest 1984-1992",
+        "url": "https://open.spotify.com/album/0d60Pri6GuV9E8jeJrSB33"
+      },
+      "artists": [
+        {
+          "name": "Alphaville",
+          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+        }
+      ],
+      "duration_ms": 235200,
+      "name": "Big in Japan - Best Of",
+      "url": "https://open.spotify.com/track/3F8aTQzmKovktFcR7MCGFW"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "Orchestral Manoeuvres In The Dark (Remastered 2003)",
         "url": "https://open.spotify.com/album/5AN8aqTrcuMZO7rpD9U2yF"
       },
@@ -1087,18 +1103,18 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "First Harvest 1984-1992",
-        "url": "https://open.spotify.com/album/0d60Pri6GuV9E8jeJrSB33"
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
       },
       "artists": [
         {
-          "name": "Alphaville",
-          "url": "https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 235200,
-      "name": "Big in Japan - Best Of",
-      "url": "https://open.spotify.com/track/3F8aTQzmKovktFcR7MCGFW"
+      "duration_ms": 448466,
+      "name": "Pictures of You - 2010 Remaster",
+      "url": "https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg"
     },
     {
       "added_at": "2021-09-28 03:14:02",
@@ -1135,22 +1151,6 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
-        "name": "Disintegration (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
-      },
-      "artists": [
-        {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
-        }
-      ],
-      "duration_ms": 448466,
-      "name": "Pictures of You - 2010 Remaster",
-      "url": "https://open.spotify.com/track/1tuwC1Ob5vnYZhvg3zyzJg"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
         "name": "In the Flat Field",
         "url": "https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w"
       },
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2021-09-28 03:14:02",
       "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6vQB3ZBxnQPP3jQcGV2qzg"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 249880,
+      "name": "Lullaby - 2010 Remaster",
+      "url": "https://open.spotify.com/track/4d4oXk7O2lEhZ83ivV93li"
+    },
+    {
+      "added_at": "2021-09-28 03:14:02",
+      "album": {
         "name": "The Joshua Tree (Super Deluxe)",
         "url": "https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 176596,
       "name": "In God's Country",
       "url": "https://open.spotify.com/track/1AQYE6CcYKlzM8e9Df5i1g"
-    },
-    {
-      "added_at": "2021-09-28 03:14:02",
-      "album": {
-        "name": "Night Time",
-        "url": "https://open.spotify.com/album/5VLAt18707WnG1UlJH7Z2f"
-      },
-      "artists": [
-        {
-          "name": "Killing Joke",
-          "url": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD"
-        }
-      ],
-      "duration_ms": 239280,
-      "name": "Eighties - 2007 Digital Remaster",
-      "url": "https://open.spotify.com/track/0BUCVTLKMipDJDRiv6118M"
     }
   ],
   "unique_name": "Oscuros 80",

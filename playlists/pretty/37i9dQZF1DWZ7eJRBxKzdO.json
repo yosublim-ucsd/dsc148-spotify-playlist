@@ -1,12 +1,12 @@
 {
   "description": "The summer needs dance hits \ud83d\ude0e\u2600\ufe0f",
-  "num_followers": 328718,
+  "num_followers": 329027,
   "original_name": "Summer Dance Hits 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4YjVjNjE0MGQ0ZmQxZDk5NmU1OTE4ZWZhY2M2MDM0NGFiZGIwYzdk",
+  "snapshot_id": "MCwwYmU5NmRlZmI4YmY1YTgwNjNhNDM1MWFhZGQyMjk2YTE4NzE1MGE1",
   "tracks": [
     {
       "added_at": "2023-09-22 06:04:09",
@@ -1119,26 +1119,6 @@
     {
       "added_at": "2023-09-22 06:04:09",
       "album": {
-        "name": "Atmosphere",
-        "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Kita Alexander",
-          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
-        }
-      ],
-      "duration_ms": 182857,
-      "name": "Atmosphere",
-      "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
-    },
-    {
-      "added_at": "2023-09-22 06:04:09",
-      "album": {
         "name": "Asking",
         "url": "https://open.spotify.com/album/1UrVUYOo7y1pAo7EJYQOmZ"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 191590,
       "name": "Asking",
       "url": "https://open.spotify.com/track/4bz8Z7squfs2Yji2DwoujR"
+    },
+    {
+      "added_at": "2023-09-22 06:04:09",
+      "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/3rGYf6tkyIJ4BE2O2k7o0d"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 182857,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/1aNUSKBe6UMyMk3pEu9ws7"
     },
     {
       "added_at": "2023-09-22 06:04:09",
@@ -1819,6 +1819,26 @@
     {
       "added_at": "2023-09-22 06:04:09",
       "album": {
+        "name": "Stay the Night",
+        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "Talia Mar",
+          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
+        }
+      ],
+      "duration_ms": 171954,
+      "name": "Stay the Night",
+      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
+    },
+    {
+      "added_at": "2023-09-22 06:04:09",
+      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
       },
@@ -1839,26 +1859,6 @@
       "duration_ms": 135428,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
-    },
-    {
-      "added_at": "2023-09-22 06:04:09",
-      "album": {
-        "name": "Stay the Night",
-        "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "Talia Mar",
-          "url": "https://open.spotify.com/artist/7zoc6JsY8GWVcl2qFwiKay"
-        }
-      ],
-      "duration_ms": 171954,
-      "name": "Stay the Night",
-      "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
     },
     {
       "added_at": "2023-09-22 06:04:09",
@@ -2287,26 +2287,6 @@
     {
       "added_at": "2023-09-22 06:04:09",
       "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
-      },
-      "artists": [
-        {
-          "name": "Bakermat",
-          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
-        },
-        {
-          "name": "Elise LeGrow",
-          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
-        }
-      ],
-      "duration_ms": 192614,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
-    },
-    {
-      "added_at": "2023-09-22 06:04:09",
-      "album": {
         "name": "Lifeline (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/6cXVZGm8DdsT8QZpfeUST1"
       },
@@ -2323,6 +2303,26 @@
       "duration_ms": 170253,
       "name": "Lifeline (feat. Ella Henderson)",
       "url": "https://open.spotify.com/track/0AH3qQFtYXEoCJrc1vysel"
+    },
+    {
+      "added_at": "2023-09-22 06:04:09",
+      "album": {
+        "name": "Temptation",
+        "url": "https://open.spotify.com/album/0vUxIesFmxzHzv8LmdYlKJ"
+      },
+      "artists": [
+        {
+          "name": "Bakermat",
+          "url": "https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM"
+        },
+        {
+          "name": "Elise LeGrow",
+          "url": "https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8"
+        }
+      ],
+      "duration_ms": 192614,
+      "name": "Temptation",
+      "url": "https://open.spotify.com/track/67uiBfnqH39zmGWU63NxhS"
     },
     {
       "added_at": "2023-09-22 06:04:09",
@@ -2371,26 +2371,6 @@
     {
       "added_at": "2023-09-22 06:04:09",
       "album": {
-        "name": "I Need to Know (feat. Flynn)",
-        "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        },
-        {
-          "name": "Flynn",
-          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
-        }
-      ],
-      "duration_ms": 155519,
-      "name": "I Need to Know (feat. Flynn)",
-      "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
-    },
-    {
-      "added_at": "2023-09-22 06:04:09",
-      "album": {
         "name": "Daydreamer",
         "url": "https://open.spotify.com/album/6B9sxNotNmncxGEPcFzjrF"
       },
@@ -2407,6 +2387,26 @@
       "duration_ms": 160403,
       "name": "Daydreamer",
       "url": "https://open.spotify.com/track/3660k2kZKOFOFS8Cv6DkJy"
+    },
+    {
+      "added_at": "2023-09-22 06:04:09",
+      "album": {
+        "name": "I Need to Know (feat. Flynn)",
+        "url": "https://open.spotify.com/album/6DDH4S5xfDx1Alsa5gtmiA"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "Flynn",
+          "url": "https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9"
+        }
+      ],
+      "duration_ms": 155519,
+      "name": "I Need to Know (feat. Flynn)",
+      "url": "https://open.spotify.com/track/2iPbxmQ4Qil8KsGFeykGyv"
     },
     {
       "added_at": "2023-09-22 06:04:09",

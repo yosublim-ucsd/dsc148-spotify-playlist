@@ -1,12 +1,12 @@
 {
   "description": "Dixieland, Chicago Style and upbeat traditional jazz.",
-  "num_followers": 7452,
+  "num_followers": 7457,
   "original_name": "Hot-Jazz Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YjY0ODczNjI4ZjQzN2VlYTQxOTI1MjlmMTNlNmVkMmMyYjE2NDc4",
+  "snapshot_id": "MCwyMDdkNjhhZGRlOGMzYWVmOTlhYmI1YTE4ODA5NjA3YWNjZGVlNjYx",
   "tracks": [
     {
       "added_at": "2020-08-19 17:19:14",
@@ -159,18 +159,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "1939-1944",
-        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
+        "name": "Jazz Foundations Vol. 25",
+        "url": "https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn"
       },
       "artists": [
         {
-          "name": "Muggsy Spanier",
-          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
+          "name": "Edmond Hall",
+          "url": "https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc"
         }
       ],
-      "duration_ms": 175600,
-      "name": "I Wish I Could Shimmy Like My Sister Kate",
-      "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
+      "duration_ms": 274808,
+      "name": "Walkin' The Dog",
+      "url": "https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -207,18 +207,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Jazz Foundations Vol. 25",
-        "url": "https://open.spotify.com/album/2EojFqvzd0GKRG1j8j7Dkn"
+        "name": "1939-1944",
+        "url": "https://open.spotify.com/album/7EwAhN0zF9PtbLdRmRsomC"
       },
       "artists": [
         {
-          "name": "Edmond Hall",
-          "url": "https://open.spotify.com/artist/0ObFsHKsujQRFXqEL6Q0Jc"
+          "name": "Muggsy Spanier",
+          "url": "https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK"
         }
       ],
-      "duration_ms": 274808,
-      "name": "Walkin' The Dog",
-      "url": "https://open.spotify.com/track/28OtBc3ImfLCHi3GVdZrrL"
+      "duration_ms": 175600,
+      "name": "I Wish I Could Shimmy Like My Sister Kate",
+      "url": "https://open.spotify.com/track/0UmWAlvkmfqaHdAYPfNlFX"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -467,6 +467,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "New Orleans Heritage Hall Jazz Band",
+        "url": "https://open.spotify.com/album/3KAFDWjwF2VBNBANhnZ7Nd"
+      },
+      "artists": [
+        {
+          "name": "New Orleans Heritage Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/1MCkIPVjX5MQHUTjmBhRFF"
+        }
+      ],
+      "duration_ms": 362266,
+      "name": "Second Line",
+      "url": "https://open.spotify.com/track/63JfF4YrOCAcIeDTLa1TTa"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "Pete Fountain 1955-1957",
         "url": "https://open.spotify.com/album/6m9Lji8e2hMEMVnhH2P3Lv"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 241026,
       "name": "Sensation Rag",
       "url": "https://open.spotify.com/track/63XsvMKaZGmcWMwlQUYpBC"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "New Orleans Heritage Hall Jazz Band",
-        "url": "https://open.spotify.com/album/3KAFDWjwF2VBNBANhnZ7Nd"
-      },
-      "artists": [
-        {
-          "name": "New Orleans Heritage Hall Jazz Band",
-          "url": "https://open.spotify.com/artist/1MCkIPVjX5MQHUTjmBhRFF"
-        }
-      ],
-      "duration_ms": 362266,
-      "name": "Second Line",
-      "url": "https://open.spotify.com/track/63JfF4YrOCAcIeDTLa1TTa"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -599,6 +599,22 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
+        "name": "Preservation Hall Hot 4 With Duke Dejan",
+        "url": "https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD"
+      },
+      "artists": [
+        {
+          "name": "Preservation Hall Hot 4 with Duke Dejan",
+          "url": "https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x"
+        }
+      ],
+      "duration_ms": 250986,
+      "name": "Ain't She Sweet",
+      "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
         "name": "George Girard's Band",
         "url": "https://open.spotify.com/album/0pSfyYcO5ik5MklfWkVkpr"
       },
@@ -635,18 +651,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Preservation Hall Hot 4 With Duke Dejan",
-        "url": "https://open.spotify.com/album/6zcn7J6jypQujdpAqOy8ZD"
+        "name": "The Dukes At Disneyland",
+        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
       },
       "artists": [
         {
-          "name": "Preservation Hall Hot 4 with Duke Dejan",
-          "url": "https://open.spotify.com/artist/6BM1PL11hO27q6qvFbKP1x"
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
         }
       ],
-      "duration_ms": 250986,
-      "name": "Ain't She Sweet",
-      "url": "https://open.spotify.com/track/2Yiwql4Qw3wFJjrE1XuJE8"
+      "duration_ms": 362973,
+      "name": "Royal Garden Blues",
+      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -663,22 +679,6 @@
       "duration_ms": 199550,
       "name": "Old Time Religion",
       "url": "https://open.spotify.com/track/1plVFdbU55lutOgsvH9Wir"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
-        "name": "The Dukes At Disneyland",
-        "url": "https://open.spotify.com/album/7uIuREmiKkyosSchLSWEVB"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 362973,
-      "name": "Royal Garden Blues",
-      "url": "https://open.spotify.com/track/3T5CDmw4zbEgt6hEzRqpxR"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -747,18 +747,18 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "On Parade",
-        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
+        "name": "Sounds Of New Orleans, Vol. 2",
+        "url": "https://open.spotify.com/album/2Lmk08Fk72AOjC6scXoIcm"
       },
       "artists": [
         {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+          "name": "Kid Ory",
+          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
         }
       ],
-      "duration_ms": 136714,
-      "name": "The Billboard",
-      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
+      "duration_ms": 158946,
+      "name": "Dippermouth Blues",
+      "url": "https://open.spotify.com/track/0OR6wvvgo0MXjlxsNrgmb7"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -811,22 +811,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "Sounds Of New Orleans, Vol. 2",
-        "url": "https://open.spotify.com/album/2Lmk08Fk72AOjC6scXoIcm"
-      },
-      "artists": [
-        {
-          "name": "Kid Ory",
-          "url": "https://open.spotify.com/artist/7fvNIXXszS6FTHROnZVsK4"
-        }
-      ],
-      "duration_ms": 158946,
-      "name": "Dippermouth Blues",
-      "url": "https://open.spotify.com/track/0OR6wvvgo0MXjlxsNrgmb7"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "Jazz Chronicles: Frank Teschemacher, Vol. 1",
         "url": "https://open.spotify.com/album/79pyHoEnZwE1CFs2Cs5CBe"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 182360,
       "name": "Dixie",
       "url": "https://open.spotify.com/track/4oNl9jhmp0PFJvyWR4vdQP"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "On Parade",
+        "url": "https://open.spotify.com/album/3cszsvpoZit9PVRyLFFIFJ"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 136714,
+      "name": "The Billboard",
+      "url": "https://open.spotify.com/track/5l1hy48hyxMBOvqOlNLuCu"
     },
     {
       "added_at": "2020-08-19 17:19:14",
@@ -943,22 +943,6 @@
     {
       "added_at": "2020-08-19 17:19:14",
       "album": {
-        "name": "More Best of the Dukes of Dixieland, Vol. 2",
-        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
-      },
-      "artists": [
-        {
-          "name": "The Dukes Of Dixieland",
-          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
-        }
-      ],
-      "duration_ms": 135274,
-      "name": "Thunder & Blazes",
-      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
-    },
-    {
-      "added_at": "2020-08-19 17:19:14",
-      "album": {
         "name": "All Time Jazz: New Orleans Rhythm Kings",
         "url": "https://open.spotify.com/album/7zziHCNmc6sNQ929l5Itvl"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 142026,
       "name": "Bugle Call Blues",
       "url": "https://open.spotify.com/track/3prsaU863W5Nz98uxY6JKr"
+    },
+    {
+      "added_at": "2020-08-19 17:19:14",
+      "album": {
+        "name": "More Best of the Dukes of Dixieland, Vol. 2",
+        "url": "https://open.spotify.com/album/1rRfpt3yGLxAIjZFDEXOaI"
+      },
+      "artists": [
+        {
+          "name": "The Dukes Of Dixieland",
+          "url": "https://open.spotify.com/artist/0GLjY74A6lDzGCGg2J73aq"
+        }
+      ],
+      "duration_ms": 135274,
+      "name": "Thunder & Blazes",
+      "url": "https://open.spotify.com/track/79vlFseFpY0B9LALIfv9Nr"
     },
     {
       "added_at": "2020-08-19 17:19:14",

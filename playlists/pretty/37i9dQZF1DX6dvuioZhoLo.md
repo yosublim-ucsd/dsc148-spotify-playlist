@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 
 > New makes old\. Cover: Sierra Ferrell
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,644 likes - 100 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,638 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 69 | [Good As Gold](https://open.spotify.com/track/5c40AAhGGG0d7iDgXyF38y) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Years](https://open.spotify.com/album/4DdokaghnnKmmaWOhO2G0I) | 3:13 |
 | 70 | [Morgan, I Might](https://open.spotify.com/track/546zJv5pyapMZO5O0l0p4x) | [Marit Larsen](https://open.spotify.com/artist/0SGEunj6EBwdWMNCdWSrPg) | [Joni Was Right](https://open.spotify.com/album/4b9Jd0hGddS6xH6zjsCEV7) | 3:17 |
 | 71 | [southwest serenade](https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO) | [Story Slaughter](https://open.spotify.com/artist/5xAkUnkKTboVog0nTDtGZY) | [southwest serenade](https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY) | 1:46 |
-| 72 | [To Learn Her](https://open.spotify.com/track/3l78vP424XB904B5MMmEdN) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:47 |
-| 73 | [Goodnight Rhonda Lee](https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 2:33 |
+| 72 | [Goodnight Rhonda Lee](https://open.spotify.com/track/4QtKz1MwAZusR7fqdxov2f) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO) | [Goodnight Rhonda Lee](https://open.spotify.com/album/4RcpHyy4rL1RrB89Di3HrJ) | 2:33 |
+| 73 | [To Learn Her](https://open.spotify.com/track/3l78vP424XB904B5MMmEdN) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [The Weight of These Wings](https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG) | 3:47 |
 | 74 | [Still Miss the Way](https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [With Me in the Summer](https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk) | 3:09 |
 | 75 | [Better Way](https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo) | [Andrew Combs](https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11) | [Canyons of my Mind](https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g) | 4:15 |
 | 76 | [Four Years of Chances](https://open.spotify.com/track/5NJ0s9f1IbRWJjC15bOEDx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Midwest Farmer's Daughter](https://open.spotify.com/album/55byaTflUCrOReQQukpctP) | 4:33 |
@@ -96,12 +96,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 86 | [Dry Town](https://open.spotify.com/track/4ki94wKEhXYNW4ywgd4qLs) | [Della Mae](https://open.spotify.com/artist/4v6KHXXFsmn8oREWFyodCh) | [Family Reunion](https://open.spotify.com/album/2rAOtJeqLd0RvfqmHoaYZv) | 2:42 |
 | 87 | [I Feel Like Hank Williams Tonight](https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5) | [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL) | [Trophy](https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v) | 3:48 |
 | 88 | [Mint Condition](https://open.spotify.com/track/3k0YUWIovSt3e6BRsERRPA) | [Caroline Spence](https://open.spotify.com/artist/4De2r7QdHl1eZwnEnQ1IzE) | [Mint Condition](https://open.spotify.com/album/4zAQQvgbXyFJ5Hk20BF794) | 4:02 |
-| 89 | [Stone Me](https://open.spotify.com/track/41G13b0SToDtz6rIENwswT) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:09 |
-| 90 | [Warning](https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA) | [Lasers Lasers Birmingham](https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI) | [Warning](https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm) | 3:27 |
-| 91 | [Ice Cream and Liquor](https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO) | [The Reckless Electric](https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM) | [Comeback](https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb) | 3:26 |
-| 92 | [No Name](https://open.spotify.com/track/2CVpkt0xfradTwL6KxNncR) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO) | 3:06 |
-| 93 | [Memphis Rain](https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Silver Tears](https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L) | 3:38 |
-| 94 | [Light As a Fire](https://open.spotify.com/track/1GaMKT7VrFJnyzjflhrRHu) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [Let It Pass](https://open.spotify.com/album/2iZp6ZrhjsPgblTW1UYpDa) | 3:26 |
+| 89 | [Warning](https://open.spotify.com/track/1DF2GgMnu0oOaeHs7ydCSA) | [Lasers Lasers Birmingham](https://open.spotify.com/artist/3gM78J38rVRDpzVkppBnGI) | [Warning](https://open.spotify.com/album/4iIuJ6TeXFL23VOS0PcmEm) | 3:27 |
+| 90 | [Stone Me](https://open.spotify.com/track/41G13b0SToDtz6rIENwswT) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:09 |
+| 91 | [No Name](https://open.spotify.com/track/2CVpkt0xfradTwL6KxNncR) | [Sarah Shook & the Disarmers](https://open.spotify.com/artist/6ahZTaoJs2D0gcscsEx64r) | [Sidelong](https://open.spotify.com/album/641RJlp4W6Cr7d4nTrYAnO) | 3:06 |
+| 92 | [Ice Cream and Liquor](https://open.spotify.com/track/2JN0eElE3BnGsrbsyvzEhO) | [The Reckless Electric](https://open.spotify.com/artist/1x0DczFntbIchRLLSisGnM) | [Comeback](https://open.spotify.com/album/59RQt16lLTsoUSn2FdHvNb) | 3:26 |
+| 93 | [Light As a Fire](https://open.spotify.com/track/1GaMKT7VrFJnyzjflhrRHu) | [The Stray Birds](https://open.spotify.com/artist/6cPMzk1hDgzdIe8vkAhcNM) | [Let It Pass](https://open.spotify.com/album/2iZp6ZrhjsPgblTW1UYpDa) | 3:26 |
+| 94 | [Memphis Rain](https://open.spotify.com/track/7pwi5x6uNPnOeG8vM9boCo) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Silver Tears](https://open.spotify.com/album/2JG1zKeTogtW6HUSJD0K6L) | 3:38 |
 | 95 | [My Heart Skips A Beat](https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE) | [The Secret Sisters](https://open.spotify.com/artist/5fIZHCg2de8322HZodBDWL) | [The Secret Sisters](https://open.spotify.com/album/4xuicwuqEAjIHe2awEubrI) | 2:23 |
 | 96 | [You Don't Scare Me](https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM) | [Whitney Rose](https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx) | [Rule 62](https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf) | 4:10 |
 | 97 | [Half a Heart Keychain](https://open.spotify.com/track/6Ff6tdQfdEyHm71P6mLpc5) | [Riddy Arman](https://open.spotify.com/artist/0h1dIjLACuc4yDLePjLT42) | [Half a Heart Keychain](https://open.spotify.com/album/3pglOjTAYQHnd8uZu9g86j) | 3:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dvuioZhoLo.md) - [plain]
 | 99 | [No One Has the Answers](https://open.spotify.com/track/58emzxS7apqOn2amBFfDyr) | [Holly Macve](https://open.spotify.com/artist/2E51tnARTxTvmYznDHfE5V) | [Golden Eagle](https://open.spotify.com/album/1mmQW9vAtSUvvNVzbJmUxL) | 3:28 |
 | 100 | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/track/11ztTGjFtV3MNoNx0XvApC) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Same Devil \(feat\. Brandi Carlile\)](https://open.spotify.com/album/6XL1xCLdUOU6j35YspCkqO) | 3:07 |
 
-Snapshot ID: `MCwyN2VjYzEwOTY0MjNhZWE0MTE5Y2FlM2EyYzIzM2ExNTkzNTE0MWMx`
+Snapshot ID: `MCxiNTVjYjA1NjJhZTYxY2M0Mjk3NGQyYzU2ZDlkZjg3ZGQ5NzBhODFl`

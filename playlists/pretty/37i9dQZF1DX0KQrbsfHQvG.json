@@ -1,12 +1,12 @@
 {
   "description": "Get up. Stand up. Be the revolution.",
-  "num_followers": 186855,
+  "num_followers": 186909,
   "original_name": "Rise Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOGFkZDA0MGQ5N2FkYjE5YjBhNGRhMmU3NDU4MDgxZDllOTA1MzVk",
+  "snapshot_id": "MCxkZGU4OWRmY2Y5OWRiNDNmYTI3MmViNTgwM2UyYTA4MTc4YTcyOGVj",
   "tracks": [
     {
       "added_at": "2023-06-23 04:01:00",
@@ -579,22 +579,6 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
-    },
-    {
-      "added_at": "2023-06-23 04:01:00",
-      "album": {
         "name": "Crooked Teeth",
         "url": "https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 203118,
       "name": "American Dreams",
       "url": "https://open.spotify.com/track/4ABntUukZcR0Yn6OiARnJG"
+    },
+    {
+      "added_at": "2023-06-23 04:01:00",
+      "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1015,22 +1015,18 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "Rise Up",
-        "url": "https://open.spotify.com/album/426j4dLXzZygBoi0rAzE0a"
+        "name": "digging for windows",
+        "url": "https://open.spotify.com/album/37kKroQgkSCkaB9sHMvcDG"
       },
       "artists": [
         {
-          "name": "Cypress Hill",
-          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
-        },
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+          "name": "Zack De La Rocha",
+          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
         }
       ],
-      "duration_ms": 230680,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/4B9xwFIN58Nn8ZtvssOqKf"
+      "duration_ms": 211253,
+      "name": "digging for windows",
+      "url": "https://open.spotify.com/track/6JlUROBrL9EdYP6lGDdBM5"
     },
     {
       "added_at": "2023-06-23 04:01:00",
@@ -1051,18 +1047,22 @@
     {
       "added_at": "2023-06-23 04:01:00",
       "album": {
-        "name": "digging for windows",
-        "url": "https://open.spotify.com/album/37kKroQgkSCkaB9sHMvcDG"
+        "name": "Rise Up",
+        "url": "https://open.spotify.com/album/426j4dLXzZygBoi0rAzE0a"
       },
       "artists": [
         {
-          "name": "Zack De La Rocha",
-          "url": "https://open.spotify.com/artist/1jKpNUjiz4KXgaAZD5FI9S"
+          "name": "Cypress Hill",
+          "url": "https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX"
+        },
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
         }
       ],
-      "duration_ms": 211253,
-      "name": "digging for windows",
-      "url": "https://open.spotify.com/track/6JlUROBrL9EdYP6lGDdBM5"
+      "duration_ms": 230680,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/4B9xwFIN58Nn8ZtvssOqKf"
     },
     {
       "added_at": "2023-06-23 04:01:00",

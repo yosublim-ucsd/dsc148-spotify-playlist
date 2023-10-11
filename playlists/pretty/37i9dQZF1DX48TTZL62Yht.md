@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 
 > The tracks you just keep pulling up\. Cover: Drake 🐕
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,262 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,595 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 | 54 | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/track/6c6WmIHcHlhccEwSFBhzNa) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Put It On Da Floor Again \(feat\. Cardi B\)](https://open.spotify.com/album/4A43tzEN3jILvseI1HeXGG) | 3:05 |
 | 55 | [p r i d e \. i s \. t h e \. d e v i l \(with Lil Baby\)](https://open.spotify.com/track/5W8jRrZ6tWrTrqnKRtIQBf) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 3:38 |
 | 56 | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/track/6EbVuwU7EnKeF2hdpViXCH) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [Die Young \(feat\. 347aidan\)](https://open.spotify.com/album/33C2Ujqsq5tFa93LtafTHN) | 2:28 |
-| 57 | [Ocean Spray](https://open.spotify.com/track/6dNOefmb6Lgl5vNtJsSajt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:44 |
-| 58 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 |
-| 59 | [Jumbotron Shit Poppin](https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:17 |
+| 57 | [Jumbotron Shit Poppin](https://open.spotify.com/track/2ZlABhxMMa43COmZ97kKsJ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 2:17 |
+| 58 | [Ocean Spray](https://open.spotify.com/track/6dNOefmb6Lgl5vNtJsSajt) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Hard To Love](https://open.spotify.com/album/12QMwxaBwtZWp7BKBwzaol) | 2:44 |
+| 59 | [Motley Crew](https://open.spotify.com/track/40uMIn2zJLAQhNXghRjBed) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Motley Crew](https://open.spotify.com/album/4tokbQaFXRrq8keVGBD9vb) | 3:04 |
 | 60 | [In My Head](https://open.spotify.com/track/1HvTxgCj0mTzQlEo0zLvFb) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [In My Head](https://open.spotify.com/album/5pK7kqzGXSY7xoLMhfHlql) | 2:15 |
 | 61 | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/track/7Bpx2vsWfQFBACRz4h3IqH) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [family ties \(with Kendrick Lamar\)](https://open.spotify.com/album/3HqmX8hGcbbQZODgayNEYx) | 4:12 |
 | 62 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 | 71 | [Forever \(feat\. Fridayy\)](https://open.spotify.com/track/1T4k0sw0HldDg004Kw4Oct) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:47 |
 | 72 | [PTSD](https://open.spotify.com/track/1C8ux1YWLMHCenYJFiIV4Z) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 3:52 |
 | 73 | [Casper](https://open.spotify.com/track/1B4gJRq61xTs6r1O0Uq2iY) | [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [The Last Rocket](https://open.spotify.com/album/5XRCcUfwtLNQflDd9cfz4U) | 3:17 |
-| 74 | [Plain Jane REMIX \(feat\. Nicki Minaj\)](https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Plain Jane REMIX \(feat\. Nicki Minaj\)](https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn) | 3:22 |
-| 75 | [Beat the Odds](https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Beat the Odds](https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv) | 2:30 |
+| 74 | [Beat the Odds](https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Beat the Odds](https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv) | 2:30 |
+| 75 | [Plain Jane REMIX \(feat\. Nicki Minaj\)](https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Plain Jane REMIX \(feat\. Nicki Minaj\)](https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn) | 3:22 |
 | 76 | [You're Mines Still \(feat\. Drake\)](https://open.spotify.com/track/6tiKwZppNjrls8RsPQwK6r) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Moon Boy](https://open.spotify.com/album/2VUhkRrg5dEJIGewOBOc7J) | 3:46 |
 | 77 | [Churchill Downs \(feat\. Drake\)](https://open.spotify.com/track/3EMp20j5E42MxfFbsEsIvD) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 5:09 |
 | 78 | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9) | 3:55 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX48TTZL62Yht.md) - [plain]
 | 99 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/7jr6fz888xjUlsAD2tZzKR) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..? \(Deluxe\)](https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk) | 2:40 |
 | 100 | [Man in the Mirror](https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:35 |
 
-Snapshot ID: `MCwzOGQzZjE2NDE2ZGM0YTJjZmJjNTU1NzhlZmZiMDk1YjFmNzNiZDhh`
+Snapshot ID: `MCwxNDcyOTVjNWUzZjhkYzQ3OWM1ZmYyNjdkMDUxM2M5YWRjN2Q0YmRi`

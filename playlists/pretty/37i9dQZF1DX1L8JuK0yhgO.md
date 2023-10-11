@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,911 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,909 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [What are you doing now](https://open.spotify.com/track/4Wp4Tptf9GMeKkljwJHvAY) | [Clearr Note](https://open.spotify.com/artist/7DZC3SoU3g5wrkYObbhTDk) | [What are you doing now](https://open.spotify.com/album/5hqr7DbSMbfW0NNbkG91ap) | 1:42 |
 | 60 | [You've Got A Friend](https://open.spotify.com/track/4aM5tFMceaO2VlhcdEDhk2) | [KODAMA AND THE DUB STATION BAND](https://open.spotify.com/artist/6EI7t3mczkCqKUNIsFtyKH) | [You've Got A Friend](https://open.spotify.com/album/0Om9ccW2UD8X2BI1lUerOP) | 5:01 |
 
-Snapshot ID: `MCw0NzIwOTQ1YzFiOGM3YzNiNzgxOTIwMzZhMzZiYjllZTU2ZmUyMTRj`
+Snapshot ID: `MCxjZjU2ZDkyMDVhZTA0ZmZmN2Q2MDJjYWE1Mzg0ZGZlZjE1NTMzMTBh`

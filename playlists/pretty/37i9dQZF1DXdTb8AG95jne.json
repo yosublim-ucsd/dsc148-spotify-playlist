@@ -1,12 +1,12 @@
 {
   "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: PARKMOONCHI(\ubc15\ubb38\uce58)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 459784,
+  "num_followers": 459667,
   "original_name": "In The K-Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTI5ZjczODhhNzc5MjFmOTZhOGEwNjNjN2NkZjc3MzRjYjQ2NDM3",
+  "snapshot_id": "MCw3YTAwMjkwZjMzYTEzYWM3NDliYWI0NzMwN2ZhN2QwNWYyYTNhNzc3",
   "tracks": [
     {
       "added_at": "2023-10-03 10:38:58",
@@ -171,22 +171,6 @@
     {
       "added_at": "2023-10-03 10:38:58",
       "album": {
-        "name": "Puberty Book\u2160 Bom",
-        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
-      },
-      "artists": [
-        {
-          "name": "BOL4",
-          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
-        }
-      ],
-      "duration_ms": 217044,
-      "name": "Bom",
-      "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
-    },
-    {
-      "added_at": "2023-10-03 10:38:58",
-      "album": {
         "name": "Okinawa",
         "url": "https://open.spotify.com/album/2cVPFgXXfRtJlk5bSwpjEj"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 348445,
       "name": "Okinawa",
       "url": "https://open.spotify.com/track/4IDuBhS4HLQh2vg83pk6Rj"
+    },
+    {
+      "added_at": "2023-10-03 10:38:58",
+      "album": {
+        "name": "Puberty Book\u2160 Bom",
+        "url": "https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg"
+      },
+      "artists": [
+        {
+          "name": "BOL4",
+          "url": "https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl"
+        }
+      ],
+      "duration_ms": 217044,
+      "name": "Bom",
+      "url": "https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg"
     },
     {
       "added_at": "2023-10-03 10:38:58",
@@ -395,6 +395,26 @@
     {
       "added_at": "2023-10-03 10:38:58",
       "album": {
+        "name": "5.2 (Feat. LEE SUHYUN)",
+        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
+      },
+      "artists": [
+        {
+          "name": "10cm",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        },
+        {
+          "name": "LEE SUHYUN",
+          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
+        }
+      ],
+      "duration_ms": 257453,
+      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
+      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
+    },
+    {
+      "added_at": "2023-10-03 10:38:58",
+      "album": {
         "name": "Puberty Book\u2161 Pum",
         "url": "https://open.spotify.com/album/7bokVbwwFlYf6dqzdSUXEp"
       },
@@ -431,26 +451,6 @@
     {
       "added_at": "2023-10-03 10:38:58",
       "album": {
-        "name": "5.2 (Feat. LEE SUHYUN)",
-        "url": "https://open.spotify.com/album/30RJMNXikhoIuTMEqdESS0"
-      },
-      "artists": [
-        {
-          "name": "10cm",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        },
-        {
-          "name": "LEE SUHYUN",
-          "url": "https://open.spotify.com/artist/6zfPiJgoaqNPHsW3fsUlBN"
-        }
-      ],
-      "duration_ms": 257453,
-      "name": "Sleepless in Seoul (Feat. LEE SUHYUN)",
-      "url": "https://open.spotify.com/track/2bPHxBNkKpnehnmEBYuW9n"
-    },
-    {
-      "added_at": "2023-10-03 10:38:58",
-      "album": {
         "name": "The night we parted",
         "url": "https://open.spotify.com/album/3ziY8tTralGg3ew6bTTJGD"
       },
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-10-03 10:38:58",
       "album": {
-        "name": "I can't tell you everything",
-        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
-      },
-      "artists": [
-        {
-          "name": "CHEEZE",
-          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Today's Mood",
-      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
-    },
-    {
-      "added_at": "2023-10-03 10:38:58",
-      "album": {
         "name": "Stroll",
         "url": "https://open.spotify.com/album/2zTRBl0d9LGCNwuwlf63Wx"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 228266,
       "name": "Forest",
       "url": "https://open.spotify.com/track/33xRp6ZX1DKraRFHR9ZDck"
+    },
+    {
+      "added_at": "2023-10-03 10:38:58",
+      "album": {
+        "name": "I can't tell you everything",
+        "url": "https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL"
+      },
+      "artists": [
+        {
+          "name": "CHEEZE",
+          "url": "https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Today's Mood",
+      "url": "https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx"
     },
     {
       "added_at": "2023-10-03 10:38:58",
@@ -531,22 +531,6 @@
     {
       "added_at": "2023-10-03 10:38:58",
       "album": {
-        "name": "A Long Dream",
-        "url": "https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy"
-      },
-      "artists": [
-        {
-          "name": "SE SO NEON",
-          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
-        }
-      ],
-      "duration_ms": 258420,
-      "name": "A Long Dream",
-      "url": "https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR"
-    },
-    {
-      "added_at": "2023-10-03 10:38:58",
-      "album": {
         "name": "FROM : X",
         "url": "https://open.spotify.com/album/0Mv40wXJXK7tSXbDdxgorn"
       },
@@ -563,18 +547,18 @@
     {
       "added_at": "2023-10-03 10:38:58",
       "album": {
-        "name": "PLEASURES",
-        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
+        "name": "A Long Dream",
+        "url": "https://open.spotify.com/album/61XIcKpWrkIFiGZA6p72zy"
       },
       "artists": [
         {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+          "name": "SE SO NEON",
+          "url": "https://open.spotify.com/artist/07OePkse2fcvU9wlVftNMl"
         }
       ],
-      "duration_ms": 167000,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
+      "duration_ms": 258420,
+      "name": "A Long Dream",
+      "url": "https://open.spotify.com/track/4nXbMeiYZCMxl2B7NvxLdR"
     },
     {
       "added_at": "2023-10-03 10:38:58",
@@ -591,6 +575,22 @@
       "duration_ms": 204000,
       "name": "GRIPPIN\u2019THEGREEN",
       "url": "https://open.spotify.com/track/6hHjsUiAuUcTtsvDXFvPFk"
+    },
+    {
+      "added_at": "2023-10-03 10:38:58",
+      "album": {
+        "name": "PLEASURES",
+        "url": "https://open.spotify.com/album/6LcForsXAnNRxsU458b1XM"
+      },
+      "artists": [
+        {
+          "name": "ADOY",
+          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
+        }
+      ],
+      "duration_ms": 167000,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/7fNr8S80vvOJtr0G186BBh"
     },
     {
       "added_at": "2023-10-03 10:38:58",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-10-03 10:38:58",
       "album": {
-        "name": "pony",
-        "url": "https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 181266,
-      "name": "pony",
-      "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
-    },
-    {
-      "added_at": "2023-10-03 10:38:58",
-      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 284000,
       "name": "Extinction",
       "url": "https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB"
+    },
+    {
+      "added_at": "2023-10-03 10:38:58",
+      "album": {
+        "name": "pony",
+        "url": "https://open.spotify.com/album/0Fqg5u1mP8d8VJZmhIWkpc"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 181266,
+      "name": "pony",
+      "url": "https://open.spotify.com/track/6pZIsf4z5iFsueGtlHn35V"
     },
     {
       "added_at": "2023-10-03 10:38:58",
@@ -799,18 +799,18 @@
     {
       "added_at": "2023-10-03 10:38:58",
       "album": {
-        "name": "The Land of Fantasy",
-        "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
+        "name": "\uafc8\uc5d0\uc11c \uac78\ub824\uc628 \uc804\ud654 A Call from My Dream",
+        "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
       },
       "artists": [
         {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+          "name": "Meaningful Stone",
+          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
         }
       ],
-      "duration_ms": 222999,
-      "name": "I Know Where The Rainbow has Fallen",
-      "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
+      "duration_ms": 255297,
+      "name": "\uafc8\uc5d0\uc11c \uac78\ub824\uc628 \uc804\ud654 A Call from My Dream",
+      "url": "https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs"
     },
     {
       "added_at": "2023-10-03 10:38:58",
@@ -831,18 +831,18 @@
     {
       "added_at": "2023-10-03 10:38:58",
       "album": {
-        "name": "\uafc8\uc5d0\uc11c \uac78\ub824\uc628 \uc804\ud654 A Call from My Dream",
-        "url": "https://open.spotify.com/album/7zY2ieneVxxTqhdY9c6Jio"
+        "name": "The Land of Fantasy",
+        "url": "https://open.spotify.com/album/3AqaCmFab2u1su982CnoQE"
       },
       "artists": [
         {
-          "name": "Meaningful Stone",
-          "url": "https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt"
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
         }
       ],
-      "duration_ms": 255297,
-      "name": "\uafc8\uc5d0\uc11c \uac78\ub824\uc628 \uc804\ud654 A Call from My Dream",
-      "url": "https://open.spotify.com/track/06zMVfnqSiXl7DoWCLCvzs"
+      "duration_ms": 222999,
+      "name": "I Know Where The Rainbow has Fallen",
+      "url": "https://open.spotify.com/track/3N0gL4EypJfzJ6txDnIrDS"
     },
     {
       "added_at": "2023-10-03 10:38:58",

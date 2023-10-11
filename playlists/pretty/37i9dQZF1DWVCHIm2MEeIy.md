@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 
 > The dancefloor is the place to be 🪩
 
-[Spotify](https://open.spotify.com/user/spotify) - 848,784 likes - 70 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 848,768 likes - 70 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,14 +50,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 40 | [Petit Matin](https://open.spotify.com/track/0MOwzHYBsXeVkb98ewMMZP) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq) | [Petit Matin](https://open.spotify.com/album/0P57bvDYTfxQt9V4ChSvDi) | 7:27 |
 | 41 | [RIDERS ON THE STORM](https://open.spotify.com/track/6X9FcXuVtEUMaZrgcXING2) | [RUBACK](https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg), [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [RIDERS ON THE STORM](https://open.spotify.com/album/1NW9uJa0pdHCzueCxOFUQS) | 5:10 |
 | 42 | [Cinecittà](https://open.spotify.com/track/7BpAUyMcDLWfFZo8tvJvh5) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [DJ Tennis](https://open.spotify.com/artist/6vJvFV1A2CpT8s5B1oUN6t), [Alex Metric](https://open.spotify.com/artist/6RDNTAgm2s6ae71nXWGnJD) | [Cinecittà](https://open.spotify.com/album/6V7vOaDpcH3fHQbkFzSBB2) | 3:28 |
-| 43 | [Untold](https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/2U3a211EBDRSdPZfM4pukk) | 6:42 |
-| 44 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 |
+| 43 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 |
+| 44 | [Untold](https://open.spotify.com/track/5oWNQlLaRLALWkKz3JuTap) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH), [Margret](https://open.spotify.com/artist/6tFdm9EEawUx8EUkpWQH4l) | [Untold](https://open.spotify.com/album/2U3a211EBDRSdPZfM4pukk) | 6:42 |
 | 45 | [Footprints](https://open.spotify.com/track/0pJFuImM8bxl1Oj9HW4oVt) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA) | [Footprints](https://open.spotify.com/album/1r8Scfn2BamZqnc0wH72Ar) | 5:48 |
 | 46 | [Haute Definition](https://open.spotify.com/track/5ogJoH7CMHtyxIsxExxm4B) | [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [Dissidænce Episode 1](https://open.spotify.com/album/3x4w1TdlWi3d81ibVmR4Lj) | 3:58 |
 | 47 | [My City's On Fire](https://open.spotify.com/track/74wq2mSE5UhoWzRTy1J93p) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [My City's On Fire](https://open.spotify.com/album/3euSt2OpPER3gjNEI0ATaz) | 3:07 |
 | 48 | [Rise Of The 2nd Sun](https://open.spotify.com/track/12cknKcAEanf3PlwPOYvg5) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [Rise Of The 2nd Sun](https://open.spotify.com/album/2vcdcwvURyhYMkh8P0wfJT) | 7:05 |
-| 49 | [Give It 2 Me](https://open.spotify.com/track/6dugYhVnZ66nGsVTngBsOx) | [Michael Feel & Aleco](https://open.spotify.com/artist/3pN7a2O9TGJDoqeXVOsRni) | [Give It 2 Me](https://open.spotify.com/album/5DBn0yHAfqjKtIaENF0CJR) | 4:11 |
-| 50 | [Paradise \- Âme Remix](https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Paradise \(Âme Remix\)](https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb) | 4:04 |
+| 49 | [Paradise \- Âme Remix](https://open.spotify.com/track/6m1p8pNdASucv2yWqYeMOs) | [mOat](https://open.spotify.com/artist/5cwcCt2XL9QIC0yZy33Fds), [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564) | [Paradise \(Âme Remix\)](https://open.spotify.com/album/5TeEwBih6CBovsO6sFYqtb) | 4:04 |
+| 50 | [Give It 2 Me](https://open.spotify.com/track/6dugYhVnZ66nGsVTngBsOx) | [Michael Feel & Aleco](https://open.spotify.com/artist/3pN7a2O9TGJDoqeXVOsRni) | [Give It 2 Me](https://open.spotify.com/album/5DBn0yHAfqjKtIaENF0CJR) | 4:11 |
 | 51 | [NYWTF feat\. Mikhail Beltran \- Edit](https://open.spotify.com/track/3LNEeKwTs8tcdWVfVclPqG) | [Chloé Caillet](https://open.spotify.com/artist/68ywCN6ZpInbcilOfLBa3a), [Mikhail Beltran](https://open.spotify.com/artist/5vRwQ47fgzQDLkSVeGuAb9) | [NYWTF](https://open.spotify.com/album/6t8XvR8EcG7xJ1IbKI6Cmj) | 3:04 |
 | 52 | [Vodka & Orange](https://open.spotify.com/track/3xv8dKKfN1WjhGnsFhn9TC) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Vodka & Orange EP](https://open.spotify.com/album/0DzRyBfMWMQZa1AtsF7PY0) | 7:19 |
 | 53 | [Chaos](https://open.spotify.com/track/1cGG5URksWfux6zkogVQcX) | [Township Rebellion](https://open.spotify.com/artist/4gGD7nrLZRnnCSz3KGEu4R) | [혼돈 과 질서](https://open.spotify.com/album/5Ljj0ZjHDEQmF8jZ67kvh7) | 8:48 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 56 | [Copal \- Super Flu Remix](https://open.spotify.com/track/2Eu5IxBvLxCd1HFVR4JbR4) | [Oliver Koletzki](https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR), [Super Flu](https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW) | [Made of Wood Remixed](https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA) | 6:37 |
 | 57 | [Himmelblau](https://open.spotify.com/track/6ZRwn9JqdtRQyrHT0tKIgy) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Never Stop Dancing](https://open.spotify.com/album/6YoPT7n9LXQpOlvTjpQtCC) | 8:13 |
 | 58 | [Back In The Taxi \- AMÉMÉ Midnight Remix](https://open.spotify.com/track/7psofiqt8ta0d1q0l5YXGk) | [Jan Blomqvist](https://open.spotify.com/artist/5wMlMjOLeJfS5DfxqGfm83), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Back In The Taxi \(AMÉMÉ Remix\)](https://open.spotify.com/album/2DfcKSHUivCRQupV5tFbw3) | 4:26 |
-| 59 | [Love Is What](https://open.spotify.com/track/0L7tuyMZF1V61SrXL1tvrI) | [Kollektiv Ost](https://open.spotify.com/artist/3G5wjUV0bhx9pIIUrGUabR) | [Love Is What](https://open.spotify.com/album/7IcQpBQ9z1iIlfCfTWBbOn) | 6:07 |
-| 60 | [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 |
+| 59 | [NEON RATS](https://open.spotify.com/track/5qhytiPIn0IXQKs9XE98YN) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy) | [MORE D4TA](https://open.spotify.com/album/7coOKcB1fDcYvLG1OTv4Dz) | 7:30 |
+| 60 | [Love Is What](https://open.spotify.com/track/0L7tuyMZF1V61SrXL1tvrI) | [Kollektiv Ost](https://open.spotify.com/artist/3G5wjUV0bhx9pIIUrGUabR) | [Love Is What](https://open.spotify.com/album/7IcQpBQ9z1iIlfCfTWBbOn) | 6:07 |
 | 61 | [Joy](https://open.spotify.com/track/17yYSZdxIfNNlI0Brpfvk0) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Joy](https://open.spotify.com/album/5KgoKcCyd2nI7oraUvbXWv) | 4:21 |
 | 62 | [Nova Two](https://open.spotify.com/track/2Pc744GTIafPnZrNGNdPUJ) | [Tale Of Us](https://open.spotify.com/artist/1UL813H5aj3e8ekE5RqWqc) | [Nova Two](https://open.spotify.com/album/7zeYcIdbaDuYYjiAmYCNjz) | 5:26 |
 | 63 | [Other Side](https://open.spotify.com/track/6pZVmX53ZAFis8ambncbZj) | [Binaryh](https://open.spotify.com/artist/7zw8gWmNncuk2QZHIc70So), [Eleonora](https://open.spotify.com/artist/2VErfOOcXOkiHhc823g50r) | [Sensitivity Spirals](https://open.spotify.com/album/0WN8HExI3A6hQCmFEOlXsx) | 6:56 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCHIm2MEeIy.md) - [plain]
 | 69 | [The Gates Of Babylonia](https://open.spotify.com/track/4JaCQuCXKEMo3jVDql5pqY) | [Stereo Express](https://open.spotify.com/artist/3j2zB13syOvCyrkJIomEA2) | [The Gates Of Babylonia](https://open.spotify.com/album/1WWuZ6jS4s45506fTQll3h) | 6:29 |
 | 70 | [Loving You Like Always \- Sainte Vie Remix](https://open.spotify.com/track/4wp5DGGbvBcalN7rq8Dn2d) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Sainte Vie](https://open.spotify.com/artist/30oVwXZSlElygdNpcUIFBk), [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO) | [Loving You Like Always \(Sainte Vie Remix\)](https://open.spotify.com/album/4qsf7fsxmloPBkIKTQxmJ0) | 6:52 |
 
-Snapshot ID: `MCw4NjkyNGIxZTUxOTYzYzNkYWM5MmRlNWRhYjVjNDRjMjAxY2ZkYWQ5`
+Snapshot ID: `MCxjNTA4ZTJjNDM3MDI3MGQyNDk0MGE1NmZlYTBjMWM5MDE5ODhhNjNk`

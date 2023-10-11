@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 
 > Las canciones que marcaron una época.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,117 likes - 70 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,158 likes - 70 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,13 +21,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 11 | [Oye](https://open.spotify.com/track/6Jsfaw9b0hopNZ1SVHEXmW) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [TINI TINI TINI](https://open.spotify.com/album/7LP6bUlMdnuqeP2etuw7wI) | 2:53 |
 | 12 | [Ese Maldito Momento](https://open.spotify.com/track/6MuJUSYCqA4FpMogUHzb2R) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:05 |
 | 13 | [El Tesoro](https://open.spotify.com/track/7HmuloxW2LLiPu0lcmkjoq) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 4:31 |
-| 14 | [Ciudad Mágica](https://open.spotify.com/track/29Bjl63rfik8188v8J08hQ) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Destinologia](https://open.spotify.com/album/64R3tRaDrsBL3DvBrHSx8C) | 3:29 |
+| 14 | [Obsesionario en La Mayor](https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 4:26 |
 | 15 | [Cae el Sol](https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Voragine](https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb) | 4:41 |
 | 16 | [Paisaje](https://open.spotify.com/track/76lY4r2aBw8XC9BXJtKz3C) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Solo Un Momento](https://open.spotify.com/album/0GLy7kICalYMGsgm3J1wzA) | 3:36 |
 | 17 | [Mírenla](https://open.spotify.com/track/0WuKq2LiraBFney78dzwoc) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [27](https://open.spotify.com/album/53SyvU4UwkCQc2jqZJc0Bo) | 4:16 |
 | 18 | [Dias De Sol Nublados](https://open.spotify.com/track/7zuo6tpxWFRytxkbYfMHnU) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Transparente](https://open.spotify.com/album/53EIsRN8rSPlkW1FvEepts) | 2:49 |
 | 19 | [Parque Acuático](https://open.spotify.com/track/0xxFisCrlitQsf8TCOwI1v) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Parque Acuático](https://open.spotify.com/album/1mOUMfzSdr2JV7xrxja636) | 2:52 |
-| 20 | [Obsesionario en La Mayor](https://open.spotify.com/track/2YNMRnIJMCxDQWYfXRxJmB) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Obsesionario](https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j) | 4:26 |
+| 20 | [Ciudad Mágica](https://open.spotify.com/track/29Bjl63rfik8188v8J08hQ) | [Tan Bionica](https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU) | [Destinologia](https://open.spotify.com/album/64R3tRaDrsBL3DvBrHSx8C) | 3:29 |
 | 21 | [Vámonos De Viaje](https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [BACH](https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg) | 3:56 |
 | 22 | [Tu Geografía](https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 2:38 |
 | 23 | [Hacer un puente](https://open.spotify.com/track/18Q3WTfyWX1tdS1cp42NhA) | [La Franela](https://open.spotify.com/artist/5P57GCRyvU7ln5GwNXU8ku) | [Hacer Un Puente](https://open.spotify.com/album/06HEYHOCM5fZXKhp3ox9ld) | 4:42 |
@@ -61,17 +61,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 51 | [El Club De La Montaña](https://open.spotify.com/track/1APOEv2rjfeQRrg0AEZdNa) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [BACH](https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg) | 3:54 |
 | 52 | [Aventura \(feat\. Marcela Morelo\)](https://open.spotify.com/track/6qkS2ebQrNmSznA50ODfxs) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Reevolución](https://open.spotify.com/album/3YL3YmNrEYympobNbV3eXT) | 3:29 |
 | 53 | [Años Luz](https://open.spotify.com/track/4SQFu2eDYHTD9DdRVG3vU3) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Años Luz](https://open.spotify.com/album/4cam3fnP6L0YYcib0EDmhO) | 3:13 |
-| 54 | [Comodín](https://open.spotify.com/track/5ujrjQsZYp7oark6k7SFVa) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [El Tiempo Otra Vez Avanza](https://open.spotify.com/album/314m9ZiGXnoaDtXp96LlHs) | 2:49 |
-| 55 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 |
-| 56 | [En Avenidas](https://open.spotify.com/track/5GgmtaUrV9qk6aBTbcupcd) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:15 |
+| 54 | [Sigo Caminando](https://open.spotify.com/track/1Po5Jxjh5gHCFiKIt6AQZR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Alas Canciones](https://open.spotify.com/album/0hDvH4mW4hxL8lTQEd4uP8) | 5:02 |
+| 55 | [En Avenidas](https://open.spotify.com/track/5GgmtaUrV9qk6aBTbcupcd) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:15 |
+| 56 | [Comodín](https://open.spotify.com/track/5ujrjQsZYp7oark6k7SFVa) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Charly García](https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo) | [El Tiempo Otra Vez Avanza](https://open.spotify.com/album/314m9ZiGXnoaDtXp96LlHs) | 2:49 |
 | 57 | [En Redondel](https://open.spotify.com/track/2bvP9MboEyUadosZOYC93K) | [Ella Es Tan Cargosa](https://open.spotify.com/artist/2fGM1BtKeCWjnriro6BaPS) | [Polos](https://open.spotify.com/album/4zd88TW1Vxi35LLUOWjKZ4) | 4:27 |
 | 58 | [Luz](https://open.spotify.com/track/3nLL7rb00qmExkNTyJJqSv) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Naranja Persa](https://open.spotify.com/album/7tUsFtOjoRAiu5uOHJfETd) | 4:31 |
 | 59 | [El Mundo Extraño](https://open.spotify.com/track/3z6CZiS2I89YQ2N0FMtGlG) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Sintesis O'Konor](https://open.spotify.com/album/7oEJJ7TxrfWGJXczcuOWpK) | 3:58 |
 | 60 | [Ya Lo Sabía](https://open.spotify.com/track/1fLa7ba2l141LWPUt7Bcok) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY) | [Magistral](https://open.spotify.com/album/1OZjewK6BpdLB24XlLkBbS) | 2:58 |
 | 61 | [Fuego y Pasión](https://open.spotify.com/track/42LDgGB2Eio9wX13fZkV7w) | [Juan Ingaramo](https://open.spotify.com/artist/2XVoz4hoXgQ3C2BTGxl9V2), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Best Seller](https://open.spotify.com/album/1hrLS52s2jGGvFN2tEIVf7) | 3:44 |
 | 62 | [Es el Amor](https://open.spotify.com/track/08MlcdHmD6lU6JcoSpob77) | [Estelares](https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF) | [Las Antenas](https://open.spotify.com/album/3x1cxDEbdkgGejry2pwyTz) | 4:01 |
-| 63 | [Corazón Fugitivo](https://open.spotify.com/track/08Az8ihw2PvIlj4cpLsZgT) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Pesados Vestigios](https://open.spotify.com/album/2jQGwS9ek4TmM8wbv8HUsF) | 3:56 |
-| 64 | [Policía](https://open.spotify.com/track/0pDooPTaMUaDQfnBdbPdYo) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Bandera](https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA) | 3:54 |
+| 63 | [Policía](https://open.spotify.com/track/0pDooPTaMUaDQfnBdbPdYo) | [1915](https://open.spotify.com/artist/4jwnlVc9Lj5vMkL32978d1) | [Bandera](https://open.spotify.com/album/318AKHHgLilno4gE3AiEAA) | 3:54 |
+| 64 | [Corazón Fugitivo](https://open.spotify.com/track/08Az8ihw2PvIlj4cpLsZgT) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Pesados Vestigios](https://open.spotify.com/album/2jQGwS9ek4TmM8wbv8HUsF) | 3:56 |
 | 65 | [Víctimas del Cielo](https://open.spotify.com/track/2LPq1zhFHJsCgXXKDA4RFd) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Brindando por Nada](https://open.spotify.com/album/3rvzEf5YFWKyOn0NCSZ4xx) | 4:13 |
 | 66 | [Que Corran](https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:59 |
 | 67 | [Mas o Menos Bien](https://open.spotify.com/track/5NY1Up0CdDRwKDlEmOsQ8X) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [La Dinastía Scorpio](https://open.spotify.com/album/6CCbK9Ac4NrgMCMF32cXr3) | 4:13 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 69 | [Ingrediente](https://open.spotify.com/track/6M6aCePRkHqmQsUGa6BegN) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Discutible](https://open.spotify.com/album/5c6b4NSsJHroOvLFUNBE3t) | 3:36 |
 | 70 | [Si Me Voy](https://open.spotify.com/track/39PaCcsOLhJx3U9To1Qxak) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Si Me Voy](https://open.spotify.com/album/1IucviBb2OOIZsrb49NJEq) | 3:06 |
 
-Snapshot ID: `MCwxOGYwZjIyNWU2N2ExMzhjNjhkZWYxZTAyYjA4ZWUwZTdlZjRhNzM1`
+Snapshot ID: `MCw5MzhjODliNjgzMTUwOWZlYzRjZGFhODNmYWMxN2Y2ZGEyNWYxZDIz`

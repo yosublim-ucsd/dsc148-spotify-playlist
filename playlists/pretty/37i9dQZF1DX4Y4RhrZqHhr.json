@@ -1,12 +1,12 @@
 {
   "description": "The ocean, the sun, your friends, the music.",
-  "num_followers": 798973,
+  "num_followers": 798815,
   "original_name": "Beach Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzM2U3ZDdlOWFiMDJjNmU4YmYyNmFmM2ZmNDliODE1ZDRjY2Q4NWNl",
+  "snapshot_id": "MCxjNTQzM2FkNTM4OTE0MzBlNTkzYmJkNDUxZmQ1YzUxYWNmMTQ2OTk3",
   "tracks": [
     {
       "added_at": "2023-08-07 22:19:56",
@@ -223,6 +223,22 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "Currents",
+        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 216320,
+      "name": "The Less I Know The Better",
+      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Oral Fixation, Vol. 2 (Expanded Edition)",
         "url": "https://open.spotify.com/album/5ppnlEoj4HdRRdRihnY3jU"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 218093,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3ZFTkvIE7kyPt6Nu3PEa7V"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "Currents",
-        "url": "https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 216320,
-      "name": "The Less I Know The Better",
-      "url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -475,22 +475,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Lay Low",
-        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Global Warming: Meltdown (Deluxe Version)",
         "url": "https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 204160,
       "name": "Timber (feat. Ke$ha)",
       "url": "https://open.spotify.com/track/3cHyrEgdyYRjgJKSOiOtcS"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Lay Low",
+        "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -683,6 +683,26 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/6mGDfbDErYIJsmSewvccWm"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 198773,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
       },
@@ -787,26 +807,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Car Keys (Ayla)",
-        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 147211,
-      "name": "Car Keys (Ayla)",
-      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/1c79SozES9Eb3Lzf9KVaIa"
       },
@@ -839,6 +839,26 @@
       "duration_ms": 156787,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/53tfEupEzQRtVFOeZvk7xq"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Car Keys (Ayla)",
+        "url": "https://open.spotify.com/album/1yUD0trOHc8dudwm9VAiHs"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 147211,
+      "name": "Car Keys (Ayla)",
+      "url": "https://open.spotify.com/track/00E0Z2jrF7reoHps4zcbWQ"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -943,30 +963,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "REACT",
-        "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
-      },
-      "artists": [
-        {
-          "name": "Switch Disco",
-          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        },
-        {
-          "name": "Robert Miles",
-          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
-        }
-      ],
-      "duration_ms": 201145,
-      "name": "REACT",
-      "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Sugar",
         "url": "https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt"
       },
@@ -1023,6 +1019,30 @@
       "duration_ms": 195546,
       "name": "This Girl (Kungs Vs. Cookin' On 3 Burners)",
       "url": "https://open.spotify.com/track/1A8j067qyiNwQnZT0bzUpZ"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "REACT",
+        "url": "https://open.spotify.com/album/3opvHAj80TIQMZAg9a2FNv"
+      },
+      "artists": [
+        {
+          "name": "Switch Disco",
+          "url": "https://open.spotify.com/artist/4dEayBlrVBjaQOktGkmWki"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        },
+        {
+          "name": "Robert Miles",
+          "url": "https://open.spotify.com/artist/2YVF0Ou5zIc4mpgtLIlGN0"
+        }
+      ],
+      "duration_ms": 201145,
+      "name": "REACT",
+      "url": "https://open.spotify.com/track/1UPHCP5YeVfele4DMbdGyi"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -1791,26 +1811,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "TAKE IT OFF",
-        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 194604,
-      "name": "TAKE IT OFF",
-      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Unstoppable (R3HAB Remix)",
         "url": "https://open.spotify.com/album/3qWCIK0fqmaaSTLoqoWsaz"
       },
@@ -1827,6 +1827,26 @@
       "duration_ms": 162352,
       "name": "Unstoppable - R3HAB Remix",
       "url": "https://open.spotify.com/track/0F3v8p8ZnEGtZDxNcJ5Klq"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "TAKE IT OFF",
+        "url": "https://open.spotify.com/album/29p3XedLUbGNxK7aje4WPW"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 194604,
+      "name": "TAKE IT OFF",
+      "url": "https://open.spotify.com/track/7zp9FOU4cjFdGN1zdWTvcB"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2147,26 +2167,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Barbie Girl (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
-      },
-      "artists": [
-        {
-          "name": "Aqua",
-          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 155076,
-      "name": "Barbie Girl - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "World Hold on (Children of the Sky) [Radio Edit]",
         "url": "https://open.spotify.com/album/5NeL55BkApry2hAFHImIhF"
       },
@@ -2183,6 +2183,26 @@
       "duration_ms": 204230,
       "name": "World Hold on (Children of the Sky) [Radio Edit]",
       "url": "https://open.spotify.com/track/1c0zagykmGPDYuxJeDqZhJ"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Barbie Girl (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/61gisYckDdbgK42QoJEl6c"
+      },
+      "artists": [
+        {
+          "name": "Aqua",
+          "url": "https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 155076,
+      "name": "Barbie Girl - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4zPVMv84MMHehLNZYIS1Zv"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2275,6 +2295,26 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "Lasting Lover",
+        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        },
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 218358,
+      "name": "Lasting Lover",
+      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2R1IseXguOsELhULk1H60P"
       },
@@ -2295,26 +2335,6 @@
       "duration_ms": 170578,
       "name": "On & On",
       "url": "https://open.spotify.com/track/19bua05ITWjFrk9iGxOA7r"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "Lasting Lover",
-        "url": "https://open.spotify.com/album/262JcveAzA4ngibAS3Ocm8"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        },
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 218358,
-      "name": "Lasting Lover",
-      "url": "https://open.spotify.com/track/0DmAvNCAK08oCi7miSZUIY"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2471,26 +2491,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Magnets EP",
-        "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
-      },
-      "artists": [
-        {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 174444,
-      "name": "Post Malone (feat. RANI)",
-      "url": "https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Stay the Night",
         "url": "https://open.spotify.com/album/3CwmVVPOCIC3hpWWSEF0xQ"
       },
@@ -2507,6 +2507,26 @@
       "duration_ms": 171954,
       "name": "Stay the Night",
       "url": "https://open.spotify.com/track/4qtdkdTY1t3RmlmSbWykzR"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Magnets EP",
+        "url": "https://open.spotify.com/album/41S9bfzXTSGK4HU2mp5qXH"
+      },
+      "artists": [
+        {
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 174444,
+      "name": "Post Malone (feat. RANI)",
+      "url": "https://open.spotify.com/track/0qc4QlcCxVTGyShurEv1UU"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -2599,6 +2619,22 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "Brighter Days",
+        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 229813,
+      "name": "Easy Love",
+      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Call On Me (Remixes)",
         "url": "https://open.spotify.com/album/5G7go9EeotMk9RfLETBDgJ"
       },
@@ -2615,22 +2651,6 @@
       "duration_ms": 222040,
       "name": "Call on Me - Ryan Riback Remix",
       "url": "https://open.spotify.com/track/2L6orAlH8tBhiFTumIfMyF"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "Brighter Days",
-        "url": "https://open.spotify.com/album/5rr0xAQfk01cPi1N37jX11"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 229813,
-      "name": "Easy Love",
-      "url": "https://open.spotify.com/track/5s7xgzXtmY4gMjeSlgisjy"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -3011,30 +3031,6 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
-        "name": "Jubel",
-        "url": "https://open.spotify.com/album/0YmJBTpPvSVH3KouPoO8Wk"
-      },
-      "artists": [
-        {
-          "name": "Konina",
-          "url": "https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj"
-        },
-        {
-          "name": "Reaxys",
-          "url": "https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI"
-        },
-        {
-          "name": "Deluxe1337",
-          "url": "https://open.spotify.com/artist/1h8UsH6AbwP6Bk8PE46coV"
-        }
-      ],
-      "duration_ms": 200150,
-      "name": "Jubel",
-      "url": "https://open.spotify.com/track/5m6adNVeSWlJoP0c0smACx"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
         "name": "Never Let Me Down",
         "url": "https://open.spotify.com/album/0Bukf9slmCY0nPhy80GzEQ"
       },
@@ -3119,6 +3115,22 @@
     {
       "added_at": "2023-08-07 22:19:56",
       "album": {
+        "name": "Jubel (Radio Edit)",
+        "url": "https://open.spotify.com/album/7fkrTTjzWHgZQj7vizhTza"
+      },
+      "artists": [
+        {
+          "name": "Klingande",
+          "url": "https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb"
+        }
+      ],
+      "duration_ms": 201626,
+      "name": "Jubel - Radio Edit",
+      "url": "https://open.spotify.com/track/0D2VYiRlBv43asKUgieZaM"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
         "name": "Communion (Deluxe)",
         "url": "https://open.spotify.com/album/09mWpzpUOSjjvK2iNqEIYn"
       },
@@ -3131,6 +3143,26 @@
       "duration_ms": 255506,
       "name": "Shine",
       "url": "https://open.spotify.com/track/0SjaL4cjD4PXOY4orbZSMZ"
+    },
+    {
+      "added_at": "2023-08-07 22:19:56",
+      "album": {
+        "name": "Anti-Hero (Remixes)",
+        "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Kungs",
+          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
+        }
+      ],
+      "duration_ms": 194612,
+      "name": "Anti-Hero - Kungs Remix",
+      "url": "https://open.spotify.com/track/1h0GRtSo5NeVVb1vqb5Uh1"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -3155,26 +3187,6 @@
       "duration_ms": 200015,
       "name": "Fireworks (feat. Moss Kena & The Knocks)",
       "url": "https://open.spotify.com/track/154YAkNQuFHLV3LbP7gP1f"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "Anti-Hero (Remixes)",
-        "url": "https://open.spotify.com/album/1UPhbHGeoVyk7RSbfjJMOA"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Kungs",
-          "url": "https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d"
-        }
-      ],
-      "duration_ms": 194612,
-      "name": "Anti-Hero - Kungs Remix",
-      "url": "https://open.spotify.com/track/1h0GRtSo5NeVVb1vqb5Uh1"
     },
     {
       "added_at": "2023-08-07 22:19:56",
@@ -3235,22 +3247,6 @@
       "duration_ms": 243536,
       "name": "Heat Waves - Oliver Heldens Remix",
       "url": "https://open.spotify.com/track/1UzjAQzvZcH19r3pUdeDQe"
-    },
-    {
-      "added_at": "2023-08-07 22:19:56",
-      "album": {
-        "name": "Let's Workout - Best Pop Hits -",
-        "url": "https://open.spotify.com/album/24MeYO60K87MWsx9e3NMGW"
-      },
-      "artists": [
-        {
-          "name": "WORK OUT GYM - DJ MIX",
-          "url": "https://open.spotify.com/artist/1C2SvMRlj6pLbmeUGqsUGS"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Danza Kuduro - Cover",
-      "url": "https://open.spotify.com/track/6igJeXPm1imhj1oEXjOxwN"
     },
     {
       "added_at": "2023-08-07 22:19:56",

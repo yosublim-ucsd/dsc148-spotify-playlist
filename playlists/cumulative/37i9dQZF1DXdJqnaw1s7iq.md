@@ -4,7 +4,7 @@
 
 > electronic nostalgia ⚡️ Cover: The xx
 
-123 songs - 8 hr 48 min
+124 songs - 8 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Intro](https://open.spotify.com/track/0aCRmuAglOL2ckmyXfG7Oh) | [Weval](https://open.spotify.com/artist/12tZvy2xFpWSkuJ3FsfisZ) | [Weval](https://open.spotify.com/album/51zkn8CSA5Tx2wKaGpl9ci) | 2:20 | 2023-05-17 | 2023-08-19 |
 | [It All Feels Right](https://open.spotify.com/track/2tpTRRc6XFZcwdZlc3hf02) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Paracosm](https://open.spotify.com/album/0NJB8HwQsR7RH4bVM7Z6HL) | 4:05 | 2023-05-17 |  |
 | [It Is What It Is](https://open.spotify.com/track/0BPWY79wNehGVARtwJawYV) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 5:07 | 2023-05-17 | 2023-05-21 |
+| [Ivory](https://open.spotify.com/track/47prNzqRUL0L9z9qZRRbZj) | [MOVEMENT](https://open.spotify.com/artist/3x7BaW5q1SDNv6bVrbOCmX) | [MOVEMENT](https://open.spotify.com/album/4ToXUKQJGUgtUrSSqB2Bck) | 3:42 | 2023-05-17 |  |
 | [Jasmine \- Demo](https://open.spotify.com/track/44LAHDPaM5dvkmmD5w1W84) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [Leak 04\-13 \(Bait Ones\)](https://open.spotify.com/album/4bCsLPQuCdQQBQOLs5MuNr) | 4:13 | 2023-05-17 |  |
 | [Just](https://open.spotify.com/track/7MHjC4y8tMWDV1xA3CpqzX) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Just EP](https://open.spotify.com/album/1naCJmNjiY0CBbCqJ22r25) | 6:12 | 2023-05-17 |  |
 | [Kingdom](https://open.spotify.com/track/46SpOq8ojlVUBrgGnUzUlV) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [North Downs](https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1) | [Kingdoms In Colour](https://open.spotify.com/album/70FGsJuLXPQHYdKmEZZFq9) | 4:10 | 2023-05-17 |  |
@@ -117,7 +118,7 @@
 | [The Heat](https://open.spotify.com/track/2ru82sMlycieEodGcKyszh) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:16 | 2023-05-17 |  |
 | [The Lung](https://open.spotify.com/track/45GTuMUP3lNuZcw7MGKfhx) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y) | [Choose Your Weapon](https://open.spotify.com/album/3qzmmmRmVBiOuMvrerfW4z) | 4:53 | 2023-05-17 | 2023-06-16 |
 | [The Wheel](https://open.spotify.com/track/2ZqhjS3T4r3DLcQqI2sqf5) | [SOHN](https://open.spotify.com/artist/6XZYAWJLL8UIbxAqjKj3cg) | [Tremors](https://open.spotify.com/album/021w8zNOK5t0XTrbvVUysp) | 3:53 | 2023-05-17 |  |
-| [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 | 2023-05-17 |  |
+| [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 | 2023-05-17 | 2023-10-11 |
 | [This Song Is Not About A Girl](https://open.spotify.com/track/40H5MGB07FCEmrgHBlmLDU) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Lockjaw](https://open.spotify.com/album/4wngUMjPQwiOngxqKPuh5p) | 4:14 | 2023-05-17 |  |
 | [Time to Pretend](https://open.spotify.com/track/4iG2gAwKXsOcijVaVXzRPW) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Oracular Spectacular](https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv) | 4:21 | 2023-06-29 |  |
 | [Treat Me Like Fire](https://open.spotify.com/track/3XRosKfSgFSDIb6YVpApIl) | [LION BABE](https://open.spotify.com/artist/4VA3EAvncrTucjTmrvd4GE) | [Begin](https://open.spotify.com/album/6R4ePhJDTDNwX6xVmmYuwn) | 4:10 | 2023-05-17 |  |

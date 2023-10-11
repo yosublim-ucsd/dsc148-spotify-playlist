@@ -1,12 +1,12 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 67210,
+  "num_followers": 67267,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3M2ViZWZkOGVlZjMzMWFkM2UyMTBhMWM1MjkwZDc4ZDgwY2E0ZDlh",
+  "snapshot_id": "MCxkZjEyNmQzMGRjODk5MzczNTRmZWY0ZDhkMmJiNmVlNzQ2ZGIxZmI4",
   "tracks": [
     {
       "added_at": "2023-09-22 11:16:18",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "Love Transcends",
+        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
+      },
+      "artists": [
+        {
+          "name": "Jackie Venson",
+          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
+        }
+      ],
+      "duration_ms": 258696,
+      "name": "Rollin' On (Acoustic)",
+      "url": "https://open.spotify.com/track/2lFGq1alf0bQKUx3uoTA4Z"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "An Anthology",
         "url": "https://open.spotify.com/album/1JrO2Vp9I2ExzAFvMcZKzb"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 232507,
       "name": "Mean Old World",
       "url": "https://open.spotify.com/track/4w1nfPlGNqp4vDxDZRTmAi"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
-        "name": "Love Transcends",
-        "url": "https://open.spotify.com/album/0gbhkq77MWLw3BXB63Hby2"
-      },
-      "artists": [
-        {
-          "name": "Jackie Venson",
-          "url": "https://open.spotify.com/artist/2HlgRiOR33BVVE9hdEftxg"
-        }
-      ],
-      "duration_ms": 258696,
-      "name": "Rollin' On (Acoustic)",
-      "url": "https://open.spotify.com/track/2lFGq1alf0bQKUx3uoTA4Z"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -575,22 +575,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "The King of Chicago Blues Piano",
-        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
-      },
-      "artists": [
-        {
-          "name": "Big Maceo",
-          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/5RKBqebBiGoxUp6nCYZwLx"
       },
@@ -611,18 +595,18 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Come to Find",
-        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
+        "name": "The King of Chicago Blues Piano",
+        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
       },
       "artists": [
         {
-          "name": "Doug MacLeod",
-          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+          "name": "Big Maceo",
+          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
         }
       ],
-      "duration_ms": 301733,
-      "name": "Mystery Woman",
-      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
+      "duration_ms": 175293,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -643,22 +627,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "My Feeling For the Blues",
-        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 202266,
-      "name": "Yonder Wall",
-      "url": "https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Scoundrel",
         "url": "https://open.spotify.com/album/4vphCYhZVlxcbIste3zR3O"
       },
@@ -671,6 +639,38 @@
       "duration_ms": 277733,
       "name": "Bonnie",
       "url": "https://open.spotify.com/track/1PNPixI2jwff1KZDJtStTz"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Come to Find",
+        "url": "https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd"
+      },
+      "artists": [
+        {
+          "name": "Doug MacLeod",
+          "url": "https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz"
+        }
+      ],
+      "duration_ms": 301733,
+      "name": "Mystery Woman",
+      "url": "https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "My Feeling For the Blues",
+        "url": "https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 202266,
+      "name": "Yonder Wall",
+      "url": "https://open.spotify.com/track/2vKadnRjDi4F56pHspv9u1"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -927,6 +927,26 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "Push The Blues Away",
+        "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
+      },
+      "artists": [
+        {
+          "name": "Ash Grunwald",
+          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
+        },
+        {
+          "name": "Josh Teskey",
+          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
+        }
+      ],
+      "duration_ms": 218864,
+      "name": "Low Down Dog",
+      "url": "https://open.spotify.com/track/2EonQEVNpFj4DjrBqBghxe"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "Philadelphia Mississippi",
         "url": "https://open.spotify.com/album/7LPvvSqf27OBr5a8Erupl3"
       },
@@ -959,26 +979,6 @@
       "duration_ms": 204986,
       "name": "Yellow Peril",
       "url": "https://open.spotify.com/track/5lzSKx8sUNApxzrGU6POXw"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
-        "name": "Push The Blues Away",
-        "url": "https://open.spotify.com/album/3JwlzjuJ47e8tx2Y7AbKfl"
-      },
-      "artists": [
-        {
-          "name": "Ash Grunwald",
-          "url": "https://open.spotify.com/artist/04HjibunL2jGRLEqVEMfZY"
-        },
-        {
-          "name": "Josh Teskey",
-          "url": "https://open.spotify.com/artist/4BGagHmgh8YwhvCuUQinnd"
-        }
-      ],
-      "duration_ms": 218864,
-      "name": "Low Down Dog",
-      "url": "https://open.spotify.com/track/2EonQEVNpFj4DjrBqBghxe"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "Neckbone Stew",
+        "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Wilson",
+          "url": "https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr"
+        }
+      ],
+      "duration_ms": 181040,
+      "name": "Cross Creek Road",
+      "url": "https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
         "url": "https://open.spotify.com/album/6r1arc3ykrvuOfit3ezIoR"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 181546,
       "name": "You Was Born To Die (feat. Kyshona Armstrong, Margo Price & Jason Isbell)",
       "url": "https://open.spotify.com/track/2SVuc7b7qwCcDX4rCAqkyJ"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
-        "name": "Neckbone Stew",
-        "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
-      },
-      "artists": [
-        {
-          "name": "Big Daddy Wilson",
-          "url": "https://open.spotify.com/artist/4xBhIBf0DEjAcJvGSwJdFr"
-        }
-      ],
-      "duration_ms": 181040,
-      "name": "Cross Creek Road",
-      "url": "https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1699,8 +1699,8 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Vanguard Visionaries",
-        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
+        "name": "Candy Man Blues: Essential Recordings",
+        "url": "https://open.spotify.com/album/5QrttrAFJuldYaHVPPrv0L"
       },
       "artists": [
         {
@@ -1708,9 +1708,9 @@
           "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
         }
       ],
-      "duration_ms": 335880,
-      "name": "Stagolee",
-      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
+      "duration_ms": 175226,
+      "name": "Candy Man Blues",
+      "url": "https://open.spotify.com/track/2zWPKlfQgU4csG9gpPsYNY"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Judgement Day",
-        "url": "https://open.spotify.com/album/26Cre4KkKh1zqNjUsWdVmR"
-      },
-      "artists": [
-        {
-          "name": "Marc Amacher",
-          "url": "https://open.spotify.com/artist/1I2PNULXYS3j9Kz2Vvu3T0"
-        }
-      ],
-      "duration_ms": 252253,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/1upnWLTSKwbTDFYujFU6Tu"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "When Your Best Friend Turns Their Back On You",
         "url": "https://open.spotify.com/album/3Ay1P99wYBVNKeQTF6z6M4"
       },
@@ -1815,22 +1799,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Candy Man Blues: Essential Recordings",
-        "url": "https://open.spotify.com/album/5QrttrAFJuldYaHVPPrv0L"
-      },
-      "artists": [
-        {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
-        }
-      ],
-      "duration_ms": 175226,
-      "name": "Candy Man Blues",
-      "url": "https://open.spotify.com/track/2zWPKlfQgU4csG9gpPsYNY"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Mystery Man",
         "url": "https://open.spotify.com/album/6Cjm5t6RYzmruGL4OrQDBt"
       },
@@ -1843,6 +1811,38 @@
       "duration_ms": 291295,
       "name": "T.B. Blues",
       "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Vanguard Visionaries",
+        "url": "https://open.spotify.com/album/3D71Z5ePVE4f4juXmdutS8"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 335880,
+      "name": "Stagolee",
+      "url": "https://open.spotify.com/track/0INjbPra3ktap3X30Bo7HP"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/26Cre4KkKh1zqNjUsWdVmR"
+      },
+      "artists": [
+        {
+          "name": "Marc Amacher",
+          "url": "https://open.spotify.com/artist/1I2PNULXYS3j9Kz2Vvu3T0"
+        }
+      ],
+      "duration_ms": 252253,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/1upnWLTSKwbTDFYujFU6Tu"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd"
-      },
-      "artists": [
-        {
-          "name": "Jhett Black",
-          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
-        }
-      ],
-      "duration_ms": 222724,
-      "name": "Smoke In Heaven",
-      "url": "https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
         "name": "Guitar Blues 101",
         "url": "https://open.spotify.com/album/0mCotLBZPPVWi32oF1Cwnr"
       },
@@ -1967,6 +1951,22 @@
     {
       "added_at": "2023-09-22 11:16:18",
       "album": {
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd"
+      },
+      "artists": [
+        {
+          "name": "Jhett Black",
+          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
+        }
+      ],
+      "duration_ms": 222724,
+      "name": "Smoke In Heaven",
+      "url": "https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
         "name": "Today!",
         "url": "https://open.spotify.com/album/2AijI0LujDEUd9smSk87Uw"
       },
@@ -1979,6 +1979,22 @@
       "duration_ms": 248560,
       "name": "Louis Collins",
       "url": "https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq"
+    },
+    {
+      "added_at": "2023-09-22 11:16:18",
+      "album": {
+        "name": "Make Myself Me Again",
+        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
+      },
+      "artists": [
+        {
+          "name": "Cristina Vane",
+          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
+        }
+      ],
+      "duration_ms": 169826,
+      "name": "Small Town Nashville Blues",
+      "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
     },
     {
       "added_at": "2023-09-22 11:16:18",
@@ -1999,22 +2015,6 @@
       "duration_ms": 198000,
       "name": "Newbury",
       "url": "https://open.spotify.com/track/5XM2FOhXcBJQzABOmlQQEl"
-    },
-    {
-      "added_at": "2023-09-22 11:16:18",
-      "album": {
-        "name": "Make Myself Me Again",
-        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
-      },
-      "artists": [
-        {
-          "name": "Cristina Vane",
-          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
-        }
-      ],
-      "duration_ms": 169826,
-      "name": "Small Town Nashville Blues",
-      "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
     },
     {
       "added_at": "2023-09-22 11:16:18",

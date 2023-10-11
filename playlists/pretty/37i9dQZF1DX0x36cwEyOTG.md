@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 
 > Relax with this mix of peaceful, ambient, indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 425,088 likes - 50 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,998 likes - 50 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 12 | [Berlin](https://open.spotify.com/track/7BSMSvK0WxrDeI98bswYa8) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Dawn](https://open.spotify.com/album/0DvauBOn2G8RIEQR54Cmiv) | 2:54 |
 | 13 | [Threnody](https://open.spotify.com/track/7hyAAjHZaDWSPDzlUYNUIa) | [Goldmund](https://open.spotify.com/artist/0R5BzePlbvG8xTXw0QF3uw) | [The Malady Of Elegance](https://open.spotify.com/album/1vF5y6BC66nKozxg0Dsvvo) | 4:41 |
 | 14 | [Sister](https://open.spotify.com/track/5amf0Fkdt3Mu6cdvXhKgOq) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [All We've Known](https://open.spotify.com/album/5kFNVejPETepNP6mrsoeox) | 2:13 |
-| 15 | [Them](https://open.spotify.com/track/2tr4oclswJ6v3dfDlI01HD) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria](https://open.spotify.com/album/5Bd46K8hcylV7O7xz2YqEX) | 3:59 |
-| 16 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 |
+| 15 | [Small Memory](https://open.spotify.com/track/78kPi2sLwSmILgJXz7wQxg) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Insides](https://open.spotify.com/album/124tr6mYSuv4yCQUKfyKTF) | 1:40 |
+| 16 | [Them](https://open.spotify.com/track/2tr4oclswJ6v3dfDlI01HD) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Music for the Motion Picture Victoria](https://open.spotify.com/album/5Bd46K8hcylV7O7xz2YqEX) | 3:59 |
 | 17 | [Dorian](https://open.spotify.com/track/0ZilhIkx5dOgRSi7GdnKqp) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [Aventine](https://open.spotify.com/album/011ifQyKbsMAWCUFDZiMaa) | 4:48 |
 | 18 | [Love Songs For Robots](https://open.spotify.com/track/3VtlSKbs0IjVeeRV4otHNT) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Love Songs For Robots](https://open.spotify.com/album/4MdPpRGC3wjAI23bXGClnZ) | 3:37 |
 | 19 | [Half the World Away](https://open.spotify.com/track/0sN0KsgEU0RxNsGJ0zOGor) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 3:18 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 26 | [Arrows](https://open.spotify.com/track/6CjEJqxWB8AndIm0gGvieH) | [Haux](https://open.spotify.com/artist/1ifC4znYCvmMSJ0rght5JS) | [Something To Remember](https://open.spotify.com/album/7vKjpw0lHwLpim0U1lVf7U) | 2:29 |
 | 27 | [Dungtitled \(In a Major\)](https://open.spotify.com/track/3OgkfYg13Jj96E982moWje) | [Stars Of The Lid](https://open.spotify.com/artist/36pCa1JHc6hlGbfEmLzJQc) | [And Their Refinement of the Decline](https://open.spotify.com/album/6cHPEbPryLpH5VX5Eb1Vvo) | 5:54 |
 | 28 | [Statue Of A Woman](https://open.spotify.com/track/6b68aviQQgq22JuK2CDno6) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Cannot Be, Whatsoever](https://open.spotify.com/album/1KkBDNtkZDW8COUNKAWRPw) | 1:57 |
-| 29 | [Heading Home](https://open.spotify.com/track/2J7w7iXgOW2o5QTxNWveoY) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/4KwHbfz70XklNDO1ZNC8EE) | 3:57 |
-| 30 | [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 |
+| 29 | [Fool's Gold](https://open.spotify.com/track/5REU0Dsx7A1FW1q8xD8v9B) | [S\. Carey](https://open.spotify.com/artist/2LSJrlndCuTpdEluvYHc2E) | [Hundred Acres](https://open.spotify.com/album/4H1xbaXxVDmHnFQ5ifzyM4) | 4:14 |
+| 30 | [Heading Home](https://open.spotify.com/track/2J7w7iXgOW2o5QTxNWveoY) | [Julianna Barwick](https://open.spotify.com/artist/0HWfFWL4vVrbaBQqxVCwCi) | [Will](https://open.spotify.com/album/4KwHbfz70XklNDO1ZNC8EE) | 3:57 |
 | 31 | [Wrapped In Piano Strings](https://open.spotify.com/track/4zCKcMys29lH8xOYeiDYod) | [Radical Face](https://open.spotify.com/artist/5EM6xJN2QNk0cL7EEm9HR9) | [Ghost](https://open.spotify.com/album/3kN131kyymtaEFQo14tfLr) | 3:37 |
 | 32 | [Get On With It](https://open.spotify.com/track/7kkHmLA9r54mm2N35wMyvS) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [End Of The Day \(music from the film Anonymous Club\)](https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5) | 5:44 |
 | 33 | [We Have A Map Of The Piano](https://open.spotify.com/track/5NFZLpFoP4fVWjmc007A5k) | [múm](https://open.spotify.com/artist/4mw86zm4QZIL8SksdyE6OU) | [Finally We Are No One](https://open.spotify.com/album/2XCcnYJJQXYoWm5oc20x9k) | 5:19 |
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0x36cwEyOTG.md) - [plain]
 | 36 | [All I Had Was You](https://open.spotify.com/track/2Hf9PMwygO0mBTKuJPb5L9) | [Paul Moody](https://open.spotify.com/artist/6FLG88yIgDt5jgvGxB9trN), [The Field Tapes](https://open.spotify.com/artist/4LeF3SUf7hytyGQJoLJbym), [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft) | [All I Had Was You](https://open.spotify.com/album/719jG1auZkJ7opAXcI2lXO) | 3:07 |
 | 37 | [Petrichor](https://open.spotify.com/track/1RWRfknqqgTNNPO1EoP7Wo) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Romantic Works](https://open.spotify.com/album/0DmaYVn58Dnq79ymSPPVYm) | 3:20 |
 | 38 | [You](https://open.spotify.com/track/3LAqlsucNdQnRARPxCK7Bm) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Screws](https://open.spotify.com/album/2jp10nhpPcZkuUaFougyN3) | 3:06 |
-| 39 | [Through The Dark](https://open.spotify.com/track/2Tax7fSPDly9OLIAZRd0Dp) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Towards The Sun](https://open.spotify.com/album/0C8nB6bCch6qbzcYXBnsaJ) | 5:30 |
-| 40 | [Breathe In](https://open.spotify.com/track/00JzUNcRdhoALWUIiK5UnA) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [0](https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb) | 7:34 |
+| 39 | [Breathe In](https://open.spotify.com/track/00JzUNcRdhoALWUIiK5UnA) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [0](https://open.spotify.com/album/4G3ZBFg8MpTSDxDQ3m2BCb) | 7:34 |
+| 40 | [Through The Dark](https://open.spotify.com/track/2Tax7fSPDly9OLIAZRd0Dp) | [Alexi Murdoch](https://open.spotify.com/artist/25mrbNwFzoqPWyYXLhiDRw) | [Towards The Sun](https://open.spotify.com/album/0C8nB6bCch6qbzcYXBnsaJ) | 5:30 |
 | 41 | [Masollan](https://open.spotify.com/track/3F8K6njJIKvuMkAzItLzDz) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [Stranger](https://open.spotify.com/album/2DQgDdMRNtvMKVEoFPdNFy) | 5:13 |
 | 42 | [Broken](https://open.spotify.com/track/1k7ZAtPOzRw49KL6CT4MXa) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Broken](https://open.spotify.com/album/6hvnQ9TLd5txakEGIij7R0) | 4:37 |
 | 43 | [Watching the Storm](https://open.spotify.com/track/5Ormcdpk9HXgPyTmEH8LQ1) | [U137](https://open.spotify.com/artist/5Js8zUcr9OCEyoWjw3joxY) | [Dreamer on the Run](https://open.spotify.com/album/4dp33vx7vWx93lxuxjNTz2) | 5:07 |
-| 44 | [Michael](https://open.spotify.com/track/5n2B1j5DEPsk13k8fgJMRb) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG) | 2:21 |
-| 45 | [Husks And Shells](https://open.spotify.com/track/0jeDGNGMULFL1xE6ImBhVQ) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Unmap](https://open.spotify.com/album/4Man19eOZ8DBymTPSbSuF3) | 3:43 |
+| 44 | [Husks And Shells](https://open.spotify.com/track/0jeDGNGMULFL1xE6ImBhVQ) | [Volcano Choir](https://open.spotify.com/artist/6gAtOqhriLzOzb3Qqmg5kO) | [Unmap](https://open.spotify.com/album/4Man19eOZ8DBymTPSbSuF3) | 3:43 |
+| 45 | [Michael](https://open.spotify.com/track/5n2B1j5DEPsk13k8fgJMRb) | [Gem Club](https://open.spotify.com/artist/7mfGqyAztYr0FI5gK5OCNp) | [In Roses](https://open.spotify.com/album/2pJ2NdaalryGLVtCo8ehoG) | 2:21 |
 | 46 | [Siren](https://open.spotify.com/track/0b62y1bXn7ru5HTlqAfgk5) | [Sean Angus Watson](https://open.spotify.com/artist/2kiSeGQsztzTrVXlIZOoBn) | [Siren](https://open.spotify.com/album/0tFARk2yFys7RawhwTPcM0) | 4:08 |
-| 47 | [Alright](https://open.spotify.com/track/7EqB4Si62qbT1P8Yf3ZPKH) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Kindly Now](https://open.spotify.com/album/2STN4lLvNNRsO0FuatKqVI) | 4:39 |
-| 48 | [Friends Make Garbage \(Good Friends Take It Out\)](https://open.spotify.com/track/0h3CnJ0DLrVcxggoDBDcNR) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Low Roar](https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC) | 5:34 |
-| 49 | [Neptune](https://open.spotify.com/track/2JU3S0fBRx71WdoPNxjJTf) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [James McAlister](https://open.spotify.com/artist/2TvVB6B050Aj5y2Hk4H84z), [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Planetarium](https://open.spotify.com/album/1wQiDPyqj92SnCIejeVn9P) | 3:04 |
+| 47 | [Neptune](https://open.spotify.com/track/2JU3S0fBRx71WdoPNxjJTf) | [Bryce Dessner](https://open.spotify.com/artist/5HHKeO04SOcxUxjruFXf5l), [James McAlister](https://open.spotify.com/artist/2TvVB6B050Aj5y2Hk4H84z), [Nico Muhly](https://open.spotify.com/artist/2vObsQCPsbVfkqHlQOu2zc), [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Planetarium](https://open.spotify.com/album/1wQiDPyqj92SnCIejeVn9P) | 3:04 |
+| 48 | [Alright](https://open.spotify.com/track/7EqB4Si62qbT1P8Yf3ZPKH) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160) | [Kindly Now](https://open.spotify.com/album/2STN4lLvNNRsO0FuatKqVI) | 4:39 |
+| 49 | [Friends Make Garbage \(Good Friends Take It Out\)](https://open.spotify.com/track/0h3CnJ0DLrVcxggoDBDcNR) | [Low Roar](https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE) | [Low Roar](https://open.spotify.com/album/3lETJkavciTauiSyOV1gZC) | 5:34 |
 | 50 | [Unknown](https://open.spotify.com/track/3cK6EDdflOk0PZhknPevxg) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Unknown / \(It's Not About\) Running](https://open.spotify.com/album/2s1NRhhKQluvnzfqulltvC) | 4:10 |
 
-Snapshot ID: `MCxlZTdiYWU3MDljOWZiNzgxZDVhMzJiNjc1ZDc2ZjM3NmUwZTRkM2Mz`
+Snapshot ID: `MCwyYWU5OTc4YThiYmFiZDNhNDM3ZDg3ZDc1NDIzNDZkMTk1ZTgwOWU0`

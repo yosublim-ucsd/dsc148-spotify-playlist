@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 
 > Get the drinks on ice, this one is on us
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,403 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,460 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 | 22 | [Bittersweet Goodbye](https://open.spotify.com/track/5RHIevCuoIZcY1AlnJ01fN) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U) | [Bittersweet Goodbye](https://open.spotify.com/album/2n81J4HlMoEImWaC6OLeZh) | 2:46 |
 | 23 | [Maria Maria](https://open.spotify.com/track/4wP6mzWZC94dYmU6OYeljf) | [TECH IT DEEP](https://open.spotify.com/artist/0zG1jPdH10g3d0dZINMYkw) | [Maria Maria](https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd) | 2:41 |
 | 24 | [I Found You](https://open.spotify.com/track/1AA8Uqpa1CbUmopvzmUjFp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [I Found You](https://open.spotify.com/album/3oBbwosopJw2EGK26fTzEW) | 2:56 |
-| 25 | [0800 HEAVEN](https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/40izf85UJ64znlhMKw2a6r) | 2:39 |
+| 25 | [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 |
 | 26 | [COULD BE WRONG](https://open.spotify.com/track/5zuex7tbGFz0gSHlrMvQdu) | [LOSTBOYJAY](https://open.spotify.com/artist/1k0BkkbwTGZGBqrNWwuucL) | [COULD BE WRONG](https://open.spotify.com/album/2aJE1EikJGFwNq0NdGHcZP) | 3:06 |
 | 27 | [Here We Go Again \(feat\. Shanice Griffin & David Ryan\)](https://open.spotify.com/track/4D5d2gz2XcnkubPLmM5ezl) | [Ev Wilde](https://open.spotify.com/artist/62RtU7JrIuwxmpuQQKejK8), [Shanice Griffin](https://open.spotify.com/artist/6WEp9L0o47OX4eU1ovn1ri), [David Ryan](https://open.spotify.com/artist/3yWJZhYZGAM8Wnrl35CNSf) | [Here We Go Again \(feat\. Shanice Griffin & David Ryan\)](https://open.spotify.com/album/6HhUUw2IjQBQcG3K881uqm) | 2:38 |
 | 28 | [Feel It \- Club Edit](https://open.spotify.com/track/71xKlOIhZKO55Rt3zSHzQt) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Feel It \(Club Edit\)](https://open.spotify.com/album/0xa0dJgYKO9keCfgjhuBYH) | 2:04 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ITTpGLyrci.md) - [plain]
 | 99 | [Body Groove \(feat\. Crystxl King\)](https://open.spotify.com/track/2sW3snLTi77h0rm4g9tDuD) | [Wyles](https://open.spotify.com/artist/77u8tnFyGYz4GrpGbQXeUr), [Architechs](https://open.spotify.com/artist/4uq3HY9rto71MxVGVCZm8G), [Crystxl King](https://open.spotify.com/artist/01FnnL35UsLhTNK27gZjqt) | [Body Groove \(feat\. Crystxl King\)](https://open.spotify.com/album/1JYq2a06tP799ORo2YdBB6) | 2:45 |
 | 100 | [Crazy What Love Can Do](https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Crazy What Love Can Do](https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707) | 2:49 |
 
-Snapshot ID: `MCwxNmRhZTljZjA3ZDJhZTEyZjc3OGFkYWMyYTFlY2U4NmVkYTA3Mjhi`
+Snapshot ID: `MCxiOWI0YWU2MTRkYWQ2ODdhNTM4M2JlNzEyZWEwNjlkZDMwYmM2Y2M3`

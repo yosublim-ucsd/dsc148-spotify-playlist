@@ -1,12 +1,12 @@
 {
   "description": "The best easy rock from the 1990s. Cover: Bryan Adams.",
-  "num_followers": 311683,
+  "num_followers": 312945,
   "original_name": "90s Easy Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYmNkMDZkZTNlNjYwZDAzZGE5OGY2N2NkZTc1ZjdjYmQ5NmY4Nzlh",
+  "snapshot_id": "MCxkNjhhMGRlMzUzMzdiZmEzYmRiYWNlOWFhODI1ZmU5NjUwYzcyNTEz",
   "tracks": [
     {
       "added_at": "2023-01-18 22:23:18",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
-      },
-      "artists": [
-        {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Semi-Charmed Life",
-      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Mama Said",
         "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 320266,
       "name": "Everybody Hurts",
       "url": "https://open.spotify.com/track/6PypGyiu0Y2lCDBN1XZEnP"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Semi-Charmed Life",
+      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Savage Garden",
         "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4"
       },
@@ -479,18 +463,18 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Stunt (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
       },
       "artists": [
         {
-          "name": "Barenaked Ladies",
-          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
         }
       ],
-      "duration_ms": 169760,
-      "name": "One Week",
-      "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
+      "duration_ms": 229586,
+      "name": "Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -523,6 +507,22 @@
       "duration_ms": 291666,
       "name": "Have You Ever Really Loved A Woman? - From \"Don Juan DeMarco\" Soundtrack",
       "url": "https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Stunt (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0DuFDnZcj7B4R0Jik1aDmY"
+      },
+      "artists": [
+        {
+          "name": "Barenaked Ladies",
+          "url": "https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79"
+        }
+      ],
+      "duration_ms": 169760,
+      "name": "One Week",
+      "url": "https://open.spotify.com/track/29hBRadFZf9QTGRHZmxm65"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -735,6 +735,22 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
+        "name": "Gran Turismo (Remastered)",
+        "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
+      },
+      "artists": [
+        {
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ],
+      "duration_ms": 218504,
+      "name": "Erase / Rewind",
+      "url": "https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
         "name": "Lean Into It [Expanded]",
         "url": "https://open.spotify.com/album/6CrjpyjlfjK95oHF6dvEnQ"
       },
@@ -751,18 +767,18 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Gran Turismo (Remastered)",
-        "url": "https://open.spotify.com/album/5DiOwioOBqVCSH6IwGBXEc"
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
       },
       "artists": [
         {
-          "name": "The Cardigans",
-          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
         }
       ],
-      "duration_ms": 218504,
-      "name": "Erase / Rewind",
-      "url": "https://open.spotify.com/track/3JfkNCiXjHEVkbFfCQ417E"
+      "duration_ms": 318533,
+      "name": "Let Her Cry",
+      "url": "https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -815,22 +831,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 318533,
-      "name": "Let Her Cry",
-      "url": "https://open.spotify.com/track/6NGi23FFKq9tH5NR1NcTw2"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "This Fire",
         "url": "https://open.spotify.com/album/5cUiPJUUMfNQr0ELSDGscs"
       },
@@ -843,6 +843,22 @@
       "duration_ms": 320026,
       "name": "I Don't Want to Wait",
       "url": "https://open.spotify.com/track/5MDQNJ7SZTytJwCbWKqJDL"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Bump Ahead [Expanded]",
+        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
+      },
+      "artists": [
+        {
+          "name": "Mr. Big",
+          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
+        }
+      ],
+      "duration_ms": 208560,
+      "name": "Wild World - 2009 Remastered Version",
+      "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -879,38 +895,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Bump Ahead [Expanded]",
-        "url": "https://open.spotify.com/album/4CgsfLFMXaJVXz0k2mHkVA"
-      },
-      "artists": [
-        {
-          "name": "Mr. Big",
-          "url": "https://open.spotify.com/artist/5OfhOoKunSnuubxxRML8J3"
-        }
-      ],
-      "duration_ms": 208560,
-      "name": "Wild World - 2009 Remastered Version",
-      "url": "https://open.spotify.com/track/2kj5f1eRhUFhW6K0qUwoD8"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
-        "name": "The Blue Room",
-        "url": "https://open.spotify.com/album/3MVb2CWB36x7VwYo5sZmf2"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 171373,
-      "name": "See You Soon",
-      "url": "https://open.spotify.com/track/1uKzAldJYlwje9HstlwTie"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Cracked Rear View",
         "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 265000,
       "name": "Why Does It Always Rain On Me?",
       "url": "https://open.spotify.com/track/5MmWgG5KgiqSxkOZdVXRQA"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "The Blue Room",
+        "url": "https://open.spotify.com/album/3MVb2CWB36x7VwYo5sZmf2"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "See You Soon",
+      "url": "https://open.spotify.com/track/1uKzAldJYlwje9HstlwTie"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Bat Out Of Hell II: Back Into Hell",
-        "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
-      },
-      "artists": [
-        {
-          "name": "Meat Loaf",
-          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
-        }
-      ],
-      "duration_ms": 316466,
-      "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
-      "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Zooropa",
         "url": "https://open.spotify.com/album/0IYjMBLA9PgtXyRPlLmTDE"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 298426,
       "name": "Stay (Faraway, So Close!)",
       "url": "https://open.spotify.com/track/1E1ylgIWTW2yE0glywYLb6"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Bat Out Of Hell II: Back Into Hell",
+        "url": "https://open.spotify.com/album/2frbTcZJoMRuAbeXpuOx0Z"
+      },
+      "artists": [
+        {
+          "name": "Meat Loaf",
+          "url": "https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz"
+        }
+      ],
+      "duration_ms": 316466,
+      "name": "I'd Do Anything For Love (But I Won't Do That) - Single Edit",
+      "url": "https://open.spotify.com/track/391CwgcBxvUHmEKda2b5In"
     },
     {
       "added_at": "2023-01-18 22:23:18",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-01-18 22:23:18",
       "album": {
-        "name": "Yes I Am",
-        "url": "https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD"
-      },
-      "artists": [
-        {
-          "name": "Melissa Etheridge",
-          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Come To My Window",
-      "url": "https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3"
-    },
-    {
-      "added_at": "2023-01-18 22:23:18",
-      "album": {
         "name": "Riskin' It All (2009 - Remastered)",
         "url": "https://open.spotify.com/album/2Qrw5hEkU1Nl9QU15bPaHs"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 248400,
       "name": "My Favorite Mistake",
       "url": "https://open.spotify.com/track/1eKPBcUKstvi0UKNvpSbl1"
+    },
+    {
+      "added_at": "2023-01-18 22:23:18",
+      "album": {
+        "name": "Yes I Am",
+        "url": "https://open.spotify.com/album/1qzfqlEyzPD0VyCcSSQwZD"
+      },
+      "artists": [
+        {
+          "name": "Melissa Etheridge",
+          "url": "https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Come To My Window",
+      "url": "https://open.spotify.com/track/4LmlGaGTEbTGE5VngAbpA3"
     },
     {
       "added_at": "2023-01-18 22:23:18",

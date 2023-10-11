@@ -1,12 +1,12 @@
 {
   "description": "The south got something to say. Cover: Ludacris",
-  "num_followers": 499382,
+  "num_followers": 499601,
   "original_name": "I Love My Down South Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjQzODUxMmE5MmI5MjFlMzU4NmMzMjkxODNlODFhOGRkODM4OTI3",
+  "snapshot_id": "MCxjYjQ5NTdmYmIzYmNjMjU0MGFhOGYyMzNjMTA4OTViZDgzZThiYmEw",
   "tracks": [
     {
       "added_at": "2023-09-29 17:21:26",
@@ -18,15 +18,11 @@
         {
           "name": "Ludacris",
           "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
-        },
-        {
-          "name": "Shawnna",
-          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
         }
       ],
-      "duration_ms": 213760,
-      "name": "Stand Up",
-      "url": "https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e"
+      "duration_ms": 290760,
+      "name": "Splash Waterfalls",
+      "url": "https://open.spotify.com/track/2T8hXV9LUZMDBKR5RALGEa"
     },
     {
       "added_at": "2023-09-29 17:21:26",
@@ -282,11 +278,15 @@
         {
           "name": "Ludacris",
           "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        },
+        {
+          "name": "Shawnna",
+          "url": "https://open.spotify.com/artist/4gpDA7R5796e6zbvZxGNga"
         }
       ],
-      "duration_ms": 290760,
-      "name": "Splash Waterfalls",
-      "url": "https://open.spotify.com/track/2T8hXV9LUZMDBKR5RALGEa"
+      "duration_ms": 213760,
+      "name": "Stand Up",
+      "url": "https://open.spotify.com/track/2CtCwQhY0ZLvr8L2l8Bo6e"
     },
     {
       "added_at": "2023-09-29 17:21:26",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-09-29 17:21:26",
       "album": {
-        "name": "Ballers",
-        "url": "https://open.spotify.com/album/355iltHafyHwRAfS57zk6d"
-      },
-      "artists": [
-        {
-          "name": "504 Boyz",
-          "url": "https://open.spotify.com/artist/5ILgJERmX20rZuVVDQ7z5P"
-        }
-      ],
-      "duration_ms": 268973,
-      "name": "Tight Whips",
-      "url": "https://open.spotify.com/track/2jeH47i3BqcoLCvAA1AQYX"
-    },
-    {
-      "added_at": "2023-09-29 17:21:26",
-      "album": {
         "name": "Back For The First Time",
         "url": "https://open.spotify.com/album/2kT80DHqRtHQzDhQ2RCoIV"
       },
@@ -735,6 +719,30 @@
     {
       "added_at": "2023-09-29 17:21:26",
       "album": {
+        "name": "Survival Of The Fittest",
+        "url": "https://open.spotify.com/album/5ZXga0efPuZJr2KIvN1xZg"
+      },
+      "artists": [
+        {
+          "name": "Boosie Badazz",
+          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
+        },
+        {
+          "name": "Webbie",
+          "url": "https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8"
+        },
+        {
+          "name": "Foxx",
+          "url": "https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl"
+        }
+      ],
+      "duration_ms": 272346,
+      "name": "Wipe Me Down (feat. Foxx, Webbie & Lil Boosie) - Remix",
+      "url": "https://open.spotify.com/track/6D1CstH1YvzNN8cPd9ay9Q"
+    },
+    {
+      "added_at": "2023-09-29 17:21:26",
+      "album": {
         "name": "January 10th",
         "url": "https://open.spotify.com/album/3pD5nHq65PfGJtd5aMNPUj"
       },
@@ -771,30 +779,6 @@
     {
       "added_at": "2023-09-29 17:21:26",
       "album": {
-        "name": "Survival Of The Fittest",
-        "url": "https://open.spotify.com/album/5ZXga0efPuZJr2KIvN1xZg"
-      },
-      "artists": [
-        {
-          "name": "Boosie Badazz",
-          "url": "https://open.spotify.com/artist/6z7xFFHxYkE9t8bwIF0Bvg"
-        },
-        {
-          "name": "Webbie",
-          "url": "https://open.spotify.com/artist/6aIm51fHkokqlJn2vzNTH8"
-        },
-        {
-          "name": "Foxx",
-          "url": "https://open.spotify.com/artist/2l6Z31DakUv5Gl9yQPbLEl"
-        }
-      ],
-      "duration_ms": 272346,
-      "name": "Wipe Me Down (feat. Foxx, Webbie & Lil Boosie) - Remix",
-      "url": "https://open.spotify.com/track/6D1CstH1YvzNN8cPd9ay9Q"
-    },
-    {
-      "added_at": "2023-09-29 17:21:26",
-      "album": {
         "name": "The Real Testament",
         "url": "https://open.spotify.com/album/3NoUdjYUcUuRMpOzyapnYW"
       },
@@ -811,22 +795,6 @@
       "duration_ms": 255413,
       "name": "Shawty (feat. T Pain)",
       "url": "https://open.spotify.com/track/0mYoKqA23wUUj7BTEgNzjg"
-    },
-    {
-      "added_at": "2023-09-29 17:21:26",
-      "album": {
-        "name": "THUGS ARE US",
-        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
-      },
-      "artists": [
-        {
-          "name": "Trick Daddy",
-          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "I'm a Thug",
-      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
     },
     {
       "added_at": "2023-09-29 17:21:26",
@@ -851,6 +819,22 @@
       "duration_ms": 270866,
       "name": "Move Bitch",
       "url": "https://open.spotify.com/track/1Q9b6CeMcDuO0uq5OJCrqu"
+    },
+    {
+      "added_at": "2023-09-29 17:21:26",
+      "album": {
+        "name": "THUGS ARE US",
+        "url": "https://open.spotify.com/album/2oJxBPqylFpSb60hOJ4DcH"
+      },
+      "artists": [
+        {
+          "name": "Trick Daddy",
+          "url": "https://open.spotify.com/artist/12FHARd9fY0Tu0ila4Ua25"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "I'm a Thug",
+      "url": "https://open.spotify.com/track/6j2aNuhJJUnRj6UHcvn5PI"
     },
     {
       "added_at": "2023-09-29 17:21:26",
@@ -943,6 +927,22 @@
       "duration_ms": 240760,
       "name": "Bust It Baby, Pt. 2 (feat. Ne-Yo)",
       "url": "https://open.spotify.com/track/0exb0K7vsjf5bXWLJJhAuF"
+    },
+    {
+      "added_at": "2023-09-29 17:21:26",
+      "album": {
+        "name": "Word Of Mouf",
+        "url": "https://open.spotify.com/album/1GMj0Rx5Q6EyBYbi9Eu7Vr"
+      },
+      "artists": [
+        {
+          "name": "Ludacris",
+          "url": "https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi"
+        }
+      ],
+      "duration_ms": 296586,
+      "name": "Rollout (My Business)",
+      "url": "https://open.spotify.com/track/4SyadrABZJIjeND1HPJS31"
     }
   ],
   "unique_name": "I Love My Down South Classics",

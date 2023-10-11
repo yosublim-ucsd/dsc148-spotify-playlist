@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaeBomo9L1a.md) - [plain]
 
 > R&B sensual para una apasionada noche en excelente compañía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,973 likes - 90 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,998 likes - 90 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaeBomo9L1a.md) - [plain]
 | 16 | [Could've Been \(feat\. Bryson Tiller\)](https://open.spotify.com/track/6oEVnWKgPqIEPc53OYDNqG) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 4:12 |
 | 17 | [Feel No Ways](https://open.spotify.com/track/3cjF2OFRmip8spwZYQRKxP) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Views](https://open.spotify.com/album/40GMAhriYJRO1rsY4YdrZb) | 4:00 |
 | 18 | [No digas nada](https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [No digas nada](https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3) | 3:42 |
-| 19 | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:21 |
+| 19 | [Rincón](https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rincón](https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY) | 2:44 |
 | 20 | [Love Galore \(feat\. Travis Scott\)](https://open.spotify.com/track/0q75NwOoFiARAVp4EXU4Bs) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Ctrl](https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh) | 4:35 |
-| 21 | [Rincón](https://open.spotify.com/track/4PMi46eDFyLmHKKtVTrDGb) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Rincón](https://open.spotify.com/album/1Kq2pzsoVXEtoXaZf0x2RY) | 2:44 |
+| 21 | [Nights Like This \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/6ZRuF2n1CQxyxxAAWsKJOy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [While We Wait](https://open.spotify.com/album/73ZvpuYhKDr2FW4vlPsTpW) | 3:21 |
 | 22 | [Tadow](https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [Lady Lady](https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt) | 5:01 |
 | 23 | [Nights](https://open.spotify.com/track/7eqoqGkKwgOaWNNHx90uEZ) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 5:07 |
 | 24 | [Don't Tell 'Em](https://open.spotify.com/track/0Dc7J9VPV4eOInoxUiZrsL) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 4:26 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaeBomo9L1a.md) - [plain]
 | 38 | [Me Olvidé](https://open.spotify.com/track/7ffzz5DfxaPnGNCKu6f0II) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 2:43 |
 | 39 | [Always n Forever \(feat\. Lil Baby\)](https://open.spotify.com/track/6dbENHQHHtWRai4snSvy2w) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [RY RY WORLD](https://open.spotify.com/album/6i1OieEQCZaMlQZZ44VLON) | 3:17 |
 | 40 | [Last Call](https://open.spotify.com/track/7k0wVBW3cvV6Xmb87JikIf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Last Call](https://open.spotify.com/album/3ZLZkAJBG98Bg0K8xUEhIn) | 3:11 |
-| 41 | [Only](https://open.spotify.com/track/3XiIO5kw2UxoY6Aph8Tcd5) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Only](https://open.spotify.com/album/5j6tntLYUoaz0S0pwDQNgE) | 2:49 |
-| 42 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |
+| 41 | [Killing Me](https://open.spotify.com/track/5BhK8Mho223YLPQOLfzWNP) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 2:45 |
+| 42 | [Only](https://open.spotify.com/track/3XiIO5kw2UxoY6Aph8Tcd5) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Only](https://open.spotify.com/album/5j6tntLYUoaz0S0pwDQNgE) | 2:49 |
 | 43 | [Loner](https://open.spotify.com/track/6m6R6O2BOZDCNymhJ45spI) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 3:32 |
 | 44 | [Stay Flo](https://open.spotify.com/track/6GCIYIWUBSLontW6divqsw) | [Solange](https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU) | [When I Get Home](https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w) | 2:55 |
 | 45 | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/track/48WidxP9CqyYtk97pwGZ3c) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [The Neptunes](https://open.spotify.com/artist/0KuF7reCTOZwV7YJnHQqgr) | [Wasting Time \( feat\. Drake & The Neptunes \)](https://open.spotify.com/album/2brWccDLT5vREu0FxqH6Az) | 5:01 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaeBomo9L1a.md) - [plain]
 | 57 | [Waves \(feat\. 6LACK\)](https://open.spotify.com/track/2qHk6Nz5glNQrjW8Rhd5kv) | [Normani](https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Waves \(feat\. 6LACK\)](https://open.spotify.com/album/0vwWltI5IYadfWBU1A1gou) | 3:35 |
 | 58 | [SAVAGE ANTHEM](https://open.spotify.com/track/7I0Sleck98bBPRZItY0w76) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYMOBILE](https://open.spotify.com/album/7z20vHCSgu68lplj1Q976a) | 6:16 |
 | 59 | [EN EL GHETTO \#3 \(Par de cosas\)](https://open.spotify.com/track/1sMZcWb0Ve9OYw4srIC4z3) | [Ghetto Kids](https://open.spotify.com/artist/6XvKTz2XRPwlry0UdjqoKq), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [EN EL GHETTO \#3 \(Par de cosas\)](https://open.spotify.com/album/125WpnuPZ1Ito6zRhQT0ji) | 3:35 |
-| 60 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 |
-| 61 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/759KqKQyDmTWJape4odo21) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:03 |
+| 60 | [Between Us \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/759KqKQyDmTWJape4odo21) | [dvsn](https://open.spotify.com/artist/7e1ICztHM2Sc4JNLxeMXYl), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [A Muse In Her Feelings](https://open.spotify.com/album/1Rz09ebNJFh3ZNrvLRSfIa) | 3:03 |
+| 61 | [The Journey](https://open.spotify.com/track/7y5JL5ORUmqHHZQuhZI5JI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Journey](https://open.spotify.com/album/2CspZ8WA96Ox4riutFwzPd) | 4:22 |
 | 62 | [Que me quiera](https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:34 |
 | 63 | [Multiverso \(feat\. Jay Wheeler\)](https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MUCHO TXT](https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc) | 2:29 |
 | 64 | [Modo Avión](https://open.spotify.com/track/6EvN04vgLsZpLxNphVyr5Y) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Modo Avión](https://open.spotify.com/album/49UdayEAAiIV7fC6nFenPn) | 3:01 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbaeBomo9L1a.md) - [plain]
 | 89 | [Acércate a mí](https://open.spotify.com/track/5zF2fiVLe317dSh9goEkHD) | [RPLK](https://open.spotify.com/artist/1tuzO0TeRF6KAKsSbHD46g), [Ross J\. Rodrigo](https://open.spotify.com/artist/7ziN1J53NW2enUFbxd01C4) | [Acércate a mí](https://open.spotify.com/album/3Y7T4PrwWQQWF9K6vcqCDu) | 2:30 |
 | 90 | [Not The One](https://open.spotify.com/track/34OTrVKZbPuSIy7uDASKVQ) | [Zöelle](https://open.spotify.com/artist/4ejqWoCUdomzmXtgNJvXbl) | [Not The One](https://open.spotify.com/album/1p2anSkCqxuOvoDoZka7ih) | 2:24 |
 
-Snapshot ID: `MCw5NzNhMzA2MmM0MTg0MDA0MWVhODBkYTkwZDg3NDcwYTllZTUwZmZk`
+Snapshot ID: `MCwyN2U4NDY0NGE3M2JiNTcwMGQwY2ZkNmI5ODY3YTczODgxM2I4ZTk1`

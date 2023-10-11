@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: Morobeats",
+  "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: HELLMERRY",
   "name": "Kalye Hip-Hop",
   "tracks": [
     {
@@ -386,6 +386,28 @@
       "duration_ms": 206621,
       "name": "Fetty",
       "url": "https://open.spotify.com/track/1O26SjawSDVCpikl9nNUyp"
+    },
+    {
+      "album": {
+        "name": "FREESTYLE",
+        "url": "https://open.spotify.com/album/0gb4iHpvS2Vc1HoCw0tt2m"
+      },
+      "artists": [
+        {
+          "name": "lmaobdy",
+          "url": "https://open.spotify.com/artist/3CJhyHQgAStaSWNEVGgr8E"
+        },
+        {
+          "name": "Osidemafia, Xanny Warhol",
+          "url": "https://open.spotify.com/artist/5i2iMEr9KYjnf6BxITukQq"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230160,
+      "name": "FREESTYLE",
+      "url": "https://open.spotify.com/track/6a9c4NKoIdrugAs9fmWuSg"
     },
     {
       "album": {
@@ -1016,7 +1038,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 190789,
       "name": "THA GANG COSTA",
       "url": "https://open.spotify.com/track/0LyLTBeT1SGeAQnwYUkkOF"

@@ -124,7 +124,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 229733,
       "name": "All at Sea",
       "url": "https://open.spotify.com/track/6DhpCiw0t9iopTVQloLzHS"
@@ -196,7 +196,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-13",
+      "date_removed": null,
       "duration_ms": 291000,
       "name": "Baby Blue - From \"Our Planet\"",
       "url": "https://open.spotify.com/track/27dFvWT96WZcLjpLmJ9WnK"
@@ -286,7 +286,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-05",
+      "date_removed": null,
       "duration_ms": 170253,
       "name": "Echo Fires Up Another",
       "url": "https://open.spotify.com/track/3HEWJvTzezpFpIAzqOqmuE"
@@ -628,7 +628,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 188973,
       "name": "Mayflies - From \"Our Planet\"",
       "url": "https://open.spotify.com/track/2dDUOibqp9olH44axVCIux"
@@ -740,6 +740,24 @@
       "duration_ms": 132013,
       "name": "Nothing To Stop Us",
       "url": "https://open.spotify.com/track/6OBrG19AuVOmrFonog79re"
+    },
+    {
+      "album": {
+        "name": "The Hunt",
+        "url": "https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 67160,
+      "name": "Nowehere to Hide",
+      "url": "https://open.spotify.com/track/0SvH1H37XSxhFOIqZHsmuf"
     },
     {
       "album": {
@@ -1222,7 +1240,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 289320,
       "name": "We Took To The Skies",
       "url": "https://open.spotify.com/track/5oasJluWbEOguKKAQPzLLb"

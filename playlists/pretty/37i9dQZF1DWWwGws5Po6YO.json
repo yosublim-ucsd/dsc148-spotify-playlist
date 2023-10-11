@@ -1,12 +1,12 @@
 {
   "description": "The women at the forefront of ambient and experimental music. Cover: Whatever The Weather",
-  "num_followers": 31258,
+  "num_followers": 31284,
   "original_name": "EQUAL Ambient",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MTM3NDRkMDk0Y2E0ZDhiNTEwOGJmOTViM2RjMDM4MTcwMzAxNmEy",
+  "snapshot_id": "MCxiNzdkNTA3ZGJmZWFmYzZjYmEyNjNmMDQ5NWE3ZTQ4MTIxYjY5YzQ2",
   "tracks": [
     {
       "added_at": "2023-09-08 14:04:07",
@@ -367,6 +367,22 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Collected Pieces: 2015-2020",
+        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 230051,
+      "name": "We Wave From Our Boats",
+      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Fantas Variations",
         "url": "https://open.spotify.com/album/7zytkfZ6AvjmCbvwqFgFWO"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 187863,
       "name": "Fantas Morbida",
       "url": "https://open.spotify.com/track/3EmimXCpHQ9PW6FN0ajDeU"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Collected Pieces: 2015-2020",
-        "url": "https://open.spotify.com/album/7fZYAQ9HtGNemdpr8xt3SP"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 230051,
-      "name": "We Wave From Our Boats",
-      "url": "https://open.spotify.com/track/0ax8Q0A3ejFqsLA7Gl7mH3"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Love Is The Tune",
-        "url": "https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 220687,
-      "name": "Love Is The Tune",
-      "url": "https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Raw Silk Uncut Wood",
         "url": "https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY"
       },
@@ -531,22 +515,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Shade",
-        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
-      },
-      "artists": [
-        {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
-        }
-      ],
-      "duration_ms": 231624,
-      "name": "Pale Interior",
-      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "By The Sea (Alexandra Hamilton-Ayres Rework)",
         "url": "https://open.spotify.com/album/4dsFX80koDAJYLRx6UwcE3"
       },
@@ -567,6 +535,38 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
+        "name": "Love Is The Tune",
+        "url": "https://open.spotify.com/album/4fu1ECnqoaH0HxnmFYlRzJ"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 220687,
+      "name": "Love Is The Tune",
+      "url": "https://open.spotify.com/track/2xoYBFFq1q9gf7DRTsxouk"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Shade",
+        "url": "https://open.spotify.com/album/1w3EOCPDwqWIiu2c1pHylJ"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 231624,
+      "name": "Pale Interior",
+      "url": "https://open.spotify.com/track/6nI1FAfYETS7qtrPpyg3d7"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
         "name": "Selected Works Preview",
         "url": "https://open.spotify.com/album/0tbXSlNefw8HfRhxu7KBYZ"
       },
@@ -579,38 +579,6 @@
       "duration_ms": 381496,
       "name": "Composition Of Flowers (Excerpt)",
       "url": "https://open.spotify.com/track/3eqkIhwmWM28gh0LEH4a88"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "Silver Ladders",
-        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
-      },
-      "artists": [
-        {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
-        }
-      ],
-      "duration_ms": 225934,
-      "name": "Silver Ladders",
-      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "A Mythology of Circles",
-        "url": "https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG"
-      },
-      "artists": [
-        {
-          "name": "Faten Kanaan",
-          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
-        }
-      ],
-      "duration_ms": 251887,
-      "name": "The North Wind",
-      "url": "https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -635,18 +603,34 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Rising Fog",
-        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
+        "name": "A Mythology of Circles",
+        "url": "https://open.spotify.com/album/7ETwKNGObw9XeY0NFPwrfG"
       },
       "artists": [
         {
-          "name": "Lucette Bourdin",
-          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
+          "name": "Faten Kanaan",
+          "url": "https://open.spotify.com/artist/6Jz6XSRQjWHHmdkR2myjjy"
         }
       ],
-      "duration_ms": 508613,
-      "name": "Russian Snow",
-      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
+      "duration_ms": 251887,
+      "name": "The North Wind",
+      "url": "https://open.spotify.com/track/4F3oKKJKOGZqiv5y82m6WR"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Silver Ladders",
+        "url": "https://open.spotify.com/album/5Ykv18C5wYbOe3QsZX7kyy"
+      },
+      "artists": [
+        {
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+        }
+      ],
+      "duration_ms": 225934,
+      "name": "Silver Ladders",
+      "url": "https://open.spotify.com/track/0cWCoT7I1XOmpXAYG0C6QE"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Collected Pieces",
-        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
+        "name": "Rising Fog",
+        "url": "https://open.spotify.com/album/5UqAY7B1XX3QoFWgu7bfil"
       },
       "artists": [
         {
-          "name": "Mary Lattimore",
-          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
+          "name": "Lucette Bourdin",
+          "url": "https://open.spotify.com/artist/1mLHAhpOa5hFC5ht47RrT3"
         }
       ],
-      "duration_ms": 628736,
-      "name": "Wawa by the Ocean",
-      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
+      "duration_ms": 508613,
+      "name": "Russian Snow",
+      "url": "https://open.spotify.com/track/74DxOVwXdBdn1rrfK8SFCU"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -695,22 +679,6 @@
       "duration_ms": 1351601,
       "name": "Grafts",
       "url": "https://open.spotify.com/track/3MNKjPvkQnMNq8BU2GwYFq"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 300747,
-      "name": "Morning Spring",
-      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -735,22 +703,34 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
-        "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
+        "name": "Collected Pieces",
+        "url": "https://open.spotify.com/album/3895niIXqzuC7o9NMmG7ao"
       },
       "artists": [
         {
-          "name": "Nubya Garcia",
-          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
-        },
-        {
-          "name": "Nala Sinephro",
-          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+          "name": "Mary Lattimore",
+          "url": "https://open.spotify.com/artist/38MKhZmMRHAZRz8LqtKIBw"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
-      "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
+      "duration_ms": 628736,
+      "name": "Wawa by the Ocean",
+      "url": "https://open.spotify.com/track/7DqYDB4qI45OW8z8Hfw6Yn"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 300747,
+      "name": "Morning Spring",
+      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -767,6 +747,26 @@
       "duration_ms": 267000,
       "name": "Billow",
       "url": "https://open.spotify.com/track/0ADpQhsJkrPFimoivWZYQt"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Together Is A Beautiful Place To Be (Nala Sinephro Remix)",
+        "url": "https://open.spotify.com/album/4x9VGbC18b9s9f5rxxngIr"
+      },
+      "artists": [
+        {
+          "name": "Nubya Garcia",
+          "url": "https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ"
+        },
+        {
+          "name": "Nala Sinephro",
+          "url": "https://open.spotify.com/artist/2h5syT5XdsQgKLq8Yn1klO"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "Together Is A Beautiful Place To Be - Nala Sinephro Remix",
+      "url": "https://open.spotify.com/track/4z17HamuFu3h0yiZ59xRzY"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -843,22 +843,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Micro Macro",
-        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
-      },
-      "artists": [
-        {
-          "name": "Clariloops",
-          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Absolution",
-      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Bassin Bleu",
         "url": "https://open.spotify.com/album/1xbZmUFMUIN9SHS9JDuuvi"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 359398,
       "name": "Bassin Bleu",
       "url": "https://open.spotify.com/track/6O6L2WaSYRsehdwvqf5N63"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Micro Macro",
+        "url": "https://open.spotify.com/album/7fZqbNBkboYzyBN4ukgDhB"
+      },
+      "artists": [
+        {
+          "name": "Clariloops",
+          "url": "https://open.spotify.com/artist/6bGZAHbiIEOQQA0VFIkFp4"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Absolution",
+      "url": "https://open.spotify.com/track/6G9ANgLjnSOKvEPogFGfQp"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "World Breathes",
-        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
-      },
-      "artists": [
-        {
-          "name": "Alice in Freefall",
-          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
-        }
-      ],
-      "duration_ms": 194025,
-      "name": "The Centre of Everything",
-      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "a journey...",
         "url": "https://open.spotify.com/album/6pMGKI2cCAyGxJJz1a8z3M"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 209160,
       "name": "Cry Me A Blizzard - AFRODEUTSCHE I'm Here Remix",
       "url": "https://open.spotify.com/track/1z1KqfLHzNBinouaGnJKjR"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "World Breathes",
+        "url": "https://open.spotify.com/album/3BJV5OaMiYVRRYBElM6erj"
+      },
+      "artists": [
+        {
+          "name": "Alice in Freefall",
+          "url": "https://open.spotify.com/artist/6sciWiZGwHsgkAmpB3uzsX"
+        }
+      ],
+      "duration_ms": 194025,
+      "name": "The Centre of Everything",
+      "url": "https://open.spotify.com/track/3eqRtlNi5Dqj9ZM3x7mb6X"
     },
     {
       "added_at": "2023-09-08 14:04:07",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-09-08 14:04:07",
       "album": {
-        "name": "Chain Reaction at Dusk",
-        "url": "https://open.spotify.com/album/5ZHQ26B7GrALEvdtx2fymP"
-      },
-      "artists": [
-        {
-          "name": "Kelly Moran",
-          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
-        }
-      ],
-      "duration_ms": 448119,
-      "name": "Hymn",
-      "url": "https://open.spotify.com/track/1OqQpPHXWlfEZDEwHH1BFa"
-    },
-    {
-      "added_at": "2023-09-08 14:04:07",
-      "album": {
         "name": "Evensong: Canticles for the Earth",
         "url": "https://open.spotify.com/album/1icSVeUwGqXdwVMCjO2D5z"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 351493,
       "name": "Berceuse for a Star Child",
       "url": "https://open.spotify.com/track/2fDzwhRSzke7JwvDAFSa7G"
+    },
+    {
+      "added_at": "2023-09-08 14:04:07",
+      "album": {
+        "name": "Chain Reaction at Dusk",
+        "url": "https://open.spotify.com/album/5ZHQ26B7GrALEvdtx2fymP"
+      },
+      "artists": [
+        {
+          "name": "Kelly Moran",
+          "url": "https://open.spotify.com/artist/1SFqXNEGetmMW6VPZseNqy"
+        }
+      ],
+      "duration_ms": 448119,
+      "name": "Hymn",
+      "url": "https://open.spotify.com/track/1OqQpPHXWlfEZDEwHH1BFa"
     },
     {
       "added_at": "2023-09-08 14:04:07",

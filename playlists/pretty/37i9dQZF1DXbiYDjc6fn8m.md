@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 
 > Hora de dançar com os grandes hits da música eletrônica/dance! Foto: Calvin Harris
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,529 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,549 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiYDjc6fn8m.md) - [plain]
 | 69 | [Play Hard \(feat\. Ne\-Yo & Akon\)](https://open.spotify.com/track/2QD4C6RRHgRNRAyrfnoeAo) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [Nothing but the Beat 2.0](https://open.spotify.com/album/5aprcHwM1KJhaY9Kbxkfkn) | 3:21 |
 | 70 | [Harder, Better, Faster, Stronger](https://open.spotify.com/track/2cJz1loJp5EZM6shmQpLZN) | [Daft Punk](https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi) | [Harder, Better, Faster, Stronger](https://open.spotify.com/album/0A88p2r8PWnWGvWjzAnUrV) | 3:46 |
 
-Snapshot ID: `MCw5NTdlYWRkZTI0MDJlNjNiNGQyZDQyZDY0ZmRhZGUzZDdlZjk0YTI5`
+Snapshot ID: `MCw2NzExMDMzOTE4OWVmNmVhMmZkYzQyNGNmZmZmMmVlMjc4NjgxNzFi`

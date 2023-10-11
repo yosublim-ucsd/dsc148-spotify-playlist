@@ -4,7 +4,7 @@
 
 > slow burners for late nights
 
-604 songs - 1 day 13 hr 8 min
+606 songs - 1 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [Euphoria \(At Night\)](https://open.spotify.com/track/41kClICjtba1W8UVbcHmya) | [Ferdous](https://open.spotify.com/artist/1ihKKcrzAd68ftS7adfOtM) | [Cool Party](https://open.spotify.com/album/2bdOs4BJoK5hI9jAC37H06) | 2:07 | 2023-05-25 | 2023-08-19 |
 | [Euphoria \(feat\. Instupendo\)](https://open.spotify.com/track/61tqM0XiMGnKayktVzrhJp) | [Cedric Madden](https://open.spotify.com/artist/2ngMI7KbUaMxWwSSM9sMPP), [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC) | [Euphoria \(feat\. Instupendo\)](https://open.spotify.com/album/6eF8DpVcPMWCCU3Dcx7azj) | 3:15 | 2022-10-03 | 2023-05-27 |
 | [Eve](https://open.spotify.com/track/4nwSwALkSaxA26bEANsi20) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Eve](https://open.spotify.com/album/1O056siKSsHdDjlvIO0pJ5) | 2:43 | 2022-07-12 | 2023-10-01 |
+| [Evening News](https://open.spotify.com/track/1RyeT9Jw7lTA86mfwpBK8n) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C) | 5:27 | 2023-09-29 |  |
 | [Everything's Fine](https://open.spotify.com/track/1hQM22L8FSThJB5drLpfQs) | [Healy](https://open.spotify.com/artist/2Yhge9MsE7qKcV0eWsuuHM) | [Tungsten](https://open.spotify.com/album/0iE10xMwLrtzB0fS5Pq5Ic) | 3:52 | 2021-05-01 |  |
 | [Everytime the Night Starts Calling](https://open.spotify.com/track/5UY8NELLyxYeziwciKIhJQ) | [Michl](https://open.spotify.com/artist/0qG3lxHmrUeKzL1BJJ7IBN), [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Form Follows Function](https://open.spotify.com/album/55Rfi4oaFbYuWbZuQw5Qxr) | 2:40 | 2023-05-25 | 2023-07-22 |
 | [Exile on Ærø](https://open.spotify.com/track/7wfXwpX7FmxihVhHAjBEGz) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [The Detective \(II\)](https://open.spotify.com/album/3wa024Li9fhL00ltgszWOG) | 4:25 | 2022-07-12 | 2023-05-27 |
@@ -328,6 +329,7 @@
 | [Love Again](https://open.spotify.com/track/43oLxXiNcylpsTwcyhGkpN) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Love Again](https://open.spotify.com/album/4FfsMdl6O73pgkxSqasps2) | 4:03 | 2020-12-21 | 2022-07-29 |
 | [Love Again](https://open.spotify.com/track/56hp2ikFv3vZJgZXtViF2N) | [Meltt](https://open.spotify.com/artist/2iHrc69sZgyWFBAhLpS3oH) | [Swim Slowly](https://open.spotify.com/album/72CYjnuOowNfegnlP9UMRF) | 4:03 | 2022-10-28 |  |
 | [Lovefool](https://open.spotify.com/track/3dmsgudsfeGdQ9NsZFOm0C) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Amo XO](https://open.spotify.com/album/04Yi3MVgftQcAqIqVdy9Wu) | 2:10 | 2020-12-21 | 2023-10-08 |
+| [Lovefool](https://open.spotify.com/track/5d7NvMz2SgyEkvRow7us99) | [No Vacation](https://open.spotify.com/artist/32zeX1IoVKAGWMyy1isKUq) | [Amo XO](https://open.spotify.com/album/5pqwxGPtXIBYHBQ0r7Sydq) | 2:10 | 2023-09-29 |  |
 | [Lover's Spit](https://open.spotify.com/track/3Cl35xMXJUEhpPaYBeNUQR) | [Broken Social Scene](https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd) | [You Forgot It In People](https://open.spotify.com/album/6nL0U84JsEJ0cRsGCnsDnJ) | 6:22 | 2020-12-21 | 2022-04-19 |
 | [lovers’ carvings](https://open.spotify.com/track/2cRYvcyWfz7jieYIBkI7JR) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Ambivalence Avenue](https://open.spotify.com/album/5J9NcB7nK8kF7JsJur1V3G) | 3:58 | 2023-04-25 |  |
 | [Loving You Is Lonely](https://open.spotify.com/track/1IKSPT8NgQSLz5DwaxrnEe) | [Harmony Byrne](https://open.spotify.com/artist/10rUrxQwhYFzOBGUcM0tWx) | [Loving You Is Lonely](https://open.spotify.com/album/1Zs8YINM2uPmsWes22fCkQ) | 4:29 | 2020-12-21 | 2023-05-27 |
@@ -398,7 +400,7 @@
 | [On My Way](https://open.spotify.com/track/74cDV5HXtQmQ1hMfa8JoIK) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [On My Way](https://open.spotify.com/album/1Ny40get2xI8Jrrl4MuOr4) | 3:32 | 2023-05-25 | 2023-05-27 |
 | [On Your Side \- stud1nt Remix](https://open.spotify.com/track/07WqKsrKiVM17SR0sKOTZv) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8), [stud1nt](https://open.spotify.com/artist/2A9AahMwOwxbQSeKfyplrX) | [On Your Side \(stud1nt Remix\)](https://open.spotify.com/album/6vFMDi2N6jrb0HzzgCEiky) | 3:24 | 2021-08-13 | 2022-07-21 |
 | [One Day It'll All Make Sense](https://open.spotify.com/track/41F6Z4ldpPWxy0hr5OUn9z) | [Ging](https://open.spotify.com/artist/4140hprCX3y5AHFsZ2Tqe5) | [One Day It'll All Make Sense](https://open.spotify.com/album/6MtD3lsWbdX3fVWp5KfzQd) | 1:01 | 2023-08-18 | 2023-10-01 |
-| [One Step Closer 1.4 \[2021 Export Wav\] feat\. Panda Bear](https://open.spotify.com/track/2QX2AOmSUydpG1IRK4xVR8) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 3:16 | 2023-09-29 |  |
+| [One Step Closer 1.4 \[2021 Export Wav\] feat\. Panda Bear](https://open.spotify.com/track/2QX2AOmSUydpG1IRK4xVR8) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Things Don't Always Go The Way You Plan](https://open.spotify.com/album/6JlmbLrsozWe61rYTVsG7n) | 3:16 | 2023-09-29 | 2023-10-11 |
 | [One Trick Pony](https://open.spotify.com/track/1qpg6H28CYp95bvj2fj3b3) | [Grebes](https://open.spotify.com/artist/5BHV73RQsL8zucEcnzs8IE) | [House Creature](https://open.spotify.com/album/27ba8fckG1oJ4DzPZO80Ey) | 1:57 | 2023-08-18 |  |
 | [Only in My Dreams](https://open.spotify.com/track/190IqlryWu91WBKeDgZqZz) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. I](https://open.spotify.com/album/5XX1xVOP61GDQCGaZMLjhO) | 2:50 | 2020-12-21 | 2023-08-19 |
 | [Only One](https://open.spotify.com/track/165suvq1v7N0IUK5av3E7z) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Only One](https://open.spotify.com/album/22ex6Jl6wXPt3myCvphAT4) | 4:53 | 2023-05-25 | 2023-05-27 |
@@ -460,7 +462,7 @@
 | [Sea Gets Hotter](https://open.spotify.com/track/5ZK62nSchTamBy8F6HIZov) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs), [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [American Love Call](https://open.spotify.com/album/7FU0CDJvPwKDWRXtHYcsoY) | 3:17 | 2023-06-15 |  |
 | [Seltzer](https://open.spotify.com/track/1AJ71ibFDiinsF2kj4KqRg) | [Cruza](https://open.spotify.com/artist/7zxS4o4zmwxJNe5UvC2Fx5) | [Seltzer](https://open.spotify.com/album/1Nifv5zMNTM89Q1m98U32a) | 3:04 | 2023-05-22 | 2023-10-01 |
 | [Send Me](https://open.spotify.com/track/3C577pIvUmFN02Dgshfg3S) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Send Me](https://open.spotify.com/album/6ruCp4mB7FOyOKfLowr0dS) | 4:03 | 2021-05-01 | 2022-04-14 |
-| [Send Nudes](https://open.spotify.com/track/66GudmaulDXRFLwDtKmRyQ) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Radiate Like This](https://open.spotify.com/album/480jVncbNknTjPUAvxp8or) | 3:19 | 2023-09-29 |  |
+| [Send Nudes](https://open.spotify.com/track/66GudmaulDXRFLwDtKmRyQ) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Radiate Like This](https://open.spotify.com/album/480jVncbNknTjPUAvxp8or) | 3:19 | 2023-09-29 | 2023-10-11 |
 | [september 13th](https://open.spotify.com/track/3VLanFEDmh9JduRky83qQe) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [september 13th](https://open.spotify.com/album/3l7cgNajTN496lgJSXRlza) | 2:09 | 2023-01-04 |  |
 | [Seriously](https://open.spotify.com/track/78hsJxHv910iFZhHhrSHgV) | [Shlohmo](https://open.spotify.com/artist/6y80I9YZi4DOpbaSUlL725) | [Bad Vibes](https://open.spotify.com/album/5KRR8tyAUT6bcMOsCfM2Lh) | 3:10 | 2023-05-25 | 2023-08-19 |
 | [Seventeen](https://open.spotify.com/track/3ctBlLC81pc2TMriIxnXxN) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [At Weddings](https://open.spotify.com/album/1v55LXxVAFvFV02xGMImwP) | 4:31 | 2020-12-21 | 2022-04-16 |

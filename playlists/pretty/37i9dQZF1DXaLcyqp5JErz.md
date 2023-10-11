@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 
 > Os grandes hinos reunidos em um único lugar\. Foto: Ana Paula Valadão \(Diante do Trono\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 523,621 likes - 70 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 523,798 likes - 70 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,17 +32,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 22 | [Quero Descer](https://open.spotify.com/track/1kKh1EbODBQfL9gEjmnSlT) | [Raquel Mello](https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd) | [Sinais de Deus](https://open.spotify.com/album/2MgcX0tcdZVRVmko1x4goX) | 4:48 |
 | 23 | [Os Sonhos de Deus](https://open.spotify.com/track/0mNfXZjFfpaNafDSFfYujZ) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética: Os Sonhos de Deus](https://open.spotify.com/album/0lv1AZvaQT3BNDV5PztLDX) | 6:05 |
 | 24 | [O Nome de Jesus](https://open.spotify.com/track/2HhAhITEupMNYQAG08Ejb1) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [O Nome de Jesus](https://open.spotify.com/album/6j5twTviJB4grpkOV4npGw) | 5:07 |
-| 25 | [Primeiro Amor](https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 3:28 |
-| 26 | [Deus Proverá](https://open.spotify.com/track/7nR5GkbEHay6T6zuZOkYge) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Deus Proverá](https://open.spotify.com/album/2VIRRMWFHQ2sfHBqIn0FDb) | 6:09 |
+| 25 | [Deus Proverá](https://open.spotify.com/track/7nR5GkbEHay6T6zuZOkYge) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Deus Proverá](https://open.spotify.com/album/2VIRRMWFHQ2sfHBqIn0FDb) | 6:09 |
+| 26 | [Primeiro Amor](https://open.spotify.com/track/6XDnRajLGcV3NUbL3fY3yM) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 3:28 |
 | 27 | [Oh, Quão Lindo Esse Nome É \- Acústico](https://open.spotify.com/track/4F38StFD40dBj5AeDNzJsM) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Ana Nóbrega \(Acústico\)](https://open.spotify.com/album/1nDNjTMOfdCcgnEwRTU8tG) | 5:42 |
 | 28 | [Grande é o Senhor \- Ao Vivo](https://open.spotify.com/track/6GeGXOPJFa3pRwrWAnrV7j) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Legado 40 Anos \- Ato 3: Igreja na Rua \(Ao Vivo\)](https://open.spotify.com/album/5OtHY60wun8AJWeiXRVLVN) | 7:33 |
 | 29 | [Agnus Dei](https://open.spotify.com/track/2QVfl2xU1BrElsOsO3IvSx) | [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [No Infinito Deste Amor](https://open.spotify.com/album/12MGw5CX1KkoSkDNDi1vVY) | 9:40 |
-| 30 | [Consagração / Louvor ao Rei](https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 6:21 |
+| 30 | [Adorador por Excelência](https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Excelência](https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW) | 5:33 |
 | 31 | [Sabor de Mel](https://open.spotify.com/track/50yPQZWDucOc6n1qdofN7T) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Apocalipse](https://open.spotify.com/album/53aAt8WZafBGdivOlAwPZT) | 5:22 |
-| 32 | [Adorador por Excelência](https://open.spotify.com/track/6CEXs4A3QhmQ4LLBXl096K) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Excelência](https://open.spotify.com/album/3QVHZqFuidFGcltxY0rMDW) | 5:33 |
+| 32 | [Restitui \- Ao Vivo](https://open.spotify.com/track/5PGJTUqtP5RRwxHcwYKcHk) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Toque no Altar](https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5) | [Restituição \(Ao Vivo\)](https://open.spotify.com/album/3ejtRPtmaWU8EGMxeQqjc0) | 7:28 |
 | 33 | [Nunca Pare de Lutar](https://open.spotify.com/track/6JF0NbnUohNnoNwrLs6paN) | [Ludmila Ferber](https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn) | [Adoração Profética 4: Nunca Pare de Lutar \(Ao Vivo\)](https://open.spotify.com/album/01yELzhEJBvdusztcyJX3k) | 7:56 |
-| 34 | [Restitui \- Ao Vivo](https://open.spotify.com/track/5PGJTUqtP5RRwxHcwYKcHk) | [Trazendo a Arca](https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5), [Toque no Altar](https://open.spotify.com/artist/3dJ2TE4tV9zYiw1lSkqdG5) | [Restituição \(Ao Vivo\)](https://open.spotify.com/album/3ejtRPtmaWU8EGMxeQqjc0) | 7:28 |
-| 35 | [sublime \- Ao Vivo](https://open.spotify.com/track/4PoMOFwptVBWUVs1KzYXBm) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Principio \(Ao Vivo\)](https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c) | 4:27 |
+| 34 | [sublime \- Ao Vivo](https://open.spotify.com/track/4PoMOFwptVBWUVs1KzYXBm) | [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [Principio \(Ao Vivo\)](https://open.spotify.com/album/0oMeqnwjAgZJhl2mTyi31c) | 4:27 |
+| 35 | [Consagração / Louvor ao Rei](https://open.spotify.com/track/5oaAx3LoQLdQvwUvneLJ5L) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Consagração](https://open.spotify.com/album/6awgw5EcFtkcvDXC5RnwtM) | 6:21 |
 | 36 | [Abraça\-Me](https://open.spotify.com/track/05fZNpkAeHQoQNFB7tFVMa) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq) | [Adoração](https://open.spotify.com/album/6VefFSAIlIhtQppFh78rpC) | 4:49 |
 | 37 | [Te Agradeço \- Ao Vivo](https://open.spotify.com/track/7FXEHVZMXO2brLAFsbqX1z) | [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Diante do Trono \(Ao Vivo\)](https://open.spotify.com/album/5x4Pvef33bKljj5gYKKSLS) | 5:04 |
 | 38 | [Com Muito Louvor](https://open.spotify.com/track/57JAYiwPmU93oowUWKwrEF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3) | [Cassiane \- Gospel Collection Ao Vivo](https://open.spotify.com/album/6tVasQXY2XtPQXfHRE6eSE) | 6:22 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLcyqp5JErz.md) - [plain]
 | 69 | [Me Rendo](https://open.spotify.com/track/2XyR41aQULwd1ZZxh1ajxY) | [Hillsong Global Project](https://open.spotify.com/artist/15QEMU8TfJ3jEJjV5dRfCi), [Diante do Trono](https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75) | [Global Project Português](https://open.spotify.com/album/6TXjIiTV3QPLymgQj3ABtv) | 6:10 |
 | 70 | [Amigo Fiel \- Live](https://open.spotify.com/track/1YQTy9GUI6vCErxKDNFMBR) | [André Valadão](https://open.spotify.com/artist/7FKlLr5X7LGFMIR7UfDfDq), [Brunão Morada](https://open.spotify.com/artist/2UYElmGKAPwNwfJw6i11Xm) | [Flashback Fé \(Live\)](https://open.spotify.com/album/0FzFyzThYO3TwdtEs5F7e1) | 7:30 |
 
-Snapshot ID: `MCwxNjRiOGQ3NDM4ZDJjMjEzNDE3NWE5MGRlZTc5MjU1OWFlOWIxZDY4`
+Snapshot ID: `MCwyMmE5NmQ0Y2IyN2JiMTFhMzIzNjBjODA5ZGU1ZmMzZDg1YzM2ZmJm`

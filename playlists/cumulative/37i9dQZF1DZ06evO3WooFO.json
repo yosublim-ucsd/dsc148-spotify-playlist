@@ -275,6 +275,24 @@
     },
     {
       "album": {
+        "name": "DANCE WITH ME",
+        "url": "https://open.spotify.com/album/3Uo59FndkcDDp0H7k9yJmh"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188155,
+      "name": "DANCE WITH ME",
+      "url": "https://open.spotify.com/track/0FnuaL9AcJxAdzwGPcIHVr"
+    },
+    {
+      "album": {
         "name": "NINE",
         "url": "https://open.spotify.com/album/4gARZz9eV7zbGbtOjhVTPF"
       },

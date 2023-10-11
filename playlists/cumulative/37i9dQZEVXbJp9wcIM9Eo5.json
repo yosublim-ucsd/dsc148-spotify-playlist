@@ -2122,7 +2122,7 @@
       ],
       "date_added": "2023-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 170053,
       "name": "Calidad",
       "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
@@ -9087,6 +9087,28 @@
     },
     {
       "album": {
+        "name": "en dormir sin Madrid",
+        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151468,
+      "name": "No soy Eterno",
+      "url": "https://open.spotify.com/track/0aPs3kmiqmt9QG7gWXdefA"
+    },
+    {
+      "album": {
         "name": "Ahora",
         "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
       },
@@ -11569,6 +11591,24 @@
     },
     {
       "album": {
+        "name": "Salelengna Dingolukku",
+        "url": "https://open.spotify.com/album/3XqbvdQcorplUKz5utZBmX"
+      },
+      "artists": [
+        {
+          "name": "Wahyu Sibuea",
+          "url": "https://open.spotify.com/artist/3X6CCFTyGnvRilzUI03xo9"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223521,
+      "name": "Salelengna Dingolukku",
+      "url": "https://open.spotify.com/track/0mL4yEujCT4momg1Khgcre"
+    },
+    {
+      "album": {
         "name": "SI AYER FUERA HOY",
         "url": "https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts"
       },
@@ -14022,7 +14062,7 @@
       ],
       "date_added": "2023-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/4FAKtPVycI4DxoOHC01YqD"

@@ -1,12 +1,12 @@
 {
   "description": "Happy and uplifting Jazz to get you in a good mood.",
-  "num_followers": 157536,
+  "num_followers": 157647,
   "original_name": "Feel Good Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzY4NTVlOWRhMmYzMDgzYWNmZjMzYzM4ZGM1MDM2NGFiNGU4NTk1",
+  "snapshot_id": "MCw5ZThjN2ZlNGZmY2M5NmFkZWI3ZWZlYWE0MzE2ZDUyYzdmZDg1ZTQ0",
   "tracks": [
     {
       "added_at": "2023-10-04 08:10:44",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-10-04 08:10:44",
       "album": {
-        "name": "That Bad Eartha",
-        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 185666,
-      "name": "Let's Do It",
-      "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
-    },
-    {
-      "added_at": "2023-10-04 08:10:44",
-      "album": {
         "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time (Expanded Edition)",
         "url": "https://open.spotify.com/album/5aBJpzcDbXmZUywzPJGNFy"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 188960,
       "name": "Line For Lyons",
       "url": "https://open.spotify.com/track/0GUUhTWMylAx5pHDI42t1V"
+    },
+    {
+      "added_at": "2023-10-04 08:10:44",
+      "album": {
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 185666,
+      "name": "Let's Do It",
+      "url": "https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc"
     },
     {
       "added_at": "2023-10-04 08:10:44",
@@ -415,22 +415,6 @@
     {
       "added_at": "2023-10-04 08:10:44",
       "album": {
-        "name": "Cononbridge",
-        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 298000,
-      "name": "Cononbridge",
-      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
-    },
-    {
-      "added_at": "2023-10-04 08:10:44",
-      "album": {
         "name": "Clifford Brown And Max Roach",
         "url": "https://open.spotify.com/album/2EKn6vs5MXWjMubeBhqgKG"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 410666,
       "name": "Joy Spring",
       "url": "https://open.spotify.com/track/2oMaXY0yiWhAEWD7SutXh2"
+    },
+    {
+      "added_at": "2023-10-04 08:10:44",
+      "album": {
+        "name": "Cononbridge",
+        "url": "https://open.spotify.com/album/1Hu3K4n6IhaGGqCT5Hf1sj"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 298000,
+      "name": "Cononbridge",
+      "url": "https://open.spotify.com/track/7eTxWRSvauWm5L3FblGk2h"
     },
     {
       "added_at": "2023-10-04 08:10:44",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-10-04 08:10:44",
       "album": {
-        "name": "Twentysomething (Special Edition)",
-        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 250280,
-      "name": "I Get A Kick Out Of You",
-      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
-    },
-    {
-      "added_at": "2023-10-04 08:10:44",
-      "album": {
         "name": "Timba a la Americana",
         "url": "https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 181928,
       "name": "Hope",
       "url": "https://open.spotify.com/track/3PTBckckvBrl8c4r6xLpFx"
+    },
+    {
+      "added_at": "2023-10-04 08:10:44",
+      "album": {
+        "name": "Twentysomething (Special Edition)",
+        "url": "https://open.spotify.com/album/6YwcKkG1bEljsv9nyfCtgh"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 250280,
+      "name": "I Get A Kick Out Of You",
+      "url": "https://open.spotify.com/track/44a3wyIm26EbMwGEFXDdDR"
     },
     {
       "added_at": "2023-10-04 08:10:44",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-10-04 08:10:44",
       "album": {
-        "name": "You Can't Lose with the Blues",
-        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
-      },
-      "artists": [
-        {
-          "name": "Lafayette Harris, Jr.",
-          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
-        }
-      ],
-      "duration_ms": 315586,
-      "name": "Wonder Why",
-      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
-    },
-    {
-      "added_at": "2023-10-04 08:10:44",
-      "album": {
         "name": "A Boy Named Charlie Brown",
         "url": "https://open.spotify.com/album/4bNE83zw6uZs5FyDFnSCui"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 142680,
       "name": "Oh, Good Grief",
       "url": "https://open.spotify.com/track/7t6Kf3myyknIqWzDFfaImE"
+    },
+    {
+      "added_at": "2023-10-04 08:10:44",
+      "album": {
+        "name": "You Can't Lose with the Blues",
+        "url": "https://open.spotify.com/album/0FZkyEdeAJlR4FIwMLbHyl"
+      },
+      "artists": [
+        {
+          "name": "Lafayette Harris, Jr.",
+          "url": "https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT"
+        }
+      ],
+      "duration_ms": 315586,
+      "name": "Wonder Why",
+      "url": "https://open.spotify.com/track/5JnVSvNTtEPLe2xM1EvXGs"
     },
     {
       "added_at": "2023-10-04 08:10:44",
@@ -891,22 +891,6 @@
     {
       "added_at": "2023-10-04 08:10:44",
       "album": {
-        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
-      },
-      "artists": [
-        {
-          "name": "Etta Jones",
-          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
-        }
-      ],
-      "duration_ms": 260399,
-      "name": "Yes Sir, That's My Baby",
-      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
-    },
-    {
-      "added_at": "2023-10-04 08:10:44",
-      "album": {
         "name": "Past Midnight",
         "url": "https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 172453,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR"
+    },
+    {
+      "added_at": "2023-10-04 08:10:44",
+      "album": {
+        "name": "Don't Go To Strangers (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/5haiDu2ti0IHBHchx7dNjt"
+      },
+      "artists": [
+        {
+          "name": "Etta Jones",
+          "url": "https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0"
+        }
+      ],
+      "duration_ms": 260399,
+      "name": "Yes Sir, That's My Baby",
+      "url": "https://open.spotify.com/track/0b8zKRejjjnmdIFes3tzqh"
     },
     {
       "added_at": "2023-10-04 08:10:44",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-10-04 08:10:44",
       "album": {
-        "name": "Straight Ahead",
-        "url": "https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM"
-      },
-      "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 256160,
-      "name": "Hay Burner",
-      "url": "https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5"
-    },
-    {
-      "added_at": "2023-10-04 08:10:44",
-      "album": {
         "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
         "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 220373,
       "name": "A Foggy Day",
       "url": "https://open.spotify.com/track/0AoklugadsjYsNpOdidHpF"
+    },
+    {
+      "added_at": "2023-10-04 08:10:44",
+      "album": {
+        "name": "Straight Ahead",
+        "url": "https://open.spotify.com/album/5btsSLBlxxrOjw0hnVV9xM"
+      },
+      "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 256160,
+      "name": "Hay Burner",
+      "url": "https://open.spotify.com/track/2MlQuvVsq23rnanz6OYaB5"
     },
     {
       "added_at": "2023-10-04 08:10:44",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-10-04 08:10:44",
       "album": {
-        "name": "Singin' a Melody",
-        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
-      },
-      "artists": [
-        {
-          "name": "Paul Callander Quintet",
-          "url": "https://open.spotify.com/artist/0eVyw9bcjrdnqRGiz18Yz5"
-        }
-      ],
-      "duration_ms": 224786,
-      "name": "Singin' a Melody",
-      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
-    },
-    {
-      "added_at": "2023-10-04 08:10:44",
-      "album": {
         "name": "Soul",
         "url": "https://open.spotify.com/album/13sH8kz1Fjh0jvekB0thjt"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 390173,
       "name": "Sunday Mornin'",
       "url": "https://open.spotify.com/track/1vk8IJceUSsnEycyXnLHr4"
+    },
+    {
+      "added_at": "2023-10-04 08:10:44",
+      "album": {
+        "name": "Singin' a Melody",
+        "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
+      },
+      "artists": [
+        {
+          "name": "Paul Callander Quintet",
+          "url": "https://open.spotify.com/artist/0eVyw9bcjrdnqRGiz18Yz5"
+        }
+      ],
+      "duration_ms": 224786,
+      "name": "Singin' a Melody",
+      "url": "https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq"
     },
     {
       "added_at": "2023-10-04 08:10:44",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-10-04 08:10:44",
       "album": {
-        "name": "The Cat Walk",
-        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
-      },
-      "artists": [
-        {
-          "name": "Donald Byrd",
-          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
-        }
-      ],
-      "duration_ms": 453800,
-      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
-    },
-    {
-      "added_at": "2023-10-04 08:10:44",
-      "album": {
         "name": "Happy Moods",
         "url": "https://open.spotify.com/album/0wulNVxoVugGBX7bwAAmGj"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 347453,
       "name": "Pavanne",
       "url": "https://open.spotify.com/track/55vZxzO7OAmh93hLRiM8qB"
+    },
+    {
+      "added_at": "2023-10-04 08:10:44",
+      "album": {
+        "name": "The Cat Walk",
+        "url": "https://open.spotify.com/album/74xp9w1ZWItApmB1qEd7hm"
+      },
+      "artists": [
+        {
+          "name": "Donald Byrd",
+          "url": "https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL"
+        }
+      ],
+      "duration_ms": 453800,
+      "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
     },
     {
       "added_at": "2023-10-04 08:10:44",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2023-10-04 08:10:44",
       "album": {
-        "name": "Blues Vaccine",
-        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
-      },
-      "artists": [
-        {
-          "name": "F\u00f6rnuft och K\u00e4nsla",
-          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
-        }
-      ],
-      "duration_ms": 360306,
-      "name": "Blues Vaccine",
-      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
-    },
-    {
-      "added_at": "2023-10-04 08:10:44",
-      "album": {
         "name": "Taking A Chance On Love",
         "url": "https://open.spotify.com/album/3SPCafRVqoXgwY3YsofV6W"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 198493,
       "name": "Taking a Chance on Love",
       "url": "https://open.spotify.com/track/1ahnyRMBhh9H9d8v8JIyYF"
+    },
+    {
+      "added_at": "2023-10-04 08:10:44",
+      "album": {
+        "name": "Blues Vaccine",
+        "url": "https://open.spotify.com/album/05VATUBjvBZ5HpwvnX0Tqx"
+      },
+      "artists": [
+        {
+          "name": "F\u00f6rnuft och K\u00e4nsla",
+          "url": "https://open.spotify.com/artist/4KSDoZH1HGkNnZp9Yjhlm0"
+        }
+      ],
+      "duration_ms": 360306,
+      "name": "Blues Vaccine",
+      "url": "https://open.spotify.com/track/4p1NcWez9GkjeLQAV7WOLP"
     },
     {
       "added_at": "2023-10-04 08:10:44",

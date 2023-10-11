@@ -1,32 +1,28 @@
 {
-  "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: BIzarrap & Milo j",
-  "num_followers": 14376096,
+  "description": "Today's top Latin hits, elevando nuestra m\u00fasica. Cover: Bizarrap & Milo j",
+  "num_followers": 14373640,
   "original_name": "Viva Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNmJiZDI5MTE4MjAxYjljYjAyMDU1Njc3Yzk4YWFiZDg0YTZhYjQx",
+  "snapshot_id": "MCwyYmNjNzBlMDMzN2U4OTRiNjQ4ZjRhYmQ2NGM0OTVkYWI2ZTA0NjY2",
   "tracks": [
     {
       "added_at": "2023-10-05 00:00:00",
       "album": {
-        "name": "en dormir sin Madrid",
-        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
+        "name": "UN PREVIEW",
+        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 189901,
-      "name": "Milo J: Bzrp Music Sessions, Vol. 57",
-      "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
+      "duration_ms": 165582,
+      "name": "UN PREVIEW",
+      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
     },
     {
       "added_at": "2023-10-05 00:00:00",
@@ -51,22 +47,6 @@
     {
       "added_at": "2023-10-05 00:00:00",
       "album": {
-        "name": "UN PREVIEW",
-        "url": "https://open.spotify.com/album/72GhGik5fsSeFkgpjsllVj"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 165582,
-      "name": "UN PREVIEW",
-      "url": "https://open.spotify.com/track/63ui2w3QJBp8xx0c1MJB2Z"
-    },
-    {
-      "added_at": "2023-10-05 00:00:00",
-      "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
       },
@@ -79,6 +59,26 @@
       "duration_ms": 184061,
       "name": "Si No Est\u00e1s",
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "added_at": "2023-10-05 00:00:00",
+      "album": {
+        "name": "en dormir sin Madrid",
+        "url": "https://open.spotify.com/album/4NMv3cMkDwkkR6EdLloQDB"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        }
+      ],
+      "duration_ms": 189901,
+      "name": "Milo J: Bzrp Music Sessions, Vol. 57",
+      "url": "https://open.spotify.com/track/2QM5gBm9Q8VZ7UamMIMLb1"
     },
     {
       "added_at": "2023-10-05 00:00:00",

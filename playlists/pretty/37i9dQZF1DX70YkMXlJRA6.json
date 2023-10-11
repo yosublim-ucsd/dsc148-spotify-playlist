@@ -1,33 +1,13 @@
 {
   "description": "Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.",
-  "num_followers": 46735,
+  "num_followers": 46757,
   "original_name": "Club Electropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MzY3ZGRkOWZmNjU1OTU2YzhlMGI2ZDRiN2QxZWUwOWJjY2ViNmE5",
+  "snapshot_id": "MCwyOGU5MTFkYmExNzlkODk5MjgyMDk2YzRhMGVlMThhMDg0NDcyYzA3",
   "tracks": [
-    {
-      "added_at": "2023-04-01 01:11:30",
-      "album": {
-        "name": "Liit",
-        "url": "https://open.spotify.com/album/1bSOutlOEi6xlqpLQC4Mss"
-      },
-      "artists": [
-        {
-          "name": "\u00c7antamarta",
-          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
-        },
-        {
-          "name": "rusowsky",
-          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
-        }
-      ],
-      "duration_ms": 167449,
-      "name": "Liit",
-      "url": "https://open.spotify.com/track/0tZytKFwVKhuTVAr1kJCSB"
-    },
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
@@ -51,6 +31,26 @@
       "duration_ms": 212621,
       "name": "Sr. Tigre - French Braids Rework",
       "url": "https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj"
+    },
+    {
+      "added_at": "2023-04-01 01:11:30",
+      "album": {
+        "name": "Liit",
+        "url": "https://open.spotify.com/album/1bSOutlOEi6xlqpLQC4Mss"
+      },
+      "artists": [
+        {
+          "name": "\u00c7antamarta",
+          "url": "https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln"
+        },
+        {
+          "name": "rusowsky",
+          "url": "https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH"
+        }
+      ],
+      "duration_ms": 167449,
+      "name": "Liit",
+      "url": "https://open.spotify.com/track/0tZytKFwVKhuTVAr1kJCSB"
     },
     {
       "added_at": "2023-05-24 02:19:29",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Pulso",
-        "url": "https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr"
-      },
-      "artists": [
-        {
-          "name": "Aceros del Pac\u00edfico",
-          "url": "https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Costa Para\u00edso",
-      "url": "https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
         "name": "Magnetica",
         "url": "https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL"
       },
@@ -599,22 +583,18 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "M\u00fasica Para Pick Up",
-        "url": "https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo"
+        "name": "Pulso",
+        "url": "https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr"
       },
       "artists": [
         {
-          "name": "Pernett",
-          "url": "https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU"
-        },
-        {
-          "name": "The Caribbean Ravers",
-          "url": "https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd"
+          "name": "Aceros del Pac\u00edfico",
+          "url": "https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o"
         }
       ],
-      "duration_ms": 245426,
-      "name": "The Caribbean Raver",
-      "url": "https://open.spotify.com/track/1CKL36QvlImNhsMAbwhGIQ"
+      "duration_ms": 284000,
+      "name": "Costa Para\u00edso",
+      "url": "https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK"
     },
     {
       "added_at": "2022-11-12 17:24:45",
@@ -635,6 +615,26 @@
       "duration_ms": 222426,
       "name": "Piedras del Sol",
       "url": "https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
+        "name": "M\u00fasica Para Pick Up",
+        "url": "https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo"
+      },
+      "artists": [
+        {
+          "name": "Pernett",
+          "url": "https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU"
+        },
+        {
+          "name": "The Caribbean Ravers",
+          "url": "https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd"
+        }
+      ],
+      "duration_ms": 245426,
+      "name": "The Caribbean Raver",
+      "url": "https://open.spotify.com/track/1CKL36QvlImNhsMAbwhGIQ"
     },
     {
       "added_at": "2023-03-24 19:41:45",
@@ -719,6 +719,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Tamburo Infinito",
+        "url": "https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Poso",
+          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "Futurista",
+      "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Sierra Madre (Remix)",
         "url": "https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 215466,
       "name": "Conexi\u00f3n Total",
       "url": "https://open.spotify.com/track/2NC0w4Z6RuW5j7tGTy73E8"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Tamburo Infinito",
-        "url": "https://open.spotify.com/album/3pMgCo2KNkpuQKfG1Jmnvx"
-      },
-      "artists": [
-        {
-          "name": "Gabriele Poso",
-          "url": "https://open.spotify.com/artist/2yApCA4GzuGb9oDS5I5Fjp"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "Futurista",
-      "url": "https://open.spotify.com/track/2OMiLy24OQeshtLLWWd08A"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -843,6 +843,22 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
+        "name": "Beat Cari",
+        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
+      },
+      "artists": [
+        {
+          "name": "CERO39",
+          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+        }
+      ],
+      "duration_ms": 332142,
+      "name": "Beat Cari",
+      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
+    },
+    {
+      "added_at": "2022-06-07 16:47:23",
+      "album": {
         "name": "Diablo",
         "url": "https://open.spotify.com/album/6wTBAa1tAJ5B0VulRrSNOI"
       },
@@ -879,42 +895,18 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Beat Cari",
-        "url": "https://open.spotify.com/album/2IsafQn6ZO6kBoBJSYVa8B"
+        "name": "Planeta",
+        "url": "https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R"
       },
       "artists": [
         {
-          "name": "CERO39",
-          "url": "https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0"
+          "name": "Bleepolar",
+          "url": "https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ"
         }
       ],
-      "duration_ms": 332142,
-      "name": "Beat Cari",
-      "url": "https://open.spotify.com/track/627qPCQJceR1uXss77Gv8B"
-    },
-    {
-      "added_at": "2022-06-07 16:47:23",
-      "album": {
-        "name": "Calentura: Toque (Captain Planet Remixes)",
-        "url": "https://open.spotify.com/album/3mBNM16s2Nq2hfPNkhHSpz"
-      },
-      "artists": [
-        {
-          "name": "Mon Rivera",
-          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Captain Planet",
-          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
-        }
-      ],
-      "duration_ms": 244043,
-      "name": "Ya Lleg\u00f3 - Captain Planet Remix",
-      "url": "https://open.spotify.com/track/0PIeefi6RLeFt2O0NUfRps"
+      "duration_ms": 210748,
+      "name": "Planeta",
+      "url": "https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU"
     },
     {
       "added_at": "2022-06-07 16:47:23",
@@ -939,18 +931,26 @@
     {
       "added_at": "2022-06-07 16:47:23",
       "album": {
-        "name": "Planeta",
-        "url": "https://open.spotify.com/album/5zGB9eumbNxficstbn9e7R"
+        "name": "Calentura: Toque (Captain Planet Remixes)",
+        "url": "https://open.spotify.com/album/3mBNM16s2Nq2hfPNkhHSpz"
       },
       "artists": [
         {
-          "name": "Bleepolar",
-          "url": "https://open.spotify.com/artist/5bJyVqX3ILcqs9CGDrDHYQ"
+          "name": "Mon Rivera",
+          "url": "https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx"
+        },
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Captain Planet",
+          "url": "https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi"
         }
       ],
-      "duration_ms": 210748,
-      "name": "Planeta",
-      "url": "https://open.spotify.com/track/2feE2TzHjLRK2gVMLzfWBU"
+      "duration_ms": 244043,
+      "name": "Ya Lleg\u00f3 - Captain Planet Remix",
+      "url": "https://open.spotify.com/track/0PIeefi6RLeFt2O0NUfRps"
     }
   ],
   "unique_name": "Club Electropical",

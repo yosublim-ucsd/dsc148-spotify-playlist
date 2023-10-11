@@ -1,12 +1,12 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music!  Guest curated by: <a href=\"spotify:artist:6KVnMm856M8CHHBCw53Ihh\">Natalie Grant</a>",
-  "num_followers": 318774,
+  "num_followers": 318813,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlM2EyOTI5Nzc5YWJiNzliM2U4N2YwZjAyNTc5ZjQwODY4Njc0YTdh",
+  "snapshot_id": "MCwzYmI3NjIwNWVkODU4OTg4NDc5ZWVlM2NmZGVmZDM0MTdiMWQzMmJm",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Before I Knew Jesus",
-        "url": "https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo"
-      },
-      "artists": [
-        {
-          "name": "Leanna Crawford",
-          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
-        }
-      ],
-      "duration_ms": 196975,
-      "name": "Before I Knew Jesus",
-      "url": "https://open.spotify.com/track/656oooz2McvWe0TezAzkDL"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Christ Our Hope In Life And Death",
         "url": "https://open.spotify.com/album/0hz5LRsLloj4raXH1EF3f1"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 227893,
       "name": "Rejoice",
       "url": "https://open.spotify.com/track/1QMXR5HEcic19jfv6AhaLh"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Before I Knew Jesus",
+        "url": "https://open.spotify.com/album/6bvxqe1cniHoLj5evBKRmo"
+      },
+      "artists": [
+        {
+          "name": "Leanna Crawford",
+          "url": "https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf"
+        }
+      ],
+      "duration_ms": 196975,
+      "name": "Before I Knew Jesus",
+      "url": "https://open.spotify.com/track/656oooz2McvWe0TezAzkDL"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "I Still Pray",
-        "url": "https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p"
-      },
-      "artists": [
-        {
-          "name": "Mickey Guyton",
-          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
-        }
-      ],
-      "duration_ms": 164040,
-      "name": "I Still Pray",
-      "url": "https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Sing! Christ Our Hope In Life And Death (Live At The Getty Music Worship Conference)",
         "url": "https://open.spotify.com/album/6Yc2IDSVhI1i0kxGYBtDTG"
       },
@@ -1027,22 +1011,34 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "You're Not Done",
-        "url": "https://open.spotify.com/album/1RvgJpfOjM3XjdYuhnXwoq"
+        "name": "I Still Pray",
+        "url": "https://open.spotify.com/album/5KfMhRi1Rvr9Eu3EQ9x16p"
       },
       "artists": [
         {
-          "name": "Leeland",
-          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
-        },
-        {
-          "name": "Charity Gayle",
-          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+          "name": "Mickey Guyton",
+          "url": "https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz"
         }
       ],
-      "duration_ms": 363240,
-      "name": "You're Not Done",
-      "url": "https://open.spotify.com/track/2sRC7NJqjECWTjC0G4lkTC"
+      "duration_ms": 164040,
+      "name": "I Still Pray",
+      "url": "https://open.spotify.com/track/3uJjybFZWmfaYQG4PEiiCR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj"
+      },
+      "artists": [
+        {
+          "name": "Consumed By Fire",
+          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
+        }
+      ],
+      "duration_ms": 121459,
+      "name": "Goodbye Ole Me",
+      "url": "https://open.spotify.com/track/1bw0pKdQVY17dmevzVioKY"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1059,6 +1055,26 @@
       "duration_ms": 221560,
       "name": "ABLE",
       "url": "https://open.spotify.com/track/3v7797Fzh4pma99gdKrhsq"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "You're Not Done",
+        "url": "https://open.spotify.com/album/1RvgJpfOjM3XjdYuhnXwoq"
+      },
+      "artists": [
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        },
+        {
+          "name": "Charity Gayle",
+          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+        }
+      ],
+      "duration_ms": 363240,
+      "name": "You're Not Done",
+      "url": "https://open.spotify.com/track/2sRC7NJqjECWTjC0G4lkTC"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1103,6 +1119,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Empty Room",
+        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+      },
+      "artists": [
+        {
+          "name": "Cade Thompson",
+          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+        }
+      ],
+      "duration_ms": 179136,
+      "name": "Lost Without You",
+      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "New Creation",
         "url": "https://open.spotify.com/album/2Z7wHh6bogC6Lc5qqsHWV8"
       },
@@ -1123,34 +1155,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Empty Room",
-        "url": "https://open.spotify.com/album/3RDDsFAfrrpxLcsPJldpTu"
+        "name": "Still Standing",
+        "url": "https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn"
       },
       "artists": [
         {
-          "name": "Cade Thompson",
-          "url": "https://open.spotify.com/artist/0Rta8FGUn7TLTsFiumWoC4"
+          "name": "Josh Wright",
+          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
         }
       ],
-      "duration_ms": 179136,
-      "name": "Lost Without You",
-      "url": "https://open.spotify.com/track/3oykaKHbFdUvjS69m5lK3n"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "First Things First",
-        "url": "https://open.spotify.com/album/06eEaL5af1KAXPZY8pinIj"
-      },
-      "artists": [
-        {
-          "name": "Consumed By Fire",
-          "url": "https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5"
-        }
-      ],
-      "duration_ms": 121459,
-      "name": "Goodbye Ole Me",
-      "url": "https://open.spotify.com/track/1bw0pKdQVY17dmevzVioKY"
+      "duration_ms": 204479,
+      "name": "Still Standing",
+      "url": "https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1171,22 +1187,6 @@
       "duration_ms": 193040,
       "name": "Ark",
       "url": "https://open.spotify.com/track/4zFqNWCwbAXofs4cxBH2bs"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Still Standing",
-        "url": "https://open.spotify.com/album/4dm87zKKSWl09tAY3v6dcn"
-      },
-      "artists": [
-        {
-          "name": "Josh Wright",
-          "url": "https://open.spotify.com/artist/0okSx9dxCq2J9CYuAQalp2"
-        }
-      ],
-      "duration_ms": 204479,
-      "name": "Still Standing",
-      "url": "https://open.spotify.com/track/18dUAYjA7DOknCPtczKUuD"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Good Lord",
-        "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        },
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        }
-      ],
-      "duration_ms": 202708,
-      "name": "Good Lord (feat. Katy Nichole)",
-      "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Won't Let Me Go",
         "url": "https://open.spotify.com/album/6Iz4kOedcD9TXPBLMTtIaw"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 215213,
       "name": "Won't Let Me Go",
       "url": "https://open.spotify.com/track/7GW5CekZY8n1ZBG4NK9HKQ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Good Lord",
+        "url": "https://open.spotify.com/album/6m0JzlLDkr7eDuzB8SOXBt"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        },
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        }
+      ],
+      "duration_ms": 202708,
+      "name": "Good Lord (feat. Katy Nichole)",
+      "url": "https://open.spotify.com/track/63lYvDRx5ySVsjwVzQF9YJ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "One Heart at a Time",
-        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
-      },
-      "artists": [
-        {
-          "name": "Matt Maher",
-          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
-        }
-      ],
-      "duration_ms": 262520,
-      "name": "One Heart at a Time",
-      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Hills Of Tyrone",
         "url": "https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 209390,
       "name": "Seasons",
       "url": "https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "One Heart at a Time",
+        "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
+      },
+      "artists": [
+        {
+          "name": "Matt Maher",
+          "url": "https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW"
+        }
+      ],
+      "duration_ms": 262520,
+      "name": "One Heart at a Time",
+      "url": "https://open.spotify.com/track/6JWRtXvUGFUyNNv768OL7v"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Valor",
-        "url": "https://open.spotify.com/album/0P3HrGJ2h1D1XAoGRFaPK4"
-      },
-      "artists": [
-        {
-          "name": "Christy Nockels",
-          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
-        }
-      ],
-      "duration_ms": 342778,
-      "name": "Valor",
-      "url": "https://open.spotify.com/track/0zrDcz4IcvtNqvB04tJQgh"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Caedmon's Call",
         "url": "https://open.spotify.com/album/6ptgSZ2JdSNK5TfU8s4B7A"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 241893,
       "name": "Lead of Love",
       "url": "https://open.spotify.com/track/0o8tEsgdKFeCy1ScEi4tiM"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Valor",
+        "url": "https://open.spotify.com/album/0P3HrGJ2h1D1XAoGRFaPK4"
+      },
+      "artists": [
+        {
+          "name": "Christy Nockels",
+          "url": "https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6"
+        }
+      ],
+      "duration_ms": 342778,
+      "name": "Valor",
+      "url": "https://open.spotify.com/track/0zrDcz4IcvtNqvB04tJQgh"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Wounded Healer",
-        "url": "https://open.spotify.com/album/0mdmYWwRjrZwnN6kWlVwFx"
-      },
-      "artists": [
-        {
-          "name": "Laura Hackett Park",
-          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
-        }
-      ],
-      "duration_ms": 179186,
-      "name": "Wounded Healer",
-      "url": "https://open.spotify.com/track/4YsShNqQca2l7F0ycSpZXi"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Worthy One",
         "url": "https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 236806,
       "name": "Worthy One",
       "url": "https://open.spotify.com/track/7DnsLjXPTPq0Sy24k6LPIR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Wounded Healer",
+        "url": "https://open.spotify.com/album/0mdmYWwRjrZwnN6kWlVwFx"
+      },
+      "artists": [
+        {
+          "name": "Laura Hackett Park",
+          "url": "https://open.spotify.com/artist/6ScYoRIa2PsNj7YZd030BV"
+        }
+      ],
+      "duration_ms": 179186,
+      "name": "Wounded Healer",
+      "url": "https://open.spotify.com/track/4YsShNqQca2l7F0ycSpZXi"
     },
     {
       "added_at": "2023-10-06 04:00:00",

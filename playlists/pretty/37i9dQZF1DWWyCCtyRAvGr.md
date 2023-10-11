@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 
 > A relaxing evening with a smooth glass never sounded so good\. Hit play and let the room fill with some of the classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,929 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,974 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 29 | [Blues On The Bay](https://open.spotify.com/track/7offXLsItZzJ7sF08FRkoM) | [Dom Martin](https://open.spotify.com/artist/6q35brMh58V8HBuVBsd6aQ) | [A Savage Life](https://open.spotify.com/album/3EUOVC5lWv58P8Dmetgb5B) | 2:47 |
 | 30 | [Follow The Money \(feat\. James Taylor\)](https://open.spotify.com/track/0BjPesQ5R1GbeAqziScKAs) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [The Blues Don't Lie](https://open.spotify.com/album/4l9eneOLKyG0u5W4bkDQwp) | 3:42 |
 | 31 | [You Don't Want Me](https://open.spotify.com/track/6ECnAHxGQilDe32zQqfdz3) | [Earl Hooker](https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O) | [Two Bugs and a Roach](https://open.spotify.com/album/4IWaRuc8RGDetpOm5Bv4Ho) | 5:16 |
-| 32 | [Make It Rain](https://open.spotify.com/track/4FLsABaj5iQbOfp7akXEn5) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 6:41 |
-| 33 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
-| 34 | [Mean Blues](https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz) | [Floyd Lee & His Mean Blues Band](https://open.spotify.com/artist/1NyY8eTT2Djl9p3LfBW8zg) | [The Amogla Sessions, Vol\. 1](https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ) | 4:59 |
+| 32 | [Fancy Drones \(Fracture Me\)](https://open.spotify.com/track/1l9LNsjdOQ3Wfkmnsjetxj) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Wary + Strange](https://open.spotify.com/album/75g27i85SR6XYAXKRRfOda) | 3:37 |
+| 33 | [Mean Blues](https://open.spotify.com/track/3BnnWKoUg5BKIflQJ7dyAz) | [Floyd Lee & His Mean Blues Band](https://open.spotify.com/artist/1NyY8eTT2Djl9p3LfBW8zg) | [The Amogla Sessions, Vol\. 1](https://open.spotify.com/album/4yCM5denwMIxfmTlNXBDzJ) | 4:59 |
+| 34 | [Make It Rain](https://open.spotify.com/track/4FLsABaj5iQbOfp7akXEn5) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Heavy Load Blues](https://open.spotify.com/album/4RZFJXFYLHs9VhATqZ2nan) | 6:41 |
 | 35 | [Reconsider Baby](https://open.spotify.com/track/65JvAtDMWtNIjDCDOLeJ2A) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Hung Down Head](https://open.spotify.com/album/4x3NEnpfAk2NY3jD6UDLEV) | 3:09 |
 | 36 | [Spoonful](https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [Poet Of the Blues \(Mojo Workin'\- Blues For The Next Generation\)](https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD) | 4:55 |
 | 37 | [Papa Ain't Salty](https://open.spotify.com/track/1OGh5aeiGiNvuD37LiNN99) | [T\-Bone Walker](https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX) | [T\-Bone Blues](https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3) | 2:47 |
@@ -92,10 +92,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 82 | [Love on the Rocks](https://open.spotify.com/track/06naKf1yua8cwigjhWtOSz) | [Lauren Anderson](https://open.spotify.com/artist/3AoeCSG1zkka1T0WO3dPUJ) | [Love on the Rocks](https://open.spotify.com/album/1GMBZjGm9SylBHR9VgtIJA) | 3:42 |
 | 83 | [Nothing But Love](https://open.spotify.com/track/4O4GPgWzFwIjMZggucEDk2) | [Rick Estrin & The Nightcats](https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U) | [Contemporary](https://open.spotify.com/album/1iarrnQhFVvqazwsGSz0G7) | 3:02 |
 | 84 | [Reconsider Baby \- Remastered](https://open.spotify.com/track/5Avx6u0cFb5P0fL4qzijGC) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [The Best Of Freddie King: The Shelter Years](https://open.spotify.com/album/4gpyOtOO0Ws6zhvcp4ASMY) | 4:00 |
-| 85 | [Don't Deal With The Devil](https://open.spotify.com/track/33jJqlgkrH2iHOjoXcOj7r) | [Sean Stephen](https://open.spotify.com/artist/0wHOPf2KuDPTX1jXDw1qMp) | [Shadows and Ghosts](https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa) | 3:50 |
-| 86 | [I Hate These Doggone Blues](https://open.spotify.com/track/1eE6YpZjxNZg9EKOL41za7) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:38 |
-| 87 | [Hiding Place](https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Hiding Place](https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D) | 7:23 |
-| 88 | [I'm on My Way](https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:11 |
+| 85 | [I Hate These Doggone Blues](https://open.spotify.com/track/1eE6YpZjxNZg9EKOL41za7) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [Standing My Ground](https://open.spotify.com/album/7LB1QYWJ6jbs0BO2etD21h) | 4:38 |
+| 86 | [Don't Deal With The Devil](https://open.spotify.com/track/33jJqlgkrH2iHOjoXcOj7r) | [Sean Stephen](https://open.spotify.com/artist/0wHOPf2KuDPTX1jXDw1qMp) | [Shadows and Ghosts](https://open.spotify.com/album/7MLFMguNvYpr0q0ZWOOzAa) | 3:50 |
+| 87 | [I'm on My Way](https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp) | [Christine McVie](https://open.spotify.com/artist/6RCsx4p5smZHYz2P5HLcL2) | [The Legendary Christine Perfect Album](https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp) | 3:11 |
+| 88 | [Hiding Place](https://open.spotify.com/track/1W6xHj8Ic4p1QienSgdaFU) | [Gov't Mule](https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708) | [Hiding Place](https://open.spotify.com/album/7dcq4XdSEHjdkNkRokWx5D) | 7:23 |
 | 89 | [Sitting At Home Alone](https://open.spotify.com/track/3y5yJbyAJcCSWJmUF7Fi8d) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Try It...You Might Like It: GA\-20 Does Hound Dog Taylor](https://open.spotify.com/album/4d9H4axCobgD9iuMsP3XCj) | 4:35 |
 | 90 | [Lovedog](https://open.spotify.com/track/3Qh6bO9w0zGKXLWej6Mu2O) | [Daniel Norgren](https://open.spotify.com/artist/6swk8GFDoEZ1cFDX70xyuO) | [Horrifying Deatheating Bloodspider](https://open.spotify.com/album/2AofxKR1xww94PPlpswmNs) | 2:48 |
 | 91 | [The Celebrated Walkin' Blues](https://open.spotify.com/track/1R5mc9pkvt3ZZ7r8nnnVVR) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [The Essential Taj Mahal](https://open.spotify.com/album/2PqzqwqXkeDn5UoL4WSkV6) | 8:50 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWyCCtyRAvGr.md) - [plain]
 | 96 | [Help Me](https://open.spotify.com/track/2MBcCczDECsZFVaDxFVwgT) | [Charlie Musselwhite](https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc) | [Best Of The Vanguard Years](https://open.spotify.com/album/50S1EIpm4XRJhZQEAzcMh3) | 3:30 |
 | 97 | [I Need Love So Bad](https://open.spotify.com/track/33XNrhJHyTEl38KwTZV0QV) | [Junior Parker](https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u) | [Next Time You See Me](https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx) | 2:36 |
 | 98 | [The Game](https://open.spotify.com/track/4GlOCWKClEiHimqSkKBHW6) | [Lightnin' Ray](https://open.spotify.com/artist/7aCr5RMW8vRX9vz46xI93s) | [Two Sides to the Story](https://open.spotify.com/album/6i2eofEuSfRixw6woF6obn) | 6:05 |
-| 99 | [Midnight in Mississippi '22](https://open.spotify.com/track/31rHw7L2PnXw53oNzH1FgI) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Midnight in Mississippi '22](https://open.spotify.com/album/78vmcDjMM4wIn6CppzngNt) | 3:58 |
-| 100 | [Gone For Good](https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 2:58 |
+| 99 | [Gone For Good](https://open.spotify.com/track/4DfTU1lBVwrQvFLnpBbXLF) | [GA\-20](https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT) | [Crackdown](https://open.spotify.com/album/5ikMOG2XXGBIZrsccTOUhL) | 2:58 |
+| 100 | [Midnight in Mississippi '22](https://open.spotify.com/track/31rHw7L2PnXw53oNzH1FgI) | [The Mystix](https://open.spotify.com/artist/7wRM1dpmB9KREbK1sVqnVZ), [Luther Dickinson](https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk) | [Midnight in Mississippi '22](https://open.spotify.com/album/78vmcDjMM4wIn6CppzngNt) | 3:58 |
 
-Snapshot ID: `MCwyZDFmNzE1ZGNlYjYzNTQ2NTUzY2YyMzVkNjIxOTMwMDVhMzQ0N2Q3`
+Snapshot ID: `MCwxNTMyOTUxNDhjMDdjOTcwYjQ1NWU1OGEwODYyNzIyOTk1NWVhNWZi`

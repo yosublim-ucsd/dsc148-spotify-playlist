@@ -4,7 +4,7 @@
 
 > This is Midian Lima\. The essential tracks, all in one playlist.
 
-52 songs - 4 hr 16 min
+53 songs - 4 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Memórias \(Ao Vivo\)](https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66) | [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Léa Mendonça \(Ao Vivo\)](https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl) | 4:20 | 2023-07-09 |  |
 | [Meu Milagre \(Ao Vivo\)](https://open.spotify.com/track/5JlfhpLoJTtsQNqrRs8OAa) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t), [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Meu Milagre \(Ao Vivo\)](https://open.spotify.com/album/3rN0mzP5qJCoAI6SlSunXY) | 4:58 | 2023-07-09 |  |
 | [Nasci Pra Deus](https://open.spotify.com/track/3q6YCfW9zSrlMC4HRwRJbU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Nasci Pra Deus](https://open.spotify.com/album/0jYMssO9wqHGNRAtVbYTNg) | 3:26 | 2023-07-09 |  |
-| [No Pares](https://open.spotify.com/track/6lhq52ulpv88jIYpqrZBFQ) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [No Pares](https://open.spotify.com/album/3OKxWsolYmrGBYJjWGIH0H) | 4:46 | 2023-07-09 |  |
+| [No Pares](https://open.spotify.com/track/6lhq52ulpv88jIYpqrZBFQ) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [No Pares](https://open.spotify.com/album/3OKxWsolYmrGBYJjWGIH0H) | 4:46 | 2023-07-09 | 2023-10-11 |
 | [Não Haverá Vergonha](https://open.spotify.com/track/2svtPIsdwo3G5tVTsMVhTN) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Haverá Vergonha](https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX) | 5:16 | 2023-07-09 |  |
 | [Não Pare](https://open.spotify.com/track/3VCfmjE0oEMYQUil14wd0J) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/56P1CgGN8DGhG4ksRz0tfF) | 4:53 | 2023-07-09 |  |
 | [O Deus dos Pequeninos](https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Deus dos Pequeninos](https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h) | 4:41 | 2023-07-09 |  |
@@ -41,6 +41,7 @@
 | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/track/7xfxErLZXui34OxxUthzjU) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [O Nome de Jesus \(The Name Of Our God\)](https://open.spotify.com/album/5RRQQd2Jk1RZYHx9GobjZB) | 6:53 | 2023-07-09 |  |
 | [O Poder do Sangue](https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima Live Session](https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr) | 4:03 | 2023-07-09 |  |
 | [O Preço Foi de Sangue](https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Não Pare](https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM) | 4:36 | 2023-07-09 |  |
+| [O Rei Está Voltando \(Ao Vivo\)](https://open.spotify.com/track/6zB5D61eW6SxQWGXn8jzle) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Midian Lima \(Ao Vivo\)](https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi) | 5:33 | 2023-10-10 |  |
 | [Olharei Para o Alto](https://open.spotify.com/track/6ZUd69R92Ao3V9yNRwY52M) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 4:28 | 2023-07-09 |  |
 | [Prioridad](https://open.spotify.com/track/30tXzCwahCEoAQreBgEfel) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Prioridad](https://open.spotify.com/album/7b4NMbigXOZcFsPMSHXIwZ) | 3:48 | 2023-07-09 |  |
 | [Prioridade](https://open.spotify.com/track/0XX21ynoX03YyxU13Dfuaj) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Milagre](https://open.spotify.com/album/1yJrqvFfnmTAAb9XUuQf1R) | 3:59 | 2023-07-09 |  |

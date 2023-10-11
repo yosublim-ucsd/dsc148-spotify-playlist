@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 
 > Late night cool and the sound of smooth blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,993 likes - 80 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,161 likes - 80 songs - 6 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,11 +39,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 29 | [Love That Burns](https://open.spotify.com/track/6mwt41UPKso9N0Kkkd44Hw) | [Gary Moore](https://open.spotify.com/artist/23wr9RJZg0PmYvVFyNkQ4j) | [Blues For Greeny](https://open.spotify.com/album/46Lmqo7r5UDYOhIOGOSjdU) | 6:29 |
 | 30 | [Same Old Blues Again](https://open.spotify.com/track/34DADpi4VumTjOXEkLbrNc) | [John Lee Hooker](https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x) | [Boom Boom](https://open.spotify.com/album/5Bsx6KPTdZfbmwIWbxK0wo) | 6:13 |
 | 31 | [The Moon is Rising](https://open.spotify.com/track/736frSQjibzIkMg2byvPoW) | [Arthur "Big Boy" Crudup](https://open.spotify.com/artist/7dSnChJjb0jdfulJsIijoC) | [That's All Right \(Mama\) \- the Fire Sessions](https://open.spotify.com/album/0FunGD7FQtlCKOwavfZAbD) | 2:13 |
-| 32 | [Without You \- 2013 Remaster](https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW) | 4:35 |
-| 33 | [Gotta Leave](https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ) | [Back Door Slam](https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34), [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Roll Away \(Deluxe Edition\)](https://open.spotify.com/album/0IShhCcX0GjjkTGGq6BoCa) | 5:49 |
+| 32 | [Gotta Leave](https://open.spotify.com/track/6Wz65CyzyH5lY3AjJNIqZZ) | [Back Door Slam](https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34), [Davy Knowles](https://open.spotify.com/artist/4yiPHMcw2R2SKfIsMuatfB) | [Roll Away \(Deluxe Edition\)](https://open.spotify.com/album/0IShhCcX0GjjkTGGq6BoCa) | 5:49 |
+| 33 | [Without You \- 2013 Remaster](https://open.spotify.com/track/7JS6aAiymUcmAqEYEnCrlX) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Then Play On \(2013 Remaster; Expanded Edition\)](https://open.spotify.com/album/4Ji83LjzvEzFoCpN85m5lW) | 4:35 |
 | 34 | [Me And The Blues](https://open.spotify.com/track/0xxbcXo99r5cJItylWkKNh) | [Mildred Bailey](https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix) | [Sings..\. Me And The Blues](https://open.spotify.com/album/5vc8CnGTsboRWY5ckBUt7u) | 3:09 |
-| 35 | [Mystery Woman](https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Come to Find](https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd) | 5:01 |
-| 36 | [RHYTHMS OF THE NIGHT](https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf) | [Thorbjørn Risager](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT), [The Black Tornado](https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD) | [Track Record](https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR) | 3:46 |
+| 35 | [RHYTHMS OF THE NIGHT](https://open.spotify.com/track/2EoSICrErU4WI3QSSu61Xf) | [Thorbjørn Risager](https://open.spotify.com/artist/1ZH4VWLaW65KivEJmbhhiT), [The Black Tornado](https://open.spotify.com/artist/5xZXRYnVUXrCglxwVCLAVD) | [Track Record](https://open.spotify.com/album/5XlHrs7XH33wS6SaHCRNmR) | 3:46 |
+| 36 | [Mystery Woman](https://open.spotify.com/track/1iHbbd44X6nmnF6may22sd) | [Doug MacLeod](https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz) | [Come to Find](https://open.spotify.com/album/6TdbTfL5Ql2BMqkAknneZd) | 5:01 |
 | 37 | [She Puts Me In The Mood](https://open.spotify.com/track/0t0CvqbxqwtETTajrzqKoW) | [Elvin Bishop](https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11) | [Big Fun](https://open.spotify.com/album/2Tkar3J9w5aUbxfE4ItKmV) | 3:34 |
 | 38 | [Let Me Be](https://open.spotify.com/track/2jgHuKeHNfhtYEHwIuc0iJ) | [Albert Cummings](https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg) | [Working Man](https://open.spotify.com/album/0gsSBr61g7HRuZmyW75VJu) | 5:32 |
 | 39 | [Kind Hearted Woman Blues](https://open.spotify.com/track/3bDhok0xhx7ihIGWdt9Ft0) | [Eric Clapton](https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD) | [Me and Mr\. Johnson](https://open.spotify.com/album/3DgSNj2EanKS98ViJovfrh) | 4:06 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 45 | [Don't Worry](https://open.spotify.com/track/3NVy1z9t4I6qgkY29d0r7C) | [James Cooke](https://open.spotify.com/artist/3VokpYFCjGr97pLl2RVd9U) | [Put In a Little Time](https://open.spotify.com/album/4lMmRnqMe82gxF92t8dWXt) | 4:40 |
 | 46 | [Love Letter To The Blues \- Bonus Track](https://open.spotify.com/track/3i7fHXcG7apdpiemYYPP1J) | [Connor Selby](https://open.spotify.com/artist/4UDgyOm8Xpbxqid8l427Mc) | [Connor Selby \(Deluxe Edition\)](https://open.spotify.com/album/3MzRJbbq5PsBnmPqV9JzkU) | 4:53 |
 | 47 | [Black Angel Blues](https://open.spotify.com/track/5insosOirGOL3cvJ0li2bD) | [Robert Nighthawk](https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG) | [Presenting Robert Nighthawk](https://open.spotify.com/album/4VIFEGvSDLnyTUoZDSJinS) | 3:04 |
-| 48 | [Along About Midnight](https://open.spotify.com/track/0LUEBWAnO3CGjASnVqqUkV) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Soul Of The Blues](https://open.spotify.com/album/76qQVzA1tljhUASkx17h8O) | 4:05 |
-| 49 | [Mama Roux](https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q) | [Matthis Pascaud](https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Mama Roux](https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5) | 4:40 |
+| 48 | [Mama Roux](https://open.spotify.com/track/2J9x0DWR1kDyRZBPWKKT0Q) | [Matthis Pascaud](https://open.spotify.com/artist/1qn5qnZBihsurzBW3YrMTp), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ) | [Mama Roux](https://open.spotify.com/album/4mVyWlC7YuwWmHeUUSj9s5) | 4:40 |
+| 49 | [Along About Midnight](https://open.spotify.com/track/0LUEBWAnO3CGjASnVqqUkV) | [Solomon Burke](https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb) | [Soul Of The Blues](https://open.spotify.com/album/76qQVzA1tljhUASkx17h8O) | 4:05 |
 | 50 | [One Room Country Shack](https://open.spotify.com/track/1oG6p5Ue73whPJODUWTuCe) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [As Good As It Gets](https://open.spotify.com/album/49L5Gul5usm0h5SqS39ovJ) | 5:38 |
 | 51 | [Gee Baby Ain't I Good To You](https://open.spotify.com/track/1hNvO806O5Z6tFJWCgDumi) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Gee Baby Ain't I Good To You](https://open.spotify.com/album/3mSZj6jGzCcDx2uNNhwNQk) | 3:51 |
 | 52 | [Luther's Blues](https://open.spotify.com/track/0GvTuG8uhF45s8yT3aYPH4) | [Luther Allison](https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv) | [The Motown Years 1972\-1976](https://open.spotify.com/album/5b1RrcADU8Ziwyz6ViTGpW) | 6:20 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcc6f6HRuPnq.md) - [plain]
 | 79 | [Blues For Lonnie Johnson](https://open.spotify.com/track/16GxUULZcIsEiXGd3mOGaF) | [Robben Ford](https://open.spotify.com/artist/7C1CFA2GWGFc51SrvX5Bvy) | [Pure](https://open.spotify.com/album/7dVoh9G6j2gPTr3uLUJnFB) | 4:53 |
 | 80 | [Twenty\-Four Hours \- Digitally Remastered Version](https://open.spotify.com/track/1zdnfGx2EBPs6WBIAOqGjY) | [Steamhammer](https://open.spotify.com/artist/78sxSGdMQas5prtm6LZXyj) | [Reflection \(Digitally Remastered Version\)](https://open.spotify.com/album/63rMIZKgABeXOmbnA7aSTR) | 7:27 |
 
-Snapshot ID: `MCxlYTE2N2UyNGZiYTg3ODJlZThlNzBlYjQxNTM2N2YyM2JmYmExYzYw`
+Snapshot ID: `MCwwMzhmOWJkY2M1ZjE4Yjk0MWViYWJhYTdhZDU5ODZmZmIyNGZmMTU0`

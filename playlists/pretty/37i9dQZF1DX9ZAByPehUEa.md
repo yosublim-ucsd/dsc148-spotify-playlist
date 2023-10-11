@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,525 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,630 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 10 | [ITALODISCO \- English Version](https://open.spotify.com/track/2dscdzSfNdj2QLpZkPnKTQ) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [ITALODISCO \(English Version\)](https://open.spotify.com/album/43pxODk9GVXEEnXfzzNLRu) | 3:19 |
 | 11 | [Ask Me](https://open.spotify.com/track/05QGJav2nGJ9qdQ3vG9A9t) | [Duck Sauce](https://open.spotify.com/artist/0q8J3Yj810t5cpAYEJ7gxt), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Armand Van Helden](https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE) | [Ask Me / Mesmerize](https://open.spotify.com/album/01n0HtCtQh4ogK1d8hmrws) | 3:13 |
 | 12 | [Out The Fire \(At The Hotel\) \- Radio Edit](https://open.spotify.com/track/1xZOYV0Z6i7z0nAnyL1zmT) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl), [Ros T](https://open.spotify.com/artist/4sG0aI4xrubRmrdWBIn4RO), [Eunice Collins](https://open.spotify.com/artist/0gr9XCDIeAGLE77V58XLyN) | [Out The Fire \(At The Hotel\)](https://open.spotify.com/album/7n456SX833Pv7NyjcZoLis) | 3:34 |
-| 13 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 |
-| 14 | [Oh Honey](https://open.spotify.com/track/79MSWZup4Q1ShQ1kwsL4qo) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [Oh Honey](https://open.spotify.com/album/6hZAewOMwwk45SDM0Jcb8I) | 2:29 |
+| 13 | [Oh Honey](https://open.spotify.com/track/79MSWZup4Q1ShQ1kwsL4qo) | [Angelo Ferreri](https://open.spotify.com/artist/3tT2XX9qEVivLCYGoqkRkZ) | [Oh Honey](https://open.spotify.com/album/6hZAewOMwwk45SDM0Jcb8I) | 2:29 |
+| 14 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 |
 | 15 | [Something On My Mind](https://open.spotify.com/track/7uEvezzgCoYmqRDloOXUSR) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Duke Dumont](https://open.spotify.com/artist/61lyPtntblHJvA7FMMhi7E), [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Something On My Mind](https://open.spotify.com/album/6lZn8FBB0UFVyGBhvv5FQ8) | 3:36 |
 | 16 | [Call My Name](https://open.spotify.com/track/0vQ2LIvx5U6QN7BnUHWwsJ) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Call My Name](https://open.spotify.com/album/1JU6xZQeMx05tLZAkm5uCv) | 3:18 |
 | 17 | [Techno Disco Tool \- Radio Edit](https://open.spotify.com/track/3qqEFTIFcZuWJYBtshrxca) | [Mella Dee](https://open.spotify.com/artist/2iT8KIetokMHRjhj8dJuNn) | [Techno Disco Tool \(Radio Edit\)](https://open.spotify.com/album/5yadKU4m0Q0AIKxbN9qQIq) | 3:14 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 46 | [Seventies](https://open.spotify.com/track/0HFUOO7GkVBUCYz1u2IcBM) | [Theo Kottis](https://open.spotify.com/artist/3qEwwb8O7MSkGRohGYEzkO) | [Seventies](https://open.spotify.com/album/6snRQ9zw7mrK0l0vPyY8EJ) | 3:16 |
 | 47 | [I'm A Woman](https://open.spotify.com/track/5dcpLmwjST0jOLvl7S9eRW) | [ESSEL](https://open.spotify.com/artist/2ucdZN7GyBGxIKHIzksnXc), [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO) | [I'm A Woman](https://open.spotify.com/album/6qbRtaziTqzvpykUlOczqL) | 2:27 |
 | 48 | [Armaghetton \- Aeroplane Remix](https://open.spotify.com/track/7K0NRDpluahVsxekmJ3ufu) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3), [Greeko](https://open.spotify.com/artist/2G60xU64nhrlgfBPxIE8JH), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Armaghetton \(Aeroplane Remix\)](https://open.spotify.com/album/1es3fJXc54eFu7uUZkSsrh) | 3:33 |
-| 49 | [Ma quale idea \- Myd Remix \(Radio Edit\)](https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Ma quale idea \(Myd Remix\)](https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY) | 3:39 |
-| 50 | [Please \- Single Edit](https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Please](https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR) | 3:39 |
+| 49 | [Please \- Single Edit](https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Please](https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR) | 3:39 |
+| 50 | [Ma quale idea \- Myd Remix \(Radio Edit\)](https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Ma quale idea \(Myd Remix\)](https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY) | 3:39 |
 
-Snapshot ID: `MCwxZDNjOTI2MGIxM2VlZTRiNmU1MGNiMzE3NmQzMzYxOTg1ODcyMjY3`
+Snapshot ID: `MCwxYmYxODQ3YWY1MDkxMWU1YWI2NTRkMWRhMjJmN2JmNGExODcxNjhi`

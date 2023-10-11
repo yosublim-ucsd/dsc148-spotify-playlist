@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 827773,
+  "num_followers": 828055,
   "original_name": "Energy Booster: Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjUwOWZlOTg0NDg2MzI5MzhlNzEzYjRhODhiYjc5MmU5MTJkMzMx",
+  "snapshot_id": "MCwyOTc1NDc1MjlkYTI5OGM5ZDUxMTAzYTFlYTlmZjg2YWZkOWQwMTg1",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Dua Lipa (Deluxe)",
-        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 209320,
-      "name": "New Rules",
-      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 217746,
       "name": "Unstoppable",
       "url": "https://open.spotify.com/track/1yvMUkIOTeUNtNWlWRgANS"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Dua Lipa (Deluxe)",
+        "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 209320,
+      "name": "New Rules",
+      "url": "https://open.spotify.com/track/2ekn2ttSfGqwhhate0LSR0"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -947,26 +947,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Con Calma",
-        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Snow",
-          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
-        }
-      ],
-      "duration_ms": 193226,
-      "name": "Con Calma",
-      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "#willpower",
         "url": "https://open.spotify.com/album/6edYDxspt9uQj21mbAfFIb"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 283400,
       "name": "Scream & Shout",
       "url": "https://open.spotify.com/track/2iJuuzV8P9Yz0VSurttIV5"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Con Calma",
+        "url": "https://open.spotify.com/album/1otwHKoQ5KPaiekpYk4tWh"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Snow",
+          "url": "https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1"
+        }
+      ],
+      "duration_ms": 193226,
+      "name": "Con Calma",
+      "url": "https://open.spotify.com/track/5w9c2J52mkdntKOmRLeM2m"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1875,26 +1875,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Bad Blood",
-        "url": "https://open.spotify.com/album/1Tv3rrFNdXGtTeP1plX2xE"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "Bad Blood",
-      "url": "https://open.spotify.com/track/6xsEAm6w9oMQYYg3jkEkMT"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Handwritten",
         "url": "https://open.spotify.com/album/6sUOosXuYt0oUeczJRbedZ"
       },
@@ -1911,6 +1891,26 @@
       "duration_ms": 223853,
       "name": "I Know What You Did Last Summer",
       "url": "https://open.spotify.com/track/2GyA33q5rti5IxkMQemRDH"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "Bad Blood",
+        "url": "https://open.spotify.com/album/1Tv3rrFNdXGtTeP1plX2xE"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/6xsEAm6w9oMQYYg3jkEkMT"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -1971,6 +1971,26 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Hands All Over",
+        "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        },
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
+      "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "=",
         "url": "https://open.spotify.com/album/32iAEBstCjauDhyKpGjTuq"
       },
@@ -1999,26 +2019,6 @@
       "duration_ms": 239986,
       "name": "Fire Burning",
       "url": "https://open.spotify.com/track/2oENJa1T33GJ0w8dC167G4"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Hands All Over",
-        "url": "https://open.spotify.com/album/7strNUlU6xZqlVWBNUdOYv"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        },
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "Moves Like Jagger - Studio Recording From \"The Voice\" Performance",
-      "url": "https://open.spotify.com/track/7LcfRTgAVTs5pQGEQgUEzN"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2239,6 +2239,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "HAIZ",
+        "url": "https://open.spotify.com/album/1ABRc0UFHY3x6rKQeFBTQ0"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 218773,
+      "name": "Love Myself",
+      "url": "https://open.spotify.com/track/36phXHOKx8rO7CMp2vNX4x"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Wellerman (Sea Shanty / 220 KID x Billen Ted Remix)",
         "url": "https://open.spotify.com/album/1zEBi4O4AaY5M55dUcUp3z"
       },
@@ -2255,22 +2271,6 @@
       "duration_ms": 116750,
       "name": "Wellerman - Sea Shanty / 220 KID x Billen Ted Remix",
       "url": "https://open.spotify.com/track/3iw6V4LH7yPj1ESORX9RIN"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "HAIZ",
-        "url": "https://open.spotify.com/album/1ABRc0UFHY3x6rKQeFBTQ0"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        }
-      ],
-      "duration_ms": 218773,
-      "name": "Love Myself",
-      "url": "https://open.spotify.com/track/36phXHOKx8rO7CMp2vNX4x"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2347,6 +2347,22 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
+        "name": "Ain't Your Mama",
+        "url": "https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lopez",
+          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
+        }
+      ],
+      "duration_ms": 218234,
+      "name": "Ain't Your Mama",
+      "url": "https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
         "name": "Giant (with Rag'n'Bone Man)",
         "url": "https://open.spotify.com/album/4PwXTHenZZx7ebgsnTM65K"
       },
@@ -2363,22 +2379,6 @@
       "duration_ms": 229184,
       "name": "Giant (with Rag'n'Bone Man)",
       "url": "https://open.spotify.com/track/5itOtNx0WxtJmi1TQ3RuRd"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
-        "name": "Ain't Your Mama",
-        "url": "https://open.spotify.com/album/5Bd99eGJKXoRMnqgqWlWmp"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lopez",
-          "url": "https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR"
-        }
-      ],
-      "duration_ms": 218234,
-      "name": "Ain't Your Mama",
-      "url": "https://open.spotify.com/track/2hgzdQdnfWwtdpZbhZlV72"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2607,22 +2607,6 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "I AM...SASHA FIERCE",
-        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Single Ladies (Put a Ring on It)",
-      "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
-    },
-    {
-      "added_at": "2023-08-18 04:00:00",
-      "album": {
         "name": "Take The Crown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1WU5z4DC7dCpXDpKBk5ofI"
       },
@@ -2635,6 +2619,22 @@
       "duration_ms": 201053,
       "name": "Candy",
       "url": "https://open.spotify.com/track/5NlFXQ0si6U87gXs6hq81B"
+    },
+    {
+      "added_at": "2023-08-18 04:00:00",
+      "album": {
+        "name": "I AM...SASHA FIERCE",
+        "url": "https://open.spotify.com/album/39P7VD7qlg3Z0ltq60eHp7"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Single Ladies (Put a Ring on It)",
+      "url": "https://open.spotify.com/track/5R9a4t5t5O0IsznsrKPVro"
     },
     {
       "added_at": "2023-08-18 04:00:00",
@@ -2671,18 +2671,18 @@
     {
       "added_at": "2023-08-18 04:00:00",
       "album": {
-        "name": "Chromatica",
-        "url": "https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP"
+        "name": "Heal",
+        "url": "https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         }
       ],
-      "duration_ms": 193533,
-      "name": "Stupid Love",
-      "url": "https://open.spotify.com/track/7yBbV2k2S2uhaQc24NF2xt"
+      "duration_ms": 214133,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW"
     }
   ],
   "unique_name": "Energy Booster: Pop",

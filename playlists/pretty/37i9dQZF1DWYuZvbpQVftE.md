@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 
 > The cool sound of West coast Jazz\. Cover: Gerry Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,985 likes - 50 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,014 likes - 50 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 24 | [A Sinner Kissed an Angel](https://open.spotify.com/track/4Ns7MifKhkJwdDa0eNPZIu) | [Bud Shank](https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW), [Bill Perkins](https://open.spotify.com/artist/3hszaXRiD1mC582INBUhOL) | [Presenting Bud Shank](https://open.spotify.com/album/1bEeCmIuAjwiC3ZOUBSvNP) | 3:20 |
 | 25 | [Grooveyard](https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG) | [Harold Land](https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD) | [Harold In The Land Of Jazz](https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG) | 7:06 |
 | 26 | [The Eagle Flies](https://open.spotify.com/track/0L8PnNpkT1o7Mi9uK3doo5) | [Teddy Charles](https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn) | [Coolin'](https://open.spotify.com/album/5JK0dCS5Tzymtjvt3DsvA2) | 7:43 |
-| 27 | [Moon Over Cuba](https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [Afro\-Cuban Influence](https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5) | 4:17 |
+| 27 | [Patti Cake](https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Nothing But The Blues](https://open.spotify.com/album/3looSg4zNUFzKAyyos640A) | 6:01 |
 | 28 | [Stardust \- Live At Finney Chapel / 1953](https://open.spotify.com/track/5wIsuVFmdu6xtqxg4zjJTf) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Jazz At Oberlin \(OJC Remaster\)](https://open.spotify.com/album/5DAnm554mksK5mPx9Jf29B) | 6:30 |
-| 29 | [Patti Cake](https://open.spotify.com/track/5mAWOB72eW90rZtr3wzcYE) | [Herb Ellis](https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz) | [Nothing But The Blues](https://open.spotify.com/album/3looSg4zNUFzKAyyos640A) | 6:01 |
+| 29 | [Moon Over Cuba](https://open.spotify.com/track/5lflPjZdIBV3aJjn79dkoO) | [Shorty Rogers](https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN) | [Afro\-Cuban Influence](https://open.spotify.com/album/6eTeF2FhtgBmKn6ya2RWn5) | 4:17 |
 | 30 | [Stand Still](https://open.spotify.com/track/07jLNxcwKlAJ8c11gLJuTK) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K), [Paul Desmond Quartet](https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc) | [Gerry Mulligan \- Paul Desmond Quartet / Blues In Time](https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv) | 3:30 |
 | 31 | [Isn't It Romantic](https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr) | [Jimmy Raney](https://open.spotify.com/artist/42MZam7rropEzPCxlGTmOs), [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Jimmy Raney Featuring Bob Brookmeyer](https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp) | 4:06 |
 | 32 | [Sometime Ago](https://open.spotify.com/track/0OshedQ1Ylcgxcr3c23BQV) | [Bob Brookmeyer](https://open.spotify.com/artist/3aM9H4QBnPUo6mnNVufAtN) | [Bob Brookmeyer & Friends](https://open.spotify.com/album/12JCMQ79q662srkjDGoe02) | 4:04 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYuZvbpQVftE.md) - [plain]
 | 41 | [Beyond the Blue Horizon](https://open.spotify.com/track/58iD5C0t6pKoidcDayin0K) | [Chico Hamilton](https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04) | [Gongs East!](https://open.spotify.com/album/2vhPXcTqaaFwl9L8PsBd8Q) | 3:05 |
 | 42 | [News From Blueport](https://open.spotify.com/track/19cN9w8acuY1mhelpksd6h) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [What Is There To Say?](https://open.spotify.com/album/0NUxMpyjIOP71y3NaThnTW) | 5:03 |
 | 43 | [Sunset](https://open.spotify.com/track/6DT90JA5wdKatQf12NynLb) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj), [Bud Powell Quartet](https://open.spotify.com/artist/2vBE1v3LSzP5FGUm3sDo4Z) | [Sonny Stitt, Bud Powell, J.J\. Johnson](https://open.spotify.com/album/7qbujqTVR3B9ED9DqGd1sB) | 3:45 |
-| 44 | [Happily Dancing / Deep Harmonies Falling \- Live](https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs) | [Harold Land](https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD), [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Westward Bound! \(Live\)](https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF) | 8:38 |
-| 45 | [Gettin' Together \[Original Take\]](https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Gettin' Together!](https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT) | 6:56 |
+| 44 | [Gettin' Together \[Original Take\]](https://open.spotify.com/track/78kfNNgqKksRDd9Qr6usSX) | [Art Pepper](https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA) | [Gettin' Together!](https://open.spotify.com/album/4eF6FIxcBLOMOLEl3w4QQT) | 6:56 |
+| 45 | [Happily Dancing / Deep Harmonies Falling \- Live](https://open.spotify.com/track/7vcuLXP5eTaUwa1xh3rRYs) | [Harold Land](https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD), [Carmell Jones](https://open.spotify.com/artist/1Fz7kYXFWKM4L4Hjaq9ktx) | [Westward Bound! \(Live\)](https://open.spotify.com/album/5Bcl5tLBwZxch1KWFg1iKF) | 8:38 |
 | 46 | [Brandenburg Gate](https://open.spotify.com/track/4p71KdIiYX7KQrkXoXE32X) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [The Essential Dave Brubeck](https://open.spotify.com/album/2IaDMqrxVulBfj5Riy29xL) | 6:50 |
 | 47 | [Sid, Ol' Kid](https://open.spotify.com/track/4ZdUYMQBvQe4o5qiIVGtzI) | [Marty Paich](https://open.spotify.com/artist/69OOiGDvj0o9QQ184tqc9R) | [Take Me Along](https://open.spotify.com/album/24I15RTAgb3NtGfrTilzQI) | 5:04 |
 | 48 | [Pigalle](https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM) | [Buddy Collette](https://open.spotify.com/artist/1ZsOY6yOMW2n8M7mzKuTpR) | [Jazz Loves Paris](https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq) | 2:26 |
 | 49 | [Resonant Emotions](https://open.spotify.com/track/33JJFna9sqjq9XchUHYuaA) | [Chet Baker and Art Pepper](https://open.spotify.com/artist/57Qh2bYGjxFTo0N8qwtKaU) | [Playboys](https://open.spotify.com/album/3o9kITv0ss0JcD1rA3DzIo) | 5:44 |
 | 50 | [Willie Nillie](https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS) | [Maynard Ferguson](https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw) | [Verve Jazz Masters 52: Maynard Ferguson](https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI) | 3:05 |
 
-Snapshot ID: `MCxkMzZiZDk5ZWFhMmY2NzA3NTVjODE3NTlhMGEyY2Y4NWE0YzVmMWEx`
+Snapshot ID: `MCw3MDEwYzAxNzM4YTViMDM4Nzc0OTc3NjY5ZjhmMzZkMDljZjc1NmU1`

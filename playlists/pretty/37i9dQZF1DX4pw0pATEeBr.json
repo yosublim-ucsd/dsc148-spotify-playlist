@@ -1,12 +1,12 @@
 {
   "description": "Versos y barras de alto poder, con un takeover por Faruz Feet.",
-  "num_followers": 92088,
+  "num_followers": 92172,
   "original_name": "Ejercicio con Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMDc4OTdjMzJkNDYyNThhZjNhMGZjYjNlNmVkM2Y3NDI1MmVjZGEz",
+  "snapshot_id": "MCwxOGI5MDY3YjQyMWU0NGJmNmI1OTA1ZTAxMWUyOWM5YmUwZDU3ZGZm",
   "tracks": [
     {
       "added_at": "2023-09-08 15:37:10",
@@ -172,8 +172,8 @@
       },
       "artists": [
         {
-          "name": "Ceecyhnaa",
-          "url": "https://open.spotify.com/artist/4ENuy6xlLSfgue1ewCoBNZ"
+          "name": "Ceechynaa",
+          "url": "https://open.spotify.com/artist/0K71lFgGGmekeFSUrWaRhg"
         }
       ],
       "duration_ms": 175880,
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-09-08 15:37:10",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
-    },
-    {
-      "added_at": "2023-09-08 15:37:10",
-      "album": {
         "name": "Astronaut In The Ocean",
         "url": "https://open.spotify.com/album/7vus4Q8r5DS2Dl1JClxEsA"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 132780,
       "name": "Astronaut In The Ocean",
       "url": "https://open.spotify.com/track/3Ofmpyhv5UAQ70mENzB277"
+    },
+    {
+      "added_at": "2023-09-08 15:37:10",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
     },
     {
       "added_at": "2023-09-08 15:37:10",
@@ -635,42 +635,6 @@
     {
       "added_at": "2023-09-08 15:37:10",
       "album": {
-        "name": "The Rising Tied",
-        "url": "https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa"
-      },
-      "artists": [
-        {
-          "name": "Fort Minor",
-          "url": "https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk"
-        },
-        {
-          "name": "Styles Of Beyond",
-          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
-        }
-      ],
-      "duration_ms": 230493,
-      "name": "Remember the Name (feat. Styles of Beyond)",
-      "url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"
-    },
-    {
-      "added_at": "2023-09-08 15:37:10",
-      "album": {
-        "name": "Muerte",
-        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
-      },
-      "artists": [
-        {
-          "name": "Canserbero",
-          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
-        }
-      ],
-      "duration_ms": 318328,
-      "name": "Jerem\u00edas 17-5",
-      "url": "https://open.spotify.com/track/1nSPlJY53DG3avK6UfpDpZ"
-    },
-    {
-      "added_at": "2023-09-08 15:37:10",
-      "album": {
         "name": "Body Head Bangerz, Vol. 1",
         "url": "https://open.spotify.com/album/5VcOoSq5hMQb3bNa0sBKOe"
       },
@@ -691,6 +655,42 @@
       "duration_ms": 214400,
       "name": "Can't Be Touched (feat. Mr. Magic & Trouble)",
       "url": "https://open.spotify.com/track/3zmduBNsQ6BPDTZAkXzG5K"
+    },
+    {
+      "added_at": "2023-09-08 15:37:10",
+      "album": {
+        "name": "Muerte",
+        "url": "https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12"
+      },
+      "artists": [
+        {
+          "name": "Canserbero",
+          "url": "https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX"
+        }
+      ],
+      "duration_ms": 318328,
+      "name": "Jerem\u00edas 17-5",
+      "url": "https://open.spotify.com/track/1nSPlJY53DG3avK6UfpDpZ"
+    },
+    {
+      "added_at": "2023-09-08 15:37:10",
+      "album": {
+        "name": "The Rising Tied",
+        "url": "https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa"
+      },
+      "artists": [
+        {
+          "name": "Fort Minor",
+          "url": "https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk"
+        },
+        {
+          "name": "Styles Of Beyond",
+          "url": "https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX"
+        }
+      ],
+      "duration_ms": 230493,
+      "name": "Remember the Name (feat. Styles of Beyond)",
+      "url": "https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K"
     },
     {
       "added_at": "2023-09-08 15:37:10",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-09-08 15:37:10",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 249466,
-      "name": "P.I.M.P.",
-      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
-    },
-    {
-      "added_at": "2023-09-08 15:37:10",
-      "album": {
         "name": "DANCE CRIP",
         "url": "https://open.spotify.com/album/4SpMtimC78w3jqSXl2eeuI"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 165019,
       "name": "DANCE CRIP",
       "url": "https://open.spotify.com/track/1kjs5eR4DMzyB0gm1Z8waV"
+    },
+    {
+      "added_at": "2023-09-08 15:37:10",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 249466,
+      "name": "P.I.M.P.",
+      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
     },
     {
       "added_at": "2023-09-08 15:37:10",

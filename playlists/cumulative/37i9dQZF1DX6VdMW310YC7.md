@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,530 songs - 4 day 9 hr 22 min
+1,531 songs - 4 day 9 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1435,7 +1435,7 @@
 | [Wait](https://open.spotify.com/track/38JpoTvf4geJB16Pj7et3I) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih) | [Wait](https://open.spotify.com/album/3d5Ea4e5NS5SbiJ6eRQfn1) | 4:15 | 2022-02-04 | 2022-02-10 |
 | [Waiting](https://open.spotify.com/track/4x9nVGF0fDaffc1LkBmgNP) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A) | [Waiting](https://open.spotify.com/album/1zPy3ijCe4ykKVsq4rBdxx) | 3:48 | 2020-03-20 | 2022-04-20 |
 | [Waiting All My Life](https://open.spotify.com/track/0infcAnwAyF46VzYkXrlQi) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L) | [Waiting All My Life](https://open.spotify.com/album/2o3P5r60y47AFc2QyuRA0O) | 3:13 | 2023-09-08 |  |
-| [Waiting For The Sun](https://open.spotify.com/track/7uzFmJTvgHlDjXWeuM1t0l) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Waiting For The Sun](https://open.spotify.com/album/2QO13M8Nm7NxP2D1fjTIa4) | 3:42 | 2023-09-08 |  |
+| [Waiting For The Sun](https://open.spotify.com/track/7uzFmJTvgHlDjXWeuM1t0l) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Waiting For The Sun](https://open.spotify.com/album/2QO13M8Nm7NxP2D1fjTIa4) | 3:42 | 2023-09-08 | 2023-10-11 |
 | [Waiting for You](https://open.spotify.com/track/2L0wPdpLIZBSMmkS8RDFtw) | [Y.V.E\. 48](https://open.spotify.com/artist/5zSWGyWE5d0PYaYrtdVwOz) | [Waiting for You](https://open.spotify.com/album/3p9GXL95N0rNtU2t0bqXPS) | 2:32 | 2020-03-17 | 2021-03-06 |
 | [Wake Up \- BAILE Remix](https://open.spotify.com/track/3BCaiamID008P5wudGP5Yh) | [Sterling Grove](https://open.spotify.com/artist/1O7R4iOxefdwFUaWb7kNLJ), [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2), [BAILE](https://open.spotify.com/artist/135mViPxje2MED7hOnn2j9) | [Wake Up \(BAILE Remix\)](https://open.spotify.com/album/2lb9R2jTgHus3J1QnF3xF5) | 3:50 | 2021-06-11 | 2022-09-24 |
 | [Walking Away](https://open.spotify.com/track/6j0ao2DgHem5dpnGeHwufi) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Walking Away](https://open.spotify.com/album/7dEfqz2vpf9b77Lx4e4FkR) | 7:05 | 2020-05-18 | 2020-10-09 |
@@ -1499,6 +1499,7 @@
 | [Wish You Were Here \(feat\. Msaki\)](https://open.spotify.com/track/6tfXgZjluaSYht2GwnEw21) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Wish You Were Here \(feat\. Msaki\)](https://open.spotify.com/album/17ER4tyUvz7mziBC55UBF3) | 4:32 | 2020-05-18 | 2020-10-10 |
 | [With Me](https://open.spotify.com/track/1j52kz97UfunMcCswumapr) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [With Me](https://open.spotify.com/album/5HtAwkxnYLbg8fMXErCxx9) | 5:48 | 2020-05-18 | 2020-07-18 |
 | [With You](https://open.spotify.com/track/5xkPxBrNxPWDxO7CBDqYyJ) | [JAZ von D](https://open.spotify.com/artist/2h7mdSLRyUBIeSHhcUBgGG) | [Reflection EP](https://open.spotify.com/album/4mTfby45rGd0cIHsLFircs) | 2:42 | 2020-05-18 | 2020-07-03 |
+| [With You](https://open.spotify.com/track/4FtVOZM48CHrItbrqfn9Sd) | [Lynnic](https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT), [ItsArius](https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27), [Dinia](https://open.spotify.com/artist/12oUavIPPItdgJDNyuAlag) | [With You](https://open.spotify.com/album/1BBT9e9UssKGz49zmGAFRH) | 2:48 | 2023-09-29 |  |
 | [With You \(feat\. Quinn XCII\)](https://open.spotify.com/track/5qxLvazzinSf4Cb1N6zIhb) | [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Ashes](https://open.spotify.com/album/1aNWsfl6osnt0NO7Kubknx) | 3:06 | 2020-05-18 | 2020-07-03 |
 | [With You \- LöKii Remix](https://open.spotify.com/track/2aFAmDBycyEnj3lcS95JMe) | [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf) | [With You \- The Remixes](https://open.spotify.com/album/5cHgBxHHpJLjMWGBBiJEVJ) | 3:51 | 2020-03-17 | 2020-07-03 |
 | [Woman](https://open.spotify.com/track/477nsrJgEucX7WEdxc149q) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Woman](https://open.spotify.com/album/1xV4Z9H7ZUvnrf526Udsw2) | 10:27 | 2023-04-21 |  |

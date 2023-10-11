@@ -1,12 +1,12 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 43742,
+  "num_followers": 43784,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjODBhMjIwNmJhMjY1ZWI5YzJmYzAwNWY5ZmY3MDk4OTI2NWNhYjZi",
+  "snapshot_id": "MCxmOTJkN2Q2ZTYyMWIyMTQ4ZmE5Y2NmZmY5NGUzODIyYjBjMDE3YmM1",
   "tracks": [
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Gravity's Our Enemy",
+        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
+      },
+      "artists": [
+        {
+          "name": "Cadillac Sky",
+          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
+        }
+      ],
+      "duration_ms": 251360,
+      "name": "The Majestic Swan - Instrumental",
+      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Barnimal",
         "url": "https://open.spotify.com/album/4lkmYqnCy8FqImQMTnlO6o"
       },
@@ -1279,18 +1295,18 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Gravity's Our Enemy",
-        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
+        "name": "Fiddler's Dream",
+        "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
       },
       "artists": [
         {
-          "name": "Cadillac Sky",
-          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
+          "name": "Michael Cleveland",
+          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
         }
       ],
-      "duration_ms": 251360,
-      "name": "The Majestic Swan - Instrumental",
-      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
+      "duration_ms": 217946,
+      "name": "Fiddler's Dream",
+      "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1311,22 +1327,6 @@
       "duration_ms": 174143,
       "name": "Waynesboro - Live",
       "url": "https://open.spotify.com/track/3wacduUnfHODRq6QXVcBQe"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Fiddler's Dream",
-        "url": "https://open.spotify.com/album/5uxzNJhQaIvtl37aeSRJNG"
-      },
-      "artists": [
-        {
-          "name": "Michael Cleveland",
-          "url": "https://open.spotify.com/artist/1l5b0hxCDTDF6cXYa3h5wk"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "Fiddler's Dream",
-      "url": "https://open.spotify.com/track/7qOf0MZAFj4WP0PQVOpVeL"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Squirrelville",
-        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 281386,
-      "name": "Squirrelville",
-      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Best Of The Vanguard Years",
         "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 174093,
       "name": "Wolf Moon",
       "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Squirrelville",
+        "url": "https://open.spotify.com/album/7eCzxWAKlmax5GPYVxefsh"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 281386,
+      "name": "Squirrelville",
+      "url": "https://open.spotify.com/track/02AwMmSFYM1yigumqelwsv"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Telluride Sessions",
-        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
-      },
-      "artists": [
-        {
-          "name": "Strength In Numbers",
-          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
-        }
-      ],
-      "duration_ms": 305160,
-      "name": "Blue Men Of The Sahara",
-      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Noam Pikelny Plays Kenny Baker Plays Bill Monroe",
         "url": "https://open.spotify.com/album/0KjAr1ZXTIKoxcto5e51jP"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 221706,
       "name": "Stoney Lonesome",
       "url": "https://open.spotify.com/track/6wmLGKJaPON9dZW0o4QuuG"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Telluride Sessions",
+        "url": "https://open.spotify.com/album/280qrGpx4WYkwsL7lMKarM"
+      },
+      "artists": [
+        {
+          "name": "Strength In Numbers",
+          "url": "https://open.spotify.com/artist/7JrYMXoj7ke3GqLEivVgYJ"
+        }
+      ],
+      "duration_ms": 305160,
+      "name": "Blue Men Of The Sahara",
+      "url": "https://open.spotify.com/track/47SuIHxH6MpjCUH2Drb4Ct"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "Decembering",
+        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
+      },
+      "artists": [
+        {
+          "name": "Tony Furtado",
+          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Icebound",
+      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "The Gasoline Brothers",
         "url": "https://open.spotify.com/album/19w0zikbLZgW8v7BKjyeTX"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 196032,
       "name": "Old Joe Clark",
       "url": "https://open.spotify.com/track/6p54JGVQTiP2oT8UBnOW8L"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Decembering",
-        "url": "https://open.spotify.com/album/7jZAxQsEbJim05XnecJ45E"
-      },
-      "artists": [
-        {
-          "name": "Tony Furtado",
-          "url": "https://open.spotify.com/artist/5Q6pd3dxIXhCNap8bJpWvt"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Icebound",
-      "url": "https://open.spotify.com/track/1aE1jtShWdjd5XZfaXnOyF"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
+        "name": "The Song of the Banjo",
+        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "Airish",
+      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
         "name": "Banjophony",
         "url": "https://open.spotify.com/album/2tAEsQxW8IiEhHct29W3RW"
       },
@@ -1727,22 +1743,6 @@
     {
       "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "The Song of the Banjo",
-        "url": "https://open.spotify.com/album/0DZIOJ6PXVnNQANiA7VJaJ"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 257640,
-      "name": "Airish",
-      "url": "https://open.spotify.com/track/5EKdXtNDjqg03nXf8H5IUr"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
         "name": "Eight String Swing",
         "url": "https://open.spotify.com/album/3fPI8UL5aLLva5uvdK8OB6"
       },
@@ -1755,6 +1755,22 @@
       "duration_ms": 212533,
       "name": "Bluegrass Boogie",
       "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
+    },
+    {
+      "added_at": "2023-09-22 04:00:00",
+      "album": {
+        "name": "Into My Own",
+        "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
+      },
+      "artists": [
+        {
+          "name": "Bryan Sutton",
+          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
+        }
+      ],
+      "duration_ms": 306059,
+      "name": "Overton Waltz",
+      "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1791,22 +1807,6 @@
       "duration_ms": 186333,
       "name": "Clinch Mountain Backstep",
       "url": "https://open.spotify.com/track/2cuiVudXWJarK8wGVWCOVQ"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Into My Own",
-        "url": "https://open.spotify.com/album/6oWQ9Jd7snovTm6B0IdEOK"
-      },
-      "artists": [
-        {
-          "name": "Bryan Sutton",
-          "url": "https://open.spotify.com/artist/1LFHqGsLJjUP2jqIAznlLm"
-        }
-      ],
-      "duration_ms": 306059,
-      "name": "Overton Waltz",
-      "url": "https://open.spotify.com/track/05lA78CxLBlUOFMsoSucyO"
     },
     {
       "added_at": "2023-09-22 04:00:00",

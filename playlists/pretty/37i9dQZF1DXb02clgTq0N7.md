@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 
 > Y que retumbe la bandona con puros corridos de 24k\. La Arrolladora Banda El Limón en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,615 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,710 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 39 | [Quiero Charlar Con La Muerte](https://open.spotify.com/track/7rkHACbUWdirRZ3lrHCxET) | [Valentín Elizalde](https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA) | [Soy Así](https://open.spotify.com/album/4SrvbBpwiAJf09kK7EvQsk) | 3:04 |
 | 40 | [En la Sierra y la Ciudad \(La China\)](https://open.spotify.com/track/4d87IagHd2tUKqPup408jJ) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM) | [Disfruté Engañarte](https://open.spotify.com/album/2GRDNB7h1xv11f6caN3rBr) | 3:24 |
 | 41 | [Mi Vicio Más Grande](https://open.spotify.com/track/3YrTZUat5cgeVhrxEZvG1d) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Mi Vicio Más Grande](https://open.spotify.com/album/4Tl5QOkNgX6INDWg6mMfZB) | 2:17 |
-| 42 | [Aqui Ando En El Caloron \- En Vivo](https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Aqui Ando En El Caloron \(En Vivo\)](https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn) | 3:52 |
-| 43 | [Ruleteando el Mezcal](https://open.spotify.com/track/38FE7ifcC6GF1IKUJkEVyh) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Caricias Vendidas](https://open.spotify.com/album/4UsRx3AQyi7zl0la69F0K7) | 3:11 |
+| 42 | [Ruleteando el Mezcal](https://open.spotify.com/track/38FE7ifcC6GF1IKUJkEVyh) | [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Caricias Vendidas](https://open.spotify.com/album/4UsRx3AQyi7zl0la69F0K7) | 3:11 |
+| 43 | [Aqui Ando En El Caloron \- En Vivo](https://open.spotify.com/track/6iWEkJ9tItZaAj4ezqswrl) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0), [Grupo Descarga Del 3030](https://open.spotify.com/artist/7b5a0FZafkLHB56YkKZHAL) | [Aqui Ando En El Caloron \(En Vivo\)](https://open.spotify.com/album/58YRNZZq0vxANqr6g0DBjn) | 3:52 |
 | 44 | [Lo Que Les Falta](https://open.spotify.com/track/4my9onQE9Z2IvuH7V13WSM) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu) | [Lo Que Les Falta](https://open.spotify.com/album/7uuomonKZYYmpq0vM59aDP) | 2:14 |
 | 45 | [Bayo 17](https://open.spotify.com/track/7Kf9dL06sJKITTA9tYj0hM) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Cosas Del Diablo](https://open.spotify.com/album/0S58LvMQHbKuTbEcPcnrYo) | 2:41 |
 | 46 | [El Sinaloense y el Kora](https://open.spotify.com/track/2zmsNHtqzzYhLdHri1cKry) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 2:27 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb02clgTq0N7.md) - [plain]
 | 74 | [Don Dinero](https://open.spotify.com/track/5C1fs86eZF8fC32nphXuD1) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Money](https://open.spotify.com/album/2Jj4mjzEDaXp9X3AHpo5Gu) | 2:51 |
 | 75 | [RDSD \(En Vivo\)](https://open.spotify.com/track/71zZZw8sUwqL7EAS1CcwQS) | [Aldo Trujillo](https://open.spotify.com/artist/0l6WgSoqo4UqeuXFKnTQRu), [Banda La Fantastica](https://open.spotify.com/artist/0blK492eLddsqmXcwdBcye) | [RDSD \(En Vivo\)](https://open.spotify.com/album/5GnUydkVPaQHMBjVOcxnHH) | 3:05 |
 
-Snapshot ID: `MCwyMTdhOGYwZjgyN2NkOWZmOWM2MzZlZWE2MGI0OTBkZGE3N2M1NzNl`
+Snapshot ID: `MCwxNjcxZTRlZTA0MzE4YjQ2MWE4YTJjZDQ5MDlhNGI3NWU3NDU3YWMz`

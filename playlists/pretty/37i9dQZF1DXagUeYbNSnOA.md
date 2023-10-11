@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 
 > The best new music by independent artists and labels, featuring Jossman\. Updates every Inzul, Laura Pérez.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,550 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,672 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 18 | [Los Pies](https://open.spotify.com/track/0YY4OOYHpow0Xd8pnigi3P) | [Melov](https://open.spotify.com/artist/20gixjtBBVMyxYSnMRCV22), [Fancy Nancy](https://open.spotify.com/artist/0Cu9wt4SQgDIhrL5EvlGSO) | [Los Pies](https://open.spotify.com/album/6SetzynPD4KDzFopUTZ1yq) | 4:04 |
 | 19 | [ESO VA](https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [ESO VA](https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w) | 2:46 |
 | 20 | [Lelekí](https://open.spotify.com/track/4FrDdrcoOjIyv5khs5f0ob) | [Jossman](https://open.spotify.com/artist/4nei2uq1QH20K0WitlHqvH), [Bomby](https://open.spotify.com/artist/2U3Y8qTTqVAA7uoksbqTDh) | [Lelekí](https://open.spotify.com/album/4fwunG8NJxy1jTqSU4yTZq) | 2:50 |
-| 21 | [En el Medio](https://open.spotify.com/track/2fhtJavu9ij04HDcQkQiPu) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [En el Medio](https://open.spotify.com/album/2BA9W3J2WB8y4D0n5wXOoR) | 2:48 |
-| 22 | [instinto](https://open.spotify.com/track/5XmqvDNFkNDXk0qo2kM7KT) | [Lina Sanabria](https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV) | [instinto](https://open.spotify.com/album/29iYgpL2V7yTMfZSArgqT0) | 2:10 |
+| 21 | [instinto](https://open.spotify.com/track/5XmqvDNFkNDXk0qo2kM7KT) | [Lina Sanabria](https://open.spotify.com/artist/4NNyMWpP0BxL3RL0G60hmV) | [instinto](https://open.spotify.com/album/29iYgpL2V7yTMfZSArgqT0) | 2:10 |
+| 22 | [En el Medio](https://open.spotify.com/track/2fhtJavu9ij04HDcQkQiPu) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [En el Medio](https://open.spotify.com/album/2BA9W3J2WB8y4D0n5wXOoR) | 2:48 |
 | 23 | [bololo](https://open.spotify.com/track/1TSOc20wZ3hNZQaj1qH6Bg) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [bololo](https://open.spotify.com/album/3jEztz5q2762faS73uQ0HE) | 2:42 |
 | 24 | [Offline](https://open.spotify.com/track/4STNoDYDV4JzJcaL6ZocSU) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt) | [Offline](https://open.spotify.com/album/7cLPoW0K3uRzKQyFlclq3w) | 2:50 |
 | 25 | [Lejos](https://open.spotify.com/track/27ACuxbiIuu7BUW1av32i9) | [Cometa Sucre](https://open.spotify.com/artist/3kFFYxvTZaBCm0q04WPlqK) | [El Eco Eterno](https://open.spotify.com/album/5dIDiTOK58RdCmNc5DwlO5) | 3:07 |
@@ -40,11 +40,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 30 | [Llegará](https://open.spotify.com/track/6WUDIML61rMTnuxRlNVcJL) | [Ana Naranja](https://open.spotify.com/artist/2nTGMPHzQvrJKH2j1LSQiq), [Grupo Enkelé](https://open.spotify.com/artist/0e7FfMLNwJDYhLwRnvxpRm) | [Llegará](https://open.spotify.com/album/1tbSyBL4rjT73sQwLfDNpi) | 3:53 |
 | 31 | [Paké \- Bonus Track](https://open.spotify.com/track/7GvLms1X8R24dewdrYcKTM) | [Lola Cobach](https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu) | [Camino Dorado](https://open.spotify.com/album/1jESRLrDw77dVGvIVVeKQl) | 3:53 |
 | 32 | [Animales](https://open.spotify.com/track/46qmXhh1swc3Nu2t03xaGf) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V), [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [Animales](https://open.spotify.com/album/1TRa9aFlvjPxXDeB87XGwH) | 3:03 |
-| 33 | [No Se...](https://open.spotify.com/track/5YulPY5Bo6mVwWcm5YP8hT) | [Brokeboi Rubio](https://open.spotify.com/artist/0miIjYpG7Moy8wqvGhHrzX) | [No Se...](https://open.spotify.com/album/0K0Yhix3jeUxb9BgMEuo9C) | 2:09 |
-| 34 | [La Fórmula Secreta](https://open.spotify.com/track/5t1JVeRtaLtNHcGkfWywho) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:13 |
-| 35 | [si cuenta la verdad \(Spectre's cut\) \- Bonus track](https://open.spotify.com/track/46zJYP7yCAJa80N9Ozskb7) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [PLUG.](https://open.spotify.com/album/1v7w036xV4mOd3h7lh5psS) | 2:00 |
-| 36 | [No Me Malinterprete](https://open.spotify.com/track/2PvFOyINI7gvC3JMzz7CZb) | [Lopsis](https://open.spotify.com/artist/7a03TrYmYowGh36mXBsLGD) | [No Me Malinterprete](https://open.spotify.com/album/3PXBtGrHe5UmVJOYIGbCij) | 5:17 |
-| 37 | [QUE ME QUEMAN](https://open.spotify.com/track/625AAfloi6X989wyasCOam) | [Joaquinx Merino](https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Juan Pedro Dolce](https://open.spotify.com/artist/4G9yBOjF9Av2OOctueG87T) | [FIESTA FRÁGIL](https://open.spotify.com/album/4uMffWd9nv2y9u7COhB7v3) | 2:54 |
+| 33 | [La Fórmula Secreta](https://open.spotify.com/track/5t1JVeRtaLtNHcGkfWywho) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3) | [volumen dos](https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz) | 3:13 |
+| 34 | [No Se...](https://open.spotify.com/track/5YulPY5Bo6mVwWcm5YP8hT) | [Brokeboi Rubio](https://open.spotify.com/artist/0miIjYpG7Moy8wqvGhHrzX) | [No Se...](https://open.spotify.com/album/0K0Yhix3jeUxb9BgMEuo9C) | 2:09 |
+| 35 | [QUE ME QUEMAN](https://open.spotify.com/track/625AAfloi6X989wyasCOam) | [Joaquinx Merino](https://open.spotify.com/artist/7zlS8znTSL2M26Yo2Y1Kh8), [Pedro Pastor](https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP), [Juan Pedro Dolce](https://open.spotify.com/artist/4G9yBOjF9Av2OOctueG87T) | [FIESTA FRÁGIL](https://open.spotify.com/album/4uMffWd9nv2y9u7COhB7v3) | 2:54 |
+| 36 | [si cuenta la verdad \(Spectre's cut\) \- Bonus track](https://open.spotify.com/track/46zJYP7yCAJa80N9Ozskb7) | [day2k](https://open.spotify.com/artist/6pthLI3SnpAzmSsdky1iy3) | [PLUG.](https://open.spotify.com/album/1v7w036xV4mOd3h7lh5psS) | 2:00 |
+| 37 | [No Me Malinterprete](https://open.spotify.com/track/2PvFOyINI7gvC3JMzz7CZb) | [Lopsis](https://open.spotify.com/artist/7a03TrYmYowGh36mXBsLGD) | [No Me Malinterprete](https://open.spotify.com/album/3PXBtGrHe5UmVJOYIGbCij) | 5:17 |
 | 38 | [Me Gusta Tu Estilo](https://open.spotify.com/track/4ykGAXZYcIx4RgcpEpPPNt) | [Mat Alba](https://open.spotify.com/artist/6PiA4y2V6feIVf3KLdGDQK), [FEMI](https://open.spotify.com/artist/0Zq7qMNo2UXDat3Tzf0x2s) | [Chai](https://open.spotify.com/album/48XoVJUcTntwPsrZDEfvsn) | 3:17 |
 | 39 | [TUMOR](https://open.spotify.com/track/7i5PZTlLGyhE1nnhIJivqj) | [Bella Álvarez](https://open.spotify.com/artist/6dqfuonDrw9UdawWJIAGjs) | [TUMOR](https://open.spotify.com/album/2YyO3YBY0uL4a8xvn73MVU) | 3:46 |
 | 40 | [Nenu](https://open.spotify.com/track/3gZeUWq9SsPO090ti2As1A) | [Higuita en Chanclas](https://open.spotify.com/artist/6KxEb5gHvWvxrplWIe6rcO) | [Nenu](https://open.spotify.com/album/2QOL5sA8SUCrzLVuTZbYgK) | 4:13 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXagUeYbNSnOA.md) - [plain]
 | 43 | [Quedo Estúpido](https://open.spotify.com/track/29fqd6Gas1oxN5GSqT8MQO) | [El Chango y Las Flores](https://open.spotify.com/artist/1DS4gplGgwj9Or2D8QqVs9) | [Mi Jardín](https://open.spotify.com/album/5VhObvuYrg44FMXUVwNtGz) | 4:06 |
 | 44 | [No Me Digan Nada](https://open.spotify.com/track/5BIyMZkZIuY5kOzqMzG1Lv) | [Ruddi Nizz](https://open.spotify.com/artist/1UDkP5JtJNEytAuWfHlHVD) | [No Me Digan Nada](https://open.spotify.com/album/7r1ip5X88YkquPK1i8mUCG) | 2:36 |
 | 45 | [Vamos a Empezar de Nuevo](https://open.spotify.com/track/5h9rXUrVA8upCkYeFkbS1J) | [Lentes](https://open.spotify.com/artist/6HicgMeyULWP2SbQZY7dJj) | [Grandes Éxitos](https://open.spotify.com/album/6v0D5V30LLNYvEYjxcCGKL) | 3:29 |
-| 46 | [Yanet](https://open.spotify.com/track/2Qmgfx8trQsR3On3sC7XlW) | [Nixa](https://open.spotify.com/artist/4YcVhE86HFvuC0hhVjB8Qc) | [Yanet](https://open.spotify.com/album/3qwNhqd6QszMjO6SwuAoJ7) | 4:03 |
-| 47 | [Carmesí](https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL) | [MARTE](https://open.spotify.com/artist/18ZiM1zKj24fJxeFM4UDlg) | [Carmesí](https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz) | 4:14 |
+| 46 | [Carmesí](https://open.spotify.com/track/1LdKISORlAZuiuoMxW91FL) | [MARTE](https://open.spotify.com/artist/18ZiM1zKj24fJxeFM4UDlg) | [Carmesí](https://open.spotify.com/album/79Lk7RVCEpU0PJXzp5A0Iz) | 4:14 |
+| 47 | [Yanet](https://open.spotify.com/track/2Qmgfx8trQsR3On3sC7XlW) | [Nixa](https://open.spotify.com/artist/4YcVhE86HFvuC0hhVjB8Qc) | [Yanet](https://open.spotify.com/album/3qwNhqd6QszMjO6SwuAoJ7) | 4:03 |
 | 48 | [En La Mía](https://open.spotify.com/track/2rpf5SUsJ1nZNlon3M3xNd) | [Spuck GC](https://open.spotify.com/artist/2qQmATpe7BxfEsVtYtJQI1) | [En La Mía](https://open.spotify.com/album/3WgNcO2hnsQASiaxKtCr8s) | 2:16 |
 | 49 | [Tan solo tú](https://open.spotify.com/track/0zDhVPAAa0V21MewJjRkQv) | [Doctor Destino](https://open.spotify.com/artist/5urer15JPbCELf17LVia7w), [Mac xyx](https://open.spotify.com/artist/1Avj2E3QoYRHzsHqWgNrgz) | [Tan solo tú](https://open.spotify.com/album/011PoDcJWr7so3AhX6Bzyz) | 4:06 |
 | 50 | [Vacaciones del delirio](https://open.spotify.com/track/5wH0NC4iUO8XB3cSRUhLBB) | [01:am](https://open.spotify.com/artist/33IW152RCXRPRH5ZFpi8eM) | [ODISEA](https://open.spotify.com/album/19CApgP42iam502cyN0rhm) | 2:53 |
 
-Snapshot ID: `MCw2YTNlZDgwZDllNmM0MzQ2Mzk1MGMwMjhkZGM2NTViN2E2ZGIzYzQ0`
+Snapshot ID: `MCwyYTM1MGI1MWUzY2JiNjBkZjZkMWJlNWVmMjJlZWNiY2VlMDU0MzM1`

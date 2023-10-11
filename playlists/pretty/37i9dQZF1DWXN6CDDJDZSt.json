@@ -1,12 +1,12 @@
 {
   "description": "An introduction to Giacomo Puccini, one of the great Italian opera composers.",
-  "num_followers": 64798,
+  "num_followers": 64830,
   "original_name": "This Is Puccini",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NGRjN2FhZDMwNzBkNTkxZGExMzRkZWZiMTFhOTQyZjVjMjg4YzBh",
+  "snapshot_id": "MCwzNjhjODAyMDljZTYwYjk3MTI1ODU4NWM5Y2VlZjc5ZGQyNDUxYjgz",
   "tracks": [
     {
       "added_at": "2022-06-24 16:28:17",
@@ -2103,6 +2103,34 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
+        "name": "Italian Soprano Arias",
+        "url": "https://open.spotify.com/album/3a7XuZ0RvAza2ulFGa5Fmp"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Luigia Borsi",
+          "url": "https://open.spotify.com/artist/60mXw5jVbcjtZEt0tY0YVg"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Yves Abel",
+          "url": "https://open.spotify.com/artist/6sHKXenhTPlOtxNsGdfTdq"
+        }
+      ],
+      "duration_ms": 281373,
+      "name": "Suor Angelica: Senza mamma",
+      "url": "https://open.spotify.com/track/5WRRJxRYvByQY6QDB1g11f"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
         "name": "Puccini Discoveries",
         "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
       },
@@ -2151,34 +2179,6 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Italian Soprano Arias",
-        "url": "https://open.spotify.com/album/3a7XuZ0RvAza2ulFGa5Fmp"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Luigia Borsi",
-          "url": "https://open.spotify.com/artist/60mXw5jVbcjtZEt0tY0YVg"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Yves Abel",
-          "url": "https://open.spotify.com/artist/6sHKXenhTPlOtxNsGdfTdq"
-        }
-      ],
-      "duration_ms": 281373,
-      "name": "Suor Angelica: Senza mamma",
-      "url": "https://open.spotify.com/track/5WRRJxRYvByQY6QDB1g11f"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
         "name": "Puccini: Madama Butterfly - Highlights",
         "url": "https://open.spotify.com/album/48SeSKohhx57jPcNiWrsTc"
       },
@@ -2215,6 +2215,30 @@
       "duration_ms": 689693,
       "name": "Madama Butterfly / Act 1: Dovunque al mondo",
       "url": "https://open.spotify.com/track/6hz9ZzzxZWqQE0Ecy5K4WX"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
+        "name": "Puccini Discoveries",
+        "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Orchestra Sinfonica di Milano Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/5skyG64028a3FaeFYvT3mE"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 105893,
+      "name": "Scossa Elettrica (Marcia Brillante)",
+      "url": "https://open.spotify.com/track/1O51hdkmFW9FQlCPOW5iYP"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -2287,30 +2311,6 @@
       "duration_ms": 326026,
       "name": "Tosca: Act I: Ah, quegli occhi! \u2026 (Tosca, Cavaradossi)",
       "url": "https://open.spotify.com/track/0QT0RAuMtLrvzv0gMFUaft"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
-        "name": "Puccini Discoveries",
-        "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Orchestra Sinfonica di Milano Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/5skyG64028a3FaeFYvT3mE"
-        },
-        {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
-        }
-      ],
-      "duration_ms": 105893,
-      "name": "Scossa Elettrica (Marcia Brillante)",
-      "url": "https://open.spotify.com/track/1O51hdkmFW9FQlCPOW5iYP"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -2667,6 +2667,30 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
+        "name": "Puccini Discoveries",
+        "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Orchestra Sinfonica di Milano Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/5skyG64028a3FaeFYvT3mE"
+        },
+        {
+          "name": "Riccardo Chailly",
+          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+        }
+      ],
+      "duration_ms": 267546,
+      "name": "Manon Lescaut - Ed. Pietro Spada / Act 2: Preludio",
+      "url": "https://open.spotify.com/track/2loU2N7CbN42jU131lbx54"
+    },
+    {
+      "added_at": "2022-06-24 16:28:17",
+      "album": {
         "name": "Puccini: La Boh\u00e8me",
         "url": "https://open.spotify.com/album/0M8RQ2Nw7DZVTHaebMAhjD"
       },
@@ -2703,8 +2727,8 @@
     {
       "added_at": "2022-06-24 16:28:17",
       "album": {
-        "name": "Puccini Discoveries",
-        "url": "https://open.spotify.com/album/1RhH0ZprLWAQOPF4dOFK2F"
+        "name": "Puccini: Madama Butterfly",
+        "url": "https://open.spotify.com/album/4liHyYb59hbDPeCjEVxuPc"
       },
       "artists": [
         {
@@ -2712,17 +2736,25 @@
           "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
         },
         {
-          "name": "Orchestra Sinfonica di Milano Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/5skyG64028a3FaeFYvT3mE"
+          "name": "Sir John Barbirolli",
+          "url": "https://open.spotify.com/artist/5X3hmAle6klG0VvstAnvyD"
         },
         {
-          "name": "Riccardo Chailly",
-          "url": "https://open.spotify.com/artist/4Kjr1MPMUfuH3QKXtAljNy"
+          "name": "Carlo Bergonzi",
+          "url": "https://open.spotify.com/artist/3ALYsjti5tptGpfAgEYweV"
+        },
+        {
+          "name": "Rolando Panerai",
+          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
+        },
+        {
+          "name": "Orchestra Del Teatro Dell'Opera Di Roma",
+          "url": "https://open.spotify.com/artist/05pJB6sDGej7vpC9V6bjV8"
         }
       ],
-      "duration_ms": 267546,
-      "name": "Manon Lescaut - Ed. Pietro Spada / Act 2: Preludio",
-      "url": "https://open.spotify.com/track/2loU2N7CbN42jU131lbx54"
+      "duration_ms": 221826,
+      "name": "Puccini: Madama Butterfly, Act 1: \"Quale smania vi prende?\" (Sharpless, Pinkerton)",
+      "url": "https://open.spotify.com/track/7kCu9dBUKmR1GPwYXbj3UZ"
     },
     {
       "added_at": "2022-06-24 16:28:17",
@@ -2755,38 +2787,6 @@
       "duration_ms": 253173,
       "name": "La Boh\u00e8me / Act 1: Non sono in vena! - Si sente meglio",
       "url": "https://open.spotify.com/track/0aR79eKu3e0jFmJFH94wRq"
-    },
-    {
-      "added_at": "2022-06-24 16:28:17",
-      "album": {
-        "name": "Puccini: Madama Butterfly",
-        "url": "https://open.spotify.com/album/4liHyYb59hbDPeCjEVxuPc"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Sir John Barbirolli",
-          "url": "https://open.spotify.com/artist/5X3hmAle6klG0VvstAnvyD"
-        },
-        {
-          "name": "Carlo Bergonzi",
-          "url": "https://open.spotify.com/artist/3ALYsjti5tptGpfAgEYweV"
-        },
-        {
-          "name": "Rolando Panerai",
-          "url": "https://open.spotify.com/artist/5HZ0WzJwZa38S1adyyeVrY"
-        },
-        {
-          "name": "Orchestra Del Teatro Dell'Opera Di Roma",
-          "url": "https://open.spotify.com/artist/05pJB6sDGej7vpC9V6bjV8"
-        }
-      ],
-      "duration_ms": 221826,
-      "name": "Puccini: Madama Butterfly, Act 1: \"Quale smania vi prende?\" (Sharpless, Pinkerton)",
-      "url": "https://open.spotify.com/track/7kCu9dBUKmR1GPwYXbj3UZ"
     },
     {
       "added_at": "2022-06-24 16:28:17",

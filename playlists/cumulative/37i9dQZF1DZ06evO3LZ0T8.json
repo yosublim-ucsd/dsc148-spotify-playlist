@@ -777,6 +777,28 @@
     },
     {
       "album": {
+        "name": "Unexpected",
+        "url": "https://open.spotify.com/album/0urXrwEoImhImR2E88h9q3"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "NEIV",
+          "url": "https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174321,
+      "name": "Unexpected",
+      "url": "https://open.spotify.com/track/6jb6JbRfw2USnHQ0cWVHg8"
+    },
+    {
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/1sDfCWZzggw6l015h5agWf"
       },

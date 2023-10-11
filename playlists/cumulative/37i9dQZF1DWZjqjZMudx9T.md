@@ -2,7 +2,7 @@
 
 ### [MANSIÓN REGGAETÓN](https://open.spotify.com/playlist/37i9dQZF1DWZjqjZMudx9T)
 
-> De la CALLE a la CIMA con EL FERXXO.
+> De la CALLE a la CIMA.
 
 287 songs - 16 hr 16 min
 

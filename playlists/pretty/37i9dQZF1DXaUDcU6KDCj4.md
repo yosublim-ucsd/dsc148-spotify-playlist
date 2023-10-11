@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Sufjan Stevens
 
-[Spotify](https://open.spotify.com/user/spotify) - 797,628 likes - 151 songs - 9 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 797,373 likes - 151 songs - 9 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 150 | [Big In The World](https://open.spotify.com/track/3Chjp9g7SkVVqAQ25jQRl2) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Big In The World](https://open.spotify.com/album/2R8lG3iFzp3lqKdLNFJsI9) | 4:28 |
 | 151 | [Yellow Roses](https://open.spotify.com/track/1a5MsyICJgcT9z9bcUIOVV) | [Ilsey](https://open.spotify.com/artist/2ZKzqJz3pPfWKVRgz9b39j) | [Yellow Roses](https://open.spotify.com/album/3g4mP7ZujWwIdhOkDarYkN) | 3:46 |
 
-Snapshot ID: `MCw4OTNjZDY0MDMxY2NjNDhlYzFlNmE4Yjk4MDU5ZjA1OTkxMjA3ZWRm`
+Snapshot ID: `MCxkMWYxNGFiNjYxOWE0MTQ2NDAyN2RmMDNhNGMxODM1MTI3NzE3NTll`

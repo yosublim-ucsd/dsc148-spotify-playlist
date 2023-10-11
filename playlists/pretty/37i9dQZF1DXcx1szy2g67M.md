@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 
 > Nog even nagenieten van de zomer 2023!
 
-[Spotify](https://open.spotify.com/user/spotify) - 545,729 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 545,698 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 47 | [Summertime Friends](https://open.spotify.com/track/7JLzv38qr5GxXYqQfuQJP9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [Summertime Friends](https://open.spotify.com/album/4Fskvi7B1rmq52xIx9zTsV) | 2:16 |
 | 48 | [Dive](https://open.spotify.com/track/0CVXJyYIQPnZE2kAHdx2DP) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Dive](https://open.spotify.com/album/4kdsVtA4bh3j0E2H0rdUTI) | 2:42 |
 | 49 | [SI TE LLAMO](https://open.spotify.com/track/1BGZGxgMWlrTKKvdTYsB3s) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [SI TE LLAMO](https://open.spotify.com/album/1KRzEnTp6irxrQlooxTrQd) | 3:27 |
-| 50 | [0800 HEAVEN](https://open.spotify.com/track/4YUgS4PGLSBI6sbKUxaD3D) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/40izf85UJ64znlhMKw2a6r) | 2:39 |
+| 50 | [0800 HEAVEN](https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN](https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv) | 2:39 |
 | 51 | [vampire](https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:39 |
 | 52 | [Tell Me More](https://open.spotify.com/track/1jBN9OHMe8Fi39mazoXHvS) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tell Me More](https://open.spotify.com/album/2l7I3NR8pYbyDaTdwjYkMU) | 3:23 |
 | 53 | [Ray Of Solar](https://open.spotify.com/track/5Y2n6pW4Vqr4Mzkd9V4Uk8) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs) | [Ray Of Solar](https://open.spotify.com/album/3qoGM4yHcw91XeCA6bC7Pb) | 4:01 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcx1szy2g67M.md) - [plain]
 | 89 | [People Help the People](https://open.spotify.com/track/3PuM4Odj9DllsnXW617K12) | [Madism](https://open.spotify.com/artist/5UUdxfBMwm0hLlLgnZtBFv), [Jaden Bojsen](https://open.spotify.com/artist/1eUSEIGd3eCEUOeLFgJACg), [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [People Help the People](https://open.spotify.com/album/4ybU5JHAuP4zkJ2PQ93S9k) | 2:37 |
 | 90 | [Curtains](https://open.spotify.com/track/6ZZf5a8oiInHDkBe9zXfLP) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [\- \(Deluxe\)](https://open.spotify.com/album/2WFFcvzM0CgLaSq4MSkyZk) | 3:44 |
 
-Snapshot ID: `MCxiYWNmODZjZDNlODQ0NjZjNTY1MThjMGMzNmQwODRlMTVjMzM3YWJk`
+Snapshot ID: `MCw1NTM0YTc2ODg3ZDg5ZGZkNDQwODY2ZWM1ZmFkMzdiMmFhMTIxZmFk`

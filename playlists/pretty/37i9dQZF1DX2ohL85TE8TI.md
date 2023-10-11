@@ -2,13 +2,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 
 ### [Korean OSTs](https://open.spotify.com/playlist/37i9dQZF1DX2ohL85TE8TI)
 
-> Hot & new K\-Drama OSTs are here! \(Cover: My Lovely Boxer\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 순정복서\)
+> Hot & new K\-Drama OSTs are here! \(Cover: BALLERINA\(발레리나\)\) \(인기 있는 화제의 OST곡들을 즐겨보세요!\) \(커버: 순정복서\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,753 likes - 118 songs - 7 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,542,084 likes - 118 songs - 7 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [BLOOD ON MY HANDS \(Feat\. Paul Blanco & DeVita\)](https://open.spotify.com/track/2tWlrQ5VAwVcVmTdxeqa5J) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Ballerina \(Music from The Netflix Series\)](https://open.spotify.com/album/11HqjJX3c1LsSrCmUUBjI5) | 3:31 |
+| 1 | [BLOOD ON MY HANDS \(Feat\. Paul Blanco & DeVita\)](https://open.spotify.com/track/2tWlrQ5VAwVcVmTdxeqa5J) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Ballerina \(Music from The Netflix Film\)](https://open.spotify.com/album/11HqjJX3c1LsSrCmUUBjI5) | 3:31 |
 | 2 | [If I \(You & Me & Me X 2NB\)](https://open.spotify.com/track/2uqtzE7UIjytpNwWnn9X85) | [2NB](https://open.spotify.com/artist/01n1Lj2lmdteXD8qFPqhsL) | [If I \(You & Me & Me X 2NB\)](https://open.spotify.com/album/5p7p0KqC8c7oFniCIPwNlh) | 4:12 |
 | 3 | [SUPERPOWERS](https://open.spotify.com/track/2T0cn0hvGrG8vqqB8sK4zX) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Strong Girl Nam\-soon \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1atx6ADNPFNf3PKvBiSa6l) | 2:55 |
 | 4 | [We Love Each Other](https://open.spotify.com/track/5rs94R9T7hFEziBB4sQj2G) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/0k6eU1vKSrnhHJRTTCOsw7) | 3:46 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ohL85TE8TI.md) - [plain]
 | 117 | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/track/5Q4TkZMBO5LKcI7wqbla8V) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln), [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [Still Our Love Continue \(My love X KYUHYUN, Jeong Eun Ji\)](https://open.spotify.com/album/2lZHUTDqiVgw0Dk8eXWn9Z) | 4:20 |
 | 118 | [Like You Was To Me](https://open.spotify.com/track/4zxZIysVIVn0vEg3MvrJsD) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [My Perfect Stranger OST Part.3](https://open.spotify.com/album/3f34SH76uyam8pwQ1H5Iri) | 4:31 |
 
-Snapshot ID: `MCxmNThjZmZlMDZlOTE5MGM3OTEzMjQxMjg2YTgwZjMzNmZiMTAxZDJj`
+Snapshot ID: `MCw0NGRiZjliNzVlMDgyZjNhYTJjYWVmZTc2YzA5OTg1NDJkMjNlM2Rl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 
 > The sounds of rain outside, while you're cozy inside with some relaxing piano music in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,426 likes - 90 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,480 likes - 90 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uB43NNq1P7.md) - [plain]
 | 89 | [Melusina Alba](https://open.spotify.com/track/2ndnjV4KpneBCYRHALd8Ro) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Melusina Alba](https://open.spotify.com/album/4HYOInJP0f608sH2178lN9) | 2:13 |
 | 90 | [Returning Home](https://open.spotify.com/track/1ClUmEEJYoDemcIPQQIODw) | [A Long Story](https://open.spotify.com/artist/1RFdkmm7AtmHeZTrdoJOFI) | [Returning Home](https://open.spotify.com/album/7xgg2hiwbvf5ZTXLfbxP1L) | 2:28 |
 
-Snapshot ID: `MCwzODcwZjNkYWY5OWM4MTBiNTIyNTIwNTk4OWM2MWY5MzllZmNiYzcy`
+Snapshot ID: `MCxkNjRmZDdkZDViMzJhMjRjNDA3NThiOTZlYTQ5NTIxODI0NjExYTQy`

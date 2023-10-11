@@ -4,7 +4,7 @@
 
 > This is Lamb of God\. The essential tracks, all in one playlist.
 
-96 songs - 6 hr 55 min
+97 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,8 @@
 | [Erase This](https://open.spotify.com/track/6y0PbQqNdZ5uxXuFAhDBJD) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm Und Drang \(Deluxe\)](https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V) | 5:08 | 2022-05-31 | 2022-10-12 |
 | [Erase This](https://open.spotify.com/track/4canbnkWyGwRYxMo9UHkfX) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9) | 5:08 | 2022-06-19 | 2022-09-12 |
 | [Everything To Nothing](https://open.spotify.com/track/6zGRXc3tmgwPrOW9JXpQQR) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath \(Special Edition\)](https://open.spotify.com/album/6yxMWgLfjw7QmzDRruQTNU) | 3:50 | 2023-06-17 |  |
-| [Footprints](https://open.spotify.com/track/44suwRrP7rmlugLUaC9qyZ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9) | 4:24 | 2022-06-29 | 2023-09-19 |
+| [Evidence](https://open.spotify.com/track/0J9nusuXGmNTOWJuGoEUHx) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Evidence](https://open.spotify.com/album/3mL6qoKcWmnbwNP3ycAqEG) | 3:50 | 2023-10-10 |  |
+| [Footprints](https://open.spotify.com/track/44suwRrP7rmlugLUaC9qyZ) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/4JvuAxQRUNbVcw66kFlXH9) | 4:24 | 2022-06-29 |  |
 | [Footprints](https://open.spotify.com/track/5EP7CdqAOvhOs6LJWw69sA) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm Und Drang \(Deluxe\)](https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V) | 4:24 | 2022-05-30 | 2022-10-11 |
 | [For Your Malice](https://open.spotify.com/track/3jH1c9em3bdzwkc2JjYJwY) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [As The Palaces Burn](https://open.spotify.com/album/5OubC3vkQNuA3rVu6iD6xa) | 3:43 | 2022-05-30 |  |
 | [Gears](https://open.spotify.com/track/5GwPTFXjE3WLJevK6KLMyc) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/34Y9ZcZ4b3WGbhx66zS0QV) | 3:55 | 2022-05-30 |  |
@@ -53,7 +54,7 @@
 | [Ill Designs](https://open.spotify.com/track/3qqWr8YhkMVVj9uD0yGgWM) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/6GCmzQESAIPAXbPsIMic3x) | 3:41 | 2022-10-09 | 2022-10-12 |
 | [Ill Designs](https://open.spotify.com/track/7sJbCv83nl2S94j8ZJz2WP) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Omens](https://open.spotify.com/album/2lq8ePf2hVkaBohPPwrwJc) | 3:41 | 2022-10-11 | 2022-11-30 |
 | [In the Absence of the Sacred](https://open.spotify.com/track/4TLTg6pKR2dzRgac8eFaiS) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 4:37 | 2022-05-30 | 2022-08-07 |
-| [In Your Words](https://open.spotify.com/track/7lVrIjVb0ctSCo00X7cDOk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 5:24 | 2022-05-30 |  |
+| [In Your Words](https://open.spotify.com/track/7lVrIjVb0ctSCo00X7cDOk) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Wrath](https://open.spotify.com/album/4j5zQAcdn9hWdP9H8BH0jX) | 5:24 | 2022-05-30 | 2023-10-11 |
 | [Insurrection](https://open.spotify.com/track/6MceLF6UAG3Hw2vzPo5LiL) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 4:50 | 2022-09-06 | 2022-09-22 |
 | [King Me](https://open.spotify.com/track/2YEOckiFPxRlCqr4yjFVSw) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 6:35 | 2022-08-23 | 2022-10-12 |
 | [King Me](https://open.spotify.com/track/7v5yAaXL6mqdZdl87jmO8T) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 6:35 | 2022-06-01 | 2022-10-06 |
@@ -81,8 +82,8 @@
 | [State Of Unrest](https://open.spotify.com/track/3u4djE2yAEkKMWJEUOOJyT) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2), [Kreator](https://open.spotify.com/artist/3BM0EaYmkKWuPmmHFUTQHv) | [State Of Unrest](https://open.spotify.com/album/6aH8bwmChky4ABVUHOGPxB) | 3:07 | 2023-02-11 |  |
 | [Still Echoes](https://open.spotify.com/track/2MgcmZ2DnI6ZTUSf5ytjo9) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm und Drang](https://open.spotify.com/album/3MnHIi1Nbk2TaHSE2dMVM0) | 4:22 | 2022-11-29 |  |
 | [Still Echoes](https://open.spotify.com/track/4aQJOU4vaoPkwGsIEBBGcr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [VII: Sturm Und Drang \(Deluxe\)](https://open.spotify.com/album/01Lg3FKNxZ0We36Exz8Q9V) | 4:22 | 2022-05-31 | 2022-11-30 |
-| [Straight For The Sun](https://open.spotify.com/track/7cqj8hfthKgGLy4cupPCGr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 2:26 | 2022-06-17 |  |
-| [Straight For The Sun](https://open.spotify.com/track/32LDIhVVsYEksBPoyfeKRo) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 2:28 | 2022-10-12 | 2023-07-23 |
+| [Straight For The Sun](https://open.spotify.com/track/7cqj8hfthKgGLy4cupPCGr) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 2:26 | 2022-06-17 | 2023-10-11 |
+| [Straight For The Sun](https://open.spotify.com/track/32LDIhVVsYEksBPoyfeKRo) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution](https://open.spotify.com/album/5rMKS2tqK818wfwr4zWQzX) | 2:28 | 2022-10-12 |  |
 | [Terminally Unique](https://open.spotify.com/track/6GHN2naulatxJhZOUulxEu) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Resolution \(Exclusive Edition\)](https://open.spotify.com/album/4ziMCfnsGVmOIaVjHzcPMk) | 4:21 | 2022-05-30 | 2022-10-13 |
 | [Terror and Hubris in the House of Frank Pollard](https://open.spotify.com/track/6d2tguWs6yv0EkVlu9PgNz) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [New American Gospel](https://open.spotify.com/album/53U3R5G1IvQbdl7ZCa052t) | 5:37 | 2022-05-30 | 2022-10-01 |
 | [The Death Of Us](https://open.spotify.com/track/4QWm4vWg9I9kCKY5lPQh43) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Bill & Ted Face The Music \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tBqYNxRj9fUW6s7OuzBnz) | 3:59 | 2022-05-30 |  |

@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 HERNAN TREJO en portada.",
-  "num_followers": 105337,
+  "num_followers": 105493,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGE4YzhiMjQ1NTBkNmExZjVmMGY5Y2JhZDk4MzYyM2MwOTg0YTcz",
+  "snapshot_id": "MCxjNWZhYWYxYjcwZjJiMDU2ZWY3ZWM3OGQ0OTk0NTk3NjdkZWZkYjA2",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -703,26 +703,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Pa Que Hablen",
-        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 126498,
-      "name": "Whiskey Con Agua",
-      "url": "https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Ojos Tumbados",
         "url": "https://open.spotify.com/album/7rxhqZe4tBOackaMInfpjU"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 218980,
       "name": "Ojos Tumbados",
       "url": "https://open.spotify.com/track/2uHEX5YxQU9wpHH0dQlChS"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Pa Que Hablen",
+        "url": "https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 126498,
+      "name": "Whiskey Con Agua",
+      "url": "https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ"
     },
     {
       "added_at": "2023-10-06 06:00:00",

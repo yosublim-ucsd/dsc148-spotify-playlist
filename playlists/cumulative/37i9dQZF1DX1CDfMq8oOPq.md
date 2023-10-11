@@ -4,7 +4,7 @@
 
 > só faixa rosa, tem disposição? 🎀 Foto: Duquesa
 
-174 songs - 8 hr 17 min
+175 songs - 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,7 +118,8 @@
 | [Oi, Prazer](https://open.spotify.com/track/4pCTXorg7BKc6SmjtQaEbG) | [MC Taya](https://open.spotify.com/artist/7vUQ69pnimnTG3WAWnVP9i), [WHITE NO BEAT](https://open.spotify.com/artist/4xJQUv60hFofQfApMsPtJu) | [Oi, Prazer](https://open.spotify.com/album/3NhhBBKyHZNfILXQs5WwDQ) | 2:38 | 2022-11-11 | 2023-03-03 |
 | [Olhares \- Ao Vivo](https://open.spotify.com/track/2O1lvYqUJeElPxjsFNeDyb) | [Iza Sabino](https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3), [Showlivre](https://open.spotify.com/artist/1Wmsh8shHV9kBkT3F9M40U) | [Iza Sabino no Estúdio Showlivre \(Ao Vivo\)](https://open.spotify.com/album/4F8B54XflmJca5xuhyy2Nc) | 2:12 | 2023-08-18 | 2023-08-26 |
 | [One Time](https://open.spotify.com/track/5gIJmws4seQ2IFy8lJ3sE1) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [ONNiKA](https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988) | [One Time](https://open.spotify.com/album/4rjOriodyXvpjXWJKDMNWM) | 2:46 | 2022-03-11 | 2022-11-19 |
-| [Oompa Loompa](https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Oompa Loompa](https://open.spotify.com/album/47ZG3gfqIRftdUgcuo6k6M) | 3:14 | 2022-06-24 |  |
+| [Oompa Loompa](https://open.spotify.com/track/0Wg8XNchyTN5qlOfgXFEc7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Heavy Baile](https://open.spotify.com/artist/2E4sNJOOy9hae0J8DkT43M), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Oompa Loompa](https://open.spotify.com/album/47ZG3gfqIRftdUgcuo6k6M) | 3:14 | 2022-06-24 | 2023-10-11 |
+| [Oompa Loompa](https://open.spotify.com/track/17YRNfsbyA7wTOEhANAyK7) | [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs), [LARINHX](https://open.spotify.com/artist/00kQ5yo7yxd5KC1ihuH77i), [Leo Justi](https://open.spotify.com/artist/1puzPcrOHKTMQ6KTuYfqU0) | [Malvatrem](https://open.spotify.com/album/1ZPKYFpymZKgLc0T0Z9WDL) | 3:11 | 2023-10-06 |  |
 | [Papo Reto](https://open.spotify.com/track/51KzKfcPELW9rrWi3Rxfll) | [Mc Soffia](https://open.spotify.com/artist/2aPCjzfki5HgFLrse785FT) | [Papo Reto](https://open.spotify.com/album/0IIF5iRrk0Xc0spUkT2lzi) | 2:40 | 2022-03-11 | 2022-04-02 |
 | [Pele.](https://open.spotify.com/track/0gDMh0AU5u9QDmZqRNLvHo) | [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [Pele.](https://open.spotify.com/album/3SnK4T0S2TShoO0WTTGK9K) | 3:25 | 2022-03-11 | 2022-06-04 |
 | [Perigo](https://open.spotify.com/track/52Jr9FWIO9M5BUkWImFly2) | [Mih](https://open.spotify.com/artist/61zf1QL76js0BddVLq77lj), [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg), [Mousik](https://open.spotify.com/artist/0QTxqtxb1Ynangd0fpm3PM), [DJ 2F](https://open.spotify.com/artist/3tkq9ZnBaejLPLRpg8kGET) | [Perigo](https://open.spotify.com/album/29BdehwzTzF0xDjRohf2t1) | 2:20 | 2023-08-18 | 2023-09-16 |

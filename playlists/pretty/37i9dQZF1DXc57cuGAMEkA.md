@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Drake, Ado, NewJeans, James Arthur, 大橋トリオ and more! Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,957 likes - 74 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,959 likes - 74 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 73 | [A Story About You](https://open.spotify.com/track/5V72jZAUZaDMdvxPP0cqUF) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [A Story About You](https://open.spotify.com/album/6NcVwfLTgSJpiqyp2yinQx) | 4:29 |
 | 74 | [Winter Wonderland](https://open.spotify.com/track/24s5Gc28FaxK3d2chsNFY9) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [A Mary Christmas \(Anniversary Edition\)](https://open.spotify.com/album/1q2qXiPG7Q75ZXse3uPrmO) | 2:48 |
 
-Snapshot ID: `MCxjOWVjMmEyMWQwZmE3ZTk5ZGRjZjEwMjI4MzI0ZWIzZDdjMjhjMGI1`
+Snapshot ID: `MCw4NDJkOWFhMTlkMjUzNTgxOTlmZDgxMTM2ZDUwZDRkYjU3ZmExZjk4`

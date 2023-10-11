@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-112 songs - 7 hr 43 min
+113 songs - 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [Heartbeat](https://open.spotify.com/track/5HWsGUloryGa2IxSCofayo) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [anaiis](https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl) | [José Louis And The Paradox Of Love](https://open.spotify.com/album/5tDp9bLRK35HVbFIG80lpf) | 3:04 | 2022-09-20 | 2023-08-30 |
 | [Human \(feat\. JONA XX\) \- Spotify Singles](https://open.spotify.com/track/48UIC5kKvE8ftxKyXvlvg7) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf), [JONA XX](https://open.spotify.com/artist/13qDiWWIa4Gb6toRGszKKP) | [Spotify Singles](https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ) | 2:38 | 2023-07-17 |  |
 | [Hustle](https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Black To The Future](https://open.spotify.com/album/6AfA0FZhzRTpjDDYHkCd5B) | 5:18 | 2021-10-20 |  |
+| [Impasto](https://open.spotify.com/track/1z7SGD6F6OYGinYGyym9uC) | [Sven Wunder](https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly) | [Natura Morta](https://open.spotify.com/album/6Md4bFFy49yYCQ0VHCO4tt) | 3:11 | 2021-10-20 |  |
 | [Intrasport](https://open.spotify.com/track/28c8ZDVltaCcs4OfIAuI8Z) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [K.G.](https://open.spotify.com/album/6uuQKwM3fRETiscHqlnxuo) | 4:12 | 2021-10-20 |  |
 | [Jaley Jaley](https://open.spotify.com/track/5Q2kmykzh6TUFBBqskiHjK) | [Frente Cumbiero](https://open.spotify.com/artist/7r6KiZDjtZqBWp5jaDgxA6) | [Cera Perdida](https://open.spotify.com/album/4G4lWdQ2QmExgywdumu7Fh) | 3:09 | 2021-10-20 |  |
 | [Kek Alghalm](https://open.spotify.com/track/6a2lsRBLR68z0azpNyFrzr) | [Tinariwen](https://open.spotify.com/artist/2sf2owtFSCvz2MLfxmNdkb), [Wes Corbett](https://open.spotify.com/artist/2OkbDT2Do2fc1sRAUFedD8) | [Amatssou](https://open.spotify.com/album/6midUauH9WLxQllqEAvqhM) | 3:31 | 2023-05-25 |  |
@@ -91,7 +92,7 @@
 | [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 | 2021-10-20 |  |
 | [Sr\. Tigre \- French Braids Rework](https://open.spotify.com/track/3u2hfoDnXpCiQQRQkblecj) | [YoSoyMatt](https://open.spotify.com/artist/0NYE6CFlP7ElQR6r395gbV), [Eva de Marce](https://open.spotify.com/artist/1UgwU7ChXfMkwH9t6ivW2E), [French Braids](https://open.spotify.com/artist/5y8mGL7UFApHn1BotAfcj1) | [Sr\. Tigre \(French Braids Rework\)](https://open.spotify.com/album/4iRAsml6uMPqEiTQZ0zmDp) | 3:32 | 2021-10-20 |  |
 | [Su Sızıyor](https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 4:04 | 2023-03-29 |  |
-| [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/album/291DEaUtgEk7gie1PUbF52) | 4:13 | 2023-07-19 |  |
+| [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/track/6x5PzFq5wazDsvWd9TQCrW) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Taimangalimaaq \(Time After Time\)](https://open.spotify.com/album/291DEaUtgEk7gie1PUbF52) | 4:13 | 2023-07-19 | 2023-10-11 |
 | [Taivshral](https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Taivshral](https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq) | 3:07 | 2023-06-07 |  |
 | [Tala Tannam](https://open.spotify.com/track/7FDVKzLOGTeeLEsR91ck9W) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Afrique Victime](https://open.spotify.com/album/3ZZMK1Hd8E9Uzj1Tycdlf2) | 5:38 | 2021-10-20 |  |
 | [Tarhatazed](https://open.spotify.com/track/7lxN82DVKPmdfPzEXR9ODa) | [Mdou Moctar](https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94) | [Ilana \(The Creator\)](https://open.spotify.com/album/7qi4bVdiQy8tTtAzwJBd2w) | 7:27 | 2021-10-20 | 2023-10-05 |

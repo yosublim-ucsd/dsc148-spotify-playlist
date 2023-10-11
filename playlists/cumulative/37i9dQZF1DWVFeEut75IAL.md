@@ -2,7 +2,7 @@
 
 ### [Calming Classical](https://open.spotify.com/playlist/37i9dQZF1DWVFeEut75IAL)
 
-> The most calming classical music.
+> Encuentra la calma escuchando música clásica.
 
 114 songs - 7 hr 7 min
 

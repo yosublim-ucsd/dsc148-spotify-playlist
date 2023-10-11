@@ -1571,6 +1571,28 @@
     },
     {
       "album": {
+        "name": "Bittersweet Symphony",
+        "url": "https://open.spotify.com/album/7vzwzqbEuio5YVYnOV6P7s"
+      },
+      "artists": [
+        {
+          "name": "GAMPER & DADONI",
+          "url": "https://open.spotify.com/artist/6HQ6vf4AloXyVNdyJhrX1J"
+        },
+        {
+          "name": "Emily Roberts",
+          "url": "https://open.spotify.com/artist/3RBqLTttwN1orqQozYfmJo"
+        }
+      ],
+      "date_added": "2023-09-28",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194618,
+      "name": "Bittersweet Symphony",
+      "url": "https://open.spotify.com/track/0DVNPsfJgMEcP3oLB3xoLf"
+    },
+    {
+      "album": {
         "name": "Bittersweet Symphony (feat. Emily Roberts)",
         "url": "https://open.spotify.com/album/4kFCmKMq1c6gl8eema7wkg"
       },
@@ -9212,7 +9234,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 160866,
       "name": "My Stupid Heart",
       "url": "https://open.spotify.com/track/3UZDl7g2r84o1b5marUjfK"

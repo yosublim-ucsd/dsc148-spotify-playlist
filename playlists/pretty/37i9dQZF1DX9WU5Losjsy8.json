@@ -1,12 +1,12 @@
 {
   "description": "Ist nur einmal im Jahr!",
-  "num_followers": 362951,
+  "num_followers": 363082,
   "original_name": "Malle Party 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlYTBkY2JkNGM0MzMwMGYzYjA2NzgwOGRkNDY3MzEyYzlhODlmOWUx",
+  "snapshot_id": "MCxhMTJlMTNlN2U5NTZhYjIwZTExYjA1MmYxOGRlZTIxMWViYWY1ZGM5",
   "tracks": [
     {
       "added_at": "2023-09-18 16:25:06",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/5DUf0pbwyBeH2zN1rhPlBO"
+      },
+      "artists": [
+        {
+          "name": "Loona",
+          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
+        }
+      ],
+      "duration_ms": 179960,
+      "name": "Vamos a la Playa",
+      "url": "https://open.spotify.com/track/2Tk5B1h58lJRsrivGg1jaE"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
         "name": "Delfin",
         "url": "https://open.spotify.com/album/1mJVITyXpxZqITt9O5iS5i"
       },
@@ -107,22 +123,6 @@
       "duration_ms": 175984,
       "name": "Delfin",
       "url": "https://open.spotify.com/track/4jAHH8WkHiJQP9JlW2PlEi"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/5DUf0pbwyBeH2zN1rhPlBO"
-      },
-      "artists": [
-        {
-          "name": "Loona",
-          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
-        }
-      ],
-      "duration_ms": 179960,
-      "name": "Vamos a la Playa",
-      "url": "https://open.spotify.com/track/2Tk5B1h58lJRsrivGg1jaE"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Mitten in die Scheibe",
-        "url": "https://open.spotify.com/album/0CrQz7CcWSBMlgJGDHcQdS"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 167280,
-      "name": "Can You English Please",
-      "url": "https://open.spotify.com/track/3WzhNUlB14b15XLDm2dQHi"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
         "name": "Auf dem Besen an den Tresen",
         "url": "https://open.spotify.com/album/47ih6wlWo3moVGDo6EiwuH"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 182608,
       "name": "Auf dem Besen an den Tresen",
       "url": "https://open.spotify.com/track/4z57csWGtiNCLzxBMsnIDU"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "Mitten in die Scheibe",
+        "url": "https://open.spotify.com/album/0CrQz7CcWSBMlgJGDHcQdS"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 167280,
+      "name": "Can You English Please",
+      "url": "https://open.spotify.com/track/3WzhNUlB14b15XLDm2dQHi"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Eine Woche wach",
-        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
-      },
-      "artists": [
-        {
-          "name": "Mickie Krause",
-          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
-        }
-      ],
-      "duration_ms": 235899,
-      "name": "Eine Woche wach",
-      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
         "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
         "url": "https://open.spotify.com/album/5RXeATnYMMGjUWoczsa4a3"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 246433,
       "name": "Helikopter 117 (Mach' den Hub Hub Hub)",
       "url": "https://open.spotify.com/track/1pMsWnQCaLQvL3O0vaMp5H"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "Eine Woche wach",
+        "url": "https://open.spotify.com/album/0SrDdwbGTIpolnxcw4h3JA"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "duration_ms": 235899,
+      "name": "Eine Woche wach",
+      "url": "https://open.spotify.com/track/6aRlZoOO6dqXQtqq2wiQZ1"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Zeig mir den Platz an der Sonne",
-        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
-      },
-      "artists": [
-        {
-          "name": "Udo J\u00fcrgens",
-          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
-        }
-      ],
-      "duration_ms": 244640,
-      "name": "Griechischer Wein",
-      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
         "name": "Party Chaos",
         "url": "https://open.spotify.com/album/68DUsll6ui4bYNyvEZmIzS"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 194173,
       "name": "Strobo Pop",
       "url": "https://open.spotify.com/track/0xTsllHxzqwYrsPUcruf72"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "Zeig mir den Platz an der Sonne",
+        "url": "https://open.spotify.com/album/14kHOjiTWRL2gF9Li2jEGg"
+      },
+      "artists": [
+        {
+          "name": "Udo J\u00fcrgens",
+          "url": "https://open.spotify.com/artist/2G0htB8PxlO2onxnIismur"
+        }
+      ],
+      "duration_ms": 244640,
+      "name": "Griechischer Wein",
+      "url": "https://open.spotify.com/track/452WSSzuklpg0w4RKTlkvn"
     },
     {
       "added_at": "2023-09-18 16:25:06",
@@ -943,22 +943,6 @@
     {
       "added_at": "2023-09-18 16:25:06",
       "album": {
-        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
-        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
-      },
-      "artists": [
-        {
-          "name": "M\u00fctze Katze",
-          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
-        }
-      ],
-      "duration_ms": 164103,
-      "name": "Schei\u00dfegal, ich feier - Radio Edit",
-      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
-    },
-    {
-      "added_at": "2023-09-18 16:25:06",
-      "album": {
         "name": "Atzen Musik Vol.1, 2 & 3",
         "url": "https://open.spotify.com/album/2pP7zvSMGAWtfoPBp2tYeh"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 204946,
       "name": "Disco Pogo",
       "url": "https://open.spotify.com/track/1v5ux3K8vE1CWxDa0PVyGu"
+    },
+    {
+      "added_at": "2023-09-18 16:25:06",
+      "album": {
+        "name": "Schei\u00dfegal, ich feier (Radio Edit)",
+        "url": "https://open.spotify.com/album/5b9J518c3kaHN5FIZ4EOhY"
+      },
+      "artists": [
+        {
+          "name": "M\u00fctze Katze",
+          "url": "https://open.spotify.com/artist/1NIZkVWOktJ496divSh7cF"
+        }
+      ],
+      "duration_ms": 164103,
+      "name": "Schei\u00dfegal, ich feier - Radio Edit",
+      "url": "https://open.spotify.com/track/59OdgXmYQOW5oGmOQlyPEg"
     },
     {
       "added_at": "2023-09-18 16:25:06",

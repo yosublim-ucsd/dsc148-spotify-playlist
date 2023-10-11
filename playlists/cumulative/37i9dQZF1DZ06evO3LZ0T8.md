@@ -4,7 +4,7 @@
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-41 songs - 2 hr 5 min
+42 songs - 2 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,6 +48,7 @@
 | [The Streets](https://open.spotify.com/track/77P9MI3yqXZqVXyjlCAEKV) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Streets](https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT) | 2:38 | 2022-10-10 |  |
 | [Trouble](https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 2:49 | 2022-10-10 |  |
 | [U Know It](https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Fantom Freq](https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM) | [Bad Decisions](https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM) | 3:39 | 2022-10-10 |  |
+| [Unexpected](https://open.spotify.com/track/6jb6JbRfw2USnHQ0cWVHg8) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Unexpected](https://open.spotify.com/album/0urXrwEoImhImR2E88h9q3) | 2:54 | 2023-10-10 |  |
 | [Waiting](https://open.spotify.com/track/51Ovzmx3WMnHZqMdNq7xrv) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [NuKey](https://open.spotify.com/artist/2tmve58Sh3f0WZN76W30x3) | [Waiting](https://open.spotify.com/album/1sDfCWZzggw6l015h5agWf) | 2:37 | 2022-11-16 |  |
 
 \*This playlist was first scraped on 2022-10-10. Prior content cannot be recovered.

@@ -326,7 +326,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 208230,
       "name": "Freaking Me Out",
       "url": "https://open.spotify.com/track/2EgCA8OSliOqPRn30n6XmQ"
@@ -348,6 +348,24 @@
       "duration_ms": 208230,
       "name": "Freaking Me Out",
       "url": "https://open.spotify.com/track/3I8U8BMugXc4ZGzAl5IkCc"
+    },
+    {
+      "album": {
+        "name": "Candy Pop",
+        "url": "https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208230,
+      "name": "Freaking Me Out",
+      "url": "https://open.spotify.com/track/523qGN4DKJ4o4IIxWYAobG"
     },
     {
       "album": {
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 211400,
       "name": "We Are All Insane",
       "url": "https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ"
@@ -1138,6 +1156,24 @@
       "duration_ms": 211400,
       "name": "We Are All Insane",
       "url": "https://open.spotify.com/track/2N175zTqPQhQ5FHOrgsW3h"
+    },
+    {
+      "album": {
+        "name": "Candy Pop",
+        "url": "https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo"
+      },
+      "artists": [
+        {
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211400,
+      "name": "We Are All Insane",
+      "url": "https://open.spotify.com/track/6tILMsEgA97Eawkz1Ejyj7"
     },
     {
       "album": {

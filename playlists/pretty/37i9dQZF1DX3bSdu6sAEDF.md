@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 
 > Let this smooth mix carry you home in style.
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,557 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,656 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bSdu6sAEDF.md) - [plain]
 | 74 | [Your Internet Sucks](https://open.spotify.com/track/6W1r7ohhmFUKYGbiOsy58q) | [Ber](https://open.spotify.com/artist/3yojdgzMmWK3m7QABkOr7x) | [Your Internet Sucks](https://open.spotify.com/album/4xmseo8B4OHl74HwkgdR4R) | 2:49 |
 | 75 | [Find My Way](https://open.spotify.com/track/5oP725PoN0QHZ0T8kDt8I4) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [Find My Way](https://open.spotify.com/album/2fsJgdAtuJx5hHt8YU6DuZ) | 2:53 |
 
-Snapshot ID: `MCxmYmRhYzdjNmMyZWU1ZTExZTA4ZGQzOTkwYmI2MmI2MDA5MGUzZjNk`
+Snapshot ID: `MCw3OTJhMTYwYTE1NjkyYTA0YWY5Y2M3ODliOTY0OWNlNzdmZjZjMTJi`

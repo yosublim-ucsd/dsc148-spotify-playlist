@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-377 songs - 22 hr 50 min
+379 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Dance With Me](https://open.spotify.com/track/5TdzPzC6hlBT5cofaaqybi) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo) | [Through and Through](https://open.spotify.com/album/5K2v8D4FP0jc3tpIIuJwOt) | 3:20 | 2023-04-28 | 2023-05-06 |
 | [DARLING](https://open.spotify.com/track/5rrTie8d13kxtK8S6JOgyQ) | [DIXSON](https://open.spotify.com/artist/61677A13kBwbTfqECI65p8) | [DARLING](https://open.spotify.com/album/6XrAWrMOgdiK9a96OIM3Kb) | 3:38 | 2021-12-03 | 2022-07-29 |
 | [Daydreaming](https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Daydreaming](https://open.spotify.com/album/2x7bjrZNDZ7hNcosj0dS39) | 3:06 | 2023-05-19 | 2023-08-26 |
+| [Deep \(Hold You\)](https://open.spotify.com/track/0TBTTHWLCOstRgZvQslRYm) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [7](https://open.spotify.com/album/5Sero7LzJaM1Pxp51FW2wY) | 3:18 | 2023-10-06 |  |
 | [Demon Time \(with Ari Lennox\) \- Remix](https://open.spotify.com/track/3ZDrWqaWyjuJg1dGp0EqTS) | [Alex Vaughn](https://open.spotify.com/artist/24S5IyzXICyGscL4vYshdq), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Demon Time \(with Ari Lennox\) \[Remix\]](https://open.spotify.com/album/52sE6qrimItEbxEtWbwl9b) | 3:40 | 2023-03-17 | 2023-05-03 |
 | [Desire](https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 4:53 | 2023-09-29 |  |
 | [Desperate Soul](https://open.spotify.com/track/5n6pFWEIz6KlcAsZL4J7O3) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [Desperate Soul](https://open.spotify.com/album/17xuD9aIF7NINcTmvkEWf4) | 2:07 | 2023-03-10 |  |
@@ -185,6 +186,7 @@
 | [Just Like You Used To](https://open.spotify.com/track/0KNKtfE0jOcGBeu7Y5pL7h) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Come Around and Love Me](https://open.spotify.com/album/0E2PgtXRUHCslZ7gRselUq) | 3:09 | 2022-10-03 | 2023-10-07 |
 | [Kaleidoscope](https://open.spotify.com/track/6WS3DY0dzclqrAZae3E2KV) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Kaleidoscope](https://open.spotify.com/album/5EWLwR5kCNnntBBo4StawQ) | 3:19 | 2023-04-07 |  |
 | [King](https://open.spotify.com/track/1fExFCGaE1Y5qNhPK7aTUy) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU), [C.S\. Armstrong](https://open.spotify.com/artist/6MxR3Hjf2uTSew9wmKbOwO) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:04 | 2023-05-26 | 2023-09-20 |
+| [Kiss The Sky](https://open.spotify.com/track/5kRwRpU0ah48DmRfxARPHt) | [Avery Wilson](https://open.spotify.com/artist/2c6geVFkxNT2BKQyHUvnT3) | [Kiss The Sky](https://open.spotify.com/album/5VHPseQHlNgqVA8L0tjYj1) | 5:48 | 2023-09-29 |  |
 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 | 2022-03-11 | 2023-02-25 |
 | [Landing Soft](https://open.spotify.com/track/3s3xMjzpkacG8DT07L7EdT) | [Latanya Alberto](https://open.spotify.com/artist/2gOETMfjAos2JU0cxHp357) | [Landing Soft](https://open.spotify.com/album/2sloXrWOoeQEYvqyj2YiVo) | 3:38 | 2023-06-02 |  |
 | [Last Request](https://open.spotify.com/track/3t3jjmmEisYLguDIgpVj53) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z) | [The Anthology](https://open.spotify.com/album/12cGytJRlgjkILDYLB7tdD) | 5:35 | 2021-12-03 | 2022-07-29 |
@@ -313,8 +315,8 @@
 | [Stay](https://open.spotify.com/track/067TB7SiK4ZRF5hURd2sJh) | [NNAVY](https://open.spotify.com/artist/3X9xtTCJtryAoqsSMKCzXu) | [Blue](https://open.spotify.com/album/3jsEUHsf88LQ49JgTq5AHH) | 4:30 | 2022-10-21 |  |
 | [Stay Where You Are](https://open.spotify.com/track/68GFZFc2Fa5HLdv6TXziSD) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Stay Where You Are](https://open.spotify.com/album/1Mun53MZEPEfXJpHbCArDJ) | 3:29 | 2022-03-11 | 2023-04-02 |
 | [STEREO DRIVER](https://open.spotify.com/track/1yGzzCuLd5vH5gSb1Ii6jU) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [STEREO DRIVER](https://open.spotify.com/album/0chstf8JqlFUYvI0F7gogH) | 3:51 | 2022-09-23 | 2023-05-06 |
-| [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 | 2023-02-24 |  |
-| [Stolen Fruit](https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Stolen Fruit](https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv) | 3:37 | 2022-02-25 |  |
+| [STILL HAVE YOU](https://open.spotify.com/track/3LZ8BWLWzzNhub4LR0fQ1Z) | [Jake Isaac](https://open.spotify.com/artist/6q94KewnCnut4Ta36dCoaB) | [STILL HAVE YOU](https://open.spotify.com/album/4DQBCDttZkfo2p5Fz0N9fX) | 2:22 | 2023-02-24 | 2023-10-11 |
+| [Stolen Fruit](https://open.spotify.com/track/5hax6joZydQKWNE55uQAgF) | [Tank and The Bangas](https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7) | [Stolen Fruit](https://open.spotify.com/album/7lz4nwWwfRplCq1ts5NmVv) | 3:37 | 2022-02-25 | 2023-10-11 |
 | [Strength, Courage, and Wisdom \- India Arie](https://open.spotify.com/track/5yTu3MMxAPOUQzfR13mxI3) | [India.Arie](https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC) | [Muzik of the Mind and Spirit \- a Concept Compilation](https://open.spotify.com/album/7ermETX1IloxCO80fX1poy) | 5:01 | 2022-03-11 | 2022-10-15 |
 | [Summer Breeze](https://open.spotify.com/track/1fdIUHd0XFHyuwp0Uhgquw) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Summer Breeze](https://open.spotify.com/album/3xrqOcvw6PfsXkJEgfz1Cu) | 3:42 | 2022-10-14 | 2023-10-07 |
 | [summer night o8](https://open.spotify.com/track/2yrhCmYZKJHpOFk8OW2rjU) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t) | [summer night o8](https://open.spotify.com/album/38xjiy0KkjzCzz7P9WJHAw) | 3:23 | 2021-12-03 | 2022-09-13 |

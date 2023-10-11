@@ -1,12 +1,12 @@
 {
   "description": "Strictly for the streets. Cover: Lil Durk",
-  "num_followers": 1190057,
+  "num_followers": 1189955,
   "original_name": "Out The Mud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZmY0OThhYjE2MDljMTU2MmQwZmYzNWJhZDQxMzMwMjRjZGYzNGNj",
+  "snapshot_id": "MCwxYTJmZGE1YWVhMWRkYTI4MDZhOWQ1ODFhMjdmYjI4NjBkZTc2NGE0",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -1348,16 +1348,16 @@
       },
       "artists": [
         {
-          "name": "Brezden",
-          "url": "https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt"
-        },
-        {
           "name": "Gucci Mane",
           "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Brezden",
+          "url": "https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt"
         }
       ],
       "duration_ms": 204050,
-      "name": "BRRR B (feat. Gucci Mane)",
+      "name": "BRRR B",
       "url": "https://open.spotify.com/track/0h4RTOJWacHhYBXBzPbL2q"
     },
     {

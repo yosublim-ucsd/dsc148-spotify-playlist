@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXb87XV8ITnbK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXb87XV8ITnbK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXb87XV8ITnbK)
 
-### [반짝이는 워터멜론\(Twinkle Watermelon\)](https://open.spotify.com/playlist/37i9dQZF1DXb87XV8ITnbK)
+### [반짝이는 워터멜론\(Twinkling Watermelon\)](https://open.spotify.com/playlist/37i9dQZF1DXb87XV8ITnbK)
 
-> Listen to the soundtracks of the Twinkle Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
+> Listen to the soundtracks of the Twinkling Watermelon\. \(반짝이는 워터멜론의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs selected by the cast\. \(출연진들이 직접 선정한 추천곡들도 들어보실 수 있습니다.\)
 
 52 songs - 2 hr 57 min
 

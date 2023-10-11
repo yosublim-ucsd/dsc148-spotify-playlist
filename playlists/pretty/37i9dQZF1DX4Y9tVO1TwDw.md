@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Estevie
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,515 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,650 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 41 | [Mi Estilo](https://open.spotify.com/track/5Mh7ttqT7eDrAMSDdYLT2m) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [XODERICK](https://open.spotify.com/artist/6p4uhW3K5NmxiGswulf8PG) | [Mi Estilo](https://open.spotify.com/album/09hkkkk36xgJfcg8fssPlq) | 4:45 |
 | 42 | [Hear Me Out](https://open.spotify.com/track/43u76RiZEjdtuEWar9ItUb) | [KORDELYA](https://open.spotify.com/artist/3JmbGjGpi55FRnjvjH9ljV), [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Mal Hecha \(Deluxe\)](https://open.spotify.com/album/6n2KkPuOhM14eWLPuUipwP) | 2:17 |
 | 43 | [luna de miel](https://open.spotify.com/track/2hjyD6lWeudH8HDsh1b1vr) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [luna de miel](https://open.spotify.com/album/6jS8h6S75hv5XtRcdjd8f2) | 2:35 |
-| 44 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
-| 45 | [Solo Tu](https://open.spotify.com/track/4Ns54Yvhv4xfOMLAYRLkVE) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Solo Tu](https://open.spotify.com/album/4monLmhJWVVByxBhjPQQR7) | 2:46 |
+| 44 | [Solo Tu](https://open.spotify.com/track/4Ns54Yvhv4xfOMLAYRLkVE) | [Luna Luna](https://open.spotify.com/artist/5TlEHNqVreukNnk4aj7mVr) | [Solo Tu](https://open.spotify.com/album/4monLmhJWVVByxBhjPQQR7) | 2:46 |
+| 45 | [El Rio](https://open.spotify.com/track/2NqjGg4EqGXJdByHPE3ptK) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [El Rio](https://open.spotify.com/album/1VpvgK7zD5GMTB33PJ8tlb) | 2:14 |
 | 46 | [two eyes](https://open.spotify.com/track/6o6ZB7mCnwOutmC06Pey0P) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC), [Roy Borland](https://open.spotify.com/artist/5Vr2AKX7BHkLTslxmuSMF7) | [two eyes](https://open.spotify.com/album/0eONLSsIP4tLaGDmMC33QV) | 3:30 |
 | 47 | [tú y yo](https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4) | [Ariel & The Culture](https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4) | [buena vista!](https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv) | 2:55 |
 | 48 | [Papaya](https://open.spotify.com/track/4Az1TpAuG5E8dDqYjyVGUX) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Papaya](https://open.spotify.com/album/0FrfppDaTYpma9MXQ6qRqE) | 2:16 |
-| 49 | [ATEA AL AMOR](https://open.spotify.com/track/4EiTe99n0OysiRcL17F6HM) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [ATEA AL AMOR](https://open.spotify.com/album/1gwc6YNpzD9BfC1uiCoudQ) | 2:52 |
-| 50 | [QUIERO LLORAR Y NO PUEDO](https://open.spotify.com/track/3uvj97aCrgC1bGpiV5oCNm) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [QUIERO LLORAR Y NO PUEDO](https://open.spotify.com/album/4Ua1w80i6Lz0yF1kc1ZQSP) | 3:21 |
+| 49 | [QUIERO LLORAR Y NO PUEDO](https://open.spotify.com/track/3uvj97aCrgC1bGpiV5oCNm) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [QUIERO LLORAR Y NO PUEDO](https://open.spotify.com/album/4Ua1w80i6Lz0yF1kc1ZQSP) | 3:21 |
+| 50 | [ATEA AL AMOR](https://open.spotify.com/track/4EiTe99n0OysiRcL17F6HM) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [ATEA AL AMOR](https://open.spotify.com/album/1gwc6YNpzD9BfC1uiCoudQ) | 2:52 |
 
-Snapshot ID: `MCxjMzc5NzVhMjExNzkzOWFmM2RkZmZiMDhkM2FhNWM5MjhlYWQwODUx`
+Snapshot ID: `MCxjMjE2MmJjNGRkMDgwMjNkNTY0MGQ1NDk1OWU5OTE3ZTUyOTBkMWY1`

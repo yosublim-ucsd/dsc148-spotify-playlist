@@ -467,6 +467,24 @@
     },
     {
       "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266847,
+      "name": "8am in Charlotte",
+      "url": "https://open.spotify.com/track/0w3Mfe4PIVjuFjJbe3OlYv"
+    },
+    {
+      "album": {
         "name": "10 YEARS",
         "url": "https://open.spotify.com/album/78t37LD6kbhLgnlCiG5nmU"
       },
@@ -8314,7 +8332,7 @@
       ],
       "date_added": "2022-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 140089,
       "name": "Gode Dage, Gode Drinks",
       "url": "https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo"

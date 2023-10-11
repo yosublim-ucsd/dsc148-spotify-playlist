@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 
 > Discover the amazing world of Japanese City Pop from the ‘70s./ ニューミュージックとも一線を画す、都会的で洗練された音楽＝シティポップ の誕生。黎明期の輝きは永遠に。
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,827 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,887 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,13 +26,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 16 | [Shinin’ You, Shinin’ Day](https://open.spotify.com/track/4PW7Cq7lNMIrEnojsB0jHC) | [Char](https://open.spotify.com/artist/6M4HwfIjf33RNtOjq3pIzf) | [Char](https://open.spotify.com/album/1YwI8GobyuUmdxaOLIODKp) | 5:55 |
 | 17 | [It's the Falling in Love](https://open.spotify.com/track/051QXVSpUF3jmPni6iUabU) | [Hatsumi Shibata](https://open.spotify.com/artist/2NmZjnTUfF6MFpkHcopO96) | [Hazumide Daite](https://open.spotify.com/album/0lJRWgC32yBLDFbYIXUJK8) | 3:04 |
 | 18 | [心のままに](https://open.spotify.com/track/3cFDlM8SZQ1qcjbaJ8hGcH) | [朝比奈 マリア](https://open.spotify.com/artist/0Fo7zlHoM0WX4PP2GbipxM) | [MARIA](https://open.spotify.com/album/6yiuP8vYVD7SmBLDFzP8sm) | 3:49 |
-| 19 | [Suna no Onna](https://open.spotify.com/track/3mBBBGjOaV4OAfJupWuMgc) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [BAND WAGON \(Remastered 2017\)](https://open.spotify.com/album/50GY6D1DpjaffXS5Av5sXt) | 3:55 |
+| 19 | [On the Coast](https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [DIGGIN’ VICTOR Deep Into The Vaults Of Japanese Fusion mixed by MURO](https://open.spotify.com/album/1DHXpY4vTHmeViIke3DukQ) | 3:33 |
 | 20 | [City Lights by the Moonlight](https://open.spotify.com/track/4oh15qYaAu8aDbUzbmja5J) | [惣領 智子](https://open.spotify.com/artist/69L8hpJ0Tvo0jGRCbX3PNb) | [City Lights by the Moonlight](https://open.spotify.com/album/3T28jNrwSvbhytK59y3cAg) | 3:52 |
 | 21 | [CLOSE YOUR EYES](https://open.spotify.com/track/5dwr3ShkKRoGoHBbZmyQu0) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [WE ARE JUST TAKING OFF](https://open.spotify.com/album/2SUGtlVqzJ69LDlmDLPbNi) | 4:54 |
 | 22 | [THE TOKYO TASTE](https://open.spotify.com/track/4VtaiiprEhrb0OuDoAH8vm) | [Rajie](https://open.spotify.com/artist/007kw598oq32vy4koAoVk4) | [Heart To Heart](https://open.spotify.com/album/2cmdWStrRQbd4qLIhn4HJr) | 3:46 |
 | 23 | [愛の炎](https://open.spotify.com/track/6ZrnDMPu4wRgRLgmYzoL1c) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [Let's Do It](https://open.spotify.com/album/3XaoPCKp7aRJN8666rx394) | 4:07 |
 | 24 | [日付変更線](https://open.spotify.com/track/4b0inPorpxAXDgUjzkLl8M) | [Yoshitaka Minami](https://open.spotify.com/artist/5dS698oTdel4MldPvYoj7p), [Taeko Onuki](https://open.spotify.com/artist/5QeCklzEEYSSLWeUxuWeBy) | [大航海図鑑](https://open.spotify.com/album/78oK5eysmLdL8kJd40pnls) | 3:51 |
-| 25 | [On the Coast](https://open.spotify.com/track/4pov7Yi9sESxayxoAZlUrD) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [DIGGIN’ VICTOR Deep Into The Vaults Of Japanese Fusion mixed by MURO](https://open.spotify.com/album/1DHXpY4vTHmeViIke3DukQ) | 3:33 |
+| 25 | [Suna no Onna](https://open.spotify.com/track/3mBBBGjOaV4OAfJupWuMgc) | [Shigeru Suzuki](https://open.spotify.com/artist/4yN4amq8cBHHQ49NzFOO5Z) | [BAND WAGON \(Remastered 2017\)](https://open.spotify.com/album/50GY6D1DpjaffXS5Av5sXt) | 3:55 |
 | 26 | [夏の光に](https://open.spotify.com/track/0sGnR5jtx82QP9kJdkLQUr) | [Sumiko Yamagata](https://open.spotify.com/artist/4JG1gQtoe53W8X9W3OAk5C) | [サマー・シェイド](https://open.spotify.com/album/6FFjNNrnEQHDMkQtOG1Oyn) | 3:26 |
 | 27 | [The Tokyo Taste](https://open.spotify.com/track/0YMnEMqd2xGK6FrMl481wX) | [Sadistics](https://open.spotify.com/artist/7Ek66FTad8558ELr5Vr2EW) | [ザ・ベスト](https://open.spotify.com/album/6A34idMpfb5WqzegCtRBWB) | 3:46 |
 | 28 | [サブタレニアン二人ぼっち \- 2017 リマスター](https://open.spotify.com/track/0Bm8KQPVBA4neqiy5mqEiw) | [Nanako Sato](https://open.spotify.com/artist/3X1YtMHFPYXcwtGo4VKT33) | [Funny Walkin' \(2017 リマスター\)](https://open.spotify.com/album/1Kzw7ST2rFIQ2CRwvPINkV) | 3:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8zwfXO8sDE6.md) - [plain]
 | 49 | [タバコロード 20](https://open.spotify.com/track/4RElLCLpSglu5Q3GmoSEMY) | [Bread And Butter](https://open.spotify.com/artist/3OldswvDMARe1uWLYSrdEz) | [Late Late Summer](https://open.spotify.com/album/7mmAMvs6tZsPhgXyDmSYEz) | 4:16 |
 | 50 | [JOKER](https://open.spotify.com/track/7qPyQXFok3Dcy6xcHpFHjg) | [KAORU](https://open.spotify.com/artist/6dSipPIaYrwAIoUYF3OUeg) | [ジャスト・マイ・フィーリング +2](https://open.spotify.com/album/4dZTkuCW89dgiRki6f3V7F) | 3:43 |
 
-Snapshot ID: `MCw3YjU5NTJlY2FhMzE4MTJkYTNjNjEzNjRlZGJlM2UzYzYzZmY0M2Vh`
+Snapshot ID: `MCxlMTM1OGNiNzgwZmE5M2ZjMTdmMGJkODY2OTNhM2Y2OTA3MTkwYmFj`

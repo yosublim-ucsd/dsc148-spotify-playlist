@@ -4,7 +4,7 @@
 
 > ¡Asadito a pura cumbia y cuarteto!
 
-141 songs - 8 hr 41 min
+142 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/track/06lBXefqaA4ZUhJCNKkhIv) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [LA T Y LA M \| DJ TAO Turreo Sessions \#16](https://open.spotify.com/album/4mvqMbo0qR6NJZV8oCapIm) | 2:20 | 2023-05-05 |  |
 | [La Ventanita](https://open.spotify.com/track/2dfnK7rHRibkQR93iZn7Z2) | [Grupo Sombras](https://open.spotify.com/artist/2t5LZnlhZW4ctjLQE9qoae) | [Boquita de Caramelo](https://open.spotify.com/album/0zXEyFkwoxht6Bqd3SgnOm) | 4:03 | 2023-05-05 |  |
 | [LATI2](https://open.spotify.com/track/3s0CTts1TlRgJztG3gErvJ) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni) | [LATI2](https://open.spotify.com/album/6aksfRpRyzjh0Hdz2Mp3am) | 3:24 | 2023-05-26 |  |
+| [Linda](https://open.spotify.com/track/5L4iwTXzuuWcV0m0sEDrgj) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Linda](https://open.spotify.com/album/5nzxh5W8SlzljFGpkvY5ey) | 2:58 | 2023-10-10 |  |
 | [Llora me llama](https://open.spotify.com/track/4AN9FuUhpHnaiVw8ZsLu2V) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Grupo Play \(La poesía musical\)](https://open.spotify.com/album/1yST9o2V4nN2eo2Y96KHjR) | 3:12 | 2023-05-05 |  |
 | [Llora Me Llama / Y Tu Con El / Quiero Verte Bailar / Llorarás Mas De Diez Veces / Amor a Medias No](https://open.spotify.com/track/5Ed4IftU2YrSPCjIbUfwQg) | [Fer Palacio](https://open.spotify.com/artist/4frBEXn8nhWzOVwfCSpuYB), [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS) | [Llora Me Llama / Y Tu Con El / Quiero Verte Bailar / Llorarás Mas De Diez Veces / Amor a Medias No](https://open.spotify.com/album/3SPUu8pxUz5yZsXXi1WjKM) | 5:40 | 2023-06-16 | 2023-07-28 |
 | [Llorarás Más de Diez Veces](https://open.spotify.com/track/46kxzCwAMxrneUFJJT1njt) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA), [Carolina Antiman](https://open.spotify.com/artist/290gGqoqPQYcOCD3mvL76T) | [Aún Sigue La Lección](https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG) | 3:31 | 2023-05-05 |  |
@@ -120,7 +121,7 @@
 | [Sin Documentos \- Cover](https://open.spotify.com/track/2jDDaOlTlPIj14ogDGeQO6) | [THE PALMERS](https://open.spotify.com/artist/4ACQyAX2r9xt9k1y1t7jXN) | [Sin Documentos \(Cover\)](https://open.spotify.com/album/57jYr82JRXrEQlt8CWl7lL) | 2:49 | 2023-06-09 | 2023-07-04 |
 | [Son de Amores](https://open.spotify.com/track/7hY45Nsy6op1yjmnEDVIRu) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Amor de Mentiras](https://open.spotify.com/album/2wtKU46kgyPUjDBUc5zIhh) | 2:51 | 2023-05-05 |  |
 | [Soy Cordobes](https://open.spotify.com/track/5wG4J1UECH0c42YhMhSkcS) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Soy Cordobes](https://open.spotify.com/album/20PWLBvxLIh1mo0Cq4tek3) | 5:02 | 2023-05-05 |  |
-| [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 | 2023-05-05 |  |
+| [Soy Sabalero](https://open.spotify.com/track/6MIulZ9FG6Td02EpvFC5ZL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG) | [Soy Sabalero](https://open.spotify.com/album/4E9U7vlfoRlUIi57xcO53W) | 2:59 | 2023-05-05 | 2023-10-11 |
 | [Su Florcita](https://open.spotify.com/track/558S2P5A4Ku4bnXheLaXeG) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Historias](https://open.spotify.com/album/1SEf8KBy0khQM5Hxrk9CYm) | 3:44 | 2023-05-05 |  |
 | [Te Arrepentirás](https://open.spotify.com/track/2J2mlJCRpkPSURHZtFv5eU) | [Jambao](https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG) | [Sonidero Soy](https://open.spotify.com/album/0AbPq586w8qOeaSqN5ZOmX) | 3:30 | 2023-05-05 |  |
 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 | 2023-09-08 | 2023-10-07 |

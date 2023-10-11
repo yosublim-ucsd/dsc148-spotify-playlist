@@ -4,7 +4,7 @@
 
 > This is AWOLNATION\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 44 min
+63 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,8 +23,9 @@
 | [Eye In The Sky \(feat\. Beck\)](https://open.spotify.com/track/4JxXyhC4FAALmp7uXrmsrG) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:03 | 2022-10-26 |  |
 | [flagpole sitta](https://open.spotify.com/track/2IIeiY0ZtqrJLnKZxuLGf1) | [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY), [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [BRAINDEAD](https://open.spotify.com/album/0ljZRCAuKCLVEhqfnw6Ygv) | 3:35 | 2022-10-26 |  |
 | [Flagpole Sitta \(feat\. Elohim\)](https://open.spotify.com/track/5KcdcUuL8YI3PqeQIvJj2H) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Elohim](https://open.spotify.com/artist/6wKxOKEA3K6R2UZ3COLXEY) | [My Echo, My Shadow, My Covers & Me](https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW) | 4:09 | 2022-10-26 |  |
-| [Freaking Me Out](https://open.spotify.com/track/2EgCA8OSliOqPRn30n6XmQ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Freaking Me Out](https://open.spotify.com/album/6cnxGth7ym2xo7cPphvgE0) | 3:28 | 2023-09-15 |  |
+| [Freaking Me Out](https://open.spotify.com/track/2EgCA8OSliOqPRn30n6XmQ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Freaking Me Out](https://open.spotify.com/album/6cnxGth7ym2xo7cPphvgE0) | 3:28 | 2023-09-15 | 2023-10-11 |
 | [Freaking Me Out](https://open.spotify.com/track/3I8U8BMugXc4ZGzAl5IkCc) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Freaking Me Out](https://open.spotify.com/album/4zfYtnA9PxMK3daDkQrqpN) | 3:28 | 2022-10-26 | 2023-09-16 |
+| [Freaking Me Out](https://open.spotify.com/track/523qGN4DKJ4o4IIxWYAobG) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Candy Pop](https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo) | 3:28 | 2023-10-10 |  |
 | [Guilty Filthy Soul](https://open.spotify.com/track/3nyvjKrxPNMnX4GtXIbLJk) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 3:33 | 2022-10-26 |  |
 | [Handyman](https://open.spotify.com/track/2o2RDduVgudcGSLrFaV1D0) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:22 | 2022-10-26 |  |
 | [Here Come the Runts](https://open.spotify.com/track/5HWpx5Pjj9wFROhreH612d) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Here Come the Runts](https://open.spotify.com/album/57zNKp8j0mG1rNtbEVkLMV) | 3:19 | 2022-10-26 |  |
@@ -64,8 +65,9 @@
 | [The Best](https://open.spotify.com/track/6RSVgjjYRtKg4FDyx2Lj1u) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Angel Miners & The Lightning Riders](https://open.spotify.com/album/1rS0FYRCKha4gPkFCVY56j) | 3:43 | 2023-09-15 |  |
 | [Thiskidsnotalright](https://open.spotify.com/track/0dGPGavyiPtOdAGGi11pt3) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony \(10th Anniversary Deluxe Edition\)](https://open.spotify.com/album/5JNXvM5u7H04wj71hDLfux) | 2:41 | 2022-10-26 |  |
 | [Wake Up](https://open.spotify.com/track/1G6veZVvJjrSwCytFAKVkb) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Megalithic Symphony](https://open.spotify.com/album/1fag8cnc5p4Umu4tRMAsLv) | 3:02 | 2022-10-26 |  |
-| [We Are All Insane](https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [We Are All Insane](https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm) | 3:31 | 2023-09-15 |  |
+| [We Are All Insane](https://open.spotify.com/track/00nwT1ZDe2GDohNZ6yjEdQ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [We Are All Insane](https://open.spotify.com/album/5Qxgfs3s3MRiJGEmibeutm) | 3:31 | 2023-09-15 | 2023-10-11 |
 | [We Are All Insane](https://open.spotify.com/track/2N175zTqPQhQ5FHOrgsW3h) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [We Are All Insane](https://open.spotify.com/album/5ymWKh4Tp382PsDDSimpNI) | 3:31 | 2022-11-06 | 2023-09-16 |
+| [We Are All Insane](https://open.spotify.com/track/6tILMsEgA97Eawkz1Ejyj7) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Candy Pop](https://open.spotify.com/album/7mOVZ70TYfJBZqWsrllPvo) | 3:31 | 2023-10-10 |  |
 | [Wind of Change \(feat\. Brandon Boyd of Incubus & Portugal\. The Man\)](https://open.spotify.com/track/6dgniKsterTlem7d54gGjP) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz), [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T), [Brandon Boyd](https://open.spotify.com/artist/0QmjlE852mAIaEt2IpBquO) | [Wind of Change \(feat\. Brandon Boyd of Incubus & Portugal\. The Man\)](https://open.spotify.com/album/5Nu3B843pAWSp8gOCcVxkx) | 5:09 | 2022-10-26 |  |
 | [Windows](https://open.spotify.com/track/6eXfVpYZW6v0VhUaNAh3K9) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 3:37 | 2022-10-26 |  |
 | [Woman Woman](https://open.spotify.com/track/7oaBv3Bx1ySw1QOY0yUxzQ) | [AWOLNATION](https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz) | [Run](https://open.spotify.com/album/6yGp5e6Puhx155c8dQ8e6P) | 3:37 | 2022-10-26 |  |

@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "A Marlene Melody",
+        "url": "https://open.spotify.com/album/0ybpLOZ07qSpsWL2VtpJKB"
+      },
+      "artists": [
+        {
+          "name": "Joaquim Azevedo",
+          "url": "https://open.spotify.com/artist/1ImirIGZrja33BIU3Ww2mH"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157904,
+      "name": "A Marlene Melody",
+      "url": "https://open.spotify.com/track/1vdpvcd1r330uJwTmrcsdT"
+    },
+    {
+      "album": {
         "name": "A String in the Night",
         "url": "https://open.spotify.com/album/2sMWuQaCwsvRsjhc5KIIfH"
       },
@@ -118,6 +136,24 @@
       "duration_ms": 158936,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/5XYAieIJYukSs5yscEgu9w"
+    },
+    {
+      "album": {
+        "name": "Always Shining Bright",
+        "url": "https://open.spotify.com/album/6L94HMfRefYBQlrOTyRt5A"
+      },
+      "artists": [
+        {
+          "name": "Sheila Withmore",
+          "url": "https://open.spotify.com/artist/2rrDq3PBO8pPJxs1CJFbj2"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136107,
+      "name": "Always Shining Bright",
+      "url": "https://open.spotify.com/track/4s561TKv61mdyVq98FtbNk"
     },
     {
       "album": {
@@ -3978,6 +4014,28 @@
       "duration_ms": 201000,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/3MUvt8kUIA6QPSBTEnjgMr"
+    },
+    {
+      "album": {
+        "name": "Sue\u00f1o",
+        "url": "https://open.spotify.com/album/1uW5yFeZO4V0W14SDxG61w"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Escofet",
+          "url": "https://open.spotify.com/artist/4YufEYOotwxOrZxtzdPgS3"
+        },
+        {
+          "name": "Carlos Britez",
+          "url": "https://open.spotify.com/artist/2cgmZKQUmtnBs9XSfnfXax"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183925,
+      "name": "Tia",
+      "url": "https://open.spotify.com/track/2kWVfdLPztoMrIwwwSapdC"
     },
     {
       "album": {

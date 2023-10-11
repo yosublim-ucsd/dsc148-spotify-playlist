@@ -1,12 +1,12 @@
 {
   "description": "Rock sin vueltas. Foto: EMI",
-  "num_followers": 18944,
+  "num_followers": 18974,
   "original_name": "La Frecuencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZTgwYjBkYzllYTNlN2RhNzUxMjYzYWZlODQ2N2MxOGYzYjNiZmIx",
+  "snapshot_id": "MCxhMWUxMGRmMTUxZTA1YmQ2ZTI2ZTEyNmY3ZGUzYzE5YjMwMTczZTE3",
   "tracks": [
     {
       "added_at": "2023-09-07 20:47:52",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2023-09-07 20:47:52",
       "album": {
-        "name": "Ah\u00ed Vamos",
-        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 308946,
-      "name": "Lago en el Cielo",
-      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
-    },
-    {
-      "added_at": "2023-09-07 20:47:52",
-      "album": {
         "name": "La Mosca y la Sopa",
         "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 206200,
       "name": "Un Poco de Amor Franc\u00e9s",
       "url": "https://open.spotify.com/track/1MRhIdcloOD0uiiG3ybXGX"
+    },
+    {
+      "added_at": "2023-09-07 20:47:52",
+      "album": {
+        "name": "Ah\u00ed Vamos",
+        "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 308946,
+      "name": "Lago en el Cielo",
+      "url": "https://open.spotify.com/track/17eJyYLIlMNlOqcwHYJ9F2"
     },
     {
       "added_at": "2023-09-07 20:47:52",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2023-09-07 20:47:52",
       "album": {
-        "name": "Fuerza Natural",
-        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Cerati",
-          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
-        }
-      ],
-      "duration_ms": 234760,
-      "name": "Cactus",
-      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
-    },
-    {
-      "added_at": "2023-09-07 20:47:52",
-      "album": {
         "name": "Lobo Suelto",
         "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 231533,
       "name": "Un \u00c1ngel para Tu Soledad",
       "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
+    },
+    {
+      "added_at": "2023-09-07 20:47:52",
+      "album": {
+        "name": "Fuerza Natural",
+        "url": "https://open.spotify.com/album/51wepZm3YvZfvFxiu7D5F8"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Cerati",
+          "url": "https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "Cactus",
+      "url": "https://open.spotify.com/track/1NeZxBuSEhikl0ZrOSgpuW"
     },
     {
       "added_at": "2023-09-07 20:47:52",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-09-07 20:47:52",
       "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 342173,
-      "name": "Smoke on the Water",
-      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
-    },
-    {
-      "added_at": "2023-09-07 20:47:52",
-      "album": {
         "name": "Se\u00f1ales",
         "url": "https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 289760,
       "name": "Creo",
       "url": "https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ"
+    },
+    {
+      "added_at": "2023-09-07 20:47:52",
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     },
     {
       "added_at": "2023-09-07 20:47:52",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2023-09-07 20:47:52",
       "album": {
-        "name": "Presi\u00f3n",
-        "url": "https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT"
-      },
-      "artists": [
-        {
-          "name": "Callejeros",
-          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
-        }
-      ],
-      "duration_ms": 277560,
-      "name": "Una Nueva Noche Fr\u00eda",
-      "url": "https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA"
-    },
-    {
-      "added_at": "2023-09-07 20:47:52",
-      "album": {
         "name": "La Mosca y la Sopa",
         "url": "https://open.spotify.com/album/0IcpyzTrT0Gp8PVMC9l0NS"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 252760,
       "name": "Arde la Ciudad",
       "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
+    },
+    {
+      "added_at": "2023-09-07 20:47:52",
+      "album": {
+        "name": "Presi\u00f3n",
+        "url": "https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT"
+      },
+      "artists": [
+        {
+          "name": "Callejeros",
+          "url": "https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw"
+        }
+      ],
+      "duration_ms": 277560,
+      "name": "Una Nueva Noche Fr\u00eda",
+      "url": "https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA"
     },
     {
       "added_at": "2023-09-07 20:47:52",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-09-07 20:47:52",
       "album": {
-        "name": "The Best Of The Animals",
-        "url": "https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 269720,
-      "name": "House Of The Rising Sun",
-      "url": "https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap"
-    },
-    {
-      "added_at": "2023-09-07 20:47:52",
-      "album": {
         "name": "De La Cabeza Con Bersuit Vergarabat (Live In Buenos Aires / 2001)",
         "url": "https://open.spotify.com/album/7xdsaV2y15dItFMlsoWTqu"
       },
@@ -1499,18 +1483,18 @@
     {
       "added_at": "2023-09-07 20:47:52",
       "album": {
-        "name": "A Contraluz",
-        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+        "name": "The Best Of The Animals",
+        "url": "https://open.spotify.com/album/0h5qS8o0dAoPfj6bLg3z3Y"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
         }
       ],
-      "duration_ms": 281533,
-      "name": "Va A Escampar",
-      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
+      "duration_ms": 269720,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/61Q9oJNd9hJQFhSDh6Qlap"
     },
     {
       "added_at": "2023-09-07 20:47:52",
@@ -1543,6 +1527,22 @@
       "duration_ms": 334600,
       "name": "Ji Ji Ji",
       "url": "https://open.spotify.com/track/1tW6LiJGXGlReuNP38wrKb"
+    },
+    {
+      "added_at": "2023-09-07 20:47:52",
+      "album": {
+        "name": "A Contraluz",
+        "url": "https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 281533,
+      "name": "Va A Escampar",
+      "url": "https://open.spotify.com/track/4MPwBYidOWnwpKlqQYJEzX"
     },
     {
       "added_at": "2023-09-07 20:47:52",

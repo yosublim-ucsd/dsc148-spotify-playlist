@@ -4,11 +4,12 @@
 
 > All your favourite pop songs, remixed to perfection\. Cover: Hannah Laing
 
-91 songs - 4 hr 57 min
+92 songs - 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [0800 HEAVEN \(feat\. Ella Henderson\) \- Ben Nicky Remix](https://open.spotify.com/track/1Iz54kcegQGncuWqO9JEem) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN \(Ben Nicky Remix\)](https://open.spotify.com/album/0VnydGXs0wcPueO5XjSNr7) | 2:24 | 2023-09-04 |  |
+| [0800 HEAVEN \(feat\. Ella Henderson\) \- Ben Nicky Remix](https://open.spotify.com/track/1Iz54kcegQGncuWqO9JEem) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN \(Ben Nicky Remix\)](https://open.spotify.com/album/0VnydGXs0wcPueO5XjSNr7) | 2:24 | 2023-09-04 | 2023-10-11 |
+| [0800 HEAVEN \(feat\. Ella Henderson\) \- Ben Nicky Remix](https://open.spotify.com/track/3BAmNWlTP90FfHkvXd6tq0) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Ben Nicky](https://open.spotify.com/artist/3Bd1phrOZJuCev9U0bzdtA), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [0800 HEAVEN \(feat\. Ella Henderson\) \[Ben Nicky Remix\]](https://open.spotify.com/album/2zD8miHJaNZvAByGuDsLY8) | 2:24 | 2023-09-22 |  |
 | [10:35 \(feat\. Tate McRae\) \- Joel Corry Remix](https://open.spotify.com/track/6HJTudh3Zd7WfxJHOHsvDB) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35 \(feat\. Tate McRae\) \[The Remixes\]](https://open.spotify.com/album/3das2a1AZx2zx9HfBwIwWo) | 3:01 | 2023-04-12 |  |
 | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [2 Be Loved \(Am I Ready\) \[PNAU Remix\]](https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in) | 3:42 | 2023-04-12 |  |
 | [2step \(Star.One Remix\)](https://open.spotify.com/track/2LrutkvIJOqQWj47eYNgG6) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4) | [2step \(Star.One Remix\)](https://open.spotify.com/album/5FcOvF4YukVnIkqxNcqopa) | 3:25 | 2022-06-20 | 2023-04-13 |

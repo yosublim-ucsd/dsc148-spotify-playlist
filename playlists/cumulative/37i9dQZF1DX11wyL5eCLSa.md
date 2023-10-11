@@ -2,7 +2,7 @@
 
 ### [EL ROCK NO HA MUERTO](https://open.spotify.com/playlist/37i9dQZF1DX11wyL5eCLSa)
 
-> Sangre fresca en las escenas del indie y el rock\. Little Jesus en Portada.
+> Sangre fresca en las escenas del indie y el rock\. Jay de la Cueva en Portada.
 
 361 songs - 21 hr 54 min
 

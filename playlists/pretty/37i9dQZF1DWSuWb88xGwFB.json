@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 29987,
+  "num_followers": 30008,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZTU4MzM5OTYzNGQ3MzE2NjcxZDViMTEzM2I2Mjg1NjEyMmNlN2Ji",
+  "snapshot_id": "MCw0MDA3NzYwZTQ4YzVmMjNmMWYzM2ZjNDA5NDU0MjdjZGU3OGVlNmYz",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Blues for You (Remixes)",
+        "url": "https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "Blues For You - Hard Dub",
+      "url": "https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Get Down (feat. Kenny Dope, DJ Sneak, Terry Hunter, Tara McDonald) [Pt. 1]",
         "url": "https://open.spotify.com/album/46AATm4VBOMkOoljqYBQl0"
       },
@@ -231,22 +247,6 @@
       "duration_ms": 356440,
       "name": "Get Down (feat. Kenny Dope & DJ Sneak & Terry Hunter & Tara McDonald) - Kenny Dope Mix",
       "url": "https://open.spotify.com/track/0xP5kC9fdXfKrgY2Dyp0sx"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Blues for You (Remixes)",
-        "url": "https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU"
-      },
-      "artists": [
-        {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "Blues For You - Hard Dub",
-      "url": "https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -391,18 +391,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
-        "url": "https://open.spotify.com/album/1nMJ9jbG9i0Fw6cT71dAHZ"
+        "name": "Armand Van Helden EP",
+        "url": "https://open.spotify.com/album/58ttEVW3bFlonAE953mlLO"
       },
       "artists": [
         {
           "name": "Armand Van Helden",
           "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Eddie Thoneick",
+          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
         }
       ],
-      "duration_ms": 595093,
-      "name": "Witch Doktor - The Dark Ages Mix",
-      "url": "https://open.spotify.com/track/2QrcjPTkg4u4xZ2EgCOTrN"
+      "duration_ms": 445026,
+      "name": "Witch Doktor - Eddie Thoneick Remix",
+      "url": "https://open.spotify.com/track/26RFEEWbcAQFJInKdrS8B5"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -487,22 +491,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Armand Van Helden EP",
-        "url": "https://open.spotify.com/album/58ttEVW3bFlonAE953mlLO"
+        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
+        "url": "https://open.spotify.com/album/1nMJ9jbG9i0Fw6cT71dAHZ"
       },
       "artists": [
         {
           "name": "Armand Van Helden",
           "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Eddie Thoneick",
-          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
         }
       ],
-      "duration_ms": 445026,
-      "name": "Witch Doktor - Eddie Thoneick Remix",
-      "url": "https://open.spotify.com/track/26RFEEWbcAQFJInKdrS8B5"
+      "duration_ms": 595093,
+      "name": "Witch Doktor - The Dark Ages Mix",
+      "url": "https://open.spotify.com/track/2QrcjPTkg4u4xZ2EgCOTrN"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -611,18 +611,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Indonesia",
-        "url": "https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll"
+        "name": "Strictly Hardrive",
+        "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
       },
       "artists": [
         {
-          "name": "Circle Children",
-          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
+          "name": "Hardrive",
+          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
+        },
+        {
+          "name": "L.G.",
+          "url": "https://open.spotify.com/artist/1C9jCVewiz4TYKbGD2A6EA"
         }
       ],
-      "duration_ms": 362666,
-      "name": "Indonesia - Sambal Badjak Mix",
-      "url": "https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN"
+      "duration_ms": 350066,
+      "name": "Sindae (feat. L.G.) - Masters At Work Club Mix",
+      "url": "https://open.spotify.com/track/7HoUdaD3icSlL6A0xr5zgf"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -647,22 +651,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Hardrive",
-        "url": "https://open.spotify.com/album/14x3SHtMUuobFMVnzRO1rt"
+        "name": "Indonesia",
+        "url": "https://open.spotify.com/album/4Uucb977IOqbwV2aNURxll"
       },
       "artists": [
         {
-          "name": "Hardrive",
-          "url": "https://open.spotify.com/artist/0IF4B0ZFCLAbcshTusfEl1"
-        },
-        {
-          "name": "L.G.",
-          "url": "https://open.spotify.com/artist/1C9jCVewiz4TYKbGD2A6EA"
+          "name": "Circle Children",
+          "url": "https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP"
         }
       ],
-      "duration_ms": 350066,
-      "name": "Sindae (feat. L.G.) - Masters At Work Club Mix",
-      "url": "https://open.spotify.com/track/7HoUdaD3icSlL6A0xr5zgf"
+      "duration_ms": 362666,
+      "name": "Indonesia - Sambal Badjak Mix",
+      "url": "https://open.spotify.com/track/5hux2aFTJbGZHuN0LtGQeN"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
-        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 433373,
-      "name": "I Get Lifted - The Underground Network Mix",
-      "url": "https://open.spotify.com/track/5wH0Jg5a4WOL5elQhOPSDc"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Love Trax",
         "url": "https://open.spotify.com/album/1VyhBbnfZeiB5d5YGcxVU9"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 406131,
       "name": "Love Trax - Love Izz",
       "url": "https://open.spotify.com/track/6Aiahrv9IoKgTb7OqOaqp5"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Strictly Rhythm Est. 1989: 20 Years of Classics",
+        "url": "https://open.spotify.com/album/2dVYsrHXFekyramy50OdGn"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 433373,
+      "name": "I Get Lifted - The Underground Network Mix",
+      "url": "https://open.spotify.com/track/5wH0Jg5a4WOL5elQhOPSDc"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Stay Together",
-        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 777626,
-      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
-      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
         "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 471692,
       "name": "Tyler Moore Mary",
       "url": "https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Stay Together",
+        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 777626,
+      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
+      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "In Da Clouds",
-        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
-      },
-      "artists": [
-        {
-          "name": "Sneak Essentials",
-          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
-        }
-      ],
-      "duration_ms": 518960,
-      "name": "In Da Clouds - Da Dub",
-      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Straight from the Bario EP",
         "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 372800,
       "name": "The Bombero Remix 96",
       "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "In Da Clouds",
+        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
+      },
+      "artists": [
+        {
+          "name": "Sneak Essentials",
+          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
+        }
+      ],
+      "duration_ms": 518960,
+      "name": "In Da Clouds - Da Dub",
+      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Muzik",
-        "url": "https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Pierre",
-          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
-        }
-      ],
-      "duration_ms": 379760,
-      "name": "Muzik - The Siren Mix",
-      "url": "https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Move Your Body (feat. LaVette) [Mixes]",
         "url": "https://open.spotify.com/album/7pwWTloEJg93j4bw8obPfH"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 228238,
       "name": "Move Your Body (feat. LaVette) - Radio Mix",
       "url": "https://open.spotify.com/track/6fFY4e2cHZ0EMXa0J1cDlD"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Muzik",
+        "url": "https://open.spotify.com/album/22swBlMglQzlAP1G0GeXJJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Pierre",
+          "url": "https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU"
+        }
+      ],
+      "duration_ms": 379760,
+      "name": "Muzik - The Siren Mix",
+      "url": "https://open.spotify.com/track/6IqCfijEdjDSKHN3ZCBEOU"
     },
     {
       "added_at": "2022-03-03 13:59:16",

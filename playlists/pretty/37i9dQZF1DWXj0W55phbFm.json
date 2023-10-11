@@ -1,12 +1,12 @@
 {
   "description": "The classic trumpet players in Jazz. Cover: Miles Davis",
-  "num_followers": 38951,
+  "num_followers": 39029,
   "original_name": "Jazz Trumpet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YTc5NzVmY2IxNjBmYTA2OTIzMmE5ZTUwMTBhYjA3NzM1Zjc0YzE4",
+  "snapshot_id": "MCwzMTcyNWQ2OGRkYTE2ZTljYmQ2ZjBjODVhZjA3ZjdiYTk4NDc4MzFj",
   "tracks": [
     {
       "added_at": "2023-09-22 11:06:54",
@@ -527,22 +527,6 @@
     {
       "added_at": "2023-09-22 11:06:54",
       "album": {
-        "name": "Art",
-        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
-      },
-      "artists": [
-        {
-          "name": "Art Farmer",
-          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
-        }
-      ],
-      "duration_ms": 343533,
-      "name": "Younger Than Springtime",
-      "url": "https://open.spotify.com/track/77iHjhK7iJct2ehEfCDh7Y"
-    },
-    {
-      "added_at": "2023-09-22 11:06:54",
-      "album": {
         "name": "Relaxin' with Nick",
         "url": "https://open.spotify.com/album/3FXM1Oj2O936SuRHSl6Oc6"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 459186,
       "name": "Relaxin' with Nick",
       "url": "https://open.spotify.com/track/11QqXPoYDC1wLjBrVUJ6AU"
+    },
+    {
+      "added_at": "2023-09-22 11:06:54",
+      "album": {
+        "name": "Art",
+        "url": "https://open.spotify.com/album/3jsIHlh7BZr0HHvzPHi84G"
+      },
+      "artists": [
+        {
+          "name": "Art Farmer",
+          "url": "https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u"
+        }
+      ],
+      "duration_ms": 343533,
+      "name": "Younger Than Springtime",
+      "url": "https://open.spotify.com/track/77iHjhK7iJct2ehEfCDh7Y"
     },
     {
       "added_at": "2023-09-22 11:06:54",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-22 11:06:54",
       "album": {
-        "name": "Buoyancy",
-        "url": "https://open.spotify.com/album/1INC2K6yyGoafXSqHrdAAv"
-      },
-      "artists": [
-        {
-          "name": "Nils Petter Molv\u00e6r",
-          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
-        }
-      ],
-      "duration_ms": 228346,
-      "name": "Gilimanuk",
-      "url": "https://open.spotify.com/track/330Ke2S95HMiuZwykzcFCW"
-    },
-    {
-      "added_at": "2023-09-22 11:06:54",
-      "album": {
         "name": "Work Song",
         "url": "https://open.spotify.com/album/2HtCcOEDNsiPYBMiVUzEHa"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 255720,
       "name": "Work Song",
       "url": "https://open.spotify.com/track/03IIOmaxjRFVCunMf4SOgD"
+    },
+    {
+      "added_at": "2023-09-22 11:06:54",
+      "album": {
+        "name": "Buoyancy",
+        "url": "https://open.spotify.com/album/1INC2K6yyGoafXSqHrdAAv"
+      },
+      "artists": [
+        {
+          "name": "Nils Petter Molv\u00e6r",
+          "url": "https://open.spotify.com/artist/2r1f1zkIjuQ7ETeJHsXpsc"
+        }
+      ],
+      "duration_ms": 228346,
+      "name": "Gilimanuk",
+      "url": "https://open.spotify.com/track/330Ke2S95HMiuZwykzcFCW"
     },
     {
       "added_at": "2023-09-22 11:06:54",
@@ -1099,38 +1099,6 @@
     {
       "added_at": "2023-09-22 11:06:54",
       "album": {
-        "name": "Moving Picture",
-        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
-      },
-      "artists": [
-        {
-          "name": "Tom Harrell",
-          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
-        }
-      ],
-      "duration_ms": 312313,
-      "name": "Apple House",
-      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
-    },
-    {
-      "added_at": "2023-09-22 11:06:54",
-      "album": {
-        "name": "The Cooker",
-        "url": "https://open.spotify.com/album/4qHvDIHdLQfX0aZr7MrGDw"
-      },
-      "artists": [
-        {
-          "name": "Lee Morgan",
-          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
-        }
-      ],
-      "duration_ms": 560080,
-      "name": "A Night In Tunisia - Rudy Van Gelder Edition/2006 Digital Remaster",
-      "url": "https://open.spotify.com/track/2nHFS2Ia5BZRS9X6zzlURI"
-    },
-    {
-      "added_at": "2023-09-22 11:06:54",
-      "album": {
         "name": "Hard Talk (Live)",
         "url": "https://open.spotify.com/album/4ChlCGT8tJgkGPX1FNpoMb"
       },
@@ -1155,6 +1123,22 @@
     {
       "added_at": "2023-09-22 11:06:54",
       "album": {
+        "name": "The Cooker",
+        "url": "https://open.spotify.com/album/4qHvDIHdLQfX0aZr7MrGDw"
+      },
+      "artists": [
+        {
+          "name": "Lee Morgan",
+          "url": "https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX"
+        }
+      ],
+      "duration_ms": 560080,
+      "name": "A Night In Tunisia - Rudy Van Gelder Edition/2006 Digital Remaster",
+      "url": "https://open.spotify.com/track/2nHFS2Ia5BZRS9X6zzlURI"
+    },
+    {
+      "added_at": "2023-09-22 11:06:54",
+      "album": {
         "name": "Open Sesame (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 336266,
       "name": "All Or Nothing At All - Remastered 2002/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/7AA3gxoDwLN8NuVfZ5NEt9"
+    },
+    {
+      "added_at": "2023-09-22 11:06:54",
+      "album": {
+        "name": "Moving Picture",
+        "url": "https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh"
+      },
+      "artists": [
+        {
+          "name": "Tom Harrell",
+          "url": "https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc"
+        }
+      ],
+      "duration_ms": 312313,
+      "name": "Apple House",
+      "url": "https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL"
     },
     {
       "added_at": "2023-09-22 11:06:54",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-09-22 11:06:54",
       "album": {
+        "name": "Booker Little",
+        "url": "https://open.spotify.com/album/0twakPw6aDIemJCBgS37dT"
+      },
+      "artists": [
+        {
+          "name": "Booker Little",
+          "url": "https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv"
+        }
+      ],
+      "duration_ms": 413387,
+      "name": "Life's A Little Blue",
+      "url": "https://open.spotify.com/track/3Rayx79t9q4nTO2xzdO8IE"
+    },
+    {
+      "added_at": "2023-09-22 11:06:54",
+      "album": {
         "name": "Brecker Plays Rovatti - Sacred Bond",
         "url": "https://open.spotify.com/album/3ZjB52AfGeg45m1Tlsw0JT"
       },
@@ -1495,22 +1511,6 @@
       "duration_ms": 632253,
       "name": "The Baggae",
       "url": "https://open.spotify.com/track/6NfuKhkjmPWOstx6TIjqtl"
-    },
-    {
-      "added_at": "2023-09-22 11:06:54",
-      "album": {
-        "name": "Booker Little",
-        "url": "https://open.spotify.com/album/0twakPw6aDIemJCBgS37dT"
-      },
-      "artists": [
-        {
-          "name": "Booker Little",
-          "url": "https://open.spotify.com/artist/0EVTtmYUUanPKBFdPcSYiv"
-        }
-      ],
-      "duration_ms": 413387,
-      "name": "Life's A Little Blue",
-      "url": "https://open.spotify.com/track/3Rayx79t9q4nTO2xzdO8IE"
     },
     {
       "added_at": "2023-09-22 11:06:54",
@@ -1535,6 +1535,22 @@
       "duration_ms": 298493,
       "name": "Embraceable You",
       "url": "https://open.spotify.com/track/6bvCNMtf3FozBg2zZOh4TP"
+    },
+    {
+      "added_at": "2023-09-22 11:06:54",
+      "album": {
+        "name": "Jazz 'Round Midnight",
+        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
+      },
+      "artists": [
+        {
+          "name": "Ben Webster",
+          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
+        }
+      ],
+      "duration_ms": 413333,
+      "name": "You're Getting To Be A Habit With Me",
+      "url": "https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN"
     },
     {
       "added_at": "2023-09-22 11:06:54",
@@ -1567,22 +1583,6 @@
       "duration_ms": 422480,
       "name": "Tipsy",
       "url": "https://open.spotify.com/track/4wq7y8LXpdggPxEwD4ytDd"
-    },
-    {
-      "added_at": "2023-09-22 11:06:54",
-      "album": {
-        "name": "Jazz 'Round Midnight",
-        "url": "https://open.spotify.com/album/52pUEHXKxuDGs1TkdfKefD"
-      },
-      "artists": [
-        {
-          "name": "Ben Webster",
-          "url": "https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk"
-        }
-      ],
-      "duration_ms": 413333,
-      "name": "You're Getting To Be A Habit With Me",
-      "url": "https://open.spotify.com/track/7KA4JQkbGTry5ZzlyRjzZN"
     },
     {
       "added_at": "2023-09-22 11:06:54",
@@ -1667,6 +1667,26 @@
     {
       "added_at": "2023-09-22 11:06:54",
       "album": {
+        "name": "Self Determination Music",
+        "url": "https://open.spotify.com/album/3CbtFB8aQJZJ1Q1lDxWf8K"
+      },
+      "artists": [
+        {
+          "name": "John Carter",
+          "url": "https://open.spotify.com/artist/29bSP1G67IixkZAv6VhlaT"
+        },
+        {
+          "name": "Bobby Bradford",
+          "url": "https://open.spotify.com/artist/3iysE3N9e6nZZ6kHUoiOCl"
+        }
+      ],
+      "duration_ms": 550213,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/1SUB0RBI6008FD3K8TPXAJ"
+    },
+    {
+      "added_at": "2023-09-22 11:06:54",
+      "album": {
         "name": "Dusty Blue",
         "url": "https://open.spotify.com/album/6ZtGsmFIs8KxA4ovr9ScHU"
       },
@@ -1695,22 +1715,18 @@
     {
       "added_at": "2023-09-22 11:06:54",
       "album": {
-        "name": "Self Determination Music",
-        "url": "https://open.spotify.com/album/3CbtFB8aQJZJ1Q1lDxWf8K"
+        "name": "Gemini II",
+        "url": "https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm"
       },
       "artists": [
         {
-          "name": "John Carter",
-          "url": "https://open.spotify.com/artist/29bSP1G67IixkZAv6VhlaT"
-        },
-        {
-          "name": "Bobby Bradford",
-          "url": "https://open.spotify.com/artist/3iysE3N9e6nZZ6kHUoiOCl"
+          "name": "Marcus Belgrave",
+          "url": "https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX"
         }
       ],
-      "duration_ms": 550213,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/1SUB0RBI6008FD3K8TPXAJ"
+      "duration_ms": 337040,
+      "name": "Gemini II",
+      "url": "https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w"
     },
     {
       "added_at": "2023-09-22 11:06:54",
@@ -1727,22 +1743,6 @@
       "duration_ms": 514293,
       "name": "I'll Remember April",
       "url": "https://open.spotify.com/track/02PJNMCcSeY6uv9EYRh4Fx"
-    },
-    {
-      "added_at": "2023-09-22 11:06:54",
-      "album": {
-        "name": "Gemini II",
-        "url": "https://open.spotify.com/album/3t24XQw59bKiLTFjO49vAm"
-      },
-      "artists": [
-        {
-          "name": "Marcus Belgrave",
-          "url": "https://open.spotify.com/artist/3RCx5My8byOMt36OUepQrX"
-        }
-      ],
-      "duration_ms": 337040,
-      "name": "Gemini II",
-      "url": "https://open.spotify.com/track/3J0WqvlOdjtskh6cTbUd2w"
     },
     {
       "added_at": "2023-09-22 11:06:54",

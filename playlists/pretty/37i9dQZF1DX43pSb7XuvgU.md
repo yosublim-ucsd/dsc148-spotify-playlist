@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 
 > Los grandes éxitos de José José y Juan Gabriel en un mismo lugar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,241 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,364 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 90 | [De Mí Enamórate \(En Vivo\) \- En el Palacio de Bellas Artes](https://open.spotify.com/track/1nxQjDGVHaaLNBD0uQMSTO) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [En el Palacio de Bellas Artes](https://open.spotify.com/album/5M3SIJXfL9RQOCUOaXI7TI) | 4:35 |
 | 91 | [Así Fue](https://open.spotify.com/track/7HGymGTKfdACYRI4g7H2Gu) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Isabel Pantoja](https://open.spotify.com/artist/0G2qO3Wbj6WmCTFgcsJ1Eo) | [Los Dúo](https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ) | 6:32 |
 | 92 | [Costumbres \- En Vivo \[Desde el Instituto Nacional de Bellas Artes\]](https://open.spotify.com/track/2F7podTOpnJDZxU9KMZK9a) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Lo Mejor en Bellas Artes \- 40 Aniversario](https://open.spotify.com/album/4hpY1ryuyFipmOovXGoT88) | 6:31 |
-| 93 | [Siempre Estoy Pensando en Ti \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Mariachi México 70 De Pepe López](https://open.spotify.com/artist/0ay6m3OlBxTuEwu1NFHlZI) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 3:29 |
-| 94 | [Contigo en la Distancia \(with Carlos Cuevas\)](https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 3:48 |
+| 93 | [Contigo en la Distancia \(with Carlos Cuevas\)](https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 3:48 |
+| 94 | [Siempre Estoy Pensando en Ti \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/track/3I8DsEUbuONtbZmkwfz4Gp) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq), [Mariachi México 70 De Pepe López](https://open.spotify.com/artist/0ay6m3OlBxTuEwu1NFHlZI) | [Con Mariachi Vol.2 \(with El Mariachi México '70 de Pepe López\)](https://open.spotify.com/album/3pEHzLdkPor0RrnvSmvXmd) | 3:29 |
 | 95 | [Mi Vida](https://open.spotify.com/track/0eXhCBr3S9MlyUpW42aSyU) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Musica Original De La Pelicula Gavilan O Paloma](https://open.spotify.com/album/1QiCz8Wjz3lJLZnK7PEVhy) | 4:06 |
 | 96 | [Almohada \- Revisitado](https://open.spotify.com/track/6IpLEAgmrhtbWwawz99r5u) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [José por Siempre José](https://open.spotify.com/album/20cSzDuNZl8JfbIz6csFuh) | 3:37 |
 | 97 | [Tu Primera Vez](https://open.spotify.com/track/0ocXsGuBCyXZPOutMqx830) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [El Príncipe de la Canción](https://open.spotify.com/album/1qaiRe9m8bfAEdeCr1BGnB) | 4:25 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43pSb7XuvgU.md) - [plain]
 | 99 | [Me Gustas Mucho](https://open.spotify.com/track/3dUBc9jP4pXzHO8gYOnrhG) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Mis Mejores Momentos Con La Banda Sinaloense El Recodo De Cruz Lizarraga](https://open.spotify.com/album/0iD5chSyhCik10Ra0TcpaT) | 2:35 |
 | 100 | [Me Basta \(with Leonel García\)](https://open.spotify.com/track/3OEIHCmRGzhcG3BI8ybSNm) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV), [Leonel García](https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay) | [José José Duetos Volumen 1](https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT) | 4:02 |
 
-Snapshot ID: `MCxiMTFjNzE5ZDFjZjhjYjdiNWE1NmMwZTQyY2E2ZTVkMjg3YzM4YTEz`
+Snapshot ID: `MCw4ZDU3YmUzZTczNjllZWY5MTAxNmJlZTlhOTQ5MDMwZjE3YjQ4MmU4`

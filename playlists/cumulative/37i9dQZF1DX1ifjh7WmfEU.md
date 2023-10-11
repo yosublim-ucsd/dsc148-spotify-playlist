@@ -4,7 +4,7 @@
 
 > Affirmations\. Intentions\. Skin Care\. Self Care.
 
-206 songs - 9 hr 4 min
+213 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,13 +16,16 @@
 | [About the End of Eternity](https://open.spotify.com/track/1LaSxfLv8lUGKfWbzSXIl0) | [Laurence Ipsum](https://open.spotify.com/artist/3Sbysu416ipsLD2jnhMqYE) | [About the End of Eternity](https://open.spotify.com/album/1ci0li5cBNsj6Po6EgZtkb) | 2:50 | 2022-05-27 |  |
 | [Across The Fields](https://open.spotify.com/track/2UWdKLbBqqjWjqE7NPLBKH) | [Morunas](https://open.spotify.com/artist/36RxHbl3Duv6WNJjOGPhV4) | [Across The Fields](https://open.spotify.com/album/68c3h4zAoaRybQloxoXHOk) | 2:23 | 2023-08-07 |  |
 | [Act Of Reconciling](https://open.spotify.com/track/3iTgM3cDPpZCQ4GL1pP0Ss) | [Herbe Matin](https://open.spotify.com/artist/6ooqIGgwn5wqQdlFshdBLv) | [Act Of Reconciling](https://open.spotify.com/album/5KqKLlDwZLdA9M5nvVUWSS) | 2:23 | 2023-01-26 |  |
+| [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 | 2023-10-10 |  |
 | [Alba](https://open.spotify.com/track/5eEYSPaVwg4Fe1KCMYunQf) | [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Alba](https://open.spotify.com/album/1TRZDyBjo3syOMRNL6luIq) | 2:32 | 2022-05-27 |  |
 | [am ersten Tag](https://open.spotify.com/track/2gwhISMkdlhEqEP60P93Z1) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [Time Line](https://open.spotify.com/album/40ZYcEHUVHnjvbFEAkj2ns) | 2:10 | 2022-05-27 |  |
 | [Aquiver](https://open.spotify.com/track/3QaYNoyQzsOFfek0pTgqWi) | [Milo Liana](https://open.spotify.com/artist/28ZZN2aHGcGWIWCPSQYwPP) | [Aquiver](https://open.spotify.com/album/3O0QTpArfcQTNdpVzUGVJy) | 1:59 | 2022-05-27 |  |
 | [Arcticgrey](https://open.spotify.com/track/0zhaw7PAf3Wofl1yANAOa0) | [The Masked Pianoman](https://open.spotify.com/artist/64UONbUX7NpjNZt3amXLV1) | [Arcticgrey](https://open.spotify.com/album/4e3FQVTO1Sa0Tsmu3C7IMt) | 2:02 | 2022-05-27 |  |
 | [As We Fall In Love Again](https://open.spotify.com/track/2lwkWns2UHsmppqcpjIl5R) | [Joy Meyer\-Williams](https://open.spotify.com/artist/0uGHltM64FZJWH1uOr8YWU) | [As We Fall In Love Again](https://open.spotify.com/album/37lCe2jTM8UEYXcS1tESar) | 2:50 | 2022-05-27 |  |
+| [At A Glance](https://open.spotify.com/track/2UsLov7NMKkN1Uh9WUBEw9) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [At A Glance](https://open.spotify.com/album/4vBxCrmYU5niiq6ihQiYd0) | 2:37 | 2023-10-10 |  |
 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 | 2022-05-27 | 2022-09-16 |
 | [At The Other End](https://open.spotify.com/track/4UfJ7pMdJMCyg2nO2pLjBr) | [Benji Saito](https://open.spotify.com/artist/7aapBhkAQIThSLx9Iza17r) | [At The Other End](https://open.spotify.com/album/2pM2VdN7Mv3yaFa289bgp4) | 2:49 | 2022-07-27 |  |
+| [Aurora](https://open.spotify.com/track/2bHfIDLkWeCXSg4ehFuUlo) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Aurora](https://open.spotify.com/album/2Zf3XnfqZ8f23RyehUilEC) | 3:01 | 2023-10-10 |  |
 | [Beautiful](https://open.spotify.com/track/7yXwSf40aUSSRQTAjg2TRV) | [Halbert Stone](https://open.spotify.com/artist/2iLk7f4nMNmLZytDO6vaYc) | [Beautiful](https://open.spotify.com/album/1u4j15TBVVYGUi7pZsYqGF) | 2:34 | 2022-05-27 |  |
 | [Belle Vie De Tous Les Jours](https://open.spotify.com/track/3irfOZS30z0snSh5vOPs2V) | [Baudouin Béringer](https://open.spotify.com/artist/1zQiEG2u3FSEMD9QU0Brxg) | [Belle Vie De Tous Les Jours](https://open.spotify.com/album/2dYmnpSKtsLNFONuHvofaI) | 2:37 | 2022-05-27 |  |
 | [Beneath Your Smile](https://open.spotify.com/track/4XnsaU3RkUS7o0nqLIUqW7) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Beneath Your Smile](https://open.spotify.com/album/6pMxigWt9M25pZsLTaGam8) | 4:46 | 2022-05-27 | 2022-07-28 |
@@ -87,10 +90,12 @@
 | [Ichi](https://open.spotify.com/track/0UkREomqApLByCfaqCkLIU) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [Ichi](https://open.spotify.com/album/2iN6rDyhD5EDMx8gWJkZXP) | 3:00 | 2022-07-27 |  |
 | [Ichi](https://open.spotify.com/track/3nWfKsWoaCSH7Z6vNN2v8X) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [Ichi](https://open.spotify.com/album/4wPcgep4roXHBItiHY6YXc) | 3:00 | 2022-05-27 | 2022-07-29 |
 | [Ichi](https://open.spotify.com/track/73HaoXa8YdZlfAmcbMl8oI) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3), [Yoko Komatsu](https://open.spotify.com/artist/3xQF7ByzaSrLh8B4unEq1E) | [Sayuru](https://open.spotify.com/album/4mghw6f4bbNJDMqpBPimGb) | 3:00 | 2022-09-23 | 2022-11-13 |
+| [If I Told Him](https://open.spotify.com/track/0HspurIsQT5VsX9UD2D28q) | [Maybelle Watson](https://open.spotify.com/artist/0r0MT1SFBOA04mUgXA5PzX) | [If I Told Him](https://open.spotify.com/album/58xwZGnCeeKs4knfEr2oun) | 2:27 | 2023-10-10 |  |
 | [If You Must Go](https://open.spotify.com/track/6u3YEpTK7Hc4mc2TIXCZeB) | [Larry McDavid](https://open.spotify.com/artist/7hAPV8dP6bbuFTeoINNcqz) | [If You Must Go](https://open.spotify.com/album/3jEulBsDS8z6IMdS3GzSmd) | 2:07 | 2022-05-27 |  |
 | [Il Colibrì](https://open.spotify.com/track/52gy2KpFkLkAERIhMCYESc) | [Carlo Boscoli](https://open.spotify.com/artist/4CeLc2a4z354klArJA9WQi) | [Il Colibrì](https://open.spotify.com/album/6f8TkltJJk7J25Oo6KkBzS) | 2:30 | 2022-05-27 |  |
 | [Impressions](https://open.spotify.com/track/2IxfYyUQFZWoopvcfOmKnV) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Impressions](https://open.spotify.com/album/319m1F9IJTZ6ups51e1m4N) | 2:43 | 2022-05-27 |  |
 | [In Essence](https://open.spotify.com/track/22wf4F0EwtjXyPbg0kioHm) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Quiet Conversation](https://open.spotify.com/album/4U8TIDkfNdGeuKcFw8SgoB) | 3:44 | 2022-05-27 |  |
+| [In my arms](https://open.spotify.com/track/54y634vST5xlwpSMwKcXoK) | [Limestone Quarry](https://open.spotify.com/artist/4VhlhOe3FHkPzW4BsYR9EC) | [In my arms](https://open.spotify.com/album/0eQUSx23ROwXjwPKo0BQLo) | 3:26 | 2023-10-10 |  |
 | [In retrospect](https://open.spotify.com/track/793mOeLUue7vfLXSk7C8iN) | [Eberina](https://open.spotify.com/artist/3VPVhQsx3V6CNIjMr0EQf4) | [In retrospect](https://open.spotify.com/album/1fqcmYp1LNskW9AJX4WYMl) | 1:54 | 2023-07-12 |  |
 | [In the break of dawn](https://open.spotify.com/track/6IB2ZyzLmfydwyjnkdFSLZ) | [June Allen](https://open.spotify.com/artist/6euKOo2L9Z7YcUbw682sfJ) | [In the break of dawn](https://open.spotify.com/album/7I4yr1cj7ZXkis8vCvgX3R) | 3:04 | 2022-05-27 |  |
 | [In the meadow](https://open.spotify.com/track/13oOeedL25UFGZ1XNibTrU) | [Eve Dennison](https://open.spotify.com/artist/7BmoRv7JYnIZhZfy4M1aCK) | [In the meadow](https://open.spotify.com/album/0vuFZryPuXNBlpCSqF55Cn) | 3:36 | 2022-05-27 |  |
@@ -124,6 +129,7 @@
 | [Nefoedd](https://open.spotify.com/track/7fpv4K07BD9tUC852Mw5Lz) | [Chieloka](https://open.spotify.com/artist/3IBhxjT8AiBiz7DpMUEjEj) | [Nefoedd](https://open.spotify.com/album/78pQK6kW8RktRkQA0nqUkI) | 2:49 | 2022-05-27 |  |
 | [New Day](https://open.spotify.com/track/5p7DcsDqbHeMO02ZusP48R) | [Andrea Monet](https://open.spotify.com/artist/44OGVPM58fHybAAajAAHxk) | [New Day](https://open.spotify.com/album/0eYAsTv3fBqPMwY1FlbDvl) | 2:51 | 2022-05-27 |  |
 | [New Moon](https://open.spotify.com/track/4SWqlyQxKodNKeirLkcysT) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [Beyond The Horizon](https://open.spotify.com/album/424n6K5q9ff7X0dUJooPZn) | 3:00 | 2022-05-27 |  |
+| [Night Clouds](https://open.spotify.com/track/0OpqhQTV2qBimQyFhQAuDF) | [Domi Nova](https://open.spotify.com/artist/1Ld0guzIxggCOIbkE319nz) | [Night Clouds](https://open.spotify.com/album/7lSnDLFVQkxKYmtPQWeFTd) | 2:52 | 2023-10-10 |  |
 | [Niyama](https://open.spotify.com/track/1naTK7gcgguEhzFhlP75gH) | [Lapeito](https://open.spotify.com/artist/4g9wSQI9AFFbUpuFqxvrEW) | [Niyama](https://open.spotify.com/album/5I4Ye4hI9UqXtya46Fui0i) | 3:24 | 2022-09-15 |  |
 | [Nouvel Agneau](https://open.spotify.com/track/2CTRsFkCzXEafseF4MLRN9) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Nouvel Agneau](https://open.spotify.com/album/2eJoenU9jJik7za0y7C02w) | 2:19 | 2022-07-27 |  |
 | [Ocean Heart](https://open.spotify.com/track/4TXzJ0L5gMumCwrlEgyRZL) | [Hazel Adams](https://open.spotify.com/artist/7k5pLfgL1ELz5X4SxuYoBK) | [Ocean Heart](https://open.spotify.com/album/7ogcQaTj5cbsbDdmo6REqL) | 2:52 | 2022-05-27 |  |
@@ -194,6 +200,7 @@
 | [Une chambre](https://open.spotify.com/track/1yLwh6aAl8wA0e9bhiAUcu) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Une chambre](https://open.spotify.com/album/5pVmk2BMssNvJui9WpOYi7) | 2:42 | 2022-05-27 |  |
 | [Une histoire d’amour](https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E) | [Cedric Moulin](https://open.spotify.com/artist/5igteH2LK1oMa7KinT2Qx3) | [Une histoire d’amour](https://open.spotify.com/album/4CclbwG6Y1a0Fm7Kbe5K1l) | 2:32 | 2022-05-27 |  |
 | [Ups & Downs](https://open.spotify.com/track/4fjEDWJKkQpaBZVsRBXe10) | [Matthew Paull](https://open.spotify.com/artist/1SCYbA8Dz2FbWaVt6nVQo3) | [Ups & Downs](https://open.spotify.com/album/2vHvkB9l45jwu517zX7f6x) | 2:08 | 2023-09-18 |  |
+| [Valencia](https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Valencia](https://open.spotify.com/album/5EblH0XOm0QKeOEeypwONP) | 2:54 | 2023-10-10 |  |
 | [Vancouver](https://open.spotify.com/track/6H08IWL5fcTkVyNjNCH2GM) | [Adam Fincher](https://open.spotify.com/artist/0PmeWY74IzTbfmYPC3Fsq6) | [Vancouver](https://open.spotify.com/album/4IdRqAawCzBNThspxGFTbo) | 3:31 | 2022-05-27 |  |
 | [Vuggevise](https://open.spotify.com/track/7rvlOw2fPjxbcZSNKifEHq) | [Minik Knudsen](https://open.spotify.com/artist/0vPGOBFcfVsCzqsYTxubi6) | [Vuggevise](https://open.spotify.com/album/6srrbZzcRlL82bPxb1rBCH) | 3:10 | 2022-05-27 |  |
 | [Wait For Me](https://open.spotify.com/track/2z6wyjZZ5hIP7ef5qjW7kW) | [Dawn Well](https://open.spotify.com/artist/4QfIvnMPiyUcI6mSTZc1mJ) | [Wait For Me](https://open.spotify.com/album/496cm8dtvsmmwlz3moBnM8) | 2:00 | 2022-05-27 |  |

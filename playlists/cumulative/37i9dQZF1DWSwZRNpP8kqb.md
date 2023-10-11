@@ -4,7 +4,7 @@
 
 > Cantoras y compositoras de nuestra tierra, con Soledad en portada.
 
-147 songs - 8 hr 39 min
+148 songs - 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Diez Noches de Desvelo](https://open.spotify.com/track/02qaC2Zfs9QQileRKT8Md9) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [El Amor Es Así](https://open.spotify.com/album/4KTEFtNZMvkzVYg21OntrQ) | 2:56 | 2022-07-08 |  |
 | [Dime](https://open.spotify.com/track/6Wkn5y6FqH8Yu4LSAROKn1) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Las Simples Cosas](https://open.spotify.com/album/3kHitnmEYn8oMrKD8IZl6a) | 2:50 | 2023-05-26 |  |
 | [Disfruto \(En Vivo, Teatro Provincial J.C.Saravia \- Salta\)](https://open.spotify.com/track/1JG6hhiK0IY5KgpYBRTG5u) | [Sele Vera y Los Pampas](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [En Vivo, Teatro Provincial J.C.Saravia \- Salta \(Pt\. 3\)](https://open.spotify.com/album/3jzgWB3dDYbzk5QED3TcGy) | 3:06 | 2022-02-25 | 2022-07-29 |
-| [Distinto](https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Distinto](https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP) | 3:46 | 2022-01-14 |  |
+| [Distinto](https://open.spotify.com/track/3VtRTDL0ecFzROdU4IQ6cD) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Distinto](https://open.spotify.com/album/1UL1AsHbjRw2Wu8hASGPfP) | 3:46 | 2022-01-14 | 2023-10-11 |
 | [Dos Orillas](https://open.spotify.com/track/3Y6KGtonkRMyUFUMnsOJEs) | [Flor Paz](https://open.spotify.com/artist/6tbaPxePAN1xMs9T7Z2b26) | [Dos Orillas](https://open.spotify.com/album/0sZ3ncuCq1cPki4PutsLAd) | 3:21 | 2022-01-14 | 2023-07-03 |
 | [Doña Ubenza](https://open.spotify.com/track/1ca4mFvkjGHuu40zFzx5df) | [Mariana Carrizo](https://open.spotify.com/artist/4CacTDAcLCUIscmGzoQE4z) | [Coplas de Sangre, Vol\. 5](https://open.spotify.com/album/5wExPCVbkoPAJWYj3O8yXK) | 3:28 | 2022-09-06 |  |
 | [Doña Ubenza](https://open.spotify.com/track/5o3JoodEf8sPjECWkfSUxj) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Como Un Pájaro Libre \(Slidepack\)](https://open.spotify.com/album/6bNK5UGojos4PxMqCxkKdH) | 3:16 | 2022-01-14 |  |
@@ -120,6 +120,7 @@
 | [Pedro Canoero](https://open.spotify.com/track/2KVgvEa5KCDgHwsPvdElSw) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Autobiografía](https://open.spotify.com/album/6B12Cp3PX1iP6E9QUlNkHL) | 3:22 | 2022-01-14 |  |
 | [Podrás](https://open.spotify.com/track/3sXY8JJRU6Gi6YTTDA7YUP) | [Nati Pastorutti](https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD) | [Podrás](https://open.spotify.com/album/4oLTyOU9M8aUWnqibV7eff) | 4:01 | 2023-08-18 | 2023-09-10 |
 | [Por el Río Volveré](https://open.spotify.com/track/1AqvmegBd4YsOw3YNSu0xl) | [Victoria Birchner](https://open.spotify.com/artist/3WK96n89Ph8hEufWDG5DeS), [Franco Luciani](https://open.spotify.com/artist/4BWj4rAdhcYB8aQXfnzfHy) | [Memoria del Viento](https://open.spotify.com/album/0GMp8hXYHhQullpJZO38Rt) | 4:03 | 2022-01-14 |  |
+| [Pétalo de Sal](https://open.spotify.com/track/4ivf9l9t9Mnbg5wB20wI7c) | [Vero Marjbein](https://open.spotify.com/artist/6xZKJnHq8zpj0c9tCjwhGi) | [Buscando el sol](https://open.spotify.com/album/0z6ZovAkZ1nhmWwZx6KBqT) | 3:15 | 2023-10-05 |  |
 | [Querido Alfredo](https://open.spotify.com/track/7MlG3yvG8dYb72wpAOqnvT) | [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK) | [Querido Alfredo](https://open.spotify.com/album/55eGlq2OKwyzYb6UBjXhP8) | 5:14 | 2023-10-05 |  |
 | [Quisiera Amarte Menos](https://open.spotify.com/track/48mLA1E73wwplhGC6TTIn3) | [Nacha Roldán](https://open.spotify.com/artist/5ecl4cSr8UkV7VAgBuQmYh) | [Joyas](https://open.spotify.com/album/4Dk2z9Sx44XUr4LKRsxPI3) | 3:09 | 2022-01-14 | 2023-10-08 |
 | [Quisiera Que Salga un Tigre](https://open.spotify.com/track/6msi20ktX6ssNFaipj64rD) | [Luciana Jury](https://open.spotify.com/artist/6lPYU9UIxc7E2cS0cSJ6Lt) | [Canciones Brotadas de Mi Raíz](https://open.spotify.com/album/7d7gZJrvoRDHsatfypRPTL) | 2:51 | 2022-09-06 |  |

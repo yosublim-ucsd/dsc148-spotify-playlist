@@ -4,7 +4,7 @@
 
 > dk rap holder det 100 lige nu 🚨  ICEKIID tar forsiden
 
-55 songs - 2 hr 24 min
+56 songs - 2 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Som Forleden](https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Som Forleden](https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd) | 2:41 | 2023-09-21 |  |
 | [Spåkone](https://open.spotify.com/track/4VIai4an6QpUiuQxxliAF7) | [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Spåkone](https://open.spotify.com/album/2YMSb0pHCX4stwMGUBPIGl) | 2:54 | 2023-09-21 |  |
 | [STAYBUSY](https://open.spotify.com/track/4t76e7lcoYva7eZparMcfw) | [Maurice](https://open.spotify.com/artist/49LRYB6Kf2RsNbsXIBrGSl) | [STAYBUSY](https://open.spotify.com/album/5TtPoVWJI5k7xGf1oh6HIJ) | 2:23 | 2023-09-29 |  |
-| [Swervin' \(feat\. Lamin\)](https://open.spotify.com/track/3T4sq2A6qyg4LnUJWx8Q4u) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/album/1fNhtDc8Mls92rWD1q6rWK) | 2:31 | 2023-09-21 |  |
+| [Swervin' \(feat\. Lamin\)](https://open.spotify.com/track/3T4sq2A6qyg4LnUJWx8Q4u) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Swervin' \(feat\. Lamin\)](https://open.spotify.com/album/1fNhtDc8Mls92rWD1q6rWK) | 2:31 | 2023-09-21 | 2023-10-11 |
+| [Swervin' \(feat\. Lamin\)](https://open.spotify.com/track/49fxzVDFQGVorGiv3FEUcv) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Slow Mo' / Swervin'](https://open.spotify.com/album/2QVD6w1lvKmxSr2petQ7H8) | 2:31 | 2023-10-06 |  |
 | [Tak For Sidst](https://open.spotify.com/track/5cNxyZy9r5f8m2L7it8ZtB) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Tak For Sidst](https://open.spotify.com/album/0rvZGDpA6Gw8s4dT3xRnpi) | 2:34 | 2023-09-21 |  |
 | [Tar Dig Med](https://open.spotify.com/track/2oGIev7T7TQDqwDdt0d3or) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Tar Dig Med](https://open.spotify.com/album/1Nu2RKMKHHDyk6Oo2GpeOc) | 2:00 | 2023-09-21 |  |
 | [TIL VI DØR](https://open.spotify.com/track/1EWIROunAjtVo8bZtOEt7w) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [EV1GT&ALT1D](https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw) | 3:00 | 2023-09-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 
 > Soft chill for the dreamy  ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,125 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,382 likes - 75 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 33 | [Jab Tak](https://open.spotify.com/track/35RWttZt8zGGzT0mWtlXpn) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs) | [M.S.Dhoni \- The Untold Story](https://open.spotify.com/album/0UuTH5r9tyFJ2tqnvc1wWm) | 2:54 |
 | 34 | [Is This Love](https://open.spotify.com/track/0GVPRo9LEjxjT4C4o8BGot) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU) | [Kismat Konnection \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/61cQuizKixGgQTi0Le6M8N) | 5:29 |
 | 35 | [Mahiye Jinna Sohna Unplugged](https://open.spotify.com/track/7k8g09FNAw41bJatQuR6K9) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Dard](https://open.spotify.com/album/0YzF0ImdBeODiCWejSDndM) | 2:27 |
-| 36 | [Riha](https://open.spotify.com/track/6Ln89sczgIcAJXGAIdS94R) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Riha](https://open.spotify.com/album/6jL8rcC7NYpkHEBAjI4Zw6) | 4:47 |
-| 37 | [Aaftaab](https://open.spotify.com/track/4LtSTc3xANVhYeeN69nscM) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Vaaqif](https://open.spotify.com/album/7ouN1RiK4NRenRCnrGkA1Z) | 3:53 |
-| 38 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |
+| 36 | [Aaftaab](https://open.spotify.com/track/4LtSTc3xANVhYeeN69nscM) | [The Local Train](https://open.spotify.com/artist/7b6Ui7JVaBDEfZB9k6nHL0) | [Vaaqif](https://open.spotify.com/album/7ouN1RiK4NRenRCnrGkA1Z) | 3:53 |
+| 37 | [Chaap Tilak](https://open.spotify.com/track/0XCtRvfDHT98h0iUSDFtyO) | [Namita Choudhary](https://open.spotify.com/artist/3OzUySgSF8QxZScB0RxDCB) | [Chaap Tilak](https://open.spotify.com/album/0HkwpQ25VaAl4DNeXh3CtW) | 3:14 |
+| 38 | [Riha](https://open.spotify.com/track/6Ln89sczgIcAJXGAIdS94R) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Riha](https://open.spotify.com/album/6jL8rcC7NYpkHEBAjI4Zw6) | 4:47 |
 | 39 | [Khayaal](https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl) | [Abhijeet Srivastava](https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khayaal](https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN) | 2:42 |
 | 40 | [Aashiq Tera](https://open.spotify.com/track/0SAZ4IHYMtjW4Lxrjm7NnG) | [Altamash Faridi](https://open.spotify.com/artist/38IHJBGBuaYXHEkIQd4DtF), [Sohail Sen](https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw) | [Happy Bhag Jayegi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2QTktaF2GGrGu8Qu3ZyIms) | 4:54 |
 | 41 | [Raaton](https://open.spotify.com/track/4mpRxleD4q4rxgRBgC6TpB) | [Aditya Rikhari](https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D) | [Raaton](https://open.spotify.com/album/1mr9MMCJodtlid7Yy7DTh1) | 3:20 |
@@ -77,11 +77,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhejoFhUUFy.md) - [plain]
 | 67 | [Hazir Main Rahun](https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW) | [Pratsofficial](https://open.spotify.com/artist/29ggvWc5EMcSk5RLQ5aXHr) | [Hazir Main Rahun](https://open.spotify.com/album/3JcvdHatu4INAgwuSAPnCr) | 4:07 |
 | 68 | [Khamakhaa](https://open.spotify.com/track/2xRUa9kABue4LnGZplUtaq) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Khamakhaa](https://open.spotify.com/album/45hQlqraN1cORIW26NwPBs) | 2:59 |
 | 69 | [Joy of Little Things](https://open.spotify.com/track/6osLH2yLhpwuESclKx84sg) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [Joy of Little Things](https://open.spotify.com/album/0xCqFIlyDXXxganfCHM8yV) | 3:59 |
-| 70 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/5SYVEm7xc8Vi8czRO44q8M) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind \- Single](https://open.spotify.com/album/26VsSu066lK8UdTTiz7JVe) | 3:28 |
-| 71 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 |
+| 70 | [jaana](https://open.spotify.com/track/5v5G6frYHlwf6YkhR0cYQN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2) | [jaana](https://open.spotify.com/album/5bftUl6VwWmOIUdpKret6g) | 3:01 |
+| 71 | [Zara Zara \- MTV Unwind](https://open.spotify.com/track/5SYVEm7xc8Vi8czRO44q8M) | [Arjun Kanungo](https://open.spotify.com/artist/3bAFvRjPZrpRz9Ox1sElQa) | [Zara Zara \- MTV Unwind \- Single](https://open.spotify.com/album/26VsSu066lK8UdTTiz7JVe) | 3:28 |
 | 72 | [In Your Eyes Only](https://open.spotify.com/track/1cA2wsnn1o82tcAEHokxiJ) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Rashmi Virag](https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo) | [In Your Eyes Only](https://open.spotify.com/album/3mQHgUq5EfYtc7qt5TKDxJ) | 3:09 |
 | 73 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 |
 | 74 | [Baarish Aa Jaave](https://open.spotify.com/track/7pZPY9x0GDmTyJDD4tzahy) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Baarish Aa Jaave](https://open.spotify.com/album/1W8INhKzTvHZ62LPUq31Rv) | 2:38 |
 | 75 | [Nindiya Re \- Studio Version](https://open.spotify.com/track/0NsYZt7iTFoLMw3pZTQEDQ) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3) | [Nindiya Re \(Studio Version\)](https://open.spotify.com/album/1vgKFdjExQyCqcHmYap5cT) | 3:45 |
 
-Snapshot ID: `MCw2MGRkMTQ2MjNiNGJlZDMyNTJiN2Q1MGQ0NmFiOWYyZjQyOTgwN2Zl`
+Snapshot ID: `MCw5OGRjZGFkZWM0Njk0YTg5YWI4MDNkYThlYWYyODEwZTMyN2E3YjQx`

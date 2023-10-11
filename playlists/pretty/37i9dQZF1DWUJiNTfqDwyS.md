@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,341 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,843 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 23 | [In the Air Tonight](https://open.spotify.com/track/2GV039LpIeFtgTKKIZPrf0) | [Nonpoint](https://open.spotify.com/artist/6BdSOHfQ6kMg0tbAFlXR1z) | [Recoil \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/0wMl72AddFnnhtCVNyWx2G) | 4:33 |
 | 24 | [Blinding Lights](https://open.spotify.com/track/1nJOzQiAY0d9YGopbYlQsr) | [Saint Asonia](https://open.spotify.com/artist/6Fwq3TDWpMhcL1KTKVQiI8) | [Blinding Lights](https://open.spotify.com/album/3Bp4QzJlhnqgJ5CW9zfEo7) | 3:03 |
 | 25 | [Wish You Were Here](https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [The Stage \(Deluxe Edition\)](https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D) | 5:13 |
-| 26 | [Sail](https://open.spotify.com/track/2QusYlHgyVRNu05c36wWlJ) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Winter Kills \(Deluxe Version\)](https://open.spotify.com/album/2rotrtFHZXM3QkZIiAMk5P) | 4:06 |
-| 27 | [In The Air Tonight](https://open.spotify.com/track/4n82AVSg6y0mSPw9PY06Gf) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh) | [In The Air Tonight](https://open.spotify.com/album/0BjqOTHFwWeDq1jZwcSGmC) | 5:00 |
+| 26 | [In The Air Tonight](https://open.spotify.com/track/4n82AVSg6y0mSPw9PY06Gf) | [State of Mine](https://open.spotify.com/artist/78u21hh7csceByaxzd7pbh) | [In The Air Tonight](https://open.spotify.com/album/0BjqOTHFwWeDq1jZwcSGmC) | 5:00 |
+| 27 | [Sail](https://open.spotify.com/track/2QusYlHgyVRNu05c36wWlJ) | [DevilDriver](https://open.spotify.com/artist/79el7mcHYhXYW3Zek21i0L) | [Winter Kills \(Deluxe Version\)](https://open.spotify.com/album/2rotrtFHZXM3QkZIiAMk5P) | 4:06 |
 | 28 | [Gangsters Paradise](https://open.spotify.com/track/6xPD22JavtFYbyHl2AMVsn) | [Like A Storm](https://open.spotify.com/artist/5gFZo6Oh5WehnbEj0XtxiF) | [Awaken the Fire](https://open.spotify.com/album/0Si0TtlRSqqwWRe4DnVVmk) | 3:27 |
 | 29 | [Someone Like You](https://open.spotify.com/track/4aKOM2dmLTB5U5qsFhb8u4) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Predator](https://open.spotify.com/album/4yX8VXD0hHqYMRKa3OraQj) | 4:35 |
 | 30 | [Small Town Boy](https://open.spotify.com/track/0jfNgP8sP2tnOloYDw0HoM) | [Paradise Lost](https://open.spotify.com/artist/0gIo6kGl4KsCeIbqtZVHYp) | [Symbol Of Life](https://open.spotify.com/album/1lvVqodR4aT3R8WemeIgDN) | 5:17 |
 | 31 | [Summer Breeze](https://open.spotify.com/track/5cDS0AxJMZkAHjuwfUomJI) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [Bloody Kisses](https://open.spotify.com/album/127mCJhPsHAB33rOYybK04) | 4:49 |
 | 32 | [Dirty Diana](https://open.spotify.com/track/2fKkgRY3RtqsTg2TB33qeW) | [Shaman's Harvest](https://open.spotify.com/artist/3pigXV2QUatr3szcb3MacR) | [Smokin' Hearts & Broken Guns \(Deluxe Edition\)](https://open.spotify.com/album/1xZ0Fd1RXbeXrHGsBKd8oH) | 4:01 |
-| 33 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 |
-| 34 | [Shape of You](https://open.spotify.com/track/54SMw8TnDcuieolVRXBmni) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Shape of You](https://open.spotify.com/album/4eYjV7ET5e8iOtyxg5CLNq) | 3:56 |
+| 33 | [Shape of You](https://open.spotify.com/track/54SMw8TnDcuieolVRXBmni) | [Fame on Fire](https://open.spotify.com/artist/10Z7WzKMeIdNBKexi1YarP) | [Shape of You](https://open.spotify.com/album/4eYjV7ET5e8iOtyxg5CLNq) | 3:56 |
+| 34 | [Maniac](https://open.spotify.com/track/2fLXgNuhqugprkOOpAqRHs) | [Firewind](https://open.spotify.com/artist/70I9vE7YTwKmelfEplXc5r) | [The Premonition](https://open.spotify.com/album/1yjOwnIzzjmQDMPu8mHinj) | 4:55 |
 | 35 | [Oops!...I Did It Again](https://open.spotify.com/track/06wKZYu5dpve2WRS5O34MI) | [Children Of Bodom](https://open.spotify.com/artist/1xUhNgw4eJDZfvumIpcz1B) | [Skeletons in the Closet \(Japan Edition\)](https://open.spotify.com/album/24kO281Ejj7HwIJKibKwpd) | 3:20 |
 | 36 | [I Knew You Were Trouble](https://open.spotify.com/track/4LtWzWV22RQJI8fCtPVunn) | [We Came As Romans](https://open.spotify.com/artist/6qO6LhD6FuXK5e2PtfAIMz) | [Punk Goes Pop, Vol\. 6](https://open.spotify.com/album/1l6S45U20fiob98cV6siw8) | 3:38 |
 | 37 | [Hallelujah](https://open.spotify.com/track/6Km5c8wE03PZi1Y98twrKR) | [No Resolve](https://open.spotify.com/artist/7oAoGc2k7201dlU7mkhlDp) | [Hallelujah](https://open.spotify.com/album/3LQU4XntwPGwYAWKITYCLE) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 49 | [Rebel Yell](https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Rebels](https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF) | 4:38 |
 | 50 | [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 |
 
-Snapshot ID: `MCxiYmFlMTVjOGE3ODNlY2MzZTQyYjRkMTY0MjU1ZjllOWY4ZjA5OGIx`
+Snapshot ID: `MCxlMzQ4YTg3N2JlYTA5MmYwNzRiMzJkYTFhYjc5YzhmZTY4YzY0NTE0`

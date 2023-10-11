@@ -1,12 +1,12 @@
 {
   "description": "New music from popular Hindi artists. Cover- Zaeden, Lisa Mishra",
-  "num_followers": 42774,
+  "num_followers": 42847,
   "original_name": "New Music Friday Hindi ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NGIzMjY0ZWNlNmJkOWJjZjFlNzQwMjE1MjY3OGY4OTc1MzkwMzgz",
+  "snapshot_id": "MCw4OGNmNDY3ZTRjMzgxYjJjZWZjMjU0M2M0MDkwZDIyYzRjZWM1MmY5",
   "tracks": [
     {
       "added_at": "2023-10-06 04:34:34",
@@ -130,6 +130,14 @@
         {
           "name": "Dropped Out",
           "url": "https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N"
+        },
+        {
+          "name": "Yash Narvekar",
+          "url": "https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK"
+        },
+        {
+          "name": "The Rish",
+          "url": "https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI"
         }
       ],
       "duration_ms": 182746,

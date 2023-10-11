@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 
 > soft, chewy & good for the soul\. uwu
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,756 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,040 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,11 +88,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 78 | [Unlearn You](https://open.spotify.com/track/4EgBhLYvbA3FeEfgpLD54h) | [Keenan Te](https://open.spotify.com/artist/6Ge3YISmUWPCUcSVx8VGor) | [Phases](https://open.spotify.com/album/2PV7hRgIk5c5GEmXRRUHC3) | 2:48 |
 | 79 | [High School in Jakarta](https://open.spotify.com/track/5rbuv6zso7QSaKt265H3M3) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [High School in Jakarta](https://open.spotify.com/album/34zREEtZQOmQbqFU4cIQuT) | 3:39 |
 | 80 | [Green Tea & Honey](https://open.spotify.com/track/25kxJg4ykcvM1wphY0yIwt) | [Dane Amar](https://open.spotify.com/artist/5S68VYXiXt6oq30pKqQAuV), [Jereena Montemayor](https://open.spotify.com/artist/45iYm4bGYfT8nY4RxNBhlr) | [East Daygo Popstar](https://open.spotify.com/album/6rDWteiCSfMDHms9Rbx0Wi) | 3:42 |
-| 81 | [Slow \(with Ciara\)](https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Slow \(with Ciara\)](https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK) | 3:12 |
-| 82 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 |
-| 83 | [kiss me thru the phone](https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E) | [CLUB BOYBND](https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN) | [kiss me thru the phone](https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P) | 1:57 |
+| 81 | [No Hard Feelings](https://open.spotify.com/track/0RkK4CRqDNeOK1OLmZPkdg) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [No Hard Feelings](https://open.spotify.com/album/5wqIsjOLz44OyfzD0YB2Pa) | 3:12 |
+| 82 | [Slow \(with Ciara\)](https://open.spotify.com/track/3ZrtBTReHr1xFDglmHwCX5) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Slow \(with Ciara\)](https://open.spotify.com/album/3pVjFaJut000WiN2WZBtKK) | 3:12 |
+| 83 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 |
 | 84 | [The Ones We Once Loved](https://open.spotify.com/track/6YjKd9oPXKqjLUVPo4Y0oi) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [The Ones We Once Loved](https://open.spotify.com/album/0276LtRwBrOo2uoRlTOiPX) | 4:33 |
-| 85 | [butterflies](https://open.spotify.com/track/30qPjijrLuNwcGD00Rdj07) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [butterflies](https://open.spotify.com/album/28yz3AHpQ40A1GXQfE5qSv) | 3:32 |
+| 85 | [kiss me thru the phone](https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E) | [CLUB BOYBND](https://open.spotify.com/artist/4xTnRFiv1AYPYLAA2qKuuN) | [kiss me thru the phone](https://open.spotify.com/album/75tK3dOtmchsSaqxVsEq5P) | 1:57 |
 | 86 | [keepyousafe](https://open.spotify.com/track/3Sbova9DAY3pc9GTAACT4b) | [Yahya](https://open.spotify.com/artist/2x49HGCVPqbRxecj0PZq2R) | [keepyousafe](https://open.spotify.com/album/1ay9XEArx0arC0VBJ5hUn9) | 4:21 |
 | 87 | [Sour](https://open.spotify.com/track/3Jd4JERZ7EP1bdeWRh0rsD) | [The Rose](https://open.spotify.com/artist/5na1LmEmK2VzNLje9snJYW) | [HEAL](https://open.spotify.com/album/2n44vkxj8L01ma7nHfXNJW) | 3:20 |
 | 88 | [童話](https://open.spotify.com/track/6NCylXeJcHOI908PjZDFcg) | [Michael Wong](https://open.spotify.com/artist/26SQFo2qNNGOxh2PUAsTeO) | [十光年精選輯](https://open.spotify.com/album/36Z2YriYoWjRLZOiklzgSm) | 4:06 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6KwoIt0pZYP.md) - [plain]
 | 93 | [Ride](https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Ride](https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs) | 3:01 |
 | 94 | [the alternative](https://open.spotify.com/track/4ylj6KTRlC25nhizGTlFPA) | [Lyn Lapid](https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v) | [to love in the 21st century](https://open.spotify.com/album/18pzJc8GyrVQmunRXrY3ch) | 3:03 |
 | 95 | [THANK YOU 4 LOVIN’ ME](https://open.spotify.com/track/557XVqKgnYAxvvyczr2zDg) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs PLAYBOOK](https://open.spotify.com/album/78UznjghWeYXMeN201KLtC) | 4:29 |
-| 96 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 |
-| 97 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 |
+| 96 | [Yesterday](https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [Yesterday](https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT) | 3:11 |
+| 97 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 |
 | 98 | [Wishful Thinking](https://open.spotify.com/track/0eM1lELK39bi6UgbqdRCAz) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [Wishful Thinking](https://open.spotify.com/album/2reSbF0B3pWfNHmsV0eu3d) | 3:06 |
 | 99 | [your love](https://open.spotify.com/track/1BrB7PB1sOwaVZsrLaWInN) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [your love](https://open.spotify.com/album/0TX38oFZa6CT7XjyW9Jgqk) | 2:35 |
 | 100 | [MAKING MY WAY](https://open.spotify.com/track/6HGOxrNik4iPurqStawTFQ) | [Sơn Tùng M\-TP](https://open.spotify.com/artist/5dfZ5uSmzR7VQK0udbAVpf) | [MAKING MY WAY](https://open.spotify.com/album/371NWHWKJxyUYwOywWpTal) | 4:18 |
 
-Snapshot ID: `MCw4OWY2YTZmMDBhNmE4NjA1MmU2ZDM3MTk3M2VmMzExNDdjZDA3N2E3`
+Snapshot ID: `MCxjOTU4NWIzZWZkZjc5MTNlYjVkN2VmOTcxOTgzYjQ2OWE3NzAwMDg5`

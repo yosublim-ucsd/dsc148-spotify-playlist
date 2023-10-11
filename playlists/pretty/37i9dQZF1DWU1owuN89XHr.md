@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 
 > Historias y versos que tocan la piel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,103 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,115 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 12 | [Brazos de Sol](https://open.spotify.com/track/60swUBt5uEqO1ix3kCQa7e) | [Alejandro Filio](https://open.spotify.com/artist/2zfJb2mtxjtjPWTldg9R6K) | [Caín](https://open.spotify.com/album/2jgeDWVTL7oog1cn4QmWNM) | 3:50 |
 | 13 | [Óleo de Mujer Con Sombrero](https://open.spotify.com/track/1w6mcMacExya7bvbElMuar) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Al Final de Este Viaje...](https://open.spotify.com/album/4WEu5ZKJLZ9bOEav4ELwpd) | 2:24 |
 | 14 | [Gracias A La Vida](https://open.spotify.com/track/0UKSse3fcKetDzXnXzE1Pv) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:24 |
-| 15 | [No Soy De Aqui, Ni Soy De Alla](https://open.spotify.com/track/70xSLxbCLBQSxBtP46AuZq) | [Facundo Cabral](https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx) | [Serie De Oro](https://open.spotify.com/album/3PG4hwXoSc0ElxiMslu4jy) | 3:44 |
-| 16 | [Entre Pairos y Derivas](https://open.spotify.com/track/4LJbG3BeyCXfFReENFdgq6) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Entre Pairos y Derivas](https://open.spotify.com/album/69ahm7UJ1KeryMY2yqhVGR) | 4:15 |
+| 15 | [Entre Pairos y Derivas](https://open.spotify.com/track/4LJbG3BeyCXfFReENFdgq6) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Entre Pairos y Derivas](https://open.spotify.com/album/69ahm7UJ1KeryMY2yqhVGR) | 4:15 |
+| 16 | [No Soy De Aqui, Ni Soy De Alla](https://open.spotify.com/track/70xSLxbCLBQSxBtP46AuZq) | [Facundo Cabral](https://open.spotify.com/artist/1vCCUwNiIwC41lEu7EuBmx) | [Serie De Oro](https://open.spotify.com/album/3PG4hwXoSc0ElxiMslu4jy) | 3:44 |
 | 17 | [Una Palabra](https://open.spotify.com/track/4SzeAxQemtMGRIiQc7gNYq) | [Carlos Varela](https://open.spotify.com/artist/2KVT6XgP2vgdUat355J7hy) | [Nubes](https://open.spotify.com/album/1NgiBYC45f7FnOCoAFV19o) | 2:27 |
 | 18 | [Movimiento](https://open.spotify.com/track/7pBoi7yWCPzn3UjeMsGKg6) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Salvavidas de hielo](https://open.spotify.com/album/3wYcE0a2LSxxQF2Rk3Drw0) | 3:51 |
 | 19 | [Lo Niego Todo](https://open.spotify.com/track/6oV8HazS5rJB3jU3oPhYep) | [Joaquín Sabina](https://open.spotify.com/artist/4aeIWo5CMF1uRmqgJdwkZW) | [Lo Niego Todo](https://open.spotify.com/album/2x3RmoJMCnirFKl6iTODhp) | 4:41 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 30 | [Causa y Efecto](https://open.spotify.com/track/0AnYxf8QJBHahyMdltizf5) | [Jorge Gamboa Patrón](https://open.spotify.com/artist/6C7OQL7jqHWXAN6mURuqMu) | [Metamorfosis](https://open.spotify.com/album/3g67KVzMF8xAhy8ZuzZqJ6) | 4:56 |
 | 31 | [Cantares \- En Directo](https://open.spotify.com/track/5HmYuJIqLEXOa9i4YQJWoQ) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Serrat En Directo](https://open.spotify.com/album/5uc1F7ZXMeGxgvfp9z7W8G) | 3:16 |
 | 32 | [Unicornio](https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Unicornio](https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT) | 5:08 |
-| 33 | [Coincidir](https://open.spotify.com/track/7st3JWQK2B5mSmm9esWNu8) | [Mexicanto](https://open.spotify.com/artist/2vJZznn0lsxmK4ydVwroSc) | [Coincidir](https://open.spotify.com/album/4TKIvzhvDdeeNvgrk8nryH) | 2:43 |
-| 34 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
+| 33 | [Te Doy Una Cancion](https://open.spotify.com/track/6yGx5fJ2C6YrmZhVadd7vC) | [Silvio Rodriguez and Pablo Milanes](https://open.spotify.com/artist/182fhYiodsjX2AZnZlWWzK) | [Silvio Rodriguez y Pablo Milanes](https://open.spotify.com/album/5Dn5RWgcjL462SXPTGYF9f) | 3:10 |
+| 34 | [Coincidir](https://open.spotify.com/track/7st3JWQK2B5mSmm9esWNu8) | [Mexicanto](https://open.spotify.com/artist/2vJZznn0lsxmK4ydVwroSc) | [Coincidir](https://open.spotify.com/album/4TKIvzhvDdeeNvgrk8nryH) | 2:43 |
 | 35 | [El Breve Espacio en Que No Estás \- Live](https://open.spotify.com/track/5gqjhBhOtdSJpB7el7VXCj) | [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5) | [Pablo Milanés: Un Concierto para América \(Live\)](https://open.spotify.com/album/128iTJllUXrFI9VogghxEJ) | 4:28 |
 | 36 | [Mediterraneo](https://open.spotify.com/track/3hx9T4CWGDvMbINMBfyrnW) | [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7) | [Discografía en Castellano](https://open.spotify.com/album/3KRHH5V8abRbkgo9wCndko) | 3:25 |
 | 37 | [Sin Tu Latido](https://open.spotify.com/track/5c6OaqhGZq0thRc56z5nAn) | [Luis Eduardo Aute](https://open.spotify.com/artist/67h1eGw2OFs89l8EnaOdoS) | [Cuerpo A Cuerpo](https://open.spotify.com/album/3WkzCVHH31VULuzWaIDyD5) | 5:01 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU1owuN89XHr.md) - [plain]
 | 99 | [Viene la Cosa](https://open.spotify.com/track/6ICAdGrduZHsR9ZIfx9CCw) | [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO) | [Viene la Cosa](https://open.spotify.com/album/6PREdFoN9vmyzU3CpdAts3) | 3:51 |
 | 100 | [Alfonsina Y El Mar](https://open.spotify.com/track/6Q3ozAXkxLpKQy6sc8L0TY) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Ariel Ramírez](https://open.spotify.com/artist/2dTieljE0C4ydCdUPIPLRW), [Hector Zeoli](https://open.spotify.com/artist/2yAbebpFzH9GhCLeCwKwtN) | [30 años](https://open.spotify.com/album/2mrWvCCYtZn2UyhMopvAoU) | 4:40 |
 
-Snapshot ID: `MCxjMWNlYTc0OGYxOWUxMDVkNTkyMjUxM2JiMTJiNGU3MGNhY2FlMmU5`
+Snapshot ID: `MCwwMTVmNTdlNmRmM2NiZDk5NDIzOTY1ZDUxNTA2MzI4MzQyYzAxZTJk`

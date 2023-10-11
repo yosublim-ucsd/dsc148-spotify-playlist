@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xjcl7upl9u.md) - [plain]
 
 > The Swedish duo <a href=“spotify:artist:00sAT5YX8W3xNd1EuqyHw9”>Dada Life</a> drop a hot mix just in time for festival season!
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,237 likes - 22 songs - 1 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,243 likes - 22 songs - 1 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,10 +25,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4xjcl7upl9u.md) - [plain]
 | 15 | [Better \- Mixed](https://open.spotify.com/track/1Y6KWoXkDNDs5kEsd7uNZW) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Better \(Mixed\)](https://open.spotify.com/album/22VP8ckip061Xk0UsrZMgd) | 2:29 |
 | 16 | [Freak Of The Night \- Mixed](https://open.spotify.com/track/5bftxZ7b4quMMtxNqWag5f) | [Daijo](https://open.spotify.com/artist/4esLZ8cHaY0jchCxXDVVSQ) | [Freak Of The Night \(Mixed\)](https://open.spotify.com/album/7DrCD6KvU3zhSgEiiF3vmu) | 2:27 |
 | 17 | [Edge Of Tonight \- Mixed](https://open.spotify.com/track/3YTawBahcgCScHfNdwa5bN) | [Brunetti](https://open.spotify.com/artist/57HqYJzEeUisul8wKeOrOB), [Yohann Warren](https://open.spotify.com/artist/0KPaZqSst478dYqODQG37L) | [Edge Of Tonight \(Mixed\)](https://open.spotify.com/album/0cWP1iDd9PgjyMS2sCw8fT) | 3:02 |
-| 18 | [Tunnel \- Mixed](https://open.spotify.com/track/3yJPjIcrSdx3eVVDfK75dK) | [Just\_\_\_\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Tunnel \(Mixed\)](https://open.spotify.com/album/2HMYjjvU9nQeCcfweuWxh1) | 3:11 |
+| 18 | [Tunnel \- Mixed](https://open.spotify.com/track/3yJPjIcrSdx3eVVDfK75dK) | [Just\_\_\_\_\_us](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4) | [Tunnel \(Mixed\)](https://open.spotify.com/album/2HMYjjvU9nQeCcfweuWxh1) | 3:11 |
 | 19 | [Love Got You \- Mixed](https://open.spotify.com/track/1WRlDSCWSryJAwlxCFzlz9) | [Heyem & Groozin](https://open.spotify.com/artist/0l33b3YK4gmAt0mzqcRkVx) | [Love Got You \(Mixed\)](https://open.spotify.com/album/4lFLmG52ImGv6UjjHimBKu) | 2:59 |
 | 20 | [Hold Up \- Mixed](https://open.spotify.com/track/5gHjelCEVxbddGSebN0x13) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Hold Up \(Mixed\)](https://open.spotify.com/album/60nbDVuZZsGS8qjKkw6A28) | 2:33 |
 | 21 | [Insane \- Mixed](https://open.spotify.com/track/1bcwLDUS52RPga7vOxYsq5) | [Carta](https://open.spotify.com/artist/3MTk6MUbUmV5X0N04N56JF) | [Insane \(Mixed\)](https://open.spotify.com/album/3ieL7chtaUe47zrPkR89lt) | 2:28 |
 | 22 | [Told Ya! 2022 \- Mixed](https://open.spotify.com/track/144yCgX83TO1vBYukgAbsT) | [Isa GT](https://open.spotify.com/artist/2ZMDVSuZfNdp80OdWx5h4K), [Wiwek](https://open.spotify.com/artist/4b2v3PBjJJCF2BX14lIAsT), [Sandro Silva](https://open.spotify.com/artist/53UXMZxwzQyV4j7tZaVF58) | [Told Ya! 2022 \(Mixed\)](https://open.spotify.com/album/2t40UmaG9qyS9fSGZqRb8z) | 2:31 |
 
-Snapshot ID: `MCxhYzlhN2JlZDE4YjQ3MGVjM2YzYmRmZGM5MmEwNjg5NDZkMTYyZTJk`
+Snapshot ID: `MCxkMDQ3MGY3YTZiZjk4NGFjZWZmMDRiNDc2ZWJiOTVmZmVlZjRlYWMw`

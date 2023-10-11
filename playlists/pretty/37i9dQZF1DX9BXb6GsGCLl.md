@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 
 > Fuel your powerwalk with these upbeat and uplifting tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 542,599 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 542,589 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BXb6GsGCLl.md) - [plain]
 | 79 | [Better When You're Gone](https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Brooks](https://open.spotify.com/artist/4mHAu7NX2UNsnGXjviBD9e), [Loote](https://open.spotify.com/artist/00TKPo9MxwZ0j4ooveIxWZ) | [Better When You're Gone](https://open.spotify.com/album/4ZoXNDicq0MrsGk1pM883o) | 3:12 |
 | 80 | [Born To Love \(feat\. SHELLS\)](https://open.spotify.com/track/7cX5H82DTZ5iHRLbewBEBd) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Born To Love \(feat\. SHELLS\)](https://open.spotify.com/album/4r4MtHl8F0NkkSA0kObrEm) | 2:42 |
 
-Snapshot ID: `MCw1NWRhNDdiYzJjNjdhZDI3MjhiZWExNDc1MWM2MzdlMzNlOTQ4NzZi`
+Snapshot ID: `MCxlMTAwM2VmMTk2MDA0Y2FlNTBjOWFkYjliMDk4OTlkZmU4ZDYxMDFk`

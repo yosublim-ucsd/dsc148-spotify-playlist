@@ -4,7 +4,7 @@
 
 > This is FLOW\. The essential tracks, all in one playlist.
 
-97 songs - 6 hr 23 min
+98 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [DICE](https://open.spotify.com/track/1xm4MuXmiLz4KKKx5nqBHD) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE](https://open.spotify.com/album/73xTnF27ekpsPFm42Zs2J1) | 4:25 | 2022-06-09 |  |
 | [FLOW ANIME OP・ED Size Special Collection](https://open.spotify.com/track/0FS7VElufgTEqTDDgPMYzg) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW ANIME BEST](https://open.spotify.com/album/7GMKu72g0P38Zb4A3U80UA) | 14:55 | 2022-06-09 | 2022-10-13 |
 | [Garden 〜Summer Edit〜](https://open.spotify.com/track/56lzWIgPrLMT0i4ySGWmE4) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 3:48 | 2022-09-21 | 2022-10-13 |
+| [GET BACK](https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GET BACK](https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo) | 3:15 | 2023-10-10 |  |
 | [GLORY DAYS](https://open.spotify.com/track/3ad19A6jKYDikNoOtjxVXM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [26 a Go Go !!!](https://open.spotify.com/album/071gTMhYxs1dSa4uUDECQs) | 3:45 | 2022-06-09 |  |
 | [GLOW](https://open.spotify.com/track/1RDryrNg8yuMfMb51Geosd) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [GRANRODEO](https://open.spotify.com/artist/3LnMh597QKlMqWqqXz7woc) | [Howling](https://open.spotify.com/album/67rn1nDTMSZY5mBI1QZQsf) | 5:10 | 2022-06-13 | 2022-10-13 |
 | [GO!!!](https://open.spotify.com/track/30WNOfFRiqgebO4eRkCii8) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 3:56 | 2022-06-09 |  |
@@ -65,8 +66,8 @@
 | [SUMMER FREAK](https://open.spotify.com/track/0KtSYH0aepPLGfpMZ91xD0) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Coupling Collection](https://open.spotify.com/album/3c4FIbzIYzS7BdKoOZOarx) | 3:22 | 2022-06-09 | 2022-10-29 |
 | [SUMMER FREAK](https://open.spotify.com/track/5joopj7rLQyYMplSoXZjD3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [カップリングコレクション](https://open.spotify.com/album/5vRqwl9mrEbdAMw6MmkY04) | 3:22 | 2023-05-22 | 2023-09-03 |
 | [UNION](https://open.spotify.com/track/44pT8b44JEKUU5UdGVf2br) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [MICROCOSM](https://open.spotify.com/album/6L0bHUXswPcOee9qM1UCIa) | 4:31 | 2022-06-09 | 2022-10-13 |
-| [United Sparrows](https://open.spotify.com/track/49KkIt4ilha2JSCkeUI0eR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [United Sparrows](https://open.spotify.com/album/3eF5AwP5KQ7us5cHudHttS) | 3:39 | 2022-06-09 |  |
-| [Voyage](https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voyage](https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5) | 3:39 | 2023-02-16 |  |
+| [United Sparrows](https://open.spotify.com/track/49KkIt4ilha2JSCkeUI0eR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [United Sparrows](https://open.spotify.com/album/3eF5AwP5KQ7us5cHudHttS) | 3:39 | 2022-06-09 | 2023-10-11 |
+| [Voyage](https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voyage](https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5) | 3:39 | 2023-02-16 | 2023-10-11 |
 | [Winter Story](https://open.spotify.com/track/5v5eCRsO7yJXcq2DGtlhVB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Winter Story](https://open.spotify.com/album/2jFjmAgTNaduGZ77qN72Js) | 3:39 | 2022-12-23 | 2023-05-23 |
 | [WORD OF THE VOICE](https://open.spotify.com/track/0kESE99ri5BLsgtxCaYdiM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#5](https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV) | 3:47 | 2022-06-11 |  |
 | [WORLD END](https://open.spotify.com/track/4wODMeGBAwLAmq0zSAb8Z3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#5](https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV) | 3:46 | 2022-06-09 |  |
@@ -79,8 +80,8 @@
 | [ドリームエクスプレス](https://open.spotify.com/track/2aQ5QezEYtIbASLmvrJgMt) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GAME](https://open.spotify.com/album/2qy7Hzhs2blyL2zuXsHIsC) | 4:10 | 2022-06-09 | 2022-11-21 |
 | [ビバ★ロック](https://open.spotify.com/track/701Ma11gNU9dOg7WQGRLna) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [ビバ★ロック](https://open.spotify.com/album/6fWCFmUFCTOkK7w4SvTgMI) | 3:29 | 2023-06-10 | 2023-09-10 |
 | [ブラックマーケット](https://open.spotify.com/track/4HeMwFVoInSamuTYudlgGm) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE MAX !!!](https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A) | 3:29 | 2022-06-13 | 2022-10-11 |
-| [ブルーバード](https://open.spotify.com/track/5mdvXxeJTn71DzTtTyOfxQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Diana Garnet](https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD) | [FLOW ANIME BEST 極](https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG) | 3:55 | 2022-06-09 | 2023-09-01 |
-| [ブルーバード\(NARUTO縛りMix ver.\)](https://open.spotify.com/track/7ohGwEAtTE8aV5YL2RySz3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Diana Garnet](https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD) | [FLOW THE COVER ～NARUTO縛り～](https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk) | 3:52 | 2023-08-31 |  |
+| [ブルーバード](https://open.spotify.com/track/5mdvXxeJTn71DzTtTyOfxQ) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Diana Garnet](https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD) | [FLOW ANIME BEST 極](https://open.spotify.com/album/44oxh50xgNjefTkN94ZXUG) | 3:55 | 2022-06-09 |  |
+| [ブルーバード\(NARUTO縛りMix ver.\)](https://open.spotify.com/track/7ohGwEAtTE8aV5YL2RySz3) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY), [Diana Garnet](https://open.spotify.com/artist/3H7zTgVfGK3oXE0j33UatD) | [FLOW THE COVER ～NARUTO縛り～](https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk) | 3:52 | 2023-08-31 | 2023-10-11 |
 | [ブレイブルー](https://open.spotify.com/track/5C3yntMb2Qi5i61c7VUUC4) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE MAX !!!](https://open.spotify.com/album/1a2YLSyokgLs0QB6nnmk3A) | 4:06 | 2022-06-09 |  |
 | [メロス](https://open.spotify.com/track/0alUfU5ZaXKF8IbDykGikb) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [SPLASH!!!　〜遥かなる自主制作BEST〜](https://open.spotify.com/album/59g7wpzEHm6dyxE9HJfUZp) | 4:05 | 2022-06-09 |  |
 | [モメント](https://open.spotify.com/track/1PpedV5nWpHk2R23ARixX9) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [DICE \(Complete Edition\)](https://open.spotify.com/album/4PepWTYHniNNHAM5kbSk0Q) | 3:58 | 2022-06-11 | 2023-02-17 |
@@ -93,7 +94,7 @@
 | [新世界](https://open.spotify.com/track/7bSJx8t6xQUlajgS0UecmL) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [新世界](https://open.spotify.com/album/6vjP2Ye1v3lFyG0CcwRnCf) | 3:53 | 2022-06-09 | 2022-12-16 |
 | [東京ブレーメン](https://open.spotify.com/track/3NiKrEOG1mt3sBfYtFImDO) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voy☆☆☆](https://open.spotify.com/album/1bTyGypqlwvfmXLOGkzdFY) | 3:17 | 2023-03-01 | 2023-06-11 |
 | [椿](https://open.spotify.com/track/4I5mM3fEuy4Qzliwz1Z7d1) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [アイル](https://open.spotify.com/album/1tFNscYr6PKailCy9Wralg) | 5:27 | 2022-06-23 | 2022-09-10 |
-| [流れ星 ～Shooting Star～](https://open.spotify.com/track/27k5RlJ8BhKMM3Bi8K7cGK) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE COVER ～NARUTO縛り～](https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk) | 3:51 | 2023-09-05 | 2023-10-05 |
+| [流れ星 ～Shooting Star～](https://open.spotify.com/track/27k5RlJ8BhKMM3Bi8K7cGK) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE COVER ～NARUTO縛り～](https://open.spotify.com/album/2Jpgkfvp3cQIK9B0sWxatk) | 3:51 | 2023-09-05 |  |
 | [流星](https://open.spotify.com/track/1eTKBnh7Kczg3hggOcnf6v) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜Single Collection〜](https://open.spotify.com/album/0EWoUxWh0SqcK0jN6UTbFc) | 4:16 | 2022-06-09 |  |
 | [燈](https://open.spotify.com/track/5U5ZUDFkEDbErnxGUISDI5) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [燈](https://open.spotify.com/album/61xd3iE3CxUoBoswb7xrZ5) | 3:52 | 2022-06-09 | 2023-07-30 |
 | [虹の空](https://open.spotify.com/track/0KV8TzuV6OGspByLVpyYPS) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [FLOW THE BEST 〜アニメ縛り〜](https://open.spotify.com/album/1RfSdRNZ32MVoDVs0ZRchO) | 4:06 | 2022-06-09 |  |

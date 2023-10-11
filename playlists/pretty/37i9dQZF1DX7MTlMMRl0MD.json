@@ -1,12 +1,12 @@
 {
   "description": "Tu lista favorita de Bachata \u2764\ufe0f Cover: Enrique Iglesias y Maria Becerra",
-  "num_followers": 1916552,
+  "num_followers": 1915369,
   "original_name": "Bachata Lovers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NmRhZTY4OTJmODFjN2FlNjU2ODBmZDA5OWU3NGVmODQ5YTI2Y2Ex",
+  "snapshot_id": "MCxkNWYyYWU5NDNhZDcyZTg2MmZjZGRjYWQyMWE3ODAwZjg0ZWM0ODQy",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Call On Me",
+        "url": "https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 168184,
+      "name": "Call On Me",
+      "url": "https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Que Vuelvas",
         "url": "https://open.spotify.com/album/4KN1ZXAY94rRlL8IwH1Pxg"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 213000,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/6YBMVW3OF19qHwJJ6AmQ6N"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Call On Me",
-        "url": "https://open.spotify.com/album/3Ohcoreeq3qG3okky9o0Wx"
-      },
-      "artists": [
-        {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
-        }
-      ],
-      "duration_ms": 168184,
-      "name": "Call On Me",
-      "url": "https://open.spotify.com/track/5dl97w82KkuprJVDKSyJQp"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "G\u00e9minis",
+        "url": "https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt"
+      },
+      "artists": [
+        {
+          "name": "Karlos Ros\u00e9",
+          "url": "https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib"
+        }
+      ],
+      "duration_ms": 185813,
+      "name": "Ni\u00f1a De Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1fwtJ5PoXp02amYo4gFHpP"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Noche Primavera",
         "url": "https://open.spotify.com/album/6lI8JL80iNP4A8qzlGNqTG"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "G\u00e9minis",
-        "url": "https://open.spotify.com/album/53kMwPKLEyqcmp8Vh1QwYt"
-      },
-      "artists": [
-        {
-          "name": "Karlos Ros\u00e9",
-          "url": "https://open.spotify.com/artist/6FQPrGwEepUrGKbzD3Zeib"
-        }
-      ],
-      "duration_ms": 185813,
-      "name": "Ni\u00f1a De Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1fwtJ5PoXp02amYo4gFHpP"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "La Historia\u2026Mis \u00c9xitos",
         "url": "https://open.spotify.com/album/3DY0cXNsokz4CCESixvI8w"
       },
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "La Carta",
+        "url": "https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 183600,
+      "name": "La Carta",
+      "url": "https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Fronteo",
         "url": "https://open.spotify.com/album/2P3hVbpOt0li6W0rolPeZC"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 152750,
       "name": "Fronteo",
       "url": "https://open.spotify.com/track/3OUAwkS8ZabaD8k8gSG7YP"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "La Carta",
-        "url": "https://open.spotify.com/album/48phjOl7TDFecAVbHfbQZ3"
-      },
-      "artists": [
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "La Carta",
-      "url": "https://open.spotify.com/track/2mYKWIsHhODugwBho8Mi7y"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Celoso",
-        "url": "https://open.spotify.com/album/0l60Oj3eiI7gBWUoAn8YLq"
+        "name": "Hablame De Ti",
+        "url": "https://open.spotify.com/album/5uAejFtlnv9SC42nXpN6Tn"
       },
       "artists": [
         {
-          "name": "Lil Eddie",
-          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
         }
       ],
-      "duration_ms": 203751,
-      "name": "Celoso",
-      "url": "https://open.spotify.com/track/73DAgDEI5kFmascekWsZIe"
+      "duration_ms": 267572,
+      "name": "Hablame De Ti",
+      "url": "https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1695,18 +1695,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Hablame De Ti",
-        "url": "https://open.spotify.com/album/5uAejFtlnv9SC42nXpN6Tn"
+        "name": "Celoso",
+        "url": "https://open.spotify.com/album/0l60Oj3eiI7gBWUoAn8YLq"
       },
       "artists": [
         {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+          "name": "Lil Eddie",
+          "url": "https://open.spotify.com/artist/5CY0QKsbUBpQJIE2yycsYi"
         }
       ],
-      "duration_ms": 267572,
-      "name": "Hablame De Ti",
-      "url": "https://open.spotify.com/track/7MrYqXLMquDTSC8CfvGJVF"
+      "duration_ms": 203751,
+      "name": "Celoso",
+      "url": "https://open.spotify.com/track/73DAgDEI5kFmascekWsZIe"
     },
     {
       "added_at": "2023-10-06 04:00:00",

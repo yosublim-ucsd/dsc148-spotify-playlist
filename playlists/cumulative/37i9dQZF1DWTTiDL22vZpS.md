@@ -4,7 +4,7 @@
 
 > Funk\-inspired beats by latinos.
 
-104 songs - 6 hr 34 min
+105 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Dejarte Ir](https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir](https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc) | 3:12 | 2022-11-22 | 2023-03-10 |
 | [Delorean](https://open.spotify.com/track/2jiVXTu5brRC5HWo47obWP) | [Mi$HNRZ](https://open.spotify.com/artist/1pnscOsCDX2GTRnmxT1l1C) | [Delorean](https://open.spotify.com/album/5fajWt99WhQeqwdcLaLi6t) | 3:08 | 2023-02-02 |  |
 | [Despacio](https://open.spotify.com/track/2LWqH7TB7GY9Bvme8FF7Ac) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Chango](https://open.spotify.com/album/7AzXtthlLZjuqonhrl0Wwa) | 3:05 | 2022-11-22 | 2023-10-07 |
+| [Despacio](https://open.spotify.com/track/4M8EITXCAirNIaYcwmf1LI) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Chango](https://open.spotify.com/album/65ZOMODDFgGWpANqUL9umN) | 3:05 | 2023-09-01 |  |
 | [Dicen](https://open.spotify.com/track/63k804w99BgYRXSjDfOzGl) | [Surfistas Del Sistema](https://open.spotify.com/artist/5lB9hKk7gAgG5tkb9N1LaJ) | [Dicen](https://open.spotify.com/album/4UV2K61AHd7G9trxn3MBbP) | 3:45 | 2023-03-31 |  |
 | [Déjate Llevar](https://open.spotify.com/track/5B2qLWsjcOL68pJfyixcMO) | [Camelo](https://open.spotify.com/artist/5xI0dlSNzUNuZhGDcGf2vW) | [Déjate Llevar](https://open.spotify.com/album/1ymjqpLcxPse6GMGaYIB8X) | 3:39 | 2023-09-01 | 2023-09-18 |
 | [El Llamado](https://open.spotify.com/track/4OgxEP5h38KjRYYPdA0grX) | [Alfredo Rodriguez](https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O), [Cimafunk](https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe) | [El Llamado](https://open.spotify.com/album/53JYiQ2PyJRHAl1nKCP4ap) | 3:41 | 2023-07-25 | 2023-08-31 |
@@ -56,7 +57,7 @@
 | [In My Bones](https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv) | [DJ Who](https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [In My Bones](https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp) | 3:37 | 2023-07-14 |  |
 | [Jennifer Del Estero](https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Leche](https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU) | 4:55 | 2022-11-22 |  |
 | [Juntos](https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [La Película](https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma) | 3:19 | 2023-03-24 |  |
-| [Ki Flip](https://open.spotify.com/track/1JMCvBGLY8DvM8nXKGjP7D) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 2:35 | 2022-11-22 |  |
+| [Ki Flip](https://open.spotify.com/track/1JMCvBGLY8DvM8nXKGjP7D) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 2:35 | 2022-11-22 | 2023-10-11 |
 | [La Canción Bootleg](https://open.spotify.com/track/5SuQfdbJJzQqESfYZVts8P) | [Bruno Borlone](https://open.spotify.com/artist/3tDix7cw0fgoa5idDGJ6Wo) | [La Canción Bootleg](https://open.spotify.com/album/4kgFCJTsidOorDHEAWUA3J) | 4:21 | 2022-11-22 | 2022-11-25 |
 | [La Canción Bootleg](https://open.spotify.com/track/6ZL6eps0c2N7Ans3z6P4fS) | [Bruno Borlone](https://open.spotify.com/artist/3tDix7cw0fgoa5idDGJ6Wo) | [La Canción Bootleg](https://open.spotify.com/album/7mpvDiCsmHouF7FrQjE84T) | 4:31 | 2022-11-22 | 2022-12-22 |
 | [La Declaración](https://open.spotify.com/track/0MArhYeFvgi8V2Pj3ecwBs) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [La Declaración](https://open.spotify.com/album/40t4vhHKFGfCg0ef2ALiqn) | 4:37 | 2022-11-22 |  |

@@ -4,7 +4,7 @@
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: EL FERXXO
 
-62 songs - 3 hr 13 min
+63 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/track/33bnxcjePIkcmNjEFTJX0l) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Déjala Que Vuelva \(feat\. Manuel Turizo\)](https://open.spotify.com/album/70WadO9CAH4rOI1rEbTS0a) | 3:40 | 2023-09-30 |  |
 | [El Cielo](https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [El Cielo](https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f) | 3:11 | 2023-09-30 |  |
 | [EL RELOJ \(con Maluma\)](https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [EL RELOJ \(con Maluma\)](https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR) | 3:00 | 2023-09-30 |  |
-| [En Mi Piel](https://open.spotify.com/track/7xkMZiXypSSqi7EIIYLDHF) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Fainal & Shako](https://open.spotify.com/artist/2aWyENWGXJIHKOY6BZ7DTD) | [En Mi Piel](https://open.spotify.com/album/2G87V7lMtUFAUXb9DqWaF3) | 3:29 | 2023-09-30 |  |
+| [En Mi Piel](https://open.spotify.com/track/7xkMZiXypSSqi7EIIYLDHF) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Fainal & Shako](https://open.spotify.com/artist/2aWyENWGXJIHKOY6BZ7DTD) | [En Mi Piel](https://open.spotify.com/album/2G87V7lMtUFAUXb9DqWaF3) | 3:29 | 2023-09-30 | 2023-10-11 |
 | [EY CHORY](https://open.spotify.com/track/74BwwBMcu6xNt7nWmtsCg1) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:57 | 2023-09-30 |  |
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu) | 2:36 | 2023-09-30 |  |
 | [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2023-09-30 |  |
@@ -64,6 +64,7 @@
 | [RITMO DE MEDALLO](https://open.spotify.com/track/3gquN8yA0TnqD4NemqCnng) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:58 | 2023-09-30 |  |
 | [S91](https://open.spotify.com/track/7EpOXgSRgnglRWr86pZfGU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [S91](https://open.spotify.com/album/0bgvd5Xd52TX61R8uhaISK) | 2:53 | 2023-09-30 |  |
 | [Si Te La Encuentras Por Ahí](https://open.spotify.com/track/02jLfqc9gMo8PkHEGHY3OT) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Si Te La Encuentras Por Ahí](https://open.spotify.com/album/29RDinslKobc2UKf1XcWn6) | 3:11 | 2023-09-30 |  |
+| [Todos Mienten](https://open.spotify.com/track/5d5OZU83S7zk9tywpKXU7H) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg), [Los Rogelios](https://open.spotify.com/artist/3Iq3cJnSTLqSEg7IFzsers), [ElMalaFama](https://open.spotify.com/artist/4jyb6tiyWziOp0Gu1Gre49), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Robin Rouse](https://open.spotify.com/artist/36pU0SBDFZq23Ca4qq40jg) | [Todos Mienten](https://open.spotify.com/album/3Smf95F1l0e8wO5TDfpnpV) | 6:24 | 2023-10-10 |  |
 | [Trofeo](https://open.spotify.com/track/4RtEiwxATP4Vko76xcFmf6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 3:42 | 2023-09-30 |  |
 | [UNA NOCHE EN MEDELLÍN \- REMIX](https://open.spotify.com/track/6ejks4eS7DOoYW8hrpRcDV) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:25 | 2023-09-30 |  |
 | [Verano](https://open.spotify.com/track/1wf5TOiS5FniiUFoXG98zd) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS) | [Verano](https://open.spotify.com/album/3fAhHCHL12IjUVUMmImIUs) | 3:15 | 2023-09-30 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Shindy Samuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,372 likes - 97 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,373 likes - 97 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 28 | [Panorama](https://open.spotify.com/track/5tW3BshqzYynq9dF3yBWTs) | [Axl Ramanda](https://open.spotify.com/artist/6OJKPCiRnBW1UqYvEC276L) | [Panorama](https://open.spotify.com/album/6fGHcbhjdn9ecLoVdDwJth) | 3:23 |
 | 29 | [Healing Dreams](https://open.spotify.com/track/2OvD7nNSfeAeP5TIkpFlWW) | [Thesar](https://open.spotify.com/artist/19gTdGkA4xOki2OM14iHxP), [Ria Zipie](https://open.spotify.com/artist/2ljjjQySqVBzkhABSUX8oa), [Jonathan Ceasar](https://open.spotify.com/artist/4N71Gznhu7HRtSGEAgFFxh) | [Healing Dreams](https://open.spotify.com/album/28fIwCAee0C0HmVJOT0pja) | 2:46 |
 | 30 | [KITA BISA](https://open.spotify.com/track/3tmZOGON0wazWVzOUcFDJQ) | [CLOSE TO BREATHE](https://open.spotify.com/artist/2oxtn1AnFNV3EWiYhWZoMB) | [KITA BISA](https://open.spotify.com/album/2gDCSSohEEJ0FAZa4ZUqu9) | 4:03 |
-| 31 | [Like That](https://open.spotify.com/track/0Tnqgwi9pKWzSAZCcJErnv) | [Kevin B](https://open.spotify.com/artist/6CXwm8PCB3VbvMS42QBa6r) | [Like That](https://open.spotify.com/album/2LNKJY6i1j5VpVcIAW0E3I) | 2:17 |
+| 31 | [Like That](https://open.spotify.com/track/0Tnqgwi9pKWzSAZCcJErnv) | [Kevin B](https://open.spotify.com/artist/0i8gwfHJ16g9IXyLO8dLe6) | [Like That](https://open.spotify.com/album/2LNKJY6i1j5VpVcIAW0E3I) | 2:17 |
 | 32 | [Aku Ingin Jatuh Cinta](https://open.spotify.com/track/4owKMFCk4tliZF1t1Q8w87) | [Andina](https://open.spotify.com/artist/2urTRtH45rKL7UA9bc2IMR) | [Aku Ingin Jatuh Cinta](https://open.spotify.com/album/300eErmzKOlCS6uXjAGUjZ) | 4:50 |
 | 33 | [Museum Memori](https://open.spotify.com/track/1ON8jFskrGzOVtKYJW5qTh) | [Dua Kota](https://open.spotify.com/artist/2Pyk4d6ruGoNcqtflFJDzy) | [Museum Memori](https://open.spotify.com/album/1UybQpJfqA2ZUpb7s7ay3U) | 5:43 |
 | 34 | [For You](https://open.spotify.com/track/0WZeeTP96hrkaSpdorffjE) | [Arialsays](https://open.spotify.com/artist/1k1k7EVTpdVRtMV6rt5vLF) | [For You](https://open.spotify.com/album/5xJCHv1m03tegkDRyDeKMA) | 3:28 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 96 | [Get off of Me](https://open.spotify.com/track/4S23hGvMCB6SNXFGv1pIuM) | [Right Bangs](https://open.spotify.com/artist/52D86KL1fLPygjIDoGPeSA), [Shierly Jane](https://open.spotify.com/artist/3Ps12w6PNzjzrNdtEKVJAs), [New Sound Generation](https://open.spotify.com/artist/6UJlomJYXsgtDqwqpfLHmD) | [Get off of Me](https://open.spotify.com/album/3mWMLBnrXtjViHluWwBBXT) | 2:15 |
 | 97 | [Pain in My Soul](https://open.spotify.com/track/2CFZSY12bsk3EBdxemlzHl) | [Irzhal Efadh](https://open.spotify.com/artist/4cok0Kl5xGtjJxTLuRtFsv) | [Pain in My Soul](https://open.spotify.com/album/0Qetxwe1Y3DRY6PJMYVnlJ) | 5:12 |
 
-Snapshot ID: `MCxmMWQ5OWNkMGJkOWI3ZjQxZWI0YzQ4ZmI3YTM1MDAzMzdlZmY0MWMy`
+Snapshot ID: `MCxiYjA4ZGE3MzM0M2ZlZGQ1NGI2YzFlMDU1M2FkM2M5MThkMmE1MWEw`

@@ -701,6 +701,24 @@
     },
     {
       "album": {
+        "name": "When The Darkness Fades",
+        "url": "https://open.spotify.com/album/1q5cjxQeQ5dVHpPzcDiVOg"
+      },
+      "artists": [
+        {
+          "name": "Black Atlass",
+          "url": "https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253531,
+      "name": "All I've Got",
+      "url": "https://open.spotify.com/track/5zpTPxwvDo0qsrw5ISPaqp"
+    },
+    {
+      "album": {
         "name": "All Made Up",
         "url": "https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1"
       },
@@ -2022,6 +2040,24 @@
       "duration_ms": 204440,
       "name": "Bitches Be (with Jst Ray)",
       "url": "https://open.spotify.com/track/24CY4TWscXoyZRrmsQdiq1"
+    },
+    {
+      "album": {
+        "name": "Black Goose",
+        "url": "https://open.spotify.com/album/4QaBlPW42jSyeOv5dLg6pv"
+      },
+      "artists": [
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153950,
+      "name": "Black Goose",
+      "url": "https://open.spotify.com/track/42twCm34xVG0EQexL1BuPm"
     },
     {
       "album": {
@@ -11844,7 +11880,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 180545,
       "name": "On My Way",
       "url": "https://open.spotify.com/track/1JrcjXpkAEIALeX9tqIAVA"
@@ -15784,7 +15820,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 309904,
       "name": "SWEET GEORGIA",
       "url": "https://open.spotify.com/track/5gcr1NIWr4fgppRFvVVFqv"

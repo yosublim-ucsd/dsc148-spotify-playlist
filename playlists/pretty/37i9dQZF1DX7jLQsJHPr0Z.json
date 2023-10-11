@@ -1,12 +1,12 @@
 {
   "description": "The aux for every college party.",
-  "num_followers": 31103,
+  "num_followers": 31490,
   "original_name": "Frat Party",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1OTYwMzgyYTgxZTY5MTI5MDk3ZjQ5ZWI4ZTllZDkwYTRiMTYxZjZi",
+  "snapshot_id": "MCw4NjBmZTM0MGMyZDY0MDBmMzY1YWJlYTk0NzdkYjg4YjY4NzllMDY2",
   "tracks": [
     {
       "added_at": "2023-08-10 20:54:35",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-08-10 20:54:35",
       "album": {
-        "name": "The Trinity",
-        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 218573,
-      "name": "Temperature",
-      "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
-    },
-    {
-      "added_at": "2023-08-10 20:54:35",
-      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 267266,
       "name": "Rock Your Body",
       "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
+    },
+    {
+      "added_at": "2023-08-10 20:54:35",
+      "album": {
+        "name": "The Trinity",
+        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 218573,
+      "name": "Temperature",
+      "url": "https://open.spotify.com/track/0k2GOhqsrxDTAbFFSdNJjT"
     },
     {
       "added_at": "2023-08-10 20:54:35",
@@ -1607,22 +1607,22 @@
     {
       "added_at": "2023-08-10 20:54:35",
       "album": {
-        "name": "Roses",
-        "url": "https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC"
+        "name": "The Fame",
+        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
       },
       "artists": [
         {
-          "name": "The Chainsmokers",
-          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
         },
         {
-          "name": "ROZES",
-          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
+          "name": "Colby O'Donis",
+          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
         }
       ],
-      "duration_ms": 226738,
-      "name": "Roses",
-      "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
+      "duration_ms": 241933,
+      "name": "Just Dance",
+      "url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
     },
     {
       "added_at": "2023-08-10 20:54:35",
@@ -1663,22 +1663,22 @@
     {
       "added_at": "2023-08-10 20:54:35",
       "album": {
-        "name": "The Fame",
-        "url": "https://open.spotify.com/album/1jpUMnKpRlng1OJN7LJauV"
+        "name": "Roses",
+        "url": "https://open.spotify.com/album/2GFflENKz28RcMoSuulPZC"
       },
       "artists": [
         {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          "name": "The Chainsmokers",
+          "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
         },
         {
-          "name": "Colby O'Donis",
-          "url": "https://open.spotify.com/artist/7fObcBw9VM3x7ntWKCYl0z"
+          "name": "ROZES",
+          "url": "https://open.spotify.com/artist/6jsjhAEteAlY0vCiLvMLBA"
         }
       ],
-      "duration_ms": 241933,
-      "name": "Just Dance",
-      "url": "https://open.spotify.com/track/2x7MyWybabEz6Y6wvHuwGE"
+      "duration_ms": 226738,
+      "name": "Roses",
+      "url": "https://open.spotify.com/track/3vv9phIu6Y1vX3jcqaGz5Z"
     },
     {
       "added_at": "2023-08-10 20:54:35",

@@ -4,7 +4,7 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with GRiZ
 
-617 songs - 1 day 11 hr 39 min
+618 songs - 1 day 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,6 +141,7 @@
 | [Desperado](https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Desperado](https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6) | 3:53 | 2022-06-10 | 2022-12-03 |
 | [Destiny](https://open.spotify.com/track/1Z6tfLB21XhdZZnS9xaBLs) | [Ace Aura](https://open.spotify.com/artist/5o2KBzYUFierWmBhSemAhq) | [Destiny](https://open.spotify.com/album/2Z2FA1PG9oa7LpxBZRXGBm) | 4:28 | 2021-12-17 | 2022-03-12 |
 | [Dibby Dibby DJ](https://open.spotify.com/track/56tEhPXmy3v3f07kHZQKWz) | [AC Slater](https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc) | [This Is Night Bass: Vol\. 14](https://open.spotify.com/album/0vrgZVoQ9Z34ORVkyhNH8e) | 3:04 | 2022-06-03 | 2022-09-03 |
+| [Die With It](https://open.spotify.com/track/3ZDuop6M6asvg8zae32PVz) | [Azide](https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h), [J Swey](https://open.spotify.com/artist/7qF6NAMsPdmVz0o8n5v1Ht) | [Die With It](https://open.spotify.com/album/6uwEBRSWF2VwW6SUmGnhpW) | 2:19 | 2023-10-06 |  |
 | [Different Worlds](https://open.spotify.com/track/240IKl4yYUPjffy6x8Ym6z) | [Tripp St.](https://open.spotify.com/artist/6IuIhkCK8SjoSJskiCZdp0) | [Different Worlds](https://open.spotify.com/album/1pXRDHqHGVaVYyTIIvOq2g) | 3:25 | 2021-12-17 | 2022-02-18 |
 | [Dilemma](https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Dilemma](https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD) | 3:29 | 2022-10-21 | 2023-06-02 |
 | [Dimension](https://open.spotify.com/track/3IWkjBkiR4pHOkaHV52OMl) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb) | [Dimension](https://open.spotify.com/album/2DX7xiwtqyOVG3BmgyIbV4) | 2:39 | 2022-03-18 | 2022-08-27 |
@@ -272,7 +273,7 @@
 | [Hum](https://open.spotify.com/track/2xUV9DYYeUDJ6qhTvMweUZ) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Hum](https://open.spotify.com/album/2Ada1o4AzW1xxBaYniu6xi) | 2:51 | 2023-03-24 | 2023-07-15 |
 | [HydroPlane](https://open.spotify.com/track/639R1wABWk9uwfHUUpAJcx) | [AOBeats](https://open.spotify.com/artist/2tfyKNBwTB41ArvliXX1zA) | [HydroPlane](https://open.spotify.com/album/50gNjUaJI0gIJ6uiX95aRQ) | 3:28 | 2023-08-18 | 2023-09-23 |
 | [Hyperdrive](https://open.spotify.com/track/0MAz9ic5HYosDQIjdKUDjX) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Benda](https://open.spotify.com/artist/0md3NIXueJZSFZ82HMu26M) | [Hyperdrive](https://open.spotify.com/album/07oOBedaL4K63cb5yfu6tl) | 3:09 | 2023-06-23 | 2023-09-16 |
-| [Hyperdust](https://open.spotify.com/track/1P3o5TUYsIN3Qx7u17iRBN) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [HUMAN](https://open.spotify.com/album/5iXNn0qS3oGyl4jnYW8Y8d) | 2:40 | 2023-03-24 |  |
+| [Hyperdust](https://open.spotify.com/track/1P3o5TUYsIN3Qx7u17iRBN) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [HUMAN](https://open.spotify.com/album/5iXNn0qS3oGyl4jnYW8Y8d) | 2:40 | 2023-03-24 | 2023-10-11 |
 | [Hypnocurrency](https://open.spotify.com/track/3evAUkYDPeLX5kn0LbvGz4) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Hypnocurrency](https://open.spotify.com/album/28WW07Sx0IrAXAb1xDDnD3) | 4:52 | 2021-12-17 | 2022-02-19 |
 | [Hypnotic](https://open.spotify.com/track/2GVscOY1PbZknTX0lNuxni) | [EDDIE](https://open.spotify.com/artist/0LgrViZrCyMgg5MfTc33bd), [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Onzeker Kraft Vol.1](https://open.spotify.com/album/5YjyH1QQ20buSHnLJ3xm65) | 3:43 | 2023-03-24 | 2023-09-16 |
 | [I Believe \- Nemesy Remix](https://open.spotify.com/track/0rSuUyfsBHm9x93QjK6dvI) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk), [Asha](https://open.spotify.com/artist/2EHKTScPT87Z0dHvTevc8D), [Nemesy](https://open.spotify.com/artist/6Ha6XgaRrFiCKXLtRi2iwk) | [I Believe \(Nemesy Remix\)](https://open.spotify.com/album/3uDwwQ3uieTjtJgpypL3Yn) | 2:58 | 2023-06-02 | 2023-08-19 |

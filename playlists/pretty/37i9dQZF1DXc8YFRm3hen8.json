@@ -1,12 +1,12 @@
 {
   "description": "La banda de sonido de tu d\u00eda.",
-  "num_followers": 160477,
+  "num_followers": 160549,
   "original_name": "Rock del D\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YWRiOTdlMDlkODdhODkxOGYzZTkxNDhjZjFjZmYxYTU2ZjgwYTZh",
+  "snapshot_id": "MCwzOGI1ZTIwNzBhMjM4NmUwM2Q4NmFkM2U2ZWNkN2E3NjI0ZDUwNDgw",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -675,22 +675,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Otro D\u00eda en el Planeta Tierra",
-        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
+        "name": "DESCARTABLE",
+        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
       },
       "artists": [
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        },
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 261545,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
+      "duration_ms": 181782,
+      "name": "DESCARTABLE",
+      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -731,18 +727,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "DESCARTABLE",
-        "url": "https://open.spotify.com/album/7irH2ykRChk6KjZ1Q8WmwY"
+        "name": "Otro D\u00eda en el Planeta Tierra",
+        "url": "https://open.spotify.com/album/4Q2jY2HQPZxGimNjoKFKaC"
       },
       "artists": [
         {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        },
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 181782,
-      "name": "DESCARTABLE",
-      "url": "https://open.spotify.com/track/7J00DHotXFrXatl9X6xY9r"
+      "duration_ms": 261545,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/6q41qt2R9K8BXEzmzImEGO"
     },
     {
       "added_at": "2023-10-06 03:00:00",

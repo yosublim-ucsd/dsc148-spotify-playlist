@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,926 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,944 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 19 | [Salvación](https://open.spotify.com/track/7gzQzrH2ClI6WZaHLD5emF) | [Los Miticos Del Ritmo](https://open.spotify.com/artist/1YR9g05YIIVWq3QsC7Krsu), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Salvación](https://open.spotify.com/album/3fWUpz7YriP4W7l38z0pXE) | 2:47 |
 | 20 | [María](https://open.spotify.com/track/570cF2dEppbenkihxtlisz) | [Laura Maré](https://open.spotify.com/artist/0jewyEquYvSCLkwgHZM4XO) | [María](https://open.spotify.com/album/7vDmxXUdI5DH2tKSaDrJ0m) | 2:50 |
 | 21 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 |
-| 22 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
-| 23 | [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 |
+| 22 | [Quiero Saber Quién Es Tu Novi@](https://open.spotify.com/track/3rFT4nxLLLpABC29tvk6vO) | [Kanaku y El Tigre](https://open.spotify.com/artist/27GzlZraldlAG0k7oBqmUS), [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [wiranda johansen](https://open.spotify.com/artist/6OqKESKxY3ltCGxUnWBrAX) | [¿Si Le Doy Zoom, Puedo Ver África?](https://open.spotify.com/album/6L2odQpZmWgUVCWNTd03ox) | 2:40 |
+| 23 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
 | 24 | [Te Quiero Olvidar](https://open.spotify.com/track/7HsVyALWw7ILw9wqNJGcUw) | [Salt Cathedral](https://open.spotify.com/artist/1HhSYZFNNPTTZuOlSfZUJP) | [Te Quiero Olvidar](https://open.spotify.com/album/7vC7hsFMfCARD5FQWiAzIY) | 3:22 |
 | 25 | [Regalo](https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Buen Pez \(Deluz\)](https://open.spotify.com/album/3s2UhG2xtyqzAVc9qGqWpe) | 2:57 |
 | 26 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 41 | [Cuando Canto Grito](https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Lucía Pulido](https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O) | [Cuando Canto Grito](https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP) | 5:41 |
 | 42 | [Quiromancia \(feat\. Vic Mirallas\)](https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 4:16 |
 | 43 | [Estás Escuchando \(with El David Aguilar\) \- Single Edit](https://open.spotify.com/track/48Jst8pgJLrsiVw0P9XdhH) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Estás Escuchando \(with El David Aguilar\)](https://open.spotify.com/album/5Uh0kntVBVR3LYu06MN5jK) | 2:17 |
-| 44 | [Esto Es Real \(8100mg\)](https://open.spotify.com/track/5FWW3dZqsqN3ryZqBpsmFS) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Ahomale](https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe) | 4:58 |
-| 45 | [No Hay Luka](https://open.spotify.com/track/55i7dPL0vhXBePs1c6Isbh) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Guarever](https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF) | 4:17 |
-| 46 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
+| 44 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
+| 45 | [Esto Es Real \(8100mg\)](https://open.spotify.com/track/5FWW3dZqsqN3ryZqBpsmFS) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Ahomale](https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe) | 4:58 |
+| 46 | [No Hay Luka](https://open.spotify.com/track/55i7dPL0vhXBePs1c6Isbh) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Guarever](https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF) | 4:17 |
 | 47 | [Máquina Del Tiempo](https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Máquina Del Tiempo](https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg) | 3:33 |
 | 48 | [Nene](https://open.spotify.com/track/4072ATOEodtwhvqNn6YZ40) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Nene](https://open.spotify.com/album/0tgy5chY8udqVnwvAoFMBG) | 3:21 |
 | 49 | [Conectar](https://open.spotify.com/track/4w95fyTD2dawHjWZCnV7Vk) | [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [El Álbum de las Ilusiones](https://open.spotify.com/album/7wTHrCoUQJNtkhQRFreDiW) | 4:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 74 | [Calavera](https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Calavera](https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL) | 3:13 |
 | 75 | [Pasatiempo](https://open.spotify.com/track/0zTrBn533RlwK9EpQToLRV) | [Tim Mara](https://open.spotify.com/artist/1RCqp2ViXc6Vbog6QdaiLR) | [Pasatiempo](https://open.spotify.com/album/2gj0XvFtwo0NTDARtj1I39) | 3:22 |
 
-Snapshot ID: `MCxkMTViMTVjOGRhZDk3NGE2ZWMwOWFiZTUwOGFmZDkzMDZhYzI3ODE3`
+Snapshot ID: `MCwwMmQxMDY1MzdiMGI5MzFkODlhYWRkOTBhYzM5NzBlOGQ4ZmNlYTBl`

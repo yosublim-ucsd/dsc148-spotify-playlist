@@ -1,12 +1,12 @@
 {
   "description": "it's officially october and you know what that means....... \ud83c\udf41",
-  "num_followers": 224245,
+  "num_followers": 224591,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYWQ5NzE2NzRjYmUwMWM2NDUyNTQxY2FmZTFkNWM1MjliZTViNjYy",
+  "snapshot_id": "MCw0ZTk3ZWQ2ZmRlMjgyZjVmZDg1NGJlOThiMjdlNGNjNzAxZThjNWY1",
   "tracks": [
     {
       "added_at": "2023-10-02 12:23:35",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
     },
     {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
       "added_at": "2023-10-04 22:00:00",
       "album": {
         "name": "Cigarettes After Sex",
@@ -57,20 +41,24 @@
       "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
     },
     {
-      "added_at": "2023-10-04 22:00:00",
+      "added_at": "2023-10-10 13:54:37",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+        "name": "Long Awaited, Pt. 2",
+        "url": "https://open.spotify.com/album/02PS8soijyU5ZNChZJ9eNW"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "D Murph",
+          "url": "https://open.spotify.com/artist/1GJLAy8pdEab8qAnj24ZUl"
+        },
+        {
+          "name": "Worldwide L.A.",
+          "url": "https://open.spotify.com/artist/1NY8RmOv1uqZIfrYOoEZLR"
         }
       ],
-      "duration_ms": 211141,
-      "name": "get him back!",
-      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+      "duration_ms": 197067,
+      "name": "Wait",
+      "url": "https://open.spotify.com/track/0RD5leOXZC65xqYHVzSpZk"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -103,6 +91,86 @@
       "duration_ms": 213706,
       "name": "Way down We Go",
       "url": "https://open.spotify.com/track/0y1QJc3SJVPKJ1OvFmFqe6"
+    },
+    {
+      "added_at": "2023-10-10 13:57:22",
+      "album": {
+        "name": "Dance Vault Mixes - Copacabana (At The Copa)",
+        "url": "https://open.spotify.com/album/52Ho5XgGwrNrPARqqXhJ5P"
+      },
+      "artists": [
+        {
+          "name": "Barry Manilow",
+          "url": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+        }
+      ],
+      "duration_ms": 236760,
+      "name": "Copacabana (At the Copa)",
+      "url": "https://open.spotify.com/track/5FMXrphygZ4z3gVDHGWxgl"
+    },
+    {
+      "added_at": "2023-10-04 22:00:00",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 211141,
+      "name": "get him back!",
+      "url": "https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2023-10-10 14:21:16",
+      "album": {
+        "name": "Talk to Me (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1d1ZEmPwvPZXIOQRqjDBkw"
+      },
+      "artists": [
+        {
+          "name": "Richard Carter",
+          "url": "https://open.spotify.com/artist/6jlwBcuB3gOuSR4Hb6MmVU"
+        }
+      ],
+      "duration_ms": 134853,
+      "name": "Le Monde",
+      "url": "https://open.spotify.com/track/424DkevE18QJazwlljiTD4"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
       "added_at": "2023-10-06 10:00:00",
@@ -167,38 +235,6 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 200255,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
         "name": "Vois sur ton chemin (Techno Mix)",
         "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
       },
@@ -211,6 +247,22 @@
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Water",
+        "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 200255,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -247,6 +299,42 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
+        "name": "snowfall",
+        "url": "https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH"
+      },
+      "artists": [
+        {
+          "name": "\u00d8neheart",
+          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
+        },
+        {
+          "name": "reidenshi",
+          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
+        }
+      ],
+      "duration_ms": 124065,
+      "name": "snowfall",
+      "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
+    },
+    {
+      "added_at": "2023-10-10 13:54:37",
+      "album": {
+        "name": "Javelin",
+        "url": "https://open.spotify.com/album/2KqSL3vLfyVO7rrZJL9tUs"
+      },
+      "artists": [
+        {
+          "name": "Sufjan Stevens",
+          "url": "https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c"
+        }
+      ],
+      "duration_ms": 249259,
+      "name": "Will Anybody Ever Love Me?",
+      "url": "https://open.spotify.com/track/7IAx9OvToHkT8C4ZlX9hwe"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
         "name": "Big Dreams",
         "url": "https://open.spotify.com/album/6fvC9xjAr2m1WvB704uuH1"
       },
@@ -263,6 +351,22 @@
       "duration_ms": 158406,
       "name": "Big Dreams",
       "url": "https://open.spotify.com/track/1Qag4tPpQhj3hCehreXUnR"
+    },
+    {
+      "added_at": "2023-10-10 14:21:16",
+      "album": {
+        "name": "Justified",
+        "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 267266,
+      "name": "Rock Your Body",
+      "url": "https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -317,6 +421,22 @@
       "url": "https://open.spotify.com/track/2TIGwYiQYr1N5zTOQToDfK"
     },
     {
+      "added_at": "2023-10-10 14:21:16",
+      "album": {
+        "name": "IT GIRL",
+        "url": "https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH"
+      },
+      "artists": [
+        {
+          "name": "Aliyah's Interlude",
+          "url": "https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545"
+        }
+      ],
+      "duration_ms": 161760,
+      "name": "IT GIRL",
+      "url": "https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP"
+    },
+    {
       "added_at": "2023-09-28 22:00:00",
       "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
@@ -331,26 +451,6 @@
       "duration_ms": 222369,
       "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "snowfall",
-        "url": "https://open.spotify.com/album/4NRsGHlWBTl4rdLcq8CKcH"
-      },
-      "artists": [
-        {
-          "name": "\u00d8neheart",
-          "url": "https://open.spotify.com/artist/0dgJbQ0bKPyUXco8hEXN7X"
-        },
-        {
-          "name": "reidenshi",
-          "url": "https://open.spotify.com/artist/6SdlxyPsQ3B0yYncFmDULP"
-        }
-      ],
-      "duration_ms": 124065,
-      "name": "snowfall",
-      "url": "https://open.spotify.com/track/4xF4ZBGPZKxECeDFrqSAG4"
     },
     {
       "added_at": "2023-09-28 22:00:00",

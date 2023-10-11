@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,812 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,805 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 27 | [Home to You](https://open.spotify.com/track/74Wc7GSHUsVZaFHUOj6TyC) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Home to You](https://open.spotify.com/album/7qosYUi4BThLLznyzZQTwD) | 3:33 |
 | 28 | [Mid Sentence](https://open.spotify.com/track/5z78SPUoa0zZcb1uWbwPMH) | [Xavier Dunn](https://open.spotify.com/artist/1JmAXAbenjeUV9rTxyI9ZZ), [Gretta Ray](https://open.spotify.com/artist/4xdEmbimxXyo9wXy9lq3ek) | [Mid Sentence](https://open.spotify.com/album/5xgVWVKEDffykXq1tfSBeX) | 3:04 |
 | 29 | [My Boy](https://open.spotify.com/track/5ndSLoHMt298BYsru2seYK) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [My Boy](https://open.spotify.com/album/6BkPM6yssffxIhcKimWI3B) | 2:43 |
-| 30 | [Book Full Of Answers](https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Bloodline](https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd) | 5:00 |
-| 31 | [Friend](https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:17 |
+| 30 | [Friend](https://open.spotify.com/track/1O00a7AxVVYayBmZyM48S1) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:17 |
+| 31 | [Book Full Of Answers](https://open.spotify.com/track/0OhhOKtQ7wb3YmcWlIEi1h) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Bloodline](https://open.spotify.com/album/06QkdzdXGYuSxLYl9jhGMd) | 5:00 |
 | 32 | [CAMPFIRE](https://open.spotify.com/track/3Lxf1Nie6pr5Kbb4CQ0Xfv) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG) | 3:00 |
 | 33 | [The Coffee Song](https://open.spotify.com/track/6AKSwoiMFR8fl3GLPRpa7Q) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Summer Nights](https://open.spotify.com/album/5C7zVZ1N1WDqSh6iyLRC7j) | 3:08 |
 | 34 | [Take Me Home](https://open.spotify.com/track/28SkzelgDhmDCjl61yFF3I) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy), [Nadia Reid](https://open.spotify.com/artist/6ZoRg8NnEtVmtUhgCTSCrn) | [Roses](https://open.spotify.com/album/6w6TexLleVpQxVzOKOBaOD) | 4:54 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 46 | [Tears Don’t Fall](https://open.spotify.com/track/2T3whAdkzXCT58yFXsZgjm) | [Terrible Sons](https://open.spotify.com/artist/3eaJ1prUilN6z7yoFx9u2g) | [Half Awake, Half Asleep](https://open.spotify.com/album/7cHSI1g84HZbJ2GwauTahA) | 3:10 |
 | 47 | [A Song To Be Named](https://open.spotify.com/track/3nmqes7ccaF88YzLzS7IRm) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [A Song To Be Named](https://open.spotify.com/album/5TSueVvydjcRQ4W9qEiNVA) | 4:09 |
 | 48 | [What It Means to Be Human](https://open.spotify.com/track/0EVKjOkZaDzPr5UAFyjfk8) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [What It Means to Be Human](https://open.spotify.com/album/6M3PByvWK0RdJjRsJYO82q) | 4:35 |
-| 49 | [Society's a Mansion](https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk) | [Mimi Gilbert](https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P) | [Grew Inside the Water](https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY) | 4:44 |
-| 50 | [Sunday Morning](https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Sunday Morning](https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L) | 3:52 |
+| 49 | [Sunday Morning](https://open.spotify.com/track/6EjxCRX9oiCDhxaSl0KcTl) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Sunday Morning](https://open.spotify.com/album/6blpw51RAg5g4h6Ykn2N9L) | 3:52 |
+| 50 | [Society's a Mansion](https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk) | [Mimi Gilbert](https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P) | [Grew Inside the Water](https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY) | 4:44 |
 | 51 | [8 Hour Drive](https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Water & The Rough](https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL) | 3:36 |
 | 52 | [TATTOOS](https://open.spotify.com/track/2oS1CW1vbfD8t1I6As9ZhR) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG) | 2:41 |
 | 53 | [Carry You With Me](https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Carry You With Me](https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD) | 4:18 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 57 | [Outside Kinda Kids](https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Outside Kinda Kids](https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji) | 3:15 |
 | 58 | [Love Is an Open Road](https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [Love Is an Open Road](https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8) | 2:46 |
 | 59 | [Love Shack](https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Love Shack](https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C) | 4:09 |
-| 60 | [The Sweetest Days](https://open.spotify.com/track/4uKbNHTS478jijU1okANjz) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [The Sweetest Days](https://open.spotify.com/album/6LDtZ95MGYdEGb2lMH7rEE) | 3:34 |
+| 60 | [this is how you fall in love](https://open.spotify.com/track/7iqp8pV9NTmxJQf2uuVTOE) | [Parker Rose](https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF) | [this is how you fall in love](https://open.spotify.com/album/4y9pwFu4CY9pcY1ZDAupwh) | 2:41 |
 
-Snapshot ID: `MCxiNmNmOGUyNThlNDUzNGFhZmQzYWUwZThkMGVlYmI2OTdkMWE5M2Ux`
+Snapshot ID: `MCw0NjFkMzQ4ZDk5MDllZWRkNjJlYmQyZDdjNGE4MDhkMTQ4ODBjMDg2`

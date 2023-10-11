@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 
 > The Mills Brothers, The Andrews Sisters and other classic vocal groups.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,782 likes - 45 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,781 likes - 45 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,9 +42,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 32 | [May You Always](https://open.spotify.com/track/3VNjiS6wrDpESHRMvmqTYM) | [The McGuire Sisters](https://open.spotify.com/artist/6oXkzBf6bMupenvf4tKtmN) | [The Anthology](https://open.spotify.com/album/61rb02N7fHGie0DMqkOWE6) | 2:58 |
 | 33 | [A G.I\. Wish](https://open.spotify.com/track/2TVIvoDLrq3adZBeDyFbl9) | [Four Vagabonds](https://open.spotify.com/artist/0uKcBFmwZYbIFXlWmQelqu), [Ray Conrad Grant, Jr.](https://open.spotify.com/artist/2BIqrWYWykhVzz3BKsXCpF), [Robert Arthur O'Neal](https://open.spotify.com/artist/0ZuEQxfuQejHYRtkOx5W79), [John Albert Jordan](https://open.spotify.com/artist/4ZuHlKZejvovr4ugaPYxY1), [Norval Donahue Taborn](https://open.spotify.com/artist/5dj06Qp6X30mdhsOmaJryV) | [Remember Pearl Harbor: Classic Songs Of World War II](https://open.spotify.com/album/4esQCA7GCIC2NBUq8ndw87) | 2:39 |
 | 34 | [Secret Love](https://open.spotify.com/track/6IwT48KRXox8R29kUBuYrr) | [The Moonglows](https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM) | [Blue Velvet / The Ultimate Collection](https://open.spotify.com/album/3qOZok4QE0NLDJEWNuasPS) | 2:49 |
-| 35 | [Shadow Waltz](https://open.spotify.com/track/7iCXh6rgmA7oAgDE6PR36B) | [The Hi\-Lo's](https://open.spotify.com/artist/2kWLLhh4T2mAW9kYuVbd7k) | [The Hi\-Lo's "Summertime"](https://open.spotify.com/album/3QOukFMGivyjt86gRBdi9G) | 2:54 |
-| 36 | [Early Autumn](https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll) | [The King Sisters](https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7) | [Imagination](https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb) | 2:51 |
-| 37 | [Have You Heard](https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [The Coed Singles](https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL) | 2:31 |
+| 35 | [Have You Heard](https://open.spotify.com/track/6mYzrb44QFhcNQKBKRJ4cl) | [The Duprees](https://open.spotify.com/artist/6nYTjfJFNic9m83TROYHUS) | [The Coed Singles](https://open.spotify.com/album/5QqmvqhSefdfFRn6MLfZGL) | 2:31 |
+| 36 | [Shadow Waltz](https://open.spotify.com/track/7iCXh6rgmA7oAgDE6PR36B) | [The Hi\-Lo's](https://open.spotify.com/artist/2kWLLhh4T2mAW9kYuVbd7k) | [The Hi\-Lo's "Summertime"](https://open.spotify.com/album/3QOukFMGivyjt86gRBdi9G) | 2:54 |
+| 37 | [Early Autumn](https://open.spotify.com/track/5st46QqB3wCTdFPUso9lll) | [The King Sisters](https://open.spotify.com/artist/6Gsao94MioGNcDLFGFAlw7) | [Imagination](https://open.spotify.com/album/0N0IsbV6VEvnx6e6gmD9Qb) | 2:51 |
 | 38 | [Ain't Gonna Worry 'Bout a Soul](https://open.spotify.com/track/2Dm4H3EH6slgSUiOTJE3gg) | [The Delta Rhythm Boys](https://open.spotify.com/artist/7jn7alb8SBq8VAukeFkPcF) | [Jump & Jive 'Til One O'Clock \- Anthology, Vol\. 2](https://open.spotify.com/album/3csDnkhImGwBZBgDuYkZr9) | 2:37 |
 | 39 | [Love On A Greyhound Bus](https://open.spotify.com/track/4wam2im1dxbWFVU5TjxF8C) | [The Dinning Sisters](https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h) | [The Very Best Of](https://open.spotify.com/album/6t0ktrofZCI38hxO9c37Tz) | 2:53 |
 | 40 | [My One Sin](https://open.spotify.com/track/0gWKRxc5ncnS3wxXF1E9jV) | [The Four Coins](https://open.spotify.com/artist/1XQXkciRULT2PXhRUtmmuH) | [Best Of The Four Coins](https://open.spotify.com/album/5QpanrSfnut4MbnbG8ryH9) | 2:19 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4xqbJOskQD.md) - [plain]
 | 44 | [Underneath The Linden Tree](https://open.spotify.com/track/2rXUt201xsDplJW2BtBFXU) | [The Fontane Sisters](https://open.spotify.com/artist/1Ml4OuStDoympbREURAM15) | [The Singles Collection 1946\-60](https://open.spotify.com/album/75jzCtbYZGSEJgL7i9MhNN) | 2:41 |
 | 45 | [Swing High Swing Low](https://open.spotify.com/track/6a0f0Kz6PXKinTaiF1N6sO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Ink Spots Retrospective](https://open.spotify.com/album/3V3OopO2A0CoZURseTfrPs) | 2:39 |
 
-Snapshot ID: `MCw2NDI1MDBkOWNjMGI0MGE1NmZiOWVmZjY5YmIzODQxOGJhYWFlODgy`
+Snapshot ID: `MCw3ZjA5ZGJmMGIyYzcyMTM1N2UyNjc5ZDRjOGMxYjY1ZjBhZWMwNjNl`

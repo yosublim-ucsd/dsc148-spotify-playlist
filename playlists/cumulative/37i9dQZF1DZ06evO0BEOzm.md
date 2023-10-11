@@ -4,7 +4,7 @@
 
 > This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-65 songs - 2 hr 57 min
+66 songs - 3 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,8 +39,8 @@
 | [Gift & A Curse](https://open.spotify.com/track/1U4pYd8XGOYr9GvKqIprCa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:52 | 2022-10-28 | 2023-08-14 |
 | [Girls in the Hood](https://open.spotify.com/track/6WbTTAGKrQtCQvmc5BuYfh) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Girls in the Hood](https://open.spotify.com/album/0pcFMWHPMVHE25NiT1U6Bc) | 2:34 | 2022-10-28 | 2023-04-18 |
 | [Girls in the Hood](https://open.spotify.com/track/7yiSvALPjMrBLDDrbcDRNy) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:34 | 2023-04-17 |  |
-| [God's Favorite](https://open.spotify.com/track/0gN98UfDCfSaMwfaRpbwCn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:30 | 2023-08-16 |  |
-| [Handsome](https://open.spotify.com/track/1xsP6AITcWNigBYBYVnVZw) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 2:53 | 2023-08-07 |  |
+| [God's Favorite](https://open.spotify.com/track/0gN98UfDCfSaMwfaRpbwCn) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:30 | 2023-08-16 | 2023-10-11 |
+| [Handsome](https://open.spotify.com/track/1xsP6AITcWNigBYBYVnVZw) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [The Big Day](https://open.spotify.com/album/7bgi7zCoDsZdlLKPonHZqP) | 2:53 | 2023-08-07 | 2023-10-11 |
 | [Her](https://open.spotify.com/track/5hHvFrMnwic82WwRLr4WY0) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:17 | 2022-10-28 |  |
 | [Hot Girl](https://open.spotify.com/track/2Xc9MR2NMc5IKPFKaEjt1k) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Tina Snow](https://open.spotify.com/album/26jEIrN7WSAnVQXXUmLRSN) | 3:16 | 2022-10-28 |  |
 | [Hot Girl Summer \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/track/5N1o6d8zGcSZSeMFkOUQOk) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Hot Girl Summer \(feat\. Nicki Minaj & Ty Dolla $ign\)](https://open.spotify.com/album/2Xqs4kJBrZAHN1XVqy9QOK) | 3:19 | 2022-10-28 |  |
@@ -53,6 +53,7 @@
 | [NDA](https://open.spotify.com/track/7ngabRTwu8a9w3xaCpaAaa) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:21 | 2023-02-23 |  |
 | [Not Nice](https://open.spotify.com/track/1DIFFX5zpjyxaJvA8YFEji) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 2:45 | 2023-01-01 |  |
 | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/track/589jILaMtVqRiVxubmnLiF) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [On Me \(Remix\) \(with Megan Thee Stallion\)](https://open.spotify.com/album/0Qta1EXfjfRgjE74XYEFta) | 2:15 | 2022-10-28 | 2023-08-07 |
+| [Out Alpha The Alpha](https://open.spotify.com/track/3GALk45nKwp5pg6zJp7nhm) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Out Alpha The Alpha](https://open.spotify.com/album/4vgXGnGzxojy5spBZranjW) | 3:46 | 2023-10-10 |  |
 | [Outta Town Freestyle](https://open.spotify.com/track/3LOyQpKiM8MnE019hWB5uj) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Something for Thee Hotties](https://open.spotify.com/album/6B26OzQRObxAp1tbf8jeTq) | 1:20 | 2023-02-01 | 2023-08-17 |
 | [Plan B](https://open.spotify.com/track/2PljnVsnl2PRwCvfhbdQup) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Plan B](https://open.spotify.com/album/7f9fxAFDIRaflD7W0k7Dhx) | 2:43 | 2022-10-28 |  |
 | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/track/5ZWNnO9MyPfGrUHiGWHESB) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Pressurelicious \(feat\. Future\)](https://open.spotify.com/album/2Wm9AhTq7byuyEIx5QXVWJ) | 2:53 | 2022-10-28 |  |

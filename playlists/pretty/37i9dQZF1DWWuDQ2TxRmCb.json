@@ -1,12 +1,12 @@
 {
   "description": "Best of the modern folk artists! Cover- Indian Ocean\n",
-  "num_followers": 66847,
+  "num_followers": 66879,
   "original_name": "Folk in India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZWQ4YmQ1NDk4NDMyOWUyNWI1NGIzZWQxNzZjY2MzZmRkOWQ5MDUz",
+  "snapshot_id": "MCw2MmE1ZTg3MjQ5YTk0Zjk4ZDJhNzUyMDA4NzNjYjIyNmRmMzRkNjc5",
   "tracks": [
     {
       "added_at": "2023-10-05 07:09:19",
@@ -49,24 +49,24 @@
       "url": "https://open.spotify.com/track/0QOJABRwcIx5WfzILs47eJ"
     },
     {
-      "added_at": "2023-09-11 05:40:51",
+      "added_at": "2023-10-10 04:26:00",
       "album": {
-        "name": "Rangi Saari",
-        "url": "https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK"
+        "name": "Bulaava Aaya",
+        "url": "https://open.spotify.com/album/05UdHSttBA2pc0JcTUrsXP"
       },
       "artists": [
         {
-          "name": "Kavita Seth",
-          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
         },
         {
-          "name": "Kanishk Seth",
-          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+          "name": "Gurdas Maan",
+          "url": "https://open.spotify.com/artist/3ttzOzBpRWRBzhn6thqhdT"
         }
       ],
-      "duration_ms": 214000,
-      "name": "Rangi Saari",
-      "url": "https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6"
+      "duration_ms": 334205,
+      "name": "Bulaava Aaya",
+      "url": "https://open.spotify.com/track/6HnkVw9GKU1ZqzJzpFOfvS"
     },
     {
       "added_at": "2023-09-11 05:40:51",
@@ -135,6 +135,26 @@
       "duration_ms": 221661,
       "name": "Railgaadi",
       "url": "https://open.spotify.com/track/0usYBbHAMyaUXQWt6MPgRb"
+    },
+    {
+      "added_at": "2023-09-11 05:40:51",
+      "album": {
+        "name": "Rangi Saari",
+        "url": "https://open.spotify.com/album/47Pfns3lteJ9cVpmRhA7gK"
+      },
+      "artists": [
+        {
+          "name": "Kavita Seth",
+          "url": "https://open.spotify.com/artist/3nQ125TJobosBH446Dsvvv"
+        },
+        {
+          "name": "Kanishk Seth",
+          "url": "https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Rangi Saari",
+      "url": "https://open.spotify.com/track/3F2BSn4ayglzMwquBRHZq6"
     },
     {
       "added_at": "2023-09-11 05:40:51",
@@ -271,30 +291,6 @@
     {
       "added_at": "2023-09-11 05:40:51",
       "album": {
-        "name": "Samjhe Na",
-        "url": "https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq"
-      },
-      "artists": [
-        {
-          "name": "Amit Trivedi",
-          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
-        },
-        {
-          "name": "Mame Khan",
-          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
-        },
-        {
-          "name": "Ruchika Chauhan",
-          "url": "https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1"
-        }
-      ],
-      "duration_ms": 197277,
-      "name": "Samjhe Na",
-      "url": "https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo"
-    },
-    {
-      "added_at": "2023-09-11 05:40:51",
-      "album": {
         "name": "Desert Sessions",
         "url": "https://open.spotify.com/album/3MyKvUVZQMZ9RPqAda5NiU"
       },
@@ -383,6 +379,30 @@
       "duration_ms": 444600,
       "name": "Ek Nazar",
       "url": "https://open.spotify.com/track/3AGBcIwsZI9a6qPSBYEiVN"
+    },
+    {
+      "added_at": "2023-09-11 05:40:51",
+      "album": {
+        "name": "Samjhe Na",
+        "url": "https://open.spotify.com/album/16EtpQZlUPuwFN1FC5bGeq"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Mame Khan",
+          "url": "https://open.spotify.com/artist/2K4pcxTMiwnKoVvdAr5pwD"
+        },
+        {
+          "name": "Ruchika Chauhan",
+          "url": "https://open.spotify.com/artist/3k3paMystfZe21Vjgj8bo1"
+        }
+      ],
+      "duration_ms": 197277,
+      "name": "Samjhe Na",
+      "url": "https://open.spotify.com/track/24tI4KfHROiG1cZNPerXWo"
     },
     {
       "added_at": "2023-09-11 05:40:51",
@@ -591,6 +611,26 @@
     {
       "added_at": "2023-09-11 05:40:51",
       "album": {
+        "name": "Bhammariyo",
+        "url": "https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D"
+      },
+      "artists": [
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Shruti Pathak",
+          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+        }
+      ],
+      "duration_ms": 233644,
+      "name": "Bhammariyo",
+      "url": "https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD"
+    },
+    {
+      "added_at": "2023-09-11 05:40:51",
+      "album": {
         "name": "Saacha Sahib",
         "url": "https://open.spotify.com/album/4OuOdarOPimks7xemmkcPI"
       },
@@ -635,22 +675,18 @@
     {
       "added_at": "2023-09-11 05:40:51",
       "album": {
-        "name": "Bhammariyo",
-        "url": "https://open.spotify.com/album/6Xrn5A0fDQq1sJP0Se4R3D"
+        "name": "Hukus Bukus",
+        "url": "https://open.spotify.com/album/5ORGx0mjAyoPn2LSDRzbku"
       },
       "artists": [
         {
-          "name": "Divya Kumar",
-          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
-        },
-        {
-          "name": "Shruti Pathak",
-          "url": "https://open.spotify.com/artist/3wZBspj86lRk2XLf4gfnSE"
+          "name": "Aabha Hanjura",
+          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
         }
       ],
-      "duration_ms": 233644,
-      "name": "Bhammariyo",
-      "url": "https://open.spotify.com/track/5ns7DhFYjyzlPKRC2JdIrD"
+      "duration_ms": 246822,
+      "name": "Hukus Bukus",
+      "url": "https://open.spotify.com/track/50A0o1uOb6TW2bdbJFrp8F"
     },
     {
       "added_at": "2023-09-11 05:40:51",
@@ -675,22 +711,6 @@
       "duration_ms": 271058,
       "name": "Chhap Tilak",
       "url": "https://open.spotify.com/track/1crUmJ6yI1kbwTHX9yiCEW"
-    },
-    {
-      "added_at": "2023-09-11 05:40:51",
-      "album": {
-        "name": "Hukus Bukus",
-        "url": "https://open.spotify.com/album/5ORGx0mjAyoPn2LSDRzbku"
-      },
-      "artists": [
-        {
-          "name": "Aabha Hanjura",
-          "url": "https://open.spotify.com/artist/2Q54hRFIUw0VBqGRyzma5P"
-        }
-      ],
-      "duration_ms": 246822,
-      "name": "Hukus Bukus",
-      "url": "https://open.spotify.com/track/50A0o1uOb6TW2bdbJFrp8F"
     },
     {
       "added_at": "2023-09-11 05:40:51",
@@ -755,6 +775,22 @@
     {
       "added_at": "2023-09-11 05:40:51",
       "album": {
+        "name": "Ekla Cholo Re",
+        "url": "https://open.spotify.com/album/6z5UCBpWRB6OLDcIsO0DWo"
+      },
+      "artists": [
+        {
+          "name": "Paroma Dasgupta",
+          "url": "https://open.spotify.com/artist/1pvVz9G8uL8K0ZVEnqm1SQ"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "Ekla Cholo Re",
+      "url": "https://open.spotify.com/track/41QZCU6T0iot2umBYIlJLn"
+    },
+    {
+      "added_at": "2023-09-11 05:40:51",
+      "album": {
         "name": "Saawariya",
         "url": "https://open.spotify.com/album/6oWXro6c6y4pD2CIKPN2xg"
       },
@@ -767,6 +803,26 @@
       "duration_ms": 291382,
       "name": "Saawariya",
       "url": "https://open.spotify.com/track/2qdj04pkNkCo9kuVF8sdKv"
+    },
+    {
+      "added_at": "2023-09-11 05:40:51",
+      "album": {
+        "name": "Muraliya",
+        "url": "https://open.spotify.com/album/5MjZEjF2ox16HlOd2J6Rh9"
+      },
+      "artists": [
+        {
+          "name": "Salim\u2013Sulaiman",
+          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "duration_ms": 255630,
+      "name": "Muraliya",
+      "url": "https://open.spotify.com/track/66INq9JZJp9MsX05WXGqIN"
     },
     {
       "added_at": "2023-09-11 05:40:51",
@@ -795,38 +851,18 @@
     {
       "added_at": "2023-09-11 05:40:51",
       "album": {
-        "name": "Ekla Cholo Re",
-        "url": "https://open.spotify.com/album/6z5UCBpWRB6OLDcIsO0DWo"
+        "name": "Kabir Cafe Live",
+        "url": "https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq"
       },
       "artists": [
         {
-          "name": "Paroma Dasgupta",
-          "url": "https://open.spotify.com/artist/1pvVz9G8uL8K0ZVEnqm1SQ"
+          "name": "Kabir Cafe",
+          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
         }
       ],
-      "duration_ms": 233760,
-      "name": "Ekla Cholo Re",
-      "url": "https://open.spotify.com/track/41QZCU6T0iot2umBYIlJLn"
-    },
-    {
-      "added_at": "2023-09-11 05:40:51",
-      "album": {
-        "name": "Muraliya",
-        "url": "https://open.spotify.com/album/5MjZEjF2ox16HlOd2J6Rh9"
-      },
-      "artists": [
-        {
-          "name": "Salim\u2013Sulaiman",
-          "url": "https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
-        }
-      ],
-      "duration_ms": 255630,
-      "name": "Muraliya",
-      "url": "https://open.spotify.com/track/66INq9JZJp9MsX05WXGqIN"
+      "duration_ms": 260486,
+      "name": "Ghat Ghat",
+      "url": "https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK"
     },
     {
       "added_at": "2023-09-11 05:40:51",
@@ -847,22 +883,6 @@
       "duration_ms": 310146,
       "name": "Purvayi",
       "url": "https://open.spotify.com/track/5poTkPZvxROL3RtuxRVtBU"
-    },
-    {
-      "added_at": "2023-09-11 05:40:51",
-      "album": {
-        "name": "Kabir Cafe Live",
-        "url": "https://open.spotify.com/album/1HJ3rgEzphZ6KjJfaJPHQq"
-      },
-      "artists": [
-        {
-          "name": "Kabir Cafe",
-          "url": "https://open.spotify.com/artist/2AWF4fUAstzXyJd01JTuS3"
-        }
-      ],
-      "duration_ms": 260486,
-      "name": "Ghat Ghat",
-      "url": "https://open.spotify.com/track/1jlwDl4inmp0RgIegvyuzK"
     },
     {
       "added_at": "2023-09-11 05:40:51",
@@ -935,22 +955,6 @@
     {
       "added_at": "2023-09-11 05:40:51",
       "album": {
-        "name": "Tu Hai",
-        "url": "https://open.spotify.com/album/79RksAuwCLYQdhFnk2HpT6"
-      },
-      "artists": [
-        {
-          "name": "Indian Ocean",
-          "url": "https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy"
-        }
-      ],
-      "duration_ms": 552000,
-      "name": "Rebirth",
-      "url": "https://open.spotify.com/track/4hwKgB4bjYFQ53u1nnTKbJ"
-    },
-    {
-      "added_at": "2023-09-11 05:40:51",
-      "album": {
         "name": "Chidiya Da Chamba",
         "url": "https://open.spotify.com/album/5mfXgnrBzf5e0kUlC6CoPl"
       },
@@ -967,6 +971,22 @@
       "duration_ms": 293076,
       "name": "Chidiya Da Chamba",
       "url": "https://open.spotify.com/track/7AKaVhDuiQjcAYsUmqA7Gg"
+    },
+    {
+      "added_at": "2023-09-11 05:40:51",
+      "album": {
+        "name": "Tu Hai",
+        "url": "https://open.spotify.com/album/79RksAuwCLYQdhFnk2HpT6"
+      },
+      "artists": [
+        {
+          "name": "Indian Ocean",
+          "url": "https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy"
+        }
+      ],
+      "duration_ms": 552000,
+      "name": "Rebirth",
+      "url": "https://open.spotify.com/track/4hwKgB4bjYFQ53u1nnTKbJ"
     },
     {
       "added_at": "2023-09-11 05:40:51",
@@ -991,22 +1011,6 @@
       "duration_ms": 249827,
       "name": "Jogiya",
       "url": "https://open.spotify.com/track/2T0WqDhuQDfqcjSZnRDOVK"
-    },
-    {
-      "added_at": "2023-09-11 05:40:51",
-      "album": {
-        "name": "Tanna Na",
-        "url": "https://open.spotify.com/album/2smTIeKKgY9AIVYPtvADak"
-      },
-      "artists": [
-        {
-          "name": "Nyasa",
-          "url": "https://open.spotify.com/artist/4aUL9eVquuxmpw9zvSWkQM"
-        }
-      ],
-      "duration_ms": 202242,
-      "name": "Tanna Na",
-      "url": "https://open.spotify.com/track/46nOdCXzOiSRDvfd8UHtPW"
     }
   ],
   "unique_name": "Folk in India",

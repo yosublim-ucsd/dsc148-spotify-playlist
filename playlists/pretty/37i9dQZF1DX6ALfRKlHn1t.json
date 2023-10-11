@@ -1,12 +1,12 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1055935,
+  "num_followers": 1055819,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDIzZGU2ZDRiMjQ4NzdhMjVjOGVhN2Y3OGYxMjRjYTExYzI3NjA5",
+  "snapshot_id": "MCwxYzg4NDE1NGFjY2FiMDk0MDhjMmQ0OTNlNWNiNzcwOWYxMTIzNjRl",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
+        "name": "Turn Blue",
+        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 246306,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
         "name": "World on Fire",
         "url": "https://open.spotify.com/album/3nKRWuZAz6LwYgOauD2qKB"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Turn Blue",
-        "url": "https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 246306,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Black Summer",
         "url": "https://open.spotify.com/album/4a6LkeTXHKjMQgf42wQnbH"
       },
@@ -659,18 +659,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "One That Got Away",
-        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
+        "name": "Chris Black Changed My Life",
+        "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
       },
       "artists": [
         {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+          "name": "Portugal. The Man",
+          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
         }
       ],
-      "duration_ms": 232266,
-      "name": "One That Got Away",
-      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
+      "duration_ms": 145093,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Chris Black Changed My Life",
-        "url": "https://open.spotify.com/album/6A7Q0GFiU2ckojqk5QsXWX"
+        "name": "One That Got Away",
+        "url": "https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond"
       },
       "artists": [
         {
-          "name": "Portugal. The Man",
-          "url": "https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T"
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 145093,
-      "name": "Dummy",
-      "url": "https://open.spotify.com/track/2Fa9ea7JFK1gyYFs9sFrtM"
+      "duration_ms": 232266,
+      "name": "One That Got Away",
+      "url": "https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -791,18 +791,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Trip Tape",
-        "url": "https://open.spotify.com/album/707cK3j40hIquI15sOcYXP"
+        "name": "SELF TITLED",
+        "url": "https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2"
       },
       "artists": [
         {
-          "name": "Milky Chance",
-          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
+          "name": "little image",
+          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
         }
       ],
-      "duration_ms": 174347,
-      "name": "Colorado",
-      "url": "https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI"
+      "duration_ms": 160676,
+      "name": "OUT OF MY MIND",
+      "url": "https://open.spotify.com/track/5M5ZnM9O8JW2SrukbfxZP8"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -823,18 +823,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "SELF TITLED",
-        "url": "https://open.spotify.com/album/6o0YwojO6M7VuoXkyuEKW2"
+        "name": "Trip Tape",
+        "url": "https://open.spotify.com/album/707cK3j40hIquI15sOcYXP"
       },
       "artists": [
         {
-          "name": "little image",
-          "url": "https://open.spotify.com/artist/5Ljgq0b8I3YkUwp3gtB1wm"
+          "name": "Milky Chance",
+          "url": "https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs"
         }
       ],
-      "duration_ms": 160676,
-      "name": "OUT OF MY MIND",
-      "url": "https://open.spotify.com/track/5M5ZnM9O8JW2SrukbfxZP8"
+      "duration_ms": 174347,
+      "name": "Colorado",
+      "url": "https://open.spotify.com/track/35iR1qzexmbcUSgA01S4gI"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Rescue Me",
-        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
-      },
-      "artists": [
-        {
-          "name": "Dirty Heads",
-          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
-        }
-      ],
-      "duration_ms": 172280,
-      "name": "Rescue Me",
-      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Manners",
         "url": "https://open.spotify.com/album/6H51jH1SuzV6ca1VxW2Tmv"
       },
@@ -919,18 +903,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Dancing In The Courthouse",
-        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
+        "name": "Rescue Me",
+        "url": "https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8"
       },
       "artists": [
         {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+          "name": "Dirty Heads",
+          "url": "https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f"
         }
       ],
-      "duration_ms": 157563,
-      "name": "Dancing In The Courthouse",
-      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
+      "duration_ms": 172280,
+      "name": "Rescue Me",
+      "url": "https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -947,6 +931,22 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/0mBkoM8r7KAQzZij5swTUL"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Dancing In The Courthouse",
+        "url": "https://open.spotify.com/album/6y1x1MUnhsqTIRkp6KpYkq"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 157563,
+      "name": "Dancing In The Courthouse",
+      "url": "https://open.spotify.com/track/4ZwgD4frTwoDdOUsjyoqAJ"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 200546,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/14VtoUzT2LOwUwyZPbCKY1"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 192135,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/35Z7oHhfYZJ5KTAG87nWPb"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 200546,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
     },
     {
       "added_at": "2023-09-08 04:00:00",

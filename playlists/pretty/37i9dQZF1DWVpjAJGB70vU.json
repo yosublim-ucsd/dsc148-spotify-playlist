@@ -1,12 +1,12 @@
 {
   "description": "We're celebrating 30 years of Martina McBrides's timeless album \"The Way That I Am\" on 90s Country! ",
-  "num_followers": 1706097,
+  "num_followers": 1706404,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjAwZWRlM2RlM2Y3ZmJkOTA1ODU2NGU4NzI4ODg2ZmVhYTQ4YjMx",
+  "snapshot_id": "MCw5YzkyY2I0OTI5M2UxYzc1ZWRhY2MwYzU3NmNjNDk3ODdjZjBiYjY1",
   "tracks": [
     {
       "added_at": "2023-09-14 16:38:12",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-09-14 16:38:12",
       "album": {
-        "name": "Wide Open Spaces",
-        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
+        "name": "Always Never The Same",
+        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
       },
       "artists": [
         {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+          "name": "George Strait",
+          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
         }
       ],
-      "duration_ms": 223832,
-      "name": "Wide Open Spaces",
-      "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
+      "duration_ms": 219600,
+      "name": "Write This Down",
+      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
     },
     {
       "added_at": "2023-09-14 16:38:12",
@@ -475,18 +475,18 @@
     {
       "added_at": "2023-09-14 16:38:12",
       "album": {
-        "name": "Always Never The Same",
-        "url": "https://open.spotify.com/album/2Kudx2lMsMx3svYdb2xe2F"
+        "name": "Wide Open Spaces",
+        "url": "https://open.spotify.com/album/11Rni6y5dnNo6NRVuxltIj"
       },
       "artists": [
         {
-          "name": "George Strait",
-          "url": "https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd"
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
         }
       ],
-      "duration_ms": 219600,
-      "name": "Write This Down",
-      "url": "https://open.spotify.com/track/1TanmIWbaUj5NVwJ3k4XPd"
+      "duration_ms": 223832,
+      "name": "Wide Open Spaces",
+      "url": "https://open.spotify.com/track/6cjwec9ii5uLK7CDfPBYt1"
     },
     {
       "added_at": "2023-09-14 16:38:12",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-09-14 16:38:12",
       "album": {
+        "name": "Seminole Wind",
+        "url": "https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a"
+      },
+      "artists": [
+        {
+          "name": "John Anderson",
+          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
+        }
+      ],
+      "duration_ms": 173866,
+      "name": "Straight Tequila Night",
+      "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
+    },
+    {
+      "added_at": "2023-09-14 16:38:12",
+      "album": {
         "name": "Third Rock From The Sun",
         "url": "https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 216200,
       "name": "Pickup Man",
       "url": "https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a"
-    },
-    {
-      "added_at": "2023-09-14 16:38:12",
-      "album": {
-        "name": "Hard Workin' Man",
-        "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 178493,
-      "name": "Hard Workin' Man",
-      "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
     },
     {
       "added_at": "2023-09-14 16:38:12",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-09-14 16:38:12",
       "album": {
-        "name": "Seminole Wind",
-        "url": "https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a"
+        "name": "Hard Workin' Man",
+        "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
       },
       "artists": [
         {
-          "name": "John Anderson",
-          "url": "https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv"
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 173866,
-      "name": "Straight Tequila Night",
-      "url": "https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN"
+      "duration_ms": 178493,
+      "name": "Hard Workin' Man",
+      "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
     },
     {
       "added_at": "2023-09-14 16:38:12",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2023-09-14 16:38:12",
       "album": {
-        "name": "Brand New Man",
-        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
-      },
-      "artists": [
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
-        }
-      ],
-      "duration_ms": 197640,
-      "name": "Boot Scootin' Boogie",
-      "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
-    },
-    {
-      "added_at": "2023-09-14 16:38:12",
-      "album": {
         "name": "Thinkin' Problem",
         "url": "https://open.spotify.com/album/3DPAOT9HmCgKm2atPis3Ao"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 181133,
       "name": "Thinkin' Problem",
       "url": "https://open.spotify.com/track/7zE9E6iBKPCwCW6orDoY4X"
+    },
+    {
+      "added_at": "2023-09-14 16:38:12",
+      "album": {
+        "name": "Brand New Man",
+        "url": "https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Boot Scootin' Boogie",
+      "url": "https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd"
     },
     {
       "added_at": "2023-09-14 16:38:12",
@@ -1959,22 +1959,6 @@
     {
       "added_at": "2023-09-14 16:38:12",
       "album": {
-        "name": "Evolution",
-        "url": "https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP"
-      },
-      "artists": [
-        {
-          "name": "Martina McBride",
-          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "A Broken Wing",
-      "url": "https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn"
-    },
-    {
-      "added_at": "2023-09-14 16:38:12",
-      "album": {
         "name": "Wynonna",
         "url": "https://open.spotify.com/album/1Z3psPyYFp0pUA1MupFbLi"
       },
@@ -1987,6 +1971,22 @@
       "duration_ms": 240706,
       "name": "No One Else On Earth",
       "url": "https://open.spotify.com/track/6Ek2xNsKHwkuYBqvzj20rl"
+    },
+    {
+      "added_at": "2023-09-14 16:38:12",
+      "album": {
+        "name": "Evolution",
+        "url": "https://open.spotify.com/album/5LT49LTUsSmazrZpBV3OPP"
+      },
+      "artists": [
+        {
+          "name": "Martina McBride",
+          "url": "https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "A Broken Wing",
+      "url": "https://open.spotify.com/track/0nqjaaZQtY9fgl1M9qjssn"
     },
     {
       "added_at": "2023-09-14 16:38:12",
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-09-14 16:38:12",
       "album": {
-        "name": "Homeward Looking Angel",
-        "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
-      },
-      "artists": [
-        {
-          "name": "Pam Tillis",
-          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
-        }
-      ],
-      "duration_ms": 187733,
-      "name": "Shake The Sugar Tree",
-      "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
-    },
-    {
-      "added_at": "2023-09-14 16:38:12",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 241306,
       "name": "I Love the Way You Love Me",
       "url": "https://open.spotify.com/track/6MnDkyb3VstTCT9ELxjfeE"
+    },
+    {
+      "added_at": "2023-09-14 16:38:12",
+      "album": {
+        "name": "Homeward Looking Angel",
+        "url": "https://open.spotify.com/album/1NNsm5qebMGEW6Fn7DazXS"
+      },
+      "artists": [
+        {
+          "name": "Pam Tillis",
+          "url": "https://open.spotify.com/artist/1SX44N5qjWuFcCK8WTO0c6"
+        }
+      ],
+      "duration_ms": 187733,
+      "name": "Shake The Sugar Tree",
+      "url": "https://open.spotify.com/track/1UWAhFXMAebtKo904MuEhp"
     },
     {
       "added_at": "2023-09-14 16:38:12",
@@ -2295,22 +2295,6 @@
     {
       "added_at": "2023-09-14 16:38:12",
       "album": {
-        "name": "Life's So Funny",
-        "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
-      },
-      "artists": [
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        }
-      ],
-      "duration_ms": 237226,
-      "name": "Bigger Than the Beatles",
-      "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
-    },
-    {
-      "added_at": "2023-09-14 16:38:12",
-      "album": {
         "name": "I Think About You",
         "url": "https://open.spotify.com/album/6ngZLbm52ebfzfIxYIybvu"
       },
@@ -2323,6 +2307,22 @@
       "duration_ms": 206506,
       "name": "I Think About You",
       "url": "https://open.spotify.com/track/31zLkaElQKtj8hDigVB31n"
+    },
+    {
+      "added_at": "2023-09-14 16:38:12",
+      "album": {
+        "name": "Life's So Funny",
+        "url": "https://open.spotify.com/album/1jEViNjPPDB6ny8qQpbDLA"
+      },
+      "artists": [
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        }
+      ],
+      "duration_ms": 237226,
+      "name": "Bigger Than the Beatles",
+      "url": "https://open.spotify.com/track/0xR8lFvagLHapgSw6C5Y5i"
     },
     {
       "added_at": "2023-09-14 16:38:12",

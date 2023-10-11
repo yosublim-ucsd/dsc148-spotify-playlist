@@ -1,12 +1,12 @@
 {
   "description": "Chill tunes to soundtrack your gaming session.",
-  "num_followers": 245550,
+  "num_followers": 245765,
   "original_name": "Chill Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYTUwYmNiODJjMzA1MTM0NmVjZjYwYmIwNWRmODYxYzhmYTYxYjYz",
+  "snapshot_id": "MCw3MDc4Njc3YTQxOTFmMmEwNDJjYjg2YjRiMjFmMjc0MDk4ZjU1NTdi",
   "tracks": [
     {
       "added_at": "2023-09-08 14:39:34",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "Pulse",
-        "url": "https://open.spotify.com/album/3ygr62Q1IfpB70QB9D1HEy"
-      },
-      "artists": [
-        {
-          "name": "Antent",
-          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
-        }
-      ],
-      "duration_ms": 128918,
-      "name": "Pulse",
-      "url": "https://open.spotify.com/track/20C59ZiRbuRZIY2Xbup9Wl"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
         "name": "Transitions",
         "url": "https://open.spotify.com/album/7dopFnnInju2yjJe127paH"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 63262,
       "name": "The hall is dancing",
       "url": "https://open.spotify.com/track/6UnSlwVAEPblKJING6FH5Z"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
+        "name": "Pulse",
+        "url": "https://open.spotify.com/album/3ygr62Q1IfpB70QB9D1HEy"
+      },
+      "artists": [
+        {
+          "name": "Antent",
+          "url": "https://open.spotify.com/artist/6ovctVkv7d2fBdilDRYfDW"
+        }
+      ],
+      "duration_ms": 128918,
+      "name": "Pulse",
+      "url": "https://open.spotify.com/track/20C59ZiRbuRZIY2Xbup9Wl"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -303,26 +303,18 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "afterdark.",
-        "url": "https://open.spotify.com/album/6SzfyFW0pQHh7MJxXp6N3I"
+        "name": "if it's real, then i'll stay",
+        "url": "https://open.spotify.com/album/4ruJGXEb7mZlxI6mhKgGnU"
       },
       "artists": [
         {
-          "name": "pandora.",
-          "url": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
-        },
-        {
-          "name": "chillwithme",
-          "url": "https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8"
-        },
-        {
-          "name": "c\u00f8dy",
-          "url": "https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC"
+          "name": "Bonjr",
+          "url": "https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw"
         }
       ],
-      "duration_ms": 93133,
-      "name": "afterdark.",
-      "url": "https://open.spotify.com/track/1LEO99UJQTKugOVT62f6rf"
+      "duration_ms": 184285,
+      "name": "if it's real, then i'll stay",
+      "url": "https://open.spotify.com/track/6MIouIaP6WqE6o9Uo25gdO"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -347,18 +339,26 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
-        "name": "if it's real, then i'll stay",
-        "url": "https://open.spotify.com/album/4ruJGXEb7mZlxI6mhKgGnU"
+        "name": "afterdark.",
+        "url": "https://open.spotify.com/album/6SzfyFW0pQHh7MJxXp6N3I"
       },
       "artists": [
         {
-          "name": "Bonjr",
-          "url": "https://open.spotify.com/artist/10dzW1PpkEFPkeQSqvgXvw"
+          "name": "pandora.",
+          "url": "https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM"
+        },
+        {
+          "name": "chillwithme",
+          "url": "https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8"
+        },
+        {
+          "name": "c\u00f8dy",
+          "url": "https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC"
         }
       ],
-      "duration_ms": 184285,
-      "name": "if it's real, then i'll stay",
-      "url": "https://open.spotify.com/track/6MIouIaP6WqE6o9Uo25gdO"
+      "duration_ms": 93133,
+      "name": "afterdark.",
+      "url": "https://open.spotify.com/track/1LEO99UJQTKugOVT62f6rf"
     },
     {
       "added_at": "2023-09-08 14:39:34",
@@ -719,6 +719,22 @@
     {
       "added_at": "2023-09-08 14:39:34",
       "album": {
+        "name": "Agony (Instrumental)",
+        "url": "https://open.spotify.com/album/7uL9TY3BOHFFDaMeAJIYfm"
+      },
+      "artists": [
+        {
+          "name": "Scammacist",
+          "url": "https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn"
+        }
+      ],
+      "duration_ms": 301673,
+      "name": "Agony - Instrumental",
+      "url": "https://open.spotify.com/track/0XiGmM93irCMKo0FADlWFj"
+    },
+    {
+      "added_at": "2023-09-08 14:39:34",
+      "album": {
         "name": "waking up in the park",
         "url": "https://open.spotify.com/album/4jGrBMzBYAxIMdwxOLvlod"
       },
@@ -751,22 +767,6 @@
       "duration_ms": 80760,
       "name": "Alone Forever",
       "url": "https://open.spotify.com/track/4KLXhuPL5YS4mYZFL8XGBM"
-    },
-    {
-      "added_at": "2023-09-08 14:39:34",
-      "album": {
-        "name": "Agony (Instrumental)",
-        "url": "https://open.spotify.com/album/7uL9TY3BOHFFDaMeAJIYfm"
-      },
-      "artists": [
-        {
-          "name": "Scammacist",
-          "url": "https://open.spotify.com/artist/6cMsaDvwIUXtHGQPDbqHvn"
-        }
-      ],
-      "duration_ms": 301673,
-      "name": "Agony - Instrumental",
-      "url": "https://open.spotify.com/track/0XiGmM93irCMKo0FADlWFj"
     },
     {
       "added_at": "2023-09-08 14:39:34",

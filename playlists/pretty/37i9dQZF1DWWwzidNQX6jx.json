@@ -1,12 +1,12 @@
 {
   "description": "These songs rocked the 70s.",
-  "num_followers": 1733637,
+  "num_followers": 1733901,
   "original_name": "70s Rock Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGE5ZGQxZDg4ZjU5ODJlZWRjYzg5ZWI4YzI0ZjZkMDc3NmM4OGQ4",
+  "snapshot_id": "MCxmZTI4Y2UzOTg1Njk2MGE3NjQzNTA3NDQ4OWY0MDcyZTEwNTA3OGI0",
   "tracks": [
     {
       "added_at": "2023-01-18 21:01:33",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Slowhand 35th Anniversary (Super Deluxe)",
         "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 225026,
       "name": "Wonderful Tonight",
       "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Diamond Dogs (2016 Remaster)",
-        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
-      },
-      "artists": [
-        {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-        }
-      ],
-      "duration_ms": 274746,
-      "name": "Rebel Rebel - 2016 Remaster",
-      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "Layla And Other Assorted Love Songs (Remastered 2010)",
         "url": "https://open.spotify.com/album/5iIWnMgvSM8uEBwXKsPcXM"
       },
@@ -731,6 +715,22 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
+        "name": "Diamond Dogs (2016 Remaster)",
+        "url": "https://open.spotify.com/album/72mfhbEsMtXR6s7v9UhKe3"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 274746,
+      "name": "Rebel Rebel - 2016 Remaster",
+      "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
         "name": "Get The Knack",
         "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 295400,
       "name": "My Sharona",
       "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
-        "name": "The Captain and Me",
-        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 207266,
-      "name": "Long Train Runnin'",
-      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -779,18 +763,18 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Can't Buy A Thrill",
-        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+        "name": "The Captain and Me",
+        "url": "https://open.spotify.com/album/0M2KWMbvY5x1sUnIKNpyUt"
       },
       "artists": [
         {
-          "name": "Steely Dan",
-          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
         }
       ],
-      "duration_ms": 277467,
-      "name": "Reelin' In The Years",
-      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
+      "duration_ms": 207266,
+      "name": "Long Train Runnin'",
+      "url": "https://open.spotify.com/track/4nXkbcTj3nyww1cHkw5RAP"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -807,6 +791,22 @@
       "duration_ms": 243373,
       "name": "Don't Bring Me Down",
       "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Can't Buy A Thrill",
+        "url": "https://open.spotify.com/album/6DlSUW5gmq6Byc3osKDJ2p"
+      },
+      "artists": [
+        {
+          "name": "Steely Dan",
+          "url": "https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE"
+        }
+      ],
+      "duration_ms": 277467,
+      "name": "Reelin' In The Years",
+      "url": "https://open.spotify.com/track/1x1XQqhBViz4opcpwc7FVs"
     },
     {
       "added_at": "2023-01-18 21:01:33",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-01-18 21:01:33",
       "album": {
-        "name": "Straight Shooter",
-        "url": "https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO"
-      },
-      "artists": [
-        {
-          "name": "Bad Company",
-          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
-        }
-      ],
-      "duration_ms": 313840,
-      "name": "Feel like Makin' Love - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo"
-    },
-    {
-      "added_at": "2023-01-18 21:01:33",
-      "album": {
         "name": "The Very Best Of Ram Jam",
         "url": "https://open.spotify.com/album/6s1bwzTzWK3u9I4YPjp3lr"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 237893,
       "name": "Black Betty",
       "url": "https://open.spotify.com/track/2ZOTtG7v1OrSNs6EINIGb4"
+    },
+    {
+      "added_at": "2023-01-18 21:01:33",
+      "album": {
+        "name": "Straight Shooter",
+        "url": "https://open.spotify.com/album/1LgPUiosPMevbB4NHxcNiO"
+      },
+      "artists": [
+        {
+          "name": "Bad Company",
+          "url": "https://open.spotify.com/artist/5AEG63ajney2BoDXi0Vb84"
+        }
+      ],
+      "duration_ms": 313840,
+      "name": "Feel like Makin' Love - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3KPwt1LBpt1jVSHz8GXERo"
     },
     {
       "added_at": "2023-01-18 21:01:33",

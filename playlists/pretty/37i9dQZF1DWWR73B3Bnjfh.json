@@ -1,12 +1,12 @@
 {
   "description": "The melancholic and soft sound of Jazz.",
-  "num_followers": 106228,
+  "num_followers": 106369,
   "original_name": "Jazz Noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMTU3ZjBiOTZmOTBkNWIxYzU1YjE4NzA0NDg1ZjJkYjI5NzBmMWVm",
+  "snapshot_id": "MCxjMDQzZjg4NjU2YjZlZDdkOGMxOGFlNmI1ZGRjOGQ3MThjZWNkNjNl",
   "tracks": [
     {
       "added_at": "2023-10-05 06:55:37",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-10-05 06:55:37",
       "album": {
-        "name": "Coltrane [Rudy Van Gelder Remaster]",
-        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
-      },
-      "artists": [
-        {
-          "name": "John Coltrane",
-          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
-        }
-      ],
-      "duration_ms": 375066,
-      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
-      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
-    },
-    {
-      "added_at": "2023-10-05 06:55:37",
-      "album": {
         "name": "Someday My Prince Will Come",
         "url": "https://open.spotify.com/album/68A4o4tkirJRFYbO9Ag0YZ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 314160,
       "name": "Old Folks (feat. Hank Mobley, Wynton Kelly, Paul Chambers & Jimmy Cobb)",
       "url": "https://open.spotify.com/track/4mh17mzDplLjImZg1I3ivP"
+    },
+    {
+      "added_at": "2023-10-05 06:55:37",
+      "album": {
+        "name": "Coltrane [Rudy Van Gelder Remaster]",
+        "url": "https://open.spotify.com/album/012Zmc4xCOiJaR4wlnbtWg"
+      },
+      "artists": [
+        {
+          "name": "John Coltrane",
+          "url": "https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf"
+        }
+      ],
+      "duration_ms": 375066,
+      "name": "Violets For Your Furs - Rudy Van Gelder Remaster",
+      "url": "https://open.spotify.com/track/1Rw4pwzS1yBPlncFAuIGlU"
     },
     {
       "added_at": "2023-10-05 06:55:37",
@@ -779,22 +779,6 @@
     {
       "added_at": "2023-10-05 06:55:37",
       "album": {
-        "name": "Blue And Sentimental (Remastered)",
-        "url": "https://open.spotify.com/album/5TYNurFvKuz9z5L4Klwsl6"
-      },
-      "artists": [
-        {
-          "name": "Ike Quebec",
-          "url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh"
-        }
-      ],
-      "duration_ms": 448866,
-      "name": "Blue And Sentimental - Remastered 2007/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/4kFv25xG46k1MH0D8741Pb"
-    },
-    {
-      "added_at": "2023-10-05 06:55:37",
-      "album": {
         "name": "Lush Life",
         "url": "https://open.spotify.com/album/63vpVRMhMQQZj4c7SRfP4y"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 297880,
       "name": "Like Someone In Love",
       "url": "https://open.spotify.com/track/7yo0ye0zCginW62iq21wXx"
+    },
+    {
+      "added_at": "2023-10-05 06:55:37",
+      "album": {
+        "name": "Blue And Sentimental (Remastered)",
+        "url": "https://open.spotify.com/album/5TYNurFvKuz9z5L4Klwsl6"
+      },
+      "artists": [
+        {
+          "name": "Ike Quebec",
+          "url": "https://open.spotify.com/artist/6y7dRlvApiCjP12JrxWQjh"
+        }
+      ],
+      "duration_ms": 448866,
+      "name": "Blue And Sentimental - Remastered 2007/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/4kFv25xG46k1MH0D8741Pb"
     },
     {
       "added_at": "2023-10-05 06:55:37",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2023-10-05 06:55:37",
       "album": {
+        "name": "Blues In The Night",
+        "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
+      },
+      "artists": [
+        {
+          "name": "Sonny Clark",
+          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
+        }
+      ],
+      "duration_ms": 355320,
+      "name": "Blues In The Night",
+      "url": "https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj"
+    },
+    {
+      "added_at": "2023-10-05 06:55:37",
+      "album": {
         "name": "Settin' The Pace [RVG Edition]",
         "url": "https://open.spotify.com/album/1PVIyuR4lrmzXb8QbS8nEZ"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 596706,
       "name": "I See Your Face Before Me - RVG Remaster",
       "url": "https://open.spotify.com/track/6zVMG4q2ii85aGLBIpPFSa"
-    },
-    {
-      "added_at": "2023-10-05 06:55:37",
-      "album": {
-        "name": "Blues In The Night",
-        "url": "https://open.spotify.com/album/5nk9X6TfebDzuEdy59w817"
-      },
-      "artists": [
-        {
-          "name": "Sonny Clark",
-          "url": "https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8"
-        }
-      ],
-      "duration_ms": 355320,
-      "name": "Blues In The Night",
-      "url": "https://open.spotify.com/track/1C18d0LOvih7hKZPypQZFj"
     },
     {
       "added_at": "2023-10-05 06:55:37",

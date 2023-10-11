@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 
 > The best of today's dance hits\. Cover: Bob Moses
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,682 likes - 65 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,399 likes - 65 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIpacQDPDV5.md) - [plain]
 | 64 | [Ishq Hua \(Love Happened\)](https://open.spotify.com/track/5ocxKvCTMUeqjrECZaSgOt) | [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Ishq Hua \(Love Happened\)](https://open.spotify.com/album/0lz6TWytsI9SKtENs2A4ue) | 2:54 |
 | 65 | [The Oracle](https://open.spotify.com/track/7lzd3UcJS2rHrBThYKLXJ6) | [Sydney Blu](https://open.spotify.com/artist/2Js5903erwUWbAijR6A8rb) | [The Oracle](https://open.spotify.com/album/01jQoXxIg3KlnPLKBZZCLR) | 6:49 |
 
-Snapshot ID: `MCwzZGI3NjA5YWY3NThkYzM1MDA3MTI5ZGQ2MGEwOWQwY2E1YTJmZDA0`
+Snapshot ID: `MCw1M2EwM2UxYjk2MWVjM2FhZmNkODE1ZmQ1ZmFjNTY1OTQ0NjM2MzM5`

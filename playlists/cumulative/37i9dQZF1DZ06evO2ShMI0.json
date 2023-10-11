@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Habia Una Vez",
+        "url": "https://open.spotify.com/album/0RNFQJ1icfb2w2JKFKWe3C"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179066,
+      "name": "Buscando la Manera",
+      "url": "https://open.spotify.com/track/0ZzgetEb8vvA5rruA9MPf4"
+    },
+    {
+      "album": {
         "name": "Contrareloj",
         "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
       },
@@ -106,7 +124,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 223200,
       "name": "Celdas",
       "url": "https://open.spotify.com/track/7o3Uk9WyFL5ukE1LuKSU5O"
@@ -334,6 +352,24 @@
       "duration_ms": 247920,
       "name": "El Instante Pas\u00f3",
       "url": "https://open.spotify.com/track/4JozniZYN6BgJ1fG9sgIFO"
+    },
+    {
+      "album": {
+        "name": "Igual Que Ayer",
+        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215806,
+      "name": "Era Un Angel",
+      "url": "https://open.spotify.com/track/5tfBmHPXMtlyxZhsmVMMUI"
     },
     {
       "album": {
@@ -768,7 +804,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 258560,
       "name": "Pasos",
       "url": "https://open.spotify.com/track/0CoxfP3dOGKwg6ShNnRiNP"
@@ -1002,10 +1038,28 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 245266,
       "name": "Te V\u00ed en un Tren",
       "url": "https://open.spotify.com/track/2vR0SW93BdIciNlqeJVSch"
+    },
+    {
+      "album": {
+        "name": "Habitaciones Extra\u00f1as",
+        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247000,
+      "name": "Te V\u00ed en un Tren",
+      "url": "https://open.spotify.com/track/1RsoepHup9zTCiOPHlR0pQ"
     },
     {
       "album": {

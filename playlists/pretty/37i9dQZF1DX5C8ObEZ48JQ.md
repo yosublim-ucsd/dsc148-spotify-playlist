@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover:  <a href="https://open.spotify.com/artist/0kBkGmd0pKKvVpPXBRR5v5?si=L6C8qlMDT3SFZVXz\-SvF\-w"> Tha Boy Myles </a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,676 likes - 59 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,678 likes - 60 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,9 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 53 | [Red Wine](https://open.spotify.com/track/40fU67lSChqZYkzl4IcRDw) | [Turunesh](https://open.spotify.com/artist/7jsrAZ7VOhvG48hjxVaIkv) | [Satin Cassette](https://open.spotify.com/album/6O8YfFylaHXZlCmgkN44hV) | 3:31 |
 | 54 | [Stay That Way \(Intro\)](https://open.spotify.com/track/2rnZScOnEyhXasbUYRo4dc) | [Analo Kanga](https://open.spotify.com/artist/2SveTLRE8NLCVXKsy7xs3o) | [Stay That Way \(Intro\)](https://open.spotify.com/album/5RRc19SIwq0dJ0hnb4DIqE) | 3:18 |
 | 55 | [Love Song](https://open.spotify.com/track/0Jj09E4b1PTtksqOfd0rw3) | [Quick Rocka](https://open.spotify.com/artist/3qogOcNS2ddykurQd7LjDR) | [Love Life](https://open.spotify.com/album/0Rj0jKJgt7XP5m4cjyA3S0) | 2:31 |
-| 56 | [Ready](https://open.spotify.com/track/4ymW2EhwtZiVTZiadMC0uW) | [Cathy Matete](https://open.spotify.com/artist/1HwWig74b2zj1B37LeiXfX), [Killah Keys](https://open.spotify.com/artist/0twRdNvSsfwr8m8SKVgr9s) | [Ready](https://open.spotify.com/album/3XgMMmxbWm2ZxaiuuBGWpW) | 3:51 |
-| 57 | [Circles](https://open.spotify.com/track/1YZC8SZJin71ZfItySfe5I) | [Angie Santana](https://open.spotify.com/artist/3gh6VwtLkdkaWCPUV4L6yT) | [Full Circle](https://open.spotify.com/album/3mV8iTF8vMvT0WLvjDKze6) | 3:01 |
-| 58 | [Chosen](https://open.spotify.com/track/3mFNTxPlNKg8bJ3A6UC29h) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [EMOTIONS](https://open.spotify.com/album/4IqGNLz2EaVwPkyV7b4NvC) | 3:10 |
-| 59 | [Nwanyi Oma](https://open.spotify.com/track/6CUsiQIY11LXDvPDTFZiEU) | [Lil Emm](https://open.spotify.com/artist/2xcMXK5wGKYGexFQiBoiUz) | [Nwanyi Oma](https://open.spotify.com/album/0FzULS7JqmwVUOtNrDf32O) | 2:01 |
+| 56 | [Blueprint](https://open.spotify.com/track/4mwq55DaCkiptwx1UljRvB) | [Espacio Dios](https://open.spotify.com/artist/030q9tYMZs82CHR8DV9Fid) | [The Third Kind](https://open.spotify.com/album/5RswtvkaBBt1KivjwF3Hl4) | 3:28 |
+| 57 | [Ready](https://open.spotify.com/track/4ymW2EhwtZiVTZiadMC0uW) | [Cathy Matete](https://open.spotify.com/artist/1HwWig74b2zj1B37LeiXfX), [Killah Keys](https://open.spotify.com/artist/0twRdNvSsfwr8m8SKVgr9s) | [Ready](https://open.spotify.com/album/3XgMMmxbWm2ZxaiuuBGWpW) | 3:51 |
+| 58 | [Circles](https://open.spotify.com/track/1YZC8SZJin71ZfItySfe5I) | [Angie Santana](https://open.spotify.com/artist/3gh6VwtLkdkaWCPUV4L6yT) | [Full Circle](https://open.spotify.com/album/3mV8iTF8vMvT0WLvjDKze6) | 3:01 |
+| 59 | [Chosen](https://open.spotify.com/track/3mFNTxPlNKg8bJ3A6UC29h) | [Yashna](https://open.spotify.com/artist/7tUJZBp4pit6GbiSI1kZzH) | [EMOTIONS](https://open.spotify.com/album/4IqGNLz2EaVwPkyV7b4NvC) | 3:10 |
+| 60 | [Nwanyi Oma](https://open.spotify.com/track/6CUsiQIY11LXDvPDTFZiEU) | [Lil Emm](https://open.spotify.com/artist/2xcMXK5wGKYGexFQiBoiUz) | [Nwanyi Oma](https://open.spotify.com/album/0FzULS7JqmwVUOtNrDf32O) | 2:01 |
 
-Snapshot ID: `MCw2ZGU5MTNhNzE1Yzk0Y2VhM2ZkMjI0Y2M3NmUwYzQxZGMyMmY0OTlk`
+Snapshot ID: `MCxiMjRiNmEwZGQ3ZmQ3ZjIwNDYwMDAyMDA0ZDNmOTQ3NWJjYzViNDA5`

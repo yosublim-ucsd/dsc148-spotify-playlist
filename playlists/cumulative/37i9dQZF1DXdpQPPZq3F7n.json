@@ -447,6 +447,24 @@
     },
     {
       "album": {
+        "name": "Bharat",
+        "url": "https://open.spotify.com/album/6Jl2MfI7pB2hWKvTUc5DbA"
+      },
+      "artists": [
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265995,
+      "name": "Chashni",
+      "url": "https://open.spotify.com/track/1ZQFkNNTzooW4lThiC8pg2"
+    },
+    {
+      "album": {
         "name": "Chashni (From \"Bharat\")",
         "url": "https://open.spotify.com/album/5MZ0GKSj7GZofWTBGkOku3"
       },
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-04",
+      "date_removed": null,
       "duration_ms": 281991,
       "name": "Jag Ghoomeya",
       "url": "https://open.spotify.com/track/4KCbZcshgibfJSCAkg87Lv"
@@ -1366,7 +1384,7 @@
       ],
       "date_added": "2023-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-26",
+      "date_removed": null,
       "duration_ms": 228969,
       "name": "Jeena Jeena",
       "url": "https://open.spotify.com/track/2GXXZFUxYg2LvG8SR0byOE"
@@ -1430,7 +1448,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 235148,
       "name": "Jeena Jeena",
       "url": "https://open.spotify.com/track/0HEIct25CX0hhLucnhTkUr"
@@ -1740,6 +1758,28 @@
       "duration_ms": 227143,
       "name": "Kalle Kalle (From \"Chandigarh Kare Aashiqui\")",
       "url": "https://open.spotify.com/track/5o6q9gQXi5umBrUczroW79"
+    },
+    {
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/4yHDudrSH5umdyehifUyJO"
+      },
+      "artists": [
+        {
+          "name": "Ankit Tiwari",
+          "url": "https://open.spotify.com/artist/0E02VcvA5p1ndkLdqWD5JB"
+        },
+        {
+          "name": "Prakriti Kakar",
+          "url": "https://open.spotify.com/artist/59pq5Vw16UDkR9txoPKv86"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 381118,
+      "name": "Katra Katra",
+      "url": "https://open.spotify.com/track/0FMend2Dt9IUVDDtAPnLxO"
     },
     {
       "album": {
@@ -2078,7 +2118,7 @@
       ],
       "date_added": "2022-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 197473,
       "name": "Manike (From \"Thank God\")",
       "url": "https://open.spotify.com/track/0zlGnseLGzRIBA0TJcb3Bo"
@@ -2840,7 +2880,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 334331,
       "name": "Muskurane - Romantic",
       "url": "https://open.spotify.com/track/6fW78cd0p3ZDUzoqvx2Xqe"
@@ -3480,7 +3520,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 285000,
       "name": "Rasiya Reprise",
       "url": "https://open.spotify.com/track/3f9dNrQR4stx9CCfpqZVSf"
@@ -3528,7 +3568,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 308714,
       "name": "Sanam Re",
       "url": "https://open.spotify.com/track/0CVfovmUv7BnemOyTtOcbL"
@@ -3590,7 +3630,7 @@
       ],
       "date_added": "2023-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 288176,
       "name": "Sawan Aaya Hai",
       "url": "https://open.spotify.com/track/2znIV62IxtbY9gSEPdIAho"
@@ -3734,6 +3774,24 @@
       "duration_ms": 230875,
       "name": "Shiddat Title Track",
       "url": "https://open.spotify.com/track/5O9jxRlG72h1sYxtqWwUcF"
+    },
+    {
+      "album": {
+        "name": "Kyaa Super Kool Hain Hum",
+        "url": "https://open.spotify.com/album/5TU70Ei0IQiILqThDdnrGJ"
+      },
+      "artists": [
+        {
+          "name": "Sonu Nigam",
+          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 408063,
+      "name": "Shirt Da Button",
+      "url": "https://open.spotify.com/track/5hTRhSAP11DXrNas4FUiY1"
     },
     {
       "album": {
@@ -3884,6 +3942,24 @@
       "duration_ms": 236436,
       "name": "Tera Ban Jaunga",
       "url": "https://open.spotify.com/track/3oWxFNsXstcancCR1wODR4"
+    },
+    {
+      "album": {
+        "name": "Sanam Teri Kasam (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2yYfIOq25JQWvUQ9AR172D"
+      },
+      "artists": [
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274000,
+      "name": "Tera Chehra",
+      "url": "https://open.spotify.com/track/3trnNo4KeaUlFuUiV7iRCj"
     },
     {
       "album": {

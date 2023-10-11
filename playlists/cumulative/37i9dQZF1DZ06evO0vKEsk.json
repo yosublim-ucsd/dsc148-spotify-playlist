@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0iyu4WKKT4CU62Z0E5sHBm"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328753,
+      "name": "Nada Mais Ser\u00e1 Igual (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0lINGdR92RntRrkpkUQ6Gh"
+    },
+    {
+      "album": {
         "name": "N\u00e3o Acabou (Ao Vivo)",
         "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
       },
@@ -877,6 +895,28 @@
     },
     {
       "album": {
+        "name": "Santo \u00e9 o Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5wkstFPwJMS7BBWwRWM5L1"
+      },
+      "artists": [
+        {
+          "name": "Marine Friesen",
+          "url": "https://open.spotify.com/artist/6RFrCjwbhgeUHmrD0KCKZz"
+        },
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307058,
+      "name": "Santo \u00e9 o Senhor (Ao Vivo)",
+      "url": "https://open.spotify.com/track/2RlMSGI026ydQH7oRsJxsT"
+    },
+    {
+      "album": {
         "name": "Creio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4FOGQicy3wsOra4zxwxsVQ"
       },
@@ -888,7 +928,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 331693,
       "name": "Se o Vento Soprar",
       "url": "https://open.spotify.com/track/1KqHoFhNjT3HmiTJGiIjk7"
@@ -946,7 +986,7 @@
       ],
       "date_added": "2023-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 284444,
       "name": "Te Entrego Minhas Fraquezas",
       "url": "https://open.spotify.com/track/3SmcPR2zOv0nt1gho6sSBR"

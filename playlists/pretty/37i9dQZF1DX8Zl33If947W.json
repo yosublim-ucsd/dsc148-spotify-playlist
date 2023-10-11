@@ -1,12 +1,12 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 145392,
+  "num_followers": 145483,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiN2NhNmE5YzYxNDI1ZDhjNjE1NzA3NzBlNWI2ZDY1ZjAzNGY0MTBj",
+  "snapshot_id": "MCwwZTY1OWVlY2UwM2ZlOTUxZDEyNGZmNGI3ODQyMTQ3Y2NkM2ZlOTBl",
   "tracks": [
     {
       "added_at": "2023-03-06 08:21:00",
@@ -467,22 +467,6 @@
     {
       "added_at": "2023-03-06 08:21:00",
       "album": {
-        "name": "Dein ist mein ganzes Herz",
-        "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
-      },
-      "artists": [
-        {
-          "name": "Heinz Rudolf Kunze",
-          "url": "https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Dein ist mein ganzes Herz",
-      "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
-    },
-    {
-      "added_at": "2023-03-06 08:21:00",
-      "album": {
         "name": "Kauf mich! (Deluxe-Edition mit Bonus-Tracks)",
         "url": "https://open.spotify.com/album/5s0tTtY5aoJt4hgWGwzXoc"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 272440,
       "name": "Alles aus Liebe",
       "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
+    },
+    {
+      "added_at": "2023-03-06 08:21:00",
+      "album": {
+        "name": "Dein ist mein ganzes Herz",
+        "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
+      },
+      "artists": [
+        {
+          "name": "Heinz Rudolf Kunze",
+          "url": "https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Dein ist mein ganzes Herz",
+      "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
     },
     {
       "added_at": "2023-03-06 08:21:00",

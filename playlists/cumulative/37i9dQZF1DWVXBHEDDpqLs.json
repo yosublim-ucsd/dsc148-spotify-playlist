@@ -545,6 +545,28 @@
     },
     {
       "album": {
+        "name": "Bedroom DJ Remixes",
+        "url": "https://open.spotify.com/album/4dlycoHbcrvJS5nLvUf2fS"
+      },
+      "artists": [
+        {
+          "name": "Tomu DJ",
+          "url": "https://open.spotify.com/artist/3IkZulWyXacENlNykgnmwh"
+        },
+        {
+          "name": "So Drove",
+          "url": "https://open.spotify.com/artist/1wnkxdBk9u11unJmShBLFe"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168827,
+      "name": "Bedroom DJ - So Drove's Reefer Mix",
+      "url": "https://open.spotify.com/track/6RqVgeyPhiV42dtTYSGzQT"
+    },
+    {
+      "album": {
         "name": "Betty Bussit (feat. Soaky Siren & Tank and The Bangas)",
         "url": "https://open.spotify.com/album/6ewbAPvSTZ7a9LGa9yQw6K"
       },
@@ -1532,7 +1554,7 @@
       ],
       "date_added": "2021-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 202439,
       "name": "Ga$ton Rasta",
       "url": "https://open.spotify.com/track/6YBiXXECi9ePcN6hToOpU1"

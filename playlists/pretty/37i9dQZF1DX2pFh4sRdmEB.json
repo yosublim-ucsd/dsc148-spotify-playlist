@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos del Regional Mexicano de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 515497,
+  "num_followers": 515468,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhOTdmYzU1ODI4ODQ3NzBhZWUyZTVkYjNkYmEwOTEyMTVjZGViYWM2",
+  "snapshot_id": "MCwzNmUyYjBiNDNhNWRkODRlMjYwYjI4NGYxN2JjODAzYjZlMDI5Y2U5",
   "tracks": [
     {
       "added_at": "2023-08-22 06:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
+        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 246131,
+      "name": "Tu - En Vivo",
+      "url": "https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
         "name": "En Tu Perra Vida",
         "url": "https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 238677,
       "name": "En Tu Perra Vida",
       "url": "https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
-        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 246131,
-      "name": "Tu - En Vivo",
-      "url": "https://open.spotify.com/track/0qZO3MuMgRecjEfDdnlGVY"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -755,26 +755,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
-        }
-      ],
-      "duration_ms": 239310,
-      "name": "Dame un Beso y Dime Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "Atrapado en un Sue\u00f1o",
         "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 204453,
       "name": "La Buena y la Mala",
       "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "duration_ms": 239310,
+      "name": "Dame un Beso y Dime Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "De Hoy En Adelante, Que Te Vaya Bien",
-        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Fuentes De Ortiz",
-      "url": "https://open.spotify.com/track/3pPzYqVcgUvaPBwUpjc90j"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "De Hoy En Adelante, Que Te Vaya Bien",
+        "url": "https://open.spotify.com/album/7GMOWbeeTcIQrI8StlVDqh"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Fuentes De Ortiz",
+      "url": "https://open.spotify.com/track/3pPzYqVcgUvaPBwUpjc90j"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1243,22 +1243,18 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+        "name": "La Gritera",
+        "url": "https://open.spotify.com/album/1SG347OQS3AuoDcH3y07Z4"
       },
       "artists": [
         {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        },
-        {
-          "name": "Homero Guerrero y Lupe Tijerina",
-          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
+          "name": "Los Inquietos Del Norte",
+          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
         }
       ],
-      "duration_ms": 178960,
-      "name": "Los Dos Amigos",
-      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
+      "duration_ms": 146466,
+      "name": "Mi Amigo el de Arriba",
+      "url": "https://open.spotify.com/track/2ThDyuLg8XDB0UtEEOLe7t"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1295,18 +1291,22 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "La Gritera",
-        "url": "https://open.spotify.com/album/1SG347OQS3AuoDcH3y07Z4"
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
       },
       "artists": [
         {
-          "name": "Los Inquietos Del Norte",
-          "url": "https://open.spotify.com/artist/0pgvlX0BkfmeirXTDiNmya"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Homero Guerrero y Lupe Tijerina",
+          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
         }
       ],
-      "duration_ms": 146466,
-      "name": "Mi Amigo el de Arriba",
-      "url": "https://open.spotify.com/track/2ThDyuLg8XDB0UtEEOLe7t"
+      "duration_ms": 178960,
+      "name": "Los Dos Amigos",
+      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Coronel",
-          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
-        }
-      ],
-      "duration_ms": 224523,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "Haciendo Magia",
         "url": "https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy"
       },
@@ -1487,18 +1471,18 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Bodas De Enga\u00f1o",
-        "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/26CK4xfplV9B2bzC5yPqz7"
       },
       "artists": [
         {
-          "name": "Vagon Chicano",
-          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
         }
       ],
-      "duration_ms": 212360,
-      "name": "Viernes Sin Tu Amor",
-      "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
+      "duration_ms": 224523,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/5IR7Ecj0Ue1xufcOn6AUP1"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1515,6 +1499,22 @@
       "duration_ms": 165146,
       "name": "Mi Bello \u00c1ngel",
       "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "Bodas De Enga\u00f1o",
+        "url": "https://open.spotify.com/album/2Kmg5CiuBTZxYPTEypKDpy"
+      },
+      "artists": [
+        {
+          "name": "Vagon Chicano",
+          "url": "https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k"
+        }
+      ],
+      "duration_ms": 212360,
+      "name": "Viernes Sin Tu Amor",
+      "url": "https://open.spotify.com/track/2Ud8SDPZjPI1QSMtOHw721"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "No Hay Novedad",
-      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "El Trabajo Es La Suerte",
         "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 195453,
       "name": "Cerrando Ciclos",
       "url": "https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -2103,6 +2103,22 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 170720,
+      "name": "Eres Una Ni\u00f1a",
+      "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
         "name": "Mi Amuleto Eres Tu",
         "url": "https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp"
       },
@@ -2131,22 +2147,6 @@
       "duration_ms": 229053,
       "name": "Caballero",
       "url": "https://open.spotify.com/track/6jrK6Y8d9tvjAjurI4W99u"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 170720,
-      "name": "Eres Una Ni\u00f1a",
-      "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
     },
     {
       "added_at": "2023-08-22 06:00:00",

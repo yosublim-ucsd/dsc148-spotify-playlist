@@ -4,7 +4,7 @@
 
 > Because everyone else is already taken!
 
-113 songs - 5 hr 48 min
+114 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Boxes](https://open.spotify.com/track/7tiQjfKBKUPlpWSIAVBtdB) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Boxes](https://open.spotify.com/album/32LHmqAqyF8QFBYWhLcAPP) | 2:48 | 2022-04-15 |  |
 | [BROWN SKIN GIRL](https://open.spotify.com/track/0B3FovCVaGKS5w1FTidEUP) | [Blue Ivy](https://open.spotify.com/artist/3XV0lFzNs8BCTwhJTcMiBr), [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [The Lion King: The Gift](https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx) | 4:08 | 2022-04-15 |  |
 | [Celebrate \(There's No One Like You\)](https://open.spotify.com/track/62JR4lc8LufyOClzuoOrRx) | [The Quokkas](https://open.spotify.com/artist/41y8Sg5SccQXAn7JpkQDIg) | [Be Kind EP](https://open.spotify.com/album/5jdgjnN42Y3EitwLkAkNtG) | 2:09 | 2022-04-15 |  |
+| [CONFIDENT](https://open.spotify.com/track/4Q2ellywUb76X5n08rn8TE) | [Zindzi & The Zillionaires](https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB) | [CONFIDENT](https://open.spotify.com/album/45pqzyFPMnLw0KN9Qe2Ous) | 1:52 | 2023-10-10 |  |
 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 | 2022-04-15 |  |
 | [Damn It Feels Good To Be Me](https://open.spotify.com/track/3LymIBUSWRoxxm7W5UQlXl) | [Andy Grammer](https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj) | [Damn It Feels Good To Be Me](https://open.spotify.com/album/4gi9J69znig8ZUb9OhdUCs) | 2:18 | 2022-04-15 |  |
 | [Dare to Be Me](https://open.spotify.com/track/2YzDcXvqiREtH6lHlguUAO) | [Kaci Bolls](https://open.spotify.com/artist/1YKEhQzwfMQklnViW6QpX9), [The Happy Racers](https://open.spotify.com/artist/16W82BsAi9twBb2dPWKZRt) | [Dare to Be Me](https://open.spotify.com/album/7FqMUPXFtcQN01EdnnaSA1) | 2:25 | 2022-04-15 | 2023-02-23 |

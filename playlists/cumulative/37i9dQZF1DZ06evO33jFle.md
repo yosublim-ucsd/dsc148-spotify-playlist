@@ -4,7 +4,7 @@
 
 > This is Jenni Rivera\. The essential tracks, all in one playlist.
 
-51 songs - 3 hr 5 min
+52 songs - 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Inolvidable](https://open.spotify.com/track/7bEZbS1gadU29L5eIwM2gM) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 2:59 | 2023-03-10 |  |
 | [Juro Que Nunca Volvere](https://open.spotify.com/track/7zf9VnCyarordJgf4lbDk4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 2:40 | 2023-03-10 |  |
 | [La Cara Bonita](https://open.spotify.com/track/738eSXmmWKzUztBlemx7DQ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 2:16 | 2023-03-10 |  |
+| [La Chacalosa](https://open.spotify.com/track/150USNQZ2CCfh4KxRxG0CP) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Chacalosa](https://open.spotify.com/album/29TlqFabnT9Rk8VIVWXypc) | 3:36 | 2023-10-10 |  |
 | [La Chacalosa](https://open.spotify.com/track/78thkAb46Sm4s67EW6kDby) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Simplemente la Mejor](https://open.spotify.com/album/598e7UqBzKqD8st5MZbXwu) | 3:40 | 2023-03-10 | 2023-07-07 |
 | [La Gran Señora](https://open.spotify.com/track/3Q9Q9rYI2hwYZNl0Mmc2FB) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 4:12 | 2023-03-10 |  |
 | [Mariposa de Barrio](https://open.spotify.com/track/02ykJXbTaAyxPgaicIRxo4) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Mi Vida Loca](https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM) | 3:58 | 2023-03-10 |  |
@@ -45,7 +46,7 @@
 | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/track/3B1rdhOmO7LwlyIFsC0xFK) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Parrandera, Rebelde y Atrevida](https://open.spotify.com/album/2I50wzYim7XrZhBSrolmzs) | 2:56 | 2023-03-10 |  |
 | [Pedacito de Mí](https://open.spotify.com/track/6LBjmKiWAtPkQvNP2BLhYZ) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jacqie Rivera](https://open.spotify.com/artist/7gOu74yQzNuOjbiuJCP9QB) | [Misión Cumplida](https://open.spotify.com/album/4qEBxp2suIUiYlOtZKqDCg) | 3:30 | 2023-07-01 |  |
 | [Por Qué No Le Calas](https://open.spotify.com/track/54dl0Wvtmd9tcLfwjxONEn) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [La Gran Señora](https://open.spotify.com/album/6JpMhu4IR3A7gwjksos2Sa) | 3:25 | 2023-03-10 |  |
-| [Por un Amor Cucurrucucu Paloma](https://open.spotify.com/track/0SoWXX2bEslbR4lmoTFwk7) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 3:42 | 2023-03-10 |  |
+| [Por un Amor Cucurrucucu Paloma](https://open.spotify.com/track/0SoWXX2bEslbR4lmoTFwk7) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Homenaje a las Grandes](https://open.spotify.com/album/6XObfnPoT85f85nZMeOBLJ) | 3:42 | 2023-03-10 | 2023-10-11 |
 | [Porque Me Gusta a Morir \- Pop](https://open.spotify.com/track/1o1T0dmi0pPcJxYROpgBVy) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 5:09 | 2023-03-10 |  |
 | [Que Ganas de No Verte Nunca Más \- Pop](https://open.spotify.com/track/7BcyzX3sgFJht2vhVrXYzl) | [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Joyas Prestadas \- Pop](https://open.spotify.com/album/4PbG5KBpRl1ObRpMJ9oLF6) | 3:53 | 2023-03-10 |  |
 | [Que Me Entierren Cantando](https://open.spotify.com/track/5GaIwab0GIWICCSVzldmUY) | [Lupillo Rivera](https://open.spotify.com/artist/341CfLcUdaBGixB8IJjYwW), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Borracho de Primera](https://open.spotify.com/album/1cjt1zBdNmoD4qi3s2meCy) | 3:51 | 2023-03-10 |  |

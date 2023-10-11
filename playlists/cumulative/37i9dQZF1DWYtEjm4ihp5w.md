@@ -4,7 +4,7 @@
 
 > Playlist dial a7sen w akher ma kayn f rap mghribi\. Cover: Inkonnu
 
-164 songs - 8 hr 41 min
+165 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Helma](https://open.spotify.com/track/0xCOet5hB68wGPL66JrUGZ) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Helma](https://open.spotify.com/album/4ffyUt1pfPhGhPytnYaEcx) | 2:43 | 2023-05-12 | 2023-06-23 |
 | [Hiphop is dead](https://open.spotify.com/track/08FKkdkbm4FXA0fWLscjJh) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [Hiphop is dead](https://open.spotify.com/album/2nPyvcEJof1Xg70FmEOYp2) | 2:47 | 2022-11-28 | 2023-05-19 |
 | [HKZ GANG V2](https://open.spotify.com/track/055mtpjA761fk09YyAXAoF) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [HKZ GANG V2](https://open.spotify.com/album/7zCD2W5LfZ1h68oM33gACn) | 3:02 | 2023-08-23 | 2023-09-10 |
-| [HKZ GANG V2](https://open.spotify.com/track/3E01bQIlZo3m22jgNjieEo) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [HKZ GANG V2](https://open.spotify.com/album/4jyuqrpAhEhuNR1RR6V8JD) | 3:02 | 2023-09-08 |  |
+| [HKZ GANG V2](https://open.spotify.com/track/3E01bQIlZo3m22jgNjieEo) | [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [HKZ GANG V2](https://open.spotify.com/album/4jyuqrpAhEhuNR1RR6V8JD) | 3:02 | 2023-09-08 | 2023-10-11 |
 | [IMPOLIS](https://open.spotify.com/track/2zJCocfV6VTMDQScL4XUVN) | [Bo9al](https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF), [X7kira](https://open.spotify.com/artist/2DpWLjgk0DpATSJeWPWL3i), [Clemando](https://open.spotify.com/artist/2DosD7ocz68w23IdxfmtL3) | [IMPOLIS](https://open.spotify.com/album/1P3TKXMtmi3zKLPCYzNUYU) | 3:56 | 2023-06-22 | 2023-09-22 |
 | [INARA](https://open.spotify.com/track/5WDpxxOIYliyYQ4HSHwKvv) | [SCOOL BOY](https://open.spotify.com/artist/5suJPIX3Y4r4hEIrz60szV) | [INARA](https://open.spotify.com/album/5M63aDrFG28FQFYrAAcwEq) | 3:06 | 2022-11-14 |  |
 | [Interlude](https://open.spotify.com/track/1Q4NoELNdh14jm48P4HdsR) | [OUENZA](https://open.spotify.com/artist/7x2hBF3bNPwW9PnKxg9Zf8) | [Alam](https://open.spotify.com/album/0pioP7AB4b3Eb2SKZu90lX) | 1:44 | 2023-05-21 | 2023-06-23 |
@@ -114,6 +114,7 @@
 | [NO MERCY](https://open.spotify.com/track/7eMGattQmhWZmqvP3mYtdw) | [Vargas](https://open.spotify.com/artist/5QYFmxyElbfvHtovLIsjDb), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [VENOM](https://open.spotify.com/album/3jPxi5bJXFvXcZIizrmoZe) | 4:19 | 2022-11-14 | 2023-03-12 |
 | [Numero Uno \- V2](https://open.spotify.com/track/4Sp90D9O8SXeBJx5RqU21b) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Numero Uno \(V2\)](https://open.spotify.com/album/1JZ3EzXKORa4LhBdMeFtRv) | 3:37 | 2022-11-14 | 2023-07-12 |
 | [Oh My God](https://open.spotify.com/track/7oUQHfIkiTqyd0cNUb0Mnn) | [Furelise](https://open.spotify.com/artist/1qqig14uI7sLKGGzYnutyn) | [Oh My God](https://open.spotify.com/album/350A8RvGimxj2dTZcifUEy) | 3:25 | 2023-01-19 | 2023-02-14 |
+| [Omri](https://open.spotify.com/track/4EwhShRVqFuVTdqPKM5yoj) | [Hassa1](https://open.spotify.com/artist/6g4L5CJkiMINgAzUQsb7fr) | [Omri](https://open.spotify.com/album/0SugmLl21ELoSvkZN3v3rp) | 3:45 | 2023-10-10 |  |
 | [Oui Mr](https://open.spotify.com/track/4o49sZiYtgf89SzQ1MzpEB) | [Marouane](https://open.spotify.com/artist/0NOPgjB8SLX44CDPTaW0Be) | [Oui Mr](https://open.spotify.com/album/0XZbt2PWXdvGNIfezWU3rM) | 2:25 | 2023-08-26 | 2023-09-09 |
 | [Ouli Liya](https://open.spotify.com/track/5sk6R2149eT82gPVQI5vSY) | [Uzishettan](https://open.spotify.com/artist/20Rf6VG9JiegKXpPT416CE) | [Ouli Liya](https://open.spotify.com/album/2sqrTDtjVrLRG2qradXlHQ) | 3:21 | 2023-01-15 | 2023-06-16 |
 | [Pepete](https://open.spotify.com/track/2vVX6SI8eLIk5ycRk1rCTR) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Lmektoub](https://open.spotify.com/album/3CUlhsVaLVsAnUyuUDl3IB) | 2:45 | 2023-07-11 |  |

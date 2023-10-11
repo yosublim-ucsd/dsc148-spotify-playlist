@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 
 > This is Bad Religion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,231 likes - 50 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,376 likes - 50 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 20 | [Recipe For Hate](https://open.spotify.com/track/56V6F89n5wnU80jsZ9Rbqn) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Recipe For Hate](https://open.spotify.com/album/1DMLunJrzPkQws2uQU797l) | 2:02 |
 | 21 | [True North](https://open.spotify.com/track/58lZHE1P9WuNtoKJl9EoC7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [True North](https://open.spotify.com/album/64wdVyEDGVxfRsanjWxy2z) | 1:55 |
 | 22 | [Supersonic](https://open.spotify.com/track/24Z9YNvIlWNjYraAqyUgSh) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Process Of Belief](https://open.spotify.com/album/0t2Xi8RYL4d7iEuIbUE4zI) | 1:46 |
-| 23 | [A Walk](https://open.spotify.com/track/3Hu5WwPUx6tVhqdqbbGPo8) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Gray Race](https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5) | 2:09 |
-| 24 | [My Sanity](https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 2:58 |
-| 25 | [1000 More Fools](https://open.spotify.com/track/1pSGzkQRKnZLzfEYvOgNTB) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:35 |
+| 23 | [1000 More Fools](https://open.spotify.com/track/1pSGzkQRKnZLzfEYvOgNTB) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 1:35 |
+| 24 | [A Walk](https://open.spotify.com/track/3Hu5WwPUx6tVhqdqbbGPo8) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Gray Race](https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5) | 2:09 |
+| 25 | [My Sanity](https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 2:58 |
 | 26 | [Stranger Than Fiction](https://open.spotify.com/track/6ZCDfhSSqvpM8rW344srSM) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Stranger Than Fiction](https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N) | 2:20 |
 | 27 | [Modern Man](https://open.spotify.com/track/4OPFX9TRHlEz1M5JGCvoiL) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Against The Grain](https://open.spotify.com/album/5QTyi6ndfGO5vF4DcNgM97) | 1:57 |
-| 28 | [Come Join Us](https://open.spotify.com/track/5fWxm4j1WgVNkYPDwYBoBF) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Gray Race](https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5) | 2:03 |
-| 29 | [Give You Nothing](https://open.spotify.com/track/4dazQYZhFapxo1o1GsQ6ce) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 2:02 |
+| 28 | [Give You Nothing](https://open.spotify.com/track/4dazQYZhFapxo1o1GsQ6ce) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Suffer](https://open.spotify.com/album/2tQSaVTntSAVbDognInDQo) | 2:02 |
+| 29 | [Come Join Us](https://open.spotify.com/track/5fWxm4j1WgVNkYPDwYBoBF) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Gray Race](https://open.spotify.com/album/3noW0E8h93SBl56WTNu2y5) | 2:03 |
 | 30 | [Better Off Dead](https://open.spotify.com/track/5cySEdHrutJQq3lw2Y0lqP) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Stranger Than Fiction](https://open.spotify.com/album/4yzTm8IjIyybhPFGMTyv2N) | 2:38 |
 | 31 | [Along The Way](https://open.spotify.com/track/0jl2DpwuQ2ZDBsUI4blDhr) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [How Could Hell Be Any Worse? \(2005 Remaster\)](https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP) | 1:35 |
 | 32 | [Chaos From Within](https://open.spotify.com/track/1N8K9up7uz8EuyEiOoy9pq) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 49 | [Fuck Armageddon...This Is Hell](https://open.spotify.com/track/2WUJDRIoViFs5RYclM6gT0) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [How Could Hell Be Any Worse? \(2005 Remaster\)](https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP) | 2:48 |
 | 50 | [Before You Die](https://open.spotify.com/track/79MB7jmCne3vRqqVhgElvM) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [New Maps of Hell \(Deluxe Edition\)](https://open.spotify.com/album/48QpNk2Ubidb2gZyKymSUA) | 2:34 |
 
-Snapshot ID: `MjgyNzM3MzUsMDAwMDAwMDBhYTY1OWJkYzQzZmRlZjllMzBjNjM5MzFlMzhjNmNlYQ==`
+Snapshot ID: `MjgyODI0MTYsMDAwMDAwMDBlYjY4YmIwNDdmMmU4MDM3M2M0NmFkMjI5YzJjNzIwYQ==`

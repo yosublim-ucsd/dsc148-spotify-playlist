@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 
 > Bağımsız yerli sahneden en taze keşifler\. Kapak: M Lisa
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,532 likes - 70 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,533 likes - 70 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RLKir9EDRO.md) - [plain]
 | 69 | [Hiçliğin Ortasında](https://open.spotify.com/track/6YymsWNxufSgwBmsXKWZbU) | [radyologos](https://open.spotify.com/artist/2mA7vZSBZ1MZcOKtMkEJRS) | [Hiçliğin Ortasında](https://open.spotify.com/album/0mo6icblQAYmaJ5RmJNZSl) | 3:30 |
 | 70 | [Yalnız Kalp](https://open.spotify.com/track/5z59q3cc83RZg10UTFkP1c) | [Başak Çalık](https://open.spotify.com/artist/7rmp4C7dbpPmlf3Uyt4rAm) | [Yalnız Kalp](https://open.spotify.com/album/4kd4kTictkNvos8A50MRg1) | 4:21 |
 
-Snapshot ID: `MCw0Nzg0MjA5ZTVkNmRhNWQwMGNjNTYxNWVhOGRmNTVmNTk5YWJkOTU5`
+Snapshot ID: `MCxiODlhYmI5MmYwMGMzMGRlYThkZDQyY2YzZDhjYTFlZDJhOTM1Mjdk`

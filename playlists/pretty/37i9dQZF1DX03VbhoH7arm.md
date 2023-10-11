@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 > Os grandes hits do momento estão aqui! Foto: Luísa Sonza
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,445,670 likes - 52 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,446,121 likes - 52 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Water](https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Water](https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw) | 3:20 |
 | 2 | [A Dona Aranha](https://open.spotify.com/track/181TYnNi3wNGrdsCykmI4A) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 2:04 |
 | 3 | [Furduncinho do Rogerinho](https://open.spotify.com/track/6drlqBh6BeYZinmYQ9qR2n) | [MC Rogerinho](https://open.spotify.com/artist/5JbQpbeFaKfuZVFzKwaawP) | [Furduncinho do Rogerinho](https://open.spotify.com/album/1121oao2lBVzRP4G6CxE6a) | 2:59 |
-| 4 | [MONTAGEM ANOS 2000](https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h) | [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [MC Tigrão](https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Karol Conká](https://open.spotify.com/artist/6ODCVWBfGNFUf1bpo0c2Ge) | [A.Mago \- Playlist do Mago](https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So) | 2:58 |
+| 4 | [MONTAGEM ANOS 2000](https://open.spotify.com/track/4zNy0cxc4p36OLdPr0sI6h) | [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu), [MC Tigrão](https://open.spotify.com/artist/5ZN9qsKINzpikhHsCBvYpW), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [Mc Karol](https://open.spotify.com/artist/3PcaoyXip46S7I2LyU8sxW) | [A.Mago \- Playlist do Mago](https://open.spotify.com/album/4vhbsr8IwQoKgTiKGlo6So) | 2:58 |
 | 5 | [Vem Quebrando](https://open.spotify.com/track/7Iq55toOSSBCEoGuXxQSa1) | [Mc Danone](https://open.spotify.com/artist/5AkhuEE9FYontxsHqqmtNQ), [DJ THG](https://open.spotify.com/artist/2SvKC08nVN1betbwPtr3Lc), [Dj Hm Oliveira](https://open.spotify.com/artist/0XLrjcXTNJmPJTF3ByHJfV) | [Vem Quebrando](https://open.spotify.com/album/0aQOJ7eiOSyP0Yf3mwIEdF) | 2:28 |
 | 6 | [Ombrim \(ai que delicia o verão\) \(feat\. Mts No Beat\)](https://open.spotify.com/track/4bxAq0zgWQKMaQJ7HLJJxk) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L), [Chicão do Piseiro](https://open.spotify.com/artist/4JBL9SoZVzV14jqKe77LGG), [Roni Bruno](https://open.spotify.com/artist/2IhVpxz1wJpQWdAq28nYQ1), [Mts No Beat](https://open.spotify.com/artist/5TNtQJ4H8JLAMAdvppHSq7) | [Ombrim \(ai que delicia o verão\) \(feat\. Mts No Beat\)](https://open.spotify.com/album/51kAalNphK3VMQJNA0KzzL) | 2:15 |
 | 7 | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/track/64CovjRwInpOJW4PiGMprY) | [MC Kevin o Chris](https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ), [Dj Nk Da Serra](https://open.spotify.com/artist/3DIMAAaWSlVl1YQ9nsQmUN) | [Faz um Vuk Vuk \(Teto Espelhado\)](https://open.spotify.com/album/59qldBzRiQutEYO1hqxw7H) | 2:18 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 | 51 | [Sereia](https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Sereia](https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI) | 4:54 |
 | 52 | [Felina](https://open.spotify.com/track/2orGm2E68ODFYOURjaES62) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Felina](https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn) | 3:45 |
 
-Snapshot ID: `MCxmMTY2NzgzMjA4ZTgxNWY1ZTk0NTM4MmViMjVmZTNjYzFiNTZjOWQx`
+Snapshot ID: `MCxjZjJhYWI2ZDllZjhjZTc3YmRjNjE0NDVhZGE4ZTFkY2EzYzg4MTM0`

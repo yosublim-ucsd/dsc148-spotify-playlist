@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > New music from popular Hindi artists\. Cover\- Zaeden, Lisa Mishra
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,774 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,847 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 3 | [Jaane Jaa](https://open.spotify.com/track/0NK1YsOdr6kMiIbRw7zlWc) | [Stebin Ben](https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Jaane Jaa](https://open.spotify.com/album/4PyjkNuVzNQ836nnjd6kPo) | 3:26 |
 | 4 | [Kitne Bulbule](https://open.spotify.com/track/2FazNLui6PLccXhAFtvl7o) | [Neha Karode](https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN), [Jeet Gannguli](https://open.spotify.com/artist/2kkQthS9OLpK4UqNWYqoVl) | [Kitne Bulbule](https://open.spotify.com/album/3csWQooGnyAK5Q9sHf17ZU) | 2:33 |
 | 5 | [Mulaqat](https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/2LBQG9vBtXEL7RD4FUTJTa) | 4:06 |
-| 6 | [Kyun Tujhse Mila](https://open.spotify.com/track/5dNZtHAcfs2XAAmONCi74E) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N) | [Kyun Tujhse Mila](https://open.spotify.com/album/10DLl9xX4RVhfBgb1AINbM) | 3:02 |
+| 6 | [Kyun Tujhse Mila](https://open.spotify.com/track/5dNZtHAcfs2XAAmONCi74E) | [Pina Colada Blues](https://open.spotify.com/artist/1pSV6wx1cZQB3l7c2wY3mE), [Salim Merchant](https://open.spotify.com/artist/1TbRSunWGZ46mqnapcWxrm), [Dropped Out](https://open.spotify.com/artist/7zN7ZzgJdUZdEcbecViK4N), [Yash Narvekar](https://open.spotify.com/artist/4RlnRVxKm3jnUzOP4czbIK), [The Rish](https://open.spotify.com/artist/0Eb38FY9vOjiRA10iXPGHI) | [Kyun Tujhse Mila](https://open.spotify.com/album/10DLl9xX4RVhfBgb1AINbM) | 3:02 |
 | 7 | [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 |
 | 8 | [Dil Hi To Hai](https://open.spotify.com/track/7zBgwvwMEdFmTIOxYCoM3X) | [Khwaab](https://open.spotify.com/artist/1fQt9x3P87d8ggkdU2hUDx), [Kanishk Seth](https://open.spotify.com/artist/4hGFNXuWut4b2sfJCJJNEo) | [Dil Hi To Hai](https://open.spotify.com/album/6gdK76yyTXbwBgRbPP5Ii5) | 2:38 |
 | 9 | [Tu Mujhko Mila Hai](https://open.spotify.com/track/6NU41OQ135BoO5uJA9Q8w4) | [Meet Bros.](https://open.spotify.com/artist/0qpsFfOT3SmdGmnyV6rOhS), [Harshit Shrivastava](https://open.spotify.com/artist/5eYHTsRSjK7Kqo7KDxEtSA), [Dev Negi](https://open.spotify.com/artist/04FsFHujpuqonrPXZrEJlK) | [Tu Mujhko Mila Hai](https://open.spotify.com/album/2l6yZEtNjNBRUarfIbHyjE) | 3:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 | 49 | [Sahibaa \(From "The Great Indian Family"\)](https://open.spotify.com/track/2YYvNDKfjDsWNaEwhsGcZk) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Antara Mitra](https://open.spotify.com/artist/2UwDJeoMqYers5Jmm75zm2), [Amitabh Bhattacharya](https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx) | [Sahibaa \(From "The Great Indian Family"\)](https://open.spotify.com/album/2N0cA45WUmjYRiktG0o7Jt) | 3:56 |
 | 50 | [Judaiyaan](https://open.spotify.com/track/6TWsUKihAAyBJ7fO5Sddwk) | [Tanveer Evan](https://open.spotify.com/artist/4OUraoZcwg1SsMHFjuaajw), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Judaiyaan](https://open.spotify.com/album/6aH7CDDlDEFhfhYxApK3t3) | 3:36 |
 
-Snapshot ID: `MCw3NGIzMjY0ZWNlNmJkOWJjZjFlNzQwMjE1MjY3OGY4OTc1MzkwMzgz`
+Snapshot ID: `MCw4OGNmNDY3ZTRjMzgxYjJjZWZjMjU0M2M0MDkwZDIyYzRjZWM1MmY5`

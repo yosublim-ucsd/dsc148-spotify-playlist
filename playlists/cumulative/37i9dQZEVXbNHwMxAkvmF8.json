@@ -785,6 +785,24 @@
     },
     {
       "album": {
+        "name": "Ak\u00e1rki",
+        "url": "https://open.spotify.com/album/3R4zRjRWNt05XWrNO5sY70"
+      },
+      "artists": [
+        {
+          "name": "T. Danny",
+          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198260,
+      "name": "Ak\u00e1rki",
+      "url": "https://open.spotify.com/track/2VfkTMl1CeCxbd1r2Y5hpy"
+    },
+    {
+      "album": {
         "name": "PLAYB\u00c1NIA",
         "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
       },
@@ -3216,7 +3234,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 174000,
       "name": "Csavarg\u00f3",
       "url": "https://open.spotify.com/track/1jI95q1ZSLZuVNdOMwaoUL"
@@ -10208,7 +10226,7 @@
       ],
       "date_added": "2022-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-11",
       "duration_ms": 191538,
       "name": "Mind1",
       "url": "https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM"
@@ -12626,7 +12644,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 132359,
       "name": "Prada",
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"

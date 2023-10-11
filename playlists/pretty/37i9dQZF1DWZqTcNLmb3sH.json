@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
-  "num_followers": 54048,
+  "num_followers": 54179,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyYWE3YjY2Y2Q4ODQ0YjIxNGZlZWFlMzIxMzBmMmJkMDQwNGVjNjEw",
+  "snapshot_id": "MCxlNjc1NTdjMTBhZjA4MDQwMmJiMWQ4Yzk0YWFhNTYzMGViMzU5ODQy",
   "tracks": [
     {
       "added_at": "2023-09-12 08:17:16",
@@ -51,6 +51,26 @@
       "duration_ms": 233413,
       "name": "Jaggade Kuggade (From \"Ronnie - The Hunter\")",
       "url": "https://open.spotify.com/track/3JPqLECC7amVkYrxUsMDpK"
+    },
+    {
+      "added_at": "2023-10-10 07:56:30",
+      "album": {
+        "name": "Raktaksha (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4te7Bszifj3jLQ6Gpnzj0J"
+      },
+      "artists": [
+        {
+          "name": "Supriyaa Ram",
+          "url": "https://open.spotify.com/artist/6ZRC0Bc7Dcx49chE1ppbkp"
+        },
+        {
+          "name": "Dossmode",
+          "url": "https://open.spotify.com/artist/1A7mR5Rc1i25LIVp8hIz4b"
+        }
+      ],
+      "duration_ms": 200950,
+      "name": "Arrest Me Baby",
+      "url": "https://open.spotify.com/track/3YPzv066UZeQlfAcOOF4Xk"
     },
     {
       "added_at": "2023-10-07 10:52:02",
@@ -1253,30 +1273,6 @@
       "url": "https://open.spotify.com/track/5S9ASTIE8qeXQ44GhmG77O"
     },
     {
-      "added_at": "2023-08-29 05:10:47",
-      "album": {
-        "name": "He..Hendati (From \"Kushi\")",
-        "url": "https://open.spotify.com/album/0aIcBDHgohhcAQ3KVHk3WS"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Hesham Abdul Wahab",
-          "url": "https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ"
-        },
-        {
-          "name": "V Nagendra Prasad",
-          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
-        }
-      ],
-      "duration_ms": 218250,
-      "name": "He..Hendati (From \"Kushi\")",
-      "url": "https://open.spotify.com/track/3iJ2zHD9DflK99ovfNPUUz"
-    },
-    {
       "added_at": "2023-08-24 13:43:18",
       "album": {
         "name": "Shruthiyagi Nee Seru (From \"Deadly Killer\")",
@@ -1443,58 +1439,6 @@
       "duration_ms": 190909,
       "name": "Kaavaalaayya (From \"Jailer\")",
       "url": "https://open.spotify.com/track/5AR8sZJpaXmwIGE8r4lnIv"
-    },
-    {
-      "added_at": "2023-08-10 11:59:55",
-      "album": {
-        "name": "Naanemba Swarthava Bittu (From \"DDD\")",
-        "url": "https://open.spotify.com/album/2d9QbTVcRcIWNRPOLvT7ee"
-      },
-      "artists": [
-        {
-          "name": "Abhishek M R",
-          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
-        },
-        {
-          "name": "Darshan Narayan",
-          "url": "https://open.spotify.com/artist/64ZcUIE43WrFrkpbRbzqmD"
-        },
-        {
-          "name": "Suraj Jois",
-          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
-        },
-        {
-          "name": "Chethan Kumar",
-          "url": "https://open.spotify.com/artist/3zMAaXwoMBtxeIzUQjiXcy"
-        }
-      ],
-      "duration_ms": 235176,
-      "name": "Naanemba Swarthava Bittu (From \"DDD\")",
-      "url": "https://open.spotify.com/track/78LhTKbBXM0MCiEmDorNCI"
-    },
-    {
-      "added_at": "2023-08-10 11:59:55",
-      "album": {
-        "name": "Comedy King (From \"Namo Bhoothathma 2\")",
-        "url": "https://open.spotify.com/album/361D8XECakKxJ6qGjvJfl4"
-      },
-      "artists": [
-        {
-          "name": "Chandan Shetty",
-          "url": "https://open.spotify.com/artist/2b4BOEtTbGchL0K53fvpgk"
-        },
-        {
-          "name": "Arun Andrew",
-          "url": "https://open.spotify.com/artist/3NMg8F6trpYFOtvlt6FTVM"
-        },
-        {
-          "name": "Vishwaji",
-          "url": "https://open.spotify.com/artist/2rkYVUbHuNz9wmqWX8JgJ1"
-        }
-      ],
-      "duration_ms": 247200,
-      "name": "Comedy King - From \"Namo Bhoothathma 2\"",
-      "url": "https://open.spotify.com/track/3Go0RbsqrVCXbGJyp3AZy2"
     },
     {
       "added_at": "2023-08-08 13:36:47",
