@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6842\)
+## Playlists \(6843\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1263,6 +1263,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Comeback Pop](/playlists/pretty/37i9dQZF1DWW2WLMvx4LFU.md)
 - [Comedy Top Tracks](/playlists/pretty/37i9dQZF1DWSRoT7QRAibZ.md)
 - [Comfort Zone](/playlists/pretty/37i9dQZF1DWYWddJiPzbvb.md)
+- [Comforting Mix](/playlists/pretty/37i9dQZF1EId2IRKziWcgn.md)
 - [Comme au cinéma](/playlists/pretty/37i9dQZF1DX7ym1547AToj.md)
 - [Commuter Flow \(That Fire For Your Aux Cord\)](/playlists/pretty/5wPUMOWXlhmk9XmGO4RtKz.md)
 - [Compelling Chats with Bill Simmons](/playlists/pretty/37i9dQZF1DX5WvunxF0tu8.md)
