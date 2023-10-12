@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-06",
+      "date_removed": null,
       "duration_ms": 264640,
       "name": "Life Is Good",
       "url": "https://open.spotify.com/track/1EfPleE2AT7pvxpvFYIlIO"
@@ -1064,6 +1064,24 @@
       "duration_ms": 266357,
       "name": "Madatripper",
       "url": "https://open.spotify.com/track/6M8rQwcw2cejAJfurs2Nbx"
+    },
+    {
+      "album": {
+        "name": "MID DAY",
+        "url": "https://open.spotify.com/album/0FUAPjCkQMjG8FdiIbntVH"
+      },
+      "artists": [
+        {
+          "name": "JET JACKET",
+          "url": "https://open.spotify.com/artist/3ijo3WLa2yLL37wtOVMNta"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233077,
+      "name": "MID DAY",
+      "url": "https://open.spotify.com/track/4gSM9yLYDnBlBZBhNCFTvO"
     },
     {
       "album": {
@@ -2716,7 +2734,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 209333,
       "name": "\u30df\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/5sAf1YOrqP7t4uMng90FWR"
@@ -2842,7 +2860,7 @@
       ],
       "date_added": "2023-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 215853,
       "name": "\u30e9\u30ba\u30d9\u30ea\u30fc",
       "url": "https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo"

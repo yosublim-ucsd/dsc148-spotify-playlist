@@ -4,7 +4,7 @@
 
 > Techno is a state of mind\. Cover: Rebūke
 
-219 songs - 17 hr 51 min
+220 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,9 @@
 | [Dystopia](https://open.spotify.com/track/0hJb963pbosuVwVViwGnAZ) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dystopia](https://open.spotify.com/album/2GsZ5MnJTIFOKf3FiuQISk) | 3:37 | 2022-07-29 | 2023-07-02 |
 | [Dystopia](https://open.spotify.com/track/4HroXwGskJHBvEUKPz18Pp) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Dystopia](https://open.spotify.com/album/1C7Xd1syZwusTyf8lFnyn4) | 3:37 | 2023-05-12 |  |
 | [Echo Chamber](https://open.spotify.com/track/2E1ijRRSltbxCervdfmWVI) | [Mount Palomar](https://open.spotify.com/artist/3MF81jbkfVMeJdxo56JCz6) | [Echo Chamber](https://open.spotify.com/album/6yWWXwR7sxdL94rdikCdFR) | 4:26 | 2022-10-13 |  |
-| [Escape](https://open.spotify.com/track/1ddH3uRnJ2MCcAC2HzoDeI) | [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV), [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Escape](https://open.spotify.com/album/0hJYEV2KnUi2QH2WrtOoUF) | 4:23 | 2022-10-13 |  |
+| [Escape](https://open.spotify.com/track/1ddH3uRnJ2MCcAC2HzoDeI) | [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV), [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Escape](https://open.spotify.com/album/0hJYEV2KnUi2QH2WrtOoUF) | 4:23 | 2022-10-13 | 2023-10-12 |
 | [Escape](https://open.spotify.com/track/2AOBG21RTF5xxBfYqtEgWi) | [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV), [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Escape](https://open.spotify.com/album/7IORW83Ti6pe4dxhoWBID4) | 4:23 | 2022-09-23 | 2022-10-14 |
+| [Escape](https://open.spotify.com/track/6lGb5bcwjsolNsvp55DXmT) | [Artche](https://open.spotify.com/artist/4AiZ03mzMP6HYs4FKGIHUP), [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Escape](https://open.spotify.com/album/00CETdyuoeWPV0ElHt8umH) | 4:23 | 2023-09-22 |  |
 | [Eternity Of Echoes](https://open.spotify.com/track/0NXejdY0rXJfMkocRP1osb) | [Shiken Hanzo](https://open.spotify.com/artist/3lttA5nBNjUeWtLqvOnncr) | [Eternity Of Echoes](https://open.spotify.com/album/4b41tw2qshMUH0F5H6m485) | 5:18 | 2022-08-05 |  |
 | [Eternity Of Echoes](https://open.spotify.com/track/2mOjpdh47Q42fQYAYMWGTN) | [Shiken Hanzo](https://open.spotify.com/artist/3lttA5nBNjUeWtLqvOnncr) | [Eternity Of Echoes](https://open.spotify.com/album/4a66UodRVtLVGEiP4Vfa4U) | 5:18 | 2022-08-05 | 2022-09-15 |
 | [Eva's Stoned](https://open.spotify.com/track/4gPzO5yFrDxHe6obIAIOq3) | [Jay Carder](https://open.spotify.com/artist/2VVF5cjuSx97r3ND28ndlK) | [Eva's Stoned](https://open.spotify.com/album/3nrzfqIiLa33hA8B71Fkw0) | 6:25 | 2022-10-13 | 2023-08-11 |

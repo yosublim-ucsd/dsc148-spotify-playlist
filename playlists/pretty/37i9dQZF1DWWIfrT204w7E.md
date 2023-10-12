@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 
 > Drill scenes connect\. Cover: Dave & Central Cee
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,523 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,567 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 19 | [Veteran](https://open.spotify.com/track/2cHetITRRw9TZtcmsVdjbS) | [TeeZandos](https://open.spotify.com/artist/0aDlKdF22vK6yut113KJix) | [Veteran](https://open.spotify.com/album/2NkaFioRIq3TyUiQLtz1i7) | 2:20 |
 | 20 | [6 For 6](https://open.spotify.com/track/1tLV0GD0WXQ1Z8BKOQscti) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Wild West](https://open.spotify.com/album/0aAVMtHuK9wX1mQozWvdSZ) | 2:28 |
 | 21 | [Feelings](https://open.spotify.com/track/7bPY7SRKFhkQwsjfJUyH5m) | [Bizzy Banks](https://open.spotify.com/artist/7s3eCGNZMrwUQraXlocCBv) | [Feelings](https://open.spotify.com/album/454OgvsugH7I6ltxO2jzvZ) | 2:38 |
-| 22 | [No Suburban, Pt\. 2](https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 2:33 |
-| 23 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 |
+| 22 | [Whoopty](https://open.spotify.com/track/1t9WgS8FN0534tLBRwbaxO) | [CJ](https://open.spotify.com/artist/7arQA31aZVS8yS6zUveWzb) | [Loyalty Over Royalty](https://open.spotify.com/album/0kHRftVXaiRHgQdtviml0G) | 2:03 |
+| 23 | [No Suburban, Pt\. 2](https://open.spotify.com/track/3VayB5gLZGODx8b7RO1y5f) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm) | [One and Only](https://open.spotify.com/album/6lJqLqRmWGmsw8aLEoSlZ9) | 2:33 |
 | 24 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 |
 | 25 | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/track/6uvMKqNlrSvcC4NaKnrwjZ) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk), [E1 \(3x3\)](https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B), [ZT \(3x3\)](https://open.spotify.com/artist/2uIRmVaCVpHQjaVgph5clS), [Bugzy Malone](https://open.spotify.com/artist/4Dokdwa3WB7ilQ2c2qvIBL), [Buni](https://open.spotify.com/artist/5AiY4bxeXerLXx03JADdQv), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Body \(Remix\) \[feat\. ArrDee, E1 \(3x3\), ZT \(3x3\), Bugzy Malone, Buni, Fivio Foreign & Darkoo\]](https://open.spotify.com/album/3ucQ8ogD2Li2U0rwkrdwlx) | 4:38 |
 | 26 | [Deep End Freestyle](https://open.spotify.com/track/2AlYncTpVHKwHb55F9lF6O) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Sleepy Hallow Presents: Sleepy For President](https://open.spotify.com/album/3P7EIeXmzJQNT1xs4Q6Xzd) | 1:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWIfrT204w7E.md) - [plain]
 | 49 | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/track/2NVXBBbO4xGO851zrMfCFi) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Alborosie](https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG) | [2 Mins of Pain \(feat\. Alborosie\)](https://open.spotify.com/album/43AaQNHNlJlf8F2iQkivyx) | 2:16 |
 | 50 | [Healing](https://open.spotify.com/track/1l40rYTK1jU4OMpSK6BwD0) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Healing](https://open.spotify.com/album/6MKGuZlTv1ECBhjJ5AvrFl) | 2:40 |
 
-Snapshot ID: `MCw0MjQxNDQ3MDQ1NTkwODFjNWU5YjFlZTFkMTBmZGY3NzQ1NjU4Y2Nk`
+Snapshot ID: `MCxkMDNhMzAyMmI3NTdmOTc3MjQ4NzAyYTI3ZmM3MzIwOWYwMWVjYmEy`

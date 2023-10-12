@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#voorjou \#wiebenjij \#rihanna \#noano7k \#koekje \#joost
 
-249 songs - 12 hr 27 min
+251 songs - 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Cruel Summer](https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Lover](https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq) | 2:58 | 2023-07-06 | 2023-08-02 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3Kw7zkALCVxY4wmlnh2IWC) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/1ZXXEGGhHYgOEzYUjP6bPR) | 2:54 | 2023-03-27 | 2023-04-04 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-30 | 2023-07-11 |
-| [Dance For Me \(1, 2, 3\)](https://open.spotify.com/track/2Gjo6E7ZemzmLzNUMRg6ac) | [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\)](https://open.spotify.com/album/4qUNnH1PZZQkUlpuNAECW3) | 2:09 | 2023-09-21 |  |
+| [Dance For Me \(1, 2, 3\)](https://open.spotify.com/track/2Gjo6E7ZemzmLzNUMRg6ac) | [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE) | [Dance For Me \(1, 2, 3\)](https://open.spotify.com/album/4qUNnH1PZZQkUlpuNAECW3) | 2:09 | 2023-09-21 | 2023-10-12 |
+| [Dance For Me \(1, 2, 3\) \- Stutter Techno](https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [ZANA](https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE), [Quinten Circle](https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG), [Lyente](https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0) | [Dance For Me \(1, 2, 3\) \[Stutter Techno\]](https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY) | 2:27 | 2023-10-11 |  |
 | [Dancing in the sky](https://open.spotify.com/track/2JuWcnU7ifoIaIzQXNH6hk) | [ZITA](https://open.spotify.com/artist/05QNFSNYfQhYxUJUoFtEEk) | [Dancing in the sky](https://open.spotify.com/album/2L8ds3AKfmgpyrB8Z584PM) | 2:34 | 2023-02-23 | 2023-04-12 |
 | [Dankjewel](https://open.spotify.com/track/6qlsnYLcPkZFxv0t2Koko8) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Dankjewel](https://open.spotify.com/album/4et19MNXHj4zo9e9IGCJlW) | 2:40 | 2023-02-23 | 2023-04-27 |
 | [DARBA 9ADIYA](https://open.spotify.com/track/0WCiCbdRB54GMzlRGs3Fa4) | [Moha K](https://open.spotify.com/artist/6o5sl0TGublDPXyMHdMq1E), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [DARBA 9ADIYA](https://open.spotify.com/album/0A32UfWq7bigKFdXJ0o2LW) | 2:29 | 2023-05-04 | 2023-06-13 |
@@ -220,6 +221,7 @@
 | [Straight and Narrow](https://open.spotify.com/track/40vKwNlXXKUmQMGceAoEpy) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Straight and Narrow](https://open.spotify.com/album/0floBXCzvTvVMR3gXWZBav) | 3:19 | 2023-05-01 | 2023-06-13 |
 | [Strangers](https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [Strangers](https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k) | 2:52 | 2023-09-04 |  |
 | [Stray Nights](https://open.spotify.com/track/6HIQWdDMDI98njEeOylwkS) | [Tom Frane](https://open.spotify.com/artist/7EJYadnOoXsnXbvULN7YCR) | [Stray Nights](https://open.spotify.com/album/4RqrHlPCVPdgut66jBcT5O) | 2:17 | 2023-09-11 |  |
+| [SUPARO \- SPEED UP](https://open.spotify.com/track/7sf9InBTBA24jMwMHpiq2K) | [WAYNE FLENORY](https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV) | [SUPARO \(SPEED UP\)](https://open.spotify.com/album/2rygY1Vjrl34eG7IJ9wJFa) | 1:58 | 2023-10-11 |  |
 | [Supernova](https://open.spotify.com/track/4o15ljBxxossYcAYOhjKpb) | [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee), [Matthy](https://open.spotify.com/artist/0QHed4AjWDRonljqAa92EF) | [Supernova](https://open.spotify.com/album/66q7bYDHdyVIvFvsrh6COm) | 2:37 | 2023-07-31 | 2023-10-03 |
 | [Sure Thing](https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 3:15 | 2023-02-23 | 2023-04-12 |
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-02-23 | 2023-04-07 |

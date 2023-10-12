@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,066 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,463 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTiY3QffFUdg.md) - [plain]
 | 41 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 |
 | 42 | [Tattoo](https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Nightcore](https://open.spotify.com/artist/4T7P7W7Jp191exHszNy0iz) | [Tattoo](https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8) | 3:12 |
 | 43 | [Low \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/track/7tMVmdCrQvj3iC0z8tZBZT) | [71 Digits](https://open.spotify.com/artist/7rYojRyXBLPrX6UWfnAkaC), [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ) | [Low \(Macon's HYPERTECHNO Remix\)](https://open.spotify.com/album/4Tpa491B6dAf3VnlXdts6V) | 2:46 |
-| 44 | [Damage](https://open.spotify.com/track/3uYo9KXhl2N2RAAKA9XN9h) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Damage](https://open.spotify.com/album/5N1qmRfrSS7gCfZLcps7tI) | 2:57 |
-| 45 | [The Unexpected](https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Unexpected](https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z) | 4:00 |
-| 46 | [Komodo](https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c) | 2:35 |
-| 47 | [Ray Of Solar \- Anfisa Letyago Remix](https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Ray Of Solar \(Anfisa Letyago Remix\)](https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2) | 3:27 |
-| 48 | [Dark Water](https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [JESSCA](https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9) | [Dark Water](https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK) | 3:26 |
-| 49 | [It's a Fine Day](https://open.spotify.com/track/4y4g8oUhA6SODQzbKY7GVp) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv) | [It's a Fine Day](https://open.spotify.com/album/31t5xfyX0K01OEvXOYoKyk) | 2:32 |
-| 50 | [WANNA GO BANG](https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG) | 3:57 |
+| 44 | [It's a Fine Day](https://open.spotify.com/track/4y4g8oUhA6SODQzbKY7GVp) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv) | [It's a Fine Day](https://open.spotify.com/album/31t5xfyX0K01OEvXOYoKyk) | 2:32 |
+| 45 | [Damage](https://open.spotify.com/track/3uYo9KXhl2N2RAAKA9XN9h) | [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Damage](https://open.spotify.com/album/5N1qmRfrSS7gCfZLcps7tI) | 2:57 |
+| 46 | [The Unexpected](https://open.spotify.com/track/4WSEpqcROxEExCChwHqoMf) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [The Unexpected](https://open.spotify.com/album/2sQexrsGSYkPFOf2Q9em0z) | 4:00 |
+| 47 | [Komodo](https://open.spotify.com/track/7xkKZ9TjRm5zE6hJf5CaGC) | [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp) | [Komodo](https://open.spotify.com/album/0kvwytv9p1qqdGdlDzLN0c) | 2:35 |
+| 48 | [Ray Of Solar \- Anfisa Letyago Remix](https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Ray Of Solar \(Anfisa Letyago Remix\)](https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2) | 3:27 |
+| 49 | [Sweat](https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU) | 2:12 |
+| 50 | [Dark Water](https://open.spotify.com/track/2hjIST3yMZbyfesqNDO8Fy) | [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U), [JESSCA](https://open.spotify.com/artist/4ZUkMKPfAdbnBHuZZyjXf9) | [Dark Water](https://open.spotify.com/album/79RBEFYqd3CZZZ3iqQuRRK) | 3:26 |
 
-Snapshot ID: `MCw3MjI0MTVmY2I3MGJhNWUzZTU4YmQzMGJjN2U2YWM2MTBjNWU5N2Rk`
+Snapshot ID: `MCxiYzBkNmUwMDdmNTFiYzZhMTIyMTEzN2RjNTdlMWE0ZWQ5NmNmN2Q0`

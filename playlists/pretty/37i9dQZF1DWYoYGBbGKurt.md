@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,805 likes - 379 songs - 14 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,688 likes - 379 songs - 14 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -388,4 +388,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 378 | [Euphoria](https://open.spotify.com/track/4ljI7MR9RmhuyML65YWQAp) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk) | [Euphoria](https://open.spotify.com/album/0ilUOQTMsh0nGPpzREboYF) | 2:35 |
 | 379 | [Snow Walks](https://open.spotify.com/track/0LFAnJIER61KZZggIZR3LR) | [Early Garden](https://open.spotify.com/artist/6UFQmSPDWaWReDLcCrPyNL), [vimef](https://open.spotify.com/artist/1xUOwpofiLq183kHa1Y8cb), [lifeboat](https://open.spotify.com/artist/7EjZNBvNe81OgATW2RGr8U) | [Snow Walks](https://open.spotify.com/album/4acUsG6hiluBSSuZiogG1i) | 2:28 |
 
-Snapshot ID: `MCw4ZTA3NjE4MjA1NmJkMzFmOThjNDhiZDg0MDJlNjQyNDVmMzgwZmEx`
+Snapshot ID: `MCw4ODgzMzUzYjNlN2JiNDM3ZTlhNzNjYzhjZmY1MWY3MzM2NWNjYTFk`

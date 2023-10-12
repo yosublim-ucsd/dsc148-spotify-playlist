@@ -1,12 +1,12 @@
 {
   "description": "The best alternative rock tracks right now.",
-  "num_followers": 79634,
+  "num_followers": 79678,
   "original_name": "Alternative Noise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjkzNzVkODFmMjgxM2YzMmU4YTMyMTBiMmVmYmRkZTU3NmMyZmU5",
+  "snapshot_id": "MCxjZWJjNjQxOWUxNmI3MDFhNDQwZDA1NzU5MzQ4YTNmODhiNmMxMzRh",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "'Til Forever",
-        "url": "https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "'Til Forever",
-      "url": "https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Feel It All Around",
         "url": "https://open.spotify.com/album/1hjHGUJidbYWrTaJaxInvy"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 142158,
       "name": "Seventh Hell",
       "url": "https://open.spotify.com/track/0K134na0zJBSypTieFgNlN"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "'Til Forever",
+        "url": "https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 168760,
+      "name": "'Til Forever",
+      "url": "https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -495,6 +495,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Nothing's Stopping Me Now",
+        "url": "https://open.spotify.com/album/7KwlS3OCShHi4ArDNFyyRf"
+      },
+      "artists": [
+        {
+          "name": "Dear Seattle",
+          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
+        }
+      ],
+      "duration_ms": 186724,
+      "name": "Nothing's Stopping Me Now",
+      "url": "https://open.spotify.com/track/4UjQm1Qfdjh4NXdisHSuve"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Still Love",
         "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 191323,
       "name": "Dark Sky",
       "url": "https://open.spotify.com/track/5cNGzuptAf9M47qvH4F4zx"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Nothing's Stopping Me Now",
-        "url": "https://open.spotify.com/album/7KwlS3OCShHi4ArDNFyyRf"
-      },
-      "artists": [
-        {
-          "name": "Dear Seattle",
-          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
-        }
-      ],
-      "duration_ms": 186724,
-      "name": "Nothing's Stopping Me Now",
-      "url": "https://open.spotify.com/track/4UjQm1Qfdjh4NXdisHSuve"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -563,18 +563,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "In the shadow of your former self.",
-        "url": "https://open.spotify.com/album/2L3ASLYdsXsrombwNJVyAG"
+        "name": "The Blue EP",
+        "url": "https://open.spotify.com/album/3plAf4w7eRDvDqY2qxFouS"
       },
       "artists": [
         {
-          "name": "Love Is Noise",
-          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
+          "name": "Bayside",
+          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
         }
       ],
-      "duration_ms": 261920,
-      "name": "In the shadow of your former self.",
-      "url": "https://open.spotify.com/track/7icAw1EcEfXRpOxkhB3HZw"
+      "duration_ms": 215147,
+      "name": "Bad Intentions",
+      "url": "https://open.spotify.com/track/6qpLrHNWL51KQCytTh5Zfq"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -595,18 +595,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "The Blue EP",
-        "url": "https://open.spotify.com/album/3plAf4w7eRDvDqY2qxFouS"
+        "name": "In the shadow of your former self.",
+        "url": "https://open.spotify.com/album/2L3ASLYdsXsrombwNJVyAG"
       },
       "artists": [
         {
-          "name": "Bayside",
-          "url": "https://open.spotify.com/artist/51J0q8S7W3kIEYHQi3EPqk"
+          "name": "Love Is Noise",
+          "url": "https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki"
         }
       ],
-      "duration_ms": 215147,
-      "name": "Bad Intentions",
-      "url": "https://open.spotify.com/track/6qpLrHNWL51KQCytTh5Zfq"
+      "duration_ms": 261920,
+      "name": "In the shadow of your former self.",
+      "url": "https://open.spotify.com/track/7icAw1EcEfXRpOxkhB3HZw"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Say",
-        "url": "https://open.spotify.com/album/4N9Y8YlXr38guFheXENI49"
-      },
-      "artists": [
-        {
-          "name": "Slow Joy",
-          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
-        }
-      ],
-      "duration_ms": 152800,
-      "name": "Say",
-      "url": "https://open.spotify.com/track/2GIxKXaeFkLtuIRw6qmfGq"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Right After I Smoke This...",
         "url": "https://open.spotify.com/album/2pvRSA7JQIgKa1lAvruUlB"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 142760,
       "name": "Medication",
       "url": "https://open.spotify.com/track/4WFjp4EEmScRkNSiAsrEj1"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Say",
+        "url": "https://open.spotify.com/album/4N9Y8YlXr38guFheXENI49"
+      },
+      "artists": [
+        {
+          "name": "Slow Joy",
+          "url": "https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL"
+        }
+      ],
+      "duration_ms": 152800,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/2GIxKXaeFkLtuIRw6qmfGq"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "California King",
-        "url": "https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54"
-      },
-      "artists": [
-        {
-          "name": "Sincere Engineer",
-          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
-        }
-      ],
-      "duration_ms": 233146,
-      "name": "California King",
-      "url": "https://open.spotify.com/track/05d9myj33Qg4GWtm6MXA51"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Chlo\u00eb",
         "url": "https://open.spotify.com/album/5P5FUOElHJe4ek3tiv67Os"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 165454,
       "name": "Chlo\u00eb",
       "url": "https://open.spotify.com/track/3cRITSR5BxSq3UPGES4v7e"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "California King",
+        "url": "https://open.spotify.com/album/6z7dribXEkoMdaZb8nds54"
+      },
+      "artists": [
+        {
+          "name": "Sincere Engineer",
+          "url": "https://open.spotify.com/artist/5l1QyUoZFlqTKJ1NrbCTu1"
+        }
+      ],
+      "duration_ms": 233146,
+      "name": "California King",
+      "url": "https://open.spotify.com/track/05d9myj33Qg4GWtm6MXA51"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "Glorious Sunset",
+        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
+      },
+      "artists": [
+        {
+          "name": "Hundred Reasons",
+          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
+        }
+      ],
+      "duration_ms": 167080,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Hiraeth",
         "url": "https://open.spotify.com/album/3iih8XrFxJMaDEjW6DEvON"
       },
@@ -915,22 +931,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Glorious Sunset",
-        "url": "https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 167080,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/0UPwyz3aaQdWPUGn6pEkrh"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Hypodermic Sunshine",
         "url": "https://open.spotify.com/album/6Gq2CGxhh8aEojqRgUbBfY"
       },
@@ -943,6 +943,22 @@
       "duration_ms": 195797,
       "name": "Hypodermic Sunshine",
       "url": "https://open.spotify.com/track/6XSEyo3CebbQCnUW5TJqC5"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Kill the Moth",
+        "url": "https://open.spotify.com/album/2U304e33s5VZ6xfzXKfYuS"
+      },
+      "artists": [
+        {
+          "name": "Present",
+          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
+        }
+      ],
+      "duration_ms": 141630,
+      "name": "Kill the Moth",
+      "url": "https://open.spotify.com/track/6xaYew5NA3m7QFHwayDjsy"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -975,22 +991,6 @@
       "duration_ms": 230509,
       "name": "Everything's Glitter",
       "url": "https://open.spotify.com/track/7s0kMwS5d9IFYBW1fFAaY2"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
-        "name": "Kill the Moth",
-        "url": "https://open.spotify.com/album/2U304e33s5VZ6xfzXKfYuS"
-      },
-      "artists": [
-        {
-          "name": "Present",
-          "url": "https://open.spotify.com/artist/4WWrQqTUJ5dp36k9mxDCDF"
-        }
-      ],
-      "duration_ms": 141630,
-      "name": "Kill the Moth",
-      "url": "https://open.spotify.com/track/6xaYew5NA3m7QFHwayDjsy"
     }
   ],
   "unique_name": "Alternative Noise",

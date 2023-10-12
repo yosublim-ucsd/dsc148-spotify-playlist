@@ -4,7 +4,7 @@
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Elvis Crespo & Miriam Cruz
 
-196 songs - 13 hr 19 min
+197 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,6 +180,7 @@
 | [Te Voy a Hacer Falta](https://open.spotify.com/track/4KU0EUeD26y6PUGiHGjGBz) | [Rikarena](https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr) | [Mas Rika Que Nunca](https://open.spotify.com/album/5K0Q7bheKrlS2lJQzUUueO) | 4:24 | 2022-01-20 |  |
 | [Tesoro Mio \- Versión Merengue](https://open.spotify.com/track/1ax8x6uKlotSCmv4ovNRdV) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Tesoro Mio \(Versión Merengue\)](https://open.spotify.com/album/3MpS1lJ7kN4groX2YIEhmY) | 3:12 | 2023-06-09 |  |
 | [Tiburon](https://open.spotify.com/track/2GcjfckZexh9wRRjg9KtQG) | [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [In Da House](https://open.spotify.com/album/6AbWKVD3idhjdTxk7BQtKe) | 5:03 | 2022-01-20 |  |
+| [Tiki Taka](https://open.spotify.com/track/6Hy0Oa6k5asXoConmlsFx5) | [Salvi](https://open.spotify.com/artist/09M87xFMTKdsWJxpEWaiat), [Yuly](https://open.spotify.com/artist/5ar3YDYjv6xryWHmhEVk8L), [Joelii](https://open.spotify.com/artist/0wSQpwa2cKXukzGMH7WooV) | [Tiki Taka](https://open.spotify.com/album/7q1LgwudtZxkSfLcedzr9U) | 2:35 | 2023-10-06 |  |
 | [Tocaito](https://open.spotify.com/track/1jjtyivVr8mfTErj17EQrA) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Los Conquistadores \(25 Aniversario\)](https://open.spotify.com/album/20yjrBdOUAV92gUgaYFkUz) | 3:30 | 2022-01-20 | 2022-07-29 |
 | [Tocaito](https://open.spotify.com/track/5qNzGAfH6QvJvsCGfoX7sQ) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Los Conquistadores \(25 Aniversario\)](https://open.spotify.com/album/1H9z9VtLrkYV93Ce01n0e5) | 3:30 | 2022-01-20 | 2023-03-11 |
 | [Traigo Fuego](https://open.spotify.com/track/5aaM6KRamITPsyLlsMb80v) | [La Banda Gorda](https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1) | [Puro Mambo](https://open.spotify.com/album/1kAS1xnRmN4uDN8Cp1TPcS) | 4:21 | 2022-01-20 |  |
@@ -190,7 +191,7 @@
 | [Tú](https://open.spotify.com/track/1fdvF8aq4sagcs8eabTjDR) | [Juan Luis Guerra y 440](https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP) | [Mientras Más Lo Pienso….Tú](https://open.spotify.com/album/4kdnwluJCETwHMdCvl0daq) | 3:53 | 2022-09-09 |  |
 | [Tú](https://open.spotify.com/track/6vcyxHrHyILjsaG8sTDnSh) | [Juan Luis Guerra y 440](https://open.spotify.com/artist/2H5zNiHrjmfPWN0ezEkWXP) | [Mientras Más Lo Pienso….Tú](https://open.spotify.com/album/6rQZ8MkU2RH5GGWgLO2CCo) | 3:53 | 2022-01-20 | 2022-10-15 |
 | [Tú Eres Ajena](https://open.spotify.com/track/3y6oIGHyKQg6MZWNlJnRow) | [Omar Enrique](https://open.spotify.com/artist/6MBZlIvBB3e5IktjxqpdL7), [Eddy Herrera](https://open.spotify.com/artist/2dHwYqYxsj7IEgGu6dxraM) | [El Disco Del Año Vol\. 53](https://open.spotify.com/album/0mKBMKcJDra8yVTcDaAQgK) | 4:33 | 2022-01-20 |  |
-| [Una Fotografía](https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [Jn Music Group 40 Años de Merengue Deluxe Edition, Vol\. 2](https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg) | 4:04 | 2022-01-20 |  |
+| [Una Fotografía](https://open.spotify.com/track/0Ur4zvtBeZ6T9dhHCoGuSW) | [Bonny Cepeda](https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx) | [Jn Music Group 40 Años de Merengue Deluxe Edition, Vol\. 2](https://open.spotify.com/album/0JXXIo9JN7EyiHXE4dTqUg) | 4:04 | 2022-01-20 | 2023-10-12 |
 | [Una Vaina Loca](https://open.spotify.com/track/6YYmoV9YbBefsspGmqFHbs) | [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Una Vaina Loca](https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP) | 3:08 | 2022-01-20 | 2023-03-11 |
 | [Vale la Pena](https://open.spotify.com/track/1gnkKuNpKnOvXMftw747lu) | [Grupo Merenguisimo](https://open.spotify.com/artist/4KcGb6w8lBbsV0tErkz3fW) | [100 % Latino Vol\. 1](https://open.spotify.com/album/6M7YGALzaiR2xPezIz73FA) | 3:26 | 2022-09-09 | 2022-11-13 |
 | [Vale la Pena](https://open.spotify.com/track/4vpii4xtBH8pAgUn8acSGy) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Ni Es Lo Mismo Ni Es Igual](https://open.spotify.com/album/0rMhxS1sNMYZ4OLKuoDhLN) | 3:27 | 2022-01-20 | 2022-10-16 |

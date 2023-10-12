@@ -1,12 +1,12 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 388971,
+  "num_followers": 388986,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZTBlNDdhMjIyZDZhYWMwZWYzMzgwNzg0NzRiN2JkYTZiNTljN2Vl",
+  "snapshot_id": "MCw4MGQ0MzBkOTQ3ZjAwMDdhMDkwYzdlNmZmNzAxM2Q2YjMwYTA2YTQ4",
   "tracks": [
     {
       "added_at": "2023-07-24 17:49:41",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
         "name": "Willy And The Poor Boys (Expanded Edition)",
         "url": "https://open.spotify.com/album/31q47gQszFt0CddSyMksgO"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 166280,
       "name": "Down On The Corner",
       "url": "https://open.spotify.com/track/2gE95JskwQ1pCACTpGe1Db"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2023-07-24 17:49:41",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
-      },
-      "artists": [
-        {
-          "name": "Gordon Lightfoot",
-          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
-        }
-      ],
-      "duration_ms": 213400,
-      "name": "Sundown",
-      "url": "https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/2IPD9EcNjUmsHvqULDMU9Y"
+      },
+      "artists": [
+        {
+          "name": "Gordon Lightfoot",
+          "url": "https://open.spotify.com/artist/23rleGXVOVVgTk3xgtmfE4"
+        }
+      ],
+      "duration_ms": 213400,
+      "name": "Sundown",
+      "url": "https://open.spotify.com/track/0SjnBEHZVXgCKvOrpvzL2k"
     },
     {
       "added_at": "2023-07-24 17:49:41",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 143333,
-      "name": "All I Have to Do Is Dream",
-      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
         "name": "Down the Road Apiece - the Recordings 1963-1966",
         "url": "https://open.spotify.com/album/5w2NEsjgYbdeQWO7y035xT"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 144146,
       "name": "Do Wah Diddy Diddy - 2007 Remaster",
       "url": "https://open.spotify.com/track/48ZjHLkaHpXIlGGYUlb3bZ"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 143333,
+      "name": "All I Have to Do Is Dream",
+      "url": "https://open.spotify.com/track/7dblNGnRXEBrVJunazs2U5"
     },
     {
       "added_at": "2023-07-24 17:49:41",

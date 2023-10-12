@@ -4,7 +4,7 @@
 
 > Una eufórica dosis de urbano romántico en español.
 
-151 songs - 8 hr 49 min
+152 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,8 @@
 | [Te Marqué Pedo](https://open.spotify.com/track/4JfWJOuhXu0QVnev3jgC9S) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5whw8haonqjs15S7DzG4Pv) | 3:36 | 2022-05-25 | 2022-07-29 |
 | [Te Marqué Pedo](https://open.spotify.com/track/4hAYQuavbB0FYhyxBTbVal) | [Alex Luna](https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2), [DAAZ](https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C) | [Te Marqué Pedo](https://open.spotify.com/album/5RY8g4VHQsgPDxewtnPIEX) | 3:36 | 2022-06-27 |  |
 | [Te Voy a Extrañar](https://open.spotify.com/track/0oUMLrNG36I7PaZHF2MbvL) | [Achepe](https://open.spotify.com/artist/1b170j0PpkgYWGHMPRsNEM) | [Te Voy a Extrañar](https://open.spotify.com/album/4BICaJLey3jzPoFaGYIp3W) | 3:18 | 2023-02-10 |  |
-| [Tenemos Que Admitirlo](https://open.spotify.com/track/20wKDUuS4GdQN9ONqjuKcj) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy), [Elijah Parrish](https://open.spotify.com/artist/34QOYfoMpFy3fvpj9YiTui), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Tar](https://open.spotify.com/album/51GBWerlrVnRZbnlFpywhE) | 3:31 | 2023-05-19 |  |
+| [Tenemos Que Admitirlo](https://open.spotify.com/track/0OaUt0opN99WQlxameVoUf) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy), [Elijah Parrish](https://open.spotify.com/artist/34QOYfoMpFy3fvpj9YiTui), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Tar](https://open.spotify.com/album/3T9Bipb4RjCKC5hcVmIn84) | 3:31 | 2023-10-06 |  |
+| [Tenemos Que Admitirlo](https://open.spotify.com/track/20wKDUuS4GdQN9ONqjuKcj) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy), [Elijah Parrish](https://open.spotify.com/artist/34QOYfoMpFy3fvpj9YiTui), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Tar](https://open.spotify.com/album/51GBWerlrVnRZbnlFpywhE) | 3:31 | 2023-05-19 | 2023-10-12 |
 | [Tenemos Que Admitirlo](https://open.spotify.com/track/06eonGKdzSinzB7CSSF8hM) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy), [Elijah Parrish](https://open.spotify.com/artist/34QOYfoMpFy3fvpj9YiTui), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP) | [Tar](https://open.spotify.com/album/1T2CE7PJA6h7hdVgV74uyU) | 3:31 | 2023-03-10 | 2023-04-27 |
 | [Tenemos Que Admitirlo](https://open.spotify.com/track/3IamQFqgbiBdv9IyrRoYMf) | [Solo Cadaver](https://open.spotify.com/artist/0nJMsYBFq21salzctioYYc), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP), [Elijah Parrish](https://open.spotify.com/artist/6ZI3Wz5J84OYkaElzhkgaJ) | [Tar](https://open.spotify.com/album/0aTPIlmgdGC0vmoRw1cWtt) | 3:31 | 2023-04-14 | 2023-04-29 |
 | [Tenemos Que Admitirlo](https://open.spotify.com/track/4jA0ICIS9AyUo2DMa3kFEr) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy), [Lil Benjas](https://open.spotify.com/artist/64AuMwnsAelOkrK2dbatmP), [Elijah Parrish](https://open.spotify.com/artist/34QOYfoMpFy3fvpj9YiTui) | [Tar](https://open.spotify.com/album/2W65p1xbwJqsbXVlnzI1DU) | 3:31 | 2023-04-28 | 2023-05-24 |

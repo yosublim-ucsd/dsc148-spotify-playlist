@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 
 > make it pop! cover: Aidan Bissett
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,041 likes - 70 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,994 likes - 70 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 17 | [Kismet](https://open.spotify.com/track/7pMSBupRMxTmMvoDbESqDy) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame My Ex](https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc) | 3:03 |
 | 18 | [everything hits me at once](https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything hits me at once](https://open.spotify.com/album/1KEfhUPBUnf56x7Rh8KoG0) | 2:32 |
 | 19 | [jupiter](https://open.spotify.com/track/1In2l2VqjtZIW9loAA341S) | [sad alex](https://open.spotify.com/artist/3i8iJVU0mtgzbZsuF1AoJ3) | [jupiter](https://open.spotify.com/album/7EL4J9B8CbOiKNxuv9wHjn) | 2:30 |
-| 20 | [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 |
+| 20 | [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/3YQHgTo0898GHXRC2byH52) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:48 |
 | 21 | [There It Goes](https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [The Good Witch](https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo) | 3:45 |
 | 22 | [HOSTAGE](https://open.spotify.com/track/1p1EeOGryPK0AQRraHw6fW) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [HOSTAGE](https://open.spotify.com/album/53ZYFWC6rPIwdMuisHdMWK) | 2:21 |
 | 23 | [Infinitely Falling](https://open.spotify.com/track/7KWf7gZ05NciRE6SXZveds) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Fictional Illustrations](https://open.spotify.com/album/3xrJrR589weA5sIkdMZuQh) | 2:43 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaK0O81Xtkis.md) - [plain]
 | 69 | [Ruin My Life](https://open.spotify.com/track/64239Uo0wTZHwUVipPzBbw) | [BLÜ EYES](https://open.spotify.com/artist/2gI1WfmpFmmgSRojy4Jup2) | [The Last Songs I'll Write About You \(for real\)](https://open.spotify.com/album/49uA6OX4uL1St7ZPWJ4kGD) | 3:40 |
 | 70 | [One That Got Away](https://open.spotify.com/track/55RszydvrfNlZ2BQdF1c4q) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [One That Got Away](https://open.spotify.com/album/2FAHnRUhqr0Scl92hrAond) | 3:52 |
 
-Snapshot ID: `MCw3OTI4MWRiYmI1ZWIwM2FjNTFmNGNlMWZkMmE0MjE4NGRmOGY1ODVm`
+Snapshot ID: `MCxiYTRlZmFjZWU2NzM5YjAxYzg2YjZmMmYzZmQwZDA5ZGQzODBhYjE0`

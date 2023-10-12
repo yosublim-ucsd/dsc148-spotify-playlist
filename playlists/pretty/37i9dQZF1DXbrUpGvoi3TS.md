@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 
 > Nurse your emotional wounds with these heartbreak tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,550,329 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,545,813 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbrUpGvoi3TS.md) - [plain]
 | 99 | [All I Ever Need](https://open.spotify.com/track/0YEsfwQpG7ofdIiHWA0dHi) | [Austin Mahone](https://open.spotify.com/artist/04abdnqPQe2N4fjztDea6z) | [The Secret](https://open.spotify.com/album/0dcqVluuyFBCScCqH7uAwx) | 3:33 |
 | 100 | [Breakeven](https://open.spotify.com/track/1fyysXwSGNtMeqMBLwW3SI) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [The Script](https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc) | 4:21 |
 
-Snapshot ID: `MCwwYmEzZGI1Y2NhZDUxYzZlNmE2YmQwNDE5ZmNkMjJhYjJhZTNjYjU0`
+Snapshot ID: `MCw1ZGQ3MTg3NWRmYzAwYjU1MDA1YjEwMjM4N2Y3YjEwOGM5YTcwYjEy`

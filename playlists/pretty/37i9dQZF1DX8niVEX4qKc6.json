@@ -1,12 +1,12 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Silvina Moreno",
-  "num_followers": 178239,
+  "num_followers": 178229,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhYWNjYWIwMDEwMGQ5Y2Y3ODc5MDExYmQyYmIyZjk5ZTZlMjlhYmE3",
+  "snapshot_id": "MCwwNzhkMWQxNzBhMDY3N2Y1ZDI2ZGZjZjJiY2NhMDlkZWViMmY1MDA5",
   "tracks": [
     {
       "added_at": "2023-09-29 03:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
+        "name": "Fin de Fiesta",
+        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 101818,
+      "name": "Fin de Fiesta",
+      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
         "name": "Serotonina",
         "url": "https://open.spotify.com/album/5Tqt0IhJRkRnUzpI8MxSLk"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 186272,
       "name": "Serotonina",
       "url": "https://open.spotify.com/track/6mvzF3fcRrS231G8yN3BaN"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
-        "name": "Fin de Fiesta",
-        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 101818,
-      "name": "Fin de Fiesta",
-      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
     },
     {
       "added_at": "2023-09-29 03:00:00",
@@ -1600,12 +1600,12 @@
       },
       "artists": [
         {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        },
-        {
           "name": "Connie Isla",
           "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        },
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
         }
       ],
       "duration_ms": 183888,
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "La Negaci\u00f3n",
-        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
-      },
-      "artists": [
-        {
-          "name": "Malena Villa",
-          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
-        }
-      ],
-      "duration_ms": 192070,
-      "name": "Sad Balada",
-      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
-    },
-    {
-      "added_at": "2023-09-29 03:00:00",
-      "album": {
         "name": "Madre Tierra",
         "url": "https://open.spotify.com/album/0ahJlAKdoQnWYXH6eWaenG"
       },
@@ -1679,18 +1663,34 @@
     {
       "added_at": "2023-09-29 03:00:00",
       "album": {
-        "name": "Tren Al Sur",
-        "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
+        "name": "La Negaci\u00f3n",
+        "url": "https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2"
       },
       "artists": [
         {
-          "name": "Xochi Krausse",
-          "url": "https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh"
+          "name": "Malena Villa",
+          "url": "https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN"
         }
       ],
-      "duration_ms": 235982,
-      "name": "Tren Al Sur",
-      "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+      "duration_ms": 192070,
+      "name": "Sad Balada",
+      "url": "https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw"
+    },
+    {
+      "added_at": "2023-09-29 03:00:00",
+      "album": {
+        "name": "M\u00e1gica",
+        "url": "https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ"
+      },
+      "artists": [
+        {
+          "name": "Panther",
+          "url": "https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ"
+        }
+      ],
+      "duration_ms": 136132,
+      "name": "M\u00e1gica",
+      "url": "https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf"
     }
   ],
   "unique_name": "Modo Ac\u00fastico",

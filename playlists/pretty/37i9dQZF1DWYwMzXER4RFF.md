@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 
 > New no wave, post\-punk, and anything else\. Cover: Squid
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,732 likes - 55 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,772 likes - 55 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 24 | [Almost Had to Start a Fight/In and Out of Patience](https://open.spotify.com/track/7xhZCVsVhDSjhFm41mOX10) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Wide Awake!](https://open.spotify.com/album/6NTaxSEZsDR5RlGyBzKNmZ) | 3:14 |
 | 25 | [Creatures](https://open.spotify.com/track/44EomP7rHWhp6W0zyEue2s) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 3:32 |
 | 26 | [American Nightmare](https://open.spotify.com/track/4i6snrjpdYSv5PBB7wH6qk) | [Vestron Vulture](https://open.spotify.com/artist/0TdyFEXGty3cRKFCI1CJPr) | [American Nightmare](https://open.spotify.com/album/6zaXhrtWGMMJP4ty8XyMiT) | 3:09 |
-| 27 | [Slab](https://open.spotify.com/track/2KoOmthnxLfILro3H7liTQ) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Slab](https://open.spotify.com/album/13SPstpEFV47Buq7PkOt5x) | 1:48 |
+| 27 | [Nite Expo](https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Orc](https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd) | 2:57 |
 | 28 | [Concrete](https://open.spotify.com/track/5MhK8ZwxOiILTOh7LFK5VU) | [shame](https://open.spotify.com/artist/4IeWU3NYBI9mISFVhzXG8f) | [Songs of Praise](https://open.spotify.com/album/3ZtngTnZwbWMAdzcpKWgXH) | 3:34 |
-| 29 | [Nite Expo](https://open.spotify.com/track/4MMUZtRnaz25sXteRs2mXl) | [Thee Oh Sees](https://open.spotify.com/artist/3qYfqdVwX0fil71onLpLkh) | [Orc](https://open.spotify.com/album/6UqkJtjad0HIClK1ndqCsd) | 2:57 |
+| 29 | [Slab](https://open.spotify.com/track/2KoOmthnxLfILro3H7liTQ) | [Wombo](https://open.spotify.com/artist/67GGyFejJ19UWUjJlLhJq4) | [Slab](https://open.spotify.com/album/13SPstpEFV47Buq7PkOt5x) | 1:48 |
 | 30 | [Flying](https://open.spotify.com/track/3E6gxfPW3xIYJ6hgprIlIb) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Flower of Devotion](https://open.spotify.com/album/3K8xEI9zVLy7QqAHQZ4d7N) | 3:46 |
 | 31 | [Too Real](https://open.spotify.com/track/58qATmGiG8K1jJ3aGTO5Ga) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Dogrel](https://open.spotify.com/album/5j54NcBr5wBCB129cdjad7) | 4:08 |
 | 32 | [Hunger for a Way Out](https://open.spotify.com/track/4bXsXIRPbTk783vfyA2oRe) | [Sweeping Promises](https://open.spotify.com/artist/5k9qBHdkzsibPmFJp1XIAt) | [Hunger for a Way Out](https://open.spotify.com/album/0Cwh78WfxUMb1P8a7tIxYm) | 2:21 |
@@ -62,6 +62,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYwMzXER4RFF.md) - [plain]
 | 52 | [Look Like That](https://open.spotify.com/track/7aW0CpzMvI4MjptzitR24G) | [Sneaks](https://open.spotify.com/artist/40iUcsx6LWJ0DEPryPmU30) | [It's a Myth](https://open.spotify.com/album/4RgV6eObleITuJIV0cfF6k) | 3:17 |
 | 53 | [Sweet](https://open.spotify.com/track/31urhIUG28rfxy6PzU6hQq) | [Porridge Radio](https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48) | [Every Bad \(Expanded Edition\)](https://open.spotify.com/album/5SyZ2QPyDPteAM9i1AYlfA) | 3:42 |
 | 54 | [Good morning \(red\)](https://open.spotify.com/track/5Hr3cBLE1Qe7zAw6n1iGHW) | [caroline](https://open.spotify.com/artist/0nwTtqff9SoWoTnTFeZ7YA) | [caroline](https://open.spotify.com/album/4X12VfRomM649eKXd1qKMf) | 5:47 |
-| 55 | [Demolition Row](https://open.spotify.com/track/2bOTDi5fEHrr14bYIDUbwV) | [Metz](https://open.spotify.com/artist/18TNVFTJ6WfeicsMRrdJHI) | [Demolition Row](https://open.spotify.com/album/1gVt5YHXoBNEXCUzgkJDlk) | 4:18 |
+| 55 | [Stick](https://open.spotify.com/track/1WqfHOpUnXGEyMma9u3eBH) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [TRU](https://open.spotify.com/album/0mWmucikt6rRLgjnfeGeG3) | 3:22 |
 
-Snapshot ID: `MCxkYjU3MTdiNTM3ZTU1YTIyOWY0MjdmYjJiNGE0NWQyZDZlNjhiOGM3`
+Snapshot ID: `MCwwODEzYzQzMWNhNDkwYzE0MDMzMWY2Y2IwZTA4NmI0ZDE1Y2UzNDFj`

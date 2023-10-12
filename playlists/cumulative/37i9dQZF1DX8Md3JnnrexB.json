@@ -88,7 +88,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
@@ -677,6 +677,28 @@
     },
     {
       "album": {
+        "name": "Been and Gone",
+        "url": "https://open.spotify.com/album/6aTDGqCSxTL7ltobEf5q89"
+      },
+      "artists": [
+        {
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
+        },
+        {
+          "name": "Wallace",
+          "url": "https://open.spotify.com/artist/0MyoWugdPYngWgagHhIbWa"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280218,
+      "name": "Been and Gone",
+      "url": "https://open.spotify.com/track/23QzGEg02ffn4D9Dje9Nsc"
+    },
+    {
+      "album": {
         "name": "Being With You",
         "url": "https://open.spotify.com/album/0QsTRgdl6PSinBK7sElqun"
       },
@@ -692,6 +714,24 @@
       "duration_ms": 246960,
       "name": "Being With You",
       "url": "https://open.spotify.com/track/5khAYmr8HHFwI3sp0Lw9wp"
+    },
+    {
+      "album": {
+        "name": "Like Neptune",
+        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
+      },
+      "artists": [
+        {
+          "name": "Son Little",
+          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233853,
+      "name": "bend yr ear",
+      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
     },
     {
       "album": {
@@ -1466,7 +1506,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 243480,
       "name": "Don't Look Any Further - Single Version",
       "url": "https://open.spotify.com/track/1nrIaUgk4D5gI1yqQcsu3W"
@@ -2276,7 +2316,7 @@
       ],
       "date_added": "2022-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 181306,
       "name": "Hurt",
       "url": "https://open.spotify.com/track/31S04SZjQCMUTEIF9PWIEp"
@@ -2410,7 +2450,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 268666,
       "name": "I Just Wanna Hang Around You",
       "url": "https://open.spotify.com/track/3ngC9miPW6DoEc8OFSxyzY"
@@ -2992,7 +3032,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 290573,
       "name": "Just the Way You Are",
       "url": "https://open.spotify.com/track/49MHCPzvMLXhRjDantBMVH"
@@ -3118,7 +3158,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 199396,
       "name": "Let's Stay Together",
       "url": "https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y"
@@ -3414,7 +3454,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 300226,
       "name": "Love, Need and Want You",
       "url": "https://open.spotify.com/track/2PMW9aVSHvMwUC428yfDqx"
@@ -3612,7 +3652,7 @@
       ],
       "date_added": "2022-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 279333,
       "name": "Midnight Train to Georgia",
       "url": "https://open.spotify.com/track/7MF7QAodbGzNYav5ZfIhAY"
@@ -4060,7 +4100,7 @@
       ],
       "date_added": "2021-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 306560,
       "name": "Nightshift",
       "url": "https://open.spotify.com/track/23IK8TF2MSiLnuEjaYPfVV"
@@ -4334,7 +4374,7 @@
       ],
       "date_added": "2021-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-10",
+      "date_removed": null,
       "duration_ms": 254613,
       "name": "Rainy Night in Georgia",
       "url": "https://open.spotify.com/track/0nkRN4ONop4KlrfABlq5gA"

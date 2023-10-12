@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 
 > The new bolero era\. Los boleritos de hoy, just for you\. Cover: La Isla Centeno
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,056 likes - 60 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,115 likes - 60 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 40 | [¿A Qué Te Sabe el Café?](https://open.spotify.com/track/5n7a1XYL8oaOGNptOdENIQ) | [Sebastián Romero](https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq) | [Conversaciones Ajenas en un Café](https://open.spotify.com/album/4UHIunQP15TgnfK7aCWhM9) | 3:31 |
 | 41 | [Voy](https://open.spotify.com/track/6fKvKQATKlwDsHgj6E6nyf) | [Diego El Cigala](https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi) | [Obras Maestras](https://open.spotify.com/album/5yRGaq6cuiO5t4FDy271sK) | 3:21 |
 | 42 | [Déjame Conocerte](https://open.spotify.com/track/5byHDzYX6NHjrHKUdkDkdR) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt) | [Déjame Conocerte](https://open.spotify.com/album/7mDCxExLcisLwsERIJMvPP) | 4:39 |
-| 43 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 |
+| 43 | [Bonito](https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 4:00 |
 | 44 | [Si por Mi Fuera](https://open.spotify.com/track/5z9a61fPYYlb2hV0GLVYaB) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Si por Mi Fuera](https://open.spotify.com/album/2qJ7rlgygQM59Byb8qG9Rv) | 3:32 |
-| 45 | [Bonito](https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Estas Canciones Me Recuerdan a Ti](https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM) | 4:00 |
+| 45 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 |
 | 46 | [Diferente](https://open.spotify.com/track/3XV1E6VMiiUoRByV7nXVEA) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Diferente](https://open.spotify.com/album/5t1yTrOm3fbJQltjom2uya) | 3:40 |
 | 47 | [Me Vas a Hacer Falta](https://open.spotify.com/track/6eEnycLcdQWSkgg12wjN4o) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Encanto Tropical](https://open.spotify.com/album/65dDJHiGH66LQPEiLHKDma) | 4:00 |
 | 48 | [traguito](https://open.spotify.com/track/3t2nOnte5Wp9jbvMenZedH) | [iLe](https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [traguito](https://open.spotify.com/album/3w6RnyVHOO4xHAGzO9iOmB) | 3:56 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX64myInc1vfu.md) - [plain]
 | 59 | [Para No Olvidar](https://open.spotify.com/track/5V2PAJnOJn7H4e8FwSbRdr) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Manolo Garcia](https://open.spotify.com/artist/4eBTqTx5ssOK5YwmijmfU4), [Vicente Amigo](https://open.spotify.com/artist/4uo8Bp99zyj8HQW1ynweoY) | [Para No Olvidar](https://open.spotify.com/album/2oXUAq2lYbpdCVkJjDdZQy) | 4:04 |
 | 60 | [Perfidia](https://open.spotify.com/track/14PXI56j53LkKFLexnpf8n) | [Kika Edgar](https://open.spotify.com/artist/2QTmeZpVjHmIoYSRwsoucA) | [Perfidia](https://open.spotify.com/album/101igY1HyXs27avcElHKzj) | 3:31 |
 
-Snapshot ID: `MCw4N2E1ZGNjMWQ0NTEzYTRkNTEwOTdhZmZiYTQzY2U2ODM2OGEwNDI2`
+Snapshot ID: `MCwxZDYyYTMwNDFkOWUwZmJiNjYzMjRjYzU3M2VmZjc1NjBmNzdiMjY3`

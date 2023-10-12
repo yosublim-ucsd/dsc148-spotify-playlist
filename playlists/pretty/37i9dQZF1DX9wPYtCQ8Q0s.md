@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 
 > A batida certa para o seu treino\. Foto: Travis Scott
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,216 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,550 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 64 | [A Cara do Crime \(Nós Incomoda\)](https://open.spotify.com/track/0wRn3ggAY1fIupTaVigdza) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Bielzin](https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b) | [A Cara do Crime \(Nós Incomoda\)](https://open.spotify.com/album/75IYhNYhWnTAgVYyaHGzga) | 5:02 |
 | 65 | [Barking](https://open.spotify.com/track/2JbO1rep5Um3RAKB8szQrR) | [Ramz](https://open.spotify.com/artist/6ywXRaHY7m2DJ0dd7CsLAB) | [Blockbuster](https://open.spotify.com/album/5gHmCqjB4VVbYzaoxTokGA) | 3:24 |
 | 66 | [Luxúria](https://open.spotify.com/track/5kuUOpHZlZjL8b7HXkxRsm) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Pecado Capital](https://open.spotify.com/album/285LCOhTbxMYMSR5VOE2r3) | 3:05 |
-| 67 | [Fight Night](https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:36 |
+| 67 | [War](https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial](https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U) | 2:32 |
 | 68 | [VIBEZ](https://open.spotify.com/track/0fySG6A6qLE8IvDpayb5bM) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [KIRK](https://open.spotify.com/album/1NsTSXjVNE7XmZ8PmyW0wl) | 2:24 |
-| 69 | [War](https://open.spotify.com/track/63400Pm7x5Awe4NH82oRYe) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial](https://open.spotify.com/album/2H42sYw7tkkEy5d0gdTY9U) | 2:32 |
+| 69 | [Fight Night](https://open.spotify.com/track/6Xa2q0dapj03CsRzmD0Os5) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [No Label II](https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ) | 3:36 |
 | 70 | [Purple Lamborghini \(with Rick Ross\)](https://open.spotify.com/track/6JyuJFedEvPmdWQW0PkbGJ) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [Purple Lamborghini \(with Rick Ross\)](https://open.spotify.com/album/3W6iNTF9ajh2btsyxslpCY) | 3:35 |
 | 71 | [Panda](https://open.spotify.com/track/275a9yzwGB6ncAW4SxY7q3) | [Desiigner](https://open.spotify.com/artist/7pFeBzX627ff0VnN6bxPR4) | [Panda](https://open.spotify.com/album/1k3BLTc4VZ7beRBXL1SPN6) | 4:07 |
 | 72 | [Dior](https://open.spotify.com/track/5DhiTYpD599fu3q7fCepgL) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Dior](https://open.spotify.com/album/35JWLvhVLeuoEHRVFPswzR) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wPYtCQ8Q0s.md) - [plain]
 | 99 | [ROOF](https://open.spotify.com/track/1zwvbkUqTozLnmIECvBfgs) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Back On My Baby Jesus Sh!t AGAIN](https://open.spotify.com/album/6IqDBDKg1kWzZfpKorTv0B) | 1:34 |
 | 100 | [APESHIT](https://open.spotify.com/track/0E6PsO3ymCfUh7pJQjBgkj) | [The Carters](https://open.spotify.com/artist/4fpTMHe34LC5t3h5ztK8qu) | [EVERYTHING IS LOVE](https://open.spotify.com/album/3hCiP4V5Mu3Y0Z8lb70iDp) | 4:24 |
 
-Snapshot ID: `MCw1ZWE1NmVlMGFjMTFiYzBmOGE3YjQwZDM3OTI2NDM5OWQxZTM3ZjA2`
+Snapshot ID: `MCwwMTJlMWVkOTA1MWYwNGEzYmRmYzI2YmU2ZWZmNmQ1ODhmNGY0Mjhj`

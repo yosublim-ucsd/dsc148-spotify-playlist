@@ -4,7 +4,7 @@
 
 > Channel some chilled\-out back yard vibes.
 
-288 songs - 18 hr 1 min
+289 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Mermaid in Lisbon](https://open.spotify.com/track/6A8BvPrNOo5l1j3c80KhAb) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [Teresa Salgueiro](https://open.spotify.com/artist/49W26EcOwY0UdytNfa3zGH) | [A Mermaid in Lisbon](https://open.spotify.com/album/1NnqLqMQgh9ftyQPtUuKJd) | 3:28 | 2021-10-29 |  |
 | [Adeline](https://open.spotify.com/track/0zGT1LYrHksqJkupsazmKb) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Adeline](https://open.spotify.com/album/0FpjVDZbJCK19vglA6T8B1) | 3:08 | 2021-10-29 | 2023-05-15 |
 | [Airplane](https://open.spotify.com/track/1PkGXXmXURIC0Zwil4MmKT) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 4:00 | 2023-09-29 |  |
+| [All The Way Back](https://open.spotify.com/track/74Om3rXwl9V1JMzjf1nToZ) | [Mitch Rowland](https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ) | [Come June](https://open.spotify.com/album/6ymIp6VYMvGrIjtzlj0gzi) | 3:01 | 2023-10-06 |  |
 | [Alone](https://open.spotify.com/track/3TejUMaOZWJS2WynHIZnOW) | [Ryan Harris](https://open.spotify.com/artist/38Cj253ij4uQ7Rce6tArIG) | [Same Sun EP](https://open.spotify.com/album/3Qe2tQ4wk8f6wzSMgzjebH) | 2:39 | 2023-09-01 |  |
 | [Alright](https://open.spotify.com/track/46ObixVcmGOy84ud9XDSgB) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Birdtalker](https://open.spotify.com/album/4nGfaiyuZRujKnApMPFBj6) | 3:39 | 2021-10-29 | 2022-07-29 |
 | [America](https://open.spotify.com/track/1inPvlZzUNG4hqYxLLEF0W) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H), [Molly Sarlé](https://open.spotify.com/artist/4XLoKwIIoARkhaKuZocq5d), [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH) | [America](https://open.spotify.com/album/7m8l1V5XSWHN7QF6cDDYby) | 4:11 | 2021-10-29 | 2023-04-13 |
@@ -183,7 +184,7 @@
 | [Mr\. Rodriguez](https://open.spotify.com/track/5aXYNj2v1ut661U0HLT6fP) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Imaginary Man](https://open.spotify.com/album/72YUTJrAuTuSHSVrgixbor) | 3:43 | 2022-04-15 |  |
 | [My Ego Dies At The End](https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [My Ego Dies At The End](https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8) | 4:02 | 2021-11-24 |  |
 | [Mystery Hymn](https://open.spotify.com/track/3DOfGTPzMy8NqsJvyzdQuD) | [Lowland Hum](https://open.spotify.com/artist/37YxyxKbCL7as3bH2adwQE) | [At Home](https://open.spotify.com/album/7jpklmeg8Xwbnm6VGOblqA) | 3:45 | 2021-10-29 | 2022-04-19 |
-| [Need You](https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Need You](https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ) | 3:09 | 2021-11-24 |  |
+| [Need You](https://open.spotify.com/track/1i9yDwcpeOaM96zODWnqZn) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Need You](https://open.spotify.com/album/5AmqUjMfw0VoXNaP5VgFQQ) | 3:09 | 2021-11-24 | 2023-10-12 |
 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 | 2021-10-29 |  |
 | [New Star](https://open.spotify.com/track/3PUln07oXes6xzvFFBnPO1) | [Watchhouse](https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP) | [New Star](https://open.spotify.com/album/3zRIyC1QFzYOxRuuocyOt3) | 3:05 | 2021-10-29 |  |
 | [NFWMB](https://open.spotify.com/track/2iQYqdalv245vrCEM4W9N9) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Nina Cried Power \- EP](https://open.spotify.com/album/78o6vcPIRwoph8a3StqaTU) | 4:19 | 2022-04-15 |  |

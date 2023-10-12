@@ -1,12 +1,12 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 424359,
+  "num_followers": 423771,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzODRjNzkyODFkOWFiZTU5N2JmM2YxMjRiYTRhNGYwZGQwMTNmNWU0",
+  "snapshot_id": "MCxhMTQyNDRhNjRkMTBlZDdmNzZmM2Y1Y2U5NDg5MTQxMjFhNTgxN2Fk",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Hozier",
+        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 240146,
+      "name": "Cherry Wine - Live",
+      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Love Flew Away",
         "url": "https://open.spotify.com/album/47zvBT8HjRo9jkGESnCy8k"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 147346,
       "name": "Love Flew Away",
       "url": "https://open.spotify.com/track/5Uro6tis4oexrT4Po1q71H"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Hozier",
-        "url": "https://open.spotify.com/album/04E0aLUdCHnhnnYrDDvcHq"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 240146,
-      "name": "Cherry Wine - Live",
-      "url": "https://open.spotify.com/track/0bZ52QzCCKfrfOqs7za6lI"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Dying Star",
-        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
-      },
-      "artists": [
-        {
-          "name": "Ruston Kelly",
-          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
-        }
-      ],
-      "duration_ms": 277293,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Bare",
         "url": "https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 206440,
       "name": "Thousand (feat. Lisa Hannigan)",
       "url": "https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Dying Star",
+        "url": "https://open.spotify.com/album/0HglC8wDUKL0VV5KI31bqU"
+      },
+      "artists": [
+        {
+          "name": "Ruston Kelly",
+          "url": "https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I"
+        }
+      ],
+      "duration_ms": 277293,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/6fS1CEMY4LlvQNWuUMoWEQ"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -799,22 +799,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Ode to Joy",
-        "url": "https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry"
-      },
-      "artists": [
-        {
-          "name": "Wilco",
-          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
-        }
-      ],
-      "duration_ms": 213127,
-      "name": "Love Is Everywhere (Beware)",
-      "url": "https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "My Father's Daughter (From The \u201cFlag Day\u201d Original Soundtrack)",
         "url": "https://open.spotify.com/album/7alk37quFoAf91whDEJ8a1"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 170893,
       "name": "My Father's Daughter",
       "url": "https://open.spotify.com/track/2LxglhGxGhHF4P11HPEFwu"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Ode to Joy",
+        "url": "https://open.spotify.com/album/023pQhsaEoks0T6AfL5cry"
+      },
+      "artists": [
+        {
+          "name": "Wilco",
+          "url": "https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM"
+        }
+      ],
+      "duration_ms": 213127,
+      "name": "Love Is Everywhere (Beware)",
+      "url": "https://open.spotify.com/track/0cWKIr2hzxT6vuxFrCzcMz"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Metamodern Sounds in Country Music",
-        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "The Promise",
-      "url": "https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "The Civil Wars",
         "url": "https://open.spotify.com/album/79FSQez4eiOFA4Kx8Bxgyy"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 229666,
       "name": "Dust to Dust",
       "url": "https://open.spotify.com/track/0vwRHdpyDLRchRBtMjjjBH"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Metamodern Sounds in Country Music",
+        "url": "https://open.spotify.com/album/4makbOuLd5SUdyHMaNM1Ag"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "The Promise",
+      "url": "https://open.spotify.com/track/6OV4CbPHRtbqrpJrbEFJfi"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
-      },
-      "artists": [
-        {
-          "name": "Aisha Badru",
-          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
-        }
-      ],
-      "duration_ms": 194320,
-      "name": "Mind on Fire",
-      "url": "https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Party",
         "url": "https://open.spotify.com/album/6wPvhV9G6irAbzpLCADP3K"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 351309,
       "name": "Imagining My Man",
       "url": "https://open.spotify.com/track/0B4U4UMwO5uKqM3OXm6L6P"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/64uKH4UnWHG6Ea960CSChE"
+      },
+      "artists": [
+        {
+          "name": "Aisha Badru",
+          "url": "https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK"
+        }
+      ],
+      "duration_ms": 194320,
+      "name": "Mind on Fire",
+      "url": "https://open.spotify.com/track/4LEdX9NFK0tVB5anrAIi1q"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "A Sailor's Guide to Earth",
-        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
-      },
-      "artists": [
-        {
-          "name": "Sturgill Simpson",
-          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
-        }
-      ],
-      "duration_ms": 212586,
-      "name": "Breakers Roar",
-      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Light That Match",
         "url": "https://open.spotify.com/album/7kgdul3E3sTCCS3hLU01vx"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 271854,
       "name": "I'm Around",
       "url": "https://open.spotify.com/track/5mclZNj6vme4vrBOJlJ2ks"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "A Sailor's Guide to Earth",
+        "url": "https://open.spotify.com/album/5I3UdCxtIh6hkQ7rMPUvA4"
+      },
+      "artists": [
+        {
+          "name": "Sturgill Simpson",
+          "url": "https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB"
+        }
+      ],
+      "duration_ms": 212586,
+      "name": "Breakers Roar",
+      "url": "https://open.spotify.com/track/7rR5X9RKz5VprclstYOLb5"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Traveling Alone",
-        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
-      },
-      "artists": [
-        {
-          "name": "Tift Merritt",
-          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
-        }
-      ],
-      "duration_ms": 284960,
-      "name": "Traveling Alone",
-      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "To Learn",
         "url": "https://open.spotify.com/album/5k6lsjpZK4l4J9oMQmBR1l"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 137060,
       "name": "To Learn",
       "url": "https://open.spotify.com/track/63a0svve0p3CIiGx9a9DTy"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Traveling Alone",
+        "url": "https://open.spotify.com/album/1VW2JPuvgbb02IpOsxHA4R"
+      },
+      "artists": [
+        {
+          "name": "Tift Merritt",
+          "url": "https://open.spotify.com/artist/2jL1PBvL0gBZBPk6B38p3z"
+        }
+      ],
+      "duration_ms": 284960,
+      "name": "Traveling Alone",
+      "url": "https://open.spotify.com/track/4LJIX18V7BHO9k44yn7vfk"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1711,22 +1711,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Day My Father Died",
-        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        }
-      ],
-      "duration_ms": 202466,
-      "name": "Tragic Magic",
-      "url": "https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/0b1pEut6nYAQhX6EMzXGGv"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 222859,
       "name": "Sausalito",
       "url": "https://open.spotify.com/track/7dbkkve2z5PQ0Jy3e1KixE"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Day My Father Died",
+        "url": "https://open.spotify.com/album/6012ywIYPi6nTdh3mu18ht"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "duration_ms": 202466,
+      "name": "Tragic Magic",
+      "url": "https://open.spotify.com/track/6Dq4pM4zQWfqRxZxtZOFyt"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1807,6 +1807,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 176551,
+      "name": "Summertime Mama",
+      "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "People Are My Drug",
         "url": "https://open.spotify.com/album/1b2q2YbnCCP4DQaQQ7Zexl"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 225866,
       "name": "Won't Be Long",
       "url": "https://open.spotify.com/track/2rw4cJKCCBYpZ57EFHE2Ih"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/63mkT1UZtwofel0rP4rfZR"
-      },
-      "artists": [
-        {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
-        }
-      ],
-      "duration_ms": 176551,
-      "name": "Summertime Mama",
-      "url": "https://open.spotify.com/track/0k2puHMjDeAUyWvoaU7LhQ"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Golden (Acoustic)",
-        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
-      },
-      "artists": [
-        {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
-        }
-      ],
-      "duration_ms": 307312,
-      "name": "Golden (Acoustic)",
-      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Transcendence",
         "url": "https://open.spotify.com/album/4pJ1cAVfgvAIJLWLO0zpuQ"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 173231,
       "name": "Millennial",
       "url": "https://open.spotify.com/track/0UVjJZjlZiOB9pVd9wWABs"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Golden (Acoustic)",
+        "url": "https://open.spotify.com/album/1UNOe4qTfiSoUNVtFKQ5br"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 307312,
+      "name": "Golden (Acoustic)",
+      "url": "https://open.spotify.com/track/3tsrOkDmaJg60XJMkEmYpp"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2007,22 +2007,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "when i look at you.",
-        "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
-      },
-      "artists": [
-        {
-          "name": "Rosie Carney",
-          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "when i look at you.",
-      "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "On Board",
         "url": "https://open.spotify.com/album/12aYaWsu8zUyxvdCPZH4hY"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 310817,
       "name": "On Board",
       "url": "https://open.spotify.com/track/0ss3NIhmAPfWGpe7NR0kHA"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "when i look at you.",
+        "url": "https://open.spotify.com/album/1RxM5TK6tax3e20Z90SRPC"
+      },
+      "artists": [
+        {
+          "name": "Rosie Carney",
+          "url": "https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "when i look at you.",
+      "url": "https://open.spotify.com/track/2Hf4lbVibsJo6u6cFAxwdQ"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2075,22 +2075,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "This Is A Photograph",
-        "url": "https://open.spotify.com/album/6NMzokKOYpPO9VXDjmc5y6"
+        "name": "Belly of the Beast / Paper Mountain",
+        "url": "https://open.spotify.com/album/6GTreUmTaYdDIkWzS6F3GI"
       },
       "artists": [
         {
-          "name": "Kevin Morby",
-          "url": "https://open.spotify.com/artist/6fxk3UXHTFYET8qCT9WlBF"
-        },
-        {
-          "name": "Erin Rae",
-          "url": "https://open.spotify.com/artist/167VlZ0C0ewQbgKexRFcs6"
+          "name": "Watchhouse",
+          "url": "https://open.spotify.com/artist/675tsBPpaZtqyiBwEf3ZEP"
         }
       ],
-      "duration_ms": 253888,
-      "name": "Bittersweet, TN",
-      "url": "https://open.spotify.com/track/0merkJ9dgvkemPaR3urDWs"
+      "duration_ms": 195540,
+      "name": "Belly of the Beast",
+      "url": "https://open.spotify.com/track/288CVb86JcfAiuk9ZL6IDW"
     }
   ],
   "unique_name": "Soft & Slow",

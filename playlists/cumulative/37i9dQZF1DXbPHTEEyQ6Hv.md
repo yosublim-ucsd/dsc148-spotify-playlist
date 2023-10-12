@@ -4,7 +4,7 @@
 
 > A calm and relaxing Christmas piano soundtrack for the Holidays
 
-145 songs - 5 hr 25 min
+148 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Bella Notte](https://open.spotify.com/track/3Gc5dFXwOH917bMPZp67X1) | [Damian Syslo](https://open.spotify.com/artist/16zAiqqDsHkJ3UPqS9vQiu) | [Bella Notte](https://open.spotify.com/album/7ANCflgBV29mI8e5USSQMi) | 2:49 | 2022-11-09 |  |
 | [Blue Christmas](https://open.spotify.com/track/4QUjJT6BWIhd8Kmoc9dwiz) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [Auld Lang Syne](https://open.spotify.com/album/42kS1EvOT6rXXlXk4aFdOl) | 2:05 | 2022-11-09 |  |
 | [Blue Christmas](https://open.spotify.com/track/2QbWGtwuWcx7xblTgVQZeL) | [Linda Smuģe](https://open.spotify.com/artist/6LoUigEkesA4Bg7e248z15) | [Blue Christmas](https://open.spotify.com/album/4BfLDXV5kFmdlUBGUddaXx) | 2:31 | 2021-12-14 | 2022-11-10 |
+| [Carol of the bells](https://open.spotify.com/track/3PE75Thjmn8hzSoXMWs9zB) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Carol of the bells](https://open.spotify.com/album/5bnB0lyfexPZyQXNMYRQp0) | 1:43 | 2023-10-11 |  |
 | [Christmas Lights](https://open.spotify.com/track/0Bms5KTSYlDk2qP8GMIc69) | [Ella Lane](https://open.spotify.com/artist/1GRXfpE9TyN0LxM1h9h39T) | [Christmas Lights](https://open.spotify.com/album/2pY1msFkuDzwlH8BMKLEG9) | 2:13 | 2023-09-26 |  |
 | [Christmas Peace](https://open.spotify.com/track/5Jxv7KoYizZe91nA4PpaDY) | [Amy Yeager](https://open.spotify.com/artist/5xfWkvMNQZUL93sfFVRQqj) | [The Joy of Christmas](https://open.spotify.com/album/6wIKUnFppzUPdkXF4AvWiD) | 2:54 | 2021-12-14 |  |
 | [Christmas Time Is Here \- Piano](https://open.spotify.com/track/6HGtLIGtz89GQnbSV4sBcR) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [we're home for Christmas \(Piano\)](https://open.spotify.com/album/0ne2v4nlcqGxX9BdEONxcY) | 3:16 | 2022-10-14 |  |
@@ -79,7 +80,8 @@
 | [Grown\-Up Christmas List](https://open.spotify.com/track/1LCNUl8hYiweuj2tsaw3rA) | [Alexander Gresham](https://open.spotify.com/artist/3oF3p8Hna0Ly0WWrnseRNN) | [Grown\-Up Christmas List](https://open.spotify.com/album/2whNWSIgAu5F7fznsaZ2eU) | 2:57 | 2023-10-03 |  |
 | [Hallelujah](https://open.spotify.com/track/6H4s7S9oZDyig7C5Lz8R1m) | [Neneh Yacobi](https://open.spotify.com/artist/1Kf6mipsaXBzLzKpZGY9Rq) | [Hallelujah](https://open.spotify.com/album/2JZcNuCIjkuWaOGMTVr0Wl) | 2:45 | 2022-10-14 |  |
 | [Happy Xmas](https://open.spotify.com/track/6gGD7PRnQmj1BcoOs4rqiJ) | [Zach Flash](https://open.spotify.com/artist/245BfbwD5kOa5wFTd0Bl5w) | [Happy Xmas](https://open.spotify.com/album/5yfYF0xEnU9cUBxFbzgchY) | 2:16 | 2023-10-03 |  |
-| [Hark! The Herald Angels Sing](https://open.spotify.com/track/7Ezy3sFFAS3kJntqZTWpXz) | [Manuel Valera](https://open.spotify.com/artist/76RyqtLsvbJFynRIu9dXJ8), [kamanote](https://open.spotify.com/artist/0HljO0dF8nwi684rrDyhHa) | [Hark! The Herald Angel Sing](https://open.spotify.com/album/0TIx5snVQO9bqxfYh9eB2v) | 3:45 | 2021-12-14 |  |
+| [Hark The Herald Angels Sing](https://open.spotify.com/track/6vD4DVOnhf5N2NKkozKQlR) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Hark The Herald Angels Sing](https://open.spotify.com/album/4Dnkr99I1KiZluOWg9z5Ai) | 2:35 | 2023-10-11 |  |
+| [Hark! The Herald Angels Sing](https://open.spotify.com/track/7Ezy3sFFAS3kJntqZTWpXz) | [Manuel Valera](https://open.spotify.com/artist/76RyqtLsvbJFynRIu9dXJ8), [kamanote](https://open.spotify.com/artist/0HljO0dF8nwi684rrDyhHa) | [Hark! The Herald Angel Sing](https://open.spotify.com/album/0TIx5snVQO9bqxfYh9eB2v) | 3:45 | 2021-12-14 | 2023-10-12 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/3MzmTBYxot2d3Oox8hkIZS) | [Emma Welsch](https://open.spotify.com/artist/0pcgoReBn9OiUsZIN0B1Kl) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/7cyQdSJaRXNSb6GnUUwMet) | 2:49 | 2022-10-14 |  |
 | [Here Comes Santa Claus](https://open.spotify.com/track/4kw3uPY15M4yWHhScit9KR) | [Pietra Costa](https://open.spotify.com/artist/1LZGtjpaZT9G6VQstFr4MX) | [Navidad](https://open.spotify.com/album/6T1G9hiP19tScSIIeDqQT3) | 2:49 | 2021-12-14 |  |
 | [Home for the Holidays](https://open.spotify.com/track/5K5igtw94jv30oLWwv3bMg) | [Amelie Voss](https://open.spotify.com/artist/2Ccygrq1MNC7OTTjQneXBK) | [Home for the Holidays](https://open.spotify.com/album/77HidFPOvYVZwCpkEQ72YH) | 2:39 | 2021-12-14 |  |
@@ -144,6 +146,7 @@
 | [The Night Before Christmas](https://open.spotify.com/track/40BxkceWiGC2D37Iv3PqQS) | [Marvin Simmons](https://open.spotify.com/artist/6K3rVk2qB0yKO8ToZnovWf) | [It's Christmas Every Day](https://open.spotify.com/album/3lHNVUvVKOZvjuA6VkpCIN) | 2:36 | 2021-12-14 |  |
 | [The Prayer](https://open.spotify.com/track/6NbF82CkLv5mtx9bTvF59B) | [Mira Sorentido](https://open.spotify.com/artist/3Ig5M58nRVrph2yIHV5DLa) | [The Prayer](https://open.spotify.com/album/4hM0rDr8vSfrwe1OrkcEZ4) | 4:38 | 2021-12-14 |  |
 | [The Wassail Song \(Here We Come A\-Caroling\)](https://open.spotify.com/track/6s762qoRM0crwCOU63DLd6) | [Brad Jacobsen](https://open.spotify.com/artist/2qAOVsSeDczqT4oSWJ2q2s) | [Deck the Halls \~ Solo Piano Christmas](https://open.spotify.com/album/4eTP9X1l4ipmAvTM283Ws2) | 3:54 | 2021-12-14 |  |
+| [This winter](https://open.spotify.com/track/1Al9cICXCGBwryeDIgoLqJ) | [Carl Faber](https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN) | [This winter](https://open.spotify.com/album/0fu8E3rRmsN8SqXmpHwBGe) | 1:56 | 2023-10-11 |  |
 | [To Us Is Given](https://open.spotify.com/track/33hWpBOw3qZwyT9sE6OV6B) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/5T2hscHPXLF86mRk8VjumS) | 3:32 | 2021-12-14 | 2022-07-29 |
 | [To Us Is Given](https://open.spotify.com/track/7n76J43bOv8dO4MXCbv4Zt) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [A Dave Brubeck Christmas](https://open.spotify.com/album/3o9PGsBVheCPDj61Qv8wI9) | 3:32 | 2022-07-01 | 2022-10-15 |
 | [We Wish You a Merry Christmas](https://open.spotify.com/track/625f1LxHYvd5ZU5gzq6cSO) | [Wendy Salisbury](https://open.spotify.com/artist/2tP4FhLAccVfVh3vaL1Aek) | [We Wish You a Merry Christmas](https://open.spotify.com/album/42t7HKc7aXEIvrC0X0T5O8) | 1:28 | 2021-12-14 | 2023-09-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 
 > Retour en arrière avec les meilleurs titres de l'année 2003\. Photo : Eminem
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,095 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,102 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 | 16 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 |
 | 17 | [Going Under](https://open.spotify.com/track/3UygY7qW2cvG9Llkay6i1i) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | 3:34 |
 | 18 | [I Know What You Want \(feat\. Flipmode Squad\)](https://open.spotify.com/track/0YImOCkIJ2PWhCXaURCZnY) | [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Flipmode Squad](https://open.spotify.com/artist/7JXCJDLGh1k9cg6JbYCpYl) | [It Ain't Safe No More\. \. .](https://open.spotify.com/album/3cBk22r1tb6omRQ4jr6SE8) | 5:24 |
-| 19 | [03' Bonnie & Clyde](https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 3:25 |
-| 20 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
+| 19 | [Work It](https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Under Construction](https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup) | 4:23 |
+| 20 | [03' Bonnie & Clyde](https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [The Blueprint 2: The Gift & The Curse](https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU) | 3:25 |
 | 21 | [I'm with You](https://open.spotify.com/track/1jlG3KJ3gdYmhfuySFfpO1) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [Let Go](https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy) | 3:43 |
 | 22 | [Beautiful](https://open.spotify.com/track/3TCauNPqFiniaYHBvEVoHG) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 3:58 |
 | 23 | [I Believe in a Thing Called Love](https://open.spotify.com/track/756CJtQRFSxEx9jV4P9hpA) | [The Darkness](https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a) | [Permission to Land](https://open.spotify.com/album/6vW9ZDllNv87WHXS3XTjlM) | 3:36 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 | 31 | [Fighter](https://open.spotify.com/track/7nXq1vaZiz7PdbfojpPjW5) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Stripped](https://open.spotify.com/album/2USigX9DhGuAini71XZEEK) | 4:05 |
 | 32 | [Satisfaction \- Isak Original Extended](https://open.spotify.com/track/1n7omixiROWs5q6xpWiQuL) | [Benny Benassi](https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6), [The Biz](https://open.spotify.com/artist/1jQDgp9Fak4WYVZedWLF4G) | [Hypnotica \(Benny Benassi Presents The Biz\)](https://open.spotify.com/album/1pjsWAK5eBtJsYGtYDiCER) | 4:45 |
 | 33 | [Beautiful](https://open.spotify.com/track/4675yUu8AUbE72T94BkLCD) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8), [Uncle Charlie Wilson](https://open.spotify.com/artist/6B5fQU6gKaq7JPRL4YIg1B) | [The Best Of Snoop Dogg](https://open.spotify.com/album/0knL5fTAXqq9oq4Yeyibc8) | 4:59 |
-| 34 | [Like Glue](https://open.spotify.com/track/56m8Wv3qRBfwLuO08GtfHs) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock \(20th Anniversary\)](https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV) | 3:52 |
-| 35 | [The Bitter End](https://open.spotify.com/track/2yYASbXnAV71CLbNY1HCWf) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4) | 3:10 |
+| 34 | [The Bitter End](https://open.spotify.com/track/2yYASbXnAV71CLbNY1HCWf) | [Placebo](https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB) | [Sleeping With Ghosts](https://open.spotify.com/album/2toHnQWm3IbSocaWGYi9J4) | 3:10 |
+| 35 | [Like Glue](https://open.spotify.com/track/56m8Wv3qRBfwLuO08GtfHs) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock \(20th Anniversary\)](https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV) | 3:52 |
 | 36 | [No Letting Go](https://open.spotify.com/track/5dWfl2PBpKHpBVdz95wxK1) | [Wayne Wonder](https://open.spotify.com/artist/3kc5AFnL1TQQdNaMdSW2UO) | [No Holding Back](https://open.spotify.com/album/3WH8Q7LS2p143e5PrKGLeA) | 3:22 |
 | 37 | [Mundian To Bach Ke](https://open.spotify.com/track/2LxAeJ9KUj1GRS9oeHgQ3i) | [Panjabi MC](https://open.spotify.com/artist/74D1UgRzMhTSPz698exXmR) | [The Album](https://open.spotify.com/album/4M7pIA0U45CEENfXwbGB0g) | 4:05 |
 | 38 | [Never Leave You \(Uh Oooh, Uh Oooh\)](https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI) | [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9) | [Almost Famous](https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv) | 3:04 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uhnZGOPNfF.md) - [plain]
 | 59 | [Le chemin \(feat\. Sita\)](https://open.spotify.com/track/5T37zS90GkaMHRj5uNaJpb) | [Kyo](https://open.spotify.com/artist/5ylOD196qui8JgXBrQUzok), [Sita](https://open.spotify.com/artist/02uub1BfviQldBChLDdlJF) | [Le chemin](https://open.spotify.com/album/1ZDeD4gGI757lBlOAkmJ2i) | 3:30 |
 | 60 | [Objection \(Tango\)](https://open.spotify.com/track/36YNa8joLwu9yor2TkZbIY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:42 |
 
-Snapshot ID: `MCxhN2UwOTIzNDkxNzhlZTdmODVlMTQyZDAxNTQzMTM3YWEwYzZkZDgw`
+Snapshot ID: `MCxhMzI1MzBlYWY2OTAyNDJmZTAyYzBkNGU3OWRmYjA5ZDJlNWZlMTNh`

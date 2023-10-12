@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 
 > Con un poco de buena salsa todo queda limpio y reluciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,574 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,604 likes - 50 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6zsi9ZiA1Xt.md) - [plain]
 | 41 | [Salsa Y Sabor](https://open.spotify.com/track/6PK9NhUfcPQL5vfkg44dYE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Para los Rumberos](https://open.spotify.com/album/0NO0lAOqHxaM5wCdSZ8x8P) | 3:01 |
 | 42 | [La Esencia Del Guaguancó](https://open.spotify.com/track/09ivtKa1GxucyzH3qFMBOL) | [Johnny Pacheco](https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o), [Pete "El Conde" Rodriguez](https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa) | [Anthology](https://open.spotify.com/album/15w229yWe9GblGtWjJC753) | 4:06 |
 | 43 | [Marejada Feliz](https://open.spotify.com/track/6yntDRxeKQo8eB5cLY9tkm) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Apollo Sound 9](https://open.spotify.com/album/6yivkfOmyn8EP68CYsQ5OT) | 7:22 |
-| 44 | [Pa'l 23](https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ) | [Ray Perez](https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK) | [Lo Mejor de Ray Perez \- Salsa](https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF) | 3:13 |
-| 45 | [No No No](https://open.spotify.com/track/4RvTF7xvnGju7qbNiCX600) | [Boogaloo Assassins](https://open.spotify.com/artist/2k5tpM7WrvCytpVWO8XTjU) | [Old Love Dies Hard](https://open.spotify.com/album/1BaQF09SUNox7eRZ3lyqVM) | 5:27 |
+| 44 | [No No No](https://open.spotify.com/track/4RvTF7xvnGju7qbNiCX600) | [Boogaloo Assassins](https://open.spotify.com/artist/2k5tpM7WrvCytpVWO8XTjU) | [Old Love Dies Hard](https://open.spotify.com/album/1BaQF09SUNox7eRZ3lyqVM) | 5:27 |
+| 45 | [Pa'l 23](https://open.spotify.com/track/1mSdpVmDxvZKa80PykOlHZ) | [Ray Perez](https://open.spotify.com/artist/5bRPdkLc8yyAsdgUmdCMwK) | [Lo Mejor de Ray Perez \- Salsa](https://open.spotify.com/album/3mrztnhqCv54Lzb3s4jFCF) | 3:13 |
 | 46 | [Azúcar](https://open.spotify.com/track/4j0CkYOhOdPyWjfpEL1sWM) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Azúcar pa' Ti](https://open.spotify.com/album/7ABnsWLl8iiyVqkpR9ZRGT) | 9:29 |
 | 47 | [La Esquina Del Movimiento](https://open.spotify.com/track/28eTHRQGyFfQPqzwNWCYws) | [La Sonora Matancera](https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD), [Nelson Pinedo](https://open.spotify.com/artist/68YsvVAGVdlaJpk5sA21pq) | [¿Quién Será?](https://open.spotify.com/album/1RajdvWppURk9ULx1dzNSV) | 2:36 |
 | 48 | [Traigo Salsa](https://open.spotify.com/track/21o9ccByT4ApG6msAqGqYy) | [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [Esto Fué Lo Que Trajo El Barco](https://open.spotify.com/album/5EPIgQStd9oMGLf6BIgSEf) | 4:16 |
 | 49 | [Manyoma](https://open.spotify.com/track/2MGT7BNwjf3c6DbhXqBaW9) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob), [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg) | [Fruko el Grande](https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C) | 4:08 |
 | 50 | [Que Bueno Baila Usted](https://open.spotify.com/track/5c2JVgFOORbNCtaMS0myWY) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw) | [The Very Best Of Beny More Vol\. 1](https://open.spotify.com/album/45tO9TmvTvtAFWqWqB89hq) | 3:14 |
 
-Snapshot ID: `MCwzZGRjYzNmYTZlOTc2MGMzYjEyZTQ1YmY0MWU3ZTUwYzIzZjcxZWEx`
+Snapshot ID: `MCxkMzE0YWZkNjIxOWQ5NTNlM2Y1Y2NmNmMxZGFmOTdmMjE3ZWVmNDMy`

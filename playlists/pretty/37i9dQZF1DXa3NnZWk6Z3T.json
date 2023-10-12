@@ -1,12 +1,12 @@
 {
   "description": "Keep calm and enjoy this musical cafecito.",
-  "num_followers": 591593,
+  "num_followers": 591343,
   "original_name": "Caf\u00e9 con Leche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzRmYTk1MzFlZTM0M2FlNzA3ODRkYzk5NjMyY2RjODA5M2U5NjFh",
+  "snapshot_id": "MCxlYzU1NmE1NDI5ODlkMDc5NjUxYWVlNjc4MTdjNzM2MzIyZWUyYzY0",
   "tracks": [
     {
       "added_at": "2023-09-01 17:24:22",
@@ -411,26 +411,6 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
-        "name": "Ojitos de Aceituna",
-        "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        },
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 167221,
-      "name": "Ojitos de Aceituna",
-      "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
-    },
-    {
-      "added_at": "2023-09-01 17:24:22",
-      "album": {
         "name": "Love Song (Helado Negro Remix)",
         "url": "https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF"
       },
@@ -451,18 +431,22 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
-        "name": "Tierra Querida",
-        "url": "https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM"
+        "name": "Ojitos de Aceituna",
+        "url": "https://open.spotify.com/album/0T1toCzjEqFltKmHuwznI5"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        },
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
         }
       ],
-      "duration_ms": 168775,
-      "name": "Tierra Querida",
-      "url": "https://open.spotify.com/track/15UftHtPcwWE23ON8b2uiR"
+      "duration_ms": 167221,
+      "name": "Ojitos de Aceituna",
+      "url": "https://open.spotify.com/track/2KhOJ9fPnHE6HJd7R6jF2L"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -479,6 +463,22 @@
       "duration_ms": 234425,
       "name": "No S\u00e9 Decirte No",
       "url": "https://open.spotify.com/track/7ukRl9q1yVYO2j5SXwvjaB"
+    },
+    {
+      "added_at": "2023-09-01 17:24:22",
+      "album": {
+        "name": "Tierra Querida",
+        "url": "https://open.spotify.com/album/2iIbxTmZaOaRyImrEpvzdM"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 168775,
+      "name": "Tierra Querida",
+      "url": "https://open.spotify.com/track/15UftHtPcwWE23ON8b2uiR"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -803,6 +803,22 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
+        "name": "Te acuerdas?",
+        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
+      },
+      "artists": [
+        {
+          "name": "Paul Alone",
+          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
+        }
+      ],
+      "duration_ms": 183265,
+      "name": "Te acuerdas?",
+      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
+    },
+    {
+      "added_at": "2023-09-01 17:24:22",
+      "album": {
         "name": "Mariposa Azul",
         "url": "https://open.spotify.com/album/0AnItoUfAoQyJxXrKkTBSU"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 229785,
       "name": "Mozo",
       "url": "https://open.spotify.com/track/1wPwN9thOsYSVSAonW1W6i"
-    },
-    {
-      "added_at": "2023-09-01 17:24:22",
-      "album": {
-        "name": "Te acuerdas?",
-        "url": "https://open.spotify.com/album/4bgNYwpO19Pm0olhO3srld"
-      },
-      "artists": [
-        {
-          "name": "Paul Alone",
-          "url": "https://open.spotify.com/artist/6bdtalFIKenjGPCQVI2gtE"
-        }
-      ],
-      "duration_ms": 183265,
-      "name": "Te acuerdas?",
-      "url": "https://open.spotify.com/track/25tHQXFLUN38dQXQyKu9Ev"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
+        "name": "BIG BANG",
+        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
+      },
+      "artists": [
+        {
+          "name": "Cami",
+          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
+        }
+      ],
+      "duration_ms": 183131,
+      "name": "BIG BANG",
+      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+    },
+    {
+      "added_at": "2023-09-01 17:24:22",
+      "album": {
         "name": "Vas a encontrarte (feat. Guitarricadelafuente)",
         "url": "https://open.spotify.com/album/2tj9cT4X2ZZcOevz6limO7"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 211493,
       "name": "Vas a encontrarte (feat. Guitarricadelafuente) - Ac\u00fastica",
       "url": "https://open.spotify.com/track/0fs0rrKpjNipulHV1CtL57"
-    },
-    {
-      "added_at": "2023-09-01 17:24:22",
-      "album": {
-        "name": "BIG BANG",
-        "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
-      },
-      "artists": [
-        {
-          "name": "Cami",
-          "url": "https://open.spotify.com/artist/3VCrybIJKH7UurbDcZbMmn"
-        }
-      ],
-      "duration_ms": 183131,
-      "name": "BIG BANG",
-      "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -1307,26 +1307,6 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
-        "name": "Llegu\u00e9 hasta ti (feat. Juanito Makand\u00e9)",
-        "url": "https://open.spotify.com/album/3GGoeVNdy9IpN0f2nGRQqW"
-      },
-      "artists": [
-        {
-          "name": "Muerdo",
-          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
-        },
-        {
-          "name": "Juanito Makand\u00e9",
-          "url": "https://open.spotify.com/artist/72fEVnXpnjN2i2MU99ga0z"
-        }
-      ],
-      "duration_ms": 194093,
-      "name": "Llegu\u00e9 hasta ti (feat. Juanito Makand\u00e9)",
-      "url": "https://open.spotify.com/track/1JnrSFltARbpAUX4kuJ36k"
-    },
-    {
-      "added_at": "2023-09-01 17:24:22",
-      "album": {
         "name": "Tan Dif\u00edcil de Entender",
         "url": "https://open.spotify.com/album/4llL1SDFfsIsbuBY0seqKd"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 157120,
       "name": "Epitafio",
       "url": "https://open.spotify.com/track/4k0MEDp6V71N0sbGbSiGwk"
+    },
+    {
+      "added_at": "2023-09-01 17:24:22",
+      "album": {
+        "name": "Llegu\u00e9 hasta ti (feat. Juanito Makand\u00e9)",
+        "url": "https://open.spotify.com/album/3GGoeVNdy9IpN0f2nGRQqW"
+      },
+      "artists": [
+        {
+          "name": "Muerdo",
+          "url": "https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq"
+        },
+        {
+          "name": "Juanito Makand\u00e9",
+          "url": "https://open.spotify.com/artist/72fEVnXpnjN2i2MU99ga0z"
+        }
+      ],
+      "duration_ms": 194093,
+      "name": "Llegu\u00e9 hasta ti (feat. Juanito Makand\u00e9)",
+      "url": "https://open.spotify.com/track/1JnrSFltARbpAUX4kuJ36k"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -1431,6 +1431,22 @@
       "duration_ms": 240853,
       "name": "Para Siempre",
       "url": "https://open.spotify.com/track/7jrVi2QpvDGgmPr72w5xWf"
+    },
+    {
+      "added_at": "2023-09-01 17:24:22",
+      "album": {
+        "name": "Triste Pero Fresh",
+        "url": "https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM"
+      },
+      "artists": [
+        {
+          "name": "Simon Grossmann",
+          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
+        }
+      ],
+      "duration_ms": 181689,
+      "name": "Bolerito Sad",
+      "url": "https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -1503,22 +1519,6 @@
       "duration_ms": 198298,
       "name": "Me Llaman Nella",
       "url": "https://open.spotify.com/track/0dMQafMHQxzZIfBPUGWCQG"
-    },
-    {
-      "added_at": "2023-09-01 17:24:22",
-      "album": {
-        "name": "Triste Pero Fresh",
-        "url": "https://open.spotify.com/album/3KNstlwXCPbfIA3hy6JOvM"
-      },
-      "artists": [
-        {
-          "name": "Simon Grossmann",
-          "url": "https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ"
-        }
-      ],
-      "duration_ms": 181689,
-      "name": "Bolerito Sad",
-      "url": "https://open.spotify.com/track/6zTOZgquu79UQLGtoyKf0Z"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
-    },
-    {
-      "added_at": "2023-09-01 17:24:22",
-      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
       },
@@ -1659,6 +1643,22 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
+      },
+      "artists": [
+        {
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
+        }
+      ],
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
+    },
+    {
+      "added_at": "2023-09-01 17:24:22",
+      "album": {
         "name": "Mar Abierto",
         "url": "https://open.spotify.com/album/6ggfwl5PZYQc4F3xk5g2GE"
       },
@@ -1671,6 +1671,22 @@
       "duration_ms": 173291,
       "name": "Claridad",
       "url": "https://open.spotify.com/track/219jqVvucWF77DMgyB3UAf"
+    },
+    {
+      "added_at": "2023-09-01 17:24:22",
+      "album": {
+        "name": "Eucalipto",
+        "url": "https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 160213,
+      "name": "Eucalipto",
+      "url": "https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -1691,22 +1707,6 @@
       "duration_ms": 221111,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/7nuAQwrVIe6ulWBaM1eR71"
-    },
-    {
-      "added_at": "2023-09-01 17:24:22",
-      "album": {
-        "name": "Eucalipto",
-        "url": "https://open.spotify.com/album/48SgeHpP6RkBC5q3SSzb27"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        }
-      ],
-      "duration_ms": 160213,
-      "name": "Eucalipto",
-      "url": "https://open.spotify.com/track/3XApO9AXI8gWMIr67HJUiL"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -1763,18 +1763,18 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
-        "name": "Todo el D\u00eda en la Cama",
-        "url": "https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz"
+        "name": "L\u00ednea Recta",
+        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
       },
       "artists": [
         {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
+          "name": "Vale",
+          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
         }
       ],
-      "duration_ms": 256947,
-      "name": "Todo el D\u00eda en la Cama",
-      "url": "https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy"
+      "duration_ms": 182186,
+      "name": "Para Verte",
+      "url": "https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -1799,18 +1799,18 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
-        "name": "L\u00ednea Recta",
-        "url": "https://open.spotify.com/album/19Gt3qUgfakD1rVw82iyzL"
+        "name": "Todo el D\u00eda en la Cama",
+        "url": "https://open.spotify.com/album/09kUYvs5rwuZgRpblzn7lz"
       },
       "artists": [
         {
-          "name": "Vale",
-          "url": "https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD"
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
         }
       ],
-      "duration_ms": 182186,
-      "name": "Para Verte",
-      "url": "https://open.spotify.com/track/1ck68b7U7AUPEefAfQBWiO"
+      "duration_ms": 256947,
+      "name": "Todo el D\u00eda en la Cama",
+      "url": "https://open.spotify.com/track/3IyHmgfNBS3CSSP6zsCjQy"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
-        "name": "Sorpresa",
-        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
-      },
-      "artists": [
-        {
-          "name": "Cheo",
-          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
-        }
-      ],
-      "duration_ms": 242733,
-      "name": "Carnaval",
-      "url": "https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV"
-    },
-    {
-      "added_at": "2023-09-01 17:24:22",
-      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1935,6 +1919,22 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 183894,
+      "name": "Un Cari\u00f1ito",
+      "url": "https://open.spotify.com/track/64opElgLEfcSoh4YotloB4"
+    },
+    {
+      "added_at": "2023-09-01 17:24:22",
+      "album": {
         "name": "Ola Adi\u00f3s",
         "url": "https://open.spotify.com/album/2u4DIClRI7TDUbRY4mDZyr"
       },
@@ -1951,18 +1951,18 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+        "name": "Sorpresa",
+        "url": "https://open.spotify.com/album/4clIaqyIpJOku2E6VNnwy2"
       },
       "artists": [
         {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+          "name": "Cheo",
+          "url": "https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG"
         }
       ],
-      "duration_ms": 183894,
-      "name": "Un Cari\u00f1ito",
-      "url": "https://open.spotify.com/track/64opElgLEfcSoh4YotloB4"
+      "duration_ms": 242733,
+      "name": "Carnaval",
+      "url": "https://open.spotify.com/track/2IuXKFaWQhwhYAScCOclkV"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -2091,6 +2091,22 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
+        "name": "Para Echar la Lloradita",
+        "url": "https://open.spotify.com/album/1JkjAUi5VkRPtiVbT273KR"
+      },
+      "artists": [
+        {
+          "name": "Arroba Nat",
+          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+        }
+      ],
+      "duration_ms": 234750,
+      "name": "Ausente",
+      "url": "https://open.spotify.com/track/7uR5yFqTHZYqPlO9zXTR2M"
+    },
+    {
+      "added_at": "2023-09-01 17:24:22",
+      "album": {
         "name": "Bohemio",
         "url": "https://open.spotify.com/album/38ziDGsYS10NPo4BxBAsvn"
       },
@@ -2127,18 +2143,18 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
-        "name": "Para Echar la Lloradita",
-        "url": "https://open.spotify.com/album/1JkjAUi5VkRPtiVbT273KR"
+        "name": "Cafecito",
+        "url": "https://open.spotify.com/album/7av0C1BqErsrx1CQb8aMRT"
       },
       "artists": [
         {
-          "name": "Arroba Nat",
-          "url": "https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4"
+          "name": "Carmen DeLeon",
+          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
         }
       ],
-      "duration_ms": 234750,
-      "name": "Ausente",
-      "url": "https://open.spotify.com/track/7uR5yFqTHZYqPlO9zXTR2M"
+      "duration_ms": 214688,
+      "name": "Cafecito",
+      "url": "https://open.spotify.com/track/4WuHzYPN060OB2bt3EgwyZ"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -2155,22 +2171,6 @@
       "duration_ms": 181368,
       "name": "Mp3",
       "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
-    },
-    {
-      "added_at": "2023-09-01 17:24:22",
-      "album": {
-        "name": "Cafecito",
-        "url": "https://open.spotify.com/album/7av0C1BqErsrx1CQb8aMRT"
-      },
-      "artists": [
-        {
-          "name": "Carmen DeLeon",
-          "url": "https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l"
-        }
-      ],
-      "duration_ms": 214688,
-      "name": "Cafecito",
-      "url": "https://open.spotify.com/track/4WuHzYPN060OB2bt3EgwyZ"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
-        "name": "Calle Cima",
-        "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 219477,
-      "name": "Calle Cima",
-      "url": "https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE"
-    },
-    {
-      "added_at": "2023-09-01 17:24:22",
-      "album": {
         "name": "A Tu Lado",
         "url": "https://open.spotify.com/album/4unZDGlQA29DS3atjhfUQJ"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 244308,
       "name": "A Tu Lado",
       "url": "https://open.spotify.com/track/2sxGambjEMewIexGbpP089"
+    },
+    {
+      "added_at": "2023-09-01 17:24:22",
+      "album": {
+        "name": "Calle Cima",
+        "url": "https://open.spotify.com/album/7M2Ps9s3Y4A77q0Z4OYLim"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 219477,
+      "name": "Calle Cima",
+      "url": "https://open.spotify.com/track/4x9O03XkmAed2E7GAPUqUE"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -2259,6 +2259,22 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
+        "name": "TANDA",
+        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
+      },
+      "artists": [
+        {
+          "name": "Alex Ferreira",
+          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
+        }
+      ],
+      "duration_ms": 249082,
+      "name": "No Se Rompe",
+      "url": "https://open.spotify.com/track/4IneEfd293hMaAr3z7ywU1"
+    },
+    {
+      "added_at": "2023-09-01 17:24:22",
+      "album": {
         "name": "Herminia",
         "url": "https://open.spotify.com/album/6dXTdgrtOhBIAK9QwLd2P5"
       },
@@ -2279,22 +2295,6 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
-        "name": "TANDA",
-        "url": "https://open.spotify.com/album/3rXHuciMB3Govs5HUqzCEq"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 249082,
-      "name": "No Se Rompe",
-      "url": "https://open.spotify.com/track/4IneEfd293hMaAr3z7ywU1"
-    },
-    {
-      "added_at": "2023-09-01 17:24:22",
-      "album": {
         "name": "Amiga Cruel (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4nVhklAIoayQe43DB5Qg3K"
       },
@@ -2307,6 +2307,22 @@
       "duration_ms": 217031,
       "name": "Amiga Cruel (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/5c8mWRQFH9jFfcxc96QtTI"
+    },
+    {
+      "added_at": "2023-09-01 17:24:22",
+      "album": {
+        "name": "Emotion",
+        "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
+      },
+      "artists": [
+        {
+          "name": "Cristina Valentina",
+          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
+        }
+      ],
+      "duration_ms": 233680,
+      "name": "Emotion",
+      "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -2331,22 +2347,6 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
-        "name": "Emotion",
-        "url": "https://open.spotify.com/album/5PPNxvehIUdmC1Rqb2lOFx"
-      },
-      "artists": [
-        {
-          "name": "Cristina Valentina",
-          "url": "https://open.spotify.com/artist/3pC5RVO04pJTFcp5xxdXaV"
-        }
-      ],
-      "duration_ms": 233680,
-      "name": "Emotion",
-      "url": "https://open.spotify.com/track/79WBauaqEC2d8PK1z4URAs"
-    },
-    {
-      "added_at": "2023-09-01 17:24:22",
-      "album": {
         "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
         "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
       },
@@ -2359,22 +2359,6 @@
       "duration_ms": 134613,
       "name": "Bonita",
       "url": "https://open.spotify.com/track/0z7fUfcWFmetVMweOqRJB5"
-    },
-    {
-      "added_at": "2023-09-01 17:24:22",
-      "album": {
-        "name": "Hawaii Aloha",
-        "url": "https://open.spotify.com/album/4SzbVzN1N053iakcxwG3dq"
-      },
-      "artists": [
-        {
-          "name": "La Familia de Ukeleles",
-          "url": "https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs"
-        }
-      ],
-      "duration_ms": 235408,
-      "name": "Hawaii Aloha",
-      "url": "https://open.spotify.com/track/5Fv4AzFmKNNRdBqhlu0ryR"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -2407,6 +2391,22 @@
       "duration_ms": 209346,
       "name": "Uno Que Tropieza Y Cae Al Mar",
       "url": "https://open.spotify.com/track/7s9RruGzghXh575zU4qEpz"
+    },
+    {
+      "added_at": "2023-09-01 17:24:22",
+      "album": {
+        "name": "Hawaii Aloha",
+        "url": "https://open.spotify.com/album/4SzbVzN1N053iakcxwG3dq"
+      },
+      "artists": [
+        {
+          "name": "La Familia de Ukeleles",
+          "url": "https://open.spotify.com/artist/7xwmxtLLWuRZkyNgbEXJVs"
+        }
+      ],
+      "duration_ms": 235408,
+      "name": "Hawaii Aloha",
+      "url": "https://open.spotify.com/track/5Fv4AzFmKNNRdBqhlu0ryR"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -2479,6 +2479,22 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
+        "name": "Gameboi",
+        "url": "https://open.spotify.com/album/4wigi1XdN1aJZx4T3HCXnv"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        }
+      ],
+      "duration_ms": 226107,
+      "name": "Gameboi",
+      "url": "https://open.spotify.com/track/221fy9rovP31zQCzebODNm"
+    },
+    {
+      "added_at": "2023-09-01 17:24:22",
+      "album": {
         "name": "1995",
         "url": "https://open.spotify.com/album/0PKs87i37uUK6kuDWnWCYg"
       },
@@ -2495,22 +2511,6 @@
       "duration_ms": 203133,
       "name": "Pell\u00edzquenme",
       "url": "https://open.spotify.com/track/01GkH9n3MLf606vcWddYl9"
-    },
-    {
-      "added_at": "2023-09-01 17:24:22",
-      "album": {
-        "name": "Gameboi",
-        "url": "https://open.spotify.com/album/4wigi1XdN1aJZx4T3HCXnv"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        }
-      ],
-      "duration_ms": 226107,
-      "name": "Gameboi",
-      "url": "https://open.spotify.com/track/221fy9rovP31zQCzebODNm"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -2623,22 +2623,18 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
-        "name": "Un Beso M\u00e1s (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/6GMLQCfFP8LAkMu5gmb15l"
+        "name": "Archivos Pt.1",
+        "url": "https://open.spotify.com/album/019VrJB8sbXd52dsdyUtqu"
       },
       "artists": [
         {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        },
-        {
-          "name": "Loli Molina",
-          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
+          "name": "Anthony Escand\u00f3n",
+          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
         }
       ],
-      "duration_ms": 198917,
-      "name": "Un Beso M\u00e1s (Versi\u00f3n Ac\u00fastica)",
-      "url": "https://open.spotify.com/track/7dS19L0dDQwgWJfAgT4xZG"
+      "duration_ms": 157522,
+      "name": "Tu Me Dijiste Que Venias",
+      "url": "https://open.spotify.com/track/5IPweAJxBcDyC7dDkcSyE1"
     },
     {
       "added_at": "2023-09-01 17:24:22",
@@ -2659,34 +2655,38 @@
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
-        "name": "Archivos Pt.1",
-        "url": "https://open.spotify.com/album/019VrJB8sbXd52dsdyUtqu"
+        "name": "Un Beso M\u00e1s (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/6GMLQCfFP8LAkMu5gmb15l"
       },
       "artists": [
         {
-          "name": "Anthony Escand\u00f3n",
-          "url": "https://open.spotify.com/artist/2eaNtiW6LwYMhyGIxmJ90J"
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
+        {
+          "name": "Loli Molina",
+          "url": "https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32"
         }
       ],
-      "duration_ms": 157522,
-      "name": "Tu Me Dijiste Que Venias",
-      "url": "https://open.spotify.com/track/5IPweAJxBcDyC7dDkcSyE1"
+      "duration_ms": 198917,
+      "name": "Un Beso M\u00e1s (Versi\u00f3n Ac\u00fastica)",
+      "url": "https://open.spotify.com/track/7dS19L0dDQwgWJfAgT4xZG"
     },
     {
       "added_at": "2023-09-01 17:24:22",
       "album": {
-        "name": "Kumbayeo (Lado A)",
-        "url": "https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid"
+        "name": "Am\u00e1",
+        "url": "https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ"
       },
       "artists": [
         {
-          "name": "Salom\u00f3n Beda",
-          "url": "https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh"
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
         }
       ],
-      "duration_ms": 197346,
-      "name": "Orquesta natural",
-      "url": "https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe"
+      "duration_ms": 176256,
+      "name": "Am\u00e1",
+      "url": "https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9"
     }
   ],
   "unique_name": "Caf\u00e9 con Leche",

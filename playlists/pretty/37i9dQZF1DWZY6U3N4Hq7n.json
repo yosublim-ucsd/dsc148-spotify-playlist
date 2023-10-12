@@ -1,12 +1,12 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 415506,
+  "num_followers": 415725,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MGYwOGQwY2E3N2E5NmVlYjA5MGFlMmJjODBiMGUyOTQxN2M5YmZh",
+  "snapshot_id": "MCw2OGQyZjRjZWNhYzM5YmU0NzQwMjVjZWNkYTk3OTBjZGRlMGEyOGVh",
   "tracks": [
     {
       "added_at": "2021-12-22 16:16:43",
@@ -163,22 +163,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Make It Big",
-        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
-      },
-      "artists": [
-        {
-          "name": "Wham!",
-          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "Wake Me Up Before You Go-Go",
-      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 241599,
       "name": "Jump - 2015 Remaster",
       "url": "https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Make It Big",
+        "url": "https://open.spotify.com/album/02f3y3NTsddjdUMoNiBppI"
+      },
+      "artists": [
+        {
+          "name": "Wham!",
+          "url": "https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM"
+        }
+      ],
+      "duration_ms": 231333,
+      "name": "Wake Me Up Before You Go-Go",
+      "url": "https://open.spotify.com/track/0ikz6tENMONtK6qGkOrU3c"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -547,22 +547,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 219666,
-      "name": "We're Not Gonna Take It",
-      "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "Cloud Nine",
         "url": "https://open.spotify.com/album/3RmvjorSAkZL2FLzSGxONc"
       },
@@ -579,18 +563,18 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Business As Usual",
-        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
       "artists": [
         {
-          "name": "Men At Work",
-          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
         }
       ],
-      "duration_ms": 201293,
-      "name": "Who Can It Be Now?",
-      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
+      "duration_ms": 219666,
+      "name": "We're Not Gonna Take It",
+      "url": "https://open.spotify.com/track/1hlveB9M6ijHZRbzZ2teyh"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -607,6 +591,22 @@
       "duration_ms": 205466,
       "name": "Super Freak",
       "url": "https://open.spotify.com/track/2dCmGcEOQrMQhMMS8Vj7Ca"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Business As Usual",
+        "url": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+      },
+      "artists": [
+        {
+          "name": "Men At Work",
+          "url": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+        }
+      ],
+      "duration_ms": 201293,
+      "name": "Who Can It Be Now?",
+      "url": "https://open.spotify.com/track/5rfJ2Bq2PEL8yBjZLzouEu"
     },
     {
       "added_at": "2021-12-22 16:16:43",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2021-12-22 16:16:43",
       "album": {
-        "name": "Collected",
-        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
-      },
-      "artists": [
-        {
-          "name": "Kool & The Gang",
-          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
-        }
-      ],
-      "duration_ms": 218786,
-      "name": "Celebration - Single Version",
-      "url": "https://open.spotify.com/track/6HIVJXpdvp1C1ubfnkFnz8"
-    },
-    {
-      "added_at": "2021-12-22 16:16:43",
-      "album": {
         "name": "Freedom of Choice",
         "url": "https://open.spotify.com/album/6UsP4NQ9K4L4Nqxj0Qis41"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 161133,
       "name": "Whip It",
       "url": "https://open.spotify.com/track/4sscDOZCkbLSlDqcCgUJnX"
+    },
+    {
+      "added_at": "2021-12-22 16:16:43",
+      "album": {
+        "name": "Collected",
+        "url": "https://open.spotify.com/album/2vBpHUDhVTInqSLxkw9Kx2"
+      },
+      "artists": [
+        {
+          "name": "Kool & The Gang",
+          "url": "https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI"
+        }
+      ],
+      "duration_ms": 218786,
+      "name": "Celebration - Single Version",
+      "url": "https://open.spotify.com/track/6HIVJXpdvp1C1ubfnkFnz8"
     }
   ],
   "unique_name": "80s Workout",

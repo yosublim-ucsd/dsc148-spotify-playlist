@@ -4,7 +4,7 @@
 
 > Home of the best bands orbiting the universe right now\. Cover: The Beaches
 
-232 songs - 14 hr 1 min
+233 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,7 +107,7 @@
 | [It's good to be back](https://open.spotify.com/track/4ia6ACdtbVvoBgfixtaXFP) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Small World](https://open.spotify.com/album/5CHaXCMeag2aPjo72Ib8Xj) | 3:53 | 2022-03-15 | 2023-02-07 |
 | [Keep Moving](https://open.spotify.com/track/4rf0IVQDFjr27T4sgah5Pf) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/3xuvOKpNqynROqZt8Tvcfh) | 4:00 | 2022-10-13 | 2023-06-21 |
 | [Keep Moving](https://open.spotify.com/track/6mfQHV1tPWUpme1qi9vYpI) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Loving In Stereo](https://open.spotify.com/album/1hykVcbmenjAoG7wwoXmCV) | 4:00 | 2022-03-15 | 2022-11-03 |
-| [LOST CONTROL](https://open.spotify.com/track/4apL2Bd2RIMXj94M8dEJHj) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 2:48 | 2022-10-13 |  |
+| [LOST CONTROL](https://open.spotify.com/track/4apL2Bd2RIMXj94M8dEJHj) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [SPARK](https://open.spotify.com/album/5FgDFLMa4LM50AlBypheGs) | 2:48 | 2022-10-13 | 2023-10-12 |
 | [Lost Honor](https://open.spotify.com/track/41BwZHot0x72eob0eQGmcO) | [Surf Curse](https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D) | [Lost Honor](https://open.spotify.com/album/2Td5VgNSobqfiT8OpIhisP) | 3:59 | 2022-08-11 |  |
 | [Lost Track](https://open.spotify.com/track/3dxgq3THNqGk6Mv5ZZ7yXY) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Lost Track](https://open.spotify.com/album/3oiTuW8YuHwmhpDHQOdJGE) | 2:22 | 2022-07-08 |  |
 | [Lost Track](https://open.spotify.com/track/5Z8XoeUBjZngKO0NGWnAiS) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Lost Track](https://open.spotify.com/album/3HM2a6YdzuBPmDe5tTEV88) | 2:22 | 2022-03-15 | 2022-07-29 |
@@ -180,6 +180,7 @@
 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 | 2022-05-06 |  |
 | [Tangerine](https://open.spotify.com/track/40rOlDoGejXXF4B0BYsjx8) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Dreamland](https://open.spotify.com/album/5bfpRtBW7RNRdsm3tRyl3R) | 3:20 | 2022-03-15 |  |
 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 | 2022-03-15 |  |
+| [That Life](https://open.spotify.com/track/0M2hckQzSt0AZFytuTC2Hp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 3:35 | 2023-09-22 |  |
 | [That Life](https://open.spotify.com/track/2DLtsxM4qyZ3bZEYKfg2Qy) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Nadja](https://open.spotify.com/album/0Niv3RqgsVUsDHIJBwqYE5) | 3:35 | 2023-03-16 | 2023-09-23 |
 | [The Adults Are Talking](https://open.spotify.com/track/5ruzrDWcT0vuJIOMW7gMnW) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:09 | 2022-03-15 |  |
 | [the angel of 8th ave.](https://open.spotify.com/track/1ZBAWvkQlpd87kCfHopEH4) | [Gang of Youths](https://open.spotify.com/artist/142YBUGmLWCJigFLzgguf8) | [the angel of 8th ave.](https://open.spotify.com/album/128oVGwfkxHAthA6WTW4Hl) | 3:58 | 2022-03-15 | 2022-07-29 |

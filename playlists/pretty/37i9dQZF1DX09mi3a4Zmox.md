@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 
 > Música para enamorarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,140,379 likes - 100 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,128,807 likes - 100 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 49 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 |
 | 50 | [Será Mejor Que Te Vayas](https://open.spotify.com/track/6rtHT1rKFnDZL4EksdLY0t) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd), [Los Bukis](https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf) | [Por Amor A Mi Pueblo](https://open.spotify.com/album/6Fzh7DxhjZ1fImQAHBe8od) | 4:59 |
 | 51 | [Un Año](https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Un Año](https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP) | 2:44 |
-| 52 | [Para Tu Amor](https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:09 |
-| 53 | [Llegaste tú](https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 4:06 |
+| 52 | [Llegaste tú](https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 4:06 |
+| 53 | [Para Tu Amor](https://open.spotify.com/track/2quTytCTP9kKLvpveyO1mt) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 4:09 |
 | 54 | [No \(feat\. Gustavo Cerati\)](https://open.spotify.com/track/0J6dOwflFSy3h1AoKmkqKc) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Fijación Oral, Vol\. 1](https://open.spotify.com/album/3zHPYwiMJqa3hTBgk695Ae) | 4:45 |
 | 55 | [Eres Tú](https://open.spotify.com/track/3iVu49ZmRHsCdRA0RTGUkP) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:38 |
 | 56 | [Eazt](https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Mi Para Ti](https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK) | 3:36 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 88 | [Eso Y Más](https://open.spotify.com/track/4uV2q5BTVqsNU1oF5tT6q1) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Eso Y Más](https://open.spotify.com/album/3ej22uBC7EecBlN1GOg06U) | 2:46 |
 | 89 | [Tiburones](https://open.spotify.com/track/1zIshc2P9l5AZsOpJWmdTM) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Tiburones](https://open.spotify.com/album/5MeIHVfD8WaFm2NlkNPsCW) | 3:13 |
 | 90 | [Estar contigo](https://open.spotify.com/track/0IDyf9eri6YrUs4yeQfCZZ) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Mentiras sinceras](https://open.spotify.com/album/4kycb8w5cgbdLcQ6uD6IyF) | 3:52 |
-| 91 | [Por El Amor De Una Mujer](https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [A Flor De Piel](https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K) | 3:49 |
-| 92 | [El Amor](https://open.spotify.com/track/02PDEtcbjtjIyllnqTZc7i) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Tiempo de otoño](https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua) | 4:11 |
+| 91 | [El Amor](https://open.spotify.com/track/02PDEtcbjtjIyllnqTZc7i) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Tiempo de otoño](https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua) | 4:11 |
+| 92 | [Por El Amor De Una Mujer](https://open.spotify.com/track/7010oiDHpfwrZoYNxqgfoI) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [A Flor De Piel](https://open.spotify.com/album/3YAtD5obf0a1E2NHjZ8A8K) | 3:49 |
 | 93 | [Te Adoraré](https://open.spotify.com/track/3e4lLl0zCsOmiXjl9rBfNk) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Montaner](https://open.spotify.com/album/50k6VtZQku8LJncGUzgBBG) | 3:47 |
 | 94 | [Deje de Amar](https://open.spotify.com/track/4SB87vYiWYWFg9ekXay2Fo) | [Felipe Muñiz](https://open.spotify.com/artist/659iks2UnmZ5PXHOEF9YST), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Deje de Amar](https://open.spotify.com/album/1WL8muZp8DwnP4XDuovUou) | 3:12 |
 | 95 | [Si tú me miras](https://open.spotify.com/track/3ZyaRoOvgTIzfsceL7l16G) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Si Tu Me Miras](https://open.spotify.com/album/2iSb8znJjwpsaGMA5NlcnW) | 4:17 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 97 | [El Amor Que Me Tenía \- Versión Acústica](https://open.spotify.com/track/0OzlamwH7ExWvidVp2f9oK) | [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Blanco](https://open.spotify.com/album/519UdgyNfgG6LCTTLNjirk) | 3:34 |
 | 98 | [Como Yo Te Amo](https://open.spotify.com/track/2WGYmstMZN1Kbz2sKiguFB) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ) | [El Amor](https://open.spotify.com/album/0XEnNSpQyGQmEqFBYW3BGE) | 4:48 |
 | 99 | [Por Debajo De La Mesa](https://open.spotify.com/track/1livAifXh1DMv25kTfFFHR) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Romances](https://open.spotify.com/album/5bCqJHjSlxroHQdR8i8Qvo) | 3:04 |
-| 100 | [Así Te Pedí](https://open.spotify.com/track/79Le7RyHdaPC1eEZBpFm4x) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Extraños](https://open.spotify.com/album/3VgQqkogbq1J5tNxz0Cbbj) | 3:45 |
+| 100 | [Durar](https://open.spotify.com/track/4z0YuBEZ29pCut5HtLeQ9Z) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Durar](https://open.spotify.com/album/5WGzrCnJgloOH4uau17Aug) | 3:19 |
 
-Snapshot ID: `MCxmYjdiMmYzNTU5MTFjM2ZkZTBhZTQzNjBhZWNmZjUyNmVmMWZhOTYw`
+Snapshot ID: `MCxmMTNkMWM5NzdhOTFkMGUxMGY3YmVjYjA3Njg5YmU2Mjg4OTA2NzRj`

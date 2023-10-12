@@ -4,7 +4,7 @@
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر: <a href="https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB?si=5pOYTLVwR4uoTuzhcAmH5Q"> كريم كرستيانو </a>
 
-195 songs - 11 hr 56 min
+196 songs - 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [ريموت التلفزيون](https://open.spotify.com/track/5pRjLuLXO60pawAqCspZWD) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA), [سامر المدني](https://open.spotify.com/artist/54C1fQ9Rt2FqXgr2hd0bxJ) | [ريموت التلفزيون](https://open.spotify.com/album/0aGaB56SqGQioDn1AvxDbR) | 2:28 | 2022-10-16 | 2022-11-15 |
 | [ريموت التلفيزيون \- امسكو وانا هعمل اعمى](https://open.spotify.com/track/7DUPgXQK4NvmRrPFlVhfx2) | [احمد الدوجري](https://open.spotify.com/artist/4tPw8P1LjszW37cRa0asVA) | [ريموت التلفيزيون \(امسكو وانا هعمل اعمى\)](https://open.spotify.com/album/4ayeNoazhIEgP5drJ1Dl5P) | 3:09 | 2022-07-19 | 2023-07-20 |
 | [سلامات على ناس عملولى اخوات](https://open.spotify.com/track/4iRzMFqyNbX0xAY9iAtTic) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d), [Za3balawy](https://open.spotify.com/artist/0LNuyfLPfLYwbMvwXXqh1V) | [سلامات على ناس عملولى اخوات](https://open.spotify.com/album/1WGEKcC8jwAFoXGANK9DQn) | 4:34 | 2022-07-19 | 2023-09-06 |
+| [سيبك من اللي خلع \- من فيلم حمص وحلاوة](https://open.spotify.com/track/7ME2ZENU0G5H7IlnPbWvOv) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [سيبك من اللي خلع \(من فيلم حمص وحلاوة\)](https://open.spotify.com/album/5VVLkrKS5EIDoy3ehMbGNX) | 2:52 | 2023-10-11 |  |
 | [شارع الحياه مش هو هو \- كنت اسد بس الحسد](https://open.spotify.com/track/5uY9sxUgX1EarWZXCKdzzu) | [Karim Cristiano](https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB) | [شارع الحياه مش هو هو \(كنت اسد بس الحسد\)](https://open.spotify.com/album/5KoxyECjOwq9JjiRwxfoTZ) | 4:57 | 2023-09-25 |  |
 | [شارع الرجوله \( مساء الزفت ع العمر اللي بيعدي \)](https://open.spotify.com/track/7nN8eFZ4dgP19pUGZYEOJt) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu), [Kimo Eldeeb](https://open.spotify.com/artist/18A2yU1GvQnE6cozN5oJky) | [شارع الرجوله \( مساء الزفت ع العمر اللي بيعدي \)](https://open.spotify.com/album/2Dl54ixdiIKlln84W2uIoY) | 3:37 | 2023-01-03 | 2023-04-21 |
 | [شايف كلابش في ايدك](https://open.spotify.com/track/51iJE2VRhDZgeKvM3guDfH) | [Hamo Bika](https://open.spotify.com/artist/054D7n62qxjhkfcBZhdRSI), [Hamo ElTikha](https://open.spotify.com/artist/1j6Pf2MLM2G87CSAWK78V7) | [شايف كلابش في ايدك](https://open.spotify.com/album/4F6LwvHQ7w2aaHVBdUXYlK) | 3:42 | 2023-08-08 | 2023-09-15 |
@@ -192,7 +193,7 @@
 | [هل تعلم ان المصلحه](https://open.spotify.com/track/4dbEBMii9RAuklJe8QQu6i) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [هل تعلم ان المصلحه](https://open.spotify.com/album/08D2FBmma4ZQWHICYpqywb) | 6:20 | 2022-01-10 | 2022-07-20 |
 | [هلا انا جيت تريح يلا](https://open.spotify.com/track/17H3IfzbBDHZQsR49cCqkA) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [مودي امين](https://open.spotify.com/artist/5KyjLQ01zRYXx6wLuiM8gI) | [هلا انا جيت تريح يلا](https://open.spotify.com/album/2HaoiAQBLEzr6b7b5BQXl5) | 6:25 | 2022-07-19 | 2023-05-31 |
 | [هلا انا جيت تريح يلا](https://open.spotify.com/track/4qE4iUKv7mH6mdpsiBJSko) | [حمو الطيخا](https://open.spotify.com/artist/5ti8g7X1OG2lGsagt6GB3t), [مودي امين](https://open.spotify.com/artist/5KyjLQ01zRYXx6wLuiM8gI) | [هلا انا جيت تريح يلا](https://open.spotify.com/album/7LgRSY8OKHAGmejreFPGwz) | 6:25 | 2021-12-16 | 2022-07-29 |
-| [واخد علي خطري من الدنيا\( غصب عني \)](https://open.spotify.com/track/6YXMo6FHDrTLG0ksd9vWeP) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [واخد علي خطري من الدنيا\( غصب عني \)](https://open.spotify.com/album/2o4PSrpaRP4yvaAtB5HPL5) | 4:10 | 2023-09-05 |  |
+| [واخد علي خطري من الدنيا\( غصب عني \)](https://open.spotify.com/track/6YXMo6FHDrTLG0ksd9vWeP) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [واخد علي خطري من الدنيا\( غصب عني \)](https://open.spotify.com/album/2o4PSrpaRP4yvaAtB5HPL5) | 4:10 | 2023-09-05 | 2023-10-12 |
 | [وانت رايح كنا هناك](https://open.spotify.com/track/0lPlGW4DAFgmB9dZpRjMDX) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [وانت رايح كنا هناك](https://open.spotify.com/album/4EM3jj46AVehUD4RpTf5PB) | 3:32 | 2022-07-30 | 2022-10-17 |
 | [وسط دموع وجراح](https://open.spotify.com/track/3FdV0iO6fskyPeYnrMsKPM) | [Essam Sasa](https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu) | [وسط دموع وجراح](https://open.spotify.com/album/5QcbolYaY1VvcTKA2mvu0T) | 4:24 | 2021-12-16 | 2023-04-21 |
 | [وقوف في القلب](https://open.spotify.com/track/31zXcMW1eLrnVPWy4XpoaY) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH), [Moslem](https://open.spotify.com/artist/4Cmzjffz7uLaESQIWIs9G5) | [وقوف في القلب](https://open.spotify.com/album/3e6uGfC65QZA9A1T17Gncg) | 3:10 | 2023-04-20 | 2023-08-09 |

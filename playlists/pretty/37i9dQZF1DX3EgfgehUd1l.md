@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 
 > Vintage easy listening from the fifties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,243 likes - 80 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,287 likes - 80 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 53 | [Three Coins In The Fountain](https://open.spotify.com/track/2LnTydfDh8VOvJH7cSLqjS) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Days Of Wine And Roses, Moon River And Other Academy Award Winners](https://open.spotify.com/album/7FAo3wmrJNNzz2W5Z5ZG80) | 3:45 |
 | 54 | [Whatever Will Be, Will Be \(Que Sera, Sera\) \- Single Version](https://open.spotify.com/track/3Dnv944x31XU4FFMlkfnWN) | [Doris Day](https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6) | [16 Most Requested Songs](https://open.spotify.com/album/4ZtM1Q25o7B11vrYKbOF0m) | 2:04 |
 | 55 | [Dreamboat](https://open.spotify.com/track/5KpECOf7hoR234q8fJcphk) | [Alma Cogan](https://open.spotify.com/artist/0oGo1uX2IixGBLb3fsiVnK) | [The Magic Of Alma Cogan](https://open.spotify.com/album/0QHQ3Jya66uxgdTG9DM2e5) | 1:47 |
-| 56 | [Don't Forbid Me](https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Gold Collection](https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i) | 2:17 |
-| 57 | [Love Me Forever](https://open.spotify.com/track/3jtuTk2DS22xjOEJbbkTjC) | [Marion Ryan](https://open.spotify.com/artist/3i3CrQSW3chMBUDavwXUQe) | [Presenting Marion Ryan](https://open.spotify.com/album/07J0yWEzGdx2ElM6p4iP9D) | 2:55 |
+| 56 | [Love Me Forever](https://open.spotify.com/track/3jtuTk2DS22xjOEJbbkTjC) | [Marion Ryan](https://open.spotify.com/artist/3i3CrQSW3chMBUDavwXUQe) | [Presenting Marion Ryan](https://open.spotify.com/album/07J0yWEzGdx2ElM6p4iP9D) | 2:55 |
+| 57 | [Don't Forbid Me](https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [The Gold Collection](https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i) | 2:17 |
 | 58 | [Walkin' My Baby Back Home](https://open.spotify.com/track/6JUygdnYt24lSMdXqlfSCt) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:20 |
 | 59 | [\(Love Is\) The Tender Trap](https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Frank Sinatra: The Complete Capitol Singles Collection](https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB) | 2:57 |
 | 60 | [Someday \(You'll Want Me To Want You\) \- Remastered](https://open.spotify.com/track/6ew1MCEKObxl8HbkdszmzP) | [Ricky Nelson](https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS) | [Ricky Nelson \(Expanded Edition / Remastered\)](https://open.spotify.com/album/08TlIPCh7esOAnqBvlmkEt) | 2:51 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3EgfgehUd1l.md) - [plain]
 | 75 | [Band of Gold \(with Ray Conniff & His Orchestra & Chorus\)](https://open.spotify.com/track/1cn68NZRQSnergWSf1o1hd) | [Don Cherry](https://open.spotify.com/artist/3uOUFs61rANc8dETV3OfID), [Ray Conniff](https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv) | [The Best of Don Cherry](https://open.spotify.com/album/0hmtoNydN3gGXdxhts4Zf4) | 2:35 |
 | 76 | [April Love](https://open.spotify.com/track/5dC8EKphA0ffPseGxT3xFE) | [Pat Boone](https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu) | [Pat Boone Sings](https://open.spotify.com/album/0vdjMYJN23OwAzxkG1mSvW) | 2:43 |
 | 77 | [My Special Angel](https://open.spotify.com/track/3NaKs6Dv0bPR3626ZnQ1Fx) | [Malcolm Vaughan](https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA) | [The Welsh Tenor](https://open.spotify.com/album/6JGE30arieUuj9yMlmWGxU) | 2:46 |
-| 78 | [Hey There \- from The "Pajama Game"](https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:52 |
-| 79 | [Rose Marie](https://open.spotify.com/track/0DRw1YzAejMK8Qv2MAPzJl) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Country Style](https://open.spotify.com/album/5e0v4FN49fj8gSgqSNMfal) | 2:24 |
+| 78 | [Rose Marie](https://open.spotify.com/track/0DRw1YzAejMK8Qv2MAPzJl) | [Slim Whitman](https://open.spotify.com/artist/5bO7gAKKIwHwhxdsCR1UN0) | [Country Style](https://open.spotify.com/album/5e0v4FN49fj8gSgqSNMfal) | 2:24 |
+| 79 | [Hey There \- from The "Pajama Game"](https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN) | [Johnnie Ray](https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq) | [16 Most Requested Songs](https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM) | 2:52 |
 | 80 | [Cindy Oh Cindy](https://open.spotify.com/track/7AvyAuG888oz51hEWEXkv5) | [Eddie Fisher](https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX) | [Presenting Eddie Fisher](https://open.spotify.com/album/4ovVdpqVKmgKzzcU4ZERS3) | 3:00 |
 
-Snapshot ID: `MCxiMjIzNjE0ZjkyNzI2N2M2MmVlYzQ3NmExMzQ2MzQ3MjhmYTI5Nzk4`
+Snapshot ID: `MCxhNDNkY2E4MGY1Njg0ZjMyYTQyMDExNjE1MDAxNGVmN2FhOGE0ZTRk`

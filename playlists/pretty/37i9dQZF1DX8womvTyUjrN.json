@@ -1,12 +1,12 @@
 {
   "description": "Fresh Latin pop on the rise. Cover: Leon Leiden & Juliana",
-  "num_followers": 285675,
+  "num_followers": 285273,
   "original_name": "el nuevo pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYWU2N2JjYmU1M2M3NzQ3NzM4ZDhiZGY2NWZlZGZlNDgzNDc3ZTkz",
+  "snapshot_id": "MCwyYzViOWQzMmYyYTM3ZjA5YmExMDZlMDE4YTAyMDAxZjY1ZjU4NGM4",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -711,6 +711,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "cielo violeta",
+        "url": "https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK"
+      },
+      "artists": [
+        {
+          "name": "Leo Rizzi",
+          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "cielo violeta",
+      "url": "https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "B\u00f3rrame",
         "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 173226,
       "name": "B\u00f3rrame",
       "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "cielo violeta",
-        "url": "https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK"
-      },
-      "artists": [
-        {
-          "name": "Leo Rizzi",
-          "url": "https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "cielo violeta",
-      "url": "https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW"
     },
     {
       "added_at": "2023-10-06 04:00:00",

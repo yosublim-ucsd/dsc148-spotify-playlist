@@ -1,12 +1,12 @@
 {
   "description": "Su\u00e9ltala que ella baila sola. <a href=https://spotify.com/descubretuflow>Descubre tu Flow</a>  ",
-  "num_followers": 590593,
+  "num_followers": 590179,
   "original_name": "Con B de Bichota",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOGQ5Y2IxNjY4ZmVlZDA1NDMwNjc3ZmUzNDE4ZmFhN2VhYTRlZWI0",
+  "snapshot_id": "MCw0YTQxOGM1NTQwZmI0ZGQ0ZWZmNzUwNWYxODUwZmMyMjE0NTE5NTc0",
   "tracks": [
     {
       "added_at": "2023-07-28 18:06:51",
@@ -467,26 +467,6 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        },
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "LA COMBI VERSACE",
-      "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
         "name": "Ella No Es Tuya (Remix)",
         "url": "https://open.spotify.com/album/5Jk2ROWL8a4RxmFNiT8pvA"
       },
@@ -507,6 +487,26 @@
       "duration_ms": 218106,
       "name": "Ella No Es Tuya - Remix",
       "url": "https://open.spotify.com/track/5YYW3yRktprLRr47WK219Y"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "LA COMBI VERSACE",
+      "url": "https://open.spotify.com/track/5gCNf9wMVrYuM2fvfgLTlF"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -631,18 +631,26 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "MOTOMAMI",
-        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+        "name": "Quieres",
+        "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        },
+        {
+          "name": "Ptazeta",
+          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
         }
       ],
-      "duration_ms": 137533,
-      "name": "SAOKO",
-      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
+      "duration_ms": 213666,
+      "name": "Quieres",
+      "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -683,26 +691,18 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Quieres",
-        "url": "https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc"
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
       },
       "artists": [
         {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Ptazeta",
-          "url": "https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         }
       ],
-      "duration_ms": 213666,
-      "name": "Quieres",
-      "url": "https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt"
+      "duration_ms": 137533,
+      "name": "SAOKO",
+      "url": "https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -783,22 +783,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "MOTOMAMI +",
-        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
+        "name": "DISCOTEKA",
+        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
       },
       "artists": [
         {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
         },
         {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
         }
       ],
-      "duration_ms": 204654,
-      "name": "CANDY - Remix",
-      "url": "https://open.spotify.com/track/3VjCEyc0bHfa4Ie34kbWyb"
+      "duration_ms": 174801,
+      "name": "DISCOTEKA",
+      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -827,22 +827,22 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "DISCOTEKA",
-        "url": "https://open.spotify.com/album/0XJBQZQTh3OZCt5ACMtEAs"
+        "name": "MOTOMAMI +",
+        "url": "https://open.spotify.com/album/3zbiiu3JTibw0esC7eoMXr"
       },
       "artists": [
         {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
         },
         {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 174801,
-      "name": "DISCOTEKA",
-      "url": "https://open.spotify.com/track/4NkJeL16uUJJJFuZPvR1DC"
+      "duration_ms": 204654,
+      "name": "CANDY - Remix",
+      "url": "https://open.spotify.com/track/3VjCEyc0bHfa4Ie34kbWyb"
     },
     {
       "added_at": "2023-07-28 18:06:51",
@@ -899,42 +899,6 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Traidora",
-        "url": "https://open.spotify.com/album/3cIZmX40NwdOB8snHeuKIi"
-      },
-      "artists": [
-        {
-          "name": "La Joaqui",
-          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
-        },
-        {
-          "name": "DJ Alex",
-          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
-        }
-      ],
-      "duration_ms": 136000,
-      "name": "Traidora",
-      "url": "https://open.spotify.com/track/3o6dbeyOY537ZCo6mQfyzp"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 155380,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
-    },
-    {
-      "added_at": "2023-07-28 18:06:51",
-      "album": {
         "name": "Cazzu: Bzrp Music Sessions, Vol. 32",
         "url": "https://open.spotify.com/album/0zNLQbLwk1g9C4Ic5hnme2"
       },
@@ -955,26 +919,54 @@
     {
       "added_at": "2023-07-28 18:06:51",
       "album": {
-        "name": "Condado",
-        "url": "https://open.spotify.com/album/5JcLIpNJRiSXihxPTkY1DD"
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O"
       },
       "artists": [
         {
-          "name": "Chris Jedi",
-          "url": "https://open.spotify.com/artist/0qTZZWLzuD59Un5r1speHm"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Lunay",
-          "url": "https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 232813,
-      "name": "Condado",
-      "url": "https://open.spotify.com/track/4C8QCrEqxlZ6esLR2Ws3Qh"
+      "duration_ms": 155380,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "Traidora",
+        "url": "https://open.spotify.com/album/3cIZmX40NwdOB8snHeuKIi"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "DJ Alex",
+          "url": "https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Traidora",
+      "url": "https://open.spotify.com/track/3o6dbeyOY537ZCo6mQfyzp"
+    },
+    {
+      "added_at": "2023-07-28 18:06:51",
+      "album": {
+        "name": "MOTOMAMI",
+        "url": "https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 122226,
+      "name": "CHICKEN TERIYAKI",
+      "url": "https://open.spotify.com/track/6hH6QJ9ZAO0Z6m7PfvLoXW"
     }
   ],
   "unique_name": "Con B de Bichota",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 
 > Svensk jazz när den är som bäst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,060 likes - 133 songs - 10 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,064 likes - 133 songs - 10 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,4 +142,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4roJ565TJ33.md) - [plain]
 | 132 | [Little Green Apples](https://open.spotify.com/track/1Fq5zGO9szoi1qhmAmedbT) | [Merit Hemmingson](https://open.spotify.com/artist/5xoFJP7qzaMcSAghFZXI4a) | [Merit!](https://open.spotify.com/album/4vXz5HHVIzciTPmFRaTXSi) | 4:22 |
 | 133 | [The Midnight Sun Never Sets](https://open.spotify.com/track/2CcK7rb2RWa3KU6zd4kfDE) | [Arne Domnérus](https://open.spotify.com/artist/1ouwdRCWsw9IBhPoDMrhFv) | [Guldkorn](https://open.spotify.com/album/6eFrMXMf8qQGGyZFSQill8) | 4:08 |
 
-Snapshot ID: `MCwzMmQ2ZGRkNjdiMWE0M2FlNGZjYjQ0MzY2ZGUzMWFlOWNiOTM3Njdl`
+Snapshot ID: `MCw2ZDBhOGI3OWMyMDM5MjFiNTI0NDMyZjg1YmMyMTQ1NjMzOTM3MDM4`

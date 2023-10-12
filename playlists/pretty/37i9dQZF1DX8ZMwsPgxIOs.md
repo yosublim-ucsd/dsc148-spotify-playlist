@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Rebūke
 
-[Spotify](https://open.spotify.com/user/spotify) - 114,322 likes - 70 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 114,363 likes - 70 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 44 | [The Limit](https://open.spotify.com/track/2Rd7hUQ3nTMgev8TfihesD) | [TIBASKO](https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo) | [Tibasko](https://open.spotify.com/album/6a4OdRazOujmG1m8ZiHVod) | 2:53 |
 | 45 | [Brunt](https://open.spotify.com/track/6lXm60fg9Nh0mJONXKTvxv) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC) | [Brunt](https://open.spotify.com/album/3SY8NzLDUQuQFbRuezNpzY) | 6:30 |
 | 46 | [HEY DJ](https://open.spotify.com/track/7qFvhLqCeIn0DzuaSOiesv) | [Marco Faraone](https://open.spotify.com/artist/00IUMN7pWAU2jYWcdOt5c3) | [HEY DJ](https://open.spotify.com/album/1aISciPEedMIeuaLiarVIL) | 6:51 |
-| 47 | [Escape](https://open.spotify.com/track/1ddH3uRnJ2MCcAC2HzoDeI) | [Artche](https://open.spotify.com/artist/75urDDpUkt0jMdQgVx3XFV), [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Escape](https://open.spotify.com/album/0hJYEV2KnUi2QH2WrtOoUF) | 4:23 |
+| 47 | [Escape](https://open.spotify.com/track/6lGb5bcwjsolNsvp55DXmT) | [Artche](https://open.spotify.com/artist/4AiZ03mzMP6HYs4FKGIHUP), [OC & Verde](https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc) | [Escape](https://open.spotify.com/album/00CETdyuoeWPV0ElHt8umH) | 4:23 |
 | 48 | [Still Flowing Water \- Edit](https://open.spotify.com/track/6rSIyjJakGuPx7DL1GoMan) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE) | [Fuzzy Logic / Still Flowing Water](https://open.spotify.com/album/5aP5JuYG4xOpdRU7MTOloL) | 3:30 |
 | 49 | [Lotus](https://open.spotify.com/track/5I5IM7X9IILbuPoYonLKfv) | [Alan Fitzpatrick](https://open.spotify.com/artist/40JyDxGqtYSowWYT2jaive), [Reset Robot](https://open.spotify.com/artist/7hmPLllWGkE1X101Wv4vb3) | [Lotus](https://open.spotify.com/album/4efymwZTnjpIXStNWWdCJ8) | 4:32 |
 | 50 | [See the Sun Rising](https://open.spotify.com/track/0wFXUI6pRUNLdhQYwwPykg) | [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS), [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [See the Sun Rising](https://open.spotify.com/album/0iFK2SVtTRzTLgU1fRiTQm) | 4:07 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 69 | [Cruising In My Herse](https://open.spotify.com/track/5NoVq4jZJkdVMvRlWFCEMk) | [Alt8](https://open.spotify.com/artist/7uS4z6GqvIIdZbVq327Ak9) | [Cruising In My Herse](https://open.spotify.com/album/7pzQwVl5jIciRHLLg9hmeQ) | 5:35 |
 | 70 | [Eternity Of Echoes](https://open.spotify.com/track/0NXejdY0rXJfMkocRP1osb) | [Shiken Hanzo](https://open.spotify.com/artist/3lttA5nBNjUeWtLqvOnncr) | [Eternity Of Echoes](https://open.spotify.com/album/4b41tw2qshMUH0F5H6m485) | 5:18 |
 
-Snapshot ID: `MCw3Yzk4ZTkyOGVmNDRiZmRjNTk5NTIxNDZkYTc1OWZjOTQ3YWE0NzE0`
+Snapshot ID: `MCw1YTM4NDVlM2VhOTc3OGIzODg0OGY4YWI4OTY4NGZhNGM2NGE3M2Fk`

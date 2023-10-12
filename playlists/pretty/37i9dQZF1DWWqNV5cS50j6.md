@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 
 > Not NOT pop\. Cover: ericdoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 696,718 likes - 77 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,488 likes - 77 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 8 | [The Gods Must Be Crazy](https://open.spotify.com/track/62ir3CludVLlbrXk6AOlGg) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl) | [The Gods Must Be Crazy](https://open.spotify.com/album/5isDMdPrvufHyLyO8E4Hr1) | 3:00 |
 | 9 | [Johnny johnny johnny](https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Wallsocket](https://open.spotify.com/album/6exrhkZKAwCGoihIZDJnpv) | 4:05 |
 | 10 | [candyflips!](https://open.spotify.com/track/2ciSvEYA4En6vwZpG2cuJn) | [347aidan](https://open.spotify.com/artist/0bBz5bRBkExaej2HxtVfCw) | [I feel like doing candy flips and riding elephants](https://open.spotify.com/album/5I2FczytVYgNEy9MZnW7V8) | 2:28 |
-| 11 | [Fairweather Friends](https://open.spotify.com/track/3VMK6tAjOT4INvBdZOtB9J) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Fairweather Friends](https://open.spotify.com/album/0Lgte4FZ2oPj12uHFYWCQn) | 1:34 |
+| 11 | [Fairweather Friends](https://open.spotify.com/track/05tQzyLaod9RqjabafQYKv) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 1:34 |
 | 12 | [the Rake \(can’t complain\)](https://open.spotify.com/track/4wXMa4oleu4CaD06V7zEyG) | [Riovaz](https://open.spotify.com/artist/1bhZt10yZVCJfp3HaNxJv8) | [the Rake \(can’t complain\)](https://open.spotify.com/album/15uH3yROMIfOmC3UZKwtVF) | 3:01 |
 | 13 | [www she hot](https://open.spotify.com/track/5Lc05me0Kv47r0PTMkPqtH) | [UCHE YARA](https://open.spotify.com/artist/2yOJnAGg41NV4aech301xj) | [www she hot](https://open.spotify.com/album/1gOGatI2LhhVtiMpAspFFm) | 4:14 |
 | 14 | [Blurt](https://open.spotify.com/track/1R5PPI1YJ9q37BGemZDemd) | [GOM](https://open.spotify.com/artist/24GmnVmCcz5n4Z5tPxeMKu) | [Blurt](https://open.spotify.com/album/4iM2ECj6UkJ3sUwcnofnOF) | 2:13 |
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWqNV5cS50j6.md) - [plain]
 | 76 | [taste of u](https://open.spotify.com/track/4zqZ7hR4Pl3UT0p19En1ib) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [taste of u](https://open.spotify.com/album/4vcCvZbL5AMFcKdTKDmXco) | 2:59 |
 | 77 | [Dizzy Vision](https://open.spotify.com/track/20LTZsoVpBQsbbwkgY9YPb) | [Dev Lemons](https://open.spotify.com/artist/5zbFRbEu3FDkqN4j1awLLO) | [Dizzy Vision](https://open.spotify.com/album/2XOFL54zsynsBPicRY3dnX) | 2:47 |
 
-Snapshot ID: `MCxlOWEzNDJkYzIwNjJiM2RkNDE4MjEzMTZhM2YwMTA0NThkYzYxMzEx`
+Snapshot ID: `MCxjMzJiMTNiNGE3NTUwODMzYTdlMDg3MGUxZTEwYTNjYWEwZDM1YWRk`

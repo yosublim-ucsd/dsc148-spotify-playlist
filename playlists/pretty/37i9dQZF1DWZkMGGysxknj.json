@@ -1,12 +1,12 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 816674,
+  "num_followers": 814956,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZDliNWQ2YWJkZmQ5ZjhkYTdjN2E1ODE1ODc0YzU1YWE2YWE5YWRh",
+  "snapshot_id": "MCwxMzM5NzhiZGUxZDMwNDllYTU5YjU2YWVhYjNhZWQ3OTJiNGUyZmIw",
   "tracks": [
     {
       "added_at": "2023-06-09 14:25:05",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "I Know a Place",
-        "url": "https://open.spotify.com/album/4QpxAjaWDtNgxf6XtxWUsA"
+        "name": "Sorry",
+        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
       },
       "artists": [
         {
-          "name": "Chevy",
-          "url": "https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc"
+          "name": "Colin & Caroline",
+          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
         }
       ],
-      "duration_ms": 129000,
-      "name": "I Know a Place",
-      "url": "https://open.spotify.com/track/3HopXEwE96WWXPP4OK78wW"
+      "duration_ms": 165697,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
     },
     {
       "added_at": "2023-06-16 00:58:30",
@@ -435,18 +435,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Sorry",
-        "url": "https://open.spotify.com/album/31diGOFeZtxZsqtjuoVA1U"
+        "name": "I Know a Place",
+        "url": "https://open.spotify.com/album/4QpxAjaWDtNgxf6XtxWUsA"
       },
       "artists": [
         {
-          "name": "Colin & Caroline",
-          "url": "https://open.spotify.com/artist/2Y4125mDrgQyPD7dt76Rtm"
+          "name": "Chevy",
+          "url": "https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc"
         }
       ],
-      "duration_ms": 165697,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/33yoaqSxzegWds8I1nZGtJ"
+      "duration_ms": 129000,
+      "name": "I Know a Place",
+      "url": "https://open.spotify.com/track/3HopXEwE96WWXPP4OK78wW"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -651,22 +651,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Starboy (Acoustic)",
-        "url": "https://open.spotify.com/album/5Bh0yujzOhMqly3ONkprWR"
-      },
-      "artists": [
-        {
-          "name": "Simon Samaeng",
-          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
-        }
-      ],
-      "duration_ms": 225790,
-      "name": "Starboy - Acoustic",
-      "url": "https://open.spotify.com/track/2QoyYV4YAuw9T9UgsDoam2"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "drivers license",
         "url": "https://open.spotify.com/album/4YhRWYWS8ntXFgQwvEIUrB"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 246345,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/66V40iz2mphPbYvuJVj13i"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Starboy (Acoustic)",
+        "url": "https://open.spotify.com/album/5Bh0yujzOhMqly3ONkprWR"
+      },
+      "artists": [
+        {
+          "name": "Simon Samaeng",
+          "url": "https://open.spotify.com/artist/7n4yZSvg16XY22sxvZzKfw"
+        }
+      ],
+      "duration_ms": 225790,
+      "name": "Starboy - Acoustic",
+      "url": "https://open.spotify.com/track/2QoyYV4YAuw9T9UgsDoam2"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
-      },
-      "artists": [
-        {
-          "name": "Iron & Wine",
-          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
-        }
-      ],
-      "duration_ms": 235579,
-      "name": "What I Am - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Lose You To Love Me (Acoustic)",
         "url": "https://open.spotify.com/album/2XSfHxWumH0W3sER4WhEgd"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 254871,
       "name": "Lose You To Love Me - Acoustic",
       "url": "https://open.spotify.com/track/4jsg0MoCQJRW8A3UQEUseR"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5biFYkYP5v0k9OavG4CCoK"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 235579,
+      "name": "What I Am - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/6EjU3Hev5VZZmpPjoyNZVX"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/3dS1DCljr8LjIweYoUhbgB"
-      },
-      "artists": [
-        {
-          "name": "Dan Berk",
-          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
-        }
-      ],
-      "duration_ms": 198712,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4ptDJbJl35d7gQfeNteBwp"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "You Get What You Give",
         "url": "https://open.spotify.com/album/7eAjW0akqpFZc14QeBj4Gd"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 173250,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/3dS1DCljr8LjIweYoUhbgB"
+      },
+      "artists": [
+        {
+          "name": "Dan Berk",
+          "url": "https://open.spotify.com/artist/2kfmnXYxa9yh0RkUBPjSwZ"
+        }
+      ],
+      "duration_ms": 198712,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4ptDJbJl35d7gQfeNteBwp"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Quien Tengo Que Ser",
+        "url": "https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 267640,
+      "name": "Quien Tengo Que Ser",
+      "url": "https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "I Know (feat. Fiona Apple) [RISE Recording]",
         "url": "https://open.spotify.com/album/476o5Va5ObJpc2u0Jwn19z"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 299613,
       "name": "I Know (feat. Fiona Apple) - RISE Recording",
       "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Quien Tengo Que Ser",
-        "url": "https://open.spotify.com/album/6FzOZzp39ZFnLvVQBUY3jn"
-      },
-      "artists": [
-        {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
-        }
-      ],
-      "duration_ms": 267640,
-      "name": "Quien Tengo Que Ser",
-      "url": "https://open.spotify.com/track/0kdB2mZ8GVyi94dp2KGJvS"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Voy A Apagar La Luz",
-        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
-      },
-      "artists": [
-        {
-          "name": "Los Amores Recientes",
-          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
-        }
-      ],
-      "duration_ms": 143848,
-      "name": "Voy A Apagar La Luz",
-      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Heather",
         "url": "https://open.spotify.com/album/79Dfqa8MfZI5x3mH5uBkA6"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 198007,
       "name": "Heather - Acoustic",
       "url": "https://open.spotify.com/track/1J7KtoM0AB2Slp1pK9USJS"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Voy A Apagar La Luz",
+        "url": "https://open.spotify.com/album/7BszH6X5fEBsgNVXXvltvu"
+      },
+      "artists": [
+        {
+          "name": "Los Amores Recientes",
+          "url": "https://open.spotify.com/artist/4gGcw7smf466EwjJwxp9VG"
+        }
+      ],
+      "duration_ms": 143848,
+      "name": "Voy A Apagar La Luz",
+      "url": "https://open.spotify.com/track/40duIz5ZiOGr9tjiGHQw80"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs"
       },
@@ -1727,38 +1743,6 @@
       "duration_ms": 145075,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/67Mij0TZUmIB9ZmjkZXtN8"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Dancing With A Stranger",
-        "url": "https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 188735,
-      "name": "Dancing With A Stranger",
-      "url": "https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Claroscuro",
-        "url": "https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9"
-      },
-      "artists": [
-        {
-          "name": "Juana Aguirre",
-          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
-        }
-      ],
-      "duration_ms": 130470,
-      "name": "Configuraciones Onduladas",
-      "url": "https://open.spotify.com/track/6mCEdL597Bus5O4rTAkRDg"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1783,6 +1767,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Claroscuro",
+        "url": "https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9"
+      },
+      "artists": [
+        {
+          "name": "Juana Aguirre",
+          "url": "https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2"
+        }
+      ],
+      "duration_ms": 130470,
+      "name": "Configuraciones Onduladas",
+      "url": "https://open.spotify.com/track/6mCEdL597Bus5O4rTAkRDg"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Counting Stars",
         "url": "https://open.spotify.com/album/4tNdh8helciHTVRaG9MzNw"
       },
@@ -1799,6 +1799,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Dancing With A Stranger",
+        "url": "https://open.spotify.com/album/40D54vrfgQGY9z8e5OtvLd"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 188735,
+      "name": "Dancing With A Stranger",
+      "url": "https://open.spotify.com/track/6YOOCjjIb0pBZXbJjYgUlP"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Cabeza de le\u00f3n",
         "url": "https://open.spotify.com/album/1aRlf7ZVIT5L7MwciHcS8J"
       },
@@ -1811,22 +1827,6 @@
       "duration_ms": 154628,
       "name": "Correcto",
       "url": "https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Havana",
-        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
-      },
-      "artists": [
-        {
-          "name": "LHITNEY",
-          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
-        }
-      ],
-      "duration_ms": 185446,
-      "name": "Havana",
-      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Los Feliz",
         "url": "https://open.spotify.com/album/0NpSYwkF7F7jrbfH1fUDaP"
       },
@@ -1903,6 +1887,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Havana",
+        "url": "https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp"
+      },
+      "artists": [
+        {
+          "name": "LHITNEY",
+          "url": "https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog"
+        }
+      ],
+      "duration_ms": 185446,
+      "name": "Havana",
+      "url": "https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Hearts",
         "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
       },
@@ -1915,22 +1915,6 @@
       "duration_ms": 170571,
       "name": "Hearts",
       "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "We Saw Blue",
-        "url": "https://open.spotify.com/album/7chq6VXsRNWMf5s5SH2z9T"
-      },
-      "artists": [
-        {
-          "name": "Ley Line",
-          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
-        }
-      ],
-      "duration_ms": 183502,
-      "name": "Ciranda",
-      "url": "https://open.spotify.com/track/7swEWuNhJedU3DdNyXVCLJ"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1951,18 +1935,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Local Valley",
-        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+        "name": "We Saw Blue",
+        "url": "https://open.spotify.com/album/7chq6VXsRNWMf5s5SH2z9T"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+          "name": "Ley Line",
+          "url": "https://open.spotify.com/artist/4vPbKW4M6Q3kvz8kUBuXrX"
         }
       ],
-      "duration_ms": 235773,
-      "name": "Visions",
-      "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
+      "duration_ms": 183502,
+      "name": "Ciranda",
+      "url": "https://open.spotify.com/track/7swEWuNhJedU3DdNyXVCLJ"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1983,22 +1967,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 274040,
-      "name": "Shadow Captain",
-      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "One Kiss",
         "url": "https://open.spotify.com/album/4aGUFwXZaiK0iXxC5lSCll"
       },
@@ -2011,6 +1979,38 @@
       "duration_ms": 160678,
       "name": "One Kiss",
       "url": "https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Local Valley",
+        "url": "https://open.spotify.com/album/6FtOADddclxzVHrpqCe79m"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI"
+        }
+      ],
+      "duration_ms": 235773,
+      "name": "Visions",
+      "url": "https://open.spotify.com/track/3jJL66ZyGqky4smfnWZr9I"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 274040,
+      "name": "Shadow Captain",
+      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "If I Can't Have You",
-        "url": "https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Silva",
-          "url": "https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb"
-        }
-      ],
-      "duration_ms": 242776,
-      "name": "If I Can't Have You",
-      "url": "https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Ransom",
         "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 176548,
       "name": "Terrace Rain",
       "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "If I Can't Have You",
+        "url": "https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Silva",
+          "url": "https://open.spotify.com/artist/4yjMLpy60dZKf0teUyRNmb"
+        }
+      ],
+      "duration_ms": 242776,
+      "name": "If I Can't Have You",
+      "url": "https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Ay, Amor",
-        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 213041,
-      "name": "Ay, Amor \u2665\ufe0e",
-      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Giant",
         "url": "https://open.spotify.com/album/4kYVsOEw017rNxlcMscLak"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 179510,
       "name": "Giant",
       "url": "https://open.spotify.com/track/1ir0M7NQAr7r5mLit1xUq3"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Ay, Amor",
+        "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
+      },
+      "artists": [
+        {
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
+        }
+      ],
+      "duration_ms": 213041,
+      "name": "Ay, Amor \u2665\ufe0e",
+      "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
     },
     {
       "added_at": "2023-06-09 14:25:05",

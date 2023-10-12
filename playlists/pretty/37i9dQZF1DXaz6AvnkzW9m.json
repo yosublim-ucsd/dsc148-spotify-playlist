@@ -1,12 +1,12 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 HERNAN TREJO en portada.",
-  "num_followers": 105493,
+  "num_followers": 105676,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWZhYWYxYjcwZjJiMDU2ZWY3ZWM3OGQ0OTk0NTk3NjdkZWZkYjA2",
+  "snapshot_id": "MCxjOGE4YzhiMjQ1NTBkNmExZjVmMGY5Y2JhZDk4MzYyM2MwOTg0YTcz",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -595,8 +595,8 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Siempre Pendientes",
-        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
+        "name": "G\u00c9NESIS",
+        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
       "artists": [
         {
@@ -604,13 +604,13 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
         }
       ],
-      "duration_ms": 186828,
-      "name": "Siempre Pendientes",
-      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
+      "duration_ms": 153031,
+      "name": "LA PEOPLE",
+      "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -763,8 +763,8 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "G\u00c9NESIS",
-        "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
+        "name": "Siempre Pendientes",
+        "url": "https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN"
       },
       "artists": [
         {
@@ -772,13 +772,13 @@
           "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         },
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 153031,
-      "name": "LA PEOPLE",
-      "url": "https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx"
+      "duration_ms": 186828,
+      "name": "Siempre Pendientes",
+      "url": "https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Ni\u00f1o De Oro (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz"
-      },
-      "artists": [
-        {
-          "name": "Hadrian",
-          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
-        }
-      ],
-      "duration_ms": 176480,
-      "name": "Ni\u00f1o De Oro",
-      "url": "https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Malo Es No Hacer Billete",
         "url": "https://open.spotify.com/album/1cyMKWjSIl6fL1hQg67QIJ"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 169805,
       "name": "Malo Es No Hacer Billete",
       "url": "https://open.spotify.com/track/1qokziiqQTfZyXdroK13rP"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Ni\u00f1o De Oro (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7e47cka7yBWYWNhcFjixcz"
+      },
+      "artists": [
+        {
+          "name": "Hadrian",
+          "url": "https://open.spotify.com/artist/2F9icYS5KP4Td9nbxIjo9q"
+        }
+      ],
+      "duration_ms": 176480,
+      "name": "Ni\u00f1o De Oro",
+      "url": "https://open.spotify.com/track/14kvemCUeClwApvM2xl4eb"
     },
     {
       "added_at": "2023-10-06 06:00:00",

@@ -4,7 +4,7 @@
 
 > Hindi hai, Indie hai! Cover\- Anubha Bajaj
 
-127 songs - 7 hr 3 min
+128 songs - 7 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Jaane Hi Do](https://open.spotify.com/track/1YrRmCUVEWBoPZs36lu9aY) | [Anubha Bajaj](https://open.spotify.com/artist/1jR0u53xF6iccwKAu9SD3H) | [Jaane Hi Do](https://open.spotify.com/album/306vnG2hFC4xQhmilaKKtZ) | 2:11 | 2023-10-06 |  |
 | [jaaye na tu](https://open.spotify.com/track/6dCpB0vj7xrBMyOH0mDuNN) | [Zaeden](https://open.spotify.com/artist/5lMNphVhMLvhFmTWiKiLA2), [Nishu](https://open.spotify.com/artist/0BoaYtrYdoKJ4khvk3KRJJ) | [Genesis 1:1](https://open.spotify.com/album/2YhSRDucqtADBF45V9Ak9f) | 2:23 | 2023-05-02 | 2023-05-23 |
 | [Jadoo](https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06) | [Akshath](https://open.spotify.com/artist/35XjIi7RK4ckjgBrE6CcQo) | [Jadoo](https://open.spotify.com/album/4rgE2Rxo1YshL8GlEJNNL1) | 3:10 | 2023-05-02 |  |
+| [Jogiya](https://open.spotify.com/track/7MU4WVkk08iWn61vLxGU9C) | [Santanu Ghatak](https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF), [Chandreyee Bhattacharya](https://open.spotify.com/artist/3mH3uFlFhSCBJ9iJRrTtxy), [Nilanjan Samadder](https://open.spotify.com/artist/534gzAUm9B9d5jFkWR0y4A) | [Jogiya](https://open.spotify.com/album/3HDp3VjwowVEIkWkVpP15W) | 3:16 | 2023-10-11 |  |
 | [Kabhi Kabhi](https://open.spotify.com/track/2D67rL8nrEWiLug7w2Q6nh) | [Anumita Nadesan](https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ) | [Kabhi Kabhi](https://open.spotify.com/album/4z793Z8t0qUdwercwEUK1M) | 3:34 | 2023-05-02 | 2023-07-05 |
 | [Kachha Ghada](https://open.spotify.com/track/56ShzRBsODyylHvxsMycO1) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Kachha Ghada](https://open.spotify.com/album/6KTVUqA1LVgnR5V2LmdeBK) | 4:03 | 2023-07-12 |  |
 | [Kahaani](https://open.spotify.com/track/0lbe1bIqb5rR1czdQP6fTK) | [Dream Note](https://open.spotify.com/artist/4o0mCeiUIVdknPUMhpO0bd) | [Kahaani](https://open.spotify.com/album/1MnbaNHLBduuqDZwU0uWTU) | 3:08 | 2023-05-02 |  |
@@ -85,7 +86,7 @@
 | [Meri Baaton Mein Tu](https://open.spotify.com/track/5nTbPFqLKmQdIg1SD8KgG4) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Meri Baaton Mein Tu](https://open.spotify.com/album/4L79tNWi1gfRrbuzW0Vwfn) | 3:33 | 2023-05-02 |  |
 | [Meri Banogi Kya](https://open.spotify.com/track/6gprR0rGv59wALbBU7yZkl) | [Rito Riba](https://open.spotify.com/artist/63QHbwCDdJ50C72D4ojeo1), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Meri Banogi Kya](https://open.spotify.com/album/0cpuLQbNPdQtnKsjbu6NsW) | 3:35 | 2023-05-02 |  |
 | [Mocaccino](https://open.spotify.com/track/0PWzSjfce4Sqn9sA7FT9CU) | [Aditya A](https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw) | [Mocaccino](https://open.spotify.com/album/2I0Y2c7G4Xw8HP7FRVSUbp) | 2:34 | 2023-05-26 | 2023-06-02 |
-| [Mohabbat Ki Wajah](https://open.spotify.com/track/0PJUFbBllJfXujgJ2jGaH0) | [Samira Koppikar](https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e) | [Mohabbat Ki Wajah](https://open.spotify.com/album/2oOAR917b5ltiwVngOXmz2) | 3:27 | 2023-10-04 |  |
+| [Mohabbat Ki Wajah](https://open.spotify.com/track/0PJUFbBllJfXujgJ2jGaH0) | [Samira Koppikar](https://open.spotify.com/artist/4u3Da1oOLaZawlwHqhDV9e) | [Mohabbat Ki Wajah](https://open.spotify.com/album/2oOAR917b5ltiwVngOXmz2) | 3:27 | 2023-10-04 | 2023-10-12 |
 | [Mujhe Mere Naam Se](https://open.spotify.com/track/3QaIy5RwASN8UuRVuw5BHz) | [The Yellow Diary](https://open.spotify.com/artist/6xlrAAgxcRlgCXnbg2hcFc) | [Mujhe Mere Naam Se](https://open.spotify.com/album/6KGAJk0rHos4UNZErML5Ap) | 3:43 | 2023-05-02 | 2023-08-05 |
 | [Mulaqat](https://open.spotify.com/track/7uZLUFqPgGqwzD5rzOl8Sa) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Mulaqat](https://open.spotify.com/album/2LBQG9vBtXEL7RD4FUTJTa) | 4:06 | 2023-10-03 |  |
 | [Muskan](https://open.spotify.com/track/16ZcfVSuCcBDdlpvmEIA1i) | [Dikshant](https://open.spotify.com/artist/0kTAB5SUakX286t6K7J3QR) | [Muskan](https://open.spotify.com/album/3NLZpWHd23xx5YYveGbNlv) | 3:18 | 2023-05-02 |  |

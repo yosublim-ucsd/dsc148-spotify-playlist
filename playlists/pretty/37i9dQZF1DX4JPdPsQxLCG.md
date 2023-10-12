@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 
 > Classic tunes for the open road\. Special selections by Blue Rodeo in time for the long weekend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,847 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,950 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 54 | [On A Different Night](https://open.spotify.com/track/4cF4vuC7Ci29yhnbuoFRZx) | [Josh Ross](https://open.spotify.com/artist/1ZGTSMjK1D2HrpPTOh916U) | [On A Different Night](https://open.spotify.com/album/7e2cKmW21NqkGQUfbDyPdF) | 3:09 |
 | 55 | [Sunglasses At Night](https://open.spotify.com/track/5uRsBdLhn91AYcsTCOGNOC) | [Corey Hart](https://open.spotify.com/artist/0smy8yDrRoI4CnhpOuthg0) | [First Offense](https://open.spotify.com/album/2cB87PuIi04CRdxhuNrRi5) | 5:20 |
 | 56 | [Pinch Me](https://open.spotify.com/track/2RQ3fWFZJJe4G5KkHEACww) | [Barenaked Ladies](https://open.spotify.com/artist/0dEvJpkqhrcn64d3oI8v79) | [Maroon](https://open.spotify.com/album/5LXL7uNAFSmVpdGk4xW2Mc) | 4:45 |
-| 57 | [New Orleans Is Sinking](https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here](https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv) | 4:17 |
-| 58 | [Sweet City Woman](https://open.spotify.com/track/52SCT6ImFklqEhH21lgErO) | [Stampeders](https://open.spotify.com/artist/39uv7qSNwIoaAtWNioWnxp) | [Against the Grain](https://open.spotify.com/album/31HTyjLaXPAb2xq3qe83Qd) | 3:27 |
+| 57 | [Sweet City Woman](https://open.spotify.com/track/52SCT6ImFklqEhH21lgErO) | [Stampeders](https://open.spotify.com/artist/39uv7qSNwIoaAtWNioWnxp) | [Against the Grain](https://open.spotify.com/album/31HTyjLaXPAb2xq3qe83Qd) | 3:27 |
+| 58 | [New Orleans Is Sinking](https://open.spotify.com/track/6v4pemwpkW7msCbBtSJf15) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Up To Here](https://open.spotify.com/album/4gmKiB0dtmPWjzbDM5N7Jv) | 4:17 |
 | 59 | [Constant Craving](https://open.spotify.com/track/0wCrg1LhgPcGMw51qqpI6k) | [k.d\. lang](https://open.spotify.com/artist/6W1BHDF0T4a4KYcSwzD586) | [Recollection](https://open.spotify.com/album/22TXLyA5GOT19O9hIdAHLE) | 4:37 |
 | 60 | [All I Really Want \- 2015 Remaster](https://open.spotify.com/track/6rRIRMEhVclbTleCJQsrPm) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Jagged Little Pill \(2015 Remaster\)](https://open.spotify.com/album/5Ap3F8CxjjsQKZGASDcHNA) | 4:44 |
 | 61 | [Driving](https://open.spotify.com/track/2Q3LZMVppaxai3TTHVxozT) | [Tyler Shaw](https://open.spotify.com/artist/3jERgGiTwNAPxNmDasAb31) | [Driving](https://open.spotify.com/album/0lzkAvzMvBddebjkEqsn3e) | 3:00 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JPdPsQxLCG.md) - [plain]
 | 74 | [Leaving On A Jet Plane](https://open.spotify.com/track/2tFYV2RZGwRLCmfDqfI3OT) | [Chantal Kreviazuk](https://open.spotify.com/artist/1x1NsoNPyVy6FlgSLSovSk) | [Since We Met: The Best of 1996\-2006](https://open.spotify.com/album/67QWVDS41ddKIKYhlsJjJt) | 4:40 |
 | 75 | [Feeling Good](https://open.spotify.com/track/1BWNpziDWyAMfGdKC2ydS6) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [The Sheepdogs \(Deluxe\)](https://open.spotify.com/album/6HIGCaguAPnwApqjRmYBUw) | 3:10 |
 
-Snapshot ID: `MCxjZGUyYmEzMDMwNDZmNmIzZDVkMGNhYWRlY2ZiOTZkNTViYjc5YmM2`
+Snapshot ID: `MCw4M2FjYTVkN2I5YWFiN2FkMGMzODI5OTFiMDdjODM0MmNiMThkMTZk`

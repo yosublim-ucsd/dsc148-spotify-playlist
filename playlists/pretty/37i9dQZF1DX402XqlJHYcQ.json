@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos del rock en ingl\u00e9s y en espa\u00f1ol. Foto: Radiohead",
-  "num_followers": 122707,
+  "num_followers": 122774,
   "original_name": "rock X rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTVlYmI5YjU5Y2I3YjRiMDFmMWExMGVlMGQ2YjYwMjgxNTNiN2Mw",
+  "snapshot_id": "MCw4OTU4MDlmYTVjZWJmOWQ3NzE5YzFkZWJlZmUxMDQyYmYxYWIwZWEx",
   "tracks": [
     {
       "added_at": "2021-12-24 12:40:54",
@@ -715,22 +715,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Big Bang",
-        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 222226,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "1984 (Remastered)",
         "url": "https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0"
       },
@@ -747,18 +731,18 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+        "name": "Big Bang",
+        "url": "https://open.spotify.com/album/3y63u5vmuMugqI8lfuUY3a"
       },
       "artists": [
         {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
         }
       ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
+      "duration_ms": 222226,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/6Pur3hWy6Nzc27ilmsp5HA"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -795,18 +779,18 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
       },
       "artists": [
         {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
         }
       ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -823,6 +807,22 @@
       "duration_ms": 536066,
       "name": "November Rain",
       "url": "https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+      },
+      "artists": [
+        {
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+        }
+      ],
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Toulouse Street",
-        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
-      },
-      "artists": [
-        {
-          "name": "The Doobie Brothers",
-          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
-        }
-      ],
-      "duration_ms": 227266,
-      "name": "Listen to the Music",
-      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "The Final Countdown (Expanded Edition)",
         "url": "https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 310333,
       "name": "The Final Countdown",
       "url": "https://open.spotify.com/track/3MrRksHupTVEQ7YbA0FsZK"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "Toulouse Street",
+        "url": "https://open.spotify.com/album/2x1Yi30lsWJUoBj1kmovnm"
+      },
+      "artists": [
+        {
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
+        }
+      ],
+      "duration_ms": 227266,
+      "name": "Listen to the Music",
+      "url": "https://open.spotify.com/track/7Ar4G7Ci11gpt6sfH9Cgz5"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 178360,
-      "name": "I Won't Back Down",
-      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "El Camino",
         "url": "https://open.spotify.com/album/5DLhV9yOvZ7IxVmljMXtNm"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 193653,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/5G1sTBGbZT5o4PNRc75RKI"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 178360,
+      "name": "I Won't Back Down",
+      "url": "https://open.spotify.com/track/7gSQv1OHpkIoAdUiRLdmI6"
     },
     {
       "added_at": "2021-12-24 12:40:54",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2021-12-24 12:40:54",
       "album": {
-        "name": "Metallica (Remastered)",
-        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 331560,
-      "name": "Enter Sandman (Remastered)",
-      "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
-    },
-    {
-      "added_at": "2021-12-24 12:40:54",
-      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 159346,
       "name": "Breakfast In America - 2010 Remastered",
       "url": "https://open.spotify.com/track/4a5pNRjwmzYQuEY1E7O6pj"
+    },
+    {
+      "added_at": "2021-12-24 12:40:54",
+      "album": {
+        "name": "Metallica (Remastered)",
+        "url": "https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 331560,
+      "name": "Enter Sandman (Remastered)",
+      "url": "https://open.spotify.com/track/3VqHuw0wFlIHcIPWkhIbdQ"
     }
   ],
   "unique_name": "rock X rock",

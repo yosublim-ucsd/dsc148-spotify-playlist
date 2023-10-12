@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Ala Vaikunthapurramuloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,597 likes - 75 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,751 likes - 75 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 54 | [Yentha Sakkagunnave](https://open.spotify.com/track/6nhLm8GEkkH9kunfqdAFcO) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU) | [Rangasthalam](https://open.spotify.com/album/5XPaQZJdvu6IDQgf1zzmhP) | 4:22 |
 | 55 | [Bullet](https://open.spotify.com/track/1xKzEU01wRyVEHhJvXPTP5) | [Mangli](https://open.spotify.com/artist/1pDF5UltcypyatITA3Pduo) | [George Reddy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6cyAwiu1CjIippC8RQ9rwT) | 3:26 |
 | 56 | [Manohari](https://open.spotify.com/track/68rSALJuiiiJSOgL7DXdNg) | [Mohana Bhogaraju](https://open.spotify.com/artist/2nWYQRy7Ikh7CyWnvZZouD), [L\. V\. Revanth](https://open.spotify.com/artist/2OrTfOi3k8VMFLuvC527bB) | [Baahubali \- The Beginning](https://open.spotify.com/album/62FLwY6ofjIoyfTB4aY8Qo) | 3:34 |
-| 57 | [Down Down Duppa](https://open.spotify.com/track/3PP1G6ukDSE3fOn4BJBtUw) | [Sooraj](https://open.spotify.com/artist/6sPyKpeNOz4tHJh0HGXTG1), [Suchith](https://open.spotify.com/artist/6TmLzI0necDcl350q0HqRk), [Bindhu](https://open.spotify.com/artist/66y8oZZCOOnJM3PyB3qrX5), [Mansi](https://open.spotify.com/artist/1wQJ1Ayact7i3gzsfCfGhw) | [Race Gurram](https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n) | 3:59 |
-| 58 | [Chitti](https://open.spotify.com/track/6PQpG2HlVxuR6GwwWQX7XM) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Jathi Ratnalu](https://open.spotify.com/album/2EVWg8KlmiHE5tcjHxRzwA) | 3:04 |
+| 57 | [Chitti](https://open.spotify.com/track/6PQpG2HlVxuR6GwwWQX7XM) | [Ram Miriyala](https://open.spotify.com/artist/4A2XSc4OJjuPY4l6NjnrDj) | [Jathi Ratnalu](https://open.spotify.com/album/2EVWg8KlmiHE5tcjHxRzwA) | 3:04 |
+| 58 | [Down Down Duppa](https://open.spotify.com/track/3PP1G6ukDSE3fOn4BJBtUw) | [Sooraj](https://open.spotify.com/artist/6sPyKpeNOz4tHJh0HGXTG1), [Suchith](https://open.spotify.com/artist/6TmLzI0necDcl350q0HqRk), [Bindhu](https://open.spotify.com/artist/66y8oZZCOOnJM3PyB3qrX5), [Mansi](https://open.spotify.com/artist/1wQJ1Ayact7i3gzsfCfGhw) | [Race Gurram](https://open.spotify.com/album/6qESUjEdldht18WkWpLw4n) | 3:59 |
 | 59 | [Asha Pasham](https://open.spotify.com/track/1lrgvbZzsjatMee0Uk8o0P) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Care Of Kancharapalem](https://open.spotify.com/album/6oD7OKpTjFwqh7RsgUE38p) | 4:20 |
 | 60 | [Darlingey](https://open.spotify.com/track/5PXmfhFNAxiqK86Xknc1HB) | [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Geetha Madhuri](https://open.spotify.com/artist/5qhGpFQDS0CHw4cKeCzaai) | [Mirchi](https://open.spotify.com/album/0U9GjYJr2K1CK8tOax7Hrf) | 3:44 |
 | 61 | [Vachinde](https://open.spotify.com/track/7KkaBto4aewGt8wl6q6wxH) | [Madhu Priya, Ramky](https://open.spotify.com/artist/5RNLzvTwXeXjA4hDobza2v) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 5:24 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 74 | [Chal Chalo Chalo](https://open.spotify.com/track/0BFQi3erN3X4tT6ZrthC5d) | [Raghu Dixit](https://open.spotify.com/artist/72578usTM6Cj5qWsi471Nc), [Sooraj Santhosh](https://open.spotify.com/artist/66PGnr0hE7ZIcWir6IwitB), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [Son Of Satyamurthy](https://open.spotify.com/album/0nJiWxWeUSYUq3xpzNKs5d) | 5:08 |
 | 75 | [Nee Chitram Choosi](https://open.spotify.com/track/5PsmOImV4eJxcTK8ZxSPJz) | [Anurag Kulkarni](https://open.spotify.com/artist/6LWyVEIBnx7MoRBhQxu9om) | [Love Story](https://open.spotify.com/album/7ouZl1HNkTJ3zNhdGPH01F) | 4:23 |
 
-Snapshot ID: `MCxlNzgxZTNlNWMwYzIwODdjZGM2N2U3MDljYjc2MDY0OWVmZDEyZWQ3`
+Snapshot ID: `MCw4YTMxZGYxODNjYTFjZDQ1YTFkZGFmOTBjOGU4Y2RkMWZiZjFiZjRi`

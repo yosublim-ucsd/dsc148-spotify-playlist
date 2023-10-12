@@ -1,12 +1,12 @@
 {
   "description": "Country hits that will have you singing every word. Cover: Josh Ross",
-  "num_followers": 453138,
+  "num_followers": 453172,
   "original_name": "Country Favourites",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzAxM2MxZGM0MzM1NTk0MTAwYjVjYjFlYWMwMThhYzA4MzY2YzQ5",
+  "snapshot_id": "MCw0YjBlMjczOWMyOWIwODljNGVkZWM4MWM5NTA1N2Y3NmU5OTZmZWI0",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:00",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Angels (Don\u2019t Always Have Wings)",
-        "url": "https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf"
-      },
-      "artists": [
-        {
-          "name": "Thomas Rhett",
-          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
-        }
-      ],
-      "duration_ms": 200426,
-      "name": "Angels (Don\u2019t Always Have Wings)",
-      "url": "https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Hey World",
         "url": "https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 167680,
       "name": "Soul",
       "url": "https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Angels (Don\u2019t Always Have Wings)",
+        "url": "https://open.spotify.com/album/1Ih8oq6GfJWVMQtIdOqthf"
+      },
+      "artists": [
+        {
+          "name": "Thomas Rhett",
+          "url": "https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8"
+        }
+      ],
+      "duration_ms": 200426,
+      "name": "Angels (Don\u2019t Always Have Wings)",
+      "url": "https://open.spotify.com/track/5vZoQQ1hH5L2s4Y8G86ksg"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "MACON",
-        "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 212030,
-      "name": "If I Didn't Love You",
-      "url": "https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Beers On Me",
         "url": "https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM"
       },
@@ -907,6 +887,26 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
+        "name": "MACON",
+        "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 212030,
+      "name": "If I Didn't Love You",
+      "url": "https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
         "name": "Whiskey On You",
         "url": "https://open.spotify.com/album/3MrvNAqlEsm5iScBAf9Cfm"
       },
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Love You Anyway",
-        "url": "https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Love You Anyway",
-      "url": "https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Cowboys And Angels",
         "url": "https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 133973,
       "name": "Cowboys And Angels",
       "url": "https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Love You Anyway",
+        "url": "https://open.spotify.com/album/4ettM87GR2TdBLDTTBdfeF"
+      },
+      "artists": [
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Love You Anyway",
+      "url": "https://open.spotify.com/track/3qXsX3mYSsD1DmAvc3PE3N"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "I Should Have Married You",
-        "url": "https://open.spotify.com/album/3HSreInK13c45aTK0Sqemr"
+        "name": "Greenbroke",
+        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
       },
       "artists": [
         {
-          "name": "Old Dominion",
-          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 163533,
-      "name": "I Should Have Married You",
-      "url": "https://open.spotify.com/track/3XhhXPBUI2BKs8FTOOdHfR"
+      "duration_ms": 187957,
+      "name": "Don't Come Lookin'",
+      "url": "https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Greenbroke",
-        "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
+        "name": "I Should Have Married You",
+        "url": "https://open.spotify.com/album/3HSreInK13c45aTK0Sqemr"
       },
       "artists": [
         {
-          "name": "Jackson Dean",
-          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
+          "name": "Old Dominion",
+          "url": "https://open.spotify.com/artist/6y8XlgIV8BLlIg1tT1R10i"
         }
       ],
-      "duration_ms": 187957,
-      "name": "Don't Come Lookin'",
-      "url": "https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt"
+      "duration_ms": 163533,
+      "name": "I Should Have Married You",
+      "url": "https://open.spotify.com/track/3XhhXPBUI2BKs8FTOOdHfR"
     },
     {
       "added_at": "2023-10-06 04:01:00",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-10-06 04:01:00",
       "album": {
-        "name": "Rolling Up the Welcome Mat",
-        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 170906,
-      "name": "Blindsided",
-      "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
-    },
-    {
-      "added_at": "2023-10-06 04:01:00",
-      "album": {
         "name": "Stereotype",
         "url": "https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 176146,
       "name": "Never Say Never (with Lainey Wilson)",
       "url": "https://open.spotify.com/track/3iYEsBl8NBq1o1j5uY2Noe"
+    },
+    {
+      "added_at": "2023-10-06 04:01:00",
+      "album": {
+        "name": "Rolling Up the Welcome Mat",
+        "url": "https://open.spotify.com/album/7qxClQvz2eSkDB7CtFfPZH"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 170906,
+      "name": "Blindsided",
+      "url": "https://open.spotify.com/track/65gLItuJFVkdt3k4ibQMAz"
     },
     {
       "added_at": "2023-10-06 04:01:00",

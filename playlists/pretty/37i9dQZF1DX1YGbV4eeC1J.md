@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 
 > Exceptionally vivid Swahili love stories for you and yours\. Cover: Anjella
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,394 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,437 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1YGbV4eeC1J.md) - [plain]
 | 49 | [Trouble](https://open.spotify.com/track/2a8GmionOwrvrA0239jkNd) | [Wendy Kay](https://open.spotify.com/artist/4xRJ8mtHNzJYvlJbspGFO6), [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo) | [Trouble](https://open.spotify.com/album/5bJS2FXo94QPkxisEt15kS) | 3:25 |
 | 50 | [Dawa](https://open.spotify.com/track/6FIJbcrsBRPJ6aMD0pK6Gc) | [Nadia Mukami](https://open.spotify.com/artist/5nnVpORg4Aha9aWRTZA5No), [Arrow Bwoy](https://open.spotify.com/artist/7jHbsm6yjbct2wbuvzBEKr) | [Love & Vibes](https://open.spotify.com/album/1kHwfAtBDOcE1cWChXeGNa) | 3:15 |
 
-Snapshot ID: `MCxlYWNhYTg4MjVjNjQ0NTViZThkMDhkMmUwOTExMWZiMWY1ZDdkMTc0`
+Snapshot ID: `MCxiZDc1ZjI3MWFlNTMwMDk5Y2U5NTQ0NzkwYzI0MGI3NWRjM2YwYmNi`

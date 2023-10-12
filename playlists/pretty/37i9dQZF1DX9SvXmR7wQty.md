@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Georgio, Patrick Watson
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,308 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,305 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,13 +37,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 27 | [FTG](https://open.spotify.com/track/5j5ar3YNnHXZlYLfVPLcHT) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [FTG](https://open.spotify.com/album/1glTvN8B0pM2VY33CJnT9v) | 3:03 |
 | 28 | [C’est la Vie](https://open.spotify.com/track/6BV2gqsxAWqZKqM8Kx4GLb) | [MIKA](https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA) | [C’est la Vie](https://open.spotify.com/album/3SjBLAvQwwhiAUnrifGlrD) | 3:28 |
 | 29 | [Mauvais temps](https://open.spotify.com/track/0LAaXA4qn91sYwHWIB0tlA) | [Émile Bilodeau](https://open.spotify.com/artist/0q9gV5iFHokttrI4WBuRQu) | [Au bar des espoirs](https://open.spotify.com/album/41s9no7Ky1PqMXyML8szae) | 2:47 |
-| 30 | [Ça va](https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ça va](https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv) | 2:51 |
+| 30 | [Vautours](https://open.spotify.com/track/3Z6CZX1swZYFc4vInNQzIO) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Vautours](https://open.spotify.com/album/4W8PYeeUqDsani46ODRgLK) | 3:10 |
 | 31 | [J'ai si peur](https://open.spotify.com/track/4a9dS0IEMxDdF77loEaTRN) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5), [Mara Tremblay](https://open.spotify.com/artist/1tt3YXVP4AltaStku4rpf3) | [J'ai si peur](https://open.spotify.com/album/1NmVsbmegt0pKXbVIxcI4x) | 3:28 |
-| 32 | [Vautours](https://open.spotify.com/track/3Z6CZX1swZYFc4vInNQzIO) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3) | [Vautours](https://open.spotify.com/album/4W8PYeeUqDsani46ODRgLK) | 3:10 |
+| 32 | [Ça va](https://open.spotify.com/track/1mgXlxlV9mHNzVlfJiHBE0) | [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [Ça va](https://open.spotify.com/album/16uVOML0RmNvAAeAGSSjyv) | 2:51 |
 | 33 | [C'est drôle](https://open.spotify.com/track/4czTL8KGYPjR0mWyQy7z6B) | [Adèle Castillon](https://open.spotify.com/artist/4ueh4hmRvt62k4BgP8dIS0), [Videoclub](https://open.spotify.com/artist/3rp4f58JlRHkk8hpdLCer1) | [C'est drôle](https://open.spotify.com/album/6WfOHoMzaQSMDeUGbUBccF) | 2:57 |
-| 34 | [Différent](https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Différent](https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y) | 2:39 |
+| 34 | [Il faudrait](https://open.spotify.com/track/62raj97K1yOi8mk54SLohm) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Il faudrait](https://open.spotify.com/album/2ODYDrN5YG9HVVBiBlg796) | 3:42 |
 | 35 | [Depuis Marseille](https://open.spotify.com/track/4mAUDy4YPWmpn55wfcf9yw) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Depuis Marseille](https://open.spotify.com/album/1ADpFrR3P89toHRHmMLsvv) | 3:15 |
-| 36 | [Il faudrait](https://open.spotify.com/track/62raj97K1yOi8mk54SLohm) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6), [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Il faudrait](https://open.spotify.com/album/2ODYDrN5YG9HVVBiBlg796) | 3:42 |
+| 36 | [Différent](https://open.spotify.com/track/5bzTMXlcTGIYmyue0YOV7K) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [Différent](https://open.spotify.com/album/61QYACdwp12BFQsxNOBz8y) | 2:39 |
 | 37 | [ET SI, DE](https://open.spotify.com/track/0asoN1Hr01zsTgQVKn1k0y) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [ET SI, DE/main l'oiseau](https://open.spotify.com/album/4NJy1ueaJ0uqJwNDsycSVa) | 3:13 |
 | 38 | [French Riviera](https://open.spotify.com/track/1YIxzV3rlDUmIES9tpOytj) | [Dosseh](https://open.spotify.com/artist/3b5bg1k6N9u31OtzSfK2dP), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [French Riviera](https://open.spotify.com/album/0zz8rBPR2RmxmlNfvjrgGA) | 3:21 |
 | 39 | [LOVE'n'TENDRESSE](https://open.spotify.com/track/5Dc4S7ECVVY2oCvPQ1951S) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj) | [LOVE'n'TENDRESSE](https://open.spotify.com/album/59dyXvxxaowblmFm3tkFe6) | 3:14 |
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 41 | [Commando](https://open.spotify.com/track/36aSwnrZXd0k334PSXT7w2) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU) | [Commando](https://open.spotify.com/album/0UrZIIXENkXrBBvhwqyMJx) | 2:51 |
 | 42 | [CONS’ DE LOVE](https://open.spotify.com/track/73eih2FtSIuGkKvqZpMGnW) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [L'Amour...](https://open.spotify.com/album/0CyzYWU1ZY7Z5Eggx2c3ML) | 2:45 |
 | 43 | [Zénith](https://open.spotify.com/track/7waEJapWACgWkq3by4intP) | [Kalash Criminel](https://open.spotify.com/artist/6ytOHdKh4xt4YvF7tz8Zcv) | [Zénith](https://open.spotify.com/album/1Co2Ay0gLh5D3yYkyoPk0r) | 2:36 |
-| 44 | [Puis t'as dansé avec moi](https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:37 |
-| 45 | [Dans la moyenne](https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Dans la moyenne](https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn) | 2:38 |
-| 46 | [Parler de nous](https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Parler de nous](https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds) | 3:13 |
-| 47 | [Warda](https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 3:11 |
+| 44 | [Warda](https://open.spotify.com/track/1LSz924w38ZryrV1nGnFIV) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 3:11 |
+| 45 | [Puis t'as dansé avec moi](https://open.spotify.com/track/2scT2pCZrcr0L8mmLJwiSx) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Cœur parapluie](https://open.spotify.com/album/3kME3h1CTVDYeg6O1F2GVG) | 3:37 |
+| 46 | [Dans la moyenne](https://open.spotify.com/track/5sZcLGRDMSyQK1nR7ykDQN) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Dans la moyenne](https://open.spotify.com/album/4oyzQzOXkQ4F7OISRrjoWn) | 2:38 |
+| 47 | [Parler de nous](https://open.spotify.com/track/32YBIhzebjwpqwSYZbDiu9) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Parler de nous](https://open.spotify.com/album/3lVI7Rh4ow2Yqs6RQL56Ds) | 3:13 |
 | 48 | [À deux \- Extrait de la Bande Originale du film « Les Déguns 2 »](https://open.spotify.com/track/2lTsd9ofFTLuOPj07J00aq) | [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [À deux \(Extrait de la Bande Originale du film « Les Déguns 2 »\)](https://open.spotify.com/album/0lccVcAosJkypnQzpJc96K) | 2:50 |
 | 49 | [La Peuf 6](https://open.spotify.com/track/2ZIXpFR5pRAy8fgj4Ar41k) | [Hornet La Frappe](https://open.spotify.com/artist/1kwzW1IszUiq4Gs9BFesvW) | [La Peuf 6](https://open.spotify.com/album/5eSgbHVzgcToLHcAIwqDfp) | 2:48 |
 | 50 | [OH MADELEINE](https://open.spotify.com/track/6mlYa6FsNSfpBtr8axmVoc) | [Disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g) | [OH MADELEINE](https://open.spotify.com/album/2P7t2OnISRXXoGd7C6cfxx) | 2:39 |
 
-Snapshot ID: `MCwyMGU0ZWY5YmYyNzAzOTY0N2U1NzJkNjkxMWJjNWY0YWI1Y2JlMjg0`
+Snapshot ID: `MCxiM2VkNmQxY2YyNmMwOTkxMDViNjI3ZjliYWQwNTFkZjM1YzUzMzQ3`

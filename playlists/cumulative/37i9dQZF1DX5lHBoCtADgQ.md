@@ -2,7 +2,7 @@
 
 ### [Folk Punjabi](https://open.spotify.com/playlist/37i9dQZF1DX5lHBoCtADgQ)
 
-> Enjoy the folk from Punjab\. Cover: Neha Bhasin
+> Enjoy the folk from Punjab\. Cover: Gurdas Maan & Salim Sulaiman
 
 81 songs - 5 hr 2 min
 

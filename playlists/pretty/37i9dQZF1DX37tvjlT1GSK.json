@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Becky G en portada. ",
-  "num_followers": 741444,
+  "num_followers": 740534,
   "original_name": "Sierre\u00f1o 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjOGFlYzVmNzA4NTQ1M2FkMDNlZDY0ZjdjZWZjNjNjZmJlYzE2ZjM4",
+  "snapshot_id": "MCw3MzE2OGVmOTRmZDFkYzM5ZTAxNjRhZTA5NDRiZjMwYjllN2Q0YTVh",
   "tracks": [
     {
       "added_at": "2023-09-15 04:00:00",
@@ -547,18 +547,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "En El Radio Un Cochinero",
-        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
+        "name": "T\u00fa Me Gustas",
+        "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
       },
       "artists": [
         {
-          "name": "Victor Cibrian",
-          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+          "name": "R\u00edo Roma",
+          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 223431,
-      "name": "En El Radio Un Cochinero",
-      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
+      "duration_ms": 206956,
+      "name": "T\u00fa Me Gustas",
+      "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -579,22 +583,18 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "T\u00fa Me Gustas",
-        "url": "https://open.spotify.com/album/7tUvz3LUmXYRCZX8lUPTrC"
+        "name": "En El Radio Un Cochinero",
+        "url": "https://open.spotify.com/album/6fCSthptZ0wBlpqeSlUKHy"
       },
       "artists": [
         {
-          "name": "R\u00edo Roma",
-          "url": "https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
         }
       ],
-      "duration_ms": 206956,
-      "name": "T\u00fa Me Gustas",
-      "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
+      "duration_ms": 223431,
+      "name": "En El Radio Un Cochinero",
+      "url": "https://open.spotify.com/track/2NWaWZZLFMcr5P4uI2KvWy"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -879,22 +879,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Pal Amor Soy Malo",
-        "url": "https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC"
-      },
-      "artists": [
-        {
-          "name": "Adrian L Santos",
-          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
-        }
-      ],
-      "duration_ms": 156500,
-      "name": "Pal Amor Soy Malo",
-      "url": "https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Te Deseo Lo Mejor",
         "url": "https://open.spotify.com/album/3TJYqNwsxy6on2wKnQSOUc"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 140235,
       "name": "Te Deseo Lo Mejor",
       "url": "https://open.spotify.com/track/5ZyUe1pOBYblWLN2E3xJXu"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
+        "name": "Pal Amor Soy Malo",
+        "url": "https://open.spotify.com/album/2oyTXMoyxT2C35oiFrmGbC"
+      },
+      "artists": [
+        {
+          "name": "Adrian L Santos",
+          "url": "https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac"
+        }
+      ],
+      "duration_ms": 156500,
+      "name": "Pal Amor Soy Malo",
+      "url": "https://open.spotify.com/track/7gwKQ5sNGRFZ70o0SK5DTR"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -943,6 +943,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Una 45",
+        "url": "https://open.spotify.com/album/0wc26q3gjwL5zJ3NFosd6I"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 113130,
+      "name": "Una 45",
+      "url": "https://open.spotify.com/track/0CeRRemIexnXiSKT4qWUTa"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Buenas Rachas",
         "url": "https://open.spotify.com/album/18pfoIprtoyL7UZ0r5aJ2e"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 153655,
       "name": "Buenas Rachas",
       "url": "https://open.spotify.com/track/3Tsa2DGBB3HkNk27J7nsnI"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Una 45",
-        "url": "https://open.spotify.com/album/0wc26q3gjwL5zJ3NFosd6I"
-      },
-      "artists": [
-        {
-          "name": "Dan Sanchez",
-          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 113130,
-      "name": "Una 45",
-      "url": "https://open.spotify.com/track/0CeRRemIexnXiSKT4qWUTa"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1271,6 +1271,26 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Ni\u00f1a Fiel",
+        "url": "https://open.spotify.com/album/3KpHEtgSEBgbycuWbZFcCV"
+      },
+      "artists": [
+        {
+          "name": "Amigos De La Cuadra",
+          "url": "https://open.spotify.com/artist/5GArqt3wMxHacJWynHFpMY"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 129022,
+      "name": "Una en Un Millon",
+      "url": "https://open.spotify.com/track/2fuftZ5cJqs2T2lZqDVr5y"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Vete Ya",
         "url": "https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY"
       },
@@ -1327,26 +1347,6 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
-        "name": "Ni\u00f1a Fiel",
-        "url": "https://open.spotify.com/album/3KpHEtgSEBgbycuWbZFcCV"
-      },
-      "artists": [
-        {
-          "name": "Amigos De La Cuadra",
-          "url": "https://open.spotify.com/artist/5GArqt3wMxHacJWynHFpMY"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 129022,
-      "name": "Una en Un Millon",
-      "url": "https://open.spotify.com/track/2fuftZ5cJqs2T2lZqDVr5y"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
         "name": "Triste",
         "url": "https://open.spotify.com/album/2CJGDHYWZziHsTzuFZL0W8"
       },
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Tres Botes",
+        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 195117,
+      "name": "Inventame - En Vivo",
+      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "ZAFIRO (feat. Pablo Hurtado)",
         "url": "https://open.spotify.com/album/6QhFGkdPQHDgUmD5g7dMxJ"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 233625,
       "name": "ZAFIRO (feat. Pablo Hurtado)",
       "url": "https://open.spotify.com/track/4ExKTOgyWHR60KXwYprRf0"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Tres Botes",
-        "url": "https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 195117,
-      "name": "Inventame - En Vivo",
-      "url": "https://open.spotify.com/track/0nvXL0x4NISFWRoLNfZK4U"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Dinero F\u00e1cil",
+        "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
+      },
+      "artists": [
+        {
+          "name": "Jovanny Cadena Y Su Estilo Privado",
+          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
+        }
+      ],
+      "duration_ms": 224442,
+      "name": "Quiero Llorar y No Puedo",
+      "url": "https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Don Nadie",
         "url": "https://open.spotify.com/album/2dGgRCiflxlEnLXADfuD0A"
       },
@@ -1531,22 +1547,6 @@
       "duration_ms": 191259,
       "name": "Don Nadie",
       "url": "https://open.spotify.com/track/5BhW3x0tZWGSwCPzjwVA1Q"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Dinero F\u00e1cil",
-        "url": "https://open.spotify.com/album/42WWFPXfmtFFMLmdEeYEFZ"
-      },
-      "artists": [
-        {
-          "name": "Jovanny Cadena Y Su Estilo Privado",
-          "url": "https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW"
-        }
-      ],
-      "duration_ms": 224442,
-      "name": "Quiero Llorar y No Puedo",
-      "url": "https://open.spotify.com/track/3ezRmGfcXnuEA4ryylr6Jk"
     },
     {
       "added_at": "2023-09-15 04:00:00",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2023-09-15 04:00:00",
       "album": {
+        "name": "Volumen 5 (En Vivo)",
+        "url": "https://open.spotify.com/album/6I6MZLLhr6CJHqFxtozUMQ"
+      },
+      "artists": [
+        {
+          "name": "So\u00f1adores de Sinaloa",
+          "url": "https://open.spotify.com/artist/0wrtLRkpE2Yu6Oge3tVXUf"
+        }
+      ],
+      "duration_ms": 235742,
+      "name": "Cuando Te Ame - En Vivo",
+      "url": "https://open.spotify.com/track/2Jkw4v6tHdDfS4rM6pp4uZ"
+    },
+    {
+      "added_at": "2023-09-15 04:00:00",
+      "album": {
         "name": "Voy a Amarte (Remix)",
         "url": "https://open.spotify.com/album/43uImxU9GsyxCaMwppz4lE"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 142422,
       "name": "Voy a Amarte - Remix",
       "url": "https://open.spotify.com/track/3pXRqwDbucGoBjQtt3AR4R"
-    },
-    {
-      "added_at": "2023-09-15 04:00:00",
-      "album": {
-        "name": "Volumen 5 (En Vivo)",
-        "url": "https://open.spotify.com/album/6I6MZLLhr6CJHqFxtozUMQ"
-      },
-      "artists": [
-        {
-          "name": "So\u00f1adores de Sinaloa",
-          "url": "https://open.spotify.com/artist/0wrtLRkpE2Yu6Oge3tVXUf"
-        }
-      ],
-      "duration_ms": 235742,
-      "name": "Cuando Te Ame - En Vivo",
-      "url": "https://open.spotify.com/track/2Jkw4v6tHdDfS4rM6pp4uZ"
     },
     {
       "added_at": "2023-09-15 04:00:00",

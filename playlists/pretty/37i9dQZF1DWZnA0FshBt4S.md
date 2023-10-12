@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 
 > The very best songs that soundtracked Youth Groups of the 90s & early 00s! Cover: DC Talk
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,859 likes - 75 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,937 likes - 75 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 19 | [Only Hope](https://open.spotify.com/track/6pwhSBxhaF5x0WbNZRyzlD) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [New Way To Be Human](https://open.spotify.com/album/02kPSZyDPwxd0MSoBTsBME) | 4:13 |
 | 20 | [Revolution](https://open.spotify.com/track/4xm2HjtDAdCobewPoaImT7) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [The Family](https://open.spotify.com/artist/0eV7uNHXarEGKmDzr5jPxp) | [The Nu Nation Project](https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH) | 5:37 |
 | 21 | [Strong Tower](https://open.spotify.com/track/6YP6bn1Id1DgGkX5IB7zuh) | [Kutless](https://open.spotify.com/artist/3lLT23km6QvzYCojCXAYtX) | [Strong Tower](https://open.spotify.com/album/0Ot6Adlv0VTliCkFcR5OUB) | 3:58 |
-| 22 | [Dive](https://open.spotify.com/track/0GfsZEgIgJfcQ3uLWHZ2o3) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Speechless](https://open.spotify.com/album/1l7ysbnQNktE8IGRSQeeKg) | 3:57 |
-| 23 | [In The Light \- Remastered 2013](https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 5:05 |
+| 22 | [In The Light \- Remastered 2013](https://open.spotify.com/track/2IpbrxP9MqUCtcQQchAiTK) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Jesus Freak \(Remastered\)](https://open.spotify.com/album/6KbHC5ADEGbnvl7Ge3GVQF) | 5:05 |
+| 23 | [Dive](https://open.spotify.com/track/0GfsZEgIgJfcQ3uLWHZ2o3) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot) | [Speechless](https://open.spotify.com/album/1l7ysbnQNktE8IGRSQeeKg) | 3:57 |
 | 24 | [Flood](https://open.spotify.com/track/4wSqP7Vo7HcoakudSMzxAO) | [Jars Of Clay](https://open.spotify.com/artist/1lMaDSraU3oiNUsVWJLHdF) | [Jars Of Clay](https://open.spotify.com/album/3NmhY1GyYPSR9VGycvfRrQ) | 3:31 |
 | 25 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1yowMNvS59dTccbZosir2o) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Cutting Edge 1 & 2](https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v) | 6:10 |
 | 26 | [O Praise Him \(All This For A King\)](https://open.spotify.com/track/2iFqa5oxkAE3eJor4tVE8v) | [David Crowder Band](https://open.spotify.com/artist/7DhP3bGT7dzr1dCkkH5mTS) | [Illuminate](https://open.spotify.com/album/1YWOoJNdvfCfQXaSSzYTVd) | 5:48 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 58 | [Prophet, Priest and King](https://open.spotify.com/track/7rEDMH58B288SJZuKO0FuS) | [Smalltown Poets](https://open.spotify.com/artist/0mHos4yS8iAhpYPABHFdBc) | [Smalltown Poets](https://open.spotify.com/album/3VSgWtarqDC0SoLgLzoM8E) | 3:36 |
 | 59 | [Gravity](https://open.spotify.com/track/6z5hemlFOgSeqGgArca8sS) | [Delirious?](https://open.spotify.com/artist/53Z2RNY4OYJ0Galu6AWzxF) | [Mezzamorphis](https://open.spotify.com/album/5GpaRJfeglVrlsClIlhPtn) | 3:20 |
 | 60 | [Goodbye](https://open.spotify.com/track/4T2YM2TrhtxE9QvyptdBos) | [Plankeye](https://open.spotify.com/artist/1BEzx2txNgJpTDRcgP3ub4) | [Relocation](https://open.spotify.com/album/3HNhQynHgqCzawAk6PGIu9) | 4:20 |
-| 61 | [Into You](https://open.spotify.com/track/7HMBPVrRkwGuABMvMVTiys) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [Lay It Down](https://open.spotify.com/album/5cxJJ5gekgM7WSbTtvO9H4) | 3:04 |
-| 62 | [Butterfly \- Seven Day Jesus Album Version](https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD) | [Seven Day Jesus](https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa) | [Seven Day Jesus](https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP) | 3:30 |
-| 63 | [The Sun Also Rises](https://open.spotify.com/track/1riMbTj6HbiQ0tpD1aRema) | [Brave Saint Saturn](https://open.spotify.com/artist/3ThPMQBJlcHA839lBHxQr9) | [The Light Of Things Hoped For](https://open.spotify.com/album/7nxwgdX2XXJ92gJ936QCa1) | 3:15 |
+| 61 | [The Sun Also Rises](https://open.spotify.com/track/1riMbTj6HbiQ0tpD1aRema) | [Brave Saint Saturn](https://open.spotify.com/artist/3ThPMQBJlcHA839lBHxQr9) | [The Light Of Things Hoped For](https://open.spotify.com/album/7nxwgdX2XXJ92gJ936QCa1) | 3:15 |
+| 62 | [Into You](https://open.spotify.com/track/7HMBPVrRkwGuABMvMVTiys) | [Jennifer Knapp](https://open.spotify.com/artist/2yAjgPqGeURdgCHPzuDeYi) | [Lay It Down](https://open.spotify.com/album/5cxJJ5gekgM7WSbTtvO9H4) | 3:04 |
+| 63 | [Butterfly \- Seven Day Jesus Album Version](https://open.spotify.com/track/1sVqSNUvZptRiFlTWuVdHD) | [Seven Day Jesus](https://open.spotify.com/artist/0htazPOROVwMTPPLeergGa) | [Seven Day Jesus](https://open.spotify.com/album/5MZIKL0jN7ZavShCCxW2vP) | 3:30 |
 | 64 | [Free At Last \- Live](https://open.spotify.com/track/5zmoHiyoqhSnoV9EGcYhYi) | [DC Talk](https://open.spotify.com/artist/1zK4ACgLi1lVPpfmmcwOTh) | [Free At Last \(Live\)](https://open.spotify.com/album/7whdJR9MEFJixUeSmATRUD) | 4:44 |
 | 65 | [Revive Us](https://open.spotify.com/track/3C6jSw9wdYUEdgtSMjLsZn) | [Anointed](https://open.spotify.com/artist/6GrYT1CB2T0IxumY1MQpZJ) | [Anointed](https://open.spotify.com/album/2E9vqclDxqceNEMbYn6IxB) | 4:08 |
 | 66 | [Love Liberty Disco](https://open.spotify.com/track/5K0KgpQUOZlag12UDC5ToB) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [The Ultimate Collection](https://open.spotify.com/album/4tab0wm9wlaNYGEKAoRzFd) | 3:43 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZnA0FshBt4S.md) - [plain]
 | 69 | [Lift My Eyes Up](https://open.spotify.com/track/08CSlrBEs0qAaNm4dxLPf6) | [Miss Angie](https://open.spotify.com/artist/5rnoA4GlPQE4s15Si3oi6m) | [100 Million Eyeballs](https://open.spotify.com/album/2RRtryPMMJCXllcbpms0k5) | 3:00 |
 | 70 | [Here With Me](https://open.spotify.com/track/2utyoc5plxv0zVFLpoZh7l) | [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [The Best Of Plumb](https://open.spotify.com/album/1WJ781r3XS7MiddzxuzbG8) | 4:06 |
 | 71 | [Revolve](https://open.spotify.com/track/3wsYeIOXrGuSnG3kRGbrwm) | [Poor Old Lu](https://open.spotify.com/artist/4kKX2Dc7HBE6fozhXYzPw8) | [The Waiting Room](https://open.spotify.com/album/2CZhEQJRXhfOxWMYnYKpE5) | 3:47 |
-| 72 | [Waiting Room](https://open.spotify.com/track/61NbXozQGixs8eC5ACTqc2) | [LaRue](https://open.spotify.com/artist/5MGUVsXrxgF9p3i3uko4MF) | [Larue](https://open.spotify.com/album/2lXKV7Rs6akfjT4bfugIly) | 3:20 |
-| 73 | [Rain](https://open.spotify.com/track/1SvlSnI123v00sH5Ro9NZ7) | [dryve](https://open.spotify.com/artist/0hr4err987upnrCLPvCPA4) | [Thrifty Mr\. Kickstar](https://open.spotify.com/album/11bRlMEbcjxbrHnkNZcOuJ) | 6:46 |
+| 72 | [Rain](https://open.spotify.com/track/1SvlSnI123v00sH5Ro9NZ7) | [dryve](https://open.spotify.com/artist/0hr4err987upnrCLPvCPA4) | [Thrifty Mr\. Kickstar](https://open.spotify.com/album/11bRlMEbcjxbrHnkNZcOuJ) | 6:46 |
+| 73 | [Waiting Room](https://open.spotify.com/track/61NbXozQGixs8eC5ACTqc2) | [LaRue](https://open.spotify.com/artist/5MGUVsXrxgF9p3i3uko4MF) | [Larue](https://open.spotify.com/album/2lXKV7Rs6akfjT4bfugIly) | 3:20 |
 | 74 | [Why Do I Do](https://open.spotify.com/track/37KnIgKETYyOOXe56FLquT) | [Jump5](https://open.spotify.com/artist/0qa4GMXrmylKemymbElIwq) | [The Ultimate Collection](https://open.spotify.com/album/1DPCpHWC875p3L4xAVSIoX) | 3:22 |
 | 75 | [The Devil Is Bad](https://open.spotify.com/track/7HU4ubA9Ml4ztErtnHdOMW) | [The W's](https://open.spotify.com/artist/6hbwBTYR4mLag3kkI6wXSV) | [Fourth From The Last](https://open.spotify.com/album/5ZyJ4WdmnQEGI6vWOKs7Ab) | 3:33 |
 
-Snapshot ID: `MCxlNzBiYmVhOTg5YTQ5MTE4MWMxZTRiY2U4YTk5ZTE2MzA2MzE3YzI5`
+Snapshot ID: `MCxhYzQ4MGE4YzAxNGI1ZGM4NzgyM2EwMmMyOGQ3NTdjNDMwYWI5MGVj`

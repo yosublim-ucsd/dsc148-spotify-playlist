@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,452 likes - 75 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,613 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 27 | [cloak n dagger](https://open.spotify.com/track/5PK7AzBXo9hiOWxxqkSC1S) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [cloak n dagger](https://open.spotify.com/album/2IyyUm6A2nD0UpwhQwMY00) | 2:09 |
 | 28 | [cheap liquor](https://open.spotify.com/track/7sLmMWLm9Egbs68NRcFvjY) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [things with wings](https://open.spotify.com/album/2MdIFibz5RJWNIDJzyEVxO) | 1:48 |
 | 29 | [Dial Tone](https://open.spotify.com/track/4l5PZhHAxCnq5EAOdN0Clh) | [That Kid](https://open.spotify.com/artist/7mUQPmZ6OzwtJEEXDOqyOY), [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Dial Tone](https://open.spotify.com/album/2ulrx76RxcL2JEVXh1igZI) | 2:58 |
-| 30 | [you don't love me](https://open.spotify.com/track/4GdFtfWORB3JQvsjjWvE4y) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno), [Xaxanity](https://open.spotify.com/artist/10m6Fvz501byHhoObkMPVy) | [you don't love me](https://open.spotify.com/album/16Ed3EtdYHhasSdABo7g6m) | 2:02 |
+| 30 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 |
 | 31 | [Doritos & Fritos](https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:16 |
 | 32 | [fwb](https://open.spotify.com/track/1XnnLXcvFd21B25H4IHEIY) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 2:17 |
-| 33 | [Kismet](https://open.spotify.com/track/3owRFZTvTuWgNlUkbI6YgS) | [WHOKILLEDXIX](https://open.spotify.com/artist/0RSogp4qeGu0ZM71JRTay3) | [19](https://open.spotify.com/album/0jQjCFXUVRUrwUN7ACw0h8) | 2:51 |
+| 33 | [you don't love me](https://open.spotify.com/track/4GdFtfWORB3JQvsjjWvE4y) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno), [Xaxanity](https://open.spotify.com/artist/10m6Fvz501byHhoObkMPVy) | [you don't love me](https://open.spotify.com/album/16Ed3EtdYHhasSdABo7g6m) | 2:02 |
 | 34 | [think abt it](https://open.spotify.com/track/6MCYfUWQixdULHVaDm4Hgo) | [oaf1](https://open.spotify.com/artist/3x2XRFCUMHeXZ9uRit3pKu), [Caspr](https://open.spotify.com/artist/6yZgSbQMnAFpQRgv7EMRzZ) | [think abt it](https://open.spotify.com/album/70s3pT3CMwRrOw2DmEbx5V) | 2:24 |
 | 35 | [movinglikeazombie](https://open.spotify.com/track/2BVNa4XQsy01eGNJrdVwe1) | [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [hi, i'm dante](https://open.spotify.com/album/7y89IwnXil6Rg4Vw6LVKnV) | 1:56 |
 | 36 | [mos thoser](https://open.spotify.com/track/6nEDYdxD1YEWnXdbWxT6U8) | [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g), [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [food house](https://open.spotify.com/album/3JBuWWY8OCHXMcQz5xxxCr) | 4:07 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 64 | [Butterfly Bankai](https://open.spotify.com/track/7oQqKP46luTWUUPfcljy3T) | [SEBii](https://open.spotify.com/artist/5fAix5NwfNgHQqYRrHIPxo) | [Visored Vitality](https://open.spotify.com/album/209wPO4XXcc3zTKtV8kKhN) | 2:32 |
 | 65 | [Thos Moser](https://open.spotify.com/track/6pe1T2thmWds9hPq67Xv74) | [Gupi](https://open.spotify.com/artist/3YOvdmjSEwOqRAJ0ttfwCx), [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL), [food house](https://open.spotify.com/artist/41f6TKH0EoBnj3N4xIp26g) | [None](https://open.spotify.com/album/0FuahJaNlb2xX87G54NSLj) | 4:23 |
 | 66 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 |
-| 67 | [scawy monstews and nice spwites :3](https://open.spotify.com/track/6gSBiLOteoM05jq6KCrj6O) | [Fraxiom](https://open.spotify.com/artist/04Y5zXsFqYRzDr6tMXj6aL) | [scawy monstews and nice spwites :3](https://open.spotify.com/album/0v38eQrHnzNusRLakfZNkp) | 1:36 |
-| 68 | [clueless](https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me) | [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [clueless](https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg) | 2:07 |
-| 69 | [Be Your USA](https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW), [Iiris](https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv) | [Be Your USA](https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw) | 2:53 |
+| 67 | [clueless](https://open.spotify.com/track/2PlrJupGTWvgVlGXSK95Me) | [kuru](https://open.spotify.com/artist/1KJ5ZZBncdHtz60i3fiQYu), [kurtains](https://open.spotify.com/artist/7b2FbxYmnpGMPqDe04QmyP) | [clueless](https://open.spotify.com/album/6gtMMyI4wfLnfEDvtYNQpg) | 2:07 |
+| 68 | [Be Your USA](https://open.spotify.com/track/2v3wrFuzJTGl9e4seco6n4) | [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW), [Iiris](https://open.spotify.com/artist/3Y10Y3MuSy0W1ACvSQwTJv) | [Be Your USA](https://open.spotify.com/album/6iSlPHQkWNc6HSyNXUKoJw) | 2:53 |
+| 69 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 |
 | 70 | [FREAK](https://open.spotify.com/track/1xCMyuxOhuxpndBtKLwCHI) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [FREAK](https://open.spotify.com/album/0WXA8Ifv89mJAPL92qy6wF) | 2:47 |
 | 71 | [Rich Bitch Juice](https://open.spotify.com/track/23QNeWdV1uiLA8OyZ60mee) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Rich Bitch Juice](https://open.spotify.com/album/6ngx8qruRt2McKmWzpywRq) | 2:00 |
-| 72 | [Fade Away](https://open.spotify.com/track/4FC0VE8aoYj6s1vrLj367k) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Reflections](https://open.spotify.com/album/3h1wgea55XrtVoxrkRYDBn) | 4:16 |
-| 73 | [Sorry Bro \(I Love You\)](https://open.spotify.com/track/5mcQEEsF7qB67sxzoVJvhC) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 1:27 |
-| 74 | [Decay](https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [Secrets](https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT) | 2:02 |
-| 75 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 |
+| 72 | [Sorry Bro \(I Love You\)](https://open.spotify.com/track/5mcQEEsF7qB67sxzoVJvhC) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [My Agenda](https://open.spotify.com/album/2QFXjy3u6Bl6ctdK9FS9eF) | 1:27 |
+| 73 | [Decay](https://open.spotify.com/track/0gcIejeOFsOjbxzU5m2BV1) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8), [ericdoa](https://open.spotify.com/artist/4hR6Bm9YYtktXzjmKhb1Cn) | [Secrets](https://open.spotify.com/album/7B6Xgysqk6NCRcMe6RjCUT) | 2:02 |
+| 74 | [Hot Pink](https://open.spotify.com/track/59rdoga3q8OVCR5WnSGVM8) | [Let's Eat Grandma](https://open.spotify.com/artist/4qNZw759AdHSMugyDMrIlF) | [I'm All Ears](https://open.spotify.com/album/4TgXvHJWXGk0BlBvfs13Qg) | 4:08 |
+| 75 | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/track/0cYsiOzerJ7PvTyQdwASXl) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Glitch Gum](https://open.spotify.com/artist/1wpftBruYql3kTa4Px6kze) | [Kyoto \(Glitch Gum Remix\)](https://open.spotify.com/album/3B83CmsoSCZUrzZfbt4RyX) | 2:39 |
 
-Snapshot ID: `MCw2YmRmZmM0MmI0YzRhN2RjNjYwNzdhNjA0YjM4NjU4NTY2Y2M1ZjBj`
+Snapshot ID: `MCxlOWU0N2Q4NzU2NjAzYWRmZjc0OTQ0YzRlOTZiYjQ4MzU1NmFiOTA2`

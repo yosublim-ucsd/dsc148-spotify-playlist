@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Ke Personajes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,212,945 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,209,118 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,13 +87,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 77 | [De 100 a 0](https://open.spotify.com/track/0qRGHWWeGfBylFP2VPMBWd) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [De 100 a 0](https://open.spotify.com/album/3wyFppvqCcSXcTMVAo52B0) | 3:12 |
 | 78 | [Bonita](https://open.spotify.com/track/4KlrEwjhXnHLtmKauxVHJz) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Agustín Casanova](https://open.spotify.com/artist/2WhGojaMjv4VVn2HQSqrLM), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Bonita](https://open.spotify.com/album/7vMcapwZDRheyqRiuxhGFU) | 2:34 |
 | 79 | [Te Escapas De Mis Brazos](https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM) | [Y Si Estás Perseguido...!](https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq) | 2:41 |
-| 80 | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS) | [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/album/0cYCBuuYYaZQygefwFGBxs) | 4:56 |
+| 80 | [Chica Brasileña](https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Fuego en la Noche](https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU) | 2:27 |
 | 81 | [Que Rico Baila](https://open.spotify.com/track/5QTWB74jDroxV6DvMqV533) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW) | [Que Rico Baila](https://open.spotify.com/album/3VPmkC5efo6HJDW4oKQhLp) | 2:58 |
 | 82 | [Se Picó](https://open.spotify.com/track/2VnNaJFGInEJ0R5GkSQ7IP) | [\#TocoParaVos](https://open.spotify.com/artist/4PdggFNYwGfjRfkdG5OfES), [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Se Picó](https://open.spotify.com/album/6ohNtR3J1yNw2Cs7zFYZfN) | 2:19 |
-| 83 | [Chica Brasileña](https://open.spotify.com/track/3cjnOR9smeeqVfj13XSpqS) | [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Fuego en la Noche](https://open.spotify.com/album/3kuFkR32n0p4DEQ9LOXnmU) | 2:27 |
+| 83 | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS) | [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/album/0cYCBuuYYaZQygefwFGBxs) | 4:56 |
 | 84 | [La Bachata](https://open.spotify.com/track/3AMr0QkBGjrAoTbst5uWCG) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Valeria Gau](https://open.spotify.com/artist/1BfR4gQyjlhLAssULX0wDr), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [La Bachata](https://open.spotify.com/album/7IZJfSkOvMGvfc4OvYUttY) | 3:14 |
-| 85 | [A llorar a otra parte](https://open.spotify.com/track/7wB5JU6RIcUZCoymczsCFN) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [A llorar a otra parte](https://open.spotify.com/album/3WIlRYCiQJ67h9gkRnAhBH) | 2:36 |
-| 86 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 |
+| 85 | [Lo Mejor del Amor](https://open.spotify.com/track/6kQXTmUGWXtzw40zxv1yUz) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Lo Mejor del Amor](https://open.spotify.com/album/5vEQgXaLtCU2bozKTWOx6t) | 2:47 |
+| 86 | [A llorar a otra parte](https://open.spotify.com/track/7wB5JU6RIcUZCoymczsCFN) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [A llorar a otra parte](https://open.spotify.com/album/3WIlRYCiQJ67h9gkRnAhBH) | 2:36 |
 | 87 | [La Sensación del Bloque](https://open.spotify.com/track/6DcBYL6EyNztiSNxnVqPVN) | [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb), [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [La Sensación del Bloque](https://open.spotify.com/album/1ITkLq86DWEdkI5DhdFhNE) | 3:07 |
 | 88 | [C14TORCE V: Balada para un Alien](https://open.spotify.com/track/5Su5ATMfJpNlP9N5sfhuZu) | [Cazzu](https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y) | [C14TORCE V: Balada para un Alien](https://open.spotify.com/album/5YeW5QRGlSSh1kaRSzx9vO) | 2:50 |
 | 89 | [No hay más nada](https://open.spotify.com/track/2nruW43pcr20cNm3DBCDbz) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2) | [Cuestión de tiempo](https://open.spotify.com/album/1yAbPp9HY4AmCERN9JGYuw) | 3:54 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 99 | [Lejos](https://open.spotify.com/track/6Kk4fza1rX70tVY3ZZcsic) | [Dame 5](https://open.spotify.com/artist/0J65S0gB0D1gDEd0hK196k) | [Lejos](https://open.spotify.com/album/7v9qHkapXVdxsjp9F2DKo8) | 2:50 |
 | 100 | [Te Mentiría](https://open.spotify.com/track/1GtBrm91qZLzAZ0OR8uSCk) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [Te Mentiría](https://open.spotify.com/album/44z3iqLwB13tqTae7ohMfF) | 2:34 |
 
-Snapshot ID: `MCw1Mjk5MGNjOGIyMjVlMjI2MmNkMjYyZmM4YWFkYTU4YzEzYjU2MTA0`
+Snapshot ID: `MCw3NWUzYjY5YTkwYzc3Y2U2MDAyNjc0ODY5YzZiYmNkNGI4ZDExODY2`

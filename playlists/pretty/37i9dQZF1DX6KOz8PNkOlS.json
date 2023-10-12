@@ -1,12 +1,12 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 410598,
+  "num_followers": 410761,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNDMwZTE1NTU5Y2ZhYjIzMjNkMDc1NGJlYTMzZDQ2Y2IwYWU4MzJl",
+  "snapshot_id": "MCwwZWNmMmUyZGU0M2M1MTBhOGRmZDE3NGU5MTIzYjBkNzY2ZWY5NzVm",
   "tracks": [
     {
       "added_at": "2023-04-19 21:20:11",
@@ -181,24 +181,20 @@
       "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
     },
     {
-      "added_at": "2023-06-30 15:20:10",
+      "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Heartquake",
-        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
+        "name": "I Know I'm Funny haha",
+        "url": "https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
         }
       ],
-      "duration_ms": 218373,
-      "name": "Heartquake",
-      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
+      "duration_ms": 221186,
+      "name": "A Dream With a Baseball Player",
+      "url": "https://open.spotify.com/track/7hNPcyHhNYLCtTFa5bxvX1"
     },
     {
       "added_at": "2023-09-25 02:40:58",
@@ -233,20 +229,24 @@
       "url": "https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-06-30 15:20:10",
       "album": {
-        "name": "I Know I'm Funny haha",
-        "url": "https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0"
+        "name": "Heartquake",
+        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
       },
       "artists": [
         {
-          "name": "Faye Webster",
-          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 221186,
-      "name": "A Dream With a Baseball Player",
-      "url": "https://open.spotify.com/track/7hNPcyHhNYLCtTFa5bxvX1"
+      "duration_ms": 218373,
+      "name": "Heartquake",
+      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
     },
     {
       "added_at": "2023-08-31 18:57:48",
@@ -685,22 +685,6 @@
       "url": "https://open.spotify.com/track/2aIG5oXcYSJPkmS1pybszQ"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Morning Matters",
-        "url": "https://open.spotify.com/album/5Blcv1aeBSSVLkOcpR280c"
-      },
-      "artists": [
-        {
-          "name": "Yazmin Lacey",
-          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
-        }
-      ],
-      "duration_ms": 236093,
-      "name": "Own Your Own",
-      "url": "https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc"
-    },
-    {
       "added_at": "2023-06-07 16:02:09",
       "album": {
         "name": "Sorrow",
@@ -715,6 +699,22 @@
       "duration_ms": 140898,
       "name": "Sorrow",
       "url": "https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Morning Matters",
+        "url": "https://open.spotify.com/album/5Blcv1aeBSSVLkOcpR280c"
+      },
+      "artists": [
+        {
+          "name": "Yazmin Lacey",
+          "url": "https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg"
+        }
+      ],
+      "duration_ms": 236093,
+      "name": "Own Your Own",
+      "url": "https://open.spotify.com/track/3v7IwjkgOvcdoT0Odgrwzc"
     },
     {
       "added_at": "2023-04-05 03:20:02",
@@ -815,18 +815,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Any Shape You Take",
-        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
+        "name": "Where Do You Go",
+        "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
       },
       "artists": [
         {
-          "name": "Indigo De Souza",
-          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
+          "name": "Yebba",
+          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
         }
       ],
-      "duration_ms": 256664,
-      "name": "Hold U",
-      "url": "https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7"
+      "duration_ms": 237493,
+      "name": "Where Do You Go",
+      "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -847,18 +847,18 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Where Do You Go",
-        "url": "https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL"
+        "name": "Any Shape You Take",
+        "url": "https://open.spotify.com/album/7G7lPTcJta35qGZ8LMIJ4y"
       },
       "artists": [
         {
-          "name": "Yebba",
-          "url": "https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F"
+          "name": "Indigo De Souza",
+          "url": "https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e"
         }
       ],
-      "duration_ms": 237493,
-      "name": "Where Do You Go",
-      "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
+      "duration_ms": 256664,
+      "name": "Hold U",
+      "url": "https://open.spotify.com/track/3LXWz3LTASiVb63HWc7Wa7"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -901,22 +901,6 @@
       "url": "https://open.spotify.com/track/7KkqFE3ZfAVxdBmRDeOIJb"
     },
     {
-      "added_at": "2022-10-05 01:25:40",
-      "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 182710,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Origin (Deluxe Edition)",
@@ -931,6 +915,22 @@
       "duration_ms": 179693,
       "name": "Signs",
       "url": "https://open.spotify.com/track/0pPpkAXqt8UDVXBvSYI5pn"
+    },
+    {
+      "added_at": "2022-10-05 01:25:40",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4dyua6pD9i0Ht460lB6JOG"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "duration_ms": 182710,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/06TDTjD7efqsLwhXKv0bci"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1229,22 +1229,6 @@
       "url": "https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB"
     },
     {
-      "added_at": "2022-09-29 00:10:44",
-      "album": {
-        "name": "Mercurial World (Deluxe)",
-        "url": "https://open.spotify.com/album/01d2Rn2VtB6THtOb9nwM9p"
-      },
-      "artists": [
-        {
-          "name": "Magdalena Bay",
-          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
-        }
-      ],
-      "duration_ms": 189004,
-      "name": "Unconditional",
-      "url": "https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s"
-    },
-    {
       "added_at": "2023-05-24 02:01:11",
       "album": {
         "name": "I Hope You Can Forgive Me",
@@ -1261,20 +1245,20 @@
       "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2022-09-29 00:10:44",
       "album": {
-        "name": "Off Off On",
-        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+        "name": "Mercurial World (Deluxe)",
+        "url": "https://open.spotify.com/album/01d2Rn2VtB6THtOb9nwM9p"
       },
       "artists": [
         {
-          "name": "This Is The Kit",
-          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+          "name": "Magdalena Bay",
+          "url": "https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ"
         }
       ],
-      "duration_ms": 200480,
-      "name": "Coming to Get You Nowhere",
-      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
+      "duration_ms": 189004,
+      "name": "Unconditional",
+      "url": "https://open.spotify.com/track/2gjrOwSGTDKpzoDdMCLr5s"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1291,6 +1275,22 @@
       "duration_ms": 228694,
       "name": "Rain",
       "url": "https://open.spotify.com/track/0aGWSE3g81t44RSjqfqr7o"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Off Off On",
+        "url": "https://open.spotify.com/album/1X8kC5D2ke7puDYgalJtXj"
+      },
+      "artists": [
+        {
+          "name": "This Is The Kit",
+          "url": "https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Coming to Get You Nowhere",
+      "url": "https://open.spotify.com/track/2pvTzDOIibESGP5usDO0rG"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
-      },
-      "artists": [
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 261614,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
         "name": "Modern World",
         "url": "https://open.spotify.com/album/5lLgEhk1YTVF7mg3MyN28p"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 282453,
       "name": "Sweet Lie",
       "url": "https://open.spotify.com/track/47AS3xyNXDjP5SrgpG3cmL"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/0gmjvJvdWuD3AFk9sZ02Yi"
+      },
+      "artists": [
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 261614,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/6rUPjRwq8gNoGxwFQ5z7PB"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1609,6 +1609,22 @@
       "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
     },
     {
+      "added_at": "2022-01-26 18:13:44",
+      "album": {
+        "name": "Saturday Yawning",
+        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
+      },
+      "artists": [
+        {
+          "name": "flowerovlove",
+          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
+        }
+      ],
+      "duration_ms": 148461,
+      "name": "Saturday Yawning",
+      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
+    },
+    {
       "added_at": "2023-06-02 01:19:32",
       "album": {
         "name": "Giver Taker",
@@ -1641,22 +1657,6 @@
       "url": "https://open.spotify.com/track/6gAM5yFXa4V54zUMR03QSp"
     },
     {
-      "added_at": "2022-01-26 18:13:44",
-      "album": {
-        "name": "Saturday Yawning",
-        "url": "https://open.spotify.com/album/34exJemCtbbLGMfUPfqsPA"
-      },
-      "artists": [
-        {
-          "name": "flowerovlove",
-          "url": "https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj"
-        }
-      ],
-      "duration_ms": 148461,
-      "name": "Saturday Yawning",
-      "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Apollonia",
@@ -1671,22 +1671,6 @@
       "duration_ms": 158314,
       "name": "Foreign Affair",
       "url": "https://open.spotify.com/track/6705wcrwrj3Z9QvvsCQpng"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Miss Universe",
-        "url": "https://open.spotify.com/album/1kodX6YjT66DyInfVS6aGv"
-      },
-      "artists": [
-        {
-          "name": "Nil\u00fcfer Yanya",
-          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
-        }
-      ],
-      "duration_ms": 281170,
-      "name": "Baby Blu",
-      "url": "https://open.spotify.com/track/5TLMnMcFTlxa7on9ZltYzz"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1707,6 +1691,22 @@
       "duration_ms": 208056,
       "name": "New Love Cassette (Mark Ronson Remix)",
       "url": "https://open.spotify.com/track/458PwXRF8eLf8SGKJIxilc"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Miss Universe",
+        "url": "https://open.spotify.com/album/1kodX6YjT66DyInfVS6aGv"
+      },
+      "artists": [
+        {
+          "name": "Nil\u00fcfer Yanya",
+          "url": "https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA"
+        }
+      ],
+      "duration_ms": 281170,
+      "name": "Baby Blu",
+      "url": "https://open.spotify.com/track/5TLMnMcFTlxa7on9ZltYzz"
     },
     {
       "added_at": "2021-10-15 03:01:31",

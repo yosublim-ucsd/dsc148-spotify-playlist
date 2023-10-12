@@ -4,7 +4,7 @@
 
 > The world series of Ska\. Cover: Out Of Control Army
 
-563 songs - 1 day 8 hr 40 min
+564 songs - 1 day 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Despideme](https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Radio Ghetto](https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ) | 3:18 | 2021-12-06 |  |
 | [Devil With a Microphone](https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Random Hand](https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC) | 3:12 | 2023-09-29 | 2023-10-07 |
 | [Dia Seguinte](https://open.spotify.com/track/5UOQw5b2rvKBmDfkFSIauk) | [Guantas](https://open.spotify.com/artist/3p50dE2v8qcMvPXjzAKUXf) | [Guantas](https://open.spotify.com/album/1zSGiGOccDEpWDjpC2bzsb) | 3:49 | 2021-12-06 | 2022-07-25 |
-| [Doin' What We Do](https://open.spotify.com/track/1wMxbY2NiEcMtpgExxsyKY) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Doin' What We Do](https://open.spotify.com/album/2bsry5FfdfgiABYGw77YHf) | 3:04 | 2023-09-01 |  |
+| [Doin' What We Do](https://open.spotify.com/track/1wMxbY2NiEcMtpgExxsyKY) | [Mustard Plug](https://open.spotify.com/artist/5UDSYxxqcF7prMrO2opRhu) | [Doin' What We Do](https://open.spotify.com/album/2bsry5FfdfgiABYGw77YHf) | 3:04 | 2023-09-01 | 2023-10-12 |
 | [Dolce far niente](https://open.spotify.com/track/6lC9Ylt9CMMlFt0qOJYhV4) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Dolce far niente](https://open.spotify.com/album/3eijO45zq05msPm09WUErh) | 2:55 | 2023-09-08 |  |
 | [Don't Let the Bastards Grind You Down](https://open.spotify.com/track/0XlPgrltmThUXK0hoClUfM) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [The Toasters: 30th Anniversary](https://open.spotify.com/album/6AFJwHYa0jt4z7qj1DghIo) | 2:50 | 2021-12-06 | 2023-04-22 |
 | [Don't Worry, Be Happy](https://open.spotify.com/track/1fCwJr4ICgKcJOVqnY1Dtb) | [The Busters](https://open.spotify.com/artist/2wCh75gIAQ5Ed9UGiqLBMB) | [Ruder Than Rude](https://open.spotify.com/album/5fYmxYffEECoKcstBe37qU) | 2:57 | 2021-12-06 | 2023-09-09 |
@@ -470,6 +470,7 @@
 | [Sólo Vivir](https://open.spotify.com/track/5MOx0l5aTGHFTJSTYpkDxz) | [Skalariak](https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ) | [Klub Ska](https://open.spotify.com/album/2bWA5NhjP7bgAQFlZwnz0w) | 3:26 | 2021-12-06 |  |
 | [Take 5 \- Ao Vivo Na Casa De Francisca](https://open.spotify.com/track/6fPJR1tK21mcWrLqCQ3QVX) | [Orquestra Brasileira de Música Jamaicana](https://open.spotify.com/artist/28RBIZhnFFXuj6ST2ELsMS) | [Obmjazz \(Ao Vivo Na Casa De Francisca\)](https://open.spotify.com/album/4zRNaCaMdp7JUeWU5U9mvu) | 7:11 | 2021-12-06 | 2022-06-03 |
 | [Take A Picture](https://open.spotify.com/track/7giR6E99Z3dVJaO3O19E1N) | [Popes Of Chillitown](https://open.spotify.com/artist/52TSqCyQNF1RMmTzew0soN) | [Take A Picture](https://open.spotify.com/album/7jZBAp2xrHDGK8aXHR9xoG) | 3:57 | 2023-06-02 | 2023-06-10 |
+| [Take Five](https://open.spotify.com/track/3Jx2zlAdV9UPERSDhIFjwa) | [New York Ska\-Jazz Ensemble](https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj) | [Step Forward](https://open.spotify.com/album/3wGPw3tffcWEPsCprWzvP3) | 5:04 | 2023-10-06 |  |
 | [Take Five](https://open.spotify.com/track/4oMMdE8PlUjnyNO7HRixuV) | [New York Ska\-Jazz Ensemble](https://open.spotify.com/artist/0ADVX4vKQN1saCsOdl67Fj) | [Step Forward](https://open.spotify.com/album/7CTa40f16I1EjYJUa724iE) | 5:04 | 2021-12-06 | 2023-10-04 |
 | [Take It or Leave It](https://open.spotify.com/track/0qdnPX9umHlQBQuv2sYZlo) | [Sublime With Rome](https://open.spotify.com/artist/3XXrhkZKSGd3CUJQFnx5tQ) | [Yours Truly \(Deluxe Edition\)](https://open.spotify.com/album/2bKgvvT3ZCOW8CRpbU0Hdt) | 3:52 | 2021-12-06 | 2023-04-22 |
 | [Take On Me](https://open.spotify.com/track/7IfckgnBsIdP4XE4tfWEDN) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [The Best Of Us For The Rest Of Us](https://open.spotify.com/album/1U7jVocQwP0iF7eQP0wmUI) | 3:19 | 2021-12-06 |  |

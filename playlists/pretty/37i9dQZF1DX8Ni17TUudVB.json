@@ -1,12 +1,12 @@
 {
   "description": "En\u00e9rgicos beats para musicalizar tu rutina diaria de ejercicio.",
-  "num_followers": 140058,
+  "num_followers": 140045,
   "original_name": "Ejercicio Total",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhODJhNDZkYzJiMzEwYzZiNWEzMTY0NGNhMmJhNzEyNzNiYTFjM2Y1",
+  "snapshot_id": "MCwyNDJkZjg2Zjg0ZDRmNTgyNmQ3ODNjN2MwMzgwZDc5OTlkOWM0NjEx",
   "tracks": [
     {
       "added_at": "2023-09-11 15:59:41",
@@ -55,26 +55,6 @@
       "duration_ms": 186661,
       "name": "Ferrari",
       "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo"
-      },
-      "artists": [
-        {
-          "name": "Oliver Tree",
-          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
-        },
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Miss You",
-      "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -343,6 +323,34 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
+        "name": "Carte Blanche",
+        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
+      },
+      "artists": [
+        {
+          "name": "DJ Snake",
+          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
+        },
+        {
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 212500,
+      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
         "name": "Mad World",
         "url": "https://open.spotify.com/album/35LVfE1wsiXr4tdKnYliJ8"
       },
@@ -423,74 +431,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Carte Blanche",
-        "url": "https://open.spotify.com/album/2MFS6WG6jnPAgvJpV3PehR"
-      },
-      "artists": [
-        {
-          "name": "DJ Snake",
-          "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4"
-        },
-        {
-          "name": "Selena Gomez",
-          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 212500,
-      "name": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
-      "url": "https://open.spotify.com/track/0KoiMHhqKLoL4xM54rcWYY"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
-        "name": "GTA.mp3",
-        "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
-      },
-      "artists": [
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 151653,
-      "name": "GTA.mp3",
-      "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
-        "name": "Ritual",
-        "url": "https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
-        }
-      ],
-      "duration_ms": 198995,
-      "name": "Ritual",
-      "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Good Morning Music: Wake Up Workout",
         "url": "https://open.spotify.com/album/3MWSY8N1zWSNBcnMTIeiTz"
       },
@@ -507,6 +447,22 @@
       "duration_ms": 203920,
       "name": "Heads Will Roll - A-Trak Remix Radio Edit",
       "url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "GTA.mp3",
+        "url": "https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2"
+      },
+      "artists": [
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 151653,
+      "name": "GTA.mp3",
+      "url": "https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -539,6 +495,30 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
+        "name": "Ritual",
+        "url": "https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+        }
+      ],
+      "duration_ms": 198995,
+      "name": "Ritual",
+      "url": "https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
         "name": "Like Wooh Wooh",
         "url": "https://open.spotify.com/album/2tPlR2MrouxMfxuumYUzIb"
       },
@@ -551,26 +531,6 @@
       "duration_ms": 196044,
       "name": "Like Wooh Wooh",
       "url": "https://open.spotify.com/track/2DjZ7Ytv2UDKXSoQXTXPkN"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
-        "name": "Te Cura (FAST X Soundtrack)",
-        "url": "https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        },
-        {
-          "name": "Fast & Furious: The Fast Saga",
-          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
-        }
-      ],
-      "duration_ms": 150612,
-      "name": "Te Cura",
-      "url": "https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -591,6 +551,26 @@
       "duration_ms": 161880,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/1c2vVx6knoiZHXbJJ9Mk8L"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Te Cura (FAST X Soundtrack)",
+        "url": "https://open.spotify.com/album/3Fmhv63yHMiR66fldCjrcP"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Fast & Furious: The Fast Saga",
+          "url": "https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs"
+        }
+      ],
+      "duration_ms": 150612,
+      "name": "Te Cura",
+      "url": "https://open.spotify.com/track/0RpL1pOALdN5E4Ci1tYG1y"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -655,22 +635,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "LALI",
-        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 154867,
-      "name": "N5",
-      "url": "https://open.spotify.com/track/2HQWMYkuy8Rm0uweatfe8F"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Shake It",
         "url": "https://open.spotify.com/album/4LjGbU7iSp0eHTaJmNMfay"
       },
@@ -683,6 +647,22 @@
       "duration_ms": 167619,
       "name": "Shake It",
       "url": "https://open.spotify.com/track/2Z78AngJD5wuKpSFIf89F3"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "LALI",
+        "url": "https://open.spotify.com/album/2nc62Mll62aIDw3wUiAHW3"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 154867,
+      "name": "N5",
+      "url": "https://open.spotify.com/track/2HQWMYkuy8Rm0uweatfe8F"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -807,6 +787,26 @@
       "duration_ms": 192402,
       "name": "Better When You're Gone",
       "url": "https://open.spotify.com/track/4Tvw0lweq9l2JPQKFbpbBQ"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Miss You - Bonus Track",
+      "url": "https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "Creep (mint Singles)",
-        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "GATT\u00dcSO",
-          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
-        }
-      ],
-      "duration_ms": 161190,
-      "name": "Creep",
-      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Physical (Alok Remix)",
         "url": "https://open.spotify.com/album/33ovaMUQHWkt0GCkjYLDTh"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 189000,
       "name": "Physical - Alok Remix",
       "url": "https://open.spotify.com/track/6K96iePtHzcOJ1AhsBlFAN"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "Creep (mint Singles)",
+        "url": "https://open.spotify.com/album/5PdK5CUy51Jrhr1Z2jxZ79"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "GATT\u00dcSO",
+          "url": "https://open.spotify.com/artist/3PlRvQnVE3XAbtHUNc4nic"
+        }
+      ],
+      "duration_ms": 161190,
+      "name": "Creep",
+      "url": "https://open.spotify.com/track/3nW81vy2T6n7864jjPB2aQ"
     },
     {
       "added_at": "2023-09-11 15:59:41",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2023-09-11 15:59:41",
       "album": {
-        "name": "My Pony",
-        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        }
-      ],
-      "duration_ms": 153414,
-      "name": "My Pony",
-      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
-    },
-    {
-      "added_at": "2023-09-11 15:59:41",
-      "album": {
         "name": "Take Me (feat. Gloria Kim)",
         "url": "https://open.spotify.com/album/2iKMMT8wYcCKuXjftgtlGn"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 240000,
       "name": "Take Me (feat. Gloria Kim)",
       "url": "https://open.spotify.com/track/4G4CdyOtmmRXJUpV6l2Q8b"
+    },
+    {
+      "added_at": "2023-09-11 15:59:41",
+      "album": {
+        "name": "My Pony",
+        "url": "https://open.spotify.com/album/6HMterUxT7AF2ekoEiCiw9"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        }
+      ],
+      "duration_ms": 153414,
+      "name": "My Pony",
+      "url": "https://open.spotify.com/track/4GprZcKZ8U6GBMXWVmkkWX"
     },
     {
       "added_at": "2023-09-11 15:59:41",

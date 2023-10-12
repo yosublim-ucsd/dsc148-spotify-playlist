@@ -4,7 +4,7 @@
 
 > Dosis musical para disfrutar el momento\. Foto: Feid
 
-108 songs - 5 hr 47 min
+111 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [ESO VA](https://open.spotify.com/track/3OJHqWUIF06coILsONNcJ4) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X), [Hamilton](https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX) | [ESO VA](https://open.spotify.com/album/7G6P1cBAHQqFP3ljX8d27w) | 2:46 | 2023-09-22 |  |
 | [Estetograma](https://open.spotify.com/track/5Jhybb3bz6VtMzfgNPGtqN) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Daymé Arocena](https://open.spotify.com/artist/6LcWO77VeIUPqNY22N3fI0) | [Estetograma](https://open.spotify.com/album/5g2NbpwACR5K3maWs2uaJu) | 3:40 | 2023-03-31 | 2023-07-08 |
 | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/track/4E6kns35AUSkJhHpXYRRKF) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [pablopablo](https://open.spotify.com/artist/4jbtfb5mOGveUu9bTYIvEZ) | [Estrecho / Alvarado \(feat\. pablopablo\)](https://open.spotify.com/album/1Z3NkOHY0rbefHDkIttPhP) | 2:30 | 2023-06-23 | 2023-07-15 |
-| [EY CHORY](https://open.spotify.com/track/74BwwBMcu6xNt7nWmtsCg1) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:57 | 2023-09-29 |  |
+| [EY CHORY](https://open.spotify.com/track/74BwwBMcu6xNt7nWmtsCg1) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:57 | 2023-09-29 | 2023-10-12 |
+| [EY CHORY](https://open.spotify.com/track/1npr0HhhkrcTOgqWOp76TM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:58 | 2023-09-29 |  |
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu) | 2:36 | 2023-03-31 |  |
 | [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2023-03-31 |  |
 | [FERXXO EDITION](https://open.spotify.com/track/1XliaOvtQuV1hoXiIik2aQ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:41 | 2023-09-29 |  |
@@ -87,7 +88,8 @@
 | [No Te Creas Tanto](https://open.spotify.com/track/3lTqxHwO6NqyGZhOxhWFvV) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z), [Montano](https://open.spotify.com/artist/3LlWsXsjIJmaKmPaB9GIyH) | [DEKKOLETERA 333](https://open.spotify.com/album/12gXwHN7MFHNc48utTmuGM) | 3:11 | 2023-09-22 |  |
 | [No Te Vayas](https://open.spotify.com/track/4BjwreWm0U4DdwqYk6hJH2) | [Rap Bang Club](https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [No Te Vayas](https://open.spotify.com/album/3vhqf5YeiGZyCuXkKzWE5b) | 4:36 | 2023-07-07 |  |
 | [NOSPOR](https://open.spotify.com/track/4yqrIQZxkR5ayIYDVE2alF) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [NOSPOR](https://open.spotify.com/album/1N0JU10NYU5sG4QD5lTjeV) | 2:18 | 2023-07-21 | 2023-09-30 |
-| [NX TX SIENTAS SOLX](https://open.spotify.com/track/4OmSsqo4Hi9LCIh9Z4gKKq) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:59 | 2023-09-29 |  |
+| [NX TX SIENTAS SOLX](https://open.spotify.com/track/4OmSsqo4Hi9LCIh9Z4gKKq) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:59 | 2023-09-29 | 2023-10-12 |
+| [NX TX SIENTAS SOLX](https://open.spotify.com/track/0xzNdNJSQnHfRLYRdVhERp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:01 | 2023-09-29 |  |
 | [Offline](https://open.spotify.com/track/4STNoDYDV4JzJcaL6ZocSU) | [Liana Malva](https://open.spotify.com/artist/56plP53XqguNv08lDJUeTt) | [Offline](https://open.spotify.com/album/7cLPoW0K3uRzKQyFlclq3w) | 2:50 | 2023-09-22 |  |
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2023-03-31 | 2023-04-15 |
 | [One Love](https://open.spotify.com/track/2SfnV0AOAn3e5id2Yg5qJz) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Ahora Tengo Todo Menos A Ti](https://open.spotify.com/album/44cLix04JOwkepKq6nIUFL) | 2:50 | 2023-03-31 |  |
@@ -113,7 +115,8 @@
 | [Ula Ula](https://open.spotify.com/track/6zcP0uMWuYgQua6WOKfBZm) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [DEKKOLETERA 33](https://open.spotify.com/album/54T5464PwGMLUYYAUDYzso) | 2:36 | 2023-07-28 | 2023-09-30 |
 | [Un Rodeoooo](https://open.spotify.com/track/5ak67nfN54lbm0ophfLj2t) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Un Rodeoooo](https://open.spotify.com/album/0moZUivW5b3JvniIYYiaEi) | 2:16 | 2023-07-21 |  |
 | [Victoria](https://open.spotify.com/track/2BxzmBb2uqwnpyVuJqIIV9) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Victoria](https://open.spotify.com/album/3FKA9NEOo3FYqykdnTqp58) | 3:43 | 2023-03-31 |  |
-| [VOL 2](https://open.spotify.com/track/3YZyRP5bddC0iQTeALPQep) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:10 | 2023-09-29 |  |
+| [VOL 2](https://open.spotify.com/track/1TNSlRzSRjDeMJQQ2KzBQ4) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 1:10 | 2023-09-29 |  |
+| [VOL 2](https://open.spotify.com/track/3YZyRP5bddC0iQTeALPQep) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:10 | 2023-09-29 | 2023-10-12 |
 | [Volando \- Remix](https://open.spotify.com/track/0G2zPzWqVjR68iNPmx2TBe) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Volando \(Remix\)](https://open.spotify.com/album/4MCZWUKxkvdMITh4KapBKX) | 4:33 | 2023-03-31 |  |
 | [Zaza \(Chimbita\)](https://open.spotify.com/track/5oVdxjNUUjf9Q06LnPYYay) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [Xantos](https://open.spotify.com/artist/3HPOnbuwLP2qlwWQ7cgxYW), [LATENIGHTJIGGY](https://open.spotify.com/artist/34OTRVwyaE8DkOrGMQa7Ah) | [Zaza \(Chimbita\)](https://open.spotify.com/album/7tZYg2RzA4NSNFACxWhy9Y) | 3:08 | 2023-03-31 | 2023-07-22 |
 

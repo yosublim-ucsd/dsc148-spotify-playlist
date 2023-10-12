@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 
 > Lovejoy along with today's Rock songs you need to hear.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,834,813 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,818,017 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcF6B6QPhFDv.md) - [plain]
 | 49 | [Snapshot](https://open.spotify.com/track/3FyGUTC41cUpXhugPyQaz6) | [Code Orange](https://open.spotify.com/artist/6qtECqesbU29iftyeWmldK) | [The Above](https://open.spotify.com/album/1InJp7zivXVxzyEPjNIX6C) | 3:29 |
 | 50 | [Invisible Hand](https://open.spotify.com/track/5BblwbftnIDV0Je620kSKs) | [✝✝✝ \(Crosses\)](https://open.spotify.com/artist/3gPZCcrc8KG2RuVl3rtbQ2) | [Invisible Hand](https://open.spotify.com/album/0tdKFj9MZ2g1oPb2VoEepz) | 3:54 |
 
-Snapshot ID: `MCxlYTc5N2NjODY0ZTBjZWNhOThiNDZkYjZhYzM4NWJjZDAyZTE2YmM2`
+Snapshot ID: `MCw2ZDcwMTU5NjQ0ZTJmY2QyOWZiZWI4ZDYzNGRiNTRhN2ExYjQ5MDA3`

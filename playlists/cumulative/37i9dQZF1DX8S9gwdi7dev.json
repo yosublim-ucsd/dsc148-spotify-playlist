@@ -877,6 +877,24 @@
     },
     {
       "album": {
+        "name": "Psychedelic Jungle",
+        "url": "https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn"
+      },
+      "artists": [
+        {
+          "name": "The Cramps",
+          "url": "https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186038,
+      "name": "Goo Goo Muck",
+      "url": "https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP"
+    },
+    {
+      "album": {
         "name": "Manic",
         "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr"
       },

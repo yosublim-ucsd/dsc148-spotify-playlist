@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 881,688 likes - 100 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 881,507 likes - 100 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 28 | [Orange](https://open.spotify.com/track/4gnrM7X1H8sDjyGSv6Y9az) | [Dogs on Shady Lane](https://open.spotify.com/artist/3knt52q5hbmRnHDzllw8qO) | [Orange](https://open.spotify.com/album/6AQymuAGSvGCXV30K5nHDx) | 4:30 |
 | 29 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
 | 30 | [Steal The Air](https://open.spotify.com/track/2ALZSoAzibYD9AP5xkGjZz) | [Phantom Youth](https://open.spotify.com/artist/6R3Zn2xPFisfiGQIrp4sKd) | [Steal The Air](https://open.spotify.com/album/5OvfpBVGHG432h7qMnkcwj) | 3:34 |
-| 31 | [Meshuggah](https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Meshuggah](https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93) | 4:37 |
+| 31 | [Meshuggah](https://open.spotify.com/track/7FpD6W73sZuEEp4dNRCwy9) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:37 |
 | 32 | [Wagging Tongue \- Wet Leg Remix](https://open.spotify.com/track/5yxtxZ7IfGO18XHbRJxtkd) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX), [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wagging Tongue \(Remixes\)](https://open.spotify.com/album/3Oc7qOr81qHQIfNMjdEU1H) | 4:38 |
 | 33 | [Always](https://open.spotify.com/track/5uHgKIUzqrpRt10p1crJma) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Always](https://open.spotify.com/album/1vBq4EJTv9SxqYJ01tCZDp) | 3:27 |
 | 34 | [Sirens](https://open.spotify.com/track/2Z8SlVNjMt0pWOqGYed79o) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ) | [Flying Wig](https://open.spotify.com/album/1UGDY2YCY9kG8wMiafmTrm) | 4:28 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8gDIpdqp1XJ.md) - [plain]
 | 99 | [Afterlife](https://open.spotify.com/track/5XfG0OjDoHFAOOBtPcSmX8) | [Temples](https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV) | [Exotico](https://open.spotify.com/album/4rPbXiutTsGBMnkW9KESZQ) | 3:46 |
 | 100 | [Low Lights and Throwback Tunes](https://open.spotify.com/track/6p0uCWOGRJBm3Fh2g1gYzM) | [common goldfish](https://open.spotify.com/artist/6Mmv28h1DOKGQEPxJBqe8F) | [Low Lights and Throwback Tunes](https://open.spotify.com/album/7gKrqg4cpCrDFhApfYmnXF) | 4:07 |
 
-Snapshot ID: `MCxiMjhiMjc3M2U4MDYwZTIyNTc5ZDFlODk5ZTY1ZmJkZDE4NjQ1YmU4`
+Snapshot ID: `MCxjYjc1M2ZlYjViMTYwOTRhMTA5ZWEzMDBmYTU2MmI5YmM0M2JlY2Rj`

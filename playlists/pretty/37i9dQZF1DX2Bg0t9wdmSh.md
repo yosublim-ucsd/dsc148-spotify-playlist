@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/justinlaboy/">Justin LaBoy</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,024 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,041 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Bg0t9wdmSh.md) - [plain]
 | 49 | [Broke Up In Miami](https://open.spotify.com/track/4L1YERExL7737mCRSCuQxq) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Just Cause Y'all Waited 2](https://open.spotify.com/album/3D4bwVn4Wp8Za0Amkyd5I5) | 2:29 |
 | 50 | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/6aIARN0We3Rf0O2n20J8hp) | [Young Dolph](https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [RNB \(feat\. Megan Thee Stallion\)](https://open.spotify.com/album/6A0oDDWAJwFxzD2YQwmp0U) | 3:31 |
 
-Snapshot ID: `MCw2MmQ5ODVjYTQ2M2FlNzZkMGYyNWM2NzRiNTg5YmJmNTQzZTE2OTY2`
+Snapshot ID: `MCw5YWU1YzY4MGY4NWI2NzY2MjJjNDU4YTEzNmU2OTM0MGMzYzNhZDdh`

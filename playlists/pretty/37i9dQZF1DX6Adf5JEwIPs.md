@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Thalia
 
-[Spotify](https://open.spotify.com/user/spotify) - 631,129 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 630,480 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 39 | [Mil Pedazos](https://open.spotify.com/track/2Mi5BLsctdUzadFCTbhSQC) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Mil Pedazos](https://open.spotify.com/album/0dchtdW6KeKfbHGwMMxppF) | 3:01 |
 | 40 | [Con Zapatos De Tacón](https://open.spotify.com/track/48rO7kr8xXHRXp77B5aUty) | [Son Dos](https://open.spotify.com/artist/4O53zQIpAkCQyfSUe8cfwZ), [Los Nietos De Terán](https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf) | [Con Zapatos De Tacón](https://open.spotify.com/album/6WVqFeaMTUdbegwoIwiiD6) | 3:44 |
 | 41 | [De Japón A París](https://open.spotify.com/track/7iq9rXVT3CWl3VjwHkpHXm) | [Patria Chica](https://open.spotify.com/artist/50Zgf95i1BEuFsbdVhoC8p), [Tony Espinoza](https://open.spotify.com/artist/3Vpu7WZUjVtlfpb0102Lwj) | [De Japón A París](https://open.spotify.com/album/1HwcdseYLgDQwRPcSPEwiJ) | 3:06 |
-| 42 | [Gente de Trabajo](https://open.spotify.com/track/539ODBD3viiZWUkPOrOxex) | [La Explosiva Banda de Maza](https://open.spotify.com/artist/47MLbwdZlIawes1sZfMZTV), [Los Hijos De Manuel](https://open.spotify.com/artist/0XEF5np8eR2T0GPHPK1FxE) | [Gente de Trabajo](https://open.spotify.com/album/0lvGeuKteVNWoMlpf55Y6C) | 2:25 |
+| 42 | [Gente de Trabajo](https://open.spotify.com/track/539ODBD3viiZWUkPOrOxex) | [La Explosiva Banda de Maza](https://open.spotify.com/artist/2KgVCSjwMY3lqnXElXFqTR), [Los Hijos De Manuel](https://open.spotify.com/artist/0XEF5np8eR2T0GPHPK1FxE) | [Gente de Trabajo](https://open.spotify.com/album/0lvGeuKteVNWoMlpf55Y6C) | 2:25 |
 | 43 | [Le Hace Falta Un Beso \- En Vivo](https://open.spotify.com/track/40y031wmKnSkzkqWkR8J5J) | [Los Serenos](https://open.spotify.com/artist/6mpN14FjgpxEkAaardtdBj) | [Desde East LA \(En Vivo\)](https://open.spotify.com/album/5HaSlH3YfM1wDij5edU8Ol) | 2:46 |
 | 44 | [COMO TÚ QUISIERAS](https://open.spotify.com/track/7ym26MxjGdeMlxnzjTpwDG) | [ARRIOLA](https://open.spotify.com/artist/40C6ypaqw5koNMf06hVked) | [COMO TÚ QUISIERAS](https://open.spotify.com/album/3q1Pz6BL5YIkoKYk1jwJBP) | 3:12 |
 | 45 | [La Primiza](https://open.spotify.com/track/1dNl8Gv2jZdW3zHdC3pCyz) | [BÉLICO INDIE](https://open.spotify.com/artist/31kHBwfQiX3Iha7wxGwFo3), [Grupo 3 Mandos](https://open.spotify.com/artist/30NWCe5fNf3m9yC6wbPltS) | [La Primiza](https://open.spotify.com/album/32kDd3Q71lYQOEN0976maj) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 49 | [Buscándole A La Suerte](https://open.spotify.com/track/2jOajXFkllEHWaHgSzhuBV) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Buscándole A La Suerte](https://open.spotify.com/album/74bPnWHzQtUocCjMpK08au) | 2:18 |
 | 50 | [LALA](https://open.spotify.com/track/4l2yplVehb4oiQ5qS5XCQc) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [Luis Mexia](https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC) | [LALA](https://open.spotify.com/album/7CNQuFMI9yYy8dHkPx9Y13) | 3:11 |
 
-Snapshot ID: `MCw3YjNhNTZlNzg0NTJhZjE4OTVkMjQyNjUzZWE5ZDdiNGRmMTljMTk4`
+Snapshot ID: `MCxlYjgxMGQzYjFkZTczZmMyYmIwMTVjZDEzMjEzNmIyMjRkYjQyYzQ2`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Dali Mata y Breton en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,587 likes - 80 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,586 likes - 80 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,10 +19,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 9 | [Milagro y Desastre](https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/1NzQ77Keod0h1jD7xTltxe) | 4:05 |
 | 10 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 |
 | 11 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
-| 12 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 |
+| 12 | [Soñar Contigo](https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi) | 2:48 |
 | 13 | [Vuelvo Pronto](https://open.spotify.com/track/2HECQdPQtR1K9DfEdCBAoa) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Canciones Secretas](https://open.spotify.com/album/6CrUSUaGNBRz8MNYTkvNm1) | 2:32 |
 | 14 | [Colapso](https://open.spotify.com/track/7dT9D6117e5DbhnKxDLNW9) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Hasta el Fin Del Mundo](https://open.spotify.com/album/7M4AeOUpTfAHk1Ch4xKUC7) | 3:55 |
-| 15 | [Soñar Contigo](https://open.spotify.com/track/0E6DZBx42XXXIE1v1iP9O3) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi) | 2:48 |
+| 15 | [Brindo](https://open.spotify.com/track/1oLp4xkeNCxjMy4glz0vbL) | [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Brindo](https://open.spotify.com/album/5WBJnHs3CWYPwoi3yJS58x) | 3:05 |
 | 16 | [No Te Quiero Perder](https://open.spotify.com/track/4AwlNIyid3oRyNqX61kTKt) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Limerencia](https://open.spotify.com/album/4d9KK2351FK3PAzlqfy8yj) | 3:46 |
 | 17 | [Terraformar](https://open.spotify.com/track/4ZDdMGTlSgm7ATgbx4pZlP) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Terraformar](https://open.spotify.com/album/3CT4nIVAbLmPqCK3LtFMzK) | 2:20 |
 | 18 | [Está Dañada \- Remix](https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1) | [Está Dañada \(Remix\)](https://open.spotify.com/album/1dEd2iGVdXJXmQdhNklAOO) | 3:59 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 70 | [La Balada de Sarah Lynn](https://open.spotify.com/track/358ITOTwU2zByvL2YftgGn) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7) | [La Balada de Sarah Lynn](https://open.spotify.com/album/04SGJp6OGTuWtAycY4oOtY) | 2:34 |
 | 71 | [Retrato](https://open.spotify.com/track/0SYLZU1RhHaVBZO2cv9SQ3) | [Lezlie](https://open.spotify.com/artist/278VaSr9ONC7O8n0CXm4Fg) | [Retrato](https://open.spotify.com/album/7eI2NAvOwa8O8CtnBARs3A) | 2:41 |
 | 72 | [Repetir](https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Repetir](https://open.spotify.com/album/2hN53yrLB2x6xcHwPiHTd5) | 2:43 |
-| 73 | [mejor me voy](https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [mejor me voy](https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld) | 3:17 |
-| 74 | [Nos Dijimos Adiós](https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Nos Dijimos Adiós](https://open.spotify.com/album/2AQqArbCTwT5LEAD01IXHe) | 3:42 |
+| 73 | [Nos Dijimos Adiós](https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Nos Dijimos Adiós](https://open.spotify.com/album/2AQqArbCTwT5LEAD01IXHe) | 3:42 |
+| 74 | [mejor me voy](https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [mejor me voy](https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld) | 3:17 |
 | 75 | [Antes de Partir \- Cap.1](https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND) | [Erick Mendoza](https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4) | [Antes de Partir \- Cap.1](https://open.spotify.com/album/3yBJgpGmpOIQ79oBEbaNdm) | 3:31 |
 | 76 | [Hoy Es Hoy](https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hoy Es Hoy](https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF) | 2:54 |
-| 77 | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/album/7EoVqsPnTl7mEj3p1wMZus) | 3:34 |
-| 78 | [El Fin](https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N) | [Karla Cruise](https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs) | [El Fin](https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8) | 2:57 |
+| 77 | [El Fin](https://open.spotify.com/track/0tMZaa09HA20lbBvKEkd8N) | [Karla Cruise](https://open.spotify.com/artist/1lDvMKVfuYM3tO8iAIlYrs) | [El Fin](https://open.spotify.com/album/36zytWk6zIaTL5hcrPplY8) | 2:57 |
+| 78 | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/album/7EoVqsPnTl7mEj3p1wMZus) | 3:34 |
 | 79 | [Arena Blanca](https://open.spotify.com/track/5j0P1xvPEFC3aLloV70sAF) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Páramo Místico](https://open.spotify.com/album/3w6sKad6TBHZgZGE3oU4tL) | 3:23 |
 | 80 | [Siente Lo Que Siento](https://open.spotify.com/track/1R8V7nKleObC1wq6Mf8qGc) | [Carolina en Llamas](https://open.spotify.com/artist/39SU99Gsy3k5IYpA9gXYXo) | [Siente Lo Que Siento](https://open.spotify.com/album/2ANMr0EkMlQJrwqLkBae7h) | 4:04 |
 
-Snapshot ID: `MCw5MTBkNDhkZDhmMWQzZjk1MTAzZDdhOWQwY2QwY2ExNTI1NGMxYjU0`
+Snapshot ID: `MCw0ODllOWQ4MjU3ZTNkMjMxYTllYmY4NjM4NDBmODhkMDljYTRjZjlk`

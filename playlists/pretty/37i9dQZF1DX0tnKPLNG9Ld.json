@@ -1,12 +1,12 @@
 {
   "description": "Blue skies, nothing but blue skies. Sun in your eyes and uplifting jazz in your ears on a sunny day.",
-  "num_followers": 74232,
+  "num_followers": 74289,
   "original_name": "Sunny Day Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDZmMzFiMTNhYjcyMTIyN2Q1Mjk5NzdhM2Y3MzczMzljYWVkNTlm",
+  "snapshot_id": "MCwzZTQzODc4ZDg5Mjc0YmIwYjY4NjE0MTQzYzI0MzkxNzFjN2E2ZDdi",
   "tracks": [
     {
       "added_at": "2023-09-01 08:08:26",
@@ -271,18 +271,18 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
-        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
+        "name": "Broadway, Right Now!",
+        "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
       },
       "artists": [
         {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
         }
       ],
-      "duration_ms": 186466,
-      "name": "The More I See You",
-      "url": "https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz"
+      "duration_ms": 132773,
+      "name": "Make Someone Happy - From \"Do Re Mi\"",
+      "url": "https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -303,18 +303,18 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
-        "name": "Broadway, Right Now!",
-        "url": "https://open.spotify.com/album/5ZIEB6I2Ei1ijuI8X3G2iw"
+        "name": "Chet Baker Sings: It Could Happen To You [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/05GsIfSvuy3bSY5EodA0Cc"
       },
       "artists": [
         {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
         }
       ],
-      "duration_ms": 132773,
-      "name": "Make Someone Happy - From \"Do Re Mi\"",
-      "url": "https://open.spotify.com/track/0vFP6jMvrIsmxdwVdza7GA"
+      "duration_ms": 186466,
+      "name": "The More I See You",
+      "url": "https://open.spotify.com/track/4i3Js0sRUEfBSvIwCPvKRz"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -403,6 +403,22 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
+        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
+        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
+      },
+      "artists": [
+        {
+          "name": "Margaret Whiting",
+          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
+        }
+      ],
+      "duration_ms": 122800,
+      "name": "You Couldn't Be Cuter",
+      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
         "name": "It Might as Well Be Spring",
         "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 182493,
       "name": "Alright, Okay, You Win",
       "url": "https://open.spotify.com/track/024nBbxvX3NpCbrw5XZW3B"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
-        "name": "Sings The Jerome Kern Song Book, Vol.1 & 2",
-        "url": "https://open.spotify.com/album/7lK3JDdKHJGdKZcTFodGcd"
-      },
-      "artists": [
-        {
-          "name": "Margaret Whiting",
-          "url": "https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87"
-        }
-      ],
-      "duration_ms": 122800,
-      "name": "You Couldn't Be Cuter",
-      "url": "https://open.spotify.com/track/5wK0I2nGDosuttrhkVHZnO"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
-        "name": "May I Come In?",
-        "url": "https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 124266,
-      "name": "Something Happens To Me",
-      "url": "https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
         "name": "Things Are Swingin'",
         "url": "https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 134200,
       "name": "It's A Wonderful World",
       "url": "https://open.spotify.com/track/6t4mncxgMmg2HhXdI4N8lY"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
+        "name": "May I Come In?",
+        "url": "https://open.spotify.com/album/0fdUAA238IRVBctEX8f3JA"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 124266,
+      "name": "Something Happens To Me",
+      "url": "https://open.spotify.com/track/1kKf0BRGJhPTndA4hkGOAj"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -667,26 +667,6 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
-        "name": "Ella And Basie",
-        "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "Tea For Two",
-      "url": "https://open.spotify.com/track/3Li4NJba2DNAXGvjILomAN"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
         "name": "A Musical Romance",
         "url": "https://open.spotify.com/album/4WmDWM4jSLl3EcJ716V1cu"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 169466,
       "name": "When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3",
       "url": "https://open.spotify.com/track/61rbcfCY9ldEZYGCzpvfSt"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
+        "name": "Ella And Basie",
+        "url": "https://open.spotify.com/album/752AJr22BFy9yubj4XJauv"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "Tea For Two",
+      "url": "https://open.spotify.com/track/3Li4NJba2DNAXGvjILomAN"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -871,6 +871,22 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
+        "name": "Songs For Swingin' Lovers! (Remastered)",
+        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 165933,
+      "name": "How About You? - Remastered 1998",
+      "url": "https://open.spotify.com/track/55ueMwhsrlyXw06fjYZshX"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
         "name": "The Girl From Ipanema - The Bossa Nova Years",
         "url": "https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 164826,
       "name": "Doralice",
       "url": "https://open.spotify.com/track/2cDO2CnwjyXgKhgh6QcAaN"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
-        "name": "Songs For Swingin' Lovers! (Remastered)",
-        "url": "https://open.spotify.com/album/4kca7vXd1Wo5GE2DMafvMc"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 165933,
-      "name": "How About You? - Remastered 1998",
-      "url": "https://open.spotify.com/track/55ueMwhsrlyXw06fjYZshX"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -975,18 +975,22 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
-        "name": "Autumn In New York",
-        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
+        "name": "Jazz Samba",
+        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
       },
       "artists": [
         {
-          "name": "Jo Stafford",
-          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        },
+        {
+          "name": "Charlie Byrd",
+          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
         }
       ],
-      "duration_ms": 144840,
-      "name": "The Best Things In Life Are Free",
-      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
+      "duration_ms": 398266,
+      "name": "Bahia",
+      "url": "https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -1007,6 +1011,22 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
+        "name": "Autumn In New York",
+        "url": "https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14"
+      },
+      "artists": [
+        {
+          "name": "Jo Stafford",
+          "url": "https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw"
+        }
+      ],
+      "duration_ms": 144840,
+      "name": "The Best Things In Life Are Free",
+      "url": "https://open.spotify.com/track/2QPxNZFYWCEtvLRQ8cEVli"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
         "name": "I Love A Love Song!",
         "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
       },
@@ -1019,26 +1039,6 @@
       "duration_ms": 253056,
       "name": "Is a Good Man Real?",
       "url": "https://open.spotify.com/track/2R99gxCR20nZCvnYL57Rxu"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
-        "name": "Jazz Samba",
-        "url": "https://open.spotify.com/album/5Lyz7ZD1UaPq6WoEqTOqom"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        },
-        {
-          "name": "Charlie Byrd",
-          "url": "https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik"
-        }
-      ],
-      "duration_ms": 398266,
-      "name": "Bahia",
-      "url": "https://open.spotify.com/track/7GXdmvaiFc66NzXmZZi2MJ"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
+        "name": "Saga Jazz: Easy to Love (Modern Series)",
+        "url": "https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker Quartet",
+          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
+        }
+      ],
+      "duration_ms": 167853,
+      "name": "Happy Little Sunbeam",
+      "url": "https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
         "name": "Brown And Roach Incorporated",
         "url": "https://open.spotify.com/album/6Wub7N4F0jXoqt66E5j2ql"
       },
@@ -1111,22 +1127,6 @@
       "duration_ms": 387000,
       "name": "Stompin' At The Savoy",
       "url": "https://open.spotify.com/track/2VaOoXFfdlrHyhORSq9H1v"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
-        "name": "Saga Jazz: Easy to Love (Modern Series)",
-        "url": "https://open.spotify.com/album/4HGoxGmE65LXZgedyupHjY"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker Quartet",
-          "url": "https://open.spotify.com/artist/3UcvB0rDa44LfjsOO5Btfc"
-        }
-      ],
-      "duration_ms": 167853,
-      "name": "Happy Little Sunbeam",
-      "url": "https://open.spotify.com/track/2ffSVIHPaQaHCDxkXXnJDn"
     },
     {
       "added_at": "2023-09-01 08:08:26",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-09-01 08:08:26",
       "album": {
-        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
-        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 164000,
-      "name": "Wishing Well",
-      "url": "https://open.spotify.com/track/3Wfs3Gz0mKCkQY318FcUjG"
-    },
-    {
-      "added_at": "2023-09-01 08:08:26",
-      "album": {
         "name": "Petite Fleur",
         "url": "https://open.spotify.com/album/0NuIQgu6wfFEQ7gyKsgnh2"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 228880,
       "name": "On a Clear Day",
       "url": "https://open.spotify.com/track/79OtkmhkIGwAvK6Cc7jc1J"
+    },
+    {
+      "added_at": "2023-09-01 08:08:26",
+      "album": {
+        "name": "The Complete Dinah Washington On Mercury, Vol.4 (1954-1956)",
+        "url": "https://open.spotify.com/album/7MpI5x3ALFKVNTO0OZ7NfB"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 164000,
+      "name": "Wishing Well",
+      "url": "https://open.spotify.com/track/3Wfs3Gz0mKCkQY318FcUjG"
     },
     {
       "added_at": "2023-09-01 08:08:26",

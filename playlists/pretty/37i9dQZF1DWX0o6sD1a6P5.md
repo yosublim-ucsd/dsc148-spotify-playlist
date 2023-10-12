@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 
 > The hottest Afropop, Afrobeats and Afro\-Caribbean hits, all in one place\. Cover: Patoranking
 
-[Spotify](https://open.spotify.com/user/spotify) - 835,542 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 835,664 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX0o6sD1a6P5.md) - [plain]
 | 49 | [Maria](https://open.spotify.com/track/30nVi5z6ndLqJ8mdw7PX6p) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142) | [Maria](https://open.spotify.com/album/28jNjVNo0Sw3D9LWtPwiTF) | 2:59 |
 | 50 | [Plus jamais](https://open.spotify.com/track/7ghrmlvEtSS3fuHwgl3ePD) | [BÉNI BASS DJ](https://open.spotify.com/artist/0LTdSULKSgSW95izfDSS8V), [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Plus jamais](https://open.spotify.com/album/0gpLTk6qJsrvfxIU4M7h8X) | 3:21 |
 
-Snapshot ID: `MCw5ZGRiNzM1OTdjMGFiNThmMGRiM2FlOTg4NjViYjUwZGRkNmM0MDRm`
+Snapshot ID: `MCwxYTJhNzI5YmRiZDA5ZDlkZDUyNGMyYzQ0MzUwN2FjMzViOTAwMzg1`

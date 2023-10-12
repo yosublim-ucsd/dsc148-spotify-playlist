@@ -4,7 +4,7 @@
 
 > Viral, trending and taking off.
 
-363 songs - 18 hr 52 min
+364 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -223,6 +223,7 @@
 | [Mujeriego](https://open.spotify.com/track/78kygHp1dvW1kncYjBgbe1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Mujeriego](https://open.spotify.com/album/43sxUsU622oLloqafw61vN) | 2:22 | 2022-02-08 | 2022-08-13 |
 | [Munch \(Feelin’ U\)](https://open.spotify.com/track/1jOgJN75btuUONIdf57vHz) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf) | [Munch \(Feelin’ U\)](https://open.spotify.com/album/0LgFPcU3P2HLGUtBQTBBpv) | 1:44 | 2022-09-23 | 2022-12-17 |
 | [Murder In My Mind](https://open.spotify.com/track/6qyS9qBy0mEk3qYaH8mPss) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Murder In My Mind](https://open.spotify.com/album/68GI09qAs2XLJmA3hj5K7y) | 2:25 | 2022-11-11 |  |
+| [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2023-10-11 |  |
 | [My Potna Dem](https://open.spotify.com/track/7uWdDOhI3wydISWM1AXN0M) | [$ilkMoney](https://open.spotify.com/artist/6hj2p7pzusn5Fcdi35Yedr) | [G.T.F.O.M.D: There’s Not Enough Room for All You Motha Fuckas to Be on It Like This](https://open.spotify.com/album/0bh0XYNyfyC2rybpzHTC85) | 2:33 | 2021-12-20 | 2021-12-23 |
 | [Need to Know](https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Planet Her](https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW) | 3:30 | 2021-12-20 | 2021-12-23 |
 | [Never Forget You](https://open.spotify.com/track/3xxmjMvJsSR3L7mUOxP9QA) | [Noisettes](https://open.spotify.com/artist/6oX4tx055oEFYM3ahDTyOD) | [Wild Young Hearts](https://open.spotify.com/album/0xobW2Yg1TBQ53ybxYAlyA) | 3:12 | 2021-12-20 | 2021-12-23 |

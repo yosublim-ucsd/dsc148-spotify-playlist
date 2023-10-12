@@ -1,12 +1,12 @@
 {
   "description": "Women at full volume! Cover: Joy Denalane",
-  "num_followers": 29390,
+  "num_followers": 29399,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZmM3NWUyYzNiZWI2NTgxZTY3OTE3NzQ0OTg5NjY2YTg0MWYyZmM1",
+  "snapshot_id": "MCxhZjVmYzU2MzIyMGZmYjY2MDJiNmY4NWYwMzcwYzc2NWQ1NjNjZjhk",
   "tracks": [
     {
       "added_at": "2023-10-03 22:00:00",
@@ -207,18 +207,18 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "Skyline",
-        "url": "https://open.spotify.com/album/3HFaF6Ui8E3HiIIeagSboi"
+        "name": "Periodt",
+        "url": "https://open.spotify.com/album/68IIp9Zh0QXfUJgYpdOliu"
       },
       "artists": [
         {
-          "name": "Teven",
-          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
+          "name": "Nura",
+          "url": "https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf"
         }
       ],
-      "duration_ms": 116210,
-      "name": "Skyline",
-      "url": "https://open.spotify.com/track/1OpAjp6BRS9Z9jXTcfqtCh"
+      "duration_ms": 194732,
+      "name": "Eine gute Frau",
+      "url": "https://open.spotify.com/track/2xFa9MZkbvohXjLg2mWylk"
     },
     {
       "added_at": "2023-10-03 22:00:00",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
+        "name": "Skyline",
+        "url": "https://open.spotify.com/album/3HFaF6Ui8E3HiIIeagSboi"
+      },
+      "artists": [
+        {
+          "name": "Teven",
+          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
+        }
+      ],
+      "duration_ms": 116210,
+      "name": "Skyline",
+      "url": "https://open.spotify.com/track/1OpAjp6BRS9Z9jXTcfqtCh"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
         "name": "berlin nightlife",
         "url": "https://open.spotify.com/album/7uuaGrUECPqIhVe4P7tlP0"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 183401,
       "name": "berlin nightlife",
       "url": "https://open.spotify.com/track/2ZmE6SXMTsHpcbR14awchh"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
-        "name": "Periodt",
-        "url": "https://open.spotify.com/album/68IIp9Zh0QXfUJgYpdOliu"
-      },
-      "artists": [
-        {
-          "name": "Nura",
-          "url": "https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf"
-        }
-      ],
-      "duration_ms": 194732,
-      "name": "Eine gute Frau",
-      "url": "https://open.spotify.com/track/2xFa9MZkbvohXjLg2mWylk"
     },
     {
       "added_at": "2023-10-03 22:00:00",
@@ -335,22 +335,6 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "Periodt",
-        "url": "https://open.spotify.com/album/68IIp9Zh0QXfUJgYpdOliu"
-      },
-      "artists": [
-        {
-          "name": "Nura",
-          "url": "https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf"
-        }
-      ],
-      "duration_ms": 151124,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/2nVo6kuIJVSy8jHug27fht"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
         "name": "Toxic Baggage",
         "url": "https://open.spotify.com/album/17Q5R0UNJuXQCQxRN6lgHH"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 146626,
       "name": "Toxic Baggage",
       "url": "https://open.spotify.com/track/3HGcCi6OUatVgbGwD16ktQ"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
+        "name": "Periodt",
+        "url": "https://open.spotify.com/album/68IIp9Zh0QXfUJgYpdOliu"
+      },
+      "artists": [
+        {
+          "name": "Nura",
+          "url": "https://open.spotify.com/artist/3gkbRDj7pkIylWVBpRfrQf"
+        }
+      ],
+      "duration_ms": 151124,
+      "name": "Bella",
+      "url": "https://open.spotify.com/track/2nVo6kuIJVSy8jHug27fht"
     },
     {
       "added_at": "2023-10-03 22:00:00",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "lolita",
-        "url": "https://open.spotify.com/album/5AajzMoNWCklGCcN9E7MUI"
-      },
-      "artists": [
-        {
-          "name": "liska",
-          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
-        }
-      ],
-      "duration_ms": 154224,
-      "name": "lolita",
-      "url": "https://open.spotify.com/track/5aG4QJ3Kzj9xWPdAFw00Bb"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
         "name": "Black Goose",
         "url": "https://open.spotify.com/album/4QaBlPW42jSyeOv5dLg6pv"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 153950,
       "name": "Black Goose",
       "url": "https://open.spotify.com/track/42twCm34xVG0EQexL1BuPm"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
+        "name": "lolita",
+        "url": "https://open.spotify.com/album/5AajzMoNWCklGCcN9E7MUI"
+      },
+      "artists": [
+        {
+          "name": "liska",
+          "url": "https://open.spotify.com/artist/279fWE4KpU6bqxsBypK8C4"
+        }
+      ],
+      "duration_ms": 154224,
+      "name": "lolita",
+      "url": "https://open.spotify.com/track/5aG4QJ3Kzj9xWPdAFw00Bb"
     },
     {
       "added_at": "2023-10-03 22:00:00",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
-        "name": "TOGETHER",
-        "url": "https://open.spotify.com/album/1AOdhW4UAxw29q7AudrMPR"
-      },
-      "artists": [
-        {
-          "name": "JOPLYN",
-          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
-        }
-      ],
-      "duration_ms": 329049,
-      "name": "TOGETHER",
-      "url": "https://open.spotify.com/track/3kn71wloYHKswuBJM3k1YC"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
         "name": "Honey (I Hope, You Understand)",
         "url": "https://open.spotify.com/album/4aSxjNrJrf8ayjpml0dgF0"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 201186,
       "name": "Honey (I Hope, You Understand)",
       "url": "https://open.spotify.com/track/3mk3oJaBqlHnDGJJ7hOG91"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
+        "name": "TOGETHER",
+        "url": "https://open.spotify.com/album/1AOdhW4UAxw29q7AudrMPR"
+      },
+      "artists": [
+        {
+          "name": "JOPLYN",
+          "url": "https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih"
+        }
+      ],
+      "duration_ms": 329049,
+      "name": "TOGETHER",
+      "url": "https://open.spotify.com/track/3kn71wloYHKswuBJM3k1YC"
     },
     {
       "added_at": "2023-10-03 22:00:00",
@@ -679,6 +679,22 @@
     {
       "added_at": "2023-10-03 22:00:00",
       "album": {
+        "name": "You Deserve Romance",
+        "url": "https://open.spotify.com/album/3ccL08UCW2cUZweKKEKa3Q"
+      },
+      "artists": [
+        {
+          "name": "Blush Always",
+          "url": "https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U"
+        }
+      ],
+      "duration_ms": 216624,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/2LUgeF13FtpZMcgKhjlzKc"
+    },
+    {
+      "added_at": "2023-10-03 22:00:00",
+      "album": {
         "name": "DOUBLE-CHECK",
         "url": "https://open.spotify.com/album/277ontaO8DXHJWYD58T5TH"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 190330,
       "name": "T\u00dcR ZU/ LICHT AUS",
       "url": "https://open.spotify.com/track/41KucuT8C3ofEethijrSfx"
-    },
-    {
-      "added_at": "2023-10-03 22:00:00",
-      "album": {
-        "name": "You Deserve Romance",
-        "url": "https://open.spotify.com/album/3ccL08UCW2cUZweKKEKa3Q"
-      },
-      "artists": [
-        {
-          "name": "Blush Always",
-          "url": "https://open.spotify.com/artist/7mDJOD8ukxlDkihwPCjb4U"
-        }
-      ],
-      "duration_ms": 216624,
-      "name": "Blue",
-      "url": "https://open.spotify.com/track/2LUgeF13FtpZMcgKhjlzKc"
     },
     {
       "added_at": "2023-10-03 22:00:00",

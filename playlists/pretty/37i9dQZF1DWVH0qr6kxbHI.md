@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 
 > Canciones inmortales, sentimientos a flor de piel y figuras gigantescas de nuestra música\. Foto: Rocío Jurado
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,773 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,828 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 38 | [La Paloma](https://open.spotify.com/track/33sMZ91EO8OIc2tiSu2gyK) | [Mari Trini](https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ), [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Mari Trini Con los Panchos](https://open.spotify.com/album/1ak1aKu5l4UwtM1zh7UiMC) | 3:24 |
 | 39 | [Fina Estampa \(with Miguel Poveda\) \- Con Miguel Poveda](https://open.spotify.com/track/1xONwDb3ux0Ld2q5mswsUE) | [Maria Dolores Pradera](https://open.spotify.com/artist/58LNn3iNPmmHusH1EkyBm4), [Miguel Poveda](https://open.spotify.com/artist/0BwjxWHTct80Qp5Xk7pxZj) | [Gracias A Vosotros](https://open.spotify.com/album/0U2kCRus4ANRCL4SoDkNRO) | 3:10 |
 | 40 | [Sarandonga](https://open.spotify.com/track/5zyYWk0NT25VIpcvg1OJ53) | [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Grandes exitos](https://open.spotify.com/album/5QUmSZfBRoQbxCgGKCkTEP) | 4:00 |
-| 41 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [20 Años De Amor](https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A) | 4:26 |
-| 42 | [Amigo Conductor](https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh) | [Perlita de Huelva](https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk) | [Amigo Conductor](https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub) | 3:33 |
+| 41 | [Amigo Conductor](https://open.spotify.com/track/27m6FU6uMMmrhiOwgIQAjh) | [Perlita de Huelva](https://open.spotify.com/artist/5zTPEWVkwm8Bl7ORmaPyyk) | [Amigo Conductor](https://open.spotify.com/album/3o56rtilWI16b1gFSKK1Ub) | 3:33 |
+| 42 | [Si No Te Hubieras Ido](https://open.spotify.com/track/0qSlVX5N1OCTIjQhI6uc8F) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [20 Años De Amor](https://open.spotify.com/album/0KduP5O1M4iAwubhBzFs9A) | 4:26 |
 | 43 | [Sola](https://open.spotify.com/track/2EMkMUHKcocs6BJatgmyfI) | [Diana Navarro](https://open.spotify.com/artist/2UPK6yJypnotLzHuUBiVa2) | [No te olvides de mi \(edicion original\)](https://open.spotify.com/album/1CNbzyIo5xgLVZz2nZLA1V) | 5:05 |
 | 44 | [Maria Se Bebe las Calles](https://open.spotify.com/track/1IF2G18XKNrToVG1yiCmsj) | [Pasión Vega](https://open.spotify.com/artist/1SP2KiLZvq07zY1KUoZ3ey) | [Banderas De Nadie](https://open.spotify.com/album/5fhK35LQpXRXyRJoxpC1Kr) | 4:05 |
 | 45 | [Tú Me Camelas \(Tangos\)](https://open.spotify.com/track/70YaxHyHdmLACqR1TinoUi) | [Niña Pastori](https://open.spotify.com/artist/6UelqIK8qwhWFc2f6nSEh8) | [Caprichos de Mujer](https://open.spotify.com/album/5xgvEgd0SL1z7wI3jNKLV3) | 4:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVH0qr6kxbHI.md) - [plain]
 | 74 | [Se Nos Rompio el Amor \(with Malú\)](https://open.spotify.com/track/2Wp7kX7Kj38MgIBe3p0MBE) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Malú](https://open.spotify.com/artist/3TLGNOdp1UWYMnV5XG9HkR) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:39 |
 | 75 | [Dejandonos La Piel \(with Lolita\)](https://open.spotify.com/track/7FjpkYUDZhR66hR1Us8PrW) | [Rocío Jurado](https://open.spotify.com/artist/1FlYevYLENR3IMgMlnMvf9), [Lolita](https://open.spotify.com/artist/1Jl0XzEt7csnco2FUybCrK) | [Rocio Siempre](https://open.spotify.com/album/74YcUbPOS42uQJGpWTo9bn) | 4:42 |
 
-Snapshot ID: `MCxkMDlmZmZjMmUxMmY3MWY1NTYzMjcxY2IwMWJhOGNkMTYzMjRjMzFh`
+Snapshot ID: `MCwxNDY3NTllMzJkYzczOTFlOGM3N2Y5ZDI0ODMyOWRiZjgyZDM1NmE3`

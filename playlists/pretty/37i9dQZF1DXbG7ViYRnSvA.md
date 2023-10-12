@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/officialcoodieandchike/">Coodie & Chike</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,257 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,287 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 37 | [Mary Jane](https://open.spotify.com/track/0Rqcf7GwEOIFg5VFMNIzHF) | [Scarface](https://open.spotify.com/artist/19KwjzvIL92r29IINtlPNP) | [The Untouchable](https://open.spotify.com/album/0yEbGVnKvWj4B85rzExJmF) | 4:41 |
 | 38 | [You'll Never Find \(a Better Woman\)](https://open.spotify.com/track/2aJzN2dhjqBrBzMuNYMkiG) | [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi) | [Complex Simplicity: 15th Anniversary Edition](https://open.spotify.com/album/5ds3BcAZoYcGl8H1yMbnHg) | 4:12 |
 | 39 | [Coconut](https://open.spotify.com/track/2h132oHTFg1aaZPcbSBWAm) | [Benny Sings](https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N) | [At Home](https://open.spotify.com/album/6fzJXNScnMnyUiC5o8wz32) | 4:39 |
-| 40 | [Blackboard Jungle Dub \- Version 1](https://open.spotify.com/track/5AWkPGkHD15Yo9IAbliWc9) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Attack!](https://open.spotify.com/album/4NhRUpUb0d6hh4T8h5peMk) | 4:38 |
-| 41 | [Depend on U](https://open.spotify.com/track/5080VPeCHNlBDPJ1ojzVBk) | [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89) | [Holy Ghost Zone](https://open.spotify.com/album/0s3tlXw1HJOjNSEQp8EN6x) | 1:47 |
+| 40 | [Depend on U](https://open.spotify.com/track/5080VPeCHNlBDPJ1ojzVBk) | [Budgie](https://open.spotify.com/artist/3XkLOVhQv8DBoiclVW8F89) | [Holy Ghost Zone](https://open.spotify.com/album/0s3tlXw1HJOjNSEQp8EN6x) | 1:47 |
+| 41 | [Blackboard Jungle Dub \- Version 1](https://open.spotify.com/track/5AWkPGkHD15Yo9IAbliWc9) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Attack!](https://open.spotify.com/album/4NhRUpUb0d6hh4T8h5peMk) | 4:38 |
 | 42 | [My Life](https://open.spotify.com/track/6SewmCOPNkvNo4OLsW8yhc) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [My Life \(Deluxe / Commentary Edition\)](https://open.spotify.com/album/7tonSDqVXTichuMnlS8TbO) | 4:17 |
 | 43 | [What Do You Say \(Move It Baby\)](https://open.spotify.com/track/7tHvaEgvR0O5q1WKZtBrKF) | [Common](https://open.spotify.com/artist/2GHclqNVjqGuiE5mA7BEoc), [PJ](https://open.spotify.com/artist/4O36cq71Cq7NazopFLBMmb) | [A Beautiful Revolution Pt\. 1 & 2](https://open.spotify.com/album/1HhGNkLtbqBKJH9lISKQPH) | 4:02 |
 | 44 | [Serve This Royalty](https://open.spotify.com/track/2v2ewUZjfOTWtKops0508z) | [Cody Chesnutt](https://open.spotify.com/artist/3sO8muEXafy2NGwUZByrTr) | [The Headphone Masterpiece](https://open.spotify.com/album/4DO0EipTAYZYaUDSoEVK98) | 5:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbG7ViYRnSvA.md) - [plain]
 | 49 | [Just Chill](https://open.spotify.com/track/4kPslnT97Uo6YdNpFcnrk4) | [Project Mayhem](https://open.spotify.com/artist/10ZHewiVCPZxwb4bewgKPl) | [The Mayhem Machine](https://open.spotify.com/album/35EJ8kPWBRUpQH7gKSkSSK) | 4:17 |
 | 50 | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/track/5ZXrVNnQoKEMLcZ1s6Davv) | [Apryl Sashay](https://open.spotify.com/artist/4oqYiNYjquQyQbYShsS3lf) | [ALL NIGHT \(Goodlife\)](https://open.spotify.com/album/6RA2KhowTm52zctoAWF90v) | 3:35 |
 
-Snapshot ID: `MCw1ZWE0MzBhZjVkMTI2ZDJjN2EyYTBjODVhZWMzMDBlZDBmNWVmMmYz`
+Snapshot ID: `MCw5YjY2MGY5MmY3NjIxNDFhMDNiNzBjYjcxODNhMjcyMzk2NmIxMjFm`

@@ -1,12 +1,12 @@
 {
   "description": "Music that makes you feel like you're levitating.",
-  "num_followers": 1126420,
+  "num_followers": 1126853,
   "original_name": "Levitate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMTMzZDlhNjY0YjBlYmM5NmU0NDkyZjM4ZjBjNDhhMWE1M2VjNDE0",
+  "snapshot_id": "MCxkYTgwMzZhYTY5Mjc5Y2ZiMTY5MTE4YWI1MTBhMTJiN2M3N2YyNmNj",
   "tracks": [
     {
       "added_at": "2023-08-18 04:00:00",
@@ -329,6 +329,22 @@
       "url": "https://open.spotify.com/track/0JmnkIqdlnUzPaf8sqBRs3"
     },
     {
+      "added_at": "2023-07-14 04:01:00",
+      "album": {
+        "name": "Camp",
+        "url": "https://open.spotify.com/album/2nkHPk6e7TgemWh07yFHxh"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 317293,
+      "name": "Les",
+      "url": "https://open.spotify.com/track/0YsGMHid6sFq5PcToe3JZE"
+    },
+    {
       "added_at": "2023-05-19 16:52:20",
       "album": {
         "name": "Die For You (Remix)",
@@ -347,22 +363,6 @@
       "duration_ms": 232857,
       "name": "Die For You - Remix",
       "url": "https://open.spotify.com/track/7oDd86yk8itslrA9HRP2ki"
-    },
-    {
-      "added_at": "2023-07-14 04:01:00",
-      "album": {
-        "name": "Camp",
-        "url": "https://open.spotify.com/album/2nkHPk6e7TgemWh07yFHxh"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 317293,
-      "name": "Les",
-      "url": "https://open.spotify.com/track/0YsGMHid6sFq5PcToe3JZE"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -489,6 +489,22 @@
       "url": "https://open.spotify.com/track/6IZvVAP7VPPnsGX6bvgkqg"
     },
     {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 326933,
+      "name": "Redbone",
+      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
+    },
+    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Novacane",
@@ -519,22 +535,6 @@
       "duration_ms": 208853,
       "name": "Melting",
       "url": "https://open.spotify.com/track/2kSb3wYSOV996xA2NSmpck"
-    },
-    {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
-      },
-      "artists": [
-        {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
-        }
-      ],
-      "duration_ms": 326933,
-      "name": "Redbone",
-      "url": "https://open.spotify.com/track/0WtDGnWL2KrMCk0mI1Gpwz"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
+        "name": "\"Awaken, My Love!\"",
+        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "duration_ms": 379226,
+      "name": "Me and Your Mama",
+      "url": "https://open.spotify.com/track/4AFsRbaLKRWo3dDtjDFA2V"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
         "name": "Birds In The Trap Sing McKnight",
         "url": "https://open.spotify.com/album/42WVQWuf1teDysXiOupIZt"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
-        "name": "\"Awaken, My Love!\"",
-        "url": "https://open.spotify.com/album/7caGY3YPOchIO8xLvTKWN4"
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
       },
       "artists": [
         {
-          "name": "Childish Gambino",
-          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
         }
       ],
-      "duration_ms": 379226,
-      "name": "Me and Your Mama",
-      "url": "https://open.spotify.com/track/4AFsRbaLKRWo3dDtjDFA2V"
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -715,22 +731,6 @@
     {
       "added_at": "2023-05-19 16:52:20",
       "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/7H0ya83CMmgFcOhw0UB6ow"
-    },
-    {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
         "name": "Walking On A Dream (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh"
       },
@@ -743,22 +743,6 @@
       "duration_ms": 198440,
       "name": "Walking On A Dream",
       "url": "https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ"
-    },
-    {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
-        "name": "Favourite Worst Nightmare (Standard Version)",
-        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 253586,
-      "name": "505",
-      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -791,6 +775,22 @@
       "duration_ms": 208500,
       "name": "Mrs Magic",
       "url": "https://open.spotify.com/track/0TZejo18HlJ86OrWNsXKnw"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1005,22 +1005,6 @@
       "url": "https://open.spotify.com/track/1Is8hGpkGMiePASAxBluxM"
     },
     {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
-        "name": "Stoney (Deluxe)",
-        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 256532,
-      "name": "White Iverson",
-      "url": "https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w"
-    },
-    {
       "added_at": "2023-09-15 16:00:00",
       "album": {
         "name": "Gimme Love",
@@ -1035,6 +1019,42 @@
       "duration_ms": 177921,
       "name": "Gimme Love",
       "url": "https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
+        "name": "Paradise Again",
+        "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
+      },
+      "artists": [
+        {
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
+        },
+        {
+          "name": "Connie Constance",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 214071,
+      "name": "Heaven Takes You Home (feat. Connie Constance)",
+      "url": "https://open.spotify.com/track/3nEHrvNNtgLv9rneTAYVr4"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
+        "name": "Stoney (Deluxe)",
+        "url": "https://open.spotify.com/album/5s0rmjP8XOPhP6HhqOhuyC"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 256532,
+      "name": "White Iverson",
+      "url": "https://open.spotify.com/track/6eT7xZZlB2mwyzJ2sUKG6w"
     },
     {
       "added_at": "2023-05-24 16:28:56",
@@ -1153,54 +1173,6 @@
       "url": "https://open.spotify.com/track/4h5x3XHLVYFJaItKuO2rhy"
     },
     {
-      "added_at": "2023-08-25 04:00:00",
-      "album": {
-        "name": "Winner",
-        "url": "https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 217209,
-      "name": "Winner",
-      "url": "https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai"
-    },
-    {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
-        "name": "Bicep",
-        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
-      },
-      "artists": [
-        {
-          "name": "Bicep",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 269149,
-      "name": "Glue",
-      "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
-    },
-    {
-      "added_at": "2023-09-15 16:00:00",
-      "album": {
-        "name": "this is what autumn feels like",
-        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
-      },
-      "artists": [
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 219909,
-      "name": "this is what autumn feels like",
-      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
-    },
-    {
       "added_at": "2023-08-18 04:00:00",
       "album": {
         "name": "channel ORANGE",
@@ -1221,24 +1193,52 @@
       "url": "https://open.spotify.com/track/0725YWm6Z0TpZ6wrNk64Eb"
     },
     {
-      "added_at": "2023-06-07 15:28:24",
+      "added_at": "2023-08-25 04:00:00",
       "album": {
-        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
-        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/0A7j3cX53ea8Bjy2exxXLy"
       },
       "artists": [
         {
-          "name": "Metro Boomin",
-          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
-        },
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 319493,
-      "name": "Hummingbird (Metro Boomin & James Blake)",
-      "url": "https://open.spotify.com/track/6HexNTb392JS071DoTGo0y"
+      "duration_ms": 217209,
+      "name": "Winner",
+      "url": "https://open.spotify.com/track/3b5MPNYlX8ztJowxAwzTai"
+    },
+    {
+      "added_at": "2023-09-15 16:00:00",
+      "album": {
+        "name": "this is what autumn feels like",
+        "url": "https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 219909,
+      "name": "this is what autumn feels like",
+      "url": "https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G"
+    },
+    {
+      "added_at": "2023-05-19 16:52:20",
+      "album": {
+        "name": "Bicep",
+        "url": "https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo"
+      },
+      "artists": [
+        {
+          "name": "Bicep",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
+        }
+      ],
+      "duration_ms": 269149,
+      "name": "Glue",
+      "url": "https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1275,6 +1275,26 @@
       "duration_ms": 227880,
       "name": "Hold On, We're Going Home",
       "url": "https://open.spotify.com/track/2aSC2xhRxOLiiZZVjhbylH"
+    },
+    {
+      "added_at": "2023-06-07 15:28:24",
+      "album": {
+        "name": "METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE)",
+        "url": "https://open.spotify.com/album/1bwbZJ6khPJyVpOaqgKsoZ"
+      },
+      "artists": [
+        {
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        },
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 319493,
+      "name": "Hummingbird (Metro Boomin & James Blake)",
+      "url": "https://open.spotify.com/track/6HexNTb392JS071DoTGo0y"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1569,22 +1589,6 @@
       "url": "https://open.spotify.com/track/04uR2cdkgiaLIzebPcs25m"
     },
     {
-      "added_at": "2023-06-30 04:00:00",
-      "album": {
-        "name": "Lose It All (I Don't Wanna)",
-        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
-      },
-      "artists": [
-        {
-          "name": "BUNT.",
-          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
-        }
-      ],
-      "duration_ms": 139071,
-      "name": "Lose It All (I Don't Wanna)",
-      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
-    },
-    {
       "added_at": "2023-05-19 16:52:20",
       "album": {
         "name": "1950",
@@ -1599,6 +1603,22 @@
       "duration_ms": 225133,
       "name": "1950",
       "url": "https://open.spotify.com/track/0CZ8lquoTX2Dkg7Ak2inwA"
+    },
+    {
+      "added_at": "2023-06-30 04:00:00",
+      "album": {
+        "name": "Lose It All (I Don't Wanna)",
+        "url": "https://open.spotify.com/album/2oYcDcUIFEuqhDp2wIHx34"
+      },
+      "artists": [
+        {
+          "name": "BUNT.",
+          "url": "https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j"
+        }
+      ],
+      "duration_ms": 139071,
+      "name": "Lose It All (I Don't Wanna)",
+      "url": "https://open.spotify.com/track/6FWAIkMvnS0ABEdBKcIp5K"
     },
     {
       "added_at": "2023-05-19 16:52:20",
@@ -1667,22 +1687,6 @@
       "duration_ms": 139662,
       "name": "The Difference",
       "url": "https://open.spotify.com/track/4nlvKIIetOWGIMyhjQXgOZ"
-    },
-    {
-      "added_at": "2023-05-19 16:52:20",
-      "album": {
-        "name": "Actual Life (April 14 - December 17 2020)",
-        "url": "https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 196071,
-      "name": "Kyle (i found you)",
-      "url": "https://open.spotify.com/track/6Ao5d7TMQ92h87jQqSHGyw"
     }
   ],
   "unique_name": "Levitate",

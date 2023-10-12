@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 
 > Amapiano tracks to fuel your beast mode!
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,065 likes - 80 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,258 likes - 80 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 53 | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/track/3ODhKM44KPGGaHSXLCgMuk) | [Mellow & Sleazy](https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz), [Felo Le Tee](https://open.spotify.com/artist/6k8odn7NzzTT4K3NBNtsfV), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Madumane](https://open.spotify.com/artist/3kyJLSOihpXaaR1NBK42pd), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [Bopha \(feat\. DJ Maphorisa, Madumane & Young Stunna\)](https://open.spotify.com/album/6lm0XXJ7My7n0j8tMiWogR) | 8:00 |
 | 54 | [Sandton \(feat\. Focalistic, Kamo Mphela & Bontle Smith\)](https://open.spotify.com/track/6VIlerY0Emf3oYWIVBIsMN) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Kamo Mphela](https://open.spotify.com/artist/788jOE9HMUy9heDK8EIkon), [Bontle Smith](https://open.spotify.com/artist/6xcF2N2Z4NFVEkLCZluCLC) | [The Return of the Scorpion Kings](https://open.spotify.com/album/3jVIkEFzkl5JuF4cLL1DKq) | 6:52 |
 | 55 | [Samarian Boy](https://open.spotify.com/track/61P7fkM3YBSTGCrLBUaWKM) | [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf) | [Widlysm](https://open.spotify.com/album/1ZwWviKOdxQsoaobNqiMg6) | 6:33 |
-| 56 | [Ke Star \(feat\. Vigro Deep\)](https://open.spotify.com/track/7uhOIYLVWbBZ6ISBoyiMrl) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Sghubu Ses Excellent](https://open.spotify.com/album/5p367ruOCWHEsZ0qi9XQiG) | 7:13 |
+| 56 | [Ke Star \(feat\. Vigro Deep\)](https://open.spotify.com/track/21vYZmoBTqM2upLQbkN2dV) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Blecke](https://open.spotify.com/album/7DFR6SIjNhiDiviaQfGho7) | 7:13 |
 | 57 | [Mmapula](https://open.spotify.com/track/22sG77yM0PrgIpbVKZ40yY) | [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Mzu M](https://open.spotify.com/artist/1JNnRL51LIgP1SNzCsQFGM) | [Undisputed, Vol\. 2](https://open.spotify.com/album/5BAVTtz6uDhRUjr9Kf0x3n) | 6:18 |
 | 58 | [Bundle of Joy](https://open.spotify.com/track/63HL27uW6RXQq0vjL8XZIe) | [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Baby Boy 2 Reloaded](https://open.spotify.com/album/1yWI355GWrXToRiwrP6osF) | 7:27 |
 | 59 | [Isphithiphithi](https://open.spotify.com/track/7GHKr2Fg86xWObxTnz26vK) | [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ), [Reece Madlisa](https://open.spotify.com/artist/6ucYQLJMMVyN1nO4GebaV2), [Busta 929](https://open.spotify.com/artist/2TcrjcSngRPpgZxmIlPdym), [Joocy](https://open.spotify.com/artist/1EWAox5Fl2AquoNhbMPgtM) | [Isphithiphithi](https://open.spotify.com/album/0ZTUOYTfG0BFiDH85T3vKD) | 6:12 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1in2XW8zzxO.md) - [plain]
 | 79 | [Ede Weri \(Srananpiano\)](https://open.spotify.com/track/51XMfEXGLn4kIuhcZ0xZYA) | [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW), [S!RENE](https://open.spotify.com/artist/5cZy9VxDFRxCj7tRu5sPpl), [Dotboi](https://open.spotify.com/artist/0MeavZmhmsmyyL3NVnoziM) | [Ede Weri \(Srananpiano\)](https://open.spotify.com/album/4SoctD06nQGh2KfwlXuBr6) | 4:57 |
 | 80 | [Location](https://open.spotify.com/track/7ogZ485BlYFPUymcrTC0Is) | [Sje Konka](https://open.spotify.com/artist/1KAE5EFbVnz0RGnj9DdY1l), [Freddy K](https://open.spotify.com/artist/1okK7TdfTbLQbgSG1hejiY), [Robot Boii](https://open.spotify.com/artist/66MEUwWMZWL1PlTEHx8Grp) | [Location](https://open.spotify.com/album/73w9zUGjkV9TqlzROMOclV) | 5:44 |
 
-Snapshot ID: `MCw3ZjI2MTUxZDU3ZWYxMTBmYzBjMjA4MDAxODgyOGE0Y2NmNWEyZDBk`
+Snapshot ID: `MCw1ZmJhNGQyZTE3YjhiNTY1NjkxZGI2OGFhYmE4YjQ2M2MxZDQxYTJl`

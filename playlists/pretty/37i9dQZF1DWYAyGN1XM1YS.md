@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: The Get Up Kids
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,021 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,101 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 49 | [Savory](https://open.spotify.com/track/2ETGuTChPhwWge4syLqu9N) | [Jawbox](https://open.spotify.com/artist/0Fj0cWPHOpexJCZRdSHioP) | [For Your Own Special Sweetheart](https://open.spotify.com/album/0gsVBsleAP9vsCBGqlhxIt) | 4:39 |
 | 50 | [Love Rhymes With Hideous Car Wreck](https://open.spotify.com/track/4ZDgRXaafbD7MTx1iep94S) | [The Blood Brothers](https://open.spotify.com/artist/2nNyMDW51EHYbBXu3lFbLR) | [Crimes \(Bonus Track Version\)](https://open.spotify.com/album/5wTuKjG1mxNJORaGY4Qw5F) | 3:14 |
 
-Snapshot ID: `MCw3MzhiNzg4Njg1ODIzN2U2ODI2OTY5MTdlNWRhOTAwMDVmMTNjYTg0`
+Snapshot ID: `MCwyMzM1MjM1M2JhYmZmNzUxNWQ1ZjBjZTNkOTYyNGM2OGIxZGNlMDY2`

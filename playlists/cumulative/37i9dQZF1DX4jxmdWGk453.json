@@ -561,6 +561,24 @@
     },
     {
       "album": {
+        "name": "It's Beginning To Look A Lot Like Christmas",
+        "url": "https://open.spotify.com/album/7MlfKEzMe9BuLdUanU0TuZ"
+      },
+      "artists": [
+        {
+          "name": "Voices of Joy",
+          "url": "https://open.spotify.com/artist/1qjsaKVUHUL768TUvVgs8l"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106194,
+      "name": "It's Beginning To Look A Lot Like Christmas",
+      "url": "https://open.spotify.com/track/3xSsHxgabPMsTmjv78mxES"
+    },
+    {
+      "album": {
         "name": "I'll Be Home For Christmas",
         "url": "https://open.spotify.com/album/5ml3IWHPa2eim1Gy6AxyG3"
       },

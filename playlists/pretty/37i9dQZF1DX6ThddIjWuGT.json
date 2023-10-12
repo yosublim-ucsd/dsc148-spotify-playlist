@@ -1,12 +1,12 @@
 {
   "description": "Timeless Latin pop hits through the decades! Cover: Luis Miguel",
-  "num_followers": 2981535,
+  "num_followers": 2977899,
   "original_name": "Latin Pop Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTE3YjJhYTMzZTIwOWEwNzZiOWEyZWIzYzA1ODIxNTYwOGFmMjli",
+  "snapshot_id": "MCwwZWNhM2RkMzY1NTIwOWU1NzRjNmRjNTY0OWE1NjhlNDYwMjZhZTBj",
   "tracks": [
     {
       "added_at": "2023-07-28 04:00:00",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 237240,
-      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
-      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "M\u00e1s",
         "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 343413,
       "name": "Coraz\u00f3n part\u00edo",
       "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 237240,
+      "name": "Culpable O No - Mi\u00e9nteme Como Siempre",
+      "url": "https://open.spotify.com/track/7BwxbmYFy0l3ROHDjV2c14"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -495,6 +495,38 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "El Templo del Pop",
+        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
+      },
+      "artists": [
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 183973,
+      "name": "Don",
+      "url": "https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Reik",
+        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        }
+      ],
+      "duration_ms": 203226,
+      "name": "Noviembre Sin Ti",
+      "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Rebelde",
         "url": "https://open.spotify.com/album/5wvatwGTc0zWIx3dBQadaj"
       },
@@ -531,38 +563,6 @@
       "duration_ms": 224973,
       "name": "S\u00e1lvame",
       "url": "https://open.spotify.com/track/3hbTkJ0yFzHbawnKyhvTQj"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Reik",
-        "url": "https://open.spotify.com/album/2X17BMIMWhZDWHL0UR1LBS"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        }
-      ],
-      "duration_ms": 203226,
-      "name": "Noviembre Sin Ti",
-      "url": "https://open.spotify.com/track/2vCHDrXVN0k1GPTjSIZ69E"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "El Templo del Pop",
-        "url": "https://open.spotify.com/album/0KzE84u9io1eWxWSs9SmSY"
-      },
-      "artists": [
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "Don",
-      "url": "https://open.spotify.com/track/0WajUW5XINeraP2w0F3F8E"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -931,22 +931,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "Aries",
-        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 289600,
-      "name": "Suave",
-      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 281026,
       "name": "Un Siglo Sin Ti",
       "url": "https://open.spotify.com/track/5NSJ0qoxwbO26tVvqpL4N2"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "Aries",
+        "url": "https://open.spotify.com/album/6UFAOiLDzOOt75eJhrhFNC"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 289600,
+      "name": "Suave",
+      "url": "https://open.spotify.com/track/4p7XH4NhQ25iGYrrbg93gt"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
-        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
-      },
-      "artists": [
-        {
-          "name": "Chayanne",
-          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
-        }
-      ],
-      "duration_ms": 225986,
-      "name": "Humanos a Marte",
-      "url": "https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
         "name": "Yo Creo",
         "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 211946,
       "name": "\u00bfC\u00f3mo Pagarte?",
       "url": "https://open.spotify.com/track/7kkJnzW5TlGwzYYcps0Qv9"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
+        "name": "En Todo Estar\u00e9 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0P0d0y1LQ5VGrp58TQ0oM2"
+      },
+      "artists": [
+        {
+          "name": "Chayanne",
+          "url": "https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv"
+        }
+      ],
+      "duration_ms": 225986,
+      "name": "Humanos a Marte",
+      "url": "https://open.spotify.com/track/7lOzUJzsELALh5FQsPKTEn"
     },
     {
       "added_at": "2023-07-28 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-07-28 04:00:00",
       "album": {
+        "name": "Yo Creo",
+        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 222826,
+      "name": "Que Lo Nuestro Se Quede Nuestro",
+      "url": "https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2"
+    },
+    {
+      "added_at": "2023-07-28 04:00:00",
+      "album": {
         "name": "Ricky Martin MTV Unplugged",
         "url": "https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 221946,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
-    },
-    {
-      "added_at": "2023-07-28 04:00:00",
-      "album": {
-        "name": "Yo Creo",
-        "url": "https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 222826,
-      "name": "Que Lo Nuestro Se Quede Nuestro",
-      "url": "https://open.spotify.com/track/3rtxFFGZ10e2vYBo7PsPf2"
     },
     {
       "added_at": "2023-07-28 04:00:00",

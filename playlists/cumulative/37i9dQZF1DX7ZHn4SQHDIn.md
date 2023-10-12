@@ -4,7 +4,7 @@
 
 > All in us! ITZY is here to take their CAKE!
 
-123 songs - 6 hr 32 min
+125 songs - 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,8 @@
 | [Sorry Not Sorry](https://open.spotify.com/track/4BV9bZOeH869aewS9lwTtM) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/4lS8nhX8cplsYPzKjvhw6G) | 3:09 | 2022-07-22 |  |
 | [Sorry Not Sorry](https://open.spotify.com/track/5QaqP49NaSt1geAPNgDxYE) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [GUESS WHO](https://open.spotify.com/album/1PKhKkeCqANY5E9RGcUWUX) | 3:09 | 2022-04-20 | 2022-07-29 |
 | [Spice](https://open.spotify.com/track/4mFwA8AtXjuriVlQiRyeWr) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Voltage](https://open.spotify.com/album/6BhKPFeQDaBldGMl1vd28h) | 3:11 | 2022-04-20 |  |
+| [Sugar\-holic](https://open.spotify.com/track/47YvjyoCQpYwZbRj0Rs985) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Sugar\-holic](https://open.spotify.com/album/1eFW6R2WJUCHWSHchYkLN2) | 3:03 | 2023-10-11 |  |
+| [SUPERPOWERS](https://open.spotify.com/track/2T0cn0hvGrG8vqqB8sK4zX) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Strong Girl Nam\-soon \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/1atx6ADNPFNf3PKvBiSa6l) | 2:55 | 2023-10-11 |  |
 | [SURF](https://open.spotify.com/track/5P8KNvNOdqp0dd5SnilkDZ) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila) | 3:13 | 2022-04-20 | 2022-07-29 |
 | [SURF](https://open.spotify.com/track/5rAjh9qDtJalKfwgxNk2vt) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Not Shy](https://open.spotify.com/album/5NN55LKbjzX16a7Uf8u7Os) | 3:13 | 2022-07-22 |  |
 | [SWIPE](https://open.spotify.com/track/5au5BF6e1TgZFrdoAz9p6x) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 2:57 | 2022-04-20 | 2022-07-29 |

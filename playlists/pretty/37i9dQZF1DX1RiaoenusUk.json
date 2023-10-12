@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica groovera, for the true Funk Soldiers!",
-  "num_followers": 24526,
+  "num_followers": 24536,
   "original_name": "Nota Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNGM3MDE5NDI1ZTE3ZTdmNTRiMThlNzNkMDkyYmVmNjJiZTg1ODE5",
+  "snapshot_id": "MCwwNmMzNmZkODhhNTU5NTkyNDQ1MTFlYzk5NWE3M2U3ZDg5NmMxNWVm",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Metamorfosis",
-        "url": "https://open.spotify.com/album/6fsrEl3P1Fj8ehM4XYkyiC"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        }
-      ],
-      "duration_ms": 296120,
-      "name": "El Cocinero",
-      "url": "https://open.spotify.com/track/6herLkW2vgVBvtGXlGcAEG"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Prescription For Soul",
         "url": "https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 241706,
       "name": "Can't Fight The Funk",
       "url": "https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Metamorfosis",
+        "url": "https://open.spotify.com/album/6fsrEl3P1Fj8ehM4XYkyiC"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        }
+      ],
+      "duration_ms": 296120,
+      "name": "El Cocinero",
+      "url": "https://open.spotify.com/track/6herLkW2vgVBvtGXlGcAEG"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -847,22 +847,6 @@
       "duration_ms": 296542,
       "name": "Recipe",
       "url": "https://open.spotify.com/track/1Sdz6Kvfs1bYTK0kLRuUSz"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Sr. A",
-        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        }
-      ],
-      "duration_ms": 213267,
-      "name": "Sr. A",
-      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -939,6 +923,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Sr. A",
+        "url": "https://open.spotify.com/album/4BmsB5lLUuAGWhFJbTKiok"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        }
+      ],
+      "duration_ms": 213267,
+      "name": "Sr. A",
+      "url": "https://open.spotify.com/track/5oUv3g3LeyyADj4jQMsMRr"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Peluche Peligroso",
         "url": "https://open.spotify.com/album/32szAPsRimQbYpPl4Bvkfn"
       },
@@ -955,22 +955,6 @@
       "duration_ms": 227221,
       "name": "La Buena Vida",
       "url": "https://open.spotify.com/track/3KnVVquGyEkY3ECjuBMZMK"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Los Funktasticos Genitales",
-        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
-      },
-      "artists": [
-        {
-          "name": "Los Funktasticos Genitales",
-          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
-        }
-      ],
-      "duration_ms": 236858,
-      "name": "Alergica",
-      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -999,6 +983,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Los Funktasticos Genitales",
+        "url": "https://open.spotify.com/album/2SsjQc8kaNFCK5awLHLS1b"
+      },
+      "artists": [
+        {
+          "name": "Los Funktasticos Genitales",
+          "url": "https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2"
+        }
+      ],
+      "duration_ms": 236858,
+      "name": "Alergica",
+      "url": "https://open.spotify.com/track/29BXe34owrTnjMoF9EHfaG"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Myselfed",
         "url": "https://open.spotify.com/album/1gMhxgWFw8hCTKQH0B9Wvf"
       },
@@ -1015,26 +1015,6 @@
       "duration_ms": 287639,
       "name": "Myselfed",
       "url": "https://open.spotify.com/track/5mp9xzoVJgpdHQTDkJz7r2"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Flecha Verde",
-        "url": "https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2"
-      },
-      "artists": [
-        {
-          "name": "Tapones de Punta",
-          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
-        },
-        {
-          "name": "Ruben Rada",
-          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
-        }
-      ],
-      "duration_ms": 183215,
-      "name": "Flecha Verde",
-      "url": "https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1067,6 +1047,26 @@
       "duration_ms": 176924,
       "name": "Freaky",
       "url": "https://open.spotify.com/track/1mKpZeH6wpdhI4jpGYy870"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Flecha Verde",
+        "url": "https://open.spotify.com/album/3c1p52P7u2HB76AMZSVgE2"
+      },
+      "artists": [
+        {
+          "name": "Tapones de Punta",
+          "url": "https://open.spotify.com/artist/3rNJyHBopW8UJZwXTB7ysH"
+        },
+        {
+          "name": "Ruben Rada",
+          "url": "https://open.spotify.com/artist/5AfGpwSbYKelc5nJjUVRmb"
+        }
+      ],
+      "duration_ms": 183215,
+      "name": "Flecha Verde",
+      "url": "https://open.spotify.com/track/2qOap48YXxJbXkUBBTtg2p"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Resistencia",
+        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 218172,
+      "name": "Resistencia",
+      "url": "https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Love",
         "url": "https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39"
       },
@@ -1207,22 +1223,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Resistencia",
-        "url": "https://open.spotify.com/album/63wXeCZv9gxTXrffLnDHmY"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 218172,
-      "name": "Resistencia",
-      "url": "https://open.spotify.com/track/0ZF0cMx6gnYIdRkNEZ4Kdn"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Sudamericano",
         "url": "https://open.spotify.com/album/0aicK68Tg0bOAb7vPOFmwt"
       },
@@ -1235,6 +1235,22 @@
       "duration_ms": 252120,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/69CrLrn3sGEiwxmki7IwlN"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Guacamole",
+        "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
+      },
+      "artists": [
+        {
+          "name": "Palta & the mood",
+          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
+        }
+      ],
+      "duration_ms": 279399,
+      "name": "Lightning",
+      "url": "https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Super 8",
-        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
-      },
-      "artists": [
-        {
-          "name": "Goro Wins",
-          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
-        }
-      ],
-      "duration_ms": 270706,
-      "name": "Traffic (Groovin' de bondi)",
-      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Tangible",
         "url": "https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 224864,
       "name": "Back up in Flames",
       "url": "https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Super 8",
+        "url": "https://open.spotify.com/album/6BRH0cYxNgjKLy9kronvWw"
+      },
+      "artists": [
+        {
+          "name": "Goro Wins",
+          "url": "https://open.spotify.com/artist/4udKE6AUVjem2QFCLZjXoG"
+        }
+      ],
+      "duration_ms": 270706,
+      "name": "Traffic (Groovin' de bondi)",
+      "url": "https://open.spotify.com/track/3aMjSLWrgzlBsfHNXpNCSP"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1371,22 +1387,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Guacamole",
-        "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
-      },
-      "artists": [
-        {
-          "name": "Palta & the mood",
-          "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
-        }
-      ],
-      "duration_ms": 279399,
-      "name": "Lightning",
-      "url": "https://open.spotify.com/track/3LBvCd7GSvDJYxeJpgcuAu"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "La Negra Nieves",
         "url": "https://open.spotify.com/album/6sPBV1t4LgqATxFjb6VPpj"
       },
@@ -1399,22 +1399,6 @@
       "duration_ms": 259480,
       "name": "Asterisco",
       "url": "https://open.spotify.com/track/2jfEG3HUT7tCsmQGRzBxL2"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Crisis",
-        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
-      },
-      "artists": [
-        {
-          "name": "Jvlian",
-          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
-        }
-      ],
-      "duration_ms": 161379,
-      "name": "Sujeto a Espacio",
-      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1471,6 +1455,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Crisis",
+        "url": "https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU"
+      },
+      "artists": [
+        {
+          "name": "Jvlian",
+          "url": "https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT"
+        }
+      ],
+      "duration_ms": 161379,
+      "name": "Sujeto a Espacio",
+      "url": "https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Selva",
         "url": "https://open.spotify.com/album/03n9iLQLygvipVP1B6AsjC"
       },
@@ -1499,22 +1499,6 @@
       "duration_ms": 315922,
       "name": "Beast in You",
       "url": "https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Aire",
-        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
-      },
-      "artists": [
-        {
-          "name": "Ania Ivania",
-          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
-        }
-      ],
-      "duration_ms": 190373,
-      "name": "Aire",
-      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1555,6 +1539,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Aire",
+        "url": "https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR"
+      },
+      "artists": [
+        {
+          "name": "Ania Ivania",
+          "url": "https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb"
+        }
+      ],
+      "duration_ms": 190373,
+      "name": "Aire",
+      "url": "https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Ando Buscando",
         "url": "https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1"
       },
@@ -1587,22 +1587,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Best Of Us",
-        "url": "https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH"
+        "name": "Guacamole",
+        "url": "https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl"
       },
       "artists": [
-        {
-          "name": "Ale Zurita",
-          "url": "https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq"
-        },
         {
           "name": "Palta & the mood",
           "url": "https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH"
         }
       ],
-      "duration_ms": 185024,
-      "name": "Best Of Us",
-      "url": "https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t"
+      "duration_ms": 337573,
+      "name": "Dizzy",
+      "url": "https://open.spotify.com/track/2OzRdN6EUUfVBl7QACp6B1"
     }
   ],
   "unique_name": "Nota Funk",

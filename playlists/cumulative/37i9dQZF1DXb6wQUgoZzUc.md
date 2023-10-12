@@ -4,7 +4,7 @@
 
 > Un perreito en la pared...
 
-380 songs - 21 hr 19 min
+381 songs - 21 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [G Low Kitty](https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP), [Uzielito Mix](https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH), [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Dj Rockwel Mx](https://open.spotify.com/artist/2eobLT6bmdvl5yGG5qPAgd) | [G Low Kitty](https://open.spotify.com/album/6IvwdLnra2eCGtQnCYIXTN) | 3:34 | 2023-03-10 |  |
 | [GANAS](https://open.spotify.com/track/4WBJO0asHRwWh7yyFHzABq) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [GANAS](https://open.spotify.com/album/5WojaFxkR4saLIwiyUBAnX) | 2:49 | 2023-08-04 | 2023-09-30 |
 | [Ganas de Verte](https://open.spotify.com/track/0nE78Bc5Azu5kWum01TmKR) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Ganas de Verte](https://open.spotify.com/album/3TesP5MzNjC4SWoE48o7Vz) | 3:49 | 2023-04-07 | 2023-07-31 |
-| [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:50 | 2023-09-29 |  |
+| [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:50 | 2023-10-11 |  |
+| [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:50 | 2023-09-29 | 2023-10-12 |
 | [Gasto en P](https://open.spotify.com/track/7dQjsvoWrFKwwsk5GpGuA5) | [El High](https://open.spotify.com/artist/1LViN9Xsu9YIMN6IZJk8Bp), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Gasto En P](https://open.spotify.com/album/78hlz0HCRsU8nuLE9hji19) | 4:06 | 2023-07-14 | 2023-07-29 |
 | [Gata Fiera \(feat\. Joan\)](https://open.spotify.com/track/3UnbRNCJlDzSKz5Yq0dIOs) | [Trebol Clan](https://open.spotify.com/artist/3YXpTiyVmYCfANOlnWv6vr), [Joan](https://open.spotify.com/artist/6RO5p2ZeqYGaZaRWsX8zNV) | [Los Bacatranes](https://open.spotify.com/album/6L3AvTd86IFDOEcPCLUmf7) | 3:28 | 2022-01-14 | 2022-07-29 |
 | [Gatita](https://open.spotify.com/track/25Jf61edvM78rQHYaWRiIL) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr) | [Gatita](https://open.spotify.com/album/1UsI3wV7vgPllijr4hfpgT) | 2:32 | 2022-11-15 | 2022-12-22 |

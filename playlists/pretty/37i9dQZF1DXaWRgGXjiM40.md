@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites\. Foto: Murilo Huff
 
-[Spotify](https://open.spotify.com/user/spotify) - 953,005 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 951,620 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 13 | [Supera \- Ao Vivo](https://open.spotify.com/track/3GmJxfnUDrIs1iCfKUELFz) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Todos Os Cantos, Vol\. 3 \(Ao Vivo\)](https://open.spotify.com/album/0q1sCNFTFPy66A2zeK8qh5) | 2:27 |
 | 14 | [Ferida Curada](https://open.spotify.com/track/1U3tv41tFRgOfbytpuYQrR) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Ferida Curada](https://open.spotify.com/album/4S428p1Dl0B5QShuR6FBMu) | 2:39 |
 | 15 | [O Que É Que Tem](https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live In London \- At The Royal Albert Hall](https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW) | 3:35 |
-| 16 | [O Alvo \(feat\. Henrique & Juliano\) \- Ao Vivo](https://open.spotify.com/track/5Vw6ZLNB6Ko7VZM6vmNIbr) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Alvo \(feat\. Henrique & Juliano\) \[Ao Vivo\]](https://open.spotify.com/album/3yprBTFIy7DnJCHnMDifRv) | 2:44 |
+| 16 | [Infarto](https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Querosene e o Violão](https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp) | 2:41 |
 | 17 | [Quarta Cadeira \- Ao Vivo](https://open.spotify.com/track/5q0NlM6Pm8Pp3orq7zGiRn) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:44 |
 | 18 | [Liberdade Provisória \- Live \- Ibirapuera / 2019](https://open.spotify.com/track/7Cf2Hsy3cPlA4e115tElXv) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo No Ibirapuera](https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f) | 3:06 |
 | 19 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
 | 20 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
 | 21 | [Largado Às Traças \- Ao Vivo](https://open.spotify.com/track/371Up3WP7OqJNFPf0BiyUe) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Esquece o Mundo Lá Fora \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN) | 3:54 |
-| 22 | [Infarto](https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Querosene e o Violão](https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp) | 2:41 |
+| 22 | [O Alvo \(feat\. Henrique & Juliano\) \- Ao Vivo](https://open.spotify.com/track/5Vw6ZLNB6Ko7VZM6vmNIbr) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [O Alvo \(feat\. Henrique & Juliano\) \[Ao Vivo\]](https://open.spotify.com/album/3yprBTFIy7DnJCHnMDifRv) | 2:44 |
 | 23 | [Graveto \- Ao Vivo](https://open.spotify.com/track/3tc8Z4lGzOIwmIVftsxO6o) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Graveto \(Ao Vivo\)](https://open.spotify.com/album/5LC5xnORMHtfcwDMI5cC2V) | 2:50 |
 | 24 | [Briga Feia \- Ao Vivo](https://open.spotify.com/track/7bukHRNgGLRySTJEVvLoIR) | [Henrique & Juliano](https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT) | [Ao Vivo No Ibirapuera](https://open.spotify.com/album/5ExfGmxdqydd3vgdLdRR8f) | 3:14 |
 | 25 | [Pra Sempre Com Você \- Ao Vivo](https://open.spotify.com/track/2KGv51jgAz8OTjNPyRryfq) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:27 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 49 | [Amor Da Sua Cama](https://open.spotify.com/track/5rq31V6YJVklhB7HxXn9I8) | [Felipe Araújo](https://open.spotify.com/artist/47uyFQHOD02S0lj9ptRpoB) | [Amor Da Sua Cama](https://open.spotify.com/album/2FlH6Ha4zVKWQwCoOt8ldv) | 3:08 |
 | 50 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 |
 
-Snapshot ID: `MCwzZDkxYmVkNDcxNTJhOGM3NTIxMGI1ZWIwY2MzZGE2M2JhZDEzMmQ5`
+Snapshot ID: `MCw4OTM3NDk0ZDYyZmRmMTUxYWQzMmExOTQ1YzRkNjM5MzQ0YTM4N2E0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 
 > Holiday classics from your favourite punks\. Cover: The Linda Lindas
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,513 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,512 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 19 | [Oi To The World](https://open.spotify.com/track/4D0J6CjPiBSG8nA5OXlhZ2) | [No Doubt](https://open.spotify.com/artist/0cQbJU1aAzvbEmTuljWLlF) | [Everything In Time \(B\-Sides, Rarities, Remixes\)](https://open.spotify.com/album/6o0hJKIPX1rYmVHaab30di) | 2:40 |
 | 20 | [Last Christmas](https://open.spotify.com/track/6VV8EboIsnmgv8Yy11g6Ww) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/2P6BqQ7RMpgx8lgoeahpW8) | 4:27 |
 | 21 | [Deck the Halls](https://open.spotify.com/track/0dc9SYWwvA4LtvMFsHicQs) | [Relient K](https://open.spotify.com/artist/3nJWBJvK7uGvfp4iZh9CkN) | [Let It Snow Baby...Let It Reindeer](https://open.spotify.com/album/6RwCnJnuTKo9yjxXwAQEo6) | 1:21 |
-| 22 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:02 |
-| 23 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [Jaden Hossler](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 |
+| 22 | [Happy Holidays, You Bastard](https://open.spotify.com/track/1JRIspKuyC14rGixc81hEa) | [Jaden Hossler](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [Happy Holidays, You Bastard](https://open.spotify.com/album/7dUO22BrcLCDAo8PxzL88H) | 0:43 |
+| 23 | [Grandma Got Run Over By A Reindeer](https://open.spotify.com/track/2Vo0CHZltnh18JAPNOSfS3) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Happy Skalidays](https://open.spotify.com/album/3vDjcjCn0PmS5KNRYfw72x) | 3:02 |
 | 24 | [This Holiday](https://open.spotify.com/track/54eW8IPftlUPqOWhjNXLIx) | [Dragged Under](https://open.spotify.com/artist/3D1uNqaasEWzallSxKo1cH) | [The World Is In Your Way \(Deluxe Edition\)](https://open.spotify.com/album/46U6TW57g10lUujKjyzZiG) | 3:34 |
 | 25 | [Not Another Christmas Song](https://open.spotify.com/track/22HLihdOv820hEmSRJeHUf) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Not Another Christmas Song](https://open.spotify.com/album/4KflvArkaGbPj2jNgm70KK) | 2:39 |
 | 26 | [Merry Spidey Christmas \- From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"](https://open.spotify.com/track/4sxckNpmfC1Y1j91zn1BCh) | [Patrick Stump](https://open.spotify.com/artist/0wsdUS0EJ7zHgti2nxTVWR) | [Merry Spidey Christmas \(From "Disney Junior Music: Marvel's Spidey and His Amazing Friends"\)](https://open.spotify.com/album/1vylnSfB9o5HU0Srlx5rFB) | 2:06 |
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 60 | [Mr\. Winter](https://open.spotify.com/track/3dboEgQj1XkorQYxcj62PY) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | […And A Happy New Year](https://open.spotify.com/album/0nvXgp11ABRjr2BFuBm3rP) | 3:21 |
 | 61 | [Merry Christmas, Happy Holidays](https://open.spotify.com/track/64q83lEZPlPy88UMvdbiTB) | [Issues](https://open.spotify.com/artist/3zRstk92RGCVDyslSySNsm) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:47 |
 | 62 | [Nothing For Christmas](https://open.spotify.com/track/5zdyKroAn09fOqljE7ddIV) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Punk Goes Christmas](https://open.spotify.com/album/15f1OucbVKhzyfQtnwdWwk) | 3:35 |
-| 63 | [Santa Baby](https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Santa Baby](https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH) | 2:38 |
-| 64 | [It's Christmas And I Fucking Miss You](https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh), [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [It's Christmas And I Fucking Miss You](https://open.spotify.com/album/59gyPN2FnzfC6w9mrkebEn) | 2:41 |
+| 63 | [It's Christmas And I Fucking Miss You](https://open.spotify.com/track/2FZmLofghTBI3Gq6HhOxuz) | [Charly Bliss](https://open.spotify.com/artist/7axA2bNeZsae6t2mgxoSFh), [PUP](https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN) | [It's Christmas And I Fucking Miss You](https://open.spotify.com/album/59gyPN2FnzfC6w9mrkebEn) | 2:41 |
+| 64 | [Santa Baby](https://open.spotify.com/track/2wPMolA9qDw7RvUUy56sx1) | [Me First and the Gimme Gimmes](https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5) | [Santa Baby](https://open.spotify.com/album/0LIJnUqnGXu85JBSVwioNH) | 2:38 |
 | 65 | [Feliz Navidad](https://open.spotify.com/track/79HjzWum0xKMnUSZvytgmM) | [El Vez](https://open.spotify.com/artist/6AWwTgQn3JoqkdTnL9eDob) | [Merry MeX\-mas](https://open.spotify.com/album/1pkoU5zx8QKbfaNdLcTvY4) | 2:33 |
 | 66 | [Decemberism](https://open.spotify.com/track/2vgsDqkE5dyAveetWyhVHk) | [Man Overboard](https://open.spotify.com/artist/7oT6vt8H3q7kA24sicjFzO) | [The Human Highlight Reel](https://open.spotify.com/album/2zZVFYoDYMcehQkiKHYpj3) | 3:04 |
 | 67 | [New Year's Revolution](https://open.spotify.com/track/55traEc0RnXsRFajtZZMDd) | [NOFX](https://open.spotify.com/artist/4S2yOnmsWW97dT87yVoaSZ) | [Stoke Extinguisher](https://open.spotify.com/album/0SS7CfFFNUNdpAgL3NRma7) | 2:19 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3N4mXY2MuSz.md) - [plain]
 | 74 | [Christmas by the Phone](https://open.spotify.com/track/2QnFQnvjcdzFra2fxf8AlP) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [A GC Christmas, Pt\. 1](https://open.spotify.com/album/5lPGIDugl5Q36w6bAqq23N) | 3:01 |
 | 75 | [Winter Wonderland](https://open.spotify.com/track/1p95JMdRImM00RePtDOqMS) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Winter Wonderland](https://open.spotify.com/album/6PLIjkHMclkP8Bfr209blv) | 2:01 |
 
-Snapshot ID: `MCw1MzU2Nzg3Y2E2ZmU2NjZiMDY2NWY1OGU4ZWE3ZWRkMzJmMzBlYjky`
+Snapshot ID: `MCwyMzM0NWViN2EwNTdmY2JiZWNkZGMxYjQ0MTQ3NTQ3MmM1ZTM0NzRk`

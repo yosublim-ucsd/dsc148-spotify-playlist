@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > The newest Hardstyle tracks \| 2023 Hardstyle\. Cover: Brennan Heart
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,793 likes - 96 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,858 likes - 96 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 95 | [Constellation Sky](https://open.spotify.com/track/49wI9eSpLdCForl4uJwSwY) | [XCEPTION](https://open.spotify.com/artist/3vH8Rv37KXuUZzSHICjTnm) | [Constellation Sky](https://open.spotify.com/album/234D41xhuXVKPvQOlJoJRe) | 3:41 |
 | 96 | [Disruption](https://open.spotify.com/track/7llaEU5vkPVjkHE3DaRVb4) | [D\-Sturb](https://open.spotify.com/artist/7E6DrjKJieOdJKO8mbwCMO) | [Disruption](https://open.spotify.com/album/1GYyPR5JjoWHuJtCpHC6Kq) | 4:01 |
 
-Snapshot ID: `MCw5MGM4MWUyOWExYzcxNDZhOWMyMDQ1YzBmZDJlM2RlZjAxNGFiNjcw`
+Snapshot ID: `MCxmNWQ3OTlmMTEwODE1OGYwMjcyMzdiZTYwMDIwNTI4MzY5NTVhOTgy`

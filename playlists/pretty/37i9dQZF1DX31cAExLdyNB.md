@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 
 > La orilla donde el indie se fusiona con la electrónica.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,195 likes - 69 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,212 likes - 69 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 58 | [Los Caymanes \(Para Olvidar\)](https://open.spotify.com/track/3FYl4aKqX7a6CslBDE6Tau) | [Tropicana Club](https://open.spotify.com/artist/3yZt4h8ao4zS5aJdo4ZSAn) | [Los Caymanes \(Para Olvidar\)](https://open.spotify.com/album/4RYVw8Xc7gvIEqpjSuX0Ng) | 3:25 |
 | 59 | [Invierno \(Remix\)](https://open.spotify.com/track/2cNVGRkB0MdDESK3C0F9le) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6), [Techno Para Dos](https://open.spotify.com/artist/16KDZP134RdE0F1peBL56h), [Alondra Máynez](https://open.spotify.com/artist/4LFCPWxW51fAgEc9hauRBd) | [Invierno \(Remix\)](https://open.spotify.com/album/30Han0zDAnO6FpGgytDYfj) | 4:45 |
 | 60 | [Might Forgive You](https://open.spotify.com/track/2rhOPfbOx3vHC47PvCfRHP) | [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Might Forgive You / Tkm](https://open.spotify.com/album/76U2itVciKfi0JHTzKU3Kd) | 4:09 |
-| 61 | [Mirada Speed](https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6), [Diana Flores](https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe) | [Mirada Speed](https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8) | 3:47 |
-| 62 | [Nunca Nunca](https://open.spotify.com/track/01RidTuR638AM20oXDqD1u) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nunca Nunca](https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6) | 2:51 |
+| 61 | [Nunca Nunca](https://open.spotify.com/track/01RidTuR638AM20oXDqD1u) | [La Máquina Camaleón](https://open.spotify.com/artist/6NIyDDyPBRTyPZ6ggjE8Rj), [Neoma](https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip) | [Nunca Nunca](https://open.spotify.com/album/6p7mLTPzEfaCvFTQXI5EL6) | 2:51 |
+| 62 | [Mirada Speed](https://open.spotify.com/track/2BPLfb9e0BhnzHhp2o0dvD) | [Plastical People](https://open.spotify.com/artist/2CRgHQ611m9QPLCSN2G3k6), [Diana Flores](https://open.spotify.com/artist/1uY5M89vDvIAwHW0df42Oe) | [Mirada Speed](https://open.spotify.com/album/61p5MxzByqmdQZNNAFVzZ8) | 3:47 |
 | 63 | [Moving Men \- Metronomy Remix](https://open.spotify.com/track/3k2ccZTU1D3JK9hVR0qdbO) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Born a Loser \(Deluxe Edition\)](https://open.spotify.com/album/1IbTYBq7imKlDRQCYhuReB) | 4:00 |
 | 64 | [THREE STRIKES \(feat\. Khalid\) \- TSHA remix](https://open.spotify.com/track/4Tq3g2KMag5tgmmEnO91lA) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [THREE STRIKES \(feat\. Khalid\)](https://open.spotify.com/album/62rnq2H2kSqfAWSOic6X6f) | 4:26 |
 | 65 | [Eleuthera \- Catching Flies Remix](https://open.spotify.com/track/7sv8W4bgj7MA7ZUN3GKsOg) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG), [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Eleuthera \(Catching Flies Remix\)](https://open.spotify.com/album/7ahqwpECJWcTM1egy6nGGd) | 4:23 |
@@ -78,4 +78,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX31cAExLdyNB.md) - [plain]
 | 68 | [Vine Hasta Marte](https://open.spotify.com/track/2QESbnic0tiuE32iosLu6s) | [Cohetes](https://open.spotify.com/artist/2GufoITj4S642hU8qARWyQ) | [Vine Hasta Marte](https://open.spotify.com/album/7KMhR1LUULSVFR4SRFkKMg) | 3:44 |
 | 69 | [Takotsubo](https://open.spotify.com/track/0xQ5PRG33HEEjMS4WiGNaz) | [Floreana](https://open.spotify.com/artist/3pwB3UZlXcnlXoKr0abRVQ) | [Cuadros](https://open.spotify.com/album/4Zpj0ZC8asCsFfaHBa1yxK) | 3:23 |
 
-Snapshot ID: `MCw5ODRkNzc4M2JkYzIxNWMwNWM3NWM3MGIwN2RhZDY3MTc5N2MzMWIz`
+Snapshot ID: `MCw5MDFjZTc1MTQ5MTRjZWIwZDI1MTE2NGFjMjM1Y2Q2OGViNWYyNmU4`

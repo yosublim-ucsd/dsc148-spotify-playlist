@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas!",
-  "num_followers": 852083,
+  "num_followers": 850888,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1ZjQ2ZjUxZTI3ZTQ1ZmEwY2Y1Y2RjODlhNTE2NzYxZGEyNzlhYWQ0",
+  "snapshot_id": "MCw2MjlmNjU0ZGE4NWJmMDk5NDUzNTY1NDBmMGEzM2U0N2I4ZWQ2YWU5",
   "tracks": [
     {
       "added_at": "2023-08-08 22:35:35",
@@ -391,18 +391,18 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "Consejos Gratis",
-        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
+        "name": "Un Cantautor Con Alma de Triunfador",
+        "url": "https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Mariano Barba",
+          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
         }
       ],
-      "duration_ms": 122096,
-      "name": "Como Quieras Quiero",
-      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
+      "duration_ms": 272920,
+      "name": "Aliado Del Tiempo",
+      "url": "https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -423,18 +423,18 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "Un Cantautor Con Alma de Triunfador",
-        "url": "https://open.spotify.com/album/4g2vkEYYuBVP72ZHbcxnU2"
+        "name": "Consejos Gratis",
+        "url": "https://open.spotify.com/album/10e10cYupx3U37Efv5691A"
       },
       "artists": [
         {
-          "name": "Mariano Barba",
-          "url": "https://open.spotify.com/artist/0UOSIKhi6uZP7SVEJKYRMo"
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
         }
       ],
-      "duration_ms": 272920,
-      "name": "Aliado Del Tiempo",
-      "url": "https://open.spotify.com/track/1rEdvfLrkCB4RqxI8D6ZNR"
+      "duration_ms": 122096,
+      "name": "Como Quieras Quiero",
+      "url": "https://open.spotify.com/track/7MyOq9tWhL9bGHeeG5Iz5p"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -699,22 +699,6 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "Amor Brutal",
-        "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
-      },
-      "artists": [
-        {
-          "name": "Los Primos MX",
-          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
-        }
-      ],
-      "duration_ms": 165146,
-      "name": "Mi Bello \u00c1ngel",
-      "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 149812,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
+        "name": "Amor Brutal",
+        "url": "https://open.spotify.com/album/45e9grFYy0DiOG5rIpBpIe"
+      },
+      "artists": [
+        {
+          "name": "Los Primos MX",
+          "url": "https://open.spotify.com/artist/6N4VOBE2wNnRIINe3922Oc"
+        }
+      ],
+      "duration_ms": 165146,
+      "name": "Mi Bello \u00c1ngel",
+      "url": "https://open.spotify.com/track/0DKoET2reNpTGpQMS0VXI0"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -859,6 +859,22 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
+        "name": "Pideme (En Vivo)",
+        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 256170,
+      "name": "Pideme - En Vivo",
+      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
         "name": "Solita (En Vivo)",
         "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
-        "name": "Pideme (En Vivo)",
-        "url": "https://open.spotify.com/album/5YDFEV3hqfXdvFWO9DNFPR"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 256170,
-      "name": "Pideme - En Vivo",
-      "url": "https://open.spotify.com/track/4OvWsid9gwU8nimd6KIXN6"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
         "name": "En Las Buenas Y En Las Malas",
         "url": "https://open.spotify.com/album/0UUt2tlrb16UMupr6bF6TZ"
       },
@@ -959,22 +943,18 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
-        "name": "Un Amor Como Este",
-        "url": "https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW"
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/4LW4JlE1RfilioKkkhwMho"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
         }
       ],
-      "duration_ms": 185770,
-      "name": "Un Amor Como Este",
-      "url": "https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q"
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/4uk8GguFehn7djGvFJTUUT"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -1027,6 +1007,26 @@
     {
       "added_at": "2023-08-08 22:35:35",
       "album": {
+        "name": "Un Amor Como Este",
+        "url": "https://open.spotify.com/album/18sg8sJIP1DSQweKCNORqW"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 185770,
+      "name": "Un Amor Como Este",
+      "url": "https://open.spotify.com/track/5xdUo9vjyv5RRR48QYiv1Q"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
         "name": "Coraz\u00f3n M\u00e1gico",
         "url": "https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI"
       },
@@ -1055,22 +1055,6 @@
       "duration_ms": 178700,
       "name": "Acurrucar",
       "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
-    },
-    {
-      "added_at": "2023-08-08 22:35:35",
-      "album": {
-        "name": "El Amor So\u00f1ado",
-        "url": "https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 182680,
-      "name": "El Amor So\u00f1ado",
-      "url": "https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC"
     },
     {
       "added_at": "2023-08-08 22:35:35",
@@ -1195,6 +1179,22 @@
       "duration_ms": 198933,
       "name": "M\u00edranos Ahora",
       "url": "https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V"
+    },
+    {
+      "added_at": "2023-08-08 22:35:35",
+      "album": {
+        "name": "El Amor So\u00f1ado",
+        "url": "https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "El Amor So\u00f1ado",
+      "url": "https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC"
     },
     {
       "added_at": "2023-08-08 22:35:35",

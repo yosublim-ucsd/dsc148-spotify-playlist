@@ -1994,7 +1994,7 @@
     {
       "album": {
         "name": "Say My Name",
-        "url": "https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6"
+        "url": "https://open.spotify.com/album/0Z1B02ZtMcAtgluiIWZTMB"
       },
       "artists": [
         {
@@ -2005,6 +2005,24 @@
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 108980,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/06YNVx8q2zF84s8SfGbxMC"
+    },
+    {
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
       "duration_ms": 108980,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM"
@@ -2640,7 +2658,7 @@
     {
       "album": {
         "name": "\u30aa\u30ea\u30b8\u30ca\u30eb\u30b9\u30af\u30fc\u30d7",
-        "url": "https://open.spotify.com/album/1v2jwsiT9SYoMBRY7QnXHH"
+        "url": "https://open.spotify.com/album/0Hh76GBDwAZUUiaNHTPUKZ"
       },
       "artists": [
         {
@@ -2651,6 +2669,24 @@
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 223458,
+      "name": "\u30aa\u30ea\u30b8\u30ca\u30eb\u30b9\u30af\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/4XFDyEOJLCDYstSNPDqLnS"
+    },
+    {
+      "album": {
+        "name": "\u30aa\u30ea\u30b8\u30ca\u30eb\u30b9\u30af\u30fc\u30d7",
+        "url": "https://open.spotify.com/album/1v2jwsiT9SYoMBRY7QnXHH"
+      },
+      "artists": [
+        {
+          "name": "\u677f\u6b6f\u76ee",
+          "url": "https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
       "duration_ms": 223458,
       "name": "\u30aa\u30ea\u30b8\u30ca\u30eb\u30b9\u30af\u30fc\u30d7",
       "url": "https://open.spotify.com/track/6coXH7cxTNneEHPbXvCmNA"
@@ -2943,7 +2979,7 @@
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 221167,
+      "duration_ms": 222125,
       "name": "\u66d6\u6627",
       "url": "https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH"
     },

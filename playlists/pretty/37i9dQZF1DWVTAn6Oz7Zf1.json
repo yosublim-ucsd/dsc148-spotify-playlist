@@ -1,12 +1,12 @@
 {
   "description": "In cerca di energie? Prova con la nostra playlist!",
-  "num_followers": 256,
+  "num_followers": 270,
   "original_name": "Una Carica di Espresso!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwY2JmMGE3YThiMzI1YjEzMWU2YmE4OWZkZTQ3Y2E0MjVmZDM2Y2E4",
+  "snapshot_id": "MCxhMjVlMDU5NmRkMTIxNjk4OTQ3MmJlYzZkYmQwZDg2OGMxZjk3NjA3",
   "tracks": [
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Don't Forget My Love",
-        "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 199090,
-      "name": "Don't Forget My Love",
-      "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "V I B R A T I O N",
         "url": "https://open.spotify.com/album/3b7azG2yR8EPj1V6pcW47r"
       },
@@ -1371,6 +1351,26 @@
       "duration_ms": 169831,
       "name": "V I B R A T I O N",
       "url": "https://open.spotify.com/track/2t3FV5IpL1uWeMjt7vOomW"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Don't Forget My Love",
+        "url": "https://open.spotify.com/album/1vtsrwjdXkuAmojBCw2mtv"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 199090,
+      "name": "Don't Forget My Love",
+      "url": "https://open.spotify.com/track/2OZZpID4LgZ0GGm8XB99e3"
     },
     {
       "added_at": "2023-07-07 04:01:00",
@@ -1455,30 +1455,6 @@
     {
       "added_at": "2023-07-07 04:01:00",
       "album": {
-        "name": "Diplo",
-        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
-      },
-      "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Kareen Lomax",
-          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
-        }
-      ],
-      "duration_ms": 234374,
-      "name": "Let You Go",
-      "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
-    },
-    {
-      "added_at": "2023-07-07 04:01:00",
-      "album": {
         "name": "Take Me To The Sunshine (feat. BullySongs)",
         "url": "https://open.spotify.com/album/20AY41HrcfdjRmHSpLLSgd"
       },
@@ -1499,6 +1475,30 @@
       "duration_ms": 177560,
       "name": "Take Me To The Sunshine (feat. BullySongs)",
       "url": "https://open.spotify.com/track/4peF3yGZAZfeOFDahi6Ig5"
+    },
+    {
+      "added_at": "2023-07-07 04:01:00",
+      "album": {
+        "name": "Diplo",
+        "url": "https://open.spotify.com/album/5pdR4YX2zWMXotdF034UYY"
+      },
+      "artists": [
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        },
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Kareen Lomax",
+          "url": "https://open.spotify.com/artist/0Fb9qTWnjsB90xH3zWr4oa"
+        }
+      ],
+      "duration_ms": 234374,
+      "name": "Let You Go",
+      "url": "https://open.spotify.com/track/0KG7XrgM20KEmJrKsyFDAm"
     },
     {
       "added_at": "2023-07-07 04:01:00",

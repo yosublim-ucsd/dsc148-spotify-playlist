@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,326 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,211 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 9 | [Voy a Amarte](https://open.spotify.com/track/5bbOzB0tnW6aNPjt3gvFGi) | [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [Voy a Amarte](https://open.spotify.com/album/18PfvYdVeeRdXLi9VbtK71) | 3:27 |
 | 10 | [Me Enamoré](https://open.spotify.com/track/4JsxCbj5Umjs9tdu2dIBBF) | [Jay Kalyl](https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7) | [Pensaba en Ti](https://open.spotify.com/album/72BcCE5UVXtDj1Ys0mJ0yU) | 3:39 |
 | 11 | [Que No Faltes Tu](https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l) | [Melvin Ayala](https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS) | [Flaming Fire](https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR) | 3:32 |
-| 12 | [Te Amo](https://open.spotify.com/track/6GvSHhIxdWaQJbiQyzdOCy) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [7](https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU) | 4:21 |
-| 13 | [De Fiesta](https://open.spotify.com/track/1rDfPvexeMOw83apb0f1S2) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Corazón Abierto](https://open.spotify.com/album/1RcCNA4HKQZ7i8jVglRlW0) | 3:18 |
+| 12 | [De Fiesta](https://open.spotify.com/track/1rDfPvexeMOw83apb0f1S2) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [Corazón Abierto](https://open.spotify.com/album/1RcCNA4HKQZ7i8jVglRlW0) | 3:18 |
+| 13 | [Te Amo](https://open.spotify.com/track/6GvSHhIxdWaQJbiQyzdOCy) | [Triple Seven](https://open.spotify.com/artist/7cOcEjYXnkleFMc5J8ypBN), [Musiko](https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue) | [7](https://open.spotify.com/album/0SwG9W9WTQNhAJV8z4LYNU) | 4:21 |
 | 14 | [Una Nueva Canción \(feat\. Kike Pavón\)](https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd), [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0) | [Una Nueva Canción \(feat\. Kike Pavón\)](https://open.spotify.com/album/0ZuChxTZJfnV2rxfyweF8a) | 3:42 |
 | 15 | [Tu Eres \(feat\. Andrea Dominguez\)](https://open.spotify.com/track/5hYZyaj6vaEwP5tEjsKBSA) | [Mikey A](https://open.spotify.com/artist/1l6CSnpOO3rlki99yADeks), [Andrea Dominguez](https://open.spotify.com/artist/25YZT94TGT0kKiLaTybU3O) | [Por Amor](https://open.spotify.com/album/3e2VFF2ZVNODx11mQGCdAy) | 3:39 |
 | 16 | [Agua viva](https://open.spotify.com/track/3wtOB6JSbO5clIrbSNjTCm) | [Tercer Cielo](https://open.spotify.com/artist/2bimgkRmsxRhhuWsOnd5rz) | [Tercer Cielo](https://open.spotify.com/album/23Zl6ea0vcawpR43mV6Ua0) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbK4SCc53BQf.md) - [plain]
 | 49 | [Desde Mi Alma](https://open.spotify.com/track/4CyVYEF7Jd1PFP5TvKic0Z) | [Joseph Burgos](https://open.spotify.com/artist/1j3m47q8Ul9ZN0YQ1m2ONL) | [Desde Mi Alma](https://open.spotify.com/album/1AGbEgukntBYyagzUeuvOD) | 4:08 |
 | 50 | [Ritmo del Cielo](https://open.spotify.com/track/1rYUm7oOLJcJW5dSnJTem5) | [Manny Montes](https://open.spotify.com/artist/41A1tLHviwiCao1vXl1cgd), [Michael Pratts](https://open.spotify.com/artist/0zdgPYpK8lYxpW8g5uNlxp) | [United Kingdom 2 \(Volumen 2\)](https://open.spotify.com/album/0R4nAHSxTLLMqfbdnAoYSE) | 3:51 |
 
-Snapshot ID: `MCw4YzFiNWIxYTliNWEwMWY3MTk3YjI2N2U5YjM3YjkwNmFlOGU2NDE5`
+Snapshot ID: `MCxkMzUyMTljMzc2MTA0MWI4MDFmMjU1NGYxYzE1ZDAzNWIwMTQ4NzBj`

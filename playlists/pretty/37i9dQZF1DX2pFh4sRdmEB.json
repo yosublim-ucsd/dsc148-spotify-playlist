@@ -1,12 +1,12 @@
 {
   "description": "\u00c9xitos del Regional Mexicano de ayer y hoy para acompa\u00f1arte en la troca.",
-  "num_followers": 515468,
+  "num_followers": 515049,
   "original_name": "La Troca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzNmUyYjBiNDNhNWRkODRlMjYwYjI4NGYxN2JjODAzYjZlMDI5Y2U5",
+  "snapshot_id": "MCxhOTdmYzU1ODI4ODQ3NzBhZWUyZTVkYjNkYmEwOTEyMTVjZGViYWM2",
   "tracks": [
     {
       "added_at": "2023-08-22 06:00:00",
@@ -771,6 +771,22 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
+        "name": "De Lo Bueno, Lo Mejor",
+        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
+      },
+      "artists": [
+        {
+          "name": "Banda Tierra Sagrada",
+          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
+        }
+      ],
+      "duration_ms": 204453,
+      "name": "La Buena y la Mala",
+      "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
         "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
         "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 240456,
       "name": "Yo Ya No Vuelvo Contigo - En Vivo",
       "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
-        "name": "De Lo Bueno, Lo Mejor",
-        "url": "https://open.spotify.com/album/6fg7ANywTbldJWzw8y1p4F"
-      },
-      "artists": [
-        {
-          "name": "Banda Tierra Sagrada",
-          "url": "https://open.spotify.com/artist/0v7JYEoQOQbzNNESKwxmzT"
-        }
-      ],
-      "duration_ms": 204453,
-      "name": "La Buena y la Mala",
-      "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Cabron Yo Puedo",
-        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
-      },
-      "artists": [
-        {
-          "name": "Grupo Origen",
-          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
-        }
-      ],
-      "duration_ms": 195895,
-      "name": "Cabron Yo Puedo",
-      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "D\u00e9cimo Aniversario",
         "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 164360,
       "name": "Tranquilito",
       "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "Cabron Yo Puedo",
+        "url": "https://open.spotify.com/album/16fcH6jZ8UIklIhEvKG74x"
+      },
+      "artists": [
+        {
+          "name": "Grupo Origen",
+          "url": "https://open.spotify.com/artist/3Ubb7uWOUwy2ahz3qu21C7"
+        }
+      ],
+      "duration_ms": 195895,
+      "name": "Cabron Yo Puedo",
+      "url": "https://open.spotify.com/track/0mP1c16IbyvTQvNMYKZ3Mx"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
+        "name": "Tucanes De Oro ... Secuestro De Amor",
+        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Secuestro De Amor",
+      "url": "https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
         "name": "Te Perdonar\u00eda",
         "url": "https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 156379,
       "name": "Te Perdonar\u00eda",
       "url": "https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
-        "name": "Tucanes De Oro ... Secuestro De Amor",
-        "url": "https://open.spotify.com/album/5XulhFmZovJ84JlWPRVqtZ"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Secuestro De Amor",
-      "url": "https://open.spotify.com/track/6HXuOmqULXyiMeghRjiLsv"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1291,26 +1291,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "12 Kilates Puros Corridos",
-        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        },
-        {
-          "name": "Homero Guerrero y Lupe Tijerina",
-          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
-        }
-      ],
-      "duration_ms": 178960,
-      "name": "Los Dos Amigos",
-      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "AYAYAY! (S\u00faper Deluxe)",
         "url": "https://open.spotify.com/album/1OlyomFZOv4Lx22rs4lBMw"
       },
@@ -1327,6 +1307,26 @@
       "duration_ms": 171360,
       "name": "Dime C\u00f3mo Quieres",
       "url": "https://open.spotify.com/track/4jcxBTrNvyqMJdMDyyjdYV"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "12 Kilates Puros Corridos",
+        "url": "https://open.spotify.com/album/1y9lJbemJO1OdyIQvcL1q4"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        },
+        {
+          "name": "Homero Guerrero y Lupe Tijerina",
+          "url": "https://open.spotify.com/artist/029TNxYpdZWjCidyQjNmgE"
+        }
+      ],
+      "duration_ms": 178960,
+      "name": "Los Dos Amigos",
+      "url": "https://open.spotify.com/track/0uyv3AMPgus71YKJIwwA0W"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "La Banda Del Carro Rojo",
-        "url": "https://open.spotify.com/album/7fetk69EbFu3iKqjhrKJdA"
-      },
-      "artists": [
-        {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
-        }
-      ],
-      "duration_ms": 186720,
-      "name": "La Banda Del Carro Rojo",
-      "url": "https://open.spotify.com/track/6WDwbOSL8PGwokjxxZ7FDG"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "El Ahijado Consentido",
         "url": "https://open.spotify.com/album/35F7wwWfEZV6FSrCppyNPP"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 189346,
       "name": "Ya Me Enter\u00e9",
       "url": "https://open.spotify.com/track/4ggabbjjuHrG06SsYnqvEs"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "La Banda Del Carro Rojo",
+        "url": "https://open.spotify.com/album/7fetk69EbFu3iKqjhrKJdA"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 186720,
+      "name": "La Banda Del Carro Rojo",
+      "url": "https://open.spotify.com/track/6WDwbOSL8PGwokjxxZ7FDG"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "4 Decadas 20 Boleros",
-        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 183373,
-      "name": "No Hay Novedad",
-      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "En Vivo Desde El Nokia",
         "url": "https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK"
       },
@@ -1583,6 +1567,22 @@
       "duration_ms": 187834,
       "name": "El Papel Cambio (Bonus Track)",
       "url": "https://open.spotify.com/track/7LMbe2WJ3jgk7Mn7DzXb4Z"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "4 Decadas 20 Boleros",
+        "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
+      },
+      "artists": [
+        {
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "No Hay Novedad",
+      "url": "https://open.spotify.com/track/5LhkCuUvJeMj308m4vlB8z"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Un Cumbi\u00f3n Dolido",
-        "url": "https://open.spotify.com/album/7nCJIsXrNGI0Ya2v1jmWzK"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 235434,
-      "name": "Un Cumbi\u00f3n Dolido",
-      "url": "https://open.spotify.com/track/7uZ5C69LskNw0B4szvVWI5"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "Y Si Se Quiere Ir",
         "url": "https://open.spotify.com/album/1TGGJG87FFJsLFkILRN1Dc"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 187280,
       "name": "Y Si Se Quiere Ir",
       "url": "https://open.spotify.com/track/6b68vfUlXy2i2dO79z3h5W"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "Un Cumbi\u00f3n Dolido",
+        "url": "https://open.spotify.com/album/7nCJIsXrNGI0Ya2v1jmWzK"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 235434,
+      "name": "Un Cumbi\u00f3n Dolido",
+      "url": "https://open.spotify.com/track/7uZ5C69LskNw0B4szvVWI5"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
+        "name": "Levantando Polvadera (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6"
+      },
+      "artists": [
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "duration_ms": 185179,
+      "name": "Levantando Polvadera",
+      "url": "https://open.spotify.com/track/4rQyZTWAh23M9fndTO0TWG"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
         "name": "Dile a Tu Orgullo (En Vivo)",
         "url": "https://open.spotify.com/album/0y8t5BE78jczViuCWzNYAf"
       },
@@ -1819,22 +1835,6 @@
       "duration_ms": 226345,
       "name": "Dile a Tu Orgullo - En Vivo",
       "url": "https://open.spotify.com/track/6OpRwk4F7sD8lcNwQdekpO"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
-        "name": "Levantando Polvadera (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6"
-      },
-      "artists": [
-        {
-          "name": "Voz De Mando",
-          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
-        }
-      ],
-      "duration_ms": 185179,
-      "name": "Levantando Polvadera",
-      "url": "https://open.spotify.com/track/4rQyZTWAh23M9fndTO0TWG"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
+        "name": "La Revancha",
+        "url": "https://open.spotify.com/album/0bxNLKOGLChbrcK7xQ6gVm"
+      },
+      "artists": [
+        {
+          "name": "Edwin Luna y La Trakalosa de Monterrey",
+          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
+        }
+      ],
+      "duration_ms": 225280,
+      "name": "Supiste Hacerme Mal",
+      "url": "https://open.spotify.com/track/49stmNyFjPLuYn3cD5UDDI"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
         "name": "Me Haces Tan Bien",
         "url": "https://open.spotify.com/album/6vibWAte3CQY0K6EUxiPAv"
       },
@@ -2055,22 +2071,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "La Revancha",
-        "url": "https://open.spotify.com/album/0bxNLKOGLChbrcK7xQ6gVm"
-      },
-      "artists": [
-        {
-          "name": "Edwin Luna y La Trakalosa de Monterrey",
-          "url": "https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl"
-        }
-      ],
-      "duration_ms": 225280,
-      "name": "Supiste Hacerme Mal",
-      "url": "https://open.spotify.com/track/49stmNyFjPLuYn3cD5UDDI"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "Amistad y Pesos",
         "url": "https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1"
       },
@@ -2087,22 +2087,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Desde Morro",
-        "url": "https://open.spotify.com/album/6ruqxBlrH2BEZKZjgG3hSS"
-      },
-      "artists": [
-        {
-          "name": "Justin Morales",
-          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
-        }
-      ],
-      "duration_ms": 146839,
-      "name": "Desde Morro",
-      "url": "https://open.spotify.com/track/5u6lAvdS8mmHHTHQlC3TtN"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "Archivos de Mi Vida",
         "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 170720,
       "name": "Eres Una Ni\u00f1a",
       "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "Desde Morro",
+        "url": "https://open.spotify.com/album/6ruqxBlrH2BEZKZjgG3hSS"
+      },
+      "artists": [
+        {
+          "name": "Justin Morales",
+          "url": "https://open.spotify.com/artist/5D7x9esAF6twPxuOqSMkeO"
+        }
+      ],
+      "duration_ms": 146839,
+      "name": "Desde Morro",
+      "url": "https://open.spotify.com/track/5u6lAvdS8mmHHTHQlC3TtN"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 165480,
-      "name": "Flor De Capomo",
-      "url": "https://open.spotify.com/track/656ZHcf9DiKQMvzuVPIZoi"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
         "name": "No Paras de Hacerme Feliz",
         "url": "https://open.spotify.com/album/4GnznPcGs85z1yeeWA5Gyi"
       },
@@ -2319,18 +2303,18 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "Internacionalmente Norte\u00f1os",
-        "url": "https://open.spotify.com/album/7fhwdWmGl8rR2iVE6ivY42"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
       },
       "artists": [
         {
-          "name": "Los Tigres Del Norte",
-          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 172226,
-      "name": "Carta Abierta",
-      "url": "https://open.spotify.com/track/11gSQLPiqjikM2Dyg0EdUZ"
+      "duration_ms": 165480,
+      "name": "Flor De Capomo",
+      "url": "https://open.spotify.com/track/656ZHcf9DiKQMvzuVPIZoi"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -2347,6 +2331,22 @@
       "duration_ms": 208541,
       "name": "El Final de Nuestra Historia",
       "url": "https://open.spotify.com/track/4dGfHOm1BZjV6LdC1ufJtY"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "Internacionalmente Norte\u00f1os",
+        "url": "https://open.spotify.com/album/7fhwdWmGl8rR2iVE6ivY42"
+      },
+      "artists": [
+        {
+          "name": "Los Tigres Del Norte",
+          "url": "https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy"
+        }
+      ],
+      "duration_ms": 172226,
+      "name": "Carta Abierta",
+      "url": "https://open.spotify.com/track/11gSQLPiqjikM2Dyg0EdUZ"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -2383,6 +2383,22 @@
       "duration_ms": 280093,
       "name": "Somos Los Que Somos - En Vivo",
       "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
+    },
+    {
+      "added_at": "2023-08-22 06:00:00",
+      "album": {
+        "name": "La Boca Les Callamos",
+        "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "duration_ms": 164650,
+      "name": "La Boca Les Callamos",
+      "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -2459,18 +2475,18 @@
     {
       "added_at": "2023-08-22 06:00:00",
       "album": {
-        "name": "La Boca Les Callamos",
-        "url": "https://open.spotify.com/album/2kVbNXRSfZPLgyH4lhrhp9"
+        "name": "Salvaje Y Tierno",
+        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
       },
       "artists": [
         {
-          "name": "La Fiera de Ojinaga",
-          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
         }
       ],
-      "duration_ms": 164650,
-      "name": "La Boca Les Callamos",
-      "url": "https://open.spotify.com/track/6bXfM7zpnRP5qkyYWzHjWO"
+      "duration_ms": 140493,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46"
     },
     {
       "added_at": "2023-08-22 06:00:00",
@@ -2487,22 +2503,6 @@
       "duration_ms": 188586,
       "name": "Mi Meta Contigo",
       "url": "https://open.spotify.com/track/5DSreXbE3u1VUtVeSiqlnn"
-    },
-    {
-      "added_at": "2023-08-22 06:00:00",
-      "album": {
-        "name": "Salvaje Y Tierno",
-        "url": "https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K"
-      },
-      "artists": [
-        {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
-        }
-      ],
-      "duration_ms": 140493,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46"
     },
     {
       "added_at": "2023-08-22 06:00:00",

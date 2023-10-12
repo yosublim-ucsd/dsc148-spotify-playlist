@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 
 > Distorted and rough around the edges.
 
-[Spotify](https://open.spotify.com/user/spotify) - 447,146 likes - 60 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 447,195 likes - 60 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,11 +27,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 17 | [Pastis](https://open.spotify.com/track/1UuLgIZIUIfgRVXhKmUAqD) | [Bluestaeb](https://open.spotify.com/artist/67pW04a6jpdQR2yWqjcfxs) | [Pastis](https://open.spotify.com/album/62AyMPxUSqDlAYCdrZ46CV) | 4:04 |
 | 18 | [Back to My Place](https://open.spotify.com/track/6ktLSB400x4CYHuYZD5Slb) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Back To My Place](https://open.spotify.com/album/5AFAKBu4IAPLwlDOdkVezg) | 4:05 |
 | 19 | [I Needed](https://open.spotify.com/track/4vyOcxU4oEyzEhBMFheHBj) | [Hanna](https://open.spotify.com/artist/0s7581IIWDf3wgPuifQeMB) | [I Needed / Intercession, On Behalf](https://open.spotify.com/album/5FyTGjsgSg6DCtg5oxui1p) | 6:37 |
-| 20 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 |
-| 21 | [elope](https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [elope](https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8) | 4:53 |
-| 22 | [Radio Los Santos](https://open.spotify.com/track/1x40cY4yovEabUMzRWXGjd) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Radio Los Santos](https://open.spotify.com/album/6N6GvUqI3dgfMcorIYv44N) | 7:12 |
-| 23 | [Mellina](https://open.spotify.com/track/1PacOKtN0fJ6qMCS52aoA4) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Mellina](https://open.spotify.com/album/4CXjoh2vLBZZxCLkYx6Fcw) | 2:29 |
-| 24 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
+| 20 | [elope](https://open.spotify.com/track/4y6Xmu2yfPC5he71JTJjTH) | [dj poolboi](https://open.spotify.com/artist/3uL9a8QRwQ6J8Sc7NYK7oJ) | [elope](https://open.spotify.com/album/57HOrZZ7YLmTbEMlZUFJb8) | 4:53 |
+| 21 | [Ocean Drift](https://open.spotify.com/track/1vBZaWEUbwo3bUfyrI5VRb) | [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Ocean Drift](https://open.spotify.com/album/4WX97pFfrHMvW1nORbpPF2) | 2:16 |
+| 22 | [Mellina](https://open.spotify.com/track/1PacOKtN0fJ6qMCS52aoA4) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Mellina](https://open.spotify.com/album/4CXjoh2vLBZZxCLkYx6Fcw) | 2:29 |
+| 23 | [suddenly](https://open.spotify.com/track/7yywVfBt9S6RQhDIXf1nTH) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [breath tapes](https://open.spotify.com/album/4f9iuMf52RSUYb9vVx34pA) | 3:35 |
+| 24 | [Radio Los Santos](https://open.spotify.com/track/1x40cY4yovEabUMzRWXGjd) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Radio Los Santos](https://open.spotify.com/album/6N6GvUqI3dgfMcorIYv44N) | 7:12 |
 | 25 | [Super Good Times](https://open.spotify.com/track/0evxHcyCVN4f88IDipmvge) | [Suray Sertin](https://open.spotify.com/artist/4Fne9Gai1GmN22jvAENRtP) | [Super Good Times](https://open.spotify.com/album/68cDaUqXV1gBfUTikzcpwj) | 3:41 |
 | 26 | [100 reasons](https://open.spotify.com/track/51glOQHf2CWjiT63TMt98H) | [kemt](https://open.spotify.com/artist/2LCFqtl3a3rO8KEcIPAUrX) | [lo\-fi\_house.zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 6:15 |
 | 27 | [Brasil](https://open.spotify.com/track/5A6P4j1vzChOHQj7rdZndJ) | [blnkspc\_](https://open.spotify.com/artist/3hZaebXqrD5crmyMP2x1qa) | [Brasil](https://open.spotify.com/album/6ZMy4Xs6u1k9x5Fm7oRcrI) | 2:49 |
@@ -56,17 +56,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbXD9pMSZomS.md) - [plain]
 | 46 | [Indepanties day](https://open.spotify.com/track/0FwPSxriJhjWU4TTfzvNuh) | [Hosiannah](https://open.spotify.com/artist/0NJjvhC9pJiUNTK8OUkVIq) | [Indepanties day](https://open.spotify.com/album/48vkyleNJElgkXrHr79f27) | 3:17 |
 | 47 | [Hyperspace \(feat\. Teza Sumendra\)](https://open.spotify.com/track/3zIyDwLqQMbXc1pq95TIrk) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Teza Sumendra](https://open.spotify.com/artist/2fS9sWFJcWN8wVhYbCfdC7) | [Hyperspace \(feat\. Teza Sumendra\)](https://open.spotify.com/album/1RA1liM0tl38zX5sjSDurR) | 3:24 |
 | 48 | [Longing For U](https://open.spotify.com/track/2L0GFhQC5KSzBeOxL5901i) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su) | [Longing For U](https://open.spotify.com/album/4eTaymA78kYbMHyuEcOKsq) | 5:49 |
-| 49 | [Random Places](https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Kindzmarauli](https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co) | 4:16 |
-| 50 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
+| 49 | [008A1](https://open.spotify.com/track/4MCM6iff0STPETNF1K8as0) | [Apparel Wax](https://open.spotify.com/artist/2nlNttZvT9FlaPBIP1H4Io) | [8](https://open.spotify.com/album/0VjEHFit3Jh83caJw3gvw0) | 6:13 |
+| 50 | [Random Places](https://open.spotify.com/track/6c67MF8KIGhNkQGlNw9yuQ) | [Grey Killer](https://open.spotify.com/artist/7D8eeQLyAJQnmyoQ74MJnb) | [Kindzmarauli](https://open.spotify.com/album/0AdLfkXRS6rp9XSQxzB5Co) | 4:16 |
 | 51 | [In Your Arms](https://open.spotify.com/track/0MXxgckPCaX61JXzBeEXGE) | [Ayla Nova](https://open.spotify.com/artist/6AWCoA4NxV0y0FlXGhW4SQ) | [In Your Arms](https://open.spotify.com/album/5CJiamUX79bwlnjdzmhQ9c) | 2:30 |
 | 52 | [Milkyway](https://open.spotify.com/track/2YKw0uxE23v2WZRJTxHRRD) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Milkyway](https://open.spotify.com/album/5z0dM0StzYEPketn3Ei8TQ) | 3:27 |
 | 53 | [Holy](https://open.spotify.com/track/7KZ5QHKB84kZIOqh3VXxSc) | [Becky Ford](https://open.spotify.com/artist/2fdp1Ko2rZBzo0tRGbR2Vs) | [Holy](https://open.spotify.com/album/1N0APiYtAhr8ZuwJJTv0l7) | 2:18 |
-| 54 | [Bliss](https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Bliss](https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe) | 5:47 |
-| 55 | [True Romance \(Maja Edit\)](https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 3:50 |
-| 56 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
-| 57 | [Brasileira \- ddp Remix](https://open.spotify.com/track/5mhTV8AJiXiqYZYV3gfMAo) | [9iusi](https://open.spotify.com/artist/4r3taDm0QDk822Kgkb5HSF), [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY) | [Brasileira \(ddp Remix\)](https://open.spotify.com/album/6KLIuHvsFGrI4c2JUCmhUr) | 1:56 |
+| 54 | [Brasileira \- ddp Remix](https://open.spotify.com/track/5mhTV8AJiXiqYZYV3gfMAo) | [9iusi](https://open.spotify.com/artist/4r3taDm0QDk822Kgkb5HSF), [ddp](https://open.spotify.com/artist/0HspbEdYue08iRrGtnG0YY) | [Brasileira \(ddp Remix\)](https://open.spotify.com/album/6KLIuHvsFGrI4c2JUCmhUr) | 1:56 |
+| 55 | [Bliss](https://open.spotify.com/track/3CCBNEcg3etv2gppDhs3At) | [Best Friends Club](https://open.spotify.com/artist/7JjgGzq5j7CBkglcvQ48vq) | [Bliss](https://open.spotify.com/album/2T1JvD1CHgQfQcEGd9CzKe) | 5:47 |
+| 56 | [True Romance \(Maja Edit\)](https://open.spotify.com/track/5TvthuUWOhQZYtXGpE66uu) | [Bella Boo](https://open.spotify.com/artist/1Rwokb27xxRMZC0zWA8i6C) | [True Romance](https://open.spotify.com/album/58tCpMNdFARg5tvBW9H2E5) | 3:50 |
+| 57 | [Amy](https://open.spotify.com/track/6v657gccnxfQLFJmfTQhjc) | [Babsy](https://open.spotify.com/artist/3DN1VyaELsLlAd407zTZGJ) | [Social Distancing EP](https://open.spotify.com/album/1mnDwYfAQVVMecB2OdDgob) | 5:12 |
 | 58 | [10Min JAM\_V2](https://open.spotify.com/track/4oiuHfgAUlp6aHkHIsTijj) | [Berus](https://open.spotify.com/artist/44pdm70YqlobtTZ9HmtBYa) | [10Min JAM\_V2](https://open.spotify.com/album/3CsmKKgoKRsi8dH3JcjP9D) | 1:39 |
 | 59 | [Mellow Mornings](https://open.spotify.com/track/4e316PpOtDD3WQE3t6Eqcp) | [Shopan](https://open.spotify.com/artist/2XHa2Sy9IYid9hnQ2YmtGl) | [Mellow Mornings](https://open.spotify.com/album/6t4sfAMZKZ3ik8VqhruGvc) | 2:34 |
 | 60 | [New Nkalo](https://open.spotify.com/track/5kNWbTd20m5zeLEoRafalx) | [Made in M](https://open.spotify.com/artist/5schXx0Ys4N52iU7On2j4c) | [New Nkalo](https://open.spotify.com/album/7lYvclewmJFSxM9wko04l5) | 4:28 |
 
-Snapshot ID: `MCxhMTQ0YWZlYjI1MDY3Yjk2ODQ4NDc4MTc2MmQxZjgwMzNhN2Q4ZjYy`
+Snapshot ID: `MCw5MjhiMGFmZmJjNTkyY2IzM2YxYmQyNTZmNDEyNWI3MGIxZTM2NjNm`

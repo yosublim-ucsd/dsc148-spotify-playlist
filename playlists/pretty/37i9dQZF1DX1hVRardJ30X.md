@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Mau y Ricky
 
-[Spotify](https://open.spotify.com/user/spotify) - 582,632 likes - 55 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 582,031 likes - 55 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 54 | [Escubi](https://open.spotify.com/track/4JfVOJDKkTT7JcXMaf9pCI) | [Mercy LD](https://open.spotify.com/artist/6MtdozPV1ApwJDxZBp0MlV) | [Escubi](https://open.spotify.com/album/6vInEnm1Edn9XdDUYzB3vw) | 2:24 |
 | 55 | [Toy En Avería](https://open.spotify.com/track/56ogQsUpoJBNO1LxASfApV) | [El Pastor RD](https://open.spotify.com/artist/4plI4LITOF226K197LazKR) | [Toy En Avería](https://open.spotify.com/album/1q3FTTjhWP6DeGwbJvgJgC) | 2:50 |
 
-Snapshot ID: `MCw5MTA2MGNjMmFmMDU5NmExOWEwY2Q0MDEyMTk3YjNiZDk4MjJiYzcz`
+Snapshot ID: `MCxmNTk3MGRmZGRjMTJhZjVmNDM5MTE3ZjRlY2RmZTM2MWM4Zjc0OWM0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic and trap beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,242 likes - 173 songs - 7 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,327 likes - 173 songs - 7 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 69 | [I'm Here](https://open.spotify.com/track/1aHAXehB7uQ044J4QVOXkb) | [Fadez N Riser](https://open.spotify.com/artist/11RjmGA0jW6k35CqEGjl8n) | [I'm Here](https://open.spotify.com/album/3WdjV92wxOwTjwmALXKdj0) | 3:42 |
 | 70 | [lenient](https://open.spotify.com/track/536oAxoTUOQ1s0WrgReFZJ) | [fidget blue](https://open.spotify.com/artist/72zjw9ziFnk6Jl3xkgcvVK) | [lenient](https://open.spotify.com/album/1hPTNfK1zqa7Dieh5cMmcg) | 2:03 |
 | 71 | [Peace Police](https://open.spotify.com/track/2qHaXryEN56zBsYEG4j5Sj) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Peace Police](https://open.spotify.com/album/5UcnhXhnPxol0KORBDsW6L) | 2:16 |
-| 72 | [Dizzy Bluesy \(smile\)](https://open.spotify.com/track/2M8ns1WQYQbS0E6Xef6Vuv) | [Mr Diz](https://open.spotify.com/artist/6WJfjbKY69hEevc5WJH1vu), [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Dizzy Bluesy \(smile\)](https://open.spotify.com/album/709ObnJx4qIQEbdukVVCnQ) | 1:38 |
+| 72 | [Dizzy Bluesy \(smile\)](https://open.spotify.com/track/0GaYIrqFVEjN3bvrZRIgNg) | [Mr Diz](https://open.spotify.com/artist/6WJfjbKY69hEevc5WJH1vu), [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Dizzy Bluesy \(smile\)](https://open.spotify.com/album/2uL4cTLvR55iT0T2WUJQVq) | 1:38 |
 | 73 | [Ataraxis](https://open.spotify.com/track/16uSBcWTIq2kDzgoUGy7Pl) | [Auracane](https://open.spotify.com/artist/1iuQp6PLtiGhfyhFBacmT8) | [Ataraxis](https://open.spotify.com/album/6jJ3D7mfIcq085Oo52SgqZ) | 3:16 |
 | 74 | [Clarity](https://open.spotify.com/track/1dybFHd0ge6XP8Yjy8ub22) | [Litu Ritu](https://open.spotify.com/artist/3PSahIv0mhBptzduLsuEJU) | [Hyperloop](https://open.spotify.com/album/6TlRciT120PQPOxplEQB9y) | 4:19 |
 | 75 | [Fatso](https://open.spotify.com/track/0NzWqeHz2wnYvEJYy5D7l0) | [ZLZL](https://open.spotify.com/artist/3IWEZyFoZPDgwRtQOCvox7) | [158 Texas](https://open.spotify.com/album/47HGt4wZttlPBYItTZURXi) | 3:05 |
@@ -182,4 +182,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 172 | [Leo](https://open.spotify.com/track/0o5oip1kRJnjeOUzNhEv2f) | [D\-Platform](https://open.spotify.com/artist/4Q9LzuzViYcn5iaEIgqJn4) | [Leo](https://open.spotify.com/album/20aInnjfIxphhV83JBPm0o) | 3:06 |
 | 173 | [Nite Flight](https://open.spotify.com/track/3AJvAH7PQB6h2P7W2KKEUN) | [Polis Sitz](https://open.spotify.com/artist/2GHmWUuciILR03aob99yj1) | [Nite Flight](https://open.spotify.com/album/1nQuAVq1omBp5FzudVEW5R) | 3:11 |
 
-Snapshot ID: `MCwyZjBlMjMzOTdkZjJjOGVhY2MxNzA1ZTBhNmUxZWIzYWNiNjU3ZDk0`
+Snapshot ID: `MCwyMzc1MGYxZDVkZWMwNTc2NDVhY2NiYTkxYWMwZDRmMmQxOTYzYTIz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 
 > Little Walter, Junior Wells, James Cotton the finest blues harmonica players.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,879 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,888 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 31 | [Jason Solo](https://open.spotify.com/track/0KVqA1NoDClaWnKkqQV8wP) | [JJ Appleton](https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE), [Jason Ricci](https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN) | [Dirty Memory](https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn) | 6:02 |
 | 32 | [Don't Bite the Hand That Feeds You](https://open.spotify.com/track/0Gjw2bx2khjm0OueuMFBKL) | [Kim Wilson](https://open.spotify.com/artist/3LkeAX21Tyb0t1CCAP5aq3) | [That's Life](https://open.spotify.com/album/5M8gkXa4AULN9NESM0a4Ii) | 4:16 |
 | 33 | [Play With Your Poodle](https://open.spotify.com/track/3HR1zeLxoPmGuFD8Qxu0Jq) | [James Cotton](https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k) | [Deep In The Blues](https://open.spotify.com/album/1oH2NSqTzggdoVlUcUxLvU) | 3:39 |
-| 34 | [Going Back To Alabama](https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr) | [The Siegel\-Schwall Band](https://open.spotify.com/artist/09y7wEuZOxZyYi8suU6NEo) | [Flash Forward](https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv) | 3:39 |
-| 35 | [Need To Make A Dollar](https://open.spotify.com/track/6BIpLmms6hIdSFI3GNTw8J) | [Keith Dunn](https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL) | [Alone With The Blues](https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ) | 2:51 |
+| 34 | [Need To Make A Dollar](https://open.spotify.com/track/6BIpLmms6hIdSFI3GNTw8J) | [Keith Dunn](https://open.spotify.com/artist/122e3natoyt3KVWHoSxBKL) | [Alone With The Blues](https://open.spotify.com/album/3BhmnjO4QezeG8TVE6dRfJ) | 2:51 |
+| 35 | [Going Back To Alabama](https://open.spotify.com/track/2qV360qyQrQllFZFzZunXr) | [The Siegel\-Schwall Band](https://open.spotify.com/artist/09y7wEuZOxZyYi8suU6NEo) | [Flash Forward](https://open.spotify.com/album/0cOiCxvkM6EEF9gRKrX2Fv) | 3:39 |
 | 36 | [Callin' All Fools](https://open.spotify.com/track/43J5N4yyxOSCrTZ9PD7dpF) | [Rick Estrin & The Nightcats](https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U) | [One Wrong Turn](https://open.spotify.com/album/4cJ6p2UKcmZwOSHppR4CXl) | 5:13 |
 | 37 | [One Monkey Don't Stop The Show](https://open.spotify.com/track/2S4f3cNofjA6pQNWQHcSM3) | [Sonny Terry](https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv) | [Sonny Is King](https://open.spotify.com/album/4ewWMXqCejyno0okSIOVnd) | 3:09 |
 | 38 | [Can't Believe It's This Good](https://open.spotify.com/track/32HudsU4xtWFuNWnmb6XPe) | [JJ Appleton](https://open.spotify.com/artist/5c2q4cX88ZOW2uVL47EKwE), [Jason Ricci](https://open.spotify.com/artist/7EV8gsN4cvguOI67kcnYAN) | [Dirty Memory](https://open.spotify.com/album/2UXZqPLmcmB6aa9T8AJFxn) | 3:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKE4YNKbqtI.md) - [plain]
 | 49 | [You Got It](https://open.spotify.com/track/2RnKaMIWn5HQgkg0wghuir) | [Dennis Gruenling](https://open.spotify.com/artist/56M0TPfeix1WjBuylxkVeG) | [Up All Night](https://open.spotify.com/album/3agi8buLixKwrmVNiKPHGN) | 3:14 |
 | 50 | [Bluesy](https://open.spotify.com/track/078lhMIegYPNI58tyFn6o8) | [Louis Myers](https://open.spotify.com/artist/2MHJe9H2p09aSHJm7yrwNh) | [Blues Harp Hero](https://open.spotify.com/album/5lkj3Xw9Xw5VUY38BvTmXL) | 2:44 |
 
-Snapshot ID: `MCwyYzU4ZTg4MGMwM2EzOTI1Mjc2ZjI0OTMwNGU5MDBiN2MzOTc5MzQ5`
+Snapshot ID: `MCw0NGZkMjNkM2JjODU1YmI3Zjg0MmYzOTA3OGM2OWU0NDliZDZmMTYw`

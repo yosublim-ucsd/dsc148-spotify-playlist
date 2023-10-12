@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 
 > Where hip\-hop and soul meets jazz\. Cover: Digable Planets
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,187 likes - 90 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 311,331 likes - 90 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 49 | [Be Thankful \(feat\. Erykah Badu\)](https://open.spotify.com/track/20RTW1RVNY4B2uUo2MrFTg) | [Omar](https://open.spotify.com/artist/0BzTIDnFI4pvhy7vVNd41Z), [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX) | [Pass It On](https://open.spotify.com/album/789KsljLATC1ZZDAxBeK27) | 4:13 |
 | 50 | [Knucklehead](https://open.spotify.com/track/4TYEIckMi7PTCh1kiknKSy) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1) | [Feels So Good](https://open.spotify.com/album/25M5zhvFVOKw59pxA3f5rN) | 7:59 |
 | 51 | [Hard Work](https://open.spotify.com/track/4URLJkB6D5QxvOB7H3kmGI) | [John Handy](https://open.spotify.com/artist/3Hl3dCaBcrnvBAOMAW4nJR) | [Hard Work](https://open.spotify.com/album/36qRTryrmjNPkO6AX8fKTw) | 6:57 |
-| 52 | [Feel The Real](https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm) | [David Bendeth](https://open.spotify.com/artist/1cIMjUTNaDs3pP0TxjdPXe) | [Adrenalin](https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe) | 6:50 |
-| 53 | [Keep Your Head Up](https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [Fay Simpson](https://open.spotify.com/artist/3cM8jn7x5RHKqAPs13t0tt) | [Off The Record](https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo) | 4:41 |
+| 52 | [Keep Your Head Up](https://open.spotify.com/track/0oC8NiFS4UNepxVacFRdLr) | [Ronny Jordan](https://open.spotify.com/artist/32WK2OuP2PG4r7sH7bUfN9), [Fay Simpson](https://open.spotify.com/artist/3cM8jn7x5RHKqAPs13t0tt) | [Off The Record](https://open.spotify.com/album/2XkVhDoUjbZ5vll7oR6sDo) | 4:41 |
+| 53 | [Feel The Real](https://open.spotify.com/track/2tTMoXavkBdOsjKGaKdzdm) | [David Bendeth](https://open.spotify.com/artist/1cIMjUTNaDs3pP0TxjdPXe) | [Adrenalin](https://open.spotify.com/album/79JZAbb01l4hyVs0JNJJEe) | 6:50 |
 | 54 | [I'll Be With You](https://open.spotify.com/track/7a0i3hGEInHBswOYD5KaH4) | [Apartment Upstairs](https://open.spotify.com/artist/7CKdT4kxf0aMTFtSYx8Kmk), [Doc Awes](https://open.spotify.com/artist/5Dxx4NwFilcIbafokwfnes), [Abhay Sharma](https://open.spotify.com/artist/3MoObXWEFyxfYPWGCsViX3), [Fakeer](https://open.spotify.com/artist/6noaoyjtcjbs6C8REcYhxf) | [I'll Be With You](https://open.spotify.com/album/7GVaEnwt87gGsw0RxM9F3q) | 3:42 |
 | 55 | [Wash Your Face In My Sink](https://open.spotify.com/track/33thSPOfzybaOuyZb3ZLpm) | [Dream Warriors](https://open.spotify.com/artist/4FrJKQblIjEyw8rbqYHNpU) | [And Now The Legacy Begins](https://open.spotify.com/album/6AelbV20VsSWwnYhalKjdd) | 3:40 |
 | 56 | [Clouds in the Sky](https://open.spotify.com/track/44Ln5NkkKk2yxZfQcqpVjx) | [Kwaj](https://open.spotify.com/artist/07qmux75ZCIGFmkjC5K5lX), [V\. Soul](https://open.spotify.com/artist/0CFik6GQgNMDHY34nJ9OpH) | [Leaves of Memories](https://open.spotify.com/album/5BpiVLYkZ7nKGD2B4XLuul) | 2:24 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 71 | [Tokisan](https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [YUNIKōN](https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR) | 3:25 |
 | 72 | [Block Episode](https://open.spotify.com/track/1axCLL1W1NiOVz32Dnf2Ie) | [Masta Ace](https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv), [Punch&Words](https://open.spotify.com/artist/61FbYXEKKxS7MHKzXM9Ej7) | [Disposable Arts](https://open.spotify.com/album/6oBCrRVCWpqR4YpNIqQRlN) | 3:48 |
 | 73 | [Give Me](https://open.spotify.com/track/5VSxOUW2zqOo77pauTqpFG) | [iLEVEL](https://open.spotify.com/artist/6giP3D3xjy48VZKi3nk3eE) | [I\-Level](https://open.spotify.com/album/0OCJNxmBNVXTS9tAAwXea8) | 4:01 |
-| 74 | [Holy Sun](https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO) | 4:23 |
-| 75 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 |
-| 76 | [Rubberband of Life \(feat\. Ledisi\)](https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Rubberband EP](https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ) | 5:44 |
+| 74 | [Hargrove](https://open.spotify.com/track/5tkioBRK2vVoinDRJbyUlp) | [Kenny Garrett](https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY) | [Sounds from the Ancestors](https://open.spotify.com/album/1PjB6iaRaTUUwdwDmzTNFd) | 5:13 |
+| 75 | [Rubberband of Life \(feat\. Ledisi\)](https://open.spotify.com/track/7IYV3GN411W65phaX3XP6Q) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [Ledisi](https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA) | [Rubberband EP](https://open.spotify.com/album/4iHtBFo4si4ke896dw2yHJ) | 5:44 |
+| 76 | [Holy Sun](https://open.spotify.com/track/2prsNcywu7raXhGJ8KkwKp) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [AVA LAVÁ](https://open.spotify.com/artist/7dybBlFFd4YZCbaImU9sDA) | [Holy Sun](https://open.spotify.com/album/3TcPxmWiTbjDWutVvkW2TO) | 4:23 |
 | 77 | [Lovesick](https://open.spotify.com/track/7KarCryu01mw8AFBDgTlzn) | [Night Trains](https://open.spotify.com/artist/3TDzdGMoABiaQhqtUBEftG) | [Sleazeball](https://open.spotify.com/album/3hxRgoRmClEKCFykjpj6gb) | 4:27 |
 | 78 | [I Am The Black Gold Of The Sun](https://open.spotify.com/track/54xrXbM3vHE6JkVqkorRdG) | [Nuyorican Soul](https://open.spotify.com/artist/2pMSfxqqpW87tzVwPQxeFw), [Jocelyn Brown](https://open.spotify.com/artist/2ga5ADaBpljQ3YrCh99ZMq) | [Nuyorican Soul](https://open.spotify.com/album/0UZzbwCAVQhENWItyCZm5L) | 5:19 |
 | 79 | [Pushin' On](https://open.spotify.com/track/7LiC67aNpgqxkZJPC49UjM) | [The Quantic Soul Orchestra](https://open.spotify.com/artist/12ZOHgIYkZiwd9w9F7I83e), [Alice Russell](https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc) | [Pushin' On](https://open.spotify.com/album/1uYaIjqXcqrCLIeA0syxar) | 3:19 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXHghfFFOaS6.md) - [plain]
 | 89 | [Check The Pulse](https://open.spotify.com/track/1JW36QtBxE4usZnSjYJz8W) | [Mr Jukes](https://open.spotify.com/artist/1y71H4hNtnHG7LeU1Y47FO), [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ) | [Check The Pulse](https://open.spotify.com/album/0vbBNZcVFdm712rzsXfsr5) | 2:34 |
 | 90 | [Look Inside](https://open.spotify.com/track/55vLT3xEExIooTieCfLjUQ) | [4hero](https://open.spotify.com/artist/1BlBZ9jQGOjmj6Zykgg43L), [Face](https://open.spotify.com/artist/7rAHyyAugNjIUBYTwoHHMg) | [Play With the Changes](https://open.spotify.com/album/5F4ERW3zwBLDTC4dYxaplL) | 4:06 |
 
-Snapshot ID: `MCxkZjgyM2Q1ZjYxMDIzYWE4NDg2NjY2NTA4MGZiZmNlODQ0MWI1NWVi`
+Snapshot ID: `MCw2YmE4Yjg3MDdjYTM1ZGI1Mzg1MGM2NTEzMGVlOTBjNzllYTU4ZWYx`

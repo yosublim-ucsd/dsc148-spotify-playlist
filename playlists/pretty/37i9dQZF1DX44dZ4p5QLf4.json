@@ -1,12 +1,12 @@
 {
   "description": "A blend of new songs and artists in the soul space. Cover: vAn",
-  "num_followers": 476521,
+  "num_followers": 476318,
   "original_name": "Next Wave Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDExMTBmNzY3MDc0M2VmZGFlNDNjODQwMzQ0YWMxZjY2ODFkYTdh",
+  "snapshot_id": "MCxlNzg5ZmRjNzMxZjRjM2U1M2UzYzdlN2Y0NmUyZWJhYTBmZGRkYjUy",
   "tracks": [
     {
       "added_at": "2023-10-06 12:01:11",
@@ -871,22 +871,6 @@
     {
       "added_at": "2023-10-06 12:01:11",
       "album": {
-        "name": "The Reason",
-        "url": "https://open.spotify.com/album/5RfIfa2AueKeUKEp395y8W"
-      },
-      "artists": [
-        {
-          "name": "James Vickery",
-          "url": "https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/2PPOMyH1XtNFd6emNTnTDm"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
         "name": "Look What You've Done",
         "url": "https://open.spotify.com/album/1lCjjuAzUoAxW9ATjqdFDc"
       },
@@ -979,26 +963,6 @@
       "duration_ms": 143978,
       "name": "Love Island",
       "url": "https://open.spotify.com/track/0FlBpw3OpaZur0hceVBj46"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
-        "name": "Build Me A House",
-        "url": "https://open.spotify.com/album/1NsNO9pDwGPVlOkqgzro17"
-      },
-      "artists": [
-        {
-          "name": "RIMON",
-          "url": "https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm"
-        },
-        {
-          "name": "Tiggs Da Author",
-          "url": "https://open.spotify.com/artist/0S2dfczvN0sOxEw559snHT"
-        }
-      ],
-      "duration_ms": 181481,
-      "name": "Build Me A House",
-      "url": "https://open.spotify.com/track/3Sb3Md9qVCRwu470IZ4XIp"
     },
     {
       "added_at": "2023-10-06 12:01:11",
@@ -1227,22 +1191,6 @@
     {
       "added_at": "2023-10-06 12:01:11",
       "album": {
-        "name": "What's Around The Corner",
-        "url": "https://open.spotify.com/album/25svhynQhTgN0uUjHAdDth"
-      },
-      "artists": [
-        {
-          "name": "Joya Mooi",
-          "url": "https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn"
-        }
-      ],
-      "duration_ms": 182222,
-      "name": "So Stunning",
-      "url": "https://open.spotify.com/track/5axNMiJku4d44cqJfmxlDg"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
         "name": "How Long",
         "url": "https://open.spotify.com/album/7HUqyV0fOajsXvFxDvdHEO"
       },
@@ -1363,22 +1311,6 @@
     {
       "added_at": "2023-10-06 12:01:11",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/6F62edIK4IsvQ2k0ttPCC4"
-      },
-      "artists": [
-        {
-          "name": "Illnoledge",
-          "url": "https://open.spotify.com/artist/6fm0ZSzd0zHjXjjLuEDXX5"
-        }
-      ],
-      "duration_ms": 298506,
-      "name": "Fearless",
-      "url": "https://open.spotify.com/track/4gwDxpAtGNezq7u3BXdMmS"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
         "name": "Sweet Distraction",
         "url": "https://open.spotify.com/album/6dEK6JiVB7DoalHiMayTsb"
       },
@@ -1463,58 +1395,6 @@
     {
       "added_at": "2023-10-06 12:01:11",
       "album": {
-        "name": "Queen Space (with Summer Walker)",
-        "url": "https://open.spotify.com/album/6juUcr1BHeBUg2ipoLI0mV"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 230841,
-      "name": "Queen Space (with Summer Walker)",
-      "url": "https://open.spotify.com/track/3Gz3Tl8TicQbsR0OGvmc6C"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
-        "name": "Simmer Down",
-        "url": "https://open.spotify.com/album/6iVokxWrp9bB8QOzlHSnxt"
-      },
-      "artists": [
-        {
-          "name": "Bluey Robinson",
-          "url": "https://open.spotify.com/artist/4JgCtSrKUJB4UT9MUoPSo6"
-        }
-      ],
-      "duration_ms": 183855,
-      "name": "Simmer Down",
-      "url": "https://open.spotify.com/track/588PD4ef9Naq17zduReyoo"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
-        "name": "Make A Place",
-        "url": "https://open.spotify.com/album/7hyTC1R6gccWhdMZ9437ZB"
-      },
-      "artists": [
-        {
-          "name": "Benny Atlas",
-          "url": "https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS"
-        }
-      ],
-      "duration_ms": 199011,
-      "name": "Make A Place",
-      "url": "https://open.spotify.com/track/1tnHsDjJqZPp7uZNqCERJ9"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
         "name": "Champagne Problems",
         "url": "https://open.spotify.com/album/3SVAsjIqaP3EwqAEiTJXjF"
       },
@@ -1547,26 +1427,6 @@
     {
       "added_at": "2023-10-06 12:01:11",
       "album": {
-        "name": "Brown Sugar Queen [Feat. Janice]",
-        "url": "https://open.spotify.com/album/7gd3JStkef9zd2CV9Et7BF"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        },
-        {
-          "name": "Janice",
-          "url": "https://open.spotify.com/artist/1uKR3ihZmv8a93heLPYKQ8"
-        }
-      ],
-      "duration_ms": 208511,
-      "name": "Brown Sugar Queen [Feat. Janice]",
-      "url": "https://open.spotify.com/track/4IBA7iay6sycCsopkXqpII"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
         "name": "Ebbs and Flows",
         "url": "https://open.spotify.com/album/6ymZzUwgOwGaevvamG568v"
       },
@@ -1579,22 +1439,6 @@
       "duration_ms": 199658,
       "name": "Ebbs and Flows",
       "url": "https://open.spotify.com/track/7fv831b61zLwfA1d6Vp17f"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
-        "name": "In My Mind",
-        "url": "https://open.spotify.com/album/5cCq18AvACmXNR2QmuPt3i"
-      },
-      "artists": [
-        {
-          "name": "Flo Naegeli",
-          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
-        }
-      ],
-      "duration_ms": 205625,
-      "name": "In My Mind",
-      "url": "https://open.spotify.com/track/4SSMJh5AoqMt8xMDTaMByS"
     },
     {
       "added_at": "2023-10-06 12:01:11",
@@ -1631,38 +1475,6 @@
     {
       "added_at": "2023-10-06 12:01:11",
       "album": {
-        "name": "Overgold",
-        "url": "https://open.spotify.com/album/5oW0Zsl8PcoaWXEENCIVi6"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        }
-      ],
-      "duration_ms": 195744,
-      "name": "Overgold",
-      "url": "https://open.spotify.com/track/74vzcgYIdZhdyrgZcaVnAy"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
-        "name": "Something Over Nothing",
-        "url": "https://open.spotify.com/album/3vqrSwAIb9U6c8Wxc98anH"
-      },
-      "artists": [
-        {
-          "name": "ILLAJOY",
-          "url": "https://open.spotify.com/artist/3BJiuXnkcmBxcLYfEiCGjj"
-        }
-      ],
-      "duration_ms": 229241,
-      "name": "Something Over Nothing",
-      "url": "https://open.spotify.com/track/51sP9J4HvAAGeFvJA9518Z"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
         "name": "sealand",
         "url": "https://open.spotify.com/album/4hcnXR0juT3ry1SXzSgu0A"
       },
@@ -1675,42 +1487,6 @@
       "duration_ms": 258979,
       "name": "sealand",
       "url": "https://open.spotify.com/track/5vyHC9KyYoXTUH2eLUwK8P"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
-        "name": "Heal",
-        "url": "https://open.spotify.com/album/3vnXX5XQdwyGS79vZKIKfh"
-      },
-      "artists": [
-        {
-          "name": "Pip Millett",
-          "url": "https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR"
-        }
-      ],
-      "duration_ms": 256853,
-      "name": "Heal",
-      "url": "https://open.spotify.com/track/4UndAnl9tL4hHiYOuufIJk"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
-        "name": "Hasta en los sue\u00f1os...",
-        "url": "https://open.spotify.com/album/2XROkO1mV6lmieLcEovpwL"
-      },
-      "artists": [
-        {
-          "name": "Mia Zeta",
-          "url": "https://open.spotify.com/artist/3yYiftL3pMw7AyTLfsitUH"
-        },
-        {
-          "name": "Chiara Parravicini",
-          "url": "https://open.spotify.com/artist/7CAbOypVuQA9Rk7359TMas"
-        }
-      ],
-      "duration_ms": 258969,
-      "name": "sin tu fuego",
-      "url": "https://open.spotify.com/track/0Kwclo1cdzghNqwyKpHX2a"
     },
     {
       "added_at": "2023-10-06 12:01:11",
@@ -1731,26 +1507,6 @@
     {
       "added_at": "2023-10-06 12:01:11",
       "album": {
-        "name": "In the Golden Hour",
-        "url": "https://open.spotify.com/album/16R62MJA9jQRw1VUdzw1S9"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6rk",
-          "url": "https://open.spotify.com/artist/7avU36nx8drx51Z9Sysphs"
-        },
-        {
-          "name": "Takuya Kuroda",
-          "url": "https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP"
-        }
-      ],
-      "duration_ms": 361244,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/30VXXYrH2jyAHW3EKabNK5"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
         "name": "Dead Inside Shuffle",
         "url": "https://open.spotify.com/album/6EWu0oVvV2cGBbF1KUUlk6"
       },
@@ -1763,106 +1519,6 @@
       "duration_ms": 200000,
       "name": "Dead Inside Shuffle",
       "url": "https://open.spotify.com/track/4imq60KskF2cm4WpYbwk9V"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
-        "name": "Angels & Queens",
-        "url": "https://open.spotify.com/album/1KIvBCWJuLhFYdXPvE8ExK"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 199796,
-      "name": "Angels & Queens",
-      "url": "https://open.spotify.com/track/4KpqdNIQw7S6DlZz8RjBzO"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
-        "name": "Like Neptune",
-        "url": "https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB"
-      },
-      "artists": [
-        {
-          "name": "Son Little",
-          "url": "https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7"
-        }
-      ],
-      "duration_ms": 233853,
-      "name": "bend yr ear",
-      "url": "https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
-        "name": "Jewels in the Night",
-        "url": "https://open.spotify.com/album/0TFdoAI3m8f9HrDeTvSy3P"
-      },
-      "artists": [
-        {
-          "name": "GINGE",
-          "url": "https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt"
-        }
-      ],
-      "duration_ms": 225890,
-      "name": "Jewels in the Night",
-      "url": "https://open.spotify.com/track/6HZTp6aIfkqEp5DBJR4JIx"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
-        "name": "Sadboy, Vol. 1",
-        "url": "https://open.spotify.com/album/1TTd0iMUtCjzvoQTzMcCLo"
-      },
-      "artists": [
-        {
-          "name": "Reggie Becton",
-          "url": "https://open.spotify.com/artist/6tDysK3IF96GLkAcaSzXfC"
-        },
-        {
-          "name": "Nana",
-          "url": "https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu"
-        }
-      ],
-      "duration_ms": 176741,
-      "name": "Call",
-      "url": "https://open.spotify.com/track/743RarKaAOMYFjGkZ44Mct"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
-        "name": "Sock It 2 Me",
-        "url": "https://open.spotify.com/album/3SkBB3iH6FtsIx2PxqtO35"
-      },
-      "artists": [
-        {
-          "name": "LAYA",
-          "url": "https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X"
-        }
-      ],
-      "duration_ms": 201802,
-      "name": "Sock It 2 Me",
-      "url": "https://open.spotify.com/track/50djZgba5gDPdYp7aJG57w"
-    },
-    {
-      "added_at": "2023-10-06 12:01:11",
-      "album": {
-        "name": "Andromeda",
-        "url": "https://open.spotify.com/album/5yJSom3XkblAv45wgFz07L"
-      },
-      "artists": [
-        {
-          "name": "Ethel",
-          "url": "https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Andromeda",
-      "url": "https://open.spotify.com/track/3whY26FqEAhCSP7YeEluNL"
     }
   ],
   "unique_name": "Next Wave Soul",

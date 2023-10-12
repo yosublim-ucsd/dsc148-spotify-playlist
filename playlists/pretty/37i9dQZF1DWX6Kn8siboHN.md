@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Carlos & José en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,609 likes - 125 songs - 6 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,959 likes - 125 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 33 | [Carta Abierta](https://open.spotify.com/track/11gSQLPiqjikM2Dyg0EdUZ) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Internacionalmente Norteños](https://open.spotify.com/album/7fhwdWmGl8rR2iVE6ivY42) | 2:52 |
 | 34 | [La Troca Del Moño Negro](https://open.spotify.com/track/0JeumsWAVXuwYQ2J92A39V) | [Los Originales De San Juan](https://open.spotify.com/artist/3aVB3VLnoAn6bKiHOEzHag) | [El Tequilero](https://open.spotify.com/album/3I9ZxJI6RKfw6l9qq6f8DO) | 3:10 |
 | 35 | [Una Pagina Mas](https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [4 Decadas 20 Boleros](https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N) | 2:39 |
-| 36 | [El Rey De Mil Coronas](https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 3:10 |
-| 37 | [Y Por Esa Calle Vive](https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Y Por Esa Calle Vive](https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA) | 3:38 |
-| 38 | [Prenda Del Alma](https://open.spotify.com/track/5LdAZLnzlLjL11FWLUBdMe) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Con Mariachi](https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e) | 3:16 |
+| 36 | [Y Por Esa Calle Vive](https://open.spotify.com/track/3O0QWIrvnTilEumcyVqY1B) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Y Por Esa Calle Vive](https://open.spotify.com/album/5FHIRoQU5DeVYBkg0FZNMA) | 3:38 |
+| 37 | [Prenda Del Alma](https://open.spotify.com/track/5LdAZLnzlLjL11FWLUBdMe) | [Chalino Sanchez](https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq) | [Chalino Sánchez Con Mariachi](https://open.spotify.com/album/5mH9ZEaAY0vYLm3WhN3v3e) | 3:16 |
+| 38 | [El Rey De Mil Coronas](https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo) | [Lalo Mora](https://open.spotify.com/artist/77Gf2HJPvVREGVNEV8goPZ) | [20 Memorias Norteñas](https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4) | 3:10 |
 | 39 | [Nunca Voy A Olvidarte](https://open.spotify.com/track/0Lowb1wBPXduf06FTGRI46) | [Bronco](https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0) | [Salvaje Y Tierno](https://open.spotify.com/album/3le90qgKpBzXiW1qigS89K) | 2:20 |
 | 40 | [Necesito Decírtelo](https://open.spotify.com/track/7L8S1GIS5CEysaT5zJUiMN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [De Norte A Sur](https://open.spotify.com/album/0VwFu8DUNEBunQgeY5opRw) | 3:29 |
 | 41 | [Mi Complemento](https://open.spotify.com/track/0IqLBh5PvFbxGBOE98D730) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Mi Complemento](https://open.spotify.com/album/7JKpf35ZaaKj3WHpV7oEsH) | 3:21 |
@@ -86,16 +86,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 76 | [La Rubia Y La Morena](https://open.spotify.com/track/2aqsQyxUdXNQPvgWe6gqON) | [Los Dinamicos Del Norte](https://open.spotify.com/artist/2THFBUqLbOmogiKIQdFCWA) | [30 Primeros Exitos](https://open.spotify.com/album/7c0ryUTwqk6nSQ3JYDJEDf) | 3:15 |
 | 77 | [Acepto Mi Derrota](https://open.spotify.com/track/04WZrScUUzNGXExDtUrQe5) | [El Poder Del Norte](https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x) | [Aquí Están!..](https://open.spotify.com/album/05XTL5zW5DH7JvoFrRLPnF) | 3:29 |
 | 78 | [Tu Delirio](https://open.spotify.com/track/550m6FRrrMgS2BvrZY2j5l) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Exitos De Oro](https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP) | 3:04 |
-| 79 | [Como Quisiera](https://open.spotify.com/track/2v3Ehmw1UQ3LcAWlywJNJU) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Cada Dia Mas](https://open.spotify.com/album/4ml7wBSms9VuXVR8KGKgdg) | 2:16 |
+| 79 | [Corrido De La Muerta](https://open.spotify.com/track/2rr90xS2B05xvZdQ0WJykz) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [20 Aniversario \- Martes Trece](https://open.spotify.com/album/2opmRjJnk6eFKmz6lBMvnz) | 4:04 |
 | 80 | [Arboles De La Barranca](https://open.spotify.com/track/5HVrCuta5Za8hqrwjIUX5Q) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Las Más Pegadas](https://open.spotify.com/album/3EsRXaeYo3QvPz4fBqpV7y) | 2:21 |
 | 81 | [No Hay Problema](https://open.spotify.com/track/1LWtg5KjYtT9K294nSO92c) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Te Sigo Amando](https://open.spotify.com/album/0xJaR0dKgvuTm8Y7yNq5u4) | 3:35 |
 | 82 | [Eslabón Por Eslabón](https://open.spotify.com/track/7ajSrG0IdN2XC27mPfgnum) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Esto Es Lo Nuestro](https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn) | 3:01 |
-| 83 | [Corrido De La Muerta](https://open.spotify.com/track/2rr90xS2B05xvZdQ0WJykz) | [Los terribles Del Norte](https://open.spotify.com/artist/6rJ9D34bMtluzXuFx2AFNT) | [20 Aniversario \- Martes Trece](https://open.spotify.com/album/2opmRjJnk6eFKmz6lBMvnz) | 4:04 |
-| 84 | [Traficante De Besos](https://open.spotify.com/track/6F1VmuzOgcOxaj4idJKU9i) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño](https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em) | 2:29 |
-| 85 | [Un Rinconcito En El Cielo](https://open.spotify.com/track/3Bab8rkL9ByngZwofNYQkt) | [Eliseo Robles Y Los Barbaros Del Norte](https://open.spotify.com/artist/4NEmR7zH9rp0sqovTevYOq) | [20 Exitos Historia Musical](https://open.spotify.com/album/5PTwoe4hUdLUXKTeVTPTOv) | 3:40 |
-| 86 | [La Ley Del Desprecio](https://open.spotify.com/track/26hHEVYxsYzHT8LxQrg10f) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Solamente Tú](https://open.spotify.com/album/4AhiKYHqZBqVqoRHoBN5Ej) | 3:06 |
-| 87 | [Crei](https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:22 |
-| 88 | [Celos De Ti](https://open.spotify.com/track/1DeMLkxCC8lAoOHzHnkPcv) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [15 Grandes Exitos Vol\. 2](https://open.spotify.com/album/7kvowluQkpvjIGpvOGPC9f) | 4:15 |
+| 83 | [Como Quisiera](https://open.spotify.com/track/2v3Ehmw1UQ3LcAWlywJNJU) | [Los Canelos De Durango](https://open.spotify.com/artist/4XAsg7uclewySpdLcD81LJ) | [Cada Dia Mas](https://open.spotify.com/album/4ml7wBSms9VuXVR8KGKgdg) | 2:16 |
+| 84 | [Celos De Ti](https://open.spotify.com/track/1DeMLkxCC8lAoOHzHnkPcv) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [15 Grandes Exitos Vol\. 2](https://open.spotify.com/album/7kvowluQkpvjIGpvOGPC9f) | 4:15 |
+| 85 | [Traficante De Besos](https://open.spotify.com/track/6F1VmuzOgcOxaj4idJKU9i) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Norteño](https://open.spotify.com/album/7twlQPPrIidwR6Q4YLy0em) | 2:29 |
+| 86 | [Un Rinconcito En El Cielo](https://open.spotify.com/track/3Bab8rkL9ByngZwofNYQkt) | [Eliseo Robles Y Los Barbaros Del Norte](https://open.spotify.com/artist/4NEmR7zH9rp0sqovTevYOq) | [20 Exitos Historia Musical](https://open.spotify.com/album/5PTwoe4hUdLUXKTeVTPTOv) | 3:40 |
+| 87 | [La Ley Del Desprecio](https://open.spotify.com/track/26hHEVYxsYzHT8LxQrg10f) | [Duelo](https://open.spotify.com/artist/0nnp7oJpY2J6yZOqtdKaWq) | [Solamente Tú](https://open.spotify.com/album/4AhiKYHqZBqVqoRHoBN5Ej) | 3:06 |
+| 88 | [Crei](https://open.spotify.com/track/0gtWrIyzYgRIGjMBBMBEBz) | [Los Tiranos Del Norte](https://open.spotify.com/artist/1utHYFInTd5VfFdsshUQ7H) | [Entrega Total](https://open.spotify.com/album/1ynIsTxuLWB8gcIIOEV4pN) | 3:22 |
 | 89 | [El Perro De Tu Marido](https://open.spotify.com/track/4xv7mwcq6os6dO5l3TtRqS) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:27 |
 | 90 | [El Chubasco](https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:08 |
 | 91 | [Eres Todo Todo](https://open.spotify.com/track/6xhqFPS9tznEWJa1FmXIQb) | [Fidencio Ayala y sus Satelites](https://open.spotify.com/artist/0bQFZX1WIJtzb7IIMQ8T3g) | [Eres Todo Todo](https://open.spotify.com/album/6ecfbZHxwKxhOMvFVDxosI) | 2:51 |
@@ -132,6 +132,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 122 | [Bajo Mil Llaves](https://open.spotify.com/track/5sbfCd8LLNJtP4MeSA1JyX) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 2:26 |
 | 123 | [Ven a Buscarme](https://open.spotify.com/track/366vc0v9AUlaaptDDst1xn) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [El Chubasco](https://open.spotify.com/album/1oQhHSiiwH70dTxyBWvUa1) | 2:20 |
 | 124 | [Desprecio](https://open.spotify.com/track/5rCzc6hBzVUiK9iYoIO7CU) | [Los Cadetes De Linares](https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G) | [15 Boleros de Oro](https://open.spotify.com/album/7GqZKE68HTdrIGkRpa81w6) | 2:40 |
-| 125 | [Que La Dejen Ir Al Baile](https://open.spotify.com/track/1JRbZTfW1XcMuKzsryNKyK) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Esto Es Lo Nuestro](https://open.spotify.com/album/5fKj1UiyRfFcRmLGPN4tTn) | 2:25 |
+| 125 | [Esta Noche Tu Vendrás](https://open.spotify.com/track/5DeI2kjUIdG1uvNQP2feJR) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Puros Éxitos](https://open.spotify.com/album/0M3kQUdKaCtut8mrQ4SlDo) | 3:06 |
 
-Snapshot ID: `MCw3MWJiMGE1NDY3NDI3ZDkzMGY5ZmRmOTNlNjhjODE0MmZmZDQwNDZk`
+Snapshot ID: `MCxhYjFjODZmZmNmZWUyNmI3N2NlY2Y5NmE2YTIwYzYyNjdkNTg3ZGI3`

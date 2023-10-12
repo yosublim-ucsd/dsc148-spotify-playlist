@@ -1,12 +1,12 @@
 {
   "description": "Hypnotic bliss.",
-  "num_followers": 776916,
+  "num_followers": 776564,
   "original_name": "Dreamy Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTE1ZmIxY2ZmOWUzYjY3ZDc0YjMxMzNiYmI3NjJlMTE0N2Q5OWY5",
+  "snapshot_id": "MCxkZmYyMDI5M2RmMTNiNDIwYTRkOGYyOGM4MWNiY2MxM2RhNDY3MWJl",
   "tracks": [
     {
       "added_at": "2023-10-06 13:03:19",
@@ -43,22 +43,6 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "Erstwhile",
-        "url": "https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E"
-      },
-      "artists": [
-        {
-          "name": "Olivier Lupin",
-          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
-        }
-      ],
-      "duration_ms": 133612,
-      "name": "Erstwhile",
-      "url": "https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s"
-    },
-    {
-      "added_at": "2023-10-06 13:03:19",
-      "album": {
         "name": "Drommenes Verden",
         "url": "https://open.spotify.com/album/3c79pszHaQH1pCys52fp7j"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 199200,
       "name": "Drommenes Verden",
       "url": "https://open.spotify.com/track/3ztpmZj6p47tlck3NVQrV7"
+    },
+    {
+      "added_at": "2023-10-06 13:03:19",
+      "album": {
+        "name": "Erstwhile",
+        "url": "https://open.spotify.com/album/1JijVPErUrR6N4dgJgRV0E"
+      },
+      "artists": [
+        {
+          "name": "Olivier Lupin",
+          "url": "https://open.spotify.com/artist/3ho5RtJG5r5HUTsUC7ZLSN"
+        }
+      ],
+      "duration_ms": 133612,
+      "name": "Erstwhile",
+      "url": "https://open.spotify.com/track/2ZIM8OtvpyZlIcJEqG2t0s"
     },
     {
       "added_at": "2023-10-06 13:03:19",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "Mane Fluctus",
-        "url": "https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15"
-      },
-      "artists": [
-        {
-          "name": "Somnum Magnam",
-          "url": "https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP"
-        }
-      ],
-      "duration_ms": 158529,
-      "name": "Lux Mane",
-      "url": "https://open.spotify.com/track/4k6GvMEtWF31ShIk24rLp3"
-    },
-    {
-      "added_at": "2023-10-06 13:03:19",
-      "album": {
         "name": "Silk Under Rain",
         "url": "https://open.spotify.com/album/5wkOnp8bjaLa5Rh3aRztFV"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 192000,
       "name": "Lively Bluebottle",
       "url": "https://open.spotify.com/track/01ZG6VNmqta0ZV23kJfvIS"
+    },
+    {
+      "added_at": "2023-10-06 13:03:19",
+      "album": {
+        "name": "Mane Fluctus",
+        "url": "https://open.spotify.com/album/3J8JWYo4kC156FlaI3uc15"
+      },
+      "artists": [
+        {
+          "name": "Somnum Magnam",
+          "url": "https://open.spotify.com/artist/5onmIZ1MD3z0KeVQ1gd5IP"
+        }
+      ],
+      "duration_ms": 158529,
+      "name": "Lux Mane",
+      "url": "https://open.spotify.com/track/4k6GvMEtWF31ShIk24rLp3"
     },
     {
       "added_at": "2023-10-06 13:03:19",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "Ethereal Spaces Pt 2",
-        "url": "https://open.spotify.com/album/7hET4nANrxoMHd7ysLsdCC"
-      },
-      "artists": [
-        {
-          "name": "myndstream",
-          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
-        }
-      ],
-      "duration_ms": 490000,
-      "name": "Ethereal Spaces Pt 2",
-      "url": "https://open.spotify.com/track/1mD0RfHVYUkOizGgyJgJD1"
-    },
-    {
-      "added_at": "2023-10-06 13:03:19",
-      "album": {
         "name": "Pace tua",
         "url": "https://open.spotify.com/album/3fsbprvyxIqOJeWX1QWiEA"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 144305,
       "name": "Pace Tua",
       "url": "https://open.spotify.com/track/63EDlt8qJBsmPrKq1nWNs1"
+    },
+    {
+      "added_at": "2023-10-06 13:03:19",
+      "album": {
+        "name": "Ethereal Spaces Pt 2",
+        "url": "https://open.spotify.com/album/7hET4nANrxoMHd7ysLsdCC"
+      },
+      "artists": [
+        {
+          "name": "myndstream",
+          "url": "https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3"
+        }
+      ],
+      "duration_ms": 490000,
+      "name": "Ethereal Spaces Pt 2",
+      "url": "https://open.spotify.com/track/1mD0RfHVYUkOizGgyJgJD1"
     },
     {
       "added_at": "2023-10-06 13:03:19",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "Serenity",
-        "url": "https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro"
-      },
-      "artists": [
-        {
-          "name": "Studio Tranquilo",
-          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
-        }
-      ],
-      "duration_ms": 153962,
-      "name": "Serenity",
-      "url": "https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q"
-    },
-    {
-      "added_at": "2023-10-06 13:03:19",
-      "album": {
         "name": "When We Touch",
         "url": "https://open.spotify.com/album/0v889wJa7Wbyp9Q5NoLxQv"
       },
@@ -1231,18 +1215,18 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "Miho no Matsubara",
-        "url": "https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN"
+        "name": "Serenity",
+        "url": "https://open.spotify.com/album/70FUCWJ79m4CS4zihjWmro"
       },
       "artists": [
         {
-          "name": "Miu Hayashi",
-          "url": "https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS"
+          "name": "Studio Tranquilo",
+          "url": "https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP"
         }
       ],
-      "duration_ms": 173750,
-      "name": "Miho no Matsubara",
-      "url": "https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK"
+      "duration_ms": 153962,
+      "name": "Serenity",
+      "url": "https://open.spotify.com/track/555LtwRZ3fc00jnQSGOd0q"
     },
     {
       "added_at": "2023-10-06 13:03:19",
@@ -1259,6 +1243,22 @@
       "duration_ms": 150250,
       "name": "Let Hold",
       "url": "https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz"
+    },
+    {
+      "added_at": "2023-10-06 13:03:19",
+      "album": {
+        "name": "Miho no Matsubara",
+        "url": "https://open.spotify.com/album/4Rj6DPJPIkkJqI27djmanN"
+      },
+      "artists": [
+        {
+          "name": "Miu Hayashi",
+          "url": "https://open.spotify.com/artist/3PeAcdPlMSYVJyaUprwEWS"
+        }
+      ],
+      "duration_ms": 173750,
+      "name": "Miho no Matsubara",
+      "url": "https://open.spotify.com/track/216t4yl7TJeh6nlmF7mBOK"
     },
     {
       "added_at": "2023-10-06 13:03:19",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "Yoga Meditation",
-        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
-      },
-      "artists": [
-        {
-          "name": "Zen Wuan",
-          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
-        }
-      ],
-      "duration_ms": 163730,
-      "name": "Chapters",
-      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
-    },
-    {
-      "added_at": "2023-10-06 13:03:19",
-      "album": {
         "name": "Lago de Atitla\u0301n",
         "url": "https://open.spotify.com/album/2wd9XA2cXAZO4L6Wn6qNo2"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 192250,
       "name": "Lago de Atitla\u0301n",
       "url": "https://open.spotify.com/track/08KQZAu0iL2E4CHwwmUIjS"
+    },
+    {
+      "added_at": "2023-10-06 13:03:19",
+      "album": {
+        "name": "Yoga Meditation",
+        "url": "https://open.spotify.com/album/3Ef1x3Iy3qS8fAXFTGBDdo"
+      },
+      "artists": [
+        {
+          "name": "Zen Wuan",
+          "url": "https://open.spotify.com/artist/214ZCbh6xfCOu7LunRBdBY"
+        }
+      ],
+      "duration_ms": 163730,
+      "name": "Chapters",
+      "url": "https://open.spotify.com/track/0vXj9LXojFSwXXKkSjzuNB"
     },
     {
       "added_at": "2023-10-06 13:03:19",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "Penumbra",
-        "url": "https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw"
-      },
-      "artists": [
-        {
-          "name": "Chiara Nieves",
-          "url": "https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc"
-        }
-      ],
-      "duration_ms": 260038,
-      "name": "Penumbra",
-      "url": "https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy"
-    },
-    {
-      "added_at": "2023-10-06 13:03:19",
-      "album": {
         "name": "Rest Now",
         "url": "https://open.spotify.com/album/3uOInfWGtt8LoCC9AcPSW7"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 162000,
       "name": "Rest Now",
       "url": "https://open.spotify.com/track/30l9Arlh15ewEk4KxmSlSp"
+    },
+    {
+      "added_at": "2023-10-06 13:03:19",
+      "album": {
+        "name": "Penumbra",
+        "url": "https://open.spotify.com/album/73cVroAiJKnizesgutD6Qw"
+      },
+      "artists": [
+        {
+          "name": "Chiara Nieves",
+          "url": "https://open.spotify.com/artist/3HjIwAJWk1lhTwIjWyCyzc"
+        }
+      ],
+      "duration_ms": 260038,
+      "name": "Penumbra",
+      "url": "https://open.spotify.com/track/5mdcDysyOu26uO16OPEWPy"
     },
     {
       "added_at": "2023-10-06 13:03:19",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "396 Hz Sleep and Rest Frequencies",
-        "url": "https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL"
-      },
-      "artists": [
-        {
-          "name": "Solfeggio Wellness Frequencies",
-          "url": "https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "396 Hz Breathe Deeply",
-      "url": "https://open.spotify.com/track/5fHv6nk5URUA3UIzFpw0CA"
-    },
-    {
-      "added_at": "2023-10-06 13:03:19",
-      "album": {
         "name": "Scarr",
         "url": "https://open.spotify.com/album/1JKjLE5sVSxSIevJoF926D"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 259200,
       "name": "Erase",
       "url": "https://open.spotify.com/track/6f4cBWeUGOtO7WFxxt35j3"
+    },
+    {
+      "added_at": "2023-10-06 13:03:19",
+      "album": {
+        "name": "396 Hz Sleep and Rest Frequencies",
+        "url": "https://open.spotify.com/album/7lslmhseWYQFmtzvyoeErL"
+      },
+      "artists": [
+        {
+          "name": "Solfeggio Wellness Frequencies",
+          "url": "https://open.spotify.com/artist/11ywmwLdtEdGBHTmFEs13x"
+        }
+      ],
+      "duration_ms": 190800,
+      "name": "396 Hz Breathe Deeply",
+      "url": "https://open.spotify.com/track/5fHv6nk5URUA3UIzFpw0CA"
     },
     {
       "added_at": "2023-10-06 13:03:19",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "Nuee",
-        "url": "https://open.spotify.com/album/2A87JyHOupQKp7kbWllfdz"
-      },
-      "artists": [
-        {
-          "name": "Armonikos",
-          "url": "https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Nuee",
-      "url": "https://open.spotify.com/track/79BRFdRzq8Kbj2rNvRX18H"
-    },
-    {
-      "added_at": "2023-10-06 13:03:19",
-      "album": {
         "name": "Jubran's Lake (432hz)",
         "url": "https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 240000,
       "name": "Jubran's Lake (432hz) - No Ambience",
       "url": "https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL"
+    },
+    {
+      "added_at": "2023-10-06 13:03:19",
+      "album": {
+        "name": "Nuee",
+        "url": "https://open.spotify.com/album/2A87JyHOupQKp7kbWllfdz"
+      },
+      "artists": [
+        {
+          "name": "Armonikos",
+          "url": "https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Nuee",
+      "url": "https://open.spotify.com/track/79BRFdRzq8Kbj2rNvRX18H"
     },
     {
       "added_at": "2023-10-06 13:03:19",
@@ -1823,18 +1823,18 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "Atmospheres For Yoga And Meditation",
-        "url": "https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8"
+        "name": "Majestic",
+        "url": "https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG"
       },
       "artists": [
         {
-          "name": "Sweet Dreamer",
-          "url": "https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7"
+          "name": "Rainbow Rise",
+          "url": "https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Equilibrium - Loopable with No Fade",
-      "url": "https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT"
+      "duration_ms": 245700,
+      "name": "Fantastical",
+      "url": "https://open.spotify.com/track/1QX9Fz6OXoTjHxs3hkwNkw"
     },
     {
       "added_at": "2023-10-06 13:03:19",
@@ -1855,18 +1855,18 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "Majestic",
-        "url": "https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG"
+        "name": "Atmospheres For Yoga And Meditation",
+        "url": "https://open.spotify.com/album/0UzCrJH14dmIujSR2uynv8"
       },
       "artists": [
         {
-          "name": "Rainbow Rise",
-          "url": "https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd"
+          "name": "Sweet Dreamer",
+          "url": "https://open.spotify.com/artist/3zKs9aLmCunDoHMi4y2ld7"
         }
       ],
-      "duration_ms": 245700,
-      "name": "Fantastical",
-      "url": "https://open.spotify.com/track/1QX9Fz6OXoTjHxs3hkwNkw"
+      "duration_ms": 174000,
+      "name": "Equilibrium - Loopable with No Fade",
+      "url": "https://open.spotify.com/track/0xyrEAILLZmrkF2mHU1itT"
     },
     {
       "added_at": "2023-10-06 13:03:19",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "Armonikos",
-        "url": "https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz"
-      },
-      "artists": [
-        {
-          "name": "Armonikos",
-          "url": "https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R"
-        }
-      ],
-      "duration_ms": 155348,
-      "name": "Armonikos",
-      "url": "https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ"
-    },
-    {
-      "added_at": "2023-10-06 13:03:19",
-      "album": {
         "name": "Inevitably",
         "url": "https://open.spotify.com/album/3s0pyN2CIpxkLC7lMfQhy2"
       },
@@ -1935,6 +1919,22 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
+        "name": "Armonikos",
+        "url": "https://open.spotify.com/album/08bHsrL8XcgSoYRW8zZjZz"
+      },
+      "artists": [
+        {
+          "name": "Armonikos",
+          "url": "https://open.spotify.com/artist/7rL32YC1PUCMcocVKjrZ6R"
+        }
+      ],
+      "duration_ms": 155348,
+      "name": "Armonikos",
+      "url": "https://open.spotify.com/track/0vFeSaWXj9CnzzPT2M3QzZ"
+    },
+    {
+      "added_at": "2023-10-06 13:03:19",
+      "album": {
         "name": "Afterglow",
         "url": "https://open.spotify.com/album/7wCn2LxnXgDusSLXJKjQlb"
       },
@@ -1947,6 +1947,38 @@
       "duration_ms": 175108,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/4HMfywbOXTM8HjyqQeb1ao"
+    },
+    {
+      "added_at": "2023-10-06 13:03:19",
+      "album": {
+        "name": "Floating Time",
+        "url": "https://open.spotify.com/album/3lcJGoXkij70Op2NhALEdm"
+      },
+      "artists": [
+        {
+          "name": "Somaya Kudri",
+          "url": "https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Floating Time",
+      "url": "https://open.spotify.com/track/5rSogWGLs158gr5NodSxDo"
+    },
+    {
+      "added_at": "2023-10-06 13:03:19",
+      "album": {
+        "name": "Obelus",
+        "url": "https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b"
+      },
+      "artists": [
+        {
+          "name": "Jin Eun-Kyung",
+          "url": "https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y"
+        }
+      ],
+      "duration_ms": 203728,
+      "name": "Frozen In Time",
+      "url": "https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP"
     },
     {
       "added_at": "2023-10-06 13:03:19",
@@ -1983,38 +2015,6 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "Obelus",
-        "url": "https://open.spotify.com/album/6L18pvdnitc2BMONeCRD3b"
-      },
-      "artists": [
-        {
-          "name": "Jin Eun-Kyung",
-          "url": "https://open.spotify.com/artist/5v2Kob3cL8QTD2sVTraH4y"
-        }
-      ],
-      "duration_ms": 203728,
-      "name": "Frozen In Time",
-      "url": "https://open.spotify.com/track/62Knl604s3YRBX5nnaBkeP"
-    },
-    {
-      "added_at": "2023-10-06 13:03:19",
-      "album": {
-        "name": "Floating Time",
-        "url": "https://open.spotify.com/album/3lcJGoXkij70Op2NhALEdm"
-      },
-      "artists": [
-        {
-          "name": "Somaya Kudri",
-          "url": "https://open.spotify.com/artist/09RcU7Ss356i0nOIe9Mqys"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Floating Time",
-      "url": "https://open.spotify.com/track/5rSogWGLs158gr5NodSxDo"
-    },
-    {
-      "added_at": "2023-10-06 13:03:19",
-      "album": {
         "name": "Brise Apaisante",
         "url": "https://open.spotify.com/album/1rkE0SC2fJkBwNzEbPLPUp"
       },
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "Martins Ferry",
-        "url": "https://open.spotify.com/album/4woPQADbvUu5TZH67X7PRj"
-      },
-      "artists": [
-        {
-          "name": "Henry Woods",
-          "url": "https://open.spotify.com/artist/0btvZJesR8KpaOFkkfqvxz"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Martins Ferry",
-      "url": "https://open.spotify.com/track/21CILaPoqh4xyFRgQpqWxu"
-    },
-    {
-      "added_at": "2023-10-06 13:03:19",
-      "album": {
         "name": "Bertrand of the Ringing",
         "url": "https://open.spotify.com/album/7ynxP1pWkmrGJlMesTuesQ"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 198000,
       "name": "Ceremonial Stone",
       "url": "https://open.spotify.com/track/33KWAFT4txDSNrI6Bn4Rji"
+    },
+    {
+      "added_at": "2023-10-06 13:03:19",
+      "album": {
+        "name": "Martins Ferry",
+        "url": "https://open.spotify.com/album/4woPQADbvUu5TZH67X7PRj"
+      },
+      "artists": [
+        {
+          "name": "Henry Woods",
+          "url": "https://open.spotify.com/artist/0btvZJesR8KpaOFkkfqvxz"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Martins Ferry",
+      "url": "https://open.spotify.com/track/21CILaPoqh4xyFRgQpqWxu"
     },
     {
       "added_at": "2023-10-06 13:03:19",
@@ -2127,18 +2127,22 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "Well Spent",
-        "url": "https://open.spotify.com/album/0csVx6TAPydWGWXoUpnHO6"
+        "name": "Prism",
+        "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
       },
       "artists": [
         {
-          "name": "Asgeir Haugen",
-          "url": "https://open.spotify.com/artist/45MwRIAky2FNygtWOv7sw1"
+          "name": "Abe Hathot",
+          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
+        },
+        {
+          "name": "Amor Omnia",
+          "url": "https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Well Spent",
-      "url": "https://open.spotify.com/track/6AysOF8R6S2uivW3ksbkRS"
+      "duration_ms": 172000,
+      "name": "Prism",
+      "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
     },
     {
       "added_at": "2023-10-06 13:03:19",
@@ -2159,22 +2163,18 @@
     {
       "added_at": "2023-10-06 13:03:19",
       "album": {
-        "name": "Prism",
-        "url": "https://open.spotify.com/album/2NnXGaOmsxE2nFjUxK2WbL"
+        "name": "Well Spent",
+        "url": "https://open.spotify.com/album/0csVx6TAPydWGWXoUpnHO6"
       },
       "artists": [
         {
-          "name": "Abe Hathot",
-          "url": "https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw"
-        },
-        {
-          "name": "Amor Omnia",
-          "url": "https://open.spotify.com/artist/3xZqDWMopPwRTofjFUWBqu"
+          "name": "Asgeir Haugen",
+          "url": "https://open.spotify.com/artist/45MwRIAky2FNygtWOv7sw1"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Prism",
-      "url": "https://open.spotify.com/track/6YLrARPrFzyhPSNDBzVWc2"
+      "duration_ms": 165517,
+      "name": "Well Spent",
+      "url": "https://open.spotify.com/track/6AysOF8R6S2uivW3ksbkRS"
     },
     {
       "added_at": "2023-10-06 13:03:19",

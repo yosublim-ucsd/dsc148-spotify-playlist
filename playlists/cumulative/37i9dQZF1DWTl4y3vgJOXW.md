@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Simone Biles
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Las Vegas Aces
 
-540 songs - 1 day 3 hr 33 min
+541 songs - 1 day 3 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,7 @@
 | [Real Talk](https://open.spotify.com/track/32ny2YtiR7zKi7PBjiQ5Iy) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [The Big 3](https://open.spotify.com/album/48eC2urnoRGt6AeU7KsOoC) | 3:03 | 2022-06-24 | 2023-10-07 |
 | [Red Ruby Da Sleeze](https://open.spotify.com/track/4ZYAU4A2YBtlNdqOUtc7T2) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Red Ruby Da Sleeze](https://open.spotify.com/album/0zCHOD0Z8yOrIP1fw7u1J6) | 3:34 | 2023-03-22 | 2023-06-10 |
 | [Repent \(Next Move\)](https://open.spotify.com/track/7Ao6qMazg5PsvhiKtPXIyG) | [UnoTheActivist](https://open.spotify.com/artist/0bZ9jANLkwEFVcSnHnwrpb) | [Unoverse 3](https://open.spotify.com/album/189KwM8kcvIxFaV2xRjgkE) | 2:19 | 2023-02-17 | 2023-02-22 |
-| [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 | 2023-10-06 |  |
+| [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 | 2023-10-06 | 2023-10-12 |
 | [Rich Flex](https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 3:59 | 2022-11-11 |  |
 | [Rigamortus](https://open.spotify.com/track/2lD6AoA8qf2t4Dkf2TcmNK) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Section.80](https://open.spotify.com/album/1bkN9nIkkCnXeG4yitVS1J) | 2:48 | 2021-09-02 | 2023-03-03 |
 | [Rock](https://open.spotify.com/track/7kp8t9yexJdk7LuvTK47XI) | [Asian Doll](https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J), [D STURDY](https://open.spotify.com/artist/1IgVVWaJUmYNxAWpN1nmnr), [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Let's Do A Drill](https://open.spotify.com/album/2ZlRq32UQiZYPYt6VkPaRl) | 4:03 | 2022-07-29 | 2022-12-13 |
@@ -445,6 +445,7 @@
 | [Slight Dub \(feat\. 21 Savage & Young Nudy\)](https://open.spotify.com/track/2INe19w9F8ueR1Fgm9HXbh) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [MadMan](https://open.spotify.com/album/49J8Mmm7YFMsTRVBr0hUEt) | 3:02 | 2023-08-25 | 2023-09-02 |
 | [Slime\-U\-Out \(feat\. 21 Savage\)](https://open.spotify.com/track/73q28ToK6IQpMoE9w4c7Qm) | [Shy Glizzy](https://open.spotify.com/artist/1DvtabXAjfrMihPP6JQdHs), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [Slime\-U\-Out \(feat\. 21 Savage\)](https://open.spotify.com/album/1oXlAZaZNjJRc2wGi0W6Wk) | 2:41 | 2022-12-09 | 2023-02-18 |
 | [So High](https://open.spotify.com/track/5qtUKYu1bBe0U7SoANInou) | [Tm88](https://open.spotify.com/artist/5RMUeKq0dZxg9RHE1f0B9P), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [So High](https://open.spotify.com/album/3X42cq0ppTHylj6NVb6vGw) | 1:54 | 2021-09-02 | 2022-06-25 |
+| [Soak City \(Do it\)](https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Soak City \(Do it\)](https://open.spotify.com/album/2w59tnyiYwj7cgHZSUP8pW) | 2:03 | 2023-10-11 |  |
 | [SOCKS](https://open.spotify.com/track/060dZ7q9HN8nAS2zn2hwo5) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Baby On Baby 2](https://open.spotify.com/album/6x5UJEgPpRGdXjpeRY5QSz) | 2:51 | 2022-09-30 | 2023-02-25 |
 | [Solid \(feat\. Drake\)](https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:35 | 2021-09-02 | 2023-06-10 |
 | [SOUL](https://open.spotify.com/track/3kda48vEmDBSu8PIdL8Vbw) | [Matt Ox](https://open.spotify.com/artist/2J6pigOrBmKQgqJUY5UM7r) | [SOUL](https://open.spotify.com/album/67rAHyXYNa8UH2CUPfdSRU) | 2:15 | 2023-02-17 | 2023-02-22 |

@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "Ada",
+        "url": "https://open.spotify.com/album/6oP8VmNt84dc4Kn00FM46C"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        },
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210801,
+      "name": "Ada",
+      "url": "https://open.spotify.com/track/483I1QLE05iH81ReYgF2BK"
+    },
+    {
+      "album": {
         "name": "Ajarkan Aku...",
         "url": "https://open.spotify.com/album/171KeLh9GmyfZ2e5SToEZU"
       },
@@ -1254,7 +1276,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 264699,
       "name": "Di Mana Janjimu Dulu",
       "url": "https://open.spotify.com/track/4NEMUxrbkH7VTSHPPYaF3c"
@@ -1700,7 +1722,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 279360,
       "name": "Harapan Tak Kunjung Usai",
       "url": "https://open.spotify.com/track/7AOC6CUZC5c7Xq85GdXkDN"
@@ -2396,7 +2418,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 216008,
       "name": "Kalau Berkasih",
       "url": "https://open.spotify.com/track/2DqoNDOAEqsnbsEdPUsRbe"
@@ -3184,7 +3206,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 254659,
       "name": "Masa Mudaku Habis",
       "url": "https://open.spotify.com/track/7016fRgPW6LoYsuBIjgfVr"
@@ -3460,6 +3482,28 @@
       "duration_ms": 220250,
       "name": "Merasa Indah",
       "url": "https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0"
+    },
+    {
+      "album": {
+        "name": "Harry Parintang & Iqa Nizam - Merinduimu",
+        "url": "https://open.spotify.com/album/0fyhCbdpWE3d7o7KxTGaS1"
+      },
+      "artists": [
+        {
+          "name": "Harry Parintang",
+          "url": "https://open.spotify.com/artist/3L4rZ6I6bjVaVIX6WvgdZx"
+        },
+        {
+          "name": "Iqa Nizam",
+          "url": "https://open.spotify.com/artist/5FWynBR4a7O3yjzQbRvYqZ"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317987,
+      "name": "Merinduimu",
+      "url": "https://open.spotify.com/track/5q99tqHMsUtX2frLz078Mj"
     },
     {
       "album": {
@@ -5079,6 +5123,24 @@
     },
     {
       "album": {
+        "name": "Solo Trip",
+        "url": "https://open.spotify.com/album/0EwwBVzJdzi51IuVQR7RJg"
+      },
+      "artists": [
+        {
+          "name": "Luca Sickta",
+          "url": "https://open.spotify.com/artist/3pTnpQxoPsO7pptxSxA7yG"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183745,
+      "name": "Solo Trip",
+      "url": "https://open.spotify.com/track/1mXCwImDRQO7XLMjnVDH3u"
+    },
+    {
+      "album": {
         "name": "Suasana Hari Raya",
         "url": "https://open.spotify.com/album/2oCUKhVOJcnliPxBa3QM9V"
       },
@@ -5586,6 +5648,28 @@
       "duration_ms": 227925,
       "name": "Terlalu Rindu",
       "url": "https://open.spotify.com/track/1PPKQYOAa95C1EmO0PziEv"
+    },
+    {
+      "album": {
+        "name": "Terlanjur Cinta",
+        "url": "https://open.spotify.com/album/3VOKtUXtHYK3LionGARD3d"
+      },
+      "artists": [
+        {
+          "name": "Tilu",
+          "url": "https://open.spotify.com/artist/4vS1FUa21E9OP4HIgdAPmP"
+        },
+        {
+          "name": "Ali Sariah",
+          "url": "https://open.spotify.com/artist/1BnksvdDkh4tMrSZvFMsbO"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197195,
+      "name": "Terlanjur Cinta",
+      "url": "https://open.spotify.com/track/423AHVkxvCkVB03V3sPTIz"
     },
     {
       "album": {

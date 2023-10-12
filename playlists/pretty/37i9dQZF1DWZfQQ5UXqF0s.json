@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Nuestros amados 90 los recordamos as\u00ed!",
-  "num_followers": 1030218,
+  "num_followers": 1029754,
   "original_name": "Los 90 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNjkyOGExNDUyYjgyNjNkZDdhYzcyOTUxYTM4OWZkMTRhNmUyZTZj",
+  "snapshot_id": "MCw5OWRkYzc4ZmI1ZTBmODg3MmIzN2M3ZWI1MDE4YzQ3ZjkyNDBkNThj",
   "tracks": [
     {
       "added_at": "2021-09-07 14:13:23",
@@ -91,18 +91,18 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
       },
       "artists": [
         {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
         }
       ],
-      "duration_ms": 277653,
-      "name": "Flaca",
-      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
+      "duration_ms": 261200,
+      "name": "La flaca",
+      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -123,18 +123,18 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
       "artists": [
         {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
         }
       ],
-      "duration_ms": 261200,
-      "name": "La flaca",
-      "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
+      "duration_ms": 277653,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -719,22 +719,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Estopa",
-        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 202026,
-      "name": "Como Camar\u00f3n",
-      "url": "https://open.spotify.com/track/1VB4sadHjFcFklHcZuoROi"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
         "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 292760,
       "name": "Te Llor\u00e9 Un R\u00edo",
       "url": "https://open.spotify.com/track/4HrX1xb0RsnmmJqN52hhHj"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Estopa",
+        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 202026,
+      "name": "Como Camar\u00f3n",
+      "url": "https://open.spotify.com/track/1VB4sadHjFcFklHcZuoROi"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -815,6 +815,22 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
+        "name": "Que Hago Aqu\u00ed?",
+        "url": "https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 221600,
+      "name": "Dr. Psiquiatra",
+      "url": "https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
         "name": "La Pachanga",
         "url": "https://open.spotify.com/album/6xEaCs71qwGCQJiotOycSr"
       },
@@ -827,6 +843,22 @@
       "duration_ms": 281933,
       "name": "La Pachanga",
       "url": "https://open.spotify.com/track/1x6bkwDyWIOZNFY5blRSs1"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        }
+      ],
+      "duration_ms": 332040,
+      "name": "Experiencia Religiosa",
+      "url": "https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -863,34 +895,18 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
+        "name": "Fobia",
+        "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
       },
       "artists": [
         {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Fobia",
+          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
         }
       ],
-      "duration_ms": 332040,
-      "name": "Experiencia Religiosa",
-      "url": "https://open.spotify.com/track/0tgjnOlps2Hc798rOYGpvi"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
-        "name": "Que Hago Aqu\u00ed?",
-        "url": "https://open.spotify.com/album/6CQphijyJq4b6slAFrRXf6"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 221600,
-      "name": "Dr. Psiquiatra",
-      "url": "https://open.spotify.com/track/6FmwfLbteUqHfcz10Ab9yY"
+      "duration_ms": 157106,
+      "name": "El Microbito",
+      "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -907,22 +923,6 @@
       "duration_ms": 215266,
       "name": "Comprendes, Mendes?",
       "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
-        "name": "Fobia",
-        "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
-      },
-      "artists": [
-        {
-          "name": "Fobia",
-          "url": "https://open.spotify.com/artist/3SqzxvGCKGJ9PYKXXPwjQS"
-        }
-      ],
-      "duration_ms": 157106,
-      "name": "El Microbito",
-      "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -975,18 +975,18 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "El Sapo",
-        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
+        "name": "Enrique Iglesias",
+        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
       },
       "artists": [
         {
-          "name": "Azul Azul",
-          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 123960,
-      "name": "La Bomba",
-      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
+      "duration_ms": 244026,
+      "name": "Por Amarte",
+      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
+        "name": "El Sapo",
+        "url": "https://open.spotify.com/album/4ym0QOQmTKoioL4QwlN2wB"
+      },
+      "artists": [
+        {
+          "name": "Azul Azul",
+          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
+        }
+      ],
+      "duration_ms": 123960,
+      "name": "La Bomba",
+      "url": "https://open.spotify.com/track/0Tl84qfow6Dv0PM60zoBhb"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
         "name": "Sin Miedo",
         "url": "https://open.spotify.com/album/1oOh2MdkPDUn8uaDeq82hf"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 242053,
       "name": "Formas De Amor",
       "url": "https://open.spotify.com/track/0grtL2b9mfjf9mfOxVZJhP"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
-        "name": "Enrique Iglesias",
-        "url": "https://open.spotify.com/album/18FB0rct42g5hNr14l70GK"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Por Amarte",
-      "url": "https://open.spotify.com/track/3nTP1d8K9jHFHiozzXGVDF"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
-        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
-      },
-      "artists": [
-        {
-          "name": "Los Amantes De Lola",
-          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
-        }
-      ],
-      "duration_ms": 276773,
-      "name": "Beber de Tu Sangre",
-      "url": "https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "HA-ASH",
         "url": "https://open.spotify.com/album/0DzhgRe9ovRl6trAcHMUO8"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 241160,
       "name": "Est\u00e9s Donde Est\u00e9s",
       "url": "https://open.spotify.com/track/7pZzzxLTZepcPfHIHI7JlG"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Rock En Espanol - Lo Mejor De Los Amantes De Lola",
+        "url": "https://open.spotify.com/album/38l9gB9jzOiWkQaR36ZhUG"
+      },
+      "artists": [
+        {
+          "name": "Los Amantes De Lola",
+          "url": "https://open.spotify.com/artist/7IwYwKG6VacXOThKHvPgUc"
+        }
+      ],
+      "duration_ms": 276773,
+      "name": "Beber de Tu Sangre",
+      "url": "https://open.spotify.com/track/3Gr4OWY7lAXAq7PpgUbctG"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Sue\u00f1o Stereo (Remastered)",
-        "url": "https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg"
+        "name": "Andy Y Lucas",
+        "url": "https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Andy & Lucas",
+          "url": "https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L"
         }
       ],
-      "duration_ms": 206306,
-      "name": "Zoom - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/1djou52IdL1mVEE7gTauxo"
+      "duration_ms": 231813,
+      "name": "Son de Amores",
+      "url": "https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Andy Y Lucas",
-        "url": "https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm"
+        "name": "Sue\u00f1o Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/1A3VRbn7Kto2ov0LkSY0eg"
       },
       "artists": [
         {
-          "name": "Andy & Lucas",
-          "url": "https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L"
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
         }
       ],
-      "duration_ms": 231813,
-      "name": "Son de Amores",
-      "url": "https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44"
+      "duration_ms": 206306,
+      "name": "Zoom - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/1djou52IdL1mVEE7gTauxo"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 308040,
-      "name": "El baile y el sal\u00f3n",
-      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
-    },
-    {
-      "added_at": "2021-09-07 14:13:23",
-      "album": {
         "name": "La Historia De Magneto",
         "url": "https://open.spotify.com/album/3KDmJHv55zR0H9lnS0NFtu"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 230266,
       "name": "Malherido",
       "url": "https://open.spotify.com/track/650ucbNGGPC8CZvA0Y0D2A"
+    },
+    {
+      "added_at": "2021-09-07 14:13:23",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 308040,
+      "name": "El baile y el sal\u00f3n",
+      "url": "https://open.spotify.com/track/63QpuNHIZ8APaK37LkV8Xd"
     },
     {
       "added_at": "2021-09-07 14:13:23",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2021-09-07 14:13:23",
       "album": {
-        "name": "Senderos De Traici\u00f3n",
-        "url": "https://open.spotify.com/album/6PsBAHuQ8mzQ0VNrTkXazg"
+        "name": "Mas Turbada Que Nunca",
+        "url": "https://open.spotify.com/album/1w13BP16RNkn6JNSsxlJTh"
       },
       "artists": [
         {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 368320,
-      "name": "Entre dos tierras",
-      "url": "https://open.spotify.com/track/4rJdaSwOCHLBhxdMsymeMw"
+      "duration_ms": 192800,
+      "name": "Siempre a M\u00ed",
+      "url": "https://open.spotify.com/track/0VAy57PsKHpPev6wgDI06V"
     }
   ],
   "unique_name": "Los 90 M\u00e9xico",

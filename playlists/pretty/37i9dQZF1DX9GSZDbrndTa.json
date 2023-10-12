@@ -1,12 +1,12 @@
 {
   "description": "The bluesy side of jazz",
-  "num_followers": 91536,
+  "num_followers": 91619,
   "original_name": "Jazz-Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNjM2NjQwNTQ3ZGI2YzcwZGVlNGQxYzdhN2NjYTcwMzhkNTgzNDM5",
+  "snapshot_id": "MCw2MjBhM2VhMTM5ZmVlNjcxZmE3ZTlmNTUwMTI4Mzc1OTM3ZWFjOWRl",
   "tracks": [
     {
       "added_at": "2020-10-12 18:15:54",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-10-12 18:15:54",
       "album": {
-        "name": "Retrospective",
-        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
-      },
-      "artists": [
-        {
-          "name": "Grant Green",
-          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "Blues For Willarene",
-      "url": "https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk"
-    },
-    {
-      "added_at": "2020-10-12 18:15:54",
-      "album": {
         "name": "Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)",
         "url": "https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 300706,
       "name": "When Will The Blues Leave?",
       "url": "https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx"
+    },
+    {
+      "added_at": "2020-10-12 18:15:54",
+      "album": {
+        "name": "Retrospective",
+        "url": "https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE"
+      },
+      "artists": [
+        {
+          "name": "Grant Green",
+          "url": "https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k"
+        }
+      ],
+      "duration_ms": 427000,
+      "name": "Blues For Willarene",
+      "url": "https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk"
     },
     {
       "added_at": "2020-10-12 18:15:54",

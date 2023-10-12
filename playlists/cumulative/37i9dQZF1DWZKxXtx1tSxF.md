@@ -4,7 +4,7 @@
 
 > Un mix de reggae y buena vibra para ver caer el sol.
 
-71 songs - 4 hr 44 min
+72 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Circunvalación](https://open.spotify.com/track/3MbWaYdtpVVtpGQqWBmeMq) | [El Kuelgue](https://open.spotify.com/artist/6jRUKVZllu1wtgXHbqvUmT) | [Ruli](https://open.spotify.com/album/3V7wGsYWEcD97RsKgIFZJq) | 3:54 | 2023-06-22 |  |
 | [Con Vos](https://open.spotify.com/track/0UYtcbHyTJYuWLTHBx9GGe) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Vibrasound](https://open.spotify.com/album/1x5SELdr0eqHfNDMsMJnv6) | 5:16 | 2023-06-22 |  |
 | [Confianza](https://open.spotify.com/track/4chzKVwJz3Dt0ryO3Vd9ue) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Inefable](https://open.spotify.com/album/5AcfM2EiLTrnFxQjpo7mxp) | 3:27 | 2023-06-22 |  |
-| [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 | 2023-06-22 |  |
+| [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/track/6FG9h8E4Z7su0QBYPRsgWQ) | [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0), [Recoversión](https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Criminal \(feat\. Elsa y Elmar\)](https://open.spotify.com/album/6VHUYwwNx4EubxQsYwXtxU) | 3:41 | 2023-06-22 | 2023-10-12 |
 | [Culpable O No](https://open.spotify.com/track/4HMPGSpzKG3PrOuoi5gfan) | [Quique Neira](https://open.spotify.com/artist/7BfDn0T1IbJiD0U8j27obe) | [Culpable O No](https://open.spotify.com/album/6nd0TosZlLEvIIEX4NlIas) | 4:13 | 2023-06-22 |  |
 | [Cómo Te Hago Entender](https://open.spotify.com/track/2SWT2A1MuCYPBxT0UxzqQZ) | [Alkilados](https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB) | [Cómo Te Hago Entender](https://open.spotify.com/album/0VsdN2UHYW5fzQbFpeLxGg) | 2:39 | 2023-06-22 |  |
 | [Cómo Ver?](https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Cómo Ver?](https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc) | 5:08 | 2023-06-22 |  |
@@ -71,6 +71,7 @@
 | [Sin Ti](https://open.spotify.com/track/1mmaywWRQzNE5dt0eUISBd) | [King Chango](https://open.spotify.com/artist/5nZlhgO7iNedGlO0gKu9us) | [The Return of El Santo](https://open.spotify.com/album/5cOccFEax9P6EPRJc4xPx9) | 4:47 | 2023-06-22 |  |
 | [Tengo Lo Que Tengo](https://open.spotify.com/track/21iJNBkKbsIwALHDEqiesL) | [Jimena Angel](https://open.spotify.com/artist/1K0Pin4AUnN7GVGJaS7z0E) | [Tengo Lo Que Tengo](https://open.spotify.com/album/3cBPxSdXfF1BGajgGm2QtE) | 3:23 | 2023-06-22 |  |
 | [Todo Lo Que Se Fue](https://open.spotify.com/track/4B7SpIO8nXOzz8I8tkovqW) | [Dread Mar I](https://open.spotify.com/artist/1aw0Cdl1DIrtUrUA6fGbAR) | [Todo Lo Que Se Fue](https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r) | 3:21 | 2023-06-22 |  |
+| [Tu Amor](https://open.spotify.com/track/7AZWaDN04T6TQY4dJR8M5A) | [Kameleba](https://open.spotify.com/artist/2oSUm3Sv4yNsTLaYuROuST) | [Tu Amor](https://open.spotify.com/album/7cu2iMZeDZYdGKJIUtqwgB) | 3:40 | 2023-08-14 |  |
 | [Tus Ojos](https://open.spotify.com/track/6yyrsrci6u2nreFlhXSy3J) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Suena la Alarma](https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv) | 4:14 | 2023-06-22 |  |
 | [Uchi Wala](https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61) | [Maffio](https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [TumbaGobierno](https://open.spotify.com/album/3O2LbnoZYKJ0EaDAHpBfIr) | 3:12 | 2023-06-22 |  |
 | [Una Cumbia Triste](https://open.spotify.com/track/5IQfg3XiRgQpbKnbyiIDNx) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [LA ISLA LP](https://open.spotify.com/album/7kuJ6wtlijDEk2A71qG2q6) | 3:31 | 2023-06-22 |  |

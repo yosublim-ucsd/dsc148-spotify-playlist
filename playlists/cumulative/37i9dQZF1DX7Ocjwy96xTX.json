@@ -1527,6 +1527,24 @@
     },
     {
       "album": {
+        "name": "I Am Your Daughter",
+        "url": "https://open.spotify.com/album/5xBo2DR5cCyyZQs5TvwsVe"
+      },
+      "artists": [
+        {
+          "name": "Florence Rose",
+          "url": "https://open.spotify.com/artist/63ZyqesWEYQfpkL12NFwre"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239416,
+      "name": "I Am Your Daughter",
+      "url": "https://open.spotify.com/track/6s3DBMoTmoKxZU4kXD5gyq"
+    },
+    {
+      "album": {
         "name": "I Cry While You Sleep (Dream, Ivory Version)",
         "url": "https://open.spotify.com/album/5nt93ckjegXoK5rJlLZJ22"
       },

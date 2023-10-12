@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2023\. Los Dareyes de la Sierra & Xavi en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 790,034 likes - 75 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,344 likes - 75 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 74 | [La Belikada](https://open.spotify.com/track/53fbPJud2fcK12jzYIHqD6) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD), [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm) | [La Belikada](https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn) | 2:33 |
 | 75 | [Los Pasajes Del Sera](https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:43 |
 
-Snapshot ID: `MCwzMTA5NjBhYzg2ZTIzYWI0Yjg3ZWQ4OGJmZWU4MGY4MTg5OGI0Mzky`
+Snapshot ID: `MCwxZWQ1MzZiODE2NTRiNzJjMWRiZTliMDJiNWQ1MTdhNDBlZGQzMGIz`

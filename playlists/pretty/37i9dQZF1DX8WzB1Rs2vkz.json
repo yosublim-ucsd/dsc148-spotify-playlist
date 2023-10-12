@@ -1,12 +1,12 @@
 {
   "description": "Musiquita sabrosa que te hace bailar el coraz\u00f3n.",
-  "num_followers": 139547,
+  "num_followers": 139633,
   "original_name": "Amor Tropical",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYmQ4ZWM0OTlhMzFhNGJhMjE1ZmZjYzhmODc2NzNiM2Q5MGVjZTQ4",
+  "snapshot_id": "MCxjNWIwZmM4MjdhZGQ3N2UwNGE1NGUxYWUzZDM3ZWE5YmVkNjQ1M2Yw",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -431,18 +431,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "20th Anniversary",
-        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
+        "name": "K.O.B. Live",
+        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
       },
       "artists": [
         {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 354973,
-      "name": "Gotas De Lluvia",
-      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+      "duration_ms": 234240,
+      "name": "Mi Corazoncito",
+      "url": "https://open.spotify.com/track/5I76YtdZkFQReVgKppRd78"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -463,18 +463,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "K.O.B. Live",
-        "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
+        "name": "20th Anniversary",
+        "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 234240,
-      "name": "Mi Corazoncito",
-      "url": "https://open.spotify.com/track/5I76YtdZkFQReVgKppRd78"
+      "duration_ms": 354973,
+      "name": "Gotas De Lluvia",
+      "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 187426,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -611,22 +627,6 @@
       "duration_ms": 250920,
       "name": "Burbujas de Amor",
       "url": "https://open.spotify.com/track/0UoAcG1vxtFjes7rZz8Js0"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Vida de Rico",
-        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 187426,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
+        "name": "Aqui No Se Sienta Nadie!",
+        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
+    },
+    {
+      "added_at": "2023-09-01 04:00:00",
+      "album": {
         "name": "De Adentro Pa Afuera",
         "url": "https://open.spotify.com/album/1UTDgnpHmthIsdzSxbhpV2"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 212813,
       "name": "Ambulancia",
       "url": "https://open.spotify.com/track/5OPte07J5hRK1pTn0f7ldr"
-    },
-    {
-      "added_at": "2023-09-01 04:00:00",
-      "album": {
-        "name": "Aqui No Se Sienta Nadie!",
-        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
     },
     {
       "added_at": "2023-09-01 04:00:00",

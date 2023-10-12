@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Zior Park(\uc9c0\uc62c\ud30d)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Xdinary Heros) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -1071,6 +1071,24 @@
     },
     {
       "album": {
+        "name": "Livelock",
+        "url": "https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh"
+      },
+      "artists": [
+        {
+          "name": "Xdinary Heroes",
+          "url": "https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200573,
+      "name": "Break the Brake",
+      "url": "https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB"
+    },
+    {
+      "album": {
         "name": "Break Through",
         "url": "https://open.spotify.com/album/0NELqOfC7kZ4uXrgo5DDUT"
       },
@@ -1220,6 +1238,24 @@
       "duration_ms": 165960,
       "name": "Caffeine",
       "url": "https://open.spotify.com/track/1iPyLLD8wEtuQAUrsZ6srD"
+    },
+    {
+      "album": {
+        "name": "Call me back",
+        "url": "https://open.spotify.com/album/1kxisGHg83NRPqjf5c6OT8"
+      },
+      "artists": [
+        {
+          "name": "verycoybunny",
+          "url": "https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203973,
+      "name": "Call me back",
+      "url": "https://open.spotify.com/track/7aDdUvESR5RyNx3W7VL7cK"
     },
     {
       "album": {
@@ -2166,7 +2202,7 @@
       ],
       "date_added": "2023-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 284000,
       "name": "Extinction",
       "url": "https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB"
@@ -6618,7 +6654,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 315333,
       "name": "Sage",
       "url": "https://open.spotify.com/track/6dM5NQE3BYCZZKWubBbR40"

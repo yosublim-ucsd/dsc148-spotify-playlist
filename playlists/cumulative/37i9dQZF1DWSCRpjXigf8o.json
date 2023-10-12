@@ -1596,10 +1596,28 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 312080,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/2LTy5vmHluuVWwwspHpPWP"
+    },
+    {
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/1gtc4Ft1JspHCCd9dozX8a"
+      },
+      "artists": [
+        {
+          "name": "Sen Morimoto",
+          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312080,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/3ShUS9A5HC0ZaO21Cnl3v8"
     },
     {
       "album": {

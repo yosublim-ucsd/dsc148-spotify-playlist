@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Johnny Ventura",
-  "num_followers": 174801,
+  "num_followers": 174793,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ODY5M2U4YzlmZWVjOTcxZDdlNDIyNzYxYmYzZGM3NWQ1MmQ4ZTYw",
+  "snapshot_id": "MCxmOTQxZWUzNGUwMWQ2ZTMzNGE3OTQxMDdhYjk1NTA3YjA1Y2Y5MGVm",
   "tracks": [
     {
       "added_at": "2021-02-02 01:24:47",
@@ -287,18 +287,18 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Lo Mejor De To\u00f1o Rosario",
-        "url": "https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp"
+        "name": "Chic\u00e1n",
+        "url": "https://open.spotify.com/album/35kfZN5cf4jvbTC7ZqauN4"
       },
       "artists": [
         {
-          "name": "To\u00f1o Rosario",
-          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
         }
       ],
-      "duration_ms": 272653,
-      "name": "Otra Como Tu",
-      "url": "https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8"
+      "duration_ms": 245360,
+      "name": "Las Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/4mJcnwzcMwaM1k9Bpf1LGb"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -319,18 +319,18 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Chic\u00e1n",
-        "url": "https://open.spotify.com/album/35kfZN5cf4jvbTC7ZqauN4"
+        "name": "Lo Mejor De To\u00f1o Rosario",
+        "url": "https://open.spotify.com/album/6M9B9lMQrR8e6RKBARRAEp"
       },
       "artists": [
         {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+          "name": "To\u00f1o Rosario",
+          "url": "https://open.spotify.com/artist/4DjY0CaKAejJgghVHTaOUy"
         }
       ],
-      "duration_ms": 245360,
-      "name": "Las Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/4mJcnwzcMwaM1k9Bpf1LGb"
+      "duration_ms": 272653,
+      "name": "Otra Como Tu",
+      "url": "https://open.spotify.com/track/4Vn7MXHMq3qXY3kAfUttc8"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Merengues Clasicos",
-        "url": "https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9"
-      },
-      "artists": [
-        {
-          "name": "Nelson Cordero",
-          "url": "https://open.spotify.com/artist/5i0uZA52WYPWlUnrhEGmXv"
-        }
-      ],
-      "duration_ms": 236706,
-      "name": "Platano Maduro",
-      "url": "https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Luchar\u00e9",
         "url": "https://open.spotify.com/album/2TLAq5snR8KdndLMVCzHC4"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 284533,
       "name": "La Ventanita",
       "url": "https://open.spotify.com/track/2eRba627Otdkl6SsPyYWnY"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Merengues Clasicos",
+        "url": "https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9"
+      },
+      "artists": [
+        {
+          "name": "Nelson Cordero",
+          "url": "https://open.spotify.com/artist/5i0uZA52WYPWlUnrhEGmXv"
+        }
+      ],
+      "duration_ms": 236706,
+      "name": "Platano Maduro",
+      "url": "https://open.spotify.com/track/1Jma9i28NacARtJR3QEWAO"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Merengues Clasicos",
-        "url": "https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9"
-      },
-      "artists": [
-        {
-          "name": "Nando Galan",
-          "url": "https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn"
-        }
-      ],
-      "duration_ms": 267200,
-      "name": "Faltaste A La Cita",
-      "url": "https://open.spotify.com/track/0WOv22FFFEg5wgYdWA61Hg"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "16 Exitos de Sandy Reyes",
         "url": "https://open.spotify.com/album/5m8APs3ZtFY50rDi5yldzi"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 245933,
       "name": "Enamorar",
       "url": "https://open.spotify.com/track/4vJQoi7roAr5A2K0hH8F1x"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Merengues Clasicos",
+        "url": "https://open.spotify.com/album/31J6VDIACumUD54CCTx2m9"
+      },
+      "artists": [
+        {
+          "name": "Nando Galan",
+          "url": "https://open.spotify.com/artist/7tqpQLj03lGrM3Q5FOKCUn"
+        }
+      ],
+      "duration_ms": 267200,
+      "name": "Faltaste A La Cita",
+      "url": "https://open.spotify.com/track/0WOv22FFFEg5wgYdWA61Hg"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
+        "name": "Es Mejor Decir Adios",
+        "url": "https://open.spotify.com/album/2bNVUO6TyN1hZvN8TOEi0s"
+      },
+      "artists": [
+        {
+          "name": "Jochy Hernandez",
+          "url": "https://open.spotify.com/artist/3WDEmWVINk7sTXoUkCj231"
+        }
+      ],
+      "duration_ms": 317492,
+      "name": "De Que Manera Te Olvido",
+      "url": "https://open.spotify.com/track/0wM04UVM5yqnZYgfmW4Kyo"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
         "name": "Todos Exitos, Vol. 1",
         "url": "https://open.spotify.com/album/4T55O9faGJeB8MeMTFHOhs"
       },
@@ -1999,22 +2015,6 @@
       "duration_ms": 291240,
       "name": "Feliciana",
       "url": "https://open.spotify.com/track/6f77ESDOzi93Ssq7tw0Xr8"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
-        "name": "Es Mejor Decir Adios",
-        "url": "https://open.spotify.com/album/2bNVUO6TyN1hZvN8TOEi0s"
-      },
-      "artists": [
-        {
-          "name": "Jochy Hernandez",
-          "url": "https://open.spotify.com/artist/3WDEmWVINk7sTXoUkCj231"
-        }
-      ],
-      "duration_ms": 317492,
-      "name": "De Que Manera Te Olvido",
-      "url": "https://open.spotify.com/track/0wM04UVM5yqnZYgfmW4Kyo"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -2147,22 +2147,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Tus 20 A\u00f1os",
-        "url": "https://open.spotify.com/album/5Z2Q4YYjgQhB50LE6fWkzk"
-      },
-      "artists": [
-        {
-          "name": "Vicente Pacheco",
-          "url": "https://open.spotify.com/artist/22upy4PMGl2CmwCWKXuAQH"
-        }
-      ],
-      "duration_ms": 295055,
-      "name": "Tus 20 A\u00f1os",
-      "url": "https://open.spotify.com/track/0Ut3iiS2PtpTrH3AmxkG1R"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Exitos De Los Cantantes De Ramon Orlando",
         "url": "https://open.spotify.com/album/06FkjfOG8RSuJWltd6Xp18"
       },
@@ -2175,6 +2159,22 @@
       "duration_ms": 246253,
       "name": "Curame",
       "url": "https://open.spotify.com/track/7z4G4aZbNmG9ZGBGyA35IC"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Tus 20 A\u00f1os",
+        "url": "https://open.spotify.com/album/5Z2Q4YYjgQhB50LE6fWkzk"
+      },
+      "artists": [
+        {
+          "name": "Vicente Pacheco",
+          "url": "https://open.spotify.com/artist/22upy4PMGl2CmwCWKXuAQH"
+        }
+      ],
+      "duration_ms": 295055,
+      "name": "Tus 20 A\u00f1os",
+      "url": "https://open.spotify.com/track/0Ut3iiS2PtpTrH3AmxkG1R"
     },
     {
       "added_at": "2021-02-02 01:24:47",
@@ -2371,22 +2371,6 @@
     {
       "added_at": "2021-02-02 01:24:47",
       "album": {
-        "name": "Merengues Clasicos Hit",
-        "url": "https://open.spotify.com/album/6GIRcvaohM4ivHgG9ybdvB"
-      },
-      "artists": [
-        {
-          "name": "Jochy Hernandez",
-          "url": "https://open.spotify.com/artist/3WDEmWVINk7sTXoUkCj231"
-        }
-      ],
-      "duration_ms": 272324,
-      "name": "Por Que Hemos Cambiado",
-      "url": "https://open.spotify.com/track/6842NuQSyOymfndMDbGeSw"
-    },
-    {
-      "added_at": "2021-02-02 01:24:47",
-      "album": {
         "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 3",
         "url": "https://open.spotify.com/album/7g6Kdd3Hh8SUmEhAtlbbPv"
       },
@@ -2399,6 +2383,22 @@
       "duration_ms": 230876,
       "name": "Peluche",
       "url": "https://open.spotify.com/track/2xsAJtfqVdSnqAhwq0141f"
+    },
+    {
+      "added_at": "2021-02-02 01:24:47",
+      "album": {
+        "name": "Merengues Clasicos Hit",
+        "url": "https://open.spotify.com/album/6GIRcvaohM4ivHgG9ybdvB"
+      },
+      "artists": [
+        {
+          "name": "Jochy Hernandez",
+          "url": "https://open.spotify.com/artist/3WDEmWVINk7sTXoUkCj231"
+        }
+      ],
+      "duration_ms": 272324,
+      "name": "Por Que Hemos Cambiado",
+      "url": "https://open.spotify.com/track/6842NuQSyOymfndMDbGeSw"
     },
     {
       "added_at": "2021-02-02 01:24:47",

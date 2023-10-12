@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 
 > O grime e o drill feitos no Brasil, naquele pique: de tracksuit, camisa de time e flow embaçado\. Foto: Bivolt
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,728 likes - 78 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,734 likes - 78 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0EaLv8xHmij.md) - [plain]
 | 77 | [Revolta](https://open.spotify.com/track/1338yPBS9EvfuPW5wgKwrs) | [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1) | [Revolta](https://open.spotify.com/album/67kCjJrSahL0q8BpfGZmHC) | 3:16 |
 | 78 | [Encomenda](https://open.spotify.com/track/3XadSINduX4zXzhLUURFXa) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz) | [Encomenda](https://open.spotify.com/album/3jpzt9bFKyVzNAilVFD8XY) | 2:37 |
 
-Snapshot ID: `MCxhMWE2ZmMxMzUyMzA0ODJmZjI5MzQzYmYzMjQ1ZjRjODYyM2QyZjkx`
+Snapshot ID: `MCwwMTljZjliMjI3OWE1ZDE2NDU2Yjg2MjgyN2NmMmZiMjFlNGVmYjE3`

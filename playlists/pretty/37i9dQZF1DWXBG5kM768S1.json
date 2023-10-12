@@ -1,12 +1,12 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 71071,
+  "num_followers": 71079,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2M3MzYxODY1MjA2MTBiNmQzZDM1ZTkzNDhiYjdhZThjZmI0Nzk3",
+  "snapshot_id": "MCwzNTAwZDkyYzVlODM0ZDU5NmJlYzM1OTI2OTk0M2UwMDA0ZjRmYmM3",
   "tracks": [
     {
       "added_at": "2023-09-21 22:00:00",
@@ -475,26 +475,6 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Jovial",
-        "url": "https://open.spotify.com/album/55G0O9SlnAKfWtbG6l2w8A"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
-        }
-      ],
-      "duration_ms": 170893,
-      "name": "Jovial",
-      "url": "https://open.spotify.com/track/79A8w2MEID8RIM6rzgtrtR"
-    },
-    {
-      "added_at": "2023-09-21 22:00:00",
-      "album": {
         "name": "Bru over m\u00f8rke b\u00f8lger",
         "url": "https://open.spotify.com/album/6XUfS1htXyTvLsxZDKLyY4"
       },
@@ -527,18 +507,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Alle Snakker Sant",
-        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
+        "name": "Jovial",
+        "url": "https://open.spotify.com/album/55G0O9SlnAKfWtbG6l2w8A"
       },
       "artists": [
         {
-          "name": "Siri Nilsen",
-          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 223706,
-      "name": "Jeg Vet",
-      "url": "https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL"
+      "duration_ms": 170893,
+      "name": "Jovial",
+      "url": "https://open.spotify.com/track/79A8w2MEID8RIM6rzgtrtR"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -555,6 +539,22 @@
       "duration_ms": 233291,
       "name": "N\u00e5r himmelen faller ned",
       "url": "https://open.spotify.com/track/5aasUgkPxYhqKcxmNLotmH"
+    },
+    {
+      "added_at": "2023-09-21 22:00:00",
+      "album": {
+        "name": "Alle Snakker Sant",
+        "url": "https://open.spotify.com/album/45MigZAWPOEXhoQfZONmS3"
+      },
+      "artists": [
+        {
+          "name": "Siri Nilsen",
+          "url": "https://open.spotify.com/artist/1tN0vK9jF9KVzvJHzWQaUM"
+        }
+      ],
+      "duration_ms": 223706,
+      "name": "Jeg Vet",
+      "url": "https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -691,18 +691,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "De N\u00e6re Ting",
-        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
+        "name": "1988 EP",
+        "url": "https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU"
       },
       "artists": [
         {
-          "name": "Ingrid Olava",
-          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
+          "name": "Daniel Kvammen",
+          "url": "https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A"
         }
       ],
-      "duration_ms": 138412,
-      "name": "De N\u00e6re Ting",
-      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
+      "duration_ms": 257906,
+      "name": "Du fortenar ein som meg - klineversjon",
+      "url": "https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -731,22 +731,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Evig kvile",
-        "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
+        "name": "De N\u00e6re Ting",
+        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
       },
       "artists": [
         {
-          "name": "Ingebj\u00f8rg Bratland",
-          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Ingrid Olava",
+          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
         }
       ],
-      "duration_ms": 189239,
-      "name": "Evig kvile",
-      "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
+      "duration_ms": 138412,
+      "name": "De N\u00e6re Ting",
+      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -767,18 +763,22 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "1988 EP",
-        "url": "https://open.spotify.com/album/74LpfW8LrYQp2PNRHfjgaU"
+        "name": "Evig kvile",
+        "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
       },
       "artists": [
         {
-          "name": "Daniel Kvammen",
-          "url": "https://open.spotify.com/artist/1c9LVBvYq58ViD8qdLml7A"
+          "name": "Ingebj\u00f8rg Bratland",
+          "url": "https://open.spotify.com/artist/2tmt0z174LRgAeAi9MHA9C"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 257906,
-      "name": "Du fortenar ein som meg - klineversjon",
-      "url": "https://open.spotify.com/track/1v4hTCaKOr5qVothIsL9er"
+      "duration_ms": 189239,
+      "name": "Evig kvile",
+      "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
     },
     {
       "added_at": "2023-09-21 22:00:00",
@@ -855,22 +855,18 @@
     {
       "added_at": "2023-09-21 22:00:00",
       "album": {
-        "name": "Sangen om Gleden",
-        "url": "https://open.spotify.com/album/3paMl15llkBy8nme7nOd7C"
+        "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+        "url": "https://open.spotify.com/album/6lsJTzNFipM2N8zNf9lXmP"
       },
       "artists": [
         {
-          "name": "Sigvart Dagsland",
-          "url": "https://open.spotify.com/artist/29L5k8hE8bAaRJpj13SmyA"
-        },
-        {
-          "name": "Helen Sj\u00f6holm",
-          "url": "https://open.spotify.com/artist/6M5pgjMS5dVG0hGRh5xADx"
+          "name": "Eva Weel Skram",
+          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
         }
       ],
-      "duration_ms": 323880,
-      "name": "Sangen om Gleden",
-      "url": "https://open.spotify.com/track/1WSX7bzVuGMbHnDwAKAWHx"
+      "duration_ms": 266328,
+      "name": "Falle til ro (From the Original Netflix Series \"Home For Christmas\")",
+      "url": "https://open.spotify.com/track/6oJLgaS6Py1tSKAJTKSe5K"
     }
   ],
   "unique_name": "Norske viser",

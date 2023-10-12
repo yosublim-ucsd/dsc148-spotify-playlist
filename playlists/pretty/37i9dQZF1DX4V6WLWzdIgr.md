@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 
 > Sedihe koyo ngene, nggak bahaya ta? 😢
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,341 likes - 58 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,724 likes - 58 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dumes](https://open.spotify.com/track/5IhULiOyG58jL20qWkztEg) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A), [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Dumes](https://open.spotify.com/album/7fChrUmjD25EVYcvPTIWUd) | 4:26 |
-| 2 | [Saktenane](https://open.spotify.com/track/38JRCDnXTA9XG58jJnhh6l) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Saktenane](https://open.spotify.com/album/5RFmA98QgQqRBtEcErNAUX) | 5:21 |
-| 3 | [Kelingan Mantan](https://open.spotify.com/track/3w09eeWmgkLz5BISaqcpgm) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A\. Familia](https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc) | 3:19 |
-| 4 | [RAISO DADI SIJI](https://open.spotify.com/track/6Jo8Hoo4vJpXtESmBJEEJS) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh), [Linda Sulini](https://open.spotify.com/artist/0dbRMrhQQRU84Eh6GafP6O) | [RAISO DADI SIJI](https://open.spotify.com/album/0ur8PFBqXKXVdwhHFviG4J) | 6:37 |
-| 5 | [Pelanggaran](https://open.spotify.com/track/7tkOXJNeDNCeX9Jz3K1M3l) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pelanggaran](https://open.spotify.com/album/74dbmkxOoWQE3h4RlXfPIK) | 4:57 |
+| 2 | [Pelanggaran](https://open.spotify.com/track/7tkOXJNeDNCeX9Jz3K1M3l) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pelanggaran](https://open.spotify.com/album/74dbmkxOoWQE3h4RlXfPIK) | 4:57 |
+| 3 | [Saktenane](https://open.spotify.com/track/38JRCDnXTA9XG58jJnhh6l) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO), [Destya Eka](https://open.spotify.com/artist/3hAh6rSElYkDlnIAE9E1M2) | [Saktenane](https://open.spotify.com/album/5RFmA98QgQqRBtEcErNAUX) | 5:21 |
+| 4 | [Kelingan Mantan](https://open.spotify.com/track/3w09eeWmgkLz5BISaqcpgm) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [NDX A.K.A\. Familia](https://open.spotify.com/album/2tkko0H0gYzg3jwEzfJQuc) | 3:19 |
+| 5 | [RAISO DADI SIJI](https://open.spotify.com/track/6Jo8Hoo4vJpXtESmBJEEJS) | [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh), [Linda Sulini](https://open.spotify.com/artist/0dbRMrhQQRU84Eh6GafP6O) | [RAISO DADI SIJI](https://open.spotify.com/album/0ur8PFBqXKXVdwhHFviG4J) | 6:37 |
 | 6 | [Kisinan](https://open.spotify.com/track/4l0MtxkfzsugEBHSsdhae6) | [Niken Salindry](https://open.spotify.com/artist/3p8LxkUdPRd5hPtdTSrCoS), [Masdddho](https://open.spotify.com/artist/4GgexJxJZfH4pxYRIF4nBh) | [Kisinan](https://open.spotify.com/album/5RW3jMVUCN5eCkuhSkJcZv) | 4:22 |
 | 7 | [Takdire Pisah](https://open.spotify.com/track/5jMO4LPNKOkhgqxiknYMwa) | [Diorama Official](https://open.spotify.com/artist/1fUKdAlQVtR3mZmdiFTzrq) | [Takdire Pisah](https://open.spotify.com/album/4fbDMnj1IJfMESBKFdvVLa) | 5:16 |
 | 8 | [Nemen](https://open.spotify.com/track/4cdLiwrmpSlke1IyjBWGJR) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Nemen](https://open.spotify.com/album/3Ie2SqHJ6vZOhusuf0ms5t) | 4:48 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4V6WLWzdIgr.md) - [plain]
 | 57 | [Tetep Neng Ati](https://open.spotify.com/track/6U4LPOlk6I3c6WGnyV5ZPq) | [OMWAWES](https://open.spotify.com/artist/4SsvQOTuKik8GmK6GtB21A) | [Om Wawes](https://open.spotify.com/album/4sgIDlQTDTvuMBvC1dicp1) | 5:08 |
 | 58 | [Lilakno Lungaku](https://open.spotify.com/track/6knc0ByasDCvGNlQPHYUFX) | [Losskita](https://open.spotify.com/artist/3BifJ2eD9KMFgAGa8LbPtI) | [Lilakno Lungaku](https://open.spotify.com/album/50hlFnDrEYiYp0lOReAxgb) | 5:35 |
 
-Snapshot ID: `MCwzZjU0NjBlOWZmMmNhYzI4MGZmOGI3NzViM2E5ZDE0MTliMTY0YTZi`
+Snapshot ID: `MCw2MmE4YjVhMWVlY2MyOTE3ZjE5OTc4NTQ1ZGExZGU4NTAxMmM4NDZh`

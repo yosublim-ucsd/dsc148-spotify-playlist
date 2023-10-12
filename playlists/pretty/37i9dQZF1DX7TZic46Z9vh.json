@@ -1,12 +1,12 @@
 {
   "description": "Celebrando el Festival de Av\u00e1ndaro, hito del rock mexicano. \u00a1Paz y amor! Portada: Los Dug Dug's.",
-  "num_followers": 41522,
+  "num_followers": 41524,
   "original_name": "Rock Mexicano Av\u00e1ndaro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MzViNWY4YmUzYWRkYmZlOWJkMGJkMmZlNzQwNzJmNzcyZmFiYmFh",
+  "snapshot_id": "MCwxMmFmMzNjOGQ5NDk1NWI3MTg0MWY3ODBmMzYxOTZhMzQxMWYyYmEx",
   "tracks": [
     {
       "added_at": "2021-09-06 15:34:44",
@@ -363,22 +363,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/5rKS4yZgNS23kiB5ccZbNS"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
       },
       "artists": [
         {
-          "name": "Kaleidoscope",
-          "url": "https://open.spotify.com/artist/14c0CEGVWU6eO48Su2PiMf"
-        },
-        {
-          "name": "Frank Tirado",
-          "url": "https://open.spotify.com/artist/2kkBRGpjJ91l3G7RzUm4r6"
+          "name": "La M\u00e1quina Del Sonido",
+          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
         }
       ],
-      "duration_ms": 489426,
-      "name": "Once Upon a Time There Was a World",
-      "url": "https://open.spotify.com/track/6EQiAGhNZarnbYfP078nSw"
+      "duration_ms": 173356,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/3AYFCwZNWpArhFGHJnJhjw"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -431,18 +427,22 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/5rKS4yZgNS23kiB5ccZbNS"
       },
       "artists": [
         {
-          "name": "La M\u00e1quina Del Sonido",
-          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
+          "name": "Kaleidoscope",
+          "url": "https://open.spotify.com/artist/14c0CEGVWU6eO48Su2PiMf"
+        },
+        {
+          "name": "Frank Tirado",
+          "url": "https://open.spotify.com/artist/2kkBRGpjJ91l3G7RzUm4r6"
         }
       ],
-      "duration_ms": 173356,
-      "name": "Fuego",
-      "url": "https://open.spotify.com/track/3AYFCwZNWpArhFGHJnJhjw"
+      "duration_ms": 489426,
+      "name": "Once Upon a Time There Was a World",
+      "url": "https://open.spotify.com/track/6EQiAGhNZarnbYfP078nSw"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -479,18 +479,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "El Ritual",
-        "url": "https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo"
+        "name": "Rock Sound",
+        "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
       },
       "artists": [
         {
-          "name": "EL RITUAL",
-          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
+          "name": "Enigma!",
+          "url": "https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H"
         }
       ],
-      "duration_ms": 264672,
-      "name": "Bajo el Sol y Frente a Dios",
-      "url": "https://open.spotify.com/track/0l7HozUhjIfjzVhRcC1Say"
+      "duration_ms": 223600,
+      "name": "Under The Sing Of Aquarius - (Bajo El Signo De Acuario)",
+      "url": "https://open.spotify.com/track/5gTcAR7egTQSG3vRY70iFE"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -543,18 +543,18 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Rock Sound",
-        "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
+        "name": "El Ritual",
+        "url": "https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo"
       },
       "artists": [
         {
-          "name": "Enigma!",
-          "url": "https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H"
+          "name": "EL RITUAL",
+          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
         }
       ],
-      "duration_ms": 223600,
-      "name": "Under The Sing Of Aquarius - (Bajo El Signo De Acuario)",
-      "url": "https://open.spotify.com/track/5gTcAR7egTQSG3vRY70iFE"
+      "duration_ms": 264672,
+      "name": "Bajo el Sol y Frente a Dios",
+      "url": "https://open.spotify.com/track/0l7HozUhjIfjzVhRcC1Say"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -587,22 +587,6 @@
       "duration_ms": 113266,
       "name": "Pobre Nina",
       "url": "https://open.spotify.com/track/7B9yavzlfIDl1rxyiicNQY"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Colecci\u00f3n Avandaro",
-        "url": "https://open.spotify.com/album/52secMI8PGxRR44sNXPkcP"
-      },
-      "artists": [
-        {
-          "name": "EL RITUAL",
-          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
-        }
-      ],
-      "duration_ms": 482510,
-      "name": "Satan\u00e1s",
-      "url": "https://open.spotify.com/track/6hG2T8xkFaCTscKbAIPYYm"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -655,6 +639,22 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Rock Sound",
+        "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
+      },
+      "artists": [
+        {
+          "name": "Enigma!",
+          "url": "https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H"
+        }
+      ],
+      "duration_ms": 228080,
+      "name": "The Call of the Woman (El Llamado de la Hembra)",
+      "url": "https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Volumen I",
         "url": "https://open.spotify.com/album/645mFqD3c66EuYrYZg02Kk"
       },
@@ -667,54 +667,6 @@
       "duration_ms": 281773,
       "name": "Tiempo Perdido",
       "url": "https://open.spotify.com/track/1PBS2zYINZFFs3Vt8AFfPL"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "El Ritual",
-        "url": "https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo"
-      },
-      "artists": [
-        {
-          "name": "EL RITUAL",
-          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
-        }
-      ],
-      "duration_ms": 234498,
-      "name": "Groupie",
-      "url": "https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "Fuego",
-        "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
-      },
-      "artists": [
-        {
-          "name": "La M\u00e1quina Del Sonido",
-          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
-        }
-      ],
-      "duration_ms": 204180,
-      "name": "No Quiero Ya Volver",
-      "url": "https://open.spotify.com/track/6Pv5pNSFNIO9FvOm1qGQ5F"
-    },
-    {
-      "added_at": "2021-09-06 15:34:44",
-      "album": {
-        "name": "15 \u00c9xitos de los Dug Dug's Rock and Roll",
-        "url": "https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC"
-      },
-      "artists": [
-        {
-          "name": "Los Dug Dug's",
-          "url": "https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT"
-        }
-      ],
-      "duration_ms": 198666,
-      "name": "Cambia, Cambia",
-      "url": "https://open.spotify.com/track/5naHaIvjo1Cw1O4ASdktgG"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -735,50 +687,50 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Rock Sound",
-        "url": "https://open.spotify.com/album/2Lln8tQqVPOM0hTxNwYmvq"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/5XtOkFfnOOIvhK1skQsKdN"
       },
       "artists": [
         {
-          "name": "Enigma!",
-          "url": "https://open.spotify.com/artist/735Su6vORHKZEN8Hh8pM3H"
+          "name": "La M\u00e1quina Del Sonido",
+          "url": "https://open.spotify.com/artist/1wT6pLxxW0tFyk2nnE5HGg"
         }
       ],
-      "duration_ms": 228080,
-      "name": "The Call of the Woman (El Llamado de la Hembra)",
-      "url": "https://open.spotify.com/track/5xDzHDSJy8kyVrr1WASR0N"
+      "duration_ms": 204180,
+      "name": "No Quiero Ya Volver",
+      "url": "https://open.spotify.com/track/6Pv5pNSFNIO9FvOm1qGQ5F"
     },
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Rock Sound",
-        "url": "https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ"
+        "name": "Colecci\u00f3n Avandaro",
+        "url": "https://open.spotify.com/album/52secMI8PGxRR44sNXPkcP"
       },
       "artists": [
         {
-          "name": "Las Moskas",
-          "url": "https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY"
+          "name": "EL RITUAL",
+          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
         }
       ],
-      "duration_ms": 163386,
-      "name": "Mony Mony",
-      "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
+      "duration_ms": 482510,
+      "name": "Satan\u00e1s",
+      "url": "https://open.spotify.com/track/6hG2T8xkFaCTscKbAIPYYm"
     },
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
-        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
-        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
+        "name": "15 \u00c9xitos de los Dug Dug's Rock and Roll",
+        "url": "https://open.spotify.com/album/5CtcJWRwRPZF0WkJ92ZspC"
       },
       "artists": [
         {
-          "name": "The Love Army",
-          "url": "https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S"
+          "name": "Los Dug Dug's",
+          "url": "https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT"
         }
       ],
-      "duration_ms": 229955,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/5DYUNEs6WLl5PRdTzZX0GC"
+      "duration_ms": 198666,
+      "name": "Cambia, Cambia",
+      "url": "https://open.spotify.com/track/5naHaIvjo1Cw1O4ASdktgG"
     },
     {
       "added_at": "2021-09-06 15:34:44",
@@ -799,6 +751,38 @@
     {
       "added_at": "2021-09-06 15:34:44",
       "album": {
+        "name": "Rock en Av\u00e1ndaro Valle de Bravo",
+        "url": "https://open.spotify.com/album/4YeKgMdvtyH6pLC0g4uqMT"
+      },
+      "artists": [
+        {
+          "name": "The Love Army",
+          "url": "https://open.spotify.com/artist/3exRYG9uxjbexEWepSOt1S"
+        }
+      ],
+      "duration_ms": 229955,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/5DYUNEs6WLl5PRdTzZX0GC"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "Rock Sound",
+        "url": "https://open.spotify.com/album/3O3bm3NTe7IRZHPmbm2dMZ"
+      },
+      "artists": [
+        {
+          "name": "Las Moskas",
+          "url": "https://open.spotify.com/artist/5tqciiCyuTvqWLNGE7MvpY"
+        }
+      ],
+      "duration_ms": 163386,
+      "name": "Mony Mony",
+      "url": "https://open.spotify.com/track/4roB2QW6dbmd799xB21dQX"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
         "name": "Slitherama: Teen Trash From Psychedelic Tokyo '66 - '69 (Volume 3)",
         "url": "https://open.spotify.com/album/3sV1mS552317G9XyVhkQOb"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 154720,
       "name": "Boom! Boom! Boom!",
       "url": "https://open.spotify.com/track/4BuMxDprV7PhLj5ykVwA9I"
+    },
+    {
+      "added_at": "2021-09-06 15:34:44",
+      "album": {
+        "name": "El Ritual",
+        "url": "https://open.spotify.com/album/5BUdMrFRo924docI7JKqmo"
+      },
+      "artists": [
+        {
+          "name": "EL RITUAL",
+          "url": "https://open.spotify.com/artist/5892Xxyev45o73ZrqlmMGT"
+        }
+      ],
+      "duration_ms": 234498,
+      "name": "Groupie",
+      "url": "https://open.spotify.com/track/5CNo2B3LgMJgheq3ikhVir"
     }
   ],
   "unique_name": "Rock Mexicano Av\u00e1ndaro",

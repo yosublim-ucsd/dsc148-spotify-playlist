@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Bruna Karla
 
-[Spotify](https://open.spotify.com/user/spotify) - 251,916 likes - 80 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 251,638 likes - 80 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 79 | [Abraço](https://open.spotify.com/track/4LhvK3idFSNt7d93hn5o8B) | [Guilherme Leite](https://open.spotify.com/artist/4OPDva5P2NCD4ssE52yMXb), [Karina e Felipe](https://open.spotify.com/artist/7dEOqoU0zk0JazBPfJ7vBi) | [Abraço](https://open.spotify.com/album/6n8fcq3fPMNFepFd77QI1O) | 4:48 |
 | 80 | [Dias de Guerra](https://open.spotify.com/track/4nLed3BVO8jaDQLkEeAtJS) | [Sara Evelyn](https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0) | [Dias de Guerra](https://open.spotify.com/album/7qMwEuySxmCCgGxGXLut6M) | 3:10 |
 
-Snapshot ID: `MCxjODZhZDgzZDRmMzMyZWJjZDk5OTlkMDlmMTBlMjg1NWY3MTc3MWRm`
+Snapshot ID: `MCxiNTVjN2E2YjRiMjM3MzNiMjZmMjgyM2JlNzI3MjEzMmE5YmVhYmZl`

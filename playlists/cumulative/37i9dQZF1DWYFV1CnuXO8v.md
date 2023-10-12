@@ -4,7 +4,7 @@
 
 > عيش أجمل حالة حب 🫶❤️<br/> كوفر: <a href="https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg?si=SaDgQlWvTb2aXAi94J\-UOA"> انغام </a>
 
-263 songs - 16 hr 32 min
+264 songs - 16 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -95,7 +95,7 @@
 | [Farha](https://open.spotify.com/track/1tKPUMbKrJ7lHpnHW1jc1w) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Farha](https://open.spotify.com/album/6CO9kHdDHltgyhClt55JUC) | 4:28 | 2023-02-13 | 2023-05-23 |
 | [Fe Einy](https://open.spotify.com/track/2TyixRw1j8Ojuh29akRROH) | [Mohammed Saeed](https://open.spotify.com/artist/1ZpCdBZ3rL0mXxMhzhOBvi) | [Fe Einy](https://open.spotify.com/album/6ULzQQv9nJKrpFah0RqHlt) | 3:08 | 2023-02-13 |  |
 | [Fe Hetta Tanya](https://open.spotify.com/track/6lCoHq4ZBVAVSk83G55nnp) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [Fe Hetta Tanya](https://open.spotify.com/album/2BHwb6p6sLzdNRZkepJNtF) | 4:17 | 2023-02-13 |  |
-| [Fe Keda](https://open.spotify.com/track/3J2v3X92FYxq5vCK9gs7oq) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Fe Keda](https://open.spotify.com/album/2AvAE36IYscAmnOMUjHhX9) | 5:05 | 2023-09-08 |  |
+| [Fe Keda](https://open.spotify.com/track/3J2v3X92FYxq5vCK9gs7oq) | [Mohamed Mohie](https://open.spotify.com/artist/0kx1MvP6InHp52v64yCRx4) | [Fe Keda](https://open.spotify.com/album/2AvAE36IYscAmnOMUjHhX9) | 5:05 | 2023-09-08 | 2023-10-12 |
 | [Felfel W Shatta](https://open.spotify.com/track/5ochjQf3Sm80KNIARwaqTi) | [Mohamed Osama](https://open.spotify.com/artist/4NH8A2q0S9Pkx2t2J3a2Z7) | [Felfel W Shatta](https://open.spotify.com/album/3Jis71LRlNV1wR8BTkFyrL) | 3:01 | 2023-08-08 | 2023-09-09 |
 | [Fenoh](https://open.spotify.com/track/6dzfREL5EwPZxPGIgKsieT) | [Hisham Abbas](https://open.spotify.com/artist/6OQ7sfN0G1E2pZMhYW9wjG) | [Gowa Fe Alby](https://open.spotify.com/album/27VrCWi59R8keOizrwJjGA) | 4:51 | 2023-02-13 | 2023-05-23 |
 | [Fi kteer Helween](https://open.spotify.com/track/3KPWu8HQtC0tjLPP3wOSXQ) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Fi kteer Helween](https://open.spotify.com/album/0iyo4Rdmz1BJK80ADyfXk0) | 2:46 | 2023-06-20 | 2023-07-14 |
@@ -144,6 +144,7 @@
 | [Maaloba Hayaty](https://open.spotify.com/track/1J3fMjtLX9Am5iLNrhHRmR) | [Shaza](https://open.spotify.com/artist/1EfSs3W0Qb8i6Rbw60nv5b) | [Maaloba Hayaty](https://open.spotify.com/album/6zn3nAXGhehDhp2enqc00j) | 4:08 | 2023-02-13 | 2023-02-22 |
 | [Mabalash](https://open.spotify.com/track/40BMID1JwcJZYeTS1t6stp) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [Omroh Ma Yeghib](https://open.spotify.com/album/3U6oFvwXd6i8LFbbhqmKQq) | 4:08 | 2023-02-13 | 2023-05-24 |
 | [Mahmoum](https://open.spotify.com/track/6keIjQDrcBBjOqVwihbCUs) | [Mohamed Mounir](https://open.spotify.com/artist/6hPNpOLunxxpXVwi696pYl) | [Mahmoum](https://open.spotify.com/album/2fTNRkiGfbpb51e9ebgvOc) | 3:00 | 2023-02-13 | 2023-05-23 |
+| [Maktoob Aleina](https://open.spotify.com/track/3RfC9t6UYws4b6EJVuP601) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID), [Husayn](https://open.spotify.com/artist/388NKDhzE7FJ40ODmOr7aI), [Riff](https://open.spotify.com/artist/3uMm7CPUx2akjaBXYIveP7) | [Red Bull Sika](https://open.spotify.com/album/0hf5Kd9VvJTl993fEfkLAP) | 2:10 | 2023-10-09 |  |
 | [Malek El Fabraka](https://open.spotify.com/track/6DdXM6uwl9XuGIVwP7bXOx) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Malek El Fabraka](https://open.spotify.com/album/2T3oPO96g0IUsYb9uD2ULT) | 3:23 | 2023-02-13 | 2023-09-09 |
 | [Malek Ya Tara](https://open.spotify.com/track/0Hlhi6mfGN3qGDg8JBCQgF) | [Mohamed Nour](https://open.spotify.com/artist/50Kx7LQ2dxkhWoMScUXpix) | [Malek Ya Tara](https://open.spotify.com/album/4dF55Jek9f3MG6KfV0fKoB) | 3:15 | 2023-02-13 | 2023-05-23 |
 | [Maleket El Helwen](https://open.spotify.com/track/4y00bqXve4lCihGkIhXd20) | [Abu](https://open.spotify.com/artist/0oXeb3Z8lPe5ObsbBGicML) | [Maleket El Helwen](https://open.spotify.com/album/34e97XGQaJKS80MfqFS1y7) | 3:38 | 2023-02-13 | 2023-05-23 |

@@ -4,7 +4,7 @@
 
 > Si está pegao, está aquí\. Feat\. Darell
 
-449 songs - 1 day 0 hr 53 min
+450 songs - 1 day 0 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -170,7 +170,8 @@
 | [Frío](https://open.spotify.com/track/0df1oUN5ta7FSWwjGvhHa5) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Frío](https://open.spotify.com/album/4ya6dMKyTfwrrcdkoROD8O) | 2:35 | 2022-11-29 | 2022-12-24 |
 | [Fuego Forestal](https://open.spotify.com/track/1G5rMuBltKhOavItlryMIO) | [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Fuego Forestal](https://open.spotify.com/album/3RIn81bgJPiH4XmMlDUm0Q) | 3:18 | 2022-08-26 | 2023-02-15 |
 | [FUMETEO \- Remix](https://open.spotify.com/track/5SXG3VyqqWkzr4a3sUnupK) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [INTER SHIBUYA \(FERXXO EDITION\)](https://open.spotify.com/album/0kI46dzlikgAVpJ6LdkbJE) | 3:34 | 2022-01-17 | 2022-02-19 |
-| [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:50 | 2023-09-29 |  |
+| [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:50 | 2023-10-09 |  |
+| [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:50 | 2023-09-29 | 2023-10-12 |
 | [Gata \(feat\. Chencho Corleone\)](https://open.spotify.com/track/3SWjpNMVUi5UXz096NbfPr) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:26 | 2022-04-13 | 2022-05-07 |
 | [GATITA GANGSTER](https://open.spotify.com/track/5bD6mFl116xCxVMLy7IK9F) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i) | 2:50 | 2023-08-29 |  |
 | [Gato de Noche](https://open.spotify.com/track/54ELExv56KCAB4UP9cOCzC) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Gato de Noche](https://open.spotify.com/album/2GS2h80Dp8rFdGEa0j0JhH) | 3:47 | 2022-12-23 | 2023-04-01 |

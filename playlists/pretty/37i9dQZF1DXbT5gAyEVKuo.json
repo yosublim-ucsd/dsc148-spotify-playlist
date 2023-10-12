@@ -1,12 +1,12 @@
 {
   "description": "The power of praise lives on LIVE! Get up on your feet and let the spirit move in your heart to these amazing performances.",
-  "num_followers": 72386,
+  "num_followers": 72406,
   "original_name": "Gospel Live",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YWMxYThjOTRkNDUxNTNhMGIxNWY4Y2E0Y2IwYTI2MDI4MzZiZmIw",
+  "snapshot_id": "MCw2NjNjMDY0N2M5ODMyOWU1ZDczYTQ0ZTM1YjU1MzU4ZmVkOTFhZDFk",
   "tracks": [
     {
       "added_at": "2023-02-18 05:28:04",
@@ -683,22 +683,18 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Sessions - EP",
-        "url": "https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ"
+        "name": "Gospel's Best Live",
+        "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
       },
       "artists": [
         {
-          "name": "Jonathan McReynolds",
-          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
-        },
-        {
-          "name": "Chantae Cann",
-          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
+          "name": "Donald Lawrence & The Tri-City Singers",
+          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
         }
       ],
-      "duration_ms": 249176,
-      "name": "Maintain (feat. Chantae Cann) (Live)",
-      "url": "https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB"
+      "duration_ms": 281973,
+      "name": "Never Seen The Righteous - Live",
+      "url": "https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U"
     },
     {
       "added_at": "2023-02-18 05:28:04",
@@ -719,18 +715,22 @@
     {
       "added_at": "2023-02-18 05:28:04",
       "album": {
-        "name": "Gospel's Best Live",
-        "url": "https://open.spotify.com/album/5NvLAYXvwMmEfYC5K2CsUd"
+        "name": "Sessions - EP",
+        "url": "https://open.spotify.com/album/4Oa6IdMOzTI1bzaHdDFbOJ"
       },
       "artists": [
         {
-          "name": "Donald Lawrence & The Tri-City Singers",
-          "url": "https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V"
+          "name": "Jonathan McReynolds",
+          "url": "https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9"
+        },
+        {
+          "name": "Chantae Cann",
+          "url": "https://open.spotify.com/artist/1cPLFQV7MAWQiaDW5SlUMR"
         }
       ],
-      "duration_ms": 281973,
-      "name": "Never Seen The Righteous - Live",
-      "url": "https://open.spotify.com/track/6COOpzPlhL3nk6Go0PVo3U"
+      "duration_ms": 249176,
+      "name": "Maintain (feat. Chantae Cann) (Live)",
+      "url": "https://open.spotify.com/track/2EHcVFuKwZMyxAB4AzURSB"
     },
     {
       "added_at": "2023-02-18 05:28:04",

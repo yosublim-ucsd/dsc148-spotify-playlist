@@ -1,12 +1,12 @@
 {
   "description": "Hity, kter\u00e9 t\u011b povzbud\u00ed a nalad\u00ed na vlnu dobr\u00e9 n\u00e1lady.",
-  "num_followers": 32249,
+  "num_followers": 32261,
   "original_name": "Vlna Radosti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZjgzMWEzNGU3ZWI4Njg2M2U1YWJmZDc0ZjEzZDVkZjhlMTIyZWI1",
+  "snapshot_id": "MCw1Y2IxZWY4NDhmNzZiYzYwODdlODA4MzlkNzEwYmNhOTE5ZGU5MDU0",
   "tracks": [
     {
       "added_at": "2023-10-06 16:11:06",
@@ -747,6 +747,26 @@
     {
       "added_at": "2023-10-06 16:11:06",
       "album": {
+        "name": "I Love Life, Thank You",
+        "url": "https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        }
+      ],
+      "duration_ms": 162875,
+      "name": "Love Lost",
+      "url": "https://open.spotify.com/track/2z9iuAxKv4TTeCrPAxxKg9"
+    },
+    {
+      "added_at": "2023-10-06 16:11:06",
+      "album": {
         "name": "Crazy What Love Can Do",
         "url": "https://open.spotify.com/album/0GnxssqYa2RU9EdWHhZ707"
       },
@@ -767,26 +787,6 @@
       "duration_ms": 169756,
       "name": "Crazy What Love Can Do",
       "url": "https://open.spotify.com/track/1WCEAGGRD066z2Q89ObXTq"
-    },
-    {
-      "added_at": "2023-10-06 16:11:06",
-      "album": {
-        "name": "I Love Life, Thank You",
-        "url": "https://open.spotify.com/album/5LNX3esjvdBJ6hN4XDvCJn"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "The Temper Trap",
-          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
-        }
-      ],
-      "duration_ms": 162875,
-      "name": "Love Lost",
-      "url": "https://open.spotify.com/track/2z9iuAxKv4TTeCrPAxxKg9"
     },
     {
       "added_at": "2023-10-06 16:11:06",

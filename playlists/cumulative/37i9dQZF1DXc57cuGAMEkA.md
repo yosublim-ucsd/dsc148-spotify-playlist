@@ -4,7 +4,7 @@
 
 > 洋楽を中心に今週の新曲をチェック。 Drake, Ado, NewJeans, James Arthur, 大橋トリオ and more! Cover: Drake
 
-3,087 songs - 7 day 7 hr 10 min
+3,088 songs - 7 day 7 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1696,7 +1696,8 @@
 | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/track/0znEN9HIkCXf4wZn16hVJD) | [Shin Sakiura](https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8), [Furui Riho](https://open.spotify.com/artist/6OgsusVzVrkzCvbXpv6GWh) | [n.o.y.b \(feat\. Furui Riho\)](https://open.spotify.com/album/3GPIrOmn7HCQp52OD6Gnhf) | 3:57 | 2023-04-27 | 2023-05-05 |
 | [N.Y.C.T](https://open.spotify.com/track/4ksIFsGXezKXZX91dE6ClJ) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [N.Y.C.T \- NCT LAB](https://open.spotify.com/album/5pa2JvvpufiC2IlKUgbjZQ) | 3:56 | 2023-09-07 | 2023-09-15 |
 | [Nagisa](https://open.spotify.com/track/0bdAQ9dwLA5cJtgM05PRKW) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [Nagisa](https://open.spotify.com/album/1AtPpQ0av1ugXZ1QhjMQkK) | 3:46 | 2023-05-25 | 2023-06-02 |
-| [Naiteiinda](https://open.spotify.com/track/0XG0tbMYCtXac43tJaA3Dg) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Naiteiinda](https://open.spotify.com/album/43Z43JtRCAwtORme6d6BnR) | 3:40 | 2023-10-05 |  |
+| [Naiteiinda](https://open.spotify.com/track/0XG0tbMYCtXac43tJaA3Dg) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Naiteiinda](https://open.spotify.com/album/43Z43JtRCAwtORme6d6BnR) | 3:40 | 2023-10-05 | 2023-10-12 |
+| [Naiteiinda](https://open.spotify.com/track/4qYnNRrUStS7FLdosbQFPS) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [The Best flumpool 2.0 \~ Blue\(2008\-2011\)& Red\(2019\-2023\) \~](https://open.spotify.com/album/1jUNCwNItivgFwAqqrAMNv) | 3:40 | 2023-10-06 |  |
 | [name everywhere](https://open.spotify.com/track/3mOd7FgLgWATxB0khHOSOk) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [name everywhere](https://open.spotify.com/album/3V9iuYMjGOFl3bp5BLxYNq) | 3:34 | 2023-05-11 | 2023-05-19 |
 | [Naomi](https://open.spotify.com/track/5wO44FhJyX7wWUgwRjqSK1) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing \(Deluxe\)](https://open.spotify.com/album/15UQ2i9tFgP1VL24O3aBvM) | 3:50 | 2023-05-04 | 2023-05-12 |
 | [Nasty Dancer](https://open.spotify.com/track/7itIhLBlKcpdaSqXRsSuW3) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Nasty Dancer](https://open.spotify.com/album/6RhtLqR830nzFlLYfVXM7k) | 2:17 | 2023-02-16 | 2023-02-24 |

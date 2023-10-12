@@ -1,12 +1,12 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with GRiZ",
-  "num_followers": 975409,
+  "num_followers": 975240,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNmM4ZmRiZDc1MzZjNGRkM2JlMjllNjQxNGI5MDJlYTQ2OTA0NWMz",
+  "snapshot_id": "MCxkYjFkZjExODdhZGNkMDExNDUzNWU5ZDU1ZWEyZDQ2NmVkMDgwM2Fh",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "EAT SLEEP RAGE",
+        "url": "https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "EAT SLEEP RAGE",
+      "url": "https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/0WBKJgbjqaNdw2AqHQWuvf"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 158896,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/6VZlZwLkThFbO3gmBYeDUK"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "EAT SLEEP RAGE",
-        "url": "https://open.spotify.com/album/3ACwIVqUsWkj9An9umbKmF"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "EAT SLEEP RAGE",
-      "url": "https://open.spotify.com/track/2s7F8qjzm1XcMKG7O4GzCY"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -911,6 +911,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "SHYPOP",
+        "url": "https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "SHYPOP",
+      "url": "https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Monsters",
         "url": "https://open.spotify.com/album/1uPIDdNWYuULWaqdl1JuQg"
       },
@@ -991,26 +1011,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "SHYPOP",
-        "url": "https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "SHYPOP",
-      "url": "https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Muscaria / Everglade March (VIP)",
         "url": "https://open.spotify.com/album/1Y5nL86z3vHZHbpaB3TV7u"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "DREAMING",
-        "url": "https://open.spotify.com/album/4j4lXlRPk0dcQZl8UqMorB"
-      },
-      "artists": [
-        {
-          "name": "Jauz",
-          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "DREAMING",
-      "url": "https://open.spotify.com/track/1XmNeOPvxlWupeok8TzNvm"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/15mVxIt7C3Nd3XHtVpEdcf"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 233452,
       "name": "Summer Of Saigon",
       "url": "https://open.spotify.com/track/5BWpRTmIud6QuaKxZI4Ilr"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "DREAMING",
+        "url": "https://open.spotify.com/album/4j4lXlRPk0dcQZl8UqMorB"
+      },
+      "artists": [
+        {
+          "name": "Jauz",
+          "url": "https://open.spotify.com/artist/5ttgIeUVka6FLyi00Uu5h8"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "DREAMING",
+      "url": "https://open.spotify.com/track/1XmNeOPvxlWupeok8TzNvm"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "dontstopme!",
+        "url": "https://open.spotify.com/album/4F58jVM56GlkFSU6SbHw8m"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        }
+      ],
+      "duration_ms": 221142,
+      "name": "dontstopme!",
+      "url": "https://open.spotify.com/track/6IJg6Lj08UReeoz9590Ps5"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Shapeshifter (feat. Styles of Beyond) [Zardonic & Pythius Remix]",
         "url": "https://open.spotify.com/album/2tc5jcJXOOaSLgGpa2ELcG"
       },
@@ -1203,6 +1219,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Next Shot",
+        "url": "https://open.spotify.com/album/7hdaK9tIbwej1JVwuCcxOM"
+      },
+      "artists": [
+        {
+          "name": "12th Planet",
+          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
+        },
+        {
+          "name": "Vulgatron",
+          "url": "https://open.spotify.com/artist/3BojQr5ihZly0IUXsLPN3w"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Next Shot",
+      "url": "https://open.spotify.com/track/450ieMdH9byHoYTXfx8ORV"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Exodia",
         "url": "https://open.spotify.com/album/7MSWYmuDJAlBYUa0QrEqyo"
       },
@@ -1227,26 +1263,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Next Shot",
-        "url": "https://open.spotify.com/album/7hdaK9tIbwej1JVwuCcxOM"
-      },
-      "artists": [
-        {
-          "name": "12th Planet",
-          "url": "https://open.spotify.com/artist/3V1h3kAdiVDBiwlY2i6dJz"
-        },
-        {
-          "name": "Vulgatron",
-          "url": "https://open.spotify.com/artist/3BojQr5ihZly0IUXsLPN3w"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Next Shot",
-      "url": "https://open.spotify.com/track/450ieMdH9byHoYTXfx8ORV"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Pocketknife",
         "url": "https://open.spotify.com/album/2dAJpqKsJv9xiWMAH1z0k0"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 259812,
       "name": "Pocketknife",
       "url": "https://open.spotify.com/track/4s3SY8wz9GaTMkAYBloV4k"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "dontstopme!",
-        "url": "https://open.spotify.com/album/4F58jVM56GlkFSU6SbHw8m"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "dontstopme!",
-      "url": "https://open.spotify.com/track/6IJg6Lj08UReeoz9590Ps5"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1383,26 +1383,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Where You At",
-        "url": "https://open.spotify.com/album/1ojzEUbTPZd1TvXbcV4mj7"
-      },
-      "artists": [
-        {
-          "name": "Flux Pavilion",
-          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
-        },
-        {
-          "name": "Conrank",
-          "url": "https://open.spotify.com/artist/3qNEgvMVFSPWLeBGuqRQ4F"
-        }
-      ],
-      "duration_ms": 233689,
-      "name": "Where You At",
-      "url": "https://open.spotify.com/track/1l4Jlmelh8O7QSURiSxQXT"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Get Wompy",
         "url": "https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6"
       },
@@ -1419,18 +1399,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Skanka (VIP)",
-        "url": "https://open.spotify.com/album/2vE6RgrsJmNO0gQWC9AQkW"
+        "name": "Where You At",
+        "url": "https://open.spotify.com/album/1ojzEUbTPZd1TvXbcV4mj7"
       },
       "artists": [
         {
-          "name": "Hamdi",
-          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+          "name": "Flux Pavilion",
+          "url": "https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk"
+        },
+        {
+          "name": "Conrank",
+          "url": "https://open.spotify.com/artist/3qNEgvMVFSPWLeBGuqRQ4F"
         }
       ],
-      "duration_ms": 228004,
-      "name": "Skanka (VIP)",
-      "url": "https://open.spotify.com/track/4HUsOtjhCpXPUHZfYtPSo8"
+      "duration_ms": 233689,
+      "name": "Where You At",
+      "url": "https://open.spotify.com/track/1l4Jlmelh8O7QSURiSxQXT"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1455,6 +1439,22 @@
       "duration_ms": 125851,
       "name": "Bring It Back (Spencer Ramsay Remix)",
       "url": "https://open.spotify.com/track/558wlAeGGjLBB1cua3OpSh"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Skanka (VIP)",
+        "url": "https://open.spotify.com/album/2vE6RgrsJmNO0gQWC9AQkW"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "duration_ms": 228004,
+      "name": "Skanka (VIP)",
+      "url": "https://open.spotify.com/track/4HUsOtjhCpXPUHZfYtPSo8"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Your Lovin'",
+        "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
+      },
+      "artists": [
+        {
+          "name": "Jon Casey",
+          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
+        }
+      ],
+      "duration_ms": 219718,
+      "name": "Your Lovin'",
+      "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "New Age Dreaming",
         "url": "https://open.spotify.com/album/046CzF0aCtKCebNqLD6zHI"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 219200,
       "name": "New Age Dreaming",
       "url": "https://open.spotify.com/track/6KxUvWRs2kDp1apoVADBXq"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Your Lovin'",
-        "url": "https://open.spotify.com/album/7rBFU32lvfinN9H59HWKU7"
-      },
-      "artists": [
-        {
-          "name": "Jon Casey",
-          "url": "https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr"
-        }
-      ],
-      "duration_ms": 219718,
-      "name": "Your Lovin'",
-      "url": "https://open.spotify.com/track/3awHSnJDVnHm3cNCLI9sOf"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1771,18 +1771,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "BORN TO DIE",
-        "url": "https://open.spotify.com/album/2Ke0BcTe2c3Dh5LRxzd4cs"
+        "name": "Die With It",
+        "url": "https://open.spotify.com/album/6uwEBRSWF2VwW6SUmGnhpW"
       },
       "artists": [
         {
-          "name": "MVDNES",
-          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
+          "name": "Azide",
+          "url": "https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h"
+        },
+        {
+          "name": "J Swey",
+          "url": "https://open.spotify.com/artist/7qF6NAMsPdmVz0o8n5v1Ht"
         }
       ],
-      "duration_ms": 112128,
-      "name": "BORN TO DIE",
-      "url": "https://open.spotify.com/track/34pS1KVbdWpcckfWOIhdtI"
+      "duration_ms": 139500,
+      "name": "Die With It",
+      "url": "https://open.spotify.com/track/3ZDuop6M6asvg8zae32PVz"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1803,6 +1807,22 @@
       "duration_ms": 254117,
       "name": "Bassline",
       "url": "https://open.spotify.com/track/1ZIglHDIFjtMiFV2VItzPg"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "BORN TO DIE",
+        "url": "https://open.spotify.com/album/2Ke0BcTe2c3Dh5LRxzd4cs"
+      },
+      "artists": [
+        {
+          "name": "MVDNES",
+          "url": "https://open.spotify.com/artist/0jo4MaRxUP72Rou02fgmi7"
+        }
+      ],
+      "duration_ms": 112128,
+      "name": "BORN TO DIE",
+      "url": "https://open.spotify.com/track/34pS1KVbdWpcckfWOIhdtI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1855,26 +1875,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Dead Meat",
-        "url": "https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ"
-      },
-      "artists": [
-        {
-          "name": "Esseks",
-          "url": "https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ"
-        },
-        {
-          "name": "tiedye ky",
-          "url": "https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x"
-        }
-      ],
-      "duration_ms": 165339,
-      "name": "Dead Meat",
-      "url": "https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Feeling Free",
         "url": "https://open.spotify.com/album/5hYaCD1FopzL8Gd4wWUilB"
       },
@@ -1891,6 +1891,26 @@
       "duration_ms": 179555,
       "name": "Feeling Free",
       "url": "https://open.spotify.com/track/4DYTMSIZB7nIazRd0vuI5w"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Dead Meat",
+        "url": "https://open.spotify.com/album/4z176xDdgu7rn2pP2WwfIZ"
+      },
+      "artists": [
+        {
+          "name": "Esseks",
+          "url": "https://open.spotify.com/artist/27mChCxMpfmLnXhdD07DLZ"
+        },
+        {
+          "name": "tiedye ky",
+          "url": "https://open.spotify.com/artist/7cLPkazOF3m109B7KBT37x"
+        }
+      ],
+      "duration_ms": 165339,
+      "name": "Dead Meat",
+      "url": "https://open.spotify.com/track/3wkkZI6VWRJW3SvbzhwDEE"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1931,22 +1951,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Die With It",
-        "url": "https://open.spotify.com/album/6uwEBRSWF2VwW6SUmGnhpW"
+        "name": "24 HRS",
+        "url": "https://open.spotify.com/album/433wutKP8SbmE2SxU5N8cc"
       },
       "artists": [
         {
-          "name": "Azide",
-          "url": "https://open.spotify.com/artist/0jZCd5FFBIaaiXlIJX6I9h"
-        },
-        {
-          "name": "J Swey",
-          "url": "https://open.spotify.com/artist/7qF6NAMsPdmVz0o8n5v1Ht"
+          "name": "Whyte Fang",
+          "url": "https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt"
         }
       ],
-      "duration_ms": 139500,
-      "name": "Die With It",
-      "url": "https://open.spotify.com/track/3ZDuop6M6asvg8zae32PVz"
+      "duration_ms": 181056,
+      "name": "24 HRS",
+      "url": "https://open.spotify.com/track/17QLFEbGJMGA9iyrkx4jbd"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2003,22 +2019,6 @@
       "duration_ms": 160460,
       "name": "Rave Control",
       "url": "https://open.spotify.com/track/7Et4IAXXFpLaJMf4mSWE18"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Arpeggio EP",
-        "url": "https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu"
-      },
-      "artists": [
-        {
-          "name": "QUIX",
-          "url": "https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M"
-        }
-      ],
-      "duration_ms": 223714,
-      "name": "Oxygen",
-      "url": "https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq"
     }
   ],
   "unique_name": "Bass Arcade",

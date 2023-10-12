@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 
 > We're celebrating 30 years of Martina McBrides's timeless album "The Way That I Am" on 90s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,706,404 likes - 150 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,706,090 likes - 150 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,11 +61,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 51 | [Does He Love You](https://open.spotify.com/track/0wFQnci5YCcwbKAWNBzqiA) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Linda Davis](https://open.spotify.com/artist/3rXeRTogAKT6xqOLyfC7xv) | [Reba McEntire's Greatest Hits, Volume Two](https://open.spotify.com/album/3NwDZMQupPwdNaLT9js5sR) | 4:20 |
 | 52 | [Small Town Saturday Night](https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ) | [Hal Ketchum](https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7) | [Past The Point Of Rescue](https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE) | 2:57 |
 | 53 | [Straight Tequila Night](https://open.spotify.com/track/5SpoN8sCoc05RfVde4raGN) | [John Anderson](https://open.spotify.com/artist/3U7k7hBsHF9dy4ELW53Wrv) | [Seminole Wind](https://open.spotify.com/album/23LbFVb9MdJCILkhR5yQ6a) | 2:53 |
-| 54 | [Pickup Man](https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Third Rock From The Sun](https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl) | 3:36 |
+| 54 | [Hard Workin' Man](https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Hard Workin' Man](https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y) | 2:58 |
 | 55 | [Tell Me Why](https://open.spotify.com/track/3Vfj2JGXayXgc0c9J4gJ8m) | [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [Tell Me Why](https://open.spotify.com/album/0118657h8IVC4b37XaOjBp) | 3:50 |
 | 56 | [Whenever You Come Around](https://open.spotify.com/track/3PHLZ5wmtyZha1pp2405OT) | [Vince Gill](https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo) | [When Love Finds You](https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB) | 4:19 |
 | 57 | [This Kiss](https://open.spotify.com/track/5EYWGM3Ns3iYew8ws0FatB) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [Faith](https://open.spotify.com/album/2lKDDrmx5aqyBRkho5ljn5) | 3:14 |
-| 58 | [Hard Workin' Man](https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Hard Workin' Man](https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y) | 2:58 |
+| 58 | [Pickup Man](https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Third Rock From The Sun](https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl) | 3:36 |
 | 59 | [I Can Still Make Cheyenne](https://open.spotify.com/track/7yQMZQeiSKnvEgimeGPVhi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Blue Clear Sky](https://open.spotify.com/album/79adVMcMUNGN9Gw5qJI8JG) | 4:16 |
 | 60 | [If You See Him, If You See Her](https://open.spotify.com/track/4TxIFLRMUxNh4n9h4RLsaE) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [If You See Him](https://open.spotify.com/album/5CUap1jumnhCkIDCd6DtEc) | 3:55 |
 | 61 | [Life's a Dance](https://open.spotify.com/track/0NyMrtH8mUuvtJjEpESn7J) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Greatest Hits](https://open.spotify.com/album/1KJN0ykTZZWD0KpjODoXDW) | 3:08 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 66 | [How Forever Feels](https://open.spotify.com/track/2HmMklpgK8vGCpJmPpz1yG) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Everywhere We Go](https://open.spotify.com/album/67qNNUSHekqSliS7Q1XZj6) | 3:08 |
 | 67 | [I'm Gonna Be Somebody](https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Country Club](https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo) | 4:04 |
 | 68 | [You've Got to Stand for Something](https://open.spotify.com/track/7s2NbKcFIJuEQumhvtHTAD) | [Aaron Tippin](https://open.spotify.com/artist/4XwKU420OWVk38vz1KvH3M) | [You've Got to Stand for Something](https://open.spotify.com/album/0NTPV5YssGexGoz1OzaVRt) | 3:02 |
-| 69 | [If I Didn't Have You](https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:06 |
-| 70 | [Be My Baby Tonight](https://open.spotify.com/track/7pY4ul6PNtKKHCCQgYVtT7) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Kickin' It Up](https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK) | 2:52 |
+| 69 | [Be My Baby Tonight](https://open.spotify.com/track/7pY4ul6PNtKKHCCQgYVtT7) | [John Michael Montgomery](https://open.spotify.com/artist/7mPcfx7PhnBh6n4HMCd61A) | [Kickin' It Up](https://open.spotify.com/album/35RTe7YfQemPHk27qXWMxK) | 2:52 |
+| 70 | [If I Didn't Have You](https://open.spotify.com/track/52erNkfUKv34u02CjcHOPj) | [Randy Travis](https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m) | [On the Other Hand \- All the Number Ones](https://open.spotify.com/album/0UCCMRZib7d6eCdEWQiPJ3) | 3:06 |
 | 71 | [I'm From The Country \- Single Version](https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [I'm From The Country](https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS) | 3:33 |
 | 72 | [John Deere Green](https://open.spotify.com/track/2evFJQfQVcDEXyOiyEV6OW) | [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g) | [Honky Tonk Attitude](https://open.spotify.com/album/1P1OZ9XR6qjmOV6J2G8LDi) | 4:32 |
 | 73 | [Ready to Run](https://open.spotify.com/track/7yNTZj1ugKCeRJdSP1meOk) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 3:51 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 112 | [Boot Scootin' Boogie](https://open.spotify.com/track/6iKWr2XH1DyT7TQzDZlvzd) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz) | [Brand New Man](https://open.spotify.com/album/4cqxNQQB21g1jEWtnu3jN3) | 3:17 |
 | 113 | [Two Sparrows In A Hurricane](https://open.spotify.com/track/7k9F26WpokhmRjzwxlCsCP) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Can't Run From Yourself](https://open.spotify.com/album/6AFaPe8uSnqCqP6kbq0CuS) | 4:10 |
 | 114 | [Is There Life Out There](https://open.spotify.com/track/1NIUECyq3vHFrWeFGKvESB) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [For My Broken Heart](https://open.spotify.com/album/2j2u43lPOti5W1btEw8NN5) | 3:52 |
-| 115 | [I Try to Think About Elvis](https://open.spotify.com/track/121ILFThNZH9Egncny7upu) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [When Fallen Angels Fly](https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9) | 2:49 |
-| 116 | [The Shake](https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [Be Good At It](https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM) | 3:33 |
+| 115 | [The Shake](https://open.spotify.com/track/2KZXnN63ae6G6Cai2NhPkG) | [Neal McCoy](https://open.spotify.com/artist/69Etpls5a2aATUkB6NInTY) | [Be Good At It](https://open.spotify.com/album/5OcjMDGFwrToI1UXdcMshM) | 3:33 |
+| 116 | [I Try to Think About Elvis](https://open.spotify.com/track/121ILFThNZH9Egncny7upu) | [Patty Loveless](https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT) | [When Fallen Angels Fly](https://open.spotify.com/album/3gl2RguatWgKSoCuN1tSw9) | 2:49 |
 | 117 | [Ain't That Lonely Yet](https://open.spotify.com/track/0Kwu1D6HJc8KCLjTGCB22w) | [Dwight Yoakam](https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW) | [This Time](https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50) | 3:20 |
 | 118 | [Except for Monday](https://open.spotify.com/track/2iCJEYdoYbCxFoUg8759nm) | [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Something In Red](https://open.spotify.com/album/6pTicOdZqzOZgbvdB1AVyq) | 2:56 |
 | 119 | [\(This Ain't\) No Thinkin' Thing](https://open.spotify.com/track/44YTMbU3aqvE7q09rjyUb3) | [Trace Adkins](https://open.spotify.com/artist/79FMDwzZQxHgSkIYBl3ODU) | [Dreamin' Out Loud](https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc) | 4:02 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVpjAJGB70vU.md) - [plain]
 | 149 | [I Do](https://open.spotify.com/track/59GPuKaImwVCqcYRm1xrkY) | [Paul Brandt](https://open.spotify.com/artist/11Rb0Ax3Q2dZJ7jNlOvxxP) | [Calm Before the Storm](https://open.spotify.com/album/4FdWVE3DHKyWCdeNgEpEWR) | 3:40 |
 | 150 | [Why Didn't I Think of That](https://open.spotify.com/track/3w3oF0IAR3A14cnKhecsNV) | [Doug Stone](https://open.spotify.com/artist/4epBFW4UHEmgjIK5xOrBhk) | [From the Heart](https://open.spotify.com/album/36m9tDH81Nn65T9qoGqWdl) | 3:11 |
 
-Snapshot ID: `MCw5YzkyY2I0OTI5M2UxYzc1ZWRhY2MwYzU3NmNjNDk3ODdjZjBiYjY1`
+Snapshot ID: `MCxlZjAwZWRlM2RlM2Y3ZmJkOTA1ODU2NGU4NzI4ODg2ZmVhYTQ4YjMx`

@@ -1,12 +1,12 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 20014,
+  "num_followers": 20029,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MDEwYzAxNzM4YTViMDM4Nzc0OTc3NjY5ZjhmMzZkMDljZjc1NmU1",
+  "snapshot_id": "MCxkMzZiZDk5ZWFhMmY2NzA3NTVjODE3NTlhMGEyY2Y4NWE0YzVmMWEx",
   "tracks": [
     {
       "added_at": "2023-08-31 12:17:23",
@@ -407,6 +407,22 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
+        "name": "Harold In The Land Of Jazz",
+        "url": "https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG"
+      },
+      "artists": [
+        {
+          "name": "Harold Land",
+          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
+        }
+      ],
+      "duration_ms": 426533,
+      "name": "Grooveyard",
+      "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
         "name": "Presenting Bud Shank",
         "url": "https://open.spotify.com/album/1bEeCmIuAjwiC3ZOUBSvNP"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 200253,
       "name": "A Sinner Kissed an Angel",
       "url": "https://open.spotify.com/track/4Ns7MifKhkJwdDa0eNPZIu"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
-        "name": "Harold In The Land Of Jazz",
-        "url": "https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG"
-      },
-      "artists": [
-        {
-          "name": "Harold Land",
-          "url": "https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD"
-        }
-      ],
-      "duration_ms": 426533,
-      "name": "Grooveyard",
-      "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -507,26 +507,6 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
-        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        },
-        {
-          "name": "Paul Desmond Quartet",
-          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
-        }
-      ],
-      "duration_ms": 210213,
-      "name": "Stand Still",
-      "url": "https://open.spotify.com/track/07jLNxcwKlAJ8c11gLJuTK"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
         "name": "Jimmy Raney Featuring Bob Brookmeyer",
         "url": "https://open.spotify.com/album/2M5HUcSTnSBgJt1zB9Xjvp"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 246466,
       "name": "Isn't It Romantic",
       "url": "https://open.spotify.com/track/7gQmV1v83oPr2BwBaw89Qr"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
+        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
+        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Paul Desmond Quartet",
+          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
+        }
+      ],
+      "duration_ms": 210213,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/07jLNxcwKlAJ8c11gLJuTK"
     },
     {
       "added_at": "2023-08-31 12:17:23",
@@ -595,26 +595,6 @@
     {
       "added_at": "2023-08-31 12:17:23",
       "album": {
-        "name": "Blowin' Country",
-        "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
-      },
-      "artists": [
-        {
-          "name": "Bud Shank",
-          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
-        },
-        {
-          "name": "Bob Cooper",
-          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
-        }
-      ],
-      "duration_ms": 251933,
-      "name": "Steve Allen Theme",
-      "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
-    },
-    {
-      "added_at": "2023-08-31 12:17:23",
-      "album": {
         "name": "The Poll Winners Ride Again!",
         "url": "https://open.spotify.com/album/7gZqZCkWIPlSAbttTYHgaT"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 289735,
       "name": "Custard Puff",
       "url": "https://open.spotify.com/track/1qzchpVVLBAtZrz2EJMOge"
+    },
+    {
+      "added_at": "2023-08-31 12:17:23",
+      "album": {
+        "name": "Blowin' Country",
+        "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
+      },
+      "artists": [
+        {
+          "name": "Bud Shank",
+          "url": "https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW"
+        },
+        {
+          "name": "Bob Cooper",
+          "url": "https://open.spotify.com/artist/4DnrmZA1htqVJxqycYIswK"
+        }
+      ],
+      "duration_ms": 251933,
+      "name": "Steve Allen Theme",
+      "url": "https://open.spotify.com/track/6v4si83mpUqBwwAUKFbFuR"
     },
     {
       "added_at": "2023-08-31 12:17:23",

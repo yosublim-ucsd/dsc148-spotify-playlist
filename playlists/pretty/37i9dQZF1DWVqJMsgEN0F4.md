@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 
 > Paramore along with the best alternative songs of today.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,233 likes - 63 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,254 likes - 63 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 45 | [blame](https://open.spotify.com/track/3UEjjwl3SaUPrXOltnUvmq) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [blame / how to exit a room](https://open.spotify.com/album/5fSKEKXlwoX3XTQWZNJInQ) | 3:10 |
 | 46 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 |
 | 47 | [Nosebleeds](https://open.spotify.com/track/1jjthaUpATAKHlCY4T5Kj2) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/1OgH6tYqGQ2K7dTFzA0TcN) | 3:03 |
-| 48 | [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 |
+| 48 | [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/3YQHgTo0898GHXRC2byH52) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:48 |
 | 49 | [Not The 1975](https://open.spotify.com/track/6dDx0UwyR8bL64xRfr2XI5) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Not The 1975](https://open.spotify.com/album/4euE3ToFxRXkSXHew4gYCw) | 3:18 |
 | 50 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 |
 | 51 | [Yes I'm A Mess](https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Yes I'm A Mess](https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4) | 2:44 |
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVqJMsgEN0F4.md) - [plain]
 | 62 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 |
 | 63 | [Salad](https://open.spotify.com/track/04wGd81Dnp8M8gPqCQXs07) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij) | [Blondshell](https://open.spotify.com/album/46r4MXX8kzBWSwJg2WVm9Y) | 4:34 |
 
-Snapshot ID: `MCw2MTk4ZjBjYzc0NzhkMmFjYmIzZmQ1ZjhkMzM2YWI5MjJjNWY2MTYy`
+Snapshot ID: `MCw0YzQxMDkyODJhNjJkZjE0MGFkNDQ4YzM2ZTM4NDU2Yjk0ZTNjMmQx`

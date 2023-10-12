@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 
 > Kick it with some of the hottest bars from Uganda +256
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,606 likes - 60 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,619 likes - 60 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 7 | [Told You So](https://open.spotify.com/track/5bnX5oi9viuOLqaehmyhYt) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Lagum the Rapper](https://open.spotify.com/artist/1QhXoko9LsFCRt54shf124) | [Vibes Out The East](https://open.spotify.com/album/0qYAUeR7eF1HCKJGmRgLoz) | 2:44 |
 | 8 | [Voices & Vices](https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Voices & Vices](https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp) | 2:50 |
 | 9 | [Coming In Hot \- Short Version](https://open.spotify.com/track/4PNUQ1EM9MXcZgf26Lvj6U) | [Drillz The Rapper](https://open.spotify.com/artist/7EjcbHeP9v2XgeyP718axB) | [Coming In Hot](https://open.spotify.com/album/6Yt2pOIVZP1QuqAxrilW2H) | 2:12 |
-| 10 | [Vexed](https://open.spotify.com/track/0rN3AzAnx0SedfkB1ZzT5g) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Vexed](https://open.spotify.com/album/74JtkXieAwoCrvklPedFsi) | 2:16 |
+| 10 | [Vexed](https://open.spotify.com/track/7az3DTSQRpG2cgaG4puG6O) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Vexed](https://open.spotify.com/album/4Qe18ssZaa6QqbSoKFsmr1) | 2:16 |
 | 11 | [Belong](https://open.spotify.com/track/1BxdWcqrXT7DBrPXAwHacK) | [KeDi](https://open.spotify.com/artist/3aaq8ReIvKF925g2qtGnV7) | [Belong](https://open.spotify.com/album/07MimenonWNMJeSgQYpUyz) | 2:09 |
 | 12 | [FREAK](https://open.spotify.com/track/0ZSYx0o0R3k6G4XE0Rq1Rq) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE) | [FREAK](https://open.spotify.com/album/41WJV8EUzFhDP4q34h863r) | 1:51 |
 | 13 | [Ballin Boo](https://open.spotify.com/track/74KNdt4nx0wqoFt3kAtsXd) | [GEOXwill](https://open.spotify.com/artist/5id5TWkdZmwJKutyO9u0dX) | [TRAPSTAR](https://open.spotify.com/album/553eFEgww5vl9dGWsdPCaZ) | 3:27 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX28OajZ4kQnX.md) - [plain]
 | 59 | [Tough Timez](https://open.spotify.com/track/5RL5hn75OUOFcLeC9VI1aZ) | [Nsokwa](https://open.spotify.com/artist/3ILdlSQ0HG3yLSchcE49Dz), [Lenoirbois](https://open.spotify.com/artist/4NinFBdaIbsWHe8OnsXlSQ) | [Tough Timez](https://open.spotify.com/album/3ml6m4oXvFut3cwmH9yrYO) | 3:41 |
 | 60 | [Zinge](https://open.spotify.com/track/6BjwzPMNmuKIW4ie4coNfk) | [Play01](https://open.spotify.com/artist/35b2AHExUT7FPIpDVKSQCG), [Adrenalyn Muzik](https://open.spotify.com/artist/41n5rKefN1N9S1xktqTZLo) | [Zinge](https://open.spotify.com/album/0uaYBF6ghic8549jFLAeEo) | 3:25 |
 
-Snapshot ID: `MCw4NmYzZDkyZmI3N2Y0YTg4NmM5ZWU0NjA0NzQzMmQzMWZkZmRkMGE2`
+Snapshot ID: `MCwzYTI3YzE5ZmFjOGY3NTA1Nzc0MDVjZTMyMDdjMWY4NzdkYzRiOWJi`

@@ -1595,6 +1595,28 @@
     },
     {
       "album": {
+        "name": "L3ach9 Kamalt M3ah",
+        "url": "https://open.spotify.com/album/1Js6ZRSwaB4wCm1xfjOaja"
+      },
+      "artists": [
+        {
+          "name": "Cheba Warda",
+          "url": "https://open.spotify.com/artist/0c3dDCJfxcT4lYNugbKvJt"
+        },
+        {
+          "name": "manini sahar",
+          "url": "https://open.spotify.com/artist/5HQvmK91vtPM4XZRgeQUAb"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252900,
+      "name": "L3ach9 Kamalt M3ah",
+      "url": "https://open.spotify.com/track/0sfECumlvNkcohhcUi0pBI"
+    },
+    {
+      "album": {
         "name": "La Faute Machi Fik",
         "url": "https://open.spotify.com/album/0jHuBbd36BrkF1Ct1D63zJ"
       },
@@ -2495,6 +2517,24 @@
     },
     {
       "album": {
+        "name": "Nifi Wala Autoroute",
+        "url": "https://open.spotify.com/album/4AW5xFzNd6OXGhXVhuCfsb"
+      },
+      "artists": [
+        {
+          "name": "Cheb Zizou",
+          "url": "https://open.spotify.com/artist/0jqfKafpVfBYPUgSLhW7dY"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151040,
+      "name": "Nifi Wala Autoroute",
+      "url": "https://open.spotify.com/track/4gqg0rUZRt8q5g3FkVtyHG"
+    },
+    {
+      "album": {
         "name": "Nrohlah Wela Yjini L'essentiel Yrang\u00e9ni",
         "url": "https://open.spotify.com/album/6Aebn10r1Ar2HPXsa5msno"
       },
@@ -2662,7 +2702,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 289852,
       "name": "Sghira Ou Hara",
       "url": "https://open.spotify.com/track/0L7LlOENW6UuOr52zcaYPE"
@@ -2752,7 +2792,7 @@
       ],
       "date_added": "2021-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 243701,
       "name": "Twahachtek ana",
       "url": "https://open.spotify.com/track/2kfxJQaJsGpe0eYjM8pIxE"

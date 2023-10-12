@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 
 > Legendary euro\- trance & progressive tracks  from the 90s and 00s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,207 likes - 82 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,323 likes - 82 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 22 | [On The Beach \- Mauro Picotto's CRW Remix](https://open.spotify.com/track/1YsZB1pLIXR0YgiOxUG9cv) | [York](https://open.spotify.com/artist/20L5MecnuNujUE6imrfK0Q), [Mauro Picotto](https://open.spotify.com/artist/0MNSDAOCHF7f2ZfAYxZ9bp), [CRW](https://open.spotify.com/artist/14tToftzUXlFOnrR5ojQxu) | [On The Beach](https://open.spotify.com/album/6VFOyyn3IVAWkeoJzBOCV9) | 3:17 |
 | 23 | [On The Move](https://open.spotify.com/track/5G976RmOXLKXedSWAe21N6) | [Barthezz](https://open.spotify.com/artist/2ikrIhCYSKmzCgWb9EM3aT) | [On The Move](https://open.spotify.com/album/76kravzo4UMKQE6Vs112Ai) | 3:36 |
 | 24 | [Don't Stop](https://open.spotify.com/track/0ygoI3HcoGScxt879A23Uk) | [ATB](https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9) | [Movin' Melodies](https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk) | 3:41 |
-| 25 | [Seven Days and One Week \- Radio Edit](https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Seven Days and One Week](https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5) | 4:31 |
-| 26 | [The Launch \- Radio Edit](https://open.spotify.com/track/6FP4peicCGnib7asns71fs) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [The Launch](https://open.spotify.com/album/2mf2kFapmGUkmAVWvjjzr0) | 3:40 |
+| 25 | [The Launch \- Radio Edit](https://open.spotify.com/track/6FP4peicCGnib7asns71fs) | [DJ Jean](https://open.spotify.com/artist/73MDPnjHtoqOexpBNe4FPl) | [The Launch](https://open.spotify.com/album/2mf2kFapmGUkmAVWvjjzr0) | 3:40 |
+| 26 | [Seven Days and One Week \- Radio Edit](https://open.spotify.com/track/47BPp5TPDpl0wCXB0FWXvg) | [BBE](https://open.spotify.com/artist/1Jz17Vwjc2WYOT2MfYG5GO) | [Seven Days and One Week](https://open.spotify.com/album/1WJ0SZdrAvouJXwp6I5Gs5) | 4:31 |
 | 27 | [Ayla Pt\. 2](https://open.spotify.com/track/1hChLdk0hBQbapbpVUVlNa) | [Ayla](https://open.spotify.com/artist/190nhOwQKuDEOv7YKOgnzq) | [Nirwana](https://open.spotify.com/album/01kLROis8vImm0gixW3kq0) | 3:19 |
 | 28 | [Because The Night \(Radio Edit\)](https://open.spotify.com/track/46T7WAIHdt9v6xsqtWU6CH) | [Jan Wayne](https://open.spotify.com/artist/57QfQOhi7oyPiscoWfUSeC) | [Back Again!](https://open.spotify.com/album/5JQuXobnpxRkqE1jovr1N9) | 3:33 |
 | 29 | [Walk on Water \- H2O Radio Mix](https://open.spotify.com/track/6Phug5Bw0QShaFvRMeBVzZ) | [Milk Inc.](https://open.spotify.com/artist/2sgikskblKZFbDpsYO9anB) | [Land Of The Living](https://open.spotify.com/album/4IJCl7EEMVTn9YzqlYtfP7) | 3:12 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 39 | [You](https://open.spotify.com/track/6bzK2GKOYigsZIcjic64pa) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [Sound & Vision](https://open.spotify.com/album/5bufgo4oxHsA6FygJvKFFG) | 3:07 |
 | 40 | [The Heart of the Ocean \- Radio Mix](https://open.spotify.com/track/6cQT6DT7QMkQm9W5IIwlDC) | [Mythos 'N DJ Cosmo](https://open.spotify.com/artist/0i4Dxa9yaEorvpp6Ad5Zkw) | [The Heart of the Ocean](https://open.spotify.com/album/1JaM9Iym0AkNBl9yWON9Rb) | 3:01 |
 | 41 | [Protect Your Mind \(Braveheart\) \- Vocal Mix](https://open.spotify.com/track/1vWbaoRAG0INnakzFlHJb8) | [DJ Sakin & Friends](https://open.spotify.com/artist/7rz2w4y86wgga7Z6nrJKty) | [Protect Your Mind \(Braveheart\)](https://open.spotify.com/album/0s770IMN5qa5eXKmTKLMRS) | 3:39 |
-| 42 | [ALARMA!](https://open.spotify.com/track/5ezKbpPGtVHwUzKo3rdywi) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:25 |
-| 43 | [Bellissima \- Radio Mix](https://open.spotify.com/track/4W8njwKQsbLFj3dZx82DWT) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [I Have a Dream / Bellissima](https://open.spotify.com/album/1cYUo02UWjPEVvMd6pFuSd) | 3:50 |
+| 42 | [Bellissima \- Radio Mix](https://open.spotify.com/track/4W8njwKQsbLFj3dZx82DWT) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [I Have a Dream / Bellissima](https://open.spotify.com/album/1cYUo02UWjPEVvMd6pFuSd) | 3:50 |
+| 43 | [ALARMA!](https://open.spotify.com/track/5ezKbpPGtVHwUzKo3rdywi) | [666](https://open.spotify.com/artist/76TM3QXivQvlLmZxdYxMZr) | [Paradoxx \(Platinum Edition\)](https://open.spotify.com/album/2hziJmkRyETKw5sGzrmm0R) | 3:25 |
 | 44 | [Free](https://open.spotify.com/track/1epnoXa2XpGrQXaKxzrfLb) | [La Cream](https://open.spotify.com/artist/1042GWtxzEb5XrVoUJkiXc) | [Sound & Vision](https://open.spotify.com/album/5bufgo4oxHsA6FygJvKFFG) | 3:10 |
 | 45 | [Follow Me \- Lange's Club Mix](https://open.spotify.com/track/7bbY135gafWRikvA2f9jjA) | [Lange](https://open.spotify.com/artist/0zgmzl8NLEOsqYNOQcSmAA), [The Morrighan](https://open.spotify.com/artist/1MebLqs1g2o2M8bpd55V5S) | [I Believe / Follow Me](https://open.spotify.com/album/41iR854h1WcUuLHSHh6BAv) | 6:32 |
 | 46 | [In My Mind](https://open.spotify.com/track/7FhMo3HBdR6CC5PMBVQoN3) | [Antiloop](https://open.spotify.com/artist/5a2Kj8Jq5yZV1GxUKqCRdK) | [LP](https://open.spotify.com/album/7DItYlCOQS3UKW6scIHoDA) | 3:28 |
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ZtBovtTdHT.md) - [plain]
 | 81 | [Good Time \- Original Mix](https://open.spotify.com/track/1wGjJcVAGual9ZkX3wefXV) | [Peran](https://open.spotify.com/artist/118Lw79OE3nCByRVzSGdD9) | [In Memory of Rr Recordings](https://open.spotify.com/album/1gIuXvgxDSaJozQjuwf84S) | 8:18 |
 | 82 | [Will I \(Extended Mix\)](https://open.spotify.com/track/1FLZTa9FqdMOAi3HL5q0SJ) | [Ian van Dahl](https://open.spotify.com/artist/27IuDZNaLuEtupD8QZftiZ) | [Cantaditas De Luxe Vol.2](https://open.spotify.com/album/0sW0as9QkiOIcN9VUrrgcI) | 6:30 |
 
-Snapshot ID: `MCw1Y2U3NDlkNmY2ODI1NmE0NWFmNmIxYjA0OTFjMDdjYzYwMTYyNjcw`
+Snapshot ID: `MCxmNmQ1NTczMDA3Mzg0MGY1NTQ1ZTBjMjE2ZDJjYjE0NjYwNzA3Yzkx`

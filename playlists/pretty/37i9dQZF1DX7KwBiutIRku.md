@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 
 > Southern boogie, swinging blues rock and classic boogie rock\. Cover: ZZ Top
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,265 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,359 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7KwBiutIRku.md) - [plain]
 | 43 | [Mama Nature Said](https://open.spotify.com/track/3WrQZJy6BagmTtVA1SeLKL) | [Thin Lizzy](https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ) | [Vagabonds Of The Western World](https://open.spotify.com/album/6PR3uEvxJbmBw6zLGIjVtU) | 4:54 |
 | 44 | [It's All Over Now](https://open.spotify.com/track/78H0GpZn9EXwEI6gr2FZUA) | [Rod Stewart](https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT) | [Gasoline Alley](https://open.spotify.com/album/6FaMpsO2fif34ToEu1wLqf) | 6:26 |
 | 45 | [Outlaws](https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR) | [Ronnie Wood](https://open.spotify.com/artist/5HFtQOrPHOFptM1WF9xPuK) | [1234](https://open.spotify.com/album/32XLfDR9uCkCYD4OMHUBDF) | 4:02 |
-| 46 | [7 O'Clock \- 30th Anniversary Version](https://open.spotify.com/track/22JtENh4WNZxFll7qVG5rY) | [The Quireboys](https://open.spotify.com/artist/0d49iRrp4iVZggKbcpxnqI) | [7 O'Clock \(30th Anniversary Version\)](https://open.spotify.com/album/4U4Y79UjbLeePgMRIpNKAt) | 3:43 |
+| 46 | [Whatever You Want](https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Quotable Quo](https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj) | 4:02 |
 | 47 | [Bourbon](https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX) | [Rory Gallagher](https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV) | [Jinx \(Remastered 2017\)](https://open.spotify.com/album/7KoqBVH5VVliVu15CiUOgS) | 3:54 |
-| 48 | [Whatever You Want](https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig) | [Status Quo](https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM) | [Quotable Quo](https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj) | 4:02 |
+| 48 | [7 O'Clock \- 30th Anniversary Version](https://open.spotify.com/track/22JtENh4WNZxFll7qVG5rY) | [The Quireboys](https://open.spotify.com/artist/0d49iRrp4iVZggKbcpxnqI) | [7 O'Clock \(30th Anniversary Version\)](https://open.spotify.com/album/4U4Y79UjbLeePgMRIpNKAt) | 3:43 |
 | 49 | [Keep Playin' That Rock 'n' Roll](https://open.spotify.com/track/0rQf7arPF7Fob1ewkKicL1) | [Edgar Winter's White Trash](https://open.spotify.com/artist/4uOdVRRuTWjJVkcN0LXxwL) | [The Essential Edgar Winter](https://open.spotify.com/album/3a27WqEqhsikCfuxVSq2vW) | 3:44 |
 | 50 | [Midnight To Six Man](https://open.spotify.com/track/7bsZBxsGS4heYtLdBXj6VU) | [The Pretty Things](https://open.spotify.com/artist/5U16QlMnlSAhkQxBZpLyLO) | [Get The Picture?](https://open.spotify.com/album/2FUn94ad2pFHpPCpBJnP1E) | 2:19 |
 
-Snapshot ID: `MCwxNTBiODJmZjdiMDdjNjA2YmUyMTFiMjFlZGQ3ZmY1NzUzOTNlZmIz`
+Snapshot ID: `MCw1Y2VlMzhlNWYxZTg0YjFlMDVjZDAzNDViNTc4YzA2MjU4OWM1YTAw`

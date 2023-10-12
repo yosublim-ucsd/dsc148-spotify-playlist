@@ -4,7 +4,7 @@
 
 > The freshest pop sounds\. Cover: Troye Sivan
 
-1,186 songs - 2 day 11 hr 48 min
+1,187 songs - 2 day 11 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,7 +330,8 @@
 | [Environmental Anxiety.](https://open.spotify.com/track/0Pp2I1kM3JnnyAX2S5jtHG) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 3:14 | 2023-02-03 | 2023-05-20 |
 | [Escape](https://open.spotify.com/track/0mn426FxVilDODhgiAkdd2) | [Nardeccs](https://open.spotify.com/artist/74nG9D3t3DVqtGjkCBc5cR) | [Escape](https://open.spotify.com/album/1TzBxAR9oIbrfW9bjl3n7w) | 3:02 | 2022-04-08 | 2022-06-18 |
 | [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2022-10-14 | 2023-03-18 |
-| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-09-01 |  |
+| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/3YQHgTo0898GHXRC2byH52) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:48 | 2023-10-06 |  |
+| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-09-01 | 2023-10-12 |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-01-27 | 2023-04-07 |
 | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/track/4ABw4YokjGbu3jQ4JRFrQ3) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Every Bottle \(Is My Boyfriend\)](https://open.spotify.com/album/1YWszoYHsF9WamoS9p21GP) | 4:48 | 2022-02-25 | 2022-05-07 |
 | [Every Heart But Mine](https://open.spotify.com/track/3NdrWLR4BsyiCGbQQmuwSL) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [Every Heart But Mine](https://open.spotify.com/album/6vDayREemPdb81FBBGaiX8) | 3:15 | 2023-02-24 | 2023-08-12 |

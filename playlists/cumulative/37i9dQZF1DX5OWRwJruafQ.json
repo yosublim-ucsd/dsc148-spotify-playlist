@@ -944,7 +944,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 144255,
       "name": "Defender",
       "url": "https://open.spotify.com/track/1QGUZ1pSmeJv7U677bSVN9"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 136498,
       "name": "Fame Reimagined",
       "url": "https://open.spotify.com/track/6slt0Km0sIX6pfvao6DklQ"
@@ -1458,6 +1458,36 @@
       "duration_ms": 233571,
       "name": "G-Shit (feat. Blockboi Twitch)",
       "url": "https://open.spotify.com/track/5uuVGnkZEFHBz8unViC3iA"
+    },
+    {
+      "album": {
+        "name": "Gaadi Kaali",
+        "url": "https://open.spotify.com/album/7yK7bMHUHnxzGMosltt4Sk"
+      },
+      "artists": [
+        {
+          "name": "Neha Kakkar",
+          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
+        },
+        {
+          "name": "Rohanpreet Singh",
+          "url": "https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8"
+        },
+        {
+          "name": "Saga Sounds",
+          "url": "https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN"
+        },
+        {
+          "name": "Raees",
+          "url": "https://open.spotify.com/artist/3vZmPeQjoHJ8v2TS5TabSX"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211930,
+      "name": "Gaadi Kaali",
+      "url": "https://open.spotify.com/track/67RCAK7VJ9LPL1nKbO0lQM"
     },
     {
       "album": {
@@ -2328,6 +2358,32 @@
       "duration_ms": 157590,
       "name": "Khadaak",
       "url": "https://open.spotify.com/track/2l4WWoL2e7XL77hT3r4iee"
+    },
+    {
+      "album": {
+        "name": "Khauf (From \"Zindagi Zindabaad\")",
+        "url": "https://open.spotify.com/album/4k5j3g48igjYLTmFGITUSc"
+      },
+      "artists": [
+        {
+          "name": "Ninja",
+          "url": "https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT"
+        },
+        {
+          "name": "Preet Hundal",
+          "url": "https://open.spotify.com/artist/3jbXizgjZpi8FZ9g28wb1c"
+        },
+        {
+          "name": "Pardeep Malak",
+          "url": "https://open.spotify.com/artist/2adVNkNRt1fiCW4vIeK2NO"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198139,
+      "name": "Khauf (From \"Zindagi Zindabaad\")",
+      "url": "https://open.spotify.com/track/4AOblHfneYWvjUl1clwzLU"
     },
     {
       "album": {
@@ -3834,6 +3890,28 @@
       "duration_ms": 153333,
       "name": "Sorry Dad",
       "url": "https://open.spotify.com/track/68OVeyL8exUytFImXPS0pn"
+    },
+    {
+      "album": {
+        "name": "Speedin",
+        "url": "https://open.spotify.com/album/5rytu6XDOtK6JMBK1NmHWi"
+      },
+      "artists": [
+        {
+          "name": "Bir",
+          "url": "https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N"
+        },
+        {
+          "name": "Dhanju",
+          "url": "https://open.spotify.com/artist/3SQVNBF31sOSgXeXzkGW9M"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141682,
+      "name": "Speedin",
+      "url": "https://open.spotify.com/track/5VimYNGccxbDBktl7aNRCS"
     },
     {
       "album": {

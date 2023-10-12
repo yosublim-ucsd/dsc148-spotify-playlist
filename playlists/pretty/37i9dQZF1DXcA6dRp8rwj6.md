@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Drake\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 435,760 likes - 88 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,478 likes - 88 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 87 | [BLESS U](https://open.spotify.com/track/7dTsJAIk5ziK6o0dvDXGLU) | [SKOLOR](https://open.spotify.com/artist/5h8iTRYvWcWxXcDkefed0n), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [BLESS U](https://open.spotify.com/album/17eaa64NwzaBpy30GL7EDx) | 2:13 |
 | 88 | [New World](https://open.spotify.com/track/5fNVWIvaR98FMxiekcVG0J) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [New World](https://open.spotify.com/album/1YQVBUTDuirQSo4ia6SHEq) | 2:43 |
 
-Snapshot ID: `MCxmMDdjYWYzMmMyNDc4NDdjZmVkOTY1NDdhZjY1ZjJhNDg4OTlhZmM0`
+Snapshot ID: `MCw0MDk5NjAyNzk0MDdiMGYzMTNhNjFmMWE0YTVlYWQ5YWIzYzc4N2Vm`

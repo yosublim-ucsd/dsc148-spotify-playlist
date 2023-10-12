@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-323 songs - 18 hr 49 min
+324 songs - 18 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [Earth Meets Water](https://open.spotify.com/track/7zjZ7SOUTlliB60rAdgkYD) | [Rigby](https://open.spotify.com/artist/5K6oqBPwyLKhMWEe5sa5x0) | [Island on Mainland](https://open.spotify.com/album/5NfwnudvRmAD12r6sHd1zr) | 3:22 | 2023-02-23 |  |
 | [Easy](https://open.spotify.com/track/0Ep95NHSRnEPeSNJMNtmzo) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Easy](https://open.spotify.com/album/0fG9xxdKyq4ArHAuucm4oX) | 2:34 | 2023-02-23 |  |
 | [Elephants](https://open.spotify.com/track/0y33xGEGrnMTuHoK8ExbtI) | [Ruben Hein](https://open.spotify.com/artist/2O4jyeF4uyGLsGcjY49zbS) | [De Zwarte Lijst](https://open.spotify.com/album/4mb8ZVI5MmAApY7909j5YK) | 3:30 | 2023-02-23 | 2023-04-26 |
+| [Ella](https://open.spotify.com/track/5RzwjmsN0rQ1yUZcQyvnbV) | [Kreem](https://open.spotify.com/artist/1bJgqusUIvjC3XVlGcdLdD) | [Ella](https://open.spotify.com/album/1v4Sce3MaJwQ8bmcHIE4nG) | 3:42 | 2023-09-07 |  |
 | [Ella](https://open.spotify.com/track/6K6zBaUTbDyLSAVhGSDEl3) | [Kreem](https://open.spotify.com/artist/1bJgqusUIvjC3XVlGcdLdD) | [Ella](https://open.spotify.com/album/3Ks48SHWdrZ8wx8ddHetd6) | 3:42 | 2023-04-25 | 2023-10-07 |
 | [Embrace](https://open.spotify.com/track/3pJHB3hEoZbBQGtodxU0xM) | [Dazzled Kid](https://open.spotify.com/artist/5qxWXQ3Dgux2hrMKN2sz4h) | [Fire Needs Air](https://open.spotify.com/album/2dxp5vmUww5VZpbJVkwZTw) | 2:45 | 2023-04-25 |  |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-02-23 | 2023-04-26 |
@@ -187,7 +188,7 @@
 | [Miracles](https://open.spotify.com/track/5acs33Z7tV5aopOM7LClgL) | [Chef'Special](https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3) | [Miracles](https://open.spotify.com/album/2EhTv5KlLWkNaoVXZnlzAM) | 3:22 | 2023-08-17 |  |
 | [Miracles](https://open.spotify.com/track/6LTULqwZrAFfdzJnsOaEmy) | [Joe Buck](https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh) | [Beste Zangers 2021 \(Joe Buck\)](https://open.spotify.com/album/0VcY5kRBSi02BjPs314Aze) | 2:27 | 2023-02-23 |  |
 | [Mr\. Perfect](https://open.spotify.com/track/0mbHXi8yxRMXJbayDMF6zH) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [396](https://open.spotify.com/album/1oSGbegSlLHm4ibhbFWWik) | 3:07 | 2023-02-23 |  |
-| [My Baby Left Me](https://open.spotify.com/track/2Pz0nvk2bpxZSfoBFdiZuc) | [Rox](https://open.spotify.com/artist/535yDaYpxzTz2T323SM5ro) | [My Baby Left Me](https://open.spotify.com/album/6m5aYJEffiAF6AnSIdpyPT) | 3:33 | 2023-04-25 |  |
+| [My Baby Left Me](https://open.spotify.com/track/2Pz0nvk2bpxZSfoBFdiZuc) | [Rox](https://open.spotify.com/artist/535yDaYpxzTz2T323SM5ro) | [My Baby Left Me](https://open.spotify.com/album/6m5aYJEffiAF6AnSIdpyPT) | 3:33 | 2023-04-25 | 2023-10-12 |
 | [Never Let Me Go](https://open.spotify.com/track/6cC9RY7MoUx5z3aHjDTNI6) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Ceremonials \(Deluxe Edition\)](https://open.spotify.com/album/5SxudoALxEAVh9l83kSebx) | 4:31 | 2023-02-23 | 2023-09-08 |
 | [New Light](https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 3:37 | 2023-02-23 | 2023-04-26 |
 | [New Tattoo](https://open.spotify.com/track/0VDKufeuah4nkAPpIdVxz8) | [Brian Dunne](https://open.spotify.com/artist/3OAxV7SBURDucfRHHQlJ2V) | [New Tattoo](https://open.spotify.com/album/6YpgMfuRYkPRkgAFij0zK2) | 3:31 | 2023-02-23 |  |

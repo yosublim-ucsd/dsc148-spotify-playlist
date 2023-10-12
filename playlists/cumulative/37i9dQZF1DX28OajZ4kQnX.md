@@ -4,7 +4,7 @@
 
 > Kick it with some of the hottest bars from Uganda +256
 
-139 songs - 8 hr 0 min
+140 songs - 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,8 @@
 | [Tv](https://open.spotify.com/track/4DcnGM5mD1Y2QOsywxBMsG) | [Aspika Spoila](https://open.spotify.com/artist/0Rf53WT6ObQ2ysOQyFOkUF) | [GOOD VIBES ONLY](https://open.spotify.com/album/27V62S1APV16vw1MCX8BPl) | 2:29 | 2023-01-20 |  |
 | [Twist the Tongue](https://open.spotify.com/track/4NCdEAjaEq1g44y9jJg7KB) | [Da Agent](https://open.spotify.com/artist/7CC1ueFQOyHQNAuM7nKKrQ) | [Twist the Tongue](https://open.spotify.com/album/2FTNEPfG7iNxL05dUPxoCD) | 3:07 | 2022-09-08 |  |
 | [UG Yaffe \- Allstar Remix](https://open.spotify.com/track/5aVwVbXFiwwkk9u629WTMe) | [Gnl Zamba](https://open.spotify.com/artist/0tEJn5RI5zOHwSlbDkBiDP), [St\. Maxi Mayne](https://open.spotify.com/artist/1Zyxe8LgqlD5vqlMhvZbFd), [Fresh Kid Ug](https://open.spotify.com/artist/0wvkMEzBET0t77C5FqpMKO), [Kadabrah](https://open.spotify.com/artist/0gqRgX0oh889UAIK1ZbZ4v), [Joyie 7 Star](https://open.spotify.com/artist/67HCLPYSrDkA1wwJVxYhnw), [Taurus Mcee](https://open.spotify.com/artist/1xjl5vIGPMtLD5I32Cer3y), [prolific](https://open.spotify.com/artist/7JMyxAnabjblWtHu6NG4yE), [JUDAS RAPKNOWLEDGE DA AKBAR](https://open.spotify.com/artist/3iTi5ruCf9iObKTmoALmhC) | [Uganda Yaffe \(Allstar Remix\)](https://open.spotify.com/album/3yn54C2joXIRWPoSZsdejZ) | 4:09 | 2022-09-08 | 2023-04-01 |
-| [Vexed](https://open.spotify.com/track/0rN3AzAnx0SedfkB1ZzT5g) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Vexed](https://open.spotify.com/album/74JtkXieAwoCrvklPedFsi) | 2:16 | 2023-02-03 |  |
+| [Vexed](https://open.spotify.com/track/0rN3AzAnx0SedfkB1ZzT5g) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Vexed](https://open.spotify.com/album/74JtkXieAwoCrvklPedFsi) | 2:16 | 2023-02-03 | 2023-10-12 |
+| [Vexed](https://open.spotify.com/track/7az3DTSQRpG2cgaG4puG6O) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Vexed](https://open.spotify.com/album/4Qe18ssZaa6QqbSoKFsmr1) | 2:16 | 2023-09-11 |  |
 | [Voices & Vices](https://open.spotify.com/track/71s7xkFT4m4qOS1WUny4QN) | [Xcript](https://open.spotify.com/artist/6MXbmEfhJIKauPuo91Ssr5), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Voices & Vices](https://open.spotify.com/album/2Mnq8tG8vzxnQUdZ877LWp) | 2:50 | 2023-02-03 |  |
 | [Waguan](https://open.spotify.com/track/05zhESBwuLZQwSGVs1sYY0) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Laylizzy](https://open.spotify.com/artist/7b2v2a92dpEbW4PJUSQCml) | [Strength In Numbers](https://open.spotify.com/album/28volG5cNQEUI0U8CdD6DF) | 4:57 | 2023-09-01 | 2023-09-12 |
 | [Walalahoi](https://open.spotify.com/track/3DLbC2AjEcqCvQux6b0Fns) | [Navio](https://open.spotify.com/artist/0itCt7khLTvv5WqlMJwYNQ), [Izzo Business](https://open.spotify.com/artist/336vBcTCmzdcvoihntCJza) | [The Chosen](https://open.spotify.com/album/6xOVc2v6gfvktg2HcjAwZo) | 3:48 | 2023-09-01 | 2023-09-12 |

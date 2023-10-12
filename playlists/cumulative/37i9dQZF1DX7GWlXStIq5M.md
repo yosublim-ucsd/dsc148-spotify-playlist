@@ -4,7 +4,7 @@
 
 > Os hits já consagrados e os novos nomes da cena pop dividindo o mesmo palco!  / Foto: Cynthia Luz
 
-570 songs - 1 day 5 hr 12 min
+571 songs - 1 day 5 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,7 +248,7 @@
 | [Já Era](https://open.spotify.com/track/3A1tt0SbAa8FJAu3SUDcpw) | [Paulla](https://open.spotify.com/artist/5mmVFHD4Yu9gTGXxbcC1Ns), [Kiaz](https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl), [DJ Caetano](https://open.spotify.com/artist/6p8UveMYUHymkyH4rXgpoJ) | [Já Era](https://open.spotify.com/album/5L5tyAQX0cihzOp4d5q2JZ) | 2:36 | 2023-07-28 |  |
 | [Kallidade](https://open.spotify.com/track/2G7vVF2QPQtlnQ7EQntij8) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I) | [Kallidade](https://open.spotify.com/album/3Gs7USQVRZdAUhWgT3EApk) | 2:38 | 2020-10-20 | 2022-07-29 |
 | [Kallidade](https://open.spotify.com/track/2pwQMzlHOxY2EmbOfAo0HM) | [Kalli](https://open.spotify.com/artist/3BD2ifHl4tkgwVU5KIlR5I) | [Kallidade](https://open.spotify.com/album/1DsFHJEjWom0U0tfUcXYfs) | 2:39 | 2020-10-20 | 2023-02-15 |
-| [Karma](https://open.spotify.com/track/1bI9r5cGAL2D1GqOON37Gg) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY) | [DARK POP](https://open.spotify.com/album/6cFlWu1S2B4Xc0CB5gMS2A) | 2:48 | 2023-09-22 |  |
+| [Karma](https://open.spotify.com/track/1bI9r5cGAL2D1GqOON37Gg) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [KING Saints](https://open.spotify.com/artist/6EErJIzXBBSWY7MkH3OaYY) | [DARK POP](https://open.spotify.com/album/6cFlWu1S2B4Xc0CB5gMS2A) | 2:48 | 2023-09-22 | 2023-10-12 |
 | [Kenny G](https://open.spotify.com/track/3MkdA6vwF0ifRl86yzTlJW) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8) | [Kenny G](https://open.spotify.com/album/6dXKy9X9o0HpcF0YZjaWOa) | 3:09 | 2020-10-20 | 2023-02-15 |
 | [KIKADAUM](https://open.spotify.com/track/04aZsWuQFUxRRY0hp4T3Kd) | [Júlia Rezende](https://open.spotify.com/artist/4ROjaB2Qac8zgm7PAdI4hE) | [KIKADAUM](https://open.spotify.com/album/56ZeH3Mh7cfCh7kG1ysyzQ) | 2:55 | 2023-02-14 | 2023-03-11 |
 | [Kyoto](https://open.spotify.com/track/32XOaqmQqFWggQzrwGSuRn) | [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Alaska](https://open.spotify.com/artist/1D8yVlgOfpn6lW5UfwOMj7) | [Kyoto](https://open.spotify.com/album/60ye625Zeu700pj82Zgx5q) | 3:06 | 2020-10-20 | 2022-07-29 |
@@ -561,6 +561,7 @@
 | [Viver Não É Fácil](https://open.spotify.com/track/6buSH6iPzl8aLxULGCyqP0) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R) | [Viver Não É Fácil](https://open.spotify.com/album/4E8UaGCzrc81dToAd5y1CW) | 2:44 | 2023-03-03 | 2023-04-15 |
 | [Vivência](https://open.spotify.com/track/7cMulHRah8jqosQED5JV6Z) | [Ramonzin](https://open.spotify.com/artist/46cY4jGxAkRuMxXhtMue8Q), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Vivência](https://open.spotify.com/album/2klsPVX6aIZhAwHuevOiSB) | 3:50 | 2020-10-20 | 2022-07-25 |
 | [Você Não Ama Ninguém 2](https://open.spotify.com/track/1luax01sYxCLiM5uVk0oBj) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Hunter](https://open.spotify.com/artist/20yao3GcKuVqdY7S6MAj0n) | [Você Não Ama Ninguém 2](https://open.spotify.com/album/3kyX8jVxbADyuFAZ6eU26T) | 5:00 | 2020-10-20 | 2022-07-28 |
+| [Você Não Sabe Amar](https://open.spotify.com/track/1oUksabtI48IdGhcBkzjHn) | [Cleo](https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx), [CHAMELEO](https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0) | [DARK POP](https://open.spotify.com/album/34Cq3Hc8acmmyF4Np0Bs1a) | 2:26 | 2023-10-06 |  |
 | [Você se foi](https://open.spotify.com/track/7FApxGdL1suhFLn8YwBryf) | [Thalicia](https://open.spotify.com/artist/48GcDaOEfFSpjdQ9F7YjGz) | [Você se foi](https://open.spotify.com/album/2l7rPaP9LrW5toO0XJvncX) | 2:35 | 2023-02-14 | 2023-04-09 |
 | [Você É Um Perigo](https://open.spotify.com/track/1V9ON0iJZSpcmGPQUZ58Qd) | [Priscilla Alcantara](https://open.spotify.com/artist/4jkOEd7kQE6UyiXnuQy9pa) | [Você Aprendeu A Amar?](https://open.spotify.com/album/1Qr92jXvQmVjgO7qZAzWe4) | 3:05 | 2023-02-14 | 2023-06-24 |
 | [VOU EMBORA DO BRASIL](https://open.spotify.com/track/5ygrahq0FKZNLq42SD6eM0) | [SANTIN](https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF) | [VOU EMBORA DO BRASIL](https://open.spotify.com/album/3wg47ueNPOFLMeGaAXDFnD) | 2:57 | 2023-02-14 | 2023-04-09 |

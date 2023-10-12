@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs\. Cover: Yudhveer Dagar
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,794 likes - 58 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,922 likes - 58 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 |
+| 1 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 |
 | 2 | [Gym](https://open.spotify.com/track/57UMuOrnuEohn3TR6ZfJ0j) | [Armaan Malik](https://open.spotify.com/artist/3pibkVeMCi8twOlUWQGieI) | [Gym](https://open.spotify.com/album/6Txxy3cBUhTAoCJOxv7r5b) | 2:16 |
 | 3 | [Target 2](https://open.spotify.com/track/6TiXW1QTLAoRGqFmIw2SgL) | [Mavrix](https://open.spotify.com/artist/3ivej5P51jgZiJKDNfZd11), [Duhan Muzic](https://open.spotify.com/artist/2uuKzuZ3JZXuMhUkYyS0xz) | [Target 2](https://open.spotify.com/album/7MwOyeoMdqiA2SJYXLMahp) | 2:30 |
 | 4 | [Gym De Shokeen](https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [Gym De Shokeen](https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b) | 3:45 |
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 9 | [Fitness](https://open.spotify.com/track/1HzObZPrlMd5qZuTVm2VND) | [Gagan Haryanvi](https://open.spotify.com/artist/4ytVJDy173fPLx97Ww84JW), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [Fitness \- Single](https://open.spotify.com/album/6tJpPIreOaW2MNeo3zwq0U) | 4:00 |
 | 10 | [The Villagers](https://open.spotify.com/track/2x7iprCTkTR7WcTRkCLFBr) | [Sumit Goswami](https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM), [Jerry](https://open.spotify.com/artist/68hoiPmCjy1S0Ioe0l1lT7) | [The Villagers](https://open.spotify.com/album/5VRPx5fbREQVJ9lNApySLV) | 3:03 |
 | 11 | [Banda 2 Numbri](https://open.spotify.com/track/0U1QaF0SEwqSugoqMrOu1k) | [Raj Mawer](https://open.spotify.com/artist/2ygqIXEM1r7RaEn9PrbML2), [Fiza Choudhary](https://open.spotify.com/artist/2mMUQGaKHQGZieMXnJpHiB), [R K Crew](https://open.spotify.com/artist/6QQcSyntyILnDWvSZmnoVT) | [Banda 2 Numbri](https://open.spotify.com/album/7dkaPHQKE9BrttpGDcGkQr) | 2:49 |
-| 12 | [Yaari](https://open.spotify.com/track/1GgE8OLZdV6X8vemSbGc0B) | [Md Desi Rockstar](https://open.spotify.com/artist/18mQeYIkQo3eQmHvwm4BDm), [Bunny Beats](https://open.spotify.com/artist/16FYhIBIBDW43AIviL9T4A) | [Yaari](https://open.spotify.com/album/4PZ0HxYICGGRROf4mM8UlN) | 2:29 |
+| 12 | [Yaari](https://open.spotify.com/track/1GgE8OLZdV6X8vemSbGc0B) | [MD DesiRockstar](https://open.spotify.com/artist/5j28WuraZ1QL8A3IXruKU0), [Bunny Beats](https://open.spotify.com/artist/16FYhIBIBDW43AIviL9T4A) | [Yaari](https://open.spotify.com/album/4PZ0HxYICGGRROf4mM8UlN) | 2:29 |
 | 13 | [Mucha Aale Tag](https://open.spotify.com/track/3AcqkjDa0WTD0IlmALWiB6) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck) | [Mucha Aale Tag](https://open.spotify.com/album/1voI6OoJtnFjfPQrwnLM4W) | 3:23 |
 | 14 | [Permit Badmashi Ka](https://open.spotify.com/track/4LNFYpktI8O0y9H20Bh5xU) | [RK Crew](https://open.spotify.com/artist/5F6yXom1OtJEXonwTvHsaw), [Mohit Sharma](https://open.spotify.com/artist/6Nzqi199UwJFiHQ6Rgc3j1), [Aashu Twinkle](https://open.spotify.com/artist/4FRJTLxHjNzFyPBzAAsNhQ) | [Permit Badmashi Ka](https://open.spotify.com/album/41xz0NFiekwYRNgAeLibQM) | 2:44 |
 | 15 | [Inaam](https://open.spotify.com/track/51O38IidoQaQ8XwIoJZ4fw) | [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Manisha Sharma](https://open.spotify.com/artist/0zVGGSBVti6Dx67hJstvSf) | [Inaam](https://open.spotify.com/album/5xhWijw7nDOj8OodK0fa1e) | 3:04 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 57 | [Raosahab](https://open.spotify.com/track/1OkSGjNN37znjSZd7LwrzB) | [Fazilpuria](https://open.spotify.com/artist/4oaJL0V5asQDh4sqplTVhX) | [Raosahab](https://open.spotify.com/album/64V6bH51CIBl9GLaxipZHK) | 2:52 |
 | 58 | [This is Haryana](https://open.spotify.com/track/3K0HbRxcEZoPH7jE7VDltd) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp) | [This is Haryana](https://open.spotify.com/album/39lfhZMC6uszJC2VoB5XhH) | 3:28 |
 
-Snapshot ID: `MCw3ODY4MWFiZTUyZTFkMDZiYTU2OTBlMjk1NmI3ZTZiYTVlODJjMTZk`
+Snapshot ID: `MCxlN2Y5YTM0MTJiZjY5OGExYzc5M2U2MDZjYjVjMzQ0NTlmNWM1OGM1`

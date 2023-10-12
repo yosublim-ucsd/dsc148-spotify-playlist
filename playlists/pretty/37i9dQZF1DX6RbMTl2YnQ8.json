@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del rock en espa\u00f1ol en la d\u00e9cada de los 2000. \n\n",
-  "num_followers": 198285,
+  "num_followers": 198436,
   "original_name": "Rock en Espa\u00f1ol: Los 2000",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZDQyMjhjYjc2YWZhMTBjZjgzZjViOTcwMGFmYWRiMjM0ZjhiNTYw",
+  "snapshot_id": "MCwwMDU5MjA3YjA2MzE2ZDFmMGU2ZDhkMDU3ZDlmMmY5NDhmZDZmMzE3",
   "tracks": [
     {
       "added_at": "2022-07-06 19:51:55",
@@ -271,18 +271,18 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Vicentico",
-        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
+        "name": "Amar Es Combatir",
+        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
       },
       "artists": [
         {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
         }
       ],
-      "duration_ms": 218440,
-      "name": "Algo Contigo",
-      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
+      "duration_ms": 317626,
+      "name": "Labios Compartidos",
+      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -303,18 +303,18 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Amar Es Combatir",
-        "url": "https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB"
+        "name": "Vicentico",
+        "url": "https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo"
       },
       "artists": [
         {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
         }
       ],
-      "duration_ms": 317626,
-      "name": "Labios Compartidos",
-      "url": "https://open.spotify.com/track/4C2zOFgrXxfNGNpYQWIcaH"
+      "duration_ms": 218440,
+      "name": "Algo Contigo",
+      "url": "https://open.spotify.com/track/4zsDA31stWMtLveU61hejd"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -563,22 +563,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Honestidad Brutal",
-        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Te quiero igual",
-      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "Revoluci\u00f3n De Amor",
         "url": "https://open.spotify.com/album/6HrRHewMLfZLSkwJyZgr3V"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 264599,
       "name": "Mariposa Traicionera",
       "url": "https://open.spotify.com/track/0Pjsm4AaJGPOXHoB6xCgJB"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Honestidad Brutal",
+        "url": "https://open.spotify.com/album/4OZincs6XqlfEuKEFtpq1Y"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Te quiero igual",
+      "url": "https://open.spotify.com/track/7qIw4D1PcDHigDohKkLB0W"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -695,22 +695,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Inspector",
-        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 215680,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "Monitor",
         "url": "https://open.spotify.com/album/4HTEL3Aof6nEnNLGrnUtdB"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 237760,
       "name": "Monitor",
       "url": "https://open.spotify.com/track/7on4qNO1Iu5EX61mD80Cgv"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Inspector",
+        "url": "https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 215680,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc"
     },
     {
       "added_at": "2022-07-06 19:51:55",
@@ -779,22 +779,6 @@
     {
       "added_at": "2022-07-06 19:51:55",
       "album": {
-        "name": "Compa\u00f1eros Musicales",
-        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 206600,
-      "name": "Esta Noche",
-      "url": "https://open.spotify.com/track/2HZ9lGdprVT5XpOUf12h4z"
-    },
-    {
-      "added_at": "2022-07-06 19:51:55",
-      "album": {
         "name": "Memo Rex Commander y el Coraz\u00f3n At\u00f3mico de la V\u00eda L\u00e1ctea",
         "url": "https://open.spotify.com/album/1aHxOwnGJWLSB2KfiUPoZG"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 248133,
       "name": "V\u00eda L\u00e1ctea",
       "url": "https://open.spotify.com/track/1nquycJ4zLhrT23rwtH5Wj"
+    },
+    {
+      "added_at": "2022-07-06 19:51:55",
+      "album": {
+        "name": "Compa\u00f1eros Musicales",
+        "url": "https://open.spotify.com/album/5Hr76OES2ZCR3rwONS7nlw"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 206600,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/2HZ9lGdprVT5XpOUf12h4z"
     },
     {
       "added_at": "2022-07-06 19:51:55",

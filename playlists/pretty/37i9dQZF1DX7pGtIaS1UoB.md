@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 
 > 這些有節奏有溫度的情歌，能讓你時時刻刻都有在幸福中遊走的感覺。
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,189 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,033 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 12 | [1022\-比尔的歌](https://open.spotify.com/track/1fXKSGhgHn8NBnVbTf5tLb) | [Bomb比尔](https://open.spotify.com/artist/3Sb1u6CGLCWHHphMqX326E) | [1022\-比尔的歌](https://open.spotify.com/album/6uPkF6GAHYNWBMpt9x3oRN) | 3:15 |
 | 13 | [這樣就很好](https://open.spotify.com/track/2uXU9BDz57vdTP5TH59WwL) | [Nicky Lee](https://open.spotify.com/artist/6DuHQk8gJbyVlhajer8IuF) | [這樣就很好](https://open.spotify.com/album/44f7VzZPF39ukPXolBDSb8) | 3:26 |
 | 14 | [小星星](https://open.spotify.com/track/0FSDCkh1BDyK6sJvIwFTZM) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [慢慢懂](https://open.spotify.com/album/3YDLDCvLYWIEQYJqdeK3Ho) | 3:16 |
-| 15 | [热爱105°C的你](https://open.spotify.com/track/5RKWxItZvYY9wtKJuy2Hb7) | [A Si](https://open.spotify.com/artist/4yamiVzQPYBb02ceSu0jaI) | [热爱105°C的你](https://open.spotify.com/album/2KSk7OlWpkp6oiKXJyq4kB) | 3:15 |
-| 16 | [好喜歡你](https://open.spotify.com/track/0uvjPVyOj050b6n60pxf2z) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [好喜歡你](https://open.spotify.com/album/0AxUxvZfoCud7qsk9TGcqp) | 4:27 |
+| 15 | [好喜歡你](https://open.spotify.com/track/0uvjPVyOj050b6n60pxf2z) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [好喜歡你](https://open.spotify.com/album/0AxUxvZfoCud7qsk9TGcqp) | 4:27 |
+| 16 | [热爱105°C的你](https://open.spotify.com/track/5RKWxItZvYY9wtKJuy2Hb7) | [A Si](https://open.spotify.com/artist/4yamiVzQPYBb02ceSu0jaI) | [热爱105°C的你](https://open.spotify.com/album/2KSk7OlWpkp6oiKXJyq4kB) | 3:15 |
 | 17 | [我多喜歡你,你會知道\(網劇<致我們單純的小美好>推廣曲\)](https://open.spotify.com/track/221FBKC22DTc7XkPIaZYOl) | [Wang Jun Qi](https://open.spotify.com/artist/4PQnqdTaKkIjsPTbIqNcub) | [我多喜歡你,你會知道\(網劇<致我們單純的小美好>推廣曲\)](https://open.spotify.com/album/0nELe45M3v4oeUuxKR9noj) | 3:19 |
 | 18 | [有何不可](https://open.spotify.com/track/5rXBmcYNJYMYdhwxlMLh0s) | [許嵩](https://open.spotify.com/artist/2hgxWUG24w1cFLBlPSEVcV) | [自定義](https://open.spotify.com/album/0OfgDIAou9mTshlocs9hXD) | 4:00 |
 | 19 | [星晴](https://open.spotify.com/track/4VWn7L2kONeMEQ6cAIfzXC) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [杰倫](https://open.spotify.com/album/0yS6jOCvKaY6KfJ1Cpc7FZ) | 4:16 |
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 29 | [等你下課](https://open.spotify.com/track/76WthWB0v0KXUHZoAclMVV) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql), [Gary Yang](https://open.spotify.com/artist/4iFznCrxI2nlVer46cgvWG) | [等你下課](https://open.spotify.com/album/6cGDAwmjAE5i2a9fIY6Cu8) | 4:30 |
 | 30 | [黏黏 \(feat\. 許瑋甯\)](https://open.spotify.com/track/5AnzBfbZ7G88EQqIO5uxFL) | [Eric Chou](https://open.spotify.com/artist/5fEQLwq1BWWQNR8GzhOIvi), [許瑋甯](https://open.spotify.com/artist/0bzVqWAANIcEyvwoR78szB) | [如果雨之後](https://open.spotify.com/album/63lCCebNDe20nxyCvFWk8g) | 4:05 |
 | 31 | [万有引力](https://open.spotify.com/track/7qZzCq7IxhKKZA4tIrYxxy) | [F\*yy](https://open.spotify.com/artist/5DORd6wqwGAQxaoIgGbVtE) | [万有引力](https://open.spotify.com/album/55cnNNhAHp5JQx3fV8XqnX) | 4:03 |
-| 32 | [今天陽光就是特別耀眼特別和諧 feat\. 韋禮安](https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 3:06 |
-| 33 | [美](https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [美](https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG) | 2:24 |
+| 32 | [美](https://open.spotify.com/track/7637Rypif3OgNpr8EZoCnf) | [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [美](https://open.spotify.com/album/2AnHAP4FN9Edjt3ZHGPkVG) | 2:24 |
+| 33 | [今天陽光就是特別耀眼特別和諧 feat\. 韋禮安](https://open.spotify.com/track/6qnSA1GSwRtgHCqaD1jQin) | [Pets Tseng](https://open.spotify.com/artist/1he19XnDUahODrmRwKlC8w), [WeiBird](https://open.spotify.com/artist/7y3HnWCFEvWj4KM9GFSkiX) | [今天陽光就是特別耀眼特別和諧](https://open.spotify.com/album/2QREzTJk3ddhLIxoiLRveT) | 3:06 |
 | 34 | [爱上你](https://open.spotify.com/track/4hcNpo1rtbzyNswsM5byTf) | [S.H.E](https://open.spotify.com/artist/2lWShxOL8iTlI0pmtVKvEh) | [SHERO](https://open.spotify.com/album/2Ct96tdzvZzNwsC6shl9tG) | 4:01 |
 | 35 | [小时光](https://open.spotify.com/track/6R3HSoob9oDK60aNFDkOtE) | [胡期皓](https://open.spotify.com/artist/7LWH3zy213l4E37464t1CO) | [小时光](https://open.spotify.com/album/4JNSZfS5N1L2eXSkanU0Cu) | 2:35 |
 | 36 | [畫沙](https://open.spotify.com/track/7F92rki4H1RZ68OrOZQy4u) | [Cindy Yen](https://open.spotify.com/artist/3IXhSUXNXO7Z6GnYufgpKR), [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [袁詠琳Cindy](https://open.spotify.com/album/78Z0qzLySqPuRvisCrVqhP) | 4:33 |
 | 37 | [理想情人](https://open.spotify.com/track/36nY8znTqPiL2MTCLkK0sZ) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [曖昧](https://open.spotify.com/album/2gqDiNvkKI7S4BNsrULQSk) | 4:22 |
-| 38 | [陪我看日出](https://open.spotify.com/track/54vBDYCulMrXboGiXiABXD) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [日出](https://open.spotify.com/album/4Imutb6AFFjGa7fh9AAUK2) | 4:20 |
+| 38 | [你是我心內的一首歌 \(feat\. Selina\)](https://open.spotify.com/track/7i2ReN7TSLlQKjvwiMEDIN) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt), [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [改變自己](https://open.spotify.com/album/1lxlQW182pklrfpD93faq1) | 2:46 |
 | 39 | [Mojito](https://open.spotify.com/track/2J42jKkwGqiRsxUYh7FMTm) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [最偉大的作品](https://open.spotify.com/album/1rBr9FeLlp5ueSKtE89FZa) | 3:05 |
 | 40 | [Let me love u](https://open.spotify.com/track/4CZaAPfc74YaIPBEMFCKXH) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Take Off \- The 1st Mini Album](https://open.spotify.com/album/7IzPpfu5gInokmyg2rDhRL) | 3:46 |
-| 41 | [你是我心內的一首歌 \(feat\. Selina\)](https://open.spotify.com/track/7i2ReN7TSLlQKjvwiMEDIN) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt), [Selina](https://open.spotify.com/artist/322fcjb9quEAxAXtmWyNeJ) | [改變自己](https://open.spotify.com/album/1lxlQW182pklrfpD93faq1) | 2:46 |
+| 41 | [陪我看日出](https://open.spotify.com/track/54vBDYCulMrXboGiXiABXD) | [Joi Chua](https://open.spotify.com/artist/7aoSiqJj23B6at0hTVobbg) | [日出](https://open.spotify.com/album/4Imutb6AFFjGa7fh9AAUK2) | 4:20 |
 | 42 | [想說](https://open.spotify.com/track/5Wisct6F7PgfIyIsosbfhY) | [颜人中](https://open.spotify.com/artist/5PNcqs6EtD6gSXgUiiJIUU) | [想說](https://open.spotify.com/album/4N3jk5k52Pql3QuZQv5n5T) | 3:20 |
 | 43 | [靠近一點點](https://open.spotify.com/track/01cO3ZfjGwlY7nMDDr5tDZ) | [Lara Liang](https://open.spotify.com/artist/4VgfrD5wuAoN428fBZNSyW) | [惡作劇之吻](https://open.spotify.com/album/13JpgLyP8ZDyAtsRllAaGe) | 3:33 |
 | 44 | [分你一半](https://open.spotify.com/track/70MwLRAYlFW3UITQ2xs3mh) | [叶恨水](https://open.spotify.com/artist/49HlthiYzE9b9yePyfiPSD) | [分你一半](https://open.spotify.com/album/77fC1pfTOy2RZz0hy8BWMj) | 3:19 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 48 | [Only Have Feelings For You](https://open.spotify.com/track/4MSLBloiWadnbyMJepxfsT) | [Fahrenheit](https://open.spotify.com/artist/12JKvbMl7cQqmtumTZTT3g) | [Fahrenheit](https://open.spotify.com/album/4wGcUak2adE4WFF4E8k0DD) | 3:59 |
 | 49 | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/track/4yJIECgIOgowfgAkPyvo2c) | [YELLOW黃宣](https://open.spotify.com/artist/6iUs0Aijnu60VAAf8Aj2YM) | [一天 \(電視劇《想見你》插曲\)](https://open.spotify.com/album/0gvJLsBulK413oR9BJTOUM) | 4:08 |
 | 50 | [能不能](https://open.spotify.com/track/6wpxE5Ct76YiakKjCpngXb) | [吴映香](https://open.spotify.com/artist/1Fo0Se0PLcgVkmOIo4l9ZI) | [能不能](https://open.spotify.com/album/1HlMDH8SvrxeUxFmBNoZX4) | 2:55 |
-| 51 | [Melody](https://open.spotify.com/track/6GnvrHsBX77fnYTgJtMcti) | [Kipes](https://open.spotify.com/artist/3sQ4YHF0SRgQTNEswO8KTf), [Ziv](https://open.spotify.com/artist/3YURVpnxVzqFYUTIy5HqcO) | [Melody](https://open.spotify.com/album/5wvfJhLN1Md0D9Ygu9c5ZY) | 3:57 |
-| 52 | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/track/43NcYYApDgwXliG1xWaG8h) | [楊紫](https://open.spotify.com/artist/0DN5jjffBgjiDE1REvAzFR) | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/album/0bh7YEKdIKMFbQPQCyKsgX) | 3:28 |
+| 51 | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/track/43NcYYApDgwXliG1xWaG8h) | [楊紫](https://open.spotify.com/artist/0DN5jjffBgjiDE1REvAzFR) | [牛奶麵包 \(電視劇《親愛的, 熱愛的》片尾曲\)](https://open.spotify.com/album/0bh7YEKdIKMFbQPQCyKsgX) | 3:28 |
+| 52 | [Melody](https://open.spotify.com/track/6GnvrHsBX77fnYTgJtMcti) | [Kipes](https://open.spotify.com/artist/3sQ4YHF0SRgQTNEswO8KTf), [Ziv](https://open.spotify.com/artist/3YURVpnxVzqFYUTIy5HqcO) | [Melody](https://open.spotify.com/album/5wvfJhLN1Md0D9Ygu9c5ZY) | 3:57 |
 | 53 | [左边](https://open.spotify.com/track/16nxkgxMYayeSct6XY4SmW) | [小包](https://open.spotify.com/artist/70GgkbQstBRQJLwJsKADnC) | [左边](https://open.spotify.com/album/3l0aC2xHOJaDF9EWLeJQpx) | 3:02 |
 | 54 | [氧化氢](https://open.spotify.com/track/2D4N00Ouvj4GxUEsE6ht0B) | [李尖尖](https://open.spotify.com/artist/6Vn7mFBllddgTwUeGDXKVs) | [氧化氢](https://open.spotify.com/album/21ZxcTSff8GoFutdIzzCoL) | 2:15 |
 | 55 | [Thoughts Of You \(Feat\. pH\-1 & BENZO\)](https://open.spotify.com/track/3NVsaXCV8RR8VGZzZlXuVX) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [李大奔](https://open.spotify.com/artist/5sF2WUeEL2qiV03Vym3727) | [Thoughts Of You](https://open.spotify.com/album/2ZXNtjobXsbWgzcRlYGaPx) | 3:44 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 62 | [心动决定](https://open.spotify.com/track/5HACRqAqNYbtDObqji9H0r) | [叶琼琳](https://open.spotify.com/artist/4FDdIfrqDV9VCZS237ozYz), [黃禮格](https://open.spotify.com/artist/3VTDEKywxLJxC3WXJIGVGu) | [心动决定](https://open.spotify.com/album/2RDmFXCdQh0lJOPh67BzTv) | 3:23 |
 | 63 | [在我們的星球眼淚不超過三秒](https://open.spotify.com/track/37U4HQfGjWZpmXVfSbbgdy) | [鄧福如 AFÜ](https://open.spotify.com/artist/7hJBfmab67blVoqZBIAx13) | [在我們的星球眼淚不超過三秒](https://open.spotify.com/album/5yZZ5qRvkPok40amVzuV2l) | 3:29 |
 | 64 | [愛上未來的你](https://open.spotify.com/track/3bUYcpibCAUQe0O9ZERqTl) | [Will Pan](https://open.spotify.com/artist/7fCFxj1GCRqwFZEP4iJRw0) | [我的麥克風](https://open.spotify.com/album/4MYmTwirh8mfdWZxVa9mgX) | 4:01 |
-| 65 | [美丽的妳](https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D), [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF) | [美丽的妳](https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC) | 3:09 |
-| 66 | [Supernova](https://open.spotify.com/track/3MX3siuJV6BYItMyoR050h) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx), [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR) | [Supernova](https://open.spotify.com/album/3gP71Ti8Dvqt1LWNdkPOqd) | 3:12 |
+| 65 | [Supernova](https://open.spotify.com/track/3MX3siuJV6BYItMyoR050h) | [OHMYMEITING](https://open.spotify.com/artist/5ejbZdon0riCxa7GyJNEAx), [MFMF.](https://open.spotify.com/artist/4VyJgkmyclZOaiKFmqX9jR) | [Supernova](https://open.spotify.com/album/3gP71Ti8Dvqt1LWNdkPOqd) | 3:12 |
+| 66 | [美丽的妳](https://open.spotify.com/track/2T6AYvsD39QIoIBafh2RHt) | [3P](https://open.spotify.com/artist/3NSGCBkfj6hEhXQhytRg4D), [Caven Tang](https://open.spotify.com/artist/2r8u5K7CZG6Kz3sDebwwOF) | [美丽的妳](https://open.spotify.com/album/0MRXsldEX64PtfesY4c0JC) | 3:09 |
 | 67 | [一整个爱住你](https://open.spotify.com/track/7qS8UCNhleIWbdiPVntVNm) | [陈一彤](https://open.spotify.com/artist/1QRNCzU7Xci4JwbwqfnD2d) | [一整个爱住你](https://open.spotify.com/album/1dSG6cHr8dCZCLzVvpWmDt) | 3:27 |
 | 68 | [海绵宝宝](https://open.spotify.com/track/71dfmgOUiooQLv7ty0utOO) | [Silence Wang](https://open.spotify.com/artist/0PdNEiQ3MsJGCEgE13Tz60) | [海绵宝宝](https://open.spotify.com/album/5W7iavXoJXfMRL9rhTQWCi) | 3:18 |
 | 69 | [取暖 \(新传媒电视剧《只此一家》主题曲\)](https://open.spotify.com/track/6uC4jSmhIlbfVoc0ximADq) | [Tay Kewei](https://open.spotify.com/artist/7CEGCiUDMO8Xr257mqIJl2), [Alfred Sim](https://open.spotify.com/artist/3epKmTu8QPqArqY6gEVfyS) | [取暖 \(新传媒电视剧《只此一家》主题曲\)](https://open.spotify.com/album/7Ho01QKUccrusKrE4hXGLk) | 3:46 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pGtIaS1UoB.md) - [plain]
 | 74 | [星星都聽懂 \(W劇場《因為你如此耀眼》插曲\)](https://open.spotify.com/track/5uvleLnm4RYiJvoMwZtziI) | [九澤CP](https://open.spotify.com/artist/7JRMSnpii2F9B7JlqRGiYR) | [星星都聽懂](https://open.spotify.com/album/7JBgAdKg5VOiQAf0d0jX0s) | 3:08 |
 | 75 | [兩隻戀人](https://open.spotify.com/track/16MADi2KjVZgwshXXnCysN) | [Gary Chaw](https://open.spotify.com/artist/1mfzcypCggFwpCJ1gmi8BK) | [SUPERMAN](https://open.spotify.com/album/2n7gL0RbyATH41IgxEIqWN) | 4:04 |
 
-Snapshot ID: `MCw0YTEyZmY2ZDhlNDI4NDdiOTdjZDEzOTBmNjk3MWFmNThkZWY2ZjM4`
+Snapshot ID: `MCxkY2Y5MDI4NmQxZWU2MjM3YzZkZDVlNmIzNTk3NTUwNDk4MDFlYzAz`

@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1970s. \n",
-  "num_followers": 5217963,
+  "num_followers": 5216276,
   "original_name": "All Out 70s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3N2Y4OGRjZjY1NWFmZDA2MGM2NjM1ZWUzZTkwYjE2MWM3ZDA0YjU4",
+  "snapshot_id": "MCxhYmRjOTNkY2M0NDIzOTA4MzRmMDI3N2MyMTU0M2I2NTM4ZGYzNjE3",
   "tracks": [
     {
       "added_at": "2023-10-09 23:54:32",
@@ -675,22 +675,6 @@
     {
       "added_at": "2023-10-09 23:54:32",
       "album": {
-        "name": "Madman Across The Water",
-        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 377093,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
-    },
-    {
-      "added_at": "2023-10-09 23:54:32",
-      "album": {
         "name": "Reggatta De Blanc (Remastered 2003)",
         "url": "https://open.spotify.com/album/2EpuND32cO7CX0gXZl2NB6"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 187866,
       "name": "Imagine - Remastered 2010",
       "url": "https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9"
+    },
+    {
+      "added_at": "2023-10-09 23:54:32",
+      "album": {
+        "name": "Madman Across The Water",
+        "url": "https://open.spotify.com/album/2OZbaW9tgO62ndm375lFZr"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 377093,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/2TVxnKdb3tqe1nhQWwwZCO"
     },
     {
       "added_at": "2023-10-09 23:54:32",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-09 23:54:32",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 193346,
-      "name": "Don't Stop - 2004 Remaster",
-      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
-    },
-    {
-      "added_at": "2023-10-09 23:54:32",
-      "album": {
         "name": "Even In The Quietest Moments",
         "url": "https://open.spotify.com/album/4X87hQ57jTYQTcYTaJWK5w"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 248173,
       "name": "Give A Little Bit",
       "url": "https://open.spotify.com/track/6XUHsYE38CEbYunT983O9G"
+    },
+    {
+      "added_at": "2023-10-09 23:54:32",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 193346,
+      "name": "Don't Stop - 2004 Remaster",
+      "url": "https://open.spotify.com/track/4bEb3KE4mSKlTFjtWJQBqO"
     },
     {
       "added_at": "2023-10-09 23:54:32",
@@ -819,6 +819,22 @@
     {
       "added_at": "2023-10-09 23:54:32",
       "album": {
+        "name": "Talking Heads '77 (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+      },
+      "artists": [
+        {
+          "name": "Talking Heads",
+          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+        }
+      ],
+      "duration_ms": 261413,
+      "name": "Psycho Killer - 2005 Remaster",
+      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+    },
+    {
+      "added_at": "2023-10-09 23:54:32",
+      "album": {
         "name": "Kaya",
         "url": "https://open.spotify.com/album/13dXX35pYjr8FqRla40K2a"
       },
@@ -835,18 +851,18 @@
     {
       "added_at": "2023-10-09 23:54:32",
       "album": {
-        "name": "Talking Heads '77 (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN"
+        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
+        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
       },
       "artists": [
         {
-          "name": "Talking Heads",
-          "url": "https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 261413,
-      "name": "Psycho Killer - 2005 Remaster",
-      "url": "https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL"
+      "duration_ms": 254293,
+      "name": "Starman - 2012 Remaster",
+      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
     },
     {
       "added_at": "2023-10-09 23:54:32",
@@ -871,18 +887,18 @@
     {
       "added_at": "2023-10-09 23:54:32",
       "album": {
-        "name": "The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster)",
-        "url": "https://open.spotify.com/album/48D1hRORqJq52qsnUYZX56"
+        "name": "Chicago X",
+        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Chicago",
+          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
         }
       ],
-      "duration_ms": 254293,
-      "name": "Starman - 2012 Remaster",
-      "url": "https://open.spotify.com/track/0pQskrTITgmCMyr85tb9qq"
+      "duration_ms": 235373,
+      "name": "If You Leave Me Now",
+      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
     },
     {
       "added_at": "2023-10-09 23:54:32",
@@ -919,22 +935,6 @@
     {
       "added_at": "2023-10-09 23:54:32",
       "album": {
-        "name": "Chicago X",
-        "url": "https://open.spotify.com/album/4asBn7hzIq2Ka7rDzJN24P"
-      },
-      "artists": [
-        {
-          "name": "Chicago",
-          "url": "https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0"
-        }
-      ],
-      "duration_ms": 235373,
-      "name": "If You Leave Me Now",
-      "url": "https://open.spotify.com/track/0KMGxYKeUzK9wc5DZCt3HT"
-    },
-    {
-      "added_at": "2023-10-09 23:54:32",
-      "album": {
         "name": "Piano Man (Legacy Edition)",
         "url": "https://open.spotify.com/album/69wjSAZXZiD2EBia3b3gxL"
       },
@@ -947,22 +947,6 @@
       "duration_ms": 339000,
       "name": "Piano Man",
       "url": "https://open.spotify.com/track/70C4NyhjD5OZUMzvWZ3njJ"
-    },
-    {
-      "added_at": "2023-10-09 23:54:32",
-      "album": {
-        "name": "Toys In The Attic",
-        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 220310,
-      "name": "Walk This Way",
-      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
     },
     {
       "added_at": "2023-10-09 23:54:32",
@@ -983,6 +967,22 @@
     {
       "added_at": "2023-10-09 23:54:32",
       "album": {
+        "name": "Toys In The Attic",
+        "url": "https://open.spotify.com/album/6As5aOEQjfxLIChIB3fQRD"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 220310,
+      "name": "Walk This Way",
+      "url": "https://open.spotify.com/track/4JfuiOWlWCkjP6OKurHjSn"
+    },
+    {
+      "added_at": "2023-10-09 23:54:32",
+      "album": {
         "name": "No Secrets",
         "url": "https://open.spotify.com/album/79x0PRGIZv33znrCkPkCZ5"
       },
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-10-09 23:54:32",
       "album": {
-        "name": "Partners In Crime",
-        "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
-      },
-      "artists": [
-        {
-          "name": "Rupert Holmes",
-          "url": "https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj"
-        }
-      ],
-      "duration_ms": 276493,
-      "name": "Escape (The Pina Colada Song)",
-      "url": "https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"
-    },
-    {
-      "added_at": "2023-10-09 23:54:32",
-      "album": {
         "name": "Agents Of Fortune",
         "url": "https://open.spotify.com/album/6C9WzlQANeoD0GW5B41YJt"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 308120,
       "name": "(Don't Fear) The Reaper",
       "url": "https://open.spotify.com/track/5QTxFnGygVM4jFQiBovmRo"
+    },
+    {
+      "added_at": "2023-10-09 23:54:32",
+      "album": {
+        "name": "Partners In Crime",
+        "url": "https://open.spotify.com/album/163iYwl7Kdm9ayTnD4VyfN"
+      },
+      "artists": [
+        {
+          "name": "Rupert Holmes",
+          "url": "https://open.spotify.com/artist/0TqIPD4IS1w4e30R38B3vj"
+        }
+      ],
+      "duration_ms": 276493,
+      "name": "Escape (The Pina Colada Song)",
+      "url": "https://open.spotify.com/track/5IMtdHjJ1OtkxbGe4zfUxQ"
     },
     {
       "added_at": "2023-10-09 23:54:32",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-10-09 23:54:32",
       "album": {
-        "name": "Dancing in the Moonlight",
-        "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
-      },
-      "artists": [
-        {
-          "name": "King Harvest",
-          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
-        }
-      ],
-      "duration_ms": 181133,
-      "name": "Dancing in the Moonlight",
-      "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
-    },
-    {
-      "added_at": "2023-10-09 23:54:32",
-      "album": {
         "name": "Breakfast In America (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1zcm3UvHNHpseYOUfd0pna"
       },
@@ -1271,18 +1255,18 @@
     {
       "added_at": "2023-10-09 23:54:32",
       "album": {
-        "name": "Exodus",
-        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+        "name": "Dancing in the Moonlight",
+        "url": "https://open.spotify.com/album/2W5SVDEBlGqHYqt5sa9PnA"
       },
       "artists": [
         {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+          "name": "King Harvest",
+          "url": "https://open.spotify.com/artist/5FHwr1FymaS5kutIEK6e2y"
         }
       ],
-      "duration_ms": 211000,
-      "name": "Jamming",
-      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
+      "duration_ms": 181133,
+      "name": "Dancing in the Moonlight",
+      "url": "https://open.spotify.com/track/0q21FNwES2bbtcduB6kjEU"
     },
     {
       "added_at": "2023-10-09 23:54:32",
@@ -1299,6 +1283,22 @@
       "duration_ms": 371413,
       "name": "Heroes - 2017 Remaster",
       "url": "https://open.spotify.com/track/7Jh1bpe76CNTCgdgAdBw4Z"
+    },
+    {
+      "added_at": "2023-10-09 23:54:32",
+      "album": {
+        "name": "Exodus",
+        "url": "https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Jamming",
+      "url": "https://open.spotify.com/track/5LyfiK6iXEIBNEtcaGKohl"
     },
     {
       "added_at": "2023-10-09 23:54:32",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-10-09 23:54:32",
       "album": {
-        "name": "Slowhand 35th Anniversary (Super Deluxe)",
-        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "Wonderful Tonight",
-      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
-    },
-    {
-      "added_at": "2023-10-09 23:54:32",
-      "album": {
         "name": "Elvis (Fool)",
         "url": "https://open.spotify.com/album/3gpHiNAmT5oXVxe6ewTGuN"
       },
@@ -1367,18 +1351,18 @@
     {
       "added_at": "2023-10-09 23:54:32",
       "album": {
-        "name": "Tom Petty & The Heartbreakers",
-        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+        "name": "Slowhand 35th Anniversary (Super Deluxe)",
+        "url": "https://open.spotify.com/album/5MAL7e4EnKXW1hFg6NbFqP"
       },
       "artists": [
         {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 214733,
-      "name": "American Girl",
-      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
+      "duration_ms": 225026,
+      "name": "Wonderful Tonight",
+      "url": "https://open.spotify.com/track/6zC0mpGYwbNTpk9SKwh08f"
     },
     {
       "added_at": "2023-10-09 23:54:32",
@@ -1411,6 +1395,22 @@
       "duration_ms": 174760,
       "name": "Love Grows (Where My Rosemary Goes)",
       "url": "https://open.spotify.com/track/5Ts1DYOuouQLgzTaisxWYh"
+    },
+    {
+      "added_at": "2023-10-09 23:54:32",
+      "album": {
+        "name": "Tom Petty & The Heartbreakers",
+        "url": "https://open.spotify.com/album/6TLTd0P2CUI0Q29AQ1LyFi"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 214733,
+      "name": "American Girl",
+      "url": "https://open.spotify.com/track/7MRyJPksH3G2cXHN8UKYzP"
     },
     {
       "added_at": "2023-10-09 23:54:32",
@@ -1495,6 +1495,22 @@
     {
       "added_at": "2023-10-09 23:54:32",
       "album": {
+        "name": "Get The Knack",
+        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
+      },
+      "artists": [
+        {
+          "name": "The Knack",
+          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
+        }
+      ],
+      "duration_ms": 295400,
+      "name": "My Sharona",
+      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
+    },
+    {
+      "added_at": "2023-10-09 23:54:32",
+      "album": {
         "name": "Bridge Over Troubled Water",
         "url": "https://open.spotify.com/album/0JwHz5SSvpYWuuCNbtYZoV"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 274746,
       "name": "Rebel Rebel - 2016 Remaster",
       "url": "https://open.spotify.com/track/2EC9IJj7g0mN1Q5VrZkiYY"
-    },
-    {
-      "added_at": "2023-10-09 23:54:32",
-      "album": {
-        "name": "Get The Knack",
-        "url": "https://open.spotify.com/album/6H0wsYDvFlATzXHn0IqVpi"
-      },
-      "artists": [
-        {
-          "name": "The Knack",
-          "url": "https://open.spotify.com/artist/0Nn9YwJzcaeuU1jJL06e3r"
-        }
-      ],
-      "duration_ms": 295400,
-      "name": "My Sharona",
-      "url": "https://open.spotify.com/track/1HOMkjp0nHMaTnfAkslCQj"
     },
     {
       "added_at": "2023-10-09 23:54:32",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2023-10-09 23:54:32",
       "album": {
+        "name": "London Calling (Remastered)",
+        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
+      },
+      "artists": [
+        {
+          "name": "The Clash",
+          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "London Calling - Remastered",
+      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
+    },
+    {
+      "added_at": "2023-10-09 23:54:32",
+      "album": {
         "name": "Grease (The Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5n47Dui0H3pGpZSOxITmoq"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 169840,
       "name": "You're The One That I Want - From \u201cGrease\u201d",
       "url": "https://open.spotify.com/track/0B9x2BRHqj3Qer7biM3pU3"
-    },
-    {
-      "added_at": "2023-10-09 23:54:32",
-      "album": {
-        "name": "London Calling (Remastered)",
-        "url": "https://open.spotify.com/album/6FCzvataOZh68j8OKzOt9a"
-      },
-      "artists": [
-        {
-          "name": "The Clash",
-          "url": "https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "London Calling - Remastered",
-      "url": "https://open.spotify.com/track/5jzma6gCzYtKB1DbEwFZKH"
     },
     {
       "added_at": "2023-10-09 23:54:32",
@@ -2211,22 +2211,6 @@
     {
       "added_at": "2023-10-09 23:54:32",
       "album": {
-        "name": "What's Going On",
-        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 233000,
-      "name": "What's Going On",
-      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
-    },
-    {
-      "added_at": "2023-10-09 23:54:32",
-      "album": {
         "name": "Baby I'm-a Want You",
         "url": "https://open.spotify.com/album/5OlNb8PMZXFkhhtSrhLuO5"
       },
@@ -2239,6 +2223,22 @@
       "duration_ms": 187000,
       "name": "Everything I Own",
       "url": "https://open.spotify.com/track/52VIdyKqp1pJRSyUQaxKUA"
+    },
+    {
+      "added_at": "2023-10-09 23:54:32",
+      "album": {
+        "name": "What's Going On",
+        "url": "https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "What's Going On",
+      "url": "https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l"
     },
     {
       "added_at": "2023-10-09 23:54:32",

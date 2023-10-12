@@ -1,12 +1,12 @@
 {
   "description": "A playback of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624\">Mood Ring</a>\u2019s all-stars. Cover: Nonso Amadi, Majid Jordan",
-  "num_followers": 7381,
+  "num_followers": 7396,
   "original_name": "R&B Rewind",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ODczM2E5ZjExYWFiNjQ0NGRkOThmYzI3MTJkYTVjNDYwYjRiNDZj",
+  "snapshot_id": "MCxhNjkxNTE5MjIxYjhmOTViMjQ5YTk1YTc3NTkyZjdjMjExZjMwYzQw",
   "tracks": [
     {
       "added_at": "2023-10-06 04:01:34",
@@ -955,18 +955,18 @@
     {
       "added_at": "2023-10-06 04:01:34",
       "album": {
-        "name": "Video Games",
-        "url": "https://open.spotify.com/album/3YGJzBM5MTgaFyJ4KUi1jQ"
+        "name": "Mixed Emotions",
+        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
       },
       "artists": [
         {
-          "name": "Sun",
-          "url": "https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At"
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
         }
       ],
-      "duration_ms": 220820,
-      "name": "Video Games",
-      "url": "https://open.spotify.com/track/7yyYmGQXSyrH7kLALSTFjg"
+      "duration_ms": 158737,
+      "name": "Touch You",
+      "url": "https://open.spotify.com/track/1eloKbVFeduo6qxp7xqhQ0"
     },
     {
       "added_at": "2023-10-06 04:01:34",
@@ -987,18 +987,18 @@
     {
       "added_at": "2023-10-06 04:01:34",
       "album": {
-        "name": "Mixed Emotions",
-        "url": "https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ"
+        "name": "Video Games",
+        "url": "https://open.spotify.com/album/3YGJzBM5MTgaFyJ4KUi1jQ"
       },
       "artists": [
         {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+          "name": "Sun",
+          "url": "https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At"
         }
       ],
-      "duration_ms": 158737,
-      "name": "Touch You",
-      "url": "https://open.spotify.com/track/1eloKbVFeduo6qxp7xqhQ0"
+      "duration_ms": 220820,
+      "name": "Video Games",
+      "url": "https://open.spotify.com/track/7yyYmGQXSyrH7kLALSTFjg"
     },
     {
       "added_at": "2023-10-06 04:01:34",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-10-06 04:01:34",
       "album": {
-        "name": "Proverb",
-        "url": "https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK"
-      },
-      "artists": [
-        {
-          "name": "Dylan Sinclair",
-          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
-        }
-      ],
-      "duration_ms": 201601,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w"
-    },
-    {
-      "added_at": "2023-10-06 04:01:34",
-      "album": {
         "name": "BLOOD",
         "url": "https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 123966,
       "name": "BLOOD",
       "url": "https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6"
+    },
+    {
+      "added_at": "2023-10-06 04:01:34",
+      "album": {
+        "name": "Proverb",
+        "url": "https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK"
+      },
+      "artists": [
+        {
+          "name": "Dylan Sinclair",
+          "url": "https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx"
+        }
+      ],
+      "duration_ms": 201601,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w"
     },
     {
       "added_at": "2023-10-06 04:01:34",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2023-10-06 04:01:34",
       "album": {
-        "name": "Welcome to the Wildfire",
-        "url": "https://open.spotify.com/album/7hi77eGIFqKdpj5U71BhJM"
+        "name": "The Night Before The Morning After",
+        "url": "https://open.spotify.com/album/2Jp7UxZewhRXrvcSvz37b1"
       },
       "artists": [
         {
-          "name": "K. Forest",
-          "url": "https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol"
+          "name": "11:11",
+          "url": "https://open.spotify.com/artist/5gsyao2Qm21EKylbVIuRQ3"
         }
       ],
-      "duration_ms": 160052,
-      "name": "Bad Neighbors",
-      "url": "https://open.spotify.com/track/0lYElfgYvfNJfwevdPd3tY"
+      "duration_ms": 166716,
+      "name": "Treat",
+      "url": "https://open.spotify.com/track/6MvKjnEdkPf3ijc27z1RWR"
     }
   ],
   "unique_name": "R&B Rewind",

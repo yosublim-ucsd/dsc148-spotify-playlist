@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 
 > Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses\. Cover : Anuradha Pal
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,135 likes - 47 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,148 likes - 47 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 29 | [Mumbai](https://open.spotify.com/track/3k1k17JeC4M7GF8r61e3TF) | [Music Of Tabla](https://open.spotify.com/artist/0wahNugOBYRMEypMFpJBC4) | [Indian Tabla Meditations](https://open.spotify.com/album/7rnUrBXRGF2ZlHNbS9nPiE) | 4:32 |
 | 30 | [Tablas for Positive Vibes](https://open.spotify.com/track/3fhePrmxijriT9SBe7MSUt) | [Tabla Pakuri](https://open.spotify.com/artist/48y0vBY229c01VeLOC6HvF) | [Tabla Meditation: Tabla Music for Meditation, Indian Meditation Songs with Drums and Flute](https://open.spotify.com/album/57ryRbSVcgL2e5MQs4GCa5) | 5:06 |
 | 31 | [Tani Avartanam](https://open.spotify.com/track/0bfmfkz53UD4H5h1fv4vKw) | [Alla Rakha](https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj), [Zakir Hussain](https://open.spotify.com/artist/6DDCjHWtL6jTl1B5wG8tF6) | [Shared Moments](https://open.spotify.com/album/6XvAfY61M0XBOVAps5ysYP) | 8:46 |
-| 32 | [Raag Bhupal Todi](https://open.spotify.com/track/4vZXN5gsRpEcsDJdIwTJJJ) | [Kamalesh Maitra](https://open.spotify.com/artist/3QumuwOoJQCbexmiDt9s51) | [The World's Musical Traditions, Vol\. 10: Tabla Tarang\-\-Melody on Drums](https://open.spotify.com/album/0DJueTg43GmAiEKG50wAIJ) | 9:48 |
-| 33 | [Tab Tabla](https://open.spotify.com/track/5gI2h5xKSnoLHNCqu9tBsI) | [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Dum Tak Revolution, Vol\. 3](https://open.spotify.com/album/2Xo9AxbcXYeu1bOcYo9SPs) | 4:13 |
+| 32 | [Tab Tabla](https://open.spotify.com/track/5gI2h5xKSnoLHNCqu9tBsI) | [Khader Ahmad](https://open.spotify.com/artist/5rlJh1FezH9DdbjUvNcjFg) | [Dum Tak Revolution, Vol\. 3](https://open.spotify.com/album/2Xo9AxbcXYeu1bOcYo9SPs) | 4:13 |
+| 33 | [Raag Bhupal Todi](https://open.spotify.com/track/4vZXN5gsRpEcsDJdIwTJJJ) | [Kamalesh Maitra](https://open.spotify.com/artist/3QumuwOoJQCbexmiDt9s51) | [The World's Musical Traditions, Vol\. 10: Tabla Tarang\-\-Melody on Drums](https://open.spotify.com/album/0DJueTg43GmAiEKG50wAIJ) | 9:48 |
 | 34 | [Tabla Solo \- Taal Rupak](https://open.spotify.com/track/5cdhZYN3heCcIaZyyj4nWs) | [Nayan Ghosh](https://open.spotify.com/artist/5kk5TShwoM4mlhJWFqGeCF), [Ishaan Ghosh](https://open.spotify.com/artist/6wyqjy0sSEo1nosRslokLL) | [Synergy](https://open.spotify.com/album/4SnossBXBAwj2DtVPNH2jt) | 5:48 |
 | 35 | [Ecstasy](https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h) | [Anuradha Pal](https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT) | [Get Recharged!!!](https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL) | 6:48 |
 | 36 | [Tabla Solo, Pt\. 1](https://open.spotify.com/track/26ZkZdnCJCtUGYftsx1HPl) | [K\. Shruthi Raj](https://open.spotify.com/artist/6zr6WfjrK1ZVWryFpJ3Yog), [A\. Kiran Kumar](https://open.spotify.com/artist/2Shi7KJal6btqCgTCVC3F1), [Saravanan](https://open.spotify.com/artist/4XdHGSJ3fJ8CKvE1fwWjq1) | [Authentic India: Indian Percussion](https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO) | 2:33 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX83Qd1EZ6qTs.md) - [plain]
 | 46 | [Tabla](https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur) | [Jnan Prakash Ghosh](https://open.spotify.com/artist/6qFxz6UtYnStlnIiXbhJYg) | [Drums Of India \- Pt\. Jnan Prakash Ghosh](https://open.spotify.com/album/7zm1sLnuaWn5mEuuplPtrT) | 12:51 |
 | 47 | [Blue Curry](https://open.spotify.com/track/1H9o3KJZSNhJURgywmZwkS) | [Bhangra Beats](https://open.spotify.com/artist/2BozhfzPEFME4tBKO8PSjv) | [Blue Curry](https://open.spotify.com/album/3KeLxy9vd1vB3N0IRvLqmt) | 2:32 |
 
-Snapshot ID: `MCwwMmFjMzQ3OTI3OTM4MDc0Njk0NDk3NTBkNGMyZjkxYTA2ZWE3NjZm`
+Snapshot ID: `MCxmY2RmZjBlYzBmZWQ1OTNkY2VjMWIwMjI5ZWYwYzQ1MzM5NjM2OTRl`

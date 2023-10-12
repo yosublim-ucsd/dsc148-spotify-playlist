@@ -1,12 +1,12 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 416461,
+  "num_followers": 416459,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxODA5ZDdjMzQ4NmE5NDgxNTJiOGFmYzQ5Y2FkOGY0MjYzNjJiMDdl",
+  "snapshot_id": "MCxkMGM3ZjA0YjRjMjliZTJlZTFiYjQxMTQyMTM1ODU1MGI5ZGJiNDA4",
   "tracks": [
     {
       "added_at": "2021-08-25 20:28:57",
@@ -233,10 +233,10 @@
       "url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
     },
     {
-      "added_at": "2021-08-25 20:28:57",
+      "added_at": "2022-04-13 19:43:54",
       "album": {
-        "name": "JORDI (Deluxe)",
-        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
+      "duration_ms": 189960,
+      "name": "Maps",
+      "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -413,10 +413,10 @@
       "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
+      "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+        "name": "JORDI (Deluxe)",
+        "url": "https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
         }
       ],
-      "duration_ms": 189960,
-      "name": "Maps",
-      "url": "https://open.spotify.com/track/4gbVRS8gloEluzf0GzDOFc"
+      "duration_ms": 189486,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Raise Your Glass",
-        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
-      },
-      "artists": [
-        {
-          "name": "P!nk",
-          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
-        }
-      ],
-      "duration_ms": 202960,
-      "name": "Raise Your Glass",
-      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "In The Lonely Hour",
         "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 167065,
       "name": "Like I Can",
       "url": "https://open.spotify.com/track/2TeLIzFBe3hxkPR5FIQZut"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Raise Your Glass",
+        "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
+      },
+      "artists": [
+        {
+          "name": "P!nk",
+          "url": "https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR"
+        }
+      ],
+      "duration_ms": 202960,
+      "name": "Raise Your Glass",
+      "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
     },
     {
       "added_at": "2021-09-24 04:01:00",
@@ -1165,22 +1165,6 @@
       "url": "https://open.spotify.com/track/1kPpge9JDLpcj15qgrPbYX"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Shower",
-        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 206166,
-      "name": "Shower",
-      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Love Goes",
@@ -1199,6 +1183,22 @@
       "duration_ms": 171029,
       "name": "Dancing With A Stranger (with Normani)",
       "url": "https://open.spotify.com/track/3xgT3xIlFGqZjYW9QlhJWp"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Shower",
+        "url": "https://open.spotify.com/album/4JlzEvVJqpb62Xwc0EmOHr"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 206166,
+      "name": "Shower",
+      "url": "https://open.spotify.com/track/3DmW6y7wTEYHJZlLo1r6XJ"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1253,6 +1253,22 @@
       "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
     },
     {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "The Lumineers",
+        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 163133,
+      "name": "Ho Hey",
+      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
+    },
+    {
       "added_at": "2021-10-15 04:01:00",
       "album": {
         "name": "MONTERO",
@@ -1275,38 +1291,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "The Lumineers",
-        "url": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 163133,
-      "name": "Ho Hey",
-      "url": "https://open.spotify.com/track/0W4Kpfp1w2xkY3PrV714B7"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "I Don't Care (with Justin Bieber)",
         "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "4",
-        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Unapologetic (Edited Version)",
         "url": "https://open.spotify.com/album/0T23GvNaBUGtMKxZko8LQG"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 225146,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1z9kQ14XBSN0r2v6fx4IdG"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "4",
+        "url": "https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/1z6WtY7X4HQJvzxC4UgkSf"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1843,30 +1843,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
-      },
-      "artists": [
-        {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
-        }
-      ],
-      "duration_ms": 203122,
-      "name": "Skate",
-      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Slide (feat. Frank Ocean & Migos)",
         "url": "https://open.spotify.com/album/1UIlzhqJLiA3f6OVw7QKn6"
       },
@@ -1887,6 +1863,30 @@
       "duration_ms": 230813,
       "name": "Slide (feat. Frank Ocean & Migos)",
       "url": "https://open.spotify.com/track/6gpcs5eMhJwax4mIfKDYQk"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+      },
+      "artists": [
+        {
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+        }
+      ],
+      "duration_ms": 203122,
+      "name": "Skate",
+      "url": "https://open.spotify.com/track/7jvCeWOSnJs2N3spqobWnO"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Always in Between (Deluxe)",
+        "url": "https://open.spotify.com/album/7GCY1J01hcEpdgeY0vtSsN"
+      },
+      "artists": [
+        {
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/4r1CoAATVuxag55Ct3Y1aX"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Man of the Woods",
         "url": "https://open.spotify.com/album/01l3jTY261V3CESZR4dABz"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 278893,
       "name": "Say Something (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/1LhMopPAallLeaeNutqbgS"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Always in Between (Deluxe)",
-        "url": "https://open.spotify.com/album/7GCY1J01hcEpdgeY0vtSsN"
-      },
-      "artists": [
-        {
-          "name": "Jess Glynne",
-          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/4r1CoAATVuxag55Ct3Y1aX"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -2087,6 +2087,22 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "My Type EP",
+        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
+      },
+      "artists": [
+        {
+          "name": "Saint Motel",
+          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
+        }
+      ],
+      "duration_ms": 204811,
+      "name": "My Type",
+      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "STELLA & STEVE",
         "url": "https://open.spotify.com/album/3ZJSoxsPMkNC9eb6gUn0Q8"
       },
@@ -2103,22 +2119,6 @@
       "duration_ms": 223480,
       "name": "Supalonely",
       "url": "https://open.spotify.com/track/4nK5YrxbMGZstTLbvj6Gxw"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "My Type EP",
-        "url": "https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr"
-      },
-      "artists": [
-        {
-          "name": "Saint Motel",
-          "url": "https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV"
-        }
-      ],
-      "duration_ms": 204811,
-      "name": "My Type",
-      "url": "https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3087,22 +3087,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Honey In The Summer",
-        "url": "https://open.spotify.com/album/4vZYGQJhnkjfludP1dDZ1s"
-      },
-      "artists": [
-        {
-          "name": "PUBLIC",
-          "url": "https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Honey In The Summer",
-      "url": "https://open.spotify.com/track/69KERH8EU5P2VwxWlmOVcU"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "The Pains Of Growing",
         "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
       },
@@ -3115,6 +3099,22 @@
       "duration_ms": 199746,
       "name": "Trust My Lonely",
       "url": "https://open.spotify.com/track/7eXT7U3FKrOM88xr1DsNwc"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Honey In The Summer",
+        "url": "https://open.spotify.com/album/4vZYGQJhnkjfludP1dDZ1s"
+      },
+      "artists": [
+        {
+          "name": "PUBLIC",
+          "url": "https://open.spotify.com/artist/4vxaQs6vK54nK89J1VtLex"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Honey In The Summer",
+      "url": "https://open.spotify.com/track/69KERH8EU5P2VwxWlmOVcU"
     },
     {
       "added_at": "2021-08-25 20:28:57",

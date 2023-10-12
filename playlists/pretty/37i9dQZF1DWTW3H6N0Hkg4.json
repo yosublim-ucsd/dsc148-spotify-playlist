@@ -1,12 +1,12 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 204277,
+  "num_followers": 204444,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzN2FlZGVkYzY3ODM4YzBjMzVjODc1OGE0M2EzZjc5OTI2NTE1ZjEx",
+  "snapshot_id": "MCw4MzRmYzRlZjIyOTgyYWRmM2I3ZTQ3YzliMjAzNTJmN2NmMDFhMjll",
   "tracks": [
     {
       "added_at": "2022-12-07 21:09:44",
@@ -659,18 +659,18 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "El Color De Tu Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+        "name": "No Te Voy A Perdonar, Vol. 4",
+        "url": "https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW"
       },
       "artists": [
         {
-          "name": "Grupo Red",
-          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
         }
       ],
-      "duration_ms": 190760,
-      "name": "Amor De Adolescentes",
-      "url": "https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD"
+      "duration_ms": 232609,
+      "name": "No Te Voy a Perdonar",
+      "url": "https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "No Te Voy A Perdonar, Vol. 4",
-        "url": "https://open.spotify.com/album/4zubVCFvqzBn6tPZN7GtLW"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        }
-      ],
-      "duration_ms": 232609,
-      "name": "No Te Voy a Perdonar",
-      "url": "https://open.spotify.com/track/5Jvj2fZKKcmV2ASQfnhTzg"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "El Condor Legendario",
         "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 266866,
       "name": "El Diario De Un Borracho",
       "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "El Color De Tu Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/4i5dZPh3Yu4S4F4CAu0LRv"
+      },
+      "artists": [
+        {
+          "name": "Grupo Red",
+          "url": "https://open.spotify.com/artist/7zGKMkRT4IMLgAJmFhf5cz"
+        }
+      ],
+      "duration_ms": 190760,
+      "name": "Amor De Adolescentes",
+      "url": "https://open.spotify.com/track/5v1umyExZ3id6U0RtHrHcD"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Tesoros De Coleccion",
-        "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
-      },
-      "artists": [
-        {
-          "name": "Sonora Tropicana",
-          "url": "https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs"
-        }
-      ],
-      "duration_ms": 247000,
-      "name": "El Hombre Que Yo Amo",
-      "url": "https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "20 Cumbias Andinas",
         "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 230133,
       "name": "Coraz\u00f3n Adolorido",
       "url": "https://open.spotify.com/track/1v4Wl2u2I5LFSYbjfy3M8s"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Tesoros De Coleccion",
+        "url": "https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn"
+      },
+      "artists": [
+        {
+          "name": "Sonora Tropicana",
+          "url": "https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs"
+        }
+      ],
+      "duration_ms": 247000,
+      "name": "El Hombre Que Yo Amo",
+      "url": "https://open.spotify.com/track/3bukaSKEeFiyYx9JfgiqYf"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Se Nos Paso La Mano En Sabor",
-        "url": "https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares y Su Grupo",
-          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "Ag\u00fcita De Mel\u00f3n",
-      "url": "https://open.spotify.com/track/67RNKBsqRiyMOtor2RxfWR"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "El Aut\u00e9ntico e Imbatible",
         "url": "https://open.spotify.com/album/2wNHVSeBDQLAl1WT8tBw62"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 205213,
       "name": "En septiembre fuiste mia",
       "url": "https://open.spotify.com/track/0ZEg8E3mddYWsQXdcOniLI"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Se Nos Paso La Mano En Sabor",
+        "url": "https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares y Su Grupo",
+          "url": "https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "Ag\u00fcita De Mel\u00f3n",
+      "url": "https://open.spotify.com/track/67RNKBsqRiyMOtor2RxfWR"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "Puros Vatos...Choca Y Rebota",
-        "url": "https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe"
-      },
-      "artists": [
-        {
-          "name": "Chicos de Barrio",
-          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
-        }
-      ],
-      "duration_ms": 273893,
-      "name": "Mentirosa (Eres Mentirosa)",
-      "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "Ni Juana la Cubana",
         "url": "https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "M\u00fasica Sin Limites - Tropical",
-        "url": "https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp"
+        "name": "Puros Vatos...Choca Y Rebota",
+        "url": "https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe"
       },
       "artists": [
         {
-          "name": "Internacional Carro Show",
-          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
+          "name": "Chicos de Barrio",
+          "url": "https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X"
         }
       ],
-      "duration_ms": 161520,
-      "name": "Amor De Unas Horas",
-      "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
+      "duration_ms": 273893,
+      "name": "Mentirosa (Eres Mentirosa)",
+      "url": "https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1571,6 +1555,22 @@
       "duration_ms": 240953,
       "name": "Traicion Y Olvido",
       "url": "https://open.spotify.com/track/0Wwi4wK5m9CDxzDcqYFY7A"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "M\u00fasica Sin Limites - Tropical",
+        "url": "https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp"
+      },
+      "artists": [
+        {
+          "name": "Internacional Carro Show",
+          "url": "https://open.spotify.com/artist/7xOvjCKtJ2rjrclwvqZXqt"
+        }
+      ],
+      "duration_ms": 161520,
+      "name": "Amor De Unas Horas",
+      "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1603,6 +1603,22 @@
       "duration_ms": 192120,
       "name": "El Soy Yo",
       "url": "https://open.spotify.com/track/3GYyjWrmZF5GVKDs4iUkh0"
+    },
+    {
+      "added_at": "2022-12-30 17:21:35",
+      "album": {
+        "name": "Por Encima de Todos",
+        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
+      },
+      "artists": [
+        {
+          "name": "Sensacion Latina",
+          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
+        }
+      ],
+      "duration_ms": 287896,
+      "name": "En Mi Escritorio (La Carta)",
+      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1683,22 +1699,6 @@
       "duration_ms": 193146,
       "name": "Juana la Cubana",
       "url": "https://open.spotify.com/track/4QJ3RDrv5WQBDP36IoLqDh"
-    },
-    {
-      "added_at": "2022-12-30 17:21:35",
-      "album": {
-        "name": "Por Encima de Todos",
-        "url": "https://open.spotify.com/album/3oU1cOrdFNJayzA9kY70DG"
-      },
-      "artists": [
-        {
-          "name": "Sensacion Latina",
-          "url": "https://open.spotify.com/artist/0t4U97R9dS4uYMAvlb7J1e"
-        }
-      ],
-      "duration_ms": 287896,
-      "name": "En Mi Escritorio (La Carta)",
-      "url": "https://open.spotify.com/track/67gv7qQLwSAxOQHfXBv6Bm"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2022-12-07 21:09:44",
       "album": {
-        "name": "La fuerza del amor",
-        "url": "https://open.spotify.com/album/2tYNffVWlffaeMgveN2bh3"
-      },
-      "artists": [
-        {
-          "name": "Santamarta",
-          "url": "https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB"
-        }
-      ],
-      "duration_ms": 264179,
-      "name": "Una hoja en blanco",
-      "url": "https://open.spotify.com/track/18B1N1bw2A1v4FABZQzrsa"
-    },
-    {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
         "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
         "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 157115,
       "name": "Cumbia de la Cadenita",
       "url": "https://open.spotify.com/track/0s3rFFNwIf23TG4q3JTDbZ"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "La fuerza del amor",
+        "url": "https://open.spotify.com/album/2tYNffVWlffaeMgveN2bh3"
+      },
+      "artists": [
+        {
+          "name": "Santamarta",
+          "url": "https://open.spotify.com/artist/4O1lKl5yU8I0laT5XnVZjB"
+        }
+      ],
+      "duration_ms": 264179,
+      "name": "Una hoja en blanco",
+      "url": "https://open.spotify.com/track/18B1N1bw2A1v4FABZQzrsa"
     },
     {
       "added_at": "2022-12-07 21:09:44",
@@ -1829,22 +1829,6 @@
       "url": "https://open.spotify.com/track/5JqBZgb6jGf3QONcEn40bZ"
     },
     {
-      "added_at": "2022-12-07 21:09:44",
-      "album": {
-        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
-        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
-      },
-      "artists": [
-        {
-          "name": "Impacto De Montemorelos",
-          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Dejenla Que Baile",
-      "url": "https://open.spotify.com/track/6sPin3aCx0NAVtYtIE4Ev9"
-    },
-    {
       "added_at": "2022-12-30 17:21:35",
       "album": {
         "name": "30 Exitos de Oro 30, Vol. 1",
@@ -1859,6 +1843,22 @@
       "duration_ms": 243565,
       "name": "Enamorada de un Amigo Mio",
       "url": "https://open.spotify.com/track/3z2T45ct8degaDYLsbQyBw"
+    },
+    {
+      "added_at": "2022-12-07 21:09:44",
+      "album": {
+        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
+        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
+      },
+      "artists": [
+        {
+          "name": "Impacto De Montemorelos",
+          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Dejenla Que Baile",
+      "url": "https://open.spotify.com/track/6sPin3aCx0NAVtYtIE4Ev9"
     },
     {
       "added_at": "2022-12-07 21:09:44",

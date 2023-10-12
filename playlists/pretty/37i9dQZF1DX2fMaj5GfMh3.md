@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 
 > Bea deze week op de cover van Fresh Pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,258 likes - 101 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,261 likes - 101 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -110,4 +110,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2fMaj5GfMh3.md) - [plain]
 | 100 | [Midnight](https://open.spotify.com/track/2XoRnEuxmv6EMApi6fagyE) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Midnight](https://open.spotify.com/album/2T8uIHAH9XOjXLJNdHJiLY) | 2:56 |
 | 101 | [pick up the phone](https://open.spotify.com/track/6xtW6EBqnClqaLfsxKyh3u) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [pick up the phone](https://open.spotify.com/album/4bafhNct8QkzoNEye8WFgf) | 2:25 |
 
-Snapshot ID: `MCwzNTVmNDAwZDQ2YmEzOGQ0ODNmMWZmNjJmMDU1ZTA2Nzg5YWViN2M2`
+Snapshot ID: `MCw4YTU1NTUzYWQ4MzMzMWI5YzAyZWI2YTNkZTYzNmQ0ZTgxYzM0NWMy`

@@ -1,12 +1,12 @@
 {
   "description": "Turn up the volume for some filthy bassline! ft. Gardna ",
-  "num_followers": 199094,
+  "num_followers": 199115,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmM2M4MzBhMzgyM2VmMTliZmEwODc3NDQ2ZDFiMGQ5NjkzZDE4YWRm",
+  "snapshot_id": "MCwxYzM0YmVjNTRkOTBlMTliNjFkZjE1MzhkOTAzYThlOTYyNzZiZDk5",
   "tracks": [
     {
       "added_at": "2023-09-22 00:01:00",
@@ -415,22 +415,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Fly With Us",
-        "url": "https://open.spotify.com/album/08yuXaVx0deTrZiBbLs8ny"
+        "name": "Jurgen Kropper (feat. Local)",
+        "url": "https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp"
       },
       "artists": [
         {
-          "name": "AC Slater",
-          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
+          "name": "Bad Boy Chiller Crew",
+          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
         },
         {
-          "name": "Chris Lorenzo",
-          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
+          "name": "Local",
+          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
         }
       ],
-      "duration_ms": 248437,
-      "name": "Fly With Us",
-      "url": "https://open.spotify.com/track/0qOmGg55Xzv8xBBJa1rBEI"
+      "duration_ms": 176571,
+      "name": "Jurgen Kropper (feat. Local)",
+      "url": "https://open.spotify.com/track/0DpElLiFInntCcT2slRz0I"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -607,22 +607,22 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Jurgen Kropper (feat. Local)",
-        "url": "https://open.spotify.com/album/5XkV6u3hRL9solQEtJHrrp"
+        "name": "Fly With Us",
+        "url": "https://open.spotify.com/album/08yuXaVx0deTrZiBbLs8ny"
       },
       "artists": [
         {
-          "name": "Bad Boy Chiller Crew",
-          "url": "https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV"
+          "name": "AC Slater",
+          "url": "https://open.spotify.com/artist/6EqFMCnVGBRNmwPlk2f3Uc"
         },
         {
-          "name": "Local",
-          "url": "https://open.spotify.com/artist/5pNualCkz8Fih2WjCYwEZ2"
+          "name": "Chris Lorenzo",
+          "url": "https://open.spotify.com/artist/7tm9Tuc70geXOOyKhtZHIj"
         }
       ],
-      "duration_ms": 176571,
-      "name": "Jurgen Kropper (feat. Local)",
-      "url": "https://open.spotify.com/track/0DpElLiFInntCcT2slRz0I"
+      "duration_ms": 248437,
+      "name": "Fly With Us",
+      "url": "https://open.spotify.com/track/0qOmGg55Xzv8xBBJa1rBEI"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "<3<3<3",
-        "url": "https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE"
-      },
-      "artists": [
-        {
-          "name": "Baauer",
-          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
-        }
-      ],
-      "duration_ms": 185357,
-      "name": "<3<3<3",
-      "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "EGODEATH",
         "url": "https://open.spotify.com/album/22fzZWdUIIywKnUPiSZ6D4"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 192000,
       "name": "EGODEATH",
       "url": "https://open.spotify.com/track/6yrMWKRUdGZ8He2TibxkCo"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "<3<3<3",
+        "url": "https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE"
+      },
+      "artists": [
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        }
+      ],
+      "duration_ms": 185357,
+      "name": "<3<3<3",
+      "url": "https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3"
     },
     {
       "added_at": "2023-09-22 00:01:00",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-09-22 00:01:00",
       "album": {
-        "name": "Chances",
-        "url": "https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7"
-      },
-      "artists": [
-        {
-          "name": "Wittyboy",
-          "url": "https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw"
-        }
-      ],
-      "duration_ms": 310909,
-      "name": "Chances",
-      "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
-    },
-    {
-      "added_at": "2023-09-22 00:01:00",
-      "album": {
         "name": "Turn It Up",
         "url": "https://open.spotify.com/album/2WffomrXjhSK4R2rw9r6jk"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 181418,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/0TeJiZ6GXGYSBLTNxwwD8j"
+    },
+    {
+      "added_at": "2023-09-22 00:01:00",
+      "album": {
+        "name": "Chances",
+        "url": "https://open.spotify.com/album/5I2lhIqmWeAtsQD1kXtyC7"
+      },
+      "artists": [
+        {
+          "name": "Wittyboy",
+          "url": "https://open.spotify.com/artist/3SgLMH12f6V9dfSW2QPgAw"
+        }
+      ],
+      "duration_ms": 310909,
+      "name": "Chances",
+      "url": "https://open.spotify.com/track/59PTNOT9TYu7MFJ6pSrCNZ"
     },
     {
       "added_at": "2023-09-22 00:01:00",

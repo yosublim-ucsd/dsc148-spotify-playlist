@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MjgyNzYwODAsMDAwMDAwMDBlNzA3NzUyNWQ0N2EyYTlkZmQ2Yzg3MmZiNmUwMjgxMA==",
+  "snapshot_id": "MjgyNzYwODAsMDAwMDAwMDBhYWRhMjkwNmQxMTY5ZGFiMDYxNTkyMjJjY2RlMmY5Mw==",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -31,22 +31,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Who's That?",
-        "url": "https://open.spotify.com/album/2aq3ORkrQrbY34dFnQDKZH"
-      },
-      "artists": [
-        {
-          "name": "Attica Riots",
-          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
-        }
-      ],
-      "duration_ms": 251500,
-      "name": "Who's That?",
-      "url": "https://open.spotify.com/track/306sDtgbcHZJrz9fxTZD5U"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "KNOWER FOREVER",
         "url": "https://open.spotify.com/album/4HLzhoSO67xRwfZa1T343L"
       },
@@ -59,6 +43,22 @@
       "duration_ms": 212782,
       "name": "Do Hot Girls Like Chords?",
       "url": "https://open.spotify.com/track/3edXLmc4WGO8r2g5gjh0Ux"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Who's That?",
+        "url": "https://open.spotify.com/album/2aq3ORkrQrbY34dFnQDKZH"
+      },
+      "artists": [
+        {
+          "name": "Attica Riots",
+          "url": "https://open.spotify.com/artist/5Sn2NCUwSsrdyQRViGvsV4"
+        }
+      ],
+      "duration_ms": 251500,
+      "name": "Who's That?",
+      "url": "https://open.spotify.com/track/306sDtgbcHZJrz9fxTZD5U"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -83,6 +83,38 @@
       "duration_ms": 177600,
       "name": "Champagne Shit (feat. Latto & Quavo) - Remix",
       "url": "https://open.spotify.com/track/2oKU8iNurGW4W1WjshPdWe"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Tether",
+        "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "Into The Sun",
+      "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Dialogue",
+        "url": "https://open.spotify.com/album/7hGucrZZDdkeyf0ip1TyZN"
+      },
+      "artists": [
+        {
+          "name": "Vacationer",
+          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+        }
+      ],
+      "duration_ms": 133792,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/6mRF4zTfe96Fza0idXLopQ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -123,34 +155,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Tether",
-        "url": "https://open.spotify.com/album/7r8e3NJOBNWCznsvhN4SHR"
+        "name": "Whenever I Call You Friend",
+        "url": "https://open.spotify.com/album/3UDpY8hvITJfi4P3Y2ISpI"
       },
       "artists": [
         {
-          "name": "Of Mice & Men",
-          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Into The Sun",
-      "url": "https://open.spotify.com/track/4xoSlt1KQp3D9MjAdrK30w"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Dialogue",
-        "url": "https://open.spotify.com/album/7hGucrZZDdkeyf0ip1TyZN"
-      },
-      "artists": [
+          "name": "Melissa Manchester",
+          "url": "https://open.spotify.com/artist/78udmCDNaDu5jqfVnBqwia"
+        },
         {
-          "name": "Vacationer",
-          "url": "https://open.spotify.com/artist/4rs1K6gDzLY5VnCMSC80o7"
+          "name": "Kenny Loggins",
+          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
+        },
+        {
+          "name": "Dave Koz",
+          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
         }
       ],
-      "duration_ms": 133792,
-      "name": "Dialogue",
-      "url": "https://open.spotify.com/track/6mRF4zTfe96Fza0idXLopQ"
+      "duration_ms": 242226,
+      "name": "Whenever I Call You Friend",
+      "url": "https://open.spotify.com/track/5QGUp0Iz7KYyji9UdzHV5J"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -175,30 +199,6 @@
       "duration_ms": 231000,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/3qEPlrpAIt4uGJBrhZPbnp"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Whenever I Call You Friend",
-        "url": "https://open.spotify.com/album/3UDpY8hvITJfi4P3Y2ISpI"
-      },
-      "artists": [
-        {
-          "name": "Melissa Manchester",
-          "url": "https://open.spotify.com/artist/78udmCDNaDu5jqfVnBqwia"
-        },
-        {
-          "name": "Kenny Loggins",
-          "url": "https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW"
-        },
-        {
-          "name": "Dave Koz",
-          "url": "https://open.spotify.com/artist/0ZcJXldoq09BRIMl0Qh1Vm"
-        }
-      ],
-      "duration_ms": 242226,
-      "name": "Whenever I Call You Friend",
-      "url": "https://open.spotify.com/track/5QGUp0Iz7KYyji9UdzHV5J"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -331,6 +331,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Ruska (Live In Helsinki St. John's Church)",
+        "url": "https://open.spotify.com/album/652egKdpXVS1zSHcE31scB"
+      },
+      "artists": [
+        {
+          "name": "Apocalyptica",
+          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
+        }
+      ],
+      "duration_ms": 231573,
+      "name": "Ruska - Live In Helsinki St. John's Church",
+      "url": "https://open.spotify.com/track/6U3oadsJct1P3IiwrESmxO"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "One More Time",
         "url": "https://open.spotify.com/album/2aVhrxNZrwE8sB3fqvyZys"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 206653,
       "name": "One More Time",
       "url": "https://open.spotify.com/track/17zGPlvmZ8cWkmMXTUFSrf"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Ruska (Live In Helsinki St. John's Church)",
-        "url": "https://open.spotify.com/album/652egKdpXVS1zSHcE31scB"
-      },
-      "artists": [
-        {
-          "name": "Apocalyptica",
-          "url": "https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I"
-        }
-      ],
-      "duration_ms": 231573,
-      "name": "Ruska - Live In Helsinki St. John's Church",
-      "url": "https://open.spotify.com/track/6U3oadsJct1P3IiwrESmxO"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -419,6 +419,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Bushwick Cowboy",
+        "url": "https://open.spotify.com/album/3pCrRQfCSaR4gIpcUewNsx"
+      },
+      "artists": [
+        {
+          "name": "Vansire",
+          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
+        }
+      ],
+      "duration_ms": 243980,
+      "name": "Bushwick Cowboy",
+      "url": "https://open.spotify.com/track/3LppKZzfb7NLNmxe3rKRk9"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
         "url": "https://open.spotify.com/album/1gBwiVRUudP3d2z5ti1oUB"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 155003,
       "name": "FromTheProjects (feat. Raekwon & Westside Gunn)",
       "url": "https://open.spotify.com/track/5BKde6HGrLmsGCOIwYwhwY"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Bushwick Cowboy",
-        "url": "https://open.spotify.com/album/3pCrRQfCSaR4gIpcUewNsx"
-      },
-      "artists": [
-        {
-          "name": "Vansire",
-          "url": "https://open.spotify.com/artist/6ft7JnxMyZhp7N52qzHymY"
-        }
-      ],
-      "duration_ms": 243980,
-      "name": "Bushwick Cowboy",
-      "url": "https://open.spotify.com/track/3LppKZzfb7NLNmxe3rKRk9"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/1uQWmt1OhuHGRKmZ2ZcL6p"
         }
       ],
-      "duration_ms": 370653,
-      "name": "Loved Ones",
-      "url": "https://open.spotify.com/track/1WRte5ifgrT1KktdrUrtSo"
+      "duration_ms": 445933,
+      "name": "All Mountains",
+      "url": "https://open.spotify.com/track/1u7JDkPMV47l42Ajimwnzw"
     }
   ],
   "unique_name": "Release Radar (@ajcooke94)",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 
 > Essential club anthems from the golden era of house music\. Cover: Kenny Dope and Little Louie Vega
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,840 likes - 60 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,043 likes - 60 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 42 | [Feels Like Heaven](https://open.spotify.com/track/7HlxqDDzdWE3gK0i6fS6Bt) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:30 |
 | 43 | [Jack Your Body \- 1986 Club Mix](https://open.spotify.com/track/10QGhgqQm0I2Y9maxrM7T6) | [Steve "Silk" Hurley](https://open.spotify.com/artist/2TzZ6XTFG1p1PAfhl0crDP) | [Jack Your Body \(S&S Reloaded\)](https://open.spotify.com/album/3UAvNbsdCDrUKyhp8YGfJT) | 5:06 |
 | 44 | [Turn Up The Bass \- Fast Eddie Scratch It Up Mix](https://open.spotify.com/track/4a2VdX9fRz3mFuEP17TnEn) | [Tyree Cooper](https://open.spotify.com/artist/0iQ58hVu6gA9nuuCgbnvOn) | [Turn Up The Bass](https://open.spotify.com/album/5e9sCiyp7gvkBbZkVeu0e6) | 4:58 |
-| 45 | [Sandman \- Original 12" Mix](https://open.spotify.com/track/1caNzSrWtZhB2UNvSt5EK0) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Sandman](https://open.spotify.com/album/1Bc7tTII5uNdjME3RUqiQX) | 5:15 |
-| 46 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 |
+| 45 | [Beat Dis](https://open.spotify.com/track/6L8xB44ZvgAJjQEY9Zx6y6) | [Bomb The Bass](https://open.spotify.com/artist/1G3Eh23f2hwhEnAMw7HsZ6) | [80s 100 Hits \- Volume 2](https://open.spotify.com/album/56QkBFCRUIGCMWnKKKheXC) | 3:22 |
+| 46 | [Sandman \- Original 12" Mix](https://open.spotify.com/track/1caNzSrWtZhB2UNvSt5EK0) | [Blue Boy](https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG) | [Sandman](https://open.spotify.com/album/1Bc7tTII5uNdjME3RUqiQX) | 5:15 |
 | 47 | [Touch Me](https://open.spotify.com/track/2ycghCtdMwb29zZQ7ffSoX) | [49ers](https://open.spotify.com/artist/6BWEqA4CdZageKtzch78Vs) | [Greatest Hits](https://open.spotify.com/album/0KbhGcgoagosU3W4Jw5eBS) | 3:47 |
 | 48 | [Pacific 707](https://open.spotify.com/track/2riROGFV3u0vtPnUT1z9Sc) | [808 State](https://open.spotify.com/artist/7hFdUW64G4iU1tz46ITRfN) | [808:88:98](https://open.spotify.com/album/6EnSysBL3MNcB0o8BUfPh3) | 3:53 |
 | 49 | [Rhythm Is a Mystery \- Non\-Stop Edit](https://open.spotify.com/track/27kKrfGjxtsLHggpC33MCR) | [K\-Klass](https://open.spotify.com/artist/4O1s9iVG46lSn1mD9ek1ES) | [Universal](https://open.spotify.com/album/52ie0VU0dtiCXktcxv5hNg) | 5:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTU3Zl0elDUa.md) - [plain]
 | 59 | [Hey Music Lover](https://open.spotify.com/track/5suP41ovdCSHsXZnTFALzX) | [S'Express](https://open.spotify.com/artist/2PvqyOwynRF4BveaU6IA7S) | [Original Soundtrack](https://open.spotify.com/album/760T7VGqZ66wGrRzndpPWc) | 4:30 |
 | 60 | [Mushrooms \- Salt City Orchestra Out There Mix](https://open.spotify.com/track/2vRbn7ZmxrkEO2SBfxJe3V) | [Marshall Jefferson](https://open.spotify.com/artist/2Di8r9df6xjyj6CVOqbGVz), [Noosa Heads](https://open.spotify.com/artist/4qZL2VAnbz5esT94wlilZp), [Salt City Orchestra](https://open.spotify.com/artist/6nHCRufVUGt9HmvAOZXhOi) | [Mushrooms](https://open.spotify.com/album/4UqQPjkCRNr1VDqqHnMTQ5) | 8:12 |
 
-Snapshot ID: `MCxhNDBmNWZlOWVjZTQzODg5NWUyMDZkNjMyYmRlMDQ1ZjViZWJmZWFh`
+Snapshot ID: `MCxlZjk0NmNiYmNjYzc3NDBlMjFkMGRkYmIwMjI4M2NlMmQyOTBmZDlk`

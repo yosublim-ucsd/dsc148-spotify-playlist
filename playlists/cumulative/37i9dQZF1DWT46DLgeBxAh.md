@@ -4,7 +4,7 @@
 
 > Una mezcla sabrosa, picosita y refrescante.
 
-325 songs - 18 hr 23 min
+326 songs - 18 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [La Mb](https://open.spotify.com/track/3FfCRdvFfPA93T8zT2dGqV) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [La Mb](https://open.spotify.com/album/5R2kp5lNX5KmyRxFw4bRfl) | 3:23 | 2022-03-04 | 2022-06-04 |
 | [La Miche](https://open.spotify.com/track/5qyaHfrDEredbekaDs3PZk) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [La Miche](https://open.spotify.com/album/5VAP6Y5ff8BBPflsMV77fS) | 4:09 | 2022-08-03 | 2022-10-29 |
 | [La Octava Maravilla \- En Vivo](https://open.spotify.com/track/0gQDxHSXOICEXjTFkl1UMb) | [Alfredo Montaño](https://open.spotify.com/artist/23L3bzvIziNKZw42P3lwsH) | [En Vivo](https://open.spotify.com/album/6n20YXCHsJZZTSd89n3uP1) | 3:53 | 2022-12-22 | 2023-04-11 |
+| [LA PEOPLE](https://open.spotify.com/track/1RzjXhgnzqb3dMa5852itx) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 2:33 | 2023-09-26 |  |
 | [La Pregunta](https://open.spotify.com/track/2Ob4mHihtOGbx6jnCredFX) | [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY) | [Timeless](https://open.spotify.com/album/2SMYRfGiwQyBgvkpCA2mJU) | 4:29 | 2022-12-29 |  |
 | [La Que Baje La Guardia](https://open.spotify.com/track/5xYb8SYGvX0Nqf3XN2RqxI) | [Alicia Villarreal](https://open.spotify.com/artist/6Hf2g14O2TP25JUNZuvIgn) | [Cuando El Corazón Se Cruza](https://open.spotify.com/album/6n9By9pSssKzD2z4orrkZ2) | 3:51 | 2022-06-21 | 2022-07-01 |
 | [La Romana](https://open.spotify.com/track/1khmgu0pveJbkbpbkyvcQv) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 5:00 | 2022-12-29 | 2023-02-01 |
@@ -267,7 +268,7 @@
 | [Si Fuera Fácil](https://open.spotify.com/track/7Jph6HJbfURt4Fea19IED3) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Si Fuera Fácil](https://open.spotify.com/album/3CUu8nxAMyjCiTeGyiBOKE) | 2:50 | 2022-06-03 |  |
 | [Si No Le Contesto](https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:40 | 2022-12-29 | 2023-06-10 |
 | [Si Te Pudiera Mentir](https://open.spotify.com/track/3p6eieHX6oEOzJStPtEsLu) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 4:15 | 2022-01-07 |  |
-| [Siempre Pendientes](https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN) | 3:06 | 2022-12-22 |  |
+| [Siempre Pendientes](https://open.spotify.com/track/3gfSH9aYZbyGjdmbeoWliw) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/3ri7jQpYUr63gKKyoihGCN) | 3:06 | 2022-12-22 | 2023-10-12 |
 | [Siempre Pendientes](https://open.spotify.com/track/5PfFHceiEv61KldMOuVrv8) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Siempre Pendientes](https://open.spotify.com/album/23UaQnh22hlEWcbGMJidJm) | 3:06 | 2022-10-28 | 2023-01-22 |
 | [Simplemente Amigos](https://open.spotify.com/track/10PwPpr7BBxYon3pwS7k5G) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/3gV3uvJ1HSYVM88Tsh1DHi) | 3:47 | 2022-06-21 | 2022-07-01 |
 | [Simplemente Gracias](https://open.spotify.com/track/3K6noLeoPTQJ5jUErC8jT5) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 3:23 | 2022-01-07 | 2022-12-30 |

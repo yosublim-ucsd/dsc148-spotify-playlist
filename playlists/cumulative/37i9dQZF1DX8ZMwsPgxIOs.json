@@ -1078,7 +1078,7 @@
       ],
       "date_added": "2022-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 263157,
       "name": "Escape",
       "url": "https://open.spotify.com/track/1ddH3uRnJ2MCcAC2HzoDeI"
@@ -1104,6 +1104,28 @@
       "duration_ms": 263157,
       "name": "Escape",
       "url": "https://open.spotify.com/track/2AOBG21RTF5xxBfYqtEgWi"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/00CETdyuoeWPV0ElHt8umH"
+      },
+      "artists": [
+        {
+          "name": "Artche",
+          "url": "https://open.spotify.com/artist/4AiZ03mzMP6HYs4FKGIHUP"
+        },
+        {
+          "name": "OC & Verde",
+          "url": "https://open.spotify.com/artist/6wdPgZR2SnhEJ6DJ8L37lc"
+        }
+      ],
+      "date_added": "2023-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263157,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/6lGb5bcwjsolNsvp55DXmT"
     },
     {
       "album": {

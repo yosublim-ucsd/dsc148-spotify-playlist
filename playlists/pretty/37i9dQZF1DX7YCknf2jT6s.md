@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 
 > New jazz for open minds\. Cover: Dana and Alden
 
-[Spotify](https://open.spotify.com/user/spotify) - 903,982 likes - 99 songs - 8 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 903,554 likes - 99 songs - 8 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 22 | [Open\-Handed Reach](https://open.spotify.com/track/0kMVgShEStOZHMS8TdyL6u) | [Kurt Rosenwinkel](https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP), [Geri Allen](https://open.spotify.com/artist/0jqAOYfo9ipclW7ATXPhHg) | [Open\-Handed Reach](https://open.spotify.com/album/3g7i56Kl3xDdzhTJ8nQpeH) | 9:55 |
 | 23 | [side sidemi](https://open.spotify.com/track/5yyGyo0fRbH1erG8Pms7vt) | [Rejoicer](https://open.spotify.com/artist/1N5ZTU16lJJL9hbPAMvGnk), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN) | [side sidemi](https://open.spotify.com/album/7zHvxZIRupwvuxLtveVLvU) | 4:09 |
 | 24 | [Alien Love Call](https://open.spotify.com/track/5D7AFGloFpXtdT2PiKTEC3) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [New Heart Designs](https://open.spotify.com/album/532ZmwSwZF55jqvzgq70fC) | 3:42 |
-| 25 | [no one else has your magik!](https://open.spotify.com/track/4KBSf8F5ZKWQGzeeD9MoBx) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [align with Nature's Intelligence](https://open.spotify.com/album/6XujV8YRIeCQ6Yip7nSlY6) | 5:48 |
+| 25 | [no one else has your magik!](https://open.spotify.com/track/0XPQ1MkUGm4pGQj3kx4exC) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [align with Nature's Intelligence](https://open.spotify.com/album/7KscLI0PccEmUo5GUm3DhO) | 5:46 |
 | 26 | [The Girl by the Window](https://open.spotify.com/track/3J4inyMzzUK6XVJmAOUm1a) | [Mareike Wiening](https://open.spotify.com/artist/5n2ZOxo4Dw6CcurZPIYlG9), [Dave Douglas](https://open.spotify.com/artist/3SQrLX0O6RbBjmSIkwCgJb), [Rich Perry](https://open.spotify.com/artist/1TaMCGjRuinPW6jdc5sguu), [Glenn Zaleski](https://open.spotify.com/artist/0M5jsQVMD2A3wpBLI9qs8W), [Alex Goodman](https://open.spotify.com/artist/4akWuEzOy4ATwXu16fc7m3), [Johannes Felscher](https://open.spotify.com/artist/2RYXsAepfcxTMiShkD42pd) | [The Girl by the Window](https://open.spotify.com/album/0thUHXP5VZ4uyrdtqTmZmE) | 6:18 |
 | 27 | [The Future's Ours](https://open.spotify.com/track/3hRfp5wpRURTzYfuc4lRWQ) | [Chiminyo](https://open.spotify.com/artist/5Tq4hCIhkaXbgvsJewMJQ4), [Wonky Logic](https://open.spotify.com/artist/34vOyXYbdhtzvcIWTBQkEl), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr), [James Mollison](https://open.spotify.com/artist/5FHf0e5ya34Q4nDr1RbITm), [Axel Kaner\-Lidstrom](https://open.spotify.com/artist/0R4jkE6q1364F71jgVku0B) | [The Future's Ours](https://open.spotify.com/album/6mJ9VcdEUFz02q1uf81h0E) | 3:59 |
 | 28 | [Yesterday's Price](https://open.spotify.com/track/76w0UOermXSeAZIj0HfynR) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF), [Immanuel Wilkins](https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG), [Ambrose Akinmusire](https://open.spotify.com/artist/4ai53dgSBGhQwcFtGyY1bF) | [Yesterday's Price](https://open.spotify.com/album/7xPy90fuevpNsr4pSLRSmB) | 5:15 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YCknf2jT6s.md) - [plain]
 | 98 | [Conga a la Americana](https://open.spotify.com/track/4SdIbOx6RHIYlRRnWCkeiH) | [Harold López\-Nussa](https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR) | [Timba a la Americana](https://open.spotify.com/album/09Cqpp4cQW3BaJcGFnru5C) | 3:13 |
 | 99 | [Baltimore](https://open.spotify.com/track/0cOpvX0oS7rQTfJg9Sipw8) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S) | [where are we](https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl) | 5:37 |
 
-Snapshot ID: `MCwxMDA0NmI4ODA0YjlhYjdlMjU3ZjA4ZDNjNDEyZTU1MmIyNmIyYTgw`
+Snapshot ID: `MCw0NWY4OWFkNGRmOWZkZDBjYWQ1ZTBlN2E4ODFmZjFlMDE5NDMyOWY3`

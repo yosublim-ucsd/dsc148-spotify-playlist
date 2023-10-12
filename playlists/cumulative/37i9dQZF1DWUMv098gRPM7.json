@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 160052,
       "name": "Bad Neighbors",
       "url": "https://open.spotify.com/track/0lYElfgYvfNJfwevdPd3tY"
@@ -1710,6 +1710,24 @@
       "duration_ms": 158737,
       "name": "Touch You",
       "url": "https://open.spotify.com/track/1eloKbVFeduo6qxp7xqhQ0"
+    },
+    {
+      "album": {
+        "name": "The Night Before The Morning After",
+        "url": "https://open.spotify.com/album/2Jp7UxZewhRXrvcSvz37b1"
+      },
+      "artists": [
+        {
+          "name": "11:11",
+          "url": "https://open.spotify.com/artist/5gsyao2Qm21EKylbVIuRQ3"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166716,
+      "name": "Treat",
+      "url": "https://open.spotify.com/track/6MvKjnEdkPf3ijc27z1RWR"
     },
     {
       "album": {

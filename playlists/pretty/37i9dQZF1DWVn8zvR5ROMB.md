@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Old Dominion, Darius Rucker, Colbie Caillat and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,627 likes - 92 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,771 likes - 92 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,4 +101,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 91 | [I'm On the Whiskey](https://open.spotify.com/track/1NTGMWWIHteuQudgJXluU6) | [Chancey Williams](https://open.spotify.com/artist/6kaBU6Hz3GSkpRh6tfuA98) | [I'm On the Whiskey](https://open.spotify.com/album/0uUIJDaLtNuTSpuaAVGtUW) | 3:01 |
 | 92 | [Waiting on You](https://open.spotify.com/track/5iq3befM8pUkRt5CKrdM3F) | [Blake Henderson](https://open.spotify.com/artist/5ILg0WBOzkaN5ePByRuMw4) | [Waiting on You](https://open.spotify.com/album/41Ah3MmuW7QDVOQBogHnsC) | 3:43 |
 
-Snapshot ID: `MCxhNGQ5NjJiZTRlYTU5YjIzMTA2ZmEwZjQzMGMyN2Y3ZjkxZDY5MzM1`
+Snapshot ID: `MCwyZjRhZTFlN2YwYmQ1ZTE0ZWFjOTliOWJhNjFhN2JlMGU3M2E1ZDhi`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by DJ Puffy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,403 likes - 58 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,394 likes - 58 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 40 | [Bang Bim](https://open.spotify.com/track/1u3G34F10nIjLPukcFp34C) | [Marzville](https://open.spotify.com/artist/0EW8oVadcmlxZevZFlPm9P) | [One O'clock Riddim](https://open.spotify.com/album/19SXw2JeLa4mjmvht7E4gQ) | 2:39 |
 | 41 | [Sugar Lump](https://open.spotify.com/track/06pUQXgdROK91EU5qK0Wdl) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Sugar Lump](https://open.spotify.com/album/4VOnDB03QuWMafmSxe660H) | 2:38 |
 | 42 | [Whining Parish](https://open.spotify.com/track/6dV6nfALHtFTBDYnmfbwbq) | [Triniboi Joocie](https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w) | [Whining Parish](https://open.spotify.com/album/63hP3ExO7vgGzLDwbpxfAN) | 3:26 |
-| 43 | [Like Ah Boss](https://open.spotify.com/track/0ZEK6MHn9EfZtH9oaxLTgG) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Monk Monté](https://open.spotify.com/album/6mjnIomPsuMnKlgD2yij16) | 3:09 |
+| 43 | [Like Ah Boss](https://open.spotify.com/track/08uIpFwr0W4XuoJqR7uuQa) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Monk Monté](https://open.spotify.com/album/6lwmNrIkDEUTo8z45DzLc6) | 3:09 |
 | 44 | [Togetherness](https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe) | [Alison Hinds](https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57) | [Soca Queen](https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ) | 4:17 |
 | 45 | [Jump](https://open.spotify.com/track/3lfPuyvkKQsWFFAIhE73ww) | [Rupee](https://open.spotify.com/artist/60TYV12IFUaDfnUA0S67zb) | [1 On 1](https://open.spotify.com/album/3Uq7mIN3ccKNODOAfTjRiy) | 3:34 |
 | 46 | [Soca Kingdom](https://open.spotify.com/track/5NiRDAlFxIkFJvqQ7cnxKL) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [Soca Kingdom](https://open.spotify.com/album/7cZEBsRA8zSlkx2Y4BBwRB) | 3:19 |
@@ -67,4 +67,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7BONj8RiqI.md) - [plain]
 | 57 | [Headways](https://open.spotify.com/track/20DjK18TiILB3N61HUQKFc) | [Esron Y\. Spielberg](https://open.spotify.com/artist/119ijPNXC2y426lTSEVn6Q) | [Headways](https://open.spotify.com/album/0V1ynyrP0K0uzidRCqUXI4) | 3:19 |
 | 58 | [Zen Mode](https://open.spotify.com/track/60JbCdnGtjktguVEToZW6N) | [Terra D Governor](https://open.spotify.com/artist/5HUy6HACLCJpW9DVMoV8BR) | [Festival of Fire Riddim](https://open.spotify.com/album/6Qtqo6aIFAEUZI0fHVgINC) | 3:50 |
 
-Snapshot ID: `MCwwZjgzODlhY2ZiOWRjNTBjMDI3ZWY3OWYzMzMxMjEwZjFhN2UxZDhh`
+Snapshot ID: `MCxmMTg4ZTgyMjRmZWExMWZlMzNlZGQ4ZGQ5M2VkZTZhZGJiZjkxNjdi`

@@ -4,7 +4,7 @@
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Madi Diaz
 
-161 songs - 9 hr 40 min
+162 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [August \(feat\. Adam Melchor\)](https://open.spotify.com/track/2i650Qa2Mw4brCjxulbacC) | [Madeline The Person](https://open.spotify.com/artist/79GARbspzW3V7Kb07hTLoY), [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [August \(feat\. Adam Melchor\)](https://open.spotify.com/album/7rCjzf8hQdihYpq1NbWAJn) | 3:41 | 2022-03-08 |  |
 | [Awake Me \- Acoustic](https://open.spotify.com/track/5XrJkrEfUx0UeTWzQeqO1k) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9) | [Awake Me \(Acoustic\)](https://open.spotify.com/album/78Du9LnVvLDyWbISr3dSCR) | 5:12 | 2021-03-02 |  |
 | [Be Careful](https://open.spotify.com/track/6PoMRNbAahzOCWvRGePExt) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Be Careful](https://open.spotify.com/album/6q36JBS51lMuxw7rsU9hwf) | 5:42 | 2022-11-18 |  |
-| [Best Days \- Acoustic](https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Best Days \(Acoustic\)](https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV) | 2:59 | 2021-03-02 |  |
+| [Best Days \- Acoustic](https://open.spotify.com/track/38sCPCcv3QjWl0NslC5KtW) | [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Best Days \(Acoustic\)](https://open.spotify.com/album/0Hg3xaDMtD4heeBIutwMSV) | 2:59 | 2021-03-02 | 2023-10-12 |
 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 | 2021-03-02 |  |
 | [Bud](https://open.spotify.com/track/2RB1ZrPDJe4kH2FhRcEzdO) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [On Hold](https://open.spotify.com/album/1uvisLwZwDzXoMhbk9POzZ) | 3:35 | 2021-03-02 |  |
 | [Bud](https://open.spotify.com/track/5q9FAPRXpXyy6xI2hgq8I7) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Bud](https://open.spotify.com/album/0So4agcAlpswj4ZsG1oJfa) | 3:35 | 2021-03-02 | 2022-07-28 |
@@ -68,6 +68,7 @@
 | [Great Divide](https://open.spotify.com/track/2n0UqC7DiRhelPWPkhviUH) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/7uhQv7Y3Po14oCgtrL7W3N) | 4:01 | 2021-03-02 | 2023-03-01 |
 | [Great Divide](https://open.spotify.com/track/5zuelgle0Aqxyc9EooIPVl) | [Ira Wolf](https://open.spotify.com/artist/5jq01ts8cBQWwVZOpMax6s) | [The Closest Thing to Home](https://open.spotify.com/album/5n8ppNRmmYvkFGnQZPHdNc) | 4:01 | 2023-02-03 |  |
 | [Grown](https://open.spotify.com/track/6W5B6NMVitQvY6RHnDZpYi) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Sugarcoated](https://open.spotify.com/album/4505aBIeu5JcRNKg3nFQbt) | 3:30 | 2021-03-02 | 2022-07-29 |
+| [Grown](https://open.spotify.com/track/76dZ7YgQgTvVHnUAxOs2wT) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [Sugarcoated](https://open.spotify.com/album/42CS9PFE6PmCjPVuyHA0wK) | 3:30 | 2023-03-08 |  |
 | [Halfway There](https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s) | [Kathleen Regan](https://open.spotify.com/artist/0zkerR9DfzmD564AOCnjZf) | [Halfway There](https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI) | 3:14 | 2022-03-08 |  |
 | [Hard Things](https://open.spotify.com/track/61e2c3NqK905WM3Hi7ZvYK) | [Sarah Buxton](https://open.spotify.com/artist/2xTlb6eueddQmWsxImpDbP) | [Hard Things](https://open.spotify.com/album/4mj6XqOhQggJgFnjJwlRTH) | 4:23 | 2022-03-08 | 2023-04-02 |
 | [Higher \(feat\. David Rawlings\)](https://open.spotify.com/track/1f1HTENF8WaUKEzCH7BNRZ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Higher](https://open.spotify.com/album/5SEcw1vkEs9avEUReaz6G8) | 3:23 | 2023-02-03 |  |

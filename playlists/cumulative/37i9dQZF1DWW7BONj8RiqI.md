@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by DJ Puffy.
 
-327 songs - 18 hr 1 min
+328 songs - 18 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -167,7 +167,8 @@
 | [Leh Go](https://open.spotify.com/track/0QMMShvfoWeOZeJ7cFd5ck) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Future Riddim](https://open.spotify.com/album/71tQ5QyzHeepktxNLW4Xbm) | 3:23 | 2023-02-21 | 2023-06-10 |
 | [Leh Go](https://open.spotify.com/track/6o8B6EJpJPNIC2As7ewoP2) | [Blaxx](https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM) | [Soca Future Riddim](https://open.spotify.com/album/65cBqEY8p47XvWdbUDEJqJ) | 3:23 | 2021-08-26 | 2022-02-25 |
 | [Light It Up](https://open.spotify.com/track/148j8qTrdO3jB7uddVq2H0) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [The Book of Angels](https://open.spotify.com/album/2a5ZeVoFt7vhiHqtoPBp40) | 4:35 | 2023-02-21 | 2023-05-16 |
-| [Like Ah Boss](https://open.spotify.com/track/0ZEK6MHn9EfZtH9oaxLTgG) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Monk Monté](https://open.spotify.com/album/6mjnIomPsuMnKlgD2yij16) | 3:09 | 2023-02-21 |  |
+| [Like Ah Boss](https://open.spotify.com/track/08uIpFwr0W4XuoJqR7uuQa) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Monk Monté](https://open.spotify.com/album/6lwmNrIkDEUTo8z45DzLc6) | 3:09 | 2023-08-11 |  |
+| [Like Ah Boss](https://open.spotify.com/track/0ZEK6MHn9EfZtH9oaxLTgG) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Monk Monté](https://open.spotify.com/album/6mjnIomPsuMnKlgD2yij16) | 3:09 | 2023-02-21 | 2023-10-12 |
 | [Like It Like This](https://open.spotify.com/track/3XJJpr3ZjEzpMNOJ3C7FM7) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [The 2:00AM Project](https://open.spotify.com/album/01S0wyD4Pp8NjLPtbRWTEr) | 3:15 | 2023-07-10 | 2023-07-12 |
 | [Like Yuh Self](https://open.spotify.com/track/1gzoAtrRQlcrRHgRc9K4OC) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Like Yuh Self](https://open.spotify.com/album/3CRTmP0iyWPAsG54CkxUO5) | 2:56 | 2023-07-10 |  |
 | [Like Yuh Self](https://open.spotify.com/track/321Lh40r8UhBPPGn053VfQ) | [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Like Yuh Self \(Roadmixes\)](https://open.spotify.com/album/0JFhRs0QUxd1Kt7WUxisYv) | 2:56 | 2023-05-15 | 2023-07-11 |

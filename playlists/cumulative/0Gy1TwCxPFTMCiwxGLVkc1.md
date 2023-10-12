@@ -4,10 +4,11 @@
 
 > Kids music from Disney, CoComelon, Nickelodeon, and more! Find new tracks and familiar favorites on this kids music playlist, and check back each week for more!
 
-180 songs - 7 hr 16 min
+181 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [12345 Once I Caught A Ghost Hi\-Five!](https://open.spotify.com/track/1p3wAJAZwu6VODkm2knq6f) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [Halloween with CoComelon \(Vol\. 2\)](https://open.spotify.com/album/3e3KANpgO8gRuBg7PnpXEB) | 1:53 | 2023-10-11 |  |
 | [A Little More](https://open.spotify.com/track/3iQyxNq8TnhYimIMrKbEwa) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [A Little More](https://open.spotify.com/album/6jx4akSZu1hcJVADH1JUZd) | 3:06 | 2022-11-07 | 2023-06-20 |
 | [ABC Song](https://open.spotify.com/track/29H35COf0rsqC5JHCCkRhp) | [Blue's Clues & You](https://open.spotify.com/artist/40mye8b6PC8ef8GSFgWscG), [Nick Jr.](https://open.spotify.com/artist/2hMLlEmFVPTsBh803qCfoC) | [Blue's Clues & You Nursery Rhymes Vol\. 2](https://open.spotify.com/album/24G6yniJsLLHSoYQvE2BmU) | 3:10 | 2022-10-25 | 2023-06-12 |
 | [Alice's Wonderland Bakery Main Title Theme](https://open.spotify.com/track/2iwANQOVJrBrlceepJCf4G) | [Alice's Wonderland Bakery \- Cast](https://open.spotify.com/artist/1cxwUCMGpf55hTYUFPXNwQ), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Alice's Wonderland Bakery](https://open.spotify.com/album/6QZhO5hRNEAwHVutNz6SyI) | 1:00 | 2022-10-25 | 2023-07-10 |
@@ -186,7 +187,7 @@
 | [Who are you?](https://open.spotify.com/track/5Qr67e2q9QDuuoffkQmuyK) | [Panda and Friends](https://open.spotify.com/artist/7fTuRIKDO5fO6lGlE7QJ18) | [Who Are You?](https://open.spotify.com/album/4ICmftQNDBVSjKQXN0DARa) | 3:32 | 2023-08-26 | 2023-09-11 |
 | [Wish You Were Sober](https://open.spotify.com/track/0kn2gu8Pd03DiYHzRvX2Xk) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 2:48 | 2022-05-27 | 2022-10-26 |
 | [Yes Yes Playground Song](https://open.spotify.com/track/1BDzCATEWGKriNZVNRRoam) | [CoComelon](https://open.spotify.com/artist/6SXTTUJxIVwMbc1POrviTr) | [CoComelon Kids Hits, Vol\. 2](https://open.spotify.com/album/754vnOihqPWeFo0xIdwonC) | 3:47 | 2023-08-26 |  |
-| [You Can Be Anything](https://open.spotify.com/track/753rtwli6HVIvbo31T80jO) | [Jeremy and Jazzy](https://open.spotify.com/artist/5frliimrTsYf5GyuXQ7WPQ) | [You Can Be Anything](https://open.spotify.com/album/5F4wHntEJW3ZQVp9iTEWm8) | 2:15 | 2023-09-10 |  |
+| [You Can Be Anything](https://open.spotify.com/track/753rtwli6HVIvbo31T80jO) | [Jeremy and Jazzy](https://open.spotify.com/artist/5frliimrTsYf5GyuXQ7WPQ) | [You Can Be Anything](https://open.spotify.com/album/5F4wHntEJW3ZQVp9iTEWm8) | 2:15 | 2023-09-10 | 2023-10-12 |
 | [You Just Got Detention](https://open.spotify.com/track/2OMsJd6Y8AD82jNXlsVtH9) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w) | [Songs From The Hit YouTube Kids Show: Season One](https://open.spotify.com/album/5R8OqHNYj1NrT1AzK5dUxP) | 3:20 | 2023-06-11 | 2023-08-27 |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

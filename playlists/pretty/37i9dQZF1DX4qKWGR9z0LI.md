@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 
 > Lo último y lo mejor de la salsa\. Cover: Adolescent's Orquestra
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,841,744 likes - 100 songs - 7 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,838,907 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 40 | [Pa' Bravo Yo](https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa' Bravo Yo](https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh) | 3:44 |
 | 41 | [El Amor de Mi Vida "Se Fue"](https://open.spotify.com/track/3iPlRUr1BKFQVlVM6zxFWl) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Auténtico](https://open.spotify.com/album/2Nfgyq7smkbHjmz5Rnz7zD) | 4:39 |
 | 42 | [Con la Punta del Pie](https://open.spotify.com/track/4rt2zpNhFBayp948Pi6liZ) | [La Gloria Matancera](https://open.spotify.com/artist/4dCNiyQXmtiWA157q3uFyj) | [Pare Cochero](https://open.spotify.com/album/1tABZ6rAzFtf9fizgXslIU) | 3:37 |
-| 43 | [Mala](https://open.spotify.com/track/2kjj1x4sXh2D9ACYNnvVMn) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Mala](https://open.spotify.com/album/6w2JzY6IjHoT8KH4IuSlIY) | 3:48 |
+| 43 | [Tu Vida en la Mía](https://open.spotify.com/track/4jzPGm9YsNvFvpL5as5DVc) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [OPUS](https://open.spotify.com/album/0iSDto0c8PqIKtwrYS4lbh) | 6:14 |
 | 44 | [Salsa Con Coco](https://open.spotify.com/track/3Xy4svERcnUuFcOaBI0539) | [Pochy Y Su Cocoband](https://open.spotify.com/artist/5AWKC0rd625VHM69d7X2tu) | [El Arrollador](https://open.spotify.com/album/2JWLAvJiDRdUJfrr2Xhfju) | 4:54 |
 | 45 | [Ella Se Hizo Deseo](https://open.spotify.com/track/60T9E5dxb4076R7fv3Njjo) | [Tito Rojas](https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH) | [Sensual](https://open.spotify.com/album/6UN6viB3vjqwZM1rMZGS1A) | 5:02 |
 | 46 | [Señor Mentira](https://open.spotify.com/track/7uebcjB4PNrMzTUdxCefno) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Esa Soy Yo](https://open.spotify.com/album/0RLzeH2Sc7cbzCoUq5V4Lk) | 4:29 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 71 | [Víctimas las Dos](https://open.spotify.com/track/455JfVvyPOZpoeX99X6ZGH) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck) | [Víctimas las Dos](https://open.spotify.com/album/3oO87sMk03zYPpdHTUAonH) | 4:17 |
 | 72 | [Viene Y Se Va](https://open.spotify.com/track/4aVRKf9Dp3e6VQEcAx7euZ) | [Mauro Castillo](https://open.spotify.com/artist/36CUTsdtNgCwMq6zKD1l8I) | [Baila Salsa](https://open.spotify.com/album/7H6mPRCBIMuKn7FirF8Alk) | 4:09 |
 | 73 | [Los Campeones De La Salsa](https://open.spotify.com/track/4Ii4Fk8ylnGcPn0zQ8WIdB) | [Willy Chirino](https://open.spotify.com/artist/4dvonCK12HCv1UUryzRppO) | [Pa'lante](https://open.spotify.com/album/5iphNcNTNLbwxGKmEnlVu3) | 4:18 |
-| 74 | [Corazón Roto](https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Corazón Roto](https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A) | 3:28 |
-| 75 | [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 |
-| 76 | [Sincero \(Salsa\)](https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:05 |
+| 74 | [Sincero \(Salsa\)](https://open.spotify.com/track/79cqPQQeH5HmnQ4PCQQzYb) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [FOREVER KING](https://open.spotify.com/album/3BD8a87zdeC9SAXSM1FC3t) | 3:05 |
+| 75 | [Corazón Roto](https://open.spotify.com/track/64NCHXiLhpgX0n9bgAnAaE) | [Leoni Torres](https://open.spotify.com/artist/1XXUv8GRyRqOXVuDwB5QaS) | [Corazón Roto](https://open.spotify.com/album/4tf4JOp2NMGrOFTje7rg2A) | 3:28 |
+| 76 | [Cosas Bonitas](https://open.spotify.com/track/3zVf7Ssg55ioIak3B1aWSY) | [Grupo Niche](https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8) | [Cosas Bonitas](https://open.spotify.com/album/3igVKSNDdHZkHVYGoAe3Yu) | 4:20 |
 | 77 | [Tu No Sabes Querer](https://open.spotify.com/track/6GRFXhOIdiZmkZiNeGZ9Sm) | [Lalo Rodriguez](https://open.spotify.com/artist/5LmwELEKyxDFxrbZzR8K4U) | [Oro Salsero](https://open.spotify.com/album/21W5Yp75UyOaWI2QALA7PS) | 6:24 |
 | 78 | [Maria Teresa y Danilo](https://open.spotify.com/track/1IwIFav8Pfr5oijgcRQ7O9) | [Hansel Y Raul](https://open.spotify.com/artist/2BXQwWUSIivZCgT0EqLx6g) | [10 De Colección](https://open.spotify.com/album/6pK55Oxs97bSeKxt0eGuIH) | 4:46 |
 | 79 | [Por Retenerte](https://open.spotify.com/track/3Zlp3GGVJwQxpNmUy7TBxS) | [Los Titanes](https://open.spotify.com/artist/4dboOLuCgBpq31GG6xov2S) | [Grandes Exitos de Salsa](https://open.spotify.com/album/5YrlCDihTCk8ubcTapuc8E) | 4:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qKWGR9z0LI.md) - [plain]
 | 99 | [Salsa](https://open.spotify.com/track/6hJShCXE9NWqhZfH2Qbi6n) | [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn) | [Salsa](https://open.spotify.com/album/5ioWdgA2k4FhPQIC5bjSCY) | 2:56 |
 | 100 | [Todavía Te Espero](https://open.spotify.com/track/5N672z43ZiJfvgDwTaCxI0) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Todavía Te Espero](https://open.spotify.com/album/3dwEfKKT8IzLbeUlYLeND3) | 3:12 |
 
-Snapshot ID: `MCw5NzNlOWY2YTQ2M2ZiYzZhN2MxODRkZjg4NTI0ZGZkNDFmMmY1Mjc4`
+Snapshot ID: `MCxkNTRjMmIwOTExMjNiZWJkYjQ1MDM5Yjc0YTI0YWY0MmQ5NjU5OGZk`

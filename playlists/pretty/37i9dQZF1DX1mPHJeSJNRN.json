@@ -1,12 +1,12 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 13592,
+  "num_followers": 13593,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MDRiZjYwNWEwMzEzZThjZmQ0ZjdhMzU3ZDEyOTY0M2E5NjA0ODM5",
+  "snapshot_id": "MCw3ODVhNzQ0MzQ5NmU0ZThlNzFjZDJhZmIzNGFhZGJjOTlmNGY2Mzc3",
   "tracks": [
     {
       "added_at": "2023-09-15 14:04:28",
@@ -63,22 +63,6 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
-        "name": "Sun of June",
-        "url": "https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4"
-      },
-      "artists": [
-        {
-          "name": "Rikard From",
-          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
-        }
-      ],
-      "duration_ms": 306086,
-      "name": "Let Me Take You for a Walk",
-      "url": "https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
         "name": "Yesteryear",
         "url": "https://open.spotify.com/album/5XqLTTwrDqietv4GjKIXuD"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 259073,
       "name": "Yesteryear",
       "url": "https://open.spotify.com/track/2qbPX1fQUyknyc7cZw2L8W"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
+        "name": "Sun of June",
+        "url": "https://open.spotify.com/album/6TlZkjAIMdUs3jOkafcrh4"
+      },
+      "artists": [
+        {
+          "name": "Rikard From",
+          "url": "https://open.spotify.com/artist/1zIcfg9uUp5YjS9Bb1sEgc"
+        }
+      ],
+      "duration_ms": 306086,
+      "name": "Let Me Take You for a Walk",
+      "url": "https://open.spotify.com/track/1zcCvJeGmcLQFfYHlcDnf1"
     },
     {
       "added_at": "2023-09-15 14:04:28",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
+        "name": "Renee Olstead",
+        "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
+      },
+      "artists": [
+        {
+          "name": "Renee Olstead",
+          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
+        }
+      ],
+      "duration_ms": 210240,
+      "name": "Taking a Chance on Love",
+      "url": "https://open.spotify.com/track/3I1DVI1Bllke45hTQke9ux"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
         "name": "It Might as Well Be Spring",
         "url": "https://open.spotify.com/album/6btoHKMKGlSpK8xvHviMbG"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 292706,
       "name": "It Might as Well Be Spring",
       "url": "https://open.spotify.com/track/56IPhyZ2ByxWPksbqKpNxF"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
-        "name": "Renee Olstead",
-        "url": "https://open.spotify.com/album/0xBTBaqqZd6Vnmp0tJ3g42"
-      },
-      "artists": [
-        {
-          "name": "Renee Olstead",
-          "url": "https://open.spotify.com/artist/19B0pJt4UEl3fUijGTRzxB"
-        }
-      ],
-      "duration_ms": 210240,
-      "name": "Taking a Chance on Love",
-      "url": "https://open.spotify.com/track/3I1DVI1Bllke45hTQke9ux"
     },
     {
       "added_at": "2023-09-15 14:04:28",
@@ -391,22 +391,6 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
-        "name": "Samara Joy",
-        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
-      },
-      "artists": [
-        {
-          "name": "Samara Joy",
-          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
-        }
-      ],
-      "duration_ms": 153693,
-      "name": "If You Never Fall in Love with Me",
-      "url": "https://open.spotify.com/track/3nyxrjpO5pPDx8NJ7sH15Z"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
         "name": "Some Other Time",
         "url": "https://open.spotify.com/album/1KvuEly7wop2kY2YKkqjAg"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 207895,
       "name": "Some Other Time",
       "url": "https://open.spotify.com/track/0wVDgWsBZkeLzERYSYj8CJ"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
+        "name": "Samara Joy",
+        "url": "https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6"
+      },
+      "artists": [
+        {
+          "name": "Samara Joy",
+          "url": "https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq"
+        }
+      ],
+      "duration_ms": 153693,
+      "name": "If You Never Fall in Love with Me",
+      "url": "https://open.spotify.com/track/3nyxrjpO5pPDx8NJ7sH15Z"
     },
     {
       "added_at": "2023-09-15 14:04:28",
@@ -503,22 +503,6 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
-        "name": "Feelin' Good",
-        "url": "https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e"
-      },
-      "artists": [
-        {
-          "name": "Sarah Vaughan",
-          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
-        }
-      ],
-      "duration_ms": 190345,
-      "name": "Just A Little Lovin'",
-      "url": "https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
         "name": "Body and Soul",
         "url": "https://open.spotify.com/album/3aJNsCTs6AlnGcLs2b6Rc3"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 248813,
       "name": "They Can't Take That Away From Me",
       "url": "https://open.spotify.com/track/1ytWVUYZiVJq8FriPFtafJ"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
+        "name": "Feelin' Good",
+        "url": "https://open.spotify.com/album/0pbKbSVpKuXACK5ibuUo7e"
+      },
+      "artists": [
+        {
+          "name": "Sarah Vaughan",
+          "url": "https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8"
+        }
+      ],
+      "duration_ms": 190345,
+      "name": "Just A Little Lovin'",
+      "url": "https://open.spotify.com/track/3YlIKafSOnFnfjAs1E80ng"
     },
     {
       "added_at": "2023-09-15 14:04:28",
@@ -647,22 +647,6 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
-        "name": "Dance Of Time",
-        "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 230093,
-      "name": "You\u2019re Getting To Be A Habit With Me",
-      "url": "https://open.spotify.com/track/28pnEgvAlVhdyh013x02bE"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
         "name": "Moon Beams",
         "url": "https://open.spotify.com/album/6BF1FJIGXf9wj4FKbDIaH1"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 247149,
       "name": "When the Sun Comes Out",
       "url": "https://open.spotify.com/track/6jIGf0fxuEpUR7jHr8wZNN"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
+        "name": "Dance Of Time",
+        "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 230093,
+      "name": "You\u2019re Getting To Be A Habit With Me",
+      "url": "https://open.spotify.com/track/28pnEgvAlVhdyh013x02bE"
     },
     {
       "added_at": "2023-09-15 14:04:28",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-09-15 14:04:28",
       "album": {
-        "name": "A Lot of Livin' to Do",
-        "url": "https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk"
-      },
-      "artists": [
-        {
-          "name": "Benny Benack III",
-          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
-        }
-      ],
-      "duration_ms": 225520,
-      "name": "Won't You Be My Neighbor",
-      "url": "https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG"
-    },
-    {
-      "added_at": "2023-09-15 14:04:28",
-      "album": {
         "name": "At The Deer Head Inn",
         "url": "https://open.spotify.com/album/5dv5GivEsrsnfdwLNHVzQx"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 561826,
       "name": "Chandra",
       "url": "https://open.spotify.com/track/40KYa8MjDOKIByCm3iv8P9"
+    },
+    {
+      "added_at": "2023-09-15 14:04:28",
+      "album": {
+        "name": "A Lot of Livin' to Do",
+        "url": "https://open.spotify.com/album/38HaawgHqRmb74d90jOgWk"
+      },
+      "artists": [
+        {
+          "name": "Benny Benack III",
+          "url": "https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG"
+        }
+      ],
+      "duration_ms": 225520,
+      "name": "Won't You Be My Neighbor",
+      "url": "https://open.spotify.com/track/27xNoZ0xc661Bq8i3jX1rG"
     },
     {
       "added_at": "2023-09-15 14:04:28",

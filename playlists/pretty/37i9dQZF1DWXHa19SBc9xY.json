@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica brasileira e as cores de um p\u00f4r do sol para completar o seu dia.",
-  "num_followers": 78640,
+  "num_followers": 78744,
   "original_name": "P\u00f4r do sol na areia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMTRkZmZjZDJkZDAxNTdlNTdiMmNmM2ZkMjk0MjU5NDU5NmQxMzVl",
+  "snapshot_id": "MCw2N2JlMmQ0MDk1MDg1ZTI2YzM4NTUzY2I4YjU3M2VmM2E0OTQ4ODk0",
   "tracks": [
     {
       "added_at": "2023-10-06 06:50:30",
@@ -383,22 +383,18 @@
     {
       "added_at": "2023-10-06 06:50:30",
       "album": {
-        "name": "N\u00f3 de Marinheiro",
-        "url": "https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb"
+        "name": "Flora - EP",
+        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        },
-        {
-          "name": "Banda Eva",
-          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+          "name": "ALMAR",
+          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
         }
       ],
-      "duration_ms": 183503,
-      "name": "N\u00f3 de Marinheiro",
-      "url": "https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj"
+      "duration_ms": 158000,
+      "name": "Vem conversar",
+      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2023-10-06 06:50:30",
@@ -419,6 +415,26 @@
     {
       "added_at": "2023-10-06 06:50:30",
       "album": {
+        "name": "N\u00f3 de Marinheiro",
+        "url": "https://open.spotify.com/album/54DlwnuTFRJrla9vBfrleb"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        },
+        {
+          "name": "Banda Eva",
+          "url": "https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ"
+        }
+      ],
+      "duration_ms": 183503,
+      "name": "N\u00f3 de Marinheiro",
+      "url": "https://open.spotify.com/track/5NpflpKeOfJcHaaczrJgGj"
+    },
+    {
+      "added_at": "2023-10-06 06:50:30",
+      "album": {
         "name": "\u00c1gua Salgada",
         "url": "https://open.spotify.com/album/0nRhDifni5GuqrOQgzaluv"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 201558,
       "name": "\u00c1gua Salgada",
       "url": "https://open.spotify.com/track/1tUjU4JjmJL2EdW7EZUEVI"
-    },
-    {
-      "added_at": "2023-10-06 06:50:30",
-      "album": {
-        "name": "Flora - EP",
-        "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
-      },
-      "artists": [
-        {
-          "name": "ALMAR",
-          "url": "https://open.spotify.com/artist/4859dldHEllxxWOTQS1QKI"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Vem conversar",
-      "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
     },
     {
       "added_at": "2023-10-06 06:50:30",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-10-06 06:50:30",
       "album": {
-        "name": "Amanheceu (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM"
-      },
-      "artists": [
-        {
-          "name": "Tritom",
-          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
-        }
-      ],
-      "duration_ms": 196743,
-      "name": "Amanheceu - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt"
-    },
-    {
-      "added_at": "2023-10-06 06:50:30",
-      "album": {
         "name": "O amor te d\u00e1",
         "url": "https://open.spotify.com/album/6qSldIF6nA00siaQqtfhFW"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 247812,
       "name": "O amor te d\u00e1",
       "url": "https://open.spotify.com/track/3x4niJ27HxoLK5JNLRZmSq"
+    },
+    {
+      "added_at": "2023-10-06 06:50:30",
+      "album": {
+        "name": "Amanheceu (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/113z8oUYAMr59RfzyKHvTM"
+      },
+      "artists": [
+        {
+          "name": "Tritom",
+          "url": "https://open.spotify.com/artist/7A5lTNequ9HtuW8TQH1KMg"
+        }
+      ],
+      "duration_ms": 196743,
+      "name": "Amanheceu - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3XQkfQ7Qsacd6Xbpj1ZLvt"
     },
     {
       "added_at": "2023-10-06 06:50:30",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2023-10-06 06:50:30",
       "album": {
+        "name": "Te Amar \u00c9 F\u00e1cil",
+        "url": "https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        }
+      ],
+      "duration_ms": 158478,
+      "name": "Te Amar \u00c9 F\u00e1cil",
+      "url": "https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v"
+    },
+    {
+      "added_at": "2023-10-06 06:50:30",
+      "album": {
         "name": "Sem Filtro (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4XY2OtEio7OBlyiWxUgHCg"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 184914,
       "name": "Louca - Ao Vivo",
       "url": "https://open.spotify.com/track/3bSnXuCoMpWKCR5jO5gGTL"
-    },
-    {
-      "added_at": "2023-10-06 06:50:30",
-      "album": {
-        "name": "Te Amar \u00c9 F\u00e1cil",
-        "url": "https://open.spotify.com/album/64AowMtxsyEOEC0LRueRsa"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        }
-      ],
-      "duration_ms": 158478,
-      "name": "Te Amar \u00c9 F\u00e1cil",
-      "url": "https://open.spotify.com/track/3VHrMZ3a3DuKb1dyxXmk5v"
     },
     {
       "added_at": "2023-10-06 06:50:30",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2023-10-06 06:50:30",
       "album": {
+        "name": "L\u00edrios S\u00e3o Deusas",
+        "url": "https://open.spotify.com/album/4c8ud8o7JRoiKEgEHRctss"
+      },
+      "artists": [
+        {
+          "name": "A Banca 021",
+          "url": "https://open.spotify.com/artist/13FuSigLoOp1jf1YKTNzC9"
+        }
+      ],
+      "duration_ms": 188160,
+      "name": "Moradia",
+      "url": "https://open.spotify.com/track/3q7Vt3TLkekBj4YhzIbjcD"
+    },
+    {
+      "added_at": "2023-10-06 06:50:30",
+      "album": {
         "name": "Com Certeza",
         "url": "https://open.spotify.com/album/7HVtEonGWnyiHww5TAfLB7"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 212750,
       "name": "Com Certeza",
       "url": "https://open.spotify.com/track/1HaLubyTPui15s30qxr6eI"
-    },
-    {
-      "added_at": "2023-10-06 06:50:30",
-      "album": {
-        "name": "L\u00edrios S\u00e3o Deusas",
-        "url": "https://open.spotify.com/album/4c8ud8o7JRoiKEgEHRctss"
-      },
-      "artists": [
-        {
-          "name": "A Banca 021",
-          "url": "https://open.spotify.com/artist/13FuSigLoOp1jf1YKTNzC9"
-        }
-      ],
-      "duration_ms": 188160,
-      "name": "Moradia",
-      "url": "https://open.spotify.com/track/3q7Vt3TLkekBj4YhzIbjcD"
     },
     {
       "added_at": "2023-10-06 06:50:30",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2023-10-06 06:50:30",
       "album": {
-        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
-        "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
-      },
-      "artists": [
-        {
-          "name": "Emicida",
-          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
-        },
-        {
-          "name": "Caetano Veloso",
-          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "Baiana",
-      "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
-    },
-    {
-      "added_at": "2023-10-06 06:50:30",
-      "album": {
         "name": "PREAMAR",
         "url": "https://open.spotify.com/album/46P8ssX2MolOO2NNGcGoeA"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 261901,
       "name": "PREAMAR",
       "url": "https://open.spotify.com/track/5vXucjlEods0fafmWCudxU"
+    },
+    {
+      "added_at": "2023-10-06 06:50:30",
+      "album": {
+        "name": "Sobre Crian\u00e7as, Quadris, Pesadelos e Li\u00e7\u00f5es de Casa...",
+        "url": "https://open.spotify.com/album/593RZfvtz4IAPWZpELwqDB"
+      },
+      "artists": [
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Caetano Veloso",
+          "url": "https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "Baiana",
+      "url": "https://open.spotify.com/track/2b13f0GSdL1ecyCTAUvZkP"
     },
     {
       "added_at": "2023-10-06 06:50:30",

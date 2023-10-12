@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 
 > Music from "THE IDOLM@STER SHINY COLORS"\. アイドルマスター シャイニーカラーズの楽曲を1つのプレイリストで。THE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,500 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,511 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,13 +42,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 32 | [浮動性イノセンス](https://open.spotify.com/track/29xsZmlSwrCno2BchVrCX8) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 03](https://open.spotify.com/album/1amhjTEry84P4TaaXupGGl) | 3:55 |
 | 33 | [星をめざして](https://open.spotify.com/track/7wsxyqYKYjVYsc1lSgE2X0) | [芹沢あさひ \(CV.田中有紀\)](https://open.spotify.com/artist/1WH3WJeWBh6MaSdrWmQWy4) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Stella\-](https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9) | 4:26 |
 | 34 | [学祭革命夜明け前](https://open.spotify.com/track/3dOAQeYqUF691ok9zu4Q7C) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 04](https://open.spotify.com/album/1VZnwWtBpDyVT0IWV4IV57) | 3:52 |
-| 35 | [千夜アリア](https://open.spotify.com/track/3ExAAENazuICvkqsm0hYW5) | [白瀬咲耶 \(CV.八巻アンナ\)](https://open.spotify.com/artist/5dYiy5c1QMxb3qX0BCnBIM) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:34 |
+| 35 | [Killer×Mission](https://open.spotify.com/track/0ghG8utRgqj7mnzNAMh5to) | [L'Antica](https://open.spotify.com/artist/6AVoZay6oxRPozPCGkwJJ9), [Straylight](https://open.spotify.com/artist/55ZnJMJst6Ezqxld9WevAA) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 01](https://open.spotify.com/album/2AtVxlrMgKVDsrqA6onKYJ) | 4:01 |
 | 36 | [Bloomy!](https://open.spotify.com/track/45PEMdEs1ohcHoyQ9u7kEf) | [アルストロメリア](https://open.spotify.com/artist/7cZwrPvoqWFiquYx5bfH2Q) | [THE IDOLM@STER SHINY COLORS FR@GMENT WING 05](https://open.spotify.com/album/5TiyTimNcQobXp7T8aT5EH) | 4:27 |
 | 37 | [あの花のように](https://open.spotify.com/track/24r7FW9pYDC8c8mJlVB7lT) | [ノクチル](https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 07](https://open.spotify.com/album/4PBmuHKNjEUcBU3WyIJbYh) | 4:07 |
 | 38 | [愚者の独白](https://open.spotify.com/track/4ThcKDoasWe7p4aPLrXlVJ) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 03](https://open.spotify.com/album/1amhjTEry84P4TaaXupGGl) | 4:37 |
 | 39 | [OH MY GOD](https://open.spotify.com/track/0EkPfuuMAy0zdR7oYvvCfJ) | [シーズ](https://open.spotify.com/artist/7HgWJK409CdFnu3OaK0NWZ) | [THE IDOLM@STER SHINY COLORS L@YERED WING 08](https://open.spotify.com/album/1Wd36SK5i0M9tCAwHQJBTv) | 3:44 |
 | 40 | [Tracing Defender](https://open.spotify.com/track/1XEU5o0qG4P0pHJeyAW00Q) | [ストレイライト](https://open.spotify.com/artist/493MBQPclwtXx4zWgCalzd) | [THE IDOLM@STER SHINY COLORS PANOR@MA WING 06](https://open.spotify.com/album/40jerhrEfhhYjWUh9AA4EU) | 3:20 |
-| 41 | [Killer×Mission](https://open.spotify.com/track/0ghG8utRgqj7mnzNAMh5to) | [L'Antica](https://open.spotify.com/artist/6AVoZay6oxRPozPCGkwJJ9), [Straylight](https://open.spotify.com/artist/55ZnJMJst6Ezqxld9WevAA) | [THE IDOLM@STER SHINY COLORS Synthe\-Side 01](https://open.spotify.com/album/2AtVxlrMgKVDsrqA6onKYJ) | 4:01 |
+| 41 | [千夜アリア](https://open.spotify.com/track/3ExAAENazuICvkqsm0hYW5) | [白瀬咲耶 \(CV.八巻アンナ\)](https://open.spotify.com/artist/5dYiy5c1QMxb3qX0BCnBIM) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:34 |
 | 42 | [五ツ座流星群](https://open.spotify.com/track/4HR0875EE4qjzED6rcNJYr) | [放課後クライマックスガールズ](https://open.spotify.com/artist/6jzOa0jOXV9zU12rSjRnX5) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 04](https://open.spotify.com/album/1VZnwWtBpDyVT0IWV4IV57) | 3:58 |
 | 43 | [Black Reverie \- 2023 Version](https://open.spotify.com/track/2wpG1jlGLA1WFFRENepGV5) | [アンティーカ](https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY) | [THE IDOLM@STER SHINY COLORS GR@DATE WING 03 \(2023 Ver.\)](https://open.spotify.com/album/40mu9JZOicVhL9fW5xM08E) | 4:51 |
 | 44 | [夢見鳥](https://open.spotify.com/track/4LBl0NObinFBwEDPIGIoRq) | [樋口円香 \(CV.土屋李央\)](https://open.spotify.com/artist/4nzTh0EGvqoTb8P1KsmcVX) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS \-Stella\-](https://open.spotify.com/album/4LNCaJ2SQh27tRtaZGzmT9) | 4:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QL9TBCM8cE.md) - [plain]
 | 49 | [Damascus Cocktail](https://open.spotify.com/track/5XkAwhmHyr3u9mrQEs1HlP) | [有栖川夏葉 \(CV.涼本あきほ\)](https://open.spotify.com/artist/37jw4iXmEc9Vb9ESE9PnJf) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 3:50 |
 | 50 | [statice](https://open.spotify.com/track/63fbgkmVDVCWM5vTmwEufo) | [浅倉 透 \(CV.和久井 優\)](https://open.spotify.com/artist/3W0BlGAFqbi1iKvsfO8kcu) | [THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS](https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG) | 4:37 |
 
-Snapshot ID: `MCw4NGMwMWQ0Mjc4MmIzMDY3OGM3ZmVjMGJmMDE1YmQyNWMzZDkxYzgw`
+Snapshot ID: `MCw0NjRiYmVkM2NkYmY4ZDMyNjQ4M2QyNGFhYjZmMjY0YTc0M2VjMmNk`

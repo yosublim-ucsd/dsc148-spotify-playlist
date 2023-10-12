@@ -1,12 +1,12 @@
 {
   "description": "Aqui o ver\u00e3o dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!",
-  "num_followers": 625120,
+  "num_followers": 624158,
   "original_name": "Ver\u00e3o Forever",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhY2UwYTFkNTkzZTA1NzY2ZjNlOTY2MGYyMjQyMWRlYTYxYzNkNDhk",
+  "snapshot_id": "MCxjYjg2ZTYxM2YzZWRlYTgwNjdjNGFhZmExMmJjZmUzY2U3YTc4NDg0",
   "tracks": [
     {
       "added_at": "2023-02-17 03:00:00",
@@ -267,22 +267,18 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "I Don't Care (with Justin Bieber)",
-        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
       },
       "artists": [
         {
-          "name": "Ed Sheeran & Justin Bieber",
-          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
         }
       ],
-      "duration_ms": 219946,
-      "name": "I Don't Care (with Justin Bieber)",
-      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -307,18 +303,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+        "name": "I Don't Care (with Justin Bieber)",
+        "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
       },
       "artists": [
         {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+          "name": "Ed Sheeran & Justin Bieber",
+          "url": "https://open.spotify.com/artist/1WsYCXdezMjn0KoIrLvMmC"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
         }
       ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+      "duration_ms": 219946,
+      "name": "I Don't Care (with Justin Bieber)",
+      "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Beso",
+        "url": "https://open.spotify.com/album/3h1i2Oprt4fTDunTV4MRwx"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 203631,
+      "name": "Beso",
+      "url": "https://open.spotify.com/track/1L9UBn6F0iY4HZeeH4teDZ"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "Favela",
         "url": "https://open.spotify.com/album/1s7ZwUeLcKAM4GqHY6PHcQ"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 185104,
       "name": "Favela",
       "url": "https://open.spotify.com/track/0pKMDhDrQExUqF6SxUpTpb"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Beso",
-        "url": "https://open.spotify.com/album/3h1i2Oprt4fTDunTV4MRwx"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 203631,
-      "name": "Beso",
-      "url": "https://open.spotify.com/track/1L9UBn6F0iY4HZeeH4teDZ"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
+        "name": "Live in the Moment",
+        "url": "https://open.spotify.com/album/2Zx5mrlkb70Qjh1RYEI4Pn"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 193507,
+      "name": "Live in the Moment",
+      "url": "https://open.spotify.com/track/0gQCDyX45XutyPdt5EWafa"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
         "name": "All The Lies (with Felix Jaehn & The Vamps)",
         "url": "https://open.spotify.com/album/4fPfnp90F94F1Ab8UANpHL"
       },
@@ -1543,22 +1559,6 @@
       "duration_ms": 179456,
       "name": "All The Lies (with Felix Jaehn & The Vamps)",
       "url": "https://open.spotify.com/track/4Cy5f4JsH1yoeGks7FnoHw"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
-        "name": "Live in the Moment",
-        "url": "https://open.spotify.com/album/2Zx5mrlkb70Qjh1RYEI4Pn"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 193507,
-      "name": "Live in the Moment",
-      "url": "https://open.spotify.com/track/0gQCDyX45XutyPdt5EWafa"
     },
     {
       "added_at": "2023-02-17 03:00:00",
@@ -1859,26 +1859,6 @@
     {
       "added_at": "2023-02-17 03:00:00",
       "album": {
-        "name": "Noitada",
-        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 136706,
-      "name": "Balinha de Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/265PFGoMLp50HHmtbKjvNW"
-    },
-    {
-      "added_at": "2023-02-17 03:00:00",
-      "album": {
         "name": "POTINHO",
         "url": "https://open.spotify.com/album/2vhu177PuIf5IZQiuESQG7"
       },
@@ -1895,6 +1875,26 @@
       "duration_ms": 177274,
       "name": "POTINHO",
       "url": "https://open.spotify.com/track/7wYZrv7HWbscIMnJZ6hj03"
+    },
+    {
+      "added_at": "2023-02-17 03:00:00",
+      "album": {
+        "name": "Noitada",
+        "url": "https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 136706,
+      "name": "Balinha de Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/265PFGoMLp50HHmtbKjvNW"
     },
     {
       "added_at": "2023-02-17 03:00:00",

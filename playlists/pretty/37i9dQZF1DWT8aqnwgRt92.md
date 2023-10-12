@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,356,366 likes - 85 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,356,377 likes - 85 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 21 | [GET BACK](https://open.spotify.com/track/7wWybh1ChBRIf1UgljRZoR) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [GET BACK](https://open.spotify.com/album/5QenbKNrMQVCSD1SCH0tpo) | 3:15 |
 | 22 | [Prayer](https://open.spotify.com/track/7pKHXmkkGkT2UZpt7DU4nd) | [Who\-ya Extended](https://open.spotify.com/artist/3sE3971KYAw7t9ENx8Eqwk) | [Prayer](https://open.spotify.com/album/7yCylSqqsPNlVeLPUxJB1h) | 3:08 |
 | 23 | [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/track/1aA5eHoRPcuNxtJkVeWoZy) | [ZAQ](https://open.spotify.com/artist/56TyClNQ0oVZLhK2V9KhA6) | [Guitar, Loneliness and Blue Planet \- From CrosSing](https://open.spotify.com/album/2rmLgQmIb0NhFGZHz2XUhV) | 3:49 |
-| 24 | [Naiteiinda](https://open.spotify.com/track/0XG0tbMYCtXac43tJaA3Dg) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Naiteiinda](https://open.spotify.com/album/43Z43JtRCAwtORme6d6BnR) | 3:40 |
+| 24 | [Naiteiinda](https://open.spotify.com/track/4qYnNRrUStS7FLdosbQFPS) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [The Best flumpool 2.0 \~ Blue\(2008\-2011\)& Red\(2019\-2023\) \~](https://open.spotify.com/album/1jUNCwNItivgFwAqqrAMNv) | 3:40 |
 | 25 | [プラネタリア](https://open.spotify.com/track/1m0rRTBTKBCiXDkNdEKbYo) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [プラネタリア](https://open.spotify.com/album/17uYpGkXy9NB1RBzHVB7Ri) | 4:33 |
 | 26 | [リップシンク](https://open.spotify.com/track/1bvbHclmu1q5yLsGuaV1pS) | [黒子首](https://open.spotify.com/artist/56pKIRNnzK6xCW508ohOo3) | [リップシンク](https://open.spotify.com/album/1Hf7LSW4yGAhlTgOdsvBJU) | 3:13 |
 | 27 | [Hope](https://open.spotify.com/track/3SPLNGNyEZWr1ZqCQEeH8l) | [内田雄馬](https://open.spotify.com/artist/4VJIq1t9RJ8WBYGr2P1FwF) | [Hope](https://open.spotify.com/album/7q2OTBt5eMAlJi9Vw830S3) | 4:29 |
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 31 | [Queen of the Night](https://open.spotify.com/track/1gzlOAq7ozJ8X8VIbUN8yd) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [Queen of the Night](https://open.spotify.com/album/3lU8QCp5YQfe488NNe7qQ2) | 4:13 |
 | 32 | [花束](https://open.spotify.com/track/0yeRdpJL8SKE8tVtcbcXTK) | [Lenny code fiction](https://open.spotify.com/artist/6nvlfxR3ZRCNzw39ZTcGSR) | [花束](https://open.spotify.com/album/7ARh89xNsJbeBipVHiiUiR) | 3:46 |
 | 33 | [RISE FROM DEAD](https://open.spotify.com/track/0drusw4d19L4kgzkYrgkkC) | [ヒプノシスマイク \-D.R.B\- Rhyme Anima \(Division All Stars\)](https://open.spotify.com/artist/2jDF6txAVkptRBGsIpqXv8) | [RISE FROM DEAD](https://open.spotify.com/album/4XuDdSGWx2G7i4MVtDrMAZ) | 3:40 |
-| 34 | [アフターグロウ](https://open.spotify.com/track/4JGiODNnchXeUpbyWwk9nG) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie×Magie](https://open.spotify.com/album/5Nymj45jme7PoBC6z8FCGU) | 4:04 |
+| 34 | [Afterglow](https://open.spotify.com/track/4DvRFPXSsTkxZqwrCZPGly) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Magie Magie](https://open.spotify.com/album/501DWHpafy1a3ycR6TW3q4) | 4:04 |
 | 35 | [Lilac Melody](https://open.spotify.com/track/527mtmddRtbAguiGUhOgrh) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [Lilac Melody](https://open.spotify.com/album/1q1pLsLvofX0HDjn21HWbm) | 4:23 |
 | 36 | [点と線](https://open.spotify.com/track/6Ay2JS645i4rwRGMPirynZ) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [点と線 \(TVアニメ「星屑テレパス」オープニング・テーマ\)](https://open.spotify.com/album/6nUCj1ED7bZLocuAwsUuWI) | 4:45 |
 | 37 | [ゆるり](https://open.spotify.com/track/1FU9vclbtQZGm5kkykkYUY) | [果歩](https://open.spotify.com/artist/3eFJ5DLTrkKw1kpb8gz2TS) | [ゆるり](https://open.spotify.com/album/08o1s4irye1tK3zvFkElZE) | 3:37 |
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 54 | [BROKEN GAMES](https://open.spotify.com/track/77OLrw9sVVNHxnceM9q1i5) | [FZMZ](https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb) | [BROKEN GAMES](https://open.spotify.com/album/4BFNnzdKzI39e29rNzeaEd) | 3:56 |
 | 55 | [Sukini Nattewa Ikenai Riyuu](https://open.spotify.com/track/6Hns4ZGJBGnqQtNBKg5QvI) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [Sukini Nattewa Ikenai Riyuu](https://open.spotify.com/album/3l9BFzZXjw05UJa0BcfVxC) | 4:40 |
 | 56 | [じゃんけんほい！](https://open.spotify.com/track/5andKZGc1hoy3iCRPUdu7d) | [\#kzn](https://open.spotify.com/artist/6PPyZ24emAZuxz2OK9DDCq), [すりぃ](https://open.spotify.com/artist/29XdcKZcwr9ikcmxud5UEa) | [じゃんけんほい！](https://open.spotify.com/album/1LxjHndndEihf4ECINj8fE) | 3:34 |
-| 57 | [ドロー](https://open.spotify.com/track/3a0eIE0dd509tKxCdkIYLW) | [XAAXAA](https://open.spotify.com/artist/0VcWUiBe3sJ7tqkZejkQvd) | [ドロー](https://open.spotify.com/album/6uxv5F9KC7sKwFcEu8c3dH) | 3:31 |
+| 57 | [DRAW](https://open.spotify.com/track/68bacZy8OquMiXpmEUNi0L) | [XAAXAA](https://open.spotify.com/artist/0VcWUiBe3sJ7tqkZejkQvd) | [DRAW](https://open.spotify.com/album/1Xrw9J0zz0mYZxQRJUAlro) | 3:31 |
 | 58 | [fam](https://open.spotify.com/track/1QRCIe2ViATfzwz37Fyfrm) | [遊遊](https://open.spotify.com/artist/0xcDdlgQye7CQJa1fdJrPj) | [fam](https://open.spotify.com/album/2WUdT0tdJaRCXzfCuuHUaf) | 3:56 |
 | 59 | [夏暁](https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [夏暁](https://open.spotify.com/album/5N6ezwJ6Sr3pyupk8TV9ez) | 3:52 |
 | 60 | [Magic Writer](https://open.spotify.com/track/4XUjQUzNxxssdAI3V25Qbf) | [saji](https://open.spotify.com/artist/1jA2LiMI5yb5QOSpVI51fC) | [Magic Writer](https://open.spotify.com/album/2wCXz8EhURBDNPaBzG8RLw) | 3:41 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8aqnwgRt92.md) - [plain]
 | 84 | [ヒカリトカゼ](https://open.spotify.com/track/2QvWBGuGgoDZCNKGbjSpmt) | [BACK\-ON](https://open.spotify.com/artist/41wiRMqVmNSZ3FFM7JIeht) | [ヒカリトカゼ](https://open.spotify.com/album/48XQcdFXosUmSHGCECFIYI) | 3:34 |
 | 85 | [Friends Are For TV SIZE](https://open.spotify.com/track/19Qk7QLzQlHzKueJ5XWE92) | [MOONCHILD](https://open.spotify.com/artist/4wZ56MQgx9kLpOmF3IuJmM) | [Friends Are For TV SIZE](https://open.spotify.com/album/1YOv5Oyb8M95kTPgSP1cyC) | 1:30 |
 
-Snapshot ID: `MCw4MjEzNzRhYzRiZjNhZTAxYTQ4NDZkZDYyYTZlNjQwODRmOWQ4NzQz`
+Snapshot ID: `MCxmYTNiM2UyOTdmZDdjM2JhMGRlZTNjYTkyNjlmNjdjNzFkN2YwNGE2`

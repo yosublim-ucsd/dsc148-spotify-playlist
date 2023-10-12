@@ -1,12 +1,12 @@
 {
   "description": "Celebramos a las figuras legendarias del rock en nuestro idioma. Foto: Soda Stereo.",
-  "num_followers": 625384,
+  "num_followers": 625549,
   "original_name": "Iconos del Rock Latinoamericano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkOGU4ZTExMTdlYjk1NmVjMDBlMDA2ZGVkY2MzNGM0NGU4MGE5ZGY2",
+  "snapshot_id": "MCw0YzllOWYyZmQ1OWY1NjIzNTMxZmYyZjY3ZjNlNmU3YWJmZGFkNjg0",
   "tracks": [
     {
       "added_at": "2022-05-20 13:11:18",
@@ -91,22 +91,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Alta Suciedad",
-        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 277653,
-      "name": "Flaca",
-      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "La Flaca",
         "url": "https://open.spotify.com/album/6mD9lN6mqu4313KpY1RfIp"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 261200,
       "name": "La flaca",
       "url": "https://open.spotify.com/track/2LsbizbOeNa4x6qsi2jAMb"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Alta Suciedad",
+        "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 277653,
+      "name": "Flaca",
+      "url": "https://open.spotify.com/track/1p7m9H4H8s0Y7SgRm7j3ED"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -507,18 +507,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
-        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
+        "name": "El Circo",
+        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
       },
       "artists": [
         {
-          "name": "Heroes Del Silencio",
-          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
+          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
         }
       ],
-      "duration_ms": 253186,
-      "name": "Maldito duende",
-      "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
+      "duration_ms": 267226,
+      "name": "Kumbala",
+      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -539,18 +539,18 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "El Circo",
-        "url": "https://open.spotify.com/album/5VJ9cWdT6Kv9UawePqLhCI"
+        "name": "Senderos De Traici\u00f3n - Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/7DAoA2gOvycforLAKyFD8Y"
       },
       "artists": [
         {
-          "name": "Maldita Vecindad Y Los Hijos Del 5to. Patio",
-          "url": "https://open.spotify.com/artist/6WvDtNFHOWHfiNy8NVHujT"
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
         }
       ],
-      "duration_ms": 267226,
-      "name": "Kumbala",
-      "url": "https://open.spotify.com/track/5EfHXTq8UPCFyPDvCNIKMm"
+      "duration_ms": 253186,
+      "name": "Maldito duende",
+      "url": "https://open.spotify.com/track/7vcDJCAO356RYkCfiUozmE"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -619,22 +619,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "El Milagro Argentino",
-        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
-      },
-      "artists": [
-        {
-          "name": "Los Aut\u00e9nticos Decadentes",
-          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
-        }
-      ],
-      "duration_ms": 313000,
-      "name": "Loco (Tu Forma De Ser)",
-      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "El Primer Instinto",
         "url": "https://open.spotify.com/album/7BDdocfgBjmh5bw2VKA6JL"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 206133,
       "name": "Te Lo Pido por Favor",
       "url": "https://open.spotify.com/track/6iRkrVOhCjgKFB2cBWnx4M"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "El Milagro Argentino",
+        "url": "https://open.spotify.com/album/2pqscM7JlS6XR6fk7Y8tVZ"
+      },
+      "artists": [
+        {
+          "name": "Los Aut\u00e9nticos Decadentes",
+          "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        }
+      ],
+      "duration_ms": 313000,
+      "name": "Loco (Tu Forma De Ser)",
+      "url": "https://open.spotify.com/track/3ydweVPwq9PCEVJ8WwqT6u"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -763,22 +763,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
-        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
-      },
-      "artists": [
-        {
-          "name": "DLD",
-          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
-        }
-      ],
-      "duration_ms": 282760,
-      "name": "Mi Vida",
-      "url": "https://open.spotify.com/track/4f6bE40jl7zuFJ3cOCwaI1"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Vida De Perros",
         "url": "https://open.spotify.com/album/76HflPZm3Uo1WHlRQIPKEC"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 236426,
       "name": "Llueve Sobre La Ciudad",
       "url": "https://open.spotify.com/track/6ftHPJyEHGqMaml3ZEwPm1"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Jos\u00e9 Jos\u00e9, Un Tributo 1 & 2",
+        "url": "https://open.spotify.com/album/103zw9Qm9BRCdlb3mYsBOl"
+      },
+      "artists": [
+        {
+          "name": "DLD",
+          "url": "https://open.spotify.com/artist/7CwiLiC1S8B69RMPxbDb6S"
+        }
+      ],
+      "duration_ms": 282760,
+      "name": "Mi Vida",
+      "url": "https://open.spotify.com/track/4f6bE40jl7zuFJ3cOCwaI1"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -907,6 +907,22 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
+        "name": "La Velocidad de la Luz",
+        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 267826,
+      "name": "Bailando Solo",
+      "url": "https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
         "name": "Elefante",
         "url": "https://open.spotify.com/album/42Fc71rqB9qZAb84q0Hs3U"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 233733,
       "name": "A un minuto de ti",
       "url": "https://open.spotify.com/track/7HlULtRMJSTzorUMebka0f"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
-        "name": "La Velocidad de la Luz",
-        "url": "https://open.spotify.com/album/7AihR949bXqDLbDfg5EZfG"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 267826,
-      "name": "Bailando Solo",
-      "url": "https://open.spotify.com/track/1wGNjZQoO4Ac5zotF3aZTb"
     },
     {
       "added_at": "2022-05-20 13:11:18",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-05-20 13:11:18",
       "album": {
-        "name": "Mucho Barato",
-        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
-      },
-      "artists": [
-        {
-          "name": "Control Machete",
-          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
-        }
-      ],
-      "duration_ms": 215266,
-      "name": "Comprendes, Mendes?",
-      "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
-    },
-    {
-      "added_at": "2022-05-20 13:11:18",
-      "album": {
         "name": "Fobia",
         "url": "https://open.spotify.com/album/3CrPRAsNzMd54SBk8GFD3G"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 157106,
       "name": "El Microbito",
       "url": "https://open.spotify.com/track/2EeCAQN9IKpMGKEK3dQobA"
+    },
+    {
+      "added_at": "2022-05-20 13:11:18",
+      "album": {
+        "name": "Mucho Barato",
+        "url": "https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog"
+      },
+      "artists": [
+        {
+          "name": "Control Machete",
+          "url": "https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK"
+        }
+      ],
+      "duration_ms": 215266,
+      "name": "Comprendes, Mendes?",
+      "url": "https://open.spotify.com/track/2YRDxUyqAXbukcjClvuYsd"
     },
     {
       "added_at": "2022-05-20 13:11:18",

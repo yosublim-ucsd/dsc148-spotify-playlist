@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 
 > The very best in new music from around the world\. Cover: Tems
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,787 likes - 99 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,679 likes - 99 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 90 | [pink dress](https://open.spotify.com/track/2MBuWN9LjsJSKyGlWSJOXo) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [pink dress](https://open.spotify.com/album/2By8efmDvVvtVaWyJdyx0s) | 2:53 |
 | 91 | [East](https://open.spotify.com/track/7H9Pza55cWaHOgzw0UclXp) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [East](https://open.spotify.com/album/7ANkteUr95wzf2nEoxKkqf) | 4:09 |
 | 92 | [Jumoke](https://open.spotify.com/track/5L8dHIMUXtDD3j46d05TqA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Jumoke](https://open.spotify.com/album/6WX4WjbumSDgllaiFTVCit) | 3:06 |
-| 93 | [Fight My Demons](https://open.spotify.com/track/6qmuDfuovbFjz6kMgiSokm) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Groove Continental: Side B](https://open.spotify.com/album/6DJVP3L3EJcbOVYMHbAZyr) | 3:40 |
+| 93 | [Fight My Demons](https://open.spotify.com/track/6qmuDfuovbFjz6kMgiSokm) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [Groove Continental: Side B](https://open.spotify.com/album/6DJVP3L3EJcbOVYMHbAZyr) | 3:40 |
 | 94 | [ring in ur ear](https://open.spotify.com/track/0pQudbYpkDgp5NvivZeTTy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [ring in ur ear](https://open.spotify.com/album/6FJfmpnSI7zEuAlWYRR0kT) | 3:18 |
 | 95 | [Best Of Me](https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:51 |
 | 96 | [I Like Dogs](https://open.spotify.com/track/6zesqtIAy9kc4UnHnhz3Nq) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [The CARR Show](https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ) | 3:33 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJfnUiYjUKT.md) - [plain]
 | 98 | [unconditional](https://open.spotify.com/track/0lMr7vbQZeDT4ZS37Ui5l9) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [i’ll be fine if i want to](https://open.spotify.com/album/7mBtFLd9LAr8jrgOjjV959) | 3:53 |
 | 99 | [a lesson in chemistry](https://open.spotify.com/track/4PoCaIK1ATTxQvqtTTXFzz) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [a lesson in chemistry](https://open.spotify.com/album/2slYBTkG0mGdQEmQVe6dD3) | 2:07 |
 
-Snapshot ID: `MCxlMDEwMmQxMWI3ZTI1YTk3N2M3ZjdkNmMwNDZjM2YyODE4MDliYjJl`
+Snapshot ID: `MCxmM2M0ODYwNTllNjc0NTEyYzkwMDhmMDE0YWIyYzg0MTNiNTM3ZDJi`

@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 9581,
+  "num_followers": 9646,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMmI1Nzk3MWQ1NjE1ZDg5MWZmMjE3OGU5MWJiZjYxYzA0Y2IzZTY4",
+  "snapshot_id": "MCxmMzY4MWMwZWY2YTk1N2Y3ODUzODMxMzBjNDQyYzE1MTQ5OGU3ODBm",
   "tracks": [
     {
       "added_at": "2022-10-01 20:31:11",
@@ -203,6 +203,22 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Wolf Talk",
+        "url": "https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW"
+      },
+      "artists": [
+        {
+          "name": "Grind2hard Osh\u2019a",
+          "url": "https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET"
+        }
+      ],
+      "duration_ms": 173949,
+      "name": "Nowhere 2 Run",
+      "url": "https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Die 4 Respect",
         "url": "https://open.spotify.com/album/4TzzpYnIMI8opSO9koKKVG"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 245621,
       "name": "Impatient (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/5LE8xsgXORBCV70UKd7ywp"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Wolf Talk",
-        "url": "https://open.spotify.com/album/5SVniwgSdrKp3lk4H3TivW"
-      },
-      "artists": [
-        {
-          "name": "Grind2hard Osh\u2019a",
-          "url": "https://open.spotify.com/artist/2PnBmX5Wpq0hUQuGh9W5ET"
-        }
-      ],
-      "duration_ms": 173949,
-      "name": "Nowhere 2 Run",
-      "url": "https://open.spotify.com/track/6RCET3cus4uP5eX9zIpeOb"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -443,26 +443,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "VORY",
-        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        },
-        {
-          "name": "Meek Mill",
-          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
-        }
-      ],
-      "duration_ms": 183182,
-      "name": "Ain't It Funny ft. Meek Mill",
-      "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Fly Away",
         "url": "https://open.spotify.com/album/3qftkbsS2zu16yMRbwIPWa"
       },
@@ -475,22 +455,6 @@
       "duration_ms": 148330,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/3HwqBzrxs7MFY91C6152en"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "B.H.D. (Black Hearted Demon)",
-        "url": "https://open.spotify.com/album/2Qeie0AYfdOr2Y0Gp9qCIT"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Hands Down",
-      "url": "https://open.spotify.com/track/0AjxDudmpT7MMkqtwCtJbE"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -511,6 +475,42 @@
       "duration_ms": 129662,
       "name": "Freaky As Me (feat. latto)",
       "url": "https://open.spotify.com/track/3T6YpSTeFtJBLgGulRk5Mi"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "VORY",
+        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        },
+        {
+          "name": "Meek Mill",
+          "url": "https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc"
+        }
+      ],
+      "duration_ms": 183182,
+      "name": "Ain't It Funny ft. Meek Mill",
+      "url": "https://open.spotify.com/track/0ftCFsa6FKV37aB2CVtkzd"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "B.H.D. (Black Hearted Demon)",
+        "url": "https://open.spotify.com/album/2Qeie0AYfdOr2Y0Gp9qCIT"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Hands Down",
+      "url": "https://open.spotify.com/track/0AjxDudmpT7MMkqtwCtJbE"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -599,6 +599,26 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
+        "name": "Sayless",
+        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
+      },
+      "artists": [
+        {
+          "name": "Seddy Hendrinx",
+          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 182258,
+      "name": "RPS & Codeine (feat. Gunna)",
+      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
         "name": "Zero Tolerance",
         "url": "https://open.spotify.com/album/4XyOdD2CwwEWZbSzjcZhgZ"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 189813,
       "name": "I Like (feat. Karlae & Coi Leray)",
       "url": "https://open.spotify.com/track/1OuwfVcdn99T9SPBHaVTNn"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
-        "name": "Sayless",
-        "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
-      },
-      "artists": [
-        {
-          "name": "Seddy Hendrinx",
-          "url": "https://open.spotify.com/artist/4TYOMrAFzxu8wO0yLIpOm4"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 182258,
-      "name": "RPS & Codeine (feat. Gunna)",
-      "url": "https://open.spotify.com/track/4ZUnCQ1wwsxIt2r43Mb2YY"
     },
     {
       "added_at": "2022-10-01 20:31:11",
@@ -759,22 +759,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "VORY",
-        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
-      },
-      "artists": [
-        {
-          "name": "Vory",
-          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
-        }
-      ],
-      "duration_ms": 192400,
-      "name": "Bad Guy",
-      "url": "https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "Sayless",
         "url": "https://open.spotify.com/album/09cQYh4fbHWyUwRBYbg4nJ"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 155224,
       "name": "45 (feat. A Boogie Wit da Hoodie)",
       "url": "https://open.spotify.com/track/5DVo2XcdsgEbBsN4bdw5b7"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "VORY",
+        "url": "https://open.spotify.com/album/5iRW5fHWYfewFUalgau4QA"
+      },
+      "artists": [
+        {
+          "name": "Vory",
+          "url": "https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG"
+        }
+      ],
+      "duration_ms": 192400,
+      "name": "Bad Guy",
+      "url": "https://open.spotify.com/track/7emJRAhUHhLtBtvzjDpjMC"
     },
     {
       "added_at": "2022-10-01 20:31:11",

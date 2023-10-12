@@ -1,12 +1,12 @@
 {
   "description": "Timeless melodies from your favourite artists, both old and new.",
-  "num_followers": 900308,
+  "num_followers": 900224,
   "original_name": "A Perfect Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mzg2OGM4NWFlMzcxODMyZGVkMTA2ZDI1ZDY5ZjM2ZjA1OTYxYmVl",
+  "snapshot_id": "MCxkOWFmNTE0NjEyNTk3MTcxYTQ2NjZjNjQ5MDczNTk0ZjAwYjE1NmRi",
   "tracks": [
     {
       "added_at": "2023-09-12 15:07:15",
@@ -835,22 +835,6 @@
       "duration_ms": 176000,
       "name": "Georgia",
       "url": "https://open.spotify.com/track/7d4lvIqCYS2DGTCZAjmCHu"
-    },
-    {
-      "added_at": "2023-09-12 15:07:15",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
     },
     {
       "added_at": "2023-09-12 15:07:15",

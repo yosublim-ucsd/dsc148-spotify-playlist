@@ -3176,6 +3176,24 @@
     {
       "album": {
         "name": "Monk Mont\u00e9",
+        "url": "https://open.spotify.com/album/6lwmNrIkDEUTo8z45DzLc6"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        }
+      ],
+      "date_added": "2023-08-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189657,
+      "name": "Like Ah Boss",
+      "url": "https://open.spotify.com/track/08uIpFwr0W4XuoJqR7uuQa"
+    },
+    {
+      "album": {
+        "name": "Monk Mont\u00e9",
         "url": "https://open.spotify.com/album/6mjnIomPsuMnKlgD2yij16"
       },
       "artists": [
@@ -3186,7 +3204,7 @@
       ],
       "date_added": "2023-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 189657,
       "name": "Like Ah Boss",
       "url": "https://open.spotify.com/track/0ZEK6MHn9EfZtH9oaxLTgG"

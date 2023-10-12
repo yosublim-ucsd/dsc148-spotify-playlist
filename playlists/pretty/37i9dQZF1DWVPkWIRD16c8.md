@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 
 > Have a fantastic road trip with upbeat songs from your favorite Christian artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,425 likes - 75 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,701 likes - 75 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,13 +20,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 10 | [Trust in You](https://open.spotify.com/track/50f6Sc85lbQgEaOfQm41Zr) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [How Can It Be](https://open.spotify.com/album/2zTNj92GTDDMzWSXEWdLyu) | 3:31 |
 | 11 | [God's Not Dead \(Like A Lion\)](https://open.spotify.com/track/0eI19vR5WZ12fuYcEFUVkw) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [God's Not Dead](https://open.spotify.com/album/7Csd473gctS7rL0YUhjlkX) | 4:18 |
 | 12 | [The Man Comes Around](https://open.spotify.com/track/3Jq9rsqmRtqcVKtzP9dnxZ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [American IV: The Man Comes Around](https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9) | 4:26 |
-| 13 | [God Is](https://open.spotify.com/track/6xRWoYwfwIKnT8bQGzKbxR) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:23 |
-| 14 | [Maybe It's Ok](https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Power](https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi) | 3:31 |
+| 13 | [Maybe It's Ok](https://open.spotify.com/track/3mKIS7svYfwxiwRWIi1tmK) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Power](https://open.spotify.com/album/0LVXob178SD0IbGst4RWvi) | 3:31 |
+| 14 | [God Is](https://open.spotify.com/track/6xRWoYwfwIKnT8bQGzKbxR) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [JESUS IS KING](https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9) | 3:23 |
 | 15 | [Great Are You Lord](https://open.spotify.com/track/2YgtXx9OVBOzja9Fckb4FY) | [one sonic society](https://open.spotify.com/artist/2PmYKBQgsjegT3k5C6pkqW) | [Great Are You Lord EP](https://open.spotify.com/album/6tjfwXYxnJoPABI2V2PPbf) | 3:52 |
 | 16 | [Thy Will](https://open.spotify.com/track/1V3eyBz3pfkn9lBOlfle4x) | [Hillary Scott & The Scott Family](https://open.spotify.com/artist/4EVSOMkocOlqAZ9ujkGrQR) | [Love Remains](https://open.spotify.com/album/4eZL2PZL6UiFWrj6JAVTLJ) | 3:56 |
 | 17 | [I'll Find You \(feat\. Tori Kelly\)](https://open.spotify.com/track/6m60IwLIkZ2Fmz4J9FsQ1o) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [All Things Work Together](https://open.spotify.com/album/5DPZqC3ySZkJClCvZlIq6K) | 3:37 |
-| 18 | [Hills and Valleys \(The Valleys Version\)](https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 4:09 |
-| 19 | [Saved](https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Saved](https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi) | 2:54 |
+| 18 | [Saved](https://open.spotify.com/track/4n5KoOsuEBe4NCTu0jbtKt) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Saved](https://open.spotify.com/album/4vOtaNqFCeoNjj1lZcxqMi) | 2:54 |
+| 19 | [Hills and Valleys \(The Valleys Version\)](https://open.spotify.com/track/398Dfg7EisARPcvixgrtuI) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 4:09 |
 | 20 | [Dead Man Walking](https://open.spotify.com/track/1z5YtEopKg5pyjCM3BEsr5) | [Jeremy Camp](https://open.spotify.com/artist/5wpEBloInversG3zp3CVAk) | [The Story's Not Over](https://open.spotify.com/album/3gSR4A397QFdzyvO2qihm3) | 3:07 |
 | 21 | [Love Broke Thru](https://open.spotify.com/track/1NZWiuy0mlnsrcYL2dhKt6) | [TobyMac](https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3) | [This Is Not A Test](https://open.spotify.com/album/5cv2FBz4B4x0WpAjMSI1UG) | 3:57 |
 | 22 | [Almost Home](https://open.spotify.com/track/1ZEW880xswhd9glIHB7GYF) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [inhale \(exhale\)](https://open.spotify.com/album/5AfoxZl8Y5VJgC9nK0DvBV) | 4:05 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 50 | [Beautiful Day](https://open.spotify.com/track/5CpLuLmPq50KMIHoUA4L8Z) | [Jamie Grace](https://open.spotify.com/artist/2E5E5eAP6yDhZ7EHc0Evr7) | [Ready to Fly](https://open.spotify.com/album/3diCugOQoocNtu1ToEARHb) | 3:10 |
 | 51 | [Prize Worth Fighting For](https://open.spotify.com/track/5KjFzc5Q0aI6rFju3lSIBy) | [Jamie Kimmett](https://open.spotify.com/artist/6149cbbptDgml1rjD0qOUG) | [Prize Worth Fighting For](https://open.spotify.com/album/6uPgUZqPIUQEMjBrJhuCRo) | 3:20 |
 | 52 | [Greater Than All My Regrets](https://open.spotify.com/track/31XV6mfKY1Vdyb6KuNfArI) | [Tenth Avenue North](https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0) | [No Shame](https://open.spotify.com/album/0UtgPgGX5uX7CDLE7NeggY) | 4:16 |
-| 53 | [Unfinished](https://open.spotify.com/track/597GRV7fJ030diN3BTWpKS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Out Of The Dark \(Deluxe Edition\)](https://open.spotify.com/album/42y8y3uNMSS3O7pFyHR9I0) | 3:32 |
-| 54 | [God Knows \(Must Be Love\) \- Radio Edit](https://open.spotify.com/track/5GxhZpPHgeN5uU6Q4fNrTo) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [God Knows \(Must Be Love\) \- Radio Edit](https://open.spotify.com/album/4Swc2mNIsrPH3jqkgKUAa0) | 3:56 |
+| 53 | [God Knows \(Must Be Love\) \- Radio Edit](https://open.spotify.com/track/5GxhZpPHgeN5uU6Q4fNrTo) | [Andrew Ripp](https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN) | [God Knows \(Must Be Love\) \- Radio Edit](https://open.spotify.com/album/4Swc2mNIsrPH3jqkgKUAa0) | 3:56 |
+| 54 | [Unfinished](https://open.spotify.com/track/597GRV7fJ030diN3BTWpKS) | [Mandisa](https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3) | [Out Of The Dark \(Deluxe Edition\)](https://open.spotify.com/album/42y8y3uNMSS3O7pFyHR9I0) | 3:32 |
 | 55 | [Ready Set Go \(feat\. Capital Kings\) \(feat\. Capital Kings\)](https://open.spotify.com/track/0HbjDc4BM2kXEuiOGf8nPl) | [Royal Tailor](https://open.spotify.com/artist/1CmWVjnzTRTqZqdVIlZSSY), [Capital Kings](https://open.spotify.com/artist/3lTIrl4h1Vov8fDaNqXUof) | [Royal Tailor](https://open.spotify.com/album/2VDnekBdHv9CuNpu3yBMZa) | 3:29 |
 | 56 | [The Only Name \(Yours Will Be\)](https://open.spotify.com/track/3Ba5WQizFbQPRN7MtlXoTF) | [Big Daddy Weave](https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt) | [Love Come To Life](https://open.spotify.com/album/0RDPOY2Nprgx01KCX8XOLM) | 4:21 |
 | 57 | [When We Fall Apart](https://open.spotify.com/track/6QZP7wxsor0vZsI9dkKZk2) | [Ryan Stevenson](https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97) | [Wildest Dreams](https://open.spotify.com/album/7sMUMoz8M97aFHePhUpdR9) | 4:27 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVPkWIRD16c8.md) - [plain]
 | 69 | [Closer Than a Brother](https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Chrysaline](https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA) | 5:09 |
 | 70 | [Faith \- Radio Version](https://open.spotify.com/track/7divHOOalhpuFAhXWo0XXa) | [Jordan Feliz](https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA) | [Jordan Feliz Collection](https://open.spotify.com/album/1iqhX2yqmOEyElJUcAiqep) | 3:46 |
 | 71 | [Rebels](https://open.spotify.com/track/6crlD7xx4i1va0wahdwCga) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Michael Ketterer](https://open.spotify.com/artist/3AL84d4gLR8nUYxVLLOcmo) | [REBELS](https://open.spotify.com/album/1Aygf3pcwpsDpiPmL8H5rd) | 3:46 |
-| 72 | [This Is the Stuff](https://open.spotify.com/track/3SkhhzEOzs8XR1Ta8jVNsO) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Hundred More Years](https://open.spotify.com/album/1s6NqofRkHJN1eThDu948E) | 3:03 |
-| 73 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
+| 72 | [Only Ever](https://open.spotify.com/track/3A1etA4fcClRWiPCRhbY9l) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Only Ever](https://open.spotify.com/album/1OK3WYikBD59j8DxLPXhte) | 3:21 |
+| 73 | [This Is the Stuff](https://open.spotify.com/track/3SkhhzEOzs8XR1Ta8jVNsO) | [Francesca Battistelli](https://open.spotify.com/artist/29ywwKkxfoH7iWwNY1UezA) | [Hundred More Years](https://open.spotify.com/album/1s6NqofRkHJN1eThDu948E) | 3:03 |
 | 74 | [Future](https://open.spotify.com/track/2CF9nJbfB541d6YTPQufcz) | [River Valley Worship](https://open.spotify.com/artist/1VXCIEol192OgSF9VzowGV) | [Future](https://open.spotify.com/album/65fqN6r9pytPCPcWiaulDi) | 3:54 |
 | 75 | [Yes I Will \(Studio Version\)](https://open.spotify.com/track/3d225PGEHBjK5ZQkQ7qSfJ) | [Vertical Worship](https://open.spotify.com/artist/6N6Sk9XOoHsadAGYR44C2o) | [Yes I Will \(Studio Version\)](https://open.spotify.com/album/13S5KXWwxesh4cNpPw2odi) | 3:36 |
 
-Snapshot ID: `MCw0ODkyNjA2OWJlMzBhYWZiZDA1YzAzMDg3NjM4ZTA1N2QxOTRjMTY2`
+Snapshot ID: `MCwyOWQzOWQ4NTllNTM2M2NmN2E0ZWUzM2FkY2Y4Y2VjYTAzY2NjMjM4`

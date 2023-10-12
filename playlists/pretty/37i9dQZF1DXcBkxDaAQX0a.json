@@ -1,12 +1,12 @@
 {
   "description": "Take a break from distorted guitars and enjoy punk's mellow side. Cover: Avril Lavigne",
-  "num_followers": 330985,
+  "num_followers": 330934,
   "original_name": "Punk Unplugged",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMDhkMGFhZmEzMTdmNTY4ZWMxZTNkYTBkMTBlYzAwZjhhZDE4Zjdl",
+  "snapshot_id": "MCwxNTg4ODk4ZDAyYTdiZTE5OGJjZTc3MGFkNzZhNmUxMDM0NGI5MjFi",
   "tracks": [
     {
       "added_at": "2022-04-04 15:03:53",
@@ -607,22 +607,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Backbone",
-        "url": "https://open.spotify.com/album/4ZF0Ii6ktAq4QKx9rCN5ku"
-      },
-      "artists": [
-        {
-          "name": "ROAM",
-          "url": "https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq"
-        }
-      ],
-      "duration_ms": 202920,
-      "name": "Tracks",
-      "url": "https://open.spotify.com/track/6Pf1Y9DjaDLp53XyLXpaSg"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Acoustic Volume 2",
         "url": "https://open.spotify.com/album/0XIVAebYjcGqbWVHdVLLKD"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 215385,
       "name": "It Don't Exist",
       "url": "https://open.spotify.com/track/2NWzOzEnfD5dc4SEgUkgY7"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Backbone",
+        "url": "https://open.spotify.com/album/4ZF0Ii6ktAq4QKx9rCN5ku"
+      },
+      "artists": [
+        {
+          "name": "ROAM",
+          "url": "https://open.spotify.com/artist/0q74f5UdR3j14Lis4AKKxq"
+        }
+      ],
+      "duration_ms": 202920,
+      "name": "Tracks",
+      "url": "https://open.spotify.com/track/6Pf1Y9DjaDLp53XyLXpaSg"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "The Afterglow / Aquamarine",
-        "url": "https://open.spotify.com/album/7v8VHfKqywRoN3ZsHkDimo"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 232755,
-      "name": "Aquamarine - Acoustic",
-      "url": "https://open.spotify.com/track/6z2m3ZQTUXm03accvTLVoi"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Transient (acoustic)",
         "url": "https://open.spotify.com/album/6hArGQoERO4x7t1QLtUzXs"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 260209,
       "name": "Transient (acoustic)",
       "url": "https://open.spotify.com/track/5tVtDLvrpsn4hhpMkipK1j"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "The Afterglow / Aquamarine",
+        "url": "https://open.spotify.com/album/7v8VHfKqywRoN3ZsHkDimo"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 232755,
+      "name": "Aquamarine - Acoustic",
+      "url": "https://open.spotify.com/track/6z2m3ZQTUXm03accvTLVoi"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -895,22 +895,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Blue in the Dark",
-        "url": "https://open.spotify.com/album/0az0AGSzb0oS9KFnqm6S42"
-      },
-      "artists": [
-        {
-          "name": "Bearings",
-          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
-        }
-      ],
-      "duration_ms": 159553,
-      "name": "Tide",
-      "url": "https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "Redux: The First 10 Years",
         "url": "https://open.spotify.com/album/4OrWqio8gZ77ewMw7UtZ8l"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 256600,
       "name": "Still Dreaming (Acoustic)",
       "url": "https://open.spotify.com/track/78eBbSqWSyC3huP0YMPoKQ"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Blue in the Dark",
+        "url": "https://open.spotify.com/album/0az0AGSzb0oS9KFnqm6S42"
+      },
+      "artists": [
+        {
+          "name": "Bearings",
+          "url": "https://open.spotify.com/artist/0qpDBxRgLp6g0k2esJlUDn"
+        }
+      ],
+      "duration_ms": 159553,
+      "name": "Tide",
+      "url": "https://open.spotify.com/track/1FiwIDi6Vi3a0jXg2CvEkn"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -991,6 +991,22 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
+        "name": "Disarm",
+        "url": "https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 199086,
+      "name": "Disarm",
+      "url": "https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
         "name": "Unplugged",
         "url": "https://open.spotify.com/album/0PEFBp4wzBigHBO36a8ETV"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 245361,
       "name": "A Wasted Hymn - Acoustic",
       "url": "https://open.spotify.com/track/43IHWxGlVL2SdtOqjkGUTx"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
-        "name": "Disarm",
-        "url": "https://open.spotify.com/album/2Ph5PEPGxZx1QjRGE7Scgq"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 199086,
-      "name": "Disarm",
-      "url": "https://open.spotify.com/track/4n3rvg5uxv56KS2ZX5OJHO"
     },
     {
       "added_at": "2022-04-04 15:03:53",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2022-04-04 15:03:53",
       "album": {
-        "name": "Letters to Our Former Selves Acoustic E.P.",
-        "url": "https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY"
-      },
-      "artists": [
-        {
-          "name": "Youth Fountain",
-          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
-        }
-      ],
-      "duration_ms": 204538,
-      "name": "Deadlocked - Acoustic",
-      "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
-    },
-    {
-      "added_at": "2022-04-04 15:03:53",
-      "album": {
         "name": "sleepwalking",
         "url": "https://open.spotify.com/album/7iNFE8xqEEOBl6gOwcDFoI"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 215979,
       "name": "sleepwalking",
       "url": "https://open.spotify.com/track/4VLX1i52yOU3uDUz3xYNgz"
+    },
+    {
+      "added_at": "2022-04-04 15:03:53",
+      "album": {
+        "name": "Letters to Our Former Selves Acoustic E.P.",
+        "url": "https://open.spotify.com/album/1RgTSS7BC4kNunc2knqTWY"
+      },
+      "artists": [
+        {
+          "name": "Youth Fountain",
+          "url": "https://open.spotify.com/artist/5e9SnnT1mabuWwjwu6FrZD"
+        }
+      ],
+      "duration_ms": 204538,
+      "name": "Deadlocked - Acoustic",
+      "url": "https://open.spotify.com/track/7weLkyN1t7GP8A6uD9YJnO"
     },
     {
       "added_at": "2022-04-04 15:03:53",

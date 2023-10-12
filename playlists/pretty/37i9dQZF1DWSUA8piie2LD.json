@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 96233,
+  "num_followers": 96318,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTZlNzBhMGExMTdjNDJhYWE2ZWNmMzBjZTQ3OGJiOGJiYTRkNjJk",
+  "snapshot_id": "MCw2YmViN2Q5ZTc4NmY0YmFmOWQ4Mjc1OTYwNjg0OWI5ZmFiZWE3ZTEx",
   "tracks": [
     {
       "added_at": "2023-10-04 13:56:34",
@@ -635,6 +635,22 @@
     {
       "added_at": "2023-10-04 13:56:34",
       "album": {
+        "name": "Just Around The Corner",
+        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
+      },
+      "artists": [
+        {
+          "name": "Eric Marienthal",
+          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+        }
+      ],
+      "duration_ms": 254333,
+      "name": "Blue Water",
+      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
+    },
+    {
+      "added_at": "2023-10-04 13:56:34",
+      "album": {
         "name": "Brazil Chill",
         "url": "https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn"
       },
@@ -659,18 +675,18 @@
     {
       "added_at": "2023-10-04 13:56:34",
       "album": {
-        "name": "Just Around The Corner",
-        "url": "https://open.spotify.com/album/5P3BwMI5e1pmoS5qLWPTe8"
+        "name": "Stay Awhile",
+        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
       },
       "artists": [
         {
-          "name": "Eric Marienthal",
-          "url": "https://open.spotify.com/artist/4wmaum7AmnVV5riHLEWvaK"
+          "name": "Steve Cole",
+          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
         }
       ],
-      "duration_ms": 254333,
-      "name": "Blue Water",
-      "url": "https://open.spotify.com/track/6QABTLX06XCH6aKBptDcf7"
+      "duration_ms": 249133,
+      "name": "When I Think of You",
+      "url": "https://open.spotify.com/track/1l5lPGasBbuCpBH3l0qa1n"
     },
     {
       "added_at": "2023-10-04 13:56:34",
@@ -687,22 +703,6 @@
       "duration_ms": 254746,
       "name": "Can't Tell You Why",
       "url": "https://open.spotify.com/track/6vOYjOLqf3esbSCdC7smdG"
-    },
-    {
-      "added_at": "2023-10-04 13:56:34",
-      "album": {
-        "name": "Stay Awhile",
-        "url": "https://open.spotify.com/album/0BnQMPzjGWbmoAOPFs5Nsn"
-      },
-      "artists": [
-        {
-          "name": "Steve Cole",
-          "url": "https://open.spotify.com/artist/6rpOQ4XZKUz0ayWSMgvmWb"
-        }
-      ],
-      "duration_ms": 249133,
-      "name": "When I Think of You",
-      "url": "https://open.spotify.com/track/1l5lPGasBbuCpBH3l0qa1n"
     },
     {
       "added_at": "2023-10-04 13:56:34",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-10-04 13:56:34",
       "album": {
-        "name": "Last Look",
-        "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
-      },
-      "artists": [
-        {
-          "name": "Torcuato Mariano",
-          "url": "https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR"
-        }
-      ],
-      "duration_ms": 276106,
-      "name": "Last Look",
-      "url": "https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI"
-    },
-    {
-      "added_at": "2023-10-04 13:56:34",
-      "album": {
         "name": "Songs From The Night Before",
         "url": "https://open.spotify.com/album/1qABZigBQzuvHXnvjfcLCe"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 303680,
       "name": "Rikke",
       "url": "https://open.spotify.com/track/1wvb7JFKm9QeLJ7VNRmncw"
+    },
+    {
+      "added_at": "2023-10-04 13:56:34",
+      "album": {
+        "name": "Last Look",
+        "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
+      },
+      "artists": [
+        {
+          "name": "Torcuato Mariano",
+          "url": "https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR"
+        }
+      ],
+      "duration_ms": 276106,
+      "name": "Last Look",
+      "url": "https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI"
     },
     {
       "added_at": "2023-10-04 13:56:34",
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-10-04 13:56:34",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
-      },
-      "artists": [
-        {
-          "name": "Kirk Whalum",
-          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
-        }
-      ],
-      "duration_ms": 276226,
-      "name": "If Only For One Night",
-      "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
-    },
-    {
-      "added_at": "2023-10-04 13:56:34",
-      "album": {
         "name": "Somethin' Bout Love",
         "url": "https://open.spotify.com/album/0GijMXMEEFAD7N4P1eIOhb"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 285733,
       "name": "Somethin' Bout Love",
       "url": "https://open.spotify.com/track/0nbpJT18zdfjt0dN2tds9h"
+    },
+    {
+      "added_at": "2023-10-04 13:56:34",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/0ZymVVHN1W2T6rYSqIjLaW"
+      },
+      "artists": [
+        {
+          "name": "Kirk Whalum",
+          "url": "https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1"
+        }
+      ],
+      "duration_ms": 276226,
+      "name": "If Only For One Night",
+      "url": "https://open.spotify.com/track/7eAboOIUeI5RYXVjCI6p0S"
     },
     {
       "added_at": "2023-10-04 13:56:34",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-10-04 13:56:34",
       "album": {
-        "name": "Nice & Slow",
-        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
-      },
-      "artists": [
-        {
-          "name": "Brian Culbertson",
-          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
-        }
-      ],
-      "duration_ms": 288800,
-      "name": "Without Your Love",
-      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
-    },
-    {
-      "added_at": "2023-10-04 13:56:34",
-      "album": {
         "name": "In Joy",
         "url": "https://open.spotify.com/album/5hxIOm6CwhTqI9W60yyX43"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 305680,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/1v5WalcQgFcHnSYe1e6LcF"
+    },
+    {
+      "added_at": "2023-10-04 13:56:34",
+      "album": {
+        "name": "Nice & Slow",
+        "url": "https://open.spotify.com/album/1ERiUM1WyCUWEu3gnEzKRM"
+      },
+      "artists": [
+        {
+          "name": "Brian Culbertson",
+          "url": "https://open.spotify.com/artist/4WQ8grqJHB2Y0IDjpro1FE"
+        }
+      ],
+      "duration_ms": 288800,
+      "name": "Without Your Love",
+      "url": "https://open.spotify.com/track/0SZjsb1TGyEMOH3LfI5tAw"
     },
     {
       "added_at": "2023-10-04 13:56:34",

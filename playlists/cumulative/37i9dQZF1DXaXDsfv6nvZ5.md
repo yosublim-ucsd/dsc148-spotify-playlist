@@ -4,7 +4,7 @@
 
 > The soulful tunes to ease you into your day.
 
-379 songs - 22 hr 59 min
+380 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -218,6 +218,7 @@
 | [Make Me Wanna](https://open.spotify.com/track/0eue2iKYFkuLYXkfEMjKuJ) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [The Rebirth Of Marvin](https://open.spotify.com/album/0AjhGOAPLNOJtBm1HiVYLo) | 3:01 | 2023-02-10 |  |
 | [Make the Most \(feat\. H.E.R.\)](https://open.spotify.com/track/5NWgHc5T5HlG0Nz9FgmZT1) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Make the Most \(feat\. H.E.R.\)](https://open.spotify.com/album/00hw6ckfLMdkkHyCOwit3g) | 3:33 | 2021-12-03 | 2022-02-19 |
 | [Mama](https://open.spotify.com/track/14AxPf5FGQWfOkGtqzn9x8) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Mama](https://open.spotify.com/album/69FkeUCPWxz01Ppt1FLDB6) | 3:40 | 2023-08-11 |  |
+| [Many Ways](https://open.spotify.com/track/3snRYteaPc80GPKOimhrEF) | [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Sharing is Caring](https://open.spotify.com/album/1Kj5fIqE9jXWNVzjYTPp3j) | 3:27 | 2023-04-21 |  |
 | [Marching Band \(feat\. Masego\)](https://open.spotify.com/track/1wWGkPC7eBVvDZoEhROvGv) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Marching Band \(feat\. Masego\)](https://open.spotify.com/album/7MTqfU7Opx2Z85w4HrFESt) | 4:44 | 2023-07-14 | 2023-08-26 |
 | [MAZE](https://open.spotify.com/track/1G9mjCLFENyXPUIKORx93a) | [Zoe Kypri](https://open.spotify.com/artist/0FP3GDsv47TrSrV2elyhWX), [Jay Wilcox](https://open.spotify.com/artist/4gaaEK1N5YwOcP3mjJAsjw) | [MAZE](https://open.spotify.com/album/0zfRGBt0QIosUPkIkMADxL) | 4:32 | 2022-10-29 | 2022-11-05 |
 | [Mean Mug](https://open.spotify.com/track/4a125pvXw0CxxpN7yHDgUY) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [age/sex/location](https://open.spotify.com/album/7dE9Pf7HRgMOCeVSWnA9ZC) | 4:03 | 2022-10-03 | 2023-07-01 |
@@ -373,7 +374,7 @@
 | [What A Difference She Made](https://open.spotify.com/track/2CF6WekP8rVrRJfQWZDRgf) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/6otBSSEkPMOwKCtNaibxHB) | 2:55 | 2022-10-14 | 2023-09-11 |
 | [What A Difference She Made](https://open.spotify.com/track/2K84mzkSHwBPbChmrf3zNZ) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [What A Difference She Made](https://open.spotify.com/album/1DR9WRP84bBdF4sOKXePPQ) | 2:55 | 2022-10-14 | 2023-04-30 |
 | [What a Fool Believes \(with Michael McDonald\) \- Live](https://open.spotify.com/track/7yukGUDEOcjug514T4qgvQ) | [Kenny Loggins](https://open.spotify.com/artist/3Y3xIwWyq5wnNHPp5gPjOW), [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [Outside: From The Redwoods](https://open.spotify.com/album/0k7LQvKvFfbxZvqFwZ0Dtz) | 4:12 | 2022-03-11 | 2022-09-26 |
-| [What Do You Do](https://open.spotify.com/track/76To8vko0V30a8PT3q312Z) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [What Do You Do](https://open.spotify.com/album/2kgnbjCeCHMHOsPwxay0ue) | 3:08 | 2023-09-08 |  |
+| [What Do You Do](https://open.spotify.com/track/76To8vko0V30a8PT3q312Z) | [Will Heard](https://open.spotify.com/artist/39AZSw4A8hCFWunEg2k89Z) | [What Do You Do](https://open.spotify.com/album/2kgnbjCeCHMHOsPwxay0ue) | 3:08 | 2023-09-08 | 2023-10-12 |
 | [What It Is](https://open.spotify.com/track/2CJfHjywgcczXQi6Dosw8Q) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What It Is](https://open.spotify.com/album/3v6186rgsWFvZxf0Sj7DHS) | 5:25 | 2021-12-03 | 2023-05-21 |
 | [What Love Can Do \[Feat\. Emily King\]](https://open.spotify.com/track/6U0xzYsrXAyWYA6CmkFSJb) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [What Love Can Do \[Feat\. Emily King\]](https://open.spotify.com/album/2jAju7615SAS3Lag8ckUTs) | 3:50 | 2023-06-30 | 2023-08-26 |
 | [Whatcha Know](https://open.spotify.com/track/50xfWsLVNNvXYdeLbdT0lz) | [Bobby Oroza](https://open.spotify.com/artist/7DIW7zcnjQFBTMxhK6V2VQ), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc) | [Whatcha Know](https://open.spotify.com/album/0w7NTBLYYYWY5fabjAUyhZ) | 3:54 | 2023-06-16 |  |

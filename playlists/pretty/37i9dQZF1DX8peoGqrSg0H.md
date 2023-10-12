@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 
 > เพลงไทยป๊อปโดนใจ อัพเดตให้คุณฟังทุกสัปดาห์\. ศิลปิน: PiXXiE, bamm
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,230 likes - 65 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,077 likes - 65 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8peoGqrSg0H.md) - [plain]
 | 64 | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/track/2vQjt6vAghkAHa5WObuF2W) | [ATLAS](https://open.spotify.com/artist/2ARzYWm034BWgJNk2IZ2N9) | [คุยแก้เหงา \(MR\. LONELY\)](https://open.spotify.com/album/1XtKXmvNFMiuGJZ4vsxmVZ) | 3:43 |
 | 65 | [ฉันจะฉาปเธอ \- Curse](https://open.spotify.com/track/6uu05FXHuqfMNI9Ti6pts2) | [bamm](https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1) | [ฉันจะฉาปเธอ \(Curse\)](https://open.spotify.com/album/4zwD3vOjO0BdJUJUHaUPeP) | 3:17 |
 
-Snapshot ID: `MCw0Yjc2MzMyM2EyOWY4MDY0MWM4NjBiNDk3OTNlNjQ1NGNkZTczOTZl`
+Snapshot ID: `MCw0NzE5YmFlMGM5OWQwZTAwMTY5ZWMzZmU2YTA0NWM0MzQzNGZiNGU3`

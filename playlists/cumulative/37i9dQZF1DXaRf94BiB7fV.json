@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Janaki Easwar , Artwork: Isu Kim",
+  "description": " Emerging Indie artists on the rise, updated every Wednesday. Cover: Samad Khan , Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 260712,
       "name": "Behta Jaa Raha",
       "url": "https://open.spotify.com/track/3Dm2jnec9ayGNJYq6uOIja"
@@ -3401,6 +3401,42 @@
     },
     {
       "album": {
+        "name": "Changing",
+        "url": "https://open.spotify.com/album/1litfnUMjJzuOxUAajy4Pi"
+      },
+      "artists": [
+        {
+          "name": "Debajyoti Biswas",
+          "url": "https://open.spotify.com/artist/0ND2oJ6wjmJJBWCP4S7I5O"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259435,
+      "name": "Daydreamer",
+      "url": "https://open.spotify.com/track/5xauG2FIDmjB8eoW8RKai2"
+    },
+    {
+      "album": {
+        "name": "daydreaming",
+        "url": "https://open.spotify.com/album/6hd92SWov1Y4amUBtQ3jnq"
+      },
+      "artists": [
+        {
+          "name": "dhruvv",
+          "url": "https://open.spotify.com/artist/065TTH1G3xiI2yC0GtwhjJ"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217103,
+      "name": "daydreaming",
+      "url": "https://open.spotify.com/track/0sMXleyicMPgOg9hz7g0d1"
+    },
+    {
+      "album": {
         "name": "Deedar E Khuda",
         "url": "https://open.spotify.com/album/0r2FIHY4qqZ3W14mhi59iG"
       },
@@ -3966,7 +4002,7 @@
       ],
       "date_added": "2023-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 204516,
       "name": "Door Kahin",
       "url": "https://open.spotify.com/track/6Dl5qDXEoErNhUcH0NBDdB"
@@ -5658,7 +5694,7 @@
       ],
       "date_added": "2023-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 181031,
       "name": "Heeriye",
       "url": "https://open.spotify.com/track/5kGsDg4DwHvDxsFsR7a7cJ"
@@ -9929,6 +9965,24 @@
     },
     {
       "album": {
+        "name": "Main Awara",
+        "url": "https://open.spotify.com/album/3qs0pQxmXbReMklmyunn00"
+      },
+      "artists": [
+        {
+          "name": "Nikhil And Rishabh",
+          "url": "https://open.spotify.com/artist/6l4yQwWwvtc0CnN5UXMD1l"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203389,
+      "name": "Main Awara",
+      "url": "https://open.spotify.com/track/73n0BOjhAwenbyx0gwDuSE"
+    },
+    {
+      "album": {
         "name": "Main Chala",
         "url": "https://open.spotify.com/album/5Ukqu1JKCzHhDUy0UgFUKG"
       },
@@ -11460,7 +11514,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 213152,
       "name": "Nazaare",
       "url": "https://open.spotify.com/track/4AmdHeE9Bz9IfeZLHrbKmZ"
@@ -11478,7 +11532,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 266719,
       "name": "Nazar Na Lage",
       "url": "https://open.spotify.com/track/75wydS6vTYsOCudjkrAlcj"
@@ -14153,6 +14207,28 @@
     },
     {
       "album": {
+        "name": "SAVERA",
+        "url": "https://open.spotify.com/album/0cDDEZJfDjRXZJLkrbFKsZ"
+      },
+      "artists": [
+        {
+          "name": "Samad Khan",
+          "url": "https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW"
+        },
+        {
+          "name": "Bharath",
+          "url": "https://open.spotify.com/artist/1zD9gVg8wPOmVfYxTjMHaT"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226105,
+      "name": "SAVERA",
+      "url": "https://open.spotify.com/track/3sLVQHa6ivHL6eXO2N5NTw"
+    },
+    {
+      "album": {
         "name": "Saza",
         "url": "https://open.spotify.com/album/6hVPhyFPvJe7NT0fCaq5pD"
       },
@@ -15651,6 +15727,24 @@
     },
     {
       "album": {
+        "name": "Teri Meri Preet",
+        "url": "https://open.spotify.com/album/5a13BXp569ogy5gjV2QTZI"
+      },
+      "artists": [
+        {
+          "name": "Omkar Patil",
+          "url": "https://open.spotify.com/artist/3XiVkmgKYpDOYtbdsosShN"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229145,
+      "name": "Teri Meri Preet",
+      "url": "https://open.spotify.com/track/1YvCVUworuCSHzcZlQky7U"
+    },
+    {
+      "album": {
         "name": "Teri Rooh",
         "url": "https://open.spotify.com/album/3VhgLRqu9QlhnWWOFRE8js"
       },
@@ -16284,7 +16378,7 @@
       ],
       "date_added": "2023-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 161777,
       "name": "Toota Tara",
       "url": "https://open.spotify.com/track/6GKBRK5qbS5nRg2NDmyU3B"
@@ -16827,6 +16921,24 @@
     },
     {
       "album": {
+        "name": "Tumko Hai Pata",
+        "url": "https://open.spotify.com/album/5LuFwkgNewo6gFAfMHykx7"
+      },
+      "artists": [
+        {
+          "name": "Manasi Shah",
+          "url": "https://open.spotify.com/artist/6NtTwYPmadVqUOjyIjcdLs"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146100,
+      "name": "Tumko Hai Pata",
+      "url": "https://open.spotify.com/track/0z9fbSI22cVaHs8weZ5cUd"
+    },
+    {
+      "album": {
         "name": "Tumko Hai Pyaar",
         "url": "https://open.spotify.com/album/1JFjM4oT2n9cA3Qp4RiKN2"
       },
@@ -16882,6 +16994,24 @@
       "duration_ms": 317024,
       "name": "Tumse Pyaar Hai",
       "url": "https://open.spotify.com/track/3DVQWNRE8pYPZGEtovHjIJ"
+    },
+    {
+      "album": {
+        "name": "Tumse Pyaar Hai",
+        "url": "https://open.spotify.com/album/1PKWIekjX4efvifB8ODaKe"
+      },
+      "artists": [
+        {
+          "name": "Ramya Ramkumar",
+          "url": "https://open.spotify.com/artist/5mZttQqxgmGllfUyl4LSmQ"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185437,
+      "name": "Tumse Pyaar Hai",
+      "url": "https://open.spotify.com/track/5QI5oFA7jDyyvevDDYC79w"
     },
     {
       "album": {
@@ -17002,7 +17132,7 @@
       ],
       "date_added": "2023-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 219404,
       "name": "Uljhan",
       "url": "https://open.spotify.com/track/6kEsAq9CqM2Y6jVfyMxZUJ"

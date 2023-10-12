@@ -1,12 +1,12 @@
 {
   "description": "Gospel songs to get you in the spirit. Whether you are happy or need company to feel better, this is the right one!",
-  "num_followers": 47963,
+  "num_followers": 48046,
   "original_name": "Be Lifted ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3ZjI1MDUyNWEwNzFhMWQ1NDI2ZjQ1YTMzZmRkY2MwY2YzNWY0N2Jl",
+  "snapshot_id": "MCxiNWY2OTZmMDY4MjMwZTIxMDAyNjEwODI2NjIxNTA4OTE1MjJiNjNi",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -141,6 +141,58 @@
       "url": "https://open.spotify.com/track/2dMDbU8IYPSltZayJLQ9Mb"
     },
     {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "YET (feat. Ashley Hess & the King will come)",
+        "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        },
+        {
+          "name": "Ashley Hess",
+          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
+        },
+        {
+          "name": "the King will come",
+          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
+        }
+      ],
+      "duration_ms": 350194,
+      "name": "YET (feat. Ashley Hess & the King will come)",
+      "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Best Days",
+        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
+      },
+      "artists": [
+        {
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+        },
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 287573,
+      "name": "Take Me to the King (feat. Kirk Franklin)",
+      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
+    },
+    {
       "added_at": "2023-09-29 00:01:00",
       "album": {
         "name": "Kumama",
@@ -163,26 +215,6 @@
       "duration_ms": 260064,
       "name": "Kumama Papa",
       "url": "https://open.spotify.com/track/5LwT1tPiIUszQ7C51DuEL2"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Best Days",
-        "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
-      },
-      "artists": [
-        {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
-        },
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 287573,
-      "name": "Take Me to the King (feat. Kirk Franklin)",
-      "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -223,22 +255,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Too Faithful",
-        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        }
-      ],
-      "duration_ms": 370964,
-      "name": "Too Faithful",
-      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Old Church Basement",
         "url": "https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg"
       },
@@ -261,36 +277,20 @@
       "url": "https://open.spotify.com/track/5j4EazAPhtFyHhwNpbNzEx"
     },
     {
-      "added_at": "2023-10-06 00:01:00",
+      "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "YET (feat. Ashley Hess & the King will come)",
-        "url": "https://open.spotify.com/album/5UrquVUYkl6qbyHkip4SNb"
+        "name": "Too Faithful",
+        "url": "https://open.spotify.com/album/1ELb6tHupgVxBvvSURINnN"
       },
       "artists": [
         {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        },
-        {
-          "name": "Ashley Hess",
-          "url": "https://open.spotify.com/artist/4s2GYqPWIthqzV5805rY6N"
-        },
-        {
-          "name": "the King will come",
-          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
         }
       ],
-      "duration_ms": 350194,
-      "name": "YET (feat. Ashley Hess & the King will come)",
-      "url": "https://open.spotify.com/track/4vH0rypLr1NgyymAXehhgG"
+      "duration_ms": 370964,
+      "name": "Too Faithful",
+      "url": "https://open.spotify.com/track/0XmK2zPgY1t1msdf1jyhHw"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -447,22 +447,18 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "We Behold(Qavah Anthem)",
-        "url": "https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM"
+        "name": "To Yahweh's Delight",
+        "url": "https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva"
       },
       "artists": [
         {
-          "name": "Abbey Ojomu",
-          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
-        },
-        {
-          "name": "Theophilus Sunday",
-          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
         }
       ],
-      "duration_ms": 773605,
-      "name": "We Behold(Qavah Anthem)",
-      "url": "https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC"
+      "duration_ms": 552855,
+      "name": "Obinigwe",
+      "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -487,18 +483,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "To Yahweh's Delight",
-        "url": "https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva"
+        "name": "We Behold(Qavah Anthem)",
+        "url": "https://open.spotify.com/album/0NIrozR8k7bnKvgzuoslNM"
       },
       "artists": [
         {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+          "name": "Abbey Ojomu",
+          "url": "https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM"
+        },
+        {
+          "name": "Theophilus Sunday",
+          "url": "https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6"
         }
       ],
-      "duration_ms": 552855,
-      "name": "Obinigwe",
-      "url": "https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l"
+      "duration_ms": 773605,
+      "name": "We Behold(Qavah Anthem)",
+      "url": "https://open.spotify.com/track/4fSm5o6HY3N5tNne66EPdC"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -967,6 +967,26 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "Jesus Oh",
+        "url": "https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        },
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        }
+      ],
+      "duration_ms": 255384,
+      "name": "Jesus Oh",
+      "url": "https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "The Kadosh (Live)",
         "url": "https://open.spotify.com/album/2dsQj3Bhtbia5zxPrvwraY"
       },
@@ -979,22 +999,6 @@
       "duration_ms": 364762,
       "name": "Kadosh",
       "url": "https://open.spotify.com/track/5PiWLqMAszHolxxQYVQQE9"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "Better Me",
-        "url": "https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So"
-      },
-      "artists": [
-        {
-          "name": "MOGmusic",
-          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
-        }
-      ],
-      "duration_ms": 505147,
-      "name": "Be Lifted (Live)",
-      "url": "https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1023,22 +1027,18 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Jesus Oh",
-        "url": "https://open.spotify.com/album/62srZNS6dHIfKMjU1CHxNL"
+        "name": "Better Me",
+        "url": "https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So"
       },
       "artists": [
         {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        },
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+          "name": "MOGmusic",
+          "url": "https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW"
         }
       ],
-      "duration_ms": 255384,
-      "name": "Jesus Oh",
-      "url": "https://open.spotify.com/track/6xEE5orPvEG63CHH8WosnD"
+      "duration_ms": 505147,
+      "name": "Be Lifted (Live)",
+      "url": "https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "WINNING",
-        "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
-      },
-      "artists": [
-        {
-          "name": "Harmini",
-          "url": "https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9"
-        },
-        {
-          "name": "Chud'e",
-          "url": "https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej"
-        }
-      ],
-      "duration_ms": 152622,
-      "name": "WINNING",
-      "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Onyedikagi",
         "url": "https://open.spotify.com/album/3nM8ld6vFNii5Pp7i96I3J"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 297966,
       "name": "Onyedikagi",
       "url": "https://open.spotify.com/track/7HoUxUs2aHd6Jl57lxAA99"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "WINNING",
+        "url": "https://open.spotify.com/album/44aQxFx9JgwmvbotlJBQg0"
+      },
+      "artists": [
+        {
+          "name": "Harmini",
+          "url": "https://open.spotify.com/artist/3c1kXccl4TUVz1V24nCjz9"
+        },
+        {
+          "name": "Chud'e",
+          "url": "https://open.spotify.com/artist/2ouXp33PnlerCKJs32Dmej"
+        }
+      ],
+      "duration_ms": 152622,
+      "name": "WINNING",
+      "url": "https://open.spotify.com/track/3kVj87QG8Bc055xu5A9jcW"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Winning",
-        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
-      },
-      "artists": [
-        {
-          "name": "Sinach",
-          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
-        }
-      ],
-      "duration_ms": 360486,
-      "name": "Winning",
-      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Way\u03b5 Me Yie",
         "url": "https://open.spotify.com/album/1NY4OdOLWUjrdC0jnB22pr"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 303553,
       "name": "Way\u03b5 Me Yie",
       "url": "https://open.spotify.com/track/7zWTmSyDPBGYHC3vex49jI"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/4jU3efPt9KBEIGQotXzMAs"
+      },
+      "artists": [
+        {
+          "name": "Sinach",
+          "url": "https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe"
+        }
+      ],
+      "duration_ms": 360486,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0x6vfr1PGNAMZvP0CJzbSZ"
     },
     {
       "added_at": "2023-09-29 00:01:00",

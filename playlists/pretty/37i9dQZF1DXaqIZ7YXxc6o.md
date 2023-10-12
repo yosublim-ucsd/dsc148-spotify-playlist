@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Future Dance hits\. Cover: James Hype, Kim Petras
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,039 likes - 97 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,012 likes - 97 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 37 | [Elysian Park](https://open.spotify.com/track/3pbZCLBe6fUZ8dBntDWQ64) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Elysian Park](https://open.spotify.com/album/5FrzfGTsoOcoH2sk4sONHe) | 2:22 |
 | 38 | [Alive](https://open.spotify.com/track/11lD8dtStBFmtcFU1b27Uv) | [Chores](https://open.spotify.com/artist/1iRqRj6wAq5wAAjfzpbH1I), [Elaskia](https://open.spotify.com/artist/6Q2uOBVYTPgtPnSFaBPUvV) | [Alive](https://open.spotify.com/album/1hG3fzvtahMniNamrEcerR) | 4:34 |
 | 39 | [Forever Young](https://open.spotify.com/track/7HKs9OIcK4S6P8nJ4CvxIP) | [Havana Brown](https://open.spotify.com/artist/1EVWYRr2obCRDoSoD6KSuM) | [Forever Young](https://open.spotify.com/album/08WDbywVnyUgZkp9zxwwNq) | 3:16 |
-| 40 | [On My Mind](https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Jim](https://open.spotify.com/artist/6goGejgjtOpzFnNndVXmZ0) | [On My Mind](https://open.spotify.com/album/3Tc4RzAWum7OKbNkTGgkAX) | 2:20 |
+| 40 | [On My Mind](https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [JIM](https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr) | [On My Mind](https://open.spotify.com/album/3Tc4RzAWum7OKbNkTGgkAX) | 2:20 |
 | 41 | [Horror Movie](https://open.spotify.com/track/41tXwOubSTQSgDgOKkmDLl) | [Bombs Away](https://open.spotify.com/artist/1YlyxjwYNSjBD0NAJGEfWB), [TANKYU](https://open.spotify.com/artist/2woseRlEX3DBBSFid7vkMV) | [Horror Movie](https://open.spotify.com/album/3X9fw40YhpkxW7DaVix231) | 2:56 |
 | 42 | [Breaking Up With Jesus](https://open.spotify.com/track/2yp3Cqx9etkMlVVe0vourb) | [Rêve](https://open.spotify.com/artist/06vEAqcicwoSBw85e8biJx) | [Breaking Up With Jesus](https://open.spotify.com/album/0elBjfzN9RNSaXmcCHq35k) | 2:57 |
 | 43 | [You & I \- Mansionair Remix](https://open.spotify.com/track/0t5WDA4jaAYWCacACgG0HK) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [You & I \(Mansionair Remix\)](https://open.spotify.com/album/63cTnK9bAANdtAryamtiJZ) | 3:57 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 96 | [Real Love](https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Real Love](https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY) | 2:43 |
 | 97 | [Sugar and Spice feat\. iLL BLU](https://open.spotify.com/track/1f434xo0pTFHk2dIVmQSqH) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv), [iLL BLU](https://open.spotify.com/artist/550Zxz0BTZi3yd8gX9QINw) | [Sugar and Spice feat\. iLL BLU](https://open.spotify.com/album/2p0zD4HbmVF8Yim1nSzfwQ) | 2:48 |
 
-Snapshot ID: `MCw1NDMwMDgxMTE0ZTQ5OTUwNWU4ZTVkMDg5YzQwMWYzNWJjZjdjNmFh`
+Snapshot ID: `MCwzNjE4OTliODZiODFkY2Q2YmM4MmNkOGFmNjA2NzBkZjdjNzQ4M2Vh`

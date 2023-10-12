@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 
 > A look back at this fruitful era comprising trip\-hop heavyweights, electronica's vanguard and everything in between.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,464 likes - 100 songs - 8 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,506 likes - 100 songs - 8 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 88 | [Never the Same](https://open.spotify.com/track/4eKIHs1qmbmcFLdFYH6pU2) | [Supreme Beings of Leisure](https://open.spotify.com/artist/1fMiEUAUshtCFawy3aD0oD) | [Supreme Beings Of Leisure](https://open.spotify.com/album/0L3hC4AN3Zm6W86suFDZvz) | 4:03 |
 | 89 | [The Garden](https://open.spotify.com/track/5Tp97LcL45G82uC6vaLvt5) | [Cut Chemist](https://open.spotify.com/artist/4743DlrFCsAlAV4N26Kdgh) | [The Audience's Listening \(U.S\. Version\)](https://open.spotify.com/album/51eBQ2u5LInHRAicVdekxi) | 6:15 |
 | 90 | [Return to Air](https://open.spotify.com/track/6CxfaUiVzPPjxtyDwjiH6q) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Flashlight EP](https://open.spotify.com/album/1Gb1MCvhe6uBJrO1Vb8FlR) | 5:02 |
-| 91 | [I Don't Know What I Can Save You From \- Röyksopp Remix](https://open.spotify.com/track/3DvQTKQ0ydUn5SNYzRL5wr) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Versus](https://open.spotify.com/album/1iP2GfxXwQyeHw4CZCTBGI) | 4:12 |
-| 92 | [Angels](https://open.spotify.com/track/5lzo7Gtu5z7A5kV6he5chD) | [Wax Poetic](https://open.spotify.com/artist/4WeRix3pCmdwef6aBAIbYf), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Wax Poetic](https://open.spotify.com/album/7DvlXVQ997HD3NGp9oCMXQ) | 4:03 |
+| 91 | [Angels](https://open.spotify.com/track/5lzo7Gtu5z7A5kV6he5chD) | [Wax Poetic](https://open.spotify.com/artist/4WeRix3pCmdwef6aBAIbYf), [Ilhan Ersahin](https://open.spotify.com/artist/5aweKNLI0ZyI48q5TmoCxT), [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Wax Poetic](https://open.spotify.com/album/7DvlXVQ997HD3NGp9oCMXQ) | 4:03 |
+| 92 | [I Don't Know What I Can Save You From \- Röyksopp Remix](https://open.spotify.com/track/3DvQTKQ0ydUn5SNYzRL5wr) | [Kings of Convenience](https://open.spotify.com/artist/41AbNVba2ccpmcc9QtOJE7), [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [Versus](https://open.spotify.com/album/1iP2GfxXwQyeHw4CZCTBGI) | 4:12 |
 | 93 | [In A State](https://open.spotify.com/track/2HpCmHLndCtXehzHhsJebm) | [UNKLE](https://open.spotify.com/artist/2nszamLjZFgu3Yx77mKxuC) | [Never, Never, Land](https://open.spotify.com/album/4cgoTXgEihIObjGZ7XWVvI) | 6:57 |
 | 94 | [Honey](https://open.spotify.com/track/33jQyNBQp4kn10STv1o5St) | [Tosca](https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn) | [Suzuki](https://open.spotify.com/album/3mMCQiZaRbwPhn1I3vdFRP) | 5:57 |
 | 95 | [Electric Lazyland](https://open.spotify.com/track/4desWKODsdzW9QHHmQxx6J) | [9 Lazy 9](https://open.spotify.com/artist/3rQwLE64J8IhEMWnZm8ZmH) | [Electric Lazyland](https://open.spotify.com/album/7o5ZZr07ZAPzCegrhWDVu9) | 5:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcG4kXwIFULb.md) - [plain]
 | 99 | [His Majesty King Raam](https://open.spotify.com/track/4J8ms7TbPISBz71G5z2SGS) | [Lemon Jelly](https://open.spotify.com/artist/5uh8Bhewltd8j0TLZjNImc) | [LemonJelly.ky](https://open.spotify.com/album/6cugMaPzUNXXz60wNX3Amk) | 7:20 |
 | 100 | [Transatlantic](https://open.spotify.com/track/0uY3duWVyW02qcq9QhoQZY) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Apricot Morning](https://open.spotify.com/album/4RQOGfXsV5TVo5hJXNQ5ql) | 4:44 |
 
-Snapshot ID: `MCxhZWM2ZmMxODM4YWQ3MWVhYzEyM2VlYjY5NDEzOTA0MjhmOTMxOWVl`
+Snapshot ID: `MCwwZGI4MGNmNThmYTYzOGQzNzViMGE2MTU0ODc2NzIxZmQ3NzQyNDc2`

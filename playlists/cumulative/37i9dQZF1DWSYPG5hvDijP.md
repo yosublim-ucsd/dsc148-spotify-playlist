@@ -4,7 +4,7 @@
 
 > New Hip Hop from India.
 
-155 songs - 8 hr 22 min
+156 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Tu Tera Dekh](https://open.spotify.com/track/5LQWquv8c8OYCE30SlXLAy) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG) | [Tu Tera Dekh](https://open.spotify.com/album/1xISjdoA7xWaEDkUGEXtL1) | 3:08 | 2023-03-29 | 2023-04-17 |
 | [VIOLENCE](https://open.spotify.com/track/1xEDyLLmFKjt66xtqq0d3w) | [Chaar Diwaari](https://open.spotify.com/artist/2n4q8jLM4WLwlva1sZ2WRx), [Gravity](https://open.spotify.com/artist/7ti25GJHIRWZ5f1WN0T2zO) | [VIOLENCE](https://open.spotify.com/album/2wZdPkyyfFWkSEMr4qZDY4) | 2:23 | 2023-08-19 |  |
 | [Wanna Know](https://open.spotify.com/track/673gCEQTFRgzHGn3kO7p2b) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [FAR FROM OVER](https://open.spotify.com/album/4013u1RNEHieH8NwnN0vNh) | 3:25 | 2023-08-29 |  |
+| [War](https://open.spotify.com/track/6mRccKSAN4IChtUsnAzVGl) | [MassQline](https://open.spotify.com/artist/0kMK558QxTuQu1uvWJKuvh), [Hardbone boy](https://open.spotify.com/artist/6YNVY8546Vw6bVjsmUpQPx), [HYKE](https://open.spotify.com/artist/7yPtNp2UpTp2wYUEdM8k1O) | [War](https://open.spotify.com/album/0cGxD9dl9g9iTt0LXN3oTY) | 3:20 | 2023-10-11 |  |
 | [Whoa There Nelly](https://open.spotify.com/track/6Rskn0hM0xj3t03foHpH7C) | [Till Apes](https://open.spotify.com/artist/7qzkGpR5qvkIVPXN5UwvVZ) | [Whoa There Nelly](https://open.spotify.com/album/45IBRe4BcNOcF5RvTZGEn4) | 3:04 | 2023-03-29 | 2023-07-21 |
 | [WOH](https://open.spotify.com/track/1QUU43rTDMnGl4xyaIfsYN) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [WOH](https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW) | 5:28 | 2023-03-29 | 2023-04-17 |
 | [Wonder Boy](https://open.spotify.com/track/1STXHYKdLdiP56YOQjT2i3) | [Bella](https://open.spotify.com/artist/5gzMmZ8RKovEfs38ca7hkG), [Rohit Gaira](https://open.spotify.com/artist/67DKne1v7QUTa1TpkrnjQZ) | [Wonder Boy](https://open.spotify.com/album/4z1pi3K7ULGne7CJ2202Td) | 3:23 | 2023-08-19 |  |

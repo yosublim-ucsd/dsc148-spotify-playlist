@@ -780,7 +780,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 187213,
       "name": "From Genius",
       "url": "https://open.spotify.com/track/5cnptxgOoEWCfW2ZaAPykN"
@@ -1184,7 +1184,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 240746,
       "name": "Make up Magic",
       "url": "https://open.spotify.com/track/1J3l1IsCB7ZvEZksEdbl7X"
@@ -2952,7 +2952,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 258453,
       "name": "\u7720\u3089\u306c\u591c\u306b\u30b9\u30d1\u30b7\u30fc\u30d0!",
       "url": "https://open.spotify.com/track/4SJ8Erz6FFM0GsOKt5j0KO"
@@ -2982,6 +2982,24 @@
       "duration_ms": 296440,
       "name": "\u7b11\u9854\u306e\u796d\u308a\u306b\u3083\u3001\u798f\u6765\u308b",
       "url": "https://open.spotify.com/track/0G4tWUZwTTzzUPNByt0Bt9"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -05 Jupiter",
+        "url": "https://open.spotify.com/album/3zBCmvg7DUOCEaIbTY8xOt"
+      },
+      "artists": [
+        {
+          "name": "\u4f0a\u96c6\u9662\u5317\u6597 (CV.\u795e\u539f\u5927\u5730)",
+          "url": "https://open.spotify.com/artist/0AZPqKpHkcLELOWmVEvMDo"
+        }
+      ],
+      "date_added": "2023-05-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238933,
+      "name": "\u7d20\u6575\u306bCon grazia!",
+      "url": "https://open.spotify.com/track/7aY5G6hQ98G1nxxNgshPiY"
     },
     {
       "album": {

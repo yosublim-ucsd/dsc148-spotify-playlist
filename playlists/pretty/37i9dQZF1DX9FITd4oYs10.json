@@ -1,12 +1,12 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Coruja BC1",
-  "num_followers": 17357,
+  "num_followers": 17358,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhNDg2ZGVmYjY4NjM5N2RmYjgyNDU2ZjNiNGQ1YTJmNjdlZDU3ZjYz",
+  "snapshot_id": "MCw0YjllYmFlMDNmYzY5OTJkMDI1OGVkZWVkNjVlMDc5M2QyZWU0NWVk",
   "tracks": [
     {
       "added_at": "2023-10-06 03:03:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
-        "name": "Irm\u00e3o Dqbrada!",
-        "url": "https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc"
-      },
-      "artists": [
-        {
-          "name": "Costa Gold",
-          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
-        },
-        {
-          "name": "Haikaiss",
-          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
-        }
-      ],
-      "duration_ms": 360559,
-      "name": "Irm\u00e3o DQbrada!",
-      "url": "https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
         "name": "Caro Vapor / Vida e Veneno de Don L",
         "url": "https://open.spotify.com/album/1BztKmvBesTWgxAxgc0yZK"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 229889,
       "name": "Beira de Piscina (Remix)",
       "url": "https://open.spotify.com/track/6a0kQTjyGmfwBF0tLVgEha"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
+        "name": "Irm\u00e3o Dqbrada!",
+        "url": "https://open.spotify.com/album/3kpjqMr6KRsxc5n7JVx8mc"
+      },
+      "artists": [
+        {
+          "name": "Costa Gold",
+          "url": "https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn"
+        },
+        {
+          "name": "Haikaiss",
+          "url": "https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb"
+        }
+      ],
+      "duration_ms": 360559,
+      "name": "Irm\u00e3o DQbrada!",
+      "url": "https://open.spotify.com/track/4CPhkF6SboNZoZfjgaEYME"
     },
     {
       "added_at": "2023-10-06 03:03:00",

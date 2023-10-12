@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 
 > Detroit <a href="spotify:genre:techno">Techno</a> Essentials\. Cover: DJ Minx.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,511 likes - 50 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,530 likes - 50 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1GT5IIzDqMe.md) - [plain]
 | 49 | [Red Room](https://open.spotify.com/track/1guCg3jJIYTDhfa35oWYV7) | [Dantiez](https://open.spotify.com/artist/2tavIhWjw7f878Bx9qDTma) | [Red Room](https://open.spotify.com/album/0BNMNVsOTRMmRN43yuPDm4) | 6:40 |
 | 50 | [Do It All Night \(C2 Edit\) \- Mixed](https://open.spotify.com/track/2FZ2tYMA7fyh8yeRigzU5s) | [DJ Minx](https://open.spotify.com/artist/4PTQtiKISN5iGNpbRVv02B), [Carl Craig](https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU) | [Detroit Love Vol\. 2 \(DJ Mix\)](https://open.spotify.com/album/4MxXFLaIRakukm7CiS60FQ) | 5:39 |
 
-Snapshot ID: `MCxhNTJhNGIxMzRiMmM5OWE5NGExYTNlZjc3MTEwNzdkZWM0ZGVmOTky`
+Snapshot ID: `MCxlOTU3MTAzY2E1NDI4MTNjNzExZTEyYjg2Y2E5NTA3YTA3MzNjNjBm`

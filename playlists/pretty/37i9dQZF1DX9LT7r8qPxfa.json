@@ -1,12 +1,12 @@
 {
   "description": "deep & dark. bold & bare. cover: Samia",
-  "num_followers": 260788,
+  "num_followers": 260463,
   "original_name": "noir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWJlZDZjZDVkMTdiMjc4ZTJiYzZlOTk0MDhiNzYwYTEwNjI3YzVj",
+  "snapshot_id": "MCwyMjM0NzNhZDU0YmQxNDNhNDE1YTM1MDE0MGM1NTRjMjBkZmMyOTc2",
   "tracks": [
     {
       "added_at": "2023-09-25 17:39:49",
@@ -535,22 +535,6 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "Coming Of Age pt. 1",
-        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
-      },
-      "artists": [
-        {
-          "name": "Maddie Medley",
-          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
-        }
-      ],
-      "duration_ms": 261475,
-      "name": "Buzz",
-      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
         "name": "Thirteen",
         "url": "https://open.spotify.com/album/5uiA6CIjpVZ6TZfiATrjEg"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 184869,
       "name": "Thirteen",
       "url": "https://open.spotify.com/track/5uXr5ZxwlC5lz7DMKLqJfC"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
+        "name": "Coming Of Age pt. 1",
+        "url": "https://open.spotify.com/album/2QXM0eteTUsJ42k6T9fEEy"
+      },
+      "artists": [
+        {
+          "name": "Maddie Medley",
+          "url": "https://open.spotify.com/artist/03JEWIBjHgE7jGqQZvG7k3"
+        }
+      ],
+      "duration_ms": 261475,
+      "name": "Buzz",
+      "url": "https://open.spotify.com/track/2HJfsvk8GKk6qCGLG8cMCA"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "Fine Line / Eat The Acid",
-        "url": "https://open.spotify.com/album/3RBAnTbN7fcba7VRpQi14P"
+        "name": "untitled",
+        "url": "https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT"
       },
       "artists": [
         {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+          "name": "Rachael Jenkins",
+          "url": "https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP"
         }
       ],
-      "duration_ms": 242240,
-      "name": "Eat The Acid",
-      "url": "https://open.spotify.com/track/7IaZ2WDYVYi0OImUNQm6Vl"
+      "duration_ms": 225640,
+      "name": "untitled",
+      "url": "https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -787,34 +787,18 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "untitled",
-        "url": "https://open.spotify.com/album/4Xweu1d5gXbscOXhIRMLUT"
+        "name": "Fine Line / Eat The Acid",
+        "url": "https://open.spotify.com/album/3RBAnTbN7fcba7VRpQi14P"
       },
       "artists": [
         {
-          "name": "Rachael Jenkins",
-          "url": "https://open.spotify.com/artist/5j0GrXECgqyWvysNyBN0CP"
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
         }
       ],
-      "duration_ms": 225640,
-      "name": "untitled",
-      "url": "https://open.spotify.com/track/4foKnVvnAHmQYbONUcbgkK"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
-        "name": "The Man Who Sees Tomorrow / Lodarore",
-        "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
-      },
-      "artists": [
-        {
-          "name": "Uwade",
-          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "The Man Who Sees Tomorrow",
-      "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
+      "duration_ms": 242240,
+      "name": "Eat The Acid",
+      "url": "https://open.spotify.com/track/7IaZ2WDYVYi0OImUNQm6Vl"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -831,6 +815,22 @@
       "duration_ms": 252413,
       "name": "Swimming",
       "url": "https://open.spotify.com/track/0HVxfx5x8dZSTaK7EnIByn"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
+        "name": "The Man Who Sees Tomorrow / Lodarore",
+        "url": "https://open.spotify.com/album/6wEU7UQkhZSuLZLdVt2ypQ"
+      },
+      "artists": [
+        {
+          "name": "Uwade",
+          "url": "https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "The Man Who Sees Tomorrow",
+      "url": "https://open.spotify.com/track/3tML0isKJJ3DJUQKcm3L0e"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "Would You Mind Please Pulling Me Close?",
-        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
+        "name": "Shower Song",
+        "url": "https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke"
       },
       "artists": [
         {
-          "name": "Tasha",
-          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+          "name": "tofusmell",
+          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
         }
       ],
-      "duration_ms": 243925,
-      "name": "Would You Mind Please Pulling Me Close?",
-      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
+      "duration_ms": 167505,
+      "name": "Shower Song",
+      "url": "https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
+        "name": "Would You Mind Please Pulling Me Close?",
+        "url": "https://open.spotify.com/album/4hWXo3TffCSjs4GknfVrdu"
+      },
+      "artists": [
+        {
+          "name": "Tasha",
+          "url": "https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej"
+        }
+      ],
+      "duration_ms": 243925,
+      "name": "Would You Mind Please Pulling Me Close?",
+      "url": "https://open.spotify.com/track/7aEiyMXBfAvmeRYFz9mOwi"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
         "name": "Silk",
         "url": "https://open.spotify.com/album/4nTHHjECNVC9gLWKNUK9wB"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 192000,
       "name": "Silk",
       "url": "https://open.spotify.com/track/6KHJTplNOsm1hVGzCCPZ7m"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
-        "name": "Shower Song",
-        "url": "https://open.spotify.com/album/3u1u4dS5Y0PwqUPxShxRke"
-      },
-      "artists": [
-        {
-          "name": "tofusmell",
-          "url": "https://open.spotify.com/artist/1iOQiPT8N1MQbdUaTaefyZ"
-        }
-      ],
-      "duration_ms": 167505,
-      "name": "Shower Song",
-      "url": "https://open.spotify.com/track/3pQ6Kt50YY8pnjwXK1z3Xm"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "Grim Town",
-        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
-      },
-      "artists": [
-        {
-          "name": "SOAK",
-          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
-        }
-      ],
-      "duration_ms": 270664,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep"
-    },
-    {
-      "added_at": "2023-09-25 17:39:49",
-      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/3dlzxTH49iYilF7cLV1LK3"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 260519,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/31CqZPvgv8VwjQK2jcLSEn"
+    },
+    {
+      "added_at": "2023-09-25 17:39:49",
+      "album": {
+        "name": "Grim Town",
+        "url": "https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns"
+      },
+      "artists": [
+        {
+          "name": "SOAK",
+          "url": "https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv"
+        }
+      ],
+      "duration_ms": 270664,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/1YeiQ89ozDpyfYydmiFGep"
     },
     {
       "added_at": "2023-09-25 17:39:49",
@@ -1667,18 +1667,18 @@
     {
       "added_at": "2023-09-25 17:39:49",
       "album": {
-        "name": "Old Time Feeling",
-        "url": "https://open.spotify.com/album/157xeDtGxPmnZIQfdJjQFT"
+        "name": "Walking Proof",
+        "url": "https://open.spotify.com/album/2z9K9JtKHRue5qfVMV7J7a"
       },
       "artists": [
         {
-          "name": "S.G. Goodman",
-          "url": "https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd"
+          "name": "Lilly Hiatt",
+          "url": "https://open.spotify.com/artist/0bDtDHLE3cBlqZxyLUDf90"
         }
       ],
-      "duration_ms": 308706,
-      "name": "If It Ain't Me Babe",
-      "url": "https://open.spotify.com/track/39j6F8ulgcWZn1M4R4hRSu"
+      "duration_ms": 175773,
+      "name": "Rae",
+      "url": "https://open.spotify.com/track/2MQC4MMW0xXjNPM0b30I1D"
     }
   ],
   "unique_name": "noir",

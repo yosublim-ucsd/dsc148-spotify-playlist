@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up?",
-  "num_followers": 739285,
+  "num_followers": 739924,
   "original_name": "Energy Booster: Dance",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDdjNDMzMDgyYjVlNTMyODk3ODI4ZGY2ZTQ0NWU3OGFlZWU2YmU2",
+  "snapshot_id": "MCxmYTVkOTlmZmUxM2Y0N2JiYmE3YTY3ZmVkMDBjMGQ5ZTJiYmQ2Y2I0",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Losing It",
-        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        }
-      ],
-      "duration_ms": 248035,
-      "name": "Losing It",
-      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Sweet Dreams",
         "url": "https://open.spotify.com/album/5WV1czZI9hnO6REVS6yKHR"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 138819,
       "name": "Sweet Dreams",
       "url": "https://open.spotify.com/track/4uDhts78RdwIDjEqPrYVKp"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Losing It",
+        "url": "https://open.spotify.com/album/143cxYCazoiNfviHRmxkdv"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        }
+      ],
+      "duration_ms": 248035,
+      "name": "Losing It",
+      "url": "https://open.spotify.com/track/6ho0GyrWZN3mhi9zVRW7xi"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Rise Up (feat. Vamero)",
-        "url": "https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8"
-      },
-      "artists": [
-        {
-          "name": "VINAI",
-          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
-        },
-        {
-          "name": "VAMERO",
-          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Rise Up (feat. Vamero)",
-      "url": "https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Nevada",
         "url": "https://open.spotify.com/album/35waq1Bkgy11OjZNGuk9Gj"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 208561,
       "name": "Nevada",
       "url": "https://open.spotify.com/track/02shCNmb6IvgB5jLqKjtkK"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Rise Up (feat. Vamero)",
+        "url": "https://open.spotify.com/album/4DsxykS9CPTnJPeoWXkRV8"
+      },
+      "artists": [
+        {
+          "name": "VINAI",
+          "url": "https://open.spotify.com/artist/4mrBetqy378Jf1y6NLszlx"
+        },
+        {
+          "name": "VAMERO",
+          "url": "https://open.spotify.com/artist/74GrV01oFcjJdLHCF9MWhr"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Rise Up (feat. Vamero)",
+      "url": "https://open.spotify.com/track/46lyJh9GYmWsHez3EsvmAx"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Hallucination",
-        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
-      },
-      "artists": [
-        {
-          "name": "Regard",
-          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
-        },
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 174794,
-      "name": "Hallucination",
-      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Tattoo (Topic Remix)",
         "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 211400,
       "name": "Tattoo - Topic Remix",
       "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Hallucination",
+        "url": "https://open.spotify.com/album/3uTg9ykOYoW54hj9q66oCh"
+      },
+      "artists": [
+        {
+          "name": "Regard",
+          "url": "https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev"
+        },
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 174794,
+      "name": "Hallucination",
+      "url": "https://open.spotify.com/track/7y3c1oJMY1CwwtOZ84Qovu"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Smash My Heart",
-        "url": "https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O"
-      },
-      "artists": [
-        {
-          "name": "Robin Schulz",
-          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
-        }
-      ],
-      "duration_ms": 170706,
-      "name": "Smash My Heart",
-      "url": "https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Here We Go Again",
         "url": "https://open.spotify.com/album/1MIlk0URqciXoiT8xqLzZf"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 164541,
       "name": "Here We Go Again",
       "url": "https://open.spotify.com/track/3WsbAGQt6HgTj9kg6f466M"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Smash My Heart",
+        "url": "https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O"
+      },
+      "artists": [
+        {
+          "name": "Robin Schulz",
+          "url": "https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S"
+        }
+      ],
+      "duration_ms": 170706,
+      "name": "Smash My Heart",
+      "url": "https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Balance",
-        "url": "https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 183518,
-      "name": "Blah Blah Blah",
-      "url": "https://open.spotify.com/track/1moFkZDqcjQNeXtyoanLHv"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 217906,
       "name": "Move Your Body - Alan Walker Remix",
       "url": "https://open.spotify.com/track/6LUOMjoORvAkdhBYvESO46"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Balance",
+        "url": "https://open.spotify.com/album/5cqwXF2j9LkvFInBFlnQd3"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 183518,
+      "name": "Blah Blah Blah",
+      "url": "https://open.spotify.com/track/1moFkZDqcjQNeXtyoanLHv"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1995,6 +1995,30 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Great Spirit",
+        "url": "https://open.spotify.com/album/3d18JaxDfbuCD8AyoG07Yt"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Vini Vici",
+          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
+        },
+        {
+          "name": "Hilight Tribe",
+          "url": "https://open.spotify.com/artist/62RdOEwjfXjFOQpKdufMR7"
+        }
+      ],
+      "duration_ms": 215773,
+      "name": "Great Spirit",
+      "url": "https://open.spotify.com/track/3Nku6gLNqnwUuq8GLkqyhW"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Set Me Free",
         "url": "https://open.spotify.com/album/2SR6UldibmBVT6te65lEuI"
       },
@@ -2031,26 +2055,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Great Spirit",
-        "url": "https://open.spotify.com/album/3d18JaxDfbuCD8AyoG07Yt"
+        "name": "Saturday/Sunday",
+        "url": "https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas"
       },
       "artists": [
         {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
         },
         {
-          "name": "Vini Vici",
-          "url": "https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy"
-        },
-        {
-          "name": "Hilight Tribe",
-          "url": "https://open.spotify.com/artist/62RdOEwjfXjFOQpKdufMR7"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 215773,
-      "name": "Great Spirit",
-      "url": "https://open.spotify.com/track/3Nku6gLNqnwUuq8GLkqyhW"
+      "duration_ms": 166572,
+      "name": "Saturday/Sunday",
+      "url": "https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2091,26 +2111,6 @@
       "duration_ms": 139411,
       "name": "On The Move",
       "url": "https://open.spotify.com/track/7lEBtmu2qRLupeSOupBa1j"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Saturday/Sunday",
-        "url": "https://open.spotify.com/album/5mhEZOho91w4yYgkOTHdas"
-      },
-      "artists": [
-        {
-          "name": "Jason Derulo",
-          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 166572,
-      "name": "Saturday/Sunday",
-      "url": "https://open.spotify.com/track/2tX3PY8eP3h9XaBcLXuRBa"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2159,6 +2159,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Lose This Feeling",
+        "url": "https://open.spotify.com/album/57dNlGJ7Kx7pKqBno6Ysr4"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        }
+      ],
+      "duration_ms": 146996,
+      "name": "Lose This Feeling",
+      "url": "https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Monster (Robin Schulz Remix)",
         "url": "https://open.spotify.com/album/67PtnkGcMlHCa1RcYSzleO"
       },
@@ -2183,42 +2199,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Wave",
-        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
-      },
-      "artists": [
-        {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
-        },
-        {
-          "name": "Mike Williams",
-          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
-        }
-      ],
-      "duration_ms": 160183,
-      "name": "Lullaby",
-      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Lose This Feeling",
-        "url": "https://open.spotify.com/album/57dNlGJ7Kx7pKqBno6Ysr4"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        }
-      ],
-      "duration_ms": 146996,
-      "name": "Lose This Feeling",
-      "url": "https://open.spotify.com/track/1lzIk2EDN5d1gIbxfmu2oF"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "On & On",
         "url": "https://open.spotify.com/album/2a9AGivapFES2j2ElI3odn"
       },
@@ -2235,6 +2215,26 @@
       "duration_ms": 147026,
       "name": "On & On",
       "url": "https://open.spotify.com/track/7sYAS4CpbV90oSemgaEQat"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Wave",
+        "url": "https://open.spotify.com/album/51xuEhCDa3SJsvBIWvII8a"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        }
+      ],
+      "duration_ms": 160183,
+      "name": "Lullaby",
+      "url": "https://open.spotify.com/track/0LRYbMHrBXkXNUBhRkENT1"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2587,22 +2587,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Astronomia (Never Go Home)",
-        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
-      },
-      "artists": [
-        {
-          "name": "Tony Igy",
-          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
-        }
-      ],
-      "duration_ms": 156888,
-      "name": "Astronomia - Never Go Home",
-      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Say It Right (ILURO Remix)",
         "url": "https://open.spotify.com/album/6ZEaJiDo55GwRWxtkbG00a"
       },
@@ -2631,22 +2615,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Shades Of Love (feat. The Joy)",
-        "url": "https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR"
+        "name": "Astronomia (Never Go Home)",
+        "url": "https://open.spotify.com/album/1bJePA8XUWVDi1e0w6FhWq"
       },
       "artists": [
         {
-          "name": "The Blessed Madonna",
-          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
-        },
-        {
-          "name": "The Joy",
-          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+          "name": "Tony Igy",
+          "url": "https://open.spotify.com/artist/2jpQ0ywffgVHhZFQNWaWYW"
         }
       ],
-      "duration_ms": 203520,
-      "name": "Shades Of Love (feat. The Joy)",
-      "url": "https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK"
+      "duration_ms": 156888,
+      "name": "Astronomia - Never Go Home",
+      "url": "https://open.spotify.com/track/5WYB4aZkflwjAApBoDCYkz"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -2667,6 +2647,26 @@
       "duration_ms": 132597,
       "name": "Don't You Hold Me Down",
       "url": "https://open.spotify.com/track/0d1ujEcFwTqA4kWliTSJim"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Shades Of Love (feat. The Joy)",
+        "url": "https://open.spotify.com/album/65PtC0GDmt3AyIxcCaThDR"
+      },
+      "artists": [
+        {
+          "name": "The Blessed Madonna",
+          "url": "https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw"
+        },
+        {
+          "name": "The Joy",
+          "url": "https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Shades Of Love (feat. The Joy)",
+      "url": "https://open.spotify.com/track/28pQcTJag5xFasUq2fw9PK"
     },
     {
       "added_at": "2023-09-29 04:00:00",

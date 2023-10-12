@@ -19779,6 +19779,24 @@
     },
     {
       "album": {
+        "name": "Mix",
+        "url": "https://open.spotify.com/album/00p5rwTYsV62tV3RXRYZAO"
+      },
+      "artists": [
+        {
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209333,
+      "name": "Mix",
+      "url": "https://open.spotify.com/track/0ObVtzwc7YEuMjDQSTQyCW"
+    },
+    {
+      "album": {
         "name": "MJ Freestyle",
         "url": "https://open.spotify.com/album/7f9YnlCTzm35uCtwNz4e5K"
       },
@@ -37846,7 +37864,7 @@
       ],
       "date_added": "2023-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 209333,
       "name": "\u30df\u30c3\u30af\u30b9",
       "url": "https://open.spotify.com/track/5sAf1YOrqP7t4uMng90FWR"

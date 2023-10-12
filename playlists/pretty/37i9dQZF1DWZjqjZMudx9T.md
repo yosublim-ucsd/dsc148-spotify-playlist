@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 
 > De la CALLE a la CIMA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,756,652 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,756,194 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 | 20 | [Me Porto Bonito](https://open.spotify.com/track/6Sq7ltF9Qa7SNFBsV5Cogx) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Chencho Corleone](https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 2:58 |
 | 21 | [PUNTO G](https://open.spotify.com/track/0oBtwScT4B4BR5kZitNWd5) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PUNTO G](https://open.spotify.com/album/7ushCUbR1asPHeuxA5Dq8N) | 2:31 |
 | 22 | [X ESO BB](https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [X ESO BB](https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu) | 3:13 |
-| 23 | [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:50 |
+| 23 | [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:50 |
 | 24 | [UNA NOCHE EN MEDELLÍN \- REMIX](https://open.spotify.com/track/6ejks4eS7DOoYW8hrpRcDV) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:25 |
 | 25 | [Yankee 150](https://open.spotify.com/track/28BSTgZH1ckI8Xfy8LXaRz) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [Yankee 150](https://open.spotify.com/album/6ufsNn6vIdR75yr6uYZW9F) | 4:02 |
 | 26 | [¿Cuál Es Su Nombre?](https://open.spotify.com/track/5S8zFPQ3KIlF2y9Kt8mRhg) | [Lucky Brown](https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [El De La Nueva Baby](https://open.spotify.com/album/3bI6icwZp7moS4MgaKRkuj) | 3:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjqjZMudx9T.md) - [plain]
 | 49 | [LA BABY](https://open.spotify.com/track/1PyEIqKSHiGNK9KjxosuHi) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [LA BABY](https://open.spotify.com/album/0JxZiYcTT06o0ir80SbEdW) | 3:02 |
 | 50 | [DISPO](https://open.spotify.com/track/4iGQ8o9Ih6J1OuDDGCXSCL) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:13 |
 
-Snapshot ID: `MCxmYWRmOTA5Mjg4NjhmZDIwYzYxYzQ4YzQ1OGNjNGNkZDJiZmM2MzYz`
+Snapshot ID: `MCw2ZjcwZGY3MTQ5ODZiMzAzZjNiYmFjYjBiNWI4OWZjNzcyMTNmYzE3`

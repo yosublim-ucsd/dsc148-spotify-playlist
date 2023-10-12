@@ -1,12 +1,12 @@
 {
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
-  "num_followers": 670503,
+  "num_followers": 669604,
   "original_name": "Chill Latino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiYjJmNzQ5NDNjMTBlOGYxYWYzYmMyMDA0MTMzODEwYWUxZTY2MWRh",
+  "snapshot_id": "MCxhNWYyYzBjMTJjZDI0ZmUyMzg5NGVjMzYxNGM3NGEwMmZjYmIxMWIz",
   "tracks": [
     {
       "added_at": "2023-08-31 19:57:26",
@@ -355,18 +355,18 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Maybe Baby",
-        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
+        "name": "Tus Ojitos",
+        "url": "https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc"
       },
       "artists": [
         {
-          "name": "maye",
-          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
+          "name": "Samanez",
+          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
         }
       ],
-      "duration_ms": 193429,
-      "name": "Maybe Baby",
-      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
+      "duration_ms": 255514,
+      "name": "Tus Ojitos",
+      "url": "https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -387,18 +387,18 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Tus Ojitos",
-        "url": "https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc"
+        "name": "Maybe Baby",
+        "url": "https://open.spotify.com/album/3Nv4qF7y94KVdKMXoBYW1B"
       },
       "artists": [
         {
-          "name": "Samanez",
-          "url": "https://open.spotify.com/artist/0tBrvJqdSBhoQ8zDnGIP5V"
+          "name": "maye",
+          "url": "https://open.spotify.com/artist/5ti5FPHgtaSf15KcUisZMt"
         }
       ],
-      "duration_ms": 255514,
-      "name": "Tus Ojitos",
-      "url": "https://open.spotify.com/track/0zoxIUnCEpCXayf35r17gd"
+      "duration_ms": 193429,
+      "name": "Maybe Baby",
+      "url": "https://open.spotify.com/track/2SAIOfbBGw6Vvt8sW3qkP2"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -587,22 +587,6 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Cafeliko",
-        "url": "https://open.spotify.com/album/02qmYpNbxlf8EFAzHQTK4x"
-      },
-      "artists": [
-        {
-          "name": "Jimena Amarillo",
-          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
-        }
-      ],
-      "duration_ms": 126984,
-      "name": "Cafeliko",
-      "url": "https://open.spotify.com/track/0mzvDQW1IgLuXAwD5YMN6i"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
         "name": "Marea (feat. legallyrxx)",
         "url": "https://open.spotify.com/album/11ZztgTrgbcz4TA64WxQ6R"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 166036,
       "name": "Marea (feat. legallyrxx)",
       "url": "https://open.spotify.com/track/63ZPI191Myh2F8GpzW14q1"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "Cafeliko",
+        "url": "https://open.spotify.com/album/02qmYpNbxlf8EFAzHQTK4x"
+      },
+      "artists": [
+        {
+          "name": "Jimena Amarillo",
+          "url": "https://open.spotify.com/artist/29cPgYFoxExwmptUrlnYmm"
+        }
+      ],
+      "duration_ms": 126984,
+      "name": "Cafeliko",
+      "url": "https://open.spotify.com/track/0mzvDQW1IgLuXAwD5YMN6i"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -823,6 +823,22 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
+        "name": "Planeando Madrid",
+        "url": "https://open.spotify.com/album/6nKhhgRiT0icKwW12lgVKS"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 252736,
+      "name": "Planeando Madrid",
+      "url": "https://open.spotify.com/track/6SreMzzAJ5OFN396IJnBlq"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
         "name": "Vibe",
         "url": "https://open.spotify.com/album/2MegsHOQtYtR3aCueFrMan"
       },
@@ -895,22 +911,6 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Planeando Madrid",
-        "url": "https://open.spotify.com/album/6nKhhgRiT0icKwW12lgVKS"
-      },
-      "artists": [
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 252736,
-      "name": "Planeando Madrid",
-      "url": "https://open.spotify.com/track/6SreMzzAJ5OFN396IJnBlq"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
         "name": "Duele",
         "url": "https://open.spotify.com/album/2fAyJFdEdonWHxZBEBhqHl"
       },
@@ -947,22 +947,6 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Cuando Los Ac\u00e9falos Predominan",
-        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 321019,
-      "name": "Camarones y Viniles",
-      "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
         "name": "Visa",
         "url": "https://open.spotify.com/album/3d77pCQ3luC9ZkqQZhE45o"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 187386,
       "name": "Visa",
       "url": "https://open.spotify.com/track/0LpaAAP3MhLIX28nJGKAvd"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "Cuando Los Ac\u00e9falos Predominan",
+        "url": "https://open.spotify.com/album/2iTJbyuvWzN0GCRRYFOqxW"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 321019,
+      "name": "Camarones y Viniles",
+      "url": "https://open.spotify.com/track/2SvgidjfDiljFRq84m0t1S"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -999,6 +999,30 @@
       "duration_ms": 144255,
       "name": "cuarto pa' las doce",
       "url": "https://open.spotify.com/track/7ueobUrOSSrdjS8Jdjx5rx"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "la vida viene y va",
+        "url": "https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        },
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "Marcos Menchaca",
+          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
+        }
+      ],
+      "duration_ms": 215872,
+      "name": "la vida viene y va",
+      "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -1039,46 +1063,6 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "la vida viene y va",
-        "url": "https://open.spotify.com/album/1q1rdMR7YiHXBP4ccFfLIW"
-      },
-      "artists": [
-        {
-          "name": "Josue Alaniz",
-          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        },
-        {
-          "name": "Marcos Menchaca",
-          "url": "https://open.spotify.com/artist/1Pvcsw46EYSQKIa5TRrfGj"
-        }
-      ],
-      "duration_ms": 215872,
-      "name": "la vida viene y va",
-      "url": "https://open.spotify.com/track/7DJr2YQild4RF5EEJTVoMN"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
-        "name": "No Te Voy a Ver",
-        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
-      },
-      "artists": [
-        {
-          "name": "Claire Deli\u0107",
-          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
-        }
-      ],
-      "duration_ms": 217399,
-      "name": "No Te Voy a Ver",
-      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
         "name": "Otro Lado",
         "url": "https://open.spotify.com/album/2PFUqGpxYAEZZqHjjXQZdN"
       },
@@ -1099,22 +1083,18 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
-        "name": "Quieres de mi",
-        "url": "https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq"
+        "name": "No Te Voy a Ver",
+        "url": "https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL"
       },
       "artists": [
         {
-          "name": "Anna Zarate",
-          "url": "https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2"
-        },
-        {
-          "name": "Gamboa",
-          "url": "https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu"
+          "name": "Claire Deli\u0107",
+          "url": "https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Quieres de mi",
-      "url": "https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan"
+      "duration_ms": 217399,
+      "name": "No Te Voy a Ver",
+      "url": "https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -1131,6 +1111,26 @@
       "duration_ms": 205452,
       "name": "Soy capaz",
       "url": "https://open.spotify.com/track/1fW4YuVGQWPxDRh7mH2JYF"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
+        "name": "Quieres de mi",
+        "url": "https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq"
+      },
+      "artists": [
+        {
+          "name": "Anna Zarate",
+          "url": "https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2"
+        },
+        {
+          "name": "Gamboa",
+          "url": "https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Quieres de mi",
+      "url": "https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan"
     },
     {
       "added_at": "2023-08-31 19:57:26",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2023-08-31 19:57:26",
       "album": {
+        "name": "Indirecta",
+        "url": "https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o"
+      },
+      "artists": [
+        {
+          "name": "Itzza Primera",
+          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
+        }
+      ],
+      "duration_ms": 200727,
+      "name": "Indirecta",
+      "url": "https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3"
+    },
+    {
+      "added_at": "2023-08-31 19:57:26",
+      "album": {
         "name": "Otra Vez",
         "url": "https://open.spotify.com/album/1b50tBHDr0LWi7GAOHPwey"
       },
@@ -1511,22 +1527,6 @@
       "duration_ms": 187933,
       "name": "Paralizado",
       "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"
-    },
-    {
-      "added_at": "2023-08-31 19:57:26",
-      "album": {
-        "name": "Indirecta",
-        "url": "https://open.spotify.com/album/7bDYJcet4ezQInDdEUTe4o"
-      },
-      "artists": [
-        {
-          "name": "Itzza Primera",
-          "url": "https://open.spotify.com/artist/0PlTbBrPOOOmJzprmZ4cdM"
-        }
-      ],
-      "duration_ms": 200727,
-      "name": "Indirecta",
-      "url": "https://open.spotify.com/track/3LHFIfINcMHX7LmiaI9mn3"
     },
     {
       "added_at": "2023-08-31 19:57:26",

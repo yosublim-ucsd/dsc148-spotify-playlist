@@ -4,7 +4,7 @@
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy?si=7f7EU7StRLafRZ1CMVjKcQ">Thandi Ntuli</a>
 
-130 songs - 13 hr 42 min
+131 songs - 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Log Out Shut Down \- Live in Studio](https://open.spotify.com/track/2zjanNO8418bIvxfu0FKfs) | [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Log out Shut Down \(Live in Studio\)](https://open.spotify.com/album/1UcfQoitK9uJQeGHTYaAls) | 6:19 | 2022-04-28 | 2023-04-12 |
 | [Mabaphile](https://open.spotify.com/track/041J8KXn8xjhQCcgfBQWsR) | [Mandisi Dyantyis](https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0) | [Cwaka](https://open.spotify.com/album/5x2pAfzkEpcmudXzuVPvyV) | 4:48 | 2023-08-25 |  |
 | [Malume](https://open.spotify.com/track/0remaUvyhDjXE5OUFNmVsS) | [Tune Recreation Committee](https://open.spotify.com/artist/6lNEil3Rutgl0lscHp9pZx) | [Afrika Grooves With the Tune Recreation Committee](https://open.spotify.com/album/7etAEMYrH6A4M3Q7LvaycA) | 6:45 | 2022-04-28 | 2023-03-18 |
-| [Mogaetsho](https://open.spotify.com/track/4cs9zPibRaJWnpinq2OCjA) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Radio Sechaba](https://open.spotify.com/album/0gJH7Mg6iDdjxFssLUHTGj) | 5:32 | 2023-05-12 |  |
+| [Mogaetsho](https://open.spotify.com/track/4cs9zPibRaJWnpinq2OCjA) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Radio Sechaba](https://open.spotify.com/album/0gJH7Mg6iDdjxFssLUHTGj) | 5:32 | 2023-05-12 | 2023-10-12 |
+| [Mogaetsho](https://open.spotify.com/track/6M7qRhvKFVoczT8Nlrasdq) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Radio Sechaba](https://open.spotify.com/album/5qK3CSS06KxQ7zF4xnFWJB) | 5:32 | 2023-10-05 |  |
 | [Molo Sisi](https://open.spotify.com/track/2Gi7DKVBgCMkWKKQgioOWZ) | [Mandisi Dyantyis](https://open.spotify.com/artist/6hNOG85RpnNVlDUvl6jNF0) | [Somandla](https://open.spotify.com/album/54L8Xvb3x6mVpFOg2io6rE) | 6:02 | 2022-04-28 | 2023-03-18 |
 | [Monwabisi's Delights I \- Live](https://open.spotify.com/track/4LXlevI5oBoowRjn2w3Ydy) | [Herbie Tsoaeli](https://open.spotify.com/artist/6W8K5VbMD7qZq60OeFgcFn) | [Ndiyakudinga \(Live\)](https://open.spotify.com/album/4UnKNK8myYGeFXZeOSKg0a) | 8:00 | 2023-08-25 |  |
 | [Moshe](https://open.spotify.com/track/3JY0KovNSPcs48thjVAauQ) | [Malcolm Jiyane Tree\-O](https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH) | [UMDALI](https://open.spotify.com/album/3nXuL25LbboMeH2KfOE1U8) | 10:14 | 2022-04-28 |  |

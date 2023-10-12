@@ -4,7 +4,7 @@
 
 > Carnival Sounds getting you ready for Notting Hill Carnival 2023 curated by Lissa Monet
 
-276 songs - 19 hr 48 min
+278 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,8 @@
 | [Engine Room](https://open.spotify.com/track/34PxcvkeNjwzad9j08HkYC) | [Olatunji](https://open.spotify.com/artist/04pf773tnBOux7gJaH108H) | [Engine Room](https://open.spotify.com/album/5rPvmGPFkDqEfHlRg6AqBO) | 3:21 | 2023-07-10 |  |
 | [Ent](https://open.spotify.com/track/3OwdFitCuII4o7mRX5SGUP) | [Ronnie McIntosh](https://open.spotify.com/artist/5kQZG7cSCTZfyfpnajlofH) | [Soca Gold 1997](https://open.spotify.com/album/6gTx1lgT2PCoNQdeNFtP1I) | 5:41 | 2023-07-10 |  |
 | [Ent Yuh Know \- feat\. Alison Hinds & Ravi B](https://open.spotify.com/track/4jBofXspw65ntYMwlZEF4s) | [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [Soca Gold 2013](https://open.spotify.com/album/3P4NsDb4H3rL9YSiLoFuSS) | 5:14 | 2022-08-18 | 2023-05-16 |
-| [Epic](https://open.spotify.com/track/0FgZq5lsz1LU9WOErYPkJs) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:38 | 2023-07-10 |  |
+| [Epic](https://open.spotify.com/track/0FgZq5lsz1LU9WOErYPkJs) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:38 | 2023-07-10 | 2023-10-12 |
+| [Epic](https://open.spotify.com/track/23yay5jEuXDX2FslLUqz35) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id) | 3:38 | 2023-08-07 |  |
 | [Ethel](https://open.spotify.com/track/3F4T8gO9jvZP8p2kfQKWJ6) | [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [Port Royal Bacchanal](https://open.spotify.com/album/4sBTiQI0RpfWKnYeNNjmik) | 5:48 | 2020-09-16 | 2022-07-29 |
 | [Ethel](https://open.spotify.com/track/6fJEiKdVxkVezXI97thsWG) | [Super Blue](https://open.spotify.com/artist/0zqSNymvyHewhIYMbvDBhM) | [The Very Best of Super Blue](https://open.spotify.com/album/0D24Lf4UgG9dhZSZkRUwTI) | 5:48 | 2022-02-24 | 2023-07-11 |
 | [Fallin'](https://open.spotify.com/track/53Uxhu7xAUjKcxcomTuMbw) | [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH) | [Fallin'](https://open.spotify.com/album/1c5nGXS3kzA8cI5kg0G9nN) | 3:35 | 2023-07-10 |  |
@@ -110,7 +111,8 @@
 | [Happiest Man Alive](https://open.spotify.com/track/5F3Ijaofeyv7AC2LgymSOH) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 3:38 | 2020-09-16 | 2023-07-11 |
 | [Happy Place](https://open.spotify.com/track/3ygt4Gx1uS8jFve80jMSpy) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [The Backyard Jam](https://open.spotify.com/album/30slI6rRxKuV2dERHwE2Ys) | 3:48 | 2023-07-10 |  |
 | [Hard Wine](https://open.spotify.com/track/7HvUtTBGl33OCEE9OOntfA) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0) | [Pure Soca](https://open.spotify.com/album/0aqi1lg3EJuNB3uexZ3i5L) | 4:44 | 2020-09-16 | 2023-07-11 |
-| [Haunted](https://open.spotify.com/track/6Em6PEG03s2qGhz9KbR7Wu) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 4:20 | 2023-07-10 |  |
+| [Haunted](https://open.spotify.com/track/274ak6JcZTcX3lT7W9bZjK) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/6jupllx1C4fwux9s4WD5Id) | 4:20 | 2023-08-07 |  |
+| [Haunted](https://open.spotify.com/track/6Em6PEG03s2qGhz9KbR7Wu) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Happiest Man Alive](https://open.spotify.com/album/02k2QWeNbeWaHf7t7fJBYf) | 4:20 | 2023-07-10 | 2023-10-12 |
 | [Hello](https://open.spotify.com/track/3Hc5FvTzjtxF7DmOK6MaXV) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/6eRhLfRy1CbGTD0fkSrJob) | 3:18 | 2020-09-16 | 2022-08-19 |
 | [Hello](https://open.spotify.com/track/3cmdQZ2yzUjtKTedabLjqu) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Folklore Riddim](https://open.spotify.com/album/48nubh7FCkPvIG8DqHdLbm) | 3:18 | 2023-05-15 | 2023-07-11 |
 | [Hello](https://open.spotify.com/track/1iYrehoutxonyzhjF9Kx0e) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6), [KES the Band](https://open.spotify.com/artist/1dghdU4VhWh2b4BMf3scHH) | [We Home](https://open.spotify.com/album/3gMFkeH1NpKPTEJKPxkIF8) | 3:48 | 2023-07-10 |  |

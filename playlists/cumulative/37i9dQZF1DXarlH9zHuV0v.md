@@ -4,7 +4,7 @@
 
 > A playlist of spooky songs to get you ready for fright night!
 
-129 songs - 8 hr 17 min
+130 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [bury a friend](https://open.spotify.com/track/4SSnFejRGlZikf02HLewEF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?](https://open.spotify.com/album/0S0KGZnfBGSIssfF54WSJh) | 3:13 | 2019-10-09 |  |
 | [Calling All the Monsters](https://open.spotify.com/track/0QTUoI90fBFdKkd4h8fsOu) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [A.N.T\. Farm](https://open.spotify.com/album/2cVKRV3zYpcaU8Cz8sroUA) | 3:26 | 2019-10-09 | 2023-10-09 |
 | [Calling All the Monsters](https://open.spotify.com/track/0hnHoQbEQOL4YUZ4SO6xbe) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [Calling All The Monsters](https://open.spotify.com/album/5OIP7u2BKGMN0IcoLE9zQz) | 3:26 | 2019-10-09 | 2022-07-29 |
+| [Calling All the Monsters](https://open.spotify.com/track/1u2Z7Xp9kpnzYKUNFcBSEx) | [China Anne McClain](https://open.spotify.com/artist/6SvFyXN6qzhw95Bj4HoevV) | [Disney Halloween](https://open.spotify.com/album/0ljU90uqoVtWg6WinOaV9y) | 3:26 | 2019-10-09 |  |
 | [Cannibal](https://open.spotify.com/track/6E7QcFSHgspdzwHxpYP9Vj) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Spooky Halloween Hits](https://open.spotify.com/album/2c3LBDNnptvWquptllUuyq) | 3:14 | 2019-10-09 | 2022-11-12 |
 | [Cannibal](https://open.spotify.com/track/6bmw3whbG7FBQojQPFk52l) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal](https://open.spotify.com/album/3GhnFolMJn8Ua8KieFZSBQ) | 3:14 | 2019-10-09 | 2022-07-29 |
 | [Cannibal](https://open.spotify.com/track/3JTMWdhcJPiegDSe7SvZS3) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Cannibal \(Expanded Edition\)](https://open.spotify.com/album/0pGumY11G8OGH05ti6jh23) | 3:14 | 2019-10-09 |  |
@@ -133,7 +134,7 @@
 | [We're All Gonna Die](https://open.spotify.com/track/5u05sMNrgLU4VWt8eaeocd) | [Slash](https://open.spotify.com/artist/4Cqia9vrAbm7ANXbJGXsTE), [Iggy Pop](https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4) | [Slash](https://open.spotify.com/album/7c2iOQrUD7KZznr4EMqPN3) | 4:31 | 2019-10-09 | 2022-11-13 |
 | [Witchy Woman \- 2013 Remaster](https://open.spotify.com/track/1NSjV4Ji9MKtUQDXHAH4k0) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Very Best of the Eagles \(2013 Remaster\)](https://open.spotify.com/album/5J0VCIp4TTsZBKOqWdbBSa) | 4:10 | 2019-10-09 |  |
 | [Yes, I'm A Witch](https://open.spotify.com/track/1ZEsbgte9LRHyOypNTitnP) | [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ), [Palumbo Of The Brothers Brothers](https://open.spotify.com/artist/51rPFkrSpx9TrlbKBnwK2b), [John Palumbo](https://open.spotify.com/artist/56m537t8BiQfTMEQ7gx7RM) | [Yes, I'm A Witch](https://open.spotify.com/album/749IRZj6CenDO9zLuqhiE7) | 3:48 | 2019-10-09 |  |
-| [You And Me And The Devil Makes 3](https://open.spotify.com/track/5Jy6qEhf3rDl1us388toad) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [EAT ME, DRINK ME](https://open.spotify.com/album/2A49izrVW0wRLcst64owry) | 4:24 | 2019-10-09 |  |
+| [You And Me And The Devil Makes 3](https://open.spotify.com/track/5Jy6qEhf3rDl1us388toad) | [Marilyn Manson](https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj) | [EAT ME, DRINK ME](https://open.spotify.com/album/2A49izrVW0wRLcst64owry) | 4:24 | 2019-10-09 | 2023-10-12 |
 | [Zombie](https://open.spotify.com/track/6xy6jNeNTYwjnKTDzMyHw2) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/2KsgTeLQXz7yDV1joGOd2L) | 5:06 | 2019-10-09 | 2022-07-29 |
 | [Zombie](https://open.spotify.com/track/7EZC6E7UjZe63f1jRmkWxt) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [No Need To Argue \(The Complete Sessions 1994\-1995\)](https://open.spotify.com/album/1Bwo9JkbVwxGyvtQNMRK21) | 5:06 | 2019-10-09 |  |
 | [Zombie](https://open.spotify.com/track/1ybwx3USZGwoSEtenDcMvd) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Halloween Jams 2020](https://open.spotify.com/album/1b9RjoKhEo4jZtS3v7aALc) | 5:07 | 2019-10-09 | 2022-11-14 |

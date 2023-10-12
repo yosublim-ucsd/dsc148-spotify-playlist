@@ -1,12 +1,12 @@
 {
   "description": "The most iconic piano style in Blues; all the greatest Boogie-woogie pianists.",
-  "num_followers": 42695,
+  "num_followers": 42723,
   "original_name": "Boogie-woogie Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkNDI0NzgyNGNkNDZkY2RkZWUxMjNkOGI4ZTRhNTA4NDhkZGU5NTdk",
+  "snapshot_id": "MCwxMmRlMWMxOWMxMWRkNmY5YmY4ZmQ3ZjA2MzdlNTFkMThhMWIzNjc1",
   "tracks": [
     {
       "added_at": "2023-09-15 11:42:58",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Cincinnati Stomp",
-        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
-      },
-      "artists": [
-        {
-          "name": "Big Joe Duskin",
-          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "Dollar Bill Boogie",
-      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Battin' The Boogie",
         "url": "https://open.spotify.com/album/7qon2bTD0q3xV0J1KgAyw6"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 141666,
       "name": "Killer Miller",
       "url": "https://open.spotify.com/track/1FP2JCMhMNxI9dmeIYctZb"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Cincinnati Stomp",
+        "url": "https://open.spotify.com/album/6WnCUskbBhW2Mt9JWk35Jz"
+      },
+      "artists": [
+        {
+          "name": "Big Joe Duskin",
+          "url": "https://open.spotify.com/artist/2qQLjtrCXMHvWF31LiQbyB"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "Dollar Bill Boogie",
+      "url": "https://open.spotify.com/track/2cPqoxtyPKsoOXPTZpH0OA"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -831,22 +831,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "So Swell",
-        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
-      },
-      "artists": [
-        {
-          "name": "Jon Cleary",
-          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
-        }
-      ],
-      "duration_ms": 151261,
-      "name": "Swanee River Boogie",
-      "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "They Call Me The Fat Man (The Legendary Imperial Recordings)",
         "url": "https://open.spotify.com/album/52A7NjOBoLub7fgaqeWBOr"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 172973,
       "name": "Swanee River Hop",
       "url": "https://open.spotify.com/track/3gjDwnN5qoAWVm8CeKN21v"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "So Swell",
+        "url": "https://open.spotify.com/album/5VW0Vy8eqvS8ep0CsQvXfO"
+      },
+      "artists": [
+        {
+          "name": "Jon Cleary",
+          "url": "https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX"
+        }
+      ],
+      "duration_ms": 151261,
+      "name": "Swanee River Boogie",
+      "url": "https://open.spotify.com/track/1uk0bf5Pwj68zJcpOpFDx7"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "The Very Best Of Boogie Woogie",
-        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
-      },
-      "artists": [
-        {
-          "name": "Big Maceo",
-          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
-        }
-      ],
-      "duration_ms": 177933,
-      "name": "Chicago Breakdown",
-      "url": "https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN"
-    },
-    {
-      "added_at": "2023-09-15 11:42:58",
-      "album": {
         "name": "Detroit Rocks",
         "url": "https://open.spotify.com/album/3o2o8lV33AvNkPIWI9IruH"
       },
@@ -1195,18 +1179,18 @@
     {
       "added_at": "2023-09-15 11:42:58",
       "album": {
-        "name": "Okay",
-        "url": "https://open.spotify.com/album/4SdSQl6XnCNn9jgkPlkmMc"
+        "name": "The Very Best Of Boogie Woogie",
+        "url": "https://open.spotify.com/album/1jSzHpZAFbYSvzGq6mKmQ2"
       },
       "artists": [
         {
-          "name": "Kjell S\u00f8nksen",
-          "url": "https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW"
+          "name": "Big Maceo",
+          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
         }
       ],
-      "duration_ms": 198260,
-      "name": "Okay",
-      "url": "https://open.spotify.com/track/416aAh5pHiWiluFlP6aGEb"
+      "duration_ms": 177933,
+      "name": "Chicago Breakdown",
+      "url": "https://open.spotify.com/track/6AKFwQSfIA97Dq8N2YeJkN"
     },
     {
       "added_at": "2023-09-15 11:42:58",
@@ -1223,6 +1207,22 @@
       "duration_ms": 248226,
       "name": "Piggly Wiggly Blues",
       "url": "https://open.spotify.com/track/1OuMSahqxZ8dEmWJzzwFQ5"
+    },
+    {
+      "added_at": "2023-09-15 11:42:58",
+      "album": {
+        "name": "Okay",
+        "url": "https://open.spotify.com/album/4SdSQl6XnCNn9jgkPlkmMc"
+      },
+      "artists": [
+        {
+          "name": "Kjell S\u00f8nksen",
+          "url": "https://open.spotify.com/artist/3t5a0vTiZcxZZAYGCjiTWW"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Okay",
+      "url": "https://open.spotify.com/track/416aAh5pHiWiluFlP6aGEb"
     },
     {
       "added_at": "2023-09-15 11:42:58",

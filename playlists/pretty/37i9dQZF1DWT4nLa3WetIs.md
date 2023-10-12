@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 
 > Celebrating ten years of Burna Boys's Debut Album; Leaving an Impact for Eternity \(LIFE\)\. Cover: Burna boy
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,241 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,320 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT4nLa3WetIs.md) - [plain]
 | 39 | [Like Dat](https://open.spotify.com/track/0t4xEkeg24xVvd5EtIrly7) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Like Dat](https://open.spotify.com/album/4BYoitcv3TKB13Q3afcfDM) | 3:20 |
 | 40 | [Reggae Blues](https://open.spotify.com/track/0S3zWefFu9O7zIq8EarIbl) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [KCee](https://open.spotify.com/artist/7KiINhQdLAupkwvJ0EelGG), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [Iyanya](https://open.spotify.com/artist/3ZUn6LYxdmmPYQqBhFWI3h), [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD) | [Reggae Blues](https://open.spotify.com/album/5PDKVGLq0QVzgwPjtj5xZw) | 4:49 |
 
-Snapshot ID: `MCw1NTAwYjQ3YzVkNjNmODNlYzIzNjI5MmQyOTYxZDE4MDBlNDMzNDk4`
+Snapshot ID: `MCxlM2QxMmY1MWM2N2QyZWNiYWRjYTAwNWUyNGNmYTNmODJhYzJiNjNj`

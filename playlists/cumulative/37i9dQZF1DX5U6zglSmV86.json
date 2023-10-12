@@ -78,10 +78,28 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 199500,
       "name": "Aves",
       "url": "https://open.spotify.com/track/2rSPCAmoC7rUxxLawaZNCD"
+    },
+    {
+      "album": {
+        "name": "Aves",
+        "url": "https://open.spotify.com/album/3dTZ7GIUqstVhcu0M9I0vR"
+      },
+      "artists": [
+        {
+          "name": "Solo Cadaver",
+          "url": "https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199500,
+      "name": "Aves",
+      "url": "https://open.spotify.com/track/4aJcMCvvT5C56DTlN6Y3Wj"
     },
     {
       "album": {

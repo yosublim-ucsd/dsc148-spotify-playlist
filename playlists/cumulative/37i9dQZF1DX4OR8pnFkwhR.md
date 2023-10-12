@@ -4,7 +4,7 @@
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 十明
 
-1,150 songs - 2 day 22 hr 41 min
+1,151 songs - 2 day 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -415,7 +415,7 @@
 | [NORLUSS](https://open.spotify.com/track/6Qcpizu30yYKN7rEFxcKWp) | [Singer's High](https://open.spotify.com/artist/4xI10jfncyX27yytrVJ2Ar) | [Melody](https://open.spotify.com/album/4Nm8hiPsfTDjzzA0RalBNj) | 2:58 | 2022-11-15 | 2023-02-08 |
 | [nothin'](https://open.spotify.com/track/0Y7NneU33uLwvMPm3FoKtr) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [side\_effects+.](https://open.spotify.com/album/4Jx3azXrVdoovOjAzU4eVJ) | 3:38 | 2022-07-26 | 2022-08-03 |
 | [Now is the best!!!](https://open.spotify.com/track/4kjGAeGr3PPocjqhuIYbjf) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [Now is the best!!!](https://open.spotify.com/album/0tmM7aev0krqJLKlSyvej9) | 2:26 | 2023-05-30 | 2023-06-07 |
-| [nYc](https://open.spotify.com/track/1JDr7asmfcFccDoVmsVLW3) | [Nephew](https://open.spotify.com/artist/11BUDylkl50Y6dsbZMZiCG) | [nYc](https://open.spotify.com/album/6J3AlzC9X8ivBbQmYBD3p7) | 4:22 | 2023-10-03 |  |
+| [nYc](https://open.spotify.com/track/1JDr7asmfcFccDoVmsVLW3) | [Nephew](https://open.spotify.com/artist/2QuPFnj8mE4ghAFuQx1vzV) | [nYc](https://open.spotify.com/album/6J3AlzC9X8ivBbQmYBD3p7) | 4:22 | 2023-10-03 |  |
 | [nYc](https://open.spotify.com/track/4tsZ5Ye3Y6wdoj37dIQtrR) | [Nephew](https://open.spotify.com/artist/11BUDylkl50Y6dsbZMZiCG) | [nYc](https://open.spotify.com/album/1cJabE1Ju2RUnFNRAGxsXQ) | 4:22 | 2023-10-03 | 2023-10-05 |
 | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/track/2VQfT6y27CKMKl4ij5VoQH) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [OKACHIMACHI FRIDAY NIGHT](https://open.spotify.com/album/7oMz6bjlX6lPjG9iS5uV5y) | 3:18 | 2023-08-08 |  |
 | [Old Fashion](https://open.spotify.com/track/3BWiI5D14eg9Fx0VRWf6ic) | [PUTAINS](https://open.spotify.com/artist/6PxC8ulLsgICt4Y8R5V9GG) | [Old Fashion](https://open.spotify.com/album/18PhbyXYAaQrpZpcEoqPHy) | 2:38 | 2022-06-14 | 2022-07-15 |
@@ -779,7 +779,8 @@
 | [エウレカ](https://open.spotify.com/track/6RrkERm8gb8E1jzVGyz7l5) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [エウレカ](https://open.spotify.com/album/1wMuqByMRXmJzCTjmtZfLz) | 3:04 | 2023-06-20 | 2023-08-25 |
 | [エールを送るよ](https://open.spotify.com/track/1GvR2vfbnw6ZLNGKiXXYJh) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [エールを送るよ](https://open.spotify.com/album/4eZVTG3ttCrm7eU1813aGV) | 3:04 | 2022-09-20 | 2022-10-19 |
 | [オテテツナイデ](https://open.spotify.com/track/7uqxVfZInRa9C1ePmf8lci) | [森 大翔](https://open.spotify.com/artist/0SdqRgSNvDSHYfLebQuKdC) | [オテテツナイデ](https://open.spotify.com/album/3yjp1MxsgIgBbQM4wWjUrt) | 3:34 | 2023-04-27 | 2023-04-29 |
-| [オリジナルスクープ](https://open.spotify.com/track/6coXH7cxTNneEHPbXvCmNA) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [オリジナルスクープ](https://open.spotify.com/album/1v2jwsiT9SYoMBRY7QnXHH) | 3:43 | 2023-10-10 |  |
+| [オリジナルスクープ](https://open.spotify.com/track/4XFDyEOJLCDYstSNPDqLnS) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [オリジナルスクープ](https://open.spotify.com/album/0Hh76GBDwAZUUiaNHTPUKZ) | 3:43 | 2023-10-10 |  |
+| [オリジナルスクープ](https://open.spotify.com/track/6coXH7cxTNneEHPbXvCmNA) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [オリジナルスクープ](https://open.spotify.com/album/1v2jwsiT9SYoMBRY7QnXHH) | 3:43 | 2023-10-10 | 2023-10-12 |
 | [オールグリーン](https://open.spotify.com/track/2o38jQDB10QLiIvKCrS26F) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [オールグリーン](https://open.spotify.com/album/3i8Z1Ovo47wujwJYzxOcHe) | 3:13 | 2022-07-19 | 2022-07-29 |
 | [カウントダウン・ラグ](https://open.spotify.com/track/1QkF34AEAxWrHRYRXpI4CU) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [インナーダイアログ](https://open.spotify.com/album/1jmlZ6JfnYsgzi6WGnYXmh) | 5:25 | 2023-04-18 | 2023-04-20 |
 | [カスミソウ](https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [カスミソウ](https://open.spotify.com/album/7aEiuGRM1CVprvce4RkQ15) | 3:42 | 2022-11-13 | 2023-03-01 |

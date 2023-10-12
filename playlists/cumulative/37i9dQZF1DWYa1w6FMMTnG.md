@@ -4,7 +4,7 @@
 
 > Celebrate Halloween with spooky sounds from Disney favorites like Nightmare Before Christmas, The Haunted Mansion, and more.
 
-102 songs - 4 hr 54 min
+103 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Kidnap The Sandy Claws](https://open.spotify.com/track/06iUp1XbbaOvAmzrrZeT32) | [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD), [Paul Reubens](https://open.spotify.com/artist/0bLeinXJM2eS7FWfqRmnIP), [Catherine O'Hara](https://open.spotify.com/artist/0KDbBK1pnCWEL33tRNwDhD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:02 | 2022-10-07 |  |
 | [Life Hereafter](https://open.spotify.com/track/05Nu7e8A2qpRd88tJ8JPSR) | [The Muppets](https://open.spotify.com/artist/0czJqnJDu3vWrLHmsbLunu), [Will Arnett](https://open.spotify.com/artist/4816tiO0G1Zn52kd5J2KYn) | [Muppets Haunted Mansion \(Original Soundtrack\)](https://open.spotify.com/album/4N6yxIJCYUQEpjlUtdEsjX) | 3:37 | 2022-10-07 |  |
 | [Like the Zombies Do](https://open.spotify.com/track/6PSN0NJHzkCmNWGpF6yDsj) | [Milo Manheim](https://open.spotify.com/artist/3Pkn59A7kZmnBHp7HBUcz5), [Kylee Russell](https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1), [Chandler Kinney](https://open.spotify.com/artist/4GsVpISKE79xqOxIrj9FTk), [Pearce Joza](https://open.spotify.com/artist/0JyZJ9UbbvNfoJ14NAUgqt), [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [ZOMBIES 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/3sZV33Gfqx8tZmAwRBtpCs) | 2:03 | 2023-09-05 |  |
+| [Loki Green Theme](https://open.spotify.com/track/5T7DUEeAj0hkMLTzIlDCRz) | [Natalie Holt](https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ) | [Loki: Vol\. 1 \(Episodes 1\-3\) \[Original Soundtrack\]](https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe) | 2:24 | 2023-10-11 |  |
 | [Main Title](https://open.spotify.com/track/7dRmMRZHF4y1ExlHguSypM) | [John Debney](https://open.spotify.com/artist/7mCsyzq823cXJ5puxUN3aJ) | [Hocus Pocus \(Original Score\)](https://open.spotify.com/album/35HW28UZvr9UghP8Ras6mu) | 1:31 | 2022-10-07 |  |
 | [Main Title](https://open.spotify.com/track/253tU7JUIy3P4zfas4BCdu) | [Siddhartha Khosla](https://open.spotify.com/artist/7o8qzsL7eTuGP4piR7XQiY) | [Only Murders in the Building \(Original Score\)](https://open.spotify.com/album/4i1XcUzN8GemQIA8JrGGJb) | 0:51 | 2023-08-28 |  |
 | [Making Christmas](https://open.spotify.com/track/60lpxsz5DjjZAChH8dzFDt) | [The Citizens of Halloween](https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r), [Danny Elfman](https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD) | [Nightmare Before Christmas Special Edition](https://open.spotify.com/album/32hXKuDkMnpQaOI67xQj86) | 3:57 | 2022-10-07 |  |

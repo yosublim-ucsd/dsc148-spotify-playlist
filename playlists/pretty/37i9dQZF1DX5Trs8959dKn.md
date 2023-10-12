@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,297 likes - 50 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,375 likes - 50 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 15 | [Imela](https://open.spotify.com/track/6cyYQWOwUORc8K1oBVqEvW) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [You are Great](https://open.spotify.com/album/4eAqG1pUpVTKstF0cR7Jum) | 5:19 |
 | 16 | [Kumama](https://open.spotify.com/track/3DhC1to2LhIihmWtufsGIA) | [ABOSEDE](https://open.spotify.com/artist/6gzSZLr4GiPCcW4WWWcXoS) | [Kumama](https://open.spotify.com/album/1roldFx55pNuxcmyy1o3U6) | 1:32 |
 | 17 | [Miracle Worker \(feat\. Nathaniel Bassey\)](https://open.spotify.com/track/7lbzZjOuAP1SgdbBntWENT) | [Glowreeyah Braimah](https://open.spotify.com/artist/4xn29UFDYZE3V9knQ2JSh1), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Expression](https://open.spotify.com/album/1DTO9Qm1Cx2nVKzMbuwrMm) | 4:50 |
-| 18 | [On Fire](https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 8:51 |
-| 19 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 |
+| 18 | [Daddy wey dey Pamper](https://open.spotify.com/track/69XcPlRongDtwlOOSwcp2E) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Lyrical HI](https://open.spotify.com/artist/3OznZXIgCjaZwePdGC5FNU) | [Daddy wey dey Pamper](https://open.spotify.com/album/6sKADIMwrpbz7W2w54bZZI) | 12:40 |
+| 19 | [On Fire](https://open.spotify.com/track/2rn3SbXpuzacWTj6WQEB2W) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Return Rev\. 2:4](https://open.spotify.com/album/4thMivYYO5sTAfgCfSU7tI) | 8:51 |
 | 20 | [Out of My Belly \- Live](https://open.spotify.com/track/50nShU4u2162BawAOHjH03) | [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6), [Moses Akoh](https://open.spotify.com/artist/6mUEeS22r3xn9ksKKgENrT) | [Out of My Belly \(Live\)](https://open.spotify.com/album/1nqWp6JtcCYJSAqczv8rsM) | 14:24 |
-| 21 | [Omekannaya](https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:34 |
+| 21 | [Excess Love \- Live](https://open.spotify.com/track/3eqODi0QYCr5nqMtzpYMoL) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Miracle Worker \(Live\)](https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw) | 8:27 |
 | 22 | [Fragrance to Fire](https://open.spotify.com/track/7eGDM90StP3QFkcwJPaLRg) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Gospel of the Kingdom](https://open.spotify.com/album/25YIWvGm47WqKctz8k76r5) | 10:57 |
 | 23 | [See What the Lord Has Done](https://open.spotify.com/track/3BPPakEzZWw0pQQzuQfvBt) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Names of God](https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF) | 7:34 |
-| 24 | [Excess Love \- Live](https://open.spotify.com/track/3eqODi0QYCr5nqMtzpYMoL) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Miracle Worker \(Live\)](https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw) | 8:27 |
+| 24 | [Omekannaya](https://open.spotify.com/track/1ovRzUecowNFHf5vXUWWo3) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:34 |
 | 25 | [Awesome God](https://open.spotify.com/track/4bX0rleUG0RmqtdsI9A45P) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Chapter One](https://open.spotify.com/album/0ag7AC8rrkmqrTpC6SkMYJ) | 5:18 |
 | 26 | [My Altar \(Cover\)](https://open.spotify.com/track/4jTaIxtdPrwJTY5DVKkKI8) | [David Dam](https://open.spotify.com/artist/1vNw15c6UztXmCZTCwTPdc) | [My Altar \(Cover\)](https://open.spotify.com/album/36hBmlMUEHL26OVG9JSJ9P) | 6:57 |
 | 27 | [Ko Ma Si/ Nobody Like You](https://open.spotify.com/track/2CkTcc9Y7WqVjPNx7B1Sib) | [Lara George](https://open.spotify.com/artist/6BMYlvYYyC0VxN6vV9y9KZ) | [Lara George](https://open.spotify.com/album/3xohPKijbLFCqCkGGMjJC8) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 49 | [IBUKA](https://open.spotify.com/track/1L6CfVaAwXZ2Btfial9Uo8) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [IBUKA](https://open.spotify.com/album/60LewVA2ONlxDPAXOhfwCQ) | 5:02 |
 | 50 | [Jesus](https://open.spotify.com/track/3UUd3dSg0TmimHXT2eDvMd) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h) | [Jesus](https://open.spotify.com/album/21HPnA3qQwwttWJm5vhQOB) | 8:50 |
 
-Snapshot ID: `MCxkN2YwMjFhZTU0MWE5YWVhYmJmMDNhNjlhYWI3OThjNTdhNzE5Mjg3`
+Snapshot ID: `MCw1Y2IxYTViMmNhNWQ0YWM3MDM1MWViZDIwODI2OTUzNzA5MDgxOGJl`

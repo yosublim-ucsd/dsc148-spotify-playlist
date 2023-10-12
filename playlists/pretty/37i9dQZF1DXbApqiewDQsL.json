@@ -1,12 +1,12 @@
 {
   "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Pepe Aguilar & Marc Anthony. ",
-  "num_followers": 26521,
+  "num_followers": 26560,
   "original_name": "Internacional Mexicano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNjM4OWM1NzUxNTE2OGRhZTA0NGI0N2EwZjRlN2NmMzY2YTI2Yjc5",
+  "snapshot_id": "MCw0YTY5NTAzMTE4NDFhMDc4YjJjNWU2NzRjMDYwMGY0NzFhZDU4NGU0",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "De A De Veras",
-        "url": "https://open.spotify.com/album/3NgALGjGhMc27JBclVPTBV"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 222732,
-      "name": "De A De Veras",
-      "url": "https://open.spotify.com/track/21aZ4e4lJiFmqRzNiPXqhP"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "100 A\u00f1os (Con Calibre 50)",
         "url": "https://open.spotify.com/album/0EHD1gdUFjhkeQkJVuLZQa"
       },
@@ -1499,6 +1479,26 @@
       "duration_ms": 215092,
       "name": "100 A\u00f1os - Con Calibre 50",
       "url": "https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "De A De Veras",
+        "url": "https://open.spotify.com/album/3NgALGjGhMc27JBclVPTBV"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
+        }
+      ],
+      "duration_ms": 222732,
+      "name": "De A De Veras",
+      "url": "https://open.spotify.com/track/21aZ4e4lJiFmqRzNiPXqhP"
     },
     {
       "added_at": "2023-10-06 04:00:00",

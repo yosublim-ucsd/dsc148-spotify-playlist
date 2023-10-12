@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/quintab/">Quinta Brunson</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,738 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,831 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 | 20 | [I Just Died](https://open.spotify.com/track/54FAYoGATQPUBbxCIclHkG) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [All I Have](https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI) | 3:29 |
 | 21 | [Pressure](https://open.spotify.com/track/6ElfCM1XppU0YWkkFYh4s2) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Pressure](https://open.spotify.com/album/5lpInBYJiEtNyOXLIa3c9B) | 3:13 |
 | 22 | [Water Runs Dry](https://open.spotify.com/track/7yhmvQh1JOzbNiNFQo4Tfc) | [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [II](https://open.spotify.com/album/1IWhZEOwEoXbOB4a40XaR3) | 3:21 |
-| 23 | [I Can't Get Next To You](https://open.spotify.com/track/6aL6pPBaTMGgM558mplSnj) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Puzzle People](https://open.spotify.com/album/2CabyXUOSQqxUaPEw2FrnK) | 2:54 |
+| 23 | [A House Is Not a Home](https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 7:07 |
 | 24 | [Don't You Worry 'Bout A Thing](https://open.spotify.com/track/1QvWxgZvTU0w8rlPRE5Zrv) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Innervisions](https://open.spotify.com/album/5jgI8Eminx9MmLBontDWq8) | 4:44 |
-| 25 | [A House Is Not a Home](https://open.spotify.com/track/4gFVTfg1EFuuXJguJe1Z7W) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 7:07 |
+| 25 | [I Can't Get Next To You](https://open.spotify.com/track/6aL6pPBaTMGgM558mplSnj) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Puzzle People](https://open.spotify.com/album/2CabyXUOSQqxUaPEw2FrnK) | 2:54 |
 | 26 | [Fallen](https://open.spotify.com/track/75pAfYEpRXZf7GVORGhOgz) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Moodring](https://open.spotify.com/album/2syvgyDNiIraR35ncupC0H) | 3:34 |
 | 27 | [Jealous Guy \- Live](https://open.spotify.com/track/7k0lw3bHc5JpqhMRGchjRg) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Live](https://open.spotify.com/album/0csi6eQolki4PIS60tBCW5) | 3:09 |
 | 28 | [He Loves Me \(Lyzel in E Flat\)](https://open.spotify.com/track/2PzYqACbv12FNhrlHPfJEH) | [Jill Scott](https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD) | [Who Is Jill Scott? \- Words and Sounds, Vol\. 1](https://open.spotify.com/album/620y2xi6SkUb6IZlnnWxuG) | 4:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTeh1F2FOPPN.md) - [plain]
 | 49 | [My Imagination](https://open.spotify.com/track/5FMfb6fRfQaXTIjdrcBOkE) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Naked & Warm](https://open.spotify.com/album/6Vw78flzzFEhn7CektCgMY) | 4:52 |
 | 50 | [Know](https://open.spotify.com/track/4xyoLXrUb0cpROQwZe1ggb) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Fin](https://open.spotify.com/album/59Bbr32pMTFHlUb8Nv1Kr0) | 3:34 |
 
-Snapshot ID: `MCw4OWQyM2M3ZjAzMDQ1NDUxYzNjNTcxNTIwNzJlYzhhYmQ5YTRmYTNm`
+Snapshot ID: `MCw0ZDRkNmQ2MTg5ZWEyNDM1ZTBlYzQxMTA1N2YxZmI0NmE1MTE2OTEw`

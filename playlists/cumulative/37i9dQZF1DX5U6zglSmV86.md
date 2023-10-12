@@ -4,14 +4,15 @@
 
 > Nuestra alma mater es la calle\. La Santa Grifa en portada
 
-75 songs - 4 hr 47 min
+76 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Ahi voy](https://open.spotify.com/track/0ceKCaT9XNZJzkzEBO2zTy) | [El Pinche Mara](https://open.spotify.com/artist/3L7OHIT4kfdcDSnnGM0TKN), [Royal Religion](https://open.spotify.com/artist/0l4wnZV8y2KyYdKHtlkMOX) | [Ahi voy](https://open.spotify.com/album/42wP55l1oKBcJ3xx7P9bL4) | 3:45 | 2023-08-04 |  |
 | [Amen](https://open.spotify.com/track/6wHUzTthgr27sx5gmnGcoQ) | [Tm Zaiko](https://open.spotify.com/artist/6rRCboLhCMJPvte1IRHwsl), [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6) | [Amen](https://open.spotify.com/album/404WBaD5C2nZURNahDhDZu) | 3:39 | 2023-08-04 |  |
 | [Aqui no dominas nada](https://open.spotify.com/track/1lGKVCGOgKSiDJbnvNUMyU) | [W\. Corona](https://open.spotify.com/artist/2wqy0ojBEcx7OvHezdGDXQ) | [8 Diamantes](https://open.spotify.com/album/1Zg4Cot6eVwmbHimkp2zc0) | 3:43 | 2023-08-04 |  |
-| [Aves](https://open.spotify.com/track/2rSPCAmoC7rUxxLawaZNCD) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy) | [Aves](https://open.spotify.com/album/5sl6uSvqM1XdJEPChi8akL) | 3:19 | 2023-08-04 |  |
+| [Aves](https://open.spotify.com/track/2rSPCAmoC7rUxxLawaZNCD) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy) | [Aves](https://open.spotify.com/album/5sl6uSvqM1XdJEPChi8akL) | 3:19 | 2023-08-04 | 2023-10-12 |
+| [Aves](https://open.spotify.com/track/4aJcMCvvT5C56DTlN6Y3Wj) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy) | [Aves](https://open.spotify.com/album/3dTZ7GIUqstVhcu0M9I0vR) | 3:19 | 2023-10-06 |  |
 | [Ballin](https://open.spotify.com/track/0Y4QksItnsW6mzEtH27fS0) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Chucky73](https://open.spotify.com/artist/38epWdyauFwdRkldqUMfWE) | [Ballin](https://open.spotify.com/album/3NKzCItIOFdN5Ck4B1coM3) | 3:42 | 2023-08-04 |  |
 | [BIEN](https://open.spotify.com/track/3SojRz8QWCcDobJTkEC56e) | [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Doble P Ache Ene](https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR) | [BIEN](https://open.spotify.com/album/6D2pfqxHrPDnJGnUNlubJD) | 3:29 | 2023-08-04 |  |
 | [Boombap](https://open.spotify.com/track/4rO6YPOCRk9jnEQYjMdsah) | [Under Side 821](https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1), [Kintuper](https://open.spotify.com/artist/6Y5TDy3rbWK6f7GpjVLBEQ) | [Boombap](https://open.spotify.com/album/3DrFQ81DOctYiOHoVbvZJk) | 4:02 | 2023-09-15 |  |

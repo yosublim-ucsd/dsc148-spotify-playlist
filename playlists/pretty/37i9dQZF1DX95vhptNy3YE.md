@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Sued Nunes e mais hits do momento na cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 216,507 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,567 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 27 | [Falar de Amor](https://open.spotify.com/track/6jkqFX0JprURdUqSkWmUgK) | [Oldilla](https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9), [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP) | [Falar de Amor](https://open.spotify.com/album/1ElTN1TXGkOXTlO6ZKrWk3) | 3:51 |
 | 28 | [Me Assume Ou Me Esquece \- Ao Vivo](https://open.spotify.com/track/71clr6L0EOTBfZPHh5MwM9) | [Suel](https://open.spotify.com/artist/4hpKB93agzoncsTXEstSpK), [Tierry](https://open.spotify.com/artist/4FUMTycjZlEY6ZxMgqNjC8) | [Me Assume Ou Me Esquece \(Ao Vivo\)](https://open.spotify.com/album/0xJauJ0qBAVldQXvI3yJux) | 3:14 |
 | 29 | [Números da Sorte](https://open.spotify.com/track/6UrFzZHrL84mjVnZHiQICM) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Yuri Redicopa](https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm), [Mc Davi](https://open.spotify.com/artist/1cYhx7ZOhYoVmnDPb9KMwo) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 2:50 |
-| 30 | [Dois Errados](https://open.spotify.com/track/71OqsQK6fPZbBGGZ2hb3pn) | [Ley](https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP), [Paloma](https://open.spotify.com/artist/0y88HGhK5hvixmVZWtliIu) | [Dois Errados](https://open.spotify.com/album/1kBByh4m8IYSRDWZBYuJys) | 3:23 |
+| 30 | [Sarradeira](https://open.spotify.com/track/7qeJNEyuXaWmYsHyPmzbFv) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Adrenalina](https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g) | 4:55 |
 | 31 | [Jogo](https://open.spotify.com/track/6Lhi35u2exuihYYNa69l4l) | [Danzo](https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB) | [O Cenário Certo para o Teatro Perfeito](https://open.spotify.com/album/7wjzkS9hpvRHEadLHagk4D) | 2:48 |
 | 32 | [Show Lotado](https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Slipmami](https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:26 |
-| 33 | [Sarradeira](https://open.spotify.com/track/7qeJNEyuXaWmYsHyPmzbFv) | [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Chefin](https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB), [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Adrenalina](https://open.spotify.com/album/1TqRe6Z2nz1Lv2IbudwM0g) | 4:55 |
+| 33 | [Dois Errados](https://open.spotify.com/track/71OqsQK6fPZbBGGZ2hb3pn) | [Ley](https://open.spotify.com/artist/1032CcNW5JY8Op82Y4KCYP), [Paloma](https://open.spotify.com/artist/0y88HGhK5hvixmVZWtliIu) | [Dois Errados](https://open.spotify.com/album/1kBByh4m8IYSRDWZBYuJys) | 3:23 |
 | 34 | [Preto Demais](https://open.spotify.com/track/0SqExyvgUPTawKsVM2SZoP) | [Hugo Ojuara](https://open.spotify.com/artist/0IWYr6WoUeneAbJIYdCf3D) | [Preto Demais](https://open.spotify.com/album/0r4tvWwDSlhMPOw9j70nx6) | 2:52 |
 | 35 | [Dez e Faixa](https://open.spotify.com/track/0Z6gKWw11x5pKSA16NOn6C) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [Big Bllakk](https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0) | [Músicas Para Fumar Balão](https://open.spotify.com/album/2zBsNCMQxokxViSI9kiaQX) | 2:59 |
 | 36 | [Já Tentei](https://open.spotify.com/track/4sdRp34oxkwDS93FO5ylnZ) | [Gabby Moura](https://open.spotify.com/artist/7AToPxUvnpmlUQckUA2LyK) | [Já Tentei](https://open.spotify.com/album/1vdeKE81EdUuwmlr9eYuNy) | 2:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 49 | [KEN ELAS QUER](https://open.spotify.com/track/27Rl1YlvjzRHROG3kKCkQf) | [Fúria](https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS), [808 Luke](https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa) | [KEN ELAS QUER](https://open.spotify.com/album/3ITWrMMNTgpsIdeWW6zInL) | 2:01 |
 | 50 | [Tanto Faz](https://open.spotify.com/track/7qvw8LTvp12tSCPEazZRLi) | [Milthinho](https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp) | [Tanto Faz](https://open.spotify.com/album/241VujP1Ob0JUurQFAbhrx) | 3:42 |
 
-Snapshot ID: `MCxiY2E4YzIxN2FhNjM4NmZhY2I3OWNmNDcyMTEzYzI4MGZmMjIyODVk`
+Snapshot ID: `MCw1OWVjOTU4YWE3ODcyM2U3NTFjMDdlNTVkZGZkZWM0MWNkNGM1ODZm`

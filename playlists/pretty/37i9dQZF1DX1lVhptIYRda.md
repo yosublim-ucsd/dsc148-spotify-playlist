@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 
 > Today's top country hits\. Cover: Darius Rucker
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,529,084 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,514,077 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lVhptIYRda.md) - [plain]
 | 49 | [Ain't Missin' You](https://open.spotify.com/track/3XCsnZP8tL6fAbYofj9O0M) | [Dylan Schneider](https://open.spotify.com/artist/5lRB3MAJfKzlt7dgYMHWgY) | [Ain't Missin' You](https://open.spotify.com/album/79FH6zbP58c4ANd9udRiDc) | 2:56 |
 | 50 | [Pretty Little Poison](https://open.spotify.com/track/2gT2iF1YK5r54A2PDEXVv8) | [Warren Zeiders](https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi) | [Pretty Little Poison](https://open.spotify.com/album/19EncKM5x6aE207IFFUT2M) | 3:38 |
 
-Snapshot ID: `MCw4M2E3MWE4NzIzYzk2ZTVhNGNjMzIzOGE2YTUwYTcyM2U0OTczM2Jj`
+Snapshot ID: `MCxiOTk4NTFiYzA5NzgwYmJlNzZmOWJhZGU3MmMyYmY0ODAwMmE5Nzkz`

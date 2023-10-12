@@ -4,7 +4,7 @@
 
 > Just vibes\. Cover: Farruko, La Factoria & Eddy Lover.
 
-340 songs - 17 hr 37 min
+341 songs - 17 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,8 @@
 | [Nubes](https://open.spotify.com/track/0btkyN6uJvHFdRxlVrUaJv) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/1k9UpjPJHSvjCPIoeGRPgR) | 2:54 | 2022-03-21 | 2022-09-07 |
 | [Nuestra Canción](https://open.spotify.com/track/7LCVRDkKetzQqMN3ONPvqn) | [GALE](https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM) | [Nuestra Canción](https://open.spotify.com/album/7GJlThLfkYnaJfs3Wy9JwM) | 3:32 | 2023-02-24 | 2023-08-09 |
 | [NUEVE \(Intro\)](https://open.spotify.com/track/3wQmfMVbq6VM5QVt2470ch) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE \(Intro\)](https://open.spotify.com/album/3bkn35vgb3b4IR4WrDGaJn) | 4:04 | 2022-03-21 | 2022-09-07 |
-| [NX TX SIENTAS SOLX](https://open.spotify.com/track/4OmSsqo4Hi9LCIh9Z4gKKq) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:59 | 2023-10-06 |  |
+| [NX TX SIENTAS SOLX](https://open.spotify.com/track/4OmSsqo4Hi9LCIh9Z4gKKq) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:59 | 2023-10-06 | 2023-10-12 |
+| [NX TX SIENTAS SOLX](https://open.spotify.com/track/0xzNdNJSQnHfRLYRdVhERp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:01 | 2023-10-06 |  |
 | [obstáculo](https://open.spotify.com/track/0aNEvtr8iBURNCLr6naHfa) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [obstáculo](https://open.spotify.com/album/5jbm9uB1EjIdrSQKWZcori) | 2:15 | 2023-05-26 |  |
 | [Ojos Azules](https://open.spotify.com/track/3R3HY6mOyGwxJ4dxGgg0Do) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [Ojos Azules](https://open.spotify.com/album/5K61vlx2TL72E1eVrGVjD0) | 3:08 | 2023-08-26 |  |
 | [Ojos Negros](https://open.spotify.com/track/0hjbmFnvWmn9QPlEUKJUK3) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Ojos Negros](https://open.spotify.com/album/1GpskTNrGXAlgg63EOMANt) | 3:19 | 2022-03-21 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Nines \(pictured\), Kenya Grace, Tems and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 840,504 likes - 130 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 840,135 likes - 130 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 51 | [Miss Again](https://open.spotify.com/track/0CykGGOeJSAvMsjScRs3D3) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Miss Again](https://open.spotify.com/album/1I5rQb5CtuRZKm2NA6VQiu) | 3:39 |
 | 52 | [You & Me \(Coachella ver.\)](https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [JENNIE Special Single \[You & Me\]](https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL) | 2:59 |
 | 53 | [i don’t sleep as good as i used to](https://open.spotify.com/track/2YCrJo5Ly8VS7rWMO30xbX) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [i don’t sleep as good as i used to](https://open.spotify.com/album/6aUYWT72B92zOpEK5xIo0i) | 3:03 |
-| 54 | [On My Mind](https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Jim](https://open.spotify.com/artist/6goGejgjtOpzFnNndVXmZ0) | [On My Mind](https://open.spotify.com/album/3Tc4RzAWum7OKbNkTGgkAX) | 2:20 |
+| 54 | [On My Mind](https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [JIM](https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr) | [On My Mind](https://open.spotify.com/album/3Tc4RzAWum7OKbNkTGgkAX) | 2:20 |
 | 55 | [One Thing](https://open.spotify.com/track/3wwGGBZr7zYNWD0uh6cF4I) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [One Thing](https://open.spotify.com/album/2SRTAXGiuC5rWYGibpnkLd) | 2:27 |
 | 56 | [War Boat \(feat\. Najeeriii\)](https://open.spotify.com/track/0DNWjkqGjTQXMZGqULsrTX) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst), [Najeeriii](https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF) | [War Boat \(feat\. Najeeriii\)](https://open.spotify.com/album/7bRrHYAoHLX2uBhM1cyXpk) | 2:51 |
 | 57 | [Idolize](https://open.spotify.com/track/2MQ5VghlFqzGh5YsXBzVWZ) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Fanfare](https://open.spotify.com/album/6HjuqzWf3UlJoaU7iqDRIv) | 2:25 |
@@ -139,4 +139,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 129 | [give it to me](https://open.spotify.com/track/7f0FjxUjcFJFg8EklDVBCE) | [Akemi Fox](https://open.spotify.com/artist/6FAh9D4OdyiBapKd1tsb5f) | [give it to me](https://open.spotify.com/album/1nCv10rXOxk00MzdEltbdt) | 2:45 |
 | 130 | [Wrong](https://open.spotify.com/track/5xrW5jzKsnDAHPH12XSAyw) | [Hotgirl](https://open.spotify.com/artist/5PJ3v1rMpMsDS4UogImlis) | [Wrong](https://open.spotify.com/album/4sJFz2cCDGchd6Muns7o4T) | 5:20 |
 
-Snapshot ID: `MCw5NjdmYzcyM2YxNjQzOWEyNTJiYWE5ZjFjNzQzMTZmNmMyMzJiMzYw`
+Snapshot ID: `MCw4NTVjOWI1NDllYTM5NjRmNjIxMmMwMGRiMjNkN2NhZmU2M2IxMjYz`

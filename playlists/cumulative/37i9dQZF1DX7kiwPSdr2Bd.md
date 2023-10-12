@@ -4,7 +4,7 @@
 
 > Ouça as principais vozes de adoradoras do gospel brasileiro\. Foto: Aline Barros
 
-210 songs - 18 hr 42 min
+211 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Dependente](https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax) | [Amanda Wanessa](https://open.spotify.com/artist/4kvOhoqtLM66VLWfcUv4Hm) | [Dependente](https://open.spotify.com/album/1rlxjSQ6ZCf6isHexFcbDI) | 5:01 | 2022-09-09 |  |
 | [Dependente](https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9) | 5:54 | 2023-07-07 |  |
 | [Dependente \(Ao Vivo\)](https://open.spotify.com/track/7t79MtUh8zfrhN1KT56eQv) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk) | [Dependente \(Ao Vivo\)](https://open.spotify.com/album/1W4djOiYB5FHEjyngDxIRJ) | 4:00 | 2023-02-10 |  |
-| [Desistir Não](https://open.spotify.com/track/5hYbhIyzI9G6Pu7Oo52HlM) | [Ana Gabriela](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF), [Suely Façanha](https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5) | [Desistir Não](https://open.spotify.com/album/34rm285uv0bssdqZQoNDuX) | 4:45 | 2023-09-15 |  |
+| [Desistir Não](https://open.spotify.com/track/5hYbhIyzI9G6Pu7Oo52HlM) | [Ana Gabriela](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF), [Suely Façanha](https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5) | [Desistir Não](https://open.spotify.com/album/34rm285uv0bssdqZQoNDuX) | 4:45 | 2023-09-15 | 2023-10-12 |
 | [Deus da Graça \(Ao Vivo\)](https://open.spotify.com/track/19GO9uhHb0kWxYcz6irtdY) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Drive In \(Ao Vivo\)](https://open.spotify.com/album/5gSFHSa7M5B1GQjVTNxdqW) | 4:58 | 2022-09-09 |  |
 | [Deus De Perto](https://open.spotify.com/track/4uJTecbkoIyPH4Ka7u9ENk) | [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE), [Rapha Gonçalves](https://open.spotify.com/artist/5b2nsXfz4EhaCuONCfEvui) | [Deus De Perto](https://open.spotify.com/album/0Ykpin9W5CRMKF60YqAKuo) | 6:29 | 2022-09-09 | 2023-01-21 |
 | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/track/0hD0KWK4te47pXBRJXVbY4) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Deus do Impossível \(Ao Vivo em Mojave Desert\)](https://open.spotify.com/album/3VRNnp5f7vPHZXQ81rVj1m) | 3:29 | 2022-09-09 | 2023-07-29 |
@@ -191,6 +191,7 @@
 | [Sonda\-me Usa\-me \- Ao Vivo](https://open.spotify.com/track/3VkEFu6oeMNza4yxh2XVj8) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [30 Anos Na Casa \(Ao Vivo\)](https://open.spotify.com/album/0XKNwaH8mUPY21ix3xgGxb) | 6:07 | 2023-08-04 |  |
 | [Sou Teu Deus](https://open.spotify.com/track/2JtIKFOdjw85nEgKqVK9Gn) | [Midian Lima](https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw) | [Sou Teu Deus](https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1) | 4:50 | 2022-09-09 |  |
 | [Sou um Milagre](https://open.spotify.com/track/4aA3PDel1koEbggFsSOVKz) | [Eliana Ribeiro](https://open.spotify.com/artist/7ffqgUujPJ2BxcFc8BmG5y) | [Sou um Milagre](https://open.spotify.com/album/4ZgjRKu5PlGIcAfbWzMNly) | 7:46 | 2022-09-09 |  |
+| [Te Encontrei](https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Te Encontrei](https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz) | 3:04 | 2023-10-11 |  |
 | [Teu Amor por Mim](https://open.spotify.com/track/39ztz5FRKpfp8UneRY89Nr) | [Luma Elpidio](https://open.spotify.com/artist/6S6ekwAUY7h8PALjCq9XjR) | [Teu Amor por Mim](https://open.spotify.com/album/4ayM0Dc1uN7H5esAhfF87i) | 8:19 | 2022-09-09 | 2023-01-14 |
 | [Teu Falar \- Ao Vivo](https://open.spotify.com/track/77FLekaTNuBaH84ZQX2dzU) | [Gislaine Rodrigues](https://open.spotify.com/artist/4De0baIDAcYNBXL6bDybaM) | [Vida \(Ao Vivo\)](https://open.spotify.com/album/5SAP9wOXqQ16J393goGNBi) | 6:20 | 2022-09-09 |  |
 | [Toma o Teu Lugar \- Make Room](https://open.spotify.com/track/6MTHuIDVGeSt5xEuwItVpM) | [Ana Nóbrega](https://open.spotify.com/artist/5LCTcU1OktZQTuh4LFIdzU) | [Toma o Teu Lugar \(Make Room\)](https://open.spotify.com/album/5ptH6CRcskhNs8i5iEIrBO) | 5:51 | 2022-09-09 | 2023-03-04 |

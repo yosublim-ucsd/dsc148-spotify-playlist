@@ -1,12 +1,12 @@
 {
   "description": "New indie driving the current. Cover: Jordan Ward",
-  "num_followers": 36280,
+  "num_followers": 36346,
   "original_name": "Indie Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZGQzNTczODIyMzEzMDk1ODU2YzllOTQyM2E3NjliOTliZjUzNWI2",
+  "snapshot_id": "MCw4ZWI4MjVhY2Y3NjcxODk3ZTE5OWIzMzBkZDQ0MjdlYzEyMjRmMzM1",
   "tracks": [
     {
       "added_at": "2023-10-06 14:57:54",
@@ -297,6 +297,22 @@
       "url": "https://open.spotify.com/track/3ocGQh1erdD9zAfijHMQZu"
     },
     {
+      "added_at": "2023-10-09 15:42:17",
+      "album": {
+        "name": "Clean Sheets, Dirty Walls",
+        "url": "https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM"
+      },
+      "artists": [
+        {
+          "name": "Cleffy",
+          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "Meet you at the Graveyard",
+      "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
+    },
+    {
       "added_at": "2023-10-06 14:57:54",
       "album": {
         "name": "GO GO GO",
@@ -315,22 +331,6 @@
     {
       "added_at": "2023-10-06 14:57:54",
       "album": {
-        "name": "Let\u2019s Start Here.",
-        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        }
-      ],
-      "duration_ms": 190581,
-      "name": "the ride-",
-      "url": "https://open.spotify.com/track/04HeNxRRVjcwctfp2K2kMu"
-    },
-    {
-      "added_at": "2023-10-06 14:57:54",
-      "album": {
         "name": "daylight falls",
         "url": "https://open.spotify.com/album/4JzQ9ctOcrFaAY1Kfbq4hM"
       },
@@ -345,20 +345,20 @@
       "url": "https://open.spotify.com/track/3JTXbLod8F36ErFytqlxID"
     },
     {
-      "added_at": "2023-10-09 15:42:17",
+      "added_at": "2023-10-06 14:57:54",
       "album": {
-        "name": "Clean Sheets, Dirty Walls",
-        "url": "https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM"
+        "name": "Let\u2019s Start Here.",
+        "url": "https://open.spotify.com/album/6Per97deaWqrJlKQNX8RGK"
       },
       "artists": [
         {
-          "name": "Cleffy",
-          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
         }
       ],
-      "duration_ms": 172137,
-      "name": "Meet you at the Graveyard",
-      "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
+      "duration_ms": 190581,
+      "name": "the ride-",
+      "url": "https://open.spotify.com/track/04HeNxRRVjcwctfp2K2kMu"
     },
     {
       "added_at": "2023-10-06 14:57:54",
@@ -483,22 +483,6 @@
     {
       "added_at": "2023-10-06 14:57:54",
       "album": {
-        "name": "Just Cool",
-        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
-      },
-      "artists": [
-        {
-          "name": "Obongjayar",
-          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
-        }
-      ],
-      "duration_ms": 220243,
-      "name": "Just Cool",
-      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
-    },
-    {
-      "added_at": "2023-10-06 14:57:54",
-      "album": {
         "name": "Natural Brown Prom Queen",
         "url": "https://open.spotify.com/album/1QSo9HgowUqAc5BI3AdkqN"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 142666,
       "name": "Selfish Soul",
       "url": "https://open.spotify.com/track/3XqP0HAPdDN3Lkdoufds20"
+    },
+    {
+      "added_at": "2023-10-06 14:57:54",
+      "album": {
+        "name": "Just Cool",
+        "url": "https://open.spotify.com/album/1pD1bZq3gntKVyJOiESfQJ"
+      },
+      "artists": [
+        {
+          "name": "Obongjayar",
+          "url": "https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h"
+        }
+      ],
+      "duration_ms": 220243,
+      "name": "Just Cool",
+      "url": "https://open.spotify.com/track/553yNvwJjHlHwDF4fA9ZUP"
     },
     {
       "added_at": "2023-10-06 14:57:54",

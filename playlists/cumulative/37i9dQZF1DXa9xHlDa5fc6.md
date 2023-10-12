@@ -4,7 +4,7 @@
 
 > unwind with these alternative favorites and new discoveries.
 
-344 songs - 21 hr 17 min
+345 songs - 21 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -206,6 +206,7 @@
 | [Lucky](https://open.spotify.com/track/5F0g9c91FF4xPorfVb0gwA) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Household Name](https://open.spotify.com/album/19trggALcFlGFsJDUiyVYn) | 4:03 | 2022-10-28 | 2022-11-13 |
 | [Matter Of Time](https://open.spotify.com/track/6JsirqvUIaAfQCRHBSX4ue) | [Fitness](https://open.spotify.com/artist/7oC7e6ijd7nv4gVBDetGQM) | [Matter Of Time](https://open.spotify.com/album/7JPC1GrJ0hdQkCDCxQblv4) | 2:39 | 2019-06-16\* | 2022-07-29 |
 | [Meshuggah](https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Meshuggah](https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93) | 4:37 | 2023-04-14 | 2023-08-14 |
+| [Meshuggah](https://open.spotify.com/track/7FpD6W73sZuEEp4dNRCwy9) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:37 | 2023-05-26 |  |
 | [Method to the Madness](https://open.spotify.com/track/0ubaYhZGFOEvEA1vMciCgN) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/2PZIytLiCWDHEjAXuwkVKz) | 4:33 | 2022-10-28 |  |
 | [Method to the Madness](https://open.spotify.com/track/5ICD9s4DNvkv7vgDZIc0TZ) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Method to the Madness](https://open.spotify.com/album/2BfgmQ3MxlmFV0lIYCTf4Q) | 4:33 | 2021-05-28 | 2022-10-04 |
 | [Method to the Madness](https://open.spotify.com/track/6bdUYF2BSpMJ1eSVb9wbAn) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not the World](https://open.spotify.com/album/3J9a9IUBPJL3WhkC86mCw1) | 4:33 | 2022-09-16 | 2022-11-02 |
@@ -219,7 +220,7 @@
 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 | 2023-04-14 |  |
 | [My Dancer](https://open.spotify.com/track/7qKuDuLsOiDEVtL2rGcvHa) | [Hirsch](https://open.spotify.com/artist/5L0UU9wI651RERYSEddxsa) | [My Dancer](https://open.spotify.com/album/24o4RXQybRaN6RFYFcF9k0) | 3:23 | 2020-11-13 | 2021-11-13 |
 | [My Favourite](https://open.spotify.com/track/3DuI6dh9Zk4rpudUnO7DF7) | [The Coronas](https://open.spotify.com/artist/2tppd6KkhK4ULAd217Ecq1) | [My Favourite](https://open.spotify.com/album/6lXiw1zZo8DR6ro1e2Nykf) | 4:05 | 2020-10-30 | 2021-05-29 |
-| [Nearer My God](https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Nearer My God](https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8) | 3:35 | 2019-06-16\* |  |
+| [Nearer My God](https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Nearer My God](https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8) | 3:35 | 2019-06-16\* | 2023-10-12 |
 | [Nervous System](https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Nervous System](https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr) | 2:37 | 2023-02-17 | 2023-10-01 |
 | [night swimming](https://open.spotify.com/track/0uprppE9hF4TaIuC2h1Zme) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q) | [color theory](https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez) | 4:16 | 2020-04-30 | 2021-11-13 |
 | [No Hard Feelings](https://open.spotify.com/track/0uVrbmcAomoohVaFnBSRid) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1VCTWaze9kuY5IDlbtR5p0) | 2:35 | 2022-04-11 |  |

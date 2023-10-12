@@ -2,7 +2,7 @@
 
 ### [50s Party](https://open.spotify.com/playlist/37i9dQZF1DWSwFS0Z6E1ep)
 
-> 
+> The biggest party hits of the 1950s.
 
 292 songs - 12 hr 41 min
 

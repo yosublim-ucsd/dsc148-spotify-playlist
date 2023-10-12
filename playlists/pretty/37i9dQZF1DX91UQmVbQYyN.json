@@ -1,12 +1,12 @@
 {
   "description": "Some of the most mesmerizing voices and masterful musicians of indie. Cover: Lana Del Rey",
-  "num_followers": 576063,
+  "num_followers": 576002,
   "original_name": "EQUAL Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTRlMTg0N2VkYzZjNzNkOTg0ZmQ3MmQzYjJlNTI4ZmFmMDEzZWUx",
+  "snapshot_id": "MCw4MWJlYTNmMTU4OWE3YWNiMjFkZmMzZDBjYjUzZWI0NDhiNWJjODgz",
   "tracks": [
     {
       "added_at": "2023-03-08 16:17:46",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Kala",
-        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 205200,
-      "name": "Paper Planes",
-      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 229760,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/5xo8RrjJ9CVNrtRg2S3B1R"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "Kala",
+        "url": "https://open.spotify.com/album/2xoj2gYed3IYmGWn3owSfu"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 205200,
+      "name": "Paper Planes",
+      "url": "https://open.spotify.com/track/1ixbwbeBi5ufN4noUKmW5a"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "dirty dancer",
         "url": "https://open.spotify.com/album/6aO0vMIga31GSawF5f0pMZ"
       },
@@ -803,18 +787,18 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
       },
       "artists": [
         {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
         }
       ],
-      "duration_ms": 160493,
-      "name": "Sunny day",
-      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -835,22 +819,18 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Simple Things",
-        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
       "artists": [
         {
-          "name": "Zero 7",
-          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
-        },
-        {
-          "name": "Sophie Barker",
-          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 271520,
-      "name": "In The Waiting Line",
-      "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -867,6 +847,54 @@
       "duration_ms": 228922,
       "name": "So My Darling - Acoustic",
       "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "boygenius",
+        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
+      },
+      "artists": [
+        {
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Julien Baker",
+          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        },
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 212467,
+      "name": "Souvenir",
+      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "Simple Things",
+        "url": "https://open.spotify.com/album/1VRBB9iu84o3g16CczH9iH"
+      },
+      "artists": [
+        {
+          "name": "Zero 7",
+          "url": "https://open.spotify.com/artist/14H7ag1wpQOsPPQJOD6Dqr"
+        },
+        {
+          "name": "Sophie Barker",
+          "url": "https://open.spotify.com/artist/5338nAeek8WVCOPNnT7Qv2"
+        }
+      ],
+      "duration_ms": 271520,
+      "name": "In The Waiting Line",
+      "url": "https://open.spotify.com/track/5ARrtxJLVCeTv5TWo1oKgC"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -899,34 +927,6 @@
       "duration_ms": 250973,
       "name": "Cranes in the Sky",
       "url": "https://open.spotify.com/track/48EjSdYh8wz2gBxxqzrsLe"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
-        "name": "boygenius",
-        "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        },
-        {
-          "name": "Julien Baker",
-          "url": "https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        },
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 212467,
-      "name": "Souvenir",
-      "url": "https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "When I Get Home",
-        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
-      },
-      "artists": [
-        {
-          "name": "Solange",
-          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
-        }
-      ],
-      "duration_ms": 236120,
-      "name": "Almeda",
-      "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "Lungs (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 255133,
       "name": "Cosmic Love",
       "url": "https://open.spotify.com/track/0CSTvWUps1YmpQoXXay9ol"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "When I Get Home",
+        "url": "https://open.spotify.com/album/4WF4HvVT7VjGnVjxjoCR6w"
+      },
+      "artists": [
+        {
+          "name": "Solange",
+          "url": "https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU"
+        }
+      ],
+      "duration_ms": 236120,
+      "name": "Almeda",
+      "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Sylvan Esso",
-        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
-      },
-      "artists": [
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 268213,
-      "name": "Coffee",
-      "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
         "name": "Pleasantville -Music From The Motion Picture",
         "url": "https://open.spotify.com/album/3QofKE2yZcsjKOUw6fyyn3"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 307333,
       "name": "Across the Universe",
       "url": "https://open.spotify.com/track/6ZQgooEk8PvsLxedYaT6Oa"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
+        "name": "Sylvan Esso",
+        "url": "https://open.spotify.com/album/1862qnxqsLeiNDblknjtiL"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        }
+      ],
+      "duration_ms": 268213,
+      "name": "Coffee",
+      "url": "https://open.spotify.com/track/30GGIrrJdSNtecPiFcVP5O"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
+        "name": "I'm Allergic To Dogs!",
+        "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 265263,
+      "name": "Photo ID",
+      "url": "https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe"
+    },
+    {
+      "added_at": "2023-03-08 16:17:46",
+      "album": {
         "name": "Heartthrob",
         "url": "https://open.spotify.com/album/5IUJ6v408Z7pECC3BXUJxX"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 260398,
       "name": "Losing You",
       "url": "https://open.spotify.com/track/5hR0wTnydz6lmErOV4c0sp"
-    },
-    {
-      "added_at": "2023-03-08 16:17:46",
-      "album": {
-        "name": "I'm Allergic To Dogs!",
-        "url": "https://open.spotify.com/album/23JijmRgLWloEMnFUwHJa2"
-      },
-      "artists": [
-        {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
-        }
-      ],
-      "duration_ms": 265263,
-      "name": "Photo ID",
-      "url": "https://open.spotify.com/track/0bhciG1J5Mn3aIfPjvHQIe"
     },
     {
       "added_at": "2023-03-08 16:17:46",
@@ -1659,18 +1659,18 @@
     {
       "added_at": "2023-03-08 16:17:46",
       "album": {
-        "name": "Wet Leg",
-        "url": "https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO"
+        "name": "Fetch The Bolt Cutters",
+        "url": "https://open.spotify.com/album/0fO1KemWL2uCCQmM22iKlj"
       },
       "artists": [
         {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+          "name": "Fiona Apple",
+          "url": "https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL"
         }
       ],
-      "duration_ms": 232320,
-      "name": "Angelica",
-      "url": "https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC"
+      "duration_ms": 201352,
+      "name": "Under The Table",
+      "url": "https://open.spotify.com/track/12WhIX6MvI93bS3wPSStSY"
     }
   ],
   "unique_name": "EQUAL Indie",

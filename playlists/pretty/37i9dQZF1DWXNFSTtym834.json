@@ -1,12 +1,12 @@
 {
   "description": "The biggest metal songs of the 2000s. Cover: Slipknot",
-  "num_followers": 1203686,
+  "num_followers": 1204356,
   "original_name": "00s Metal Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMzQ1YjlhOGI5ZTc5NTQwYTJmOTdlM2EyM2JlODZmNjQ0ODI2Yzgw",
+  "snapshot_id": "MCxmZjNmMTk3MGUyNDY4MjBlZDI2NzNhMDFmYThhYjdmNmNiMDliMTUx",
   "tracks": [
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "Reise, Reise",
-        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
-      },
-      "artists": [
-        {
-          "name": "Rammstein",
-          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
-        }
-      ],
-      "duration_ms": 226760,
-      "name": "Amerika",
-      "url": "https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ"
-    },
-    {
-      "added_at": "2023-02-08 17:32:03",
-      "album": {
         "name": "ObZen",
         "url": "https://open.spotify.com/album/2x2VoPa1pG2jSElA73a9Xa"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 442733,
       "name": "Bleed",
       "url": "https://open.spotify.com/track/4E6wpXABj8XosZEPXZz2OK"
+    },
+    {
+      "added_at": "2023-02-08 17:32:03",
+      "album": {
+        "name": "Reise, Reise",
+        "url": "https://open.spotify.com/album/09qHS2BgOLqi3SMkbauxdJ"
+      },
+      "artists": [
+        {
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
+        }
+      ],
+      "duration_ms": 226760,
+      "name": "Amerika",
+      "url": "https://open.spotify.com/track/33ayEZDfgARpadIdqo87JQ"
     },
     {
       "added_at": "2023-02-08 17:32:03",
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2023-02-08 17:32:03",
       "album": {
-        "name": "The Curse (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL"
+        "name": "Liebe ist f\u00fcr alle da",
+        "url": "https://open.spotify.com/album/3pksjSyo1w4vAPOenAzM4Z"
       },
       "artists": [
         {
-          "name": "Atreyu",
-          "url": "https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv"
+          "name": "Rammstein",
+          "url": "https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP"
         }
       ],
-      "duration_ms": 222466,
-      "name": "Right Side Of The Bed",
-      "url": "https://open.spotify.com/track/2cxbNLOKc9CtQ7hcH88ma3"
+      "duration_ms": 301853,
+      "name": "Ich tu dir weh",
+      "url": "https://open.spotify.com/track/47gjUao1XjSO4fvVRm9L55"
     }
   ],
   "unique_name": "00s Metal Classics",

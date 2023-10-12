@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-15",
-  "description": "All about Korean Jazz hits & new (Cover: Mandong(\ub9cc\ub3d9))",
+  "description": "All about Korean Jazz hits & new (Cover: MIHYANG MOON(\ubb38\ubbf8\ud5a5))",
   "name": "Jazzy Korea",
   "tracks": [
     {
@@ -464,7 +464,7 @@
       ],
       "date_added": "2022-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 333884,
       "name": "Challenge",
       "url": "https://open.spotify.com/track/7rSaFa1IUSsE3VUpyhsgsC"
@@ -1112,6 +1112,24 @@
       "duration_ms": 144283,
       "name": "Honeymoon",
       "url": "https://open.spotify.com/track/5fFhTTd6pmgBpysk2ozGtg"
+    },
+    {
+      "album": {
+        "name": "I Wished On The Moon",
+        "url": "https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d"
+      },
+      "artists": [
+        {
+          "name": "MIHYANG MOON",
+          "url": "https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255733,
+      "name": "I Wished On The Moon",
+      "url": "https://open.spotify.com/track/608er1MSoN0BFXdvEP6X1C"
     },
     {
       "album": {
@@ -2044,7 +2062,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 272542,
       "name": "Sail Away (feat. HAESONG)",
       "url": "https://open.spotify.com/track/1m8JMmV16TrgGeBNrt1SC1"
@@ -2128,6 +2146,24 @@
       "duration_ms": 221342,
       "name": "Shining",
       "url": "https://open.spotify.com/track/3Sg4sRL1ng6zcDnidYlYR0"
+    },
+    {
+      "album": {
+        "name": "I Wished On The Moon",
+        "url": "https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d"
+      },
+      "artists": [
+        {
+          "name": "MIHYANG MOON",
+          "url": "https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 291320,
+      "name": "Skylark",
+      "url": "https://open.spotify.com/track/7JwIhlzMnaDVhPP2ss6cc0"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Soothing, soft piano.
 
-277 songs - 14 hr 23 min
+278 songs - 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Doria \- Island Songs VII](https://open.spotify.com/track/4zbGUPGTQglrXIcQR9lZAt) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [Island Songs](https://open.spotify.com/album/3ooKjBzYmRKLV4qSccKjiO) | 3:22 | 2019-04-17 | 2022-02-05 |
 | [Dreamt, far hope...](https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo) | [North Connolly](https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t) | [Dreamt, far hope...](https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF) | 2:19 | 2023-09-11 |  |
 | [Ecartele: Less than a Year](https://open.spotify.com/track/5su3HmfnFlFVwnR7Ap2tkU) | [Damian Marhulets](https://open.spotify.com/artist/2bzUwRIvjNRifTD3PgjwJO), [Szymanowski Quartet](https://open.spotify.com/artist/4GkW3hfTCOdalWw1kJOLcD), [Marina Baranova](https://open.spotify.com/artist/01nevKNRkYwwRvEkA2LUQi) | [Ecartele](https://open.spotify.com/album/4y3ypkK6i0hujVdW1eoGbg) | 3:43 | 2019-04-17 | 2022-02-05 |
+| [Elegie](https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs) | [Kiara Leonard](https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P) | [Elegie](https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu) | 2:49 | 2023-10-10 |  |
 | [Ellie](https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Ellie](https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw) | 2:58 | 2023-10-10 |  |
 | [Embers](https://open.spotify.com/track/6RjTKFwiZfTrkBJXmCiNym) | [Wilson Trouvé](https://open.spotify.com/artist/1Qh6CmBget32TmvDZBoK8E) | [Embers](https://open.spotify.com/album/7qrMjy81QY0mY6lj6jGcbn) | 2:37 | 2022-02-04 | 2023-09-23 |
 | [Embrace Me](https://open.spotify.com/track/4XcCAB5G21D6BZzobQBZMw) | [Carin Florie](https://open.spotify.com/artist/3C44BudashQHdoz23fsob9) | [Embrace Me](https://open.spotify.com/album/4YXJXGBIA9TZpMBPgoewGt) | 2:36 | 2023-07-05 | 2023-09-23 |
@@ -244,7 +245,7 @@
 | [The New Life](https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB) | [Lemos](https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh) | [The New Life](https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb) | 2:18 | 2022-05-13 |  |
 | [The Proposal](https://open.spotify.com/track/6Xk5TR63iO5EAYfgi4Hjtl) | [Henriette Fleich](https://open.spotify.com/artist/4ISRfcCmH6Q4kBjXzBZPKi) | [The Proposal](https://open.spotify.com/album/0ypm2eyyb8iwaTrCr89TwW) | 2:42 | 2023-08-15 |  |
 | [The Radiant City](https://open.spotify.com/track/4ZI7KGfYT2SgENTj6BUSBL) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [The Dirac Quartet](https://open.spotify.com/artist/3Gq4ugaB8UBepNfoMEV3NL) | [The Mercy \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6DV6e43XHzDFXctbjmZ8bT) | 3:30 | 2019-04-17 | 2022-02-05 |
-| [The Scent Of New Days](https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Scent Of New Days](https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD) | 2:22 | 2022-05-20 |  |
+| [The Scent Of New Days](https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [The Scent Of New Days](https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD) | 2:22 | 2022-05-20 | 2023-10-12 |
 | [The Shards](https://open.spotify.com/track/0i8DeqqBpv2tfHNNQN3n9x) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [The Shards](https://open.spotify.com/album/03BpIW5jrJHM22HtSfT8fR) | 2:18 | 2022-02-18 | 2023-07-06 |
 | [The Slow Down](https://open.spotify.com/track/6aJr5IVYDQ7tffAm8MhG7G) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [The Slow Down](https://open.spotify.com/album/1SWBVisYgwJoj0e3Xiu0Db) | 2:09 | 2023-07-05 |  |
 | [The Swimmer](https://open.spotify.com/track/6NtpDQounqLQOrZsXo9oHt) | [Phil France](https://open.spotify.com/artist/3xlkiDlNGdmuNg01x7SVJd) | [The Swimmer](https://open.spotify.com/album/3r0g5kX6vfRGyFmkN40MPp) | 4:12 | 2019-04-17 | 2022-02-05 |

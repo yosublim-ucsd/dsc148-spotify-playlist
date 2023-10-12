@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 
 > Floor fillers from the long, illustrious history of the show\. Cover: Verka Serduchka
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,662 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,630 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 20 | [Making Your Mind Up](https://open.spotify.com/track/0Azn2vpP3Sbs8qAG8e1KUc) | [Bucks Fizz](https://open.spotify.com/artist/5ZfzzHE7rxONfoksJsLXrX) | [Bucks Fizz](https://open.spotify.com/album/5HqRd9aYv1b0x8A6q2ljFb) | 2:38 |
 | 21 | [Lie to Me](https://open.spotify.com/track/6zBdVVksaTQeAzwfszbovz) | [Mikolas Josef](https://open.spotify.com/artist/6Kz7MXIUFMtp5Ts91lagtR) | [Lie to Me](https://open.spotify.com/album/5EeLrqlSbR0pa6J7hglLG5) | 2:51 |
 | 22 | [Puppet On A String](https://open.spotify.com/track/7f5w4aiYgVZrp9w4bNaBLu) | [Sandie Shaw](https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa) | [Love Me, Please Love Me \(Deluxe Edition\)](https://open.spotify.com/album/1HBagsCYgh0JSLYkSynf15) | 2:23 |
-| 23 | [Jaja Ding Dong](https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY) | [Will Ferrell](https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Eurovision Song Contest: The Story of Fire Saga \(Music from the Netflix Film\)](https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl) | 1:37 |
-| 24 | [Rhythm Inside](https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Rhythm Inside](https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx) | 2:52 |
+| 23 | [Rhythm Inside](https://open.spotify.com/track/3O2MsMZHCgSbRGEca5ML1N) | [Loïc Nottet](https://open.spotify.com/artist/5nAiCPenjjdpUJAmElxmuu) | [Rhythm Inside](https://open.spotify.com/album/5HftNbRtaTbdJljQtoMMOx) | 2:52 |
+| 24 | [Jaja Ding Dong](https://open.spotify.com/track/4QWRvlXU8dRUobH9YCDrIY) | [Will Ferrell](https://open.spotify.com/artist/7xF6Psrf6yNOBkB9jpMRa0), [My Marianne](https://open.spotify.com/artist/26a4tbq9f4QZCHArsoQkWn) | [Eurovision Song Contest: The Story of Fire Saga \(Music from the Netflix Film\)](https://open.spotify.com/album/0u6ppFo3gWA3vTiGeDTWXl) | 1:37 |
 | 25 | [She Got Me \- Bonus Track](https://open.spotify.com/track/3icYE8PMsnBoEecm5Bbd4x) | [Luca Hänni](https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ) | [110 Karat](https://open.spotify.com/album/60OhrSr6g93qE9RS5yJ3u7) | 3:00 |
 | 26 | [Rise Like A Phoenix](https://open.spotify.com/track/0fvafkeEoF6Y9gGLK3Wnu3) | [Conchita Wurst](https://open.spotify.com/artist/1TGdxJ3UvFq055SVjwx49v) | [Rise Like A Phoenix](https://open.spotify.com/album/4aPLSEfXmX1wx6gdWi282p) | 3:01 |
 | 27 | [You are the only one](https://open.spotify.com/track/7ANprWfKB8UoNggroXtfUv) | [Sergey Lazarev](https://open.spotify.com/artist/69GGH3fqk8waBkpDJ5C2mK) | [THE ONE](https://open.spotify.com/album/1gKYilxh4go3gKDikTH1ZO) | 3:06 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6BCd5Q12fpZ.md) - [plain]
 | 74 | [Runaway \- Bonus Track](https://open.spotify.com/track/7uSeUTnMWH7CgEyl2rNtMC) | [Anna Sahlene](https://open.spotify.com/artist/4dNOj2smSK7guw4JeUW1uW) | [It's Been a While](https://open.spotify.com/album/1MfUDsswH0G8RK0TDvWo71) | 2:52 |
 | 75 | [Walk On Water](https://open.spotify.com/track/6t9ECIs2ypkHQQ49VvhA3h) | [Ira Losco](https://open.spotify.com/artist/6JSaVx77J1mck0Oyv5D0rV) | [Walk On Water](https://open.spotify.com/album/2gdlErpWJdjuXOo4BJg0DV) | 3:05 |
 
-Snapshot ID: `MCw1ZTRlZDBhYzYwMDAyZGJhOTc1MjNmNjczNDI4ZTRkZThkNzViNmI4`
+Snapshot ID: `MCw4NjhkYmY1YzZkOGZmNWFjNjFkMjMyMjUyNGQzNzhlNDE5ZmI5YjA4`

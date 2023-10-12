@@ -1,12 +1,12 @@
 {
   "description": "The new bolero era. Los boleritos de hoy, just for you. Cover: La Isla Centeno",
-  "num_followers": 75056,
+  "num_followers": 75115,
   "original_name": "Lento.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2E1ZGNjMWQ0NTEzYTRkNTEwOTdhZmZiYTQzY2U2ODM2OGEwNDI2",
+  "snapshot_id": "MCwxZDYyYTMwNDFkOWUwZmJiNjYzMjRjYzU3M2VmZjc1NjBmNzdiMjY3",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -767,18 +767,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Un Canto por M\u00e9xico, Vol. 1",
-        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
+        "name": "Estas Canciones Me Recuerdan a Ti",
+        "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
       },
       "artists": [
         {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
+        },
+        {
+          "name": "Greta Ela",
+          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
         }
       ],
-      "duration_ms": 243253,
-      "name": "Veracruz",
-      "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
+      "duration_ms": 240495,
+      "name": "Bonito",
+      "url": "https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -803,22 +807,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Estas Canciones Me Recuerdan a Ti",
-        "url": "https://open.spotify.com/album/79iOQFpvUfcxDUMhBRZYRM"
+        "name": "Un Canto por M\u00e9xico, Vol. 1",
+        "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
       },
       "artists": [
         {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        },
-        {
-          "name": "Greta Ela",
-          "url": "https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 240495,
-      "name": "Bonito",
-      "url": "https://open.spotify.com/track/3AQ0civlqpPROACEaMv4Xo"
+      "duration_ms": 243253,
+      "name": "Veracruz",
+      "url": "https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH"
     },
     {
       "added_at": "2023-10-06 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest local and global tracks in Pakistan\. Cover \- Adnan Dhool
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,488 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,567 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 59 | [Scars](https://open.spotify.com/track/2WzcdOr9IGIWjGQLEtV90Y) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB) | [First of a Kind \(From the Amazon Original Series\)](https://open.spotify.com/album/6vMzmr8k0HL8Ci9Y0VUbvu) | 2:43 |
 | 60 | [Siyah](https://open.spotify.com/track/6xFWVY7hS55qaF7fXBEw7X) | [Abdul Hannan](https://open.spotify.com/artist/5mWQT8CLTa4mAQAJdFjHb1), [BAIG](https://open.spotify.com/artist/0IJYAmQhqf7gY8FkoSCSwZ) | [Siyah](https://open.spotify.com/album/0PedR8249zcLWFtNNkAEcZ) | 2:51 |
 
-Snapshot ID: `MCwyYmFmZmNkMzQwMmI4Y2ZiYTY3NTQyMGI1M2FlOGNkYmExNjZiZjkz`
+Snapshot ID: `MCwzYTBiMDM0NGRiMTIyZjFjOTZhOGMxOTI1ZmFmZGUyZTM4ZTQ0Mzhm`

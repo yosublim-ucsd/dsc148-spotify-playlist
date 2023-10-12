@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 
 > Listen to the women of Au & NZ at full volume! Cover: Cat & Calmell
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,006 likes - 99 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,992 likes - 99 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 34 | [Back To Your Heart](https://open.spotify.com/track/6t0HlyysZGmCCj1yNgZT7W) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Back To Your Heart](https://open.spotify.com/album/4melEKaCbMfBiFl22B2elc) | 3:15 |
 | 35 | [Something Familiar](https://open.spotify.com/track/0eS8TKIQfshmKIQJEnDLmt) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Something Familiar](https://open.spotify.com/album/76GSQCF9plMvW8qV0pGBXn) | 3:06 |
 | 36 | [Wasting Away](https://open.spotify.com/track/0rJ0SYEc5UGjgQuDFozKer) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Wasting Away](https://open.spotify.com/album/0fpzU9fJOvKBQkMm6TAU7g) | 2:44 |
-| 37 | [Happiness Is An 8 Ball](https://open.spotify.com/track/6uEQDaJJr9I7C0nM1iKseQ) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Happiness Is An 8 Ball](https://open.spotify.com/album/7i1hMwr3Y3tYKMqajGbnWR) | 2:31 |
+| 37 | [Happiness Is An 8 Ball](https://open.spotify.com/track/6FzUPASAASb5r58dnOIdzg) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Happiness Is An 8 Ball](https://open.spotify.com/album/2xbgOQbCLuitXr5M5C8mV6) | 2:31 |
 | 38 | [god complex](https://open.spotify.com/track/49aZox2OKhWCsmorRsCF3D) | [Ūla](https://open.spotify.com/artist/47NHOjhVH9I5BO31wxwpt8) | [god complex](https://open.spotify.com/album/0xLDiRQyvRM2Jh18sWTG5Z) | 3:08 |
 | 39 | [rats in my walls](https://open.spotify.com/track/518SyWWJhPl7HHUSPfyRjL) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [rats in my walls](https://open.spotify.com/album/0UPov8dU2n2a9XvBrKUmSK) | 5:12 |
 | 40 | [Convenience Store](https://open.spotify.com/track/0k9xVhqFXZNXEJqUa6EIlD) | [Heleina Zara](https://open.spotify.com/artist/4o5FaQ8rUj73klMevMPTEF) | [Convenience Store](https://open.spotify.com/album/02yJHdQcilQ1PpwrsduAvJ) | 3:15 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74ozWuOfjjm.md) - [plain]
 | 98 | [Mermaid Avenue](https://open.spotify.com/track/72qBzteCINzfZGqOCkD4sA) | [Vera Blue](https://open.spotify.com/artist/5ujrA1eZLDHR7yQ6FZa2qA) | [Mermaid Avenue](https://open.spotify.com/album/6mdXgYc7y2rHgMEvk0oU0t) | 3:08 |
 | 99 | [See Through](https://open.spotify.com/track/0ZtMzghkupL55g6ToThFwZ) | [HANNI](https://open.spotify.com/artist/4VOC9EBF72tcQPs6P05Q1c) | [See Through](https://open.spotify.com/album/707D7zGBRDXtVVBwwWY24T) | 3:14 |
 
-Snapshot ID: `MCwyZWMyNDkwYzI4MWMwZDc2ZWRjMzEyZjI4MGYxMDA3MjVhOWY0NTFm`
+Snapshot ID: `MCxlZTRhNTc1MzZhNTBjZTBkMzMwYWUwOGFkMjQ2Mjc4ZTQ0MmM0MjE4`

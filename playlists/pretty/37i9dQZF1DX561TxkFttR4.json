@@ -1,12 +1,12 @@
 {
   "description": "Soothing, soft piano. ",
-  "num_followers": 337522,
+  "num_followers": 337311,
   "original_name": "Soft Piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1N2E3ZDFmNDZkYTgwZTI2MmM5YWNhM2NjMDVjNmI5OTJmYWNhOGY0",
+  "snapshot_id": "MCxjNDhkOWE0YjE5NTQ5NjExMDExYzc5OGE5YTliMjA5YTgwMGUzZmE1",
   "tracks": [
     {
       "added_at": "2023-10-10 14:13:07",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-10-10 14:13:07",
       "album": {
-        "name": "Dreamt, far hope...",
-        "url": "https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF"
-      },
-      "artists": [
-        {
-          "name": "North Connolly",
-          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
-        }
-      ],
-      "duration_ms": 139515,
-      "name": "Dreamt, far hope...",
-      "url": "https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo"
-    },
-    {
-      "added_at": "2023-10-10 14:13:07",
-      "album": {
         "name": "Jean Paul errant",
         "url": "https://open.spotify.com/album/1HdPnAtIWPQNd8B0w2lzB0"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 140823,
       "name": "Jean Paul errant",
       "url": "https://open.spotify.com/track/4asmLOODbw59npZqVLEvvk"
+    },
+    {
+      "added_at": "2023-10-10 14:13:07",
+      "album": {
+        "name": "Dreamt, far hope...",
+        "url": "https://open.spotify.com/album/3c8RtZuJK7GD9436O5DPSF"
+      },
+      "artists": [
+        {
+          "name": "North Connolly",
+          "url": "https://open.spotify.com/artist/1yC3R9Jhm2zsJ7aKdhrk1t"
+        }
+      ],
+      "duration_ms": 139515,
+      "name": "Dreamt, far hope...",
+      "url": "https://open.spotify.com/track/5tC7qnCutl9HLMAOeUaZxo"
     },
     {
       "added_at": "2023-10-10 14:13:07",
@@ -571,6 +571,22 @@
     {
       "added_at": "2023-10-10 14:13:07",
       "album": {
+        "name": "Fall a hundred times",
+        "url": "https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47"
+      },
+      "artists": [
+        {
+          "name": "Maya Sarfatto",
+          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
+        }
+      ],
+      "duration_ms": 136658,
+      "name": "Fall a hundred times",
+      "url": "https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7"
+    },
+    {
+      "added_at": "2023-10-10 14:13:07",
+      "album": {
         "name": "Twilights",
         "url": "https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 335542,
       "name": "Natural Light",
       "url": "https://open.spotify.com/track/1kKbVnjBHvRSMJUsNOQp2h"
-    },
-    {
-      "added_at": "2023-10-10 14:13:07",
-      "album": {
-        "name": "Fall a hundred times",
-        "url": "https://open.spotify.com/album/5IkEPjmW6gCtLRHt32Lh47"
-      },
-      "artists": [
-        {
-          "name": "Maya Sarfatto",
-          "url": "https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9"
-        }
-      ],
-      "duration_ms": 136658,
-      "name": "Fall a hundred times",
-      "url": "https://open.spotify.com/track/078tv0fBjcReoPb9IL97b7"
     },
     {
       "added_at": "2023-10-10 14:13:07",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-10-10 14:13:07",
       "album": {
+        "name": "Ellie",
+        "url": "https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw"
+      },
+      "artists": [
+        {
+          "name": "Aeyes Libe",
+          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Ellie",
+      "url": "https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw"
+    },
+    {
+      "added_at": "2023-10-10 14:13:07",
+      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/4P344vEqsQXiTwPa7YsFfc"
       },
@@ -743,6 +759,22 @@
       "duration_ms": 120202,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1cTCSy4aSPecGDDx3wqUjD"
+    },
+    {
+      "added_at": "2023-10-10 14:13:07",
+      "album": {
+        "name": "The Coming Day",
+        "url": "https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa"
+      },
+      "artists": [
+        {
+          "name": "Jack Pelayo",
+          "url": "https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG"
+        }
+      ],
+      "duration_ms": 152518,
+      "name": "The Coming Day",
+      "url": "https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT"
     },
     {
       "added_at": "2023-10-10 14:13:07",
@@ -763,22 +795,6 @@
     {
       "added_at": "2023-10-10 14:13:07",
       "album": {
-        "name": "Ellie",
-        "url": "https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw"
-      },
-      "artists": [
-        {
-          "name": "Aeyes Libe",
-          "url": "https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Ellie",
-      "url": "https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw"
-    },
-    {
-      "added_at": "2023-10-10 14:13:07",
-      "album": {
         "name": "Schatze",
         "url": "https://open.spotify.com/album/4zXUVmO4tlStaTgMbtYPo4"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2023-10-10 14:13:07",
       "album": {
-        "name": "The Coming Day",
-        "url": "https://open.spotify.com/album/6go0e0725Fm8wBzypakTMa"
+        "name": "Troms\u00f8",
+        "url": "https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX"
       },
       "artists": [
         {
-          "name": "Jack Pelayo",
-          "url": "https://open.spotify.com/artist/3t11hg9zFYERlfzuO211YG"
+          "name": "Otto Noir",
+          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
         }
       ],
-      "duration_ms": 152518,
-      "name": "The Coming Day",
-      "url": "https://open.spotify.com/track/7J9IGMMsPyzWh2trBv6OQT"
+      "duration_ms": 131071,
+      "name": "Troms\u00f8",
+      "url": "https://open.spotify.com/track/09jdC5o254s2seWBMMHco7"
     },
     {
       "added_at": "2023-10-10 14:13:07",
@@ -843,22 +859,6 @@
     {
       "added_at": "2023-10-10 14:13:07",
       "album": {
-        "name": "Troms\u00f8",
-        "url": "https://open.spotify.com/album/64dPxiybtQ1P5vCGuqEYkX"
-      },
-      "artists": [
-        {
-          "name": "Otto Noir",
-          "url": "https://open.spotify.com/artist/7mpTE0q7VN3TGP1kpn4uIS"
-        }
-      ],
-      "duration_ms": 131071,
-      "name": "Troms\u00f8",
-      "url": "https://open.spotify.com/track/09jdC5o254s2seWBMMHco7"
-    },
-    {
-      "added_at": "2023-10-10 14:13:07",
-      "album": {
         "name": "campfire",
         "url": "https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9"
       },
@@ -875,22 +875,6 @@
     {
       "added_at": "2023-10-10 14:13:07",
       "album": {
-        "name": "Starry Sky",
-        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
-      },
-      "artists": [
-        {
-          "name": "April Baxter",
-          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Starry Sky",
-      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
-    },
-    {
-      "added_at": "2023-10-10 14:13:07",
-      "album": {
         "name": "Venice - Infinitely Avantgarde (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/45RJUxxh0wvVRUyd1sTjI9"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 180061,
       "name": "At Dawn",
       "url": "https://open.spotify.com/track/55H4GT7iLma7fJyBhS7o4R"
+    },
+    {
+      "added_at": "2023-10-10 14:13:07",
+      "album": {
+        "name": "Starry Sky",
+        "url": "https://open.spotify.com/album/0oVDiiRJAK8UDxsWxt5oMe"
+      },
+      "artists": [
+        {
+          "name": "April Baxter",
+          "url": "https://open.spotify.com/artist/2OMX9EZb9k30BOkvHJK8ec"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Starry Sky",
+      "url": "https://open.spotify.com/track/6d1XH0OKwZVbITLqPoToDg"
     },
     {
       "added_at": "2023-10-10 14:13:07",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-10 14:13:07",
       "album": {
-        "name": "The New Life",
-        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
-      },
-      "artists": [
-        {
-          "name": "Lemos",
-          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
-        }
-      ],
-      "duration_ms": 138598,
-      "name": "The New Life",
-      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
-    },
-    {
-      "added_at": "2023-10-10 14:13:07",
-      "album": {
         "name": "Chasing lights",
         "url": "https://open.spotify.com/album/2hD5lpDeL7dOU3EQGxkfGX"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 134109,
       "name": "Chasing lights",
       "url": "https://open.spotify.com/track/1oxnn6zzA7x9p8o46JetXm"
+    },
+    {
+      "added_at": "2023-10-10 14:13:07",
+      "album": {
+        "name": "The New Life",
+        "url": "https://open.spotify.com/album/4jKT4QSTMTuHh7LmMzUtNb"
+      },
+      "artists": [
+        {
+          "name": "Lemos",
+          "url": "https://open.spotify.com/artist/5nXvkyQwcA3mf2B9Wsd3Lh"
+        }
+      ],
+      "duration_ms": 138598,
+      "name": "The New Life",
+      "url": "https://open.spotify.com/track/4ngpD9qM5EinF3KKKoyZDB"
     },
     {
       "added_at": "2023-10-10 14:13:07",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2023-10-10 14:13:07",
       "album": {
+        "name": "Elegie",
+        "url": "https://open.spotify.com/album/4CabDs8KoDjqfOUFTgDnAu"
+      },
+      "artists": [
+        {
+          "name": "Kiara Leonard",
+          "url": "https://open.spotify.com/artist/0fAevrRhdDPOCXbd7FYR8P"
+        }
+      ],
+      "duration_ms": 169349,
+      "name": "Elegie",
+      "url": "https://open.spotify.com/track/5qowE02tRUQqFf3uTC8tgs"
+    },
+    {
+      "added_at": "2023-10-10 14:13:07",
+      "album": {
         "name": "Felt Improv No. 31",
         "url": "https://open.spotify.com/album/7AqUPWCuSEeAVmkRlA3quC"
       },
@@ -1211,22 +1227,6 @@
     {
       "added_at": "2023-10-10 14:13:07",
       "album": {
-        "name": "Across Long Lakes",
-        "url": "https://open.spotify.com/album/0dam87WXF1rtP8TYNRuYcZ"
-      },
-      "artists": [
-        {
-          "name": "Sarah Spring",
-          "url": "https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd"
-        }
-      ],
-      "duration_ms": 148416,
-      "name": "Across Long Lakes",
-      "url": "https://open.spotify.com/track/3MWklqtDFfMkD3pcf4rBwu"
-    },
-    {
-      "added_at": "2023-10-10 14:13:07",
-      "album": {
         "name": "Nocturnes op.4",
         "url": "https://open.spotify.com/album/46ShreZOyjXZFSZkA7GnnT"
       },
@@ -1239,6 +1239,22 @@
       "duration_ms": 171071,
       "name": "Nocturnes op.4",
       "url": "https://open.spotify.com/track/6JVzX8BxLiG4WN3xkJZ3Xu"
+    },
+    {
+      "added_at": "2023-10-10 14:13:07",
+      "album": {
+        "name": "Across Long Lakes",
+        "url": "https://open.spotify.com/album/0dam87WXF1rtP8TYNRuYcZ"
+      },
+      "artists": [
+        {
+          "name": "Sarah Spring",
+          "url": "https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd"
+        }
+      ],
+      "duration_ms": 148416,
+      "name": "Across Long Lakes",
+      "url": "https://open.spotify.com/track/3MWklqtDFfMkD3pcf4rBwu"
     },
     {
       "added_at": "2023-10-10 14:13:07",
@@ -1271,22 +1287,6 @@
       "duration_ms": 152786,
       "name": "Sous un arbre",
       "url": "https://open.spotify.com/track/0KT3pfe3i1l9bIA05BHAaP"
-    },
-    {
-      "added_at": "2023-10-10 14:13:07",
-      "album": {
-        "name": "The Scent Of New Days",
-        "url": "https://open.spotify.com/album/1OmJS0DvrFD7hDq6yiyVWD"
-      },
-      "artists": [
-        {
-          "name": "Comet Blue",
-          "url": "https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF"
-        }
-      ],
-      "duration_ms": 142625,
-      "name": "The Scent Of New Days",
-      "url": "https://open.spotify.com/track/5w0kPzgsa5bnD8yEYagRUT"
     }
   ],
   "unique_name": "Soft Piano",

@@ -1,12 +1,12 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. Foto: Luthuly",
-  "num_followers": 51000,
+  "num_followers": 51031,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMmZmYzE4Nzg5MmViOTA2MjQ0MDIwOWYwZTk1MzM4NzE1YThlZjVl",
+  "snapshot_id": "MCw5OTEwMTNmOGFkNTNlNzJlMTIxYjJhYTUwMTYxYzRmYTk4NGIxNGQ2",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Sinto a Sua Falta",
-        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
-      },
-      "artists": [
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 201620,
-      "name": "Sinto a Sua Falta",
-      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Faminta",
         "url": "https://open.spotify.com/album/6ekaLRjzflYYAS7qFBgNCj"
       },
@@ -347,22 +331,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Self Portrait",
-        "url": "https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep"
+        "name": "Sinto a Sua Falta",
+        "url": "https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL"
       },
       "artists": [
         {
-          "name": "Victor Franco",
-          "url": "https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv"
-        },
-        {
-          "name": "Jacob Collier",
-          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
         }
       ],
-      "duration_ms": 142909,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH"
+      "duration_ms": 201620,
+      "name": "Sinto a Sua Falta",
+      "url": "https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -387,6 +367,46 @@
       "duration_ms": 190286,
       "name": "Auge",
       "url": "https://open.spotify.com/track/63ft1sslYXqdYttGDQL99T"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Self Portrait",
+        "url": "https://open.spotify.com/album/3anhy2RLYZnslzRhyjy0Ep"
+      },
+      "artists": [
+        {
+          "name": "Victor Franco",
+          "url": "https://open.spotify.com/artist/5sNbaOCPAZXHDCWobWHYWv"
+        },
+        {
+          "name": "Jacob Collier",
+          "url": "https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD"
+        }
+      ],
+      "duration_ms": 142909,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/4RVcEWtAcGr5TwbAk5oQhH"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Ouroboros",
+        "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
+      },
+      "artists": [
+        {
+          "name": "Kanda Ent",
+          "url": "https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze"
+        },
+        {
+          "name": "Diego Amani",
+          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
+        }
+      ],
+      "duration_ms": 152706,
+      "name": "Doses",
+      "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -499,26 +519,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Ouroboros",
-        "url": "https://open.spotify.com/album/32oVldbmEaDm7yGBqlqtLU"
-      },
-      "artists": [
-        {
-          "name": "Kanda Ent",
-          "url": "https://open.spotify.com/artist/64cxiqdS6yO0t11U99Lpze"
-        },
-        {
-          "name": "Diego Amani",
-          "url": "https://open.spotify.com/artist/7C4JFPMFLycKlz7m7KKfgu"
-        }
-      ],
-      "duration_ms": 152706,
-      "name": "Doses",
-      "url": "https://open.spotify.com/track/2hNimeRJSfXUunq4gEsQGa"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Carinho",
         "url": "https://open.spotify.com/album/35LwHQVDtxMoYGM6tYEYLC"
       },
@@ -571,30 +571,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Hip Hop Machine #18",
-        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "YO\u00d9N",
-          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
-        }
-      ],
-      "duration_ms": 357248,
-      "name": "Se Foi",
-      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Corpo Poss\u00edvel (Deluxe)",
         "url": "https://open.spotify.com/album/5DPQYWvyndISm87e1Clu6e"
       },
@@ -643,6 +619,30 @@
       "duration_ms": 173385,
       "name": "SHAWTY",
       "url": "https://open.spotify.com/track/27WkGbGW5pZ03Gm8Ly4r4b"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Hip Hop Machine #18",
+        "url": "https://open.spotify.com/album/0piuFU4SnOxlIQ6izGufoS"
+      },
+      "artists": [
+        {
+          "name": "Leo Gandelman",
+          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
+        },
+        {
+          "name": "Machine Series",
+          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
+        },
+        {
+          "name": "YO\u00d9N",
+          "url": "https://open.spotify.com/artist/42nEiwAAE2ypWbygM9iyJi"
+        }
+      ],
+      "duration_ms": 357248,
+      "name": "Se Foi",
+      "url": "https://open.spotify.com/track/4vmSWLtbmDu1jGG13EeCis"
     },
     {
       "added_at": "2023-10-06 03:00:00",

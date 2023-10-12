@@ -1,12 +1,12 @@
 {
   "description": "Top country hits you know and love! Cover: Carrie Underwood",
-  "num_followers": 515118,
+  "num_followers": 515122,
   "original_name": "Big Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NjRlOGY3MmI4OTI2MmNkMzExZGIwNGU3MTNmYzdhZjRhZjZmYjc5",
+  "snapshot_id": "MCwwMmJmZGMxNDQwZjlmNTc2MTk3MjJjOTA4MmNhYWRlZjc1NTNjNWNh",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Human The Double Album",
-        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
-      },
-      "artists": [
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
-        }
-      ],
-      "duration_ms": 221520,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Fires Don't Start Themselves",
         "url": "https://open.spotify.com/album/12n7yWhXKfnjn0HMEcrNj9"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 225360,
       "name": "Fires Don't Start Themselves",
       "url": "https://open.spotify.com/track/6Ahy5fItdBfXRVWYOLo7pM"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Human The Double Album",
+        "url": "https://open.spotify.com/album/3og8X1LYiVq3nPdMxpM9Wb"
+      },
+      "artists": [
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+        }
+      ],
+      "duration_ms": 221520,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/5AihIu9yF3flkw1jFMyfwW"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -991,18 +991,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Nobody's Nobody",
-        "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
       },
       "artists": [
         {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
         }
       ],
-      "duration_ms": 189070,
-      "name": "Nobody's Nobody",
-      "url": "https://open.spotify.com/track/1Q7kOSZkgeCkVpWRmNBAcI"
+      "duration_ms": 175026,
+      "name": "Hell Of A View",
+      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1023,18 +1023,50 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/4MRgsu0MBuBHzMhTLBgnNz"
+        "name": "Nobody's Nobody",
+        "url": "https://open.spotify.com/album/0aaO6RwzguktkvFY9CxQYg"
       },
       "artists": [
         {
-          "name": "Eric Church",
-          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
         }
       ],
-      "duration_ms": 175026,
-      "name": "Hell Of A View",
-      "url": "https://open.spotify.com/track/4mXGooManGPH6xAWRAtRJU"
+      "duration_ms": 189070,
+      "name": "Nobody's Nobody",
+      "url": "https://open.spotify.com/track/1Q7kOSZkgeCkVpWRmNBAcI"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "See You Next Summer",
+        "url": "https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y"
+      },
+      "artists": [
+        {
+          "name": "Brian Kelley",
+          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "See You Next Summer",
+      "url": "https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Outskirts",
+        "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
+      },
+      "artists": [
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 182706,
+      "name": "Outskirts",
+      "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1059,38 +1091,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Outskirts",
-        "url": "https://open.spotify.com/album/6neohHPB8tUq8yVM7sacBh"
-      },
-      "artists": [
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 182706,
-      "name": "Outskirts",
-      "url": "https://open.spotify.com/track/2E0bqoMlIb2xmFyZHRjtzK"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "See You Next Summer",
-        "url": "https://open.spotify.com/album/5HiDygOM1Jx8Crkko9AV1y"
-      },
-      "artists": [
-        {
-          "name": "Brian Kelley",
-          "url": "https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "See You Next Summer",
-      "url": "https://open.spotify.com/track/7Ez0QMtgIQ60BOHGHh3yPc"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Creek Will Rise",
         "url": "https://open.spotify.com/album/4UXS7my7tmdX117YcfpXnx"
       },
@@ -1103,58 +1103,6 @@
       "duration_ms": 169293,
       "name": "Creek Will Rise",
       "url": "https://open.spotify.com/track/5owS9iWWGd6mDlFjUFzBsw"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Thought You Should Know",
-        "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 215571,
-      "name": "Thought You Should Know",
-      "url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "MACON",
-        "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
-      },
-      "artists": [
-        {
-          "name": "Jason Aldean",
-          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
-        },
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 212030,
-      "name": "If I Didn't Love You",
-      "url": "https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Watermelon Moonshine",
-        "url": "https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82"
-      },
-      "artists": [
-        {
-          "name": "Lainey Wilson",
-          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
-        }
-      ],
-      "duration_ms": 208853,
-      "name": "Watermelon Moonshine",
-      "url": "https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1179,6 +1127,58 @@
       "duration_ms": 174680,
       "name": "Beers On Me",
       "url": "https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Thought You Should Know",
+        "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 215571,
+      "name": "Thought You Should Know",
+      "url": "https://open.spotify.com/track/6NHpyYvJyQsg2nXXzGYc2R"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Watermelon Moonshine",
+        "url": "https://open.spotify.com/album/2Vc7PFvxxVOURgA5lILY82"
+      },
+      "artists": [
+        {
+          "name": "Lainey Wilson",
+          "url": "https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC"
+        }
+      ],
+      "duration_ms": 208853,
+      "name": "Watermelon Moonshine",
+      "url": "https://open.spotify.com/track/6KaKmX6EIu3x2057HoZwQF"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "MACON",
+        "url": "https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4"
+      },
+      "artists": [
+        {
+          "name": "Jason Aldean",
+          "url": "https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH"
+        },
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 212030,
+      "name": "If I Didn't Love You",
+      "url": "https://open.spotify.com/track/1WQ40xJSvgDmD9K7ckJwux"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1651,18 +1651,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Brown Eyes Baby",
-        "url": "https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp"
+        "name": "Fearless (The Echo)",
+        "url": "https://open.spotify.com/album/5P0hRYIH6ZpS92LjqyRXuh"
       },
       "artists": [
         {
-          "name": "Keith Urban",
-          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
+          "name": "Jackson Dean",
+          "url": "https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl"
         }
       ],
-      "duration_ms": 224333,
-      "name": "Brown Eyes Baby",
-      "url": "https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7"
+      "duration_ms": 216295,
+      "name": "Fearless - The Echo",
+      "url": "https://open.spotify.com/track/1xVjqCBkpIUMe3EmW0PxTM"
     }
   ],
   "unique_name": "Big Country",

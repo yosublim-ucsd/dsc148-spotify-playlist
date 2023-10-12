@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Paola Jara, Chiquis,
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,253 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,246 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 28 | [Probablemente](https://open.spotify.com/track/3uc5bBXNRtCQGzRDqTPGNK) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB) | [Me Dejé Llevar](https://open.spotify.com/album/2XHw4PFHT6srg7dxA3yrKv) | 3:53 |
 | 29 | [Me Hace Tanto Bien](https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Me Hace Tanto Bien](https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV) | 3:51 |
 | 30 | [Te Lloré Un Río \- Versión Mariacheño](https://open.spotify.com/track/04firplM7voiFmGWNTI3Va) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Te Lloré Un Río](https://open.spotify.com/album/7GV5uaJVmICyAAdEoUgKbd) | 3:29 |
-| 31 | [Debí Suponerlo \- Versión Mariachi](https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Debí Suponerlo \(Versión Mariachi\)](https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM) | 2:40 |
-| 32 | [Canción Para Olvidarte](https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Canción Para Olvidarte](https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm) | 2:44 |
+| 31 | [Canción Para Olvidarte](https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Canción Para Olvidarte](https://open.spotify.com/album/6ASkiClgHpsUdT0msxIeNm) | 2:44 |
+| 32 | [Debí Suponerlo \- Versión Mariachi](https://open.spotify.com/track/6NyJ0XuEuryK0kpxgv0flT) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Debí Suponerlo \(Versión Mariachi\)](https://open.spotify.com/album/21ENHysoKWXYrrp9jvDJgM) | 2:40 |
 | 33 | [Ella Qué Te Dio](https://open.spotify.com/track/6NodQbrmNRrp768y8PG1zl) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:48 |
 | 34 | [Esta Noche](https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:37 |
 | 35 | [¿Será Prudente?](https://open.spotify.com/track/7wT5MIjA3LPuRFCt9KOA8M) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [¿Será Prudente?](https://open.spotify.com/album/0HOVRCxR3Twx4U8sS4ZR86) | 3:46 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 99 | [Niña Bonita](https://open.spotify.com/track/0c25Xv2LEYmRoAqmKUB9VA) | [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI) | [Sólo Muere Si Se Olvida](https://open.spotify.com/album/3TIZvT8jpaoMMexlvfvsuu) | 2:04 |
 | 100 | [En Tu Sonrisa](https://open.spotify.com/track/4oQzPltRkO9KPkynf5kOdD) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [En Tu Sonrisa](https://open.spotify.com/album/7IONZPJFcvW3wBC0ihjf8F) | 3:01 |
 
-Snapshot ID: `MCwwMmRmZWMxMzVhZjhiMjk3ZjNhODFlZDU5ZTMzNGU5OTMxMjk0ODVi`
+Snapshot ID: `MCw0MWE1ZTQ1NGU4OTU1MjJjNTkzMDRiNjdhNzY3ZGQ3YzVjZmI3YmNj`

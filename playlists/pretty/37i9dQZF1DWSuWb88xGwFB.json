@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 30008,
+  "num_followers": 30020,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MDA3NzYwZTQ4YzVmMjNmMWYzM2ZjNDA5NDU0MjdjZGU3OGVlNmYz",
+  "snapshot_id": "MCxiZTU4MzM5OTYzNGQ3MzE2NjcxZDViMTEzM2I2Mjg1NjEyMmNlN2Ji",
   "tracks": [
     {
       "added_at": "2022-03-03 13:59:16",
@@ -391,22 +391,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Armand Van Helden EP",
-        "url": "https://open.spotify.com/album/58ttEVW3bFlonAE953mlLO"
+        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
+        "url": "https://open.spotify.com/album/1nMJ9jbG9i0Fw6cT71dAHZ"
       },
       "artists": [
         {
           "name": "Armand Van Helden",
           "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
-        },
-        {
-          "name": "Eddie Thoneick",
-          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
         }
       ],
-      "duration_ms": 445026,
-      "name": "Witch Doktor - Eddie Thoneick Remix",
-      "url": "https://open.spotify.com/track/26RFEEWbcAQFJInKdrS8B5"
+      "duration_ms": 595093,
+      "name": "Witch Doktor - The Dark Ages Mix",
+      "url": "https://open.spotify.com/track/2QrcjPTkg4u4xZ2EgCOTrN"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -491,18 +487,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: Get Up (Mixed by Armand Van Helden)",
-        "url": "https://open.spotify.com/album/1nMJ9jbG9i0Fw6cT71dAHZ"
+        "name": "Armand Van Helden EP",
+        "url": "https://open.spotify.com/album/58ttEVW3bFlonAE953mlLO"
       },
       "artists": [
         {
           "name": "Armand Van Helden",
           "url": "https://open.spotify.com/artist/3cQA9WH8liZfeja1DxcDYE"
+        },
+        {
+          "name": "Eddie Thoneick",
+          "url": "https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt"
         }
       ],
-      "duration_ms": 595093,
-      "name": "Witch Doktor - The Dark Ages Mix",
-      "url": "https://open.spotify.com/track/2QrcjPTkg4u4xZ2EgCOTrN"
+      "duration_ms": 445026,
+      "name": "Witch Doktor - Eddie Thoneick Remix",
+      "url": "https://open.spotify.com/track/26RFEEWbcAQFJInKdrS8B5"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -747,22 +747,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
-        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
-      },
-      "artists": [
-        {
-          "name": "Scram",
-          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
-        }
-      ],
-      "duration_ms": 341200,
-      "name": "Jump & Sing - Hard Metro Mix",
-      "url": "https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "The Swing Doctor",
         "url": "https://open.spotify.com/album/114F2eqOw7x3kYZUgcvktB"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 343720,
       "name": "Dance To The Rhythm",
       "url": "https://open.spotify.com/track/7AkcVsqsvievz23Gc3bRyE"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "The Lost Tapes: 'Little' Louie Vega at the Underground Network NYC (Unmixed)",
+        "url": "https://open.spotify.com/album/5S1HpMDosKRTlP4F7Ftssr"
+      },
+      "artists": [
+        {
+          "name": "Scram",
+          "url": "https://open.spotify.com/artist/00OeT8g2l7bAwFH9oD9TEu"
+        }
+      ],
+      "duration_ms": 341200,
+      "name": "Jump & Sing - Hard Metro Mix",
+      "url": "https://open.spotify.com/track/2028K7usL1aImoGvaFhyGx"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -811,22 +811,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Muevete Mama",
-        "url": "https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr"
-      },
-      "artists": [
-        {
-          "name": "Afro-Cube",
-          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
-        }
-      ],
-      "duration_ms": 414378,
-      "name": "Muevete Mama - Broder Mix",
-      "url": "https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Spark Da Meth",
         "url": "https://open.spotify.com/album/7tL9MxoqsNGJMqnZUfs5ME"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 393200,
       "name": "Spark da Meth - Bangin Like a Benzi Mix",
       "url": "https://open.spotify.com/track/1M3kIAQc7KGaTm8bJHEa7X"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "Muevete Mama",
+        "url": "https://open.spotify.com/album/4LGon28IgqEplZZjgnxbqr"
+      },
+      "artists": [
+        {
+          "name": "Afro-Cube",
+          "url": "https://open.spotify.com/artist/404yHHpunUI8aDneAYbY1u"
+        }
+      ],
+      "duration_ms": 414378,
+      "name": "Muevete Mama - Broder Mix",
+      "url": "https://open.spotify.com/track/5j1UuKogoBifaCtspPmcvZ"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -891,6 +891,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Stay Together",
+        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
+      },
+      "artists": [
+        {
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
+        }
+      ],
+      "duration_ms": 777626,
+      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
+      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "The Lost Tapes: Pride 95 (Mixed by Lil' Louis) [DJ Edition; Unmixed]",
         "url": "https://open.spotify.com/album/7nhH4mn7NPei2yAPIspY9I"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 471692,
       "name": "Tyler Moore Mary",
       "url": "https://open.spotify.com/track/3kqbMgU6RVpKDylWgs5mZk"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Stay Together",
-        "url": "https://open.spotify.com/album/6wuP78U4t60sCYOvA4kqUt"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 777626,
-      "name": "Stay Together - Armand's ''Crazy'' Trauma Mix",
-      "url": "https://open.spotify.com/track/20WvAQIQW714BqsdLScIIs"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Everybody Dance",
-        "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
-      },
-      "artists": [
-        {
-          "name": "Barbara Tucker",
-          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
-        }
-      ],
-      "duration_ms": 479440,
-      "name": "Everybody Dance - M.A.S. Club Vocal",
-      "url": "https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
         "name": "Master Blaster (Turn It Up)",
         "url": "https://open.spotify.com/album/6MJQYFCImEMyFA8weZ4Jfl"
       },
@@ -1175,34 +1159,18 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
-        "name": "Straight from the Bario EP",
-        "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
+        "name": "Everybody Dance",
+        "url": "https://open.spotify.com/album/3F5UONXKw1at69QdBsLnwr"
       },
       "artists": [
         {
-          "name": "R.B.M.",
-          "url": "https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl"
+          "name": "Barbara Tucker",
+          "url": "https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w"
         }
       ],
-      "duration_ms": 372800,
-      "name": "The Bombero Remix 96",
-      "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "In Da Clouds",
-        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
-      },
-      "artists": [
-        {
-          "name": "Sneak Essentials",
-          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
-        }
-      ],
-      "duration_ms": 518960,
-      "name": "In Da Clouds - Da Dub",
-      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
+      "duration_ms": 479440,
+      "name": "Everybody Dance - M.A.S. Club Vocal",
+      "url": "https://open.spotify.com/track/71ccVLki17DA8sVO74XoSG"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -1227,6 +1195,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Straight from the Bario EP",
+        "url": "https://open.spotify.com/album/3uhGpKKuiNpbttZVvIjNZK"
+      },
+      "artists": [
+        {
+          "name": "R.B.M.",
+          "url": "https://open.spotify.com/artist/2qhxbL0E7LhQOEa41ELZVl"
+        }
+      ],
+      "duration_ms": 372800,
+      "name": "The Bombero Remix 96",
+      "url": "https://open.spotify.com/track/2jyvMYmuyzyKnmigDc1SGA"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Move Your Body (feat. LaVette) [Mixes]",
         "url": "https://open.spotify.com/album/7pwWTloEJg93j4bw8obPfH"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 228238,
       "name": "Move Your Body (feat. LaVette) - Radio Mix",
       "url": "https://open.spotify.com/track/6fFY4e2cHZ0EMXa0J1cDlD"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
+        "name": "In Da Clouds",
+        "url": "https://open.spotify.com/album/4JiK0Do2dRT5UK6WpIi6bm"
+      },
+      "artists": [
+        {
+          "name": "Sneak Essentials",
+          "url": "https://open.spotify.com/artist/6WCDD5NXovsM6IGfwII63K"
+        }
+      ],
+      "duration_ms": 518960,
+      "name": "In Da Clouds - Da Dub",
+      "url": "https://open.spotify.com/track/74Rs89DEfIgsSQQfE4Vi1d"
     },
     {
       "added_at": "2022-03-03 13:59:16",

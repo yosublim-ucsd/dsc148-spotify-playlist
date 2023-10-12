@@ -1,12 +1,12 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 23500,
+  "num_followers": 23511,
   "original_name": "THE IDOLM@STER SHINY COLORS \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc \u30b7\u30e3\u30a4\u30cb\u30fc\u30ab\u30e9\u30fc\u30ba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4NGMwMWQ0Mjc4MmIzMDY3OGM3ZmVjMGJmMDE1YmQyNWMzZDkxYzgw",
+  "snapshot_id": "MCw0NjRiYmVkM2NkYmY4ZDMyNjQ4M2QyNGFhYjZmMjY0YTc0M2VjMmNk",
   "tracks": [
     {
       "added_at": "2023-10-04 09:05:27",
@@ -559,18 +559,22 @@
     {
       "added_at": "2023-10-04 09:05:27",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
-        "url": "https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG"
+        "name": "THE IDOLM@STER SHINY COLORS Synthe-Side 01",
+        "url": "https://open.spotify.com/album/2AtVxlrMgKVDsrqA6onKYJ"
       },
       "artists": [
         {
-          "name": "\u767d\u702c\u54b2\u8036 (CV.\u516b\u5dfb\u30a2\u30f3\u30ca)",
-          "url": "https://open.spotify.com/artist/5dYiy5c1QMxb3qX0BCnBIM"
+          "name": "L'Antica",
+          "url": "https://open.spotify.com/artist/6AVoZay6oxRPozPCGkwJJ9"
+        },
+        {
+          "name": "Straylight",
+          "url": "https://open.spotify.com/artist/55ZnJMJst6Ezqxld9WevAA"
         }
       ],
-      "duration_ms": 274800,
-      "name": "\u5343\u591c\u30a2\u30ea\u30a2",
-      "url": "https://open.spotify.com/track/3ExAAENazuICvkqsm0hYW5"
+      "duration_ms": 241933,
+      "name": "Killer\u00d7Mission",
+      "url": "https://open.spotify.com/track/0ghG8utRgqj7mnzNAMh5to"
     },
     {
       "added_at": "2023-10-04 09:05:27",
@@ -655,22 +659,18 @@
     {
       "added_at": "2023-10-04 09:05:27",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS Synthe-Side 01",
-        "url": "https://open.spotify.com/album/2AtVxlrMgKVDsrqA6onKYJ"
+        "name": "THE IDOLM@STER SHINY COLORS COLORFUL FE@THERS",
+        "url": "https://open.spotify.com/album/6gEqUT48U8C9GK6QhpoJeG"
       },
       "artists": [
         {
-          "name": "L'Antica",
-          "url": "https://open.spotify.com/artist/6AVoZay6oxRPozPCGkwJJ9"
-        },
-        {
-          "name": "Straylight",
-          "url": "https://open.spotify.com/artist/55ZnJMJst6Ezqxld9WevAA"
+          "name": "\u767d\u702c\u54b2\u8036 (CV.\u516b\u5dfb\u30a2\u30f3\u30ca)",
+          "url": "https://open.spotify.com/artist/5dYiy5c1QMxb3qX0BCnBIM"
         }
       ],
-      "duration_ms": 241933,
-      "name": "Killer\u00d7Mission",
-      "url": "https://open.spotify.com/track/0ghG8utRgqj7mnzNAMh5to"
+      "duration_ms": 274800,
+      "name": "\u5343\u591c\u30a2\u30ea\u30a2",
+      "url": "https://open.spotify.com/track/3ExAAENazuICvkqsm0hYW5"
     },
     {
       "added_at": "2023-10-04 09:05:27",

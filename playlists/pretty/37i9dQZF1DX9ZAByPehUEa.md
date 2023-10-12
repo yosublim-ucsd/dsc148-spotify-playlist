@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 
 > A happy place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,630 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,718 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 19 | [Chemicals](https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 4:15 |
 | 20 | [Hipcats](https://open.spotify.com/track/38HvJkH21S2bRciZHohv68) | [ATFC](https://open.spotify.com/artist/04L4Y7Hkc1fULKhFbTnSSs), [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki) | [Hipcats](https://open.spotify.com/album/3gwYl0xcZBA6UafqvuMRTZ) | 2:09 |
 | 21 | [Thin Line](https://open.spotify.com/track/10bmUjdCwAcLNMaFs6BLNO) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Guz](https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx) | [Thin Line](https://open.spotify.com/album/2SNatJfvvM3VT444888Mgk) | 3:08 |
-| 22 | [Giodisco](https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Giodisco](https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD) | 2:43 |
-| 23 | [Pearls](https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 4:03 |
+| 22 | [Pearls](https://open.spotify.com/track/5EAbUR2kkfDOCWEcWcb7YG) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [That! Feels Good!](https://open.spotify.com/album/17g3sAeWfpHSJlqMHuRAr6) | 4:03 |
+| 23 | [Giodisco](https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Giodisco](https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD) | 2:43 |
 | 24 | [Summer Lovin' \- Edit](https://open.spotify.com/track/7q0vM8woumdTUt30GasolR) | [Cerrone](https://open.spotify.com/artist/5SE2sfwTpxL2vXRdG6H5PM), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Summer Lovin'](https://open.spotify.com/album/37AKccFPVCdMWUqWZeetrg) | 3:09 |
 | 25 | [Everything’s Gonna Be Alright](https://open.spotify.com/track/21lbj2ezsvMg0XoeBL49bw) | [Mark Knight](https://open.spotify.com/artist/3h11MHQeCrcsUgRRijI1zL), [Beverley Knight](https://open.spotify.com/artist/30AzZL0valZQ62OIQiFWvk), [London Community Gospel Choir](https://open.spotify.com/artist/5DhdFUvQCHgY2F9mVL8uoz) | [Untold Business](https://open.spotify.com/album/186HTycU1jAk9PociChcpO) | 3:33 |
 | 26 | [Don't Go \- Gerd Janson Re\-Work \- Shorter Edit](https://open.spotify.com/track/5E1si4zAa76zwPhwEHXFBU) | [Julie McDermott](https://open.spotify.com/artist/25ORH36m22WXNx98UdFT1T), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [Don't Go \(Gerd Janson Re\-Work \- Shorter Edit\)](https://open.spotify.com/album/3jFPyqKhfD28o6XbRWd7V0) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ZAByPehUEa.md) - [plain]
 | 49 | [Please \- Single Edit](https://open.spotify.com/track/7mJGrZIFA5MO6W2QBcWBDX) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Please](https://open.spotify.com/album/0ugWOJ1e8Q2Qp7rukfH4YR) | 3:39 |
 | 50 | [Ma quale idea \- Myd Remix \(Radio Edit\)](https://open.spotify.com/track/1G3jHsWf0F40SxCRQV6oxR) | [Pino D'Angiò](https://open.spotify.com/artist/1uXGmHao7MMRBwCCncmyB6), [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [Ma quale idea \(Myd Remix\)](https://open.spotify.com/album/0mRoBEyOI7MmBwtHpDOliY) | 3:39 |
 
-Snapshot ID: `MCwxYmYxODQ3YWY1MDkxMWU1YWI2NTRkMWRhMjJmN2JmNGExODcxNjhi`
+Snapshot ID: `MCwxZDNjOTI2MGIxM2VlZTRiNmU1MGNiMzE3NmQzMzYxOTg1ODcyMjY3`

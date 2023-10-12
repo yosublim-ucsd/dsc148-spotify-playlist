@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/rjbarrett/\">RJ Barrett</a>",
-  "num_followers": 1463,
+  "num_followers": 1467,
   "original_name": "RJ Barrett's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjk2NWE1YzY1NDc5MTFiZmMzMGI2MDk2YjE3Y2I5Yjc3NzBhY2Zl",
+  "snapshot_id": "MCwwYjRkNzgyOGNhMTY0ZDc1YjZkNmQyNWFiMzg3ZDhmOWNlOGQ5ZDk2",
   "tracks": [
     {
       "added_at": "2022-11-01 04:00:00",
@@ -619,6 +619,22 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "No Label II",
+        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 210556,
+      "name": "Handsome And Wealthy",
+      "url": "https://open.spotify.com/track/2ZBnK2CGFK6jcagWrpyPzA"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "Kanye West Presents Good Music Cruel Summer",
         "url": "https://open.spotify.com/album/0bcOGgwJpwBjfFBTApoqSn"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 283653,
       "name": "Don't Like.1",
       "url": "https://open.spotify.com/track/2rJvc7nSYWBKAuNUMx1Cr2"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
-        "name": "No Label II",
-        "url": "https://open.spotify.com/album/1NIzKm1DqvComMoEF1FZPQ"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 210556,
-      "name": "Handsome And Wealthy",
-      "url": "https://open.spotify.com/track/2ZBnK2CGFK6jcagWrpyPzA"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -723,6 +723,26 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
+        "name": "Culture III",
+        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
+      },
+      "artists": [
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 278191,
+      "name": "Having Our Way (feat. Drake)",
+      "url": "https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
@@ -771,26 +791,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Rich Crack Baby",
-        "url": "https://open.spotify.com/album/0c5QIo4MTyneCPZtXjr7BX"
-      },
-      "artists": [
-        {
-          "name": "Young Dolph",
-          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
-        },
-        {
-          "name": "T.I.",
-          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
-        }
-      ],
-      "duration_ms": 227224,
-      "name": "Foreva (feat. T.I.)",
-      "url": "https://open.spotify.com/track/23nOXuK95DPOiO62Ixgzza"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "I NEVER LIKED YOU",
         "url": "https://open.spotify.com/album/6tE9Dnp2zInFij4jKssysL"
       },
@@ -827,26 +827,6 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "Culture III",
-        "url": "https://open.spotify.com/album/3uyOwJu4r3yroAkFywNFM3"
-      },
-      "artists": [
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 278191,
-      "name": "Having Our Way (feat. Drake)",
-      "url": "https://open.spotify.com/track/2NM0qHzx4Ohy8iXHEEgwlO"
-    },
-    {
-      "added_at": "2022-11-01 04:00:00",
-      "album": {
         "name": "I Am Not A Human Being II (Deluxe)",
         "url": "https://open.spotify.com/album/6Pqlfg42Sc3ElNuyt5NUiK"
       },
@@ -863,6 +843,26 @@
       "duration_ms": 222866,
       "name": "No Worries",
       "url": "https://open.spotify.com/track/6bdFbw9THAMceZtkPWXu8e"
+    },
+    {
+      "added_at": "2022-11-01 04:00:00",
+      "album": {
+        "name": "Rich Crack Baby",
+        "url": "https://open.spotify.com/album/0c5QIo4MTyneCPZtXjr7BX"
+      },
+      "artists": [
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "duration_ms": 227224,
+      "name": "Foreva (feat. T.I.)",
+      "url": "https://open.spotify.com/track/23nOXuK95DPOiO62Ixgzza"
     },
     {
       "added_at": "2022-11-01 04:00:00",
@@ -959,22 +959,26 @@
     {
       "added_at": "2022-11-01 04:00:00",
       "album": {
-        "name": "DS4EVER",
-        "url": "https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx"
+        "name": "Code Red",
+        "url": "https://open.spotify.com/album/4faPRidDvKRvHnWdvmvVHv"
       },
       "artists": [
         {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         },
         {
-          "name": "Kodak Black",
-          "url": "https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7"
+          "name": "BIG30",
+          "url": "https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
         }
       ],
-      "duration_ms": 160266,
-      "name": "how you did that (feat. Kodak Black)",
-      "url": "https://open.spotify.com/track/3ABFD8SzXwMbUspLFxbbwK"
+      "duration_ms": 157480,
+      "name": "SRT (feat. BIG30 & Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/0VohK45FIUHEMBbfUw8iBM"
     }
   ],
   "unique_name": "RJ Barrett's Taste",

@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: Mitski
 
-539 songs - 1 day 9 hr 49 min
+540 songs - 1 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Angel On My Shoulder](https://open.spotify.com/track/3M3bHley5OpJLTqGSf7v22) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077) | [Angel On My Shoulder](https://open.spotify.com/album/5rJ5nSlS3ARksBxsaysCQL) | 4:02 | 2021-10-08 | 2022-04-18 |
 | [Angels](https://open.spotify.com/track/3zsRP8rH1kaIAo9fmiP4El) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 2:51 | 2021-06-03 |  |
 | [ANNA](https://open.spotify.com/track/3JRRWAm5wR9pal37nIIbyc) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [Pt\. I](https://open.spotify.com/album/0WfthyeVmVxhwbs09RwtwK) | 4:01 | 2023-09-20 | 2023-10-07 |
+| [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/track/2KHIUDMyKpCoatqCwDAtD4) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [ANNIE, PICK A FLOWER.\. \(MY HOUSE\)](https://open.spotify.com/album/3lHbPfpCbfIbqW1Q4u9Vkq) | 3:48 | 2023-10-11 |  |
 | [Another Lover](https://open.spotify.com/track/5duZe3kHUqNENd97WYqmYL) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 4:26 | 2021-06-03 | 2022-12-17 |
 | [Another Sketch](https://open.spotify.com/track/2IVmt96IvSP10bMHCIsmRs) | [Lil Silva](https://open.spotify.com/artist/2Kv0ApBohrL213X9avMrEn) | [Another Sketch](https://open.spotify.com/album/3jm7drQQWex8Gu3cOdjkR9) | 3:50 | 2022-06-03 | 2022-07-07 |
 | [Anymore](https://open.spotify.com/track/41k9LvMt9xspB5nueIUsfU) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Anymore](https://open.spotify.com/album/1gN8dVk0oKtQoHdk1oxKrL) | 2:34 | 2022-02-10 | 2022-04-18 |
@@ -295,7 +296,7 @@
 | [Lookin' 4 Pleasure](https://open.spotify.com/track/2zpFidqnzXMpzQCLTBHTtA) | [Dominic Sen](https://open.spotify.com/artist/152t0HrYcs72GHrhM6x5gF) | [Lookin' 4 Pleasure](https://open.spotify.com/album/40iGpxXRNe5Hx9K9ac26WF) | 3:39 | 2022-05-20 | 2022-06-01 |
 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 | 2021-06-03 | 2022-09-10 |
 | [Loser](https://open.spotify.com/track/32j6e9Wh6dk0jG9KZn9HBe) | [Causeway](https://open.spotify.com/artist/3V6PIgndeEbvQu6ThnLQ5i) | [We Were Never Lost](https://open.spotify.com/album/7edH6cPIKeJcS50pQ5DS45) | 4:05 | 2022-06-03 | 2022-07-29 |
-| [Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 | 2022-04-22 |  |
+| [Love Is Complicated \(The Angels Sing\)](https://open.spotify.com/track/5mbLTFP3GSGp1NH1ah2KG9) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [EUPHORIA SEASON 2 OFFICIAL SCORE \(FROM THE HBO ORIGINAL SERIES\)](https://open.spotify.com/album/43tSLc6ZxW8TTRLrBO0SU1) | 3:19 | 2022-04-22 | 2023-10-12 |
 | [LOVE IS VIOLENCE](https://open.spotify.com/track/5Bii5cjilhQ9v3BSeSEhnM) | [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LOVE IS VIOLENCE](https://open.spotify.com/album/3wrX9MJvRVrCEJGHGwNvH9) | 2:37 | 2022-01-31 | 2022-04-01 |
 | [Love333](https://open.spotify.com/track/0wAQl7JsYX4PgX3YCBf8RN) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Forgiveness](https://open.spotify.com/album/1rkbaI9xnf7yi70SyGNKi2) | 3:09 | 2022-05-20 | 2022-07-19 |
 | [Lucky](https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Forever & A Few](https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF) | 4:11 | 2022-06-03 | 2022-06-12 |

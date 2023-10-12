@@ -4,7 +4,7 @@
 
 > Vibey indie tracks for just hanging out.
 
-703 songs - 1 day 18 hr 12 min
+704 songs - 1 day 18 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -609,7 +609,8 @@
 | [Terms & Conditions](https://open.spotify.com/track/7AyjVbkONi9ENQOyorxsIT) | [Vacations](https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4) | [Terms & Conditions](https://open.spotify.com/album/2M2POTrivOaYTX8TGwTE5B) | 4:04 | 2023-09-15 |  |
 | [Texas Sun](https://open.spotify.com/track/24ntSW3QVJzR79lHAAOTaY) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/4HFO9PDRxsdbcegkcNhxgz) | 4:12 | 2022-07-25 | 2023-04-15 |
 | [Texas Sun](https://open.spotify.com/track/3k5oLgungD1dSOGLqQdIQw) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/3woYZI2bFXEh5nR8KfltJ1) | 4:12 | 2020-10-16 | 2022-07-29 |
-| [That Life](https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [That Life](https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N) | 3:35 | 2021-08-27 |  |
+| [That Life](https://open.spotify.com/track/0M2hckQzSt0AZFytuTC2Hp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 3:35 | 2023-09-29 |  |
+| [That Life](https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [That Life](https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N) | 3:35 | 2021-08-27 | 2023-10-12 |
 | [That's Nice](https://open.spotify.com/track/5Wxus9Be7FAYrnIXrbK6Q1) | [FLING](https://open.spotify.com/artist/7CF3sdtLggXXGXrsCX8veH) | [That's Nice](https://open.spotify.com/album/0jwyzFHrCJzsl5DJ2JxSnU) | 3:11 | 2020-10-05\* | 2021-05-24 |
 | [The Beginning](https://open.spotify.com/track/5xoMRan7YOKvYL6vueYugk) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Mercurial World](https://open.spotify.com/album/1ERrUvG31thFCxdwWUoJrY) | 4:01 | 2022-12-07 | 2023-04-07 |
 | [The Birthday Party](https://open.spotify.com/track/3qZwJ1SiY32JW70JqgiFbY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The Birthday Party](https://open.spotify.com/album/6sZzx2xabT42pyknjFG6zR) | 4:37 | 2020-10-05\* | 2022-04-16 |

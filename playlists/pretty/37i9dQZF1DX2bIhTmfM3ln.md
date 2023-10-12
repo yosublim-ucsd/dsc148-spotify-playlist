@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 
 > Afrobeats love stories have the best beginnings
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,531 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,645 likes - 80 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 52 | [Peppermint](https://open.spotify.com/track/1I4ZQ2KVDziVs6IFBYJFis) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Peppermint](https://open.spotify.com/album/7H6BmqqRtsDXzdntW3tY7C) | 2:22 |
 | 53 | [Pheelz Like Summer](https://open.spotify.com/track/3zX0dMVPyLnut4t7WOPJ5Q) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:50 |
 | 54 | [Beggie Beggie](https://open.spotify.com/track/6zublRIkZocboXucqc8hgB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [19 & Dangerous](https://open.spotify.com/album/0AjdvP8p42lwSzmN0PpwJv) | 3:28 |
-| 55 | [Kristy](https://open.spotify.com/track/6GWqhQrOMHdyHxwSNdctaf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Kristy](https://open.spotify.com/album/4b0c1lr72jmvi93sJFKYq1) | 4:20 |
+| 55 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 |
 | 56 | [OVAMI](https://open.spotify.com/track/1QO7M1UGJsHno3cf5aHCri) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Flavour](https://open.spotify.com/artist/0oKNR4ahj1CPnK2kQmbOfo) | [OVAMI](https://open.spotify.com/album/2HYi42ojRq0cI1qiTttMj3) | 3:24 |
-| 57 | [Last Name](https://open.spotify.com/track/4BwHxEsR5SFJJKGBzrjMGN) | [Nikita Kering'](https://open.spotify.com/artist/1yQKzWOHXJQSEnOXrHDl4X) | [Last Name](https://open.spotify.com/album/5tUXmCXcOyqRO7lLeWrMHR) | 2:01 |
-| 58 | [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 |
-| 59 | [In Love](https://open.spotify.com/track/78LJK1nCgnYprkhLK0JriD) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Bad Boy Etiquette 101](https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp) | 3:20 |
+| 57 | [Kristy](https://open.spotify.com/track/6GWqhQrOMHdyHxwSNdctaf) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Kristy](https://open.spotify.com/album/4b0c1lr72jmvi93sJFKYq1) | 4:20 |
+| 58 | [In Love](https://open.spotify.com/track/78LJK1nCgnYprkhLK0JriD) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Bad Boy Etiquette 101](https://open.spotify.com/album/4MPDBst1efOusd0rI4jlFp) | 3:20 |
+| 59 | [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 |
 | 60 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |
 | 61 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
 | 62 | [Sinner](https://open.spotify.com/track/3k6Y1ESBwF1low4hHsY4wu) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Sinner](https://open.spotify.com/album/1kpkSvYRz40cdD1GvfN7OJ) | 2:54 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 64 | [Single Again \(feat\. Ruger\) \- Remix](https://open.spotify.com/track/463mgOOvzTeyL2u2cmqKIE) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Single Again \(feat\. Ruger\) \[Remix\]](https://open.spotify.com/album/0xsygiGSVxNtNnz06K173w) | 3:56 |
 | 65 | [Compromise \(feat\. Rema\)](https://open.spotify.com/track/2dG1cXdbEPKEOyUq96R9xz) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 3:15 |
 | 66 | [Currency](https://open.spotify.com/track/59VpttBOjuFDpOOdqeTDiI) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Currency](https://open.spotify.com/album/1yqoT8UTNOYyLHc8mIVjIT) | 2:58 |
-| 67 | [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 |
-| 68 | [Quick Question](https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Quick Question](https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5) | 2:41 |
+| 67 | [Quick Question](https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb) | [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Quick Question](https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5) | 2:41 |
+| 68 | [Somebody’s Son \(Ft Brandy\)](https://open.spotify.com/track/3Z9B9GQ2fFx4IRCG8bbWys) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Brandy](https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee) | [Water & Garri](https://open.spotify.com/album/4kaFvICfRtvFJawQ6p7VSW) | 3:38 |
 | 69 | [Knee Down](https://open.spotify.com/track/3ovSaVUTDOtxfDw5xh9qJ4) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [B A H D](https://open.spotify.com/album/4XPvTEJV2cW7UxVPDV1EU8) | 2:27 |
 | 70 | [Do You Mind?](https://open.spotify.com/track/6gYHfdySsN4Hqvr4f0g3BX) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Do You Mind?](https://open.spotify.com/album/4EaF4hW9uXMGmoVlqbC1cw) | 2:27 |
 | 71 | [Stand By You](https://open.spotify.com/track/2g9WsbUkdYlffKK5Ao5BpR) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [Pheelz Good EP](https://open.spotify.com/album/1hQyAbUn202fiz5UPVqNnx) | 2:55 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2bIhTmfM3ln.md) - [plain]
 | 77 | [Ego Oyibo](https://open.spotify.com/track/0pqrP2OT0JMdHa5sPwpjr7) | [Chike](https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q) | [Ego Oyibo](https://open.spotify.com/album/3eh4uQxSDuk3CWeXMEh3SB) | 3:03 |
 | 78 | [Know You](https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Know You](https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu) | 3:50 |
 | 79 | [Philo \- Remix](https://open.spotify.com/track/57S9ELiUtHZ2aqkyegA5nN) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Philo \(Remix\)](https://open.spotify.com/album/4kzr0lEPxjP4hoBUz4b9SV) | 2:46 |
-| 80 | [SETE REMIX \(feat\. Young Stunna, Diamond Platnumz & Oxlade\)](https://open.spotify.com/track/5YF4Kg3ksqyNqzbXDvR8mp) | [K.O](https://open.spotify.com/artist/3ilw3NJXRWd153LIBsme1z), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Young Stunna](https://open.spotify.com/artist/6WQFTzqYHmh8Ph2X0L0QLQ) | [SETE REMIX \(feat\. Young Stunna, Diamond Platnumz & Oxlade\)](https://open.spotify.com/album/04fBNopmMepdbuk96REyzW) | 4:12 |
+| 80 | [Sofri](https://open.spotify.com/track/6S5XNauc7v8FLJWEIk0z2c) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Playboy](https://open.spotify.com/album/1pUJnA3OSbvVr5afqxNARZ) | 2:59 |
 
-Snapshot ID: `MCwxM2RkNTE0MDY0Y2FhZmJkZDk0Y2M4NzQ1NTM2YjI3NGU4Y2FmYWQ3`
+Snapshot ID: `MCw4ZGVjNTM4NjdjMGM4YTJiZDZkNTBjZGYzODk2ZWI4MmM4MWRhNmRk`

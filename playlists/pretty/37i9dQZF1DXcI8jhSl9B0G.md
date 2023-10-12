@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 
 > Tunes for sun drenched days and balmy nights.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,805 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,784 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,13 +60,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcI8jhSl9B0G.md) - [plain]
 | 50 | [Society's a Mansion](https://open.spotify.com/track/18yXhrvz2qEXTAh8ho1vOk) | [Mimi Gilbert](https://open.spotify.com/artist/6rl4JbCz1pnZUksvA1im9P) | [Grew Inside the Water](https://open.spotify.com/album/0W2k8xZhYcJI23jYMqWfOY) | 4:44 |
 | 51 | [8 Hour Drive](https://open.spotify.com/track/4HB7zl4UghBqyX84KkY0Gs) | [Riley Pearce](https://open.spotify.com/artist/0A3HlWZGV8WrCcqxKM2neg) | [The Water & The Rough](https://open.spotify.com/album/1gw5CZBYqPIwYAe3BUfSKL) | 3:36 |
 | 52 | [TATTOOS](https://open.spotify.com/track/2oS1CW1vbfD8t1I6As9ZhR) | [Ziggy Alberts](https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw) | [DANCING IN THE DARK](https://open.spotify.com/album/3xUg2rKVbUx4UioZ91GOOG) | 2:41 |
-| 53 | [Carry You With Me](https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Carry You With Me](https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD) | 4:18 |
+| 53 | [Disappearing Light](https://open.spotify.com/track/2Gxsh6YOXHo6VMgllzoxYr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 3:42 |
 | 54 | [Simple Question](https://open.spotify.com/track/7njsVoHUui9rtwEa49qa4f) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Simple Question](https://open.spotify.com/album/5DTdguqtCktqPrnAWSjvRv) | 4:32 |
-| 55 | [Disappearing Light](https://open.spotify.com/track/2Gxsh6YOXHo6VMgllzoxYr) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Small Town Rituals](https://open.spotify.com/album/7x5t8sO3oN9lkDDbOPLWGh) | 3:42 |
+| 55 | [Carry You With Me](https://open.spotify.com/track/2zwWemTFAsXkKZYa1MFvRF) | [Voyageur](https://open.spotify.com/artist/4e96iK3tKVtBuCdQPjoik8) | [Carry You With Me](https://open.spotify.com/album/0x0JjWPGNvgnJ4KhJRaXeD) | 4:18 |
 | 56 | [After the Sun](https://open.spotify.com/track/48RnhqwWJba2PMoy9ZItxL) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [I AM](https://open.spotify.com/album/61eBjmrl0HdW6LGhcx6da0) | 3:33 |
 | 57 | [Outside Kinda Kids](https://open.spotify.com/track/1JEVnEFTbHCRbOkoWlYimI) | [Sam Heselwood](https://open.spotify.com/artist/3NWsg1qe0HyufJEhf1KoI6) | [Outside Kinda Kids](https://open.spotify.com/album/3AhDmGnoaRBKn2IMpUvrji) | 3:15 |
 | 58 | [Love Is an Open Road](https://open.spotify.com/track/6nn3h5deAeDf0qgfOW8Hvz) | [Israel Cannan](https://open.spotify.com/artist/4EMl4Y4uEh32Jmfgi6bYZx) | [Love Is an Open Road](https://open.spotify.com/album/5YfnRr6B3SRgJvB1Wl5dC8) | 2:46 |
 | 59 | [Love Shack](https://open.spotify.com/track/2zbuLLg1jSNhHVEBVlwcgG) | [Luke Morris](https://open.spotify.com/artist/79i6PErg0CppXj9tpcxdOi) | [Love Shack](https://open.spotify.com/album/2zJN6bhIPoTUviXdNslg8C) | 4:09 |
 | 60 | [this is how you fall in love](https://open.spotify.com/track/7iqp8pV9NTmxJQf2uuVTOE) | [Parker Rose](https://open.spotify.com/artist/1t08EEn6XWinnrPBMQzcwF) | [this is how you fall in love](https://open.spotify.com/album/4y9pwFu4CY9pcY1ZDAupwh) | 2:41 |
 
-Snapshot ID: `MCw0NjFkMzQ4ZDk5MDllZWRkNjJlYmQyZDdjNGE4MDhkMTQ4ODBjMDg2`
+Snapshot ID: `MCxiNmNmOGUyNThlNDUzNGFhZmQzYWUwZThkMGVlYmI2OTdkMWE5M2Ux`

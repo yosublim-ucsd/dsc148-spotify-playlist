@@ -4,14 +4,14 @@
 
 > The biggest dance floor bangers of the 2010s.
 
-114 songs - 6 hr 33 min
+115 songs - 6 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#SELFIE](https://open.spotify.com/track/1HOlb9rdNOmy9b1Fakicjo) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [\#SELFIE](https://open.spotify.com/album/3OeA4rJ9XJNAygyNyTc2sI) | 3:03 | 2022-10-12 | 2023-05-24 |
 | [17](https://open.spotify.com/track/15DwFznkBJir7AK9PyMyRR) | [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [17](https://open.spotify.com/album/0K1826JxL1dViQBsEKApN5) | 3:16 | 2022-10-12 | 2023-06-16 |
 | [Ain't Nobody \(Loves Me Better\) \(feat\. Jasmine Thompson\)](https://open.spotify.com/track/3c8iiZGfEammKJuWTErE5x) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Jasmine Thompson](https://open.spotify.com/artist/2TL8gYTNgD6nXkyuUdDrMg) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:06 | 2022-10-12 |  |
-| [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 | 2022-10-12 |  |
+| [All Around The World \(La La La\)](https://open.spotify.com/track/1D2Aldrksl9yWWCIPOeDzy) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [A Touch Of Class](https://open.spotify.com/artist/5wTdspmxzb8V4ZjvDodpBo) | [All Around The World \(La La La\)](https://open.spotify.com/album/5GJPwVjH1HL5krPhyxsooq) | 2:27 | 2022-10-12 | 2023-10-12 |
 | [Alone](https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 2:40 | 2022-10-12 |  |
 | [Alone](https://open.spotify.com/track/3MEYFivt6bilQ9q9mFWZ4g) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T) | [Alone](https://open.spotify.com/album/7ePC9qS9mSOTY9E0YPP6yg) | 4:33 | 2022-10-12 |  |
 | [Alors on danse \- Radio Edit](https://open.spotify.com/track/2GYHyAoLWpkxLVa4oYTVko) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR) | [Cheese](https://open.spotify.com/album/4kEbcH3VT6NYfpv8Wkkk80) | 3:26 | 2022-10-12 |  |
@@ -35,6 +35,7 @@
 | [Freaks \- Radio Edit](https://open.spotify.com/track/4f3NHOxgC8Bg21IJBg4cZ3) | [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Savage](https://open.spotify.com/artist/1GbrJTB56Xs4XQGlmVbaCf) | [Freaks](https://open.spotify.com/album/2XuqIiYNrr15UYsmll2B3z) | 2:49 | 2022-10-12 |  |
 | [Gecko \(Overdrive\) \- Radio Edit](https://open.spotify.com/track/483XiZ5o13Cc1zoWV7jGml) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK) | [Gecko \(Overdrive\) \[Radio Edit\]](https://open.spotify.com/album/4cJyCdYZKnIhxQCSymU2ES) | 2:45 | 2022-10-12 |  |
 | [Get Up \(Rattle\) \[feat\. Far East Movement\] \- Vocal Edit](https://open.spotify.com/track/3wLPRjw2XQpmowqXUXb3UF) | [Bingo Players](https://open.spotify.com/artist/1pbHrVayIcVpHI9z97u4bK), [Far East Movement](https://open.spotify.com/artist/698hF4vcwHwPy8ltmXermq) | [Get Up \(Rattle\) \[feat\. Far East Movement\]](https://open.spotify.com/album/2i27N4YvO0SHfZtMyBUnj6) | 2:46 | 2022-11-14 | 2023-08-17 |
+| [Girls Like \(feat\. Zara Larsson\)](https://open.spotify.com/track/0rHVd8h0cFwgLgPFem6S60) | [Tinie Tempah](https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Girls Like \(feat\. Zara Larsson\)](https://open.spotify.com/album/0EUrNFkbVL5kokjQbzHxl3) | 3:16 | 2023-08-25 |  |
 | [Hear Me Now](https://open.spotify.com/track/39cmB3ZoTOLwOTq7tMNqKa) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Hear Me Now \(feat\. Zeeba\)](https://open.spotify.com/album/6fpsA5aYbVNLe6y3P49o2o) | 3:14 | 2022-10-12 |  |
 | [Heroes \(we could be\)](https://open.spotify.com/track/3zU9rdflI65tK4dkkNSp77) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Forever](https://open.spotify.com/album/0tRVSbmOwilUucqjzU0fQw) | 3:30 | 2022-10-12 |  |
 | [Hey Brother](https://open.spotify.com/track/4lhqb6JvbHId48OUJGwymk) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [True](https://open.spotify.com/album/2H6i2CrWgXE1HookLu8Au0) | 4:15 | 2022-11-14 |  |

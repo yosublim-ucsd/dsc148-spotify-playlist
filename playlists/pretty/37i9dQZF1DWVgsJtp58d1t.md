@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > New music each and every Friday\.   Cover: <a href="spotify:artist:3LOm0AZjpwVQebvkyanjDy">ODUMODUBLVCK</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,005,347 likes - 110 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,004,480 likes - 110 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 | 109 | [Lamborghini Boys \(with Tay Keith and Nardo Wick\)](https://open.spotify.com/track/7Clgnvwgszp14FU5B9cgvj) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3), [Nardo Wick](https://open.spotify.com/artist/0Njy6yR9LykNKYg9yE23QN) | [Lamborghini Boys \(with Tay Keith and Nardo Wick\)](https://open.spotify.com/album/6dTPh7wqxX0nS45AGIVt7T) | 2:23 |
 | 110 | [Wind Me Up](https://open.spotify.com/track/3RbDT829dbhxXwm66khCSb) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Anthony B](https://open.spotify.com/artist/7Lij2ZLJJQOfGojVR3Wmqa) | [Wind Me Up](https://open.spotify.com/album/5y3WKGXgMHB852H1YsmVPj) | 4:10 |
 
-Snapshot ID: `MCxiYjEwNjc2MWJiOTYyZGZjMGZkYjcwYjVkNmRmZjZhMGZhNGRjMGMy`
+Snapshot ID: `MCxjYzhhZDg3NzBkNzMzZWM2N2M0MmQ3YzFhYTUyYzViNWZjMzVmMzVk`

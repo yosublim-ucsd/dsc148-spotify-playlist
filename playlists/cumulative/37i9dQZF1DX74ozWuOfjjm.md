@@ -4,7 +4,7 @@
 
 > Listen to the women of Au & NZ at full volume! Cover: Cat & Calmell
 
-490 songs - 1 day 2 hr 27 min
+491 songs - 1 day 2 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,7 +177,8 @@
 | [Guilty Conscience](https://open.spotify.com/track/5f4O6EoPQRLjTY9waVSamq) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [Analysis Paralysis](https://open.spotify.com/album/6jXVI1qo7iRCK8GrnMsjW7) | 1:58 | 2023-08-31 |  |
 | [Guilty Conscience](https://open.spotify.com/track/6CadmhpVDOo7lgIPViMFv5) | [MAY\-A](https://open.spotify.com/artist/5J8UACGRZtDb4WdOzo9YJN) | [ANALYSIS PARALYSIS](https://open.spotify.com/album/11BzW2dtCfyLxr1rTckoCj) | 1:58 | 2023-08-31 | 2023-09-02 |
 | [Hands Of Addiction](https://open.spotify.com/track/34Cx2wVzQzhsBfZtS3CCqo) | [Jada Weazel](https://open.spotify.com/artist/5igkWBCRLxZdrvDNeuRaXm) | [Hands Of Addiction](https://open.spotify.com/album/34sufI3Lc99RQMYdXQ07Vl) | 3:26 | 2023-08-15 |  |
-| [Happiness Is An 8 Ball](https://open.spotify.com/track/6uEQDaJJr9I7C0nM1iKseQ) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Happiness Is An 8 Ball](https://open.spotify.com/album/7i1hMwr3Y3tYKMqajGbnWR) | 2:31 | 2023-08-15 |  |
+| [Happiness Is An 8 Ball](https://open.spotify.com/track/6FzUPASAASb5r58dnOIdzg) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Happiness Is An 8 Ball](https://open.spotify.com/album/2xbgOQbCLuitXr5M5C8mV6) | 2:31 | 2023-09-30 |  |
+| [Happiness Is An 8 Ball](https://open.spotify.com/track/6uEQDaJJr9I7C0nM1iKseQ) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [Happiness Is An 8 Ball](https://open.spotify.com/album/7i1hMwr3Y3tYKMqajGbnWR) | 2:31 | 2023-08-15 | 2023-10-12 |
 | [Happy](https://open.spotify.com/track/3xnwztCYNHAMi1v9OEj1Nq) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Stay Awake](https://open.spotify.com/album/5ZgUaY1zgXYpP6eax5rjam) | 3:59 | 2023-02-28 | 2023-06-01 |
 | [Happy Hangover](https://open.spotify.com/track/3ZJl1SIywHZqVrriDKn7fl) | [Hope D](https://open.spotify.com/artist/6IdzKFOGtbNz84qbJUMM4x) | [Happy Hangover](https://open.spotify.com/album/4h3KVC4rJ091snKcRorfWn) | 3:38 | 2022-02-03 | 2022-04-06 |
 | [Happy Never After](https://open.spotify.com/track/5QDTEyPqiweKHvz3Ree0gu) | [RARIA](https://open.spotify.com/artist/1DKITSUPQAQIa2D0W6U8gY), [dempsey hope](https://open.spotify.com/artist/6ZzYOQMKYTj2lJeAitjSl7) | [Happy Never After](https://open.spotify.com/album/5shgW905CLdwk5bdWX3M5K) | 2:44 | 2023-05-12 |  |

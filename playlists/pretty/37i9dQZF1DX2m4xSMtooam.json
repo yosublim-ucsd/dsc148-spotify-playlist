@@ -1,12 +1,12 @@
 {
   "description": "Relax to the sweet and soothing sound of Bossa nova.",
-  "num_followers": 173197,
+  "num_followers": 173297,
   "original_name": "Bossa Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2Y2YxNThiMTI1ZTBhMmU5ZWZkZWZhZDM5N2M0Zjg1NjI5MDU1MjNk",
+  "snapshot_id": "MCxlNzE1YzAyYmRhZDBiYjhiYTg5MTZmNmQ1MzY2ZjUxNDY5YWQ2MWEx",
   "tracks": [
     {
       "added_at": "2023-10-06 00:01:00",
@@ -291,38 +291,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "The Composer Of Desafinado, Plays",
-        "url": "https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nio Carlos Jobim",
-          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
-        }
-      ],
-      "duration_ms": 200866,
-      "name": "O Morro N\u00e3o Tem Vez",
-      "url": "https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Every Time We Say Goodbye",
-        "url": "https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0"
-      },
-      "artists": [
-        {
-          "name": "Yorkville",
-          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
-        }
-      ],
-      "duration_ms": 213931,
-      "name": "So In Love",
-      "url": "https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "Breakfast on the Morning Tram (Bonus Edition)",
         "url": "https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR"
       },
@@ -351,6 +319,38 @@
       "duration_ms": 224016,
       "name": "Samba saravah",
       "url": "https://open.spotify.com/track/3RBnF6OEuRbwXZIEPFZdk2"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Every Time We Say Goodbye",
+        "url": "https://open.spotify.com/album/40tqbMBeLUEkJsVN6VKJB0"
+      },
+      "artists": [
+        {
+          "name": "Yorkville",
+          "url": "https://open.spotify.com/artist/6VR3RgGN43zxy9ckRugsXn"
+        }
+      ],
+      "duration_ms": 213931,
+      "name": "So In Love",
+      "url": "https://open.spotify.com/track/2su3D4cHfobQLqFUdYc3xs"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "The Composer Of Desafinado, Plays",
+        "url": "https://open.spotify.com/album/3tW43cUkPyYkzzntfPwm4A"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nio Carlos Jobim",
+          "url": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        }
+      ],
+      "duration_ms": 200866,
+      "name": "O Morro N\u00e3o Tem Vez",
+      "url": "https://open.spotify.com/track/6fwICn8FWouigyB8BxfljW"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
+        "name": "Everything I Love",
+        "url": "https://open.spotify.com/album/0xEdEQEBbOvXAS640Ii8PP"
+      },
+      "artists": [
+        {
+          "name": "Tom Rogers Band",
+          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
+        }
+      ],
+      "duration_ms": 271584,
+      "name": "Everything I Love",
+      "url": "https://open.spotify.com/track/1HmfqLGKxU3pSnhs2n0RDn"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
         "name": "Brazil",
         "url": "https://open.spotify.com/album/0SVtsd6mAN8xjDFR8NDZRr"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 321640,
       "name": "All of Me (Disse alguem)",
       "url": "https://open.spotify.com/track/0YPurGQSRUDTtIFUX3Nskc"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
-        "name": "Everything I Love",
-        "url": "https://open.spotify.com/album/0xEdEQEBbOvXAS640Ii8PP"
-      },
-      "artists": [
-        {
-          "name": "Tom Rogers Band",
-          "url": "https://open.spotify.com/artist/2T4HDLiHH2f18ieTlW7EPR"
-        }
-      ],
-      "duration_ms": 271584,
-      "name": "Everything I Love",
-      "url": "https://open.spotify.com/track/1HmfqLGKxU3pSnhs2n0RDn"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Cora\u00e7\u00e3o Madura",
-        "url": "https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC"
-      },
-      "artists": [
-        {
-          "name": "T\u00e9o Freire",
-          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
-        }
-      ],
-      "duration_ms": 120810,
-      "name": "Cora\u00e7\u00e3o Madura",
-      "url": "https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "Blue Night Bossa",
         "url": "https://open.spotify.com/album/6XmwjVSryg17GrpHl5eVx7"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 231377,
       "name": "Standing Tall",
       "url": "https://open.spotify.com/track/6zyXnFhbzWquheImVhTyMX"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Cora\u00e7\u00e3o Madura",
+        "url": "https://open.spotify.com/album/1iTU5adC5AOkPaI0UmTuOC"
+      },
+      "artists": [
+        {
+          "name": "T\u00e9o Freire",
+          "url": "https://open.spotify.com/artist/2Es2xfsRli23jk1UwvIej3"
+        }
+      ],
+      "duration_ms": 120810,
+      "name": "Cora\u00e7\u00e3o Madura",
+      "url": "https://open.spotify.com/track/3TTQRX8ppicWmBSLDWs5u6"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "From Paris To Rio",
-        "url": "https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk"
-      },
-      "artists": [
-        {
-          "name": "Karrin Allyson",
-          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
-        }
-      ],
-      "duration_ms": 269000,
-      "name": "O Barquinho",
-      "url": "https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "Smile For Me",
         "url": "https://open.spotify.com/album/72ZwSwMfG0MpC7xMGellJK"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 210965,
       "name": "A Bossa for Love",
       "url": "https://open.spotify.com/track/2EQ3JTfKv0W4bfpwp7Q0N4"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "From Paris To Rio",
+        "url": "https://open.spotify.com/album/0q1gz3xUPgFZlnL18h6KUk"
+      },
+      "artists": [
+        {
+          "name": "Karrin Allyson",
+          "url": "https://open.spotify.com/artist/118jMO6hdUQeoDOv0XiLIs"
+        }
+      ],
+      "duration_ms": 269000,
+      "name": "O Barquinho",
+      "url": "https://open.spotify.com/track/5mYrk9TmtP6t7a6JOYabJC"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -2063,22 +2063,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Waters of March",
-      "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "Santa Tereza",
         "url": "https://open.spotify.com/album/7qiZlKHt1z0FCPz3RuyRFM"
       },
@@ -2091,6 +2075,22 @@
       "duration_ms": 226924,
       "name": "Zephyr",
       "url": "https://open.spotify.com/track/47Bm8HKITZFcEi3WmmpJlG"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Waters of March",
+      "url": "https://open.spotify.com/track/3Hcu9kf96AWTmkM9zCcGFQ"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "I Lead With My Heart",
-        "url": "https://open.spotify.com/album/15zZ5BOFxosE8twXhNIOyq"
-      },
-      "artists": [
-        {
-          "name": "The Brehms",
-          "url": "https://open.spotify.com/artist/6MruOb7or9JyVL2MSkVlWQ"
-        }
-      ],
-      "duration_ms": 239400,
-      "name": "I Lead With My Heart",
-      "url": "https://open.spotify.com/track/2BP8KIRvEvjcIeS8YwiE0F"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "Telecoteco",
         "url": "https://open.spotify.com/album/3vo7Rw9T48cuSkQWHMLnSb"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 218346,
       "name": "Teleco-Teco",
       "url": "https://open.spotify.com/track/7nZARKu6tzkTBkuCVXWaZa"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "I Lead With My Heart",
+        "url": "https://open.spotify.com/album/15zZ5BOFxosE8twXhNIOyq"
+      },
+      "artists": [
+        {
+          "name": "The Brehms",
+          "url": "https://open.spotify.com/artist/6MruOb7or9JyVL2MSkVlWQ"
+        }
+      ],
+      "duration_ms": 239400,
+      "name": "I Lead With My Heart",
+      "url": "https://open.spotify.com/track/2BP8KIRvEvjcIeS8YwiE0F"
     },
     {
       "added_at": "2023-10-06 00:01:00",
@@ -2527,22 +2527,6 @@
     {
       "added_at": "2023-10-06 00:01:00",
       "album": {
-        "name": "Tanto Tempo",
-        "url": "https://open.spotify.com/album/0Z4pW2hvnmlTLWSGEozZ5n"
-      },
-      "artists": [
-        {
-          "name": "Bebel Gilberto",
-          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
-        }
-      ],
-      "duration_ms": 208893,
-      "name": "Samba E Amor",
-      "url": "https://open.spotify.com/track/3rijcoxodxiawDIr9K9TYN"
-    },
-    {
-      "added_at": "2023-10-06 00:01:00",
-      "album": {
         "name": "The Valentine Sessions",
         "url": "https://open.spotify.com/album/1znhnVIkzgtJyiPrnWCP0c"
       },
@@ -2555,6 +2539,22 @@
       "duration_ms": 199120,
       "name": "Small Bossa",
       "url": "https://open.spotify.com/track/4UHOmvAehYOtvoc5ULXLb2"
+    },
+    {
+      "added_at": "2023-10-06 00:01:00",
+      "album": {
+        "name": "Tanto Tempo",
+        "url": "https://open.spotify.com/album/0Z4pW2hvnmlTLWSGEozZ5n"
+      },
+      "artists": [
+        {
+          "name": "Bebel Gilberto",
+          "url": "https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "Samba E Amor",
+      "url": "https://open.spotify.com/track/3rijcoxodxiawDIr9K9TYN"
     },
     {
       "added_at": "2023-10-06 00:01:00",

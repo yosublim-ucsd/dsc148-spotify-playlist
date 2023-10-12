@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 
 > Artistas LGBTQIA+ que brillan e inspiran.<br/>Cover: YADAM
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,077 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 133,963 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 22 | [Quítate La Ropa](https://open.spotify.com/track/2uHSh5ZPsVGDTL7rfPRL1R) | [La Cruz](https://open.spotify.com/artist/0JoFdUO6q5ZRdnfRADpRiJ) | [Quítate La Ropa](https://open.spotify.com/album/56kdE5SKjM1TYN7nEBkbG7) | 2:19 |
 | 23 | [Pa Tanto](https://open.spotify.com/track/3WewvS7iUUyev8cka7Mgl0) | [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6), [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Pa Tanto](https://open.spotify.com/album/20ULysRftwowCX4GCySy6f) | 2:49 |
 | 24 | [Piña](https://open.spotify.com/track/6Fdho6pm3GhNyA4TZajC2X) | [Snow Tha Product](https://open.spotify.com/artist/3p3jPcp8b7WL9XYj4xlsWj), [Lauren Jauregui](https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU) | [To Anywhere](https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V) | 2:24 |
-| 25 | [Ácido Sabor](https://open.spotify.com/track/0a2giOzEw6DnH2V9bt3GP3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ácido Sabor](https://open.spotify.com/album/6VUd6HAFSkMyUYxe26MOSh) | 3:30 |
-| 26 | [Imagina](https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9) | 3:44 |
+| 25 | [Imagina](https://open.spotify.com/track/4Fe2oAGo6fmPVwBNkbEdw1) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Clichés](https://open.spotify.com/album/1HX7p55GnAwv6kPb9m0Qs9) | 3:44 |
+| 26 | [Ácido Sabor](https://open.spotify.com/track/0a2giOzEw6DnH2V9bt3GP3) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [Ácido Sabor](https://open.spotify.com/album/6VUd6HAFSkMyUYxe26MOSh) | 3:30 |
 | 27 | [AMEIANOITE](https://open.spotify.com/track/0zQhdzUijGmorUhopvtoue) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Noitada](https://open.spotify.com/album/4TxfLb1NSPnGUgFZ2bkTvY) | 2:46 |
 | 28 | [PERREO FURIOSO](https://open.spotify.com/track/2NAjBeyMUrba97IXdLVMqp) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG) | 2:32 |
 | 29 | [Cáscara de Coco](https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP) | [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [La Sustancia X](https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3) | 2:56 |
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 59 | [Cara de Gitana](https://open.spotify.com/track/2xrpeQqyVNARu5ojQNSF6U) | [Julieta Laso](https://open.spotify.com/artist/3mrFrZjfujaOttNRpDD4Vk) | [La Caldera](https://open.spotify.com/album/4JjADR0Plz1NsDzxud6sgg) | 3:36 |
 | 60 | [Tírame al fondo del mar](https://open.spotify.com/track/0rTdWwgFymyWztg0yctfLG) | [Francisco Victoria](https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv) | [Herida](https://open.spotify.com/album/3EjIOQ9uPmQtxXW1mGOhNq) | 3:27 |
 | 61 | [Unx de nosotrxs \(feat\. Javiera Mena\)](https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA) | [Alex Anwandter](https://open.spotify.com/artist/0M8uC0u1YRUGCieOKmQF02), [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [Uno de nosotros \(feat\. Javiera Mena\)](https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3) | 4:09 |
-| 62 | [Rápido](https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Rápido](https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW) | 2:58 |
-| 63 | [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 |
+| 62 | [OJALA](https://open.spotify.com/track/3yd7sPPW1X7jYBlyuN6QKd) | [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf) | [OJALA](https://open.spotify.com/album/3Ux3Zepw6rUNYiXh1n1m0v) | 3:38 |
+| 63 | [Rápido](https://open.spotify.com/track/46lrrpzKWQJEHfHXBnvmsG) | [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy), [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Rápido](https://open.spotify.com/album/5D5Zoqq42Eg8OSFUlQsDoW) | 2:58 |
 | 64 | [La Noche](https://open.spotify.com/track/16N0HPDPu4xw42JrhY5gJn) | [La Divaza](https://open.spotify.com/artist/2BYegEOEQj3G3x6ltkFkZM) | [La Noche](https://open.spotify.com/album/3mcb8IqvIWkCpvp3XNFIiU) | 2:43 |
 | 65 | [Fue](https://open.spotify.com/track/4NmkoTBB02LmKn8GdvOLUN) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [TORQUE: Vol\. 1](https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne) | 2:51 |
 | 66 | [Mojados](https://open.spotify.com/track/2x22qkx1iSxPd1FTdAyTv9) | [Willie Gomez](https://open.spotify.com/artist/0mj8A2Ovy8vOeLtzqrv8At) | [Del Cibao](https://open.spotify.com/album/0JGtdSzzQENX8urajcYIqG) | 3:15 |
@@ -78,10 +78,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lenzaqw2vs.md) - [plain]
 | 68 | [Nobody Got It](https://open.spotify.com/track/293nM34kJhiIYvbmImGSLE) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [Nobody Got It](https://open.spotify.com/album/1ueqJ9lm4y5BbplViMloue) | 2:48 |
 | 69 | [Paradise](https://open.spotify.com/track/4W8k1VqecfTy4nOaHPc4cY) | [Valentina Moretti](https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS) | [Paradise](https://open.spotify.com/album/3SYPjBFJeTW2sb4kMPQk6O) | 3:16 |
 | 70 | [Brillo](https://open.spotify.com/track/6AiM0XGlc0R03v2Z1wlTWn) | [Niña Dioz](https://open.spotify.com/artist/7G4N4GY4l0qHm1yflRvsQ0) | [Amor, Locura & Otros Vicios](https://open.spotify.com/album/3RM6JchSNTtRsZ8Do0iWRD) | 2:50 |
-| 71 | [Universo](https://open.spotify.com/track/3jEB4jnVr3ExApgjlPI21c) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Universo](https://open.spotify.com/album/3cW83FmkNbfV2vUBF0teDH) | 3:15 |
-| 72 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
-| 73 | [NO ERA MÍA](https://open.spotify.com/track/2TzShbXQsmzGbAwa56WcEN) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [NO ERA MÍA](https://open.spotify.com/album/5cJ8XKtyyYo6lOeSc0UTIT) | 3:13 |
-| 74 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |
+| 71 | [Prada](https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [Kick](https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL) | 2:43 |
+| 72 | [Universo](https://open.spotify.com/track/3jEB4jnVr3ExApgjlPI21c) | [Ana Macho](https://open.spotify.com/artist/6LpPPlGAVJAaNqsp8n4vyu) | [Universo](https://open.spotify.com/album/3cW83FmkNbfV2vUBF0teDH) | 3:15 |
+| 73 | [La isla de Lesbos](https://open.spotify.com/track/4lAHrUyPkXB19777s2tBNR) | [Javiera Mena](https://open.spotify.com/artist/6c0qylj1D1gqcUUN2P8Ofp) | [La isla de Lesbos](https://open.spotify.com/album/41Q1mE9hPIXOPuKJlB15FO) | 3:09 |
+| 74 | [NO ERA MÍA](https://open.spotify.com/track/2TzShbXQsmzGbAwa56WcEN) | [Hugo D Almonte](https://open.spotify.com/artist/4cJdMWi5D3uJC93mePpJAP) | [NO ERA MÍA](https://open.spotify.com/album/5cJ8XKtyyYo6lOeSc0UTIT) | 3:13 |
 | 75 | [Bailemos en la Sala](https://open.spotify.com/track/570Ct7gYSSC3bXiNkSFryX) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Bailemos en la Sala](https://open.spotify.com/album/1AGFRwoIQhzXjkxAVEMn2W) | 4:04 |
 
-Snapshot ID: `MCxhNTUyY2M4ZGFmN2ZjNzYwZjNjMmMyZGZhZDMxMzE3MmUwZDM1MWNm`
+Snapshot ID: `MCwyMDExMzk0OTc4NTgwNmIyODg5YjUwM2M1YWQwN2Q1NmIxNmJmNTIw`

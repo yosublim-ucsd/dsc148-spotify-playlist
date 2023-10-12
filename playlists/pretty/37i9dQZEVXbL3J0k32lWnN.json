@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 204711,
+  "num_followers": 204741,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUwMzAyNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUwMzg4ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "Skarpt Lys",
         "url": "https://open.spotify.com/album/6ukNPtoxvCSYiayGIcDi0y"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/66K8nCovQPjJLs11RAqdnl"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "I KNOW",
         "url": "https://open.spotify.com/album/5DjM5MJoima73xcyXJ1mkG"
@@ -57,7 +57,7 @@
       "url": "https://open.spotify.com/track/3aQzeklWllLWZSH4xk7Udj"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "Tak For Sidst",
         "url": "https://open.spotify.com/album/0rvZGDpA6Gw8s4dT3xRnpi"
@@ -73,7 +73,7 @@
       "url": "https://open.spotify.com/track/5cNxyZy9r5f8m2L7it8ZtB"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -113,23 +113,7 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "2 Kanoner",
-        "url": "https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p"
-      },
-      "artists": [
-        {
-          "name": "Merro8",
-          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
-        }
-      ],
-      "duration_ms": 160615,
-      "name": "2 Kanoner",
-      "url": "https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "Je Ka Jo",
         "url": "https://open.spotify.com/album/29OCZ1A2FbLNBvoDrlEUf0"
@@ -145,7 +129,23 @@
       "url": "https://open.spotify.com/track/0GFJI3tJuE9S3su4H8Co2G"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "2 Kanoner",
+        "url": "https://open.spotify.com/album/1OkJRJq4oFJgzaCOIcA04p"
+      },
+      "artists": [
+        {
+          "name": "Merro8",
+          "url": "https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc"
+        }
+      ],
+      "duration_ms": 160615,
+      "name": "2 Kanoner",
+      "url": "https://open.spotify.com/track/19Lap3pvucrN4aEBmmBZRn"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "Jeg Ka' Rigtig Godt Li' Dig (feat. andreas odbjerg)",
         "url": "https://open.spotify.com/album/0tbu70Bb9VJQNW2tE5OVqt"
@@ -165,23 +165,7 @@
       "url": "https://open.spotify.com/track/6P8HH4mh0jmGlOhHwAkY5o"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "F'social angst",
-        "url": "https://open.spotify.com/album/3QvGgmqvtMJbyxph9GuJzp"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        }
-      ],
-      "duration_ms": 244488,
-      "name": "F'social angst",
-      "url": "https://open.spotify.com/track/2u6qnTEIn0jemEwJJW147m"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
@@ -197,7 +181,7 @@
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
@@ -213,7 +197,23 @@
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "F'social angst",
+        "url": "https://open.spotify.com/album/3QvGgmqvtMJbyxph9GuJzp"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "duration_ms": 244488,
+      "name": "F'social angst",
+      "url": "https://open.spotify.com/track/2u6qnTEIn0jemEwJJW147m"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "Dansktop",
         "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
@@ -229,7 +229,7 @@
       "url": "https://open.spotify.com/track/5dNSfOZb6AlEF0Xg6C970o"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "nu hvor vi er her",
         "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
@@ -249,7 +249,7 @@
       "url": "https://open.spotify.com/track/5yiJTfrtlzDsVMDshFLUna"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "Et Sted Herude",
         "url": "https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "EV1GT&ALT1D",
         "url": "https://open.spotify.com/album/3UVJZlYJYkYTxAruSZGecw"
@@ -281,23 +281,7 @@
       "url": "https://open.spotify.com/track/3neYAjvKDOfvBUpIgReOkC"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 251094,
-      "name": "Virginia Beach",
-      "url": "https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "F\u00f8les Godt",
         "url": "https://open.spotify.com/album/4qe6zKD6u4d4PdmjKqq0bX"
@@ -317,27 +301,7 @@
       "url": "https://open.spotify.com/track/6OSHB3gKDyYTNNmCiOlpIc"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 247444,
-      "name": "First Person Shooter (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "Tilf\u00e6ldigt (feat. D1MA)",
         "url": "https://open.spotify.com/album/3Ngfa3iuBjLSwMdFE4m2ac"
@@ -357,7 +321,39 @@
       "url": "https://open.spotify.com/track/1F1I56Ye8w74inE5krVYF9"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "Som Forleden",
+        "url": "https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd"
+      },
+      "artists": [
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "duration_ms": 161841,
+      "name": "Som Forleden",
+      "url": "https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 251094,
+      "name": "Virginia Beach",
+      "url": "https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -377,23 +373,7 @@
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "Som Forleden",
-        "url": "https://open.spotify.com/album/4Oofku7QyqBO8OlQxyvrnd"
-      },
-      "artists": [
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 161841,
-      "name": "Som Forleden",
-      "url": "https://open.spotify.com/track/4hI2NaagyNj7N5kS9M9vVh"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -413,7 +393,27 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 247444,
+      "name": "First Person Shooter (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "TILLYKKE",
         "url": "https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg"
@@ -433,43 +433,7 @@
       "url": "https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 133694,
-      "name": "Gently (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "Vi 1",
-        "url": "https://open.spotify.com/album/5gcqWehKcOuiyVSjk3D1k8"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        }
-      ],
-      "duration_ms": 169599,
-      "name": "Vi 1",
-      "url": "https://open.spotify.com/track/3ZsAluSu04Fd3LVZzLtv2B"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "nu hvor vi er her",
         "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
@@ -493,7 +457,7 @@
       "url": "https://open.spotify.com/track/1QYu15XcUvIzbniUykHudF"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "nu hvor vi er her",
         "url": "https://open.spotify.com/album/4V23js9gaPVRSmhcSSb0lc"
@@ -513,10 +477,10 @@
       "url": "https://open.spotify.com/track/4uD38j8IHpg5g8LFOlV1XV"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
-        "name": "BENZIN ILD ' GLASSK\u00c5R",
-        "url": "https://open.spotify.com/album/76OMFhPwb87l1b2F4iX1UJ"
+        "name": "Vi 1",
+        "url": "https://open.spotify.com/album/5gcqWehKcOuiyVSjk3D1k8"
       },
       "artists": [
         {
@@ -524,48 +488,12 @@
           "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
         }
       ],
-      "duration_ms": 182868,
-      "name": "BENZIN ILD ' GLASSK\u00c5R",
-      "url": "https://open.spotify.com/track/6uamUi6hLfIZm30g9TcQ6p"
+      "duration_ms": 169599,
+      "name": "Vi 1",
+      "url": "https://open.spotify.com/track/3ZsAluSu04Fd3LVZzLtv2B"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 310490,
-      "name": "Slime You Out (feat. SZA)",
-      "url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "Tessas H\u00e6vn (Igen Bitch)",
-        "url": "https://open.spotify.com/album/0fpVZ3AwZeu6EWKuYB1ZEZ"
-      },
-      "artists": [
-        {
-          "name": "Tessa",
-          "url": "https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J"
-        }
-      ],
-      "duration_ms": 136218,
-      "name": "Hvor Som Helst",
-      "url": "https://open.spotify.com/track/6bJJTDQthQY85h4W1l0vad"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "DR\u00d8M MIG V\u00c6K",
         "url": "https://open.spotify.com/album/1wE1xAHZTJwQGRTJZnQouA"
@@ -581,7 +509,23 @@
       "url": "https://open.spotify.com/track/5fS3B6lae85C2rA8jPfoE2"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "Si No Est\u00e1s",
+        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
+      },
+      "artists": [
+        {
+          "name": "i\u00f1igo quintero",
+          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
+        }
+      ],
+      "duration_ms": 184061,
+      "name": "Si No Est\u00e1s",
+      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "Jumeirah",
         "url": "https://open.spotify.com/album/6QlAljhTljlTtzuPEDzBCm"
@@ -601,7 +545,39 @@
       "url": "https://open.spotify.com/track/38xttLsyfUwd284fbNjymm"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "Tessas H\u00e6vn (Igen Bitch)",
+        "url": "https://open.spotify.com/album/0fpVZ3AwZeu6EWKuYB1ZEZ"
+      },
+      "artists": [
+        {
+          "name": "Tessa",
+          "url": "https://open.spotify.com/artist/3pJK3CUpbnyX7ogDfAwa9J"
+        }
+      ],
+      "duration_ms": 136218,
+      "name": "Hvor Som Helst",
+      "url": "https://open.spotify.com/track/6bJJTDQthQY85h4W1l0vad"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "BENZIN ILD ' GLASSK\u00c5R",
+        "url": "https://open.spotify.com/album/76OMFhPwb87l1b2F4iX1UJ"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "duration_ms": 182868,
+      "name": "BENZIN ILD ' GLASSK\u00c5R",
+      "url": "https://open.spotify.com/track/6uamUi6hLfIZm30g9TcQ6p"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "KNUSTE HJERTER HELER ALDRIG",
         "url": "https://open.spotify.com/album/71gvf2GimSHvbzVO5B4uYd"
@@ -617,7 +593,27 @@
       "url": "https://open.spotify.com/track/4utLwWSxHMamLd9siyFv5Q"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 133694,
+      "name": "Gently (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "smugryger",
         "url": "https://open.spotify.com/album/6asmVS16E8HIedmaS0QAOz"
@@ -633,7 +629,7 @@
       "url": "https://open.spotify.com/track/0Mo3Jmq9uU1QJyhZu4DkR5"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "N\u00e5r sj\u00e6len kaster op",
         "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
@@ -653,7 +649,59 @@
       "url": "https://open.spotify.com/track/0BGEImCBesJKIm5kZ0fOkH"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "10% mere",
+        "url": "https://open.spotify.com/album/7bKvrsUOEPtTCwBH3AxslE"
+      },
+      "artists": [
+        {
+          "name": "TopGunn",
+          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+        }
+      ],
+      "duration_ms": 109462,
+      "name": "10% mere",
+      "url": "https://open.spotify.com/track/6OpqjaayXiYMijD5HYDEE9"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 310490,
+      "name": "Slime You Out (feat. SZA)",
+      "url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "N\u00e5r sj\u00e6len kaster op",
+        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
+      },
+      "artists": [
+        {
+          "name": "Tobias Rahim",
+          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
+        }
+      ],
+      "duration_ms": 198659,
+      "name": "Flyvende Faduma",
+      "url": "https://open.spotify.com/track/4EKSw9Jzun2WFvjm2HU58X"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -677,75 +725,7 @@
       "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 285630,
-      "name": "Calling For You (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2nibvvDdAQkVraYP00z2RS"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 164142,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/4ZT0wGKwlJRjpMUuwZVy3p"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "Si No Est\u00e1s",
-        "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
-      },
-      "artists": [
-        {
-          "name": "i\u00f1igo quintero",
-          "url": "https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm"
-        }
-      ],
-      "duration_ms": 184061,
-      "name": "Si No Est\u00e1s",
-      "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "10% mere",
-        "url": "https://open.spotify.com/album/7bKvrsUOEPtTCwBH3AxslE"
-      },
-      "artists": [
-        {
-          "name": "TopGunn",
-          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
-        }
-      ],
-      "duration_ms": 109462,
-      "name": "10% mere",
-      "url": "https://open.spotify.com/track/6OpqjaayXiYMijD5HYDEE9"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
@@ -761,39 +741,7 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "N\u00e5r sj\u00e6len kaster op",
-        "url": "https://open.spotify.com/album/40mMNrTODUEEEd7JNsNd3A"
-      },
-      "artists": [
-        {
-          "name": "Tobias Rahim",
-          "url": "https://open.spotify.com/artist/1w2fVGZN37TieWhlqS8UwB"
-        }
-      ],
-      "duration_ms": 198659,
-      "name": "Flyvende Faduma",
-      "url": "https://open.spotify.com/track/4EKSw9Jzun2WFvjm2HU58X"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 155154,
-      "name": "Fear Of Heights",
-      "url": "https://open.spotify.com/track/53KaP77tkliz36LPxWGlWK"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
         "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
@@ -809,43 +757,7 @@
       "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "Suave World",
-        "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        },
-        {
-          "name": "Saveus",
-          "url": "https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt"
-        }
-      ],
-      "duration_ms": 156136,
-      "name": "Verden V\u00e5gner (feat. Saveus)",
-      "url": "https://open.spotify.com/track/2rfl7SRwfel3gNhXBmL60u"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 266847,
-      "name": "8am in Charlotte",
-      "url": "https://open.spotify.com/track/0w3Mfe4PIVjuFjJbe3OlYv"
-    },
-    {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "Under Radar",
         "url": "https://open.spotify.com/album/5e09iR2DufFRiMK8JmTlNu"
@@ -873,7 +785,59 @@
       "url": "https://open.spotify.com/track/18jOIUboPPzwu84t9GlUKu"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "Suave World",
+        "url": "https://open.spotify.com/album/5o6WmbOiVlhOiq0mC5phOz"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Saveus",
+          "url": "https://open.spotify.com/artist/2rR0cafJvL0JVTC8E2qIqt"
+        }
+      ],
+      "duration_ms": 156136,
+      "name": "Verden V\u00e5gner (feat. Saveus)",
+      "url": "https://open.spotify.com/track/2rfl7SRwfel3gNhXBmL60u"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "Terrier",
+        "url": "https://open.spotify.com/album/2TXMIcatm8FcW2xSsASPMO"
+      },
+      "artists": [
+        {
+          "name": "Ida Laurberg",
+          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Terrier",
+      "url": "https://open.spotify.com/track/6ImP4OQ986Bed0EL3XOlFo"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
       "album": {
         "name": "D\u00d8DINDENI",
         "url": "https://open.spotify.com/album/79wlho5i8loOvZEpsCxAHu"
@@ -889,20 +853,60 @@
       "url": "https://open.spotify.com/track/48s2ywFmPi9EJOv76TDiHO"
     },
     {
-      "added_at": "2023-10-10 08:50:23",
+      "added_at": "2023-10-11 09:25:04",
       "album": {
-        "name": "Terrier",
-        "url": "https://open.spotify.com/album/2TXMIcatm8FcW2xSsASPMO"
+        "name": "Kronisk Skeptisk",
+        "url": "https://open.spotify.com/album/16KVHmbWyMK7mkh53btVe2"
       },
       "artists": [
         {
-          "name": "Ida Laurberg",
-          "url": "https://open.spotify.com/artist/03IbEiokQjTDfvdyIYV5D4"
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
         }
       ],
-      "duration_ms": 200500,
-      "name": "Terrier",
-      "url": "https://open.spotify.com/track/6ImP4OQ986Bed0EL3XOlFo"
+      "duration_ms": 140089,
+      "name": "Gode Dage, Gode Drinks",
+      "url": "https://open.spotify.com/track/63Dymm6U4WHLRy87e8GBbo"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "Popular (Music from the HBO Original Series)",
+        "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 215466,
+      "name": "Popular (with Playboi Carti & Madonna) - Music from the HBO Original Series",
+      "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
+    },
+    {
+      "added_at": "2023-10-11 09:25:04",
+      "album": {
+        "name": "For Altid",
+        "url": "https://open.spotify.com/album/51xzjew4vgdxS6bkVVfC7X"
+      },
+      "artists": [
+        {
+          "name": "TopGunn",
+          "url": "https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5"
+        }
+      ],
+      "duration_ms": 143450,
+      "name": "For Altid",
+      "url": "https://open.spotify.com/track/0twnZu2JhBywPQBOX92gSl"
     }
   ],
   "unique_name": "Top 50 - Denmark",

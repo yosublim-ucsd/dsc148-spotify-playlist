@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 
 > Upbeat Latin songs to keep your heart rate up.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,394,309 likes - 100 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,393,930 likes - 100 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 70 | [TAMO EN NOTA](https://open.spotify.com/track/2I0aHZjCXh6UjMHIOqugYF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI) | [TAMO EN NOTA](https://open.spotify.com/album/2nMe3lptQDUXDsjIyUcnON) | 3:00 |
 | 71 | [Mojando Asientos \(feat\. Feid\)](https://open.spotify.com/track/6lV9cTvioGWqRXSgfjAUGL) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [The Love & Sex Tape](https://open.spotify.com/album/1CppHlux7Tg0ZUhWEaUudh) | 4:12 |
 | 72 | [AM](https://open.spotify.com/track/2dNhNlpZAtV4lwAFW45LIv) | [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0), [Flow La Movie](https://open.spotify.com/artist/2oT7xd9iTO2ejLsNGIMa5f) | [AM](https://open.spotify.com/album/3dGUvydBX9qhg2YBMsVope) | 3:02 |
-| 73 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 |
-| 74 | [FULANITO](https://open.spotify.com/track/3CIl8hlnMcULSIIhUMmB1Z) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:38 |
+| 73 | [FULANITO](https://open.spotify.com/track/3CIl8hlnMcULSIIhUMmB1Z) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 2:38 |
+| 74 | [Berlin](https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Berlin](https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa) | 4:06 |
 | 75 | [ULALA \(OOH LA LA\)](https://open.spotify.com/track/4EQOGfssbSpTlV6EZRtrSv) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [ULALA \(OOH LA LA\)](https://open.spotify.com/album/2Q5KWXl6UAl8HLkJLXnEwP) | 3:08 |
 | 76 | [COMO UN BEBÉ](https://open.spotify.com/track/7knLcYCOSaURD0d7HUULFM) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [OASIS](https://open.spotify.com/album/6ylFfzx32ICw4L1A7YWNLN) | 3:38 |
 | 77 | [Si No Le Contesto](https://open.spotify.com/track/560GL9Y8gDtKPRIJ41oA3c) | [Plan B](https://open.spotify.com/artist/2jSGzJw0ebJLu7OLVSOcBP) | [House Of Pleasure](https://open.spotify.com/album/0qmyud8qe8LqaVQ1YQ7S5G) | 3:40 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmQEAjlxGhi.md) - [plain]
 | 99 | [Luces De Neón](https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Luces De Neón](https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS) | 3:39 |
 | 100 | [Mi Gata \- Remix](https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx) | [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [El Barto](https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Mi Gata \(Remix\)](https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE) | 4:06 |
 
-Snapshot ID: `MCxlZTZlNTAzNjY3NDllMGYxODhmMGQxNDhlMzVjYTZkZjg5M2I4Y2Y4`
+Snapshot ID: `MCw0YTljNDE0NjZlNGRhODgyYjU3ZWJlZjA1ZTJmMTU2OTJlNTFjZDU2`

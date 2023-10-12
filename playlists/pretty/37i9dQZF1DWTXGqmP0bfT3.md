@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 
 > Need to get your energy level up? This will help!
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,432 likes - 100 songs - 6 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,588 likes - 100 songs - 6 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 52 | [Wash It All Away](https://open.spotify.com/track/5k0KjsgX1ETIAQWVBRHzq3) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [Got Your Six](https://open.spotify.com/album/77OD5Mo3PzbEsi3ySuOGb0) | 3:45 |
 | 53 | [Sweet True Lies](https://open.spotify.com/track/2cyJkqB2OYHwWWvKGtrJ0r) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [From Hell With Love](https://open.spotify.com/album/3aT1PLgA6MomsX7MMlNRHr) | 3:26 |
 | 54 | [Down for Life](https://open.spotify.com/track/3pKsUMqpVr4ZJ13Mm91Xig) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [The Gathering](https://open.spotify.com/album/0dYgfOuAerUldWRodoOR6J) | 3:23 |
-| 55 | [Army of the Night](https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blessed & Possessed](https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm) | 3:21 |
-| 56 | [I Only Wanna Be With You](https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Strength / The Sound / The Songs](https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5) | 2:44 |
+| 55 | [I Only Wanna Be With You](https://open.spotify.com/track/2MAJJJu89ogKPctelr3F7f) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [The Strength / The Sound / The Songs](https://open.spotify.com/album/3jg1rZalHpRBBUmpNmRwI5) | 2:44 |
+| 56 | [Army of the Night](https://open.spotify.com/track/6vQT1Y3MTGCpc31VIF5Ela) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blessed & Possessed](https://open.spotify.com/album/3Mm2pcqW8ZGdl4aKJi4ocm) | 3:21 |
 | 57 | [Nightmare](https://open.spotify.com/track/0jrOt6XnOTeZOd56U16Bfp) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Fatalism](https://open.spotify.com/album/6yMmUKkAfVoHJT71ZpoBi5) | 4:28 |
 | 58 | [You Want a Battle? \(Here's a War\)](https://open.spotify.com/track/1KCAEG6JcsTzi8ddZzs0nk) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [Venom \(Deluxe Edition\)](https://open.spotify.com/album/1YjxZhd158jSm2906JqzXF) | 4:14 |
 | 59 | [Blinded](https://open.spotify.com/track/2HdjEa5BP2VACt1velDTIk) | [As I Lay Dying](https://open.spotify.com/artist/2vd2HnNh4pdYa9gDVHFjEu) | [Shaped by Fire](https://open.spotify.com/album/2xgPEwRkAOzsSrNHBx64Ww) | 3:22 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 66 | [Wake The Dead](https://open.spotify.com/track/7cLEpyYMAgQh3x0oX6scp3) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9) | [Wake The Dead](https://open.spotify.com/album/50NFxpSSYkfxIIrd6RX7Lu) | 3:07 |
 | 67 | [Strife](https://open.spotify.com/track/15zUfY9L1p7bN9JsgaTAP0) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:29 |
 | 68 | [Prophecy of Ragnarök](https://open.spotify.com/track/4kpWVGdFjBSoCkIcHVlTqn) | [Brothers of Metal](https://open.spotify.com/artist/0WPCPYm5IDNtQjuJOGNPcy) | [Prophecy of Ragnarök](https://open.spotify.com/album/3hkZ5FWUJ23YKAMotqbTm0) | 3:42 |
-| 69 | [In Due Time](https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Disarm the Descent \(Special Edition\)](https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD) | 3:17 |
-| 70 | [Lift Me Up](https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i) | 4:06 |
+| 69 | [Lift Me Up](https://open.spotify.com/track/0kojHHbvGRsukpU78OBfQY) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/5z9Z5Hg2LGKVS11njgfI3i) | 4:06 |
+| 70 | [In Due Time](https://open.spotify.com/track/1HlOGL1p6wlpOZatJ2NwFk) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [Disarm the Descent \(Special Edition\)](https://open.spotify.com/album/5I6bH0UaVR4LnKmVUWDZoD) | 3:17 |
 | 71 | [Becoming](https://open.spotify.com/track/0t7DV1EAMVC6y3LpW6IuLk) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Servant Of The Mind \(Deluxe\)](https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP) | 4:13 |
 | 72 | [Sanctified with Dynamite](https://open.spotify.com/track/2ZUUturolW3VpzXWzPEy2X) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [Blood of the Saints](https://open.spotify.com/album/1MSxQKpaZ2nPubMVQi9V3N) | 4:25 |
 | 73 | [Doomswitch](https://open.spotify.com/track/6pUUtKVRmODliJWTyY2pet) | [Make Them Suffer](https://open.spotify.com/artist/0FZcPgWI3BsFQl4rOAGSHT) | [Doomswitch](https://open.spotify.com/album/7J8x3vAHCvP4gKZUEdsLN4) | 4:35 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 87 | [Dystopia](https://open.spotify.com/track/0KiRc3f3OI9C7s0S1QjQNO) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Dystopia](https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV) | 4:59 |
 | 88 | [Brotherhood of the Snake](https://open.spotify.com/track/4VcN84ZdC7doe4yoIarJUA) | [Testament](https://open.spotify.com/artist/28hJdGN1Awf7u3ifk2lVkg) | [Brotherhood of the Snake](https://open.spotify.com/album/70oAOzrUemHFWB8VKToEtu) | 4:13 |
 | 89 | [Incense & Iron](https://open.spotify.com/track/5KDcHol0FbJZCmNivYabkJ) | [Powerwolf](https://open.spotify.com/artist/5HFkc3t0HYETL4JeEbDB1v) | [The Sacrament of Sin](https://open.spotify.com/album/2t3dociTSaDTmqIlN21rmC) | 3:57 |
-| 90 | [Wasted Years \- 2015 Remaster](https://open.spotify.com/track/2V0T2LS0pf2r3EFpOEkZFO) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere in Time \(2015 \- Remaster\)](https://open.spotify.com/album/2O3sMtk9Zy2RxocOURUFhr) | 5:09 |
-| 91 | [Mama Said Knock You Out](https://open.spotify.com/track/0hpTN7rjsTGbfiafU3fEq7) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7) | 2:47 |
+| 90 | [Mama Said Knock You Out](https://open.spotify.com/track/0hpTN7rjsTGbfiafU3fEq7) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM), [Tech N9ne](https://open.spotify.com/artist/6UBA15slIuadJ8h2lPRPos) | [The Wrong Side of Heaven and the Righteous Side of Hell, Vol\. 1](https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7) | 2:47 |
+| 91 | [Wasted Years \- 2015 Remaster](https://open.spotify.com/track/2V0T2LS0pf2r3EFpOEkZFO) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Somewhere in Time \(2015 \- Remaster\)](https://open.spotify.com/album/2O3sMtk9Zy2RxocOURUFhr) | 5:09 |
 | 92 | [Memento Mori](https://open.spotify.com/track/1flcnqrtVKsluQXLEPfGJW) | [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [Lamb of God](https://open.spotify.com/album/7FEBQOq6SXl4CsqR6wTTGy) | 5:48 |
 | 93 | [From The Pinnacle To The Pit](https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Meliora](https://open.spotify.com/album/74QTwjBLo1eLqpjL320rXX) | 4:02 |
 | 94 | [Shadows Inside](https://open.spotify.com/track/0uyvc0R0wJ6Fu3E01UtlzJ) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Shadows Inside](https://open.spotify.com/album/6Qk4RAKoWQbO7ptwqctxgi) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTXGqmP0bfT3.md) - [plain]
 | 99 | [The Sin and the Sentence](https://open.spotify.com/track/6156ZPGcezId0Bmw7x7c7K) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [The Sin and the Sentence](https://open.spotify.com/album/3qq44o8Qqvz5JQ7b5AevLT) | 5:49 |
 | 100 | [Angus Mcfife](https://open.spotify.com/track/1jSQRvpQYPcIKt67fc5Npv) | [Gloryhammer](https://open.spotify.com/artist/7dkEByOe0oHqc54qU4hwzV) | [Tales from the Kingdom of Fife](https://open.spotify.com/album/0jFgXktWjw4NYC7D77YYYE) | 3:28 |
 
-Snapshot ID: `MCw4N2QyYTA3YzcyMTdmZWE0YzgwZjE5Y2JjODE0MTA0YWY2ZTFjYTll`
+Snapshot ID: `MCwxMTU0OTVlNDM0YTdiYmM4M2RiZGYyZjc4MWEwOGNiNjBiNzhiMGU3`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 
 > Tracks para inspirar tu ofni perfecto 🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,576 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,583 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,11 +35,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 | 25 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 |
 | 26 | [No digas nada](https://open.spotify.com/track/24lqVtYdnA1NhYd37XFOPb) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [No digas nada](https://open.spotify.com/album/2g2B9rwO0VmWNKrdpeAmf3) | 3:42 |
 | 27 | [Never Felt So Alone](https://open.spotify.com/track/2NbsBSshscKIPRG3kwBbfo) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Never Felt So Alone](https://open.spotify.com/album/33JqWTchq6piiQddrRIvJX) | 2:40 |
-| 28 | [Mastermind](https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:11 |
-| 29 | [Otra Noche en Miami](https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:53 |
+| 28 | [Otra Noche en Miami](https://open.spotify.com/track/4vCAzANUWDE24URV6wQ4ra) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [X 100PRE](https://open.spotify.com/album/7CjJb2mikwAWA1V6kewFBF) | 3:53 |
+| 29 | [Mastermind](https://open.spotify.com/track/7FmYn9e7KHMXcxqGSj9LjH) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 3:11 |
 | 30 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 |
-| 31 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 |
-| 32 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 |
+| 31 | [Tacones Rojos](https://open.spotify.com/track/0Be7sopyKMv8Y8npsUkax2) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Tacones Rojos](https://open.spotify.com/album/4mdWMx4VouAqsIqgLt3R6S) | 3:09 |
+| 32 | [Jagger.mp3](https://open.spotify.com/track/2iNmegOcdmt4peYrh9S8qI) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Jagger.mp3](https://open.spotify.com/album/6Ti9115Odt4vwKJTCdG5WN) | 2:35 |
 | 33 | [Sex, Drugs, Etc\. \- Sped Up Version](https://open.spotify.com/track/6SWVr6T3yQS6gZ9gQHrr2b) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Sex, Drugs, Etc\. \(Sped Up Version\)](https://open.spotify.com/album/4NyrvOITu55ZfyN2MzQ2mb) | 2:56 |
 | 34 | [Se fue la luz](https://open.spotify.com/track/4eYhZcJRzRZLGFp7EupTEE) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3) | [Se fue la luz](https://open.spotify.com/album/2qR1JnuuOc6xl48pE9elFb) | 3:32 |
 | 35 | [You Know I'm No Good](https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black \(Deluxe Edition\)](https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 | 49 | [Rosa Pastel](https://open.spotify.com/track/5JAQUTIpKkbccoFiJlYrV0) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Rosa Pastel](https://open.spotify.com/album/3iwukaTIs0irnTqui1vtnk) | 2:56 |
 | 50 | [Cerquita Mío](https://open.spotify.com/track/5014FaQ0AiVT8C87ppM07f) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [No Me Busques Donde Mismo](https://open.spotify.com/album/41NSpGcHqZPzrGqOOnxyHk) | 3:53 |
 
-Snapshot ID: `MCxmNTlhMTBlZDBiNTIxMDY5ODE5YjBhZjM1ODZmMjQ4YjYzYzA2MDI1`
+Snapshot ID: `MCxiM2VlMzVlYzBjODE0Nzc2ZTkwMDQ2MmJhZjJkMDlhZWNiMjQ1MTM0`

@@ -1,12 +1,12 @@
 {
   "description": "Where swing meets blues.",
-  "num_followers": 44604,
+  "num_followers": 44635,
   "original_name": "Jump Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjA1ZWQ1ODRkNDk5ZGU2YmNiYjE3NDM0MWFmODdmYWQ4NzgyMDg0",
+  "snapshot_id": "MCw4MzMzMDQwNmRmNzI2ZjBiYzYwMDQyZDhmN2I5NTE4ZjNlZDc2Y2Vi",
   "tracks": [
     {
       "added_at": "2022-03-28 19:44:25",
@@ -511,18 +511,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Joe Williams' Finest Hour",
-        "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
+        "name": "Count Basie Swings - Joe Williams Sings",
+        "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
       },
       "artists": [
+        {
+          "name": "Count Basie",
+          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
+        },
         {
           "name": "Joe Williams",
           "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
         }
       ],
-      "duration_ms": 371893,
-      "name": "Is You Is Or Is You Ain't My Baby",
-      "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
+      "duration_ms": 190706,
+      "name": "Roll 'Em Pete",
+      "url": "https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -543,22 +547,18 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Count Basie Swings - Joe Williams Sings",
-        "url": "https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5"
+        "name": "Joe Williams' Finest Hour",
+        "url": "https://open.spotify.com/album/70KmX46g0Cy8aMiwvYLhjq"
       },
       "artists": [
-        {
-          "name": "Count Basie",
-          "url": "https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA"
-        },
         {
           "name": "Joe Williams",
           "url": "https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL"
         }
       ],
-      "duration_ms": 190706,
-      "name": "Roll 'Em Pete",
-      "url": "https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR"
+      "duration_ms": 371893,
+      "name": "Is You Is Or Is You Ain't My Baby",
+      "url": "https://open.spotify.com/track/0M0r27mFU32BoLGliqLMm8"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -627,22 +627,6 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
-        "name": "Shorty",
-        "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
-      },
-      "artists": [
-        {
-          "name": "Vernon Dilworth",
-          "url": "https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n"
-        }
-      ],
-      "duration_ms": 159493,
-      "name": "Who Said Shorty Wasn't Coming Back - Lucky Millinder",
-      "url": "https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
         "name": "The Humphrey Lyttelton Big Band with Jimmy Rushing",
         "url": "https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 116933,
       "name": "Mr. Five By Five",
       "url": "https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
+        "name": "Shorty",
+        "url": "https://open.spotify.com/album/5bxjj3N3oq4Ou5uTgfzXZ3"
+      },
+      "artists": [
+        {
+          "name": "Vernon Dilworth",
+          "url": "https://open.spotify.com/artist/0WgOtKOQ7BkDAMR7azqX1n"
+        }
+      ],
+      "duration_ms": 159493,
+      "name": "Who Said Shorty Wasn't Coming Back - Lucky Millinder",
+      "url": "https://open.spotify.com/track/5HpZRWDP8738mEl6OTZvfF"
     },
     {
       "added_at": "2022-03-28 19:44:25",
@@ -731,6 +731,22 @@
     {
       "added_at": "2022-03-28 19:44:25",
       "album": {
+        "name": "Jump Blue: Rockin' The Jukes",
+        "url": "https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk"
+      },
+      "artists": [
+        {
+          "name": "Big 'T' Tyler",
+          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
+        }
+      ],
+      "duration_ms": 124333,
+      "name": "King Kong",
+      "url": "https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w"
+    },
+    {
+      "added_at": "2022-03-28 19:44:25",
+      "album": {
         "name": "Rock And Roll - The Essential Collection",
         "url": "https://open.spotify.com/album/2qv8092Q2VE2A838CYfW6q"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 159533,
       "name": "Skeet's California Sunshine",
       "url": "https://open.spotify.com/track/2ewbTqjVof485O4tVrNXsd"
-    },
-    {
-      "added_at": "2022-03-28 19:44:25",
-      "album": {
-        "name": "Jump Blue: Rockin' The Jukes",
-        "url": "https://open.spotify.com/album/5IYJY3LB4L1HDrgaA895kk"
-      },
-      "artists": [
-        {
-          "name": "Big 'T' Tyler",
-          "url": "https://open.spotify.com/artist/3tPcYagyW1P5eV46xefSfa"
-        }
-      ],
-      "duration_ms": 124333,
-      "name": "King Kong",
-      "url": "https://open.spotify.com/track/6MVlUVsSUZe5nAWSDofU8w"
     },
     {
       "added_at": "2022-03-28 19:44:25",

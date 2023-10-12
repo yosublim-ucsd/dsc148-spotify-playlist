@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 313469,
+  "num_followers": 313483,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NzEwZmEyODU4MWI3MjRlNjQzN2ExYWEwZDZiMjBmY2UwNDUwN2Qw",
+  "snapshot_id": "MCwwZGM2YTJjMDkwOGIyNTNjYTJhYzdhYzFlMDBiNWJhNjcyN2UzNDVl",
   "tracks": [
     {
       "added_at": "2023-10-10 06:45:55",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-10-10 06:45:55",
       "album": {
-        "name": "Con Cierto Aire a Ti",
-        "url": "https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA"
-      },
-      "artists": [
-        {
-          "name": "Fernando Delgadillo",
-          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
-        }
-      ],
-      "duration_ms": 178773,
-      "name": "Hoy Ten Miedo De Mi",
-      "url": "https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir"
-    },
-    {
-      "added_at": "2023-10-10 06:45:55",
-      "album": {
         "name": "Nada por Hecho (feat. Leiva)",
         "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 208802,
       "name": "Nada por Hecho (feat. Leiva)",
       "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
+    },
+    {
+      "added_at": "2023-10-10 06:45:55",
+      "album": {
+        "name": "Con Cierto Aire a Ti",
+        "url": "https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA"
+      },
+      "artists": [
+        {
+          "name": "Fernando Delgadillo",
+          "url": "https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc"
+        }
+      ],
+      "duration_ms": 178773,
+      "name": "Hoy Ten Miedo De Mi",
+      "url": "https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir"
     },
     {
       "added_at": "2023-10-10 06:45:55",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-10 06:45:55",
       "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 110266,
-      "name": "Aquellas Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
-    },
-    {
-      "added_at": "2023-10-10 06:45:55",
-      "album": {
         "name": "Logo",
         "url": "https://open.spotify.com/album/571r33emaklRI3YlPioelt"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 244933,
       "name": "Anoche So\u00f1\u00e9 Contigo",
       "url": "https://open.spotify.com/track/1cqlBqJC2FL38DYTXgvQIW"
+    },
+    {
+      "added_at": "2023-10-10 06:45:55",
+      "album": {
+        "name": "Mediterr\u00e1neo",
+        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        }
+      ],
+      "duration_ms": 110266,
+      "name": "Aquellas Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/0AYP9qfJJumsxSOZF3MndI"
     },
     {
       "added_at": "2023-10-10 06:45:55",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-10-10 06:45:55",
       "album": {
+        "name": "Unicornio",
+        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
+      },
+      "artists": [
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 308510,
+      "name": "Unicornio",
+      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
+    },
+    {
+      "added_at": "2023-10-10 06:45:55",
+      "album": {
         "name": "12 segundos de oscuridad",
         "url": "https://open.spotify.com/album/7CzMD65vBeWb6xRRK9iHgz"
       },
@@ -1023,22 +1039,6 @@
     {
       "added_at": "2023-10-10 06:45:55",
       "album": {
-        "name": "Unicornio",
-        "url": "https://open.spotify.com/album/26CzBExUPuHvrmXsC4HlBT"
-      },
-      "artists": [
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 308510,
-      "name": "Unicornio",
-      "url": "https://open.spotify.com/track/0lxu1Pmegx2SELobpAXzz4"
-    },
-    {
-      "added_at": "2023-10-10 06:45:55",
-      "album": {
         "name": "No soy de aqu\u00ed",
         "url": "https://open.spotify.com/album/07EmD7JlrejszTq3aGWA53"
       },
@@ -1071,22 +1071,18 @@
     {
       "added_at": "2023-10-10 06:45:55",
       "album": {
-        "name": "Grillos",
-        "url": "https://open.spotify.com/album/770PGq8q5fHHzteyBqyLgE"
+        "name": "\u00daltimo Acto",
+        "url": "https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt"
       },
       "artists": [
         {
-          "name": "Travis Birds",
-          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+          "name": "Vicentico",
+          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
         }
       ],
-      "duration_ms": 196325,
-      "name": "Grillos",
-      "url": "https://open.spotify.com/track/2zXdBlMG4D8Rkgan0I31VY"
+      "duration_ms": 206880,
+      "name": "Solo Otra Vez - Alone Again",
+      "url": "https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP"
     },
     {
       "added_at": "2023-10-10 06:45:55",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2023-10-10 06:45:55",
       "album": {
-        "name": "\u00daltimo Acto",
-        "url": "https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt"
+        "name": "Grillos",
+        "url": "https://open.spotify.com/album/770PGq8q5fHHzteyBqyLgE"
       },
       "artists": [
         {
-          "name": "Vicentico",
-          "url": "https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ"
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+        },
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
         }
       ],
-      "duration_ms": 206880,
-      "name": "Solo Otra Vez - Alone Again",
-      "url": "https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP"
+      "duration_ms": 196325,
+      "name": "Grillos",
+      "url": "https://open.spotify.com/track/2zXdBlMG4D8Rkgan0I31VY"
     },
     {
       "added_at": "2023-10-10 06:45:55",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2023-10-10 06:45:55",
       "album": {
-        "name": "Mi Chile Lindo",
-        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/29V69M5YTfCEtTAxZGqEH3"
       },
       "artists": [
         {
-          "name": "Violeta Parra",
-          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
         }
       ],
-      "duration_ms": 278040,
-      "name": "Gracias a la Vida",
-      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
+      "duration_ms": 179754,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/7HiM1RdkxnqWIoHe7lgq27"
     },
     {
       "added_at": "2023-10-10 06:45:55",
@@ -1187,6 +1187,22 @@
     {
       "added_at": "2023-10-10 06:45:55",
       "album": {
+        "name": "Mi Chile Lindo",
+        "url": "https://open.spotify.com/album/16KWkUYL6MuyJwzyO5onbl"
+      },
+      "artists": [
+        {
+          "name": "Violeta Parra",
+          "url": "https://open.spotify.com/artist/4ejp2yEDQIIJIy0iFpoI5B"
+        }
+      ],
+      "duration_ms": 278040,
+      "name": "Gracias a la Vida",
+      "url": "https://open.spotify.com/track/5U7MyRNbuZrWkyAI4bm3Ja"
+    },
+    {
+      "added_at": "2023-10-10 06:45:55",
+      "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
       },
@@ -1203,22 +1219,6 @@
       "duration_ms": 217373,
       "name": "Sinmigo",
       "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
-    },
-    {
-      "added_at": "2023-10-10 06:45:55",
-      "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/29V69M5YTfCEtTAxZGqEH3"
-      },
-      "artists": [
-        {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
-        }
-      ],
-      "duration_ms": 179754,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/7HiM1RdkxnqWIoHe7lgq27"
     },
     {
       "added_at": "2023-10-10 06:45:55",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-10-10 06:45:55",
       "album": {
-        "name": "La hora de los gigantes",
-        "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
-      },
-      "artists": [
-        {
-          "name": "Coque Malla",
-          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
-        }
-      ],
-      "duration_ms": 224413,
-      "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
-      "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
-    },
-    {
-      "added_at": "2023-10-10 06:45:55",
-      "album": {
         "name": "Miguel Hernandez",
         "url": "https://open.spotify.com/album/16CjMJTRsm3KSEgudueP2S"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 170906,
       "name": "Para la Libertad",
       "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
+    },
+    {
+      "added_at": "2023-10-10 06:45:55",
+      "album": {
+        "name": "La hora de los gigantes",
+        "url": "https://open.spotify.com/album/6U0fTUroL70nySX5heirW8"
+      },
+      "artists": [
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        }
+      ],
+      "duration_ms": 224413,
+      "name": "No puedo vivir sin ti - Versi\u00f3n Acustica",
+      "url": "https://open.spotify.com/track/0XUbxCMfZVWqCudk047CaQ"
     },
     {
       "added_at": "2023-10-10 06:45:55",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2023-10-10 06:45:55",
       "album": {
-        "name": "La Llamada",
-        "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
-      },
-      "artists": [
-        {
-          "name": "Ismael Serrano",
-          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
-        }
-      ],
-      "duration_ms": 365986,
-      "name": "Mi Problema",
-      "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
-    },
-    {
-      "added_at": "2023-10-10 06:45:55",
-      "album": {
         "name": "Algo contigo",
         "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 170000,
       "name": "Algo contigo",
       "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
+    },
+    {
+      "added_at": "2023-10-10 06:45:55",
+      "album": {
+        "name": "La Llamada",
+        "url": "https://open.spotify.com/album/4IKa51k08eP9C6MhKslZ21"
+      },
+      "artists": [
+        {
+          "name": "Ismael Serrano",
+          "url": "https://open.spotify.com/artist/4eyF2eDCunzeFykH90Ej34"
+        }
+      ],
+      "duration_ms": 365986,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/6PIRiVNVZk0vN9ZyUJTqKj"
     },
     {
       "added_at": "2023-10-10 06:45:55",

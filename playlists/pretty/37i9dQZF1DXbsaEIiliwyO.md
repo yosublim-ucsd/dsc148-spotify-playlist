@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 
 > アニメシーンで話題のロックサウンドを1つのプレイリストに。Best & new rock anthems for anime fans\. Cover:UNISON SQUARE GARDEN
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,773 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,943 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbsaEIiliwyO.md) - [plain]
 | 49 | [Under the Tree](https://open.spotify.com/track/7qKXSF8MilgyiL52oq1AA0) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [Under the Tree](https://open.spotify.com/album/7wQyvP7maIKn0uTGr66eI3) | 2:01 |
 | 50 | [Kokkisin](https://open.spotify.com/track/3xN7nR1BQt9PewgVODVuit) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [Kokkisin](https://open.spotify.com/album/5cf61jQY5LOLwPpEPXgepe) | 3:06 |
 
-Snapshot ID: `MCw1ZGU1NmQyNjU3YzY3MDM5NWMxMDI4ZmQxZjJmZjhkNTE3NTM3NmQ3`
+Snapshot ID: `MCw3NmQ0MGViNDQ3ZDM4YjY2MjRkYTY2OTBjZjYzYWMwZDE4MzQxNTNj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 
 > The best side! Cover: Nipsey Hussle
 
-[Spotify](https://open.spotify.com/user/spotify) - 767,189 likes - 50 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 767,553 likes - 50 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9sQDbOMReFI.md) - [plain]
 | 49 | [Foe Life](https://open.spotify.com/track/28SF0lKRqso9SSTDpbv991) | [Mack 10](https://open.spotify.com/artist/3USpNaxpX1iNqNnQWqg9ob), [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA) | [Mack 10](https://open.spotify.com/album/0SIJmYjQu1tjhRpZpdPyAO) | 4:13 |
 | 50 | [Nobody Does It Better](https://open.spotify.com/track/7miy73aP7NFhj8PL7V4VqM) | [Warren G](https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE), [Nate Dogg](https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h) | [G Funk Classics, Vols\. 1 & 2](https://open.spotify.com/album/65VsPlhdWF5PH1CViFskY5) | 4:34 |
 
-Snapshot ID: `MCw1ZmYyZWUxZGVmMWYzMTE1MGQ0ZjkwMTFmZGUwZjAyOTc0M2RjMDhl`
+Snapshot ID: `MCw3MzdkZDc2NzQ2ZmE0NGVhYmViYTcxZmNjNTgzMmQ1NzFlYzc3ODBm`

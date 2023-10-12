@@ -639,6 +639,24 @@
     },
     {
       "album": {
+        "name": "Barbie",
+        "url": "https://open.spotify.com/album/2YvG8ptg1hzWzX0pXA4bbg"
+      },
+      "artists": [
+        {
+          "name": "JaidynAlexis",
+          "url": "https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Barbie",
+      "url": "https://open.spotify.com/track/0wnZP5KJSJ8xmTJmmjOqwr"
+    },
+    {
+      "album": {
         "name": "Barbie Tingz",
         "url": "https://open.spotify.com/album/0cjXPqSbbBhwSJiqkoyviO"
       },

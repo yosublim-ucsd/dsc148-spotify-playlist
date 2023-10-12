@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 
 > the best of the deep end\. cover: Prinz
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,915 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,953 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,20 +83,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 73 | [More](https://open.spotify.com/track/0gvWVzsAmW3E3hCfITCbtp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [More](https://open.spotify.com/album/51WJiY17CxBHtCI0x0dm9S) | 2:49 |
 | 74 | [Different Man](https://open.spotify.com/track/2QrSmaKPoBg4TGXHfQtott) | [K1](https://open.spotify.com/artist/5WUPK2bOwlRrSeoC87ygC4) | [Love Never Dies](https://open.spotify.com/album/7BMBAvfTPih5rtTD9SYcwi) | 2:41 |
 | 75 | [Akhirah](https://open.spotify.com/track/7xISI5fsxScOXZ39TgbTSx) | [Official TS](https://open.spotify.com/artist/0fN4qMqEC9Egd0TnnhxWuf) | [Akhirah](https://open.spotify.com/album/4xRb5029doJ6mT2qQLVOPW) | 3:41 |
-| 76 | [Losing Interest](https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp) | [Kstan](https://open.spotify.com/artist/1ZYHfzTiCuGSs3zJqKa57i), [WiTTZ SG](https://open.spotify.com/artist/0XgsAUBAg2UrPFpR4aHDFx) | [Losing Interest](https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq) | 2:39 |
-| 77 | [Role Model](https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA) | [Teks Sinatra](https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57) | [Home For Winter](https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR) | 3:19 |
+| 76 | [Role Model](https://open.spotify.com/track/5MiItmmuxxSuOaPy5ry3hA) | [Teks Sinatra](https://open.spotify.com/artist/51Bf6K0RQJiZBXFKQroC57) | [Home For Winter](https://open.spotify.com/album/3kwtdJBUZM22W5YCD7BftR) | 3:19 |
+| 77 | [Losing Interest](https://open.spotify.com/track/5ofyjvBIKa8VeP1nb3U7Kp) | [Kstan](https://open.spotify.com/artist/1ZYHfzTiCuGSs3zJqKa57i), [WiTTZ SG](https://open.spotify.com/artist/0XgsAUBAg2UrPFpR4aHDFx) | [Losing Interest](https://open.spotify.com/album/3p7UyKo0CDHbOhGycdtjzq) | 2:39 |
 | 78 | [Berlin Luv](https://open.spotify.com/track/42EWThzCZiinQFmHM4yv2s) | [Alex1](https://open.spotify.com/artist/0FDzmUEXdafn3kIB3cWrF3), [AD North](https://open.spotify.com/artist/3qUtesOtI25wpAoWcS57gs) | [Berlin Luv](https://open.spotify.com/album/1PuPwsACjhsVMxEi2KkhYU) | 2:20 |
 | 79 | [Hearts Get Numb](https://open.spotify.com/track/0zB4jA0h3PQuc0gD0ltE89) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Hearts Get Numb](https://open.spotify.com/album/0Pw0po45XgvwYkZe6G1XBG) | 2:55 |
 | 80 | [Red Flags](https://open.spotify.com/track/6SU3VtISJbWcuAIF9nsHBp) | [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [Red Flags](https://open.spotify.com/album/1H4KSuq4PXlTLubVl06DFs) | 2:47 |
 | 81 | [Is it too much? \(Pray things change\)](https://open.spotify.com/track/2cIzPODicoClfJEYKj8W6o) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm), [Alex1](https://open.spotify.com/artist/0HuF02Rw4Sw70eBAe4L5b4) | [Is it too much? \(Pray things change\)](https://open.spotify.com/album/06xcbKJiVjW94Jp8ZspScX) | 2:51 |
-| 82 | [Hate That I Love You](https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Lofi](https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz) | 3:03 |
-| 83 | [9AM](https://open.spotify.com/track/3DogHIsWZ7blJBVgBtjbGf) | [Drizdoneit](https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498), [Jbandz](https://open.spotify.com/artist/4s9XiPeQ4u3Q5Z6Gf6MIkg) | [9AM](https://open.spotify.com/album/1ucTQSkMf86AVwVfkpZZK8) | 2:52 |
+| 82 | [9AM](https://open.spotify.com/track/3DogHIsWZ7blJBVgBtjbGf) | [Drizdoneit](https://open.spotify.com/artist/2MEamsDUnpoPssvgEJF498), [Jbandz](https://open.spotify.com/artist/4s9XiPeQ4u3Q5Z6Gf6MIkg) | [9AM](https://open.spotify.com/album/1ucTQSkMf86AVwVfkpZZK8) | 2:52 |
+| 83 | [Hate That I Love You](https://open.spotify.com/track/4YVaQMAsbeKF5IJVgU2HKi) | [COMFY](https://open.spotify.com/artist/5c9aPejSDesU9OyZsdpj28), [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Lost in Lofi](https://open.spotify.com/album/4Uk8jalZGVJNVWX5eW7RXz) | 3:03 |
 | 84 | [Told Me](https://open.spotify.com/track/0Y4pSBsUYmhyZ28Y5X82ps) | [Wdz](https://open.spotify.com/artist/58QPxaitgr8bLIJm4m4zFY) | [Told Me](https://open.spotify.com/album/4zwGzA5VBydkuWj5c8wRIz) | 2:22 |
 | 85 | [One Mic](https://open.spotify.com/track/6YFfJSE4pqZIbYRwAxcMLW) | [GRM Daily](https://open.spotify.com/artist/4PCeJ2EIn3YtzYYRsHHWyy), [Private Zero](https://open.spotify.com/artist/2cxn83GFC9Ye95Ot9Z9dEf) | [One Mic](https://open.spotify.com/album/2YUcSRz40We9kAt1xPw6cw) | 2:01 |
 | 86 | [WAIT N SEE](https://open.spotify.com/track/2k5OHc4tTfGo8UNG1vvrO7) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [WAIT N SEE](https://open.spotify.com/album/5XxxSwifIRp6PzZY9R7xJV) | 2:44 |
 | 87 | [Circle Of Life](https://open.spotify.com/track/05r45PbXeBlE1DZ1AhidQX) | [NSJ Mali](https://open.spotify.com/artist/5ld1CGuHqq93QY19pW1vgO) | [Circle Of Life](https://open.spotify.com/album/1IYraEMImyyhDHxXezx6zL) | 4:17 |
-| 88 | [Lowkey '](https://open.spotify.com/track/5lx1xGuMvgzCz9pn1eyjWN) | [Sleepy Halllow](https://open.spotify.com/artist/2PHitDAVzXAH0FxjKH9U6P), [Nyc Drill Rap](https://open.spotify.com/artist/3mVrbnVGm8lWIFFb7VUWrA) | [Lowkey '](https://open.spotify.com/album/3ylVS3PBeyLUtxX3icOv1X) | 2:34 |
-| 89 | [I Was Never Phased](https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Leave This City](https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8) | 2:49 |
+| 88 | [I Was Never Phased](https://open.spotify.com/track/6iN03nZ9ER8ZWKboLAcsC8) | [Idi Akz](https://open.spotify.com/artist/7cmvUpGGozT8si6UDR0YHf) | [Leave This City](https://open.spotify.com/album/3rEyaw515ovA4tF0Qq2Qq8) | 2:49 |
+| 89 | [Lowkey '](https://open.spotify.com/track/5lx1xGuMvgzCz9pn1eyjWN) | [Sleepy Halllow](https://open.spotify.com/artist/2PHitDAVzXAH0FxjKH9U6P), [Nyc Drill Rap](https://open.spotify.com/artist/3mVrbnVGm8lWIFFb7VUWrA) | [Lowkey '](https://open.spotify.com/album/3ylVS3PBeyLUtxX3icOv1X) | 2:34 |
 | 90 | [THOUGHTS](https://open.spotify.com/track/5kLBe7SrtvDoxXDMtjbbCY) | [DEE L](https://open.spotify.com/artist/7DXKlFKSjotJWRlzaMISCJ) | [THOUGHTS](https://open.spotify.com/album/5pI1HI0Xhoayb2zjPzQgTH) | 2:58 |
 | 91 | [Heart On Ice](https://open.spotify.com/track/3D46l95LQ8iND0qzPHoxEf) | [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [HBK](https://open.spotify.com/album/1xzgBS9qmcqPsZf4ZbC6tX) | 2:25 |
 | 92 | [Drowning](https://open.spotify.com/track/5857X0HSQoIMW8mdJKhDVA) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Drowning](https://open.spotify.com/album/5geYrrlo5OEZ4ImHAgcHd5) | 2:13 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX67OeJYvkpAy.md) - [plain]
 | 94 | [Meaning Of Love](https://open.spotify.com/track/2uFwT6AZgwj8xjJHfTon66) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Recovery](https://open.spotify.com/album/0aqCew5VjHvRiY6wOUNaA0) | 3:27 |
 | 95 | [Too Cold 4 You Here \(Sweater Weather\)](https://open.spotify.com/track/30PeGDJkVBr9hQpWqceGCa) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrospect \(Season 2\)](https://open.spotify.com/album/6HscCebT4mdxY1ZM0M6rQN) | 3:01 |
 | 96 | [I Wanna Start My Life Again](https://open.spotify.com/track/0KooKH1oKoOho3w9kyG9PP) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [I Wanna Start My Life Again](https://open.spotify.com/album/2ZKJfUIWwVZL2dYYrRXetk) | 2:30 |
-| 97 | [Everyone Keeps Asking](https://open.spotify.com/track/4wMeSeTadv1UZ6HE7d5wdE) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrospect \(Season 2\)](https://open.spotify.com/album/6HscCebT4mdxY1ZM0M6rQN) | 3:23 |
-| 98 | [No Love Left](https://open.spotify.com/track/6gmthC4x8INHuZc1MnHj0A) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [No Love Left](https://open.spotify.com/album/1lmZmtx0bWPkYLextZNZJC) | 2:51 |
+| 97 | [No Love Left](https://open.spotify.com/track/6gmthC4x8INHuZc1MnHj0A) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [No Love Left](https://open.spotify.com/album/1lmZmtx0bWPkYLextZNZJC) | 2:51 |
+| 98 | [Everyone Keeps Asking](https://open.spotify.com/track/4wMeSeTadv1UZ6HE7d5wdE) | [MiSTah Kye](https://open.spotify.com/artist/06Mk5DnNoZL6Hzmzpfra5M) | [Retrospect \(Season 2\)](https://open.spotify.com/album/6HscCebT4mdxY1ZM0M6rQN) | 3:23 |
 | 99 | [Who Am I?\(I Dont Know\)](https://open.spotify.com/track/7dZBAEndXGOczb5O3QJWE4) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Who Am I?\(I Dont Know\)](https://open.spotify.com/album/2m5EhBsAarjhNd77FAGQch) | 2:42 |
 | 100 | [Angels Fly High](https://open.spotify.com/track/2HKtJCinY7r5wnqXMvtDHW) | [Kay9ine](https://open.spotify.com/artist/0SJsXjUcebfEVuPf3zQ8QJ) | [Angels Fly High](https://open.spotify.com/album/3YB7TrvCwgnepJig20lYhT) | 3:01 |
 
-Snapshot ID: `MCxmMDU3MzM0NjVmMmExZjhlM2VkOWJiMDNkN2UzODU3OWEzMDM4NTcy`
+Snapshot ID: `MCwwMzQ1NjA2YTkxMWU5M2I1YWQ3NjEyY2VmYzdjNzljZGZiN2JiZjY1`

@@ -604,7 +604,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-08",
+      "date_removed": null,
       "duration_ms": 246400,
       "name": "^^",
       "url": "https://open.spotify.com/track/0zngjITKiudJ1mBYmrOnu8"
@@ -2344,7 +2344,7 @@
     {
       "album": {
         "name": "BINKAN",
-        "url": "https://open.spotify.com/album/7BYpURwqKRaGrcbNBut7sb"
+        "url": "https://open.spotify.com/album/3SGUDomcGmK9KTyl4CIbgH"
       },
       "artists": [
         {
@@ -2355,6 +2355,24 @@
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 201012,
+      "name": "BINKAN",
+      "url": "https://open.spotify.com/track/3MBesnLk9lIrwrrfnHKhpY"
+    },
+    {
+      "album": {
+        "name": "BINKAN",
+        "url": "https://open.spotify.com/album/7BYpURwqKRaGrcbNBut7sb"
+      },
+      "artists": [
+        {
+          "name": "Leo Ieiri",
+          "url": "https://open.spotify.com/artist/1XErHyc10VN8bfGKma1Yyc"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
       "duration_ms": 201012,
       "name": "BINKAN",
       "url": "https://open.spotify.com/track/6G0yk2x2izkSw3x2UcknhT"
@@ -3306,7 +3324,7 @@
     {
       "album": {
         "name": "Chair",
-        "url": "https://open.spotify.com/album/51iWdU2UJRltUGX2Js76C4"
+        "url": "https://open.spotify.com/album/6QEPQxAtRodkKAcakSJeRs"
       },
       "artists": [
         {
@@ -3317,6 +3335,24 @@
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 143780,
+      "name": "Chair",
+      "url": "https://open.spotify.com/track/6ErnKii0YNkOZODh3XrVZu"
+    },
+    {
+      "album": {
+        "name": "Chair",
+        "url": "https://open.spotify.com/album/51iWdU2UJRltUGX2Js76C4"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEON LIME WHOOPIEPIE",
+          "url": "https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
       "duration_ms": 143780,
       "name": "Chair",
       "url": "https://open.spotify.com/track/6KPJhtv79rag27IFVlFDug"
@@ -14050,7 +14086,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 229506,
       "name": "Resonantia",
       "url": "https://open.spotify.com/track/6JxGX21hLq96CSMgwCWDmr"
@@ -17682,7 +17718,7 @@
     {
       "album": {
         "name": "THINK OF SUMMER",
-        "url": "https://open.spotify.com/album/6j854MxXOXhZ8WiNdhOi9a"
+        "url": "https://open.spotify.com/album/1fqeQV1L97fvOPDW09kSpC"
       },
       "artists": [
         {
@@ -17693,6 +17729,24 @@
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 278571,
+      "name": "THINK OF SUMMER",
+      "url": "https://open.spotify.com/track/25Nom4nb1pULKwa4nQBPgq"
+    },
+    {
+      "album": {
+        "name": "THINK OF SUMMER",
+        "url": "https://open.spotify.com/album/6j854MxXOXhZ8WiNdhOi9a"
+      },
+      "artists": [
+        {
+          "name": "Natsu Summer",
+          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
       "duration_ms": 278571,
       "name": "THINK OF SUMMER",
       "url": "https://open.spotify.com/track/5uLq64klXKRMcdX6GIKfEO"

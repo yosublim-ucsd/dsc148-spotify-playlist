@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,169 likes - 114 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,179 likes - 114 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 26 | [How Would You Feel \(Paean\)](https://open.spotify.com/track/6PJ8FF6UR8FZXfEvpHkIVN) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [÷ \(Deluxe\)](https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu) | 4:40 |
 | 27 | [Svag](https://open.spotify.com/track/4SS4YfDAEQG0fZAe1xfgn3) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Fånga mig när jag faller](https://open.spotify.com/album/3dXd7zPtfgASvaxo0jIAtu) | 3:11 |
 | 28 | [Sink](https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:45 |
-| 29 | [I Believe](https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:37 |
-| 30 | [Beautiful Scars](https://open.spotify.com/track/1Hu42ZLWG9dHaVOPiWyEmE) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Still Alive \(Deluxe Edition\)](https://open.spotify.com/album/1mTP6AfzT0v0eaihtcXOxe) | 3:14 |
+| 29 | [Beautiful Scars](https://open.spotify.com/track/1Hu42ZLWG9dHaVOPiWyEmE) | [Maximillian](https://open.spotify.com/artist/2Q9c6ETFOkDDTy53U7DIgr) | [Still Alive \(Deluxe Edition\)](https://open.spotify.com/album/1mTP6AfzT0v0eaihtcXOxe) | 3:14 |
+| 30 | [I Believe](https://open.spotify.com/track/1vYh9x8UmFTLbXiizk9Qc5) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:37 |
 | 31 | [Collide \- Acoustic Version](https://open.spotify.com/track/5rwq6R0Uq0BngM3rdmCeNg) | [Howie Day](https://open.spotify.com/artist/0ekbDNE2eOq8QiaXM34wer) | [Stop All the World Now \(Special Edition\)](https://open.spotify.com/album/5OmZitvmVXYsjEXkTD3P6Y) | 4:37 |
 | 32 | [Just You and I \- Acoustic](https://open.spotify.com/track/1vkUmedJVhScV9MmRsLGSY) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [What a Time To Be Alive](https://open.spotify.com/album/3Qa0qW4ged1J4HGeLXbFsC) | 3:18 |
 | 33 | [Minimum](https://open.spotify.com/track/4n5DRMfFBNJNec1JApfILt) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Lines](https://open.spotify.com/album/183PxCMvOPAdItWDCi1UJJ) | 3:14 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 75 | [Back in the Water](https://open.spotify.com/track/1EpMvEVHU883c7m6PzcsAj) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Eyes Closed](https://open.spotify.com/album/75oiBuTpJDC9XGUWwpSSbi) | 3:10 |
 | 76 | [Rhythm Inside \- Acoustic](https://open.spotify.com/track/7vO3KTA1YPgw6eb3NITrO3) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Rhythm Inside \(Acoustic\)](https://open.spotify.com/album/3inDY0cd6WvOfZ59DGn3rx) | 3:32 |
 | 77 | [Made to Love You](https://open.spotify.com/track/7xNQMVeEgXQf0xUsTlcpMP) | [Dan Owen](https://open.spotify.com/artist/3wrdNgjTSLLQZ382sPyoA5) | [Stay Awake with Me \(acoustic\)](https://open.spotify.com/album/5WriBFJjPRzc9YyHgRKJeZ) | 3:27 |
-| 78 | [Would You](https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d) | 3:01 |
-| 79 | [Thin](https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [ii](https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN) | 2:58 |
+| 78 | [Thin](https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [ii](https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN) | 2:58 |
+| 79 | [Would You](https://open.spotify.com/track/24u37Wx6wCOeBAi8g203KC) | [The Vamps](https://open.spotify.com/artist/7gAppWoH7pcYmphCVTXkzs) | [Cherry Blossom](https://open.spotify.com/album/606l8giVZ24kgJ64sYlX7d) | 3:01 |
 | 80 | [Need You Now \- Acoustic](https://open.spotify.com/track/1MIpU2U1kUInGTpaCYuVKs) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Same Kind Of Different \(Acoustic\)](https://open.spotify.com/album/6EWejNtoOEYMzQwKIpctti) | 3:23 |
 | 81 | [Worst In Me](https://open.spotify.com/track/1FY8gDAydm8CfGYp7Lv9ce) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 3:22 |
 | 82 | [You Give Me Something](https://open.spotify.com/track/28euH5Ny1JXxZAt2KjWp62) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Undiscovered](https://open.spotify.com/album/00QEcKEqSmwP8odEMImIuz) | 3:32 |
@@ -106,14 +106,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 96 | [Only You](https://open.spotify.com/track/3wD9lRUL8hYJzPnJDSCzD9) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB) | [Only You](https://open.spotify.com/album/6sHajzVPJWUs96opVi2lqe) | 3:18 |
 | 97 | [Somebody Loved](https://open.spotify.com/track/3s8AL0lXdxJYcyqELOrh2l) | [Kina Grannis](https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu) | [Somebody Loved](https://open.spotify.com/album/5EtmydsGgsDtdLDEsbOFZL) | 2:33 |
 | 98 | [For You](https://open.spotify.com/track/0CJvDUBeEL1Rmpx7MH28CQ) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [For You](https://open.spotify.com/album/7mNUdtUxh2dKzqYMgP67LX) | 3:23 |
-| 99 | [Moonlight](https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Moonlight](https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX) | 3:31 |
-| 100 | [What Am I Here For](https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 4:43 |
+| 99 | [What Am I Here For](https://open.spotify.com/track/5qLAeqSwTN5Cdrpjs6TnG6) | [Jade Bird](https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S) | [Something American](https://open.spotify.com/album/4mJFBVR1HjNGm1sYIHpBb2) | 4:43 |
+| 100 | [Moonlight](https://open.spotify.com/track/4rpyV1HHZ7oomxZrqqXtOx) | [Lilly Ahlberg](https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk) | [Moonlight](https://open.spotify.com/album/5GNmyL3vXER32gOF5GqfjX) | 3:31 |
 | 101 | [Faith's Song](https://open.spotify.com/track/4HFUxZOWqVemXYF1T7QQ1l) | [Amy Wadge](https://open.spotify.com/artist/0Zh5nyS0km753bfcX4QGHp) | [Keeping Faith](https://open.spotify.com/album/4lxNvi3XfEZfon54OltWQh) | 2:52 |
 | 102 | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/track/2CAb0iGKrcIpzPvGOjJere) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\) \[Stripped\]](https://open.spotify.com/album/0h5edj03nELwi0b9C71QaU) | 2:53 |
 | 103 | [i loved you first](https://open.spotify.com/track/3FpEXAupLwCHwzeUBxF99S) | [joan](https://open.spotify.com/artist/3HXLY1sNXIxHfulrjPiRf5) | [i loved you first](https://open.spotify.com/album/77GA1E8JXxpzlFFnGxbLEg) | 3:47 |
 | 104 | [Gravity](https://open.spotify.com/track/5EjG2jgzovOhN3OzWCcbdu) | [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0), [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Gravity](https://open.spotify.com/album/5Mx20XChcfUjpjdcJuPeno) | 3:02 |
-| 105 | [Cannonball](https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:10 |
-| 106 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
+| 105 | [Scars To Your Beautiful](https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im) | [Thomas Daniel](https://open.spotify.com/artist/6szSMqKKwkFqJoK3MxK3Hk) | [Scars To Your Beautiful](https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj) | 3:57 |
+| 106 | [Cannonball](https://open.spotify.com/track/3JiiqMYLbnHa1qys1JOpFK) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1) | 5:10 |
 | 107 | [Perfect To Me \- Acoustic](https://open.spotify.com/track/5OWrEfTdsOsTxMbznYDVL0) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [Perfect to Me \(Acoustic\)](https://open.spotify.com/album/4bVFapJCV0zmEd2e6qq74v) | 3:33 |
 | 108 | [What A Day \- Edit](https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:17 |
 | 109 | [Flux](https://open.spotify.com/track/4zb3kFL9fXrrfTwIY4CcDy) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Flux](https://open.spotify.com/album/1BhppSJet8I7mHzvacPpZD) | 3:49 |
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 113 | [Silence](https://open.spotify.com/track/0Q1QQ3R3s6VbX7ZB8shmvp) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Why Her Not Me \- EP](https://open.spotify.com/album/5f0eFn8Iv1PU8b4ylLxRJY) | 3:39 |
 | 114 | [You Make It Real](https://open.spotify.com/track/4Xvcx48q8khat7M1YUYaYW) | [James Morrison](https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35) | [Songs For You, Truths For Me](https://open.spotify.com/album/0pAVneHUj7ApOZZPPZBVyN) | 3:31 |
 
-Snapshot ID: `MCxiYmZlNTUzMGZiNTczMDc0N2E5NWRmM2I4Nzc4OGY0NzcxNDA4MTk3`
+Snapshot ID: `MCwyNjMxNTFlYjE4ZDBmNjFjYzlkZmRhOGJjNDNkMmMzY2JkYTg4ODE2`

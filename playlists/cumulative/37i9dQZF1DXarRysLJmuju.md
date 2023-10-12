@@ -4,7 +4,7 @@
 
 > Today's pop, featuring Tyla, Teddy Swims and Tate McRae.
 
-1,153 songs - 2 day 10 hr 27 min
+1,154 songs - 2 day 10 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,7 +304,8 @@
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3KAExCnsrlAw9ugJcA1QDH) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Escape \(feat\. Hayla\)](https://open.spotify.com/album/0SU0IO8l8gC0lgMSPxiWyO) | 4:00 | 2022-12-02 | 2023-03-21 |
 | [Escape \(feat\. Hayla\)](https://open.spotify.com/track/3VpxEo6vMpi4rQ6t2WVVkK) | [Kx5](https://open.spotify.com/artist/2avRYQUWQpIkzJOEkf0MdY), [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Kx5](https://open.spotify.com/album/7krgzxFJr9YxsmyWlO5Ubg) | 4:00 | 2023-03-17 | 2023-05-06 |
 | [Escapism.](https://open.spotify.com/track/5Z2MiIZ5I3jJvvmeWMLbOQ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism\. / The Thrill Is Gone.](https://open.spotify.com/album/3omkMn8vbTKOebb9ABbqyb) | 4:32 | 2022-11-25 | 2023-02-04 |
-| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-09-01 |  |
+| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/3YQHgTo0898GHXRC2byH52) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:48 | 2023-10-06 |  |
+| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-09-01 | 2023-10-12 |
 | [Every Beginning Ends](https://open.spotify.com/track/7lagLMBTqqOkta5eqRfNXc) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Benjamin Gibbard](https://open.spotify.com/artist/4CvZd3qzC2HbLxAoAEBRIL) | [Every Beginning Ends](https://open.spotify.com/album/7pHo5Tov9GyzVnBLxPuHYB) | 2:30 | 2022-08-26 | 2022-09-17 |
 | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Everybody Needs Someone \(feat\. Vance Joy\)](https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ) | 2:58 | 2023-04-07 | 2023-07-29 |
 | [Everything But You \(feat\. A7S\)](https://open.spotify.com/track/2wVQcA1YCuGL6EW0QbgVoV) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Everything But You \(feat\. A7S\)](https://open.spotify.com/album/0pRwjoHpYyvVuf6cF3shYg) | 3:18 | 2022-02-18 | 2022-03-05 |

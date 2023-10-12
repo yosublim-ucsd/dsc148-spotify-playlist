@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 
 > Its time to relish the Best Themes of Kollywood!<br/>Cover : Jailer
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,085 likes - 80 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,113 likes - 80 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,10 +71,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 61 | [Kaali Theme \- From "Petta"](https://open.spotify.com/track/61uPaVyWRi1HykhNR5Ldtw) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3NAMtgP845mM6cJjYDYy1g) | 1:05 |
 | 62 | [Interval Fight \- Background Score](https://open.spotify.com/track/58rVdRJUkvtupU7J3UIrvB) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 2:10 |
 | 63 | [The Maari Swag](https://open.spotify.com/track/1kZwVm0A2GWyBm4Oi2BFGX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Maari \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5g4gqBANFcdQ7G5zjGddvl) | 0:30 |
-| 64 | [The Dilli Connect \- Background Score](https://open.spotify.com/track/1BlJlzeCt2VPVdQMLXRe8y) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:21 |
-| 65 | [Agent Vikram \- Background Score](https://open.spotify.com/track/4Gl2PrpO3pmVj8LnQ6uAdg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 3:09 |
-| 66 | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/track/6jiMGpaN4Sx7xYlSQqfjnz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/album/7rkELhEEUEuqWRmDdTCNZF) | 1:02 |
-| 67 | [The Theri Theme](https://open.spotify.com/track/5F6QjI9stjXP8yNzu60SEP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 1:52 |
+| 64 | [Agent Vikram \- Background Score](https://open.spotify.com/track/4Gl2PrpO3pmVj8LnQ6uAdg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 3:09 |
+| 65 | [The Dilli Connect \- Background Score](https://open.spotify.com/track/1BlJlzeCt2VPVdQMLXRe8y) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:21 |
+| 66 | [The Theri Theme](https://open.spotify.com/track/5F6QjI9stjXP8yNzu60SEP) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vedalam \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KOvSxSNXC7mPvVESt1rVT) | 1:52 |
+| 67 | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/track/6jiMGpaN4Sx7xYlSQqfjnz) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast Announcement Theme \(From "Beast"\)](https://open.spotify.com/album/7rkELhEEUEuqWRmDdTCNZF) | 1:02 |
 | 68 | [The Vikram Squad \- Background Score](https://open.spotify.com/track/0hEUT9CpY3R2nvYzdvxGLE) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Vikram \(Original Background Score\)](https://open.spotify.com/album/6S5qpNyT3ZAg7m0e2XSOqx) | 1:34 |
 | 69 | [Rhythm of Petta](https://open.spotify.com/track/3uOEtcu7Zx1LFC1O2oqkgy) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Petta \(Original Background Score\)](https://open.spotify.com/album/1pQJguKLryCpmfP40tcEM0) | 0:52 |
 | 70 | [Vaathi Kabbadi \- Background Score](https://open.spotify.com/track/4U8wO7PDX3fz9L3Ne1U0eg) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Master \(Original Background Score\)](https://open.spotify.com/album/4iFurFyAPhOlzwQTc5aXN2) | 3:26 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUptwB9dhZvQ.md) - [plain]
 | 79 | [Kaththi Theme… The Sword of Destiny](https://open.spotify.com/track/1m2PQa2vARopdOK8xGVkaX) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0CHQy8WKl6HXPdoJM84pwb) | 1:01 |
 | 80 | [Bad Eyes… Villain Theme](https://open.spotify.com/track/2yrMtqr4Sv8Oqv7wskQLVk) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Kaththi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2qFqhre2weJ6I4kcVMomtH) | 1:27 |
 
-Snapshot ID: `MCwwYTg1OTJiZmVhZjI3MmZlOGYyOTRlNDAxYWNlZTQ5OGZkMDkwOTM5`
+Snapshot ID: `MCxlZjFmNjJmOGZkOGNhM2RiODRkMWU3NTAyMzYxMGZmN2E2NjM4ZmEy`

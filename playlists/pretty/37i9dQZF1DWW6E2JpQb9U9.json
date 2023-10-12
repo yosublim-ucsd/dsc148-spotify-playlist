@@ -1,12 +1,12 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 102726,
+  "num_followers": 102698,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiNmI0Y2RiNTUzMThmNjU5ODY3ODA3MzBhOGFiNDNjY2QzZWEwNzgy",
+  "snapshot_id": "MCxmMWU0ODA2MGE5YzYzYjY4ZTZlNTk0MmM3OWJiMWZiMTdiNDRiNTYw",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -667,22 +667,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "XV A\u00f1os - En Vivo Estadio Obras",
-        "url": "https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 377832,
-      "name": "Para Que Sigamos Siendo (En Vivo Estadio Obras)",
-      "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Repuesto de Fe (En Vivo)",
         "url": "https://open.spotify.com/album/37T4qeUVTpx7Ps3HhSKdKc"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 164933,
       "name": "Irresponsables - En Vivo",
       "url": "https://open.spotify.com/track/27CiyWWdkSAM6mWfaNYaxt"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "XV A\u00f1os - En Vivo Estadio Obras",
+        "url": "https://open.spotify.com/album/7unx0aGfSv4shjF38D3qwX"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 377832,
+      "name": "Para Que Sigamos Siendo (En Vivo Estadio Obras)",
+      "url": "https://open.spotify.com/track/4dOghAt99V7KcMlPf7eKP7"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
+        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 283946,
+      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
+      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Una Vez M\u00e1s (En Vivo)",
         "url": "https://open.spotify.com/album/1U6EoDtF3m3oddpw0LHunn"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 286786,
       "name": "Una Vez M\u00e1s - En Vivo",
       "url": "https://open.spotify.com/track/3x7KnlNcfrvfNRYHb9mk0A"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Insoportablemente Vivo (En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001)",
-        "url": "https://open.spotify.com/album/5cgGmPTXGyysE1ShAqPh0x"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 283946,
-      "name": "Lo Fr\u00e1gil De La Locura - En Directo Desde Estadio De Hurac\u00e1n Buenos Aires / 2001",
-      "url": "https://open.spotify.com/track/09MFq4vAtlRnC9dQVQJYln"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 309720,
-      "name": "Pistolas - En Vivo",
-      "url": "https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "En Vivo en el Teatro \u00d3pera",
         "url": "https://open.spotify.com/album/7x0aE1wk7VQYNFtCES9nL6"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 285053,
       "name": "Pasos al Costado - En Vivo en el Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2hHQqvhYtA37U75p49nC4d"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
+        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 309720,
+      "name": "Pistolas - En Vivo",
+      "url": "https://open.spotify.com/track/4IwoF68Px383RXNU4jTyzP"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 298520,
-      "name": "Fantasma - En Vivo",
-      "url": "https://open.spotify.com/track/0yxyblN8AAiOuSSktlLzMx"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Todavia No Puedo Olvidarte (En Vivo)",
         "url": "https://open.spotify.com/album/5I7AvLn3SQ6HF14rf2MGVh"
       },
@@ -1035,22 +1019,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
-        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
-      },
-      "artists": [
-        {
-          "name": "Attaque 77",
-          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
-        }
-      ],
-      "duration_ms": 212106,
-      "name": "Beatle - Ac\u00fastico en Vivo",
-      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "En Directo",
         "url": "https://open.spotify.com/album/7H3R1THjVZhSeEKK6S6MUE"
       },
@@ -1063,6 +1031,22 @@
       "duration_ms": 381826,
       "name": "La Parabellum del Buen Psic\u00f3pata - En Vivo",
       "url": "https://open.spotify.com/track/6LvWM7uIXgVG8FQWj5Gv1d"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Ac\u00fastico,Teatro Opera, Buenos Aires, Argentina.",
+        "url": "https://open.spotify.com/album/6j8Pylv9STVsYonxYxUoYE"
+      },
+      "artists": [
+        {
+          "name": "Attaque 77",
+          "url": "https://open.spotify.com/artist/5rI6C5mJm6GYXbGHhpHTu9"
+        }
+      ],
+      "duration_ms": 212106,
+      "name": "Beatle - Ac\u00fastico en Vivo",
+      "url": "https://open.spotify.com/track/0HCcZ5tV6KCUOtcXjttwq8"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1099,6 +1083,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
+        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
+      },
+      "artists": [
+        {
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
+        }
+      ],
+      "duration_ms": 298520,
+      "name": "Fantasma - En Vivo",
+      "url": "https://open.spotify.com/track/0yxyblN8AAiOuSSktlLzMx"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Luces (En Vivo Luna Park 2006)",
         "url": "https://open.spotify.com/album/2vHwdJI0FKurPPmHjXj24Z"
       },
@@ -1127,22 +1127,6 @@
       "duration_ms": 321253,
       "name": "Vida de Topos - En Vivo",
       "url": "https://open.spotify.com/track/6AaSvhWkYo2MMZX1o93TM8"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Desde Lejos No Se Ve (En Vivo)",
-        "url": "https://open.spotify.com/album/2CwlD7JnikWHZOgZn67dSv"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 236680,
-      "name": "Desde Lejos No Se Ve - En Vivo",
-      "url": "https://open.spotify.com/track/74hHbrJCc81drMDOvrXm4H"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1199,22 +1183,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Fuego (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
-      },
-      "artists": [
-        {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
-        }
-      ],
-      "duration_ms": 286528,
-      "name": "Fuego - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Hasta Estallar (En Vivo)",
         "url": "https://open.spotify.com/album/2VhaWI0G5kTWvafPAhgDCd"
       },
@@ -1235,6 +1203,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Fuego (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 286528,
+      "name": "Fuego - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/6WtFW6voAmKo5QOf3KTj6K"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "22/12/18 Flores (En Vivo)",
         "url": "https://open.spotify.com/album/0o5BP1cVS5ABQqCIkYvhMR"
       },
@@ -1247,22 +1231,6 @@
       "duration_ms": 250538,
       "name": "Ay, Qu\u00e9 Dios Boludo",
       "url": "https://open.spotify.com/track/57fUo8bwVhsWKixgq6j88B"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Fantasmas Pele\u00e1ndole al Viento (En Vivo)",
-        "url": "https://open.spotify.com/album/5JG3SpaazCnXheOQQNXBjV"
-      },
-      "artists": [
-        {
-          "name": "Los Piojos",
-          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
-        }
-      ],
-      "duration_ms": 414120,
-      "name": "Marad\u00f3 - En Vivo",
-      "url": "https://open.spotify.com/track/6IvGufWgArG0cd8WDeypdH"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1283,22 +1251,34 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "La Superacci\u00f3n (En Vivo en el Metrop\u00f3litan)",
-        "url": "https://open.spotify.com/album/6U3QnrJIkFiJACZv9WhXKO"
+        "name": "Desde Lejos No Se Ve (En Vivo)",
+        "url": "https://open.spotify.com/album/2CwlD7JnikWHZOgZn67dSv"
       },
       "artists": [
         {
-          "name": "Comisario Pantera",
-          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
-        },
-        {
-          "name": "LOBEL",
-          "url": "https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 317962,
-      "name": "La Superacci\u00f3n - En Vivo en el Metrop\u00f3litan",
-      "url": "https://open.spotify.com/track/4SQEBJU7ISs2n9TqNPhD43"
+      "duration_ms": 236680,
+      "name": "Desde Lejos No Se Ve - En Vivo",
+      "url": "https://open.spotify.com/track/74hHbrJCc81drMDOvrXm4H"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "De No Olvidar (En Vivo)",
+        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 159653,
+      "name": "De No Olvidar - En Vivo",
+      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1327,34 +1307,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "De No Olvidar (En Vivo)",
-        "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
+        "name": "La Superacci\u00f3n (En Vivo en el Metrop\u00f3litan)",
+        "url": "https://open.spotify.com/album/6U3QnrJIkFiJACZv9WhXKO"
       },
       "artists": [
         {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 159653,
-      "name": "De No Olvidar - En Vivo",
-      "url": "https://open.spotify.com/track/4gbI9BleMGRBK9umkCWQr0"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Se Fue al Cielo (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
-      },
-      "artists": [
+          "name": "Comisario Pantera",
+          "url": "https://open.spotify.com/artist/7eOGKFUwjDDem40BGPqnZR"
+        },
         {
-          "name": "Intoxicados",
-          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+          "name": "LOBEL",
+          "url": "https://open.spotify.com/artist/6ZYC3LeRCpUZheX0WKVPGl"
         }
       ],
-      "duration_ms": 230528,
-      "name": "Se Fue al Cielo - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
+      "duration_ms": 317962,
+      "name": "La Superacci\u00f3n - En Vivo en el Metrop\u00f3litan",
+      "url": "https://open.spotify.com/track/4SQEBJU7ISs2n9TqNPhD43"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1371,6 +1339,22 @@
       "duration_ms": 339026,
       "name": "La Leyenda del Hada y el Mago - En Vivo",
       "url": "https://open.spotify.com/track/5audspbxagSKYlsrmMdsvn"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Se Fue al Cielo (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/5a6i5OQTh7QTNh6bNJvwXK"
+      },
+      "artists": [
+        {
+          "name": "Intoxicados",
+          "url": "https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF"
+        }
+      ],
+      "duration_ms": 230528,
+      "name": "Se Fue al Cielo - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/20zqLQwGq2HArJgR9Osp3T"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1395,18 +1379,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "En Vivo en el Teatro Coliseo",
-        "url": "https://open.spotify.com/album/2HPBjV6pfag0WSo7l1Y8oY"
+        "name": "Huracanes en Luna Plateada (En Vivo)",
+        "url": "https://open.spotify.com/album/1z9HFVvWCXsY1BkmyGBiRx"
       },
       "artists": [
         {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+          "name": "Los Piojos",
+          "url": "https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU"
         }
       ],
-      "duration_ms": 487597,
-      "name": "\u00bfQu\u00e9 Tal? - En Vivo",
-      "url": "https://open.spotify.com/track/0L8j3R0I7PT6dPsITLMhdL"
+      "duration_ms": 270253,
+      "name": "Labios de Seda - En Vivo",
+      "url": "https://open.spotify.com/track/65tZTcEHzp0kUd09bJxM6B"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1423,6 +1407,22 @@
       "duration_ms": 244071,
       "name": "Envuelto en Llamas (En Vivo)",
       "url": "https://open.spotify.com/track/674zid6QdjoHzafff631N8"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "En Vivo en el Teatro Coliseo",
+        "url": "https://open.spotify.com/album/2HPBjV6pfag0WSo7l1Y8oY"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 487597,
+      "name": "\u00bfQu\u00e9 Tal? - En Vivo",
+      "url": "https://open.spotify.com/track/0L8j3R0I7PT6dPsITLMhdL"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1491,6 +1491,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Fr\u00e1gil (En Vivo)",
+        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
+      },
+      "artists": [
+        {
+          "name": "La Vela Puerca",
+          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
+        }
+      ],
+      "duration_ms": 200985,
+      "name": "Fr\u00e1gil - En Vivo",
+      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Ped\u00eda Siempre Temas en la Radio\u2026 (En Vivo)",
         "url": "https://open.spotify.com/album/4lPT2G3v115JNbMqsfrYjn"
       },
@@ -1507,22 +1523,6 @@
       "duration_ms": 258816,
       "name": "Ped\u00eda Siempre Temas en la Radio\u2026 - En Vivo",
       "url": "https://open.spotify.com/track/66C4KiBFq72ehXJH43yQoc"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Fr\u00e1gil (En Vivo)",
-        "url": "https://open.spotify.com/album/1zsmfIrdaVCBnmLvwKPKYq"
-      },
-      "artists": [
-        {
-          "name": "La Vela Puerca",
-          "url": "https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL"
-        }
-      ],
-      "duration_ms": 200985,
-      "name": "Fr\u00e1gil - En Vivo",
-      "url": "https://open.spotify.com/track/3fu3BMBP66gT5NklGqB9Cl"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1595,22 +1595,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Strangerdanger (En Vivo)",
-        "url": "https://open.spotify.com/album/01GM7YDRe55MZHxHgjFgG7"
+        "name": "Ahora Vengo (Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz"
       },
       "artists": [
         {
-          "name": "Indio Solari",
-          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+          "name": "La Mississippi",
+          "url": "https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w"
         },
         {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+          "name": "Facundo Soto",
+          "url": "https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem"
         }
       ],
-      "duration_ms": 184919,
-      "name": "Strangerdanger - En Vivo",
-      "url": "https://open.spotify.com/track/16KeH2DTffqLuGOtOnHxLZ"
+      "duration_ms": 171306,
+      "name": "Ahora Vengo - Vivo Luna Park",
+      "url": "https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1631,6 +1631,26 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Strangerdanger (En Vivo)",
+        "url": "https://open.spotify.com/album/01GM7YDRe55MZHxHgjFgG7"
+      },
+      "artists": [
+        {
+          "name": "Indio Solari",
+          "url": "https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4"
+        },
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 184919,
+      "name": "Strangerdanger - En Vivo",
+      "url": "https://open.spotify.com/track/16KeH2DTffqLuGOtOnHxLZ"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Ni Mierda (Vivo En Obras)",
         "url": "https://open.spotify.com/album/7kzJtlZEgD8fLVuT2wgoVs"
       },
@@ -1643,26 +1663,6 @@
       "duration_ms": 311014,
       "name": "Ni Mierda - Vivo En Obras",
       "url": "https://open.spotify.com/track/5uNgDVyoegpIQcHu4Fto8h"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Ahora Vengo (Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/2GkgmWl8aK8vCThHX8UWSz"
-      },
-      "artists": [
-        {
-          "name": "La Mississippi",
-          "url": "https://open.spotify.com/artist/2haNFSI2XvHycF4x0nhp2w"
-        },
-        {
-          "name": "Facundo Soto",
-          "url": "https://open.spotify.com/artist/7iHo4CLGchMwwtiCxfyGem"
-        }
-      ],
-      "duration_ms": 171306,
-      "name": "Ahora Vengo - Vivo Luna Park",
-      "url": "https://open.spotify.com/track/1ZnRsIPcOyiDlua5lEIE0B"
     },
     {
       "added_at": "2023-10-06 03:00:00",

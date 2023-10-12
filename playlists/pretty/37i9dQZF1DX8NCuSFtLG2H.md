@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 
 > Relax to the sounds of the kora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,782 likes - 111 songs - 8 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,825 likes - 111 songs - 8 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -120,4 +120,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NCuSFtLG2H.md) - [plain]
 | 110 | [Toutou Diarra](https://open.spotify.com/track/6jPRIrQI72sXLhLseNwmrf) | [Lamine Cissokho](https://open.spotify.com/artist/4yNX2MT20zgrgvC7rrsFv6) | [Kora +1](https://open.spotify.com/album/62vn052g2TSd9MPGmHwQr1) | 4:18 |
 | 111 | [The Griot](https://open.spotify.com/track/4luLCxFLxKBmyCtHeOvgZO) | [Ravi](https://open.spotify.com/artist/6xLPkpzIIFo22cVp9HNrdT) | [Ravi: African Kora](https://open.spotify.com/album/02Kd5u5BzFZyfQobh3mX47) | 4:32 |
 
-Snapshot ID: `MCxkMjE2MjJjYTkzODk2NDc4MjdjYjQ2YzQ4YWQ4MjFhN2Q2YWY2YTk2`
+Snapshot ID: `MCw0OWYyZGRlZjdmODJjODdhNDFlNTgzNDIxY2U2ZmRkODM0MTgyNTQ0`

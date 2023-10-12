@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 127813,
+  "num_followers": 127730,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDQ1ZDE0Y2ZmZWFmMTE0NGQ3NDc1ZmRmMzAyNzllZWI0ODk2NmI1",
+  "snapshot_id": "MCw5MDZkN2Y5MDExMjQ3NzM5MzY5ZWYwZWMzODRjMWIxMDQ5N2MwNjY0",
   "tracks": [
     {
       "added_at": "2023-10-10 15:00:00",
@@ -91,18 +91,18 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "\u98a8\u306e\u4e2d\u306e\u5922",
-        "url": "https://open.spotify.com/album/2u37tLTog5lS9CLTiacdOe"
+        "name": "Dreams in the Wind",
+        "url": "https://open.spotify.com/album/4vxw13tXAZNNUMbY9E8QtK"
       },
       "artists": [
         {
-          "name": "\u30cf\u30eb\u30ab\u30b9\u30c8\u30ea\u30f3\u30b0\u30b9",
-          "url": "https://open.spotify.com/artist/4d5QXhOYSfl2OjyalgL3WY"
+          "name": "Haruka Strings",
+          "url": "https://open.spotify.com/artist/5OycqAeoJSots0lHem0k3b"
         }
       ],
       "duration_ms": 390088,
-      "name": "\u7f8e\u3057\u304d\u69d8\u3005\u306e\u5922",
-      "url": "https://open.spotify.com/track/5C4iSfWHBfeNwVFkmcCTze"
+      "name": "Beautiful and Various Dreams",
+      "url": "https://open.spotify.com/track/5GWhM4Atl9aZqmN51jhpwI"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30bf\u3099/\u30b5\u30f3\u30b5\u30fc\u30e9",
-        "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
-      },
-      "artists": [
-        {
-          "name": "Takehara Pistol",
-          "url": "https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA"
-        }
-      ],
-      "duration_ms": 331984,
-      "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
-      "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
-    },
-    {
-      "added_at": "2023-10-10 15:00:00",
-      "album": {
         "name": "27",
         "url": "https://open.spotify.com/album/6aFN9smus343VgxVUrKfmj"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 223187,
       "name": "Last Peace",
       "url": "https://open.spotify.com/track/3kHKiuxAPCR8WRbx9p5KOv"
+    },
+    {
+      "added_at": "2023-10-10 15:00:00",
+      "album": {
+        "name": "\u30ea\u30e7\u30a6\u30e1\u30f3\u30b7\u30bf\u3099/\u30b5\u30f3\u30b5\u30fc\u30e9",
+        "url": "https://open.spotify.com/album/1QzF3SU3BpVG8xCFqZXX7J"
+      },
+      "artists": [
+        {
+          "name": "Takehara Pistol",
+          "url": "https://open.spotify.com/artist/0IRFQcZbbHHpFY5EUNA2XA"
+        }
+      ],
+      "duration_ms": 331984,
+      "name": "\u30b5\u30f3\u30b5\u30fc\u30e9",
+      "url": "https://open.spotify.com/track/0x26yM2rrvtoHGRXXzppx3"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -1023,6 +1023,42 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
+        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
+        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 234213,
+      "name": "\u307e\u305f\u305f\u304d",
+      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
+    },
+    {
+      "added_at": "2023-10-10 15:00:00",
+      "album": {
+        "name": "Karakai",
+        "url": "https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w"
+      },
+      "artists": [
+        {
+          "name": "Sweet William",
+          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
+        },
+        {
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Karakai",
+      "url": "https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6"
+    },
+    {
+      "added_at": "2023-10-10 15:00:00",
+      "album": {
         "name": "Into The Night (feat. ZIN & \u9ed2\u7530\u5353\u4e5f)",
         "url": "https://open.spotify.com/album/3r1jhjYj8DPOTlawfBTmVP"
       },
@@ -1047,22 +1083,6 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "\u30d3\u30a2\u30ea\u30b9\u30c8\u30c3\u30af\u30b9",
-        "url": "https://open.spotify.com/album/3bj0rxNiqW8FPj2exowDFQ"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 234213,
-      "name": "\u307e\u305f\u305f\u304d",
-      "url": "https://open.spotify.com/track/6K5HCzRSvOCViWBVCc3wYH"
-    },
-    {
-      "added_at": "2023-10-10 15:00:00",
-      "album": {
         "name": "Sleeping in Waking",
         "url": "https://open.spotify.com/album/2EXjrlqsinxkPKguQMlbN2"
       },
@@ -1075,26 +1095,6 @@
       "duration_ms": 233887,
       "name": "Sleeping in Waking",
       "url": "https://open.spotify.com/track/2zx4apdK8SZeHqDLYLLfCe"
-    },
-    {
-      "added_at": "2023-10-10 15:00:00",
-      "album": {
-        "name": "Karakai",
-        "url": "https://open.spotify.com/album/1Dy0En842kaMayp3M0ZD4w"
-      },
-      "artists": [
-        {
-          "name": "Sweet William",
-          "url": "https://open.spotify.com/artist/43eSnxk6MsmXsLOlbYo8VQ"
-        },
-        {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Karakai",
-      "url": "https://open.spotify.com/track/1DFQpMVMM4esSg02Zj0Gx6"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "\u3055\u3082\u3042\u308a\u306a\u3093",
-        "url": "https://open.spotify.com/album/6B8yGpKG4hIATtbS3ibsHA"
-      },
-      "artists": [
-        {
-          "name": "Naotaro Moriyama",
-          "url": "https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued"
-        }
-      ],
-      "duration_ms": 350704,
-      "name": "\u3055\u3082\u3042\u308a\u306a\u3093",
-      "url": "https://open.spotify.com/track/5D5K3Giyp427zPZ6cOQmv6"
-    },
-    {
-      "added_at": "2023-10-10 15:00:00",
-      "album": {
         "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
         "url": "https://open.spotify.com/album/77XckqI0BbVbg6BHtKIhiH"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 67203,
       "name": "\u30ed\u30de\u30f3\u30c1\u30c3\u30af2017",
       "url": "https://open.spotify.com/track/3yIW8q3fvfxPKY7XjhubP0"
+    },
+    {
+      "added_at": "2023-10-10 15:00:00",
+      "album": {
+        "name": "\u3055\u3082\u3042\u308a\u306a\u3093",
+        "url": "https://open.spotify.com/album/6B8yGpKG4hIATtbS3ibsHA"
+      },
+      "artists": [
+        {
+          "name": "Naotaro Moriyama",
+          "url": "https://open.spotify.com/artist/31VPfrPEa86aKpD2LT3Ued"
+        }
+      ],
+      "duration_ms": 350704,
+      "name": "\u3055\u3082\u3042\u308a\u306a\u3093",
+      "url": "https://open.spotify.com/track/5D5K3Giyp427zPZ6cOQmv6"
     },
     {
       "added_at": "2023-10-10 15:00:00",

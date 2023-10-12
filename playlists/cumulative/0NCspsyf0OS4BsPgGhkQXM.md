@@ -4,7 +4,7 @@
 
 > The Official Trap Nation Playlist
 
-859 songs - 1 day 22 hr 8 min
+860 songs - 1 day 22 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Fragile Self](https://open.spotify.com/track/4Kb8imzv3qKW11smbXrXkt) | [Animadrop](https://open.spotify.com/artist/1AUZ4SxTPTZL7wDE80tPcR), [broke](https://open.spotify.com/artist/79sjpbumf3CjvJJI2Jsb2b) | [Dime A Dozen](https://open.spotify.com/album/3aJfybdxX3zcz5NYsXD4ae) | 6:16 | 2022-06-16 | 2023-02-22 |
 | [Free Falling](https://open.spotify.com/track/0f30zxuzCZ3ayoKY88nnAo) | [Kaivon](https://open.spotify.com/artist/55FVjkpZs1zuo3zqBgrKtC) | [Free Falling](https://open.spotify.com/album/6vlrBiJUVFUInKjZ3buVMj) | 3:46 | 2022-01-14 | 2022-09-15 |
 | [Freefall](https://open.spotify.com/track/5sGZrYjR38XjepfN2b7Pkx) | [ESPER](https://open.spotify.com/artist/4qxyQRkuA00BdgRmKhzSC2), [LOCKBOX](https://open.spotify.com/artist/4yqp9NiO7zJLy1eHzb54Ro), [Isaiah Brown](https://open.spotify.com/artist/7vKhc6hNiiTFBaW96I27wy) | [Freefall](https://open.spotify.com/album/58FSZ8ViWJ3HFBVf3Zxn9w) | 3:22 | 2022-01-14 | 2022-02-10 |
+| [Friends](https://open.spotify.com/track/4ocJsvovXfsz2pDGl7RJCq) | [Bread Beatz](https://open.spotify.com/artist/6Bwo8WbpyBecVCrrKcAtuH), [Scrn](https://open.spotify.com/artist/4FypZu3zzP7gUGhhMUHLMB), [Ayomercyy](https://open.spotify.com/artist/3uqrCIAabWVRWjv8jyTpqi) | [Friends](https://open.spotify.com/album/39uyhOIHcDq22791gwFqhN) | 2:21 | 2023-10-11 |  |
 | [Friends With Benefits](https://open.spotify.com/track/1BHTi5p3yoeInhIL2ydZzj) | [So Dope](https://open.spotify.com/artist/3xEKrMqS4pDGqGvxf7zwSY) | [Alone In My Dreams](https://open.spotify.com/album/6NxLWoS0GRoeZNZiMfOKsg) | 3:14 | 2023-04-08 | 2023-05-13 |
 | [Frozen](https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sickick](https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS) | [Frozen](https://open.spotify.com/album/2GAIUdfLIFtxDty42RowjE) | 2:00 | 2022-01-25 | 2022-09-15 |
 | [Fuck U Love U](https://open.spotify.com/track/33JtWDrMyTFRQTioosQwtg) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/3oreus7GaQU4e1Hzv6CgE0) | 3:10 | 2022-05-13 | 2022-09-10 |

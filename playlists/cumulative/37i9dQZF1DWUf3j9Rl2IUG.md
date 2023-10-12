@@ -4,7 +4,7 @@
 
 > Afrobeats' hottest singles\. Cover: <a href="https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG?si=2\-B6h7PLTd20CGZtBywsBg"> Bayanni </a>
 
-237 songs - 11 hr 26 min
+238 songs - 11 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,7 +68,7 @@
 | [Dog Eat Dog](https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dog Eat Dog](https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH) | 2:29 | 2023-04-25 |  |
 | [DOG EAT DOG II](https://open.spotify.com/track/44qafmYYdeEwpSf1tCgTmm) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II](https://open.spotify.com/album/3teR99N0boYIvWfEm59CZB) | 4:00 | 2023-05-26 | 2023-06-08 |
 | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/track/2ITJKfLesLib9xo0hWVT1V) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [DOG EAT DOG II \(feat\. Cruel Santino, Bella Shmurda\)](https://open.spotify.com/album/1ngPsRmibe5KfV5HgXE54H) | 4:00 | 2023-06-02 | 2023-10-09 |
-| [Don't Call Me \(feat\. Zinoleesky\)](https://open.spotify.com/track/2XuLnQELesgnkCGZbSJHO0) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Don't Call Me \(feat\. Zinoleesky\)](https://open.spotify.com/album/2fvt1NxBjoCXfLrUlnsqkD) | 2:58 | 2022-06-09 |  |
+| [Don't Call Me \(feat\. Zinoleesky\)](https://open.spotify.com/track/2XuLnQELesgnkCGZbSJHO0) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Don't Call Me \(feat\. Zinoleesky\)](https://open.spotify.com/album/2fvt1NxBjoCXfLrUlnsqkD) | 2:58 | 2022-06-09 | 2023-10-12 |
 | [Duffel Bag](https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Duffel Bag](https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0) | 2:07 | 2023-04-25 |  |
 | [Dupe](https://open.spotify.com/track/2fFMt9ZyCKbKu6ykv2VMlD) | [Pasuma](https://open.spotify.com/artist/2icl63UROfGjWheC4XkcnQ) | [Dupe](https://open.spotify.com/album/7FP7FNxXOiZGu4EMvislxE) | 2:21 | 2023-02-03 | 2023-02-10 |
 | [Ebelebe \(feat\. Wizkid\)](https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Legend Or No Legend](https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ) | 3:29 | 2023-05-19 |  |
@@ -86,6 +86,7 @@
 | [Firedncr\. \(Amapiano Remix\)](https://open.spotify.com/track/2S7qU3PHssWAaZn2rr3brR) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4), [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Firedncr\. \(Amapiano Remix\)](https://open.spotify.com/album/3NQrHzwVf6joGUVbqQ03SB) | 2:34 | 2023-03-10 | 2023-03-18 |
 | [FIREGUN](https://open.spotify.com/track/3GYjrPY5rh4f02ezDl07De) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN](https://open.spotify.com/album/0papSoKgmmRHnyIkCmMRhl) | 3:14 | 2023-06-30 | 2023-07-11 |
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj) | 3:14 | 2023-06-30 | 2023-10-09 |
+| [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:14 | 2023-09-29 |  |
 | [Folake](https://open.spotify.com/track/5FCS33n2pWeNBFjQpwKaiH) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Folake](https://open.spotify.com/album/1zXxlkgp0TkifABiPujJ1i) | 2:48 | 2023-02-10 |  |
 | [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 | 2023-05-04 |  |
 | [Gbedu](https://open.spotify.com/track/1XhTCQFzYcgFeJpkw2x2VV) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [Gbedu](https://open.spotify.com/album/78tVCq1xaSu5u8L3sABqE4) | 3:09 | 2023-09-21 |  |

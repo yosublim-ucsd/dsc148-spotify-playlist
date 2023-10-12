@@ -4,7 +4,7 @@
 
 > Perreo con ❤️‍🔥❤️‍🔥❤️‍🔥
 
-398 songs - 21 hr 40 min
+400 songs - 21 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -274,7 +274,8 @@
 | [Nojoda](https://open.spotify.com/track/77HE2OvXZm4Xa78oN8Qi62) | [DEKKO](https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE) | [Nojoda](https://open.spotify.com/album/4uMo3BJ9nCC7Fo5rza2vi4) | 2:43 | 2022-12-22 | 2023-01-14 |
 | [Normal](https://open.spotify.com/track/2z9YkcLojiOE7Eu2p9lPZR) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Normal](https://open.spotify.com/album/3xbevf88sEI6l01P9dApmu) | 2:51 | 2022-07-08 | 2023-09-30 |
 | [Nuestra Canción](https://open.spotify.com/track/1UGaN3zIsL6ezvaMtOm4EP) | [BrunOG](https://open.spotify.com/artist/4LDBZLf3EgeL87J9ZVSmRL) | [Nuestra Canción](https://open.spotify.com/album/4UAuSUwcvf4CIUW55KlCF2) | 4:36 | 2023-06-30 | 2023-09-30 |
-| [NX TX SIENTAS SOLX](https://open.spotify.com/track/4OmSsqo4Hi9LCIh9Z4gKKq) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:59 | 2023-09-29 |  |
+| [NX TX SIENTAS SOLX](https://open.spotify.com/track/4OmSsqo4Hi9LCIh9Z4gKKq) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:59 | 2023-09-29 | 2023-10-12 |
+| [NX TX SIENTAS SOLX](https://open.spotify.com/track/0xzNdNJSQnHfRLYRdVhERp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:01 | 2023-09-29 |  |
 | [Odiame o Quiereme](https://open.spotify.com/track/1rLwwHaXkZUOBQU1vd2pPt) | [Randy](https://open.spotify.com/artist/7qYeIN2r4H1kBvr0Gm9Iav), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Odiame o Quiereme](https://open.spotify.com/album/0cMIt86ttp5wqaYlhlk83N) | 4:34 | 2022-03-25 | 2022-04-20 |
 | [ODISEA](https://open.spotify.com/track/1lyT9DtXlF7bjiwEurRpRU) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [KG0516](https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW) | 3:43 | 2022-03-25 | 2022-04-18 |
 | [Oe Oe Oe](https://open.spotify.com/track/5HQ0ZXklrECrLZ5Jxpa0gZ) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Mackie](https://open.spotify.com/artist/4LyGCVZ22bGCY4BaW04Uyl) | [Los Piratas](https://open.spotify.com/album/4fdcBGBSQvtI1DZ0PVxqCY) | 3:10 | 2022-12-02 | 2022-12-17 |
@@ -320,7 +321,8 @@
 | [Relación](https://open.spotify.com/track/4lMOQR1rRW5hJgJXOtKraL) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Relación](https://open.spotify.com/album/378KGomt21mlfxD786uF7c) | 3:04 | 2022-01-14 | 2022-07-29 |
 | [Repeat](https://open.spotify.com/track/2J5zcuTUlhkh6gJU9QX5Jq) | [Keityn](https://open.spotify.com/artist/70gmCJBwFhY24cRxl4FqUu), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Repeat](https://open.spotify.com/album/2kTT871AcNMlWPPO6J7pWH) | 3:12 | 2022-01-14 | 2022-02-12 |
 | [Rojo](https://open.spotify.com/track/4uziEsK1yiqdauKVDPsmVG) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Rojo](https://open.spotify.com/album/54lqxBRUg66EYNyqKSKU5C) | 2:30 | 2022-01-14 | 2023-06-30 |
-| [ROMÁNTICOS DE LUNES](https://open.spotify.com/track/7mfztd9ZxJF4c5JYZhe8XH) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 4:03 | 2023-09-29 |  |
+| [ROMÁNTICOS DE LUNES](https://open.spotify.com/track/3b9hmdwt0RWluhFm3hLKz8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 4:02 | 2023-09-29 |  |
+| [ROMÁNTICOS DE LUNES](https://open.spotify.com/track/7mfztd9ZxJF4c5JYZhe8XH) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 4:03 | 2023-09-29 | 2023-10-12 |
 | [Ropa Interior \(feat\. Beéle\)](https://open.spotify.com/track/0fuNqrwsaOVrhowxsAKvc8) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6), [Maxiolly](https://open.spotify.com/artist/6BYNqaolBRE6cHA707Sl0a), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Contento](https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9) | 3:20 | 2022-02-28 | 2022-04-17 |
 | [rápido lento](https://open.spotify.com/track/4xv2A022v5A8nyewDkYOkQ) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [rápido lento](https://open.spotify.com/album/7wrDNMoSx249yOV0xFdRzn) | 3:33 | 2022-01-14 | 2022-07-29 |
 | [S.A.D](https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [S.A.D](https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm) | 2:08 | 2023-01-13 | 2023-06-30 |

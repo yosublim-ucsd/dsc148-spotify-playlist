@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv?si=PM2fKX0mRZWDIwdcgslWEg\">Solomon Headen</a>. Updates every Wednesday.",
+  "description": "The best new R&B by independent artists and labels. Cover: <a href=\"https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW?si=MFWuaGKSRFCepbJ4nBSpCg\">OSA</a>. Updates every Wednesday.",
   "name": "Fresh Finds R&B",
   "tracks": [
     {
@@ -24664,6 +24664,24 @@
       "duration_ms": 132632,
       "name": "Red Sky",
       "url": "https://open.spotify.com/track/01p4GwNTXF5XXmh3BnETeH"
+    },
+    {
+      "album": {
+        "name": "redemption",
+        "url": "https://open.spotify.com/album/60rj4BVsWTGVGtXh9UveG6"
+      },
+      "artists": [
+        {
+          "name": "BADMIND",
+          "url": "https://open.spotify.com/artist/4qTKTDRcMPtnohoWWR1oX9"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138000,
+      "name": "redemption",
+      "url": "https://open.spotify.com/track/0ntXnIQz8m2ED1vBqw85tr"
     },
     {
       "album": {

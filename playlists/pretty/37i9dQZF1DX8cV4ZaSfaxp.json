@@ -1,12 +1,12 @@
 {
   "description": "A dazzling but very sad feeling. Enjoy the city pop music of Korean singers. (Cover: aiai) (\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694.)",
-  "num_followers": 46605,
+  "num_followers": 46627,
   "original_name": "City Pop Korea (\ud55c\uad6d \uc528\ud2f0\ud31d)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNWYzMDM3MzFlZDg1MDhjNDAwYWI2YzM5MjNhYjk2MDk5NTZmZjQ3",
+  "snapshot_id": "MCxlMTFjMTNlYTU4MjVhNWUxNDYxNmJkMGUzZGY1M2RiZWY1OGNhMWJj",
   "tracks": [
     {
       "added_at": "2023-07-13 05:23:23",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
+        "name": "Naturalness",
+        "url": "https://open.spotify.com/album/1KIV6HQCntQVl792TVfVCA"
+      },
+      "artists": [
+        {
+          "name": "Dalshabet",
+          "url": "https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel"
+        }
+      ],
+      "duration_ms": 200767,
+      "name": "Someone like U",
+      "url": "https://open.spotify.com/track/5MVO70G8Eqip01bvrrQHSg"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
         "name": "These Nights",
         "url": "https://open.spotify.com/album/2ZHGnhsomLmLezueESi9ou"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 223006,
       "name": "These Nights",
       "url": "https://open.spotify.com/track/2n0oy8RGDpy6WGcLImTteI"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
-        "name": "Naturalness",
-        "url": "https://open.spotify.com/album/1KIV6HQCntQVl792TVfVCA"
-      },
-      "artists": [
-        {
-          "name": "Dalshabet",
-          "url": "https://open.spotify.com/artist/10xsuRNvidaOLxWd3fRIel"
-        }
-      ],
-      "duration_ms": 200767,
-      "name": "Someone like U",
-      "url": "https://open.spotify.com/track/5MVO70G8Eqip01bvrrQHSg"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "BLOOM*IZ",
-        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
-      },
-      "artists": [
-        {
-          "name": "IZ*ONE",
-          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
-        }
-      ],
-      "duration_ms": 203666,
-      "name": "DAYDREAM",
-      "url": "https://open.spotify.com/track/19vNcjcAM9KC7ykx9V6eBy"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "\u2018The ReVe Festival\u2019 Day 2",
         "url": "https://open.spotify.com/album/3DXz6ItR9DzIw9S0h3Cxfc"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 236746,
       "name": "Ladies Night",
       "url": "https://open.spotify.com/track/73pkNaWK4N5QfkjabwW40s"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "BLOOM*IZ",
+        "url": "https://open.spotify.com/album/5dm3PMCHxTSOdDFZ1hlfMm"
+      },
+      "artists": [
+        {
+          "name": "IZ*ONE",
+          "url": "https://open.spotify.com/artist/5r1tUTxVSgvBHnoDuDODPH"
+        }
+      ],
+      "duration_ms": 203666,
+      "name": "DAYDREAM",
+      "url": "https://open.spotify.com/track/19vNcjcAM9KC7ykx9V6eBy"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
+        "name": "Onstage Digging Club Seoul THEME 01",
+        "url": "https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq"
+      },
+      "artists": [
+        {
+          "name": "george",
+          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
+        }
+      ],
+      "duration_ms": 250951,
+      "name": "After a long time(Digging Club Seoul Ver.)",
+      "url": "https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 226804,
       "name": "Submarine (with Hoody)",
       "url": "https://open.spotify.com/track/464dkAo0MIumAgzrq7rwnL"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
-        "name": "Onstage Digging Club Seoul THEME 01",
-        "url": "https://open.spotify.com/album/0VlHbj4WLWabmo5NlIvLBq"
-      },
-      "artists": [
-        {
-          "name": "george",
-          "url": "https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV"
-        }
-      ],
-      "duration_ms": 250951,
-      "name": "After a long time(Digging Club Seoul Ver.)",
-      "url": "https://open.spotify.com/track/3Kb84HFyDf5YRCt3GbbywY"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1063,6 +1063,26 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
+        "name": "Aquarium",
+        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
+      },
+      "artists": [
+        {
+          "name": "Bronze",
+          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
+        },
+        {
+          "name": "YUKIKA",
+          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
+        }
+      ],
+      "duration_ms": 270270,
+      "name": "Orange Road (with YUKIKA)",
+      "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
         "name": "5min to heartbreak",
         "url": "https://open.spotify.com/album/5Pxpez2LzgGCu3LZTzfxwa"
       },
@@ -1111,26 +1131,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "Aquarium",
-        "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
-      },
-      "artists": [
-        {
-          "name": "Bronze",
-          "url": "https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7"
-        },
-        {
-          "name": "YUKIKA",
-          "url": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
-        }
-      ],
-      "duration_ms": 270270,
-      "name": "Orange Road (with YUKIKA)",
-      "url": "https://open.spotify.com/track/0HITwsLMbMXKmiOyz41OjP"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "A song from the past",
         "url": "https://open.spotify.com/album/6lCUp7Ijtg2VJeZ8CZbyoC"
       },
@@ -1151,8 +1151,24 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "\ud658\uc0c1 Fantasy",
-        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
+        "name": "I Just Wanna Dance - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
+      },
+      "artists": [
+        {
+          "name": "TIFFANY",
+          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
+        }
+      ],
+      "duration_ms": 214490,
+      "name": "TALK",
+      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
       },
       "artists": [
         {
@@ -1160,9 +1176,9 @@
           "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
         }
       ],
-      "duration_ms": 210136,
-      "name": "\ud658\uc0c1 Fantasy",
-      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
+      "duration_ms": 221875,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1183,38 +1199,6 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "I Just Wanna Dance - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
-      },
-      "artists": [
-        {
-          "name": "TIFFANY",
-          "url": "https://open.spotify.com/artist/1t2HKR34gLWuQyyzLHcSm4"
-        }
-      ],
-      "duration_ms": 214490,
-      "name": "TALK",
-      "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
-        "name": "Sparkling",
-        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
-      },
-      "artists": [
-        {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
-        }
-      ],
-      "duration_ms": 231294,
-      "name": "Sparkling",
-      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
         "name": "Aquarium",
         "url": "https://open.spotify.com/album/22QfrmF0MIxc9In6DWqF1v"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 223351,
       "name": "Haru (with meenoi)",
       "url": "https://open.spotify.com/track/7BQfXOQiDBvDr1tamfYwwT"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
+        "name": "Sparkling",
+        "url": "https://open.spotify.com/album/6iMfRIibz4JxI1hbq17Qsp"
+      },
+      "artists": [
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 231294,
+      "name": "Sparkling",
+      "url": "https://open.spotify.com/track/6dE1qaFHk8HTVvEDuAudqz"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1267,8 +1267,8 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "Dive",
-        "url": "https://open.spotify.com/album/4CSodYxHpQLracYVV0emB7"
+        "name": "\ud658\uc0c1 Fantasy",
+        "url": "https://open.spotify.com/album/5l71P115BUUYgTjJcafrNj"
       },
       "artists": [
         {
@@ -1276,9 +1276,9 @@
           "url": "https://open.spotify.com/artist/3h4p2PKHb9JejBCHmWlthK"
         }
       ],
-      "duration_ms": 221875,
-      "name": "Dive",
-      "url": "https://open.spotify.com/track/1DC1Hhv3t5jnYrDNQbZu7u"
+      "duration_ms": 210136,
+      "name": "\ud658\uc0c1 Fantasy",
+      "url": "https://open.spotify.com/track/42XyvFHOonb6YzyyJQLkrT"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
+        "name": "THE PARK IN THE NIGHT part three",
+        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
+      },
+      "artists": [
+        {
+          "name": "GWSN",
+          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
+        }
+      ],
+      "duration_ms": 213150,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
+    },
+    {
+      "added_at": "2023-07-13 05:23:23",
+      "album": {
         "name": "AQUA CITY",
         "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
       },
@@ -1539,18 +1555,18 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "THE PARK IN THE NIGHT part three",
-        "url": "https://open.spotify.com/album/00YQEfKRNuz3GNQLUSX3Ut"
+        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
+        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
       },
       "artists": [
         {
-          "name": "GWSN",
-          "url": "https://open.spotify.com/artist/5fI4xffqGRGQvICSlJreMF"
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
         }
       ],
-      "duration_ms": 213150,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/6HwxnR6UWhMPv5HyWmh3vN"
+      "duration_ms": 208000,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1571,34 +1587,18 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "GFRIEND The 7th Mini Album `FEVER SEASON`",
-        "url": "https://open.spotify.com/album/653wpLLPgri15mVNwJOTVR"
+        "name": "Cream Dream",
+        "url": "https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj"
       },
       "artists": [
         {
-          "name": "GFRIEND",
-          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+          "name": "TrophyCat",
+          "url": "https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6SI48qGuImxXM3RuxQoAzT"
-    },
-    {
-      "added_at": "2023-07-13 05:23:23",
-      "album": {
-        "name": "Onstage Digging Club Seoul Part.05",
-        "url": "https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d"
-      },
-      "artists": [
-        {
-          "name": "DAYBREAK",
-          "url": "https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2"
-        }
-      ],
-      "duration_ms": 294308,
-      "name": "You always - Digging Club Seoul Ver.",
-      "url": "https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu"
+      "duration_ms": 196112,
+      "name": "Cream Dream",
+      "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
     },
     {
       "added_at": "2023-07-13 05:23:23",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2023-07-13 05:23:23",
       "album": {
-        "name": "Cream Dream",
-        "url": "https://open.spotify.com/album/7821Pdd8Mo29Hcf8eBGPBj"
+        "name": "Onstage Digging Club Seoul Part.05",
+        "url": "https://open.spotify.com/album/0WqyGHNOUN1zBS2lJQYo8d"
       },
       "artists": [
         {
-          "name": "TrophyCat",
-          "url": "https://open.spotify.com/artist/09s92QI9omMEfLrS2TcCKK"
+          "name": "DAYBREAK",
+          "url": "https://open.spotify.com/artist/1uMhweBMKu7nA1IgFc0yN2"
         }
       ],
-      "duration_ms": 196112,
-      "name": "Cream Dream",
-      "url": "https://open.spotify.com/track/3zwMPISRsuNGPyxARsLHkj"
+      "duration_ms": 294308,
+      "name": "You always - Digging Club Seoul Ver.",
+      "url": "https://open.spotify.com/track/0FezNsbNxAez1YvGkSd1Bu"
     },
     {
       "added_at": "2023-07-13 05:23:23",

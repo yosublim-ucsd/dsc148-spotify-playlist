@@ -1,12 +1,12 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 125879,
+  "num_followers": 126026,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNDQzNWFlOTFiMmI3MDhmMzc4Y2QxMmZhY2NiOGQyMmFkNWI1ZWRm",
+  "snapshot_id": "MCxhZjc5ODcwMmY2OWUxMjQ2NmQyMmZmNTRiYzgwMGNjODUyMDViZmU0",
   "tracks": [
     {
       "added_at": "2023-07-18 19:55:42",
@@ -95,22 +95,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Danielle (smile on my face)",
-        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        }
-      ],
-      "duration_ms": 201230,
-      "name": "Danielle (smile on my face)",
-      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "Plastic Ono Band",
         "url": "https://open.spotify.com/album/0DFYbYCcHCEJPcN1hODG6K"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 112040,
       "name": "Hold On - Remastered 2010",
       "url": "https://open.spotify.com/track/4bN43jYf41eIjJZ3UXQpuA"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Danielle (smile on my face)",
+        "url": "https://open.spotify.com/album/7xni0tZQ8q2rTHkIeBYr1Y"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        }
+      ],
+      "duration_ms": 201230,
+      "name": "Danielle (smile on my face)",
+      "url": "https://open.spotify.com/track/2sLVs5iX0osogh4jcsAJkv"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -619,6 +619,22 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
+        "name": "Model Man",
+        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
+      },
+      "artists": [
+        {
+          "name": "Model Man",
+          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+        }
+      ],
+      "duration_ms": 245653,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
         "name": "V I N C E N T",
         "url": "https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw"
       },
@@ -639,18 +655,18 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Model Man",
-        "url": "https://open.spotify.com/album/5K6zprAN97GLwBpDxiRgK4"
+        "name": "Trust In The Lifeforce Of The Deep Mystery",
+        "url": "https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK"
       },
       "artists": [
         {
-          "name": "Model Man",
-          "url": "https://open.spotify.com/artist/2T5NLCuN31j79zbxZ2XCSA"
+          "name": "The Comet Is Coming",
+          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
         }
       ],
-      "duration_ms": 245653,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/6ynQ0rykKOYSB75YxI0FrT"
+      "duration_ms": 235200,
+      "name": "Summon The Fire",
+      "url": "https://open.spotify.com/track/5c44MldQ2CvroamP73V1lp"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -667,22 +683,6 @@
       "duration_ms": 206370,
       "name": "Human Shape",
       "url": "https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
-        "name": "Trust In The Lifeforce Of The Deep Mystery",
-        "url": "https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK"
-      },
-      "artists": [
-        {
-          "name": "The Comet Is Coming",
-          "url": "https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU"
-        }
-      ],
-      "duration_ms": 235200,
-      "name": "Summon The Fire",
-      "url": "https://open.spotify.com/track/5c44MldQ2CvroamP73V1lp"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -847,6 +847,22 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
+        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
+        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 214893,
+      "name": "Do What You Gotta Do",
+      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
         "name": "Flowers",
         "url": "https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 532313,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
-        "name": "The Very Best Of Nina Simone 1967-1972 - Sugar In My Bowl",
-        "url": "https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 214893,
-      "name": "Do What You Gotta Do",
-      "url": "https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "Before",
-        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
+        "name": "When the Lights Go (Deluxe)",
+        "url": "https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf"
       },
       "artists": [
         {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+          "name": "Totally Enormous Extinct Dinosaurs",
+          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
         }
       ],
-      "duration_ms": 287871,
-      "name": "Before",
-      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
+      "duration_ms": 291840,
+      "name": "The Distance",
+      "url": "https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -1163,6 +1163,22 @@
       "duration_ms": 228897,
       "name": "Gated Area",
       "url": "https://open.spotify.com/track/2bdKTq31MlD9tQEzSPBVWl"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Before",
+        "url": "https://open.spotify.com/album/5vqILcEeCT0N1DeJBsLrGE"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 287871,
+      "name": "Before",
+      "url": "https://open.spotify.com/track/0FjyvdAffyJcnvbv3dLFyw"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -1199,22 +1215,6 @@
     {
       "added_at": "2023-07-18 19:55:42",
       "album": {
-        "name": "When the Lights Go (Deluxe)",
-        "url": "https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf"
-      },
-      "artists": [
-        {
-          "name": "Totally Enormous Extinct Dinosaurs",
-          "url": "https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN"
-        }
-      ],
-      "duration_ms": 291840,
-      "name": "The Distance",
-      "url": "https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
         "name": "24 Hours in a Disco 1978-82",
         "url": "https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL"
       },
@@ -1243,22 +1243,6 @@
       "duration_ms": 215000,
       "name": "Revelation Dub",
       "url": "https://open.spotify.com/track/3y8jFxffjXyyeKnsNTVXod"
-    },
-    {
-      "added_at": "2023-07-18 19:55:42",
-      "album": {
-        "name": "Studio One Presents Jennifer Lara",
-        "url": "https://open.spotify.com/album/3QE9DNEj6FFXEHfmhrdnon"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Lara",
-          "url": "https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4"
-        }
-      ],
-      "duration_ms": 318493,
-      "name": "I Am in Love",
-      "url": "https://open.spotify.com/track/2c00tSu4BVT2XueXbkCcsK"
     },
     {
       "added_at": "2023-07-18 19:55:42",
@@ -1295,6 +1279,22 @@
       "duration_ms": 205760,
       "name": "A Moment Of Mystery (feat. Toro y Moi)",
       "url": "https://open.spotify.com/track/5OmzLQz8dsXSvEcZ2gSsQ4"
+    },
+    {
+      "added_at": "2023-07-18 19:55:42",
+      "album": {
+        "name": "Studio One Presents Jennifer Lara",
+        "url": "https://open.spotify.com/album/3QE9DNEj6FFXEHfmhrdnon"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Lara",
+          "url": "https://open.spotify.com/artist/5GgX23TgqGxu7hCm6qVDo4"
+        }
+      ],
+      "duration_ms": 318493,
+      "name": "I Am in Love",
+      "url": "https://open.spotify.com/track/2c00tSu4BVT2XueXbkCcsK"
     },
     {
       "added_at": "2023-07-18 19:55:42",

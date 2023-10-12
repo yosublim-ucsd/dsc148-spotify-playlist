@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 
 > Música sabrosa para festejar la temporada de carnavales en México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265,313 likes - 75 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 265,174 likes - 75 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 | 27 | [Mayonesa](https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM) | [Chocolate](https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn) | [2000 Grandes Exitos](https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw) | 3:51 |
 | 28 | [Amor De Tres](https://open.spotify.com/track/2EAXWHqQhNxgJbg1ZnOXZ3) | [Aroma](https://open.spotify.com/artist/0IZ9yCkg8kUjJNwMA8SHYX) | [Amor De 3](https://open.spotify.com/album/70l7WreOvHkn9Jqbh0aqsF) | 3:08 |
 | 29 | [Guallando](https://open.spotify.com/track/4jRxEVNituPZObHbCSBZL3) | [Fulanito](https://open.spotify.com/artist/0hD97064k3LBUrRvfT42SE) | [El Hombre Mas Famoso De La Tierra](https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98) | 3:25 |
-| 30 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:12 |
-| 31 | [La Mujer del Pelotero](https://open.spotify.com/track/3dljpxvacIs8jux3Dd1nRw) | [Merenglass Grupo](https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA) | [Llegó Papá](https://open.spotify.com/album/392HEBX1hSP3IyUfuixNUv) | 3:18 |
-| 32 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
-| 33 | [Torero](https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 3:37 |
+| 30 | [La Mujer del Pelotero](https://open.spotify.com/track/3dljpxvacIs8jux3Dd1nRw) | [Merenglass Grupo](https://open.spotify.com/artist/0ihsJ5Ifilsay6RHJLqNJA) | [Llegó Papá](https://open.spotify.com/album/392HEBX1hSP3IyUfuixNUv) | 3:18 |
+| 31 | [Macarena \- Bayside Boys Remix](https://open.spotify.com/track/7obdw7ZGr6l1GqSBkFiY11) | [Los Del Rio](https://open.spotify.com/artist/2JXn03fudjyRkQ1Ye9f5rk) | [Fiesta Macarena](https://open.spotify.com/album/6yPJmxBhq3zxj9gfTddfyU) | 4:12 |
+| 32 | [Torero](https://open.spotify.com/track/709CndJJB3GTUhQD0LLFse) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 3:37 |
+| 33 | [Sopa de Caracol](https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7) | [Banda Blanca](https://open.spotify.com/artist/1Ykx49KpY0FqIXUwyuD3TJ) | [Lo Mejor de Banda Blanca \- 16 Exitos](https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20) | 4:53 |
 | 34 | [Cumbia sobre el río / Interludio](https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [Barrio Bravo](https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD) | 5:42 |
 | 35 | [Muchacha Triste](https://open.spotify.com/track/5Lhea4g9nPsbmwo2HIBpni) | [Los Fantasmas del Caribe](https://open.spotify.com/artist/3h3fPrG6WOJ38FUUpgAiha) | [Lo Mejor de Los Fantasmas del caribe](https://open.spotify.com/album/3YasW4KSKwDtKrCfaP3o5f) | 4:04 |
 | 36 | [Tonta](https://open.spotify.com/track/4HjIiXDTRKEVXL6Jov3kCY) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Orgánico](https://open.spotify.com/album/5JzUIBngiv4yCq8MfYMH74) | 3:25 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnkueJ7u5w.md) - [plain]
 | 74 | [Baila Esta Cumbia](https://open.spotify.com/track/23TUteFlo4GRVKy2zRvtMC) | [Selena](https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch) | [A.B\. Quintanilla III & Kumbia Kumbia Kings Present The Duets](https://open.spotify.com/album/05CvQnHFWD0JrII6bfM07e) | 4:22 |
 | 75 | [Tan Bella Y Tan Presumida](https://open.spotify.com/track/5KOu0YxjEPkbFjP9yPCNoP) | [Tropical Panamá](https://open.spotify.com/artist/5ztS529zLHyaHXhGi0kwsb) | [Eva María](https://open.spotify.com/album/7nsXFT6vkw3cwbv1Igyv3y) | 3:05 |
 
-Snapshot ID: `MCxkZDlmMWE3YTFjY2YxM2UxNTIyNDEwNThiNmVkOWVhNDQyNzcwY2Zh`
+Snapshot ID: `MCxiMGM3ZjQwMDk4MjFhZjk2YzYxYzlhNGJlMjBiOWQzOWQ3MDlmNzFi`

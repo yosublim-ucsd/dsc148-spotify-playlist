@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 
 > Jungle is still massive!
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,387 likes - 50 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,435 likes - 50 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,10 +47,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 37 | [D.L.P](https://open.spotify.com/track/65pDapueBkgH4GLp3CmIqq) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [D.L.P](https://open.spotify.com/album/6psXExUBdnxwrJJrTEMXzR) | 5:10 |
 | 38 | [Close Proximity](https://open.spotify.com/track/316jcVxjSLAM4oCwoTJhs8) | [Mani Festo](https://open.spotify.com/artist/5Uhy5m7C7k0TaJsDy6yQNg) | [SNKRX07](https://open.spotify.com/album/6acE2p1yUmLXPupsrzrXLg) | 8:34 |
 | 39 | [Myth & Fire](https://open.spotify.com/track/1lNYFUJp7Uu3lAGQk4qxCi) | [Dead Man's Chest](https://open.spotify.com/artist/4iTe4cVejrjgGipSNujZgG) | [Myth & Fire](https://open.spotify.com/album/1PcFFp5G1xFZDP2woQYc7d) | 7:42 |
-| 40 | [Black Rave Culture](https://open.spotify.com/track/5GC1sO0S9cFUGqnhZ3kxDC) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture](https://open.spotify.com/album/0BBcuJVrHGYrisoIZa3Om9) | 3:25 |
-| 41 | [Breakout \(Radio Edit\)](https://open.spotify.com/track/7BEW3kDFsv5ZrcI038JQHz) | [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [Breakout](https://open.spotify.com/album/1CUTjQ5IGKUZ87EAEMzDXl) | 3:29 |
-| 42 | [DANGER!](https://open.spotify.com/track/7FW0vBBn9JB364K2aUOWCp) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [DANGER!](https://open.spotify.com/album/0A2QLAw1OqmIUleF57n52T) | 2:56 |
-| 43 | [Loss of Self Identity](https://open.spotify.com/track/5dX5ocS9rXxhnFDsnAFx2q) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Loss of Self Identity](https://open.spotify.com/album/7GTZWxrsEtMaUQ8xyforOg) | 4:26 |
+| 40 | [Breakout \(Radio Edit\)](https://open.spotify.com/track/7BEW3kDFsv5ZrcI038JQHz) | [Phaeleh](https://open.spotify.com/artist/5NkUpXWkeXspvu7iQQOHhP) | [Breakout](https://open.spotify.com/album/1CUTjQ5IGKUZ87EAEMzDXl) | 3:29 |
+| 41 | [Black Rave Culture](https://open.spotify.com/track/5GC1sO0S9cFUGqnhZ3kxDC) | [Black Rave Culture](https://open.spotify.com/artist/2bKneBiy41WYebpWATs5NS) | [Black Rave Culture](https://open.spotify.com/album/0BBcuJVrHGYrisoIZa3Om9) | 3:25 |
+| 42 | [Loss of Self Identity](https://open.spotify.com/track/5dX5ocS9rXxhnFDsnAFx2q) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Loss of Self Identity](https://open.spotify.com/album/7GTZWxrsEtMaUQ8xyforOg) | 4:26 |
+| 43 | [DANGER!](https://open.spotify.com/track/7FW0vBBn9JB364K2aUOWCp) | [Good Luck](https://open.spotify.com/artist/4qjYf4FY77csjIalUFicQS) | [DANGER!](https://open.spotify.com/album/0A2QLAw1OqmIUleF57n52T) | 2:56 |
 | 44 | [1 Million Breaks](https://open.spotify.com/track/11CNiCDrhdElGjJB53Pxuv) | [AceMoMa](https://open.spotify.com/artist/5igyz9vWH6ban6NMfKeCir), [AceMo](https://open.spotify.com/artist/2NArTWfXN317Ok1Ale3xkX), [MoMa Ready](https://open.spotify.com/artist/5X6LaznpXYDwhSt5eirvRV) | [A Future](https://open.spotify.com/album/0DJkcrqqnMlkHt2ybbz7Qn) | 6:55 |
 | 45 | [Kissed It Up \- Original](https://open.spotify.com/track/5EgPKy3Q9kFyiDpAGUOmdr) | [Coco Bryce](https://open.spotify.com/artist/08hjAM9XAD28O0nWVKmlx5) | [Kissed It Up](https://open.spotify.com/album/22KE4qbTKXK95RQYCDm0T9) | 6:06 |
 | 46 | [Casca](https://open.spotify.com/track/4Qu41yeeAQ3bCQ4Dd8JUuG) | [Pugilist](https://open.spotify.com/artist/5PXa57bB4y0vrQqeZX7A2S), [Tamen](https://open.spotify.com/artist/2HVIdpqXvq82kEqaXzWIc6) | [Casca EP](https://open.spotify.com/album/3M4zL1J2RN7sZrRb4LcG4j) | 5:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0cgootvTU8I.md) - [plain]
 | 49 | [Come With Me](https://open.spotify.com/track/3y6hObDg86mAhr4C7SfmYf) | [CESRV](https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1), [Cybass](https://open.spotify.com/artist/0qKOvfud2ajAxBCZySk29p) | [Come With Me](https://open.spotify.com/album/7f0bGISHCJJFKYsM6yVNb7) | 4:17 |
 | 50 | [Stretchpants](https://open.spotify.com/track/2EAYnPgqUx33xH4d1pOnJL) | [Tim Reaper](https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd), [Dwarde](https://open.spotify.com/artist/6Yj4KzTFxItt3bGK9DuX4O) | [Stretchpants](https://open.spotify.com/album/64m3AzlGBOriNpCM8jTLd9) | 6:04 |
 
-Snapshot ID: `MCw5NmI4MDQzOGFlYzQ5OGY5NDYyNjliYmYwZDY2YzkyMDFiMzA1N2Ri`
+Snapshot ID: `MCxmZTU0YTUzNTg2M2FmODUzNDdkZDZhYTE0MmE5MGJjM2U5YzNhMDUw`

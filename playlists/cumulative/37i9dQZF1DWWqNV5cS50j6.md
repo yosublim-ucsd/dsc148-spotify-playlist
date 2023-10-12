@@ -4,7 +4,7 @@
 
 > Not NOT pop\. Cover: ericdoa
 
-1,525 songs - 3 day 1 hr 30 min
+1,526 songs - 3 day 1 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -417,7 +417,8 @@
 | [FACEDOWN](https://open.spotify.com/track/7BBSPfuSgfIC4QNxGwv3To) | [JAWNZA](https://open.spotify.com/artist/0Vee3k2XwGQQkizW7qLeYD) | [FREERADICAL](https://open.spotify.com/album/16BKHt7X9RLsMWVzQdUheU) | 3:56 | 2020-10-13\* | 2021-01-23 |
 | [FADE](https://open.spotify.com/track/2queNX3zTuto5XSXuUZlEe) | [Ramzoid](https://open.spotify.com/artist/2Ci3Sflo2BfC77wTwn2hbH), [sober rob](https://open.spotify.com/artist/532VhOtZQ47TWSTGwbZ4kF) | [FADE](https://open.spotify.com/album/1Qok0qVzGIHGooRA7zWZGM) | 2:24 | 2021-06-12 | 2021-10-14 |
 | [FAF](https://open.spotify.com/track/70ig0TCWBDkxBBpx1C6cj5) | [Juto](https://open.spotify.com/artist/2txTOM1PXeT6aMDnEtSbn1) | [Wool](https://open.spotify.com/album/1WTHhcrE1GoGl28FM5FjT5) | 1:48 | 2020-10-13\* | 2021-01-23 |
-| [Fairweather Friends](https://open.spotify.com/track/3VMK6tAjOT4INvBdZOtB9J) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Fairweather Friends](https://open.spotify.com/album/0Lgte4FZ2oPj12uHFYWCQn) | 1:34 | 2023-09-15 |  |
+| [Fairweather Friends](https://open.spotify.com/track/05tQzyLaod9RqjabafQYKv) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 1:34 | 2023-09-22 |  |
+| [Fairweather Friends](https://open.spotify.com/track/3VMK6tAjOT4INvBdZOtB9J) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Fairweather Friends](https://open.spotify.com/album/0Lgte4FZ2oPj12uHFYWCQn) | 1:34 | 2023-09-15 | 2023-10-12 |
 | [Fairy Dust](https://open.spotify.com/track/5hV4znzZrmszoZw2v41aMD) | [Puri](https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp), [GINGE](https://open.spotify.com/artist/5FuFC5tiYFDxVJQVupJ6Zt) | [Fairy Dust](https://open.spotify.com/album/6vPj3iykyriaTaYRUQiG9c) | 2:54 | 2021-02-20 | 2021-10-16 |
 | [Faith](https://open.spotify.com/track/3TdKiAVOFGhQ7ddYdCUhRA) | [MONEYPHONE](https://open.spotify.com/artist/3siLw69GHBIbLDvDdoFphB) | [Faith\* MIXTAPE](https://open.spotify.com/album/3dV5DFX67HxH4RoRn3Ft7F) | 2:38 | 2020-11-20 | 2021-02-27 |
 | [FAIY](https://open.spotify.com/track/7l7cLMpCQ01ooTkDFv54pK) | [emawk](https://open.spotify.com/artist/2zAshenjqDlcL4pudfySBY), [Zach Ezzy](https://open.spotify.com/artist/1gSte6U8m2rJabGxR9DDow) | [FAIY](https://open.spotify.com/album/0qS8RQzKUF7ZzH49vqluDI) | 3:21 | 2021-05-29 | 2021-10-14 |

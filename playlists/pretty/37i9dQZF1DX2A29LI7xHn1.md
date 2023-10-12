@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,018,384 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,016,125 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 | 99 | [I Know](https://open.spotify.com/track/2RkMSIqUdveO3p8KVpYBYI) | [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW) | [I Know](https://open.spotify.com/album/6MxC0Icp2DZi0jbzvD4M8Z) | 2:32 |
 | 100 | [Toxic](https://open.spotify.com/track/557DLyFeg06jCV2cpT005C) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY) | [Toxic](https://open.spotify.com/album/3nCelfHqub7N18PxbzSrD0) | 3:33 |
 
-Snapshot ID: `MCw4NzBmMWVlODU1Yzg5NjRlY2QyMzIyNGMwMjIwYzI2MGY5MzhjMWYw`
+Snapshot ID: `MCwxMjkyMDIwODlmMDNlMDRhYmNmZDMzMmQ1MzhkNjMzOWI5YTgwMjQy`

@@ -1,12 +1,12 @@
 {
   "description": "canzoni tristi, rap e indie, per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, sol\u00f8)",
-  "num_followers": 41432,
+  "num_followers": 41464,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmOWJkMGY5MmEyNzljMGY1NmYxZWU5MDc1ZWE0YWIwMDJkZTg0NTAx",
+  "snapshot_id": "MCxmYzA1N2E4YmZhNzZiYmY1MTA4YTg0NjU1NzRkNmM1OWM4ZmM0ZTg3",
   "tracks": [
     {
       "added_at": "2023-09-07 22:01:00",
@@ -243,18 +243,22 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "La mia stanza",
-        "url": "https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b"
+        "name": "14",
+        "url": "https://open.spotify.com/album/7290JgdAoUMQmFzAVztJpk"
       },
       "artists": [
         {
-          "name": "NASKA",
-          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
+          "name": "Jayred",
+          "url": "https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08"
+        },
+        {
+          "name": "yuks",
+          "url": "https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd"
         }
       ],
-      "duration_ms": 203360,
-      "name": "Male",
-      "url": "https://open.spotify.com/track/07nCfjUbtcJsIxfHdXxlUs"
+      "duration_ms": 110750,
+      "name": "14",
+      "url": "https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -275,22 +279,18 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/7290JgdAoUMQmFzAVztJpk"
+        "name": "La mia stanza",
+        "url": "https://open.spotify.com/album/2PyTVVc89tYsUmS5INdW4b"
       },
       "artists": [
         {
-          "name": "Jayred",
-          "url": "https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08"
-        },
-        {
-          "name": "yuks",
-          "url": "https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd"
+          "name": "NASKA",
+          "url": "https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d"
         }
       ],
-      "duration_ms": 110750,
-      "name": "14",
-      "url": "https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ"
+      "duration_ms": 203360,
+      "name": "Male",
+      "url": "https://open.spotify.com/track/07nCfjUbtcJsIxfHdXxlUs"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1183,26 +1183,6 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "ONIRO",
-        "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
-      },
-      "artists": [
-        {
-          "name": "Faster",
-          "url": "https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd"
-        },
-        {
-          "name": "JXN",
-          "url": "https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "DOVE SEI",
-      "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
         "name": "Shama \u00e8 buono",
         "url": "https://open.spotify.com/album/4XWdTJr5axPt4DAZRkEpOX"
       },
@@ -1219,6 +1199,26 @@
       "duration_ms": 144750,
       "name": "Shama \u00e8 buono",
       "url": "https://open.spotify.com/track/73sBRhhyCwGx8VtdGHhwcl"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "ONIRO",
+        "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
+      },
+      "artists": [
+        {
+          "name": "Faster",
+          "url": "https://open.spotify.com/artist/6y3YL8atGp96e9pvlB3snd"
+        },
+        {
+          "name": "JXN",
+          "url": "https://open.spotify.com/artist/3MYT2UTOP4RHngspyochga"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "DOVE SEI",
+      "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Attacco di Panico",
-        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
-      },
-      "artists": [
-        {
-          "name": "Lost Kids",
-          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
-        }
-      ],
-      "duration_ms": 145750,
-      "name": "Attacco di Panico",
-      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
         "name": "FARSI MALE A NOI VA BENE",
         "url": "https://open.spotify.com/album/4kyZ7s8g1iT6LZAHJAcd29"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 116933,
       "name": "(SEMBRA BELLO)",
       "url": "https://open.spotify.com/track/6l5doB3A29SS3h0SVL8x1W"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "Attacco di Panico",
+        "url": "https://open.spotify.com/album/32S1XPsFLlpWzKXHhfHpli"
+      },
+      "artists": [
+        {
+          "name": "Lost Kids",
+          "url": "https://open.spotify.com/artist/5ly3ec0V7ETrC9fSvOX9G6"
+        }
+      ],
+      "duration_ms": 145750,
+      "name": "Attacco di Panico",
+      "url": "https://open.spotify.com/track/16w3jEiUvbHNYtEajmzh86"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1443,6 +1443,58 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
+        "name": "poster",
+        "url": "https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge"
+      },
+      "artists": [
+        {
+          "name": "Cicco Sanchez",
+          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
+        }
+      ],
+      "duration_ms": 169795,
+      "name": "poster",
+      "url": "https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "Fuori di me",
+        "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
+      },
+      "artists": [
+        {
+          "name": "Kia",
+          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
+        },
+        {
+          "name": "Liarr",
+          "url": "https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY"
+        }
+      ],
+      "duration_ms": 166267,
+      "name": "Clipper",
+      "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "Amor proprio",
+        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
+      },
+      "artists": [
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        }
+      ],
+      "duration_ms": 109357,
+      "name": "Ricordi",
+      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
         "name": "MUSICA ALTA E STRESS",
         "url": "https://open.spotify.com/album/4dYxfdCXvfE0NyBDgKAFQo"
       },
@@ -1467,50 +1519,18 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "poster",
-        "url": "https://open.spotify.com/album/7yeV8I2WFKaliL35x3BMge"
+        "name": "SBAGLI",
+        "url": "https://open.spotify.com/album/2QBjof3TQC9crDTYKzz8dg"
       },
       "artists": [
         {
-          "name": "Cicco Sanchez",
-          "url": "https://open.spotify.com/artist/4WCGWBfRK9jWrDtxj4Qdel"
+          "name": "Zeta",
+          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
         }
       ],
-      "duration_ms": 169795,
-      "name": "poster",
-      "url": "https://open.spotify.com/track/3AMkjj32qDTUCY4sIcUQvz"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "Amor proprio",
-        "url": "https://open.spotify.com/album/6kk9gwIVQ26YpVgj1PbI08"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 109357,
-      "name": "Ricordi",
-      "url": "https://open.spotify.com/track/6Zo9n6AT5BCQiwHNk0PaGE"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "Pagine",
-        "url": "https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU"
-      },
-      "artists": [
-        {
-          "name": "Kia",
-          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Pagine",
-      "url": "https://open.spotify.com/track/2qfLABUmMubADB6tRridR3"
+      "duration_ms": 158048,
+      "name": "SBAGLI",
+      "url": "https://open.spotify.com/track/376pQQ2QTVuqOP1HmiKymm"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1527,26 +1547,6 @@
       "duration_ms": 171250,
       "name": "sola (con me)",
       "url": "https://open.spotify.com/track/0zmgkltOjhGASQiZXtskmD"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "Credimi ancora",
-        "url": "https://open.spotify.com/album/0getMLUgdB1w2NeJy0UOGB"
-      },
-      "artists": [
-        {
-          "name": "ernvss",
-          "url": "https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza"
-        },
-        {
-          "name": "Coron",
-          "url": "https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax"
-        }
-      ],
-      "duration_ms": 215283,
-      "name": "Credimi ancora",
-      "url": "https://open.spotify.com/track/4xTg0JYQVlDsIiNTbHIQOQ"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1583,6 +1583,42 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
+        "name": "Pagine",
+        "url": "https://open.spotify.com/album/0jWndBcFpzkAAhyVfwGBdU"
+      },
+      "artists": [
+        {
+          "name": "Kia",
+          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Pagine",
+      "url": "https://open.spotify.com/track/2qfLABUmMubADB6tRridR3"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
+        "name": "Credimi ancora",
+        "url": "https://open.spotify.com/album/0getMLUgdB1w2NeJy0UOGB"
+      },
+      "artists": [
+        {
+          "name": "ernvss",
+          "url": "https://open.spotify.com/artist/7gC9tWX4RacI5aIaYQCPza"
+        },
+        {
+          "name": "Coron",
+          "url": "https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax"
+        }
+      ],
+      "duration_ms": 215283,
+      "name": "Credimi ancora",
+      "url": "https://open.spotify.com/track/4xTg0JYQVlDsIiNTbHIQOQ"
+    },
+    {
+      "added_at": "2023-09-07 22:01:00",
+      "album": {
         "name": "X4",
         "url": "https://open.spotify.com/album/49Qeb8YVPKSN3OBkvwXyWl"
       },
@@ -1595,22 +1631,6 @@
       "duration_ms": 154390,
       "name": "X4",
       "url": "https://open.spotify.com/track/57PzEk2wg7T1JtKwwhBpIT"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
-        "name": "SBAGLI",
-        "url": "https://open.spotify.com/album/2QBjof3TQC9crDTYKzz8dg"
-      },
-      "artists": [
-        {
-          "name": "Zeta",
-          "url": "https://open.spotify.com/artist/6gRamOYCDmzgHxeWxO1RRP"
-        }
-      ],
-      "duration_ms": 158048,
-      "name": "SBAGLI",
-      "url": "https://open.spotify.com/track/376pQQ2QTVuqOP1HmiKymm"
     },
     {
       "added_at": "2023-09-07 22:01:00",
@@ -1667,26 +1687,6 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Fuori di me",
-        "url": "https://open.spotify.com/album/6mjUd8akec2Qk3itsNHLOv"
-      },
-      "artists": [
-        {
-          "name": "Kia",
-          "url": "https://open.spotify.com/artist/4IA59RHOyKrygCtloEbopT"
-        },
-        {
-          "name": "Liarr",
-          "url": "https://open.spotify.com/artist/2pWViDzgkgNr0CfhxZTvdY"
-        }
-      ],
-      "duration_ms": 166267,
-      "name": "Clipper",
-      "url": "https://open.spotify.com/track/5RdIIacDdbqAhWgEq1fMcL"
-    },
-    {
-      "added_at": "2023-09-07 22:01:00",
-      "album": {
         "name": "Piangi mai (domani)",
         "url": "https://open.spotify.com/album/0MwrHf04OMj7HOG29XC5ev"
       },
@@ -1735,22 +1735,22 @@
     {
       "added_at": "2023-09-07 22:01:00",
       "album": {
-        "name": "Darkness",
-        "url": "https://open.spotify.com/album/33xUHphRzbKvltSyyWwsp7"
+        "name": "Rottami",
+        "url": "https://open.spotify.com/album/5kuJSMOo46VXXSG4DGIT2U"
       },
       "artists": [
         {
-          "name": "Alelock",
-          "url": "https://open.spotify.com/artist/07WXNU0vFuZ3pOZyU8f0Bt"
+          "name": "Coron",
+          "url": "https://open.spotify.com/artist/29eIf9x9g7Gr8zhW5kLSax"
         },
         {
-          "name": "Gaglia",
-          "url": "https://open.spotify.com/artist/1Yqt8wYHTQeRqxyKbO9bBN"
+          "name": "Redys",
+          "url": "https://open.spotify.com/artist/0Fp2LQN1MdfCEgyZXRwUZ1"
         }
       ],
-      "duration_ms": 174814,
-      "name": "Darkness",
-      "url": "https://open.spotify.com/track/4JAXS7jfxjmOteMeZDq9bT"
+      "duration_ms": 199053,
+      "name": "Rottami",
+      "url": "https://open.spotify.com/track/4LqZES294uk01Y7c6Qyyau"
     }
   ],
   "unique_name": "ragazzo triste",

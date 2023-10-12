@@ -1,28 +1,44 @@
 {
   "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Angelina Mango",
-  "num_followers": 385622,
+  "num_followers": 385367,
   "original_name": "GENERAZIONE Z",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWNhODNjNGM2MWJmZWZmYzhlOWM2MDBhNjlmMGVjMDBhZWRkMGM1",
+  "snapshot_id": "MCw1M2FmYzdhNzMwNGJhNTU4MmEyNDcwZjA1ZDkzYzI5ZGZiNWFiYjg2",
   "tracks": [
     {
       "added_at": "2023-10-05 22:01:00",
       "album": {
-        "name": "Papaya",
-        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
+        "name": "Che t'o dico a fa'",
+        "url": "https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE"
       },
       "artists": [
         {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+          "name": "Angelina Mango",
+          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
         }
       ],
-      "duration_ms": 139714,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
+      "duration_ms": 187742,
+      "name": "Che t'o dico a fa'",
+      "url": "https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY"
+    },
+    {
+      "added_at": "2023-10-05 22:01:00",
+      "album": {
+        "name": "INVISIBILI",
+        "url": "https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL"
+      },
+      "artists": [
+        {
+          "name": "Il Tre",
+          "url": "https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu"
+        }
+      ],
+      "duration_ms": 162725,
+      "name": "A VOLTE",
+      "url": "https://open.spotify.com/track/1XhRxRUsnqbnWUGwTEDtJC"
     },
     {
       "added_at": "2023-10-05 22:01:00",
@@ -43,18 +59,38 @@
     {
       "added_at": "2023-10-05 22:01:00",
       "album": {
-        "name": "Che t'o dico a fa'",
-        "url": "https://open.spotify.com/album/7kILSxiEN9pJrFyr7Bs8OE"
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
       },
       "artists": [
         {
-          "name": "Angelina Mango",
-          "url": "https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f"
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
         }
       ],
-      "duration_ms": 187742,
-      "name": "Che t'o dico a fa'",
-      "url": "https://open.spotify.com/track/20qlAd6sHAYjc7TrrM5VeY"
+      "duration_ms": 139714,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
+    },
+    {
+      "added_at": "2023-10-05 22:01:00",
+      "album": {
+        "name": "Pop Corn e patatine RMX",
+        "url": "https://open.spotify.com/album/2zFbkDYonDRzA6zf0M7zDx"
+      },
+      "artists": [
+        {
+          "name": "Pepe",
+          "url": "https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE"
+        },
+        {
+          "name": "Samurai Jay",
+          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
+        }
+      ],
+      "duration_ms": 175800,
+      "name": "Pop Corn e patatine RMX",
+      "url": "https://open.spotify.com/track/1ovirVCRbRPiDttcIxqWus"
     },
     {
       "added_at": "2023-10-05 22:01:00",
@@ -79,22 +115,6 @@
     {
       "added_at": "2023-10-05 22:01:00",
       "album": {
-        "name": "INVISIBILI",
-        "url": "https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL"
-      },
-      "artists": [
-        {
-          "name": "Il Tre",
-          "url": "https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu"
-        }
-      ],
-      "duration_ms": 162725,
-      "name": "A VOLTE",
-      "url": "https://open.spotify.com/track/1XhRxRUsnqbnWUGwTEDtJC"
-    },
-    {
-      "added_at": "2023-10-05 22:01:00",
-      "album": {
         "name": "BELLA",
         "url": "https://open.spotify.com/album/66RYsaXoAIodtHYI7iKFZP"
       },
@@ -111,6 +131,46 @@
       "duration_ms": 181386,
       "name": "BELLA",
       "url": "https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM"
+    },
+    {
+      "added_at": "2023-10-05 22:01:00",
+      "album": {
+        "name": "Pensando a lei",
+        "url": "https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn"
+      },
+      "artists": [
+        {
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        }
+      ],
+      "duration_ms": 176245,
+      "name": "Pensando a lei",
+      "url": "https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp"
+    },
+    {
+      "added_at": "2023-10-05 22:01:00",
+      "album": {
+        "name": "La Notte Vola - RMX (feat. Lorella Cuccarini)",
+        "url": "https://open.spotify.com/album/3yaTIPOD3iR079s8cfB0wA"
+      },
+      "artists": [
+        {
+          "name": "Olly",
+          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
+        },
+        {
+          "name": "JVLI",
+          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
+        },
+        {
+          "name": "Lorella Cuccarini",
+          "url": "https://open.spotify.com/artist/6vwWMr71jvuVrDQu92Li7U"
+        }
+      ],
+      "duration_ms": 142714,
+      "name": "La Notte Vola - RMX (feat. Lorella Cuccarini)",
+      "url": "https://open.spotify.com/track/6wzhvovM1fT42S71JLZpNv"
     },
     {
       "added_at": "2023-10-05 22:01:00",
@@ -183,26 +243,6 @@
     {
       "added_at": "2023-10-05 22:01:00",
       "album": {
-        "name": "Pop Corn e patatine RMX",
-        "url": "https://open.spotify.com/album/2zFbkDYonDRzA6zf0M7zDx"
-      },
-      "artists": [
-        {
-          "name": "Pepe",
-          "url": "https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE"
-        },
-        {
-          "name": "Samurai Jay",
-          "url": "https://open.spotify.com/artist/2n0Ki4A5tKTEloq3WCt1IH"
-        }
-      ],
-      "duration_ms": 175800,
-      "name": "Pop Corn e patatine RMX",
-      "url": "https://open.spotify.com/track/1ovirVCRbRPiDttcIxqWus"
-    },
-    {
-      "added_at": "2023-10-05 22:01:00",
-      "album": {
         "name": "Piango In Discoteca",
         "url": "https://open.spotify.com/album/1anbRiJBO8gwQigkTZrtQD"
       },
@@ -235,22 +275,6 @@
     {
       "added_at": "2023-10-05 22:01:00",
       "album": {
-        "name": "Pensando a lei",
-        "url": "https://open.spotify.com/album/16TddOdM2qRyKoyjy05nQn"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        }
-      ],
-      "duration_ms": 176245,
-      "name": "Pensando a lei",
-      "url": "https://open.spotify.com/track/4Yi4RRhp3nfKR1FDbXlHBp"
-    },
-    {
-      "added_at": "2023-10-05 22:01:00",
-      "album": {
         "name": "INVISIBILI",
         "url": "https://open.spotify.com/album/6iT3GIpurtTE3MiMB0VxQL"
       },
@@ -279,30 +303,6 @@
       "duration_ms": 125000,
       "name": "ti sei scordata del mio compleanno",
       "url": "https://open.spotify.com/track/2qlC6uXZjQOkfkEdOHRxVN"
-    },
-    {
-      "added_at": "2023-10-05 22:01:00",
-      "album": {
-        "name": "La Notte Vola - RMX (feat. Lorella Cuccarini)",
-        "url": "https://open.spotify.com/album/3yaTIPOD3iR079s8cfB0wA"
-      },
-      "artists": [
-        {
-          "name": "Olly",
-          "url": "https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl"
-        },
-        {
-          "name": "JVLI",
-          "url": "https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf"
-        },
-        {
-          "name": "Lorella Cuccarini",
-          "url": "https://open.spotify.com/artist/6vwWMr71jvuVrDQu92Li7U"
-        }
-      ],
-      "duration_ms": 142714,
-      "name": "La Notte Vola - RMX (feat. Lorella Cuccarini)",
-      "url": "https://open.spotify.com/track/6wzhvovM1fT42S71JLZpNv"
     },
     {
       "added_at": "2023-10-05 22:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 
 > Classic Latin tunes to get you in the Christmas spirit\. Cover: José Feliciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,031 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,864 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 34 | [Feliz Año Nuevo, Feliz Navidad](https://open.spotify.com/track/5bEBGopE3OBIAo0lOMexAy) | [Tatiana](https://open.spotify.com/artist/60alJNnwGVBdNXrx4kOfW0) | [Navidad Con Tatiana](https://open.spotify.com/album/2Cy7J8on5jZmK64zEcvc5z) | 3:27 |
 | 35 | [Dime Niño ¿de Quien Eres?](https://open.spotify.com/track/0Mrgc3kVm21j2idMBEuDhy) | [Parchis](https://open.spotify.com/artist/0c2KfzRxChNVQBojuWKAb6) | [Villancicos](https://open.spotify.com/album/06MKXQaBOaE3NThVvfP1F4) | 2:32 |
 | 36 | [Esta Navidad Mi Deseo Eres Tú \- Sinfónico](https://open.spotify.com/track/6pY7Gm2HvHDzNedY4YtF8b) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Diego Torres Sinfónico](https://open.spotify.com/album/49vYU4qT2wQXGJdhY8Bx97) | 2:51 |
-| 37 | [24 de Diciembre](https://open.spotify.com/track/4exuqc3lTPEpkiKS8uPKpm) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Bailando](https://open.spotify.com/album/7fATF75IvCclXfUHJZZmG6) | 3:27 |
-| 38 | [Adeste Fideles](https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Posada](https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI) | 3:07 |
+| 37 | [Adeste Fideles](https://open.spotify.com/track/3EadxZrmj6dmccEsm2Faku) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Posada](https://open.spotify.com/album/5jczkcdRL524T8wnTE4dvI) | 3:07 |
+| 38 | [24 de Diciembre](https://open.spotify.com/track/4exuqc3lTPEpkiKS8uPKpm) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Bailando](https://open.spotify.com/album/7fATF75IvCclXfUHJZZmG6) | 3:27 |
 | 39 | [Noche de Paz](https://open.spotify.com/track/1V3LF91qeF9EeBY7GM84S4) | [Luis Figueroa](https://open.spotify.com/artist/7waNCUQ1Ne7OoNHgqpgMZ7) | [Noche de Paz](https://open.spotify.com/album/1OyILXUvwLyWD6rXN0vDOW) | 3:41 |
 | 40 | [Nuestra Canción De Navidad](https://open.spotify.com/track/2LTlzcu4WICKICBeOlbVV0) | [Myriam Hernandez](https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT) | [Nuestra Navidad](https://open.spotify.com/album/3nIu3AmwoEy4RlBJGd6rlG) | 3:36 |
 | 41 | [Tu Adiós Es Mi Navidad](https://open.spotify.com/track/0GA7enjACq1tLPVnJ9pDI1) | [Lucha Villa](https://open.spotify.com/artist/2LYsttKhPVXOf7qD8kTCr1) | [Dios Me Señaló](https://open.spotify.com/album/2wpm5727wmmFOtmmmtjf3N) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8qhRpXsdDY5.md) - [plain]
 | 49 | [Flamazo Navideño:](https://open.spotify.com/track/2q4Qi61qRZSMrgxm1UShXO) | [Los Flamers](https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq) | [Flamazo Navideno](https://open.spotify.com/album/3WJ8Xb2JXfhoJSa9QAm2Fo) | 15:39 |
 | 50 | [Cinco Pa' las 12](https://open.spotify.com/track/7mSmItMB11IWTIEOVKLxuG) | [Néstor Zavarce](https://open.spotify.com/artist/40hVyUyiL8MHh9BhvxI6Gr) | [Cinco Pa' las 12](https://open.spotify.com/album/1b14IxxvdVhUXvDmEgAzp2) | 3:01 |
 
-Snapshot ID: `MCxiYWQzNTk4Y2U3MjY5NzBmYWYwODI1YWQyMGIzN2RjOTA0NjE4NzY5`
+Snapshot ID: `MCw4YzYwZWFiM2EyMWNkYjMxNjI4YTQxN2E1MjNkZjdkODVlYmRlZTIz`

@@ -1,12 +1,12 @@
 {
   "description": "Groovy, dancy, funky stuff.",
-  "num_followers": 285843,
+  "num_followers": 286031,
   "original_name": "Soir\u00e9e",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGZmMTNlNjcxMDM0MTNiNzQzMTIwNDI2NGY1OTk4YTIzZTk1Y2Rh",
+  "snapshot_id": "MCxiZDM5MzQ5MmMwYjA2OWFkYzBjMDQ2ZTgzMzU1YzhmZTBmN2FhYmMx",
   "tracks": [
     {
       "added_at": "2023-09-29 19:53:20",
@@ -379,22 +379,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "I Feel Good",
-        "url": "https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO"
-      },
-      "artists": [
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 136058,
-      "name": "I Feel Good",
-      "url": "https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "Think About Things",
         "url": "https://open.spotify.com/album/3wnnkEyvrINGbPfVbIzAXs"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 173385,
       "name": "Think About Things",
       "url": "https://open.spotify.com/track/77yGu0p7APK39lotu7CLk5"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "I Feel Good",
+        "url": "https://open.spotify.com/album/4wKGNANAC9OHjccAiihjGO"
+      },
+      "artists": [
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 136058,
+      "name": "I Feel Good",
+      "url": "https://open.spotify.com/track/3lUQpvfWFcxZC3RYAVGE7F"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Dance Moves",
-        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
-      },
-      "artists": [
-        {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
-        }
-      ],
-      "duration_ms": 243945,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh"
-    },
-    {
-      "added_at": "2023-09-29 19:53:20",
-      "album": {
         "name": "Wallflower",
         "url": "https://open.spotify.com/album/6N89NI7s5lwbpa9s1VWgYm"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 177498,
       "name": "Wallflower",
       "url": "https://open.spotify.com/track/2mlCfcprMj3aOUX2uYuQEE"
+    },
+    {
+      "added_at": "2023-09-29 19:53:20",
+      "album": {
+        "name": "Dance Moves",
+        "url": "https://open.spotify.com/album/0ZMXkL1EvpeOWxFQ2K3UKd"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "duration_ms": 243945,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/38MS1Ch2ckFL4O29UVg7Nh"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -807,22 +807,18 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Heartquake",
-        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
+        "name": "Dream in Colour",
+        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
         }
       ],
-      "duration_ms": 218373,
-      "name": "Heartquake",
-      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
+      "duration_ms": 183896,
+      "name": "Skin on Skin",
+      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
     },
     {
       "added_at": "2023-09-29 19:53:20",
@@ -843,18 +839,22 @@
     {
       "added_at": "2023-09-29 19:53:20",
       "album": {
-        "name": "Dream in Colour",
-        "url": "https://open.spotify.com/album/3TaQ5k2QKdRly0pjMPZF6e"
+        "name": "Heartquake",
+        "url": "https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R"
       },
       "artists": [
         {
-          "name": "Franc Moody",
-          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
         }
       ],
-      "duration_ms": 183896,
-      "name": "Skin on Skin",
-      "url": "https://open.spotify.com/track/3OGSGJCdO1nbOrByhEuDus"
+      "duration_ms": 218373,
+      "name": "Heartquake",
+      "url": "https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q"
     },
     {
       "added_at": "2023-09-29 19:53:20",

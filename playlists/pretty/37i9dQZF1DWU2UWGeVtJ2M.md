@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 
 > 試著拋開所有煩惱，配上一點特意的小確幸，這一刻只屬於你...
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,830 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,683 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 44 | [Sorry \- Original Demo](https://open.spotify.com/track/6eR1N0EBHiDkGDzegX99d3) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:24 |
 | 45 | [Live or Die](https://open.spotify.com/track/0OiXVxQHUFxvYxQew4xyhD) | [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW), [Lil Xan](https://open.spotify.com/artist/3EXdLajEO02ziZ90P90bSW) | [Live or Die](https://open.spotify.com/album/2HwsBLoqCa1vUDwKU3km72) | 3:14 |
 | 46 | [IT'S NOT THAT SERIOUS](https://open.spotify.com/track/0L3KqlhJGIqpcX6eAC55rX) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [IT'S NOT THAT SERIOUS](https://open.spotify.com/album/3NxTfjuRvlRzNIEeCXPgNk) | 2:20 |
-| 47 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 |
-| 48 | [daydreams](https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:35 |
+| 47 | [daydreams](https://open.spotify.com/track/3XHjBo5wg5tvVugQRXkP0P) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [life's a beach](https://open.spotify.com/album/2xOawu4iq9fwcdFNvGBTdl) | 2:35 |
+| 48 | [A day in the water](https://open.spotify.com/track/5GGLwBHZvoiub0mYt5OUSt) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [PARANOÏA, ANGELS, TRUE LOVE](https://open.spotify.com/album/2Yg3Rha1y4PDlIWh5vy6rJ) | 4:01 |
 | 49 | [So](https://open.spotify.com/track/3fDHHkOEw2Fr8km3T4ixYQ) | [HNNY](https://open.spotify.com/artist/6Yae9Ia1nq6JLLojBzwN1r) | [So Sunshine](https://open.spotify.com/album/3tw7ZPvVJo1DqIZvdE6cos) | 2:16 |
 | 50 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
 | 51 | [Summer 2020](https://open.spotify.com/track/0t2q2c43AATY4z1GI883Be) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Chilombo \(Deluxe\)](https://open.spotify.com/album/1JsySWOa2RchsBB2N4313v) | 3:16 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 64 | [Want U Bad](https://open.spotify.com/track/5Oh1oHKCGN0LhlOp9RUhP3) | [Fern.](https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF) | [Want U Bad](https://open.spotify.com/album/2CNJGfWY7q1ZwiQa3Gk8IT) | 3:42 |
 | 65 | [What About Me \(feat\. Sosamann\)](https://open.spotify.com/track/3JX0dOCIAiaR8MP3ryXWuM) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Sosamann](https://open.spotify.com/artist/3Bj81IbILbuj2uEwWXMdXI) | [Tha Carter V](https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg) | 3:36 |
 | 66 | [Way Out](https://open.spotify.com/track/54vmnIj6yLipSrw1KMK3zg) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [V I N C E N T](https://open.spotify.com/album/5OUJEZppb5mHHwR5Uw0rzw) | 3:20 |
-| 67 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
-| 68 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 |
+| 67 | [The Mannequin Song](https://open.spotify.com/track/0m35SoBcW7jLn9jpF1WktE) | [Hotel Ugly](https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb) | [The Mannequin Song](https://open.spotify.com/album/0Im43RZaQ5RIKHRn6mKTAQ) | 2:44 |
+| 68 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
 | 69 | [Cheap Vacations \(feat\. Glassface\)](https://open.spotify.com/track/7fGmx2dHgPwynQrfwPMemP) | [tobi lou](https://open.spotify.com/artist/4T8NIfZmVY6TJFqVzN6X49), [Glassface](https://open.spotify.com/artist/4X4M4anXziw63YWbKxZwiP) | [Live on Ice](https://open.spotify.com/album/6K7SjlIebufubxXGf4uA7a) | 3:35 |
 | 70 | [Feel A Way](https://open.spotify.com/track/0Nt3UdaA4KrHEUSNwq9nCI) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [I Used To Know Her](https://open.spotify.com/album/0IMTA2Wz6p8CNZ0MDK2zvg) | 3:28 |
 | 71 | [It's Not This](https://open.spotify.com/track/7HzrpdEZb4RU2sUGeERyUm) | [Bearson](https://open.spotify.com/artist/3SPEPveuGIJZQPCHmNg4wg), [Lemaitre](https://open.spotify.com/artist/4CTKqs11Zgsv8EZTVzx764), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [It's Not This](https://open.spotify.com/album/33mhKB7yhqqtP6JjPyXLu2) | 3:10 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU2UWGeVtJ2M.md) - [plain]
 | 99 | [Seventeen](https://open.spotify.com/track/76t8j6fcgo4rDzSQutispC) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd) | [Seventeen](https://open.spotify.com/album/0hQ35qENp50JKaES6XDdPd) | 4:25 |
 | 100 | [Holding the Gun](https://open.spotify.com/track/4Hs7FS8jNNReipDe6SDpwz) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Truth Is](https://open.spotify.com/album/4vfE56g4oK4p8VVx7pThrU) | 3:08 |
 
-Snapshot ID: `MCw0YjBmZWJkZTg3YzU0ODMwYjVmMjk5YWMwZmI4NWY3ODZlM2EyN2U0`
+Snapshot ID: `MCw5MTRhYWY2Njc3OWE0MjNiMDY3MzQxYjJiOTI1NzMxMjBlNmQxMWZh`

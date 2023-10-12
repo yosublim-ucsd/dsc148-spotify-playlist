@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,944 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,955 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 40 | [Caribeña](https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Caribeña](https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM) | 3:11 |
 | 41 | [Cuando Canto Grito](https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Lucía Pulido](https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O) | [Cuando Canto Grito](https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP) | 5:41 |
 | 42 | [Quiromancia \(feat\. Vic Mirallas\)](https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 4:16 |
-| 43 | [Estás Escuchando \(with El David Aguilar\) \- Single Edit](https://open.spotify.com/track/48Jst8pgJLrsiVw0P9XdhH) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Estás Escuchando \(with El David Aguilar\)](https://open.spotify.com/album/5Uh0kntVBVR3LYu06MN5jK) | 2:17 |
-| 44 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
+| 43 | [Feliz](https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd) | [Naty Botero](https://open.spotify.com/artist/4OhwphUKRc02WusKr0n47c) | [Feliz](https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C) | 3:31 |
+| 44 | [Estás Escuchando \(with El David Aguilar\) \- Single Edit](https://open.spotify.com/track/48Jst8pgJLrsiVw0P9XdhH) | [Juan Wauters](https://open.spotify.com/artist/7CKkZZW3XtnPmqlwaElmoV), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Estás Escuchando \(with El David Aguilar\)](https://open.spotify.com/album/5Uh0kntVBVR3LYu06MN5jK) | 2:17 |
 | 45 | [Esto Es Real \(8100mg\)](https://open.spotify.com/track/5FWW3dZqsqN3ryZqBpsmFS) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Ahomale](https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe) | 4:58 |
 | 46 | [No Hay Luka](https://open.spotify.com/track/55i7dPL0vhXBePs1c6Isbh) | [Aguas Ardientes](https://open.spotify.com/artist/1eAywdgupRbvrEXW2PCzAc) | [Guarever](https://open.spotify.com/album/27laC01FYhhSgAdOCdZEdF) | 4:17 |
 | 47 | [Máquina Del Tiempo](https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD), [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ) | [Máquina Del Tiempo](https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg) | 3:33 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 74 | [Calavera](https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Calavera](https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL) | 3:13 |
 | 75 | [Pasatiempo](https://open.spotify.com/track/0zTrBn533RlwK9EpQToLRV) | [Tim Mara](https://open.spotify.com/artist/1RCqp2ViXc6Vbog6QdaiLR) | [Pasatiempo](https://open.spotify.com/album/2gj0XvFtwo0NTDARtj1I39) | 3:22 |
 
-Snapshot ID: `MCwwMmQxMDY1MzdiMGI5MzFkODlhYWRkOTBhYzM5NzBlOGQ4ZmNlYTBl`
+Snapshot ID: `MCxkMTViMTVjOGRhZDk3NGE2ZWMwOWFiZTUwOGFmZDkzMDZhYzI3ODE3`

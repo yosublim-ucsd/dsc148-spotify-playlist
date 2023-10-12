@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 
 > In the storms of life, hold onto the promise of hope and love with this playlist and bring Him glory.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,035 likes - 65 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,068 likes - 65 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 4 | [Oceans \(Where Feet May Fail\)](https://open.spotify.com/track/5Mw9bXG1dLNhbjofkVS2oR) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Zion \(Deluxe Edition\)](https://open.spotify.com/album/3A24aBx6jZCAgovIbZUubC) | 8:55 |
 | 5 | [One Day](https://open.spotify.com/track/15eJjGIuCDEtF6ph4Hd3eR) | [Cochren & Co.](https://open.spotify.com/artist/50hkKRxo0g8Ck4JqlwoJr4) | [Don't Lose Hope](https://open.spotify.com/album/3Us0eofAYq7tRuaH7A56i0) | 3:25 |
 | 6 | [TOGETHER](https://open.spotify.com/track/2Cj5LxM6O2HWQIr9p9h3TH) | [for KING & COUNTRY](https://open.spotify.com/artist/3sDbKMebVH2VYcRSl7u1VC), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [TOGETHER](https://open.spotify.com/album/7xZZEsGpNn9frngVImQS1z) | 3:26 |
-| 7 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 |
-| 8 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 |
+| 7 | [What A Beautiful Name](https://open.spotify.com/track/4KLj9QjEhJl2WU50mxRF9Z) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/7m2VtB9IdKJ0WZmnuSB5Q2) | 3:58 |
+| 8 | [Build My Life](https://open.spotify.com/track/2UeOsbOZ3h1QxUX2Jfw42j) | [Pat Barrett](https://open.spotify.com/artist/0289SkqAn0iOohwm0pIHv3) | [Pat Barrett](https://open.spotify.com/album/0aN0xAIaYHQDj63QrgvJJ5) | 4:04 |
 | 9 | [Even If](https://open.spotify.com/track/1zNkDuAsIpMf9vAMxeZ8Ih) | [MercyMe](https://open.spotify.com/artist/6APm8EjxOHSYM5B4i3vT3q) | [Lifer](https://open.spotify.com/album/3KVlZJCLMdeU43OwSU0Hac) | 4:15 |
 | 10 | [King of My Heart \- Live](https://open.spotify.com/track/0qf2iUDfPDtrLeJFmOvVn6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Starlight \(Live\)](https://open.spotify.com/album/1m7Bc6eGK8BgjTpwprlhUh) | 4:59 |
 | 11 | [My Lighthouse](https://open.spotify.com/track/5AcdaSVQfLcUKMaqchfBie) | [Rend Collective](https://open.spotify.com/artist/11Y54BxlxC3UIAUkU2eadQ) | [The Art Of Celebration](https://open.spotify.com/album/5wqj3h35WV6FxeoFs6981b) | 3:44 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSDYg6JTKFA.md) - [plain]
 | 64 | [My Prayer For You](https://open.spotify.com/track/0h4Rk0OJbf4tvUqtHLo4UE) | [Alisa Turner](https://open.spotify.com/artist/02ysP9OjODcaMSXe6SHAre) | [Miracle or Not](https://open.spotify.com/album/5WTM5xqmH7aJYkDStZf7h4) | 4:03 |
 | 65 | [Who You Say I Am \- Live](https://open.spotify.com/track/6nkJ6jerrO6S4V0kdc4KRp) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC), [Reuben Morgan](https://open.spotify.com/artist/1pSefalk3Yw0CblqfLvy05) | [Who You Say I Am \(Live\)](https://open.spotify.com/album/6AwxNZobkuWGt3PFL5wFVc) | 5:29 |
 
-Snapshot ID: `MCw0YmQ5NDIwZjQzMTkyNWY5Mzk3MWRmYmY2MzRjNWRhMWYzMWM5MDk0`
+Snapshot ID: `MCwzMzIwYjEzNDg3NDkxZWYzNGJhMTg2ZmJmMzQzMjkxMGE0N2FmY2Mw`

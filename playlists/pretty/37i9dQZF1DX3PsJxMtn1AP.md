@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 
 > A sonic wonderland of mesmerizing tunes...
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,003 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,046 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PsJxMtn1AP.md) - [plain]
 | 49 | [José Miguel el libertario](https://open.spotify.com/track/3uFWEFIbU8D8dAK2HvHuQk) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [José Miguel el libertario](https://open.spotify.com/album/14YPyE5s9mEH873HuC8SWW) | 1:32 |
 | 50 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 |
 
-Snapshot ID: `MCw1MmU3NDI4NmE2MTM5YmQyZTg4NzAxM2YyZTVkMzlhZjgxZjk1YTMx`
+Snapshot ID: `MCxiMjU0ZTM3MDhiOTMzZmU5NzRiNmE1OTM1NmUzNjBmYThkYjRmNzlh`

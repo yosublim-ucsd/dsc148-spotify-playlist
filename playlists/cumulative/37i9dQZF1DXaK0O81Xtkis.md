@@ -4,7 +4,7 @@
 
 > make it pop! cover: Aidan Bissett
 
-778 songs - 1 day 14 hr 47 min
+779 songs - 1 day 14 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [either way](https://open.spotify.com/track/7wHRNRxqJcCO9hzE025Iyf) | [Arden Jones](https://open.spotify.com/artist/3mMogqf2JyBUQZxFZlC79w) | [either way](https://open.spotify.com/album/1O1KX7W7zQ5ESejqgI7Sdr) | 3:00 | 2021-11-05 | 2022-02-26 |
 | [Emotional](https://open.spotify.com/track/6qMdBZ59YiTL98msUygduk) | [Ashe](https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM) | [Emotional](https://open.spotify.com/album/7yFfv2yxerMvKBw3BMytyA) | 2:40 | 2022-08-26 | 2022-11-26 |
 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 | 2023-07-28 |  |
-| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-09-01 |  |
+| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/3YQHgTo0898GHXRC2byH52) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:48 | 2023-10-06 |  |
+| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-09-01 | 2023-10-12 |
 | [evergreen](https://open.spotify.com/track/4XxUka4jIa0girDclOY4iA) | [Christian French](https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM) | [evergreen](https://open.spotify.com/album/56dV2v5Rd5QVg3A2JPkVnM) | 3:08 | 2022-09-23 | 2022-12-03 |
 | [everything hits me at once](https://open.spotify.com/track/77hDNIRbK41SsEthQ04Nwb) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything hits me at once](https://open.spotify.com/album/1KEfhUPBUnf56x7Rh8KoG0) | 2:32 | 2023-09-29 |  |
 | [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 | 2022-09-16 | 2023-02-11 |

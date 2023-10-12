@@ -1,12 +1,12 @@
 {
   "description": "Turn traffic stops into jam sessions.",
-  "num_followers": 50755,
+  "num_followers": 50865,
   "original_name": "Traffic Jams Naija ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMmQzYTAzZGE0OWNmZjM1Mjk0NGY1MjRiOWIyZTZmYTRiN2VlMzU1",
+  "snapshot_id": "MCwzMDU5NzkyZThlMGViZTc2NjU3ZWVmNGNjNzVlZDRjMjJlNmM5YTc0",
   "tracks": [
     {
       "added_at": "2023-10-06 17:28:59",
@@ -567,18 +567,22 @@
     {
       "added_at": "2023-10-06 17:28:59",
       "album": {
-        "name": "RU The World",
-        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
+        "name": "WORLD BEST",
+        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
       },
       "artists": [
         {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 172394,
-      "name": "Tour",
-      "url": "https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT"
+      "duration_ms": 177318,
+      "name": "Babylon",
+      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
     },
     {
       "added_at": "2023-10-06 17:28:59",
@@ -635,22 +639,18 @@
     {
       "added_at": "2023-10-06 17:28:59",
       "album": {
-        "name": "WORLD BEST",
-        "url": "https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY"
+        "name": "RU The World",
+        "url": "https://open.spotify.com/album/676QN3uS7pzWA0Or87JTcN"
       },
       "artists": [
         {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
         }
       ],
-      "duration_ms": 177318,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA"
+      "duration_ms": 172394,
+      "name": "Tour",
+      "url": "https://open.spotify.com/track/1Jj1sgeQ71UoGgetecz7mT"
     },
     {
       "added_at": "2023-10-06 17:28:59",
@@ -811,26 +811,6 @@
     {
       "added_at": "2023-10-06 17:28:59",
       "album": {
-        "name": "What's Poppin",
-        "url": "https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam"
-      },
-      "artists": [
-        {
-          "name": "Stefflon Don",
-          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
-        },
-        {
-          "name": "Bnxn",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 195426,
-      "name": "What's Poppin",
-      "url": "https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu"
-    },
-    {
-      "added_at": "2023-10-06 17:28:59",
-      "album": {
         "name": "You're Hired (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/0onUf9J8FxwJCpPdNyhVZe"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 179517,
       "name": "You're Hired (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/17oeeAxAbZaHIqKpt402KI"
+    },
+    {
+      "added_at": "2023-10-06 17:28:59",
+      "album": {
+        "name": "What's Poppin",
+        "url": "https://open.spotify.com/album/2ks56eA68StdI7n3qlaSam"
+      },
+      "artists": [
+        {
+          "name": "Stefflon Don",
+          "url": "https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 195426,
+      "name": "What's Poppin",
+      "url": "https://open.spotify.com/track/2j6nG1yvvf7qK2HxmckQFu"
     },
     {
       "added_at": "2023-10-06 17:28:59",
@@ -919,6 +919,22 @@
     {
       "added_at": "2023-10-06 17:28:59",
       "album": {
+        "name": "Who Is Your Guy?",
+        "url": "https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34"
+      },
+      "artists": [
+        {
+          "name": "Spyro",
+          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
+        }
+      ],
+      "duration_ms": 160407,
+      "name": "Who Is Your Guy?",
+      "url": "https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c"
+    },
+    {
+      "added_at": "2023-10-06 17:28:59",
+      "album": {
         "name": "L.I.T.A",
         "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 251147,
       "name": "Sugarcane - Remix",
       "url": "https://open.spotify.com/track/6NuG2JgERZZXvvjmtjOFix"
-    },
-    {
-      "added_at": "2023-10-06 17:28:59",
-      "album": {
-        "name": "Who Is Your Guy?",
-        "url": "https://open.spotify.com/album/48L6IyMWELE0HIz5JdhW34"
-      },
-      "artists": [
-        {
-          "name": "Spyro",
-          "url": "https://open.spotify.com/artist/5ZJQWu95i72nZXLD8VC5ys"
-        }
-      ],
-      "duration_ms": 160407,
-      "name": "Who Is Your Guy?",
-      "url": "https://open.spotify.com/track/1kyYCsP2NRZEKkBg9wcF2c"
     },
     {
       "added_at": "2023-10-06 17:28:59",
@@ -1011,22 +1011,18 @@
     {
       "added_at": "2023-10-06 17:28:59",
       "album": {
-        "name": "Loju (feat. Wizkid)",
-        "url": "https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8"
+        "name": "Elon musk",
+        "url": "https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I"
       },
       "artists": [
         {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+          "name": "Shallipopi",
+          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
         }
       ],
-      "duration_ms": 174226,
-      "name": "Loju (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At"
+      "duration_ms": 195761,
+      "name": "Elon musk",
+      "url": "https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY"
     },
     {
       "added_at": "2023-10-06 17:28:59",
@@ -1047,18 +1043,22 @@
     {
       "added_at": "2023-10-06 17:28:59",
       "album": {
-        "name": "Elon musk",
-        "url": "https://open.spotify.com/album/2hv0eXQfTmFgNZsEVATG8I"
+        "name": "Loju (feat. Wizkid)",
+        "url": "https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8"
       },
       "artists": [
         {
-          "name": "Shallipopi",
-          "url": "https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU"
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
+        },
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 195761,
-      "name": "Elon musk",
-      "url": "https://open.spotify.com/track/1RnRPPu3XPtftOhs1qF1hY"
+      "duration_ms": 174226,
+      "name": "Loju (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At"
     },
     {
       "added_at": "2023-10-06 17:28:59",
@@ -1075,6 +1075,42 @@
       "duration_ms": 134559,
       "name": "Gaza",
       "url": "https://open.spotify.com/track/6lrAyxpomr1dkHltiUqWSw"
+    },
+    {
+      "added_at": "2023-10-06 17:28:59",
+      "album": {
+        "name": "Forever (Remix)",
+        "url": "https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        },
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Forever (Remix)",
+      "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
+    },
+    {
+      "added_at": "2023-10-06 17:28:59",
+      "album": {
+        "name": "Ask About Me",
+        "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 175820,
+      "name": "Ask About Me",
+      "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
     },
     {
       "added_at": "2023-10-06 17:28:59",
@@ -1103,38 +1139,18 @@
     {
       "added_at": "2023-10-06 17:28:59",
       "album": {
-        "name": "Ask About Me",
-        "url": "https://open.spotify.com/album/6u0gaySWdi8suKJ8WE91Z9"
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
       },
       "artists": [
         {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
         }
       ],
-      "duration_ms": 175820,
-      "name": "Ask About Me",
-      "url": "https://open.spotify.com/track/7E86nXdcmISA9vBH0Egx7O"
-    },
-    {
-      "added_at": "2023-10-06 17:28:59",
-      "album": {
-        "name": "Forever (Remix)",
-        "url": "https://open.spotify.com/album/4aVhyknHZk1updZEHkwd0H"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        },
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Forever (Remix)",
-      "url": "https://open.spotify.com/track/4vLY6fJQWgBzQYHzguDZme"
+      "duration_ms": 193500,
+      "name": "My Darling",
+      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
     },
     {
       "added_at": "2023-10-06 17:28:59",
@@ -1155,18 +1171,22 @@
     {
       "added_at": "2023-10-06 17:28:59",
       "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+        "name": "Louis Vitty",
+        "url": "https://open.spotify.com/album/6N04dmSFRnpaGexcUsM04O"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "Midas the Jagaban",
+          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
+        },
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 193500,
-      "name": "My Darling",
-      "url": "https://open.spotify.com/track/1Lyo0G6hpTjWfWi8zjd9Wz"
+      "duration_ms": 218823,
+      "name": "Louis Vitty",
+      "url": "https://open.spotify.com/track/52bpMP45rQUZt3ZScK7VjB"
     },
     {
       "added_at": "2023-10-06 17:28:59",
@@ -1195,26 +1215,6 @@
     {
       "added_at": "2023-10-06 17:28:59",
       "album": {
-        "name": "Louis Vitty",
-        "url": "https://open.spotify.com/album/6N04dmSFRnpaGexcUsM04O"
-      },
-      "artists": [
-        {
-          "name": "Midas the Jagaban",
-          "url": "https://open.spotify.com/artist/07MX7XJsNTn8JlgEcbZ7Fd"
-        },
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 218823,
-      "name": "Louis Vitty",
-      "url": "https://open.spotify.com/track/52bpMP45rQUZt3ZScK7VjB"
-    },
-    {
-      "added_at": "2023-10-06 17:28:59",
-      "album": {
         "name": "Traboski",
         "url": "https://open.spotify.com/album/7A0qUYFzVQZGI6IcFebIiN"
       },
@@ -1227,6 +1227,26 @@
       "duration_ms": 155860,
       "name": "Traboski",
       "url": "https://open.spotify.com/track/2woGTVY8Vx46aYuXfMmwwE"
+    },
+    {
+      "added_at": "2023-10-06 17:28:59",
+      "album": {
+        "name": "Jaga Jaga (with Babyboy AV)",
+        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Babyboy AV",
+          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Jaga Jaga (with Babyboy AV)",
+      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
     },
     {
       "added_at": "2023-10-06 17:28:59",
@@ -1283,26 +1303,6 @@
       "duration_ms": 155644,
       "name": "NDI IKE",
       "url": "https://open.spotify.com/track/0YGSh7YrEtSQ6z4icTszc1"
-    },
-    {
-      "added_at": "2023-10-06 17:28:59",
-      "album": {
-        "name": "Jaga Jaga (with Babyboy AV)",
-        "url": "https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        },
-        {
-          "name": "Babyboy AV",
-          "url": "https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Jaga Jaga (with Babyboy AV)",
-      "url": "https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi"
     },
     {
       "added_at": "2023-10-06 17:28:59",

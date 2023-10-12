@@ -1,12 +1,12 @@
 {
   "description": "100 canciones de la \u00e9poca nost\u00e1lgica m\u00e1s reciente.",
-  "num_followers": 355913,
+  "num_followers": 355827,
   "original_name": "Los 2000 Argentina",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMGVlODFlZWFiNmUyNjhlZGE1MWU1Mzg3MmY0OWQxN2QyYTVmYmE4",
+  "snapshot_id": "MCw3YjBmOTBkMGJjOTJlMjY1OGQ2NmJiYjljN2MwYzkzMjQ0ODA4NTY4",
   "tracks": [
     {
       "added_at": "2022-07-06 19:59:10",
@@ -495,22 +495,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Separece A Ti",
-        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
-      },
-      "artists": [
-        {
-          "name": "Jambao",
-          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
-        }
-      ],
-      "duration_ms": 248786,
-      "name": "Se Parece M\u00e1s A Ti",
-      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "No Es Solo Rock And Roll",
         "url": "https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 248600,
       "name": "Esta Saliendo El Sol",
       "url": "https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Separece A Ti",
+        "url": "https://open.spotify.com/album/5Bdfuz8R1s29LQyU0UOyuw"
+      },
+      "artists": [
+        {
+          "name": "Jambao",
+          "url": "https://open.spotify.com/artist/37zUz0gjTaNCWTOymnuWGG"
+        }
+      ],
+      "duration_ms": 248786,
+      "name": "Se Parece M\u00e1s A Ti",
+      "url": "https://open.spotify.com/track/4bWdlExSeKAotB6uJwxFlf"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 192075,
-      "name": "Yo Me Enamor\u00e9",
-      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Viaje",
         "url": "https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 252760,
       "name": "Arde la Ciudad",
       "url": "https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 192075,
+      "name": "Yo Me Enamor\u00e9",
+      "url": "https://open.spotify.com/track/2aDB5U55MMlzT4QMM8WthK"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -675,22 +675,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Yo Tomo",
-      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Blanco y Negro",
         "url": "https://open.spotify.com/album/6MXrSUvZmjNuSCqOmRRkDw"
       },
@@ -723,6 +707,22 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
+        "name": "A Trav\u00e9s del Mar de los Sargazos",
+        "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
+      },
+      "artists": [
+        {
+          "name": "Skay Beilinson",
+          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
+        }
+      ],
+      "duration_ms": 272480,
+      "name": "Oda a la Sin Nombre",
+      "url": "https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
         "name": "A\u00fan Sigue La Lecci\u00f3n",
         "url": "https://open.spotify.com/album/1DJVooNQQTQFyPMJIMQxtG"
       },
@@ -743,18 +743,18 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "A Trav\u00e9s del Mar de los Sargazos",
-        "url": "https://open.spotify.com/album/3eES9LlGLw5o7ZNbOfmscZ"
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0CgHWdYF92LImrdVUO66Hm"
       },
       "artists": [
         {
-          "name": "Skay Beilinson",
-          "url": "https://open.spotify.com/artist/4K8Mrjr9IvA8QU0Vjj4BED"
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 272480,
-      "name": "Oda a la Sin Nombre",
-      "url": "https://open.spotify.com/track/5l6HQ03qnofn7Us7cADWQg"
+      "duration_ms": 204293,
+      "name": "Yo Tomo",
+      "url": "https://open.spotify.com/track/3aMeh9RWiWwKoDF66AuyN3"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -791,22 +791,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Detonador de Sue\u00f1os",
-        "url": "https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ"
-      },
-      "artists": [
-        {
-          "name": "La Renga",
-          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
-        }
-      ],
-      "duration_ms": 264838,
-      "name": "La Raz\u00f3n Que Te Demora",
-      "url": "https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 266133,
       "name": "A Veces Vuelvo",
       "url": "https://open.spotify.com/track/2E2dLZK0gSTl6vjr53BfKM"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Detonador de Sue\u00f1os",
+        "url": "https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ"
+      },
+      "artists": [
+        {
+          "name": "La Renga",
+          "url": "https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C"
+        }
+      ],
+      "duration_ms": 264838,
+      "name": "La Raz\u00f3n Que Te Demora",
+      "url": "https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "La 2da del Boxeador",
-        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
-      },
-      "artists": [
-        {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
-        }
-      ],
-      "duration_ms": 169786,
-      "name": "Pideme la Luna",
-      "url": "https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Jessico",
         "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 277011,
       "name": "Los Calientes",
       "url": "https://open.spotify.com/track/7L2arBxHMxVXbWQzaHKgnY"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "La 2da del Boxeador",
+        "url": "https://open.spotify.com/album/0qhvY5ilIjQJsQMw7Y4T2X"
+      },
+      "artists": [
+        {
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+        }
+      ],
+      "duration_ms": 169786,
+      "name": "Pideme la Luna",
+      "url": "https://open.spotify.com/track/1RJpmuL9ht9JimLCPazhT7"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1159,34 +1159,34 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Con La Cumbia En La Sangre",
-        "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
+        "name": "SHOC",
+        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
       },
       "artists": [
         {
-          "name": "Repiola",
-          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
+          "name": "La 25",
+          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
         }
       ],
-      "duration_ms": 171333,
-      "name": "No Me Vuelvo A Enamorar",
-      "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
+      "duration_ms": 255851,
+      "name": "Solo voy",
+      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
     },
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Parulo",
-        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
+        "name": "GUAU!",
+        "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
       },
       "artists": [
         {
-          "name": "La Base",
-          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
         }
       ],
-      "duration_ms": 174053,
-      "name": "Sabros\u00f3n",
-      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
+      "duration_ms": 174360,
+      "name": "Peque\u00f1os Sue\u00f1os",
+      "url": "https://open.spotify.com/track/4MjstyMMO5I6hch9GASIGb"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "SHOC",
-        "url": "https://open.spotify.com/album/42UGulXJ1NenBBDaVo3Vmz"
+        "name": "Con La Cumbia En La Sangre",
+        "url": "https://open.spotify.com/album/1UBMgErKd8zh0DDacOrLTp"
       },
       "artists": [
         {
-          "name": "La 25",
-          "url": "https://open.spotify.com/artist/6UAMLsapd2AyfEAEVFaxmc"
+          "name": "Repiola",
+          "url": "https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ"
         }
       ],
-      "duration_ms": 255851,
-      "name": "Solo voy",
-      "url": "https://open.spotify.com/track/4saEiUudiabEQd8NFX02kb"
+      "duration_ms": 171333,
+      "name": "No Me Vuelvo A Enamorar",
+      "url": "https://open.spotify.com/track/0iii6zu0TV7pjvak7L5Ugg"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "GUAU!",
-        "url": "https://open.spotify.com/album/1b0s5a9iIWIH5nEpzWSjHG"
+        "name": "Parulo",
+        "url": "https://open.spotify.com/album/00A8Fwcno8bR8PghDYmcv8"
       },
       "artists": [
         {
-          "name": "\u00c1rbol",
-          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+          "name": "La Base",
+          "url": "https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0"
         }
       ],
-      "duration_ms": 174360,
-      "name": "Peque\u00f1os Sue\u00f1os",
-      "url": "https://open.spotify.com/track/4MjstyMMO5I6hch9GASIGb"
+      "duration_ms": 174053,
+      "name": "Sabros\u00f3n",
+      "url": "https://open.spotify.com/track/3i9RlCwMh2I0semxufRnyS"
     },
     {
       "added_at": "2022-07-06 19:59:10",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2022-07-06 19:59:10",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 225050,
-      "name": "Rub\u00ed",
-      "url": "https://open.spotify.com/track/2Dsv2vdCfLucFIoECqAK6U"
-    },
-    {
-      "added_at": "2022-07-06 19:59:10",
-      "album": {
         "name": "Cuentos Decapitados",
         "url": "https://open.spotify.com/album/4agUniovdijNcGf3blcYQM"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 192240,
       "name": "Y Lo Que Quiero Es Que Pises Sin El Suelo",
       "url": "https://open.spotify.com/track/3z5F0EaY9VCq9GiQPzrbDX"
+    },
+    {
+      "added_at": "2022-07-06 19:59:10",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 225050,
+      "name": "Rub\u00ed",
+      "url": "https://open.spotify.com/track/2Dsv2vdCfLucFIoECqAK6U"
     },
     {
       "added_at": "2022-07-06 19:59:10",

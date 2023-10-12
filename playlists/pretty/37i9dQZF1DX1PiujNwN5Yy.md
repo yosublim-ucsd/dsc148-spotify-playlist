@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 
 > Sad songs just 4 you para los días tristes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 109,313 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 109,298 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 52 | [Vete Si Quieres](https://open.spotify.com/track/0eBNvFiuvRpKPzfEx7CVs6) | [El David](https://open.spotify.com/artist/61h5RLs6eo1eapzuDzoA5b) | [Vete Si Quieres](https://open.spotify.com/album/59n8OAA2MokNaY6EunSMY6) | 3:48 |
 | 53 | [guerrera](https://open.spotify.com/track/1op8GBKx3U5BrDDvOAKYbO) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [guerrera](https://open.spotify.com/album/1QWy1TAhYwAgd5OA7chIEo) | 4:30 |
 | 54 | [Sola](https://open.spotify.com/track/3doK7YkkgMtfD6qoXCkTWh) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [Being Human In Public](https://open.spotify.com/album/0dZlf6U1djSwKxMrJ0RZgQ) | 3:30 |
-| 55 | [TE FALLÉ](https://open.spotify.com/track/72zlIdJhtXtlnORjUcpxMz) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE FALLÉ](https://open.spotify.com/album/523VR8HZeb6r9sgCVNnMxM) | 3:17 |
-| 56 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
-| 57 | [La Pared](https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [La Pared](https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa) | 4:49 |
+| 55 | [cómo acaba](https://open.spotify.com/track/0wYkvjpi6tOpJfulqKSOD7) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cómo acaba](https://open.spotify.com/album/1dCY4CPTeDesR7wjISYMbw) | 3:44 |
+| 56 | [La Pared](https://open.spotify.com/track/6k436htnE7M4QXXWOjhTYZ) | [Cupido](https://open.spotify.com/artist/4cK5uxWRVJ3QOSfaBMX2Ex) | [La Pared](https://open.spotify.com/album/01IGc70ZlPLU5ot3oG7fUa) | 4:49 |
+| 57 | [TE FALLÉ](https://open.spotify.com/track/72zlIdJhtXtlnORjUcpxMz) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [TE FALLÉ](https://open.spotify.com/album/523VR8HZeb6r9sgCVNnMxM) | 3:17 |
 | 58 | [no estabas cerca](https://open.spotify.com/track/0CaAkdZcfgo0KRyPoU2vc7) | [Alba Mbengue](https://open.spotify.com/artist/3qgzGkZtMWhw3seBssVWWW) | [no estabas cerca](https://open.spotify.com/album/1zGsHBTBDiV6x7fygtLjto) | 1:10 |
 | 59 | [Nada de Nada](https://open.spotify.com/track/3PaBUPtwqvybnUNWyLZVQr) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nada de Nada](https://open.spotify.com/album/0v2GwxgQ2cSoiQd8ZXiAPt) | 3:37 |
 | 60 | [culpa](https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [chiquita](https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK) | 3:18 |
@@ -79,16 +79,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 69 | [Agua](https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [Agua](https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu) | 4:00 |
 | 70 | [olas](https://open.spotify.com/track/4VVoiNTlsBaigg8fJOoR3w) | [mori](https://open.spotify.com/artist/473Xxv1N3YJJdKxYH0XaiX), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [olas](https://open.spotify.com/album/2ie8MR4KjNLajmM9xYDzgP) | 2:44 |
 | 71 | [De Mi Para Ti](https://open.spotify.com/track/6l4xmyJ1a9sjjZjnaKzq7t) | [Maria Blaya](https://open.spotify.com/artist/0Ln3BisQiL0t2w7bsmju75) | [Silencio](https://open.spotify.com/album/7Lzac5wLxNo3PJOviNF59D) | 2:57 |
-| 72 | [viernes 13 ii](https://open.spotify.com/track/7fSWWukokukP3HlZQdt2D5) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [viernes 13 ii](https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu) | 3:17 |
-| 73 | [TE PERDÍ](https://open.spotify.com/track/1Pe2xnS2FndbzQ0TNAFwXk) | [Fabiø Guerra](https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp) | [TE PERDÍ](https://open.spotify.com/album/4s69BmjZT7AVIFve6CNyar) | 2:25 |
+| 72 | [TE PERDÍ](https://open.spotify.com/track/1Pe2xnS2FndbzQ0TNAFwXk) | [Fabiø Guerra](https://open.spotify.com/artist/3rQkoi7yo0Repzlzn4fMkp) | [TE PERDÍ](https://open.spotify.com/album/4s69BmjZT7AVIFve6CNyar) | 2:25 |
+| 73 | [viernes 13 ii](https://open.spotify.com/track/7fSWWukokukP3HlZQdt2D5) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [viernes 13 ii](https://open.spotify.com/album/11TnM0ui4WFEaMLT8ESLvu) | 3:17 |
 | 74 | [Perdón \(Acabo de ver tu llamada\)](https://open.spotify.com/track/3w6bSJIk6KCg5RbSGXFJq6) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 3:50 |
 | 75 | [Qué Más Da](https://open.spotify.com/track/7ifjN5DxB3r1hKnqjRDO1a) | [yes I M](https://open.spotify.com/artist/3TZI0rZ4YeTit0vak0CXQy) | [En Línea](https://open.spotify.com/album/05qaC3zEdhmI4bH0G4ckw6) | 3:30 |
 | 76 | [el jardinero](https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4) | [el jardinero](https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q) | 2:57 |
 | 77 | [Galerna](https://open.spotify.com/track/0cw4MxjnhP15RC3aRxJR4O) | [DEVA](https://open.spotify.com/artist/0EdwY8DfBqB83R45WnHJDg), [Carlos Ares](https://open.spotify.com/artist/3eReTIjhrje1sk2hFQgwhI) | [Galerna](https://open.spotify.com/album/1x0YBpjfsJpk8h9ryEqgKH) | 3:08 |
 | 78 | [Déjame Dejarte Atrás](https://open.spotify.com/track/6pB2v73sVw1NEm8g959jPT) | [Paula Prieto](https://open.spotify.com/artist/03ZdCrkA0RaY3tslOLbSTl) | [Déjame Dejarte Atrás](https://open.spotify.com/album/6ovEup64IXcmtlZIHYzAVx) | 3:24 |
 | 79 | [Al Final](https://open.spotify.com/track/64evbvaNb4twXgBPV42jlG) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Mundo De Dos](https://open.spotify.com/album/3FcPCDNcLerTah8e4QuEsi) | 3:17 |
-| 80 | [desamarte](https://open.spotify.com/track/0bZ60PdPKQ4Vw2TbwilpeK) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cuatro veces 10](https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1) | 2:58 |
-| 81 | [No Estoy](https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 2:21 |
+| 80 | [No Estoy](https://open.spotify.com/track/0eBA1KNNnYFqlWDj8KSLNO) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [Ausente](https://open.spotify.com/album/4yQP51cIhiFPF2bTfyGGUc) | 2:21 |
+| 81 | [desamarte](https://open.spotify.com/track/0bZ60PdPKQ4Vw2TbwilpeK) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [cuatro veces 10](https://open.spotify.com/album/41aX0tVfd2qygS1LN570s1) | 2:58 |
 | 82 | [Corazon partio \(feat\. Juan Azul\) \- En directo](https://open.spotify.com/track/3rba2fObaZaOsBTAq74Qi6) | [Rebe](https://open.spotify.com/artist/09JzopXDnVeP5YvaNh7VhF), [Juan Azul](https://open.spotify.com/artist/2Vn6T7bYqhxrrgrlMtIriw) | [Directo en mi habitacion <3 \(En directo\)](https://open.spotify.com/album/5AijlOnw4oJZ79S24j0acY) | 5:46 |
 | 83 | [No Te Voy a Ver](https://open.spotify.com/track/2ZW0ePHHbbFQp1mTL7d68Z) | [Claire Delić](https://open.spotify.com/artist/2vzkENRB95QBQXO01HwyIY) | [No Te Voy a Ver](https://open.spotify.com/album/2rJ63ANIeYtgVa6nOpPWSL) | 3:37 |
 | 84 | [Por Si Apareces](https://open.spotify.com/track/2Fqbq7cwUiGWIPqIQfiYt2) | [Alice Wonder](https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi) | [Por Si Apareces](https://open.spotify.com/album/4YSpXKlFVZdtWBLBA85ijU) | 4:33 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PiujNwN5Yy.md) - [plain]
 | 99 | [olvídate de mí](https://open.spotify.com/track/1mc8w5UYCDHeNzAua5JxnW) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [olvídate de mí](https://open.spotify.com/album/2CQuvDLfVKcfNkzWknbVhA) | 2:57 |
 | 100 | [Lonely](https://open.spotify.com/track/3Mcu3bSlSYJkckbZ1FpfEB) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [Lonely](https://open.spotify.com/album/5kGzldKUiSGTRkINcNQ6tC) | 3:33 |
 
-Snapshot ID: `MCw4YTBkY2VjYmI0YTQ1OTM1Yzc5NDZiZTdjNjUwMTM0ODE2OTU5ODM4`
+Snapshot ID: `MCxkNzc3ODE2ZjBhNWRmZWRjOGM2NGQ1YzBkYzMxN2Y2ZTFkYjEwNGUw`

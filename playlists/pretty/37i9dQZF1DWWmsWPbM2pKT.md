@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world\. Cover: Mareux
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,904 likes - 114 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,708 likes - 114 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,4 +123,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 113 | [Bela Lugosi's Dead \(Official Version\)](https://open.spotify.com/track/1wyVyr8OhYsC9l0WgPPbh8) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [The Bela Session](https://open.spotify.com/album/5NhiaFlFGgymG2rDNqAcm1) | 9:36 |
 | 114 | [Dark Entries](https://open.spotify.com/track/67MkU3b7k2fBL6oHHUiM09) | [Bauhaus](https://open.spotify.com/artist/5N5tQ9Dx1h8Od7aRmGj7Fi) | [In the Flat Field](https://open.spotify.com/album/4hPJRedKOmbvKnLdzV9w1w) | 3:51 |
 
-Snapshot ID: `MCxiYzlmZGZmMTFkODA1MDk3ODE5Y2UxYTc0NDk1YjFmM2MzYjllMmJl`
+Snapshot ID: `MCw4MjgyOWQyNjg1N2YwMTRhYTI5NzMyNjJiYzViMThhMjIwNmVjMDQ0`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 
 > Spotify Japanのデイリー急上昇チャート。10月8日付。
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,580 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,490 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9vYRBO9gjDe.md) - [plain]
 | 49 | [kimiwaunmeinohito](https://open.spotify.com/track/0FXPwxpbU9jZRndH7buJGW) | [Manato Funatsu](https://open.spotify.com/artist/4L7zIJ9LjO6oSTRjzBlrva) | [kimiwaunmeinohito](https://open.spotify.com/album/4spgC6mFvPofhyFBhHWUVU) | 3:36 |
 | 50 | [bathroom](https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m), [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf) | [bathroom](https://open.spotify.com/album/2fKpk83eEE5bozCQDk84z0) | 3:31 |
 
-Snapshot ID: `MCxjZDc2ZWViMDZhZTY2MjYzMWJiMzU4MGJmMTQwYTcxNWM5YTNkNTM5`
+Snapshot ID: `MCwyMmNmNGYxYjIwMzBlNjM4ZmU3ZGI4MWUxYTBmNWUwNTdlMjExZGU1`

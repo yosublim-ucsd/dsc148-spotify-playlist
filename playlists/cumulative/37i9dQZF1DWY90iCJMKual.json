@@ -1708,7 +1708,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 189829,
       "name": "Lowkey",
       "url": "https://open.spotify.com/track/0SeoyoooF656nZQavqT07Z"
@@ -1940,6 +1940,24 @@
       "duration_ms": 180923,
       "name": "MIDNYT SNACK",
       "url": "https://open.spotify.com/track/1abidRpQBY12rqiwIafnPZ"
+    },
+    {
+      "album": {
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/3hTb5O25Vx6QZsBs7eILkD"
+      },
+      "artists": [
+        {
+          "name": "Jnske",
+          "url": "https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202955,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/5n40E9H40UX8b11g1y2D7o"
     },
     {
       "album": {
@@ -2347,6 +2365,24 @@
     },
     {
       "album": {
+        "name": "Patid",
+        "url": "https://open.spotify.com/album/3japR74Iy2UKN0ldaGf9em"
+      },
+      "artists": [
+        {
+          "name": "Johann Regaya",
+          "url": "https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247579,
+      "name": "Patid",
+      "url": "https://open.spotify.com/track/4dOIWeYQpPI9NM6ThxRDWj"
+    },
+    {
+      "album": {
         "name": "Phases",
         "url": "https://open.spotify.com/album/1B6czSiyIMwLWgPsCdXwc2"
       },
@@ -2394,7 +2430,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 169608,
       "name": "Play No Games",
       "url": "https://open.spotify.com/track/4LKMwbD4qi6dawvR5Ez6Ee"

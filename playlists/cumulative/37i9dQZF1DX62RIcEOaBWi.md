@@ -4,7 +4,7 @@
 
 > Música alegre para que el trabajo se te pase volando.
 
-348 songs - 20 hr 0 min
+349 songs - 20 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,6 +253,7 @@
 | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/track/2tTmW7RDtMQtBk7m2rYeSw) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Quevedo: Bzrp Music Sessions, Vol\. 52](https://open.spotify.com/album/4PNqWiJAfjj32hVvlchV5u) | 3:18 | 2022-08-08 | 2023-02-11 |
 | [Quieres](https://open.spotify.com/track/4iGnpp1h0i33lpoP42Y8Jt) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN) | [Quieres](https://open.spotify.com/album/6FYsivfijNDaQ1bpw8Kljc) | 3:33 | 2022-08-08 |  |
 | [Quiero Decirte](https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Quiero Decirte](https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar) | 3:42 | 2022-08-08 |  |
+| [Quiero tener tu presencia](https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp) | [Seguridad Social](https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B) | [Furia Latina](https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe) | 3:40 | 2023-04-24 |  |
 | [Quién Diría](https://open.spotify.com/track/0Fd3900xH77g0ARXQjtYvV) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Quién Diría](https://open.spotify.com/album/2zZljKaQGNaogYs8QN2wMM) | 3:03 | 2022-08-08 |  |
 | [Quiéreme Mientras Se Pueda](https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Quiéreme Mientras Se Pueda](https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5) | 3:11 | 2022-01-10 |  |
 | [Qué bonita](https://open.spotify.com/track/31TmMW92lP0UoxtAaF89hU) | [DePol](https://open.spotify.com/artist/16t23tANCHuuAN0yPqBbA0) | [Qué bonita](https://open.spotify.com/album/1Em1AH6NyWHAPyCaVM7iGX) | 2:43 | 2023-01-05 |  |
@@ -305,7 +306,7 @@
 | [Think](https://open.spotify.com/track/4yQw7FR9lcvL6RHtegbJBh) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Aretha Now](https://open.spotify.com/album/55HZ2ectg1mMTEKDqIq3kC) | 2:19 | 2022-08-08 |  |
 | [Three Little Birds](https://open.spotify.com/track/75FYqcxt1YEAtqDLrOeIJn) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Exodus](https://open.spotify.com/album/2mBbV0Ad6B4ydHMZlzAY7S) | 3:00 | 2022-01-10 | 2022-08-09 |
 | [Tiki Tiki](https://open.spotify.com/track/2J8lIDwvxPZQQ0I0wt1oRO) | [Ptazeta](https://open.spotify.com/artist/5UN0rzL594mWY2RbOtZqIN), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [Tiki Tiki](https://open.spotify.com/album/27WZ3udXyjazvsInPtfuIQ) | 2:11 | 2023-04-24 | 2023-08-11 |
-| [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 | 2022-01-10 |  |
+| [Tiroteo \- Remix](https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Pol Granch](https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0) | [Tiroteo \(Remix\)](https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C) | 5:21 | 2022-01-10 | 2023-10-12 |
 | [Todo Contigo](https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt) | [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Todo Contigo](https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE) | 2:45 | 2023-04-24 |  |
 | [Todo De Ti](https://open.spotify.com/track/4fSIb4hdOQ151TILNsSEaF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Todo De Ti](https://open.spotify.com/album/3zjKITMp5FHj5aqtWWXrxH) | 3:19 | 2022-01-10 |  |
 | [Torn](https://open.spotify.com/track/1Jaah2tmN9Hv81A87KZ1MU) | [Natalie Imbruglia](https://open.spotify.com/artist/0dlOr0VIysztGWvU1dpjmP) | [Left Of The Middle](https://open.spotify.com/album/38alWeQVP9UUAGJvLptys9) | 4:04 | 2022-08-08 | 2022-11-27 |

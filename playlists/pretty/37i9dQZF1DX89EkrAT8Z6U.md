@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > A mixtape for the perfect anime fight scene.
 
-[Spotify](https://open.spotify.com/user/spotify) - 757,076 likes - 75 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 758,840 likes - 75 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 55 | [Killin' On Demand](https://open.spotify.com/track/2qOfyyZc41LfQ63U9p3GVV) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Killin' On Demand](https://open.spotify.com/album/43Xd3k45L0OgtJzJoQmUDD) | 2:09 |
 | 56 | [2K FREESTYLE](https://open.spotify.com/track/612dHPI0OoOsvWkweHXZXF) | [Lazy3x](https://open.spotify.com/artist/02wrovsROEQpMXNTxk8uHI), [Lil Darkie](https://open.spotify.com/artist/62F9BiUmjqeXbBztCwiX1U) | [2K FREESTYLE](https://open.spotify.com/album/0LvjRRFJxjZpzlJ8QOwwhm) | 3:33 |
 | 57 | [Hatchback](https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Benbow Crescent](https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF) | 2:29 |
-| 58 | [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 |
-| 59 | [Riders](https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW) | [onimanxd](https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b) | [Riders](https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK) | 1:47 |
+| 58 | [Riders](https://open.spotify.com/track/6wk8RkIpZ6mbQigwKPr1oW) | [onimanxd](https://open.spotify.com/artist/6LsSeFRnEOLIJHCpIhlP9b) | [Riders](https://open.spotify.com/album/4wYMrn6j9KBrYtek968NoK) | 1:47 |
+| 59 | [MUKANJYO](https://open.spotify.com/track/4MTgIH5OZQHAbdBWgbKSAb) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [MUKANJYO](https://open.spotify.com/album/1FGsYEkFLkIv9ffhgoOgZh) | 3:12 |
 | 60 | [Cult Classic](https://open.spotify.com/track/4Gyevf6hfKBzh69K79twjP) | [ta2cute](https://open.spotify.com/artist/4ffPkIlhB0oEmGr30n8tJj) | [Cult Classic](https://open.spotify.com/album/2NZN7qaSZeikj7HTXdnkfT) | 1:47 |
 | 61 | [C'est La Vie \(with bbno$ & Rich Brian\)](https://open.spotify.com/track/0cgy8EueqwMuYzOZrW5vPB) | [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [C'est La Vie](https://open.spotify.com/album/4cR3Cgc4klmCeDgFkA3nz7) | 2:40 |
 | 62 | [Still Cold / Pathway Private](https://open.spotify.com/track/4aXit1CKxL80R1qruHns8h) | [Night Lovell](https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO) | [Red Teenage Melody](https://open.spotify.com/album/2WMe3Dqlc68URVRn7A3pm5) | 4:31 |
@@ -76,12 +76,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 66 | [Kujo Freestyle](https://open.spotify.com/track/1VvwxqIfKRazmvE7zdDFRg) | [Sinoda](https://open.spotify.com/artist/0ndm6JWcrLhnmrbVzSGi0b) | [Kujo Freestyle](https://open.spotify.com/album/2x5cyj5Lfd8a4CUSRauDPx) | 1:55 |
 | 67 | [Young Kid](https://open.spotify.com/track/6EZE2Pr5Wc2UVkna4XRIBf) | [IVOXYGEN](https://open.spotify.com/artist/6K9KevAu0cpln7xOsM3Wkm) | [Young Kid](https://open.spotify.com/album/4v61ZFQT5pnNrmvpO9DFLz) | 3:29 |
 | 68 | [The Perfect Girl \- Instrumental](https://open.spotify.com/track/1iiOnQBpssMKWXJJiqBsbN) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl \(Instrumental\)](https://open.spotify.com/album/2K5u6Ge8i4VnBIy0I0Tyl8) | 3:14 |
-| 69 | [Blood \(Alucard Rap\)](https://open.spotify.com/track/2deb24yUrqgOVwGJjaIaYp) | [Rustage](https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H), [TOPHAMHAT\-KYO](https://open.spotify.com/artist/2QGB8HqesnKeA5gcLJ0hiZ) | [Blood \(Alucard Rap\)](https://open.spotify.com/album/6qeRZqsdSTULbT0g2ihOoZ) | 3:17 |
-| 70 | [Let Me Hear](https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Feeling of Unity](https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY) | 3:45 |
+| 69 | [Let Me Hear](https://open.spotify.com/track/5sqkarfxe7UejHTlCtHCLS) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Feeling of Unity](https://open.spotify.com/album/6jx1agEJ1VGvJR5d53oeQY) | 3:45 |
+| 70 | [Blood \(Alucard Rap\)](https://open.spotify.com/track/2deb24yUrqgOVwGJjaIaYp) | [Rustage](https://open.spotify.com/artist/6cd3XfCAc3e596RQW8P94H), [TOPHAMHAT\-KYO](https://open.spotify.com/artist/2QGB8HqesnKeA5gcLJ0hiZ) | [Blood \(Alucard Rap\)](https://open.spotify.com/album/6qeRZqsdSTULbT0g2ihOoZ) | 3:17 |
 | 71 | [JoJo Pose](https://open.spotify.com/track/4dPVmeisPfQrLcjx0Wz1KW) | [Apollo Fresh](https://open.spotify.com/artist/3ivDFy7UfjLbyIGzepJ5hJ) | [JoJo Pose](https://open.spotify.com/album/4x9AjlHkbRPKSEtpsf8ZmJ) | 1:45 |
 | 72 | [CHROME BERETTA](https://open.spotify.com/track/1UZYIwfkoiTGuiUGx4nFyL) | [Softwilly](https://open.spotify.com/artist/0fAEWMlRd4yiJBT2usaqqc), [void](https://open.spotify.com/artist/4jtsFTEnLnF4zDZaBWrH6L), [LEX PAIN](https://open.spotify.com/artist/5gs6KOePAS97FunPmAheEE), [$atori Zoom](https://open.spotify.com/artist/75RLThQWzIgIM7Jtp6KZic), [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER) | [DONNA](https://open.spotify.com/album/7cDWmwbJr4u0i2tmLV63xI) | 2:38 |
 | 73 | [V\-12](https://open.spotify.com/track/3OjCfATz0aDdfndJ4hWCKU) | [Lil Dew'](https://open.spotify.com/artist/5rdLddw7ViJqfFb2xptiMQ) | [V\-12](https://open.spotify.com/album/0vE68M9oSKgdquoSwnCagE) | 2:20 |
 | 74 | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/track/4QlbH3QGLr13WeLUywH9DA) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0), [Germ](https://open.spotify.com/artist/4OYIkXBBN6ET96coWyWAXh) | [My Swisher Sweet, But My Sig Sauer](https://open.spotify.com/album/48J35hJTQeahYPNJ7t4Q0B) | 3:46 |
 | 75 | [7AM](https://open.spotify.com/track/3HoSi38l1e6E1K1lHWUCeV) | [Adrian](https://open.spotify.com/artist/5uK6fW2LmljRHZEmHKv9tA) | [7AM](https://open.spotify.com/album/6Mf15O3wMv52ySP3aSTre1) | 2:25 |
 
-Snapshot ID: `MCxkNWM0ZDc1NWZmZjA4NzAyZGUyNzQwNjUyMTgxMzI0OTg5ZGZhNWZj`
+Snapshot ID: `MCwzNTZhMjk4ZDIzYTgzMzgxZDI3ZTIwZjkwN2VlY2VjMDM2ZjhlYmY3`

@@ -1,12 +1,12 @@
 {
   "description": "Voc\u00ea n\u00e3o para quando est\u00e1 cansado, s\u00f3 quando terminar!",
-  "num_followers": 413090,
+  "num_followers": 412277,
   "original_name": "Pegando Pesado",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjN2VjODdkYTFiN2MyMGFhOGQzZTFjYTM0MjM5NjIzMDY4NzdhMDQ5",
+  "snapshot_id": "MCxiZjEwNmI4ZmM1MTVjZWIyZmEyMDIyNDM2ZDcxZWM0MDIxZmI3YTYw",
   "tracks": [
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Far Beyond Driven",
-        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
+        "name": "Immortalized (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
       },
       "artists": [
         {
-          "name": "Pantera",
-          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
         }
       ],
-      "duration_ms": 264800,
-      "name": "I'm Broken",
-      "url": "https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q"
+      "duration_ms": 252002,
+      "name": "The Vengeful One",
+      "url": "https://open.spotify.com/track/3jjU4Pky1ja5J1onU6ei4T"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
-        "name": "Immortalized (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1ROVEUk4lc2vD4a0IN1TWS"
+        "name": "Far Beyond Driven",
+        "url": "https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1"
       },
       "artists": [
         {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+          "name": "Pantera",
+          "url": "https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18"
         }
       ],
-      "duration_ms": 252002,
-      "name": "The Vengeful One",
-      "url": "https://open.spotify.com/track/3jjU4Pky1ja5J1onU6ei4T"
+      "duration_ms": 264800,
+      "name": "I'm Broken",
+      "url": "https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q"
     },
     {
       "added_at": "2019-06-28 02:33:37",
@@ -1323,6 +1323,22 @@
     {
       "added_at": "2019-06-28 02:33:37",
       "album": {
+        "name": "The Sickness (10th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 278706,
+      "name": "Down with the Sickness",
+      "url": "https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS"
+    },
+    {
+      "added_at": "2019-06-28 02:33:37",
+      "album": {
         "name": "Amaryllis",
         "url": "https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 272665,
       "name": "Is There Anybody Out There?",
       "url": "https://open.spotify.com/track/5aeIj88MLdekYvObw5Yisk"
-    },
-    {
-      "added_at": "2019-06-28 02:33:37",
-      "album": {
-        "name": "The Sickness (10th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 278706,
-      "name": "Down with the Sickness",
-      "url": "https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS"
     },
     {
       "added_at": "2019-06-28 02:33:37",

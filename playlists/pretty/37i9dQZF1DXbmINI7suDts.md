@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 
 > Get your spirits up and manage your mood any time of the day
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,088 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,096 likes - 60 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 25 | [Moyo \- Acoustic](https://open.spotify.com/track/6YZf3C5fcEVVzfywVEHhsZ) | [Jack Dope](https://open.spotify.com/artist/28bgZfBMxceqhwKq389vbG), [Lody Music](https://open.spotify.com/artist/74V5EGZx8m1D9pAErk5TEz) | [Moyo \(Acoustic\)](https://open.spotify.com/album/4vUkJcpljy6ZTJjRTwHy5g) | 3:32 |
 | 26 | [Star](https://open.spotify.com/track/37cNVffAqXl3VRVSnhvB59) | [BunjoVille Ug](https://open.spotify.com/artist/3f91pgWJ6c1s17VkGXEfeT) | [Night Skies In Bombo](https://open.spotify.com/album/7LYDewP8etluBzrQtMpRsH) | 3:54 |
 | 27 | [Butterflies](https://open.spotify.com/track/3tv6yZvQSk5easUqOh0P1O) | [Abaasa](https://open.spotify.com/artist/6IoNAD4tutkEZWTR3L21oc) | [Mountains of the Moon](https://open.spotify.com/album/4Yald2Q4kTDKMjiADNkXTs) | 3:17 |
-| 28 | [Hurt](https://open.spotify.com/track/5SlEAgY8J6pPRIIeNnrOi5) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Hurt](https://open.spotify.com/album/2lcx1HhjTeD4ftYvY6oBii) | 3:23 |
+| 28 | [Hurt](https://open.spotify.com/track/3bJbYh6uvG3QpIyF8TqCHl) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Hurt](https://open.spotify.com/album/0aw1zSvHaoF4RWSlrh8onc) | 3:23 |
 | 29 | [Type of Energy](https://open.spotify.com/track/2AW3jN08vW0zVDSmByMxfW) | [Atino](https://open.spotify.com/artist/4ArO64i3c0kRuFR9ofHisD) | [Type of Energy](https://open.spotify.com/album/2gzUw0OukOocj4QAzOdOap) | 3:08 |
 | 30 | [Kwaata Wano](https://open.spotify.com/track/4IZ3S8yLA4MtBx6dWrXh8O) | [Sylver](https://open.spotify.com/artist/4dHmyAX71EzkOxKV34nAWU) | [Kwaata Wano](https://open.spotify.com/album/7ah4EmgbvbW5IchFO3HlVI) | 3:48 |
 | 31 | [VOICES](https://open.spotify.com/track/3mf0BEmSuDJKFvsOWzz3nT) | [sanyu!](https://open.spotify.com/artist/7pUaqy2G4dAU7BEBa3rGhE), [peeta](https://open.spotify.com/artist/3hDGXEVK7HUHFfMTlUqgUI) | [VOICES](https://open.spotify.com/album/1G9Eh0VxBpqoryB8nhCVgX) | 2:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmINI7suDts.md) - [plain]
 | 59 | [Best Thing](https://open.spotify.com/track/7avBilzcSIuGxBRxDAn5Qv) | [Dre Cali](https://open.spotify.com/artist/2U0aIJmjYUZZ26kIE0KxM1) | [Best Thing](https://open.spotify.com/album/6ODMED9ea9Ug2apZvtbO9a) | 3:33 |
 | 60 | [High](https://open.spotify.com/track/6UUmEHfkUtMOskNYjlf9kx) | [Artin Pro](https://open.spotify.com/artist/2LMyimxq7nl4YIHsPd6Vou), [Ronie On Dis One](https://open.spotify.com/artist/1ffsHhD3TNYdqWhT0gZeZk) | [High](https://open.spotify.com/album/32JQNDjBDuMHbAQWNPUZRE) | 3:10 |
 
-Snapshot ID: `MCw5YmEyMjJjZGExNGEwMGE2Mzc3MGIyMjA1Y2UxMzNiMzA2ZjYyOWQ0`
+Snapshot ID: `MCxmZmNiMWYyNjUxMGYwN2E0YmZiOTYwN2IzYTkzZGY5YjAxNmZhNzlk`

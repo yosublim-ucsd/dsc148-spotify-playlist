@@ -3201,6 +3201,32 @@
     },
     {
       "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/0cGxD9dl9g9iTt0LXN3oTY"
+      },
+      "artists": [
+        {
+          "name": "MassQline",
+          "url": "https://open.spotify.com/artist/0kMK558QxTuQu1uvWJKuvh"
+        },
+        {
+          "name": "Hardbone boy",
+          "url": "https://open.spotify.com/artist/6YNVY8546Vw6bVjsmUpQPx"
+        },
+        {
+          "name": "HYKE",
+          "url": "https://open.spotify.com/artist/7yPtNp2UpTp2wYUEdM8k1O"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200479,
+      "name": "War",
+      "url": "https://open.spotify.com/track/6mRccKSAN4IChtUsnAzVGl"
+    },
+    {
+      "album": {
         "name": "Whoa There Nelly",
         "url": "https://open.spotify.com/album/45IBRe4BcNOcF5RvTZGEn4"
       },

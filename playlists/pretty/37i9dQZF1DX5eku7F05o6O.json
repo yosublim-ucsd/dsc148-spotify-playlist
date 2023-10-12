@@ -1,12 +1,12 @@
 {
   "description": "Le plus beau, le plus triste. Photo: Alexandra Streliski",
-  "num_followers": 3656,
+  "num_followers": 3659,
   "original_name": "Tout doux",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwYjkxM2FhM2UyOWQzY2ZjM2NmOGVjMTNlYjA2M2VhNTQwNTRkYWNj",
+  "snapshot_id": "MCwwN2VmZDZhMzA0MDE4OTg1ZTUyZWMyZDQwMmEzNWI1MzgwZDE0MTQ2",
   "tracks": [
     {
       "added_at": "2021-02-06 03:12:40",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "There Will Be Stars",
-        "url": "https://open.spotify.com/album/42SwJyBUTvsJgKqsaFPK3x"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 318880,
-      "name": "Moi, Elsie",
-      "url": "https://open.spotify.com/track/2Js9RVHgerELazvml9m8xR"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Le fil",
         "url": "https://open.spotify.com/album/2Ee68ldGNltX6l3KpTgvIZ"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 166720,
       "name": "Pour que l'amour me quitte",
       "url": "https://open.spotify.com/track/5ondyRZec0o7QozmadKxgq"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "There Will Be Stars",
+        "url": "https://open.spotify.com/album/42SwJyBUTvsJgKqsaFPK3x"
+      },
+      "artists": [
+        {
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
+        }
+      ],
+      "duration_ms": 318880,
+      "name": "Moi, Elsie",
+      "url": "https://open.spotify.com/track/2Js9RVHgerELazvml9m8xR"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -535,22 +535,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "EP",
-        "url": "https://open.spotify.com/album/63RCfZKMzbxI8ltgzSzM1G"
-      },
-      "artists": [
-        {
-          "name": "Lydia K\u00e9pinski",
-          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "M'attends-tu",
-      "url": "https://open.spotify.com/track/1fxOtL0FoCD9kSY9Luis96"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Siberia (Acoustic)",
         "url": "https://open.spotify.com/album/0Q2uO7vZmCMsuodQwchAOH"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 179682,
       "name": "Peace Sign (feat. Coeur de Pirate) [Acoustic]",
       "url": "https://open.spotify.com/track/1jbmOarFutcvbIJpRUPwoF"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "EP",
+        "url": "https://open.spotify.com/album/63RCfZKMzbxI8ltgzSzM1G"
+      },
+      "artists": [
+        {
+          "name": "Lydia K\u00e9pinski",
+          "url": "https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "M'attends-tu",
+      "url": "https://open.spotify.com/track/1fxOtL0FoCD9kSY9Luis96"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -731,22 +731,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Un Autre \u00c9t\u00e9",
-        "url": "https://open.spotify.com/album/1EPQK7vUSd8UQzVLToWnWf"
-      },
-      "artists": [
-        {
-          "name": "Sophie Chen",
-          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Un Autre \u00c9t\u00e9",
-      "url": "https://open.spotify.com/track/22sQRY8rd7fIbIgMHRc3eO"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "\u00c9tienne d'ao\u00fbt",
         "url": "https://open.spotify.com/album/5o8uGuDD6VLjbkarw9DhiE"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 312666,
       "name": "Elton d'ao\u00fbt - Remix",
       "url": "https://open.spotify.com/track/4AUJX89rvtLDdUsYu8M1uD"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Un Autre \u00c9t\u00e9",
+        "url": "https://open.spotify.com/album/1EPQK7vUSd8UQzVLToWnWf"
+      },
+      "artists": [
+        {
+          "name": "Sophie Chen",
+          "url": "https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Un Autre \u00c9t\u00e9",
+      "url": "https://open.spotify.com/track/22sQRY8rd7fIbIgMHRc3eO"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -819,22 +819,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Le feu de chaque jour",
-        "url": "https://open.spotify.com/album/4j1nx0dlIVExJ9uxjkVPo8"
-      },
-      "artists": [
-        {
-          "name": "Patrice Michaud",
-          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
-        }
-      ],
-      "duration_ms": 271360,
-      "name": "Loin de Disneyland",
-      "url": "https://open.spotify.com/track/76CGTEQ17dXFWw6llOycSj"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Dire combien je t'aime",
         "url": "https://open.spotify.com/album/1LMHYa88eFjdK4s9aYvUFf"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 247692,
       "name": "Le c\u0153ur de l'oc\u00e9an",
       "url": "https://open.spotify.com/track/5tKlcROrtIMfKul9x4Uxzd"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Le feu de chaque jour",
+        "url": "https://open.spotify.com/album/4j1nx0dlIVExJ9uxjkVPo8"
+      },
+      "artists": [
+        {
+          "name": "Patrice Michaud",
+          "url": "https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1"
+        }
+      ],
+      "duration_ms": 271360,
+      "name": "Loin de Disneyland",
+      "url": "https://open.spotify.com/track/76CGTEQ17dXFWw6llOycSj"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Habit",
-        "url": "https://open.spotify.com/album/47BeET8hEy09koztGMjD70"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle Shonk",
-          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
-        }
-      ],
-      "duration_ms": 196613,
-      "name": "Trop tard",
-      "url": "https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "Escalader l'ivresse",
         "url": "https://open.spotify.com/album/70uEeZYZ7J5YcIQpk0Ds1Y"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 360253,
       "name": "J'\u00e9choue",
       "url": "https://open.spotify.com/track/0u4gJzS512G8yc1lmTBCSD"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Habit",
+        "url": "https://open.spotify.com/album/47BeET8hEy09koztGMjD70"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle Shonk",
+          "url": "https://open.spotify.com/artist/5Vj7LABYdzz3ZBt1EhDIoQ"
+        }
+      ],
+      "duration_ms": 196613,
+      "name": "Trop tard",
+      "url": "https://open.spotify.com/track/0kGlndxcDA7drOZwgt4eOd"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "EP de malade",
-        "url": "https://open.spotify.com/album/6cHm4D6a3fOhQ9veQVgXBH"
-      },
-      "artists": [
-        {
-          "name": "Alice on the roof",
-          "url": "https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Madame (Version douce)",
-      "url": "https://open.spotify.com/track/70rWuK3787LF5UE2Xe6YJS"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "La pluie entre nous",
         "url": "https://open.spotify.com/album/0Y10OKNgG1nCZgNYjD9ycN"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 220630,
       "name": "La pluie entre nous",
       "url": "https://open.spotify.com/track/4uXdnDGrnb5pCNyIl32UT7"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "EP de malade",
+        "url": "https://open.spotify.com/album/6cHm4D6a3fOhQ9veQVgXBH"
+      },
+      "artists": [
+        {
+          "name": "Alice on the roof",
+          "url": "https://open.spotify.com/artist/4M07FSqpxgqLfCOaX1WUei"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Madame (Version douce)",
+      "url": "https://open.spotify.com/track/70rWuK3787LF5UE2Xe6YJS"
     },
     {
       "added_at": "2021-02-06 03:12:40",
@@ -1579,22 +1579,6 @@
     {
       "added_at": "2021-02-06 03:12:40",
       "album": {
-        "name": "Bleu Soleil",
-        "url": "https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK"
-      },
-      "artists": [
-        {
-          "name": "Charles-Antoine Gosselin",
-          "url": "https://open.spotify.com/artist/4mBjoFvWxtq6OaxpE17h8F"
-        }
-      ],
-      "duration_ms": 247733,
-      "name": "Il m'en aura fallu du temps",
-      "url": "https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq"
-    },
-    {
-      "added_at": "2021-02-06 03:12:40",
-      "album": {
         "name": "M\u00e9lodica",
         "url": "https://open.spotify.com/album/1KcXE7rEnsk3obnRtN28YO"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 205026,
       "name": "Habiter l'avenir",
       "url": "https://open.spotify.com/track/7bREIWIo4GsjvWJDtUEDpg"
+    },
+    {
+      "added_at": "2021-02-06 03:12:40",
+      "album": {
+        "name": "Bleu Soleil",
+        "url": "https://open.spotify.com/album/7d2wTwiTr53Nq0anXhjCMK"
+      },
+      "artists": [
+        {
+          "name": "Charles-Antoine Gosselin",
+          "url": "https://open.spotify.com/artist/4mBjoFvWxtq6OaxpE17h8F"
+        }
+      ],
+      "duration_ms": 247733,
+      "name": "Il m'en aura fallu du temps",
+      "url": "https://open.spotify.com/track/6OcbIeE7F92k09twe8mpMq"
     },
     {
       "added_at": "2021-02-06 03:12:40",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: MC Caverinha
 
-[Spotify](https://open.spotify.com/user/spotify) - 379,370 likes - 81 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,135 likes - 81 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 18 | [Não Me Para](https://open.spotify.com/track/6yFMentQMLOkh24pjQJgsQ) | [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [Ascensão do Cisne Negro](https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ) | 3:29 |
 | 19 | [NOVINHA MANDRAKA](https://open.spotify.com/track/2hB98xPNhpahju25eLttyz) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Trap The Fato Deluxe](https://open.spotify.com/album/0un91YASLvkBJCWKdCPj4t) | 2:58 |
 | 20 | [Ensinamento do Pai](https://open.spotify.com/track/2eYtp7oSUhIXIVEXTCK9r4) | [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Um Toque de Malandragem](https://open.spotify.com/album/7ff6CiyF3eKZzZBg5wv2fy) | 3:21 |
-| 21 | [Pretchuka](https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Vitor Akin](https://open.spotify.com/artist/3X7HLxpqEgcA7f9lbXXKb5) | [Pretchuka](https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd) | 2:33 |
+| 21 | [Pretchuka](https://open.spotify.com/track/2L8yK9YF7NtVJ4DiCn92wf) | [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9), [Vitor Akin](https://open.spotify.com/artist/6CsiuADjEWXV6FvM7Hhoik) | [Pretchuka](https://open.spotify.com/album/4zW14n2MInFmIjgZtHRQNd) | 2:33 |
 | 22 | [Sem Paciência](https://open.spotify.com/track/3YUVRprnVfl4qSpx682ZhU) | [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [tchelo rodrigues](https://open.spotify.com/artist/77JxPSGO8x7rYEWNZMSSIY), [2050](https://open.spotify.com/artist/5VwzkQP7ZcksbrUUzh3gji) | [Sem Paciência](https://open.spotify.com/album/1KG02ileJtzBTTh4Um87No) | 1:57 |
 | 23 | [Motivos](https://open.spotify.com/track/6MBEGkoAzJUUvUiBWrZnK2) | [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Consequências De Um Coração Machucado](https://open.spotify.com/album/3hvcIAXdaiHr4a1BeCfm9e) | 2:50 |
 | 24 | [Cruzeiro do Ney](https://open.spotify.com/track/3FN25B7rk6JlKNFiPsP74t) | [Senndy](https://open.spotify.com/artist/6dfVDfsJOmrY9Xr0Y936m3), [Emitê Único](https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75), [Ryu, the Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K) | [É Quem?](https://open.spotify.com/album/2dgLoYt3odmlfjfQYXlKhL) | 2:55 |
@@ -90,4 +90,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 80 | [Minha Vida é um Filme](https://open.spotify.com/track/0FBV7lozkqCSuV2q24n43x) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Minha Vida é um Filme](https://open.spotify.com/album/2yLHPvXcoZ3Zu8X5XY8Cpj) | 3:06 |
 | 81 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 |
 
-Snapshot ID: `MCw2YjEzOWE1YTlhYzkyNzVjZjAyNzliYTkzY2MxYjZiZTNjMTBlYzE2`
+Snapshot ID: `MCxjM2U3MmE1ZGM0ZDg1OTY2MDg3NTEzODNjMzE1NTM0MTFhOGFlMDA4`

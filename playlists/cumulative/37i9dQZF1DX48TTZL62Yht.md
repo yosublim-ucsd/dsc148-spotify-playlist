@@ -4,7 +4,7 @@
 
 > The tracks you just keep pulling up\. Cover: Drake 🐕
 
-692 songs - 1 day 11 hr 35 min
+693 songs - 1 day 11 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Killshot](https://open.spotify.com/track/1jo3TwNGCXfNdB5uba3ZVv) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Killshot](https://open.spotify.com/album/0RejlT9bmqcXGrqMaJRos0) | 4:13 | 2022-04-01 | 2022-04-21 |
 | [KING OF THE TOWN](https://open.spotify.com/track/1HGf4BXTUc5nsNdYUV7jGJ) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef) | [BECAUSE WE'RE ALIVE](https://open.spotify.com/album/6Tcj3DEv2HetLPgFa50Gal) | 2:31 | 2022-01-14 | 2022-04-18 |
 | [King Snipe](https://open.spotify.com/track/0UMqDSXk4xvoCNRrIEPf7T) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [King Snipe](https://open.spotify.com/album/2itGUEHsT50CrgnuO2msY7) | 3:34 | 2023-03-24 | 2023-06-23 |
+| [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/track/51rXHuKN8Loc4sUlKPODgH) | [Jay Rock](https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [King's Dead \(with Kendrick Lamar, Future & James Blake\)](https://open.spotify.com/album/1NXM5lF9YB7a3f1e4R48oH) | 3:49 | 2023-10-11 |  |
 | [Knife Talk \(with 21 Savage ft\. Project Pat\)](https://open.spotify.com/track/2BcMwX1MPV6ZHP4tUT9uq6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Project Pat](https://open.spotify.com/artist/08Ld63UgKrJ0nZnCkzHtzc) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:02 | 2022-01-07 |  |
 | [L.O.Y.A.L](https://open.spotify.com/track/3YjIFMpj22nxu9uckmNBnp) | [Ching](https://open.spotify.com/artist/2OJWvrQSWQXqFNIx6jiM0Q) | [L.O.Y.A.L](https://open.spotify.com/album/3GPjSN3s2ScP3CSMODYCNq) | 2:41 | 2022-01-14 | 2022-04-15 |
 | [Lalala](https://open.spotify.com/track/07rmSXN6vNoquX1AsWd9pP) | [Y2K](https://open.spotify.com/artist/6USMTwO0MNDnKte5a5h0xx), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [Lalala](https://open.spotify.com/album/4kjRJxs1i8m3mv8bI0o8OP) | 2:40 | 2022-04-01 | 2022-04-19 |
@@ -357,7 +358,7 @@
 | [Magic City](https://open.spotify.com/track/6qHhHEBX3W1ahFasgShdih) | [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM), [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Magic City \(feat\. Quavo\)](https://open.spotify.com/album/1FXatEkVfJW6JbqNHB6acw) | 2:38 | 2022-04-29 | 2022-07-19 |
 | [Magnolia](https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:01 | 2022-04-01 | 2022-08-05 |
 | [Main Road](https://open.spotify.com/track/3167uNHlYILMowcArVoLZ3) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [Noughty By Nature \(Extended Edition\)](https://open.spotify.com/album/5huZ6CEe0GgSnwC26yjKZ3) | 3:25 | 2022-06-10 | 2022-06-17 |
-| [Man in the Mirror](https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:35 | 2022-02-11 |  |
+| [Man in the Mirror](https://open.spotify.com/track/7uLFOXgLrS90tEYPO1DGXy) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 AVA](https://open.spotify.com/album/1VxVQAgekwkFo8yoXvFZ8o) | 3:35 | 2022-02-11 | 2023-10-12 |
 | [Mansion](https://open.spotify.com/track/7yWPBTrbUO3VmIsD6hLhGf) | [Pressa](https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy), [Houdini](https://open.spotify.com/artist/2Ruhhm5oH4pxgsEUVZcaHm), [6ixbuzz](https://open.spotify.com/artist/0esldOhgJb5AkjUre9EgLk) | [Mansion](https://open.spotify.com/album/1nwyxrszUQuWwdwgIKw02E) | 2:46 | 2022-01-14 | 2022-01-30 |
 | [Marathon](https://open.spotify.com/track/3SE71ytwae4ZgBiYpu93QG) | [Connor Price](https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L), [4Korners](https://open.spotify.com/artist/3OkT1SRceq0PfwGWmTvFab) | [Marathon](https://open.spotify.com/album/5yA3Dxs5IxVxQMFLZFEp2j) | 2:16 | 2022-04-29 | 2022-07-29 |
 | [Marmalade \(feat\. Lil Yachty\)](https://open.spotify.com/track/0RYXEibxMami3QuT8kn4Iz) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Marmalade \(feat\. Lil Yachty\)](https://open.spotify.com/album/5jt7rVzPCZjbS9odrmiqZj) | 4:21 | 2022-04-01 | 2022-04-21 |

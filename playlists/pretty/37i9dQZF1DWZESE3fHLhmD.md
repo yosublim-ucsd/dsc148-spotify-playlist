@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 
 > Endlich wieder Strickpullover & Gemütlichkeit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,281,382 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,281,103 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 7 | [logical](https://open.spotify.com/track/53dtP2iUMvaF28JZcHnFuU) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:51 |
 | 8 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 |
 | 9 | [golden hour](https://open.spotify.com/track/5odlY52u43F5BjByhxg7wg) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what \_\_\_\_ feels like \(Vol\. 1\-4\)](https://open.spotify.com/album/69AaAkdktFGnk9POmHENkT) | 3:29 |
-| 10 | [ITALODISCO](https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [ITALODISCO](https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn) | 3:19 |
-| 11 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
+| 10 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 |
+| 11 | [ITALODISCO](https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV) | [The Kolors](https://open.spotify.com/artist/72A0Z8q8NiochyK9gUHpCR) | [ITALODISCO](https://open.spotify.com/album/38cYOdPjt5btA4AMYmbZjn) | 3:19 |
 | 12 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
 | 13 | [Got Me Started](https://open.spotify.com/track/2Rn2ocU7jk8BqFoh6zwf1Y) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Got Me Started](https://open.spotify.com/album/4jR16WUQrwoU73Sw3RBt26) | 3:18 |
 | 14 | [Back On 74](https://open.spotify.com/track/19kHhX6f6EfLU7rcO3RqjO) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 3:29 |
@@ -57,11 +57,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 47 | [Synchronize](https://open.spotify.com/track/6Ql7rNuoP90aIdgwQkPYBP) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Synchronize](https://open.spotify.com/album/4wW0gNfB05ae2hUqr22XWL) | 2:44 |
 | 48 | [Dive](https://open.spotify.com/track/39X2xdmnX3UAWNmyhKdVtc) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Dive](https://open.spotify.com/album/3R7QQAIWQNYV5I2GViJqee) | 3:20 |
 | 49 | [Forget Somebody](https://open.spotify.com/track/4nTsYZHFfecWk7NPXqqVyD) | [Tom Gregory](https://open.spotify.com/artist/6Rmg5JiRphFMlhkwGNl9Fu) | [Forget Somebody](https://open.spotify.com/album/68xO5TGhgtqwNpPgxuYTCo) | 2:43 |
-| 50 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 |
-| 51 | [Happy](https://open.spotify.com/track/3gNGs3jVDgvbJUD8nNCZD0) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W) | [Canaries in a Coal Mine](https://open.spotify.com/album/6w8FlpM4WCoQNK94V0xruX) | 3:27 |
-| 52 | [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 |
-| 53 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 |
-| 54 | [Broken](https://open.spotify.com/track/0OW2r3EJzCg7K5Ml0AUVEo) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Yours](https://open.spotify.com/album/6XUpmmF38NqTp1Nf6QcUfq) | 3:36 |
+| 50 | [Broken](https://open.spotify.com/track/0OW2r3EJzCg7K5Ml0AUVEo) | [Isak Danielson](https://open.spotify.com/artist/5ie2SvXgvXlTpyqkwLtSd7) | [Yours](https://open.spotify.com/album/6XUpmmF38NqTp1Nf6QcUfq) | 3:36 |
+| 51 | [Head on Fire](https://open.spotify.com/track/6QLNcOI6YCqdLAS6GLWXMj) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff), [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Head on Fire](https://open.spotify.com/album/4M4Ekef97nQCzxxxC7z6hg) | 3:08 |
+| 52 | [Happy](https://open.spotify.com/track/3gNGs3jVDgvbJUD8nNCZD0) | [Bukahara](https://open.spotify.com/artist/21K0gLOe4i0o6l1MHd5a6W) | [Canaries in a Coal Mine](https://open.spotify.com/album/6w8FlpM4WCoQNK94V0xruX) | 3:27 |
+| 53 | [20s](https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [20s](https://open.spotify.com/album/4CAB4B2b8yi1NYcqmz3ZDc) | 3:04 |
+| 54 | [Wet Dream](https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Dream](https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA) | 2:20 |
 | 55 | [Katharina](https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j) | [AnnenMayKantereit](https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m) | [Es ist Abend und wir sitzen bei mir](https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI) | 3:00 |
 | 56 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
 | 57 | [Egoist](https://open.spotify.com/track/1SBsBiDUROntxMXINn8Cak) | [JEREMIAS](https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF) | [Von Wind und Anonymität](https://open.spotify.com/album/2Ng9a76XnsKxlwWPUMXHgK) | 3:18 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZESE3fHLhmD.md) - [plain]
 | 69 | [Midnight](https://open.spotify.com/track/2XoRnEuxmv6EMApi6fagyE) | [Bow Anderson](https://open.spotify.com/artist/6ObN9YNBliscJOImQp4UZO) | [Midnight](https://open.spotify.com/album/2T8uIHAH9XOjXLJNdHJiLY) | 2:56 |
 | 70 | [Subside](https://open.spotify.com/track/3Lqsck2T1MyyRmK1993Obk) | [Eloise](https://open.spotify.com/artist/7LlIWfvgWlDBXfxCvCFbuC) | [This Thing Called Living](https://open.spotify.com/album/2TwdfXTB6TUMObapDUysmW) | 3:08 |
 
-Snapshot ID: `MCxhZGY0YjIwMTAxZTU1MTU3MjBmYTcxM2Q3N2FkMzUyYWI5MTEzMGRj`
+Snapshot ID: `MCw4N2JkMjg3ODMzNTczM2M5ZjM3ZmVlMWE4YjQzNjg0OThiMGYxN2Uw`

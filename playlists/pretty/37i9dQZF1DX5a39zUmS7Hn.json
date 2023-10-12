@@ -1,12 +1,12 @@
 {
   "description": "New music and timeless tracks from legends only. Cover: U2",
-  "num_followers": 415743,
+  "num_followers": 415800,
   "original_name": "Legends Only",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZmI1MGIxNDYxOTQ3N2RlOTUxNmRjMTRhNGY2ZmFmZDFjZGE3MjEy",
+  "snapshot_id": "MCw0NTBhNDI2MWM3ODI2YTdhMzNkNGViZTcwMjgzZDIyODAyZGM5ODU2",
   "tracks": [
     {
       "added_at": "2023-09-28 23:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Deja Vu",
-        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills, Nash & Young",
-          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
         "name": "WALLS",
         "url": "https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 183093,
       "name": "Waste A Moment",
       "url": "https://open.spotify.com/track/5LlsD7LdSMkGV4Iu0a2Zq0"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "Deja Vu",
+        "url": "https://open.spotify.com/album/5bHkK1X4WEOzNvRhehvOcb"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills, Nash & Young",
+          "url": "https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/2hitsKa8SthKhRJBXUHbIv"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "The Narcissist",
-        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
+        "name": "Through The Looking Glass (Remastered And Expanded)",
+        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
       },
       "artists": [
         {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+          "name": "Siouxsie and the Banshees",
+          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
         }
       ],
-      "duration_ms": 245225,
-      "name": "The Narcissist",
-      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
+      "duration_ms": 309306,
+      "name": "The Passenger",
+      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
     },
     {
       "added_at": "2023-09-28 23:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-09-28 23:00:00",
       "album": {
-        "name": "Through The Looking Glass (Remastered And Expanded)",
-        "url": "https://open.spotify.com/album/7kEqVGkLoruahp34YW16oe"
-      },
-      "artists": [
-        {
-          "name": "Siouxsie and the Banshees",
-          "url": "https://open.spotify.com/artist/1n65zfwYIj5kKEtNgxUlWb"
-        }
-      ],
-      "duration_ms": 309306,
-      "name": "The Passenger",
-      "url": "https://open.spotify.com/track/6EZDbjz2X5XzgIZCtbsrXh"
-    },
-    {
-      "added_at": "2023-09-28 23:00:00",
-      "album": {
         "name": "His N Hers",
         "url": "https://open.spotify.com/album/2HyDLO6tHAOx2QiQr9RLCf"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 244826,
       "name": "Babies",
       "url": "https://open.spotify.com/track/4j3obTRIyR7QzvdeQz9vaO"
+    },
+    {
+      "added_at": "2023-09-28 23:00:00",
+      "album": {
+        "name": "The Narcissist",
+        "url": "https://open.spotify.com/album/2BfpnbY3M0oc9NyW87NKGz"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 245225,
+      "name": "The Narcissist",
+      "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
     }
   ],
   "unique_name": "Legends Only",

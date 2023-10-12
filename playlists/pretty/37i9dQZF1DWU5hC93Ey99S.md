@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 
 > all the stutter, all the feels.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,792 likes - 250 songs - 13 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,909 likes - 250 songs - 13 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [On My Mind](https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Jim](https://open.spotify.com/artist/6goGejgjtOpzFnNndVXmZ0) | [On My Mind](https://open.spotify.com/album/3Tc4RzAWum7OKbNkTGgkAX) | 2:20 |
+| 1 | [On My Mind](https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [JIM](https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr) | [On My Mind](https://open.spotify.com/album/3Tc4RzAWum7OKbNkTGgkAX) | 2:20 |
 | 2 | [Make It Better \[ZAC & BAKKA \(BR\) Remix\]](https://open.spotify.com/track/2SbAoNQVqVkIuFTFV94Bdm) | [Dashdot](https://open.spotify.com/artist/0dDnvI6TCQslhEBYCA4DPU), [Maxximal](https://open.spotify.com/artist/5qPkBljA5md7aECwFxSabY), [Ashibah](https://open.spotify.com/artist/5krSTcI0xPGmeloiQTPsYP), [ZAC](https://open.spotify.com/artist/5xUXAwPZ98FzFgjTNOIPyv), [BAKKA \(BR\)](https://open.spotify.com/artist/5VQhfKlaFyzx7Kz1VEF2u8) | [Make It Better \(Remixes Vol.1\)](https://open.spotify.com/album/0Vgs0dllM7oSR7U1oZPgs3) | 4:56 |
 | 3 | [Everywhere](https://open.spotify.com/track/2hIlV0UAOhsbvRp9KV1pOG) | [Babsy.](https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk) | [Everywhere](https://open.spotify.com/album/37og7S56FzrRuRI8Jvzxjq) | 2:46 |
 | 4 | [Elysian Park](https://open.spotify.com/track/3pbZCLBe6fUZ8dBntDWQ64) | [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra), [han.irl <3](https://open.spotify.com/artist/5VfSeZYcDwD8WQVwbaoL6z), [Rome in Silver](https://open.spotify.com/artist/0Hh9X3QxTHPE2dlAS1g8IN) | [Elysian Park](https://open.spotify.com/album/5FrzfGTsoOcoH2sk4sONHe) | 2:22 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU5hC93Ey99S.md) - [plain]
 | 249 | [Call On Me \(with Tove Lo\) \- SILK "2am" Remix](https://open.spotify.com/track/1FOB0dyeUM2iOLMNnX8dKE) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK), [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a) | [Call On Me & Lifetime \(Remixes\)](https://open.spotify.com/album/1CRH8YfN1l16GxyuuFQn18) | 3:29 |
 | 250 | [Right Before Our Eyes](https://open.spotify.com/track/5xmQy57y7FuyUQxpeNlUbT) | [Elephante](https://open.spotify.com/artist/3fjs4zbBFxEFFe8Wyojo0G), [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [Right Before Our Eyes](https://open.spotify.com/album/0485X59JRJJIQSRiH22WGd) | 3:04 |
 
-Snapshot ID: `MCw4NjZkZWQwZDY0MGJlZDJhNmJhYzdmMWQwY2U3MDc5YWMwMDE3ZTdj`
+Snapshot ID: `MCwyYzQ2MTkyNDhlNzI5NDU5M2QxMDYzNmI0Yzk4N2IwZWU5OGM3NmMz`

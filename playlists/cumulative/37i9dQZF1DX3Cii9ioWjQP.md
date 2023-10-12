@@ -2,9 +2,9 @@
 
 ### [Jazzy Korea](https://open.spotify.com/playlist/37i9dQZF1DX3Cii9ioWjQP)
 
-> All about Korean Jazz hits & new \(Cover: Mandong\(만동\)\)
+> All about Korean Jazz hits & new \(Cover: MIHYANG MOON\(문미향\)\)
 
-166 songs - 12 hr 14 min
+168 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,7 +32,7 @@
 | [Breeze](https://open.spotify.com/track/6CX8ZtHiupf9EulZXjXKA9) | [김상준](https://open.spotify.com/artist/1ZLe92Imu2rBDyZijS7TlZ) | [Breeze](https://open.spotify.com/album/3n9vwJ5YfbgEb6cnd6pDJS) | 3:08 | 2023-02-07 | 2023-08-23 |
 | [Caterpillar \(feat\. Rob Christian\)](https://open.spotify.com/track/6HUODKj1h2VofvTHNdBoLa) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Rob Christian](https://open.spotify.com/artist/5GmTnqtSTio7KExuVLfw4W) | [Caterpillar](https://open.spotify.com/album/3G6PJpsgX2sVFqMsQwmKz6) | 4:22 | 2022-05-03 | 2022-05-19 |
 | [Challenge](https://open.spotify.com/track/1efuuWPLLISJEcL50QBqJu) | [Hyewon](https://open.spotify.com/artist/0tLP2PfCbreoSALgPYgWMB) | [Challenge](https://open.spotify.com/album/7i2BaCWyYFCbHv7ds6IXSJ) | 5:33 | 2022-05-03 | 2022-12-03 |
-| [Challenge](https://open.spotify.com/track/7rSaFa1IUSsE3VUpyhsgsC) | [Hyewon](https://open.spotify.com/artist/0tLP2PfCbreoSALgPYgWMB) | [Challenge](https://open.spotify.com/album/1K2GzbrJLDIRfzpVBIw6FR) | 5:33 | 2022-11-23 |  |
+| [Challenge](https://open.spotify.com/track/7rSaFa1IUSsE3VUpyhsgsC) | [Hyewon](https://open.spotify.com/artist/0tLP2PfCbreoSALgPYgWMB) | [Challenge](https://open.spotify.com/album/1K2GzbrJLDIRfzpVBIw6FR) | 5:33 | 2022-11-23 | 2023-10-12 |
 | [Chameleon](https://open.spotify.com/track/2kU8bM9K04n0O3BsJQfeyp) | [Earthquake](https://open.spotify.com/artist/4iMP4w0bfWdZhhdq5YAO4a) | [Various](https://open.spotify.com/album/2eo0dVmhov45ga2tYGbFMF) | 3:45 | 2022-05-18 | 2023-02-08 |
 | [Chance](https://open.spotify.com/track/5LyeN1d5TUIeWMlN0Citb8) | [Do&Be Sound](https://open.spotify.com/artist/4lKGgFI2Khs73ROJLwiaa9) | [BGM Jazz Library\_259](https://open.spotify.com/album/1tofyoZ7IKDYgBqclXpoUD) | 2:25 | 2022-05-03 | 2022-05-19 |
 | [CHANSON TRISTE](https://open.spotify.com/track/4QDOaEC18YN6l2BOFKo463) | [Horan](https://open.spotify.com/artist/6458zvXJjZ1ukrrb6fJdqd) | [OASIS, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/71nxgPyEYPi8hTK3kTRQxo) | 3:45 | 2023-04-10 |  |
@@ -67,6 +67,7 @@
 | [Here I am](https://open.spotify.com/track/1ly3Lsq7Kn8Pj14ldHeNSE) | [김혜지](https://open.spotify.com/artist/6z0DShdQxwbWSmB3FLHTE7) | [김혜지의 15번째 싱글앨범](https://open.spotify.com/album/7I1R6zEVfYmWuOzjPN8ATO) | 5:03 | 2022-11-11 | 2023-02-08 |
 | [Home](https://open.spotify.com/track/0HfVfNfoK8ZpZ6EvKUgQLg) | [Ann Kim](https://open.spotify.com/artist/6G6kuN81r2blIeoah5kf9t) | [Home](https://open.spotify.com/album/5KwCT0VjBxXqGJFbrF88l5) | 4:10 | 2022-05-18 |  |
 | [Honeymoon](https://open.spotify.com/track/5fFhTTd6pmgBpysk2ozGtg) | [ZXQ](https://open.spotify.com/artist/7x9SoabYD4wuOML2PQ6onB) | [Honeymoon](https://open.spotify.com/album/6SFC5vD6tvizIL3ghFJOQe) | 2:24 | 2023-02-07 |  |
+| [I Wished On The Moon](https://open.spotify.com/track/608er1MSoN0BFXdvEP6X1C) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [I Wished On The Moon](https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d) | 4:15 | 2023-10-11 |  |
 | [I'm Not a Butterfly](https://open.spotify.com/track/4RcuqGcL9G95s6qdZzKoqb) | [Woong San](https://open.spotify.com/artist/3FYwrGRWL93eQGcUoVkDO1) | [Who Stole the Skies](https://open.spotify.com/album/3vBepxBq8Ik2Tsn5Yu1uML) | 5:13 | 2022-09-26 | 2023-02-08 |
 | [Inflexible Chess Pieces](https://open.spotify.com/track/0IBsuihyvthkFXRqDXOOAg) | [Junbeom Sim](https://open.spotify.com/artist/3LNX9HVfbM5u3IdJ44IVwL) | [Inflexible Chess Pieces](https://open.spotify.com/album/2OrJbRm23LFDbvg4J2P072) | 10:54 | 2022-05-03 |  |
 | [Isolate \(feat\. AHRAM GO\)](https://open.spotify.com/track/4HBFLUmi3CdnDugb1fevCo) | [Irony](https://open.spotify.com/artist/0iFYmJPYK3xbD7mqacwFOM), [고아람](https://open.spotify.com/artist/6lTcUEjaxqnfRen2kA4s2Z) | [Ironic](https://open.spotify.com/album/4ofBi1vvKlz40osDgUA9OB) | 3:12 | 2023-07-24 |  |
@@ -116,11 +117,12 @@
 | [rooftop story](https://open.spotify.com/track/7qDqkkAo9zPwAbTL0jvuLu) | [Song Hyukkyu](https://open.spotify.com/artist/2egNLLDYMhKXxFAgPOaxeq) | [Innocence of dawn](https://open.spotify.com/album/7oVjfpiung6nViuomF1YdL) | 3:40 | 2023-02-07 |  |
 | [Rum Pum Pum](https://open.spotify.com/track/2JaVEjpz0CVmO7lKP4MqL4) | [Lee Jin Ah](https://open.spotify.com/artist/4SzO3ea2qcjg1uLyNJAWnM) | [Rum Pum Pum](https://open.spotify.com/album/4zx46DYfYzDszLAOVr95Au) | 5:06 | 2022-05-03 | 2023-02-08 |
 | [Sag](https://open.spotify.com/track/0WT5exMmrq1biJR2cvJepO) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 4:21 | 2022-11-23 |  |
-| [Sail Away \(feat\. HAESONG\)](https://open.spotify.com/track/1m8JMmV16TrgGeBNrt1SC1) | [Kang Hyunho](https://open.spotify.com/artist/50oIUfjtvBKSSGO611Dqzi), [HAESONG](https://open.spotify.com/artist/6wdqKs5SjeknFU3YC1icr8) | [Sail Away](https://open.spotify.com/album/2OF34mOai76B9OjsBIuSaf) | 4:32 | 2022-05-03 |  |
+| [Sail Away \(feat\. HAESONG\)](https://open.spotify.com/track/1m8JMmV16TrgGeBNrt1SC1) | [Kang Hyunho](https://open.spotify.com/artist/50oIUfjtvBKSSGO611Dqzi), [HAESONG](https://open.spotify.com/artist/6wdqKs5SjeknFU3YC1icr8) | [Sail Away](https://open.spotify.com/album/2OF34mOai76B9OjsBIuSaf) | 4:32 | 2022-05-03 | 2023-10-12 |
 | [Saturday Rain](https://open.spotify.com/track/0fa7YZZdlqXtgUXoFP4z7P) | [Evenrain](https://open.spotify.com/artist/0rsCdUANsCVdMIsE2JcF6k) | [Saturday Rain](https://open.spotify.com/album/5N01UsVMq2ZV51fWnaybzw) | 5:57 | 2022-05-03 | 2022-05-19 |
 | [Sebaet\-noli](https://open.spotify.com/track/3RA5FtWW7iYcxbhpA3fjq7) | [XIIDO](https://open.spotify.com/artist/0Rehu23IN36yNREIHyLRMy) | [leap](https://open.spotify.com/album/1zbvwDTqquGyfJwztj7EWx) | 3:36 | 2023-03-31 |  |
 | [Seoul](https://open.spotify.com/track/0Dp0Mciad7UREjCQ5qMss2) | [Song Jong Bin](https://open.spotify.com/artist/5gI6HMyq1LTLexdeEj8K3w) | [Story Around Us](https://open.spotify.com/album/6cO9OFuDs842hXSwTkD61R) | 6:52 | 2022-05-03 | 2023-02-08 |
 | [Shining](https://open.spotify.com/track/3Sg4sRL1ng6zcDnidYlYR0) | [Sarang You](https://open.spotify.com/artist/5TJNvnHYtvyrHdHZ7pwOXl), [Daewon Lee](https://open.spotify.com/artist/4UeorDtRRqdtpAcfhFFv3e), [Jumi Lee](https://open.spotify.com/artist/2n9DanObvlDaaN7wF86dgz) | [Shining](https://open.spotify.com/album/2Bt7cKZLbBQig4co3MvSsF) | 3:41 | 2023-03-31 |  |
+| [Skylark](https://open.spotify.com/track/7JwIhlzMnaDVhPP2ss6cc0) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [I Wished On The Moon](https://open.spotify.com/album/5ZdhKqmiyAHWMTKxljrK8d) | 4:51 | 2023-10-11 |  |
 | [Sonny](https://open.spotify.com/track/3Y8iNszws9u6tTSvCrTPae) | [Mellow Kitchen](https://open.spotify.com/artist/36aNW4upSxSBHoX0I3AmP1) | [Sonny](https://open.spotify.com/album/6ZOZBe9jNHKFwe4XyU38uY) | 3:24 | 2022-05-03 | 2022-05-19 |
 | [Sorcery Soup](https://open.spotify.com/track/1ddVTVxABHqds436IzH004) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V), [Mandong](https://open.spotify.com/artist/2Wk4Orq6UQ5KPunF9WHiyd) | [The Vibe is a Chance](https://open.spotify.com/album/0aFwg3Fy4dTUexmtm1cu3N) | 3:37 | 2022-11-23 |  |
 | [Space Ladder \(Lofi\)](https://open.spotify.com/track/75a2ekPIAlAkiwMuByY6Zd) | [JOONGWOO](https://open.spotify.com/artist/5cHu4c788lUFSujfRbG00O) | [Space Ladder \(Lofi\)](https://open.spotify.com/album/2NqyLxvNOCIxDw1jAgoVXQ) | 4:00 | 2023-03-31 |  |

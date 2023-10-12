@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 
 > Push play on the coolest playlist around, and get ready to jump around.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,616 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,570 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,13 +30,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 20 | [Three Little Birds \(feat\. Ziggy Marley\)](https://open.spotify.com/track/4lWJMQSOJIWSodi3Oe6Few) | [Dora The Explorer](https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [!Vamos a bailar! Let's Dance! The Dora the Explorer Music Collection](https://open.spotify.com/album/3fLxjCJkL1BANWMLA7uwok) | 3:25 |
 | 21 | [Safari](https://open.spotify.com/track/0qaUiV6xlTRYqQZ2332Qsh) | [Eek\-A\-Mouse](https://open.spotify.com/artist/6xqlgBccdlxUh5DeJSx2ho) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:23 |
 | 22 | [Healthy](https://open.spotify.com/track/4h0sclha9pcAkN8oJPA795) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Raised on Hip Hop](https://open.spotify.com/album/4gNAMHn417XOacNst8HvQW) | 2:46 |
-| 23 | [This Old Man](https://open.spotify.com/track/7JaMhrgXmPSXDjVAVxrDav) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:13 |
+| 23 | [CONFIDENT](https://open.spotify.com/track/4Q2ellywUb76X5n08rn8TE) | [Zindzi & The Zillionaires](https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB) | [CONFIDENT](https://open.spotify.com/album/45pqzyFPMnLw0KN9Qe2Ous) | 1:52 |
 | 24 | [Getting Silly](https://open.spotify.com/track/60kcJIrsehemBC5S2PTTG3) | [Blake Rules](https://open.spotify.com/artist/5cdbXEnJgop6zjIxn4ljZ8), [Netherfriends](https://open.spotify.com/artist/5nYfBUxnHtI6LAp32fl9qY) | [Kids Trap](https://open.spotify.com/album/70NZulwHGHVgluy1pwMY3C) | 1:50 |
 | 25 | [Walk Tall](https://open.spotify.com/track/58C6oflMuofn2CvZnO4nyt) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Family Time](https://open.spotify.com/album/5i2M6J3BUEclSo3kRVfeP2) | 3:16 |
 | 26 | [Mi Gente](https://open.spotify.com/track/57rPxsDFpBnUp4Bw5uxIXP) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP World Tour](https://open.spotify.com/album/4JdOUhTxfRmyspRyQntSnD) | 3:08 |
-| 27 | [Jamaica Farewell](https://open.spotify.com/track/5cYxD1ChuvEUlIIQBlv42J) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [House Party](https://open.spotify.com/album/0b2CR3vA6z1lSd8PFQ6n8O) | 3:14 |
+| 27 | [This Old Man](https://open.spotify.com/track/7JaMhrgXmPSXDjVAVxrDav) | [Yellowman](https://open.spotify.com/artist/6yTNMMqumesCWhMJ47HB2a) | [Reggae for Kids](https://open.spotify.com/album/76ttmB1eG7cD2riXBBYBCW) | 3:13 |
 | 28 | [We Outside](https://open.spotify.com/track/2Jm5GHTsbMXbDvhIoyUikW) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [We Outside](https://open.spotify.com/album/5ojvCpVkbL7VQXK3RYdMen) | 2:44 |
-| 29 | [CONFIDENT](https://open.spotify.com/track/4Q2ellywUb76X5n08rn8TE) | [Zindzi & The Zillionaires](https://open.spotify.com/artist/3riGtCwTMATcx6oiLkIdxB) | [CONFIDENT](https://open.spotify.com/album/45pqzyFPMnLw0KN9Qe2Ous) | 1:52 |
+| 29 | [Jamaica Farewell](https://open.spotify.com/track/5cYxD1ChuvEUlIIQBlv42J) | [Dan Zanes](https://open.spotify.com/artist/2iYByRd5wrZXBbmTyrISfC), [Friends](https://open.spotify.com/artist/6tEKn0lRsLGKdzRfJIHKFL), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [House Party](https://open.spotify.com/album/0b2CR3vA6z1lSd8PFQ6n8O) | 3:14 |
 | 30 | [Cha Cha Slide](https://open.spotify.com/track/146IdUhpqJAKpfGPegGtd1) | [Freeze Dance DJ's](https://open.spotify.com/artist/2vnlIUooL0M6u8zJaJImU9) | [FREEZE DANCE PARTY](https://open.spotify.com/album/5IsGdDTrqIPHPumGqtWRL0) | 3:42 |
 | 31 | [Hiphop\-O\-Potamus \- Feat\. Jabari & Baby Power](https://open.spotify.com/track/0ajAIY2IEOjJ4JFmlAEuvM) | [Mee Wee](https://open.spotify.com/artist/53oYcs7ZLh8S3lmt3E5fBp) | [Mee Wee: Hip Hop For Kids](https://open.spotify.com/album/1yjk5rVfA943EL3QvbVvGU) | 2:15 |
 | 32 | [Shake Ya Tailfeather](https://open.spotify.com/track/2t3ZxwOLtpRYxctPbXRRns) | [Giggle Club](https://open.spotify.com/artist/0VXTiAhwelyAgBsxbbinnf) | [Kids Rap Radio](https://open.spotify.com/album/3rVTfED6gnKVwhU7VEf6y5) | 3:58 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX16Q183eyvd.md) - [plain]
 | 46 | [Have Fun](https://open.spotify.com/track/2SRrXQG5zBbd2VUZFu38iL) | [Secret Agent 23 Skidoo](https://open.spotify.com/artist/7zhRp9EH4bF8lJx7wQtj5Q) | [Easy](https://open.spotify.com/album/0z7eg9m6jd8CfepI2WLLC6) | 3:06 |
 | 47 | [2 Times Tables \(Biggie Style\)](https://open.spotify.com/track/6pFoYMv2aU4aBORxa4UrIz) | [Multiplication Hip Hop For Kids](https://open.spotify.com/artist/661nGSGFdpxESwfUkaaLEL) | [Multiplication Times Tables \- 2 Pac, Biggie, & TI Style](https://open.spotify.com/album/7J2JwQSMGuY513Bo3lDGjc) | 4:49 |
 | 48 | [Boomerang](https://open.spotify.com/track/6c3ipL19bLPHrpoj5kKawy) | [123 Andrés](https://open.spotify.com/artist/1KrkVZFQx2EadAriogq5T9), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW), [Rita Rosa](https://open.spotify.com/artist/3ZRSW9hN8aC1KiRGb4Bb0k), [Verny Varela](https://open.spotify.com/artist/63vWZsC4Qd6AAdeqWfVwdk) | [Hola, Amigo: Songs of Friendship](https://open.spotify.com/album/0V5TLnYXWxNFZ0Bmy5bOza) | 3:10 |
-| 49 | [Dance to the Reggae Rhythm \(feat\. Father Goose\)](https://open.spotify.com/track/0PylWiOSendDTztmimb42y) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [Father Goose](https://open.spotify.com/artist/7aufdCkGeBn79Gmb6ir6ys) | [One](https://open.spotify.com/album/5uTpQiaJIt5aSKMXAlCCqW) | 3:25 |
-| 50 | [The Cypher](https://open.spotify.com/track/1RlNTr0g5m8b1juzyPEz1e) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [The Cypher](https://open.spotify.com/album/0iFJLdXv22Uam0ItEQ4076) | 2:52 |
+| 49 | [The Cypher](https://open.spotify.com/track/1RlNTr0g5m8b1juzyPEz1e) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [The Cypher](https://open.spotify.com/album/0iFJLdXv22Uam0ItEQ4076) | 2:52 |
+| 50 | [Dance to the Reggae Rhythm \(feat\. Father Goose\)](https://open.spotify.com/track/0PylWiOSendDTztmimb42y) | [Aaron Nigel Smith](https://open.spotify.com/artist/5afv4kS3cXl7Rs0oKQj6S4), [Father Goose](https://open.spotify.com/artist/7aufdCkGeBn79Gmb6ir6ys) | [One](https://open.spotify.com/album/5uTpQiaJIt5aSKMXAlCCqW) | 3:25 |
 
-Snapshot ID: `MCxhMjRlZTU0OTJmMDJiNjQwYjFlN2Q1MzdkNjkwYmQyZDc1YTc3N2Mz`
+Snapshot ID: `MCwyMDI4MjMyNDNhZTA4MDEwMGY1ZWQ0N2U3MThiNzhkMDQ2MWE5MDM0`

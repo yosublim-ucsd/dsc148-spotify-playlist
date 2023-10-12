@@ -1,12 +1,12 @@
 {
   "description": "canto de tristeza porque lo nuestro termin\u00f3 ",
-  "num_followers": 61414,
+  "num_followers": 61465,
   "original_name": "perd\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZTMzZDRlNGU2YWIwMGVkYWMxMDQyM2QyNmNkNzk5YzNkMTk3MzBk",
+  "snapshot_id": "MCwyM2ZiYjg2ZjQ0Mjc2MjYyYzI4ODBmOTExYjM0YTFjNzYyZDRjZWU3",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -655,22 +655,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Por Una Mujer Bonita",
-        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 211773,
-      "name": "Perd\u00f3name",
-      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Perd\u00f3name",
         "url": "https://open.spotify.com/album/5UnAbdMrhJFoxAjQEY7bhh"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 242390,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/1OYZbxODr6TMlaT2PRi6Wi"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Por Una Mujer Bonita",
+        "url": "https://open.spotify.com/album/575z6jPePLhrgIlIeaKflS"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 211773,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/5Ss6PEMm27CQUCotqWLKe6"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "No Soy de Nadie",
-        "url": "https://open.spotify.com/album/66M8Q9vEqv3CBASWq19DwX"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        }
-      ],
-      "duration_ms": 276355,
-      "name": "Miedo",
-      "url": "https://open.spotify.com/track/1ZAkJE2vi1wbo7tyvgWuXN"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Camilo Superstar",
         "url": "https://open.spotify.com/album/1l6lAa8r9wh4s5TQbrG4RS"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 232360,
       "name": "Perd\u00f3name",
       "url": "https://open.spotify.com/track/3gO8mvkxIcyF9N7Vd1WM2i"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "No Soy de Nadie",
+        "url": "https://open.spotify.com/album/66M8Q9vEqv3CBASWq19DwX"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        }
+      ],
+      "duration_ms": 276355,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/1ZAkJE2vi1wbo7tyvgWuXN"
     },
     {
       "added_at": "2023-10-06 06:00:00",

@@ -1,12 +1,12 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Myke Towers",
-  "num_followers": 731764,
+  "num_followers": 731416,
   "original_name": "Verano 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2QyN2ExMmU1MWM5MWEyZThmOGUzM2FmZTFiNmVkNTZiMjZiNTY2",
+  "snapshot_id": "MCxlMjZjODY3MzY0MDQ0ZmE0ZDdiNmU3NWRkNWNhOGU3ZTVlMDdjN2Y3",
   "tracks": [
     {
       "added_at": "2023-08-21 12:18:42",
@@ -139,22 +139,18 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "La Bebe (Remix)",
-        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
       },
       "artists": [
         {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         }
       ],
-      "duration_ms": 234352,
-      "name": "La Bebe - Remix",
-      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -179,18 +175,22 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "Holanda",
-        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
+        "name": "La Bebe (Remix)",
+        "url": "https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 231693,
-      "name": "Holanda",
-      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
+      "duration_ms": 234352,
+      "name": "La Bebe - Remix",
+      "url": "https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -855,6 +855,22 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
+        "name": "DESPECH\u00c1",
+        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 157017,
+      "name": "DESPECH\u00c1",
+      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
         "name": "Yandel 150",
         "url": "https://open.spotify.com/album/0T4sp7vn9arhvBUAda3foX"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 216148,
       "name": "Yandel 150",
       "url": "https://open.spotify.com/track/2oiixB9QMIzhWaHGVlQx4g"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
-        "name": "DESPECH\u00c1",
-        "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 157017,
-      "name": "DESPECH\u00c1",
-      "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "El Cartel: The Big Boss",
-        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 209493,
-      "name": "Ella Me Levanto",
-      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
         "name": "YHLQMDLG",
         "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 175918,
       "name": "A Tu Merced",
       "url": "https://open.spotify.com/track/4r9jkMEnArtWGH2rL2FZl0"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "El Cartel: The Big Boss",
+        "url": "https://open.spotify.com/album/6FwmC2DvXlzz23X8nAWMbN"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 209493,
+      "name": "Ella Me Levanto",
+      "url": "https://open.spotify.com/track/7fGODUqa0gtkb72oBVCgCD"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "TUYA",
-        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
-      },
-      "artists": [
-        {
-          "name": "ROSAL\u00cdA",
-          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
-        }
-      ],
-      "duration_ms": 154551,
-      "name": "TUYA",
-      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
         "name": "Supernova",
         "url": "https://open.spotify.com/album/5jVewtOpycGENT1zZW4wpR"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 190909,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/0zY2rypOdM8xmsf4tUyafF"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "TUYA",
+        "url": "https://open.spotify.com/album/5TZtxHs23y0ckhY6RqL8d3"
+      },
+      "artists": [
+        {
+          "name": "ROSAL\u00cdA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        }
+      ],
+      "duration_ms": 154551,
+      "name": "TUYA",
+      "url": "https://open.spotify.com/track/1HII0EIufOG0nGpWCQixbO"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "Esta Vida",
-        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 209135,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
         "name": "EL DRAG\u00d3N",
         "url": "https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH"
       },
@@ -1147,18 +1127,22 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "Nochentera",
-        "url": "https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v"
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
       },
       "artists": [
         {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 202184,
-      "name": "Nochentera",
-      "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1175,6 +1159,22 @@
       "duration_ms": 139041,
       "name": "Agosto",
       "url": "https://open.spotify.com/track/0wihfILRNOwE2156Shezc8"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "Nochentera",
+        "url": "https://open.spotify.com/album/4uCz8u5i2bIYVUOSRdtr6v"
+      },
+      "artists": [
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        }
+      ],
+      "duration_ms": 202184,
+      "name": "Nochentera",
+      "url": "https://open.spotify.com/track/20CozgjF6bshBw8cLhN23B"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1243,6 +1243,22 @@
       "duration_ms": 209453,
       "name": "Otra vez (feat. J Balvin)",
       "url": "https://open.spotify.com/track/3QwBODjSEzelZyVjxPOHdq"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "Un Verano Sin Ti",
+        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Ens\u00e9\u00f1ame a Bailar",
+      "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1327,22 +1343,6 @@
       "duration_ms": 199831,
       "name": "APA",
       "url": "https://open.spotify.com/track/3vKYvbzB7801a5qd47pxkm"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
-        "name": "Un Verano Sin Ti",
-        "url": "https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Ens\u00e9\u00f1ame a Bailar",
-      "url": "https://open.spotify.com/track/2NMjggapJcXXM7WccGEBUO"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1463,26 +1463,6 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "Jerusalema",
-        "url": "https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K"
-      },
-      "artists": [
-        {
-          "name": "Master KG",
-          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
-        },
-        {
-          "name": "Nomcebo Zikode",
-          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
-        }
-      ],
-      "duration_ms": 342612,
-      "name": "Jerusalema (feat. Nomcebo Zikode)",
-      "url": "https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
         "name": "Una Vaina Loca",
         "url": "https://open.spotify.com/album/7biGrCxUFSXo530GF0E9RP"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 198706,
       "name": "Hasta el Amanecer",
       "url": "https://open.spotify.com/track/5Fim1gaXBgsiFfsQAfQSDS"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "Jerusalema",
+        "url": "https://open.spotify.com/album/0bRAth39i98n7qrxubZ00K"
+      },
+      "artists": [
+        {
+          "name": "Master KG",
+          "url": "https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF"
+        },
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        }
+      ],
+      "duration_ms": 342612,
+      "name": "Jerusalema (feat. Nomcebo Zikode)",
+      "url": "https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi"
     },
     {
       "added_at": "2023-08-21 12:18:42",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2023-08-21 12:18:42",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        }
-      ],
-      "duration_ms": 250840,
-      "name": "No Es Justo",
-      "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
-    },
-    {
-      "added_at": "2023-08-21 12:18:42",
-      "album": {
         "name": "Quiero Decirte",
         "url": "https://open.spotify.com/album/3CnYoRJD1BVt5eyoRwaFar"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 222348,
       "name": "Quiero Decirte",
       "url": "https://open.spotify.com/track/7dT6ccDqmMHvz5C0d8iUND"
+    },
+    {
+      "added_at": "2023-08-21 12:18:42",
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/5kprdYds6oZb4iSldfflOT"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        }
+      ],
+      "duration_ms": 250840,
+      "name": "No Es Justo",
+      "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
     },
     {
       "added_at": "2023-08-21 12:18:42",

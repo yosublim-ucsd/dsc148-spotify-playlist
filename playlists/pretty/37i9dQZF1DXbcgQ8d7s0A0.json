@@ -1,12 +1,12 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1244797,
+  "num_followers": 1244659,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmMTViNmY5Y2I0MWJjZWNhYzQ4YWE1N2ExZWM1NjJkZjdmNzE4ZWQz",
+  "snapshot_id": "MCwzZmE2MDZjYjQwM2JkMjJmMDFhYzAxODg1ODk1MzczYmFmZDk1YzA4",
   "tracks": [
     {
       "added_at": "2021-02-18 10:25:36",
@@ -843,22 +843,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Barry White - The Collection",
-        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 289106,
-      "name": "Just The Way You Are",
-      "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/5OkHt7JZ6HSkJH359y2H31"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 233560,
       "name": "Ain't No Love In The Heart Of The City - Single Version",
       "url": "https://open.spotify.com/track/4qYHnP5AmKzXbJhciPV8si"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "Barry White - The Collection",
+        "url": "https://open.spotify.com/album/6l1USwfJOcRGgJ8LpiRr8m"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 289106,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/1Xf1lWBSml62NG1du3Ro14"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -959,22 +959,6 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Right On Time",
-        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
-      },
-      "artists": [
-        {
-          "name": "The Brothers Johnson",
-          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
-        }
-      ],
-      "duration_ms": 299066,
-      "name": "Strawberry Letter 23",
-      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
-    },
-    {
-      "added_at": "2021-02-18 10:25:36",
-      "album": {
         "name": "Rockin' Roll Baby",
         "url": "https://open.spotify.com/album/0b1uWSG9X6poSc9SLTYEfz"
       },
@@ -991,18 +975,18 @@
     {
       "added_at": "2021-02-18 10:25:36",
       "album": {
-        "name": "Let The Music Play (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+        "name": "Right On Time",
+        "url": "https://open.spotify.com/album/5B1f1QwqbRhjWAExB1sofe"
       },
       "artists": [
         {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+          "name": "The Brothers Johnson",
+          "url": "https://open.spotify.com/artist/6h3rSZ8VLK7a5vXjEmhfuD"
         }
       ],
-      "duration_ms": 210386,
-      "name": "Let The Music Play - Single Version",
-      "url": "https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O"
+      "duration_ms": 299066,
+      "name": "Strawberry Letter 23",
+      "url": "https://open.spotify.com/track/00kvKlIvfzQLSi6T2zwXuS"
     },
     {
       "added_at": "2021-02-18 10:25:36",
@@ -1035,6 +1019,22 @@
       "duration_ms": 249733,
       "name": "Could It Be I'm Falling in Love",
       "url": "https://open.spotify.com/track/5i0urffBRKl09GSX2Jhdeh"
+    },
+    {
+      "added_at": "2021-02-18 10:25:36",
+      "album": {
+        "name": "Let The Music Play (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2DQOfMwyvGxAd964nKx1it"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 210386,
+      "name": "Let The Music Play - Single Version",
+      "url": "https://open.spotify.com/track/75pBjCi8cxfkp4xd68uo6O"
     },
     {
       "added_at": "2021-02-18 10:25:36",

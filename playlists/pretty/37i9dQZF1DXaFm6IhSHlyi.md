@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 
 > A collection of the world's best emotional songs\. Cover: <a href="https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D?si=X4txR82FSGuMTgat6fyXQw&dl\_branch=1">Djouher</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,457 likes - 150 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,412 likes - 150 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 91 | [Jet Lag](https://open.spotify.com/track/4nDNTISVKzP3YjW4vvW1B1) | [Gavin Haley](https://open.spotify.com/artist/5pOYIshq4ZLnVBEuw8sF6f) | [Jet Lag](https://open.spotify.com/album/70CaXkLUnM9Ht9BrSxKHIm) | 2:30 |
 | 92 | [Sumpah](https://open.spotify.com/track/7si2OcSkjkmTwuJu18b3NX) | [Aina Abdul](https://open.spotify.com/artist/48FNCGA8dKjcsfTO3TMcAV) | [Sumpah](https://open.spotify.com/album/0xv6KpP2RPfHd7Y1VTMxBL) | 3:50 |
 | 93 | [LOVE IN THE DARK](https://open.spotify.com/track/6WrHKidpEVkYKX3vSQhBgL) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P) | [LOVE IN THE DARK](https://open.spotify.com/album/1cotXPn0CcR0ZCQWcTtZe0) | 4:00 |
-| 94 | [Wassellik Khabar](https://open.spotify.com/track/46Q88zCtao0J39Z2dr1ynN) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Kezbi Wara Kezbi](https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG) | 3:56 |
-| 95 | [未開封の恋](https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Crying memories](https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt) | 3:39 |
+| 94 | [未開封の恋](https://open.spotify.com/track/1Te8ArNC2nOe79Q2IKXBm9) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [Crying memories](https://open.spotify.com/album/38CvU57pEdAkDZ8wDOgJCt) | 3:39 |
+| 95 | [Wassellik Khabar](https://open.spotify.com/track/46Q88zCtao0J39Z2dr1ynN) | [Nassif Zeytoun](https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65) | [Kezbi Wara Kezbi](https://open.spotify.com/album/5IDD7PswwV5qS3u17fIIEG) | 3:56 |
 | 96 | [Majnony Ana](https://open.spotify.com/track/67wgF0zAjq7gdXILvTzloC) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna](https://open.spotify.com/album/2J4Yz9I4s0FvFw00Cn0trp) | 1:02 |
 | 97 | [Fade Away](https://open.spotify.com/track/0TqWyaKViqPTz31qew5OZ2) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [100 Days My Prince \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/4FiQXIs58DgwTH6cnMa3do) | 3:52 |
 | 98 | [Пряталась в ванной](https://open.spotify.com/track/3vvmbAAGAbNhLTM5h6vPvN) | [Mari Kraimbrery](https://open.spotify.com/artist/52OqFsDacV87Zx7BfXuw2i) | [Пряталась в ванной](https://open.spotify.com/album/63cnNV9pKhPOtIgBURZlgX) | 3:10 |
@@ -138,15 +138,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 128 | [Trapped](https://open.spotify.com/track/59hmZNrpXJZEwK8q9oizFm) | [RUNG HYANG](https://open.spotify.com/artist/2g6WKZC8HgvOmNWzP6WflQ) | [DOCUMENTARY](https://open.spotify.com/album/05wCrGb6MIdMUp1j1h5BEt) | 4:09 |
 | 129 | [Day By Day](https://open.spotify.com/track/66aVhQYpkvr6ZkxX5g8edl) | [Bigman](https://open.spotify.com/artist/3wdiLqjRgb0Zcxj6ZgODFU) | [Day By Day](https://open.spotify.com/album/37xHrWe3x5HMq8Eg7b8PWb) | 3:38 |
 | 130 | [사랑의인사](https://open.spotify.com/track/1E1G4Uj8kmiW9jlJ7uByxy) | [적재](https://open.spotify.com/artist/4wP35nFKx9S9YVSbnteuOd) | [투유프로젝트 \- Sugar Man3 Episode.11](https://open.spotify.com/album/7s8lSV6GRhbnQ8Oau9YTQB) | 5:07 |
-| 131 | [I mecht nur wissn wo du bist \- I.U.E.](https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP) | [Popwal](https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx) | [I mecht nur wissn wo du bist \(I.U.E.\)](https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1) | 3:27 |
-| 132 | [Pindirai](https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy) | [Garry Mapanzure](https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm) | [Sushi Season \(The First\)](https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst) | 4:03 |
-| 133 | [I See The Dream \(Badna Salam\) \(feat\. Ali Gatie\) \- Acoustic](https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I See The Dream \(Badna Salam\) \[feat\. Ali Gatie\] \[Acoustic\]](https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5) | 2:43 |
+| 131 | [Pindirai](https://open.spotify.com/track/5v0IwdaweNHMydzOaRhjVy) | [Garry Mapanzure](https://open.spotify.com/artist/3pKyYhlWY8YZkSpN3bQbdm) | [Sushi Season \(The First\)](https://open.spotify.com/album/4x5XyMBTSWY73xYvUrmLst) | 4:03 |
+| 132 | [I See The Dream \(Badna Salam\) \(feat\. Ali Gatie\) \- Acoustic](https://open.spotify.com/track/00Uz6dZGLeIJxWV1FnsqgM) | [Massari](https://open.spotify.com/artist/0Jzbm3ifxDNLxxS8M4BS51), [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [I See The Dream \(Badna Salam\) \[feat\. Ali Gatie\] \[Acoustic\]](https://open.spotify.com/album/0vVz5TFO0EWv7fvdSTK2T5) | 2:43 |
+| 133 | [I mecht nur wissn wo du bist \- I.U.E.](https://open.spotify.com/track/2NFS0NEUZwJD7jmjOl9sGP) | [Popwal](https://open.spotify.com/artist/3MZS307A4x1ZFtD9MAeZhx) | [I mecht nur wissn wo du bist \(I.U.E.\)](https://open.spotify.com/album/0UBZIrwAvTOqVty6DaeNR1) | 3:27 |
 | 134 | [Ana Mesh Magroha](https://open.spotify.com/track/4vJUFvVTdyLTeA9ANFCF1H) | [Shaimaa ElShayeb](https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr) | [Ana Mesh Magroha](https://open.spotify.com/album/3hw0hBILtvaXlRWeygmDbI) | 2:35 |
 | 135 | [I Miss You](https://open.spotify.com/track/7AiZFV9YQFHGNXhajy0eFB) | [Hansol](https://open.spotify.com/artist/3lfv9X5P62DboYv1TBhGek) | [I Miss You](https://open.spotify.com/album/5tnHRJxTgH9mPdCThZFF5P) | 4:11 |
 | 136 | [Forever & Always](https://open.spotify.com/track/4KquFfHpi3VsdMxr5uBfXa) | [Abe](https://open.spotify.com/artist/2Bv3me5y2XnscjPGreroh4) | [Forever & Always](https://open.spotify.com/album/7L3zuixj5Tq29IwlZZ7hgq) | 3:42 |
 | 137 | [How Is This Love ?](https://open.spotify.com/track/2lD4UJXfytonquvY7HQdGO) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Dylan Longworth](https://open.spotify.com/artist/41G8BJILf7hhwCit2mViIH) | [How Is This Love ?](https://open.spotify.com/album/4aTc14CgoXenF4HPuJzA2T) | 3:15 |
-| 138 | [Tum Jaisi Ho](https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Tum Jaisi Ho](https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk) | 2:25 |
-| 139 | [Düştüğüm Gibi Kalkarım \- Akustikhane](https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Akustikhane](https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk) | 5:31 |
+| 138 | [Düştüğüm Gibi Kalkarım \- Akustikhane](https://open.spotify.com/track/1e3PlxTrIEnveO663T7lYP) | [Kahraman Deniz](https://open.spotify.com/artist/3nF0yXDatdq9xV279nEs5X) | [Akustikhane](https://open.spotify.com/album/5wHc78rsbGRHHetgyT7zsk) | 5:31 |
+| 139 | [Tum Jaisi Ho](https://open.spotify.com/track/2ArTK3KizSrijvTlRzGtSs) | [Tony Kakkar](https://open.spotify.com/artist/0NZtn1Kyq08alpHCTRf3dv) | [Tum Jaisi Ho](https://open.spotify.com/album/05vRHIg3ZhYkO8Wlpb5yRk) | 2:25 |
 | 140 | [Sick](https://open.spotify.com/track/0L64qnkA34iMwIrvnogryR) | [Adam Hender](https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB) | [SICK](https://open.spotify.com/album/7lJZL31xBXwCa4VEAscyn3) | 3:59 |
 | 141 | [Farewell](https://open.spotify.com/track/5RbZGRAuSNKEafGkT5CzF7) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Obscured star](https://open.spotify.com/album/4gcScVi7ImZr4RtmyUu8DV) | 4:28 |
 | 142 | [Sikasih](https://open.spotify.com/track/7zaC2Jn1jOpB2tdGLP8nG2) | [Abam](https://open.spotify.com/artist/3P0M8eyVyFJQBOStOpSdBL) | [Sikasih](https://open.spotify.com/album/69fxXPadVVtaMhEcz7DMaq) | 3:06 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaFm6IhSHlyi.md) - [plain]
 | 149 | [You Are](https://open.spotify.com/track/02Mn57DbulnTiXU2B1jmZn) | [Malak](https://open.spotify.com/artist/6YH2dyVtlgxfdQEkIYL6uf) | [You Are](https://open.spotify.com/album/6Rk6fBhF9OygBVeQ0lue2D) | 3:48 |
 | 150 | [Patience](https://open.spotify.com/track/3T2e5G5tL6X4gbtxdnVf0l) | [Djouher](https://open.spotify.com/artist/75opyvDai90a20RL9VSa7D), [Lead Major](https://open.spotify.com/artist/0HePV5MBPoi502FIKslcBO) | [Patience](https://open.spotify.com/album/5SlNvCe8v6F7FhW8DpPF10) | 2:50 |
 
-Snapshot ID: `MCwwYWRhMDYzNjQ5YjNmNmRkMjk5NTc2ZDRiNTY2Y2ZkZTU3YzFjMWQ5`
+Snapshot ID: `MCxjMjU3MzVmNjU2ODhhZTU5OTg0YTkzNjYzOTUyNGNjYTc2ZTY3OGIx`

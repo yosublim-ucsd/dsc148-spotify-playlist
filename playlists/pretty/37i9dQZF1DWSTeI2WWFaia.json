@@ -1,12 +1,12 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Earl Sweatshirt",
-  "num_followers": 1622033,
+  "num_followers": 1620199,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMDJkNjZhY2E2MDM1OWQwZmNiNjdhMzg2NjE3OTMxYWE5MWM1YzAw",
+  "snapshot_id": "MCw5ZmU3ZTI0YWJmZDU4MzI3OTI0ZTAzMWQ0MDZlNjAzYmFhMGRkMDc5",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -547,6 +547,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI"
+      },
+      "artists": [
+        {
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "JID",
+          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
+        }
+      ],
+      "duration_ms": 167500,
+      "name": "Smoke Break-Dance (feat. JID)",
+      "url": "https://open.spotify.com/track/01HF0G0K6CPvVIub1JpO4f"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Sundial",
         "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
@@ -567,26 +587,6 @@
       "duration_ms": 224586,
       "name": "balloons (feat. Jay Electronica & Eryn Allen Kane)",
       "url": "https://open.spotify.com/track/31To8W4ERzjzq1Jx5XWSMb"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI"
-      },
-      "artists": [
-        {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 167500,
-      "name": "Smoke Break-Dance (feat. JID)",
-      "url": "https://open.spotify.com/track/01HF0G0K6CPvVIub1JpO4f"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -723,18 +723,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+        "name": "The Patience",
+        "url": "https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI"
       },
       "artists": [
         {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+          "name": "Mick Jenkins",
+          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
+        },
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
         }
       ],
-      "duration_ms": 137197,
-      "name": "black mirror",
-      "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
+      "duration_ms": 260000,
+      "name": "Show & Tell (feat. Freddie Gibbs)",
+      "url": "https://open.spotify.com/track/20r9RAF5u8jbM70PYrGufL"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -775,22 +779,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Patience",
-        "url": "https://open.spotify.com/album/7GlMEHJyohBhILSQYQIFgI"
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
       },
       "artists": [
         {
-          "name": "Mick Jenkins",
-          "url": "https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Show & Tell (feat. Freddie Gibbs)",
-      "url": "https://open.spotify.com/track/20r9RAF5u8jbM70PYrGufL"
+      "duration_ms": 137197,
+      "name": "black mirror",
+      "url": "https://open.spotify.com/track/0oJO0gr6eOZJmLQcSD4Ekw"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Sundial",
+        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
+      },
+      "artists": [
+        {
+          "name": "Noname",
+          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "beauty supply",
+      "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "The Elephant Man's Bones The ALC Edition",
         "url": "https://open.spotify.com/album/1G0ESeSyFudOH7k6xzfreh"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 194289,
       "name": "Life & Times",
       "url": "https://open.spotify.com/track/72yDZnVtbbtfWLYWvonF9f"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Sundial",
-        "url": "https://open.spotify.com/album/1RThtoZbeE7OQHMBzaBCJt"
-      },
-      "artists": [
-        {
-          "name": "Noname",
-          "url": "https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy"
-        }
-      ],
-      "duration_ms": 193973,
-      "name": "beauty supply",
-      "url": "https://open.spotify.com/track/4oevXziJVFARkGMty2HdFF"
     },
     {
       "added_at": "2023-10-06 04:00:00",

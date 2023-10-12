@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 
 > Timeless and smooth\. Here are your favorite crooners\. Cover: Nat King Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 370,942 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,046 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 9 | [Beyond the Sea](https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 2:52 |
 | 10 | [L\-O\-V\-E](https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:35 |
 | 11 | [Everybody Loves Somebody](https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Everybody Loves Somebody](https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q) | 2:44 |
-| 12 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 |
-| 13 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 |
+| 12 | [You Don't Own Me](https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d) | [Lesley Gore](https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ) | [Lesley Gore Sings Of Mixed\-Up Hearts](https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ) | 2:30 |
+| 13 | [Dream A Little Dream Of Me](https://open.spotify.com/track/3HuJDcOWx0gE9Yng2uWY7K) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [What A Wonderful World](https://open.spotify.com/album/6mmv0gwumlFGWDGJXF4yEv) | 3:16 |
 | 14 | [I Don't Want To Set The World On Fire](https://open.spotify.com/track/777zXDJpBufzttU4AJ2dGO) | [The Ink Spots](https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY) | [The Anthology](https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN) | 3:01 |
 | 15 | [Fly Me To The Moon \(In Other Words\)](https://open.spotify.com/track/5b7OgznPJJr1vHNYGyvxau) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0), [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Sinatra/Basie: The Complete Reprise Studio Recordings](https://open.spotify.com/album/2NCtCObbmJoJnplsR5mLAl) | 2:27 |
 | 16 | [I Put A Spell On You](https://open.spotify.com/track/0sjxRg1VlYfx4YG7uxurrq) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | 2:35 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 39 | [Misty](https://open.spotify.com/track/4uxsv9PjV3Yeyn51RdWvGJ) | [Johnny Mathis](https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf) | [Heavenly](https://open.spotify.com/album/3Yx5An0VumBISWmrOtNyB9) | 3:36 |
 | 40 | [Spanish Eyes](https://open.spotify.com/track/55Z0KHofKqhOMIOygAVXxm) | [Al Martino](https://open.spotify.com/artist/7egNqIGRldMzifHoh8pib6) | [My Cherie](https://open.spotify.com/album/4XdE4rX22hiMBUgRoMxlv0) | 2:46 |
 | 41 | ['Deed I Do](https://open.spotify.com/track/2dLM74n8z8UgW9NQhSbhm1) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Blossom Dearie \(Expanded Edition\)](https://open.spotify.com/album/6Qmn8cqmmJIjuwjXiUF4n6) | 2:13 |
-| 42 | [Let's Fall in Love](https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [That Towering Feeling](https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos) | 1:58 |
-| 43 | [In The Wee Small Hours Of The Morning \- Remastered 1998](https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 3:00 |
+| 42 | [In The Wee Small Hours Of The Morning \- Remastered 1998](https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 3:00 |
+| 43 | [Let's Fall in Love](https://open.spotify.com/track/5fPxNZYdzcvSMXnJ0zsvZE) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [That Towering Feeling](https://open.spotify.com/album/00ldnYHO6BnvuNX5RSRQos) | 1:58 |
 | 44 | [It Had to Be You](https://open.spotify.com/track/76MSB9fAR5jXVcBXdK5xMy) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 2:44 |
 | 45 | [It's A Lovely Day Today](https://open.spotify.com/track/0ApUPYg8ifMJZchhFeFLDs) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [Perry Como with the Fontane Sisters \(with The Fontane Sisters\)](https://open.spotify.com/album/3eaYuwaKlw7yb1tjXMjtOD) | 2:40 |
 | 46 | [I'm Beginning To See The Light \- 2001 Digital Remaster](https://open.spotify.com/track/76F9rF3pQjPm4i8KVwx9Yd) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [Oh! Look At Me Now](https://open.spotify.com/album/0SgrkcvwuEk3v7lA95FNCE) | 2:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1cC4JrF1e4o.md) - [plain]
 | 49 | [If I Had You](https://open.spotify.com/track/79nMHWTfds6KJu5zWQbQ4n) | [Etta Jones](https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0) | [Don't Go To Strangers](https://open.spotify.com/album/7qK1Ds1huhA9XyVZBx9kkx) | 3:50 |
 | 50 | [And I Love You So](https://open.spotify.com/track/1naVD19eofGpFf6wosmHIe) | [Perry Como](https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu) | [It's Impossible](https://open.spotify.com/album/5ja7POltOonfMB2tQSEMWV) | 3:17 |
 
-Snapshot ID: `MCxkMmE5MTIwZGJmYTk3ZjYwNzUyODdlMWE5M2U4ZWRhYjg3MDg4NjUy`
+Snapshot ID: `MCxiYTM5ODAxNmM4Y2E2MDRhNTk1YjY4MWE1YmFhYTQ0NDFjNGJlNmQw`

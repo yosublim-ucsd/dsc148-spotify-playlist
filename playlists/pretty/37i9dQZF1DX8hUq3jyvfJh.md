@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Alcione e mais mulheres icônicas para serem ouvidas no volume máximo! Foto: Alcione
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,301 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,385 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,10 +20,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 10 | [Batucada](https://open.spotify.com/track/6a19PoJb9vLXcpuJdG6fMZ) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [AFRODHIT](https://open.spotify.com/album/31sonubmJGHeNaAUPrcHj5) | 2:48 |
 | 11 | [Codinome Beija\-Flor](https://open.spotify.com/track/1xvxg4ozT4BraLO662IEwA) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Codinome Beija\-Flor](https://open.spotify.com/album/2aoPktEuK22sa3LfIzXVBv) | 2:29 |
 | 12 | [Cuidando de Longe](https://open.spotify.com/track/2DgAknj9a6riqm4h7mZdGD) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [A Pele do Futuro](https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco) | 3:40 |
-| 13 | [Brasa](https://open.spotify.com/track/393CHxNklVTD1zZWLbgZN2) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Meu Esquema](https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR) | 3:28 |
+| 13 | [que mal que tem?](https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [que mal que tem?](https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY) | 2:37 |
 | 14 | [Vou Festejar](https://open.spotify.com/track/54JLlb23AnzXErLRSNVIUn) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [De Pé No Chão](https://open.spotify.com/album/2QxzAhXKjoUuiVO2sqMjP6) | 3:09 |
 | 15 | [Virou Passado \- Ao Vivo](https://open.spotify.com/track/7CNgCcNI0B0TJ1apPwsn3a) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Virou Passado \(Ao Vivo\)](https://open.spotify.com/album/6j7eAEROmHMAUu3AdbLu4O) | 2:22 |
-| 16 | [que mal que tem?](https://open.spotify.com/track/7I0Ysu8M7K8PEYeuhUi0Jl) | [Clara Valverde](https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn) | [que mal que tem?](https://open.spotify.com/album/6pW5TIwS6JWSQyOiZ1e9oY) | 2:37 |
+| 16 | [Brasa](https://open.spotify.com/track/393CHxNklVTD1zZWLbgZN2) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR), [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Meu Esquema](https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR) | 3:28 |
 | 17 | [Ovelha Negra \- Acústico MTV](https://open.spotify.com/track/0gGvGuoOqfYdkjbcl2Mh0N) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Acústico MTV Manu Gavassi Canta Fruto Proibido](https://open.spotify.com/album/0E7BlhGz33kQOLqRbSUTmt) | 4:55 |
 | 18 | [Boto Meu Povo Na Rua](https://open.spotify.com/track/3NeIv5vFoKByUnjMjMQVEc) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Menino do Rio](https://open.spotify.com/album/48katkMd5Hkb14rUEgo0YO) | 3:40 |
 | 19 | [Respeita as Mina](https://open.spotify.com/track/3voRJc2su3jGlxAifjwWmF) | [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz), [Andressa Hayalla](https://open.spotify.com/artist/0RqGSqWkrRo4l1mrqi78ml), [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Cinthia Ribeiro](https://open.spotify.com/artist/3rVZKmpSf4WcJGc1Jzaa7b), [Gabi D'Paula](https://open.spotify.com/artist/10Y44BMrAbtMBBeRIrhCCj), [Talitta](https://open.spotify.com/artist/4XH4hV1skpoKQBte9CT6NW), [Ju Diniz](https://open.spotify.com/artist/1NCCYvPcHYeEDvW3a64Ahr) | [Respeita as Mina](https://open.spotify.com/album/0cLaHpQ5drXQA5uZXQXNij) | 3:58 |
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 36 | [Menino Bonito](https://open.spotify.com/track/4bc6uLpspNXiL7aFCYAIdo) | [Julia Mestre](https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE) | [ARREPIADA](https://open.spotify.com/album/7CEH5SQ6yP5MUlunhS8kH0) | 3:49 |
 | 37 | [Fluorescente](https://open.spotify.com/track/07peghrFo7KCcAgRGqIs6v) | [Assucena](https://open.spotify.com/artist/4JUqukNJyqVXHjdRlFcFu8) | [Lusco\-Fusco](https://open.spotify.com/album/7qnm8QNLlJPLSDVSQtftMW) | 4:05 |
 | 38 | [Fogo](https://open.spotify.com/track/2XKh7iXzONaETF9RogLOeo) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Fogo](https://open.spotify.com/album/5o08PAK8oEAIx05WDKkmsZ) | 3:14 |
-| 39 | [Ai de Mim](https://open.spotify.com/track/1y30J7NwRpNnbxhdllmhKr) | [Anastácia](https://open.spotify.com/artist/2T4nRuk5KkTVgh1v4hW9ju) | [Ai de Mim](https://open.spotify.com/album/2o2mDTQIHMjF56bGERodb4) | 3:02 |
-| 40 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 |
+| 39 | [Pimenta De Cheiro](https://open.spotify.com/track/2cxDLP3uI9ovuHbrNqY3fr) | [Majur](https://open.spotify.com/artist/3EWwR3BxuCaiYKniPGDjE7), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [ARRISCA](https://open.spotify.com/album/7yvlnTu9zTkkrRGCwUICXc) | 3:27 |
+| 40 | [Ai de Mim](https://open.spotify.com/track/1y30J7NwRpNnbxhdllmhKr) | [Anastácia](https://open.spotify.com/artist/2T4nRuk5KkTVgh1v4hW9ju) | [Ai de Mim](https://open.spotify.com/album/2o2mDTQIHMjF56bGERodb4) | 3:02 |
 | 41 | [Estrela](https://open.spotify.com/track/3kgDQofZbNVUOfYC79nrHy) | [Iuna Falcão](https://open.spotify.com/artist/3j3isTW06zLzcrST7xWt9N), [Xênia França](https://open.spotify.com/artist/1v0rEJk9ZuCrCQDvCXbO3D) | [Estrela](https://open.spotify.com/album/56CY72YnPlnTJpF8WJCgAp) | 4:16 |
 | 42 | [Boca de Açaí](https://open.spotify.com/track/3800xr8sjPfuUY4RPmqURB) | [Maria Luiza Jobim](https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM) | [Azul](https://open.spotify.com/album/1TT0fRBUzpGzl3guLwmsVC) | 3:28 |
 | 43 | [BEIJANDO TODOS VOCÊS](https://open.spotify.com/track/7zXQVWgzxWZoTg3wzqP1ee) | [Ava Rocha](https://open.spotify.com/artist/68KlLCPyeiNtzy741tAwhQ) | [NEKTAR](https://open.spotify.com/album/2ruBDW3PQgFhddir0gxIFg) | 3:15 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 49 | [Liberô Geral](https://open.spotify.com/track/656KfnvxwBqdvv4xk6y7ty) | [Sandra De Sá](https://open.spotify.com/artist/5Rxz1EE4Jj08mu40vlrqHv) | [Liberô Geral](https://open.spotify.com/album/0fhuotgqtda2nHGli4kfAX) | 3:30 |
 | 50 | [Deságua](https://open.spotify.com/track/2GMPFXQWfYKjKXRlxBsRlc) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW) | [7 Estrelas \| quem arrancou o céu?](https://open.spotify.com/album/5weOG4lzh2hlbs1oq5YKjy) | 3:34 |
 
-Snapshot ID: `MCw0ODI3MzgxNDg3OTI1YzA1ZGQ3ZmEyM2I0ZGUyMzQyMDEyNzZhY2Iy`
+Snapshot ID: `MCw5ZjhhZWMxNDU5ODBjM2EyMTQyODhmZmUyZjBmZDkyMjhkMTNiNTlj`

@@ -4,7 +4,7 @@
 
 > Discover the Sound of ADE 2023! Bringing every form and shape of electronic music together, ADE offers a glimpse into some of the best of the 2,500+ artists and 1.000+ events coming your way this October.
 
-749 songs - 2 day 8 hr 2 min
+750 songs - 2 day 8 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -374,7 +374,8 @@
 | [Lost In The Rhythm](https://open.spotify.com/track/5o06Ga8GxzI35T7AHCeARL) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [Lost In The Rhythm](https://open.spotify.com/album/67XD05ZxwlpGcUanJTeFJq) | 2:50 | 2023-06-30 | 2023-07-15 |
 | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/track/7J6BpQrP9hCRc7TzN0XqY6) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Ramona Renea](https://open.spotify.com/artist/4rgCSBhGOFMm7d8HJsA4j3) | [Love Is A State Of Mind \(feat\. Ramona Renea\)](https://open.spotify.com/album/5fh3Zpnp4rJMlmkLZCOtta) | 3:13 | 2022-08-05 | 2022-08-31 |
 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 | 2023-07-21 | 2023-07-29 |
-| [Love Those Who Fight](https://open.spotify.com/track/6JzuVyRDL8QwQKAQjL2BLk) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI) | [Love Those Who Fight With Passion And Faith EP](https://open.spotify.com/album/0YwynqGRepBEVhF0zNXhv6) | 7:48 | 2023-10-01 |  |
+| [Love Those Who Fight](https://open.spotify.com/track/48ldhiVb5T8NjyQXXPHGgw) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI) | [Love Those Who Fight With Passion & Faith EP](https://open.spotify.com/album/0Nq6S0j2Yi6otLmWGpTPvg) | 7:48 | 2023-10-01 |  |
+| [Love Those Who Fight](https://open.spotify.com/track/6JzuVyRDL8QwQKAQjL2BLk) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI) | [Love Those Who Fight With Passion And Faith EP](https://open.spotify.com/album/0YwynqGRepBEVhF0zNXhv6) | 7:48 | 2023-10-01 | 2023-10-12 |
 | [Lover](https://open.spotify.com/track/40u9pTla24PIkyRLKKVh6a) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Dice Of Nights](https://open.spotify.com/artist/2m97ZmyaSyUjn5Gln8l6VJ), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Lover](https://open.spotify.com/album/0vqXzbeBBwUV9CICdKzj04) | 3:35 | 2022-07-15 | 2022-08-06 |
 | [Lovin' You](https://open.spotify.com/track/4xn2CRDruKerV0AUmQefCq) | [Keanu Silva](https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y), [LoLo Rachelle](https://open.spotify.com/artist/6n8kKKocJKrqXmDWwHsys4) | [Lovin' You](https://open.spotify.com/album/5S05MWb12MPMs1IRnQ4RQp) | 2:35 | 2022-07-15 | 2022-08-06 |
 | [LOW](https://open.spotify.com/track/4Ko0kuCmsJW0HMKkQM7Xw8) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Tchami](https://open.spotify.com/artist/1KpCi9BOfviCVhmpI4G2sY), [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [LOW](https://open.spotify.com/album/026fudJsLFwB4U0WBYRdXm) | 3:23 | 2022-08-30 | 2022-10-14 |

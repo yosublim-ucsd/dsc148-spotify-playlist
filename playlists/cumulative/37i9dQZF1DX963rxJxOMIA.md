@@ -4,7 +4,7 @@
 
 > Fino y elegante, como Feid 👻 🔦
 
-203 songs - 10 hr 40 min
+204 songs - 10 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,8 @@
 | [Fiesta](https://open.spotify.com/track/3PMbcW1Rap6Uyy2Ysk75qs) | [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Fiesta](https://open.spotify.com/album/6lBcWzcBdPmgl6IUtM4Naz) | 2:56 | 2022-09-06 | 2023-02-10 |
 | [FRESH KERIAS](https://open.spotify.com/track/6TvNO32huOBlWG5o69i1v7) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW) | [FRESH KERIAS](https://open.spotify.com/album/1KBjSVXv78mSvlJlm86MuX) | 4:32 | 2022-10-13 | 2022-12-24 |
 | [Fumando](https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Fumando](https://open.spotify.com/album/26gxlnGOcwQsUheyskEuMV) | 3:23 | 2022-09-06 |  |
-| [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:50 | 2023-09-29 |  |
+| [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:50 | 2023-10-10 |  |
+| [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:50 | 2023-09-29 | 2023-10-12 |
 | [GATITA GANGSTER](https://open.spotify.com/track/7gUtEoYJcPnhF4bJAJ3O8q) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 2:50 | 2023-08-11 |  |
 | [GATÚBELA](https://open.spotify.com/track/1ga4PztXOIw1yBbdUt2X8v) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [GATÚBELA](https://open.spotify.com/album/5FdSjtKiymlHrdbXDyXcxA) | 3:29 | 2022-09-06 | 2022-10-14 |
 | [GHETTO PRINCESS](https://open.spotify.com/track/6GgpoeDugrrXl06NIsE1Bo) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [GHETTO PRINCESS](https://open.spotify.com/album/5I5GpNMS30V1a23j2lKl2a) | 2:41 | 2023-10-06 |  |

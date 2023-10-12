@@ -836,7 +836,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 285349,
       "name": "Desistir N\u00e3o",
       "url": "https://open.spotify.com/track/5hYbhIyzI9G6Pu7Oo52HlM"
@@ -3512,6 +3512,24 @@
       "duration_ms": 466022,
       "name": "Sou um Milagre",
       "url": "https://open.spotify.com/track/4aA3PDel1koEbggFsSOVKz"
+    },
+    {
+      "album": {
+        "name": "Te Encontrei",
+        "url": "https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz"
+      },
+      "artists": [
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184252,
+      "name": "Te Encontrei",
+      "url": "https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2"
     },
     {
       "album": {

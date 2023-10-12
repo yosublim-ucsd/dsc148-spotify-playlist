@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: SNOW WIFE
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,240 likes - 90 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,252 likes - 90 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,13 +56,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 46 | [Headaches](https://open.spotify.com/track/4MNu1bSmyV3S4Y2MJMGrrP) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Headaches](https://open.spotify.com/album/3ue7xLhaMzW4VS2wD5CsO9) | 5:11 |
 | 47 | [Rowdy](https://open.spotify.com/track/3x1KtZsNZBnuNRDe80aAof) | [Sorn](https://open.spotify.com/artist/6DY6xsCBGZHrG4PWSG5paz), [Seungyeon](https://open.spotify.com/artist/6970iLKVz7517uKr4uMk5i) | [Rowdy](https://open.spotify.com/album/0zkQVJldvdGpAG2WZ8K0L3) | 2:36 |
 | 48 | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/track/4gKCKkQbtejYebL9Km5cu1) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Stars In The Sky \(feat\. Jhené Aiko\)](https://open.spotify.com/album/1RdBxItI4IlFJkHuoaT16y) | 4:13 |
-| 49 | [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 |
-| 50 | [Silver Into Rain](https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:21 |
-| 51 | [EXPIRED](https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [EXPIRED](https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy) | 2:26 |
+| 49 | [EXPIRED](https://open.spotify.com/track/0POgiLKNM6O5uRb76I20Yu) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [EXPIRED](https://open.spotify.com/album/3SGwdspckW2a9aS886BMyy) | 2:26 |
+| 50 | [SHOULD I BE OK?](https://open.spotify.com/track/5hjFHVGPvLLpVYObgG6TBB) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [THE GRATITUDE PROJECT](https://open.spotify.com/album/5GmVEGGzn9IgPMOySz1k8K) | 3:37 |
+| 51 | [Silver Into Rain](https://open.spotify.com/track/1fMOg9fZ20OCJCzYiXmom7) | [Luna Li](https://open.spotify.com/artist/4ZAk3yVJdtf1CFnTiG08U3), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Duality](https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM) | 3:21 |
 | 52 | [bon iver](https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [dusk](https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp) | 3:16 |
 | 53 | [LUCID](https://open.spotify.com/track/5DVATjQZPVsm5kWbrPmekU) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [LUCID](https://open.spotify.com/album/77ouoghU4UrNpO63JWLR2C) | 3:38 |
-| 54 | [damn Right](https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [damn Right](https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B) | 2:44 |
-| 55 | [LEGEND](https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb) | 2:37 |
+| 54 | [LEGEND](https://open.spotify.com/track/1E1opYkGrFzzJnHyVHDZvq) | [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL), [Alice Glass](https://open.spotify.com/artist/4ukk0IyB7vL97QirpOcNr3) | [LEGEND](https://open.spotify.com/album/4eLLKhnfVgXbNeiZfKXWfb) | 2:37 |
+| 55 | [damn Right](https://open.spotify.com/track/76Gw6K3kG2zjuNGoFuwxIP) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [damn Right](https://open.spotify.com/album/3SlvWfCmLRNQWZlgzYep3B) | 2:44 |
 | 56 | [Hot One](https://open.spotify.com/track/7fKF8XH5PkhbRcYC6h3AEL) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [Hot One](https://open.spotify.com/album/0eLCiZEois6hUbUao44vi9) | 2:56 |
 | 57 | [I Like What I Like](https://open.spotify.com/track/6hZXsWyRgRLcBzjAQfQTQD) | [Maliibu Miitch](https://open.spotify.com/artist/5J1JcdYCPj44YKz6kVA5wx) | [I Like What I Like](https://open.spotify.com/album/13W5hU5lcNFTBUo72oJsWT) | 2:27 |
 | 58 | [Tweety](https://open.spotify.com/track/2NDMLu8ZNrAsAsPAoW5VOx) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Tweety](https://open.spotify.com/album/275j6uhDFzJkQZEaRcZZ0T) | 3:52 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 61 | [Excuses](https://open.spotify.com/track/6Gl9htJmNmnugLygZo15QF) | [Audrey Mika](https://open.spotify.com/artist/3JDG63cSaK3xgDnB2H55Xp) | [Excuses](https://open.spotify.com/album/7MDCdHrW6J1k5eK6mqXggt) | 2:25 |
 | 62 | [All We Have \(feat\. Lastlings\)](https://open.spotify.com/track/3sstd2afQEb5yQw0ldiKI5) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Lastlings](https://open.spotify.com/artist/0M7GyeyRi2fG8c1LdP4jhi) | [times](https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY) | 6:50 |
 | 63 | [Lover Like Me](https://open.spotify.com/track/33H4jpDv7tK6UxPukAiabA) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Lover Like Me](https://open.spotify.com/album/3MqhLDy7jbZlkQHpArYWbC) | 2:57 |
-| 64 | [We Made It](https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [We Made It](https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa) | 5:14 |
-| 65 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 |
+| 64 | [Pretty Girl Hi Reimagined](https://open.spotify.com/track/6aSdfeuUMtk7XOEHn93kkP) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde) | [Introspection Reimagined](https://open.spotify.com/album/3H1v8w26UVp4tylel4cRrr) | 3:33 |
+| 65 | [We Made It](https://open.spotify.com/track/2gG6IqL2enOyLdluSTcTTS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [We Made It](https://open.spotify.com/album/15kYOLNxhabZKauG8YIUBa) | 5:14 |
 | 66 | [What if I jump from a Bridge?](https://open.spotify.com/track/0TbU5jBqCaSvIzxppHQxNc) | [LIA LIA](https://open.spotify.com/artist/2ZrAyY9nzikL0YAMgN4OUR) | [What if I jump from a Bridge?](https://open.spotify.com/album/2cQ7PDniKlNX8n0DZLPTto) | 2:04 |
 | 67 | [CLOUDS](https://open.spotify.com/track/1paOXtSfaeFcZfzt9msquZ) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1), [Nosaj Thing](https://open.spotify.com/artist/0IVapwlnM3dEOiMsHXsghT) | [CLOUDS](https://open.spotify.com/album/3JohSTcgoihNPfgDTS6fdQ) | 3:16 |
 | 68 | [Rebel Girl](https://open.spotify.com/track/51nLSjsBKMYBJSvUI3q88D) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Moxie \(Music from the Netflix Film\)](https://open.spotify.com/album/1u76mMnTzrzjxPYD37mMJq) | 2:41 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 89 | [Dramamine](https://open.spotify.com/track/4tDM34i7tiUU4ztUdsAE5s) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [Off the Rails](https://open.spotify.com/album/1sgx3kIgK6i6MdxgK39ubi) | 2:55 |
 | 90 | [Blush](https://open.spotify.com/track/1SFtNl1fToY45Siz65CnSa) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [Blush](https://open.spotify.com/album/34V8K95l5c3Idr3TwDpclN) | 3:33 |
 
-Snapshot ID: `MCxkMDRjOWE1YmJlYjgwYjAyYWZjZTU5NmY1ZjI3YTA0ZjgyNzRiNTlj`
+Snapshot ID: `MCw2NTNhYmMzNjU0MjIyZDRlYzgxNTVhZjFkNjM1ZWMyMTBmNzljOGQw`

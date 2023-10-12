@@ -4,7 +4,7 @@
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Drake
 
-2,125 songs - 5 day 3 hr 52 min
+2,126 songs - 5 day 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1001,6 +1001,7 @@
 | [Miraino Uta \- 2023 Master](https://open.spotify.com/track/4hx8WgEJQOIcXflbmK3xRW) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [20](https://open.spotify.com/album/6SA5aeZwQ2hOrEOeTWUGj8) | 5:07 | 2023-09-17 | 2023-10-02 |
 | [Mirror Mirror](https://open.spotify.com/track/38gysCdAsWQcOWWEC07Run) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [THE OTHER ONE](https://open.spotify.com/album/0gboAM5pPE6N4WBgCmq70t) | 3:50 | 2023-03-26 | 2023-04-03 |
 | [MISSION](https://open.spotify.com/track/39sUynK7D9YwSbYyr9N0kB) | [MAZZEL](https://open.spotify.com/artist/5Zy2tdfVQKbDwpqWcjXg42) | [MISSION](https://open.spotify.com/album/7IT5XVbNeHzPE83BnKFdCT) | 3:33 | 2023-04-02 | 2023-04-10 |
+| [Mix](https://open.spotify.com/track/0ObVtzwc7YEuMjDQSTQyCW) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Mix](https://open.spotify.com/album/00p5rwTYsV62tV3RXRYZAO) | 3:29 | 2023-10-09 |  |
 | [MJ Freestyle](https://open.spotify.com/track/4xjoMqP5SjlR84OfcvyKxT) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [MJ Freestyle](https://open.spotify.com/album/7f9YnlCTzm35uCtwNz4e5K) | 2:58 | 2023-06-25 | 2023-07-12 |
 | [MJ Freestyle](https://open.spotify.com/track/5TG4Q9lgsRI4NxJNrhcuCO) | [Watson](https://open.spotify.com/artist/0pq3BIPRIccDxXRCzlCePX) | [MJ Freestyle](https://open.spotify.com/album/72sf6C1rxzXAxeQsv0Agdm) | 2:58 | 2023-07-11 | 2023-07-24 |
 | [Mmm...](https://open.spotify.com/track/09Voox0X4hXohr1Bz2xLw0) | [I Don't Like Mondays.](https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF) | [Mmm...](https://open.spotify.com/album/7apwofk38WwjnPO5HViJNN) | 2:52 | 2023-04-09 | 2023-05-01 |
@@ -1919,7 +1920,7 @@
 | [マジックアワー](https://open.spotify.com/track/5KFwt828Q8lPpUSs69TWZV) | [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [マジックアワー](https://open.spotify.com/album/1VV09JUhf3tWApPKwszd56) | 3:25 | 2023-09-24 |  |
 | [マヨイガ \- PHIL REWORK](https://open.spotify.com/track/16j0i4b87epv1BYA7AU3P7) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n), [蓮沼執太フィル](https://open.spotify.com/artist/3l4KxDy6jXb9KjUhShbRR5), [Shuta Hasunuma](https://open.spotify.com/artist/71f0SNekyWqlqbyi8cyp05) | [マヨイガ \(PHIL REWORK\)](https://open.spotify.com/album/5vxYwjHklE4OKDpd7D0PwR) | 4:07 | 2023-02-26 | 2023-03-06 |
 | [マーメイド](https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [マーメイド](https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq) | 3:55 | 2023-08-20 | 2023-09-11 |
-| [ミックス](https://open.spotify.com/track/5sAf1YOrqP7t4uMng90FWR) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ミックス](https://open.spotify.com/album/2IrEhqLiVmJZRgSY4W0djK) | 3:29 | 2023-08-20 |  |
+| [ミックス](https://open.spotify.com/track/5sAf1YOrqP7t4uMng90FWR) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ミックス](https://open.spotify.com/album/2IrEhqLiVmJZRgSY4W0djK) | 3:29 | 2023-08-20 | 2023-10-12 |
 | [ミラクルレボリューション No.9](https://open.spotify.com/track/48OqORWzCuZgL7QYYYaWWS) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [ミラクルレボリューション No.9](https://open.spotify.com/album/16FTen9QPrvyXBnFPFfAYY) | 4:39 | 2023-02-12 | 2023-02-20 |
 | [メガフォン](https://open.spotify.com/track/3b97D6YMKoXseRjntwH5q0) | [BBHF](https://open.spotify.com/artist/5gEQL7osnggthis6rBwYoY) | [メガフォン](https://open.spotify.com/album/6LBUQPn9rnTdJFmH0vLUa1) | 2:38 | 2023-03-12 | 2023-03-20 |
 | [メリーゴーランド](https://open.spotify.com/track/5e17FZpKCvOEn5296aNvLg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [メリーゴーランド](https://open.spotify.com/album/09yWVpo1Ff7MOqdRXxGFO2) | 3:21 | 2023-08-06 | 2023-08-14 |

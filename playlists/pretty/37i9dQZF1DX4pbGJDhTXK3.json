@@ -1,12 +1,12 @@
 {
   "description": "A celebration of Norway's dance scene!",
-  "num_followers": 131243,
+  "num_followers": 131236,
   "original_name": "Space Disco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlOTQ1MDI4NDM1Y2NkMWUxMTAyMmExODJhZjA3YzEyMTVmMmU4MzI5",
+  "snapshot_id": "MCwyNWIzZDliYjJjNzZhODlkYTgxMzE4NTY0MTZlMDBlNzk2OGFkZGFk",
   "tracks": [
     {
       "added_at": "2023-08-02 08:46:27",
@@ -191,18 +191,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Ambitions",
-        "url": "https://open.spotify.com/album/3XNnlYzgbQSc4IP6OSfGZY"
+        "name": "Songs From the End of the World",
+        "url": "https://open.spotify.com/album/6VkHZKzQFZgnGy70mxeojF"
       },
       "artists": [
         {
-          "name": "Prins Thomas",
-          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
+          "name": "Ost & Kjex",
+          "url": "https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61"
         }
       ],
-      "duration_ms": 265192,
-      "name": "Feel The Love",
-      "url": "https://open.spotify.com/track/39b8jAuutK8EZl0PwAawGC"
+      "duration_ms": 377794,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/6p29k5SH6WAqHOjf5l4fW6"
     },
     {
       "added_at": "2023-08-02 08:46:27",
@@ -259,18 +259,18 @@
     {
       "added_at": "2023-08-02 08:46:27",
       "album": {
-        "name": "Songs From the End of the World",
-        "url": "https://open.spotify.com/album/6VkHZKzQFZgnGy70mxeojF"
+        "name": "Ambitions",
+        "url": "https://open.spotify.com/album/3XNnlYzgbQSc4IP6OSfGZY"
       },
       "artists": [
         {
-          "name": "Ost & Kjex",
-          "url": "https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61"
+          "name": "Prins Thomas",
+          "url": "https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6"
         }
       ],
-      "duration_ms": 377794,
-      "name": "Nocturne",
-      "url": "https://open.spotify.com/track/6p29k5SH6WAqHOjf5l4fW6"
+      "duration_ms": 265192,
+      "name": "Feel The Love",
+      "url": "https://open.spotify.com/track/39b8jAuutK8EZl0PwAawGC"
     },
     {
       "added_at": "2023-08-02 08:46:27",

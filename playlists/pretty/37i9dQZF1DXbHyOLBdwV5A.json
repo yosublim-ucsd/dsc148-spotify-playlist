@@ -1,12 +1,12 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 115156,
+  "num_followers": 115122,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZGE1YzlhOTg2YTViMTBiNWJkYWY3NWY0ZjBkZDc4OWEzY2NlYWMy",
+  "snapshot_id": "MCxjMTQ1NDQ3YmNkNjdiZTA3Y2Y2M2Y3OGI3NDc2YWRhNTc0MTIyNTY2",
   "tracks": [
     {
       "added_at": "2023-10-06 04:07:53",
@@ -119,6 +119,26 @@
     {
       "added_at": "2023-10-06 04:07:53",
       "album": {
+        "name": "Ningu\u00e9m Explica Deus (Preto no Branco) [Kennto Remix]",
+        "url": "https://open.spotify.com/album/22f2HLX7V2zwZVNsD1iHEW"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Kennto",
+          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Ningu\u00e9m Explica Deus (Preto no Branco) [Kennto Remix]",
+      "url": "https://open.spotify.com/track/3w5x1B7KOXuZ1zUZANmyn4"
+    },
+    {
+      "added_at": "2023-10-06 04:07:53",
+      "album": {
         "name": "S\u00f3 Quero Queimar (Remix)",
         "url": "https://open.spotify.com/album/4sz7OFQhn3xOZOYjbe8AXE"
       },
@@ -143,26 +163,6 @@
       "duration_ms": 217500,
       "name": "S\u00f3 Quero Queimar - Remix",
       "url": "https://open.spotify.com/track/720ymxcvuttoINPvJ3EXSC"
-    },
-    {
-      "added_at": "2023-10-06 04:07:53",
-      "album": {
-        "name": "Ningu\u00e9m Explica Deus (Preto no Branco) [Kennto Remix]",
-        "url": "https://open.spotify.com/album/22f2HLX7V2zwZVNsD1iHEW"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "Kennto",
-          "url": "https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3"
-        }
-      ],
-      "duration_ms": 173280,
-      "name": "Ningu\u00e9m Explica Deus (Preto no Branco) [Kennto Remix]",
-      "url": "https://open.spotify.com/track/3w5x1B7KOXuZ1zUZANmyn4"
     },
     {
       "added_at": "2023-10-06 04:07:53",
@@ -239,30 +239,6 @@
     {
       "added_at": "2023-10-06 04:07:53",
       "album": {
-        "name": "A Casa Sou Eu",
-        "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
-      },
-      "artists": [
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Gabriell J\u00fanior",
-          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
-        },
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "A Casa Sou Eu - Remix",
-      "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
-    },
-    {
-      "added_at": "2023-10-06 04:07:53",
-      "album": {
         "name": "Voc\u00ea Me Mudou",
         "url": "https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1"
       },
@@ -299,6 +275,26 @@
     {
       "added_at": "2023-10-06 04:07:53",
       "album": {
+        "name": "Controle (Remix)",
+        "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Brunno Ramos",
+          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+        }
+      ],
+      "duration_ms": 159640,
+      "name": "Controle (Remix)",
+      "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
+    },
+    {
+      "added_at": "2023-10-06 04:07:53",
+      "album": {
         "name": "S\u00f3 o Come\u00e7o (Remix)",
         "url": "https://open.spotify.com/album/5dApJHhpM7BMh7fBBXjnBt"
       },
@@ -319,22 +315,26 @@
     {
       "added_at": "2023-10-06 04:07:53",
       "album": {
-        "name": "Controle (Remix)",
-        "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
+        "name": "A Casa Sou Eu",
+        "url": "https://open.spotify.com/album/74YuCp17efP3Pbm0BNM7xZ"
       },
       "artists": [
         {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
         },
         {
-          "name": "Brunno Ramos",
-          "url": "https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb"
+          "name": "Gabriell J\u00fanior",
+          "url": "https://open.spotify.com/artist/7MLz6FXaGXB3yfjb0baqDH"
+        },
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
         }
       ],
-      "duration_ms": 159640,
-      "name": "Controle (Remix)",
-      "url": "https://open.spotify.com/track/0UNEQA9OCMcZ8QwUJsbOgS"
+      "duration_ms": 225000,
+      "name": "A Casa Sou Eu - Remix",
+      "url": "https://open.spotify.com/track/630ABfNYLELJZgTSg0cuUU"
     },
     {
       "added_at": "2023-10-06 04:07:53",
@@ -695,6 +695,30 @@
     {
       "added_at": "2023-10-06 04:07:53",
       "album": {
+        "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
+        "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
+      },
+      "artists": [
+        {
+          "name": "Dj Mello",
+          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
+        },
+        {
+          "name": "Felson",
+          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
+        },
+        {
+          "name": "Izaac Santos",
+          "url": "https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip"
+        }
+      ],
+      "duration_ms": 161169,
+      "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
+      "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
+    },
+    {
+      "added_at": "2023-10-06 04:07:53",
+      "album": {
         "name": "Like Water",
         "url": "https://open.spotify.com/album/1DMZYsA8AHrJuBJRIQF4ih"
       },
@@ -715,22 +739,6 @@
       "duration_ms": 161219,
       "name": "Like Water",
       "url": "https://open.spotify.com/track/6LUfGFrjUQSu0hrEKZvQRf"
-    },
-    {
-      "added_at": "2023-10-06 04:07:53",
-      "album": {
-        "name": "Ok!",
-        "url": "https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz"
-      },
-      "artists": [
-        {
-          "name": "Hadassah Perez",
-          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
-        }
-      ],
-      "duration_ms": 150062,
-      "name": "Azul",
-      "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
     },
     {
       "added_at": "2023-10-06 04:07:53",
@@ -783,26 +791,18 @@
     {
       "added_at": "2023-10-06 04:07:53",
       "album": {
-        "name": "Uma Vida \u00c9 Pouco pra Te Amar (Remix)",
-        "url": "https://open.spotify.com/album/25tMLrsvNjbljb3BwGShD0"
+        "name": "Ok!",
+        "url": "https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz"
       },
       "artists": [
         {
-          "name": "Dj Mello",
-          "url": "https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2"
-        },
-        {
-          "name": "Felson",
-          "url": "https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2"
-        },
-        {
-          "name": "Izaac Santos",
-          "url": "https://open.spotify.com/artist/4c4uHPrgt65LhZts6QoNip"
+          "name": "Hadassah Perez",
+          "url": "https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb"
         }
       ],
-      "duration_ms": 161169,
-      "name": "Uma Vida \u00c9 Pouco pra Te Amar - Remix",
-      "url": "https://open.spotify.com/track/0QkcBA3DzmzsHAspxqcvZ2"
+      "duration_ms": 150062,
+      "name": "Azul",
+      "url": "https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp"
     },
     {
       "added_at": "2023-10-06 04:07:53",
@@ -871,54 +871,6 @@
     {
       "added_at": "2023-10-06 04:07:53",
       "album": {
-        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
-        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
-      },
-      "artists": [
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Diego Albuquerque",
-          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 215625,
-      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
-      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
-    },
-    {
-      "added_at": "2023-10-06 04:07:53",
-      "album": {
-        "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
-        "url": "https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN"
-      },
-      "artists": [
-        {
-          "name": "Dois Irm\u00e3os",
-          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 158789,
-      "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
-      "url": "https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb"
-    },
-    {
-      "added_at": "2023-10-06 04:07:53",
-      "album": {
         "name": "Encontrei o Meu Lugar (Remix)",
         "url": "https://open.spotify.com/album/4hgCaDOMhntpliryE9N84R"
       },
@@ -967,6 +919,54 @@
       "duration_ms": 200476,
       "name": "Dias de Ver\u00e3o",
       "url": "https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN"
+    },
+    {
+      "added_at": "2023-10-06 04:07:53",
+      "album": {
+        "name": "Alvo Mais Que a Neve",
+        "url": "https://open.spotify.com/album/6wQNtx1uUcjWfXl1oIZCAp"
+      },
+      "artists": [
+        {
+          "name": "Dois Irm\u00e3os",
+          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 217968,
+      "name": "Alvo Mais Que a Neve",
+      "url": "https://open.spotify.com/track/3vQkRTXwLjgpHE83LN8Eaf"
+    },
+    {
+      "added_at": "2023-10-06 04:07:53",
+      "album": {
+        "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
+        "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
+      },
+      "artists": [
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Diego Albuquerque",
+          "url": "https://open.spotify.com/artist/6izE6zvZ9ZiuVYjM2UaPyE"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 215625,
+      "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
+      "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
     },
     {
       "added_at": "2023-10-06 04:07:53",
@@ -1031,50 +1031,18 @@
     {
       "added_at": "2023-10-06 04:07:53",
       "album": {
-        "name": "N\u00e3o Sou Merecedor",
-        "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
       },
       "artists": [
         {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "JoyFull",
-          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
         }
       ],
-      "duration_ms": 147840,
-      "name": "N\u00e3o Sou Merecedor",
-      "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
-    },
-    {
-      "added_at": "2023-10-06 04:07:53",
-      "album": {
-        "name": "Alvo Mais Que a Neve",
-        "url": "https://open.spotify.com/album/6wQNtx1uUcjWfXl1oIZCAp"
-      },
-      "artists": [
-        {
-          "name": "Dois Irm\u00e3os",
-          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
-        },
-        {
-          "name": "Lufra",
-          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
-        },
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        }
-      ],
-      "duration_ms": 217968,
-      "name": "Alvo Mais Que a Neve",
-      "url": "https://open.spotify.com/track/3vQkRTXwLjgpHE83LN8Eaf"
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2023-10-06 04:07:53",
@@ -1099,18 +1067,26 @@
     {
       "added_at": "2023-10-06 04:07:53",
       "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
+        "name": "N\u00e3o Sou Merecedor",
+        "url": "https://open.spotify.com/album/0sG4KwG7HjTesGVUru3e89"
       },
       "artists": [
         {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "JoyFull",
+          "url": "https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
         }
       ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
+      "duration_ms": 147840,
+      "name": "N\u00e3o Sou Merecedor",
+      "url": "https://open.spotify.com/track/5GLTe6ncigoJa27GvOzV4F"
     },
     {
       "added_at": "2023-10-06 04:07:53",
@@ -1147,6 +1123,30 @@
       "duration_ms": 151330,
       "name": "Sobre Todo Nome",
       "url": "https://open.spotify.com/track/392NrPdV17IuOG8YDvgPKj"
+    },
+    {
+      "added_at": "2023-10-06 04:07:53",
+      "album": {
+        "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
+        "url": "https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN"
+      },
+      "artists": [
+        {
+          "name": "Dois Irm\u00e3os",
+          "url": "https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll"
+        },
+        {
+          "name": "Lufra",
+          "url": "https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH"
+        },
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        }
+      ],
+      "duration_ms": 158789,
+      "name": "Vem Com Josu\u00e9 Lutar em Jeric\u00f3",
+      "url": "https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb"
     },
     {
       "added_at": "2023-10-06 04:07:53",
@@ -1215,6 +1215,42 @@
     {
       "added_at": "2023-10-06 04:07:53",
       "album": {
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
+      },
+      "artists": [
+        {
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
+        }
+      ],
+      "duration_ms": 164750,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
+    },
+    {
+      "added_at": "2023-10-06 04:07:53",
+      "album": {
+        "name": "Dono da Minha Vida (Remix)",
+        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
+      },
+      "artists": [
+        {
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
+        },
+        {
+          "name": "Filipe Souza",
+          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
+        }
+      ],
+      "duration_ms": 205714,
+      "name": "Dono da Minha Vida - Remix",
+      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
+    },
+    {
+      "added_at": "2023-10-06 04:07:53",
+      "album": {
         "name": "Caminho Seguro",
         "url": "https://open.spotify.com/album/3AFUdyo8FTDOR4UmqhXDox"
       },
@@ -1275,42 +1311,6 @@
     {
       "added_at": "2023-10-06 04:07:53",
       "album": {
-        "name": "Dono da Minha Vida (Remix)",
-        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Filipe Souza",
-          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Dono da Minha Vida - Remix",
-      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
-    },
-    {
-      "added_at": "2023-10-06 04:07:53",
-      "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
-    },
-    {
-      "added_at": "2023-10-06 04:07:53",
-      "album": {
         "name": "Gra\u00e7a",
         "url": "https://open.spotify.com/album/55jG2m5ui9g5Szx8idFaTr"
       },
@@ -1335,26 +1335,6 @@
       "duration_ms": 156093,
       "name": "Gra\u00e7a",
       "url": "https://open.spotify.com/track/0ethtHl4ngZ6NGgaZm4J8e"
-    },
-    {
-      "added_at": "2023-10-06 04:07:53",
-      "album": {
-        "name": "Renascido das Cinzas",
-        "url": "https://open.spotify.com/album/0v6aMoDSt4IvoFYHoBqmH8"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Viviane Franco",
-          "url": "https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "Das Trevas para Luz - VIP Version",
-      "url": "https://open.spotify.com/track/1n2UbPR7xxkUrALmYchBp2"
     },
     {
       "added_at": "2023-10-06 04:07:53",
@@ -1407,26 +1387,6 @@
     {
       "added_at": "2023-10-06 04:07:53",
       "album": {
-        "name": "Para o Alto (Remix)",
-        "url": "https://open.spotify.com/album/3KPQGc4SBlvFEunu9rilc4"
-      },
-      "artists": [
-        {
-          "name": "Jessi Dias",
-          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
-        },
-        {
-          "name": "DJ Mois\u00e9s",
-          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
-        }
-      ],
-      "duration_ms": 207187,
-      "name": "Para o Alto - Remix",
-      "url": "https://open.spotify.com/track/6DfUjTDRAdS1DjO28CcP8q"
-    },
-    {
-      "added_at": "2023-10-06 04:07:53",
-      "album": {
         "name": "Sorrindo \u00e0 Toa (Remix)",
         "url": "https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg"
       },
@@ -1467,6 +1427,26 @@
     {
       "added_at": "2023-10-06 04:07:53",
       "album": {
+        "name": "Para o Alto (Remix)",
+        "url": "https://open.spotify.com/album/3KPQGc4SBlvFEunu9rilc4"
+      },
+      "artists": [
+        {
+          "name": "Jessi Dias",
+          "url": "https://open.spotify.com/artist/6L8137JRkMls0kVJr7jP83"
+        },
+        {
+          "name": "DJ Mois\u00e9s",
+          "url": "https://open.spotify.com/artist/34GTvNHuHtAOPbp2P6oy3X"
+        }
+      ],
+      "duration_ms": 207187,
+      "name": "Para o Alto - Remix",
+      "url": "https://open.spotify.com/track/6DfUjTDRAdS1DjO28CcP8q"
+    },
+    {
+      "added_at": "2023-10-06 04:07:53",
+      "album": {
         "name": "Gps",
         "url": "https://open.spotify.com/album/6TPHrBcn7BSL1j7L2Rb3kj"
       },
@@ -1483,6 +1463,26 @@
       "duration_ms": 144400,
       "name": "Gps",
       "url": "https://open.spotify.com/track/30pb2g8rTdLLiOsg8XN2Gx"
+    },
+    {
+      "added_at": "2023-10-06 04:07:53",
+      "album": {
+        "name": "Renascido das Cinzas",
+        "url": "https://open.spotify.com/album/0v6aMoDSt4IvoFYHoBqmH8"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Viviane Franco",
+          "url": "https://open.spotify.com/artist/43SIQjWNF1qUsoCnJsT0n0"
+        }
+      ],
+      "duration_ms": 204375,
+      "name": "Das Trevas para Luz - VIP Version",
+      "url": "https://open.spotify.com/track/1n2UbPR7xxkUrALmYchBp2"
     },
     {
       "added_at": "2023-10-06 04:07:53",

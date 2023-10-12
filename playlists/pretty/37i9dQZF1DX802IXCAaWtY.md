@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,074,946 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,075,688 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 36 | [Another Night](https://open.spotify.com/track/3pEuO9J2MTEmec8kUfYYvl) | [Real McCoy](https://open.spotify.com/artist/2vRfKzjQYJQd67X8x49MOh) | [Another Night](https://open.spotify.com/album/0m4EUHpp4mVnV8AWHT7T7x) | 3:56 |
 | 37 | [Think About the Way](https://open.spotify.com/track/2foOeJLKSvepjHEkb4NR8N) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:20 |
 | 38 | [More And More \- Single Version](https://open.spotify.com/track/0JXXm3RqxU8EKzX4P8M0n3) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Love Is Not Sex](https://open.spotify.com/album/01ChjoiBlN7bBmsvrzuzlo) | 4:13 |
-| 39 | [Rhythm Is A Dancer \- 12'' Version](https://open.spotify.com/track/6NLAzDPHSlV2bl7XbmivOq) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [Rhythm Is a Dancer 2008](https://open.spotify.com/album/0fCSmPLktcURKcwkO06qeN) | 5:16 |
-| 40 | [Encore Une Fois \- Future Breeze Edit](https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:41 |
+| 39 | [Encore Une Fois \- Future Breeze Edit](https://open.spotify.com/track/3UPBOL5UtCZmJRwioMkfLD) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [It's My Life](https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS) | 3:41 |
+| 40 | [Rhythm Is A Dancer \- 12'' Version](https://open.spotify.com/track/6NLAzDPHSlV2bl7XbmivOq) | [SNAP!](https://open.spotify.com/artist/2FrKQPjJe4pVMZOgm0ESOx) | [Rhythm Is a Dancer 2008](https://open.spotify.com/album/0fCSmPLktcURKcwkO06qeN) | 5:16 |
 | 41 | [L'amour Toujours \(Small Mix\)](https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujour](https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP) | 4:02 |
 | 42 | [The Summer Is Magic \(Radio Mix\)](https://open.spotify.com/track/6bXFXDYcwHiuvW1IDayCPA) | [Playahitty](https://open.spotify.com/artist/6zZWFyAqVLEWelkVuQRUCz) | [The Summer Is Magic \(Radio Mix\)](https://open.spotify.com/album/5VE3kQMUhC8dqhBziRsQ28) | 3:56 |
 | 43 | [Let the Dream Come True](https://open.spotify.com/track/1ZMrT3IGGyTCvZg4Ijuxzs) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [There Is a Party](https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii) | 4:01 |
@@ -70,13 +70,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 60 | [Gypsy Woman \(She's Homeless\) \(La Da Dee La Da Da\) \- Radio Edit](https://open.spotify.com/track/4QAKfScH8kLJTbJqhb2jp2) | [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Surprise](https://open.spotify.com/album/7MtJHdiKmt3Gbus6oyXhy1) | 3:49 |
 | 61 | [Feel the heat of the night \- Radio Edit](https://open.spotify.com/track/44o1MQVbm8S827avRs4RHc) | [Masterboy](https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E) | [Feel the heat of the night](https://open.spotify.com/album/73rwjoMZxrGQdbe5rPK7EY) | 3:41 |
 | 62 | [Let The Beat Go On \- Short Version](https://open.spotify.com/track/0yaWNizxPgPE9E0bD31mcS) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [Look Who's Talking](https://open.spotify.com/album/3CEkYyMCddHajkcVsutXag) | 4:03 |
-| 63 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
-| 64 | [Stay \- Original Single Edit](https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [La Trec](https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv) | [Stay](https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU) | 3:32 |
-| 65 | [United \- Short Mix](https://open.spotify.com/track/79yxhRPydB5Zs0fWh3QICm) | [Mark 'Oh](https://open.spotify.com/artist/3eLW10XmpXVzwszGQ9gDXX) | [United](https://open.spotify.com/album/61NPV53hdl13ljABTLGIfF) | 3:41 |
-| 66 | [Right in the Night \(Fall in Love with Music\)](https://open.spotify.com/track/6x6G0shZs4Qg4YLfLbhR7z) | [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7), [Plavka](https://open.spotify.com/artist/6ALuTGOzgoIUnuiyvqvMW2) | [Tripomatic Fairytales 2001 \(Deluxe Edition\)](https://open.spotify.com/album/24srMCTo4eOojmFVk9iLdt) | 6:04 |
+| 63 | [Stay \- Original Single Edit](https://open.spotify.com/track/26oBh1fvCfQ5ZaBAgwnLAw) | [Sash!](https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz), [La Trec](https://open.spotify.com/artist/744Aa9RuKugKrpF6nt1kbv) | [Stay](https://open.spotify.com/album/1olrz5rnUp5iYb1KEztPVU) | 3:32 |
+| 64 | [The Key, The Secret](https://open.spotify.com/track/0Lg4ckCFjFUeyHOeSozcWS) | [Urban Cookie Collective](https://open.spotify.com/artist/1QYMj6ouUhi6yis1HE8M68) | [The Very Best Of](https://open.spotify.com/album/6IjQa4ZCnkSa9cnUvA3yJG) | 3:42 |
+| 65 | [Right in the Night \(Fall in Love with Music\)](https://open.spotify.com/track/6x6G0shZs4Qg4YLfLbhR7z) | [Jam & Spoon](https://open.spotify.com/artist/2MIKLLJyOv1o5u49KRbfH7), [Plavka](https://open.spotify.com/artist/6ALuTGOzgoIUnuiyvqvMW2) | [Tripomatic Fairytales 2001 \(Deluxe Edition\)](https://open.spotify.com/album/24srMCTo4eOojmFVk9iLdt) | 6:04 |
+| 66 | [United \- Short Mix](https://open.spotify.com/track/79yxhRPydB5Zs0fWh3QICm) | [Mark 'Oh](https://open.spotify.com/artist/3eLW10XmpXVzwszGQ9gDXX) | [United](https://open.spotify.com/album/61NPV53hdl13ljABTLGIfF) | 3:41 |
 | 67 | [Somebody Dance with Me](https://open.spotify.com/track/7M2wk27EePpYr9TH3uZY1r) | [DJ BoBo](https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd) | [Celebration](https://open.spotify.com/album/4R3t81cmGUQrTRFXTw7iI1) | 3:29 |
 | 68 | [Flying High \- Radio Mix](https://open.spotify.com/track/7xR6hQnqYOjpBu343MRMqa) | [Captain Hollywood Project](https://open.spotify.com/artist/3El2sJgqTWkg1kkyHHAEu4) | [Flying High](https://open.spotify.com/album/0e23ii86vcNFqLU6NsKc7a) | 3:46 |
 | 69 | [Can‘t Stop Raving \(Video Mix\)](https://open.spotify.com/track/4Q7fEjeCZgU8oxjbLWrm7L) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r) | [Can‘t Stop Raving](https://open.spotify.com/album/1hMjJNZT1jhuWNotbgTRsB) | 3:36 |
 | 70 | [Bailando \- Video Edit](https://open.spotify.com/track/7cG3wfohoNDSp2M8FWrgTg) | [Paradisio](https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb) | [Bailando](https://open.spotify.com/album/3iJwt0Sq44ZBzR7kNCxf0y) | 3:49 |
 
-Snapshot ID: `MCxiYjliMThiY2NiNjQ4Y2NkNDM1NWQ1N2QzOTcwZTkxY2UwYTNkN2Y2`
+Snapshot ID: `MCwxNTUwOTI4NDdlODI2YWI2MzVmOTM5ZDY2NTkwMjJmMjQwMzIxMmRm`

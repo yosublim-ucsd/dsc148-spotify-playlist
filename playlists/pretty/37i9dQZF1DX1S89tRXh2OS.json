@@ -1,12 +1,12 @@
 {
   "description": "La playlist id\u00e9ale pour prendre la route.",
-  "num_followers": 411360,
+  "num_followers": 411223,
   "original_name": "Sur la route",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZmE2ZDcyMDVlZTc4ZjMxYmNjNWI4OTRlMDkxZmNiZTljZTY0MDk3",
+  "snapshot_id": "MCxiY2Q5ZjhlM2M2OGRiYzliMTQ3MTBhYTA3MWY1ZWJiMmM4NWU1NGM0",
   "tracks": [
     {
       "added_at": "2023-09-18 08:02:14",
@@ -299,22 +299,6 @@
     {
       "added_at": "2023-09-18 08:02:14",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
-    },
-    {
-      "added_at": "2023-09-18 08:02:14",
-      "album": {
         "name": "Starboy",
         "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 269186,
       "name": "I Feel It Coming",
       "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
+    },
+    {
+      "added_at": "2023-09-18 08:02:14",
+      "album": {
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2023-09-18 08:02:14",

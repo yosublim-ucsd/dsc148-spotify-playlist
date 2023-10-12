@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon.
 
-1,106 songs - 2 day 13 hr 32 min
+1,111 songs - 2 day 13 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Been Thinking](https://open.spotify.com/track/2TDovGBTIpZ6zXKeyhsFzz) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Been Thinking](https://open.spotify.com/album/3GkG4c6zjKYvyiJA52q0Dn) | 3:07 | 2023-05-04 | 2023-10-06 |
 | [Belai](https://open.spotify.com/track/5I2JFiU2QrajBkY3Z8l9RF) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t), [Amsyar Leee](https://open.spotify.com/artist/6ofZ3MNiuNNGPKEbOaWEY8) | [Belai](https://open.spotify.com/album/08vWdvWvob9YPnrr3Z3qAg) | 3:43 | 2022-02-10 | 2022-03-03 |
 | [Bells](https://open.spotify.com/track/7c5rKCDYYbyBsLlJ00NgCD) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [TNK MusiQ](https://open.spotify.com/artist/2oA819q93vu53ZDkCJYdbN), [DJ Stopper](https://open.spotify.com/artist/36KSzfIAH1QPHtgxgCNAs8), [EltonK](https://open.spotify.com/artist/10pVHSoimTxm86twXjuEkG) | [Bells](https://open.spotify.com/album/5fb9nAydl4x1Orhsrd4622) | 5:51 | 2022-05-13 | 2023-05-09 |
+| [Beni Yanına Al](https://open.spotify.com/track/5JZ5UvqUP7Rgip7jqBXQX6) | [Ege Can Sal](https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX) | [Beni Yanına Al](https://open.spotify.com/album/0KWSQFLE7UroT6eB29o5l0) | 2:53 | 2023-10-11 |  |
 | [Berani](https://open.spotify.com/track/02LsjyEhRszT50M3zqBsbQ) | [DOLLA](https://open.spotify.com/artist/3SRXsr6dPMvVGSSpccDWjO) | [Berani](https://open.spotify.com/album/2lPgDRjtMqX8KtysPcxCJB) | 3:17 | 2022-03-21 | 2023-04-18 |
 | [beso francés](https://open.spotify.com/track/3i2DjDgANCP3DjG0WxGNG5) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [beso francés](https://open.spotify.com/album/6HQv2j8lOELD9K7s240BwP) | 2:38 | 2023-01-06 | 2023-09-09 |
 | [Better Place](https://open.spotify.com/track/2whKl8r9QCy1rZNBaLTMfN) | [Godford](https://open.spotify.com/artist/4pUwtnbS6FdBniLp410AOu) | [Non Binary Place](https://open.spotify.com/album/2ZH8IpoBY4rSq3QB6Oez9u) | 3:46 | 2022-03-24 | 2023-01-21 |
@@ -262,6 +263,7 @@
 | [EN EL CIELO](https://open.spotify.com/track/0O8ysXWS3wBFbl1SE5qb8C) | [Judeline](https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q) | [EN EL CIELO](https://open.spotify.com/album/4oCebXxwYF98fWjsgn7IpW) | 2:28 | 2022-09-08 | 2023-05-31 |
 | [En El Refuego](https://open.spotify.com/track/5a03ZGBn3dqr3H3W3li7FO) | [Grupo Diez 4tro](https://open.spotify.com/artist/6ubJLRTVzomuWIScbguoSY) | [En El Refuego](https://open.spotify.com/album/2JJpo95vrGC1A7GMphV8FS) | 3:04 | 2022-03-24 | 2022-09-16 |
 | [En La Nube](https://open.spotify.com/track/469SKsdluQm37fIYZpJzKF) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [En La Nube](https://open.spotify.com/album/1J6jzIMsRgkA6LkTfWxu7V) | 3:32 | 2022-03-24 | 2022-08-05 |
+| [En Sonunda Terk Ettim Şehrimi](https://open.spotify.com/track/5GIisFHTMmJAO497d906SO) | [Böyleyken Böyle](https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH) | [En Sonunda Terk Ettim Şehrimi](https://open.spotify.com/album/49Da5Al1iNGqdjatlyaZTO) | 3:19 | 2023-10-11 |  |
 | [Enamorado](https://open.spotify.com/track/5zC6Pptql0n3P7iAhn3ggg) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO) | [Del Corazon](https://open.spotify.com/album/6bO4zC2EXhT7AEFtowvb3C) | 4:05 | 2023-05-31 |  |
 | [Enchulao](https://open.spotify.com/track/3HaTdgWD41zkYPHZMNuQ0V) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Enchulao](https://open.spotify.com/album/2HUndIVv8uHBOaoyAMhdrn) | 3:35 | 2022-03-24 | 2022-08-25 |
 | [Energy](https://open.spotify.com/track/1bj5ZFpxGFP5ooQcctNVB4) | [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk), [Nadeem Din\-Gabisi](https://open.spotify.com/artist/4ckH39T1k1Dz6Lmo6dmno6) | [Energy](https://open.spotify.com/album/6sKrmGGTFELOes2uZ8LxUk) | 4:58 | 2022-09-15 | 2023-05-31 |
@@ -414,6 +416,7 @@
 | [IL FUMO UCCIDE](https://open.spotify.com/track/67OwT6y01c3IwTLjYmF7xg) | [Camilla Magli](https://open.spotify.com/artist/3HRSdDvPAE54ocmaq0JRrJ) | [IL FUMO UCCIDE](https://open.spotify.com/album/05VFSmqhezOJ2xelLj1MYU) | 3:05 | 2023-04-12 | 2023-10-06 |
 | [Il primo bacio](https://open.spotify.com/track/3sVvrJKdQaAtwb1fa3l0k2) | [CARA](https://open.spotify.com/artist/5zB3Q6zAf7VWq0cfiHgzqf) | [Il primo bacio](https://open.spotify.com/album/2UDIENylKUApKJKnXOn3SG) | 3:00 | 2022-02-10 | 2022-02-25 |
 | [Ilegal](https://open.spotify.com/track/1kWyLA4DXvtvfK0OynG0hB) | [Clara Cava](https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY), [Maxi Sayes](https://open.spotify.com/artist/7gumdPOGmUMKbJlrYzLhQJ), [ALOT](https://open.spotify.com/artist/06lUobf6U97iIFl8BOzgEV) | [Ilegal](https://open.spotify.com/album/4fhFKvABD36PgGAlegN3Kd) | 2:31 | 2022-03-24 | 2022-08-02 |
+| [IMMA LIAR](https://open.spotify.com/track/49IX3KVi9QmelCBp9iIUIc) | [Selin](https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf) | [IMMA LIAR](https://open.spotify.com/album/4kinMZv8wlwWMXHZrV049m) | 2:51 | 2023-10-11 |  |
 | [IMPOSIBLE](https://open.spotify.com/track/5fMo4acbRCkXZRsSuwxYZX) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [IMPOSIBLE](https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6) | 3:07 | 2022-03-24 | 2022-04-17 |
 | [In Control](https://open.spotify.com/track/5xgsrlbxfmAZR8t57ljK5t) | [Baker Boy](https://open.spotify.com/artist/6Qpa8xhGsGitz4WBf4BkpK) | [In Control](https://open.spotify.com/album/6rfcQP2rywiV6reYrP9LOJ) | 3:10 | 2022-04-07 | 2022-04-20 |
 | [In Need of Love](https://open.spotify.com/track/7iKAAHpBVmN0LGuCzbfshP) | [PuFFcorn](https://open.spotify.com/artist/75AWJxPcyXS5Qu2gjcbcLE), [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [In Need of Love](https://open.spotify.com/album/1VEAFECcsqa3lkAMH2dOdu) | 3:17 | 2022-03-24 | 2023-04-18 |
@@ -599,6 +602,7 @@
 | [napori](https://open.spotify.com/track/5Ym4egUmT9wHEvZM2anGG8) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/6v1LcUpY4GNjQ1pQ4SJCDY) | 3:23 | 2022-02-03 | 2022-03-17 |
 | [Nariz Con Raíz](https://open.spotify.com/track/5ijJhZPMHeDljcpmgC2lLp) | [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo) | [TEMPLO KOMODO](https://open.spotify.com/album/0ju8Ri6jnaQllxgAnkoPXA) | 5:10 | 2022-03-24 | 2022-12-15 |
 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 | 2023-04-17 |  |
+| [Naz](https://open.spotify.com/track/4BQN5kE1xzJoBSoG75Sedr) | [Sena Şahin](https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W) | [Naz](https://open.spotify.com/album/6uTzHHdZEfYVw26JY970QZ) | 2:17 | 2023-10-11 |  |
 | [Ne m'invite pas](https://open.spotify.com/track/7M9O8p72Aau8WXbs4oH6uY) | [Poupie](https://open.spotify.com/artist/71x0OO2toFjXrMRcufL9tv) | [Ne m'invite pas](https://open.spotify.com/album/3squVQ27t6SR9zsVbsRZcE) | 2:57 | 2022-03-24 | 2022-08-02 |
 | [Neon](https://open.spotify.com/track/0g6UGZ5tT22aThl4DdKg37) | [Hu](https://open.spotify.com/artist/1XZA7vX3UDejpAFJtywlL6) | [Neon](https://open.spotify.com/album/3HO76Ham4KcLnMY7PsCCTp) | 3:44 | 2022-03-24 | 2022-08-02 |
 | [Neon wo Keshite](https://open.spotify.com/track/7cxe3BQwizl96OX0Aaqapg) | [chilldspot](https://open.spotify.com/artist/4uJKSLGvdvinobijrcfKw4) | [The Youth Night](https://open.spotify.com/album/2Wl6HN2xObVxSEWr1oOQGp) | 3:23 | 2022-02-03 | 2022-06-30 |
@@ -760,6 +764,7 @@
 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 | 2023-09-08 |  |
 | [Salve](https://open.spotify.com/track/5i7A87k8rrkjVdvjCcJrsM) | [Tasha & Tracie](https://open.spotify.com/artist/5Gv1C1LY8pWiYcfcdjSNMT), [JXNV$](https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW), [Pizzol](https://open.spotify.com/artist/1LvxqCO8GOAKkDzDOXfrAK) | [Salve](https://open.spotify.com/album/0PCc3pxOTG96BE2EajIoG2) | 3:12 | 2022-03-24 | 2022-04-20 |
 | [San Lucas](https://open.spotify.com/track/75UMtPC77vqKRwfSuYuNPO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 4:07 | 2022-08-26 | 2022-09-16 |
+| [Sandım Ki](https://open.spotify.com/track/43UixOA06v0QNlb9Q0YWBX) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Sandım Ki](https://open.spotify.com/album/24eHoKCFb3QWoi6wQlbIX1) | 4:06 | 2023-10-11 |  |
 | [Satu Tuju](https://open.spotify.com/track/0ZmQmIgQyq3tKMuqX29REw) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Satu Tuju](https://open.spotify.com/album/62EM85nf6Nzn0ChiUzWDvJ) | 4:06 | 2022-03-21 | 2022-07-29 |
 | [Satu Tuju](https://open.spotify.com/track/4rVXkYPwY8oHJhQwcBL0On) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ) | [Satu Tuju](https://open.spotify.com/album/1OyDDO3hE5d5tNsoSqxgaf) | 4:06 | 2022-06-29 | 2022-08-02 |
 | [Satu\-Satu](https://open.spotify.com/track/5rFNflUKMTsOlBVdGv1ahL) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Satu\-Satu](https://open.spotify.com/album/2WFFb7cIQXQXvuOsoqB69C) | 4:44 | 2022-06-09 | 2022-06-24 |

@@ -1,12 +1,12 @@
 {
   "description": "For body and mind, blues straight from the soul.",
-  "num_followers": 62981,
+  "num_followers": 63041,
   "original_name": "Healin' Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzOTRkMzI0YzkyYzFiMDkwOTUzYjBiNTM2OTgyZjA5MTY1NzFjMDhj",
+  "snapshot_id": "MCxiNzQ4NzkwY2IyYjg3YmM4NmYxNDI0Y2I4ZmJjZjQ0Y2FkMjk4YjU1",
   "tracks": [
     {
       "added_at": "2023-10-05 13:06:44",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "Faith And Grace: A Family Journey 1953-1976",
-        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
-      },
-      "artists": [
-        {
-          "name": "The Staple Singers",
-          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Uncloudy Day",
-      "url": "https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "The Legendary Christine Perfect Album",
         "url": "https://open.spotify.com/album/5EZHyzIkskrqQwH8OrMlgp"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 191355,
       "name": "I'm on My Way",
       "url": "https://open.spotify.com/track/4O8Pc1phUqqhlFygKxPSBp"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "Faith And Grace: A Family Journey 1953-1976",
+        "url": "https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI"
+      },
+      "artists": [
+        {
+          "name": "The Staple Singers",
+          "url": "https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Uncloudy Day",
+      "url": "https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507"
     },
     {
       "added_at": "2023-10-05 13:06:44",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-10-05 13:06:44",
       "album": {
-        "name": "The Delta Meets Detroit: Aretha's Blues",
-        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 265800,
-      "name": "Today I Sing the Blues",
-      "url": "https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5"
-    },
-    {
-      "added_at": "2023-10-05 13:06:44",
-      "album": {
         "name": "The Biggest Thing Since Colossus",
         "url": "https://open.spotify.com/album/0JTpT75jTlXCJqAoCw1H4b"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 315373,
       "name": "Ain't Nobody's Business",
       "url": "https://open.spotify.com/track/5AguTIx7t7HqEJHjlizHHs"
+    },
+    {
+      "added_at": "2023-10-05 13:06:44",
+      "album": {
+        "name": "The Delta Meets Detroit: Aretha's Blues",
+        "url": "https://open.spotify.com/album/0JZyURQWYeYAqUBcHy6PE9"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 265800,
+      "name": "Today I Sing the Blues",
+      "url": "https://open.spotify.com/track/6NxdgHR3lebLG7CyZ9EtK5"
     },
     {
       "added_at": "2023-10-05 13:06:44",

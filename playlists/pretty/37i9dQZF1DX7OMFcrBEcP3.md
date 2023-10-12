@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 
 > The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,204 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,366 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 31 | [La Suburban Dorada](https://open.spotify.com/track/4vOCbfTX2lgde4dyOtq2IE) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [10 Corridos Pesados](https://open.spotify.com/album/5Mc3MOwWjnXHP35sj823Nf) | 3:15 |
 | 32 | [La Camioneta Gris](https://open.spotify.com/track/7e9vWIQWNE6r74PBC7ixdS) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Corridos Prohibidos](https://open.spotify.com/album/6ur3OZ3UXA4Y4IgLpMW5Rw) | 3:15 |
 | 33 | [La Cheyene del Año](https://open.spotify.com/track/1k1kg1xFTxodz5bhh1WIG3) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 3:00 |
-| 34 | [La Botella \(Dos Botellas De Mescal\)](https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez) | [Los Morros Del Norte](https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG) | [La Cadena](https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3) | 2:54 |
-| 35 | [Se Les Pelo Baltazar](https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Corridos De Oro](https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14) | 2:33 |
+| 34 | [Se Les Pelo Baltazar](https://open.spotify.com/track/6WuJdz1dLYTK9sTgl4gXxg) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Corridos De Oro](https://open.spotify.com/album/077RnVapHLO1Zf6p4RMN14) | 2:33 |
+| 35 | [La Botella \(Dos Botellas De Mescal\)](https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez) | [Los Morros Del Norte](https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG) | [La Cadena](https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3) | 2:54 |
 | 36 | [El Centenario](https://open.spotify.com/track/65PXVu64xyXCpKczg4K9Cz) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [15 Primeros Exitos Vol\. 1](https://open.spotify.com/album/4xxr8BlUMAKDdVRmDIyDjq) | 2:36 |
 | 37 | [Entre Perico Y Perico](https://open.spotify.com/track/7oolgteFZL4lKQ7LcgYIhd) | [Grupo Exterminador](https://open.spotify.com/artist/3slJwKuB6Ij5V0mCOKT8Jn) | [Narco Corridos](https://open.spotify.com/album/0eFkLgjzIQj3RuIXdXoCSe) | 5:00 |
 | 38 | [Cruz De Madera](https://open.spotify.com/track/4FcYptmG7nIfAH9XW8R4YA) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Cruz De Madera](https://open.spotify.com/album/6D9a2VeAyvMqcCN27uzi4V) | 2:52 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 69 | [Entre Perico y Perico](https://open.spotify.com/track/36m3Gq1HHTnT9BKbSuhm0R) | [El As De La Sierra](https://open.spotify.com/artist/6uQMkB156uIN27tFar9qQl) | [Puros Corridos Bravos \(Soy Patron De Patrones\)](https://open.spotify.com/album/16LuEss8kmCMmb3MIGlYcN) | 3:10 |
 | 70 | [Gabino Barrera](https://open.spotify.com/track/5gaKIqxF0RTBgIBswpKVRy) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 3:27 |
 | 71 | [Sonora Y Sus Ojos Negros](https://open.spotify.com/track/56z8EVfBhdmkmzSE8mL15p) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [La Historia](https://open.spotify.com/album/3Bo1SwS9A2OEG4gaxAnG4e) | 2:57 |
-| 72 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 |
-| 73 | [El Federal de Caminos](https://open.spotify.com/track/6gff5htL4edefMTcgvIxOi) | [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL) | [15 Corridos de Matones](https://open.spotify.com/album/3qUj1FW2OLU0Xcm7JDkIKW) | 3:05 |
+| 72 | [El Federal de Caminos](https://open.spotify.com/track/6gff5htL4edefMTcgvIxOi) | [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL) | [15 Corridos de Matones](https://open.spotify.com/album/3qUj1FW2OLU0Xcm7JDkIKW) | 3:05 |
+| 73 | [El Barzon](https://open.spotify.com/track/3WALh4MuKxt00oJO7vSrjk) | [Luis Pérez Meza](https://open.spotify.com/artist/1njDUvTLxvzE1QO8wN39eT) | [Lo Mejor De Rancheras](https://open.spotify.com/album/1byRtvyAmS4gGeTbSRCwv8) | 2:44 |
 | 74 | [El Ultimo Cartucho](https://open.spotify.com/track/3khgsGxNwXijlqyStMvpfh) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos Volumen 1](https://open.spotify.com/album/3cQ3TDx7CrpdBdDazb26zi) | 3:21 |
 | 75 | [Se Mamó El Becerro](https://open.spotify.com/track/3cpBfqMWR414bbh8Q0ZlYW) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Se Mamó El Becerro](https://open.spotify.com/album/1pDmBQhwJk1CR9Y9eplQBy) | 3:24 |
 | 76 | [Corrido de Domingo Corrales](https://open.spotify.com/track/1ndfTgmbawerzlQvbfvxrM) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Pa' Puros Compas!, Vol\. 2: Corridos y Rancheras](https://open.spotify.com/album/6YfMNFnsU5lhm1T3Tt9vB9) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7OMFcrBEcP3.md) - [plain]
 | 99 | [Luis Pulido](https://open.spotify.com/track/2jUiJuZFnTtG0xohTfGU4e) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernández Y Sus Corridos Consentidos](https://open.spotify.com/album/7JRZqO7zZrTJiL0yeeQfYn) | 2:26 |
 | 100 | [La Chiva Colgada](https://open.spotify.com/track/5FNHvNI40a4W9iSxTp2zDg) | [Los Tremendos Gavilanes](https://open.spotify.com/artist/61Wbko5X4nwMtHOWOcvWiw) | [Cielo Azul, Cielo Nublado](https://open.spotify.com/album/6N6zMYcJO4fIKeqMqRvuAL) | 3:15 |
 
-Snapshot ID: `MCw0YmU1ZjAwOWQwMTc4NGFiNGZkZmI1YjYyMDdjNDg1YTc5NWFhZmFh`
+Snapshot ID: `MCwxYTQzNTdlODAwNmFlODgyNjc1Mjc3M2E4M2I3ZTQxOGJmMzY3ZWVl`

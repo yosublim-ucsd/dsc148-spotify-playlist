@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの最新話題曲をひとつのプレイリストに。Cover: WANIMA
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,425 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,318 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [夏暁](https://open.spotify.com/track/1viY1xpThPrBqZvaCjYqHJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [夏暁](https://open.spotify.com/album/5N6ezwJ6Sr3pyupk8TV9ez) | 3:52 |
+| 1 | [夏暁](https://open.spotify.com/track/7LFGOD6ePfGh8FtPtnq3EJ) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 3:52 |
 | 2 | [Waratteokure](https://open.spotify.com/track/588GkOEGHQUW4DOB7z2znS) | [Sambomaster](https://open.spotify.com/artist/5ydDSP9qSxEOlHWnpbblFB) | [Waratteokure](https://open.spotify.com/album/5x2Ba1mfp35h8sRajMNXQs) | 4:33 |
 | 3 | [i don't wanna be](https://open.spotify.com/track/5cEBCMlHGGoShjfmmtfjJg) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [i don't wanna be](https://open.spotify.com/album/5D0iizWvM5gdeduQST36rh) | 3:36 |
 | 4 | [リカ](https://open.spotify.com/track/41P1hFCw1uLYt25JKktlst) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [FANFARE \(Deluxe Version\)](https://open.spotify.com/album/6jeDa7srx82eoknJmpBkgT) | 3:38 |
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 33 | [Heartache](https://open.spotify.com/track/1pBeYVoKOTXOotNJ1MjHrk) | [\(sic\)boy](https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk) | [vanitas](https://open.spotify.com/album/4SKmZ9UDkL4NrEgXzJw81z) | 2:28 |
 | 34 | [燈](https://open.spotify.com/track/7jtXjZ3JViUo9M3ogYAapO) | [Soushi Sakiyama](https://open.spotify.com/artist/1IEretLePzJKj8R6KCEaBA) | [i 触れる SAD UFO](https://open.spotify.com/album/39l5XqHOxUnSvkyToqhtIt) | 3:59 |
 | 35 | [UNDER THE TREE \- Full Length Ver.](https://open.spotify.com/track/5B9gDlmcZZZamZ53hUeMlf) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/2KyzFbwIJu1JBkcZsdXbl0) | 4:31 |
-| 36 | [ルージュ feat\. 向井太一](https://open.spotify.com/track/06KGPEWi5lFvv31MK7Qzu4) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [ルージュ feat\. 向井太一](https://open.spotify.com/album/1nUWMtWcOHFLlzVjFHOlIQ) | 3:37 |
+| 36 | [Rouge feat\. Taichi Mukai](https://open.spotify.com/track/4FpxAbBBGBY8dFiMCsaOi7) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx), [Taichi Mukai](https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH) | [Rouge feat\. Taichi Mukai](https://open.spotify.com/album/00t8byMoRv2LZrsEaH9X7K) | 3:37 |
 | 37 | [不眠導入剤](https://open.spotify.com/track/0NL5SHYE1u3TgA0WtYhwlF) | [domico](https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ) | [肴](https://open.spotify.com/album/3FgHoa9C34h5KOuA9VrVZp) | 2:40 |
 | 38 | [金星](https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [金星](https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0) | 3:37 |
 | 39 | [硝子窓](https://open.spotify.com/track/5fhQl8OA678cElLUhnM9oE) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [硝子窓](https://open.spotify.com/album/0RjjIsZlBkbjOZr6nuEdkG) | 3:37 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 71 | [泳いでゆけたら](https://open.spotify.com/track/5rhbxoPNJdhcFm2YU5xeta) | [Regal Lily](https://open.spotify.com/artist/75eQ7NabzgaaUYcrqSY0FK) | [泳いでゆけたら](https://open.spotify.com/album/1GYSFSs014OCLTMlFtLQJX) | 3:40 |
 | 72 | [No.11](https://open.spotify.com/track/2HDoip3pYuJujlJ6r0Cyq7) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [Toy box](https://open.spotify.com/album/0qQYB8pHRbWRoKD2IgIYSo) | 3:50 |
 | 73 | [風の噂](https://open.spotify.com/track/0XF71aEbLVIqAkvOdnf8YA) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [風の噂](https://open.spotify.com/album/22gvgKShk2m1bbuecfgEP5) | 3:50 |
-| 74 | [オリジナルスクープ](https://open.spotify.com/track/6coXH7cxTNneEHPbXvCmNA) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [オリジナルスクープ](https://open.spotify.com/album/1v2jwsiT9SYoMBRY7QnXHH) | 3:43 |
+| 74 | [オリジナルスクープ](https://open.spotify.com/track/4XFDyEOJLCDYstSNPDqLnS) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [オリジナルスクープ](https://open.spotify.com/album/0Hh76GBDwAZUUiaNHTPUKZ) | 3:43 |
 | 75 | [Donimonaranwa](https://open.spotify.com/track/5c53c4qvEQwUiFbvHDKKD3) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [Donimonaranwa](https://open.spotify.com/album/48N5slTXeAKIberNSWrSMD) | 3:39 |
 | 76 | [Miraino Uta \- 2023 Master](https://open.spotify.com/track/4hx8WgEJQOIcXflbmK3xRW) | [Kazuya Yoshii](https://open.spotify.com/artist/4tgnOBWTNWUtp3uhUiLCkj) | [20](https://open.spotify.com/album/6SA5aeZwQ2hOrEOeTWUGj8) | 5:07 |
 | 77 | [Knock Out\(Album Mix\)](https://open.spotify.com/track/3J6zAKrJoz24YsoEYtWLSh) | [Okazaki Taiiku](https://open.spotify.com/artist/5yKQkcO2MWUp3Z5jUs70pW) | [OT WORKS Ⅲ \(Selected ver.\)](https://open.spotify.com/album/5SCmQmrYIKFsnBA5Ml2kCZ) | 3:45 |
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 86 | [RUMBLE](https://open.spotify.com/track/5TJii7hQr93G7yYdgO5RAU) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Masato](https://open.spotify.com/artist/11xDXwn09ERXhnM1wZgywo) | [RUMBLE](https://open.spotify.com/album/1q3QicMrnFJ4RrdFcVyvig) | 4:41 |
 | 87 | [Ghost Town](https://open.spotify.com/track/2sJZU9wjC3CnUPW3hPAb3i) | [天国姑娘](https://open.spotify.com/artist/60JSPE63xy6m6MWoY0D663) | [Ghost Town](https://open.spotify.com/album/1pYhD2XLd92NXZrokQwXPJ) | 3:08 |
 | 88 | [Himitsu](https://open.spotify.com/track/6mdV5v37CdoCbVXEtRahiU) | [KOTORI](https://open.spotify.com/artist/6NlY4hC3DxmaCG2rSZv0fL) | [Himitsu](https://open.spotify.com/album/03sy8AL2bY0ejjG6vjko6a) | 3:27 |
-| 89 | [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 |
+| 89 | [Say My Name](https://open.spotify.com/track/06YNVx8q2zF84s8SfGbxMC) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/0Z1B02ZtMcAtgluiIWZTMB) | 1:48 |
 | 90 | [fake drama](https://open.spotify.com/track/4PFWYuT7tQbq82wbmXjAUM) | [THE BACK HORN](https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV) | [saigoni nokorumono](https://open.spotify.com/album/5bOrSq36xpVOgPtnvALFPZ) | 3:47 |
 | 91 | [In a Black Out](https://open.spotify.com/track/4Jb9qPgIOtVmUQJoRDvKwl) | [GRAPEVINE](https://open.spotify.com/artist/7LPp4MiQ8yxVUxhxipe0mm) | [Almost there](https://open.spotify.com/album/16jwz1QKP5h1HNpAI8X35S) | 3:47 |
 | 92 | [Aozora Brand New](https://open.spotify.com/track/1srFThaZmklInc18cbxlQb) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [The Best flumpool 2.0 \~ Blue\(2008\-2011\)& Red\(2019\-2023\) \~](https://open.spotify.com/album/1jUNCwNItivgFwAqqrAMNv) | 3:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [Naitokeba Yokatta](https://open.spotify.com/track/3peHF4gr5QvwgeAoM3ElXp) | [NEE](https://open.spotify.com/artist/1gh7KnvnbRnc1gXEPuV8KH) | [Naitokeba Yokatta](https://open.spotify.com/album/3zJcDgm5S3uY5Aj3Ed6LFZ) | 3:01 |
 | 100 | [音楽と人](https://open.spotify.com/track/0ROUxl1XaYH7PmYNQp5VW6) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [音楽と人](https://open.spotify.com/album/3u9T7DyLEOc2vQINDZa6L4) | 3:29 |
 
-Snapshot ID: `MCw2ZTk0NzA4YzA2NWRiMzk5ODc2N2E1MzNlYzZmYjM2NjNhZTIwZjc3`
+Snapshot ID: `MCwzZDQxM2NhZGMzNTA0YWNiNmM3YWEwMmIwMGI4OTNjNmU3YzYwNjA3`

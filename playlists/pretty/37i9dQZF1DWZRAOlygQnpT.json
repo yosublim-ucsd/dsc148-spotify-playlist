@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 76659,
+  "num_followers": 76695,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjE4MjIyM2JjNTEwMTlhNDZlOWM1M2RmNDljMzA5YjgxMmU2NjMz",
+  "snapshot_id": "MCwwZDZjN2VhMTMyODM5ZTYyNTE3YTg2ZDAyMzA5NmUwNGUwNTczODE2",
   "tracks": [
     {
       "added_at": "2020-04-17 21:51:59",
@@ -631,22 +631,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Buen Rock Esta Noche",
-        "url": "https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz"
-      },
-      "artists": [
-        {
-          "name": "Los Loud Jets",
-          "url": "https://open.spotify.com/artist/4PF3TlakT6o7oVUe4JjSma"
-        }
-      ],
-      "duration_ms": 162133,
-      "name": "Hermosa Laura",
-      "url": "https://open.spotify.com/track/6Epp9ml7BLZBcg0icTFTQu"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Lo Mejor De Los Hermanos",
         "url": "https://open.spotify.com/album/5pdI245Kbb9krwAdURocn4"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 182000,
       "name": "Las Cerezas (Le Celiege)",
       "url": "https://open.spotify.com/track/22QsJTK2JQXZKSUW2sKj9w"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Buen Rock Esta Noche",
+        "url": "https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz"
+      },
+      "artists": [
+        {
+          "name": "Los Loud Jets",
+          "url": "https://open.spotify.com/artist/4PF3TlakT6o7oVUe4JjSma"
+        }
+      ],
+      "duration_ms": 162133,
+      "name": "Hermosa Laura",
+      "url": "https://open.spotify.com/track/6Epp9ml7BLZBcg0icTFTQu"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -695,22 +695,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Rock Con los Locos del Ritmo",
-        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 193910,
-      "name": "Tus Ojos",
-      "url": "https://open.spotify.com/track/2pBbjdRMtCnFFUpOug5vtj"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Lucha Va Voom - Se\u00f1or Amor's Mexican R&R Faves",
         "url": "https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 149146,
       "name": "Un hombre respet",
       "url": "https://open.spotify.com/track/76NCs54B9hQLW3HZwUxppM"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Rock Con los Locos del Ritmo",
+        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 193910,
+      "name": "Tus Ojos",
+      "url": "https://open.spotify.com/track/2pBbjdRMtCnFFUpOug5vtj"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -811,38 +811,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "La Fiebre del Rock and Roll",
-        "url": "https://open.spotify.com/album/1dnS93Ynexd71S1Nogqn3l"
-      },
-      "artists": [
-        {
-          "name": "Mayte Gaos",
-          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
-        }
-      ],
-      "duration_ms": 173760,
-      "name": "Vete Con Ella (Chappel of Love)",
-      "url": "https://open.spotify.com/track/57Uadt78FPP6JmC19JufWZ"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "Rock Con los Locos del Ritmo",
-        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 80764,
-      "name": "Yo No Soy Rebelde",
-      "url": "https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Exitos del Rock & Roll",
         "url": "https://open.spotify.com/album/2QShgpgEpgwy850RW77f9J"
       },
@@ -855,6 +823,22 @@
       "duration_ms": 151745,
       "name": "Eddy Eddy",
       "url": "https://open.spotify.com/track/5zFjvUEEQEU1H5oZWeuA9C"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "La Fiebre del Rock and Roll",
+        "url": "https://open.spotify.com/album/1dnS93Ynexd71S1Nogqn3l"
+      },
+      "artists": [
+        {
+          "name": "Mayte Gaos",
+          "url": "https://open.spotify.com/artist/2nWZrWrYWk8Y9gBtprx8Hb"
+        }
+      ],
+      "duration_ms": 173760,
+      "name": "Vete Con Ella (Chappel of Love)",
+      "url": "https://open.spotify.com/track/57Uadt78FPP6JmC19JufWZ"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -887,6 +871,22 @@
       "duration_ms": 170657,
       "name": "Olvida",
       "url": "https://open.spotify.com/track/4oGoAbeCYFxQ6oXsNFnLEn"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "Rock Con los Locos del Ritmo",
+        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 80764,
+      "name": "Yo No Soy Rebelde",
+      "url": "https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -955,6 +955,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
+        "name": "\u00c9xitos Del Rock",
+        "url": "https://open.spotify.com/album/6lwsXeafhu5LPPnvyeVt9D"
+      },
+      "artists": [
+        {
+          "name": "Los Gliders",
+          "url": "https://open.spotify.com/artist/3hzte6Ma86NBrxRt1c8kGI"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "La Llorona Loca",
+      "url": "https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
         "name": "15 Exitos del Rock & Roll",
         "url": "https://open.spotify.com/album/2dPVpmxzzFtycLo8C8U1Uh"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 143480,
       "name": "Leroy",
       "url": "https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
-        "name": "\u00c9xitos Del Rock",
-        "url": "https://open.spotify.com/album/6lwsXeafhu5LPPnvyeVt9D"
-      },
-      "artists": [
-        {
-          "name": "Los Gliders",
-          "url": "https://open.spotify.com/artist/3hzte6Ma86NBrxRt1c8kGI"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "La Llorona Loca",
-      "url": "https://open.spotify.com/track/2dIUXClkwYgcYL2m7BInXB"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "100 A\u00f1os de Musica",
-        "url": "https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa"
-      },
-      "artists": [
-        {
-          "name": "Los Rockin' Devils",
-          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
-        }
-      ],
-      "duration_ms": 124656,
-      "name": "Yuyu Mata Juju Jen",
-      "url": "https://open.spotify.com/track/7sOyMfAXmMCn78w2ne1DqF"
-    },
-    {
-      "added_at": "2020-04-17 21:51:59",
-      "album": {
         "name": "Grandes \u00c9xitos Vol.2",
         "url": "https://open.spotify.com/album/73HgDlnXFSEWv7qmKDogeN"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 145658,
       "name": "Adan y Eva",
       "url": "https://open.spotify.com/track/0YKzNVdniFbIygZieYMeBW"
+    },
+    {
+      "added_at": "2020-04-17 21:51:59",
+      "album": {
+        "name": "100 A\u00f1os de Musica",
+        "url": "https://open.spotify.com/album/3YvIyt0fZgOTdwtrj79FRa"
+      },
+      "artists": [
+        {
+          "name": "Los Rockin' Devils",
+          "url": "https://open.spotify.com/artist/7MTtIXOqFDnSbho0pYpJve"
+        }
+      ],
+      "duration_ms": 124656,
+      "name": "Yuyu Mata Juju Jen",
+      "url": "https://open.spotify.com/track/7sOyMfAXmMCn78w2ne1DqF"
     },
     {
       "added_at": "2020-04-17 21:51:59",

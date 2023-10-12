@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 
 > Fresh Latin pop on the rise\. Cover: Leon Leiden & Juliana
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,675 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,273 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 36 | [Que me quiera](https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:34 |
 | 37 | [Demasiado](https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Demasiado](https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx) | 2:50 |
 | 38 | [en el pasado](https://open.spotify.com/track/5yaLbxJA06rXg1W3jI7M5Q) | [Alex Ponce](https://open.spotify.com/artist/2rtnKY7iQJHIEBnOd66DCO) | [en el pasado](https://open.spotify.com/album/78EFQKhgET0w845QMun4na) | 3:43 |
-| 39 | [Bórrame](https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Bórrame](https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw) | 2:53 |
-| 40 | [cielo violeta](https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [cielo violeta](https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK) | 2:40 |
+| 39 | [cielo violeta](https://open.spotify.com/track/57qJbIewi6XBJ0WNQmQbXW) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [cielo violeta](https://open.spotify.com/album/4ALW8npMQxUxWmBkOvhTUK) | 2:40 |
+| 40 | [Bórrame](https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Bórrame](https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw) | 2:53 |
 | 41 | [Multiverso \(feat\. Jay Wheeler\)](https://open.spotify.com/track/1F4d5ogw98lmisdyLZHPy1) | [Noreh](https://open.spotify.com/artist/1JHgX0v8Dx86wpfQkZuJFg), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [MUCHO TXT](https://open.spotify.com/album/2pF0h1xTaFllgMiNPKl9qc) | 2:29 |
 | 42 | [Hora Loca](https://open.spotify.com/track/5vgwmo15qa4jKLFW726iaF) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hora Loca](https://open.spotify.com/album/5L7vepCGsq5Ji84DPEDjP8) | 3:11 |
 | 43 | [LOTO](https://open.spotify.com/track/01c2emv4rHsA4KZ5gBTLhv) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [LOTO](https://open.spotify.com/album/69ejRbPjsusOcKQm6ZwsSg) | 2:46 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8womvTyUjrN.md) - [plain]
 | 49 | [Amor](https://open.spotify.com/track/5g6kWBIdX0xmqWyAV6HA32) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Amor](https://open.spotify.com/album/2XCIULVG2pfa0a8D0qhmUu) | 2:52 |
 | 50 | [Quédate](https://open.spotify.com/track/2Zq2coIIUUPBOhfXdDvz61) | [TIMØ](https://open.spotify.com/artist/1KfRf4VkEYpL2G0FTWb7JX) | [Quédate](https://open.spotify.com/album/2YCoLtzdiW3YAiYzEiADm0) | 3:26 |
 
-Snapshot ID: `MCwwYWU2N2JjYmU1M2M3NzQ3NzM4ZDhiZGY2NWZlZGZlNDgzNDc3ZTkz`
+Snapshot ID: `MCwyYzViOWQzMmYyYTM3ZjA5YmExMDZlMDE4YTAyMDAxZjY1ZjU4NGM4`

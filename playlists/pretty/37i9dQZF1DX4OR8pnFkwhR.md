@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。Cover: 十明
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,043 likes - 70 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,059 likes - 70 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 21 | [Soft](https://open.spotify.com/track/3QZ3RYgqaOvg56tOGxDQnB) | [VILLSHANA](https://open.spotify.com/artist/57weAzpeaELcDcAuqngdDo), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [KILL VILL](https://open.spotify.com/album/5dOuAEcGum8wvhvznPhDDM) | 2:56 |
 | 22 | [Hentotai](https://open.spotify.com/track/77e43kws6FyAhyNmUMAO08) | [noa](https://open.spotify.com/artist/7nhWQxOMcfIv29SBPZEcgp) | [Hentotai](https://open.spotify.com/album/49drcV28EOnBPoInfKimh9) | 3:48 |
 | 23 | [Headliner](https://open.spotify.com/track/5wYXXFzzelTMEbVOGoZ3Q0) | [レトロリロン](https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu) | [Headliner](https://open.spotify.com/album/209bUB4Yw8SiUB5F3t252c) | 3:54 |
-| 24 | [nYc](https://open.spotify.com/track/1JDr7asmfcFccDoVmsVLW3) | [Nephew](https://open.spotify.com/artist/11BUDylkl50Y6dsbZMZiCG) | [nYc](https://open.spotify.com/album/6J3AlzC9X8ivBbQmYBD3p7) | 4:22 |
+| 24 | [nYc](https://open.spotify.com/track/1JDr7asmfcFccDoVmsVLW3) | [Nephew](https://open.spotify.com/artist/2QuPFnj8mE4ghAFuQx1vzV) | [nYc](https://open.spotify.com/album/6J3AlzC9X8ivBbQmYBD3p7) | 4:22 |
 | 25 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 |
 | 26 | [PRO](https://open.spotify.com/track/7q3HfHj3T7ix4BQ2oieOEG) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E) | [WE'LL DIE THIS WAY](https://open.spotify.com/album/5lztiYUiNV9sYs2po4ou34) | 2:32 |
 | 27 | [未成人](https://open.spotify.com/track/1QOHvuqSmCEPqRsEGvLgXD) | [Yujin Aramaki](https://open.spotify.com/artist/2VRiqiGtazeRfwKgYg5dlQ) | [未成人](https://open.spotify.com/album/3iLUblYEUlFp5A5RV6bTLe) | 4:01 |
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 30 | [I say bye](https://open.spotify.com/track/3rnYiGxQPdzbUpktxZP3oN) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [I say bye](https://open.spotify.com/album/7GuwXufXafM8Fe5kmSdVHZ) | 3:00 |
 | 31 | [消えるまで](https://open.spotify.com/track/39v0hXWTXExgku2HrkBhJX) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [消えるまで](https://open.spotify.com/album/5KfRRpVhvrtESciHQy4gWo) | 3:25 |
 | 32 | [風の噂](https://open.spotify.com/track/0XF71aEbLVIqAkvOdnf8YA) | [トンボコープ](https://open.spotify.com/artist/1UzaXdXRtXgtPrdjzW5Og3) | [風の噂](https://open.spotify.com/album/22gvgKShk2m1bbuecfgEP5) | 3:50 |
-| 33 | [オリジナルスクープ](https://open.spotify.com/track/6coXH7cxTNneEHPbXvCmNA) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [オリジナルスクープ](https://open.spotify.com/album/1v2jwsiT9SYoMBRY7QnXHH) | 3:43 |
+| 33 | [オリジナルスクープ](https://open.spotify.com/track/4XFDyEOJLCDYstSNPDqLnS) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [オリジナルスクープ](https://open.spotify.com/album/0Hh76GBDwAZUUiaNHTPUKZ) | 3:43 |
 | 34 | [again](https://open.spotify.com/track/7jFM74WwcnAZnHy4v4YTvK) | [からあげ弁当](https://open.spotify.com/artist/3YCsPDGZvNkIqn5PxHE2uz) | [again](https://open.spotify.com/album/0QIoiV1zp5iciJIpVI07Y0) | 3:41 |
 | 35 | [ルサンチマン或いは](https://open.spotify.com/track/4CwcNhOwPV38Kc0Wta5SAY) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [ルサンチマン或いは](https://open.spotify.com/album/4iiyWQ9KInnFtk9axLy7Of) | 4:02 |
 | 36 | [No.11](https://open.spotify.com/track/2HDoip3pYuJujlJ6r0Cyq7) | [Maki](https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA) | [Toy box](https://open.spotify.com/album/0qQYB8pHRbWRoKD2IgIYSo) | 3:50 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 69 | [BLS](https://open.spotify.com/track/7DofXnfXyHvwvUKi6U3Er1) | [aldo van eyck](https://open.spotify.com/artist/0f0NPoMq6pvtisxkGo9uJ0) | [BLS](https://open.spotify.com/album/5DqoY9jhrTYIZAyq9dqiCr) | 4:06 |
 | 70 | [涙 \- NEWLY Remix](https://open.spotify.com/track/71kNMy61jtT0U0jsauyZny) | [Monthly Mu & New Caledonia](https://open.spotify.com/artist/57KdMq2pCCdMjConSyzDsN), [Newly](https://open.spotify.com/artist/6x4LEGG2p8MEvmlWtHwhZu) | [MM&NC Remix](https://open.spotify.com/album/2H2rejC42XlQJw73MeiAB4) | 5:06 |
 
-Snapshot ID: `MCxhMWUwNWI3ZDBmZWQzZTgzNzVkNTFkODEzMzMwMmYyODBkOWRjYWYx`
+Snapshot ID: `MCw4ZDM4MWE2ZTc4MzViZjAxMTc3NGMzYjI3OTcyYzMxYmMxMGIzZWE1`

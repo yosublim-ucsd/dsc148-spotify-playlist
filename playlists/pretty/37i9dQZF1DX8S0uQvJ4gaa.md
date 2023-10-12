@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Colbie Caillat
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,166,926 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,166,279 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 99 | [Fake Names](https://open.spotify.com/track/2ClUu1kEWAGb6KZroRkkUq) | [Priscilla Block](https://open.spotify.com/artist/6BpvASijzSWj7gnZD4Dvf1) | [Fake Names](https://open.spotify.com/album/6HR8wY3bzZWNoU3sJZY2bX) | 2:39 |
 | 100 | [Home Team](https://open.spotify.com/track/4XPefX4QY9EWhrwLL528Fc) | [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Home Team](https://open.spotify.com/album/4zlBDJa1ZOoiy7R6AVD5Hd) | 3:16 |
 
-Snapshot ID: `MCwxOTc1NzUxYWNjODE1NWNhYTU4ZDJlMjhjNTIyYzEwMzk5NzdlMzg0`
+Snapshot ID: `MCwwYTZlOWYzYjI1OGUxN2JhMjEwZDY3Y2VhYTE0MjNkMzBhMWU1OTA0`

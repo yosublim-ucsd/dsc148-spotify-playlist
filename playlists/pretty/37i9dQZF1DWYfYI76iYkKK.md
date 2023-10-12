@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 
 > 到了週末，你應該試著把柔軟的感覺找回來，小憩一下、小走一段、小酌一杯或小哭一場。
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,038 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,834 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 13 | [甘阿內 Really? \- 不插電雙女聲版](https://open.spotify.com/track/392mQWSAruZOLaeUWnpkWh) | [葉柔](https://open.spotify.com/artist/3kCo5hH1MFJ4EgXARlmWb0), [烏日高娃](https://open.spotify.com/artist/2MeJvXSc1T8gSjSj0VVNjE) | [甘阿內 Really? \(不插電雙女聲版\)](https://open.spotify.com/album/0FPfHaQm23dpvvaPt3XtNv) | 2:20 |
 | 14 | [再陪我一個夏天《地獄里長》插曲](https://open.spotify.com/track/7jMnF7k6f9L1IWCOLnTQO1) | [Sophie Chen](https://open.spotify.com/artist/2DIegoHjgAlIc6HYGGbu4h) | [再陪我一個夏天《地獄里長》插曲](https://open.spotify.com/album/7BO8kzouWz0SOA5sAmgy3N) | 3:12 |
 | 15 | [家的光（晨光版）](https://open.spotify.com/track/7DnMlzNsSQabH38eJ1UVTy) | [冬夏雨晴](https://open.spotify.com/artist/24ALZ3PLX0Ty3E3NnhdsXO) | [家的光（晨光版）](https://open.spotify.com/album/1MxV7GKrjROq9LhvdoiLRw) | 3:59 |
-| 16 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
-| 17 | [懸日](https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:37 |
+| 16 | [懸日](https://open.spotify.com/track/6zbBfKc4ghXAGtzuXAQptf) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:37 |
+| 17 | [習慣不習慣](https://open.spotify.com/track/2bLphDJvGyfjPbmxs7V4rX) | [理想混蛋 雞丁](https://open.spotify.com/artist/5gLzM47RVqMDkkFc2CaSon) | [底片裡的夏卡爾](https://open.spotify.com/album/3s1pKBhbHzoUzcRFBabug4) | 5:00 |
 | 18 | [太聰明](https://open.spotify.com/track/4DCB1S7G6SmH9qlDpEVIzP) | [Cheer Chen](https://open.spotify.com/artist/4m0xrEWYU0yCUFMaga015T) | [吉他手](https://open.spotify.com/album/35QdFULbzmzRWMeH7bHGQR) | 4:23 |
 | 19 | [十萬毫升淚水](https://open.spotify.com/track/2mCSqP0xAkWO7N53OnHRLk) | [Tanya Chua](https://open.spotify.com/artist/376pcuw4IgWBMOUwCr8kIm) | [天使與魔鬼的對話](https://open.spotify.com/album/6joAlbBWoCoaSLongcfI9V) | 4:20 |
 | 20 | [日常](https://open.spotify.com/track/7MLTCVNXFz5SFN84HSqYVg) | [EggPlantEgg](https://open.spotify.com/artist/6g641431O1Xkl7HAs2yFEg) | [卡通人物](https://open.spotify.com/album/5SGhMGsRdfFKlFjsE9L3V5) | 4:03 |
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 31 | [年輪說](https://open.spotify.com/track/0rkKoFtgXTBSy8MLtwYPmc) | [吳青峰](https://open.spotify.com/artist/5a5vu4RzsAHdKN0aYyblZ8) | [冊葉一：一與一](https://open.spotify.com/album/3rF6e6T98lg8usUISr18oG) | 4:55 |
 | 32 | [明室](https://open.spotify.com/track/61rAMMOHksE6rLlkWnXV9m) | [Pei\-Yu Hung](https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs) | [明室](https://open.spotify.com/album/6EszGrLFpfDVjBypK9dQ8D) | 4:19 |
 | 33 | [晴時多雲偶想你](https://open.spotify.com/track/2fKc4ptqI3fBB4apuuu608) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [晴時多雲偶想你](https://open.spotify.com/album/1wfELxNgs2R3eZpc5YrP0a) | 4:48 |
-| 34 | [第一個清晨](https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O) | 4:46 |
-| 35 | [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 |
+| 34 | [皆可](https://open.spotify.com/track/5tU8tlGuxmCjNdl5eP9oGR) | [Hebe Tien](https://open.spotify.com/artist/14bJhryXGk6H6qlGzwj3W5) | [無人知曉](https://open.spotify.com/album/6bCnbjqqRgcPCpJwcnoLju) | 4:30 |
+| 35 | [第一個清晨](https://open.spotify.com/track/4ugY7kSA3vbhvE6YrgDv28) | [Leehom Wang](https://open.spotify.com/artist/2F5W6Rsxwzg0plQ0w8dSyt) | [蓋世英雄](https://open.spotify.com/album/34D46J9tIGCqAj3FeiEA9O) | 4:46 |
 | 36 | [你一定要幸福](https://open.spotify.com/track/3CBAIdEjO75HsYyA3FSeOQ) | [Isaac Yong](https://open.spotify.com/artist/1mQ2qm4xBo0bfl5NcaYdSk) | [你一定要幸福](https://open.spotify.com/album/2k8raxrNWIXPqkajoKqJt3) | 4:30 |
 | 37 | [青空未來](https://open.spotify.com/track/7iZy5sCDT5VkqEYBKy0DTU) | [Ashin Chen](https://open.spotify.com/artist/6H93wOohK6r1MwGh41Z4Nb) | [青空未來](https://open.spotify.com/album/2giUSFEwapURH56GEtpMaR) | 4:15 |
 | 38 | [輸情歌](https://open.spotify.com/track/0WNodcT2mn3fX8NwsYxCp8) | [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [輸情歌](https://open.spotify.com/album/3SfW0yFNbsj6Neyft3zmDV) | 3:44 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfYI76iYkKK.md) - [plain]
 | 47 | [我還在你的夢裡嗎](https://open.spotify.com/track/0Py5JGT1RIImdoGkuuX7k0) | [Chih Siou](https://open.spotify.com/artist/6cMRDBCHMYjyCH2D0s6uzr) | [!!!!](https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY) | 3:36 |
 | 48 | [悲傷的五個步驟 \- Live Session](https://open.spotify.com/track/5fwxL5EIOUXWUfxvNX3s1I) | [艾薇](https://open.spotify.com/artist/0RaC2hXyniYsju0mCSNz90) | [悲傷的五個步驟 \(Live Session\)](https://open.spotify.com/album/2ABskKleNsgFb5qk7IXioh) | 3:09 |
 | 49 | [竊笑](https://open.spotify.com/track/6MLSFfBeiNWxyxjFrBbWom) | [Waa Wei](https://open.spotify.com/artist/190bkHbFrRvEhcB7Zpuv3y) | [藏著並不等於遺忘](https://open.spotify.com/album/6zgR5qC7jnvqYWeSEvHHov) | 3:42 |
-| 50 | [假男友](https://open.spotify.com/track/3EVdjgISSjvMSgPtov1vQX) | [Evan Yo](https://open.spotify.com/artist/7JY6f7uRdLtKSHbHlQXduV) | [我和我的布拉姆斯](https://open.spotify.com/album/3VrBcHcHB4BpiIlUL8aSTI) | 4:26 |
+| 50 | [悄悄告訴你](https://open.spotify.com/track/7j34mUd15g3RrhZzVx3CgB) | [Christine Fan](https://open.spotify.com/artist/1q7sCl0vg0EcaFdRz0XDGg) | [悄悄告訴你](https://open.spotify.com/album/42YXL6YhJBbP2ZM4WMUTkC) | 2:16 |
 
-Snapshot ID: `MCw5NzFlZWYzODY4ODA3MmNiNjYwN2NjMTg2ZTE4ODkyOWFmNzNmYTFk`
+Snapshot ID: `MCw5MzM1MGVjNWFmNzU1MDYxZTg2N2IzODc1MGQ1Yzk3YWQ4OTIyMWJm`

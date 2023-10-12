@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 
 > El futuro está acá\. Conoce a El Frizian en RADAR México.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,547 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,596 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 15 | [Moda](https://open.spotify.com/track/3y7SyqSwwDm8Ku6v3ZfQDf) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Moda](https://open.spotify.com/album/3cFGhTtaIJJfJWYkeNQ2o2) | 2:55 |
 | 16 | [Hasta la Raíz](https://open.spotify.com/track/4Bo8GqM6x6D1J3CsIjQJBl) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [Lo Que La Gente Estaba Esperando](https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm) | 2:46 |
 | 17 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 |
-| 18 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
-| 19 | [Anillos](https://open.spotify.com/track/2wtCxhHu42n7jKJy2erTgX) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Anillos](https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa) | 3:23 |
+| 18 | [Anillos](https://open.spotify.com/track/2wtCxhHu42n7jKJy2erTgX) | [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Anillos](https://open.spotify.com/album/4j3kQLs29ZZVxu2x3wkbYa) | 3:23 |
+| 19 | [Chorumbo](https://open.spotify.com/track/6LQn8zFYS44ak3qAUYsp8b) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi), [Hans el Oso](https://open.spotify.com/artist/6h5PZ6aYahlswhw0w7QXea) | [Chorumbo](https://open.spotify.com/album/6RPOQC6rd85F9Nuxp5W2Fh) | 3:20 |
 | 20 | [Porte de Scarface](https://open.spotify.com/track/5KX5GVCWkqAhGOaPGaLIBK) | [Chuy Montana](https://open.spotify.com/artist/12KipYva9312KrSBekytFE) | [Porte de Scarface](https://open.spotify.com/album/5bircs6AOMJQprSwCyAhnp) | 2:52 |
 | 21 | [Gente Corriente \- En Vivo](https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 2:27 |
 | 22 | [De Ladrillo a Ladrillo](https://open.spotify.com/track/2V3zb4cQ9uUUlD1817CKLH) | [Nueva Marca](https://open.spotify.com/artist/347cjywtc77d0NSfzullDJ) | [El Traje Naranja](https://open.spotify.com/album/2TbFYhfR18s3thSXeswrjD) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpJNWtkXDpL.md) - [plain]
 | 49 | [Me Voy Pa'l Infierno](https://open.spotify.com/track/2Z4UiHf6vgdoMtoU7FvpMc) | [Eme MalaFe](https://open.spotify.com/artist/4RFrAp13K0fHKH7IpSdKxi) | [Me Voy Pa'l Infierno](https://open.spotify.com/album/1WGlZO78Xjlb8chgRMLcTJ) | 3:07 |
 | 50 | [Cartier en Mano](https://open.spotify.com/track/3cL0YHP6FIE3fWIujhdGCu) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Cartier en Mano](https://open.spotify.com/album/1nXeA6b9XN2vuMBHX4AdlL) | 2:35 |
 
-Snapshot ID: `MCxjY2MyZTk3ZTBjODVjMTA0OTIzN2I5ZTVhN2U2YjVmYjYzOWVjNmI1`
+Snapshot ID: `MCxiNGE3NjIxMGZlZGQ5NWIzNjQ2Nzc1OWI5MGJkYmI1NWVmZTk0ZGIw`

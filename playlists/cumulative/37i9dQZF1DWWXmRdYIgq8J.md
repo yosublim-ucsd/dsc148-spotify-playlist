@@ -4,7 +4,7 @@
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-100 songs - 6 hr 51 min
+102 songs - 6 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,8 @@
 | [Bollywood](https://open.spotify.com/track/70zwaLKQHTsfnpopKJ8RZN) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd), [K RICH](https://open.spotify.com/artist/4APcCG1bHmbxwPjbEQ6YQA) | [Curry Que Riddim](https://open.spotify.com/album/3HzvqUiLh4iJD6TB096WLo) | 3:06 | 2021-10-21 | 2022-06-23 |
 | [Bread](https://open.spotify.com/track/5AGqmpRFDY5cD1LftIoa2X) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Bread](https://open.spotify.com/album/4Fz4hTJSQHTJmTozmkvCN5) | 3:47 | 2021-10-21 |  |
 | [Butterfly](https://open.spotify.com/track/6Xz4fhzvk63Dq9E9DYV8rP) | [Boyie Basdeo](https://open.spotify.com/artist/0pvWvE1P4HYC578HJaF50c) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:55 | 2021-10-21 |  |
-| [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 | 2021-10-21 |  |
+| [Carnival](https://open.spotify.com/track/2CuEoTltt7yzIT7ORP75Vy) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Xtatik Circus](https://open.spotify.com/album/2Fd7EJGE8564lHxKQclwAE) | 3:47 | 2023-09-29 |  |
+| [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 | 2021-10-21 | 2023-10-12 |
 | [Caroni Close Down](https://open.spotify.com/track/3dp0iCmm69qmzRROlU7oIX) | [Adesh Samaroo](https://open.spotify.com/artist/3Z2PCgLmSRet1U0gP0wD9r) | [Soca Gold 2004](https://open.spotify.com/album/79Q0kAtL1vFy2waaWO4h7c) | 3:54 | 2021-10-21 | 2022-06-23 |
 | [Caroni Gyul](https://open.spotify.com/track/5qhHMZXODYIWsQJwREJInM) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Dance Party King](https://open.spotify.com/album/6W01aEGIh0iNFZrbWPrj03) | 3:00 | 2023-09-06 |  |
 | [Chal Kechal](https://open.spotify.com/track/2vh3NvmYn1a6KSqpD05sLz) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Popo Greatest Hits, Vol\. 2](https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH) | 3:56 | 2022-06-22 |  |
@@ -78,7 +79,8 @@
 | [Loota La](https://open.spotify.com/track/1eVCGigGerjHtN7AWquWWV) | [Sonny Man](https://open.spotify.com/artist/2SbrAYu0L4qMgLntFj5oE6) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:02 | 2021-10-21 |  |
 | [Lootala](https://open.spotify.com/track/1XbEmKkEdifeicWVbhbS3T) | [Sonny Mann](https://open.spotify.com/artist/7ISdKLHNOk7qDf9vIRwCa0) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 5:02 | 2022-06-22 |  |
 | [Mohan Bina Gowna](https://open.spotify.com/track/03qQAIUvSjPUzeonHQvjgY) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 5:00 | 2022-06-22 |  |
-| [Mor Tor \(feat\. Rikki Jai\)](https://open.spotify.com/track/3bmJVnAl031qUqToopD8xg) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [The Xtatik Experience](https://open.spotify.com/album/1A16ile1jSMMEhMvoRH0WN) | 4:34 | 2021-10-21 |  |
+| [Mor Tor](https://open.spotify.com/track/7oCilb334fFHHuYlpDE4RR) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [The Xtatik Experience](https://open.spotify.com/album/5CYbWsXSKUZ9lAZNeRNFVf) | 4:34 | 2023-09-29 |  |
+| [Mor Tor \(feat\. Rikki Jai\)](https://open.spotify.com/track/3bmJVnAl031qUqToopD8xg) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [The Xtatik Experience](https://open.spotify.com/album/1A16ile1jSMMEhMvoRH0WN) | 4:34 | 2021-10-21 | 2023-10-12 |
 | [Motivation](https://open.spotify.com/track/0WYb24evCLcxM68UKSAL6I) | [Shal Marshall](https://open.spotify.com/artist/7mds6P3MvNyCg7l2QFpx6d) | [Motivation](https://open.spotify.com/album/0rOjGQxlQiNdFOzG30pCyX) | 3:21 | 2021-10-21 | 2022-06-23 |
 | [Mr Bissessar](https://open.spotify.com/track/0Jj7sZ5QmuYh7kB8vxYEo8) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 6:45 | 2021-10-21 | 2022-06-23 |
 | [Naina Bandh](https://open.spotify.com/track/42oKkHNgUzqyTPR4yGwOrg) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Popo Greatest Hits, Vol\. 2](https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH) | 5:23 | 2022-09-15 |  |

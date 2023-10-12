@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29911,
+  "num_followers": 29912,
   "original_name": "Svensk Punk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0NzNhYmEyYzlkYjcwNjdkNDE3Y2U1MzQ2NzNlYTViZDZkYjJlNmYw",
+  "snapshot_id": "MCxlZDdjZmZhMDMwOTgxZTMwOWM3MTBlNGQxMmQwODlkNzc3YzI3NjJm",
   "tracks": [
     {
       "added_at": "2023-09-28 22:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Kaos & Skr\u00e5l 85-87",
-        "url": "https://open.spotify.com/album/5JtGOYBzL27gSHV9XNoJjq"
-      },
-      "artists": [
-        {
-          "name": "Strebers",
-          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
-        }
-      ],
-      "duration_ms": 171373,
-      "name": "Betongbarn",
-      "url": "https://open.spotify.com/track/7kLPU9teUWCfCymYN5LAxU"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
         "name": "Ond saga",
         "url": "https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 204400,
       "name": "Sverigev\u00e4nner",
       "url": "https://open.spotify.com/track/74ZYleEd9SYtyziSyvaDb3"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "Kaos & Skr\u00e5l 85-87",
+        "url": "https://open.spotify.com/album/5JtGOYBzL27gSHV9XNoJjq"
+      },
+      "artists": [
+        {
+          "name": "Strebers",
+          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "Betongbarn",
+      "url": "https://open.spotify.com/track/7kLPU9teUWCfCymYN5LAxU"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -591,18 +591,18 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Ebba Gr\u00f6n 1978 - 1982",
-        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
+        "name": "Aktion",
+        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
       },
       "artists": [
         {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+          "name": "KSMB",
+          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
         }
       ],
-      "duration_ms": 149760,
-      "name": "Tyst f\u00f6r fan",
-      "url": "https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y"
+      "duration_ms": 109800,
+      "name": "En slemmig torsk",
+      "url": "https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
+        "name": "Ebba Gr\u00f6n 1978 - 1982",
+        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
+      },
+      "artists": [
+        {
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+        }
+      ],
+      "duration_ms": 149760,
+      "name": "Tyst f\u00f6r fan",
+      "url": "https://open.spotify.com/track/6NJNjEVI1AU7UYIrUZTd1Y"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
         "name": "Med is i magen",
         "url": "https://open.spotify.com/album/7CPT7qKCX5GRzEbWl0eRH2"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 167480,
       "name": "Psykist Instabil",
       "url": "https://open.spotify.com/track/58iJFpZzIWeGEvDJ0YSUBO"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
-        "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
-      },
-      "artists": [
-        {
-          "name": "Strebers",
-          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
-        }
-      ],
-      "duration_ms": 143560,
-      "name": "Balladen Om Lilla Elsa",
-      "url": "https://open.spotify.com/track/1K0fEr5SmhneWgbnP8HmzM"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -671,18 +671,18 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Aktion",
-        "url": "https://open.spotify.com/album/6BtyzpnUEoF5iZOdKceke6"
+        "name": "Kallt St\u00e5l, Varmt Blod + I F\u00e4drens Sp\u00e5r",
+        "url": "https://open.spotify.com/album/1rceLyJ9uvN9FSF9wqgz3t"
       },
       "artists": [
         {
-          "name": "KSMB",
-          "url": "https://open.spotify.com/artist/5umOft7CgVOutNpa0rGX71"
+          "name": "Strebers",
+          "url": "https://open.spotify.com/artist/5SySCVwCUP7piTTeJdlYbZ"
         }
       ],
-      "duration_ms": 109800,
-      "name": "En slemmig torsk",
-      "url": "https://open.spotify.com/track/0lHqNKA2IX8MzQwLNPbbY8"
+      "duration_ms": 143560,
+      "name": "Balladen Om Lilla Elsa",
+      "url": "https://open.spotify.com/track/1K0fEr5SmhneWgbnP8HmzM"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Ebba Gr\u00f6n 1978 - 1982",
-        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
-      },
-      "artists": [
-        {
-          "name": "Ebba Gr\u00f6n",
-          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
-        }
-      ],
-      "duration_ms": 177426,
-      "name": "Mamma pappa barn",
-      "url": "https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
         "name": "Grit",
         "url": "https://open.spotify.com/album/5j376oRcfB6bEovuA5Ssod"
       },
@@ -763,22 +747,6 @@
       "duration_ms": 174753,
       "name": "Jag l\u00e4mnar festen",
       "url": "https://open.spotify.com/track/0BizThcD0irhGDGoZNCn1z"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
-        "url": "https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD"
-      },
-      "artists": [
-        {
-          "name": "Asta Kask",
-          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
-        }
-      ],
-      "duration_ms": 196840,
-      "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
-      "url": "https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -799,6 +767,22 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
+        "name": "Ebba Gr\u00f6n 1978 - 1982",
+        "url": "https://open.spotify.com/album/2zP275pJAbZbZFifh5av6R"
+      },
+      "artists": [
+        {
+          "name": "Ebba Gr\u00f6n",
+          "url": "https://open.spotify.com/artist/2gvwV7CcpLmKyaE0fiSKI9"
+        }
+      ],
+      "duration_ms": 177426,
+      "name": "Mamma pappa barn",
+      "url": "https://open.spotify.com/track/3SDQawERiP8UyxFE88A9hj"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
         "name": "Gbg Noir",
         "url": "https://open.spotify.com/album/6ekcmRIvx0kvzrex5j1lNN"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 182526,
       "name": "Svegregationen",
       "url": "https://open.spotify.com/track/1JTg3ZsOwIpsqdpEKnhGmA"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
+        "url": "https://open.spotify.com/album/21LbuPxwosjUCIK7QSKgHD"
+      },
+      "artists": [
+        {
+          "name": "Asta Kask",
+          "url": "https://open.spotify.com/artist/5rGLwYZPJr2rUTiDk5JoWX"
+        }
+      ],
+      "duration_ms": 196840,
+      "name": "N\u00e5gra J\u00e4vla Sp\u00e4nn",
+      "url": "https://open.spotify.com/track/02cd00xSj7jM688uxVg6qU"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "[emo]",
-        "url": "https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP"
-      },
-      "artists": [
-        {
-          "name": "Kardinal Synd",
-          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
-        }
-      ],
-      "duration_ms": 192362,
-      "name": "Simpel Matematik",
-      "url": "https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
         "name": "Alla sover",
         "url": "https://open.spotify.com/album/6Ey1sBXBiOW7Y3QCyenE0v"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 167648,
       "name": "Brinner",
       "url": "https://open.spotify.com/track/30UvZ7ZoerQChs2wLgTuqR"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
+        "name": "[emo]",
+        "url": "https://open.spotify.com/album/57RyBvC6QTcd13XRfo9MDP"
+      },
+      "artists": [
+        {
+          "name": "Kardinal Synd",
+          "url": "https://open.spotify.com/artist/32KVyD0F48q3QNpSET788O"
+        }
+      ],
+      "duration_ms": 192362,
+      "name": "Simpel Matematik",
+      "url": "https://open.spotify.com/track/3v0YqaZ4UG78gzaQDiPbAQ"
     },
     {
       "added_at": "2023-09-28 22:00:00",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
+        "name": "Krymplings",
+        "url": "https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj"
+      },
+      "artists": [
+        {
+          "name": "Krymplings",
+          "url": "https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ"
+        }
+      ],
+      "duration_ms": 152066,
+      "name": "Jag Vill Ha En Slav",
+      "url": "https://open.spotify.com/track/4xO1DQ3opSAtufO7oNP0C4"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
         "name": "Grabbarna p\u00e5 Stan",
         "url": "https://open.spotify.com/album/2z09iMiqlIO4Jr3aWxfr4D"
       },
@@ -999,22 +1015,6 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
-        "name": "Krymplings",
-        "url": "https://open.spotify.com/album/6lHYeeAQXLPGqEM4wSXlKj"
-      },
-      "artists": [
-        {
-          "name": "Krymplings",
-          "url": "https://open.spotify.com/artist/4kLL8wxwaGFZNFzfS0mPuZ"
-        }
-      ],
-      "duration_ms": 152066,
-      "name": "Jag Vill Ha En Slav",
-      "url": "https://open.spotify.com/track/4xO1DQ3opSAtufO7oNP0C4"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
         "name": "\u00c4ndras och f\u00f6r\u00e4ndra",
         "url": "https://open.spotify.com/album/1CBwaG5G67eyftT3LhOAOA"
       },
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2023-09-28 22:00:00",
       "album": {
+        "name": "Alderland",
+        "url": "https://open.spotify.com/album/4ucaMCI586k92aFtZvLRcG"
+      },
+      "artists": [
+        {
+          "name": "Mimikry",
+          "url": "https://open.spotify.com/artist/0LQT5piMqjwpMkchYLfDxv"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Kom och dansa lite",
+      "url": "https://open.spotify.com/track/0WJwf0lJbVtS7Qz2gkoaje"
+    },
+    {
+      "added_at": "2023-09-28 22:00:00",
+      "album": {
         "name": "Ond saga",
         "url": "https://open.spotify.com/album/4ZjxaSk7kgGkWIttkK7D0X"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 140653,
       "name": "Dom br\u00e4nner bilar",
       "url": "https://open.spotify.com/track/5yVfBRMPGnNDFZiUJWX0bN"
-    },
-    {
-      "added_at": "2023-09-28 22:00:00",
-      "album": {
-        "name": "Borgerlig begravning",
-        "url": "https://open.spotify.com/album/7CrfHrApj1K5LpjSyiSUYH"
-      },
-      "artists": [
-        {
-          "name": "Borgerlig Begravning",
-          "url": "https://open.spotify.com/artist/58oxi3Ei1SHkiWTZ1DP33q"
-        }
-      ],
-      "duration_ms": 121510,
-      "name": "Va\u0308gra",
-      "url": "https://open.spotify.com/track/1xKkbE6TAk0fw982WRofnl"
     }
   ],
   "unique_name": "Svensk Punk",

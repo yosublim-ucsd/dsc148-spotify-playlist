@@ -1,12 +1,12 @@
 {
   "description": "2015 highlights from the home of indie music.",
-  "num_followers": 54613,
+  "num_followers": 54672,
   "original_name": "Best of Indie 2015",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MTZhNjQ0Y2NlOTk3Yjg5MDliNDg2YzYxOTQxMjg1ZjZhYzQ1MTg1",
+  "snapshot_id": "MCw3YzkyYzdlMjRkNmNiZWVmNGJjZDE0ZmIzYWNmMzFlNzVlY2QwM2Zl",
   "tracks": [
     {
       "added_at": "2021-09-14 05:14:45",
@@ -671,22 +671,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "b'lieve i'm goin down...",
-        "url": "https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR"
-      },
-      "artists": [
-        {
-          "name": "Kurt Vile",
-          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
-        }
-      ],
-      "duration_ms": 298760,
-      "name": "Pretty Pimpin",
-      "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 173173,
       "name": "Mess Around",
       "url": "https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        }
+      ],
+      "duration_ms": 224061,
+      "name": "Love Like Ghosts",
+      "url": "https://open.spotify.com/track/4UGoW08gaqIEWNTam1UNen"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -719,6 +719,22 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
+        "name": "b'lieve i'm goin down...",
+        "url": "https://open.spotify.com/album/07W2z9W0uWJPdG8Po0MDiR"
+      },
+      "artists": [
+        {
+          "name": "Kurt Vile",
+          "url": "https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2"
+        }
+      ],
+      "duration_ms": 298760,
+      "name": "Pretty Pimpin",
+      "url": "https://open.spotify.com/track/47cNDW1xyM03mT2kseO41a"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
         "name": "Our Own House",
         "url": "https://open.spotify.com/album/726GB3GTBwPdsGr5XzOQbz"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 186440,
       "name": "Reflections",
       "url": "https://open.spotify.com/track/2PtBhfoPZ6VYtXkrE5FrCH"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
-      },
-      "artists": [
-        {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
-        }
-      ],
-      "duration_ms": 224061,
-      "name": "Love Like Ghosts",
-      "url": "https://open.spotify.com/track/4UGoW08gaqIEWNTam1UNen"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -867,22 +867,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Multi-Love",
-        "url": "https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR"
-      },
-      "artists": [
-        {
-          "name": "Unknown Mortal Orchestra",
-          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
-        }
-      ],
-      "duration_ms": 250800,
-      "name": "Multi-Love",
-      "url": "https://open.spotify.com/track/1XKAeevAbxSSMuTcRT0APS"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Kids In Love",
         "url": "https://open.spotify.com/album/4M2p2BIRHIeBu8Ew9IBQ0s"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 166893,
       "name": "I'm Good",
       "url": "https://open.spotify.com/track/5KQDGl3vAkNGyfvSbaW89E"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Multi-Love",
+        "url": "https://open.spotify.com/album/2aoI8tkPq9NBvGiARD0KoR"
+      },
+      "artists": [
+        {
+          "name": "Unknown Mortal Orchestra",
+          "url": "https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp"
+        }
+      ],
+      "duration_ms": 250800,
+      "name": "Multi-Love",
+      "url": "https://open.spotify.com/track/1XKAeevAbxSSMuTcRT0APS"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -947,22 +947,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Peripheral Vision",
-        "url": "https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7"
-      },
-      "artists": [
-        {
-          "name": "Turnover",
-          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
-        }
-      ],
-      "duration_ms": 195984,
-      "name": "Cutting My Fingers Off",
-      "url": "https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 274704,
       "name": "Fool for Love",
       "url": "https://open.spotify.com/track/77x96TdWdkIia82QqU35SD"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Peripheral Vision",
+        "url": "https://open.spotify.com/album/5On8s1irA6JETiDvt2VUy7"
+      },
+      "artists": [
+        {
+          "name": "Turnover",
+          "url": "https://open.spotify.com/artist/0gLjJuczGWhqKVMmVpIT52"
+        }
+      ],
+      "duration_ms": 195984,
+      "name": "Cutting My Fingers Off",
+      "url": "https://open.spotify.com/track/0Wl2RALqRacaIJhnlRHK8J"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -995,22 +995,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Every Open Eye",
-        "url": "https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM"
-      },
-      "artists": [
-        {
-          "name": "CHVRCHES",
-          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
-        }
-      ],
-      "duration_ms": 233769,
-      "name": "Clearest Blue",
-      "url": "https://open.spotify.com/track/7LvgXDcFRcu9zgWfZm65H0"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Dopamine",
         "url": "https://open.spotify.com/album/17l7MIu0Jh0tdgK7or9ovw"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 224373,
       "name": "Dopamine",
       "url": "https://open.spotify.com/track/62ZXL1CWLJDiDWUZUhfLfU"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Every Open Eye",
+        "url": "https://open.spotify.com/album/11kNM2Qz9AnObYsX3PQzuM"
+      },
+      "artists": [
+        {
+          "name": "CHVRCHES",
+          "url": "https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w"
+        }
+      ],
+      "duration_ms": 233769,
+      "name": "Clearest Blue",
+      "url": "https://open.spotify.com/track/7LvgXDcFRcu9zgWfZm65H0"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Yours, Dreamily,",
-        "url": "https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA"
-      },
-      "artists": [
-        {
-          "name": "The Arcs",
-          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
-        }
-      ],
-      "duration_ms": 235320,
-      "name": "Put a Flower in Your Pocket",
-      "url": "https://open.spotify.com/track/7BaDRi8gmRnOducT6KaOfc"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Shadow",
         "url": "https://open.spotify.com/album/6IoA01Eo4bfsXfEKBEisyG"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 224527,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/3sJQGz6WX2YIBaHsH3bRMq"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Yours, Dreamily,",
+        "url": "https://open.spotify.com/album/7GcnWeopUkyCwFFEt6RrsA"
+      },
+      "artists": [
+        {
+          "name": "The Arcs",
+          "url": "https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK"
+        }
+      ],
+      "duration_ms": 235320,
+      "name": "Put a Flower in Your Pocket",
+      "url": "https://open.spotify.com/track/7BaDRi8gmRnOducT6KaOfc"
     },
     {
       "added_at": "2021-09-14 05:14:45",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2021-09-14 05:14:45",
       "album": {
-        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
-        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
-      },
-      "artists": [
-        {
-          "name": "Courtney Barnett",
-          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
-        }
-      ],
-      "duration_ms": 230560,
-      "name": "Pedestrian at Best",
-      "url": "https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri"
-    },
-    {
-      "added_at": "2021-09-14 05:14:45",
-      "album": {
         "name": "Are You Alone?",
         "url": "https://open.spotify.com/album/732AeYhmKrOSU0G3pPnlkB"
       },
@@ -1467,6 +1451,22 @@
       "duration_ms": 249062,
       "name": "Downtown",
       "url": "https://open.spotify.com/track/4o9umFsPZmwRT5lve7QAps"
+    },
+    {
+      "added_at": "2021-09-14 05:14:45",
+      "album": {
+        "name": "Sometimes I Sit and Think, and Sometimes I Just Sit",
+        "url": "https://open.spotify.com/album/6PosCDToF5fOdEjTI5PsDX"
+      },
+      "artists": [
+        {
+          "name": "Courtney Barnett",
+          "url": "https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y"
+        }
+      ],
+      "duration_ms": 230560,
+      "name": "Pedestrian at Best",
+      "url": "https://open.spotify.com/track/7gsn3NxWLA0s0g9TmQlMri"
     },
     {
       "added_at": "2021-09-14 05:14:45",

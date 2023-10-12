@@ -1,12 +1,12 @@
 {
   "description": "That bouncy, groovy, dancey sound.",
-  "num_followers": 129456,
+  "num_followers": 129470,
   "original_name": "Choice Edit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2ZmJkMTYzNTI0MTZiYjBkOTllNzkwMGIzNWVmNDBjMjZmMWM1NWRm",
+  "snapshot_id": "MCwyNmZkYzlkN2U0ODY2YWJjODJiMjBkMmY1ODllZmExYWQ1NjRkZmVk",
   "tracks": [
     {
       "added_at": "2022-07-29 04:11:59",
@@ -609,22 +609,6 @@
       "url": "https://open.spotify.com/track/3pSpLYsOi6fZ6N0P962XaJ"
     },
     {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "Suddenly",
-        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
-      },
-      "artists": [
-        {
-          "name": "KYLE",
-          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
-        }
-      ],
-      "duration_ms": 121532,
-      "name": "Suddenly",
-      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
-    },
-    {
       "added_at": "2023-03-10 05:00:00",
       "album": {
         "name": "Inhale / Exhale (with Sabrina Claudio)",
@@ -643,6 +627,22 @@
       "duration_ms": 168888,
       "name": "Inhale / Exhale (with Sabrina Claudio)",
       "url": "https://open.spotify.com/track/4jhznF9z7jv08LIAtSZTnu"
+    },
+    {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "Suddenly",
+        "url": "https://open.spotify.com/album/1YQwstKxaZOEpeYfZrszfX"
+      },
+      "artists": [
+        {
+          "name": "KYLE",
+          "url": "https://open.spotify.com/artist/4qBgvVog0wzW75IQ48mU7v"
+        }
+      ],
+      "duration_ms": 121532,
+      "name": "Suddenly",
+      "url": "https://open.spotify.com/track/0TRW7Q3cR5KBFSgHcmxB7t"
     },
     {
       "added_at": "2023-10-06 05:19:16",
@@ -733,26 +733,6 @@
       "url": "https://open.spotify.com/track/1A4N6HrQfZQhwlhYW9bGiF"
     },
     {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "Intimidated",
-        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Mach-Hommy",
-          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
-        }
-      ],
-      "duration_ms": 183773,
-      "name": "$payforhaiti (feat. Mach-Hommy)",
-      "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
-    },
-    {
       "added_at": "2022-10-21 04:00:00",
       "album": {
         "name": "Chrome Bull",
@@ -771,6 +751,26 @@
       "duration_ms": 187938,
       "name": "Sneaky",
       "url": "https://open.spotify.com/track/6XkG4MmrybBwPUm2d4wD0c"
+    },
+    {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "Intimidated",
+        "url": "https://open.spotify.com/album/4BwfoXhDqTfiGS6pZueR9g"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Mach-Hommy",
+          "url": "https://open.spotify.com/artist/3ZMur3elMyOs248ah86NRk"
+        }
+      ],
+      "duration_ms": 183773,
+      "name": "$payforhaiti (feat. Mach-Hommy)",
+      "url": "https://open.spotify.com/track/5G1Xj9wn0TZRf7TSbiIY8M"
     },
     {
       "added_at": "2022-10-21 04:00:00",
@@ -1077,6 +1077,26 @@
       "url": "https://open.spotify.com/track/3nOK7iHFsy16nsIflFhGnP"
     },
     {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/1607XCpNlwbHG2ZY9OwtDl"
+      },
+      "artists": [
+        {
+          "name": "Raquel",
+          "url": "https://open.spotify.com/artist/2WKGwl7U3upSvwbJrBJSla"
+        },
+        {
+          "name": "Kofi",
+          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
+        }
+      ],
+      "duration_ms": 179006,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/1oCwqRH1deWph40WFy7zCB"
+    },
+    {
       "added_at": "2023-08-04 15:55:51",
       "album": {
         "name": "BACK 2 U",
@@ -1107,26 +1127,6 @@
       "duration_ms": 177483,
       "name": "day to day",
       "url": "https://open.spotify.com/track/6PawBhoe8BTRZIu2E7Drv1"
-    },
-    {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/1607XCpNlwbHG2ZY9OwtDl"
-      },
-      "artists": [
-        {
-          "name": "Raquel",
-          "url": "https://open.spotify.com/artist/2WKGwl7U3upSvwbJrBJSla"
-        },
-        {
-          "name": "Kofi",
-          "url": "https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld"
-        }
-      ],
-      "duration_ms": 179006,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/1oCwqRH1deWph40WFy7zCB"
     },
     {
       "added_at": "2022-08-05 04:16:42",
@@ -1305,6 +1305,22 @@
       "url": "https://open.spotify.com/track/7k765bfiLdo2d3NIUxu4KQ"
     },
     {
+      "added_at": "2022-07-30 02:24:25",
+      "album": {
+        "name": "damnshestamil",
+        "url": "https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm"
+      },
+      "artists": [
+        {
+          "name": "Priya Ragu",
+          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
+        }
+      ],
+      "duration_ms": 174062,
+      "name": "Good Love 2.0",
+      "url": "https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W"
+    },
+    {
       "added_at": "2022-11-11 05:00:00",
       "album": {
         "name": "Boundaries (DRAMA Remix)",
@@ -1323,22 +1339,6 @@
       "duration_ms": 220411,
       "name": "Boundaries - DRAMA Remix",
       "url": "https://open.spotify.com/track/7olP7S3e0XDQ08eisCHVgp"
-    },
-    {
-      "added_at": "2022-07-30 02:24:25",
-      "album": {
-        "name": "damnshestamil",
-        "url": "https://open.spotify.com/album/5Uape09ZvhDOfCmSqQN8Wm"
-      },
-      "artists": [
-        {
-          "name": "Priya Ragu",
-          "url": "https://open.spotify.com/artist/6iZTyHbQWGzpiWoyI0zz9F"
-        }
-      ],
-      "duration_ms": 174062,
-      "name": "Good Love 2.0",
-      "url": "https://open.spotify.com/track/5OAvraChe33vVCHMUBV38W"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1485,6 +1485,22 @@
       "url": "https://open.spotify.com/track/7tqs4OKzl896INyq5af4Qu"
     },
     {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "Sister Wives",
+        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
+      },
+      "artists": [
+        {
+          "name": "SadBoi",
+          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
+        }
+      ],
+      "duration_ms": 198842,
+      "name": "Sister Wives",
+      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
+    },
+    {
       "added_at": "2023-06-16 06:53:32",
       "album": {
         "name": "crave you",
@@ -1503,22 +1519,6 @@
       "duration_ms": 160863,
       "name": "crave you",
       "url": "https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy"
-    },
-    {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "Sister Wives",
-        "url": "https://open.spotify.com/album/4mLU0rGW0GooTEbWEaLNLt"
-      },
-      "artists": [
-        {
-          "name": "SadBoi",
-          "url": "https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd"
-        }
-      ],
-      "duration_ms": 198842,
-      "name": "Sister Wives",
-      "url": "https://open.spotify.com/track/2m1GCnwvUjyjIZp3WXjOoU"
     },
     {
       "added_at": "2022-11-11 05:00:00",
@@ -1541,6 +1541,22 @@
       "url": "https://open.spotify.com/track/329H2EaUO3fnG27NLD6mqn"
     },
     {
+      "added_at": "2023-03-31 06:27:27",
+      "album": {
+        "name": "Cruisin'",
+        "url": "https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm"
+      },
+      "artists": [
+        {
+          "name": "AMAKA",
+          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
+        }
+      ],
+      "duration_ms": 207194,
+      "name": "Cruisin'",
+      "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
+    },
+    {
       "added_at": "2023-06-16 06:53:32",
       "album": {
         "name": "Aint Mine (feat. Lay Bankz)",
@@ -1559,22 +1575,6 @@
       "duration_ms": 156014,
       "name": "Aint Mine (feat. Lay Bankz)",
       "url": "https://open.spotify.com/track/6BPmObReZ1rymdDoVD9QTw"
-    },
-    {
-      "added_at": "2023-03-31 06:27:27",
-      "album": {
-        "name": "Cruisin'",
-        "url": "https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm"
-      },
-      "artists": [
-        {
-          "name": "AMAKA",
-          "url": "https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa"
-        }
-      ],
-      "duration_ms": 207194,
-      "name": "Cruisin'",
-      "url": "https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje"
     },
     {
       "added_at": "2022-07-30 02:24:25",
@@ -1613,22 +1613,6 @@
       "url": "https://open.spotify.com/track/35WIVWDcONu3B64ZcYbPX6"
     },
     {
-      "added_at": "2023-04-21 04:00:15",
-      "album": {
-        "name": "Cascade",
-        "url": "https://open.spotify.com/album/3NhcazJqCvUZ4UZxB1eUnJ"
-      },
-      "artists": [
-        {
-          "name": "Kyle Lux",
-          "url": "https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Lover Loaded Fantasy",
-      "url": "https://open.spotify.com/track/1I0TJSqkMgFHaS9foB6OJ1"
-    },
-    {
       "added_at": "2022-05-02 22:05:00",
       "album": {
         "name": "Sis. He Wasn't the One",
@@ -1645,68 +1629,20 @@
       "url": "https://open.spotify.com/track/54C1z2GOnf08ZCykqMBiYc"
     },
     {
-      "added_at": "2023-05-26 04:00:00",
+      "added_at": "2023-04-21 04:00:15",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13"
+        "name": "Cascade",
+        "url": "https://open.spotify.com/album/3NhcazJqCvUZ4UZxB1eUnJ"
       },
       "artists": [
         {
-          "name": "Mysie",
-          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+          "name": "Kyle Lux",
+          "url": "https://open.spotify.com/artist/63g7H7tihdsX4LtRQioKrR"
         }
       ],
-      "duration_ms": 142624,
-      "name": "PLAY",
-      "url": "https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv"
-    },
-    {
-      "added_at": "2023-08-04 15:55:51",
-      "album": {
-        "name": "MY FAVORITE DRUG",
-        "url": "https://open.spotify.com/album/719fKUhTNVCTKd0mhlYIR5"
-      },
-      "artists": [
-        {
-          "name": "Peter $un",
-          "url": "https://open.spotify.com/artist/7cLB1w50gSrBCzcD68UMuG"
-        }
-      ],
-      "duration_ms": 183453,
-      "name": "MY FAVORITE DRUG",
-      "url": "https://open.spotify.com/track/52DsauCIVMK9a9lB2qXslC"
-    },
-    {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "BCN (HOME TO YOU)",
-        "url": "https://open.spotify.com/album/0c7xTfjQPNn9QwSr8I7Byd"
-      },
-      "artists": [
-        {
-          "name": "Jaylon Ashaun",
-          "url": "https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md"
-        }
-      ],
-      "duration_ms": 124588,
-      "name": "BCN (HOME TO YOU)",
-      "url": "https://open.spotify.com/track/0PVuDWvSOp0WFu2yfl7vjR"
-    },
-    {
-      "added_at": "2023-06-30 04:31:23",
-      "album": {
-        "name": "BURNA FONE",
-        "url": "https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg"
-      },
-      "artists": [
-        {
-          "name": "PANIA",
-          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
-        }
-      ],
-      "duration_ms": 159613,
-      "name": "BURNA FONE",
-      "url": "https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60"
+      "duration_ms": 154838,
+      "name": "Lover Loaded Fantasy",
+      "url": "https://open.spotify.com/track/1I0TJSqkMgFHaS9foB6OJ1"
     },
     {
       "added_at": "2023-08-25 17:07:43",
@@ -1725,6 +1661,38 @@
       "url": "https://open.spotify.com/track/4qIWpGpSRXtK5hJOR8MF5k"
     },
     {
+      "added_at": "2023-05-26 04:00:00",
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/3ZyxwnxqSbSdYpuUHFyP13"
+      },
+      "artists": [
+        {
+          "name": "Mysie",
+          "url": "https://open.spotify.com/artist/3rf7cB2o79L2LEcl9HIjAf"
+        }
+      ],
+      "duration_ms": 142624,
+      "name": "PLAY",
+      "url": "https://open.spotify.com/track/4FuIICqqCqELB9TxsxLqNv"
+    },
+    {
+      "added_at": "2023-06-30 04:31:23",
+      "album": {
+        "name": "BURNA FONE",
+        "url": "https://open.spotify.com/album/7lzAdbjppaETpFOUnKeazg"
+      },
+      "artists": [
+        {
+          "name": "PANIA",
+          "url": "https://open.spotify.com/artist/5amlDCKh0QTWhI6BOMn6Pf"
+        }
+      ],
+      "duration_ms": 159613,
+      "name": "BURNA FONE",
+      "url": "https://open.spotify.com/track/64UgDo4Tp0Ny8rTZDlRh60"
+    },
+    {
       "added_at": "2022-07-30 02:24:25",
       "album": {
         "name": "Hot Flavor",
@@ -1741,6 +1709,22 @@
       "url": "https://open.spotify.com/track/1TjdChJkvO0puE4YugH6ne"
     },
     {
+      "added_at": "2023-08-04 15:55:51",
+      "album": {
+        "name": "MY FAVORITE DRUG",
+        "url": "https://open.spotify.com/album/719fKUhTNVCTKd0mhlYIR5"
+      },
+      "artists": [
+        {
+          "name": "Peter $un",
+          "url": "https://open.spotify.com/artist/7cLB1w50gSrBCzcD68UMuG"
+        }
+      ],
+      "duration_ms": 183453,
+      "name": "MY FAVORITE DRUG",
+      "url": "https://open.spotify.com/track/52DsauCIVMK9a9lB2qXslC"
+    },
+    {
       "added_at": "2023-01-27 05:00:00",
       "album": {
         "name": "So Badly",
@@ -1755,6 +1739,22 @@
       "duration_ms": 230002,
       "name": "So Badly",
       "url": "https://open.spotify.com/track/1kQf4Q7IdIAJYK80DAj6eR"
+    },
+    {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "BCN (HOME TO YOU)",
+        "url": "https://open.spotify.com/album/0c7xTfjQPNn9QwSr8I7Byd"
+      },
+      "artists": [
+        {
+          "name": "Jaylon Ashaun",
+          "url": "https://open.spotify.com/artist/5dhseP7KiICmkxT5waM1Md"
+        }
+      ],
+      "duration_ms": 124588,
+      "name": "BCN (HOME TO YOU)",
+      "url": "https://open.spotify.com/track/0PVuDWvSOp0WFu2yfl7vjR"
     },
     {
       "added_at": "2023-06-30 04:31:23",
@@ -1793,6 +1793,26 @@
       "url": "https://open.spotify.com/track/2vRe7YtE1tpVarV1t9fqcu"
     },
     {
+      "added_at": "2023-10-06 05:19:16",
+      "album": {
+        "name": "The R&B You Love",
+        "url": "https://open.spotify.com/album/1IGcLVZl44MScNh7QFf9Xr"
+      },
+      "artists": [
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        },
+        {
+          "name": "Cozz",
+          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
+        }
+      ],
+      "duration_ms": 263974,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/0dGFloLLIZyAbD6EjuBVFL"
+    },
+    {
       "added_at": "2023-03-31 06:27:27",
       "album": {
         "name": "Waiting For",
@@ -1825,26 +1845,6 @@
       "url": "https://open.spotify.com/track/1RXm1hOSW6ITZOejiqiNEK"
     },
     {
-      "added_at": "2023-10-06 05:19:16",
-      "album": {
-        "name": "The R&B You Love",
-        "url": "https://open.spotify.com/album/1IGcLVZl44MScNh7QFf9Xr"
-      },
-      "artists": [
-        {
-          "name": "Kenyon Dixon",
-          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
-        },
-        {
-          "name": "Cozz",
-          "url": "https://open.spotify.com/artist/5oFkj1qSlyBUmV5d6Edgtq"
-        }
-      ],
-      "duration_ms": 263974,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/0dGFloLLIZyAbD6EjuBVFL"
-    },
-    {
       "added_at": "2023-01-20 05:00:00",
       "album": {
         "name": "Contact",
@@ -1863,18 +1863,26 @@
     {
       "added_at": "2022-08-19 04:18:44",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/5sYReub12sNsFbve68F3EL"
+        "name": "Take You Higher (Serebii & Arjuna Oakes Remix)",
+        "url": "https://open.spotify.com/album/3qRv6l2iSQNduRxZ4AS4OD"
       },
       "artists": [
         {
-          "name": "Luna Elle",
-          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        },
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        },
+        {
+          "name": "Arjuna Oakes",
+          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
         }
       ],
-      "duration_ms": 246387,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/68qSx0qS9nfVm4X0wFIBx1"
+      "duration_ms": 260545,
+      "name": "Take You Higher - Serebii & Arjuna Oakes Remix",
+      "url": "https://open.spotify.com/track/4fwlAd50vwI7q8KvzVPy6E"
     }
   ],
   "unique_name": "Choice Edit",

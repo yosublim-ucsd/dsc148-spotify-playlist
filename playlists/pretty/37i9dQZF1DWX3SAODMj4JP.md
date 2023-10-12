@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 
 > Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,447 likes - 69 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,589 likes - 69 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 38 | [Dear God \- Acoustic](https://open.spotify.com/track/4qCv9ASsTJ4kg8gsUWUaAD) | [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Anna Asbury](https://open.spotify.com/artist/7p0xoVWYGEFjgCsAaD0eHB) | [Dear God \(Acoustic\)](https://open.spotify.com/album/3gxqjuUVhBQ0Gb3tRZyD2m) | 3:37 |
 | 39 | [Abençoada](https://open.spotify.com/track/0aVX67dzetn3Wz5OQ0G7o2) | [Talita Barreto](https://open.spotify.com/artist/6hCE1qcuALXMkltFGrEM6Y) | [Abençoada](https://open.spotify.com/album/2Px3s6xmp09u79C7JHfWYW) | 3:09 |
 | 40 | [Jesus At The Center \(Bonus Track\) \- Acoustic](https://open.spotify.com/track/6BVAORpU07NGdy016XTA6M) | [Julia Vitória](https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi), [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn) | [Julia Vitória \- Acústico \(Ao Vivo\)](https://open.spotify.com/album/1nWfNDrH7U42YN7mcg96G8) | 4:56 |
-| 41 | [Sobre Viver](https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Do Meu Interior](https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I) | 2:39 |
-| 42 | [Qual É O Pensamento](https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Qual É O Pensamento](https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2) | 2:21 |
+| 41 | [Qual É O Pensamento](https://open.spotify.com/track/4wh1XOO2e38YuTxex4NOGi) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Qual É O Pensamento](https://open.spotify.com/album/48SFRBOf9TKjeNy8Penrj2) | 2:21 |
+| 42 | [Sobre Viver](https://open.spotify.com/track/4Eso7tnV2l0RinzqhZS5uU) | [Diego Karter](https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF) | [Do Meu Interior](https://open.spotify.com/album/7fOBtpFDjcVMxXjOCYA60I) | 2:39 |
 | 43 | [Tua Presença Vale Mais](https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g) | [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Tua Presença Vale Mais](https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq) | 6:00 |
 | 44 | [Só Penso Em Você \- Acústico](https://open.spotify.com/track/1Om4yaJpnDkrH6L3sA70D2) | [Mateus Brito](https://open.spotify.com/artist/12sMRxeNux6TB0Kz1rVcLN) | [Só Penso Em Você \(Acústico\)](https://open.spotify.com/album/1Zhps2KL1tFWr17ognMDJ1) | 6:00 |
 | 45 | [Mais Perto Quero Estar](https://open.spotify.com/track/35DUClZPzxnb92NcikSBJK) | [Matheus Rizzo](https://open.spotify.com/artist/6UHIabLGNVJuFaEODpWoPP) | [Mais Perto Quero Estar](https://open.spotify.com/album/0Fct6gWAW1dnLNUvxyaHXC) | 3:21 |
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX3SAODMj4JP.md) - [plain]
 | 65 | [Coração de Aprendiz](https://open.spotify.com/track/5Ua31J3jzDmyO9rP2FhtNy) | [Gabro](https://open.spotify.com/artist/3b1deiZvxBYGrkhWTIVddw) | [Coração de Aprendiz](https://open.spotify.com/album/7allOTOpfqAFglSPhZNnCz) | 5:03 |
 | 66 | [Meu Grande Amor \- Versão Cordas](https://open.spotify.com/track/5Qtirs1grBbL6IlqlBa97i) | [Giselle Knevitz](https://open.spotify.com/artist/2vJtvgrtI4T6edVZcC29SM), [Brasa Church Music](https://open.spotify.com/artist/3dkGpbI5k8lDZ4Sk1ykv4A) | [Meu Grande Amor \(Versão Cordas\)](https://open.spotify.com/album/2B1yYnuXCiZQ5GCDUHEdIe) | 7:22 |
 | 67 | [Corpo I](https://open.spotify.com/track/7tU7sxEqyLoguEGbjiiiRl) | [O Bairro Novo](https://open.spotify.com/artist/03lFVbrzJauPmQwZpiJ4zD) | [O Banquete](https://open.spotify.com/album/3S5w5Tta9oQ6LN2PNoWJ5l) | 4:40 |
-| 68 | [Visita](https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Visita](https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr) | 4:47 |
-| 69 | [Upper Room \- Acoustic/Live](https://open.spotify.com/track/2JzhTp2M56LLuatw7jQGV5) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Awake \(Deluxe\)](https://open.spotify.com/album/1OrZpETlp9ZUT1qbLvYMu0) | 3:54 |
+| 68 | [Upper Room \- Acoustic/Live](https://open.spotify.com/track/2JzhTp2M56LLuatw7jQGV5) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Awake \(Deluxe\)](https://open.spotify.com/album/1OrZpETlp9ZUT1qbLvYMu0) | 3:54 |
+| 69 | [Visita](https://open.spotify.com/track/657aCgepX1HRKoCNbFHWh6) | [Ana Tristão](https://open.spotify.com/artist/04sHHdilT7bBAzYRTtKLKC) | [Visita](https://open.spotify.com/album/78wHMwGlGTHNL70AxQYZGr) | 4:47 |
 
-Snapshot ID: `MCxlMTBjNDUwMzY1MzcyZDhiZjM4OGYzYTAwZTc0Nzg4NTBlMzlhYTE4`
+Snapshot ID: `MCxmZjdmZTIyZjgyYzAxY2M1MTQ3Y2M0MmViNzY1YzdlNTZmNWM5OGM1`

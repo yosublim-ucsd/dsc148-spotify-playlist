@@ -1,12 +1,12 @@
 {
   "description": "voc\u00ea e ele, voc\u00ea e ela, pique o casal mais mandrake da quebra tlgd. Foto: MC Mirella, Mc Gabzin",
-  "num_followers": 64228,
+  "num_followers": 64294,
   "original_name": "Casal Mandrake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTFjOTYzMzRiZDg3NWU0Y2ViOGI3NzM2ZTQ4YjY3NDAwMmNhZDU5",
+  "snapshot_id": "MCw0MDYzOWExOTRiMzkzNzcxYjMzMGE4NWJkNDQwMDRiOGQxZTQzYmI0",
   "tracks": [
     {
       "added_at": "2023-08-25 03:01:00",
@@ -847,30 +847,6 @@
     {
       "added_at": "2023-08-25 03:01:00",
       "album": {
-        "name": "Ainda",
-        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
-      },
-      "artists": [
-        {
-          "name": "MC Cabelinho",
-          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
-        },
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 154378,
-      "name": "Essa Noite",
-      "url": "https://open.spotify.com/track/6g0IE3b4slstOTvcm5D67J"
-    },
-    {
-      "added_at": "2023-08-25 03:01:00",
-      "album": {
         "name": "Lance Criminoso (feat. BK)",
         "url": "https://open.spotify.com/album/6JTwZgvuat1vaYfTAVn6Cy"
       },
@@ -895,6 +871,30 @@
       "duration_ms": 234098,
       "name": "Lance Criminoso (feat. BK)",
       "url": "https://open.spotify.com/track/2jZJ5d0KCiTP6de1NjyHPl"
+    },
+    {
+      "added_at": "2023-08-25 03:01:00",
+      "album": {
+        "name": "Ainda",
+        "url": "https://open.spotify.com/album/2YEX8OaLPGDd1SjhIipLjS"
+      },
+      "artists": [
+        {
+          "name": "MC Cabelinho",
+          "url": "https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW"
+        },
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 154378,
+      "name": "Essa Noite",
+      "url": "https://open.spotify.com/track/6g0IE3b4slstOTvcm5D67J"
     },
     {
       "added_at": "2023-08-25 03:01:00",

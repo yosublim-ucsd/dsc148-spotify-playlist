@@ -4,7 +4,7 @@
 
 > Música para enamorarse.
 
-184 songs - 11 hr 42 min
+185 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Amor del Bueno](https://open.spotify.com/track/2G74yhtIMW8tJY5I83dS4Z) | [Reyli Barba](https://open.spotify.com/artist/69BUYvpG9MbjCyIZfsFdhJ) | [Reyli En La Luna](https://open.spotify.com/album/3BLkomoXh6O4Sp2m9z4tiY) | 4:02 | 2021-12-06 |  |
 | [Antes de las Seis](https://open.spotify.com/track/5J5uyhoBZxJwmjy2Zg6DgF) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Sale el Sol](https://open.spotify.com/album/3gR578qnw47M30LVBTjrlW) | 2:54 | 2022-02-01 |  |
 | [Antes Que al Mío](https://open.spotify.com/track/69VfaraLe5onolFj90bgyj) | [Los Claxons](https://open.spotify.com/artist/4AgfaZvOiSS97uy5ekQ7bf) | [Camino a Encontrarte \(Edición Especial\)](https://open.spotify.com/album/25WLz1zNyzbXZnAMFZXpKW) | 3:01 | 2021-12-06 | 2023-08-21 |
-| [Así Te Pedí](https://open.spotify.com/track/79Le7RyHdaPC1eEZBpFm4x) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Extraños](https://open.spotify.com/album/3VgQqkogbq1J5tNxz0Cbbj) | 3:45 | 2022-02-01 |  |
+| [Así Te Pedí](https://open.spotify.com/track/79Le7RyHdaPC1eEZBpFm4x) | [Zeri](https://open.spotify.com/artist/1ISG0zSleX4gwbBf4AydB8) | [Extraños](https://open.spotify.com/album/3VgQqkogbq1J5tNxz0Cbbj) | 3:45 | 2022-02-01 | 2023-10-12 |
 | [Aunque no te pueda ver](https://open.spotify.com/track/2425UlXvkIkAEJAtAd8ROm) | [Alex Ubago](https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X) | [Fantasía o realidad](https://open.spotify.com/album/1RF8AaupRPlmA13HxSdWAe) | 4:26 | 2021-12-06 |  |
 | [Bemaste](https://open.spotify.com/track/1caKQ2Nqtr1eoczaB83cUz) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Bemaste](https://open.spotify.com/album/0A3QuRFlfoqdw8sIH9C9OO) | 2:24 | 2023-01-13 |  |
 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 | 2021-12-06 |  |
@@ -49,6 +49,7 @@
 | [Detalles \(Detalhes\)](https://open.spotify.com/track/6xRM0B2YnaCnl1RIfkp7Vy) | [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Grandes Exitos](https://open.spotify.com/album/7rGV6jvsjgHkT36VlGYBg7) | 5:06 | 2021-12-06 | 2022-06-27 |
 | [Devuélveme El Corazón](https://open.spotify.com/track/0AbUjX0KljK02Ts6q7YITU) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Devuélveme El Corazón](https://open.spotify.com/album/6bWoGN8NnZ5IHuwU7PBp3d) | 4:04 | 2022-02-01 | 2022-06-27 |
 | [Di Qué Sientes Tú](https://open.spotify.com/track/2k7oWwvj3bGQ68HnsC813H) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Di Qué Sientes Tú](https://open.spotify.com/album/0rVE9WVqyMwFX4HM98OnkC) | 3:56 | 2021-12-06 | 2022-07-25 |
+| [Durar](https://open.spotify.com/track/4z0YuBEZ29pCut5HtLeQ9Z) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Durar](https://open.spotify.com/album/5WGzrCnJgloOH4uau17Aug) | 3:19 | 2023-10-06 |  |
 | [Eazt](https://open.spotify.com/track/4et8cFiIp4NPpWfULoukzc) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [De Mi Para Ti](https://open.spotify.com/album/1GYQWPYnUhpVP2yJ4e8hFK) | 3:36 | 2022-02-01 |  |
 | [El Amar y el Querer](https://open.spotify.com/track/7wUt1v2ddVqPayC8EKDp5P) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 3:54 | 2022-02-01 |  |
 | [El Amor](https://open.spotify.com/track/02PDEtcbjtjIyllnqTZc7i) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP) | [Tiempo de otoño](https://open.spotify.com/album/4VBcX1U9nmizKpTSlcrXua) | 4:11 | 2022-09-06 |  |

@@ -406,7 +406,7 @@
           "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
         },
         {
-          "name": "Helmut Muller-Bruhl",
+          "name": "Helmut M\u00fcller-Br\u00fchl",
           "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
         }
       ],
@@ -458,7 +458,7 @@
           "url": "https://open.spotify.com/artist/6cMjCqXVEAqDZdiobyEkug"
         },
         {
-          "name": "Helmut Muller-Bruhl",
+          "name": "Helmut M\u00fcller-Br\u00fchl",
           "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
         }
       ],
@@ -1640,7 +1640,7 @@
           "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
         },
         {
-          "name": "Helmut Muller-Bruhl",
+          "name": "Helmut M\u00fcller-Br\u00fchl",
           "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
         }
       ],
@@ -1858,7 +1858,7 @@
           "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
         },
         {
-          "name": "Helmut Muller-Bruhl",
+          "name": "Helmut M\u00fcller-Br\u00fchl",
           "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
         }
       ],
@@ -2507,36 +2507,6 @@
     },
     {
       "album": {
-        "name": "Bach, J.S.: Violin Concertos, Bwv 1041-1043 and Bwv 1052",
-        "url": "https://open.spotify.com/album/3gVdwF8NhsO0Eb6UcqWcHN"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Kolja Blacher",
-          "url": "https://open.spotify.com/artist/6FkucmNzQ3NTwLS9lmNVRc"
-        },
-        {
-          "name": "Cologne Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
-        },
-        {
-          "name": "Helmut Muller-Bruhl",
-          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
-        }
-      ],
-      "date_added": "2021-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 332533,
-      "name": "Violin Concerto in A Minor, BWV 1041: II. Andante",
-      "url": "https://open.spotify.com/track/6iZyZPHl5Gg6A24unyzwk4"
-    },
-    {
-      "album": {
         "name": "Bach / Vivaldi: Violin Concertos",
         "url": "https://open.spotify.com/album/1Geh1XbooSlOjASPejshdD"
       },
@@ -2564,6 +2534,36 @@
       "duration_ms": 332666,
       "name": "Violin Concerto in A Minor, BWV 1041: II. Andante",
       "url": "https://open.spotify.com/track/5dYzs3iMIppOMLyuW1T93p"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Violin Concertos, Bwv 1041-1043 and Bwv 1052",
+        "url": "https://open.spotify.com/album/3gVdwF8NhsO0Eb6UcqWcHN"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Kolja Blacher",
+          "url": "https://open.spotify.com/artist/6FkucmNzQ3NTwLS9lmNVRc"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut M\u00fcller-Br\u00fchl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332533,
+      "name": "Violin Concerto in A Minor, BWV 1041: II. Andante",
+      "url": "https://open.spotify.com/track/6iZyZPHl5Gg6A24unyzwk4"
     },
     {
       "album": {
@@ -2597,36 +2597,6 @@
     },
     {
       "album": {
-        "name": "Bach, J.S.: Violin Concertos, Bwv 1041-1043 and Bwv 1052",
-        "url": "https://open.spotify.com/album/3gVdwF8NhsO0Eb6UcqWcHN"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Kolja Blacher",
-          "url": "https://open.spotify.com/artist/6FkucmNzQ3NTwLS9lmNVRc"
-        },
-        {
-          "name": "Cologne Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
-        },
-        {
-          "name": "Helmut Muller-Bruhl",
-          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
-        }
-      ],
-      "date_added": "2021-11-10",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 338333,
-      "name": "Violin Concerto in E Major, BWV 1042: II. Adagio",
-      "url": "https://open.spotify.com/track/2XQrouLv3QR2HCoDhz005Y"
-    },
-    {
-      "album": {
         "name": "Bach For Meditation (Swedish Edition)",
         "url": "https://open.spotify.com/album/1LvCjVmGwKR13Rq6dZHWe3"
       },
@@ -2654,6 +2624,36 @@
       "duration_ms": 341840,
       "name": "Violin Concerto in E Major, BWV 1042: II. Adagio",
       "url": "https://open.spotify.com/track/4kXQZtm4wH5neO5hTFd0gH"
+    },
+    {
+      "album": {
+        "name": "Bach, J.S.: Violin Concertos, Bwv 1041-1043 and Bwv 1052",
+        "url": "https://open.spotify.com/album/3gVdwF8NhsO0Eb6UcqWcHN"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Kolja Blacher",
+          "url": "https://open.spotify.com/artist/6FkucmNzQ3NTwLS9lmNVRc"
+        },
+        {
+          "name": "Cologne Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/16WKM2I7sY0uccRe5tlRc6"
+        },
+        {
+          "name": "Helmut M\u00fcller-Br\u00fchl",
+          "url": "https://open.spotify.com/artist/2A5MfDq59CDZg119HhLcT7"
+        }
+      ],
+      "date_added": "2021-11-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 338333,
+      "name": "Violin Concerto in E Major, BWV 1042: II. Adagio",
+      "url": "https://open.spotify.com/track/2XQrouLv3QR2HCoDhz005Y"
     },
     {
       "album": {

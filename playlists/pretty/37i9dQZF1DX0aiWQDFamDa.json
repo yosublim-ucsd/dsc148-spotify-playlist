@@ -1,12 +1,12 @@
 {
   "description": "Sad and gloomy instrumental Jazz.",
-  "num_followers": 43466,
+  "num_followers": 43504,
   "original_name": "Sad Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NmQwMzFlNzc1NzI1OTQ5MzI2YmRjMGU2MTA5NmY1OTU1ZTFiYWNl",
+  "snapshot_id": "MCw4MTU3Mzc2ZTgyMDMzN2FhOTkyZDU5OThkNDIyODEzMjc5MTUxZjJh",
   "tracks": [
     {
       "added_at": "2023-09-22 11:18:45",
@@ -211,22 +211,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Changes",
-        "url": "https://open.spotify.com/album/06JPE7P2u5IcjjNKdBeHee"
-      },
-      "artists": [
-        {
-          "name": "Geeder",
-          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
-        }
-      ],
-      "duration_ms": 225946,
-      "name": "Changes",
-      "url": "https://open.spotify.com/track/6Ps13ExvILGA2dYxhNCXG7"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "He Said She Got It Going",
         "url": "https://open.spotify.com/album/16dT2u1PffX5zPK7US1hwS"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 158075,
       "name": "He Said She Got It Going",
       "url": "https://open.spotify.com/track/5xvW6Jx9hLAR6j0fkFFdws"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/06JPE7P2u5IcjjNKdBeHee"
+      },
+      "artists": [
+        {
+          "name": "Geeder",
+          "url": "https://open.spotify.com/artist/65SoHM1qvoOmpiIBxWGAk1"
+        }
+      ],
+      "duration_ms": 225946,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/6Ps13ExvILGA2dYxhNCXG7"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -603,22 +603,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Compassion",
-        "url": "https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv"
-      },
-      "artists": [
-        {
-          "name": "Jenny Jones",
-          "url": "https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X"
-        }
-      ],
-      "duration_ms": 251442,
-      "name": "Compassion",
-      "url": "https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Gloomy Sunday",
         "url": "https://open.spotify.com/album/0avEbKExc2HwZGKcx7Eatk"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 193256,
       "name": "Gloomy Sunday",
       "url": "https://open.spotify.com/track/3EsTBtRYt524KQ5hSKVde3"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/1ZdxPS9TA5wuI201gxbabv"
+      },
+      "artists": [
+        {
+          "name": "Jenny Jones",
+          "url": "https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X"
+        }
+      ],
+      "duration_ms": 251442,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/6Pam6EgPKbExmLSPRTCRDL"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -683,22 +683,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
-      },
-      "artists": [
-        {
-          "name": "S\u00f8ren Bebe Trio",
-          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
-        }
-      ],
-      "duration_ms": 264920,
-      "name": "Alba",
-      "url": "https://open.spotify.com/track/0S2mPQyeW7ivA6HIyxR7pB"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Waveless Sea",
         "url": "https://open.spotify.com/album/0y5GVPzc0TspKuOMa8qF3s"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 239440,
       "name": "Waveless Sea",
       "url": "https://open.spotify.com/track/3U2J9LyloQzn8bTdc3BfF6"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/00TmCrY8qOym3jKstft5fx"
+      },
+      "artists": [
+        {
+          "name": "S\u00f8ren Bebe Trio",
+          "url": "https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI"
+        }
+      ],
+      "duration_ms": 264920,
+      "name": "Alba",
+      "url": "https://open.spotify.com/track/0S2mPQyeW7ivA6HIyxR7pB"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -823,22 +823,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Doubtful",
-        "url": "https://open.spotify.com/album/4hmQ6VCiK9XYc1HCTl8XPo"
-      },
-      "artists": [
-        {
-          "name": "Dorothy Lee",
-          "url": "https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud"
-        }
-      ],
-      "duration_ms": 224822,
-      "name": "Doubtful",
-      "url": "https://open.spotify.com/track/4fnBofV3Ou8nbpPxXj7n0B"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Remembrance",
         "url": "https://open.spotify.com/album/6dT2PVzDSBtjKXu4EhdezZ"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 244879,
       "name": "Remembrance",
       "url": "https://open.spotify.com/track/20idPJhwG1p86XbpNt5dAJ"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Doubtful",
+        "url": "https://open.spotify.com/album/4hmQ6VCiK9XYc1HCTl8XPo"
+      },
+      "artists": [
+        {
+          "name": "Dorothy Lee",
+          "url": "https://open.spotify.com/artist/3o48LBxfAf2DslosQYX6Ud"
+        }
+      ],
+      "duration_ms": 224822,
+      "name": "Doubtful",
+      "url": "https://open.spotify.com/track/4fnBofV3Ou8nbpPxXj7n0B"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -987,38 +987,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Blue Mist",
-        "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
-      },
-      "artists": [
-        {
-          "name": "Matt Marantz Quartet",
-          "url": "https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V"
-        }
-      ],
-      "duration_ms": 320957,
-      "name": "Pour It Out",
-      "url": "https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
-        "name": "Payton's Place",
-        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        }
-      ],
-      "duration_ms": 325400,
-      "name": "The Last Goodbye",
-      "url": "https://open.spotify.com/track/5AuLuhe6LXvVod82HxJtXO"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Searching",
         "url": "https://open.spotify.com/album/4mbAIA87RJPH09XAEdlmtV"
       },
@@ -1031,6 +999,38 @@
       "duration_ms": 208606,
       "name": "Searching",
       "url": "https://open.spotify.com/track/6psYARJ0RS8CNreEbKsCnD"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Think about that",
+        "url": "https://open.spotify.com/album/7qWpFNdlfnhWujIcby7yB9"
+      },
+      "artists": [
+        {
+          "name": "Bruce Willmington & Co",
+          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+        }
+      ],
+      "duration_ms": 166057,
+      "name": "Think about that",
+      "url": "https://open.spotify.com/track/36hGg9XIlY2jlLdQSclabi"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Blue Mist",
+        "url": "https://open.spotify.com/album/1Iz3gDxg8ebRb8lPZICLit"
+      },
+      "artists": [
+        {
+          "name": "Matt Marantz Quartet",
+          "url": "https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V"
+        }
+      ],
+      "duration_ms": 320957,
+      "name": "Pour It Out",
+      "url": "https://open.spotify.com/track/7GZ7kYUBPNm9whqDDeod1r"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Think about that",
-        "url": "https://open.spotify.com/album/7qWpFNdlfnhWujIcby7yB9"
+        "name": "Payton's Place",
+        "url": "https://open.spotify.com/album/0lohKc2RubArv0PbjXJYNB"
       },
       "artists": [
         {
-          "name": "Bruce Willmington & Co",
-          "url": "https://open.spotify.com/artist/0hY5GNx2g4D1ZtwrQRAY2y"
+          "name": "Nicholas Payton",
+          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
         }
       ],
-      "duration_ms": 166057,
-      "name": "Think about that",
-      "url": "https://open.spotify.com/track/36hGg9XIlY2jlLdQSclabi"
+      "duration_ms": 325400,
+      "name": "The Last Goodbye",
+      "url": "https://open.spotify.com/track/5AuLuhe6LXvVod82HxJtXO"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "A Hero Lives Another Day",
-        "url": "https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n"
-      },
-      "artists": [
-        {
-          "name": "Claudia Torrek",
-          "url": "https://open.spotify.com/artist/2vTJc7s0MUGFXfXVK8TypJ"
-        }
-      ],
-      "duration_ms": 186768,
-      "name": "A Hero Lives Another Day",
-      "url": "https://open.spotify.com/track/5R5fWpRXhe5YqmtZ2WPzw0"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "The Silver Lining",
         "url": "https://open.spotify.com/album/1clbyCl11JZL9cV00ldsVY"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 162887,
       "name": "Centre",
       "url": "https://open.spotify.com/track/4O44XcSyYrDUkNcKqi9aAl"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "A Hero Lives Another Day",
+        "url": "https://open.spotify.com/album/15BIymmR9Y0raWZcbcFs6n"
+      },
+      "artists": [
+        {
+          "name": "Claudia Torrek",
+          "url": "https://open.spotify.com/artist/2vTJc7s0MUGFXfXVK8TypJ"
+        }
+      ],
+      "duration_ms": 186768,
+      "name": "A Hero Lives Another Day",
+      "url": "https://open.spotify.com/track/5R5fWpRXhe5YqmtZ2WPzw0"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
+        "name": "Summer Love",
+        "url": "https://open.spotify.com/album/51LEUb1ZFtzAhyS4nFkKbC"
+      },
+      "artists": [
+        {
+          "name": "6th Street Jazz",
+          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
+        }
+      ],
+      "duration_ms": 197700,
+      "name": "It Rained All Night",
+      "url": "https://open.spotify.com/track/4I1VoLbdbu3YKrjoXeQONf"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
         "name": "Blue Romance",
         "url": "https://open.spotify.com/album/1SgyP8odpNQGFuRojV3XEH"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Summer Love",
-        "url": "https://open.spotify.com/album/51LEUb1ZFtzAhyS4nFkKbC"
-      },
-      "artists": [
-        {
-          "name": "6th Street Jazz",
-          "url": "https://open.spotify.com/artist/1EQvOf7PPTDB3s0q1y9eD1"
-        }
-      ],
-      "duration_ms": 197700,
-      "name": "It Rained All Night",
-      "url": "https://open.spotify.com/track/4I1VoLbdbu3YKrjoXeQONf"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Soul Dancer",
         "url": "https://open.spotify.com/album/4xPexgYDxOJDqYkf4DtAKs"
       },
@@ -1323,26 +1323,6 @@
       "duration_ms": 202802,
       "name": "Morning Thoughts",
       "url": "https://open.spotify.com/track/6RmrDk88DsK5ExQIT5EBee"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
-        "name": "Unsentimental",
-        "url": "https://open.spotify.com/album/1XetCzlMmbbOg5evN3Bp9d"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        }
-      ],
-      "duration_ms": 300618,
-      "name": "Unsentimental",
-      "url": "https://open.spotify.com/track/7JmMOryQFeykS1BEWInJSs"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1367,6 +1347,26 @@
       "duration_ms": 314763,
       "name": "I'll Keep Loving You",
       "url": "https://open.spotify.com/track/42q9VqB8ooQE5yn3mup3h8"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Unsentimental",
+        "url": "https://open.spotify.com/album/1XetCzlMmbbOg5evN3Bp9d"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "duration_ms": 300618,
+      "name": "Unsentimental",
+      "url": "https://open.spotify.com/track/7JmMOryQFeykS1BEWInJSs"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1803,18 +1803,26 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Stan Getz Plays (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
+        "name": "Monday",
+        "url": "https://open.spotify.com/album/6MLTVkvJZuAGeKp5ckAFGt"
       },
       "artists": [
         {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+          "name": "Portraits in Jazz",
+          "url": "https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a"
+        },
+        {
+          "name": "Claus Waidtl\u00f8w",
+          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
+        },
+        {
+          "name": "Nikolaj Hess",
+          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
         }
       ],
-      "duration_ms": 179160,
-      "name": "You Turned The Tables On Me",
-      "url": "https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f"
+      "duration_ms": 300261,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/3KiC7pKGqv6PygM8rLEISq"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1839,26 +1847,18 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Monday",
-        "url": "https://open.spotify.com/album/6MLTVkvJZuAGeKp5ckAFGt"
+        "name": "Stan Getz Plays (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5J8t5L6DsSDEtcRLJZCp7b"
       },
       "artists": [
         {
-          "name": "Portraits in Jazz",
-          "url": "https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a"
-        },
-        {
-          "name": "Claus Waidtl\u00f8w",
-          "url": "https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D"
-        },
-        {
-          "name": "Nikolaj Hess",
-          "url": "https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ"
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
         }
       ],
-      "duration_ms": 300261,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/3KiC7pKGqv6PygM8rLEISq"
+      "duration_ms": 179160,
+      "name": "You Turned The Tables On Me",
+      "url": "https://open.spotify.com/track/02ZDihrLEri1ZOF5pla55f"
     },
     {
       "added_at": "2023-09-22 11:18:45",
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2023-09-22 11:18:45",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/4SaSGPT2uxIgJcMSCNvO1x"
-      },
-      "artists": [
-        {
-          "name": "Freddie Hubbard",
-          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
-        }
-      ],
-      "duration_ms": 389733,
-      "name": "Body And Soul",
-      "url": "https://open.spotify.com/track/06xd6gNwwXK51BD4RJ0Khd"
-    },
-    {
-      "added_at": "2023-09-22 11:18:45",
-      "album": {
         "name": "Correlations",
         "url": "https://open.spotify.com/album/5nOt6TSNDJg8PUMhEb8nos"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 436000,
       "name": "Peace",
       "url": "https://open.spotify.com/track/4CLFbVUq0ccCuZr5Nka8AA"
+    },
+    {
+      "added_at": "2023-09-22 11:18:45",
+      "album": {
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/4SaSGPT2uxIgJcMSCNvO1x"
+      },
+      "artists": [
+        {
+          "name": "Freddie Hubbard",
+          "url": "https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em"
+        }
+      ],
+      "duration_ms": 389733,
+      "name": "Body And Soul",
+      "url": "https://open.spotify.com/track/06xd6gNwwXK51BD4RJ0Khd"
     },
     {
       "added_at": "2023-09-22 11:18:45",

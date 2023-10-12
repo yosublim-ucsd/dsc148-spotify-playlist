@@ -1,12 +1,12 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 303380,
+  "num_followers": 303366,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhN2ZmNGNiYjI0MzAyZTgyY2RiOGM2Mjc5NTkyZDlhMzhmMmQwMzc4",
+  "snapshot_id": "MCxlNDc2MDNiYzA1OWNkZmIyODdkODNjYzczODZhZDgzY2JkNmRlYThl",
   "tracks": [
     {
       "added_at": "2023-09-29 15:34:46",
@@ -983,6 +983,22 @@
     {
       "added_at": "2023-09-29 15:34:46",
       "album": {
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV"
+      },
+      "artists": [
+        {
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+        }
+      ],
+      "duration_ms": 166864,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21"
+    },
+    {
+      "added_at": "2023-09-29 15:34:46",
+      "album": {
         "name": "Luzes Apagadas",
         "url": "https://open.spotify.com/album/4wFOxzqJLIlt6x6P1zNaSH"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 222315,
       "name": "Luzes Apagadas",
       "url": "https://open.spotify.com/track/2mhI8Js7ZkMVwsQif3R5wZ"
-    },
-    {
-      "added_at": "2023-09-29 15:34:46",
-      "album": {
-        "name": "Tara",
-        "url": "https://open.spotify.com/album/6QvwRnOHrisFhMo9fSmLVV"
-      },
-      "artists": [
-        {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
-        }
-      ],
-      "duration_ms": 166864,
-      "name": "Tara",
-      "url": "https://open.spotify.com/track/4s2hl8ZqSkWHH9tGJ72F21"
     },
     {
       "added_at": "2023-09-29 15:34:46",
@@ -1143,6 +1143,26 @@
     {
       "added_at": "2023-09-29 15:34:46",
       "album": {
+        "name": "Contato",
+        "url": "https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL"
+      },
+      "artists": [
+        {
+          "name": "Ana Vilela",
+          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
+        },
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 193971,
+      "name": "Fala",
+      "url": "https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw"
+    },
+    {
+      "added_at": "2023-09-29 15:34:46",
+      "album": {
         "name": "V\u00eanus",
         "url": "https://open.spotify.com/album/3wFwGLDDKHn9QGVY7fNhNb"
       },
@@ -1167,26 +1187,6 @@
       "duration_ms": 230437,
       "name": "V\u00eanus (feat. A\u00edsha)",
       "url": "https://open.spotify.com/track/1k2yIXtCDKULmVqlhWQeNz"
-    },
-    {
-      "added_at": "2023-09-29 15:34:46",
-      "album": {
-        "name": "Contato",
-        "url": "https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL"
-      },
-      "artists": [
-        {
-          "name": "Ana Vilela",
-          "url": "https://open.spotify.com/artist/66mL7YE8rG9eCu4QgM64m4"
-        },
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 193971,
-      "name": "Fala",
-      "url": "https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw"
     },
     {
       "added_at": "2023-09-29 15:34:46",

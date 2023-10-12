@@ -4,7 +4,7 @@
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Estevie
 
-272 songs - 14 hr 2 min
+273 songs - 14 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,7 @@
 | [Aprendiendo por las Malas](https://open.spotify.com/track/0E1feCwQ9JoJ9jw5M6CcQF) | [Doris Anahí](https://open.spotify.com/artist/0Tubiaojq0PHvZahvXl1ju) | [Aprendiendo por las Malas](https://open.spotify.com/album/2981Dhu3mLI9a9HpfTClo3) | 3:13 | 2022-09-14 | 2023-03-04 |
 | [Aquí Te Espero](https://open.spotify.com/track/33vrRiIiut4rOFmkgorJD6) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Aquí Te Espero](https://open.spotify.com/album/7HTM9QDAoJ0GOegmJfgDOE) | 4:15 | 2023-08-18 |  |
 | [Arroz Con Leche](https://open.spotify.com/track/0KOLLA1pqLBYFvWy1qfHS1) | [Cachas De Oro](https://open.spotify.com/artist/17FY0cfPgTE9dHFHU7kxcU) | [Arroz Con Leche](https://open.spotify.com/album/5ofEPdxEML57Lnxcr1t5Yn) | 2:35 | 2022-09-14 | 2023-03-04 |
-| [ATEA AL AMOR](https://open.spotify.com/track/4EiTe99n0OysiRcL17F6HM) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [ATEA AL AMOR](https://open.spotify.com/album/1gwc6YNpzD9BfC1uiCoudQ) | 2:52 | 2023-09-01 |  |
+| [ATEA AL AMOR](https://open.spotify.com/track/4EiTe99n0OysiRcL17F6HM) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [ATEA AL AMOR](https://open.spotify.com/album/1gwc6YNpzD9BfC1uiCoudQ) | 2:52 | 2023-09-01 | 2023-10-12 |
 | [Atmosférica](https://open.spotify.com/track/7CkmacAafgK7mKnartEcJz) | [Mexico City Heartbreak](https://open.spotify.com/artist/6HCbitfK12jusZy0drIiqJ) | [Atmosférica](https://open.spotify.com/album/3SXUi0sFJxlgRKjtn8exL7) | 3:57 | 2023-03-03 | 2023-05-20 |
 | [Aunque No Estas](https://open.spotify.com/track/76MiTdO7DQj3rhsTquorrr) | [La Cassandra](https://open.spotify.com/artist/3hmwKzlTlScoWN4LoPhPKw) | [Lágrimas](https://open.spotify.com/album/3PTFecBLHp4dV9NZo6SSmT) | 3:31 | 2023-08-18 | 2023-09-23 |
 | [Azúcar y Miel](https://open.spotify.com/track/77YxTd1xU2vX8zQTM90tCS) | [Los Velvets](https://open.spotify.com/artist/2XwCyW0m2J8oTZZ3VIBVy5) | [Azúcar y Miel](https://open.spotify.com/album/66RHHesIVcYuJm0BkmajkK) | 3:12 | 2023-03-03 | 2023-04-22 |
@@ -109,6 +109,7 @@
 | [For Ya](https://open.spotify.com/track/02qrtIRuwbGgs2wCvdOFme) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:27 | 2023-08-22 |  |
 | [Funeral](https://open.spotify.com/track/2Z4syCA63OcBLOKcKUEdeY) | [Loyal Lobos](https://open.spotify.com/artist/26BPVK55HCqiBNb32TXfBf) | [Funeral](https://open.spotify.com/album/6Foa8yfowcB9oqqD4NcjHA) | 3:14 | 2023-03-31 | 2023-05-27 |
 | [Futuro](https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT) | [COASTCITY](https://open.spotify.com/artist/3U6AuiLSmMwlxgEDGZz9xj) | [Futuro](https://open.spotify.com/album/3f1hF4eTrVUq71O4Nj0Puf) | 4:02 | 2023-03-03 | 2023-05-27 |
+| [GAS](https://open.spotify.com/track/22Uq8APwbxC5vTuQaxswfJ) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [GAS](https://open.spotify.com/album/1E9i3K2aDCotq9DN9D3ZWB) | 2:27 | 2023-10-06 |  |
 | [Gimme Light](https://open.spotify.com/track/6OebtUbp6bdEzH2eFYvY7m) | [Cyn Santana](https://open.spotify.com/artist/4XiX7SyOMb1rbMIbOhTnwf) | [Gimme Light](https://open.spotify.com/album/4FHDVRc9bE0EYRSfdfxozr) | 2:29 | 2022-09-14 | 2023-03-04 |
 | [happy](https://open.spotify.com/track/1uMkOqwGtVFZLihwXe7WC6) | [Princess Nokia](https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL) | [i love you but this is goodbye](https://open.spotify.com/album/6gGk1hChE1H2vZpat7dw15) | 3:20 | 2023-03-17 | 2023-05-27 |
 | [Hasta Los Dientes](https://open.spotify.com/track/2U0jWXrxJUzWVlLsHttAXJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Familia](https://open.spotify.com/album/5Nn3fX7CuJo7tbibtqASmf) | 3:08 | 2023-08-18 |  |

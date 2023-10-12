@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 
 > Discover the Sound of ADE 2023! Bringing every form and shape of electronic music together, ADE offers a glimpse into some of the best of the 2,500+ artists and 1.000+ events coming your way this October.
 
-[Spotify](https://open.spotify.com/user/spotify) - 734,564 likes - 27 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 733,656 likes - 27 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 7 | [Rave 4 love](https://open.spotify.com/track/4sGzJs8jikSDbnpN0vXsuO) | [999999999](https://open.spotify.com/artist/6uD2LjPHUjxrpax0se17Nc) | [Rave 4 love](https://open.spotify.com/album/55Xq8cuPZ1qPTijcDm4qsU) | 5:01 |
 | 8 | [Let’s Get This](https://open.spotify.com/track/2cAjhYDrYaWtsfHRMlqRY6) | [Sally C](https://open.spotify.com/artist/3AkVHCDEo2WuaVtMglFfN8) | [Big Saldo’s Chunker 001](https://open.spotify.com/album/4LJjMamh9SEsMX8MbLhJz7) | 6:34 |
 | 9 | [Squeeze Me](https://open.spotify.com/track/1qev18TlW5KOrvlvkhWFF6) | [Kraak & Smaak](https://open.spotify.com/artist/7c5qu1gNlg8jWDzzmlp89O), [Ben Westbeech](https://open.spotify.com/artist/0qP3Irw4a8UFvXv6KQf3XM) | [Plastic People](https://open.spotify.com/album/29R3uyqxP5iXDnHnGXXqMe) | 3:17 |
-| 10 | [Love Those Who Fight](https://open.spotify.com/track/6JzuVyRDL8QwQKAQjL2BLk) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI) | [Love Those Who Fight With Passion And Faith EP](https://open.spotify.com/album/0YwynqGRepBEVhF0zNXhv6) | 7:48 |
+| 10 | [Love Those Who Fight](https://open.spotify.com/track/48ldhiVb5T8NjyQXXPHGgw) | [Chris Liebing](https://open.spotify.com/artist/21444lX8gpmOX36icLmbFI) | [Love Those Who Fight With Passion & Faith EP](https://open.spotify.com/album/0Nq6S0j2Yi6otLmWGpTPvg) | 7:48 |
 | 11 | [Gimme That Bounce](https://open.spotify.com/track/7jURkEKDVEm9sHueqUX0ko) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Gimme That Bounce](https://open.spotify.com/album/1aCIYDZTw34CIRq8Vr1VQv) | 3:37 |
 | 12 | [You Make Me Feel \(Mighty Real\) \- Gerd Janson Remix](https://open.spotify.com/track/2zfucZzMKhSTIelk0APsaE) | [Jimmy Somerville](https://open.spotify.com/artist/6LQeBFIfD4C22RJVVjQ6S7), [Gerd Janson](https://open.spotify.com/artist/4jLpm91Tyk2TRgv43bMfZO) | [You Make Me Feel \(Mighty Real\) \[Gerd Janson Remix\]](https://open.spotify.com/album/4P4fjw5ya3q04r2mo06xlF) | 6:52 |
 | 13 | [GOLDEN SZN](https://open.spotify.com/track/7n24EOW7ElKwtz5wXkzynQ) | [OGUZ](https://open.spotify.com/artist/2n6aFLFLpEBs61Kfy5EX5v), [Nyctonian](https://open.spotify.com/artist/7LexKs9s1tG7Ktkd7lMHBp) | [GOLDEN SZN](https://open.spotify.com/album/3qXVu7ROSjZ5YEdOwsK1FN) | 4:54 |
@@ -36,4 +36,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3FNkD0kDpDV.md) - [plain]
 | 26 | [92 Thing](https://open.spotify.com/track/70PoA9APZapULPaXRUSvpn) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Come Together](https://open.spotify.com/album/2qkjGCnCT0T3PYWNFr6buF) | 5:38 |
 | 27 | [Hop On \- FJAAK Remix](https://open.spotify.com/track/1BNF2g4QdSFN4TE4SAQpVk) | [Sterac](https://open.spotify.com/artist/2QFnCeEbTqsb0YUYpFl08v), [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [CROWD001: Raving Wasps](https://open.spotify.com/album/61uqowB1dOuBnGN0V1NQGs) | 4:22 |
 
-Snapshot ID: `MCwxZDVhMGNmNGM0MWY1MTdhZTcyZTZlZjBlZTk3OTNjOWFhMTg0Nzg3`
+Snapshot ID: `MCw4MzBlNzAxYzE2NDQ2OGI2ZDY3MTZjYjc5ZmFjNWVjM2UwN2M2MzA1`

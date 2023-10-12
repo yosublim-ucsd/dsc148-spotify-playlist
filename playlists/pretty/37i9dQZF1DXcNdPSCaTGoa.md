@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 
 > Mzansi's musical wealth and heritage in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,731 likes - 60 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,747 likes - 60 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 19 | [Impi](https://open.spotify.com/track/2kdQY3b6dDRGonyIzcWljc) | [Johnny Clegg & Juluka](https://open.spotify.com/artist/1n4XnQOYSixr8f3Is3EV2Q), [Sipho Mchunu](https://open.spotify.com/artist/6UdljVDipAuFot91tnnpPc) | [African Litany](https://open.spotify.com/album/5cptRgeHM4SByGORhN5w3t) | 4:45 |
 | 20 | [Live My Life](https://open.spotify.com/track/2WyxVcnJ1BcG5Lu2nrBQ8F) | [Winnie Khumalo](https://open.spotify.com/artist/68RaZmeZDIysd3dv5KPm1o) | [Just Wanna Live My Life](https://open.spotify.com/album/19kTXMajfFWCAwp86oImin) | 5:17 |
 | 21 | [Loliwe](https://open.spotify.com/track/1y9bfiGVKNMLoN0XR54S4z) | [Zahara](https://open.spotify.com/artist/6kw5sT8a7bcS9u7uVckgJq) | [Loliwe](https://open.spotify.com/album/7CLSR9UOYjRAQuDPxBckR0) | 4:32 |
-| 22 | [Special Star](https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 5:53 |
-| 23 | [The Way Kungakhona](https://open.spotify.com/track/7JmMvbFjmtlRuxBIMdXQvS) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Bongolution](https://open.spotify.com/album/5RzCqPIuJuK0L9v7J1WdVl) | 6:24 |
+| 22 | [The Way Kungakhona](https://open.spotify.com/track/7JmMvbFjmtlRuxBIMdXQvS) | [Bongo Maffin](https://open.spotify.com/artist/2eIjpwW853WkGtvIMukeRZ) | [Bongolution](https://open.spotify.com/album/5RzCqPIuJuK0L9v7J1WdVl) | 6:24 |
+| 23 | [Special Star](https://open.spotify.com/track/5mxIhvGxDJ56wxOQnDNHnt) | [Mango Groove](https://open.spotify.com/artist/2hvddonG8JzzHuYRbmI72J) | [Mango Groove](https://open.spotify.com/album/0wv0MS5ETAzzzZdcsIBPBl) | 5:53 |
 | 24 | [La Vida](https://open.spotify.com/track/6jSsEnwJ0LlKqxLYtDVj1U) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0) | [Mi Casa](https://open.spotify.com/album/3CiboCqyKx1jSZAAChiQyu) | 6:34 |
 | 25 | [Pluto \(Remember You\) \- Radio Edit](https://open.spotify.com/track/0MITF6fx2O1ClZnkC8jSfr) | [DJ Clock](https://open.spotify.com/artist/3hch3HvwEm28HCzxPgaCXg), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Pluto \(Remember You\)](https://open.spotify.com/album/5alvUiKME4gVY3qv6UlSwd) | 4:27 |
 | 26 | [Sana Luma \(That's The Way Love Is\)](https://open.spotify.com/track/6UiuOhWSurVn1DUcpdA6Vf) | [Zola](https://open.spotify.com/artist/2ymJS3hSwX5yiNdYroipCW) | [Khokhovula](https://open.spotify.com/album/5xmeO5jAS6KCMByzQD8Fdg) | 5:17 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 35 | [Feel Good](https://open.spotify.com/track/6o3P5XYvDDWWTbzoJMURZo) | [Lira](https://open.spotify.com/artist/1ChWj9EwLoK9J0hnHMgKHj) | [Feel Good](https://open.spotify.com/album/2AmhJ7jidf7ZijWlRRZ7gB) | 5:20 |
 | 36 | [Burn Out](https://open.spotify.com/track/0wqorlaFfScZh2Iqf9BvWD) | [Sipho 'Hotstix' Mabuse](https://open.spotify.com/artist/7MUhpMHsLOpEj7figPjCBx) | [The Ultimate 'Hotstix'](https://open.spotify.com/album/3UjSkBMpuXbgOMe9l54ZAw) | 4:54 |
 | 37 | [Nomvula \(After the Rain\)](https://open.spotify.com/track/6S1cd5F5cpflZq6bAXQmg1) | [Freshlyground](https://open.spotify.com/artist/7AcV1lk8Zrgo1691PDWEle) | [Nomvula](https://open.spotify.com/album/2kKXMbWFVcqYms0Y5WsjFx) | 4:43 |
-| 38 | [She Always Gets What She Wants](https://open.spotify.com/track/744BIWg7jNhpbCO2dkCwNG) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [All or Nothing](https://open.spotify.com/album/33bVAGWCw4CjpCAi2OAakA) | 3:44 |
-| 39 | [Sondela](https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Sondelani](https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j) | 5:30 |
+| 38 | [Sondela](https://open.spotify.com/track/43VwFP9q5lOrfLPfBvPtsg) | [Ringo Madlingozi](https://open.spotify.com/artist/3CR7n4hexD7pE3BRnLEDUJ) | [Sondelani](https://open.spotify.com/album/4R42gWyYsd9ybilmlcia1j) | 5:30 |
+| 39 | [She Always Gets What She Wants](https://open.spotify.com/track/744BIWg7jNhpbCO2dkCwNG) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [All or Nothing](https://open.spotify.com/album/33bVAGWCw4CjpCAi2OAakA) | 3:44 |
 | 40 | [Umlilo](https://open.spotify.com/track/5kA6K9yPB5pxbAufXKU5VV) | [Big Nuz](https://open.spotify.com/artist/0YeWW8LhLaoI9dM6YTFXKp) | [Undisputed](https://open.spotify.com/album/44qtVutaEvraS03nb3u7xC) | 6:29 |
 | 41 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 |
 | 42 | [Groovers Prayer](https://open.spotify.com/track/36RAIEs4JnZH2SQOVA0RxK) | [Thebe](https://open.spotify.com/artist/1aAwAVypEAUVCgMy67bprS) | [Lenyora](https://open.spotify.com/album/4kxZRm7DFKwEmwgqvMtAq4) | 5:41 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNdPSCaTGoa.md) - [plain]
 | 59 | [Umoya](https://open.spotify.com/track/6bCvf4kAFEUUCKheEZfDVF) | [Skwatta kamp](https://open.spotify.com/artist/6PzSxetFOE72bmEObwo8rl) | [Mkhukhu Funkshen](https://open.spotify.com/album/4nb42BsvE1J91pzixpk10T) | 4:35 |
 | 60 | [Mbuso's Revenge](https://open.spotify.com/track/4ZZ3OWpdPxsX5aBlLPz6B2) | [DJ Mbuso](https://open.spotify.com/artist/6SYbxrGWWJybDiZx1aqOb3) | [House Player](https://open.spotify.com/album/2CbZUpkxIDvJMyPy2JDSr6) | 6:10 |
 
-Snapshot ID: `MCxjMDQ5N2JjMDY0NjBjYjNhY2ZmOGU3MDFjNzQwZjQ0NmM5MWJjZjFk`
+Snapshot ID: `MCxiY2E0MTllZTJmMDEwYTM0MmQ0Y2FiYTQ0YjE4NDZmNGFhMDA5Mzk1`

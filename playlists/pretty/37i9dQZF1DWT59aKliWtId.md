@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 
 > The highest quality alternative blend ft\. Wilco
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,548 likes - 120 songs - 7 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,560 likes - 120 songs - 7 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,7 +117,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 107 | [My Entire Life](https://open.spotify.com/track/5k3DxjK0pyumrqWiRbSUL0) | [Susto](https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt) | [My Entire Life](https://open.spotify.com/album/0RlHHNuhYu4OAUMmo3gHzO) | 2:46 |
 | 108 | [Go Getter](https://open.spotify.com/track/4SuT3gebBDQuDgfmkMsjzn) | [Patrick Droney](https://open.spotify.com/artist/78Rk1F0jGdipWWfrhyWwt3) | [Go Getter](https://open.spotify.com/album/70hjGhT2FQRdYU7qShBj5L) | 4:03 |
 | 109 | [Sea Star](https://open.spotify.com/track/6alJoblCCJSKIxicui9cIv) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Angels In Science Fiction](https://open.spotify.com/album/3PNavLo012ZTOzWvt4lqQF) | 3:27 |
-| 110 | [Meshuggah](https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Meshuggah](https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93) | 4:37 |
+| 110 | [Meshuggah](https://open.spotify.com/track/7FpD6W73sZuEEp4dNRCwy9) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:37 |
 | 111 | [Winona](https://open.spotify.com/track/72svIlAUCr5gbM591DQkdJ) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Winona](https://open.spotify.com/album/2cwVHZrQ0eaaiUhCxW7glA) | 4:35 |
 | 112 | [Lord Have Mercy](https://open.spotify.com/track/73fzDLtCR3jMZrwNZlQXpo) | [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Wait Til I Get Over](https://open.spotify.com/album/3t5PKVYlbYXIiLIRDPPkp4) | 4:01 |
 | 113 | [Every Day Like the Last](https://open.spotify.com/track/1iJxsYXQI3uTGlChp7UqMB) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Every Day Like the Last](https://open.spotify.com/album/6C204NEUleEqcKH4igE8ZL) | 3:02 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT59aKliWtId.md) - [plain]
 | 119 | [Flowers in Your Hair](https://open.spotify.com/track/3r8tN8h34miJWeu5VuVzk3) | [Ben Goldsmith](https://open.spotify.com/artist/0PZ37cyRFUP9o9nCdfS8J8) | [Flowers in Your Hair](https://open.spotify.com/album/18jqHWp5uH00u051RM58zQ) | 3:47 |
 | 120 | [Haunted Mountain](https://open.spotify.com/track/45d44VPCRIW07tywccH8ii) | [Buck Meek](https://open.spotify.com/artist/4mYY0UqYdvgdz60psupYBR) | [Haunted Mountain](https://open.spotify.com/album/7acJeJoMsDIo1JdIBi4hRV) | 5:11 |
 
-Snapshot ID: `MCxmY2Q4ODg1NGEwZDVlZmVkODc1NmE4OWQyNzE1OGQ0ZTAwNzc0MGY5`
+Snapshot ID: `MCw3MzU5YWIwYzU3NmIxNDkwNWU4NGFjZDcyYmZkNjRhZDQxNWMwNDdk`

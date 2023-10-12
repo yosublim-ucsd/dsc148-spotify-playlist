@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Ana Mena",
-  "num_followers": 992711,
+  "num_followers": 991071,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZTczMmI5NGY5NGRlNjljNjQ4Mzk2NTlmY2I2NmE2N2MwYjJkZWU0",
+  "snapshot_id": "MCw2YWE0ZDJlNGExNjcyMDcwZDIwOGY5M2YwYmI4MWJmOGQyMjUxNjUz",
   "tracks": [
     {
       "added_at": "2023-10-09 15:39:18",
@@ -139,18 +139,22 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
-        "name": "Todo Contigo",
-        "url": "https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE"
+        "name": "ELLA TIENE",
+        "url": "https://open.spotify.com/album/0VSnZVbjbufIZYKwy3Rafu"
       },
       "artists": [
         {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
         }
       ],
-      "duration_ms": 165527,
-      "name": "Todo Contigo",
-      "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"
+      "duration_ms": 196800,
+      "name": "ELLA TIENE",
+      "url": "https://open.spotify.com/track/31YHWv22Lyv9iKBepk3guM"
     },
     {
       "added_at": "2023-10-09 15:39:18",
@@ -171,22 +175,18 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
-        "name": "ELLA TIENE",
-        "url": "https://open.spotify.com/album/0VSnZVbjbufIZYKwy3Rafu"
+        "name": "Todo Contigo",
+        "url": "https://open.spotify.com/album/2LmSTGw4yoSsPvKKMCJDkE"
       },
       "artists": [
         {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        },
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 196800,
-      "name": "ELLA TIENE",
-      "url": "https://open.spotify.com/track/31YHWv22Lyv9iKBepk3guM"
+      "duration_ms": 165527,
+      "name": "Todo Contigo",
+      "url": "https://open.spotify.com/track/4rQu72zFJz3qne1bnEkVSt"
     },
     {
       "added_at": "2023-10-09 15:39:18",
@@ -611,6 +611,26 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
+        "name": "Hablando En Plata",
+        "url": "https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "duration_ms": 188345,
+      "name": "Hablando En Plata",
+      "url": "https://open.spotify.com/track/0XFNQRApcucLu0RZdbDB9F"
+    },
+    {
+      "added_at": "2023-10-09 15:39:18",
+      "album": {
         "name": "cuando salto me duele",
         "url": "https://open.spotify.com/album/2MTsy6zxZYxcmm1VYkYySR"
       },
@@ -663,22 +683,6 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
-        "name": "Canci\u00f3n de pop",
-        "url": "https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH"
-      },
-      "artists": [
-        {
-          "name": "Funzo & Baby Loud",
-          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
-        }
-      ],
-      "duration_ms": 139876,
-      "name": "Canci\u00f3n de pop",
-      "url": "https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD"
-    },
-    {
-      "added_at": "2023-10-09 15:39:18",
-      "album": {
         "name": "Me Siento Vivo",
         "url": "https://open.spotify.com/album/6ApKdCJZ8OeDoBDLHhvFkD"
       },
@@ -691,6 +695,22 @@
       "duration_ms": 222955,
       "name": "Me Siento Vivo",
       "url": "https://open.spotify.com/track/0uXCMVywxTkzSL2PU8JZx7"
+    },
+    {
+      "added_at": "2023-10-09 15:39:18",
+      "album": {
+        "name": "Canci\u00f3n de pop",
+        "url": "https://open.spotify.com/album/0GonIhSgK1AuasYbr8xbYH"
+      },
+      "artists": [
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 139876,
+      "name": "Canci\u00f3n de pop",
+      "url": "https://open.spotify.com/track/3rnQohmD9nBKD6mMX6QQJD"
     },
     {
       "added_at": "2023-10-09 15:39:18",
@@ -727,26 +747,6 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
-        "name": "Hablando En Plata",
-        "url": "https://open.spotify.com/album/0fqseXlgVCLiM6B2vkr1eW"
-      },
-      "artists": [
-        {
-          "name": "Melendi",
-          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
-        },
-        {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
-        }
-      ],
-      "duration_ms": 188345,
-      "name": "Hablando En Plata",
-      "url": "https://open.spotify.com/track/0XFNQRApcucLu0RZdbDB9F"
-    },
-    {
-      "added_at": "2023-10-09 15:39:18",
-      "album": {
         "name": "RESPIRAR",
         "url": "https://open.spotify.com/album/2mdpPhNB6O4BDobUFxI7ai"
       },
@@ -775,6 +775,22 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
+        "name": "PIDE UN DESEO",
+        "url": "https://open.spotify.com/album/62ClhtV0bdAzAJkvBGKx26"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "duration_ms": 190434,
+      "name": "PIDE UN DESEO",
+      "url": "https://open.spotify.com/track/1GBf0EYr9qC7KAPbrOHaf8"
+    },
+    {
+      "added_at": "2023-10-09 15:39:18",
+      "album": {
         "name": "Un Rato pa Siempre",
         "url": "https://open.spotify.com/album/6VkLEGEcb8GBrHPbpVC21m"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 163505,
       "name": "Un Rato pa Siempre",
       "url": "https://open.spotify.com/track/3rEBrW8QTAq0lZiZX8LNBL"
-    },
-    {
-      "added_at": "2023-10-09 15:39:18",
-      "album": {
-        "name": "PIDE UN DESEO",
-        "url": "https://open.spotify.com/album/62ClhtV0bdAzAJkvBGKx26"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "duration_ms": 190434,
-      "name": "PIDE UN DESEO",
-      "url": "https://open.spotify.com/track/1GBf0EYr9qC7KAPbrOHaf8"
     },
     {
       "added_at": "2023-10-09 15:39:18",
@@ -847,22 +847,6 @@
       "duration_ms": 162500,
       "name": "En el mismo bar",
       "url": "https://open.spotify.com/track/06LzzgytKKWpG9T7fRRyR9"
-    },
-    {
-      "added_at": "2023-10-09 15:39:18",
-      "album": {
-        "name": "Nunca Volver\u00e1s",
-        "url": "https://open.spotify.com/album/70OIgcMqyr0fKYwZCvdVY9"
-      },
-      "artists": [
-        {
-          "name": "Vicco",
-          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
-        }
-      ],
-      "duration_ms": 171440,
-      "name": "Nunca Volver\u00e1s",
-      "url": "https://open.spotify.com/track/1b9sYsa4aFiBv7mqOKvwsM"
     },
     {
       "added_at": "2023-10-09 15:39:18",
@@ -911,6 +895,22 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
+        "name": "Nunca Volver\u00e1s",
+        "url": "https://open.spotify.com/album/70OIgcMqyr0fKYwZCvdVY9"
+      },
+      "artists": [
+        {
+          "name": "Vicco",
+          "url": "https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w"
+        }
+      ],
+      "duration_ms": 171440,
+      "name": "Nunca Volver\u00e1s",
+      "url": "https://open.spotify.com/track/1b9sYsa4aFiBv7mqOKvwsM"
+    },
+    {
+      "added_at": "2023-10-09 15:39:18",
+      "album": {
         "name": "PELICULA",
         "url": "https://open.spotify.com/album/6YcKaIbQw3sMtbhSXQZ6CZ"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-10-09 15:39:18",
       "album": {
-        "name": "TE TRAJE FLORES",
-        "url": "https://open.spotify.com/album/4dzuTa3xJlpktfUcbp5i83"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "duration_ms": 184792,
-      "name": "TE TRAJE FLORES",
-      "url": "https://open.spotify.com/track/4SRojgjWd8Vqc40sicAEC8"
-    },
-    {
-      "added_at": "2023-10-09 15:39:18",
-      "album": {
         "name": "Que se caiga el cielo",
         "url": "https://open.spotify.com/album/3OS2rIj6cyb2K34ATaVh2t"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 227628,
       "name": "Que se caiga el cielo",
       "url": "https://open.spotify.com/track/5hpOWFyKa1hvE5DnCoGV2A"
+    },
+    {
+      "added_at": "2023-10-09 15:39:18",
+      "album": {
+        "name": "TE TRAJE FLORES",
+        "url": "https://open.spotify.com/album/4dzuTa3xJlpktfUcbp5i83"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "duration_ms": 184792,
+      "name": "TE TRAJE FLORES",
+      "url": "https://open.spotify.com/track/4SRojgjWd8Vqc40sicAEC8"
     },
     {
       "added_at": "2023-10-09 15:39:18",

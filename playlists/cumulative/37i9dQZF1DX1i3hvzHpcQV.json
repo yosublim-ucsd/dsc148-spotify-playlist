@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Badass (From \"Leo\")",
+        "url": "https://open.spotify.com/album/4f9WYw6XMUlo3O9dJ15HvP"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229677,
+      "name": "Badass (From \"Leo\")",
+      "url": "https://open.spotify.com/track/32qnBgfzURbwNayQIEB5W5"
+    },
+    {
+      "album": {
         "name": "Bae (From \"Don\")",
         "url": "https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4"
       },

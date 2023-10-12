@@ -4,7 +4,7 @@
 
 > The biggest rock bands/artists in Japan right now! Cover: Sambomaster\(サンボマスター\)
 
-839 songs - 2 day 7 hr 59 min
+840 songs - 2 day 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,7 +370,8 @@
 | [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 | 2022-09-08 | 2022-11-23 |
 | [Save Yourself \- Japanese Version](https://open.spotify.com/track/2noRPwBUD3h98s09YuxHf9) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Save Yourself](https://open.spotify.com/album/1xs19Gxdqwyb3jfNQlEOUo) | 3:17 | 2022-07-28 | 2022-09-12 |
 | [Save Yourself \- Japanese Version](https://open.spotify.com/track/5e1lq4ACnnVhiQb4g04ehq) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Let Me Let You Go](https://open.spotify.com/album/4DSQT7lIc5Unlz6LoyBPzI) | 3:17 | 2022-11-10 | 2022-11-12 |
-| [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 | 2023-10-10 |  |
+| [Say My Name](https://open.spotify.com/track/06YNVx8q2zF84s8SfGbxMC) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/0Z1B02ZtMcAtgluiIWZTMB) | 1:48 | 2023-10-10 |  |
+| [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 | 2023-10-10 | 2023-10-12 |
 | [Say to Me](https://open.spotify.com/track/4C7blDlsxEUJmTkBFv1bUR) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Say to Me](https://open.spotify.com/album/5wcMuNXeFRiaBongYrmhl0) | 5:35 | 2022-09-27 | 2022-10-05 |
 | [Scratch](https://open.spotify.com/track/1ydPcEQXyiTD5FrK4oD7w8) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS), [Koshi Inaba](https://open.spotify.com/artist/0EvnQ89Ry2DPyn2xYAH9Ls) | [Scratch](https://open.spotify.com/album/0OXWfiuTWqxgavDwqPfSLC) | 4:25 | 2022-05-10 | 2022-09-15 |
 | [seasons change](https://open.spotify.com/track/4KmylhamK7Vpzxn0iS1DbZ) | [Small Circle of Friends](https://open.spotify.com/artist/3CJQBC8srg8KknVotylRsC) | [seasons change](https://open.spotify.com/album/1PHKDL7Zf6a4bFdriImVE8) | 3:16 | 2022-05-10 | 2022-07-29 |

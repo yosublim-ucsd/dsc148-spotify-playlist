@@ -4,11 +4,12 @@
 
 > All things <a href="spotify:genre:bass">bass</a> with GRiZ
 
-618 songs - 1 day 11 hr 41 min
+619 songs - 1 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Never Gonna\) Be Alone](https://open.spotify.com/track/1vTTzqjD4zWJ8ZtVwgr4dK) | [Flux Pavilion](https://open.spotify.com/artist/7muzHifhMdnfN1xncRLOqk) | [\(Never Gonna\) Be Alone](https://open.spotify.com/album/6R9I1SuHSwmZ54XzZY9Gba) | 3:18 | 2022-06-17 | 2023-07-08 |
+| [24 HRS](https://open.spotify.com/track/17QLFEbGJMGA9iyrkx4jbd) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [24 HRS](https://open.spotify.com/album/433wutKP8SbmE2SxU5N8cc) | 3:01 | 2023-10-06 |  |
 | [333](https://open.spotify.com/track/14R0uiyPwMZvLsnX0fAQRj) | [Whyte Fang](https://open.spotify.com/artist/6ziQKWMuCe0unfDXoqyVdt) | [333](https://open.spotify.com/album/15qh25JVc2UMCLjxwBL3Dz) | 2:27 | 2022-09-09 | 2023-07-29 |
 | [6am Bounce](https://open.spotify.com/track/3o4JurF32L4msnHzp9hcpI) | [RemK](https://open.spotify.com/artist/4IVi10Tw5s4iwiPUvh6DcF) | [6am Bounce](https://open.spotify.com/album/7KFI76Vox8h6hCCPeB5kVd) | 5:03 | 2023-03-31 | 2023-09-23 |
 | [ACHROMATIC \(YOI\)](https://open.spotify.com/track/59VLB2PliEAlylSbCdH7Xa) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb) | [MIDHEAVEN: OPUS 01](https://open.spotify.com/album/37wprYEPL1p87I75PMMRMt) | 2:55 | 2022-11-11 | 2023-07-29 |
@@ -409,7 +410,7 @@
 | [OUTCAST](https://open.spotify.com/track/20eAFFTSJktGui5yaZ9DCr) | [INHUMAN](https://open.spotify.com/artist/1QeTjGvzNdgEbglFeedKWe), [YMIR](https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD) | [OUTCAST](https://open.spotify.com/album/7bzJEJoMYDnwJlZC3h9hBb) | 4:32 | 2022-12-16 | 2023-07-08 |
 | [Over My Head](https://open.spotify.com/track/01ft7EehsvcgF5sjwG7LrH) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Dia Frampton](https://open.spotify.com/artist/3ppkM4QtM781APpaX7H9t7) | [Over My Head](https://open.spotify.com/album/2pd3A8GJvgezzfpBtZlUWw) | 3:58 | 2021-12-17 | 2022-02-19 |
 | [Overdrive](https://open.spotify.com/track/0Ez3g4uT8NLP9vDykop6ol) | [ZABO](https://open.spotify.com/artist/19zQevA415Jm6ThEtIwVIb) | [Overdrive](https://open.spotify.com/album/2P1ggyaxbrZlkqW1WuVZsV) | 3:45 | 2021-12-17 | 2022-03-12 |
-| [Oxygen](https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Arpeggio EP](https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu) | 3:43 | 2023-07-07 |  |
+| [Oxygen](https://open.spotify.com/track/4LhFPew1CzHSZhLqdv6ZWq) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Arpeggio EP](https://open.spotify.com/album/63ZlQUyHBjsi9qiF1a1iWu) | 3:43 | 2023-07-07 | 2023-10-12 |
 | [Pain](https://open.spotify.com/track/5kiTsfqM10sKjL5FxwKHKn) | [SLUMBERJACK](https://open.spotify.com/artist/55BFQS36sJYz2B0ClypIvS), [TWERL](https://open.spotify.com/artist/3pJlam8yODJN1AEzmTVGko), [josh pan](https://open.spotify.com/artist/2sfSQ1BOzaFQa3LZj6OGwD) | [Pain](https://open.spotify.com/album/252wPG399p18ii7ciga8tO) | 3:32 | 2021-12-17 | 2022-08-27 |
 | [Pain Killer](https://open.spotify.com/track/5eIAOdzmt3Nxd7XDFzek9U) | [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45) | [Pain Killer](https://open.spotify.com/album/23wL0znsNvRZ2TPT2Hh6YK) | 3:32 | 2021-12-17 | 2022-07-16 |
 | [Pantheon](https://open.spotify.com/track/6VHjUmQyWCh1WeFv69FzXS) | [Blastoyz](https://open.spotify.com/artist/6WLP1sraOcF3Gaxp7xBa4p), [Dimibo](https://open.spotify.com/artist/4s10B1BltDZ1heQIhTFs59), [Jason Ross](https://open.spotify.com/artist/6CCTvLyIHqUhY6VQizt150), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp), [Trivecta](https://open.spotify.com/artist/4AT7XlLBevgZIiKvZQ83ye), [Wooli](https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc) | [Pantheon](https://open.spotify.com/album/7IMI9BHpXTntSUNOew74MK) | 5:01 | 2021-12-17 | 2022-03-12 |

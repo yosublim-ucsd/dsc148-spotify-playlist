@@ -4,7 +4,7 @@
 
 > كل شي خليجي جديد\. الغلاف:عايض
 
-274 songs - 18 hr 41 min
+275 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Aljamal Al Yousefy](https://open.spotify.com/track/2n4bNkN9g10IrpneHrvIXR) | [Mohammed AlMenhali](https://open.spotify.com/artist/3zwErc4TrlnprH22dO0Iem) | [Aljamal Al Yousefy](https://open.spotify.com/album/0NoIyLmo6NtjSmeEUb4SBg) | 4:36 | 2021-12-23 | 2022-03-12 |
 | [Alkhamri](https://open.spotify.com/track/4lUN47aPWKGlKbiWOuYkJR) | [Sheyaab](https://open.spotify.com/artist/4ws4u7WBMXjLtooqt1yQ49), [Bu Belal](https://open.spotify.com/artist/3V5efQdYiGDYq2LLV6dsU2), [Carol](https://open.spotify.com/artist/0t3N6YV4XJtCd93C6c6CIS), [Bu Belall](https://open.spotify.com/artist/6sIFcXYk0GMwlYxHcMV3B2) | [Alkhamri](https://open.spotify.com/album/0Tji72I9mjsExOYcQUN2Ih) | 3:07 | 2022-09-28 | 2023-05-02 |
 | [Allah Qader](https://open.spotify.com/track/26pkoVSfghnAkcOjzq7Jva) | [Sheme](https://open.spotify.com/artist/6x8vq4QX1MQjqasHWpMWhw) | [Allah Qader](https://open.spotify.com/album/4KKMiYL45ThLuavVMGIMs9) | 3:27 | 2022-12-16 | 2023-06-07 |
+| [Allah Yekhalleek Lehalek](https://open.spotify.com/track/2wkvNhTMmIjHQkgvBQqvOo) | [Hussain Aljassmi](https://open.spotify.com/artist/1TcEy92Hugt8o9STqUDz2D) | [Allah Yekhalleek Lehalek](https://open.spotify.com/album/4NBpRiwq6R30yQiOWjTQki) | 4:11 | 2023-10-11 |  |
 | [Allyali Alsood](https://open.spotify.com/track/3lBC27reqYjPHwISTQo0rX) | [Mohamed Al Shehhi](https://open.spotify.com/artist/0dMebvi9NQ4TNjqWIH9dXp) | [Allyali Alsood](https://open.spotify.com/album/6bU88B3okSZFZ4XYSLMENb) | 4:13 | 2022-07-26 | 2023-01-25 |
 | [Alnehaiat Al Saeeda](https://open.spotify.com/track/6YijLSaqbmhfw4Z8ZQbwzh) | [Sultan Al Murshed](https://open.spotify.com/artist/6miZ4J6pxMnkJkrjOLeGeU) | [Alnehaiat Al Saeeda](https://open.spotify.com/album/1uRKnJDDUqGCrqFSxQpOhC) | 4:09 | 2023-06-23 |  |
 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 | 2023-03-24 | 2023-10-01 |
@@ -223,7 +224,7 @@
 | [Yeshhad Allah](https://open.spotify.com/track/2VZLKUNFYFkGX3Jo0gMdrR) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Yeshhad Allah](https://open.spotify.com/album/0OCMuAmmg390azxdmWycvx) | 4:07 | 2022-05-19 | 2022-08-19 |
 | [Zenat Ayyami](https://open.spotify.com/track/2hWmBU0TymULSt7TRdqUce) | [Nawal El Kuwaitia](https://open.spotify.com/artist/4iqSvJYU2R6IbLbMVhk7gQ) | [Zenat Ayyami](https://open.spotify.com/album/2G00nDqJCKplEavz7Z73nz) | 3:37 | 2023-09-07 | 2023-09-10 |
 | [Zilzal](https://open.spotify.com/track/5lIo6Uqv9tzArhAGSlp4Ch) | [Rabeh Saqer](https://open.spotify.com/artist/13xKnb7dAum7ShcsxQA5v2) | [Rabeh Saqer 2023 \- Part 2](https://open.spotify.com/album/6WX89fq1BzUFkWgcK8g1FY) | 4:16 | 2023-06-06 | 2023-06-10 |
-| [أحبك قالها](https://open.spotify.com/track/77w1p4dEGzUhxiR0k10Bbx) | [ناصر الكبيسي](https://open.spotify.com/artist/3UAqsB8c3Qibe5O7UqHQko) | [أحبك قالها](https://open.spotify.com/album/7sWEgexaoBAQJsssQYnb0I) | 5:10 | 2023-05-10 |  |
+| [أحبك قالها](https://open.spotify.com/track/77w1p4dEGzUhxiR0k10Bbx) | [ناصر الكبيسي](https://open.spotify.com/artist/3UAqsB8c3Qibe5O7UqHQko) | [أحبك قالها](https://open.spotify.com/album/7sWEgexaoBAQJsssQYnb0I) | 5:10 | 2023-05-10 | 2023-10-12 |
 | [احبك](https://open.spotify.com/track/1SYcs6NIEOl4iGanRHK7Pg) | [Essa Almarzoug](https://open.spotify.com/artist/5F0AQAjsHjjT67OBz9GLuz) | [احبك](https://open.spotify.com/album/2ymSGbjj2BJmD1vyiHouqc) | 2:09 | 2021-12-23 | 2022-02-18 |
 | [احبك ليه](https://open.spotify.com/track/41t3VbNWNRiCOXRcfDcAzE) | [محمد مبارك](https://open.spotify.com/artist/6HCSHVuuQlHb3qiOUqXlKi) | [احبك ليه](https://open.spotify.com/album/0YzT44Y3Ngzu4ZTzqB0uSN) | 3:40 | 2022-06-02 | 2022-11-08 |
 | [ادري جرحتك](https://open.spotify.com/track/1iPBF6vVw8HW3k4XmYNQTi) | [Kadejah Moaath \| خديجة معاذ](https://open.spotify.com/artist/7DzOtCU08slSv3obNnXNcv) | [ادري جرحتك](https://open.spotify.com/album/3KQUiiMeK7vuaStr9UU5cy) | 3:28 | 2022-04-01 | 2022-08-27 |

@@ -2,18 +2,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 
 ### [GLOW Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
 
-> Free to be! Musica dalla comunità LGBQTIA+ italiana\. Yosef, MYDRAMA, KAPUT, Evra e Blue Phelix in cover! ✨
+> Free to be! Musica dalla comunità LGBQTIA+ italiana\. ARIETE in cover! ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,762 likes - 78 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,766 likes - 78 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/track/1IdM9itYdIvgBhUZh9Iis8) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH), [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt), [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/album/583dSlEeKPTLVodqjH6I3k) | 3:33 |
-| 2 | [CARAMELLE](https://open.spotify.com/track/4YQ9Fbo5xyKlenSjmNbcqk) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:43 |
-| 3 | [Bloody Mary](https://open.spotify.com/track/6dfus00rufybawdDBasdG8) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Bloody Mary](https://open.spotify.com/album/0nwNGmFOJkmEy5zI9rFwVr) | 2:15 |
-| 4 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 |
-| 5 | [Love Will Save the Day](https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Love Will Save the Day](https://open.spotify.com/album/3rcsmoUcdFRhahxIYhQbbj) | 2:52 |
-| 6 | [Lost When I'm Around You](https://open.spotify.com/track/5u5lUvwZiPBHqVSJuXpxjd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Lost When I’m Around You](https://open.spotify.com/album/3Ga5TCkXDbC5vHPIZWv9Tn) | 2:54 |
+| 1 | [CARAMELLE](https://open.spotify.com/track/4YQ9Fbo5xyKlenSjmNbcqk) | [ARIETE](https://open.spotify.com/artist/2T4kh33TYdnDesvlQyRst8) | [LA NOTTE](https://open.spotify.com/album/0ffV9Lc7faWdmmvEKHHpiA) | 2:43 |
+| 2 | [Bloody Mary](https://open.spotify.com/track/6dfus00rufybawdDBasdG8) | [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Bloody Mary](https://open.spotify.com/album/0nwNGmFOJkmEy5zI9rFwVr) | 2:15 |
+| 3 | [RESTO IN CHILL](https://open.spotify.com/track/6VL7XBlYdDg7cAGPx5uVL3) | [Asteria](https://open.spotify.com/artist/02egj8t9vzqr5bWgMov3zq) | [RESTO IN CHILL](https://open.spotify.com/album/3Pfnlj2SPQmBGggnxo6fc9) | 3:02 |
+| 4 | [Love Will Save the Day](https://open.spotify.com/track/0S3kBOcAhCI0CFGrMhLAh9) | [Hard Ton](https://open.spotify.com/artist/2lr9QxlSxg2AWzOw9NT2zK) | [Love Will Save the Day](https://open.spotify.com/album/3rcsmoUcdFRhahxIYhQbbj) | 2:52 |
+| 5 | [Lost When I'm Around You](https://open.spotify.com/track/5u5lUvwZiPBHqVSJuXpxjd) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [Lost When I’m Around You](https://open.spotify.com/album/3Ga5TCkXDbC5vHPIZWv9Tn) | 2:54 |
+| 6 | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/track/1IdM9itYdIvgBhUZh9Iis8) | [Yosef](https://open.spotify.com/artist/378o9Oxd0RjAFnmFNjl6zB), [MYDRAMA](https://open.spotify.com/artist/1KOgFRA1rFkDAbS8tWYBxH), [KAPUT](https://open.spotify.com/artist/38F18Z9miixWwRSOpycFyt), [Evra](https://open.spotify.com/artist/2hwsMAV2ekfrmlkwmM8Blb), [Blue Phelix](https://open.spotify.com/artist/1CfqAv8GdSvNor3kAWFTEt) | [Effetto Domino \(feat\. Evra & Blue Phelix\)](https://open.spotify.com/album/583dSlEeKPTLVodqjH6I3k) | 3:33 |
 | 7 | [Now That It's Real \(feat\. BigMama\)](https://open.spotify.com/track/08gCvhx75KLbEjoQh2Y0PA) | [David Blank](https://open.spotify.com/artist/21s8IBxSQOOZQKjW6oNgQ6), [Dumar](https://open.spotify.com/artist/6Wqx7fxXflcJITUrFGx5Ba), [BigMama](https://open.spotify.com/artist/5A0upF7YOXwWW0R5EuahcF) | [Now That It's Real \(feat\. BigMama\)](https://open.spotify.com/album/6yc7cRkSR7msfQLKgjhTIj) | 3:10 |
 | 8 | [Piccola Inutile](https://open.spotify.com/track/2BrerWrh38QmRzjaeN9PMU) | [Queen of Saba](https://open.spotify.com/artist/26rDnlXGp18EMtbgV7OwsW) | [Piccola Inutile](https://open.spotify.com/album/220BF5aubxcU1oxYpl4qwg) | 3:19 |
 | 9 | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/track/1UK7liy7XxmvtFcbiLj914) | [Sun Dojo](https://open.spotify.com/artist/3MRGrKnnFFaVCtsjOGIKgb) | [Neuro Queer Cyber Punk \(italia\)](https://open.spotify.com/album/73Ae3sW9ClAH9khsl5hZrk) | 0:57 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbj3m6LiQbmy.md) - [plain]
 | 77 | [Parigi \(mi manchi\) \- Hey Cabrera! Remix](https://open.spotify.com/track/4yDG7Q9kemM7LS2AfxcFs9) | [Thomas Costantin](https://open.spotify.com/artist/0WKjXc8BCwyL9ds9cNRlWW), [Hey Cabrera!](https://open.spotify.com/artist/5jDaczIoNB0UAsvNWyYFrf) | [Le città](https://open.spotify.com/album/6VCWcupYXk4UdIeXJNjC07) | 4:24 |
 | 78 | [S.T.A.R.](https://open.spotify.com/track/4eH6eFLynzhPTxC52cAFV2) | [Playgirls from Caracas](https://open.spotify.com/artist/2DtlP0AAGRMHdesTux8mu9), [Lilith Primavera](https://open.spotify.com/artist/5rEatTNJ4Wg968RKZeE019) | [S.T.A.R.](https://open.spotify.com/album/2TdAEnj9JvAGLWJ3wVSvUw) | 3:38 |
 
-Snapshot ID: `MCxhMWI3ZDBjMGJhZGQxMjJiNGYzN2MzYWQ2MWZjYmU3MGZhM2IxM2Zi`
+Snapshot ID: `MCxlZWM3NTlmNTU3MmZhZjA4NjM5YjE1NGIyYWFjODA2YTlkYjQ2MzY5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 
 > Mensagens de Fé e músicas selecionadas por Thalles Roberto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,427 likes - 25 songs - 2 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,266 likes - 25 songs - 2 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AqQsk9faDK.md) - [plain]
 | 24 | [Una Nueva Historia \- Espanhol](https://open.spotify.com/track/40ElYEtYTuKC56EwgJltaL) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Una Nueva Historia \(Espanhol\)](https://open.spotify.com/album/75GTKHL6mcZG5B4Yx6bxG5) | 4:32 |
 | 25 | [El Señor es mi pastor](https://open.spotify.com/track/49PeNHITwNkd2gIP4zMOoQ) | [Danilo Montero](https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF) | [Eres Todopoderoso](https://open.spotify.com/album/6ykvhppb9hjACDxW3pVgMD) | 4:18 |
 
-Snapshot ID: `MCw3OWMzMzQ5MGQ3NDQzZWE3YzE1YjNmZDZiYWJkY2RkMzZmZGNkNDYw`
+Snapshot ID: `MCwzZGVmYzE2NmJlMDdkMmEzYzA4N2YzYTJlYTFjZDRhODA5ZjA1MjRk`

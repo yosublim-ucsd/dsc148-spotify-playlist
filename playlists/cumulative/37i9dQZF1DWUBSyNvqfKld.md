@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:3sgVVFFM7mom04OAR0eNCL">DEAS</a>'s favorite tracks\. Updated regularly\. Curated by DEAS\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-33 songs - 3 hr 13 min
+36 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,13 +26,16 @@
 | [Naked \- Original Mix](https://open.spotify.com/track/7bVbG70ehUlqACkVbLzskX) | [Yan Cook](https://open.spotify.com/artist/7b85knFTqgPmQmbUt77rYy) | [XXX LP](https://open.spotify.com/album/1uhYyc9nr76KaTw7BYWIOw) | 5:34 | 2022-07-25 |  |
 | [Nightingale](https://open.spotify.com/track/4Z7nIOhDKL8qx1TX6WT7d9) | [Slone](https://open.spotify.com/artist/4RfPVkSGZn0IMFsvO12Gtx) | [Blessing](https://open.spotify.com/album/6W3HunfzUruvYgWr9dVKrg) | 5:23 | 2022-07-25 |  |
 | [No Return](https://open.spotify.com/track/3kIbyJVCwfxH8GCqKXHiQ6) | [Kr!z](https://open.spotify.com/artist/4bVSJoHlXYbzdBrbgqbMxl) | [The Tunnel EP](https://open.spotify.com/album/45fmtpLe6Vv5GWzOiQBYDY) | 5:26 | 2022-07-25 |  |
-| [OB](https://open.spotify.com/track/3N00TsnIUbuG1vKjYWAoBj) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/4UmXfzT2CXwBKuNfjwCgjV) | 6:23 | 2022-07-25 |  |
+| [OB](https://open.spotify.com/track/3N00TsnIUbuG1vKjYWAoBj) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/4UmXfzT2CXwBKuNfjwCgjV) | 6:23 | 2022-07-25 | 2023-10-12 |
+| [OB](https://open.spotify.com/track/3ek9GGks9EUyxzHuZYfqXM) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/2aUB0aF0gK2pksGvhUGlIR) | 6:23 | 2022-07-25 |  |
 | [Object Seven](https://open.spotify.com/track/2PC846am308pOFsrQVoUju) | [Inigo Kennedy](https://open.spotify.com/artist/4UiRPifoPfW3sozAElsHYe) | [Delta Chimera](https://open.spotify.com/album/6lratvYPuUOVsQXqQVIVVI) | 8:32 | 2022-07-25 |  |
-| [Phase Two](https://open.spotify.com/track/2oOTM8t4YHIHVHhMIVJb8Q) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/4UmXfzT2CXwBKuNfjwCgjV) | 6:34 | 2022-07-25 |  |
+| [Phase Two](https://open.spotify.com/track/2oOTM8t4YHIHVHhMIVJb8Q) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/4UmXfzT2CXwBKuNfjwCgjV) | 6:34 | 2022-07-25 | 2023-10-12 |
+| [Phase Two](https://open.spotify.com/track/7ogPeJ5AFxpRY2CFNjzIcM) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/2aUB0aF0gK2pksGvhUGlIR) | 6:34 | 2022-07-25 |  |
 | [Prefix](https://open.spotify.com/track/60dyhittzt2ETdXgyVAAL6) | [Ben Klock](https://open.spotify.com/artist/1vJHfCreWAS46V8RZ67ojo), [Fadi Mohem](https://open.spotify.com/artist/054VxUoJAoxf48TlGoWf75) | [Prefix](https://open.spotify.com/album/5H2grQSbEIKAdhI3uMPWSe) | 5:39 | 2022-07-25 |  |
 | [Reasons Beyond The Atmosphere \- Original Mix](https://open.spotify.com/track/2jSmDKRGbOOX9M408I6VrH) | [Sigvard](https://open.spotify.com/artist/6IrZoI6X8RzaqH4nMl8V3m) | [The Flowers Hundred LP](https://open.spotify.com/album/2p0Yfdq4XwJIDPkJUA43M7) | 5:36 | 2022-07-25 |  |
 | [S.O.](https://open.spotify.com/track/63wfhom4NkOos2kMcTnrVX) | [Sterac](https://open.spotify.com/artist/2QFnCeEbTqsb0YUYpFl08v) | [Light In The Darkness EP](https://open.spotify.com/album/0Sq8EOqgnRMl4Pja5WZVdC) | 6:40 | 2022-07-25 |  |
-| [Symmetry](https://open.spotify.com/track/12BdcH3gvLgwMYLcHyyuAu) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/4UmXfzT2CXwBKuNfjwCgjV) | 5:12 | 2022-07-25 |  |
+| [Symmetry](https://open.spotify.com/track/12BdcH3gvLgwMYLcHyyuAu) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/4UmXfzT2CXwBKuNfjwCgjV) | 5:12 | 2022-07-25 | 2023-10-12 |
+| [Symmetry](https://open.spotify.com/track/3kgC6TD7IVupXUCk9aKbWX) | [Deas](https://open.spotify.com/artist/3sgVVFFM7mom04OAR0eNCL) | [Symmetry EP](https://open.spotify.com/album/2aUB0aF0gK2pksGvhUGlIR) | 5:12 | 2022-07-25 |  |
 | [Symptomatic \- Rødhåd Remix](https://open.spotify.com/track/13XLwlJVbkwrCIkoNXjoUp) | [Lewis Fautzi](https://open.spotify.com/artist/50bQnv15LNmaH27jodquYw), [Rødhåd](https://open.spotify.com/artist/2hjOQqLAZDVolzxNhnSK2h) | [Neurohumoral Transmission](https://open.spotify.com/album/60DETnK5fvLPtXxRwz6DEI) | 5:01 | 2022-07-25 |  |
 | [Tactel](https://open.spotify.com/track/1ijccQa4BSY4clVZWfiUXR) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Technatural EP](https://open.spotify.com/album/3JF9xETVb7Gbr13VBxheSf) | 4:04 | 2022-07-25 |  |
 | [Tiempo](https://open.spotify.com/track/2EfqSseQX83icThfmXIgfW) | [Farrago](https://open.spotify.com/artist/40dlsb5MBbRdrB2hf8XnvU) | [Transistor](https://open.spotify.com/album/7A3kGOjnV2KExE4fBFc6ne) | 5:00 | 2022-07-25 |  |

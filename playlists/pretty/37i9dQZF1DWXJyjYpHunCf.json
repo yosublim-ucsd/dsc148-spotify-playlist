@@ -1,12 +1,12 @@
 {
   "description": "The best of folk-infused pop and singer-songwriter. Cover: David Kushner",
-  "num_followers": 866673,
+  "num_followers": 866221,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMjM5NDZlNmI0Y2ZhOWNlYzJjNDA2NTA2NDM1NzQ4ZjYzZTRlZGFm",
+  "snapshot_id": "MCwyYzYwZTg1M2E2ODI3MTQxZTVmYjY5YjU4YWNiNmYwYjYwM2RjNjBj",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -539,26 +539,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "In A Perfect World (with Julia Michaels)",
-        "url": "https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "In A Perfect World (with Julia Michaels)",
-      "url": "https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -575,6 +555,26 @@
       "duration_ms": 254466,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/73W5aXorr5vxrySFcoZqIN"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "In A Perfect World (with Julia Michaels)",
+        "url": "https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "In A Perfect World (with Julia Michaels)",
+      "url": "https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Mom & Dad",
-        "url": "https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn"
-      },
-      "artists": [
-        {
-          "name": "Darren Kiely",
-          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
-        }
-      ],
-      "duration_ms": 203683,
-      "name": "Mom & Dad",
-      "url": "https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Think I'm Gonna Love You",
         "url": "https://open.spotify.com/album/0kR1xeEz90V7N6w6R8RxN7"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 164494,
       "name": "Think I'm Gonna Love You",
       "url": "https://open.spotify.com/track/6BEP2k75mE8u8gHdvxV3mn"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Mom & Dad",
+        "url": "https://open.spotify.com/album/0VfH1xz9pcm8RkjXN0INmn"
+      },
+      "artists": [
+        {
+          "name": "Darren Kiely",
+          "url": "https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9"
+        }
+      ],
+      "duration_ms": 203683,
+      "name": "Mom & Dad",
+      "url": "https://open.spotify.com/track/0wW8h0pLHZwNFv2v2e3KHw"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Valapriso",
-        "url": "https://open.spotify.com/album/6Ro2L2h4BlChNYSiy00mys"
+        "name": "Pollution",
+        "url": "https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq"
       },
       "artists": [
         {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
         }
       ],
-      "duration_ms": 187500,
-      "name": "Valapriso",
-      "url": "https://open.spotify.com/track/1Z3hqW2OprFrwO05euqt8z"
+      "duration_ms": 234031,
+      "name": "Pollution",
+      "url": "https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Pollution",
-        "url": "https://open.spotify.com/album/0wicQNp0h8uvwFp0Bro1Tq"
+        "name": "Valapriso",
+        "url": "https://open.spotify.com/album/6Ro2L2h4BlChNYSiy00mys"
       },
       "artists": [
         {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
         }
       ],
-      "duration_ms": 234031,
-      "name": "Pollution",
-      "url": "https://open.spotify.com/track/0Ul3RMdHEyJHN6VQ7MfuML"
+      "duration_ms": 187500,
+      "name": "Valapriso",
+      "url": "https://open.spotify.com/track/1Z3hqW2OprFrwO05euqt8z"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Yellow Paper Daisy",
-        "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
-      },
-      "artists": [
-        {
-          "name": "When Chai Met Toast",
-          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
-        }
-      ],
-      "duration_ms": 199772,
-      "name": "Yellow Paper Daisy",
-      "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Backstage in Glasgow",
         "url": "https://open.spotify.com/album/2LbmNfBamXEj7SLzpvNY4S"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 136107,
       "name": "Backstage in Glasgow",
       "url": "https://open.spotify.com/track/5suIDwVxRuLiSI1RBrFbjP"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Yellow Paper Daisy",
+        "url": "https://open.spotify.com/album/13ATYLc7i4HuNbQrAEawOH"
+      },
+      "artists": [
+        {
+          "name": "When Chai Met Toast",
+          "url": "https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl"
+        }
+      ],
+      "duration_ms": 199772,
+      "name": "Yellow Paper Daisy",
+      "url": "https://open.spotify.com/track/5aQe0faFOjeskrHwpleXLJ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "We Still Move on Dance Floors",
-        "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
-      },
-      "artists": [
-        {
-          "name": "The Strumbellas",
-          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
-        }
-      ],
-      "duration_ms": 163893,
-      "name": "In This Life",
-      "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Summer Wind / All Summer (Where You Gonna Be?)",
         "url": "https://open.spotify.com/album/2rPwSfoHyFJdMrqnE5QkFh"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 160581,
       "name": "Summer Wind",
       "url": "https://open.spotify.com/track/4v2PPkhAhaROQi2MpXW3WU"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "We Still Move on Dance Floors",
+        "url": "https://open.spotify.com/album/1sFCdkWltYD4dqN8JxL6tI"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 163893,
+      "name": "In This Life",
+      "url": "https://open.spotify.com/track/38wSbAmV7zNBhYqfzv1m9x"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Those Younger Days",
-        "url": "https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs"
-      },
-      "artists": [
-        {
-          "name": "The Hunts",
-          "url": "https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH"
-        }
-      ],
-      "duration_ms": 230213,
-      "name": "Valentina",
-      "url": "https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "drive",
         "url": "https://open.spotify.com/album/0DbML0JCn2c8JhNYwx2Fcu"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 166583,
       "name": "drive",
       "url": "https://open.spotify.com/track/1POBIDmX5L8lDEQSkO1DBi"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Those Younger Days",
+        "url": "https://open.spotify.com/album/0onnJgma2xAAFMYr3lUZbs"
+      },
+      "artists": [
+        {
+          "name": "The Hunts",
+          "url": "https://open.spotify.com/artist/1fFdRZK1GDGXL7vRxxUWLH"
+        }
+      ],
+      "duration_ms": 230213,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/0TD0ydYJuFPEaqshquDEpw"
     },
     {
       "added_at": "2023-10-06 04:00:00",

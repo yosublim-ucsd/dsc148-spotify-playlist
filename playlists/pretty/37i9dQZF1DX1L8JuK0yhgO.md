@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,909 likes - 60 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,903 likes - 60 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [あなたを愛するように](https://open.spotify.com/track/4hrWAaNzcszm5NKbhah82N) | [idom](https://open.spotify.com/artist/2f1JDLogY8kLi804QEmMzx), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [Mamiko Suzuki](https://open.spotify.com/artist/21bkNzNX7do9qb8SM9wFQF) | [Who?](https://open.spotify.com/album/672YB4ykUdCVpHu9UgLa6j) | 3:24 |
-| 2 | [nYc](https://open.spotify.com/track/1JDr7asmfcFccDoVmsVLW3) | [Nephew](https://open.spotify.com/artist/11BUDylkl50Y6dsbZMZiCG) | [nYc](https://open.spotify.com/album/6J3AlzC9X8ivBbQmYBD3p7) | 4:22 |
+| 2 | [nYc](https://open.spotify.com/track/1JDr7asmfcFccDoVmsVLW3) | [Nephew](https://open.spotify.com/artist/2QuPFnj8mE4ghAFuQx1vzV) | [nYc](https://open.spotify.com/album/6J3AlzC9X8ivBbQmYBD3p7) | 4:22 |
 | 3 | [Memai](https://open.spotify.com/track/028Amw4cqLmSZSRZoRVeKG) | [Mei Watanabe](https://open.spotify.com/artist/6zx7KMU7WEQLpi1gm6st2y) | [Memai](https://open.spotify.com/album/4WMQmRNXGth9D11JWNC1mz) | 3:41 |
 | 4 | [Jellyfish](https://open.spotify.com/track/0N1jNG3IIANKzqOMq7sm4m) | [EDWARD\(我\)](https://open.spotify.com/artist/7tlATmu4HQx6OYIBpCgwyh) | [Jellyfish](https://open.spotify.com/album/1w3H05S1W6loSq9BSmk4Yz) | 3:26 |
 | 5 | [Access](https://open.spotify.com/track/55awZQ5g0x4tTfbuqH0D0E) | [e5](https://open.spotify.com/artist/5UOj6C1InE5WTmBXNuemt4) | [GIRLS DAY](https://open.spotify.com/album/1O9ayAFtMzfY6mFHehkYUc) | 2:34 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 59 | [What are you doing now](https://open.spotify.com/track/4Wp4Tptf9GMeKkljwJHvAY) | [Clearr Note](https://open.spotify.com/artist/7DZC3SoU3g5wrkYObbhTDk) | [What are you doing now](https://open.spotify.com/album/5hqr7DbSMbfW0NNbkG91ap) | 1:42 |
 | 60 | [You've Got A Friend](https://open.spotify.com/track/4aM5tFMceaO2VlhcdEDhk2) | [KODAMA AND THE DUB STATION BAND](https://open.spotify.com/artist/6EI7t3mczkCqKUNIsFtyKH) | [You've Got A Friend](https://open.spotify.com/album/0Om9ccW2UD8X2BI1lUerOP) | 5:01 |
 
-Snapshot ID: `MCxjZjU2ZDkyMDVhZTA0ZmZmN2Q2MDJjYWE1Mzg0ZGZlZjE1NTMzMTBh`
+Snapshot ID: `MCw0NzIwOTQ1YzFiOGM3YzNiNzgxOTIwMzZhMzZiYjllZTU2ZmUyMTRj`

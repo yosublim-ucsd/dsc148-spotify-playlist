@@ -1,12 +1,12 @@
 {
   "description": "\uc774\ubd88 \uc548 \uc18d\ucc98\ub7fc \ud3ec\uadfc\ud558\uace0 \ud3b8\uc548\ud55c \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \ud3ed\uc2e0\ud55c \uae30\ubd84\uc744 \ub9cc\ub07d\ud558\uc138\uc694.",
-  "num_followers": 10755,
+  "num_followers": 10778,
   "original_name": "\ud3ec\uadfc \ud3b8\uc548 \ud3ed\uc2e0",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjUxNzhhMzNjZjc2OTk3N2E1MjNjYmE5YjE1YTU4MDE2ZmY1ZGQ5",
+  "snapshot_id": "MCw5YTBiNzZiYTNlZGM3MDE3NTM3NDViNDMzZmVjMWVlMTYwOGMzMmM2",
   "tracks": [
     {
       "added_at": "2023-09-19 10:08:17",
@@ -143,22 +143,6 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
-      },
-      "artists": [
-        {
-          "name": "Dailog",
-          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Wednesday",
-      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
-    },
-    {
-      "added_at": "2023-09-19 10:08:17",
-      "album": {
         "name": "Someone's playlist #7",
         "url": "https://open.spotify.com/album/0Su2ElnouXgBIHYvbDr7em"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 155133,
       "name": "You are My Night",
       "url": "https://open.spotify.com/track/3PJBhDdXm8Ew3zAx6zmWnZ"
+    },
+    {
+      "added_at": "2023-09-19 10:08:17",
+      "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
+      },
+      "artists": [
+        {
+          "name": "Dailog",
+          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
     },
     {
       "added_at": "2023-09-19 10:08:17",
@@ -211,6 +211,22 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
+        "name": "Think About You",
+        "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
+      },
+      "artists": [
+        {
+          "name": "Acoustic Collabo",
+          "url": "https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Think About You",
+      "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
+    },
+    {
+      "added_at": "2023-09-19 10:08:17",
+      "album": {
         "name": "CAKE",
         "url": "https://open.spotify.com/album/1kh0R6MwB7zY10hWurPwX8"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 208920,
       "name": "Falling In Love (feat. 10cm)",
       "url": "https://open.spotify.com/track/5dPYuKs7KoMjR1DQU2mpOX"
-    },
-    {
-      "added_at": "2023-09-19 10:08:17",
-      "album": {
-        "name": "Think About You",
-        "url": "https://open.spotify.com/album/2NunoRHmbtwi6dJ98e0qAp"
-      },
-      "artists": [
-        {
-          "name": "Acoustic Collabo",
-          "url": "https://open.spotify.com/artist/0rMd7FdvwwxKrFEsQ1hC7G"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Think About You",
-      "url": "https://open.spotify.com/track/0cjBJptR0O4Y0ESQoXXzFH"
     },
     {
       "added_at": "2023-09-19 10:08:17",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
-      },
-      "artists": [
-        {
-          "name": "PARK BO GUM",
-          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
-        }
-      ],
-      "duration_ms": 203866,
-      "name": "All My Love - Korean Ver.",
-      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
-    },
-    {
-      "added_at": "2023-09-19 10:08:17",
-      "album": {
         "name": "Olive",
         "url": "https://open.spotify.com/album/0lHVbBbazLwjjE3yYnJoDL"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 129000,
       "name": "Olive",
       "url": "https://open.spotify.com/track/2sWmwFczvN8pglDFCNEdOv"
+    },
+    {
+      "added_at": "2023-09-19 10:08:17",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/0i4ymIcTfqV6virrQYNAat"
+      },
+      "artists": [
+        {
+          "name": "PARK BO GUM",
+          "url": "https://open.spotify.com/artist/3wkl0GrYTJjWoTmGAJRosv"
+        }
+      ],
+      "duration_ms": 203866,
+      "name": "All My Love - Korean Ver.",
+      "url": "https://open.spotify.com/track/7tBopxC7AwomZnU7KuKF9u"
     },
     {
       "added_at": "2023-09-19 10:08:17",
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
+        "name": "The Film",
+        "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
+      },
+      "artists": [
+        {
+          "name": "J_ust",
+          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
+        }
+      ],
+      "duration_ms": 196386,
+      "name": "The Film",
+      "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
+    },
+    {
+      "added_at": "2023-09-19 10:08:17",
+      "album": {
         "name": "PLAYLIST (Original Soundtrack), Pt.1",
         "url": "https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 219939,
       "name": "beautiful inside",
       "url": "https://open.spotify.com/track/1bxzxAOlqll6JIAeEZEINR"
-    },
-    {
-      "added_at": "2023-09-19 10:08:17",
-      "album": {
-        "name": "The Film",
-        "url": "https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq"
-      },
-      "artists": [
-        {
-          "name": "J_ust",
-          "url": "https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ"
-        }
-      ],
-      "duration_ms": 196386,
-      "name": "The Film",
-      "url": "https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ"
     },
     {
       "added_at": "2023-09-19 10:08:17",
@@ -623,26 +623,6 @@
     {
       "added_at": "2023-09-19 10:08:17",
       "album": {
-        "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
-        "url": "https://open.spotify.com/album/0qBs5065OHejWFDLs9Rd87"
-      },
-      "artists": [
-        {
-          "name": "WISUE",
-          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
-        },
-        {
-          "name": "Ku One Chan",
-          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
-        }
-      ],
-      "duration_ms": 220496,
-      "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
-      "url": "https://open.spotify.com/track/5AYbwrmi3OmNXSNoEtCgZi"
-    },
-    {
-      "added_at": "2023-09-19 10:08:17",
-      "album": {
         "name": "Stay (Feat. Youlakk)",
         "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 208771,
       "name": "Stay (Feat. Youlakk)",
       "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
+    },
+    {
+      "added_at": "2023-09-19 10:08:17",
+      "album": {
+        "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
+        "url": "https://open.spotify.com/album/0qBs5065OHejWFDLs9Rd87"
+      },
+      "artists": [
+        {
+          "name": "WISUE",
+          "url": "https://open.spotify.com/artist/6AtePm872YnH0PPQZpNFry"
+        },
+        {
+          "name": "Ku One Chan",
+          "url": "https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5"
+        }
+      ],
+      "duration_ms": 220496,
+      "name": "\uc6b0\ub9ac\uc5d0\uac8c \uc3df\uc544\uc9c0\ub294 \ubcc4\ub4e4\uc744 Starry Night (feat. Ku One Chan)",
+      "url": "https://open.spotify.com/track/5AYbwrmi3OmNXSNoEtCgZi"
     },
     {
       "added_at": "2023-09-19 10:08:17",

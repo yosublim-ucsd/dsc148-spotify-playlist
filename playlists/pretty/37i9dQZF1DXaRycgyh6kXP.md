@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 
 > Delicate digital expressions of the heart.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,741 likes - 100 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,824 likes - 100 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 55 | [Stratus](https://open.spotify.com/track/0DuKfzPUyHNS92DuruNqpK) | [Kaitlyn Aurelia Smith](https://open.spotify.com/artist/6P86FLVAK4sxu8OhyQJBvH) | [EARS](https://open.spotify.com/album/4TRKhrBtgzRO8XcoKbj4DZ) | 3:04 |
 | 56 | [Smokebelch II \- Beatless Mix](https://open.spotify.com/track/5Z8BtdkhEzHbb8QlYODMgM) | [The Sabres Of Paradise](https://open.spotify.com/artist/3w0vR06WHMVwMe1G20wmlS) | [Sabresonic](https://open.spotify.com/album/22UTF5k9TRZ1Mg2V0i0qLw) | 4:16 |
 | 57 | [You and I](https://open.spotify.com/track/2np2e0pDBBmUgcdItVb6d3) | [Caribou](https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54) | [Suddenly](https://open.spotify.com/album/7Dl44V6YlpZ7apC87YAWnC) | 4:03 |
-| 58 | [Tommib Help Buss](https://open.spotify.com/track/3LbuqJCxuX5P63vVONosge) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Ultravisitor](https://open.spotify.com/album/3ZsW2VSx5OxHpV3Kno59O2) | 2:10 |
-| 59 | [Stay With Us](https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5) | [Seoul](https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG) | [I Become A Shade](https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg) | 3:57 |
+| 58 | [Stay With Us](https://open.spotify.com/track/3Opk9C8pMgBCmbqXelH0I5) | [Seoul](https://open.spotify.com/artist/3e69LorE0YSsEaYY6x9XuG) | [I Become A Shade](https://open.spotify.com/album/1zP69up0zPq8SsIx4lvCkg) | 3:57 |
+| 59 | [Tommib Help Buss](https://open.spotify.com/track/3LbuqJCxuX5P63vVONosge) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Ultravisitor](https://open.spotify.com/album/3ZsW2VSx5OxHpV3Kno59O2) | 2:10 |
 | 60 | [Trade Winds, White Heat](https://open.spotify.com/track/56DtANH92Wh0BE7cUrb7hy) | [Tim Hecker](https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B) | [Radio Amor](https://open.spotify.com/album/5yHH2l3d2d2K5tNQGorEdR) | 4:22 |
 | 61 | [Night Owl](https://open.spotify.com/track/3i0IiglJ0nzjxlpU3s7wXr) | [Cihangir Aslan](https://open.spotify.com/artist/30J2BZr9IIoch7Sj47xtpD), [Dilan Balkay](https://open.spotify.com/artist/0EmioUrT5ZIveHOQnDcTGM) | [Night Owl](https://open.spotify.com/album/0eJCk5W0VKQ4qIuoAhn5ns) | 6:16 |
 | 62 | [Eyes Be Closed](https://open.spotify.com/track/3Qp1ja1oYotWn5K0XBRrUV) | [Washed Out](https://open.spotify.com/artist/5juOkIIy18sFw9L30syt1Z) | [Within and Without](https://open.spotify.com/album/1TwAADd8Z8C1GeeCSaXTNr) | 4:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRycgyh6kXP.md) - [plain]
 | 99 | [Nobody New Around You](https://open.spotify.com/track/2W9Cep5fuDrezWUZJpUJvG) | [Daithí](https://open.spotify.com/artist/2N5V735dwftKHqBpx9YPrz) | [L.O.S.S.](https://open.spotify.com/album/5hoCeLU7jHWwUu0lRcKA58) | 4:27 |
 | 100 | [Permanence](https://open.spotify.com/track/5dxeMseehuQ30ZaIsPKmoC) | [Lomea](https://open.spotify.com/artist/5p7mJWhUVX9sTV1nr2bBsx) | [Permanence](https://open.spotify.com/album/0SkPmxCUValW4Zpy91uVz3) | 3:49 |
 
-Snapshot ID: `MCxhMWMyMzBiMTUzNzQ3MjE2ZDAxM2ZkZTc4YWJhMmYxNjZkMWMzN2E5`
+Snapshot ID: `MCxmYzY0NzI5M2FkMTJlMTVmNDc0MGY4MjAwODU5YmJmNGQxY2QxNTQx`

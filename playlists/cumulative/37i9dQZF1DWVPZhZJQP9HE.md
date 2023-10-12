@@ -4,7 +4,7 @@
 
 > Tune into the finest of Tamil Indie music!<br/>Cover : Ashwin Vinayagamoorthy
 
-447 songs - 1 day 2 hr 33 min
+448 songs - 1 day 2 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [Rider Fighter](https://open.spotify.com/track/1wMJESbiqngTGJvDNhy4Xi) | [ADK](https://open.spotify.com/artist/5Ljk2MIIax91pypZ9Wcgaj), [Yohani](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI) | [Rider Fighter](https://open.spotify.com/album/5qikTzQxzJT79i2Ng3yhbI) | 3:53 | 2022-02-01 | 2022-07-18 |
 | [Rotoram Pakayila](https://open.spotify.com/track/6A63e8EqB42KzE7VtfAoUW) | [Martin Kartenjer](https://open.spotify.com/artist/3OY61Sme8AYjtKYCzmReCw) | [Rotoram Pakayila](https://open.spotify.com/album/5M0jTe8qJQ5u4vrI1i2Dq7) | 3:19 | 2023-06-26 |  |
 | [Rubaiyat Kavithai](https://open.spotify.com/track/7Lgbhyegdkv1ZUjTkgO1eS) | [Shabir Sulthan](https://open.spotify.com/artist/1rya10vhugXdhuxVDPUwng) | [Rubaiyat Kavithai](https://open.spotify.com/album/3S8cLJs8WJ68DWYl72zRcI) | 3:10 | 2022-08-12 | 2023-02-09 |
+| [Saagaa Varam](https://open.spotify.com/track/0Lt8wD5iYd1kv2AZmDK3A8) | [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r), [Sri Charan](https://open.spotify.com/artist/0TahQmnTdVX3rTMJkO6SpI) | [Saagaa Varam](https://open.spotify.com/album/4b94cfS6UtCdaEY6uEc3nY) | 3:31 | 2023-10-11 |  |
 | [Saaral Nee](https://open.spotify.com/track/6Lms8pldN40GLHfcP6NSf8) | [Raja Sai](https://open.spotify.com/artist/73yc1Tcimoc5wXKJUAiRJF), [Keshav Vinod](https://open.spotify.com/artist/1wu1Pg4sb54JwUhlfBP5FS) | [Saaral Nee](https://open.spotify.com/album/7dqfwweoQmFX8V7gJL2cyx) | 3:02 | 2023-03-22 | 2023-05-13 |
 | [Saarale](https://open.spotify.com/track/0a3MbqRWc3TlqxzEFERJbu) | [Prakash Alex](https://open.spotify.com/artist/5SWR0sXeoxKCuU987oQTUz), [Najim Arshad](https://open.spotify.com/artist/4v0D49goEdstHHCMMlbpt1) | [Saarale](https://open.spotify.com/album/5u51REoqz9KBLbqBhDcXd9) | 3:56 | 2022-12-07 | 2023-01-11 |
 | [Saaya\-Tamil](https://open.spotify.com/track/6uizpDr1wwR7xQS4Jkw6mm) | [Mithun Eshwar](https://open.spotify.com/artist/65kwHSDhFp1Umu9Vd1pQVv), [K\. Sivaangi](https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz) | [Saaya\-Tamil](https://open.spotify.com/album/0NxKRbraH7cPudwyZy5Ika) | 3:59 | 2022-01-17 | 2022-07-16 |

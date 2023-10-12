@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Gloria Groove
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,355 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,236 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 36 | [Que Passa](https://open.spotify.com/track/77zAczEvVm3PYlltG4BbtN) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Que Passa](https://open.spotify.com/album/00VwF5TMBx29hiyHUFIuNR) | 3:13 |
 | 37 | [Difícil De Esquecer](https://open.spotify.com/track/59gPzC6zAatOA6Rdjnve5q) | [Romero Ferro](https://open.spotify.com/artist/6RQQuhhlJwsjKJTW1P9PU9), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [DJ Zullu](https://open.spotify.com/artist/6EQ2GT80A1oXZarAalUWNE) | [Difícil De Esquecer](https://open.spotify.com/album/4y85puLIpZ71bXlW5O7uKA) | 2:29 |
 | 38 | [TAQUEI](https://open.spotify.com/track/1lspAjQFDEZckwPuwwVnj1) | [Kika Boom](https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P) | [TAQUEI](https://open.spotify.com/album/5XMPCF2nDlIVcULGoXzgJv) | 2:00 |
-| 39 | [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 |
-| 40 | [Sócia](https://open.spotify.com/track/6BsAf92aj9qKt2SdN8972M) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [BOROGODÓ pt.1](https://open.spotify.com/album/0KOlWmzLOTtPnmM8WAA5t2) | 2:49 |
+| 39 | [Sócia](https://open.spotify.com/track/6BsAf92aj9qKt2SdN8972M) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [BOROGODÓ pt.1](https://open.spotify.com/album/0KOlWmzLOTtPnmM8WAA5t2) | 2:49 |
+| 40 | [Pitbull Sem Coleira](https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA) | [Bixarte](https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs) | [Traviarcado](https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y) | 2:22 |
 | 41 | [O Tempo Não Pára](https://open.spotify.com/track/6WQLbzNkOgCuRd5jCZ2qfv) | [Reddy Allor](https://open.spotify.com/artist/1o5XsCDvEepiA1AwFsiB1S), [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [O Tempo Não Pára](https://open.spotify.com/album/5FuERvnBsAuB0iBk99uANR) | 2:54 |
 | 42 | [te vi na festa \(e nem doeu\)](https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [te vi na festa \(e nem doeu\)](https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc) | 2:01 |
 | 43 | [LEILÃO](https://open.spotify.com/track/2eFsVynOiCxtI4kvX0XClm) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LEILÃO](https://open.spotify.com/album/6yTozUPMJplNbIMrm1mlBL) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 49 | [Bang Bang](https://open.spotify.com/track/165HsSYegdOoZO7jKMt9xb) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Batidão Tropical](https://open.spotify.com/album/5kH6l7hx5ZJJHLiwt7LILj) | 2:54 |
 | 50 | [Trago Seu Amor de Volta \- Ao Vivo](https://open.spotify.com/track/21AFVwyji9hdtWqlekS4Xx) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [I AM PABLLO \(Ao Vivo\)](https://open.spotify.com/album/4nRBYJ5BaPMk66wyQdeq9O) | 2:34 |
 
-Snapshot ID: `MCwxNTM4ZWEyNjA0YzU3MTAwMTg2MjY2MThmMDFmYzYyOTMxNzBlMjA3`
+Snapshot ID: `MCw2ZGM4YjI4ZWMwOTJiM2Q4MzZjMTBhMjFiYTljYWQ4YzU4ZTI5M2Rl`

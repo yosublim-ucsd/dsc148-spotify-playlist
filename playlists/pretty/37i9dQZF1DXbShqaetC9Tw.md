@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,691 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,705 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 49 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 |
 | 50 | [ANTIRIVER](https://open.spotify.com/track/7DcKCWQ770DoNOIov3pVnb) | [Jiwoo](https://open.spotify.com/artist/51FKMPw06mntCaz6yO6ddg) | [ANTIRIVER](https://open.spotify.com/album/6XDZyVUQriuOqCERhaqGlj) | 4:27 |
 
-Snapshot ID: `MCxlZmY5YTEwYjRiMjllNTc5OTg4ZTBjYWVhMDdkMWRlYTEzZTEzYmEx`
+Snapshot ID: `MCxhOWI2ZDYzNjkyMzFhOTRkMTE3Nzg0Mjg3NGNkODY1ZTE0MzU1MWVh`

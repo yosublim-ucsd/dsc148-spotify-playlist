@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 
 > Lo más pegao en Dembow\. <br/>Portada: Peso Pluma y El Alfa
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,024 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,281 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 | 5 | [Prepotente](https://open.spotify.com/track/3a5oq7iRY1kLKTwojU7Qfa) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Kreizy k](https://open.spotify.com/artist/3Z8i7zAQr7lPwH7pUQnlXJ) | [Prepotente](https://open.spotify.com/album/641RNNuxJx1wbSDgPn6pcP) | 2:05 |
 | 6 | [La Piedra](https://open.spotify.com/track/1iwkENJTFtLZ0kWKVKtcRb) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Jey One](https://open.spotify.com/artist/0B4uq7LA4vdVwFPDoOcVtw) | [La Piedra](https://open.spotify.com/album/4oJF52yFg8o1qMb5LEaMHf) | 2:38 |
 | 7 | [Boy Boy](https://open.spotify.com/track/0E2T5QGDi48YmAo32ZqaqF) | [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL), [Hansel El De La H](https://open.spotify.com/artist/6gwlllidzu0wkRNkXKGDfG) | [Boy Boy](https://open.spotify.com/album/2D8kgOal3Dego8yDv60ZLX) | 2:14 |
-| 8 | [La Palida](https://open.spotify.com/track/0dpvEhTjlOPRO9al8fg1Dw) | [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC) | [La Palida](https://open.spotify.com/album/0xrAWdqJYATjq9DH6QQrSc) | 2:07 |
+| 8 | [La Palida](https://open.spotify.com/track/3QYjhjhR0XerDrQL9S2IO1) | [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC) | [La Palida](https://open.spotify.com/album/2fgXaL8kvKFZomRDOQ4tu6) | 2:07 |
 | 9 | [Del Kilo](https://open.spotify.com/track/7qgovmYLU3BUltCBdYUPKg) | [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Treintisiete](https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah), [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [LLNM2](https://open.spotify.com/album/6DJslQtfD7mGFGZpfiyrVf) | 3:46 |
 | 10 | [Oh Oh Oh \(Veo Veo\)](https://open.spotify.com/track/3BZqmfDUW11Gkj0UQeLFQa) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC), [B One El Productor De Oro](https://open.spotify.com/artist/5dZ2dElcI4y3ADZvqERISZ) | [Oh Oh Oh \(Veo Veo\)](https://open.spotify.com/album/4QBGxPesaLSbRveKK7GCWe) | 2:13 |
 | 11 | [Po Po Po](https://open.spotify.com/track/1dnlWBC8oXaxzDQWtDxies) | [Bulin 47](https://open.spotify.com/artist/4J0m1OquRGY8HYHxMocXfy), [Flow 28](https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC) | [Po Po Po](https://open.spotify.com/album/5rmZPVreqK6DP7xoQHKAr1) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWpEY2WZLnS.md) - [plain]
 | 49 | [Ubicacion y Foto](https://open.spotify.com/track/04NOkdNPJx9l134EmPEC8a) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [Ubicacion y Foto](https://open.spotify.com/album/5oi02uruQUZdOgAYbiMiQ8) | 2:03 |
 | 50 | [ENCONDIO](https://open.spotify.com/track/2mT6r9DMaN0dChdrePC5gP) | [Jezzy](https://open.spotify.com/artist/1y8spb5Thg0p5ybNtdk4tu) | [ENCONDIO](https://open.spotify.com/album/7CjXrwdOAp9A59sRVV9jAO) | 1:31 |
 
-Snapshot ID: `MCwwNjEyZmMwMDJlMGZkN2E0ZDVjMTZhYjNhNWI1MzFmZjIzZGZkZTFk`
+Snapshot ID: `MCxkY2Q2ZDliYzllOWE1ZTEzYjljNWEwMTVlMGRhMmY1YjQzYWJkNzlh`

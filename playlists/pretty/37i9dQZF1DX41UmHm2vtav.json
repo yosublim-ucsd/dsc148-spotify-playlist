@@ -1,12 +1,12 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 443738,
+  "num_followers": 443867,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMzg2NDk1MjdhMjM5NThlODhkYjg0ZmMwNjdmZTAwNjM1NTRhNDVj",
+  "snapshot_id": "MCxlOTEwNjBlZjI1NTYxZDgzNDZhNjBmNzMzOTBiZDIxMGZjYTNjNTI5",
   "tracks": [
     {
       "added_at": "2023-09-29 03:03:00",
@@ -755,30 +755,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Never Let Me Go",
-        "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
-      },
-      "artists": [
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "Bruno Martini",
-          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
-        }
-      ],
-      "duration_ms": 183370,
-      "name": "Never Let Me Go",
-      "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Pro Dia Nascer Feliz",
         "url": "https://open.spotify.com/album/2CObgWbsU4BPyiqfyG9IGk"
       },
@@ -799,6 +775,30 @@
       "duration_ms": 203225,
       "name": "Pro Dia Nascer Feliz",
       "url": "https://open.spotify.com/track/2EjGS0YJPaf3C4TCmJddGL"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Never Let Me Go",
+        "url": "https://open.spotify.com/album/1QNNJE8gwsx6LTakTjNk9K"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Bruno Martini",
+          "url": "https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L"
+        }
+      ],
+      "duration_ms": 183370,
+      "name": "Never Let Me Go",
+      "url": "https://open.spotify.com/track/1Sm14ee7LxZN2H9nafPupr"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -939,26 +939,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Amor Pra Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
-      },
-      "artists": [
-        {
-          "name": "Jopin",
-          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
-        },
-        {
-          "name": "Saulo",
-          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Amor Pra Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Z\u00e9 do caro\u00e7o",
         "url": "https://open.spotify.com/album/2FlQQe9dVw5Feqdv1HWO2Q"
       },
@@ -979,22 +959,22 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Dias Melhores - Remix",
-        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
+        "name": "Amor Pra Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/2xR4lb0yAglnIoEgdvb7Ch"
       },
       "artists": [
         {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+          "name": "Jopin",
+          "url": "https://open.spotify.com/artist/5eOyNvHjfi9EcXeJwrCroz"
         },
         {
-          "name": "Dubdogz",
-          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+          "name": "Saulo",
+          "url": "https://open.spotify.com/artist/0l82Lk1LX5X2qqYuPSXTuf"
         }
       ],
-      "duration_ms": 174193,
-      "name": "Dias Melhores - Remix",
-      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
+      "duration_ms": 158095,
+      "name": "Amor Pra Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/6kNZZrEuRbNevp9dW3RPDX"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1015,6 +995,26 @@
       "duration_ms": 191250,
       "name": "Descobridor dos Sete Mares: Remix",
       "url": "https://open.spotify.com/track/5yMMQqhgH2gYraNSD3sv0A"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Dias Melhores - Remix",
+        "url": "https://open.spotify.com/album/2Zhhh1FBhZ9XsmTaQQlFr7"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        },
+        {
+          "name": "Dubdogz",
+          "url": "https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1"
+        }
+      ],
+      "duration_ms": 174193,
+      "name": "Dias Melhores - Remix",
+      "url": "https://open.spotify.com/track/0FBHlG12iaczO92oAfyrXE"
     },
     {
       "added_at": "2023-09-29 03:03:00",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-09-29 03:03:00",
       "album": {
-        "name": "Paradise (Vintage Culture Remix)",
-        "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
-      },
-      "artists": [
-        {
-          "name": "Rompasso",
-          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
-        },
-        {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
-        }
-      ],
-      "duration_ms": 241823,
-      "name": "Paradise - Vintage Culture Remix",
-      "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
-    },
-    {
-      "added_at": "2023-09-29 03:03:00",
-      "album": {
         "name": "Que Dia",
         "url": "https://open.spotify.com/album/046LEmjGDEolXA3K5zxDFl"
       },
@@ -1467,6 +1447,26 @@
       "duration_ms": 175546,
       "name": "Que Dia",
       "url": "https://open.spotify.com/track/4JLk3WmaRmMmYe4HQBoz6H"
+    },
+    {
+      "added_at": "2023-09-29 03:03:00",
+      "album": {
+        "name": "Paradise (Vintage Culture Remix)",
+        "url": "https://open.spotify.com/album/4Ze0gz9LZNKKMVcLfReoh5"
+      },
+      "artists": [
+        {
+          "name": "Rompasso",
+          "url": "https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A"
+        },
+        {
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        }
+      ],
+      "duration_ms": 241823,
+      "name": "Paradise - Vintage Culture Remix",
+      "url": "https://open.spotify.com/track/3L6ky4onXXulYqKf8jZ433"
     },
     {
       "added_at": "2023-09-29 03:03:00",

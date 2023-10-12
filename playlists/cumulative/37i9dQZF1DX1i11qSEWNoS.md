@@ -4,7 +4,7 @@
 
 > und macht laune
 
-118 songs - 5 hr 35 min
+119 songs - 5 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,6 +52,7 @@
 | [Get Shaky](https://open.spotify.com/track/267DliVFe67u89luc9v6UD) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [Get Shaky](https://open.spotify.com/album/11Xrum0ysuitc8vtBrlmQM) | 3:57 | 2023-09-08 |  |
 | [Get Shaky](https://open.spotify.com/track/5ZNa6S7agmCmaEnxIHE73m) | [KXXMA](https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx), [TurboKevin](https://open.spotify.com/artist/2nxyC1TQywKkvfkvuaiaW6) | [Get Shaky](https://open.spotify.com/album/2cBSMHLqs6Zaj3IIUrGTnD) | 3:57 | 2023-07-21 | 2023-08-23 |
 | [Get Up Off The Floor](https://open.spotify.com/track/00TNno8mzugrcej0FqJvrW) | [FORTELLA](https://open.spotify.com/artist/1Gv25YA8ciVilOJBBD2Hv9) | [Get Up Off The Floor](https://open.spotify.com/album/3hWpTTQXIhRZy9Ln14ZlNt) | 2:35 | 2023-07-21 | 2023-10-10 |
+| [Ghetto Tekkno](https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7) | [Ghetto Tekkno](https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq) | 1:52 | 2023-10-03 |  |
 | [Give It To Me \- Full Vocal Mix](https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS) | [Give It To Me \(Full Vocal Mix\)](https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp) | 1:42 | 2023-07-21 |  |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-07-21 |  |
 | [Glue](https://open.spotify.com/track/2aJDlirz6v2a4HREki98cP) | [Bicep](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga) | [Bicep](https://open.spotify.com/album/4psDRFbIlUM1KUb1omccXo) | 4:29 | 2023-07-21 |  |
@@ -112,7 +113,7 @@
 | [The Middle](https://open.spotify.com/track/0HObAomnnHRMv2kuEBIMbz) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb) | [The Middle](https://open.spotify.com/album/5rx0mq6OoS8VmVfDq4yoYq) | 2:27 | 2023-07-21 |  |
 | [Thunder](https://open.spotify.com/track/2USlegnFJLrVLpoVfPimKB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy), [Prezioso](https://open.spotify.com/artist/3iMzbvXlgNUpoFccD60bvr) | [Thunder](https://open.spotify.com/album/35Q09Y0b7ZxOoCdF7sBiGf) | 2:40 | 2023-07-21 |  |
 | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv) | 2:39 | 2023-07-21 | 2023-08-15 |
-| [Tour de Berlin](https://open.spotify.com/track/6bTtaSmqjMD6TggNfoR4N5) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [2022 war film gewesen](https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ) | 2:31 | 2023-07-21 |  |
+| [Tour de Berlin](https://open.spotify.com/track/6bTtaSmqjMD6TggNfoR4N5) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H), [Domiziana](https://open.spotify.com/artist/3XZewrXpRQqqCMuUMAIhvN), [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [2022 war film gewesen](https://open.spotify.com/album/4OBzAh7kXYVdeBp1LTrZwZ) | 2:31 | 2023-07-21 | 2023-10-12 |
 | [Turn All The Lights On](https://open.spotify.com/track/3AxoLYBDzx5hTCSJR2W4i9) | [Valexus](https://open.spotify.com/artist/7bzKgx8PQw6TCVDSD43pc1) | [Turn All The Lights On](https://open.spotify.com/album/2So8QRALJzGvefJp86htBu) | 2:17 | 2023-07-21 |  |
 | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/track/6gdDu39yYqPcaTgCwYEW8i) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Turn On The Lights again.\. \(feat\. Future\)](https://open.spotify.com/album/2jiMeC1iUWVYmvXSIiO8ks) | 4:27 | 2023-07-21 |  |
 | [Typa Girl](https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 3:04 | 2023-07-21 |  |

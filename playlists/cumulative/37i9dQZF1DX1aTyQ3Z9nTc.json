@@ -1764,7 +1764,7 @@
       ],
       "date_added": "2022-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 246387,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/68qSx0qS9nfVm4X0wFIBx1"
@@ -6466,6 +6466,32 @@
       "duration_ms": 190080,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/6cumYyZofMhY7aZJwP03po"
+    },
+    {
+      "album": {
+        "name": "Take You Higher (Serebii & Arjuna Oakes Remix)",
+        "url": "https://open.spotify.com/album/3qRv6l2iSQNduRxZ4AS4OD"
+      },
+      "artists": [
+        {
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
+        },
+        {
+          "name": "Serebii",
+          "url": "https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms"
+        },
+        {
+          "name": "Arjuna Oakes",
+          "url": "https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF"
+        }
+      ],
+      "date_added": "2022-08-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260545,
+      "name": "Take You Higher - Serebii & Arjuna Oakes Remix",
+      "url": "https://open.spotify.com/track/4fwlAd50vwI7q8KvzVPy6E"
     },
     {
       "album": {

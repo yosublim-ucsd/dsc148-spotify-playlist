@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 
 > Everything in Texas is best! Lo que suena in the Lone Star state\. Cover: Grupo Frontera & Grupo Firme
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,518 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,572 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 | 13 | [Pacas De Billetes](https://open.spotify.com/track/3IMuuBcKSeFqQSlF2XluA1) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Pacas De Billetes](https://open.spotify.com/album/70y25lLU64tj9PWd6CqVFG) | 3:08 |
 | 14 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 |
 | 15 | [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 |
-| 16 | [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 |
-| 17 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 |
+| 16 | [Billete Grande \(En Vivo\)](https://open.spotify.com/track/3XfUFGzbr0LmwFVoLXd9cO) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Billete Grande \(En Vivo\)](https://open.spotify.com/album/3qYGLHQB2krhFp27Hm62Ip) | 2:43 |
+| 17 | [Di Que Si](https://open.spotify.com/track/0kzN7YAMSbmlHOvxlbQW9y) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Di Que Si](https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e) | 3:10 |
 | 18 | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/track/0dWSN9JS8vAcnM8a6lxIrB) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [No Es Mentira \(Version Norteña\)](https://open.spotify.com/album/35qR2ZIduAuMTDDw3KAB69) | 3:20 |
 | 19 | [Eres Ese Algo](https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Al Derecho Y Al Reverso](https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN) | 2:53 |
 | 20 | [Vete](https://open.spotify.com/track/2QUlF7O0auutIII6Ntd7ZS) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Vete](https://open.spotify.com/album/36D06EKe6KD6Glf1VxWfgW) | 2:55 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 | 34 | [Chiquita Bonita](https://open.spotify.com/track/2OE3DPyc9S0IBLhy9S3vcn) | [La Fiera de Ojinaga](https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2) | [Chiquita Bonita](https://open.spotify.com/album/3Opmczjz0JKKUrX9LFJ0FB) | 2:36 |
 | 35 | [Todo A Su Tiempo](https://open.spotify.com/track/6EZXRINHTCGDwZzboCgDML) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [José Mejía](https://open.spotify.com/artist/111WEufNVhB1lRCVHAqEve), [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Todo A Su Tiempo](https://open.spotify.com/album/6YMvCl7JdI3KIOEwuz0b2g) | 3:37 |
 | 36 | [San Lucas](https://open.spotify.com/track/2lFhc7gAK3koo59b1Y0WpD) | [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Que nos Pasó?](https://open.spotify.com/album/4Xyck3G0D1Rw2jkYmhqF6E) | 2:39 |
-| 37 | [Te Quiero Ver](https://open.spotify.com/track/0V4weTyspxyq2AI5OuWGx8) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Te Quiero Ver](https://open.spotify.com/album/7x6X9chpDQnoqpt8pX9yA8) | 2:49 |
-| 38 | [Vámonos a Marte](https://open.spotify.com/track/6938ta8fOtvfFr54WCAy2C) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Vámonos a Marte](https://open.spotify.com/album/2bWa8CqwRv3XsPOrW1UGb9) | 3:11 |
+| 37 | [Vámonos a Marte](https://open.spotify.com/track/6938ta8fOtvfFr54WCAy2C) | [Los Pescadores Del Rio Conchos](https://open.spotify.com/artist/3h88VTqRj3GbUd2W41ZY5U), [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Vámonos a Marte](https://open.spotify.com/album/2bWa8CqwRv3XsPOrW1UGb9) | 3:11 |
+| 38 | [Te Quiero Ver](https://open.spotify.com/track/0V4weTyspxyq2AI5OuWGx8) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL) | [Te Quiero Ver](https://open.spotify.com/album/7x6X9chpDQnoqpt8pX9yA8) | 2:49 |
 | 39 | [Y Es Que Contigo](https://open.spotify.com/track/1x87m5qOQDngRadEcIPVhX) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Corridos y Sentimientos \(Vol 2\)](https://open.spotify.com/album/0ywgnvhlgNb1zDnUCewG0s) | 2:10 |
 | 40 | [Así Nací](https://open.spotify.com/track/45Ugm9xuEUtnItECxHghGx) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:47 |
 | 41 | [Me Rehuso](https://open.spotify.com/track/03lyJ1k9n9Q513D4Yw7hya) | [La Pocima Norteña](https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj) | [Me Rehuso](https://open.spotify.com/album/2PoPSX8a3Nw2CUe3rha7DY) | 2:47 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Eq6MmYdni.md) - [plain]
 | 49 | [Perfección](https://open.spotify.com/track/70PhHGQlEU2C5pcAR7rVnY) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Perfección](https://open.spotify.com/album/6JmjHJcvGcNv6JEjZb7Hwv) | 2:00 |
 | 50 | [Mi Tesoro \(En Vivo\)](https://open.spotify.com/track/5upZqOtEEFH9TwdYorE7Af) | [Los Dorados](https://open.spotify.com/artist/5whwFeuDSOzWgGAUs8KTUI) | [Mi Tesoro \(En Vivo\)](https://open.spotify.com/album/3izA85ST6c3tnSLoYg8v6W) | 3:02 |
 
-Snapshot ID: `MCxkNjllZDFiYTk5ZTRiNmYwMWM0NmMzZTljYWZhYzczMGIyYzZjZWE5`
+Snapshot ID: `MCxlMjIwMGRlMmY5ZmY0YmJiYTY1ZjExODc5NmRmODc5ZmY5MzQ2NmVk`

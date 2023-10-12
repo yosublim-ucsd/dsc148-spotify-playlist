@@ -1260,6 +1260,28 @@
     {
       "album": {
         "name": "Dizzy Bluesy (smile)",
+        "url": "https://open.spotify.com/album/2uL4cTLvR55iT0T2WUJQVq"
+      },
+      "artists": [
+        {
+          "name": "Mr Diz",
+          "url": "https://open.spotify.com/artist/6WJfjbKY69hEevc5WJH1vu"
+        },
+        {
+          "name": "Them",
+          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
+        }
+      ],
+      "date_added": "2023-07-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98969,
+      "name": "Dizzy Bluesy (smile)",
+      "url": "https://open.spotify.com/track/0GaYIrqFVEjN3bvrZRIgNg"
+    },
+    {
+      "album": {
+        "name": "Dizzy Bluesy (smile)",
         "url": "https://open.spotify.com/album/709ObnJx4qIQEbdukVVCnQ"
       },
       "artists": [
@@ -1274,7 +1296,7 @@
       ],
       "date_added": "2022-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 98969,
       "name": "Dizzy Bluesy (smile)",
       "url": "https://open.spotify.com/track/2M8ns1WQYQbS0E6Xef6Vuv"

@@ -4,7 +4,7 @@
 
 > Editors' picks of the best indie tracks this year\. Cover: Japanese Breakfast
 
-144 songs - 8 hr 22 min
+145 songs - 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,8 @@
 | [Sugar](https://open.spotify.com/track/2joEpsXflccZD0ZwKEdz5m) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Untourable Album](https://open.spotify.com/album/7FkJxlcljM6Ix0pC2JSNOE) | 2:56 | 2021-12-01 |  |
 | [Summer's Over](https://open.spotify.com/track/20pi3c6HXmaEeElCswISpD) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw), [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Summer's Over](https://open.spotify.com/album/4l58JlPq72gOA4veRxboVR) | 2:53 | 2021-12-01 |  |
 | [That Funny Feeling](https://open.spotify.com/track/30y5OpD8TPAru2wsyZDD4S) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [That Funny Feeling](https://open.spotify.com/album/5XRNskxrXy1Q12hV59zkDr) | 6:40 | 2021-12-01 |  |
-| [That Life](https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [That Life](https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N) | 3:35 | 2021-12-01 |  |
+| [That Life](https://open.spotify.com/track/0M2hckQzSt0AZFytuTC2Hp) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 3:35 | 2021-12-01 |  |
+| [That Life](https://open.spotify.com/track/5z0Wa1EiCoaUafx83WszRY) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [That Life](https://open.spotify.com/album/0JrBO42BQFg0t47H1llw4N) | 3:35 | 2021-12-01 | 2023-10-12 |
 | [The Distance](https://open.spotify.com/track/2L4HF8iN9aH2FH7jEs7EV6) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [When the Lights Go \(Deluxe\)](https://open.spotify.com/album/75kcLor7Woi17zEi5KX8Sf) | 4:51 | 2021-12-01 |  |
 | [The Distance](https://open.spotify.com/track/3MOUt4k7KUP8qVheHT8RG0) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/2ePg95gGoOPRmUQYFLq0wy) | 4:51 | 2021-12-01 | 2023-09-25 |
 | [The Distance](https://open.spotify.com/track/7kUZGVHKDRBrPIYfhZ49ju) | [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [The Distance](https://open.spotify.com/album/4Y5HddfFNFopRAhEbXuUe7) | 4:51 | 2021-12-01 | 2022-07-29 |

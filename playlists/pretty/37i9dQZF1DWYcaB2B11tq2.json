@@ -1,12 +1,12 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 389007,
+  "num_followers": 388916,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxZWM0YjQ0MTZkMTAwOTg3OGVhY2VmMjgwOTQzOWUyMGQyMzEyYjM2",
+  "snapshot_id": "MCxiNTFjYjhlZDYzOTM2MDY3ZTQ3MzhlMTg4ZjMyOGY2YjM0MDNiZjRj",
   "tracks": [
     {
       "added_at": "2021-05-21 19:19:27",
@@ -630,15 +630,11 @@
         {
           "name": "Marcela Gandara",
           "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        },
-        {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
         }
       ],
-      "duration_ms": 203516,
-      "name": "Si Sabes Donde Hallarlo (feat. Marcos Vidal)",
-      "url": "https://open.spotify.com/track/1ShMaAfr3S4TrovNsMRBkv"
+      "duration_ms": 212523,
+      "name": "Cerca Est\u00e1s",
+      "url": "https://open.spotify.com/track/7j4GJDmCiUEPZSu420sNul"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -806,11 +802,15 @@
         {
           "name": "Marcela Gandara",
           "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        },
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
         }
       ],
-      "duration_ms": 212523,
-      "name": "Cerca Est\u00e1s",
-      "url": "https://open.spotify.com/track/7j4GJDmCiUEPZSu420sNul"
+      "duration_ms": 203516,
+      "name": "Si Sabes Donde Hallarlo (feat. Marcos Vidal)",
+      "url": "https://open.spotify.com/track/1ShMaAfr3S4TrovNsMRBkv"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -959,18 +959,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "\u00bfQui\u00e9n Contra Nosotros?",
-        "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
+        "name": "Incontrolable Amor",
+        "url": "https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0"
       },
       "artists": [
         {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+          "name": "Kike Pav\u00f3n",
+          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
         }
       ],
-      "duration_ms": 201906,
-      "name": "Nada Me Falta",
-      "url": "https://open.spotify.com/track/1xNDwOT47JQFYvtT0JcP7F"
+      "duration_ms": 333120,
+      "name": "Incontrolable Amor",
+      "url": "https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -991,18 +991,18 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Incontrolable Amor",
-        "url": "https://open.spotify.com/album/6XJYAg8PeAzQ8pXrO8wSa0"
+        "name": "\u00bfQui\u00e9n Contra Nosotros?",
+        "url": "https://open.spotify.com/album/5cuqDgBJPMEWLjfbxnexp4"
       },
       "artists": [
         {
-          "name": "Kike Pav\u00f3n",
-          "url": "https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0"
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
         }
       ],
-      "duration_ms": 333120,
-      "name": "Incontrolable Amor",
-      "url": "https://open.spotify.com/track/6Ox0JjPdrXE0IgvyxoCbTn"
+      "duration_ms": 201906,
+      "name": "Nada Me Falta",
+      "url": "https://open.spotify.com/track/1xNDwOT47JQFYvtT0JcP7F"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1095,26 +1095,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "De La a a La Z",
-        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "Redimi2",
-          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
-        }
-      ],
-      "duration_ms": 226306,
-      "name": "No Soy Yo (feat. Redimi2)",
-      "url": "https://open.spotify.com/track/0pA8nTkyVvFdd1HO0oaOrB"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "El Eco De Su Voz",
         "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 265280,
       "name": "El Cielo Gobierna",
       "url": "https://open.spotify.com/track/3kIhZMcHnynqcSTSA06gds"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
+        "name": "De La a a La Z",
+        "url": "https://open.spotify.com/album/0LhQiVh7Hdi2qv5xGOOKIt"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "Redimi2",
+          "url": "https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm"
+        }
+      ],
+      "duration_ms": 226306,
+      "name": "No Soy Yo (feat. Redimi2)",
+      "url": "https://open.spotify.com/track/0pA8nTkyVvFdd1HO0oaOrB"
     },
     {
       "added_at": "2021-05-21 19:19:27",

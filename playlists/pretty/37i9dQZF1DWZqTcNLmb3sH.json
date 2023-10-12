@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Sapta Sagaradaache Ello - Side A",
-  "num_followers": 54179,
+  "num_followers": 54220,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNjc1NTdjMTBhZjA4MDQwMmJiMWQ4Yzk0YWFhNTYzMGViMzU5ODQy",
+  "snapshot_id": "MCwwZmIxYmY0ZjcwYjg3MWQwYTRhMzUwZTMxOGVjYzBiOGU2YTJiZTQx",
   "tracks": [
     {
       "added_at": "2023-09-12 08:17:16",
@@ -51,6 +51,54 @@
       "duration_ms": 233413,
       "name": "Jaggade Kuggade (From \"Ronnie - The Hunter\")",
       "url": "https://open.spotify.com/track/3JPqLECC7amVkYrxUsMDpK"
+    },
+    {
+      "added_at": "2023-10-11 13:54:48",
+      "album": {
+        "name": "Preethiya Aayudha [From \"Leo (Kannada)\"]",
+        "url": "https://open.spotify.com/album/5JfJWpxdqpErsx8YOG9tZI"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "J.V. Sudhanshu",
+          "url": "https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq"
+        },
+        {
+          "name": "Priya Mali",
+          "url": "https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM"
+        }
+      ],
+      "duration_ms": 214330,
+      "name": "Preethiya Aayudha (From \"Leo (Kannada)\")",
+      "url": "https://open.spotify.com/track/3YMuWlOveRgfTH4izD8SMw"
+    },
+    {
+      "added_at": "2023-10-11 12:45:39",
+      "album": {
+        "name": "Oh Baale (From \"ANIMAL\") [KANNADA]",
+        "url": "https://open.spotify.com/album/1QBVsVnaxZNTSuDulnBh5F"
+      },
+      "artists": [
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "duration_ms": 275439,
+      "name": "Oh Baale (From \"ANIMAL\") [KANNADA]",
+      "url": "https://open.spotify.com/track/4ewggQjpnST5rb6j3QjrW5"
     },
     {
       "added_at": "2023-10-10 07:56:30",
@@ -133,6 +181,22 @@
       "url": "https://open.spotify.com/track/2AAbCJPAwCHxElbz34ps3F"
     },
     {
+      "added_at": "2023-10-11 12:45:39",
+      "album": {
+        "name": "Baang (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lrjXieYG5pNO0ubgiCJDp"
+      },
+      "artists": [
+        {
+          "name": "Ritvik Muralidhar",
+          "url": "https://open.spotify.com/artist/6WCsxUetmUxK3BinjpKIDH"
+        }
+      ],
+      "duration_ms": 121035,
+      "name": "Trippy Song",
+      "url": "https://open.spotify.com/track/6Pan5h4nnewJKSPdwFRsx6"
+    },
+    {
       "added_at": "2023-09-20 12:59:03",
       "album": {
         "name": "Bad Boys (from \"Bheema\")",
@@ -155,6 +219,26 @@
       "duration_ms": 151000,
       "name": "Bad Boys (from \"Bheema\")",
       "url": "https://open.spotify.com/track/1fpHvSPEF5au5OTIrkroeV"
+    },
+    {
+      "added_at": "2023-10-11 13:48:53",
+      "album": {
+        "name": "Baang (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lrjXieYG5pNO0ubgiCJDp"
+      },
+      "artists": [
+        {
+          "name": "Nihal Tauro",
+          "url": "https://open.spotify.com/artist/64KzOsbd6ajeLLswNgJ8RF"
+        },
+        {
+          "name": "Ritvik Muralidhar",
+          "url": "https://open.spotify.com/artist/6WCsxUetmUxK3BinjpKIDH"
+        }
+      ],
+      "duration_ms": 188926,
+      "name": "Hosa Vibe",
+      "url": "https://open.spotify.com/track/4hLszBKKfmlSofhMcV4kZs"
     },
     {
       "added_at": "2023-10-07 10:55:54",
@@ -1273,30 +1357,6 @@
       "url": "https://open.spotify.com/track/5S9ASTIE8qeXQ44GhmG77O"
     },
     {
-      "added_at": "2023-08-24 13:43:18",
-      "album": {
-        "name": "Shruthiyagi Nee Seru (From \"Deadly Killer\")",
-        "url": "https://open.spotify.com/album/2wKvzn1oocG1xG6Jy4WoSj"
-      },
-      "artists": [
-        {
-          "name": "Rajesh Krishnan",
-          "url": "https://open.spotify.com/artist/0ZnBmsYz6ImvXdfUglJEWA"
-        },
-        {
-          "name": "Vinu Manasu",
-          "url": "https://open.spotify.com/artist/1ZibIIoDWcMC9UkJ4dHCfL"
-        },
-        {
-          "name": "Dr.Thriller Manju",
-          "url": "https://open.spotify.com/artist/3eWSRe5jojUY9N9cDjn5tQ"
-        }
-      ],
-      "duration_ms": 238285,
-      "name": "Shruthiyagi Nee Seru - From \"Deadly Killer\"",
-      "url": "https://open.spotify.com/track/0I8CTh6BC9jI1inrNIQCSf"
-    },
-    {
       "added_at": "2023-08-18 14:58:09",
       "album": {
         "name": "Gandarabai (From \"Skanda\")",
@@ -1391,30 +1451,6 @@
       "duration_ms": 206179,
       "name": "Doori Laali (From \"Tatsama Tadbhava\")",
       "url": "https://open.spotify.com/track/522QLFGU0FxuB7txjSv0AK"
-    },
-    {
-      "added_at": "2023-08-11 11:40:10",
-      "album": {
-        "name": "Marali Baa Nannamma (From \"Kousalya Supraja Rama\")",
-        "url": "https://open.spotify.com/album/0zLgKALvhpwwVu7g5iwGa5"
-      },
-      "artists": [
-        {
-          "name": "Vijay Prakash",
-          "url": "https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39"
-        },
-        {
-          "name": "Arjun Janya",
-          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
-        },
-        {
-          "name": "Shashank",
-          "url": "https://open.spotify.com/artist/37yERfVx2mLLJAVigQekAN"
-        }
-      ],
-      "duration_ms": 207529,
-      "name": "Marali Baa Nannamma (From \"Kousalya Supraja Rama\")",
-      "url": "https://open.spotify.com/track/7sGkGhe6mAtCCxX1lcpeLw"
     },
     {
       "added_at": "2023-08-10 11:59:55",
@@ -1517,34 +1553,6 @@
       "url": "https://open.spotify.com/track/1lD1sZXVYKjjvnaTehESwb"
     },
     {
-      "added_at": "2023-08-01 11:02:43",
-      "album": {
-        "name": "Panchali (From \" Kandor Mane Kathe \")",
-        "url": "https://open.spotify.com/album/6I7CMAQO82MQJHfjEVkB9f"
-      },
-      "artists": [
-        {
-          "name": "Kishan D'Souza",
-          "url": "https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6"
-        },
-        {
-          "name": "Varsha B Suresh",
-          "url": "https://open.spotify.com/artist/2s8PQOvFwO1u3V38n85U5W"
-        },
-        {
-          "name": "John Kennady",
-          "url": "https://open.spotify.com/artist/3o6tDaMkBF30McTajB5d3W"
-        },
-        {
-          "name": "Gowtham Yashodhara",
-          "url": "https://open.spotify.com/artist/5SJuQhyuTlyRVcTfcQQK5E"
-        }
-      ],
-      "duration_ms": 221612,
-      "name": "Panchali - From \" Kandor Mane Kathe \"",
-      "url": "https://open.spotify.com/track/0gJw0vFsSs3oxuoDB5N6cO"
-    },
-    {
       "added_at": "2023-07-04 11:00:31",
       "album": {
         "name": "Neeli Neeli Aakasha (From \"30 Dinadalli Preetsod Hege\")",
@@ -1611,26 +1619,6 @@
       "duration_ms": 163555,
       "name": "90 Haaku (From \"Kousalya Supraja Rama\")",
       "url": "https://open.spotify.com/track/7guLFKh9fms3nNu8tu21Ov"
-    },
-    {
-      "added_at": "2023-07-19 11:13:36",
-      "album": {
-        "name": "Daredevil Musthafa (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6RED4wqTEbC9xTcEs9NGs2"
-      },
-      "artists": [
-        {
-          "name": "Sunidhi Ganesh",
-          "url": "https://open.spotify.com/artist/3PPHt5iBZRfDNbiy6saH7K"
-        },
-        {
-          "name": "Varun Ramachandra",
-          "url": "https://open.spotify.com/artist/5UayLxcBFJpD03u2qihj84"
-        }
-      ],
-      "duration_ms": 132571,
-      "name": "Prarambha Payana",
-      "url": "https://open.spotify.com/track/5lJ9amDizjr5Z841zhFkeR"
     },
     {
       "added_at": "2023-05-20 08:05:14",

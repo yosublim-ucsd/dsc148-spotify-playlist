@@ -384,7 +384,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 172124,
       "name": "ATEA AL AMOR",
       "url": "https://open.spotify.com/track/4EiTe99n0OysiRcL17F6HM"
@@ -1924,6 +1924,24 @@
       "duration_ms": 242374,
       "name": "Futuro",
       "url": "https://open.spotify.com/track/3jHL68prXOOuDrgz9jbIoT"
+    },
+    {
+      "album": {
+        "name": "GAS",
+        "url": "https://open.spotify.com/album/1E9i3K2aDCotq9DN9D3ZWB"
+      },
+      "artists": [
+        {
+          "name": "Poe Leos",
+          "url": "https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147743,
+      "name": "GAS",
+      "url": "https://open.spotify.com/track/22Uq8APwbxC5vTuQaxswfJ"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 
 > The sweet sounds of Jordan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,333 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,326 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 35 | [Tmaneet Ashofak](https://open.spotify.com/track/5dueytCp1DWHJizVwQ34va) | [Omar Alabdallat](https://open.spotify.com/artist/3zbimX3Z591csbDHH2Iuxc), [Salah Alakhfash](https://open.spotify.com/artist/7zBvvEkToHUjaOmdVHHJfQ) | [Tmaneet Ashofak](https://open.spotify.com/album/0FIEcX7gSEX1h8PqsQbWhu) | 4:58 |
 | 36 | [Waggif](https://open.spotify.com/track/01g5Dl95lH5qQyjjXucOPf) | [Aziz Maraka](https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU) | [Waggif](https://open.spotify.com/album/0hLTpm3Xcac0uUsl1HfeQx) | 2:52 |
 | 37 | [Nasi](https://open.spotify.com/track/2c2by2xH5vEW142S9zZD7G) | [Hana Malhas](https://open.spotify.com/artist/0EQjOxeqpT2ebzA1NvT9Cu) | [Nasi](https://open.spotify.com/album/5LC6AvKrSmynyr7o50k5OM) | 3:44 |
-| 38 | [انتي القدر](https://open.spotify.com/track/2qSOhlYYwnlmTh5MNlxv6T) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [انتي القدر](https://open.spotify.com/album/3jm2Mw7iAV31QfoRverhwL) | 3:42 |
-| 39 | [Manama](https://open.spotify.com/track/3zOixogOi4v75PI7bkws2O) | [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF), [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [Manama](https://open.spotify.com/album/3pnLlR5wQ08LWbyb93clqe) | 3:40 |
+| 38 | [Manama](https://open.spotify.com/track/3zOixogOi4v75PI7bkws2O) | [Dub Caravan](https://open.spotify.com/artist/7BhIlI9vRbaE1i1bYm81ZF), [Almukhtar](https://open.spotify.com/artist/7ekEnaplxNFP0jh9hiyeM8) | [Manama](https://open.spotify.com/album/3pnLlR5wQ08LWbyb93clqe) | 3:40 |
+| 39 | [انتي القدر](https://open.spotify.com/track/2qSOhlYYwnlmTh5MNlxv6T) | [MoJaNaD](https://open.spotify.com/artist/1LTJFwU5wuzqgYWzvkqBix) | [انتي القدر](https://open.spotify.com/album/3jm2Mw7iAV31QfoRverhwL) | 3:42 |
 | 40 | [Mn Gheirik Enti](https://open.spotify.com/track/19M24LvVumMVlcQIHusXyl) | [Issam Alnajjar](https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r) | [Mn Gheirik Enti](https://open.spotify.com/album/41kBbSWRbStqfsrXeM5Cpo) | 3:01 |
 | 41 | [Laysa](https://open.spotify.com/track/2miXa7bxd39RSSn1VvPs7o) | [Luay Hijazeen](https://open.spotify.com/artist/2a1uAKszGY1wTHnbT0Y9Y8) | [Laysa](https://open.spotify.com/album/59al6unEUgOFKSknNugus9) | 2:26 |
 | 42 | [Khalliha Ala Allah](https://open.spotify.com/track/4UiGACEtRM9N0PxuXzrVfQ) | [Diana Karazon](https://open.spotify.com/artist/3faPN9ZqiY5AFpYAe8WqGE) | [Khalliha Ala Allah](https://open.spotify.com/album/3yqmmWNUtIMWBlFImfPhb0) | 4:12 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUlTJaFU1ddx.md) - [plain]
 | 59 | [Hala O Ghala](https://open.spotify.com/track/1DJ2pwtprG3edEU2pbVVDi) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Hala O Ghala](https://open.spotify.com/album/74vATKQHUWKVc4T7uYLK3n) | 3:31 |
 | 60 | [Ma Bdi Heb](https://open.spotify.com/track/54eiRWO1fHjuxWDptNftM8) | [Toni Qattan](https://open.spotify.com/artist/1IJJoAyxznu3orwXhlt3XO) | [Ma Bdi Heb](https://open.spotify.com/album/2mCEBE4YATciVhoaIWLc6Z) | 4:14 |
 
-Snapshot ID: `MCwxZjY3MTkyZTBiNmNkZDU0YjlhYzBjOWZjZWMwOWQ2ZTkwNjBiYzRh`
+Snapshot ID: `MCw1NzEwOGNiMzc4NWQyYzU4OGRjYjZkMWZhNjE1ZTE0ODBjYThkYmQ5`

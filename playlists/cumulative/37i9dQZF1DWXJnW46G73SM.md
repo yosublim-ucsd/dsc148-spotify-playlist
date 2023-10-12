@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف:<a href="https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl?si=BG7B9bJ\-TwWccNonxJ5DhA"> أصالة </a>
 
-676 songs - 1 day 14 hr 17 min
+677 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,7 +472,7 @@
 | [Welad El Nas](https://open.spotify.com/track/7IVOH9iOYCLh4ghPc2IjEn) | [Aziz El Shafei](https://open.spotify.com/artist/5afhldfOH1zWp9nhlvxFQL) | [Welad El Nas](https://open.spotify.com/album/3C47PBslEIMHA8C5MSC7ms) | 3:43 | 2022-10-26 | 2023-01-13 |
 | [Wendala3 \- ونتدلع](https://open.spotify.com/track/2ddCBRsbr5JEsJjA7XtTxT) | [Balqees](https://open.spotify.com/artist/6arfS6PinvWKGyMd1AqgFI) | [Wendala3 \(ونتدلع\)](https://open.spotify.com/album/6JhtlNXPOexvimNW4xzZfj) | 2:47 | 2022-06-09 | 2022-09-16 |
 | [Wenta Be3eed \- From "Bhabak" Movie](https://open.spotify.com/track/73NkK8DgV8Cgba60Cz4WKc) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [Wenta Be3eed \(From "Bhabak" Movie\)](https://open.spotify.com/album/4UukvPx3Zgpy1jtro3FHPH) | 3:46 | 2022-07-10 | 2022-10-11 |
-| [Wesh Fe Wesh](https://open.spotify.com/track/5fAUv5a2irIalEikHDrhTi) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Wesh Fe Wesh](https://open.spotify.com/album/3SO89tvWh3ntHESFjvTL80) | 1:55 | 2023-08-20 |  |
+| [Wesh Fe Wesh](https://open.spotify.com/track/5fAUv5a2irIalEikHDrhTi) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [Wesh Fe Wesh](https://open.spotify.com/album/3SO89tvWh3ntHESFjvTL80) | 1:55 | 2023-08-20 | 2023-10-12 |
 | [Wleeh](https://open.spotify.com/track/5QIatrUnbjkDqftJbfZo5B) | [Mohamed Maghraby](https://open.spotify.com/artist/5YzWtu1xGAMgt1ZXDbBTSV) | [Wleeh](https://open.spotify.com/album/6Zuvzyj59U0Q1xKMSFo0xG) | 3:50 | 2022-03-18 | 2022-07-11 |
 | [Ya 3araf](https://open.spotify.com/track/6v9noMonS9GMI3Yx9CsSmF) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V), [NORDO](https://open.spotify.com/artist/44qTyRXwTktHVC0X1FGnJn), [Ahmed Zaeem](https://open.spotify.com/artist/36vOw5rJH8SM7GymEeg73T) | [Ya 3araf](https://open.spotify.com/album/39Vo4WKz2TYSBflvVgckfi) | 4:40 | 2023-01-06 | 2023-02-17 |
 | [Ya Bakhty Beh](https://open.spotify.com/track/1CEYTW1P2mKpZgxouGDw8f) | [Jannat](https://open.spotify.com/artist/3MpEY93FasSif1w2qbutch) | [Ya Bakhty Beh](https://open.spotify.com/album/0tFBtGwjlCel82hP0xN1hy) | 3:15 | 2022-11-08 | 2023-01-20 |
@@ -591,6 +591,7 @@
 | [شكر خاص](https://open.spotify.com/track/0lSVhIuoo0Qbtqr7xz1Ifs) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [شكر خاص](https://open.spotify.com/album/2QRaqOHlatJV6qrxvLYvav) | 3:34 | 2023-02-23 | 2023-05-04 |
 | [شوفت](https://open.spotify.com/track/11KqopQALDho8OLRARxdcS) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2), [Mirna Hesham](https://open.spotify.com/artist/2XuOGCueot1VkEcd5tQVYB) | [شوفت](https://open.spotify.com/album/21y3qgHakvFl9iRhxMFvu9) | 3:39 | 2023-01-06 | 2023-02-17 |
 | [صباح اسكندراني](https://open.spotify.com/track/1XhlXdZEXF6gG0lFnq9iTO) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [صباح اسكندراني](https://open.spotify.com/album/2GeZia68kzHFeTZfbe1Bhn) | 3:35 | 2023-05-04 | 2023-06-16 |
+| [صباحك فل](https://open.spotify.com/track/30hyzpcZJhX0EumCQl2mW5) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [صباحك فل](https://open.spotify.com/album/63bYgOsTB5xPlTMfQhXv3V) | 3:00 | 2023-10-11 |  |
 | [صدقونا](https://open.spotify.com/track/4PnLVm1FmAZtq0IWY5HYsA) | [Majd El Qassem](https://open.spotify.com/artist/3JYQe04S3M2qJdiLRIKhAd) | [صدقونا](https://open.spotify.com/album/4SAXz6gJcUj3M0a9eZQbnS) | 3:01 | 2023-02-16 | 2023-04-21 |
 | [ضرب نار \- تتر بداية المسلسل](https://open.spotify.com/track/1m0IonlGzhsZwYfuaMlvdI) | [Mohamed El helw](https://open.spotify.com/artist/3dcqyPdXEFFEYsVkgJpqJK), [Hanan Mady](https://open.spotify.com/artist/6JiYm4VkRDfzUbKuRdO6xZ) | [ضرب نار \(تتر بداية المسلسل\)](https://open.spotify.com/album/5KCPJ0yrhgiA7j50Zn1Fn5) | 3:37 | 2023-04-05 | 2023-05-19 |
 | [ضيعنا](https://open.spotify.com/track/5yTfxpokxXoYxaeqHNPnUE) | [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV), [Abd El Basset Hamouda](https://open.spotify.com/artist/6uxT2qSLGzGkm3frsoMPuw) | [ضيعنا](https://open.spotify.com/album/0kFp6MiAWrWFiH43QSBpfq) | 3:34 | 2021-12-23 | 2022-02-12 |

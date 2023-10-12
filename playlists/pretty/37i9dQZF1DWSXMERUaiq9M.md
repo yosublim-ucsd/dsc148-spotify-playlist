@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,780 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,484 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 16 | [Space Train](https://open.spotify.com/track/4eVXJrgK3AXU0IgujAgEjB) | [Kevin D'Angello](https://open.spotify.com/artist/5cg7ESNx1k1NLAkdx78P9y), [Kevin D](https://open.spotify.com/artist/7IwSYMdY2qHT0H6tIGH6l3) | [Space Train](https://open.spotify.com/album/6jFLFLzf3ILnZ1hUF4wGpn) | 2:26 |
 | 17 | [All The Things She Said \- Teaboy Flip](https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J) | [TEABOY](https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x) | [All The Things She Said \(Teaboy Flip\)](https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe) | 2:44 |
 | 18 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 |
-| 19 | [Jet Plane](https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j) | [Gusted](https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ) | [Jet Plane](https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV) | 3:02 |
-| 20 | [S&M \(With Chacel\) \- HYPERTECHNO Edit](https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [S&M \(With Chacel\) \[HYPERTECHNO Edit\]](https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK) | 2:58 |
-| 21 | [KETA UND KRAWALL](https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [KETA UND KRAWALL](https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa) | 2:05 |
+| 19 | [KETA UND KRAWALL](https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa) | [Ikkimel](https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn), [Barré](https://open.spotify.com/artist/2oxB9ArMXPTWdsMg4kKmLl) | [KETA UND KRAWALL](https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa) | 2:05 |
+| 20 | [Jet Plane](https://open.spotify.com/track/7c87NBp808HkgxfDzQCs4j) | [Gusted](https://open.spotify.com/artist/2BRM24K0fU89hsKIZZXeuZ) | [Jet Plane](https://open.spotify.com/album/0hax7oeHg8KrpWqwEsJayV) | 3:02 |
+| 21 | [S&M \(With Chacel\) \- HYPERTECHNO Edit](https://open.spotify.com/track/0qtQPmrqQq09KKDqxNltgM) | [Macon](https://open.spotify.com/artist/2Tubog1fy1Lw5OXVFOpgfJ), [Chacel](https://open.spotify.com/artist/5tuAPsi3Q6vJLBPeP8Viep) | [S&M \(With Chacel\) \[HYPERTECHNO Edit\]](https://open.spotify.com/album/03dARt9q9tCPuavH3xT9jK) | 2:58 |
 | 22 | [Romantika](https://open.spotify.com/track/4nOOoo9OJbgnTBNHe5b6nD) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Eros Massacre](https://open.spotify.com/album/0ZVpEzmv3wYLL1waCPPf7V) | 4:10 |
 | 23 | [Lost in Chaos](https://open.spotify.com/track/06b25nBIIh9eEc3xQanUan) | [ADB](https://open.spotify.com/artist/12YduHZJsgoAQlzLEDdT8T) | [Lost in Chaos](https://open.spotify.com/album/3ZU4vBH6aIJ5JvScEmmsOl) | 4:35 |
 | 24 | [Irre \- KomaCasper Remix](https://open.spotify.com/track/4W2Xk8VUlrPkPSsLUaeMS3) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo), [Haexxa](https://open.spotify.com/artist/0GY1LiRaEjFG0n8rP8wvrC), [KomaCasper](https://open.spotify.com/artist/5yYwA7jmFlU01EKoLfeNpV) | [Irre \(KomaCasper Remix\)](https://open.spotify.com/album/0BmdJkFTMBtqBt0d1ZwrQ4) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 49 | [Donkers](https://open.spotify.com/track/6kvjzDjx2Z3z23xRq13xMu) | [Gonzi](https://open.spotify.com/artist/5QahAoa4CrRbxmriKGacoe), [Creeds](https://open.spotify.com/artist/2gW0M5fn2r7Lo4Hn1r8HZ5) | [Donkers](https://open.spotify.com/album/06SEttic5htIY70LgIXuQR) | 5:04 |
 | 50 | [Heartbreak Repair System](https://open.spotify.com/track/2Vl7tpgcrVNT2FlAFs9oPm) | [DJ HEARTSTRING](https://open.spotify.com/artist/5tcwaJBUyEdxQxvieuQxU7), [Narciss](https://open.spotify.com/artist/7jEmLGxzh2RuOwdj96tlyL) | [Heartbreak Repair System](https://open.spotify.com/album/2kuCtLukAviIdRfqsYUfoV) | 2:50 |
 
-Snapshot ID: `MCw1ZjgyOWEyMDU1ZDE5MTBmNzU3MTFmYTNlZTQzYmNlMDk5MDc4ZmFk`
+Snapshot ID: `MCxkM2QxNTg5NTBlZDI0YjNkNTZhM2UxNjQ2OGNhYmE2MjE5NjM0MzE1`

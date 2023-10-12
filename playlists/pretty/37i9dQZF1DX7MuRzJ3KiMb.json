@@ -1,12 +1,12 @@
 {
   "description": "el amor es <3",
-  "num_followers": 59657,
+  "num_followers": 59748,
   "original_name": "cursi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGVjZTQxOWFmOTZiYmNiZWFmMzc2Njg2ZGU1YmJmOGRmZmQzNGNi",
+  "snapshot_id": "MCxiYzY3YWMxN2UxMzUzOTE2NDkxNTNiODRmZmI5MzliMzk0MzFlMWFj",
   "tracks": [
     {
       "added_at": "2023-06-22 20:49:18",
@@ -895,18 +895,22 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "Tengo Algo Que Decirte",
-        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
+        "name": "Quiero Verte Hoy",
+        "url": "https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ"
       },
       "artists": [
         {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        },
+        {
+          "name": "Vanessa Zamora",
+          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
         }
       ],
-      "duration_ms": 206546,
-      "name": "Tengo Algo Que Decirte",
-      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
+      "duration_ms": 215782,
+      "name": "Quiero Verte Hoy",
+      "url": "https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA"
     },
     {
       "added_at": "2023-06-22 20:49:18",
@@ -927,22 +931,18 @@
     {
       "added_at": "2023-06-22 20:49:18",
       "album": {
-        "name": "Quiero Verte Hoy",
-        "url": "https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ"
+        "name": "Tengo Algo Que Decirte",
+        "url": "https://open.spotify.com/album/58XueoPsoMzd3nzH2s8B9A"
       },
       "artists": [
         {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        },
-        {
-          "name": "Vanessa Zamora",
-          "url": "https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC"
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
         }
       ],
-      "duration_ms": 215782,
-      "name": "Quiero Verte Hoy",
-      "url": "https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA"
+      "duration_ms": 206546,
+      "name": "Tengo Algo Que Decirte",
+      "url": "https://open.spotify.com/track/5Ntox2jSrDcVUKOoW0TYHG"
     },
     {
       "added_at": "2023-06-22 20:49:18",

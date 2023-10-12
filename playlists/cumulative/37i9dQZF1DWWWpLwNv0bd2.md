@@ -2,9 +2,9 @@
 
 ### [Latest Love Tamil](https://open.spotify.com/playlist/37i9dQZF1DWWWpLwNv0bd2)
 
-> Check out the Latest Romance Tracks.<br/>Cover : Jawan
+> Check out the Latest Romance Tracks.<br/>Cover : Leo
 
-154 songs - 10 hr 20 min
+155 songs - 10 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Alai Alaiyaaga \- From "Navarasa"](https://open.spotify.com/track/3BA7DwnFY3wo2P6vtTpcvm) | [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Alai Alaiyaaga \(From "Navarasa"\)](https://open.spotify.com/album/1JSsWtXQT3mVFtefwk3D5F) | 1:36 | 2021-11-29 | 2022-10-19 |
 | [Alaikadal](https://open.spotify.com/track/7kcMEKsmqgfq68gSQk6F9c) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Antara Nandy](https://open.spotify.com/artist/5t0Sf8M5KByD2fIBiVKavT) | [Ponniyin Selvan Part\-1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN) | 5:14 | 2022-09-13 |  |
 | [Anbarey \(From "Gulu Gulu"\)](https://open.spotify.com/track/78xl1agm6jjt1u7YvgWtLo) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Dhee](https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH) | [Anbarey \(From "Gulu Gulu"\)](https://open.spotify.com/album/4VRLCbpd2pX3zB9R47OrwH) | 3:44 | 2022-07-23 |  |
+| [Anbenum \(From "Leo"\)](https://open.spotify.com/track/3l198ZkmLWrHYL3WXTOoep) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Lothika](https://open.spotify.com/artist/7yZDrVInKssNCaZkAkQGTX) | [Anbenum \(From "Leo"\)](https://open.spotify.com/album/4bf7T0AXRlgHjLZVxhIkfz) | 3:34 | 2023-10-11 |  |
 | [Annapoorani](https://open.spotify.com/track/3siHw6IyoSjclNZXdbttCQ) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Lalitha Vijaykumar](https://open.spotify.com/artist/1U7WlO4O1AD6LbFuLMuqfW), [Ponram](https://open.spotify.com/artist/5P5VAzbGY1lA2g7CDkJJTS) | [DSP \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2UgjttUimzckiOaK6CdlN8) | 4:35 | 2022-11-28 | 2023-02-16 |
 | [Aradhya](https://open.spotify.com/track/21FnxXYNEPSjcX08tR0M8W) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Kushi \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7BwZ2CnYpBBHRQiUI8TQkJ) | 4:42 | 2023-07-12 | 2023-09-02 |
 | [Aradhya \(From "Kushi"\)](https://open.spotify.com/track/43iLKMSX7iSgniaoMJLgUK) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Madhan Karky](https://open.spotify.com/artist/0MC4IRJmruzbwPInw7vmL7) | [Aradhya \(From "Kushi"\)](https://open.spotify.com/album/6QHLsHtaDPNeGcN4ujmEpT) | 4:42 | 2023-07-12 | 2023-07-18 |

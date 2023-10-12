@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Nej
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,020 likes - 40 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,097 likes - 40 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [CV \(feat\. RK\)](https://open.spotify.com/track/7cS0iYSpeBa0qxLsXMELC4) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [Enchanté](https://open.spotify.com/album/4jzttg9eCu7YcpAQsu75mu) | 2:54 |
 | 40 | [On vient de loin](https://open.spotify.com/track/2hsWXtf1kKPubl90gl6PbQ) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [On vient de loin](https://open.spotify.com/album/12fpYUwuFUcvwCplvxNQSV) | 2:32 |
 
-Snapshot ID: `MCxmYmU4Nzc1NDcxNWRmNWQ2NmY1NzhlYzMxMzI5NTFhMTI5MDhkZWU1`
+Snapshot ID: `MCxhYTBiN2RiNDRjMmNjYWQ3OWE0ODdhZmZiMTc1ZjRlMDM1OTM4OTRk`

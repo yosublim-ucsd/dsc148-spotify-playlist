@@ -1,12 +1,12 @@
 {
   "description": "Slow jams from West Africa that unwind and relax",
-  "num_followers": 17801,
+  "num_followers": 17854,
   "original_name": "Chill Bops",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwOGUzYWNmZTEzMzA3NzQ5ZDNiMTI5YzI4N2RhMTczY2E1ZTMwZWE1",
+  "snapshot_id": "MCxmZDgwYzNkMzgxNGM0YjI1ZmE0ZDJjZmUzYjViYzQ5ODNmMTg0NWVl",
   "tracks": [
     {
       "added_at": "2023-09-29 00:01:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "My Darling + Angelus",
-        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
-      },
-      "artists": [
-        {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Angelus",
-      "url": "https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Quick Question",
         "url": "https://open.spotify.com/album/2syIcbjNfLGDh7HV9jr7N5"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 161632,
       "name": "Quick Question",
       "url": "https://open.spotify.com/track/34iCDXDpWVR6ET2aBRiAqb"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "My Darling + Angelus",
+        "url": "https://open.spotify.com/album/0FLA39VyPgqIUGQg413ptJ"
+      },
+      "artists": [
+        {
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Angelus",
+      "url": "https://open.spotify.com/track/2g43A8NJ0VInfpqUjsb5R6"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -815,26 +815,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Boy Alone (Deluxe)",
-        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
-      },
-      "artists": [
-        {
-          "name": "Omah Lay",
-          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
-        },
-        {
-          "name": "Aitch",
-          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
-        }
-      ],
-      "duration_ms": 166271,
-      "name": "imagine (feat. Aitch)",
-      "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "Palmwine Music 2",
         "url": "https://open.spotify.com/album/40nNC1WqyKr4IHIJH0cxS5"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 255157,
       "name": "Tropicana",
       "url": "https://open.spotify.com/track/3owm3LW9jSaF0UjULZvGJw"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Boy Alone (Deluxe)",
+        "url": "https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq"
+      },
+      "artists": [
+        {
+          "name": "Omah Lay",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        },
+        {
+          "name": "Aitch",
+          "url": "https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF"
+        }
+      ],
+      "duration_ms": 166271,
+      "name": "imagine (feat. Aitch)",
+      "url": "https://open.spotify.com/track/7fHh8PFkxQnKYw8vKPLlg3"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1203,6 +1203,26 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
+        "name": "No Stress",
+        "url": "https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB"
+      },
+      "artists": [
+        {
+          "name": "Tony Frank",
+          "url": "https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 155141,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
         "name": "Your Body (feat. Bnxn)",
         "url": "https://open.spotify.com/album/1oPMIfZFH7ioBvjHI5sdnK"
       },
@@ -1235,26 +1255,6 @@
       "duration_ms": 187206,
       "name": "In The Morning",
       "url": "https://open.spotify.com/track/6ujpgpRiy9MKpae941OGrq"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
-        "name": "No Stress",
-        "url": "https://open.spotify.com/album/0oZfRIJnwhVHbtgeHqoPvB"
-      },
-      "artists": [
-        {
-          "name": "Tony Frank",
-          "url": "https://open.spotify.com/artist/6wC3pFGIEB7mzGlBdSbseh"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 155141,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/4MB9KjYBDN1EsXFGDXVdfC"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "CLOUD 9",
-        "url": "https://open.spotify.com/album/7Jk4YjRuYlomAcJ9ELgZDx"
-      },
-      "artists": [
-        {
-          "name": "SPINALL",
-          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
-        },
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 188823,
-      "name": "CLOUD 9",
-      "url": "https://open.spotify.com/track/6NPGARxLviKCfERFuSMiaO"
-    },
-    {
-      "added_at": "2023-09-29 00:01:00",
-      "album": {
         "name": "L.I.T.A",
         "url": "https://open.spotify.com/album/2e7UIUu34tdxKVkcTG3463"
       },
@@ -1335,22 +1315,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/6QZtBw7JM1PqmJwcGQaSVX"
+        "name": "CLOUD 9",
+        "url": "https://open.spotify.com/album/7Jk4YjRuYlomAcJ9ELgZDx"
       },
       "artists": [
         {
-          "name": "Victony",
-          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+          "name": "SPINALL",
+          "url": "https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP"
         },
         {
-          "name": "Falz",
-          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/0nUdCgNaD390nOnmbBxRp9"
+      "duration_ms": 188823,
+      "name": "CLOUD 9",
+      "url": "https://open.spotify.com/track/6NPGARxLviKCfERFuSMiaO"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1375,18 +1355,22 @@
     {
       "added_at": "2023-09-29 00:01:00",
       "album": {
-        "name": "Vawulence",
-        "url": "https://open.spotify.com/album/09EXBWpvIYBAwO9lCNZMvw"
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/6QZtBw7JM1PqmJwcGQaSVX"
       },
       "artists": [
         {
-          "name": "Yaadman fka Yung L",
-          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+          "name": "Victony",
+          "url": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG"
+        },
+        {
+          "name": "Falz",
+          "url": "https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl"
         }
       ],
-      "duration_ms": 132039,
-      "name": "Vawulence",
-      "url": "https://open.spotify.com/track/0tu7UAep0cBH35Lzln2Fjw"
+      "duration_ms": 163200,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/0nUdCgNaD390nOnmbBxRp9"
     },
     {
       "added_at": "2023-09-29 00:01:00",
@@ -1407,6 +1391,22 @@
       "duration_ms": 149387,
       "name": "Alinko",
       "url": "https://open.spotify.com/track/0aUYRTlB5OkYf2MIpjWVgm"
+    },
+    {
+      "added_at": "2023-09-29 00:01:00",
+      "album": {
+        "name": "Vawulence",
+        "url": "https://open.spotify.com/album/09EXBWpvIYBAwO9lCNZMvw"
+      },
+      "artists": [
+        {
+          "name": "Yaadman fka Yung L",
+          "url": "https://open.spotify.com/artist/0XnH3M78JKVEjutHn1146c"
+        }
+      ],
+      "duration_ms": 132039,
+      "name": "Vawulence",
+      "url": "https://open.spotify.com/track/0tu7UAep0cBH35Lzln2Fjw"
     },
     {
       "added_at": "2023-09-29 00:01:00",

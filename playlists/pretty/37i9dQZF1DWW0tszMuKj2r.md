@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 
 > ¡Cañonazos salseros para persignar la pista de baile!
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,237 likes - 125 songs - 9 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,310 likes - 125 songs - 9 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 82 | [Extrañándote](https://open.spotify.com/track/5U4v7JyApEbijyfwVQKYn4) | [Michel el Buenón](https://open.spotify.com/artist/0XpNiF9v1QPnRWKKGoffQf) | [Arriba Siempre \- De Pura Sangre](https://open.spotify.com/album/1UhIVjp2K6lDVbzpBKs1zp) | 5:05 |
 | 83 | [Hechizo](https://open.spotify.com/track/6SDFIy0gtc8tLjVGWIJkxq) | [Danny Daniel](https://open.spotify.com/artist/35T96HTcA2Htb7z45hXfQB), [Prix 06](https://open.spotify.com/artist/6im4HqwEQxtiO57W6M8oDX) | [Hechizando](https://open.spotify.com/album/5aYFFREW8bBjbh0yV886bq) | 4:27 |
 | 84 | [El Gran Varon](https://open.spotify.com/track/3TyMFBLPobtMaH8oeY0sMP) | [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Legal Alien \- Top Secrets](https://open.spotify.com/album/3lrV32bX7EIcNKn4OHXrkQ) | 6:54 |
-| 85 | [Desnúdate Mujer](https://open.spotify.com/track/0NmiKXgu8oRjfL5B85RDrL) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz La Leyenda](https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ) | 4:47 |
-| 86 | [Agua Caliente](https://open.spotify.com/track/5HmxRC7UzG9FxGYAm7EsXH) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Amanecí Contigo Y Sin Tabú](https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB) | 3:59 |
+| 85 | [Agua Caliente](https://open.spotify.com/track/5HmxRC7UzG9FxGYAm7EsXH) | [Hildemaro](https://open.spotify.com/artist/2jc6xa4fD1dcYzuzGadGic) | [Amanecí Contigo Y Sin Tabú](https://open.spotify.com/album/40PyxT3MBm2aGxKLKKBfBB) | 3:59 |
+| 86 | [Desnúdate Mujer](https://open.spotify.com/track/0NmiKXgu8oRjfL5B85RDrL) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Frankie Ruiz La Leyenda](https://open.spotify.com/album/1R8Tr9GPJZS6XGEvnOn8sJ) | 4:47 |
 | 87 | [Isi](https://open.spotify.com/track/4lWe0aVc9STQ4bkrGkVGTQ) | [Gustavo Rodriguez](https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2) | [Septimo Sentido](https://open.spotify.com/album/5GnJWm3R6gHT25NuTq1VdQ) | 5:12 |
 | 88 | [Tendria Que Llorar Por Ti](https://open.spotify.com/track/1KvvRNWBKRcWE6aSxroIb0) | [Moncho Santana](https://open.spotify.com/artist/2JqEiy0aIziuAupest70fk) | [From Cali with Love](https://open.spotify.com/album/6l2H02jQ5TEVk0QTI90I4s) | 5:01 |
 | 89 | [Nadie Quien Te Quiera](https://open.spotify.com/track/7BkgekXJ6bUv3enpOpwmnR) | [Antonio Cartagena](https://open.spotify.com/artist/3ytvFBT8M647H3cNQdCjhF) | [Hermanos Cartagena](https://open.spotify.com/album/0UfbpgoRUfXRSJKTnrOFCE) | 4:01 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW0tszMuKj2r.md) - [plain]
 | 124 | [Tu Cariñito](https://open.spotify.com/track/7cl1jhPW0kwvvrI0YwOkEC) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Hot Latin Tracks](https://open.spotify.com/album/1EjKhZdCc1bZNeyza5tlV5) | 4:11 |
 | 125 | [Lluvia](https://open.spotify.com/track/7x755UIRuKP7ZpaVvHdgN1) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Salsa Sabrosa](https://open.spotify.com/album/4dYs67b6TGJLSmh8WbW0Zt) | 4:56 |
 
-Snapshot ID: `MCwyODRiOWVlZDlhMmIxMWUyODZkN2I0ZWM4YzI2MmYxYmY5YzMwMjhk`
+Snapshot ID: `MCwyMGRhNTA4MGQxZDdkMTMwYzVkODM5ZGU1Nzg2ZWVkN2E3OGY1MmUx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 
 > Relax to the the rhythm of these smooth Latin tunes of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,790 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,978 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 26 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
 | 27 | [Un Idiota](https://open.spotify.com/track/5susfx6SX1tebTCLSxe74K) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:19 |
 | 28 | [Víveme](https://open.spotify.com/track/376zCxYCHr7rSFBdz41QyE) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Escucha](https://open.spotify.com/album/3erbmiWdMAOvzG7FbpZnhL) | 3:56 |
-| 29 | [Mentira](https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:48 |
-| 30 | [Sabes](https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:41 |
+| 29 | [Sabes](https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:41 |
+| 30 | [Mentira](https://open.spotify.com/track/5Em7MA991Gn3yhheaul0CX) | [La Ley](https://open.spotify.com/artist/1ZVoRDO29AlDXiMkRLMZSK) | [La Ley MTV Unplugged](https://open.spotify.com/album/0QkgxSUu5hG0yMkmVXBFKi) | 4:48 |
 | 31 | [Te Vi Venir](https://open.spotify.com/track/3WpUm0g3LnhZcdMDmaj3XM) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Sin Bandera](https://open.spotify.com/album/7DIyUvlaJ0bsxLbenDLm73) | 3:14 |
 | 32 | [Volverte A Ver](https://open.spotify.com/track/2ZqFfDwNjKvPu3USx3onhO) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Mi Sangre](https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne) | 3:37 |
 | 33 | [El Loco](https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:05 |
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 87 | [Sin ti no soy nada](https://open.spotify.com/track/7cQ7axcCXsa963OluHTWlS) | [Amaral](https://open.spotify.com/artist/4OkeTQCk0fvX6VBYpOOxDi) | [Estrella De Mar](https://open.spotify.com/album/1QGknzEMRCNdJ8v1i49SAZ) | 4:28 |
 | 88 | [Algo Más](https://open.spotify.com/track/1L8RiMflaEtWqg6GtRQNAF) | [La Quinta Estacion](https://open.spotify.com/artist/7FZj349hdLfD6qzXkJLuAh) | [Recuérdame Con Cartas Y Algo Más..\. Los Exitos \(Deluxe Edition\)](https://open.spotify.com/album/3PXv5uwPtZmtg0Qq6PxAgm) | 4:26 |
 | 89 | [Momento](https://open.spotify.com/track/1eQU5ex4RcVjz55hWPeJzc) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [Barrilete](https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g) | 5:49 |
-| 90 | [¿Dónde Están Corazón?](https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [¿Dónde Están Corazón?](https://open.spotify.com/album/2PvvCXswfTBnTHDg3GIh9p) | 4:19 |
-| 91 | [Alucinado](https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX) | [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Yahir](https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6) | 5:04 |
+| 90 | [Alucinado](https://open.spotify.com/track/3gKm2TjAkLUNpJC1WKOzjX) | [Yahir](https://open.spotify.com/artist/1bqHIHJm8coUJqqoguolZJ) | [Yahir](https://open.spotify.com/album/744vGdkALQFC1WoKzSm9G6) | 5:04 |
+| 91 | [¿Dónde Están Corazón?](https://open.spotify.com/track/0Ky9DFq4xtsIZQiI0d2fnG) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [¿Dónde Están Corazón?](https://open.spotify.com/album/2PvvCXswfTBnTHDg3GIh9p) | 4:19 |
 | 92 | [Looking for Paradise \(feat\. Alicia Keys\)](https://open.spotify.com/track/02f5iKhfXVvCWK641es1sT) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Paraiso Express](https://open.spotify.com/album/0WSmZjtSlfaMoJjrhj7R7z) | 4:30 |
 | 93 | [No Puedo Dejarte de Amar \(with Jesús Navarro\)](https://open.spotify.com/track/0RGRcMtokeaLUNAhqNIfKw) | [Kalimba](https://open.spotify.com/artist/4RjamFQJNT8nVbTKXJDJgv), [Jesús Navarro](https://open.spotify.com/artist/177dG4gTPSBg2F2KXZdPMW) | [Negroklaro](https://open.spotify.com/album/3coPqLJEOG5cahTVTRrWYM) | 5:17 |
 | 94 | [Ojalá Pudiera Borrarte](https://open.spotify.com/track/3PfE0RGeID7Vqs9DygY9RM) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Amar es Combatir](https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga) | 4:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWValJmYBKiAM.md) - [plain]
 | 99 | [Para Qué La Vida](https://open.spotify.com/track/4ZwU8VMYnkigKVJgSgTBtK) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw) | [Quizás](https://open.spotify.com/album/4yZ94VdhoJGQMz6aNUlcc0) | 4:05 |
 | 100 | [Bésame](https://open.spotify.com/track/15eXfjBk8M8L0aKJXe5YnG) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Besame](https://open.spotify.com/album/0Q8YqUymZLPDwUwfAHqZHg) | 3:56 |
 
-Snapshot ID: `MCxiNWUzYzE5OTg2MjkzODljNTJhYjUzZTQ1NmJiZmNmMGI1MzAxM2Qy`
+Snapshot ID: `MCxmMDZhMTZjNzQyYTQxNTNjZTU5OGE2ZTA5ZmUzNTZhMjQ4ZTcxZGQw`

@@ -1,13 +1,29 @@
 {
   "description": "Un perreito en la pared...",
-  "num_followers": 879888,
+  "num_followers": 879632,
   "original_name": "La Casa del Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2NjFmZGY5ZmJjNWMzNTQ5MWM4MThjNTY5OWFmNDUxYTNjMzRiYmM0",
+  "snapshot_id": "MCw5OTFiY2Q2OTJkOTU1NTBkZDZhNDhmMDhkYzk0ZjhlMWE2NWI3MTVl",
   "tracks": [
+    {
+      "added_at": "2023-10-11 01:26:51",
+      "album": {
+        "name": "Holanda",
+        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Holanda",
+      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
+    },
     {
       "added_at": "2023-10-11 01:26:51",
       "album": {
@@ -31,24 +47,8 @@
     {
       "added_at": "2023-10-11 01:26:51",
       "album": {
-        "name": "Holanda",
-        "url": "https://open.spotify.com/album/42D6fdFJ4SLnh4jXZJrsNa"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Holanda",
-      "url": "https://open.spotify.com/track/6irysuQyZWd7Bjj7ePiOs2"
-    },
-    {
-      "added_at": "2023-10-11 01:26:51",
-      "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs"
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
       },
       "artists": [
         {
@@ -60,9 +60,9 @@
           "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 170693,
+      "duration_ms": 170640,
       "name": "GANGSTERS Y PISTOLAS",
-      "url": "https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx"
+      "url": "https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn"
     },
     {
       "added_at": "2023-10-11 01:26:51",
@@ -147,26 +147,26 @@
     {
       "added_at": "2023-10-11 01:26:51",
       "album": {
-        "name": "Platonicos",
-        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
+        "name": "Famouz",
+        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
       },
       "artists": [
         {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
         },
         {
-          "name": "DJ Nelson",
-          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
         },
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 219048,
-      "name": "La Curiosidad",
-      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+      "duration_ms": 309120,
+      "name": "No Me Conoce - Remix",
+      "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
     },
     {
       "added_at": "2023-10-11 01:26:51",
@@ -191,26 +191,26 @@
     {
       "added_at": "2023-10-11 01:26:51",
       "album": {
-        "name": "Famouz",
-        "url": "https://open.spotify.com/album/2a2LGFK2TeN4fAKm1ZOc1I"
+        "name": "Platonicos",
+        "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
       "artists": [
         {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
         },
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          "name": "DJ Nelson",
+          "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg"
         },
         {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 309120,
-      "name": "No Me Conoce - Remix",
-      "url": "https://open.spotify.com/track/2beS6dD5rovBxSA1zYoSHR"
+      "duration_ms": 219048,
+      "name": "La Curiosidad",
+      "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
     },
     {
       "added_at": "2023-10-11 01:26:51",
@@ -887,30 +887,6 @@
     {
       "added_at": "2023-10-11 01:26:51",
       "album": {
-        "name": "Mejor Que Yo",
-        "url": "https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc"
-      },
-      "artists": [
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "DJ Luian",
-          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
-        },
-        {
-          "name": "Mambo Kingz",
-          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
-        }
-      ],
-      "duration_ms": 242696,
-      "name": "Mejor Que Yo",
-      "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
-    },
-    {
-      "added_at": "2023-10-11 01:26:51",
-      "album": {
         "name": "Verte Ir",
         "url": "https://open.spotify.com/album/76XsfdI0kGODDdhHAJKZi3"
       },
@@ -943,6 +919,30 @@
       "duration_ms": 267500,
       "name": "Verte Ir",
       "url": "https://open.spotify.com/track/4lzxJ4jCuFDXXGkE1LmpKR"
+    },
+    {
+      "added_at": "2023-10-11 01:26:51",
+      "album": {
+        "name": "Mejor Que Yo",
+        "url": "https://open.spotify.com/album/6hh8lSmAAVS9ELXPkqeutc"
+      },
+      "artists": [
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "DJ Luian",
+          "url": "https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD"
+        },
+        {
+          "name": "Mambo Kingz",
+          "url": "https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK"
+        }
+      ],
+      "duration_ms": 242696,
+      "name": "Mejor Que Yo",
+      "url": "https://open.spotify.com/track/1VsHc0qIeyjYOyvN5HIEQG"
     },
     {
       "added_at": "2023-10-11 01:26:51",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2023-10-11 01:26:51",
       "album": {
-        "name": "Nos Comemos (feat. Ozuna)",
-        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        },
-        {
-          "name": "Ozuna",
-          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
-        }
-      ],
-      "duration_ms": 191086,
-      "name": "Nos Comemos (feat. Ozuna)",
-      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
-    },
-    {
-      "added_at": "2023-10-11 01:26:51",
-      "album": {
         "name": "Los Malvekes",
         "url": "https://open.spotify.com/album/5YFf8tEsUb6NHSxdX4jY71"
       },
@@ -1475,6 +1455,26 @@
       "duration_ms": 218000,
       "name": "Los Malvekes",
       "url": "https://open.spotify.com/track/7DsotsIcNLWL4O9kwPtMu0"
+    },
+    {
+      "added_at": "2023-10-11 01:26:51",
+      "album": {
+        "name": "Nos Comemos (feat. Ozuna)",
+        "url": "https://open.spotify.com/album/1iBXwOCBoWC1LdSxdD0ZlC"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "duration_ms": 191086,
+      "name": "Nos Comemos (feat. Ozuna)",
+      "url": "https://open.spotify.com/track/6ojZtz3sZr6ynvejLOqgCj"
     },
     {
       "added_at": "2023-10-11 01:26:51",
@@ -1523,42 +1523,6 @@
     {
       "added_at": "2023-10-11 01:26:51",
       "album": {
-        "name": "Reloj",
-        "url": "https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 231594,
-      "name": "Reloj",
-      "url": "https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8"
-    },
-    {
-      "added_at": "2023-10-11 01:26:51",
-      "album": {
-        "name": "ALMAS GEMELAS",
-        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 235411,
-      "name": "ALMAS GEMELAS",
-      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
-    },
-    {
-      "added_at": "2023-10-11 01:26:51",
-      "album": {
         "name": "Travesuras (Remix)",
         "url": "https://open.spotify.com/album/1rQpXDegLbNBpe0fshpeKa"
       },
@@ -1591,6 +1555,42 @@
       "duration_ms": 324426,
       "name": "Travesuras - Remix",
       "url": "https://open.spotify.com/track/0VWLId2RwPCno9s1cJm2Vy"
+    },
+    {
+      "added_at": "2023-10-11 01:26:51",
+      "album": {
+        "name": "ALMAS GEMELAS",
+        "url": "https://open.spotify.com/album/3DcHy54Up1gEXKXbsv8xeT"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 235411,
+      "name": "ALMAS GEMELAS",
+      "url": "https://open.spotify.com/track/2KcNrONbZ0hvBPjvrDO2tx"
+    },
+    {
+      "added_at": "2023-10-11 01:26:51",
+      "album": {
+        "name": "Reloj",
+        "url": "https://open.spotify.com/album/56vYUqyoaBCrokFauIuXIk"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 231594,
+      "name": "Reloj",
+      "url": "https://open.spotify.com/track/7r9ZhitdQBONTFOiJW5mr8"
     },
     {
       "added_at": "2023-10-11 01:26:51",

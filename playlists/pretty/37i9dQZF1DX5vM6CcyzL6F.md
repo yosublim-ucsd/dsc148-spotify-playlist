@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 
 > Si la salsa se cruza con la chamba..\. ¡súbele a la bocina!
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,585 likes - 144 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,662 likes - 144 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,15 +128,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 118 | [Como Te Hago Entender](https://open.spotify.com/track/6b4PztUwQkjHN1vhOSQyof) | [Roberto Roena Y Su Apollo Sound](https://open.spotify.com/artist/0KdPDmQhHxBKsHNsQuh5ry) | [Las Leyendas Nunca Mueren](https://open.spotify.com/album/0N21jvVbGBjUhoflksOfsK) | 5:44 |
 | 119 | [Apiádate de Mi](https://open.spotify.com/track/6bRCaBDdiooh14QUiuWjfb) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Sonero de la Juventud..\. Salsero Original](https://open.spotify.com/album/2SIh1G5RFQKYWhRfGXXpnA) | 5:04 |
 | 120 | [Hazme Olvidarla](https://open.spotify.com/track/7GGDV8k7D99gNbFkEQo89s) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [La Hora De La Salsa](https://open.spotify.com/album/1znjPKdL13lrzu9odiTKyx) | 5:34 |
-| 121 | [Ese](https://open.spotify.com/track/6IYAUfaukZUjEP1zi2gjdn) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Evolución](https://open.spotify.com/album/0amJBy02Venc60GFjt7ytH) | 3:32 |
-| 122 | [Regálame una Noche](https://open.spotify.com/track/7DkJ3PlM3ua03RDH1jJaKo) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:36 |
+| 121 | [Regálame una Noche](https://open.spotify.com/track/7DkJ3PlM3ua03RDH1jJaKo) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:36 |
+| 122 | [Ese](https://open.spotify.com/track/6IYAUfaukZUjEP1zi2gjdn) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Evolución](https://open.spotify.com/album/0amJBy02Venc60GFjt7ytH) | 3:32 |
 | 123 | [Oiga, Mire, Vea](https://open.spotify.com/track/76hiAoqAddkgoHYs7bT7zI) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Diez en Todo Salsero](https://open.spotify.com/album/7rWA8s5mMm52wy7Ellw5it) | 5:25 |
 | 124 | [Ya No Te Puedo Amar](https://open.spotify.com/track/6XTAzYRfBqlkhbxaNMO8H3) | [Grupo Galé](https://open.spotify.com/artist/4152ZUds7gXsqYQexUonDP) | [Dos Decadas de Oro](https://open.spotify.com/album/5USvOUEgQWWhZ7CTEpfWsA) | 5:05 |
 | 125 | [Detalles](https://open.spotify.com/track/7xTLXbF0nACwXPPC5VHviB) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Éxitos de la Salsa Vol\. 2](https://open.spotify.com/album/3fSyXXr0O1eT5rgFAKDb04) | 4:38 |
 | 126 | [Periódico De Ayer](https://open.spotify.com/track/7zxIFIYzslVWU9ffktKNrU) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Salsa Party](https://open.spotify.com/album/1TValj7DVZHROOw512dZoL) | 6:51 |
-| 127 | [Castigala](https://open.spotify.com/track/033vO3yfYViqWIKo8BdrTK) | [Los Nemus Del Pacifico](https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50) | [14 Cañonazos Bailables 2001](https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS) | 4:36 |
+| 127 | [Casi un Hechizo](https://open.spotify.com/track/702rGTYoMhRSHStEI9loje) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Amores Como El Nuestro...Los Exitos](https://open.spotify.com/album/3AOCGCilv8dBhnxWqraZA9) | 3:45 |
 | 128 | [Pequeñas cosas](https://open.spotify.com/track/7i2lDcjjEZ8LIz7Mq43YUn) | [Willie Gonzalez](https://open.spotify.com/artist/2EIZodXJHserIu4pGNfD3Z) | [2 Grandes de la Salsa Vol\. 2](https://open.spotify.com/album/0tClfEzS907n6sscmXth0S) | 5:07 |
-| 129 | [Casi un Hechizo](https://open.spotify.com/track/702rGTYoMhRSHStEI9loje) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO) | [Amores Como El Nuestro...Los Exitos](https://open.spotify.com/album/3AOCGCilv8dBhnxWqraZA9) | 3:45 |
+| 129 | [Castigala](https://open.spotify.com/track/033vO3yfYViqWIKo8BdrTK) | [Los Nemus Del Pacifico](https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50) | [14 Cañonazos Bailables 2001](https://open.spotify.com/album/6qv4XGcL5YzbSpAgmzYSfS) | 4:36 |
 | 130 | [Yo No Soy Guapo](https://open.spotify.com/track/5xg8xey3cg0LvsY72ssgeI) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Solito](https://open.spotify.com/album/6AY69nRRUOsqIoQauepZM2) | 5:07 |
 | 131 | [Manyoma](https://open.spotify.com/track/3TA9nq749Dfq7VwirwPuiJ) | [Fruko Y Sus Tesos](https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob) | [The Afrosound Of Colombia Volume 1](https://open.spotify.com/album/7GuPa60Lh3Wlls5rMGpOJf) | 4:08 |
 | 132 | [No Consigo Olvidarte](https://open.spotify.com/track/0DeTfFyzcpU8O4DuDxtm1E) | [La Sabrosura Orquesta](https://open.spotify.com/artist/5mudirGeAjQgkS2AaIQVCb) | [La Sabrosura Salsa](https://open.spotify.com/album/3gclDdpd6tqWide104VRuz) | 4:30 |
@@ -153,4 +153,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vM6CcyzL6F.md) - [plain]
 | 143 | [Tú Me Quemas](https://open.spotify.com/track/7yf12rCbhtMiMxOk4vgjsD) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie 32 : Eddie Santiago](https://open.spotify.com/album/0bmXT2b5Rl5mddzk182Aoj) | 5:01 |
 | 144 | [Este Amor](https://open.spotify.com/track/6R2wZgxaYxCzOezBqJbi1g) | [Maelo Ruiz](https://open.spotify.com/artist/3HyrDGPLI0c9Rd8luuO0zw) | [Inolvidables](https://open.spotify.com/album/0qEnpeVocB6EWGdyD82AQB) | 4:40 |
 
-Snapshot ID: `MCxhNzIzMTA5YjViZGFiZWI4NzZlMGU2Njk4MWZlZTBkMmMyYTRjZTRl`
+Snapshot ID: `MCwyYzk0ZDc1ZWZiOGZlYzk2MThiYmFmYmJiMmJmNzYwMTFlODAwMGZj`

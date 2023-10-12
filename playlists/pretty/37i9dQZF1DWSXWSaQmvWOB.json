@@ -1,12 +1,12 @@
 {
   "description": "Your daily dose of soul-infused music! Cover: Black Pumas",
-  "num_followers": 452741,
+  "num_followers": 452571,
   "original_name": "Soul 'n' the City",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MzE2ZTM2ZTBiNGY1MDU4ZTgzZmM0NjRkM2M2NmY3NmFhZDMyZDI4",
+  "snapshot_id": "MCwxOTVjZDA2YmM5NjIzYTkwMTEyODZiZWUwYzE1ZjY3ZjcxM2I2YTg4",
   "tracks": [
     {
       "added_at": "2023-10-06 09:30:39",
@@ -43,22 +43,30 @@
     {
       "added_at": "2023-10-06 09:30:39",
       "album": {
-        "name": "Keep Your Head Up",
-        "url": "https://open.spotify.com/album/71P3ASFixQCXfE4S7XYYFb"
+        "name": "What's the Move",
+        "url": "https://open.spotify.com/album/431U10Fvg2NtgECribydtZ"
       },
       "artists": [
         {
-          "name": "Feiertag",
-          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
+          "name": "Jafunk",
+          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
         },
         {
-          "name": "Noah Slee",
-          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+          "name": "Nic Hanson",
+          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
+        },
+        {
+          "name": "NanaBcool",
+          "url": "https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq"
+        },
+        {
+          "name": "Triple H Horns",
+          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
         }
       ],
-      "duration_ms": 179504,
-      "name": "Keep Your Head Up",
-      "url": "https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc"
+      "duration_ms": 187983,
+      "name": "What's the Move",
+      "url": "https://open.spotify.com/track/6WWwsE0oge62N2STOFOnvh"
     },
     {
       "added_at": "2023-10-06 09:30:39",
@@ -115,6 +123,26 @@
       "duration_ms": 212608,
       "name": "Sweet Talking Honeys (feat. Max Tuohy)",
       "url": "https://open.spotify.com/track/1aa6C8kTiQCjHulkxmMTbM"
+    },
+    {
+      "added_at": "2023-10-06 09:30:39",
+      "album": {
+        "name": "Keep Your Head Up",
+        "url": "https://open.spotify.com/album/71P3ASFixQCXfE4S7XYYFb"
+      },
+      "artists": [
+        {
+          "name": "Feiertag",
+          "url": "https://open.spotify.com/artist/1GLnhRhNDXOofP7IlDxT5q"
+        },
+        {
+          "name": "Noah Slee",
+          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+        }
+      ],
+      "duration_ms": 179504,
+      "name": "Keep Your Head Up",
+      "url": "https://open.spotify.com/track/2kHVK2I4FpaI48ZRAlmNTc"
     },
     {
       "added_at": "2023-10-06 09:30:39",
@@ -259,6 +287,22 @@
     {
       "added_at": "2023-10-06 09:30:39",
       "album": {
+        "name": "Human (Deluxe)",
+        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
+      },
+      "artists": [
+        {
+          "name": "Rag'n'Bone Man",
+          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "Human",
+      "url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"
+    },
+    {
+      "added_at": "2023-10-06 09:30:39",
+      "album": {
         "name": "Free (feat. Tom Misch)",
         "url": "https://open.spotify.com/album/4eoxzgxqIHsMd44siCY4lg"
       },
@@ -323,34 +367,6 @@
       "duration_ms": 196973,
       "name": "So Glad I Found You",
       "url": "https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N"
-    },
-    {
-      "added_at": "2023-10-06 09:30:39",
-      "album": {
-        "name": "What's the Move",
-        "url": "https://open.spotify.com/album/431U10Fvg2NtgECribydtZ"
-      },
-      "artists": [
-        {
-          "name": "Jafunk",
-          "url": "https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k"
-        },
-        {
-          "name": "Nic Hanson",
-          "url": "https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc"
-        },
-        {
-          "name": "NanaBcool",
-          "url": "https://open.spotify.com/artist/3I1oZvnUZuHgJXSeNUy6Dq"
-        },
-        {
-          "name": "Triple H Horns",
-          "url": "https://open.spotify.com/artist/1f1nzGebbDWyIsnKpKqqVN"
-        }
-      ],
-      "duration_ms": 187983,
-      "name": "What's the Move",
-      "url": "https://open.spotify.com/track/6WWwsE0oge62N2STOFOnvh"
     },
     {
       "added_at": "2023-10-06 09:30:39",
@@ -631,22 +647,6 @@
       "duration_ms": 229299,
       "name": "Good For The Money",
       "url": "https://open.spotify.com/track/6xkY7N1oIS8UF54imlv8LF"
-    },
-    {
-      "added_at": "2023-10-06 09:30:39",
-      "album": {
-        "name": "Human (Deluxe)",
-        "url": "https://open.spotify.com/album/1rMmiDKa8V5H9yYTPAbLng"
-      },
-      "artists": [
-        {
-          "name": "Rag'n'Bone Man",
-          "url": "https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "Human",
-      "url": "https://open.spotify.com/track/58zsLZPvfflaiIbNWoA22O"
     },
     {
       "added_at": "2023-10-06 09:30:39",

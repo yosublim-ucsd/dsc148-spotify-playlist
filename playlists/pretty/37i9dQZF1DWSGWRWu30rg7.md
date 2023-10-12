@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Shindy Samuel
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,373 likes - 97 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,259 likes - 97 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 12 | [Buaya Jelek](https://open.spotify.com/track/1ZpOmS30nkif7VMcM8CRK2) | [Enchan](https://open.spotify.com/artist/2drTYvZE763UMG5GeYoTha), [Sarah Cindy](https://open.spotify.com/artist/0qJPGQTfZi5IJI2M7nk6ys) | [Buaya Jelek](https://open.spotify.com/album/1SuBnqcIeXrS3wQdSSDEwq) | 4:13 |
 | 13 | [Rumah Idaman](https://open.spotify.com/track/4BPmzaAfNw6t1oGpdzPqDb) | [A Bedtime Melody](https://open.spotify.com/artist/3KNiR5gtHcAGHikhKUbiyc) | [Rumah Idaman](https://open.spotify.com/album/2z9iECTz8xkNVZelIL3AuO) | 4:29 |
 | 14 | [Lewati Senja Lalui Malam](https://open.spotify.com/track/3NTa6UMWNI1noh3v8kojZk) | [Tiwi](https://open.spotify.com/artist/5WRnVFUHZOebvSU5MlAR5e) | [Lewati Senja Lalui Malam](https://open.spotify.com/album/4FgGKnjpQzUmReueHOrSdN) | 3:06 |
-| 15 | [Ghosting](https://open.spotify.com/track/4pLnUAk7etyZt8btGsjVQX) | [Freaky Friday](https://open.spotify.com/artist/19KVIyQMP3iAUOO9x58ydG) | [When You Leave](https://open.spotify.com/album/0PMicsL5aUTeUEKnNiSXtC) | 4:14 |
+| 15 | [Ghosting](https://open.spotify.com/track/4pLnUAk7etyZt8btGsjVQX) | [Freakyfriday](https://open.spotify.com/artist/19KVIyQMP3iAUOO9x58ydG) | [When You Leave](https://open.spotify.com/album/0PMicsL5aUTeUEKnNiSXtC) | 4:14 |
 | 16 | [Ms\. Fortune](https://open.spotify.com/track/1y4lugCi6HDifI9VzIf9hN) | [After Cloudia](https://open.spotify.com/artist/0wl9t4oax1B2fabxpM2mBK) | [Ms\. Fortune](https://open.spotify.com/album/1aE95bEt9jLArHhG13pSmo) | 3:56 |
 | 17 | [Sparks of the Stars](https://open.spotify.com/track/5tG0QDdZS6bEJg6NXEbtbW) | [Shyclops](https://open.spotify.com/artist/7zYMujuLfBXBchiqk64fgZ) | [Sparks of the Stars](https://open.spotify.com/album/1CmRdG3Lc54fdwfAiDNPR6) | 3:38 |
 | 18 | [Punching Bag](https://open.spotify.com/track/2icGzDvNVcaA5fBNRKyVyD) | [Akleis](https://open.spotify.com/artist/664jaex51iJSnxKfCl9xfk) | [Punching Bag](https://open.spotify.com/album/2h1F42LPBrUbac4qcKhxp8) | 2:38 |
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSGWRWu30rg7.md) - [plain]
 | 96 | [Get off of Me](https://open.spotify.com/track/4S23hGvMCB6SNXFGv1pIuM) | [Right Bangs](https://open.spotify.com/artist/52D86KL1fLPygjIDoGPeSA), [Shierly Jane](https://open.spotify.com/artist/3Ps12w6PNzjzrNdtEKVJAs), [New Sound Generation](https://open.spotify.com/artist/6UJlomJYXsgtDqwqpfLHmD) | [Get off of Me](https://open.spotify.com/album/3mWMLBnrXtjViHluWwBBXT) | 2:15 |
 | 97 | [Pain in My Soul](https://open.spotify.com/track/2CFZSY12bsk3EBdxemlzHl) | [Irzhal Efadh](https://open.spotify.com/artist/4cok0Kl5xGtjJxTLuRtFsv) | [Pain in My Soul](https://open.spotify.com/album/0Qetxwe1Y3DRY6PJMYVnlJ) | 5:12 |
 
-Snapshot ID: `MCxiYjA4ZGE3MzM0M2ZlZGQ1NGI2YzFlMDU1M2FkM2M5MThkMmE1MWEw`
+Snapshot ID: `MCxmMWQ5OWNkMGJkOWI3ZjQxZWI0YzQ4ZmI3YTM1MDAzMzdlZmY0MWMy`

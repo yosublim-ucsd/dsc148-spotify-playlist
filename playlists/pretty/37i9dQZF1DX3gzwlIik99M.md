@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 
 > Metal hecho en Iberoamérica\. Bandas que ya conoces y que estás a punto de conocer\. Foto: Sepultura
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,153 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,626 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 12 | [Desperate Cry](https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Arise](https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM) | 6:41 |
 | 13 | [Acido](https://open.spotify.com/track/1k6fvfuYE9xZi1hbwOhF6k) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [El Mar De Las Almas](https://open.spotify.com/album/52tcNhROdl0187orh4tB3N) | 3:43 |
 | 14 | [El nuevo camino del hombre](https://open.spotify.com/track/7uZcZ7lXte8e8rNCIRH38y) | [A.N.I.M.A.L.](https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9), [Mario Altamirano and A.N.I.M.A.L.](https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m) | [El Nuevo Camino del Hombre](https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f) | 3:29 |
-| 15 | [Mística](https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac) | [Espécimen](https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM) | [Subkonzziente](https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh) | 3:54 |
-| 16 | [A Toda Madre](https://open.spotify.com/track/6aBSq9ifs6ezHLr7DhwIME) | [Thell Barrio](https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59) | [A Toda Madre](https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs) | 3:22 |
+| 15 | [A Toda Madre](https://open.spotify.com/track/6aBSq9ifs6ezHLr7DhwIME) | [Thell Barrio](https://open.spotify.com/artist/5JMS3Ijapn92ZJ8EKFcW59) | [A Toda Madre](https://open.spotify.com/album/51ANJ0vGG9eG8brTzy6Sxs) | 3:22 |
+| 16 | [Mística](https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac) | [Espécimen](https://open.spotify.com/artist/5Mh3ytajhEkNUhgNEI4tvM) | [Subkonzziente](https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh) | 3:54 |
 | 17 | [Río Extraño](https://open.spotify.com/track/2BkoAPwO85Zb2IOJF0LMRv) | [OConnor](https://open.spotify.com/artist/2fkbcrv0tNgxkzT0wvivRN) | [Río Extraño](https://open.spotify.com/album/2RhzNO5A2ygXBfuKkmglGL) | 4:27 |
 | 18 | [La Culpa Al Viento](https://open.spotify.com/track/1TZLjYKZMUw5gsuEYrrbwr) | [Los Antiguos](https://open.spotify.com/artist/25WqiGGqVjN0gLpVHqaP91) | [Madera Prohibida](https://open.spotify.com/album/0ZJ2iVKwt09AELBNknD7tb) | 5:11 |
 | 19 | [Mass Hypnosis](https://open.spotify.com/track/4NcNgZPCLDmOQQKnHvQ3w7) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Beneath the Remains](https://open.spotify.com/album/3BDZvMYxZ6E8IuSQL2ew6Z) | 4:25 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 30 | [Guerrero Del Arco Iris](https://open.spotify.com/track/46zHDwJufMThLYhzX8QTGg) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [Col 2x1: Magos, Espadas Y Rosas / Guerrero Del Arco Iris](https://open.spotify.com/album/0cOpyRpGurf8Oeg7SD3znn) | 5:04 |
 | 31 | [Policia](https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Blood\-Rooted](https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG) | 1:47 |
 | 32 | [Culto vacio radical](https://open.spotify.com/track/2SOEI9DvgYCzeqeiLR0YGH) | [Mastifal](https://open.spotify.com/artist/1EvaJtqYxjC6ag0IU7uyRM) | [Carnivora](https://open.spotify.com/album/2fovgpxq2rAk9UVn51qqsS) | 4:47 |
-| 33 | [Blackout](https://open.spotify.com/track/7fzCMARWJO6W7AlgT9UWrX) | [S7N](https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm) | [Fearless](https://open.spotify.com/album/51y1nedHb7b4PTLzpbPCfm) | 4:08 |
-| 34 | [El Vuelo Del Dragón](https://open.spotify.com/track/5Sv5Ot5oMZf9mrNwZ95bku) | [Patan](https://open.spotify.com/artist/4jyw0sF3Ji2vZ74ZZIWYBz) | [Acero](https://open.spotify.com/album/4HwQsHeVEPhMYyH49mMy2q) | 4:25 |
-| 35 | [Esquizofrenia](https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9) | [Khafra](https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo) | [Khafra](https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO) | 3:02 |
+| 33 | [El Vuelo Del Dragón](https://open.spotify.com/track/5Sv5Ot5oMZf9mrNwZ95bku) | [Patan](https://open.spotify.com/artist/4jyw0sF3Ji2vZ74ZZIWYBz) | [Acero](https://open.spotify.com/album/4HwQsHeVEPhMYyH49mMy2q) | 4:25 |
+| 34 | [Esquizofrenia](https://open.spotify.com/track/3MLJZTcoiDcC0Je4SRinT9) | [Khafra](https://open.spotify.com/artist/0ihzl14dtKADBcwu1YbLgo) | [Khafra](https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO) | 3:02 |
+| 35 | [Blackout](https://open.spotify.com/track/7fzCMARWJO6W7AlgT9UWrX) | [S7N](https://open.spotify.com/artist/4x3vYufIC84GFmlVdzQjMm) | [Fearless](https://open.spotify.com/album/51y1nedHb7b4PTLzpbPCfm) | 4:08 |
 | 36 | [Cenizas‬](https://open.spotify.com/track/4QgSHdxKEtOt3qPXL3lmbG) | [Carajo](https://open.spotify.com/artist/5tDdTDGy0l8rHkeLaaEyyN) | [Basado en Hechos Reales](https://open.spotify.com/album/6lzY4nvVAMGKkdLJDJjqcS) | 4:14 |
 | 37 | [¡Quémenlos!](https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK) | [NVLO](https://open.spotify.com/artist/7Gr3eqtmWKT8lF9eLDFU8k) | [Nulo](https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq) | 2:30 |
 | 38 | [Darse Cuenta](https://open.spotify.com/track/41ijCwVP2PQmGCRxwhKbkH) | [Logos](https://open.spotify.com/artist/4aCWTRWrh5lyIaZTVCP6ja) | [Plan Mundial Para La Destrucción](https://open.spotify.com/album/7fBKqH6kZsrgY2RJWkaiC5) | 4:17 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3gzwlIik99M.md) - [plain]
 | 49 | [Merciless machine \- Remastered](https://open.spotify.com/track/3EXQIqYbZx4x86RyFfgIYr) | [Strike Master](https://open.spotify.com/artist/3dalUSTYYdh0GIJWVkZH09) | [U.F.T.M 2017 \(Remastered\)](https://open.spotify.com/album/15e9w4RyMCiYgC5SgLkxaV) | 5:15 |
 | 50 | [La Caperuputa y el Lobo Culión](https://open.spotify.com/track/1zJZ9w43qRt85xZQNsgo9Y) | [Cuentos de los Hermanos Grind](https://open.spotify.com/artist/05q0fmz5AnwuIilO7PxfbC) | [Los Cantipuercos](https://open.spotify.com/album/3kP7B2rRjs3m95HJHKlsjw) | 3:00 |
 
-Snapshot ID: `MCwwOGQ3MmNiYjdmOWM1NzE4NGFmZTdmOGNhYzJhZGMwZGUyMDViNzc3`
+Snapshot ID: `MCw5NDM5ZTVmODEzYTQ0MGUwNDg1NzZiMTMwMDZlODVmOTUyOTRiYzZi`

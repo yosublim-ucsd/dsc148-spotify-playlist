@@ -4,7 +4,7 @@
 
 > De lunes a domingo, descubre un tema elegido por tus editores de Spotify.
 
-151 songs - 8 hr 22 min
+152 songs - 8 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Las converse](https://open.spotify.com/track/3jnVYRB2mkTOinBWeLGEea) | [Paz Carrara](https://open.spotify.com/artist/09mGQqsZ1C5wVCsjycNaIg) | [Las converse](https://open.spotify.com/album/6igVxgZ2a2jX2nBQ1JHQnU) | 2:57 | 2023-05-23 | 2023-08-16 |
 | [Las Flores Sangran](https://open.spotify.com/track/2sg8oaHUISzxswco8S5yZU) | [Usted Señalemelo](https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j) | [Las Flores Sangran](https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV) | 3:18 | 2023-03-19 | 2023-04-23 |
 | [Limonadita Fresca](https://open.spotify.com/track/639HTh3UQI6kZXn6Qb7lH6) | [DJ Maff](https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Limonadita Fresca](https://open.spotify.com/album/0WNHeQl2UyqgvfqWfWrcEH) | 3:20 | 2023-08-03 |  |
-| [lo que no es sincero hoy](https://open.spotify.com/track/5e3fTt5d30qgNspCWeyxtY) | [El Alguacil](https://open.spotify.com/artist/1vw7wq0QVG1i1kYEImW7xa) | [lo que no es sincero hoy](https://open.spotify.com/album/5btwrK4Yktkg9xfhMReaD2) | 3:14 | 2023-07-12 |  |
+| [lo que no es sincero hoy](https://open.spotify.com/track/5e3fTt5d30qgNspCWeyxtY) | [El Alguacil](https://open.spotify.com/artist/1vw7wq0QVG1i1kYEImW7xa) | [lo que no es sincero hoy](https://open.spotify.com/album/5btwrK4Yktkg9xfhMReaD2) | 3:14 | 2023-07-12 | 2023-10-12 |
 | [Lo Que Queda](https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO) | [Barbi Recanati](https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD) | [Lo Que Queda](https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4) | 3:44 | 2023-05-27 | 2023-08-20 |
 | [lo\-fi](https://open.spotify.com/track/0jsCPolR169poPX99rNtCe) | [Martin Oliver](https://open.spotify.com/artist/3RiVbzQAmviwm6NPFlHYIm) | [lo\-fi](https://open.spotify.com/album/2ou8ilCBWA00ZJDgZtdRb8) | 2:55 | 2023-08-17 |  |
 | [Mala Amiga](https://open.spotify.com/track/6acWLZMJWZw29wcehfY1WU) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Mala Amiga](https://open.spotify.com/album/7uVtPIsdz0UNaiWZOXWKZr) | 3:15 | 2023-03-19 | 2023-05-28 |
@@ -117,6 +117,7 @@
 | [Nudos](https://open.spotify.com/track/2rMcMfA9vNbXBHMKKYBacM) | [Da Pawn](https://open.spotify.com/artist/3RkNjm33d6IZZ6gAjb6hXy) | [Residencia Azul](https://open.spotify.com/album/7a0NP5cqVBLSe6YofHXcGL) | 4:40 | 2023-07-13 |  |
 | [Nuez](https://open.spotify.com/track/6Pt1SXtWsjL8tEKV94F5VX) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Nuez](https://open.spotify.com/album/05UGoDqdTiORAjyrt5wtlT) | 3:32 | 2023-09-03 |  |
 | [Olas Negras](https://open.spotify.com/track/51JSkV0wKdoFYR8Cn2PBjT) | [Onda Vaga](https://open.spotify.com/artist/3cBb4A9AZeZhcq781P3wCZ) | [Rojo](https://open.spotify.com/album/0cZEg5Ydxxr2bea2LRY3tu) | 3:16 | 2023-04-23 | 2023-07-27 |
+| [Otra Estrella](https://open.spotify.com/track/7jqWxHMe7ufvhS5vDaE4mu) | [Plastilina](https://open.spotify.com/artist/0NAzHtE2ceqgTPJZfrhzG9) | [Otra Estrella](https://open.spotify.com/album/6EdW3Dt9ihflSj9BKFyhlE) | 3:15 | 2023-10-11 |  |
 | [Papaya dulce](https://open.spotify.com/track/0fTgI6ud0X0cByOks4KeNb) | [Aristi](https://open.spotify.com/artist/1pDinKGWRhcYxvGHCIWTK1) | [Papaya dulce](https://open.spotify.com/album/53cXHsVxFxvwdkKYo5giW1) | 3:31 | 2023-03-19 | 2023-04-14 |
 | [paseo en carro a la costa](https://open.spotify.com/track/31R22n6xtllkynO6SVWayS) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [Paseo En Carro A La Costa](https://open.spotify.com/album/3QokOGS56AylJxy7sYmcGo) | 4:18 | 2023-08-01 |  |
 | [PAYDAY](https://open.spotify.com/track/4XvtZdrlqPZ1H0Y7dV6RRL) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 2:38 | 2023-09-15 |  |

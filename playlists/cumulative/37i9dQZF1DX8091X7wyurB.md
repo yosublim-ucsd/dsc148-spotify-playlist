@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-218 songs - 20 hr 6 min
+219 songs - 20 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,8 @@
 | [Evidence](https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Evidence](https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny) | 5:55 | 2022-09-01 | 2023-07-07 |
 | [Ewe Praise Medley 2 \(Teteyi\)](https://open.spotify.com/track/5UMQ4CuTzvyupxPjp17vlj) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Chief Prosper](https://open.spotify.com/artist/21s3rUeDcsqL8i1n8legaP) | [Ewe Praise Medley 2 \(Teteyi\)](https://open.spotify.com/album/0oTTtDuXyZhRn9zEdQj0Zv) | 9:34 | 2022-06-30 | 2022-11-14 |
 | [Ewe Praise Medley 2 \(Teteyi\)](https://open.spotify.com/track/5vqpMzEjuCBlQBuQKskXur) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Chief Prosper](https://open.spotify.com/artist/21s3rUeDcsqL8i1n8legaP) | [Enyo](https://open.spotify.com/album/0WkS8qu4bVzN96PLwluSA9) | 9:34 | 2022-06-30 | 2023-04-07 |
-| [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 | 2023-06-30 |  |
+| [Excess Love \(feat\. JJ Hairston & Youthful Praise\) \- Remix](https://open.spotify.com/track/02UAAdtYBua2p4Rj7qHjer) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 8:27 | 2023-06-30 | 2023-10-12 |
+| [Excess Love \- Live](https://open.spotify.com/track/3eqODi0QYCr5nqMtzpYMoL) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Miracle Worker \(Live\)](https://open.spotify.com/album/0yi1ON4T3WTFh2zT80DxNw) | 8:27 | 2023-09-29 |  |
 | [Final Say](https://open.spotify.com/track/6Afd8g8GW25Y456Z2Bf3nd) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3) | [Final Say](https://open.spotify.com/album/3LNan2PuswATn3cn4Hgfgy) | 3:29 | 2022-06-30 | 2023-08-26 |
 | [Fire](https://open.spotify.com/track/11t7N3sMt4sMVPxrjRBQzm) | [DJ Ernesty](https://open.spotify.com/artist/0MGWyvcy2uXq5lVdATxcuj), [Okey Sokay](https://open.spotify.com/artist/5rH5wkuOiVee4XUNFwIQw1) | [Fire](https://open.spotify.com/album/0prLNxmDmam4f4jHehttPR) | 2:40 | 2022-06-30 | 2023-02-07 |
 | [Firm Foundation \(He Won't\)](https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(He Won't\)](https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao) | 8:44 | 2023-04-21 |  |

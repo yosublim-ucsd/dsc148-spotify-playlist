@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: Nonso Amadi, Majid Jordan
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,381 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,396 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 50 | [I Can Only Whisper \(feat\. BADBADNOTGOOD\)](https://open.spotify.com/track/5qXwFOkT3lrEonTzsYCeZ1) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 2:44 |
 | 51 | [FAR AWAY II \(feat\. A Boogie Wit da Hoodie & JID\)](https://open.spotify.com/track/48sVPgGv1lux3LbGtk35iS) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [BEFORE LOVE CAME TO KILL US \(Deluxe\)](https://open.spotify.com/album/2o7OtjWjB5cbHgH4JpWrc3) | 3:35 |
 | 52 | [My Love \(feat\. Drake\)](https://open.spotify.com/track/5fgTKJ5PTbRLzem1tkfFjx) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Majid Jordan](https://open.spotify.com/album/3CUUharDNym6nWwLpI4mPi) | 4:08 |
-| 53 | [Video Games](https://open.spotify.com/track/7yyYmGQXSyrH7kLALSTFjg) | [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [Video Games](https://open.spotify.com/album/3YGJzBM5MTgaFyJ4KUi1jQ) | 3:40 |
+| 53 | [Touch You](https://open.spotify.com/track/1eloKbVFeduo6qxp7xqhQ0) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:38 |
 | 54 | [NASTY](https://open.spotify.com/track/3GxW7jtmUatEqM14hZdKFC) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [NASTY](https://open.spotify.com/album/5oYotxU1JNdejw1yaDFfEF) | 2:50 |
-| 55 | [Touch You](https://open.spotify.com/track/1eloKbVFeduo6qxp7xqhQ0) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Mixed Emotions](https://open.spotify.com/album/4UADm8zx1jjPisT4Gnn0NJ) | 2:38 |
+| 55 | [Video Games](https://open.spotify.com/track/7yyYmGQXSyrH7kLALSTFjg) | [Sun](https://open.spotify.com/artist/37AvA9c8rndxYbojqst9At) | [Video Games](https://open.spotify.com/album/3YGJzBM5MTgaFyJ4KUi1jQ) | 3:40 |
 | 56 | [Strange](https://open.spotify.com/track/7Mh8TbrCLjGxkJg5TmlKC3) | [Alicia Creti](https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX) | [Strange](https://open.spotify.com/album/5wwOyVfErnVEhNXulI4JX3) | 3:08 |
-| 57 | [Home](https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Proverb](https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK) | 3:21 |
-| 58 | [BLOOD](https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [BLOOD](https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7) | 2:03 |
+| 57 | [BLOOD](https://open.spotify.com/track/1BhHgNaZDdAe7len1ertf6) | [Sean Leon](https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW) | [BLOOD](https://open.spotify.com/album/6OGfppd0PoTML3hJVLRHQ7) | 2:03 |
+| 58 | [Home](https://open.spotify.com/track/3X1R2hYu7PeUNG2rOd9b7w) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Proverb](https://open.spotify.com/album/0UGslTI60Tlnf3nRga8znK) | 3:21 |
 | 59 | [Awake](https://open.spotify.com/track/5XMtZsNkezcv695DQSZo0L) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Hope For Sale](https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi) | 3:46 |
 | 60 | [Take Care of You \(feat\. Syd\)](https://open.spotify.com/track/5lYcnEFmVi9yWbU4ZINRyJ) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v), [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [ALPHA](https://open.spotify.com/album/1BFl2k9tZL0Jm6ebJHGQ5K) | 3:34 |
 | 61 | [be cool](https://open.spotify.com/track/6gILMXbilRDGSp6vexAg8r) | [LOONY](https://open.spotify.com/artist/0xSfdfhcXN6T8M5gt7VwK0) | [soft thing](https://open.spotify.com/album/4fVrjnFFBoVV4OEc5fBH1J) | 2:23 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 72 | [Freedom \(with BEAM\)](https://open.spotify.com/track/6TQeWWQMtSWFNgR7yxvcg6) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [Freedom.](https://open.spotify.com/album/28sV7wzuBcHijsmUJJ9kKJ) | 2:45 |
 | 73 | [LowKey \(feat\. Jayd Ink\)](https://open.spotify.com/track/1esyt62pq02xPShuaK5OpA) | [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g), [Jayd Ink](https://open.spotify.com/artist/6TfJcKCr5hFsYZkq2k1Pac) | [LowKey \(feat\. Jayd Ink\)](https://open.spotify.com/album/5IymapBkxovOp4ELc4sQNy) | 2:53 |
 | 74 | [Live Inside](https://open.spotify.com/track/4OdIxs1Y7DXHxnqQxkP3tT) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Live Inside](https://open.spotify.com/album/1KQsxZhpiCYO1fvmmfqvvi) | 3:27 |
-| 75 | [Bad Neighbors](https://open.spotify.com/track/0lYElfgYvfNJfwevdPd3tY) | [K\. Forest](https://open.spotify.com/artist/1uaS3ZokV40ZrpzSRhx4Ol) | [Welcome to the Wildfire](https://open.spotify.com/album/7hi77eGIFqKdpj5U71BhJM) | 2:40 |
+| 75 | [Treat](https://open.spotify.com/track/6MvKjnEdkPf3ijc27z1RWR) | [11:11](https://open.spotify.com/artist/5gsyao2Qm21EKylbVIuRQ3) | [The Night Before The Morning After](https://open.spotify.com/album/2Jp7UxZewhRXrvcSvz37b1) | 2:46 |
 
-Snapshot ID: `MCw0ODczM2E5ZjExYWFiNjQ0NGRkOThmYzI3MTJkYTVjNDYwYjRiNDZj`
+Snapshot ID: `MCxhNjkxNTE5MjIxYjhmOTViMjQ5YTk1YTc3NTkyZjdjMjExZjMwYzQw`

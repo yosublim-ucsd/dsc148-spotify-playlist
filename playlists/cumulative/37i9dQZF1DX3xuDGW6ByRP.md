@@ -4,7 +4,7 @@
 
 > as novas de pop rock br / Foto: Anandinha
 
-85 songs - 4 hr 0 min
+86 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [Não Valemos + Nada](https://open.spotify.com/track/4QuNbNry81en6UZ24wiX0i) | [K o d a](https://open.spotify.com/artist/0d39uPZOBEBNEai4P6eKoC), [Kyu](https://open.spotify.com/artist/6n5UPx3F2aWUgQImMclIgE) | [Não Valemos + Nada](https://open.spotify.com/album/2PtDpSKpVXzAc5xK7F9kKE) | 2:38 | 2023-07-21 |  |
 | [O Amor Machuca Demais](https://open.spotify.com/track/1b6M0tk69Qrcz8lxHpU82U) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Amor Machuca Demais](https://open.spotify.com/album/2FVmfh4CBS9MnwDaXvBCwB) | 3:08 | 2023-07-21 |  |
 | [o maior otário da cidade](https://open.spotify.com/track/7cxlbR75XRyHr9PbjqBfSc) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [o maior otário da cidade](https://open.spotify.com/album/7rcO22U358g8jL6dGkIEuj) | 2:48 | 2023-07-21 |  |
-| [One & Only](https://open.spotify.com/track/3lHIanYBxMNZPcRRu0WmWr) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [One & Only](https://open.spotify.com/album/46vi3TK1L8KjWArl67u3N9) | 2:17 | 2023-07-21 |  |
+| [One & Only](https://open.spotify.com/track/1CjD9etP1cSqhqhRWOGAJw) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:17 | 2023-10-06 |  |
+| [One & Only](https://open.spotify.com/track/3lHIanYBxMNZPcRRu0WmWr) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [One & Only](https://open.spotify.com/album/46vi3TK1L8KjWArl67u3N9) | 2:17 | 2023-07-21 | 2023-10-12 |
 | [Out Of My System](https://open.spotify.com/track/4wDXilLhgq8qNnj4wiEp4F) | [Louis Tomlinson](https://open.spotify.com/artist/57WHJIHrjOE3iAxpihhMnp) | [Out Of My System](https://open.spotify.com/album/7jopIUIxL6FK9izKNhfVXb) | 2:17 | 2023-07-21 |  |
 | [ponto de vista](https://open.spotify.com/track/0NfqR1Kf2opCwXPaNVouRY) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [ponto de vista](https://open.spotify.com/album/0nD3dR5hkxS3g1DyCATB9U) | 3:26 | 2023-07-21 |  |
 | [SAUDADE DE MIM :\(](https://open.spotify.com/track/776Pu6WRVJgr1UVu2ub0J1) | [Ariah](https://open.spotify.com/artist/0lJcsdoL52xDTf1cGEwfD8), [Number Teddie](https://open.spotify.com/artist/18TympJ9X4CQ45GYy7sORT) | [SAUDADE DE MIM :\(](https://open.spotify.com/album/33TVGzMe4QEkVCGFhwHZ6g) | 2:29 | 2023-07-21 | 2023-10-07 |

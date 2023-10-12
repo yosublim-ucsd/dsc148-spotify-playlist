@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 
 > Deja a tu cuerpo vibrar con el sabor electropical de distintas latitudes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,757 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,780 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 | 25 | [Agua](https://open.spotify.com/track/2yhdug7HfG1Yt2KM3KQDBw) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:20 |
 | 26 | [Que Me Siga \(Malo\)](https://open.spotify.com/track/3tp88MGqFKSLfoieHOfbNC) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Que Me Siga \(Malo\)](https://open.spotify.com/album/6Bs9kozUMUa2Y6YAPgQ9XO) | 3:15 |
 | 27 | [Gato Negro \- Daniel Hokum & okuma Remix](https://open.spotify.com/track/4lCjFg06zDoSOSFVxSQyzp) | [Klik & Frik](https://open.spotify.com/artist/56P5wn7V6w46OyYV9vS5jC), [Daniel Hokum](https://open.spotify.com/artist/5G73jujPl3uMzC5zak8Jbd), [okuma](https://open.spotify.com/artist/5KxadtK47w9IzFK0V4O38Q) | [Gato Negro \(Daniel Hokum & Okuma Remix\)](https://open.spotify.com/album/23hqOpIvA1VbjM6INLeuvg) | 6:35 |
-| 28 | [Each Time I Think of You](https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF) | [Beach Planet Vol\. 1](https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp) | 6:24 |
-| 29 | [Baile Fodongo](https://open.spotify.com/track/1dlyPfKv2Bl5nYZzpO1VUX) | [Altoparlante](https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU) | [Baile Fodongo](https://open.spotify.com/album/64c3abWCWgsE90nB69DsPE) | 5:06 |
+| 28 | [Baile Fodongo](https://open.spotify.com/track/1dlyPfKv2Bl5nYZzpO1VUX) | [Altoparlante](https://open.spotify.com/artist/1KNxS8isGUfOMFXmPNRlIU) | [Baile Fodongo](https://open.spotify.com/album/64c3abWCWgsE90nB69DsPE) | 5:06 |
+| 29 | [Each Time I Think of You](https://open.spotify.com/track/7vfmLNa6MNKWYQFR4VLmar) | [TÂCHES](https://open.spotify.com/artist/0xD1RASjJGXnTh5NxdrKxF) | [Beach Planet Vol\. 1](https://open.spotify.com/album/1v4t4StpwOvJhiaHPWxpjp) | 6:24 |
 | 30 | [Métele \- Cesare Remix](https://open.spotify.com/track/5h5Mc6KAFfrVzsP9ENIH0S) | [Buscabulla](https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R), [Cesare](https://open.spotify.com/artist/6I00pP9y2ql2aSsviBmf0r) | [Métele \(Cesare Remix\)](https://open.spotify.com/album/07fJL4eGqxwSzvmuYjdKT3) | 4:44 |
 | 31 | [Sol Clap](https://open.spotify.com/track/1AgPNdwUyMtlvYCPbcf9ta) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Magnetica](https://open.spotify.com/album/4RcIb3FX6H4PLqsjzB9onL) | 3:50 |
-| 32 | [Costa Paraíso](https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Pulso](https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr) | 4:44 |
+| 32 | [The Caribbean Raver](https://open.spotify.com/track/1CKL36QvlImNhsMAbwhGIQ) | [Pernett](https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU), [The Caribbean Ravers](https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd) | [Música Para Pick Up](https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo) | 4:05 |
 | 33 | [Piedras del Sol](https://open.spotify.com/track/0A192CDGDTRtdi9zfg8Cpj) | [Don Couto](https://open.spotify.com/artist/75RbJtVQX3xaPgV4GE9FxN), [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch) | [Piedras del Sol](https://open.spotify.com/album/3WO6xLNgcJeeTG2036qLHd) | 3:42 |
-| 34 | [The Caribbean Raver](https://open.spotify.com/track/1CKL36QvlImNhsMAbwhGIQ) | [Pernett](https://open.spotify.com/artist/2ovmrverobmQvD14n5REoU), [The Caribbean Ravers](https://open.spotify.com/artist/48u4Rcx3bbMC5PtUm2AVcd) | [Música Para Pick Up](https://open.spotify.com/album/1XpYE30QnfPWIZxBEgK1Vo) | 4:05 |
+| 34 | [Costa Paraíso](https://open.spotify.com/track/3OwpEodtG16GbtDouOtHyK) | [Aceros del Pacífico](https://open.spotify.com/artist/4pF9TANr0OM6Ppf7Ejb91o) | [Pulso](https://open.spotify.com/album/7j3Y99ykzAuIKBKEZRQRUr) | 4:44 |
 | 35 | [Caña Brava](https://open.spotify.com/track/0hy6YsimguNescPjjijro0) | [Pahua](https://open.spotify.com/artist/4sZh7ibWAOiuDkEStJxHch), [NIKOLA](https://open.spotify.com/artist/62iTERZQMpjWggsriHvDnk) | [Caña Brava](https://open.spotify.com/album/02aqlW1aBYEyhEC4I6lW42) | 3:01 |
 | 36 | [Duele](https://open.spotify.com/track/1q8pjaEhNAAFVzMyTb3pc9) | [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Duele](https://open.spotify.com/album/3cbrDaekOIx1EhHbtbr2nk) | 3:17 |
 | 37 | [Levante la Mano \(Tonga Conga Remix\)](https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK) | [Centavrvs](https://open.spotify.com/artist/2hM7wQp7sHLgMTDpxteBWo), [Tonga Conga](https://open.spotify.com/artist/2p0241roffcxojfJcnmvsU) | [Levante la Mano \(Remixes\)](https://open.spotify.com/album/5sOze0dpm9v0UtFiRFW5HS) | 4:03 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70YkMXlJRA6.md) - [plain]
 | 49 | [La Niña Grande](https://open.spotify.com/track/0nOay39wPB6N6sNTYnXjrN) | [Thornato](https://open.spotify.com/artist/6ghG9s4GfKVwxKtSdCtgwP), [Sotomayor](https://open.spotify.com/artist/13UO3EqZHeNkeDQKjUS8oH) | [Escape Plan](https://open.spotify.com/album/1rbwWcHllLmjWUjODSKV4Y) | 3:08 |
 | 50 | [Ya Llegó \- Captain Planet Remix](https://open.spotify.com/track/0PIeefi6RLeFt2O0NUfRps) | [Mon Rivera](https://open.spotify.com/artist/0XnUt52wINQV3RGEWCeDFx), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Calentura: Toque \(Captain Planet Remixes\)](https://open.spotify.com/album/3mBNM16s2Nq2hfPNkhHSpz) | 4:04 |
 
-Snapshot ID: `MCwyOGU5MTFkYmExNzlkODk5MjgyMDk2YzRhMGVlMThhMDg0NDcyYzA3`
+Snapshot ID: `MCw3MzY3ZGRkOWZmNjU1OTU2YzhlMGI2ZDRiN2QxZWUwOWJjY2ViNmE5`

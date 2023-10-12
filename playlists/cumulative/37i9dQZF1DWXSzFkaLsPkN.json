@@ -813,6 +813,32 @@
     },
     {
       "album": {
+        "name": "Jogiya",
+        "url": "https://open.spotify.com/album/3HDp3VjwowVEIkWkVpP15W"
+      },
+      "artists": [
+        {
+          "name": "Santanu Ghatak",
+          "url": "https://open.spotify.com/artist/0jlIoFaWiB1oBsWQ5ynbOF"
+        },
+        {
+          "name": "Chandreyee Bhattacharya",
+          "url": "https://open.spotify.com/artist/3mH3uFlFhSCBJ9iJRrTtxy"
+        },
+        {
+          "name": "Nilanjan Samadder",
+          "url": "https://open.spotify.com/artist/534gzAUm9B9d5jFkWR0y4A"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196901,
+      "name": "Jogiya",
+      "url": "https://open.spotify.com/track/7MU4WVkk08iWn61vLxGU9C"
+    },
+    {
+      "album": {
         "name": "Kabhi Kabhi",
         "url": "https://open.spotify.com/album/4z793Z8t0qUdwercwEUK1M"
       },
@@ -1530,7 +1556,7 @@
       ],
       "date_added": "2023-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 207619,
       "name": "Mohabbat Ki Wajah",
       "url": "https://open.spotify.com/track/0PJUFbBllJfXujgJ2jGaH0"

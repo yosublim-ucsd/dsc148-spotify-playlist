@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain]
 
 > Siento que arranco la carretera...
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,172 likes - 125 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,273 likes - 125 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,15 +54,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain]
 | 44 | [Actos De Un Tonto](https://open.spotify.com/track/6cJzRkCxgWikIKAsJCkoQL) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [Dejando Huella..\. El Final](https://open.spotify.com/album/6aVJmHZtdMWZxj88L7oWJI) | 3:47 |
 | 45 | [El Indio Enamorado](https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Indio Enamorado](https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt) | 3:08 |
 | 46 | [Mi Última Caravana](https://open.spotify.com/track/0TLYlmmcovm6qxIjg7aDb3) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp) | [Amistad y Pesos](https://open.spotify.com/album/2dp0TRYQW761GeOOMtqPv1) | 5:38 |
-| 47 | [Mi Amuleto Eres Tú](https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0) | [Vagon Chicano](https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k) | [Mi Amuleto Eres Tu](https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp) | 3:30 |
-| 48 | [El Tamarindo](https://open.spotify.com/track/0ultN7TRlSdYf7dD37szrT) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Los Buitres Con Tololoche](https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E) | 2:29 |
+| 47 | [El Tamarindo](https://open.spotify.com/track/0ultN7TRlSdYf7dD37szrT) | [Los Buitres De Culiacan Sinaloa](https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB) | [Los Buitres Con Tololoche](https://open.spotify.com/album/0zoLvMVhdvhHRFSpQpnO8E) | 2:29 |
+| 48 | [Mi Amuleto Eres Tú](https://open.spotify.com/track/3unSYVLOSglxPFNOwYXRA0) | [Vagon Chicano](https://open.spotify.com/artist/2yK0OH7d55O2eZNcBTB19k) | [Mi Amuleto Eres Tu](https://open.spotify.com/album/2V6WGHF2zycmbSwpGaWlJp) | 3:30 |
 | 49 | [El Gato De Chihuahua](https://open.spotify.com/track/1PKoT3dROitNnZQch89TgT) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Los Huracanes del Norte \- 40 Aniversario](https://open.spotify.com/album/2j5szS1qydIXtQl79I6TPW) | 3:21 |
 | 50 | [El Taquicardio](https://open.spotify.com/track/0ZZqH5tN03zxbkuyZo1Gr1) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Narcogobiernos Top 20](https://open.spotify.com/album/1MSwWu1hpONpqF2yE9H780) | 3:00 |
 | 51 | [La Ultima Sombra](https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Ni Hoy Ni Manana](https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL) | 3:57 |
 | 52 | [El Peor De Tus Antojos](https://open.spotify.com/track/4MFs5bLy5EN32UKhongd7M) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Peor De Tus Antojos](https://open.spotify.com/album/0xCvjzBPz0Ir2t57IaBzim) | 3:29 |
-| 53 | [El Cadete](https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Pienso en Ti](https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX) | 2:59 |
+| 53 | [El Quijote De Don Chuy](https://open.spotify.com/track/26zCUlNao14hL4HmfgmRTp) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Pensando En Ti](https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm) | 2:57 |
 | 54 | [El Final de Nuestra Historia](https://open.spotify.com/track/4dGfHOm1BZjV6LdC1ufJtY) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Ya Aprendí la Lección](https://open.spotify.com/album/4mruyGpiOW9uR1nqyE3xoE) | 3:28 |
-| 55 | [El Quijote De Don Chuy](https://open.spotify.com/track/26zCUlNao14hL4HmfgmRTp) | [Cuarto de Milla](https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe) | [Pensando En Ti](https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm) | 2:57 |
+| 55 | [El Cadete](https://open.spotify.com/track/0wWKTXhLBoUsq91iGoflqy) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Pienso en Ti](https://open.spotify.com/album/3nkfIhwsoNcReVGtC424XX) | 2:59 |
 | 56 | [La Hummer Y El Camaro](https://open.spotify.com/track/6bRkTmvWjUr6aCXrKGIaG5) | [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx), [Escolta De Guerra](https://open.spotify.com/artist/3K6LZGkzrJ4tD0pSrT9QZl), [Jorge Santacruz](https://open.spotify.com/artist/2bPZFtRkurwmMFJ16lnEFx) | [Los Mejores Corridos De](https://open.spotify.com/album/67hj85XV3QKcgKW48hJM4x) | 3:31 |
 | 57 | [Chalito](https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Simplemente Gracias](https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq) | 2:20 |
 | 58 | [Estrategia De Escape](https://open.spotify.com/track/5RJ6UcbfdyH9zA57IAK9vO) | [El Movimiento Alterado](https://open.spotify.com/artist/30fa9LT7XVys8DcigD1k9x) | [Carteles Unidos](https://open.spotify.com/album/6SfZZhWHTrLDbn8TfyiOTr) | 2:25 |
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6vdV62wNRK.md) - [plain]
 | 124 | [Se Les Peló Baltazar](https://open.spotify.com/track/1SptnhRor0JBN6y71KWCrW) | [Voces Del Rancho](https://open.spotify.com/artist/1fGlKY2s0o51QUA9gScpWR) | [Se Les Peló Baltazar, Vol 2](https://open.spotify.com/album/2XRnvXmXyXUSKsxqJaDs8g) | 2:36 |
 | 125 | [Cuando Los Hombres Lloran](https://open.spotify.com/track/0tAq9Pn5C9F6iTsAqvtj4s) | [Banda Movil](https://open.spotify.com/artist/7fU0B28ySGWjYCNKZD8YIK) | [Las Bandas Más Matonas](https://open.spotify.com/album/14FxLzVmnS8EvGjyrkJZ7W) | 2:16 |
 
-Snapshot ID: `MCwzMDY0ZDg5OTY1OTg4NDUwMDMzZWFhYTNhOWIxNTYwNDRmOWEzOWZl`
+Snapshot ID: `MCxlN2NhNmVmYTIwNmNjNTQ1NWQ2YmY3MTlmNzM1ODNjNzMxMGUxMTEx`

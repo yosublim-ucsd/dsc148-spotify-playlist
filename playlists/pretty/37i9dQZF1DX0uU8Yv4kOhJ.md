@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 
 > Concentrate con el aire de la cordillera de los Andes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,128 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,050 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 13 | [Uno Resuena](https://open.spotify.com/track/752FIpJwEwS2w1fhyvsRs6) | [Lulacruza](https://open.spotify.com/artist/4Tdm58O53huKPT2480fzjE) | [Orcas](https://open.spotify.com/album/474lLBbfJm8Y3zjSIXWgA3) | 5:35 |
 | 14 | [El Hijo del Altiplano](https://open.spotify.com/track/3hPgyHlvOwAlVemekxcJqb) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym) | [La Danza](https://open.spotify.com/album/5hRNiwNlIESt3rVkmDUVmL) | 5:45 |
 | 15 | [Eso Que Tu Haces](https://open.spotify.com/track/2HiionQ4vRsBnBP8bV18Cm) | [Lido Pimienta](https://open.spotify.com/artist/1IdkKQ9CM1i0wygfxYV4Z3) | [Miss Colombia](https://open.spotify.com/album/6H6MZ54B5FLBLXXxWGEl7y) | 4:33 |
-| 16 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |
-| 17 | [Relato](https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [6](https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7) | 3:48 |
+| 16 | [Relato](https://open.spotify.com/track/6igYafJjuXcq87DLZJyXzW) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0), [Buendia](https://open.spotify.com/artist/4DgmNZDjpk4Zj547a2bfcH) | [6](https://open.spotify.com/album/45ezkv6t2ypiXuqLd1nez7) | 3:48 |
+| 17 | [Mirla](https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV) | [Monte](https://open.spotify.com/artist/1fcnE99XRNfHPyu27ysuNG) | [Mirla](https://open.spotify.com/album/2thUe8kdgLxFD6TUbCVwI7) | 4:24 |
 | 18 | [Tarpuricusum Sarata \- Captain Planet Remix](https://open.spotify.com/track/2jEuZ0vQ5IVKMcr3KBxpSV) | [Luzmila Carpio](https://open.spotify.com/artist/5nerlXgmkkutK76kjPNjCr), [Captain Planet](https://open.spotify.com/artist/1WfWKF1hFimJLzz6ix6aRi) | [Luzmila Carpio Remixed \(Luzmila Carpio Meets ZZK\)](https://open.spotify.com/album/42yJe2iKdZ6Le083B0XuZj) | 4:20 |
 | 19 | [El Canto del Cuculi](https://open.spotify.com/track/4bg6qNjRS1WaD1GrPV6zZm) | [Los Koyas](https://open.spotify.com/artist/24zoa2n32fPZwVJoGOr9xC) | [Le top des Andes \(Les plus grands thèmes à la flûte des Andes\)](https://open.spotify.com/album/5SKiECHgu0Zs1cqIR8HJls) | 2:55 |
 | 20 | [La Felicidad](https://open.spotify.com/track/4FDiLM3onP5Kpd4fdz352D) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [”Zamba Puta”](https://open.spotify.com/album/1FsZ3DfeXndrOrpWNBWk6J) | 3:55 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 35 | [Uña](https://open.spotify.com/track/3rMTOUuuImnkGEGpN1dqlG) | [J\. Milchberg](https://open.spotify.com/artist/1cWw9fz7QOkKQraHRVK8hC), [U\. Ramos](https://open.spotify.com/artist/7LCu7TpIer6IjPpe6VUCRF), [Inkuyo](https://open.spotify.com/artist/6l0qnbpSfHw1vk6tQUquDt) | [Land of the Incas \(Music of the Andes\)](https://open.spotify.com/album/5eRW6MRpmkK1jLgZGxEjAn) | 3:18 |
 | 36 | [Isla Negra](https://open.spotify.com/track/4HK6iuNDF0SC5Vz7jznprn) | [Illapu](https://open.spotify.com/artist/6gWVXK2R7WYXTqxULGAyfx) | [Morena Esperanza \(Remasterizado\)](https://open.spotify.com/album/5XKPz8xM5PTS5vzaC7gyrY) | 4:26 |
 | 37 | [Altamar](https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj) | [Vilamarea](https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ) | [Altamar](https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN) | 4:49 |
-| 38 | [Francisca Pizarro](https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 3:22 |
-| 39 | [Hoja de Coca](https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja de Coca](https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe) | 4:26 |
+| 38 | [Hoja de Coca](https://open.spotify.com/track/5sYYIgpT03k1EKGBSb77pa) | [Rumillajta](https://open.spotify.com/artist/6Y2Lacqni5uPW6SROD6Jlx) | [Hoja de Coca](https://open.spotify.com/album/4dDnvsVaGbiwhVVkbve4Xe) | 4:26 |
+| 39 | [Francisca Pizarro](https://open.spotify.com/track/5BrXQ6EowW6F5EnSiFHc9w) | [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Isqun](https://open.spotify.com/album/2nZxBElNZX5Ho4h4XAaAt7) | 3:22 |
 | 40 | [Baila Caporal](https://open.spotify.com/track/1YjjXAP3cWS3qWB1ijPMVJ) | [Sukay](https://open.spotify.com/artist/45MEz7t5DAOmX0o8fFKA3B) | [Encuentros \(Meetings\)](https://open.spotify.com/album/5mkXtYO19LdPQ1mzpvODQL) | 4:32 |
 | 41 | [Sajsahuaman](https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp) | [Proyección](https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8), [Yuri Ortuño León](https://open.spotify.com/artist/1Tez0X3Wh9zSosZpCyoeLw), [Rafael Arias Paz](https://open.spotify.com/artist/6byGBND3MbJ7xGjDwU0LaZ), [Orlando Jiménez](https://open.spotify.com/artist/09rYyheZjqeOn8sXUfk8Yh), [Raúl Muriel](https://open.spotify.com/artist/2sHM5euYwk4aMqhiT8MZCM) | [No Vuelvo a Amar \(feat\. Yuri Ortuño León, Rafael Arias Paz, Orlando Jiménez, Raúl Muriel\) \[Bolivia y Su Folklore\]](https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY) | 2:42 |
 | 42 | [Cacharpaya Del Indio](https://open.spotify.com/track/01faYqKRsEL1LnJa78gkfu) | [Jorge Rico](https://open.spotify.com/artist/3Q3acE5KCV3k0UdCH7bGhp) | [A Journey To The Andes](https://open.spotify.com/album/5z3wwXWdl5P7lNsZ1jTS9P) | 4:56 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0uU8Yv4kOhJ.md) - [plain]
 | 45 | [Pura Flor](https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Pura Flor](https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1) | 3:57 |
 | 46 | [Cometa de Luz](https://open.spotify.com/track/2CvioY7rOClmpHFC6JXeUb) | [Uña Ramos](https://open.spotify.com/artist/5zwQO1xFFpsrzqASmQ5ZAA) | [Quena de los Andes](https://open.spotify.com/album/3AG3ZBPzchv6p4FYIeIZeq) | 3:47 |
 | 47 | [Tatalitu \(Chuntunqui\)](https://open.spotify.com/track/5aCk29xRgtDIMgE8y5gQqD) | [Inti Punchai](https://open.spotify.com/artist/0bw09OCO0e0MlvXxpbDE7r) | [Musica De Bolivia](https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC) | 3:57 |
-| 48 | [Ódiame](https://open.spotify.com/track/4EoDDuA7b9V2lVlmdkEkPA) | [Los Cancionautas Surmelódicos](https://open.spotify.com/artist/2MxbFKWZMuLqHiRJ00Xzga), [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Ódiame](https://open.spotify.com/album/3SwFT7Pq0A98vQypiY6vde) | 3:43 |
-| 49 | [De Barrio](https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0) | [M.A.K.U SoundSystem](https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh) | [Mezcla](https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa) | 5:51 |
+| 48 | [De Barrio](https://open.spotify.com/track/0AcZqqvX2aLynoxkIYpCL0) | [M.A.K.U SoundSystem](https://open.spotify.com/artist/1XvVZZxpcgZw7MUG5BIUJh) | [Mezcla](https://open.spotify.com/album/4Eq9kFfrgL1LL3mslSKwKa) | 5:51 |
+| 49 | [Ódiame](https://open.spotify.com/track/4EoDDuA7b9V2lVlmdkEkPA) | [Los Cancionautas Surmelódicos](https://open.spotify.com/artist/2MxbFKWZMuLqHiRJ00Xzga), [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Ódiame](https://open.spotify.com/album/3SwFT7Pq0A98vQypiY6vde) | 3:43 |
 | 50 | [Viaje Andino](https://open.spotify.com/track/6LFPiralbg4KhoGBCC8V4M) | [Paulopulus](https://open.spotify.com/artist/1IWXmmObccEzvcNxa9Dtvo), [Juan Luis Pereira](https://open.spotify.com/artist/4svRjaFMW12wuoZ0PJqj40) | [Viaje de Mixturas](https://open.spotify.com/album/5UDyoz7X5WktqJadjWvmVA) | 4:06 |
 
-Snapshot ID: `MCxkZWE3NmQwNWFjOGE3ZWQ3OTJiN2E5OTQyNTBkMjMwMmIwNDllZGEw`
+Snapshot ID: `MCxjODk0NzUwNDlhYTNlNGJjMmM3MmIzNmYzOWZiOTgyZmIwMTkxYjRm`

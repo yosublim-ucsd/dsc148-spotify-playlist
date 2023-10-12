@@ -1,12 +1,12 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Marc Anthony",
-  "num_followers": 487038,
+  "num_followers": 487135,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwZTExOGE1NDE2OTI0NGVjMGIwYTlkOWFjOWYwNDAxMzkwZmFjNmE1",
+  "snapshot_id": "MCxmOGU1NDA1MzVhNjBjZDJhOTk5MDY3NjYzZDk0ZjE0MjMwZGQ3NTg2",
   "tracks": [
     {
       "added_at": "2023-09-26 23:46:47",
@@ -735,22 +735,6 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
-        "name": "Aqui No Se Sienta Nadie!",
-        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Brujeria",
-      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
-    },
-    {
-      "added_at": "2023-09-26 23:46:47",
-      "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 409080,
       "name": "Peri\u00f3dico De Ayer",
       "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
+    },
+    {
+      "added_at": "2023-09-26 23:46:47",
+      "album": {
+        "name": "Aqui No Se Sienta Nadie!",
+        "url": "https://open.spotify.com/album/18m4lag970uk1AMSvaUZmg"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Brujeria",
+      "url": "https://open.spotify.com/track/0k1hbeZodoEw34FAdbh8xM"
     },
     {
       "added_at": "2023-09-26 23:46:47",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
-        "name": "Pa' Bravo Yo",
-        "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
-      },
-      "artists": [
-        {
-          "name": "Justo Betancourt",
-          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Pa' Bravo Yo",
-      "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
-    },
-    {
-      "added_at": "2023-09-26 23:46:47",
-      "album": {
         "name": "Pura Salsa",
         "url": "https://open.spotify.com/album/6oMeobuIf0Kmqty5A4WBBm"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 313560,
       "name": "Mi Mayor Venganza",
       "url": "https://open.spotify.com/track/2NCmyKVXhY4iPBXaRCajoi"
+    },
+    {
+      "added_at": "2023-09-26 23:46:47",
+      "album": {
+        "name": "Pa' Bravo Yo",
+        "url": "https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh"
+      },
+      "artists": [
+        {
+          "name": "Justo Betancourt",
+          "url": "https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Pa' Bravo Yo",
+      "url": "https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy"
     },
     {
       "added_at": "2023-09-26 23:46:47",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
-        "name": "Voy Pa'Encima",
-        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
-      },
-      "artists": [
-        {
-          "name": "Frankie Ruiz",
-          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
-        }
-      ],
-      "duration_ms": 287120,
-      "name": "Desn\u00fadate Mujer",
-      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
-    },
-    {
-      "added_at": "2023-09-26 23:46:47",
-      "album": {
         "name": "Exitos y Mas",
         "url": "https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 306440,
       "name": "A Donde Iras",
       "url": "https://open.spotify.com/track/6BWPT5ku80skdgRnBuMJ28"
+    },
+    {
+      "added_at": "2023-09-26 23:46:47",
+      "album": {
+        "name": "Voy Pa'Encima",
+        "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "duration_ms": 287120,
+      "name": "Desn\u00fadate Mujer",
+      "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
     },
     {
       "added_at": "2023-09-26 23:46:47",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-09-26 23:46:47",
       "album": {
+        "name": "Probablemente",
+        "url": "https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP"
+      },
+      "artists": [
+        {
+          "name": "Daniela Darcourt",
+          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
+        }
+      ],
+      "duration_ms": 300265,
+      "name": "Probablemente",
+      "url": "https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra"
+    },
+    {
+      "added_at": "2023-09-26 23:46:47",
+      "album": {
         "name": "The 'Brillante' Best",
         "url": "https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 259000,
       "name": "Usted Abus\u00f3",
       "url": "https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo"
-    },
-    {
-      "added_at": "2023-09-26 23:46:47",
-      "album": {
-        "name": "Probablemente",
-        "url": "https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP"
-      },
-      "artists": [
-        {
-          "name": "Daniela Darcourt",
-          "url": "https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR"
-        }
-      ],
-      "duration_ms": 300265,
-      "name": "Probablemente",
-      "url": "https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra"
     },
     {
       "added_at": "2023-09-26 23:46:47",

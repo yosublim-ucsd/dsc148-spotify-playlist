@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Richard Strauss.",
-  "num_followers": 20928,
+  "num_followers": 20929,
   "original_name": "This Is Richard Strauss",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5MjhhYmVkMGQxYzMzOWVmYzc1MGRjOTYwODkzNGEwMThmODhlYzYy",
+  "snapshot_id": "MCw4ZTk0OTdmMTc2M2IzODJhNDMyNDA2NzIyZWYxOTEyYzE4MmE5MTlh",
   "tracks": [
     {
       "added_at": "2022-06-20 09:55:21",
@@ -367,6 +367,26 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder",
+        "url": "https://open.spotify.com/album/1bdgbNqVYATqKfxJp7CwAZ"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Stefan Veselka",
+          "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
+        }
+      ],
+      "duration_ms": 287920,
+      "name": "5 Piano Pieces, Op. 3, TrV 105: No. 1. Andante",
+      "url": "https://open.spotify.com/track/1BZ7quGqnjra6uAXUnSN01"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Capriccio - Works for Violin and Piano [Digital version]",
         "url": "https://open.spotify.com/album/5Ahk9V4CcQluGsKMbFmize"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 217973,
       "name": "Strauss, R / Arr. Prihoda for Violin and Piano: Stimmungsbilder, Op. 9: No. 2, An einsamer Quelle",
       "url": "https://open.spotify.com/track/0jg9K9w8QeYi5SlOA2z63j"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "Strauss, R: Piano Sonata / 5 Piano Pieces / Stimmungsbilder",
-        "url": "https://open.spotify.com/album/1bdgbNqVYATqKfxJp7CwAZ"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Stefan Veselka",
-          "url": "https://open.spotify.com/artist/3sk4ZOpOgKARZ6zl0cSWYX"
-        }
-      ],
-      "duration_ms": 287920,
-      "name": "5 Piano Pieces, Op. 3, TrV 105: No. 1. Andante",
-      "url": "https://open.spotify.com/track/1BZ7quGqnjra6uAXUnSN01"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -767,50 +767,6 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
-        "name": "Strauss: Elektra",
-        "url": "https://open.spotify.com/album/6sL7ArNAaZelHIwfDSl1Mt"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        },
-        {
-          "name": "Ekaterina Popova",
-          "url": "https://open.spotify.com/artist/0soN9WxS6eDiUALGuXNsXK"
-        },
-        {
-          "name": "Olga Legkova",
-          "url": "https://open.spotify.com/artist/1vnzPSDvK9ahE9sRpEb7Cg"
-        },
-        {
-          "name": "Ekaterina Sergeeva",
-          "url": "https://open.spotify.com/artist/4mar0sQwFmXXKcEOMcX7xm"
-        },
-        {
-          "name": "Tatiana Kravtsova",
-          "url": "https://open.spotify.com/artist/1Zv0OVxjLFJtdc0izjtdom"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        },
-        {
-          "name": "Lia Shevtsova",
-          "url": "https://open.spotify.com/artist/1KTi12yppNCKHr3KAiAcFx"
-        }
-      ],
-      "duration_ms": 369720,
-      "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
-      "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
         "name": "R. Strauss: Also sprach Zarathustra, Op. 30, TrV 176",
         "url": "https://open.spotify.com/album/1M0t1KctQbDvdZKVqkmeFP"
       },
@@ -859,6 +815,50 @@
       "duration_ms": 681213,
       "name": "Daphne, Op. 82, TrV 272: \"Ich komme, ich komme\"",
       "url": "https://open.spotify.com/track/0ylOOGWlbKBeAY3YaRY8bK"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
+        "name": "Strauss: Elektra",
+        "url": "https://open.spotify.com/album/6sL7ArNAaZelHIwfDSl1Mt"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        },
+        {
+          "name": "Ekaterina Popova",
+          "url": "https://open.spotify.com/artist/0soN9WxS6eDiUALGuXNsXK"
+        },
+        {
+          "name": "Olga Legkova",
+          "url": "https://open.spotify.com/artist/1vnzPSDvK9ahE9sRpEb7Cg"
+        },
+        {
+          "name": "Ekaterina Sergeeva",
+          "url": "https://open.spotify.com/artist/4mar0sQwFmXXKcEOMcX7xm"
+        },
+        {
+          "name": "Tatiana Kravtsova",
+          "url": "https://open.spotify.com/artist/1Zv0OVxjLFJtdc0izjtdom"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "Lia Shevtsova",
+          "url": "https://open.spotify.com/artist/1KTi12yppNCKHr3KAiAcFx"
+        }
+      ],
+      "duration_ms": 369720,
+      "name": "Elektra, Op. 58: \"Wo bleibt Elektra?\"",
+      "url": "https://open.spotify.com/track/2b8b32NYy8iG2shSQNBepS"
     },
     {
       "added_at": "2022-06-20 09:55:21",
@@ -1435,6 +1435,34 @@
     {
       "added_at": "2022-06-20 09:55:21",
       "album": {
+        "name": "\"Homage\" - The Age of the Diva",
+        "url": "https://open.spotify.com/album/1ctlAZPfAzx2pp8ObmA3bt"
+      },
+      "artists": [
+        {
+          "name": "Richard Strauss",
+          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
+        },
+        {
+          "name": "Ren\u00e9e Fleming",
+          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
+        },
+        {
+          "name": "Mariinsky Orchestra",
+          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
+        },
+        {
+          "name": "Valery Gergiev",
+          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
+        }
+      ],
+      "duration_ms": 291786,
+      "name": "Die Liebe der Danae: \"Wie umgibst du mich mit Frieden\"",
+      "url": "https://open.spotify.com/track/1lDXttEeQgf55CNp8YebTF"
+    },
+    {
+      "added_at": "2022-06-20 09:55:21",
+      "album": {
         "name": "Strauss, R.: Sinfonia Domestica; Macbeth (The Originals / Live)",
         "url": "https://open.spotify.com/album/3T0UrJ4727VIpmpKgCkDdo"
       },
@@ -1487,34 +1515,6 @@
       "duration_ms": 228106,
       "name": "Ariadne auf Naxos / Prologue: \"Ein Augenblick ist wenig\"",
       "url": "https://open.spotify.com/track/7FWRFBUh0ETGb1ANRGX8tB"
-    },
-    {
-      "added_at": "2022-06-20 09:55:21",
-      "album": {
-        "name": "\"Homage\" - The Age of the Diva",
-        "url": "https://open.spotify.com/album/1ctlAZPfAzx2pp8ObmA3bt"
-      },
-      "artists": [
-        {
-          "name": "Richard Strauss",
-          "url": "https://open.spotify.com/artist/6pAwHPeExeUbMd5w7Iny6D"
-        },
-        {
-          "name": "Ren\u00e9e Fleming",
-          "url": "https://open.spotify.com/artist/3SK3gLBgy1jRuA4VnLlcs8"
-        },
-        {
-          "name": "Mariinsky Orchestra",
-          "url": "https://open.spotify.com/artist/2rRUfv2w535SEUV1YO5SP6"
-        },
-        {
-          "name": "Valery Gergiev",
-          "url": "https://open.spotify.com/artist/2LxnoYPOe0FCLC82R3xgO2"
-        }
-      ],
-      "duration_ms": 291786,
-      "name": "Die Liebe der Danae: \"Wie umgibst du mich mit Frieden\"",
-      "url": "https://open.spotify.com/track/1lDXttEeQgf55CNp8YebTF"
     },
     {
       "added_at": "2022-06-20 09:55:21",

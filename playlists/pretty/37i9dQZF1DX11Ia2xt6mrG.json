@@ -1,12 +1,12 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. Dannylux en portada.",
-  "num_followers": 55050,
+  "num_followers": 55039,
   "original_name": "mint MX",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODhlYjU2NmYwYWNlMTMyMzBhNmVkMTMwNjEyNWRiYjQxZGU4ZTVi",
+  "snapshot_id": "MCwyMTY5NzRkN2E0OWU3N2U0ZGQ1NmQ3OTkzMmFhYTRjNWNhZjUwMDRi",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -579,26 +579,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Ayanami",
-        "url": "https://open.spotify.com/album/5NVQqWiBw9New8cyTEwBsR"
+        "name": "Up & Down",
+        "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
       },
       "artists": [
         {
-          "name": "Seith",
-          "url": "https://open.spotify.com/artist/0AX9fLjdqQxFjteGQcg3u2"
-        },
-        {
-          "name": "katsu energy",
-          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
-        },
-        {
-          "name": "B Kush",
-          "url": "https://open.spotify.com/artist/6i4990JfINe9bxVJjqJISS"
+          "name": "Chela Rivas",
+          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
         }
       ],
-      "duration_ms": 147000,
-      "name": "Ayanami",
-      "url": "https://open.spotify.com/track/0WXJI3uV5WfXOdr9bYv4Um"
+      "duration_ms": 184000,
+      "name": "Up & Down",
+      "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -643,18 +635,26 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Up & Down",
-        "url": "https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ"
+        "name": "Ayanami",
+        "url": "https://open.spotify.com/album/5NVQqWiBw9New8cyTEwBsR"
       },
       "artists": [
         {
-          "name": "Chela Rivas",
-          "url": "https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n"
+          "name": "Seith",
+          "url": "https://open.spotify.com/artist/0AX9fLjdqQxFjteGQcg3u2"
+        },
+        {
+          "name": "katsu energy",
+          "url": "https://open.spotify.com/artist/1RoI58gNaq35wexcKAMnUQ"
+        },
+        {
+          "name": "B Kush",
+          "url": "https://open.spotify.com/artist/6i4990JfINe9bxVJjqJISS"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Up & Down",
-      "url": "https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7"
+      "duration_ms": 147000,
+      "name": "Ayanami",
+      "url": "https://open.spotify.com/track/0WXJI3uV5WfXOdr9bYv4Um"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Bajo Cero",
-        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
-      },
-      "artists": [
-        {
-          "name": "Sussie 4",
-          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
-        },
-        {
-          "name": "Vita Set",
-          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
-        }
-      ],
-      "duration_ms": 243762,
-      "name": "Bajo Cero",
-      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Quem\u00e1",
         "url": "https://open.spotify.com/album/5hKdaI14cybTq3muwkWHxB"
       },
@@ -791,38 +771,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Pass The Dutch",
-        "url": "https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj"
+        "name": "Bajo Cero",
+        "url": "https://open.spotify.com/album/0OktFVarxQjgAlYrwCI1S7"
       },
       "artists": [
         {
-          "name": "JADED",
-          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+          "name": "Sussie 4",
+          "url": "https://open.spotify.com/artist/62r23J4b195KwCZIpRB2Jb"
         },
         {
-          "name": "Tom & Collins",
-          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+          "name": "Vita Set",
+          "url": "https://open.spotify.com/artist/7gvEHRdKF3R8fbr3Up2qOy"
         }
       ],
-      "duration_ms": 208125,
-      "name": "Pass The Dutch",
-      "url": "https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Sexy Velocity",
-        "url": "https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr"
-      },
-      "artists": [
-        {
-          "name": "Mr. Pig",
-          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
-        }
-      ],
-      "duration_ms": 212280,
-      "name": "Sexy Velocity",
-      "url": "https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz"
+      "duration_ms": 243762,
+      "name": "Bajo Cero",
+      "url": "https://open.spotify.com/track/1mjlaPR2l2yZPo9dPZXYOH"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -851,6 +815,42 @@
       "duration_ms": 205460,
       "name": "Deep Lies",
       "url": "https://open.spotify.com/track/1uzLk7oQmjOcH1qtexmNXM"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Sexy Velocity",
+        "url": "https://open.spotify.com/album/5iyQb5aoLeI01XMaU3GDRr"
+      },
+      "artists": [
+        {
+          "name": "Mr. Pig",
+          "url": "https://open.spotify.com/artist/4psozRvxjEJEOANLHTwA7J"
+        }
+      ],
+      "duration_ms": 212280,
+      "name": "Sexy Velocity",
+      "url": "https://open.spotify.com/track/6alfVsrTE8o5nesHg7F9tz"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Pass The Dutch",
+        "url": "https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        },
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        }
+      ],
+      "duration_ms": 208125,
+      "name": "Pass The Dutch",
+      "url": "https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Addicted",
-        "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
-      },
-      "artists": [
-        {
-          "name": "Iker Azcu\u00e9",
-          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
-        }
-      ],
-      "duration_ms": 166611,
-      "name": "Addicted",
-      "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Highway",
         "url": "https://open.spotify.com/album/21J0Swjz8gN4mRTfTTyrC7"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 369828,
       "name": "Highway - Original Mix",
       "url": "https://open.spotify.com/track/6AUlcDivRD0L1EbeljUoLr"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Addicted",
+        "url": "https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw"
+      },
+      "artists": [
+        {
+          "name": "Iker Azcu\u00e9",
+          "url": "https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp"
+        }
+      ],
+      "duration_ms": 166611,
+      "name": "Addicted",
+      "url": "https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Covalent Bond",
-        "url": "https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK"
+        "name": "Esto Aqui No Acaba",
+        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
       },
       "artists": [
         {
-          "name": "Erick T",
-          "url": "https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
         },
         {
-          "name": "The Second Wave",
-          "url": "https://open.spotify.com/artist/7IFy6bk5Xwsf0f58o1al0o"
+          "name": "Flor Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
         }
       ],
-      "duration_ms": 159359,
-      "name": "Covalent Bond",
-      "url": "https://open.spotify.com/track/2TZLm2KyyWHlNhyFXAhvCK"
+      "duration_ms": 172800,
+      "name": "Esto Aqui No Acaba",
+      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1375,22 +1375,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Esto Aqui No Acaba",
-        "url": "https://open.spotify.com/album/2SM4NPlL0rnYUP45pfWEYD"
+        "name": "Covalent Bond",
+        "url": "https://open.spotify.com/album/5jZ5hLf3m4UenDBUFjfsNK"
       },
       "artists": [
         {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+          "name": "Erick T",
+          "url": "https://open.spotify.com/artist/0oL2gjYOTpcRB9aFqFMLw0"
         },
         {
-          "name": "Flor Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/1o1zq9nsPVxHhIpnnKdWU3"
+          "name": "The Second Wave",
+          "url": "https://open.spotify.com/artist/7IFy6bk5Xwsf0f58o1al0o"
         }
       ],
-      "duration_ms": 172800,
-      "name": "Esto Aqui No Acaba",
-      "url": "https://open.spotify.com/track/2RhdFJWmhclYdUFifWIh4q"
+      "duration_ms": 159359,
+      "name": "Covalent Bond",
+      "url": "https://open.spotify.com/track/2TZLm2KyyWHlNhyFXAhvCK"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "Give Me Your Heart (Somos Uno)",
+        "url": "https://open.spotify.com/album/3R79qs8T32OudQdPBZ0Ope"
+      },
+      "artists": [
+        {
+          "name": "Sisster",
+          "url": "https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF"
+        }
+      ],
+      "duration_ms": 209267,
+      "name": "Give Me Your Heart (Somos Uno)",
+      "url": "https://open.spotify.com/track/0cEkRIcJMo0KIxNsWiKyob"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Windows",
         "url": "https://open.spotify.com/album/0EQINUTcp3sgpItQ5RQTFZ"
       },
@@ -1463,38 +1479,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Give Me Your Heart (Somos Uno)",
-        "url": "https://open.spotify.com/album/3R79qs8T32OudQdPBZ0Ope"
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
       },
       "artists": [
         {
-          "name": "Sisster",
-          "url": "https://open.spotify.com/artist/6d7Gn9vZrwwN9gBnKHzdzF"
+          "name": "Bzars",
+          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
         }
       ],
-      "duration_ms": 209267,
-      "name": "Give Me Your Heart (Somos Uno)",
-      "url": "https://open.spotify.com/track/0cEkRIcJMo0KIxNsWiKyob"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Filosof\u00eda",
-        "url": "https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np"
-      },
-      "artists": [
-        {
-          "name": "Bsno",
-          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
-        },
-        {
-          "name": "Johan",
-          "url": "https://open.spotify.com/artist/07JQJLRsxuHquLwtSV0XyS"
-        }
-      ],
-      "duration_ms": 180918,
-      "name": "Filosof\u00eda",
-      "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
+      "duration_ms": 210967,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1523,18 +1519,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Need You",
-        "url": "https://open.spotify.com/album/3ilpQiBwLygEQgzZXA1t0d"
+        "name": "Filosof\u00eda",
+        "url": "https://open.spotify.com/album/2GN5rVI2elWcAB3HLwN8np"
       },
       "artists": [
         {
-          "name": "Bzars",
-          "url": "https://open.spotify.com/artist/4lS9Yg5DF4h5zDAMrSJwU9"
+          "name": "Bsno",
+          "url": "https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29"
+        },
+        {
+          "name": "Johan",
+          "url": "https://open.spotify.com/artist/07JQJLRsxuHquLwtSV0XyS"
         }
       ],
-      "duration_ms": 210967,
-      "name": "Need You",
-      "url": "https://open.spotify.com/track/6pnXRraVe1b0ytJ7R147Ln"
+      "duration_ms": 180918,
+      "name": "Filosof\u00eda",
+      "url": "https://open.spotify.com/track/3oD1kN8r6t3UWo4Edxvi6C"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1583,22 +1583,18 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Space",
-        "url": "https://open.spotify.com/album/3r4UauxvbGR8am8API7124"
+        "name": "Galactic Feelings",
+        "url": "https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X"
       },
       "artists": [
         {
-          "name": "N\u00d8RBY",
-          "url": "https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw"
-        },
-        {
-          "name": "Taylor Diaz",
-          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
         }
       ],
-      "duration_ms": 178909,
-      "name": "Space",
-      "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
+      "duration_ms": 250775,
+      "name": "Galactic Feelings",
+      "url": "https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1623,18 +1619,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Galactic Feelings",
-        "url": "https://open.spotify.com/album/0DOKHmbh2GwQ0Xq6G7uo0X"
+        "name": "Space",
+        "url": "https://open.spotify.com/album/3r4UauxvbGR8am8API7124"
       },
       "artists": [
         {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+          "name": "N\u00d8RBY",
+          "url": "https://open.spotify.com/artist/2U3LN7n2HqjV95bmXJ3RLw"
+        },
+        {
+          "name": "Taylor Diaz",
+          "url": "https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf"
         }
       ],
-      "duration_ms": 250775,
-      "name": "Galactic Feelings",
-      "url": "https://open.spotify.com/track/5UdlBVNbiLgSYJs0mVka5R"
+      "duration_ms": 178909,
+      "name": "Space",
+      "url": "https://open.spotify.com/track/2feFSrZALcQBjdDbTn5nz3"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1707,6 +1707,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "killed love",
+        "url": "https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 232288,
+      "name": "killed love",
+      "url": "https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/6sZBlc5iZcFpFE0c7z6cMx"
       },
@@ -1743,22 +1759,6 @@
       "duration_ms": 214416,
       "name": "KARMA",
       "url": "https://open.spotify.com/track/7mmwYkMjErRJrMxemmm2zk"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "killed love",
-        "url": "https://open.spotify.com/album/51Hkt6nyQlaPiRYu0j2YjP"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 232288,
-      "name": "killed love",
-      "url": "https://open.spotify.com/track/3q4CXbWktB6TgKRQIPWkzU"
     },
     {
       "added_at": "2023-10-06 06:00:00",

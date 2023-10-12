@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar\. Foto: Melim
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,628 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,472 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 41 | [Toda Molhada \(Casa do Sol\) \- Ao Vivo 25 Anos](https://open.spotify.com/track/1g6Ng6XKGC8ns0aWFS5Zun) | [Comunidade Nin\-jitsu](https://open.spotify.com/artist/46Jgh80vLc36SBFi9UXpcg) | [Toda Molhada \(Casa do Sol\) \- Ao Vivo 25 Anos](https://open.spotify.com/album/3qDRvHE5ZYck86T7SrGdS1) | 4:35 |
 | 42 | [Por aí](https://open.spotify.com/track/7zfACboYexn19rWa8mwCFA) | [Suwave](https://open.spotify.com/artist/3Phb6QnBcerqU7CgREycRe) | [Por Aí](https://open.spotify.com/album/1dlrX9KQDl0iGEvrj1ho8L) | 3:05 |
 | 43 | [Tchau Querido](https://open.spotify.com/track/5YRYqGDj8I2QVq9hihSZA8) | [Pilar](https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe) | [Ascenda](https://open.spotify.com/album/17vkIbWTbSp2oy4ZlXn0y8) | 3:37 |
-| 44 | [40 Graus](https://open.spotify.com/track/1XHJzC9TKXgbrMk3KFc9tj) | [Igor Borborema](https://open.spotify.com/artist/1y9uZNOkz8wDHfjCqi22D2), [Khouri](https://open.spotify.com/artist/41gBrGxvxCloe8iijf1iDQ), [Menestrel Republicano](https://open.spotify.com/artist/2chZH9QmVHdoiDyKQSNXZ8) | [40 Graus](https://open.spotify.com/album/423mOe8bfFnYPyoZjyIp56) | 3:06 |
-| 45 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 |
+| 44 | [Filho do Mar](https://open.spotify.com/track/3kVixQI3JlFiIUPy3jjck9) | [Banda Nossa Praia](https://open.spotify.com/artist/7ES8RFsuGv3pM0x34FSTIv) | [Filho do Mar](https://open.spotify.com/album/4ZVhVkoYsJn5ZykZfQGfBO) | 3:35 |
+| 45 | [40 Graus](https://open.spotify.com/track/1XHJzC9TKXgbrMk3KFc9tj) | [Igor Borborema](https://open.spotify.com/artist/1y9uZNOkz8wDHfjCqi22D2), [Khouri](https://open.spotify.com/artist/41gBrGxvxCloe8iijf1iDQ), [Menestrel Republicano](https://open.spotify.com/artist/2chZH9QmVHdoiDyKQSNXZ8) | [40 Graus](https://open.spotify.com/album/423mOe8bfFnYPyoZjyIp56) | 3:06 |
 | 46 | [Deixa O Amor Fluir](https://open.spotify.com/track/7B5LFKQJZkI1Vh82dIMSW7) | [MARCEL](https://open.spotify.com/artist/6u0K20qShucTXhhb9lOZjX), [PEU](https://open.spotify.com/artist/6kpPbpC43H8QLZkwN6D19f) | [Deixa O Amor Fluir](https://open.spotify.com/album/7DLZbNQrrloT2jeEJJJJmo) | 2:56 |
 | 47 | [Caiçara](https://open.spotify.com/track/348fxaFJRVpt775GjR31aM) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Caiçara](https://open.spotify.com/album/7GRtOhtBDFj6jRTFKrgoZK) | 2:54 |
 | 48 | [Sol da Meia\-Noite](https://open.spotify.com/track/4bRazVEpf2S9L7Uy6yy7Rt) | [Nathan Carvalho](https://open.spotify.com/artist/4jKKMcr1tu7dl9phu8o3pl), [Zeider](https://open.spotify.com/artist/6r9jXjPwsd3OP4aCSfYRhW) | [Sol da Meia\-Noite](https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7) | 3:29 |
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 51 | [Corri Demais](https://open.spotify.com/track/4g1YmClJHZJKdPgZkaXKzo) | [Cauê Castro](https://open.spotify.com/artist/5lAz5CTHn1cuYROHKmoAvB) | [Corri Demais](https://open.spotify.com/album/4Dlj7HusLNSwUWS2URvZIV) | 2:58 |
 | 52 | [Frequência do Amor](https://open.spotify.com/track/5uhttrGCBD63qRmJbQOmM1) | [Vitti Romera](https://open.spotify.com/artist/7tc8zhkjLM3ymqrDmFHajk) | [Frequência do Amor](https://open.spotify.com/album/4xDj13FFF1V1qDwnQ8mHie) | 2:41 |
 | 53 | [Terra do Sol](https://open.spotify.com/track/5DFRBacvE2sPo5XSFCFvZf) | [Calmô](https://open.spotify.com/artist/2UhdhFK77w8HgPFhdPZDWy), [Tupi Machine](https://open.spotify.com/artist/2K7WZmzw0YSyXW1xZE1T4l) | [Terra do Sol](https://open.spotify.com/album/479XhvUfr2RSx6IamTa0L8) | 2:33 |
-| 54 | [O Que te Faz Viver](https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS) | [Kallibre](https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7) | [O Que te Faz Viver](https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr) | 3:50 |
-| 55 | [Flying High](https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C) | [Solano Jacob](https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm), [Rafael Senegal](https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK) | [Flying High](https://open.spotify.com/album/75aD61Mdn46by45roKljUL) | 4:02 |
+| 54 | [Flying High](https://open.spotify.com/track/7CJpiMB7cKSuV4BYgtkV6C) | [Solano Jacob](https://open.spotify.com/artist/2Z5qm6vzoFzV2FfdDQ8kKm), [Rafael Senegal](https://open.spotify.com/artist/2H2ov0xQLpg5fg6nCElBCK) | [Flying High](https://open.spotify.com/album/75aD61Mdn46by45roKljUL) | 4:02 |
+| 55 | [O Que te Faz Viver](https://open.spotify.com/track/29MSWdwb1Z6s74JIT7FyzS) | [Kallibre](https://open.spotify.com/artist/6ko7vi5bpxvolJ9g47pve7) | [O Que te Faz Viver](https://open.spotify.com/album/0ejMTMDQ4kWbJDimnXPNIr) | 3:50 |
 | 56 | [Volta pra Casa.](https://open.spotify.com/track/57DFFCpq1UjzTdD0yEOq4I) | [Dom Vinera](https://open.spotify.com/artist/6cbcX5qJMGAjqiQmpoKhhx), [Mariii Batista](https://open.spotify.com/artist/1hpaqFjce9vQVa4Bre9Wve) | [Volta pra Casa.](https://open.spotify.com/album/4LhRECtSYSozf5WQTYTZ8c) | 3:39 |
 | 57 | [Lua Crescente](https://open.spotify.com/track/3pxlJ6ekcf3e5AIwbU9Wzt) | [Calbertini](https://open.spotify.com/artist/1D8wO50htejQzCFByxytKH) | [Lua Crescente](https://open.spotify.com/album/4Fa9dI4joZ8SYsXOSKIlEu) | 3:21 |
 | 58 | [sei lá](https://open.spotify.com/track/1qZnStNVnb35sjENUA4G3B) | [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [sei lá](https://open.spotify.com/album/3RIB8BEpinwrq093EmVt8h) | 3:12 |
 | 59 | [Pôr do Sol](https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Pôr do Sol](https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w) | 3:48 |
 | 60 | [Na Jornada \- Remasterizado](https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s) | [Amaro Lima](https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag) | [Coletivo \(Remasterizado\)](https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G) | 4:14 |
 
-Snapshot ID: `MCxjOTg5MzUyOThiMzdlYTU2ZTk0NjY2NDVhZjhhODk3Mzc4ZmE5MTE5`
+Snapshot ID: `MCw4NGRjMzc5NmFlMTQ5NjQ5MTRkMmI1MmE0OTY0OTQ2MjZkYTEyMGY2`

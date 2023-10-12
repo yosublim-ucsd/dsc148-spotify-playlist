@@ -4,7 +4,7 @@
 
 > New jazz for open minds\. Cover: Dana and Alden
 
-1,116 songs - 3 day 17 hr 50 min
+1,117 songs - 3 day 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -629,7 +629,8 @@
 | [Nitrogen](https://open.spotify.com/track/7cWaxBeit7ohfyVnNGUP3m) | [Mika Krstic](https://open.spotify.com/artist/3fs2IhOduiLzt9jlN7YEC2) | [Nitrogen](https://open.spotify.com/album/7eHgfsNkxLGgnuF01yH1Na) | 4:27 | 2022-10-07 | 2022-10-29 |
 | [No Beginning](https://open.spotify.com/track/4Eigj06JGTcmMYZmHvNfQR) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [No Beginning](https://open.spotify.com/album/5R3NTB4pTpUUw24ufA4I28) | 2:42 | 2023-05-26 | 2023-06-17 |
 | [No End](https://open.spotify.com/track/2MJMUvGIN5aidX8rHTsJcH) | [Tony Allen](https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [No End](https://open.spotify.com/album/5R1eo5djaopbyuWH3vpJHd) | 2:38 | 2023-06-16 | 2023-09-16 |
-| [no one else has your magik!](https://open.spotify.com/track/4KBSf8F5ZKWQGzeeD9MoBx) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [align with Nature's Intelligence](https://open.spotify.com/album/6XujV8YRIeCQ6Yip7nSlY6) | 5:48 | 2023-09-22 |  |
+| [no one else has your magik!](https://open.spotify.com/track/0XPQ1MkUGm4pGQj3kx4exC) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [align with Nature's Intelligence](https://open.spotify.com/album/7KscLI0PccEmUo5GUm3DhO) | 5:46 | 2023-09-22 |  |
+| [no one else has your magik!](https://open.spotify.com/track/4KBSf8F5ZKWQGzeeD9MoBx) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3) | [align with Nature's Intelligence](https://open.spotify.com/album/6XujV8YRIeCQ6Yip7nSlY6) | 5:48 | 2023-09-22 | 2023-10-12 |
 | [No Words \- Laroye Future Jazz Mix](https://open.spotify.com/track/0UDKBckPzMbnfrsuHbWagI) | [Frank Mccomb](https://open.spotify.com/artist/0wbDq3eOvenJ6l0gYhUNqt), [Laroye](https://open.spotify.com/artist/24LSTJ4KOtLJt1Z23VZ6GI) | [No Words \(Laroye Remixes\)](https://open.spotify.com/album/6gDyP0uKG3dAnYn4077vVF) | 5:56 | 2022-12-23 | 2023-02-11 |
 | [Noam](https://open.spotify.com/track/3HYHagZGinnjSfdDPOTgAg) | [Oded Tzur](https://open.spotify.com/artist/0qi2QVszdqHPr7Wb7kjMbi), [Nitai Hershkovits](https://open.spotify.com/artist/7lysajaDFp2cX097v7H4SN), [Petros Klampanis](https://open.spotify.com/artist/2EW4K87b5EjGuCbachzK2B), [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Noam](https://open.spotify.com/album/7vHi4PfaQLjzhgs66R73eN) | 6:37 | 2022-04-15 | 2022-06-25 |
 | [Normal](https://open.spotify.com/track/21LPdnK8KHB0G23Jsrxc7X) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Normal](https://open.spotify.com/album/7cMwT9KvJki2cxMjU7mJD1) | 5:56 | 2022-09-02 | 2022-09-24 |

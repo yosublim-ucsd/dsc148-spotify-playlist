@@ -4,7 +4,7 @@
 
 > All <a href="spotify:genre:bass">wobble</a>\. Cover: JEANIE
 
-424 songs - 1 day 0 hr 9 min
+425 songs - 1 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Dale \(with Blvkstn\)](https://open.spotify.com/track/5W7s8j8GWNSAyHl4D0F8ab) | [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [Jessica Audiffred](https://open.spotify.com/artist/4odLDriBk6oEZotzLPTSnD), [Blvkstn](https://open.spotify.com/artist/70hTQzJxZt0JLvFzQVITHe) | [Dale \(with Blvkstn\)](https://open.spotify.com/album/0pfeHOCyMOltzXv1K0ZYBL) | 3:15 | 2023-07-14 |  |
 | [Dawn Of The Dead \- Radio Edit](https://open.spotify.com/track/6pFjkMjATusw4VfpxZ6tAy) | [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy), [Shaquille O'Neal](https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7) | [Dawn Of The Dead](https://open.spotify.com/album/4YTS70K2HHCXNdekQAgHDV) | 3:42 | 2022-04-01 | 2023-04-01 |
 | [Dead Man Walking](https://open.spotify.com/track/1BocvYKP6Khn2AXOLqNmUS) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Dead Man Walking Pt\. 1](https://open.spotify.com/album/5Rulijsb8lWwqPSFbzEHgD) | 4:47 | 2022-07-22 |  |
+| [Death Toll](https://open.spotify.com/track/0ihqMYXXNEHdW7jPrMtDhA) | [Figure](https://open.spotify.com/artist/5mADpqv2E8KIHDmEhH7wmr), [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe) | [Death Toll](https://open.spotify.com/album/4krxVVR3y5FmU9UUVsbPun) | 3:33 | 2023-10-06 |  |
 | [Death's Parade](https://open.spotify.com/track/4I0aTM1IBacOAnBpWTDaFG) | [Outcry](https://open.spotify.com/artist/4cni7thSCD6KeWMHdbRPFd), [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0) | [Death's Parade](https://open.spotify.com/album/0pFWrdhqNypSkJzpG6GMEg) | 3:31 | 2021-12-17 | 2022-08-07 |
 | [Decomposed \(feat\. TVBUU\)](https://open.spotify.com/track/6ivBy5kKmL1rbz0RTgH8KZ) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM), [Tvbuu](https://open.spotify.com/artist/5g88TrER5HETb6uDHUASGv) | [Decomposed \(feat\. TVBUU\)](https://open.spotify.com/album/39jpXJv2tcnolZ0Ch67D94) | 4:04 | 2023-05-12 | 2023-08-05 |
 | [Degrader](https://open.spotify.com/track/2y0sRxtiJblGeiLopVbYlU) | [Calcium](https://open.spotify.com/artist/1s6bMklFjSRcrMy2FtobWM) | [Degrader EP](https://open.spotify.com/album/3oyCL9NZzD5JMfTPG54xXN) | 3:02 | 2022-03-04 | 2022-10-01 |
@@ -295,7 +296,7 @@
 | [Prayers](https://open.spotify.com/track/3L4VvorwcRgE9SOWYHYzoe) | [Dr\. Ozi](https://open.spotify.com/artist/2tKDLqWxsyXDmWoA4tHspF), [Peytn](https://open.spotify.com/artist/3quC9b3U5I6ZLgsw3yEgxV) | [Hive Mind EP \(Pt\. 1\)](https://open.spotify.com/album/6ddlkEQjUW4oXJMJNvE5FZ) | 3:47 | 2021-12-17 | 2022-02-12 |
 | [Prego](https://open.spotify.com/track/6wdbkopqDTQJUcbtxG4KCO) | [Spag Heddy](https://open.spotify.com/artist/043Bey7ngSGRFpJftAlKpi) | [Prego](https://open.spotify.com/album/0o4fyxUuFqFNJ95zLetBZs) | 4:10 | 2021-12-17 | 2022-05-07 |
 | [Premier League](https://open.spotify.com/track/1UJdnazAX240LtuwBA2wcY) | [MUERTE](https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y), [Oddprophet](https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU) | [Premier League](https://open.spotify.com/album/4GdAWtnLHOkgGZ09KLvFJc) | 2:49 | 2022-09-30 |  |
-| [PRESSURE](https://open.spotify.com/track/66DHk2u2skPCoKT6N3oe8b) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Zoobstool](https://open.spotify.com/artist/5VYznroahJC80vjoIRk8Eu) | [PRESSURE](https://open.spotify.com/album/0kRZhS82llRFhFYRP7fzxs) | 2:58 | 2023-02-24 |  |
+| [PRESSURE](https://open.spotify.com/track/66DHk2u2skPCoKT6N3oe8b) | [BLVK JVCK](https://open.spotify.com/artist/32IXja3Y6CPvnAtTHD2bWg), [Zoobstool](https://open.spotify.com/artist/5VYznroahJC80vjoIRk8Eu) | [PRESSURE](https://open.spotify.com/album/0kRZhS82llRFhFYRP7fzxs) | 2:58 | 2023-02-24 | 2023-10-12 |
 | [Protocol](https://open.spotify.com/track/6RUTzFmBtIl5nRpkEXiIQ5) | [Dion Timmer](https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums) | [Protocol](https://open.spotify.com/album/7HyciiVlRwQiVqpvvVrf5l) | 3:04 | 2022-09-16 |  |
 | [Psychosis \- VIP Mix](https://open.spotify.com/track/5G2yowSJVtqadcVdKzNs54) | [JEANIE](https://open.spotify.com/artist/5y4xjNwy9GEFC4hic2epwe) | [Psychosis \(VIP\)](https://open.spotify.com/album/3usRn5GlrrNlW8O72qcdDd) | 2:09 | 2023-09-22 |  |
 | [Pulse](https://open.spotify.com/track/6UQhXFGhrsqoQC9VzgBads) | [PIERCE](https://open.spotify.com/artist/1sg7LKlpfKmZSvI0xxqNWC) | [Pulse](https://open.spotify.com/album/2pP8FP2pWfb94qCJrHhy7f) | 3:29 | 2022-04-22 | 2022-09-28 |

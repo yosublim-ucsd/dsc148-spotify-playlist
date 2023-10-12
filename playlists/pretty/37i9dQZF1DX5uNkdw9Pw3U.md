@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 
 > Tough crowd.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,577 likes - 94 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,170 likes - 94 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 39 | [How You Want It?](https://open.spotify.com/track/0rbnYyj0Zq2pNJSzWqtf4g) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [King Combs](https://open.spotify.com/artist/41I5xI04kixwmonDBl0Sda) | [How You Want It?](https://open.spotify.com/album/3dPk7WASa1GmL7vluAP4ff) | 3:42 |
 | 40 | [Wasn't Looking](https://open.spotify.com/track/4VP3WbWh2BZ8xNEp6tLr6P) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [A Real Romantic](https://open.spotify.com/album/19ircUdNQ6aoqelvZJf2vC) | 3:56 |
 | 41 | [Time](https://open.spotify.com/track/05v5mPkLAOoa7M5tnXXOwq) | [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Time](https://open.spotify.com/album/5SEQL40XcXX1FUHtiqa8PG) | 3:30 |
-| 42 | [So Done \(feat\. Khalid\)](https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:54 |
-| 43 | [None Of Your Concern](https://open.spotify.com/track/1nal3Tf1OCV53KigMZXsZ7) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [None Of Your Concern](https://open.spotify.com/album/2pq9ByHGHMflMY3qy20BMW) | 4:22 |
+| 42 | [None Of Your Concern](https://open.spotify.com/track/1nal3Tf1OCV53KigMZXsZ7) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [None Of Your Concern](https://open.spotify.com/album/2pq9ByHGHMflMY3qy20BMW) | 4:22 |
+| 43 | [So Done \(feat\. Khalid\)](https://open.spotify.com/track/0DC6yJLAPwIEeZh6EZpn1f) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:54 |
 | 44 | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/track/3gjKJ0RjjEddIJW0NDDZ1r) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Measure of a Man \(feat\. Central Cee\)](https://open.spotify.com/album/7ycr1XsV8SLkUBlvGIAhoG) | 3:15 |
 | 45 | [Up Late](https://open.spotify.com/track/4ZSQS1o7qYAXJa5I37lk5x) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Shea Butter Baby](https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w) | 4:26 |
 | 46 | [What If](https://open.spotify.com/track/3yhInewGeB4AzUJKyz3SUR) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [What If](https://open.spotify.com/album/0XObJRKFbMGcYmSvctXK4Q) | 3:35 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 70 | [Avenue](https://open.spotify.com/track/20nOETKKFsKknFGfxk1iYB) | [Trevis](https://open.spotify.com/artist/0Xp6VLfrZZlmrQsFn6He0I) | [Avenue](https://open.spotify.com/album/6thqi6BIar6QB8Stf8nZlM) | 3:16 |
 | 71 | [Orbit \- Live from Air Studios](https://open.spotify.com/track/1zxG0496hjejtlxjz0AyDY) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Orbit \(Live from Air Studios\)](https://open.spotify.com/album/0fQTMFrlCRSyPpvTxSVMKV) | 3:54 |
 | 72 | [Seasons \(with Khalid\)](https://open.spotify.com/track/19tuFV8B1ckjHzdRrH6Bqs) | [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Seasons \(with Khalid\)](https://open.spotify.com/album/39g2Ja05Jgah0iO3TGI11f) | 4:10 |
-| 73 | [The Lay Down with H.E.R\. & WATT](https://open.spotify.com/track/4Fv2Yzpm9q7r6DJujUeUiP) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [The Lay Down with H.E.R\. & WATT](https://open.spotify.com/album/7lI5od7f6ljgPBZLEQbjmG) | 4:49 |
-| 74 | [Hair Down \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/4QiyTGoMBRz4AHbsPYgiRc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Chasing Summer](https://open.spotify.com/album/7yd9HHhG8MvhJ1ksT3InDF) | 3:36 |
+| 73 | [Hair Down \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/4QiyTGoMBRz4AHbsPYgiRc) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Chasing Summer](https://open.spotify.com/album/7yd9HHhG8MvhJ1ksT3InDF) | 3:36 |
+| 74 | [The Lay Down with H.E.R\. & WATT](https://open.spotify.com/track/4Fv2Yzpm9q7r6DJujUeUiP) | [DRAM](https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [WATT](https://open.spotify.com/artist/4olE3I5QU0dvSR7LIpqTXc) | [The Lay Down with H.E.R\. & WATT](https://open.spotify.com/album/7lI5od7f6ljgPBZLEQbjmG) | 4:49 |
 | 75 | [Tamale](https://open.spotify.com/track/6CEiPLGmX7V2GQwMYjB6DL) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Tamale](https://open.spotify.com/album/03qMGEbUXMypieuFY8xOsn) | 3:47 |
 | 76 | [Square 1](https://open.spotify.com/track/10E2KfpFsiSAOkl6fteRVF) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Square 1](https://open.spotify.com/album/5DbdI5sVG8NxPChnAKVPuv) | 3:40 |
 | 77 | [like you](https://open.spotify.com/track/6MJdkuJ54q02WKe1Bz6oNE) | [Braden Ross](https://open.spotify.com/artist/18VFhPeFzSSbHIagpYXbic), [Days to Waste](https://open.spotify.com/artist/3atbVRVOuIUxjoxeuNbd26), [fawlin](https://open.spotify.com/artist/1u5hEHvd4fpHDUye3r9lAm) | [like you](https://open.spotify.com/album/3jZELme7kRzqvSqvgrMvYo) | 3:14 |
@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5uNkdw9Pw3U.md) - [plain]
 | 93 | [Burn Out](https://open.spotify.com/track/2KpJM6DS8TaUOTWt0GbB19) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [And Then Life Was Beautiful](https://open.spotify.com/album/0mlSanObCAti0PvharqR1u) | 3:19 |
 | 94 | [Sleep On It](https://open.spotify.com/track/09upHR7ZIeltejXCof4B8u) | [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Sweet Insomnia](https://open.spotify.com/album/36BnoniDx1oKdMWm7ProqG) | 3:36 |
 
-Snapshot ID: `MCwyMDY2Y2RlYmQzYmM1MmUyZDFiMWE3NzZmMjZiMWI5ZWRlZTI4YWVm`
+Snapshot ID: `MCxkOTA2ODU0M2ExODFjMTMyN2VkNWYyNWI5YTU0MjE3MjMyYjM0ZjFl`

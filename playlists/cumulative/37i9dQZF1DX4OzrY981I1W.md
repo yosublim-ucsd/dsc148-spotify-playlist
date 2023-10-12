@@ -4,7 +4,7 @@
 
 > every main character needs their soundtrack
 
-417 songs - 1 day 1 hr 40 min
+418 songs - 1 day 1 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [how i'm feeling](https://open.spotify.com/track/0Bo3X0RlboVKipzxpzwXfo) | [Ryan Woods](https://open.spotify.com/artist/2Zgc1KUqd7A9wmQ7mQHuwY) | [how i'm feeling](https://open.spotify.com/album/6QSRDk2LlMms9aEmAOtfwC) | 2:51 | 2021-03-26 | 2022-07-28 |
 | [Hungry Like the Wolf \- 2009 Remaster](https://open.spotify.com/track/39lSeqnyjZJejRuaREfyLL) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT) | [Rio \(Collector's Edition\)](https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm) | 3:40 | 2021-03-26 | 2023-09-07 |
 | [I Always Wanna Die \(Sometimes\)](https://open.spotify.com/track/3HPpOFmDibEO06Z2q4ZN5u) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/7zuAt0boSPInT1b0sKyQMk) | 5:14 | 2021-03-26 | 2022-04-17 |
+| [i am not who i was](https://open.spotify.com/track/5uu2OCGGrTRS1sIvlMgKwe) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [i am not who i was](https://open.spotify.com/album/5k8n50UunkWp9qPGHu0pId) | 2:25 | 2023-10-11 |  |
 | [I Can't Handle Change](https://open.spotify.com/track/0I1eFRytp4XRhLCjT6tZm7) | [Roar](https://open.spotify.com/artist/7dIpKWlEeAljA20vFJ82RD) | [I Can't Handle Change](https://open.spotify.com/album/42vd9Cgr89pjb0Jipvaj5d) | 3:18 | 2021-03-26 | 2023-09-26 |
 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 | 2021-03-26 | 2022-07-29 |
 | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/track/3h2CkNuAKSxZXWGElwcOvH) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU), [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [I Don't Live Here Anymore \(feat\. Lucius\)](https://open.spotify.com/album/3TlKOq7pgN2XIAM3J2HSyD) | 5:27 | 2021-09-17 | 2022-04-21 |
@@ -241,7 +242,7 @@
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2021-08-27 |  |
 | [Middle Of Nowhere](https://open.spotify.com/track/7gUpHwmxXyJ4JVra6UHpKA) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Middle Of Nowhere](https://open.spotify.com/album/2G7vGmlxwNxKWbjyK3otZb) | 6:42 | 2021-03-26 | 2022-07-29 |
 | [MIDDLE OF THE END \(HOW DOES IT FEEL\)](https://open.spotify.com/track/6KoW0yc1co2a3GLuaM4scJ) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [MIDDLE OF THE END \(HOW DOES IT FEEL\)](https://open.spotify.com/album/3Lv4BnhLOStQDvqiQrs5DS) | 2:49 | 2021-04-23 | 2022-04-17 |
-| [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 | 2021-03-26 |  |
+| [Midnight City](https://open.spotify.com/track/1eyzqe2QqGZUmfcPZtrIyt) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 4:01 | 2021-03-26 | 2023-10-12 |
 | [midnight sun](https://open.spotify.com/track/2P7mPtGjXFzHoLgT6sMSyZ) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [midnight sun](https://open.spotify.com/album/28oyoR8mAfNqRGTuKIUuo3) | 4:42 | 2022-01-21 | 2022-04-14 |
 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 | 2021-04-02 | 2022-07-29 |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-07 | 2023-07-01 |

@@ -1,12 +1,12 @@
 {
   "description": "Club vibes wherever you are!",
-  "num_followers": 809454,
+  "num_followers": 809473,
   "original_name": "Club Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyOGM5MmU3NTllNzM0NDZmY2NhMDk0MWU3M2RhNjY3NmE0YTZlODFh",
+  "snapshot_id": "MCxhMmI2YjEyOTM2MTM0OTVjZGZiZjExZWViODYyMWUwNDE0Y2QzNzll",
   "tracks": [
     {
       "added_at": "2023-10-05 22:21:44",
@@ -663,26 +663,6 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Miracle Maker",
-        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
-      },
-      "artists": [
-        {
-          "name": "Dom Dolla",
-          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
-        },
-        {
-          "name": "Clementine Douglas",
-          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
-        }
-      ],
-      "duration_ms": 188592,
-      "name": "Miracle Maker",
-      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
         "name": "Push To Start (feat. No/Me)",
         "url": "https://open.spotify.com/album/5kbNGOCcd1B1nxU1y1Mizb"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 181875,
       "name": "Push To Start (feat. No/Me)",
       "url": "https://open.spotify.com/track/6t4VHEcJ7Kek9pgGHlDp6R"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
+        "name": "Miracle Maker",
+        "url": "https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU"
+      },
+      "artists": [
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        },
+        {
+          "name": "Clementine Douglas",
+          "url": "https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6"
+        }
+      ],
+      "duration_ms": 188592,
+      "name": "Miracle Maker",
+      "url": "https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Jam Inside Your Love (feat. Carla Monroe)",
-        "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
-      },
-      "artists": [
-        {
-          "name": "Sam Green",
-          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 147401,
-      "name": "Jam Inside Your Love (feat. Carla Monroe)",
-      "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
         "name": "Paradise Again",
         "url": "https://open.spotify.com/album/2Dbe9L757CSQbhnbW5PVSH"
       },
@@ -783,6 +763,26 @@
       "duration_ms": 242880,
       "name": "Redlight",
       "url": "https://open.spotify.com/track/48Jf12YHPBCAfAzi255Rvr"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
+        "name": "Jam Inside Your Love (feat. Carla Monroe)",
+        "url": "https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA"
+      },
+      "artists": [
+        {
+          "name": "Sam Green",
+          "url": "https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 147401,
+      "name": "Jam Inside Your Love (feat. Carla Monroe)",
+      "url": "https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -963,6 +963,22 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
+        "name": "My Addiction",
+        "url": "https://open.spotify.com/album/04KOqBxpJIfL6NdOpwig4l"
+      },
+      "artists": [
+        {
+          "name": "Alex Guesta",
+          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
+        }
+      ],
+      "duration_ms": 157680,
+      "name": "My Addiction",
+      "url": "https://open.spotify.com/track/28WRWusCLgWULI6Gv7h8DL"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
         "name": "Yeah The Girls",
         "url": "https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 194310,
       "name": "Yeah The Girls",
       "url": "https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
-        "name": "My Addiction",
-        "url": "https://open.spotify.com/album/04KOqBxpJIfL6NdOpwig4l"
-      },
-      "artists": [
-        {
-          "name": "Alex Guesta",
-          "url": "https://open.spotify.com/artist/1oXk9MOvrFIybs5GMosvh3"
-        }
-      ],
-      "duration_ms": 157680,
-      "name": "My Addiction",
-      "url": "https://open.spotify.com/track/28WRWusCLgWULI6Gv7h8DL"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
+        "name": "Talamanca",
+        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
+      },
+      "artists": [
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        }
+      ],
+      "duration_ms": 186727,
+      "name": "Talamanca",
+      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
         "name": "The Voodoo Babe",
         "url": "https://open.spotify.com/album/43LUjSYSBd6THnIxFNqE9M"
       },
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Talamanca",
-        "url": "https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW"
-      },
-      "artists": [
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        }
-      ],
-      "duration_ms": 186727,
-      "name": "Talamanca",
-      "url": "https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
         "name": "One By One",
         "url": "https://open.spotify.com/album/58AR5fqutmWyadTfOYoYA5"
       },
@@ -1179,6 +1179,26 @@
       "duration_ms": 145920,
       "name": "One By One",
       "url": "https://open.spotify.com/track/766h5Uf88AzjgUsmb8wWe8"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
+        "name": "Legacy",
+        "url": "https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "VLTRA (IT)",
+          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
+        }
+      ],
+      "duration_ms": 230645,
+      "name": "Legacy",
+      "url": "https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -1227,22 +1247,18 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Legacy",
-        "url": "https://open.spotify.com/album/1yC5yJEeMRUSeeQgkho7Ai"
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        },
-        {
-          "name": "VLTRA (IT)",
-          "url": "https://open.spotify.com/artist/56YdPdQqOsfk7s2mS4lXNA"
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
         }
       ],
-      "duration_ms": 230645,
-      "name": "Legacy",
-      "url": "https://open.spotify.com/track/52jCFwQBAf04Bi8xrE8DJu"
+      "duration_ms": 183810,
+      "name": "Ritmo",
+      "url": "https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -1299,22 +1315,6 @@
       "duration_ms": 251428,
       "name": "Ray Of Solar - Mau P Remix",
       "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/40DTjrBkgfSD4pb1CnlCgl"
-      },
-      "artists": [
-        {
-          "name": "Raffa Fl",
-          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
-        }
-      ],
-      "duration_ms": 183810,
-      "name": "Ritmo",
-      "url": "https://open.spotify.com/track/4FHXsehfIbyPCJLP7fCnIF"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Club Romantech",
-        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
-      },
-      "artists": [
-        {
-          "name": "Icona Pop",
-          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
-        }
-      ],
-      "duration_ms": 167362,
-      "name": "Stick Your Tongue Out",
-      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
-    },
-    {
-      "added_at": "2023-10-05 22:21:44",
-      "album": {
         "name": "Insomnia",
         "url": "https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 156093,
       "name": "Insomnia",
       "url": "https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr"
+    },
+    {
+      "added_at": "2023-10-05 22:21:44",
+      "album": {
+        "name": "Club Romantech",
+        "url": "https://open.spotify.com/album/29aOgoHgr7C2J27gGfJdEz"
+      },
+      "artists": [
+        {
+          "name": "Icona Pop",
+          "url": "https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw"
+        }
+      ],
+      "duration_ms": 167362,
+      "name": "Stick Your Tongue Out",
+      "url": "https://open.spotify.com/track/5aRfCYxCCyeQWVn44WRb3u"
     },
     {
       "added_at": "2023-10-05 22:21:44",
@@ -1451,22 +1451,26 @@
     {
       "added_at": "2023-10-05 22:21:44",
       "album": {
-        "name": "Satisfaction",
-        "url": "https://open.spotify.com/album/62hlQlBO241sKpVTPgwAOi"
+        "name": "Cocoon (Martin Garrix & Space Ducks Remix)",
+        "url": "https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY"
       },
       "artists": [
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "070 Shake",
+          "url": "https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI"
         },
         {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Space Ducks",
+          "url": "https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6"
         }
       ],
-      "duration_ms": 155676,
-      "name": "Satisfaction",
-      "url": "https://open.spotify.com/track/6k5DKQMC96daK6fSvAxdQv"
+      "duration_ms": 202204,
+      "name": "Cocoon - Martin Garrix & Space Ducks Remix",
+      "url": "https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ"
     }
   ],
   "unique_name": "Club Beats",

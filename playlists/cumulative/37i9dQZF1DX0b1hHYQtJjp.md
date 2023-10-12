@@ -4,7 +4,7 @@
 
 > Recent hits and new songs from your fave artists\. Cover: \*NSYNC
 
-1,296 songs - 2 day 23 hr 38 min
+1,297 songs - 2 day 23 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,7 +178,7 @@
 | [C'est La Vie](https://open.spotify.com/track/32DspJXRL1U3c9RwOhRJZE) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Pacifico \(Deluxe\)](https://open.spotify.com/album/29srkzNK3ixAW0NLVlR59A) | 2:55 | 2021-09-04 | 2021-10-16 |
 | [Call My Name](https://open.spotify.com/track/7HcaM7gc9YB2JAwxq1sfjT) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Call My Name](https://open.spotify.com/album/7frSUNEyPlMiLV1wK96NZU) | 3:41 | 2021-08-14 | 2021-09-18 |
 | [Calling Your Name](https://open.spotify.com/track/2V2P7pNMrtgEYHq9styA6u) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Calling Your Name](https://open.spotify.com/album/3vsWNz4RAuJ1eBXdjEosd6) | 1:56 | 2023-06-30 | 2023-07-22 |
-| [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-04-28 |  |
+| [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-04-28 | 2023-10-12 |
 | [camera roll](https://open.spotify.com/track/58ITRjekhkYqHvuE71NUc0) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:39 | 2022-01-14 | 2022-05-04 |
 | [Can I Get It](https://open.spotify.com/track/6w8ZPYdnGajyfPddTWdthN) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 3:30 | 2021-11-20 | 2022-01-15 |
 | [Can We Pretend \(feat\. Cash Cash\)](https://open.spotify.com/track/3O0e0LHTpza0rYVDbZfQ4r) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Cash Cash](https://open.spotify.com/artist/1LOB7jTeEV14pHai6EXSzF) | [Can We Pretend \(feat\. Cash Cash\)](https://open.spotify.com/album/1CXDHsSaA7UgUPvRm2AVRH) | 3:44 | 2019-08-23 | 2019-10-18 |
@@ -1251,6 +1251,7 @@
 | [Wild Blue](https://open.spotify.com/track/4VFGpluBaU1WcquEMzhSz6) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Sob Rock](https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z) | 4:12 | 2021-09-22 | 2021-12-11 |
 | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/track/3jK53bWJDGzbTbqaBayfBB) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Wild Dogs \(Running in a Slow Dream\)](https://open.spotify.com/album/6AxPMn4e6dETGN7PNvH3xM) | 3:30 | 2023-03-17 | 2023-05-27 |
 | [Wild Life](https://open.spotify.com/track/6oaQuXiRKqQq9ITJBV1XmC) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Wild Life](https://open.spotify.com/album/4a1yq8xj6XlZvbCiBvYGsa) | 4:27 | 2020-09-25 | 2021-02-26 |
+| [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 | 2023-10-11 |  |
 | [Wilder Days](https://open.spotify.com/track/0XxNamjHxu0ercIQmWNkRT) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/4DGpT3ZtTOumlxhbmw69DD) | 4:11 | 2022-01-28 | 2022-05-20 |
 | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/track/1Ov37jtRQ2YNAe8HzfczkL) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Wildest Dreams \(Taylor's Version\)](https://open.spotify.com/album/5hxKw2PurC0i1VVJMAntDU) | 3:40 | 2021-09-25 | 2022-01-22 |
 | [willow](https://open.spotify.com/track/0lx2cLdOt3piJbcaXIV74f) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [evermore](https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq) | 3:34 | 2020-12-11 | 2021-09-18 |

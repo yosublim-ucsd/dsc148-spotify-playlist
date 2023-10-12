@@ -1,12 +1,12 @@
 {
   "description": "Trap de la isla, con Yeruza en portada.",
-  "num_followers": 8861,
+  "num_followers": 8942,
   "original_name": "Trap Boricua",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkM2QyMTQwYWNkOTQxNDBiOWY3MjdmYzRhMjRiZDdlYWMzZjA2ZGQz",
+  "snapshot_id": "MCwwZDI3NDQzZDA1MjRmZDE0MGQ2NmVjZmFiYzkyN2ZjOTRmZmZmMDI2",
   "tracks": [
     {
       "added_at": "2023-09-01 04:00:00",
@@ -971,18 +971,46 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "Emmanuel",
-        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
+        "name": "47 (Remix)",
+        "url": "https://open.spotify.com/album/7hlRNdjFs9DEPTrHhzFwYu"
       },
       "artists": [
         {
           "name": "Anuel AA",
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        },
+        {
+          "name": "Sinfonico",
+          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
+        },
+        {
+          "name": "Lil Geniuz",
+          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Casper Magico",
+          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
+        },
+        {
+          "name": "Darell",
+          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 259250,
-      "name": "Narcos",
-      "url": "https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q"
+      "duration_ms": 517599,
+      "name": "47 - Remix",
+      "url": "https://open.spotify.com/track/2kQDcD7adY2odZLLfIexFj"
     },
     {
       "added_at": "2023-09-01 04:00:00",
@@ -1079,46 +1107,18 @@
     {
       "added_at": "2023-09-01 04:00:00",
       "album": {
-        "name": "47 (Remix)",
-        "url": "https://open.spotify.com/album/7hlRNdjFs9DEPTrHhzFwYu"
+        "name": "Emmanuel",
+        "url": "https://open.spotify.com/album/7JtT7OyWM8BnIS5FXXPMKg"
       },
       "artists": [
         {
           "name": "Anuel AA",
           "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
-        },
-        {
-          "name": "Sinfonico",
-          "url": "https://open.spotify.com/artist/17vZy9fIIt6woqdWfc7UCy"
-        },
-        {
-          "name": "Lil Geniuz",
-          "url": "https://open.spotify.com/artist/7nuTWfojdN0o8d7NGDo71U"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        },
-        {
-          "name": "Casper Magico",
-          "url": "https://open.spotify.com/artist/1fux65HMCBvfJHqlBc4Nno"
-        },
-        {
-          "name": "Darell",
-          "url": "https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
         }
       ],
-      "duration_ms": 517599,
-      "name": "47 - Remix",
-      "url": "https://open.spotify.com/track/2kQDcD7adY2odZLLfIexFj"
+      "duration_ms": 259250,
+      "name": "Narcos",
+      "url": "https://open.spotify.com/track/7mcdgAXmb35dakBnfDIv3q"
     }
   ],
   "unique_name": "Trap Boricua",

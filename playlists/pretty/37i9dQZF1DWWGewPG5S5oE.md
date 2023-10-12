@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Kazumi Tateishi Trio
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,129 likes - 50 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,171 likes - 50 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/2O4uIdTdn1JPC9DtnQpefK) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Kazumi Tateishi Trio meets Beautiful Standards](https://open.spotify.com/album/0eEfR2lSeW2SaYZ4BEFXUH) | 4:50 |
+| 1 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/0pprlGhcsm15D9sFGnK7At) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Kazumi Tateishi Trio meets Beautiful Standards](https://open.spotify.com/album/0ng3lS4pEfjFS59i3A0d8A) | 4:50 |
 | 2 | [To S.](https://open.spotify.com/track/1fxupOuHbut5ml1Dsu4q2c) | [Chihiro Yamanaka](https://open.spotify.com/artist/6o9XvN8S83IlUqiDA4XIqD) | [Dolce Vita](https://open.spotify.com/album/3BtyE6qhphnxtfmZqQTlRg) | 4:26 |
 | 3 | [Stompin at the M](https://open.spotify.com/track/5Yg0fkbsWN28GFfl3E2S98) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [大津惇](https://open.spotify.com/artist/4uRyqAjxit8vJMVWvSM6AZ) | [Wind Loop Case 1](https://open.spotify.com/album/6MMjlhSrjTvHcuBJ4mRj5b) | 3:43 |
 | 4 | [STEPS OF THE BLUE](https://open.spotify.com/track/5gF1MiHJNecYAu3wQyGdne) | [松井 秀太郎](https://open.spotify.com/artist/55DWXZw1Np3eYrtMMY0MTQ), [中川英二郎](https://open.spotify.com/artist/3RDzAdDGSqwUDi28zZm28q), [中林俊也](https://open.spotify.com/artist/4FPy6vfB5dk2J0yjVPeTnc), [Makoto Ozone](https://open.spotify.com/artist/7Gv9weyLTeDrDjABqHnged), [小川晋平](https://open.spotify.com/artist/33jumhkSNkMnmiln5lqPE7), [小田桐和寛](https://open.spotify.com/artist/0hO0QqiB0B3Vh843MaMKTE) | [STEPS OF THE BLUE](https://open.spotify.com/album/0jWAhTG0ICulGMf3nc3GWz) | 5:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGewPG5S5oE.md) - [plain]
 | 49 | [Spring Kiss](https://open.spotify.com/track/6aHeGMKCgfF2UdKRqyezyh) | [Liquid Stella](https://open.spotify.com/artist/3J1pYPkywI4IhTnLCpSXC9) | [AUTHENTIC](https://open.spotify.com/album/4f8IJ4VUGPe7S0xsLEOtIG) | 4:12 |
 | 50 | [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 |
 
-Snapshot ID: `MCxjMjg5MWE4YzE0OGU4YTA3OGEzNmE0NTg1ZjE2YTAzOWYwMTQwNGY3`
+Snapshot ID: `MCw0ZjM1MTg4ZDQwNDQxZjUyMWU5M2YyNmJkY2Y3NDA0ODA5OTQ3NTU5`

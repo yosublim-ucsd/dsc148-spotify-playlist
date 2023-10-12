@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,390 likes - 126 songs - 6 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,301 likes - 126 songs - 6 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,4 +135,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5y8xoSWyhcz.md) - [plain]
 | 125 | [pretty kids](https://open.spotify.com/track/7cuevmvfk9blOhmv5efjVU) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [pretty kids](https://open.spotify.com/album/141uEcxDeKXBqPw8X14kee) | 2:39 |
 | 126 | [Get With You](https://open.spotify.com/track/1cshIDD9PMf58mmOquIa9S) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [Get With You](https://open.spotify.com/album/7EeOH5oj2MgNjVFblGR6Ea) | 1:51 |
 
-Snapshot ID: `MCw2MDIxMDYzN2EwOGIzZWI1NjdhNGM0OWFlMmFlZmExZDlkYjk4ODNl`
+Snapshot ID: `MCwwMjE2MzhlNWRlMjYwNTgyYzA0N2M1NjFiMWYwN2NiMzk4YzU0YmYy`

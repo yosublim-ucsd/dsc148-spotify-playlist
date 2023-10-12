@@ -1424,10 +1424,28 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 332622,
       "name": "Mogaetsho",
       "url": "https://open.spotify.com/track/4cs9zPibRaJWnpinq2OCjA"
+    },
+    {
+      "album": {
+        "name": "Radio Sechaba",
+        "url": "https://open.spotify.com/album/5qK3CSS06KxQ7zF4xnFWJB"
+      },
+      "artists": [
+        {
+          "name": "Bokani Dyer",
+          "url": "https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332622,
+      "name": "Mogaetsho",
+      "url": "https://open.spotify.com/track/6M7qRhvKFVoczT8Nlrasdq"
     },
     {
       "album": {

@@ -172,7 +172,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 187173,
       "name": "a lifetime with you",
       "url": "https://open.spotify.com/track/4TpbCnB3xgDYm2uhGLuQwV"
@@ -5502,12 +5502,12 @@
       },
       "artists": [
         {
-          "name": "Marki",
-          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
-        },
-        {
           "name": "Connie Isla",
           "url": "https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a"
+        },
+        {
+          "name": "Marki",
+          "url": "https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J"
         }
       ],
       "date_added": "2022-04-01",
@@ -5836,7 +5836,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 198237,
       "name": "Para M\u00ed",
       "url": "https://open.spotify.com/track/0BnNmxZQLByTlVlppl9g1b"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 
 > When Rock meets Rap: covers, collabs, mashups and everything that rhymes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,537 likes - 60 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,798 likes - 60 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 48 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
 | 49 | [Sunrise Trailer Park](https://open.spotify.com/track/0QoF2FmE6FtmxRneMb6Z7Y) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X), [Machine Gun Kelly](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:47 |
 | 50 | [Raise Hell](https://open.spotify.com/track/3MmNP0Ey7mtyWY6DbsibtW) | [\(Hed\) P.E.](https://open.spotify.com/artist/0xIChbcTsuYLueN1oEsX9v) | [Only In Amerika](https://open.spotify.com/album/6asMjHG61jnEVBsoScskM6) | 5:09 |
-| 51 | [Wu\-Tang Clan Ain't Nothing Ta F\*\*K Wit](https://open.spotify.com/track/66ZZ9lN9KKiA8zplDXM7GX) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Loud Rocks](https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu) | 3:52 |
-| 52 | [Gangsta's Paradise](https://open.spotify.com/track/5zXln9RP9AYK3eva2Lkj8w) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Punk Goes 90's, Vol\. 2](https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv) | 3:54 |
+| 51 | [Gangsta's Paradise](https://open.spotify.com/track/5zXln9RP9AYK3eva2Lkj8w) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz) | [Punk Goes 90's, Vol\. 2](https://open.spotify.com/album/4OEnCG1PkPtwNwuIcb0Whv) | 3:54 |
+| 52 | [Wu\-Tang Clan Ain't Nothing Ta F\*\*K Wit](https://open.spotify.com/track/66ZZ9lN9KKiA8zplDXM7GX) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [Chad Smith](https://open.spotify.com/artist/4DW34vji6G9GgGY0k2mic7), [Wu\-Tang Clan](https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk) | [Loud Rocks](https://open.spotify.com/album/5PIDHpTCc6iT5WM2JZzFKu) | 3:52 |
 | 53 | [Rock The Bells](https://open.spotify.com/track/4F4neui0edP1ozygvFiCi7) | [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC) | [Radio](https://open.spotify.com/album/4sevefzBUFvJYAzijVBQ2a) | 4:00 |
 | 54 | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Lemonade \(with Denzel Curry\)](https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d) | 2:45 |
 | 55 | [The Mighty Fall](https://open.spotify.com/track/4rNOFJdwQq0ulVDKOF447L) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Save Rock And Roll](https://open.spotify.com/album/5jKMfS57mHTHzlSFGfPFxU) | 3:32 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89XXHpIgTCJ.md) - [plain]
 | 59 | [Rockstar](https://open.spotify.com/track/2OQfyddAKv4FyelDJjGNHH) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [In Search Of...](https://open.spotify.com/album/5u8ri4s76Ew14IwGOJf5hI) | 4:19 |
 | 60 | [Wretches and Kings](https://open.spotify.com/track/4uqacT1xJ7UhPJAMAcb25A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [A Thousand Suns](https://open.spotify.com/album/113yjuFZEqkkbuLi4sEBxo) | 4:10 |
 
-Snapshot ID: `MCwwOWMyNjFjYmI1MTQyZTcwZjJiZGRjN2ZjZjI4OTMwMTY2NTRlZGJj`
+Snapshot ID: `MCxmNTRhMzcxYzg3MWQ5NDBmYTM5NTY2NTg0NDc0NzU1YzI4NjYyMmNi`

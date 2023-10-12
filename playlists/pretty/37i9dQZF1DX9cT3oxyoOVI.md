@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 
 > romanticizing indie music
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,825 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,877 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 | 6 | [Something About You](https://open.spotify.com/track/6RiiSy9GzSwiyDEJDiMuKe) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [Mulholland Drive](https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1) | 2:33 |
 | 7 | [Those Eyes](https://open.spotify.com/track/50x1Ic8CaXkYNvjmxe3WXy) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/7rItmPh0tZpMKcFXBScaU8) | 3:40 |
 | 8 | [My Kind of Woman](https://open.spotify.com/track/6jgkEbmQ2F2onEqsEhiliL) | [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [2](https://open.spotify.com/album/2XgBQwGRxr4P7cHLDYiqrO) | 3:10 |
-| 9 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
+| 9 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
 | 10 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
-| 11 | [Good Looking](https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Good Looking](https://open.spotify.com/album/78rO0EfpVs1RPfpxzF6kUz) | 3:34 |
+| 11 | [505](https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare \(Standard Version\)](https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw) | 4:13 |
 | 12 | [The Perfect Girl](https://open.spotify.com/track/5RBOcBpJXaNnHCGViJmYhh) | [Mareux](https://open.spotify.com/artist/7riQPkkGZBnTh9ve5qIhYo) | [The Perfect Girl](https://open.spotify.com/album/2JnZQM70jbT0J1Xq0qgl24) | 3:14 |
 | 13 | [Gilded Lily](https://open.spotify.com/track/3Z0qLOS0cqWKPHXkbTXmNF) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [Offering](https://open.spotify.com/album/3trAc3cGjtbFXbljFVdzZG) | 3:32 |
 | 14 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
@@ -53,13 +53,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 | 43 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 |
 | 44 | [Paper Mache World](https://open.spotify.com/track/3Maqlu2aPlU8NluW19O8JD) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Because I Wanted You to Know](https://open.spotify.com/album/4t4kHyQ0DvmfYYHJITb9l8) | 2:59 |
 | 45 | [It's Been a Long Day](https://open.spotify.com/track/4oc0dMfgMj6cA7WCJneZrD) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Here Comes Everybody](https://open.spotify.com/album/5lnbzrucSAV8KKxTDtfvER) | 4:04 |
-| 46 | [My Own Person](https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA) | 4:24 |
-| 47 | [complex](https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex](https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn) | 3:59 |
+| 46 | [complex](https://open.spotify.com/track/4cM7wj6FKij1OHs3q61u0s) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex](https://open.spotify.com/album/6EJrbQYRD2FEjj7mpc3ASn) | 3:59 |
+| 47 | [My Own Person](https://open.spotify.com/track/7nMlhFSw9VphHNEgUec9uy) | [Ezra Williams](https://open.spotify.com/artist/0vNuaHjk7DINrw3iRkYs48) | [My Own Person](https://open.spotify.com/album/3vSGcFG4BIsHI4xXO5w2PA) | 4:24 |
 | 48 | [fall in love with a girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/1oPd8gfPWu6zeKQX9flbpk) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 3:10 |
 | 49 | [friends](https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [friends](https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO) | 2:23 |
 | 50 | [Go Higher](https://open.spotify.com/track/4aivV3u4U30a9fXLrWJEpj) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [Making Steak](https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6) | 3:28 |
-| 51 | [Awkward Conversations](https://open.spotify.com/track/3AJuNljAt1IdmdRtFYslQj) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [How Are We Feeling?](https://open.spotify.com/album/3LzxhOvnQT1JnoFnntRK03) | 3:19 |
-| 52 | [Knock Me Off My Feet](https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:07 |
+| 51 | [Knock Me Off My Feet](https://open.spotify.com/track/3adNtom9Dn2NXmgHf0OwZR) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:07 |
+| 52 | [Awkward Conversations](https://open.spotify.com/track/3AJuNljAt1IdmdRtFYslQj) | [late night drive home](https://open.spotify.com/artist/1muzcpVFKmKSrT7rVNAwBB) | [How Are We Feeling?](https://open.spotify.com/album/3LzxhOvnQT1JnoFnntRK03) | 3:19 |
 | 53 | [Strawberry](https://open.spotify.com/track/4T4n6TcazA7p6Q4fjYMzev) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [Strawberry](https://open.spotify.com/album/0Ijw0q4XzBPKXfDyO2qvkI) | 2:42 |
 | 54 | [UrbanAngel1999](https://open.spotify.com/track/6OjWT7MkkNFvvlRvILPg6v) | [Thomas Headon](https://open.spotify.com/artist/0dn62y7ayEAxcIcMcBWXIE) | [UrbanAngel1999](https://open.spotify.com/album/2pIECUm6lJmCagILps1mKa) | 3:10 |
 | 55 | [Dog Eat Dog](https://open.spotify.com/track/6JLcvLZP4N8MRhvjG6SGaL) | [Tommy Lefroy](https://open.spotify.com/artist/3vldh5Ceynytj6Iglw4haP) | [Dog Eat Dog](https://open.spotify.com/album/6EL1CpUnemPFyu30uPEu9N) | 2:49 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9cT3oxyoOVI.md) - [plain]
 | 74 | [Je Suis la Pomme Rouge](https://open.spotify.com/track/5LVaQHjgN0jiKDYaoMQqFG) | [Parekh & Singh](https://open.spotify.com/artist/5HyacDSdBkCTDOBoX49ayp) | [The Night is Clear](https://open.spotify.com/album/4AzsujfeRZCjymYlgxOpjm) | 4:30 |
 | 75 | [UNO](https://open.spotify.com/track/6Fsp0QzecAzkHEJn1QInU8) | [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14) | [UNO](https://open.spotify.com/album/6OZef64g2SeanHZyzsaLiW) | 3:10 |
 
-Snapshot ID: `MCxkYzA1MTQxZWEzOGVjNWIwMWI3Y2UyZDQzMWFlZjA1YzA2MmExMGUw`
+Snapshot ID: `MCwwNzUyYTU5MDQ0YzM4YTVjNDQ4YTE3ZGQ1ODExOTNjMDFkOTVkNDRh`

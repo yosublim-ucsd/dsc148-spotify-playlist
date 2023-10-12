@@ -1,12 +1,12 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 126751,
+  "num_followers": 126782,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNDkxZjA2N2U4ZjQxYWQ3Yzc2ZDczMzg0MmZjNWZjNGIzYzUwZDk3",
+  "snapshot_id": "MCxjMWM3Y2FkNDI5ZjBhZmVlMWNkMWExMzZmYTBjNWUxYjZhYzc1ODZl",
   "tracks": [
     {
       "added_at": "2023-10-05 10:48:57",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-10-05 10:48:57",
       "album": {
-        "name": "Can't Do Without (My Baby)",
-        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
-      },
-      "artists": [
-        {
-          "name": "Cosmo's Midnight",
-          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
-        }
-      ],
-      "duration_ms": 202253,
-      "name": "Can't Do Without (My Baby)",
-      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
-    },
-    {
-      "added_at": "2023-10-05 10:48:57",
-      "album": {
         "name": "Sisyphus",
         "url": "https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 206250,
       "name": "Touch",
       "url": "https://open.spotify.com/track/35va3avWAmS4HMKANASOEp"
+    },
+    {
+      "added_at": "2023-10-05 10:48:57",
+      "album": {
+        "name": "Can't Do Without (My Baby)",
+        "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Midnight",
+          "url": "https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL"
+        }
+      ],
+      "duration_ms": 202253,
+      "name": "Can't Do Without (My Baby)",
+      "url": "https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS"
     },
     {
       "added_at": "2023-10-05 10:48:57",

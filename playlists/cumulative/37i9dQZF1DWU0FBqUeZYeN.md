@@ -4,7 +4,7 @@
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-258 songs - 14 hr 9 min
+259 songs - 14 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [Judy Is a Punk \- 2001 Remastered Version](https://open.spotify.com/track/6tPbPginayIN9JdF3r7hB1) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(Expanded\)](https://open.spotify.com/album/4X44NrhroDDaWXheAhcvYY) | 1:32 | 2015-07-23 | 2022-07-29 |
 | [Judy Is a Punk \- 2016 Remaster](https://open.spotify.com/track/0vGCxnTwYZFtOAW3oz28kd) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 1:32 | 2015-07-23 |  |
 | [Keys to Your Heart](https://open.spotify.com/track/0cF4mPq0ySXYCH7m46jAEj) | [The 101ers](https://open.spotify.com/artist/75s7RfViwIXirjnRYkZWPe) | [The Chiswick Story](https://open.spotify.com/album/5ujiykFQtkqxvrWuxUGF7j) | 3:42 | 2015-07-23 | 2022-07-29 |
-| [Keys to Your Heart](https://open.spotify.com/track/3RPEwWIjRxT7KUGWqgFQYL) | [The 101ers](https://open.spotify.com/artist/75s7RfViwIXirjnRYkZWPe) | [1976](https://open.spotify.com/album/1w48oXvH0uzNyT0Hd41hHX) | 3:44 | 2015-07-23 |  |
+| [Keys to Your Heart](https://open.spotify.com/track/3RPEwWIjRxT7KUGWqgFQYL) | [The 101ers](https://open.spotify.com/artist/75s7RfViwIXirjnRYkZWPe) | [1976](https://open.spotify.com/album/1w48oXvH0uzNyT0Hd41hHX) | 3:44 | 2015-07-23 | 2023-10-12 |
+| [Keys to Your Heart](https://open.spotify.com/track/4vpSRQ0kn2fkV17A5XFwZK) | [The 101ers](https://open.spotify.com/artist/75s7RfViwIXirjnRYkZWPe) | [Elgin Avenue Breakdown \(Revisited; feat\. Joe Strummer\)](https://open.spotify.com/album/4sb22aeCQZqt0TszEyoqJr) | 3:44 | 2015-07-23 |  |
 | [Last Caress](https://open.spotify.com/track/0S8LgLoseDB6W2HWd1ym6P) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey), [Glenn Danzig](https://open.spotify.com/artist/71OjDxLFjWGQFpzU1VpN5d) | [Collection 2](https://open.spotify.com/album/7dUrduNuWHYQ8pdDKtBedD) | 1:59 | 2015-07-23 |  |
 | [Let's Get Rid Of NY](https://open.spotify.com/track/3Ldz1pcrj30VCRoOXVC9re) | [The Randoms](https://open.spotify.com/artist/6aLIWRGgvsrm94qX115y7A) | [Dangerhouse, Vol\. 1](https://open.spotify.com/album/5iNbRI5RdubaBpYX2cOWTT) | 2:45 | 2015-07-23 | 2022-07-29 |
 | [Let's Get Rid of NY](https://open.spotify.com/track/4fARQCeCWUSTczkSqUVP9t) | [The Randoms](https://open.spotify.com/artist/6aLIWRGgvsrm94qX115y7A) | [Dangerhouse Volume 1](https://open.spotify.com/album/0kXuX7WWmaEdzWEWJZe4Up) | 2:45 | 2015-07-23 |  |

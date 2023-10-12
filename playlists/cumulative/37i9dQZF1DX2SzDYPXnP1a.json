@@ -201,6 +201,28 @@
     },
     {
       "album": {
+        "name": "Dirt Road (Remix) (feat. BRELAND)",
+        "url": "https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo"
+      },
+      "artists": [
+        {
+          "name": "Kidd G",
+          "url": "https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM"
+        },
+        {
+          "name": "BRELAND",
+          "url": "https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1"
+        }
+      ],
+      "date_added": "2023-06-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155866,
+      "name": "Dirt Road (Remix) (feat. BRELAND)",
+      "url": "https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL"
+    },
+    {
+      "album": {
         "name": "Greenbroke",
         "url": "https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine"
       },
@@ -846,7 +868,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 164448,
       "name": "Trap Still Bumpin",
       "url": "https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G"

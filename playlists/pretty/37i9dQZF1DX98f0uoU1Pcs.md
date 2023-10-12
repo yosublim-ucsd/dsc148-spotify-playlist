@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Mannequin Pussy
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,774 likes - 125 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,803 likes - 125 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX98f0uoU1Pcs.md) - [plain]
 | 124 | [Thin Air](https://open.spotify.com/track/6zuqI8QSazQ6850pxx2IU5) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6), [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 3:34 |
 | 125 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
 
-Snapshot ID: `MCwzY2NiYzYwNTZkNDBiNjNiZGJjZGQxNDMzNjQ4NDZiYTRjNzU4M2Mw`
+Snapshot ID: `MCxhMmJjOTk4YjQyZDJiYjI3ZGNkY2U0ZGQzYmNlMDNmMDMwNzNkMDU0`

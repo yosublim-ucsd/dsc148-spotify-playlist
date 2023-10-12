@@ -4,7 +4,7 @@
 
 > Les plus belles chansons d'amour de la variété française.
 
-76 songs - 4 hr 48 min
+77 songs - 4 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [J'attends](https://open.spotify.com/track/2EjSObddqmZPzlcoket9WV) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou), [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [Les femmes idéales](https://open.spotify.com/album/2cpyU2HuvpC3LyCHJn12XO) | 4:40 | 2023-08-24 |  |
 | [J'te l'dis quand même](https://open.spotify.com/track/1Ek1OEhcEw9gRr5fxVizhk) | [Patrick Bruel](https://open.spotify.com/artist/0vmrFTWCwK3gFGDzeUzeMg) | [Alors regarde](https://open.spotify.com/album/2BPmd6BmvLHEz9ieEJBSNt) | 3:39 | 2023-08-24 |  |
 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 | 2023-08-24 |  |
-| [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:43 | 2023-08-24 |  |
+| [Je l'aime à mourir \- Remastered](https://open.spotify.com/track/40U2kuipBVRrReD32J2lmO) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Les chemins de traverse \(Remastered\)](https://open.spotify.com/album/59RjTKHBUudPnSU779PQ5x) | 2:43 | 2023-08-24 | 2023-10-12 |
 | [Je ne veux qu'elle](https://open.spotify.com/track/0AwSGcHfNy5rRBIZTG4lfe) | [Marc Lavoine](https://open.spotify.com/artist/3K8EYZ4Ltg6ythgGZzrFXf), [Claire Keim](https://open.spotify.com/artist/2zsZCvnjzbTBpAb0TI9Ri5) | [Marc Lavoine](https://open.spotify.com/album/3rAiEREUQbY2YQUPpUJWcI) | 3:58 | 2023-08-24 |  |
 | [Je sais pas](https://open.spotify.com/track/19ncRYEjjcGiRQgvqXOExO) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [D'Eux](https://open.spotify.com/album/0DdTKXdgMLcSqccdyj6D9p) | 4:33 | 2023-08-24 |  |
 | [Je t'aimais, je t'aime, je t'aimerai \- Remastered](https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 4:38 | 2023-08-24 |  |
@@ -44,6 +44,7 @@
 | [Je T’aime](https://open.spotify.com/track/28mwuJqKOjRpqo14GuKSkj) | [Lara Fabian](https://open.spotify.com/artist/7ocwZINHqO9DZJgFtc1B20) | [Pure](https://open.spotify.com/album/1VOw4yLcyAgwPR3dGPXRnm) | 4:21 | 2023-08-24 |  |
 | [Je vous trouve un charme fou \- En duo avec Gaëtan Roussel](https://open.spotify.com/track/0C2yaSWVgCUiiqPyYxSOkd) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ), [Gaëtan Roussel](https://open.spotify.com/artist/2FDsdMev4pzIXwoJGXi9zf) | [Il suffit d'y croire \(Version deluxe\)](https://open.spotify.com/album/6jQJaCZB3mCM73p7JE5XNJ) | 2:52 | 2023-08-24 |  |
 | [L'amour à la machine](https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déja ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 3:46 | 2023-08-24 |  |
+| [L'encre de tes yeux \- Remastered](https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Fragile \(Remastered\)](https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX) | 3:06 | 2023-10-11 |  |
 | [L'envie d'aimer](https://open.spotify.com/track/5H9PjygodoXzyX45g7Pm6n) | [Les Dix Commandements](https://open.spotify.com/artist/5QXmg7M7qjL9PcJ79MYyGb), [Daniel Levi](https://open.spotify.com/artist/27Nnz63JsAweHllsNze2yD) | [Les Dix Commandements \(L'intégrale\)](https://open.spotify.com/album/79qNGzwU1l9vh3nw6GeY8l) | 6:28 | 2023-08-24 |  |
 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 | 2023-08-24 |  |
 | [La chanson des vieux amants](https://open.spotify.com/track/2nn7R5ESQhN5MhWcrHFjLi) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [15 Ans D'Amour](https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG) | 4:27 | 2023-08-24 |  |

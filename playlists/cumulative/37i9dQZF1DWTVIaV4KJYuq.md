@@ -4,7 +4,7 @@
 
 > All the classic songs you love—covered\. Cover: Brandi Carlile
 
-180 songs - 11 hr 21 min
+181 songs - 11 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Don't You Want Me](https://open.spotify.com/track/0bmDpMruiJpzV5eQ92W0Lq) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/4zSB5nqKVh9jQcRByMUcMG) | 3:19 | 2022-02-04 |  |
 | [Don't You Want Me](https://open.spotify.com/track/7cQ2x6bqiOKWzKxB7Rp8tc) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt), [The Weather Station](https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu) | [The Secret Life Of Walter Mitty \(Music From And Inspired By The Motion Picture\)](https://open.spotify.com/album/1WfjeDnn6P7umwi5gLZSGx) | 3:19 | 2021-11-05 | 2022-07-29 |
 | [Dreams](https://open.spotify.com/track/1K0Shi82LENoyXxAjJj8XG) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Dreams](https://open.spotify.com/album/6wAglOLfrqaHTBY8LmUcUF) | 3:35 | 2021-11-05 |  |
+| [Dreams \- Lanie's Version](https://open.spotify.com/track/2HA6QsvyuQRoYhKoBZdyN2) | [Lanie Gardner](https://open.spotify.com/artist/5lhCycgJCjQIMpWNk4DycY) | [Dreams \(Lanie's Version\)](https://open.spotify.com/album/0KlsuFkgIWDhHmgJuCxXdb) | 4:20 | 2023-10-06 |  |
 | [Dreams \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2q9jsX0poviVu9OSWgmRYg) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Spotify Singles](https://open.spotify.com/album/3Kvg9h8w3OMPNkDISwcal8) | 3:59 | 2021-11-05 |  |
 | [Eleanor Rigby](https://open.spotify.com/track/0EbFmS2uZycsxJfg6jvlrn) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 2:20 | 2021-11-05 |  |
 | [Enjoy The Silence](https://open.spotify.com/track/4PZa10hp40IiPySg7MGYbl) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:14 | 2021-11-05 |  |
@@ -183,7 +184,7 @@
 | [You Don't Know How It Feels](https://open.spotify.com/track/4jRfYs49suF4VINcWVXAvb) | [Walk off the Earth](https://open.spotify.com/artist/6jEiUoyyJNPHzSR0Nib6HX) | [You Don't Know How It Feels](https://open.spotify.com/album/7pWTvThKZquHfq4E0e5KwX) | 3:42 | 2021-11-05 |  |
 | [You Never Can Tell](https://open.spotify.com/track/1GLMm7mMGNZznCUDr5JOkX) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Playing Chess](https://open.spotify.com/album/2Ob030pqqBl9S3DZ6kddLU) | 3:05 | 2022-02-04 |  |
 | [You Never Can Tell](https://open.spotify.com/track/1JYLgZ1ScjqXbKjBD32hXz) | [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [You Never Can Tell](https://open.spotify.com/album/7LmSlhjBa1CvEaxkbZJ3oP) | 3:05 | 2021-11-05 | 2022-07-29 |
-| [You'll Never Walk Alone](https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [You'll Never Walk Alone](https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM) | 1:58 | 2021-11-05 |  |
+| [You'll Never Walk Alone](https://open.spotify.com/track/1x8Wm6urdzbDZcWpjtIUTK) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [You'll Never Walk Alone](https://open.spotify.com/album/7CAxZhdr8hiyDQYJrF8UnM) | 1:58 | 2021-11-05 | 2023-10-12 |
 | [You've Got The Love](https://open.spotify.com/track/6u9RqxALwkjJ1ukB1y8vuP) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [Lungs \(Deluxe Edition\)](https://open.spotify.com/album/2FgknX5e7fJlriQtxvpLhZ) | 2:48 | 2021-11-05 |  |
 | [Your Song](https://open.spotify.com/track/2mN9PvVZX0thvOclMwQAju) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Lights](https://open.spotify.com/album/4oVG376KpWeBaxrKqRxVri) | 3:11 | 2021-11-05 |  |
 | [Zombie \(Live from the NIVA Save Our Stages Festival\)](https://open.spotify.com/track/0olaaJrCBTMJJvqPdvNpsx) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 4:50 | 2022-02-04 |  |

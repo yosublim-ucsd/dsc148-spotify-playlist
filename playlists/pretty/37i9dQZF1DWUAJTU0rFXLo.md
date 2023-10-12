@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 
 > Músicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Dafé
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,464 likes - 100 songs - 7 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,491 likes - 100 songs - 7 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 37 | [Move on Up \- Extended Version](https://open.spotify.com/track/01gDLZsi0j5fWC28FLPNO8) | [Curtis Mayfield](https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm) | [Curtis \(Expanded Edition\)](https://open.spotify.com/album/3tgJmEz0R0ZsRSrpwafp4R) | 8:55 |
 | 38 | [Clean up Woman](https://open.spotify.com/track/6uqTETWok9npbL4c9cuLVh) | [Betty Wright](https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz) | [I Love The Way You Love](https://open.spotify.com/album/4dCm84vJLO30e0fiS3sgPi) | 2:49 |
 | 39 | [Genius of Love](https://open.spotify.com/track/6UBQONiLH8kNmmB8UrV2Ef) | [Tom Tom Club](https://open.spotify.com/artist/1m24736Bdew1oQVxTePOCo) | [Tom Tom Club](https://open.spotify.com/album/5WKUL88usO5Y8cfbh2EQdu) | 5:34 |
-| 40 | [I Want You Back](https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Anthology: Jackson 5](https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku) | 2:59 |
-| 41 | [Good Times \- 2018 Remaster](https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué \(2018 Remaster\)](https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF) | 8:06 |
+| 40 | [Good Times \- 2018 Remaster](https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1) | [CHIC](https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV) | [Risqué \(2018 Remaster\)](https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF) | 8:06 |
+| 41 | [I Want You Back](https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Anthology: Jackson 5](https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku) | 2:59 |
 | 42 | [Isn't She Lovely](https://open.spotify.com/track/6RANU8AS5ICU5PEHh8BYtH) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 6:34 |
 | 43 | [Lowdown \(2023 Remaster\)](https://open.spotify.com/track/5QhikAUv91oMAaFnfKz22u) | [Boz Scaggs](https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh) | [Silk Degrees \(2023 Remaster\)](https://open.spotify.com/album/1iIyo1JkpnNz83Mf4I9AiI) | 5:17 |
 | 44 | [The Payback](https://open.spotify.com/track/5OcyX5eg7VrJuI833qOCUc) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [The Payback](https://open.spotify.com/album/49vpRrUcAr2bj6aYQr0Cfl) | 7:39 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUAJTU0rFXLo.md) - [plain]
 | 99 | [Ngiculela\-Es Una Historia\-I Am Singing](https://open.spotify.com/track/49jWPMEvoGPNRYSd4vEXSo) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 3:48 |
 | 100 | [Jhony](https://open.spotify.com/track/2w6y4oJAWTzoLuG7GnIlyb) | [Tim Maia](https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu) | [Disco Club](https://open.spotify.com/album/5D5OGW1c4enqcI9fqs1XWt) | 2:19 |
 
-Snapshot ID: `MCxmYWE0MDdlODBlMWMwZDdiODM0ZGUxMzlhNTdlMjA0YzUxMWVkMjgx`
+Snapshot ID: `MCwwODNlYTU4NjExZTcwZjZiY2U5YmY2MTRhYjBiNDlkZWYxYWQ5Nzgw`

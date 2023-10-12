@@ -924,6 +924,28 @@
     {
       "album": {
         "name": "Growth",
+        "url": "https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245533,
+      "name": "Encounters",
+      "url": "https://open.spotify.com/track/11EPlc3UVZIhKq11lpdzfL"
+    },
+    {
+      "album": {
+        "name": "Growth",
         "url": "https://open.spotify.com/album/0ouj5sd5ZHHQHkkz9LiPAI"
       },
       "artists": [
@@ -938,7 +960,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 245533,
       "name": "Encounters",
       "url": "https://open.spotify.com/track/5mqOf0Ayk7L3EbfvoC5Ujc"
@@ -964,10 +986,36 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 372080,
       "name": "Encounters - SOHMI Fantasy Extended Remix",
       "url": "https://open.spotify.com/track/1lxAqM9NfiUA6di4TBdaUK"
+    },
+    {
+      "album": {
+        "name": "Encounters (SOHMI Fantasy Remix)",
+        "url": "https://open.spotify.com/album/7hlSdfWIXGccEnr1JiIR5x"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        },
+        {
+          "name": "Booka Shade",
+          "url": "https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB"
+        },
+        {
+          "name": "SOHMI",
+          "url": "https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372080,
+      "name": "Encounters - SOHMI Fantasy Extended Remix",
+      "url": "https://open.spotify.com/track/7JmUuXLWxna6TC1ZqIL1kZ"
     },
     {
       "album": {

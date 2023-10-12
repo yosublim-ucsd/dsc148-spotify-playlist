@@ -1,12 +1,12 @@
 {
   "description": "The home of Latin R&B. La casa del R&B Latino. Cover: Nicole Horts",
-  "num_followers": 111354,
+  "num_followers": 111331,
   "original_name": "Latin R&B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2OTFiZmI0NmNhMWNmMjM5MmY2Yjc0NWJjNDk5NjE5ZjVmZjM0ZTQz",
+  "snapshot_id": "MCxkODA1ZTQxNzg5ZWViZWM1ZWY5OGFlMzllOTg3OWI0MTdiOWMzMzE2",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Aqu\u00ed Sigo",
-        "url": "https://open.spotify.com/album/3hr6FTGLuXCFvYnHuBpPaX"
-      },
-      "artists": [
-        {
-          "name": "3AM",
-          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
-        }
-      ],
-      "duration_ms": 158819,
-      "name": "Aqu\u00ed Sigo",
-      "url": "https://open.spotify.com/track/4NBbnTNp6oFMUlIDjOtXsB"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Estoy Bien",
         "url": "https://open.spotify.com/album/6VLkFSqV7eMPPYaHUGOfAE"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 168000,
       "name": "Estoy Bien",
       "url": "https://open.spotify.com/track/6szg6z5MWZKiojwcu5hRNX"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Aqu\u00ed Sigo",
+        "url": "https://open.spotify.com/album/3hr6FTGLuXCFvYnHuBpPaX"
+      },
+      "artists": [
+        {
+          "name": "3AM",
+          "url": "https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D"
+        }
+      ],
+      "duration_ms": 158819,
+      "name": "Aqu\u00ed Sigo",
+      "url": "https://open.spotify.com/track/4NBbnTNp6oFMUlIDjOtXsB"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "NUDE",
-        "url": "https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP"
-      },
-      "artists": [
-        {
-          "name": "Kidd Keo",
-          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
-        }
-      ],
-      "duration_ms": 175718,
-      "name": "NUDE",
-      "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Tanto",
         "url": "https://open.spotify.com/album/1EcuhRjExVXfWXcYz2AtTj"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 253150,
       "name": "Tanto",
       "url": "https://open.spotify.com/track/5ZqbJRd75CSRoqSBK5gsrn"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "NUDE",
+        "url": "https://open.spotify.com/album/3U89lACWYtEdnV1UTke0CP"
+      },
+      "artists": [
+        {
+          "name": "Kidd Keo",
+          "url": "https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km"
+        }
+      ],
+      "duration_ms": 175718,
+      "name": "NUDE",
+      "url": "https://open.spotify.com/track/5LZEvEjAzndBZUaHrp1o0L"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Trust Issues",
-        "url": "https://open.spotify.com/album/54xPUKxnexBttdrk44bz1o"
-      },
-      "artists": [
-        {
-          "name": "Lauren Jauregui",
-          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
-        }
-      ],
-      "duration_ms": 198533,
-      "name": "Trust Issues",
-      "url": "https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "De Ti",
         "url": "https://open.spotify.com/album/3jDYMCt4DiIWGcJUbZkaco"
       },
@@ -1479,18 +1463,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "C\u00d3DIGOS",
-        "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
+        "name": "Trust Issues",
+        "url": "https://open.spotify.com/album/54xPUKxnexBttdrk44bz1o"
       },
       "artists": [
         {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+          "name": "Lauren Jauregui",
+          "url": "https://open.spotify.com/artist/3J0BpFVUc9LeOIVeN5uNhU"
         }
       ],
-      "duration_ms": 170000,
-      "name": "Camino a Neptuno",
-      "url": "https://open.spotify.com/track/5xBCigex5TpSjOlHcuBzmv"
+      "duration_ms": 198533,
+      "name": "Trust Issues",
+      "url": "https://open.spotify.com/track/3jtSXngSQ7DvjavyA8Z64x"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1523,6 +1507,22 @@
       "duration_ms": 248000,
       "name": "B-Day",
       "url": "https://open.spotify.com/track/2fLC7a1iIloVs8M95GNCPz"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "C\u00d3DIGOS",
+        "url": "https://open.spotify.com/album/44h2U2huy0NFGn5urk9Jfe"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Camino a Neptuno",
+      "url": "https://open.spotify.com/track/5xBCigex5TpSjOlHcuBzmv"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Room 302",
-        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
-      },
-      "artists": [
-        {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        }
-      ],
-      "duration_ms": 182500,
-      "name": "Room 302",
-      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "RIP",
         "url": "https://open.spotify.com/album/55b2KZglwORMKbL2bW8EhC"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 192000,
       "name": "RIP",
       "url": "https://open.spotify.com/track/1iSLhqv5Lf9N9Rp9bqQQWD"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Room 302",
+        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        }
+      ],
+      "duration_ms": 182500,
+      "name": "Room 302",
+      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
     },
     {
       "added_at": "2023-10-06 04:00:00",

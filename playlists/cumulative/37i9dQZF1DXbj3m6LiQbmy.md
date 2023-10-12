@@ -2,7 +2,7 @@
 
 ### [GLOW Italia](https://open.spotify.com/playlist/37i9dQZF1DXbj3m6LiQbmy)
 
-> Free to be! Musica dalla comunità LGBQTIA+ italiana\. Yosef, MYDRAMA, KAPUT, Evra e Blue Phelix in cover! ✨
+> Free to be! Musica dalla comunità LGBQTIA+ italiana\. ARIETE in cover! ✨
 
 312 songs - 18 hr 45 min
 

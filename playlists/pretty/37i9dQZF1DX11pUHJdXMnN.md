@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 
 > House and disco jams with an 80s\-infused retro flavour.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,418 likes - 45 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,438 likes - 45 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 27 | [Lemonade \- The Magician Italo '85' remix](https://open.spotify.com/track/6jE1Qo5DBq6ij0eg36top0) | [Mercer](https://open.spotify.com/artist/7aSsnDTH11xS2yIn6cNtsF), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Lemonade \(The Magician Italo '85' Remix\)](https://open.spotify.com/album/5KYMm8CqIacDxfisj3A16B) | 3:15 |
 | 28 | [Ardore](https://open.spotify.com/track/1T2DffseqEO4skwGYB4z9w) | [David Jackson](https://open.spotify.com/artist/7qiozhwvnBwz1t082JIBNV), [Tobias Bernstrup](https://open.spotify.com/artist/7qMxLMZgfIeZloY2EjWiPt) | [Ardore \(feat\. Tobias Bernstrup\)](https://open.spotify.com/album/5suKkPyhnb5Rf5wVQdDSGT) | 3:32 |
 | 29 | [Curb Dog '88](https://open.spotify.com/track/4HOnJzmHcMFMLfl8kI5WAX) | [Dorothys Fortress](https://open.spotify.com/artist/6VLxD1WKg1ykIzBC9nuDAN) | [Enter Castillo](https://open.spotify.com/album/6YrSjOCEepdaoNgQp9ofKE) | 5:16 |
-| 30 | [Know You](https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Know You](https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm) | 3:44 |
-| 31 | [Street Rave \- Edit](https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Street Rave EP](https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon) | 4:01 |
+| 30 | [Street Rave \- Edit](https://open.spotify.com/track/3iThvzWqPdZdgLnKDJGRaf) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Street Rave EP](https://open.spotify.com/album/4PGKNufqew8YzLUViGgvon) | 4:01 |
+| 31 | [Know You](https://open.spotify.com/track/08udjG9UxRjd2kdxCGCmUk) | [Lauer](https://open.spotify.com/artist/36rey1TxHa81Az8CqZpsJ4) | [Know You](https://open.spotify.com/album/4sKMxklSRDAv0IKuyoBDbm) | 3:44 |
 | 32 | [Dreamers](https://open.spotify.com/track/5087hJq9c6KM6gGb7CsjDi) | [Ivory \(IT\)](https://open.spotify.com/artist/0H1va9wyZWImoOV4euIBcr) | [Dixon Presents Transmoderna Part 2/4](https://open.spotify.com/album/0R6e4rh33ZTqkeu7ij741g) | 6:39 |
 | 33 | [Listen to the Band \- Club Mix](https://open.spotify.com/track/3vg0LaCjeLUQEffpDhXqMX) | [Jex Opolis](https://open.spotify.com/artist/6LKEDpmHSbVFGyL2OW0ZbQ) | [Net Loss](https://open.spotify.com/album/0uqkw1u9wQPYBf4olgXcWx) | 6:16 |
 | 34 | [Trans Orient Express \- Adana Twins "A Night At EGO" Version \- Edit](https://open.spotify.com/track/0zCqYPJEfVhCDDvCDrWIAV) | [DJ T.](https://open.spotify.com/artist/3gkLqGRDA19txXCSKXq6Gx), [Adana Twins](https://open.spotify.com/artist/2JnkjHtuUjz83gkEx8QMS4) | [Trans Orient Express \(Adana Twins A Night At EGO" Version \- Edit"\)](https://open.spotify.com/album/5bSWEhz58eNwQuKehvAaW2) | 3:58 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11pUHJdXMnN.md) - [plain]
 | 44 | [Never Let You Go \- Skream Remix \(Edit\)](https://open.spotify.com/track/4XP3da5XVRN1eoTK91L4T8) | [Georgia](https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Never Let You Go \(Skream Remix\)](https://open.spotify.com/album/2EcZfAmLrfH8UrVJeh2fxi) | 3:40 |
 | 45 | [Up & Down](https://open.spotify.com/track/11DRarpv190YnCAXt85uFA) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [Lorenz Rhode](https://open.spotify.com/artist/44fZOPBpIQYrr8faORvMiF) | [Emotion EP](https://open.spotify.com/album/1o9O7AGvoCSG8w2Ana24YA) | 6:49 |
 
-Snapshot ID: `MCw3NmExMWUyMTJjYjk0MDlkOGZiZjg5YmI1YzE3NmY0OGE1N2YyOGNj`
+Snapshot ID: `MCxmNzgyM2FlODkyMzkyMmZiM2JiNTU2MzY1MmMwOTAyYjJlY2IwOGU4`

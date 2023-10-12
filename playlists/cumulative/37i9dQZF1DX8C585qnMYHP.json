@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The best new Experimental by independent artists and labels, with Estrella del Sol on cover. Updates every Wednesday.",
+  "description": "The best new Experimental by independent artists and labels, with Of The Muses on cover. Updates every Wednesday.",
   "name": "Fresh Finds Experimental",
   "tracks": [
     {
@@ -5395,6 +5395,24 @@
     },
     {
       "album": {
+        "name": "Cremated Pets",
+        "url": "https://open.spotify.com/album/0Jt4yUMAr8tOJnJ5EoJQYo"
+      },
+      "artists": [
+        {
+          "name": "Better Corners",
+          "url": "https://open.spotify.com/artist/3B4xlbQUvkOpgmASosPYvd"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174849,
+      "name": "Cremated Pets",
+      "url": "https://open.spotify.com/track/7x5J1gHY3meL2fU1qwEHd2"
+    },
+    {
+      "album": {
         "name": "WAXTAPE",
         "url": "https://open.spotify.com/album/5El2CB6KwFpF11EJNV0LdB"
       },
@@ -9222,7 +9240,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 384727,
       "name": "Franklin, King of the Beers",
       "url": "https://open.spotify.com/track/0ZeRwyqeEsWZORy2lPcfHv"
@@ -10935,6 +10953,24 @@
     },
     {
       "album": {
+        "name": "how will we get back to life again?",
+        "url": "https://open.spotify.com/album/0iqzM5KEn16W9Y3a3KPHDg"
+      },
+      "artists": [
+        {
+          "name": "Patrick Shiroishi",
+          "url": "https://open.spotify.com/artist/2lHGXQLY8KwPpuxBRsINR2"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223735,
+      "name": "how will we get back to life again?",
+      "url": "https://open.spotify.com/track/2Ijzl5nr2rFV5FDFW6Fitn"
+    },
+    {
+      "album": {
         "name": "Scry",
         "url": "https://open.spotify.com/album/41daUs4j8hlrHlWGPZ26bs"
       },
@@ -11152,6 +11188,24 @@
       "duration_ms": 297931,
       "name": "Hyrule City",
       "url": "https://open.spotify.com/track/7guMblzcJsgdHeWBTshWx1"
+    },
+    {
+      "album": {
+        "name": "I",
+        "url": "https://open.spotify.com/album/2xjnI3kZzDTIjUe1Zcwb2G"
+      },
+      "artists": [
+        {
+          "name": "Of The Muses",
+          "url": "https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 548361,
+      "name": "I",
+      "url": "https://open.spotify.com/track/00UC3Q9hxjfgvBzkUpxe3o"
     },
     {
       "album": {
@@ -20720,7 +20774,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 306937,
       "name": "Serduszko",
       "url": "https://open.spotify.com/track/7uE7jFI9QPPltoqp7Vh53J"
@@ -20958,7 +21012,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 206000,
       "name": "Show You My World",
       "url": "https://open.spotify.com/track/0OGG0VFsTDzhnPpjw6SiDU"
@@ -24764,7 +24818,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 122368,
       "name": "Tinnitus Titles (Tinnitus OST)",
       "url": "https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK"
@@ -26164,6 +26218,24 @@
       "duration_ms": 286000,
       "name": "UTOP\u00cdA",
       "url": "https://open.spotify.com/track/2FPQ8g51zvmo1FoBEKrrzF"
+    },
+    {
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/6I2ZYYta7J2bTkh1UMe8zm"
+      },
+      "artists": [
+        {
+          "name": "Of The Muses",
+          "url": "https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 526066,
+      "name": "V",
+      "url": "https://open.spotify.com/track/3Sk8oGy02QK1eZ52A2BYyI"
     },
     {
       "album": {

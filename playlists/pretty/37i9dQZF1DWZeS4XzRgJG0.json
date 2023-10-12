@@ -1,12 +1,12 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 25372,
+  "num_followers": 25426,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNzkwNTNiYjYwY2E5MDQ0ZGMxNWMxZTkxZGEwNDhjNjYxNzJkZDA1",
+  "snapshot_id": "MCxiOTE4MjM4NDRkMDQ3NWFjNmMzMDYzYjVlMTQ4Njg3NTViODc0YjFm",
   "tracks": [
     {
       "added_at": "2023-05-12 08:21:15",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "A Star Is Born Soundtrack (Without Dialogue)",
-        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 210200,
-      "name": "Always Remember Us This Way",
-      "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Doo-Wops & Hooligans",
         "url": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 217866,
       "name": "Talking to the Moon",
       "url": "https://open.spotify.com/track/161DnLWsx1i3u1JT05lzqU"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "A Star Is Born Soundtrack (Without Dialogue)",
+        "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 210200,
+      "name": "Always Remember Us This Way",
+      "url": "https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Divinely Uninspired To A Hellish Extent",
-        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 220492,
-      "name": "Bruises",
-      "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Perception",
         "url": "https://open.spotify.com/album/1KOmHyNLuOe5YrPhD3Juuf"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 212120,
       "name": "Let You Down",
       "url": "https://open.spotify.com/track/52okn5MNA47tk87PeZJLEL"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Divinely Uninspired To A Hellish Extent",
+        "url": "https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 220492,
+      "name": "Bruises",
+      "url": "https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -591,22 +591,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Drops Of Jupiter",
-        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
-      },
-      "artists": [
-        {
-          "name": "Train",
-          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
-        }
-      ],
-      "duration_ms": 259933,
-      "name": "Drops of Jupiter (Tell Me)",
-      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Flicker (Deluxe)",
         "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 232852,
       "name": "This Town",
       "url": "https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Drops Of Jupiter",
+        "url": "https://open.spotify.com/album/6j6Zgm7vzAZegr48UppFVT"
+      },
+      "artists": [
+        {
+          "name": "Train",
+          "url": "https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A"
+        }
+      ],
+      "duration_ms": 259933,
+      "name": "Drops of Jupiter (Tell Me)",
+      "url": "https://open.spotify.com/track/2hKdd3qO7cWr2Jo0Bcs0MA"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -999,22 +999,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Look Up Child",
-        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
-      },
-      "artists": [
-        {
-          "name": "Lauren Daigle",
-          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
-        }
-      ],
-      "duration_ms": 274693,
-      "name": "You Say",
-      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "IDK You Yet (Live on Piano)",
         "url": "https://open.spotify.com/album/2MV7PrKdCcislKUAPMyEA2"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 184638,
       "name": "IDK You Yet",
       "url": "https://open.spotify.com/track/0j1Ia2lQWrcXrQZI4AdJlk"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Look Up Child",
+        "url": "https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN"
+      },
+      "artists": [
+        {
+          "name": "Lauren Daigle",
+          "url": "https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj"
+        }
+      ],
+      "duration_ms": 274693,
+      "name": "You Say",
+      "url": "https://open.spotify.com/track/6Up545NUflOiXo8cEraH49"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Cheers to the Fall",
-        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
-      },
-      "artists": [
-        {
-          "name": "Andra Day",
-          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
-        }
-      ],
-      "duration_ms": 253342,
-      "name": "Rise Up",
-      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "Electric Light",
         "url": "https://open.spotify.com/album/08cprzGPjtLDvKMwtQh93R"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 181360,
       "name": "Us",
       "url": "https://open.spotify.com/track/16XiTUC2rQvb5lmtOm3FYY"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Cheers to the Fall",
+        "url": "https://open.spotify.com/album/6Blubl1glavmervPJa3QVs"
+      },
+      "artists": [
+        {
+          "name": "Andra Day",
+          "url": "https://open.spotify.com/artist/1c4rxrxy8eDLvMVL1DTiBe"
+        }
+      ],
+      "duration_ms": 253342,
+      "name": "Rise Up",
+      "url": "https://open.spotify.com/track/0tV8pOpiNsKqUys0ilUcXz"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
-      },
-      "artists": [
-        {
-          "name": "Natalie Taylor",
-          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
-        }
-      ],
-      "duration_ms": 183103,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "One Day",
         "url": "https://open.spotify.com/album/5dcblm6CNsl9cCiQ6CsKjr"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 202340,
       "name": "One Day",
       "url": "https://open.spotify.com/track/4Ey0LK1HzksUqm9JLzzKuD"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/5vplYu9dji5uOQdLutFfnf"
+      },
+      "artists": [
+        {
+          "name": "Natalie Taylor",
+          "url": "https://open.spotify.com/artist/2WxjxdeF7GGdcCK276qViY"
+        }
+      ],
+      "duration_ms": 183103,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/0ecC8p17cDNlxHXkuYqeR6"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
+        "name": "Teenage Mind",
+        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 155205,
+      "name": "Teenage Mind",
+      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
         "name": "The Pains Of Growing",
         "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 205440,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/0OCRwXbQRdOZ1OtB4Imsp1"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
-        "name": "Teenage Mind",
-        "url": "https://open.spotify.com/album/7uxkPJEel1MLzreQUmvra0"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 155205,
-      "name": "Teenage Mind",
-      "url": "https://open.spotify.com/track/1vdjJ55uw3WOuu7ZSyABFP"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
+        "name": "Birdy",
+        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
+      },
+      "artists": [
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        }
+      ],
+      "duration_ms": 256236,
+      "name": "People Help the People",
+      "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
         "name": "Electronic Earth (Expanded Edition)",
         "url": "https://open.spotify.com/album/6PBBbXmYV7dKnaik0fjkOI"
       },
@@ -1719,22 +1735,6 @@
       "duration_ms": 271813,
       "name": "Beneath Your Beautiful (feat. Emeli Sand\u00e9)",
       "url": "https://open.spotify.com/track/2EcsgXlxz99UMDSPg5T8RF"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
-        "name": "Birdy",
-        "url": "https://open.spotify.com/album/1WGjSVIw0TVfbp5KrOFiP0"
-      },
-      "artists": [
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        }
-      ],
-      "duration_ms": 256236,
-      "name": "People Help the People",
-      "url": "https://open.spotify.com/track/0YywjDvFudcaHG74NuWISy"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
+        "name": "Are You With Me",
+        "url": "https://open.spotify.com/album/4VpZ0Le2LUhUYERoNUtRZd"
+      },
+      "artists": [
+        {
+          "name": "nilu",
+          "url": "https://open.spotify.com/artist/1XplrA4Q9dPFcayYbJqX6K"
+        }
+      ],
+      "duration_ms": 249661,
+      "name": "Are You With Me",
+      "url": "https://open.spotify.com/track/401MfYscl2EMF4nDbnbG0K"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
         "name": "Dua Lipa (Deluxe)",
         "url": "https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 180640,
       "name": "I Can't Fall in Love Without You",
       "url": "https://open.spotify.com/track/4VPXFi4vFTtS9wHe6oMQaT"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
-        "name": "Are You With Me",
-        "url": "https://open.spotify.com/album/4VpZ0Le2LUhUYERoNUtRZd"
-      },
-      "artists": [
-        {
-          "name": "nilu",
-          "url": "https://open.spotify.com/artist/1XplrA4Q9dPFcayYbJqX6K"
-        }
-      ],
-      "duration_ms": 249661,
-      "name": "Are You With Me",
-      "url": "https://open.spotify.com/track/401MfYscl2EMF4nDbnbG0K"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "TV",
-        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 196133,
-      "name": "Stuck In The Middle",
-      "url": "https://open.spotify.com/track/44TzvSZLIkM7Y7MEnrvkIl"
-    },
-    {
-      "added_at": "2023-05-12 08:21:15",
-      "album": {
         "name": "If You Leave",
         "url": "https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM"
       },
@@ -2199,18 +2183,18 @@
     {
       "added_at": "2023-05-12 08:21:15",
       "album": {
-        "name": "Acoustic Sessions",
-        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
+        "name": "TV",
+        "url": "https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR"
       },
       "artists": [
         {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
         }
       ],
-      "duration_ms": 228506,
-      "name": "The Man Who Can't Be Moved - Acoustic",
-      "url": "https://open.spotify.com/track/5zmFKotNwxzx2QHWpxLuTg"
+      "duration_ms": 196133,
+      "name": "Stuck In The Middle",
+      "url": "https://open.spotify.com/track/44TzvSZLIkM7Y7MEnrvkIl"
     },
     {
       "added_at": "2023-05-12 08:21:15",
@@ -2227,6 +2211,22 @@
       "duration_ms": 254506,
       "name": "River Of Tears",
       "url": "https://open.spotify.com/track/3ArYVrRb0lDBLzuJJqIXzC"
+    },
+    {
+      "added_at": "2023-05-12 08:21:15",
+      "album": {
+        "name": "Acoustic Sessions",
+        "url": "https://open.spotify.com/album/1U9wuhGG9sT1frxmyuoYNh"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "The Man Who Can't Be Moved - Acoustic",
+      "url": "https://open.spotify.com/track/5zmFKotNwxzx2QHWpxLuTg"
     },
     {
       "added_at": "2023-05-12 08:21:15",

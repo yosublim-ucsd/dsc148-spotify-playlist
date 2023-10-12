@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 
 > The early pioneers and current favorites in Southern Rock\. Cover: Lynyrd Skynyrd
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,848 likes - 100 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,629 likes - 100 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 89 | [It Hurts To Want It So Bad](https://open.spotify.com/track/7HdVnKXXDuFz003iLaky53) | [Sea Level](https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP) | [Cats On The Coast](https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR) | 3:39 |
 | 90 | [Refried Funky Chicken](https://open.spotify.com/track/2NN052M5Inp7KfwPT9xner) | [Dixie Dregs](https://open.spotify.com/artist/33MM9GE3xkoG9IL9IePpdu) | [Free Fall](https://open.spotify.com/album/6WtQ7NpP9nZV7cBybTiL4c) | 3:18 |
 | 91 | [Rock Bottom](https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv) | [The Dickey Betts Band](https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP) | [Pattern Disruptive](https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq) | 5:41 |
-| 92 | [Party in the Parking Lot](https://open.spotify.com/track/5QhdEo73fM2wIFKbXvOkDd) | [Johnny Van Zant](https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1) | [Brickyard Road](https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER) | 5:08 |
-| 93 | [Miss Understanding](https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc) | [Grinderswitch](https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz) | [Ghost Train from Georgia](https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD) | 5:55 |
+| 92 | [Miss Understanding](https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc) | [Grinderswitch](https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz) | [Ghost Train from Georgia](https://open.spotify.com/album/3CzO7hK3zGqFozpM84ZPMD) | 5:55 |
+| 93 | [Party in the Parking Lot](https://open.spotify.com/track/5QhdEo73fM2wIFKbXvOkDd) | [Johnny Van Zant](https://open.spotify.com/artist/1oLVItT6UETI2EYrGlxSt1) | [Brickyard Road](https://open.spotify.com/album/7wsoPFu2KaBpVgUvgHBjER) | 5:08 |
 | 94 | [Don't Know Where I'm Bound](https://open.spotify.com/track/5NKXLHZDXSpEf3u3IEfVKQ) | [Ghost Riders](https://open.spotify.com/artist/7LUw9i1NIAXmEwSEQiGVug) | [Back to Rock](https://open.spotify.com/album/5lptGM32Mq08q4P0SBXEH7) | 4:07 |
 | 95 | [Castle Rock](https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT) | [Barefoot Jerry](https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy) | [Southern Delight/Barefoot Jerry](https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV) | 4:39 |
 | 96 | [Duane's Tune](https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU) | [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7) | [Dickey Betts Band: Live At The Lone Star Roadhouse](https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny) | 6:36 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbDjX0hus3Iu.md) - [plain]
 | 99 | [Open Road](https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z) | [Grinderswitch](https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz) | [Pullin' Together](https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz) | 4:09 |
 | 100 | [Time To Roll](https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp) | [The Dickey Betts Band](https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP), [Dickey Betts](https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7) | [Pattern Disruptive](https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq) | 4:58 |
 
-Snapshot ID: `MCwxODQ1NzhkZDI5MzVmZjlmYzNkNDViMzM1YjlhYTdlNTJlZWZkYjkx`
+Snapshot ID: `MCwyOGEyYzIyYWQ5YjJiNTU3MDU4YzE2NzA3ZjFkNDg4N2M5NTE4MjNi`

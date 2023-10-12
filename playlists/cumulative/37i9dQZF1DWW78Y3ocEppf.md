@@ -4,7 +4,7 @@
 
 > Let the songs speak\. Cover: VEDO
 
-571 songs - 1 day 5 hr 53 min
+572 songs - 1 day 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Bad Guy](https://open.spotify.com/track/673ubniw51MnNmQt6eX8ba) | [Maryann Vasquez](https://open.spotify.com/artist/4ovV4mH7jwln8zuQiyx3L9) | [Bad Guy](https://open.spotify.com/album/0peE24D1ZM89EqVswUhSFr) | 3:06 | 2022-03-25 | 2022-04-16 |
 | [Bad Idea \(feat\. Blxst\)](https://open.spotify.com/track/0igni3l2TL5YMWiTa2b1Qb) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 3:36 | 2022-06-03 | 2023-03-18 |
 | [BAD LUCK](https://open.spotify.com/track/5YbHnEYZFkOxLsp5syLMLy) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 2:42 | 2022-07-08 | 2022-08-06 |
-| [Bands On You](https://open.spotify.com/track/27l7Z82Oe1jmTMj3ietkgL) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [Bands On You](https://open.spotify.com/album/1iFQfpAqDZRYkFruuicgUx) | 2:49 | 2023-07-28 |  |
+| [Bands On You](https://open.spotify.com/track/27l7Z82Oe1jmTMj3ietkgL) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb) | [Bands On You](https://open.spotify.com/album/1iFQfpAqDZRYkFruuicgUx) | 2:49 | 2023-07-28 | 2023-10-12 |
 | [Basic Needs](https://open.spotify.com/track/4tb57H1eoPeoK2qxnbW88H) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Based On A Feeling](https://open.spotify.com/album/3PdyuqyxiDFTujJ8e2U2E2) | 2:57 | 2022-05-27 | 2022-05-31 |
 | [Be Quiet \(feat\. Kiana Ledé\)](https://open.spotify.com/track/2xeW5CIB5XHkaDLYEFOSjs) | [Tone Stith](https://open.spotify.com/artist/756t7CBmWLNYsshVtS6P44), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [FWM](https://open.spotify.com/album/1lXnc3tDTNdendTSuMAZCg) | 2:53 | 2021-12-15 | 2022-09-25 |
 | [Beautiful](https://open.spotify.com/track/5tsPiNGuiztScsTjhqEubO) | [Byron Juane](https://open.spotify.com/artist/4UMCjCFEBDWVqw9tTrfxkb), [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [A Little Crazy](https://open.spotify.com/album/0LBh1y6QL1c3ChY53Y3mK0) | 3:18 | 2022-08-05 | 2023-07-22 |
@@ -350,6 +350,7 @@
 | [Not Us](https://open.spotify.com/track/0d83vZDrIgpC6ymkz0w6eg) | [Maxx Moor](https://open.spotify.com/artist/0toaL49WhSJAPcTs94NCJt) | [Not Us](https://open.spotify.com/album/5nF9N4DpZLAFF1f1Z8L2TN) | 3:10 | 2022-03-19 | 2022-06-11 |
 | [NOTORIETY.](https://open.spotify.com/track/65vKSkr9SKjnfkLTO9GpGc) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Maureen Boyer](https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr), [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2), [Talie](https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6) | [Solèy](https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r) | 4:24 | 2022-02-25 | 2022-04-20 |
 | [Nuclear Reactor](https://open.spotify.com/track/0CiaRxXaZpDdoLUagL0Csq) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Nuclear Reactor](https://open.spotify.com/album/38hepIu3uZJAuNK6y9ojEx) | 3:15 | 2023-07-21 | 2023-10-08 |
+| [Nuclear Reactor](https://open.spotify.com/track/12P1Scb3vywGXUU5LdJIxi) | [OSA](https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW) | [Nuclear Reactor](https://open.spotify.com/album/0PIMYn5bA5pRN6vNfpezm6) | 3:15 | 2023-07-21 |  |
 | [Nurture](https://open.spotify.com/track/0OdRKPM36edHZ8OEpbrDCu) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [Archives & Lullabies](https://open.spotify.com/album/4FSiIHTasBx8fQoSzwcb0H) | 3:31 | 2023-02-10 | 2023-07-22 |
 | [Obsession](https://open.spotify.com/track/3thdkIE4oHaFmSwZNLdFAJ) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9) | [Obsession](https://open.spotify.com/album/5ILqDCabfFQrBHHJ4yVfT6) | 3:21 | 2022-10-21 | 2023-01-28 |
 | [Obsession \(feat\. Muni Long\) \- Remix](https://open.spotify.com/track/5BeLd9BErYOPAsHSFIWK3C) | [Eric Bellinger](https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Obsession \(feat\. Muni Long\) \[Remix\]](https://open.spotify.com/album/5hvRuMXz1hAZUAR7dep0h1) | 3:21 | 2022-11-18 | 2023-07-22 |

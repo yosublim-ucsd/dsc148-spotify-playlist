@@ -4,7 +4,7 @@
 
 > The tracks you can put on repeat all day\. Cover: Burna Boy
 
-572 songs - 1 day 7 hr 52 min
+573 songs - 1 day 7 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,6 +121,7 @@
 | [CUFFIN \(feat\. Coi Leray\)](https://open.spotify.com/track/5QEapWx3ryjwtg0E89b02h) | [Lonr.](https://open.spotify.com/artist/2FIGTfXnX4gR3ypjQVPVlJ), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Land Of Nothing Real 2](https://open.spotify.com/album/0BP5Q9dJyOcDcfkL6ETFKX) | 3:18 | 2022-03-11 | 2022-07-29 |
 | [Cupid's Curse \(feat\. Kehlani\)](https://open.spotify.com/track/4tyxf7iATNclULxE7oAKMN) | [Phora](https://open.spotify.com/artist/5XDJlfdfbGNJrOJJNxTcdq), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [With Love 2](https://open.spotify.com/album/0Y7r7Lb6skivwT5LL284AR) | 3:32 | 2022-03-11 | 2022-07-29 |
 | [Dangerous \(feat\. Jeremih and PnB Rock\)](https://open.spotify.com/track/1lL7Sj9AitQT7YWXs6obEq) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg), [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Legends of the Summer](https://open.spotify.com/album/10VeHPWU3210DSCq0uQ9uN) | 3:54 | 2022-04-01 | 2022-04-18 |
+| [Dark Red](https://open.spotify.com/track/3EaJDYHA0KnX88JvDhL9oa) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Dark Red](https://open.spotify.com/album/7vrsFZNVhrriKh0SZKJW41) | 2:53 | 2023-10-11 |  |
 | [Day Dreams \(feat\. 19 Mafia\)](https://open.spotify.com/track/1MmndrxxI9OCOLBGRLaOiS) | [Mia Martina](https://open.spotify.com/artist/2Mo8dJY6EXvu41mbsJ2vOC), [19 Mafia](https://open.spotify.com/artist/1rn0pB9SsWmCBNpbOmz7oB) | [Day Dreams \(feat\. 19 Mafia\)](https://open.spotify.com/album/5zACe1T9r2qprlOJRbHxQb) | 3:41 | 2022-04-01 | 2022-04-19 |
 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 | 2022-03-11 |  |
 | [Deflect](https://open.spotify.com/track/3GfpcEdZ4kRTgy8XC2hCdI) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Deflect](https://open.spotify.com/album/3dpTqZYzAogVHL0Vt913w4) | 2:06 | 2022-03-11 | 2022-06-18 |
@@ -433,7 +434,7 @@
 | [Scenic Drive \(feat\. Ari Lennox & Smino\)](https://open.spotify.com/track/6zIen2DYr2t19vbwqgORY2) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD) | [Scenic Drive \(The Tape\)](https://open.spotify.com/album/5HBwLKK7l3N8fovxDlTBpE) | 4:09 | 2022-03-11 | 2023-05-27 |
 | [Secret \(feat\. Summer Walker\)](https://open.spotify.com/track/67lKDoCZbRCJDa4RT68eme) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Secret \(feat\. Summer Walker\)](https://open.spotify.com/album/5wZsPqpKY7l4dpmRSrDm1Q) | 3:30 | 2022-04-01 | 2023-02-25 |
 | [Sextasy](https://open.spotify.com/track/5jlLBqK31dOqXECKn3jlMX) | [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [Sextasy](https://open.spotify.com/album/5AHaOSqgHl1KLpfujwLpRR) | 3:45 | 2022-04-01 | 2022-04-18 |
-| [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 | 2023-09-29 |  |
+| [Shameless](https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Shameless](https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui) | 2:55 | 2023-09-29 | 2023-10-12 |
 | [Shine](https://open.spotify.com/track/4IXbOaE1P02n6451QBZ10X) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [ELEMENTS Vol\. 1](https://open.spotify.com/album/1c39zRl2zcy9c4rZoLLEGm) | 4:19 | 2022-03-11 | 2022-04-02 |
 | [Shirt](https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2022-12-16 | 2023-05-14 |
 | [Shot & Wine](https://open.spotify.com/track/0UbMVs2WW36wJINYMWb0XH) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Shot & Wine](https://open.spotify.com/album/6Pw2d9njmTHIVIVaESslCy) | 3:28 | 2022-04-01 | 2022-04-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Jon Darc, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Group Hug, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 154620,
       "name": "14. Stock",
       "url": "https://open.spotify.com/track/6f77E75f6dwDzT6o4zXaYv"
@@ -2890,7 +2890,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 141919,
       "name": "Closer Closer Closer",
       "url": "https://open.spotify.com/track/258TMOnq8gRv15NVK0kxAt"
@@ -3771,6 +3771,24 @@
     },
     {
       "album": {
+        "name": "Die Makrele, die nicht ganz zufrieden war",
+        "url": "https://open.spotify.com/album/1QQYMqckh1fWgUGwWfR6tr"
+      },
+      "artists": [
+        {
+          "name": "Die weiteren Aussichten",
+          "url": "https://open.spotify.com/artist/6qTckVBrsUTM2igSoWf5jc"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246440,
+      "name": "Die Makrele, die nicht ganz zufrieden war",
+      "url": "https://open.spotify.com/track/1aR90vjP8uEwTadXg66yh2"
+    },
+    {
+      "album": {
         "name": "Die Nacht Ist Schwarz",
         "url": "https://open.spotify.com/album/0LCCUokTaYSbtZMmbYexZR"
       },
@@ -4370,6 +4388,24 @@
       "duration_ms": 217338,
       "name": "easy",
       "url": "https://open.spotify.com/track/3EoXPxpXCAy3QTBB65vcYQ"
+    },
+    {
+      "album": {
+        "name": "Echo Park",
+        "url": "https://open.spotify.com/album/3yMDSupsMzNHYOlQI7J4NV"
+      },
+      "artists": [
+        {
+          "name": "Group Hug",
+          "url": "https://open.spotify.com/artist/1sKgdwCShuj0glAYP1aWgP"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244912,
+      "name": "Echo Park",
+      "url": "https://open.spotify.com/track/2pvvzmLpUSrb7yxLIP0IWU"
     },
     {
       "album": {
@@ -6462,7 +6498,7 @@
       ],
       "date_added": "2023-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 434075,
       "name": "Half True",
       "url": "https://open.spotify.com/track/6gohiO1ONW1423soQhJJ55"
@@ -8994,7 +9030,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 165901,
       "name": "lights on",
       "url": "https://open.spotify.com/track/1n3RYcH8gK88jRYSFhQqzP"
@@ -9686,6 +9722,24 @@
       "duration_ms": 240173,
       "name": "Milk Me",
       "url": "https://open.spotify.com/track/7oxeWXMtMOTZMk5aZLroh7"
+    },
+    {
+      "album": {
+        "name": "Miss Monroe",
+        "url": "https://open.spotify.com/album/0jnINkp8rCOpw2lOFI0EzT"
+      },
+      "artists": [
+        {
+          "name": "Hidden Gemz",
+          "url": "https://open.spotify.com/artist/5SQPHZJpKtfGTo6r7pLpZu"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173236,
+      "name": "Miss Monroe",
+      "url": "https://open.spotify.com/track/6I68DVLkuhkZy45c4N3Y0w"
     },
     {
       "album": {
@@ -11723,6 +11777,24 @@
     },
     {
       "album": {
+        "name": "Prokrastinieren",
+        "url": "https://open.spotify.com/album/3OVHvlMVOtxFyhkMXW3xNB"
+      },
+      "artists": [
+        {
+          "name": "weesby",
+          "url": "https://open.spotify.com/artist/6hAJs8SawcTdOOgIa46EHd"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Prokrastinieren",
+      "url": "https://open.spotify.com/track/3ISQwg7K3SwvYvCNbISUHw"
+    },
+    {
+      "album": {
         "name": "Protection",
         "url": "https://open.spotify.com/album/61wF4XAPZ55CSo43lQ2Qa1"
       },
@@ -12303,6 +12375,28 @@
     },
     {
       "album": {
+        "name": "Super Sonic Signals",
+        "url": "https://open.spotify.com/album/2cduyjOWAhsDhXn5MH7G3m"
+      },
+      "artists": [
+        {
+          "name": "Liam Mockridge",
+          "url": "https://open.spotify.com/artist/2AVSP0Z9axRhpkMC4EImbG"
+        },
+        {
+          "name": "Taiyo Ky",
+          "url": "https://open.spotify.com/artist/5cqVEHbieW14fL0GBelXDJ"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195123,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/3QlTcUlyl12QUVmMORXHQ5"
+    },
+    {
+      "album": {
         "name": "Rise Again",
         "url": "https://open.spotify.com/album/1G1Tnx8wjroUqia9gdjjrD"
       },
@@ -12794,7 +12888,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 164670,
       "name": "Schwarzweiss",
       "url": "https://open.spotify.com/track/4mxUbUTBeL2zaZOb4A3DcS"
@@ -13754,7 +13848,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 207366,
       "name": "Stau Calm\u0103",
       "url": "https://open.spotify.com/track/4sFuAg4kS11iFPnswqmofQ"
@@ -13844,7 +13938,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 144903,
       "name": "still life",
       "url": "https://open.spotify.com/track/2v4TtNgwXRQxqjYUPKA8Ln"
@@ -14667,6 +14761,24 @@
     },
     {
       "album": {
+        "name": "The unreliable narrator",
+        "url": "https://open.spotify.com/album/6XgKlldxx6RYENrcPzNR1r"
+      },
+      "artists": [
+        {
+          "name": "Beaks",
+          "url": "https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149831,
+      "name": "The unreliable narrator",
+      "url": "https://open.spotify.com/track/2SjWx4liuk1SAedgDMgZ0i"
+    },
+    {
+      "album": {
         "name": "The Weatherman",
         "url": "https://open.spotify.com/album/7mrpT7LGdiABOJ56j35G3y"
       },
@@ -14946,6 +15058,24 @@
       "duration_ms": 172380,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/6MeMT5vw3NP25NdXUOi7nr"
+    },
+    {
+      "album": {
+        "name": "Blasser Schimmer",
+        "url": "https://open.spotify.com/album/4MMK2Q9BxewfJJSWuIJLAg"
+      },
+      "artists": [
+        {
+          "name": "Chocks",
+          "url": "https://open.spotify.com/artist/1gSkf7lCXNScJ9Lr6Dd9jb"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329525,
+      "name": "Touch",
+      "url": "https://open.spotify.com/track/60ZuJmr9GZ7f0pKnqPwSnL"
     },
     {
       "album": {

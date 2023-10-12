@@ -1,12 +1,12 @@
 {
   "description": "Ser\u00e9 la gata bajo la lluvia... \ud83d\ude3f",
-  "num_followers": 70260,
+  "num_followers": 70418,
   "original_name": "viendo llover desde la ventana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4MjZiNTQ4ZTcwMGQ1MmY1ZThmMmI2ZGEwMjU5NWUzZjZkZGM0MTUz",
+  "snapshot_id": "MCwyNzQyMDFhMDdjYjQ1OTZhOTQyODE4OTVkNTJkZjFmZWViN2Y2Njhk",
   "tracks": [
     {
       "added_at": "2023-02-24 17:37:22",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
-        "name": "M\u00e1s",
-        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Sanz",
-          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
-        }
-      ],
-      "duration_ms": 343413,
-      "name": "Coraz\u00f3n part\u00edo",
-      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
         "name": "Lost on You",
         "url": "https://open.spotify.com/album/0dYi4VGov4Dl4AED2eVwPw"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 268105,
       "name": "Lost on You",
       "url": "https://open.spotify.com/track/2LIh4uzqq9cXMPzzmcToHl"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
+        "name": "M\u00e1s",
+        "url": "https://open.spotify.com/album/3MfNbOJuFb5H4CjrT49oiI"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Sanz",
+          "url": "https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF"
+        }
+      ],
+      "duration_ms": 343413,
+      "name": "Coraz\u00f3n part\u00edo",
+      "url": "https://open.spotify.com/track/0wQCKR9OFjYu5Kzrk7WivJ"
     },
     {
       "added_at": "2023-02-24 17:37:22",
@@ -715,6 +715,22 @@
     {
       "added_at": "2023-02-24 17:37:22",
       "album": {
+        "name": "Descanso Dominical (Bonus Tracks Edition)",
+        "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
+      },
+      "artists": [
+        {
+          "name": "Mecano",
+          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
+        }
+      ],
+      "duration_ms": 311160,
+      "name": "La Fuerza del Destino",
+      "url": "https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj"
+    },
+    {
+      "added_at": "2023-02-24 17:37:22",
+      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 274391,
       "name": "B-Side",
       "url": "https://open.spotify.com/track/2DccHqTquzubziHAPZRdct"
-    },
-    {
-      "added_at": "2023-02-24 17:37:22",
-      "album": {
-        "name": "Descanso Dominical (Bonus Tracks Edition)",
-        "url": "https://open.spotify.com/album/5E4nBdPPUynTOEOG7Lj4yA"
-      },
-      "artists": [
-        {
-          "name": "Mecano",
-          "url": "https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G"
-        }
-      ],
-      "duration_ms": 311160,
-      "name": "La Fuerza del Destino",
-      "url": "https://open.spotify.com/track/0fKqhLgg5CYEW2fLlhtWRj"
     },
     {
       "added_at": "2023-02-24 17:37:22",

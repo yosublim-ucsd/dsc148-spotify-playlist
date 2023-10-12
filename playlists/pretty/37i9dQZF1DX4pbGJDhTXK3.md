@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 
 > A celebration of Norway's dance scene!
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,243 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,236 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,11 +18,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 8 | [Entwined](https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC) | [Lustmord](https://open.spotify.com/artist/3FpCFpdoJOrGuR3G7UBgC7), [Karin Park](https://open.spotify.com/artist/5uBdYy8QRabKEL1MtDPXfr) | [Alter](https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza) | 9:26 |
 | 9 | [I'll Be Okay](https://open.spotify.com/track/2luLqMtf2uxV3n4hs1PTkP) | [Kasket Club](https://open.spotify.com/artist/0b3Qo1mk6w8cjcq1TmJiWy), [Soul Gem](https://open.spotify.com/artist/7elzBecyNZlaAEsWzqFxeB) | [I'll Be Okay](https://open.spotify.com/album/2GLPv7x5UyvS6sZ95MKLex) | 3:16 |
 | 10 | [Clean Air](https://open.spotify.com/track/4EdyO4xkUucQiXbuLpSgmo) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68) | [Byen](https://open.spotify.com/album/1QBlMByP8mgFqlLPIzstKD) | 7:54 |
-| 11 | [Feel The Love](https://open.spotify.com/track/39b8jAuutK8EZl0PwAawGC) | [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Ambitions](https://open.spotify.com/album/3XNnlYzgbQSc4IP6OSfGZY) | 4:25 |
+| 11 | [Nocturne](https://open.spotify.com/track/6p29k5SH6WAqHOjf5l4fW6) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61) | [Songs From the End of the World](https://open.spotify.com/album/6VkHZKzQFZgnGy70mxeojF) | 6:17 |
 | 12 | [This Time, This Place…](https://open.spotify.com/track/4JGxZc0tsSVQx2gw7rOQSz) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Beki Mari](https://open.spotify.com/artist/4z9AKehWvtxINEbu8aQGO6) | [This Time, This Place…](https://open.spotify.com/album/0C8AjuFDeY8LVpEMH3DR25) | 7:44 |
 | 13 | [Strandbar](https://open.spotify.com/track/2j0dO7PzxiZxa5RDUl5IuV) | [Todd Terje](https://open.spotify.com/artist/49gaZqfow2v8EEQmjGyEIw) | [It's Album Time](https://open.spotify.com/album/058No4Kiz8r284NwzBSBC2) | 4:28 |
 | 14 | [I Feel Space](https://open.spotify.com/track/2XwqNJ0IynowN5SEk3A6wP) | [Lindstrøm](https://open.spotify.com/artist/2vTtjIqZ7hW0W15t1ApKTB) | [I Feel Space](https://open.spotify.com/album/3I7zwJgNse371fJ6AfDD5I) | 7:01 |
-| 15 | [Nocturne](https://open.spotify.com/track/6p29k5SH6WAqHOjf5l4fW6) | [Ost & Kjex](https://open.spotify.com/artist/3cduU2huZ18pS50V7tic61) | [Songs From the End of the World](https://open.spotify.com/album/6VkHZKzQFZgnGy70mxeojF) | 6:17 |
+| 15 | [Feel The Love](https://open.spotify.com/track/39b8jAuutK8EZl0PwAawGC) | [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Ambitions](https://open.spotify.com/album/3XNnlYzgbQSc4IP6OSfGZY) | 4:25 |
 | 16 | [Transit \- Radio Edit](https://open.spotify.com/track/6xX3DLq6CqH54lcNRzCGnu) | [Third Attempt](https://open.spotify.com/artist/1tsNLehJWv67iMipy0WwQR) | [Transit](https://open.spotify.com/album/2xGTUrOe1vH974ZuWfGp54) | 2:30 |
 | 17 | [Games \(Prins Thomas Diskomiks\)](https://open.spotify.com/track/0I8g1dYLJXqJujeyyIY3fG) | [Gundelach](https://open.spotify.com/artist/2TUtwEDqoXZOapCTgMrcvj), [ARY](https://open.spotify.com/artist/4FLA7MpTdP5nNUQfiaA3WM), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Games \(Prins Thomas Diskomiks\)](https://open.spotify.com/album/3emSYEw7cGHEHlZtgK3EyZ) | 8:13 |
 | 18 | [Breathe \- Qrion Remix](https://open.spotify.com/track/7lZjor53FqYpyJb8Uc0Pve) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [Breathe \(Qrion Remix\)](https://open.spotify.com/album/5t0fkdOmBKTj7MzjkTuQHF) | 4:31 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pbGJDhTXK3.md) - [plain]
 | 49 | [This Soft Apocalypse](https://open.spotify.com/track/19SLtZkiiimfEy1mwWGFeM) | [Of Norway](https://open.spotify.com/artist/4USOu1WzfdbX4Ka0KY6vfz) | [This Soft Apocalypse](https://open.spotify.com/album/17IgvKjvNvTamb9NGboCpI) | 3:21 |
 | 50 | [HS](https://open.spotify.com/track/1R5dYnxQDgeceQA6mmdk9Q) | [André Bratten](https://open.spotify.com/artist/4JumlwBeaIE16moHUv3xzZ) | [Pax Americana](https://open.spotify.com/album/58JeZwpWQCpzZZeNJIlDFF) | 4:51 |
 
-Snapshot ID: `MCxlOTQ1MDI4NDM1Y2NkMWUxMTAyMmExODJhZjA3YzEyMTVmMmU4MzI5`
+Snapshot ID: `MCwyNWIzZDliYjJjNzZhODlkYTgxMzE4NTY0MTZlMDBlNzk2OGFkZGFk`

@@ -1,12 +1,12 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Michele BI en portada.",
-  "num_followers": 96450,
+  "num_followers": 96427,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTM4MWRmYTFlNDI4NGY4ZDlkZTQ5ZWExMDcyMGE0MTg0YjI0Yzdm",
+  "snapshot_id": "MCxiY2Q0MjI3ZDA2MDQ4OTFhNzNmNzVjMTQwN2IyNTYyNDBhMDQzOGY1",
   "tracks": [
     {
       "added_at": "2023-07-28 16:33:48",
@@ -561,22 +561,6 @@
       "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
     },
     {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Gente Gacha",
-        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
-      },
-      "artists": [
-        {
-          "name": "Ana B\u00e1rbara",
-          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
-        }
-      ],
-      "duration_ms": 175285,
-      "name": "Gente Gacha",
-      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
-    },
-    {
       "added_at": "2023-07-28 16:33:48",
       "album": {
         "name": "No Me Deja De Doler",
@@ -595,6 +579,22 @@
       "duration_ms": 157946,
       "name": "No Me Deja De Doler",
       "url": "https://open.spotify.com/track/2P77G1ApHDmnOzEbk8C6jn"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Gente Gacha",
+        "url": "https://open.spotify.com/album/7EhHe4ECphwqJq6yVeWATP"
+      },
+      "artists": [
+        {
+          "name": "Ana B\u00e1rbara",
+          "url": "https://open.spotify.com/artist/43qxAkuKFB6fMNSeS5dO7Z"
+        }
+      ],
+      "duration_ms": 175285,
+      "name": "Gente Gacha",
+      "url": "https://open.spotify.com/track/1CvkJpGglCo7iVTqjeTGb6"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -663,6 +663,22 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6VcNthQXZE5e8dMP44NpIw"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        }
+      ],
+      "duration_ms": 198102,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/1uzkk0F8vFqu6RaKZ2dNqA"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
         "name": "Te Mereces Un Amor",
         "url": "https://open.spotify.com/album/13BDfUfLPGTsDVP8Yue8nl"
       },
@@ -675,6 +691,22 @@
       "duration_ms": 226400,
       "name": "Te Mereces Un Amor",
       "url": "https://open.spotify.com/track/4BNzwsumpNIXB3t8boMsdD"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 226618,
+      "name": "El Barco",
+      "url": "https://open.spotify.com/track/0O195ut6Wlnv0ppzxmEpU4"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -695,22 +727,6 @@
       "duration_ms": 161927,
       "name": "Desaires",
       "url": "https://open.spotify.com/track/1Kr3Yod5u7TrZMTPqOeNto"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 226618,
-      "name": "El Barco",
-      "url": "https://open.spotify.com/track/0O195ut6Wlnv0ppzxmEpU4"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -751,22 +767,6 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6VcNthQXZE5e8dMP44NpIw"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        }
-      ],
-      "duration_ms": 198102,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/1uzkk0F8vFqu6RaKZ2dNqA"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
         "name": "Qu\u00edtame ese Hombre",
         "url": "https://open.spotify.com/album/63wfPXkXzSQXAb413lGXCg"
       },
@@ -779,6 +779,26 @@
       "duration_ms": 196874,
       "name": "Qu\u00edtame Ese Hombre",
       "url": "https://open.spotify.com/track/3bTQCOV78Zy2Rg276elgkM"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
+        "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Contreras",
+          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
+        },
+        {
+          "name": "Mari\u00e1n Oviedo",
+          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
+      "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -843,26 +863,6 @@
       "duration_ms": 162320,
       "name": "Prefiero Tomar",
       "url": "https://open.spotify.com/track/5vpA67Nbp1btxUWsfeVUQB"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
-        "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
-        "url": "https://open.spotify.com/album/5yVQrHPHs6fVqkeNDHrbQO"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Contreras",
-          "url": "https://open.spotify.com/artist/1NsmuNapGgs4tbrQ0rI9By"
-        },
-        {
-          "name": "Mari\u00e1n Oviedo",
-          "url": "https://open.spotify.com/artist/2hZUx50u5WartzUyQcEGci"
-        }
-      ],
-      "duration_ms": 180773,
-      "name": "\u00bfQui\u00e9n Te Dijo Que Es Por Ti?",
-      "url": "https://open.spotify.com/track/3UBUkGySM4xqnnook6Dvjq"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "\u00bfPor Qu\u00e9 No Vienes?",
-        "url": "https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm"
-      },
-      "artists": [
-        {
-          "name": "Vicky Terrazas",
-          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
-        }
-      ],
-      "duration_ms": 215346,
-      "name": "\u00bfPor Qu\u00e9 No Vienes?",
-      "url": "https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
         "name": "De Ti No Lo Esperaba",
         "url": "https://open.spotify.com/album/1inwitAIaD1Fe5Yx8f8NmK"
       },
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Homenaje A Mi Madre",
-        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
+        "name": "\u00bfPor Qu\u00e9 No Vienes?",
+        "url": "https://open.spotify.com/album/0YkM3kQNfaCjr5cUjNktzm"
       },
       "artists": [
         {
-          "name": "Marilyn Odessa",
-          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+          "name": "Vicky Terrazas",
+          "url": "https://open.spotify.com/artist/4DklMZnSnGfzavNx8P02VG"
         }
       ],
-      "duration_ms": 217626,
-      "name": "Sola Con Mi Soledad",
-      "url": "https://open.spotify.com/track/3cvK6LKGFN8U0LyHJ4TSSJ"
+      "duration_ms": 215346,
+      "name": "\u00bfPor Qu\u00e9 No Vienes?",
+      "url": "https://open.spotify.com/track/5OMUiJlu6MR1JAS7PVuIOY"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1175,6 +1159,22 @@
       "duration_ms": 268733,
       "name": "Mi Culpa",
       "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "Homenaje A Mi Madre",
+        "url": "https://open.spotify.com/album/4ezxx15PDgmL6Gc6G3VrhE"
+      },
+      "artists": [
+        {
+          "name": "Marilyn Odessa",
+          "url": "https://open.spotify.com/artist/26YaHstf1U8Wat4ZE3Nv5w"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Sola Con Mi Soledad",
+      "url": "https://open.spotify.com/track/3cvK6LKGFN8U0LyHJ4TSSJ"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1245,22 +1245,6 @@
       "url": "https://open.spotify.com/track/3VX6Iwk3LMKWLWZCX4xJwD"
     },
     {
-      "added_at": "2023-08-04 06:00:00",
-      "album": {
-        "name": "Si Dej\u00f3 de Quererte",
-        "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
-      },
-      "artists": [
-        {
-          "name": "Janeth Valenzuela",
-          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
-        }
-      ],
-      "duration_ms": 200864,
-      "name": "Si Dej\u00f3 de Quererte",
-      "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
-    },
-    {
       "added_at": "2023-07-28 16:33:48",
       "album": {
         "name": "...Y Lleg\u00f3 Para Quedarse",
@@ -1295,6 +1279,22 @@
       "duration_ms": 205840,
       "name": "Amiga",
       "url": "https://open.spotify.com/track/5fB1anQrnZBMnSjilCnAZ8"
+    },
+    {
+      "added_at": "2023-08-04 06:00:00",
+      "album": {
+        "name": "Si Dej\u00f3 de Quererte",
+        "url": "https://open.spotify.com/album/1BqYngNeUJFTQU4uypeg7g"
+      },
+      "artists": [
+        {
+          "name": "Janeth Valenzuela",
+          "url": "https://open.spotify.com/artist/4fqTtvwo9kLosNr5VPnx1G"
+        }
+      ],
+      "duration_ms": 200864,
+      "name": "Si Dej\u00f3 de Quererte",
+      "url": "https://open.spotify.com/track/1faGe10rEvZyYVfzve5ESU"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1349,6 +1349,22 @@
       "url": "https://open.spotify.com/track/6KOMoZ9OIjxF7pCmZ0ZIXX"
     },
     {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "Uno de los Buenos",
+        "url": "https://open.spotify.com/album/2AvHahqBPECo32t4COxfak"
+      },
+      "artists": [
+        {
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+        }
+      ],
+      "duration_ms": 176768,
+      "name": "Uno de los Buenos",
+      "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
+    },
+    {
       "added_at": "2023-08-04 06:00:00",
       "album": {
         "name": "Que Le Vamos A Hacer",
@@ -1367,22 +1383,6 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "Uno de los Buenos",
-        "url": "https://open.spotify.com/album/2AvHahqBPECo32t4COxfak"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 176768,
-      "name": "Uno de los Buenos",
-      "url": "https://open.spotify.com/track/4WNCgc6d0GZa18KjQSB81b"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
         "name": "Volver\u00e9 A Amar",
         "url": "https://open.spotify.com/album/52la7FZHARCdV9pOo09E2o"
       },
@@ -1395,6 +1395,22 @@
       "duration_ms": 240680,
       "name": "Volver\u00e9 A Amar",
       "url": "https://open.spotify.com/track/15AwwPqHhOSA3LviBHfIAN"
+    },
+    {
+      "added_at": "2023-07-28 16:33:48",
+      "album": {
+        "name": "No Te Fui Suficiente",
+        "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
+      },
+      "artists": [
+        {
+          "name": "Sandra Echeverria",
+          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+        }
+      ],
+      "duration_ms": 278666,
+      "name": "No Te Fui Suficiente",
+      "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2023-07-28 16:33:48",
       "album": {
-        "name": "No Te Fui Suficiente",
-        "url": "https://open.spotify.com/album/6kXkoHpJOaXE5m5Nl30qOh"
+        "name": "Le Cale A Quien Le Cale",
+        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
       },
       "artists": [
         {
-          "name": "Sandra Echeverria",
-          "url": "https://open.spotify.com/artist/0LfJXLNpLGZtn4OAki9W31"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 278666,
-      "name": "No Te Fui Suficiente",
-      "url": "https://open.spotify.com/track/2L4keb30QHo4pQzOpJ1W06"
+      "duration_ms": 152768,
+      "name": "Le Cale A Quien Le Cale",
+      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
     },
     {
       "added_at": "2023-07-28 16:33:48",
@@ -1459,22 +1475,6 @@
       "duration_ms": 193840,
       "name": "La Primera Piedra (En Vivo)",
       "url": "https://open.spotify.com/track/5k3Ajm3rvCI3L5IDXjZi8C"
-    },
-    {
-      "added_at": "2023-07-28 16:33:48",
-      "album": {
-        "name": "Le Cale A Quien Le Cale",
-        "url": "https://open.spotify.com/album/39KCoeSQExkWfgYx4UuvQn"
-      },
-      "artists": [
-        {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
-        }
-      ],
-      "duration_ms": 152768,
-      "name": "Le Cale A Quien Le Cale",
-      "url": "https://open.spotify.com/track/2nhM06RQQ8uY8s0JdCBKod"
     },
     {
       "added_at": "2023-07-28 16:33:48",

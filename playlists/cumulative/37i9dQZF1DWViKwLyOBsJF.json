@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "Carol of the bells",
+        "url": "https://open.spotify.com/album/5bnB0lyfexPZyQXNMYRQp0"
+      },
+      "artists": [
+        {
+          "name": "Tony Delvin",
+          "url": "https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "Carol of the bells",
+      "url": "https://open.spotify.com/track/3PE75Thjmn8hzSoXMWs9zB"
+    },
+    {
+      "album": {
         "name": "Carol of the Bells (arr. piano) / Christmas Time Is Here (arr. piano)",
         "url": "https://open.spotify.com/album/5vYP61VuwDOFaqRfUtrhf7"
       },
@@ -340,7 +358,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 293146,
       "name": "Carol of the Bells (arr. piano)",
       "url": "https://open.spotify.com/track/5FCJXbQPOgC68fpHnBgHWx"
@@ -611,6 +629,24 @@
     },
     {
       "album": {
+        "name": "Hark The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/4Dnkr99I1KiZluOWg9z5Ai"
+      },
+      "artists": [
+        {
+          "name": "Les Moray",
+          "url": "https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155075,
+      "name": "Hark The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/6vD4DVOnhf5N2NKkozKQlR"
+    },
+    {
+      "album": {
         "name": "Christian Hymns, Vol. 4, Organ Accompaniments (The Church Organist Series)",
         "url": "https://open.spotify.com/album/30AOxaN0uerFFVNBUVs8lT"
       },
@@ -644,7 +680,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 225031,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/7Ezy3sFFAS3kJntqZTWpXz"
@@ -680,7 +716,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 133461,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/5kVjBwOK1eZsfuLy6Mr75v"

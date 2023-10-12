@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 
 > Indie music to keep your gaming session properly soundtracked.
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,633 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,477 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 84 | [strawberry chainsaw](https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl) | [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [strawberry chainsaw](https://open.spotify.com/album/62JUc5rzLwVpGKwpawkTjL) | 2:36 |
 | 85 | [Cycle](https://open.spotify.com/track/4PIeScplhiEtwFywwRR5d9) | [Derivakat](https://open.spotify.com/artist/4T7KICeQg50AwFzauMCR9C), [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG) | [Cycle](https://open.spotify.com/album/3Zwvw2rSj6tbyr0cvQ54TE) | 3:04 |
 | 86 | [SUNRISE](https://open.spotify.com/track/0C3sscH57PNeQ8dmY6xTIR) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [SUNRISE](https://open.spotify.com/album/6m24WJWs47zUE3d3VhOdK3) | 2:56 |
-| 87 | [Baby Tonight](https://open.spotify.com/track/4Y6EyYdcDG77hdj8uvpdM0) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/5SFfKzez4Lh100nWLmupS0) | 3:18 |
-| 88 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/2Xl9SgLTp16bHEVdmUuJPi) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 4:06 |
+| 87 | [Tonight \(feat\. Ezra Koenig\)](https://open.spotify.com/track/2Xl9SgLTp16bHEVdmUuJPi) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU), [Ezra Koenig](https://open.spotify.com/artist/2nkAu4P6EVeQpXxiEhPTH6) | [Alpha Zulu](https://open.spotify.com/album/1jEwa4YdGR6FvKxWgRbJcv) | 4:06 |
+| 88 | [Baby Tonight](https://open.spotify.com/track/4Y6EyYdcDG77hdj8uvpdM0) | [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Baby Tonight](https://open.spotify.com/album/5SFfKzez4Lh100nWLmupS0) | 3:18 |
 | 89 | [Something Real](https://open.spotify.com/track/1tC7Kn0zul08kNgOnSm2GT) | [Lameboysharp](https://open.spotify.com/artist/2RXuhByfJ9xVRPDpotfoPY) | [Something Real](https://open.spotify.com/album/5IgdvVqArcvaiHHYV28Gbz) | 2:31 |
 | 90 | [Settle Down](https://open.spotify.com/track/0LACZ5yc1B7U7CIrVcJ6Fe) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [It's 2016 Somewhere](https://open.spotify.com/album/6suTADibkHRNH8K4Up3xec) | 2:58 |
 | 91 | [I Just Wanna](https://open.spotify.com/track/00qVenrhW7Lr9AwHgc7rOe) | [Superfan](https://open.spotify.com/artist/3BO07jDo7Qs7qNLdwRoISM) | [I Just Wanna](https://open.spotify.com/album/1oOZfgFNqap0vvG25bOeAE) | 4:14 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4geSlFB9288.md) - [plain]
 | 99 | [thankful](https://open.spotify.com/track/6DRCs3oOkPYa1NHdgjwHcZ) | [Meltycanon](https://open.spotify.com/artist/3agnCimLdkVM3mc4PFJUxC) | [Old Compilation 3](https://open.spotify.com/album/7CYCQNeHoMWXQXg9NzqTyM) | 2:26 |
 | 100 | [I've Never Been To LA](https://open.spotify.com/track/20JqRXl1m8oXqRyc8nqXtf) | [Oscar Lang](https://open.spotify.com/artist/6deCiWT7ATcDWP2Cvlalvn), [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [I've Never Been To LA](https://open.spotify.com/album/3Ct1O772WdBCY6Cv7q9JAd) | 3:06 |
 
-Snapshot ID: `MCxlZGJjMjc5ZWUxOTRiYjQyMmQ1NDk4NTg0ZTYxMTI5NzVkYTJjNTU1`
+Snapshot ID: `MCwxYTkzMjhmOGUwZmM1N2Y3NThmMDliMWU5ZDliYmI4ZGIyM2U1ZjMy`

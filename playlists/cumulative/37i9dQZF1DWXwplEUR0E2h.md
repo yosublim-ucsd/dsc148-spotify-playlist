@@ -4,7 +4,7 @@
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: EL FERXXO
 
-63 songs - 3 hr 20 min
+64 songs - 3 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,8 @@
 | [El Cielo](https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [El Cielo](https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f) | 3:11 | 2023-09-30 |  |
 | [EL RELOJ \(con Maluma\)](https://open.spotify.com/track/29eXmdhLZqDUNB8y62rYIZ) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [EL RELOJ \(con Maluma\)](https://open.spotify.com/album/7cw2HqGRaimaXNcTfHxMhR) | 3:00 | 2023-09-30 |  |
 | [En Mi Piel](https://open.spotify.com/track/7xkMZiXypSSqi7EIIYLDHF) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Fainal & Shako](https://open.spotify.com/artist/2aWyENWGXJIHKOY6BZ7DTD) | [En Mi Piel](https://open.spotify.com/album/2G87V7lMtUFAUXb9DqWaF3) | 3:29 | 2023-09-30 | 2023-10-11 |
-| [EY CHORY](https://open.spotify.com/track/74BwwBMcu6xNt7nWmtsCg1) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:57 | 2023-09-30 |  |
+| [EY CHORY](https://open.spotify.com/track/74BwwBMcu6xNt7nWmtsCg1) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:57 | 2023-09-30 | 2023-10-12 |
+| [EY CHORY](https://open.spotify.com/track/1npr0HhhkrcTOgqWOp76TM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:58 | 2023-10-10 |  |
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu) | 2:36 | 2023-09-30 |  |
 | [Ferxxo 100](https://open.spotify.com/track/6ipzb1kHhWIxp1tS0vwqPl) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Ferxxo 100](https://open.spotify.com/album/1qI0hQjYttNGAFzXR4Pu3H) | 2:47 | 2023-09-30 |  |
 | [FERXXO 30](https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:53 | 2023-10-05 |  |

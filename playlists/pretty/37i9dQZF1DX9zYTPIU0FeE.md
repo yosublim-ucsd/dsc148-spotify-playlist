@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/1g7pneoNO9Thq5oYQyR5Dy?si=7f7EU7StRLafRZ1CMVjKcQ">Thandi Ntuli</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,929 likes - 54 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,956 likes - 54 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,11 +56,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 | 46 | [Water Signs](https://open.spotify.com/track/2nsw0NQR8x2HCjgSZ4cnUV) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy), [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Simon Manana](https://open.spotify.com/artist/3q7fjTvf2EjwCnFKHr86x9), [Gontse Makhene](https://open.spotify.com/artist/3V7WKFF6UrGdI4jV6nBhHD), [Micca Manganye](https://open.spotify.com/artist/3UtkXcZLR9l1xzjTvp1aae) | [Water Signs](https://open.spotify.com/album/4yVOwDT9cBY7j30TQcA89d) | 6:18 |
 | 47 | [Yaka Yaka](https://open.spotify.com/track/3guSqYCPy6GidiSgklshzX) | [Vuma Levin](https://open.spotify.com/artist/5nJiuTEfd55CApEZiZUtlX) | [Yaka Yaka](https://open.spotify.com/album/2bBnV2FWnWJx76qvvlAMcn) | 6:54 |
 | 48 | [Intlokomo](https://open.spotify.com/track/3DOxqzFrfbegRHgX7xn2Du) | [Xhanti Nokwali](https://open.spotify.com/artist/7deeTVfFQNS9ShFtnNgQ8M) | [Intlokomo](https://open.spotify.com/album/2NDAw04JKZfgGCIwqtlMdG) | 6:58 |
-| 49 | [Mogaetsho](https://open.spotify.com/track/4cs9zPibRaJWnpinq2OCjA) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Radio Sechaba](https://open.spotify.com/album/0gJH7Mg6iDdjxFssLUHTGj) | 5:32 |
+| 49 | [Mogaetsho](https://open.spotify.com/track/6M7qRhvKFVoczT8Nlrasdq) | [Bokani Dyer](https://open.spotify.com/artist/1BEfHN0wvVGDXaQCWDqIyy) | [Radio Sechaba](https://open.spotify.com/album/5qK3CSS06KxQ7zF4xnFWJB) | 5:32 |
 | 50 | [Where The Heart Is](https://open.spotify.com/track/43COSQ9QZsY47ZariNFRnS) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 5:27 |
 | 51 | [Bhaca Blue](https://open.spotify.com/track/4AncHenxnWxZS5ftGRZLc2) | [Steve Dyer](https://open.spotify.com/artist/61aqbPYgQBxkHz5zs4L1YO) | [Genesis of a Different World](https://open.spotify.com/album/1jpy0s4HMRWrT2RIJDWkp9) | 7:56 |
 | 52 | [House of the Rising Sun](https://open.spotify.com/track/2jMSBk8jNymJngmMj9jGxT) | [Somi](https://open.spotify.com/artist/6UYqtBD79GpmqjttbzV6iA) | [House of the Rising Sun](https://open.spotify.com/album/4ywreEPoWhZilE0Asy9Wof) | 3:45 |
 | 53 | [Nandi's Suite \(1st Mov\)](https://open.spotify.com/track/1O1qPvS595hMv3WxXprDlx) | [Ndabo Zulu](https://open.spotify.com/artist/2y5IQvsu5Q78XVuCREkQ33), [Umgidi Ensemble](https://open.spotify.com/artist/3urMiFwlK23Hjs6zd9Wr5S), [Afrika Mkhize](https://open.spotify.com/artist/6BxxONpaeoIFqbZXzlbzGf), [Ayanda Sikade](https://open.spotify.com/artist/6F9LoTvwNSxtAVFj5i6Hnh), [Linda Sikhakhane](https://open.spotify.com/artist/21Vw6haIClrf19wKkA68on), [Mbuso Khoza](https://open.spotify.com/artist/0IqdIwmnDCHg3LogqhJvpW), [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft), [Ngari Ndong](https://open.spotify.com/artist/3hSbU7bsDQSnZSZhbDEpAO), [Njabulo Shabalala](https://open.spotify.com/artist/0rwnXBO4t7iivrfkI6qbsq), [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [Siya Charles](https://open.spotify.com/artist/1QZspTSI3KM0AArNidhH3g), [Sphelelo Mazibuko](https://open.spotify.com/artist/0GueyvsufjRXgZBARevbZT) | [Queen Nandi: The African Symphony](https://open.spotify.com/album/5zXUIyeSDzpj1oCohjCZii) | 17:09 |
 | 54 | [Kucheza](https://open.spotify.com/track/6xSE8mjOiwe0qrIpd8YTvc) | [Shane Cooper](https://open.spotify.com/artist/2NFkaT0OaYcQiY1UsW9JtZ), [MABUTA](https://open.spotify.com/artist/4Z6IP9yKpOBbitoDKeMIFI) | [Finish The Sun](https://open.spotify.com/album/2aDnrY3VewxtdyuMCuDAAD) | 4:32 |
 
-Snapshot ID: `MCxhMDZhN2FlMmYxYjE1YTM3YzY1MmRlMjI2NTRjZDY1MThlZjk2NWU1`
+Snapshot ID: `MCwyZjdjN2IxODQzY2NhNDQyODYzNTVhYjk1MTk4NGZhMjM1ZjI1YjJi`

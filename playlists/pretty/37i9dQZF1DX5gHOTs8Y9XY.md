@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 
 > A beginners introduction to the beauty of Jazz\. Cover: Chet Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,794 likes - 100 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,903 likes - 100 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 31 | [The Girl From Ipanema](https://open.spotify.com/track/3898C4AbdbptwYet6547e5) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8) | [The Girl From Ipanema \- The Bossa Nova Years](https://open.spotify.com/album/4I26wT2bckDbv8Xl5iVInQ) | 5:21 |
 | 32 | [Love Me Or Leave Me](https://open.spotify.com/track/2XzHou7MZzOBQBqjWw86Nt) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Let It All Out](https://open.spotify.com/album/4bGiPtwVEKcXbXs7oKCMqD) | 4:04 |
 | 33 | [As Time Goes By](https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [The Complete Commodore Recordings](https://open.spotify.com/album/7zSWkh1YCGAo4zO7nje22z) | 3:14 |
-| 34 | [Nature Boy](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
-| 35 | [Georgia On My Mind](https://open.spotify.com/track/7p6ZeiNtEHJKmc4YWBZELG) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 3:43 |
+| 34 | [Georgia On My Mind](https://open.spotify.com/track/7p6ZeiNtEHJKmc4YWBZELG) | [Oscar Peterson Trio](https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A) | [Night Train \(Expanded Edition\)](https://open.spotify.com/album/3gPOWmWT0q7Ygp95Xiuw1v) | 3:43 |
+| 35 | [Nature Boy](https://open.spotify.com/track/2WMyu5IYgxEuCd6xgFgJrl) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [The Nat King Cole Story](https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH) | 2:53 |
 | 36 | [I'm Glad There Is You](https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:27 |
 | 37 | [Misty](https://open.spotify.com/track/7gHFBNy0Qn86xGKJ9OdFTw) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan's Golden Hits](https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU) | 2:59 |
 | 38 | [Mack the Knife](https://open.spotify.com/track/0RNxWy0PC3AyH4ThH3aGK6) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [The Great American Songbook](https://open.spotify.com/album/3AiEMTv9oFDRaDjqv93mOU) | 3:21 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 65 | [Let's Do It](https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:05 |
 | 66 | [Sing, Sing, Sing](https://open.spotify.com/track/61znp1Iy11bdJ2YAbwaqw7) | [Benny Goodman](https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve) | [Ken Burns Jazz\-Benny Goodman](https://open.spotify.com/album/2fIAk4u4vd8yy8th8ZSlbS) | 8:40 |
 | 67 | [Visa från Utanmyra](https://open.spotify.com/track/1CRxANVlNyN2IYjarx96gU) | [Jan Johansson](https://open.spotify.com/artist/6DEfX2tZzx9iANmaErvLGf) | [Jazz på svenska](https://open.spotify.com/album/6JAj80R40giQEAg3Le4CPE) | 4:33 |
-| 68 | [Dindi](https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:41 |
-| 69 | [Mean To Me \- Remastered/1998](https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:10 |
+| 68 | [Mean To Me \- Remastered/1998](https://open.spotify.com/track/4R6rf3KbP45JST6Cr3Enry) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [This Time I'm Swingin'](https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y) | 2:10 |
+| 69 | [Dindi](https://open.spotify.com/track/13Nh6UPBy8WgoTc5l7iGR8) | [Astrud Gilberto](https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF) | [The Astrud Gilberto Album](https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E) | 2:41 |
 | 70 | [Dedicated To You](https://open.spotify.com/track/7981FAW8DbDs1ueK4Ha8R2) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Johnny Hartman](https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo) | [John Coltrane And Johnny Hartman](https://open.spotify.com/album/5e3mq4TT4RLn4VXfgKV6MU) | 5:32 |
 | 71 | [Never Let Me Go](https://open.spotify.com/track/2CUE9wgebjfvbu8It4RmZn) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Matt Skelton](https://open.spotify.com/artist/1Ak5vW938xaMoVfXuHeZfA), [Dave Chamberlain](https://open.spotify.com/artist/39LRDjCTn1f255RhV5cmyF) | [Breakfast on the Morning Tram \(Bonus Edition\)](https://open.spotify.com/album/6XmdcBZamVqXAQflgp9ksR) | 4:39 |
 | 72 | [Blue Bossa \- Remastered](https://open.spotify.com/track/6qqK0oeBRapZn8f9hJJENw) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Page One](https://open.spotify.com/album/7mQGTuvmdp56DNz0AmMwWi) | 8:02 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5gHOTs8Y9XY.md) - [plain]
 | 99 | [St\. Thomas](https://open.spotify.com/track/05LNBtMuc26HSAHh7C6iG8) | [Sonny Rollins](https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR), [Tommy Flanagan](https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d), [Doug Watkins](https://open.spotify.com/artist/3j0ZsENc1qq8vQ0stKX2z1), [Max Roach](https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g) | [Saxophone Colossus](https://open.spotify.com/album/2dtjLAwt7Cq763h6AupyPZ) | 6:47 |
 | 100 | [Alone Together](https://open.spotify.com/track/7lApnj6eswDJvT8mqGrut6) | [Sonny Stitt](https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj) | [New York Jazz](https://open.spotify.com/album/5iQMDqjUmF9ZY1sLsK5Vmm) | 4:51 |
 
-Snapshot ID: `MCxlNjFlNTE1OTgyOGY3ZmM3YzRiNjc4MTg0ZTdjYWQ4MTBjODQzNzA3`
+Snapshot ID: `MCxkZDc4NWY1M2Q0MzU3YjJiNmY0ZTI1ZDU2NWU0MjVkOTkxYmNiMmQ3`

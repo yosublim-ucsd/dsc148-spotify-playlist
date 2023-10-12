@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 
 > The contemporary new wave of alternative, genre\-bending and creative afro\-fusion music\. Cover: <a href="https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y?si=p00iAOWFRAyx6PqoW684Bg"> Prettyboy D\-O </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,903 likes - 76 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,928 likes - 76 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ja5oV6Kto0.md) - [plain]
 | 75 | [Lifeline](https://open.spotify.com/track/7cE3h9KJvSM1GUBAdms8Hy) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r), [3kene](https://open.spotify.com/artist/17OB2zVYkeBD5fX4PG1eZv), [Tim Lyre](https://open.spotify.com/artist/4iYJ88IcQS4GFqLqWGE5yx) | [Lifeline](https://open.spotify.com/album/4fMsahuiYmcQrooQMouiY3) | 2:53 |
 | 76 | [Love Me or Die](https://open.spotify.com/track/2cBHL4166AAaVN57hXlOkc) | [Anabel Rose](https://open.spotify.com/artist/3eVgQnpc2p4D7ora60WBKb) | [Love Me or Die](https://open.spotify.com/album/1qfrOp11Qy09gcyBDS1o5w) | 3:39 |
 
-Snapshot ID: `MCw2Njc4M2FhYjIxZjI2NWU5YmRkYzEzMDM3ODVjYzg4MzJlYjY2ZDhi`
+Snapshot ID: `MCxjNzU1OWNmZDFiNTVmZTcwOTRkMGFiZDE1YTg3Njk2YzE1NzVkZTdi`

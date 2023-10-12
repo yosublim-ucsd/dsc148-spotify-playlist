@@ -1677,6 +1677,42 @@
     },
     {
       "album": {
+        "name": "Sugar-holic",
+        "url": "https://open.spotify.com/album/1eFW6R2WJUCHWSHchYkLN2"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183146,
+      "name": "Sugar-holic",
+      "url": "https://open.spotify.com/track/47YvjyoCQpYwZbRj0Rs985"
+    },
+    {
+      "album": {
+        "name": "Strong Girl Nam-soon (Original Television Soundtrack), Pt.1",
+        "url": "https://open.spotify.com/album/1atx6ADNPFNf3PKvBiSa6l"
+      },
+      "artists": [
+        {
+          "name": "ITZY",
+          "url": "https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175600,
+      "name": "SUPERPOWERS",
+      "url": "https://open.spotify.com/track/2T0cn0hvGrG8vqqB8sK4zX"
+    },
+    {
+      "album": {
         "name": "Not Shy",
         "url": "https://open.spotify.com/album/0aqu2V5ohKHVfWqVFE7Ila"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 
 > essa é só pra quem vive no 2.0x
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,008 likes - 65 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,091 likes - 65 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 23 | [Karma \- Speed](https://open.spotify.com/track/1cX47FI8Fasq3pY6p6kXV4) | [Gapes](https://open.spotify.com/artist/3ADff4whbAS71o4L1B3vYu), [fallkee](https://open.spotify.com/artist/6Hchz4vXMjAxlkpjiwQC4o), [Dougb](https://open.spotify.com/artist/74FaA4BR2SefBgRTPa8jJh) | [Karma](https://open.spotify.com/album/28Ie3Vq0wTIfjnrfrHsFS6) | 2:00 |
 | 24 | [Plug! \(Speed Plug\)](https://open.spotify.com/track/3LZIqLS8BfUZp9T1k39IZb) | [Muzzi](https://open.spotify.com/artist/6J9B0QuNm4QTuyjsHveigy) | [Plug! \(Speed Plug\)](https://open.spotify.com/album/16zg9fzXtFEqb0q0367yxd) | 1:42 |
 | 25 | [Palhaçada Speed](https://open.spotify.com/track/0p3W8vsHX4OjaCHypFM3Hl) | [Avelar Music](https://open.spotify.com/artist/5AlccduhApCtX7ssks4AJ1), [Belim](https://open.spotify.com/artist/6Cb97YqzKJbAxQuHzEDJnb) | [Palhaçada Speed](https://open.spotify.com/album/1fKdX1WUjbyGyeijMhZqBw) | 2:29 |
-| 26 | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/track/6fpUsqLmeozvHBzWPJslmZ) | [Eusoares085](https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg) | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/album/797TrPg1DNXRxrEkuaZJJi) | 1:43 |
-| 27 | [Aff \- Speed Up](https://open.spotify.com/track/2KvhoUSJ3m6BYGefGVzjmX) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena \(Deluxe\)](https://open.spotify.com/album/2i9A3MdMLm2DaslCoMZMKX) | 2:26 |
+| 26 | [Aff \- Speed Up](https://open.spotify.com/track/2KvhoUSJ3m6BYGefGVzjmX) | [VICTIN](https://open.spotify.com/artist/3brCnZDTt5fHf0BBXvPa6p) | [Jesus Invadiu a Cena \(Deluxe\)](https://open.spotify.com/album/2i9A3MdMLm2DaslCoMZMKX) | 2:26 |
+| 27 | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/track/6fpUsqLmeozvHBzWPJslmZ) | [Eusoares085](https://open.spotify.com/artist/0T4h7cQARJcizvV3JuKasg) | [Posturado e Calmo \(Speedplug\)](https://open.spotify.com/album/797TrPg1DNXRxrEkuaZJJi) | 1:43 |
 | 28 | [Amizade Colorida, É QUE AGENTE TRANZA E NUNCA BRIGA](https://open.spotify.com/track/3JHUfpS7hQPeYwjBBZ690R) | [Dj LD da Favelinha](https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7), [Dj Kiko Da Vila](https://open.spotify.com/artist/3U63q6lmdoAJeS5LlgjS1Z) | [Amizade Colorida, É QUE AGENTE TRANZA E NUNCA BRIGA](https://open.spotify.com/album/39tM6ABIBGChLivVHYCie3) | 2:43 |
 | 29 | [VOCÊ SE ENTREGA PRA MIM, DESCE SÓ MAIS UM POUQUINHO x BEAT RISADINHA](https://open.spotify.com/track/4LMaUEcFZKgp2K7fdHeBNk) | [TIKTOK HITS](https://open.spotify.com/artist/6tAbLbYX95ec4We3uKX9eK), [LC DAS CASINHAS](https://open.spotify.com/artist/5WOCgbVvcC8JHGpraobo2C) | [VOCÊ SE ENTREGA PRA MIM, DESCE SÓ MAIS UM POUQUINHO x BEAT RISADINHA](https://open.spotify.com/album/44K9gZCrMa2B7TPz9Qt9AJ) | 2:46 |
 | 30 | [Ele Te Bota Soca Soca \- Speed Up](https://open.spotify.com/track/548LVIsbvfP70STa240ZeI) | [MC Mazzie](https://open.spotify.com/artist/05bZ3QOlK7vfflzspO0Jk5), [Mc Rd](https://open.spotify.com/artist/6ugw7JCu0AG7txRcRAxU8d), [DJ Wizard](https://open.spotify.com/artist/2S1GntfP92SLbiPaiQsy8P), [DJ NpcSize](https://open.spotify.com/artist/00B9mff8749d1A2LOLH41b) | [Ele Te Bota Soca Soca \(Speed Up\)](https://open.spotify.com/album/3rFJruJgtv2Y83i5dUydCg) | 2:08 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYNc7NGKACaE.md) - [plain]
 | 64 | [Como Era Antes..\. \(Speed Up\)](https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ) | [rs9](https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9) | [Como Era Antes](https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98) | 1:04 |
 | 65 | [Tipo Naldo \- Speed Up](https://open.spotify.com/track/2qtBBIFce6oCciYrb84Mgh) | [tiaresz](https://open.spotify.com/artist/4v6LpdfGfBSAdeVdBgUasP), [DJ Wkilla](https://open.spotify.com/artist/5nHUlAMjYkOtzSvqwzcdUW) | [Tipo Naldo](https://open.spotify.com/album/02ZI31XkyjAi7w9zANAUMQ) | 2:18 |
 
-Snapshot ID: `MCw1NWJlMDk3MTQzZGJmNWNiYmU1NjcyNjUyY2FhZDEzMTBiMmJhYzE1`
+Snapshot ID: `MCwxODFjYjNiMjczYzdhYzU1NTI1NjY4ODZiNDM2MGJhNDE5Zjc4ZjRl`

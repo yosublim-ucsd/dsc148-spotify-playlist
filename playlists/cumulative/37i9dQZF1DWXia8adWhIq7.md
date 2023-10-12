@@ -2,9 +2,9 @@
 
 ### [Pop Gospel](https://open.spotify.com/playlist/37i9dQZF1DWXia8adWhIq7)
 
-> Ouça as novidades e sucessos do Pop Cristão\. Foto: Jessé Alcantara
+> Ouça as novidades e sucessos do Pop Cristão\. Foto: LUDI
 
-140 songs - 8 hr 25 min
+141 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [Pense Bem](https://open.spotify.com/track/6MbLxZrhRG0aWpL4xYtKGE) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Pense Bem](https://open.spotify.com/album/2HLEZqD8E8VxUTJJAQWtOJ) | 4:00 | 2023-03-17 |  |
 | [Pequenas Coisas](https://open.spotify.com/track/336AL4KrdFPQdKpV34cmWe) | [Louisy Cim](https://open.spotify.com/artist/4Uf6qZxVwThUiucblxC0Et) | [Pequenas Coisas](https://open.spotify.com/album/13OgPKKENrLrisf9GFKDGQ) | 2:39 | 2022-08-05 |  |
 | [Plano B](https://open.spotify.com/track/3aYe9vkyWX31Z39LpvMh2x) | [Duo Franco](https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b) | [Acoustic Sessions, Vol\. 6](https://open.spotify.com/album/6g0Oh5EfUs8ocQ8Mhc1q2n) | 2:45 | 2022-08-05 |  |
-| [Planos Melhores](https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL) | [Andressa Cordeiro](https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF) | [Planos Melhores](https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul) | 3:04 | 2022-08-05 |  |
+| [Planos Melhores](https://open.spotify.com/track/1DnacuelO6vaD1Sr2V7iHL) | [Andressa Cordeiro](https://open.spotify.com/artist/7iICuF7ma3KioXKdjyafmF) | [Planos Melhores](https://open.spotify.com/album/0pz4ntxUkuSSvMmI6tXQul) | 3:04 | 2022-08-05 | 2023-10-12 |
 | [Ponto de Paz](https://open.spotify.com/track/3e91JWy8Ry9Q0fdWwEDQlb) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ponto de Paz](https://open.spotify.com/album/4Yy8ikznHTg6WRHKuD8SzP) | 3:00 | 2022-08-05 |  |
 | [Pra Onde Eu Irei](https://open.spotify.com/track/5ov7UiWwVdsSwgJZTD9plp) | [Jana Vitória](https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Pra Onde Eu Irei](https://open.spotify.com/album/1ajdIRELwERVp8ksi8My8l) | 2:13 | 2023-09-25 |  |
 | [Pra Onde Vou Correr](https://open.spotify.com/track/1rJpxLz9szBRy1t1Mg2sVE) | [Jessé Alcantara](https://open.spotify.com/artist/5T7DnnHhIPE3aaftSLRJ0X), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Pra Onde Vou Correr](https://open.spotify.com/album/0RQmuhQgvKDgqlHsGLLcmq) | 3:35 | 2023-09-01 |  |
@@ -119,6 +119,7 @@
 | [Só o Começo](https://open.spotify.com/track/3XyG8qQQB0QzxPJd51n4bK) | [Pedro Valença](https://open.spotify.com/artist/2fBxIdkeMcxcjtBlPuWZl7), [Paula Schneider](https://open.spotify.com/artist/5Kt0ujNgqacGJGPZAsWwoS), [Gustavo Barrinovo](https://open.spotify.com/artist/2EFtQmnZjBUhu3YQJJaElL) | [Só o Começo](https://open.spotify.com/album/6CkdcKnXPn3LPfZ5R7SvgO) | 4:44 | 2022-08-05 |  |
 | [Te Encontrar](https://open.spotify.com/track/3MOm8XpEt9xACdadSFHXfQ) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Te Encontrar](https://open.spotify.com/album/2wBoEUm3ezJ8l0qO0OALlr) | 2:47 | 2023-09-15 |  |
 | [Te Encontrar](https://open.spotify.com/track/6Jvg1itfQDGuKLFX9jcSN6) | [Boanerges](https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG), [MATXS](https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y) | [Te Encontrar](https://open.spotify.com/album/5b5Qyj7p4dRoIXbOmcCQmV) | 2:47 | 2023-07-21 | 2023-09-16 |
+| [Te Encontrei](https://open.spotify.com/track/38WAmJAfLglN00HGmqDBl2) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Te Encontrei](https://open.spotify.com/album/761WHhYcvTwESYg06VGJMz) | 3:04 | 2023-10-11 |  |
 | [Te Vejo](https://open.spotify.com/track/6CS88lKEQ0A7xvGqL0r5Z1) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Te Vejo](https://open.spotify.com/album/4F5ccF1Z6aw4YHXvHZkohv) | 3:30 | 2022-08-05 |  |
 | [Te Vejo Lá](https://open.spotify.com/track/1J3AyZHElKl8EDeXXdreJO) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Por Completo](https://open.spotify.com/album/0foeg5VyoAQBSmWf3JNCHx) | 3:32 | 2022-08-05 | 2023-03-18 |
 | [Tens o Meu Sim](https://open.spotify.com/track/2VW8ntuRL6gWNyhQ1tJmCQ) | [Amanda Dutra](https://open.spotify.com/artist/7cgQz3P8pAb9fEAr33Apo1) | [Tens o Meu Sim](https://open.spotify.com/album/57Fxlm00hYPsdzsaFYfUfx) | 3:44 | 2022-08-05 |  |

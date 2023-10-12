@@ -488,7 +488,7 @@
       ],
       "date_added": "2023-03-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 227994,
       "name": "Dooram",
       "url": "https://open.spotify.com/track/2XU0F3MuaqimD5RJkTaNUw"
@@ -2786,6 +2786,24 @@
       "duration_ms": 267272,
       "name": "Saagave Manasa",
       "url": "https://open.spotify.com/track/59sZ0SlnVdZGHR6psqE8HW"
+    },
+    {
+      "album": {
+        "name": "Sara Sara",
+        "url": "https://open.spotify.com/album/6OKdkEQdcwGyhvkaocFwZm"
+      },
+      "artists": [
+        {
+          "name": "Kiran Surath N",
+          "url": "https://open.spotify.com/artist/3HtIU5rxQT1V2GiAorUK8I"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 64026,
+      "name": "Sara Sara",
+      "url": "https://open.spotify.com/track/44cftS2B4BP2bvOSarSM6x"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Las grandes canciones escritas por El Buki.
 
-187 songs - 11 hr 52 min
+188 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [Más Que Tu Amigo](https://open.spotify.com/track/1Vy7WUJubV9JEoebuJ9dfe) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Tu Amor O Tu Desprecio](https://open.spotify.com/album/6335RBM5tYZal0oSZm6jvW) | 3:29 | 2021-11-12 |  |
 | [Más Que Tu Amigo](https://open.spotify.com/track/3kiUwC7AzDzGNYzy27QIhN) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:12 | 2021-11-12 |  |
 | [Nada Es Igual](https://open.spotify.com/track/3FPyEh683Et820zkVWHBoB) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 3:06 | 2021-11-12 |  |
-| [Nada Que Me Recuerde A Ti](https://open.spotify.com/track/3TVwCVYDOFmEiwvvOC82Lw) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:53 | 2021-11-12 |  |
+| [Nada Que Me Recuerde A Ti](https://open.spotify.com/track/3TVwCVYDOFmEiwvvOC82Lw) | [José Madero](https://open.spotify.com/artist/62nVRNDLaS8m1p31F6omGw) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:53 | 2021-11-12 | 2023-10-12 |
 | [Navidad Sin Ti](https://open.spotify.com/track/1TXfox4cwT9ubQJXwAnouX) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Navidad Con La Regida](https://open.spotify.com/album/0yFixxmec99yoUUMPsr6kT) | 4:27 | 2021-11-12 | 2023-02-25 |
 | [Necesito una Compañera](https://open.spotify.com/track/0g4K2MIS85uIwUsGxKDIig) | [Jonatan Sanchez](https://open.spotify.com/artist/4RBmbtdnz7QK9ddu4CWz1L) | [Necesito una Compañera](https://open.spotify.com/album/4heY34LeaTojXCBSPUw0lK) | 3:48 | 2021-11-12 |  |
 | [Necesito una Compañera](https://open.spotify.com/track/2m2QR2IBpKL2JbVBj0BlYA) | [La Furia del Bravo](https://open.spotify.com/artist/0CwDMNmupPq7JSl4uxPWV3) | [Necesito una Compañera](https://open.spotify.com/album/1xCTONzIVInu4NuiFV169l) | 3:06 | 2021-11-12 |  |
@@ -110,6 +110,7 @@
 | [No Puedo Olvidarlo](https://open.spotify.com/track/2Qdstn5Es96WKrQRQmH4xc) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Sin Él](https://open.spotify.com/album/2gdMNqzuHWdjHyjUK6I5AK) | 3:59 | 2021-11-12 | 2022-07-29 |
 | [No Puedo Olvidarlo](https://open.spotify.com/track/3cbJ48vdcTrBMeereYxYUc) | [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [15 Éxitos de Marisela Vol\. 1](https://open.spotify.com/album/6YLiyX7kvfDkKu1AGhQj6z) | 4:03 | 2021-11-12 |  |
 | [O Me Voy O Te Vas](https://open.spotify.com/track/5HfJ5uKjuwike6nQxN5H3X) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [40 Años](https://open.spotify.com/album/7sdxT72joGJ75h3KVEqfLh) | 4:51 | 2021-11-12 | 2022-07-29 |
+| [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 | 2023-10-11 |  |
 | [O Me Voy O Te Vas](https://open.spotify.com/track/5ZAhWa5A8cr5Ph0BR8dyQl) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:51 | 2021-11-12 |  |
 | [Olvídame tú \(with Marco Antonio Solís\) \- MTV Unplugged](https://open.spotify.com/track/7gyYCmhtVoEgqiErO3iVn1) | [Miguel Bosé](https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [MTV Unplugged](https://open.spotify.com/album/4B0mVzwgm0IihR4Qzg82FO) | 4:39 | 2021-11-12 |  |
 | [Para Que No Te Vayas](https://open.spotify.com/track/2WMgMvIKhQW6LmkSCA5Ct6) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:16 | 2021-11-12 | 2022-07-27 |

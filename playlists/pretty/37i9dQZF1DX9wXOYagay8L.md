@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 
 > Beautiful proudly South African gems\. Cover: <a href="https://open.spotify.com/artist/0gJquJFhW829uQhytBRNT5?si=yL5BGjYkRlWFri8pmu05Fg">Azana</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,171 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,250 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9wXOYagay8L.md) - [plain]
 | 49 | [Umntu](https://open.spotify.com/track/4HG5pEkuERhQ6Y9HWKiLkr) | [Bravo Le Roux](https://open.spotify.com/artist/7w1eHsswsDyA7oevlUvNbY), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Umntu](https://open.spotify.com/album/6gFP86yvqkNRvLAaw4ptnF) | 3:56 |
 | 50 | [Luthando](https://open.spotify.com/track/4AsLvBX0FwCBvaN5GDGz42) | [Vico da sporo](https://open.spotify.com/artist/2EkWKzVuqZfkSOZv6l8yXd), [Sandile](https://open.spotify.com/artist/5mApcr740y6tGusKPPNkb4) | [Bandlase](https://open.spotify.com/album/0pjabAOKogpe019KUyPiSe) | 4:46 |
 
-Snapshot ID: `MCxkOGU2Njg1NTY0OWZjODM3NDM3NWJlZGQ1NWEyZWUzMDFkYzAyOTQw`
+Snapshot ID: `MCw3YmFlZTA3ZjRiODJiMTQ4OTg5NTY2ZDAzMDkxMDc5MmZiODZhMDA4`

@@ -2,9 +2,9 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Zior Park\(지올팍\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Xdinary Heros\) \(핫한 국내 록 음악을 만나보세요!\)
 
-529 songs - 1 day 8 hr 30 min
+531 songs - 1 day 8 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,6 +65,7 @@
 | [Blue Voyage](https://open.spotify.com/track/6s1vHqyxFQKPqAhMwHVZyT) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Trip:Tape \#03](https://open.spotify.com/album/2nX3XXhjp9ME34rATFEWk9) | 3:09 | 2022-06-03 | 2022-07-28 |
 | [BOCA](https://open.spotify.com/track/2u7p3Bzkv8h0Yx7w7R370n) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Dystopia : Lose Myself\]](https://open.spotify.com/album/0cDPkovaIsxLcIghyT9LKz) | 3:09 | 2023-07-31 |  |
 | [BOCA](https://open.spotify.com/track/37Ctz6MOHM2thzNIOMo7Z0) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [［Dystopia : Lose Myself］](https://open.spotify.com/album/4tKKN5LO7CcTOcsSV3OmMQ) | 3:09 | 2022-04-12 | 2023-08-02 |
+| [Break the Brake](https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 | 2023-10-11 |  |
 | [Break Through](https://open.spotify.com/track/7A45JvsGzoiGPZBFmPIxGp) | [Soulights](https://open.spotify.com/artist/35ducZNsJuhyWmHnhHAADz) | [Break Through](https://open.spotify.com/album/0NELqOfC7kZ4uXrgo5DDUT) | 4:06 | 2022-07-22 | 2022-08-02 |
 | [break up](https://open.spotify.com/track/1vvnAjGNySweI5iBb1xuOh) | [Deepshower](https://open.spotify.com/artist/117Rg4kISlVXLtYDzYL7gS), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [break up](https://open.spotify.com/album/1HX8lBHyJisMzf5YLyMoKF) | 3:09 | 2022-04-12 | 2022-07-28 |
 | [BULLY](https://open.spotify.com/track/4A0BDmZFJY7cXhGRaRIjb1) | [ABTB](https://open.spotify.com/artist/4xS1C9pM9EoHEM1Gxxzf4m) | [iii](https://open.spotify.com/album/2gv803EGREwibN37uQk2Em) | 3:46 | 2022-11-09 | 2022-12-13 |
@@ -73,6 +74,7 @@
 | [Bye My Dear](https://open.spotify.com/track/2DMXlmSEvKC6kzDkYJdSkK) | [TILDE](https://open.spotify.com/artist/4dkrSmtmfRErNiFaQx0IAq) | [Bye My Dear](https://open.spotify.com/album/1nLojqad99fsjcDmiywiqn) | 4:26 | 2022-08-19 | 2022-09-06 |
 | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/track/0wp8u1swtx3sVvJw3dxXmY) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [C.I.T.T \(Cheese in the Trap\)](https://open.spotify.com/album/0EE8K1IGciwDPMiURGtEBf) | 2:57 | 2022-05-03 | 2022-11-10 |
 | [Caffeine](https://open.spotify.com/track/1iPyLLD8wEtuQAUrsZ6srD) | [Kim Bada](https://open.spotify.com/artist/5OBvrcugjadLmcYy3ecTXW), [Lanalogue](https://open.spotify.com/artist/0MwiBH4jzg2Ls1cX9LQQzQ) | [BXXL](https://open.spotify.com/album/34UeGS3N096dSc9s3opkVM) | 2:45 | 2022-05-03 | 2022-05-12 |
+| [Call me back](https://open.spotify.com/track/7aDdUvESR5RyNx3W7VL7cK) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [Call me back](https://open.spotify.com/album/1kxisGHg83NRPqjf5c6OT8) | 3:23 | 2023-10-11 |  |
 | [Cape](https://open.spotify.com/track/6NpTVrEK8x4oNLiaUartCK) | [Suzy](https://open.spotify.com/artist/4U80LJd8sG6U9YTFP5izka) | [Cape](https://open.spotify.com/album/4FptBJzdZO2HUTvSF9UrFu) | 4:24 | 2022-10-07 | 2022-12-13 |
 | [Chance](https://open.spotify.com/track/2DfoKySsCsAABuPSgEbzcb) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lord of Heroes OST Part 1](https://open.spotify.com/album/75ZMTjX52zVKPRXnHbwNve) | 3:43 | 2022-04-22 | 2022-06-18 |
 | [Cherry](https://open.spotify.com/track/5c4bHpviRNCj9utPYNKsTP) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [Cherry](https://open.spotify.com/album/5KEoa9NpQYwraWlMYvrj7V) | 3:16 | 2022-05-03 | 2022-07-15 |
@@ -123,7 +125,7 @@
 | [EUROPA](https://open.spotify.com/track/4W4VAVZneeUiwApBDFFMoB) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [EUROPA](https://open.spotify.com/album/5yMQGkOurBkgYa6f1vDof9) | 2:51 | 2023-07-24 | 2023-08-18 |
 | [Evening Glow](https://open.spotify.com/track/1Yuua9AnSRDl0taHxpVNzM) | [Dayangsung](https://open.spotify.com/artist/3nVkLQWe6gkgmqia9kl89z) | [A World Full Of Paper Planes & Balloons](https://open.spotify.com/album/5QlrdfNsruHMELFrb9xEDd) | 3:41 | 2022-09-30 | 2022-10-19 |
 | [Event Horizon](https://open.spotify.com/track/6RBziRcDeiho3iTPdtEeg9) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [YOUNHA 6th Album Repackage 'END THEORY : Final Edition'](https://open.spotify.com/album/63mur6I6yCG9cOxOst3i7c) | 5:00 | 2022-04-12 |  |
-| [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 | 2023-08-29 |  |
+| [Extinction](https://open.spotify.com/track/7ophvrIUAHSbf0uCEb5TzB) | [THORNAPPLE](https://open.spotify.com/artist/6S4fsREHT1NEjTb3lYD2pG) | [Animal](https://open.spotify.com/album/4ZALM5WKnmqL1sJouAAFqw) | 4:44 | 2023-08-29 | 2023-10-12 |
 | [Eye of the Typhoon](https://open.spotify.com/track/0nSEAABoviV818GLEZsD6r) | [PEPPERTONES](https://open.spotify.com/artist/0gos4GVpI0PzhyrWhsc7nj) | [thousand years](https://open.spotify.com/album/3pDA2ikEslIDXpzIWmauQY) | 4:06 | 2022-09-20 | 2022-10-19 |
 | [FAKE LOVE \- Rocking Vibe Mix](https://open.spotify.com/track/1WjGvMbHE23jEipydV80Mu) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Love Yourself 結 'Answer'](https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y) | 3:58 | 2022-07-22 |  |
 | [Fallen](https://open.spotify.com/track/0jo45PactLXFCw311Xa4gi) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [Fallen](https://open.spotify.com/album/2L6Wq8SWyqp11SYcH46Rsp) | 3:38 | 2022-12-22 | 2023-01-07 |
@@ -363,7 +365,7 @@
 | [Run to you \(feat\. Gong Hoon & Futuristic Swaver\)](https://open.spotify.com/track/3z6FHsCKkWaYdxcYqZTuEO) | [Minkangi](https://open.spotify.com/artist/5xWjXfGaZj0aNrU3WKTVeF), [Gong Hoon](https://open.spotify.com/artist/7lYJQN2fThiV44UylPz40w), [Futuristic Swaver](https://open.spotify.com/artist/1IoxcWz8vPDGOJBQNCGEvF) | [Run to you \(feat\. Gong Hoon & Futuristic Swaver\)](https://open.spotify.com/album/3SVdzPuWiiGnFP71JoUVcz) | 3:26 | 2022-06-23 | 2022-06-25 |
 | [Rush Hour](https://open.spotify.com/track/2eEVS8HGd0xpmsUOCuVIzI) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Rush Hour](https://open.spotify.com/album/5D4f8ca3u8RKEqdpgcgext) | 3:48 | 2022-04-21 | 2022-07-23 |
 | [Rushlight](https://open.spotify.com/track/6yXyBbBNlgQmnHwlbQ64vp) | [Hanjoo Kim](https://open.spotify.com/artist/0afEB0h85oZHZfM3crtq0E) | [Rushlight\(Hope or Dope2 Original Soundtrack\)](https://open.spotify.com/album/0LyLWDW6EqAyCjZgxHkeJj) | 4:34 | 2022-06-13 | 2022-07-15 |
-| [Sage](https://open.spotify.com/track/6dM5NQE3BYCZZKWubBbR40) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Sage](https://open.spotify.com/album/6Su4zuaLHIcC6q0BRoglXp) | 5:15 | 2023-09-08 |  |
+| [Sage](https://open.spotify.com/track/6dM5NQE3BYCZZKWubBbR40) | [FTISLAND](https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ) | [Sage](https://open.spotify.com/album/6Su4zuaLHIcC6q0BRoglXp) | 5:15 | 2023-09-08 | 2023-10-12 |
 | [Savior](https://open.spotify.com/track/4AQkhL8MzSguNeDS3vwu0G) | [Kim Sung Kyu](https://open.spotify.com/artist/56mV6FhCrg12O6mOTLxo73) | [SAVIOR](https://open.spotify.com/album/5YgIjOkNrrkQnCNFMnMQFB) | 3:23 | 2022-05-02 | 2022-07-29 |
 | [Scream](https://open.spotify.com/track/3vPHCKu5UhbGLe9rs8dBGr) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/7no7EZnKgoRWBbGMjZo9gB) | 3:24 | 2022-04-12 | 2023-08-04 |
 | [Scream](https://open.spotify.com/track/7FxshQAsTWmogWU959hz3T) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [1st Album \[Dystopia : The Tree of Language\]](https://open.spotify.com/album/6m5pDOafdvIKxNRxx5hVbr) | 3:24 | 2023-07-31 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 
 > Funky Jazz from the mid 1950s to the early 1960s\. Cover: Art Blakey
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,394 likes - 75 songs - 8 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,415 likes - 75 songs - 8 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,15 +55,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 45 | [Creepin' In \- Remastered](https://open.spotify.com/track/6n4A5dnPzBFhE0aqLTOUCP) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 7:26 |
 | 46 | [The Rake](https://open.spotify.com/track/4dR7kPaQ9U7fWHdwTHexkZ) | [Dizzy Reece](https://open.spotify.com/artist/748mYOdaWuFH4wXCvsvInR) | [Star Bright](https://open.spotify.com/album/3mVCxKC9Mco9NVcZYtOcn9) | 6:07 |
 | 47 | [The Turnaround \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/1TOx29jMSHZAJcqdHQRMXk) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 8:15 |
-| 48 | [These Are Soulful Days](https://open.spotify.com/track/3HQBY6YfomUIXgyowl6pvs) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Lee\-Way](https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N) | 9:25 |
+| 48 | [Blues Blue](https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 7:18 |
 | 49 | [Johnny's Blue](https://open.spotify.com/track/0wegLTw4radMpYyw28dIVQ) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Like Someone In Love](https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9) | 9:12 |
-| 50 | [Blues Blue](https://open.spotify.com/track/42s1AW8BjI7Z01BEKEtyD6) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [My Conception](https://open.spotify.com/album/4kyXSmqZ7WVTjodTRR4wgZ) | 7:18 |
+| 50 | [These Are Soulful Days](https://open.spotify.com/track/3HQBY6YfomUIXgyowl6pvs) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Lee\-Way](https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N) | 9:25 |
 | 51 | [Devilette](https://open.spotify.com/track/73lOUGQ1yBfNMvT7TWaGJF) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Clubhouse](https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo) | 7:05 |
 | 52 | [East Of The Village \- Remastered 2000/Rudy Van Gelder Edition](https://open.spotify.com/track/6wGRY9NeXqQjY3ujaZiROc) | [Hank Mobley](https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv) | [The Turnaround](https://open.spotify.com/album/2FR2NZXhXDbCTCeUUdHEJr) | 6:44 |
 | 53 | [Soulville \- Remastered 1999/Rudy Van Gelder Edition](https://open.spotify.com/track/7b3V9eMh7z0iucPQHwAVtm) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [The Stylings Of Silver \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/7qaTLsGB0H8AJPvUs98CcO) | 6:16 |
 | 54 | [Hush \- 2006 Digital Remaster](https://open.spotify.com/track/0QHtTrWeW9uCAVEpJUNlp9) | [Donald Byrd](https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL) | [Royal Flush](https://open.spotify.com/album/3iiXriAL04UEj7IjHa2J72) | 6:21 |
-| 55 | [The Champ](https://open.spotify.com/track/2LabSli3Hawqd8hq4N7IHp) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [A New Sound \- A New Star, Vol\. 2](https://open.spotify.com/album/0YbnuLEO8V39shvuHTDI5k) | 8:39 |
-| 56 | [Rollin' With Leo \- Remastered](https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3) | [Leo Parker](https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg) | [Rollin' With Leo \(Remastered\)](https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH) | 6:25 |
+| 55 | [Rollin' With Leo \- Remastered](https://open.spotify.com/track/42iENLbnZCyVDCcc3CKzQ3) | [Leo Parker](https://open.spotify.com/artist/5LQwJIY0TGUfJDS9vdpjmg) | [Rollin' With Leo \(Remastered\)](https://open.spotify.com/album/4iuVTKizRNoo1GqETTVHRH) | 6:25 |
+| 56 | [The Champ](https://open.spotify.com/track/2LabSli3Hawqd8hq4N7IHp) | [Jimmy Smith](https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6) | [A New Sound \- A New Star, Vol\. 2](https://open.spotify.com/album/0YbnuLEO8V39shvuHTDI5k) | 8:39 |
 | 57 | [Midtown Blues](https://open.spotify.com/track/5vD9Rn0dNz0Iam9jljGjGt) | [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX) | [Lee\-Way](https://open.spotify.com/album/4tTGVQBdu5emlYtvf5ru9N) | 12:09 |
 | 58 | [Hittin' The Jug \- Rudy Van Gelder Remaster](https://open.spotify.com/track/3kIhfQW7A4H7yd4a86uFt5) | [Gene Ammons](https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK) | [Boss Tenor](https://open.spotify.com/album/4u4T0lYZ2VbDHOmAwHKxJs) | 8:27 |
 | 59 | [Down Home](https://open.spotify.com/track/7dZhndMC31yTsQuaCfhOuy) | [Lou Donaldson](https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR) | [Quartet / Quintet / Sextet](https://open.spotify.com/album/2Aflwf98ECEhjpowdENj7d) | 3:21 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZZfLKhEkflI.md) - [plain]
 | 69 | [Blues For Skeeter \- Remastered 2000](https://open.spotify.com/track/5DMvnFcUeu6TwYhwWDSpYx) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Introducing Kenny Burrell: The First Blue Note Sessions](https://open.spotify.com/album/3gIrrrmvhrrs4Y6KNu3sSQ) | 8:08 |
 | 70 | [Main Spring \- 2006 Digital Remaster](https://open.spotify.com/track/7kj02yV03h8vzKjwDNRG1G) | [Johnny Griffin](https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ) | [The Congregation \(Expanded Edition\)](https://open.spotify.com/album/4xfqENceM0U2iQDi1c4sLy) | 6:31 |
 | 71 | [Haitian Fight Song](https://open.spotify.com/track/4Red4KhaYnxkjo3osEbxl4) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR), [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh), [Zoot Sims](https://open.spotify.com/artist/1pwr5rTWLVfqhvHfB7Reap), [Hank Jones](https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG) | [Pepper Adams Plays The Compositions of Charlie Mingus](https://open.spotify.com/album/0oqwEDzBuX7wKNcLxskKI4) | 7:57 |
-| 72 | [South Side \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/7A8bDI0oJDi6gNhe3YIWBQ) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 8:38 |
-| 73 | [Minor On Top \- Remastered 1997](https://open.spotify.com/track/5SQuscOp1pmVmd2TlYADpH) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [Motor City Scene](https://open.spotify.com/album/6LQkQG9nSDBZmRRDEdxKms) | 8:43 |
+| 72 | [Minor On Top \- Remastered 1997](https://open.spotify.com/track/5SQuscOp1pmVmd2TlYADpH) | [Thad Jones](https://open.spotify.com/artist/6DbqS0X8cSFOPGsvyze2yh) | [Motor City Scene](https://open.spotify.com/album/6LQkQG9nSDBZmRRDEdxKms) | 8:43 |
+| 73 | [South Side \- Remastered 2007 / Rudy Van Gelder Edition](https://open.spotify.com/track/7A8bDI0oJDi6gNhe3YIWBQ) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith \(Remastered\)](https://open.spotify.com/album/5nmaVQ30ucem6OXJ2IAAKf) | 8:38 |
 | 74 | [Preach Brother](https://open.spotify.com/track/0uv8D6XDElGNG96VnQA71v) | [Fred Jackson](https://open.spotify.com/artist/5QFpvP79VaxZ7sty3RyBPS) | [Hootin' 'N Tootin'](https://open.spotify.com/album/3vFV7kbe21nznNK87wrADV) | 5:45 |
 | 75 | [Petty Larceny](https://open.spotify.com/track/0EVGwICUNwPZolrklaiByV) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [The Freedom Rider](https://open.spotify.com/album/72jnQGrWRPB8eMGLRgV5Zp) | 6:16 |
 
-Snapshot ID: `MCw5ZjdmOGE0MjJhNThjZDdiOTI4ODVhMzJiNjQzNTQxMmVlMjdkNThk`
+Snapshot ID: `MCwxY2IxODU0ZGI1NWY0ZTQ2MTdiNGE4NTBkZGViMzAxNzdiZGQ0ZWM2`

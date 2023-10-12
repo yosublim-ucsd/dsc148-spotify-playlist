@@ -4,7 +4,7 @@
 
 > Feel on top of the world with these uplifting anthems of the 00s
 
-224 songs - 14 hr 19 min
+225 songs - 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [I Wish I Was a Punk Rocker \(with Flowers in My Hair\)](https://open.spotify.com/track/4mnTMsp8Cgf9TNiQMhH11L) | [Sandi Thom](https://open.spotify.com/artist/3xnfpcM4DC9zeHVuDhYICB) | [Smile...It Confuses People](https://open.spotify.com/album/2vh0Lg3vwmArk6KI0m9eb5) | 2:31 | 2021-06-15 | 2022-07-29 |
 | [I'm Like A Bird](https://open.spotify.com/track/2tP7ZekzXfduShx8C6cbll) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc) | [Whoa, Nelly!](https://open.spotify.com/album/1Tm4dxG0SLeX7VgeHZO9Ix) | 4:03 | 2021-06-15 | 2022-07-29 |
 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 | 2022-05-09 | 2023-09-29 |
+| [I'm Yours](https://open.spotify.com/track/3S0OXQeoh0w6AY8WQVckRW) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things\. \(Bonus Tracks Version\)](https://open.spotify.com/album/1UwzOp5hn3lAbOqsAfXBw8) | 4:02 | 2022-05-09 |  |
 | [In Da Club](https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 3:13 | 2022-05-09 | 2023-05-17 |
 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 | 2021-06-15 | 2022-07-29 |
 | [In This Life](https://open.spotify.com/track/3MGCsPj6h18XiDiOrGSY46) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Delta](https://open.spotify.com/album/4cBX4v2db0zh7v48NgSl8d) | 3:47 | 2021-06-15 | 2022-05-14 |
@@ -156,7 +157,7 @@
 | [Raise Your Glass](https://open.spotify.com/track/12lZTPlXwUtrQuhEty6098) | [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Raise Your Glass](https://open.spotify.com/album/6Ozsat2gzIj9uXd6JMwYXz) | 3:23 | 2021-06-15 | 2022-07-29 |
 | [Replay](https://open.spotify.com/track/4E5P1XyAFtrjpiIxkydly4) | [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Replay](https://open.spotify.com/album/44hyrGuZKAvITbmrlhryf8) | 3:02 | 2021-06-15 | 2022-04-28 |
 | [Replay](https://open.spotify.com/track/5vlEg2fT4cFWAqU5QptIpQ) | [Iyaz](https://open.spotify.com/artist/5tKXB9uuebKE34yowVaU3C) | [Replay](https://open.spotify.com/album/698AdfGuOthKXXvvHla9bf) | 3:02 | 2022-05-09 | 2022-11-13 |
-| [Ride Wit Me](https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:51 | 2022-05-09 |  |
+| [Ride Wit Me](https://open.spotify.com/track/3Gf5nttwcX9aaSQXRWidEZ) | [Nelly](https://open.spotify.com/artist/2gBjLmx6zQnFGQJCAQpRgw), [City Spud](https://open.spotify.com/artist/3L2SIGZah4QZSvN4wC8rHl) | [Country Grammar](https://open.spotify.com/album/5v7Icroz1sQsK2sQyLrWzE) | 4:51 | 2022-05-09 | 2023-10-12 |
 | [Rock Your Body](https://open.spotify.com/track/1AWQoqb9bSvzTjaLralEkT) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Justified](https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW) | 4:27 | 2021-06-15 |  |
 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 | 2022-05-09 | 2022-11-13 |
 | [Save Me, San Francisco](https://open.spotify.com/track/7gA5OQWsvAY7HhazroFuwI) | [Train](https://open.spotify.com/artist/3FUY2gzHeIiaesXtOAdB7A) | [Save Me, San Francisco \(Golden Gate Edition\)](https://open.spotify.com/album/1CwXS6MAz8Wo7K4TzW9iuR) | 4:09 | 2022-05-09 | 2022-07-29 |

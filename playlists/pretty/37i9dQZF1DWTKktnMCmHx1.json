@@ -1,12 +1,12 @@
 {
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
-  "num_followers": 94366,
+  "num_followers": 94393,
   "original_name": "GOOD GAME",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGYxOWRiYTlhMDcxNjI1MTNjN2JhZDBjZDQ2OTkyNzMwZTIzMzlk",
+  "snapshot_id": "MCw5NjkzMTU3ODA1ZWU0OWRkNTAzMDZiNDAyY2VlMThjM2RhYTUyYzAy",
   "tracks": [
     {
       "added_at": "2023-09-21 12:32:31",
@@ -579,6 +579,22 @@
     {
       "added_at": "2023-09-21 12:32:31",
       "album": {
+        "name": "Papaya",
+        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
+      },
+      "artists": [
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Papaya",
+      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
+    },
+    {
+      "added_at": "2023-09-21 12:32:31",
+      "album": {
         "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
         "url": "https://open.spotify.com/album/0EtbYgB5v6HF3VgWVYOOOi"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 181611,
       "name": "Gelosa (feat. Shiva, Sfera Ebbasta, Gu\u00e8)",
       "url": "https://open.spotify.com/track/2hHC2jw8qiE4IAPDGjU4Fu"
-    },
-    {
-      "added_at": "2023-09-21 12:32:31",
-      "album": {
-        "name": "Papaya",
-        "url": "https://open.spotify.com/album/4elBzZLFdhXTNqEvRxqSzQ"
-      },
-      "artists": [
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Papaya",
-      "url": "https://open.spotify.com/track/4nyRpOBvLUhwMVNAQ7rZwf"
     },
     {
       "added_at": "2023-09-21 12:32:31",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-09-21 12:32:31",
       "album": {
-        "name": "CENERE",
-        "url": "https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh"
-      },
-      "artists": [
-        {
-          "name": "Lazza",
-          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
-        }
-      ],
-      "duration_ms": 208323,
-      "name": "CENERE",
-      "url": "https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK"
-    },
-    {
-      "added_at": "2023-09-21 12:32:31",
-      "album": {
         "name": "Pluto x Baby Pluto",
         "url": "https://open.spotify.com/album/48xpWR8K6CGpy3ETAym3pt"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 216827,
       "name": "Pelele",
       "url": "https://open.spotify.com/track/5h5TUj8pU2WhdSeJx9BnX2"
+    },
+    {
+      "added_at": "2023-09-21 12:32:31",
+      "album": {
+        "name": "CENERE",
+        "url": "https://open.spotify.com/album/3jbwWq0IsEUjrQ6wBUqYzh"
+      },
+      "artists": [
+        {
+          "name": "Lazza",
+          "url": "https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM"
+        }
+      ],
+      "duration_ms": 208323,
+      "name": "CENERE",
+      "url": "https://open.spotify.com/track/1YSlNly5I4GAGg2Toc3snK"
     },
     {
       "added_at": "2023-09-21 12:32:31",
@@ -1267,26 +1267,6 @@
     {
       "added_at": "2023-09-21 12:32:31",
       "album": {
-        "name": "Milano Demons",
-        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
-      },
-      "artists": [
-        {
-          "name": "Shiva",
-          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Sfera Ebbasta",
-          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
-        }
-      ],
-      "duration_ms": 160051,
-      "name": "Alleluia (feat. Sfera Ebbasta)",
-      "url": "https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth"
-    },
-    {
-      "added_at": "2023-09-21 12:32:31",
-      "album": {
         "name": "Il Doc 3 (feat. Tony Effe, Slings & MamboLosco)",
         "url": "https://open.spotify.com/album/0Us36d7YZAKpS3YjY1oVNk"
       },
@@ -1323,22 +1303,22 @@
     {
       "added_at": "2023-09-21 12:32:31",
       "album": {
-        "name": "Salvatore Vive",
-        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
       },
       "artists": [
         {
-          "name": "Paky",
-          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+          "name": "Shiva",
+          "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
         },
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
         }
       ],
-      "duration_ms": 194571,
-      "name": "La Bellavita (feat. Jul)",
-      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
+      "duration_ms": 160051,
+      "name": "Alleluia (feat. Sfera Ebbasta)",
+      "url": "https://open.spotify.com/track/1MboxS3hV7Wr8UVO59uRth"
     },
     {
       "added_at": "2023-09-21 12:32:31",
@@ -1359,6 +1339,26 @@
       "duration_ms": 218367,
       "name": "\u221e LOVE (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/0HhSB4nAJpI5expWnZL199"
+    },
+    {
+      "added_at": "2023-09-21 12:32:31",
+      "album": {
+        "name": "Salvatore Vive",
+        "url": "https://open.spotify.com/album/1VSve1RDkpnGq2J1VL1Ux4"
+      },
+      "artists": [
+        {
+          "name": "Paky",
+          "url": "https://open.spotify.com/artist/1KQJOTeIMbixtnSWY4sYs2"
+        },
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 194571,
+      "name": "La Bellavita (feat. Jul)",
+      "url": "https://open.spotify.com/track/62YtBUOYuyW9qelDb7tFWX"
     },
     {
       "added_at": "2023-09-21 12:32:31",

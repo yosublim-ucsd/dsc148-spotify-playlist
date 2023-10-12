@@ -1,12 +1,12 @@
 {
   "description": "2017 highlights from the home of indie music.",
-  "num_followers": 142693,
+  "num_followers": 142704,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNDU1ZmIzYmEzMzY0YTAzYWNhMWRiMDZjMjE5NTExYTNhYWZlMWRk",
+  "snapshot_id": "MCw3MGQ2MTg3MTI0MDY4MDMxNzUxMDEyM2NmYjAxNjY4NjQ3NjMxYTQy",
   "tracks": [
     {
       "added_at": "2022-10-27 05:38:58",
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 171727,
-      "name": "Liability",
-      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
+      "duration_ms": 234652,
+      "name": "Green Light",
+      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -444,9 +444,9 @@
           "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         }
       ],
-      "duration_ms": 234652,
-      "name": "Green Light",
-      "url": "https://open.spotify.com/track/6ie2Bw3xLj2JcGowOlcMhb"
+      "duration_ms": 171727,
+      "name": "Liability",
+      "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -499,22 +499,6 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "TERRITORY",
-        "url": "https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58"
-      },
-      "artists": [
-        {
-          "name": "The Blaze",
-          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
-        }
-      ],
-      "duration_ms": 276373,
-      "name": "TERRITORY",
-      "url": "https://open.spotify.com/track/2W3EgJst61RLZtPPm3EQim"
-    },
-    {
-      "added_at": "2022-10-27 05:38:58",
-      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 232373,
       "name": "Funeral",
       "url": "https://open.spotify.com/track/3rJDsZjIaCfJQSqRUvl0BM"
+    },
+    {
+      "added_at": "2022-10-27 05:38:58",
+      "album": {
+        "name": "TERRITORY",
+        "url": "https://open.spotify.com/album/56X6IaIoNEfqxAvGb9St58"
+      },
+      "artists": [
+        {
+          "name": "The Blaze",
+          "url": "https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos"
+        }
+      ],
+      "duration_ms": 276373,
+      "name": "TERRITORY",
+      "url": "https://open.spotify.com/track/2W3EgJst61RLZtPPm3EQim"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "What Now",
-        "url": "https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x"
+        "name": "Superorganism",
+        "url": "https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix"
       },
       "artists": [
         {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+          "name": "Superorganism",
+          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
         }
       ],
-      "duration_ms": 210613,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6"
+      "duration_ms": 165391,
+      "name": "Something For Your M.I.N.D.",
+      "url": "https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT"
     },
     {
       "added_at": "2022-10-27 05:38:58",
@@ -1423,18 +1423,18 @@
     {
       "added_at": "2022-10-27 05:38:58",
       "album": {
-        "name": "Superorganism",
-        "url": "https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix"
+        "name": "What Now",
+        "url": "https://open.spotify.com/album/1BJMCEXQ7JmuVlJ6cYbe3x"
       },
       "artists": [
         {
-          "name": "Superorganism",
-          "url": "https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE"
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
         }
       ],
-      "duration_ms": 165391,
-      "name": "Something For Your M.I.N.D.",
-      "url": "https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT"
+      "duration_ms": 210613,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/1BRwuvjhkgezmv1gcI6lT6"
     },
     {
       "added_at": "2022-10-27 05:38:58",

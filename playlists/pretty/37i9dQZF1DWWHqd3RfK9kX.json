@@ -1,12 +1,12 @@
 {
   "description": "Il sound giusto per creare in cucina!",
-  "num_followers": 22467,
+  "num_followers": 22477,
   "original_name": "Musica per Cucinare",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwNTI3NzUzMDg2Zjg5NDk5ODMwYTYwZmRkMmFhODE0NzAyYzQwNTBi",
+  "snapshot_id": "MCxiNTlmZmExODNmYjQ0OGRiN2IxYThjNjU5OGM4ZTYxYjk4YzkyNDAz",
   "tracks": [
     {
       "added_at": "2020-11-10 18:47:22",
@@ -115,22 +115,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "A Valentine For You",
-        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 127186,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "The Astrud Gilberto Album",
         "url": "https://open.spotify.com/album/6haDxdERWK3rdVCGc2jr8E"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 138013,
       "name": "\u00c1gua de Beber",
       "url": "https://open.spotify.com/track/3QKJELWORZZ7rUZDWeMWSA"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "A Valentine For You",
+        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 127186,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -515,22 +515,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Police & Thieves",
-        "url": "https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR"
-      },
-      "artists": [
-        {
-          "name": "Junior Murvin",
-          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
-        }
-      ],
-      "duration_ms": 244109,
-      "name": "Police & Thieves",
-      "url": "https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Fruko el Grande",
         "url": "https://open.spotify.com/album/4VwcUaZ0yWCHp9hEDue09C"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 294000,
       "name": "El Preso",
       "url": "https://open.spotify.com/track/1Fp4njyRHJYyMTKP899c0q"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Police & Thieves",
+        "url": "https://open.spotify.com/album/6k54vGxQY5Gita60TQYCtR"
+      },
+      "artists": [
+        {
+          "name": "Junior Murvin",
+          "url": "https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34"
+        }
+      ],
+      "duration_ms": 244109,
+      "name": "Police & Thieves",
+      "url": "https://open.spotify.com/track/2XsW8N3mMRD5blv4KGNHq6"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -599,18 +599,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Martinho da Vila",
-        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
+        "name": "Flying Away",
+        "url": "https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1"
       },
       "artists": [
         {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+          "name": "Smoke City",
+          "url": "https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF"
         }
       ],
-      "duration_ms": 153440,
-      "name": "Canta Canta, Minha Gente",
-      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
+      "duration_ms": 406000,
+      "name": "Underwater Love",
+      "url": "https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -631,18 +631,18 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Flying Away",
-        "url": "https://open.spotify.com/album/52g3C6ZdK60MAWsiGxAQz1"
+        "name": "Martinho da Vila",
+        "url": "https://open.spotify.com/album/6ime25jnzjF1foE0e5RCYB"
       },
       "artists": [
         {
-          "name": "Smoke City",
-          "url": "https://open.spotify.com/artist/76aD5RR474u5LVtrYxBKkF"
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
         }
       ],
-      "duration_ms": 406000,
-      "name": "Underwater Love",
-      "url": "https://open.spotify.com/track/1vahbgf2hkAjBvYRtIo09F"
+      "duration_ms": 153440,
+      "name": "Canta Canta, Minha Gente",
+      "url": "https://open.spotify.com/track/57E1ka54d8zrIy0VzE1EAV"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -895,6 +895,22 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
+        "name": "Coleccion",
+        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
+      },
+      "artists": [
+        {
+          "name": "Compay Segundo",
+          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
+        }
+      ],
+      "duration_ms": 312120,
+      "name": "Guajira guantanamera",
+      "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
         "name": "Linha De Passe",
         "url": "https://open.spotify.com/album/5hP8pHRsoC1ySE4wVc9wcH"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 200240,
       "name": "O B\u00eabado e a Equilibrista",
       "url": "https://open.spotify.com/track/3bgRCx8adxUZT7It3ryrWU"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
-        "name": "Coleccion",
-        "url": "https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp"
-      },
-      "artists": [
-        {
-          "name": "Compay Segundo",
-          "url": "https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1"
-        }
-      ],
-      "duration_ms": 312120,
-      "name": "Guajira guantanamera",
-      "url": "https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "You Can Get It If You Really Want",
-        "url": "https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker",
-          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
-        }
-      ],
-      "duration_ms": 162893,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/0TjOyjjHJb9WmyUQlq1F12"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Tesoros De Coleccion",
         "url": "https://open.spotify.com/album/5fvc3yXYkuFeutWruzxCTk"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 180626,
       "name": "B\u00e9same Mucho",
       "url": "https://open.spotify.com/track/1HlX3tDP7eJBs5CJx4XIIk"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "You Can Get It If You Really Want",
+        "url": "https://open.spotify.com/album/6MVF2k2tOc6nHwa0yDtBHK"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        }
+      ],
+      "duration_ms": 162893,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/0TjOyjjHJb9WmyUQlq1F12"
     },
     {
       "added_at": "2020-11-10 18:47:22",
@@ -1179,26 +1179,6 @@
     {
       "added_at": "2020-11-10 18:47:22",
       "album": {
-        "name": "Intensified",
-        "url": "https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy"
-      },
-      "artists": [
-        {
-          "name": "Desmond Dekker",
-          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
-        },
-        {
-          "name": "ACES",
-          "url": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
-        }
-      ],
-      "duration_ms": 153663,
-      "name": "(Poor Mi) Israelites",
-      "url": "https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN"
-    },
-    {
-      "added_at": "2020-11-10 18:47:22",
-      "album": {
         "name": "Buenos Hermanos",
         "url": "https://open.spotify.com/album/2U4d397MrGSUt8c289VZVT"
       },
@@ -1227,6 +1207,26 @@
       "duration_ms": 246600,
       "name": "Bang! Bang!",
       "url": "https://open.spotify.com/track/0gbeHMR4ESdykYOwWQ3PBw"
+    },
+    {
+      "added_at": "2020-11-10 18:47:22",
+      "album": {
+        "name": "Intensified",
+        "url": "https://open.spotify.com/album/1QRSVAqC4M1HQGb8P1B6Cy"
+      },
+      "artists": [
+        {
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
+        },
+        {
+          "name": "ACES",
+          "url": "https://open.spotify.com/artist/1tLdsPvBpCxjtTTWq3KklG"
+        }
+      ],
+      "duration_ms": 153663,
+      "name": "(Poor Mi) Israelites",
+      "url": "https://open.spotify.com/track/53aXCpKRUASUQ8cIDsJ7VN"
     },
     {
       "added_at": "2020-11-10 18:47:22",

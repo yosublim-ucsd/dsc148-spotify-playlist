@@ -1,12 +1,12 @@
 {
   "description": "The best indie rock vibes \u2014 classic and current. ",
-  "num_followers": 1987555,
+  "num_followers": 1986156,
   "original_name": "Feel-Good Indie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjZTc1Mzk2YWM0MDBmMDljOGE5OTVjZDExNTc0YTBkMjc1ODJhMjVi",
+  "snapshot_id": "MCwxOGJlZDg5YzcxMjAwZGZmMDY5N2E1YTBmN2YxNmJmNDRhMTZlZWMz",
   "tracks": [
     {
       "added_at": "2023-10-05 18:53:38",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
-        "name": "Right Here, For Now",
-        "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Right Here, for Now",
-      "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
-    },
-    {
-      "added_at": "2023-10-05 18:53:38",
-      "album": {
         "name": "help herself",
         "url": "https://open.spotify.com/album/1LeB4us5kQb6xoSXM1kws8"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 277720,
       "name": "Shake It Out",
       "url": "https://open.spotify.com/track/4lY95OMGb9WxP6IYut64ir"
+    },
+    {
+      "added_at": "2023-10-05 18:53:38",
+      "album": {
+        "name": "Right Here, For Now",
+        "url": "https://open.spotify.com/album/5eiR2EXJbe3N9QTzFJ4Jzi"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Right Here, for Now",
+      "url": "https://open.spotify.com/track/2mMU463xwCEiBKJJTlA3tc"
     },
     {
       "added_at": "2023-10-05 18:53:38",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
-        "name": "People In Motion",
-        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
+        "name": "Sweet FA",
+        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
       },
       "artists": [
         {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
         }
       ],
-      "duration_ms": 183440,
-      "name": "Then It All Goes Away",
-      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
+      "duration_ms": 287080,
+      "name": "Peach Pit",
+      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
     },
     {
       "added_at": "2023-10-05 18:53:38",
@@ -1095,18 +1095,18 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
-        "name": "Sweet FA",
-        "url": "https://open.spotify.com/album/1lhF5c8Q9bzYNwGFwQgYnP"
+        "name": "People In Motion",
+        "url": "https://open.spotify.com/album/1ZhWoKlwX8xztzoLcFGiIs"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
         }
       ],
-      "duration_ms": 287080,
-      "name": "Peach Pit",
-      "url": "https://open.spotify.com/track/0ZK8TGOsngrstVPsnrHbK1"
+      "duration_ms": 183440,
+      "name": "Then It All Goes Away",
+      "url": "https://open.spotify.com/track/7MzjD4Ayl07w0TRsYSqfCh"
     },
     {
       "added_at": "2023-10-05 18:53:38",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
+        "name": "color theory",
+        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
+      },
+      "artists": [
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+        }
+      ],
+      "duration_ms": 280213,
+      "name": "circle the drain",
+      "url": "https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE"
+    },
+    {
+      "added_at": "2023-10-05 18:53:38",
+      "album": {
         "name": "Caer",
         "url": "https://open.spotify.com/album/5eIgu8uJ3H18h8vVqJYggZ"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 205442,
       "name": "Saturdays (feat. HAIM)",
       "url": "https://open.spotify.com/track/5ClqcvP4dYDDX6Zv3jPQD1"
-    },
-    {
-      "added_at": "2023-10-05 18:53:38",
-      "album": {
-        "name": "color theory",
-        "url": "https://open.spotify.com/album/2CISL0rSGzbO0MbQMlqBez"
-      },
-      "artists": [
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
-        }
-      ],
-      "duration_ms": 280213,
-      "name": "circle the drain",
-      "url": "https://open.spotify.com/track/2drtd6SptpMJ1KylMQ7mrE"
     },
     {
       "added_at": "2023-10-05 18:53:38",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 200546,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
-    },
-    {
-      "added_at": "2023-10-05 18:53:38",
-      "album": {
         "name": "American Bollywood",
         "url": "https://open.spotify.com/album/78F0kmsAMlPgTYqdr8VaDd"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 196643,
       "name": "The Walk Home",
       "url": "https://open.spotify.com/track/0sfrbCvmUUfJgZlKqXQbQ6"
+    },
+    {
+      "added_at": "2023-10-05 18:53:38",
+      "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3swueKx3F4dUACphPJOBy3"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 200546,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/0ULXAD5RFh0ac0rrIRutLD"
     },
     {
       "added_at": "2023-10-05 18:53:38",
@@ -1627,22 +1627,6 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
-        "name": "Lemon Tree",
-        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Lemon Tree",
-      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
-    },
-    {
-      "added_at": "2023-10-05 18:53:38",
-      "album": {
         "name": "Sure Enough",
         "url": "https://open.spotify.com/album/1PjK7jnPD2B6EdhwQecC1u"
       },
@@ -1655,6 +1639,22 @@
       "duration_ms": 171272,
       "name": "Sure Enough",
       "url": "https://open.spotify.com/track/2RI2HBUx4Algf7PVTklzUM"
+    },
+    {
+      "added_at": "2023-10-05 18:53:38",
+      "album": {
+        "name": "Lemon Tree",
+        "url": "https://open.spotify.com/album/4ibM2rJfsOdr0d72AlOI2G"
+      },
+      "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Lemon Tree",
+      "url": "https://open.spotify.com/track/0SnCZci0wyVj0RZXknNaWq"
     },
     {
       "added_at": "2023-10-05 18:53:38",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
-        "name": "You Are Who You Hang Out With",
-        "url": "https://open.spotify.com/album/5ti35p8028PSksErKRW415"
-      },
-      "artists": [
-        {
-          "name": "The Front Bottoms",
-          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
-        }
-      ],
-      "duration_ms": 198226,
-      "name": "Not Joking",
-      "url": "https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O"
-    },
-    {
-      "added_at": "2023-10-05 18:53:38",
-      "album": {
         "name": "Moment In The Sun",
         "url": "https://open.spotify.com/album/0gLTyqbV19rhb8pNZQ0Msx"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 189634,
       "name": "Moment In The Sun",
       "url": "https://open.spotify.com/track/3srgB1L9XfePDOIY4DrN2K"
+    },
+    {
+      "added_at": "2023-10-05 18:53:38",
+      "album": {
+        "name": "You Are Who You Hang Out With",
+        "url": "https://open.spotify.com/album/5ti35p8028PSksErKRW415"
+      },
+      "artists": [
+        {
+          "name": "The Front Bottoms",
+          "url": "https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS"
+        }
+      ],
+      "duration_ms": 198226,
+      "name": "Not Joking",
+      "url": "https://open.spotify.com/track/5UrwXORPNlSUuR0SemqM3O"
     },
     {
       "added_at": "2023-10-05 18:53:38",
@@ -1739,22 +1739,6 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
-      },
-      "artists": [
-        {
-          "name": "Petey",
-          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
-        }
-      ],
-      "duration_ms": 172921,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
-    },
-    {
-      "added_at": "2023-10-05 18:53:38",
-      "album": {
         "name": "Your Life Your Time",
         "url": "https://open.spotify.com/album/4EZaBjrZvPKOch67xp0E3J"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 160257,
       "name": "Your Life Your Time",
       "url": "https://open.spotify.com/track/1HWkMkgqKMLqsAPRh0KNmE"
+    },
+    {
+      "added_at": "2023-10-05 18:53:38",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "duration_ms": 172921,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
     },
     {
       "added_at": "2023-10-05 18:53:38",
@@ -1787,18 +1787,18 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
-        "name": "LP3",
-        "url": "https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX"
+        "name": "Sofa Kings",
+        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
       },
       "artists": [
         {
-          "name": "Hippo Campus",
-          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
         }
       ],
-      "duration_ms": 253848,
-      "name": "Boys",
-      "url": "https://open.spotify.com/track/4nAmlRetwMEZr2TsXuHcpD"
+      "duration_ms": 190626,
+      "name": "Going Kokomo",
+      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
     },
     {
       "added_at": "2023-10-05 18:53:38",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
-        "name": "Sofa Kings",
-        "url": "https://open.spotify.com/album/6qKsVbDuX5sKB4OTqkNc0C"
+        "name": "LP3",
+        "url": "https://open.spotify.com/album/08I3iemI4Gfn7kp4wm9FmX"
       },
       "artists": [
         {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+          "name": "Hippo Campus",
+          "url": "https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A"
         }
       ],
-      "duration_ms": 190626,
-      "name": "Going Kokomo",
-      "url": "https://open.spotify.com/track/4E4Gxykl5nYMSIwlIVzjGr"
+      "duration_ms": 253848,
+      "name": "Boys",
+      "url": "https://open.spotify.com/track/4nAmlRetwMEZr2TsXuHcpD"
     },
     {
       "added_at": "2023-10-05 18:53:38",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
+        "name": "Sundays",
+        "url": "https://open.spotify.com/album/47bvdpM4S6uhF9T5wwEBtP"
+      },
+      "artists": [
+        {
+          "name": "Tanukichan",
+          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
+        }
+      ],
+      "duration_ms": 169133,
+      "name": "Like the Sun",
+      "url": "https://open.spotify.com/track/7LItXkhy2jee3EU8Nx7XPU"
+    },
+    {
+      "added_at": "2023-10-05 18:53:38",
+      "album": {
         "name": "Lots of Nothing (feat. BENEE)",
         "url": "https://open.spotify.com/album/5mndQjQK3k72Mtx9XlDfdI"
       },
@@ -1883,22 +1899,6 @@
       "duration_ms": 193836,
       "name": "Lots of Nothing (feat. BENEE)",
       "url": "https://open.spotify.com/track/7uTqmYA0sSjmDVpQNGDz7j"
-    },
-    {
-      "added_at": "2023-10-05 18:53:38",
-      "album": {
-        "name": "Sundays",
-        "url": "https://open.spotify.com/album/47bvdpM4S6uhF9T5wwEBtP"
-      },
-      "artists": [
-        {
-          "name": "Tanukichan",
-          "url": "https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6"
-        }
-      ],
-      "duration_ms": 169133,
-      "name": "Like the Sun",
-      "url": "https://open.spotify.com/track/7LItXkhy2jee3EU8Nx7XPU"
     },
     {
       "added_at": "2023-10-05 18:53:38",
@@ -2079,22 +2079,6 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
-        "name": "Here Comes The Comeback",
-        "url": "https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7"
-      },
-      "artists": [
-        {
-          "name": "Mitch Rowland",
-          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
-        }
-      ],
-      "duration_ms": 162101,
-      "name": "Here Comes The Comeback",
-      "url": "https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf"
-    },
-    {
-      "added_at": "2023-10-05 18:53:38",
-      "album": {
         "name": "palmtreedays_1644.wav",
         "url": "https://open.spotify.com/album/2T0C483fPDytj1MQWkFa3T"
       },
@@ -2107,6 +2091,22 @@
       "duration_ms": 248093,
       "name": "palmtreedays_1644.wav",
       "url": "https://open.spotify.com/track/0kB6xwKamm2Fogar9frsAy"
+    },
+    {
+      "added_at": "2023-10-05 18:53:38",
+      "album": {
+        "name": "Here Comes The Comeback",
+        "url": "https://open.spotify.com/album/7An2n1nwYUoH8JpmQMEjB7"
+      },
+      "artists": [
+        {
+          "name": "Mitch Rowland",
+          "url": "https://open.spotify.com/artist/5AH3J6o4zTwo2tADpRiQRZ"
+        }
+      ],
+      "duration_ms": 162101,
+      "name": "Here Comes The Comeback",
+      "url": "https://open.spotify.com/track/42X7jGOwOJIW1cEFLvaytf"
     },
     {
       "added_at": "2023-10-05 18:53:38",
@@ -2159,6 +2159,54 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
+        "name": "Time Shrinks",
+        "url": "https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0"
+      },
+      "artists": [
+        {
+          "name": "Arcy Drive",
+          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+        }
+      ],
+      "duration_ms": 216531,
+      "name": "Time Shrinks",
+      "url": "https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV"
+    },
+    {
+      "added_at": "2023-10-05 18:53:38",
+      "album": {
+        "name": "Na\u00efve",
+        "url": "https://open.spotify.com/album/06XZphFaqEl3gTtQp8a3hb"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 206173,
+      "name": "Naive",
+      "url": "https://open.spotify.com/track/29XbgaYB4Hs8vlLmpzkRgj"
+    },
+    {
+      "added_at": "2023-10-05 18:53:38",
+      "album": {
+        "name": "Vickie",
+        "url": "https://open.spotify.com/album/526tAZMztvUDsuiSs4Z7Ml"
+      },
+      "artists": [
+        {
+          "name": "Peach Pit",
+          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+        }
+      ],
+      "duration_ms": 223944,
+      "name": "Vickie",
+      "url": "https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ"
+    },
+    {
+      "added_at": "2023-10-05 18:53:38",
+      "album": {
         "name": "Time Will Wait For No One",
         "url": "https://open.spotify.com/album/26sOnKsHrZqqo9agigUH4y"
       },
@@ -2191,34 +2239,18 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
-        "name": "Vickie",
-        "url": "https://open.spotify.com/album/526tAZMztvUDsuiSs4Z7Ml"
+        "name": "New Order T-Shirt",
+        "url": "https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw"
       },
       "artists": [
         {
-          "name": "Peach Pit",
-          "url": "https://open.spotify.com/artist/6fC2AcsQtd9h4BWELbbire"
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
         }
       ],
-      "duration_ms": 223944,
-      "name": "Vickie",
-      "url": "https://open.spotify.com/track/57U1PB3FAleLul5wMj5dEZ"
-    },
-    {
-      "added_at": "2023-10-05 18:53:38",
-      "album": {
-        "name": "Na\u00efve",
-        "url": "https://open.spotify.com/album/06XZphFaqEl3gTtQp8a3hb"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 206173,
-      "name": "Naive",
-      "url": "https://open.spotify.com/track/29XbgaYB4Hs8vlLmpzkRgj"
+      "duration_ms": 296000,
+      "name": "New Order T-Shirt",
+      "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
     },
     {
       "added_at": "2023-10-05 18:53:38",
@@ -2239,22 +2271,6 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
-        "name": "New Order T-Shirt",
-        "url": "https://open.spotify.com/album/2r3ZTexCYXDSGmTbcNyqmw"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "New Order T-Shirt",
-      "url": "https://open.spotify.com/track/6bVQ9ygrzZj9B7Z5hLB1bk"
-    },
-    {
-      "added_at": "2023-10-05 18:53:38",
-      "album": {
         "name": "Hello, All!",
         "url": "https://open.spotify.com/album/3hAyNJLQx0Mdq1LKclx7R4"
       },
@@ -2271,18 +2287,18 @@
     {
       "added_at": "2023-10-05 18:53:38",
       "album": {
-        "name": "Time Shrinks",
-        "url": "https://open.spotify.com/album/70DhLvAJHcpWMoZVWTH1v0"
+        "name": "time waits",
+        "url": "https://open.spotify.com/album/0bQ8W6aJPOW3CI6vlGZGTZ"
       },
       "artists": [
         {
-          "name": "Arcy Drive",
-          "url": "https://open.spotify.com/artist/7o1TBmx7Ube5h2Czlam84O"
+          "name": "Glitter Party",
+          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
         }
       ],
-      "duration_ms": 216531,
-      "name": "Time Shrinks",
-      "url": "https://open.spotify.com/track/5SDIFVKRHCDEuJGD3TSRwV"
+      "duration_ms": 199760,
+      "name": "time waits",
+      "url": "https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4"
     },
     {
       "added_at": "2023-10-05 18:53:38",
@@ -2299,22 +2315,6 @@
       "duration_ms": 161851,
       "name": "Lost Inside My Head",
       "url": "https://open.spotify.com/track/3yIcYpQTvfEnGjKxQjoa01"
-    },
-    {
-      "added_at": "2023-10-05 18:53:38",
-      "album": {
-        "name": "time waits",
-        "url": "https://open.spotify.com/album/0bQ8W6aJPOW3CI6vlGZGTZ"
-      },
-      "artists": [
-        {
-          "name": "Glitter Party",
-          "url": "https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB"
-        }
-      ],
-      "duration_ms": 199760,
-      "name": "time waits",
-      "url": "https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4"
     },
     {
       "added_at": "2023-10-05 18:53:38",

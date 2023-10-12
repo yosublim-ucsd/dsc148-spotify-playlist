@@ -1,12 +1,12 @@
 {
   "description": "Reimagined pop covers of your favorite songs.  Cover: Sam Smith",
-  "num_followers": 111598,
+  "num_followers": 111680,
   "original_name": "Pop Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZDZlODcyNDQzZjhlNDg4MDVkODMxOTFiMmE5ZjcxYzM4Y2MxOTBk",
+  "snapshot_id": "MCxhNmNjNTc2OTk0ZjhiMmE4N2FhZTE2NTFiOTZlMWJkMTAxYmFlYTdk",
   "tracks": [
     {
       "added_at": "2023-09-04 16:45:54",
@@ -219,22 +219,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
-      },
-      "artists": [
-        {
-          "name": "Lewis Capaldi",
-          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
-        }
-      ],
-      "duration_ms": 262544,
-      "name": "drivers license - Spotify Singles",
-      "url": "https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Simply The Best",
         "url": "https://open.spotify.com/album/2IjiX4wNgyntlvPU9a0Yy7"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 173571,
       "name": "Simply The Best",
       "url": "https://open.spotify.com/track/10UTmRvoroe6eZ3ViwkpbN"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1bqvkdrPKF47lM9bZrRvB9"
+      },
+      "artists": [
+        {
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "duration_ms": 262544,
+      "name": "drivers license - Spotify Singles",
+      "url": "https://open.spotify.com/track/10wk4XQdba4QpHgFb28Ktk"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Thank You (SOLOMON VERSION)",
-        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
-      },
-      "artists": [
-        {
-          "name": "SOLOMON",
-          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
-        }
-      ],
-      "duration_ms": 138600,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 176320,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Thank You (SOLOMON VERSION)",
+        "url": "https://open.spotify.com/album/3qEcZxhdZQF14Q869vsUQz"
+      },
+      "artists": [
+        {
+          "name": "SOLOMON",
+          "url": "https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4"
+        }
+      ],
+      "duration_ms": 138600,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0RSzx1yGKVNV8zsDtXdAsL"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -852,22 +852,6 @@
       "added_at": "2023-09-04 16:45:54",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
-      },
-      "artists": [
-        {
-          "name": "Cat Burns",
-          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
-        }
-      ],
-      "duration_ms": 199883,
-      "name": "American Boy - Spotify Singles",
-      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1aFpf6l2J6YEwtBWu8nJjz"
       },
       "artists": [
@@ -879,6 +863,22 @@
       "duration_ms": 168798,
       "name": "I'll Be There For You - Recorded at Metropolis Studios, London",
       "url": "https://open.spotify.com/track/4xtU1fCMODIpnXBqY4wOTo"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5Pn6UVgFupbLC1wgrUHlWO"
+      },
+      "artists": [
+        {
+          "name": "Cat Burns",
+          "url": "https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn"
+        }
+      ],
+      "duration_ms": 199883,
+      "name": "American Boy - Spotify Singles",
+      "url": "https://open.spotify.com/track/5ey77lEIBo0I8XztudXKGP"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "Everytime - Spotify Singles",
+        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
+      },
+      "artists": [
+        {
+          "name": "Ethel Cain",
+          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
+        }
+      ],
+      "duration_ms": 234753,
+      "name": "Everytime - Spotify Singles",
+      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3yPPJlOdCyJVVXR7z7BmFs"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 177261,
       "name": "Watermelon Sugar (featuring Avenue Beat)",
       "url": "https://open.spotify.com/track/6pPD1k342KK4fMU6xPHufi"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Everytime - Spotify Singles",
-        "url": "https://open.spotify.com/album/6h8HbKDzWHULV3lmmEMYt6"
-      },
-      "artists": [
-        {
-          "name": "Ethel Cain",
-          "url": "https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2"
-        }
-      ],
-      "duration_ms": 234753,
-      "name": "Everytime - Spotify Singles",
-      "url": "https://open.spotify.com/track/6NX2uPsnjyEVaHo3x3GSSR"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "The Sunflower Covers (From and Inspired by the Motion Picture \"Spider-Man: Across the Spider-Verse\")",
-        "url": "https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ"
-      },
-      "artists": [
-        {
-          "name": "Isabella Lovestory",
-          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
-        }
-      ],
-      "duration_ms": 161130,
-      "name": "Sunflower",
-      "url": "https://open.spotify.com/track/19Uqe0nRe6hrrVNxQ3q0iC"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/4UNBwrJ55qL75iEqepbIOR"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 169050,
       "name": "Praise You",
       "url": "https://open.spotify.com/track/56dOfIe8TCrSvPBnQduue9"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "The Sunflower Covers (From and Inspired by the Motion Picture \"Spider-Man: Across the Spider-Verse\")",
+        "url": "https://open.spotify.com/album/2JED1rFxGmujnglUiAAzEZ"
+      },
+      "artists": [
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        }
+      ],
+      "duration_ms": 161130,
+      "name": "Sunflower",
+      "url": "https://open.spotify.com/track/19Uqe0nRe6hrrVNxQ3q0iC"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1496,22 +1496,6 @@
       "added_at": "2023-09-04 16:45:54",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 246527,
-      "name": "Hello \u2013 Spotify Singles",
-      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1DwD96qkcmYfDAor27Gj38"
       },
       "artists": [
@@ -1523,6 +1507,22 @@
       "duration_ms": 244315,
       "name": "Stay - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/3kSIXQW05MKcprFP1RtwWX"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79OPMp6YweXMi4whs0eJIV"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 246527,
+      "name": "Hello \u2013 Spotify Singles",
+      "url": "https://open.spotify.com/track/2yN5ip7YyR19rmFSygnrOD"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
-        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 163680,
-      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
-      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
         "url": "https://open.spotify.com/album/1EBYX0KRDEmZLFjoSQabzT"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 194595,
       "name": "Kids in America (From the Netflix Film \"Do Revenge\")",
       "url": "https://open.spotify.com/track/1JN2dN2AVW0EfJMhXniTLi"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Time After Time (From The McDonald\u2019s Christmas Advert 2021)",
+        "url": "https://open.spotify.com/album/3auY1NCpgqrHt2Pn4c43Rm"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 163680,
+      "name": "Time After Time - From The McDonald\u2019s Christmas Advert 2021",
+      "url": "https://open.spotify.com/track/3RE7YmHXNqkfm9kIFOnGtZ"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -1823,6 +1823,22 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
+        "name": "Fireflies",
+        "url": "https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW"
+      },
+      "artists": [
+        {
+          "name": "Sara Kays",
+          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "Fireflies",
+      "url": "https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
         "name": "Version",
         "url": "https://open.spotify.com/album/15uqXXD0sAdZuxNxTxktlR"
       },
@@ -1839,22 +1855,6 @@
       "duration_ms": 319680,
       "name": "Just (feat. Phantom Planet)",
       "url": "https://open.spotify.com/track/341zzm98KLs7O1GGjErHzO"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
-        "name": "Fireflies",
-        "url": "https://open.spotify.com/album/0xc75YODN0gYtngjMtAqkW"
-      },
-      "artists": [
-        {
-          "name": "Sara Kays",
-          "url": "https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH"
-        }
-      ],
-      "duration_ms": 185714,
-      "name": "Fireflies",
-      "url": "https://open.spotify.com/track/4BAlcJ34coNhGeUNfR2qop"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2259,22 +2259,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Montero (Call Me By Your Name)",
-        "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
-      },
-      "artists": [
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 141880,
-      "name": "Montero (Call Me By Your Name)",
-      "url": "https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Division (Deluxe)",
         "url": "https://open.spotify.com/album/4hTubSHf6zjOOPZJmJPyBq"
       },
@@ -2287,6 +2271,22 @@
       "duration_ms": 201506,
       "name": "Against All Odds",
       "url": "https://open.spotify.com/track/1xN885vrS6dd9xfKXAgg4F"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Montero (Call Me By Your Name)",
+        "url": "https://open.spotify.com/album/3dapk74ATaYIUGIYLZBnmG"
+      },
+      "artists": [
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 141880,
+      "name": "Montero (Call Me By Your Name)",
+      "url": "https://open.spotify.com/track/6IhNb9Vd62Iov8Kmbf6EGL"
     },
     {
       "added_at": "2023-09-04 16:45:54",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2023-09-04 16:45:54",
       "album": {
-        "name": "Smells Like Teen Spirit",
-        "url": "https://open.spotify.com/album/4X0aM6J4cffAbWDFHMbnLy"
-      },
-      "artists": [
-        {
-          "name": "Freedom Fry",
-          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
-        }
-      ],
-      "duration_ms": 268437,
-      "name": "Smells Like Teen Spirit",
-      "url": "https://open.spotify.com/track/5IqCc31SeFJd5C7v2JGq0I"
-    },
-    {
-      "added_at": "2023-09-04 16:45:54",
-      "album": {
         "name": "Both Sides Now",
         "url": "https://open.spotify.com/album/05Ye3Or5i0I36wM13lEzyt"
       },
@@ -2383,6 +2367,22 @@
       "duration_ms": 284050,
       "name": "Both Sides Now",
       "url": "https://open.spotify.com/track/0guXAYPSEiOgyYf4AUjrDa"
+    },
+    {
+      "added_at": "2023-09-04 16:45:54",
+      "album": {
+        "name": "Smells Like Teen Spirit",
+        "url": "https://open.spotify.com/album/4X0aM6J4cffAbWDFHMbnLy"
+      },
+      "artists": [
+        {
+          "name": "Freedom Fry",
+          "url": "https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7"
+        }
+      ],
+      "duration_ms": 268437,
+      "name": "Smells Like Teen Spirit",
+      "url": "https://open.spotify.com/track/5IqCc31SeFJd5C7v2JGq0I"
     },
     {
       "added_at": "2023-09-04 16:45:54",

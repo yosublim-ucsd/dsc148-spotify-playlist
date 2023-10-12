@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Canada.
 
-1,932 songs - 4 day 7 hr 32 min
+1,933 songs - 4 day 7 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,7 +150,7 @@
 | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Trigga](https://open.spotify.com/artist/117Ngy9A9prluWeHKheHwz), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF) | 2:57 | 2023-09-12 | 2023-10-09 |
 | [Badders](https://open.spotify.com/track/4zbInBD4rY7tYPJ16LVxdh) | [PEEKABOO](https://open.spotify.com/artist/4Ok1Cm5YX5StCQZgH0r2xF), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [G\-Rex](https://open.spotify.com/artist/0ZpPLGn0OkRMl2Y9Twn16K) | [Badders](https://open.spotify.com/album/0K5ljicneNOkdgx2rNxYBv) | 2:47 | 2023-09-06 | 2023-09-12 |
 | [Baggy Jeans](https://open.spotify.com/track/2pozUjd7AVIPwSNDqoU3ek) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [Golden Age \- The 4th Album](https://open.spotify.com/album/5mUo2e4QpUA7NJl2t51uFu) | 3:31 | 2023-09-14 | 2023-09-20 |
-| [BAIXO](https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [BAIXO](https://open.spotify.com/album/2Osz2h7ZjKHOZh5grL7o6G) | 1:44 | 2023-10-10 |  |
+| [BAIXO](https://open.spotify.com/track/0RVmg31gzlshCm356g0HF2) | [xxanteria](https://open.spotify.com/artist/4nl0CCx6PpEOOr2Z2ThPdp) | [BAIXO](https://open.spotify.com/album/2Osz2h7ZjKHOZh5grL7o6G) | 1:44 | 2023-10-10 | 2023-10-12 |
 | [Baller](https://open.spotify.com/track/42TMa2hgBNjte4uV7jNCnQ) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Baller](https://open.spotify.com/album/44aCFqUbG06fL58kqpMp8p) | 2:28 | 2022-10-04 | 2022-10-18 |
 | [Ballroom Extravaganza](https://open.spotify.com/track/4vJfBno2d0mTjMcYn5lEln) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Moodswings In To Order](https://open.spotify.com/album/7vp2iMEQzhNX4sEIUbHpiJ) | 3:09 | 2022-08-23 | 2022-08-31 |
 | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0QBzMgT7NIeoCYy3sJCof1) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Bam Bam \(feat\. Ed Sheeran\)](https://open.spotify.com/album/6FIMt58naoGYrOe4Wn2P3n) | 3:26 | 2022-03-29 | 2022-04-10 |
@@ -1199,6 +1199,7 @@
 | [Nothing Changed](https://open.spotify.com/track/37If4sC0Si28T6z63qhR5z) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Takeoff](https://open.spotify.com/artist/3EW0kQ1skZiK1NHg3Spt9J) | [Only Built For Infinity Links](https://open.spotify.com/album/59hIIDzaPSH5O3QSz4zX0t) | 3:19 | 2022-11-04 | 2022-11-11 |
 | [Nothing Compares 2 U](https://open.spotify.com/track/5GHY1DFWKz3Prg2V0Iodqo) | [Sinéad O'Connor](https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1) | [I Do Not Want What I Haven't Got](https://open.spotify.com/album/0fV9DAddjwNZcmCP1Q8b01) | 4:40 | 2023-07-27 | 2023-08-07 |
 | [Nothing Else Matters](https://open.spotify.com/track/3uErbNGaNIPJkRlMrLxR9Z) | [Apocalyptica](https://open.spotify.com/artist/4Lm0pUvmisUHMdoky5ch2I) | [Inquisition Symphony](https://open.spotify.com/album/6leqa6QQESn76w64IdN9yQ) | 4:45 | 2022-12-12 | 2022-12-24 |
+| [Nothing's New](https://open.spotify.com/track/0EF1EE8zusg3Y869e56JFd) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good God!](https://open.spotify.com/album/3fIxJzinc2MADbgfkLrmYY) | 3:31 | 2023-10-11 |  |
 | [Notion](https://open.spotify.com/track/0sTlGEld0h8kIPZaKDYUf4) | [The Rare Occasions](https://open.spotify.com/artist/1QfpRUtH14JLoY6F6AYmwt) | [Notion](https://open.spotify.com/album/4Uf8BVznefnd2xZm2nRFUx) | 3:15 | 2022-02-15 | 2022-02-18 |
 | [Notti Bop](https://open.spotify.com/track/0IEpFiWXbmfpiiUHPlPkYC) | [Kyle Richh](https://open.spotify.com/artist/0hF6lbAjRsq4svrQUr5sgU), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM), [TaTa](https://open.spotify.com/artist/43s6uFZrdusv7ggmDSpO41) | [Notti Bop](https://open.spotify.com/album/7vkQS7TYsnbF0AopUZ7tjI) | 3:45 | 2022-11-01 | 2022-11-23 |
 | [novocaine](https://open.spotify.com/track/2OrucC3HEPmZpkaQ05Nx0V) | [GenriX](https://open.spotify.com/artist/6hxcqtqpmf08pTDkffU5xx), [CORBAL](https://open.spotify.com/artist/2jjSx5EpZwv9iBAgFkGWPh), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [unfortunately yours,](https://open.spotify.com/album/1fm7CNqCCdnqOoxdb23VTs) | 3:15 | 2023-03-11 | 2023-04-19 |

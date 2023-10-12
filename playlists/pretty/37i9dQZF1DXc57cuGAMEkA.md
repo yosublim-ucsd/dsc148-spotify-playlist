@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Drake, Ado, NewJeans, James Arthur, 大橋トリオ and more! Cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,959 likes - 74 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,912 likes - 74 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 47 | [Sorry For The Drama](https://open.spotify.com/track/5WhP5twAAdHUo3CxKcwMa2) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Sorry For The Drama](https://open.spotify.com/album/5BzuEBSDMfwBhUobVPyQCh) | 3:11 |
 | 48 | [Best Of Me](https://open.spotify.com/track/3Z19t8pNaAHqlLmz2LuwNa) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Sincerely, Benson](https://open.spotify.com/album/3dctFKCiGPizmylLp0SN0a) | 3:51 |
 | 49 | [Soft](https://open.spotify.com/track/3QZ3RYgqaOvg56tOGxDQnB) | [VILLSHANA](https://open.spotify.com/artist/57weAzpeaELcDcAuqngdDo), [SALU](https://open.spotify.com/artist/2AwGvrbcvOSx5HDwc4OQE3) | [KILL VILL](https://open.spotify.com/album/5dOuAEcGum8wvhvznPhDDM) | 2:56 |
-| 50 | [Naiteiinda](https://open.spotify.com/track/0XG0tbMYCtXac43tJaA3Dg) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [Naiteiinda](https://open.spotify.com/album/43Z43JtRCAwtORme6d6BnR) | 3:40 |
+| 50 | [Naiteiinda](https://open.spotify.com/track/4qYnNRrUStS7FLdosbQFPS) | [flumpool](https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o) | [The Best flumpool 2.0 \~ Blue\(2008\-2011\)& Red\(2019\-2023\) \~](https://open.spotify.com/album/1jUNCwNItivgFwAqqrAMNv) | 3:40 |
 | 51 | [音楽と人](https://open.spotify.com/track/0ROUxl1XaYH7PmYNQp5VW6) | [Wasureranneyo](https://open.spotify.com/artist/7mhywHwc3ElwYwiMLEsduP) | [音楽と人](https://open.spotify.com/album/3u9T7DyLEOc2vQINDZa6L4) | 3:29 |
 | 52 | [Walking On Ice](https://open.spotify.com/track/0QpjxbyUFXkGYpBgFsza2V) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [Walking On Ice](https://open.spotify.com/album/4rzlFh4dPWc2rh7C68lDTk) | 2:43 |
 | 53 | [Normal People Things](https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p) | [Lovejoy](https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C) | [Normal People Things](https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC) | 2:44 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 73 | [A Story About You](https://open.spotify.com/track/5V72jZAUZaDMdvxPP0cqUF) | [Nautilus](https://open.spotify.com/artist/4BkWJqgQzg2M6iVG8u8mPA) | [A Story About You](https://open.spotify.com/album/6NcVwfLTgSJpiqyp2yinQx) | 4:29 |
 | 74 | [Winter Wonderland](https://open.spotify.com/track/24s5Gc28FaxK3d2chsNFY9) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [A Mary Christmas \(Anniversary Edition\)](https://open.spotify.com/album/1q2qXiPG7Q75ZXse3uPrmO) | 2:48 |
 
-Snapshot ID: `MCw4NDJkOWFhMTlkMjUzNTgxOTlmZDgxMTM2ZDUwZDRkYjU3ZmExZjk4`
+Snapshot ID: `MCxjOWVjMmEyMWQwZmE3ZTk5ZGRjZjEwMjI4MzI0ZWIzZDdjMjhjMGI1`

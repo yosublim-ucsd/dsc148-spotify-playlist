@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover:Kassy\(케이시\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover:BIG MAMA\(빅마마\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,015 songs - 2 day 17 hr 50 min
+1,018 songs - 2 day 18 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [A season of us](https://open.spotify.com/track/5GfQle9Jd24WI694vlyv42) | [PL](https://open.spotify.com/artist/3ZRrPmnB6ORWKeEJ8qawnP) | [Love Interference 2022 \(Original Television Soundtrack\), Pt.10](https://open.spotify.com/album/1bWCEocci2kyEpWLdOjVRW) | 3:54 | 2022-07-07 | 2022-08-19 |
 | [A Shining Day](https://open.spotify.com/track/7K5uJR4gWSUuC6fjiuQfCr) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [A Shining Day](https://open.spotify.com/album/3KXP1SNW4ZHn9LNy4hyBBF) | 2:58 | 2023-05-29 |  |
 | [A Song For You](https://open.spotify.com/track/3W1q6gcfqHOmmGWMAeJsUJ) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [A Song For You](https://open.spotify.com/album/5vvVMVn3uDoftumulPKMJw) | 3:47 | 2023-01-27 | 2023-03-28 |
+| [About loneliness](https://open.spotify.com/track/5LetmN5BQqMazBjdgDrhcf) | [Aalia](https://open.spotify.com/artist/5RLNUxUo4XUoT6YrkVvetS) | [Twinkling Watermelon \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5gtREUJxp66RTodUXHjQbq) | 3:53 | 2023-10-11 |  |
 | [About time](https://open.spotify.com/track/640mnKfbSWaw7ZVHtqW5qT) | [Mackelli](https://open.spotify.com/artist/3U1caC0cdwaoCO94Kj38C7) | [Dr\. Choi Ki Seok \(Original Webtoon Soundtrack\) Pt.4](https://open.spotify.com/album/0nmZwQAXIexeYz0FLNNZ7Q) | 3:48 | 2023-04-26 | 2023-09-12 |
 | [Aching](https://open.spotify.com/track/017eGASA1dbhQOb942TuQx) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Alchemy of Souls, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2lQsPX6qa4zqpcPwVLRCsU) | 4:11 | 2022-07-07 | 2022-10-08 |
 | [Adore \(with Choi moonseok\)](https://open.spotify.com/track/6h9VUjsb3xv5F01Wit0URp) | [LIMZY](https://open.spotify.com/artist/5UBoOzYYNpwHfwXqr1JNXS), [Choi Moon Seok](https://open.spotify.com/artist/0kgjv7IJnvcz5RmnHlXrdt) | [Adore \(with Choi moonseok\)](https://open.spotify.com/album/02RJLVNAY5wEJCrWIhR6jq) | 3:52 | 2023-02-24 | 2023-06-23 |
@@ -302,6 +303,7 @@
 | [Happiness](https://open.spotify.com/track/1rguO7AsN5jYbXr5POizxK) | [HYB \(Huh Gak,Shin Yong Jae,Onestar\)](https://open.spotify.com/artist/75LV0HV0cURCViNnAZ1SQt) | [Happiness](https://open.spotify.com/album/2qobgmbXd3qd7RVFMFWsvU) | 4:16 | 2023-08-24 |  |
 | [Happiness \(feat\. Lee Raon, Ban Gwang Ok, Jung Young Eun & Jeon Sang Keun\)](https://open.spotify.com/track/3rxJpoEe435WLkaqJK5dnO) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j), [Ban Gwang Ok](https://open.spotify.com/artist/0xLSqFBJp63NWp5CKTZ2aS), [Jeon Sang Keun](https://open.spotify.com/artist/3uCDicSmenMBtsKb5A51dd), [Jung Young Eun](https://open.spotify.com/artist/26GxfwRT2NHxeq2qrdAVbf), [Leeraon](https://open.spotify.com/artist/5FsMBpsPFTzURDjb2T3ane) | [Happy Ending](https://open.spotify.com/album/7kbingImpbGPK2lz8G9c1p) | 4:20 | 2021-12-20 | 2022-07-02 |
 | [Happy Ending](https://open.spotify.com/track/1Ik7tOkpdPNBArJuvbc7Rz) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq), [Kang Seungwon](https://open.spotify.com/artist/48DsjCcpYJQWi5fulzyuBm) | [Happy Ending](https://open.spotify.com/album/3gIgM2702guh1dn8taB5k3) | 3:55 | 2022-07-22 | 2022-10-13 |
+| [Happy Me](https://open.spotify.com/track/5VC7zSNSIwLumbjuPuFt7C) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [Happy Me](https://open.spotify.com/album/4zFfQBm5sBkKosycicJVAG) | 4:30 | 2023-10-11 |  |
 | [Hard to Say I Love You](https://open.spotify.com/track/2ilUqImdWBVPrzWL4kTbxx) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Red Balloon OST Part.3](https://open.spotify.com/album/5fvFvfK7fzy9jTZdiqGPNS) | 4:05 | 2023-01-20 | 2023-02-15 |
 | [He's next to you, instead of me](https://open.spotify.com/track/1vMxDpmSBRHhh0eRCLxQcQ) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [He's next to you, instead of me](https://open.spotify.com/album/0blCdfQUSARuYDtwzHUxqP) | 2:52 | 2022-02-17 | 2022-07-06 |
 | [Heart](https://open.spotify.com/track/1BuA7GJXWD6P9LMShz7YSt) | [DK](https://open.spotify.com/artist/4l7mkcB0cZgIQrcd2AsQI3) | [Heart](https://open.spotify.com/album/3MGuNgtEJTCkgHtiMFfARP) | 4:17 | 2023-09-14 |  |
@@ -884,6 +886,7 @@
 | [Until I love the love](https://open.spotify.com/track/1Qv9rEY9i8E78NQ3xRsKbE) | [Choi junghoon of Jannabi](https://open.spotify.com/artist/3tYhkFMgzudLuw0ICWgnko) | [Until I love the love](https://open.spotify.com/album/4wOnyTSfHScSoCxq54NzVX) | 3:56 | 2022-04-21 | 2022-04-24 |
 | [Until The End](https://open.spotify.com/track/5ywcBaGtUM4WmAuew0SrYF) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Until The End](https://open.spotify.com/album/3nttddhDLwta0CfJN5RUjI) | 4:08 | 2022-07-07 | 2022-08-13 |
 | [Untitled](https://open.spotify.com/track/7qoNik0g1HwjxPlIXkXoAD) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [Untitled](https://open.spotify.com/album/2sgztJsIjPUwd6qWA5qw3E) | 3:22 | 2022-11-03 | 2023-01-21 |
+| [Waiting all day](https://open.spotify.com/track/0LaQ4W4RqpdUn7WQxsT5ys) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [Waiting all day](https://open.spotify.com/album/3xSW8rCfLopuPonyzj9RgJ) | 4:40 | 2023-10-11 |  |
 | [Waiting for Spring](https://open.spotify.com/track/2V19urBSfuZu7k8THUpFa3) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [bimil:ier vol.2 "Waiting for Spring"](https://open.spotify.com/album/160i9qiaCyfd8l5YzjYMIY) | 3:21 | 2022-01-14 | 2022-06-11 |
 | [Waiting Fou You](https://open.spotify.com/track/1TWjbxRYeG0BF6TL8rVpAT) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5) | [Waiting Fou You \(CURTAIN CALL OST Part.1\)](https://open.spotify.com/album/3XwhlL7dKkT3PaTBlqLRZf) | 4:06 | 2022-11-01 | 2022-12-28 |
 | [Walk With Me](https://open.spotify.com/track/3S5dxFnvl6viLuCAAyZG5B) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [The Law Cafe \(Original Television Soundtrack\), Pt.8](https://open.spotify.com/album/7hjoE9fNpsXQszf6vL8wMR) | 3:37 | 2022-10-12 | 2023-01-21 |

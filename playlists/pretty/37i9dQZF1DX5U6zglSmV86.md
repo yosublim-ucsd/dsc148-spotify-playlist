@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 
 > Nuestra alma mater es la calle\. La Santa Grifa en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,845 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,863 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 66 | [Se Le Batalla](https://open.spotify.com/track/0VEgZAhQ59CxSnPAjay03D) | [HR Dave](https://open.spotify.com/artist/2ivk6qPEBKEAbtbV8hqw07), [El Pinche Brujo](https://open.spotify.com/artist/1LjUlFOtTxcvWZQldBMSOW) | [Se Le Batalla](https://open.spotify.com/album/5UgBCPw2xI04J69Sg0pGTY) | 3:47 |
 | 67 | [BIEN](https://open.spotify.com/track/3SojRz8QWCcDobJTkEC56e) | [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP), [Doble P Ache Ene](https://open.spotify.com/artist/5yh17UV0XSFV1lzzFC39XR) | [BIEN](https://open.spotify.com/album/6D2pfqxHrPDnJGnUNlubJD) | 3:29 |
 | 68 | [Amen](https://open.spotify.com/track/6wHUzTthgr27sx5gmnGcoQ) | [Tm Zaiko](https://open.spotify.com/artist/6rRCboLhCMJPvte1IRHwsl), [ILUMINATIK BUFFON](https://open.spotify.com/artist/7CvKsTEWv1BS3LydN8HgG6) | [Amen](https://open.spotify.com/album/404WBaD5C2nZURNahDhDZu) | 3:39 |
-| 69 | [Aves](https://open.spotify.com/track/2rSPCAmoC7rUxxLawaZNCD) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy) | [Aves](https://open.spotify.com/album/5sl6uSvqM1XdJEPChi8akL) | 3:19 |
+| 69 | [Aves](https://open.spotify.com/track/4aJcMCvvT5C56DTlN6Y3Wj) | [Solo Cadaver](https://open.spotify.com/artist/2pOyR8sdYfEmd4VIyeLDUy) | [Aves](https://open.spotify.com/album/3dTZ7GIUqstVhcu0M9I0vR) | 3:19 |
 | 70 | [Derrochando Estilo](https://open.spotify.com/track/4I98VytVQXNTScYphARAGH) | [Chikis RA](https://open.spotify.com/artist/77LLHWAIQ3ox7VDtrqofeA) | [Derrochando Estilo](https://open.spotify.com/album/69VroiPXANkirFKgDSp9rt) | 2:47 |
 | 71 | [La Sombra](https://open.spotify.com/track/5LcFkBiHvB5BtIGdmWCAa0) | [El Borrado M](https://open.spotify.com/artist/1nYRM9yL1zT3lvSMCWg13U) | [La Sombra](https://open.spotify.com/album/2OEksELjCabVES5tiWoXcN) | 3:56 |
 | 72 | [El Largo V1](https://open.spotify.com/track/4iBgsgrNa1V6rdEkxrD5Vq) | [El Borrado M](https://open.spotify.com/artist/1nYRM9yL1zT3lvSMCWg13U) | [El Largo V1](https://open.spotify.com/album/2glwuU6kbHaFzKuNU5J9wv) | 3:20 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5U6zglSmV86.md) - [plain]
 | 74 | [HDP](https://open.spotify.com/track/6Yz3ftaOXFBSIUh8DKFoLp) | [Duendy](https://open.spotify.com/artist/6EcbitbSqckbOT8K5Bjhrk), [Dorian Cracken](https://open.spotify.com/artist/1qrJLoZNlTEVIg47qBWCnc), [Cuervo Loomi](https://open.spotify.com/artist/5I3JpPqcXZjUiLOmDFKQfE) | [HDP](https://open.spotify.com/album/671zdpfcfgpxxEsEP3XUo5) | 3:42 |
 | 75 | [Nos Van a Conocer](https://open.spotify.com/track/1XcODam3aq5Zs70GFXlhei) | [Agw Beats](https://open.spotify.com/artist/5cCs0AWlMd3d3sBMqE2gLy), [Char MX](https://open.spotify.com/artist/4iE0sXv3Oyfskggb2BKjnW), [Kambu](https://open.spotify.com/artist/57rDkxjPOZ5Tvy1MbSv9nQ) | [Nos Van a Conocer](https://open.spotify.com/album/3iXBS3JlOxBn65Q1uBTvLc) | 3:12 |
 
-Snapshot ID: `MCw2Y2Q4Yjc0ZDgxZTZiNzg5OWRiN2IxZGMyMWFjYTdlNmY2MTA1ZTIz`
+Snapshot ID: `MCw3M2FmOTlmZWRmMjI0MWZiYWJmMTNlYTUzYTY4NWQ3YzgzMjZhYmZk`

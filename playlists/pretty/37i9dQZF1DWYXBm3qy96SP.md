@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Paramore
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,872 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,856 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 58 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 |
 | 59 | [Damage Gets Done \(feat\. Brandi Carlile\)](https://open.spotify.com/track/2OLaeJRrRjFgLfTsccnzlM) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:28 |
 | 60 | [When I Come Around \- Cassette demo](https://open.spotify.com/track/4ECOhAff9rCHTgddtPO1Wa) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Dookie \(30th Anniversary Deluxe Edition\)](https://open.spotify.com/album/47l8TkJCLzHaekHImz1e9g) | 2:59 |
-| 61 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 |
+| 61 | [Overcome](https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:34 |
 | 62 | [I Don't Wanna Dance \(feat\. Baby Tate\)](https://open.spotify.com/track/77v0c1CYJ04g9IteCB4Hfu) | [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Existential Crisis Boy \(Part 1\)](https://open.spotify.com/album/5TVQXYqzF5t6HQMHKZVWUQ) | 3:07 |
-| 63 | [Overcome](https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Dead Club City](https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7) | 3:34 |
+| 63 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 |
 | 64 | [It Won't Be Like This Forever](https://open.spotify.com/track/748NBl59GV0pfENbadjSxE) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [It Won't Be Like This Forever](https://open.spotify.com/album/4iwi5cpXPASmSueTCcLPkc) | 3:27 |
 | 65 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
 | 66 | [Losing Game](https://open.spotify.com/track/5Hloo9hpO9fVbOBhyorNnT) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Losing Game](https://open.spotify.com/album/6XPjsxlgipjhdzzbDPsM9o) | 4:01 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 93 | [Left Behind](https://open.spotify.com/track/5G6jZFDAFlpAA9v5LTV4NI) | [The Plot In You](https://open.spotify.com/artist/1cJ5tVoeAEFcZBAwSZ0CtF) | [Left Behind](https://open.spotify.com/album/2efABZ7jsJTkRkZALraqEM) | 3:26 |
 | 94 | [第ゼロ感](https://open.spotify.com/track/3GGOKTfxgyluPvAFnB30zE) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [第ゼロ感](https://open.spotify.com/album/7hUGSAApToftQu366lqPVf) | 4:47 |
 | 95 | [Nobody](https://open.spotify.com/track/4Rs2N7ewIjanXUNYtMKK3j) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Life Is But a Dream…](https://open.spotify.com/album/50YNY0xy9uJ0U9eFQBdLJa) | 5:53 |
-| 96 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 |
-| 97 | [Might Love Myself](https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Might Love Myself](https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa) | 3:39 |
+| 96 | [Might Love Myself](https://open.spotify.com/track/16Wp9vdeUWQSESvgYFhksa) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Might Love Myself](https://open.spotify.com/album/0ljuBtTppOSas8ZE46yLwa) | 3:39 |
+| 97 | [Caffeine](https://open.spotify.com/track/1pJk9Ai1GNT0HPWdRpgbBx) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 3:04 |
 | 98 | [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/track/5koxSCWVJInF4T6jj5SQ3H) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D), [Patrick Wilson](https://open.spotify.com/artist/7JDIzsiYm1WS3zUpiTdW52) | [Stay \[Feat\. Patrick Wilson\]](https://open.spotify.com/album/0VwhjiLBA4WtDGIuAWaG5Z) | 3:54 |
-| 99 | [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 |
-| 100 | [Seasons](https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Seasons](https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U) | 2:46 |
+| 99 | [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 |
+| 100 | [Paper Machete](https://open.spotify.com/track/4zx4H3Q0ASymmPgbfUmeRo) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 3:22 |
 
-Snapshot ID: `MCxlNGZjNWU5YWY4YTYzMzQxN2VkNTRiN2ZhMzgxN2VmN2UxMWIzNjE1`
+Snapshot ID: `MCw3M2IzMTlmMzM5NWE2NjcyMDk5MDU5NmI2YTFiYmU4NzI0ZDMzYjMw`

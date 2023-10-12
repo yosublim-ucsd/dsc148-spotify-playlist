@@ -1,12 +1,12 @@
 {
   "description": "This is Singeli. High energy dance music echoing throughout the streets of Tanzania ",
-  "num_followers": 2302,
+  "num_followers": 2308,
   "original_name": "Singeli Sounds",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZDZhMTQ0OTg1MTlmMjJiNzdlMjhlZWIxZTljM2NlYTVmZjY5Y2I0",
+  "snapshot_id": "MCw4MmFjYWJiMTE3MjQ5NDc4MWUwNjQ5ZGE3MzFmNzRiZjU3NjYxNTJk",
   "tracks": [
     {
       "added_at": "2023-09-14 20:59:00",
@@ -239,26 +239,6 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
-        "name": "Mamu Remix",
-        "url": "https://open.spotify.com/album/0BLcM5UfOvQHCmDTHSfdkK"
-      },
-      "artists": [
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        },
-        {
-          "name": "Mr Blue",
-          "url": "https://open.spotify.com/artist/6LZKOSFfFwfHgZAYXmbfi9"
-        }
-      ],
-      "duration_ms": 371880,
-      "name": "Mamu Remix - Remix",
-      "url": "https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
         "name": "Kuachana Shingapi (Remix)",
         "url": "https://open.spotify.com/album/2w2aOS4rDsCVtYfYqKHwU1"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 248764,
       "name": "Kuachana Shingapi (Remix)",
       "url": "https://open.spotify.com/track/1KR0tYJgXooNjySfDOtPVH"
+    },
+    {
+      "added_at": "2023-09-14 20:59:00",
+      "album": {
+        "name": "Mamu Remix",
+        "url": "https://open.spotify.com/album/0BLcM5UfOvQHCmDTHSfdkK"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        },
+        {
+          "name": "Mr Blue",
+          "url": "https://open.spotify.com/artist/6LZKOSFfFwfHgZAYXmbfi9"
+        }
+      ],
+      "duration_ms": 371880,
+      "name": "Mamu Remix - Remix",
+      "url": "https://open.spotify.com/track/7pzSnR2pGiDsjDjjBYOP7O"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -359,6 +359,26 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
+        "name": "Wanga",
+        "url": "https://open.spotify.com/album/4J7iQKFw84STrI3YKSTTpx"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        },
+        {
+          "name": "Lava Lava",
+          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
+        }
+      ],
+      "duration_ms": 244767,
+      "name": "Wanga",
+      "url": "https://open.spotify.com/track/43LURXlVucl8rSjA8zRjuk"
+    },
+    {
+      "added_at": "2023-09-14 20:59:00",
+      "album": {
         "name": "We Nani",
         "url": "https://open.spotify.com/album/0c3dq7ph6tp2bhCvDzpPL0"
       },
@@ -391,6 +411,22 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
+        "name": "Nikizipata",
+        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
+      },
+      "artists": [
+        {
+          "name": "Dulla Makabila",
+          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Nikizipata",
+      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
+    },
+    {
+      "added_at": "2023-09-14 20:59:00",
+      "album": {
         "name": "Penzi Jipya",
         "url": "https://open.spotify.com/album/6w38hV7TcLYrKwhIoVzxM1"
       },
@@ -407,42 +443,6 @@
       "duration_ms": 314493,
       "name": "Penzi Jipya",
       "url": "https://open.spotify.com/track/06n62HV6RIhYiZHkjVvjwc"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
-        "name": "Wanga",
-        "url": "https://open.spotify.com/album/4J7iQKFw84STrI3YKSTTpx"
-      },
-      "artists": [
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        },
-        {
-          "name": "Lava Lava",
-          "url": "https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd"
-        }
-      ],
-      "duration_ms": 244767,
-      "name": "Wanga",
-      "url": "https://open.spotify.com/track/43LURXlVucl8rSjA8zRjuk"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
-        "name": "Nikizipata",
-        "url": "https://open.spotify.com/album/6zk14RHkGJfDvxWw1rtuy4"
-      },
-      "artists": [
-        {
-          "name": "Dulla Makabila",
-          "url": "https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Nikizipata",
-      "url": "https://open.spotify.com/track/5Q2aW3Deb1Kis2JdodvlCa"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -503,26 +503,6 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
-        "name": "Singeli Jungles",
-        "url": "https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n"
-      },
-      "artists": [
-        {
-          "name": "MC Palakata",
-          "url": "https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7"
-        },
-        {
-          "name": "Tom Blip",
-          "url": "https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x"
-        }
-      ],
-      "duration_ms": 280393,
-      "name": "Singeli Jungles",
-      "url": "https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
         "name": "Niite Mbwa",
         "url": "https://open.spotify.com/album/1uxo0zn1wEVsPGxXX1htQ9"
       },
@@ -543,42 +523,6 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
-        "name": "Sawa Nitaacha",
-        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
-      },
-      "artists": [
-        {
-          "name": "Balaa MC",
-          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
-        }
-      ],
-      "duration_ms": 218197,
-      "name": "Sawa Nitaacha",
-      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
-        "name": "Cheusi Cheupe (feat. Meja Kunta)",
-        "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
-      },
-      "artists": [
-        {
-          "name": "Ommy Dimpoz",
-          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
-        },
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Cheusi Cheupe (feat. Meja Kunta)",
-      "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
         "name": "Boss Kalewa",
         "url": "https://open.spotify.com/album/3hObipsh4XFmmdFvFKO52w"
       },
@@ -591,6 +535,42 @@
       "duration_ms": 323972,
       "name": "Boss Kalewa",
       "url": "https://open.spotify.com/track/0hWLGhDjvYyXqDfHJstOpb"
+    },
+    {
+      "added_at": "2023-09-14 20:59:00",
+      "album": {
+        "name": "Singeli Jungles",
+        "url": "https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n"
+      },
+      "artists": [
+        {
+          "name": "MC Palakata",
+          "url": "https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7"
+        },
+        {
+          "name": "Tom Blip",
+          "url": "https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x"
+        }
+      ],
+      "duration_ms": 280393,
+      "name": "Singeli Jungles",
+      "url": "https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy"
+    },
+    {
+      "added_at": "2023-09-14 20:59:00",
+      "album": {
+        "name": "Sawa Nitaacha",
+        "url": "https://open.spotify.com/album/2FrGDEyLSt7r5TIPb88KcQ"
+      },
+      "artists": [
+        {
+          "name": "Balaa MC",
+          "url": "https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR"
+        }
+      ],
+      "duration_ms": 218197,
+      "name": "Sawa Nitaacha",
+      "url": "https://open.spotify.com/track/48HlmOUD7vUASd0AqkZkbr"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -615,6 +595,26 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
+        "name": "Cheusi Cheupe (feat. Meja Kunta)",
+        "url": "https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR"
+      },
+      "artists": [
+        {
+          "name": "Ommy Dimpoz",
+          "url": "https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6"
+        },
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Cheusi Cheupe (feat. Meja Kunta)",
+      "url": "https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu"
+    },
+    {
+      "added_at": "2023-09-14 20:59:00",
+      "album": {
         "name": "Umekopwa",
         "url": "https://open.spotify.com/album/2Kp8OjPf5MXnFVwddqNy8X"
       },
@@ -631,6 +631,22 @@
       "duration_ms": 283884,
       "name": "Umekopwa",
       "url": "https://open.spotify.com/track/2n7tGYrsfxxMTfdUFpaokG"
+    },
+    {
+      "added_at": "2023-09-14 20:59:00",
+      "album": {
+        "name": "Chura Superstar",
+        "url": "https://open.spotify.com/album/5M4vDpC8xehFml0hAOXrVi"
+      },
+      "artists": [
+        {
+          "name": "Meja Kunta",
+          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
+        }
+      ],
+      "duration_ms": 349880,
+      "name": "Chura Superstar",
+      "url": "https://open.spotify.com/track/14xLOCMIFzks6x7H1lTDqg"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -655,22 +671,6 @@
     {
       "added_at": "2023-09-14 20:59:00",
       "album": {
-        "name": "Hits of Aslay",
-        "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
-      },
-      "artists": [
-        {
-          "name": "Aslay",
-          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
-        }
-      ],
-      "duration_ms": 202631,
-      "name": "Umbea",
-      "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
         "name": "Hujanikomoa",
         "url": "https://open.spotify.com/album/3wG7OVKa5pP6rl103ji9qM"
       },
@@ -683,30 +683,6 @@
       "duration_ms": 359026,
       "name": "Hujanikomoa",
       "url": "https://open.spotify.com/track/32fa47Dvcz1YyqnCDCsB3Z"
-    },
-    {
-      "added_at": "2023-09-14 20:59:00",
-      "album": {
-        "name": "Demu Wangu (Remix)",
-        "url": "https://open.spotify.com/album/7zSRhcHQG4jIHEHBSq5euQ"
-      },
-      "artists": [
-        {
-          "name": "Meja Kunta",
-          "url": "https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku"
-        },
-        {
-          "name": "Marioo",
-          "url": "https://open.spotify.com/artist/4ZTqTkO2kj1doQrbqQ5KEe"
-        },
-        {
-          "name": "MABANTU",
-          "url": "https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8"
-        }
-      ],
-      "duration_ms": 247167,
-      "name": "Demu Wangu",
-      "url": "https://open.spotify.com/track/2zl5QAmjBZVDmpBNX7mnx2"
     },
     {
       "added_at": "2023-09-14 20:59:00",
@@ -727,6 +703,22 @@
       "duration_ms": 298358,
       "name": "Sina",
       "url": "https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n"
+    },
+    {
+      "added_at": "2023-09-14 20:59:00",
+      "album": {
+        "name": "Hits of Aslay",
+        "url": "https://open.spotify.com/album/7vJk8NI5VsNSu32oDwDFBC"
+      },
+      "artists": [
+        {
+          "name": "Aslay",
+          "url": "https://open.spotify.com/artist/2dAy5LichEXHjCkpzgcKJr"
+        }
+      ],
+      "duration_ms": 202631,
+      "name": "Umbea",
+      "url": "https://open.spotify.com/track/2CM64sgvm2Pra9Fk3ptlFu"
     },
     {
       "added_at": "2023-09-14 20:59:00",

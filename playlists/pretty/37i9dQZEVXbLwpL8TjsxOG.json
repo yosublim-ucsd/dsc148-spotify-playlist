@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hong Kong.",
-  "num_followers": 112145,
+  "num_followers": 112119,
   "original_name": "Top 50 - Hong Kong",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUwMzAyNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUwMzg4ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "\u6fe4",
         "url": "https://open.spotify.com/album/2fwUdeULjPXQyCvKdUbIoI"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/1xRMtDxiU8xxAlaDscHIoT"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Dummy",
         "url": "https://open.spotify.com/album/2xJTRjTHMPl7OkPplpvvjN"
@@ -41,7 +41,23 @@
       "url": "https://open.spotify.com/track/2CwGJLH5jTBlVQhMfjCc6e"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 179164,
+      "name": "You & Me",
+      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "ON",
         "url": "https://open.spotify.com/album/3s4zwwsOeM9KkNIglv5HLj"
@@ -57,7 +73,7 @@
       "url": "https://open.spotify.com/track/2Yccw4AWlnf8BMcD4rnlFc"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
@@ -77,7 +93,7 @@
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Dear My Friend,",
         "url": "https://open.spotify.com/album/63tXaSpdAXnGGTAR9obRz3"
@@ -93,7 +109,7 @@
       "url": "https://open.spotify.com/track/11IqNbLOD4s4nVYSuEttFR"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "\u6d6a\u6f2b\u6bba\u6b7b\u5de8\u87f9\u5ea7",
         "url": "https://open.spotify.com/album/7yMSjlEGWD3lU3ayZbZbVw"
@@ -109,7 +125,7 @@
       "url": "https://open.spotify.com/track/2fOpn6RdCJzcYl32PZCMM3"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "\u8ffd",
         "url": "https://open.spotify.com/album/6sGJi4077dMoVi362niYP5"
@@ -125,39 +141,7 @@
       "url": "https://open.spotify.com/track/3uHE0cVFDFDORAVhwLqL4p"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "JENNIE Special Single [You & Me]",
-        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 179164,
-      "name": "You & Me",
-      "url": "https://open.spotify.com/track/6gcuJpHu0Ey30D5WR76y98"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "\u98a8\u96e8\u4e0d\u6539 (\u96fb\u5f71\u300a\u963f\u5abd\u6709\u5497\u7b2c\u4e8c\u500b\u300b\u4e3b\u984c\u66f2)",
-        "url": "https://open.spotify.com/album/7CfGrYOJFzKlLn9yj1Ed9d"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 308053,
-      "name": "\u98a8\u96e8\u4e0d\u6539 (\u96fb\u5f71\u300a\u963f\u5abd\u6709\u5497\u7b2c\u4e8c\u500b\u300b\u4e3b\u984c\u66f2)",
-      "url": "https://open.spotify.com/track/172oAbLGpgeCsukno7oBRe"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "3D : The Remixes",
         "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
@@ -177,7 +161,23 @@
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "\u98a8\u96e8\u4e0d\u6539 (\u96fb\u5f71\u300a\u963f\u5abd\u6709\u5497\u7b2c\u4e8c\u500b\u300b\u4e3b\u984c\u66f2)",
+        "url": "https://open.spotify.com/album/7CfGrYOJFzKlLn9yj1Ed9d"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 308053,
+      "name": "\u98a8\u96e8\u4e0d\u6539 (\u96fb\u5f71\u300a\u963f\u5abd\u6709\u5497\u7b2c\u4e8c\u500b\u300b\u4e3b\u984c\u66f2)",
+      "url": "https://open.spotify.com/track/172oAbLGpgeCsukno7oBRe"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Nah",
         "url": "https://open.spotify.com/album/6v7Zqb7lpvMggCXkdANM6e"
@@ -193,39 +193,7 @@
       "url": "https://open.spotify.com/track/7nJlkwxJSNDqO20WWeLuNX"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "JENNIE Special Single [You & Me]",
-        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 179864,
-      "name": "You & Me (Coachella ver.)",
-      "url": "https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "\u4ecd\u5728",
-        "url": "https://open.spotify.com/album/7kJcWoA7dZNzznm9wuSHyo"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 278670,
-      "name": "\u4ecd\u5728",
-      "url": "https://open.spotify.com/track/1rPPxVHA0YWiUzxzuFlQDN"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "\u8207\u6211\u7121\u95dc",
         "url": "https://open.spotify.com/album/3t4fnPF3xdC4lHl3au9xf3"
@@ -241,7 +209,23 @@
       "url": "https://open.spotify.com/track/0GoEr3439Go5CGHL6fw1US"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "\u4ecd\u5728",
+        "url": "https://open.spotify.com/album/7kJcWoA7dZNzznm9wuSHyo"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 278670,
+      "name": "\u4ecd\u5728",
+      "url": "https://open.spotify.com/track/1rPPxVHA0YWiUzxzuFlQDN"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "\u62bd",
         "url": "https://open.spotify.com/album/10V1AMk8bWSBjuok9ZD3lJ"
@@ -257,23 +241,7 @@
       "url": "https://open.spotify.com/track/7mz4dDKFWSwj7cjnJeITBH"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "\u6c92\u6709\u7fc5\u8180\u7684\u5929\u4f7f",
-        "url": "https://open.spotify.com/album/65wTjD7QDdhpMedeTA2XDe"
-      },
-      "artists": [
-        {
-          "name": "Keung To",
-          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "\u6c92\u6709\u7fc5\u8180\u7684\u5929\u4f7f",
-      "url": "https://open.spotify.com/track/1VU4roZEde9uI25e4rUOuU"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "\u4f5c\u54c1\u7684\u8aaa\u8a71",
         "url": "https://open.spotify.com/album/6vSggspaaAO0boTq0JQfhQ"
@@ -289,7 +257,7 @@
       "url": "https://open.spotify.com/track/1dBroK67DSaaEE5kvkVjzG"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Off The Record",
         "url": "https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW"
@@ -305,7 +273,23 @@
       "url": "https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "\u6c92\u6709\u7fc5\u8180\u7684\u5929\u4f7f",
+        "url": "https://open.spotify.com/album/65wTjD7QDdhpMedeTA2XDe"
+      },
+      "artists": [
+        {
+          "name": "Keung To",
+          "url": "https://open.spotify.com/artist/0DwdA5ZgTJcIQ2uIhc110D"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "\u6c92\u6709\u7fc5\u8180\u7684\u5929\u4f7f",
+      "url": "https://open.spotify.com/track/1VU4roZEde9uI25e4rUOuU"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "\u518d\u898b \u5be7\u975c\u6d77",
         "url": "https://open.spotify.com/album/7udQZHJGU6wIeWSbKgQtbV"
@@ -321,23 +305,7 @@
       "url": "https://open.spotify.com/track/3mVO7XaN9ULGNuXteiCOz3"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "MONEY",
-        "url": "https://open.spotify.com/album/2orrREvtatwHRERaqcrMg8"
-      },
-      "artists": [
-        {
-          "name": "Anson Lo \u76e7\u701a\u9706",
-          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
-        }
-      ],
-      "duration_ms": 202538,
-      "name": "MONEY",
-      "url": "https://open.spotify.com/track/4bzylGLMAjkb8AYCcsu96R"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "\u62b1\u62b1\u7121\u5c3e\u718a",
         "url": "https://open.spotify.com/album/27ht56bpzBhmQfjSjgoAmI"
@@ -353,23 +321,7 @@
       "url": "https://open.spotify.com/track/6lfMr5SEeFdpMeIJxw5n1I"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "\u64c1\u62b1\u5f8c\u7684\u6b4c",
-        "url": "https://open.spotify.com/album/2vHgMiFnp2RvlIogHnIzfz"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 218840,
-      "name": "\u64c1\u62b1\u5f8c\u7684\u6b4c",
-      "url": "https://open.spotify.com/track/3Frg7nyANyCvDpbyaOxtdf"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
@@ -385,23 +337,39 @@
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
-        "name": "NewJeans 'Super Shy'",
-        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+        "name": "\u64c1\u62b1\u5f8c\u7684\u6b4c",
+        "url": "https://open.spotify.com/album/2vHgMiFnp2RvlIogHnIzfz"
       },
       "artists": [
         {
-          "name": "NewJeans",
-          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
         }
       ],
-      "duration_ms": 154666,
-      "name": "Super Shy",
-      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
+      "duration_ms": 218840,
+      "name": "\u64c1\u62b1\u5f8c\u7684\u6b4c",
+      "url": "https://open.spotify.com/track/3Frg7nyANyCvDpbyaOxtdf"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "MONEY",
+        "url": "https://open.spotify.com/album/2orrREvtatwHRERaqcrMg8"
+      },
+      "artists": [
+        {
+          "name": "Anson Lo \u76e7\u701a\u9706",
+          "url": "https://open.spotify.com/artist/2G4Ntbg3dYqkUAGrMUZ0U7"
+        }
+      ],
+      "duration_ms": 202538,
+      "name": "MONEY",
+      "url": "https://open.spotify.com/track/4bzylGLMAjkb8AYCcsu96R"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -417,71 +385,23 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+        "name": "NewJeans 'Super Shy'",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
       },
       "artists": [
         {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
         }
       ],
-      "duration_ms": 187026,
-      "name": "Slow Dancing",
-      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
+      "duration_ms": 154666,
+      "name": "Super Shy",
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "HEAT",
-        "url": "https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m"
-      },
-      "artists": [
-        {
-          "name": "(G)I-DLE",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 171666,
-      "name": "I Want That",
-      "url": "https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "Layover",
-        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
-      },
-      "artists": [
-        {
-          "name": "V",
-          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Love Me Again",
-      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "This is MC",
         "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
@@ -497,7 +417,23 @@
       "url": "https://open.spotify.com/track/3x2hKSUf8O8IqI1shmxGnp"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "GODS",
         "url": "https://open.spotify.com/album/0rAaP1OBxVCn2cIUZNjGRs"
@@ -517,10 +453,10 @@
       "url": "https://open.spotify.com/track/210JJAa9nJOgNa0YNrsT5g"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
-        "name": "I feel",
-        "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/5CZQfva4He8sG3DcU8eP5m"
       },
       "artists": [
         {
@@ -528,12 +464,28 @@
           "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
         }
       ],
-      "duration_ms": 161240,
-      "name": "Queencard",
-      "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
+      "duration_ms": 171666,
+      "name": "I Want That",
+      "url": "https://open.spotify.com/track/3F2BLyGt6zYLrHYpbdTw5L"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 187026,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "\u8a18\u61b6\u68c9",
         "url": "https://open.spotify.com/album/6uWrUpmYlVSBmJ6RkCW4QE"
@@ -549,23 +501,7 @@
       "url": "https://open.spotify.com/track/1ZrnCyms7CBYsCvkkVIkt8"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "THE BOOK 3",
-        "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 211733,
-      "name": "\u30a2\u30a4\u30c9\u30eb",
-      "url": "https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Layover",
         "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
@@ -576,44 +512,12 @@
           "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
         }
       ],
-      "duration_ms": 179560,
-      "name": "Rainy Days",
-      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
+      "duration_ms": 182293,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/2N0SPREDYqILVEFSsWF5N5"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "Either Way",
-        "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
-      },
-      "artists": [
-        {
-          "name": "IVE",
-          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
-        }
-      ],
-      "duration_ms": 166946,
-      "name": "Either Way",
-      "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "\u7559\u4e00\u5929\u8207\u4f60\u5598\u606f",
-        "url": "https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 258924,
-      "name": "\u7559\u4e00\u5929\u8207\u4f60\u5598\u606f",
-      "url": "https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "\u6d6e\u5e8a",
         "url": "https://open.spotify.com/album/0HjgPj2BylDhJNRGN6OqUq"
@@ -629,71 +533,7 @@
       "url": "https://open.spotify.com/track/3gOTUuIDMbBYECtnPadsxY"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "Distance (Mandarin Version)",
-        "url": "https://open.spotify.com/album/6QOeB6q1acypIqwuDpsKkI"
-      },
-      "artists": [
-        {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
-        }
-      ],
-      "duration_ms": 200497,
-      "name": "Distance (Mandarin Version)",
-      "url": "https://open.spotify.com/track/3qUObXucAc56ax5DSzcUF1"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "\u53ea\u8981\u4f60\u4e0d\u5c37\u5c2c",
-        "url": "https://open.spotify.com/album/0ryBp7G4CRi53am6Hy65IM"
-      },
-      "artists": [
-        {
-          "name": "Kaho Hung",
-          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
-        }
-      ],
-      "duration_ms": 243124,
-      "name": "\u53ea\u8981\u4f60\u4e0d\u5c37\u5c2c",
-      "url": "https://open.spotify.com/track/1UdxSRCOnftG6I2dVBkHXH"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "This is MC",
-        "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
-      },
-      "artists": [
-        {
-          "name": "MC \u5f35\u5929\u8ce6",
-          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
-        }
-      ],
-      "duration_ms": 263133,
-      "name": "\u4e16\u4e00",
-      "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "\u795e\u7684\u4e0d\u5728\u5834\u8b49\u660e",
-        "url": "https://open.spotify.com/album/03E9y0MvddabFJZ4QSq3iD"
-      },
-      "artists": [
-        {
-          "name": "Panther Chan",
-          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
-        }
-      ],
-      "duration_ms": 272500,
-      "name": "\u795e\u7684\u4e0d\u5728\u5834\u8b49\u660e",
-      "url": "https://open.spotify.com/track/5LxfxzmlGFCQm8HT93gksZ"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/0h1Cdmn1M3EM61yxpwRqja"
@@ -709,10 +549,10 @@
       "url": "https://open.spotify.com/track/1t5D0Y5VMTEISUpAZXoFpN"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
-        "name": "I've IVE",
-        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/31ZO3EEc4JPomzMGed9BEV"
       },
       "artists": [
         {
@@ -720,12 +560,124 @@
           "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 183853,
-      "name": "I AM",
-      "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
+      "duration_ms": 166946,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/6ezYHltHYhuJckdCsYsRJI"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "This is MC",
+        "url": "https://open.spotify.com/album/34BPcfbDQkYaJLrCgrEwYx"
+      },
+      "artists": [
+        {
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
+        }
+      ],
+      "duration_ms": 263133,
+      "name": "\u4e16\u4e00",
+      "url": "https://open.spotify.com/track/3IxGmKdOkv7tgMCzyKF2Xm"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "\u7559\u4e00\u5929\u8207\u4f60\u5598\u606f",
+        "url": "https://open.spotify.com/album/70ZVowDZAeADC8GGzpxtgj"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 258924,
+      "name": "\u7559\u4e00\u5929\u8207\u4f60\u5598\u606f",
+      "url": "https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "\u795e\u7684\u4e0d\u5728\u5834\u8b49\u660e",
+        "url": "https://open.spotify.com/album/03E9y0MvddabFJZ4QSq3iD"
+      },
+      "artists": [
+        {
+          "name": "Panther Chan",
+          "url": "https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm"
+        }
+      ],
+      "duration_ms": 272500,
+      "name": "\u795e\u7684\u4e0d\u5728\u5834\u8b49\u660e",
+      "url": "https://open.spotify.com/track/5LxfxzmlGFCQm8HT93gksZ"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "I feel",
+        "url": "https://open.spotify.com/album/3PQZnr5gf699uYEaGH93uG"
+      },
+      "artists": [
+        {
+          "name": "(G)I-DLE",
+          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
+        }
+      ],
+      "duration_ms": 161240,
+      "name": "Queencard",
+      "url": "https://open.spotify.com/track/4uOBL4DDWWVx4RhYKlPbPC"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "THE BOOK 3",
+        "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 211733,
+      "name": "\u30a2\u30a4\u30c9\u30eb",
+      "url": "https://open.spotify.com/track/1hAloWiinXLPQUJxrJReb1"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "\u53ea\u8981\u4f60\u4e0d\u5c37\u5c2c",
+        "url": "https://open.spotify.com/album/0ryBp7G4CRi53am6Hy65IM"
+      },
+      "artists": [
+        {
+          "name": "Kaho Hung",
+          "url": "https://open.spotify.com/artist/3wYcmejLVtOoHIq9szUugh"
+        }
+      ],
+      "duration_ms": 243124,
+      "name": "\u53ea\u8981\u4f60\u4e0d\u5c37\u5c2c",
+      "url": "https://open.spotify.com/track/1UdxSRCOnftG6I2dVBkHXH"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "Distance (Mandarin Version)",
+        "url": "https://open.spotify.com/album/6QOeB6q1acypIqwuDpsKkI"
+      },
+      "artists": [
+        {
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+        }
+      ],
+      "duration_ms": 200497,
+      "name": "Distance (Mandarin Version)",
+      "url": "https://open.spotify.com/track/3qUObXucAc56ax5DSzcUF1"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -741,23 +693,39 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
-        "name": "THE BOOK 3",
-        "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
+        "name": "I've IVE",
+        "url": "https://open.spotify.com/album/38VzP4yWfHdHafITKKRHEB"
       },
       "artists": [
         {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
         }
       ],
-      "duration_ms": 194266,
-      "name": "\u52c7\u8005",
-      "url": "https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q"
+      "duration_ms": 183853,
+      "name": "I AM",
+      "url": "https://open.spotify.com/track/70t7Q6AYG6ZgTYmJWcnkUM"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "Layover",
+        "url": "https://open.spotify.com/album/1ZBDI1LqnuAKdrePUF2D5m"
+      },
+      "artists": [
+        {
+          "name": "V",
+          "url": "https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK"
+        }
+      ],
+      "duration_ms": 179560,
+      "name": "Rainy Days",
+      "url": "https://open.spotify.com/track/5ydjxBSUIDn26MFzU3asP4"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "\u6c38\u9806\u885739\u865f",
         "url": "https://open.spotify.com/album/47sDT8IseT1h5wbizlMaIj"
@@ -773,23 +741,55 @@
       "url": "https://open.spotify.com/track/3b4dQtIVyVhQdbYVfrik0k"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
-        "name": "The Astronaut",
-        "url": "https://open.spotify.com/album/6nT2VfGN07ar1vdZyJY6ox"
+        "name": "\u5730\u7403\u4e0a\u7684\u6700\u5f8c\u4e00\u6735\u82b1",
+        "url": "https://open.spotify.com/album/2zJ2Sf31ZtCsH2bqZbeAZp"
       },
       "artists": [
         {
-          "name": "JIN",
-          "url": "https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV"
+          "name": "\u9673\u5353\u8ce2 Ian",
+          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
         }
       ],
-      "duration_ms": 282463,
-      "name": "The Astronaut",
-      "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
+      "duration_ms": 226665,
+      "name": "\u5730\u7403\u4e0a\u7684\u6700\u5f8c\u4e00\u6735\u82b1",
+      "url": "https://open.spotify.com/track/2vJreatDgwtXWKpkqpPUZ3"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "THE BOOK 3",
+        "url": "https://open.spotify.com/album/68w73FF3dYC6C3RWdcV0Yl"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 194266,
+      "name": "\u52c7\u8005",
+      "url": "https://open.spotify.com/track/0YTM7bCx451c6LQbkddy4Q"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "JENNIE Special Single [You & Me]",
+        "url": "https://open.spotify.com/album/1Vzh3fTdh0R0evafCcpNpL"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 179864,
+      "name": "You & Me (Coachella ver.)",
+      "url": "https://open.spotify.com/track/0Vz146N2GxkVJw4kSGXrNi"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "\u96b1\u5f62\u904a\u6a02\u5834",
         "url": "https://open.spotify.com/album/19wTMPU5TLyeI3xuNwpYx7"
@@ -805,20 +805,20 @@
       "url": "https://open.spotify.com/track/6bMgCXapeQEVFgAOr8EvgY"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
-        "name": "\u5730\u7403\u4e0a\u7684\u6700\u5f8c\u4e00\u6735\u82b1",
-        "url": "https://open.spotify.com/album/2zJ2Sf31ZtCsH2bqZbeAZp"
+        "name": "\u53cd\u5c0d\u7121\u6548",
+        "url": "https://open.spotify.com/album/580J4faNuujItQTyIVzNxs"
       },
       "artists": [
         {
-          "name": "\u9673\u5353\u8ce2 Ian",
-          "url": "https://open.spotify.com/artist/1qW9Pi35NXnu7Q8KWyVYe6"
+          "name": "MC \u5f35\u5929\u8ce6",
+          "url": "https://open.spotify.com/artist/5tRk0bqMQubKAVowp35XtC"
         }
       ],
-      "duration_ms": 226665,
-      "name": "\u5730\u7403\u4e0a\u7684\u6700\u5f8c\u4e00\u6735\u82b1",
-      "url": "https://open.spotify.com/track/2vJreatDgwtXWKpkqpPUZ3"
+      "duration_ms": 228819,
+      "name": "\u53cd\u5c0d\u7121\u6548",
+      "url": "https://open.spotify.com/track/2P5Eeh29qJrYa1T27cdL3B"
     }
   ],
   "unique_name": "Top 50 - Hong Kong",

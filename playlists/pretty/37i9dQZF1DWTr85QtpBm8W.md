@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,499 likes - 100 songs - 8 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,547 likes - 100 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,12 +82,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 72 | [Muim \(Colleen Mix\)](https://open.spotify.com/track/5LASgA67i9jE76J8e0ikTb) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd), [Colleen](https://open.spotify.com/artist/0mOPHkTHaD6cFTMODNBxA3) | [Utopía](https://open.spotify.com/album/0xl7DiPmp1326SSgIi6fEY) | 4:29 |
 | 73 | [Already There](https://open.spotify.com/track/1KhqU5oOQeHSMkmFCUsU4j) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY) | [Glider](https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI) | 5:41 |
 | 74 | [Ba Ba](https://open.spotify.com/track/16To30yLksgfW2l2iGnsvY) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ba Ba Ti Ki Di Do](https://open.spotify.com/album/0UivSfs4EofCWkNHhycH1q) | 6:12 |
-| 75 | [Thunderbird Road](https://open.spotify.com/track/4T5LHqEJI344VvCf2xlKcQ) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Imperial](https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH) | 6:27 |
-| 76 | [Arvesølv](https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 2:38 |
+| 75 | [Arvesølv](https://open.spotify.com/track/5ob74UHqNnAttl52Dx3bwf) | [Elegi](https://open.spotify.com/artist/73WJAmfubBBjWJJkm5Qvtg) | [Varde](https://open.spotify.com/album/6lETS4bkxF1exbsA0jgV7A) | 2:38 |
+| 76 | [Thunderbird Road](https://open.spotify.com/track/4T5LHqEJI344VvCf2xlKcQ) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Imperial](https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH) | 6:27 |
 | 77 | [Btwn You + Me](https://open.spotify.com/track/2c29Sowwtuf7U3Thnh24nK) | [Windy & Carl](https://open.spotify.com/artist/6qNSgOBq7aNMSUh1lxUhYq) | [Songs for the Broken Hearted](https://open.spotify.com/album/6yb8To6luAuAWxIFPa0SSC) | 6:18 |
 | 78 | [white mountain](https://open.spotify.com/track/6wx1qKHRS97vFUBBPm5Ys7) | [Chihei Hatakeyama](https://open.spotify.com/artist/4G1ZsxfEEztbE1VcnNInPg) | [dedication](https://open.spotify.com/album/1hbuMDEa4b9db9XafVZOqi) | 3:39 |
-| 79 | [Aparaquasynthe \- Remastered 2022](https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Streichelfisch \(Remastered 2022\)](https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6) | 5:51 |
-| 80 | [Woe Is the Transgression I](https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE) | 8:44 |
+| 79 | [Woe Is the Transgression I](https://open.spotify.com/track/43iURelUomXEQGrCxD9Ucr) | [Oneohtrix Point Never](https://open.spotify.com/artist/2wPDbhaGXCqROrVmwDdCrK) | [Betrayed in the Octagon](https://open.spotify.com/album/1QVBUpFm9l5qM2OdMDSIIE) | 8:44 |
+| 80 | [Aparaquasynthe \- Remastered 2022](https://open.spotify.com/track/77rf3VU7sQ8UVDteOI2MCy) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Streichelfisch \(Remastered 2022\)](https://open.spotify.com/album/1eEua7JBS2N2lPq0l0gcq6) | 5:51 |
 | 81 | [Variation IV](https://open.spotify.com/track/6mnkCIZgqXidyl56nDGP5p) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Variations: A Movement In Chrome Primitive](https://open.spotify.com/album/5lVFG1wgbDKhM7CQ7stlfd) | 9:18 |
 | 82 | [The Direction Was Foggy or Cloudy](https://open.spotify.com/track/2eiSM7B57fcANyRGUhTDpw) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:11 |
 | 83 | [Further Away](https://open.spotify.com/track/7aCpRDsOpjtBOYECwpdsDv) | [The Sight Below](https://open.spotify.com/artist/1nqF8RQ0Vg9fh67WiQCroY) | [Glider](https://open.spotify.com/album/3NI2Qzk6pVI88VSzgR78aI) | 5:57 |
@@ -97,9 +97,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 87 | [The Mist](https://open.spotify.com/track/5uoDCkMXKLDiG72re8gTos) | [Tor Lundvall](https://open.spotify.com/artist/4wLng1JS1GSvps2dPloyzf) | [The Mist](https://open.spotify.com/album/0hQyEbdpZx8W6WDjuYCKx1) | 3:51 |
 | 88 | [Into Stressa](https://open.spotify.com/track/4Ppfmstq72I7BBMG1uncin) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [Imperial](https://open.spotify.com/album/1bkRR3zou4x1vYBjwuEzFH) | 3:56 |
 | 89 | [Raamat](https://open.spotify.com/track/4xzjlz31M7YI9g6MqnEdP5) | [Vladislav Delay](https://open.spotify.com/artist/5E3H2KyR31E2Dj3K6vIUe9) | [MP3 Collection](https://open.spotify.com/album/6UufZoGprTMwK78k4sEjjg) | 7:18 |
-| 90 | [Waves](https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW) | [White Rainbow](https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq) | [Prism of Eternal Now](https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn) | 6:44 |
+| 90 | [Add Infinity](https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Choral](https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16) | 9:10 |
 | 91 | [It's About the Size of a House](https://open.spotify.com/track/66egNdOOQLueKrCTMeXc8Q) | [Hildur Guðnadóttir](https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y), [BJ Nilsen](https://open.spotify.com/artist/6EoXpSE9sRNGaingbSDcNB), [Stilluppsteypa](https://open.spotify.com/artist/6GqRN5iayukIfPKZqOW8Qj) | [Second Childhood](https://open.spotify.com/album/4cO9Ihc4hpNiM0IPzw1ypc) | 6:34 |
-| 92 | [Add Infinity](https://open.spotify.com/track/5lu1wPCFtswHQVnEYrv1iz) | [Mountains](https://open.spotify.com/artist/0p6JzmlJtmzd8I7uEgMOtV) | [Choral](https://open.spotify.com/album/1qEWG74ou6iY8TZAnQHK16) | 9:10 |
+| 92 | [Waves](https://open.spotify.com/track/76arUxWHfiV0nazyUKmzpW) | [White Rainbow](https://open.spotify.com/artist/5xi43z2pbrEFFcxboQQKcq) | [Prism of Eternal Now](https://open.spotify.com/album/4AcqpLxAZr99MVSJw5gFKn) | 6:44 |
 | 93 | [Von Schnäbeln](https://open.spotify.com/track/5tgqnRwnzGPxBchOamvL5d) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Dolores](https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79) | 3:56 |
 | 94 | [So Long Orpheus](https://open.spotify.com/track/1LQKgRnOvDnghW6I4Hs6GV) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [24 Postcards In Full Colour](https://open.spotify.com/album/3YNEiMT8bzX1Qjid0jWX7e) | 2:23 |
 | 95 | [Verdantique](https://open.spotify.com/track/3IlsZWpHOUfVtOdLilNysq) | [Nudge](https://open.spotify.com/artist/76OH9UQEealbQ15TJABkLO) | [As Good As Gone](https://open.spotify.com/album/3XzOUf4jt5OmtZZR0INzLQ) | 0:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 99 | [Welk](https://open.spotify.com/track/24d8ADCUgrorXbmNpbypGS) | [Bohren & Der Club Of Gore](https://open.spotify.com/artist/4VpWzXVUAR2YyQuWQpNGAf) | [Dolores](https://open.spotify.com/album/2C3TDJB4dHVK7XgFjaew79) | 6:18 |
 | 100 | [The Orchardist](https://open.spotify.com/track/4wowzbudA7AirG6ibEjaFJ) | [Roedelius](https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc), [Tim Story](https://open.spotify.com/artist/6S7EbdcNj5pWjBdeNU0FWc) | [Inlandish](https://open.spotify.com/album/3WdCt7c9ikCPL63z5RGrWy) | 3:07 |
 
-Snapshot ID: `MCxiZTljOWYxNjA4YTAzMzNmYTM5ZDY0NTkxZDMxODExZTEyMWJiODc5`
+Snapshot ID: `MCxmNDc3ZWJjYzFmYjhiY2Y4MGZlYTMyYjNhMTY5OGUxM2RhOWI3NjQ5`

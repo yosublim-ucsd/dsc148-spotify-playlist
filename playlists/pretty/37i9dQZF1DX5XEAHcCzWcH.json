@@ -1,12 +1,12 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 29204,
+  "num_followers": 29225,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MTE0NzBiNmZiZWNiMTlmZTc2YTM3ODRmYWIzNDhiN2QwODdhNTE5",
+  "snapshot_id": "MCwyMjUxNTc1M2QzMjgwZGExYTJiNTlmM2QwYTZkOWQzMjllZWY1ZTVh",
   "tracks": [
     {
       "added_at": "2023-09-15 11:43:10",
@@ -431,22 +431,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "The Chess Story 1947-1956",
-        "url": "https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf"
-      },
-      "artists": [
-        {
-          "name": "Little Johnny Jones",
-          "url": "https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4"
-        }
-      ],
-      "duration_ms": 175640,
-      "name": "Big Town Playboy",
-      "url": "https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Blues On The Prowl",
         "url": "https://open.spotify.com/album/3fQi3rgKy3U3udVg0ojE2N"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 217720,
       "name": "Booker's Boogie",
       "url": "https://open.spotify.com/track/2ckb6mS0TcnCxaQ2ywh1CV"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "The Chess Story 1947-1956",
+        "url": "https://open.spotify.com/album/33Ow1zrnDZND0gJFibphEf"
+      },
+      "artists": [
+        {
+          "name": "Little Johnny Jones",
+          "url": "https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4"
+        }
+      ],
+      "duration_ms": 175640,
+      "name": "Big Town Playboy",
+      "url": "https://open.spotify.com/track/4hFZeihCVWuFsxMyal96k8"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Victor Wainwright and the Train",
-        "url": "https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p"
-      },
-      "artists": [
-        {
-          "name": "Victor Wainwright",
-          "url": "https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9"
-        }
-      ],
-      "duration_ms": 215460,
-      "name": "Train",
-      "url": "https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "New Orleans Piano Professor",
         "url": "https://open.spotify.com/album/73SUBi6wcCs20JawgcGDWy"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 202000,
       "name": "Honky Tonk",
       "url": "https://open.spotify.com/track/2jrx9e7piANgdK0M3KhHWV"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "Victor Wainwright and the Train",
+        "url": "https://open.spotify.com/album/1F2skCbg4JAAdWjWM2jr9p"
+      },
+      "artists": [
+        {
+          "name": "Victor Wainwright",
+          "url": "https://open.spotify.com/artist/5iXJjikLdfxrmqGkdyW5C9"
+        }
+      ],
+      "duration_ms": 215460,
+      "name": "Train",
+      "url": "https://open.spotify.com/track/7wKp4mA6hcs13duOudDQ6C"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "Harlem Blues Operator",
-        "url": "https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3"
-      },
-      "artists": [
-        {
-          "name": "Bob Gaddy",
-          "url": "https://open.spotify.com/artist/5MnpSXfT5z3JRg6DPChIr2"
-        }
-      ],
-      "duration_ms": 150333,
-      "name": "I Love My Baby",
-      "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
-    },
-    {
-      "added_at": "2023-09-15 11:43:10",
-      "album": {
         "name": "Chicago Piano Volume 1",
         "url": "https://open.spotify.com/album/0YXh5wJhimZePRjFK0NSvC"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2023-09-15 11:43:10",
       "album": {
-        "name": "That's All Right (When the Sun Goes Down series)",
-        "url": "https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3"
+        "name": "Harlem Blues Operator",
+        "url": "https://open.spotify.com/album/5sD0A93pkOyq5QkoxWi7Z3"
       },
       "artists": [
         {
-          "name": "Piano Red",
-          "url": "https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx"
+          "name": "Bob Gaddy",
+          "url": "https://open.spotify.com/artist/5MnpSXfT5z3JRg6DPChIr2"
         }
       ],
-      "duration_ms": 150613,
-      "name": "Rockin' with Red - Remastered 2002",
-      "url": "https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp"
+      "duration_ms": 150333,
+      "name": "I Love My Baby",
+      "url": "https://open.spotify.com/track/3Zu0ad7UukHVYZHfE4uOWZ"
     },
     {
       "added_at": "2023-09-15 11:43:10",
@@ -871,6 +855,22 @@
       "duration_ms": 344440,
       "name": "Hey Now Baby",
       "url": "https://open.spotify.com/track/5IBN7vNGlb3G8E6gV3wBdi"
+    },
+    {
+      "added_at": "2023-09-15 11:43:10",
+      "album": {
+        "name": "That's All Right (When the Sun Goes Down series)",
+        "url": "https://open.spotify.com/album/2Q9GxfO9hi6egkygYvdAX3"
+      },
+      "artists": [
+        {
+          "name": "Piano Red",
+          "url": "https://open.spotify.com/artist/49vobYCMWUndxJNbtewRsx"
+        }
+      ],
+      "duration_ms": 150613,
+      "name": "Rockin' with Red - Remastered 2002",
+      "url": "https://open.spotify.com/track/3mowmsy7MT5qN2OQhHlRRp"
     },
     {
       "added_at": "2023-09-15 11:43:10",

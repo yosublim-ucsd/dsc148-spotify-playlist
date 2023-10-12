@@ -4,7 +4,7 @@
 
 > The sounds keeping the streets of Nigeria on fire\. <br/>RIP Mohbad
 
-151 songs - 7 hr 7 min
+152 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Koni Baje](https://open.spotify.com/track/4kOKUxm84unlT2VxwEp1pB) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Stranger](https://open.spotify.com/album/5XgZB2QHhjbyFduvvHkh0A) | 2:13 | 2023-02-14 | 2023-02-17 |
 | [Kosalabaro](https://open.spotify.com/track/6M5uAfQ1rfLpgPAtl5ArCl) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Ika of Africa](https://open.spotify.com/album/7a1ykEG6P58L8iJ4mnDSva) | 3:09 | 2022-11-25 | 2022-12-02 |
 | [Kpe Paso](https://open.spotify.com/track/4Mlgf7GD6bbx09N4uxqU3S) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Kpe Paso](https://open.spotify.com/album/4UwYrizY5gCAUZJugVF9DR) | 2:57 | 2023-02-03 |  |
-| [KPK \(Ko Por Ke\)](https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [A True Champion](https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk) | 3:11 | 2022-06-29 |  |
+| [KPK \(Ko Por Ke\)](https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [A True Champion](https://open.spotify.com/album/6cqaFME7zznZclEDFE6bUk) | 3:11 | 2022-06-29 | 2023-10-12 |
 | [Kuku Do Ritual](https://open.spotify.com/track/5KPMtK8yiVbIcIIMr2Qvr7) | [Portable](https://open.spotify.com/artist/5Sq9h4GMnTD99EyfZmYgqe) | [Kuku Do Ritual](https://open.spotify.com/album/76cw3ZxOznH8pt7RDZeL4v) | 3:56 | 2023-01-20 | 2023-02-11 |
 | [La Pio Pio](https://open.spotify.com/track/6nK5Zt2RI6xqEaU8CgMojZ) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa) | [Blessed](https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst) | 2:25 | 2023-06-30 |  |
 | [Legbegbe](https://open.spotify.com/track/7nSCIoTBW6Y7lHny5hSgqV) | [Mr Real](https://open.spotify.com/artist/4sTEU2JiINQTDhMCanVyCO), [Obadice](https://open.spotify.com/artist/1ehQuWiGUch5doyxXLkdRz), [Idowest](https://open.spotify.com/artist/0ArqRD7tW8ZRr4AHKRGcb0) | [Legbegbe](https://open.spotify.com/album/67LJ3Ddvh3wB0NwghIz7El) | 4:22 | 2022-06-29 | 2023-01-13 |
@@ -104,6 +104,7 @@
 | [No Advise Me](https://open.spotify.com/track/563TepXA7x9GT17SHlSBMW) | [Orezi](https://open.spotify.com/artist/6voVBz1bN1mWZCLpNZGqzD) | [No Advise Me](https://open.spotify.com/album/1DVKvXIvBqaIIuPQxy1qkK) | 2:58 | 2022-11-18 | 2023-05-15 |
 | [NO COMPETITION \(feat\. Asake\)](https://open.spotify.com/track/5DttTktPy0RMZPz4UNfFm4) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 2:36 | 2023-03-30 |  |
 | [No Peace \(Violence\)](https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA) | 2:35 | 2022-12-08 | 2023-09-01 |
+| [Nobody](https://open.spotify.com/track/5WKHQJCEHNqzZHZduHGrHc) | [LAOD](https://open.spotify.com/artist/7pUd9fPD9tSOugDrBHqMl9), [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Nelly Baradi](https://open.spotify.com/artist/77bRctbyJcjkQcyEa5wrQr) | [Nobody](https://open.spotify.com/album/6ZN0u3yb58U9SKLQ5ciIoq) | 2:44 | 2023-09-29 |  |
 | [NSV](https://open.spotify.com/track/7sIUw9iU1eVB0qq3wFrwBb) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [NSV](https://open.spotify.com/album/1gwsiUC5ZULw2kvzFOGYYB) | 3:08 | 2023-05-11 |  |
 | [Of Lagos](https://open.spotify.com/track/0G6mkL7Qenh7YYWPuorN3A) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Of Lagos](https://open.spotify.com/album/0XZG1YD6gSjTTARiGEWz6l) | 2:45 | 2022-06-29 | 2023-06-03 |
 | [Of Lala](https://open.spotify.com/track/6VMwrNQPmy3lHbuoHBTAO0) | [Rahman Jago](https://open.spotify.com/artist/65ekBj6zdws3gFRSYH7yNS), [Jamopyper](https://open.spotify.com/artist/7InYF1yp4vtlnMr1U4D3KZ), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Of Lala](https://open.spotify.com/album/1Fq2heYALs55JGlNPjHZLB) | 3:07 | 2022-06-29 | 2023-01-20 |

@@ -1,12 +1,12 @@
 {
   "description": "Descubra Abbot e novos talentos brasileiros no horizonte.",
-  "num_followers": 420687,
+  "num_followers": 420304,
   "original_name": "RADAR Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3NTUzNDgwOTVlYjA4ZDRhODA5ZDg5MTQ3NDAwNTY0NGI2YjRiMDRl",
+  "snapshot_id": "MCxhM2EwNDFiNTRmNWRkZTU2OGFmM2Q0ODAyMWI3YjRiYTFmOWQ1YWYz",
   "tracks": [
     {
       "added_at": "2023-10-05 08:00:00",
@@ -411,6 +411,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
+        "name": "Eu Fiquei Com a Puta",
+        "url": "https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C"
+      },
+      "artists": [
+        {
+          "name": "MC Josh",
+          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
+        }
+      ],
+      "duration_ms": 138461,
+      "name": "Eu Fiquei Com a Puta",
+      "url": "https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B"
+    },
+    {
+      "added_at": "2023-10-05 08:00:00",
+      "album": {
         "name": "3AM (PXT4 RASA) [Remix]",
         "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 122192,
       "name": "3AM (PXT4 RASA) - Remix",
       "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
-    },
-    {
-      "added_at": "2023-10-05 08:00:00",
-      "album": {
-        "name": "Eu Fiquei Com a Puta",
-        "url": "https://open.spotify.com/album/4AFnqpOQ1WyrLchDC2980C"
-      },
-      "artists": [
-        {
-          "name": "MC Josh",
-          "url": "https://open.spotify.com/artist/2sJi2UQrxTzhekQYGLxvT6"
-        }
-      ],
-      "duration_ms": 138461,
-      "name": "Eu Fiquei Com a Puta",
-      "url": "https://open.spotify.com/track/5ljLYEJZRLjtrZt1DXtT8B"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -767,22 +767,18 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Encruzilhada",
-        "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
+        "name": "Viciado em Voc\u00ea",
+        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
       },
       "artists": [
         {
-          "name": "Young Piva",
-          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
-        },
-        {
-          "name": "Baco Exu do Blues",
-          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
+          "name": "Lucas Pretti",
+          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
         }
       ],
-      "duration_ms": 151374,
-      "name": "Fogo",
-      "url": "https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc"
+      "duration_ms": 147476,
+      "name": "Viciado em Voc\u00ea",
+      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -823,18 +819,22 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Viciado em Voc\u00ea",
-        "url": "https://open.spotify.com/album/0cpzXFyvb1RroJP0sS4VYb"
+        "name": "Encruzilhada",
+        "url": "https://open.spotify.com/album/2Mfu5KHRKxv7NwkyKbFnwk"
       },
       "artists": [
         {
-          "name": "Lucas Pretti",
-          "url": "https://open.spotify.com/artist/248XKLuHF7rx0BAJmgq1Op"
+          "name": "Young Piva",
+          "url": "https://open.spotify.com/artist/6kNuO9sY94kxMuRAwsCzOH"
+        },
+        {
+          "name": "Baco Exu do Blues",
+          "url": "https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf"
         }
       ],
-      "duration_ms": 147476,
-      "name": "Viciado em Voc\u00ea",
-      "url": "https://open.spotify.com/track/6ysuy7FHJrSMayidz0ni5D"
+      "duration_ms": 151374,
+      "name": "Fogo",
+      "url": "https://open.spotify.com/track/7pkFFPkSYa9JJY9dvZDjoc"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "PATY",
-        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
+        "name": "Imaginar",
+        "url": "https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x"
       },
       "artists": [
         {
-          "name": "Welisson",
-          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
+          "name": "Reid",
+          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
         }
       ],
-      "duration_ms": 109714,
-      "name": "PATY",
-      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
+      "duration_ms": 140689,
+      "name": "Imaginar",
+      "url": "https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX"
     },
     {
       "added_at": "2023-10-05 08:00:00",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2023-10-05 08:00:00",
       "album": {
-        "name": "Imaginar",
-        "url": "https://open.spotify.com/album/7vkh9ZNyMOGNT6buIpje3x"
+        "name": "PATY",
+        "url": "https://open.spotify.com/album/6IfDEqlGStqUZbVChd3MDO"
       },
       "artists": [
         {
-          "name": "Reid",
-          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
+          "name": "Welisson",
+          "url": "https://open.spotify.com/artist/0a7FE3vf12P5MRkp6eYwBQ"
         }
       ],
-      "duration_ms": 140689,
-      "name": "Imaginar",
-      "url": "https://open.spotify.com/track/5LfkX8BcsESakxgyGEB1vX"
+      "duration_ms": 109714,
+      "name": "PATY",
+      "url": "https://open.spotify.com/track/0vAR4NHpDOzS7vonuZONHh"
     },
     {
       "added_at": "2023-10-05 08:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 
 > Un'estate al mare, stile balenare..\. 🏝️ Hit dell'estate italiana anni 60, 70 e 80!
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,872 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,914 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYYgTEZK7Mhz.md) - [plain]
 | 42 | [Legata a un granello di sabbia \- Remastered](https://open.spotify.com/track/4rMOHVZSrOXyJUIcfBwZXB) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [Legata a un granello di sabbia \(Remastered\)](https://open.spotify.com/album/18n1cji3OvtCKepHxLgV1c) | 4:05 |
 | 43 | [Balla](https://open.spotify.com/track/4cpTdeZIwK2F1qBHo2Gnq4) | [Umberto Rosario Balsamo](https://open.spotify.com/artist/3Rq9HHem3z97gYP5vD6BUm) | [Le Sue Piu' Belle Canzoni](https://open.spotify.com/album/4SqXWQCA4UAE8VyZLwOa8E) | 3:17 |
 | 44 | [Ciao Ciao](https://open.spotify.com/track/5SmMAmpv3m84b4CGm6ZyQl) | [Petula Clark](https://open.spotify.com/artist/6nKqt1nbSBEq3iUXD1Xgz8) | [Nostalgia Italiana \- 1965](https://open.spotify.com/album/7evzx1x6grEBAuCaYgSEvb) | 2:56 |
-| 45 | [Pezzettini di bikini](https://open.spotify.com/track/5UoFz0CjuclVc5kzpUdlfy) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [MITO '60 la meravigliosa estate italiana Vol.1](https://open.spotify.com/album/57o2sEB0CkBP3IKOnNDY11) | 2:20 |
-| 46 | [Nell'aria](https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0) | [Marcella Bella](https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW) | [Nell'aria](https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA) | 4:02 |
+| 45 | [Nell'aria](https://open.spotify.com/track/6m00Mv5ElkFndzwrv0D8a0) | [Marcella Bella](https://open.spotify.com/artist/6IvnpywSnAcBLBjlyme9oW) | [Nell'aria](https://open.spotify.com/album/1hj4hDj1BbuCEbSmwH3QqA) | 4:02 |
+| 46 | [Pezzettini di bikini](https://open.spotify.com/track/5UoFz0CjuclVc5kzpUdlfy) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [MITO '60 la meravigliosa estate italiana Vol.1](https://open.spotify.com/album/57o2sEB0CkBP3IKOnNDY11) | 2:20 |
 | 47 | [Con Te Sulla Spiaggia](https://open.spotify.com/track/1pN4eiEz2QqVMq34ltToWI) | [Nico Fidenco](https://open.spotify.com/artist/52d9m6IXscaaj65IyVecXP) | [RCA 100 Años De Musica \- Segunda Parte \- Lo Mejor De Italia](https://open.spotify.com/album/4c3klMERkQR9RXro9ETDcH) | 2:36 |
 | 48 | [Sei diventata nera](https://open.spotify.com/track/2nQzlb5i7JKIj1xMrf9yVu) | [Los Marcellos Ferial](https://open.spotify.com/artist/0qND4ojDsVHfdXhABRJkTN) | [Profumo di sole...](https://open.spotify.com/album/3hZVHN9BomKxHogbobO2hR) | 2:12 |
 | 49 | [Pinne fucile ed occhiali](https://open.spotify.com/track/5nmP6zIrPL7GTAiHZjTEZ8) | [Edoardo Vianello](https://open.spotify.com/artist/1HGnzMzxvfaSkMi98DLkgo), [Elfrida Ismolli](https://open.spotify.com/artist/7KgjTBE5cyhpRvaePgqexx) | [Estate](https://open.spotify.com/album/62YRZrKrezkG7oEbtdDzFi) | 2:39 |
 | 50 | [Il mare nel cassetto](https://open.spotify.com/track/1FWuLRNYe3hP55SJ5X7LeK) | [Milva](https://open.spotify.com/artist/2yTY8E1aIo4qaM9m5teX8N) | [Le più belle canzoni di Milva](https://open.spotify.com/album/02bbP27Gmj806q1chWuZP1) | 3:00 |
 
-Snapshot ID: `MCw1YmIxZDI1ZmYwMGQyODQ0M2JmYTQ1ZmI4MDViMTY4YTRlMmQ5ZWJi`
+Snapshot ID: `MCw4NmJlYmI0YmU4NDc1YWVhM2JjMGVjYTI1YTE4OGQwZjJjZGRiOTli`

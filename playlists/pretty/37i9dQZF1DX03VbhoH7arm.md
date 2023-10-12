@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 > Os grandes hits do momento estão aqui! Foto: Luísa Sonza
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,446,121 likes - 52 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,446,085 likes - 52 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 | 51 | [Sereia](https://open.spotify.com/track/77UrDaIQq6JZIJWeLgJaRf) | [Orochi](https://open.spotify.com/artist/3rfM2cGqF6DB0kUyytMkXx), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Kizzy](https://open.spotify.com/artist/2NMYOlZHIEsSq7pp5jBjic), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Sereia](https://open.spotify.com/album/56nuoKYRrbcBq73wUuSEyI) | 4:54 |
 | 52 | [Felina](https://open.spotify.com/track/2orGm2E68ODFYOURjaES62) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY) | [Felina](https://open.spotify.com/album/28BuR3X6PDJ6rJ5QapLYgn) | 3:45 |
 
-Snapshot ID: `MCxjZjJhYWI2ZDllZjhjZTc3YmRjNjE0NDVhZGE4ZTFkY2EzYzg4MTM0`
+Snapshot ID: `MCxmMTY2NzgzMjA4ZTgxNWY1ZTk0NTM4MmViMjVmZTNjYzFiNTZjOWQx`

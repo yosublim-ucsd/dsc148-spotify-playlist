@@ -1,12 +1,12 @@
 {
   "description": "Perreo after hours.",
-  "num_followers": 86556,
+  "num_followers": 86592,
   "original_name": "4AM Perreo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjNWJkMzVhNDA0MzFlZWYwMTU0MmJlZTVlNDgwODRkMTEzNTIzZDAx",
+  "snapshot_id": "MCw2ZWNkODdiM2Q4YjQ2MTM2M2U0NzU3ZmQ5MTdjMGNjMTU0OTI4NDlk",
   "tracks": [
     {
       "added_at": "2023-09-08 18:30:31",
@@ -255,22 +255,6 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "Una en un Mill\u00f3n",
-        "url": "https://open.spotify.com/album/297lExWtMv5C7vAlQhJcuC"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        }
-      ],
-      "duration_ms": 155828,
-      "name": "Una en un Mill\u00f3n",
-      "url": "https://open.spotify.com/track/3jYFhbevv3MUctaEUF68Vf"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 143789,
       "name": "OKI DOKI",
       "url": "https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
+        "name": "Una en un Mill\u00f3n",
+        "url": "https://open.spotify.com/album/297lExWtMv5C7vAlQhJcuC"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "duration_ms": 155828,
+      "name": "Una en un Mill\u00f3n",
+      "url": "https://open.spotify.com/track/3jYFhbevv3MUctaEUF68Vf"
     },
     {
       "added_at": "2023-09-08 18:30:31",
@@ -359,6 +359,22 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
+        "name": "BICHOTA",
+        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 178946,
+      "name": "BICHOTA",
+      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
         "name": "FRIKI",
         "url": "https://open.spotify.com/album/7LlTjovytMWtPVHm7cJku2"
       },
@@ -399,22 +415,6 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "SHERATON",
-        "url": "https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI"
-      },
-      "artists": [
-        {
-          "name": "El Jordan 23",
-          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
-        }
-      ],
-      "duration_ms": 142040,
-      "name": "SHERATON",
-      "url": "https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
         "name": "Millonarios Juntos",
         "url": "https://open.spotify.com/album/7eIXPgbyRIyGMrEao8zsPU"
       },
@@ -435,22 +435,6 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "BICHOTA",
-        "url": "https://open.spotify.com/album/6LO6I2uJMkc0u7GHBYHa4Y"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 178946,
-      "name": "BICHOTA",
-      "url": "https://open.spotify.com/track/7vrJn5hDSXRmdXoR30KgF1"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
         "name": "PLAYA SATURNO",
         "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 183652,
       "name": "SI TE PEGAS",
       "url": "https://open.spotify.com/track/7kyLtcgYgQPrXkxtAb72iY"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
+        "name": "SHERATON",
+        "url": "https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI"
+      },
+      "artists": [
+        {
+          "name": "El Jordan 23",
+          "url": "https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V"
+        }
+      ],
+      "duration_ms": 142040,
+      "name": "SHERATON",
+      "url": "https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN"
     },
     {
       "added_at": "2023-09-08 18:30:31",
@@ -511,6 +511,26 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
+        "name": "MI EXXX",
+        "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 194470,
+      "name": "MI EXXX",
+      "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
         "name": "6.5",
         "url": "https://open.spotify.com/album/2ZbIly4Kwg66WvLpagLIc2"
       },
@@ -531,22 +551,22 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "MI EXXX",
-        "url": "https://open.spotify.com/album/1O9NM8bAvDQwD5ZZDmoStC"
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
       },
       "artists": [
         {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+          "name": "Playero",
+          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
         }
       ],
-      "duration_ms": 194470,
-      "name": "MI EXXX",
-      "url": "https://open.spotify.com/track/5hHzqkPU6TQxWtV2cJqsMp"
+      "duration_ms": 181621,
+      "name": "DE CAROLINA",
+      "url": "https://open.spotify.com/track/6J3kt4eAqRffh5lBuHJJSO"
     },
     {
       "added_at": "2023-09-08 18:30:31",
@@ -587,26 +607,6 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Playero",
-          "url": "https://open.spotify.com/artist/2YTyoyU90b3CF5x91YjVaQ"
-        }
-      ],
-      "duration_ms": 181621,
-      "name": "DE CAROLINA",
-      "url": "https://open.spotify.com/track/6J3kt4eAqRffh5lBuHJJSO"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
         "name": "Tamagotchi",
         "url": "https://open.spotify.com/album/057rlsHQhvwj62HNgX52uA"
       },
@@ -631,22 +631,6 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "Maria",
-        "url": "https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6"
-      },
-      "artists": [
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
-        }
-      ],
-      "duration_ms": 125615,
-      "name": "Maria",
-      "url": "https://open.spotify.com/track/35v3dtkDxd4WjQrZwPlQXz"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO",
         "url": "https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 174960,
       "name": "DA\u00d1AMOS LA AMISTAD",
       "url": "https://open.spotify.com/track/3jUDqkHatwtprUmZ8epP8P"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
+        "name": "Maria",
+        "url": "https://open.spotify.com/album/6jSBlDo6haE2UWMaXwQTY6"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        }
+      ],
+      "duration_ms": 125615,
+      "name": "Maria",
+      "url": "https://open.spotify.com/track/35v3dtkDxd4WjQrZwPlQXz"
     },
     {
       "added_at": "2023-09-08 18:30:31",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "NAGASAKI",
-        "url": "https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm"
-      },
-      "artists": [
-        {
-          "name": "Polim\u00e1 Westcoast",
-          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
-        },
-        {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        }
-      ],
-      "duration_ms": 206098,
-      "name": "NAGASAKI",
-      "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
         "name": "Mi Gata (Remix)",
         "url": "https://open.spotify.com/album/49nXirxfEoHGlEkrzCp2tE"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 246315,
       "name": "Mi Gata - Remix",
       "url": "https://open.spotify.com/track/4llRitxwDsJF4NJbXPfatx"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
+        "name": "NAGASAKI",
+        "url": "https://open.spotify.com/album/3lzvMWNHMpcyCl0H29PiEm"
+      },
+      "artists": [
+        {
+          "name": "Polim\u00e1 Westcoast",
+          "url": "https://open.spotify.com/artist/768O5GliF0bqscyghggrbE"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 206098,
+      "name": "NAGASAKI",
+      "url": "https://open.spotify.com/track/0sAVtc720YIqLD0w9GpLwD"
     },
     {
       "added_at": "2023-09-08 18:30:31",
@@ -1159,6 +1159,22 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
+        "name": "Papi Quiero Perrear",
+        "url": "https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        }
+      ],
+      "duration_ms": 135303,
+      "name": "Papi Quiero Perrear",
+      "url": "https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
         "name": "Si Tu Supieras",
         "url": "https://open.spotify.com/album/2F04HyhZgd2R4BqrjV9vsD"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 225600,
       "name": "Si Tu Supieras",
       "url": "https://open.spotify.com/track/3FUihj0FmpYI4v3SbBVVfl"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
-        "name": "Papi Quiero Perrear",
-        "url": "https://open.spotify.com/album/6vY4xHJXWv0ETD6LiDBbvY"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        }
-      ],
-      "duration_ms": 135303,
-      "name": "Papi Quiero Perrear",
-      "url": "https://open.spotify.com/track/1fO0hDlLYH13JSEegukxcE"
     },
     {
       "added_at": "2023-09-08 18:30:31",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "FELICIDADES",
-        "url": "https://open.spotify.com/album/4MehKWkRVXk8Rx4237Ypdr"
-      },
-      "artists": [
-        {
-          "name": "Lenny Tav\u00e1rez",
-          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
-        }
-      ],
-      "duration_ms": 165396,
-      "name": "FELICIDADES",
-      "url": "https://open.spotify.com/track/1HMs2s2cawWk3ce1aeKsZn"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
         "name": "La Sustancia X",
         "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 154626,
       "name": "Kaleidosc\u00f3pica",
       "url": "https://open.spotify.com/track/6M1qcLBhSBIDMmC9wprnLK"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
+        "name": "FELICIDADES",
+        "url": "https://open.spotify.com/album/4MehKWkRVXk8Rx4237Ypdr"
+      },
+      "artists": [
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        }
+      ],
+      "duration_ms": 165396,
+      "name": "FELICIDADES",
+      "url": "https://open.spotify.com/track/1HMs2s2cawWk3ce1aeKsZn"
     },
     {
       "added_at": "2023-09-08 18:30:31",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2023-09-08 18:30:31",
       "album": {
-        "name": "Anti-todo",
-        "url": "https://open.spotify.com/album/4yikPqi6jZ5B0fok72MSkm"
-      },
-      "artists": [
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 177977,
-      "name": "Anti-todo",
-      "url": "https://open.spotify.com/track/1UBLpmwFqty3My4THs0Yx5"
-    },
-    {
-      "added_at": "2023-09-08 18:30:31",
-      "album": {
         "name": "MAMi QU\u00c9 FUE?",
         "url": "https://open.spotify.com/album/3eqaeA5SS4CMsVYnm0ntrS"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 167814,
       "name": "MAMi QU\u00c9 FUE?",
       "url": "https://open.spotify.com/track/4OIqoYd1eZkgzLKaWOsVZt"
+    },
+    {
+      "added_at": "2023-09-08 18:30:31",
+      "album": {
+        "name": "Anti-todo",
+        "url": "https://open.spotify.com/album/4yikPqi6jZ5B0fok72MSkm"
+      },
+      "artists": [
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 177977,
+      "name": "Anti-todo",
+      "url": "https://open.spotify.com/track/1UBLpmwFqty3My4THs0Yx5"
     },
     {
       "added_at": "2023-09-08 18:30:31",

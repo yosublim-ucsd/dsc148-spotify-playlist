@@ -1,12 +1,12 @@
 {
   "description": "New music and recent favorites from rising and iconic songsmiths and storytellers. Cover: Rhiannon Giddens",
-  "num_followers": 181831,
+  "num_followers": 181450,
   "original_name": "Contemporary Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyODk3MWNmY2U5NTE0OTM4ZTUzZjE2ODljOGRmZTE2ZWE0MmNhN2Fi",
+  "snapshot_id": "MCw1NjEzODE4NjY0ZWYzNTFmNGMwZTU1YTBhMDRmOTMzNjUxZDU3Njg1",
   "tracks": [
     {
       "added_at": "2023-06-23 04:00:00",
@@ -807,22 +807,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Trophy",
-        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
-      },
-      "artists": [
-        {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
-        }
-      ],
-      "duration_ms": 202996,
-      "name": "Grow Old with Me",
-      "url": "https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Love and Chains",
         "url": "https://open.spotify.com/album/4lvDFolhKDR42KqeDPPBvT"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 157093,
       "name": "Medicine Woman",
       "url": "https://open.spotify.com/track/3S9rZU1GDPhs8WNDv5HQSs"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "Trophy",
+        "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 202996,
+      "name": "Grow Old with Me",
+      "url": "https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
+        "name": "Witness",
+        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Booker",
+          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+        }
+      ],
+      "duration_ms": 234273,
+      "name": "Believe",
+      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
         "name": "Arkansas",
         "url": "https://open.spotify.com/album/2pPXvdMEK5v7rD1xMcSAxL"
       },
@@ -1367,18 +1383,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "Witness",
-        "url": "https://open.spotify.com/album/3jkf9bFHemgq4Gt46DWBnY"
+        "name": "Blue Heron Suite",
+        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
       },
       "artists": [
         {
-          "name": "Benjamin Booker",
-          "url": "https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5"
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
         }
       ],
-      "duration_ms": 234273,
-      "name": "Believe",
-      "url": "https://open.spotify.com/track/4nUXWGyJiovHzznNCQfqAW"
+      "duration_ms": 268080,
+      "name": "Blue Heron",
+      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 171499,
       "name": "The Parting Glass (feat. Darlingside)",
       "url": "https://open.spotify.com/track/5AylUadxwKFO7wY5jPJg4K"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
-        "name": "Blue Heron Suite",
-        "url": "https://open.spotify.com/album/3FK0O5gu17HYHEtbelgZaV"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 268080,
-      "name": "Blue Heron",
-      "url": "https://open.spotify.com/track/4wtmy1jLQze3so4AYW7u0J"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The Capitalist Blues",
-        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
-      },
-      "artists": [
-        {
-          "name": "Leyla McCalla",
-          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
-        }
-      ],
-      "duration_ms": 174640,
-      "name": "Money Is King",
-      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
-    },
-    {
-      "added_at": "2023-06-23 04:00:00",
-      "album": {
         "name": "Shame",
         "url": "https://open.spotify.com/album/1j0FUqFiWgEkJsDLPMIaGG"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 189626,
       "name": "I Could've Been Your Lover Too",
       "url": "https://open.spotify.com/track/5nrs3jelIOV5r9rro24cKA"
+    },
+    {
+      "added_at": "2023-06-23 04:00:00",
+      "album": {
+        "name": "The Capitalist Blues",
+        "url": "https://open.spotify.com/album/24ZcXwoLdmjsrXTYWPsaXJ"
+      },
+      "artists": [
+        {
+          "name": "Leyla McCalla",
+          "url": "https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Money Is King",
+      "url": "https://open.spotify.com/track/0dOMCLcbrTbcqmIHsP3FW3"
     },
     {
       "added_at": "2023-06-23 04:00:00",
@@ -1687,18 +1687,18 @@
     {
       "added_at": "2023-06-23 04:00:00",
       "album": {
-        "name": "The Eternal Rocks Beneath",
-        "url": "https://open.spotify.com/album/75Q8BLDuURslpcTthbAcsS"
+        "name": "Age of a Man",
+        "url": "https://open.spotify.com/album/4YkgnuMVviUv1MMp6w5gaU"
       },
       "artists": [
         {
-          "name": "Katherine Priddy",
-          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
+          "name": "Sunny War",
+          "url": "https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8"
         }
       ],
-      "duration_ms": 254633,
-      "name": "Indigo",
-      "url": "https://open.spotify.com/track/4dEShdbZOn5qXWXQbUyGh9"
+      "duration_ms": 219253,
+      "name": "Age of a Man",
+      "url": "https://open.spotify.com/track/5a7MZfX2tiMutNSeb9uPTF"
     }
   ],
   "unique_name": "Contemporary Folk",

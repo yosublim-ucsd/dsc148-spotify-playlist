@@ -977,6 +977,28 @@
     },
     {
       "album": {
+        "name": "Ghetto Tekkno",
+        "url": "https://open.spotify.com/album/1naNqEEXEchqpQu2PKqmmq"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "Endzone",
+          "url": "https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7"
+        }
+      ],
+      "date_added": "2023-10-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112000,
+      "name": "Ghetto Tekkno",
+      "url": "https://open.spotify.com/track/2q7srMvO0mexRQuP1DBMfM"
+    },
+    {
+      "album": {
         "name": "Give It To Me (Full Vocal Mix)",
         "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
       },
@@ -2324,7 +2346,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 151632,
       "name": "Tour de Berlin",
       "url": "https://open.spotify.com/track/6bTtaSmqjMD6TggNfoR4N5"

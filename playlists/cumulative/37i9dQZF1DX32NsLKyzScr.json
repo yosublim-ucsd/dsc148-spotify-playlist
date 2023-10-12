@@ -8133,6 +8133,24 @@
     },
     {
       "album": {
+        "name": "Hey DJ",
+        "url": "https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157001,
+      "name": "Hey DJ",
+      "url": "https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq"
+    },
+    {
+      "album": {
         "name": "Hey Hey (Heard You Say)",
         "url": "https://open.spotify.com/album/6CkhbzTlaDd6kjMqjiXMcy"
       },
@@ -11614,7 +11632,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 206000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5"

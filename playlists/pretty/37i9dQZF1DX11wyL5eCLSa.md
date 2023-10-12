@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 
 > Sangre fresca en las escenas del indie y el rock\. Jay de la Cueva en Portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,835 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,904 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11wyL5eCLSa.md) - [plain]
 | 99 | [Enemigo \(Acústico\)](https://open.spotify.com/track/5ReKPDlqRp0pgBr85cW2pp) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enemigo \(Acústico\)](https://open.spotify.com/album/6qH6zmf1sKAlpIWQNi88VB) | 4:02 |
 | 100 | [EL FINAL](https://open.spotify.com/track/2v0HNNJ3mijsvzOgHq8EHO) | [Hello Seahorse!](https://open.spotify.com/artist/3vKxuOGRkXJWpCZPf01Nj8) | [EL FINAL](https://open.spotify.com/album/6InT8SPpU1AIUXcQsbMZ00) | 3:52 |
 
-Snapshot ID: `MCw3NDFmMGM3OWFlNjRmZDFhMGY3YmNiOWU1OTU4ODVlYzk4YWEzOGFj`
+Snapshot ID: `MCwzNDk5YTFkM2JkM2EzNDg3YjFjODc4OGE1NzRjMTBiZDU1NDQwN2Zj`

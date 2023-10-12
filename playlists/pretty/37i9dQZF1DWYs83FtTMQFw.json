@@ -1,12 +1,12 @@
 {
   "description": "The hottest tracks of today ft. Doja Cat, Drake, Burna Boy and more.",
-  "num_followers": 2261743,
+  "num_followers": 2259904,
   "original_name": "Hot Rhythmic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGFjY2M1MzE1NGYyMmQxM2FmOGU4OWY4Njg5NDQxNTUxZjdmNzYx",
+  "snapshot_id": "MCw4YjE2MTAzY2YzYWU3YzQxOWM5YjAyMjY3YmQzODNjM2VjODIzMGM1",
   "tracks": [
     {
       "added_at": "2023-10-06 17:17:45",
@@ -293,10 +293,46 @@
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
     },
     {
+      "added_at": "2023-10-06 18:05:32",
+      "album": {
+        "name": "TEC",
+        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 144390,
+      "name": "500lbs",
+      "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
+    },
+    {
       "added_at": "2023-09-29 13:44:04",
       "album": {
-        "name": "On The Radar Freestyle",
-        "url": "https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z"
+        "name": "All My Life (feat. J. Cole)",
+        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
+      },
+      "artists": [
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 223878,
+      "name": "All My Life (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
+    },
+    {
+      "added_at": "2023-10-06 18:05:32",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
       "artists": [
         {
@@ -304,13 +340,13 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         },
         {
-          "name": "Central Cee",
-          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 275280,
-      "name": "On The Radar Freestyle",
-      "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
+      "duration_ms": 247444,
+      "name": "First Person Shooter (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -337,20 +373,24 @@
       "url": "https://open.spotify.com/track/4WS26ImdBwGa04bNrh17RO"
     },
     {
-      "added_at": "2023-10-06 18:05:32",
+      "added_at": "2023-09-29 13:44:04",
       "album": {
-        "name": "TEC",
-        "url": "https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE"
+        "name": "UTOPIA",
+        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
       },
       "artists": [
         {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
         }
       ],
-      "duration_ms": 144390,
-      "name": "500lbs",
-      "url": "https://open.spotify.com/track/6rjuKpPydT2SxN15TZpV7r"
+      "duration_ms": 191700,
+      "name": "FE!N (feat. Playboi Carti)",
+      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
       "added_at": "2023-09-29 13:44:04",
@@ -371,6 +411,50 @@
       "duration_ms": 255160,
       "name": "Meridian",
       "url": "https://open.spotify.com/track/73LBcJygFdRAiJfWkpnf2G"
+    },
+    {
+      "added_at": "2023-09-29 13:44:04",
+      "album": {
+        "name": "Brand New",
+        "url": "https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0"
+      },
+      "artists": [
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        },
+        {
+          "name": "YG",
+          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 182532,
+      "name": "Brand New",
+      "url": "https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS"
+    },
+    {
+      "added_at": "2023-09-29 13:44:04",
+      "album": {
+        "name": "Boy Meets World",
+        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
+      },
+      "artists": [
+        {
+          "name": "Sleepy Hallow",
+          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
+        },
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 148928,
+      "name": "A N X I E T Y (feat. Doechii)",
+      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
     },
     {
       "added_at": "2023-09-29 13:44:04",
@@ -411,42 +495,18 @@
     {
       "added_at": "2023-09-29 13:44:04",
       "album": {
-        "name": "ISSA PARTY (feat. BabyDrill)",
-        "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
+        "name": "Last Time I Saw You",
+        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
       },
       "artists": [
         {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        },
-        {
-          "name": "BabyDrill",
-          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 176133,
-      "name": "ISSA PARTY (feat. BabyDrill)",
-      "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
-    },
-    {
-      "added_at": "2023-10-06 18:05:32",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 247444,
-      "name": "First Person Shooter (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
+      "duration_ms": 216347,
+      "name": "Last Time I Saw You",
+      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
     },
     {
       "added_at": "2023-09-29 13:44:04",
@@ -475,26 +535,22 @@
     {
       "added_at": "2023-09-29 13:44:04",
       "album": {
-        "name": "Brand New",
-        "url": "https://open.spotify.com/album/0p82QxkLngaHhRkbET3IZ0"
+        "name": "ISSA PARTY (feat. BabyDrill)",
+        "url": "https://open.spotify.com/album/2bgo85yjFegHRyRROMaiWm"
       },
       "artists": [
         {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
         },
         {
-          "name": "YG",
-          "url": "https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
         }
       ],
-      "duration_ms": 182532,
-      "name": "Brand New",
-      "url": "https://open.spotify.com/track/3MbOT5mzE94Ne0Hv51akoS"
+      "duration_ms": 176133,
+      "name": "ISSA PARTY (feat. BabyDrill)",
+      "url": "https://open.spotify.com/track/4hrd3G5XnJzDC5LZw0Fwgu"
     },
     {
       "added_at": "2023-09-29 13:44:04",
@@ -515,6 +571,26 @@
     {
       "added_at": "2023-09-29 13:44:04",
       "album": {
+        "name": "On The Radar Freestyle",
+        "url": "https://open.spotify.com/album/0xjql3TEYd34hlAky4Ck2z"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        }
+      ],
+      "duration_ms": 275280,
+      "name": "On The Radar Freestyle",
+      "url": "https://open.spotify.com/track/1L0OmJV0LnPDWuHCIGmBV6"
+    },
+    {
+      "added_at": "2023-09-29 13:44:04",
+      "album": {
         "name": "SHAQ & KOBE",
         "url": "https://open.spotify.com/album/4oekX6V7nkvYhjnbNSO7uA"
       },
@@ -531,22 +607,6 @@
       "duration_ms": 219617,
       "name": "SHAQ & KOBE",
       "url": "https://open.spotify.com/track/02K2VtGdUG5fUlAQATEgE6"
-    },
-    {
-      "added_at": "2023-09-29 13:44:04",
-      "album": {
-        "name": "Last Time I Saw You",
-        "url": "https://open.spotify.com/album/1e26jDA4kEIjhgaMUf8mH1"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 216347,
-      "name": "Last Time I Saw You",
-      "url": "https://open.spotify.com/track/79DPYZ6x8FfzgSgPoPhpC3"
     },
     {
       "added_at": "2023-09-29 13:44:04",
@@ -587,46 +647,6 @@
       "duration_ms": 203345,
       "name": "Turks & Caicos (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3kfhS2L56Wj8fBcu7xE47H"
-    },
-    {
-      "added_at": "2023-09-29 13:44:04",
-      "album": {
-        "name": "All My Life (feat. J. Cole)",
-        "url": "https://open.spotify.com/album/0lZQagJ5r0crB35zphSD4A"
-      },
-      "artists": [
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 223878,
-      "name": "All My Life (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/6HgWWaMu31KdOpEG5l28BG"
-    },
-    {
-      "added_at": "2023-09-29 13:44:04",
-      "album": {
-        "name": "Boy Meets World",
-        "url": "https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY"
-      },
-      "artists": [
-        {
-          "name": "Sleepy Hallow",
-          "url": "https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV"
-        },
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 148928,
-      "name": "A N X I E T Y (feat. Doechii)",
-      "url": "https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY"
     },
     {
       "added_at": "2023-09-29 13:44:04",
@@ -763,26 +783,6 @@
       "duration_ms": 175099,
       "name": "Bongos (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
-    },
-    {
-      "added_at": "2023-09-29 13:44:04",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        }
-      ],
-      "duration_ms": 191700,
-      "name": "FE!N (feat. Playboi Carti)",
-      "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
       "added_at": "2023-09-29 13:44:04",

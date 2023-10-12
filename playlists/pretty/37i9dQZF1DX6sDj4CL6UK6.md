@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover: AB!, Kayan
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,015 likes - 75 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,024 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 39 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 |
 | 40 | [Love Drunk](https://open.spotify.com/track/5mgGKIjsmxlRpEm7DQoMga) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Love Drunk](https://open.spotify.com/album/6Wh4Dyti49RAcSLupRiZHG) | 2:30 |
 | 41 | [Favorite Peeps](https://open.spotify.com/track/0SHa9XHwYYB1UUmgbgHuhQ) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 3:13 |
-| 42 | [SUNNY AFTERNOON](https://open.spotify.com/track/4CiSdCGCAqeAgGJHRQzcTr) | [雲端司機 CLOUDRIVER](https://open.spotify.com/artist/06velPyQuEOTEGImz6Qmce) | [SUNNY AFTERNOON](https://open.spotify.com/album/3eWrnC9eI96hz9GBEGMg1y) | 2:51 |
-| 43 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
+| 42 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
+| 43 | [SUNNY AFTERNOON](https://open.spotify.com/track/4CiSdCGCAqeAgGJHRQzcTr) | [雲端司機 CLOUDRIVER](https://open.spotify.com/artist/06velPyQuEOTEGImz6Qmce) | [SUNNY AFTERNOON](https://open.spotify.com/album/3eWrnC9eI96hz9GBEGMg1y) | 2:51 |
 | 44 | [Making Faces](https://open.spotify.com/track/6jen6M7ea0yuXA6C4x7zpd) | [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [Making Faces](https://open.spotify.com/album/0Uv9TA5qhuzvBpYafclE4E) | 3:12 |
 | 45 | [Eleven](https://open.spotify.com/track/4hTSDYZuvejzX7lC667Qdt) | [Sunday Moon](https://open.spotify.com/artist/6hyHuSf5Ft5jkSCmTg1RNn) | [Eleven](https://open.spotify.com/album/6rWYgwW4ytO7sHkEQSKAMT) | 3:23 |
 | 46 | [Find You](https://open.spotify.com/track/0fxrvyjyQ8Eht15dSh6wa5) | [Pineapple Express](https://open.spotify.com/artist/68l0QuZV2CAaQqXP4o75fn) | [Deja Vu](https://open.spotify.com/album/2I7m8ajkcmyuaYWdVG2VoC) | 4:44 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 64 | [Constellation](https://open.spotify.com/track/17PGQK2meDHoEqSHnWmPJ1) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/1AvbjQPZdXfaJ91hdcoOQo) | 3:15 |
 | 65 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 |
 | 66 | [Merry Midnight](https://open.spotify.com/track/6qR09FJQiF8We0qtsjMK5Y) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d), [Tseng Kuo Hung](https://open.spotify.com/artist/0Ib2ZUmA8BXyCP18UZd8xP) | [Bloom](https://open.spotify.com/album/18RDnaVusM3sD5chVIUFzh) | 4:29 |
-| 67 | [Ashes](https://open.spotify.com/track/23il79F7rw8gQmcCNYFQsD) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Ashes](https://open.spotify.com/album/2Zws1XUEWAueEOFJX4jHPA) | 4:04 |
-| 68 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 |
+| 67 | [So Good](https://open.spotify.com/track/0CawrCDxkBgaR2ImcpQYMm) | [OAFF](https://open.spotify.com/artist/2k66ibJfgMigF5QWqUgLyR), [Kayan](https://open.spotify.com/artist/3lfolnS8yn0VWK2FKM0hWs) | [So Good](https://open.spotify.com/album/7zp2nLduPlDbfn9ejFTuZE) | 2:59 |
+| 68 | [Ashes](https://open.spotify.com/track/23il79F7rw8gQmcCNYFQsD) | [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Ashes](https://open.spotify.com/album/2Zws1XUEWAueEOFJX4jHPA) | 4:04 |
 | 69 | [sushi song](https://open.spotify.com/track/5scUVb02Ea6aph7XAb2I7X) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [sushi song](https://open.spotify.com/album/1qByDrxTPVZoultbc0HNyp) | 2:34 |
-| 70 | [I'm Just Like That](https://open.spotify.com/track/5UGjhJC4d0xSkrQlnqmpR4) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Lingering Gloaming](https://open.spotify.com/album/6KgLif7JIfrESE5l1nkLiS) | 3:28 |
-| 71 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
+| 70 | [Once Upon The End](https://open.spotify.com/track/1D3Xr7mOle4JAcjn0GThV9) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Once Upon The End](https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ) | 4:39 |
+| 71 | [I'm Just Like That](https://open.spotify.com/track/5UGjhJC4d0xSkrQlnqmpR4) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Lingering Gloaming](https://open.spotify.com/album/6KgLif7JIfrESE5l1nkLiS) | 3:28 |
 | 72 | [Hey Aries](https://open.spotify.com/track/5bZzQ9JnJWLR9UE7T0Hm4I) | [The Chairs](https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK) | [Hey Aries](https://open.spotify.com/album/6YscTA7rMIXvhbqHKufQBz) | 4:17 |
 | 73 | [Sucks to Be Human](https://open.spotify.com/track/6z0GP8AOTDIShCXUOw1E3Y) | [The F16s](https://open.spotify.com/artist/5PVlXEAvlt6SfYpWBYTM4C) | [Sucks to Be Human](https://open.spotify.com/album/27Ume3SwDAJJd4h0vQBdgd) | 3:25 |
 | 74 | [One Day I Might Have A Say](https://open.spotify.com/track/1HlT3pKWWPPWriV2E44oEB) | [Kiri T](https://open.spotify.com/artist/1gpUtHqrKRAEy8w7ojs8l5) | [One Day I Might Have A Say](https://open.spotify.com/album/1cRFDmJbaxC3nxWmqU84TI) | 3:40 |
 | 75 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
 
-Snapshot ID: `MCw5NTZlNGE0NDU5YTVjNDcxMWYyMjc0NjlhNjhkNGE4N2FjZjczZDZh`
+Snapshot ID: `MCw5ZDAyNDIyMjM0MjJmZThmOWMwYzE1MGU5YmE2ODgwZjdhNjA5NDhi`

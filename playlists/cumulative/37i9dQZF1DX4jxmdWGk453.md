@@ -4,7 +4,7 @@
 
 > All your favourite Christmas carols sung for you by a vocal ensemble.
 
-57 songs - 2 hr 25 min
+58 songs - 2 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [In Dulci Jubilo](https://open.spotify.com/track/1VaSpQqQzZqcZd7jmTPujm) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Hieronymus Praetorius](https://open.spotify.com/artist/0qhXxhrdfb30pOHmuDynuB), [VOCES8](https://open.spotify.com/artist/32nW8kGbs65y8CSlIvREuc) | [Christmas](https://open.spotify.com/album/2aIQA8i1ajdEOdHKKiISp4) | 2:46 | 2021-12-21 |  |
 | [It Came Upon a Midnight Clear](https://open.spotify.com/track/15a0x2nKnbgKZ8KaiH4ny4) | [St\. Paul's Cathedral Choir](https://open.spotify.com/artist/4Psmt0Ic0BpoXNg5skm46Q) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/3qnl7vvIjow4WCe2Bl9prX) | 3:45 | 2021-12-21 |  |
 | [It's Beginning to Look a Lot Like Christmas](https://open.spotify.com/track/5tW5DvpRNhYGLVvqJkMFLI) | [The King's Singers](https://open.spotify.com/artist/5lR7yDVN4z9kahOiUSlMhe) | [A Capella Christmas Favourites](https://open.spotify.com/album/4PUNlc0snMF3Bqa8NeWLRk) | 3:03 | 2021-12-21 |  |
+| [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/track/3xSsHxgabPMsTmjv78mxES) | [Voices of Joy](https://open.spotify.com/artist/1qjsaKVUHUL768TUvVgs8l) | [It's Beginning To Look A Lot Like Christmas](https://open.spotify.com/album/7MlfKEzMe9BuLdUanU0TuZ) | 1:46 | 2023-10-11 |  |
 | [It's The Most Wonderful Time Of The Year](https://open.spotify.com/track/666PAGBm6Qc5nXrIiYCyYH) | [Seasonal Smoothers](https://open.spotify.com/artist/02IYD7NORepp82HZMGvo0z) | [I'll Be Home For Christmas](https://open.spotify.com/album/5ml3IWHPa2eim1Gy6AxyG3) | 2:20 | 2021-12-21 |  |
 | [Jesus Christ the Apple Tree](https://open.spotify.com/track/5HHtgGH5XwCfhjDo7I9EAo) | [The Sixteen](https://open.spotify.com/artist/5y9NnD1AZPcBVbDluRgiXS) | [A Traditional Christmas Carol Collection, Vol\. II](https://open.spotify.com/album/7gVtoqma3finMEnqIpDq5Y) | 3:17 | 2021-12-21 |  |
 | [Jingle Bells](https://open.spotify.com/track/1t75I28JVFBPJ8Zzc15kbY) | [The Doorstep Carolers](https://open.spotify.com/artist/4Y2CAf3w4WZ81gIXWJbxrF) | [Ding Dong Merrily On High](https://open.spotify.com/album/6lGpdC69lL8JtJXaQUxOBk) | 1:48 | 2021-12-21 |  |

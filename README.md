@@ -67,7 +67,7 @@ naming collisions when archiving personalized playlists, which have the
 same name for every user. To add an alias, add a single line
 containing the desired name to `playlists/registry/<playlist_id>`.
 
-## Playlists \(6839\)
+## Playlists \(6842\)
 
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
 - [\#FlashbackFriday](/playlists/pretty/2dWfCGZguakRQagX7wM6Mi.md)
@@ -1631,6 +1631,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Día de Shakira](/playlists/pretty/37i9dQZF1DX2aEQIkO99yg.md)
 - [Días Lluviosos](/playlists/pretty/37i9dQZF1DWTIpAoUPaStF.md)
 - [EA NHL 24 Official Playlist](/playlists/pretty/37i9dQZF1DWWP0WY5aV2Xz.md)
+- [EA SPORTS FC 24 Official Soundtrack](/playlists/pretty/37i9dQZF1DX3rXtgePifMs.md)
 - [EA SPORTS FIFA Mix](/playlists/pretty/37i9dQZF1DXdDfBvFXqzpv.md)
 - [ECHO : Fascinating Flute](/playlists/pretty/37i9dQZF1DX4x2OUqt1eGO.md)
 - [ECHO : Soulful Sitar](/playlists/pretty/37i9dQZF1DX8mlN8vvE4ZI.md)
@@ -2795,6 +2796,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [K\-R&B Now](/playlists/pretty/37i9dQZF1DX089MWxS7QW5.md)
 - [K\-Trot Stars](/playlists/pretty/37i9dQZF1DX6i7txhF59QA.md)
 - [K\-Webtoon OSTs \(웹툰 OSTs\)](/playlists/pretty/37i9dQZF1DWZgZGWDUJK7v.md)
+- [K:lassical](/playlists/pretty/37i9dQZF1DX9lq0EB6cmRr.md)
 - [KAGUYA\-SAMA: LOVE IS WAR かぐや様は告らせたい](/playlists/pretty/37i9dQZF1DX9GwUIoGGDbm.md)
 - [KENGAN ASHURA \-ケンガンアシュラ \-](/playlists/pretty/37i9dQZF1DX1jG0L1fT9fh.md)
 - [KING](/playlists/pretty/37i9dQZF1DWYNNUgvFqsgZ.md)
@@ -4570,7 +4572,6 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [Sound Semester](/playlists/pretty/37i9dQZF1DX4eQiqG0uCMB.md)
 - [Sounds of the Ocean](/playlists/pretty/37i9dQZF1DWV90ZWj21ygB.md)
 - [Soundtrack Love Songs](/playlists/pretty/37i9dQZF1DXar0WmW5YgAc.md)
-- [Soundtrack oficial de EA SPORTS FC 24](/playlists/pretty/37i9dQZF1DX3rXtgePifMs.md)
 - [Soundtracked](/playlists/pretty/37i9dQZF1DWW7gj0FcGEx6.md)
 - [Soundtracks for Studying](/playlists/pretty/37i9dQZF1DWZ27zYbfKITD.md)
 - [Soundtracks Épicos](/playlists/pretty/37i9dQZF1DXdEH86O6asrX.md)
@@ -6870,6 +6871,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [가을가을한 마음](/playlists/pretty/37i9dQZF1DWZ4yqIW9PVQn.md)
 - [괜히 센치해](/playlists/pretty/37i9dQZF1DX5a7mln8z0Su.md)
 - [국내 R&B 메가 히트](/playlists/pretty/37i9dQZF1DXe4qmDjDW0Ug.md)
+- [국악 \(Korean National\)](/playlists/pretty/37i9dQZF1DXaYcwnCfuufL.md)
 - [나 혼자 좋아해](/playlists/pretty/37i9dQZF1DX4zvnN9RL36v.md)
 - [나쁜엄마 \(The Good Bad Mother\)](/playlists/pretty/37i9dQZF1DX3oSqvXoB6jV.md)
 - [나의 우울은,](/playlists/pretty/37i9dQZF1DXb5KQr73mtTz.md)
@@ -6905,6 +6907,7 @@ containing the desired name to `playlists/registry/<playlist_id>`.
 - [카지노\(Big Bet\)](/playlists/pretty/37i9dQZF1DX5UGBQjvGtvy.md)
 - [토토가! 추억의 댄스 뮤직](/playlists/pretty/37i9dQZF1DX4Pm0RFqsA0C.md)
 - [포근 편안 폭신](/playlists/pretty/37i9dQZF1DWSvk1AxYsbvo.md)
+- [퓨전 국악 \(Fusion Korean National\)](/playlists/pretty/37i9dQZF1DXbqEesmXsTTO.md)
 - [힐링 힙합](/playlists/pretty/37i9dQZF1DWZiWafrEIdA8.md)
 - [𝙛𝙨𝙝 𝙣𝙙 𝙘𝙝𝙥 𝙟𝙢𝙨](/playlists/pretty/4bPJzqdwVF3SMKYy9MzH5e.md)
 - [🌓 Light Night Group Playlist](/playlists/pretty/3byfICXn1tEvIDpgTYzeXx.md)

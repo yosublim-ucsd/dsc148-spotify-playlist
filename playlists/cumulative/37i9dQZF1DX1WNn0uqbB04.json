@@ -728,7 +728,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 147911,
       "name": "Muero Sin Vos",
       "url": "https://open.spotify.com/track/0u7ddEKYuoTl5Z1rntL28g"
@@ -910,6 +910,24 @@
       "duration_ms": 227616,
       "name": "Plegaria para un ni\u00f1o dormido",
       "url": "https://open.spotify.com/track/3hW3s0ClWYEKdDVZnwKZYU"
+    },
+    {
+      "album": {
+        "name": "Porque Canto Asi",
+        "url": "https://open.spotify.com/album/0DVKuygci9kepNkgBfVXmP"
+      },
+      "artists": [
+        {
+          "name": "La Milonga Electrica",
+          "url": "https://open.spotify.com/artist/7cJt9z3hi4iwfG6v1buiO6"
+        }
+      ],
+      "date_added": "2023-08-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134272,
+      "name": "Porque Canto Asi",
+      "url": "https://open.spotify.com/track/7mhcAUfgNvWpt1kw64UMpw"
     },
     {
       "album": {

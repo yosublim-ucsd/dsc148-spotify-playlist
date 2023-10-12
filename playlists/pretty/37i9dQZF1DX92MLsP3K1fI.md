@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 
 > ¡Sube el volumen y disfruta del pop más chicloso! Morat en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,518 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,610 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX92MLsP3K1fI.md) - [plain]
 | 49 | [SIN HABLAR](https://open.spotify.com/track/1duwVv5o7C4DxMWyh9TRHj) | [Callejo](https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551), [Taylor Diaz](https://open.spotify.com/artist/7bLFuuccJopbrVGDbD0zyf), [Bastian](https://open.spotify.com/artist/4K7sffC0683anJ57UKBzyD) | [SIN HABLAR](https://open.spotify.com/album/2s6WuuQGNDpvbA0lP5MPqI) | 3:11 |
 | 50 | [Bailo Sola](https://open.spotify.com/track/03RcAv7FdbgYlr8uhopPNk) | [Paty Cantú](https://open.spotify.com/artist/7K9rdoOJSiKXoVXPlSkGKT) | [Bailo Sola](https://open.spotify.com/album/5XP3YMpbfDGeSFFnrczMkA) | 2:35 |
 
-Snapshot ID: `MCw3NDY4ZjlkYjVkMmU3OGYwY2I1NDI5ODdkYjg1MWJmNTY3YTUwMWIx`
+Snapshot ID: `MCxhY2Y1MzM0OTc2YzBhOTViNTc0MTYxNjU1YWZlOTg4OWQxMDFlOWE2`

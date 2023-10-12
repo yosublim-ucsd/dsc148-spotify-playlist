@@ -3469,6 +3469,28 @@
     },
     {
       "album": {
+        "name": "Alone In A Crowd",
+        "url": "https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9"
+      },
+      "artists": [
+        {
+          "name": "Oliver Tree",
+          "url": "https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe"
+        },
+        {
+          "name": "Super Computer",
+          "url": "https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168359,
+      "name": "Essence (feat. Super Computer)",
+      "url": "https://open.spotify.com/track/3YQHgTo0898GHXRC2byH52"
+    },
+    {
+      "album": {
         "name": "Essence (feat. Super Computer)",
         "url": "https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm"
       },
@@ -3484,7 +3506,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 168359,
       "name": "Essence (feat. Super Computer)",
       "url": "https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n"

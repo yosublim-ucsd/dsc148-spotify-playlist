@@ -4,7 +4,7 @@
 
 > The best of bars, beats & rhymes from the 254\. Cover: <a href="https://open.spotify.com/artist/10jefIr7Jj7c0dDJEqRcWK?si=pdat4ZEbS9GP1JuDOOI\_TQ"> Wakadinali </a>
 
-158 songs - 8 hr 7 min
+159 songs - 8 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Horsepower](https://open.spotify.com/track/73MKsSYIHxZxXrT1NWoxf4) | [Xavier Xander](https://open.spotify.com/artist/71j1401qfvGqlUYS5l3axQ), [Topmali180](https://open.spotify.com/artist/6MrIAMGDktCB2Gib8xcWSV) | [Horsepower](https://open.spotify.com/album/1tCHWBqHn6jATmkJ7lEFVY) | 2:25 | 2022-08-11 | 2022-10-07 |
 | [Iko Top](https://open.spotify.com/track/4CvQplM8LsqUTY0YbDohBH) | [Exray Taniua](https://open.spotify.com/artist/357CviwK0oy4lRIj26HVt6), [Ssaru](https://open.spotify.com/artist/1ARD1FbyU6v65XIlpYLbMW), [Trio Mio](https://open.spotify.com/artist/1YSv5pS7iY49Ech2SfHryX) | [Iko Top](https://open.spotify.com/album/2pwOODrDsMPeUfommbixIU) | 3:33 | 2023-06-02 |  |
 | [In The End](https://open.spotify.com/track/6oLe2HrrJQ3BBIyq2TTqIm) | [AINE](https://open.spotify.com/artist/6wjvPNWZyYAX8Q98XzVrQM), [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [Lorrdreal](https://open.spotify.com/artist/7nRPXBDL1XWxB76tWRg2wP) | [In The End](https://open.spotify.com/album/2QY8FAFs5PBzTwzyAkElwY) | 3:08 | 2022-08-11 | 2022-10-28 |
+| [Judgment Day](https://open.spotify.com/track/7M358bpZKqYEf2kkvvo7n7) | [Alwyne Thuggerson](https://open.spotify.com/artist/5xSHBh0uOb00QCAPURnBnm) | [Judgment Day](https://open.spotify.com/album/5kvLli7isTzsrWG5hNac8O) | 1:46 | 2023-10-11 |  |
 | [Kalesa na Leather](https://open.spotify.com/track/0YETEpBObtWQAAlrEBL5VK) | [Steph Kapela](https://open.spotify.com/artist/6wLnCeHouyPLFHjolO1Igl) | [Kalesa na Leather](https://open.spotify.com/album/2BmdCBVfeopAna7jznaQOM) | 2:42 | 2022-06-02 | 2023-04-14 |
 | [KILIPESA](https://open.spotify.com/track/00A3bHHQCJv00B8rRItbkh) | [Juicee Mann](https://open.spotify.com/artist/6pAujzqyffMZaJT2YG7RvQ), [CKO](https://open.spotify.com/artist/5hHYpYq45vccZHhSElKvXO), [Nare](https://open.spotify.com/artist/5kFiVU6yw6OkpKHuJmG8UX) | [KILIPESA](https://open.spotify.com/album/26Y0kUKYndeY7UNxq5tZXl) | 2:40 | 2022-06-02 | 2022-10-14 |
 | [Last Air Bender](https://open.spotify.com/track/4xIFdWcoMb9MqLYpvS8uCy) | [BURUKLYN BOYZ](https://open.spotify.com/artist/00WWkvpiOhhZNlk2KTqYhX), [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc), [Silverstone Barz](https://open.spotify.com/artist/0ORrak8S66JgLaZFSXH6gg) | [East Mpaka London](https://open.spotify.com/album/0Kz367vVwZ4MKYLanvjUwu) | 2:23 | 2022-05-19 | 2023-01-20 |
@@ -155,7 +156,7 @@
 | [Vibes Central](https://open.spotify.com/track/16mm3Ff5z9O57NEVxAyoGn) | [Jovie Jovv](https://open.spotify.com/artist/5V9RNrRsqNA33tDrCpIswZ), [Ekumbo](https://open.spotify.com/artist/6CSvMO39kIaSHLxQ1Ndk5D), [Swahili Papi](https://open.spotify.com/artist/2RGnAdqLNaHmfQSWamGQ3K) | [Vibes Central](https://open.spotify.com/album/7FqkCr6qjywfEUQuzRo7PD) | 2:21 | 2023-05-18 |  |
 | [W.T.N ?](https://open.spotify.com/track/7dfVmXnGB5OlBHiQum53rL) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN) | [W.T.N ?](https://open.spotify.com/album/2G2k6UrxLNcEGWhZLUNueo) | 2:42 | 2022-10-13 | 2023-01-11 |
 | [W.T.N ?](https://open.spotify.com/track/5pcDfYgjlpoAs9tZvohneD) | [Boeyylee](https://open.spotify.com/artist/4qMKT1IgMKpk9fnv6FYXLN), [Joshoxy](https://open.spotify.com/artist/0PbQMJK1AKXAbvSakUmtmw) | [IMPRESSING MYSELF](https://open.spotify.com/album/037nljmHSWbT0KlOPiqk0j) | 2:42 | 2022-10-13 | 2023-01-27 |
-| [Wapi Compe](https://open.spotify.com/track/2463I6PobSJi8KZUOxP7rC) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [Wapi Compe](https://open.spotify.com/album/37T5BDJW1be2i8TDkfqpQr) | 4:20 | 2023-10-06 |  |
+| [Wapi Compe](https://open.spotify.com/track/2463I6PobSJi8KZUOxP7rC) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [Wapi Compe](https://open.spotify.com/album/37T5BDJW1be2i8TDkfqpQr) | 4:20 | 2023-10-06 | 2023-10-12 |
 | [Wash It](https://open.spotify.com/track/02LtDIWAgaDZAQPrwtDCy8) | [Octopizzo](https://open.spotify.com/artist/7Ijwdl32LSddH695Qn3q5o) | [Wash It](https://open.spotify.com/album/1EHQnbog97Tt2PFizjyPmW) | 2:22 | 2023-08-17 |  |
 | [Wasp](https://open.spotify.com/track/79fMIVXRCjVDm8iazUhSoP) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [BIGGS](https://open.spotify.com/album/4pxNzFrgUzRCJupYUXjs8y) | 3:20 | 2022-07-07 | 2022-10-12 |
 | [Wasp](https://open.spotify.com/track/0u5448uqc3COjMjBdKQ7A0) | [Big yasa](https://open.spotify.com/artist/4irem3YwBjOoB8CoYIPwRc) | [Biggs \(Deluxe\)](https://open.spotify.com/album/0YLs1izGnml8piMRUGJhN7) | 3:22 | 2023-06-08 |  |

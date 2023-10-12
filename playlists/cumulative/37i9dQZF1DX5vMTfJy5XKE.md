@@ -4,7 +4,7 @@
 
 > 'Tis the season! All new holiday releases\. Cover: Pentatonix
 
-381 songs - 20 hr 3 min
+382 songs - 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -179,7 +179,8 @@
 | [I'll Be Home for Christmas](https://open.spotify.com/track/13VqMQNpRUaEHFqerPibVo) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [I'll Be Home for Christmas](https://open.spotify.com/album/0ggYChoRsfiOvD1h266pFV) | 2:45 | 2021-12-24 | 2022-08-22 |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/0V2Anxn5pgRHZElbYbCip0) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [I'll Be Home for Christmas](https://open.spotify.com/album/3sJ5zX6tqTL3Mjo9NIkWri) | 3:11 | 2021-12-24 | 2022-09-28 |
 | [I'm Ready For Christmas](https://open.spotify.com/track/7MMXcvgISOTgjwJq8RAj9f) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [I'm Ready For Christmas](https://open.spotify.com/album/7aiiUn98kVj0zp0ZQf6pSO) | 2:25 | 2022-12-02 | 2023-10-04 |
-| [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/2JtqKRJSuLZ7pb1eik1vJE) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [I've Got My Love to Keep Me Warm](https://open.spotify.com/album/78CkiPJn5eksHgAWNRwh2E) | 2:31 | 2023-10-03 |  |
+| [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/2JtqKRJSuLZ7pb1eik1vJE) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [I've Got My Love to Keep Me Warm](https://open.spotify.com/album/78CkiPJn5eksHgAWNRwh2E) | 2:31 | 2023-10-03 | 2023-10-12 |
+| [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/4vpZ39U9F1jyw2bAHv1HUY) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas with The Tenors](https://open.spotify.com/album/3KPvwbNGc4WL7IzvD0fP2V) | 2:31 | 2023-10-09 |  |
 | [I've Got My Love to Keep Me Warm \(feat\. Kudisan Kai\)](https://open.spotify.com/track/3WSNLppkYIiqSpPYKjlJA4) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA), [Kudisan Kai](https://open.spotify.com/artist/1A4wovFi6ng6YLYHqmNDqR) | [It's Christmas All Over \(Deluxe\)](https://open.spotify.com/album/5AN66eD3rSmTJMGNw0YjKz) | 2:26 | 2021-12-24 | 2022-07-29 |
 | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/track/3Cr5u6bC4NJomy0B3oNHkg) | [Lasse Skriver](https://open.spotify.com/artist/3ehJII4G3bu26Ga4IurYBp) | [It Must Have Been Love \(Christmas for the Broken Hearted\) \- Spotify Singles: Holiday](https://open.spotify.com/album/2WwjIbhO1VU84Zm9ZhaEoL) | 3:41 | 2022-11-18 | 2023-10-04 |
 | [It Was A… \(Masked Christmas\) \(feat\. Ariana Grande & Megan Thee Stallion\)](https://open.spotify.com/track/0vGVNj5Fmn4TU4foavNZG1) | [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [It Was A… \(Masked Christmas\)](https://open.spotify.com/album/7LsTjhsTKJA0Rfwwx1ppXs) | 3:00 | 2021-12-24 | 2022-09-28 |

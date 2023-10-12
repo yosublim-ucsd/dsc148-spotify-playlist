@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 
 > Anthems from the early days of recorded rap music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,344 likes - 70 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,352 likes - 70 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 34 | [Hold It Now, Hit It](https://open.spotify.com/track/3C8xkK4Cir2QmiaN07GIZs) | [Beastie Boys](https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx) | [Licensed To Ill](https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb) | 3:26 |
 | 35 | [Microphone Fiend](https://open.spotify.com/track/0cSJGFChou7M6u2ju9SWN1) | [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv) | [Follow The Leader \(Expanded Edition\)](https://open.spotify.com/album/42p4dRDB24b9mvBmMb0QR9) | 5:14 |
 | 36 | [Planet Rock \- Original 12" Version](https://open.spotify.com/track/5aD3fAa1fy8XUesj3lgr19) | [Afrika Bambaataa](https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p), [The Soulsonic Force](https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP) | [Planet Rock: The Album](https://open.spotify.com/album/3qX0GugLujpIodkT6r06hf) | 6:23 |
-| 37 | [Strictly Business](https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:45 |
-| 38 | [9mm Goes Bang](https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 4:17 |
+| 37 | [9mm Goes Bang](https://open.spotify.com/track/5yVr4kj611qKFuvI12SItT) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 4:17 |
+| 38 | [Strictly Business](https://open.spotify.com/track/1xZdjsAGrY4BUIbIlYy3EX) | [EPMD](https://open.spotify.com/artist/3zpKjsMg2gw1St5WcWoUJN) | [Strictly Business](https://open.spotify.com/album/2HOl8gDiGGpt7wsIDi9jy5) | 4:45 |
 | 39 | [Talkin' All That Jazz](https://open.spotify.com/track/6ZF3dNXVuA6E8rOL4FX2EY) | [Stetsasonic](https://open.spotify.com/artist/6gl67jXbrwnMYZNZv88MKk) | [In Full Gear](https://open.spotify.com/album/5MGulPuRADl4COIrbMfvmw) | 4:48 |
 | 40 | [Bring The Noise](https://open.spotify.com/track/5BiuxSuxOZ9CcQ6SqICsDv) | [Public Enemy](https://open.spotify.com/artist/6Mo9PoU6svvhgEum7wh2Nd) | [It Takes A Nation Of Millions To Hold Us Back \(Deluxe Edition\)](https://open.spotify.com/album/3PxXiYU3PjymOEE22PewGZ) | 3:46 |
 | 41 | [King of Rock](https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV) | [Run–D.M.C.](https://open.spotify.com/artist/3CQIn7N5CuRDP8wEI7FiDA) | [King Of Rock \(Expanded Edition\)](https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6) | 5:14 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XmsXL2WBQd.md) - [plain]
 | 69 | [Bassline](https://open.spotify.com/track/4iuO0dinw5Bm18pXbZok8w) | [Mantronix](https://open.spotify.com/artist/0grZF2s6ADKiTGwf8EVZEY) | [The Album](https://open.spotify.com/album/10kEW14CpfmiAkXnE5Ic3K) | 5:26 |
 | 70 | [That's the Joint](https://open.spotify.com/track/1sby5Tqlj9BjJKBl27e7Ie) | [Funky 4 + 1](https://open.spotify.com/artist/6Jpc1m4U7kxHlzn8hkB85C) | [The Sugar Hill Records Story](https://open.spotify.com/album/27rUdsqReF9tEWcG2Wv04U) | 9:22 |
 
-Snapshot ID: `MCxlZmUwYTYxMjBkMGY1MjRlZTI3MjA2OTRkNzMxOGU0NzI4NzBjOWYx`
+Snapshot ID: `MCwzZjg5MjM1YjFjMzAyMDgxM2FkNjM0MTI5MTJjMGMzYjIzZTUzYzdl`

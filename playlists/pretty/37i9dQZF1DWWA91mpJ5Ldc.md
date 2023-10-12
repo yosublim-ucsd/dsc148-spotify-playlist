@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,992 likes - 60 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,032 likes - 60 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 26 | [Mais de Nós](https://open.spotify.com/track/7vUoWQjOB7Vw0r9aD55bRc) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Mais de Nós](https://open.spotify.com/album/1G5UFcEDjBbmEUY14dtppC) | 2:54 |
 | 27 | [Sonar](https://open.spotify.com/track/7sBW1PIwPe0RhgkQByk0EG) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Curumin](https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI), [Edgar](https://open.spotify.com/artist/0ZeTpaHiNCZFAuQ7v1fZ7Z) | [O Futuro Não Demora](https://open.spotify.com/album/195RDcBkD9dUqWBO75eCgQ) | 2:50 |
 | 28 | [Barato Total](https://open.spotify.com/track/6zz0dj3H9Q7JJlB6BHIhva) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Em Casa Com os Gil](https://open.spotify.com/album/3n7esvSbuawAdZkDcxIsOE) | 3:54 |
-| 29 | [Na Estrada](https://open.spotify.com/track/1kurYZn4PdsziIm0IsttFY) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Céu Lilás \- Na Estrada](https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV) | 3:38 |
-| 30 | [Boa Noite](https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Coisa de Acender](https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F) | 5:47 |
+| 29 | [Boa Noite](https://open.spotify.com/track/45wdrnx5rxfh9uPMQcYIZV) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Coisa de Acender](https://open.spotify.com/album/6RnT2W5jK3g7ETuQHv1U5F) | 5:47 |
+| 30 | [Na Estrada](https://open.spotify.com/track/1kurYZn4PdsziIm0IsttFY) | [Péricles](https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [Céu Lilás \- Na Estrada](https://open.spotify.com/album/0Kb73BaWQJh0GRxnOaSzdV) | 3:38 |
 | 31 | [Argumento \(Spotify Singles\)](https://open.spotify.com/track/2BBFcUCDTas0y6vV3LZ3c0) | [Criolo](https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs) | [Argumento \(Spotify Singles\)](https://open.spotify.com/album/5IjrQ0JHuQlMo6YLruSAAG) | 3:23 |
 | 32 | [Vem Doce](https://open.spotify.com/track/2P5az0U3e9UJWgXIwLf0nu) | [Vanessa Da Mata](https://open.spotify.com/artist/57pVvBwa3ZCR9LsVlkLXj7) | [Vem Doce](https://open.spotify.com/album/7KlfYwdvwh9ukPRfVO5jGH) | 3:46 |
 | 33 | [Todo Carinho](https://open.spotify.com/track/118239i3aWkav7mlAmldh9) | [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Sinto Muito](https://open.spotify.com/album/5fu7gooH6bp15cPuYGfGvx) | 4:29 |
@@ -50,12 +50,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 40 | [Café Com Leite](https://open.spotify.com/track/3zlC6H9LLQQhpJYOBofEZ0) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Soft Power](https://open.spotify.com/album/1BTjS1GvXAOauIJeK2ppmW) | 4:22 |
 | 41 | [Devagarinho 2.0 \(prod\. DKVPZ\)](https://open.spotify.com/track/0HYHMmuWQ1WWLiYXOhjt5I) | [Illy](https://open.spotify.com/artist/5gWFbdcQOMRYz1cdCuBxWO), [Baco Exu do Blues](https://open.spotify.com/artist/78nr1pVnDR7qZH6QbVMYZf), [Arnaldo Antunes](https://open.spotify.com/artist/7lOUbhzQ1F3xcCMEcTtbO5), [Deekapz](https://open.spotify.com/artist/7nsXkCzq2603Kc9SrJx1q0) | [Devagarinho 2.0 \(prod\. DKVPZ\)](https://open.spotify.com/album/7sjeAJANX5rlCazXEMkSLO) | 3:42 |
 | 42 | [Minha Menina Bonita](https://open.spotify.com/track/1f2WAWsmxx6JKrKTBO46UU) | [Fino Coletivo](https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH) | [Copacabana](https://open.spotify.com/album/2aoZn4WaR7tmFKHb40p7Xw) | 3:58 |
-| 43 | [Apesar de Você](https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Apesar de Você](https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79) | 4:35 |
-| 44 | [Só Porque Eu Sou Mulher](https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Só Porque Eu Sou Mulher](https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa) | 2:43 |
+| 43 | [Só Porque Eu Sou Mulher](https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Só Porque Eu Sou Mulher](https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa) | 2:43 |
+| 44 | [Apesar de Você](https://open.spotify.com/track/0gTWSdIl8bUq7us45K3PZh) | [Francisco, el Hombre](https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg) | [Apesar de Você](https://open.spotify.com/album/4ol2nFnfys22NkU5wAys79) | 4:35 |
 | 45 | [Me Toca](https://open.spotify.com/track/2uSeVS09DW8FnBgc61eHDW) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Me Toca](https://open.spotify.com/album/7n5J2k1hvnJ9UZ1BGBBLrU) | 3:06 |
 | 46 | [Rua Três](https://open.spotify.com/track/4vyaIWwgD7hVwiQK2WFHlj) | [Magi](https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy) | [Rua Três](https://open.spotify.com/album/1ZPbCMJ85qF2d3VpUn9z6C) | 2:34 |
-| 47 | [Num Mundo de Paz](https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Num Mundo de Paz](https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu) | 5:42 |
-| 48 | [Samba de Novela](https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Samba de Novela](https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe) | 3:18 |
+| 47 | [Samba de Novela](https://open.spotify.com/track/3LkhWWarDHcfXgWtahraP0) | [Bia Marques](https://open.spotify.com/artist/0fUdNywWe3Nfb8eClIue8R), [Pelé MilFlows](https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0) | [Samba de Novela](https://open.spotify.com/album/4sXWwVNqOTKzOZMdGDDlNe) | 3:18 |
+| 48 | [Num Mundo de Paz](https://open.spotify.com/track/6zZbf1v1Ngdc52IzlVCPUP) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [Num Mundo de Paz](https://open.spotify.com/album/4qp1Py4SsDovYGY21R3fKu) | 5:42 |
 | 49 | [Deixa Acontecer](https://open.spotify.com/track/5YQO0NElgX0Tck0xg0dmaI) | [Laura Lavieri](https://open.spotify.com/artist/1TqENBMGiIRbO5A0Rhc0za) | [Desastre Solar](https://open.spotify.com/album/5syRznRAOGlHouvD2NXXWx) | 3:53 |
 | 50 | [Alumiô](https://open.spotify.com/track/1wBZJA59toDn4TESZRPxs3) | [Luiza Lian](https://open.spotify.com/artist/0mqrSBamArf14pPZE2Q9kW), [Bixiga 70](https://open.spotify.com/artist/6rUeHFntOV8tgpoUJvEthU) | [Alumiô](https://open.spotify.com/album/358AvliXpqAtQY1grWwuQ1) | 3:24 |
 | 51 | [Posso Dizer](https://open.spotify.com/track/3c52mFHpwz4BW66uPsXzRO) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [AS PALAVRAS, VOL\. 1 & 2](https://open.spotify.com/album/40Ruydlic5fYZOalAVOBcg) | 3:54 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 59 | [Espelho](https://open.spotify.com/track/7iHMSBSmbMt5rJxdHvIVC7) | [Mariana Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Espelho](https://open.spotify.com/album/0n24hiGTewZQDwSaeTu8hA) | 3:28 |
 | 60 | [DEPOIS DA TEMPESTADE}](https://open.spotify.com/track/6SD4P19dzQ0NyXWdCx8GAN) | [Marcelo D2](https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo), [Anna Majidson](https://open.spotify.com/artist/7jfJJuEsycOiEc2n4fCM7z) | [AMAR é para os FORTES](https://open.spotify.com/album/1wNvClMbVbPmoUsoFaASCK) | 4:14 |
 
-Snapshot ID: `MCw1MTFiZmQ4YzVlNWRiYjA3ZWM2ODc4NWExYjY1ZTUzYzhiY2RkZDk5`
+Snapshot ID: `MCw4NGE1OGRhMGIzMWQwMjRkMjUxY2M0NzM0NGNhODBlODZlZjQ1OTE2`

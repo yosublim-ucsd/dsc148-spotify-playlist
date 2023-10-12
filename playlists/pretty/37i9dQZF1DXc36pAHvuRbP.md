@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 
 > Toutes les nouveautés préférées de vos enfants\. Découvrez les nouvelles chansons favorites de la famille!
 
-[Spotify](https://open.spotify.com/user/spotify) - 407 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 413 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 38 | [Mon pyjama de nuit](https://open.spotify.com/track/3qr8P26MpzPsbX9UlsTDR8) | [Lilie PRINTEMPS](https://open.spotify.com/artist/6Xonv30F4iMglvc2ShBS5d), [Damien Joëts](https://open.spotify.com/artist/5wdkTEkiwIkJBc2GxCIQsm) | [Quand le chat n'est pas là..\. ça part en live !](https://open.spotify.com/album/1GACfNIsqn0yWWI7NWrmV3) | 3:02 |
 | 39 | [Super flemmard](https://open.spotify.com/track/4u57MxyzGESjI1yoeLuinS) | [Rit qui qui](https://open.spotify.com/artist/75RS6CioQFfsuQ4fkv1hHZ), [Pascal Peroteau](https://open.spotify.com/artist/6SANO2sCHf6LhTTCvhmecK) | [Les vacances, zones a,b,c et la Corse aussi et les Dom\-Tom etc.](https://open.spotify.com/album/3B4Tjf9PWob95nPYjd7FkN) | 2:57 |
 | 40 | [Rock de la confesssion](https://open.spotify.com/track/2uTC1SJ00q7tOJudyh6G8s) | [Les Z'imbert & Moreau](https://open.spotify.com/artist/2MI5qVfIMsW0IqztPD33HK) | [Magique !](https://open.spotify.com/album/0g1v80kNMKNXXPUpkt9CIt) | 2:47 |
-| 41 | [Une petite plume](https://open.spotify.com/track/3Gw3S9cYcRDREwTB92dzcp) | [Steve Waring](https://open.spotify.com/artist/5iVY7nE6VJGAnwNkseXhGg), [Alice Waring](https://open.spotify.com/artist/17tO4qjjnXSGNyLibLh0hV) | [Une petite plume](https://open.spotify.com/album/3GaZBE7p1MuNQTnfgwtwdy) | 1:57 |
-| 42 | [Oui, tu peux tout](https://open.spotify.com/track/1t6UqYDgZ2cbQK2JAfY0sr) | [Alain Schneider](https://open.spotify.com/artist/4EIBpXAtyE9RuhNRUfnzN6) | [Mundo Pataques](https://open.spotify.com/album/3yo0Q9fgzmyIrQTR3QO8x6) | 3:09 |
+| 41 | [Oui, tu peux tout](https://open.spotify.com/track/1t6UqYDgZ2cbQK2JAfY0sr) | [Alain Schneider](https://open.spotify.com/artist/4EIBpXAtyE9RuhNRUfnzN6) | [Mundo Pataques](https://open.spotify.com/album/3yo0Q9fgzmyIrQTR3QO8x6) | 3:09 |
+| 42 | [Une petite plume](https://open.spotify.com/track/3Gw3S9cYcRDREwTB92dzcp) | [Steve Waring](https://open.spotify.com/artist/5iVY7nE6VJGAnwNkseXhGg), [Alice Waring](https://open.spotify.com/artist/17tO4qjjnXSGNyLibLh0hV) | [Une petite plume](https://open.spotify.com/album/3GaZBE7p1MuNQTnfgwtwdy) | 1:57 |
 | 43 | [C'est qui qui ?](https://open.spotify.com/track/17KU29ddpFt7Pz9ptp9KAD) | [Ego le cachalot](https://open.spotify.com/artist/1NUbfVDGaCGn7076nftqsX), [David Delabrosse](https://open.spotify.com/artist/3QQEhfPjYoFBl3UJQidYvs) | [Super ego](https://open.spotify.com/album/4W0zJt6SU9faWpR7wB4UT2) | 3:27 |
 | 44 | [Même pas vrai](https://open.spotify.com/track/7ELaCrdSeZaFeGTTKAoFCT) | [Méli Mômes](https://open.spotify.com/artist/662WKYh0Dqqc0cwb5f5dcs) | [Même pas !](https://open.spotify.com/album/4hks57cdKR3buw5jUH7HTH) | 3:57 |
 | 45 | [Bienvenue à toi](https://open.spotify.com/track/6awvphIFrbxUEKPtF4CyzL) | [Mélyne](https://open.spotify.com/artist/097FQHsEBVe3sfWA4CzMXg) | [Au fil des émotions](https://open.spotify.com/album/3599W40Fl4JOYPOi6p20dn) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc36pAHvuRbP.md) - [plain]
 | 49 | [Jour après jour](https://open.spotify.com/track/2mrztXHhKdZakOGkVYyRmf) | [Anne Darban](https://open.spotify.com/artist/5aCcmpcfPDJJMVoWBh4xQI) | [Gardiens de la forêt](https://open.spotify.com/album/1vh5w8QO5wZIrKgBMWGu4D) | 2:24 |
 | 50 | [S'il te plaît](https://open.spotify.com/track/1k3J1si2Kb8mzd78MQY7wl) | [LAFREUX](https://open.spotify.com/artist/0ReEJ0psDLp8mqOI5LVmKr) | [Chansons polies pour enfants énervés](https://open.spotify.com/album/6cpLfhwwFP5htmBOUM6IKM) | 2:34 |
 
-Snapshot ID: `MCw0ZDlmNWExYzZlYThjYzY3ODJlZmVmMjNlMTRiZjU0ZmE4ZjAzNThk`
+Snapshot ID: `MCw4NmE3MDA0MTI1YjBlNTI5OGFiYmE4MWEyNGFiNTM0MTkzNDg1NTgx`

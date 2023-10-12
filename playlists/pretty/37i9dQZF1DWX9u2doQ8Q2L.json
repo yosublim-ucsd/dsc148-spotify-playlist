@@ -1,12 +1,12 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 380601,
+  "num_followers": 380419,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiZjk1MjU0NmVjNGQyOTUwMzE5ZWQwNTZkMDNmNzM2NTBkYWViNWMx",
+  "snapshot_id": "MCw0YTgxZWE0NmIzMWUyMmZiYmM1ZTI2ZWU2Y2M0YWE4YTg5YTVkMWQy",
   "tracks": [
     {
       "added_at": "2023-10-10 15:00:00",
@@ -59,8 +59,8 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "\u30eb\u30fc\u30b8\u30e5 feat. \u5411\u4e95\u592a\u4e00",
-        "url": "https://open.spotify.com/album/1nUWMtWcOHFLlzVjFHOlIQ"
+        "name": "Rouge feat. Taichi Mukai",
+        "url": "https://open.spotify.com/album/00t8byMoRv2LZrsEaH9X7K"
       },
       "artists": [
         {
@@ -73,8 +73,8 @@
         }
       ],
       "duration_ms": 217924,
-      "name": "\u30eb\u30fc\u30b8\u30e5 feat. \u5411\u4e95\u592a\u4e00",
-      "url": "https://open.spotify.com/track/06KGPEWi5lFvv31MK7Qzu4"
+      "name": "Rouge feat. Taichi Mukai",
+      "url": "https://open.spotify.com/track/4FpxAbBBGBY8dFiMCsaOi7"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -95,8 +95,8 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "O.M.M (feat. \u85e4\u7530\u7e54\u4e5f)",
-        "url": "https://open.spotify.com/album/1q8b5fH5kvHVhaQwhsEXEF"
+        "name": "O.M.M (feat. Kenya Fujita)",
+        "url": "https://open.spotify.com/album/5jhY5eCkAE6FfOl2wPHw0P"
       },
       "artists": [
         {
@@ -109,8 +109,8 @@
         }
       ],
       "duration_ms": 147428,
-      "name": "O.M.M - feat. \u85e4\u7530\u7e54\u4e5f",
-      "url": "https://open.spotify.com/track/2ctOBBuKRVEbK0BsShiaJq"
+      "name": "O.M.M (feat. Kenya Fujita)",
+      "url": "https://open.spotify.com/track/5xuNygFHKubkXvqRMeNB8u"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -132,7 +132,7 @@
       "added_at": "2023-10-10 15:00:00",
       "album": {
         "name": "Deeper",
-        "url": "https://open.spotify.com/album/2J8c9FzfZmvkLurvlY44iB"
+        "url": "https://open.spotify.com/album/1gtc4Ft1JspHCCd9dozX8a"
       },
       "artists": [
         {
@@ -142,7 +142,7 @@
       ],
       "duration_ms": 312080,
       "name": "Deeper",
-      "url": "https://open.spotify.com/track/2LTy5vmHluuVWwwspHpPWP"
+      "url": "https://open.spotify.com/track/3ShUS9A5HC0ZaO21Cnl3v8"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -747,26 +747,18 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "Miss You feat. Vernon of SEVENTEEN",
-        "url": "https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW"
+        "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq"
       },
       "artists": [
         {
-          "name": "(sic)boy",
-          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
-        },
-        {
-          "name": "VERNON",
-          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
-        },
-        {
-          "name": "KM",
-          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
+          "name": "WEDNESDAY CAMPANELLA",
+          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
         }
       ],
-      "duration_ms": 184760,
-      "name": "Miss You feat. Vernon of SEVENTEEN",
-      "url": "https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi"
+      "duration_ms": 235814,
+      "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -787,18 +779,26 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
-        "url": "https://open.spotify.com/album/4E6w5h2440vYWD9xgub8Gq"
+        "name": "Miss You feat. Vernon of SEVENTEEN",
+        "url": "https://open.spotify.com/album/0PGpaBslmhcCA0O9KvBcqW"
       },
       "artists": [
         {
-          "name": "WEDNESDAY CAMPANELLA",
-          "url": "https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI"
+          "name": "(sic)boy",
+          "url": "https://open.spotify.com/artist/19FI3bwyW062xAmEy3rzsk"
+        },
+        {
+          "name": "VERNON",
+          "url": "https://open.spotify.com/artist/2Y34b9AOK30zXgL7cAH4NG"
+        },
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa"
         }
       ],
-      "duration_ms": 235814,
-      "name": "\u30de\u30fc\u30e1\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/2E0zCVEO5yKPlWPSY7Rk5e"
+      "duration_ms": 184760,
+      "name": "Miss You feat. Vernon of SEVENTEEN",
+      "url": "https://open.spotify.com/track/6MrNcToqeejjpYcstmKBHi"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -1215,18 +1215,22 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "TOKIDOKI",
-        "url": "https://open.spotify.com/album/6BnEpQLKLJDwcVz9Wm5WUe"
+        "name": "WORLD DANCE",
+        "url": "https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1"
       },
       "artists": [
         {
-          "name": "DURDN",
-          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        },
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
         }
       ],
-      "duration_ms": 200500,
-      "name": "TOKIDOKI",
-      "url": "https://open.spotify.com/track/3SiUx0t1TvXEYNjRkxsfx7"
+      "duration_ms": 221666,
+      "name": "WORLD DANCE",
+      "url": "https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -1247,22 +1251,18 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "WORLD DANCE",
-        "url": "https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1"
+        "name": "TOKIDOKI",
+        "url": "https://open.spotify.com/album/6BnEpQLKLJDwcVz9Wm5WUe"
       },
       "artists": [
         {
-          "name": "AI",
-          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
-        },
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+          "name": "DURDN",
+          "url": "https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg"
         }
       ],
-      "duration_ms": 221666,
-      "name": "WORLD DANCE",
-      "url": "https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC"
+      "duration_ms": 200500,
+      "name": "TOKIDOKI",
+      "url": "https://open.spotify.com/track/3SiUx0t1TvXEYNjRkxsfx7"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -1391,18 +1391,22 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "Summer Ghost",
-        "url": "https://open.spotify.com/album/3Pv50hUUVfvuN1ajFxYjBF"
+        "name": "Flashback feat. Daichi Yamamoto",
+        "url": "https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7"
       },
       "artists": [
         {
-          "name": "I Don't Like Mondays.",
-          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+          "name": "Mina Okabe",
+          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
+        },
+        {
+          "name": "Daichi Yamamoto",
+          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
         }
       ],
-      "duration_ms": 222255,
-      "name": "Summer Ghost",
-      "url": "https://open.spotify.com/track/7GsURClW23nEe0UX4hKW3z"
+      "duration_ms": 284478,
+      "name": "Flashback feat. Daichi Yamamoto",
+      "url": "https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -1419,6 +1423,38 @@
       "duration_ms": 202879,
       "name": "Sunset Breeze",
       "url": "https://open.spotify.com/track/2f0PpCp15kfsqXFqwqkaSp"
+    },
+    {
+      "added_at": "2023-10-10 15:00:00",
+      "album": {
+        "name": "Summer Ghost",
+        "url": "https://open.spotify.com/album/3Pv50hUUVfvuN1ajFxYjBF"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "duration_ms": 222255,
+      "name": "Summer Ghost",
+      "url": "https://open.spotify.com/track/7GsURClW23nEe0UX4hKW3z"
+    },
+    {
+      "added_at": "2023-10-10 15:00:00",
+      "album": {
+        "name": "\u60d1\u661f",
+        "url": "https://open.spotify.com/album/698Joy6TODu5G4d8bCaHCE"
+      },
+      "artists": [
+        {
+          "name": "\u77e2\u821f\u30c6\u30c4\u30ed\u30fc",
+          "url": "https://open.spotify.com/artist/552OyEDbpgWBiFB9vE0SDV"
+        }
+      ],
+      "duration_ms": 167900,
+      "name": "\u60d1\u661f",
+      "url": "https://open.spotify.com/track/2uA4yw2tDNXdfKLSQ6F0GL"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -1443,42 +1479,6 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "\u60d1\u661f",
-        "url": "https://open.spotify.com/album/698Joy6TODu5G4d8bCaHCE"
-      },
-      "artists": [
-        {
-          "name": "\u77e2\u821f\u30c6\u30c4\u30ed\u30fc",
-          "url": "https://open.spotify.com/artist/552OyEDbpgWBiFB9vE0SDV"
-        }
-      ],
-      "duration_ms": 167900,
-      "name": "\u60d1\u661f",
-      "url": "https://open.spotify.com/track/2uA4yw2tDNXdfKLSQ6F0GL"
-    },
-    {
-      "added_at": "2023-10-10 15:00:00",
-      "album": {
-        "name": "Flashback feat. Daichi Yamamoto",
-        "url": "https://open.spotify.com/album/7HB6ldr8TZZjUoPp9QQoq7"
-      },
-      "artists": [
-        {
-          "name": "Mina Okabe",
-          "url": "https://open.spotify.com/artist/5BS8KSKJPeLeXfABQx0bXl"
-        },
-        {
-          "name": "Daichi Yamamoto",
-          "url": "https://open.spotify.com/artist/5jgE1ulvZ7sJpjlTwAOWPd"
-        }
-      ],
-      "duration_ms": 284478,
-      "name": "Flashback feat. Daichi Yamamoto",
-      "url": "https://open.spotify.com/track/3Jfguj7813unHPOXSwUKXB"
-    },
-    {
-      "added_at": "2023-10-10 15:00:00",
-      "album": {
         "name": "Pacific Line",
         "url": "https://open.spotify.com/album/2RhKOKETT4qfGytcvGLqJx"
       },
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "NIGHT TAPE",
-        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
-      },
-      "artists": [
-        {
-          "name": "CHIAKI SATO",
-          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
-        }
-      ],
-      "duration_ms": 266900,
-      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
-      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
-    },
-    {
-      "added_at": "2023-10-10 15:00:00",
-      "album": {
         "name": "We'll be fine (English Version)",
         "url": "https://open.spotify.com/album/4zWNpcAvTnQHV3Inckiidi"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 197029,
       "name": "We'll be fine - English Version",
       "url": "https://open.spotify.com/track/0ERAunIaPLwrD7tI929t1q"
+    },
+    {
+      "added_at": "2023-10-10 15:00:00",
+      "album": {
+        "name": "NIGHT TAPE",
+        "url": "https://open.spotify.com/album/3FIYJQnPsIVBQiorttCmAB"
+      },
+      "artists": [
+        {
+          "name": "CHIAKI SATO",
+          "url": "https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt"
+        }
+      ],
+      "duration_ms": 266900,
+      "name": "\u591c\u3092\u30eb\u30fc\u30d7",
+      "url": "https://open.spotify.com/track/5aF7JEshjhV8gsg8INAOYX"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
-        "url": "https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW"
+        "name": "Unmellow",
+        "url": "https://open.spotify.com/album/3BaxIQ05k9jCiYsks7kLqZ"
       },
       "artists": [
         {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
         }
       ],
-      "duration_ms": 234288,
-      "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
-      "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"
+      "duration_ms": 157924,
+      "name": "Unmellow",
+      "url": "https://open.spotify.com/track/0QBMxVVIXqVNp2Yce45nBQ"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -1635,34 +1635,18 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "Unmellow",
-        "url": "https://open.spotify.com/album/3BaxIQ05k9jCiYsks7kLqZ"
+        "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
+        "url": "https://open.spotify.com/album/1aRuvcMfMbeG1sM08Kk6vW"
       },
       "artists": [
         {
-          "name": "7co",
-          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
         }
       ],
-      "duration_ms": 157924,
-      "name": "Unmellow",
-      "url": "https://open.spotify.com/track/0QBMxVVIXqVNp2Yce45nBQ"
-    },
-    {
-      "added_at": "2023-10-10 15:00:00",
-      "album": {
-        "name": "one call",
-        "url": "https://open.spotify.com/album/6LVVpAPHMnk2EDvKSTWGA1"
-      },
-      "artists": [
-        {
-          "name": "Kaneee",
-          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
-        }
-      ],
-      "duration_ms": 114089,
-      "name": "one call",
-      "url": "https://open.spotify.com/track/2ATQ3KHJowOqBzF6AiI67b"
+      "duration_ms": 234288,
+      "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
+      "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -1683,18 +1667,18 @@
     {
       "added_at": "2023-10-10 15:00:00",
       "album": {
-        "name": "I Refuse",
-        "url": "https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R"
+        "name": "one call",
+        "url": "https://open.spotify.com/album/6LVVpAPHMnk2EDvKSTWGA1"
       },
       "artists": [
         {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+          "name": "Kaneee",
+          "url": "https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09"
         }
       ],
-      "duration_ms": 227800,
-      "name": "I Refuse",
-      "url": "https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32"
+      "duration_ms": 114089,
+      "name": "one call",
+      "url": "https://open.spotify.com/track/2ATQ3KHJowOqBzF6AiI67b"
     },
     {
       "added_at": "2023-10-10 15:00:00",
@@ -1711,6 +1695,22 @@
       "duration_ms": 222857,
       "name": "Booorn!!",
       "url": "https://open.spotify.com/track/48oPAi5Va2Qm3ep6q6506R"
+    },
+    {
+      "added_at": "2023-10-10 15:00:00",
+      "album": {
+        "name": "I Refuse",
+        "url": "https://open.spotify.com/album/0MrB7qq3mNwegJbkXWsu9R"
+      },
+      "artists": [
+        {
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "I Refuse",
+      "url": "https://open.spotify.com/track/0rlVGQ1dhCbxXqy6Z79I32"
     },
     {
       "added_at": "2023-10-10 15:00:00",

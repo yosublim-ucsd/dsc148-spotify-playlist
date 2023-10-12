@@ -1,12 +1,12 @@
 {
   "description": "music from the underworld",
-  "num_followers": 154981,
+  "num_followers": 156878,
   "original_name": "sigilkore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyZDU5NjQ4ZjFiMTM4MWU0MWY0OTEyMzUzYTMzNzAzMzBmNjU1OTg4",
+  "snapshot_id": "MCwxOTRhMmJhZjYxYjgxNjgyNmUzODYzZWExMmExMGVmM2FhNzc2ZTI3",
   "tracks": [
     {
       "added_at": "2023-09-26 15:59:33",
@@ -362,6 +362,10 @@
         {
           "name": "jnhygs",
           "url": "https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh"
+        },
+        {
+          "name": "cW",
+          "url": "https://open.spotify.com/artist/2RWEvEloRDEO2tiOL6JEjh"
         }
       ],
       "duration_ms": 107390,
@@ -480,7 +484,7 @@
       "added_at": "2023-09-22 04:00:00",
       "album": {
         "name": "melancholy",
-        "url": "https://open.spotify.com/album/2FYWDx4Wtm1depG5MYz1ra"
+        "url": "https://open.spotify.com/album/57BCZOUocCzqyBStq7kAb3"
       },
       "artists": [
         {
@@ -494,7 +498,7 @@
       ],
       "duration_ms": 122460,
       "name": "melancholy",
-      "url": "https://open.spotify.com/track/5R1z3ZGM6BfmluzrunjmHW"
+      "url": "https://open.spotify.com/track/4J7ctWPhgFErjdeWyKLkiA"
     },
     {
       "added_at": "2023-09-22 04:00:00",

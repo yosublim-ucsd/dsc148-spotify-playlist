@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 
 > På med fjäderboan och de gyllene skorna\. Nu ska vi dansa i neon!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,783 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,781 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,6 +59,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgwF78otcGY.md) - [plain]
 | 49 | [Dance You Off](https://open.spotify.com/track/0s3P5PImfDZYWIseR3b39D) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Dance You Off](https://open.spotify.com/album/0TDIGmEpqWpZiTCRW6133p) | 3:02 |
 | 50 | [Busy Doin' Nothin'](https://open.spotify.com/track/1zSXQIah3KQsjvo5sRNRq7) | [Ace Wilder](https://open.spotify.com/artist/7F4HcalxCMC4DctguvnoFY) | [Busy Doin' Nothin'](https://open.spotify.com/album/4jfxzJriDt7pZMpzUtRhMo) | 2:53 |
 | 51 | [Just nu](https://open.spotify.com/track/4162ukGloFryXqeHM4y4Ha) | [Tomas Ledin](https://open.spotify.com/artist/518rTAIFPwQjLUSi4Pdzzn) | [40 år 40 hits ett samlingsalbum 1972 \- 2012](https://open.spotify.com/album/1kL5NFtluQyyzkjnBzPE7L) | 2:47 |
-| 52 | [Everyday](https://open.spotify.com/track/7DgXgP8rZZuIgh8vjhiQ0c) | [Mendez](https://open.spotify.com/artist/5z9PI0y6MRnL9BCHOI5ilL) | [Everyday](https://open.spotify.com/album/3H8RhX7BEs0wvFLAkZXVlW) | 3:05 |
+| 52 | [Begging](https://open.spotify.com/track/2sjZkR11bgYNjDOHqjvCK1) | [Anton Ewald](https://open.spotify.com/artist/6HKV18fbiZPLNSoTUnTALb) | [A](https://open.spotify.com/album/6HDTuFOdtkETh4RnxIDNVm) | 3:02 |
 
-Snapshot ID: `MCxhNGQzNjBiYjFiM2E5ZGQzMDlhZTMzMjU5YjlmM2I0ODc0OTMzYjIw`
+Snapshot ID: `MCw2NjU0MzA3ZWZiOTFkODI5OWI4MTc3YTE1ZjY2MDA3YmI5ODhjNWMy`

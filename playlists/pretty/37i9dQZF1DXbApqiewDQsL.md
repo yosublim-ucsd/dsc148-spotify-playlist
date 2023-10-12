@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Pepe Aguilar & Marc Anthony.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,521 likes - 79 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,560 likes - 79 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,12 +80,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 | 70 | [Tranquilito \- Remix](https://open.spotify.com/track/1nUj6NRv9nq9pEIdl6ZOoc) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Tranquilito \(Remix\)](https://open.spotify.com/album/5nBGRd7waHG9FKOab6nsGc) | 3:40 |
 | 71 | [Me Metí en el Ruedo \- Remix](https://open.spotify.com/track/0Ssb1Wk9WDFapIL2SnNkA7) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Me Metí en el Ruedo \(Remix\)](https://open.spotify.com/album/7buC4iiK8OqPN6PukdHyxb) | 2:54 |
 | 72 | [Otra Botella](https://open.spotify.com/track/1eF1uRpuxr351DXcsZ8t34) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Otra Botella](https://open.spotify.com/album/0yAKlqiiZXRUrSRdag7YeA) | 3:46 |
-| 73 | [De A De Veras](https://open.spotify.com/track/21aZ4e4lJiFmqRzNiPXqhP) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De A De Veras](https://open.spotify.com/album/3NgALGjGhMc27JBclVPTBV) | 3:42 |
-| 74 | [100 Años \- Con Calibre 50](https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [100 Años \(Con Calibre 50\)](https://open.spotify.com/album/0EHD1gdUFjhkeQkJVuLZQa) | 3:35 |
+| 73 | [100 Años \- Con Calibre 50](https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [100 Años \(Con Calibre 50\)](https://open.spotify.com/album/0EHD1gdUFjhkeQkJVuLZQa) | 3:35 |
+| 74 | [De A De Veras](https://open.spotify.com/track/21aZ4e4lJiFmqRzNiPXqhP) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [De A De Veras](https://open.spotify.com/album/3NgALGjGhMc27JBclVPTBV) | 3:42 |
 | 75 | [Qué Maldición \- Remix](https://open.spotify.com/track/3tHes0wml6ededP4ZVEwET) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Qué Maldición \(Remix\)](https://open.spotify.com/album/6EwsJc0zPtxdk40DlUXGP6) | 3:44 |
 | 76 | [Pensar en Ti \(Remix\)](https://open.spotify.com/track/2K0bFO9bEzx8t5UFEHAcyM) | [vf7](https://open.spotify.com/artist/6bxjoq64Y0HTfMc4GIbpyJ), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Pensar en Ti \(Remix\)](https://open.spotify.com/album/0rIT5HpbDY7RkiqZLfMtWK) | 4:02 |
 | 77 | [Conozco La Calle](https://open.spotify.com/track/5ImiC67NzaBXSUXZjN1CSX) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [Conozco La Calle](https://open.spotify.com/album/4iciGlmDQeaior7njVNFwH) | 2:20 |
 | 78 | [Dos Uno Nueve \(219\)](https://open.spotify.com/track/4h4Yy4DUZw0NkivxwBHM32) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 3:07 |
 | 79 | [Fino Licor \- Feat\. Piso 21](https://open.spotify.com/track/64fVcCq6n2uN8HOq88uEph) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Fino Licor \(Feat\. Piso 21\)](https://open.spotify.com/album/0vxaR9TSxiPpFCUW703vFO) | 3:13 |
 
-Snapshot ID: `MCwwNjM4OWM1NzUxNTE2OGRhZTA0NGI0N2EwZjRlN2NmMzY2YTI2Yjc5`
+Snapshot ID: `MCw0YTY5NTAzMTE4NDFhMDc4YjJjNWU2NzRjMDYwMGY0NzFhZDU4NGU0`

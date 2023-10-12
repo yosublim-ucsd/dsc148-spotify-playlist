@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 
 > We just wanna rock you all night long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,751 likes - 100 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,815 likes - 100 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 16 | [I Feel Love \- 12" Version](https://open.spotify.com/track/7B7lf3sIze5VR2WuYttn18) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Bad Girls \(Deluxe Edition\)](https://open.spotify.com/album/4h63dypm4IYSGfCDe2Gcz6) | 8:15 |
 | 17 | [Remind Me \- Remastered](https://open.spotify.com/track/4nFtNdjJtuRXmThiJo7Z5t) | [Patrice Rushen](https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc) | [Straight from the Heart \(Remastered\)](https://open.spotify.com/album/2tc6ZlzJS56yiVvo40R03g) | 5:19 |
 | 18 | [Estrelar](https://open.spotify.com/track/2koS4fD3kzizdnzWzyrxyT) | [Marcos Valle](https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk) | [Marcos Valle](https://open.spotify.com/album/0FOAFmdS9StYdW3hrSnJCe) | 5:13 |
-| 19 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
-| 20 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
+| 19 | [Could Heaven Ever Be Like This](https://open.spotify.com/track/1xkOg49ZxldiM1ioIudwUS) | [Idris Muhammad](https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN) | [Turn This Mutha Out](https://open.spotify.com/album/4PznnWq19AwatCG4lsyb5I) | 8:36 |
+| 20 | [Promised Land](https://open.spotify.com/track/796T2ROxTNibXRjVhjSzCa) | [Joe Smooth](https://open.spotify.com/artist/4BIamAD25vwYldaOWTEsXd) | [Promised Land](https://open.spotify.com/album/1oyrymxXmhE2NaYczhS6NR) | 5:31 |
 | 21 | [Don't Leave Me This Way](https://open.spotify.com/track/2rBBhFXtuMoGuwYTSDpAdF) | [Thelma Houston](https://open.spotify.com/artist/3sgUnR8TF35euWEV07RPyO) | [The Best Of](https://open.spotify.com/album/3npGGvmS0VJrBukG2PcgP4) | 3:37 |
 | 22 | [I.G.Y.](https://open.spotify.com/track/6bzwsAtj4TqaBysLDrGiO3) | [Donald Fagen](https://open.spotify.com/artist/0S1SjYebdSaiMpI8xSW2Wb) | [The Nightfly](https://open.spotify.com/album/5cOS6szqlcoqmiSoVTqqe8) | 6:03 |
 | 23 | [You and I](https://open.spotify.com/track/1uGFGhxJ9ISGcy7iDffP7V) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [The Best of Delegation](https://open.spotify.com/album/1um0JgV0FOnEg3UA0IF2hc) | 5:16 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 40 | [I Zimbra \- 2005 Remaster](https://open.spotify.com/track/2zdlkG9g5Mt0alUdqn7s3D) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Fear of Music \(Deluxe Version\)](https://open.spotify.com/album/5dVZpNJraoqCo3BssinMoo) | 3:08 |
 | 41 | [Keep It Up](https://open.spotify.com/track/4eVbtPuh4bu5BbHdluycOz) | [Milton Wright](https://open.spotify.com/artist/4eG9wzNICW94sPzkTP5MYt) | [Friends and Buddies](https://open.spotify.com/album/1JbsHszs163wrSgCpJUpxa) | 4:12 |
 | 42 | [Aaj Shanibar](https://open.spotify.com/track/31KWQUc0jo0qjZeqduEovA) | [Rupa](https://open.spotify.com/artist/1ZeGksupgZKMlzvtBjMEEh) | [Disco Jazz](https://open.spotify.com/album/39VaqEkzu1GAw1pESi2tBt) | 7:59 |
-| 43 | [Why I Came to California](https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ) | [Leon Ware](https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G) | [Leon Ware](https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE) | 4:10 |
-| 44 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
+| 43 | [Running Away \- 12\-Inch Long Version](https://open.spotify.com/track/47bblspEQHrxuRRYKWxg2e) | [Roy Ayers Ubiquity](https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7) | [Lifeline](https://open.spotify.com/album/27SjhSdADeHymQsXoWrhNq) | 6:54 |
+| 44 | [Why I Came to California](https://open.spotify.com/track/6jZXAOHmvseRsqxYCbexTJ) | [Leon Ware](https://open.spotify.com/artist/3DwcX6M6GF3KGWbVmfNp8G) | [Leon Ware](https://open.spotify.com/album/4kMmUIUc2k7H3t7DimHhqE) | 4:10 |
 | 45 | [Enjoy Your Life](https://open.spotify.com/track/1UKk8v7T2IrpcLEP1KKqZb) | [Oby Onyioha](https://open.spotify.com/artist/7g3r4Cm5hY4fWM5AOVWtDY) | [I Want to Feel Your Love](https://open.spotify.com/album/7snUwkG3Ke47yLJBbwbcfk) | 6:18 |
 | 46 | [Disco Dancer](https://open.spotify.com/track/5q8C9VZQBmo9ITXI21p11K) | [Kiki Gyan](https://open.spotify.com/artist/4lxYjU4q6B1KoDJOvNXzQy) | [24 Hours in a Disco 1978\-82](https://open.spotify.com/album/0gHy3GjU1oQMce8ZJi2EKL) | 6:56 |
 | 47 | [You Are in My System](https://open.spotify.com/track/47HusOVsGPUcsJtMq40aRd) | [The System](https://open.spotify.com/artist/67NN7SgdxKesGnxZOB8YeX) | [Sweat](https://open.spotify.com/album/3hl2uaqB2zBZdetkeATUBe) | 5:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS8bPVXXR2B.md) - [plain]
 | 99 | [Saturday Jam](https://open.spotify.com/track/2JsvvaTZKsBVO1gHSXwamD) | [Benedek](https://open.spotify.com/artist/0VGUa1xtVL7g1srvyzbY7t), [K\-Maxx](https://open.spotify.com/artist/5RSuS2evjc9IGjLJUt1iZR), [Sasac](https://open.spotify.com/artist/0ZfeJXXkQPkG21bGk3NTLt), [Turquoise Summers](https://open.spotify.com/artist/3m8JJr3ASeNiSHK85P4o4z), [Buscrates 16 Bit Ensemble](https://open.spotify.com/artist/2w04ct5AHBWI3AxA6PbuEb), [East Liberty Quarters](https://open.spotify.com/artist/4vJ4MIyanwJLkDECKh0Dik), [Henning](https://open.spotify.com/artist/5ppN1E00CZsVGCmTlAOtQO), [TONI CLARKE](https://open.spotify.com/artist/6vyhMj9yU8TGz3VfHfzNsB) | [Raw Silk Vol\. 1](https://open.spotify.com/album/4J8COrwRuMK2CQGNp9353D) | 4:11 |
 | 100 | [Lypso Illusion](https://open.spotify.com/track/39A5QHG41wrR0cahFX5Y7N) | [Stephen Encinas](https://open.spotify.com/artist/1x7JcJXMdepSOPU57sQNk5) | [Disco Illusion](https://open.spotify.com/album/04rsn20RX1qNN9JMSY76P9) | 4:44 |
 
-Snapshot ID: `MCwyZDhkNmM1Y2Q4ZjNlZWEwMGFlMzJlYWZiYTI2M2QyNTg4ZDAxNWM1`
+Snapshot ID: `MCwwNWM3MDc3ZWFmOTJkMzIyN2M3ZmE4MTRjYjVjNmE4ZGVlZjEyNDYw`

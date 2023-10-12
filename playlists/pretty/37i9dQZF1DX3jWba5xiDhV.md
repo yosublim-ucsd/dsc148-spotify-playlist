@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 
 > When the dance floor calls your name, that's amore.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,747 likes - 75 songs - 6 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,926 likes - 75 songs - 6 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3jWba5xiDhV.md) - [plain]
 | 74 | [Mirage](https://open.spotify.com/track/0M2A5PBGMk0x0M2lrCZGsO) | [Scotch](https://open.spotify.com/artist/7ECGnAVeg7U3WRPMjpJa9n) | [Pictures Old Days \(Deluxe Edition\)](https://open.spotify.com/album/0jkXKoPmkFNE1mmRfvVpMt) | 3:57 |
 | 75 | [My Magic Number \- Club Domani Remix](https://open.spotify.com/track/6cR9AbJGTvXEnwjiE8VznV) | [Daddy Squad](https://open.spotify.com/artist/7ILhSMHJML8HVt4GBi6LGj), [Dita Von Teese](https://open.spotify.com/artist/5p2DOkwlRuUgPuHNUp9ZKz), [Club Domani](https://open.spotify.com/artist/0uZI4sqpl7jJQ19T7dcsM8) | [My Magic Number](https://open.spotify.com/album/5zEcHInCpQTxrQH7cJrJAt) | 5:17 |
 
-Snapshot ID: `MCxlOTZmNDE5NzI4YWU0YzBiMDBhZmEyNzExMzNmMjdlYjQzYmE0MWMw`
+Snapshot ID: `MCwyN2U3ZjEwZjUzOTY0ZTVkODg0ODZmMWE3MDljZDFhZmE0YWYwYTRi`

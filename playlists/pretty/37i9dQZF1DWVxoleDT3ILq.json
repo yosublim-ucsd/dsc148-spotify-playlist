@@ -1,12 +1,12 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: Marineros",
-  "num_followers": 128172,
+  "num_followers": 127870,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmZWRmMmVhMGMwOWE0YzEwNTVmYzAxYTA1YjZmZTQzN2RlOTIzNzIw",
+  "snapshot_id": "MCw0ZTEzZGEzYTU2OTk0MzA5ZjgyZWRmNTJiZWVkNWZlOTMzYjMzNGMw",
   "tracks": [
     {
       "added_at": "2023-10-06 03:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Respirar",
-        "url": "https://open.spotify.com/album/261cmtUeDilVWOSlXFCmHr"
-      },
-      "artists": [
-        {
-          "name": "Benjam\u00edn Walker",
-          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
-        }
-      ],
-      "duration_ms": 165088,
-      "name": "Respirar",
-      "url": "https://open.spotify.com/track/1MbOQiNa5KQl7OVTHBBje3"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "C\u00f3mplices",
         "url": "https://open.spotify.com/album/1RDaotWeaxCyVp40sbRfbE"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 228093,
       "name": "C\u00f3mplices",
       "url": "https://open.spotify.com/track/1DZ7dNA91HPDKPG44KS5t9"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Respirar",
+        "url": "https://open.spotify.com/album/261cmtUeDilVWOSlXFCmHr"
+      },
+      "artists": [
+        {
+          "name": "Benjam\u00edn Walker",
+          "url": "https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK"
+        }
+      ],
+      "duration_ms": 165088,
+      "name": "Respirar",
+      "url": "https://open.spotify.com/track/1MbOQiNa5KQl7OVTHBBje3"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -519,6 +519,26 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Vuela Lejos",
+        "url": "https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        },
+        {
+          "name": "Rosario Alfonso",
+          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+        }
+      ],
+      "duration_ms": 307414,
+      "name": "Vuela Lejos",
+      "url": "https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Instintos",
         "url": "https://open.spotify.com/album/7sQaOy9wPUgiq2KM94RbES"
       },
@@ -555,26 +575,6 @@
       "duration_ms": 161739,
       "name": "D\u00edas Que No Lloro",
       "url": "https://open.spotify.com/track/31Dmo6pBMAWANUuM5i81zc"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Vuela Lejos",
-        "url": "https://open.spotify.com/album/4Mtqk5qyOZqIzzkC9fX5cO"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        },
-        {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
-        }
-      ],
-      "duration_ms": 307414,
-      "name": "Vuela Lejos",
-      "url": "https://open.spotify.com/track/2lX9GYcMQYmZSs7vgonJf6"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "volumen dos",
-        "url": "https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz"
-      },
-      "artists": [
-        {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        }
-      ],
-      "duration_ms": 187504,
-      "name": "Pienso en Ti",
-      "url": "https://open.spotify.com/track/2Oy1ZKm1QWYsLThU4rhduF"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Retazos de Diciembre",
         "url": "https://open.spotify.com/album/5mHbPynGq3gEUgZ3QaNmc5"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 180500,
       "name": "Retazos de Diciembre",
       "url": "https://open.spotify.com/track/0z0emm8aLLdj2Ds3OuT9Kl"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "volumen dos",
+        "url": "https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        }
+      ],
+      "duration_ms": 187504,
+      "name": "Pienso en Ti",
+      "url": "https://open.spotify.com/track/2Oy1ZKm1QWYsLThU4rhduF"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -823,22 +823,6 @@
       "duration_ms": 222543,
       "name": "Maricoteca",
       "url": "https://open.spotify.com/track/0QbsT7G5OJqieCARLwPZ2q"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Tu Luz",
-        "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
-      },
-      "artists": [
-        {
-          "name": "Masquemusica",
-          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
-        }
-      ],
-      "duration_ms": 247351,
-      "name": "Tu Luz",
-      "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -883,6 +867,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Tu Luz",
+        "url": "https://open.spotify.com/album/1vrwvZHXzegcApAxcUyVLa"
+      },
+      "artists": [
+        {
+          "name": "Masquemusica",
+          "url": "https://open.spotify.com/artist/38WvNBHvqwUXnwkWIioPxo"
+        }
+      ],
+      "duration_ms": 247351,
+      "name": "Tu Luz",
+      "url": "https://open.spotify.com/track/6aVQIyZVSyTlQlEJ33dLpg"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Cuatro",
         "url": "https://open.spotify.com/album/0UHvv58P5yJLGxHyAM66hS"
       },
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Bien Mal",
-        "url": "https://open.spotify.com/album/0QvML2YRQIjwvDWDHSfNIB"
-      },
-      "artists": [
-        {
-          "name": "FrioLento",
-          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
-        }
-      ],
-      "duration_ms": 180554,
-      "name": "Bien Mal",
-      "url": "https://open.spotify.com/track/5QZryHp1EN0lCEZWqY0c0V"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Lo Nuestro",
         "url": "https://open.spotify.com/album/7zFP43NJrnzwVwDqF9ksRz"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 113852,
       "name": "Lo Nuestro",
       "url": "https://open.spotify.com/track/3QvNiDrsc51gBlSEnpfidy"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Bien Mal",
+        "url": "https://open.spotify.com/album/0QvML2YRQIjwvDWDHSfNIB"
+      },
+      "artists": [
+        {
+          "name": "FrioLento",
+          "url": "https://open.spotify.com/artist/7tNvegbTVfxN3p9q39ixcn"
+        }
+      ],
+      "duration_ms": 180554,
+      "name": "Bien Mal",
+      "url": "https://open.spotify.com/track/5QZryHp1EN0lCEZWqY0c0V"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Amarte as\u00ed",
-        "url": "https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 215596,
-      "name": "Amarte as\u00ed",
-      "url": "https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "CIELO",
         "url": "https://open.spotify.com/album/0KyvNuaS3Sy2N5dLXAgVlM"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 203636,
       "name": "CIELO",
       "url": "https://open.spotify.com/track/1mXLf0jnxS9Uevkds7rEvy"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Amarte as\u00ed",
+        "url": "https://open.spotify.com/album/1SgZr0SIPsnmptk29udjub"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 215596,
+      "name": "Amarte as\u00ed",
+      "url": "https://open.spotify.com/track/5Ux4iUz2HLUWWG7rVAbp3q"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1067,22 +1067,18 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "REGIO",
-        "url": "https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw"
+        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
+        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
       },
       "artists": [
-        {
-          "name": "Filgueira",
-          "url": "https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU"
-        },
         {
           "name": "Dulce y Agraz",
           "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
         }
       ],
-      "duration_ms": 238000,
-      "name": "PISCINA OL\u00cdMPICA",
-      "url": "https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt"
+      "duration_ms": 326961,
+      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
+      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1107,18 +1103,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
-        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
+        "name": "REGIO",
+        "url": "https://open.spotify.com/album/7yhpVJHiKdmCxt87S1G9Mw"
       },
       "artists": [
+        {
+          "name": "Filgueira",
+          "url": "https://open.spotify.com/artist/0DQLzv4MaQ0SbXa3lazZjU"
+        },
         {
           "name": "Dulce y Agraz",
           "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
         }
       ],
-      "duration_ms": 326961,
-      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
-      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
+      "duration_ms": 238000,
+      "name": "PISCINA OL\u00cdMPICA",
+      "url": "https://open.spotify.com/track/1fYEQiQR1aCFcfQDWw7hwt"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Al Norte",
-        "url": "https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp"
-      },
-      "artists": [
-        {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
-        }
-      ],
-      "duration_ms": 173336,
-      "name": "Al Norte",
-      "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Consenso",
         "url": "https://open.spotify.com/album/4T60wxy6eR4IhvCX30lu6j"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 219895,
       "name": "Consenso",
       "url": "https://open.spotify.com/track/1DE9EKIIPydoe64TLzWvKV"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Al Norte",
+        "url": "https://open.spotify.com/album/3CcKgmkQavh5eKM1RgXsgp"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "duration_ms": 173336,
+      "name": "Al Norte",
+      "url": "https://open.spotify.com/track/7xexZoqppz49baUdMuGjW9"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "Tormenta",
-        "url": "https://open.spotify.com/album/2sT5JezOJTH4pgc3htTn3i"
-      },
-      "artists": [
-        {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
-        }
-      ],
-      "duration_ms": 157733,
-      "name": "Tormenta",
-      "url": "https://open.spotify.com/track/6VeClqVfXXenGaGe5ZS7oq"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Frenes\u00ed (Te Perd\u00ed)",
         "url": "https://open.spotify.com/album/0l6tqre46Ufm049zR5vQUC"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 245317,
       "name": "Frenes\u00ed (Te Perd\u00ed)",
       "url": "https://open.spotify.com/track/4J0ToGvK1ft0siVhKl8PPN"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Tormenta",
+        "url": "https://open.spotify.com/album/2sT5JezOJTH4pgc3htTn3i"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "duration_ms": 157733,
+      "name": "Tormenta",
+      "url": "https://open.spotify.com/track/6VeClqVfXXenGaGe5ZS7oq"
     },
     {
       "added_at": "2023-10-06 03:00:00",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "Que no se corte la cadena",
+        "url": "https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu"
+      },
+      "artists": [
+        {
+          "name": "Pedropiedra",
+          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
+        }
+      ],
+      "duration_ms": 156166,
+      "name": "Que no se corte la cadena",
+      "url": "https://open.spotify.com/track/5j2f1ZYDqLjUsePKpokkkg"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
       },
@@ -1691,58 +1707,6 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
-        "name": "aterrizar",
-        "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
-      },
-      "artists": [
-        {
-          "name": "Vale Castillo",
-          "url": "https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "aterrizar",
-      "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Dilema",
-        "url": "https://open.spotify.com/album/6wfLmxoovY4zVbuIEZBoFq"
-      },
-      "artists": [
-        {
-          "name": "Eli",
-          "url": "https://open.spotify.com/artist/5cUSmEvX8UAhepFmStBXc7"
-        },
-        {
-          "name": "Rulo",
-          "url": "https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ"
-        }
-      ],
-      "duration_ms": 171883,
-      "name": "Dilema",
-      "url": "https://open.spotify.com/track/7x9zDbwDr9jHzh5RwBhViJ"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
-        "name": "Que no se corte la cadena",
-        "url": "https://open.spotify.com/album/70PkbVHGZ1OLMRTlSQ6aYu"
-      },
-      "artists": [
-        {
-          "name": "Pedropiedra",
-          "url": "https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP"
-        }
-      ],
-      "duration_ms": 156166,
-      "name": "Que no se corte la cadena",
-      "url": "https://open.spotify.com/track/5j2f1ZYDqLjUsePKpokkkg"
-    },
-    {
-      "added_at": "2023-10-06 03:00:00",
-      "album": {
         "name": "Fachada Continua",
         "url": "https://open.spotify.com/album/09l1PShMZndBTxjVD2nYMR"
       },
@@ -1763,6 +1727,22 @@
     {
       "added_at": "2023-10-06 03:00:00",
       "album": {
+        "name": "aterrizar",
+        "url": "https://open.spotify.com/album/1QW9aeWv2avc7FR1z3oD2h"
+      },
+      "artists": [
+        {
+          "name": "Vale Castillo",
+          "url": "https://open.spotify.com/artist/3kQFg1b6dX3GfuQL58ANpF"
+        }
+      ],
+      "duration_ms": 178285,
+      "name": "aterrizar",
+      "url": "https://open.spotify.com/track/1WBfPZBIHbEmaS1PymNCTl"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
         "name": "Duelo (Edici\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/4YqBjRGdZbeckP6kLeKu9P"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 206700,
       "name": "Sincron\u00eda Universal - Edici\u00f3n Deluxe",
       "url": "https://open.spotify.com/track/4xoIhnj6ti8ctgrKFkwG8j"
+    },
+    {
+      "added_at": "2023-10-06 03:00:00",
+      "album": {
+        "name": "Dilema",
+        "url": "https://open.spotify.com/album/6wfLmxoovY4zVbuIEZBoFq"
+      },
+      "artists": [
+        {
+          "name": "Eli",
+          "url": "https://open.spotify.com/artist/5cUSmEvX8UAhepFmStBXc7"
+        },
+        {
+          "name": "Rulo",
+          "url": "https://open.spotify.com/artist/1hESVb5p8cUHjbj9YzfklQ"
+        }
+      ],
+      "duration_ms": 171883,
+      "name": "Dilema",
+      "url": "https://open.spotify.com/track/7x9zDbwDr9jHzh5RwBhViJ"
     }
   ],
   "unique_name": "Indie Chile",

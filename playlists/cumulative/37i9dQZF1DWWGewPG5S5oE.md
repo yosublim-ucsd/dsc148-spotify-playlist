@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: Kazumi Tateishi Trio
 
-216 songs - 17 hr 38 min
+217 songs - 17 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Piece of cake](https://open.spotify.com/track/14vYoxigOkrEKcobVsKSvg) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Piece of cake](https://open.spotify.com/album/38Wranl2WGyCw2pfYnSGEi) | 2:50 | 2023-01-03 | 2023-01-05 |
 | [Piece of cake](https://open.spotify.com/track/4kpdFbe0J0iYgRS245VDmd) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Piece of cake](https://open.spotify.com/album/3CRmlpT10DW8lsQ10gZzAA) | 2:50 | 2023-01-03 | 2023-02-05 |
 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 | 2022-09-06 |  |
-| [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/2O4uIdTdn1JPC9DtnQpefK) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Kazumi Tateishi Trio meets Beautiful Standards](https://open.spotify.com/album/0eEfR2lSeW2SaYZ4BEFXUH) | 4:50 | 2023-10-10 |  |
+| [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/0pprlGhcsm15D9sFGnK7At) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Kazumi Tateishi Trio meets Beautiful Standards](https://open.spotify.com/album/0ng3lS4pEfjFS59i3A0d8A) | 4:50 | 2023-10-10 |  |
+| [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/2O4uIdTdn1JPC9DtnQpefK) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Kazumi Tateishi Trio meets Beautiful Standards](https://open.spotify.com/album/0eEfR2lSeW2SaYZ4BEFXUH) | 4:50 | 2023-10-10 | 2023-10-12 |
 | [Recollections Abstracted](https://open.spotify.com/track/4a9WjEoPVlaCfNy4SNkysJ) | [Kei Matsumaru](https://open.spotify.com/artist/3mHyQil6LHrtKvJ2hrFN6e), [Akira Ishii](https://open.spotify.com/artist/4aXZZMEzjJD8LbpsfNl6W0), [Hideaki Kanazawa](https://open.spotify.com/artist/7a99ADzo7A5wdnxqFz5X7i), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R) | [Recollections Abstracted](https://open.spotify.com/album/45DPR62WKg1y09EyJcde93) | 8:12 | 2022-09-06 | 2022-09-28 |
 | [Red Lightning](https://open.spotify.com/track/7z8y7GvjS0X2BwDJGThY7y) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [Takumi Kaneko](https://open.spotify.com/artist/6GaU1oIXLnxCY0yxoR1KVg), [Tomoharu"Jr."Takahashi](https://open.spotify.com/artist/4WgBkIoSdVQ5oCjekYpGck), [Yoshio Kobayashi](https://open.spotify.com/artist/5Su4NgoYgeEAt1GSXdmMxu) | [Red Lightning](https://open.spotify.com/album/6d7yeq3RIbu5dRXWvq094C) | 5:32 | 2022-09-06 | 2022-12-28 |
 | [Red Ocean](https://open.spotify.com/track/3fIy6Di6WTYZQqOy5SjcHk) | [JABBERLOOP](https://open.spotify.com/artist/7MewDkQnL8tMeWEBxSWBE2) | [NEW](https://open.spotify.com/album/3LjmipAvJQoPzlHN22YpYB) | 5:00 | 2022-09-06 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of Country and Folk\. Cover: Tyler Childers
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,337 likes - 100 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,439 likes - 100 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 52 | [Where My Wild Things Are](https://open.spotify.com/track/208hyGbFtTa7I7zYzOm13P) | [Ryan Bingham](https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i) | [Where My Wild Things Are](https://open.spotify.com/album/6oWKCBaxJvccxzbe6shr9N) | 3:57 |
 | 53 | [Witness](https://open.spotify.com/track/2ZDkMX3LtO7sEZezVQwQeo) | [Eilen Jewell](https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M) | [Gypsy](https://open.spotify.com/album/33fIaJrF5YgR2nkGClLtGh) | 2:52 |
 | 54 | [I'm Just a Clown](https://open.spotify.com/track/6jmnCjWfoX3n6lcLOI7L6Z) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [The Man from Waco](https://open.spotify.com/album/2CegSVMbZ18cUUUBAhpesV) | 4:13 |
-| 55 | [Snakes and Waterfalls](https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Lonely Like Me](https://open.spotify.com/album/2apvtGe2jSNLqT0vOJvwmf) | 4:02 |
-| 56 | [68 \- Live](https://open.spotify.com/track/1cXJEjvnjVpAIVx5scVLY8) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/51JORfnib4vdjiXHAouErb) | 3:28 |
+| 55 | [68 \- Live](https://open.spotify.com/track/1cXJEjvnjVpAIVx5scVLY8) | [Nolan Taylor](https://open.spotify.com/artist/3AvHLKVKOBsr66Jo67MTMo) | [68](https://open.spotify.com/album/51JORfnib4vdjiXHAouErb) | 3:28 |
+| 56 | [Snakes and Waterfalls](https://open.spotify.com/track/6f3lNzsCCWKFWfAG4uuqpC) | [Nick Shoulders](https://open.spotify.com/artist/4Vydw38lzh6aKIGqzZdwRS) | [Lonely Like Me](https://open.spotify.com/album/2apvtGe2jSNLqT0vOJvwmf) | 4:02 |
 | 57 | [Seven Spanish Angels \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Spotify Singles](https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D) | 4:10 |
 | 58 | [Hey Baby](https://open.spotify.com/track/4MaNTAN78ylZnCMCKBFiU9) | [The Cactus Blossoms](https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S) | [One Day](https://open.spotify.com/album/0KP0kzTCtYthC6dVndh1Jj) | 2:50 |
 | 59 | [This Ain't It](https://open.spotify.com/track/6B14xfqJG4JCzf0gaFkQ21) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Weathervanes](https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx) | 6:14 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 75 | [Encinal Canyon](https://open.spotify.com/track/7l02bzJ5vV8wk67iEpeotE) | [Mapache](https://open.spotify.com/artist/5oBpxK3bSEGeENPP6C5QMO) | [Encinal Canyon](https://open.spotify.com/album/0KPk5jj3IJzBo01Klqrrzn) | 3:26 |
 | 76 | [So Easy](https://open.spotify.com/track/1yVG9iuNxfOe30LRKy1dJf) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Reasons Why](https://open.spotify.com/album/3RfPLlT6L2KXC1meUTVeoh) | 3:33 |
 | 77 | [Resurrection Day](https://open.spotify.com/track/1v4v1gEYeZHbXGnVOFWx9U) | [Stefanie Joyce](https://open.spotify.com/artist/2RUc697ynBhe0NGow1eDda) | [Resurrection Day](https://open.spotify.com/album/2hYOs5pJ3WSG1DuKmsh3ZM) | 2:49 |
-| 78 | [Hey Moon \(A Campfire Song\)](https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd) | [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC) | [Hey Moon \(A Campfire Song\)](https://open.spotify.com/album/2fBkqv13oLbBcQLOy4rsnj) | 4:50 |
-| 79 | [Two Wolves](https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 4:04 |
+| 78 | [Two Wolves](https://open.spotify.com/track/1AbzihR3bhDonO8mNidgEb) | [Jesse Roper](https://open.spotify.com/artist/0YnrslYN9hfy5ZRCQUjMMt) | [Horizons](https://open.spotify.com/album/1FOyCt7ibwzAUlfvQYh28l) | 4:04 |
+| 79 | [Hey Moon \(A Campfire Song\)](https://open.spotify.com/track/1wytswzvE3maUMf7GPisWd) | [Joel Plaskett](https://open.spotify.com/artist/2AHGXy73E91elgCPcDlboC) | [Hey Moon \(A Campfire Song\)](https://open.spotify.com/album/2fBkqv13oLbBcQLOy4rsnj) | 4:50 |
 | 80 | [Kingdom For A Fool](https://open.spotify.com/track/6WxeGuCYRAXijpeLGPGx62) | [The White Buffalo](https://open.spotify.com/artist/3ohcHMuUq1717s8AH17hfT) | [Year Of The Dark Horse](https://open.spotify.com/album/4cKn5nMheAisLgzM4gOwaA) | 3:28 |
 | 81 | [TLC Cagematch](https://open.spotify.com/track/5jZxm02JT3CpJulGo4phH3) | [MJ Lenderman](https://open.spotify.com/artist/4tK6Z8fK7Sc9133byjPGIT) | [Boat Songs](https://open.spotify.com/album/22gbAfr4V10JH93bV7dKW0) | 3:52 |
 | 82 | [Chasing Spirits](https://open.spotify.com/track/4KFerK4qS5krV7MxVC4iDe) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Time Ain't Accidental](https://open.spotify.com/album/2fiBxxI8M8UlThKvXcKizN) | 2:44 |
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 89 | [Change Of Heart](https://open.spotify.com/track/7xagVKfjYQTAdzvtJHPdVc) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Strays](https://open.spotify.com/album/5ahtNEdaVlgHdt75PZwbtj) | 4:03 |
 | 90 | [Neon Blue](https://open.spotify.com/track/6iivlt5obvMyejm91rfGgM) | [Mariel Buckley](https://open.spotify.com/artist/7lghcHbrdt7sqHWeya15aV) | [Everywhere I Used to Be](https://open.spotify.com/album/5nwLpXKbM62DYP0phC6NBV) | 4:19 |
 | 91 | [Say What You Like](https://open.spotify.com/track/2AjJ8A4ZJ7m43i2EjQl9w3) | [Doug Paisley](https://open.spotify.com/artist/2WH0j5DM0bzoj1KRKpJFh9) | [Say What You Like](https://open.spotify.com/album/3xcDRGzx04UwxucGTAb8Jf) | 2:47 |
-| 92 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 |
-| 93 | [Fighting Like Hell to Be Free](https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ) | [Lost Dog Street Band](https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq) | [Glory](https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB) | 3:04 |
+| 92 | [Fighting Like Hell to Be Free](https://open.spotify.com/track/6Mg4YqzbhRu0HeoWFSrCNQ) | [Lost Dog Street Band](https://open.spotify.com/artist/6tkrcmVfWoHC4WOhE7IDyq) | [Glory](https://open.spotify.com/album/0flu8soCpwi7nj3U21kizB) | 3:04 |
+| 93 | [Whiskey River \(Recorded At Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/6zQW6QKb3b3X1OoFpBM7gU) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Spotify Singles](https://open.spotify.com/album/48eE2fd87vxdyIgTQU4sw7) | 3:54 |
 | 94 | [Hot Sun](https://open.spotify.com/track/08gd2VvSSsJIijiLmW8Xgo) | [Daniel James McFadyen](https://open.spotify.com/artist/5MUdSu3xqIVIDS5TtJrEB9) | [Hot Sun](https://open.spotify.com/album/1cNId27Hm62Df23dz5z7iV) | 3:01 |
 | 95 | [Smashed Up My Fender](https://open.spotify.com/track/5Bh79K4fAwOIEijEos6Oi3) | [Trudy and the Romance](https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou) | [Smashed Up My Fender](https://open.spotify.com/album/6N2IrNmrE4DJlw8zIPbutP) | 2:54 |
 | 96 | [Bequest](https://open.spotify.com/track/03Hyfti0W36eu4oHZUwrte) | [John Muirhead](https://open.spotify.com/artist/5LbFyIkuT9CraXUmsARWX0) | [Bequest](https://open.spotify.com/album/6RdTiE9ukZ5h6owKsuGDte) | 3:58 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 99 | [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 |
 | 100 | [Maritime](https://open.spotify.com/track/558Ak8Q3GxOKDUFcxmvlKA) | [Pretty Archie](https://open.spotify.com/artist/0ZbBrJxdLuqoUmssWYFnKW) | [Pretty Archie](https://open.spotify.com/album/1O0GiiSyJcqIXlKDziGdfI) | 4:38 |
 
-Snapshot ID: `MCw4MGIwYzhlOWIxODJkYzZjM2FkYmFlMWYxNWEzMTk5MDlkNjc4YTg2`
+Snapshot ID: `MCw2YmI4MGM5MmM4MTc4ZWM1MGNlNWM5YTg5MGQ3MDNlYTc2OWYyMjg2`

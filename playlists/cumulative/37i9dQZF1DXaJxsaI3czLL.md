@@ -4,7 +4,7 @@
 
 > 眠れない夜も音楽と一緒に。くつろぎながら、入眠効果のある音楽と素敵な夜をゆったりとお過ごし下さい。
 
-324 songs - 22 hr 51 min
+325 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [astronaut](https://open.spotify.com/track/7MyaO0sCEPGYAugCbltZsr) | [倉品翔](https://open.spotify.com/artist/2Aa3LycVvMqqNSBzmTrPOl) | [astronaut](https://open.spotify.com/album/4LAASJUTt0j2xtB79no0DH) | 4:38 | 2022-12-15 | 2022-12-21 |
 | [BABY BLUE](https://open.spotify.com/track/2Eot25c6UOeLc4jcN3fEQF) | [Fishmans](https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR) | [空中キャンプ](https://open.spotify.com/album/7GOdEIOvr41lvxDK7bvPrI) | 6:09 | 2022-11-23 | 2023-02-17 |
 | [Bath＆Frog \(風呂と蛙\)](https://open.spotify.com/track/4UaiMmr3Rqlylaiv2gSFSb) | [Haruomi Hosono](https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak) | [Undercurrent](https://open.spotify.com/album/4MKH2kAjS3SgTPm4HICzWJ) | 3:07 | 2023-10-03 |  |
+| [Beautiful and Various Dreams](https://open.spotify.com/track/5GWhM4Atl9aZqmN51jhpwI) | [Haruka Strings](https://open.spotify.com/artist/5OycqAeoJSots0lHem0k3b) | [Dreams in the Wind](https://open.spotify.com/album/4vxw13tXAZNNUMbY9E8QtK) | 6:30 | 2023-10-10 |  |
 | [Beautiful Sleep](https://open.spotify.com/track/5ut9a0Dwd0XashJx7kda5A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム～beautiful sleep～](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 4:02 | 2022-10-20 |  |
 | [Beautiful World](https://open.spotify.com/track/3x9fmCeM7CRiB3NwrVZxvM) | [Koji Tamaki](https://open.spotify.com/artist/5KLvrcsAUwqMOqxErwSJmD), [ayaka](https://open.spotify.com/artist/22FsmLO3ZyvgWBy5QbfcQi) | [Beautiful World](https://open.spotify.com/album/1OWtLn5iWuajzUjHAkdoDb) | 5:40 | 2022-10-20 |  |
 | [Bedroom Talk](https://open.spotify.com/track/4mjO91PDIPlY5a9iYu3kzD) | [OFFICIAL HIGE DANDISM](https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj) | [Editorial](https://open.spotify.com/album/22nXr9DqkTAp1Y0GT1ialu) | 3:21 | 2023-06-13 |  |
@@ -316,7 +317,7 @@
 | [綻び](https://open.spotify.com/track/2vE2pvqVvonR7sEIf697xO) | [ZIN](https://open.spotify.com/artist/2W8tmumOv76P22QElkqPCS), [FKD](https://open.spotify.com/artist/1izFlGUnbCyn1kOJtjkWcM) | [綻び](https://open.spotify.com/album/5i4JlotjA0vsgko8HccOuo) | 4:35 | 2023-08-29 | 2023-08-31 |
 | [缶ビール](https://open.spotify.com/track/1FVwIVuTtMaptIxyE6zJZj) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [ユラレル](https://open.spotify.com/album/7Ba3DMHpngjawGFVGE6Guw) | 2:52 | 2023-06-13 | 2023-06-21 |
 | [美しい森](https://open.spotify.com/track/1kyMnvdnlt3bKF9jUg7v5q) | [音沙汰](https://open.spotify.com/artist/0f7VaIN3RXWoaWqBsSoew2) | [Musicalium](https://open.spotify.com/album/6PwH6MOazT3anivW965oHY) | 4:40 | 2023-09-19 | 2023-10-11 |
-| [美しき様々の夢](https://open.spotify.com/track/5C4iSfWHBfeNwVFkmcCTze) | [ハルカストリングス](https://open.spotify.com/artist/4d5QXhOYSfl2OjyalgL3WY) | [風の中の夢](https://open.spotify.com/album/2u37tLTog5lS9CLTiacdOe) | 6:30 | 2023-10-10 |  |
+| [美しき様々の夢](https://open.spotify.com/track/5C4iSfWHBfeNwVFkmcCTze) | [ハルカストリングス](https://open.spotify.com/artist/4d5QXhOYSfl2OjyalgL3WY) | [風の中の夢](https://open.spotify.com/album/2u37tLTog5lS9CLTiacdOe) | 6:30 | 2023-10-10 | 2023-10-12 |
 | [聞いてたの? \- feat\. 三浦透子](https://open.spotify.com/track/3Int9nkk2ARU62kcM2jwis) | [Keach Arimoto](https://open.spotify.com/artist/2cwNtDJKPSK4Q3nP2Q6Tjo), [Toko Miura](https://open.spotify.com/artist/5nyjJRg5OdmKDdG2s9qljE) | [「0110」](https://open.spotify.com/album/3nteWD6tjiRcJB0uxbtray) | 2:45 | 2023-04-04 | 2023-06-06 |
 | [肌色](https://open.spotify.com/track/2YfbnRGevaN759T1DSGvxB) | [SADFRANK](https://open.spotify.com/artist/2F4sUnzP850MX9jgOLgwuW) | [gel](https://open.spotify.com/album/4gIseD8M4C2iiX3XuOnQmg) | 7:46 | 2023-02-28 | 2023-08-09 |
 | [花降る時の彼方](https://open.spotify.com/track/3B5gmn2BdUzNFzzw2aAoPs) | [君島大空](https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ) | [花降る時の彼方](https://open.spotify.com/album/7amC6JkIzmrsCfFec2w6gx) | 6:04 | 2023-03-14 | 2023-06-12 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 
 > Folk punk, anti\-folk, acoustic punk & more\. Cover: AJJ
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,939 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,941 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 18 | [Body Terror Song](https://open.spotify.com/track/3D1PuFi2U8lmtdWRZcCz1f) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [Good Luck Everybody](https://open.spotify.com/album/2SvkUGRbWkrnsytUsINzf6) | 2:37 |
 | 19 | [The Voice In My Head](https://open.spotify.com/track/0LopEfv3D6ODNcBKyYtkdJ) | [Jack Kays](https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54) | [Caffeine](https://open.spotify.com/album/4XeleObofFq1o3lscbN9lO) | 1:58 |
 | 20 | [It's Ok I Wouldn't Remember Me Either](https://open.spotify.com/track/4qvHA882fJyA5XhMF8sDhy) | [Crywank](https://open.spotify.com/artist/7gzXeFUDWz0aqhikdkOJxQ) | [Narcissist on the Verge of a Nervous Breakdown](https://open.spotify.com/album/0rU30JMeAM6tFaSfsN6345) | 3:04 |
-| 21 | [I'm not a good person](https://open.spotify.com/track/27wOKBP8KERkFP2sqqHloH) | [Pat The Bunny](https://open.spotify.com/artist/3aMGHrEKTeVquvDzpvVcct) | [Probably Nothing, Possibly Everything](https://open.spotify.com/album/1mdup5fgvCJcq2eZzuSUzA) | 2:54 |
+| 21 | [Soup Song](https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Soup Song](https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8) | 2:30 |
 | 22 | [Loose Lips](https://open.spotify.com/track/3v9YeMpkmyHhtdazNUEvNq) | [Kimya Dawson](https://open.spotify.com/artist/5PPCkoOKabpGGhqrUwSikz) | [Remember That I Love You](https://open.spotify.com/album/7bc415JbeoQAJAPsc8fGyn) | 2:27 |
-| 23 | [Life Time Warranty](https://open.spotify.com/track/4vxsJyTGsAxnXWDuYseeQP) | [Cyberbully Mom Club](https://open.spotify.com/artist/5IZVaIBkyx1ivCXLfpeJXT) | [Amy Locust Whatever](https://open.spotify.com/album/16IBrGQxR5nAVvMVPpP2NE) | 3:23 |
-| 24 | [Soup Song](https://open.spotify.com/track/3kfqthibmWsfYyCApilYPm) | [Nep](https://open.spotify.com/artist/5IMSbLzrwV9SZOWSLU1dl5) | [Soup Song](https://open.spotify.com/album/2l3QigfQrALpDyAkvN6Hl8) | 2:30 |
+| 23 | [I'm not a good person](https://open.spotify.com/track/27wOKBP8KERkFP2sqqHloH) | [Pat The Bunny](https://open.spotify.com/artist/3aMGHrEKTeVquvDzpvVcct) | [Probably Nothing, Possibly Everything](https://open.spotify.com/album/1mdup5fgvCJcq2eZzuSUzA) | 2:54 |
+| 24 | [Life Time Warranty](https://open.spotify.com/track/4vxsJyTGsAxnXWDuYseeQP) | [Cyberbully Mom Club](https://open.spotify.com/artist/5IZVaIBkyx1ivCXLfpeJXT) | [Amy Locust Whatever](https://open.spotify.com/album/16IBrGQxR5nAVvMVPpP2NE) | 3:23 |
 | 25 | [Coffee, God, And Cigarettes](https://open.spotify.com/track/0SQmgir2AkvVKa3snPcn2z) | [Mischief Brew](https://open.spotify.com/artist/73U1Zb71I5JwgC1qVqZ8NO) | [Songs From Under The Sink](https://open.spotify.com/album/1Adkukn6Z9MjyI1bw53nh9) | 2:20 |
 | 26 | [Your Heart Is a Muscle the Size of Your Fist \- Live](https://open.spotify.com/track/1nQgPRVQN9fM1VdZdMNsC5) | [Ramshackle Glory](https://open.spotify.com/artist/0qdblxxVBeNzq1LFwzjN9g) | [Live the Dream](https://open.spotify.com/album/217MWnvPkioCSCh1LO8YBr) | 3:40 |
 | 27 | [Obligatory Folk Punk Song](https://open.spotify.com/track/79AVLbzsAOiOllE7qjA5kD) | [Panucci's Pizza](https://open.spotify.com/artist/5GLpYMkUSUNq5kLLeBovSi) | [All The Toppings](https://open.spotify.com/album/0kWAem2AsVbx5FSkfWX4GC) | 1:51 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 29 | [Neutral Spirit Hotel](https://open.spotify.com/track/6KGL9EsMyAOvP6bjE0LtlG) | [Local News Legend](https://open.spotify.com/artist/1EmAfvxlLwPpJRJ3hc6zr1) | [Split Peas](https://open.spotify.com/album/7dAKoCGATzdporkHIZvf9J) | 1:28 |
 | 30 | [Survival Song](https://open.spotify.com/track/47hr9KDPHYmOCCd0aj3Q04) | [AJJ](https://open.spotify.com/artist/4IDpDJIDfK96HMLD4Tphyl) | [People Who Can Eat People Are the Luckiest People in the World](https://open.spotify.com/album/2jRdTNGZzb3drtFRYaUpFE) | 2:28 |
 | 31 | [Walk Away](https://open.spotify.com/track/36hTYlFbEsH2SOu24KJNtH) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [House of Sugar](https://open.spotify.com/album/2kCDZ3gCr5hXFgbFsPMcxP) | 4:16 |
-| 32 | [Bring It Home \(feat\. Jaime Wyatt\)](https://open.spotify.com/track/5PWke7d2ucI1I4NEqgH6DB) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 3:22 |
-| 33 | [Springwater](https://open.spotify.com/track/5XS17WKzCivfD3aaK6Vuet) | [Birdcloud](https://open.spotify.com/artist/4jMnk0SNvD42VxO4WpFuoo) | [Singles Only](https://open.spotify.com/album/6MGEAwh2nhb2AdKMUkbbqL) | 1:50 |
+| 32 | [Springwater](https://open.spotify.com/track/5XS17WKzCivfD3aaK6Vuet) | [Birdcloud](https://open.spotify.com/artist/4jMnk0SNvD42VxO4WpFuoo) | [Singles Only](https://open.spotify.com/album/6MGEAwh2nhb2AdKMUkbbqL) | 1:50 |
+| 33 | [Bring It Home \(feat\. Jaime Wyatt\)](https://open.spotify.com/track/5PWke7d2ucI1I4NEqgH6DB) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 3:22 |
 | 34 | [Cult Boyfriend](https://open.spotify.com/track/4yYkAGcxY6H0NtNaRTzmpH) | [Jeffrey Lewis](https://open.spotify.com/artist/2Icsf5D1lAs2EFx6kggg5D) | [A Turn in the Dream\-Songs](https://open.spotify.com/album/7HqSmbT8eQWB9Ta65a7sAi) | 2:36 |
 | 35 | [The Legend of Chavo Guerrero](https://open.spotify.com/track/6gPrsmxMd346xXojwswZAN) | [The Mountain Goats](https://open.spotify.com/artist/3hyGGjxu73JuzBa757H6R5) | [Beat the Champ](https://open.spotify.com/album/4i54Kl9bCNCVJeeflih1rB) | 3:00 |
 | 36 | [Armchair Anarchism](https://open.spotify.com/track/3p7v07Sm6ItF5GFYMsQdkZ) | [Not Half Bad](https://open.spotify.com/artist/3oOlOS93V6ex5t5lrvZ7s7) | [Dorks / Nerds](https://open.spotify.com/album/2iNrQMInnce84QaUwlOTUw) | 2:26 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6lKwK3dS8IE.md) - [plain]
 | 49 | [Shadows Follow You](https://open.spotify.com/track/70ocBhBQfu6gRbGZJdMl0h) | [Dogtooth & Nail](https://open.spotify.com/artist/3TzCgwT2fJB0oh2vggswZ9) | [Learning How to Unlearn](https://open.spotify.com/album/2ri1PLSmxfnM0yhamVmHz4) | 3:15 |
 | 50 | [Out of Egypt](https://open.spotify.com/track/4dzi9ff1Zm5PqLtn0gyM9a) | [Foxpaw](https://open.spotify.com/artist/3lrRCJ6WUwtvNVz9dPe3Yn) | [Still Dreaming, I Never See the Stars](https://open.spotify.com/album/69qLqOSmFzaKoLdH9I4V5x) | 2:19 |
 
-Snapshot ID: `MCxiNWEyMzk2YWMyM2E4NzZjZjA2M2RiYjA1YjQzMWRiOTEwMzIxNTli`
+Snapshot ID: `MCwzMWUwMzI5NjJiZWYxNDUwNzFkZWMwNWEyZWVhYzZmNTU1MjE1M2Nj`

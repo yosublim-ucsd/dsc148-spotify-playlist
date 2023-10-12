@@ -4,7 +4,7 @@
 
 > 話題のロックヒットをVolume上げて爆音で。Cover: Paramore
 
-655 songs - 1 day 13 hr 51 min
+656 songs - 1 day 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -484,7 +484,7 @@
 | [SCREAM](https://open.spotify.com/track/5rmUnvLLqhUfE9IpQajosI) | [WENDY](https://open.spotify.com/artist/2i8mY7fj920uqkcPkoX6QS) | [Don't waste my YOUTH](https://open.spotify.com/album/6vIG6mIgQ1ZwWlvVHEE5Aj) | 3:38 | 2023-08-24 | 2023-09-01 |
 | [Screaming In The Rain Again](https://open.spotify.com/track/0jsh4swhkkj6L4MAnwGWqS) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Screaming In The Rain Again](https://open.spotify.com/album/3jpkNQcDMg94XMxtj4Lk3m) | 3:07 | 2023-07-20 | 2023-07-28 |
 | [Screamin’ At The Sky](https://open.spotify.com/track/1imjOta3P3L3ZYZiT1cYMr) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Screamin’ At The Sky](https://open.spotify.com/album/3vO2TPaxrjoC6St9PUhvDs) | 3:24 | 2023-07-06 | 2023-07-14 |
-| [Seasons](https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Seasons](https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U) | 2:46 | 2023-08-17 |  |
+| [Seasons](https://open.spotify.com/track/5AVwPRQ5X1pNqYrHd1cjli) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Seasons](https://open.spotify.com/album/4oEzeXL8AFv8FcX7vGhw1U) | 2:46 | 2023-08-17 | 2023-10-12 |
 | [Self\-Destruct](https://open.spotify.com/track/29ffs4yVqnGEzwCazHzJrd) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [Self\-Destruct](https://open.spotify.com/album/7uMAqt7XYA49zcwAhLT4wk) | 2:53 | 2023-03-16 | 2023-03-25 |
 | [Sharks](https://open.spotify.com/track/7sA2SKTo1QbTSSYn5YvJC4) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:10 | 2023-03-16 | 2023-04-28 |
 | [She's Fine, She's Mine](https://open.spotify.com/track/2wb2kUsNMmqzZaDQtxXZ9C) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Memory Dust EP](https://open.spotify.com/album/7e3QdCi7kwWvgCzaEunVIN) | 3:12 | 2023-06-15 | 2023-06-23 |
@@ -653,6 +653,7 @@
 | [You Plus Me](https://open.spotify.com/track/2YLSw7VocLFF4MNr5X7qeM) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [You Plus Me](https://open.spotify.com/album/72qAfy89DFIPG6AHkZsL4G) | 3:12 | 2023-10-05 |  |
 | [Young In America](https://open.spotify.com/track/0Ef2EJ0YndF0GZMQHsrOvt) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Young In America](https://open.spotify.com/album/1ZIQTACUeZjcf9xHHvCpQp) | 3:44 | 2023-09-28 | 2023-10-06 |
 | [Your Apartment](https://open.spotify.com/track/4Fi7oEopcTe2GkmVOeNdoZ) | [Phoneboy](https://open.spotify.com/artist/5vh3TBzvI4nASt2A1KfgcR) | [Your Apartment](https://open.spotify.com/album/27uE4MarekqLyFPzbiPAw9) | 3:31 | 2023-03-23 | 2023-03-31 |
+| [Your face](https://open.spotify.com/track/7ne2hzW4jaU5tacaCI4kJH) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/19qeLWS7fwQMYuDosTCTFe) | 3:47 | 2023-10-05 |  |
 | [Your face](https://open.spotify.com/track/5MRWG1owcChqkYFIzsYlMb) | [Wisp](https://open.spotify.com/artist/3TJZG17pjOKXwx1ELKJPfm) | [Your face](https://open.spotify.com/album/6Bg53e6IAblHuVzRpESFvj) | 3:47 | 2023-06-09 | 2023-10-06 |
 | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/track/7wOIdJkbhLcmA0vniQiVVJ) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Your Mind Is Not Your Friend \(feat\. Phoebe Bridgers\)](https://open.spotify.com/album/78QvpShQvtm7mk3Ghjqqa3) | 4:24 | 2023-04-13 | 2023-05-19 |
 | [Your Side of Town](https://open.spotify.com/track/3XV77GNuIPYff6T7bzjYy9) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Your Side of Town](https://open.spotify.com/album/5yFMpRYQntO822gUiwoVzC) | 3:07 | 2023-08-24 |  |

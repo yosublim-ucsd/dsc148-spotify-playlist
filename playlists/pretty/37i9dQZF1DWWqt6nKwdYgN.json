@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! Tino el Ping\u00fcino en portada. ",
-  "num_followers": 11506,
+  "num_followers": 11517,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlY2FlYWYxMzM4ZmU2NDAyNzg0MWZhY2RlMWRlMjc5YTIwOGQwNzNh",
+  "snapshot_id": "MCw1M2UwMTJlZTBjMDJmOTQyZWVjMmI4MDU4MzFiMmU3ZGM0ZjM2NDI0",
   "tracks": [
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "El 17",
+        "url": "https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj"
+      },
+      "artists": [
+        {
+          "name": "Homer El Mero Mero",
+          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
+        }
+      ],
+      "duration_ms": 165168,
+      "name": "El Canton Norte",
+      "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Gloriax",
         "url": "https://open.spotify.com/album/6T6V6xEQwiN7G2CoJchfi7"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 206000,
       "name": "Gloriax",
       "url": "https://open.spotify.com/track/7IYjpcFbkycuU16e7dXT4V"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "El 17",
-        "url": "https://open.spotify.com/album/4ROGPs1BsQad0yWdZ0dXSj"
-      },
-      "artists": [
-        {
-          "name": "Homer El Mero Mero",
-          "url": "https://open.spotify.com/artist/0Xo4VFS3v07L0GwIVkZLfg"
-        }
-      ],
-      "duration_ms": 165168,
-      "name": "El Canton Norte",
-      "url": "https://open.spotify.com/track/5I1i5jcNTDAyndNwyPo2wu"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1375,26 +1375,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Cada Quien",
-        "url": "https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH"
-      },
-      "artists": [
-        {
-          "name": "Jona Camacho",
-          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
-        },
-        {
-          "name": "Fntxy",
-          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
-        }
-      ],
-      "duration_ms": 184780,
-      "name": "Cada Quien",
-      "url": "https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "El Ayer",
         "url": "https://open.spotify.com/album/3wb8JOh65W2vQ2Ubv7B4Ms"
       },
@@ -1419,34 +1399,46 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Zatoichi",
-        "url": "https://open.spotify.com/album/5KUXLPgaaF1ruspnKvTOgX"
+        "name": "Cumbia Castrosa",
+        "url": "https://open.spotify.com/album/0ZlNlIgcLPYQZyiAJwAcwf"
       },
       "artists": [
         {
-          "name": "Fyahbwoy",
-          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
+          "name": "Lil Wacho",
+          "url": "https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ"
+        },
+        {
+          "name": "Chikano Jcr",
+          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
+        },
+        {
+          "name": "Maxo IR",
+          "url": "https://open.spotify.com/artist/0PXfNy7XDVO9w2YCHYedBo"
         }
       ],
-      "duration_ms": 194056,
-      "name": "Zatoichi",
-      "url": "https://open.spotify.com/track/0nuqDpbo1o8LuNp7ACFMal"
+      "duration_ms": 212999,
+      "name": "Cumbia Castrosa",
+      "url": "https://open.spotify.com/track/4Z2RpX71Du8dQQxMTRYxKF"
     },
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Perdido",
-        "url": "https://open.spotify.com/album/3I207OzgRnwZmAmFVlY20X"
+        "name": "Cada Quien",
+        "url": "https://open.spotify.com/album/4QS3kIW0YTZAMZMkaJ1mLH"
       },
       "artists": [
         {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+          "name": "Jona Camacho",
+          "url": "https://open.spotify.com/artist/0t64OqoqDgnfJee9Z6IBOP"
+        },
+        {
+          "name": "Fntxy",
+          "url": "https://open.spotify.com/artist/7I85Ma5xjAo6nlvqOCIiWx"
         }
       ],
-      "duration_ms": 242419,
-      "name": "Perdido",
-      "url": "https://open.spotify.com/track/4DXh3aQUOuhe98Ya2sYgUh"
+      "duration_ms": 184780,
+      "name": "Cada Quien",
+      "url": "https://open.spotify.com/track/4ayJaxA5MjPEopjWYNMAbr"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1479,26 +1471,34 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Cumbia Castrosa",
-        "url": "https://open.spotify.com/album/0ZlNlIgcLPYQZyiAJwAcwf"
+        "name": "Perdido",
+        "url": "https://open.spotify.com/album/3I207OzgRnwZmAmFVlY20X"
       },
       "artists": [
         {
-          "name": "Lil Wacho",
-          "url": "https://open.spotify.com/artist/5LSBA1VYe9Vvxute4ZCaZQ"
-        },
-        {
-          "name": "Chikano Jcr",
-          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
-        },
-        {
-          "name": "Maxo IR",
-          "url": "https://open.spotify.com/artist/0PXfNy7XDVO9w2YCHYedBo"
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
         }
       ],
-      "duration_ms": 212999,
-      "name": "Cumbia Castrosa",
-      "url": "https://open.spotify.com/track/4Z2RpX71Du8dQQxMTRYxKF"
+      "duration_ms": 242419,
+      "name": "Perdido",
+      "url": "https://open.spotify.com/track/4DXh3aQUOuhe98Ya2sYgUh"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Zatoichi",
+        "url": "https://open.spotify.com/album/5KUXLPgaaF1ruspnKvTOgX"
+      },
+      "artists": [
+        {
+          "name": "Fyahbwoy",
+          "url": "https://open.spotify.com/artist/6uFTGm4t8Z6tXyCm22sLQM"
+        }
+      ],
+      "duration_ms": 194056,
+      "name": "Zatoichi",
+      "url": "https://open.spotify.com/track/0nuqDpbo1o8LuNp7ACFMal"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1515,6 +1515,26 @@
       "duration_ms": 325107,
       "name": "El Orfanato",
       "url": "https://open.spotify.com/track/2qz8xEfDz2RARPMZdgk4FV"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Ese Culo",
+        "url": "https://open.spotify.com/album/5Ovew8Idt4n8TpQQaZ9qey"
+      },
+      "artists": [
+        {
+          "name": "Remik Gonzalez",
+          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
+        },
+        {
+          "name": "Sirhena",
+          "url": "https://open.spotify.com/artist/2m9XVzgC1LOREZs1UOVQuI"
+        }
+      ],
+      "duration_ms": 143738,
+      "name": "Ese Culo",
+      "url": "https://open.spotify.com/track/4vG5jTK3oDwpqkmqT8zECm"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1551,26 +1571,6 @@
       "duration_ms": 149052,
       "name": "Celos",
       "url": "https://open.spotify.com/track/0lqYJX9XoHCsJKKCZ4hk60"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "Ese Culo",
-        "url": "https://open.spotify.com/album/5Ovew8Idt4n8TpQQaZ9qey"
-      },
-      "artists": [
-        {
-          "name": "Remik Gonzalez",
-          "url": "https://open.spotify.com/artist/4Hzj6dfl1y5x5TzCSsvLB6"
-        },
-        {
-          "name": "Sirhena",
-          "url": "https://open.spotify.com/artist/2m9XVzgC1LOREZs1UOVQuI"
-        }
-      ],
-      "duration_ms": 143738,
-      "name": "Ese Culo",
-      "url": "https://open.spotify.com/track/4vG5jTK3oDwpqkmqT8zECm"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1735,26 +1735,6 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
-        "name": "Alerta",
-        "url": "https://open.spotify.com/album/6yoDKXsY4wtB3TyM3kPWWl"
-      },
-      "artists": [
-        {
-          "name": "Flor De Rap",
-          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
-        },
-        {
-          "name": "Loyaltty",
-          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
-        }
-      ],
-      "duration_ms": 189602,
-      "name": "Alerta",
-      "url": "https://open.spotify.com/track/6WOLTx2Y91OVCAqfesKC3q"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
         "name": "Bendici\u00f3n o Desgracia",
         "url": "https://open.spotify.com/album/1cS0tv59v0ZkkEQR2ouWyO"
       },
@@ -1795,6 +1775,26 @@
       "duration_ms": 245340,
       "name": "REPRE$ENT",
       "url": "https://open.spotify.com/track/7cl2avv0k1JPWqxBNDxO9e"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
+        "name": "Alerta",
+        "url": "https://open.spotify.com/album/6yoDKXsY4wtB3TyM3kPWWl"
+      },
+      "artists": [
+        {
+          "name": "Flor De Rap",
+          "url": "https://open.spotify.com/artist/3ZIZqvSbTL7mIEyXmbbXs7"
+        },
+        {
+          "name": "Loyaltty",
+          "url": "https://open.spotify.com/artist/5DDpDYLDv4xasIBS6kp2wf"
+        }
+      ],
+      "duration_ms": 189602,
+      "name": "Alerta",
+      "url": "https://open.spotify.com/track/6WOLTx2Y91OVCAqfesKC3q"
     },
     {
       "added_at": "2023-10-06 06:00:00",
@@ -1907,6 +1907,38 @@
     {
       "added_at": "2023-10-06 06:00:00",
       "album": {
+        "name": "La Fama",
+        "url": "https://open.spotify.com/album/0vz5hdEXuiEL0fzihUWFfn"
+      },
+      "artists": [
+        {
+          "name": "Little Homie",
+          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
+        },
+        {
+          "name": "Lismar",
+          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
+        },
+        {
+          "name": "Keyviem",
+          "url": "https://open.spotify.com/artist/69Y1YezofG2Ljgnd7iUbjw"
+        },
+        {
+          "name": "Nelly Nelz",
+          "url": "https://open.spotify.com/artist/7gPZtpMaLi5zBkroBdl6Su"
+        },
+        {
+          "name": "Carlos Trvp",
+          "url": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
+        }
+      ],
+      "duration_ms": 236962,
+      "name": "La Fama",
+      "url": "https://open.spotify.com/track/3wjoNEiniLPzNIK27RaOGM"
+    },
+    {
+      "added_at": "2023-10-06 06:00:00",
+      "album": {
         "name": "Boombap",
         "url": "https://open.spotify.com/album/3DrFQ81DOctYiOHoVbvZJk"
       },
@@ -1939,38 +1971,6 @@
       "duration_ms": 181100,
       "name": "Pa Mis Loc@S",
       "url": "https://open.spotify.com/track/2xHFsQtP81f7mGfhw8Svjl"
-    },
-    {
-      "added_at": "2023-10-06 06:00:00",
-      "album": {
-        "name": "La Fama",
-        "url": "https://open.spotify.com/album/0vz5hdEXuiEL0fzihUWFfn"
-      },
-      "artists": [
-        {
-          "name": "Little Homie",
-          "url": "https://open.spotify.com/artist/7HDjs7xzL0m2IbJcg3qnky"
-        },
-        {
-          "name": "Lismar",
-          "url": "https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy"
-        },
-        {
-          "name": "Keyviem",
-          "url": "https://open.spotify.com/artist/69Y1YezofG2Ljgnd7iUbjw"
-        },
-        {
-          "name": "Nelly Nelz",
-          "url": "https://open.spotify.com/artist/7gPZtpMaLi5zBkroBdl6Su"
-        },
-        {
-          "name": "Carlos Trvp",
-          "url": "https://open.spotify.com/artist/3OZW7ELARiHhIhvhQ4FLCy"
-        }
-      ],
-      "duration_ms": 236962,
-      "name": "La Fama",
-      "url": "https://open.spotify.com/track/3wjoNEiniLPzNIK27RaOGM"
     },
     {
       "added_at": "2023-10-06 06:00:00",

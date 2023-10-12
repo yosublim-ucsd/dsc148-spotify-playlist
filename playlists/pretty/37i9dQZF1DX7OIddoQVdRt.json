@@ -1,12 +1,12 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Guest curated by: <a href=\"spotify:artist:4akybxRTGHJZ1DXjLhJ1qu\">Kirk Franklin</a>",
-  "num_followers": 629633,
+  "num_followers": 628661,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMzcyMTI3MzJhNjQyYTVmNzMwMmExNmJlZDUxYjlkMTI2MWVhN2Ux",
+  "snapshot_id": "MCxmZjY0YzcyNDZhNGEyYWY4YTIzNzQwNGQ3NDllMDVkNjE1MGY3ODlh",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -731,22 +731,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Positive",
-        "url": "https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC"
-      },
-      "artists": [
-        {
-          "name": "Erica Campbell",
-          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
-        }
-      ],
-      "duration_ms": 211203,
-      "name": "Positive",
-      "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Close (Radio Edit)",
         "url": "https://open.spotify.com/album/2et7840f7xyWSb8N8uJrTo"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 254208,
       "name": "I Still Have You",
       "url": "https://open.spotify.com/track/21ksdeytHBlKH3coDrDud9"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Positive",
+        "url": "https://open.spotify.com/album/0fDXqBt38kAOHMwRpdfmQC"
+      },
+      "artists": [
+        {
+          "name": "Erica Campbell",
+          "url": "https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp"
+        }
+      ],
+      "duration_ms": 211203,
+      "name": "Positive",
+      "url": "https://open.spotify.com/track/67LfMxyAh3vAwCR2yZPFhg"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Moment (Live)",
-        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 441386,
-      "name": "The Moment - Live",
-      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Truth (Standard)",
         "url": "https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 469631,
       "name": "I'm Yours",
       "url": "https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The Moment (Live)",
+        "url": "https://open.spotify.com/album/3eUR0CKGUe8P2JyY06eqhO"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 441386,
+      "name": "The Moment - Live",
+      "url": "https://open.spotify.com/track/4ZpWNJauplyo3AnV8LlJdw"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Intercession (Live)",
-        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 164480,
-      "name": "Hallelujah (You Get The Glory) - Live",
-      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "I Got Out",
         "url": "https://open.spotify.com/album/07nqs2VsHDslrmhlMsCjke"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 297653,
       "name": "I Got Out",
       "url": "https://open.spotify.com/track/29mZrqJI0XyyUvVMo2edpk"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Intercession (Live)",
+        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 164480,
+      "name": "Hallelujah (You Get The Glory) - Live",
+      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 481167,
-      "name": "You\u2019re Gonna Get The Glory - Live",
-      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Speak To Me",
         "url": "https://open.spotify.com/album/6GiPLtoDGqnOIiZtarBE6r"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 166963,
       "name": "Speak To Me",
       "url": "https://open.spotify.com/track/0z9aEc97GSfDPiRRNwfBmt"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 185382,
+      "name": "Blak Sheep Freestyle",
+      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Impossible",
-        "url": "https://open.spotify.com/album/3j0Q2UsMetCz0GMPXnr4ai"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 185382,
-      "name": "Blak Sheep Freestyle",
-      "url": "https://open.spotify.com/track/1AzvAbhRMCcebGkq6dkkx6"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Beyond The Veil: Live At Bobby Jones Gospel Explosion XIII",
         "url": "https://open.spotify.com/album/4Fg8OaeE26o8IjZw03iRLo"
       },
@@ -1379,22 +1363,6 @@
       "duration_ms": 507893,
       "name": "Beyond The Veil - Live",
       "url": "https://open.spotify.com/track/1XGD06MU8Ds1O0J9mjo2yn"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "The Invitation",
-        "url": "https://open.spotify.com/album/5t18qziD5srq5ZR31HLxjg"
-      },
-      "artists": [
-        {
-          "name": "Isabel Davis",
-          "url": "https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0"
-        }
-      ],
-      "duration_ms": 274756,
-      "name": "I Will Rejoice - Live",
-      "url": "https://open.spotify.com/track/1Q6yfDa3t9TsdZ3Dv6zFH9"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1415,6 +1383,38 @@
       "duration_ms": 228340,
       "name": "Movin' On",
       "url": "https://open.spotify.com/track/4qduSkpBMLjxLseOLN28kv"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 481167,
+      "name": "You\u2019re Gonna Get The Glory - Live",
+      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The Invitation",
+        "url": "https://open.spotify.com/album/5t18qziD5srq5ZR31HLxjg"
+      },
+      "artists": [
+        {
+          "name": "Isabel Davis",
+          "url": "https://open.spotify.com/artist/0zLMumXvsZqoNGYU5KWHX0"
+        }
+      ],
+      "duration_ms": 274756,
+      "name": "I Will Rejoice - Live",
+      "url": "https://open.spotify.com/track/1Q6yfDa3t9TsdZ3Dv6zFH9"
     },
     {
       "added_at": "2023-10-06 04:00:00",

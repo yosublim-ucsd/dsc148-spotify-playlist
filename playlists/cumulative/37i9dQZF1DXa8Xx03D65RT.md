@@ -4,7 +4,7 @@
 
 > La sutileza del piano para enriquecer tu espacio.
 
-712 songs - 1 day 5 hr 55 min
+713 songs - 1 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [Balance](https://open.spotify.com/track/1HVU6DOb7GB4UPpf7TgfVL) | [Dilia](https://open.spotify.com/artist/5uqiYjT81VEQvHDYpIlM7Z) | [Balance](https://open.spotify.com/album/6zuVowgH43GihK6JnkLxKe) | 2:26 | 2022-05-27 | 2022-09-24 |
 | [Bartram's Garden](https://open.spotify.com/track/0E97LEEOz5rk6wAJr6rNI3) | [Zachary Patel](https://open.spotify.com/artist/5BTQ9QBT1Le61VYLVtRBCB) | [Bartram's Garden](https://open.spotify.com/album/1SRli8CCpxMiaYuPgfR8qa) | 2:23 | 2022-05-27 | 2023-03-21 |
 | [Bastione](https://open.spotify.com/track/3nMBQwUV1g1pkWxEz4kb2b) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Bastione](https://open.spotify.com/album/6Ayd2MMYR6CCAMSt10tiU3) | 2:37 | 2023-08-21 |  |
+| [Be Calm](https://open.spotify.com/track/6wiLWEodqWGK2ycSuW4kkl) | [Henriette Wieder](https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0) | [Be Calm](https://open.spotify.com/album/2NTfS4IQKkFAWkfWIPFZCM) | 2:25 | 2023-10-09 |  |
 | [Beauty Of You](https://open.spotify.com/track/6zkZvCIEpgUUgCz7qSK3Nc) | [Monir Bresegeut](https://open.spotify.com/artist/3Z6Wqjodzje8ZoJJgV71lj) | [Beauty Of You](https://open.spotify.com/album/0Od2qq1KiShZ1Px1Rkka3x) | 2:16 | 2022-05-27 | 2023-03-28 |
 | [Before Dawn](https://open.spotify.com/track/42mnMZ6db1BFIzrW89JpoU) | [Shaunta Coburn](https://open.spotify.com/artist/6Brh18kVDBzXLS2Uu38SuX) | [Before Dawn](https://open.spotify.com/album/4v89u5szEzd1HZbltZ8KPq) | 2:17 | 2022-05-27 |  |
 | [Before the War](https://open.spotify.com/track/0paObwS131dDajVtwORiYq) | [Lama House](https://open.spotify.com/artist/3We2SFbH59mXg6D42TPhWJ) | [Secrets of the Earth](https://open.spotify.com/album/181sKloKYO9iKWM50ldXbK) | 2:59 | 2022-05-27 | 2022-09-24 |
@@ -407,7 +408,7 @@
 | [Motionless](https://open.spotify.com/track/0QhJamJALUpi2kj5twPHES) | [Peter Cavallo](https://open.spotify.com/artist/4wkhNurLn15nvnOh3O8yCV) | [Motionless](https://open.spotify.com/album/4hcfIDmt8TW14oy1MQpEyL) | 2:44 | 2022-05-27 | 2022-09-24 |
 | [Moving Slowly](https://open.spotify.com/track/4xYztiOcXXOiC1TwTsXuY3) | [Jacques Blanc](https://open.spotify.com/artist/2pLiht9WILwFOx7VoxQQJJ) | [Moving Slowly](https://open.spotify.com/album/1UQI21LayYIwYNHsZaOjRD) | 1:59 | 2022-05-27 | 2023-05-10 |
 | [Murasaki No Yume](https://open.spotify.com/track/5hiuOPmW0LBilvTFParX3V) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [Murasaki No Yume](https://open.spotify.com/album/2JSfaNSxtVVplSGGNE6Dj4) | 2:12 | 2023-01-20 | 2023-03-28 |
-| [Muriwai](https://open.spotify.com/track/4u3ZZLGtq6bYi1ZKK7c3BW) | [Matthew Paull](https://open.spotify.com/artist/1SCYbA8Dz2FbWaVt6nVQo3) | [Muriwai](https://open.spotify.com/album/4EH4mxXX6T9RegNa5us3rs) | 2:01 | 2022-05-27 |  |
+| [Muriwai](https://open.spotify.com/track/4u3ZZLGtq6bYi1ZKK7c3BW) | [Matthew Paull](https://open.spotify.com/artist/1SCYbA8Dz2FbWaVt6nVQo3) | [Muriwai](https://open.spotify.com/album/4EH4mxXX6T9RegNa5us3rs) | 2:01 | 2022-05-27 | 2023-10-12 |
 | [My Absence](https://open.spotify.com/track/60aQ47g6775vmbN3yMntql) | [Giselle Guarezi](https://open.spotify.com/artist/3I7r2Vx9QBUabnGWYnKMQy) | [My Absence](https://open.spotify.com/album/0Xg1s0kUyiP6ae7M8ywtMV) | 1:58 | 2022-05-27 | 2023-07-25 |
 | [Mysterious ways](https://open.spotify.com/track/4o9MHjbd1w6fLk1aqA1JKn) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Mysterious ways](https://open.spotify.com/album/4lHrnYTYfpziDRuHBns58U) | 1:47 | 2023-04-12 | 2023-07-04 |
 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 | 2022-05-27 |  |

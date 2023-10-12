@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-357 songs - 17 hr 27 min
+358 songs - 17 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Cocoon \- Martin Garrix & Space Ducks Remix](https://open.spotify.com/track/6IqVq76K6UuJdYwZFgXosQ) | [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Space Ducks](https://open.spotify.com/artist/0KWooIVFqa6Gt0BtpdudK6) | [Cocoon \(Martin Garrix & Space Ducks Remix\)](https://open.spotify.com/album/11X8fP4LGagH6xsQI2aqaY) | 3:22 | 2023-02-17 |  |
 | [Collect Check \(feat\. EMIDA\)](https://open.spotify.com/track/0vQukqQmHy0ZesKFssyvEW) | [Black Caviar](https://open.spotify.com/artist/1wqW0IQWC7V7jktcjVHID6), [Emida](https://open.spotify.com/artist/5qRPvk1z9F31rWTmAN8tnL) | [Collect Check \(feat\. EMIDA\)](https://open.spotify.com/album/5LO1GI3mh8iDSxW7w30ssZ) | 3:26 | 2021-10-29 | 2022-07-14 |
 | [Come Together](https://open.spotify.com/track/33FAo8SU8bu8o5o2RMvQuZ) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [DJ Glen](https://open.spotify.com/artist/7FhUEuhPe1odyNav1iHfvd) | [Come Together](https://open.spotify.com/album/0Z4NciZWgkICzAsdchEWep) | 3:39 | 2023-03-24 | 2023-06-03 |
+| [Crazy](https://open.spotify.com/track/4ij2abVupX0NTWG5TuKe02) | [Rnbstylerz](https://open.spotify.com/artist/3qkIL3op4KtFFUHj19LuLg) | [Crazy](https://open.spotify.com/album/2gZzx7A5qnSbcO7OmTPAja) | 2:46 | 2023-10-06 |  |
 | [Crystallise](https://open.spotify.com/track/7jJfACKhaxK3kF3bda6AVS) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Crystallise](https://open.spotify.com/album/11faQiUnyNFKWJYpj1HXsK) | 3:02 | 2021-10-29 | 2022-11-12 |
 | [Cum Check This](https://open.spotify.com/track/7H5SIexFiXI5Li5qyV2TID) | [FETISH](https://open.spotify.com/artist/1r59KUMNZRw0M8FDnrHq0o) | [Cum Check This](https://open.spotify.com/album/3b7bk20U1R74sAi7xKHQxJ) | 3:11 | 2021-10-29 | 2022-06-07 |
 | [D.I.S.C.O.](https://open.spotify.com/track/2BRqdAILazQ4Brd95GJjpv) | [twoloud](https://open.spotify.com/artist/6eUtrZgzxqbV7zMxzN3Sz2), [BERROW](https://open.spotify.com/artist/307piZl5uWR3Nti6ssXp4T) | [D.I.S.C.O.](https://open.spotify.com/album/6Ue9biQDhdLypEIsPxTpCP) | 2:21 | 2023-03-24 |  |
@@ -348,7 +349,7 @@
 | [Way Back](https://open.spotify.com/track/0NUbARTwC9ZLL3DYfSAfK1) | [Charmes](https://open.spotify.com/artist/3Lat1XFXy1jjal8bckU6ZQ), [Awiin](https://open.spotify.com/artist/0QUPQsSV7c2IAiftgYr5lP) | [Way Back](https://open.spotify.com/album/7txwUmAvVmQgn61K6xZuuD) | 2:24 | 2022-04-15 | 2022-04-21 |
 | [Way It Is](https://open.spotify.com/track/2dwnD6tMYqp8zQmfg1XvNQ) | [Mr\. Belt & Wezol](https://open.spotify.com/artist/19VDJ9IKyBSUMDJxLsasP6), [RSCL](https://open.spotify.com/artist/5pkU7zjIzHgfN1n91e51r3) | [Way It Is](https://open.spotify.com/album/3eh4ktE7LJNFljqBMn0ZnO) | 3:12 | 2021-10-29 |  |
 | [We Don’t Need](https://open.spotify.com/track/5URyPutSQvq9tTbBYybv5n) | [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [Piero Pirupa](https://open.spotify.com/artist/5FD9tbbiWd6th8FaOdCtnB) | [We Don’t Need](https://open.spotify.com/album/1b2GlCzIW4CaMIfaRA9mjE) | 3:08 | 2022-08-05 |  |
-| [Welcome to the Club](https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Welcome to the Club](https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe) | 4:02 | 2022-07-22 |  |
+| [Welcome to the Club](https://open.spotify.com/track/1BdQIZ9ruEA8FW1Kw45h0Y) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Welcome to the Club](https://open.spotify.com/album/6OW0DiGRajH1WvL1wPFlhe) | 4:02 | 2022-07-22 | 2023-10-12 |
 | [Welcome To The Future](https://open.spotify.com/track/6rwKmp46Ssl0D9VDVaGKVo) | [KVSH](https://open.spotify.com/artist/2uGKgNuq7MnKksXiSO6HjB), [Carola](https://open.spotify.com/artist/1ms2l3rB6iHHxtPvR9kxgW) | [Welcome To The Future](https://open.spotify.com/album/5Ynhd8mwNNB1ULBRMYRpKb) | 2:52 | 2022-07-15 |  |
 | [What You Got](https://open.spotify.com/track/1IrTzpX4khWqGPdAyFBOqv) | [NITTI](https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk), [Valentino Khan](https://open.spotify.com/artist/0deIjoDjl9g9Zpw0sCIOHh) | [What You Got](https://open.spotify.com/album/7cSGgAYjT88n0xDh9n4Jsh) | 2:40 | 2023-05-12 |  |
 | [What You've Done To Me \(feat\. Bemendé\)](https://open.spotify.com/track/2k9kWgFLCiAeRBTmwlGbAv) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Millean.](https://open.spotify.com/artist/6t39nKNQpLjO5HNannzNfz), [Bemendé](https://open.spotify.com/artist/0c7d29gRcEyNSzLLNcnCiq) | [What You've Done To Me \(feat\. Bemendé\)](https://open.spotify.com/album/3frz7gq4fuN3nIu2qfP6Ki) | 2:46 | 2021-10-29 | 2022-12-17 |

@@ -999,6 +999,24 @@
     },
     {
       "album": {
+        "name": "Loki: Vol. 1 (Episodes 1-3) [Original Soundtrack]",
+        "url": "https://open.spotify.com/album/5Wc11R3nufO8ZAFFhvBGEe"
+      },
+      "artists": [
+        {
+          "name": "Natalie Holt",
+          "url": "https://open.spotify.com/artist/04ZLnodB6WbVvYg2LECqpQ"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144761,
+      "name": "Loki Green Theme",
+      "url": "https://open.spotify.com/track/5T7DUEeAj0hkMLTzIlDCRz"
+    },
+    {
+      "album": {
         "name": "Hocus Pocus (Original Score)",
         "url": "https://open.spotify.com/album/35HW28UZvr9UghP8Ras6mu"
       },

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 
 > Les hits de demain sont déjà ici\. Photo : David Guetta x Zara Larsson
 
-[Spotify](https://open.spotify.com/user/spotify) - 284,598 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 284,548 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUI9wBgUr4BH.md) - [plain]
 | 49 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 |
 | 50 | [Smash My Heart](https://open.spotify.com/track/7uCbQR6CHGsy8xCR8JRKyG) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Smash My Heart](https://open.spotify.com/album/6OGooptBXrnOCxCvdgKz7O) | 2:50 |
 
-Snapshot ID: `MCxiMGY2NWNjYmViMTU0NzcwYjQzNzdmYmJlOWVlZmEyODBkZjY1NmNi`
+Snapshot ID: `MCwxZTU3YjRlMzcwMjZjZWQwMGZiMzA5M2NlZDEwNGEwNjkyZmM3ZTY2`

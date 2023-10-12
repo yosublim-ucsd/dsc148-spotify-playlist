@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,022 songs - 2 day 7 hr 40 min
+1,023 songs - 2 day 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -376,6 +376,7 @@
 | [Hero](https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [Hero](https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v) | 2:40 | 2022-12-16 | 2023-07-15 |
 | [Hero \- Nicky Romero Remix](https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc) | [Afrojack](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Hero \(Nicky Romero Remix\)](https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3) | 3:12 | 2021-07-10 | 2021-09-18 |
 | [Heute Nacht](https://open.spotify.com/track/1eMUGMEWrvTXYWrPobq2dH) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [Heute Nacht](https://open.spotify.com/album/3hUV4shxjzrCGFtJgBOF82) | 3:24 | 2023-01-06 |  |
+| [Hey DJ](https://open.spotify.com/track/35TuvgQOcLcZmGlZZ3cAGq) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp) | [Hey DJ](https://open.spotify.com/album/0HNme2CFQWHNAR1IIiwuZi) | 2:37 | 2023-10-06 |  |
 | [Hey Hey \(Heard You Say\)](https://open.spotify.com/track/6W2JFlLjKoSMAYG9pds9rS) | [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40), [Lukas Vane](https://open.spotify.com/artist/4KG9oqu0VXEqu6fNdiip0U), [Elise LeGrow](https://open.spotify.com/artist/20biSVcaiwFyvcseOzYKo8) | [Hey Hey \(Heard You Say\)](https://open.spotify.com/album/6CkhbzTlaDd6kjMqjiXMcy) | 3:53 | 2022-09-23 | 2022-10-11 |
 | [Hi Friend!](https://open.spotify.com/track/0ZMuyIprUNwjhwhZC5tlQe) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [For Lack of a Better Name](https://open.spotify.com/album/6C6RtR4rwoonc10cv4sSDF) | 5:15 | 2020-09-21\* | 2020-10-10 |
 | [High](https://open.spotify.com/track/3t4KHjd8uQpJJ2fa0fRIpR) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp) | [High](https://open.spotify.com/album/5xo6DC8pajMhzbLxVzTmxP) | 2:55 | 2022-04-01 | 2022-04-23 |
@@ -537,7 +538,7 @@
 | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/track/5eTaQYBE1yrActixMAeLcZ) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Miracle \(with Ellie Goulding\)](https://open.spotify.com/album/22UyygZceCIfoE0RhENgKx) | 3:06 | 2023-03-17 |  |
 | [Miracle Maker](https://open.spotify.com/track/6txvQu0zUbiqG24A8XMLnK) | [Dom Dolla](https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Miracle Maker](https://open.spotify.com/album/3yQSxYbAj2jrwAx7W7MIAU) | 3:08 | 2022-07-15 |  |
 | [Mirrors](https://open.spotify.com/track/2hpmqD5Ragk3zMCiv7e3DH) | [Maison Ware](https://open.spotify.com/artist/0A85Mz9YHumTq1HgNtt6aA) | [Mirrors](https://open.spotify.com/album/5F1kOwy6dtX3TU5Pt0jBFx) | 4:38 | 2020-09-21\* | 2020-10-10 |
-| [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-11-11 |  |
+| [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-11-11 | 2023-10-12 |
 | [Miss You](https://open.spotify.com/track/2lxoIZS8tpFwbiJyrDYguI) | [SLANDER](https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q), [Ganja White Night](https://open.spotify.com/artist/1a6oIpEh4DGgaqgWg5xwd3) | [Miss You](https://open.spotify.com/album/6yNMqtPxykHsGzMJe9m5Fg) | 3:20 | 2021-09-11 | 2022-02-12 |
 | [Miss You](https://open.spotify.com/track/4odMGVNm2t07wwtzxKUlBc) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Sick Individuals](https://open.spotify.com/artist/0XqFDQJjqW5PfhfBCb53LR), [MARF](https://open.spotify.com/artist/6y1eDna5tYFgcvKyGhLCy7) | [Miss You](https://open.spotify.com/album/6JWKJ2h1WGHMkUySXaP7yv) | 2:40 | 2021-03-11 | 2021-09-11 |
 | [Missing You](https://open.spotify.com/track/0DuZMXIz67N75PijSWwe7k) | [FR!ES](https://open.spotify.com/artist/6s9IlZhrBJqv3ZCSNzP2Gs), [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe) | [Missing You](https://open.spotify.com/album/192xfJuMno2xekpDB6ngP9) | 2:29 | 2021-02-27 | 2021-07-24 |

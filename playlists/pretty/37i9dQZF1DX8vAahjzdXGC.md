@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Lyodra, Afgan
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,107 likes - 112 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,587 likes - 112 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 111 | [3:07](https://open.spotify.com/track/3Z1rQsWrqtCk3lgQFbqnrI) | [d0my](https://open.spotify.com/artist/1qgcFvdiH5hS2Nkf4mZ5Gx), [Jeyes](https://open.spotify.com/artist/4KTTsSuEEoNhQLzXH1JH7x) | [3:07](https://open.spotify.com/album/5lv0shRMmophaPNApOmK65) | 3:48 |
 | 112 | [Sanctuary](https://open.spotify.com/track/4C03G8jrKuzw6OZk7qlvNp) | [The Great Spy Experiment](https://open.spotify.com/artist/6eMW7MJMdeHuAEXhixxsKH) | [Sanctuary / Secrets](https://open.spotify.com/album/4AH7OqMaRuC2DBXNntBxzL) | 4:36 |
 
-Snapshot ID: `MCxiMTliNDMyNTkwNzJiMjlmMjdjNDNmOWY1ZWMwNTRlOWQyY2E5MGU3`
+Snapshot ID: `MCw3YTFhYThiMTgwMDI4OTIwNDM3YTg5MmM5YjA4MTMwMGM1YzZmMGIx`

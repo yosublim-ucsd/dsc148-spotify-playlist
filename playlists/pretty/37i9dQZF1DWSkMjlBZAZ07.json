@@ -1,12 +1,12 @@
 {
   "description": "Brighten your day with a mix of folksy mood boosters.",
-  "num_followers": 1974007,
+  "num_followers": 1970491,
   "original_name": "Happy Folk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwwMTQyM2RiMWM3YzBmYWI2ZjE1NDYzYmUyOTFlMGM1YTVlMjk5ZTZj",
+  "snapshot_id": "MCxjNzllNWYyYjU4Y2JiMzYxMzVkYjAxZTQzNjM0YWZhY2JiZDg2MmQz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -551,22 +551,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Brazil",
-        "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
-      },
-      "artists": [
-        {
-          "name": "Declan McKenna",
-          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
-        }
-      ],
-      "duration_ms": 252306,
-      "name": "Brazil",
-      "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Snow",
         "url": "https://open.spotify.com/album/4egQIHw55CVeZ9BlS3fEoL"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 273560,
       "name": "Chateau",
       "url": "https://open.spotify.com/track/48mqfE8RHAaxVWSr3aSOjD"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Brazil",
+        "url": "https://open.spotify.com/album/38qaYdCiewb6NrRvVxWTe4"
+      },
+      "artists": [
+        {
+          "name": "Declan McKenna",
+          "url": "https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c"
+        }
+      ],
+      "duration_ms": 252306,
+      "name": "Brazil",
+      "url": "https://open.spotify.com/track/5ftdTvmQjjsL23t7jxADfI"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -631,6 +631,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "True Sadness",
+        "url": "https://open.spotify.com/album/6aMhaNYwh1OwoJnNrNbm6Q"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 212346,
+      "name": "Ain't No Man",
+      "url": "https://open.spotify.com/track/6XMYnm4OTEysN8blzqiCL9"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Ready or Not (feat. Sierra Ferrell)",
         "url": "https://open.spotify.com/album/5JcW9l6CD3JJbn7DbJrrkh"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 192901,
       "name": "Ready or Not (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/2NAOqvZIf7onZ4kDLU560I"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "True Sadness",
-        "url": "https://open.spotify.com/album/6aMhaNYwh1OwoJnNrNbm6Q"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 212346,
-      "name": "Ain't No Man",
-      "url": "https://open.spotify.com/track/6XMYnm4OTEysN8blzqiCL9"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -927,22 +927,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Love Still Held Me Near",
-        "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
-      },
-      "artists": [
-        {
-          "name": "City and Colour",
-          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
-        }
-      ],
-      "duration_ms": 236840,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Pretty Picture, Dirty Brush",
         "url": "https://open.spotify.com/album/6gRMw9HleQT2CGc7gIPPdj"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 156360,
       "name": "I Keep Ticking On",
       "url": "https://open.spotify.com/track/1Etp6DlUsn2P5im8f7J9HP"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "The Love Still Held Me Near",
+        "url": "https://open.spotify.com/album/57arSTDRPVYZRm6uIuR1ym"
+      },
+      "artists": [
+        {
+          "name": "City and Colour",
+          "url": "https://open.spotify.com/artist/74gcBzlQza1bSfob90yRhR"
+        }
+      ],
+      "duration_ms": 236840,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/6bpoSwD4xu2WWIVQH07LMa"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Victory",
-        "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
-      },
-      "artists": [
-        {
-          "name": "The Avett Brothers",
-          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
-        }
-      ],
-      "duration_ms": 233333,
-      "name": "Victory",
-      "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Amsterdam",
         "url": "https://open.spotify.com/album/6KDS26ap7qW6zDI45PWEUF"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 179750,
       "name": "Amsterdam",
       "url": "https://open.spotify.com/track/5SJVX5HeliCen2YqfkzubC"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Victory",
+        "url": "https://open.spotify.com/album/6DUTXtgL3YKOf2wX8RCKe4"
+      },
+      "artists": [
+        {
+          "name": "The Avett Brothers",
+          "url": "https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q"
+        }
+      ],
+      "duration_ms": 233333,
+      "name": "Victory",
+      "url": "https://open.spotify.com/track/2f6pqUyFcs3NUSoz49H9nw"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Hold Me",
+        "url": "https://open.spotify.com/album/4gVu2VoV5kV8g6ihNLWfFS"
+      },
+      "artists": [
+        {
+          "name": "The Strumbellas",
+          "url": "https://open.spotify.com/artist/6ujr1NkqbZpYOhquczUUfl"
+        }
+      ],
+      "duration_ms": 172446,
+      "name": "Hold Me",
+      "url": "https://open.spotify.com/track/5P8ldnOsScd9aMlQMKucb6"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Life's What You Make It",
         "url": "https://open.spotify.com/album/2p1lJKQNcodNZVqsuFq6H2"
       },
@@ -1631,26 +1647,6 @@
       "duration_ms": 142818,
       "name": "Headstart",
       "url": "https://open.spotify.com/track/7pwv5cbW7hj4HVv3US4XUT"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "The Spirit Moves",
-        "url": "https://open.spotify.com/album/77UiJMD9OVYj2YXr2gO9L5"
-      },
-      "artists": [
-        {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
-        },
-        {
-          "name": "The Law",
-          "url": "https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB"
-        }
-      ],
-      "duration_ms": 195160,
-      "name": "Put It Together",
-      "url": "https://open.spotify.com/track/0qau061S9oIy7S5xHruwHA"
     }
   ],
   "unique_name": "Happy Folk",

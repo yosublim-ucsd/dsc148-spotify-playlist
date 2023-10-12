@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover:  <a href=“spotify:artist:5GGJosGMs08YEmKTZJe1fL”>Suki Waterhouse</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,512 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,550 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 31 | [Rain In The Rearview](https://open.spotify.com/track/10kDUCSM3OZ99MfMcRboZB) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN) | [REBEL \(The Beginning\)](https://open.spotify.com/album/4LtOQGwRoodFaM7wNpqIe5) | 3:01 |
 | 32 | [Luke Combs](https://open.spotify.com/track/4MEJ73SRDNLQSHpqTkdjm6) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [BUCKLE BUNNY \(DELUXE\)](https://open.spotify.com/album/2GBaNzYtAW6NgOW4VHxnlq) | 3:13 |
 | 33 | [Dancing At The Disco](https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Cherry Tooth](https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv) | [Dancing At The Disco](https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt) | 3:14 |
-| 34 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
-| 35 | [Blam Blam](https://open.spotify.com/track/6Yi0H0gVNT3fGPWn3ZVZ3a) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [ALTER EGO](https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm) | 2:55 |
+| 34 | [Blam Blam](https://open.spotify.com/track/6Yi0H0gVNT3fGPWn3ZVZ3a) | [Chesca](https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP), [Farina](https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90) | [ALTER EGO](https://open.spotify.com/album/0ghlpJtcN9O9Sk72voIHJm) | 2:55 |
+| 35 | [For Granted](https://open.spotify.com/track/61h5rJ790Vov9ks2Vut5mo) | [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt) | [For Granted](https://open.spotify.com/album/451l9odp6JqepvnwoFRqtQ) | 2:41 |
 | 36 | [Bigger Than The Song](https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bigger Than The Song](https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653) | 3:09 |
 | 37 | [Sunglasses At Night](https://open.spotify.com/track/6SbjCiX0QB41ToJi1aXPuw) | [Baby Storme](https://open.spotify.com/artist/7cwYKm54nTTbnm0UnH0xBe) | [Sunglasses At Night](https://open.spotify.com/album/7K28YTMpPAEEAP0oSrlOmi) | 2:59 |
 | 38 | [Body](https://open.spotify.com/track/5t8FBhJKbpBCskmOaMRxQW) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Body](https://open.spotify.com/album/3wTOyUsrPYyyByd6kMkZRn) | 2:47 |
 | 39 | [Linda Natural](https://open.spotify.com/track/61C5r6fPRxNFoOUG7JQPfH) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Linda Natural](https://open.spotify.com/album/6CQRznzuAM7gKDTlfcrNQx) | 2:22 |
 | 40 | [One Pill](https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu) | [VNSSA](https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM) | [One Pill](https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio) | 3:37 |
-| 41 | [Jealous Moon](https://open.spotify.com/track/6hHTBOwgnAGOLcHFDlYknX) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Jealous Moon](https://open.spotify.com/album/1rWmeFnn1ucnPJCHedPDl7) | 4:24 |
-| 42 | [U Fool](https://open.spotify.com/track/1FFjMvlFNNr4OfXjbQaGOJ) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [U Fool](https://open.spotify.com/album/4Ic0bjOCuwSglRn1KnC5fB) | 3:47 |
+| 41 | [U Fool](https://open.spotify.com/track/1FFjMvlFNNr4OfXjbQaGOJ) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [U Fool](https://open.spotify.com/album/4Ic0bjOCuwSglRn1KnC5fB) | 3:47 |
+| 42 | [Jealous Moon](https://open.spotify.com/track/6hHTBOwgnAGOLcHFDlYknX) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Jealous Moon](https://open.spotify.com/album/1rWmeFnn1ucnPJCHedPDl7) | 4:24 |
 | 43 | [good cry](https://open.spotify.com/track/3tuuvlzu72PRKCb9IxFXst) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Take What You Need](https://open.spotify.com/album/3nR9KOMEB7VhY8PlyiK11d) | 2:39 |
 | 44 | [Terrenas](https://open.spotify.com/track/09bjw433XQN5p3M9lSyToN) | [The Change](https://open.spotify.com/artist/0zIwbOKRX5V7rdUMsjX9dK) | [Terrenas](https://open.spotify.com/album/06Q5tx0RnwRsyUG9lxXl6p) | 2:52 |
 | 45 | [Faltó](https://open.spotify.com/track/3YMbT29QAQNiuC6VWP1uic) | [Natalie López](https://open.spotify.com/artist/7C69hD7HaCYbhgrVqYiHXU) | [Falto](https://open.spotify.com/album/5Zg6mTfVdWz6UQcdEwRaHk) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 49 | [Back Into It](https://open.spotify.com/track/1Oj3Co069DI1DLxbVLU0au) | [Krystall Poppin](https://open.spotify.com/artist/3DIquQWs6ZlFAKdahiPCwC), [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [Reverie](https://open.spotify.com/artist/4K2C6TgREygMW8xo4jymq4) | [Back Into It](https://open.spotify.com/album/5Pg1l7PCtNxoL6HQWy6OSX) | 3:18 |
 | 50 | [GAS](https://open.spotify.com/track/22Uq8APwbxC5vTuQaxswfJ) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [GAS](https://open.spotify.com/album/1E9i3K2aDCotq9DN9D3ZWB) | 2:27 |
 
-Snapshot ID: `MCw0NWFjY2ZmNTcwZjQxYjVjOThkNTI5NWYyODU4ZmYyODY1MjQxZDAw`
+Snapshot ID: `MCw0OGQ4MjBlMzlkOGMxYTI3ZjA5YjM3YWFlYzY5MmQ0MTM1MDM3Y2E1`

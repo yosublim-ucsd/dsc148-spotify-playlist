@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,736 likes - 100 songs - 9 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,719 likes - 100 songs - 9 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 17 | [For Your Glory \- Live](https://open.spotify.com/track/0ruqgF5YjYjQPr0uwQsvYQ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:46 |
 | 18 | [The Anthem](https://open.spotify.com/track/4NH4tJBwVz5y3PqQB3MlGS) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 6:58 |
 | 19 | [You Are The Living Word \(Live\)](https://open.spotify.com/track/5X2jIyGY95YNF3kmeOg1V1) | [Fred Hammond](https://open.spotify.com/artist/2ndyVAdV9UqF1XjyTJt484), [Radical For Christ](https://open.spotify.com/artist/5IasY9qIMVuTssFl6ECzKA) | [Purpose By Design](https://open.spotify.com/album/2mI4JRPhTGEZXw3g6dBCtA) | 5:27 |
-| 20 | [If God / Nothing But the Blood](https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT) | 8:25 |
-| 21 | [He Turned It \- Live](https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 9:24 |
+| 20 | [He Turned It \- Live](https://open.spotify.com/track/7Fte0ZlZByZwdmiOBfTWxr) | [Tye Tribbett](https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32) | [Greater Than \(Live\)](https://open.spotify.com/album/4PbHCckGALCndisP6NsETF) | 9:24 |
+| 21 | [If God / Nothing But the Blood](https://open.spotify.com/track/6hre6Y63XrzzTPOBT9NM6e) | [Casey J](https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd) | [The Gathering](https://open.spotify.com/album/38b3GsXK4Pc3tLUErBQzoT) | 8:25 |
 | 22 | [You're Bigger](https://open.spotify.com/track/2J2f58QGLLvGgW3ct21HSD) | [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [The Life Project](https://open.spotify.com/album/2lcz20I84GFNbynt1xMUxL) | 7:26 |
 | 23 | [Gracefully Broken](https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:16 |
 | 24 | [It Wasn't Easy](https://open.spotify.com/track/2ZxY2iNJs1rPWw1PrzHmKy) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Alabaster Box](https://open.spotify.com/album/1MVEzZd7FgqYLwIBFAwyVK) | 4:48 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 93 | [God Is Not Dead](https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul) | [Joshua's Troop](https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV) | [Joshua's Troop](https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT) | 5:11 |
 | 94 | [Born To Die](https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB) | [Hezekiah Walker & The Love Fellowship Crusade Choir](https://open.spotify.com/artist/10Bp1mvmVqIXcRj1VtxQyZ) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 4:50 |
 | 95 | [The Old Rugged Cross](https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [Live In Detroit \(Live\)](https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv) | 8:16 |
-| 96 | [He Proved His Love](https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl) | [Ron Winans](https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s) | [Family & Friends Choir III](https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj) | 5:25 |
-| 97 | [Oh Holy Lamb](https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 5:29 |
+| 96 | [Oh Holy Lamb](https://open.spotify.com/track/2N6ccWkNTrKuIa3JqRzxhb) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD) | [Live: The Praise, the Worship](https://open.spotify.com/album/3emdtGEEnR69WhvkUeB8py) | 5:29 |
+| 97 | [He Proved His Love](https://open.spotify.com/track/4OMAO6F57zBkgyakZjscTl) | [Ron Winans](https://open.spotify.com/artist/67B5eSkw1ckwkAVi278b2s) | [Family & Friends Choir III](https://open.spotify.com/album/2HqJpxkdEf5FRDJsxkkZrj) | 5:25 |
 | 98 | [Just As I Am](https://open.spotify.com/track/6T9cKNsIuOE3p0mTVgZlIX) | [Wanda Nero Butler](https://open.spotify.com/artist/45G4MMIPUIxPDWLDhuVzY9), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11) | [Wanda Nero Butler & Yolanda Adams](https://open.spotify.com/album/2Cl4KsxZsmtURyKzXBDSL4) | 3:40 |
 | 99 | [Oh Holy Lamb](https://open.spotify.com/track/68oQ1Wm0JOgBwjahOWqmYm) | [Vickie Winans](https://open.spotify.com/artist/3lRcuKNnP49qqc0AHfTTAR) | [Live In Detroit II \(Video\)](https://open.spotify.com/album/2En34iMFWvBpbGKZDOwusQ) | 9:05 |
 | 100 | [Calvary](https://open.spotify.com/track/2kUwyQh2FseRy8UgboN9T0) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP) | [Beginnings](https://open.spotify.com/album/1dWfCCgAXOSfOcyHEXbJYR) | 5:48 |
 
-Snapshot ID: `MCwwNzBhNDgxZTFiZDJiMzNjYWQwOTk5N2Q5MmI4ZjA2NjNkN2Q2Zjg0`
+Snapshot ID: `MCw1OWY4YTFjMmU3OTA5ZmY2ZWVjYzJiZGEwNjM1NzJhYmIyZDgzODg2`

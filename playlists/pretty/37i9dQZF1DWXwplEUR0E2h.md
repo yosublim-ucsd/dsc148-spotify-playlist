@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 
 > ¡Los mejores sonidos urbanos desde la tierra del ritmo! En portada: EL FERXXO
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,117 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,172 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 | 2 | [La Nota](https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [La Nota](https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly) | 3:36 |
 | 3 | [UNA NOCHE EN MEDELLÍN \- REMIX](https://open.spotify.com/track/6ejks4eS7DOoYW8hrpRcDV) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 3:25 |
 | 4 | [Todos Mienten](https://open.spotify.com/track/5d5OZU83S7zk9tywpKXU7H) | [Soley](https://open.spotify.com/artist/1zo2ucFhzu58hKcniMpSQs), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Reboll333](https://open.spotify.com/artist/2IhhVEifV7ntdvp2YmMIzg), [Los Rogelios](https://open.spotify.com/artist/3Iq3cJnSTLqSEg7IFzsers), [ElMalaFama](https://open.spotify.com/artist/4jyb6tiyWziOp0Gu1Gre49), [DFZM](https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw), [Robin Rouse](https://open.spotify.com/artist/36pU0SBDFZq23Ca4qq40jg) | [Todos Mienten](https://open.spotify.com/album/3Smf95F1l0e8wO5TDfpnpV) | 6:24 |
-| 5 | [EY CHORY](https://open.spotify.com/track/74BwwBMcu6xNt7nWmtsCg1) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:57 |
+| 5 | [EY CHORY](https://open.spotify.com/track/1npr0HhhkrcTOgqWOp76TM) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:58 |
 | 6 | [GHETTO PRINCESS](https://open.spotify.com/track/6GgpoeDugrrXl06NIsE1Bo) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [GHETTO PRINCESS](https://open.spotify.com/album/5I5GpNMS30V1a23j2lKl2a) | 2:41 |
 | 7 | [Trofeo](https://open.spotify.com/track/4RtEiwxATP4Vko76xcFmf6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 3:42 |
 | 8 | [RITMO DE MEDALLO](https://open.spotify.com/track/3gquN8yA0TnqD4NemqCnng) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:58 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwplEUR0E2h.md) - [plain]
 | 59 | [Mírate Bien](https://open.spotify.com/track/7yQVxpEIfgUJZJLoucfbs3) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v) | [Mírate Bien](https://open.spotify.com/album/2ihZsxbhXzGAIWzG51ImRM) | 3:00 |
 | 60 | [Monastery](https://open.spotify.com/track/1JpzJfxjHGFUyTHXLZidok) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Monastery](https://open.spotify.com/album/3upu3TUmDtq90LfWIxlQCC) | 3:09 |
 
-Snapshot ID: `MCw0ZGU2YTBmOWVjZGUxNzNjZTE2NGFmZDgwYzBkY2RmOTYyOTY2ZDBk`
+Snapshot ID: `MCwxOTJjYjk2MzI3YjY0YWVlZTcxOWM0YjY5ODRmYjM2OWJkN2Q1OGQ4`

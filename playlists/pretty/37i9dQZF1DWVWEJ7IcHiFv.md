@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 
 > This is the Latin soundtrack of the 80s! Cover: Gloria Estefan
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,816 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,819 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 31 | [Querida](https://open.spotify.com/track/3UHfhZ4MZfwfSJDw9DhspX) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [Juan Gabriel \- 40 Aniversario](https://open.spotify.com/album/1Iofb00kc6shksa6a7wSah) | 5:23 |
 | 32 | [No Controles](https://open.spotify.com/track/19guCNWcPMOzwRN44FmpDb) | [Flans](https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT) | [Flans](https://open.spotify.com/album/1otqQgjwtYN6jQR61jaE4A) | 3:28 |
 | 33 | [Cuando Pase el Temblor](https://open.spotify.com/track/2ExpCKBxiHbgzepERl1t4D) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Originales \- 20 Exitos](https://open.spotify.com/album/75LbseLsPdTkMO9oUD9J8n) | 3:48 |
-| 34 | [Ay, qué pesado](https://open.spotify.com/track/3G2hzcHCb4SF7fTNMaOJpV) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 3:59 |
-| 35 | [Fiesta En América](https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff) | 3:44 |
+| 34 | [Fiesta En América](https://open.spotify.com/track/5x6K9Bz1StBFAWTNMRAwmn) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/5aabwyD2EqwA17390Og3Ff) | 3:44 |
+| 35 | [Ay, qué pesado](https://open.spotify.com/track/3G2hzcHCb4SF7fTNMaOJpV) | [Mecano](https://open.spotify.com/artist/5BMgsAFg8rZQc3tqs5BB8G) | [Entre el Cielo y el Suelo \(Bonus Tracks Edition\)](https://open.spotify.com/album/1D4CJeC3gIhwipRwVKihjy) | 3:59 |
 | 36 | [De Mi Enamórate](https://open.spotify.com/track/5UXgeLTzAyhgfRJubZRemE) | [Daniela Romo](https://open.spotify.com/artist/6gvh8pQI316iafbHiT7B3y) | [Original Masters](https://open.spotify.com/album/4CxnKxTQuQKXWrWHAVtaMO) | 3:30 |
 | 37 | [Cuéntame](https://open.spotify.com/track/1T1nYfU115UL2LhwTMyWr6) | [Lucero](https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330) | [Cuéntame](https://open.spotify.com/album/7eGbFOJExPRkAsDQCeThFc) | 3:35 |
 | 38 | [Claridad](https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0) | [Menudo](https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF) | [15 Años De Historia](https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp) | 4:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWEJ7IcHiFv.md) - [plain]
 | 49 | [Get on Your Feet](https://open.spotify.com/track/7awBgmQ3B0YscMXPBwE1gQ) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Cuts Both Ways](https://open.spotify.com/album/4rPsV2qfjewaH9tAidFVv9) | 3:38 |
 | 50 | [Come Into My Arms](https://open.spotify.com/track/6BD7CmcTMOGQTR2fN4Z8YX) | [Judy Torres](https://open.spotify.com/artist/4xuVMH8UgmZ557rJfWQ08n) | [Judy Torres \- The Greatest Hits](https://open.spotify.com/album/7aOCg1PtLFTnyPjMBRHyc4) | 4:24 |
 
-Snapshot ID: `MCw1YzI4OGQ5MjhjYmRkNzQzY2Y1MTA5ZTE1Mjc5YmEzMDdkMzI1M2Fm`
+Snapshot ID: `MCxmZTAyMjIxMDRhMzk1MGM0YmFlNjhiOWY0NTJlYjJkMjkzM2MwYWFm`

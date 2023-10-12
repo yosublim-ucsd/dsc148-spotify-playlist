@@ -4,13 +4,14 @@
 
 > Diese Beats machen garantiert gute Laune!
 
-68 songs - 3 hr 9 min
+69 songs - 3 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(It Goes Like\) Nanana \- Edit](https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [\(It Goes Like\) Nanana \[Edit\]](https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK) | 3:51 | 2023-09-01 |  |
 | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR) | [Nathan Dawe](https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [21 Reasons \(feat\. Ella Henderson\)](https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc) | 2:35 | 2023-09-01 |  |
-| [adore u](https://open.spotify.com/track/5J0p5VJ7F21Y6TU9EnyrLp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [DJ FESTIVAL \- Tracks for Your DJ Set \- EDM & MORE](https://open.spotify.com/album/33A68Xs0DXak6WPDu7nSJ4) | 3:40 | 2023-10-06 |  |
+| [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-10-11 |  |
+| [adore u](https://open.spotify.com/track/5J0p5VJ7F21Y6TU9EnyrLp) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [DJ FESTIVAL \- Tracks for Your DJ Set \- EDM & MORE](https://open.spotify.com/album/33A68Xs0DXak6WPDu7nSJ4) | 3:40 | 2023-10-06 | 2023-10-12 |
 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 | 2023-09-01 |  |
 | [All You Need Is Love](https://open.spotify.com/track/5yPEJ4UF90Km4KmLl2h4EE) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Nico Santos](https://open.spotify.com/artist/3A9B6c1CrSPauiOblw7pWz) | [All You Need Is Love](https://open.spotify.com/album/6LoQoWCm9bF4dSQI2ZWtXe) | 2:19 | 2023-09-01 |  |
 | [Alright \(feat\. KIDDO\)](https://open.spotify.com/track/1vUOJpWc091SBYULNvz9mp) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo), [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Alright \(feat\. KIDDO\)](https://open.spotify.com/album/0Nn6sMoZFBIUIsy8fpILrI) | 2:49 | 2023-09-01 |  |

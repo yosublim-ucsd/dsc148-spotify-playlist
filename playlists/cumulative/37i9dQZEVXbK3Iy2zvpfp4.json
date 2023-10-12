@@ -2913,6 +2913,24 @@
     },
     {
       "album": {
+        "name": "BAROWEEN",
+        "url": "https://open.spotify.com/album/4fB0W2IUkeN5D0jTWLiK3E"
+      },
+      "artists": [
+        {
+          "name": "DigBar",
+          "url": "https://open.spotify.com/artist/3Kb7e8b1tSd7TLa3cy7HUV"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149511,
+      "name": "BIG DICK RANDY",
+      "url": "https://open.spotify.com/track/7556LMF1GR5QawF5PHLjI7"
+    },
+    {
+      "album": {
         "name": "Big Jet Plane",
         "url": "https://open.spotify.com/album/23tdjMIkPQkeNJX9dS0bLW"
       },
@@ -4916,7 +4934,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 227340,
       "name": "Covet",
       "url": "https://open.spotify.com/track/1AMADyXgIWayh5vXLZo2qF"
@@ -11052,7 +11070,7 @@
       ],
       "date_added": "2022-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-24",
+      "date_removed": null,
       "duration_ms": 246652,
       "name": "I Really Want to Stay at Your House",
       "url": "https://open.spotify.com/track/7mykoq6R3BArsSpNDjFQTm"
@@ -19666,7 +19684,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 135125,
       "name": "Prada (feat. Valexus) - Valexus Remix",
       "url": "https://open.spotify.com/track/1hmI7H4W0ChPH6vfa9i2CQ"

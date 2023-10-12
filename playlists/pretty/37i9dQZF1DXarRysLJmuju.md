@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > Today's pop, featuring Tyla, Teddy Swims and Tate McRae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,711 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,290 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 49 | [A Man Like Me](https://open.spotify.com/track/1pJklQvgj7BmpMrO9E2P3u) | [Johnny Orlando](https://open.spotify.com/artist/6aX6KqXgEcARRHwvWxHcFW) | [The Ride: Part 2](https://open.spotify.com/album/3GD05St31XOYQZ0Hboop4T) | 2:30 |
 | 50 | [Tension](https://open.spotify.com/track/1HteYUSXKUMm6A8vdZid7p) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension](https://open.spotify.com/album/2AormSzZz3LkqREG7mubJA) | 3:36 |
 | 51 | [my last cigarette](https://open.spotify.com/track/1nE1QUt0uhagnrSFoJE04S) | [laye](https://open.spotify.com/artist/0Ae6oW3ISslTTIL7lIcCkn) | [losers](https://open.spotify.com/album/40ZWm8ltztxPHf8J3i3Rsb) | 3:33 |
-| 52 | [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 |
+| 52 | [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/3YQHgTo0898GHXRC2byH52) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:48 |
 | 53 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
 | 54 | [Sleep Without You](https://open.spotify.com/track/2c5u2s4UwS1NXGgx0TVZAL) | [Alyssa Reid](https://open.spotify.com/artist/6okAv2ACUPrUrwux2B17Rc) | [Sleep Without You](https://open.spotify.com/album/5vrUI7qCAVi9bjgszhk7OH) | 2:42 |
 | 55 | [club heaven](https://open.spotify.com/track/1nO6DT2QIYTxwLGrfQvIt3) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [club heaven](https://open.spotify.com/album/119D6p9ScXWYQxWLMv99yn) | 2:11 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 | 99 | [Angel Pt\. 2 \(feat\. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack\)](https://open.spotify.com/track/0ApadYqa3GRQkJJ3E7pQDJ) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY), [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6), [Fast & Furious: The Fast Saga](https://open.spotify.com/artist/1lpOgw56wZLDa8gaP6bSIs) | [Angel Pt\. 2 \(feat\. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack\)](https://open.spotify.com/album/6I0ZEVomYGoOk218KaAlJk) | 2:56 |
 | 100 | [Different](https://open.spotify.com/track/5RSl1dMfQNZFv2TuZYGbmF) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Different](https://open.spotify.com/album/2X5j7Nf3LOJgr1YKFTbwTq) | 3:09 |
 
-Snapshot ID: `MCwzNWQ3ZTM5ODEyMmMzYmVjNDkwZGYwNzcwOWJkYjFmY2VlODQ2YWQ3`
+Snapshot ID: `MCw0Zjc3NzFjOTA1Yzc2YWVmNDE0NTNmNzgzZjY0MTA5MTYwMThiYmI0`

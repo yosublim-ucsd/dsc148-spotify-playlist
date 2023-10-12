@@ -4,7 +4,7 @@
 
 > Fun tracks for your Halloween festivities!
 
-156 songs - 9 hr 26 min
+157 songs - 9 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Ghostbusters \- From "Ghostbusters"](https://open.spotify.com/track/7MnxdIXJd4N4mHCTPNKhkX) | [Ray Parker Jr.](https://open.spotify.com/artist/0NyzfcGDZZ6GM25EBG9BYK) | [Ghostbusters](https://open.spotify.com/album/2FKg8WOQtN015jM0eiKrNz) | 4:05 | 2021-10-27 | 2022-07-29 |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3ouyuc9xevDBsqJ78P71oI) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Dance Disco Mix](https://open.spotify.com/album/1XH1hPdlpKKf6Z3FTyTRQM) | 4:49 | 2022-10-24 | 2022-11-13 |
 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 | 2022-09-23 |  |
+| [Goo Goo Muck](https://open.spotify.com/track/3EEd6ldsPat620GVYMEhOP) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Psychedelic Jungle](https://open.spotify.com/album/111E8uRgwGQo9YJJBvpALn) | 3:06 | 2023-10-11 |  |
 | [Graveyard](https://open.spotify.com/track/2ufmtcIFdFpuUYBPXK5f67) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 3:01 | 2021-10-27 | 2022-09-24 |
 | [Graveyard](https://open.spotify.com/track/6V9fHiv84WlVTg7CSnIVY2) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Graveyard](https://open.spotify.com/album/66QwiCFDLtRbrZ5Vs9wlL9) | 3:01 | 2021-10-27 | 2022-07-29 |
 | [Heads Will Roll \- A\-Trak Remix](https://open.spotify.com/track/2idmlkd8oUaQvYEtINpLBX) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt) | [Heads Will Roll](https://open.spotify.com/album/4HYlbaWDkCNXXNWQEYl9sV) | 6:23 | 2021-10-27 |  |

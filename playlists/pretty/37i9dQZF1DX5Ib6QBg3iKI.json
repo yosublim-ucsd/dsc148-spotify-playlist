@@ -1,12 +1,12 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 125424,
+  "num_followers": 125385,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YTJlYzYwMTRhYjQwMWYwYTQ4ODc1ZWZjYmNjMmNmNzA5NWMyNDcw",
+  "snapshot_id": "MCw4Njg1MzhmZWIwYWU5MGUyZjg4MjhiOTIwZGIzODhkMWRiMjJhODQ3",
   "tracks": [
     {
       "added_at": "2022-11-18 01:05:05",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "The Lighthouse Keeper",
-        "url": "https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 247493,
-      "name": "The Lighthouse Keeper",
-      "url": "https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "I Need You Christmas",
         "url": "https://open.spotify.com/album/6ag1TA7jYSh8NjFtBL9bFR"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 206066,
       "name": "I Need You Christmas",
       "url": "https://open.spotify.com/track/0viGbbEJ9xV6qNJsTaXruz"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "The Lighthouse Keeper",
+        "url": "https://open.spotify.com/album/30Nf68hbXjDvoacY0K5fFB"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 247493,
+      "name": "The Lighthouse Keeper",
+      "url": "https://open.spotify.com/track/2WUVQQAsWvScEdBVilRYaR"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -821,22 +821,6 @@
       "url": "https://open.spotify.com/track/7Al57JVDx4Cgj0KMDxJNKF"
     },
     {
-      "added_at": "2022-12-09 00:00:00",
-      "album": {
-        "name": "My Favorite Things",
-        "url": "https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt"
-      },
-      "artists": [
-        {
-          "name": "Ari Lennox",
-          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
-        }
-      ],
-      "duration_ms": 191378,
-      "name": "My Favorite Things",
-      "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
-    },
-    {
       "added_at": "2022-11-18 01:05:05",
       "album": {
         "name": "The King of Soul",
@@ -851,6 +835,22 @@
       "duration_ms": 155560,
       "name": "Merry Christmas Baby",
       "url": "https://open.spotify.com/track/38TPb3dSy1iUHx4fmET4gM"
+    },
+    {
+      "added_at": "2022-12-09 00:00:00",
+      "album": {
+        "name": "My Favorite Things",
+        "url": "https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt"
+      },
+      "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        }
+      ],
+      "duration_ms": 191378,
+      "name": "My Favorite Things",
+      "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -935,22 +935,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "Day After Tomorrow",
-        "url": "https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 221906,
-      "name": "Christmas Song",
-      "url": "https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "Come On Home For Christmas",
         "url": "https://open.spotify.com/album/4KlC710kadWxr84G8JTMsn"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 183556,
       "name": "Driving Home for Christmas",
       "url": "https://open.spotify.com/track/7rKReK7ssi1Lu5wXuNwI0i"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/0nLUl1qxZ1CTd1fRGUg0G4"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 221906,
+      "name": "Christmas Song",
+      "url": "https://open.spotify.com/track/2LZ1OMHCc5eFOmJh0RA3la"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
+        "name": "Carol Of The Bells",
+        "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
+      },
+      "artists": [
+        {
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+        }
+      ],
+      "duration_ms": 193379,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
         "name": "Kiss Me It's Christmas (feat. Ne-Yo)",
         "url": "https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 266922,
       "name": "Missing You",
       "url": "https://open.spotify.com/track/4OycJbuzBOCAl7SDH0U2MO"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
-        "name": "Carol Of The Bells",
-        "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
-      },
-      "artists": [
-        {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
-        }
-      ],
-      "duration_ms": 193379,
-      "name": "Carol Of The Bells",
-      "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
     },
     {
       "added_at": "2022-11-18 01:05:05",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2022-11-18 01:05:05",
       "album": {
-        "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
-        "url": "https://open.spotify.com/album/3JbFpGAcLNqPYrJOlg9nM6"
-      },
-      "artists": [
-        {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
-        }
-      ],
-      "duration_ms": 170459,
-      "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
-      "url": "https://open.spotify.com/track/58slbodEk0CkLmnGRf2La2"
-    },
-    {
-      "added_at": "2022-11-18 01:05:05",
-      "album": {
         "name": "I Dream Of Christmas (Extended)",
         "url": "https://open.spotify.com/album/0Yn0lja0EAPbCZptiHw4Pj"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 240257,
       "name": "Christmastime",
       "url": "https://open.spotify.com/track/1qQFeYlob4mNY2Q2ZLRsqk"
+    },
+    {
+      "added_at": "2022-11-18 01:05:05",
+      "album": {
+        "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
+        "url": "https://open.spotify.com/album/3JbFpGAcLNqPYrJOlg9nM6"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "duration_ms": 170459,
+      "name": "What The World Needs Now (In Aid of The Hygiene Bank)",
+      "url": "https://open.spotify.com/track/58slbodEk0CkLmnGRf2La2"
     },
     {
       "added_at": "2022-11-18 01:05:05",

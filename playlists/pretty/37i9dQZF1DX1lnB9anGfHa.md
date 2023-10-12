@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > A journey into the unknown, dark, and experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,493 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 207,552 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,18 +29,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 19 | [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 |
 | 20 | [V](https://open.spotify.com/track/3Sk8oGy02QK1eZ52A2BYyI) | [Of The Muses](https://open.spotify.com/artist/0bYSzLLgzeNiGoEsAYg2Ch) | [V](https://open.spotify.com/album/6I2ZYYta7J2bTkh1UMe8zm) | 8:46 |
 | 21 | [AS Too Wrong](https://open.spotify.com/track/74wUpuW4tRQJJGiucm4JfJ) | [Amnesia Scanner](https://open.spotify.com/artist/2J3LwjEkmryU6BSAubwbMF) | [Another Life](https://open.spotify.com/album/0H6yPrBlXON15blsgmA4Aq) | 4:14 |
-| 22 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 |
-| 23 | [American Coffee](https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 6:02 |
+| 22 | [American Coffee](https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 6:02 |
+| 23 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 |
 | 24 | [Deep Sea](https://open.spotify.com/track/4EqDAxDuFSsRFaxQRlpsCm) | [Madison McFerrin](https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e) | [I Hope You Can Forgive Me](https://open.spotify.com/album/5xnIsq0jfWIPXRgiAEZtK5) | 0:55 |
 | 25 | [Not the News](https://open.spotify.com/track/3ejjAD15KNXGwRG1lQMFPI) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [ANIMA](https://open.spotify.com/album/5DDPFOJVHhc93OlqirbAtm) | 3:57 |
 | 26 | [Trececerotres](https://open.spotify.com/track/2YIhvE2LGV58BDeINvSRbx) | [Daniela Lalita](https://open.spotify.com/artist/2eblCDvXEKYYapO1uchGds) | [Trececerotres](https://open.spotify.com/album/5ENBXjQ6oBDLq0AD6YfPTO) | 2:15 |
-| 27 | [What They Call Us](https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 4:27 |
-| 28 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
+| 27 | [Atlantic Diva](https://open.spotify.com/track/5Rvvv94WBHJ7xBTv4wDqzV) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Atlantic Diva](https://open.spotify.com/album/5oQr6pVVI2D7lpvDM04QbV) | 4:03 |
+| 28 | [Chills Me to the Bone](https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Fall to Pieces](https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO) | 2:16 |
 | 29 | [Makkuroi Mizu](https://open.spotify.com/track/5TZf5KFfpJ5Vjb39z3QRR5) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 6:03 |
 | 30 | [MY BLACK CAT](https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq) | [Nana Nina](https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB) | [MY BLACK CAT](https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ) | 2:29 |
-| 31 | [Chills Me to the Bone](https://open.spotify.com/track/1TEHus4OKe6OsoABt5rASX) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Marta](https://open.spotify.com/artist/0yz9lVc98Tji7yjwkUe7l7) | [Fall to Pieces](https://open.spotify.com/album/6In2HeTX6Web6mNHcamTOO) | 2:16 |
-| 32 | [drowning](https://open.spotify.com/track/5xu47rMH8NorKBej7fWeTi) | [kraymira](https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn) | [drowning](https://open.spotify.com/album/2t4svv2IxvyBnBqDaW0H1g) | 2:18 |
-| 33 | [страх](https://open.spotify.com/track/3nLrrqiK2mDKpazMEQhGHC) | [источник](https://open.spotify.com/artist/0RNBJmKvby1OTsxA1tobZi) | [POP TRIP](https://open.spotify.com/album/0p5ymdzYc3BbVR7Z40x0V8) | 3:23 |
+| 31 | [drowning](https://open.spotify.com/track/5xu47rMH8NorKBej7fWeTi) | [kraymira](https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn) | [drowning](https://open.spotify.com/album/2t4svv2IxvyBnBqDaW0H1g) | 2:18 |
+| 32 | [страх](https://open.spotify.com/track/3nLrrqiK2mDKpazMEQhGHC) | [источник](https://open.spotify.com/artist/0RNBJmKvby1OTsxA1tobZi) | [POP TRIP](https://open.spotify.com/album/0p5ymdzYc3BbVR7Z40x0V8) | 3:23 |
+| 33 | [What They Call Us](https://open.spotify.com/track/71ydsZmj3wLbdMkA6FPZIy) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 4:27 |
 | 34 | [Karada](https://open.spotify.com/track/0RtKOGhS4fhGkeZFjnZ5cq) | [Marina Herlop](https://open.spotify.com/artist/4ZG4S6skttdVhHz08AjMhR) | [Karada](https://open.spotify.com/album/5tosvcZsTBykv6eZQ8nxbk) | 4:38 |
 | 35 | [Archeological Longing](https://open.spotify.com/track/3yrogOJPrt7rbnpIdIPNIe) | [Elaine Howley](https://open.spotify.com/artist/3STzxp6cfWNNQVcAQWYZgh) | [The Distance Between Heart And Mouth](https://open.spotify.com/album/2zXMfKxsrjOpTRfoYiGtQu) | 3:53 |
 | 36 | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/track/3njtYpKsQTnuKYVmIFLtaE) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx), [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ) | 4:02 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 42 | [Are You Doing This to Hurt Me](https://open.spotify.com/track/0cfDDqPuyrpyVuxMzdotk0) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [B\-Sides & Rarities: Volume 1](https://open.spotify.com/album/27sproEBf122MWgqS30BiI) | 3:48 |
 | 43 | [Noche](https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6) | [Fuensanta](https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD) | [Noche](https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph) | 3:57 |
 | 44 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 |
-| 45 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
-| 46 | [Music Is The Drug](https://open.spotify.com/track/1BWGyrR8iDDXwhXmE5xmQQ) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8) | [Music Is The Drug](https://open.spotify.com/album/0tsuOcwGUKiitJ5ZbtwDiN) | 3:39 |
+| 45 | [Music Is The Drug](https://open.spotify.com/track/1BWGyrR8iDDXwhXmE5xmQQ) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8) | [Music Is The Drug](https://open.spotify.com/album/0tsuOcwGUKiitJ5ZbtwDiN) | 3:39 |
+| 46 | [Close](https://open.spotify.com/track/1CIx89XwJuePwZchjrHudW) | [Johan Graden](https://open.spotify.com/artist/0mASxX1wZrJJQzv1ZiRxak), [Ellen Arkbro](https://open.spotify.com/artist/7cFSj2thh5HO4mnVZHP7nn) | [Close](https://open.spotify.com/album/5kmzOIqlnSKxGTj0BCc47u) | 5:20 |
 | 47 | [Who Gives a Thought](https://open.spotify.com/track/0IqZcNlUn3LALc6zwo1wxV) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:59 |
 | 48 | [Teeth Agape](https://open.spotify.com/track/5xi07QPZNbBs6MmKsGhrd1) | [Tanya Tagaq](https://open.spotify.com/artist/2WIb75pwIt78VCAhAtPObY) | [Tongues](https://open.spotify.com/album/565j8hb4CaU9pWZSz7tVMh) | 3:35 |
 | 49 | [Me Acoplo](https://open.spotify.com/track/0MuFAufcq283OanYu5Ku8X) | [Párpados](https://open.spotify.com/artist/1gbutEmKJfSHRgXoTyEQO7) | [Párpados](https://open.spotify.com/album/3FMot3T0ERF8jjJZ1Guoov) | 4:00 |
 | 50 | [Tectonic](https://open.spotify.com/track/2ghaHr9ExEOlqN3gOFzWUY) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [Tectonic](https://open.spotify.com/album/3VZtu7girTT5vEWivWj3oC) | 4:37 |
 
-Snapshot ID: `MCxiNThiZTc3MDFjZDc1NmFiOWQ5MmU2OTFhM2FmMjIyNTNlOGM3ZTk4`
+Snapshot ID: `MCwzZTkyMTQ1ZTlhOTk1YjBlZjRlZDJkZWE2NmYwMjZhOTBiMDIzZTRh`

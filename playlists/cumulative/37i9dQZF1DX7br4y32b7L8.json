@@ -850,10 +850,40 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 129522,
       "name": "Dance For Me (1, 2, 3)",
       "url": "https://open.spotify.com/track/2Gjo6E7ZemzmLzNUMRg6ac"
+    },
+    {
+      "album": {
+        "name": "Dance For Me (1, 2, 3) [Stutter Techno]",
+        "url": "https://open.spotify.com/album/25YdkG6ZzOjou6uNQaC0NY"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        },
+        {
+          "name": "ZANA",
+          "url": "https://open.spotify.com/artist/34lIancN28qj7jD4JxYOdE"
+        },
+        {
+          "name": "Quinten Circle",
+          "url": "https://open.spotify.com/artist/6dcF1Pcj5BlCkSK9FF96GG"
+        },
+        {
+          "name": "Lyente",
+          "url": "https://open.spotify.com/artist/3vGgjydudbzEp2r9PmqHc0"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147895,
+      "name": "Dance For Me (1, 2, 3) - Stutter Techno",
+      "url": "https://open.spotify.com/track/3JLpwzhVvYeotNSI4izQUV"
     },
     {
       "album": {
@@ -4238,6 +4268,24 @@
       "duration_ms": 137142,
       "name": "Stray Nights",
       "url": "https://open.spotify.com/track/6HIQWdDMDI98njEeOylwkS"
+    },
+    {
+      "album": {
+        "name": "SUPARO (SPEED UP)",
+        "url": "https://open.spotify.com/album/2rygY1Vjrl34eG7IJ9wJFa"
+      },
+      "artists": [
+        {
+          "name": "WAYNE FLENORY",
+          "url": "https://open.spotify.com/artist/6SZwuzkYiQwQIFMJ6VHCIV"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118215,
+      "name": "SUPARO - SPEED UP",
+      "url": "https://open.spotify.com/track/7sf9InBTBA24jMwMHpiq2K"
     },
     {
       "album": {

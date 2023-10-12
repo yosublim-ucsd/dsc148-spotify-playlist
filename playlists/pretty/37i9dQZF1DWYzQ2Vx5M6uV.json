@@ -1,12 +1,12 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Feid & Rema",
-  "num_followers": 114485,
+  "num_followers": 114403,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjYmUyOTlhMmUwMmY3YjMyZTFiZTA1ZmE0NTliZDllYWY4ZjdiNWIz",
+  "snapshot_id": "MCxhMzk0NDI0NzA1ODZhMDVkMjVmMTYxZjFkMWViMDM1ODFiMTJiYThk",
   "tracks": [
     {
       "added_at": "2023-09-22 06:08:09",
@@ -379,26 +379,6 @@
     {
       "added_at": "2023-09-22 06:08:09",
       "album": {
-        "name": "Cough",
-        "url": "https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        }
-      ],
-      "duration_ms": 177680,
-      "name": "Cough",
-      "url": "https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV"
-    },
-    {
-      "added_at": "2023-09-22 06:08:09",
-      "album": {
         "name": "Mama Tetema (feat. Rayvanny)",
         "url": "https://open.spotify.com/album/05Qli4IZBlwPnBHcMdmF0z"
       },
@@ -415,6 +395,26 @@
       "duration_ms": 188087,
       "name": "Mama Tetema (feat. Rayvanny)",
       "url": "https://open.spotify.com/track/0nuTnOboL7Zaaqm76CQHEk"
+    },
+    {
+      "added_at": "2023-09-22 06:08:09",
+      "album": {
+        "name": "Cough",
+        "url": "https://open.spotify.com/album/0H0fVt4IgYrsTJGfWxPJfx"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        }
+      ],
+      "duration_ms": 177680,
+      "name": "Cough",
+      "url": "https://open.spotify.com/track/2SggWVBRvkOmtQRfbKh6sV"
     },
     {
       "added_at": "2023-09-22 06:08:09",
@@ -847,22 +847,6 @@
     {
       "added_at": "2023-09-22 06:08:09",
       "album": {
-        "name": "WONDALAND",
-        "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "MOSLADO",
-      "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
-    },
-    {
-      "added_at": "2023-09-22 06:08:09",
-      "album": {
         "name": "Guava Rose",
         "url": "https://open.spotify.com/album/5s6AYaudqnGc8v3OhscQvs"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 192108,
       "name": "Guava Rose",
       "url": "https://open.spotify.com/track/2sTIxJiG84ewMHTGrg1zBK"
+    },
+    {
+      "added_at": "2023-09-22 06:08:09",
+      "album": {
+        "name": "WONDALAND",
+        "url": "https://open.spotify.com/album/2a4aRlgreoL2pMyh0fLczw"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "MOSLADO",
+      "url": "https://open.spotify.com/track/3n8cVzL2mibNoBC6aR5lo0"
     },
     {
       "added_at": "2023-09-22 06:08:09",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2023-09-22 06:08:09",
       "album": {
-        "name": "No Wahala (Latin Remix)",
-        "url": "https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz"
-      },
-      "artists": [
-        {
-          "name": "1da Banton",
-          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
-        },
-        {
-          "name": "Brytiago",
-          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
-        }
-      ],
-      "duration_ms": 157523,
-      "name": "No Wahala - Latin Remix",
-      "url": "https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4"
-    },
-    {
-      "added_at": "2023-09-22 06:08:09",
-      "album": {
         "name": "Zimenice",
         "url": "https://open.spotify.com/album/36Hqg2CAuLs8mi5G75I6H0"
       },
@@ -1103,6 +1083,26 @@
       "duration_ms": 212307,
       "name": "Zimenice",
       "url": "https://open.spotify.com/track/3glO3AnPdXGhYxJVvMMY18"
+    },
+    {
+      "added_at": "2023-09-22 06:08:09",
+      "album": {
+        "name": "No Wahala (Latin Remix)",
+        "url": "https://open.spotify.com/album/4QGp54NmocX8ptDWOJrRTz"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        }
+      ],
+      "duration_ms": 157523,
+      "name": "No Wahala - Latin Remix",
+      "url": "https://open.spotify.com/track/2wzmZNutkmbhv0rNCHvPz4"
     },
     {
       "added_at": "2023-09-22 06:08:09",

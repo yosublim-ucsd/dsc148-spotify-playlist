@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "Una troka sali\u00f3 de Durango a las 2 o 3 de la ma\u00f1ana \ud83d\udc83\ud83c\udffd\ud83d\udd7a\ud83c\udffd Cosechando los \u00e9xitos del internet \ud83e\udd20",
+  "description": "Si te hago tanto mal, mejor d\u00e9jame tranquilo antes que se rompa el hilo que qued\u00f3 \ud83d\ude2b\ud83d\ude2a Cosechando los \u00e9xitos del internet \ud83e\udd20",
   "name": "Rancho Viral",
   "tracks": [
     {
@@ -548,7 +548,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 170297,
       "name": "El Jefe",
       "url": "https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o"
@@ -1208,6 +1208,24 @@
       "duration_ms": 191558,
       "name": "Mood Malandro",
       "url": "https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA"
+    },
+    {
+      "album": {
+        "name": "O Me Voy O Te Vas",
+        "url": "https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242133,
+      "name": "O Me Voy O Te Vas",
+      "url": "https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ"
     },
     {
       "album": {

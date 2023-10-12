@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,738 likes - 75 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,735 likes - 75 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 74 | [Silvia](https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 5:36 |
 | 75 | [Me Gusta Tu Chava](https://open.spotify.com/track/3w4AROEjy3xNq7hBvKXbN0) | [Mara](https://open.spotify.com/artist/5NpJ55eRhoWSrnPwJkpmCA) | [Para Coleccionistas, Vol\. 1](https://open.spotify.com/album/19F5N6hIdQfpCuRqyVmjGf) | 3:22 |
 
-Snapshot ID: `MCw3ODNhODAwYmI1ZTI5YTgzMGQ2MzgyN2ZjZjZmNWJiOWIzM2VjZDVi`
+Snapshot ID: `MCxmYzVmNjg4YmJmYWUzMzFkZGE5M2JmNjVhZGFlMGQzZTJjYmNiMWUw`

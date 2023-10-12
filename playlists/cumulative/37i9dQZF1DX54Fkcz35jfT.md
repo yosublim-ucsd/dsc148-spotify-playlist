@@ -4,7 +4,7 @@
 
 > 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: FZMZ
 
-168 songs - 9 hr 44 min
+170 songs - 9 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,8 @@
 | [Sad Song](https://open.spotify.com/track/7A6FL46PS9sa4xLKmUYvFP) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [PLAYDEAD](https://open.spotify.com/album/0KINjwUwxK2iRQIqVwQSmv) | 3:23 | 2023-08-22 | 2023-08-24 |
 | [Salamander](https://open.spotify.com/track/4oQXYIYJ6Kxc89KrhoZTYq) | [ELLEGARDEN](https://open.spotify.com/artist/3cbd5GWGOknxmFAe77MDbk) | [ELEVEN FIRE CRACKERS](https://open.spotify.com/album/62h711GD0PJcK2HfqO7dmB) | 3:46 | 2023-07-20 |  |
 | [Save Yourself](https://open.spotify.com/track/5D5fiDX8MhK3lfHJmZZmpt) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Luxury Disease](https://open.spotify.com/album/7bR908SDBENoC7rqC0k4h4) | 3:17 | 2023-07-20 |  |
-| [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 | 2023-10-10 |  |
+| [Say My Name](https://open.spotify.com/track/06YNVx8q2zF84s8SfGbxMC) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/0Z1B02ZtMcAtgluiIWZTMB) | 1:48 | 2023-10-10 |  |
+| [Say My Name](https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Say My Name](https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6) | 1:48 | 2023-10-10 | 2023-10-12 |
 | [scorpion.](https://open.spotify.com/track/3JGeI4YN3Luqsvo0EXjXND) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [scorpion.](https://open.spotify.com/album/572kvsrM2Jb4EmO93m65Om) | 2:43 | 2023-08-08 |  |
 | [SLAM](https://open.spotify.com/track/1RPGY7aKPL5A5PVBimkbHW) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [コリンズ](https://open.spotify.com/album/2WaRUGRx1I5uRs0hrMEFYk) | 2:48 | 2023-07-20 |  |
 | [SLAY!!](https://open.spotify.com/track/5r2ctEKO9aSEudC85lqZZT) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Hideyoshi](https://open.spotify.com/artist/6CYau5txsDk6Flq7NmlUG7) | [SLAY!!](https://open.spotify.com/album/1Si2sHK43ZueadlTaBP6bO) | 3:12 | 2023-07-20 |  |
@@ -151,7 +152,8 @@
 | [yoake](https://open.spotify.com/track/71wrW2jUPnOX48WfMZRFfA) | [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [yoake](https://open.spotify.com/album/5jugeblIbCduKGADB7Y09A) | 4:49 | 2023-07-20 |  |
 | [Your Head](https://open.spotify.com/track/3B4WNqMYRAfGmxlVMoilyh) | [Survive Said The Prophet](https://open.spotify.com/artist/7zyObVag8rUjItn71SkIrh) | [Inside Your Head](https://open.spotify.com/album/7fS687f0QR3bCyjMgDATWd) | 3:34 | 2023-07-20 |  |
 | [アンビシャス](https://open.spotify.com/track/7svD5Sa5WNmvEpflWbUkhR) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [アンビシャス](https://open.spotify.com/album/7IUZ67rVQ6jOffOzVjrMTr) | 3:06 | 2023-07-20 | 2023-09-01 |
-| [オリジナルスクープ](https://open.spotify.com/track/6coXH7cxTNneEHPbXvCmNA) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [オリジナルスクープ](https://open.spotify.com/album/1v2jwsiT9SYoMBRY7QnXHH) | 3:43 | 2023-10-10 |  |
+| [オリジナルスクープ](https://open.spotify.com/track/4XFDyEOJLCDYstSNPDqLnS) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [オリジナルスクープ](https://open.spotify.com/album/0Hh76GBDwAZUUiaNHTPUKZ) | 3:43 | 2023-10-10 |  |
+| [オリジナルスクープ](https://open.spotify.com/track/6coXH7cxTNneEHPbXvCmNA) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [オリジナルスクープ](https://open.spotify.com/album/1v2jwsiT9SYoMBRY7QnXHH) | 3:43 | 2023-10-10 | 2023-10-12 |
 | [オルゴール](https://open.spotify.com/track/6kB4btTmWACdBpdA73J1jE) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/5I6CzPDYR0shw9mccGC8BH) | 4:11 | 2023-07-20 | 2023-09-27 |
 | [ギミ¥エン\~Give me yen](https://open.spotify.com/track/4DMxsnb7a1AT1j11z8M4rC) | [BACKSHOW](https://open.spotify.com/artist/3mD0HSVVmh2kNCfbdDlF1D) | [ギミ¥エン\~Give me yen](https://open.spotify.com/album/7cO4cBDEdMvJqzk04iye21) | 3:05 | 2023-08-08 |  |
 | [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 | 2023-07-20 |  |
@@ -167,7 +169,7 @@
 | [寂寞 \-sekibaku\-](https://open.spotify.com/track/2CTniBM95HMN060rKGccXW) | [ROTTENGRAFFTY](https://open.spotify.com/artist/5VLauD4FsZKQzCZEuJsxSj) | [PLAY](https://open.spotify.com/album/6qq2rGeaSuxtn4szFhLMVg) | 4:11 | 2023-08-31 | 2023-09-12 |
 | [恋のメガラバ](https://open.spotify.com/track/7cML1VOtaxsPH1EkktvVq6) | [コロナナモレモモ](https://open.spotify.com/artist/1LrHPFKVeA6Lw0vffeFZbr) | [恋のメガラバ / G'old〜en〜Guy \(D×D remix\) \[feat\. Misaki\]](https://open.spotify.com/album/3zf6cTsrsFWo0YyBdc7IsU) | 5:24 | 2023-07-20 |  |
 | [扉の向こう](https://open.spotify.com/track/5EMnOE5ZsMDWl6eQRCj2zY) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [Catch Up](https://open.spotify.com/album/7xmycezoMiRbUKwZ50B3CH) | 3:56 | 2023-10-10 |  |
-| [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:41 | 2023-07-20 |  |
+| [曖昧](https://open.spotify.com/track/46LzUNQbhoNBTcBNp0dtsH) | [WANIMA](https://open.spotify.com/artist/6YqdtpUutxodni6lUD4stM) | [曖昧](https://open.spotify.com/album/3BRmcqCvRvH8QVFfiAU5bY) | 3:42 | 2023-07-20 |  |
 | [東京ミッドナイト](https://open.spotify.com/track/6yOsud5tOWwu4Hj43cW7Vc) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [東京ミッドナイト](https://open.spotify.com/album/30LuOfT2yzjCCL8LNFrUUr) | 3:46 | 2023-07-20 |  |
 | [狼煙 \~NOROSHI\~](https://open.spotify.com/track/547Im5wAI41MbizqxJKVGX) | [湾岸の羊\~Sheep living on the edge\~](https://open.spotify.com/artist/3tB2xQ555Rr6YiseCfzomT) | [2020 Rising Sun](https://open.spotify.com/album/1fvd9Nv53M8CFLZXkf0WzL) | 6:31 | 2023-07-20 | 2023-08-16 |
 | [着火繚乱ビンビンビン](https://open.spotify.com/track/5MSgh1ZQRZVatwmkaVmZJ9) | [Happy Heads NANIYORI](https://open.spotify.com/artist/6jkKuw4J4SWKrPQCcPGEYl) | [着火繚乱ビンビンビン](https://open.spotify.com/album/1qA3RuMk75Hu8DcBcy9UTs) | 3:22 | 2023-08-08 | 2023-08-10 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Rap from the hoods of Dilli featuring Panther",
+  "description": "Rap from the hoods of Dilli featuring Dakait, Sez on the beat",
   "name": "Dillihood",
   "tracks": [
     {
@@ -96,7 +96,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 171450,
       "name": "Abey Yaar",
       "url": "https://open.spotify.com/track/5S2MwJBXp4JTC9r16btsJv"
@@ -195,6 +195,28 @@
     },
     {
       "album": {
+        "name": "Dev Nagri Aur Main",
+        "url": "https://open.spotify.com/album/0CWCtQbEiN1QAEGamNhLk6"
+      },
+      "artists": [
+        {
+          "name": "Dakait",
+          "url": "https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7"
+        },
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196797,
+      "name": "Balawala Bad Bois",
+      "url": "https://open.spotify.com/track/2v692a5boFb35NymerzqRH"
+    },
+    {
+      "album": {
         "name": "Banjo",
         "url": "https://open.spotify.com/album/3aMIti8KE9DcHRmKQk8Prt"
       },
@@ -246,7 +268,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 212250,
       "name": "Batman",
       "url": "https://open.spotify.com/track/0x5itC1IF7WtrA7lJUmIbf"
@@ -403,6 +425,32 @@
     },
     {
       "album": {
+        "name": "Dev Nagri Aur Main",
+        "url": "https://open.spotify.com/album/0CWCtQbEiN1QAEGamNhLk6"
+      },
+      "artists": [
+        {
+          "name": "Dakait",
+          "url": "https://open.spotify.com/artist/2BrIU10C4UeoaDFgPg44Y7"
+        },
+        {
+          "name": "Sez on the Beat",
+          "url": "https://open.spotify.com/artist/7hI0IRD66iykVpXiieNRbe"
+        },
+        {
+          "name": "2FISTD",
+          "url": "https://open.spotify.com/artist/08e2eWa0q9i4FZS6n8V4Rs"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200668,
+      "name": "Dan Dana Dan",
+      "url": "https://open.spotify.com/track/0kHTc09EST4a4fOJnXL6zl"
+    },
+    {
+      "album": {
         "name": "Desktop",
         "url": "https://open.spotify.com/album/7AqO9vYUFXCA4sL1clxoJk"
       },
@@ -518,7 +566,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 178245,
       "name": "Feel Hai",
       "url": "https://open.spotify.com/track/5HPo4dz4rvFaKBdcE8Ss9l"
@@ -540,7 +588,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 200106,
       "name": "Flex",
       "url": "https://open.spotify.com/track/1BjFMR7Cb8yaQyOsZBszML"
@@ -654,7 +702,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 213793,
       "name": "Goat Dekho",
       "url": "https://open.spotify.com/track/0rpcam9O6KfmWqSYp4q8PM"
@@ -1024,7 +1072,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 179200,
       "name": "Kya Haal Hai Bro?",
       "url": "https://open.spotify.com/track/1rgth5QwNoJ1N8NmR6Xw5B"
@@ -1094,7 +1142,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 234358,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/5PJtYb15Li1uo6EWNFWif6"
@@ -1160,7 +1208,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 228235,
       "name": "Living Legend",
       "url": "https://open.spotify.com/track/5jaV01AxZDomsbwVAAZfxN"
@@ -1222,7 +1270,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 267486,
       "name": "Maujjan",
       "url": "https://open.spotify.com/track/30IqFmWVT7cZtyrD9sYdji"
@@ -1270,7 +1318,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 260000,
       "name": "Nahi Hai Woh",
       "url": "https://open.spotify.com/track/5ABFNlJxjH3fgI41ePqgZd"
@@ -1454,7 +1502,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 141818,
       "name": "PEW PEW!",
       "url": "https://open.spotify.com/track/7zpmshT8nkJEgPnR8XfUdW"
@@ -1678,7 +1726,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 138823,
       "name": "Sath Chalegi",
       "url": "https://open.spotify.com/track/0mTscimdid589rZpKNJZPu"
@@ -1718,7 +1766,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 228777,
       "name": "Sehwag",
       "url": "https://open.spotify.com/track/5jOAVIOdsTusLQaHmGz2bj"
@@ -1736,7 +1784,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 210731,
       "name": "Sheher",
       "url": "https://open.spotify.com/track/5fbKzbj3GMXvWpyBUAhXnJ"
@@ -2073,6 +2121,32 @@
     },
     {
       "album": {
+        "name": "War",
+        "url": "https://open.spotify.com/album/0cGxD9dl9g9iTt0LXN3oTY"
+      },
+      "artists": [
+        {
+          "name": "MassQline",
+          "url": "https://open.spotify.com/artist/0kMK558QxTuQu1uvWJKuvh"
+        },
+        {
+          "name": "Hardbone boy",
+          "url": "https://open.spotify.com/artist/6YNVY8546Vw6bVjsmUpQPx"
+        },
+        {
+          "name": "HYKE",
+          "url": "https://open.spotify.com/artist/7yPtNp2UpTp2wYUEdM8k1O"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200479,
+      "name": "War",
+      "url": "https://open.spotify.com/track/6mRccKSAN4IChtUsnAzVGl"
+    },
+    {
+      "album": {
         "name": "WOH",
         "url": "https://open.spotify.com/album/0hYH2JNegSbU72fmNnQ3LW"
       },
@@ -2140,7 +2214,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 192611,
       "name": "Zaruri Nahi",
       "url": "https://open.spotify.com/track/6JLBvPFd61Y0t7scB9TxEH"

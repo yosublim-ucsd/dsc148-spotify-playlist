@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > Celebra el eclipse con canciones de sol y luna 🌞🌑🌕
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,365 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,385 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 | 45 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 |
 | 46 | [A Forest \- 2006 Remaster](https://open.spotify.com/track/3O4TPMOgChXOerSdB5WENH) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Seventeen Seconds \(Deluxe Edition\)](https://open.spotify.com/album/1T7A6Dt7KktX7pOw4I4Jzj) | 5:54 |
 | 47 | [Moon](https://open.spotify.com/track/0tffNoL4418lhzZmJJFNB7) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda \(Deluxe\)](https://open.spotify.com/album/2Wiyo7LzdeBCsVZiRA6vVZ) | 2:36 |
-| 48 | [Svefn\-g\-englar](https://open.spotify.com/track/07eGxuz8bL6QMsRqEe1Adu) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ágætis byrjun](https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC) | 10:06 |
-| 49 | [Tranquility Base Hotel & Casino](https://open.spotify.com/track/2URDbWGmPz3vhagl25p8OC) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 3:31 |
+| 48 | [Tranquility Base Hotel & Casino](https://open.spotify.com/track/2URDbWGmPz3vhagl25p8OC) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Tranquility Base Hotel & Casino](https://open.spotify.com/album/7v6FNgLDS8KmaWA1amUtqe) | 3:31 |
+| 49 | [Svefn\-g\-englar](https://open.spotify.com/track/07eGxuz8bL6QMsRqEe1Adu) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy) | [Ágætis byrjun](https://open.spotify.com/album/1DMMv1Kmoli3Y9fVEZDUVC) | 10:06 |
 | 50 | [Sol, arena y mar](https://open.spotify.com/track/3pJlTmnEjkf1u9Bualfo8X) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Amarte Es Un Placer](https://open.spotify.com/album/59hPa94rgOLoOBKHz98i7n) | 3:17 |
 
-Snapshot ID: `MCxkMGM2OTJiMjZmOTdjMTQwYWI0MDNmNmQ4OWNlZmU5MTYwNGU0MmZm`
+Snapshot ID: `MCw3YzcyZGJhNWMwZDRkMmVhMjhlMGI4MmYyNjNkNDI0ODE4NzNlYWZm`

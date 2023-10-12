@@ -5276,7 +5276,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 168254,
       "name": "Karma",
       "url": "https://open.spotify.com/track/1bI9r5cGAL2D1GqOON37Gg"
@@ -12212,6 +12212,28 @@
       "duration_ms": 300000,
       "name": "Voc\u00ea N\u00e3o Ama Ningu\u00e9m 2",
       "url": "https://open.spotify.com/track/1luax01sYxCLiM5uVk0oBj"
+    },
+    {
+      "album": {
+        "name": "DARK POP",
+        "url": "https://open.spotify.com/album/34Cq3Hc8acmmyF4Np0Bs1a"
+      },
+      "artists": [
+        {
+          "name": "Cleo",
+          "url": "https://open.spotify.com/artist/0Re3qA28AJh2eIITpbREtx"
+        },
+        {
+          "name": "CHAMELEO",
+          "url": "https://open.spotify.com/artist/2ZteSwWooU45Mec1C2EdA0"
+        }
+      ],
+      "date_added": "2023-10-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146224,
+      "name": "Voc\u00ea N\u00e3o Sabe Amar",
+      "url": "https://open.spotify.com/track/1oUksabtI48IdGhcBkzjHn"
     },
     {
       "album": {

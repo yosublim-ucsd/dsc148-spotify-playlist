@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 
 > Feiern mit den größten aktuellen Partyhits.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,271,696 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,271,258 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 31 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 |
 | 32 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 |
 | 33 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 |
-| 34 | [She Knows \- with Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(with Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 |
-| 35 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
+| 34 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 |
+| 35 | [She Knows \- with Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(with Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 |
 | 36 | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p) | [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Kernkraft 400 \(A Better Day\)](https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3) | 2:45 |
 | 37 | [All Nighter](https://open.spotify.com/track/3jksOdXCaDXyGiZ7L4YZbp) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [DRIVE](https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74) | 2:14 |
 | 38 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \- Durdenhauer Edit](https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo) | [Durdenhauer](https://open.spotify.com/artist/2CaWJMR1eyvq8n5h96ggJC), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Praise The Lord \(Da Shine\) \(feat\. Skepta\) \[Durdenhauer Edit\]](https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9EM98aZosoy.md) - [plain]
 | 49 | [61 Grad \(Deep House RMX\)](https://open.spotify.com/track/5HsrYtb503rCCWyZvGtf4v) | [Endzone](https://open.spotify.com/artist/7uK2QScoOUkqq8tvtvBIL7), [TM](https://open.spotify.com/artist/2yh2yg3b2viRskto7M1cx7) | [61 Grad \(Deep House RMX\)](https://open.spotify.com/album/4lT60ivI572gAiaChQ6cCw) | 1:53 |
 | 50 | [MAXIMUM RIZZ](https://open.spotify.com/track/2f90oF6hNsvRd2T7pDgNht) | [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [MAXIMUM RIZZ](https://open.spotify.com/album/6NB2r3HWlI3qKrVk69giA9) | 2:27 |
 
-Snapshot ID: `MCw3YjcxMzAxNzAzZDVmY2UwMjRhNzk3M2VlMWU1MjU3ODU5OGE5M2I3`
+Snapshot ID: `MCw3YzcxMjE2ZTdmMzQ3MWU1NTIxNmIwZDY5ZDhlMTI2YjMwYzlhMjI0`

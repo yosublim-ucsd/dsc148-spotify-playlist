@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 
 > La playlist che è come andare ai concerti! Nuove uscite rock, indie, punk ed emo dall'Italia\. Cover: Karakaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,538 likes - 68 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,439 likes - 68 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,4 +77,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWViUlcvfltyZ.md) - [plain]
 | 67 | [Sbaglio peggiore](https://open.spotify.com/track/3496cFB078fy8zXdX108Gr) | [OMINI](https://open.spotify.com/artist/1YKbZY8iou4AeIGqicpwAq) | [Sbaglio peggiore](https://open.spotify.com/album/5svg1vlynhxUiqyJfrCJjG) | 3:14 |
 | 68 | [Giovane Distratta](https://open.spotify.com/track/5HVNmsurfkqtCs6Wkj2TEQ) | [MILLE](https://open.spotify.com/artist/2X5RjwWkxAg9WBce3BLoJj) | [Quanti Me Ne Dai](https://open.spotify.com/album/7CixYqA6aKwMXEGcaHq3Lr) | 3:08 |
 
-Snapshot ID: `MCwzOWE4NDY3OTg3N2NiZTRkYjlkMDM5YjI5OGZjNzlhY2JiYmNhNDZj`
+Snapshot ID: `MCxhNTVjMGJiMWI4ZTJiODcwMWY1MDc0MDQ2YjdiODc2OTVmZmMwMjFk`

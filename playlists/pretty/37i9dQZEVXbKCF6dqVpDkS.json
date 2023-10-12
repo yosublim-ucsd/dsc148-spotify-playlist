@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Netherlands.",
-  "num_followers": 919167,
+  "num_followers": 918145,
   "original_name": "Top 50 - Netherlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUwMzAyNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUwMzg4ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-10 08:50:28",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Si No Est\u00e1s",
         "url": "https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW"
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -81,7 +81,7 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
@@ -97,7 +97,7 @@
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Vois sur ton chemin (Techno Mix)",
         "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/5PObKgSkHWD1mRNOJWr1cZ"
@@ -137,7 +137,7 @@
       "url": "https://open.spotify.com/track/0QlOkt8nkZ8zqu8xb2SHU8"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Vas-y (Ga Maar)",
         "url": "https://open.spotify.com/album/1ccTvU8Sgr65nVyIUs9ifV"
@@ -157,7 +157,7 @@
       "url": "https://open.spotify.com/track/2GEuZRsMwllbjBFpdOOBAx"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Water",
         "url": "https://open.spotify.com/album/22sXXkKgjEuawIFL1e1tRw"
@@ -173,7 +173,7 @@
       "url": "https://open.spotify.com/track/5aIVCx5tnk0ntmdiinnYvw"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Loco Loco (feat. Sluwe Ollie)",
         "url": "https://open.spotify.com/album/3v4lZJxJps8UEnZ8UVEIAy"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/78dZXRH9JBXITQsS9Mlnsl"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "7K op je feestje",
         "url": "https://open.spotify.com/album/3ElOBNDYJI00N3IDimQ4ex"
@@ -245,7 +245,7 @@
       "url": "https://open.spotify.com/track/3StdsywJPGA9TskfcwQpPa"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Domino",
         "url": "https://open.spotify.com/album/28OF1MbXlYkpC5vNNnq1TJ"
@@ -273,7 +273,7 @@
       "url": "https://open.spotify.com/track/1BymSDOQY7CZY5BUekA8yH"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Dance The Night (From Barbie The Album)",
         "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
@@ -289,27 +289,7 @@
       "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 247444,
-      "name": "First Person Shooter (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
-    },
-    {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "UNHEALTHY (Deluxe)",
         "url": "https://open.spotify.com/album/7tOUgcKglzk78d8hOIMWyr"
@@ -329,7 +309,7 @@
       "url": "https://open.spotify.com/track/2Z5EUCXngeoYD7wmJBcJv1"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
@@ -349,7 +329,55 @@
       "url": "https://open.spotify.com/track/22dUzMFttcR3uU17NcOAIv"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 153346,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "Chemical",
+        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 184013,
+      "name": "Chemical",
+      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -369,55 +397,7 @@
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
-      "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 153346,
-      "name": "City Boys",
-      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
-    },
-    {
-      "added_at": "2023-10-10 08:50:28",
-      "album": {
-        "name": "Chemical",
-        "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 184013,
-      "name": "Chemical",
-      "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
-    },
-    {
-      "added_at": "2023-10-10 08:50:28",
-      "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
-    },
-    {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -433,7 +413,7 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Long Way Down (Deluxe)",
         "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
@@ -449,7 +429,7 @@
       "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -469,7 +449,27 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 247444,
+      "name": "First Person Shooter (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "GUTS",
         "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
@@ -485,7 +485,7 @@
       "url": "https://open.spotify.com/track/1kuGVB7EU95pJObxwvfwKS"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
@@ -501,7 +501,7 @@
       "url": "https://open.spotify.com/track/1DmW5Ep6ywYwxc2HMT5BG6"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Engelbewaarder",
         "url": "https://open.spotify.com/album/3c6Hst9lqpnnRRpEbP1RxH"
@@ -517,7 +517,7 @@
       "url": "https://open.spotify.com/track/2C2vSufLm1wLq2GjDH3iMh"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -533,23 +533,7 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 251094,
-      "name": "Virginia Beach",
-      "url": "https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed"
-    },
-    {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Dead Club City",
         "url": "https://open.spotify.com/album/0kqOkJ9HCUD4AXKvvR6lb7"
@@ -565,47 +549,7 @@
       "url": "https://open.spotify.com/track/2YmJZWGcy0yONMCsEKOuVD"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
-      "album": {
-        "name": "The Feeling",
-        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 153449,
-      "name": "The Feeling",
-      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
-    },
-    {
-      "added_at": "2023-10-10 08:50:28",
-      "album": {
-        "name": "0800 HEAVEN",
-        "url": "https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv"
-      },
-      "artists": [
-        {
-          "name": "Nathan Dawe",
-          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
-        },
-        {
-          "name": "Joel Corry",
-          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
-        },
-        {
-          "name": "Ella Henderson",
-          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
-        }
-      ],
-      "duration_ms": 159316,
-      "name": "0800 HEAVEN",
-      "url": "https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB"
-    },
-    {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "How You Samba",
         "url": "https://open.spotify.com/album/12WYrw3Af5ha9SVxHEv7KH"
@@ -629,27 +573,47 @@
       "url": "https://open.spotify.com/track/4uoSxzvEVMcDsIK0aHZFAv"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+        "name": "The Feeling",
+        "url": "https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
         }
       ],
-      "duration_ms": 133694,
-      "name": "Gently (feat. Bad Bunny)",
-      "url": "https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn"
+      "duration_ms": 153449,
+      "name": "The Feeling",
+      "url": "https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "0800 HEAVEN",
+        "url": "https://open.spotify.com/album/0ufYMOnoFhramYoTojRkJv"
+      },
+      "artists": [
+        {
+          "name": "Nathan Dawe",
+          "url": "https://open.spotify.com/artist/2gduEC76ry33RVurAvT05p"
+        },
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "name": "Ella Henderson",
+          "url": "https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1"
+        }
+      ],
+      "duration_ms": 159316,
+      "name": "0800 HEAVEN",
+      "url": "https://open.spotify.com/track/75KZRDouF6WcfkThhnJSvB"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Drifting",
         "url": "https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG"
@@ -665,7 +629,7 @@
       "url": "https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "One in a Million",
         "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
@@ -685,27 +649,7 @@
       "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 310490,
-      "name": "Slime You Out (feat. SZA)",
-      "url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH"
-    },
-    {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "RUNAWAY",
         "url": "https://open.spotify.com/album/1ZltEbn50sQMxoD5TvbNXe"
@@ -721,23 +665,7 @@
       "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 266847,
-      "name": "8am in Charlotte",
-      "url": "https://open.spotify.com/track/0w3Mfe4PIVjuFjJbe3OlYv"
-    },
-    {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Leven",
         "url": "https://open.spotify.com/album/7CDXtPqw2B36tlBnvI912N"
@@ -757,7 +685,27 @@
       "url": "https://open.spotify.com/track/4fWyBvLIPO68D2Ff87t1em"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 133694,
+      "name": "Gently (feat. Bad Bunny)",
+      "url": "https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Radio",
         "url": "https://open.spotify.com/album/3PkxPaBID8mGOWIY8uxG0L"
@@ -773,71 +721,7 @@
       "url": "https://open.spotify.com/track/5kkJYJ5qIUYRwMl769xnxN"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
-      "album": {
-        "name": "Gettin' Old",
-        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
-      },
-      "artists": [
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 265493,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
-    },
-    {
-      "added_at": "2023-10-10 08:50:28",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 285630,
-      "name": "Calling For You (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2nibvvDdAQkVraYP00z2RS"
-    },
-    {
-      "added_at": "2023-10-10 08:50:28",
-      "album": {
-        "name": "100 Doezoe Cash",
-        "url": "https://open.spotify.com/album/3jPB66A5yQ1zi6gwwnRlrb"
-      },
-      "artists": [
-        {
-          "name": "Lijpe",
-          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
-        },
-        {
-          "name": "Fatah",
-          "url": "https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN"
-        },
-        {
-          "name": "KA",
-          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
-        },
-        {
-          "name": "Trobi",
-          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "100 Doezoe Cash",
-      "url": "https://open.spotify.com/track/0g45SM1MltjtFstJl35m0R"
-    },
-    {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "She Knows (with Akon)",
         "url": "https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F"
@@ -865,39 +749,23 @@
       "url": "https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
-        "name": "Betaalbare Romantiek",
-        "url": "https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO"
+        "name": "Gettin' Old",
+        "url": "https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw"
       },
       "artists": [
         {
-          "name": "Goldband",
-          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
         }
       ],
-      "duration_ms": 214383,
-      "name": "Noodgeval",
-      "url": "https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L"
+      "duration_ms": 265493,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
-      "album": {
-        "name": "The Singles Collection",
-        "url": "https://open.spotify.com/album/1CpitDOBAGiMnc1tmxlsGY"
-      },
-      "artists": [
-        {
-          "name": "Racoon",
-          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
-        }
-      ],
-      "duration_ms": 164757,
-      "name": "Oceaan",
-      "url": "https://open.spotify.com/track/7GWU6dQFjYF5YpsAUwZfGq"
-    },
-    {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/6YFH6hee6fTJjlRddtl8gN"
@@ -921,7 +789,103 @@
       "url": "https://open.spotify.com/track/0OvO2X2Q3i98dc5RcgEN3x"
     },
     {
-      "added_at": "2023-10-10 08:50:28",
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "100 Doezoe Cash",
+        "url": "https://open.spotify.com/album/3jPB66A5yQ1zi6gwwnRlrb"
+      },
+      "artists": [
+        {
+          "name": "Lijpe",
+          "url": "https://open.spotify.com/artist/6INEFmHKLhMIJAQzHUBAMd"
+        },
+        {
+          "name": "Fatah",
+          "url": "https://open.spotify.com/artist/5tzrNHhl5pR4ljkkaz4DHN"
+        },
+        {
+          "name": "KA",
+          "url": "https://open.spotify.com/artist/7DpYMZzVNrjqw1geHziUEd"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "100 Doezoe Cash",
+      "url": "https://open.spotify.com/track/0g45SM1MltjtFstJl35m0R"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "The Singles Collection",
+        "url": "https://open.spotify.com/album/1CpitDOBAGiMnc1tmxlsGY"
+      },
+      "artists": [
+        {
+          "name": "Racoon",
+          "url": "https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza"
+        }
+      ],
+      "duration_ms": 164757,
+      "name": "Oceaan",
+      "url": "https://open.spotify.com/track/7GWU6dQFjYF5YpsAUwZfGq"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 251094,
+      "name": "Virginia Beach",
+      "url": "https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 310490,
+      "name": "Slime You Out (feat. SZA)",
+      "url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "Betaalbare Romantiek",
+        "url": "https://open.spotify.com/album/2z44b4hwadRlEaNm2SutKO"
+      },
+      "artists": [
+        {
+          "name": "Goldband",
+          "url": "https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p"
+        }
+      ],
+      "duration_ms": 214383,
+      "name": "Noodgeval",
+      "url": "https://open.spotify.com/track/2LcmbuYX7tyR4DWy3b273L"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
       "album": {
         "name": "Layla",
         "url": "https://open.spotify.com/album/1iwZqyrUQ8UqvW2iIezjVX"
@@ -947,6 +911,38 @@
       "duration_ms": 163428,
       "name": "Layla",
       "url": "https://open.spotify.com/track/4bFtZ97olZXoCns9zMImDs"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 266847,
+      "name": "8am in Charlotte",
+      "url": "https://open.spotify.com/track/0w3Mfe4PIVjuFjJbe3OlYv"
+    },
+    {
+      "added_at": "2023-10-11 09:25:11",
+      "album": {
+        "name": "Amalia",
+        "url": "https://open.spotify.com/album/4REygfzKS795uvkhTfh0O8"
+      },
+      "artists": [
+        {
+          "name": "Wesly Bronkhorst",
+          "url": "https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp"
+        }
+      ],
+      "duration_ms": 157485,
+      "name": "Amalia",
+      "url": "https://open.spotify.com/track/3c28vYkrzU9nVqvJfbaSiu"
     }
   ],
   "unique_name": "Top 50 - Netherlands",

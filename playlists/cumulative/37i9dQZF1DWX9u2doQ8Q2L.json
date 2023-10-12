@@ -3134,10 +3134,28 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 312080,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/2LTy5vmHluuVWwwspHpPWP"
+    },
+    {
+      "album": {
+        "name": "Deeper",
+        "url": "https://open.spotify.com/album/1gtc4Ft1JspHCCd9dozX8a"
+      },
+      "artists": [
+        {
+          "name": "Sen Morimoto",
+          "url": "https://open.spotify.com/artist/3zlWvRPwLwGSi2v6ltrhOl"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312080,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/3ShUS9A5HC0ZaO21Cnl3v8"
     },
     {
       "album": {
@@ -9333,6 +9351,28 @@
     },
     {
       "album": {
+        "name": "O.M.M (feat. Kenya Fujita)",
+        "url": "https://open.spotify.com/album/5jhY5eCkAE6FfOl2wPHw0P"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        },
+        {
+          "name": "\u85e4\u7530\u7e54\u4e5f",
+          "url": "https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "O.M.M (feat. Kenya Fujita)",
+      "url": "https://open.spotify.com/track/5xuNygFHKubkXvqRMeNB8u"
+    },
+    {
+      "album": {
         "name": "O.M.M (feat. \u85e4\u7530\u7e54\u4e5f)",
         "url": "https://open.spotify.com/album/1q8b5fH5kvHVhaQwhsEXEF"
       },
@@ -9348,7 +9388,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 147428,
       "name": "O.M.M - feat. \u85e4\u7530\u7e54\u4e5f",
       "url": "https://open.spotify.com/track/2ctOBBuKRVEbK0BsShiaJq"
@@ -11214,6 +11254,28 @@
       "duration_ms": 136986,
       "name": "rose",
       "url": "https://open.spotify.com/track/15fhBj4sGuW34BnFhGrFLG"
+    },
+    {
+      "album": {
+        "name": "Rouge feat. Taichi Mukai",
+        "url": "https://open.spotify.com/album/00t8byMoRv2LZrsEaH9X7K"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        },
+        {
+          "name": "Taichi Mukai",
+          "url": "https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217924,
+      "name": "Rouge feat. Taichi Mukai",
+      "url": "https://open.spotify.com/track/4FpxAbBBGBY8dFiMCsaOi7"
     },
     {
       "album": {
@@ -17936,7 +17998,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 217924,
       "name": "\u30eb\u30fc\u30b8\u30e5 feat. \u5411\u4e95\u592a\u4e00",
       "url": "https://open.spotify.com/track/06KGPEWi5lFvv31MK7Qzu4"

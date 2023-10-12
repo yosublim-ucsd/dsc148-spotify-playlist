@@ -4,7 +4,7 @@
 
 > vibe out w some 🇵🇭 R&B Cover: Denise Julia, Haven
 
-160 songs - 9 hr 25 min
+162 songs - 9 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Liham Sa Ulap](https://open.spotify.com/track/5M0k1RUg9C8Ls6qu6RPbnD) | [KYLIX](https://open.spotify.com/artist/4ctUJBW9vL0fY7jeEtzAMs) | [Liham Sa Ulap](https://open.spotify.com/album/7szlH8D5RCUNOowIPhtc3I) | 3:08 | 2023-06-26 |  |
 | [LIME](https://open.spotify.com/track/2KBOjDGiLYvy8KL41BgO3z) | [tome.](https://open.spotify.com/artist/3L80nqfTP0E4VHc3iIYxQW) | [LIME](https://open.spotify.com/album/1KDZdQcha6B5mDgmuO19OS) | 3:01 | 2023-07-28 |  |
 | [Love Or Lust](https://open.spotify.com/track/4Nmo5m5ZBiPWDGqLuCTk23) | [brayll](https://open.spotify.com/artist/7F28ZyhZHLxLy2gfNM3Gt9) | [Love Or Lust](https://open.spotify.com/album/2YycMpmAokC9s0drh9tcnQ) | 2:57 | 2022-10-12 | 2023-05-18 |
-| [Lowkey](https://open.spotify.com/track/0SeoyoooF656nZQavqT07Z) | [HIMALAYA](https://open.spotify.com/artist/2Ho4YWSnkNlVV0pvZQF8eU) | [Lowkey](https://open.spotify.com/album/7x97eRi6cyLPqI109TjTRd) | 3:09 | 2023-07-28 |  |
+| [Lowkey](https://open.spotify.com/track/0SeoyoooF656nZQavqT07Z) | [HIMALAYA](https://open.spotify.com/artist/2Ho4YWSnkNlVV0pvZQF8eU) | [Lowkey](https://open.spotify.com/album/7x97eRi6cyLPqI109TjTRd) | 3:09 | 2023-07-28 | 2023-10-12 |
 | [lutang](https://open.spotify.com/track/6jB7cmxRuvf5QUxYl73q0o) | [jikamarie](https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j) | [lutang](https://open.spotify.com/album/18ylPFUz9HeneeXkbcvoYv) | 4:32 | 2022-10-12 | 2023-07-29 |
 | [LUV DRUG](https://open.spotify.com/track/3oSu6uIHuwZOTyHdAZGojm) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Eros Tongco](https://open.spotify.com/artist/495fFEFRsZJJWAYH8N9393) | [LUV DRUG](https://open.spotify.com/album/4YQbWQV2kdQtSld9XTOCoE) | 3:18 | 2023-09-06 |  |
 | [LUV DRUNK II](https://open.spotify.com/track/7kmIBigmMa9HL3NfBiqhws) | [KLLY](https://open.spotify.com/artist/4eBTFDYHEwhgg4OE30E1eF), [Colt](https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH) | [LUV DRUNK II](https://open.spotify.com/album/1NK1DGc1kgcXL2BbM9EXza) | 2:54 | 2023-09-06 |  |
@@ -105,6 +105,7 @@
 | [May Iba Na Ba?](https://open.spotify.com/track/7EYvbxzSZnQ4QQUxDrrk47) | [Jemay Santiago](https://open.spotify.com/artist/4Kr3qUAWD3qyW71lNuCrPq) | [May Iba Na Ba?](https://open.spotify.com/album/5j0c3ufCKiRztCGOKqmbDb) | 2:28 | 2023-06-26 |  |
 | [Megastar \- Interlude](https://open.spotify.com/track/0pG5wMHBJQjrORcSMv0TIb) | [KINDRED](https://open.spotify.com/artist/20bisCfPMhrXJH4Wv5lmh1), [Sharon Cuneta](https://open.spotify.com/artist/3I5ONm7nnP1LpvqsnA5dBG) | [Megastar \(Interlude\)](https://open.spotify.com/album/28YClUSxdivOubLAoIfDRc) | 2:45 | 2023-10-02 |  |
 | [MIDNYT SNACK](https://open.spotify.com/track/1abidRpQBY12rqiwIafnPZ) | [June Andreas](https://open.spotify.com/artist/7JQTgAQRFXE1eqB3AknKT0) | [MIDNYT SNACK](https://open.spotify.com/album/0hZ4QvaZHTWFkhomk9BZsc) | 3:00 | 2023-06-26 |  |
+| [Mood Swings](https://open.spotify.com/track/5n40E9H40UX8b11g1y2D7o) | [Jnske](https://open.spotify.com/artist/0uD1WQbTE0pNDiJe0iGEaU) | [Mood Swings](https://open.spotify.com/album/3hTb5O25Vx6QZsBs7eILkD) | 3:22 | 2023-10-11 |  |
 | [MRPK](https://open.spotify.com/track/0UdYNs08ZTqibIfnymqYPp) | [RAINA](https://open.spotify.com/artist/0TMW4pEBWFz1GZa0cGua0l), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [MRPK](https://open.spotify.com/album/3e6VpHi5NMjiBCGDdadyqd) | 3:38 | 2022-10-12 | 2023-05-18 |
 | [Nakilala](https://open.spotify.com/track/5Qx8sgxnDQgMxJ3y2vStcU) | [KAISAI](https://open.spotify.com/artist/4EOmdPzt09dPEFC7IKz1Ei), [JC Torio](https://open.spotify.com/artist/0uoJZ8fHMx64axPxbkpCt7) | [Nakilala](https://open.spotify.com/album/50TXRjAq3Tcwi85343gOvG) | 3:45 | 2022-10-12 | 2023-05-18 |
 | [Need It](https://open.spotify.com/track/3H1rKz5VQjsxHB8xUXAuDi) | [daze](https://open.spotify.com/artist/3mNnPqsHVbJSTxQtD74z4Z) | [Need It](https://open.spotify.com/album/01wGo5NysXJJyAnVIxykCL) | 3:53 | 2022-10-12 | 2023-07-29 |
@@ -125,9 +126,10 @@
 | [Paraluman](https://open.spotify.com/track/1rznIP1bYsOGy9D9KyXueZ) | [Kyle Raphael](https://open.spotify.com/artist/4N9XMzF4fPBDnbYVniN6Tp) | [Paraluman](https://open.spotify.com/album/7CoTVzxzcWEB01I4uKe8Wa) | 4:41 | 2022-10-12 | 2023-07-29 |
 | [Paramdam](https://open.spotify.com/track/35LQPNNntn1AOa3SExFVxz) | [Exiz](https://open.spotify.com/artist/27Sc6OmJmvUzQMr1Jg3mIi) | [Paramdam](https://open.spotify.com/album/5KmNhTJ2oYiZ1sbzt7fmiD) | 4:36 | 2022-10-12 | 2023-05-18 |
 | [pasensya ka na](https://open.spotify.com/track/5sj1I1BhxUHY1NjHNiQF10) | [Owen Greyson](https://open.spotify.com/artist/0G7MRTGnVV99IUnlk91aJB), [Kris Krisla](https://open.spotify.com/artist/5cA9hnXUcnuR0IXaaHMkNJ) | [pasensya ka na](https://open.spotify.com/album/3GM7Ans54DPDt3UxWvs2Ov) | 2:55 | 2022-10-12 | 2023-07-29 |
+| [Patid](https://open.spotify.com/track/4dOIWeYQpPI9NM6ThxRDWj) | [Johann Regaya](https://open.spotify.com/artist/3PID0KJW9zSuISzVtbBBpJ) | [Patid](https://open.spotify.com/album/3japR74Iy2UKN0ldaGf9em) | 4:07 | 2023-10-11 |  |
 | [Phases](https://open.spotify.com/track/0m1FSRVrQ4LEqFGicqjcDt) | [Aloura](https://open.spotify.com/artist/0kLp0sF2loscGK68sPESxQ) | [Phases](https://open.spotify.com/album/1B6czSiyIMwLWgPsCdXwc2) | 3:35 | 2022-10-12 | 2023-07-29 |
 | [Pity Ya](https://open.spotify.com/track/5DJuFnUWeok3rou4xDlCD9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [Pity Ya](https://open.spotify.com/album/0YRCIO7DtUmgB3rewEDYh4) | 3:12 | 2022-10-12 | 2023-07-29 |
-| [Play No Games](https://open.spotify.com/track/4LKMwbD4qi6dawvR5Ez6Ee) | [Ant$](https://open.spotify.com/artist/5Q071iT6WeDNP937gQF2FT) | [Play No Games](https://open.spotify.com/album/1GFIbb6O9Z7kbR4bXuT6zl) | 2:49 | 2023-07-28 |  |
+| [Play No Games](https://open.spotify.com/track/4LKMwbD4qi6dawvR5Ez6Ee) | [Ant$](https://open.spotify.com/artist/5Q071iT6WeDNP937gQF2FT) | [Play No Games](https://open.spotify.com/album/1GFIbb6O9Z7kbR4bXuT6zl) | 2:49 | 2023-07-28 | 2023-10-12 |
 | [Quality Time \(feat\. Mojia\)](https://open.spotify.com/track/3tCYXh7yjlu45fXgq85LmF) | [Swizzy Max](https://open.spotify.com/artist/7cDiSfjL2vCN5RHjDZocrt), [Mojia](https://open.spotify.com/artist/402vcacHfl5PtJLptZ2N8L) | [Quality Time \(feat\. Mojia\)](https://open.spotify.com/album/2JjEzLVaMzJxQkM8vslmYC) | 2:54 | 2022-10-12 | 2023-07-29 |
 | [RAIN \(feat\. SIK4M1\)](https://open.spotify.com/track/1RyNTn3xMOxEEKBPPNv26Y) | [Shayne Carmel](https://open.spotify.com/artist/5ihyCQON8OCN3L7LtdvPJh), [Ruth Lee Resuello](https://open.spotify.com/artist/2t2lODOqTfxQh0CyN6Wx20), [Millennium PH](https://open.spotify.com/artist/0Rqq0FtfXdLCVTMi4iuM0o), [SIK4M1](https://open.spotify.com/artist/1djddcVQAVA3lJTLmzIj7e) | [RAIN \(feat\. SIK4M1\)](https://open.spotify.com/album/4RUoQYHy04Sm41QDwB9Tyz) | 3:31 | 2022-10-12 | 2023-07-29 |
 | [RBND](https://open.spotify.com/track/0aHciOWN2wx4tVCv0lwZqs) | [Zachary](https://open.spotify.com/artist/5rqiwyKEa9FZTy78BVNRSc) | [RBND](https://open.spotify.com/album/2IgRAdB7ITP9m0NQAn9mrM) | 2:57 | 2022-12-14 | 2023-08-04 |

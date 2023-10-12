@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chilled R&B jams for your most relaxed moods\. Cover: Cleo Sol
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,362,290 likes - 150 songs - 7 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,359,606 likes - 150 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 149 | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/track/3MlQPB0wJuopo3NTZGlMpI) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Where I Go \(feat\. H.E.R.\)](https://open.spotify.com/album/1o8zUe3QYHV42SHSsg6ffu) | 3:21 |
 | 150 | [Sensually](https://open.spotify.com/track/4Wb8NdNKT7kjeHIs8IMRUK) | [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Before We Crash](https://open.spotify.com/album/0cIv8DfxokTzEUJAwlsyfP) | 2:51 |
 
-Snapshot ID: `MCw0MGM1NDgzNjMzZmU3MGRhOWI0MjAyNmVkNzk0Njg3MzI2M2E1YmMx`
+Snapshot ID: `MCwyMmNkOWRiYzY4ZDNkY2E0MmNmYjU0ZDEyODU0NjY4N2MzZWUwNDY5`

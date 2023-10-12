@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-1,937 songs - 4 day 7 hr 16 min
+1,938 songs - 4 day 7 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -980,6 +980,7 @@
 | [Llorando Ausencia](https://open.spotify.com/track/1ezJWENT2n38OdTECy1v6r) | [Maihuen de los Angeles](https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR) | [Los Chamantos de Mi Chile](https://open.spotify.com/album/5QH7qkMGGb849aPyre7eY0) | 2:11 | 2022-09-19 | 2023-09-24 |
 | [Llámame](https://open.spotify.com/track/3n9qn38IhqkC7DcdIRaM9q) | [wrs](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Llámame](https://open.spotify.com/album/4CR61ko9dziDieWFFPkGWs) | 3:04 | 2022-05-16 | 2022-05-29 |
 | [lo que hay x aquí](https://open.spotify.com/track/5IlLm20JXhKbMtsH20NblC) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [lo que hay x aquí](https://open.spotify.com/album/28MEC53zcdE731x6FX3Hsm) | 2:35 | 2023-04-04 | 2023-04-12 |
+| [Lollipop](https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:19 | 2023-10-11 |  |
 | [Londres Freestyle](https://open.spotify.com/track/1lgavq2sDLrnD5h5BytyBr) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Londres Freestyle](https://open.spotify.com/album/2u5F0rIXQeCZHvtuB3ySxU) | 2:08 | 2022-08-23 | 2022-08-27 |
 | [Loneliness](https://open.spotify.com/track/3ILYKzQBhKPQ58FgibMt5N) | [Putri Ariani](https://open.spotify.com/artist/5ZLrUYtJDZYWQXicVVO8On) | [Loneliness](https://open.spotify.com/album/5wYwKu8dqEcnrgoGonXAbc) | 3:01 | 2023-06-15 | 2023-07-08 |
 | [Long Long Time](https://open.spotify.com/track/1khA4hwhZD4HMecyE1e9U1) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Silk Purse](https://open.spotify.com/album/33w9uBzKNuGxvJwcMMNs2G) | 4:23 | 2023-02-03 | 2023-02-17 |
@@ -1637,7 +1638,7 @@
 | [Surface Pressure](https://open.spotify.com/track/760jhRscwGbIIe1m1IIQpU) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 3:22 | 2021-12-27 | 2022-01-29 |
 | [Surface Pressure \- From "Encanto"/Soundtrack Version](https://open.spotify.com/track/6K5ph5mq1qprHae3TrgTj5) | [Jessica Darrow](https://open.spotify.com/artist/4vdAAzZBUKbsrvHi6UR7B7) | [Surface Pressure \(From "Encanto"\)](https://open.spotify.com/album/5IQviZiPOcXLBAd9eGo2sA) | 3:22 | 2022-01-28 | 2022-02-16 |
 | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/track/0cp97b37sFNsdIbQH6po3T) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Surround Sound \(feat\. 21 Savage & Baby Tate\)](https://open.spotify.com/album/0MdgqhI26wmlQ1aLV5y2Ks) | 3:49 | 2022-02-08 | 2022-02-16 |
-| [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK) | 3:16 | 2023-10-10 |  |
+| [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK) | 3:16 | 2023-10-10 | 2023-10-12 |
 | [Suwung](https://open.spotify.com/track/2cld3oOCiFAJRdDxCH85Zd) | [Heyek Crew](https://open.spotify.com/artist/6IYubD5X02Q7MUS10axRUp) | [Suwung](https://open.spotify.com/album/0OAZIYRxMCx5smGYIm5uO7) | 3:11 | 2023-03-10 | 2023-03-21 |
 | [Suzume no Tojimarii](https://open.spotify.com/track/2G4zOlzYBvuR1fhSbHBIcs) | [Chill Box](https://open.spotify.com/artist/37npqsbOVqLH9O0rJbHS6l) | [Suzume no Tojimarii / すずめの戸締まり](https://open.spotify.com/album/24IHBS9gNWrQOxlAwf0g8j) | 1:34 | 2022-08-30 | 2022-09-03 |
 | [Suçlarımdan Biri](https://open.spotify.com/track/5S0Q8i6RTwekXnE2WU3vQi) | [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [Atlantis](https://open.spotify.com/album/566tAtCOlz9yNPsXdXZDsr) | 2:51 | 2022-05-31 | 2022-06-05 |

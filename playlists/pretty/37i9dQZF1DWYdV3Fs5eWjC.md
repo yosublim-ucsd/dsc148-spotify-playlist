@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Janelle Monáe
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,028 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,023 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 49 | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/album/0t0KTaeuABJBI0XiNM9vyr) | 2:19 |
 | 50 | [Beach](https://open.spotify.com/track/591OojQCkyOLyMqmJRVyyc) | [Idman](https://open.spotify.com/artist/6N13mUTgkfYEUmW8R2GH0G) | [Risk](https://open.spotify.com/album/1slDbdhOlw9i2XDsaEVQeo) | 2:06 |
 
-Snapshot ID: `MCxiYmRmZTVmZTJiZDQyMDNmMDEyY2M0NWY1ZTRiMmZmNTNkMTE2YjAw`
+Snapshot ID: `MCxkZTEzZThlZWEyYWI3ZDNmN2IyZjY3MjljMDVhMGMyZTFmMDE3YWYx`

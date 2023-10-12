@@ -4,7 +4,7 @@
 
 > Stay focused with electronic and trap beats.
 
-354 songs - 16 hr 23 min
+355 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,8 @@
 | [Dimes](https://open.spotify.com/track/0lvgCep2yv7x6eQlT5Xanu) | [Lazy Lovers](https://open.spotify.com/artist/1HMmdYdBAElZlWljQBAoCq) | [Big Little Man](https://open.spotify.com/album/22DORZ7yDp2y3bu4hIw7Wc) | 3:36 | 2021-11-10 | 2022-07-22 |
 | [Dior](https://open.spotify.com/track/5taACEkO7njxSO6J6vJKvN) | [Lofi Chill Hip Hop Beat](https://open.spotify.com/artist/67zHwgyDYiE73CKWv5rMHT) | [Certified Lover Boy](https://open.spotify.com/album/2gY1mHdwqG8sA9lkaBMbiA) | 3:39 | 2021-07-09 | 2021-10-14 |
 | [District](https://open.spotify.com/track/1N191u47JA4Gi83FF0T099) | [Damma Beatz](https://open.spotify.com/artist/00WEbQMBzMtwbccrSjQwhJ) | [District](https://open.spotify.com/album/4y9sncHu7BNxDbLttcfQV2) | 2:41 | 2021-06-04 | 2022-10-14 |
-| [Dizzy Bluesy \(smile\)](https://open.spotify.com/track/2M8ns1WQYQbS0E6Xef6Vuv) | [Mr Diz](https://open.spotify.com/artist/6WJfjbKY69hEevc5WJH1vu), [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Dizzy Bluesy \(smile\)](https://open.spotify.com/album/709ObnJx4qIQEbdukVVCnQ) | 1:38 | 2022-04-22 |  |
+| [Dizzy Bluesy \(smile\)](https://open.spotify.com/track/0GaYIrqFVEjN3bvrZRIgNg) | [Mr Diz](https://open.spotify.com/artist/6WJfjbKY69hEevc5WJH1vu), [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Dizzy Bluesy \(smile\)](https://open.spotify.com/album/2uL4cTLvR55iT0T2WUJQVq) | 1:38 | 2023-07-19 |  |
+| [Dizzy Bluesy \(smile\)](https://open.spotify.com/track/2M8ns1WQYQbS0E6Xef6Vuv) | [Mr Diz](https://open.spotify.com/artist/6WJfjbKY69hEevc5WJH1vu), [Them](https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA) | [Dizzy Bluesy \(smile\)](https://open.spotify.com/album/709ObnJx4qIQEbdukVVCnQ) | 1:38 | 2022-04-22 | 2023-10-12 |
 | [Do Without](https://open.spotify.com/track/7ClvOKw3NSzT4l6R9boROe) | [leaf beach](https://open.spotify.com/artist/5fQYCNYjrT9c4ZssNrC0gh), [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84) | [Do Without](https://open.spotify.com/album/14VEF8Y61dwpn5gEqTzuEA) | 2:32 | 2023-07-19 |  |
 | [Don't Quit](https://open.spotify.com/track/3hWnx9sV4Tssynrnl8oM7k) | [Ballpoint](https://open.spotify.com/artist/5vbgY6zVUKz1haJv618QvC), [Cushy](https://open.spotify.com/artist/6L1Baujfn33sG3PXou8n1q) | [Muses](https://open.spotify.com/album/1An4K6esv5QVy2loqhRyKb) | 2:26 | 2021-08-26 |  |
 | [Don't Speak His Name](https://open.spotify.com/track/046RxrrENoOmaP3fHy15Dq) | [Pixel Souls](https://open.spotify.com/artist/5RxIWnD6l41ftSFtaLvXLi) | [Last Breath](https://open.spotify.com/album/7kgTiCRbJ9WHwvctE8yHZi) | 3:22 | 2022-12-09 |  |

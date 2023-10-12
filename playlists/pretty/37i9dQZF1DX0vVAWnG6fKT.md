@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 
 > Classic Country from the Legends of the 1940's\.  Where Hillbilly, Texas Swing and Bluegrass came together\. Cover: Ernest Tubb
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,816 likes - 70 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,838 likes - 70 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 59 | [Take an Old Cold 'Tater \(and Wait\)](https://open.spotify.com/track/31u0qGiw6ZiYe4KasJi2zv) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [16 Biggest Hits](https://open.spotify.com/album/0vnTSS1VEOezDcEf3V9b5q) | 2:47 |
 | 60 | [Cotton Eyed Joe \- Single Version](https://open.spotify.com/track/12hH0TgLBeC7QMIM7xy1IN) | [Bob Wills & His Texas Playboys](https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN) | [Columbia Historic Edition](https://open.spotify.com/album/4hErYpa8hruFcraFwTDjQL) | 2:37 |
 | 61 | [Rocky Road Blues](https://open.spotify.com/track/59DfC3QV6rESsMJ6AHq4rA) | [Bill Monroe & His Blue Grass Boys](https://open.spotify.com/artist/64vAECmFoB6mi7n1zTRwR8) | [The Essential Bill Monroe](https://open.spotify.com/album/3kAqAMODlj5rjUiqtzlrIo) | 2:33 |
-| 62 | [Texarkana Baby](https://open.spotify.com/track/4OTNxudT8w2o3ZnO4EWJoc) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:41 |
-| 63 | [I Love You So Much It Hurts](https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl) | [Floyd Tillman](https://open.spotify.com/artist/1sv41JLLdczDyPjHDvo2dn) | [Columbia Country Classics Volume 2: Honky Tonk Heroes](https://open.spotify.com/album/0zijweDsxJRlpngrtXUS1L) | 2:41 |
+| 62 | [I Love You So Much It Hurts](https://open.spotify.com/track/00IE8qRDH4Om74rnjeyoQl) | [Floyd Tillman](https://open.spotify.com/artist/1sv41JLLdczDyPjHDvo2dn) | [Columbia Country Classics Volume 2: Honky Tonk Heroes](https://open.spotify.com/album/0zijweDsxJRlpngrtXUS1L) | 2:41 |
+| 63 | [Texarkana Baby](https://open.spotify.com/track/4OTNxudT8w2o3ZnO4EWJoc) | [Eddy Arnold](https://open.spotify.com/artist/5QsUbpxSE8lCZ5ga5rnD22) | [Complete Original \#1 Hits](https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU) | 2:41 |
 | 64 | [Tumbling Tumbleweeds](https://open.spotify.com/track/29IohmaYFMxVuHTUfBnDg3) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [My Favorite Country Songs](https://open.spotify.com/album/1W83zQvCTECzjAVi0byoUU) | 3:05 |
 | 65 | [Panhandle Rag](https://open.spotify.com/track/13jNEoK1XuWzvx7PDtqBtt) | [Leon Mcauliff And His Cimarron Boys](https://open.spotify.com/artist/3t65o10yzAAQTTk7IoopK2) | [Mister Western Swing](https://open.spotify.com/album/7JasllEB3HNNS8bemfNBV9) | 2:57 |
 | 66 | [Milk Cow Blues](https://open.spotify.com/track/2gtvsPwY1z8nzu9Z58uS5b) | [Maddox Brothers](https://open.spotify.com/artist/7Fisqlq3RjJ10LKE0j3ODP), [Rose Maddox](https://open.spotify.com/artist/30ubKuh11o6hVK83WNBgm0) | [America's Most Colorful Hillbilly Band](https://open.spotify.com/album/3xnXV1xll55o3m41ykrgeQ) | 3:10 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vVAWnG6fKT.md) - [plain]
 | 69 | [Invisible Stripes](https://open.spotify.com/track/5m2aHtyWdsUMFPtpv6I6IQ) | [Eddie Noack](https://open.spotify.com/artist/69QgxPDHaeDRDMl6icLzCp) | [Psycho \- The K\-Ark and Allstar Recordings 1962\-1969](https://open.spotify.com/album/462l1oFisu47gbsvGv0tH6) | 2:20 |
 | 70 | [Too Late to Worry, Too Blue to Cry](https://open.spotify.com/track/39oDv2nFjiDVRpj0DLBXIl) | [Al Dexter](https://open.spotify.com/artist/49tS3TTwFNW1O1KsY6IbJO) | [Presenting Al Dexter](https://open.spotify.com/album/3RDJf8ODyyRMpQRhga0W9W) | 2:43 |
 
-Snapshot ID: `MCxiZWVhMjg4OWU0NzUwNzI1NzcyM2JkN2RhYjQ1MjhkZGNkN2E3Nzdl`
+Snapshot ID: `MCw0ZjYxZGFjZGYxNzI1MTRlN2VlZTAwN2VlOTgzY2Y2OGM1YWVjZTZl`

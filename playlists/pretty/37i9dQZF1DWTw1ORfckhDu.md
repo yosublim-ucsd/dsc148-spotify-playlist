@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💶 Kannessa Elastinen ja Jami Faltin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,048 likes - 71 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,036 likes - 71 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,16 +15,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 5 | [Kiireinen nainen \(feat\. ibe\)](https://open.spotify.com/track/4haz2w5fIZagLEIOig3FGK) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Kiireinen nainen \(feat\. ibe\)](https://open.spotify.com/album/1rCAQxlXHja56iaCpyBLkb) | 3:04 |
 | 6 | [Taulut \(feat\. Costi\)](https://open.spotify.com/track/150cifhtXjdhDdr07scSVG) | [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ), [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Taulut \(feat\. Costi\)](https://open.spotify.com/album/7iOPxPm0nJsc5lHX3fBg6F) | 3:17 |
 | 7 | [Menetän mun järjen](https://open.spotify.com/track/2uEE7BTQ4PGRYMutoOBgq5) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Menetän mun järjen](https://open.spotify.com/album/6em8daieCMwCluji0mAkRZ) | 2:39 |
-| 8 | [Lupaan](https://open.spotify.com/track/57zt0umbi4uSmoIOps4q77) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Lupaan](https://open.spotify.com/album/0JAx9O0OwHRT9umeLnXxvm) | 2:57 |
+| 8 | [Oikee mies](https://open.spotify.com/track/1D7EPvrBZpKfa8ff0nOVtn) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Oikee mies](https://open.spotify.com/album/4KZoMrIueuR2gyZrejUlN1) | 3:05 |
 | 9 | [MMM \(feat\. Fabe\)](https://open.spotify.com/track/0Hc5xVRukKIIAzjM5m3O1p) | [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2), [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [MMM \(feat\. Fabe\)](https://open.spotify.com/album/5jKLbI1oC5hVhwiqK0EhxZ) | 2:07 |
-| 10 | [Ketä me huijataan \(feat\. Senya\)](https://open.spotify.com/track/3YI31cbeEQOA0OmMUOXZOK) | [Hassan Maikal](https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Ketä me huijataan \(feat\. Senya\)](https://open.spotify.com/album/75CFCfyYxbX6ZJmWndWoFu) | 2:47 |
-| 11 | [Oikee mies](https://open.spotify.com/track/1D7EPvrBZpKfa8ff0nOVtn) | [Ege Zulu](https://open.spotify.com/artist/0PyeoSEt7RQPbjuzy3JK9O), [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Oikee mies](https://open.spotify.com/album/4KZoMrIueuR2gyZrejUlN1) | 3:05 |
+| 10 | [Lupaan](https://open.spotify.com/track/57zt0umbi4uSmoIOps4q77) | [ROBIN](https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM) | [Lupaan](https://open.spotify.com/album/0JAx9O0OwHRT9umeLnXxvm) | 2:57 |
+| 11 | [Ketä me huijataan \(feat\. Senya\)](https://open.spotify.com/track/3YI31cbeEQOA0OmMUOXZOK) | [Hassan Maikal](https://open.spotify.com/artist/5ibHOdl3OIBMsBc32Qsl2u), [Senya](https://open.spotify.com/artist/49OC47dLyKYSl2EPaZLUaO) | [Ketä me huijataan \(feat\. Senya\)](https://open.spotify.com/album/75CFCfyYxbX6ZJmWndWoFu) | 2:47 |
 | 12 | [Sun vika](https://open.spotify.com/track/2sQ2CJXifP3ydr5cM0v1EO) | [Mikael Laurent](https://open.spotify.com/artist/5tflzG5jjh0ka3SrnOgewO) | [Helsingis on tulva \- EP](https://open.spotify.com/album/2459H0Xc9lago9C1d1S3eE) | 2:55 |
 | 13 | [Lambo \(feat\. VJ\)](https://open.spotify.com/track/0IJEnvu1p4OIzkY8UiQXCt) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [Lambo \(feat\. VJ\)](https://open.spotify.com/album/0KpXeYkbN15bBnD3ITxnup) | 2:10 |
-| 14 | [Bye Bye](https://open.spotify.com/track/61m5q3Qk7F7W6foiZDpN5p) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Bye Bye](https://open.spotify.com/album/1cvqApVnrJMcmZYLDywB5L) | 2:29 |
-| 15 | [Liikkuu](https://open.spotify.com/track/2ivIPcbBmQMPmiJ2HYamUB) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Liikkuu](https://open.spotify.com/album/2bxzOGsTuZr2Hkgb78K0hD) | 2:14 |
-| 16 | [Sunkaa](https://open.spotify.com/track/3aIrzifDaeYYfMGrsOFCfw) | [Mjay](https://open.spotify.com/artist/21Fg24AS0Cvne0TETQmKSo) | [Sunkaa](https://open.spotify.com/album/2MVJ2vDjZouYEpJMzxNEbL) | 3:14 |
-| 17 | [Kertoimia Vastaan](https://open.spotify.com/track/4QfhwWVpaIaXihhpweCuRi) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Kertoimia Vastaan](https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4) | 3:17 |
+| 14 | [Liikkuu](https://open.spotify.com/track/2ivIPcbBmQMPmiJ2HYamUB) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Liikkuu](https://open.spotify.com/album/2bxzOGsTuZr2Hkgb78K0hD) | 2:14 |
+| 15 | [Bye Bye](https://open.spotify.com/track/61m5q3Qk7F7W6foiZDpN5p) | [Fabe](https://open.spotify.com/artist/6xr6YWVsGo5k0sqwjgRPhS) | [Bye Bye](https://open.spotify.com/album/1cvqApVnrJMcmZYLDywB5L) | 2:29 |
+| 16 | [Kertoimia Vastaan](https://open.spotify.com/track/4QfhwWVpaIaXihhpweCuRi) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf) | [Kertoimia Vastaan](https://open.spotify.com/album/4MAXw4hnzob9pRMyfLS3E4) | 3:17 |
+| 17 | [Sunkaa](https://open.spotify.com/track/3aIrzifDaeYYfMGrsOFCfw) | [Mjay](https://open.spotify.com/artist/21Fg24AS0Cvne0TETQmKSo) | [Sunkaa](https://open.spotify.com/album/2MVJ2vDjZouYEpJMzxNEbL) | 3:14 |
 | 18 | [Mä en oo vetäny mitään](https://open.spotify.com/track/7rwD7BTXfo0KUPXn7X4vZ6) | [Lika\-Aki](https://open.spotify.com/artist/4XSTZw9BvsG1ZXkyJOLyuw) | [Mä en oo vetäny mitään](https://open.spotify.com/album/1wSJPcFDClFquQxUfEkufV) | 3:30 |
 | 19 | [Missaat Mut](https://open.spotify.com/track/4I7nd2tef4qV15OAczVuJb) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Missaat Mut](https://open.spotify.com/album/59uIb8lpgwKm9c9DJznS0y) | 1:54 |
 | 20 | [Muut](https://open.spotify.com/track/2R1hmiYii3vtmSMCr9s05M) | [Rono](https://open.spotify.com/artist/11IszKPzyr7Zbv3XNwfOc4), [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB) | [Muut](https://open.spotify.com/album/2RwqgdgKBboGjESQrvcKvO) | 3:18 |
@@ -80,4 +80,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 70 | [Oisko tää täs](https://open.spotify.com/track/0uHbsPVRr12ERCABBWVbe0) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Oisko tää täs / Popinpelko](https://open.spotify.com/album/67o8azfNdjm3DER0vezrN3) | 3:04 |
 | 71 | [Lotos](https://open.spotify.com/track/50MfoKEnwu06TZh4RGSV5x) | [WIL](https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT) | [Lotos](https://open.spotify.com/album/47fJOAh4neM35NuB79ZJK1) | 2:27 |
 
-Snapshot ID: `MCxkZWJjODgxMWJlNGJlMmI2Y2UxOTE0ZmRhNTk4YzY0N2MwNTBjZjUy`
+Snapshot ID: `MCxjY2FkYTJlMGEwNGE3ZDZlY2Y3NjJlYmYzMTZmNzU1NjRjYjRjMmYw`

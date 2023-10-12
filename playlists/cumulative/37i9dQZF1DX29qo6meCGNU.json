@@ -5620,10 +5620,28 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 119866,
       "name": "NX TX SIENTAS SOLX",
       "url": "https://open.spotify.com/track/4OmSsqo4Hi9LCIh9Z4gKKq"
+    },
+    {
+      "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121146,
+      "name": "NX TX SIENTAS SOLX",
+      "url": "https://open.spotify.com/track/0xzNdNJSQnHfRLYRdVhERp"
     },
     {
       "album": {
@@ -6582,7 +6600,7 @@
     {
       "album": {
         "name": "MOR, No Le Temas a La Oscuridad",
-        "url": "https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs"
+        "url": "https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd"
       },
       "artists": [
         {
@@ -6593,6 +6611,24 @@
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 242840,
+      "name": "ROM\u00c1NTICOS DE LUNES",
+      "url": "https://open.spotify.com/track/3b9hmdwt0RWluhFm3hLKz8"
+    },
+    {
+      "album": {
+        "name": "MOR, No Le Temas a La Oscuridad",
+        "url": "https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
       "duration_ms": 243160,
       "name": "ROM\u00c1NTICOS DE LUNES",
       "url": "https://open.spotify.com/track/7mfztd9ZxJF4c5JYZhe8XH"

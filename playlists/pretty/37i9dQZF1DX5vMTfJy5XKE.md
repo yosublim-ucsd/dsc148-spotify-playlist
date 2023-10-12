@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 
 > 'Tis the season! All new holiday releases\. Cover: Pentatonix
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,367 likes - 39 songs - 2 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,381 likes - 39 songs - 2 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 2 | [DJ Play A Christmas Song](https://open.spotify.com/track/2ljUUoqlnRUGGa7bmpvevC) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [DJ Play A Christmas Song](https://open.spotify.com/album/6s5Q4m7eVFpdPwzGCLiYX8) | 3:29 |
 | 3 | [Have Yourself A Merry Little Christmas](https://open.spotify.com/track/1jNPo7xE3lf5kEamRmQemB) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Have Yourself A Merry Little Christmas](https://open.spotify.com/album/5b8kLtDCLWYKyJFemtmu73) | 3:45 |
 | 4 | [Amazing Grace \[Feat\. The Tabernacle Choir at Temple Square, Mack Wilberg\]](https://open.spotify.com/track/28jnXcjSRpWIOaM506zvGM) | [David Foster](https://open.spotify.com/artist/0SgQK24WzZf2pXBXYqHJYF), [Katharine McPhee](https://open.spotify.com/artist/5oWOx0BBDSMoFB8JDrjQre), [The Tabernacle Choir at Temple Square](https://open.spotify.com/artist/1GRl6sRyLg9ToOohIE2wW5), [Mack Wilberg](https://open.spotify.com/artist/2Zpql3RdMQjunbDKk1bIiz) | [Amazing Grace](https://open.spotify.com/album/2Af93EMMgovYkVVl1xFFI9) | 4:27 |
-| 5 | [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/2JtqKRJSuLZ7pb1eik1vJE) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [I've Got My Love to Keep Me Warm](https://open.spotify.com/album/78CkiPJn5eksHgAWNRwh2E) | 2:31 |
+| 5 | [I've Got My Love to Keep Me Warm](https://open.spotify.com/track/4vpZ39U9F1jyw2bAHv1HUY) | [The Tenors](https://open.spotify.com/artist/0IuE3Ne32K4i3BZBbr610a) | [Christmas with The Tenors](https://open.spotify.com/album/3KPvwbNGc4WL7IzvD0fP2V) | 2:31 |
 | 6 | [Joy To The World](https://open.spotify.com/track/1G0oNJo3OpBbY6Y6infgnf) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Joy To The World](https://open.spotify.com/album/2JT7bugcBLWQ4wOIjVoKdy) | 5:01 |
 | 7 | [White Christmas](https://open.spotify.com/track/5ODrf4Fhd38dyuCpj6gqpe) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [A Very Backstreet Christmas](https://open.spotify.com/album/5953GQNfxqEWdLobD6lG7T) | 2:45 |
 | 8 | [Kid On Christmas \(feat\. Meghan Trainor\)](https://open.spotify.com/track/5glU2EWqa5hpYqGPboSNjV) | [Pentatonix](https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53), [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Holidays Around the World](https://open.spotify.com/album/73NpyNEQHBYey6oZZrFD6X) | 3:22 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5vMTfJy5XKE.md) - [plain]
 | 38 | [The Greatest Gift](https://open.spotify.com/track/6GBYT0dqkba3xaXS5BkPKE) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [A Family Christmas](https://open.spotify.com/album/5q3BRC7sphYO3vIhAsOTFc) | 4:01 |
 | 39 | [Deck The Halls](https://open.spotify.com/track/1G9qYNrtiZjKXfjMGjMeJJ) | [Pure Shores](https://open.spotify.com/artist/42CdKQR7lo8cgIyufa0DQr) | [Deck The Halls](https://open.spotify.com/album/0grfLiNmcGd9QPyhkg8ojD) | 2:00 |
 
-Snapshot ID: `MCxmYmM1OGY2Zjc2ODYyNGFjZjc0NWE0NmYwZDczOTk3NGRiMjJlNTVm`
+Snapshot ID: `MCw1MzM1ZjVmYzNiMDZkZDI5NmI5Y2ZlZGUwZGIxZWYwN2Y3NWE3NmU2`

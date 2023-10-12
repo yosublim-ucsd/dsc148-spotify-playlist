@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 
 > A new take on a classic sound\. Cover: Idina Menzel
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,677 likes - 99 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,722 likes - 99 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paradise \(feat\. Nile Rodgers\)](https://open.spotify.com/track/35sXaEaVnnYotLjnjRLMJK) | [Idina Menzel](https://open.spotify.com/artist/73Np75Wv2tju61Eo9Zw4IR), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Paradise \(feat\. Nile Rodgers\)](https://open.spotify.com/album/0BfdHIeFgdUvuCHbFYriJ4) | 3:32 |
 | 2 | [Missing You \- Michael Gray Remix](https://open.spotify.com/track/0siT9iz6YIO3GlQbvzZEet) | [Artful](https://open.spotify.com/artist/1VFA40Lt5TiFr0qWoWNQfw), [Ridney](https://open.spotify.com/artist/5UmoeWk7RM3v9w1DUL4XUD), [Terri Walker](https://open.spotify.com/artist/0x8TJV6fy1BwsZUpHJC13S), [Michael Gray](https://open.spotify.com/artist/2aM5jpQ0WTcQDeHsil8Ihz) | [Missing You \(Michael Gray Remix\)](https://open.spotify.com/album/10SDSrrDUmK3dDpmMXa1Gi) | 2:59 |
-| 3 | [Fight My Demons](https://open.spotify.com/track/6qmuDfuovbFjz6kMgiSokm) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Groove Continental: Side B](https://open.spotify.com/album/6DJVP3L3EJcbOVYMHbAZyr) | 3:40 |
+| 3 | [Fight My Demons](https://open.spotify.com/track/6qmuDfuovbFjz6kMgiSokm) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [Groove Continental: Side B](https://open.spotify.com/album/6DJVP3L3EJcbOVYMHbAZyr) | 3:40 |
 | 4 | [Deafened \(feat\. Family Habits\)](https://open.spotify.com/track/2tlCCAR07k2G9ba67McxQc) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS), [Family Habits](https://open.spotify.com/artist/7yxQ5wpTnQNvwNHYOplK0Y) | [Manifesto](https://open.spotify.com/album/4SBBGeRaboOnypEhVFRw38) | 3:21 |
 | 5 | [Voices \(feat\. Kylie Minogue\)](https://open.spotify.com/track/4dZ6T0on5EctKPKjgcOzrY) | [Jake Shears](https://open.spotify.com/artist/6prqlx3RqGdTYsXANXDCR1), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Last Man Dancing](https://open.spotify.com/album/4jSN5BWVfdzTUBubU9v6C2) | 4:26 |
 | 6 | [Freak 54 \(Freak Out\)](https://open.spotify.com/track/5CAaHC3rBhhZyFR7JqgPbn) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Freak 54 \(Freak Out\)](https://open.spotify.com/album/5w5ybFZ5gewy0Lb9LA9lXc) | 2:08 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXattPCMpISJh.md) - [plain]
 | 98 | [\(Got To\) Move On \- S\-Tone Inc Remix](https://open.spotify.com/track/3Y4XjuDs2hmKDblYD05klz) | [S\-Tone Inc](https://open.spotify.com/artist/7MqGKGC1ckMmbYiVKOU0ZN), [Afra Kane](https://open.spotify.com/artist/1RhC0s2ubtgnMLr7UxwWwr) | [\(Got To\) Move On Remix](https://open.spotify.com/album/2VynCWSBHwUuClLHIL90Pv) | 3:33 |
 | 99 | [Ticket to the Moon](https://open.spotify.com/track/1fXfLc7IUxBFUXWz63R7qy) | [Carvel'](https://open.spotify.com/artist/0I4uy2IXjgZo96j10CpaMf) | [Ticket to the Moon](https://open.spotify.com/album/5PuxGOFsboXuUmD8X7jShz) | 2:42 |
 
-Snapshot ID: `MCxlZGE5YzNhNmY3MjhkYTgyODA4MDcxNWJlZjVmNTVlZWM1MjEyOWM2`
+Snapshot ID: `MCw2NTM2ZTZhZTEwZWViYTg1Zjc2ZTUyNzAzMzI1YThmOTg5NzA3OWE2`

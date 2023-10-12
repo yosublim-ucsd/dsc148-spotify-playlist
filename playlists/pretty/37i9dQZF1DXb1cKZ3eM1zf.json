@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjRjODJmMmQ4OGJkMGQwMzg0MmM4ZWJmZjRlZjg4ZTc4NTdmZmU2",
+  "snapshot_id": "MCxmZDk0OTlmOTM2OTVmNDJmMDg0YTRlZjI3ZTk1Yjc2ZWRiZTg1NGZm",
   "tracks": [
     {
       "added_at": "2023-06-14 10:23:31",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "Rumours",
-        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 223613,
-      "name": "Go Your Own Way - 2004 Remaster",
-      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "Hot Fuss",
         "url": "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 197200,
       "name": "Somebody Told Me",
       "url": "https://open.spotify.com/track/6PwjJ58I4t7Mae9xfZ9l9v"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "Rumours",
+        "url": "https://open.spotify.com/album/1bt6q2SruMsBtcerNVtpZB"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 223613,
+      "name": "Go Your Own Way - 2004 Remaster",
+      "url": "https://open.spotify.com/track/07GvNcU1WdyZJq3XxP0kZa"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
-        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 258773,
-      "name": "Wonderwall - Remastered",
-      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
         "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 266200,
       "name": "1979 - Remastered 2012",
       "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "(What's The Story) Morning Glory? (Deluxe Remastered Edition)",
+        "url": "https://open.spotify.com/album/6tOe4eAF8xNhEkl9WyvsE4"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 258773,
+      "name": "Wonderwall - Remastered",
+      "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "Jailbreak (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
-      },
-      "artists": [
-        {
-          "name": "Thin Lizzy",
-          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
-        }
-      ],
-      "duration_ms": 266720,
-      "name": "The Boys Are Back In Town",
-      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "Welcome Interstate Managers",
         "url": "https://open.spotify.com/album/6TZp52tXShLQbq8yNMxqNT"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 197986,
       "name": "Stacy's Mom",
       "url": "https://open.spotify.com/track/27L8sESb3KR79asDUBu8nW"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "Jailbreak (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6Cf545T4jkaiyvMnTRPOB2"
+      },
+      "artists": [
+        {
+          "name": "Thin Lizzy",
+          "url": "https://open.spotify.com/artist/6biWAmrHyiMkX49LkycGqQ"
+        }
+      ],
+      "duration_ms": 266720,
+      "name": "The Boys Are Back In Town",
+      "url": "https://open.spotify.com/track/43DeSV93pJPT4lCZaWZ6b1"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -2003,22 +2003,6 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
         "name": "Woodface",
         "url": "https://open.spotify.com/album/1QSoW668F9DVj8Rk9azF7h"
       },
@@ -2031,6 +2015,22 @@
       "duration_ms": 224466,
       "name": "Weather With You",
       "url": "https://open.spotify.com/track/6tXnRSvuNgOq4QcxpIN54r"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
     },
     {
       "added_at": "2023-06-14 10:23:31",
@@ -2339,6 +2339,22 @@
     {
       "added_at": "2023-06-14 10:23:31",
       "album": {
+        "name": "Without You I'm Nothing",
+        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
+      },
+      "artists": [
+        {
+          "name": "Placebo",
+          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
+        }
+      ],
+      "duration_ms": 213800,
+      "name": "Every You Every Me",
+      "url": "https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ"
+    },
+    {
+      "added_at": "2023-06-14 10:23:31",
+      "album": {
         "name": "The Neptunes Present... Clones",
         "url": "https://open.spotify.com/album/0AO5ibcO686oWXf96D83pM"
       },
@@ -2355,22 +2371,6 @@
       "duration_ms": 236506,
       "name": "Frontin' (feat. Jay-Z) - Club Mix",
       "url": "https://open.spotify.com/track/0iFOG4Ki9aDmJUYUFHQlPG"
-    },
-    {
-      "added_at": "2023-06-14 10:23:31",
-      "album": {
-        "name": "Without You I'm Nothing",
-        "url": "https://open.spotify.com/album/4wxoPjHSYFYurNyKaEiZNT"
-      },
-      "artists": [
-        {
-          "name": "Placebo",
-          "url": "https://open.spotify.com/artist/6RZUqkomCmb8zCRqc9eznB"
-        }
-      ],
-      "duration_ms": 213800,
-      "name": "Every You Every Me",
-      "url": "https://open.spotify.com/track/2Srd8Jgif3kc6ou6Z4pSYJ"
     },
     {
       "added_at": "2023-06-14 10:23:31",

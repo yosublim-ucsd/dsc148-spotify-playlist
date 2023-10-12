@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 
 > The bluesy side of jazz
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,536 likes - 50 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,619 likes - 50 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 38 | [Isotope \- Rudy Van Gelder Edition / 2004 Digital Remaster](https://open.spotify.com/track/4tmApkhSLqUAE7x70CVI2L) | [Joe Henderson](https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt) | [Inner Urge \(The Rudy Van Gelder Edition\)](https://open.spotify.com/album/2Amg9J3U9jEUUJUxCW5OgI) | 9:16 |
 | 39 | [Tenor madness](https://open.spotify.com/track/3FbVaUe0hFeLKun8dHAOls) | [Dexter Gordon](https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ) | [Swiss Nights, Vol\. 3](https://open.spotify.com/album/6NHprN57mZWEj3ELnR2RY4) | 12:42 |
 | 40 | [Back Slidin'](https://open.spotify.com/track/6Ebo4NsSp7utwQMrs3MTl2) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9) | [Blues In the Night](https://open.spotify.com/album/6ZBjJtU9Bbd5Yo0dWZes7y) | 6:54 |
-| 41 | [Blues For Willarene](https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Retrospective](https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE) | 7:07 |
-| 42 | [When Will The Blues Leave?](https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [Something Else!!!!: The Music Of Ornette Coleman \(Original Jazz Classics Remasters\)](https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7) | 5:00 |
+| 41 | [When Will The Blues Leave?](https://open.spotify.com/track/4LmLxaTfPM1yrtqpX86rLx) | [Ornette Coleman](https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P) | [Something Else!!!!: The Music Of Ornette Coleman \(Original Jazz Classics Remasters\)](https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7) | 5:00 |
+| 42 | [Blues For Willarene](https://open.spotify.com/track/18Rt4272J5ngkGAWUtWBzk) | [Grant Green](https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k) | [Retrospective](https://open.spotify.com/album/5MYLIllbgBg8tdvThOe9XE) | 7:07 |
 | 43 | [Bluehawk](https://open.spotify.com/track/1K4d8wa5NanzH425a42DMn) | [Thelonious Monk](https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN) | [Thelonious Alone In San Francisco](https://open.spotify.com/album/5xOjgloikzuQ1mTs2mqedk) | 3:37 |
 | 44 | [Blues For Alice](https://open.spotify.com/track/6uVi3VWCVMfXviWa8DTCwN) | [Charlie Parker Quintet](https://open.spotify.com/artist/0EgftqHXtk840HVLdydk5V) | [Swedish Schnapps: The Genius Of Charlie Parker \#8 \(Expanded Edition\)](https://open.spotify.com/album/1mQ11XRLltORPc1bAJv9tt) | 2:46 |
 | 45 | [Old Clothes](https://open.spotify.com/track/3MorzsnlfKD1SlMWdDtKwb) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 7:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GSZDbrndTa.md) - [plain]
 | 49 | [Freight Trane](https://open.spotify.com/track/4AkebkAOIiVfpmQj8LDpAy) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB) | [Coltrane '58: The Prestige Recordings](https://open.spotify.com/album/04sQeDrLHPx83hfP9A6S22) | 7:20 |
 | 50 | [Kelly Blue](https://open.spotify.com/track/2w2S61Es3uLMVHE41u1pev) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 10:50 |
 
-Snapshot ID: `MCxkNjM2NjQwNTQ3ZGI2YzcwZGVlNGQxYzdhN2NjYTcwMzhkNTgzNDM5`
+Snapshot ID: `MCw2MjBhM2VhMTM5ZmVlNjcxZmE3ZTlmNTUwMTI4Mzc1OTM3ZWFjOWRl`

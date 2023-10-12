@@ -1,12 +1,12 @@
 {
   "description": "A feel-good soulful house  and disco selection.",
-  "num_followers": 348681,
+  "num_followers": 348638,
   "original_name": "Groove Theory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMmZlYWZkZDUzZDcyYTY1MDllNGEwMGIwN2EyZWMxYWE5N2ZiZDg5",
+  "snapshot_id": "MCw5YjNlODM1MWU3MWY2N2Q3ODY2ODgyYWRhMzU5MThmMDg3Yjc5OGM2",
   "tracks": [
     {
       "added_at": "2023-08-25 14:04:15",
@@ -167,22 +167,6 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
-        "name": "Something About",
-        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
-      },
-      "artists": [
-        {
-          "name": "CRi",
-          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
-        }
-      ],
-      "duration_ms": 224826,
-      "name": "Something About",
-      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
         "name": "Got Time For Me (with Channel Tres)",
         "url": "https://open.spotify.com/album/02YZvXUwPEvxb0YLdI7oEk"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 179034,
       "name": "Got Time For Me (with Channel Tres)",
       "url": "https://open.spotify.com/track/3YQNUCe3btF2wUQpzfaodu"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
+        "name": "Something About",
+        "url": "https://open.spotify.com/album/3qlZd2dgippiunzkO8D0pM"
+      },
+      "artists": [
+        {
+          "name": "CRi",
+          "url": "https://open.spotify.com/artist/3NaMuUYTIGm6CC3YqTuTvi"
+        }
+      ],
+      "duration_ms": 224826,
+      "name": "Something About",
+      "url": "https://open.spotify.com/track/5z3Qr6kEyJiZhB0WHJSmCQ"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -239,22 +239,6 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
-        "name": "Bad Company",
-        "url": "https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O"
-      },
-      "artists": [
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
-        }
-      ],
-      "duration_ms": 208596,
-      "name": "Bad Company - Edit",
-      "url": "https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
         "name": "times",
         "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 259173,
       "name": "Time",
       "url": "https://open.spotify.com/track/2Oc5ez4PVPnIWAmYr8i99V"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/3fU9sdHcs0PE746ecLsr0O"
+      },
+      "artists": [
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+        }
+      ],
+      "duration_ms": 208596,
+      "name": "Bad Company - Edit",
+      "url": "https://open.spotify.com/track/2TGts36e6e5c9z1FiJKuny"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -399,22 +399,26 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
-        "name": "Love Will Set U Free",
-        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
+        "name": "Diplo (Deluxe)",
+        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
       },
       "artists": [
         {
-          "name": "Monkey Safari",
-          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "DJ Island",
-          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
+          "name": "SIDEPIECE",
+          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
+        },
+        {
+          "name": "Purple Disco Machine",
+          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
         }
       ],
-      "duration_ms": 354365,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
+      "duration_ms": 263414,
+      "name": "On My Mind - Purple Disco Machine Remix",
+      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -443,46 +447,22 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
-        "name": "Diplo (Deluxe)",
-        "url": "https://open.spotify.com/album/6zPSpPHyyOkbT8zDy7Kzl7"
+        "name": "Love Will Set U Free",
+        "url": "https://open.spotify.com/album/2q1yFtPevPCNlp06WDzfFc"
       },
       "artists": [
         {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+          "name": "Monkey Safari",
+          "url": "https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa"
         },
         {
-          "name": "SIDEPIECE",
-          "url": "https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk"
-        },
-        {
-          "name": "Purple Disco Machine",
-          "url": "https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4"
+          "name": "DJ Island",
+          "url": "https://open.spotify.com/artist/0B8uvQRg70TpBi26MKtJxY"
         }
       ],
-      "duration_ms": 263414,
-      "name": "On My Mind - Purple Disco Machine Remix",
-      "url": "https://open.spotify.com/track/6geg6XWPAxmwlVl8ZNYns0"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
-        "name": "DISCO: Guest List Edition",
-        "url": "https://open.spotify.com/album/48ausuYzcDZAqD7ML9sPcU"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Years & Years",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 207986,
-      "name": "A Second to Midnight",
-      "url": "https://open.spotify.com/track/3WYqZhwammjFtFLfZfT38u"
+      "duration_ms": 354365,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/7vApqfnpLqrKeR6VISh0wH"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -523,6 +503,26 @@
       "duration_ms": 141000,
       "name": "My Own Way",
       "url": "https://open.spotify.com/track/7Csd6ozp0Ci3ZDfvRgzrWz"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
+        "name": "DISCO: Guest List Edition",
+        "url": "https://open.spotify.com/album/48ausuYzcDZAqD7ML9sPcU"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Years & Years",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 207986,
+      "name": "A Second to Midnight",
+      "url": "https://open.spotify.com/track/3WYqZhwammjFtFLfZfT38u"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -651,26 +651,6 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
-        "name": "Real Groove (Studio 2054 Remix)",
-        "url": "https://open.spotify.com/album/0z0lPmTXhkoyF1RyIAkGHm"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 262893,
-      "name": "Real Groove - Studio 2054 Remix",
-      "url": "https://open.spotify.com/track/3MySeyJCAKyPkTRvlvq7gm"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
         "name": "Trouble\u2019s Coming (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/5XlWzxdKFGCRDgok5j7UoJ"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 265570,
       "name": "Trouble\u2019s Coming - Purple Disco Machine Remix",
       "url": "https://open.spotify.com/track/7cpmk4IuNSWfg5XOrr2v8V"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
+        "name": "Real Groove (Studio 2054 Remix)",
+        "url": "https://open.spotify.com/album/0z0lPmTXhkoyF1RyIAkGHm"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 262893,
+      "name": "Real Groove - Studio 2054 Remix",
+      "url": "https://open.spotify.com/track/3MySeyJCAKyPkTRvlvq7gm"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -871,6 +871,26 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
+        "name": "Good For Me",
+        "url": "https://open.spotify.com/album/43AlCqozg4WfDPBonV9SLK"
+      },
+      "artists": [
+        {
+          "name": "Morixo",
+          "url": "https://open.spotify.com/artist/5h8i76jHsKRSZGINg6NZGA"
+        },
+        {
+          "name": "CHANEY",
+          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Good For Me",
+      "url": "https://open.spotify.com/track/2wxdmzjFaMfNgbPjCJQRo7"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
         "name": "Need No Music",
         "url": "https://open.spotify.com/album/3Ff1Gp3HDGWS6Yb7X8ZoJJ"
       },
@@ -903,26 +923,6 @@
       "duration_ms": 201322,
       "name": "Affirmations (feat. Anelisa Lamola)",
       "url": "https://open.spotify.com/track/38SHfJCoV4jdpeqX5lcn6H"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
-        "name": "Good For Me",
-        "url": "https://open.spotify.com/album/43AlCqozg4WfDPBonV9SLK"
-      },
-      "artists": [
-        {
-          "name": "Morixo",
-          "url": "https://open.spotify.com/artist/5h8i76jHsKRSZGINg6NZGA"
-        },
-        {
-          "name": "CHANEY",
-          "url": "https://open.spotify.com/artist/2dUjApyXX9UqIsFGzoHyhX"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Good For Me",
-      "url": "https://open.spotify.com/track/2wxdmzjFaMfNgbPjCJQRo7"
     },
     {
       "added_at": "2023-08-25 14:04:15",
@@ -995,6 +995,22 @@
     {
       "added_at": "2023-08-25 14:04:15",
       "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL"
+      },
+      "artists": [
+        {
+          "name": "Friend Within",
+          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
+        }
+      ],
+      "duration_ms": 182950,
+      "name": "Ghetto Rock",
+      "url": "https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8"
+    },
+    {
+      "added_at": "2023-08-25 14:04:15",
+      "album": {
         "name": "Angels By My Side (feat. Pauline Taylor)",
         "url": "https://open.spotify.com/album/3AxIohtIZVMGMNVoqrl2O3"
       },
@@ -1027,22 +1043,6 @@
       "duration_ms": 212313,
       "name": "Riviera",
       "url": "https://open.spotify.com/track/5fR1gKyVaQOFsUe9XWz6Pg"
-    },
-    {
-      "added_at": "2023-08-25 14:04:15",
-      "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/0P99ZtWpQyIFHAmHWDAXaL"
-      },
-      "artists": [
-        {
-          "name": "Friend Within",
-          "url": "https://open.spotify.com/artist/4FJPplt1JOVw8Q7NiwFmLv"
-        }
-      ],
-      "duration_ms": 182950,
-      "name": "Ghetto Rock",
-      "url": "https://open.spotify.com/track/0CPP8Ln8Rl87Fl96zm9il8"
     },
     {
       "added_at": "2023-08-25 14:04:15",

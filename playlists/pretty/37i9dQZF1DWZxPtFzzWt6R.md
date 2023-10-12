@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: André e Felipe
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,104 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,070 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 59 | [Volta pra Casa](https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Volta pra Casa](https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC) | 4:49 |
 | 60 | [Além da Medicina](https://open.spotify.com/track/3M5XPQrRi1IDPnR7aEPtUw) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Além da Medicina](https://open.spotify.com/album/4CU6JZnVCUPvq8iYHCNjED) | 4:46 |
 
-Snapshot ID: `MCwyYjYwNDY3YWI3ZWY4OTg0ZjIzZjJjNGU1ZmZjYTQyN2U0MDU5NmNh`
+Snapshot ID: `MCxiNDVkNGI4Y2Y1MDEyY2QyMjc1YzZmNWZhYWNkY2MxMjQwMzI4OGJk`

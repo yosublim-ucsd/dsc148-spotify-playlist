@@ -4,7 +4,7 @@
 
 > Tune into the Hottest tracks of Kollywood!<br/>Cover : Jailer
 
-105 songs - 6 hr 24 min
+106 songs - 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Alaikadal](https://open.spotify.com/track/7kcMEKsmqgfq68gSQk6F9c) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Antara Nandy](https://open.spotify.com/artist/5t0Sf8M5KByD2fIBiVKavT) | [Ponniyin Selvan Part\-1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN) | 5:14 | 2022-10-05 | 2022-11-08 |
 | [Andha Kanna Paathaakaa](https://open.spotify.com/track/0qvoxfYodIfe14gaidhnsV) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy) | [Master \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/11YJfivZjEaEUU9lJmeidh) | 3:14 | 2021-11-15 | 2022-06-07 |
 | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/track/6yvxu91deFKt3X1QoV6qMv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/album/3OUj9ygj2KRcnKY1a1daGt) | 4:39 | 2022-02-14 |  |
+| [Badass \(From "Leo"\)](https://open.spotify.com/track/32qnBgfzURbwNayQIEB5W5) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Badass \(From "Leo"\)](https://open.spotify.com/album/4f9WYw6XMUlo3O9dJ15HvP) | 3:49 | 2023-10-11 |  |
 | [Bae \(From "Don"\)](https://open.spotify.com/track/5D507IC1VOAg7bKkmOblr6) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Adithya RK](https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm) | [Bae \(From "Don"\)](https://open.spotify.com/album/2HsFQRxJln6Q9XEf6DbhZ4) | 4:02 | 2022-02-09 |  |
 | [Beast Mode \(From "Beast"\)](https://open.spotify.com/track/1aQ58u4guUf999iQX3J2HF) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Beast Mode \(From "Beast"\)](https://open.spotify.com/album/0gTZnvc3F1cHmJTTe9OBGb) | 3:40 | 2022-04-08 |  |
 | [Bodhai Kaname \- From "Oh Manapenne"](https://open.spotify.com/track/4qIMmEjV8gaEsfZML9LALx) | [Vishal Chandrashekhar](https://open.spotify.com/artist/0rL4uL3xfYOt2p7NHhS8qr), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Shashaa Tirupati](https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW) | [Bodhai Kaname \(From "Oh Manapenne"\)](https://open.spotify.com/album/53xK2qW53doSVnfWafunKQ) | 4:21 | 2021-11-15 | 2023-08-17 |

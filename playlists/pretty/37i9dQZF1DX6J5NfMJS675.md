@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 
 > Welcome to the dark side of the club.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,327,869 likes - 60 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,327,712 likes - 60 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6J5NfMJS675.md) - [plain]
 | 59 | [Fall In Love](https://open.spotify.com/track/00yeUUrgFfxidZOWFQxDcZ) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Fall In Love](https://open.spotify.com/album/4S5m723e0p5GYuRWMeo8GY) | 4:04 |
 | 60 | [Come Closer](https://open.spotify.com/track/6WK7TJ53QPNZnpQBjToHBi) | [Thomas Schumacher](https://open.spotify.com/artist/7KkV7dFoGEXr4M3fpb1FgD) | [Come Closer](https://open.spotify.com/album/1BMEA1hy55rRBIjRZ4TokC) | 4:07 |
 
-Snapshot ID: `MCxjODUwMWYzMzEzYmE2M2YzMzE2OWYyNjczMzk3M2U5YWY3NzdhNGMx`
+Snapshot ID: `MCxjYjA3ZTdhNjYzMjFjMzBjNmQzMmQ5NDM0YzQ3OTg4ZTdkMTkyNGQw`

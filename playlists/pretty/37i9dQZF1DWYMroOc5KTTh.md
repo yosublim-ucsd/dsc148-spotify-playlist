@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 
 > 100% good vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 440,098 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 440,312 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMroOc5KTTh.md) - [plain]
 | 49 | [Giodisco](https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Giodisco](https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD) | 2:43 |
 | 50 | [Something About Your Love](https://open.spotify.com/track/7cujJQPxdHeDz5mKLmv0bu) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [Missing You / Something About Your Love](https://open.spotify.com/album/0p5utqJGqhCnRCk2gMGHUA) | 5:23 |
 
-Snapshot ID: `MCwwMDc0OWU5MWUyYTFhOTNiMWU5NWQyOWVhNjNhOGJjZDgxZWVhN2I1`
+Snapshot ID: `MCw5MzIyMGNhYmMzODc3NTFhNDgzY2MwMzRiMDYxODA0ZDYwNzQyNDE5`

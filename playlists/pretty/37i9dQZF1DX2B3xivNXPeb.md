@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 
 > Whether you're cooking or pottering about, here's an all\-day soundtrack to enjoy in the comfort of your own home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,609 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,620 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 61 | [Falling Apart](https://open.spotify.com/track/3TAGAAWQ9HeosMtv4dz2jf) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/0x7mfCEXV2oWxFabJlD3uj) | 3:15 |
 | 62 | [Love and Hate in a Different Time \- Original](https://open.spotify.com/track/5FzrXX7WuiRpKSVVzUtIiB) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Love and Hate in a Different Time](https://open.spotify.com/album/2NNWOpHegB4ev9gXnums1e) | 4:42 |
 | 63 | [Giving It In](https://open.spotify.com/track/1yoAw5lhSJZ3FutPzCm6EC) | [Faye Meana](https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP) | [Giving It In](https://open.spotify.com/album/0qqvcHcINrNFwkFfaqpRO1) | 3:20 |
-| 64 | [Watch Me](https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 3:33 |
-| 65 | [Bittersweet](https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:52 |
+| 64 | [Bittersweet](https://open.spotify.com/track/4uawMXx8VZ7WMrjAVOaCMe) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:52 |
+| 65 | [Watch Me](https://open.spotify.com/track/2xjv06k7zfnHV9zanSLRdI) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Crying, Laughing, Loving, Lying \(Deluxe Edition\)](https://open.spotify.com/album/5sFwr2JkKjNf46waqdF8KR) | 3:33 |
 | 66 | [Us](https://open.spotify.com/track/5BZhksMl6vZnTSvfJAhn9e) | [Miller Blue](https://open.spotify.com/artist/2soHr8jGZ0ATxc6X6BgmbA) | [Us](https://open.spotify.com/album/5H62A6LN8NeKBt4rB2K8Bq) | 3:03 |
 | 67 | [Glory](https://open.spotify.com/track/6JtzwLMDhCexSBg10iPWyP) | [Gabriels](https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz) | [Glory](https://open.spotify.com/album/3t3J2sT9CL9iJGuBTfReFO) | 2:44 |
 | 68 | [Inspiration Information](https://open.spotify.com/track/3q8AgabNzK1mPJdI8egIcn) | [Shuggie Otis](https://open.spotify.com/artist/4YHtIE7FI8ITfekzzN5Jpl) | [Inspiration Information/ Wings Of Love](https://open.spotify.com/album/0JittRuqxUKruy1LlfxY4S) | 4:12 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2B3xivNXPeb.md) - [plain]
 | 92 | [Scream \(Funk My Life Up\)](https://open.spotify.com/track/56oQl8ABVlcZlJN43wooTd) | [Paolo Nutini](https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp) | [Caustic Love](https://open.spotify.com/album/7M0WhcuEYzzeQwTNy1bDDO) | 3:09 |
 | 93 | [Courtyard Theatre](https://open.spotify.com/track/3sKMUyp6Z2Ex9aFPv03xZd) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Dublin Sessions](https://open.spotify.com/album/5dFdSNChr9iVoEMBdCVB4w) | 3:09 |
 | 94 | [HOLIDAY FROM REALITY](https://open.spotify.com/track/2RR6qhMCAhNS7rz1ueAFbj) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [THE POWER IN US](https://open.spotify.com/album/7qiwCfOn9JFpVZ1Q8qD6Vc) | 2:36 |
-| 95 | [Joe](https://open.spotify.com/track/3s5wyiMCUfnLDYVX4xSRUX) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:07 |
-| 96 | [Nostalgia](https://open.spotify.com/track/37C4hvdsHygqpA4Xzo8eAW) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [Nostalgia](https://open.spotify.com/album/5hBs54fSWzHghnJYobTNLS) | 4:25 |
+| 95 | [Nostalgia](https://open.spotify.com/track/37C4hvdsHygqpA4Xzo8eAW) | [Alfie Sharp](https://open.spotify.com/artist/00BVhzOhPeFH9fVVCNqF9P) | [Nostalgia](https://open.spotify.com/album/5hBs54fSWzHghnJYobTNLS) | 4:25 |
+| 96 | [Joe](https://open.spotify.com/track/3s5wyiMCUfnLDYVX4xSRUX) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:07 |
 | 97 | [Siesta \(feat\. Emeli Sandé\)](https://open.spotify.com/track/32OSu2ZovlRteBCFyB3NLo) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [Siesta \(feat\. Emeli Sandé\)](https://open.spotify.com/album/2mLz1qJnElGlzVDpBV8PQI) | 5:48 |
 | 98 | [Dance With You Again](https://open.spotify.com/track/1c7NLS2Fuq7V5NJgzz8wZX) | [Tamzene](https://open.spotify.com/artist/77YCAroJisD7uOECsiPcAL) | [Dance With You Again](https://open.spotify.com/album/55QbNLNgWTx4yQfc0ukv8v) | 3:07 |
 | 99 | [King Midas](https://open.spotify.com/track/1omlDv3oJVn3ja7RSkylNO) | [Martha Reeves & The Sweet Things](https://open.spotify.com/artist/1trYvrkVZhSKtxCVsWqBmN) | [Willie Dynamite \(Music From The Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6FLxZKLlbpS9OjdwhdRbGO) | 4:51 |
 | 100 | [East End Coast](https://open.spotify.com/track/1RSaRPRiGcBT3yK9qIJ68E) | [Joesef](https://open.spotify.com/artist/28EyduqESEOVMO6vglvaUZ) | [Borderline](https://open.spotify.com/album/2vFRIrn95QJ37C8E31aAcz) | 3:46 |
 
-Snapshot ID: `MCw0MTc3MTkzZGM2NDY1MTJkYWY3M2IyZmZhMzczZDFiYTI0YTcwNTUx`
+Snapshot ID: `MCw2MmEyMmViZmZiOTdkNTQzZmM2MTYxOWU2NWZiMjFjNzE3YTVkNjUx`

@@ -4,13 +4,13 @@
 
 > music from the underworld
 
-108 songs - 3 hr 40 min
+109 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#\#FOREVAKLUB](https://open.spotify.com/track/6xbNIEglAydFKNFetHYAj3) | [h!tex](https://open.spotify.com/artist/03RNbfo25PLqg0EYLx1XXS) | [\#KO1](https://open.spotify.com/album/4bVuHAFwEvY0QCKjCbAwmn) | 2:05 | 2023-07-21 | 2023-07-29 |
 | [\#RAVELIFE](https://open.spotify.com/track/1VGOyYVey2xo2A4shKl2LR) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [asteria](https://open.spotify.com/artist/0I7VmE5LkRmWoHltutTUh9), [WASTY](https://open.spotify.com/artist/1a4fut94sWqBrkavalr3hJ) | [RAVE2DEATH](https://open.spotify.com/album/5uP9wURgtWm96wNpcM1k29) | 1:49 | 2023-08-04 | 2023-08-26 |
-| [2BIPOLAR](https://open.spotify.com/track/0LKrP0sD4PK0Y46kKWOTk6) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [2BIPOLAR](https://open.spotify.com/album/65jfpqh8Nf8qeHT77KXLIe) | 1:47 | 2023-08-25 |  |
+| [2BIPOLAR](https://open.spotify.com/track/0LKrP0sD4PK0Y46kKWOTk6) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [cW](https://open.spotify.com/artist/2RWEvEloRDEO2tiOL6JEjh) | [2BIPOLAR](https://open.spotify.com/album/65jfpqh8Nf8qeHT77KXLIe) | 1:47 | 2023-08-25 |  |
 | [2GOOD4U](https://open.spotify.com/track/24Wv2UuvcrTz2Lbl1o5efz) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [2GOOD4U](https://open.spotify.com/album/1IWzgwU93vPgsIFPa1nrmu) | 2:02 | 2023-07-21 | 2023-09-02 |
 | [4ever \(feat\. Universe\)](https://open.spotify.com/track/1iNZsRg2WI437aWBsQdGaS) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [Universe](https://open.spotify.com/artist/30RtxAnENaOe9XNqA4UxZW) | [4ever \(feat\. Universe\)](https://open.spotify.com/album/3QxEUjtcqaKHos7arMaVcz) | 2:28 | 2023-07-21 |  |
 | [6izarre RAVE \(with 6arelyhuman\)](https://open.spotify.com/track/5IyVZwbeisZ3TiCAFl2PAT) | [bludnymph](https://open.spotify.com/artist/7GwwoezwdbKvUaNgtg51pX), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Pixel Hood](https://open.spotify.com/artist/5sOZjYVTlB5DnPULR6NMMh) | [6izarre RAVE \(with 6arelyhuman\)](https://open.spotify.com/album/0eOJTyWjH6wM6jSkusqwNW) | 2:48 | 2023-09-08 |  |
@@ -66,7 +66,8 @@
 | [look don't touch](https://open.spotify.com/track/4CsKaCN7KJ3AeecfTpyPZz) | [pradababy](https://open.spotify.com/artist/3oy5OQb6YkG9Kjy5ZBAtRg) | [look don't touch](https://open.spotify.com/album/1zUV0WoBJcqcrPOdNqErno) | 1:44 | 2023-08-04 | 2023-08-23 |
 | [LOOK DON’T TOUCH \(w/ cade clair\)](https://open.spotify.com/track/7E9kejvFw8NDfuu4y3hqkp) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm) | [LOOK DON’T TOUCH \(w/ cade clair\)](https://open.spotify.com/album/5MkgYSsxCsItpmkgkhDl0P) | 2:18 | 2023-07-21 |  |
 | [masquerade](https://open.spotify.com/track/0RYHqnmtNRfbYxP6Dn8Vse) | [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [masquerade](https://open.spotify.com/album/1hfRW8Q9CbSzVaKCbaFMxB) | 2:24 | 2023-07-21 |  |
-| [melancholy](https://open.spotify.com/track/5R1z3ZGM6BfmluzrunjmHW) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [melancholy](https://open.spotify.com/album/2FYWDx4Wtm1depG5MYz1ra) | 2:02 | 2023-09-15 |  |
+| [melancholy](https://open.spotify.com/track/4J7ctWPhgFErjdeWyKLkiA) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [melancholy](https://open.spotify.com/album/57BCZOUocCzqyBStq7kAb3) | 2:02 | 2023-09-22 |  |
+| [melancholy](https://open.spotify.com/track/5R1z3ZGM6BfmluzrunjmHW) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [melancholy](https://open.spotify.com/album/2FYWDx4Wtm1depG5MYz1ra) | 2:02 | 2023-09-15 | 2023-10-12 |
 | [Melody and bars \- Remix](https://open.spotify.com/track/0RcIgGcoomCgXRK7nvGZLn) | [iluvern!](https://open.spotify.com/artist/5B1esX3IbuEZQqcx95bMzS), [Ezerkel](https://open.spotify.com/artist/02RtI2MmZwPgDqbFp6cC23), [6inxk](https://open.spotify.com/artist/5Cb3fZehN0o8sKUJcZL82S), [Khnife](https://open.spotify.com/artist/53SmayiyXKMINPttpyiRp1) | [Melody and bars \(Remix\)](https://open.spotify.com/album/1UG6ymTSsOPFM0pwH4yxYV) | 3:07 | 2023-08-25 | 2023-09-30 |
 | [NALGOTICA!](https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [NALGOTICA!](https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc) | 1:54 | 2023-08-18 |  |
 | [Narcissistic gem](https://open.spotify.com/track/7JzCGO8fgagRlcTcdvt6nE) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU) | [Narcissistic gem](https://open.spotify.com/album/24FMaMwjpUIaAgFFLs7dYD) | 1:52 | 2023-07-21 |  |

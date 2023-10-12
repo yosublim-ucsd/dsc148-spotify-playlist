@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 
 > Chill techno, melodic house and tech house.
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,862 likes - 60 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,673 likes - 60 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 14 | [Otherside \- Nils Hoffmann Remix](https://open.spotify.com/track/0z3hYtKH35ltEcPfeyBXj4) | [Eli & Fur](https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4), [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb) | [Otherside \(Nils Hoffmann Remix\)](https://open.spotify.com/album/7xQTJ6p0ExztdmXPhld7th) | 3:38 |
 | 15 | [Stay There](https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Stay There](https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF) | 3:53 |
 | 16 | [Explore Your Future](https://open.spotify.com/track/4xpRs7geTFykkr9Ehp66Fg) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN) | [Genesys](https://open.spotify.com/album/7rCb8j8kaVvoKE44Dxf21y) | 3:40 |
-| 17 | [Spiral \- Edit](https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Spiral \(Edit\)](https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88) | 3:41 |
-| 18 | [Those Days](https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq), [Exit Coda](https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8) | [Those Days](https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX) | 3:47 |
+| 17 | [Those Days](https://open.spotify.com/track/5AE9gV2YLkcGwbgcObklNi) | [Chris Luno](https://open.spotify.com/artist/2fttFhhXMsCbJgf9KqSGcq), [Exit Coda](https://open.spotify.com/artist/1tWlyIsg08lUcBQ4ckFUH8) | [Those Days](https://open.spotify.com/album/2Vvb4crZUQD03YL5NObxCX) | 3:47 |
+| 18 | [Spiral \- Edit](https://open.spotify.com/track/555xHSjplKrHgZteVOwJ7R) | [Philipp Wolf](https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH) | [Spiral \(Edit\)](https://open.spotify.com/album/1Xycot3BuBMYXvCFRMeZ88) | 3:41 |
 | 19 | [Designer Love \- Short Version](https://open.spotify.com/track/5NfgFRdfNQ4HFVPGRoVMU6) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [Designer Love](https://open.spotify.com/album/6OK84B4MX87uzZ7umm25f3) | 4:20 |
 | 20 | [Grouplove](https://open.spotify.com/track/04VNPjMAsLO49GPgsl8xrq) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Youth Is Wasted on the Young](https://open.spotify.com/album/3ijdNgdZu1vj5l5gXfxgGa) | 3:13 |
 | 21 | [The Mirage](https://open.spotify.com/track/1amfDxySvja0PP6LjosvNB) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [The Mirage EP](https://open.spotify.com/album/7h6U7WviIp19ArtCstpINj) | 6:11 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0r3x8OtiwEM.md) - [plain]
 | 59 | [Trust](https://open.spotify.com/track/3iFMV4VhTXINenfrLNWAiy) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Trust](https://open.spotify.com/album/3Hm5FFYt2DLjqWDFR3acCB) | 4:55 |
 | 60 | [I WON'T STAY](https://open.spotify.com/track/16Xp4KpTyFJc4jKXpNFFyE) | [JOPLYN](https://open.spotify.com/artist/32Jt1AK733JbFR82hEZ0Ih) | [I WON'T STAY](https://open.spotify.com/album/1zwBTT49NegfvTuQ2k883O) | 4:46 |
 
-Snapshot ID: `MCw3ZjU5MmFlNTAwOTBlMzFlM2Q0YWZhNDliZTU0ZjMwZDdlZTBlOWEw`
+Snapshot ID: `MCw5ZTAwYzVhNWY1MWFkNDA2YWVmMGY2MTdiYTE0OTEwZDRkNjE2NjQ1`

@@ -4,7 +4,7 @@
 
 > Formas musicales de decir "Te quiero".
 
-131 songs - 8 hr 34 min
+132 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [La quiero a morir](https://open.spotify.com/track/7rSBUr661iFb9ndIJS0xUR) | [Muchachito Bombo Infierno](https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb) | [Idas y vueltas](https://open.spotify.com/album/3UGeyUhO0DhMlUeKTC9AVX) | 3:12 | 2021-02-12 | 2022-11-13 |
 | [La Quiero a Morir](https://open.spotify.com/track/6shvAFKsshKhvsazuGO404) | [Muchachito Bombo Infierno](https://open.spotify.com/artist/6529KpSlnP8S0kXhx7ayBb) | [Idas y Vueltas](https://open.spotify.com/album/4lCSqYA9tC6D2QvPzqpryB) | 3:13 | 2021-02-12 | 2022-07-29 |
 | [Lay Me Down](https://open.spotify.com/track/64GRDrL1efgXclrhVCeuA0) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0vrWqbRQEMKqhTGcDLQK7x) | 3:39 | 2021-02-12 | 2023-10-05 |
+| [Lay Me Down \(feat\. John Legend\)](https://open.spotify.com/track/2T3XExryIariqO0fIfXOdw) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [In The Lonely Hour \(Drowning Shadows Edition\)](https://open.spotify.com/album/0f8RtEC5UUqMX2cveYlylg) | 3:39 | 2021-02-12 |  |
 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 | 2021-02-12 |  |
 | [Like Someone In Love](https://open.spotify.com/track/0AODfPsiINfDBexMFIASsm) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Turn Up The Quiet](https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv) | 3:16 | 2021-02-12 | 2022-06-30 |
 | [Love Me Like You Do \- From "Fifty Shades Of Grey"](https://open.spotify.com/track/3zHq9ouUJQFQRf3cm1rRLu) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 4:12 | 2021-02-12 |  |
@@ -121,7 +122,7 @@
 | [Ti amo](https://open.spotify.com/track/5Gz9p2oDVHNHLoQOPHzaXm) | [Umberto Tozzi](https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld) | [...E nell'aria...ti amo](https://open.spotify.com/album/3jyzDiKusloJ9qHzrkGQEY) | 4:05 | 2021-02-12 | 2022-07-29 |
 | [Time After Time](https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [She's So Unusual: A 30th Anniversary Celebration \(Deluxe Edition\)](https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX) | 4:03 | 2021-02-12 |  |
 | [Todo](https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg) | [Pereza](https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu) | [Animales](https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe) | 4:20 | 2021-02-12 | 2022-11-13 |
-| [Total Eclipse of the Heart](https://open.spotify.com/track/1VrfLrBviw9A6JzRoo3t2C) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Faster Than the Speed of Night](https://open.spotify.com/album/5xVl7f6gxGQirFev8WsNzY) | 6:58 | 2021-02-12 |  |
+| [Total Eclipse of the Heart](https://open.spotify.com/track/1VrfLrBviw9A6JzRoo3t2C) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Faster Than the Speed of Night](https://open.spotify.com/album/5xVl7f6gxGQirFev8WsNzY) | 6:58 | 2021-02-12 | 2023-10-12 |
 | [Total Eclipse of the Heart](https://open.spotify.com/track/7B8xku9v4BCvzZSlngmjmW) | [Bonnie Tyler](https://open.spotify.com/artist/0SD4eZCN4Kr0wQk56hCdh2) | [Faster Than the Speed of Night](https://open.spotify.com/album/4xII45pLolGqLJ92wkPgYS) | 6:58 | 2021-02-12 | 2022-07-29 |
 | [Tu Foto Del DNI](https://open.spotify.com/track/1eWWdO6oIBdJT8SCXaYCYV) | [Marmi](https://open.spotify.com/artist/4ckWVaYN8j0EZrNFRHmxZx), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Tu Foto Del DNI](https://open.spotify.com/album/3NJKXmNaDC83yJhGX76Uc8) | 2:59 | 2021-02-12 | 2022-11-13 |
 | [Tutu](https://open.spotify.com/track/1Ol5LmdNDNpFu1oNwfgkux) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Por Primera Vez](https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I) | 2:59 | 2021-02-12 |  |

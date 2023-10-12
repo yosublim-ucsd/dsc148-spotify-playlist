@@ -4,7 +4,7 @@
 
 > dark & dreamy for night creatures
 
-205 songs - 12 hr 26 min
+206 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [highschool](https://open.spotify.com/track/6ELGRWfVYQiKLIm76U2cDB) | [flyingfish](https://open.spotify.com/artist/4aCzIdK4ystmbXSZVyVrSG) | [highschool](https://open.spotify.com/album/1xcg4HqXuNCPhconEP4E0F) | 3:27 | 2023-08-18 | 2023-09-30 |
 | [How To Never Stop Being Sad](https://open.spotify.com/track/6ZLt6fyonW1xOGMBC9vJPJ) | [dandelion hands](https://open.spotify.com/artist/6mOWFF6HJ6krnIpW0CHLQm) | [It's All In Your Head](https://open.spotify.com/album/68WgULHIkX1dsZYsFPOWWR) | 2:10 | 2023-01-19 |  |
 | [Hush](https://open.spotify.com/track/6QvNcedB1Y7nYJXZ3txTIL) | [Nuclear Daisies](https://open.spotify.com/artist/4YeyVA4cQEijNzJIBMqYOo) | [Hush](https://open.spotify.com/album/3eQ0X8bC4GexeleVPfdsXM) | 4:42 | 2022-10-28 | 2022-11-11 |
+| [I Am Your Daughter](https://open.spotify.com/track/6s3DBMoTmoKxZU4kXD5gyq) | [Florence Rose](https://open.spotify.com/artist/63ZyqesWEYQfpkL12NFwre) | [I Am Your Daughter](https://open.spotify.com/album/5xBo2DR5cCyyZQs5TvwsVe) | 3:59 | 2023-10-11 |  |
 | [I Cry While You Sleep \- Dream, Ivory Version](https://open.spotify.com/track/1i54OpHUYRrjxxA8Cg6P9a) | [Pearly Drops](https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL), [Dream, Ivory](https://open.spotify.com/artist/0qZyvjwZauLmrobrpJmvib) | [I Cry While You Sleep \(Dream, Ivory Version\)](https://open.spotify.com/album/5nt93ckjegXoK5rJlLZJ22) | 3:10 | 2023-09-29 |  |
 | [I Don't Need You](https://open.spotify.com/track/7IWdKDoQ3QNaF790h3skyc) | [Acid Ghost](https://open.spotify.com/artist/3DxAikzv8719U68yCVRELD) | [I Don't Need You](https://open.spotify.com/album/2Wl1F5cEimia3CrJO7Jsrm) | 3:06 | 2022-09-02 | 2023-05-25 |
 | [I Get Confused](https://open.spotify.com/track/4SbAeYSD7Fj2rL23sl8m1T) | [The Brooksidez](https://open.spotify.com/artist/3eU81ipH6PM8mWeywCS173) | [Signs Dreams and Memories](https://open.spotify.com/album/51wEqTdb3qnzEbpPNqCXAM) | 2:14 | 2022-09-02 | 2022-12-13 |

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Latvia.",
-  "num_followers": 14852,
+  "num_followers": 14850,
   "original_name": "Top 50 - Latvia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzUwMzAyNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzUwMzg4ODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2YSzYUF3jWqb9YP9VXmpjE"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "Strangers",
         "url": "https://open.spotify.com/album/18ogtNq9F7DmMkNYO6Xb4k"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "Scarlet",
         "url": "https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/56y1jOTK0XSvJzVv9vHQBK"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -77,23 +77,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 193466,
-      "name": "In Da Club",
-      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
@@ -113,7 +97,75 @@
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 193466,
+      "name": "In Da Club",
+      "url": "https://open.spotify.com/track/4RY96Asd9IefaL3X4LOLZ8"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/3e2kBXojxipDi0ItyCNx4e"
+      },
+      "artists": [
+        {
+          "name": "Singap\u016bras Sat\u012bns",
+          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "DEGVIELA",
+      "url": "https://open.spotify.com/track/1qlXfJNWyNwIXYnlqmqV6u"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 249466,
+      "name": "P.I.M.P.",
+      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "The Massacre",
+        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Olivia",
+          "url": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
+        }
+      ],
+      "duration_ms": 209106,
+      "name": "Candy Shop",
+      "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -137,7 +189,23 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 256226,
+      "name": "Many Men (Wish Death)",
+      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "a Gift & a Curse",
         "url": "https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw"
@@ -153,23 +221,7 @@
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "ecstacy (slowed)",
-        "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
-      },
-      "artists": [
-        {
-          "name": "SUICIDAL-IDOL",
-          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
-        }
-      ],
-      "duration_ms": 119120,
-      "name": "ecstacy (slowed)",
-      "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "Daylight",
         "url": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
@@ -185,23 +237,23 @@
       "url": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+        "name": "ecstacy (slowed)",
+        "url": "https://open.spotify.com/album/6KLSjdqyjISLUhW8bx0Bqi"
       },
       "artists": [
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "SUICIDAL-IDOL",
+          "url": "https://open.spotify.com/artist/6KOszWgIriJLaPOySuBOTI"
         }
       ],
-      "duration_ms": 249466,
-      "name": "P.I.M.P.",
-      "url": "https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351"
+      "duration_ms": 119120,
+      "name": "ecstacy (slowed)",
+      "url": "https://open.spotify.com/track/1JgknGBbrfmEHeOZH051SS"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "The Massacre",
         "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
@@ -210,18 +262,86 @@
         {
           "name": "50 Cent",
           "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Olivia",
-          "url": "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
         }
       ],
-      "duration_ms": 209106,
-      "name": "Candy Shop",
-      "url": "https://open.spotify.com/track/5D2mYZuzcgjpchVY1pmTPh"
+      "duration_ms": 237706,
+      "name": "Just A Lil Bit",
+      "url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/3e2kBXojxipDi0ItyCNx4e"
+      },
+      "artists": [
+        {
+          "name": "Singap\u016bras Sat\u012bns",
+          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
+        },
+        {
+          "name": "Ricky Done Did It!",
+          "url": "https://open.spotify.com/artist/4MQhLr5xFRDCsLuJk3fYx2"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "LABVAKAR",
+      "url": "https://open.spotify.com/track/2FYNGmaKS5HGhWwRJINAhl"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Nate Dogg",
+          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
+        }
+      ],
+      "duration_ms": 224426,
+      "name": "21 Questions",
+      "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -241,71 +361,23 @@
       "url": "https://open.spotify.com/track/7aqfrAY2p9BUSiupwk3svU"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/3e2kBXojxipDi0ItyCNx4e"
       },
       "artists": [
         {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+          "name": "Singap\u016bras Sat\u012bns",
+          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
         }
       ],
-      "duration_ms": 256226,
-      "name": "Many Men (Wish Death)",
-      "url": "https://open.spotify.com/track/2I9foKseoFQh07p6sD2voE"
+      "duration_ms": 177464,
+      "name": "SUPER!",
+      "url": "https://open.spotify.com/track/60XHcynoi7yfXpt0o4uoHh"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "The Massacre",
-        "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 237706,
-      "name": "Just A Lil Bit",
-      "url": "https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240400,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "(It Goes Like) Nanana [Edit]",
         "url": "https://open.spotify.com/album/2LVDNOUUy2g8517ZEtQIcK"
@@ -321,23 +393,55 @@
       "url": "https://open.spotify.com/track/23RoR84KodL5HWvUTneQ1w"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 251094,
-      "name": "Virginia Beach",
-      "url": "https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed"
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/3e2kBXojxipDi0ItyCNx4e"
+      },
+      "artists": [
+        {
+          "name": "Singap\u016bras Sat\u012bns",
+          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
+        }
+      ],
+      "duration_ms": 145174,
+      "name": "P\u0100RIS B\u0100RI",
+      "url": "https://open.spotify.com/track/4QnMOPCrYfHiYLc9EuceCj"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/3e2kBXojxipDi0ItyCNx4e"
+      },
+      "artists": [
+        {
+          "name": "Singap\u016bras Sat\u012bns",
+          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
+        }
+      ],
+      "duration_ms": 248333,
+      "name": "BEZ APEN\u0112M",
+      "url": "https://open.spotify.com/track/7nz2E15g09yJ17Kr1hJ9ab"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "Popular (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/5O0zUvdnJr0RbWzLFneN2i"
@@ -361,30 +465,10 @@
       "url": "https://open.spotify.com/track/6WzRpISELf3YglGAh7TXcG"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Nate Dogg",
-          "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h"
-        }
-      ],
-      "duration_ms": 224426,
-      "name": "21 Questions",
-      "url": "https://open.spotify.com/track/41bIQPBE1lFN0mmw6Lmssz"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "DEGVIELA",
-        "url": "https://open.spotify.com/album/5RmD6kKLnRqCM0gYJG5CTd"
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/3e2kBXojxipDi0ItyCNx4e"
       },
       "artists": [
         {
@@ -392,32 +476,44 @@
           "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
         }
       ],
-      "duration_ms": 160000,
-      "name": "DEGVIELA",
-      "url": "https://open.spotify.com/track/0HRzzozFibBg3aZLcO082i"
+      "duration_ms": 177290,
+      "name": "PIECAS DIENAS",
+      "url": "https://open.spotify.com/track/3CEWr9ljS98w1OKSWFGZ3G"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
+        "name": "2014 Forest Hills Drive",
+        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 310490,
-      "name": "Slime You Out (feat. SZA)",
-      "url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH"
+      "duration_ms": 292799,
+      "name": "No Role Modelz",
+      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "Window Shopper",
+        "url": "https://open.spotify.com/album/6CZsZhx7G4jMx7qoRSFCrI"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 191813,
+      "name": "Window Shopper",
+      "url": "https://open.spotify.com/track/1bevrs76fdGW3y03R5q6GB"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "AM",
         "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
@@ -428,12 +524,44 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+      "duration_ms": 161123,
+      "name": "Why'd You Only Call Me When You're High?",
+      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/3e2kBXojxipDi0ItyCNx4e"
+      },
+      "artists": [
+        {
+          "name": "Singap\u016bras Sat\u012bns",
+          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "STULBS UN B\u012aSTAMS",
+      "url": "https://open.spotify.com/track/3UECFZ6jX50ENvhOWbNgxm"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/3e2kBXojxipDi0ItyCNx4e"
+      },
+      "artists": [
+        {
+          "name": "Singap\u016bras Sat\u012bns",
+          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
+        }
+      ],
+      "duration_ms": 218360,
+      "name": "AUGSTS ASINSSPIEDIENS",
+      "url": "https://open.spotify.com/track/4V8B8K69k8AvhdzIYM86he"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "3D : The Remixes",
         "url": "https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s"
@@ -453,55 +581,23 @@
       "url": "https://open.spotify.com/track/01qFKNWq73UfEslI0GvumE"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
-        "name": "2014 Forest Hills Drive",
-        "url": "https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG"
+        "name": "Get Rich Or Die Tryin'",
+        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
       },
       "artists": [
         {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
         }
       ],
-      "duration_ms": 292799,
-      "name": "No Role Modelz",
-      "url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr"
+      "duration_ms": 196640,
+      "name": "If I Can't",
+      "url": "https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 161123,
-      "name": "Why'd You Only Call Me When You're High?",
-      "url": "https://open.spotify.com/track/086myS9r57YsLbJpU0TgK9"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "we fell in love in october / October Passed Me By",
-        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 184153,
-      "name": "we fell in love in october",
-      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
@@ -521,7 +617,7 @@
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "For All The Dogs",
         "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
@@ -532,12 +628,12 @@
           "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 164142,
-      "name": "Daylight",
-      "url": "https://open.spotify.com/track/4ZT0wGKwlJRjpMUuwZVy3p"
+      "duration_ms": 251094,
+      "name": "Virginia Beach",
+      "url": "https://open.spotify.com/track/3eP13S8D5m2cweMEg3ZDed"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
@@ -553,235 +649,7 @@
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 155154,
-      "name": "Fear Of Heights",
-      "url": "https://open.spotify.com/track/53KaP77tkliz36LPxWGlWK"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 319191,
-      "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
-      "url": "https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "Get Rich Or Die Tryin'",
-        "url": "https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "If I Can't",
-      "url": "https://open.spotify.com/track/7JeKXMQKm6GoLGTkNy2jZ0"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "Window Shopper",
-        "url": "https://open.spotify.com/album/6CZsZhx7G4jMx7qoRSFCrI"
-      },
-      "artists": [
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        }
-      ],
-      "duration_ms": 191813,
-      "name": "Window Shopper",
-      "url": "https://open.spotify.com/track/1bevrs76fdGW3y03R5q6GB"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "Dance The Night (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 176579,
-      "name": "Dance The Night - From Barbie The Album",
-      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "Long Way Down (Deluxe)",
-        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
-      },
-      "artists": [
-        {
-          "name": "Tom Odell",
-          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
-        }
-      ],
-      "duration_ms": 244360,
-      "name": "Another Love",
-      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 266847,
-      "name": "8am in Charlotte",
-      "url": "https://open.spotify.com/track/0w3Mfe4PIVjuFjJbe3OlYv"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "Aft\u00ebrLyfe",
-        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
-      },
-      "artists": [
-        {
-          "name": "Yeat",
-          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
-        }
-      ],
-      "duration_ms": 211253,
-      "name": "Nun id change",
-      "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "UTOPIA",
-        "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        }
-      ],
-      "duration_ms": 211582,
-      "name": "I KNOW ?",
-      "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "For All The Dogs",
-        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 285630,
-      "name": "Calling For You (feat. 21 Savage)",
-      "url": "https://open.spotify.com/track/2nibvvDdAQkVraYP00z2RS"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "\u0412\u0430\u043c\u043f\u0438\u0440",
-        "url": "https://open.spotify.com/album/5lBcoU3iDbQsfnS7Ik6OXb"
-      },
-      "artists": [
-        {
-          "name": "Scally Milano",
-          "url": "https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg"
-        },
-        {
-          "name": "uglystephan",
-          "url": "https://open.spotify.com/artist/3I9Bd4StaxvFWPG9AAjlrO"
-        }
-      ],
-      "duration_ms": 113142,
-      "name": "\u0412\u0430\u043c\u043f\u0438\u0440",
-      "url": "https://open.spotify.com/track/7p62Jtx8nlvgQXYawhzIcI"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "DRIVE",
-        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
-      },
-      "artists": [
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 153442,
-      "name": "Lay Low",
-      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
-      "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 111626,
-      "name": "Stargirl Interlude",
-      "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
-    },
-    {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "The Massacre",
         "url": "https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH"
@@ -797,23 +665,95 @@
       "url": "https://open.spotify.com/track/69bHJ9qs5FrUJbKP8xU8uZ"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/3e2kBXojxipDi0ItyCNx4e"
       },
       "artists": [
         {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          "name": "Singap\u016bras Sat\u012bns",
+          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
         }
       ],
-      "duration_ms": 167303,
-      "name": "As It Was",
-      "url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e"
+      "duration_ms": 89307,
+      "name": "P.S.",
+      "url": "https://open.spotify.com/track/2tlDEi1rdjHbuwmC9GaWW2"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "SUPER",
+        "url": "https://open.spotify.com/album/3e2kBXojxipDi0ItyCNx4e"
+      },
+      "artists": [
+        {
+          "name": "Singap\u016bras Sat\u012bns",
+          "url": "https://open.spotify.com/artist/3X4o7qy1ci4qtCVg2AtuXb"
+        }
+      ],
+      "duration_ms": 146915,
+      "name": "LIBIDO",
+      "url": "https://open.spotify.com/track/0SfNQlnUbaS5BUczsEbeqp"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "Curtis",
+        "url": "https://open.spotify.com/album/5VfBwkAoSsQwtZjPU0Gr7h"
+      },
+      "artists": [
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        }
+      ],
+      "duration_ms": 247946,
+      "name": "Ayo Technology",
+      "url": "https://open.spotify.com/track/36Hwcla06Q5BCr59CL0sBp"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "we fell in love in october / October Passed Me By",
+        "url": "https://open.spotify.com/album/7vud0sY43VTv28MbWiglDa"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 184153,
+      "name": "we fell in love in october",
+      "url": "https://open.spotify.com/track/6IPwKM3fUUzlElbvKw2sKl"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "Long Way Down (Deluxe)",
+        "url": "https://open.spotify.com/album/0Gf1yE895FKK4YWVRuAeg8"
+      },
+      "artists": [
+        {
+          "name": "Tom Odell",
+          "url": "https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX"
+        }
+      ],
+      "duration_ms": 244360,
+      "name": "Another Love",
+      "url": "https://open.spotify.com/track/3JvKfv6T31zO0ini8iNItO"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
@@ -833,23 +773,59 @@
       "url": "https://open.spotify.com/track/4PmMVdIFpJTB9WQbmILf4p"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+        "name": "Aft\u00ebrLyfe",
+        "url": "https://open.spotify.com/album/25Uddgldy3slnChqKqHsIM"
       },
       "artists": [
         {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
         }
       ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
+      "duration_ms": 211253,
+      "name": "Nun id change",
+      "url": "https://open.spotify.com/track/00zk0uua6s2ifh0Nc3ppfW"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "DRIVE",
+        "url": "https://open.spotify.com/album/1Pl9ZGXwayXPg5qRVpYo74"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 153442,
+      "name": "Lay Low",
+      "url": "https://open.spotify.com/track/3IhM5Mber8KA0NaRNpK2px"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/4AdZV63ycxFLF6Hcol0QnB"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 111626,
+      "name": "Stargirl Interlude",
+      "url": "https://open.spotify.com/track/5gDWsRxpJ2lZAffh5p7K0w"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
       "album": {
         "name": "Seven (feat. Latto)",
         "url": "https://open.spotify.com/album/53985D8g3JcGBoULSOYYKX"
@@ -869,20 +845,40 @@
       "url": "https://open.spotify.com/track/7x9aauaA9cu6tyfpHnqDLo"
     },
     {
-      "added_at": "2023-10-10 08:50:32",
+      "added_at": "2023-10-11 09:25:13",
       "album": {
-        "name": "Strange Trails",
-        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
+        "name": "For All The Dogs",
+        "url": "https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW"
       },
       "artists": [
         {
-          "name": "Lord Huron",
-          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 208211,
-      "name": "The Night We Met",
-      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
+      "duration_ms": 310490,
+      "name": "Slime You Out (feat. SZA)",
+      "url": "https://open.spotify.com/track/0AYt6NMyyLd0rLuvr0UkMH"
+    },
+    {
+      "added_at": "2023-10-11 09:25:13",
+      "album": {
+        "name": "Dance The Night (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 176579,
+      "name": "Dance The Night - From Barbie The Album",
+      "url": "https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA"
     }
   ],
   "unique_name": "Top 50 - Latvia",

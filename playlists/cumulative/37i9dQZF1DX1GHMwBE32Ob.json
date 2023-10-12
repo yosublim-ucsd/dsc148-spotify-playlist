@@ -1532,7 +1532,7 @@
       ],
       "date_added": "2022-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 191722,
       "name": "KPK (Ko Por Ke)",
       "url": "https://open.spotify.com/track/17q1F7gvBjI5aizepORyYG"
@@ -1954,6 +1954,32 @@
       "duration_ms": 155005,
       "name": "No Peace (Violence)",
       "url": "https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl"
+    },
+    {
+      "album": {
+        "name": "Nobody",
+        "url": "https://open.spotify.com/album/6ZN0u3yb58U9SKLQ5ciIoq"
+      },
+      "artists": [
+        {
+          "name": "LAOD",
+          "url": "https://open.spotify.com/artist/7pUd9fPD9tSOugDrBHqMl9"
+        },
+        {
+          "name": "Lyta",
+          "url": "https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE"
+        },
+        {
+          "name": "Nelly Baradi",
+          "url": "https://open.spotify.com/artist/77bRctbyJcjkQcyEa5wrQr"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164571,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/5WKHQJCEHNqzZHZduHGrHc"
     },
     {
       "album": {

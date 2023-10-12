@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlNTgzNjM2YWY5NWQzZDc0YzdhMzcxYTcyOGUwYzdlYzFjODRkNDc4",
+  "snapshot_id": "MCwzZmI5NTM1M2M3NDc4NzE5MDBkODdiZGUxNjc5MzBhYmYwNmFkMzJi",
   "tracks": [
     {
       "added_at": "2023-10-04 03:00:00",
@@ -263,22 +263,6 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
-        "name": "Natural",
-        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
-      },
-      "artists": [
-        {
-          "name": "Soledad",
-          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
-        }
-      ],
-      "duration_ms": 220215,
-      "name": "Bolero",
-      "url": "https://open.spotify.com/track/1VIQQvSf2kZJhMkUQ8QTqv"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
         "name": "Munanakunanchej en el Camino Kurmi",
         "url": "https://open.spotify.com/album/2kk6T2HCYPDoUcAqBry7zT"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 201186,
       "name": "Caca en la Cabeza",
       "url": "https://open.spotify.com/track/4p2wKzOAsHJ0QJ8jo7orWE"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
+        "name": "Natural",
+        "url": "https://open.spotify.com/album/6vmXyjSgcNzzi7Zd1ikhvx"
+      },
+      "artists": [
+        {
+          "name": "Soledad",
+          "url": "https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY"
+        }
+      ],
+      "duration_ms": 220215,
+      "name": "Bolero",
+      "url": "https://open.spotify.com/track/1VIQQvSf2kZJhMkUQ8QTqv"
     },
     {
       "added_at": "2023-10-04 03:00:00",
@@ -571,6 +571,26 @@
     {
       "added_at": "2023-10-04 03:00:00",
       "album": {
+        "name": "Distra\u00edda",
+        "url": "https://open.spotify.com/album/11AaRkvtuiD9NxBhCdoMwZ"
+      },
+      "artists": [
+        {
+          "name": "Faraonika",
+          "url": "https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk"
+        },
+        {
+          "name": "Coghlan",
+          "url": "https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg"
+        }
+      ],
+      "duration_ms": 162641,
+      "name": "Distra\u00edda",
+      "url": "https://open.spotify.com/track/3tbD5rcDj4wAl9gLg5z42E"
+    },
+    {
+      "added_at": "2023-10-04 03:00:00",
+      "album": {
         "name": "EL MUNDO PEQUE\u00d1O",
         "url": "https://open.spotify.com/album/7wmhvmQJ2Ms31oXLF0mLzi"
       },
@@ -603,26 +623,6 @@
       "duration_ms": 190393,
       "name": "M\u00e1gica Intuici\u00f3n",
       "url": "https://open.spotify.com/track/0LyxlEukWhwdDyMuHdAsY8"
-    },
-    {
-      "added_at": "2023-10-04 03:00:00",
-      "album": {
-        "name": "Distra\u00edda",
-        "url": "https://open.spotify.com/album/11AaRkvtuiD9NxBhCdoMwZ"
-      },
-      "artists": [
-        {
-          "name": "Faraonika",
-          "url": "https://open.spotify.com/artist/5BadZi3fy3MKBpznfuH6Wk"
-        },
-        {
-          "name": "Coghlan",
-          "url": "https://open.spotify.com/artist/3w5H96UHynWkmtg1zm7HUg"
-        }
-      ],
-      "duration_ms": 162641,
-      "name": "Distra\u00edda",
-      "url": "https://open.spotify.com/track/3tbD5rcDj4wAl9gLg5z42E"
     },
     {
       "added_at": "2023-10-04 03:00:00",

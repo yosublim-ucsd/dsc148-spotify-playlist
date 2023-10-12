@@ -4,7 +4,7 @@
 
 > Country tracks to get your beast mode on!
 
-53 songs - 2 hr 52 min
+54 songs - 2 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 | 2023-01-27 |  |
 | [Crazy Angels](https://open.spotify.com/track/0ZOTahGHXAJjKZXtW8aDT6) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Crazy Angels](https://open.spotify.com/album/1LWYFA4ZIyQxM4nX5Cx9EU) | 2:36 | 2023-01-27 | 2023-07-01 |
 | [Creeps](https://open.spotify.com/track/4vlk5JUheqOSCZqgts338H) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Hell Paso](https://open.spotify.com/album/5seABmIu2cnoRMDoVHZvOD) | 3:44 | 2023-01-27 |  |
+| [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/track/3xGnEIb8czDRlGZjbAITlL) | [Kidd G](https://open.spotify.com/artist/5edcHuf8pWH3I00WTorajM), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1) | [Dirt Road \(Remix\) \(feat\. BRELAND\)](https://open.spotify.com/album/6yU40tDImCqU2RrXGvh9Fo) | 2:35 | 2023-06-30 |  |
 | [Don't Come Lookin'](https://open.spotify.com/track/3CdUlano6ybGrlycGfEVgt) | [Jackson Dean](https://open.spotify.com/artist/0VkWDV0Bfd0EkXvaKAXUTl) | [Greenbroke](https://open.spotify.com/album/4Y0V2f8zZ53O0mF9nL1ine) | 3:07 | 2023-01-27 |  |
 | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx), [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Drunk \(And I Don't Wanna Go Home\)](https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ) | 4:05 | 2023-01-27 |  |
 | [Dutton Ranch Freestyle](https://open.spotify.com/track/5GUBtgwJqu5YYRlH9UmsEh) | [David Morris](https://open.spotify.com/artist/23Pb3oXBOQj9WEziS6laUW) | [Dutton Ranch Freestyle](https://open.spotify.com/album/12ucndqZaX2jUTEGxWMjDk) | 2:23 | 2023-01-27 |  |
@@ -51,7 +52,7 @@
 | [The Fighter](https://open.spotify.com/track/5OUSPcqhYTOzpbXzoEvKim) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ripcord](https://open.spotify.com/album/1IbfOjLqUSkhtXLpX31WZq) | 3:04 | 2023-01-27 |  |
 | [The Weekend](https://open.spotify.com/track/48tAdjG4ng2JfECa7OQujk) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [The Devil Don't Sleep](https://open.spotify.com/album/42YmulIH1BikBWdnqelvnb) | 3:07 | 2023-01-27 |  |
 | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/track/4BLiRJdtn8jwUVtvbHIv2T) | [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Throw It Back \(feat\. Keith Urban\)](https://open.spotify.com/album/56rScV2lFznLUGxqYYwUpo) | 3:08 | 2023-01-27 |  |
-| [Trap Still Bumpin](https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Still Bumpin](https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g) | 2:44 | 2023-06-30 |  |
+| [Trap Still Bumpin](https://open.spotify.com/track/3ek3HsC97ny1IklOZQC88G) | [Blanco Brown](https://open.spotify.com/artist/3yzRiNMZdTsSUgplcyYZ4i), [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Trap Still Bumpin](https://open.spotify.com/album/732Y6EuDkkhk3MC3YJIX8g) | 2:44 | 2023-06-30 | 2023-10-12 |
 | [TRUCK](https://open.spotify.com/track/0OPcMpjhDyILRccj05f6S6) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 3:38 | 2023-01-27 |  |
 | [Tulsa](https://open.spotify.com/track/6mGv9INV7tnfldu5hFv0eH) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Tulsa](https://open.spotify.com/album/3v6zVsK3CAPEtIi3GHHMUN) | 2:42 | 2023-01-27 |  |
 | [Waiting for the Thunder](https://open.spotify.com/track/0Rxgdpe1zgZ6ZzHgxSaYEJ) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Like an Arrow](https://open.spotify.com/album/4r0Zb1FdEFbpF5olm5ZIW0) | 4:07 | 2023-01-27 |  |

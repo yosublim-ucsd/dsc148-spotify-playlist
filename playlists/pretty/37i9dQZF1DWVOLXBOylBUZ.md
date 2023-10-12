@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 
 > Latinoamérica baila al ritmo de Ovy on the Drums, Bad Gyal y Ryan Castro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 509,382 likes - 100 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 509,094 likes - 100 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 5 | [Lollipop](https://open.spotify.com/track/3cDyocF0Ibdfs1SFQk5cLZ) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [EVERYBODY GO TO THE DISCOTEK](https://open.spotify.com/album/11UJfH39O0VqLiQGLW0D0e) | 3:19 |
 | 6 | [7 Lágrimas \- Remix](https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [7 Lágrimas \(Remix\)](https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl) | 3:22 |
 | 7 | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/track/1zY3UlKOpFLZJNOYjBI6Ak) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [SUSTANCIAS EN MI CORAZON](https://open.spotify.com/album/0a1zYmCcd5TcBtcNhQS7nK) | 3:16 |
-| 8 | [ROMÁNTICOS DE LUNES](https://open.spotify.com/track/7mfztd9ZxJF4c5JYZhe8XH) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 4:03 |
+| 8 | [ROMÁNTICOS DE LUNES](https://open.spotify.com/track/3b9hmdwt0RWluhFm3hLKz8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 4:02 |
 | 9 | [Santorini \- Remix](https://open.spotify.com/track/7Kzn6nzJQiUEj79IgxeD7F) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Santorini \(Remix\)](https://open.spotify.com/album/0kRKA3RJchMyON78ky1fmw) | 2:44 |
 | 10 | [NO PIENSO LLAMAR](https://open.spotify.com/track/3xE3TyeIxL24IstPdy5IBv) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [NO PIENSO LLAMAR](https://open.spotify.com/album/03VZEfV1aKrAFDWgzbx915) | 3:18 |
 | 11 | [PUERTO ESCONDIDO](https://open.spotify.com/track/6p9lWmoGI6WNlh3MFNhYSU) | [Young Cister](https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9) | [PUERTO ESCONDIDO](https://open.spotify.com/album/4lj7xDOBMMb76MrLKt9w8z) | 3:28 |
@@ -25,14 +25,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 15 | [Antes de Perderte](https://open.spotify.com/track/4RtPruLRZbyirtJGqYHPQm) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Antes de Perderte](https://open.spotify.com/album/1l6jE76o3QeZOXPt6G5Je7) | 2:56 |
 | 16 | [DOCE](https://open.spotify.com/track/4PVTQLnioH7nyQw9tqydeH) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf), [MagiaBeats](https://open.spotify.com/artist/2VtpXTU8gqWLHabwXxACcw) | [DOCE](https://open.spotify.com/album/1jCDlwlLxrRkMUFq0MyC4b) | 2:38 |
 | 17 | [NO PARE \- REMIX](https://open.spotify.com/track/64eezAxFI6wjCPcshao8Pe) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ) | [NO PARE \(REMIX\)](https://open.spotify.com/album/4pyrlTwGbdl8NXHVSNty1k) | 3:05 |
-| 18 | [VELOCIDAD CRUCERO](https://open.spotify.com/track/7dwyaxLYV1gWZjdfaFvLVV) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:16 |
+| 18 | [VELOCIDAD CRUCERO](https://open.spotify.com/track/7bLJA1PblcBfTU6aqB1Gct) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:15 |
 | 19 | [MIRADAS](https://open.spotify.com/track/6HEabHjw16crOLDEPYsZgR) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH) | [MIRADAS](https://open.spotify.com/album/0Csjozr30vsQNfSATQjCOQ) | 2:44 |
 | 20 | [TROYA](https://open.spotify.com/track/1CEdDExqYCaf9UB3nwsBZs) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [TROYA](https://open.spotify.com/album/6lwxRxjLpoyE1BFnWumftN) | 2:43 |
 | 21 | [APA](https://open.spotify.com/track/3vKYvbzB7801a5qd47pxkm) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:19 |
 | 22 | [Miénteme](https://open.spotify.com/track/2Ach6TMHHih48PYNszSQzP) | [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Miénteme](https://open.spotify.com/album/1LVpA6huMFTyjyplx8tQgD) | 2:38 |
 | 23 | [En Mi Piel](https://open.spotify.com/track/7xkMZiXypSSqi7EIIYLDHF) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Fainal & Shako](https://open.spotify.com/artist/2aWyENWGXJIHKOY6BZ7DTD) | [En Mi Piel](https://open.spotify.com/album/2G87V7lMtUFAUXb9DqWaF3) | 3:29 |
 | 24 | [CASUALIDAD](https://open.spotify.com/track/3yIyUQXF050PehHtbkgaDu) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [PARAÍSO](https://open.spotify.com/album/7b3PrkHcWx17AQwlI2M1Uc) | 3:03 |
-| 25 | [NX TX SIENTAS SOLX](https://open.spotify.com/track/4OmSsqo4Hi9LCIh9Z4gKKq) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 1:59 |
+| 25 | [NX TX SIENTAS SOLX](https://open.spotify.com/track/0xzNdNJSQnHfRLYRdVhERp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:01 |
 | 26 | [Gafas Pal Sol](https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 2:42 |
 | 27 | [PASAJERO](https://open.spotify.com/track/1uFAI2C6r3YBQmXCAPGzZv) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 2:29 |
 | 28 | [De la Calle \- Remix](https://open.spotify.com/track/6GYR87yZfXlWWllkPJTQty) | [Martina Chanell](https://open.spotify.com/artist/0Z7DuTrKPkljJP0O9eiiVJ), [Andresito Otro Corte](https://open.spotify.com/artist/6q8z8dubMZel54z4mYu1Oo), [Gabo El Chamaquito](https://open.spotify.com/artist/6Fz1LTRJ7RAuUf1CRSN3dU) | [De la Calle \(Remix\)](https://open.spotify.com/album/6XBvuVSZXQzGrmPRNKVVlL) | 3:16 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOLXBOylBUZ.md) - [plain]
 | 99 | [Como Ayer](https://open.spotify.com/track/3MWReEPNS9G3tFp8wN9aNY) | [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [Como Ayer](https://open.spotify.com/album/2H7jkIiLaVmNeKYqMHyJYe) | 2:37 |
 | 100 | [Almas Gemelas](https://open.spotify.com/track/5Y37PYMXdUxfpCWn9o5r6f) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [12 12](https://open.spotify.com/album/6zSJ3hOlv7MdsBnoTsorpd) | 2:09 |
 
-Snapshot ID: `MCxjMDNjODc5NTVhZjI5NmQzODQxMzBkY2FmNzQzOTViOWIzMWQ1OTZh`
+Snapshot ID: `MCw2NTIyODA2ZjYzOTg5ZGVlZWQ0NDk2NjhlNTA5ZjY3MDdjNjQ4OWY3`

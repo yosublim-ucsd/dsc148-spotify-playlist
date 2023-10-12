@@ -4,7 +4,7 @@
 
 > The best of modern psychedelic rock,  neo\-psychedelic, and psychedelic indie.
 
-889 songs - 2 day 10 hr 14 min
+890 songs - 2 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,7 +492,8 @@
 | [Medicine](https://open.spotify.com/track/6pcJGuExZqLqi5SY5CSULh) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta), [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [Sus Dog](https://open.spotify.com/album/0URaEmyTyvybd3lnbKnA3f) | 5:11 | 2023-06-09 | 2023-08-26 |
 | [Medusa](https://open.spotify.com/track/3fn3cu0a9Rxwfdf98P9Lo2) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Medusa](https://open.spotify.com/album/0wbKY324xkDkzZvSrHQCVW) | 2:58 | 2023-04-14 |  |
 | [Meet You in the Dark](https://open.spotify.com/track/5QOmCG8ujCRA7lgDOFJXv6) | [Das Kope](https://open.spotify.com/artist/7pE9Rkb1GpfiociOILnA1j) | [Meet You in the Dark](https://open.spotify.com/album/5BqQM6aij8GzQgcNyuOQln) | 2:55 | 2021-04-02 | 2022-07-07 |
-| [Meshuggah](https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Meshuggah](https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93) | 4:37 | 2023-03-16 |  |
+| [Meshuggah](https://open.spotify.com/track/5qhbGJnarFtyRabkYMK8ex) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [Meshuggah](https://open.spotify.com/album/5GzhTq1Iu7jioZquau8f93) | 4:37 | 2023-03-16 | 2023-10-12 |
+| [Meshuggah](https://open.spotify.com/track/7FpD6W73sZuEEp4dNRCwy9) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:37 | 2023-10-10 |  |
 | [Message to Belial](https://open.spotify.com/track/10UowVLIvh4tRKl5fyyxEf) | [The Sadies](https://open.spotify.com/artist/3x0LgZSPgNh91O6NBMtqTs) | [Message to Belial](https://open.spotify.com/album/5SkWuKri1hKZj18j33maZ3) | 3:15 | 2022-03-08 | 2022-07-02 |
 | [Meteor Shower](https://open.spotify.com/track/2xWnX3wmodlJgoEgLnyeMG) | [Scoobert Doobert](https://open.spotify.com/artist/5zKkCi9E4L8p6aRiCSJVTn), [Jamie Drake](https://open.spotify.com/artist/7rvB7ONJSqlmaCrcbhelir) | [Meteor Shower](https://open.spotify.com/album/0mJGb5oXHgyLX5DlJLnt8D) | 3:51 | 2023-04-28 | 2023-06-23 |
 | [Metronomic Underground](https://open.spotify.com/track/5C69YlbofWRKFo6DRyXFrl) | [Stereolab](https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt) | [Emperor Tomato Ketchup \(Expanded Edition\)](https://open.spotify.com/album/6SI4L8ARoPuOCGcnBrnIkn) | 7:54 | 2022-07-22 | 2023-01-14 |

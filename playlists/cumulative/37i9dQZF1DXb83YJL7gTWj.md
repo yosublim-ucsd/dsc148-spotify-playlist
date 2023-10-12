@@ -4,7 +4,7 @@
 
 > Press play and enjoy a relaxing meal\. Easy!
 
-286 songs - 16 hr 54 min
+287 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 | 2022-06-30 |  |
 | [Be More](https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Be More](https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF) | 3:51 | 2023-08-04 |  |
 | [Be Okay](https://open.spotify.com/track/2DBkMf9PHeJAc44vuYjfPL) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Be Okay](https://open.spotify.com/album/2WP9xHy2XZjI78eXGmQ5XE) | 3:28 | 2023-08-04 | 2023-10-06 |
+| [Be Okay](https://open.spotify.com/track/717CKNCKUdDL17beOjQQEi) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 3:28 | 2023-09-03 |  |
 | [be your friend](https://open.spotify.com/track/609bvXPOXH0YC7TU5cfRSP) | [Forrest Nolan](https://open.spotify.com/artist/3M8UUCqb0mIEn5S2lO13yv) | [You Make Me Feel Alright](https://open.spotify.com/album/3BDzqGbPFnSceUIqzX2jQp) | 3:14 | 2022-01-13 | 2022-07-28 |
 | [Beautiful & Brutal](https://open.spotify.com/track/0WYwcvThvdlJl3xLN7mj4E) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [Beautiful & Brutal](https://open.spotify.com/album/7DhbvBKxZl4yi6h4JW5tAL) | 3:31 | 2021-11-05 | 2022-07-29 |
 | [Beautiful Stranger](https://open.spotify.com/track/2Hs7CsaCy7U6tGy8s3zdMB) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:21 | 2022-08-26 | 2022-10-14 |
@@ -180,7 +181,7 @@
 | [Montreal](https://open.spotify.com/track/1z8F0DUrgxictKm2lzvuki) | [Port Cities](https://open.spotify.com/artist/6E9qPOOjsuwnt5kFLFCnWF) | [Montreal](https://open.spotify.com/album/0R9Jtj1ieDKgBW4xHZmKSO) | 2:59 | 2022-05-13 | 2022-05-19 |
 | [Mood Ring](https://open.spotify.com/track/6FE9EXi8TYg09hR4xv5PWJ) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/1lDMJQcBCttCroFPkNHtN7) | 3:45 | 2021-11-05 | 2022-07-29 |
 | [Mood Ring](https://open.spotify.com/track/7rb4dcBfW0m1LQQcDCh4Hv) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:45 | 2022-07-22 |  |
-| [New](https://open.spotify.com/track/1Pd2lKVz2idFMh67ACJJ0q) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 2:56 | 2023-09-03 |  |
+| [New](https://open.spotify.com/track/1Pd2lKVz2idFMh67ACJJ0q) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 2:56 | 2023-09-03 | 2023-10-12 |
 | [New](https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [New](https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs) | 2:56 | 2023-04-28 | 2023-06-24 |
 | [New](https://open.spotify.com/track/5mTZyrEQnncaxziYXyJ9WK) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/0pegySdYHnog0hNQcClfTf) | 2:56 | 2023-06-02 | 2023-09-29 |
 | [No Right To Love You](https://open.spotify.com/track/4SHJLxcRicQyT42jG95Y5u) | [Rhys Lewis](https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ) | [No Right To Love You](https://open.spotify.com/album/2PHYCXNyJ7PHMa2GriKzUW) | 3:58 | 2021-11-05 |  |

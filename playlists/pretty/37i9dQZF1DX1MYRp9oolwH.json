@@ -1,12 +1,12 @@
 {
   "description": "Bringing out the best of latest love tracks\nCover : Hi Nanna",
-  "num_followers": 111019,
+  "num_followers": 111082,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZjg3MGY5YmQ0ZjJhN2M3YTU2ZmY5MTE3ZTlhZTkzMjA5OTJhNGYw",
+  "snapshot_id": "MCw2YTE2ODJiMWY3ZTBhMWY3YzdmYWU4MTZjMWIwNWRkNjBiMzBmNjFh",
   "tracks": [
     {
       "added_at": "2023-09-16 06:39:10",
@@ -31,6 +31,82 @@
       "duration_ms": 204181,
       "name": "Samayama (From \"Hi Nanna\")",
       "url": "https://open.spotify.com/track/0hujsbFzpm9RjOs4mnVclo"
+    },
+    {
+      "added_at": "2023-10-11 17:54:20",
+      "album": {
+        "name": "Aadikeshava",
+        "url": "https://open.spotify.com/album/51Jfh7J7GTf3CR6l3bpq9S"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Yamini Ghantasala",
+          "url": "https://open.spotify.com/artist/5i3cSIE4DG6LrWAb3pCeQ0"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "duration_ms": 234227,
+      "name": "Hey Bujji Bangaram",
+      "url": "https://open.spotify.com/track/2myUwmXr6AoPqvbyfKEgZB"
+    },
+    {
+      "added_at": "2023-10-11 17:55:34",
+      "album": {
+        "name": "Prema Oh Ayudham [From \"Leo (Telugu)\"]",
+        "url": "https://open.spotify.com/album/5gKy1rLXdS7TECWKj4x9po"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "J.V. Sudhanshu",
+          "url": "https://open.spotify.com/artist/1c8TcsYzbZiEJ0TcEP3NWq"
+        },
+        {
+          "name": "Priya Mali",
+          "url": "https://open.spotify.com/artist/5PMrnGmlpH0l7Uc9DnnatM"
+        }
+      ],
+      "duration_ms": 214330,
+      "name": "Prema Oh Ayudham (From \"Leo (Telugu)\")",
+      "url": "https://open.spotify.com/track/2GDGcLFc4mgmf3tOzziqXP"
+    },
+    {
+      "added_at": "2023-10-11 12:12:59",
+      "album": {
+        "name": "Ammayi (From \"ANIMAL\") [TELUGU]",
+        "url": "https://open.spotify.com/album/7yX0aK1kUsyMKEaoLUfPag"
+      },
+      "artists": [
+        {
+          "name": "Raghav Chaitanya",
+          "url": "https://open.spotify.com/artist/3qpyErDI4i90q5EGgSRmNK"
+        },
+        {
+          "name": "Anantha Sreeram",
+          "url": "https://open.spotify.com/artist/73q7QOnwGy6huqoJ9JCRYD"
+        },
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        }
+      ],
+      "duration_ms": 275439,
+      "name": "Ammayi (From \"ANIMAL\") [TELUGU]",
+      "url": "https://open.spotify.com/track/7ldhGFQH1K7oG2q8fX4Eck"
     },
     {
       "added_at": "2023-09-25 13:41:01",
@@ -1005,22 +1081,6 @@
       "url": "https://open.spotify.com/track/6aptM1jYkNgayyLtLmvl3t"
     },
     {
-      "added_at": "2022-12-12 11:56:11",
-      "album": {
-        "name": "18 Pages",
-        "url": "https://open.spotify.com/album/6DYN9cn9dlRY1wvhPJsHHI"
-      },
-      "artists": [
-        {
-          "name": "Sid Sriram",
-          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
-        }
-      ],
-      "duration_ms": 252775,
-      "name": "Yedurangula Vaana",
-      "url": "https://open.spotify.com/track/0l70yEnMGHPPZff7iLplnY"
-    },
-    {
       "added_at": "2023-03-10 12:48:11",
       "album": {
         "name": "Katha Venuka Katha",
@@ -1083,50 +1143,6 @@
       "duration_ms": 218385,
       "name": "Darshana",
       "url": "https://open.spotify.com/track/3eIkuy5Fr7kuQXiro0czUM"
-    },
-    {
-      "added_at": "2022-12-06 13:08:32",
-      "album": {
-        "name": "Almost Padipoyindhe Pilla (From \"Das Ka Dhamki\") - Single",
-        "url": "https://open.spotify.com/album/3Bq1oXhTLEWvDV03ZmrVue"
-      },
-      "artists": [
-        {
-          "name": "Leon James",
-          "url": "https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy"
-        },
-        {
-          "name": "Adithya RK",
-          "url": "https://open.spotify.com/artist/2AQwMDyDvgpZcHLITOpgpm"
-        },
-        {
-          "name": "Poornachari",
-          "url": "https://open.spotify.com/artist/7ebwtbh8aSrOUbKIHDW4ty"
-        }
-      ],
-      "duration_ms": 213242,
-      "name": "Almost Padipoyindhe Pilla (From \"Das Ka Dhamki\")",
-      "url": "https://open.spotify.com/track/3d4BUW2iX1HagWRRkat9l7"
-    },
-    {
-      "added_at": "2023-01-19 14:38:53",
-      "album": {
-        "name": "Vinaro Bhagyamu Vishnu Katha",
-        "url": "https://open.spotify.com/album/5mw5TgQL15i1ernK02z9hV"
-      },
-      "artists": [
-        {
-          "name": "Chaitan Bharadwaj",
-          "url": "https://open.spotify.com/artist/7uc8AizyyDG8ujFdTxZ7q5"
-        },
-        {
-          "name": "Kapil Kapilan",
-          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
-        }
-      ],
-      "duration_ms": 228687,
-      "name": "Oh Bangaram",
-      "url": "https://open.spotify.com/track/75UdklaJHB2iYhQMXmE3DS"
     }
   ],
   "unique_name": "Latest Romance Telugu",

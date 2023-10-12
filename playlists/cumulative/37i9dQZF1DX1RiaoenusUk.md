@@ -4,7 +4,7 @@
 
 > Música groovera, for the true Funk Soldiers!
 
-104 songs - 6 hr 59 min
+105 songs - 7 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Back up in Flames](https://open.spotify.com/track/7c4BwXfR0CeJFWZ5NTW0er) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 3:44 | 2023-02-17 |  |
 | [Baila el Funk](https://open.spotify.com/track/6cAkTF6SBU0RJOEqJKNzD0) | [Kiddo Toto](https://open.spotify.com/artist/1Mj0XQhXbzIXfoWTN391N6), [Wirchi](https://open.spotify.com/artist/7xfNmsjjymUmtxwxATAIT1) | [RE$FRIADO](https://open.spotify.com/album/4FZez58BNMMijlt8M1npl5) | 3:23 | 2023-02-17 |  |
 | [Beast in You](https://open.spotify.com/track/6hZ8kRu0uxj2s6ujZH2Mn9) | [Jasper](https://open.spotify.com/artist/0NmftytUMCkRMchne8I3hG) | [Tangible](https://open.spotify.com/album/7t8qpiBzPSnclvgm7GmsgG) | 5:15 | 2023-02-17 |  |
-| [Best Of Us](https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t) | [Ale Zurita](https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq), [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Best Of Us](https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH) | 3:05 | 2023-02-17 |  |
+| [Best Of Us](https://open.spotify.com/track/4wrdly1XwZaZP8b2I4Iv5t) | [Ale Zurita](https://open.spotify.com/artist/10kKK9vhtKk2vyeizLcNZq), [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Best Of Us](https://open.spotify.com/album/3yfSd47G0hdBqXUeKCiVSH) | 3:05 | 2023-02-17 | 2023-10-12 |
 | [Bienvenidos al Presente](https://open.spotify.com/track/7zAqQFTw2j5G6jcZFDpRcQ) | [Lo' Pibitos](https://open.spotify.com/artist/7f4QZ3v32jtmstrh7VHfJL) | [Bienvenidos al Presente](https://open.spotify.com/album/7qFI4bipXWEoqWBXK9trKS) | 4:19 | 2023-02-17 |  |
 | [Bésala](https://open.spotify.com/track/4Dlm1fAdMWE22eRenlR1ID) | [De La Rivera](https://open.spotify.com/artist/4U48zETkokPB76fnXQiO2b) | [Family Game](https://open.spotify.com/album/1DrWoE7BIpWmeebhgsTgzq) | 3:38 | 2023-02-17 |  |
 | [Can't Fight The Funk](https://open.spotify.com/track/2osjZyMaTnWXNs8bp0qhkr) | [Doctorfunk](https://open.spotify.com/artist/00CEG7nPO88zFNuFL2Rz1L) | [Prescription For Soul](https://open.spotify.com/album/7o1i3F40QoaIW9IfAsIaIE) | 4:01 | 2023-02-17 |  |
@@ -40,6 +40,7 @@
 | [Cómo](https://open.spotify.com/track/1sjMSLp2rgGxokLnllBEje) | [Los Funktasticos Genitales](https://open.spotify.com/artist/4R74HSH7siBB8VjKf1dJN2) | [Ya Lo Estoy Deseando](https://open.spotify.com/album/2JfuVBf1o45hGZb70w4RoX) | 3:22 | 2023-02-17 |  |
 | [De Antes](https://open.spotify.com/track/6EzgVrNIlbA2lUni9jQ913) | [Valentina Marinkovic](https://open.spotify.com/artist/0XGcjQMRjxUa3QQxmxa4el), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [De Antes](https://open.spotify.com/album/2AKkV1ilSMfchUx4e1Wknl) | 3:28 | 2023-08-25 |  |
 | [Debilidad](https://open.spotify.com/track/382BrveYviOFjqpqA5d1M2) | [Abril Olivera](https://open.spotify.com/artist/0syNXPcVZZpTvXcfoRaXLg), [Dinastía](https://open.spotify.com/artist/3WwVo2fYI0tf6G32a0qQFF) | [Espacios](https://open.spotify.com/album/5A4yvDpvsq7aWY7DwMCSC6) | 2:58 | 2023-02-17 |  |
+| [Dizzy](https://open.spotify.com/track/2OzRdN6EUUfVBl7QACp6B1) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Guacamole](https://open.spotify.com/album/0gWvcOPucxJeLFuMuTzTUl) | 5:37 | 2023-10-06 |  |
 | [Dizzy](https://open.spotify.com/track/7MJ5y9Nk94jiRt9OfTqe3f) | [Palta & the mood](https://open.spotify.com/artist/6gLZHR1lfosx4paq2mc6rH) | [Guacamole](https://open.spotify.com/album/3raZcKrCjK3p09mhwHw52N) | 5:37 | 2023-02-17 | 2023-09-22 |
 | [Do U Want It?](https://open.spotify.com/track/09bDHWxnX2BjMPbj30PRQ4) | [Papa Grows Funk](https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q) | [Needle in the Groove](https://open.spotify.com/album/1zEF32fMPWEdwefmX2Mzw4) | 4:50 | 2023-02-17 |  |
 | [Droga](https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:11 | 2023-02-17 |  |

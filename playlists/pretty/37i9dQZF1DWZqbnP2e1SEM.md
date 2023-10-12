@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,913 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,863 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 29 | [Talk About](https://open.spotify.com/track/1olCzMxaeiQKNO64ssWVGr) | [Rain Radio](https://open.spotify.com/artist/2T8o1YNgbgsE41xb62AlRY), [DJ Craig Gorman](https://open.spotify.com/artist/0koQ34MqfcfCFCiMGEY400) | [Talk About](https://open.spotify.com/album/78uu9LcjPwqQEAdBSKz6mV) | 2:41 |
 | 30 | [Groove Thang](https://open.spotify.com/track/6pyjUNNPUAHqRkvD0ZEDFz) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Groove Thang](https://open.spotify.com/album/1PPPSHY19tixIaMCbDJihZ) | 3:40 |
 | 31 | [Now U Do \- Edit](https://open.spotify.com/track/0fK4NmIDXetjIiZ2Oxz2tF) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Now U Do](https://open.spotify.com/album/7k7TUZNKlDHu5MfSSCX8rR) | 2:38 |
-| 32 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
-| 33 | [No Fun](https://open.spotify.com/track/1q3qh7hEJrPmPH7uOteYSr) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:10 |
+| 32 | [No Fun](https://open.spotify.com/track/1q3qh7hEJrPmPH7uOteYSr) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY) | [Feel Again](https://open.spotify.com/album/2uqVgoe1PcKmwx3ihlbevM) | 2:10 |
+| 33 | [Forbidden Feelingz](https://open.spotify.com/track/0wrs5ucXutScEWOhdWdGBB) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Forbidden Feelingz](https://open.spotify.com/album/5OoEG2axfMGY44nUNMayoW) | 2:46 |
 | 34 | [Believe Me](https://open.spotify.com/track/44xO8889yUQHn70P73NILS) | [Navos](https://open.spotify.com/artist/6YCM9JwkqdEFQSzztmh4Kb) | [Believe Me](https://open.spotify.com/album/7GJVQX2wiktNMP4QV20Y3E) | 3:08 |
 | 35 | [Hooked](https://open.spotify.com/track/4v7kKFlEDmpVToHOICsXaM) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [Hooked](https://open.spotify.com/album/69QTaXErGkvPW9pQ0GYY4H) | 3:26 |
 | 36 | [Ain't No Other Man \- Rework](https://open.spotify.com/track/2arAYoniFUo3ojtcDEIhdl) | [Murphy's Law \(UK\)](https://open.spotify.com/artist/1q85MRE0aEF6NfZQdlMrl1) | [Ain't No Other Man \(Rework\)](https://open.spotify.com/album/6iHOTd9FBBOLSDfJp8mFFq) | 2:34 |
@@ -93,9 +93,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 83 | [Alley Rave](https://open.spotify.com/track/630fy1dTAKtfY1DJXLYyds) | [Andrea Oliva](https://open.spotify.com/artist/6oqv4rbOMlOZNOUoDFgBSp) | [Alley Rave](https://open.spotify.com/album/1yQU83J37P20ynvBDU31Cc) | 6:04 |
 | 84 | [All for You](https://open.spotify.com/track/64aNdC3hF7DMptxVnf3LD7) | [Welshy](https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6) | [All for You](https://open.spotify.com/album/2AJFUqo6aQDlWOocvMoS6i) | 3:13 |
 | 85 | [Mushrooms](https://open.spotify.com/track/15B1cDTWSXF4t3rmALOtyU) | [Leftwing : Kody](https://open.spotify.com/artist/7eYXtOjJGhrM16cK2hRmnR), [Glasgow KI$$](https://open.spotify.com/artist/7oHXioVOisWBMFEj74TDFB), [Robot Collective](https://open.spotify.com/artist/4t9Q7485yjN60bdXa0dBEp) | [Mushrooms](https://open.spotify.com/album/3kCdR5MEFKLMft8GmAGxD3) | 3:10 |
-| 86 | [Feel About You \- Edit](https://open.spotify.com/track/4OSS2eDxVmkG13O7MXPxul) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e), [Annie Mac](https://open.spotify.com/artist/41DZ1or3s4tphMQnLC5RNk) | [Feel About You](https://open.spotify.com/album/4ayRWDN5iFDDREGmIQMb6d) | 3:36 |
-| 87 | [Out The Door](https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Out The Door](https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y) | 3:06 |
-| 88 | [Steamroller](https://open.spotify.com/track/7f6Uk2JePkvU9J4LZPuDvr) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Postcards](https://open.spotify.com/album/510guXSY0ICHxh4vvblO3O) | 2:55 |
+| 86 | [Out The Door](https://open.spotify.com/track/1u00EMt2762l5buwd6uQAK) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS) | [Out The Door](https://open.spotify.com/album/4R53BlPojGyGmWd0UVIH9Y) | 3:06 |
+| 87 | [Steamroller](https://open.spotify.com/track/7f6Uk2JePkvU9J4LZPuDvr) | [Anish Kumar](https://open.spotify.com/artist/4pSMnAlD8JVEW3eZDuaQH8) | [Postcards](https://open.spotify.com/album/510guXSY0ICHxh4vvblO3O) | 2:55 |
+| 88 | [Feel About You \- Edit](https://open.spotify.com/track/4OSS2eDxVmkG13O7MXPxul) | [Melle Brown](https://open.spotify.com/artist/0sD8M4PoVLNDJ82fi6oG5e), [Annie Mac](https://open.spotify.com/artist/41DZ1or3s4tphMQnLC5RNk) | [Feel About You](https://open.spotify.com/album/4ayRWDN5iFDDREGmIQMb6d) | 3:36 |
 | 89 | [Giving Up](https://open.spotify.com/track/61rELAKbEKXdidjxXviWd0) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh), [MAFRO](https://open.spotify.com/artist/2Y9v3pyVuYM0o8bSLAUUZm) | [Giving Up](https://open.spotify.com/album/2u0L2wbAbJAw5cx00Wk6zE) | 3:23 |
 | 90 | [Make The Night Last](https://open.spotify.com/track/7LhJcuKVjWEJpCRWuE9EiK) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb) | [Make The Night Last](https://open.spotify.com/album/0eBsV99mKaO1uMEBi8n75J) | 3:50 |
 | 91 | [No Bueno \(Extended Mix\)](https://open.spotify.com/track/3Ayzf6IFTLutVUf9Hyxx2d) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [No Bueno \(Extended Mix\)](https://open.spotify.com/album/6z3pZ6w15ymHLm4dyOHo6u) | 5:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 99 | [You and I Are Equal](https://open.spotify.com/track/4laAIQLzf49FKhy14SmA87) | [BluePrint](https://open.spotify.com/artist/0oV5K4BDmoENgjwB8lvDmT) | [You and I Are Equal](https://open.spotify.com/album/7h1JqqftHbKVq5x6izUNey) | 4:14 |
 | 100 | [Never Let Me Down](https://open.spotify.com/track/3AjzBL7fuEdboRnleIlPIw) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx), [Hayley May](https://open.spotify.com/artist/1WcwbtAnG5HWNbPPK84ued) | [Never Let Me Down](https://open.spotify.com/album/7KCiIL4GO5P7gINLSF5fUF) | 3:05 |
 
-Snapshot ID: `MCxiOThjM2MwNjdkNjA4YmZkNjk4YTcxNDk0NDU2YmEwMWFmMTVmNTIy`
+Snapshot ID: `MCw0OWJlNjliZjQ4Yjk4Yzg2ZTk4NWQ2YmNiNTJhNzg2NzYzZWRkMjcy`

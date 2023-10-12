@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 158243,
+  "num_followers": 158287,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiMjIzNjE0ZjkyNzI2N2M2MmVlYzQ3NmExMzQ2MzQ3MjhmYTI5Nzk4",
+  "snapshot_id": "MCxhNDNkY2E4MGY1Njg0ZjMyYTQyMDExNjE1MDAxNGVmN2FhOGE0ZTRk",
   "tracks": [
     {
       "added_at": "2020-07-08 17:36:08",
@@ -935,22 +935,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "The Gold Collection",
-        "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
-      },
-      "artists": [
-        {
-          "name": "Pat Boone",
-          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
-        }
-      ],
-      "duration_ms": 137320,
-      "name": "Don't Forbid Me",
-      "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Presenting Marion Ryan",
         "url": "https://open.spotify.com/album/07J0yWEzGdx2ElM6p4iP9D"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 175053,
       "name": "Love Me Forever",
       "url": "https://open.spotify.com/track/3jtuTk2DS22xjOEJbbkTjC"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "The Gold Collection",
+        "url": "https://open.spotify.com/album/0hyzSiJY6YjK7ryjlF9F6i"
+      },
+      "artists": [
+        {
+          "name": "Pat Boone",
+          "url": "https://open.spotify.com/artist/7fmKtIgmxqNEKjATioVNsu"
+        }
+      ],
+      "duration_ms": 137320,
+      "name": "Don't Forbid Me",
+      "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
     },
     {
       "added_at": "2020-07-08 17:36:08",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2020-07-08 17:36:08",
       "album": {
-        "name": "16 Most Requested Songs",
-        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
-      },
-      "artists": [
-        {
-          "name": "Johnnie Ray",
-          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
-        }
-      ],
-      "duration_ms": 172440,
-      "name": "Hey There - from The \"Pajama Game\"",
-      "url": "https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN"
-    },
-    {
-      "added_at": "2020-07-08 17:36:08",
-      "album": {
         "name": "Country Style",
         "url": "https://open.spotify.com/album/5e0v4FN49fj8gSgqSNMfal"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 144466,
       "name": "Rose Marie",
       "url": "https://open.spotify.com/track/0DRw1YzAejMK8Qv2MAPzJl"
+    },
+    {
+      "added_at": "2020-07-08 17:36:08",
+      "album": {
+        "name": "16 Most Requested Songs",
+        "url": "https://open.spotify.com/album/1MqnaRP5Mi9yN8mOis4YUM"
+      },
+      "artists": [
+        {
+          "name": "Johnnie Ray",
+          "url": "https://open.spotify.com/artist/6SQKNCUKIWjR1pQ1U3PZZq"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "Hey There - from The \"Pajama Game\"",
+      "url": "https://open.spotify.com/track/6bXBU7A1e6oVoMCYNPzXoN"
     },
     {
       "added_at": "2020-07-08 17:36:08",

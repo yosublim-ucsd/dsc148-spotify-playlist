@@ -1,12 +1,12 @@
 {
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
-  "num_followers": 158923,
+  "num_followers": 159035,
   "original_name": "Folk Fabrique",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1NTFhOWIwODQ0ZTQ4MzI0ZDQxZDVmM2ZjYjZkNGQ1OWY3Mjc3NmYw",
+  "snapshot_id": "MCxmNjc0NTEzM2IwOTI3ZWRkYzMyMmQxOGY5MmExMjU0MzcyNmUwN2Qw",
   "tracks": [
     {
       "added_at": "2021-10-20 20:05:06",
@@ -333,38 +333,6 @@
       "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
     },
     {
-      "added_at": "2022-09-15 12:52:37",
-      "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
-      },
-      "artists": [
-        {
-          "name": "DakhaBrakha",
-          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
-        }
-      ],
-      "duration_ms": 443640,
-      "name": "Baby",
-      "url": "https://open.spotify.com/track/1goTiiRtaNdwiGOsSIgBA4"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
-        "name": "Con Todo El Mundo",
-        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 190999,
-      "name": "Maria Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "EGOLI",
@@ -395,6 +363,38 @@
       "duration_ms": 193533,
       "name": "Morals",
       "url": "https://open.spotify.com/track/3O4Sat36FCmPW0KmbuPx5G"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Con Todo El Mundo",
+        "url": "https://open.spotify.com/album/7hTmy5ipq0ieK4DZZqaxml"
+      },
+      "artists": [
+        {
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
+        }
+      ],
+      "duration_ms": 190999,
+      "name": "Maria Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/3CT4U4jJEagjIHg5PPph8X"
+    },
+    {
+      "added_at": "2022-09-15 12:52:37",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
+      },
+      "artists": [
+        {
+          "name": "DakhaBrakha",
+          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
+        }
+      ],
+      "duration_ms": 443640,
+      "name": "Baby",
+      "url": "https://open.spotify.com/track/1goTiiRtaNdwiGOsSIgBA4"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/5RHN9R3BqScU4Jzu84U7pZ"
     },
     {
-      "added_at": "2023-06-07 04:01:30",
-      "album": {
-        "name": "Taivshral",
-        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
-      },
-      "artists": [
-        {
-          "name": "Enji",
-          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
-        }
-      ],
-      "duration_ms": 187166,
-      "name": "Taivshral",
-      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
@@ -759,6 +743,22 @@
       "duration_ms": 479546,
       "name": "Atomic Bomb",
       "url": "https://open.spotify.com/track/6FDGkw2X2Pmp4AaQP8x6mX"
+    },
+    {
+      "added_at": "2023-06-07 04:01:30",
+      "album": {
+        "name": "Taivshral",
+        "url": "https://open.spotify.com/album/7538gMorHWrqI3fX1RdYhq"
+      },
+      "artists": [
+        {
+          "name": "Enji",
+          "url": "https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s"
+        }
+      ],
+      "duration_ms": 187166,
+      "name": "Taivshral",
+      "url": "https://open.spotify.com/track/0X8xhlGsWrdkcbZrfqOxGO"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -795,22 +795,6 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
-      },
-      "artists": [
-        {
-          "name": "Bombino",
-          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
-        }
-      ],
-      "duration_ms": 268640,
-      "name": "Amidinine",
-      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
-    },
-    {
-      "added_at": "2021-10-20 20:05:06",
-      "album": {
         "name": "Clandestino (feat. Calypso Rose)",
         "url": "https://open.spotify.com/album/0dcSYLzXomtLihJSTfyk0T"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 158714,
       "name": "Clandestino (feat. Calypso Rose)",
       "url": "https://open.spotify.com/track/0XeSTQIu2LqnAKdOigQUtT"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6Zv8PkjigCztS7AON6ZuZe"
+      },
+      "artists": [
+        {
+          "name": "Bombino",
+          "url": "https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN"
+        }
+      ],
+      "duration_ms": 268640,
+      "name": "Amidinine",
+      "url": "https://open.spotify.com/track/0JRBZ5RZGLhZKUoDIgaxQc"
     },
     {
       "added_at": "2022-02-18 02:21:25",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
+        "name": "\u0434\u043b\u044f FOR",
+        "url": "https://open.spotify.com/album/0FvvY5F27MaKdwvTx1EybZ"
       },
       "artists": [
         {
-          "name": "DakhaBrakha",
-          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
         }
       ],
-      "duration_ms": 346413,
-      "name": "Kolyskova",
-      "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
+      "duration_ms": 96923,
+      "name": "\u0434\u0432a TWO",
+      "url": "https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1"
     },
     {
       "added_at": "2023-02-23 03:11:35",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
-        "name": "\u0434\u043b\u044f FOR",
-        "url": "https://open.spotify.com/album/0FvvY5F27MaKdwvTx1EybZ"
+        "name": "Light",
+        "url": "https://open.spotify.com/album/3ZtpOPSQuN6hOtAlyBJqFT"
       },
       "artists": [
         {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+          "name": "DakhaBrakha",
+          "url": "https://open.spotify.com/artist/5hQYZqZaPcRceL82mFZTO5"
         }
       ],
-      "duration_ms": 96923,
-      "name": "\u0434\u0432a TWO",
-      "url": "https://open.spotify.com/track/0ycbHO4SfIOGKkviEO1GK1"
+      "duration_ms": 346413,
+      "name": "Kolyskova",
+      "url": "https://open.spotify.com/track/02aLw97KKhqN6iMqjJntf3"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1449,26 +1449,6 @@
       "url": "https://open.spotify.com/track/2pKdE8YhzKRshWuQkolWlV"
     },
     {
-      "added_at": "2022-02-18 06:00:35",
-      "album": {
-        "name": "Remotely Close: Silkyway",
-        "url": "https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw"
-      },
-      "artists": [
-        {
-          "name": "Kutiman",
-          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
-        },
-        {
-          "name": "Elif \u00c7a\u011flar",
-          "url": "https://open.spotify.com/artist/4329Rqrv9R9wc832cqQCVv"
-        }
-      ],
-      "duration_ms": 230998,
-      "name": "Remotely Close: Silkyway",
-      "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Freedom Fables",
@@ -1487,6 +1467,26 @@
       "duration_ms": 319653,
       "name": "Tittle Tattle",
       "url": "https://open.spotify.com/track/250EZZGyjYplBum6Simk1B"
+    },
+    {
+      "added_at": "2022-02-18 06:00:35",
+      "album": {
+        "name": "Remotely Close: Silkyway",
+        "url": "https://open.spotify.com/album/5nL5SYYGIFR9biH2Qb57Yw"
+      },
+      "artists": [
+        {
+          "name": "Kutiman",
+          "url": "https://open.spotify.com/artist/0sDJfnuudhMaEmFPvALK2e"
+        },
+        {
+          "name": "Elif \u00c7a\u011flar",
+          "url": "https://open.spotify.com/artist/4329Rqrv9R9wc832cqQCVv"
+        }
+      ],
+      "duration_ms": 230998,
+      "name": "Remotely Close: Silkyway",
+      "url": "https://open.spotify.com/track/0BXH0C0UGvO1n9mY05inan"
     },
     {
       "added_at": "2023-07-17 18:55:09",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/2JPY1tESSn8hhwlMdMrRzo"
     },
     {
-      "added_at": "2022-03-04 21:17:03",
-      "album": {
-        "name": "The Age of Aquarius",
-        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
-      },
-      "artists": [
-        {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
-        }
-      ],
-      "duration_ms": 241157,
-      "name": "Nautilus",
-      "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
-    },
-    {
       "added_at": "2021-10-20 20:05:06",
       "album": {
         "name": "Kuru Kuru",
@@ -1583,6 +1567,22 @@
       "duration_ms": 311141,
       "name": "Soma",
       "url": "https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88"
+    },
+    {
+      "added_at": "2022-03-04 21:17:03",
+      "album": {
+        "name": "The Age of Aquarius",
+        "url": "https://open.spotify.com/album/4hocimNA2HqHGJENlvTvws"
+      },
+      "artists": [
+        {
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+        }
+      ],
+      "duration_ms": 241157,
+      "name": "Nautilus",
+      "url": "https://open.spotify.com/track/0IVZO1pU0ddXEh0qtN3jMA"
     },
     {
       "added_at": "2021-10-20 20:05:06",
@@ -1619,6 +1619,22 @@
     {
       "added_at": "2021-10-20 20:05:06",
       "album": {
+        "name": "Natura Morta",
+        "url": "https://open.spotify.com/album/6Md4bFFy49yYCQ0VHCO4tt"
+      },
+      "artists": [
+        {
+          "name": "Sven Wunder",
+          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+        }
+      ],
+      "duration_ms": 191963,
+      "name": "Impasto",
+      "url": "https://open.spotify.com/track/1z7SGD6F6OYGinYGyym9uC"
+    },
+    {
+      "added_at": "2021-10-20 20:05:06",
+      "album": {
         "name": "Carry Me Home",
         "url": "https://open.spotify.com/album/3BVadsttoBuo4nmzPoax9g"
       },
@@ -1649,36 +1665,20 @@
       "url": "https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH"
     },
     {
-      "added_at": "2021-10-20 20:05:06",
+      "added_at": "2022-04-01 06:00:00",
       "album": {
-        "name": "Natura Morta",
-        "url": "https://open.spotify.com/album/6Md4bFFy49yYCQ0VHCO4tt"
+        "name": "Solpor",
+        "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
       },
       "artists": [
         {
-          "name": "Sven Wunder",
-          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+          "name": "Baiuca",
+          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
         }
       ],
-      "duration_ms": 191963,
-      "name": "Impasto",
-      "url": "https://open.spotify.com/track/1z7SGD6F6OYGinYGyym9uC"
-    },
-    {
-      "added_at": "2022-08-31 05:20:13",
-      "album": {
-        "name": "Ghibli",
-        "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
-      },
-      "artists": [
-        {
-          "name": "Savana Funk",
-          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
-        }
-      ],
-      "duration_ms": 235519,
-      "name": "Ghibli",
-      "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
+      "duration_ms": 319169,
+      "name": "Mu\u00ed\u00f1o",
+      "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
     },
     {
       "added_at": "2023-03-29 18:06:57",
@@ -1697,20 +1697,20 @@
       "url": "https://open.spotify.com/track/5Yw2orljyPxOQe9s1JfPqU"
     },
     {
-      "added_at": "2022-04-01 06:00:00",
+      "added_at": "2022-08-31 05:20:13",
       "album": {
-        "name": "Solpor",
-        "url": "https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs"
+        "name": "Ghibli",
+        "url": "https://open.spotify.com/album/2pqPnxT0Gw26Ikoucjm3As"
       },
       "artists": [
         {
-          "name": "Baiuca",
-          "url": "https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS"
+          "name": "Savana Funk",
+          "url": "https://open.spotify.com/artist/2t3g4JYFXvXMcvPaVw6BnG"
         }
       ],
-      "duration_ms": 319169,
-      "name": "Mu\u00ed\u00f1o",
-      "url": "https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv"
+      "duration_ms": 235519,
+      "name": "Ghibli",
+      "url": "https://open.spotify.com/track/034Z4bIOzqWhWaQNxOZMDU"
     },
     {
       "added_at": "2021-10-20 20:05:06",

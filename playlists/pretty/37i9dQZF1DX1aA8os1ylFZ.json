@@ -1,12 +1,12 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 237952,
+  "num_followers": 237837,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkYjc1ZGM2YzZkMmFjNjJkODU2ZDYzNTAzNTVhNDRmMjBmMmRmNGJj",
+  "snapshot_id": "MCwxYWMxNzE1YTI1MDNiNDg0NzlhY2EzYjEyOTJhZTk5NGUzNzhkMThh",
   "tracks": [
     {
       "added_at": "2023-10-09 08:34:22",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-10-09 08:34:22",
       "album": {
-        "name": "BB/ANG3L",
-        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
-      },
-      "artists": [
-        {
-          "name": "Tinashe",
-          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
-        }
-      ],
-      "duration_ms": 182278,
-      "name": "Uh Huh",
-      "url": "https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM"
-    },
-    {
-      "added_at": "2023-10-09 08:34:22",
-      "album": {
         "name": "Sincerely For You",
         "url": "https://open.spotify.com/album/6KqdU8DuBJiho89Rjznzze"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 190186,
       "name": "When You Bad Like That (feat. Future)",
       "url": "https://open.spotify.com/track/275YNZEcI6UKFU7hO1kzKX"
+    },
+    {
+      "added_at": "2023-10-09 08:34:22",
+      "album": {
+        "name": "BB/ANG3L",
+        "url": "https://open.spotify.com/album/0Ytzeqoskd5VfSVfGGA1SM"
+      },
+      "artists": [
+        {
+          "name": "Tinashe",
+          "url": "https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD"
+        }
+      ],
+      "duration_ms": 182278,
+      "name": "Uh Huh",
+      "url": "https://open.spotify.com/track/6lF9MVbhNfe0EZcACAdaFM"
     },
     {
       "added_at": "2023-10-09 08:34:22",
@@ -743,22 +743,6 @@
     {
       "added_at": "2023-10-09 08:34:22",
       "album": {
-        "name": "IRL",
-        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
-      },
-      "artists": [
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "In My Bag",
-      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
-    },
-    {
-      "added_at": "2023-10-09 08:34:22",
-      "album": {
         "name": "Words of Affirmation",
         "url": "https://open.spotify.com/album/4A6aWWPzVnNEjqm29C93A7"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 186095,
       "name": "Words of Affirmation",
       "url": "https://open.spotify.com/track/4TeklWa1VJeKwDThRho8vy"
+    },
+    {
+      "added_at": "2023-10-09 08:34:22",
+      "album": {
+        "name": "IRL",
+        "url": "https://open.spotify.com/album/7bKq4j24ElIraQgGgitmTh"
+      },
+      "artists": [
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/3Hz7mhkeYyAG09l90fVKQo"
     },
     {
       "added_at": "2023-10-09 08:34:22",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-10-09 08:34:22",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
-    },
-    {
-      "added_at": "2023-10-09 08:34:22",
-      "album": {
         "name": "Look My Way",
         "url": "https://open.spotify.com/album/2GyWrPZ5ziSDUezZyhllEq"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 174000,
       "name": "Look My Way",
       "url": "https://open.spotify.com/track/2AvdB48FWJJMKzKeWgPt1R"
+    },
+    {
+      "added_at": "2023-10-09 08:34:22",
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
     },
     {
       "added_at": "2023-10-09 08:34:22",
@@ -967,18 +967,18 @@
     {
       "added_at": "2023-10-09 08:34:22",
       "album": {
-        "name": "Mood Swings",
-        "url": "https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1"
+        "name": "Midnight Microdose, Vol. 2",
+        "url": "https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL"
       },
       "artists": [
         {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+          "name": "Kevin Ross",
+          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
         }
       ],
-      "duration_ms": 193789,
-      "name": "Celebrate",
-      "url": "https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R"
+      "duration_ms": 92852,
+      "name": "Ain't Mine",
+      "url": "https://open.spotify.com/track/267UZx3gyAvNKiEVmpl915"
     },
     {
       "added_at": "2023-10-09 08:34:22",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-10-09 08:34:22",
       "album": {
-        "name": "Midnight Microdose, Vol. 2",
-        "url": "https://open.spotify.com/album/3nZfR3g2APtjLlOOE3h6jL"
+        "name": "Mood Swings",
+        "url": "https://open.spotify.com/album/3mRiJv27nO0LYbntvVsYN1"
       },
       "artists": [
         {
-          "name": "Kevin Ross",
-          "url": "https://open.spotify.com/artist/5ae3MM8dgOn3QPHzqFDJlY"
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
         }
       ],
-      "duration_ms": 92852,
-      "name": "Ain't Mine",
-      "url": "https://open.spotify.com/track/267UZx3gyAvNKiEVmpl915"
+      "duration_ms": 193789,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/4QacWDLNi3C82o2e79YV9R"
     },
     {
       "added_at": "2023-10-09 08:34:22",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-10-09 08:34:22",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU"
+      },
+      "artists": [
+        {
+          "name": "Luna Mae",
+          "url": "https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP"
+        }
+      ],
+      "duration_ms": 170129,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E"
+    },
+    {
+      "added_at": "2023-10-09 08:34:22",
+      "album": {
         "name": "Open (Remix)",
         "url": "https://open.spotify.com/album/4f9Dwoweev0tjSi4AmMq7C"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 221492,
       "name": "Say Yes (Turquoise) (feat. Joshua J)",
       "url": "https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3"
-    },
-    {
-      "added_at": "2023-10-09 08:34:22",
-      "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/21GSzeC5WsPl6HpRZkYHRU"
-      },
-      "artists": [
-        {
-          "name": "Luna Mae",
-          "url": "https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP"
-        }
-      ],
-      "duration_ms": 170129,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/7lEUWRaF6TKaoVOptL4U4E"
     },
     {
       "added_at": "2023-10-09 08:34:22",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-10-09 08:34:22",
       "album": {
-        "name": "If You Leave",
-        "url": "https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m"
-      },
-      "artists": [
-        {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
-        }
-      ],
-      "duration_ms": 189063,
-      "name": "If You Leave",
-      "url": "https://open.spotify.com/track/1eIc5n6TmMaWdU6IT2KgWJ"
-    },
-    {
-      "added_at": "2023-10-09 08:34:22",
-      "album": {
         "name": "Bag (with Lucky Daye)",
         "url": "https://open.spotify.com/album/0TUbzetDrAOIy2RI194WEY"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 211400,
       "name": "Bag (with Lucky Daye)",
       "url": "https://open.spotify.com/track/5c4w6QktLsSuO1gqH4YKE7"
+    },
+    {
+      "added_at": "2023-10-09 08:34:22",
+      "album": {
+        "name": "If You Leave",
+        "url": "https://open.spotify.com/album/0k4gqQcUEPmkZCeut7Vg5m"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "duration_ms": 189063,
+      "name": "If You Leave",
+      "url": "https://open.spotify.com/track/1eIc5n6TmMaWdU6IT2KgWJ"
     },
     {
       "added_at": "2023-10-09 08:34:22",

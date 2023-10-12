@@ -1,12 +1,12 @@
 {
   "description": "The best from the world of acoustic songs and pop covers right now.",
-  "num_followers": 1134911,
+  "num_followers": 1134263,
   "original_name": "Hot Acoustics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyMjhlYzJmNzlmNjQzYWIyMzEzMzJmMDljZjU1NmMwYzU0NDQ3N2Vj",
+  "snapshot_id": "MCxmYzkyYmVhOTM2OGRlMDM3ZWI5Yjc2OTdhNjljY2ZhMzM2MTljYWU2",
   "tracks": [
     {
       "added_at": "2023-08-31 14:40:35",
@@ -399,22 +399,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Most Girls (Acoustic)",
-        "url": "https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0"
-      },
-      "artists": [
-        {
-          "name": "Hailee Steinfeld",
-          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
-        }
-      ],
-      "duration_ms": 200880,
-      "name": "Most Girls - Acoustic",
-      "url": "https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Use Somebody",
         "url": "https://open.spotify.com/album/1uWEXc1yoSNuS3jfUbNWyC"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 188437,
       "name": "Use Somebody",
       "url": "https://open.spotify.com/track/3XXaCFZD3dcik18uJYs9fA"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Most Girls (Acoustic)",
+        "url": "https://open.spotify.com/album/7xyn5VoqGeSrh7rtWmKRQ0"
+      },
+      "artists": [
+        {
+          "name": "Hailee Steinfeld",
+          "url": "https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F"
+        }
+      ],
+      "duration_ms": 200880,
+      "name": "Most Girls - Acoustic",
+      "url": "https://open.spotify.com/track/6MH1oRsRfQc2ZCco3ic7Mx"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS"
+      },
+      "artists": [
+        {
+          "name": "Rosebud Nash",
+          "url": "https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "South of the Border (feat. Camila Cabello) [Acoustic]",
         "url": "https://open.spotify.com/album/1NXzlVvFqPATxSheVsEVZT"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 194884,
       "name": "South of the Border (feat. Camila Cabello) - Acoustic",
       "url": "https://open.spotify.com/track/6Kzzkq9sFHm51RwhHswCVc"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/6VSD4fFUQnlmpX7QPrVtIS"
-      },
-      "artists": [
-        {
-          "name": "Rosebud Nash",
-          "url": "https://open.spotify.com/artist/7gB278uEcf8lhALC5DnhuE"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/4tWxWs4sf6EMZqk2Fx2oaE"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Don't Call Me Up (Acoustic)",
-        "url": "https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 212578,
-      "name": "Don't Call Me Up - Acoustic",
-      "url": "https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Redbone",
         "url": "https://open.spotify.com/album/5iBdBYWTKoreXGuKlxBznd"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 171034,
       "name": "Redbone",
       "url": "https://open.spotify.com/track/1AMaBApVmeyBWai8k0QAMQ"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Don't Call Me Up (Acoustic)",
+        "url": "https://open.spotify.com/album/73I3HpG6A7oIL6hXaIC5Kr"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 212578,
+      "name": "Don't Call Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/3a8gsld8gQzvfyLfPO1LP1"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "Think Before I Talk (Acoustic)",
+        "url": "https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Think Before I Talk - Acoustic",
+      "url": "https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "LEGEND (Solo Piano Version)",
         "url": "https://open.spotify.com/album/5WgC0rNbr8aC5vEqL9U8Zo"
       },
@@ -1139,18 +1155,34 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Think Before I Talk (Acoustic)",
-        "url": "https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT"
+        "name": "Sweet Nothing",
+        "url": "https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+          "name": "Sighting",
+          "url": "https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE"
         }
       ],
-      "duration_ms": 217400,
-      "name": "Think Before I Talk - Acoustic",
-      "url": "https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv"
+      "duration_ms": 201000,
+      "name": "Sweet Nothing",
+      "url": "https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "I Was Never There",
+        "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
+      },
+      "artists": [
+        {
+          "name": "Parker Clair",
+          "url": "https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr"
+        }
+      ],
+      "duration_ms": 179383,
+      "name": "I Was Never There",
+      "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1175,38 +1207,6 @@
       "duration_ms": 158313,
       "name": "We Used To",
       "url": "https://open.spotify.com/track/5UNCOsLJ9I45AmOwrKjHPK"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "I Was Never There",
-        "url": "https://open.spotify.com/album/6bGak7iAgHBHdtz1wXuzyz"
-      },
-      "artists": [
-        {
-          "name": "Parker Clair",
-          "url": "https://open.spotify.com/artist/5GYjNDee9n69Bb3qeaAKJr"
-        }
-      ],
-      "duration_ms": 179383,
-      "name": "I Was Never There",
-      "url": "https://open.spotify.com/track/2boE2b7Lrin4bf410UKhSe"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Sweet Nothing",
-        "url": "https://open.spotify.com/album/3Yt5IIW7wNZohI5PmAwz5G"
-      },
-      "artists": [
-        {
-          "name": "Sighting",
-          "url": "https://open.spotify.com/artist/3x07rVFUC4H4vTKfDMpXTE"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Sweet Nothing",
-      "url": "https://open.spotify.com/track/6unfpV3weBUn5fpRykWsI2"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "I'm a Mess (Acoustic)",
-        "url": "https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 153093,
-      "name": "I'm a Mess - Acoustic",
-      "url": "https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Let Me Love You",
         "url": "https://open.spotify.com/album/0UkPFZiEY8VJLDiWFuYiqd"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 191496,
       "name": "Let Me Love You",
       "url": "https://open.spotify.com/track/0Vdw0avLSgSt2uZoSZOXTx"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "I'm a Mess (Acoustic)",
+        "url": "https://open.spotify.com/album/6zmhW2TRItWgBM3WBVR9Gn"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 153093,
+      "name": "I'm a Mess - Acoustic",
+      "url": "https://open.spotify.com/track/1RGcxEKlVL5TSMHqV13etr"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Always You (Wedding Version) [From Maybe I Do]",
-        "url": "https://open.spotify.com/album/4vsAKJa3PnwSsxPRqifyfY"
-      },
-      "artists": [
-        {
-          "name": "Ruth B.",
-          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
-        }
-      ],
-      "duration_ms": 228186,
-      "name": "Always You (Wedding Version) [From Maybe I Do]",
-      "url": "https://open.spotify.com/track/3jk8QofgnK5a2NfZYYPcVC"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Ghost - acoustic",
         "url": "https://open.spotify.com/album/1m3Yz2bhM7W8F663BkXrJE"
       },
@@ -1507,22 +1491,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Greatest Covers Ever",
-        "url": "https://open.spotify.com/album/4Q95NiPxJUIr8sT7qRlZts"
+        "name": "Always You (Wedding Version) [From Maybe I Do]",
+        "url": "https://open.spotify.com/album/4vsAKJa3PnwSsxPRqifyfY"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "Dakota",
-          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+          "name": "Ruth B.",
+          "url": "https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY"
         }
       ],
-      "duration_ms": 217864,
-      "name": "Fast Car - Acoustic",
-      "url": "https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6"
+      "duration_ms": 228186,
+      "name": "Always You (Wedding Version) [From Maybe I Do]",
+      "url": "https://open.spotify.com/track/3jk8QofgnK5a2NfZYYPcVC"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1559,6 +1539,42 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "Arcade",
+        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 148015,
+      "name": "Arcade",
+      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Greatest Covers Ever",
+        "url": "https://open.spotify.com/album/4Q95NiPxJUIr8sT7qRlZts"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Dakota",
+          "url": "https://open.spotify.com/artist/2zzpznMuhKlKlqh1ma7Sms"
+        }
+      ],
+      "duration_ms": 217864,
+      "name": "Fast Car - Acoustic",
+      "url": "https://open.spotify.com/track/6pZZ4FUkivhTGlVR8FZXE6"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "You (with Marshmello & Vance Joy) [Main + Acoustic]",
         "url": "https://open.spotify.com/album/0XqS6EE0TuqdLrhJVo06jL"
       },
@@ -1583,50 +1599,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Leave Me Breathless",
-        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
+        "name": "Cold Heart",
+        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
       },
       "artists": [
         {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+          "name": "Clementine Duo",
+          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
         }
       ],
-      "duration_ms": 206586,
-      "name": "Always On My Mind",
-      "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "~how i'm feeling~ (the extras)",
-        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 252681,
-      "name": "Modern Loneliness - acoustic",
-      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "Arcade",
-        "url": "https://open.spotify.com/album/0c5J1SUFA3rPbIZhK1kj62"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 148015,
-      "name": "Arcade",
-      "url": "https://open.spotify.com/track/1h80wgwF7yRWVL8hhcECwy"
+      "duration_ms": 188742,
+      "name": "Cold Heart",
+      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1647,18 +1631,34 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Cold Heart",
-        "url": "https://open.spotify.com/album/4NMkTYIoBBwwgNTTMooXKl"
+        "name": "~how i'm feeling~ (the extras)",
+        "url": "https://open.spotify.com/album/1Y8FqfEHHJpEEYx3HPIa9m"
       },
       "artists": [
         {
-          "name": "Clementine Duo",
-          "url": "https://open.spotify.com/artist/4s6YWKUwngB7oxE6CPWsW2"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 188742,
-      "name": "Cold Heart",
-      "url": "https://open.spotify.com/track/6iWWtmXJckNTOA57xqiGNo"
+      "duration_ms": 252681,
+      "name": "Modern Loneliness - acoustic",
+      "url": "https://open.spotify.com/track/2lE7BNs37fnST4ZxP9KyqJ"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Leave Me Breathless",
+        "url": "https://open.spotify.com/album/62EG6ravDzMqNtGb1CCYjy"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 206586,
+      "name": "Always On My Mind",
+      "url": "https://open.spotify.com/track/6xgZswMoI5ncV8e5jhiRsC"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Stack It Up (Acoustic)",
-        "url": "https://open.spotify.com/album/1Y46HfQXfRfi4hSt91WQFE"
-      },
-      "artists": [
-        {
-          "name": "Liam Payne",
-          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
-        }
-      ],
-      "duration_ms": 162129,
-      "name": "Stack It Up - Acoustic",
-      "url": "https://open.spotify.com/track/26pc0rVJ8Ca8N03RDxT0rp"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "OTW (Acoustic Version)",
         "url": "https://open.spotify.com/album/6l6dNBkA3JjaUHbfQqidei"
       },
@@ -1847,6 +1831,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "Stack It Up (Acoustic)",
+        "url": "https://open.spotify.com/album/1Y46HfQXfRfi4hSt91WQFE"
+      },
+      "artists": [
+        {
+          "name": "Liam Payne",
+          "url": "https://open.spotify.com/artist/5pUo3fmmHT8bhCyHE52hA6"
+        }
+      ],
+      "duration_ms": 162129,
+      "name": "Stack It Up - Acoustic",
+      "url": "https://open.spotify.com/track/26pc0rVJ8Ca8N03RDxT0rp"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Sure Thing - Acoustic",
         "url": "https://open.spotify.com/album/5Jq4l0j3Bfb88zE0PjGwdD"
       },
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Break My Heart (Piano Acoustic)",
-        "url": "https://open.spotify.com/album/22QRfaVmqwWc1HqzQW69XB"
-      },
-      "artists": [
-        {
-          "name": "JC Stewart",
-          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
-        }
-      ],
-      "duration_ms": 218293,
-      "name": "Break My Heart - Piano Acoustic",
-      "url": "https://open.spotify.com/track/7e5HVLu9xSydLebKSqBebM"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Visiting Hours (Acoustic)",
         "url": "https://open.spotify.com/album/5C7zrFEPvQgSyD0wDRLOAW"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 197202,
       "name": "Visiting Hours (Acoustic)",
       "url": "https://open.spotify.com/track/2jf62eJL5GepSpGDy61pcK"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Break My Heart (Piano Acoustic)",
+        "url": "https://open.spotify.com/album/22QRfaVmqwWc1HqzQW69XB"
+      },
+      "artists": [
+        {
+          "name": "JC Stewart",
+          "url": "https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv"
+        }
+      ],
+      "duration_ms": 218293,
+      "name": "Break My Heart - Piano Acoustic",
+      "url": "https://open.spotify.com/track/7e5HVLu9xSydLebKSqBebM"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -1979,22 +1979,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Call Your Girlfriend - Acoustic",
-        "url": "https://open.spotify.com/album/76jfRPPFyQSnmB5N9SyNLW"
-      },
-      "artists": [
-        {
-          "name": "Fox & Hart",
-          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
-        }
-      ],
-      "duration_ms": 231250,
-      "name": "Call Your Girlfriend - Acoustic",
-      "url": "https://open.spotify.com/track/2tLoJAFgiB6uw6tDNCtbgd"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Anyone",
         "url": "https://open.spotify.com/album/2cPbdPF0OhQXxL6PFbXbxg"
       },
@@ -2039,6 +2023,22 @@
       "duration_ms": 223507,
       "name": "Nights Like This (Acoustic)",
       "url": "https://open.spotify.com/track/5qmBaa3MtKuyKy79WTUaBo"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Call Your Girlfriend - Acoustic",
+        "url": "https://open.spotify.com/album/76jfRPPFyQSnmB5N9SyNLW"
+      },
+      "artists": [
+        {
+          "name": "Fox & Hart",
+          "url": "https://open.spotify.com/artist/7cFrfYqBMkAmUn6ftD8KlH"
+        }
+      ],
+      "duration_ms": 231250,
+      "name": "Call Your Girlfriend - Acoustic",
+      "url": "https://open.spotify.com/track/2tLoJAFgiB6uw6tDNCtbgd"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2459,6 +2459,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "The Walls Are Way Too Thin (Floorboards Version)",
+        "url": "https://open.spotify.com/album/3Jbq63iQbuOOAtIYdHHRfb"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 203820,
+      "name": "The Walls Are Way Too Thin - Floorboards Version",
+      "url": "https://open.spotify.com/track/2axg4squnD1sycg3Ot1PVF"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "REACT (Acoustic)",
         "url": "https://open.spotify.com/album/2ZTNuevIFDNxse1tlUBmSt"
       },
@@ -2479,22 +2495,6 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "The Walls Are Way Too Thin (Floorboards Version)",
-        "url": "https://open.spotify.com/album/3Jbq63iQbuOOAtIYdHHRfb"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 203820,
-      "name": "The Walls Are Way Too Thin - Floorboards Version",
-      "url": "https://open.spotify.com/track/2axg4squnD1sycg3Ot1PVF"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
         "name": "Parachute",
         "url": "https://open.spotify.com/album/7iXzUCCibpn6n3ujGDg7XK"
       },
@@ -2507,22 +2507,6 @@
       "duration_ms": 124802,
       "name": "Parachute",
       "url": "https://open.spotify.com/track/0LYQVYp8WakLB6RSyOXNBM"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "As Long As I Break Your Heart",
-        "url": "https://open.spotify.com/album/0aWXwKyqK5cD54s0UoGPar"
-      },
-      "artists": [
-        {
-          "name": "Ruben",
-          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
-        }
-      ],
-      "duration_ms": 168778,
-      "name": "As Long As I Break Your Heart",
-      "url": "https://open.spotify.com/track/4frOdq5O12jE2YUh4XF4pJ"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2547,6 +2531,22 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
+        "name": "As Long As I Break Your Heart",
+        "url": "https://open.spotify.com/album/0aWXwKyqK5cD54s0UoGPar"
+      },
+      "artists": [
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 168778,
+      "name": "As Long As I Break Your Heart",
+      "url": "https://open.spotify.com/track/4frOdq5O12jE2YUh4XF4pJ"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
         "name": "Before You Go (Acoustic)",
         "url": "https://open.spotify.com/album/7xaCqATAVdhEEbXkJ5WSVn"
       },
@@ -2559,22 +2559,6 @@
       "duration_ms": 213281,
       "name": "Before You Go - Acoustic",
       "url": "https://open.spotify.com/track/3s5OWUD1uDxTKOvM7FNF8q"
-    },
-    {
-      "added_at": "2023-08-31 14:40:35",
-      "album": {
-        "name": "HURTFUL",
-        "url": "https://open.spotify.com/album/5c6oHmbHkTcOGWNwmPVuG8"
-      },
-      "artists": [
-        {
-          "name": "Linus Svenning",
-          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "HURTFUL",
-      "url": "https://open.spotify.com/track/6TvQfcq2Q0w2t5W2oLfhIa"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2595,18 +2579,18 @@
     {
       "added_at": "2023-08-31 14:40:35",
       "album": {
-        "name": "Eyes Closed",
-        "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
+        "name": "HURTFUL",
+        "url": "https://open.spotify.com/album/5c6oHmbHkTcOGWNwmPVuG8"
       },
       "artists": [
         {
-          "name": "Theresa Chase",
-          "url": "https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P"
+          "name": "Linus Svenning",
+          "url": "https://open.spotify.com/artist/5NMwwvYHzJ9ItOWj8Xgth8"
         }
       ],
-      "duration_ms": 203603,
-      "name": "Eyes Closed",
-      "url": "https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl"
+      "duration_ms": 146000,
+      "name": "HURTFUL",
+      "url": "https://open.spotify.com/track/6TvQfcq2Q0w2t5W2oLfhIa"
     },
     {
       "added_at": "2023-08-31 14:40:35",
@@ -2623,6 +2607,22 @@
       "duration_ms": 161456,
       "name": "Cooped up - Acoustic",
       "url": "https://open.spotify.com/track/0r8QmsNCerrYlA5gZn3wcl"
+    },
+    {
+      "added_at": "2023-08-31 14:40:35",
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/3ZSjHPyJ3NnbtH271F2kWe"
+      },
+      "artists": [
+        {
+          "name": "Theresa Chase",
+          "url": "https://open.spotify.com/artist/1FxU7Hz4HvvknicyJDeG9P"
+        }
+      ],
+      "duration_ms": 203603,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/1MFZQ3L9XixU9Hi3XLXeRl"
     },
     {
       "added_at": "2023-08-31 14:40:35",

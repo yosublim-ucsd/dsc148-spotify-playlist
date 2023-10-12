@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 
 > Simmer down with this relaxing selection of old and new Reggae.
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,022 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,931 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 22 | [Never Give Up](https://open.spotify.com/track/4ANZGc4p6NJxQ81C7aqIGw) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Never Give Up](https://open.spotify.com/album/7vVxcQX012StUFPW9LzrNV) | 4:19 |
 | 23 | [Show Love](https://open.spotify.com/track/62juTEt71fT3Ni8jaFynPm) | [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [Hybrid](https://open.spotify.com/album/7lJJIGkMzRbMCEpv6N7qKS) | 3:12 |
 | 24 | [No Money](https://open.spotify.com/track/7iKjwcwtWKvPItHxmPYQi6) | [Romain Virgo](https://open.spotify.com/artist/6HCIRVlJ8tvmKPAtFnxyFg) | [Romain Virgo](https://open.spotify.com/album/67tTLoSUvrnjq9wanpwt50) | 3:30 |
-| 25 | [Lowe Mi](https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [Lowe Mi](https://open.spotify.com/album/38mLi741PiYBJWdikH6Ja3) | 3:54 |
+| 25 | [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 |
 | 26 | [Brown Skin](https://open.spotify.com/track/1m2c9ZjrXRGRvvPhVOUXrV) | [Richie Spice](https://open.spotify.com/artist/3PqSrKPGZXefu4krgFCZSP) | [In The Streets To Africa](https://open.spotify.com/album/0scr0WIAfItBBbefIYqvuc) | 3:39 |
-| 27 | [Cool Runnings](https://open.spotify.com/track/70A4fwnfHIok2WsdKY7X0P) | [Duane Stephenson](https://open.spotify.com/artist/4jdHfc4ZIDd7RYn1reuDg2) | [Dangerously Roots \- Journey From August Town](https://open.spotify.com/album/49dwhhUPqqjIbfPfVoRIc2) | 3:54 |
+| 27 | [Lowe Mi](https://open.spotify.com/track/23sdZgBlHvaHJcfOLu2PgZ) | [Sevana](https://open.spotify.com/artist/2TZL5FEo1CGwmgdMSFwsdS) | [Lowe Mi](https://open.spotify.com/album/38mLi741PiYBJWdikH6Ja3) | 3:54 |
 | 28 | [Dinero](https://open.spotify.com/track/0QSpm9D61ncQtoDjKNemBK) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Dinero](https://open.spotify.com/album/7HhFor3YfnUxzOkNIjVGxj) | 2:53 |
 | 29 | [Same Prayer](https://open.spotify.com/track/3MfbMLBGKSHBboWixya7gL) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP), [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Same Prayer](https://open.spotify.com/album/0RaQaiuWVvfiqXJq4SGFv3) | 3:53 |
 | 30 | [Love And Mercy](https://open.spotify.com/track/1xulzoD8FGNwfqe4ot9fDT) | [Samory I](https://open.spotify.com/artist/2Tecz83XE3bNwAxGiGDFJR) | [Love And Mercy](https://open.spotify.com/album/3pEDTam6hFt9A1i7gA9T62) | 3:27 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 35 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
 | 36 | [Deeper](https://open.spotify.com/track/4pbQqdxHDI1oJpKxEfHxvq) | [Alaine](https://open.spotify.com/artist/62I2kfviQAwxvxNMvTj1Mc) | [Strictly The Best Vol\. 36](https://open.spotify.com/album/5OAh9E576gCvvut3xHh89G) | 3:50 |
 | 37 | [Bubble](https://open.spotify.com/track/0Wszs6jrBwK0YO2vYLb1We) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [Gemini](https://open.spotify.com/album/4TGkpeR5mcuh4C3Nnw1gM8) | 3:20 |
-| 38 | [Patra](https://open.spotify.com/track/7F32a9GztNOSQxJJUH1qsO) | [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao) | [Patra](https://open.spotify.com/album/3mDeMXPKmpx21LIWyVNWs2) | 3:26 |
-| 39 | [My Kinda Girl](https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Never Ending](https://open.spotify.com/album/6pJrd3qBSNWEeidE1W0Ukd) | 4:14 |
+| 38 | [My Kinda Girl](https://open.spotify.com/track/3ca9aWbM7H6j138sWF4fPG) | [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Never Ending](https://open.spotify.com/album/6pJrd3qBSNWEeidE1W0Ukd) | 4:14 |
+| 39 | [Patra](https://open.spotify.com/track/7F32a9GztNOSQxJJUH1qsO) | [Navy](https://open.spotify.com/artist/5lcuEyOhY94UGnsCgzTFao) | [Patra](https://open.spotify.com/album/3mDeMXPKmpx21LIWyVNWs2) | 3:26 |
 | 40 | [The real thing](https://open.spotify.com/track/46PucNRuGWY4BjIZhGOqjf) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2) | [Movin' On](https://open.spotify.com/album/015atHfkTckCacqwdccLZn) | 3:58 |
 | 41 | [Straighter Roads](https://open.spotify.com/track/38BC1rrHVvWgYmt51cg3pw) | [Julian Marley](https://open.spotify.com/artist/7a4td2FhkuH58dApiBvnrv) | [As I Am](https://open.spotify.com/album/4jwdfSqcclUXP5KGmZcTE8) | 4:30 |
 | 42 | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/track/6gkepFIH72ZdSIAjtvS7ZV) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [A Vibe \(feat\. Wiz Khalifa\)](https://open.spotify.com/album/6bTB8c23Zg98mJNN5wx5bw) | 2:43 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYtKpmml7moA.md) - [plain]
 | 49 | [Made To Fall In Love](https://open.spotify.com/track/2JKv3r2AUmWjrDFO3unlpq) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Reggae Gold 2019](https://open.spotify.com/album/5cfZ5mWTwZwyzSSgDeiFN6) | 3:44 |
 | 50 | [Amsterdam](https://open.spotify.com/track/19LXhmESLLMBb6bUJC02uR) | [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK), [Eva Lazarus](https://open.spotify.com/artist/68eE2HHE6By6hOsOcsArcp) | [Amsterdam](https://open.spotify.com/album/3WVrgqUT8NWgAuicUPcKt0) | 3:58 |
 
-Snapshot ID: `MCw4NTkwM2ZjZDgyN2Y1MWZjMWZiYmU2NzE2YzdkN2I2ZDQ4M2NhOGI5`
+Snapshot ID: `MCw0N2YxNzE2MzQ4NTZhMDdmOWQwNjkzYWExNzNiNzNjY2Y5ZDg2ZjBj`

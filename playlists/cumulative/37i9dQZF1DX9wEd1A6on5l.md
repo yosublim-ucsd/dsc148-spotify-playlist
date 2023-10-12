@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-288 songs - 14 hr 7 min
+289 songs - 14 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Firedncr\. \(Amapiano Remix\)](https://open.spotify.com/track/2S7qU3PHssWAaZn2rr3brR) | [Jaylon](https://open.spotify.com/artist/0LPjWuF3g2DJwDODD5aGr4), [Ozedikus](https://open.spotify.com/artist/3iLTHHBgzgMgdeGG5K6VfO), [Azanti](https://open.spotify.com/artist/72JYdP98St11Hga6yN2PGl) | [Firedncr\. \(Amapiano Remix\)](https://open.spotify.com/album/3NQrHzwVf6joGUVbqQ03SB) | 2:34 | 2023-03-03 | 2023-03-11 |
 | [FIREGUN](https://open.spotify.com/track/3GYjrPY5rh4f02ezDl07De) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN](https://open.spotify.com/album/0papSoKgmmRHnyIkCmMRhl) | 3:14 | 2023-06-30 | 2023-07-11 |
 | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5UautcyJDjHxwnejNAkfg9) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/album/1t7HLxUEYRN3TUBGkoazWj) | 3:14 | 2023-07-14 | 2023-10-09 |
+| [FIREGUN \(feat\. Fireboy DML\)](https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 3:14 | 2023-09-29 |  |
 | [Folelé](https://open.spotify.com/track/7x011H8oZwGYBuXQQfGpu4) | [Cruz Cafuné](https://open.spotify.com/artist/0jeYkqwckGJoHQhhXwgzk3), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [Me Muevo Con Dios](https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT) | 3:48 | 2023-05-26 | 2023-07-21 |
 | [For Daddy](https://open.spotify.com/track/3AqnDZV9TZJU6SfuXK90iT) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [For Daddy](https://open.spotify.com/album/3i534DhtsQpI3SVgoBH6mf) | 2:33 | 2023-05-05 |  |
 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [BNXN fka Buju](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 | 2022-06-09 | 2023-02-04 |
@@ -206,7 +207,7 @@
 | [PALAZZO](https://open.spotify.com/track/2SaRkvUkzNzL39fBB2hLpt) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [PALAZZO](https://open.spotify.com/album/2O2xKMqPSpnYYQMk5DPSTf) | 3:06 | 2022-06-09 |  |
 | [PAPILO \(Smadumodu\)](https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54) | [Smada](https://open.spotify.com/artist/2NRleSNdnZ8g8fXzGw8oso), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PAPILO / ABENA](https://open.spotify.com/album/3XyMQj0gznOyea4pCdlRup) | 2:12 | 2023-05-19 | 2023-06-10 |
 | [PARA](https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3) | [Kid MARLEY](https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PARA](https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc) | 2:58 | 2023-02-16 | 2023-02-24 |
-| [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 | 2023-09-29 |  |
+| [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 | 2023-09-29 | 2023-10-12 |
 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-18 |  |
 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 | 2022-09-23 | 2023-06-03 |
 | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/track/1mJFFeluclL38IwV264lm9) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Peace Be Unto You \(PBUY\)](https://open.spotify.com/album/2gAZf4ZEJH7fs0szGoCui1) | 2:33 | 2022-06-16 | 2023-05-27 |

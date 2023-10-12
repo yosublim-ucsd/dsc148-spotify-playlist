@@ -4,7 +4,7 @@
 
 > The easy listening sound of Jazz\. Cover: Norah Jones
 
-234 songs - 15 hr 4 min
+235 songs - 15 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [I've Drawn Your Face](https://open.spotify.com/track/3YNPJrSGsLw0MmJ0IEFySz) | [Rachael & Vilray](https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9) | [I Love A Love Song!](https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD) | 3:41 | 2023-05-18 |  |
 | [I've Got A Crush On You](https://open.spotify.com/track/2ujJJsaTQ78ReHWY9Nnwh1) | [Stacey Kent](https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi), [Colin Oxley](https://open.spotify.com/artist/6Qs92KB5NHAzQ3NsLfZ6qs), [David Newton](https://open.spotify.com/artist/3ecO9MnClCeQeRCPLzAEgy), [Jasper Kviberg](https://open.spotify.com/artist/7HLQsg7VWG5Xmx9dwrbWBy), [Jim Tomlinson](https://open.spotify.com/artist/5L3fIRSYQCR3EJwQICfyRq), [Simon Thorpe](https://open.spotify.com/artist/73R87wFxKX8jZu9zdfFSmm) | [Dreamsville](https://open.spotify.com/album/3wbSnWt0hXtrYn2Yiwi4Xq) | 4:43 | 2022-09-08 | 2022-09-30 |
 | [I've Got You Under My Skin](https://open.spotify.com/track/0YtdBOitNPB7oYgLvm2z8g) | [Matt Dusk](https://open.spotify.com/artist/1UbA3tvm40VqUsiFlJaPCs) | [I've Got You Under My Skin](https://open.spotify.com/album/4ygkbddQCe8tUTaaRdpppP) | 3:29 | 2021-12-21 |  |
-| [I've Never Been In Love Before](https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:42 | 2022-10-27 |  |
+| [I've Never Been In Love Before](https://open.spotify.com/track/4IqrPu63viykyz34gUYKAx) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 3:42 | 2022-10-27 | 2023-10-12 |
 | [I've Never Been In Love Before](https://open.spotify.com/track/4spNUk1Fj62kbBQibFAHpu) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/4YrAMk088p90boVlesCpOQ) | 3:42 | 2022-08-29 | 2022-09-01 |
 | [I've Never Been In Love Before](https://open.spotify.com/track/5Hmwj4ggGHuHm0prNevBBA) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/3t4SFDwWJlt7A3RQS2YT1c) | 3:42 | 2022-08-29 | 2022-10-13 |
 | [If I Had You](https://open.spotify.com/track/13wnRucX2HNMXfYZWz070v) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [American Classic](https://open.spotify.com/album/1tUvHnprAPtpCVmwA1B5WI) | 4:21 | 2023-06-20 |  |
@@ -160,6 +160,7 @@
 | [One Day I Fly Away](https://open.spotify.com/track/5G4mD6dNtV9V30npBbAj0i) | [Joe Sample](https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE), [Nils Landgren](https://open.spotify.com/artist/6B3ZWSop1mrJd71rwFozVP) | [Creole Love Call](https://open.spotify.com/album/1aV2jCH2ntuiZTpcrPcQvn) | 4:00 | 2021-12-21 |  |
 | [One Flight Down](https://open.spotify.com/track/211h8RfsBkSrbwXUP8EnsZ) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [Start Again EP](https://open.spotify.com/album/4u4ua2KI0WX92XsIKTvKAK) | 3:07 | 2023-05-18 |  |
 | [One for My Baby \(And One More for the Road\)](https://open.spotify.com/track/1c4oqyJGptLz2Yt7LLheX8) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Duets II](https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf) | 2:56 | 2021-12-21 |  |
+| [Out of the Blue](https://open.spotify.com/track/4vgJoEztJ2uXCgU5fXxxGW) | [Eudald Payés](https://open.spotify.com/artist/72atXcV9ekLP3iDmLD0BDc), [Rita Payés](https://open.spotify.com/artist/1XSmez9xyCCPpOZp0uImwM) | [Out of the Blue](https://open.spotify.com/album/1g7TW3FbyhPzxBLLGSNFkd) | 3:36 | 2023-10-11 |  |
 | [Over the Rainbow](https://open.spotify.com/track/5V2PNLZpdSO3ZyOr5aMZJL) | [Emilie\-Claire Barlow](https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg) | [Over the Rainbow](https://open.spotify.com/album/1s1IYPYEgbPw42kMzZujWo) | 4:11 | 2023-05-18 |  |
 | [Over the Rainbow \(from "The Wizard of Oz"\)](https://open.spotify.com/track/5F71PfO0UhvqRYkJNNuLI5) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Stages \(Deluxe\)](https://open.spotify.com/album/7bpNb4BzAwWAVzKOlzJZDU) | 4:26 | 2021-12-21 | 2022-04-24 |
 | [Peace](https://open.spotify.com/track/7tXeeUCuvSrGnnscIT58iv) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Deluxe Edition\)](https://open.spotify.com/album/6PguISnE2nz7CuhnIAWhQF) | 3:52 | 2021-12-21 | 2022-07-29 |

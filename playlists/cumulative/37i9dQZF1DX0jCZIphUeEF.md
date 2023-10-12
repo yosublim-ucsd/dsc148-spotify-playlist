@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:4Jh6PxSFH7CrZrQpDivlYf">Amine K</a>'s favorite tracks\. Updated regularly\. Curated by Amine K\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-113 songs - 11 hr 11 min
+114 songs - 11 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,8 @@
 | [Funkin' for Jamaica](https://open.spotify.com/track/0xbkxTqSaW5blsYgRXpB5I) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [Funkin' For Jamaica](https://open.spotify.com/album/3QEAp1Cp3DQq6QcQD90arq) | 4:40 | 2022-08-01 | 2023-08-24 |
 | [Guapa](https://open.spotify.com/track/5qd4C8cEW0VNNQoZ9tNaX7) | [Calamar Crew](https://open.spotify.com/artist/28Tqd0YiUZ7fWNvikZjAiN), [Leon \(FR\)](https://open.spotify.com/artist/0OUY2dHEjLzNhvAbBD3Ouj) | [We Rise By Lifting Others](https://open.spotify.com/album/7bHGruOG4gvKtOLzJq2eQO) | 6:48 | 2022-08-01 |  |
 | [He Is \(feat\. Song Williamson\) \- Ferrer & Sydenham Inc Vox Mix](https://open.spotify.com/track/5238avQlRSW9LeUN5sIGKI) | [Copyright](https://open.spotify.com/artist/1QcNpVT6u0dHxmjpZoJtHd), [Song Williamson](https://open.spotify.com/artist/06O1ocpjJ5R5NXjzIR18MB) | [He Is \(feat\. Song Williamson\)](https://open.spotify.com/album/51gAjOsqdrk7lOt9aCXjwp) | 8:01 | 2022-08-01 |  |
-| [Hecate \- Original Mix](https://open.spotify.com/track/4dbAmImPbQ8CKtvbopT5ls) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [10 Years Hive Audio, Pt\. 3](https://open.spotify.com/album/5PmgOg1nXO0o0x2BjzVCw1) | 6:34 | 2022-08-01 |  |
+| [Hecate \- Original Mix](https://open.spotify.com/track/4dbAmImPbQ8CKtvbopT5ls) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [10 Years Hive Audio, Pt\. 3](https://open.spotify.com/album/5PmgOg1nXO0o0x2BjzVCw1) | 6:34 | 2022-08-01 | 2023-10-12 |
+| [Hecate \- Original Mix](https://open.spotify.com/track/7qLsv1BkNBhxz9spbM3ggl) | [Amine K \(Moroko Loko\)](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Voltaire Music Pres\. The Ibiza Diary 2023](https://open.spotify.com/album/3hVkXEfMtUdBB62dPzXVzI) | 6:34 | 2023-10-04 |  |
 | [Holi](https://open.spotify.com/track/0KPRVpZipfBa416bU01fTp) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Niki4](https://open.spotify.com/artist/3ZIPK1vx39AtBHleH80CzV) | [Holi EP](https://open.spotify.com/album/3MaaYmcDVNUw3jKTRAx5nE) | 6:45 | 2022-08-01 | 2023-07-28 |
 | [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/4O7rsawCxBlcrYSz6ZHmMM) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/2o8I77Z1HsMqCKAdEcTT6o) | 9:16 | 2022-08-01 | 2022-10-15 |
 | [I Feel Love \- Monkey Safari Remix](https://open.spotify.com/track/37nppJzOgypngu1szTRD06) | [DJ Pierre](https://open.spotify.com/artist/58nnSR1lwvcuklbb3Uc6TU), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa), [Chic Loren](https://open.spotify.com/artist/3jMsCseQv7XvuJ9LJQN5dM) | [I Feel Love \(Monkey Safari Remix\)](https://open.spotify.com/album/4qJPPQ2dIJ9MOnVfGG2PN7) | 9:16 | 2022-09-08 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-[Spotify](https://open.spotify.com/user/spotify) - 308,502 likes - 200 songs - 15 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 308,676 likes - 200 songs - 15 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 12 | [Have A Talk With God](https://open.spotify.com/track/5zH2yuY4i55cD4fc1COjdt) | [Jack Lee](https://open.spotify.com/artist/12ZVNsCxj4KCcXvUmrHbIW), [Nathan East](https://open.spotify.com/artist/5XTyy46AbpxIhvs38nQekJ) | [Heart And Soul](https://open.spotify.com/album/35B0dmoLWUMpUzyFZwaEy7) | 5:41 |
 | 13 | [Fast Life](https://open.spotify.com/track/4Qlyf2WcL6uq11MNP3BjqH) | [Kinga Glyk](https://open.spotify.com/artist/173ko01vSVOZ1opooANOvk) | [Fast Life](https://open.spotify.com/album/29SzjciN1hhMafVQcZizOV) | 3:58 |
 | 14 | [Watermelon Man](https://open.spotify.com/track/2zQl59dZMzwhrmeSBEgiXY) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW) | [Head Hunters](https://open.spotify.com/album/5fmIolILp5NAtNYiRPjhzA) | 6:28 |
-| 15 | [Lazy Days \- Bluey Remix](https://open.spotify.com/track/4YbHhDPvq21gjwd05tDIke) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Jean Paul "Bluey" Maunick](https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM) | [STR4TASFEAR Remixes](https://open.spotify.com/album/3b7KqHLE7GAJ0Pi8H5KGbD) | 6:31 |
+| 15 | [Lazy Days \(feat\. Emma\-Jean Thackray\) \[Bluey Remix\]](https://open.spotify.com/track/5yfojFTeq7UFGuuV3UT9O0) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Jean Paul "Bluey" Maunick](https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM) | [STR4TASFEAR Remixes](https://open.spotify.com/album/3dCSbKuoc31g6ebi6I2XZL) | 6:31 |
 | 16 | [The Grid Generation](https://open.spotify.com/track/0psCd4ntI6P1lrTZI6TRP2) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH) | [The Grid Generation](https://open.spotify.com/album/1nqz0Wb3iGIB3zJ9OO3Ewx) | 4:45 |
 | 17 | [Hizuru \- Jazztronik Remix](https://open.spotify.com/track/12ycPl7hDIiidFQYvDJHpU) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM), [Excursions](https://open.spotify.com/artist/4RlSrid1rrUpTjjAByI99o), [Hizuru](https://open.spotify.com/artist/0KMviWZDLVXQvl1Hl3RDoe) | [Hizuru \(Jazztronik Remix\)](https://open.spotify.com/album/4VEyGOgf7K0eNBnASVugmd) | 4:01 |
 | 18 | [Serpentine](https://open.spotify.com/track/3exot3dINaZOhGhw9kL9vX) | [Apollo Suns](https://open.spotify.com/artist/2QkgSnhat4djSXQA6EvQJW) | [Serpentine](https://open.spotify.com/album/3HDZIVNyEpxMEVYg2LGjgQ) | 3:48 |
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUb0uBnlJuTi.md) - [plain]
 | 199 | [The Hornet's Nest](https://open.spotify.com/track/6wtLyIUHbG3XfVGNDL7U7y) | [Eleven 76](https://open.spotify.com/artist/3mHGVYRvwf2YC27xqftGTz), [Golden Rules](https://open.spotify.com/artist/05aFzjXP3Btq6cAL1PM8gz) | [The Hornet's Nest](https://open.spotify.com/album/1ksnYmM1fPxOzbNEyyQTE8) | 2:16 |
 | 200 | [So Cold](https://open.spotify.com/track/3ftTujZJKBzxtDR5qId3Ge) | [Jackson Mathod](https://open.spotify.com/artist/6RvLMgatQu3kdjDpYyQnTx), [David Mrakpor](https://open.spotify.com/artist/7JNCmuOVO13j5XNE8s1Bvr) | [So Cold](https://open.spotify.com/album/6apEouE0HLqkoTSh1AFFtT) | 4:12 |
 
-Snapshot ID: `MCxkMzlmYzk1ZjhlMjY5ZTQxNjlkYTA0YzRjYzNkMDhiODgzMzRiMWI5`
+Snapshot ID: `MCxiODE1MDkxMmJkM2E1YThhM2IzOTkzODg0MGM4MzcwZmJkOWY0YzQ1`

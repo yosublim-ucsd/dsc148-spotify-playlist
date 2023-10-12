@@ -1,12 +1,12 @@
 {
   "description": "A safe space for reflecting and remembering. Soft, instrumental music to bring you comfort and strength. ",
-  "num_followers": 25686,
+  "num_followers": 25785,
   "original_name": "Reflection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODNhNmFiMjkwZmE2MzQ3YmM1NTY5YzczZjliZmVhOWMwMzFjOWMy",
+  "snapshot_id": "MCwxYzU0MDc1MmFhOGZkMjQ2ZmI2Mjk5ZDg0ZTE0OTkxZjQzOTMzYzZj",
   "tracks": [
     {
       "added_at": "2023-06-30 04:01:00",
@@ -227,6 +227,26 @@
       "duration_ms": 205493,
       "name": "My fellow creatures",
       "url": "https://open.spotify.com/track/1YcABWwgkfrOSw8VMgDWZU"
+    },
+    {
+      "added_at": "2023-06-30 04:01:00",
+      "album": {
+        "name": "Sixteen Contemporary Love Songs for Piano",
+        "url": "https://open.spotify.com/album/2OYyS1vSV7qEIYjA763YvF"
+      },
+      "artists": [
+        {
+          "name": "Elena Kats-Chernin",
+          "url": "https://open.spotify.com/artist/0OnynZ2smlYDjDmdRQVkmk"
+        },
+        {
+          "name": "William Howard",
+          "url": "https://open.spotify.com/artist/3NkjYttHnIbRubcPdtyvSL"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "Roses in a Box",
+      "url": "https://open.spotify.com/track/20BUmbjIRXr7MnGjNaC2R2"
     },
     {
       "added_at": "2023-06-30 04:01:00",

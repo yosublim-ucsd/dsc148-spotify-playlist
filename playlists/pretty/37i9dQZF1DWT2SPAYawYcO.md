@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Teen Jesus and the Jean Teasers
 
-[Spotify](https://open.spotify.com/user/spotify) - 366,241 likes - 95 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 366,005 likes - 95 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 54 | [TLC](https://open.spotify.com/track/1nXEbGvVAWGRFwVRBu1YSY) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw) | [TLC](https://open.spotify.com/album/74SmXYF8NJlxp1PqMEXf3p) | 2:29 |
 | 55 | [Hell](https://open.spotify.com/track/44cwcFNclhaQm29UTexzDg) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Hell](https://open.spotify.com/album/02zLqSxOwNG6OlppSNHvOK) | 3:13 |
 | 56 | [Undo U](https://open.spotify.com/track/4zaKOfQhWKkq9xhEvuevXU) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR) | [Undo U](https://open.spotify.com/album/7Cr1Y5N2iMW4qKpiXH462f) | 2:02 |
-| 57 | [So Free So Lonely](https://open.spotify.com/track/4q7ElQxJQFArqpl8Kw7Zrm) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [So Free So Lonely](https://open.spotify.com/album/3N4GBkPn1MmjSQcjeJOHFJ) | 3:12 |
+| 57 | [So Free So Lonely](https://open.spotify.com/track/3zbnvBAEG5PSeACvYaafMU) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [So Free So Lonely](https://open.spotify.com/album/4ucJg25t2uOgZ2GC3fm8XZ) | 3:12 |
 | 58 | [Location](https://open.spotify.com/track/2FBTSfQJOLt4btsvhbC7NH) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7) | [Location](https://open.spotify.com/album/6s94PA4PE2tymla2Jr8Q3O) | 2:22 |
 | 59 | [Walking On Ice](https://open.spotify.com/track/0QpjxbyUFXkGYpBgFsza2V) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4) | [Walking On Ice](https://open.spotify.com/album/4rzlFh4dPWc2rh7C68lDTk) | 2:43 |
 | 60 | [GHOST](https://open.spotify.com/track/0RWdTYTC4Vr0HYUs6Uz2TE) | [Tbi$h](https://open.spotify.com/artist/6j7XK7KYc9Ie6pUqkFoS4U) | [GHOST](https://open.spotify.com/album/4AWX3NaFPug2zqRTIOEIy1) | 1:35 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 94 | [Promises](https://open.spotify.com/track/0CPQuLqXxxx5PXHIXWV91u) | [Mark Wilkinson](https://open.spotify.com/artist/2xotqeudHAi6eXva57U5nK) | [Promises](https://open.spotify.com/album/7hRioMLO2cpK6kbhUh9GMN) | 4:04 |
 | 95 | [All My Friends Hate Me](https://open.spotify.com/track/03m467XlcAzQFP4grnIMRV) | [Jude York](https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED) | [All My Friends Hate Me](https://open.spotify.com/album/0dZKvHf8KIeuRFKa2UKntu) | 3:44 |
 
-Snapshot ID: `MCxjOGQ5ZTM1M2ZjMDdkNGU5MWQxNmJkNjk4YmNmMTRlZTMxNGYxZDhk`
+Snapshot ID: `MCw4NmRjNWRmZDI4OTI5NTBmYTRiOTZiNTMyMjBkMmY0ZjQ2MmNkY2Uy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 
 > Mode lecture aléatoire obligatoire.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,740 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,776 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,12 +46,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 | 36 | [Let's Get To Work](https://open.spotify.com/track/456sTgUGjvqvmYr7GqMFnG) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Let's Get To Work](https://open.spotify.com/album/7cnBwqsBiHUPFQZtCJE0uN) | 3:00 |
 | 37 | [Soleil Mort](https://open.spotify.com/track/7ziSNSAMNDvWBHuSqbGy08) | [ELOI](https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl) | [Pyrale](https://open.spotify.com/album/3fiBUejWxczE7f8ITf4ad1) | 3:15 |
 | 38 | [All I Need](https://open.spotify.com/track/66stDprhtsjuhwS5oxg7ft) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Saturday Night, Sunday Morning](https://open.spotify.com/album/7KrrgdgGjU4TqTCEdBilA0) | 3:36 |
-| 39 | [She Pretends](https://open.spotify.com/track/6B8GIRuUKgN7CHx0yAHw6K) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Isaac Delusion](https://open.spotify.com/album/53NFdlmnX8Mqd9cW5Nzv2w) | 4:05 |
-| 40 | [Drag](https://open.spotify.com/track/5LsHB7a3E9wtoKac1FVMmi) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Le cœur qui cogne](https://open.spotify.com/album/4yQrejKybw0gsJ7W6k0Vmw) | 2:41 |
+| 39 | [Drag](https://open.spotify.com/track/5LsHB7a3E9wtoKac1FVMmi) | [St Graal](https://open.spotify.com/artist/7Kgv8CorcAKsG4of90vA5I) | [Le cœur qui cogne](https://open.spotify.com/album/4yQrejKybw0gsJ7W6k0Vmw) | 2:41 |
+| 40 | [She Pretends](https://open.spotify.com/track/6B8GIRuUKgN7CHx0yAHw6K) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [Isaac Delusion](https://open.spotify.com/album/53NFdlmnX8Mqd9cW5Nzv2w) | 4:05 |
 | 41 | [Normal](https://open.spotify.com/track/6vEBjNnWYadgKeihTMs2Nb) | [Johnny Jane](https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr) | [Normal](https://open.spotify.com/album/4DAcNelO7672wOl6OdA23u) | 2:59 |
 | 42 | [N.E.M.](https://open.spotify.com/track/1evi0s1rOH5ZFJkrCWbStm) | [Las Aves](https://open.spotify.com/artist/0bbL6moYLUu792U2ZdWgXU) | [Die In Shanghai](https://open.spotify.com/album/3X0fVmPjhrn1tjsz8ALmdC) | 3:20 |
-| 43 | [Big Bite](https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite](https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI) | 3:21 |
-| 44 | [Straight To The Morning](https://open.spotify.com/track/5S5JOQIM7YMJWrqmBbTY09) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Straight To The Morning](https://open.spotify.com/album/6OPYOYkycinpC3gEziMrao) | 3:19 |
+| 43 | [Straight To The Morning](https://open.spotify.com/track/5S5JOQIM7YMJWrqmBbTY09) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Jarvis Cocker](https://open.spotify.com/artist/13W7XLRXdWeLmIu9vacE1w) | [Straight To The Morning](https://open.spotify.com/album/6OPYOYkycinpC3gEziMrao) | 3:19 |
+| 44 | [Big Bite](https://open.spotify.com/track/2NEfVaMjt95EgNyFu8dKNY) | [Hannah Cole](https://open.spotify.com/artist/3XRj6XMmub9546oUagEqHY) | [Big Bite](https://open.spotify.com/album/5r7FCFcuwOhQFO8Oc9jaoI) | 3:21 |
 | 45 | [Kamikaze](https://open.spotify.com/track/0JpQfoBOdJ2ftUi7VGj6dx) | [Connie Constance](https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt) | [Miss Power](https://open.spotify.com/album/37pi6A0dr6Puse1u2xHkdD) | 2:17 |
 | 46 | [Je suis Cendrillon](https://open.spotify.com/track/1BEWLPnXcv2ecWzx3mqCse) | [Zed Yun Pavarotti](https://open.spotify.com/artist/2TM7WyJwjfD5wKyX9OtIWJ) | [Encore](https://open.spotify.com/album/5g010EGj82UnGrOTxaHveU) | 2:49 |
 | 47 | [Audi rtt](https://open.spotify.com/track/7lBcwHvUVvJ53EqlqyzoNG) | [Gwendoline](https://open.spotify.com/artist/0KeEMBn34d4rKeACHxK9AF) | [Après c'est gobelet !](https://open.spotify.com/album/02PBA0IOsTKnjnwcRW7WI5) | 4:37 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RdbnCxVh4a.md) - [plain]
 | 49 | [Only Good Things](https://open.spotify.com/track/1xn7DfWI2NeNlcS463ku3F) | [The Murder Capital](https://open.spotify.com/artist/18M7pJRsgFVjEBZ5ufmJAp) | [Gigi's Recovery](https://open.spotify.com/album/6ZbJKlwcSja0MbKg2dQQLJ) | 3:15 |
 | 50 | [Need A Little Time](https://open.spotify.com/track/38O0SN9P3sC0UFLsgLqLju) | [Courtney Barnett](https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y) | [Tell Me How You Really Feel](https://open.spotify.com/album/3l7JWewI3ZByxaT5BCgRx2) | 3:58 |
 
-Snapshot ID: `MCxiMWFjYjk1ZGQzZjI5MDhhOGI0N2E2YjQ5OTU2Yjg0Mjg4OTY1MDJl`
+Snapshot ID: `MCw5YjgwMjIzNjkwMDg0ZjcwYjEwY2M1OTA4YzAzM2U1Y2Y4N2Y4ZjY4`

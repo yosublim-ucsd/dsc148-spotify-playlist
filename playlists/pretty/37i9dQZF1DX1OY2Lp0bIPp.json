@@ -1,12 +1,12 @@
 {
   "description": "Giving motivation to your Monday. You got this!",
-  "num_followers": 655010,
+  "num_followers": 654716,
   "original_name": "Monday Motivation",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5ZmJiOTZiYTMzYWY3MzE5MGU1NWYyNDY5M2NkZWE3MDJmOGViZGYw",
+  "snapshot_id": "MCw2ODRkNTdjZWY1ZWUzYzlhZWYxYzcyZjkxZWUyYjRjMzUwMzI0NmU5",
   "tracks": [
     {
       "added_at": "2020-08-27 15:58:21",
@@ -335,6 +335,22 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
+        "name": "Blur (Special Edition)",
+        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 121160,
+      "name": "Song 2 - 2012 Remaster",
+      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/76FXHQhTuT4QMIxfL09gX8"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 258342,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/3bidbhpOYeV4knp8AIu8Xn"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
-        "name": "Blur (Special Edition)",
-        "url": "https://open.spotify.com/album/7HvIrSkKGJCzd8AKyjTJ6Q"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 121160,
-      "name": "Song 2 - 2012 Remaster",
-      "url": "https://open.spotify.com/track/1FTSo4v6BOZH9QxKc3MbVM"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -883,6 +883,22 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
+        "name": "All Killer, No Filler",
+        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 207093,
+      "name": "In Too Deep",
+      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
         "name": "Take Care (Deluxe)",
         "url": "https://open.spotify.com/album/6X1x82kppWZmDzlXXK3y3q"
       },
@@ -903,18 +919,18 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "All Killer, No Filler",
-        "url": "https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim"
+        "name": "The Raw & The Cooked",
+        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
       },
       "artists": [
         {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+          "name": "Fine Young Cannibals",
+          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
         }
       ],
-      "duration_ms": 207093,
-      "name": "In Too Deep",
-      "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
+      "duration_ms": 215773,
+      "name": "She Drives Me Crazy",
+      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -931,22 +947,6 @@
       "duration_ms": 171360,
       "name": "Call on Me - Radio Mix",
       "url": "https://open.spotify.com/track/1xNcBAoUw8Hz6LqK2jt4Ff"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
-        "name": "The Raw & The Cooked",
-        "url": "https://open.spotify.com/album/6CoeDRu0SmpFtLZMcRTO2F"
-      },
-      "artists": [
-        {
-          "name": "Fine Young Cannibals",
-          "url": "https://open.spotify.com/artist/20p5D2KrE8CGuOjHtxsyTp"
-        }
-      ],
-      "duration_ms": 215773,
-      "name": "She Drives Me Crazy",
-      "url": "https://open.spotify.com/track/4d6eqRtpDX7tydHJGDZUBQ"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "These Streets",
-        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
-      },
-      "artists": [
-        {
-          "name": "Paolo Nutini",
-          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
-        }
-      ],
-      "duration_ms": 203653,
-      "name": "New Shoes",
-      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
-    },
-    {
-      "added_at": "2020-08-27 15:58:21",
-      "album": {
         "name": "Stronger (Deluxe Version)",
         "url": "https://open.spotify.com/album/1MNvMtEmMMdBXZBDcFNcWj"
       },
@@ -1607,18 +1591,18 @@
     {
       "added_at": "2020-08-27 15:58:21",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+        "name": "These Streets",
+        "url": "https://open.spotify.com/album/6L2FiSnFMisCgbhbag4KTl"
       },
       "artists": [
         {
-          "name": "Annie Lennox",
-          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+          "name": "Paolo Nutini",
+          "url": "https://open.spotify.com/artist/7x5rK9BClDQ8wmCkYAGsQp"
         }
       ],
-      "duration_ms": 253295,
-      "name": "Walking on Broken Glass",
-      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
+      "duration_ms": 203653,
+      "name": "New Shoes",
+      "url": "https://open.spotify.com/track/265Anh9hGoozFigjUVLUeD"
     },
     {
       "added_at": "2020-08-27 15:58:21",
@@ -1635,6 +1619,22 @@
       "duration_ms": 230800,
       "name": "Sweet Disposition",
       "url": "https://open.spotify.com/track/5RoIXwyTCdyUjpMMkk4uPd"
+    },
+    {
+      "added_at": "2020-08-27 15:58:21",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/33ImEB9taJ3Tie4APfTL7B"
+      },
+      "artists": [
+        {
+          "name": "Annie Lennox",
+          "url": "https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum"
+        }
+      ],
+      "duration_ms": 253295,
+      "name": "Walking on Broken Glass",
+      "url": "https://open.spotify.com/track/4CcSw8wQAHYf4XNckayPoc"
     },
     {
       "added_at": "2020-08-27 15:58:21",

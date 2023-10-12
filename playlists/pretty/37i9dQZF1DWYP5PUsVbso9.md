@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 
 > The decade of the Outlaws of Country Music \- where traditional and crossover country collided\. Cover: Charley Pride
 
-[Spotify](https://open.spotify.com/user/spotify) - 282,690 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 282,790 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 75 | [Let Me Be There](https://open.spotify.com/track/0E4HRDc8ReRr7Fy59eW2bX) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Let Me Be There](https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx) | 3:01 |
 | 76 | [For the Good Times](https://open.spotify.com/track/4cIGNFaKpoVuJfVvixS0mU) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [The Essential Ray Price](https://open.spotify.com/album/5ficfpIRTeXi6BRePNGQCQ) | 3:47 |
 | 77 | [It Must Be Love \- Single Version](https://open.spotify.com/track/2yjP9SAtGTy6xgMEJXVXsi) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:26 |
-| 78 | [Before the Next Teardrop Falls](https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [The Freddy Fender Collection](https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp) | 2:38 |
-| 79 | [Amos Moses](https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 2:19 |
+| 78 | [Amos Moses](https://open.spotify.com/track/1lfVeoMZZimh0jf8rYUeJU) | [Jerry Reed](https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF) | [The Essential Jerry Reed](https://open.spotify.com/album/0NoIqI4xsXGOpd4vvBjo7O) | 2:19 |
+| 79 | [Before the Next Teardrop Falls](https://open.spotify.com/track/3awuorsQsio2PUOvzq3hpd) | [Freddy Fender](https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6) | [The Freddy Fender Collection](https://open.spotify.com/album/7nXadSb5djsc7Lfdv4IPLp) | 2:38 |
 | 80 | [I'll Get Over You \- Remastered](https://open.spotify.com/track/0jtLwaA1Y2Da0xrNSJEgs0) | [Crystal Gayle](https://open.spotify.com/artist/6OheJTrDFGiyZ67F1BBLhc) | [Certified Hits](https://open.spotify.com/album/0SqgAUdIDTesLUoLn3sTn2) | 3:31 |
 | 81 | [Two More Bottles of Wine \- 2003 Remaster](https://open.spotify.com/track/62buMnGJ9bLrZAV03fGjYc) | [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Quarter Moon in a Ten Cent Town \(Expanded & Remastered\)](https://open.spotify.com/album/0kwZMM8Nj0a4dPvVPUiN2y) | 3:06 |
 | 82 | [Sweet Dreams](https://open.spotify.com/track/0x1voumEkvPYIm3xKHDXnZ) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [Out Of A Dream](https://open.spotify.com/album/4lwwXOsQZyqwnZSEh9xCtP) | 3:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYP5PUsVbso9.md) - [plain]
 | 99 | [Some Broken Hearts Never Mend \- Single Version](https://open.spotify.com/track/6OREPdoHWU3IehSiZA6rcw) | [Don Williams](https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe) | [20 Greatest Hits](https://open.spotify.com/album/1EoBcNqFMobg6Wrzskv6G9) | 2:48 |
 | 100 | [Every Time Two Fools Collide](https://open.spotify.com/track/7fiM9fRN7nRb2z1j7ZOdjy) | [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4), [Dottie West](https://open.spotify.com/artist/2pvPkEAN9xSrDrIVUOxWMB) | [Every Time Two Fools Collide](https://open.spotify.com/album/4eUUpjBZcZ8ODPhId8O7CL) | 3:00 |
 
-Snapshot ID: `MCwzM2U3ZmYwZDM5YmZjNjQ3ZTQwZGFlNGEwODEwNzJhZWJiMjMxZTBh`
+Snapshot ID: `MCw4NGFmZDBiZDc1NGYxMDkyNmQzNmQ0ZmIzYWRlNDBhNWFiMTVmZDky`

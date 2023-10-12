@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die varste Afrikaanse musiek\. Cover: <a href="https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I?si=ZDrhHF6ESvuB3CUMvhiFAw">Biggy</a> & <a href="https://open.spotify.com/artist/57DecfSx9lmFD6SnFL8Xs0?si=n2SIN0QKTpeWzH\-CNMJUPw">Coenie</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,955 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,971 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 23 | [Altyd Daar](https://open.spotify.com/track/6RQ8lFoVNN5WcRR9cFlThW) | [Ryno Velvet](https://open.spotify.com/artist/1qn5hZjDJPBVBFsqLujvyt) | [Altyd Daar](https://open.spotify.com/album/7i6x9x7WGGsv4iU16Ic3Ab) | 4:15 |
 | 24 | [Kantel](https://open.spotify.com/track/5UMSYB9668hAgg3dthG84k) | [Leon Ferreira](https://open.spotify.com/artist/39uCiGH9MvKNvQXdklDchX), [Steve Hofmeyr](https://open.spotify.com/artist/3XYaWzAVTUeNetMigezvS5) | [Kantel](https://open.spotify.com/album/28vcvR8fDTEqLJ4Fl1eY8z) | 3:15 |
 | 25 | [Voel Dit](https://open.spotify.com/track/1ItavW0ZalPyj7vQO7KWRe) | [Tiffany Steyn](https://open.spotify.com/artist/59MpUgNuceaiVthUiMW9Uu) | [Voel Dit](https://open.spotify.com/album/6uFZ0N4CS799dzhJ9LLnvC) | 3:29 |
-| 26 | [Dans In Afrikaans](https://open.spotify.com/track/1NZnpLur3I9unnB3WJLsVh) | [Robert Bolton](https://open.spotify.com/artist/2KBf5tU1MH13eDICT4zZi7) | [Dans In Afrikaans](https://open.spotify.com/album/06NBHRDIGtuOv4AQa9bYHR) | 3:34 |
+| 26 | [Dans In Afrikaans](https://open.spotify.com/track/1NZnpLur3I9unnB3WJLsVh) | [Robert Bolton](https://open.spotify.com/artist/04WWxTa5E9xPJ15nafcMRR) | [Dans In Afrikaans](https://open.spotify.com/album/06NBHRDIGtuOv4AQa9bYHR) | 3:34 |
 | 27 | [SMK \(Sondagmiddag Knippie\)](https://open.spotify.com/track/3Fu14rGiC9RPhCaTFobslm) | [Ilán van Staden](https://open.spotify.com/artist/7FUqmUXFmllziX2NgD4Knj) | [SMK \(Sondagmiddag Knippie\)](https://open.spotify.com/album/1jNlLxnN439S7GeKsH10ba) | 3:19 |
 | 28 | [Vriend](https://open.spotify.com/track/4N0DKF5cPNjxPWRGLsXvvH) | [Armand Steenkamp](https://open.spotify.com/artist/4w6AsEneIpyV0x0Umntav5) | [Vriend](https://open.spotify.com/album/1nDlCjKf176FOs2ej8puEC) | 3:17 |
 | 29 | [Hiep hiep hoera](https://open.spotify.com/track/2Z0yydrGeU24bvSsBeVAU9) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Hiep hiep hoera](https://open.spotify.com/album/0O8aeEdjVkgRFsPm9OPQAx) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 49 | [Khaki](https://open.spotify.com/track/5YtFnh2RwQNFh5G35DntZZ) | [Ricus Nel](https://open.spotify.com/artist/7Mhp3513Ydxqu2u1JMiQFg) | [Khaki](https://open.spotify.com/album/1FzE8gRBbhOyVULGuxkWQ3) | 3:06 |
 | 50 | [Stoutgat](https://open.spotify.com/track/4QyvkP2gRHGYOaOntzVJpL) | [Jay](https://open.spotify.com/artist/4KZEdNPtF2AdijUD02qPoj) | [Stoutgat](https://open.spotify.com/album/5JQbHRJ42Vhl5U3GCcpYdw) | 3:10 |
 
-Snapshot ID: `MCw3ZTlmN2Q1YTY0NjdiMzdlMTBmNmIyYWZiZGQxM2NkZTQ5NGE2MWVk`
+Snapshot ID: `MCwwOWY5ZDA0NWYxY2JkMjM1NmQ2ODhhMmIxNDZlNjU2YzY0NmY2NDE2`

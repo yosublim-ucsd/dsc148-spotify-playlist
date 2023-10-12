@@ -4,11 +4,11 @@
 
 > Sumérgete a lo más profundo de tu mente con el sonido del mar.
 
-251 songs - 12 hr 48 min
+252 songs - 12 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2AM Waves](https://open.spotify.com/track/5IQ6pLdPDHrfL4UPE8gJ39) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nature's Peaceful Sounds](https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y) | 1:56 | 2023-07-03 |  |
+| [2AM Waves](https://open.spotify.com/track/5IQ6pLdPDHrfL4UPE8gJ39) | [The Nature Soundscapes](https://open.spotify.com/artist/02EkiP3hYgkSISBAS0nfjG) | [Nature's Peaceful Sounds](https://open.spotify.com/album/3OmH5IoMCLOK4ehfVhc21y) | 1:56 | 2023-07-03 | 2023-10-12 |
 | [A Seagull's Dream \(Wave Sounds\)](https://open.spotify.com/track/4Q8gCZ1KF38PZs35uFbKO6) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:47 | 2023-07-03 |  |
 | [Across The Ocean](https://open.spotify.com/track/49Eos3Dytu0nrhZ8fhQNbd) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Across The Ocean](https://open.spotify.com/album/1qLrKZJ5wFbTOrkNrANeHa) | 3:04 | 2023-07-03 |  |
 | [Afternoon Tide](https://open.spotify.com/track/1nEQ117bf8yZaxQAJvlqq9) | [Coastal Sounds](https://open.spotify.com/artist/249TyuYTmZtXB1yC90nGGx) | [Private Beach Wave Sounds](https://open.spotify.com/album/32DqIRyDehbR8cLyWFilgg) | 3:07 | 2023-07-03 |  |
@@ -204,6 +204,7 @@
 | [Sunday Night Waves](https://open.spotify.com/track/4wyrnxzpwN3ja8TPHfB7xP) | [Microdynamic Recordings](https://open.spotify.com/artist/3zG3fwEK20npYHIYooztq9) | [Sunday Night Waves](https://open.spotify.com/album/5Lu8V4pKtLpaS8Q6OwABjs) | 3:10 | 2023-07-03 |  |
 | [Sunrise At The Ocean Mermaid](https://open.spotify.com/track/51bdGaEYbw9o5GTnVw6c4A) | [In The Ocean \(Sound FX\)](https://open.spotify.com/artist/6gKlW4QncpQHg6n6eMUNxF) | [Wave Sounds From Scandinavia Vol\. 2](https://open.spotify.com/album/5YbKpZftWuKq5JUPEZC9Le) | 2:17 | 2023-07-03 |  |
 | [Super Cold Waves](https://open.spotify.com/track/7J851Pjup3zK2XuEoOlaIZ) | [Baltic Nature Sounds](https://open.spotify.com/artist/6IENn857P9qlwyafl6Xzy3) | [Across The Ocean](https://open.spotify.com/album/1qLrKZJ5wFbTOrkNrANeHa) | 3:14 | 2023-07-03 |  |
+| [Surf Season](https://open.spotify.com/track/0YmXKiEa0tLl0kpiQedm25) | [Seas of Dreams](https://open.spotify.com/artist/3LBTs7b0sQ2EOsCmD20Aat) | [Meditative Ocean Sounds](https://open.spotify.com/album/1Ns7SBGJ7qNaUihRF7iTa1) | 3:05 | 2023-10-11 |  |
 | [Surf Waves](https://open.spotify.com/track/4I0v3ymjB0p6WZ4ucIBJhN) | [Sleep Surfers](https://open.spotify.com/artist/6dGYdorCYElzdhKtFXjIDi) | [Surf Waves](https://open.spotify.com/album/7lzxfCQaK7CeYT0iVYVRsc) | 5:19 | 2023-07-03 |  |
 | [Talking Ocean](https://open.spotify.com/track/6zYUEZSdMQwKXXdQyXaPz4) | [KEI NATURE](https://open.spotify.com/artist/7vf8OYI2mqT5j58B6dK8my) | [Soothing Wave Sounds](https://open.spotify.com/album/2hhU3081biEtqo2PvUluNN) | 2:30 | 2023-07-03 |  |
 | [The Ocean Is Talking](https://open.spotify.com/track/6s4SKfHInCaacxaJU4FHAk) | [Worldwide Nature Studios](https://open.spotify.com/artist/2SIcjOzNioSRtl2lQVEQyx) | [2021 Wave Sounds](https://open.spotify.com/album/6Fy1yge1iqKMl4cnlunDg8) | 2:41 | 2023-07-03 |  |

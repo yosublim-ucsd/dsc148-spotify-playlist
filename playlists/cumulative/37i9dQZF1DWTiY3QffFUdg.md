@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-89 songs - 5 hr 31 min
+90 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,6 +81,7 @@
 | [Schwer](https://open.spotify.com/track/4hy6D6HomELGqmQOEYGrPt) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R) | [Schwer](https://open.spotify.com/album/7mI1XA20ReNz09JlfJzn10) | 3:34 | 2023-09-19 |  |
 | [Simulator](https://open.spotify.com/track/4VosqOFgprZKZz3EeDOdMA) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [Simulator](https://open.spotify.com/album/6gP0CsJDvNuJJfCjXamjFJ) | 3:40 | 2023-08-11 | 2023-09-11 |
 | [Spicey \- Original](https://open.spotify.com/track/4V8WSDvLpCtcmeXn5ZZLCd) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Spicey \(Original\)](https://open.spotify.com/album/25RnjGOl1DrXiXDlG6axld) | 2:31 | 2023-08-11 | 2023-08-21 |
+| [Sweat](https://open.spotify.com/track/2uoaR6QNRYMB0zu0cUcM65) | [DJSM](https://open.spotify.com/artist/13qjHQyFpjR48hBIbPrwMx) | [Sweat](https://open.spotify.com/album/0s6xr1TAPOzNXYNEmlHksU) | 2:12 | 2023-10-06 |  |
 | [Tattoo](https://open.spotify.com/track/0GVQIYb9oqnGfpOLwTSJYZ) | [Sonny Wern](https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt), [Nightcore](https://open.spotify.com/artist/4T7P7W7Jp191exHszNy0iz) | [Tattoo](https://open.spotify.com/album/3VCCl78VS8ZnDppo7pjIC8) | 3:12 | 2023-09-22 |  |
 | [Techno Sound](https://open.spotify.com/track/3gjOaU0kFaCGF4Bu09lk4C) | [LUM!X](https://open.spotify.com/artist/0TKFPt9w0AAEnhB9bd0pLy) | [Techno Sound](https://open.spotify.com/album/6c6jnpfD9LorJLDJI0bSm5) | 3:09 | 2023-08-25 |  |
 | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\)](https://open.spotify.com/track/6R84ZlQF7gGkPB6o3GLZXB) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [The Age Of Love \(Charlotte de Witte & Enrico Sangiuliano Remix\) \[Charlotte de Witte & Enrico Sangiuliano Remix \- Edit\]](https://open.spotify.com/album/7CXTNkULXDTd2oHt4S9dp7) | 8:09 | 2023-08-11 |  |
@@ -95,7 +96,7 @@
 | [Trust \- VIP Mix](https://open.spotify.com/track/5Kwy6gGIkpAyBDqmSokJOx) | [QUIX](https://open.spotify.com/artist/19EW4WBhl0fvZUQgi7wV5M) | [Trust](https://open.spotify.com/album/4AU1xXqhlLxhya1g1HFCxo) | 2:37 | 2023-08-11 | 2023-08-26 |
 | [Variant](https://open.spotify.com/track/1pyU3Kumkerbf4lGOsQdtG) | [Zonderling](https://open.spotify.com/artist/0bMKf3lIYR9GaNTdFKkTOr) | [Variant](https://open.spotify.com/album/1K5offBi5sFYxwHzI18KRB) | 4:50 | 2023-08-11 | 2023-08-19 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-11 |  |
-| [WANNA GO BANG](https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG) | 3:57 | 2023-08-11 |  |
+| [WANNA GO BANG](https://open.spotify.com/track/0PfCECNGl8Udewv4b7wOCs) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p), [DJ Deeon](https://open.spotify.com/artist/5wY9R35VmZOg7NxQvKJXdH) | [WANNA GO BANG](https://open.spotify.com/album/7LWVS2wbZIvBjEPM6ZtNFG) | 3:57 | 2023-08-11 | 2023-10-12 |
 | [Whole Again 2.0 \(with FOVOS\)](https://open.spotify.com/track/01SObBTN7qitRlP40pWp22) | [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8) | [Whole Again 2.0 \(with FOVOS\)](https://open.spotify.com/album/250HFdRGLXOpJ21R8PA98O) | 2:51 | 2023-08-11 | 2023-08-20 |
 
 \*This playlist was first scraped on 2023-08-12. Prior content cannot be recovered.

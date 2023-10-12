@@ -1,12 +1,12 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: L\u1ec7 Quy\u00ean",
-  "num_followers": 35920,
+  "num_followers": 35764,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjY2EyMzBhNWIyMWM0NzRhMDkwYTQ5MGMxM2JkMDQ3ZTQ4MjgwNmY2",
+  "snapshot_id": "MCw3MzQyZDA2MmU5OWJlYTQwMzA1MmVlZmE2YWQ2NDNiZDQxNzBjMzI2",
   "tracks": [
     {
       "added_at": "2023-10-06 03:07:48",
@@ -263,6 +263,22 @@
     {
       "added_at": "2023-10-06 03:07:48",
       "album": {
+        "name": "Giang T\u1eed Tuy\u1ec7t Ph\u1ea9m",
+        "url": "https://open.spotify.com/album/01Z3lEP1pIv1DGkqrzUBff"
+      },
+      "artists": [
+        {
+          "name": "Giang T\u1eed",
+          "url": "https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW"
+        }
+      ],
+      "duration_ms": 250066,
+      "name": "K\u1ebb \u1edf mi\u1ec1n xa",
+      "url": "https://open.spotify.com/track/5QT5sejxWy5F9RvRXxgxNc"
+    },
+    {
+      "added_at": "2023-10-06 03:07:48",
+      "album": {
         "name": "Nh\u1eadt K\u00fd \u0110\u1eddi T\u00f4i",
         "url": "https://open.spotify.com/album/6VNm9Szdku6nagVbX6ADtR"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 247780,
       "name": "N\u00f3i V\u1edbi Ng\u01b0\u1eddi T\u00ecnh",
       "url": "https://open.spotify.com/track/09gYyhwSGWH5agBqRGPYsG"
-    },
-    {
-      "added_at": "2023-10-06 03:07:48",
-      "album": {
-        "name": "Giang T\u1eed Tuy\u1ec7t Ph\u1ea9m",
-        "url": "https://open.spotify.com/album/01Z3lEP1pIv1DGkqrzUBff"
-      },
-      "artists": [
-        {
-          "name": "Giang T\u1eed",
-          "url": "https://open.spotify.com/artist/2tvLovBlbaYyzUFeBgXRFW"
-        }
-      ],
-      "duration_ms": 250066,
-      "name": "K\u1ebb \u1edf mi\u1ec1n xa",
-      "url": "https://open.spotify.com/track/5QT5sejxWy5F9RvRXxgxNc"
     },
     {
       "added_at": "2023-10-06 03:07:48",

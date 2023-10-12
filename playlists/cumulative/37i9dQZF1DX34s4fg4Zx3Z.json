@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: MYLINA; thi\u1ebft k\u1ebf: Isu Kim",
+  "description": "Kh\u00e1m ph\u00e1 \ud83c\udfb6 \u0111\u00e1ng nghe t\u1eeb nh\u1eefng \ud83c\udfbc c\u00f3 th\u1ec3 b\u1ea1n ch\u01b0a bi\u1ebft. \u1ea2nh b\u00eca: NGHI; thi\u1ebft k\u1ebf: Isu Kim",
   "name": "Fresh Finds Vietnam",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 173538,
       "name": "3 Con C\u00e1 M\u1eadp",
       "url": "https://open.spotify.com/track/0dC0esais79QzRcdX7R64y"
@@ -898,6 +898,28 @@
       "duration_ms": 199384,
       "name": "Anh C\u00f3 C\u1ea7n Kh\u00f4ng",
       "url": "https://open.spotify.com/track/0NICxX2baAn6lhlaaVqEWY"
+    },
+    {
+      "album": {
+        "name": "Anh C\u0169ng \u0110\u00e2u C\u00f3 Mu\u1ed1n Tin?",
+        "url": "https://open.spotify.com/album/5ijVJuO5VyItaf6PIpYU9v"
+      },
+      "artists": [
+        {
+          "name": "Dab",
+          "url": "https://open.spotify.com/artist/7dFC6SVFS2YkIcRfE2SyfV"
+        },
+        {
+          "name": "Helinn",
+          "url": "https://open.spotify.com/artist/1Mvyth8k2SUg7F2H3HKjvT"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207024,
+      "name": "Anh C\u0169ng \u0110\u00e2u C\u00f3 Mu\u1ed1n Tin?",
+      "url": "https://open.spotify.com/track/6hytdEPX4UcGh91gDBUZDv"
     },
     {
       "album": {
@@ -2433,6 +2455,32 @@
     },
     {
       "album": {
+        "name": "Buy You All Versace",
+        "url": "https://open.spotify.com/album/1lN3cjSEW3Y0LIl456zi1P"
+      },
+      "artists": [
+        {
+          "name": "VSOUL",
+          "url": "https://open.spotify.com/artist/22MX8BG5870DGzpNricY7q"
+        },
+        {
+          "name": "Kean",
+          "url": "https://open.spotify.com/artist/2BFV20BAhrBwA3oEHyNv5P"
+        },
+        {
+          "name": "Bille",
+          "url": "https://open.spotify.com/artist/25u3YQz0KKzPyLVqGfAWOj"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180817,
+      "name": "Buy You All Versace",
+      "url": "https://open.spotify.com/track/40PcJ2366kzyG9KmuTY1jW"
+    },
+    {
+      "album": {
         "name": "Bu\u00f4n H\u00e0ng R&B",
         "url": "https://open.spotify.com/album/6fiotiZanW2ufh6oQM9Wzh"
       },
@@ -2506,7 +2554,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 185986,
       "name": "Bu\u1ed3n Vu V\u01a1",
       "url": "https://open.spotify.com/track/4s6vTXyAqxUhRD7xSyQLse"
@@ -2620,6 +2668,24 @@
       "duration_ms": 192168,
       "name": "B\u00e0i Ca Em V\u00e0 Gi\u00f3",
       "url": "https://open.spotify.com/track/5Vll8jIV0qST8ccXFJRWaK"
+    },
+    {
+      "album": {
+        "name": "T\u00e0i T\u1eed \u0110i\u1ec7n T\u1eed",
+        "url": "https://open.spotify.com/album/1MMGxuw643K4Ekzmhqk1aU"
+      },
+      "artists": [
+        {
+          "name": "Machiot",
+          "url": "https://open.spotify.com/artist/53JNigMoziak3PfjdVcNLh"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "B\u00e0i h\u00e1t dang d\u1edf",
+      "url": "https://open.spotify.com/track/5vZyDnSulvARqFI7khwWIE"
     },
     {
       "album": {
@@ -3142,7 +3208,7 @@
       ],
       "date_added": "2023-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 179541,
       "name": "B\u1ecbt M\u1eaft B\u1eaft Anh",
       "url": "https://open.spotify.com/track/2YYgjG6Vm9lV74IOM5nkdY"
@@ -7305,7 +7371,7 @@
       "artists": [
         {
           "name": "Ben Pham",
-          "url": "https://open.spotify.com/artist/7ilJv7E5liPUEI8h3vUXdx"
+          "url": "https://open.spotify.com/artist/2dIB0QxvzPviBFdYKRFW94"
         },
         {
           "name": "Hao Le",
@@ -8670,7 +8736,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 217656,
       "name": "Giai \u0111i\u1ec7u bu\u1ed3n",
       "url": "https://open.spotify.com/track/5xDntB3EzxAc7CQrk3rVsy"
@@ -8879,6 +8945,28 @@
     },
     {
       "album": {
+        "name": "GI\u1ea4C M\u01a0",
+        "url": "https://open.spotify.com/album/298mMq8CJdmqYPUoGmlvAw"
+      },
+      "artists": [
+        {
+          "name": "MiQ",
+          "url": "https://open.spotify.com/artist/0Tj8ibTNylwlCga3oM1uBm"
+        },
+        {
+          "name": "The Catchellers",
+          "url": "https://open.spotify.com/artist/2A1f0V5brXg8cZq0Ui2cN9"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113938,
+      "name": "GI\u1ea4C M\u01a0",
+      "url": "https://open.spotify.com/track/6i51QeC3ks08i7vhuyltWR"
+    },
+    {
+      "album": {
         "name": "Gi\u1ea5c M\u01a1 C\u00f3 Th\u1eadt",
         "url": "https://open.spotify.com/album/1Lf38boWNm6TrJ8KPgqWxW"
       },
@@ -9054,7 +9142,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 292000,
       "name": "Gi\u1edd L\u00e0 L\u00fac \u0110\u1ec3 Anh Nh\u1eadn Ra",
       "url": "https://open.spotify.com/track/2VLBsQYTO0hjhzqzy9GYHB"
@@ -12504,7 +12592,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 259384,
       "name": "L\u00e1i Xe M\u1ed9t M\u00ecnh (Joy)",
       "url": "https://open.spotify.com/track/2hjf9rtmB1lajYg7QTnpVy"
@@ -13204,7 +13292,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 209790,
       "name": "Make A Hit",
       "url": "https://open.spotify.com/track/3fNslARwgEr03kpQFoThYl"
@@ -13505,6 +13593,28 @@
     },
     {
       "album": {
+        "name": "Missin U",
+        "url": "https://open.spotify.com/album/2X0eLEXZBctDzzef0VrIUo"
+      },
+      "artists": [
+        {
+          "name": "TRIPPIN",
+          "url": "https://open.spotify.com/artist/29gGnHwbjDNaXuq7HxWlHK"
+        },
+        {
+          "name": "SUITON",
+          "url": "https://open.spotify.com/artist/4CZXxVQpdcCm2dv2B8HAgp"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198193,
+      "name": "Missin U",
+      "url": "https://open.spotify.com/track/4q6y6H6ZdWFChBoeavhL8z"
+    },
+    {
+      "album": {
         "name": "MISSING YOU",
         "url": "https://open.spotify.com/album/2kbQoFdim1FkDLtPOxUU1T"
       },
@@ -13666,6 +13776,32 @@
       "duration_ms": 201724,
       "name": "mood",
       "url": "https://open.spotify.com/track/3NdMQTvQQeSj8RLeIUOUNr"
+    },
+    {
+      "album": {
+        "name": "MUOITRENMUOI",
+        "url": "https://open.spotify.com/album/70v8VN67hYK9FWz0k3eMnG"
+      },
+      "artists": [
+        {
+          "name": "Ph\u1ea1m Vi\u1ec7t Th\u1eafng",
+          "url": "https://open.spotify.com/artist/5THJGntrRQhRLyAZIyTq2p"
+        },
+        {
+          "name": "Khoi Vu",
+          "url": "https://open.spotify.com/artist/71Cy7nzbfpuGJAS5FGxm93"
+        },
+        {
+          "name": "NVM",
+          "url": "https://open.spotify.com/artist/2OHv7sOf5ut7lDKGpHR3nC"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189163,
+      "name": "MUOITRENMUOI",
+      "url": "https://open.spotify.com/track/6W1rkbu65i4Yd6Oeu5NgLG"
     },
     {
       "album": {
@@ -14877,7 +15013,7 @@
         },
         {
           "name": "GB",
-          "url": "https://open.spotify.com/artist/0ovObzUHZTTOy2Q7NVng9a"
+          "url": "https://open.spotify.com/artist/1TBvuhoiYgycpPzYxxMIlB"
         }
       ],
       "date_added": "2023-10-05",
@@ -18223,6 +18359,28 @@
     },
     {
       "album": {
+        "name": "T\u00ccNH T\u1ee8",
+        "url": "https://open.spotify.com/album/3Z18UY1HL65lDudT2gBhFR"
+      },
+      "artists": [
+        {
+          "name": "H\u1ea3i \u0110\u0103ng Doo",
+          "url": "https://open.spotify.com/artist/0F1rSmrNT6sp3LYohgYKsT"
+        },
+        {
+          "name": "Weeza",
+          "url": "https://open.spotify.com/artist/3KCwCM9okdx5d2iDbIxQ9l"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142698,
+      "name": "RED FLAG",
+      "url": "https://open.spotify.com/track/10p9hgEWSYP5ZtI8Z2BmRN"
+    },
+    {
+      "album": {
         "name": "Redamancy (feat. Cristian & Bennn)",
         "url": "https://open.spotify.com/album/2anRDolKDPHjlTuAVNPkPf"
       },
@@ -18910,6 +19068,24 @@
       "duration_ms": 140210,
       "name": "Sau Nh\u1eefng L\u1ea7n \u0110au - Remake",
       "url": "https://open.spotify.com/track/6DXlafxUhuXiRZah0yDP6t"
+    },
+    {
+      "album": {
+        "name": "Sau T\u1ea5m R\u00e8m",
+        "url": "https://open.spotify.com/album/7EgeAEPfjYha527vC4tiqX"
+      },
+      "artists": [
+        {
+          "name": "NGHI",
+          "url": "https://open.spotify.com/artist/2TDL6ZO5XzjAnzrSK1Cipe"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197454,
+      "name": "Sau T\u1ea5m R\u00e8m",
+      "url": "https://open.spotify.com/track/2vTDpUUNROmQ3jMtHOGyNX"
     },
     {
       "album": {
@@ -23286,7 +23462,7 @@
       ],
       "date_added": "2023-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 202232,
       "name": "Vu V\u01a1",
       "url": "https://open.spotify.com/track/5V4cDS8D9Ow41pxXZoKbIy"
@@ -24640,7 +24816,7 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 182431,
       "name": "Xinh Nh\u1eadt",
       "url": "https://open.spotify.com/track/4UOtjFtKytdg9Io6aqo45X"
@@ -25294,6 +25470,24 @@
       "duration_ms": 171317,
       "name": "\u00c1c Qu\u1ef7 N\u00e8",
       "url": "https://open.spotify.com/track/1c28M0e1jOkfq2WI3J4xjh"
+    },
+    {
+      "album": {
+        "name": "\u00e1nh m\u1eaft b\u1ed3 c\u00e2u",
+        "url": "https://open.spotify.com/album/349EYDz8nZdEp5oifLy3G1"
+      },
+      "artists": [
+        {
+          "name": "akiie.",
+          "url": "https://open.spotify.com/artist/7sFX2i5I57OTLSASnufcIh"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224118,
+      "name": "\u00e1nh m\u1eaft b\u1ed3 c\u00e2u",
+      "url": "https://open.spotify.com/track/5Ch31gQvKMx8yadFXpTbKo"
     },
     {
       "album": {

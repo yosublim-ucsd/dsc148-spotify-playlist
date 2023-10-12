@@ -1,12 +1,12 @@
 {
   "description": "Rock sin vueltas. Foto: EMI",
-  "num_followers": 18974,
+  "num_followers": 18998,
   "original_name": "La Frecuencia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhMWUxMGRmMTUxZTA1YmQ2ZTI2ZTEyNmY3ZGUzYzE5YjMwMTczZTE3",
+  "snapshot_id": "MCxkZTgwYjBkYzllYTNlN2RhNzUxMjYzYWZlODQ2N2MxOGYzYjNiZmIx",
   "tracks": [
     {
       "added_at": "2023-09-07 20:47:52",
@@ -419,22 +419,6 @@
     {
       "added_at": "2023-09-07 20:47:52",
       "album": {
-        "name": "Out Of Our Heads",
-        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 222813,
-      "name": "(I Can't Get No) Satisfaction - Mono Version",
-      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
-    },
-    {
-      "added_at": "2023-09-07 20:47:52",
-      "album": {
         "name": "The Joker",
         "url": "https://open.spotify.com/album/5uYNj1HkZrWKAkhEYcGmJr"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 264503,
       "name": "The Joker",
       "url": "https://open.spotify.com/track/1bp2IO61zbQrbWNmKKxg3f"
+    },
+    {
+      "added_at": "2023-09-07 20:47:52",
+      "album": {
+        "name": "Out Of Our Heads",
+        "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 222813,
+      "name": "(I Can't Get No) Satisfaction - Mono Version",
+      "url": "https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34"
     },
     {
       "added_at": "2023-09-07 20:47:52",
@@ -595,22 +595,6 @@
     {
       "added_at": "2023-09-07 20:47:52",
       "album": {
-        "name": "Stranger In Town",
-        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 194146,
-      "name": "Old Time Rock & Roll",
-      "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
-    },
-    {
-      "added_at": "2023-09-07 20:47:52",
-      "album": {
         "name": "Porfiado",
         "url": "https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 259680,
       "name": "Enamorado tuyo",
       "url": "https://open.spotify.com/track/35LdDKNMwvKftENaj1WIwF"
+    },
+    {
+      "added_at": "2023-09-07 20:47:52",
+      "album": {
+        "name": "Stranger In Town",
+        "url": "https://open.spotify.com/album/1vhib5WLHRVdOpRjiTHk15"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 194146,
+      "name": "Old Time Rock & Roll",
+      "url": "https://open.spotify.com/track/5EOoMWIB9iK4ZpcSex9Ec7"
     },
     {
       "added_at": "2023-09-07 20:47:52",
@@ -899,18 +899,18 @@
     {
       "added_at": "2023-09-07 20:47:52",
       "album": {
-        "name": "Circo Beat",
-        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
+        "name": "Porfiado",
+        "url": "https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6"
       },
       "artists": [
         {
-          "name": "Fito Paez",
-          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
+          "name": "El Cuarteto De Nos",
+          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
         }
       ],
-      "duration_ms": 222346,
-      "name": "Mariposa tecknicolor",
-      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
+      "duration_ms": 242120,
+      "name": "Lo malo de ser bueno",
+      "url": "https://open.spotify.com/track/7xB3hSztVbX6xFvQqEGKud"
     },
     {
       "added_at": "2023-09-07 20:47:52",
@@ -931,18 +931,18 @@
     {
       "added_at": "2023-09-07 20:47:52",
       "album": {
-        "name": "Porfiado",
-        "url": "https://open.spotify.com/album/4X6PQwYWxtGGtKjAfX6wa6"
+        "name": "Circo Beat",
+        "url": "https://open.spotify.com/album/3pFykTd3Xwi8jtTrNFJEwa"
       },
       "artists": [
         {
-          "name": "El Cuarteto De Nos",
-          "url": "https://open.spotify.com/artist/13JJKrUewC1CJYmIDXQNoH"
+          "name": "Fito Paez",
+          "url": "https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu"
         }
       ],
-      "duration_ms": 242120,
-      "name": "Lo malo de ser bueno",
-      "url": "https://open.spotify.com/track/7xB3hSztVbX6xFvQqEGKud"
+      "duration_ms": 222346,
+      "name": "Mariposa tecknicolor",
+      "url": "https://open.spotify.com/track/2RognU2ViRdA6HxnpAITJl"
     },
     {
       "added_at": "2023-09-07 20:47:52",
@@ -1171,18 +1171,22 @@
     {
       "added_at": "2023-09-07 20:47:52",
       "album": {
-        "name": "Voragine",
-        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
+        "name": "Sistema Nervioso Central",
+        "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
       },
       "artists": [
         {
-          "name": "Airbag",
-          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
+          "name": "Estelares",
+          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
+        },
+        {
+          "name": "Jorge Serrano",
+          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
         }
       ],
-      "duration_ms": 281386,
-      "name": "Cae el Sol",
-      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
+      "duration_ms": 284531,
+      "name": "Ella Dijo",
+      "url": "https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx"
     },
     {
       "added_at": "2023-09-07 20:47:52",
@@ -1219,22 +1223,18 @@
     {
       "added_at": "2023-09-07 20:47:52",
       "album": {
-        "name": "Sistema Nervioso Central",
-        "url": "https://open.spotify.com/album/6IbJShCtiqesFKNWnNfZp4"
+        "name": "Voragine",
+        "url": "https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb"
       },
       "artists": [
         {
-          "name": "Estelares",
-          "url": "https://open.spotify.com/artist/6Nm62oNQCdPxVoiQtFSksF"
-        },
-        {
-          "name": "Jorge Serrano",
-          "url": "https://open.spotify.com/artist/0MKZAy5tWkpbK7elkCZRLF"
+          "name": "Airbag",
+          "url": "https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr"
         }
       ],
-      "duration_ms": 284531,
-      "name": "Ella Dijo",
-      "url": "https://open.spotify.com/track/6cFf4Jfy7ThUwGzbqFcZsx"
+      "duration_ms": 281386,
+      "name": "Cae el Sol",
+      "url": "https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs"
     },
     {
       "added_at": "2023-09-07 20:47:52",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2023-09-07 20:47:52",
       "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 342173,
-      "name": "Smoke on the Water",
-      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
-    },
-    {
-      "added_at": "2023-09-07 20:47:52",
-      "album": {
         "name": "Buscando un Amor",
         "url": "https://open.spotify.com/album/4AMgSDaOROvCGSNSz3rfYw"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 161133,
       "name": "Juntos a la Par",
       "url": "https://open.spotify.com/track/1Ig4pCPanhzXl7C86MmBUc"
+    },
+    {
+      "added_at": "2023-09-07 20:47:52",
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     },
     {
       "added_at": "2023-09-07 20:47:52",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-09-07 20:47:52",
       "album": {
-        "name": "Historias",
-        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
-      },
-      "artists": [
-        {
-          "name": "La Beriso",
-          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
-        }
-      ],
-      "duration_ms": 281920,
-      "name": "Madrugada",
-      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
-    },
-    {
-      "added_at": "2023-09-07 20:47:52",
-      "album": {
         "name": "Habla Tu Espejo",
         "url": "https://open.spotify.com/album/1ffZ5xExmmOr15QQzYrXyf"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 259839,
       "name": "No llora",
       "url": "https://open.spotify.com/track/1kEoU9Dmivr2JoOf7ramyT"
+    },
+    {
+      "added_at": "2023-09-07 20:47:52",
+      "album": {
+        "name": "Historias",
+        "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
+      },
+      "artists": [
+        {
+          "name": "La Beriso",
+          "url": "https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ"
+        }
+      ],
+      "duration_ms": 281920,
+      "name": "Madrugada",
+      "url": "https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9"
     },
     {
       "added_at": "2023-09-07 20:47:52",

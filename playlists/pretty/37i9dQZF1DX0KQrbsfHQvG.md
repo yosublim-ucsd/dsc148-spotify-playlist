@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 
 > Get up\. Stand up\. Be the revolution.
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,909 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,934 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 20 | [Icky Thump](https://open.spotify.com/track/2LMq1O0NiqGhPOlXo3McYQ) | [The White Stripes](https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70) | [Icky Thump](https://open.spotify.com/album/2DSNJ8bdoYfC6Uydg8ilBC) | 4:14 |
 | 21 | [Fuck Authority](https://open.spotify.com/track/3Id64dLhfH7z0mmcylxuNp) | [Pennywise](https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks) | [Land Of The Free?](https://open.spotify.com/album/6oEh869vJQY1QdfZlVQ0ly) | 3:16 |
 | 22 | [Darkside](https://open.spotify.com/track/3JyvSSU0VnlMUsQckyEVfX) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 2](https://open.spotify.com/album/6puy3Q1mjuizTB4i91Xorq) | 3:49 |
-| 23 | [Blasphemy](https://open.spotify.com/track/6r7bDk4J0Okw4ezTBUQXo3) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 4:35 |
-| 24 | [Go To War](https://open.spotify.com/track/0w9kjN3wZAO8dNk11kv2XE) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM) | 4:05 |
+| 23 | [Go To War](https://open.spotify.com/track/0w9kjN3wZAO8dNk11kv2XE) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc) | [The Stories We Tell Ourselves](https://open.spotify.com/album/0A3y56apHg0MRM83MLBwhM) | 4:05 |
+| 24 | [Blasphemy](https://open.spotify.com/track/6r7bDk4J0Okw4ezTBUQXo3) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 4:35 |
 | 25 | [Take The Power Back](https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:36 |
 | 26 | [The Violence](https://open.spotify.com/track/12C6ufD5zOWsQGHQY7aXRM) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Wolves](https://open.spotify.com/album/4sz6Fn4BYORRLIc1AvQwQx) | 3:48 |
 | 27 | [Revolution Radio](https://open.spotify.com/track/3oqYMRKQcwyNmFn1VD2ukD) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Revolution Radio](https://open.spotify.com/album/5a3LqvNt2nv1B4aRKXmgOV) | 3:00 |
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 29 | [Bury Me Face Down](https://open.spotify.com/track/0LSzBkkQZZkwV656r6etLg) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Bury Me Face Down](https://open.spotify.com/album/79L5Jm5KDfXA19nozVqZcg) | 3:51 |
 | 30 | [Massacre, The New American Dream](https://open.spotify.com/track/3eqGymybwhdpKGVnbclzsL) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [The Bastards](https://open.spotify.com/album/5b2m10WqNvZaD8eTEXGyfl) | 3:05 |
 | 31 | [BURN IT](https://open.spotify.com/track/2j02RtZz6v53FRw4oWliZf) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [STRENGTH IN NUMB333RS](https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf) | 3:52 |
-| 32 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Obey \(with YUNGBLUD\)](https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ) | 3:40 |
-| 33 | [Wastelands](https://open.spotify.com/track/3S8MFB68isPbRVgaU0MaIW) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 3:15 |
-| 34 | [Stick Up](https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:42 |
-| 35 | [I Don't Wanna Be Blind](https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 2:04 |
+| 32 | [Wastelands](https://open.spotify.com/track/3S8MFB68isPbRVgaU0MaIW) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Hunting Party](https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi) | 3:15 |
+| 33 | [I Don't Wanna Be Blind](https://open.spotify.com/track/30gtuczW6s6jj2OUVj5rat) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [Time & Space](https://open.spotify.com/album/7bZveW9UQfYbkPH9pkpaQx) | 2:04 |
+| 34 | [Obey \(with YUNGBLUD\)](https://open.spotify.com/track/7fQox8Ere1HDm0jhSnsFHu) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Obey \(with YUNGBLUD\)](https://open.spotify.com/album/5J7qci2JWfVtHdnhzCupbJ) | 3:40 |
+| 35 | [Stick Up](https://open.spotify.com/track/5ZSKZ0wMdlMi4bQ3XZXXsp) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [a modern tragedy vol\. 1](https://open.spotify.com/album/2hjeKa2x3W9F8GwlqBKBWV) | 3:42 |
 | 36 | [American Dreams](https://open.spotify.com/track/4ABntUukZcR0Yn6OiARnJG) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Crooked Teeth](https://open.spotify.com/album/6NMmPUgCNr7iYoEl1cZcVf) | 3:23 |
 | 37 | [Prophets Of Rage](https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg) | [Prophets Of Rage](https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY) | [Prophets Of Rage](https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j) | 3:10 |
 | 38 | [Save Us](https://open.spotify.com/track/3fHpYJimyZ4Nzk3mHgRTBk) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Baptize](https://open.spotify.com/album/0onI0aisDxDHLmhgjD5tYF) | 2:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KQrbsfHQvG.md) - [plain]
 | 74 | [Power \(feat\. Frank Carter\)](https://open.spotify.com/track/1hoNvw0gHJTRYWuFRGuk8I) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU), [Frank Carter](https://open.spotify.com/artist/1DzJ1Edw9hfy8sVnkAnhCf) | [Foreign Language](https://open.spotify.com/album/60awL9wRAPqkETLzNgVGvi) | 1:52 |
 | 75 | [Forever](https://open.spotify.com/track/4KsMTsVpgVRQvPKhYkm0ff) | [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX), [Run The Jewels](https://open.spotify.com/artist/4RnBFZRiMLRyZy0AzzTg2C) | [Forever](https://open.spotify.com/album/0aLxkTiBf1CQC726cDBA7m) | 2:51 |
 
-Snapshot ID: `MCxkZGU4OWRmY2Y5OWRiNDNmYTI3MmViNTgwM2UyYTA4MTc4YTcyOGVj`
+Snapshot ID: `MCwzOGFkZDA0MGQ5N2FkYjE5YjBhNGRhMmU3NDU4MDgxZDllOTA1MzVk`

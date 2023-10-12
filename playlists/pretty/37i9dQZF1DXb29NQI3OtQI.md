@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 
 > The best easy rock from the 2000s\. Cover: Switchfoot
 
-[Spotify](https://open.spotify.com/user/spotify) - 180,016 likes - 80 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 180,129 likes - 80 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 79 | [My Sundown](https://open.spotify.com/track/7Jxz80MpbvTsrW8EttiaY0) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American](https://open.spotify.com/album/0UJhhj5bn5AGAjryFnhueP) | 5:47 |
 | 80 | [Falling Down \(feat\. Justin Timberlake\)](https://open.spotify.com/track/39Fp08QFko8zyYjNbuhJJf) | [Duran Duran](https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Red Carpet Massacre](https://open.spotify.com/album/7I7gJPIDgmdaMnHlUJi9AO) | 5:39 |
 
-Snapshot ID: `MCxkMjExZDk2NWZlYjZmMjI2M2EwOTQ0MGNhNzZmZmI1MzlmOGEyOWYx`
+Snapshot ID: `MCw1OTMyMzY3ZGNkZTVmYjljMGI5MGRjZWNlOTc5NGZlMDM4M2Y0MWMz`

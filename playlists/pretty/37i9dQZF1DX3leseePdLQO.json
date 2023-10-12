@@ -1,12 +1,12 @@
 {
   "description": "Pop para refrescarte los d\u00edas, featuring Sof\u00eda Reyes.",
-  "num_followers": 8089,
+  "num_followers": 8120,
   "original_name": "Crema Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzMxNGQ4MThjODJhNGM5OGE4ZTBkNGIzYzFiZDIwNmUzNzY5YThj",
+  "snapshot_id": "MCxkNjkwZDQ3YTllNzZlZmIyZjczNTYwZDBlZTEzZDQ3MjIxODYzZjQ5",
   "tracks": [
     {
       "added_at": "2023-09-15 04:01:00",
@@ -295,6 +295,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 147598,
+      "name": "Volare",
+      "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Como Yo :(",
         "url": "https://open.spotify.com/album/6PJYRDfhYDZbK7YzNUpgE1"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 141865,
       "name": "Como Yo :(",
       "url": "https://open.spotify.com/track/01QPvRIYC5QG9E3khE6P9M"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/27588WrJksr8zu7ujmRsOA"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 147598,
-      "name": "Volare",
-      "url": "https://open.spotify.com/track/7nE9H4e4uPOis5sJY39fOc"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -371,8 +371,8 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "La Reina",
-        "url": "https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM"
+        "name": "Junio",
+        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 141890,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
+      "duration_ms": 168601,
+      "name": "Junio",
+      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -535,8 +535,8 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Junio",
-        "url": "https://open.spotify.com/album/5Gabq4Ub8V9izQ0WNGToqB"
+        "name": "La Reina",
+        "url": "https://open.spotify.com/album/1aWnZ80cKI4rV2GDo3LniM"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 168601,
-      "name": "Junio",
-      "url": "https://open.spotify.com/track/4XqXNU8MwPHwbgZmNXmAdc"
+      "duration_ms": 141890,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/5KrBFRj0Vfq0QQjlyKs5Hr"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Tengo Roto El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6eWbqszqlXYVLcAT9Ux4It"
-      },
-      "artists": [
-        {
-          "name": "David Bisbal",
-          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
-        }
-      ],
-      "duration_ms": 193326,
-      "name": "Tengo Roto El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/31b58rptcRHxSQbrrQNsRa"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "Dharma +",
         "url": "https://open.spotify.com/album/2qVMXqCfIupklO1U46SqOX"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 165213,
       "name": "TV",
       "url": "https://open.spotify.com/track/6NIqCQW067X2AEHlz19TEc"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Tengo Roto El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6eWbqszqlXYVLcAT9Ux4It"
+      },
+      "artists": [
+        {
+          "name": "David Bisbal",
+          "url": "https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB"
+        }
+      ],
+      "duration_ms": 193326,
+      "name": "Tengo Roto El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/31b58rptcRHxSQbrrQNsRa"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1147,22 +1147,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx"
+        "name": "bellodrama",
+        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
       },
       "artists": [
         {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        },
-        {
-          "name": "\u00c1lvaro De Luna",
-          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
         }
       ],
-      "duration_ms": 170250,
-      "name": "Demasiado",
-      "url": "https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H"
+      "duration_ms": 184195,
+      "name": "Lentamente",
+      "url": "https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1183,18 +1179,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "bellodrama",
-        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/1JFyrOT7y6kSLBO7r7XZlx"
       },
       "artists": [
         {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
         }
       ],
-      "duration_ms": 184195,
-      "name": "Lentamente",
-      "url": "https://open.spotify.com/track/7GJVqqE79WOl8ncT7Y4z0L"
+      "duration_ms": 170250,
+      "name": "Demasiado",
+      "url": "https://open.spotify.com/track/28fOb3d0iXy21ROKrBEo9H"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Me Da Bastante Miedo",
-        "url": "https://open.spotify.com/album/58X5fNDhbOW6WLyaDoBhVK"
-      },
-      "artists": [
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
-        }
-      ],
-      "duration_ms": 186075,
-      "name": "Me Da Bastante Miedo",
-      "url": "https://open.spotify.com/track/4PwI9jIDS9AVwJEkc9kftz"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "El Abrazo M\u00e1s Grande De Todos Los Tiempos",
         "url": "https://open.spotify.com/album/7CiwTqUCwYMcN1YxE8wkNV"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 170042,
       "name": "El Abrazo M\u00e1s Grande De Todos Los Tiempos",
       "url": "https://open.spotify.com/track/2KyOceSxraZrHWF9ovI5wK"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "Me Da Bastante Miedo",
+        "url": "https://open.spotify.com/album/58X5fNDhbOW6WLyaDoBhVK"
+      },
+      "artists": [
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+        }
+      ],
+      "duration_ms": 186075,
+      "name": "Me Da Bastante Miedo",
+      "url": "https://open.spotify.com/track/4PwI9jIDS9AVwJEkc9kftz"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "La Mitad",
-        "url": "https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 156027,
-      "name": "La Mitad",
-      "url": "https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
         "name": "La Neta",
         "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
       },
@@ -1411,6 +1395,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "La Mitad",
+        "url": "https://open.spotify.com/album/0NAFgi3WuJ3yOoJ17gF10r"
+      },
+      "artists": [
+        {
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
+        }
+      ],
+      "duration_ms": 156027,
+      "name": "La Mitad",
+      "url": "https://open.spotify.com/track/3tlPXqJieroXrrdfmGTxiN"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "A tu Lado",
         "url": "https://open.spotify.com/album/6KSyBe93O1zhmNkSqvJhMz"
       },
@@ -1423,26 +1423,6 @@
       "duration_ms": 150894,
       "name": "A tu Lado",
       "url": "https://open.spotify.com/track/58aNiVH2Df87fuZdiyJFKc"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Eclipse",
-        "url": "https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD"
-      },
-      "artists": [
-        {
-          "name": "Las Villa",
-          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
-        },
-        {
-          "name": "Marco Mares",
-          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
-        }
-      ],
-      "duration_ms": 172373,
-      "name": "Pa Quererte",
-      "url": "https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1483,34 +1463,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "Combustible",
-        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
+        "name": "Eclipse",
+        "url": "https://open.spotify.com/album/3q4meHrjkp0ksaY8Py4UVD"
       },
       "artists": [
         {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        }
-      ],
-      "duration_ms": 166805,
-      "name": "Combustible",
-      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "no quiero olvidarte",
-        "url": "https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb"
-      },
-      "artists": [
+          "name": "Las Villa",
+          "url": "https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM"
+        },
         {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+          "name": "Marco Mares",
+          "url": "https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ"
         }
       ],
-      "duration_ms": 230049,
-      "name": "no quiero olvidarte",
-      "url": "https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d"
+      "duration_ms": 172373,
+      "name": "Pa Quererte",
+      "url": "https://open.spotify.com/track/2jX7BQzdvFvfzmuCzuySHe"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1527,6 +1495,22 @@
       "duration_ms": 176207,
       "name": "Dementes",
       "url": "https://open.spotify.com/track/05T29iTmS1rFDLrF1Qy1JI"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
+        "name": "no quiero olvidarte",
+        "url": "https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb"
+      },
+      "artists": [
+        {
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
+        }
+      ],
+      "duration_ms": 230049,
+      "name": "no quiero olvidarte",
+      "url": "https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1583,26 +1567,18 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
-        "name": "VERANO",
-        "url": "https://open.spotify.com/album/0HYqe8GG5tpXxiF2DQJpaI"
+        "name": "Combustible",
+        "url": "https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC"
       },
       "artists": [
         {
-          "name": "Alex Luna",
-          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
-        },
-        {
-          "name": "Ramon Vega",
-          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
-        },
-        {
-          "name": "Tony Mils",
-          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
+          "name": "Ventino",
+          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
         }
       ],
-      "duration_ms": 176654,
-      "name": "VERANO",
-      "url": "https://open.spotify.com/track/5PVTI870AxdKFFglwCY7m0"
+      "duration_ms": 166805,
+      "name": "Combustible",
+      "url": "https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2"
     },
     {
       "added_at": "2023-09-15 04:01:00",
@@ -1647,6 +1623,30 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "VERANO",
+        "url": "https://open.spotify.com/album/0HYqe8GG5tpXxiF2DQJpaI"
+      },
+      "artists": [
+        {
+          "name": "Alex Luna",
+          "url": "https://open.spotify.com/artist/0lxgtTr0rNyTf3j6smPBp2"
+        },
+        {
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Tony Mils",
+          "url": "https://open.spotify.com/artist/0CW3w1hfNiUhS5gnHN7twt"
+        }
+      ],
+      "duration_ms": 176654,
+      "name": "VERANO",
+      "url": "https://open.spotify.com/track/5PVTI870AxdKFFglwCY7m0"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Oye Baby",
         "url": "https://open.spotify.com/album/6N2Gr1KqfA69oL8Xeu2v0d"
       },
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2023-09-15 04:01:00",
       "album": {
+        "name": "Carolina",
+        "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Llosa",
+          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
+        }
+      ],
+      "duration_ms": 167485,
+      "name": "Carolina",
+      "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
+    },
+    {
+      "added_at": "2023-09-15 04:01:00",
+      "album": {
         "name": "Thalia's Mixtape",
         "url": "https://open.spotify.com/album/6otH0ogeIDBJ3UgpjIpxVf"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 202736,
       "name": "Devu\u00e9lveme a Mi Chica",
       "url": "https://open.spotify.com/track/7sl70g1z4UCKl28PdAG5na"
-    },
-    {
-      "added_at": "2023-09-15 04:01:00",
-      "album": {
-        "name": "Carolina",
-        "url": "https://open.spotify.com/album/3aeYk2orcfRNOt8Z0ZXc0k"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Llosa",
-          "url": "https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx"
-        }
-      ],
-      "duration_ms": 167485,
-      "name": "Carolina",
-      "url": "https://open.spotify.com/track/3xBBuuVVgW7VUZkuX6QfSa"
     },
     {
       "added_at": "2023-09-15 04:01:00",

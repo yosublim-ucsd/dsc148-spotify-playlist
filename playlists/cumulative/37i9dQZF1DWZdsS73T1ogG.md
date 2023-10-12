@@ -4,7 +4,7 @@
 
 > Descubre lo más nuevo del movimiento\. Cover: Ovy On The Drums, Bad Gyal & Ryan Castro.
 
-781 songs - 1 day 17 hr 58 min
+782 songs - 1 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,7 +281,8 @@
 | [Gafas Pal Sol](https://open.spotify.com/track/1fRVcAo1TNDqdzV55vn3ep) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e) | [El Bloke Hills](https://open.spotify.com/album/3bUFjO2k4a1KpnSjtpfwxc) | 2:42 | 2023-09-22 |  |
 | [GANAS](https://open.spotify.com/track/4WBJO0asHRwWh7yyFHzABq) | [Polimá Westcoast](https://open.spotify.com/artist/768O5GliF0bqscyghggrbE), [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [GANAS](https://open.spotify.com/album/5WojaFxkR4saLIwiyUBAnX) | 2:49 | 2023-08-04 |  |
 | [Ganas de Verte](https://open.spotify.com/track/0nE78Bc5Azu5kWum01TmKR) | [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910), [Ak4:20](https://open.spotify.com/artist/1SiLK8gdECx2iEm2SSj0Bl) | [Ganas de Verte](https://open.spotify.com/album/3TesP5MzNjC4SWoE48o7Vz) | 3:49 | 2023-03-31 | 2023-05-13 |
-| [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:50 | 2023-09-29 |  |
+| [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:50 | 2023-10-06 |  |
+| [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:50 | 2023-09-29 | 2023-10-12 |
 | [Gatando la Funda](https://open.spotify.com/track/3eadQDgUDkKCPy2TgfPvuc) | [Angel Dior](https://open.spotify.com/artist/5qPRgWcEOGRzoIST0sHAiI), [Sam Diem](https://open.spotify.com/artist/30mf4QuWQgYhbwf4bj8pGn), [Beatz Akademy](https://open.spotify.com/artist/0UjwmWs0TpcR8ntCOjlxkI) | [Gatando la Funda](https://open.spotify.com/album/2hsgCqphv4KLN3P2BlkUs4) | 2:50 | 2023-09-08 | 2023-09-30 |
 | [GATAS](https://open.spotify.com/track/0Dsd2YdaCaFGnLHeur33vE) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [SATURNO](https://open.spotify.com/album/6QYD0sLnZNUviYe2iBL2c3) | 3:27 | 2022-12-16 | 2023-02-05 |
 | [GATAS](https://open.spotify.com/track/6glF8OLZEE2AHVu5YtOoiu) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Chris Palace](https://open.spotify.com/artist/3z26llYP0dIzgnmUp2vSAw) | [SATURNO](https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM) | 3:27 | 2023-02-03 | 2023-03-04 |

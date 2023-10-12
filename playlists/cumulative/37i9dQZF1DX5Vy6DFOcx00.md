@@ -4,7 +4,7 @@
 
 > iykyk
 
-1,159 songs - 2 day 14 hr 19 min
+1,161 songs - 2 day 14 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [bad idea right?](https://open.spotify.com/track/2i8f4VnnBjy0yDqH2C452a) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [bad idea right?](https://open.spotify.com/album/3SHq2tBWWsAG6NEOMKZSj0) | 3:04 | 2023-08-16 | 2023-09-12 |
 | [bad idea right?](https://open.spotify.com/track/3IX0yuEVvDbnqUwMBB3ouC) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:04 | 2023-08-16 |  |
 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 | 2022-02-14 | 2022-03-04 |
+| [Barbie](https://open.spotify.com/track/0wnZP5KJSJ8xmTJmmjOqwr) | [JaidynAlexis](https://open.spotify.com/artist/1bu90rjktSmOd2wveQoIKi) | [Barbie](https://open.spotify.com/album/2YvG8ptg1hzWzX0pXA4bbg) | 2:08 | 2023-10-11 |  |
 | [Barbie Girl](https://open.spotify.com/track/5ZrDlcxIDZyjOzHdYW1ydr) | [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Aquarium \(Special Edition\)](https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm) | 3:17 | 2023-07-11 | 2023-09-09 |
 | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Aqua](https://open.spotify.com/artist/6kBjAFKyd0he7LiA5GQ3Gz) | [Barbie World \(with Aqua\) \[From Barbie The Album\]](https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs) | 1:49 | 2023-06-23 |  |
 | [Bathroom](https://open.spotify.com/track/3sLTYBYs6lJsFK84t2X7wt) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/3q6BNwqgHKVzXzAv2ZV6tD) | 3:28 | 2023-07-26 |  |
@@ -1130,6 +1131,7 @@
 | [Who Is She ?](https://open.spotify.com/track/1QxcWlk8PivolUaWcpAoNq) | [I Monster](https://open.spotify.com/artist/1CcPlAmcnJjC4FnaPVzv2v) | [Neveroddoreven](https://open.spotify.com/album/0MNY21WYhxGWfT9WQzrZe5) | 3:33 | 2022-11-28 | 2023-04-06 |
 | [Why Am I Like This?](https://open.spotify.com/track/0z29wv0x2IXrpWxNgICET7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Why Am I Like This?](https://open.spotify.com/album/0EiHyIG1skb5rzVkbBkva6) | 3:32 | 2022-05-04 | 2022-06-14 |
 | [wiggy](https://open.spotify.com/track/4xU4XeklG562EnanWzpY3A) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [wiggy](https://open.spotify.com/album/68SNI4G6JbLY2CqjFXfN0n) | 2:26 | 2023-08-15 | 2023-09-21 |
+| [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/track/2kE2HFBFkJ0VMw3igxYohz) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Wild Ones \(feat\. Jelly Roll\)](https://open.spotify.com/album/5yLgEnZGrpgxjmARNWP56g) | 2:21 | 2023-10-11 |  |
 | [Wobble](https://open.spotify.com/track/6JLcz9UGiVxAmEZXlCucn5) | [V.I.C.](https://open.spotify.com/artist/49mHZzhcsoQB1JXWv8Q9gU) | [Beast](https://open.spotify.com/album/2xaFAO5ejxbxjL5gund9Dk) | 5:21 | 2022-11-01 | 2022-11-16 |
 | [Womp Womp](https://open.spotify.com/track/1G5ho820Xi2Qu3HsBZ26ft) | [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Womp Womp](https://open.spotify.com/album/7o66H14uvkdLb6dI866lOW) | 3:46 | 2022-01-09 | 2022-02-14 |
 | [Woo](https://open.spotify.com/track/3HQcsqRjRdruUjkbDSgmVF) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 3:55 | 2022-06-03 | 2023-04-01 |

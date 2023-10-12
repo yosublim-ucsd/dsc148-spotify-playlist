@@ -4,7 +4,7 @@
 
 > Jazz\. But funky\. Cover: Takuya Kuroda
 
-356 songs - 1 day 3 hr 24 min
+357 songs - 1 day 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,8 @@
 | [Keep It Sexy](https://open.spotify.com/track/3Vghp0Dk0HDGKs54OM2Sfe) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [Keep It Sexy](https://open.spotify.com/album/2P1f2vIxfFqHYOAvDYUNdp) | 4:39 | 2020-10-23 | 2022-08-06 |
 | [Kinshasa FC](https://open.spotify.com/track/0F09o824fRsItjCHV48Kk2) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt) | [Aspects](https://open.spotify.com/album/7hkJZ6OcdqRRFotfnz0fWt) | 5:05 | 2021-03-26 | 2022-07-29 |
 | [La Fachada](https://open.spotify.com/track/7yFK4zvC06g7z9PZP1tYcc) | [The Sure Fire Soul Ensemble](https://open.spotify.com/artist/5vdTwIo9GoUu8IVLyJavsZ) | [Step Down / La Fachada](https://open.spotify.com/album/63xgskVnY0hG9fxtcj0gk1) | 3:19 | 2022-01-14 |  |
-| [Lazy Days \- Bluey Remix](https://open.spotify.com/track/4YbHhDPvq21gjwd05tDIke) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Jean Paul "Bluey" Maunick](https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM) | [STR4TASFEAR Remixes](https://open.spotify.com/album/3b7KqHLE7GAJ0Pi8H5KGbD) | 6:31 | 2023-08-11 |  |
+| [Lazy Days \(feat\. Emma\-Jean Thackray\) \[Bluey Remix\]](https://open.spotify.com/track/5yfojFTeq7UFGuuV3UT9O0) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Jean Paul "Bluey" Maunick](https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM) | [STR4TASFEAR Remixes](https://open.spotify.com/album/3dCSbKuoc31g6ebi6I2XZL) | 6:31 | 2023-08-11 |  |
+| [Lazy Days \- Bluey Remix](https://open.spotify.com/track/4YbHhDPvq21gjwd05tDIke) | [STR4TA](https://open.spotify.com/artist/5HintvHxi0uDBgNaRKWZOt), [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Jean Paul "Bluey" Maunick](https://open.spotify.com/artist/5Tv7qX68u95zstak765YGM) | [STR4TASFEAR Remixes](https://open.spotify.com/album/3b7KqHLE7GAJ0Pi8H5KGbD) | 6:31 | 2023-08-11 | 2023-10-12 |
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/4TGvGexS8eh0GQcsuCiM7O) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Where I'm Meant To Be](https://open.spotify.com/album/6LlHJbM6hisN0Qgy1kSwsT) | 3:23 | 2022-08-26 | 2023-04-22 |
 | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/track/7pEAzggpyq4sjREdLBfcuX) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Life Goes On \(feat\. Sampa the Great\)](https://open.spotify.com/album/6cEqbEv5wTsNkOGr7k3HTU) | 3:23 | 2022-08-26 | 2022-11-07 |
 | [Life on Mars \- OPOLOPO Extended Remix](https://open.spotify.com/track/4H2LU89UYYHhy5CNkbNaaY) | [Dexter Wansel](https://open.spotify.com/artist/7azp9wRyXcxIq5vZnJgYvt), [Opolopo](https://open.spotify.com/artist/5WaobPZaAjGIIlabFX3I94) | [Life on Mars \(OPOLOPO Remix\)](https://open.spotify.com/album/0gu7LOuWpnplQkrYonsNnk) | 10:04 | 2022-02-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 
 > Some of the world's biggest pop hits in bossa nova versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 682,743 likes - 118 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 682,891 likes - 118 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXardnHdSkglX.md) - [plain]
 | 117 | [Goodbyes](https://open.spotify.com/track/7M1wP7mlIZwtKTEwBunSjw) | [Lo Cabana](https://open.spotify.com/artist/3zyCvzirdRdVPVUeawuuwC) | [Goodbyes](https://open.spotify.com/album/6clGJ2qeydc7HuUlVPU6b7) | 2:10 |
 | 118 | [Careless Whisper \(feat\. Stephenie Coker\)](https://open.spotify.com/track/78igxfQCKcsgQ1yeV0Vmpz) | [Costa Azul Quartet](https://open.spotify.com/artist/6rJnoDgugy2T0eTH7ZUZUK), [Stephenie Coker](https://open.spotify.com/artist/6amQ4aTH5ThxBgwbD3jrzi) | [Best of Bossa Lounge \(International Version\)](https://open.spotify.com/album/2ZseDlkhp1CYh1bZQnubow) | 5:53 |
 
-Snapshot ID: `MCw0MWNkMWIzMjZmNDg3NTBmNGFjNmUwOTQ0Yjk3ZWYwZTczZDMzOGI2`
+Snapshot ID: `MCw4MDFiMjg4NWM1ZGFlMjBlNTc5MzE0MzlkMmRhOWMyOWNiNzNjMGZi`

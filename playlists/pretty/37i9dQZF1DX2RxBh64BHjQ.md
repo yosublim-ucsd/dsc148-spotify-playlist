@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:3DbwFQlvLxRSi2uX8mf81A">Sexyy Red</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,792,569 likes - 100 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,789,917 likes - 100 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 49 | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/track/1kwPxt35W7cG3rryxR48PO) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg), [DRODi](https://open.spotify.com/artist/7xsuKSqVVN2JzUIpZV0GeW) | [Johnny Dang \(with Paul Wall & DRODi\)](https://open.spotify.com/album/005G0y1M64Y9LmPRuHcD0U) | 3:12 |
 | 50 | [Ghetto & Ratchet \(with Jenn Carter\) \- Remix](https://open.spotify.com/track/1T4T1ht4F40NRwelsmQlW1) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [Jenn Carter](https://open.spotify.com/artist/3BcgTyEdL81zMljmXcilZM) | [Ghetto & Ratchet](https://open.spotify.com/album/7xwWcuyJ8VOVPFliDI3pGV) | 2:44 |
 | 51 | [Bezzal Land](https://open.spotify.com/track/0YuGBW9XmWiUMXGVsnt9P2) | [MudBaby Ru](https://open.spotify.com/artist/2ZI9cz1C8So6EWOwTbB1M7) | [Bezzal Land](https://open.spotify.com/album/5yqpAwyhVsmdbrDIItyPs7) | 2:42 |
-| 52 | [BRRR B](https://open.spotify.com/track/0h4RTOJWacHhYBXBzPbL2q) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Brezden](https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt) | [BRRR B \(feat\. Gucci Mane\)](https://open.spotify.com/album/1pSmiBc3J2Ty2HKvn3QGPq) | 3:24 |
+| 52 | [BRRR B](https://open.spotify.com/track/0h4RTOJWacHhYBXBzPbL2q) | [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo), [Brezden](https://open.spotify.com/artist/7gQ6DUFY8aLh47bUSia5Nt) | [BRRR B](https://open.spotify.com/album/1pSmiBc3J2Ty2HKvn3QGPq) | 3:24 |
 | 53 | [Lady Cop](https://open.spotify.com/track/7IbucrVf4NXY4tADmFdZpm) | [2Rare](https://open.spotify.com/artist/2GRDbUJRZwKzeiwxrjJdmQ) | [Truth or Rare](https://open.spotify.com/album/2GMsbSuX1rQ5DsFuJyCqat) | 2:47 |
 | 54 | [Jenn Jenn Jenn](https://open.spotify.com/track/09A7OM0R7yazApSFe0v1SA) | [41](https://open.spotify.com/artist/0yknvLWQZxwsMjhUhwWZQ8) | [Jenn Jenn Jenn](https://open.spotify.com/album/6WjpdxDbIidSJuY2Z4yjMg) | 2:00 |
 | 55 | [Got Me Hot](https://open.spotify.com/track/5KGRNJjSz2SFRz2tAZRbxB) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [Got Me Hot](https://open.spotify.com/album/39yoVq03KDoIDijiyMHZ3j) | 2:50 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2RxBh64BHjQ.md) - [plain]
 | 99 | [GOMD](https://open.spotify.com/track/1wabjSijwiHbAKhCiDlLEu) | [Veeze](https://open.spotify.com/artist/0B3kMiB21aPQlKumGDr4c7) | [Ganger](https://open.spotify.com/album/1dwo7QqEHtUeFs6qz2pNm2) | 2:51 |
 | 100 | [Gangsta Boogie](https://open.spotify.com/track/05pTIcFoJc2Sd5gULTUR1t) | [Zoe Osama](https://open.spotify.com/artist/63FIRo90iuMjz2byQS6nmz) | [Gangsta Boogie](https://open.spotify.com/album/0MVmaI88e3V5OdfQ29FeTi) | 3:54 |
 
-Snapshot ID: `MCxjNzk3YmVhNGE3YjhmNzY5NDhmNTMzMWI2M2M2OWM3NDM2YzAwZTVm`
+Snapshot ID: `MCw0NmRhNWM5YmFiOWI3N2YzY2FlODVhYmYyZGQ2YWY3NWRiMDEyODhl`

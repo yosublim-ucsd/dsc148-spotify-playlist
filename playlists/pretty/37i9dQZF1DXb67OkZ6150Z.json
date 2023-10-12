@@ -1,12 +1,12 @@
 {
   "description": "Songs you love with an indie spin on it. Cover: Soccer Mommy ",
-  "num_followers": 286214,
+  "num_followers": 286217,
   "original_name": "Indie Covers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZjc2ZjQ4ODdmZTFiNDUxYzhiMDY0ZTMyYmJlMmNmNjhkMzY2ZmQ2",
+  "snapshot_id": "MCxkYjJiZWRiZjc5OTAwMGM5NWMzMjZlNmQ2YTg2NmVhOTEzZWYzYjRi",
   "tracks": [
     {
       "added_at": "2023-05-05 17:19:46",
@@ -275,22 +275,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 309359,
-      "name": "re: Stacks - Spotify Singles",
-      "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Where Is My Mind?",
         "url": "https://open.spotify.com/album/76lO0JlnpdF3QBMpUK0KrE"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 177260,
       "name": "Where Is My Mind?",
       "url": "https://open.spotify.com/track/0UsNgv6unHisK9NslsZxwz"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3pTs60Mj7DSSseycisLJxf"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 309359,
+      "name": "re: Stacks - Spotify Singles",
+      "url": "https://open.spotify.com/track/6X6fJzF0BGbUk6mhqNvgZZ"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -607,22 +607,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Seeking Thrills (The Ultimate Thrills Edition)",
-        "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
-      },
-      "artists": [
-        {
-          "name": "Georgia",
-          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
-        }
-      ],
-      "duration_ms": 188694,
-      "name": "Running Up That Hill",
-      "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "true colors (from Life is Strange)",
         "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 210600,
       "name": "creep",
       "url": "https://open.spotify.com/track/1CSue9uoEXv1w2YwfSjaCY"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Seeking Thrills (The Ultimate Thrills Edition)",
+        "url": "https://open.spotify.com/album/59UBi9ajKLenloyKokbmmZ"
+      },
+      "artists": [
+        {
+          "name": "Georgia",
+          "url": "https://open.spotify.com/artist/06knYh538h5SI7OAEF8ek3"
+        }
+      ],
+      "duration_ms": 188694,
+      "name": "Running Up That Hill",
+      "url": "https://open.spotify.com/track/18yegkWg1YLPFCgif8XfaE"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -717,6 +717,38 @@
       "url": "https://open.spotify.com/track/4Zx6WKvQxGhk2UD4huHFBZ"
     },
     {
+      "added_at": "2023-06-16 04:00:00",
+      "album": {
+        "name": "Shivers",
+        "url": "https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T"
+      },
+      "artists": [
+        {
+          "name": "Julia Jacklin",
+          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+        }
+      ],
+      "duration_ms": 303054,
+      "name": "Shivers",
+      "url": "https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Nothing Else Matters",
+        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 274506,
+      "name": "Nothing Else Matters",
+      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
+    },
+    {
       "added_at": "2023-05-05 17:19:46",
       "album": {
         "name": "Volume 1",
@@ -755,38 +787,6 @@
       "duration_ms": 209813,
       "name": "Dancing on My Own",
       "url": "https://open.spotify.com/track/6TsJdaFeTut45R5nRlppdv"
-    },
-    {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Shivers",
-        "url": "https://open.spotify.com/album/4Ql9kb8CRPMMXjxLGDdk2T"
-      },
-      "artists": [
-        {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
-        }
-      ],
-      "duration_ms": 303054,
-      "name": "Shivers",
-      "url": "https://open.spotify.com/track/6xiXaXON1rAuatwgLhIVlJ"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Nothing Else Matters",
-        "url": "https://open.spotify.com/album/5cGlNs3L4C2mzMQiAfox41"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 274506,
-      "name": "Nothing Else Matters",
-      "url": "https://open.spotify.com/track/1guCON9841cQwAlbNplLsY"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -863,22 +863,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Cooking",
-        "url": "https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7"
-      },
-      "artists": [
-        {
-          "name": "Current Joys",
-          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-        }
-      ],
-      "duration_ms": 171315,
-      "name": "Cooking",
-      "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Riptide",
         "url": "https://open.spotify.com/album/746wjyF8LAeRWH7pBGDO9S"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 193344,
       "name": "Riptide",
       "url": "https://open.spotify.com/track/2Dz2D2jwauzoiq7aluMiH9"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Cooking",
+        "url": "https://open.spotify.com/album/1a48ZfwsNdTMdy3NNrdeh7"
+      },
+      "artists": [
+        {
+          "name": "Current Joys",
+          "url": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
+        }
+      ],
+      "duration_ms": 171315,
+      "name": "Cooking",
+      "url": "https://open.spotify.com/track/6QS1OLPLLjKiZsdIs9GUdi"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -971,6 +971,22 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
+        "name": "Lost",
+        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
+      },
+      "artists": [
+        {
+          "name": "b\u00fclow",
+          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+        }
+      ],
+      "duration_ms": 237876,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
         "name": "Go Easy, Kid (with James Blake)",
         "url": "https://open.spotify.com/album/5RMjaRKQfjdeaqdnxaeALK"
       },
@@ -989,20 +1005,20 @@
       "url": "https://open.spotify.com/track/6SRgFtpZmRsYNR3Kj5sHCf"
     },
     {
-      "added_at": "2023-05-05 17:19:46",
+      "added_at": "2023-09-22 04:00:00",
       "album": {
-        "name": "Lost",
-        "url": "https://open.spotify.com/album/0zjop7Z7ewP36d0dBidpnJ"
+        "name": "Rarities 2",
+        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
       },
       "artists": [
         {
-          "name": "b\u00fclow",
-          "url": "https://open.spotify.com/artist/5vBrKGOjN10BMwB0cJADj4"
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
         }
       ],
-      "duration_ms": 237876,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/3WPYHZy8f7KIS5fVTUmliT"
+      "duration_ms": 232053,
+      "name": "Both Sides Now",
+      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
     },
     {
       "added_at": "2023-08-18 19:30:00",
@@ -1023,22 +1039,6 @@
       "duration_ms": 164351,
       "name": "Attack of the Ghost Riders",
       "url": "https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV"
-    },
-    {
-      "added_at": "2023-09-22 04:00:00",
-      "album": {
-        "name": "Rarities 2",
-        "url": "https://open.spotify.com/album/0YOJpgi09ivDUTlgXyUmJH"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Both Sides Now",
-      "url": "https://open.spotify.com/track/4msq6mMo1ue59EiCPTFWEr"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Come Give Me Love",
-        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 239643,
-      "name": "Come Give Me Love",
-      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Bailando",
         "url": "https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY"
       },
@@ -1111,6 +1095,38 @@
       "duration_ms": 187697,
       "name": "Bailando",
       "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Come Give Me Love",
+        "url": "https://open.spotify.com/album/4Q2SIzTIZXzWykvl3DGVPK"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 239643,
+      "name": "Come Give Me Love",
+      "url": "https://open.spotify.com/track/6lG3q4b7eoeplybJUqXP96"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Alaska",
+        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
+      },
+      "artists": [
+        {
+          "name": "Julia Cooper",
+          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
+        }
+      ],
+      "duration_ms": 191875,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
     },
     {
       "added_at": "2023-08-18 19:30:00",
@@ -1131,22 +1147,6 @@
       "duration_ms": 225013,
       "name": "He Thinks He'll Keep Her",
       "url": "https://open.spotify.com/track/36YB7zihZBaAq3DJZ1YXZv"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/7wvGomB3AXeriDQuKIyLlq"
-      },
-      "artists": [
-        {
-          "name": "Julia Cooper",
-          "url": "https://open.spotify.com/artist/32phMmuGI8TzzqWpR1q576"
-        }
-      ],
-      "duration_ms": 191875,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/1BWNijuC93HFgEObV2RL0Y"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1409,22 +1409,6 @@
       "url": "https://open.spotify.com/track/5bLaUOpi4YlCY8F3txSKxN"
     },
     {
-      "added_at": "2023-06-16 04:00:00",
-      "album": {
-        "name": "Everybody Wants To Rule The World",
-        "url": "https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu"
-      },
-      "artists": [
-        {
-          "name": "flipturn",
-          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
-        }
-      ],
-      "duration_ms": 223060,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7"
-    },
-    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "When You're Smiling (From \"A Small Light: Episode 5\")",
@@ -1441,20 +1425,20 @@
       "url": "https://open.spotify.com/track/3LpVQJgtAxYpp3c5dJkOt6"
     },
     {
-      "added_at": "2023-05-05 17:19:46",
+      "added_at": "2023-06-16 04:00:00",
       "album": {
-        "name": "Our House",
-        "url": "https://open.spotify.com/album/7yuswreCCTccvqWFuP974U"
+        "name": "Everybody Wants To Rule The World",
+        "url": "https://open.spotify.com/album/2cl1aT8KUor2XmO4WH6vOu"
       },
       "artists": [
         {
-          "name": "The Head And The Heart",
-          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
         }
       ],
-      "duration_ms": 182080,
-      "name": "Our House",
-      "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
+      "duration_ms": 223060,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/6Io2LMAlssbMR1cjj9cGD7"
     },
     {
       "added_at": "2023-05-26 04:00:00",
@@ -1475,6 +1459,22 @@
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Our House",
+        "url": "https://open.spotify.com/album/7yuswreCCTccvqWFuP974U"
+      },
+      "artists": [
+        {
+          "name": "The Head And The Heart",
+          "url": "https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg"
+        }
+      ],
+      "duration_ms": 182080,
+      "name": "Our House",
+      "url": "https://open.spotify.com/track/08sn2aLyHIGwUalxqkPmaO"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1573,6 +1573,22 @@
       "url": "https://open.spotify.com/track/6GeJeIWS9dNh5jJqyEutj9"
     },
     {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "Teardrop",
+        "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
+      },
+      "artists": [
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Teardrop",
+      "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
+    },
+    {
       "added_at": "2023-05-26 04:00:00",
       "album": {
         "name": "Three Hours",
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "Teardrop",
-        "url": "https://open.spotify.com/album/42WoUwPPhODqJZHQ7iSh9y"
-      },
-      "artists": [
-        {
-          "name": "Hayley Williams",
-          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
-        }
-      ],
-      "duration_ms": 206000,
-      "name": "Teardrop",
-      "url": "https://open.spotify.com/track/5bIKTQABee8vkLvOnqQf5j"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/5Ir3sO62EvsC6Tfc7Q9c1z"
       },
@@ -1639,22 +1639,6 @@
       "duration_ms": 226981,
       "name": "Skinny Love - Spotify Singles",
       "url": "https://open.spotify.com/track/58az7rByzBsG2X9MR5wbv3"
-    },
-    {
-      "added_at": "2023-05-05 17:19:46",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 224706,
-      "name": "These Days",
-      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1675,18 +1659,18 @@
     {
       "added_at": "2023-05-05 17:19:46",
       "album": {
-        "name": "On the Road Again",
-        "url": "https://open.spotify.com/album/4AcWg6gNuQV2Ulh0yS0Nqt"
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/58z5GjZRjt6XIz5GOS0PJh"
       },
       "artists": [
         {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
         }
       ],
-      "duration_ms": 145305,
-      "name": "On the Road Again",
-      "url": "https://open.spotify.com/track/4QCzw4JAIj6Ythv6GxiI7G"
+      "duration_ms": 224706,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3LWZZ5vzhOSMN6u9pgO6Eu"
     },
     {
       "added_at": "2023-05-05 17:19:46",
@@ -1703,6 +1687,22 @@
       "duration_ms": 409860,
       "name": "Like a Rolling Stone",
       "url": "https://open.spotify.com/track/6nMb0jnVYulCHhe5UpyKBq"
+    },
+    {
+      "added_at": "2023-05-05 17:19:46",
+      "album": {
+        "name": "On the Road Again",
+        "url": "https://open.spotify.com/album/4AcWg6gNuQV2Ulh0yS0Nqt"
+      },
+      "artists": [
+        {
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
+        }
+      ],
+      "duration_ms": 145305,
+      "name": "On the Road Again",
+      "url": "https://open.spotify.com/track/4QCzw4JAIj6Ythv6GxiI7G"
     },
     {
       "added_at": "2023-05-05 17:19:46",

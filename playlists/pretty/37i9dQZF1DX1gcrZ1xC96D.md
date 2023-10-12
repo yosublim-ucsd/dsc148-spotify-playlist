@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 
 > Gym harder, better, faster and longer\. Yes, you CAN do it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,023,460 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,022,929 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 4 | [Bel Mercy](https://open.spotify.com/track/7udjTmsTZqdB1xLOHGJ8dM) | [Jengi](https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN) | [Bel Mercy](https://open.spotify.com/album/1Fmu97Zy0zsnp63rPPsOFF) | 2:49 |
 | 5 | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [James Carter](https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Bad Memories \(feat\. Elley Duhé & FAST BOY\)](https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7) | 2:28 |
 | 6 | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/track/2ZWmmrWUgDBcPSLihBMvhg) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Trigga](https://open.spotify.com/artist/117Ngy9A9prluWeHKheHwz), [Takura](https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri) | [Baddadan \(feat\. IRAH, Flowdan, Trigga & Takura\)](https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF) | 2:57 |
-| 7 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 |
-| 8 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
+| 7 | [Do It To It](https://open.spotify.com/track/20on25jryn53hWghthWWW3) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It](https://open.spotify.com/album/58cd90Jkrovggh556JPN9L) | 2:37 |
+| 8 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 |
 | 9 | [Afraid To Feel](https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Afraid To Feel](https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp) | 2:57 |
 | 10 | [Drifting](https://open.spotify.com/track/4EmH2iRucAgCOnhuJRotUi) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Drifting](https://open.spotify.com/album/2kLk6nNB65O9AA6EmaI5DG) | 2:27 |
 | 11 | [365](https://open.spotify.com/track/5roFM0I1K6um2yIYL6kGq2) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o), [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [365](https://open.spotify.com/album/2Wt63cwVvjqezpEdQcmlkI) | 3:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1gcrZ1xC96D.md) - [plain]
 | 49 | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/track/3ho2d1iFlzRwsCBQJ4QNGv) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Where Do We Go \(feat\. Poppy Baskcomb\)](https://open.spotify.com/album/2ypJ0tKO8imaWL0SlgUeVJ) | 3:24 |
 | 50 | [Phoneline](https://open.spotify.com/track/5nCNItjhTUj7MqL3oFHmFc) | [Pola & Bryson](https://open.spotify.com/artist/79PzyYqAyunWsVH4tY4vpr), [Emily Makis](https://open.spotify.com/artist/51ferxocEKt0vjxzUsqyFX) | [Phoneline](https://open.spotify.com/album/5KBDc833eS9lkj1bfCcbaU) | 3:46 |
 
-Snapshot ID: `MCxkYzQ3MDBkZDkwZGU1YWI4NGRkM2ExYzA1ZjkyY2MxMGY0OWY3OTg4`
+Snapshot ID: `MCwxODE1N2YyY2JmMDEyMmI4MGYzMDFmY2IwMzFjYmMzNmYzZjljZDlk`

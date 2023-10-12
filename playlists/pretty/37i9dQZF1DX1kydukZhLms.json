@@ -1,12 +1,12 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1272540,
+  "num_followers": 1272455,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkZWE2MjBjNjllZmNkYmNjNDVjMzNiZTQxNmY2NjExNmFjMTJjMGM3",
+  "snapshot_id": "MCw4ZWY0OGJhOGI1NTllOTdmZDRjNWQwYTQ3NTdlNjU0ODk5MmVjM2Zj",
   "tracks": [
     {
       "added_at": "2023-02-06 10:03:23",
@@ -299,18 +299,18 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+        "name": "F8",
+        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
       },
       "artists": [
         {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
         }
       ],
-      "duration_ms": 229960,
-      "name": "18 and Life",
-      "url": "https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg"
+      "duration_ms": 190718,
+      "name": "A Little Bit Off",
+      "url": "https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -347,18 +347,18 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "F8",
-        "url": "https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2"
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
       },
       "artists": [
         {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
         }
       ],
-      "duration_ms": 190718,
-      "name": "A Little Bit Off",
-      "url": "https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI"
+      "duration_ms": 229960,
+      "name": "18 and Life",
+      "url": "https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -459,22 +459,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 313693,
-      "name": "I Remember You",
-      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "War Is the Answer",
         "url": "https://open.spotify.com/album/5wqJcLJsFqVg1lWowuyv3V"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 262440,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/2KZXCH4npY28gtZKXcB2N8"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 313693,
+      "name": "I Remember You",
+      "url": "https://open.spotify.com/track/4ZpXHlV2vQVfPXUvbDSZ92"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -555,6 +555,22 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
+        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
+        "url": "https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7"
+      },
+      "artists": [
+        {
+          "name": "Five Finger Death Punch",
+          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Wrong Side of Heaven",
+      "url": "https://open.spotify.com/track/0GQmBK4A5hFQdjhYCFCbtK"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
         "name": "Hysteria (Super Deluxe)",
         "url": "https://open.spotify.com/album/31oeDyCOLhgeZyktfxo0pE"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 237346,
       "name": "I Don't Care",
       "url": "https://open.spotify.com/track/1WxF4gMsFXnKCyh48CW2RI"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
-        "name": "The Wrong Side of Heaven and the Righteous Side of Hell, Vol. 1",
-        "url": "https://open.spotify.com/album/1Z3JwX4HqsMcmlsNZqcIX7"
-      },
-      "artists": [
-        {
-          "name": "Five Finger Death Punch",
-          "url": "https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Wrong Side of Heaven",
-      "url": "https://open.spotify.com/track/0GQmBK4A5hFQdjhYCFCbtK"
     },
     {
       "added_at": "2023-02-06 10:03:23",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2023-02-06 10:03:23",
       "album": {
-        "name": "Tooth and Nail",
-        "url": "https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL"
-      },
-      "artists": [
-        {
-          "name": "Dokken",
-          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
-        }
-      ],
-      "duration_ms": 262200,
-      "name": "Alone Again",
-      "url": "https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l"
-    },
-    {
-      "added_at": "2023-02-06 10:03:23",
-      "album": {
         "name": "Somewhere Far Beyond (Remastered 2007)",
         "url": "https://open.spotify.com/album/4oruHZSLyTDKPNY2VQIlCS"
       },
@@ -1115,6 +1099,22 @@
       "duration_ms": 189893,
       "name": "The Bard's Song - In the Forest - Remastered 2007",
       "url": "https://open.spotify.com/track/7xPGvZaG9W7UOrCgEwbONe"
+    },
+    {
+      "added_at": "2023-02-06 10:03:23",
+      "album": {
+        "name": "Tooth and Nail",
+        "url": "https://open.spotify.com/album/0opFMR8DprHzu1nPHhoHuL"
+      },
+      "artists": [
+        {
+          "name": "Dokken",
+          "url": "https://open.spotify.com/artist/09hNSPPOxDop4FRdr6UEnq"
+        }
+      ],
+      "duration_ms": 262200,
+      "name": "Alone Again",
+      "url": "https://open.spotify.com/track/1j06ieEC2BOCM0fTmYhn2l"
     },
     {
       "added_at": "2023-02-06 10:03:23",

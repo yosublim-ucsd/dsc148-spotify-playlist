@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 
 > Pas mal "tes tounes de karaoké préférées".
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,505 likes - 75 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,511 likes - 75 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 65 | [Un souvenir heureux](https://open.spotify.com/track/0uenXaHPfVWwcKHEpLz6kn) | [Diane Dufresne](https://open.spotify.com/artist/7twmPMJL7zIWU2MLkdQpqs) | [Les grands succès de Diane Dufresne](https://open.spotify.com/album/6WS4SEnixyqEIQHZ5TmmPV) | 2:53 |
 | 66 | [Aime](https://open.spotify.com/track/4qBxDboTpB6tizWtib6nDe) | [Bruno Pelletier](https://open.spotify.com/artist/7quDJwv2BxxaCkzeuLXzT2) | [Miserere](https://open.spotify.com/album/7bzHZ9axmnjOqNCeBz5GEi) | 4:24 |
 | 67 | [Je reviendrai à montréal](https://open.spotify.com/track/3Gp1eVrLVzHzjhylilDFFb) | [Robert Charlebois](https://open.spotify.com/artist/1862NkVrufCFJZkZJMfftO) | [Volume un](https://open.spotify.com/album/5mlYAjASxORUY5zmJ1j6Bd) | 3:24 |
-| 68 | [Entre l'ombre et la lumière](https://open.spotify.com/track/4uv1DUeE3qQWDaj0HC9V6b) | [Marie Carmen](https://open.spotify.com/artist/0CB3KcKlqF1EtCu1HHqIZu) | [Les grands succès de Marie Carmen](https://open.spotify.com/album/3Jc4kN9R3qYadp7QSxNc8j) | 4:29 |
-| 69 | [Je voudrais voir New\-York](https://open.spotify.com/track/3Io2XSb6fY3MZTDujUkyux) | [Daniel Lavoie](https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM) | [Vue sur la mer](https://open.spotify.com/album/4RnJlOpXOYuuxScSUANVhL) | 3:30 |
+| 68 | [Je voudrais voir New\-York](https://open.spotify.com/track/3Io2XSb6fY3MZTDujUkyux) | [Daniel Lavoie](https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM) | [Vue sur la mer](https://open.spotify.com/album/4RnJlOpXOYuuxScSUANVhL) | 3:30 |
+| 69 | [Entre l'ombre et la lumière](https://open.spotify.com/track/4uv1DUeE3qQWDaj0HC9V6b) | [Marie Carmen](https://open.spotify.com/artist/0CB3KcKlqF1EtCu1HHqIZu) | [Les grands succès de Marie Carmen](https://open.spotify.com/album/3Jc4kN9R3qYadp7QSxNc8j) | 4:29 |
 | 70 | [Lavez, lavez](https://open.spotify.com/track/3AgSdVZqt0IC6p8MvkV88z) | [Martine St Clair](https://open.spotify.com/artist/7mj0ykOd4nU43TFvJobbyq) | [Caribou](https://open.spotify.com/album/43hrsuXAxYjK61wHmnS9KE) | 3:26 |
 | 71 | [Bye Bye Mon Cowboy \- Original Version](https://open.spotify.com/track/1J9by690rO1VvQGrliaR0J) | [Mitsou](https://open.spotify.com/artist/2uaGBnwCVIftDwC3dcbS80) | [La Collection](https://open.spotify.com/album/2pq3KQJYOgxpyQo27Bg0rX) | 3:46 |
 | 72 | [La berceuse du petit diable](https://open.spotify.com/track/5HHgYm26FMwm6bpDrZuHcz) | [Roch Voisine](https://open.spotify.com/artist/77xlFule9mFzOWT9Uk80xY) | [Double](https://open.spotify.com/album/6VCmNN4nO6kih1EIVlXfqL) | 4:04 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NFCksjqsSg.md) - [plain]
 | 74 | [Incognito](https://open.spotify.com/track/6Jfd5c2iOPkphlCX9nt0GJ) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Incognito](https://open.spotify.com/album/3Gc6kXiuACCXzuozrbA1C4) | 4:39 |
 | 75 | [Le ciel est à moi](https://open.spotify.com/track/7rei6qkJoTI00AaYWB7a0k) | [Marie\-Élaine Thibert](https://open.spotify.com/artist/4dCRlMJfHuq6GTTVNyxjNH) | [Marie\-Élaine Thibert](https://open.spotify.com/album/7u5RRckpk4riXBpIiIwCFs) | 4:35 |
 
-Snapshot ID: `MCw2NGFmZTY3MGRmNjdiZmU0NWM2ODc0YTVlNDU4YmQwNjkzMWUyNTdk`
+Snapshot ID: `MCxlODYwYTAzY2MwNjJkMTNhOTcyZjU4N2FhMDA0YmYwY2NjNWY5MGY5`

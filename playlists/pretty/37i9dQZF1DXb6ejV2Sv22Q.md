@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > y kn m quida no duerme viejo de los korridones q traemos totalment n vivo y markele kmpa tolo watata watata
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,069 likes - 60 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,388 likes - 60 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 26 | [SHADOW](https://open.spotify.com/track/0wGbyS1tExQSwOYu6UceyE) | [ONIMXRU](https://open.spotify.com/artist/3ysIyoivMDpeqLg0VMRPQw), [SMITHMANE](https://open.spotify.com/artist/5WOke44Ea57bHmJ3X0qluG) | [SHADOW](https://open.spotify.com/album/4w0uRvtIjqipuoZ7ngqqcV) | 2:42 |
 | 27 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 |
 | 28 | [RAPTURE](https://open.spotify.com/track/3thB8qaxyKtLJ7ao1NpkRB) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [RAPTURE](https://open.spotify.com/album/6OpEcUBwj9Sp4rY5xcnC8g) | 2:44 |
-| 29 | [RITMADINHA DANÇANTE](https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [RITMADINHA DANÇANTE](https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu) | 2:05 |
-| 30 | [La Curiosidad](https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:36 |
+| 29 | [La Curiosidad](https://open.spotify.com/track/0hnvQLkV7yOjslEzflJSK4) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV), [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Dañado](https://open.spotify.com/album/1i5VsPI1sXn847oHyXyZCh) | 3:36 |
+| 30 | [RITMADINHA DANÇANTE](https://open.spotify.com/track/4sVrOA0sytAzv102tnQmr7) | [DJ GUDOG](https://open.spotify.com/artist/2tqbdiza6tmlpAtKUZwhnE) | [RITMADINHA DANÇANTE](https://open.spotify.com/album/0QHgS2V9X2lZfMoi09Hsdu) | 2:05 |
 | 31 | [HOUSE OF LUX](https://open.spotify.com/track/3CU1qWV0h0PvWXQg71YUoo) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 2:20 |
 | 32 | [all I want is you](https://open.spotify.com/track/7lOvJBqH38ZY59eLU7bioq) | [Rebzyyx](https://open.spotify.com/artist/7GcVOOrldYLwxGrCkELOno), [hoshie star](https://open.spotify.com/artist/0LWHFUzXPTl9BDdJHDE001) | [all I want is you](https://open.spotify.com/album/4aGM4L8ks2bc51kAKcVA9V) | 2:31 |
 | 33 | [METAMORPHOSIS \- Sped Up](https://open.spotify.com/track/6MlIIJwO4FxnOlrpOrS4hU) | [INTERWORLD](https://open.spotify.com/artist/5hKGLu4Ik88FzWcTPhWNTN) | [METAMORPHOSIS \(Sped Up\)](https://open.spotify.com/album/13WLopNIcmZjic5PtYK6Hh) | 1:50 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 48 | [Tatuajes \- Deluxe](https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 3:18 |
 | 49 | [Ya No Me Preocupo](https://open.spotify.com/track/0rfNRGojD9WukEeeL54Hct) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 3:15 |
 | 50 | [Aquella Noche](https://open.spotify.com/track/5H71u2ItpVo99e5KbLEvX9) | [Bardero$](https://open.spotify.com/artist/5Q2fyL2TcdUY9IqKTkGk5G) | [Inmortales](https://open.spotify.com/album/4EYOgNTo3rdmsmZaQSFbmV) | 3:10 |
-| 51 | [Skibidi Bop Yes Yes](https://open.spotify.com/track/6ESCxPoeASy9bMyRlk6tyu) | [Aesthetic](https://open.spotify.com/artist/4l2S0sGjHE283lwIqjeAU6) | [Skibidi Bop Yes Yes](https://open.spotify.com/album/1DfZkN4JZsBPJayfKTbsQg) | 2:02 |
-| 52 | [Tu Si Eres Real](https://open.spotify.com/track/201ssZsPpsLtX96LLGgPwQ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 3:30 |
+| 51 | [Tu Si Eres Real](https://open.spotify.com/track/201ssZsPpsLtX96LLGgPwQ) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [San Lucas](https://open.spotify.com/album/5I20nnpF2Jj6GjUFsk9EG1) | 3:30 |
+| 52 | [Skibidi Bop Yes Yes](https://open.spotify.com/track/6ESCxPoeASy9bMyRlk6tyu) | [Aesthetic](https://open.spotify.com/artist/4l2S0sGjHE283lwIqjeAU6) | [Skibidi Bop Yes Yes](https://open.spotify.com/album/1DfZkN4JZsBPJayfKTbsQg) | 2:02 |
 | 53 | [Que Te Vas](https://open.spotify.com/track/5YgpBbSqDc50OOVDahLoJZ) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Our Wave Nuestra Ola](https://open.spotify.com/album/7k3KEedw9YYKrgSrIKknuo) | 3:26 |
 | 54 | [Que Se Yo](https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Que Se Yo](https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK) | 3:25 |
 | 55 | [El Dueño De Tu Amor](https://open.spotify.com/track/3CJaDcjZKse7X7eVUukQJB) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Las Dos Caras Del Amor](https://open.spotify.com/album/6obhr3xfkuIYkwvEukc2y2) | 3:45 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 | 59 | [Labios de Cereza](https://open.spotify.com/track/7s963HIFOPyhSiqt10vYFn) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Labios de Cereza](https://open.spotify.com/album/2LMo4r5riy5inwflDaWAKK) | 3:34 |
 | 60 | [Una Linda Mujer](https://open.spotify.com/track/3h90gypXwmPw2EclCHdfcF) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Una Linda Mujer](https://open.spotify.com/album/6IPrta7kcyyOWTQIJZWz5J) | 3:02 |
 
-Snapshot ID: `MCw0MTM3OWVlNDU5M2E4ZWM1Yzg4MWJiYzg4ZGQ0MjYzNDYwYjVkMjdk`
+Snapshot ID: `MCw4ZTg2YjM0M2YzNjVkMjk4Y2UzN2NjNzZlOWI4MmE4MmMyZDAzOTAy`

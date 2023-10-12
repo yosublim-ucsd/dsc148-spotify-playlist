@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Spain.
 
-813 songs - 1 day 20 hr 10 min
+815 songs - 1 day 20 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,7 +276,8 @@
 | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/track/3kUq4sBcmxhnOtNysZ9yrp) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Feliz Cumpleaños Ferxxo](https://open.spotify.com/album/5tWcOAhihL1zYpaIktpoxu) | 2:36 | 2022-08-20 | 2022-09-16 |
 | [Feliz Navidad](https://open.spotify.com/track/3qCeq0rWK67SoBDgFd2sId) | [José Feliciano](https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF) | [My Name Is José Feliciano](https://open.spotify.com/album/6leYmQzvQjlUtmpNIL9XYQ) | 3:02 | 2021-12-25 | 2022-12-28 |
 | [Ferxxo 100](https://open.spotify.com/track/1sbNEFiURUYfy024cJX8JG) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [FELIZ CUMPLEAÑOS FERXXO TE PIRATEAMOS EL ÁLBUM](https://open.spotify.com/album/7pijRxgRaBirPz6wDaJIp9) | 2:47 | 2022-09-15 | 2022-09-18 |
-| [FERXXO 151](https://open.spotify.com/track/0qMYY0Fotjtu181Nj0VS8e) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 3:15 | 2023-09-30 |  |
+| [FERXXO 151](https://open.spotify.com/track/0qMYY0Fotjtu181Nj0VS8e) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 3:15 | 2023-09-30 | 2023-10-12 |
+| [FERXXO 151](https://open.spotify.com/track/2Cl4HCBmPddQNZEncdoXp0) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 3:15 | 2023-10-11 |  |
 | [FERXXO 151](https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [FERXXO 151](https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq) | 3:15 | 2023-08-26 | 2023-10-01 |
 | [FERXXO 30](https://open.spotify.com/track/2LWM5Ft0TdX24GeSq1u6PV) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:53 | 2023-10-07 | 2023-10-09 |
 | [FERXXO EDITION](https://open.spotify.com/track/1XliaOvtQuV1hoXiIik2aQ) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:41 | 2023-09-30 | 2023-10-02 |
@@ -434,7 +435,8 @@
 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 | 2022-07-02 | 2022-07-15 |
 | [LUCES AZULES](https://open.spotify.com/track/24PUqZJcXUjByIybGftoHZ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [DONDE QUIERO ESTAR](https://open.spotify.com/album/156gxGFDxadwiIC3Bfwmj3) | 2:40 | 2023-01-21 | 2023-02-05 |
 | [Luces De Neón](https://open.spotify.com/track/5B60XFKzm8WsJTdVyt4u4I) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Luces De Neón](https://open.spotify.com/album/03XRoR4NgKM7VHiXzDW2wS) | 3:39 | 2022-09-16 | 2023-01-22 |
-| [LUCES DE TECNO](https://open.spotify.com/track/3DBtvrhv3SAgK7s6zBGgbe) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:43 | 2023-09-30 |  |
+| [LUCES DE TECNO](https://open.spotify.com/track/3DBtvrhv3SAgK7s6zBGgbe) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:43 | 2023-09-30 | 2023-10-12 |
+| [LUCES DE TECNO](https://open.spotify.com/track/0goXAEnjWhssHU0y9Zyqyf) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:44 | 2023-10-11 |  |
 | [M3](https://open.spotify.com/track/4WDRKKpJiEZ6DK6FFM3pkZ) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Fivio Foreign](https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM) | [3MEN2 KBRN](https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u) | 3:12 | 2023-03-18 | 2023-03-20 |
 | [Machu Picchu](https://open.spotify.com/track/6RV9pRLIQiXm3qTGeyQluf) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 2:59 | 2021-03-27\* | 2021-05-20 |
 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2023-09-30 | 2023-10-10 |

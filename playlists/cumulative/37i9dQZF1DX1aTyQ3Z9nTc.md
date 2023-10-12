@@ -4,7 +4,7 @@
 
 > That bouncy, groovy, dancey sound.
 
-377 songs - 20 hr 36 min
+378 songs - 20 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Control](https://open.spotify.com/track/20ofHfo8HNBwYVc5N7mfqf) | [Nill](https://open.spotify.com/artist/2Ig1qV7rQGQtBWKa8mynIl), [DijahSB](https://open.spotify.com/artist/4H9N7llvyhoddyD2oIrXWt) | [Control](https://open.spotify.com/album/1sF2zUdyhug7hB7qv4ZO5n) | 3:28 | 2021-07-26 | 2022-07-28 |
 | [COZY](https://open.spotify.com/track/0mKGwFMHzTprtS2vpR3b6s) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 3:30 | 2022-07-29 |  |
 | [crave you](https://open.spotify.com/track/37dUHBmNPBtDhoi2HAVrIy) | [sagun](https://open.spotify.com/artist/4YJkA3YshwZ8FwljpMW0II), [KALLITECHNIS](https://open.spotify.com/artist/6i3sYlO1zUHf5IWHpXt4Sl) | [crave you](https://open.spotify.com/album/64N5QCbyXjO34S0IFPoGSq) | 2:40 | 2023-06-16 |  |
-| [Crazy](https://open.spotify.com/track/68qSx0qS9nfVm4X0wFIBx1) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Crazy](https://open.spotify.com/album/5sYReub12sNsFbve68F3EL) | 4:06 | 2022-08-19 |  |
+| [Crazy](https://open.spotify.com/track/68qSx0qS9nfVm4X0wFIBx1) | [Luna Elle](https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q) | [Crazy](https://open.spotify.com/album/5sYReub12sNsFbve68F3EL) | 4:06 | 2022-08-19 | 2023-10-12 |
 | [Cruisin'](https://open.spotify.com/track/25O3Fn9xElhKKK5amnrrje) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [Cruisin'](https://open.spotify.com/album/6MBKxiS8fFEw9V6nRoIeRm) | 3:27 | 2023-03-31 |  |
 | [Cuvry](https://open.spotify.com/track/7jXmv6vwti8iu0aJh6lNOp) | [Mogul](https://open.spotify.com/artist/6sqiRzYTXxK2QixYmy3Ebz) | [Cuvry](https://open.spotify.com/album/58TIk7ubrlEopCbI01TifR) | 2:50 | 2021-07-26 | 2022-04-20 |
 | [CYNICAL](https://open.spotify.com/track/4Ykzt5EPr1Urpq07BT7w5U) | [Hekler](https://open.spotify.com/artist/4FoQJyBgyhdDCb1wdEgNZh), [Joe Bills](https://open.spotify.com/artist/1W0jgt0r6ladSy83zw9Ik4) | [CYNICAL](https://open.spotify.com/album/26uvkNDrhstsv0ULMVKnYv) | 3:29 | 2021-07-26 | 2022-04-20 |
@@ -318,6 +318,7 @@
 | [Taco](https://open.spotify.com/track/1wg19chzByanxCC8mKc8SI) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Taco](https://open.spotify.com/album/6h1HyaWLQ9nRK2cOkkG8FF) | 2:24 | 2022-04-11 | 2022-07-31 |
 | [Take It All](https://open.spotify.com/track/2sBRjpaBeItdrjSYLkyYQA) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE), [Blush'ko](https://open.spotify.com/artist/2HIOco7R2mZPqBSL2SMIFw) | [Take It All](https://open.spotify.com/album/1IiZCWnjMVoddY6aPZAWTU) | 3:07 | 2021-07-26 | 2022-07-31 |
 | [Take Me Away](https://open.spotify.com/track/6cumYyZofMhY7aZJwP03po) | [LUCATI](https://open.spotify.com/artist/6l6CFc2kr864voPxTDcYZn), [Steven Klavier](https://open.spotify.com/artist/6afCqX5uThiL23gPSBF4Pt) | [Take Me Away / Kol Me](https://open.spotify.com/album/6i0d3h2reicyIqCaDjJIFw) | 3:10 | 2021-07-26 | 2022-04-20 |
+| [Take You Higher \- Serebii & Arjuna Oakes Remix](https://open.spotify.com/track/4fwlAd50vwI7q8KvzVPy6E) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R), [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms), [Arjuna Oakes](https://open.spotify.com/artist/724Bei6TsAHJYvnLHGdEAF) | [Take You Higher \(Serebii & Arjuna Oakes Remix\)](https://open.spotify.com/album/3qRv6l2iSQNduRxZ4AS4OD) | 4:20 | 2022-08-19 |  |
 | [Talk To Me Nice](https://open.spotify.com/track/0k4C2siRScZQAb7eIEQDI5) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Talk To Me Nice](https://open.spotify.com/album/47SFbNznLU50PNraq3mIdn) | 3:49 | 2023-08-04 |  |
 | [Team Rocket](https://open.spotify.com/track/10xhG0HqLnytkORw4UqWp8) | [Voda Fuji](https://open.spotify.com/artist/5jEpeMsWMRhprOFhAkIWIO) | [Team Rocket](https://open.spotify.com/album/0m4klYKGQe0EvisH02K7oW) | 2:49 | 2021-08-20 | 2022-04-21 |
 | [Teen Scene feat\. Buddy](https://open.spotify.com/track/7rNjupJkjsc3ANGeW0RCYj) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Teen Scene feat\. Buddy](https://open.spotify.com/album/3bLZlNsCcoc4Ih0FtqPvkF) | 4:10 | 2021-07-26 | 2022-07-29 |

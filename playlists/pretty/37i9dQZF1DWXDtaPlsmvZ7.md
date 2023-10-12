@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 
 > A mover el cucu con estas cadenciosas versiones cumbiatizadas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,921 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,867 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 18 | [La Ladrona](https://open.spotify.com/track/5jNMs2N5L3T4zRdlImX1nz) | [Grupo Cañaveral De Humberto Pabón](https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7), [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P) | [Disco Cumbia México \(2\)](https://open.spotify.com/album/2aDLfd5FysnODAzaOKZSTY) | 3:47 |
 | 19 | [Otra Como Tu](https://open.spotify.com/track/1LlYzxmXryWRhsysqp47gs) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Otra Como Tu](https://open.spotify.com/album/34ueWBDKQLBpK13ocfEZVX) | 3:40 |
 | 20 | [Me Vas a Extrañar \- En Vivo](https://open.spotify.com/track/3CACzG9I3AoKUKA3ODE5zW) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1) | [Me Vas a Extrañar \(En Vivo\)](https://open.spotify.com/album/628CD4iCvk1Q325ErHXq53) | 3:58 |
-| 21 | [Y Como Es Él](https://open.spotify.com/track/0KCwPtLRb2aGxAQ4qjTRdK) | [Sonora Skandalo](https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i) | [Éxitos de Oro](https://open.spotify.com/album/6BnHNHGHD9QCcUcpJFZn6A) | 3:16 |
-| 22 | [Mentirosa](https://open.spotify.com/track/0HXEzIjsvi8togdqeMgiNs) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Mentirosa](https://open.spotify.com/album/6EYYHWFcAckjccdpu5J1RE) | 4:22 |
+| 21 | [Mentirosa](https://open.spotify.com/track/0HXEzIjsvi8togdqeMgiNs) | [Los Socios Del Ritmo](https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW), [Elefante](https://open.spotify.com/artist/5oYHL2SijkMY52gKIhYJNb) | [Mentirosa](https://open.spotify.com/album/6EYYHWFcAckjccdpu5J1RE) | 4:22 |
+| 22 | [Y Como Es Él](https://open.spotify.com/track/0KCwPtLRb2aGxAQ4qjTRdK) | [Sonora Skandalo](https://open.spotify.com/artist/60El5gpHTkzTCmrNz0VG7i) | [Éxitos de Oro](https://open.spotify.com/album/6BnHNHGHD9QCcUcpJFZn6A) | 3:16 |
 | 23 | [Amnesia](https://open.spotify.com/track/1TyGQ2z0wpmlKybtnTAC4d) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA), [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77) | [A2Í 5Uena!, Vol 2](https://open.spotify.com/album/2Fbw8FPgMnce7PN46CAjNW) | 4:52 |
 | 24 | [De los Besos Que Te Di](https://open.spotify.com/track/6IPYskK5xGPGyxmA1yuoRs) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1) | [De los Besos Que Te Di](https://open.spotify.com/album/2CoAYWDIDeKHaUswbc9fws) | 3:06 |
 | 25 | [La Chica de Humo](https://open.spotify.com/track/5oOykQYu8olJbG4xA4wW7p) | [Los Siete Latinos](https://open.spotify.com/artist/5au5rwkZfDh9KsdtZGd860) | [La Chica de Humo](https://open.spotify.com/album/3MCNJYWUOOsPBV7buv8Tis) | 4:05 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDtaPlsmvZ7.md) - [plain]
 | 74 | [Bidi Bidi Bom Bom](https://open.spotify.com/track/5rb3whySuw8zcp0HtUVeEO) | [Musicalísimo Fuego Indio](https://open.spotify.com/artist/0rH58cEKLQvObKk2mR7rZN) | [Retro Con](https://open.spotify.com/album/3lbfNpHzH7PMTgmwYJpwHt) | 3:25 |
 | 75 | [Clavado en un Bar](https://open.spotify.com/track/41OhLBVZ1vhQSbw7WDfcAq) | [El Combo Loco](https://open.spotify.com/artist/1xWqDlS9XUQQlKzbm4dWEn) | [El Combo Loco](https://open.spotify.com/album/37AK87c1LWBvaSNoBI0jNO) | 3:21 |
 
-Snapshot ID: `MCxhMmE0MWI5ZmU1ZmZkODAyNGQ3MTRkMTk1NTkzYjQxZDlmMmViZDc0`
+Snapshot ID: `MCwyM2JiNTkwYmIyNjM0YWFlZGFlMTc4MGRmN2U5MTY0ZmE2OGY0N2Vk`

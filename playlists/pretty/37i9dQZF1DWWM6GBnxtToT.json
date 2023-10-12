@@ -1,12 +1,12 @@
 {
   "description": "Diese Songs zaubern dir ein Grinsen ins Gesicht.",
-  "num_followers": 576847,
+  "num_followers": 576672,
   "original_name": "Feelgood Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4OWQ5MTgxZGJlNWExMTdkYmIxN2E1NDU1Yzk4Y2IwMDkxMDVkMWYy",
+  "snapshot_id": "MCwyYjQwNjNhMDM1MTA5NjY5M2MzMjE1MGFmNGNkYWJmNmNkNTNlMGE3",
   "tracks": [
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/0uJ1vzYedMJ8ASp1TFQyEr"
-      },
-      "artists": [
-        {
-          "name": "Mighty Oaks",
-          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
-        }
-      ],
-      "duration_ms": 192109,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/6HSEHDSU9XmdxheOyQBn1I"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "A-Train",
         "url": "https://open.spotify.com/album/1b4ZTZJK7Ny6TxPkSUq3u1"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 215307,
       "name": "A-Train - Edit",
       "url": "https://open.spotify.com/track/0WeLpRHrzZcmpMrppqPnnp"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/0uJ1vzYedMJ8ASp1TFQyEr"
+      },
+      "artists": [
+        {
+          "name": "Mighty Oaks",
+          "url": "https://open.spotify.com/artist/5AVJt6VYXT4hMRP8D3MRAC"
+        }
+      ],
+      "duration_ms": 192109,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/6HSEHDSU9XmdxheOyQBn1I"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1087,18 +1087,22 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Right There",
-        "url": "https://open.spotify.com/album/2oBZsMGLHyBtI7xDnmaunz"
+        "name": "Sabada",
+        "url": "https://open.spotify.com/album/73JoE5TQ7DiMbRCrbKD7uD"
       },
       "artists": [
         {
-          "name": "Cassia",
-          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
+          "name": "filous",
+          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
+        },
+        {
+          "name": "Da\u00f0i Freyr",
+          "url": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
         }
       ],
-      "duration_ms": 182936,
-      "name": "Right There",
-      "url": "https://open.spotify.com/track/5oXj6bEvSt0piiMFZc8gpE"
+      "duration_ms": 225467,
+      "name": "Sabada",
+      "url": "https://open.spotify.com/track/6bDu7PiUOUuXrviwss6aJD"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1119,22 +1123,18 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Sabada",
-        "url": "https://open.spotify.com/album/73JoE5TQ7DiMbRCrbKD7uD"
+        "name": "Right There",
+        "url": "https://open.spotify.com/album/2oBZsMGLHyBtI7xDnmaunz"
       },
       "artists": [
         {
-          "name": "filous",
-          "url": "https://open.spotify.com/artist/2IjiuEObrCKyZvSb8xLxG9"
-        },
-        {
-          "name": "Da\u00f0i Freyr",
-          "url": "https://open.spotify.com/artist/3Hb64DQZIhDCgyHKrzBXOL"
+          "name": "Cassia",
+          "url": "https://open.spotify.com/artist/2413I9w4sRbBz4zi5zgwjX"
         }
       ],
-      "duration_ms": 225467,
-      "name": "Sabada",
-      "url": "https://open.spotify.com/track/6bDu7PiUOUuXrviwss6aJD"
+      "duration_ms": 182936,
+      "name": "Right There",
+      "url": "https://open.spotify.com/track/5oXj6bEvSt0piiMFZc8gpE"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Like You",
-        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
-      },
-      "artists": [
-        {
-          "name": "Razz",
-          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
-        }
-      ],
-      "duration_ms": 173239,
-      "name": "Like You",
-      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Morning Dew",
         "url": "https://open.spotify.com/album/5gBPWslCH79q5c6KTDTWyp"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 159454,
       "name": "Morning Dew",
       "url": "https://open.spotify.com/track/4fBdT1O7ZjTdLmMwAB4rgg"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Like You",
+        "url": "https://open.spotify.com/album/0Txd0TwGHw0P5yRz55u2u6"
+      },
+      "artists": [
+        {
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+        }
+      ],
+      "duration_ms": 173239,
+      "name": "Like You",
+      "url": "https://open.spotify.com/track/2xEtiBJ85GNhC3h3JNV4ET"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Mirage Morning",
-        "url": "https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ"
-      },
-      "artists": [
-        {
-          "name": "Shelter Boy",
-          "url": "https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV"
-        }
-      ],
-      "duration_ms": 162755,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "Aloe Vera (Clear My Mind)",
         "url": "https://open.spotify.com/album/7aSuxssLIMyYXvQYUO9wP5"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 163327,
       "name": "Aloe Vera (Clear My Mind)",
       "url": "https://open.spotify.com/track/0dBDy91oZQOe4fnpQlhgID"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Mirage Morning",
+        "url": "https://open.spotify.com/album/6uqxzoRQg50XPMg9Xp3qrJ"
+      },
+      "artists": [
+        {
+          "name": "Shelter Boy",
+          "url": "https://open.spotify.com/artist/0pTrkIFjUhNNHIV3YhtPfV"
+        }
+      ],
+      "duration_ms": 162755,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/3Du3efHO9I7VFZHiJ9nPPM"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Young Romance (Deluxe)",
-        "url": "https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg"
-      },
-      "artists": [
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 279676,
-      "name": "Falling Back",
-      "url": "https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ"
-    },
-    {
-      "added_at": "2023-08-29 08:42:33",
-      "album": {
         "name": "hunger",
         "url": "https://open.spotify.com/album/0POoxs5GMl3mqyOi7olevg"
       },
@@ -1631,18 +1615,18 @@
     {
       "added_at": "2023-08-29 08:42:33",
       "album": {
-        "name": "Red & Blue",
-        "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
+        "name": "Young Romance (Deluxe)",
+        "url": "https://open.spotify.com/album/6T80Oi2lqkE0cJb6QKHFvg"
       },
       "artists": [
         {
-          "name": "Razz",
-          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+          "name": "Roosevelt",
+          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
         }
       ],
-      "duration_ms": 213418,
-      "name": "Red & Blue",
-      "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
+      "duration_ms": 279676,
+      "name": "Falling Back",
+      "url": "https://open.spotify.com/track/4cp190Wab4szwfZKSoZKJJ"
     },
     {
       "added_at": "2023-08-29 08:42:33",
@@ -1659,6 +1643,22 @@
       "duration_ms": 184706,
       "name": "Mojito",
       "url": "https://open.spotify.com/track/4RHnFylLAjQXPHIuZZE1bx"
+    },
+    {
+      "added_at": "2023-08-29 08:42:33",
+      "album": {
+        "name": "Red & Blue",
+        "url": "https://open.spotify.com/album/4LwCWinuYbTmzTBuiXQsU7"
+      },
+      "artists": [
+        {
+          "name": "Razz",
+          "url": "https://open.spotify.com/artist/4C7xdu7M6QHh7HqmiyJoTu"
+        }
+      ],
+      "duration_ms": 213418,
+      "name": "Red & Blue",
+      "url": "https://open.spotify.com/track/3bmhQ0lxeJeLDe8ElVLOND"
     },
     {
       "added_at": "2023-08-29 08:42:33",

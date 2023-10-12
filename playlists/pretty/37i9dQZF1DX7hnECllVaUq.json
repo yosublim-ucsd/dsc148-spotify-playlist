@@ -1,12 +1,12 @@
 {
   "description": "The biggest hits from country artists around the globe. Cover: Jade Eagleson",
-  "num_followers": 37133,
+  "num_followers": 37288,
   "original_name": "Country Worldwide",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwzMWRjMzg2MTk3NzRjMDU4MDgzOTY2YmYyNTgzZTFmZmQ5YjU3OGY2",
+  "snapshot_id": "MCxhMzAxYjU0YjUxZjliYWFmYjlmMTlhNGExZDUxNjRhMmEyZjEzNmJl",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Tailgates & Tanlines",
-        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
+        "name": "Purgatory",
+        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
       },
       "artists": [
         {
-          "name": "Luke Bryan",
-          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+          "name": "Tyler Childers",
+          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
         }
       ],
-      "duration_ms": 225560,
-      "name": "Country Girl (Shake It For Me)",
-      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
+      "duration_ms": 183533,
+      "name": "Lady May",
+      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -847,18 +847,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Purgatory",
-        "url": "https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz"
+        "name": "Tailgates & Tanlines",
+        "url": "https://open.spotify.com/album/5IyIjKnGkQbYGVpWenblSe"
       },
       "artists": [
         {
-          "name": "Tyler Childers",
-          "url": "https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV"
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
         }
       ],
-      "duration_ms": 183533,
-      "name": "Lady May",
-      "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
+      "duration_ms": 225560,
+      "name": "Country Girl (Shake It For Me)",
+      "url": "https://open.spotify.com/track/0JbSghVDghtFEurrSO8JrC"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1275,6 +1275,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Coal",
+        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
+      },
+      "artists": [
+        {
+          "name": "Dylan Gossett",
+          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+        }
+      ],
+      "duration_ms": 194440,
+      "name": "Coal",
+      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Flower Shops (feat. Morgan Wallen)",
         "url": "https://open.spotify.com/album/5gdgH8d7W2KwkK03Ea0vpi"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 214405,
       "name": "Flower Shops (feat. Morgan Wallen)",
       "url": "https://open.spotify.com/track/2ccuOtUjIyx3tPcsnpeBzJ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "5 Foot 9",
-        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
-      },
-      "artists": [
-        {
-          "name": "Tyler Hubbard",
-          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
-        }
-      ],
-      "duration_ms": 189780,
-      "name": "5 Foot 9",
-      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1331,18 +1331,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Tennessee Orange",
-        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
+        "name": "5 Foot 9",
+        "url": "https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr"
       },
       "artists": [
         {
-          "name": "Megan Moroney",
-          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
+          "name": "Tyler Hubbard",
+          "url": "https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V"
         }
       ],
-      "duration_ms": 223119,
-      "name": "Tennessee Orange",
-      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
+      "duration_ms": 189780,
+      "name": "5 Foot 9",
+      "url": "https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Coal",
-        "url": "https://open.spotify.com/album/5c5a2dLd2qLVN5zlaOcKJQ"
+        "name": "Tennessee Orange",
+        "url": "https://open.spotify.com/album/1cdfMISICAlFDByLA2PYe3"
       },
       "artists": [
         {
-          "name": "Dylan Gossett",
-          "url": "https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x"
+          "name": "Megan Moroney",
+          "url": "https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0"
         }
       ],
-      "duration_ms": 194440,
-      "name": "Coal",
-      "url": "https://open.spotify.com/track/4dtIxANFBU6CfhI9c2hf2g"
+      "duration_ms": 223119,
+      "name": "Tennessee Orange",
+      "url": "https://open.spotify.com/track/3fl4zil6HJ0N1FL3YIRwdC"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
-      },
-      "artists": [
-        {
-          "name": "Kip Moore",
-          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
-        }
-      ],
-      "duration_ms": 215920,
-      "name": "Hey Pretty Girl",
-      "url": "https://open.spotify.com/track/75p6fgACKYIyIhsoG411SZ"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Love,Heartbreak, & Everything in Between",
         "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 198208,
       "name": "Somebody Like That",
       "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/191BU6Uvnf7oNTjO4n36Yu"
+      },
+      "artists": [
+        {
+          "name": "Kip Moore",
+          "url": "https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM"
+        }
+      ],
+      "duration_ms": 215920,
+      "name": "Hey Pretty Girl",
+      "url": "https://open.spotify.com/track/75p6fgACKYIyIhsoG411SZ"
     },
     {
       "added_at": "2023-09-29 04:00:00",

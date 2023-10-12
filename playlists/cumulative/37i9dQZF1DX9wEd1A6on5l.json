@@ -2081,6 +2081,28 @@
     },
     {
       "album": {
+        "name": "EZIOKWU",
+        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194400,
+      "name": "FIREGUN (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/5VF45DoQu9oT7Se5ieLoZk"
+    },
+    {
+      "album": {
         "name": "Me Muevo Con Dios",
         "url": "https://open.spotify.com/album/7yvmtCjHcBe9DqIVl7AwQT"
       },
@@ -4148,7 +4170,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 120439,
       "name": "PARIWO",
       "url": "https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9"

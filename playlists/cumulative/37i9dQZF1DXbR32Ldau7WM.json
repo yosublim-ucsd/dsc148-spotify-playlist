@@ -6702,7 +6702,7 @@
     {
       "album": {
         "name": "Say My Name",
-        "url": "https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6"
+        "url": "https://open.spotify.com/album/0Z1B02ZtMcAtgluiIWZTMB"
       },
       "artists": [
         {
@@ -6713,6 +6713,24 @@
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 108980,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/06YNVx8q2zF84s8SfGbxMC"
+    },
+    {
+      "album": {
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/25nYwRoD4LAWtvCqcgtVm6"
+      },
+      "artists": [
+        {
+          "name": "HEY-SMITH",
+          "url": "https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
       "duration_ms": 108980,
       "name": "Say My Name",
       "url": "https://open.spotify.com/track/0j0GW5mzmOk4upfkXzdNOM"

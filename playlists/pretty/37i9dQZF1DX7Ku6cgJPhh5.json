@@ -1,12 +1,12 @@
 {
   "description": "Amp up your commute with these rock hits. Cover: The Smashing Pumpkins",
-  "num_followers": 474922,
+  "num_followers": 474888,
   "original_name": "Rock Drive",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxkMmRlNzJmNTM4NTY3NWNlYjAxZTk4N2MwNDMxYzMyZDQ4ZTE5N2Zl",
+  "snapshot_id": "MCxmNjNmOTY5NWNhOTA1ZGQyY2JkYTAxNDRhMmIxMTBiYWY0ZDAwNDll",
   "tracks": [
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
+        "name": "Ten Thousand Fists",
+        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 245226,
+      "name": "Stricken",
+      "url": "https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
         "name": "Trapt",
         "url": "https://open.spotify.com/album/4jd0qgZ4gaHW6b0lgpZKWk"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 186813,
       "name": "Hero",
       "url": "https://open.spotify.com/track/4CbKVDZkYKdv69I4bCaKUq"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
-        "name": "Ten Thousand Fists",
-        "url": "https://open.spotify.com/album/0Te7OvzuUMnbsqCneIDUm6"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 245226,
-      "name": "Stricken",
-      "url": "https://open.spotify.com/track/6RJdYpFQwLyNfDc5FbjkgV"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 216760,
-      "name": "She Hates Me",
-      "url": "https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Disobey",
         "url": "https://open.spotify.com/album/3jyiDkqTq16C8PHqAZu6oe"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 254805,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/5d8Wq39QLT6OQWsY9paz5n"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 216760,
+      "name": "She Hates Me",
+      "url": "https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
-        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
-      },
-      "artists": [
-        {
-          "name": "The Presidents Of The United States Of America",
-          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
-        }
-      ],
-      "duration_ms": 134200,
-      "name": "Lump",
-      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Crossfade",
         "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 194226,
       "name": "Cold",
       "url": "https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "The Presidents of The United States of America: Ten Year Super Bonus Special Anniversary Edition",
+        "url": "https://open.spotify.com/album/7qh8188T5LB7bdCBlk6SO1"
+      },
+      "artists": [
+        {
+          "name": "The Presidents Of The United States Of America",
+          "url": "https://open.spotify.com/artist/1lZvg4fNAqHoj6I9N8naBM"
+        }
+      ],
+      "duration_ms": 134200,
+      "name": "Lump",
+      "url": "https://open.spotify.com/track/02ZdZqhpfrPnxwyakXgxB8"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Insomniac",
-        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 193000,
-      "name": "Brain Stew",
-      "url": "https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa"
-    },
-    {
-      "added_at": "2023-09-29 04:00:00",
-      "album": {
         "name": "Dear Agony",
         "url": "https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 216733,
       "name": "I Will Not Bow",
       "url": "https://open.spotify.com/track/2yXyz4NLTZx9CLdXfLTp5E"
+    },
+    {
+      "added_at": "2023-09-29 04:00:00",
+      "album": {
+        "name": "Insomniac",
+        "url": "https://open.spotify.com/album/7d3nOmFvL51roNElAdpi9d"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 193000,
+      "name": "Brain Stew",
+      "url": "https://open.spotify.com/track/1nLnpLXvl68RZCSjfkyiaa"
     },
     {
       "added_at": "2023-09-29 04:00:00",
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2023-09-29 04:00:00",
       "album": {
-        "name": "Document (R.E.M. No. 5)",
-        "url": "https://open.spotify.com/album/6gMv3MgFlieOM6Uz5GZBzy"
+        "name": "The Open Door",
+        "url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
       },
       "artists": [
         {
-          "name": "R.E.M.",
-          "url": "https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg"
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
         }
       ],
-      "duration_ms": 246933,
-      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
-      "url": "https://open.spotify.com/track/2oSpQ7QtIKTNFfA08Cy0ku"
+      "duration_ms": 214706,
+      "name": "Call Me When You're Sober",
+      "url": "https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"
     }
   ],
   "unique_name": "Rock Drive",

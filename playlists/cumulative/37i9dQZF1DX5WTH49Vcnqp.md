@@ -4,7 +4,7 @@
 
 > Music that's hard to define but easy to love\. Cover: JACOTÉNE
 
-1,106 songs - 2 day 14 hr 42 min
+1,107 songs - 2 day 14 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -300,7 +300,8 @@
 | [Energy](https://open.spotify.com/track/5MKNjfIpldYwoMIn3xRbQh) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 3:14 | 2023-10-05 |  |
 | [ESCAPE \(feat\. KUČKA\)](https://open.spotify.com/track/3zRdNrpHq89K6P28shuM0w) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [QUIET BISON](https://open.spotify.com/artist/5PmmaiHnrygDvhj3kaPT0f), [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw) | [ESCAPE / Palaces](https://open.spotify.com/album/4UEVQIXGTVlAZWIZsnPVp1) | 4:02 | 2022-04-28 | 2022-06-24 |
 | [Especially You](https://open.spotify.com/track/1prCMVGhgKF805LZJhFIHe) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Especially You](https://open.spotify.com/album/6GdntthLLMwjMcKiv4b70R) | 3:01 | 2022-02-03 | 2022-03-25 |
-| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-08-31 |  |
+| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/3YQHgTo0898GHXRC2byH52) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:48 | 2023-10-11 |  |
+| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-08-31 | 2023-10-12 |
 | [Ever Since We Met](https://open.spotify.com/track/3nPFzf6sWVuTHU5fccyD71) | [BROCKHOFF](https://open.spotify.com/artist/5ZeRq1tqf4t8fcdFdjmlQZ) | [Sharks](https://open.spotify.com/album/4MxJJYvCOlCWuijbd9pp6B) | 3:31 | 2022-07-04 | 2022-08-26 |
 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 | 2022-09-19 | 2023-01-06 |
 | [Every Day's A Lesson In Humility](https://open.spotify.com/track/0rUHnNylp4QiqLOx3hL2EY) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL), [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [To Love](https://open.spotify.com/album/2FK4yXQGrYTLS1DjKavwoe) | 3:36 | 2023-06-15 | 2023-07-21 |

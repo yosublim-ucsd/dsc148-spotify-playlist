@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIqU3eEXwop.md) - [plain]
 
 > Les indispensables de l'été.
 
-[Spotify](https://open.spotify.com/user/spotify) - 189,878 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 189,851 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIqU3eEXwop.md) - [plain]
 | 21 | [Infinity \- Dubdogz & Bhaskar Edit](https://open.spotify.com/track/4ekDggjElGJX9kNSOtnbVf) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L) | [Infinity \(Dubdogz & Bhaskar Edit\)](https://open.spotify.com/album/2NWFwa4mXzXgFHMc0VGiQG) | 3:16 |
 | 22 | [More Than You Know](https://open.spotify.com/track/6h5PAsRni4IRlxWr6uDPTP) | [Axwell /\\ Ingrosso](https://open.spotify.com/artist/2XnBwblw31dfGnspMIwgWz) | [More Than You Know](https://open.spotify.com/album/6Ei5WWek37m1x9AjpSXTcJ) | 3:23 |
 | 23 | [Ferrari](https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Miggy Dela Rosa](https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU) | [Ferrari](https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8) | 3:06 |
-| 24 | [Jerusalema \(feat\. Nomcebo Zikode\) \- Edit](https://open.spotify.com/track/3ig8Zzc0TgQbtJZbctWHZa) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema \(feat\. Nomcebo Zikode\) \[Edit\]](https://open.spotify.com/album/5mM6sIcH4i5itpZpEdaexw) | 3:08 |
+| 24 | [Jerusalema \(Edit\)](https://open.spotify.com/track/0CpC1Xjs41msNw2lEvW7hp) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Dance Hits](https://open.spotify.com/album/0rnzZsF6qyaM8m135kDBrk) | 3:08 |
 | 25 | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NEIMY](https://open.spotify.com/artist/71Dhj822M1LGpuryPIV2KO) | [Dancing In The Moonlight \(feat\. NEIMY\)](https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8) | 2:44 |
 | 26 | [Moon \(And It Went Like\)](https://open.spotify.com/track/20HCH8XT2EK1QYe1loAJ8E) | [Kid Francescoli](https://open.spotify.com/artist/2G7QgTep5IsJHGHm1hXygD), [Julia Minkin](https://open.spotify.com/artist/63fbQTZ9yW3SUsBRYcn1Wm) | [Play Me Again](https://open.spotify.com/album/54vSb9255iZKykjuytWbZh) | 6:30 |
 | 27 | [Quanto Tempo \(with Victor Flash\)](https://open.spotify.com/track/3f5eXxFdnV4xppMhH4IC5r) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Victor Flash](https://open.spotify.com/artist/1IEF03NP5cb0XuOBpfxZXg), [Adela Jens](https://open.spotify.com/artist/3n2VXz6FfVZJp30KywlrRL) | [Club Azur](https://open.spotify.com/album/0LAO0Lz7P7nO3MpRiQZBLL) | 4:06 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIqU3eEXwop.md) - [plain]
 | 49 | [Never Going Home](https://open.spotify.com/track/0xfMlIW8lS40qvpsUw1l0X) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Never Going Home](https://open.spotify.com/album/3M2ev0LMKExe0Y9HaNrkfA) | 2:49 |
 | 50 | [Seve \- Radio Edit](https://open.spotify.com/track/6UqRGwjwYL0stXbaodTxwo) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb) | [Seve \(Radio Edit\)](https://open.spotify.com/album/40d8W7uNHGeih483QVvLu4) | 3:30 |
 
-Snapshot ID: `MCxhZTdiN2U2ZjczMjQ0NTJhMDE5NDQzODY1ZGM5Njk2ZjQxYjk3MGU1`
+Snapshot ID: `MCxjMzczZTU4ODY1NWI4OTU1MDVlZDMxZmFjYzhjMWFlNjNiMmY2ZjNh`

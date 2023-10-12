@@ -1,12 +1,12 @@
 {
   "description": "Pega o gelo de coco, chama o bonde e vem pra festa. Foto: Major RD",
-  "num_followers": 124290,
+  "num_followers": 124353,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0ZGNhZDY1MGExOThmNDdiYzMzNzJkZTRhNjY5NDA1MmUwZjI5ZDBj",
+  "snapshot_id": "MCw3ZjdiM2U3MmYwNTlmNTYyNDJjYWEwZGNmMDlmNDQ3MzQ0YTk5OTM1",
   "tracks": [
     {
       "added_at": "2023-10-06 03:03:00",
@@ -951,6 +951,30 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
+        "name": "Pensamento (feat. Vulgo FK)",
+        "url": "https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Vulgo FK",
+          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Pensamento (feat. Vulgo FK)",
+      "url": "https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
         "name": "EVDC DELUXE",
         "url": "https://open.spotify.com/album/5BySpyh1QS9qQwHv1Ujaq4"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 213333,
       "name": "RIP POP",
       "url": "https://open.spotify.com/track/3gcNVS47VjDSV32Y9VnuNK"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
-        "name": "Pensamento (feat. Vulgo FK)",
-        "url": "https://open.spotify.com/album/0Rk31jH5MgzHWooYfbxFfO"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Vulgo FK",
-          "url": "https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Pensamento (feat. Vulgo FK)",
-      "url": "https://open.spotify.com/track/5vCny6yiR8TlDe3hkvqd6z"
     },
     {
       "added_at": "2023-10-06 03:03:00",
@@ -1147,6 +1147,30 @@
     {
       "added_at": "2023-10-06 03:03:00",
       "album": {
+        "name": "Novinha do Peito Bicudo",
+        "url": "https://open.spotify.com/album/0xauDsRaLwPZzkLSWYXbWa"
+      },
+      "artists": [
+        {
+          "name": "Emit\u00ea \u00danico",
+          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
+        },
+        {
+          "name": "6ee",
+          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
+        },
+        {
+          "name": "Salve Crazy",
+          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
+        }
+      ],
+      "duration_ms": 177230,
+      "name": "Novinha do Peito Bicudo",
+      "url": "https://open.spotify.com/track/48t7p44DDZoJpHq0NDgGdG"
+    },
+    {
+      "added_at": "2023-10-06 03:03:00",
+      "album": {
         "name": "24 por 48",
         "url": "https://open.spotify.com/album/79joqzdkoCRIGtHGiBt8PB"
       },
@@ -1171,30 +1195,6 @@
       "duration_ms": 180923,
       "name": "24 por 48",
       "url": "https://open.spotify.com/track/22akDLsI3H34M0Lc4upxKJ"
-    },
-    {
-      "added_at": "2023-10-06 03:03:00",
-      "album": {
-        "name": "Novinha do Peito Bicudo",
-        "url": "https://open.spotify.com/album/0xauDsRaLwPZzkLSWYXbWa"
-      },
-      "artists": [
-        {
-          "name": "Emit\u00ea \u00danico",
-          "url": "https://open.spotify.com/artist/4z8ieq95PTFrqoxYhozY75"
-        },
-        {
-          "name": "6ee",
-          "url": "https://open.spotify.com/artist/44sYX4gwGmUZBnNT2AZTPW"
-        },
-        {
-          "name": "Salve Crazy",
-          "url": "https://open.spotify.com/artist/3eegqYNOBDWAuQME8S5W1q"
-        }
-      ],
-      "duration_ms": 177230,
-      "name": "Novinha do Peito Bicudo",
-      "url": "https://open.spotify.com/track/48t7p44DDZoJpHq0NDgGdG"
     },
     {
       "added_at": "2023-10-06 03:03:00",

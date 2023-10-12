@@ -1,12 +1,12 @@
 {
   "description": "Instrumental bliss beyond genre classification.",
-  "num_followers": 457909,
+  "num_followers": 457857,
   "original_name": "Genre Glitch",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWY2MzcxNTZmNmMzNjFlMjg3MjdmYTA5MzZlNWRjZWI2MzZmYmY3",
+  "snapshot_id": "MCw1MTU3MWUxYTFkMjBjNzc5NGEwYWRiYTEwMjU5ZDhiNGQyMzE3ZmJm",
   "tracks": [
     {
       "added_at": "2023-10-10 02:44:22",
@@ -189,6 +189,22 @@
       "url": "https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x"
     },
     {
+      "added_at": "2022-12-07 00:43:07",
+      "album": {
+        "name": "Forest Theory",
+        "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
+      },
+      "artists": [
+        {
+          "name": "Ricky Bamboo",
+          "url": "https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD"
+        }
+      ],
+      "duration_ms": 231648,
+      "name": "Universal Sound",
+      "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
+    },
+    {
       "added_at": "2023-07-28 21:29:53",
       "album": {
         "name": "Zero to Sixty",
@@ -207,22 +223,6 @@
       "duration_ms": 288000,
       "name": "Zero to Sixty",
       "url": "https://open.spotify.com/track/0WSMGjQGf1WJvAPpbx1Efn"
-    },
-    {
-      "added_at": "2022-12-07 00:43:07",
-      "album": {
-        "name": "Forest Theory",
-        "url": "https://open.spotify.com/album/6tEb4MSz9C8l72Gk681cZ9"
-      },
-      "artists": [
-        {
-          "name": "Ricky Bamboo",
-          "url": "https://open.spotify.com/artist/5NM4Yut39GINagUVOswMzD"
-        }
-      ],
-      "duration_ms": 231648,
-      "name": "Universal Sound",
-      "url": "https://open.spotify.com/track/4CR6C67Fe6JqIqs8TvITf6"
     },
     {
       "added_at": "2023-04-12 01:28:07",
@@ -481,22 +481,6 @@
       "url": "https://open.spotify.com/track/7j15pOGVt7aHde9PWsrdCl"
     },
     {
-      "added_at": "2022-07-15 18:13:54",
-      "album": {
-        "name": "Eden Portal",
-        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
-      },
-      "artists": [
-        {
-          "name": "Otik",
-          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
-        }
-      ],
-      "duration_ms": 366500,
-      "name": "Eden Portal",
-      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
-    },
-    {
       "added_at": "2022-02-25 05:12:51",
       "album": {
         "name": "April Dub",
@@ -517,6 +501,22 @@
       "url": "https://open.spotify.com/track/0X93HjaN9zROeyew9uCOru"
     },
     {
+      "added_at": "2022-07-15 18:13:54",
+      "album": {
+        "name": "Eden Portal",
+        "url": "https://open.spotify.com/album/5MSQc9lUHv65o5sF6HTtA2"
+      },
+      "artists": [
+        {
+          "name": "Otik",
+          "url": "https://open.spotify.com/artist/6yvENIf7GmNwYnspB8UCpB"
+        }
+      ],
+      "duration_ms": 366500,
+      "name": "Eden Portal",
+      "url": "https://open.spotify.com/track/0ihmZ14TyzjrjO390cP1Oo"
+    },
+    {
       "added_at": "2022-03-30 05:37:06",
       "album": {
         "name": "Paranormal Phenomena \u2013 The Icelandic Expedition",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/5O77vZjVt78PbW6nCKItQq"
     },
     {
-      "added_at": "2022-12-07 01:09:17",
-      "album": {
-        "name": "Jump & Shuffle (Live at the Hardware Store)",
-        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
-      },
-      "artists": [
-        {
-          "name": "Kid Koala",
-          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
-        }
-      ],
-      "duration_ms": 202866,
-      "name": "Jump & Shuffle - Live at the Hardware Store",
-      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
-    },
-    {
       "added_at": "2023-01-07 02:50:03",
       "album": {
         "name": "ITSAME",
@@ -563,6 +547,22 @@
       "duration_ms": 461613,
       "name": "ITSAME [group hugg]",
       "url": "https://open.spotify.com/track/2H9n9r52CvPOTYM3WCCl82"
+    },
+    {
+      "added_at": "2022-12-07 01:09:17",
+      "album": {
+        "name": "Jump & Shuffle (Live at the Hardware Store)",
+        "url": "https://open.spotify.com/album/1uqxjNEEo4BqGcohTJ1uKb"
+      },
+      "artists": [
+        {
+          "name": "Kid Koala",
+          "url": "https://open.spotify.com/artist/2s0438sn0pYL2OuukcFqPN"
+        }
+      ],
+      "duration_ms": 202866,
+      "name": "Jump & Shuffle - Live at the Hardware Store",
+      "url": "https://open.spotify.com/track/2rL3vSTQbqpHnC5poWweIL"
     },
     {
       "added_at": "2022-07-15 05:34:07",
@@ -673,22 +673,6 @@
       "url": "https://open.spotify.com/track/6EI5sPngX6pBttwOHya9j4"
     },
     {
-      "added_at": "2022-03-30 05:10:26",
-      "album": {
-        "name": "tracing Rays [reality glo]",
-        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 262240,
-      "name": "tracing Rays [reality glo]",
-      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
-    },
-    {
       "added_at": "2023-03-03 04:19:45",
       "album": {
         "name": "VIOLENT GLARE",
@@ -721,6 +705,22 @@
       "url": "https://open.spotify.com/track/16f4s3WLYMbCtIVlyaqO89"
     },
     {
+      "added_at": "2022-03-30 05:10:26",
+      "album": {
+        "name": "tracing Rays [reality glo]",
+        "url": "https://open.spotify.com/album/2A7WqlhXWnDCK84hqsnWGY"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 262240,
+      "name": "tracing Rays [reality glo]",
+      "url": "https://open.spotify.com/track/4YTXY7Ze4njWYH4nDutz4q"
+    },
+    {
       "added_at": "2022-04-12 02:09:40",
       "album": {
         "name": "Minena",
@@ -751,22 +751,6 @@
       "duration_ms": 334798,
       "name": "Circuitous",
       "url": "https://open.spotify.com/track/6vu6oVaFUJkHt49OeoaO3k"
-    },
-    {
-      "added_at": "2022-01-19 22:44:25",
-      "album": {
-        "name": "Fwd: Re: late (Ref.: karoshi)",
-        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
-      },
-      "artists": [
-        {
-          "name": "Brainwaltzera",
-          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
-        }
-      ],
-      "duration_ms": 361386,
-      "name": "Fwd: Re: late (Ref.: karoshi)",
-      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     },
     {
       "added_at": "2022-12-20 19:12:56",
@@ -807,6 +791,22 @@
       "duration_ms": 252601,
       "name": "Desert Viper",
       "url": "https://open.spotify.com/track/07Ee8FQCrmxyseMqszOATP"
+    },
+    {
+      "added_at": "2022-01-19 22:44:25",
+      "album": {
+        "name": "Fwd: Re: late (Ref.: karoshi)",
+        "url": "https://open.spotify.com/album/73UuLb3FaidlmvkZLe8z2s"
+      },
+      "artists": [
+        {
+          "name": "Brainwaltzera",
+          "url": "https://open.spotify.com/artist/4IexN10iBaLP2CDVLl6rDB"
+        }
+      ],
+      "duration_ms": 361386,
+      "name": "Fwd: Re: late (Ref.: karoshi)",
+      "url": "https://open.spotify.com/track/2d2IGL8Q7a4a4uKMDXOx2n"
     },
     {
       "added_at": "2023-03-03 04:17:23",

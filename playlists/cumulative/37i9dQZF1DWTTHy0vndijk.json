@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: IVE(\uc544\uc774\ube0c) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: LIGHTSUM(\ub77c\uc787\uc378) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -2367,6 +2367,24 @@
     },
     {
       "album": {
+        "name": "Honey or Spice",
+        "url": "https://open.spotify.com/album/6hitia8vt8qpcodlQ17S0G"
+      },
+      "artists": [
+        {
+          "name": "LIGHTSUM",
+          "url": "https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182746,
+      "name": "Honey or Spice",
+      "url": "https://open.spotify.com/track/1HHUeCHpCsZc64LNHzKPNA"
+    },
+    {
+      "album": {
         "name": "How Come",
         "url": "https://open.spotify.com/album/47auHySKFWcInG4hDJTWAi"
       },
@@ -2580,6 +2598,24 @@
       "duration_ms": 185720,
       "name": "In the Same Place",
       "url": "https://open.spotify.com/track/5Fkxps5UUaYg2jANR5SlOl"
+    },
+    {
+      "album": {
+        "name": "EVOLution <\u27e1>",
+        "url": "https://open.spotify.com/album/3Y0JJMZ92U2D5zKGQDfkH5"
+      },
+      "artists": [
+        {
+          "name": "tripleS",
+          "url": "https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197386,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/3FWXkGqJx0giJzQNqkcK74"
     },
     {
       "album": {
@@ -3113,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "Love Me Back (From \"Operation: True Love\")",
+        "url": "https://open.spotify.com/album/27pVj89kJGZkJfgNbGqGY9"
+      },
+      "artists": [
+        {
+          "name": "fromis_9",
+          "url": "https://open.spotify.com/artist/24nUVBIlCGi4twz4nYxJum"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186293,
+      "name": "Love Me Back",
+      "url": "https://open.spotify.com/track/2IMPPA9UZpqTnnVIy9lDHU"
+    },
+    {
+      "album": {
         "name": "Bare&Rare, Pt. 1",
         "url": "https://open.spotify.com/album/0fgLDYoqdQw5bhzPFWvclR"
       },
@@ -3628,7 +3682,7 @@
       ],
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 193579,
       "name": "NAVILLERA",
       "url": "https://open.spotify.com/track/2Oi0IO8K4BEbhPUdWcjNmv"
@@ -4868,7 +4922,7 @@
       ],
       "date_added": "2023-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 216013,
       "name": "Smooth Sailing",
       "url": "https://open.spotify.com/track/0eBKVjyBWAEpxZn6q5QdS0"
@@ -6616,7 +6670,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 206145,
       "name": "\ub108\uc5d0\uac8c \uc8fc\uace0 \uc2f6\uc740 \uc138 \uac00\uc9c0",
       "url": "https://open.spotify.com/track/6O9XDUYZ2QUW6C60xewOzG"

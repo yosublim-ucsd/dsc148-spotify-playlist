@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > The hottest hits in Japan right now\. 日本のポップシーンを彩る最新ベスト50。Cover: Vaundy
 
-[Spotify](https://open.spotify.com/user/spotify) - 837,594 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 837,925 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Phoenix](https://open.spotify.com/track/66xkvLcGdLxRfQXdO6Hui1) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Phoenix](https://open.spotify.com/album/6g9mqqicyiTqXpcDKF7bc7) | 2:42 |
 | 50 | [we can't change the world without you here](https://open.spotify.com/track/0hdRkedEkFTGfgskmYOe57) | [Quruli](https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4) | [driven by impulse](https://open.spotify.com/album/0CQuyz1VhstmZAfcvPcPf5) | 4:14 |
 
-Snapshot ID: `MCxjOGY4YzFmOTUxMTA0YWY0MGFmZWQ2NGE3N2JiZGE5Zjk5ZTBjODBl`
+Snapshot ID: `MCxhYzE0ODY1ZWQ2MmNjMDA4Y2ZmYjI4YmRlNjkwMDQ0MWNlYWE5ODdm`

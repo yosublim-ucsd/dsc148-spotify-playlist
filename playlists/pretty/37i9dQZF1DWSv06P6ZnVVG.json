@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Pa' toda la raza carnavalera!",
-  "num_followers": 22847,
+  "num_followers": 22912,
   "original_name": "Banda Carnavalera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiM2RkZmQ0ZGE3MDYwNWY0YzAwMzg5ZjdlNGE4ZWMzM2RkYjhjZWM0",
+  "snapshot_id": "MCxmZjNmYTQ1YjNjZDcyZGQzNzc2NTIwNGZmYzhlNGM0ZmI1MTA1NTA1",
   "tracks": [
     {
       "added_at": "2022-08-02 22:31:47",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "La Fiera 2018",
-        "url": "https://open.spotify.com/album/3YazfgJe5W6zZtdwdbVweg"
-      },
-      "artists": [
-        {
-          "name": "Banda Corona de Michoacan",
-          "url": "https://open.spotify.com/artist/0f5mM9qAQxnIC04LKP2VZy"
-        }
-      ],
-      "duration_ms": 218893,
-      "name": "El Pistolero - Son, Huapangobanda",
-      "url": "https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Carnavaleando con la Tierra Mojada",
         "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 156995,
       "name": "Carnavalerita",
       "url": "https://open.spotify.com/track/1uDoaYRjEPOsss80u8IKdF"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "La Fiera 2018",
+        "url": "https://open.spotify.com/album/3YazfgJe5W6zZtdwdbVweg"
+      },
+      "artists": [
+        {
+          "name": "Banda Corona de Michoacan",
+          "url": "https://open.spotify.com/artist/0f5mM9qAQxnIC04LKP2VZy"
+        }
+      ],
+      "duration_ms": 218893,
+      "name": "El Pistolero - Son, Huapangobanda",
+      "url": "https://open.spotify.com/track/3M7XEXe5lVM1jHgGrNTkUz"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -787,22 +787,6 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Son de la Raza",
-        "url": "https://open.spotify.com/album/6ySJJe2KvD1k31SKZNHsTk"
-      },
-      "artists": [
-        {
-          "name": "Banda La Mera Mera",
-          "url": "https://open.spotify.com/artist/2jAGJTtRJxHl5BH1EHZr3c"
-        }
-      ],
-      "duration_ms": 217626,
-      "name": "Son de la Raza",
-      "url": "https://open.spotify.com/track/099O9iFzWFLKSCMfCETcac"
-    },
-    {
-      "added_at": "2022-08-02 22:31:47",
-      "album": {
         "name": "Carnavaleando con la Tierra Mojada",
         "url": "https://open.spotify.com/album/5znsyujVo3YajOYUiSUdnQ"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 190171,
       "name": "Conga Conguita",
       "url": "https://open.spotify.com/track/3FJ7dZ6WXilGsBIVOoB0wB"
+    },
+    {
+      "added_at": "2022-08-02 22:31:47",
+      "album": {
+        "name": "Son de la Raza",
+        "url": "https://open.spotify.com/album/6ySJJe2KvD1k31SKZNHsTk"
+      },
+      "artists": [
+        {
+          "name": "Banda La Mera Mera",
+          "url": "https://open.spotify.com/artist/2jAGJTtRJxHl5BH1EHZr3c"
+        }
+      ],
+      "duration_ms": 217626,
+      "name": "Son de la Raza",
+      "url": "https://open.spotify.com/track/099O9iFzWFLKSCMfCETcac"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -1067,8 +1067,8 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Puros Popurris De Sones",
-        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
+        "name": "Sin Miedo Al Toro",
+        "url": "https://open.spotify.com/album/2X4uzJ9nJhpjwRyB795jar"
       },
       "artists": [
         {
@@ -1076,9 +1076,9 @@
           "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
         }
       ],
-      "duration_ms": 288072,
-      "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
-      "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
+      "duration_ms": 199420,
+      "name": "Sin Miedo Al Toro",
+      "url": "https://open.spotify.com/track/5B1R4vTA5UdFDPpcy0PckR"
     },
     {
       "added_at": "2022-08-02 22:31:47",
@@ -1183,8 +1183,8 @@
     {
       "added_at": "2022-08-02 22:31:47",
       "album": {
-        "name": "Sin Miedo Al Toro",
-        "url": "https://open.spotify.com/album/2X4uzJ9nJhpjwRyB795jar"
+        "name": "Puros Popurris De Sones",
+        "url": "https://open.spotify.com/album/2DbxbOYecqfAD3alfKSSXJ"
       },
       "artists": [
         {
@@ -1192,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/4yfxTpIJDOaXGPLta4K99K"
         }
       ],
-      "duration_ms": 199420,
-      "name": "Sin Miedo Al Toro",
-      "url": "https://open.spotify.com/track/5B1R4vTA5UdFDPpcy0PckR"
+      "duration_ms": 288072,
+      "name": "Homenaje a Un Barbaro ... Son Del Muerto / Juan Colorado / Toro De Once / Arriba Pichataro /Son De Los Chinelos /Flor De Pi\u00f1a",
+      "url": "https://open.spotify.com/track/28cM4koCwfkUIprAMLHNRd"
     },
     {
       "added_at": "2022-08-02 22:31:47",

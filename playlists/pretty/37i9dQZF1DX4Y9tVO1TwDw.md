@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 
 > A place for hyphenated Americans, creating our own identity & connecting to our roots\. Cover: Estevie
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,650 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,713 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Y9tVO1TwDw.md) - [plain]
 | 47 | [tú y yo](https://open.spotify.com/track/0Ss650In2VXxwhXy166Gu4) | [Ariel & The Culture](https://open.spotify.com/artist/2KBHBsJ99i4e8X08fRE8o4) | [buena vista!](https://open.spotify.com/album/2cKKH81TWFF4ug9t59j5Uv) | 2:55 |
 | 48 | [Papaya](https://open.spotify.com/track/4Az1TpAuG5E8dDqYjyVGUX) | [Jenny69](https://open.spotify.com/artist/7jqoLHB45Xqz6PGUnqWrYX), [Play\-N\-Skillz](https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s) | [Papaya](https://open.spotify.com/album/0FrfppDaTYpma9MXQ6qRqE) | 2:16 |
 | 49 | [QUIERO LLORAR Y NO PUEDO](https://open.spotify.com/track/3uvj97aCrgC1bGpiV5oCNm) | [eydrey](https://open.spotify.com/artist/084shETK0ucyuDz0qpCxV4) | [QUIERO LLORAR Y NO PUEDO](https://open.spotify.com/album/4Ua1w80i6Lz0yF1kc1ZQSP) | 3:21 |
-| 50 | [ATEA AL AMOR](https://open.spotify.com/track/4EiTe99n0OysiRcL17F6HM) | [Yoandri](https://open.spotify.com/artist/7uCNYKOeuyGcoxaP1Y095d) | [ATEA AL AMOR](https://open.spotify.com/album/1gwc6YNpzD9BfC1uiCoudQ) | 2:52 |
+| 50 | [GAS](https://open.spotify.com/track/22Uq8APwbxC5vTuQaxswfJ) | [Poe Leos](https://open.spotify.com/artist/6E4v4lnsSuO5SaQ4FNOWSA) | [GAS](https://open.spotify.com/album/1E9i3K2aDCotq9DN9D3ZWB) | 2:27 |
 
-Snapshot ID: `MCxjMjE2MmJjNGRkMDgwMjNkNTY0MGQ1NDk1OWU5OTE3ZTUyOTBkMWY1`
+Snapshot ID: `MCxjMzc5NzVhMjExNzkzOWFmM2RkZmZiMDhkM2FhNWM5MjhlYWQwODUx`

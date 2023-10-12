@@ -2,9 +2,9 @@
 
 ### [Fresh Finds R&B](https://open.spotify.com/playlist/37i9dQZF1DWUFAJPVM3HTX)
 
-> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/59jzOW1ygudzEJxwR7c0pv?si=PM2fKX0mRZWDIwdcgslWEg">Solomon Headen</a>\. Updates every Wednesday.
+> The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/13wBNPUEHHtM5rjD9u6BYW?si=MFWuaGKSRFCepbJ4nBSpCg">OSA</a>\. Updates every Wednesday.
 
-1,799 songs - 3 day 20 hr 36 min
+1,800 songs - 3 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1307,6 +1307,7 @@
 | [Reconnect](https://open.spotify.com/track/5RrKRyu91jJs9l2wFwg7Qp) | [Astrønne](https://open.spotify.com/artist/2DOAWdT8xBtf0aLDS5U8yN) | [Reconnect](https://open.spotify.com/album/3nfVHvD93P3r2sU7tpiZhw) | 3:26 | 2023-09-08 |  |
 | [Red Handed](https://open.spotify.com/track/61k46pWQAEEwpagctUMgry) | [pisceze](https://open.spotify.com/artist/3DmOaVvd5WgtShwcyetG3n) | [Red Handed](https://open.spotify.com/album/67mUKShwkfh8J6NACuQ85k) | 2:48 | 2022-06-09 | 2022-08-27 |
 | [Red Sky](https://open.spotify.com/track/01p4GwNTXF5XXmh3BnETeH) | [Euroz](https://open.spotify.com/artist/23qSMYgeDsJv22G2rNLVgy) | [Red Sky](https://open.spotify.com/album/6EDoA3EFZVfHkY5oe5sJCp) | 2:12 | 2022-09-21 | 2022-12-01 |
+| [redemption](https://open.spotify.com/track/0ntXnIQz8m2ED1vBqw85tr) | [BADMIND](https://open.spotify.com/artist/4qTKTDRcMPtnohoWWR1oX9) | [redemption](https://open.spotify.com/album/60rj4BVsWTGVGtXh9UveG6) | 2:18 | 2023-10-11 |  |
 | [REFILL](https://open.spotify.com/track/7kZo2VfYKAdrOyez2KtGCt) | [Puku](https://open.spotify.com/artist/2V9pDaYdBePMB9EoKkhOf9) | [REFILL](https://open.spotify.com/album/07xAxEUVVrxYwCLo7ExFt8) | 2:25 | 2022-09-21 | 2022-10-29 |
 | [Reflection](https://open.spotify.com/track/00mIHlaFieie3EYl3Y2Kgy) | [Niya Imani](https://open.spotify.com/artist/0bVtU8BClpk9HmMAUyWN0r) | [Girl, If Only He Knew](https://open.spotify.com/album/18HV5SQtXl6ummxnaKZq8e) | 4:21 | 2023-09-08 |  |
 | [Regrets](https://open.spotify.com/track/2RuOxSKuPvJmIgBEWUUTio) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [Regrets](https://open.spotify.com/album/48sL5JqeLIfdHLKtogMGWx) | 3:45 | 2022-01-19 | 2022-03-03 |

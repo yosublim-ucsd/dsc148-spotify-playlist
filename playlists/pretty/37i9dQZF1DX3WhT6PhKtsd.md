@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 
 > For those whose year was full of angst and anger \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,002 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,174 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 | 13 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/6l70xzvmZdAJnM41s0iPDD) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [f.e.a.r.](https://open.spotify.com/album/0Owl0jFW9adxA4WJVEWQZA) | 2:27 |
 | 14 | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Vegas \(From the Original Motion Picture Soundtrack ELVIS\)](https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3) | 3:02 |
 | 15 | [<maybe> it's my fault](https://open.spotify.com/track/5qMq8ITRVuTwqd2pDL0gff) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [<COPINGMECHANISM>](https://open.spotify.com/album/0oMXn0MNLNyvB4iJPZXOuV) | 2:39 |
-| 16 | [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 |
+| 16 | [Miss You \- Bonus Track](https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 3:26 |
 | 17 | [My Mother Wants Me Dead](https://open.spotify.com/track/04rzwxnFGsFYeP3rqE1s3U) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [please put me in a medically induced coma](https://open.spotify.com/album/67Yuw187UU3Gf644liBhmg) | 1:45 |
 | 18 | [FU In My Head](https://open.spotify.com/track/6BGtSuLFU0X35Igkftxqfr) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Unthinkable](https://open.spotify.com/album/1Nvd2bGAy6ofku8h1kOt16) | 2:47 |
 | 19 | [help\_urself 2](https://open.spotify.com/track/2ryoLJts8Kbzh22HCWlfKb) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [help\_urself 2](https://open.spotify.com/album/5uF1L0oqAUeBT3WdxAglJh) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3WhT6PhKtsd.md) - [plain]
 | 49 | [Doritos & Fritos](https://open.spotify.com/track/1jPPKYq1s1HhIjAiqrnRR8) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 3:16 |
 | 50 | [Cbat](https://open.spotify.com/track/1JGGsCZ9zhgPJIsPy0pwt9) | [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [Satin Panthers](https://open.spotify.com/album/7uKK7YRySFa1cXI5ICijFW) | 2:51 |
 
-Snapshot ID: `MCwwNjg5MjYwOGQ1NThlN2VjYWE0MjRlMzA5NTNkOTVkMjc0ZWEyYmRh`
+Snapshot ID: `MCxhY2NlNGJjNWUwZjZlYzVhNzE3N2QyNTVjNTkzMjExN2E5Mzc4NjBj`

@@ -1,12 +1,12 @@
 {
   "description": "Hol dir dein Lieblingscaf\u00e9 nach Hause.",
-  "num_followers": 728547,
+  "num_followers": 728067,
   "original_name": "Kaffeehausmusik",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmN2E5Yzc3ODllMTlhZGU3YjVlNGQxZjIwMWI3MDZlZjRlM2UxY2Y0",
+  "snapshot_id": "MCxmN2M4YzliOTM3OGMwNWY0ZDhkN2QwM2U1ZTdjYzFhOGYzNTdkNWRi",
   "tracks": [
     {
       "added_at": "2023-09-25 14:18:15",
@@ -207,22 +207,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Wanderlust",
-        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
-      },
-      "artists": [
-        {
-          "name": "Hollow Coves",
-          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
-        }
-      ],
-      "duration_ms": 233973,
-      "name": "Coastline",
-      "url": "https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "This Empty Northern Hemisphere",
         "url": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 217466,
       "name": "Big Black Car",
       "url": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "Wanderlust",
+        "url": "https://open.spotify.com/album/37yGR6auNK3W1XbcDYfSjw"
+      },
+      "artists": [
+        {
+          "name": "Hollow Coves",
+          "url": "https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6"
+        }
+      ],
+      "duration_ms": 233973,
+      "name": "Coastline",
+      "url": "https://open.spotify.com/track/4sDbdBjuYQVdNNB4PiHUPo"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -543,6 +543,22 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 252960,
+      "name": "Fever To The Form",
+      "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
         "name": "Geography",
         "url": "https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 261881,
       "name": "It Runs Through Me",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
-        "name": "First Mind",
-        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 252960,
-      "name": "Fever To The Form",
-      "url": "https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Into The Wild (Music For The Motion Picture)",
-        "url": "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX"
-      },
-      "artists": [
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
-        }
-      ],
-      "duration_ms": 322080,
-      "name": "Hard Sun",
-      "url": "https://open.spotify.com/track/0fzCtVM9D5UEwiLqcY8Ouq"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "Hard Settle, Ain't Troubled",
         "url": "https://open.spotify.com/album/4dslKx4DoHu7LYRZO4AhfR"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 203869,
       "name": "Portland, Maine",
       "url": "https://open.spotify.com/track/12niARgkwxGsklcEwh6GlG"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "Into The Wild (Music For The Motion Picture)",
+        "url": "https://open.spotify.com/album/13xlpKbai3GGoMSr75lOeX"
+      },
+      "artists": [
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+        }
+      ],
+      "duration_ms": 322080,
+      "name": "Hard Sun",
+      "url": "https://open.spotify.com/track/0fzCtVM9D5UEwiLqcY8Ouq"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Spotify Sessions",
-        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "Nothing Arrived - Live from Spotify London",
-      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "Making All Things New",
         "url": "https://open.spotify.com/album/6Ng0ObItoKjeUL0POlI4FU"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 159600,
       "name": "Making All Things New",
       "url": "https://open.spotify.com/track/6VwAh8Z1d5YKoSWoEaV4db"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "Spotify Sessions",
+        "url": "https://open.spotify.com/album/0hjao9hWIDjmUFDiW6Q59W"
+      },
+      "artists": [
+        {
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "Nothing Arrived - Live from Spotify London",
+      "url": "https://open.spotify.com/track/0TQ8ZHFhrbH9I0WRjIzOCQ"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Sleeping Operator",
-        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
-      },
-      "artists": [
-        {
-          "name": "The Barr Brothers",
-          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
-        }
-      ],
-      "duration_ms": 230518,
-      "name": "Even the Darkness Has Arms",
-      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "The Oh Hellos EP",
         "url": "https://open.spotify.com/album/4W1OKkOGiLJdfOCz4JQp1W"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 256006,
       "name": "Hello My Old Heart",
       "url": "https://open.spotify.com/track/66MXa8qDIQRtwuxuNtjNCu"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "Sleeping Operator",
+        "url": "https://open.spotify.com/album/7fjRTWt2AzOiOTOAVupzTq"
+      },
+      "artists": [
+        {
+          "name": "The Barr Brothers",
+          "url": "https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7"
+        }
+      ],
+      "duration_ms": 230518,
+      "name": "Even the Darkness Has Arms",
+      "url": "https://open.spotify.com/track/6W49z468BT75GsO2tCcBtq"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 285866,
-      "name": "Let It Go - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "Deadeye",
         "url": "https://open.spotify.com/album/2jqeCy5ydYWWWYB11VMS2V"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 190120,
       "name": "Bees",
       "url": "https://open.spotify.com/track/13otFWMHR8dlJ73XnSEW8y"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 285866,
+      "name": "Let It Go - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/4tYokojnBEp5pBWO7wTRPA"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Ancient Transition",
-        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
-      },
-      "artists": [
-        {
-          "name": "Beta Radio",
-          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
-        }
-      ],
-      "duration_ms": 244120,
-      "name": "Our Remains",
-      "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "Goodnight (Go Home)",
         "url": "https://open.spotify.com/album/4VWuOzRhYZQ2Qo2upiTcbd"
       },
@@ -1967,6 +1951,22 @@
       "duration_ms": 246453,
       "name": "Dirty Old Town",
       "url": "https://open.spotify.com/track/3sPpEYjRGQYV0XOjy4pYqh"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "Ancient Transition",
+        "url": "https://open.spotify.com/album/1ybYkyaTa4UKK38JnMXAJl"
+      },
+      "artists": [
+        {
+          "name": "Beta Radio",
+          "url": "https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB"
+        }
+      ],
+      "duration_ms": 244120,
+      "name": "Our Remains",
+      "url": "https://open.spotify.com/track/3GLMvFjzOgJ3XGphEEVEPv"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -2035,22 +2035,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "69 Love Songs",
-        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
-      },
-      "artists": [
-        {
-          "name": "The Magnetic Fields",
-          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
-        }
-      ],
-      "duration_ms": 162413,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "On the Train Ride Home",
         "url": "https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT"
       },
@@ -2063,6 +2047,22 @@
       "duration_ms": 227200,
       "name": "On the Train Ride Home",
       "url": "https://open.spotify.com/track/4sTjyRMuBumcHsVWe9tfKL"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "69 Love Songs",
+        "url": "https://open.spotify.com/album/2GuROKcqyHdpIDcgxml1C7"
+      },
+      "artists": [
+        {
+          "name": "The Magnetic Fields",
+          "url": "https://open.spotify.com/artist/6RWjTQqILL7a1tQ0VapyLK"
+        }
+      ],
+      "duration_ms": 162413,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/62ZYyXIsHVX5xVUj80arVu"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
-      },
-      "artists": [
-        {
-          "name": "Damien Rice",
-          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
-        }
-      ],
-      "duration_ms": 286653,
-      "name": "The Blower's Daughter",
-      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "Sirens",
         "url": "https://open.spotify.com/album/36PVznPVQEUp6kgnAfLKhO"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 282746,
       "name": "Forever Ago",
       "url": "https://open.spotify.com/track/0NguBFv2WhLthidaTnMoV7"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/6aHBpqM0YAMfYxfTBjfmk1"
+      },
+      "artists": [
+        {
+          "name": "Damien Rice",
+          "url": "https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ"
+        }
+      ],
+      "duration_ms": 286653,
+      "name": "The Blower's Daughter",
+      "url": "https://open.spotify.com/track/4B2lJinAkeNLSJjcq3dg8Q"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -2339,22 +2339,6 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Notion - EP",
-        "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
-      },
-      "artists": [
-        {
-          "name": "Tash Sultana",
-          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
-        }
-      ],
-      "duration_ms": 341000,
-      "name": "Notion",
-      "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
-    },
-    {
-      "added_at": "2023-09-25 14:18:15",
-      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/1PxeMLy9b6zmzefxPOXACH"
       },
@@ -2367,6 +2351,22 @@
       "duration_ms": 204857,
       "name": "If Only",
       "url": "https://open.spotify.com/track/7yJnPO4ZU4kGx82TbaQvlU"
+    },
+    {
+      "added_at": "2023-09-25 14:18:15",
+      "album": {
+        "name": "Notion - EP",
+        "url": "https://open.spotify.com/album/42KDvyFS8ZBOxan2uKZuW5"
+      },
+      "artists": [
+        {
+          "name": "Tash Sultana",
+          "url": "https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf"
+        }
+      ],
+      "duration_ms": 341000,
+      "name": "Notion",
+      "url": "https://open.spotify.com/track/1HTqgP13dorct3BltLaB0l"
     },
     {
       "added_at": "2023-09-25 14:18:15",
@@ -2435,18 +2435,18 @@
     {
       "added_at": "2023-09-25 14:18:15",
       "album": {
-        "name": "Between the Bars",
-        "url": "https://open.spotify.com/album/64Z8bWSUBB1Vhox2K5EdBe"
+        "name": "The Wilds",
+        "url": "https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA"
       },
       "artists": [
         {
-          "name": "The Civil Wars",
-          "url": "https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE"
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
         }
       ],
-      "duration_ms": 260053,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/4YKhIH7BhFErLoV9dgHupm"
+      "duration_ms": 233289,
+      "name": "Real Peach",
+      "url": "https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff"
     }
   ],
   "unique_name": "Kaffeehausmusik",

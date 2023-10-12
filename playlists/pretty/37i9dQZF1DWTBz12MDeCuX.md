@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: 01099 x RIN
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,406 likes - 100 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,604 likes - 100 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 81 | [viel zu lang her](https://open.spotify.com/track/5A3yKMksw7mdA1dXetlKaA) | [$ubria](https://open.spotify.com/artist/6qI5OaCAenX62HTorD3VRN) | [viel zu lang her](https://open.spotify.com/album/5VfLnRKVfzX3QhWhvpV9Oi) | 3:13 |
 | 82 | [Schmetterling](https://open.spotify.com/track/5E3BK90EQQxmrDz3zLG2l9) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Schmetterling](https://open.spotify.com/album/18LPHcIbr5G6oFx9Mf3lU3) | 2:00 |
 | 83 | [zeit zu gehen](https://open.spotify.com/track/1kcOpvFgvMrjZqYyBNrXRJ) | [t\-low](https://open.spotify.com/artist/3tQzzidoPfVifoURnDfgmD), [LEX](https://open.spotify.com/artist/4sihWBudLgIj87L6PRfrpT) | [zeit zu gehen](https://open.spotify.com/album/7vZGGclFuHe3KxqSXUnjq9) | 3:54 |
-| 84 | [Fairweather Friends](https://open.spotify.com/track/3VMK6tAjOT4INvBdZOtB9J) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Fairweather Friends](https://open.spotify.com/album/0Lgte4FZ2oPj12uHFYWCQn) | 1:34 |
+| 84 | [Fairweather Friends](https://open.spotify.com/track/05tQzyLaod9RqjabafQYKv) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 1:34 |
 | 85 | [Low](https://open.spotify.com/track/2k0ZMNVR4Wk6M6ZFcD0NwR) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc) | [Low](https://open.spotify.com/album/4FNrH4cbXqJr1FNdqgQyJR) | 1:59 |
 | 86 | [Paris Paris](https://open.spotify.com/track/5DCsBJ761OKZT9QAYljRB7) | [JBS](https://open.spotify.com/artist/6l8dHVPkuEFzpQjhCH4xXT) | [Paris Paris](https://open.spotify.com/album/69rUtSl9ZypyPH225w0TfD) | 2:56 |
 | 87 | [Saxo \(feat\. Tion Wayne\)](https://open.spotify.com/track/2Wzyas9S4ietj2NzXtHR2I) | [WhyTek](https://open.spotify.com/artist/65DPfysLSyewJ1IXgdA4ZM), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt) | [Saxo \(feat\. Tion Wayne\)](https://open.spotify.com/album/4RhUu4CjybaYP56fPgJQ6U) | 1:51 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 99 | [augen blau](https://open.spotify.com/track/4MVAPypWexk1uVmeHZAcf1) | [AyVe](https://open.spotify.com/artist/7v5NBcbJPldtdx1S2zQRtZ) | [augen blau](https://open.spotify.com/album/5pi6l5MRnrQwLV0mOjvInw) | 2:20 |
 | 100 | [Du hast mich nie geliebt </3…](https://open.spotify.com/track/6aoadZIaPyAvIpfdkmonBX) | [Replay Okay](https://open.spotify.com/artist/2pWTB3Q2GjoZpznmktG6uC) | [Du hast mich nie geliebt </3…](https://open.spotify.com/album/0EzmmuePkY1VrvGEpxyzuU) | 1:21 |
 
-Snapshot ID: `MCxiMWEyMzEwYmM0Y2U2YWM5MmVhMzdkZDkyMzM4YWY3ODQ4ODIyNDg0`
+Snapshot ID: `MCxhYTc4Y2MzYWY5ZTVhOWVkM2Q2ODBjZDZjZjJkNjNmYjQyYzllM2M3`

@@ -203,6 +203,24 @@
     },
     {
       "album": {
+        "name": "Existential Playboy",
+        "url": "https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J"
+      },
+      "artists": [
+        {
+          "name": "Surf Rock Is Dead",
+          "url": "https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134386,
+      "name": "always learning not what to do",
+      "url": "https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt"
+    },
+    {
+      "album": {
         "name": "III",
         "url": "https://open.spotify.com/album/5Y8n0zLN7AaqK1hxxlgT1u"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Southern boogie, swinging blues rock and classic boogie rock. Cover: ZZ Top",
-  "num_followers": 73265,
+  "num_followers": 73359,
   "original_name": "Boogie Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTBiODJmZjdiMDdjNjA2YmUyMTFiMjFlZGQ3ZmY1NzUzOTNlZmIz",
+  "snapshot_id": "MCw1Y2VlMzhlNWYxZTg0YjFlMDVjZDAzNDViNTc4YzA2MjU4OWM1YTAw",
   "tracks": [
     {
       "added_at": "2020-12-01 05:01:00",
@@ -733,20 +733,20 @@
       "url": "https://open.spotify.com/track/6OCvoEuOHptoVnJyJ23KWR"
     },
     {
-      "added_at": "2021-07-30 04:01:00",
+      "added_at": "2020-12-01 05:01:00",
       "album": {
-        "name": "7 O'Clock (30th Anniversary Version)",
-        "url": "https://open.spotify.com/album/4U4Y79UjbLeePgMRIpNKAt"
+        "name": "Quotable Quo",
+        "url": "https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj"
       },
       "artists": [
         {
-          "name": "The Quireboys",
-          "url": "https://open.spotify.com/artist/0d49iRrp4iVZggKbcpxnqI"
+          "name": "Status Quo",
+          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
         }
       ],
-      "duration_ms": 223773,
-      "name": "7 O'Clock - 30th Anniversary Version",
-      "url": "https://open.spotify.com/track/22JtENh4WNZxFll7qVG5rY"
+      "duration_ms": 242000,
+      "name": "Whatever You Want",
+      "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
     },
     {
       "added_at": "2020-12-01 05:01:00",
@@ -765,20 +765,20 @@
       "url": "https://open.spotify.com/track/2bHdpo5xyMYyWBRYfoPwBX"
     },
     {
-      "added_at": "2020-12-01 05:01:00",
+      "added_at": "2021-07-30 04:01:00",
       "album": {
-        "name": "Quotable Quo",
-        "url": "https://open.spotify.com/album/4IAafmNssq4xupEIUR7enj"
+        "name": "7 O'Clock (30th Anniversary Version)",
+        "url": "https://open.spotify.com/album/4U4Y79UjbLeePgMRIpNKAt"
       },
       "artists": [
         {
-          "name": "Status Quo",
-          "url": "https://open.spotify.com/artist/4gIdjgLlvgEOz7MexDZzpM"
+          "name": "The Quireboys",
+          "url": "https://open.spotify.com/artist/0d49iRrp4iVZggKbcpxnqI"
         }
       ],
-      "duration_ms": 242000,
-      "name": "Whatever You Want",
-      "url": "https://open.spotify.com/track/2PkOmx1S4XOwPU1Pgyaoig"
+      "duration_ms": 223773,
+      "name": "7 O'Clock - 30th Anniversary Version",
+      "url": "https://open.spotify.com/track/22JtENh4WNZxFll7qVG5rY"
     },
     {
       "added_at": "2020-12-01 05:01:00",

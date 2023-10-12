@@ -1,12 +1,12 @@
 {
   "description": "Get in the zone with these current jams!",
-  "num_followers": 2112975,
+  "num_followers": 2112067,
   "original_name": "Daily Lift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0YjZiYjE5ZDJiN2M2ZWJkYTNiNWI5MTQ4MTU5YTVmZGRmNWI1NTli",
+  "snapshot_id": "MCxjNWNjMjMwY2MwMGQ4OWFlNTUzMWU0ODk3NWYyZjdhNWM0ZjkzMjkz",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA"
       },
@@ -307,22 +291,6 @@
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "SNAP",
-        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
-      },
-      "artists": [
-        {
-          "name": "Rosa Linn",
-          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
-        }
-      ],
-      "duration_ms": 179551,
-      "name": "SNAP",
-      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -343,6 +311,38 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "SNAP",
+        "url": "https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR"
+      },
+      "artists": [
+        {
+          "name": "Rosa Linn",
+          "url": "https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1"
+        }
+      ],
+      "duration_ms": 179551,
+      "name": "SNAP",
+      "url": "https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -355,6 +355,26 @@
       "duration_ms": 153190,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/6I3mqTwhRpn34SLVafSH7G"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Twelve Carat Toothache",
+        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "I Like You (A Happier Song) (with Doja Cat)",
+      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -387,26 +407,6 @@
       "duration_ms": 165264,
       "name": "Bones",
       "url": "https://open.spotify.com/track/54ipXppHLA8U4yqpOFTUhr"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Twelve Carat Toothache",
-        "url": "https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "I Like You (A Happier Song) (with Doja Cat)",
-      "url": "https://open.spotify.com/track/0O6u0VJ46W86TxN9wgyqDj"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -767,22 +767,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "AUSTIN",
-        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 165175,
-      "name": "Enough Is Enough",
-      "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/2YSlIS6gM38w7ZJNj8F3s6"
       },
@@ -795,26 +779,6 @@
       "duration_ms": 163854,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/5r43qanLhUCdBj8HN3fa6B"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -835,6 +799,42 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "AUSTIN",
+        "url": "https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy"
+      },
+      "artists": [
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 165175,
+      "name": "Enough Is Enough",
+      "url": "https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 242691,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long) [Trailer Version]",
         "url": "https://open.spotify.com/album/3hPyxRi49jls3gU6Si8JdF"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 175802,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "url": "https://open.spotify.com/track/1vvcEHQdaUTvWt0EIUYcFK"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "HOPE",
-        "url": "https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 242691,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Waffle House",
-        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
-      },
-      "artists": [
-        {
-          "name": "Jonas Brothers",
-          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
-        }
-      ],
-      "duration_ms": 145440,
-      "name": "Waffle House",
-      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Mirage (for Assassin's Creed Mirage)",
         "url": "https://open.spotify.com/album/0G3FKRjRW1ERSTRjWZWCjz"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 133183,
       "name": "Mirage - for Assassin's Creed Mirage",
       "url": "https://open.spotify.com/track/7bgIcSp0Nd3qfHqwxQplzW"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Waffle House",
+        "url": "https://open.spotify.com/album/7lWGbTl1g2VxxWg9fDvF99"
+      },
+      "artists": [
+        {
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "duration_ms": 145440,
+      "name": "Waffle House",
+      "url": "https://open.spotify.com/track/5iE3eUH2WGCXcE2xr6DEmU"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Choose Your Fighter (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 137514,
-      "name": "Choose Your Fighter (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/7jENFxE6ngcSKd9UqjEKxY"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 163000,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/6afdNrotJ1PCt9DoFiHpLj"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Choose Your Fighter (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 137514,
+      "name": "Choose Your Fighter (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1715,22 +1715,38 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz"
+        "name": "Yes I'm A Mess",
+        "url": "https://open.spotify.com/album/0mbu9tcivddH45l4FuazT4"
       },
       "artists": [
         {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "AJR",
+          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
         }
       ],
-      "duration_ms": 185113,
-      "name": "Alone (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP"
+      "duration_ms": 164973,
+      "name": "Yes I'm A Mess",
+      "url": "https://open.spotify.com/track/4Yrt54xR4T8PPOZ7yf9kyT"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "My Love (feat. Ayra Starr)",
+        "url": "https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm"
+      },
+      "artists": [
+        {
+          "name": "Leigh-Anne",
+          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "duration_ms": 176187,
+      "name": "My Love (feat. Ayra Starr)",
+      "url": "https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1759,26 +1775,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "My Love (feat. Ayra Starr)",
-        "url": "https://open.spotify.com/album/6uIz2uaQPu5UjOUm5d8dIm"
-      },
-      "artists": [
-        {
-          "name": "Leigh-Anne",
-          "url": "https://open.spotify.com/artist/79QUtAVxGAAoiWNlqBz9iy"
-        },
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        }
-      ],
-      "duration_ms": 176187,
-      "name": "My Love (feat. Ayra Starr)",
-      "url": "https://open.spotify.com/track/2XOJCFJ6Wig25fnEjxtSsR"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Cover Me In Sunshine",
         "url": "https://open.spotify.com/album/7p0HJKqXo2WpApHFp1iDcI"
       },
@@ -1799,18 +1795,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "OK ORCHESTRA",
-        "url": "https://open.spotify.com/album/1y2AzG31F4CuCKQ1rpIzaI"
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz"
       },
       "artists": [
         {
-          "name": "AJR",
-          "url": "https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 170858,
-      "name": "Bang!",
-      "url": "https://open.spotify.com/track/5FQPpxOXsvkMN6v18gtpwY"
+      "duration_ms": 185113,
+      "name": "Alone (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP"
     }
   ],
   "unique_name": "Daily Lift",

@@ -2,9 +2,9 @@
 
 ### [El Top 2023](https://open.spotify.com/playlist/37i9dQZF1DWX2Ln16qIxDF)
 
-> Trueno está en el Top 🔥
+> BM, Big One & TINI están en el Top 🔥
 
-246 songs - 12 hr 47 min
+247 songs - 12 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [LuXxX](https://open.spotify.com/track/1tgWvt78QUQrghdsbiteyZ) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e) | [LuXxX](https://open.spotify.com/album/3GmPKpcpxysC0XQ9AJFeky) | 3:21 | 2023-09-22 |  |
 | [LÁ LÁ](https://open.spotify.com/track/3OLstixS9sFsb9LsMM7Tio) | [Marilina Bertoldi](https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy) | [LÁ LÁ](https://open.spotify.com/album/2MquiHZvoqA5HwAh6NTz0x) | 2:44 | 2023-07-28 |  |
 | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/track/5ddqh5tCgWitBsKdKsp0kC) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Natalie Perez](https://open.spotify.com/artist/1Y99HOeRzRc27my6NJE3rE) | [Lágrimas y Flores \(feat\. Natalie Perez\)](https://open.spotify.com/album/6GkLBhohzpGAdnnLmkBAKX) | 3:37 | 2023-08-25 |  |
+| [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/track/5zDEMy7lLJ1W7vauTrH5mb) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Lágrimas \| CROSSOVER \#4](https://open.spotify.com/album/5J0QySoFlt8cXEQIH0jF64) | 2:47 | 2023-10-11 |  |
 | [M.A \- Remix](https://open.spotify.com/track/7JB29gnUowzSGRdIpeVqRQ) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [M.A \(Remix\)](https://open.spotify.com/album/3iggaiQChBAIIfQP8ZH2bR) | 4:32 | 2023-05-12 |  |
 | [Maquillada en la Cama](https://open.spotify.com/track/7mMphGdi3iDSHwKEe9oXNF) | [Juliana Gattas](https://open.spotify.com/artist/4beHLf0L7m2eBwhyifF9Kn) | [Maquillada en la Cama](https://open.spotify.com/album/62pbw66ZM46EZ30e4cS087) | 3:38 | 2023-10-10 |  |
 | [Marisola \- Remix](https://open.spotify.com/track/0NO2zL0kw8sGGnaMvHKAZF) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Standly](https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz), [Stars Music Chile](https://open.spotify.com/artist/2NZD6Gqfk60GEcAAnJKVsR) | [Marisola \(Remix\)](https://open.spotify.com/album/262bymaji1sJPAldR7YyaH) | 3:57 | 2023-05-12 | 2023-05-27 |
@@ -184,7 +185,7 @@
 | [Perfecta \(Versión 2023\)](https://open.spotify.com/track/6ABLjztDyv49ZSZYDexYtc) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf) | [Perfecta \(Versión 2023\)](https://open.spotify.com/album/66H0ONEidLsiliImzsMkeM) | 3:41 | 2023-05-12 | 2023-07-29 |
 | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/track/5AqiaZwhmC6dIbgWrD5SzV) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Peso Pluma: Bzrp Music Sessions, Vol\. 55](https://open.spotify.com/album/5dKPhEYBhP8j85HcxQfaw6) | 3:08 | 2023-06-01 | 2023-08-18 |
 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [PLAYA DEL INGLÉS](https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9) | 3:57 | 2023-05-12 |  |
-| [Pobre Corazón \- En Vivo](https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón \(En Vivo\)](https://open.spotify.com/album/7kNdveFXAKstJ8iNMrwq4Z) | 3:18 | 2023-05-12 |  |
+| [Pobre Corazón \- En Vivo](https://open.spotify.com/track/1AX4aybSRyXHWrjg27wTFE) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [Pobre Corazón \(En Vivo\)](https://open.spotify.com/album/7kNdveFXAKstJ8iNMrwq4Z) | 3:18 | 2023-05-12 | 2023-10-12 |
 | [Polvito](https://open.spotify.com/track/56gWw6TmEYzeMkunkQVXkc) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [Polvito](https://open.spotify.com/album/25Uts5FC3OtRu2PdbsnBnv) | 2:59 | 2023-05-19 |  |
 | [PRESIÓN](https://open.spotify.com/track/5cRkcRqtkMcQRXsadVV500) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [RAWR](https://open.spotify.com/album/4D6TE4cuDOaIHQJlEmARR6) | 3:07 | 2023-07-28 |  |
 | [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 | 2023-05-12 | 2023-05-20 |

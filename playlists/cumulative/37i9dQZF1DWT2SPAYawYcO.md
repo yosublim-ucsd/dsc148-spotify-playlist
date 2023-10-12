@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Teen Jesus and the Jean Teasers
 
-1,577 songs - 3 day 13 hr 14 min
+1,578 songs - 3 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1267,7 +1267,8 @@
 | [Smoke](https://open.spotify.com/track/2ibDEUmWjwdu7MfA0PfeeO) | [Ivan Ooze](https://open.spotify.com/artist/3ZIlpGT2OUwyvxiCWJhIel), [Yung Shogun](https://open.spotify.com/artist/36FoSt7DBnQar4gankr8t2) | [Smoke](https://open.spotify.com/album/3PFsfVM5QjIBKmr0AZHPVy) | 2:48 | 2023-06-29 | 2023-07-07 |
 | [Smoke Break\-Dance \(feat\. JID\)](https://open.spotify.com/track/1Dm5maHjhhmcdqS5hK61Ut) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Smoke Break\-Dance \(feat\. JID\)](https://open.spotify.com/album/28glrS4PZTYh2VfqX1mP6H) | 2:47 | 2023-07-07 | 2023-07-14 |
 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 | 2023-09-15 | 2023-09-22 |
-| [So Free So Lonely](https://open.spotify.com/track/4q7ElQxJQFArqpl8Kw7Zrm) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [So Free So Lonely](https://open.spotify.com/album/3N4GBkPn1MmjSQcjeJOHFJ) | 3:12 | 2023-10-05 |  |
+| [So Free So Lonely](https://open.spotify.com/track/3zbnvBAEG5PSeACvYaafMU) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [So Free So Lonely](https://open.spotify.com/album/4ucJg25t2uOgZ2GC3fm8XZ) | 3:12 | 2023-10-06 |  |
+| [So Free So Lonely](https://open.spotify.com/track/4q7ElQxJQFArqpl8Kw7Zrm) | [Georgia Gets By](https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9) | [So Free So Lonely](https://open.spotify.com/album/3N4GBkPn1MmjSQcjeJOHFJ) | 3:12 | 2023-10-05 | 2023-10-12 |
 | [So Good Tho](https://open.spotify.com/track/3mGkxPiYc8PFknTvAKLO5Z) | [Dizzy Dizzo](https://open.spotify.com/artist/5rEuIFwgGGp7t4b3t8ShJw), [DELAFAT](https://open.spotify.com/artist/33P0FP2mdYvdAKorWcs23j), [Starr Chen](https://open.spotify.com/artist/1r0vOsQYMTyq1qkDv7p9QD) | [So Good Tho](https://open.spotify.com/album/1GCi2Wso8gN3nFWrSKdo8x) | 3:23 | 2023-09-28 | 2023-10-06 |
 | [So I Danced](https://open.spotify.com/track/6OXq1P3P8Z8ky2x8dDtHSH) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [So I Danced](https://open.spotify.com/album/64wAIYcs6KRlXKWwPdgiLW) | 2:53 | 2023-09-15 | 2023-09-22 |
 | [So You Are Tired](https://open.spotify.com/track/6LbFM8wbTe7XZwbm7C5qZ5) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [So You Are Tired](https://open.spotify.com/album/4lEHaKYeQFwCR9fpbcjVzB) | 4:49 | 2023-08-17 | 2023-08-25 |

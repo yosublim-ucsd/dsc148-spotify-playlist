@@ -4,7 +4,7 @@
 
 > The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: \(G\)I\-DLE
 
-765 songs - 1 day 17 hr 54 min
+770 songs - 1 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,7 +203,8 @@
 | [Don't hesitate](https://open.spotify.com/track/0bh2STGfDf1LuZBHL2eRGU) | [WONHO](https://open.spotify.com/artist/6pC3vnUgNVITdYMMXefi6D) | [Don't hesitate](https://open.spotify.com/album/05g8jnH2x9k8Lj25jFznyC) | 3:23 | 2022-08-19 | 2022-10-26 |
 | [Don't Leave Yet](https://open.spotify.com/track/2YGLz59p5T0CMXeceMltiD) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Don't Leave Yet](https://open.spotify.com/album/3waB8KtFMT0fggbkjbK7Kj) | 2:45 | 2023-08-10 | 2023-09-13 |
 | [Don't Stop](https://open.spotify.com/track/1BrZwASv0NW4L61k4IJU3k) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [Don't Stop](https://open.spotify.com/album/3YxouNqtb28l4XYOehopZF) | 3:10 | 2022-02-01 | 2022-04-20 |
-| [Don‘t Be Jealous](https://open.spotify.com/track/0lDI92xY3cKdX2shXzzJKz) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [THE X](https://open.spotify.com/album/7xPrNhb6rvNXfEC3nD9Iq2) | 3:03 | 2023-10-10 |  |
+| [Donʼt Be Jealous](https://open.spotify.com/track/23ZmdTxdwyKu6t4VBkzZSc) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [THE X](https://open.spotify.com/album/6uH7xQqslMPMlfYKRRKoP9) | 3:03 | 2023-10-11 |  |
+| [Don‘t Be Jealous](https://open.spotify.com/track/0lDI92xY3cKdX2shXzzJKz) | [Seo In Guk](https://open.spotify.com/artist/433F0GjVZRnsjP8ztGEso1) | [THE X](https://open.spotify.com/album/7xPrNhb6rvNXfEC3nD9Iq2) | 3:03 | 2023-10-10 | 2023-10-12 |
 | [Doom Du Doom](https://open.spotify.com/track/41tvdK0UNp3oNKWDPkg7FO) | [P1Harmony](https://open.spotify.com/artist/3JjvsPeGMbDJqsphe2z8xU) | [HARMONY : ZERO IN](https://open.spotify.com/album/73CTPjApMDvFsycjbbROji) | 3:30 | 2022-07-20 | 2022-10-08 |
 | [Doughnut](https://open.spotify.com/track/6YBcbXDYIITuyCEN2YwGRy) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [Doughnut](https://open.spotify.com/album/2g8Uav5MCzs3B4pJO9U24p) | 4:23 | 2021-12-23 | 2022-03-23 |
 | [DREAM](https://open.spotify.com/track/0PwknbaUVwXJSmRh7qSfyi) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [DREAM](https://open.spotify.com/album/2cXtPWMSKgf55ERnDrzZQb) | 3:06 | 2022-11-08 | 2023-03-11 |
@@ -322,6 +323,7 @@
 | [Hold On Tight](https://open.spotify.com/track/7JhAss3J9U99ZO2BsEZCE9) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Tetris \(Motion Picture Soundtrack\)](https://open.spotify.com/album/1ADmUnR6Z8kRxwFna9ffK6) | 2:29 | 2023-03-30 | 2023-08-11 |
 | [HOME](https://open.spotify.com/track/3FYyfD20ftxbbdTqzc5PW2) | [T1419](https://open.spotify.com/artist/3uT0R5PsjP0k7NJ565Nqs4) | [OUR TEEN:BLUE SIDE](https://open.spotify.com/album/7fhONW69XeQprR25vq502T) | 3:40 | 2022-03-08 | 2022-04-12 |
 | [HONEY](https://open.spotify.com/track/1Pu0hNnhlrWfZOisgs1TPG) | [Solar](https://open.spotify.com/artist/5cYcI546S8Lf97m4mNdYLD) | [容 : FACE](https://open.spotify.com/album/7zzh1ltXhjELf4RtD8Sp74) | 2:47 | 2022-03-16 | 2022-06-15 |
+| [Honey or Spice](https://open.spotify.com/track/1HHUeCHpCsZc64LNHzKPNA) | [LIGHTSUM](https://open.spotify.com/artist/57HNdw2ObRmfwWHG8Xhs8t) | [Honey or Spice](https://open.spotify.com/album/6hitia8vt8qpcodlQ17S0G) | 3:02 | 2023-10-11 |  |
 | [Hope from KWANGYA](https://open.spotify.com/track/41Ne4OIfSkf6NgAwGVwWpJ) | [SMTOWN](https://open.spotify.com/artist/49VtaZvoqBgZHQxSqlCUyp) | [2021 Winter SMTOWN : SMCU EXPRESS](https://open.spotify.com/album/3dn2in6doTc6zfA0G2UFDZ) | 5:33 | 2021-12-28 | 2022-02-15 |
 | [Horizon](https://open.spotify.com/track/2HfAb3qB9w3t9x5e7ZjX5T) | [JAEHYUN](https://open.spotify.com/artist/0qQI2kmsvSe2ex9k94T5vu) | [Horizon \- NCT LAB](https://open.spotify.com/album/6zArn0lGt7ZZTCRYvbNcFf) | 3:42 | 2023-08-10 | 2023-10-07 |
 | [HOT](https://open.spotify.com/track/6I2tqFhk8tq69iursYxuxd) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 4th Album 'Face the Sun'](https://open.spotify.com/album/4lfFgz2rD1irxf7dZhNJht) | 3:17 | 2022-05-26 | 2022-09-07 |
@@ -343,6 +345,7 @@
 | [If with U](https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [If with U](https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw) | 3:07 | 2022-07-08 | 2022-09-17 |
 | [Illusion](https://open.spotify.com/track/5uFqjHOo3Sh0bVPCKf3DdH) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Illusion](https://open.spotify.com/album/4r815m6eq8OXYzfqtk3FST) | 3:15 | 2022-06-01 | 2023-01-21 |
 | [imysm](https://open.spotify.com/track/1fnzWwpiHUxppDQ8EQccvW) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB) | [imysm](https://open.spotify.com/album/77f8dmnqzJfEHel3QxTbsB) | 2:27 | 2022-06-30 | 2022-08-20 |
+| [Invincible](https://open.spotify.com/track/3FWXkGqJx0giJzQNqkcK74) | [tripleS](https://open.spotify.com/artist/5Z71xE9prhpHrqL5thVMyK) | [EVOLution <⟡>](https://open.spotify.com/album/3Y0JJMZ92U2D5zKGQDfkH5) | 3:17 | 2023-10-11 |  |
 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 | 2022-02-14 | 2022-05-03 |
 | [ISTJ](https://open.spotify.com/track/43Pmqpiw4zFY77pT5QdxQ8) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [ISTJ \- The 3rd Album](https://open.spotify.com/album/6RJlrKu60DPF6BMXVdotY7) | 3:05 | 2023-07-17 | 2023-09-15 |
 | [Ito](https://open.spotify.com/track/0Fb1M7rbOnydw6SrXXSlHr) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [Ito](https://open.spotify.com/album/4kZPJgs4OcK4AXHlEbIwuU) | 4:03 | 2021-12-23 | 2022-01-11 |
@@ -695,6 +698,7 @@
 | [Villain⤻ \(feat\. lIlBOI\)](https://open.spotify.com/track/70K4mtZntJmqSr4fLrGhJi) | [UNE](https://open.spotify.com/artist/1gPI21PhFmfBqPP118h5rS), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [The Lost Diary](https://open.spotify.com/album/4pjO2nn8tUlr1EvOv5UYgn) | 2:55 | 2023-08-16 | 2023-09-08 |
 | [Virus](https://open.spotify.com/track/6Cl4pfI7IDhX1zEfiBP8KR) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [Choice](https://open.spotify.com/album/4AakPdZL04Ksf0fhcCuXD1) | 3:25 | 2022-11-15 | 2023-01-16 |
 | [VISION](https://open.spotify.com/track/1nmc8ngLcvccw7Lay5v5SP) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[Apocalypse : Follow us\]](https://open.spotify.com/album/7MQXcfzHmWjQAAIFhdy1mY) | 3:09 | 2022-10-11 | 2022-12-28 |
+| [Vision Getting Blurred \(SIDE A\)](https://open.spotify.com/track/3vok71DdgrvusXlNopJF8U) | [BÉBE YANA](https://open.spotify.com/artist/6ozuxhSx8Ci0o8tPpgrCT2) | [Vision Getting Blurred](https://open.spotify.com/album/5CdwG5E9AXFJmDri8h253O) | 2:25 | 2023-10-11 |  |
 | [VIVID](https://open.spotify.com/track/24OueqbY3eTiKT5dHhL5WQ) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [VIVID](https://open.spotify.com/album/0YnjMov6t4vfn9MXA5A6KS) | 3:25 | 2022-05-31 | 2022-07-27 |
 | [Voltage](https://open.spotify.com/track/7e65OAe9L0xWPSHDiahjQe) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [Voltage](https://open.spotify.com/album/3MXVqfk9VG3B757nLlow0D) | 3:41 | 2022-03-22 | 2022-07-16 |
 | [VOYAGER](https://open.spotify.com/track/5X8djrOyJCnCnwD19QXQIK) | [KIHYUN](https://open.spotify.com/artist/52MWHSohXVqTyGhBPRJepS) | [VOYAGER](https://open.spotify.com/album/3zKRClhiSLNBrhqgCd52jE) | 3:11 | 2022-03-15 | 2022-05-25 |
@@ -706,6 +710,7 @@
 | [Wasteland](https://open.spotify.com/track/4bml9BznT3E0sX4xpa0voN) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Wasteland](https://open.spotify.com/album/3gerGX9iUd6cEwLNGCrh6u) | 3:02 | 2023-06-06 | 2023-07-26 |
 | [WATERFALL](https://open.spotify.com/track/4QxTg2DuJPzY8pXNDWAcow) | [YOUNITE](https://open.spotify.com/artist/4l4eMvpA4K7X02j08cbkNV) | [BIT Part.1](https://open.spotify.com/album/1JIBD2xuWX2cdGLoHvBdoc) | 3:00 | 2023-05-16 | 2023-06-21 |
 | [WAVE](https://open.spotify.com/track/2FNgoGLkE4AAOtYkQfiVL4) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [WAVE](https://open.spotify.com/album/0ygvUJDV0PK3Sz3f7njaaA) | 2:55 | 2023-05-09 |  |
+| [Way Back Home \- Japanese Ver.](https://open.spotify.com/track/79wGSosJVd0rCq0WVODaph) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Way Back Home \(Japanese Ver.\)](https://open.spotify.com/album/793mdL4kDloyLPbuzUoz6y) | 3:34 | 2023-10-11 |  |
 | [WE ARE YOUNG](https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [W.A.Y](https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo) | 2:57 | 2023-02-14 | 2023-03-22 |
 | [We Fresh](https://open.spotify.com/track/7tMN3tczfA8zwcD4jlCsRh) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [TROUBLESHOOTER](https://open.spotify.com/album/2PbytQbw3uuEMECdw46ya7) | 3:15 | 2022-10-13 | 2023-02-22 |
 | [We Go](https://open.spotify.com/track/7hxvMTEUOXEKDZ3nnUqbdJ) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Pokémon 2023 \(Original TV Series Soundtrack, Korea\)](https://open.spotify.com/album/2rTc5TdRP7hr7gE4h4lUR1) | 3:08 | 2023-08-24 | 2023-10-11 |

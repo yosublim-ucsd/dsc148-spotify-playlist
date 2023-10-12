@@ -4,7 +4,7 @@
 
 > Enérgicos beats para musicalizar tu rutina diaria de ejercicio.
 
-209 songs - 10 hr 58 min
+210 songs - 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -132,7 +132,8 @@
 | [Malecón](https://open.spotify.com/track/6dKmpJFlx4uRXZkJdARIjh) | [velum!](https://open.spotify.com/artist/14BeZ7E7FbMVYsCa6BUF3Z), [flxbabu](https://open.spotify.com/artist/7jhzu3iGN5BGNEcBWkT8GC) | [Malecón](https://open.spotify.com/album/7i1LWMyR830BxSDzzB7TwT) | 2:48 | 2023-01-07 | 2023-05-26 |
 | [Masala](https://open.spotify.com/track/7CZZthcEreu2RddkmekTm5) | [Nitro Fun](https://open.spotify.com/artist/4XU5f8nGiPMr6eetud6epC) | [Masala](https://open.spotify.com/album/6WtVRdSDwevHuUDiFcEhCp) | 3:02 | 2022-03-29 | 2022-06-27 |
 | [Menage A Trois](https://open.spotify.com/track/40vCMTDaDwwpf7DyBlmgEj) | [LIZOT](https://open.spotify.com/artist/12A83CWwFiyXy90ScLWPIe), [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [Menage A Trois](https://open.spotify.com/album/4MpNQl6p23pbhKpvrv8EPo) | 2:48 | 2022-03-29 |  |
-| [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-12 |  |
+| [Miss You](https://open.spotify.com/track/73vIOb4Q7YN6HeJTbscRx5) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Miss You](https://open.spotify.com/album/32G4vFNwLJQjpzkOoGEUUo) | 3:26 | 2022-10-12 | 2023-10-12 |
+| [Miss You \- Bonus Track](https://open.spotify.com/track/1ypwNj8eK2qAMDEs4EiIIX) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 3:26 | 2023-09-11 |  |
 | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/track/1sc1LUE0z2kiAFG7ZZlcDZ) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n), [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z) | [Monsters \(feat\. 24kGoldn\)](https://open.spotify.com/album/1RfuZSVnk7Qs8lajKxkjtK) | 2:54 | 2022-01-04 |  |
 | [Moonlight](https://open.spotify.com/track/0A5gdlrpAuQqZ2iFgnqBFW) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Moonlight](https://open.spotify.com/album/4IU5ADOJ9DnVa9clXVhrEE) | 2:53 | 2022-03-29 | 2022-04-21 |
 | [Moonlight](https://open.spotify.com/track/7COq4g77Lk81xC5vZwfnIs) | [Gaullin](https://open.spotify.com/artist/1aQwKFn00nswXRDUDipm0K) | [Moonlight](https://open.spotify.com/album/4GegfM4wqwCq7FmcDwQQt7) | 2:53 | 2022-07-26 |  |

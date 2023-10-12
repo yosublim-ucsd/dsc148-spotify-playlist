@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 
 > 音楽家、俳優、文筆家として幅広く活躍する星野源のオールタイム・ベスト！Check out all the essentials from superstar singer\-songwriter, Gen Hoshino!
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,411 likes - 64 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,384 likes - 64 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1WBmdWaXNNZ.md) - [plain]
 | 63 | [Tomato](https://open.spotify.com/track/23Vc7bWEZKZaTpb7gyxOhL) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [FUSHIGI/CREATE](https://open.spotify.com/album/1tUDKOZlY1s83HQ2D2AZxj) | 2:48 |
 | 64 | [Step](https://open.spotify.com/track/7ADRzLxJt9IS8xsEmF2hNU) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Episode](https://open.spotify.com/album/6gPzhi9DkK9XXbH9PZuDR8) | 2:58 |
 
-Snapshot ID: `MCxiYzc3NzE3NTcxMGYzZWIwNTMwOTMxZTc0ZWMzYTFkYTQzZmQ2ZjE3`
+Snapshot ID: `MCwyYTQxYzVjODg4MzdmOGZhNWY3MGVlNjU3NDc1MGNkYzUyMDM3ZGQx`

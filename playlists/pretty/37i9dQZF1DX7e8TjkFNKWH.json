@@ -1,12 +1,12 @@
 {
   "description": "The biggest party hits of the 2000s. Cover: Shakira.",
-  "num_followers": 912860,
+  "num_followers": 913412,
   "original_name": "Party Hits 2000s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDI2YThhY2E2NGU2OTVhNWY1NzNiMWZhYzYyNzU0MDg2MTAzNTRl",
+  "snapshot_id": "MCw5MjU2ZGQzNTZjNWUyYzlhZjE2YmMxZWZkZGI1NmE4MWVjNjM0MjYy",
   "tracks": [
     {
       "added_at": "2022-01-10 11:24:52",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "The Fame Monster (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
-      },
-      "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        }
-      ],
-      "duration_ms": 294573,
-      "name": "Bad Romance",
-      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "The Documentary",
         "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 206400,
       "name": "Hate It Or Love It",
       "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "The Fame Monster (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rePArBMb5nLWEaY9aQqL4"
+      },
+      "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        }
+      ],
+      "duration_ms": 294573,
+      "name": "Bad Romance",
+      "url": "https://open.spotify.com/track/0SiywuOBRcynK0uKGWdCnn"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 337733,
-      "name": "Hung Up",
-      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "Infinity 2008",
         "url": "https://open.spotify.com/album/1uyF93NDsuRn4LqZIl3lyY"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 192294,
       "name": "Infinity 2008 - Klaas Vocal Edit",
       "url": "https://open.spotify.com/track/3aQz0z86zrKjd1mcZlonxE"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 337733,
+      "name": "Hung Up",
+      "url": "https://open.spotify.com/track/3850dYVgOFIXJh5U4BFEWH"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
-      },
-      "artists": [
-        {
-          "name": "*NSYNC",
-          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
-        }
-      ],
-      "duration_ms": 200400,
-      "name": "Bye Bye Bye",
-      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "Chris Brown (Expanded Edition)",
         "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 229866,
       "name": "Run It! (feat. Juelz Santana)",
       "url": "https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "No Strings Attached",
+        "url": "https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC"
+      },
+      "artists": [
+        {
+          "name": "*NSYNC",
+          "url": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Bye Bye Bye",
+      "url": "https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
+        "name": "Under Construction",
+        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 263226,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
         "name": "The Blueprint 2: The Gift & The Curse",
         "url": "https://open.spotify.com/album/5xHStEOG8PsbzNQb7LkxZU"
       },
@@ -1535,22 +1551,6 @@
       "duration_ms": 205560,
       "name": "03' Bonnie & Clyde",
       "url": "https://open.spotify.com/track/5ljCWsDlSyJ41kwqym2ORw"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
-        "name": "Under Construction",
-        "url": "https://open.spotify.com/album/6DeU398qrJ1bLuryetSmup"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 263226,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/3jagJCUbdqhDSPuxP8cAqF"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "Miss E... So Addictive",
-        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
-      },
-      "artists": [
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
-        }
-      ],
-      "duration_ms": 211120,
-      "name": "Get Ur Freak On",
-      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "Madagascar: Escape 2 Africa (Music From The Motion Picture)",
         "url": "https://open.spotify.com/album/0a6NsOaOzlrubGl3htyVWG"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 221466,
       "name": "I Like To Move It",
       "url": "https://open.spotify.com/track/4bAFo6r2ODMDoqM5YHV2gM"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "Miss E... So Addictive",
+        "url": "https://open.spotify.com/album/20t54K6C80QQH7vbcpfJcP"
+      },
+      "artists": [
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
+        }
+      ],
+      "duration_ms": 211120,
+      "name": "Get Ur Freak On",
+      "url": "https://open.spotify.com/track/6zsk6uF3MxfIeHPlubKBvR"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
+        "name": "Monkey Business",
+        "url": "https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Pump It",
+      "url": "https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
         "name": "Party Rock",
         "url": "https://open.spotify.com/album/7qtQYJc0H6s3CK4c7Gp8GR"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 222133,
       "name": "Shots",
       "url": "https://open.spotify.com/track/1V4jC0vJ5525lEF1bFgPX2"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
-        "name": "Monkey Business",
-        "url": "https://open.spotify.com/album/2szeSQtOcJgRhDXmTS3SIf"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Pump It",
-      "url": "https://open.spotify.com/track/6btyEL6NwUa97Nex9cZFvo"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -2047,26 +2047,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "PCD",
-        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
-      },
-      "artists": [
-        {
-          "name": "The Pussycat Dolls",
-          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
-        },
-        {
-          "name": "Busta Rhymes",
-          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
-        }
-      ],
-      "duration_ms": 272080,
-      "name": "Don't Cha",
-      "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/2USigX9DhGuAini71XZEEK"
       },
@@ -2083,6 +2063,26 @@
       "duration_ms": 298853,
       "name": "Dirrty (feat. Redman)",
       "url": "https://open.spotify.com/track/59ZTxQo8rBycIXPLUIKvE2"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "PCD",
+        "url": "https://open.spotify.com/album/5x8e8UcCeOgrOzSnDGuPye"
+      },
+      "artists": [
+        {
+          "name": "The Pussycat Dolls",
+          "url": "https://open.spotify.com/artist/6wPhSqRtPu1UhRCDX5yaDJ"
+        },
+        {
+          "name": "Busta Rhymes",
+          "url": "https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK"
+        }
+      ],
+      "duration_ms": 272080,
+      "name": "Don't Cha",
+      "url": "https://open.spotify.com/track/1gZ7i4qxXkHZb1r6eioaAP"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -2179,22 +2179,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "The Trinity",
-        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 242253,
-      "name": "Give It Up to Me",
-      "url": "https://open.spotify.com/track/6YB6CK4Tsb0BgtxCEL9KlI"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "Collision Course (Deluxe Version)",
         "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
       },
@@ -2211,6 +2195,22 @@
       "duration_ms": 205280,
       "name": "Numb / Encore",
       "url": "https://open.spotify.com/track/7dyluIqv7QYVTXXZiMWPHW"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "The Trinity",
+        "url": "https://open.spotify.com/album/32Bu3ETQhR1PFCj3ndDlYf"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 242253,
+      "name": "Give It Up to Me",
+      "url": "https://open.spotify.com/track/6YB6CK4Tsb0BgtxCEL9KlI"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -2311,6 +2311,30 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
+        "name": "In A Perfect World...",
+        "url": "https://open.spotify.com/album/4FdIO8yB9bNtcWlRcStXvZ"
+      },
+      "artists": [
+        {
+          "name": "Keri Hilson",
+          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Ne-Yo",
+          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
+        }
+      ],
+      "duration_ms": 326186,
+      "name": "Knock You Down",
+      "url": "https://open.spotify.com/track/58FUwmyGUqkt53YPUcm7cJ"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
         "name": "Who Let The Dogs Out",
         "url": "https://open.spotify.com/album/44UH34qoCNNfEqo0VnOkGd"
       },
@@ -2347,30 +2371,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "In A Perfect World...",
-        "url": "https://open.spotify.com/album/4FdIO8yB9bNtcWlRcStXvZ"
-      },
-      "artists": [
-        {
-          "name": "Keri Hilson",
-          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 326186,
-      "name": "Knock You Down",
-      "url": "https://open.spotify.com/track/58FUwmyGUqkt53YPUcm7cJ"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "Now You're Gone - The Album",
         "url": "https://open.spotify.com/album/1UjziXy5WUcJkEkmHJKLDZ"
       },
@@ -2387,22 +2387,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "Lola's Theme",
-        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
-      },
-      "artists": [
-        {
-          "name": "The Shapeshifters",
-          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
-        }
-      ],
-      "duration_ms": 207066,
-      "name": "Lola's Theme - Radio Edit",
-      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "Back To Basics",
         "url": "https://open.spotify.com/album/0zRJsgzHZUUdk8Rjk6Segd"
       },
@@ -2415,6 +2399,22 @@
       "duration_ms": 194213,
       "name": "Candyman",
       "url": "https://open.spotify.com/track/5lUTzPuiloBHm1qEaJcJfF"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "Lola's Theme",
+        "url": "https://open.spotify.com/album/7DdLjF8JFxVVMFh4rRC1bE"
+      },
+      "artists": [
+        {
+          "name": "The Shapeshifters",
+          "url": "https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP"
+        }
+      ],
+      "duration_ms": 207066,
+      "name": "Lola's Theme - Radio Edit",
+      "url": "https://open.spotify.com/track/2SCP5oOX5OSp5RT83h2rs0"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -2507,22 +2507,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "Dutty Rock (20th Anniversary)",
-        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 232506,
-      "name": "Like Glue",
-      "url": "https://open.spotify.com/track/56m8Wv3qRBfwLuO08GtfHs"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "Heaven",
         "url": "https://open.spotify.com/album/7KHjkfgCVwog38yBI0NcmR"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 233600,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/72SpPFrMYCXLB3Fbw9tEgf"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "Dutty Rock (20th Anniversary)",
+        "url": "https://open.spotify.com/album/1aYcfMrpGIuPNZhDWMJcnV"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 232506,
+      "name": "Like Glue",
+      "url": "https://open.spotify.com/track/56m8Wv3qRBfwLuO08GtfHs"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -2583,22 +2583,6 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "Christina Aguilera (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
-      },
-      "artists": [
-        {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Come on over Baby (All I Want Is You) - Radio Version",
-      "url": "https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh"
-    },
-    {
-      "added_at": "2022-01-10 11:24:52",
-      "album": {
         "name": "Survivor",
         "url": "https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9"
       },
@@ -2611,6 +2595,22 @@
       "duration_ms": 207906,
       "name": "Bootylicious",
       "url": "https://open.spotify.com/track/41nT1Sp6ChR65FbsdLlFHW"
+    },
+    {
+      "added_at": "2022-01-10 11:24:52",
+      "album": {
+        "name": "Christina Aguilera (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9"
+      },
+      "artists": [
+        {
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Come on over Baby (All I Want Is You) - Radio Version",
+      "url": "https://open.spotify.com/track/7A0apkTSTvMbSI7yplcmlh"
     },
     {
       "added_at": "2022-01-10 11:24:52",
@@ -2671,18 +2671,22 @@
     {
       "added_at": "2022-01-10 11:24:52",
       "album": {
-        "name": "Fever",
-        "url": "https://open.spotify.com/album/4WzTXHp8bVKkKNu3UQ2Fqu"
+        "name": "Good Morning Music: Wake Up Workout",
+        "url": "https://open.spotify.com/album/3MWSY8N1zWSNBcnMTIeiTz"
       },
       "artists": [
         {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+          "name": "Yeah Yeah Yeahs",
+          "url": "https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
         }
       ],
-      "duration_ms": 197826,
-      "name": "In Your Eyes",
-      "url": "https://open.spotify.com/track/1t5nwfsb90IliczIhOMnpJ"
+      "duration_ms": 203920,
+      "name": "Heads Will Roll - A-Trak Remix Radio Edit",
+      "url": "https://open.spotify.com/track/5qGIfWDRdyO67LCTqA2sEn"
     }
   ],
   "unique_name": "Party Hits 2000s",

@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。Cover: WurtS
 
-235 songs - 14 hr 25 min
+236 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,10 +63,11 @@
 | [kirakirayou](https://open.spotify.com/track/1r6QqsG9RXtpemNUt7DY5R) | [saba sister](https://open.spotify.com/artist/2E9ODwADhw1qvfO9BXAkGX) | [kirakirayou](https://open.spotify.com/album/384GpFtH2AIVEienGR2CgF) | 3:08 | 2023-09-20 | 2023-09-27 |
 | [Kokkisin](https://open.spotify.com/track/3xN7nR1BQt9PewgVODVuit) | [Mr.ふぉるて](https://open.spotify.com/artist/4JmNcZTOHBnR8PYl4LfIX6) | [Kokkisin](https://open.spotify.com/album/5cf61jQY5LOLwPpEPXgepe) | 3:06 | 2023-09-26 |  |
 | [Lamp](https://open.spotify.com/track/1K9F6b0vDjtKkmpmW1Ub4E) | [GLASGOW](https://open.spotify.com/artist/3FUuWzheFLPGP7tm5lpjxM) | [Lamp](https://open.spotify.com/album/4B0JbnimIGL9UtO5Z3t0Ro) | 2:56 | 2023-09-12 | 2023-09-20 |
-| [Life Is Good](https://open.spotify.com/track/1EfPleE2AT7pvxpvFYIlIO) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [ugly beauty](https://open.spotify.com/album/28sDeJjrMZ6TmwiZQCJ0wY) | 4:24 | 2023-07-27 | 2023-10-06 |
+| [Life Is Good](https://open.spotify.com/track/1EfPleE2AT7pvxpvFYIlIO) | [DENIMS](https://open.spotify.com/artist/2pNPsyKj8HzdWN359wDrsq) | [ugly beauty](https://open.spotify.com/album/28sDeJjrMZ6TmwiZQCJ0wY) | 4:24 | 2023-07-27 |  |
 | [Love Song](https://open.spotify.com/track/0nokJDMZpEnGbC09v5Fn6T) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Love Song](https://open.spotify.com/album/2mR7pRFpeDSEWbd0jj05hm) | 4:16 | 2023-09-26 |  |
 | [madatripper](https://open.spotify.com/track/1Hh3QSf7fPLVuky3D9BaMa) | [CHUCK TAYLORS](https://open.spotify.com/artist/65VNiZkPv2s8TGgh7n7Xee) | [madatripper](https://open.spotify.com/album/4n25Hsyrj3W8IqiwaeSRql) | 4:26 | 2023-09-05 | 2023-09-07 |
 | [Madatripper](https://open.spotify.com/track/6M8rQwcw2cejAJfurs2Nbx) | [CHUCK TAYLORS](https://open.spotify.com/artist/65VNiZkPv2s8TGgh7n7Xee) | [Madatripper](https://open.spotify.com/album/0HoXHpuT8PGPTlAo2sRuPu) | 4:26 | 2023-09-05 | 2023-09-13 |
+| [MID DAY](https://open.spotify.com/track/4gSM9yLYDnBlBZBhNCFTvO) | [JET JACKET](https://open.spotify.com/artist/3ijo3WLa2yLL37wtOVMNta) | [MID DAY](https://open.spotify.com/album/0FUAPjCkQMjG8FdiIbntVH) | 3:53 | 2023-10-10 |  |
 | [minamisenju](https://open.spotify.com/track/1mp86sit6E3951MCbwvAj3) | [downt](https://open.spotify.com/artist/1u3B7ghkXe7pvfxZTmBJlV) | [SAKANA e.p.](https://open.spotify.com/album/0ZeigWcAC16AtsdVXBzLJ5) | 3:13 | 2023-07-27 | 2023-08-03 |
 | [more than words](https://open.spotify.com/track/2ZT6eELxeETGamaiXu6vmk) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [more than words](https://open.spotify.com/album/6fdrt4Aa8bJIHb5L0GTn7V) | 4:49 | 2023-09-05 |  |
 | [Musica](https://open.spotify.com/track/1iaDqtkMhnPYa8QDS6KFOy) | [Brandy Senki](https://open.spotify.com/artist/2Y1i6bxyYpz8SaVBfWZHeT) | [Jinrui metsubou Wonderland](https://open.spotify.com/album/1lyPHH5S3dpgLoAUtkgHSk) | 3:01 | 2023-08-08 | 2023-08-16 |
@@ -158,14 +159,14 @@
 | [ペパーミント](https://open.spotify.com/track/3U3xD3JRHaBzrMKsrhOazB) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [大人の涙](https://open.spotify.com/album/72UULR9EffVteuvT9xDIKs) | 3:22 | 2023-08-29 |  |
 | [ホワイトアウト](https://open.spotify.com/track/6ueqIFxAqxPnFdZXKNPSrr) | [reGretGirl](https://open.spotify.com/artist/5uvz2VwV3ubUy1Tm1UOrLs) | [my](https://open.spotify.com/album/2ScDaY2kCiHLd0li7FQf37) | 3:31 | 2023-08-15 |  |
 | [マテリアル](https://open.spotify.com/track/400h4RZFXUt5FE9fEygrzw) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [answer](https://open.spotify.com/album/5CySG9zBbWjSRVFlJSfhwB) | 3:18 | 2023-07-27 | 2023-08-09 |
-| [ミックス](https://open.spotify.com/track/5sAf1YOrqP7t4uMng90FWR) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ミックス](https://open.spotify.com/album/2IrEhqLiVmJZRgSY4W0djK) | 3:29 | 2023-08-15 |  |
+| [ミックス](https://open.spotify.com/track/5sAf1YOrqP7t4uMng90FWR) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ミックス](https://open.spotify.com/album/2IrEhqLiVmJZRgSY4W0djK) | 3:29 | 2023-08-15 | 2023-10-12 |
 | [ミッドナイト・リバース](https://open.spotify.com/track/3fVVyuDjNtoPIJsxmXsDdw) | [Set Free](https://open.spotify.com/artist/36vcyceqhQLnHVZgchCasA) | [FREE PASS](https://open.spotify.com/album/5U02prkojd5yNP53kvDHzx) | 3:04 | 2023-09-26 | 2023-10-04 |
 | [ムスクの香り](https://open.spotify.com/track/6PHpLWetTcMeqMvdd3p2Uv) | [the shes gone](https://open.spotify.com/artist/689D5sYXTKmpBXqAkAu0H7) | [HEART](https://open.spotify.com/album/0u1S82PGHIoNsvHTLuy0Nz) | 3:17 | 2023-07-27 | 2023-08-09 |
 | [メタモルフォーゼ](https://open.spotify.com/track/5WkN8jPH9tvTjRDqYOdufM) | [八木海莉](https://open.spotify.com/artist/49WETRjhY9BjHQsxPWj5Vi) | [メタモルフォーゼ](https://open.spotify.com/album/5o6YjEGVGgdZb05AkqIwko) | 2:32 | 2023-08-08 | 2023-09-14 |
 | [ユエニ](https://open.spotify.com/track/7hZQgHQ1NH8WYs5UBtjRET) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ユエニ](https://open.spotify.com/album/1ZuPsCdjOY2hJyM3Y6KO84) | 4:00 | 2023-07-27 | 2023-10-06 |
 | [ユートピア](https://open.spotify.com/track/0BNRPhGI1A8MHZqyDaJEEq) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [BACK](https://open.spotify.com/album/7Ej2LUL0yWgp3eHjLROaNd) | 2:39 | 2023-10-03 |  |
 | [ヨーソロー](https://open.spotify.com/track/4p8zpIOdWUBAvo76pNVoIi) | [This is LAST](https://open.spotify.com/artist/4wW9Mak1gx2PnswYDpHmA1) | [ヨーソロー](https://open.spotify.com/album/6wEFC1ktCxt68EsVT2e2cX) | 4:44 | 2023-08-01 |  |
-| [ラズベリー](https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラズベリー](https://open.spotify.com/album/0hszj3ElKlD0MYdcZg4vrR) | 3:35 | 2023-07-27 |  |
+| [ラズベリー](https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラズベリー](https://open.spotify.com/album/0hszj3ElKlD0MYdcZg4vrR) | 3:35 | 2023-07-27 | 2023-10-12 |
 | [ラブソング](https://open.spotify.com/track/5ezanQZbxISkNLgQUW08Cs) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ラブソング](https://open.spotify.com/album/5tSuCB8yf6cvvf6SrtyQnv) | 4:16 | 2023-09-26 | 2023-09-28 |
 | [ラヴィング](https://open.spotify.com/track/2CilkMMofhv0H1o7U8C0lR) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ラヴィング](https://open.spotify.com/album/2pwuHsLpBLEzyH0LutULfq) | 3:44 | 2023-07-27 |  |
 | [リカ](https://open.spotify.com/track/5iPPyvEn7BcWw34aGKGd6W) | [SIX LOUNGE](https://open.spotify.com/artist/0hOOhY33adbUdYjrzJHYlX) | [リカ](https://open.spotify.com/album/5luFrHAHn4fb5r7KhdoYlE) | 3:36 | 2023-08-03 |  |

@@ -4,7 +4,7 @@
 
 > Paramore along with the best alternative songs of today.
 
-449 songs - 1 day 1 hr 21 min
+450 songs - 1 day 1 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,7 +125,8 @@
 | [Emotion Sickness](https://open.spotify.com/track/5a8V2ZeVLj8ktvodCa1m80) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [In Times New Roman...](https://open.spotify.com/album/2ZTDmH94OLjeNaOvT7Ngwk) | 4:31 | 2023-06-16 | 2023-06-24 |
 | [Enemy \(with JID\) \- from the series Arcane League of Legends](https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Enemy \(with JID\) \[from the series Arcane League of Legends\]](https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b) | 2:53 | 2021-10-29 | 2022-03-26 |
 | [Especially You](https://open.spotify.com/track/1prCMVGhgKF805LZJhFIHe) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Especially You](https://open.spotify.com/album/6GdntthLLMwjMcKiv4b70R) | 3:01 | 2022-03-11 | 2022-05-28 |
-| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-09-15 |  |
+| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/3YQHgTo0898GHXRC2byH52) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:48 | 2023-10-06 |  |
+| [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 | 2023-09-15 | 2023-10-12 |
 | [Eulogy](https://open.spotify.com/track/4JfMlJsDGIu1bVOYUnUYYH) | [grandson](https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4) | [Eulogy](https://open.spotify.com/album/1yoLIxqTVxN9O5U5KmwIIj) | 2:21 | 2023-03-10 | 2023-04-15 |
 | [Everybody's Cool](https://open.spotify.com/track/5HUxswbr7V4fzwG1LGCf7U) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Keep On Smiling](https://open.spotify.com/album/0SbaC7OZOVB2WKGzf9ZMSQ) | 4:22 | 2022-09-16 | 2022-12-03 |
 | [Eyez](https://open.spotify.com/track/4gP55KOAwtv0qGuKq4YjLA) | [The Arcs](https://open.spotify.com/artist/3mVWMgLc7bcyCBtL2ymZwK) | [Electrophonic Chronic](https://open.spotify.com/album/3eU8EWUvHf0uls7ucn2aDJ) | 3:40 | 2023-02-17 | 2023-03-11 |

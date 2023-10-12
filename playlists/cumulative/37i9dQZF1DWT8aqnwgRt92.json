@@ -273,6 +273,24 @@
     },
     {
       "album": {
+        "name": "Magie Magie",
+        "url": "https://open.spotify.com/album/501DWHpafy1a3ycR6TW3q4"
+      },
+      "artists": [
+        {
+          "name": "Akari Kito",
+          "url": "https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244053,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/4DvRFPXSsTkxZqwrCZPGly"
+    },
+    {
+      "album": {
         "name": "Ahatte Teppen\u2019",
         "url": "https://open.spotify.com/album/44dpI1riKMZ1mSMFS8RWAA"
       },
@@ -2214,6 +2232,24 @@
       "duration_ms": 208666,
       "name": "DownTimer (unknown Vo:O2)",
       "url": "https://open.spotify.com/track/6occpeuCkcU3HlnPL5rE6r"
+    },
+    {
+      "album": {
+        "name": "DRAW",
+        "url": "https://open.spotify.com/album/1Xrw9J0zz0mYZxQRJUAlro"
+      },
+      "artists": [
+        {
+          "name": "XAAXAA",
+          "url": "https://open.spotify.com/artist/0VcWUiBe3sJ7tqkZejkQvd"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211933,
+      "name": "DRAW",
+      "url": "https://open.spotify.com/track/68bacZy8OquMiXpmEUNi0L"
     },
     {
       "album": {
@@ -6190,10 +6226,28 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 220920,
       "name": "Naiteiinda",
       "url": "https://open.spotify.com/track/0XG0tbMYCtXac43tJaA3Dg"
+    },
+    {
+      "album": {
+        "name": "The Best flumpool 2.0 ~ Blue(2008-2011)& Red(2019-2023) ~",
+        "url": "https://open.spotify.com/album/1jUNCwNItivgFwAqqrAMNv"
+      },
+      "artists": [
+        {
+          "name": "flumpool",
+          "url": "https://open.spotify.com/artist/5Kpt1mryjiwHa9goYPQG1o"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220920,
+      "name": "Naiteiinda",
+      "url": "https://open.spotify.com/track/4qYnNRrUStS7FLdosbQFPS"
     },
     {
       "album": {
@@ -11754,7 +11808,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 244053,
       "name": "\u30a2\u30d5\u30bf\u30fc\u30b0\u30ed\u30a6",
       "url": "https://open.spotify.com/track/4JGiODNnchXeUpbyWwk9nG"
@@ -13398,7 +13452,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 211933,
       "name": "\u30c9\u30ed\u30fc",
       "url": "https://open.spotify.com/track/3a0eIE0dd509tKxCdkIYLW"

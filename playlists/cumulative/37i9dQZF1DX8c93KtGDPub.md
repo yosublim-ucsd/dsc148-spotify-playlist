@@ -4,7 +4,7 @@
 
 > Play these festive songs upon a winter's night, and have yourself a folksy little Christmas now\. Cover: She & Him
 
-270 songs - 15 hr 46 min
+271 songs - 15 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,8 @@
 | [I'll Be Home for Christmas](https://open.spotify.com/track/7yQwAOhxlXmvYLrwc8HMfT) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT) | [To: Kate \- A Benefit for Kate's Sake](https://open.spotify.com/album/6aXfgnD3oYwtjtINBzWUJX) | 3:45 | 2021-12-24 |  |
 | [I'll Be Home for Christmas](https://open.spotify.com/track/2vWxpX18IXmyzMEqMiswIH) | [Lera Lynn](https://open.spotify.com/artist/2iul6etLF5hjjpxo43rzz7) | [Love One Another](https://open.spotify.com/album/46E6sF02lYraOYDpDMURfh) | 2:11 | 2021-12-24 |  |
 | [I'm Coming Home](https://open.spotify.com/track/7LK3HUv2v9Nn3BgurXnctu) | [Holley Maher](https://open.spotify.com/artist/3GDAPdQP9OYzIlhd7HkbJj) | [Music City Unsigned Family Christmas](https://open.spotify.com/album/0UiC6YzuRJa8XKRQGoHRTp) | 2:47 | 2021-12-24 |  |
-| [If We Make It Through December](https://open.spotify.com/track/5tuAa5RlaA3X3WXfGkOiDY) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [A Merrie Christmas to You](https://open.spotify.com/album/7smYi6E9oA91ZNKeQWZKai) | 2:38 | 2021-12-24 |  |
+| [If We Make It Through December](https://open.spotify.com/track/6bvCOyEZxaPtUjyJ3Z6Nsy) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [A Merry Christmas to You](https://open.spotify.com/album/2QxpYrJe9fnbbi1eNpK4je) | 2:38 | 2022-11-15 |  |
+| [If We Make It Through December](https://open.spotify.com/track/5tuAa5RlaA3X3WXfGkOiDY) | [Blue Rodeo](https://open.spotify.com/artist/4M1fxLs3K8DkyCaTEpdfo0) | [A Merrie Christmas to You](https://open.spotify.com/album/7smYi6E9oA91ZNKeQWZKai) | 2:38 | 2021-12-24 | 2023-10-12 |
 | [If We Make It Through December](https://open.spotify.com/track/2vnVkHPckitpXFyC2Q2ULG) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [If We Make It Through December](https://open.spotify.com/album/5c7rZDAKYf6PsA3MUfNZXL) | 2:59 | 2022-11-15 |  |
 | [In the Bleak Midwinter](https://open.spotify.com/track/5oxR9vvnUuuDh8NTLy2kEW) | [Natalie Schlabs](https://open.spotify.com/artist/25YHQvJbJh2yW36lrZJ9e5), [Betsy Phillips](https://open.spotify.com/artist/3m3VhgcmqGV93tHZiOFrId) | [In the Bleak Midwinter](https://open.spotify.com/album/3j8YduiXuo5HUctjKnyZTA) | 3:05 | 2021-12-24 |  |
 | [In The Bleak Midwinter](https://open.spotify.com/track/59vU9HvjJx09uWeAC7wai5) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [In The Bleak Midwinter](https://open.spotify.com/album/7wVUdg2hmTl1GBYq6xSHT3) | 3:51 | 2021-12-24 |  |

@@ -1,12 +1,12 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 517534,
+  "num_followers": 516917,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMDhkNmNlNTlhY2NkNmU3YjI4MTdiODcwNmUxODRlMmZhOTdiNzc4",
+  "snapshot_id": "MCxlZjEwYWE0NTA0OTNmMTBmZmExZWE3YWZjZjc5MzkwNDczOWMwNWQx",
   "tracks": [
     {
       "added_at": "2023-08-28 16:45:24",
@@ -687,38 +687,6 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
-        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
-      },
-      "artists": [
-        {
-          "name": "La Marisoul",
-          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Un Telegrama",
-      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
-        "name": "Live At The Village Vanguard",
-        "url": "https://open.spotify.com/album/2S1w7Sc9NukidqKfpylJDX"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 396226,
-      "name": "Como Traigo La Yuca - Live",
-      "url": "https://open.spotify.com/track/4ZMlEw8pXvHuwQwem5kpGF"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
         "name": "Live in Cuba",
         "url": "https://open.spotify.com/album/2mLRfQqMxdiZSpUHnd0HKy"
       },
@@ -743,6 +711,38 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
+        "name": "Live At The Village Vanguard",
+        "url": "https://open.spotify.com/album/2S1w7Sc9NukidqKfpylJDX"
+      },
+      "artists": [
+        {
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
+        }
+      ],
+      "duration_ms": 396226,
+      "name": "Como Traigo La Yuca - Live",
+      "url": "https://open.spotify.com/track/4ZMlEw8pXvHuwQwem5kpGF"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
+        "name": "La Marisoul & The Love Notes Orchestra (Vol. 1)",
+        "url": "https://open.spotify.com/album/2qyiE3MTlsNaBqvzEBSilO"
+      },
+      "artists": [
+        {
+          "name": "La Marisoul",
+          "url": "https://open.spotify.com/artist/71thoyIIWlcK2fL2dCSsCE"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Un Telegrama",
+      "url": "https://open.spotify.com/track/0QfwW9zDu9glbBLMITa754"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
         "name": "The Best Of Chick Corea",
         "url": "https://open.spotify.com/album/42yiUOGntY4V5W3rf7Glus"
       },
@@ -763,22 +763,6 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "Coral Way",
-        "url": "https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        }
-      ],
-      "duration_ms": 219999,
-      "name": "Coral Way",
-      "url": "https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
         "name": "Palabras",
         "url": "https://open.spotify.com/album/1GwVQQYncZKZDTdE7yN0Ef"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 244000,
       "name": "Palabras",
       "url": "https://open.spotify.com/track/6F93ygd6pZO7gD3PJWozCy"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
+        "name": "Coral Way",
+        "url": "https://open.spotify.com/album/6nY4zFR105qr33Ii7ODw3s"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        }
+      ],
+      "duration_ms": 219999,
+      "name": "Coral Way",
+      "url": "https://open.spotify.com/track/7e3U7b3CLSxIyMJVUIirai"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
-        "name": "Dig My Feeling",
-        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
-      },
-      "artists": [
-        {
-          "name": "Willie Bobo",
-          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
-        }
-      ],
-      "duration_ms": 220198,
-      "name": "Dig My Feeling",
-      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
         "name": "Juntos para Siempre",
         "url": "https://open.spotify.com/album/3y4OdF00cUvKDi8QW0eS76"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 289986,
       "name": "Descarga Vald\u00e9s",
       "url": "https://open.spotify.com/track/2fKIOUrSKTpI6LlRRELZ7a"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
+        "name": "Dig My Feeling",
+        "url": "https://open.spotify.com/album/0aFfSViYSXEcJm2EUWcCne"
+      },
+      "artists": [
+        {
+          "name": "Willie Bobo",
+          "url": "https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr"
+        }
+      ],
+      "duration_ms": 220198,
+      "name": "Dig My Feeling",
+      "url": "https://open.spotify.com/track/5sWCc28VBNY2kHMfZ7MqHc"
     },
     {
       "added_at": "2023-08-28 16:45:24",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2023-08-28 16:45:24",
       "album": {
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        }
+      ],
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
+    },
+    {
+      "added_at": "2023-08-28 16:45:24",
+      "album": {
         "name": "Fantasia Cubana: Variations On Classical Themes",
         "url": "https://open.spotify.com/album/3vM4qhrFa1661g4AF1FAJm"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 270066,
       "name": "Chopin: Prelude In E-Minor",
       "url": "https://open.spotify.com/track/3Xp9K5dWLNz57RyjgmCJWu"
-    },
-    {
-      "added_at": "2023-08-28 16:45:24",
-      "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        }
-      ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
       "added_at": "2023-08-28 16:45:24",

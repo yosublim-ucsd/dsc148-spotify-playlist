@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 
 > New York salsa...it's home.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,772 likes - 115 songs - 8 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,834 likes - 115 songs - 8 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 78 | [Mujer de Carne y Hueso](https://open.spotify.com/track/4lrtVnIYs1JX00H9FwzJh1) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE), [Gustavo Rodriguez](https://open.spotify.com/artist/5Gsv3vQ8J8tpLcx4vw2Hv2) | [25 Años, 25 Éxitos, 25 Artistas](https://open.spotify.com/album/4CMjUtztu4nXimeCmu0LuB) | 4:53 |
 | 79 | [Cuídate Bién](https://open.spotify.com/track/6T5ITpAYsPK1CfNPhtBKZm) | [La Critica](https://open.spotify.com/artist/5poEGfCmeFo8HcoNaOLIo0) | [Colección De Oro: La Crítica Y Sus Cantantes, Vol\. 1](https://open.spotify.com/album/66AzgPZCCRROGy1N1DO9ix) | 3:35 |
 | 80 | [Lo Que Pasó Entre Tú y Yo Pasó](https://open.spotify.com/track/54YMfDYvcG24NQU1Jxcu8V) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Lo Que Pasó..\. La Historia Del Príncipe De La Salsa](https://open.spotify.com/album/3fH9W32gXxYgka8q6SAtOW) | 4:39 |
-| 81 | [Tutuneco](https://open.spotify.com/track/2rGtqPVV2JQPkuxH3HRiu2) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Epoca de Oro, Vol\. 1](https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui) | 2:38 |
-| 82 | [Puerto Rico](https://open.spotify.com/track/1Y53t2ucYs8CUMsUkwBZTA) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Two Brothers Two Legends](https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh) | 6:58 |
+| 81 | [Puerto Rico](https://open.spotify.com/track/1Y53t2ucYs8CUMsUkwBZTA) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C), [Ismael Quintana](https://open.spotify.com/artist/0BM26r4eTvHRclFsKRH2zq) | [Two Brothers Two Legends](https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh) | 6:58 |
+| 82 | [Tutuneco](https://open.spotify.com/track/2rGtqPVV2JQPkuxH3HRiu2) | [Cortijo Y Su Combo](https://open.spotify.com/artist/4S3JIryQM3mFVhXmQKjtma), [Ismael Rivera](https://open.spotify.com/artist/788HzQOFhN3mcDo0InBqbJ) | [La Epoca de Oro, Vol\. 1](https://open.spotify.com/album/3DeeTSAsbputi8InQLDtui) | 2:38 |
 | 83 | [La Negra Tomasa](https://open.spotify.com/track/2gfri3SpCftv9UAqNJ1IDD) | [Vocal Sampling](https://open.spotify.com/artist/5WNsC1A1Bg1bCkylOw3bpD) | [Live in Berlin](https://open.spotify.com/album/0fKzk4CCTilGtw4T4lBxFi) | 4:19 |
 | 84 | [Para Chango](https://open.spotify.com/track/7nabjegyfwRCiFX11anzb1) | [Oscar D'León](https://open.spotify.com/artist/1c84wItoiAe1pEbpJMqUmQ) | [Con Bajo Y Todo](https://open.spotify.com/album/6ftic7itzGAW7BDdvi2PMx) | 3:35 |
 | 85 | [Puerto Rico 2006 \(feat\. Eddie Palmieri\)](https://open.spotify.com/track/2ZDRSkczBnN0i1l4Ofybg9) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Decision Unanime](https://open.spotify.com/album/3koPizaQfKKMX9Fbp8j7fz) | 5:23 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27Dfa7kD6dg.md) - [plain]
 | 114 | [El Cantante](https://open.spotify.com/track/3gIZxkCKjNP1tft5TynUED) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [Marc Anthony "El Cantante" OST](https://open.spotify.com/album/4MRdW6rlNSqpnCAZKGxqLC) | 6:47 |
 | 115 | [Insaciable](https://open.spotify.com/track/2NhpUxYubhTbFqn8PFNfwo) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [Serie Millennium: Eddie Santiago](https://open.spotify.com/album/6trSesFexVgSw7P7eeSN6L) | 4:29 |
 
-Snapshot ID: `MCw1MDkzMTdjYWRjMzBjMDk5NGQzOGFlNTgwNTY3ZjZiODE3ZjQyZDE4`
+Snapshot ID: `MCwxNDU5MzNlMTdhZGQ3ZDhlNDdkYTJjOGJlMDBmY2JmZjQ3NGUzYmY3`

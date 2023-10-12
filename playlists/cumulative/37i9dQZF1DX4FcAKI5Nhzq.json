@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! Cover: ONF",
+  "description": "Future K-Pop hits! Cover: JINI",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -298,7 +298,7 @@
       ],
       "date_added": "2023-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 208320,
       "name": "7HEAVEN",
       "url": "https://open.spotify.com/track/3ZvaNnxZATJ4bA41Vkbssc"
@@ -482,7 +482,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 316944,
       "name": "AEAO",
       "url": "https://open.spotify.com/track/3TPvrMAd1hbPRXuHCRX0Pl"
@@ -2350,6 +2350,28 @@
       "duration_ms": 158068,
       "name": "BYOB (bring your own best friend)",
       "url": "https://open.spotify.com/track/2zoLJs2jC0uiy59KJAWL2h"
+    },
+    {
+      "album": {
+        "name": "An Iron Hand In A Velvet Glove",
+        "url": "https://open.spotify.com/album/1ZXkq2lRMEuEILb4XfEXAL"
+      },
+      "artists": [
+        {
+          "name": "JINI",
+          "url": "https://open.spotify.com/artist/5X8oV02v7yAe4gsI4Rxl5D"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193400,
+      "name": "C'mon (feat. Amin\u00e9)",
+      "url": "https://open.spotify.com/track/0mWIAujQDmtG5m7Mu0NTmK"
     },
     {
       "album": {
@@ -4772,6 +4794,24 @@
       "duration_ms": 186186,
       "name": "Eye On You",
       "url": "https://open.spotify.com/track/7hg0IEar5zT2pdIt21THE7"
+    },
+    {
+      "album": {
+        "name": "ROBERT",
+        "url": "https://open.spotify.com/album/4VTHhmhVaB2gpViAdHbKHg"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128920,
+      "name": "f",
+      "url": "https://open.spotify.com/track/02Nkt660XIvXwZQf9bkwh6"
     },
     {
       "album": {
@@ -11629,6 +11669,28 @@
     },
     {
       "album": {
+        "name": "RA TA TA",
+        "url": "https://open.spotify.com/album/6mf3kFRGFkNDdDEBbvxiap"
+      },
+      "artists": [
+        {
+          "name": "AILEE",
+          "url": "https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF"
+        },
+        {
+          "name": "Lil Cherry",
+          "url": "https://open.spotify.com/artist/523GImBnBoIvcq0n8BZIv4"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177453,
+      "name": "RA TA TA (Feat. Lil Cherry)",
+      "url": "https://open.spotify.com/track/37WwbTpUvG0Vi4kvGY14nP"
+    },
+    {
+      "album": {
         "name": "HOSPITAL PLAYLIST Season2 (Original Television Soundtrack), Pt. 1",
         "url": "https://open.spotify.com/album/2pJhtrlZZvxFi818EMvKAY"
       },
@@ -12952,7 +13014,7 @@
       ],
       "date_added": "2023-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 182240,
       "name": "Shhh",
       "url": "https://open.spotify.com/track/76qqDJijAjFph7sjUxNVG8"

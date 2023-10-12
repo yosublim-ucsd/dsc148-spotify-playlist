@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 
 > Les meilleures nouveautés de la scène rock française\. Photo : F.F.F.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,952 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,954 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8HxJlVUR3HN.md) - [plain]
 | 49 | [Anxiety](https://open.spotify.com/track/4WlWURWhySwwK7lq0kwyIO) | [Johnnie Carwash](https://open.spotify.com/artist/6QrdWAI9FMyVqBIKcecUD0) | [Anxiety](https://open.spotify.com/album/2QRKR6Pm7MjSoDcLZuVdX2) | 3:26 |
 | 50 | [Ilion](https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Ilion](https://open.spotify.com/album/759EtlXJpbASpseS57pVyL) | 11:08 |
 
-Snapshot ID: `MCwyNzRjMzMxZWRiNGFiZTg5NWMxYjg5NzlhNjkyMTBmYjUzNmI1Yjk0`
+Snapshot ID: `MCxjMTU5OThkYTIwMTU4ZDg1ZGNkOWVlODY3NTVlYWEwOWZjZWJkYWQx`

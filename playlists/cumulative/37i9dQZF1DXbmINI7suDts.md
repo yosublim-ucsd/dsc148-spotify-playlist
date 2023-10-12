@@ -4,7 +4,7 @@
 
 > Get your spirits up and manage your mood any time of the day
 
-97 songs - 5 hr 28 min
+98 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [HERE THEY COME](https://open.spotify.com/track/5H5eCRqsbOq8BlXgqjXJbu) | [MAUIMØON](https://open.spotify.com/artist/6YrLXeCHt4gjrGx6cLCd4b), [La Soülchyld](https://open.spotify.com/artist/22kR1CajfNQ3ZmPcjKATyV) | [HERE THEY COME](https://open.spotify.com/album/6F7eC5DNJNyX0wsy3Ll7IR) | 2:19 | 2022-06-06 |  |
 | [High](https://open.spotify.com/track/6UUmEHfkUtMOskNYjlf9kx) | [Artin Pro](https://open.spotify.com/artist/2LMyimxq7nl4YIHsPd6Vou), [Ronie On Dis One](https://open.spotify.com/artist/1ffsHhD3TNYdqWhT0gZeZk) | [High](https://open.spotify.com/album/32JQNDjBDuMHbAQWNPUZRE) | 3:10 | 2022-06-06 |  |
 | [Holiday](https://open.spotify.com/track/6Xil25LAkeXS8t7zuX9bCq) | [Tarley](https://open.spotify.com/artist/6MCgwpWIJKz02C8kHTNFXr), [Country Wizzy](https://open.spotify.com/artist/3yhr2zfewkFrMS4MtHijYW) | [Holiday](https://open.spotify.com/album/5gjFDaBgK7t5vlqWljQmCs) | 3:20 | 2023-01-20 |  |
-| [Hurt](https://open.spotify.com/track/5SlEAgY8J6pPRIIeNnrOi5) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Hurt](https://open.spotify.com/album/2lcx1HhjTeD4ftYvY6oBii) | 3:23 | 2023-02-10 |  |
+| [Hurt](https://open.spotify.com/track/3bJbYh6uvG3QpIyF8TqCHl) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Hurt](https://open.spotify.com/album/0aw1zSvHaoF4RWSlrh8onc) | 3:23 | 2023-09-07 |  |
+| [Hurt](https://open.spotify.com/track/5SlEAgY8J6pPRIIeNnrOi5) | [Jona Da King](https://open.spotify.com/artist/0kPgslWy1peactBrX5wHXS) | [Hurt](https://open.spotify.com/album/2lcx1HhjTeD4ftYvY6oBii) | 3:23 | 2023-02-10 | 2023-10-12 |
 | [I am an African Girl \- Let Her Know Remix](https://open.spotify.com/track/3LM0vvNxz70Hn8ZClSZuw0) | [Afrie](https://open.spotify.com/artist/4jY6R19KcBOgfVoYcFRGmx), [Ife](https://open.spotify.com/artist/5WiC6YMFHUEPrD5p1KBRUn), [Smarty](https://open.spotify.com/artist/0bptA6l4hIWy33bCXiXO45) | [I am an African Girl \(Let Her Know Remix\)](https://open.spotify.com/album/4yhSNfpElmAk8g1bn9ULuN) | 4:15 | 2022-06-06 |  |
 | [I Have a Dream](https://open.spotify.com/track/6C3hJMzXPspSPRSMTZ640O) | [Sheebah](https://open.spotify.com/artist/7d2j0CA7B9ACGv8xu2NuUu) | [I Have a Dream](https://open.spotify.com/album/7DBV6VBPBqU6FG9DU7iYsf) | 4:15 | 2022-11-10 |  |
 | [I Hope](https://open.spotify.com/track/4pqG4WjrY0YRCaDTpYy86G) | [Shawn Maine](https://open.spotify.com/artist/2WYf5FfGLxxLahVy554PlB) | [After The Pain](https://open.spotify.com/album/2UldGFRlxpHh12VjkuEajQ) | 3:20 | 2022-06-06 | 2022-08-06 |

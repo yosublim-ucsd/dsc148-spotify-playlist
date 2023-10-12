@@ -1,12 +1,12 @@
 {
   "description": "Celebra con saz\u00f3n. A holiday playlist with tropical flavor. ",
-  "num_followers": 28408,
+  "num_followers": 28390,
   "original_name": "Navidad Con Sabor",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4ZWRkMjcyZjNlNjQzNjg2ZGVmODU1NDAzMTA2YWZlM2NkYzEzZDIw",
+  "snapshot_id": "MCw0MDRlZTE2NWI3MWM4OTA5MzI0NmNkMDRiYTU5Njk0MWVkZGIxZGUz",
   "tracks": [
     {
       "added_at": "2023-08-16 16:09:39",
@@ -227,6 +227,22 @@
     {
       "added_at": "2023-08-16 16:09:39",
       "album": {
+        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
+        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
+      },
+      "artists": [
+        {
+          "name": "Trio Vegabaje\u00f1o",
+          "url": "https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "CANTARES DE NAVIDAD",
+      "url": "https://open.spotify.com/track/2Iv6YBslkxslMJQsxshZh5"
+    },
+    {
+      "added_at": "2023-08-16 16:09:39",
+      "album": {
         "name": "Nuestra Musica",
         "url": "https://open.spotify.com/album/2qsUMz7N4aGYk0ObNbKqCE"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 285200,
       "name": "Ta Encendio",
       "url": "https://open.spotify.com/track/2FI5ftUcHYCXv1NfCed6g6"
-    },
-    {
-      "added_at": "2023-08-16 16:09:39",
-      "album": {
-        "name": "EL \u00daLTIMO TOUR DEL MUNDO",
-        "url": "https://open.spotify.com/album/2d9BCZeAAhiZWPpbX9aPCW"
-      },
-      "artists": [
-        {
-          "name": "Trio Vegabaje\u00f1o",
-          "url": "https://open.spotify.com/artist/5TphiK6LsT4X5NOZxq3NJB"
-        }
-      ],
-      "duration_ms": 199720,
-      "name": "CANTARES DE NAVIDAD",
-      "url": "https://open.spotify.com/track/2Iv6YBslkxslMJQsxshZh5"
     },
     {
       "added_at": "2023-08-16 16:09:39",
@@ -403,22 +403,6 @@
     {
       "added_at": "2023-08-16 16:09:39",
       "album": {
-        "name": "30th Anniversary",
-        "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 237253,
-      "name": "La Fiesta de Pilito",
-      "url": "https://open.spotify.com/track/0GppZBPxqJ70c3kYFX4AQm"
-    },
-    {
-      "added_at": "2023-08-16 16:09:39",
-      "album": {
         "name": "De Peligro",
         "url": "https://open.spotify.com/album/4i5AN343G0xAZS68YRAW6k"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 230306,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/0aSchN9e2PIuwej57T3eBB"
+    },
+    {
+      "added_at": "2023-08-16 16:09:39",
+      "album": {
+        "name": "30th Anniversary",
+        "url": "https://open.spotify.com/album/0MSAzzmVUM8w8sAVey6Nud"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 237253,
+      "name": "La Fiesta de Pilito",
+      "url": "https://open.spotify.com/track/0GppZBPxqJ70c3kYFX4AQm"
     },
     {
       "added_at": "2023-08-16 16:09:39",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-08-16 16:09:39",
       "album": {
-        "name": "Exito",
-        "url": "https://open.spotify.com/album/47KNauaaXrTkZ6GcR1ggRF"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 202110,
-      "name": "Las Calenas",
-      "url": "https://open.spotify.com/track/2AlxpCmslhg3sBtcyZ6nh2"
-    },
-    {
-      "added_at": "2023-08-16 16:09:39",
-      "album": {
         "name": "T\u00fa No Bailas Mas Que Yo",
         "url": "https://open.spotify.com/album/4G7Ap84rNIhYgF5NXHmP8q"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 183367,
       "name": "T\u00fa No Bailas Mas Que Yo",
       "url": "https://open.spotify.com/track/2U2xfA3zCdjsLVhAX2rQ3y"
+    },
+    {
+      "added_at": "2023-08-16 16:09:39",
+      "album": {
+        "name": "Exito",
+        "url": "https://open.spotify.com/album/47KNauaaXrTkZ6GcR1ggRF"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 202110,
+      "name": "Las Calenas",
+      "url": "https://open.spotify.com/track/2AlxpCmslhg3sBtcyZ6nh2"
     },
     {
       "added_at": "2023-08-16 16:09:39",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-08-16 16:09:39",
       "album": {
-        "name": "Abriendo Puertas",
-        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "Farolito (Little Star)",
-      "url": "https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9"
-    },
-    {
-      "added_at": "2023-08-16 16:09:39",
-      "album": {
         "name": "Navidad Sin Ti",
         "url": "https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 253400,
       "name": "Esta Navidad",
       "url": "https://open.spotify.com/track/6Gau5rKadNtM3eQPN4Nyku"
+    },
+    {
+      "added_at": "2023-08-16 16:09:39",
+      "album": {
+        "name": "Abriendo Puertas",
+        "url": "https://open.spotify.com/album/58L3coHWC8BOho10VpDHXV"
+      },
+      "artists": [
+        {
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "Farolito (Little Star)",
+      "url": "https://open.spotify.com/track/5tTS9k3YRyHHPVut0PO8I9"
     },
     {
       "added_at": "2023-08-16 16:09:39",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-08-16 16:09:39",
       "album": {
+        "name": "Lo Mejor De Gilberto En La Navidad",
+        "url": "https://open.spotify.com/album/4lc37RNbpnoKrhBY0EKOjB"
+      },
+      "artists": [
+        {
+          "name": "Gilberto Santa Rosa",
+          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
+        }
+      ],
+      "duration_ms": 271213,
+      "name": "Me Gustan las Navidades",
+      "url": "https://open.spotify.com/track/6QhNqzWx1iXZoKB8Ww2wEy"
+    },
+    {
+      "added_at": "2023-08-16 16:09:39",
+      "album": {
         "name": "Asalto Navide\u00f1o, Vol. II",
         "url": "https://open.spotify.com/album/4zGcM2kO7IlHxqukxgCvgm"
       },
@@ -951,22 +967,6 @@
       "duration_ms": 298920,
       "name": "Arbolito",
       "url": "https://open.spotify.com/track/3jOl0qRSfT1KkMd4pPLmeS"
-    },
-    {
-      "added_at": "2023-08-16 16:09:39",
-      "album": {
-        "name": "Lo Mejor De Gilberto En La Navidad",
-        "url": "https://open.spotify.com/album/4lc37RNbpnoKrhBY0EKOjB"
-      },
-      "artists": [
-        {
-          "name": "Gilberto Santa Rosa",
-          "url": "https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1"
-        }
-      ],
-      "duration_ms": 271213,
-      "name": "Me Gustan las Navidades",
-      "url": "https://open.spotify.com/track/6QhNqzWx1iXZoKB8Ww2wEy"
     },
     {
       "added_at": "2023-08-16 16:09:39",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2023-08-16 16:09:39",
       "album": {
-        "name": "El burrito de belen / Dame la mano paloma",
-        "url": "https://open.spotify.com/album/1S4fT6NsFY4AzFViDpg69w"
+        "name": "20 Exitos Navide\u00f1os",
+        "url": "https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1"
       },
       "artists": [
         {
-          "name": "Aventura",
-          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
+          "name": "Danny Rivera",
+          "url": "https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL"
         }
       ],
-      "duration_ms": 204853,
-      "name": "El burrito de belen",
-      "url": "https://open.spotify.com/track/4Y1oOsZkfCV01Ov8jqU7mJ"
+      "duration_ms": 260000,
+      "name": "La Parranda",
+      "url": "https://open.spotify.com/track/5Ptl9drhVZS14XStUwxvtf"
     },
     {
       "added_at": "2023-08-16 16:09:39",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2023-08-16 16:09:39",
       "album": {
-        "name": "20 Exitos Navide\u00f1os",
-        "url": "https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1"
+        "name": "El burrito de belen / Dame la mano paloma",
+        "url": "https://open.spotify.com/album/1S4fT6NsFY4AzFViDpg69w"
       },
       "artists": [
         {
-          "name": "Danny Rivera",
-          "url": "https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL"
+          "name": "Aventura",
+          "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 260000,
-      "name": "La Parranda",
-      "url": "https://open.spotify.com/track/5Ptl9drhVZS14XStUwxvtf"
+      "duration_ms": 204853,
+      "name": "El burrito de belen",
+      "url": "https://open.spotify.com/track/4Y1oOsZkfCV01Ov8jqU7mJ"
     },
     {
       "added_at": "2023-08-16 16:09:39",
@@ -1095,6 +1095,22 @@
       "duration_ms": 240586,
       "name": "El 5 de Enero",
       "url": "https://open.spotify.com/track/0wA1WkJouLmvBG9eIYaVrP"
+    },
+    {
+      "added_at": "2023-08-16 16:09:39",
+      "album": {
+        "name": "20 Exitos Navide\u00f1os",
+        "url": "https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1"
+      },
+      "artists": [
+        {
+          "name": "Danny Rivera",
+          "url": "https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL"
+        }
+      ],
+      "duration_ms": 199000,
+      "name": "Trulla Pa' Ti",
+      "url": "https://open.spotify.com/track/5JYJ7UuEoLnTZBtKKXRVN8"
     },
     {
       "added_at": "2023-08-16 16:09:39",
@@ -1147,22 +1163,6 @@
     {
       "added_at": "2023-08-16 16:09:39",
       "album": {
-        "name": "Navidad Sin Ti",
-        "url": "https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73"
-      },
-      "artists": [
-        {
-          "name": "Johnny Ventura y su Combo",
-          "url": "https://open.spotify.com/artist/0q0lEulQZYw4EexzUVDiJR"
-        }
-      ],
-      "duration_ms": 230306,
-      "name": "Navidad Sin Ti",
-      "url": "https://open.spotify.com/track/0j3lYn9mbOJ1L5iWrmu6pQ"
-    },
-    {
-      "added_at": "2023-08-16 16:09:39",
-      "album": {
         "name": "Memorias de Navidad",
         "url": "https://open.spotify.com/album/1zTDuNOo7R4b1u3fjSL5w5"
       },
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-08-16 16:09:39",
       "album": {
-        "name": "20 Exitos Navide\u00f1os",
-        "url": "https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1"
+        "name": "Navidad Sin Ti",
+        "url": "https://open.spotify.com/album/6mwWKwdIg3twKIw8B5Ob73"
       },
       "artists": [
         {
-          "name": "Danny Rivera",
-          "url": "https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL"
+          "name": "Johnny Ventura y su Combo",
+          "url": "https://open.spotify.com/artist/0q0lEulQZYw4EexzUVDiJR"
         }
       ],
-      "duration_ms": 199000,
-      "name": "Trulla Pa' Ti",
-      "url": "https://open.spotify.com/track/5JYJ7UuEoLnTZBtKKXRVN8"
+      "duration_ms": 230306,
+      "name": "Navidad Sin Ti",
+      "url": "https://open.spotify.com/track/0j3lYn9mbOJ1L5iWrmu6pQ"
     },
     {
       "added_at": "2023-08-16 16:09:39",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2023-08-16 16:09:39",
       "album": {
+        "name": "Merenboom Vol. 4",
+        "url": "https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 274480,
+      "name": "El Rondon",
+      "url": "https://open.spotify.com/track/2XlAZpyqugi43VWnT0GnUb"
+    },
+    {
+      "added_at": "2023-08-16 16:09:39",
+      "album": {
         "name": "Milenario, Vol. 1",
         "url": "https://open.spotify.com/album/6yGR9lJFtZACoDo4haXjMq"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 173493,
       "name": "Amerindio",
       "url": "https://open.spotify.com/track/6OOGXA7qm09X3PKrptesLB"
-    },
-    {
-      "added_at": "2023-08-16 16:09:39",
-      "album": {
-        "name": "Merenboom Vol. 4",
-        "url": "https://open.spotify.com/album/0s14eLBO32u18R53j9LCVI"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 274480,
-      "name": "El Rondon",
-      "url": "https://open.spotify.com/track/2XlAZpyqugi43VWnT0GnUb"
     },
     {
       "added_at": "2023-08-16 16:09:39",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2023-08-16 16:09:39",
       "album": {
+        "name": "Fiesta en Navidad, Vol. 2 (39 \u00c9xitos)",
+        "url": "https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG"
+      },
+      "artists": [
+        {
+          "name": "Los Toros Band",
+          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
+        }
+      ],
+      "duration_ms": 311773,
+      "name": "Lleg\u00f3 Tu Marido (Version Navidad)",
+      "url": "https://open.spotify.com/track/042FMCMJQviVQQ1oYBIdVb"
+    },
+    {
+      "added_at": "2023-08-16 16:09:39",
+      "album": {
         "name": "Somos Navidad",
         "url": "https://open.spotify.com/album/3N4AKHUNLfkdLpPTsBpWea"
       },
@@ -1467,38 +1483,6 @@
     {
       "added_at": "2023-08-16 16:09:39",
       "album": {
-        "name": "Lo Que Ped\u00ed En Mi Carta",
-        "url": "https://open.spotify.com/album/7IpNZh57df8T0e6O5lwB6b"
-      },
-      "artists": [
-        {
-          "name": "Bachata Heightz",
-          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Lo Que Ped\u00ed En Mi Carta",
-      "url": "https://open.spotify.com/track/5YUe4SfZKtltdUcaoKbeLv"
-    },
-    {
-      "added_at": "2023-08-16 16:09:39",
-      "album": {
-        "name": "Fiesta en Navidad, Vol. 2 (39 \u00c9xitos)",
-        "url": "https://open.spotify.com/album/2KU53YYpSADLNINuYxGqfG"
-      },
-      "artists": [
-        {
-          "name": "Los Toros Band",
-          "url": "https://open.spotify.com/artist/4cBjJBPtvetlysjjojDLUA"
-        }
-      ],
-      "duration_ms": 311773,
-      "name": "Lleg\u00f3 Tu Marido (Version Navidad)",
-      "url": "https://open.spotify.com/track/042FMCMJQviVQQ1oYBIdVb"
-    },
-    {
-      "added_at": "2023-08-16 16:09:39",
-      "album": {
         "name": "Versos de Nuestra Cultura",
         "url": "https://open.spotify.com/album/1EuDECMiIY2t7ti1kYHWnK"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 230840,
       "name": "Alegre Vengo Cantando",
       "url": "https://open.spotify.com/track/1RoUwy8Rfsp0SPaddPUmBu"
+    },
+    {
+      "added_at": "2023-08-16 16:09:39",
+      "album": {
+        "name": "Lo Que Ped\u00ed En Mi Carta",
+        "url": "https://open.spotify.com/album/7IpNZh57df8T0e6O5lwB6b"
+      },
+      "artists": [
+        {
+          "name": "Bachata Heightz",
+          "url": "https://open.spotify.com/artist/5zvRX0y0JYtGOmGJwLwyIL"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Lo Que Ped\u00ed En Mi Carta",
+      "url": "https://open.spotify.com/track/5YUe4SfZKtltdUcaoKbeLv"
     },
     {
       "added_at": "2023-08-16 16:09:39",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2023-08-16 16:09:39",
       "album": {
-        "name": "La G\u00fcera Salom\u00e9",
-        "url": "https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5"
-      },
-      "artists": [
-        {
-          "name": "Los Flamers",
-          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
-        }
-      ],
-      "duration_ms": 224586,
-      "name": "La G\u00fcera Salom\u00e9",
-      "url": "https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa"
-    },
-    {
-      "added_at": "2023-08-16 16:09:39",
-      "album": {
         "name": "Navidad Caribe\u00f1a: Desde Quisqueya y Puerto Rico",
         "url": "https://open.spotify.com/album/0ChiBQiatrvyHDGABY7V68"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 302520,
       "name": "Parranda Quisqueyana",
       "url": "https://open.spotify.com/track/09JoV9u9sijtmIWY9j0NX6"
+    },
+    {
+      "added_at": "2023-08-16 16:09:39",
+      "album": {
+        "name": "La G\u00fcera Salom\u00e9",
+        "url": "https://open.spotify.com/album/3TsnMLapb09cLVtn09IcZ5"
+      },
+      "artists": [
+        {
+          "name": "Los Flamers",
+          "url": "https://open.spotify.com/artist/1GsQwQOSAhn76MaVz5NXSq"
+        }
+      ],
+      "duration_ms": 224586,
+      "name": "La G\u00fcera Salom\u00e9",
+      "url": "https://open.spotify.com/track/1NRvmgMHpMyG8QOH45JKKa"
     }
   ],
   "unique_name": "Navidad Con Sabor",

@@ -2,9 +2,9 @@
 
 ### [Rancho Viral](https://open.spotify.com/playlist/37i9dQZF1DX7aCIGeSe3p4)
 
-> Una troka salió de Durango a las 2 o 3 de la mañana 💃🏽🕺🏽 Cosechando los éxitos del internet 🤠
+> Si te hago tanto mal, mejor déjame tranquilo antes que se rompa el hilo que quedó 😫😪 Cosechando los éxitos del internet 🤠
 
-93 songs - 4 hr 47 min
+94 songs - 4 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,7 +34,7 @@
 | [El AV](https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 4:31 | 2023-04-10 |  |
 | [El Doble R](https://open.spotify.com/track/0uQcVX5M3E5aGf2sBQwfHZ) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Cruzando Fronteras](https://open.spotify.com/album/1VvHNHWtVjcS1jd13nlzNR) | 2:35 | 2022-01-05 |  |
 | [El Hombre Del Equipo](https://open.spotify.com/track/0M6ubxqeWNNB6RgeobpaV2) | [Grupo Maximo Grado](https://open.spotify.com/artist/0ssx5sZQzc1nZZF2Ks8qXZ) | [Blanco y Negro Vol\. 1](https://open.spotify.com/album/6LK6fOmrYEovTCldkjLR6x) | 3:43 | 2022-12-29 |  |
-| [El Jefe](https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Jefe](https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X) | 2:50 | 2023-09-21 |  |
+| [El Jefe](https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Jefe](https://open.spotify.com/album/12v3LOTr03ykEMdyekvM1X) | 2:50 | 2023-09-21 | 2023-10-12 |
 | [El Mandado](https://open.spotify.com/track/64kqJ2pSMRLGdBcnNbeNpw) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 2:41 | 2023-08-08 |  |
 | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/track/2cpAMkytkJoaaLYO6pXBey) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [El Toro Encartado \- Spotify Singles](https://open.spotify.com/album/1UVIxjnGk4B4HnsTQsXLWh) | 2:44 | 2023-09-21 |  |
 | [El Vals Del Olvido](https://open.spotify.com/track/71V6u8mPSydvEokO7XYqG6) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [El Día De Los Muertos](https://open.spotify.com/album/7pxn1oyPyy1nOFQQhoHJKX) | 3:29 | 2022-10-03 |  |
@@ -69,6 +69,7 @@
 | [Mi Cómplice](https://open.spotify.com/track/1GOvdGVrasTEG5JfDs8V5f) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 3:09 | 2023-03-06 |  |
 | [Mi Segunda Vida](https://open.spotify.com/track/6Z7f0BXDLI8k4CHR9KJdAD) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Gracias Por Creer](https://open.spotify.com/album/0NAHsxTJDSwjwetzFTJnJz) | 3:07 | 2023-08-08 | 2023-09-22 |
 | [Mood Malandro](https://open.spotify.com/track/0zhymr6RqNuvp0RMIvdpdA) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Mood Malandro](https://open.spotify.com/album/6x60IHS4WQeKN2xSxPSJbr) | 3:11 | 2023-09-21 |  |
+| [O Me Voy O Te Vas](https://open.spotify.com/track/127UT7AiWflJwjXWUBBVTQ) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [O Me Voy O Te Vas](https://open.spotify.com/album/4oMV5zQlFluZYsbw1knD97) | 4:02 | 2023-10-11 |  |
 | [Perfecta](https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6) | [Alameños de la Sierra](https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh) | [Las Pacas](https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX) | 4:41 | 2022-03-29 |  |
 | [Perfecta](https://open.spotify.com/track/2pxz6kTVvEUdMwwoeMs70P) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 3:34 | 2023-05-12 |  |
 | [Poco A Poco](https://open.spotify.com/track/4loIMejzvt11s97SGVEat8) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Los Dareyes De La Sierra](https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0) | [Poco A Poco](https://open.spotify.com/album/0Xc7skil4XnM9I2bzAtqgl) | 2:36 | 2023-09-25 |  |

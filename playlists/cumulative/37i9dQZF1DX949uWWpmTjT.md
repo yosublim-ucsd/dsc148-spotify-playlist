@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-814 songs - 2 day 5 hr 12 min
+815 songs - 2 day 5 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,7 +336,7 @@
 | [In Bloom](https://open.spotify.com/track/1vHdsEJac4TZE9xycHHcdj) | [High North Trio](https://open.spotify.com/artist/4ecpTLtCqe62hwHasUcfUY) | [A Sunday Kind Of Love](https://open.spotify.com/album/6AuNg5Zym7yfX7rgdy6BAW) | 2:54 | 2022-11-10 |  |
 | [In Love In Vain](https://open.spotify.com/track/51T3UIxjT7JFCa65LJF9u8) | [Jon Belle](https://open.spotify.com/artist/5BHVITncVsM3pH38AVSZr5) | [In Love In Vain](https://open.spotify.com/album/2Qhxe4KQqMY6vXjimJjLt2) | 2:58 | 2023-08-25 |  |
 | [In Space And Time](https://open.spotify.com/track/64ns7jHUJWaFn25DXc8aMK) | [Quinn Perry Trio](https://open.spotify.com/artist/16azKEAxILijPKm6gQf9Rb) | [In Space And Time](https://open.spotify.com/album/6bye45GDWXbdltU1GRSP7g) | 3:12 | 2023-08-10 |  |
-| [In the Distance](https://open.spotify.com/track/68ycONiuTtYjbnc7fGoPWX) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [In the Distance](https://open.spotify.com/album/7jWHmfsFMsxlvkgtS1WxNs) | 2:53 | 2023-06-01 |  |
+| [In the Distance](https://open.spotify.com/track/68ycONiuTtYjbnc7fGoPWX) | [Matt Marantz Quartet](https://open.spotify.com/artist/0UaQ3qnMEuBWsPnbKWJo8V) | [In the Distance](https://open.spotify.com/album/7jWHmfsFMsxlvkgtS1WxNs) | 2:53 | 2023-06-01 | 2023-10-12 |
 | [In The Night](https://open.spotify.com/track/7AUmSRVIpO8u7yk8mBZs4E) | [Stefania Tallini](https://open.spotify.com/artist/1pkxVMM5bTXroF9L37toYb), [Matteo Bortone](https://open.spotify.com/artist/6Igu2eu1zPLL09auCGQqS8), [Gregory Hutchinson](https://open.spotify.com/artist/4uFjFfYlOxBKvdHKuHqk2y) | [Uneven](https://open.spotify.com/album/5q8nd3LqfzNaOfrv9VRhG8) | 4:00 | 2021-12-03 |  |
 | [In The Normal World](https://open.spotify.com/track/1ZmQ6hnTsXicbT8DnOmdBi) | [Norris Walker Trio](https://open.spotify.com/artist/2AOwERyiRRzThecI5m7xK9) | [In The Normal World](https://open.spotify.com/album/6AP34atxToIcX9nDZYt6W3) | 3:40 | 2022-11-10 | 2023-01-27 |
 | [In The Old Fashioned Way](https://open.spotify.com/track/2ExRtsNPSx1XupyPBq7Wtr) | [Mornington](https://open.spotify.com/artist/1oC6eOjjixPdeV0HvUAviS) | [In The Old Fashioned Way](https://open.spotify.com/album/7hZ0nH506LaGxcYLxlb0ms) | 3:48 | 2023-01-26 |  |
@@ -421,6 +421,7 @@
 | [Love your confidence](https://open.spotify.com/track/502jiTX9WZhXQyovxvO6ju) | [Charles Daisey & Friends](https://open.spotify.com/artist/3w2I7PA6Gx8aD6IZMBJP20) | [Love your confidence](https://open.spotify.com/album/4I9j3ooj70J3asmDwc5TsI) | 3:24 | 2023-06-01 |  |
 | [Low In The Sky](https://open.spotify.com/track/64IxUrxbv4r5Mwxxez5IV2) | [Reuben Plays](https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC) | [Low In The Sky](https://open.spotify.com/album/3zuk8Y55rA8Dc5BuW7tVJu) | 3:49 | 2023-02-02 |  |
 | [Ludlow](https://open.spotify.com/track/2EhrFpsVC4rkiCf86AeVdv) | [James Jackson Jazz Trio](https://open.spotify.com/artist/2VQmB7dgKLHJve0htcYfiQ) | [Easy Dreamin'](https://open.spotify.com/album/4JkR0RYW5wCohQPke2Kwl2) | 3:03 | 2023-01-05 |  |
+| [Lullaby](https://open.spotify.com/track/0XEzkY36A838Jy1Nam64Mm) | [Sean Mason](https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z) | [Lullaby](https://open.spotify.com/album/1eT0iJYVpe8NEqSj9u6Yoo) | 3:39 | 2023-10-06 |  |
 | [Lullaby In Rhythm](https://open.spotify.com/track/25zqKQdQJhxFus3X0BPWD3) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Things Are Swingin'](https://open.spotify.com/album/0puYTmfXiL5UZLyl33nXKT) | 2:16 | 2021-12-03 |  |
 | [Lumberjacks'](https://open.spotify.com/track/4Za1MUR7dLiKbvYHxlMjhQ) | [Jacky Bonnet Group](https://open.spotify.com/artist/6raCh9DUKDTErUk5QmRYzX) | [Lumberjacks'](https://open.spotify.com/album/5Hx0WztbDPWqBbjr2pjxyU) | 2:30 | 2022-12-30 |  |
 | [Luna](https://open.spotify.com/track/16kuQew0DW0IFOTCXVQ2F0) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Luna](https://open.spotify.com/album/4LjumPygx5KGf78cfLsacs) | 4:24 | 2022-11-10 |  |

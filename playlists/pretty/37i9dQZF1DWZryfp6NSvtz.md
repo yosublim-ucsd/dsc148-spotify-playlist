@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 
 > The best new rock tracks every week\. Cover: Teen Jesus and the Jean Teasers
 
-[Spotify](https://open.spotify.com/user/spotify) - 426,047 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 426,101 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,34 +29,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZryfp6NSvtz.md) - [plain]
 | 19 | [Time Machine 2 \(feat\. illuminati hotties\)](https://open.spotify.com/track/4gMUfXTeJybsscR5ntzQDT) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [illuminati hotties](https://open.spotify.com/artist/3ztRX1UoIOsFqpD7dB6R8O) | [Tough Kid EP](https://open.spotify.com/album/0mzbKYOJgiNvCtevFiS1kv) | 3:19 |
 | 20 | [WALK AWAY](https://open.spotify.com/track/2pDc4u9N8BaawyLiAj7xRx) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [WALK AWAY](https://open.spotify.com/album/7olCMwhzrN5E9rBkYK3q6w) | 2:38 |
 | 21 | [Miss Again](https://open.spotify.com/track/0CykGGOeJSAvMsjScRs3D3) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Miss Again](https://open.spotify.com/album/1I5rQb5CtuRZKm2NA6VQiu) | 3:39 |
-| 22 | [At Least I Tried](https://open.spotify.com/track/6EMyGdzKWQjz61i3aLzYDJ) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [At Least I Tried](https://open.spotify.com/album/6wDY1BlAruClWkBibcP01Z) | 2:35 |
-| 23 | [Blonde](https://open.spotify.com/track/4QGGLjKe2TgPdBKVH6FKfR) | [Dogstar](https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe) | [Somewhere Between the Power Lines and Palm Trees](https://open.spotify.com/album/6mo1n5cRP3rmTKMnBuDZsL) | 3:18 |
+| 22 | [Blonde](https://open.spotify.com/track/4QGGLjKe2TgPdBKVH6FKfR) | [Dogstar](https://open.spotify.com/artist/74cm7dEfR07ca0ih4XKyQe) | [Somewhere Between the Power Lines and Palm Trees](https://open.spotify.com/album/6mo1n5cRP3rmTKMnBuDZsL) | 3:18 |
+| 23 | [At Least I Tried](https://open.spotify.com/track/6EMyGdzKWQjz61i3aLzYDJ) | [Sun Room](https://open.spotify.com/artist/4ANMwDtqwfkzPgFoUoLZ3Y) | [At Least I Tried](https://open.spotify.com/album/6wDY1BlAruClWkBibcP01Z) | 2:35 |
 | 24 | [You Plus Me](https://open.spotify.com/track/2YLSw7VocLFF4MNr5X7qeM) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [You Plus Me](https://open.spotify.com/album/72qAfy89DFIPG6AHkZsL4G) | 3:12 |
 | 25 | [Tethered](https://open.spotify.com/track/0ZRnv9lXrT1kthOFt0llwy) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Tethered](https://open.spotify.com/album/2MOOICbNuggNtJU2OZWaA4) | 3:48 |
 | 26 | [Plans](https://open.spotify.com/track/73wrWfbOAms1ZouKuBuh0D) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Plans](https://open.spotify.com/album/3fGvMYRJ29zRyoHfsPU9z6) | 2:55 |
 | 27 | [Boots Walkin' All over You](https://open.spotify.com/track/26FT7b8OmWRAQvxV2KSvIM) | [Velvet Two Stripes](https://open.spotify.com/artist/7pbcgkLjLsiXKYoKvdmW9g) | [No Spell for Moving Water](https://open.spotify.com/album/1GnhsJ96TxmK11CgBiEKZn) | 2:45 |
-| 28 | [Ilion](https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Ilion](https://open.spotify.com/album/759EtlXJpbASpseS57pVyL) | 11:08 |
-| 29 | [Collect](https://open.spotify.com/track/252ODAgPlMKwwh9XWo8xgW) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Collect](https://open.spotify.com/album/6k9XYrdZMdF7z2uPFB51lh) | 2:56 |
+| 28 | [Collect](https://open.spotify.com/track/252ODAgPlMKwwh9XWo8xgW) | [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Collect](https://open.spotify.com/album/6k9XYrdZMdF7z2uPFB51lh) | 2:56 |
+| 29 | [Ilion](https://open.spotify.com/track/21YyY9zhXf0rdn1cHXmZ1Q) | [SLIFT](https://open.spotify.com/artist/0x9HCT7ZZlOEfLSVCDi5SO) | [Ilion](https://open.spotify.com/album/759EtlXJpbASpseS57pVyL) | 11:08 |
 | 30 | [I Like Dogs](https://open.spotify.com/track/6zesqtIAy9kc4UnHnhz3Nq) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [The CARR Show](https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ) | 3:33 |
-| 31 | [Nearly Daffodils](https://open.spotify.com/track/27gZNSZFWAdADpJ4sEbhZM) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Nearly Daffodils](https://open.spotify.com/album/5wsCwJ7cW59jEebWfqBosB) | 3:44 |
-| 32 | [NOTHINGNESS](https://open.spotify.com/track/0QRK0E7CwPfw1ON6kIGfNX) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [NOTHINGNESS](https://open.spotify.com/album/26VIcq9CQqqGixCH7y56Pb) | 3:14 |
-| 33 | [Lies](https://open.spotify.com/track/2DSiMn5zZQbGG4sK3LbxJx) | [Wait of the World](https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si) | [Lies](https://open.spotify.com/album/6Y6O7YxqmoPwydJo5Hdfml) | 3:17 |
+| 31 | [Lies](https://open.spotify.com/track/2DSiMn5zZQbGG4sK3LbxJx) | [Wait of the World](https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si) | [Lies](https://open.spotify.com/album/6Y6O7YxqmoPwydJo5Hdfml) | 3:17 |
+| 32 | [Nearly Daffodils](https://open.spotify.com/track/27gZNSZFWAdADpJ4sEbhZM) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Nearly Daffodils](https://open.spotify.com/album/5wsCwJ7cW59jEebWfqBosB) | 3:44 |
+| 33 | [NOTHINGNESS](https://open.spotify.com/track/0QRK0E7CwPfw1ON6kIGfNX) | [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [NOTHINGNESS](https://open.spotify.com/album/26VIcq9CQqqGixCH7y56Pb) | 3:14 |
 | 34 | [Tuesday](https://open.spotify.com/track/19Ta3GtCyDQHhFXMS0vUZj) | [mary in the junkyard](https://open.spotify.com/artist/48Kc3HRodbvm5ropMf9B6M) | [Tuesday](https://open.spotify.com/album/3uzaEWHPjutN7RP2WjLiXf) | 4:59 |
 | 35 | [Personal 2](https://open.spotify.com/track/5BfAUjH3xucwKBbwmuHMPe) | [Disappeared Completely](https://open.spotify.com/artist/4R5wiVl9fXPuS71ws235Ch) | [Personal 2](https://open.spotify.com/album/4om5YzxBtw1mrVA3WAyDVG) | 3:29 |
 | 36 | [Break Even](https://open.spotify.com/track/3hwf03RXLPEmAr4BqpOW40) | [Mars Red Sky](https://open.spotify.com/artist/1vrCjYU0zXNXvLobueUTvQ) | [Break Even](https://open.spotify.com/album/5xXeXLLrzZG9WxcbXdV6se) | 6:10 |
 | 37 | [Madonna](https://open.spotify.com/track/5WGbFv0TIXvvQKD5dr4FuD) | [Baby Fisher](https://open.spotify.com/artist/0xyKLUHH6HXyMAgsDQgVsA) | [Madonna](https://open.spotify.com/album/4vKBpPK8Y4YaIgudaBeNu4) | 2:56 |
 | 38 | [So Long](https://open.spotify.com/track/1mQYvjPXigBBxEyM6VfPPp) | [Yam Haus](https://open.spotify.com/artist/0rSavBIQ6PthnW6brWugNL) | [Stupid and Famous](https://open.spotify.com/album/58riorwSTiBrDtCLgsYsv0) | 1:54 |
 | 39 | [Grab The Wheel](https://open.spotify.com/track/6Ah3fGbAzn3mjKIySvl4YI) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Grab The Wheel](https://open.spotify.com/album/1aBwM4YpCLH1yI3YQDQYpv) | 3:17 |
-| 40 | [Your Time](https://open.spotify.com/track/0RZAJxJwAoix2UtHi69yt5) | [Prize Horse](https://open.spotify.com/artist/4pIntP5eVpHl5B8jHXUDtD) | [Your Time](https://open.spotify.com/album/1ZTr59SbSjkrs6VdXEA9Mt) | 3:10 |
-| 41 | [Here's Looking At You, Kid!](https://open.spotify.com/track/3qrdJp0kQATq1WvXW0GNML) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Here's Looking At You, Kid!](https://open.spotify.com/album/0pQe7BNRBgq6IxafMBlCFY) | 2:44 |
+| 40 | [Here's Looking At You, Kid!](https://open.spotify.com/track/3qrdJp0kQATq1WvXW0GNML) | [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [Here's Looking At You, Kid!](https://open.spotify.com/album/0pQe7BNRBgq6IxafMBlCFY) | 2:44 |
+| 41 | [Your Time](https://open.spotify.com/track/0RZAJxJwAoix2UtHi69yt5) | [Prize Horse](https://open.spotify.com/artist/4pIntP5eVpHl5B8jHXUDtD) | [Your Time](https://open.spotify.com/album/1ZTr59SbSjkrs6VdXEA9Mt) | 3:10 |
 | 42 | [Windows 98](https://open.spotify.com/track/4ii5CgpcLll9NwfXfAvWKj) | [All Get Out](https://open.spotify.com/artist/40YwbT9WnYAkFgBSYtHGQj) | [Windows 98](https://open.spotify.com/album/69nosiYlDJ0yCwYqvjaqZ5) | 3:35 |
 | 43 | [Backbone](https://open.spotify.com/track/7cl08gllA42WPESPRGUlqQ) | [MONOWHALES](https://open.spotify.com/artist/6Ok8AIUj7YYGC981xWCbgQ) | [Backbone](https://open.spotify.com/album/6xX5k5pieb7GtDHdNv1lRv) | 3:13 |
-| 44 | [Spin](https://open.spotify.com/track/2bbZeDduBJLuEqZKzGbJvf) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [Spin](https://open.spotify.com/album/3sx15DWfaOrDxTEyzAUHCO) | 3:39 |
-| 45 | [REDEMPTION ARC](https://open.spotify.com/track/69uGaFUvNf55i7DbRzpQSU) | [instant crush](https://open.spotify.com/artist/6CzsxPxOIeXoyhmNiFmtmu) | [REDEMPTION ARC](https://open.spotify.com/album/7uge8Yp8wNJ3CB6P4UYkyl) | 3:12 |
+| 44 | [REDEMPTION ARC](https://open.spotify.com/track/69uGaFUvNf55i7DbRzpQSU) | [instant crush](https://open.spotify.com/artist/6CzsxPxOIeXoyhmNiFmtmu) | [REDEMPTION ARC](https://open.spotify.com/album/7uge8Yp8wNJ3CB6P4UYkyl) | 3:12 |
+| 45 | [Spin](https://open.spotify.com/track/2bbZeDduBJLuEqZKzGbJvf) | [Trainfantome](https://open.spotify.com/artist/7pG1EQuqeYlTh3J3jkCHfp) | [Spin](https://open.spotify.com/album/3sx15DWfaOrDxTEyzAUHCO) | 3:39 |
 | 46 | [Screwjob '97](https://open.spotify.com/track/0Nxdgw4M7xzVHRSQ7YN4n3) | [WALWIN](https://open.spotify.com/artist/25I3ONjJhbX1mE62i57djG) | [Screwjob '97](https://open.spotify.com/album/5mg3bMfkS9LUoLK6rKBc7Q) | 3:01 |
 | 47 | [Powerback](https://open.spotify.com/track/4tXM3eS5yTpZXRRfCN5uby) | [Shady Fat Kats](https://open.spotify.com/artist/2ZgDtiPPJJhephke84L7BD) | [Powerback](https://open.spotify.com/album/05dhsqbUKJoc6pvyfnY3dI) | 3:45 |
-| 48 | [Yoko](https://open.spotify.com/track/4BwgdCvZHQ94ZSs8UoFKQp) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Yoko](https://open.spotify.com/album/2oBKEtQRdnrkjqcqYvwvAC) | 3:30 |
-| 49 | [Far Away](https://open.spotify.com/track/3lz93pLdSuGjkfXBRBw42N) | [Crossing i's Dotting t's](https://open.spotify.com/artist/7eNA56CKDh8uHvdk3Dsdbc) | [Far Away](https://open.spotify.com/album/1LiO8NC3ONOnCOh9dqcPUC) | 3:44 |
-| 50 | [I Like To](https://open.spotify.com/track/5ul0F5Toj41mBjkv8Zf5NC) | [Symposium](https://open.spotify.com/artist/3YUqeikmjlNZDLLImxLPuq) | [I Like To](https://open.spotify.com/album/5qkvmC4dK5Jgj28BfxDzYq) | 2:42 |
+| 48 | [Far Away](https://open.spotify.com/track/3lz93pLdSuGjkfXBRBw42N) | [Crossing i's Dotting t's](https://open.spotify.com/artist/7eNA56CKDh8uHvdk3Dsdbc) | [Far Away](https://open.spotify.com/album/1LiO8NC3ONOnCOh9dqcPUC) | 3:44 |
+| 49 | [I Like To](https://open.spotify.com/track/5ul0F5Toj41mBjkv8Zf5NC) | [Symposium](https://open.spotify.com/artist/3YUqeikmjlNZDLLImxLPuq) | [I Like To](https://open.spotify.com/album/5qkvmC4dK5Jgj28BfxDzYq) | 2:42 |
+| 50 | [Yoko](https://open.spotify.com/track/4BwgdCvZHQ94ZSs8UoFKQp) | [Ghost Woman](https://open.spotify.com/artist/4IEpQR24sUgq6BQw2MdZIy) | [Yoko](https://open.spotify.com/album/2oBKEtQRdnrkjqcqYvwvAC) | 3:30 |
 
-Snapshot ID: `MCw2ODc2OWZiNDc5NmMyODczZTA0OWM0NGI2MTZiNThhZWE2MDY1NjQz`
+Snapshot ID: `MCxkZGZmY2MzNTgyMjMwY2RhZGM4YjIyMmMyMDU1ZTkyN2E0NjI2YzM1`

@@ -1,12 +1,12 @@
 {
   "description": "Meet the future. New artists on the horizon.",
-  "num_followers": 55426,
+  "num_followers": 55470,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw0MGQwZWM0OWRlMzdmMzQwZDNhZTM3OWExMWYzMGY5ZDViYTI3ODkz",
+  "snapshot_id": "MCw3ZDdlNjE5YWUwODAxNmZjNzgyYTU4NGFhNzAzMzRmMTM1YWE2MzNm",
   "tracks": [
     {
       "added_at": "2023-10-05 08:01:42",
@@ -43,6 +43,34 @@
     {
       "added_at": "2023-10-05 08:01:42",
       "album": {
+        "name": "Dos Pr\u00e9dios Deluxe",
+        "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
+      },
+      "artists": [
+        {
+          "name": "Veigh",
+          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
+        },
+        {
+          "name": "Bvga Beatz",
+          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
+        },
+        {
+          "name": "Prod Malax",
+          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
+        },
+        {
+          "name": "Supernova Ent",
+          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
+        }
+      ],
+      "duration_ms": 140322,
+      "name": "Novo Balan\u00e7o",
+      "url": "https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed"
+    },
+    {
+      "added_at": "2023-10-05 08:01:42",
+      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p"
       },
@@ -71,34 +99,6 @@
       "duration_ms": 179373,
       "name": "Roller Coaster",
       "url": "https://open.spotify.com/track/1fP8o0lIaSIE5jEeblT8df"
-    },
-    {
-      "added_at": "2023-10-05 08:01:42",
-      "album": {
-        "name": "Dos Pr\u00e9dios Deluxe",
-        "url": "https://open.spotify.com/album/0D59BFMmnA87oPyk1oSe1b"
-      },
-      "artists": [
-        {
-          "name": "Veigh",
-          "url": "https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse"
-        },
-        {
-          "name": "Bvga Beatz",
-          "url": "https://open.spotify.com/artist/7saGN6a32YNpiMPo2SWJxE"
-        },
-        {
-          "name": "Prod Malax",
-          "url": "https://open.spotify.com/artist/5X5jKBLJ88Ji6tzwfL0g4c"
-        },
-        {
-          "name": "Supernova Ent",
-          "url": "https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw"
-        }
-      ],
-      "duration_ms": 140322,
-      "name": "Novo Balan\u00e7o",
-      "url": "https://open.spotify.com/track/4hKLzFvNwHF6dPosGT30ed"
     },
     {
       "added_at": "2023-10-05 08:01:42",
@@ -141,40 +141,20 @@
       "url": "https://open.spotify.com/track/26cvTWJq2E1QqN4jyH2OTU"
     },
     {
-      "added_at": "2023-08-18 06:00:00",
+      "added_at": "2023-10-11 14:30:00",
       "album": {
-        "name": "Tic",
-        "url": "https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB"
+        "name": "IMMA LIAR",
+        "url": "https://open.spotify.com/album/4kinMZv8wlwWMXHZrV049m"
       },
       "artists": [
         {
-          "name": "Maureen",
-          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
         }
       ],
-      "duration_ms": 130815,
-      "name": "Tic",
-      "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
-    },
-    {
-      "added_at": "2023-08-03 23:00:00",
-      "album": {
-        "name": "Ignorant / Good Time",
-        "url": "https://open.spotify.com/album/5lEr77mX7UpUDwZQpAl7No"
-      },
-      "artists": [
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
-        },
-        {
-          "name": "Puri",
-          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
-        }
-      ],
-      "duration_ms": 180848,
-      "name": "Good Time (feat. Puri) - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Fz6msvT62cIQOgAJXOqNf"
+      "duration_ms": 171606,
+      "name": "IMMA LIAR",
+      "url": "https://open.spotify.com/track/49IX3KVi9QmelCBp9iIUIc"
     },
     {
       "added_at": "2023-04-17 14:05:23",
@@ -193,6 +173,86 @@
       "url": "https://open.spotify.com/track/7wZnwgGkwpJ8EYJ6VEJD2A"
     },
     {
+      "added_at": "2023-08-18 06:00:00",
+      "album": {
+        "name": "Tic",
+        "url": "https://open.spotify.com/album/5sPX9DRTRsU03utz3IK8vB"
+      },
+      "artists": [
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        }
+      ],
+      "duration_ms": 130815,
+      "name": "Tic",
+      "url": "https://open.spotify.com/track/1rO9az1C7u2RXUK0E9YfUi"
+    },
+    {
+      "added_at": "2023-05-30 12:45:30",
+      "album": {
+        "name": "Somebody's Pleasure",
+        "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        }
+      ],
+      "duration_ms": 223957,
+      "name": "Somebody's Pleasure",
+      "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
+    },
+    {
+      "added_at": "2023-10-11 14:30:00",
+      "album": {
+        "name": "Sand\u0131m Ki",
+        "url": "https://open.spotify.com/album/24eHoKCFb3QWoi6wQlbIX1"
+      },
+      "artists": [
+        {
+          "name": "Paptircem",
+          "url": "https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b"
+        }
+      ],
+      "duration_ms": 246575,
+      "name": "Sand\u0131m Ki",
+      "url": "https://open.spotify.com/track/43UixOA06v0QNlb9Q0YWBX"
+    },
+    {
+      "added_at": "2023-04-17 14:05:23",
+      "album": {
+        "name": "what if i took it off for you?",
+        "url": "https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM"
+      },
+      "artists": [
+        {
+          "name": "Nemahsis",
+          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+        }
+      ],
+      "duration_ms": 136706,
+      "name": "what if i took it off for you?",
+      "url": "https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo"
+    },
+    {
+      "added_at": "2023-07-07 07:23:00",
+      "album": {
+        "name": "Kenaniah",
+        "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
+      },
+      "artists": [
+        {
+          "name": "Kenaniah",
+          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
+        }
+      ],
+      "duration_ms": 280769,
+      "name": "Totoo",
+      "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
+    },
+    {
       "added_at": "2023-09-22 06:00:00",
       "album": {
         "name": "WE STILL YOUNG",
@@ -207,6 +267,38 @@
       "duration_ms": 167142,
       "name": "PLAYLIST (ROCK DA BOAT)",
       "url": "https://open.spotify.com/track/7D6jnDW82vRRMiCRLcy0pl"
+    },
+    {
+      "added_at": "2023-09-01 09:20:13",
+      "album": {
+        "name": "i don't lose sleep anymore",
+        "url": "https://open.spotify.com/album/0TPSnNtb4boimpeYCN5XFq"
+      },
+      "artists": [
+        {
+          "name": "Andr",
+          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+        }
+      ],
+      "duration_ms": 195645,
+      "name": "i don't lose sleep anymore",
+      "url": "https://open.spotify.com/track/4iMTHWzHMf6qVDGY7hzqoE"
+    },
+    {
+      "added_at": "2023-10-11 14:30:00",
+      "album": {
+        "name": "Beni Yan\u0131na Al",
+        "url": "https://open.spotify.com/album/0KWSQFLE7UroT6eB29o5l0"
+      },
+      "artists": [
+        {
+          "name": "Ege Can Sal",
+          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
+        }
+      ],
+      "duration_ms": 173979,
+      "name": "Beni Yan\u0131na Al",
+      "url": "https://open.spotify.com/track/5JZ5UvqUP7Rgip7jqBXQX6"
     },
     {
       "added_at": "2023-08-18 06:00:00",
@@ -265,36 +357,40 @@
       "url": "https://open.spotify.com/track/2Dc0zNIYfOhWs1D13pjQrJ"
     },
     {
-      "added_at": "2023-07-07 07:23:00",
+      "added_at": "2023-08-03 23:00:00",
       "album": {
-        "name": "Kenaniah",
-        "url": "https://open.spotify.com/album/50ZqQAS4Cp2ATe9w1MUHB7"
+        "name": "Ignorant / Good Time",
+        "url": "https://open.spotify.com/album/5lEr77mX7UpUDwZQpAl7No"
       },
       "artists": [
         {
-          "name": "Kenaniah",
-          "url": "https://open.spotify.com/artist/2owtRYReKCG1n2AAS5AcpS"
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        },
+        {
+          "name": "Puri",
+          "url": "https://open.spotify.com/artist/3ADyFy1orEwODaiHmRRMQp"
         }
       ],
-      "duration_ms": 280769,
-      "name": "Totoo",
-      "url": "https://open.spotify.com/track/2xLdN3oHi4CG89H9g1DJXN"
+      "duration_ms": 180848,
+      "name": "Good Time (feat. Puri) - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Fz6msvT62cIQOgAJXOqNf"
     },
     {
-      "added_at": "2023-09-01 09:20:13",
+      "added_at": "2023-10-11 14:30:00",
       "album": {
-        "name": "i don't lose sleep anymore",
-        "url": "https://open.spotify.com/album/0TPSnNtb4boimpeYCN5XFq"
+        "name": "Naz",
+        "url": "https://open.spotify.com/album/6uTzHHdZEfYVw26JY970QZ"
       },
       "artists": [
         {
-          "name": "Andr",
-          "url": "https://open.spotify.com/artist/2hEgcLvKaP0WVJbmmNpkVt"
+          "name": "Sena \u015eahin",
+          "url": "https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W"
         }
       ],
-      "duration_ms": 195645,
-      "name": "i don't lose sleep anymore",
-      "url": "https://open.spotify.com/track/4iMTHWzHMf6qVDGY7hzqoE"
+      "duration_ms": 137142,
+      "name": "Naz",
+      "url": "https://open.spotify.com/track/4BQN5kE1xzJoBSoG75Sedr"
     },
     {
       "added_at": "2023-09-08 07:14:00",
@@ -365,20 +461,20 @@
       "url": "https://open.spotify.com/track/12swMq56NGWq4yf0bRFyKx"
     },
     {
-      "added_at": "2023-04-17 14:05:23",
+      "added_at": "2023-10-11 14:30:00",
       "album": {
-        "name": "what if i took it off for you?",
-        "url": "https://open.spotify.com/album/5P7z9fzcQIrPe1KdONkcRM"
+        "name": "En Sonunda Terk Ettim \u015eehrimi",
+        "url": "https://open.spotify.com/album/49Da5Al1iNGqdjatlyaZTO"
       },
       "artists": [
         {
-          "name": "Nemahsis",
-          "url": "https://open.spotify.com/artist/3IoGpeLyopeqGwiD4Nnt1f"
+          "name": "B\u00f6yleyken B\u00f6yle",
+          "url": "https://open.spotify.com/artist/3yLCFdWSpXsvl8rK2INQRH"
         }
       ],
-      "duration_ms": 136706,
-      "name": "what if i took it off for you?",
-      "url": "https://open.spotify.com/track/72HyixZAVyNR3Ljiuumgyo"
+      "duration_ms": 199343,
+      "name": "En Sonunda Terk Ettim \u015eehrimi",
+      "url": "https://open.spotify.com/track/5GIisFHTMmJAO497d906SO"
     },
     {
       "added_at": "2023-09-08 07:14:00",
@@ -411,22 +507,6 @@
       "duration_ms": 147692,
       "name": "SENSATION",
       "url": "https://open.spotify.com/track/4u10hXkMIHWXQc7eSJM6ZN"
-    },
-    {
-      "added_at": "2023-05-30 12:45:30",
-      "album": {
-        "name": "Somebody's Pleasure",
-        "url": "https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y"
-      },
-      "artists": [
-        {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
-        }
-      ],
-      "duration_ms": 223957,
-      "name": "Somebody's Pleasure",
-      "url": "https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR"
     },
     {
       "added_at": "2023-09-15 09:08:00",

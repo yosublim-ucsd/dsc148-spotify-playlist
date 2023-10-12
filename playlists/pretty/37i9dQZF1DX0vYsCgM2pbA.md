@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 
 > Kick on with this mix of homegrown electronic music
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,751 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,782 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 47 | [Love Is Real](https://open.spotify.com/track/7nZNvE2EdKrH127yzBMW8E) | [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Love Is Real](https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X) | 3:17 |
 | 48 | [Love Language](https://open.spotify.com/track/2hJ0nwb8HPZgo1cTfoHSmH) | [Crooked Colours](https://open.spotify.com/artist/0aA1GTrIMutjIh4GlPPUVN) | [Tomorrows](https://open.spotify.com/album/6DiDjfJEnfAjEZAhbSiQSV) | 3:18 |
 | 49 | [Changes \- Timmy Trumpet Remix](https://open.spotify.com/track/5JZMjnhb3rcAJXn9L1xTIU) | [Faul & Wad](https://open.spotify.com/artist/6HUm6AHJE0oisACMN6NNJ5), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Changes \(Timmy Trumpet Remix\)](https://open.spotify.com/album/57YOijzcUtmTsqIDoKuT2J) | 2:26 |
-| 50 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 |
-| 51 | [Touch](https://open.spotify.com/track/35va3avWAmS4HMKANASOEp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus](https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp) | 3:26 |
+| 50 | [Touch](https://open.spotify.com/track/35va3avWAmS4HMKANASOEp) | [Golden Features](https://open.spotify.com/artist/2SrWifjYv7b5tR8EzEmn1x), [Rromarin](https://open.spotify.com/artist/4JEwT8UJ2ihmM7xWjrtPqP) | [Sisyphus](https://open.spotify.com/album/5V0IE1Dq9W3jt5iuxguwNp) | 3:26 |
+| 51 | [Can't Do Without \(My Baby\)](https://open.spotify.com/track/4hG6H7xPvEleJD9QUEqaAS) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL) | [Can't Do Without \(My Baby\)](https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X) | 3:22 |
 | 52 | [Function](https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Function](https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV) | 3:17 |
 | 53 | [Foxes](https://open.spotify.com/track/0PwglH43kbPyHIrrhNtN3R) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Foxes](https://open.spotify.com/album/06KpNKpi3MlQwkwSgqdWGD) | 4:15 |
 | 54 | [Something Real](https://open.spotify.com/track/1Z0N9hxlzZRPAKI5Q33jsq) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Loner](https://open.spotify.com/album/0sFdU2ngIsxgpErPAwgbvq) | 3:49 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0vYsCgM2pbA.md) - [plain]
 | 59 | [DEVOTION \- Mansionair Remix](https://open.spotify.com/track/6d8DvkfIHiilazeqFiAMBB) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Mansionair](https://open.spotify.com/artist/4qOzMSukiZoiSjPQw8Zs7s) | [DEVOTION \(Mansionair Remix\)](https://open.spotify.com/album/6iccD3bKf7WzugmfcHtu3O) | 4:19 |
 | 60 | [Get To Know \(feat\. Winston Surfshirt\)](https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt) | [Cosmo's Midnight](https://open.spotify.com/artist/4VivsO1n4n2Mi2Btyb5gfL), [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [What Comes Next](https://open.spotify.com/album/2RasvcK0I8bupLoVNuQKZv) | 4:03 |
 
-Snapshot ID: `MCwwNDkxZjA2N2U4ZjQxYWQ3Yzc2ZDczMzg0MmZjNWZjNGIzYzUwZDk3`
+Snapshot ID: `MCxjMWM3Y2FkNDI5ZjBhZmVlMWNkMWExMzZmYTBjNWUxYjZhYzc1ODZl`

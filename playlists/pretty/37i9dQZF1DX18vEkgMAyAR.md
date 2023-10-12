@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,747 likes - 60 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,766 likes - 60 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,16 +57,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 47 | [The Woods \- Evida Remix](https://open.spotify.com/track/0MmNZy7ziTgINtA5CSOkGE) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt), [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi), [Evida](https://open.spotify.com/artist/7e1DmPCwu27owAEWjpb6dN) | [The Woods \(Evida Remix\)](https://open.spotify.com/album/16Im37aeKNeMDeTxWb5OYc) | 3:11 |
 | 48 | [Through the Night](https://open.spotify.com/track/7Aa4LwrZCRV4qN0AsIRilj) | [Rubber Duc](https://open.spotify.com/artist/1LU9hKlamftkrhXmj5k0OU) | [Through the Night](https://open.spotify.com/album/1Z7KGtMBANUIXPSp4lajX3) | 3:39 |
 | 49 | [Life Without Fantasies \- Radio Edit](https://open.spotify.com/track/2Q9QrDU4LUDot1mpYcntiC) | [Neon Dreams](https://open.spotify.com/artist/2UQ6mFkiLYy5VHRJnajQYT), [Max Hurrell](https://open.spotify.com/artist/0MekCsZ593nZDsPIts2wkd) | [Life Without Fantasies \(Radio Edit\)](https://open.spotify.com/album/2CbKkBdhAHKiKkZ8MrkdGf) | 2:41 |
-| 50 | [Love Everlasting](https://open.spotify.com/track/4qWgTI5kANphagZlJL4f8g) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) | [Love Everlasting](https://open.spotify.com/album/1jk13k67kk897HjHgIELRV) | 2:40 |
-| 51 | [Too Blessed To Be Stressed](https://open.spotify.com/track/6lXOFYka4axi7LezCcuQSo) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Mathew Gold](https://open.spotify.com/artist/7yTW9faBAA3MHZ9oeWwJRN) | [Too Blessed To Be Stressed](https://open.spotify.com/album/0JWVf25ijtjI41fPf0Nso5) | 3:32 |
+| 50 | [Too Blessed To Be Stressed](https://open.spotify.com/track/6lXOFYka4axi7LezCcuQSo) | [The Kiffness](https://open.spotify.com/artist/6t41YgqHULlgOq9TK1kcrG), [Mathew Gold](https://open.spotify.com/artist/7yTW9faBAA3MHZ9oeWwJRN) | [Too Blessed To Be Stressed](https://open.spotify.com/album/0JWVf25ijtjI41fPf0Nso5) | 3:32 |
+| 51 | [Love Everlasting](https://open.spotify.com/track/4qWgTI5kANphagZlJL4f8g) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7) | [Love Everlasting](https://open.spotify.com/album/1jk13k67kk897HjHgIELRV) | 2:40 |
 | 52 | [Best Night of My Life](https://open.spotify.com/track/3oSGH1ibFHx3aCHS4Fk3vV) | [American Authors](https://open.spotify.com/artist/0MlOPi3zIDMVrfA9R04Fe3) | [Best Night of My Life](https://open.spotify.com/album/4XxDkLqQfNsGHHsiWOTGpB) | 2:34 |
 | 53 | [Pluto \- Live](https://open.spotify.com/track/59oBTOQ2aidtB5RRbfLdRz) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [The Hanging Gardens Of Beatenberg](https://open.spotify.com/album/1LDSPYtniVN09zmRdd1meQ) | 5:52 |
 | 54 | [Two High \- Acoustic](https://open.spotify.com/track/2Wk1vF8VbiPKrNZI7g2hb8) | [Moon Taxi](https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA) | [Two High \(Acoustic\)](https://open.spotify.com/album/0mpk26zd130uSjS2yFpF8K) | 3:32 |
 | 55 | ['Til I Found You](https://open.spotify.com/track/0LcCeKrpFTzqKrTAzNFIHo) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [‘Til I Found You](https://open.spotify.com/album/1Vk4CueKjarGcPSoWX8DUE) | 2:52 |
 | 56 | [Fire](https://open.spotify.com/track/1XwR2Yh55jADw1Z5KZeJ3k) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [Fire](https://open.spotify.com/album/2m3PL84GyvfSzeIPacHCdf) | 3:23 |
-| 57 | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/album/0lLLTsyd0ix7BXFJYuhDrs) | 4:20 |
-| 58 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
-| 59 | [OMOGE WA JO](https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh) | 2:25 |
-| 60 | [Colours & Lights](https://open.spotify.com/track/4xxnegJcfOiPMRVidxC60N) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [If Summer Was A Sound](https://open.spotify.com/album/3XfgIeHgOAfAeQz5qBXIzh) | 3:08 |
+| 57 | [Colours & Lights](https://open.spotify.com/track/4xxnegJcfOiPMRVidxC60N) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Cat Dealers](https://open.spotify.com/artist/3q2dSq7VZnj8TmoJUyRm40) | [If Summer Was A Sound](https://open.spotify.com/album/3XfgIeHgOAfAeQz5qBXIzh) | 3:08 |
+| 58 | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/track/6MpScQlifniy57CFLOxOCC) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd) | [Oh My Soul \(Bloukaas Remix\)](https://open.spotify.com/album/0lLLTsyd0ix7BXFJYuhDrs) | 4:20 |
+| 59 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
+| 60 | [OMOGE WA JO](https://open.spotify.com/track/1r2aKropSpSFb37Nmtp8WT) | [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih), [L0LA](https://open.spotify.com/artist/5LkJ2e1N1SuXrUIWkw1r0o) | [OMOGE WA JO](https://open.spotify.com/album/6PyyxJkmIZbybiMrOjpPNh) | 2:25 |
 
-Snapshot ID: `MCwyY2MwNmE5YWM0ZjVmNzFmMTY0ZDhjZWI1NjczMDc0OTFjNzg5NTVj`
+Snapshot ID: `MCxhMzczNzQ3YzEzY2U3MmZkOTY4MzNlYjIzNWRhNzkwOTZkMDc4MmQx`

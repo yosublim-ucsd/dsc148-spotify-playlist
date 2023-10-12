@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 
 > From '56 to '76 \- the original volcanic revolutionaries from Rock 'n' Roll, Garage, Psych, Trash, Kraut, Glam and Prog...
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,312 likes - 131 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,922 likes - 131 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 25 | [Nadir's Big Chance \- 2006 Digital Remaster](https://open.spotify.com/track/4tu0NNBNeVMIjMznKBHjtn) | [Peter Hammill](https://open.spotify.com/artist/7uBH52YnXUbJ0ssoyNqQTB) | [Nadir's Big Chance](https://open.spotify.com/album/0BDKAyEOyGkWLNkXIf53S3) | 3:33 |
 | 26 | [Blitzkrieg Bop \- 2016 Remaster](https://open.spotify.com/track/4KcH1ZRV2W1q7Flq0QqC76) | [Ramones](https://open.spotify.com/artist/1co4F2pPNH8JjTutZkmgSm) | [Ramones \(40th Anniversary Deluxe Edition; 2016 Remaster\)](https://open.spotify.com/album/5uYDAwW0SZgcfOFkxrST64) | 2:14 |
 | 27 | [Ever Fallen in Love \(With Someone You Shouldn't've?\) \- 1996 Remastered Version](https://open.spotify.com/track/5YUJMvTg4AWHKjqQidTsGK) | [Buzzcocks](https://open.spotify.com/artist/2DxlS3lTLFIq70S7ap5H3y) | [Love Bites](https://open.spotify.com/album/5rMPmOj5n5TRtphgHpqEVg) | 2:43 |
-| 28 | [Keys to Your Heart](https://open.spotify.com/track/3RPEwWIjRxT7KUGWqgFQYL) | [The 101ers](https://open.spotify.com/artist/75s7RfViwIXirjnRYkZWPe) | [1976](https://open.spotify.com/album/1w48oXvH0uzNyT0Hd41hHX) | 3:44 |
+| 28 | [Keys to Your Heart](https://open.spotify.com/track/4vpSRQ0kn2fkV17A5XFwZK) | [The 101ers](https://open.spotify.com/artist/75s7RfViwIXirjnRYkZWPe) | [Elgin Avenue Breakdown \(Revisited; feat\. Joe Strummer\)](https://open.spotify.com/album/4sb22aeCQZqt0TszEyoqJr) | 3:44 |
 | 29 | [Complication](https://open.spotify.com/track/4Sb3TdqgOi35RoL78Y1LtC) | [The Monks](https://open.spotify.com/artist/3VTNuQRp2wjrWzZX6CXxiy) | [Black Monk Time](https://open.spotify.com/album/0YEmNXaNDq03tfgFmG4MOj) | 2:22 |
 | 30 | [Have Love Will Travel](https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Here Are the Sonics](https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM) | 2:40 |
 | 31 | [Wild Thing](https://open.spotify.com/track/7jGzYUZ2Bgg8BDfYlQRfn8) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [From Nowhere](https://open.spotify.com/album/1myVNI7Ucy8g9HudbJ8Vu2) | 2:35 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU0FBqUeZYeN.md) - [plain]
 | 130 | [She's About a Mover](https://open.spotify.com/track/6ZYvCY3zyajhHunwbDrCtx) | [Sir Douglas Quintet](https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW) | [Walking the Streets](https://open.spotify.com/album/17MHW0ENg57rfMGXYtNkvV) | 2:25 |
 | 131 | [I Can't Control Myself \(Rerecorded\)](https://open.spotify.com/track/2ISCW0bzi9Zsv6eKCqXVZq) | [The Troggs](https://open.spotify.com/artist/57xdnSVt4ahJCIXYLieQ25) | [This Is the Troggs \(Rerecorded\)](https://open.spotify.com/album/2Co201A4jYUYrDtrmReNJD) | 3:06 |
 
-Snapshot ID: `MCw0NTllMDhmZjFkY2U1YzkyMTUwOTYwMjgzZTQxMGU1NWIwMDk3MGQw`
+Snapshot ID: `MCxhNjI1NTRlYzQyZjU1NDJhODM0MTU4NzU1OGY0OWQ0ZDQ2NTdhMTFh`

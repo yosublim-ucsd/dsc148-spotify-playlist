@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Ivandro e Van Zee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,238 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,301 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,23 +60,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 50 | [PRA MIM](https://open.spotify.com/track/1wxLvOhDguWTLAJN0HW87J) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [PRA MIM](https://open.spotify.com/album/4o64dSERjVp8ZJc12BYzJJ) | 2:33 |
 | 51 | [Fica Pra Depois](https://open.spotify.com/track/3W8iBFxQEgAnWYXjx8hrzI) | [Yang](https://open.spotify.com/artist/1v0CIz79JpKd2QJgQ3Gxci) | [Fica Pra Depois](https://open.spotify.com/album/67vj2sSj58MBegTAI4DZog) | 3:33 |
 | 52 | [Just Trynna Eat](https://open.spotify.com/track/0Gen7g1boKyiAvxcKkzFC0) | [Bala G](https://open.spotify.com/artist/3tJwY2voapChSVTQ5exFCh) | [Just Trynna Eat](https://open.spotify.com/album/4zZmZ5l2bdEHikQYm7ulYN) | 3:44 |
-| 53 | [Tequila \- Studio Version](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
-| 54 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
+| 53 | [Madruga](https://open.spotify.com/track/7uatCWIy4n7u28viFqTS9B) | [Mike11](https://open.spotify.com/artist/0aMc96Z4utxfPMgOETIL3x) | [Madruga](https://open.spotify.com/album/3FPflLZdiGPLybCuNrrdsA) | 3:26 |
+| 54 | [Tequila \- Studio Version](https://open.spotify.com/track/5daT88Zml8Stpw2oTeesJx) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Tequila \(Studio Version\)](https://open.spotify.com/album/75KlUT1wTgMEuYSdhUBT8M) | 3:19 |
 | 55 | [Situation](https://open.spotify.com/track/2jLRkFqxoSVrBy58M2to1D) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI), [Hernani](https://open.spotify.com/artist/0pv7KRBmPGExsFFLcyPv1y) | [Situation](https://open.spotify.com/album/4JLFABVMOBpf9Bvaympw9R) | 4:05 |
 | 56 | [Vistas](https://open.spotify.com/track/4LsIyhpdZNl4xFYvmPRYQW) | [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Murta](https://open.spotify.com/artist/1i3LAyYIXtdsYVUkIgIkjx) | [Vistas](https://open.spotify.com/album/0u93E1oGwRdehRkCnywK3o) | 3:00 |
 | 57 | [Tudo Eu](https://open.spotify.com/track/4Dq6ZMKGGE0ySNelZl63f8) | [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy), [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn) | [Tudo Eu](https://open.spotify.com/album/5IWSsHVCFLFQJukkiUye4U) | 2:20 |
 | 58 | [Run For You](https://open.spotify.com/track/2o9Uzz02N7zakU9NBaIHtP) | [10/16](https://open.spotify.com/artist/7C85XCknYDZcSHj68BiwQE) | [Run For You](https://open.spotify.com/album/0t6I8iIyugB9uAwJ7hKpT9) | 2:49 |
 | 59 | [GUUD](https://open.spotify.com/track/2Ug7Rcy1Cd9Z0y4RqGgPNk) | [T\-Rex](https://open.spotify.com/artist/6QHREBOQktWsYBfrxW93rk) | [GUUD](https://open.spotify.com/album/0sLx2K52GRknvH8AwYBsDI) | 2:48 |
-| 60 | [Vem Só](https://open.spotify.com/track/2rpA0HiRKG8bV132SiopRU) | [Maudito](https://open.spotify.com/artist/3gdY1A4a32KWBCrahsPYiR) | [Vem Só](https://open.spotify.com/album/6n6Wocb8xJMU2i1T2EKgGd) | 3:19 |
-| 61 | [Tua](https://open.spotify.com/track/5UEyHP0qtkslMPeKXY1TYL) | [Sara Megre](https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd) | [Tua](https://open.spotify.com/album/2yPwEUuRMCoGqDjw8Ln0TO) | 3:21 |
-| 62 | [Tempo Perdido](https://open.spotify.com/track/3p7AgzNf2zkKQX1tcTvkm4) | [VALE](https://open.spotify.com/artist/1zBe6fC6su0Z6xEwXYDPbk) | [Tempo Perdido](https://open.spotify.com/album/4F6Gt40NFBhX7xsiUNjuv7) | 3:58 |
-| 63 | [Deixa Arder](https://open.spotify.com/track/6jdWRN2OOnFPLdjtLkPTnP) | [Flepa](https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb), [Blacci](https://open.spotify.com/artist/36Hz9bJe0iBjUpTqpmEGak), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB) | [Não Sou Daqui](https://open.spotify.com/album/6F0dv3FpCtzK5HGldys7dX) | 3:26 |
+| 60 | [Tua](https://open.spotify.com/track/5UEyHP0qtkslMPeKXY1TYL) | [Sara Megre](https://open.spotify.com/artist/3ufZB0A1YaRDXn6TdUQtsd) | [Tua](https://open.spotify.com/album/2yPwEUuRMCoGqDjw8Ln0TO) | 3:21 |
+| 61 | [Nosso Som](https://open.spotify.com/track/3i9QW2ocovZ44yX2bsUfjQ) | [MAZ3R](https://open.spotify.com/artist/5MsvCh3d3tgS38ACW7DsWN), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Nosso Som](https://open.spotify.com/album/6sK5Lo6qAW5wqsegG2hTPK) | 3:40 |
+| 62 | [Vem Só](https://open.spotify.com/track/2rpA0HiRKG8bV132SiopRU) | [Maudito](https://open.spotify.com/artist/3gdY1A4a32KWBCrahsPYiR) | [Vem Só](https://open.spotify.com/album/6n6Wocb8xJMU2i1T2EKgGd) | 3:19 |
+| 63 | [Tempo Perdido](https://open.spotify.com/track/3p7AgzNf2zkKQX1tcTvkm4) | [VALE](https://open.spotify.com/artist/1zBe6fC6su0Z6xEwXYDPbk) | [Tempo Perdido](https://open.spotify.com/album/4F6Gt40NFBhX7xsiUNjuv7) | 3:58 |
 | 64 | [Muda](https://open.spotify.com/track/5lTx1aJfs6rqYVqQbSzbve) | [EMMVR](https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI) | [Muda](https://open.spotify.com/album/350MDczLAQuFoU07xEjRCB) | 2:57 |
-| 65 | [Nosso Som](https://open.spotify.com/track/3i9QW2ocovZ44yX2bsUfjQ) | [MAZ3R](https://open.spotify.com/artist/5MsvCh3d3tgS38ACW7DsWN), [Ary Rafeiro](https://open.spotify.com/artist/4BJ5L7iTzZ7UbfDJEpkiwO), [Deezy](https://open.spotify.com/artist/6EoXtJUmzYqNzkMVH1o5gN) | [Nosso Som](https://open.spotify.com/album/6sK5Lo6qAW5wqsegG2hTPK) | 3:40 |
-| 66 | [FAZ ME FICAR](https://open.spotify.com/track/6H42vwpapfQH1XpihD9OD4) | [Zarco](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [FAZ ME FICAR](https://open.spotify.com/album/2o2rUwESaEF5HxmL8d584q) | 3:56 |
-| 67 | [What i Want, How i Like](https://open.spotify.com/track/5ESYN254hHVlueVCHxMj9A) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [What i Want, How i Like](https://open.spotify.com/album/5tBWVO75zR2LP8WQzdz494) | 3:56 |
+| 65 | [Deixa Arder](https://open.spotify.com/track/6jdWRN2OOnFPLdjtLkPTnP) | [Flepa](https://open.spotify.com/artist/0W1djVc3IwCgGLkHdHJYRb), [Blacci](https://open.spotify.com/artist/36Hz9bJe0iBjUpTqpmEGak), [Menestrel](https://open.spotify.com/artist/4eQ4RMjplRznwHA1UBNnXT), [Blanko](https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB) | [Não Sou Daqui](https://open.spotify.com/album/6F0dv3FpCtzK5HGldys7dX) | 3:26 |
+| 66 | [What i Want, How i Like](https://open.spotify.com/track/5ESYN254hHVlueVCHxMj9A) | [DIGGA](https://open.spotify.com/artist/1xaT7wj44eRYp4YHntRW6i), [JNY](https://open.spotify.com/artist/2JW7JPlsb29nRKl5yEVNru), [Vinagre](https://open.spotify.com/artist/0Vbmq52b8v3fCMlWxzmxd5) | [What i Want, How i Like](https://open.spotify.com/album/5tBWVO75zR2LP8WQzdz494) | 3:56 |
+| 67 | [FAZ ME FICAR](https://open.spotify.com/track/6H42vwpapfQH1XpihD9OD4) | [Zarco](https://open.spotify.com/artist/39THfEzb8ivv7RVBzn39Zf) | [FAZ ME FICAR](https://open.spotify.com/album/2o2rUwESaEF5HxmL8d584q) | 3:56 |
 | 68 | [Black Rose](https://open.spotify.com/track/7ENmhCZ25LCZD5we01hlBy) | [Franeselak](https://open.spotify.com/artist/1zA8OHFEUWY3Kk9DdbGW00), [Augusto Madeira](https://open.spotify.com/artist/5lHK1JEJ4EZsrswfM4fNQ5) | [Black Rose](https://open.spotify.com/album/5DJX7aQdtgLf2XJkCfnW5C) | 3:32 |
 | 69 | [À Tona](https://open.spotify.com/track/2pejdDJoyqDBWM706pwC9M) | [Dote](https://open.spotify.com/artist/4uAoxHS1E4Hd8KCH8m9aaP) | [À Tona](https://open.spotify.com/album/6AQ5jQ3Tqm0ygMnBnmWUbe) | 2:14 |
 | 70 | [Amor](https://open.spotify.com/track/3Ip0TaOOaXTrCmZCdJkgpf) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Amor](https://open.spotify.com/album/1aJgyzKAmMg1UL0bmzX7XG) | 3:01 |
 
-Snapshot ID: `MCxiN2Q1YmZiYzhjNDZkNDA4YTRiMjJmNzdjM2IxNDJmNTRhMDZhNDU4`
+Snapshot ID: `MCxhNWU4MmVkZjBmMjdmNmM4YjY3ODQ5MDRkZjA5OGU0ZjRhNDQ3M2M5`

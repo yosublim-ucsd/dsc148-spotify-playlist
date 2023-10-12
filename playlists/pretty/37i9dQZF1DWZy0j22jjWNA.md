@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,960 likes - 65 songs - 4 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,982 likes - 65 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 10 | [Memorized](https://open.spotify.com/track/38LC7jHjifqs5EnYUv4BgG) | [Mat Kearney](https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1), [RAC](https://open.spotify.com/artist/4AGwPDdh1y8hochNzHy5HC) | [CRAZYTALK](https://open.spotify.com/album/1VYbFOGfg6BE3rn1LTMTny) | 3:26 |
 | 11 | [It Would Be You](https://open.spotify.com/track/0roPf0bwAsBDZv1bR15m15) | [Ben Rector](https://open.spotify.com/artist/4AapPt7H6bGH4i7chTulpI) | [It Would Be You](https://open.spotify.com/album/58xzcDEz0sn7F36ZEnfYHV) | 3:39 |
 | 12 | [Closer Than a Brother](https://open.spotify.com/track/4bd5qNOxWl0AEuADTqqFU4) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Chrysaline](https://open.spotify.com/album/4nB0hSgVRau0z3smGvzqfA) | 5:09 |
-| 13 | [Dreaming in Electric Blue](https://open.spotify.com/track/680DQctfdFDsuO0Dt1QV3a) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Dreaming in Electric Blue](https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U) | 3:12 |
-| 14 | [Lie](https://open.spotify.com/track/3O1uhWkr42NesFnVloLq2a) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Souls](https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m) | 3:35 |
+| 13 | [Lie](https://open.spotify.com/track/3O1uhWkr42NesFnVloLq2a) | [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Souls](https://open.spotify.com/album/5NBqQgOMgAHbJwDIFw9c0m) | 3:35 |
+| 14 | [Dreaming in Electric Blue](https://open.spotify.com/track/680DQctfdFDsuO0Dt1QV3a) | [Dave Barnes](https://open.spotify.com/artist/7hbH1qupmU6HxVBjWJItlq) | [Dreaming in Electric Blue](https://open.spotify.com/album/6EojMTIcdHKZUesfXcm04U) | 3:12 |
 | 15 | [Survival \(feat\. Drew Holcomb & Ellie Holcomb\)](https://open.spotify.com/track/4os91DjSzBTVk2GaPtkrMp) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Drew Holcomb](https://open.spotify.com/artist/0Obcl00RkSejk0z0m4vUwT), [Ellie Holcomb](https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs) | [Out of Body](https://open.spotify.com/album/65WwczdrIsAOeBwyL3EFxf) | 4:27 |
 | 16 | [Beautiful Anyway](https://open.spotify.com/track/7dLyLufQvh84ghKQ0qiWTb) | [Judah & the Lion](https://open.spotify.com/artist/3wWtfT7S2uVJJ3hGZlOLkZ) | [Beautiful Anyway](https://open.spotify.com/album/1DBj9YNMRkONwSVBLr5jRD) | 4:58 |
 | 17 | [Bridges](https://open.spotify.com/track/3VPFV5Xj8QjXDJKl2rVce7) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/3ZU0AW8kgxxyR48yUFUiK5) | 3:36 |
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 20 | [Jacob](https://open.spotify.com/track/1UecChUYn2gXqlA8dDVRqO) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT) | [Jacob/HTBY](https://open.spotify.com/album/0N1w3fLvgtLH5h8lduHEVe) | 4:01 |
 | 21 | [Spark My Heart](https://open.spotify.com/track/4GkzKZVbwUKW83hKk0MfrA) | [Aaron Strumpel](https://open.spotify.com/artist/5mtfJ5KHvDBiCLB2Ue1yYg) | [Mighty Refuge](https://open.spotify.com/album/3gbvScgQgY27kOt15QR8zt) | 5:23 |
 | 22 | [Waters](https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2) | [Waters](https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi) | 4:00 |
-| 23 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
-| 24 | [Citizens](https://open.spotify.com/track/216VrH1pVtArk8lilJJQih) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 4:22 |
+| 23 | [Citizens](https://open.spotify.com/track/216VrH1pVtArk8lilJJQih) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 4:22 |
+| 24 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 25 | [Kin](https://open.spotify.com/track/2bLR9LPyrBiT0F4KohEbop) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Wendigo](https://open.spotify.com/album/1F3g88B97YjpzE2Pc6Rw1q) | 3:24 |
 | 26 | [Backwards](https://open.spotify.com/track/07ii8FiGFeAf6ZoW8TbggA) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Zeal](https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37) | 3:48 |
 | 27 | [Harmony Hall](https://open.spotify.com/track/2uoITMIoM5gCEpt3JucVmF) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Covers](https://open.spotify.com/album/6UQ4DtMNWgxw6ufVxjdXHF) | 4:57 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 58 | [Good As Gone](https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Good As Gone](https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ) | 3:59 |
 | 59 | [Roses](https://open.spotify.com/track/0mT0NsnCx7jydlJ6bAKyyK) | [Emily Brimlow](https://open.spotify.com/artist/5ncA0WGi828yjhqmvHsJRj) | [Roses](https://open.spotify.com/album/2srdHwegmNXJf9g68h5vhs) | 3:08 |
 | 60 | [God Who Sees Me](https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL) | [The Hedgerow Folk](https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6) | [God Who Sees Me](https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE) | 4:00 |
-| 61 | [Bang](https://open.spotify.com/track/5Qw5UgTYT9AFQhb9wtx2Ls) | [Moda Spira](https://open.spotify.com/artist/3Ox5gwldPza7HizYzGEk6a) | [Bang](https://open.spotify.com/album/2kCC0lF63e4rgTNZjpAu4q) | 3:39 |
-| 62 | [Reciprocate](https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Songs from the Valley](https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN) | 3:17 |
+| 61 | [Reciprocate](https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Songs from the Valley](https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN) | 3:17 |
+| 62 | [Bang](https://open.spotify.com/track/5Qw5UgTYT9AFQhb9wtx2Ls) | [Moda Spira](https://open.spotify.com/artist/3Ox5gwldPza7HizYzGEk6a) | [Bang](https://open.spotify.com/album/2kCC0lF63e4rgTNZjpAu4q) | 3:39 |
 | 63 | [Dawned On Me](https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj) | [Brewer](https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2) | [Dawned On Me](https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe) | 2:57 |
 | 64 | [Steady](https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N) | [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi) | [Steady](https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08) | 3:31 |
 | 65 | [Suffering Servant](https://open.spotify.com/track/6wcTnA9oBuaQIB3Ke0Sh9X) | [Deeper Well](https://open.spotify.com/artist/2PeVKtJXHIrrQmJXD7ju7l), [Wesley Randolph Eader](https://open.spotify.com/artist/5Qn7uUdL2vnUFvdngB2gxN) | [Volume II](https://open.spotify.com/album/3AnhIErjnYikodOSJXn7wH) | 5:08 |
 
-Snapshot ID: `MCw3ZDE5MjAxNTY1YmRmMGM4MDQwYzE4ZjVjYmVjMGIwMGNkNjQxMjJh`
+Snapshot ID: `MCxkMDFmOTNkYWFlZDBhM2M0OGI1NmM2YmU4OWE0YmNiMjcyNDc3ZmMz`

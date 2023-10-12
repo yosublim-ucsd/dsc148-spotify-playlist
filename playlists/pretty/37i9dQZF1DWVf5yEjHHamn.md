@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf5yEjHHamn.md) - [plain]
 
 > Replongez dans les plus grands tubes d'été
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,404 likes - 50 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,374 likes - 50 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf5yEjHHamn.md) - [plain]
 | 2 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 | 3 | [Blinding Lights](https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [After Hours](https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj) | 3:20 |
 | 4 | [As It Was](https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:47 |
-| 5 | [Jubel](https://open.spotify.com/track/5m6adNVeSWlJoP0c0smACx) | [Konina](https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj), [Reaxys](https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI), [Deluxe1337](https://open.spotify.com/artist/1h8UsH6AbwP6Bk8PE46coV) | [Jubel](https://open.spotify.com/album/0YmJBTpPvSVH3KouPoO8Wk) | 3:20 |
+| 5 | [Jubel \- Radio Edit](https://open.spotify.com/track/58VSx2Adlz83g6YVDdJ0zR) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel EP](https://open.spotify.com/album/29EeCNBZxGVdwHUAyos10R) | 3:18 |
 | 6 | [Calm Down](https://open.spotify.com/track/6hgoYQDUcPyCz7LcTUHKxa) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Calm Down](https://open.spotify.com/album/37iaWiKMa9YBbEDlw5c3Qh) | 3:39 |
 | 7 | [Lean On](https://open.spotify.com/track/1Lim1Py7xBgbAkAys3AGAG) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4) | [Peace Is The Mission \(Extended\)](https://open.spotify.com/album/4pCLlUxlKj3pNVdBtFyhrU) | 2:56 |
 | 8 | [Enamorame](https://open.spotify.com/track/4fHEdJLWGX6eVu4U9sT49W) | [Papi Sanchez](https://open.spotify.com/artist/4B6paaW6VeD5oEWp19KEVq) | [Yeah Baby!!](https://open.spotify.com/album/07ACSzInTs3SEBdPaM6rsT) | 4:22 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVf5yEjHHamn.md) - [plain]
 | 49 | [X](https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Intimo](https://open.spotify.com/album/1CYQlkKE5Q0khU6eMwVAVt) | 2:52 |
 | 50 | [Alane \- Radio Version](https://open.spotify.com/track/2wkoeulxiywQoKtniBbTHJ) | [Wes](https://open.spotify.com/artist/3tXUeiWOSod3mSQ2lOautf) | [Welenga](https://open.spotify.com/album/3Y74humHgxWLzOJfEbLsI3) | 3:40 |
 
-Snapshot ID: `MCxkMWNlZmQ4NzZhZDE5ZjAyNjRiNTg1ZDVhMWM0NzQ0OWFhMGJjNzY5`
+Snapshot ID: `MCwxYjA3Njk2NDUyZmIxZDM2MGNiMDVhNjIwMWIwNjgyMmE2YjY1MmNm`

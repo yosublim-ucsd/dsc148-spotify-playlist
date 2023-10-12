@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 
 > no\-clip out of reality
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,488 likes - 75 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,997 likes - 75 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7VnoXD1s7S.md) - [plain]
 | 74 | [Bye](https://open.spotify.com/track/4JosyubgIpErAsvMKwph8n) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Figure 8](https://open.spotify.com/album/7DC0pE943VR5tAKIvQXHts) | 1:53 |
 | 75 | [Out](https://open.spotify.com/track/3XacRs7DmGzAb8auxz6Wnt) | [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [What We Do For Others](https://open.spotify.com/album/5k6G0HcMny4OCIIuwuVEJR) | 2:42 |
 
-Snapshot ID: `MCwzZmZlYTI5NTEyZDNjYjgxMGU2MWI1ODFjNjYyZDM5NGJlNjMxODAz`
+Snapshot ID: `MCxhYjVhZjliNzY5NGY5ZGNkMDhjZDdhNGRhODM0MmEzZjZkZWZhNmQy`

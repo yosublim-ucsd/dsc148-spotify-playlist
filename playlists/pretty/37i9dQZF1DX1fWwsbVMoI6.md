@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Grupo 5, Joey Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,268 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,288 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,15 +37,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 27 | [He Sentido Amor](https://open.spotify.com/track/5oiXm0rY7t7o5HTHliPhak) | [Amaya Hnos](https://open.spotify.com/artist/5jSk6SgXKrDMuyvyVtoHkZ) | [He Sentido Amor](https://open.spotify.com/album/047BD4GBnlQBvzAoQqZcVX) | 3:55 |
 | 28 | [Falso Amor](https://open.spotify.com/track/7xkPCQyEtgzDJN1kmE0lAa) | [Antologia](https://open.spotify.com/artist/1cKkCkJkKegHCRYx02lBI6), [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Falso Amor](https://open.spotify.com/album/0exDN3kRd83mX8ejcwJnKl) | 4:06 |
 | 29 | [La Chismosa](https://open.spotify.com/track/7o5AxqP9cym90ZeEIqmS9i) | [Los Campesinos de Bambamarca](https://open.spotify.com/artist/5UmukQI0Wc2h7pHjF1tT9m) | [A..estilo propio y jaranero](https://open.spotify.com/album/27FrtbVRNzJw0yXBENTm8D) | 6:05 |
-| 30 | [Recuerdos](https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:36 |
-| 31 | [Cervecero](https://open.spotify.com/track/3XYNyJPruhbMGVFHS5rRaq) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/4OoZxSLqr3uyNnaRZidCOG) | 5:26 |
+| 30 | [Cervecero](https://open.spotify.com/track/3XYNyJPruhbMGVFHS5rRaq) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [Amor de Estudiante](https://open.spotify.com/album/4OoZxSLqr3uyNnaRZidCOG) | 5:26 |
+| 31 | [Recuerdos](https://open.spotify.com/track/4NHGTE6SN0a10VTPDLmMe3) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [Días Felices](https://open.spotify.com/album/1bOkW3sgCsh008MkO8lYnb) | 4:36 |
 | 32 | [El Arbolito](https://open.spotify.com/track/51juO8se7WGQrjpdOJCB1B) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [Nectar Internacional](https://open.spotify.com/album/65yxZdbls1LPG8Lw4lRiy2) | 3:30 |
 | 33 | [Asesina de Amor](https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:16 |
 | 34 | [Júrame](https://open.spotify.com/track/4mrVuyJeb9kjJ41F3tWhE0) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [El Romántico](https://open.spotify.com/album/3lKvieM97oOsFEz8ZpC9zZ) | 4:07 |
 | 35 | [Vete Ya](https://open.spotify.com/track/6u9YhTWRdEn6jF403LHKxa) | [Zafiro Sensual](https://open.spotify.com/artist/4Q7VM42mp4eSWFLxUE30k1) | [Mi Princesa, Vol\. 3](https://open.spotify.com/album/0OtRD5MwHMbaGtOPpwYXgG) | 5:51 |
 | 36 | [No Te Creas Tan Importante](https://open.spotify.com/track/4aZTN8T7FTSxNb663ZpeNE) | [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV) | [No Te Creas Tan Importante](https://open.spotify.com/album/6044Bh2cDK6TtuD5TEbKTJ) | 4:06 |
-| 37 | [Cuerpo de Sirena](https://open.spotify.com/track/0fonkCX3RL2T4Drh4BFeIX) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Cuerpo de Sirena](https://open.spotify.com/album/5zIOM5zbPm8WS1Qnf7rm7U) | 4:03 |
-| 38 | [El Solitario](https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh) | [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C) | [Goza Tu Cumbia: Peruvian Cumbia](https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi) | 4:21 |
+| 37 | [El Solitario](https://open.spotify.com/track/64GsayRbJ4tWm1m94DZSQh) | [Orquesta Caribeños de Guadalupe](https://open.spotify.com/artist/3TMIaKD9aqaLVRTK5DYg0C) | [Goza Tu Cumbia: Peruvian Cumbia](https://open.spotify.com/album/6ShlZFDjnbxigu2oXHcUMi) | 4:21 |
+| 38 | [Cuerpo de Sirena](https://open.spotify.com/track/0fonkCX3RL2T4Drh4BFeIX) | [Papillón](https://open.spotify.com/artist/24CL5ktdCtKU8E2Yt34el5) | [Cuerpo de Sirena](https://open.spotify.com/album/5zIOM5zbPm8WS1Qnf7rm7U) | 4:03 |
 | 39 | [Me Vas a Extrañar](https://open.spotify.com/track/0l7yjbgERSMdxmSsf3P1Hc) | [Orquesta Candela](https://open.spotify.com/artist/20CwGx7uSQQXXeDXxF0RjU) | [Me Vas a Extrañar](https://open.spotify.com/album/3HzcUnsbbF1S0NrD8UC9Sj) | 3:53 |
 | 40 | [Necesito un Amor](https://open.spotify.com/track/36iXRKh2V3ADgwget5bzpy) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Necesito un Amor](https://open.spotify.com/album/6sQMUFiJsBhRcR6ut1zqG1) | 4:10 |
 | 41 | [No Se Puede Amar a Dos](https://open.spotify.com/track/6j7apOMjYex2G4iIbIMdHF) | [Los Ecos](https://open.spotify.com/artist/3HFLs2Kw7HWE3UZUtLzIeS) | [Los Querendones de la Cumbia, Vol\. 1](https://open.spotify.com/album/42HTe6akwChVCYeLijteif) | 4:47 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 | 45 | [Mi Cariñito](https://open.spotify.com/track/34JtnRHvuDL5c2rfOLJeDw) | [Sonido 2000](https://open.spotify.com/artist/1H3xkA1mRbxwDjbiiyC1lR) | [Sonido 2000 de Tarapoto](https://open.spotify.com/album/0h3hga5bxvliZyavRF10Ka) | 3:15 |
 | 46 | [Dolor y Lagrimas](https://open.spotify.com/track/5iu23EuTrwZtZdJt7DWUlS) | [El Lobo Y La Sociedad Privada](https://open.spotify.com/artist/7lGdkFJ1fEIemMJApdnRBh) | [Desierto](https://open.spotify.com/album/17kNwp6zAftLn7MzlqT8hz) | 4:48 |
 | 47 | [Amor Prohibido](https://open.spotify.com/track/4g2GK0gPz78co62qx8RIOd) | [Agua Marina](https://open.spotify.com/artist/5ZAR5Usb11xw4KENbEE8uZ) | [Tu Amor Fue una Mentira, Vol\. 11](https://open.spotify.com/album/1dcKB2yWjUPWX2sgpVMb26) | 3:33 |
-| 48 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 |
-| 49 | [Te Burlaste de Mi](https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [El Futuro De La Cumbia](https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc) | 4:37 |
+| 48 | [Te Burlaste de Mi](https://open.spotify.com/track/1OVkTwhR0LISMQcZkAqHsg) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [El Futuro De La Cumbia](https://open.spotify.com/album/5Lu7FjFsriB2SKkR7GfqQc) | 4:37 |
+| 49 | [No Sé](https://open.spotify.com/track/6u5f7X2vWaQFdez1UImzOf) | [Explosión De Iquitos](https://open.spotify.com/artist/0OINXnn688Z2y3n6UAdj5B) | [No Sé](https://open.spotify.com/album/501qYvcaT1VCDzRK2I1mhq) | 4:06 |
 | 50 | [Si Saben Como Me Pongo Pa Que Me Invitan](https://open.spotify.com/track/1FaXpzvwFxDhvvuIAW3nAA) | [Puro Sentimiento](https://open.spotify.com/artist/4MBeeopIanwGkcInADRzvR) | [El Tirulá](https://open.spotify.com/album/14sGuXKkPTy3BXhXKrFEXG) | 3:11 |
 
-Snapshot ID: `MCxjODM0NDI1NDk5NjEyYjQ5NTM5OTdjMmUwMmVlOTIxNjJlMmY4YjM1`
+Snapshot ID: `MCwzNzNlNGMxZTI3NGU5NThlMTc3NzQ4OTg3YWQyNTJkZWE0M2Q2ZDFi`

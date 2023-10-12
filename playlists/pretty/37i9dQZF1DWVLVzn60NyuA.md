@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 
 > Afro, Caribbean & Latin sounds for that summer vibe
 
-[Spotify](https://open.spotify.com/user/spotify) - 285,393 likes - 150 songs - 7 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 285,442 likes - 150 songs - 7 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 17 | [Talibans](https://open.spotify.com/track/0TTOsyDKykWhCh3qDd9wMY) | [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [No Love](https://open.spotify.com/album/6Ds8n0PlFxomLOtEHFwBeo) | 3:08 |
 | 18 | [On the Low](https://open.spotify.com/track/1PoJXULCvl03b1fiZmMxmd) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [African Giant](https://open.spotify.com/album/34vlTd4355ddD4q9pPsoqF) | 3:05 |
 | 19 | [Fountains \(with Tems\)](https://open.spotify.com/track/08XWh5c0BMyD1nKVxxl91z) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 3:12 |
-| 20 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 |
-| 21 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 |
+| 20 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 |
+| 21 | [Del Mar](https://open.spotify.com/track/5cpJFiNwYyWwFLH0V6B3N8) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [ENOC](https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q) | 3:34 |
 | 22 | [Finesse](https://open.spotify.com/track/4Gasn91fsCefnN8zM5GjA8) | [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Finesse](https://open.spotify.com/album/4QEC4uzBJJfLVv2bD337g1) | 2:35 |
 | 23 | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [UN DIA \(ONE DAY\) \(Feat\. Tainy\)](https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr) | 3:52 |
 | 24 | [Murder She Wrote](https://open.spotify.com/track/1HGyhNaRUFEDBiVLbvtbL6) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:05 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVLVzn60NyuA.md) - [plain]
 | 149 | [C'est Cuit \(feat\. Aya Nakamura & Swae Lee\)](https://open.spotify.com/track/5JfbkEPTaqnAVy9ITdphCl) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Music Is The Weapon \(Reloaded\)](https://open.spotify.com/album/40IcRv5uAg0lpafKsxnQ9g) | 2:36 |
 | 150 | [Tunup \(feat\. Konshens & Bokoesam\)](https://open.spotify.com/track/0Ho4fDQ3EKYkpCAQmUfwM6) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [The Highest Grade Vol\. 2.0 \- Caribbean Kush](https://open.spotify.com/album/7DDlJpfsr80WHAnZvVfOO5) | 2:29 |
 
-Snapshot ID: `MCwzOTZkYjY4NWQyODg4MWQ0ODM5NDMxNzIyY2UwMzY2Yjc5NmRiZmI2`
+Snapshot ID: `MCw3NjRhNTNhZDc3MjFlMWJhNzA2YzYzNDMxYmQwOGVmODc4OTc5MTFl`

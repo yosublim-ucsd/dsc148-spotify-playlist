@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 
 > We like it like that! Cover: Pete Rodriguez \(Courtesy of Fania\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,248 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,204 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 18 | [Ay Qué Rico](https://open.spotify.com/track/5RQpdEGQXehE1P95XzghLf) | [Eddie Palmieri](https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C) | [Champagne](https://open.spotify.com/album/1KZtrO0xrq8lzs8SFBNMg6) | 3:29 |
 | 19 | [Guararé](https://open.spotify.com/track/56xsP0TSnlihp3s2jlbSgU) | [Ray Barretto](https://open.spotify.com/artist/2h4ndKS2vRWeFLpq8ARu0D), [Tito Gómez](https://open.spotify.com/artist/6d5spDidb3nveGjwpybfdn) | [Barretto](https://open.spotify.com/album/2Hb9sUYQEdaYTRMzu7YbzQ) | 5:38 |
 | 20 | [Lo Atará la Arache](https://open.spotify.com/track/6dlLkD6H0L72KPZVsQgVhV) | [Ricardo "Richie" Ray](https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc) | [Jala Jala y Boogaloo](https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA) | 4:32 |
-| 21 | [Summertime Blues](https://open.spotify.com/track/0ODEACdZ8xmsxosolVPkkI) | [The Lebron Brothers Orchestra](https://open.spotify.com/artist/6zb5tBPPvk4nRXW33IqztD) | [Psychedelic Goes Latin](https://open.spotify.com/album/2SOvavOrKySlz9Zet58rCC) | 4:44 |
-| 22 | [Richie's Jala\-Jala](https://open.spotify.com/track/0QvRbWa5WBhbJtg52GdbJq) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 4:57 |
+| 21 | [Richie's Jala\-Jala](https://open.spotify.com/track/0QvRbWa5WBhbJtg52GdbJq) | [Richie Ray & Bobby Cruz](https://open.spotify.com/artist/56eTRCwZ13vVWAmrG0dMnq) | [A Lifetime of Hits..\. \(Live At Centro de Bellas Artes, San Juan, Puerto Rico.\)](https://open.spotify.com/album/0u75f0pYJy2cGHNiikXGlz) | 4:57 |
+| 22 | [Summertime Blues](https://open.spotify.com/track/0ODEACdZ8xmsxosolVPkkI) | [The Lebron Brothers Orchestra](https://open.spotify.com/artist/6zb5tBPPvk4nRXW33IqztD) | [Psychedelic Goes Latin](https://open.spotify.com/album/2SOvavOrKySlz9Zet58rCC) | 4:44 |
 | 23 | [Grazin' In The Grass](https://open.spotify.com/track/071QzNfV4nNVuCbBZ598uC) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Ismael Miranda](https://open.spotify.com/artist/5S3BxZrK4hYN3fwsw8oumq) | [Orchestra Harlow Presenta a Ismael Miranda](https://open.spotify.com/album/3YIcRu0JUrtqcXQUoLjoy4) | 3:16 |
 | 24 | [That's How Rumors Start](https://open.spotify.com/track/51TS79ehSs5WDLIm0YWRRv) | [Joey Pastrana and His Orchestra](https://open.spotify.com/artist/0mWQOAjoHzqSNxwbGg4tf2) | [Joey](https://open.spotify.com/album/2N69ERhN11ludnptsYs16c) | 7:32 |
 | 25 | [Cloud Nine](https://open.spotify.com/track/7CRJV0qUMAxftqySiPazpK) | [Mongo Santamaria](https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0) | [Mongo Santamaria's Greatest Hits](https://open.spotify.com/album/0iAuAgfu3aba2ebIBJ63P7) | 5:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYS4jYoOYXiN.md) - [plain]
 | 49 | [Oh Yeah](https://open.spotify.com/track/0Cwx3l6mqlXQFvrIGcjNeP) | [Joe Cuba Sextet](https://open.spotify.com/artist/7glnjTMVq4r8iNugFbuIqj) | [Greatest Hits](https://open.spotify.com/album/4cqjTLyo6ebSUA2EE9pwrZ) | 3:14 |
 | 50 | [Pow Wow](https://open.spotify.com/track/4BH7lDLLzKPGsF8cmt7p13) | [Manny Corchado & His Orchestra](https://open.spotify.com/artist/2pcuaTPFg6uZVSItPyitfg), [Tito Jiménez](https://open.spotify.com/artist/6x9fpanAwuhr976XEB5IiY) | [Aprovecha el Tiempo](https://open.spotify.com/album/4BaWqzO241fwSJQ1GgUFRP) | 3:33 |
 
-Snapshot ID: `MCwyYTg2NjlkZmMwYzNkYTNjOWY2YmI5YzE5NGEzNWU3YjFlNzA0ZDA4`
+Snapshot ID: `MCwwMGEyZjBkMDJkMjMzYjkxODYyYTMxMjJmYjBjMTBkNGU0YzI0NTc0`

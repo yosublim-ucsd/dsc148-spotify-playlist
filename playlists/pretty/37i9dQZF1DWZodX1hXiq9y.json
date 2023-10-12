@@ -1,12 +1,12 @@
 {
   "description": "The greatest saxophonists in Jazz. Cover: John Coltrane",
-  "num_followers": 77310,
+  "num_followers": 77423,
   "original_name": "Saxophone Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyNDBiNWJmZmU3YTg2ZTU0ZTM0NTY5M2MwOGQ2YjI3YTE4ZTMyMDBk",
+  "snapshot_id": "MCxhZDcxNTRlNDJlODNmYzMxZTE5YTc5MTU3ODkxNGIwYmI4ZTNkOTQw",
   "tracks": [
     {
       "added_at": "2023-09-01 07:42:13",
@@ -511,18 +511,18 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "JuJu",
-        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
+        "name": "Used To Be Duke",
+        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
       },
       "artists": [
         {
-          "name": "Wayne Shorter",
-          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
+          "name": "Johnny Hodges",
+          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
         }
       ],
-      "duration_ms": 399466,
-      "name": "Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
-      "url": "https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR"
+      "duration_ms": 217293,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -543,18 +543,18 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Used To Be Duke",
-        "url": "https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ"
+        "name": "JuJu",
+        "url": "https://open.spotify.com/album/46VoobaZCtFPReElOHFEqq"
       },
       "artists": [
         {
-          "name": "Johnny Hodges",
-          "url": "https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5"
+          "name": "Wayne Shorter",
+          "url": "https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO"
         }
       ],
-      "duration_ms": 217293,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l"
+      "duration_ms": 399466,
+      "name": "Yes Or No - Rudy Van Gelder 24 Bit Mastering/1999 Digital Remaster",
+      "url": "https://open.spotify.com/track/2PGjqrXgOBqP8G4R6EKmpR"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -955,22 +955,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Go! (The Rudy Van Gelder Edition)",
-        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
-      },
-      "artists": [
-        {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
-        }
-      ],
-      "duration_ms": 393746,
-      "name": "Cheese Cake - Remastered 1999/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Lee Konitz with Warne Marsh",
         "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 285666,
       "name": "There Will Never Be Another You",
       "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Go! (The Rudy Van Gelder Edition)",
+        "url": "https://open.spotify.com/album/5nEJj9bjoarnzlS88NiWet"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "duration_ms": 393746,
+      "name": "Cheese Cake - Remastered 1999/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/367kqaJ8aCvK2wUCEE7oGb"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "The Shape Of Jazz To Come",
-        "url": "https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF"
-      },
-      "artists": [
-        {
-          "name": "Ornette Coleman",
-          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
-        }
-      ],
-      "duration_ms": 544826,
-      "name": "Peace",
-      "url": "https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Warm Woods",
         "url": "https://open.spotify.com/album/4Wfr4INnLiPK2AV443vbvH"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 485226,
       "name": "In Your Own Sweet Way",
       "url": "https://open.spotify.com/track/0gD78Kq5CLlc1j9e9G8Ejv"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "The Shape Of Jazz To Come",
+        "url": "https://open.spotify.com/album/2iPH3iUmpa9ufIpwY76keF"
+      },
+      "artists": [
+        {
+          "name": "Ornette Coleman",
+          "url": "https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P"
+        }
+      ],
+      "duration_ms": 544826,
+      "name": "Peace",
+      "url": "https://open.spotify.com/track/4TrzjMsOnd1KWkWrsDRB3u"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Tell It The Way It Is",
-        "url": "https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi"
-      },
-      "artists": [
-        {
-          "name": "Paul Gonsalves",
-          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
-        }
-      ],
-      "duration_ms": 328800,
-      "name": "Dukes Place",
-      "url": "https://open.spotify.com/track/5CPy7jJup06T0xfzYK7xwr"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Two Of A Mind",
         "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
       },
@@ -1699,6 +1683,22 @@
       "duration_ms": 395440,
       "name": "Blight of the Fumble Bee",
       "url": "https://open.spotify.com/track/7GKJ9q5mCCFhTFEHTjDe9O"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Tell It The Way It Is",
+        "url": "https://open.spotify.com/album/22Nw7i0lxcEYho6G5kWPLi"
+      },
+      "artists": [
+        {
+          "name": "Paul Gonsalves",
+          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
+        }
+      ],
+      "duration_ms": 328800,
+      "name": "Dukes Place",
+      "url": "https://open.spotify.com/track/5CPy7jJup06T0xfzYK7xwr"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1767,6 +1767,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Triology",
+        "url": "https://open.spotify.com/album/3hbxsG0MNq1k5SblPQ2CJc"
+      },
+      "artists": [
+        {
+          "name": "Kenny Garrett",
+          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
+        }
+      ],
+      "duration_ms": 416653,
+      "name": "Night and Day",
+      "url": "https://open.spotify.com/track/5utnd69OazUzLkC6lQnKN2"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Twio",
         "url": "https://open.spotify.com/album/2ekSSgd5FCCjgkMwT3qVXb"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 367773,
       "name": "On the Trail",
       "url": "https://open.spotify.com/track/5MKKKVSZZalOWxwTfIDxkO"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Triology",
-        "url": "https://open.spotify.com/album/3hbxsG0MNq1k5SblPQ2CJc"
-      },
-      "artists": [
-        {
-          "name": "Kenny Garrett",
-          "url": "https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY"
-        }
-      ],
-      "duration_ms": 416653,
-      "name": "Night and Day",
-      "url": "https://open.spotify.com/track/5utnd69OazUzLkC6lQnKN2"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1891,22 +1891,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Jacknife",
-        "url": "https://open.spotify.com/album/49ndPK2cXCBIY5V30rTLNM"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 754733,
-      "name": "On The Nile - Remastered",
-      "url": "https://open.spotify.com/track/1iA6TNNiKHrx8Tj1nmtcr4"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters)",
         "url": "https://open.spotify.com/album/0uTu0OfCWW6U5hAxDPH1r7"
       },
@@ -1919,6 +1903,22 @@
       "duration_ms": 286266,
       "name": "The Blessing",
       "url": "https://open.spotify.com/track/09AXI44IaJq2aeIFpfueAF"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Jacknife",
+        "url": "https://open.spotify.com/album/49ndPK2cXCBIY5V30rTLNM"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 754733,
+      "name": "On The Nile - Remastered",
+      "url": "https://open.spotify.com/track/1iA6TNNiKHrx8Tj1nmtcr4"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -1939,22 +1939,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Out There (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/2GTMwdiWPXKD6wvKgbolIp"
-      },
-      "artists": [
-        {
-          "name": "Eric Dolphy",
-          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
-        }
-      ],
-      "duration_ms": 412720,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/7xe7XwmN5t2lF4yULpVYug"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Stitt Plays Bird (Remastered Version)",
         "url": "https://open.spotify.com/album/1MXypNppCEPqKRxDhGbVxh"
       },
@@ -1971,6 +1955,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Out There (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/2GTMwdiWPXKD6wvKgbolIp"
+      },
+      "artists": [
+        {
+          "name": "Eric Dolphy",
+          "url": "https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp"
+        }
+      ],
+      "duration_ms": 412720,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/7xe7XwmN5t2lF4yULpVYug"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "The Quota",
         "url": "https://open.spotify.com/album/521dwYVqHB2JeJxIWUmSTy"
       },
@@ -1983,6 +1983,54 @@
       "duration_ms": 389466,
       "name": "When Sunny Gets Blue",
       "url": "https://open.spotify.com/track/3UwGl9KiFX1XuonK1btQbQ"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
+        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
+      },
+      "artists": [
+        {
+          "name": "Johnny Griffin",
+          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
+        }
+      ],
+      "duration_ms": 336680,
+      "name": "Chicago Calling - Remastered 2006/Rudy Van Gelder Edition",
+      "url": "https://open.spotify.com/track/7v9gdHQr7giAb3pTI6x805"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Lester Young Trio",
+        "url": "https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        }
+      ],
+      "duration_ms": 247266,
+      "name": "I've Found A New Baby",
+      "url": "https://open.spotify.com/track/08oxRRmEvG88Mpy4V2LDpD"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+        }
+      ],
+      "duration_ms": 370693,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/3TdCZEoDwRP7UwcsHyzyjU"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2015,54 +2063,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Lester Young Trio",
-        "url": "https://open.spotify.com/album/0bf8S6VdlrkX39DYxFC0DF"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        }
-      ],
-      "duration_ms": 247266,
-      "name": "I've Found A New Baby",
-      "url": "https://open.spotify.com/track/08oxRRmEvG88Mpy4V2LDpD"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Introducing Johnny Griffin (Rudy Van Gelder Edition / Remastered)",
-        "url": "https://open.spotify.com/album/2gxZYG5TEl9kZyyxIQqIAd"
-      },
-      "artists": [
-        {
-          "name": "Johnny Griffin",
-          "url": "https://open.spotify.com/artist/52cM6vrM4MJ8g4H7Ibo5fZ"
-        }
-      ],
-      "duration_ms": 336680,
-      "name": "Chicago Calling - Remastered 2006/Rudy Van Gelder Edition",
-      "url": "https://open.spotify.com/track/7v9gdHQr7giAb3pTI6x805"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Tenor Madness",
-        "url": "https://open.spotify.com/album/5qczcj3TPA0gqcsCUTbL7Q"
-      },
-      "artists": [
-        {
-          "name": "Sonny Rollins Quartet",
-          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
-        }
-      ],
-      "duration_ms": 370693,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/3TdCZEoDwRP7UwcsHyzyjU"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "The Cool Sounds Of Pepper Adams",
         "url": "https://open.spotify.com/album/7pTUQRvzI4d9BDledmEmPF"
       },
@@ -2091,22 +2091,6 @@
       "duration_ms": 641733,
       "name": "Lady Bird",
       "url": "https://open.spotify.com/track/79Dz1l9Gm6C56AnvguCghI"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Year Of The Snake",
-        "url": "https://open.spotify.com/album/7qVhLKleQh9hqqUdTtZJSh"
-      },
-      "artists": [
-        {
-          "name": "Fly Trio",
-          "url": "https://open.spotify.com/artist/7ygwEivK0GOVKlrtEPK1y7"
-        }
-      ],
-      "duration_ms": 304733,
-      "name": "Salt And Pepper",
-      "url": "https://open.spotify.com/track/1FISZKmm2qIIbh5dZttoFi"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2155,6 +2139,22 @@
       "duration_ms": 442826,
       "name": "The Wizard",
       "url": "https://open.spotify.com/track/4z6XwySH5fqkFUnE0D62HI"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Year Of The Snake",
+        "url": "https://open.spotify.com/album/7qVhLKleQh9hqqUdTtZJSh"
+      },
+      "artists": [
+        {
+          "name": "Fly Trio",
+          "url": "https://open.spotify.com/artist/7ygwEivK0GOVKlrtEPK1y7"
+        }
+      ],
+      "duration_ms": 304733,
+      "name": "Salt And Pepper",
+      "url": "https://open.spotify.com/track/1FISZKmm2qIIbh5dZttoFi"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2223,6 +2223,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "Tetragon",
+        "url": "https://open.spotify.com/album/06cAiKXhst8u5voEhCRJNA"
+      },
+      "artists": [
+        {
+          "name": "Joe Henderson",
+          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+        }
+      ],
+      "duration_ms": 336333,
+      "name": "R.J.",
+      "url": "https://open.spotify.com/track/3FItXB8TBtUCyY9hS9UtdX"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Quartets",
         "url": "https://open.spotify.com/album/13sMOpWaJbtf0qNLzBN2Yk"
       },
@@ -2239,18 +2255,18 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Tetragon",
-        "url": "https://open.spotify.com/album/06cAiKXhst8u5voEhCRJNA"
+        "name": "Rights Of Swing (Remastered)",
+        "url": "https://open.spotify.com/album/3o9hV5EHfdTas5OgNCJ56V"
       },
       "artists": [
         {
-          "name": "Joe Henderson",
-          "url": "https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt"
+          "name": "Phil Woods",
+          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
         }
       ],
-      "duration_ms": 336333,
-      "name": "R.J.",
-      "url": "https://open.spotify.com/track/3FItXB8TBtUCyY9hS9UtdX"
+      "duration_ms": 397306,
+      "name": "Prelude And Part 1 - Remastered",
+      "url": "https://open.spotify.com/track/2BaEvkAEiyN7IkPcgkyZZr"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2275,22 +2291,6 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Rights Of Swing (Remastered)",
-        "url": "https://open.spotify.com/album/3o9hV5EHfdTas5OgNCJ56V"
-      },
-      "artists": [
-        {
-          "name": "Phil Woods",
-          "url": "https://open.spotify.com/artist/6G4hVmXKJ9NW5JecncK89f"
-        }
-      ],
-      "duration_ms": 397306,
-      "name": "Prelude And Part 1 - Remastered",
-      "url": "https://open.spotify.com/track/2BaEvkAEiyN7IkPcgkyZZr"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
         "name": "Pushing the World Away",
         "url": "https://open.spotify.com/album/79HogqAl7FydqNlNZqVz79"
       },
@@ -2303,70 +2303,6 @@
       "duration_ms": 223960,
       "name": "A Side Order of Hijiki",
       "url": "https://open.spotify.com/track/2ZdIftmBJqA88uoE8H1wZq"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Escaping Shadows",
-        "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
-      },
-      "artists": [
-        {
-          "name": "Benny Reid",
-          "url": "https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe"
-        }
-      ],
-      "duration_ms": 329200,
-      "name": "New Days",
-      "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Moving In",
-        "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
-      },
-      "artists": [
-        {
-          "name": "Chris Potter",
-          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
-        }
-      ],
-      "duration_ms": 463640,
-      "name": "The Forest",
-      "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
-      },
-      "artists": [
-        {
-          "name": "Jackie McLean",
-          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
-        }
-      ],
-      "duration_ms": 497906,
-      "name": "Vertigo - Remastered",
-      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Back East",
-        "url": "https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE"
-      },
-      "artists": [
-        {
-          "name": "Joshua Redman",
-          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
-        }
-      ],
-      "duration_ms": 400853,
-      "name": "Back East",
-      "url": "https://open.spotify.com/track/5BxatdeERzU9irLOFkkHG5"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2387,18 +2323,66 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
-        "name": "Joyous Encounter",
-        "url": "https://open.spotify.com/album/7JJAVKH0nRCW4NzpAqUhGu"
+        "name": "Back East",
+        "url": "https://open.spotify.com/album/3fNLmm3yOGCQYr2M8Tc5UE"
       },
       "artists": [
         {
-          "name": "Joe Lovano",
-          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
         }
       ],
-      "duration_ms": 485920,
-      "name": "Pannonica",
-      "url": "https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88"
+      "duration_ms": 400853,
+      "name": "Back East",
+      "url": "https://open.spotify.com/track/5BxatdeERzU9irLOFkkHG5"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6ZobxoJkOGa8X3us8U948a"
+      },
+      "artists": [
+        {
+          "name": "Jackie McLean",
+          "url": "https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA"
+        }
+      ],
+      "duration_ms": 497906,
+      "name": "Vertigo - Remastered",
+      "url": "https://open.spotify.com/track/5Neu3ciZMMYhpoe3YxxZMi"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Moving In",
+        "url": "https://open.spotify.com/album/6ApnelkoRtJZEQjyORY77D"
+      },
+      "artists": [
+        {
+          "name": "Chris Potter",
+          "url": "https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB"
+        }
+      ],
+      "duration_ms": 463640,
+      "name": "The Forest",
+      "url": "https://open.spotify.com/track/5IxPx8zwI30weoTTaNu2vk"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Escaping Shadows",
+        "url": "https://open.spotify.com/album/0RDcQJnWgde7RGPMurpthW"
+      },
+      "artists": [
+        {
+          "name": "Benny Reid",
+          "url": "https://open.spotify.com/artist/72cz5YneQ6tzhicbgYJIhe"
+        }
+      ],
+      "duration_ms": 329200,
+      "name": "New Days",
+      "url": "https://open.spotify.com/track/7Eh4F3EYUc7pfZ5qWxJMim"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2415,6 +2399,22 @@
       "duration_ms": 449293,
       "name": "I Remember You - 2006 Digital Remaster",
       "url": "https://open.spotify.com/track/0sh8fTiqQ7eAXvGKgmvZju"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Joyous Encounter",
+        "url": "https://open.spotify.com/album/7JJAVKH0nRCW4NzpAqUhGu"
+      },
+      "artists": [
+        {
+          "name": "Joe Lovano",
+          "url": "https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf"
+        }
+      ],
+      "duration_ms": 485920,
+      "name": "Pannonica",
+      "url": "https://open.spotify.com/track/4iuYeo7alKHLLyNBIWbt88"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2443,6 +2443,22 @@
     {
       "added_at": "2023-09-01 07:42:13",
       "album": {
+        "name": "On This Night",
+        "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
+      },
+      "artists": [
+        {
+          "name": "Archie Shepp",
+          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
+        }
+      ],
+      "duration_ms": 447466,
+      "name": "The Mac Man",
+      "url": "https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
         "name": "Yun Kan 12345",
         "url": "https://open.spotify.com/album/0oaZ1uYPkqx6Zm3KHvLsN5"
       },
@@ -2459,22 +2475,6 @@
       "duration_ms": 410373,
       "name": "Abraxas",
       "url": "https://open.spotify.com/track/4TLC5QFrgt4STktauA5G68"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "Lenox Avenue Breakdown",
-        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
-      },
-      "artists": [
-        {
-          "name": "Arthur Blythe",
-          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
-        }
-      ],
-      "duration_ms": 578880,
-      "name": "Slidin' Through",
-      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2499,6 +2499,22 @@
       "duration_ms": 315520,
       "name": "Nigeria",
       "url": "https://open.spotify.com/track/0p9mkM9GtASH9tF73Qo5H3"
+    },
+    {
+      "added_at": "2023-09-01 07:42:13",
+      "album": {
+        "name": "Lenox Avenue Breakdown",
+        "url": "https://open.spotify.com/album/0TjCtBbEIcqcRajdG0oro7"
+      },
+      "artists": [
+        {
+          "name": "Arthur Blythe",
+          "url": "https://open.spotify.com/artist/2vCGDtmVCSZoGIarYvJK33"
+        }
+      ],
+      "duration_ms": 578880,
+      "name": "Slidin' Through",
+      "url": "https://open.spotify.com/track/4VgZG06JbEJG6CUU2ZxlKU"
     },
     {
       "added_at": "2023-09-01 07:42:13",
@@ -2531,22 +2547,6 @@
       "duration_ms": 439280,
       "name": "Byablue",
       "url": "https://open.spotify.com/track/4MhGJyGOmgURHEJBatYzMz"
-    },
-    {
-      "added_at": "2023-09-01 07:42:13",
-      "album": {
-        "name": "On This Night",
-        "url": "https://open.spotify.com/album/637UaZxeTffGluVJMOvBS3"
-      },
-      "artists": [
-        {
-          "name": "Archie Shepp",
-          "url": "https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh"
-        }
-      ],
-      "duration_ms": 447466,
-      "name": "The Mac Man",
-      "url": "https://open.spotify.com/track/26MG7HtLqPVfPRjrVhhb7t"
     },
     {
       "added_at": "2023-09-01 07:42:13",

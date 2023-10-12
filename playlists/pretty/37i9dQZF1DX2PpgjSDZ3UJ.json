@@ -1,12 +1,12 @@
 {
   "description": "Las mejores canciones de indie/alternativo durante el 2020. En portada: Ela Minus",
-  "num_followers": 21520,
+  "num_followers": 21531,
   "original_name": "Lo Mejor del Indie/Alternativo 2020",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw1MzEwMTNmMzgzOWZmNTkyNWZhYWMxMTcyMGRhY2NjM2FhOGU1NDEx",
+  "snapshot_id": "MCxiNWM1YWM0YTdkNThiNzhhZmUzZWUxOGE1MmVhYjc4ODgzM2NkY2Fk",
   "tracks": [
     {
       "added_at": "2020-12-01 05:03:00",
@@ -407,18 +407,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Mango Negro",
-        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
+        "name": "Ya Dormir\u00e9 Cuando Me Muera",
+        "url": "https://open.spotify.com/album/2gircpN65vFPiuw6zOk51w"
       },
       "artists": [
         {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+          "name": "Ginebras",
+          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
         }
       ],
-      "duration_ms": 272513,
-      "name": "IR",
-      "url": "https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m"
+      "duration_ms": 186106,
+      "name": "Chico Pum",
+      "url": "https://open.spotify.com/track/77qAr1xle5fDEGQOVUde6f"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -455,18 +455,18 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ya Dormir\u00e9 Cuando Me Muera",
-        "url": "https://open.spotify.com/album/2gircpN65vFPiuw6zOk51w"
+        "name": "Mango Negro",
+        "url": "https://open.spotify.com/album/2h6a8lF0snB00Jj1JsezRF"
       },
       "artists": [
         {
-          "name": "Ginebras",
-          "url": "https://open.spotify.com/artist/5w3bs8jNvbb0QHf5Lo0sva"
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
         }
       ],
-      "duration_ms": 186106,
-      "name": "Chico Pum",
-      "url": "https://open.spotify.com/track/77qAr1xle5fDEGQOVUde6f"
+      "duration_ms": 272513,
+      "name": "IR",
+      "url": "https://open.spotify.com/track/1Fcx2n42iUhBad9kxj7g3m"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -615,22 +615,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Regresa",
-        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
-      },
-      "artists": [
-        {
-          "name": "Buscabulla",
-          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
-        }
-      ],
-      "duration_ms": 171807,
-      "name": "NTE",
-      "url": "https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Serenidad",
         "url": "https://open.spotify.com/album/7ryFCViJ1ruW7WR1OMlFsV"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 208250,
       "name": "Serenidad",
       "url": "https://open.spotify.com/track/5bLHfX6WgqwjSRiPx5AQ3n"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Regresa",
+        "url": "https://open.spotify.com/album/18xOW1VhQWVgnQH9CGi9Rp"
+      },
+      "artists": [
+        {
+          "name": "Buscabulla",
+          "url": "https://open.spotify.com/artist/0MoaBi6dSquXp6rrlqlF8R"
+        }
+      ],
+      "duration_ms": 171807,
+      "name": "NTE",
+      "url": "https://open.spotify.com/track/7p4C1w3JSmKVJXixBrtaKI"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -751,6 +751,22 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
+        "name": "Sentimiento Mundial",
+        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        }
+      ],
+      "duration_ms": 178146,
+      "name": "Delicadeza",
+      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
         "name": "brotes (florecen)",
         "url": "https://open.spotify.com/album/0091N9PEv8YXYU351kmx5U"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 216506,
       "name": "Cuando quieres jugar conmigo",
       "url": "https://open.spotify.com/track/6XVE5aiEJtV14YNiGLJiYz"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
-        "name": "Sentimiento Mundial",
-        "url": "https://open.spotify.com/album/5l42UGler5fwv207TkXYtI"
-      },
-      "artists": [
-        {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
-        }
-      ],
-      "duration_ms": 178146,
-      "name": "Delicadeza",
-      "url": "https://open.spotify.com/track/2Yskv1YwRJfu6L7auWA34g"
     },
     {
       "added_at": "2020-12-01 05:03:00",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2020-12-01 05:03:00",
       "album": {
-        "name": "Ruinas",
-        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
-      },
-      "artists": [
-        {
-          "name": "Misile",
-          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
-        }
-      ],
-      "duration_ms": 302000,
-      "name": "Las Ruinas",
-      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
-    },
-    {
-      "added_at": "2020-12-01 05:03:00",
-      "album": {
         "name": "Pong",
         "url": "https://open.spotify.com/album/3O9Sh32VPoskDSbkiW77Jb"
       },
@@ -1343,6 +1327,22 @@
       "duration_ms": 208505,
       "name": "Pong",
       "url": "https://open.spotify.com/track/4r5DPWa4xFtqS0CROTIc41"
+    },
+    {
+      "added_at": "2020-12-01 05:03:00",
+      "album": {
+        "name": "Ruinas",
+        "url": "https://open.spotify.com/album/33hr3hHecqZLcVzmGhKDj0"
+      },
+      "artists": [
+        {
+          "name": "Misile",
+          "url": "https://open.spotify.com/artist/4QWTH47GMiEHf0UlJK7tB0"
+        }
+      ],
+      "duration_ms": 302000,
+      "name": "Las Ruinas",
+      "url": "https://open.spotify.com/track/0D9pYpbIHOrL5S6VTEyc6Q"
     },
     {
       "added_at": "2020-12-01 05:03:00",

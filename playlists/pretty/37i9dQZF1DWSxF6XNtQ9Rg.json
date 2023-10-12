@@ -1,12 +1,12 @@
 {
   "description": "Solo hit rap da ascoltare in loop. Cover: Marra e Gu\u00e8",
-  "num_followers": 194674,
+  "num_followers": 194763,
   "original_name": "Hit Rap Italiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3MWZmYzVlMzZjZjc0MGY3N2U5MjAwYTMyNzJjZjY2ZjFjZmY3ZjFj",
+  "snapshot_id": "MCxjOTYyYTE1MTVhYjQ5OTljZjQ3ZmMxZTc4OGNhMWM3ZWMyZTEyNzBh",
   "tracks": [
     {
       "added_at": "2023-09-21 22:01:00",
@@ -307,18 +307,26 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "BOSS",
-        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
+        "name": "T\u00caTE (feat. Medy & VillaBanks)",
+        "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
       },
       "artists": [
         {
-          "name": "Tony Effe",
-          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
+          "name": "AVA",
+          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
+        },
+        {
+          "name": "Medy",
+          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
+        },
+        {
+          "name": "VillaBanks",
+          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
         }
       ],
-      "duration_ms": 144930,
-      "name": "BOSS",
-      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
+      "duration_ms": 180904,
+      "name": "T\u00caTE (feat. Medy & VillaBanks)",
+      "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -343,26 +351,18 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "T\u00caTE (feat. Medy & VillaBanks)",
-        "url": "https://open.spotify.com/album/5TL8p0VHTb54SA7FGhL8lG"
+        "name": "BOSS",
+        "url": "https://open.spotify.com/album/3sMOvpUohugjixq44SynQG"
       },
       "artists": [
         {
-          "name": "AVA",
-          "url": "https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr"
-        },
-        {
-          "name": "Medy",
-          "url": "https://open.spotify.com/artist/3lbFUmlaNMa9ZVSabLlkhn"
-        },
-        {
-          "name": "VillaBanks",
-          "url": "https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL"
+          "name": "Tony Effe",
+          "url": "https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF"
         }
       ],
-      "duration_ms": 180904,
-      "name": "T\u00caTE (feat. Medy & VillaBanks)",
-      "url": "https://open.spotify.com/track/14XAuSrVFla2uyMiYVwQtq"
+      "duration_ms": 144930,
+      "name": "BOSS",
+      "url": "https://open.spotify.com/track/41ZKcEXI1OSUDpY2zzP45D"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -487,6 +487,46 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
+        "name": "c@ra++ere s?ec!@le",
+        "url": "https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah"
+      },
+      "artists": [
+        {
+          "name": "thasup",
+          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+        },
+        {
+          "name": "Tedua",
+          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+        }
+      ],
+      "duration_ms": 182078,
+      "name": "Dimmi Che C'\u00e8 (feat. Tedua)",
+      "url": "https://open.spotify.com/track/7jVQ6DP7Q6S2wKWqJmcTZL"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
+        "name": "EP2",
+        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
+      },
+      "artists": [
+        {
+          "name": "Baby Gang",
+          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+        },
+        {
+          "name": "Ben\u00e9",
+          "url": "https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn"
+        }
+      ],
+      "duration_ms": 212284,
+      "name": "Lei (feat. Ben\u00e9)",
+      "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
         "name": "Body (Remix) [feat. Capo Plaza & Rondodasosa]",
         "url": "https://open.spotify.com/album/6DiEWYk79JFILIgUd6SrTA"
       },
@@ -515,58 +555,26 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "EP2",
-        "url": "https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky"
+        "name": "Mr. Fini",
+        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
       },
       "artists": [
         {
-          "name": "Baby Gang",
-          "url": "https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0"
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
         },
         {
-          "name": "Ben\u00e9",
-          "url": "https://open.spotify.com/artist/3KQ6K5tg4iklLDO1cNnunn"
-        }
-      ],
-      "duration_ms": 212284,
-      "name": "Lei (feat. Ben\u00e9)",
-      "url": "https://open.spotify.com/track/1fdL0yW2DHzcOOUF0fZFv8"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "c@ra++ere s?ec!@le",
-        "url": "https://open.spotify.com/album/0aNU7OgnwicBxJrhvv4Bah"
-      },
-      "artists": [
-        {
-          "name": "thasup",
-          "url": "https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA"
+          "name": "Rose Villain",
+          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
         },
         {
-          "name": "Tedua",
-          "url": "https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7"
+          "name": "Luch\u00e8",
+          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
         }
       ],
-      "duration_ms": 182078,
-      "name": "Dimmi Che C'\u00e8 (feat. Tedua)",
-      "url": "https://open.spotify.com/track/7jVQ6DP7Q6S2wKWqJmcTZL"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "Shakerando",
-        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
-      },
-      "artists": [
-        {
-          "name": "Rhove",
-          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
-        }
-      ],
-      "duration_ms": 195555,
-      "name": "Shakerando",
-      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
+      "duration_ms": 201931,
+      "name": "Chico (feat. Rose Villain & Luch\u00e8)",
+      "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -591,26 +599,18 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
-        "name": "Mr. Fini",
-        "url": "https://open.spotify.com/album/5W43G0FSXOgTFCSfnnwxcf"
+        "name": "Shakerando",
+        "url": "https://open.spotify.com/album/4ZF92wezwJWluQn4CQcXLJ"
       },
       "artists": [
         {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Rose Villain",
-          "url": "https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs"
-        },
-        {
-          "name": "Luch\u00e8",
-          "url": "https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4"
+          "name": "Rhove",
+          "url": "https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4"
         }
       ],
-      "duration_ms": 201931,
-      "name": "Chico (feat. Rose Villain & Luch\u00e8)",
-      "url": "https://open.spotify.com/track/3sUzeeqRtfBfJAkk8qb8Pd"
+      "duration_ms": 195555,
+      "name": "Shakerando",
+      "url": "https://open.spotify.com/track/4EC028SvtlC25iHQSG2OIa"
     },
     {
       "added_at": "2023-09-21 22:01:00",
@@ -755,6 +755,26 @@
     {
       "added_at": "2023-09-21 22:01:00",
       "album": {
+        "name": "Sinatra",
+        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
+      },
+      "artists": [
+        {
+          "name": "Gu\u00e8",
+          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
+        },
+        {
+          "name": "Frah Quintale",
+          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
+        }
+      ],
+      "duration_ms": 211840,
+      "name": "2% (feat. Frah Quintale)",
+      "url": "https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25"
+    },
+    {
+      "added_at": "2023-09-21 22:01:00",
+      "album": {
         "name": "Gi\u00f9",
         "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 183797,
       "name": "Soldi in Nero - feat. Sfera Ebbasta",
       "url": "https://open.spotify.com/track/1Xm2e1vDwOMeJJioWuG1s7"
-    },
-    {
-      "added_at": "2023-09-21 22:01:00",
-      "album": {
-        "name": "Sinatra",
-        "url": "https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R"
-      },
-      "artists": [
-        {
-          "name": "Gu\u00e8",
-          "url": "https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27"
-        },
-        {
-          "name": "Frah Quintale",
-          "url": "https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN"
-        }
-      ],
-      "duration_ms": 211840,
-      "name": "2% (feat. Frah Quintale)",
-      "url": "https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25"
     },
     {
       "added_at": "2023-09-21 22:01:00",

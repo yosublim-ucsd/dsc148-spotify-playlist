@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 
 > New music from Fivio Foreign, Lil Yachty and Drake.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,644,279 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,621,358 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XUsuxWHRQd.md) - [plain]
 | 49 | [bigger thën everything](https://open.spotify.com/track/11B7WTuoInwUvuP1BnnGWW) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [bigger thën everything](https://open.spotify.com/album/5bVIz2j5nOioetMjM0T4F9) | 3:38 |
 | 50 | [Testimony](https://open.spotify.com/track/6YJzVBCeKH0sarQEi5rSDk) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Testimony](https://open.spotify.com/album/0CNkxTOBTuVNRc3VeO1hl1) | 2:57 |
 
-Snapshot ID: `MCxmOGUzZmVlYTAyN2JiNzdjZTVkY2M5NzMyZGRmNzViNjkwZDIwOTNm`
+Snapshot ID: `MCw5NTc0NWQyN2Q0NGZkMzk1NWIwYmUzZGZiNDkxN2YyNWE1ZTM2ZDFj`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 
 > a new world of alternative electronic music\. Cover: Logic1000
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,136 likes - 85 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,080 likes - 85 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 3 | [Bop](https://open.spotify.com/track/3YHweGUJ3Qds95EScnZewK) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [Bop](https://open.spotify.com/album/4rJKZBpvy22QPs3S5h7cUj) | 5:08 |
 | 4 | [ZiGGY \(DJ\-Kicks\)](https://open.spotify.com/track/1ustsXRV9SzZMuFnozNE6e) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4) | [ZiGGY \(DJ\-Kicks\)](https://open.spotify.com/album/3sWZKvKbMl5eJcTHzD045K) | 5:41 |
 | 5 | [Dive](https://open.spotify.com/track/7oZHQbGCwosUHL1vDE5qdI) | [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [Rascal](https://open.spotify.com/album/0vVjA9jq1NQF76dtyy7S6y) | 4:18 |
-| 6 | [On My Mind](https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [Jim](https://open.spotify.com/artist/6goGejgjtOpzFnNndVXmZ0) | [On My Mind](https://open.spotify.com/album/3Tc4RzAWum7OKbNkTGgkAX) | 2:20 |
+| 6 | [On My Mind](https://open.spotify.com/track/3Z8pXlydvG00cjalDZgiUq) | [SILK](https://open.spotify.com/artist/01epL9hgF4G7guGkrnzR8a), [JIM](https://open.spotify.com/artist/5ahYpnzCN3IMzBCFqwnKfr) | [On My Mind](https://open.spotify.com/album/3Tc4RzAWum7OKbNkTGgkAX) | 2:20 |
 | 7 | [Blow Out](https://open.spotify.com/track/5xWn1sBr3ZkFOSUrfp6Iz4) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Blow Out](https://open.spotify.com/album/7CNhoiKG42kp3wZAmTP0r1) | 3:36 |
 | 8 | [gr etiquette](https://open.spotify.com/track/44pX2G3zFb5rvsqy6uaDeF) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [archive 09\-10](https://open.spotify.com/album/7CfTDwpSa8cWyk6GYIERv3) | 5:00 |
 | 9 | [Body Beat](https://open.spotify.com/track/1Kqyo7VZavF0XxNxwIKtfu) | [IN2STELLAR](https://open.spotify.com/artist/6JDTszsnsJ44yCRBnISbVq) | [Body Beat](https://open.spotify.com/album/7JGTe36pDv9qlUAKrII5O6) | 3:01 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZaNRXtvIrDt.md) - [plain]
 | 84 | [<3<3<3](https://open.spotify.com/track/3LWTK96kI6eu29am9GEMS3) | [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [<3<3<3](https://open.spotify.com/album/7yyMB6HnHMXsB1xoocebJE) | 3:05 |
 | 85 | [Say Something](https://open.spotify.com/track/77Q0qbZPx8ikjqvPOADORA) | [Swimming Paul](https://open.spotify.com/artist/5rEwPEAHq2q1yW3wF4av5s) | [Say Something](https://open.spotify.com/album/0ZlDyS6kzMipun19zAEHKe) | 3:20 |
 
-Snapshot ID: `MCw4NDA3MmMxMzM0MmE0N2JjYTY0YTZlZGEyZjhmODI3MmY1N2I5ZTdl`
+Snapshot ID: `MCxmYTZlMWY1ZTIxNTY0MzBiMGI5NThlMDczYjQwYmYzNjBiNjQ5OTBj`

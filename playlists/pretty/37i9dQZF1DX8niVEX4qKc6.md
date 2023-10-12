@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Silvina Moreno
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,239 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,229 likes - 100 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 55 | [Besos, Limón y Miel](https://open.spotify.com/track/1HKQJgGPPmRYUjMiLyV3Uo) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [Besos, Limón y Miel](https://open.spotify.com/album/7yp09zLBnvbOMaC41E3McT) | 3:47 |
 | 56 | [La Danza del Espacio Tiempo](https://open.spotify.com/track/5YFqhC4xMQWSbdiGPUynXP) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [La Danza del Espacio Tiempo](https://open.spotify.com/album/6tSTVRRPOPq1TXqB8Wea0b) | 2:08 |
 | 57 | [Nunca Quise](https://open.spotify.com/track/6D9DeEzBK6sHfPyTd3p46l) | [Ainda](https://open.spotify.com/artist/3eZXi1et2XpXPD7PoUDDzE) | [Animal](https://open.spotify.com/album/4fsolZF2A6KMYokByMvOQs) | 3:16 |
-| 58 | [Serotonina](https://open.spotify.com/track/6mvzF3fcRrS231G8yN3BaN) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Serotonina](https://open.spotify.com/album/5Tqt0IhJRkRnUzpI8MxSLk) | 3:06 |
-| 59 | [Fin de Fiesta](https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Fin de Fiesta](https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5) | 1:41 |
+| 58 | [Fin de Fiesta](https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq) | [Miau Trío](https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL) | [Fin de Fiesta](https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5) | 1:41 |
+| 59 | [Serotonina](https://open.spotify.com/track/6mvzF3fcRrS231G8yN3BaN) | [Simón Campusano](https://open.spotify.com/artist/73jlslw4ZXYZ9kgh0kY2mU), [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4) | [Serotonina](https://open.spotify.com/album/5Tqt0IhJRkRnUzpI8MxSLk) | 3:06 |
 | 60 | [Cuídame](https://open.spotify.com/track/3gW6YHqQjiSHCncALFvFPE) | [Silvina Moreno](https://open.spotify.com/artist/2wMN1UAgISJA8yQusQL18G) | [Sofá](https://open.spotify.com/album/3qMq7yv06IdD14Q4MkxJD4) | 4:24 |
 | 61 | [Tan Solo \(Acústico\)](https://open.spotify.com/track/5YvShwXtxESCHIPNs0xGxW) | [Ciro y los Persas](https://open.spotify.com/artist/2Eo4Yaukt9d6dnZrY5hQKi) | [Guerras \(Un Viaje en el Tiempo\)](https://open.spotify.com/album/7n628eTRFQ2E1Bp6hBjZYR) | 4:06 |
 | 62 | [Tu Nombre \- En Vivo En El Gran Rex / 2015](https://open.spotify.com/track/5PMq23GYtgnhjad5cqvf38) | [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj), [Chano](https://open.spotify.com/artist/14lvrkdaXxggonwjKZpePM) | [Tanta Magia \(En Vivo En El Gran Rex / 2015\)](https://open.spotify.com/album/4ki3k6SM4zikmM3lgKBsXN) | 3:34 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 92 | [Un Día Lo Encontré](https://open.spotify.com/track/6IPCxRPVXSXdfrubRNertw) | [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ), [Niña Tormenta](https://open.spotify.com/artist/0KJEHAoNtPaopqOHD6UIkY) | [Lo Primero](https://open.spotify.com/album/0uiItrX0S62V8IN88h0p3Q) | 3:00 |
 | 93 | [Oma](https://open.spotify.com/track/7xY0orsr2RKRoFtyvz1eJM) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Oma](https://open.spotify.com/album/0lDDxLhbL9J5hLO1iFSRSX) | 3:18 |
 | 94 | [Flotando \(Acústico\)](https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu) | [Francisca Valenzuela](https://open.spotify.com/artist/2piHiUbXwUNNIvYyIOIUKt) | [Flotando \(Acústico\)](https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh) | 4:16 |
-| 95 | [No Te Puedo Decir Que No](https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni) | [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J), [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a) | [No Te Puedo Decir Que No](https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp) | 3:03 |
+| 95 | [No Te Puedo Decir Que No](https://open.spotify.com/track/2BB4nJnuMJnFy3jKGUWPni) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Marki](https://open.spotify.com/artist/5wspxNfJ40p3YMUrwUaJ8J) | [No Te Puedo Decir Que No](https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp) | 3:03 |
 | 96 | [Fuji](https://open.spotify.com/track/6r4CEyVoLCE7oZ90pWut3Y) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32) | [Frontera / Fuji](https://open.spotify.com/album/2Nyjvin6VFdxtRJGAgQ2yr) | 4:38 |
 | 97 | [Acuarela](https://open.spotify.com/track/5dC1LZin7IxDvzYx3cMhjc) | [Mariano Godoy](https://open.spotify.com/artist/7gpYDxVfirNyKXORQncECR) | [Primavera](https://open.spotify.com/album/20QbwxEHyGQbWzhfr6uUqP) | 4:02 |
-| 98 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
-| 99 | [Bajo el Sol](https://open.spotify.com/track/5IYW0nAdMPfJ512iVuvQAu) | [Joaco Terán](https://open.spotify.com/artist/1cy3VfdlWVJIquPPSeJ81Z) | [Madre Tierra](https://open.spotify.com/album/0ahJlAKdoQnWYXH6eWaenG) | 3:23 |
-| 100 | [Tren Al Sur](https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Tren Al Sur](https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS) | 3:55 |
+| 98 | [Bajo el Sol](https://open.spotify.com/track/5IYW0nAdMPfJ512iVuvQAu) | [Joaco Terán](https://open.spotify.com/artist/1cy3VfdlWVJIquPPSeJ81Z) | [Madre Tierra](https://open.spotify.com/album/0ahJlAKdoQnWYXH6eWaenG) | 3:23 |
+| 99 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
+| 100 | [Mágica](https://open.spotify.com/track/46rlf6zgGnGcHZG233h3Uf) | [Panther](https://open.spotify.com/artist/6bigFvZX5HdrC98srqxRLQ) | [Mágica](https://open.spotify.com/album/1dLbHPD9bGcsTAj9dA2GHQ) | 2:16 |
 
-Snapshot ID: `MCxhYWNjYWIwMDEwMGQ5Y2Y3ODc5MDExYmQyYmIyZjk5ZTZlMjlhYmE3`
+Snapshot ID: `MCwwNzhkMWQxNzBhMDY3N2Y1ZDI2ZGZjZjJiY2NhMDlkZWViMmY1MDA5`

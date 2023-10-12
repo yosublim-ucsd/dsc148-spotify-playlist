@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 
 > This is the Latin soundtrack of the 50s! Cover:  Pérez Prado
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,916 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,936 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,10 +33,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 23 | [La Cama de Piedra](https://open.spotify.com/track/0W2sWeK8d32hqAPIvpq8Kl) | [Cuco Sánchez](https://open.spotify.com/artist/1M1VkVEy3JGFFyPy7oKH2E) | [El Revolucionario](https://open.spotify.com/album/6nyUcQEosgPKpNUhkp3bAI) | 3:12 |
 | 24 | [Amor Que Malo Eres](https://open.spotify.com/track/3UALUQSEr7cIp3yjnPCMVe) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Boleros In Trío](https://open.spotify.com/album/6Q5WjwqD0rXwSlU5fuw0O7) | 2:37 |
 | 25 | [La que se fue](https://open.spotify.com/track/7jbw51fAxM61ELUdfvx8Ua) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:39 |
-| 26 | [Bikini Amarillo](https://open.spotify.com/track/72g1PJpGW0wk5dglxSloxN) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Éxitos](https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU) | 2:23 |
-| 27 | [Ruega por Nosotros](https://open.spotify.com/track/7HeuflCAk9ygJnbUXCxskh) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:32 |
-| 28 | [No Me Platiques Más](https://open.spotify.com/track/6G6oAAr2x7ndjFfHiB23Lt) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Sus Mejores Boleros](https://open.spotify.com/album/0qN42jK4MHgVt7uEclhJpu) | 2:56 |
-| 29 | [Cherry Pink And Apple Blossom White](https://open.spotify.com/track/783XPWZlaGrFcgH3EMoGwB) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [The King of Mambo](https://open.spotify.com/album/4gIaN0sSqN7fjDq9NG4vFp) | 2:29 |
+| 26 | [Cherry Pink And Apple Blossom White](https://open.spotify.com/track/783XPWZlaGrFcgH3EMoGwB) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [The King of Mambo](https://open.spotify.com/album/4gIaN0sSqN7fjDq9NG4vFp) | 2:29 |
+| 27 | [Bikini Amarillo](https://open.spotify.com/track/72g1PJpGW0wk5dglxSloxN) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Éxitos](https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU) | 2:23 |
+| 28 | [Ruega por Nosotros](https://open.spotify.com/track/7HeuflCAk9ygJnbUXCxskh) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:32 |
+| 29 | [No Me Platiques Más](https://open.spotify.com/track/6G6oAAr2x7ndjFfHiB23Lt) | [Los Tres Ases](https://open.spotify.com/artist/2AvUIlDzLMzaxajDtniU4B) | [Sus Mejores Boleros](https://open.spotify.com/album/0qN42jK4MHgVt7uEclhJpu) | 2:56 |
 | 30 | [Violetas Imperiales](https://open.spotify.com/track/1U9XfOxsCfuPk3J1Xak9QQ) | [Luis Mariano](https://open.spotify.com/artist/10bAcf3bvLnCoePvmT7fyG) | [Las Canciones de Luis Mariano](https://open.spotify.com/album/1bdNIETtvmNfOHGw08CMKR) | 3:31 |
 | 31 | [Quinto Patio](https://open.spotify.com/track/3HI6DC983guuu26sfCT3jD) | [Luis Arcaraz Y Su Orquesta](https://open.spotify.com/artist/5XFKOAxf3r9rhqWOnVVVDg) | [RCA 100 Años De Musica](https://open.spotify.com/album/0hyUBRhHBjB52XcYczQeGV) | 3:03 |
 | 32 | [Pénjamo](https://open.spotify.com/track/2vKYADIQCZb07DRE4LzwxK) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 3:15 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 34 | [Besame Mucho](https://open.spotify.com/track/6vJJdNPTJKUsUMDmDwfCuB) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canciones del Corazon](https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u) | 3:05 |
 | 35 | [Diana](https://open.spotify.com/track/5wgEPKwKpTS8g6fYejxXyh) | [Manolo Muñoz](https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu) | [Éxitos](https://open.spotify.com/album/1rd76Pzbgwib2BMDklaFVU) | 2:24 |
 | 36 | [El Boogie de la Guitarra](https://open.spotify.com/track/7H0I6Bei1kYYjGk8JTqSwT) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 3:01 |
-| 37 | [Quiereme Mucho \(Yours\)](https://open.spotify.com/track/3hThX54q9haPCi0olgOHG2) | [Los Copacabana](https://open.spotify.com/artist/3eBJqE3k7Jr4CZbI4N4Jrg) | [Mexico's Greatest Hits](https://open.spotify.com/album/2giGcyHpDs98pN0FsdvcCW) | 3:52 |
-| 38 | [Cuando Calienta El Sol](https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:26 |
+| 37 | [Cuando Calienta El Sol](https://open.spotify.com/track/7pP7yMX0Nu862YXP5S9Eqs) | [Trini Lopez](https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv) | [His 28 Greatest Hits](https://open.spotify.com/album/0le6lAknFh1BF6GZ3GSTon) | 2:26 |
+| 38 | [Quiereme Mucho \(Yours\)](https://open.spotify.com/track/3hThX54q9haPCi0olgOHG2) | [Los Copacabana](https://open.spotify.com/artist/3eBJqE3k7Jr4CZbI4N4Jrg) | [Mexico's Greatest Hits](https://open.spotify.com/album/2giGcyHpDs98pN0FsdvcCW) | 3:52 |
 | 39 | [Como Antes](https://open.spotify.com/track/3ND2X5ewlEMOnuzvsvi71w) | [Los 5 Latinos](https://open.spotify.com/artist/7aZR9nyaShysVN1JyGoPsA) | [Los 5 Latinos \(Singles Collection\)](https://open.spotify.com/album/1973kRaYyDe5rJeRAvQHQ6) | 1:56 |
 | 40 | [Mambo en Sax](https://open.spotify.com/track/1hLZBnAopiRfEvbj7aurzi) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [The Best Of Perez Prado: The Original Mambo \#5](https://open.spotify.com/album/5tZ8FshywMxf1RdSTaZx5m) | 2:30 |
 | 41 | [Espinita](https://open.spotify.com/track/0mYvrd6bEvIb6eVlo8G0zN) | [Ana María González](https://open.spotify.com/artist/5kUndRPKfSpxJ8WoDImOZU) | [Presentando a Ana María González](https://open.spotify.com/album/1xUHmBMg8McZqErft7qraw) | 2:21 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gHUsLp9bcj.md) - [plain]
 | 43 | [Lucila](https://open.spotify.com/track/1OiKlPrbgZdDEDt0QPHAjB) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Los Grandes Idolos: Teen Tops](https://open.spotify.com/album/7xGhNr451u4c8GXzZau85m) | 2:56 |
 | 44 | [Mariquilla \(remastered\)](https://open.spotify.com/track/1oHiwtCvNIXavqFbb1cP45) | [José Luis Y Su Guitarra](https://open.spotify.com/artist/1vCJVeY7z8P4vglJBTScQx) | [José Luis Y Su Guitarra\. Todos Sus Primeros EP's En Discos Philips \(1958\-1960\)](https://open.spotify.com/album/6NI3n5j27E7qiU66tTbfRw) | 2:36 |
 | 45 | [Perfídia](https://open.spotify.com/track/5H7EJcOSNNWjMjdHIxtdG0) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Canciones del Corazon](https://open.spotify.com/album/0Ai4nrtCv5Z6jfOvGoyJ2u) | 2:53 |
-| 46 | [Recordaré tu amor \(remastered\)](https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK) | [Monna Bell](https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC) | [Monna Bell\. Sus Primeros EP's \(1959\-1961\)](https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3) | 3:14 |
-| 47 | [El agarrao \- Remastered](https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql) | [Benny Moré](https://open.spotify.com/artist/4cnQXgOckSZPIh3YhB500P) | [Cienfuegos \(Remastered\)](https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc) | 2:41 |
+| 46 | [El agarrao \- Remastered](https://open.spotify.com/track/1D8odg3YqpBNDPL9pIx5ql) | [Benny Moré](https://open.spotify.com/artist/4cnQXgOckSZPIh3YhB500P) | [Cienfuegos \(Remastered\)](https://open.spotify.com/album/53cadHSNf6jX0PLCeet7Fc) | 2:41 |
+| 47 | [Recordaré tu amor \(remastered\)](https://open.spotify.com/track/5lBHAdOAalYZTMdF0TkBYK) | [Monna Bell](https://open.spotify.com/artist/2aJtGPY592hgmkGzD9oleC) | [Monna Bell\. Sus Primeros EP's \(1959\-1961\)](https://open.spotify.com/album/6bdKkTA2hfqQQ32fhkamO3) | 3:14 |
 | 48 | [Luna de miel](https://open.spotify.com/track/6XeBrrONfLyB25iWk7I00R) | [Gloria Lasso](https://open.spotify.com/artist/2ufn5Tb2Vau3Y2kMNkJr47) | [Como Acostumbras](https://open.spotify.com/album/5obF728wpq8sOPlW0atl0A) | 2:48 |
 | 49 | [Las Chicas de la Cruz Roja \(Fox Fado\) \- Remastered](https://open.spotify.com/track/6T1nf9LujndhDtbtB4GWN7) | [Ana Maria Parra](https://open.spotify.com/artist/29OGMAPeEHMpTqyfIkxSei) | [Ana Maria Parra, Vol\. 1 \(1958 \- 1961 Remastered\)](https://open.spotify.com/album/5Vcs4PKk0RdULOJOAAZVKG) | 2:14 |
 | 50 | [Tu Castigo](https://open.spotify.com/track/1TBn1IZC0Aj9weRj0HsKFQ) | [Lola Beltrán](https://open.spotify.com/artist/0qZlB7IX5lWPhlxsayt31p) | [Lola Beltrán en Concierto: 15 Aniversario, En Vivo en el Palacio de Bellas Artes 1976 y en el Teatro Olympia de Paris](https://open.spotify.com/album/094POuqSlcB4gYOwnw4N9K) | 3:11 |
 
-Snapshot ID: `MCw3MjY4MzY1NDE5YmRkZWE5Y2JmZGRkMDE1ODYwNjkyMjlkNjU0MjA3`
+Snapshot ID: `MCxiZDc5NGNlMGI4NjQxOTBhNDMwZjI3MGRkYmI3MTVkZTI2MTg5MGQx`

@@ -4,7 +4,7 @@
 
 > All new surf rock.
 
-316 songs - 17 hr 50 min
+317 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [All I Need](https://open.spotify.com/track/4K6e6JiR1KFohWedXSnvob) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [My Head is a Moshpit](https://open.spotify.com/album/1tWDtF16yatKPBZIS0A2O6) | 3:23 | 2021-04-13 | 2022-06-15 |
 | [All Yours](https://open.spotify.com/track/1LAzF3sa7k3QrOKtpCVgLJ) | [Widowspeak](https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP) | [All Yours](https://open.spotify.com/album/3P2vcYCOMzyQThpAnmCTi2) | 3:42 | 2021-02-05 | 2022-06-07 |
 | [Alright, Alright](https://open.spotify.com/track/2zhW8OqnBdm26MOt68tGf8) | [Easy Honey](https://open.spotify.com/artist/5fKAYiCIzDsV8OqQDl8Erj) | [Ooooo](https://open.spotify.com/album/4Nxpiq85BCrbfDdh4c6iK5) | 2:34 | 2023-07-13 |  |
+| [always learning not what to do](https://open.spotify.com/track/4Haicfh6o86Q0vjsKimZvt) | [Surf Rock Is Dead](https://open.spotify.com/artist/5iwmHxCi5pm28BEykL5Fyd) | [Existential Playboy](https://open.spotify.com/album/5HUSS32UX7Ysf387TC641J) | 2:14 | 2023-10-11 |  |
 | [American Spirits](https://open.spotify.com/track/3gBUiBPKh4ept9hoG0G93N) | [Inner Wave](https://open.spotify.com/artist/6AQEfqGPSxZX0nJVonYxi6) | [III](https://open.spotify.com/album/5Y8n0zLN7AaqK1hxxlgT1u) | 2:50 | 2023-08-18 |  |
 | [Are We There Yet](https://open.spotify.com/track/5gj54T2o1IfFW2wNPl4D3b) | [Motel 7](https://open.spotify.com/artist/1VdkivxkOsvAIWNszCMzW6) | [Are We There Yet](https://open.spotify.com/album/78DrQe0LBkCyxTdt3zmEpF) | 2:59 | 2021-06-10 | 2022-04-14 |
 | [Are You Ever Gonna Change?](https://open.spotify.com/track/3iZctmaRtSHlztbWrShMuk) | [Travis Bretzer](https://open.spotify.com/artist/2bNoMMVO2QO6vySQvjn50L) | [Bubble Gum](https://open.spotify.com/album/7we6oWqrfF9tCLcLjJHEe6) | 3:46 | 2021-02-05 | 2022-06-18 |

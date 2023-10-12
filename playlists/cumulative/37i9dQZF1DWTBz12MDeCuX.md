@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: 01099 x RIN
 
-1,300 songs - 2 day 13 hr 37 min
+1,301 songs - 2 day 13 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,8 @@
 | [Face 2 Face](https://open.spotify.com/track/6L4XGeAdRRC32vVJpp8MdM) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Face 2 Face](https://open.spotify.com/album/4Ql8xPz3NjoScZ4yM3fNFh) | 2:04 | 2022-12-15 | 2023-01-24 |
 | [FACETIME LUV](https://open.spotify.com/track/5m0vz1gSNLohGVfEEAyQQb) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu) | [FACETIME LUV](https://open.spotify.com/album/19UnKm3n4cKPvDXYdlZja3) | 3:15 | 2022-08-04 | 2022-08-26 |
 | [Failure](https://open.spotify.com/track/56CBitpBTs1eY3Vk1wmW6b) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Failure](https://open.spotify.com/album/6xo9QswGgLtPkeNRtYQxCU) | 3:01 | 2022-10-13 | 2022-10-21 |
-| [Fairweather Friends](https://open.spotify.com/track/3VMK6tAjOT4INvBdZOtB9J) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Fairweather Friends](https://open.spotify.com/album/0Lgte4FZ2oPj12uHFYWCQn) | 1:34 | 2023-09-14 |  |
+| [Fairweather Friends](https://open.spotify.com/track/05tQzyLaod9RqjabafQYKv) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 1:34 | 2023-10-09 |  |
+| [Fairweather Friends](https://open.spotify.com/track/3VMK6tAjOT4INvBdZOtB9J) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [Fairweather Friends](https://open.spotify.com/album/0Lgte4FZ2oPj12uHFYWCQn) | 1:34 | 2023-09-14 | 2023-10-12 |
 | [Fall in Love with You.](https://open.spotify.com/track/4kJT7Yj6Za01KfKHjb7mZE) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 2:12 | 2022-12-08 | 2023-01-17 |
 | [FALLEN](https://open.spotify.com/track/1aAXdCj757K1zuCaTd1Vr7) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR), [WILDBWOYS](https://open.spotify.com/artist/44yXVrsMTsKGUBHZsYFZNq) | [COUNTRYCLUB](https://open.spotify.com/album/0qZIH0wA9pMAekISpsqthh) | 2:51 | 2022-06-09 | 2022-07-30 |
 | [FALLEN](https://open.spotify.com/track/4RmkOver91Do77YnmlTSep) | [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr), [102 Boyz](https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR), [WILDBWOYS](https://open.spotify.com/artist/44yXVrsMTsKGUBHZsYFZNq) | [COUNTRYCLUB](https://open.spotify.com/album/1QyeGIoee2lKlZDJ37ODgF) | 2:51 | 2022-07-29 | 2022-08-19 |

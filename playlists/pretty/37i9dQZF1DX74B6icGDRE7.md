@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 
 > my intrusive thoughts 🤝 this playlist\. para esas horas nostálgicas & melancólicas de la noche.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,760 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,806 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 13 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \[Deluxe Version\]](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 |
 | 14 | [Reina Pepiada](https://open.spotify.com/track/3yJ8buQlPzQtHyCicOGDJ0) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Diaz Antes](https://open.spotify.com/album/5gk9ozZKJuosICdYgwa5JW) | 4:04 |
 | 15 | [TSQ](https://open.spotify.com/track/1Zh65uEClQl16bwYW4HD2I) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 2:58 |
-| 16 | [86.400](https://open.spotify.com/track/3AncVybdw2UmiT8ulIGScN) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sensaciones](https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9) | 1:08 |
-| 17 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
-| 18 | [Báilame](https://open.spotify.com/track/5pOBhos8Z2v3FGjUPMgUgI) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 4:11 |
+| 16 | [Báilame](https://open.spotify.com/track/5pOBhos8Z2v3FGjUPMgUgI) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [54+1](https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N) | 4:11 |
+| 17 | [86.400](https://open.spotify.com/track/3AncVybdw2UmiT8ulIGScN) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [Sensaciones](https://open.spotify.com/album/7Hr8FOf7NQIe7UhLcllXq9) | 1:08 |
+| 18 | [mis compas tan aquí](https://open.spotify.com/track/10XdrDNjsIHsUjzHvDgB2X) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [mis compas tan aquí](https://open.spotify.com/album/1JcpI1H2VNu2q9Gk3TjUJN) | 3:50 |
 | 19 | [Babysita </3](https://open.spotify.com/track/0TzPApPjiPWXv98qSCrgbp) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 4:41 |
 | 20 | [Te Olvidaste](https://open.spotify.com/track/6Nr40AS5eNsfFjpMrisCY3) | [C\. Tangana](https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO), [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [El Madrileño](https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9) | 3:07 |
 | 21 | [Want U Around \(feat\. Ruel\)](https://open.spotify.com/track/1Qu24vc8msUVLcMZWa4k1x) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO), [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Apolonio](https://open.spotify.com/album/7HlxxaJOHK0ArY4Ae4Qfc7) | 4:07 |
@@ -62,11 +62,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX74B6icGDRE7.md) - [plain]
 | 52 | [Sin Excusa](https://open.spotify.com/track/0oP80plNZMBvjwAtpt1GfF) | [Sen Senra](https://open.spotify.com/artist/5lWasZeo8uWQk6GD8czJLq) | [PO2054AZ \(Vol.I\)](https://open.spotify.com/album/2FQ1wvw5azk1cHo1YDzNXT) | 2:16 |
 | 53 | [Amores de droga](https://open.spotify.com/track/33jkxCQQNrwQrXuHhVdhjh) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [EL SUR](https://open.spotify.com/album/1sHYyBeTBczpD87Bt3f8rz) | 3:07 |
 | 54 | [tuviste](https://open.spotify.com/track/5vfEvCdf2sjlf8ZWtZdfp7) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:50 |
-| 55 | [n la disco](https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 |
-| 56 | [Nubes](https://open.spotify.com/track/4bKKVfhH3pmMEWCMTViBVf) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/3woQ2AxMJRfEJaEV9BIDR1) | 2:54 |
+| 55 | [Nubes](https://open.spotify.com/track/4bKKVfhH3pmMEWCMTViBVf) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [Nubes](https://open.spotify.com/album/3woQ2AxMJRfEJaEV9BIDR1) | 2:54 |
+| 56 | [n la disco](https://open.spotify.com/track/0he3cLVpfsVymLeruJqI14) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamante$ + espina$](https://open.spotify.com/album/3nLYJGsqBARtdGRcOmdzgB) | 3:02 |
 | 57 | [No Soy Para Ti](https://open.spotify.com/track/4OhA5zmTkT49m0dOBqDOap) | [María Isabel](https://open.spotify.com/artist/318bGJ7GOvMhYhkNOe5kZ5) | [No Soy Para Ti](https://open.spotify.com/album/4do5kdrxqJkqEsLFX0I4bE) | 2:34 |
 | 58 | [Discreción](https://open.spotify.com/track/18nowS51G3slipQrcRH4bt) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 4:59 |
 | 59 | [El Destino](https://open.spotify.com/track/7deEXsuLC8Teu0MHiwr3V0) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Adrian Dargelos](https://open.spotify.com/artist/4F55zi79SZIr5PPOLTJ6cg) | [Franco \(Bonus Track Version\)](https://open.spotify.com/album/1KwfATAKqo1JKJtlflgkGj) | 3:24 |
 | 60 | [Dreams \(Interlude\)](https://open.spotify.com/track/1UpPUZTXGA0V9bISlUaW1K) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:41 |
 
-Snapshot ID: `MCxmMWMwZWQ4ODA4MjBkYzFkOWE0NWFiNWNiNWJkYmIzYmNhMDg4YWUz`
+Snapshot ID: `MCxjZGVkN2UxMTMyZWVkMjNmZDMzY2RlY2IxZWI4MGUwMzA3ZTZjZWYw`

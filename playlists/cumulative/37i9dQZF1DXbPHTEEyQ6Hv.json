@@ -797,6 +797,24 @@
     },
     {
       "album": {
+        "name": "Carol of the bells",
+        "url": "https://open.spotify.com/album/5bnB0lyfexPZyQXNMYRQp0"
+      },
+      "artists": [
+        {
+          "name": "Tony Delvin",
+          "url": "https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103000,
+      "name": "Carol of the bells",
+      "url": "https://open.spotify.com/track/3PE75Thjmn8hzSoXMWs9zB"
+    },
+    {
+      "album": {
         "name": "Christmas Lights",
         "url": "https://open.spotify.com/album/2pY1msFkuDzwlH8BMKLEG9"
       },
@@ -1283,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Hark The Herald Angels Sing",
+        "url": "https://open.spotify.com/album/4Dnkr99I1KiZluOWg9z5Ai"
+      },
+      "artists": [
+        {
+          "name": "Les Moray",
+          "url": "https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155075,
+      "name": "Hark The Herald Angels Sing",
+      "url": "https://open.spotify.com/track/6vD4DVOnhf5N2NKkozKQlR"
+    },
+    {
+      "album": {
         "name": "Hark! The Herald Angel Sing",
         "url": "https://open.spotify.com/album/0TIx5snVQO9bqxfYh9eB2v"
       },
@@ -1298,7 +1334,7 @@
       ],
       "date_added": "2021-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 225031,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/7Ezy3sFFAS3kJntqZTWpXz"
@@ -2466,6 +2502,24 @@
       "duration_ms": 234573,
       "name": "The Wassail Song (Here We Come A-Caroling)",
       "url": "https://open.spotify.com/track/6s762qoRM0crwCOU63DLd6"
+    },
+    {
+      "album": {
+        "name": "This winter",
+        "url": "https://open.spotify.com/album/0fu8E3rRmsN8SqXmpHwBGe"
+      },
+      "artists": [
+        {
+          "name": "Carl Faber",
+          "url": "https://open.spotify.com/artist/6xz3TCYDzkXv1a1NtyxdpN"
+        }
+      ],
+      "date_added": "2023-10-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116874,
+      "name": "This winter",
+      "url": "https://open.spotify.com/track/1Al9cICXCGBwryeDIgoLqJ"
     },
     {
       "album": {

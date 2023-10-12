@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 Peso Pluma, Junior H & Jasiel Nuñez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 688,016 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 689,595 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 49 | [Corazón](https://open.spotify.com/track/3rVlDhGNxSQApSOFM4XHYd) | [Los Luna](https://open.spotify.com/artist/3je77Yzq2c9d7lcxx7hvkC) | [Corazón](https://open.spotify.com/album/4xM0FfeqFIyDwYbWhjuBoe) | 3:03 |
 | 50 | [CUANDO LLUEVE](https://open.spotify.com/track/1zGm84bD3EQLq7Iot79U3T) | [Una Canción Bonita](https://open.spotify.com/artist/3hLAnFsw8LnNJ9FDXSCCP7) | [CUANDO LLUEVE](https://open.spotify.com/album/0Me1LJTvDr06VOYB9jfWjq) | 4:18 |
 
-Snapshot ID: `MCxmYzUxMjQzZWNkN2ZiZGFlMmNjOTliMGMzOGEwY2MwNjk2NzdmYzA0`
+Snapshot ID: `MCw0NDJiM2E4MmI0MGVjYjA2MTViNjQ0YTI1ZDJjZGY3MGU3Y2MzZTA4`

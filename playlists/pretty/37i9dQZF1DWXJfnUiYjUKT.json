@@ -1,12 +1,12 @@
 {
   "description": "The very best in new music from around the world. Cover: Tems",
-  "num_followers": 383787,
+  "num_followers": 383679,
   "original_name": "New Music Friday",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlMDEwMmQxMWI3ZTI1YTk3N2M3ZjdkNmMwNDZjM2YyODE4MDliYjJl",
+  "snapshot_id": "MCxmM2M0ODYwNTllNjc0NTEyYzkwMDhmMDE0YWIyYzg0MTNiNTM3ZDJi",
   "tracks": [
     {
       "added_at": "2023-10-06 13:48:01",
@@ -1624,16 +1624,16 @@
           "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
         },
         {
-          "name": "Diamond Pistols",
-          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
-        },
-        {
           "name": "Barney Bones",
           "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
         },
         {
           "name": "Leven Kali",
           "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        },
+        {
+          "name": "Diamond Pistols",
+          "url": "https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5"
         }
       ],
       "duration_ms": 220000,

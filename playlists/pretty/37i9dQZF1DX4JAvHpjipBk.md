@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Tems, JENNIE, Omar Apollo, Lil Yachty & J\. Cole and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,176,993 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,172,036 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,7 +96,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 86 | [Can't Take It Slow](https://open.spotify.com/track/2zHI95id5mtuLwlGNcThlA) | [Citizen](https://open.spotify.com/artist/0znuUIjvP0LXEslfaq0Nor) | [Can't Take It Slow](https://open.spotify.com/album/1n1xuIHW6AzaVr9FOnmCCZ) | 3:35 |
 | 87 | [East](https://open.spotify.com/track/7H9Pza55cWaHOgzw0UclXp) | [MOSSS](https://open.spotify.com/artist/5gRGeLfkGBsUOv9aJieEey) | [East](https://open.spotify.com/album/7ANkteUr95wzf2nEoxKkqf) | 4:09 |
 | 88 | [Jumoke](https://open.spotify.com/track/5L8dHIMUXtDD3j46d05TqA) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Jumoke](https://open.spotify.com/album/6WX4WjbumSDgllaiFTVCit) | 3:06 |
-| 89 | [Fight My Demons](https://open.spotify.com/track/6qmuDfuovbFjz6kMgiSokm) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [Groove Continental: Side B](https://open.spotify.com/album/6DJVP3L3EJcbOVYMHbAZyr) | 3:40 |
+| 89 | [Fight My Demons](https://open.spotify.com/track/6qmuDfuovbFjz6kMgiSokm) | [Yung Bae](https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX), [Barney Bones](https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Diamond Pistols](https://open.spotify.com/artist/1OzGBMZ8rp73R6DWx0IUr5) | [Groove Continental: Side B](https://open.spotify.com/album/6DJVP3L3EJcbOVYMHbAZyr) | 3:40 |
 | 90 | [1500 Shawty](https://open.spotify.com/track/6f13WB2izFqsFFIl5eMdIT) | [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [1500 Shawty](https://open.spotify.com/album/2l7bKq7tXeprSdqjnbGFUh) | 2:04 |
 | 91 | [deathrow bby](https://open.spotify.com/track/4HkHmWX6tSbyMIybuForxR) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Ambrosia](https://open.spotify.com/album/6RucaVwbVouUrU5uBAzFe8) | 2:15 |
 | 92 | [ring in ur ear](https://open.spotify.com/track/0pQudbYpkDgp5NvivZeTTy) | [HUNNY](https://open.spotify.com/artist/5rebfYbZVIhbRVcRKWVOAh), [Motion City Soundtrack](https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D) | [ring in ur ear](https://open.spotify.com/album/6FJfmpnSI7zEuAlWYRR0kT) | 3:18 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 99 | [a lesson in chemistry](https://open.spotify.com/track/4PoCaIK1ATTxQvqtTTXFzz) | [Anabel Englund](https://open.spotify.com/artist/3ky8xBRraNNzxzXEw6Ga0c) | [a lesson in chemistry](https://open.spotify.com/album/2slYBTkG0mGdQEmQVe6dD3) | 2:07 |
 | 100 | [Tethered](https://open.spotify.com/track/0ZRnv9lXrT1kthOFt0llwy) | [Deux Visages](https://open.spotify.com/artist/0aWanrbf83QSmIRYSYdNOR) | [Tethered](https://open.spotify.com/album/2MOOICbNuggNtJU2OZWaA4) | 3:48 |
 
-Snapshot ID: `MCw2ZjcwMDIzMGI1OGM5ZGRjMGJlMTI5ZTUxY2NjY2FhN2E0ZWJhZTNj`
+Snapshot ID: `MCxmMzhkMWZiYTNhN2FkYjk5MGEzYzg4ZGIzYzU5OTM1YTJjYmFmYjg2`

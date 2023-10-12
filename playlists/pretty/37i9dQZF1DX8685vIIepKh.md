@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 
 > La playlist survitaminée !
 
-[Spotify](https://open.spotify.com/user/spotify) - 692,581 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 692,447 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 7 | [Arranca \(feat\. Omega\)](https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Arranca \(feat\. Omega\)](https://open.spotify.com/album/3d0XlD9jrpNetVgDfsErG4) | 2:46 |
 | 8 | [Calabria 2008](https://open.spotify.com/track/5Y2pr8wjzjO2te4MnxTUa7) | [Enur](https://open.spotify.com/artist/1BQaZSq1KsLOZGzjG5QxRC), [Natasja](https://open.spotify.com/artist/73O5T44Ui5WqxtW6S5JENA) | [Raggatronic](https://open.spotify.com/album/71vYvO6c9Wzh06fZPHXj3z) | 3:50 |
 | 9 | [Gold](https://open.spotify.com/track/54eE5H6F1HhyM5L4fRLq8s) | [Loi](https://open.spotify.com/artist/574qIjE9UTvfSvtnIrdLaE) | [Gold](https://open.spotify.com/album/6n7xHs8VlA2i9gXFt4DGRC) | 2:50 |
-| 10 | [Jubel](https://open.spotify.com/track/5m6adNVeSWlJoP0c0smACx) | [Konina](https://open.spotify.com/artist/6KvaDqIuZn68YGfuSbdXBj), [Reaxys](https://open.spotify.com/artist/53cQlT5Jn4pGKkvVDgifkI), [Deluxe1337](https://open.spotify.com/artist/1h8UsH6AbwP6Bk8PE46coV) | [Jubel](https://open.spotify.com/album/0YmJBTpPvSVH3KouPoO8Wk) | 3:20 |
+| 10 | [Jubel \- Radio Edit](https://open.spotify.com/track/58VSx2Adlz83g6YVDdJ0zR) | [Klingande](https://open.spotify.com/artist/1L9i6qZYIGQedgM9QLSyzb) | [Jubel EP](https://open.spotify.com/album/29EeCNBZxGVdwHUAyos10R) | 3:18 |
 | 11 | [The Ballet Girl](https://open.spotify.com/track/6EMR2TqTujy6ZW00ag7saG) | [Aden Foyer](https://open.spotify.com/artist/54NKhABnyGAvbek0n63TAu) | [The Ballet Girl](https://open.spotify.com/album/26YF4ze9QFyuOWcTETDlX0) | 3:21 |
 | 12 | [Lose My Mind](https://open.spotify.com/track/62PUsRLMQjhyXqijBxSw5B) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [Lose My Mind](https://open.spotify.com/album/30scvKWaYn7ypfpJcn9iP4) | 2:26 |
 | 13 | [Save Your Tears \(with Ariana Grande\) \(Remix\)](https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Save Your Tears \(Remix\)](https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh) | 3:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8685vIIepKh.md) - [plain]
 | 49 | [Baby Don't Hurt Me](https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Baby Don't Hurt Me](https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy) | 2:20 |
 | 50 | [Dientes](https://open.spotify.com/track/4vAMy0dxoyoIHGuIgKqcwm) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [Dientes](https://open.spotify.com/album/6GkydlRWHz1bNVuVV9cD9O) | 2:46 |
 
-Snapshot ID: `MCw0MGFiZmNkZGY4ODEyMjU5MDljODlmZjc1MmZiYjNjMTIxMGMxYzQz`
+Snapshot ID: `MCxmZjUyYmM0YjA2NTE0NTRhMDVmNjVhYmM4MGViNTQ0ZTM0MTU3OGE4`

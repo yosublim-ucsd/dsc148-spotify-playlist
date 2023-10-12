@@ -1,12 +1,12 @@
 {
   "description": "Hottest indie sounds & the best new tracks from Asia. Cover:  Shye (Singapore)",
-  "num_followers": 80220,
+  "num_followers": 80255,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw5YzVjMzEzYjk5NTJiOTE3MzNkODExY2U1MmVkY2NmNjM3ZTliNTY3",
+  "snapshot_id": "MCxmOGI3OWI1ODdlODk0YTcxYWYyYTg3MTY2MWY4NTkyM2Q1ZWQwMDcw",
   "tracks": [
     {
       "added_at": "2023-10-05 19:18:09",
@@ -655,6 +655,22 @@
     {
       "added_at": "2023-10-05 19:18:09",
       "album": {
+        "name": "\u0e17\u0e49\u0e2d\u0e07\u0e1f\u0e49\u0e32\u0e08\u0e33\u0e25\u0e2d\u0e07",
+        "url": "https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr"
+      },
+      "artists": [
+        {
+          "name": "FREEHAND",
+          "url": "https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli"
+        }
+      ],
+      "duration_ms": 293784,
+      "name": "\u0e23\u0e2a\u0e2b\u0e27\u0e32\u0e19",
+      "url": "https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr"
+    },
+    {
+      "added_at": "2023-10-05 19:18:09",
+      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
-    },
-    {
-      "added_at": "2023-10-05 19:18:09",
-      "album": {
-        "name": "\u0e17\u0e49\u0e2d\u0e07\u0e1f\u0e49\u0e32\u0e08\u0e33\u0e25\u0e2d\u0e07",
-        "url": "https://open.spotify.com/album/5x8QUkAqNR1sV93J3XdVPr"
-      },
-      "artists": [
-        {
-          "name": "FREEHAND",
-          "url": "https://open.spotify.com/artist/5zBAiLz5CVwrgeA7UGQZli"
-        }
-      ],
-      "duration_ms": 293784,
-      "name": "\u0e23\u0e2a\u0e2b\u0e27\u0e32\u0e19",
-      "url": "https://open.spotify.com/track/2Ab1HQjbMcqHY3TkTycrYr"
     },
     {
       "added_at": "2023-10-05 19:18:09",
@@ -911,6 +911,22 @@
     {
       "added_at": "2023-10-05 19:18:09",
       "album": {
+        "name": "Making Steak",
+        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 198612,
+      "name": "Killer",
+      "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
+    },
+    {
+      "added_at": "2023-10-05 19:18:09",
+      "album": {
         "name": "sad girl",
         "url": "https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 148000,
       "name": "sad girl",
       "url": "https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM"
-    },
-    {
-      "added_at": "2023-10-05 19:18:09",
-      "album": {
-        "name": "Making Steak",
-        "url": "https://open.spotify.com/album/2KR8a0U0f286MuzLaEJhL6"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 198612,
-      "name": "Killer",
-      "url": "https://open.spotify.com/track/0H4oRjAoMl6EVhBZraB0fn"
     },
     {
       "added_at": "2023-10-05 19:18:09",
@@ -979,6 +979,22 @@
     {
       "added_at": "2023-10-05 19:18:09",
       "album": {
+        "name": "Masalah Masa Depan",
+        "url": "https://open.spotify.com/album/3BzdHMiZsvce5iM3y1lflJ"
+      },
+      "artists": [
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "duration_ms": 285852,
+      "name": "Masalah Masa Depan",
+      "url": "https://open.spotify.com/track/34dTSIA1q3JMg59gMwQeOb"
+    },
+    {
+      "added_at": "2023-10-05 19:18:09",
+      "album": {
         "name": "tired",
         "url": "https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 290909,
       "name": "\u0e16\u0e49\u0e32\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e08\u0e30\u0e2b\u0e32\u0e22\u0e44\u0e1b",
       "url": "https://open.spotify.com/track/1QdtmtakBfgvdXz1wEm2S9"
-    },
-    {
-      "added_at": "2023-10-05 19:18:09",
-      "album": {
-        "name": "Masalah Masa Depan",
-        "url": "https://open.spotify.com/album/3BzdHMiZsvce5iM3y1lflJ"
-      },
-      "artists": [
-        {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-        }
-      ],
-      "duration_ms": 285852,
-      "name": "Masalah Masa Depan",
-      "url": "https://open.spotify.com/track/34dTSIA1q3JMg59gMwQeOb"
     },
     {
       "added_at": "2023-10-05 19:18:09",
@@ -1131,18 +1131,38 @@
     {
       "added_at": "2023-10-05 19:18:09",
       "album": {
-        "name": "\u0e1f\u0e49\u0e32\u0e21\u0e37\u0e14\u0e17\u0e35\u0e44\u0e23",
-        "url": "https://open.spotify.com/album/4gCQHXHg56d7U5iP96rKss"
+        "name": "DREAM LIKE ME",
+        "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
+          "name": "Crowd Lu",
+          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
+        },
+        {
+          "name": "The Black Skirts",
+          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
         }
       ],
-      "duration_ms": 278750,
-      "name": "\u0e1f\u0e49\u0e32\u0e21\u0e37\u0e14\u0e17\u0e35\u0e44\u0e23",
-      "url": "https://open.spotify.com/track/6gAbZjrEKkngnPKVB3E1fy"
+      "duration_ms": 281658,
+      "name": "DREAM LIKE ME",
+      "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
+    },
+    {
+      "added_at": "2023-10-05 19:18:09",
+      "album": {
+        "name": "Kami Khawatir, Kawan",
+        "url": "https://open.spotify.com/album/02f1wRPbpqbqiaCKqAuW3P"
+      },
+      "artists": [
+        {
+          "name": "Hindia",
+          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+        }
+      ],
+      "duration_ms": 265316,
+      "name": "Kami Khawatir, Kawan",
+      "url": "https://open.spotify.com/track/51vmyk9tINi06NE5aVcLtN"
     },
     {
       "added_at": "2023-10-05 19:18:09",
@@ -1183,38 +1203,18 @@
     {
       "added_at": "2023-10-05 19:18:09",
       "album": {
-        "name": "Kami Khawatir, Kawan",
-        "url": "https://open.spotify.com/album/02f1wRPbpqbqiaCKqAuW3P"
+        "name": "\u0e1f\u0e49\u0e32\u0e21\u0e37\u0e14\u0e17\u0e35\u0e44\u0e23",
+        "url": "https://open.spotify.com/album/4gCQHXHg56d7U5iP96rKss"
       },
       "artists": [
         {
-          "name": "Hindia",
-          "url": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3"
         }
       ],
-      "duration_ms": 265316,
-      "name": "Kami Khawatir, Kawan",
-      "url": "https://open.spotify.com/track/51vmyk9tINi06NE5aVcLtN"
-    },
-    {
-      "added_at": "2023-10-05 19:18:09",
-      "album": {
-        "name": "DREAM LIKE ME",
-        "url": "https://open.spotify.com/album/2H6wEzaX0tu67DTAXjRDEo"
-      },
-      "artists": [
-        {
-          "name": "Crowd Lu",
-          "url": "https://open.spotify.com/artist/2JBUyLiFvpFPWdZGqIGYLD"
-        },
-        {
-          "name": "The Black Skirts",
-          "url": "https://open.spotify.com/artist/6WeDO4GynFmK4OxwkBzMW8"
-        }
-      ],
-      "duration_ms": 281658,
-      "name": "DREAM LIKE ME",
-      "url": "https://open.spotify.com/track/3PyWBHnx6G5uUpeSjbmp6m"
+      "duration_ms": 278750,
+      "name": "\u0e1f\u0e49\u0e32\u0e21\u0e37\u0e14\u0e17\u0e35\u0e44\u0e23",
+      "url": "https://open.spotify.com/track/6gAbZjrEKkngnPKVB3E1fy"
     },
     {
       "added_at": "2023-10-05 19:18:09",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-10-05 19:18:09",
       "album": {
-        "name": "GLOOMY BOOGIE Vol. 1",
-        "url": "https://open.spotify.com/album/0DimMjoOZ9Yu7xbvkE72x5"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Kheng",
-          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "Break From The Party",
-      "url": "https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9"
-    },
-    {
-      "added_at": "2023-10-05 19:18:09",
-      "album": {
         "name": "My Plan",
         "url": "https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 223350,
       "name": "My Plan",
       "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+    },
+    {
+      "added_at": "2023-10-05 19:18:09",
+      "album": {
+        "name": "GLOOMY BOOGIE Vol. 1",
+        "url": "https://open.spotify.com/album/0DimMjoOZ9Yu7xbvkE72x5"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Kheng",
+          "url": "https://open.spotify.com/artist/53GouHDfCfsBJIn1OjYmPO"
+        }
+      ],
+      "duration_ms": 139591,
+      "name": "Break From The Party",
+      "url": "https://open.spotify.com/track/3jal5ZE9vYqaa2q4QLKtq9"
     },
     {
       "added_at": "2023-10-05 19:18:09",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2023-10-05 19:18:09",
       "album": {
+        "name": "22 of Me",
+        "url": "https://open.spotify.com/album/1DdHN7p3iJJzz4mRiFANgU"
+      },
+      "artists": [
+        {
+          "name": "Mighfar Suganda",
+          "url": "https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG"
+        }
+      ],
+      "duration_ms": 210778,
+      "name": "22 of Me",
+      "url": "https://open.spotify.com/track/5UT5EWSLr9zAPLRBuVrbj3"
+    },
+    {
+      "added_at": "2023-10-05 19:18:09",
+      "album": {
         "name": "Someone New",
         "url": "https://open.spotify.com/album/1hOm07TU9l0hAuqvjKXvUt"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 255000,
       "name": "Someone New",
       "url": "https://open.spotify.com/track/3pLBPNR3ikdcDW5CP67gHY"
-    },
-    {
-      "added_at": "2023-10-05 19:18:09",
-      "album": {
-        "name": "22 of Me",
-        "url": "https://open.spotify.com/album/1DdHN7p3iJJzz4mRiFANgU"
-      },
-      "artists": [
-        {
-          "name": "Mighfar Suganda",
-          "url": "https://open.spotify.com/artist/6fnPHFhTbkcDHj9CjpGzlG"
-        }
-      ],
-      "duration_ms": 210778,
-      "name": "22 of Me",
-      "url": "https://open.spotify.com/track/5UT5EWSLr9zAPLRBuVrbj3"
     },
     {
       "added_at": "2023-10-05 19:18:09",
@@ -1559,6 +1559,30 @@
     {
       "added_at": "2023-10-05 19:18:09",
       "album": {
+        "name": "tell me, will we survive?",
+        "url": "https://open.spotify.com/album/70G0Vz66zfhGLqeKkQvMQk"
+      },
+      "artists": [
+        {
+          "name": "PRYVT",
+          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
+        },
+        {
+          "name": "hanuel",
+          "url": "https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk"
+        },
+        {
+          "name": "HNATA",
+          "url": "https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O"
+        }
+      ],
+      "duration_ms": 194142,
+      "name": "tell me, will we survive?",
+      "url": "https://open.spotify.com/track/2TksKegWgcUKDpiG5sTY44"
+    },
+    {
+      "added_at": "2023-10-05 19:18:09",
+      "album": {
         "name": "All My Friends Are Fallin' In Love",
         "url": "https://open.spotify.com/album/75G2tuAvS5Uugrb0TLNTT3"
       },
@@ -1639,30 +1663,6 @@
     {
       "added_at": "2023-10-05 19:18:09",
       "album": {
-        "name": "tell me, will we survive?",
-        "url": "https://open.spotify.com/album/70G0Vz66zfhGLqeKkQvMQk"
-      },
-      "artists": [
-        {
-          "name": "PRYVT",
-          "url": "https://open.spotify.com/artist/2EoyTW14yqnbqmk90NjbLT"
-        },
-        {
-          "name": "hanuel",
-          "url": "https://open.spotify.com/artist/5W87E8NmLc9OQwqwJlVVIk"
-        },
-        {
-          "name": "HNATA",
-          "url": "https://open.spotify.com/artist/2SeuwGHnHYfUmvUOMzc23O"
-        }
-      ],
-      "duration_ms": 194142,
-      "name": "tell me, will we survive?",
-      "url": "https://open.spotify.com/track/2TksKegWgcUKDpiG5sTY44"
-    },
-    {
-      "added_at": "2023-10-05 19:18:09",
-      "album": {
         "name": "Birdy",
         "url": "https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E"
       },
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2023-10-05 19:18:09",
       "album": {
-        "name": "us",
-        "url": "https://open.spotify.com/album/34e39kGupWKiEYz3ggV2aZ"
+        "name": "venus",
+        "url": "https://open.spotify.com/album/59LzAegBLWcHhm5kAAfaza"
       },
       "artists": [
         {
-          "name": "ADOY",
-          "url": "https://open.spotify.com/artist/64sY7LsUjNE3ifONkftTXC"
-        },
-        {
-          "name": "\u843d\u65e5\u98db\u8eca Sunset Rollercoaster",
-          "url": "https://open.spotify.com/artist/7BqRcZsHYYQeqMAOp7e532"
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
         }
       ],
-      "duration_ms": 222352,
-      "name": "Balloon - Sunset Rollercoaster Remake",
-      "url": "https://open.spotify.com/track/7bpmCG4sekwU57wUQeY83b"
+      "duration_ms": 250105,
+      "name": "venus",
+      "url": "https://open.spotify.com/track/1JpjEOAx8Kfce8574CRzZg"
     },
     {
       "added_at": "2023-10-05 19:18:09",
@@ -1715,18 +1711,18 @@
     {
       "added_at": "2023-10-05 19:18:09",
       "album": {
-        "name": "Highteen",
-        "url": "https://open.spotify.com/album/0KOiVCCpmrK72XwMIL4ieW"
+        "name": "Bloomingtale",
+        "url": "https://open.spotify.com/album/3DWiN5mfUN65FX3UJ4M4v3"
       },
       "artists": [
         {
-          "name": "Dvwn",
-          "url": "https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b"
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
         }
       ],
-      "duration_ms": 181000,
-      "name": "Highteen",
-      "url": "https://open.spotify.com/track/4HcnOrtYTFOLyZrfC7BQ9U"
+      "duration_ms": 208136,
+      "name": "More & More",
+      "url": "https://open.spotify.com/track/1s9ewA2LqYWnWK7B47qrkN"
     }
   ],
   "unique_name": ".ORG",

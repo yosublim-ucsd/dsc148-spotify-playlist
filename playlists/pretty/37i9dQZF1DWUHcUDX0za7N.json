@@ -1,12 +1,12 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover:<a href=\"https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy?si=TLX5ZGBwSIyxf6dogXOtyw\"> ODUMODUBLVCK </a> ",
-  "num_followers": 27556,
+  "num_followers": 27641,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw3YzUzMzNhNGJiODRkYTE0YWRhYWU1NDU5NTFiOGExMzA5YTc1ODU0",
+  "snapshot_id": "MCwxZjYyNjcwZTc0ODY4OWUwNzU0ZmM1MDhiODhiNDRlNzY5N2JiZGM2",
   "tracks": [
     {
       "added_at": "2023-10-06 09:05:50",
@@ -315,8 +315,8 @@
     {
       "added_at": "2023-10-06 09:05:50",
       "album": {
-        "name": "PICANTO",
-        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
+        "name": "EZIOKWU",
+        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
       },
       "artists": [
         {
@@ -324,17 +324,17 @@
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Bloody Civilian",
+          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
         },
         {
-          "name": "ECko Miles",
-          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
+          "name": "Wale",
+          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
         }
       ],
-      "duration_ms": 184077,
-      "name": "PICANTO",
-      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
+      "duration_ms": 233571,
+      "name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
+      "url": "https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m"
     },
     {
       "added_at": "2023-10-06 09:05:50",
@@ -503,8 +503,8 @@
     {
       "added_at": "2023-10-06 09:05:50",
       "album": {
-        "name": "EZIOKWU",
-        "url": "https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx"
+        "name": "PICANTO",
+        "url": "https://open.spotify.com/album/02rMmHXgJwTxkulqSrcgJc"
       },
       "artists": [
         {
@@ -512,33 +512,17 @@
           "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
         },
         {
-          "name": "Bloody Civilian",
-          "url": "https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         },
         {
-          "name": "Wale",
-          "url": "https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE"
+          "name": "ECko Miles",
+          "url": "https://open.spotify.com/artist/7F57A9yjaUOkPcsEjyv4MD"
         }
       ],
-      "duration_ms": 233571,
-      "name": "BLOOD ON THE DANCE FLOOR (feat. Bloody Civilian and Wale)",
-      "url": "https://open.spotify.com/track/35MU2MEhQMw0NhXZztAP9m"
-    },
-    {
-      "added_at": "2023-10-06 09:05:50",
-      "album": {
-        "name": "Earth Song",
-        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
-      },
-      "artists": [
-        {
-          "name": "Wizard Chan",
-          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
-        }
-      ],
-      "duration_ms": 183536,
-      "name": "Earth Song",
-      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
+      "duration_ms": 184077,
+      "name": "PICANTO",
+      "url": "https://open.spotify.com/track/32R7SBDSQmhDM4qUgzTc6z"
     },
     {
       "added_at": "2023-10-06 09:05:50",
@@ -559,6 +543,22 @@
       "duration_ms": 132173,
       "name": "PAPILO (Smadumodu)",
       "url": "https://open.spotify.com/track/2KVr1xCwXXLP5xdXSr0U54"
+    },
+    {
+      "added_at": "2023-10-06 09:05:50",
+      "album": {
+        "name": "Earth Song",
+        "url": "https://open.spotify.com/album/5a6ZjVaabN6JakII4rHBdo"
+      },
+      "artists": [
+        {
+          "name": "Wizard Chan",
+          "url": "https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4"
+        }
+      ],
+      "duration_ms": 183536,
+      "name": "Earth Song",
+      "url": "https://open.spotify.com/track/2kstLu8PSeQl2A5ks13fm0"
     },
     {
       "added_at": "2023-10-06 09:05:50",
@@ -923,26 +923,6 @@
     {
       "added_at": "2023-10-06 09:05:50",
       "album": {
-        "name": "High Tension 2.0",
-        "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
-      },
-      "artists": [
-        {
-          "name": "Dangbana Republik",
-          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 163813,
-      "name": "Out There",
-      "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
-    },
-    {
-      "added_at": "2023-10-06 09:05:50",
-      "album": {
         "name": "PARA",
         "url": "https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc"
       },
@@ -959,6 +939,26 @@
       "duration_ms": 178775,
       "name": "PARA",
       "url": "https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3"
+    },
+    {
+      "added_at": "2023-10-06 09:05:50",
+      "album": {
+        "name": "High Tension 2.0",
+        "url": "https://open.spotify.com/album/43564usP2MXDmGPsjPHL8q"
+      },
+      "artists": [
+        {
+          "name": "Dangbana Republik",
+          "url": "https://open.spotify.com/artist/5ezmlxcj3HQvg2XZamXlZK"
+        },
+        {
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
+        }
+      ],
+      "duration_ms": 163813,
+      "name": "Out There",
+      "url": "https://open.spotify.com/track/292BMcWitjojrgMxZ3Zaj8"
     },
     {
       "added_at": "2023-10-06 09:05:50",

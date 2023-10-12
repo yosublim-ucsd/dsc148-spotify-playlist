@@ -1634,7 +1634,7 @@
     {
       "album": {
         "name": "Chair",
-        "url": "https://open.spotify.com/album/51iWdU2UJRltUGX2Js76C4"
+        "url": "https://open.spotify.com/album/6QEPQxAtRodkKAcakSJeRs"
       },
       "artists": [
         {
@@ -1645,6 +1645,24 @@
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 143780,
+      "name": "Chair",
+      "url": "https://open.spotify.com/track/6ErnKii0YNkOZODh3XrVZu"
+    },
+    {
+      "album": {
+        "name": "Chair",
+        "url": "https://open.spotify.com/album/51iWdU2UJRltUGX2Js76C4"
+      },
+      "artists": [
+        {
+          "name": "CHAMELEON LIME WHOOPIEPIE",
+          "url": "https://open.spotify.com/artist/1uP5mPkWII7Tcxp7xtqPmj"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
       "duration_ms": 143780,
       "name": "Chair",
       "url": "https://open.spotify.com/track/6KPJhtv79rag27IFVlFDug"
@@ -5931,6 +5949,24 @@
     },
     {
       "album": {
+        "name": "Max Princess II",
+        "url": "https://open.spotify.com/album/52myC8kbt7Y6emjUWck7NS"
+      },
+      "artists": [
+        {
+          "name": "Haruko Tajima",
+          "url": "https://open.spotify.com/artist/2wKUmawKpq9H4jhcnugog2"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Max Princess II",
+      "url": "https://open.spotify.com/track/0d767dWHBLKCgN6LTs8Hia"
+    },
+    {
+      "album": {
         "name": "Mayday",
         "url": "https://open.spotify.com/album/3im9jAWdZX5ft7rai7tKHo"
       },
@@ -6621,6 +6657,24 @@
     },
     {
       "album": {
+        "name": "Neko ga Kaitai",
+        "url": "https://open.spotify.com/album/3nEzXeS2HnzKWzN9tMzFXM"
+      },
+      "artists": [
+        {
+          "name": "Mom",
+          "url": "https://open.spotify.com/artist/7LuHX3X7qR5K8ft7ilZKUj"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164546,
+      "name": "Neko ga Kaitai",
+      "url": "https://open.spotify.com/track/2Iq7EVxxSTGQIWbrbOPRG9"
+    },
+    {
+      "album": {
         "name": "Nemuranaideyo feat. Ikuko Harada",
         "url": "https://open.spotify.com/album/21wUhU2axAMTJWEaREHo1g"
       },
@@ -6816,7 +6870,7 @@
       ],
       "date_added": "2023-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-22",
+      "date_removed": null,
       "duration_ms": 208099,
       "name": "non zero sum game",
       "url": "https://open.spotify.com/track/2nzTMqhvjVKJQxEd5Y4Ly9"
@@ -6841,6 +6895,28 @@
     },
     {
       "album": {
+        "name": "O.M.M (feat. Kenya Fujita)",
+        "url": "https://open.spotify.com/album/5jhY5eCkAE6FfOl2wPHw0P"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        },
+        {
+          "name": "\u85e4\u7530\u7e54\u4e5f",
+          "url": "https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "O.M.M (feat. Kenya Fujita)",
+      "url": "https://open.spotify.com/track/5xuNygFHKubkXvqRMeNB8u"
+    },
+    {
+      "album": {
         "name": "O.M.M (feat. \u85e4\u7530\u7e54\u4e5f)",
         "url": "https://open.spotify.com/album/1q8b5fH5kvHVhaQwhsEXEF"
       },
@@ -6856,7 +6932,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 147428,
       "name": "O.M.M - feat. \u85e4\u7530\u7e54\u4e5f",
       "url": "https://open.spotify.com/track/2ctOBBuKRVEbK0BsShiaJq"
@@ -9970,7 +10046,7 @@
     {
       "album": {
         "name": "THINK OF SUMMER",
-        "url": "https://open.spotify.com/album/6j854MxXOXhZ8WiNdhOi9a"
+        "url": "https://open.spotify.com/album/1fqeQV1L97fvOPDW09kSpC"
       },
       "artists": [
         {
@@ -9981,6 +10057,24 @@
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 278571,
+      "name": "THINK OF SUMMER",
+      "url": "https://open.spotify.com/track/25Nom4nb1pULKwa4nQBPgq"
+    },
+    {
+      "album": {
+        "name": "THINK OF SUMMER",
+        "url": "https://open.spotify.com/album/6j854MxXOXhZ8WiNdhOi9a"
+      },
+      "artists": [
+        {
+          "name": "Natsu Summer",
+          "url": "https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": "2023-10-12",
       "duration_ms": 278571,
       "name": "THINK OF SUMMER",
       "url": "https://open.spotify.com/track/5uLq64klXKRMcdX6GIKfEO"
@@ -11704,7 +11798,7 @@
       ],
       "date_added": "2023-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 178773,
       "name": "\u304d\u304b\u3044\u306b\u304a\u307e\u304b\u305b",
       "url": "https://open.spotify.com/track/60nxFrHUdwZQNOKG4CbiyG"
@@ -15094,7 +15188,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 192000,
       "name": "\u65b0\u7d04\u30fb\u4eba\u6a29MaxPrincess",
       "url": "https://open.spotify.com/track/0AQNJ1R8qB3sSdMpTSutqL"
@@ -15956,7 +16050,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 164546,
       "name": "\u732b\u304c\u98fc\u3044\u305f\u3044",
       "url": "https://open.spotify.com/track/1coqL2BEAhoX3HY4bPX4zj"

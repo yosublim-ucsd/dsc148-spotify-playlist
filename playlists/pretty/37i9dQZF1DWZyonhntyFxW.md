@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 
 > <a href="https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR?si=NCDLeoLkTPiSgYtBdEOq\-Q"> Afroto </a> : عشان تثبتلي انك ليبرو تيجي تسمع ملوك السين\. غلاف
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,745 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,957 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,15 +16,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 6 | [1](https://open.spotify.com/track/27cKUc5nNI6uI5dpGlB1UF) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [1](https://open.spotify.com/album/6ybWRd5mQpRno5JtrxMkcZ) | 2:13 |
 | 7 | [Salt El Zein \- صلاة الزين](https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5) | [Double Zuksh](https://open.spotify.com/artist/02T4vKIGje48LHpXmJoEwo) | [Salt El Zein \- صلاة الزين](https://open.spotify.com/album/2FLoi19Rf5ejnlHfPYF4zp) | 2:36 |
 | 8 | [Haaland](https://open.spotify.com/track/2ZP3tRbY6NrdVlTiaEgX8L) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK) | [Haaland](https://open.spotify.com/album/7FymPbSAQXe9Pd4aumoHzy) | 3:51 |
-| 9 | [Algham](https://open.spotify.com/track/2omOoA2OZT6WknldqlJIJj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Algham](https://open.spotify.com/album/4Rt5knrXLMrv82PkbRawDb) | 2:47 |
-| 10 | [Nazlet Seman](https://open.spotify.com/track/3kvFynFheCVVecaJLKketl) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Awdet El Ebn El Dal](https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb) | 2:48 |
-| 11 | [Ta2reban](https://open.spotify.com/track/7lkjvLhf2PH1fa5cv54tJR) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Ta2reban](https://open.spotify.com/album/2ktW3wBPnU7MVrs305ULyV) | 3:29 |
-| 12 | [KAMASHA \- كماشه \(feat\. Wezza Montaser\)](https://open.spotify.com/track/0TRvIDRqRemga0vsrSaiwf) | [Mahdy Madness](https://open.spotify.com/artist/36szCFNfwtBlzqucTGjkaA), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [METHANOL 62](https://open.spotify.com/album/7fGb0W5kyonlNbdoI1aAfU) | 3:21 |
-| 13 | [LELLY YAH](https://open.spotify.com/track/1SSymcmcSI1oYQtwOA8mOJ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [LELLY YAH](https://open.spotify.com/album/3zxpokbqTOtT3pry7cNhSK) | 3:09 |
-| 14 | [Mexicano Bro](https://open.spotify.com/track/7JCZsaFXM2sXmUIEOGbaji) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Desso](https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp) | [Mexicano Bro](https://open.spotify.com/album/2fnBQ0t795zHnHFLxHCnju) | 3:58 |
-| 15 | [100 WAHDA](https://open.spotify.com/track/4gSDKnZbzQsvgYMW48Gljy) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [2000 W KAM](https://open.spotify.com/album/6X0Cl2dlufuA4ZUwvZjhYL) | 3:00 |
-| 16 | [RO7 3ALATOL](https://open.spotify.com/track/7t2VGVXc2VxGB062e36uQy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:37 |
-| 17 | [BAHZ](https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [BAHZ](https://open.spotify.com/album/3BMutq6UCajylSgdwyF2CQ) | 2:59 |
+| 9 | [Nazlet Seman](https://open.spotify.com/track/3kvFynFheCVVecaJLKketl) | [Karim Osama](https://open.spotify.com/artist/4bQtsYtDirwKccFyRXzwUW), [El Waili](https://open.spotify.com/artist/0OUma98suuyyJqFHtjX5oU) | [Awdet El Ebn El Dal](https://open.spotify.com/album/6LF5pyZ6adBuv0jdmgtBwb) | 2:48 |
+| 10 | [Ta2reban](https://open.spotify.com/track/7lkjvLhf2PH1fa5cv54tJR) | [Lege\-Cy](https://open.spotify.com/artist/6FJeuwLBCX8VSTf6hp1Vc9) | [Ta2reban](https://open.spotify.com/album/2ktW3wBPnU7MVrs305ULyV) | 3:29 |
+| 11 | [KAMASHA \- كماشه \(feat\. Wezza Montaser\)](https://open.spotify.com/track/0TRvIDRqRemga0vsrSaiwf) | [Mahdy Madness](https://open.spotify.com/artist/36szCFNfwtBlzqucTGjkaA), [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj) | [METHANOL 62](https://open.spotify.com/album/7fGb0W5kyonlNbdoI1aAfU) | 3:21 |
+| 12 | [LELLY YAH](https://open.spotify.com/track/1SSymcmcSI1oYQtwOA8mOJ) | [Marwan Pablo](https://open.spotify.com/artist/56chSp36PsMhpQvUn1kdR3) | [LELLY YAH](https://open.spotify.com/album/3zxpokbqTOtT3pry7cNhSK) | 3:09 |
+| 13 | [Mexicano Bro](https://open.spotify.com/track/7JCZsaFXM2sXmUIEOGbaji) | [Ahmed Santa](https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj), [Abo El Anwar](https://open.spotify.com/artist/2H6XYL9D5Z3ErkxCD0gmD6), [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Lil Baba](https://open.spotify.com/artist/4TBJ8JSsEBYMJnxrtRheLc), [Desso](https://open.spotify.com/artist/28O73xyNVl2RaEQb2IfbJp) | [Mexicano Bro](https://open.spotify.com/album/2fnBQ0t795zHnHFLxHCnju) | 3:58 |
+| 14 | [100 WAHDA](https://open.spotify.com/track/4gSDKnZbzQsvgYMW48Gljy) | [Yonyo](https://open.spotify.com/artist/5EGFmTVcpHl9uKZqXBKrH5) | [2000 W KAM](https://open.spotify.com/album/6X0Cl2dlufuA4ZUwvZjhYL) | 3:00 |
+| 15 | [RO7 3ALATOL](https://open.spotify.com/track/7t2VGVXc2VxGB062e36uQy) | [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [IMPORT//EXPORT](https://open.spotify.com/album/2MUyfrxcVoLhkPDI7hVDp9) | 3:37 |
+| 16 | [BAHZ](https://open.spotify.com/track/4eEqANCoWtjcegFNqnV3nq) | [Afroto](https://open.spotify.com/artist/7yBuSjd5Z3w7acodk51evR) | [BAHZ](https://open.spotify.com/album/3BMutq6UCajylSgdwyF2CQ) | 2:59 |
+| 17 | [Algham](https://open.spotify.com/track/2omOoA2OZT6WknldqlJIJj) | [Abyusif](https://open.spotify.com/artist/4o6vIkdmHiEXZOesrJj3KO), [Dr\. Mo3geza](https://open.spotify.com/artist/2uqzfYOC6xMRyqLeIw0gDl) | [Algham](https://open.spotify.com/album/4Rt5knrXLMrv82PkbRawDb) | 2:47 |
 | 18 | [Serag Mohema](https://open.spotify.com/track/50KBo4IWpjTkFqT24SAGNN) | [Batistuta](https://open.spotify.com/artist/5YqgTnXXqASob6AejLOCVo) | [Serag Mohema](https://open.spotify.com/album/0331FU8uJjsUGhgMfFyK0g) | 2:44 |
 | 19 | [YAZMEELY](https://open.spotify.com/track/3WOiSsqfXPZAtGTr2PFj6S) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Ya Kahera](https://open.spotify.com/album/3dUTTXt9860nBInTMPkFDm) | 3:16 |
 | 20 | [De Bruyne](https://open.spotify.com/track/3wiwZ6TDdSVVg5p19bdrZL) | [Dzel Uzi](https://open.spotify.com/artist/0LhJ7fTx1mMtE5qh5OSbFK), [Arsenik](https://open.spotify.com/artist/2temuX6O0rZk6lw9anAYoM) | [De Bruyne](https://open.spotify.com/album/38JMcDUUN2H2oo2eeiOvIT) | 2:29 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZyonhntyFxW.md) - [plain]
 | 39 | [Gezira](https://open.spotify.com/track/2ieg6nYrdrI4Em8nDV3Ddh) | [Muhab](https://open.spotify.com/artist/3mUUUQDWnVlttF1yERxmPQ) | [Gezira](https://open.spotify.com/album/7mt8YfjiZViWN7hSqAOEMk) | 3:13 |
 | 40 | [STR3](https://open.spotify.com/track/7HUzfXz80MNyHvSs3JcJOP) | [DizzyTooSkinny](https://open.spotify.com/artist/0QDlkRZ349RXtT5XcwcLRP), [Intomymind](https://open.spotify.com/artist/7zWFKl03Xg50gKryaEH0gu) | [STR3](https://open.spotify.com/album/6LSlkHgM2GkAtNNHJo16kx) | 3:28 |
 
-Snapshot ID: `MCwwYjM4MzU3NTVkMTA2NWU4MzJmY2M2ZmE2NjViZWRmNzRhMjFkMmU3`
+Snapshot ID: `MCxhZGFkYWRlMTUzNjhmZWU4OTgyOTZhZmFlNjExOThkZjMwM2Y3ZTI4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 
 > Le meilleur de la scène alternative québécoise actuelle\. Photo: Population II
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,007 likes - 75 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,011 likes - 75 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 18 | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy) | [Elisapie](https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3) | [Isumagijunnaitaungituq \(The Unforgiven\)](https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD) | 4:33 |
 | 19 | [J'espère encore que quelque part l'attente s'arrête](https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 1:48 |
 | 20 | [Peupliers](https://open.spotify.com/track/1CvXAfQiVuP7wdDK7O3xX1) | [Totalement Sublime](https://open.spotify.com/artist/1aeePX7Ou6mrvZYVUpk4OY) | [Peupliers](https://open.spotify.com/album/6Q4lWPh4rtQ4guPGOAFfpd) | 4:55 |
-| 21 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 |
-| 22 | [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 |
+| 21 | [Elle vit dans les bois](https://open.spotify.com/track/3Z4t5ksVMY1jpQ0NFGaskn) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [Elle vit dans les bois](https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I) | 3:29 |
+| 22 | [Une autre vie](https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M) | [Evelyne Brochu](https://open.spotify.com/artist/2xYer1rBUB1ci3oLZUqNcC) | [Une autre vie](https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z) | 3:25 |
 | 23 | [Barracuda](https://open.spotify.com/track/5E5lbNZgB2HAIEuitVJSGw) | [Miels](https://open.spotify.com/artist/1T7DAgRWmzieWxeyEhBD8g) | [Barracuda](https://open.spotify.com/album/0QFxXWyypV88bXEaJnyEF0) | 2:12 |
 | 24 | [N'importe Où Sauf Ici](https://open.spotify.com/track/4A1qgXWGeirwpwD7rppwje) | [Robert Robert](https://open.spotify.com/artist/2IzC3vT8yHOZ3Ne5HYQfM3) | [L'air d'aller \(Musique de la série télévisée\)](https://open.spotify.com/album/1QOmJrabv7hVYpM5VeS0vO) | 2:26 |
 | 25 | [America](https://open.spotify.com/track/33rT04o70vs8yAv2OBvchQ) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 2:29 |
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 31 | [Comfort, Edge](https://open.spotify.com/track/1oJI54bl1BT3fyVxcezET1) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Someone New](https://open.spotify.com/album/6gwAAOZeKLYDAPzSSP4SCa) | 3:43 |
 | 32 | [Entre mes jambes](https://open.spotify.com/track/2jnzN5bQk8zM6lWm0lKu4n) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 2:29 |
 | 33 | [The Jungle](https://open.spotify.com/track/5jRINA3CI1TofMwkAvbi8r) | [Plants and Animals](https://open.spotify.com/artist/1pzNRIDRT064HEdW1nG59c) | [The Jungle](https://open.spotify.com/album/2vX1d0U8BRkxtssdhyy3Lx) | 5:43 |
-| 34 | [La photo](https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Quand la nuit tombe](https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo) | 4:39 |
+| 34 | [‎cherry ‎stems](https://open.spotify.com/track/091S1Iw6vvNagu2QnQSsSG) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎cherry ‎stems](https://open.spotify.com/album/59X6b30MP14N4rAgN2wtWB) | 2:22 |
 | 35 | [La vie attend pas](https://open.spotify.com/track/4hjTnV4AAiOMTD085WbXNB) | [Valence](https://open.spotify.com/artist/64SLcw5gWgSlsdXNQfEs44) | [Pêle\-mêle](https://open.spotify.com/album/0HtBYMZecK4pakcqckp4Qw) | 4:13 |
-| 36 | [‎cherry ‎stems](https://open.spotify.com/track/091S1Iw6vvNagu2QnQSsSG) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎cherry ‎stems](https://open.spotify.com/album/59X6b30MP14N4rAgN2wtWB) | 2:22 |
+| 36 | [La photo](https://open.spotify.com/track/273OWOLKdLhhDTYrGzcngp) | [Louis\-Jean Cormier](https://open.spotify.com/artist/6ZsvBr9pLJY16NqVRKO88G) | [Quand la nuit tombe](https://open.spotify.com/album/3TxGclPeiNgoHdw5jIUXuo) | 4:39 |
 | 37 | [The Rabbit Song](https://open.spotify.com/track/4omfnYnDdeJrgSq5TaX10D) | [The Blaze Velluto Collection](https://open.spotify.com/artist/1mULn3KCTsGLL3CvZyvn8x) | [We Are Sunshine](https://open.spotify.com/album/3dRRmPHIu6cFhnBX2MjcPV) | 3:15 |
 | 38 | [Parfaite à l'écran](https://open.spotify.com/track/7mITLNL1Dg0SZXL4PHG4Y5) | [Karkwa](https://open.spotify.com/artist/6l8KabfQ4VAdFHzm3ZOOYZ) | [Parfaite à l'écran](https://open.spotify.com/album/1JY36zZ5pcZurWXM7wo6fP) | 2:48 |
 | 39 | [Chalet](https://open.spotify.com/track/4jhAuG9rGfvl3cKX5WBFdE) | [comment debord](https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ) | [Comment Debord](https://open.spotify.com/album/39hoDVmcDU4cOpdlUykmXK) | 3:42 |
@@ -68,13 +68,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 58 | [OK](https://open.spotify.com/track/7iE0J8k2Hqt1opubRHco0g) | [Vulgaires Machins](https://open.spotify.com/artist/7ys7ta4FOM1pKxJwpqvazG) | [Disruption](https://open.spotify.com/album/4LizSEpXM9elUheVmOzRg8) | 3:13 |
 | 59 | [Petit canari](https://open.spotify.com/track/300OkUCUMwKO8tNjoWORP0) | [Radiant Baby](https://open.spotify.com/artist/70NNRWCobCZaQUHWEsQtaM) | [Petit canari](https://open.spotify.com/album/1QiOn6KM23NyBfu4voBV1s) | 2:44 |
 | 60 | [C'est ma lady](https://open.spotify.com/track/7wTkIF9aVnj7c1Q1RWQ3fN) | [Marilyne Léonard](https://open.spotify.com/artist/00WvHy3wvdUV4WSvvc0N5p) | [C'est ma lady](https://open.spotify.com/album/1DApIRmNfHbmnte59SMKo9) | 2:36 |
-| 61 | [Ah ouin](https://open.spotify.com/track/1W6VCZ9DPxgpgIGRgYmjL8) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Rencontrer looloo](https://open.spotify.com/album/5p5o5lAkjxOMk6wPHgtfrP) | 2:30 |
-| 62 | [Philédouche](https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Philédouche](https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH) | 4:40 |
+| 61 | [Philédouche](https://open.spotify.com/track/0CKC1pIz3wLRcVkZAy0eJI) | [Philémon Cimon](https://open.spotify.com/artist/7g1WpSVdiG70dbp3nuGU4h) | [Philédouche](https://open.spotify.com/album/2Dpv6xDtk2IpPk4OvcZtzH) | 4:40 |
+| 62 | [Ah ouin](https://open.spotify.com/track/1W6VCZ9DPxgpgIGRgYmjL8) | [Chocolat](https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57) | [Rencontrer looloo](https://open.spotify.com/album/5p5o5lAkjxOMk6wPHgtfrP) | 2:30 |
 | 63 | [La hiérarchill](https://open.spotify.com/track/15ve7pAu3GiP8x9yoWNaUw) | [Jérôme 50](https://open.spotify.com/artist/1afINkCcmeRcLKsjGof7F6) | [La hiérarchill](https://open.spotify.com/album/4fK0td94I2nsMsykLcquaO) | 4:46 |
-| 64 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 |
-| 65 | [whatwasthatwine](https://open.spotify.com/track/7L9jN9F0tAueWTIksHQqEY) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [whatwasthatwine](https://open.spotify.com/album/2gggdOGcGb8orDwBnoZOUQ) | 4:01 |
+| 64 | [Coin coin](https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Tempête](https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT) | 3:29 |
+| 65 | [Shine](https://open.spotify.com/track/4aUE56uaJa8ww8eayKVrEq) | [ALIAS](https://open.spotify.com/artist/4gBaXmek9rvLOAn6WcOH9w) | [Shine](https://open.spotify.com/album/60d9xaZb3SgFRoJR9Lcdra) | 2:11 |
 | 66 | [Femme\-Lady](https://open.spotify.com/track/1cYR2Ax5skQtU6RJngbfkH) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Le soleil et la mer](https://open.spotify.com/album/3U3IAHJIG9ofaeg6ZOud0s) | 3:33 |
-| 67 | [Coin coin](https://open.spotify.com/track/0wPhoMR46QzfzHeQP94v1E) | [Malaimé Soleil](https://open.spotify.com/artist/3IaS2LcrG0OEg4r1LFhTm9) | [Tempête](https://open.spotify.com/album/0dWJ4hnsaf6gbsfgCz6KpT) | 3:29 |
+| 67 | [whatwasthatwine](https://open.spotify.com/track/7L9jN9F0tAueWTIksHQqEY) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [whatwasthatwine](https://open.spotify.com/album/2gggdOGcGb8orDwBnoZOUQ) | 4:01 |
 | 68 | [Piscine hors terre](https://open.spotify.com/track/7jMNSZ1jHeEEwCZizCZxMu) | [Les Trois Accords](https://open.spotify.com/artist/2Xoi1HPP0Wa6nyNSYyHxgI) | [Piscine hors terre](https://open.spotify.com/album/2ltrFO1XpkT9hvQ486AQ9d) | 3:31 |
 | 69 | [40h semaine](https://open.spotify.com/track/45CNy4u2YDVrIAssuOHowr) | [Matiu](https://open.spotify.com/artist/7JVJdPJ0ScYb84upENbZCE) | [Tipatshimushtunan](https://open.spotify.com/album/2s2VMACiBYgAJGC5DGEvTy) | 4:05 |
 | 70 | [Maïa](https://open.spotify.com/track/74VUaKDV1hUSpEpMxe2Ct4) | [Lydia Képinski](https://open.spotify.com/artist/6lqpzCZWhymonpvpAVKx0C) | [Premier juin](https://open.spotify.com/album/4lOsb9ZHpbTcom0mZ7Qz86) | 4:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03FBMYrWi0n.md) - [plain]
 | 74 | [Viendras\-tu pleurer?](https://open.spotify.com/track/6lBb5vtkIdpJ2LxQX9NisN) | [Rosier](https://open.spotify.com/artist/2mIqD0kh2TtNDYpB4weMe1) | [Viendras\-tu pleurer?](https://open.spotify.com/album/0vi46z2QfWE6AvGApoT6tm) | 3:27 |
 | 75 | [Sur la pointe des pieds](https://open.spotify.com/track/5kOivCUmRhPe9aSQCN7zy7) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Allô Fantôme](https://open.spotify.com/album/4EAVVokg9wiZN1vineldV8) | 6:36 |
 
-Snapshot ID: `MCwxNmFmMjY0NzI5OTU0OGY3NzhiZTY0MGNmOWJlM2IwMzgyOGU2MDVh`
+Snapshot ID: `MCxjZDdmOTlmYjU5MTYwMDRlYWQyMzJlNGNlMzc4NmZiMDBkYWQ0MTVi`

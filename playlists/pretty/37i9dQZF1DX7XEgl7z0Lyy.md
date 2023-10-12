@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 
 > music from the underworld
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,981 likes - 64 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,878 likes - 64 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,13 +25,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 15 | [party addict](https://open.spotify.com/track/1fp1tsLHqwy1Aj40GVyqVX) | [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [Nosgov](https://open.spotify.com/artist/6FK0azeTwe5RwhUAkpkhnh), [kojo](https://open.spotify.com/artist/18AWDR2N9U6HkTZ6wgmbRV) | [party addict](https://open.spotify.com/album/0asjbwtUwjHskzsK3nQf6A) | 2:05 |
 | 16 | [U](https://open.spotify.com/track/2ipus3rmwO1i0VBPT7vQvr) | [axxturel](https://open.spotify.com/artist/5I7ErPVeubiYhds5DFcbfM) | [U](https://open.spotify.com/album/7MtII3Ot1Mc1eJulm4t5Qm) | 2:02 |
 | 17 | [Won't Last Long](https://open.spotify.com/track/5yeNAyTWcAXGlRUinVjmjQ) | [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN), [Pröz](https://open.spotify.com/artist/2Iu7bGRaGHmvTuVWp8wMzX) | [Myspace Addiction](https://open.spotify.com/album/2Q2ZtKYsGAtTdnqSPWaA1S) | 2:35 |
-| 18 | [2BIPOLAR](https://open.spotify.com/track/0LKrP0sD4PK0Y46kKWOTk6) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [2BIPOLAR](https://open.spotify.com/album/65jfpqh8Nf8qeHT77KXLIe) | 1:47 |
+| 18 | [2BIPOLAR](https://open.spotify.com/track/0LKrP0sD4PK0Y46kKWOTk6) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [cW](https://open.spotify.com/artist/2RWEvEloRDEO2tiOL6JEjh) | [2BIPOLAR](https://open.spotify.com/album/65jfpqh8Nf8qeHT77KXLIe) | 1:47 |
 | 19 | [KNOW WHAT YOU WANT](https://open.spotify.com/track/6fSaAUqapniPZmOBiFPCaG) | [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF), [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [KNOW WHAT YOU WANT](https://open.spotify.com/album/6opVAqg6oX15LDGKoa4Yh4) | 2:22 |
 | 20 | [rock that body shawty](https://open.spotify.com/track/4jJRFxeC9ubCvs9F3phcJL) | [d3r](https://open.spotify.com/artist/41PE0deubI6MpwYruSEWHG), [kets4eki](https://open.spotify.com/artist/4waORdvuFnffJPrj784KeG), [blood pup](https://open.spotify.com/artist/6vcxEEdH5HuxnMMksl6EMR) | [rock that body shawty](https://open.spotify.com/album/376Gm1ANMn5oFVF6ZYs5Nz) | 1:54 |
 | 21 | [NALGOTICA!](https://open.spotify.com/track/3mMRpyE2N7oHvypU3RPntr) | [Lumi Athena](https://open.spotify.com/artist/1TTHC3GlNDaE5eVoC3BVxm) | [NALGOTICA!](https://open.spotify.com/album/0l4MkKrEbUpxpKUbSd5oCc) | 1:54 |
 | 22 | [SHAKE THAT SHIT!](https://open.spotify.com/track/0zPlzJewGJ8iIxia2bEWDN) | [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh), [cade clair](https://open.spotify.com/artist/0647ep4AirMtU3Iq9YcBXm), [ProdByAbnormal](https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe) | [SHAKE THAT SHIT!](https://open.spotify.com/album/1Cw0Mri4i2zYXtQEd7qqOs) | 2:35 |
 | 23 | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/track/34lGv6KdMFWZtsvvVcnp8S) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [BABY I'M HOME \(w/ Kanii & 9lives\)](https://open.spotify.com/album/4O7irFDDsdS9tYUaiVnO2H) | 3:28 |
-| 24 | [melancholy](https://open.spotify.com/track/5R1z3ZGM6BfmluzrunjmHW) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [melancholy](https://open.spotify.com/album/2FYWDx4Wtm1depG5MYz1ra) | 2:02 |
+| 24 | [melancholy](https://open.spotify.com/track/4J7ctWPhgFErjdeWyKLkiA) | [Eternal Raijin](https://open.spotify.com/artist/2GuyBEQIm7jzDzdSNTjPQe), [Fidi](https://open.spotify.com/artist/7E0x5KaMlXKgcCUU4v5jgL) | [melancholy](https://open.spotify.com/album/57BCZOUocCzqyBStq7kAb3) | 2:02 |
 | 25 | [sharp fangs](https://open.spotify.com/track/5FvE6L92NLw7qQcmtl6dPB) | [whatsaheart](https://open.spotify.com/artist/1Ry6DudE0QFcXoUdXsCQfV), [removeface](https://open.spotify.com/artist/4V83nubSLv0NZBo69fz8PF) | [sharp fangs](https://open.spotify.com/album/2LHH01c9fE0F4ZdJxlY1qa) | 2:15 |
 | 26 | [PARTY!](https://open.spotify.com/track/4pUWZda85cdZYJ8hznSMft) | [LyteSpeed](https://open.spotify.com/artist/4XIl1fxI6tJQzbSMb2fNAr), [removeface](https://open.spotify.com/artist/6kdU7vLLarZWY5c5HNpEjM) | [PARTY!](https://open.spotify.com/album/4yBtw3pWdZWHurpAtWLyHD) | 1:18 |
 | 27 | [Bag \(azurreh mix\) <3](https://open.spotify.com/track/0dUY7LFK25EqLLeSwDtAB9) | [azurreh](https://open.spotify.com/artist/1nWQz0dYYJRbyym28yHcw4), [mai](https://open.spotify.com/artist/77lNm684zLFkTVZyWtyhca) | [Bag \(azurreh mix\) <3](https://open.spotify.com/album/6uCUWx86biFtjsCvh0qbpj) | 1:46 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XEgl7z0Lyy.md) - [plain]
 | 63 | [INVINCIBLE](https://open.spotify.com/track/4Uz07xPAEDFQcjY9vXZmXn) | [Marluxiam](https://open.spotify.com/artist/5QmW7zYwGfW9YZWBVKeqBU), [kyszenn](https://open.spotify.com/artist/15OPFLuXXC5OKEavps9ukY) | [INVINCIBLE](https://open.spotify.com/album/3pKMJN25tbBk9YV76EHnMj) | 2:10 |
 | 64 | [Dead n Gone](https://open.spotify.com/track/2vyAxGW8KhJV1C4rGRCwco) | [Luci4](https://open.spotify.com/artist/1CbA4z6JauNQnHzOErDQL6) | [Dead n Gone](https://open.spotify.com/album/7wfrRI6BAK3b973nWm8mza) | 1:06 |
 
-Snapshot ID: `MCwyZDU5NjQ4ZjFiMTM4MWU0MWY0OTEyMzUzYTMzNzAzMzBmNjU1OTg4`
+Snapshot ID: `MCwxOTRhMmJhZjYxYjgxNjgyNmUzODYzZWExMmExMGVmM2FhNzc2ZTI3`

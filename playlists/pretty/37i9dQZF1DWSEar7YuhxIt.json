@@ -1,12 +1,12 @@
 {
   "description": "Horns up for this metal soundtrack for headbangers of all ages!",
-  "num_followers": 83514,
+  "num_followers": 83653,
   "original_name": "Raised on Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyY2VkNGY3YTYxNmMwMTM2NzNmMjVhODk2MTE1NGQ4ZDZlNTkyNGIw",
+  "snapshot_id": "MCxlMmMyYzI4ZjZlNTg1OTViZDczOTBhZGYzZGQ3YzA1Y2NjZTU3MzIw",
   "tracks": [
     {
       "added_at": "2021-04-20 17:47:58",
@@ -313,22 +313,6 @@
       "url": "https://open.spotify.com/track/54bm2e3tk8cliUz3VSdCPZ"
     },
     {
-      "added_at": "2021-04-20 17:47:58",
-      "album": {
-        "name": "Van Halen (Remastered)",
-        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Runnin' with the Devil - 2015 Remaster",
-      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
-    },
-    {
       "added_at": "2022-01-10 20:57:20",
       "album": {
         "name": "City of Evil",
@@ -343,6 +327,22 @@
       "duration_ms": 311813,
       "name": "Bat Country",
       "url": "https://open.spotify.com/track/3sHH7lklbfpcraDDvYnjo7"
+    },
+    {
+      "added_at": "2021-04-20 17:47:58",
+      "album": {
+        "name": "Van Halen (Remastered)",
+        "url": "https://open.spotify.com/album/7DdEbYFPKTZ8KB4z6L4UnQ"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Runnin' with the Devil - 2015 Remaster",
+      "url": "https://open.spotify.com/track/3KhF2YiNpJvGpfiCW45R6D"
     },
     {
       "added_at": "2021-04-20 17:47:58",
@@ -539,22 +539,6 @@
     {
       "added_at": "2021-04-20 17:47:58",
       "album": {
-        "name": "Machine Head",
-        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
-      },
-      "artists": [
-        {
-          "name": "Deep Purple",
-          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
-        }
-      ],
-      "duration_ms": 342173,
-      "name": "Smoke on the Water",
-      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
-    },
-    {
-      "added_at": "2021-04-20 17:47:58",
-      "album": {
         "name": "Whitesnake (2018 Remaster)",
         "url": "https://open.spotify.com/album/5drgoLSnXSDIhNK4ms3P7I"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 275395,
       "name": "Here I Go Again - 2018 Remaster",
       "url": "https://open.spotify.com/track/1qOU8KzFifXE9YrgjVwYvc"
+    },
+    {
+      "added_at": "2021-04-20 17:47:58",
+      "album": {
+        "name": "Machine Head",
+        "url": "https://open.spotify.com/album/1EK3a0Yctg4d3nGQzE4Uty"
+      },
+      "artists": [
+        {
+          "name": "Deep Purple",
+          "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
+        }
+      ],
+      "duration_ms": 342173,
+      "name": "Smoke on the Water",
+      "url": "https://open.spotify.com/track/5SAUIWdZ04OxYfJFDchC7S"
     },
     {
       "added_at": "2021-04-20 17:47:58",

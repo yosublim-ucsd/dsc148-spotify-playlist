@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 
 > Electronic Trap House with Arab spices\. Cover: DJ KABOO.
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,210 likes - 55 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,145 likes - 55 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 6 | [Menak](https://open.spotify.com/track/1nV0TB9uFkTezilYtVNLhH) | [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444), [Fatih Yilmaz](https://open.spotify.com/artist/0lxzzzW6U4V4vfRnsl4Z9n) | [Menak](https://open.spotify.com/album/0hYHq4A1BtfFXJKwpzt8na) | 2:24 |
 | 7 | [El\-M3allem \- Moseqah](https://open.spotify.com/track/6G56HoNH8vgM5d0M8jmtSH) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [Moseqah](https://open.spotify.com/album/52xKCcZzaZZdgRuuHmaVlj) | 3:56 |
 | 8 | [Secret](https://open.spotify.com/track/3pssrlLEYML2bdUvvfTc3B) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B) | [Secret](https://open.spotify.com/album/2YYYXlp6a5nga72Qaf5TOH) | 2:18 |
-| 9 | [Arabian Drift](https://open.spotify.com/track/5qNdv1WPksgm2F87wzznPi) | [VFM Style](https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF) | [Arabic Trap, Pt\. 2](https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk) | 3:35 |
-| 10 | [Duhan](https://open.spotify.com/track/0iKRhJ0dQqRH8Ja0tg35cs) | [Mazlum Uruc](https://open.spotify.com/artist/0JuZQEGDsR89y3vmkSukbj) | [Duhan](https://open.spotify.com/album/6gJ2tlLvvknigydDQWuFjh) | 2:56 |
+| 9 | [Duhan](https://open.spotify.com/track/0iKRhJ0dQqRH8Ja0tg35cs) | [Mazlum Uruc](https://open.spotify.com/artist/0JuZQEGDsR89y3vmkSukbj) | [Duhan](https://open.spotify.com/album/6gJ2tlLvvknigydDQWuFjh) | 2:56 |
+| 10 | [Arabian Drift](https://open.spotify.com/track/5qNdv1WPksgm2F87wzznPi) | [VFM Style](https://open.spotify.com/artist/4ulXFvFK1pjsKvk61NQtPF) | [Arabic Trap, Pt\. 2](https://open.spotify.com/album/3ssgRjMtcAE8F2pJhZ8MGk) | 3:35 |
 | 11 | [Morocco](https://open.spotify.com/track/19pxMtNvRkNPYqoaCtCR5l) | [Cris Taylor](https://open.spotify.com/artist/35IHRUK5Kx426lQ2KeIB0o) | [Morocco](https://open.spotify.com/album/1kP5zGZ3TdujqaBRgzp3FQ) | 2:43 |
 | 12 | [Arab Trap: Made in Egypt](https://open.spotify.com/track/2DBU3G7bYWcLKxKNtsXJ5h) | [DJ KABOO](https://open.spotify.com/artist/4XL8KSBe0v3k483R9Tv49Q) | [Arab Trap: Made in Egypt](https://open.spotify.com/album/2ZYdkTjXsKXajkPiwUTgQ7) | 2:34 |
 | 13 | [Omri](https://open.spotify.com/track/33XbI355jYdBpCabA0wp6U) | [FEARSTbeats](https://open.spotify.com/artist/4MhTe1Q9Y811m4EjaTbf2w) | [Omri](https://open.spotify.com/album/56vp0qNFa0zIsdW7D2iaUL) | 3:16 |
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcC6YLqj8ET8.md) - [plain]
 | 54 | [ALMAZAT](https://open.spotify.com/track/1l18f7daLQymXuUy6fQD6W) | [El\-M3allem](https://open.spotify.com/artist/7df2YdmQZRI6KvN3aowOMW) | [ALMAZAT](https://open.spotify.com/album/0s8UGDaOTmxfXDi1VAsowZ) | 3:08 |
 | 55 | [Hopeless](https://open.spotify.com/track/1y8M13DKjsyJtyuQadwQmV) | [Rami Eid](https://open.spotify.com/artist/4fQqnIuVrFLegT0pBmZ5fm), [Hidden Tigress](https://open.spotify.com/artist/53ZEdEG4hThZtzjhfQRHEu) | [Hopeless](https://open.spotify.com/album/3fU4JzytCzFvYJ1QAaC5GS) | 7:21 |
 
-Snapshot ID: `MCw0MTEyYmI4NmIzYTY1Y2FjZDQ2ZDVlOTkxNDY1MmM1OWYyMzNhYzM1`
+Snapshot ID: `MCxmODdiNWFmMzJjOGEyMDRmNGIzZTlkYWVjYWE2MjMxNzdlYjg2ZWQw`

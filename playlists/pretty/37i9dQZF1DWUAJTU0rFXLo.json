@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasicas que fazem de qualquer hora, a mais perfeita para um baile! Foto: Carlos Daf\u00e9",
-  "num_followers": 26464,
+  "num_followers": 26491,
   "original_name": "Baile Black",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmYWE0MDdlODBlMWMwZDdiODM0ZGUxMzlhNTdlMjA0YzUxMWVkMjgx",
+  "snapshot_id": "MCwwODNlYTU4NjExZTcwZjZiY2U5YmY2MTRhYjBiNDlkZWYxYWQ5Nzgw",
   "tracks": [
     {
       "added_at": "2023-09-14 19:24:02",
@@ -643,22 +643,6 @@
     {
       "added_at": "2023-09-14 19:24:02",
       "album": {
-        "name": "Anthology: Jackson 5",
-        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
-    },
-    {
-      "added_at": "2023-09-14 19:24:02",
-      "album": {
         "name": "Risqu\u00e9 (2018 Remaster)",
         "url": "https://open.spotify.com/album/7rAk4WPpYlYr0fElVfXTOF"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 486186,
       "name": "Good Times - 2018 Remaster",
       "url": "https://open.spotify.com/track/2wYKNcoqKW4IEcllj42xz1"
+    },
+    {
+      "added_at": "2023-09-14 19:24:02",
+      "album": {
+        "name": "Anthology: Jackson 5",
+        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
     },
     {
       "added_at": "2023-09-14 19:24:02",

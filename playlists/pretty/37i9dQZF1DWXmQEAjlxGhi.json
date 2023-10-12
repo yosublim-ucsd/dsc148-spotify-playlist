@@ -1,12 +1,12 @@
 {
   "description": "Upbeat Latin songs to keep your heart rate up.",
-  "num_followers": 1394309,
+  "num_followers": 1393930,
   "original_name": "Latin Cardio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxlZTZlNTAzNjY3NDllMGYxODhmMGQxNDhlMzVjYTZkZjg5M2I4Y2Y4",
+  "snapshot_id": "MCw0YTljNDE0NjZlNGRhODgyYjU3ZWJlZjA1ZTJmMTU2OTJlNTFjZDU2",
   "tracks": [
     {
       "added_at": "2023-09-06 15:20:10",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2023-09-06 15:20:10",
       "album": {
-        "name": "Berlin",
-        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
-      },
-      "artists": [
-        {
-          "name": "Zion & Lennox",
-          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 246061,
-      "name": "Berlin",
-      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
-    },
-    {
-      "added_at": "2023-09-06 15:20:10",
-      "album": {
         "name": "ESQUEMAS",
         "url": "https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 158440,
       "name": "FULANITO",
       "url": "https://open.spotify.com/track/3CIl8hlnMcULSIIhUMmB1Z"
+    },
+    {
+      "added_at": "2023-09-06 15:20:10",
+      "album": {
+        "name": "Berlin",
+        "url": "https://open.spotify.com/album/3UoZyegj8BdpkwA2iSOwZa"
+      },
+      "artists": [
+        {
+          "name": "Zion & Lennox",
+          "url": "https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 246061,
+      "name": "Berlin",
+      "url": "https://open.spotify.com/track/2IzV2SPZQLadtA46ni3ICq"
     },
     {
       "added_at": "2023-09-06 15:20:10",

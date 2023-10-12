@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29995,
+  "num_followers": 30029,
   "original_name": "This Is Jay Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiODQ2ZWZlY2EwYTc5ZTc5NzkyMWQ2MWYyNzc4MmYyMmRmYmUwZDNi",
+  "snapshot_id": "MCwzYmJiZmQ3N2I5NWQ2NTA4ZjAyYzlhZTBhNTZkNWE5NmI2MGQzZjdh",
   "tracks": [
     {
       "added_at": "2023-07-31 16:03:37",
@@ -623,6 +623,22 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "BRB",
+        "url": "https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2"
+      },
+      "artists": [
+        {
+          "name": "H1GHR MUSIC",
+          "url": "https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K"
+        }
+      ],
+      "duration_ms": 304746,
+      "name": "BRB",
+      "url": "https://open.spotify.com/track/620yE97rij2snTka7EbKH0"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "Dingo X \uc314\ub048\ubcf4\uc774\uc988 - \uad81\uae08\ud574",
         "url": "https://open.spotify.com/album/0IXensrKIZ7dxjoUgx57xb"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 226989,
       "name": "POST IT (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/1ByJ2Pn1yxfTVl2cjCdYGO"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "BRB",
-        "url": "https://open.spotify.com/album/6jJeQc9hKDXc5Loe6yZgr2"
-      },
-      "artists": [
-        {
-          "name": "H1GHR MUSIC",
-          "url": "https://open.spotify.com/artist/2a3wtqb5oDZFegk1xPJu7K"
-        }
-      ],
-      "duration_ms": 304746,
-      "name": "BRB",
-      "url": "https://open.spotify.com/track/620yE97rij2snTka7EbKH0"
     },
     {
       "added_at": "2023-07-31 16:03:37",
@@ -1607,6 +1607,26 @@
     {
       "added_at": "2023-07-31 16:03:37",
       "album": {
+        "name": "EVERYTHING YOU WANTED",
+        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "ELO",
+          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
+        }
+      ],
+      "duration_ms": 243492,
+      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
+      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
+    },
+    {
+      "added_at": "2023-07-31 16:03:37",
+      "album": {
         "name": "Worldwide",
         "url": "https://open.spotify.com/album/5vESroqrGYDxDPAwUceQxf"
       },
@@ -1631,26 +1651,6 @@
       "duration_ms": 258109,
       "name": "MOMMAE - Remix",
       "url": "https://open.spotify.com/track/4D7itKLDptW3QjL32Uaa6F"
-    },
-    {
-      "added_at": "2023-07-31 16:03:37",
-      "album": {
-        "name": "EVERYTHING YOU WANTED",
-        "url": "https://open.spotify.com/album/0c4LKBzh0ufU36AyuzZRc2"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "ELO",
-          "url": "https://open.spotify.com/artist/33fY1P5TsAeEK2VgATvz1A"
-        }
-      ],
-      "duration_ms": 243492,
-      "name": "Turn Off Your Phone (Feat. ELO) - Remix",
-      "url": "https://open.spotify.com/track/4AtDiqnMxDt8crflZWgZG5"
     },
     {
       "added_at": "2023-07-31 16:03:37",

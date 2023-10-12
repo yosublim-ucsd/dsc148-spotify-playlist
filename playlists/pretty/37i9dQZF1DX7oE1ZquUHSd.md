@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 
 > El poder real del Hip Hop latinoamericano y español\. La Banda Bastön en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 167,880 likes - 100 songs - 6 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 167,952 likes - 100 songs - 6 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 75 | [Love & Money](https://open.spotify.com/track/4JYVHokdjqjArnqmqTfaUZ) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Akapellah](https://open.spotify.com/artist/6fMZytDgX1Q9OV6ndSugym) | [Love & Money](https://open.spotify.com/album/7BAQx3vrxCF02TU4wpK7Te) | 3:36 |
 | 76 | [Estilo Libre](https://open.spotify.com/track/2KxvTs9bHxy96HXROF23g2) | [Liricistas](https://open.spotify.com/artist/6Auet21YaPDui2ManqgAFc) | [For Life](https://open.spotify.com/album/1IfdGBB0FWhM38z7s5DuAH) | 3:07 |
 | 77 | [Apaga el Celular](https://open.spotify.com/track/7BhCvFVZwe04hLpNutqTdg) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [Apaga el celular](https://open.spotify.com/album/4hl6j5ZMGsCxBhw3BuDDbK) | 3:45 |
-| 78 | [Rolemos Otro](https://open.spotify.com/track/75WXBeClIQQl6ql1nZbDF5) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 3:14 |
-| 79 | [Natural](https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Faruz Fit, Vol\. 1](https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL) | 3:24 |
+| 78 | [Natural](https://open.spotify.com/track/4awFUpxIo94l8m7DpQwD8e) | [Faruz Feet](https://open.spotify.com/artist/6tJRAxu0HwB2GI9GueEj4l) | [Faruz Fit, Vol\. 1](https://open.spotify.com/album/4Uo5YhvoKTSbSGjv8iv9DL) | 3:24 |
+| 79 | [Rolemos Otro](https://open.spotify.com/track/75WXBeClIQQl6ql1nZbDF5) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [Rolemos Otro](https://open.spotify.com/album/01AooA3ywuIEk6EQaoWjh3) | 3:14 |
 | 80 | [Pavos Reales \(con Hermano L, Shabu One Shant y Mcklopedia\)](https://open.spotify.com/track/4HVYBeELSvhfGmWwFoZr4p) | [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux), [Hermano L](https://open.spotify.com/artist/3K6sWdZkd44I5AanjEvYc1), [Shabu One Shant](https://open.spotify.com/artist/0ntfzFCIx4KqKi3znNENz6), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG) | [El Círculo \(Versión Exclusiva de Spotify\)](https://open.spotify.com/album/5HTtQMQxpNk64Uj1zXjufs) | 4:31 |
 | 81 | [Desahogo](https://open.spotify.com/track/2sG0DhUyomwiWk5gcMUV7Z) | [Vico C](https://open.spotify.com/artist/0GutRVONcyyBj1WduodFc6) | [Desahogo](https://open.spotify.com/album/5uENvCoFFohiR1bBF3IxrN) | 4:05 |
 | 82 | [Cantando](https://open.spotify.com/track/5AIwfXYjGkWCs4KeeTk2Rq) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vivir para Contarlo](https://open.spotify.com/album/6LeLj7gigY7PBgPVZ6P25f) | 5:32 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oE1ZquUHSd.md) - [plain]
 | 99 | [Ninguna Chavala Tiene Dueño \- Porque Ella Me Lo Dijo](https://open.spotify.com/track/5fIJBM9OxVNiu4fQLX9vqo) | [Violadores Del Verso](https://open.spotify.com/artist/1DH9RJ0xBVje6gQmK3LWUY) | [Vicios y Virtudes](https://open.spotify.com/album/6SaShuiobMOc9mIiSmP2kY) | 4:29 |
 | 100 | [Manos de Anillo](https://open.spotify.com/track/7vbYVWDpMxZS97V5dPeflc) | [Simpson Ahuevo](https://open.spotify.com/artist/6viZnVSHavFUcW0blu6Mvw) | [Manos de Anillo](https://open.spotify.com/album/2TWqwQ1OOfbI8D7g31SbQU) | 3:45 |
 
-Snapshot ID: `MCwwZWJmZTdhOGEzNjY1NzIyZDBiMzZiNGMwYmU4OWMwZDNhYzc4NTUy`
+Snapshot ID: `MCwyY2EwNTQ4Y2JmNTQ5MjNiOWY4YTg3MDMyYmM4ZTM0Y2Y0MTMzZjg0`

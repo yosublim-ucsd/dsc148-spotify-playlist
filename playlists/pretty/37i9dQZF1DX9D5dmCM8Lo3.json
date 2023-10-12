@@ -1,12 +1,12 @@
 {
   "description": "would you like to save before closing?",
-  "num_followers": 186535,
+  "num_followers": 186909,
   "original_name": "webcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxhZTc5ZWU4OWY0YWFkZjg5MWEwYzZlNTRjMjIxZWFmYjU1Y2Q5ODJl",
+  "snapshot_id": "MCxlZDI0ZjhkM2MyODk2MWE3NDg2NTJkNjc5ZjFiYjM2ODkyNTU0OWU2",
   "tracks": [
     {
       "added_at": "2023-07-18 20:06:10",
@@ -563,22 +563,6 @@
     {
       "added_at": "2023-07-18 20:06:10",
       "album": {
-        "name": "Somoku Hodo",
-        "url": "https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 172080,
-      "name": "Doku",
-      "url": "https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv"
-    },
-    {
-      "added_at": "2023-07-18 20:06:10",
-      "album": {
         "name": ")\u2727\u20db*",
         "url": "https://open.spotify.com/album/2sH6A5CeThHXMZ8ZX6iROz"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 190344,
       "name": "\u01aa. \u25d6\u01aa\u274d\u227b\u0338\u25de.|\u25d7\u0449 (*\u110b\u25b3+\u204e\u275d\u1dc0\u0ebb\u0f7d*\u0cc3:(\ua4a1\u0361 \u275d\u1dc0\u0ebb\u0f7d \ua27a \u0308.\u00b7*:\u30fb\u2727\u20db(\u0f7d\u0e51",
       "url": "https://open.spotify.com/track/5S0yiOErSgkU4yRsz6amKN"
+    },
+    {
+      "added_at": "2023-07-18 20:06:10",
+      "album": {
+        "name": "Somoku Hodo",
+        "url": "https://open.spotify.com/album/3RRuuRZr2mQT0WoyNHNoBd"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 172080,
+      "name": "Doku",
+      "url": "https://open.spotify.com/track/6bVOt7v3VjCCbmx17bgSEv"
     },
     {
       "added_at": "2023-07-18 20:06:10",

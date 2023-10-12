@@ -1,12 +1,12 @@
 {
   "description": "M\u00fasica alegre para que el trabajo se te pase volando.",
-  "num_followers": 564920,
+  "num_followers": 564073,
   "original_name": "En el Trabajo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNGExN2Y2MjA5ZjA0YzNiNTE5MDQ3MzdmODYwMTc0ZTc5Y2NhNDAz",
+  "snapshot_id": "MCw4M2UxOWUxNWM4ZDNkOTg3NjIzNzJhZWQ4OWEyOGYyNTU5N2E0OTY1",
   "tracks": [
     {
       "added_at": "2023-04-24 16:18:50",
@@ -171,26 +171,18 @@
     {
       "added_at": "2023-04-24 16:18:50",
       "album": {
-        "name": "Tiroteo (Remix)",
-        "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
+        "name": "Future Nostalgia",
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
       },
       "artists": [
         {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
         }
       ],
-      "duration_ms": 321555,
-      "name": "Tiroteo - Remix",
-      "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+      "duration_ms": 203807,
+      "name": "Levitating",
+      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
     },
     {
       "added_at": "2023-04-24 16:18:50",
@@ -207,22 +199,6 @@
       "duration_ms": 164386,
       "name": "MIENTRAS ME CURO DEL CORA",
       "url": "https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ"
-    },
-    {
-      "added_at": "2023-04-24 16:18:50",
-      "album": {
-        "name": "Future Nostalgia",
-        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 203807,
-      "name": "Levitating",
-      "url": "https://open.spotify.com/track/39LLxExYz6ewLAcYrzQQyP"
     },
     {
       "added_at": "2023-04-24 16:18:50",
@@ -483,26 +459,6 @@
     {
       "added_at": "2023-04-24 16:18:50",
       "album": {
-        "name": "Esta Vida",
-        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
-      },
-      "artists": [
-        {
-          "name": "Marshmello",
-          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 209135,
-      "name": "Esta Vida",
-      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
-    },
-    {
-      "added_at": "2023-04-24 16:18:50",
-      "album": {
         "name": "Greatest",
         "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
       },
@@ -535,6 +491,26 @@
       "duration_ms": 187986,
       "name": "EL TONTO",
       "url": "https://open.spotify.com/track/4rKQ8daoK0aklVptea8A9E"
+    },
+    {
+      "added_at": "2023-04-24 16:18:50",
+      "album": {
+        "name": "Esta Vida",
+        "url": "https://open.spotify.com/album/5C82uAeAwABjDB7lsLL9iL"
+      },
+      "artists": [
+        {
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 209135,
+      "name": "Esta Vida",
+      "url": "https://open.spotify.com/track/5OSGdSxtulzlzdPdK2MQJC"
     },
     {
       "added_at": "2023-04-24 16:18:50",
@@ -763,22 +739,6 @@
     {
       "added_at": "2023-04-24 16:18:50",
       "album": {
-        "name": "For Once In My Life",
-        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
-    },
-    {
-      "added_at": "2023-04-24 16:18:50",
-      "album": {
         "name": "Future Nostalgia (The Moonlight Edition)",
         "url": "https://open.spotify.com/album/0JeyP8r2hBxYIoxXv11XiX"
       },
@@ -811,6 +771,22 @@
       "duration_ms": 219960,
       "name": "CONTIGO VOY A MUERTE",
       "url": "https://open.spotify.com/track/615XWyY2RPfk3iuYcU6qvi"
+    },
+    {
+      "added_at": "2023-04-24 16:18:50",
+      "album": {
+        "name": "For Once In My Life",
+        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
     },
     {
       "added_at": "2023-04-24 16:18:50",
@@ -995,22 +971,6 @@
     {
       "added_at": "2023-04-24 16:18:50",
       "album": {
-        "name": "Portales (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
-      },
-      "artists": [
-        {
-          "name": "Tiago PZK",
-          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
-        }
-      ],
-      "duration_ms": 184511,
-      "name": "Que Se Parezca A Ti",
-      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
-    },
-    {
-      "added_at": "2023-04-24 16:18:50",
-      "album": {
         "name": "Donde Hay M\u00fasica (Spanish Version)",
         "url": "https://open.spotify.com/album/49oNMRzQcMBCqiz03JOQqq"
       },
@@ -1023,6 +983,22 @@
       "duration_ms": 265626,
       "name": "La Cosa Mas Bella",
       "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
+    },
+    {
+      "added_at": "2023-04-24 16:18:50",
+      "album": {
+        "name": "Portales (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "duration_ms": 184511,
+      "name": "Que Se Parezca A Ti",
+      "url": "https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6"
     },
     {
       "added_at": "2023-04-24 16:18:50",
@@ -1331,26 +1307,6 @@
     {
       "added_at": "2023-04-24 16:18:50",
       "album": {
-        "name": "La Bella y la Bestia",
-        "url": "https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR"
-      },
-      "artists": [
-        {
-          "name": "Reik",
-          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 186359,
-      "name": "La Bella y la Bestia",
-      "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
-    },
-    {
-      "added_at": "2023-04-24 16:18:50",
-      "album": {
         "name": "Lo mas lejos a tu lado",
         "url": "https://open.spotify.com/album/5ARI6MI0J9CnAqT9vfhd4n"
       },
@@ -1415,6 +1371,26 @@
       "duration_ms": 203102,
       "name": "A D\u00f3nde Vamos",
       "url": "https://open.spotify.com/track/671sG3ETDxC3L6qcGIrHRM"
+    },
+    {
+      "added_at": "2023-04-24 16:18:50",
+      "album": {
+        "name": "La Bella y la Bestia",
+        "url": "https://open.spotify.com/album/71i8oV332P87FwYsKeoAsR"
+      },
+      "artists": [
+        {
+          "name": "Reik",
+          "url": "https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 186359,
+      "name": "La Bella y la Bestia",
+      "url": "https://open.spotify.com/track/0G0p7mc4wEaQTsUpzEmkEs"
     },
     {
       "added_at": "2023-04-24 16:18:50",
@@ -1551,22 +1527,6 @@
     {
       "added_at": "2023-04-24 16:18:50",
       "album": {
-        "name": "Mis Manos",
-        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 221749,
-      "name": "Millones",
-      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
-    },
-    {
-      "added_at": "2023-04-24 16:18:50",
-      "album": {
         "name": "Qui\u00e9reme Mientras Se Pueda",
         "url": "https://open.spotify.com/album/7cd7ofPesyBoPDb2dtUbj5"
       },
@@ -1579,6 +1539,22 @@
       "duration_ms": 191945,
       "name": "Qui\u00e9reme Mientras Se Pueda",
       "url": "https://open.spotify.com/track/34LI7rwi9H8w2S5KTHnv1M"
+    },
+    {
+      "added_at": "2023-04-24 16:18:50",
+      "album": {
+        "name": "Mis Manos",
+        "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 221749,
+      "name": "Millones",
+      "url": "https://open.spotify.com/track/3YAnNBdk0uHyakXXzMbNJq"
     },
     {
       "added_at": "2023-04-24 16:18:50",
@@ -1723,22 +1699,6 @@
     {
       "added_at": "2023-04-24 16:18:50",
       "album": {
-        "name": "Vida de Rico",
-        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
-      },
-      "artists": [
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
-        }
-      ],
-      "duration_ms": 187426,
-      "name": "Vida de Rico",
-      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
-    },
-    {
-      "added_at": "2023-04-24 16:18:50",
-      "album": {
         "name": "M\u00e1s De Lo Que Apost\u00e9",
         "url": "https://open.spotify.com/album/4DAiwXZWP397meKmAG7xaS"
       },
@@ -1755,6 +1715,22 @@
       "duration_ms": 205031,
       "name": "M\u00e1s De Lo Que Apost\u00e9",
       "url": "https://open.spotify.com/track/00QBHaaP4KUcjlmxWriMbC"
+    },
+    {
+      "added_at": "2023-04-24 16:18:50",
+      "album": {
+        "name": "Vida de Rico",
+        "url": "https://open.spotify.com/album/0MmIH2uM4bUsF5VbEkCKzT"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "duration_ms": 187426,
+      "name": "Vida de Rico",
+      "url": "https://open.spotify.com/track/73nAK3HgQK8dak83Y2WQ8F"
     },
     {
       "added_at": "2023-04-24 16:18:50",
@@ -1971,22 +1947,6 @@
     {
       "added_at": "2023-04-24 16:18:50",
       "album": {
-        "name": "A Valentine For You",
-        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 127186,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
-    },
-    {
-      "added_at": "2023-04-24 16:18:50",
-      "album": {
         "name": "La Bachata",
         "url": "https://open.spotify.com/album/2ZuHbnjlyHvDOTqMy1feF0"
       },
@@ -2023,6 +1983,22 @@
       "duration_ms": 219600,
       "name": "D\u00e9jala Que Baile (with Alejandro Sanz & Arkano)",
       "url": "https://open.spotify.com/track/2KK9N6iBAisA0booTu3bGd"
+    },
+    {
+      "added_at": "2023-04-24 16:18:50",
+      "album": {
+        "name": "A Valentine For You",
+        "url": "https://open.spotify.com/album/5FKeAFzL4NPXdiySDoUyel"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 127186,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/7jVBSPLSbL1jKVBDMXlRCx"
     },
     {
       "added_at": "2023-04-24 16:18:50",
@@ -2215,6 +2191,22 @@
     {
       "added_at": "2023-04-24 16:18:50",
       "album": {
+        "name": "Get Close (Expanded & Remastered)",
+        "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
+      },
+      "artists": [
+        {
+          "name": "Pretenders",
+          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
+        }
+      ],
+      "duration_ms": 227626,
+      "name": "Don't Get Me Wrong - 2007 Remaster",
+      "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
+    },
+    {
+      "added_at": "2023-04-24 16:18:50",
+      "album": {
         "name": "Mis Manos",
         "url": "https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA"
       },
@@ -2243,22 +2235,6 @@
       "duration_ms": 242946,
       "name": "La Isla Bonita",
       "url": "https://open.spotify.com/track/2Iib2MV3ECFJAourgP9dlY"
-    },
-    {
-      "added_at": "2023-04-24 16:18:50",
-      "album": {
-        "name": "Get Close (Expanded & Remastered)",
-        "url": "https://open.spotify.com/album/1d7D1MLaFW6rp9N1kBZDn3"
-      },
-      "artists": [
-        {
-          "name": "Pretenders",
-          "url": "https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9"
-        }
-      ],
-      "duration_ms": 227626,
-      "name": "Don't Get Me Wrong - 2007 Remaster",
-      "url": "https://open.spotify.com/track/6Wiamk8BAAP50gAAJopsy2"
     },
     {
       "added_at": "2023-04-24 16:18:50",
@@ -2311,22 +2287,6 @@
     {
       "added_at": "2023-04-24 16:18:50",
       "album": {
-        "name": "Tragas o Escupes",
-        "url": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 214553,
-      "name": "Eso Que T\u00fa Me Das",
-      "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
-    },
-    {
-      "added_at": "2023-04-24 16:18:50",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
       },
@@ -2343,6 +2303,22 @@
       "duration_ms": 208600,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
+    },
+    {
+      "added_at": "2023-04-24 16:18:50",
+      "album": {
+        "name": "Tragas o Escupes",
+        "url": "https://open.spotify.com/album/654eDsgy2UItWWpSOly0U7"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 214553,
+      "name": "Eso Que T\u00fa Me Das",
+      "url": "https://open.spotify.com/track/40tFJtuES1da2fg0OurUdI"
     },
     {
       "added_at": "2023-04-24 16:18:50",
@@ -2479,22 +2455,6 @@
     {
       "added_at": "2023-04-24 16:18:50",
       "album": {
-        "name": "Atlantic 60th: Soul, Sweat And Strut",
-        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 142186,
-      "name": "Respect - 2003 Remaster",
-      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
-    },
-    {
-      "added_at": "2023-04-24 16:18:50",
-      "album": {
         "name": "Nuclear",
         "url": "https://open.spotify.com/album/1T2uKSyUf7DBWOABtsmYLM"
       },
@@ -2507,6 +2467,22 @@
       "duration_ms": 240984,
       "name": "Como Si Fueras a Morir Ma\u00f1ana",
       "url": "https://open.spotify.com/track/4aAfLSx9IthpC3Pw5pNk3E"
+    },
+    {
+      "added_at": "2023-04-24 16:18:50",
+      "album": {
+        "name": "Atlantic 60th: Soul, Sweat And Strut",
+        "url": "https://open.spotify.com/album/1LBWNRMsbEWb17KmDD4jfD"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 142186,
+      "name": "Respect - 2003 Remaster",
+      "url": "https://open.spotify.com/track/5AoTuHE5P5bvC7BBppYnja"
     },
     {
       "added_at": "2023-04-24 16:18:50",
@@ -2771,6 +2747,22 @@
       "duration_ms": 191586,
       "name": "Lady Madrid",
       "url": "https://open.spotify.com/track/5NQw5WJwKRPaaSDHXD04Fs"
+    },
+    {
+      "added_at": "2023-04-24 16:18:50",
+      "album": {
+        "name": "Furia Latina",
+        "url": "https://open.spotify.com/album/44qXGSYAvbnwci400nEDpe"
+      },
+      "artists": [
+        {
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+        }
+      ],
+      "duration_ms": 220626,
+      "name": "Quiero tener tu presencia",
+      "url": "https://open.spotify.com/track/3f2k0XTc2ZXG17jEMDu8pp"
     }
   ],
   "unique_name": "En el Trabajo",

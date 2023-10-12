@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 
 > Your ultimate playlist for the best in Mollywood!<br/>Cover: 2018
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,376 likes - 78 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,585 likes - 78 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 77 | [Kannile Poika](https://open.spotify.com/track/2dPjufHqxhyhDVm1K99nlh) | [Bijibal](https://open.spotify.com/artist/09Swfzp0iwV8Yxe1Ngzf6v), [Ganesh Sundaram](https://open.spotify.com/artist/5mXsIgnkm3uRBWDUFX2ZK8), [Sowmya Ramakrishnan](https://open.spotify.com/artist/30Ps755Z7pAfLeUKWcaCzC) | [Thondimuthalum Dhriksaakshiyum](https://open.spotify.com/album/1eNjrrCJIwQR4O2n2YVe21) | 3:16 |
 | 78 | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/track/0rzKjfUCW6jl9u4jOJHWns) | [Tippu](https://open.spotify.com/artist/0PykiHCcDsMPRV7s67qZ1B), [Bhadra Rajin](https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn), [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Ra Ra Rakkamma \(From "Vikrant Rona"\)](https://open.spotify.com/album/7vUWdGwewQzd5S1HpgkBSC) | 3:38 |
 
-Snapshot ID: `MCw1NDYwNzFkZmU2M2U3YWI0MjViOGQzOGE5ZDczOWFmZjJlN2Y3ZTll`
+Snapshot ID: `MCw3NmNmZTUxNGZjMjcwYTY2ZjA5ZmNiZGMxN2RmNjYyNjU5ZmI4ODY3`

@@ -3108,6 +3108,24 @@
     {
       "album": {
         "name": "Happiness Is An 8 Ball",
+        "url": "https://open.spotify.com/album/2xbgOQbCLuitXr5M5C8mV6"
+      },
+      "artists": [
+        {
+          "name": "Georgia Gets By",
+          "url": "https://open.spotify.com/artist/03vcsySpQ2gtPoaPeJRhb9"
+        }
+      ],
+      "date_added": "2023-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151483,
+      "name": "Happiness Is An 8 Ball",
+      "url": "https://open.spotify.com/track/6FzUPASAASb5r58dnOIdzg"
+    },
+    {
+      "album": {
+        "name": "Happiness Is An 8 Ball",
         "url": "https://open.spotify.com/album/7i1hMwr3Y3tYKMqajGbnWR"
       },
       "artists": [
@@ -3118,7 +3136,7 @@
       ],
       "date_added": "2023-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 151483,
       "name": "Happiness Is An 8 Ball",
       "url": "https://open.spotify.com/track/6uEQDaJJr9I7C0nM1iKseQ"

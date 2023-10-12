@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 
 > Novos rappers, novos sons\. Tamos juntos! Foto: THE F LIBRA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,339 likes - 100 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,352 likes - 100 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 31 | [Outlawz](https://open.spotify.com/track/3eqL10wOqMkrQUlEb1bX8K) | [Black Lyrics](https://open.spotify.com/artist/73wlV7dL65MhDD3ykH5FGX), [Real GUNS](https://open.spotify.com/artist/3DNrmBolKZNsx5UHwJCLnT) | [Outlawz](https://open.spotify.com/album/3NwY5WK2PFzJ3JiDYx5FRU) | 3:45 |
 | 32 | [ilha](https://open.spotify.com/track/1DzPbtEQOJD0l4hl94T6hO) | [ifloow10k](https://open.spotify.com/artist/7jsTdkR1StdUR03rWY8gpa) | [ilha](https://open.spotify.com/album/25zvWPWpyna9Gqw709QR6F) | 2:30 |
 | 33 | [Amor](https://open.spotify.com/track/3Ip0TaOOaXTrCmZCdJkgpf) | [Burrz](https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh) | [Amor](https://open.spotify.com/album/1aJgyzKAmMg1UL0bmzX7XG) | 3:01 |
-| 34 | [Satisfação](https://open.spotify.com/track/0qPfMwZOo6IMfMUVv6BMtA) | [Vizzy 1910](https://open.spotify.com/artist/0P0n0S4JIpef6HOwuvbER6) | [Satisfação](https://open.spotify.com/album/5SgURw0RSdiCrXnDjLmHKo) | 2:03 |
+| 34 | [Satisfação](https://open.spotify.com/track/3rw6iPZAjtrqFratClh771) | [Vizzy 1910](https://open.spotify.com/artist/0P0n0S4JIpef6HOwuvbER6) | [T and T](https://open.spotify.com/album/7pVzjnDpFp0NRKiqdsul8M) | 2:03 |
 | 35 | [Coisas no Vento](https://open.spotify.com/track/7Gfg5xHobbq5gV6B46mqSL) | [Riça](https://open.spotify.com/artist/3MJelg6WWGVD9xNL1xFSIE), [Kass](https://open.spotify.com/artist/3petAllfgRP2hyYINfKOag) | [Diabos m' Elevem](https://open.spotify.com/album/4r7flExuW4t3aQEkKL7ikd) | 4:23 |
 | 36 | [Cima Favela](https://open.spotify.com/track/4jywdVdJvrKrAdN9OyaAWW) | [Nicholas](https://open.spotify.com/artist/2Y5CUrIyRo9uaUTasckcHB) | [Cima Favela](https://open.spotify.com/album/1MuVGDebeM6n2s0FuVUvcK) | 4:27 |
 | 37 | [Topo da Town](https://open.spotify.com/track/4eNkdNRdijS2ay8CzjXr0M) | [Emanadazz](https://open.spotify.com/artist/3idNZojSWG1o3yVEzNSD4x), [Íris Soares](https://open.spotify.com/artist/5YOyuMhz8o3ZPg4lL3FiZ6) | [Topo da Town](https://open.spotify.com/album/6Q6BFW7m7srhrTsFXQRU1s) | 2:20 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59I2hjkhLtN.md) - [plain]
 | 99 | [MARIPOSA](https://open.spotify.com/track/7iXvDTsQSHA88hLA0j29QX) | [Beiro](https://open.spotify.com/artist/1woeDwFlKucZ8AtKLx9hnn), [Icaro](https://open.spotify.com/artist/7qQEuTCea0daGR9iutPPNS), [L\-ALI](https://open.spotify.com/artist/2O6Oes2ZnqSwoUHFl7rTyy) | [MARIPOSA](https://open.spotify.com/album/1Ue8MJN201kQAwuPCLY26g) | 2:51 |
 | 100 | [VROOM](https://open.spotify.com/track/1ZOyOWkGCBAN2U9ZmAppxb) | [Pedronumb](https://open.spotify.com/artist/4nsEPbfz1hPttOFeew8bvH) | [VROOM](https://open.spotify.com/album/6H18k544VuI9Fkev41Vypn) | 2:17 |
 
-Snapshot ID: `MCxjMWMxNjc2NGFjYTk1NTBiODJjYjVlOGE5YzZlNzk3YTBhZGIwZGJk`
+Snapshot ID: `MCw2OWNjZWFmZDk1YWUzMjhhZWRkMGQ1YThhMDg5ZjJiNDNkMjIyOTM1`

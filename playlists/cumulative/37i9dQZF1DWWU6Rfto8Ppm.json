@@ -1962,7 +1962,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 214360,
       "name": "Eh Oh Eh Oh",
       "url": "https://open.spotify.com/track/6cMmRhuplhTj33YhLtfiQt"
@@ -2588,6 +2588,24 @@
       "duration_ms": 220734,
       "name": "Estar Enamorado",
       "url": "https://open.spotify.com/track/2RFDO2apMKOOytAWsNHmyH"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Lun\u00e1ticos",
+        "url": "https://open.spotify.com/album/30Mx3Jz0HsGItYSrc1bHaw"
+      },
+      "artists": [
+        {
+          "name": "Golpe a Golpe",
+          "url": "https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj"
+        }
+      ],
+      "date_added": "2023-10-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221333,
+      "name": "Estar Enamorado",
+      "url": "https://open.spotify.com/track/465du48rE48BymmBdfvxc2"
     },
     {
       "album": {

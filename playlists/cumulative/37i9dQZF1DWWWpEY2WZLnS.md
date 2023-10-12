@@ -4,7 +4,7 @@
 
 > Lo más pegao en Dembow\. <br/>Portada: Peso Pluma y El Alfa
 
-307 songs - 15 hr 33 min
+308 songs - 15 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -131,7 +131,8 @@
 | [La Nota](https://open.spotify.com/track/6fx777GrjGp9SjnAKUUrvN) | [DJ Africa](https://open.spotify.com/artist/5x4G6zQfdOjGbkK8SkHmTf), [Luciente](https://open.spotify.com/artist/2pUnmdyBWNx7Tl6Z1mXTb7), [El Chima En La Casa](https://open.spotify.com/artist/2m54qKxJNbCGH7OZN0xuL1), [DJ C](https://open.spotify.com/artist/3onFftGB63Tx9Ncfed6sot) | [La Nota](https://open.spotify.com/album/6Ewr6sAvH5YJiLlTop0BRq) | 2:50 | 2023-02-09 | 2023-03-11 |
 | [La Nota Se Me Encampana \(with Tali Goya, Ceky Viciny, Quimico Ultra Mega & Shelow Shaq\) \- Remix](https://open.spotify.com/track/6fF4naENXsnyCaiHCctKCp) | [Yofrangel](https://open.spotify.com/artist/6VLldomvrVfwjvfLdFDq0o), [Tali Goya](https://open.spotify.com/artist/0LvzywQsf3X6Gt6aGAdlDq), [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Quimico Ultra Mega](https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX), [Shelow Shaq](https://open.spotify.com/artist/658X86qMyJpSRY87oPvExU) | [LATIN HITS 2018 \- Reggaeton, Salsa, Bachata, Pop Latino, Latin Fitness \(60 Super Exitos Latinos \- Club Edition\)](https://open.spotify.com/album/7CecgOEOAK5MBc5kkEycA4) | 4:34 | 2023-02-09 | 2023-03-11 |
 | [La Opinión Es Tuya](https://open.spotify.com/track/3HJzhsfS75hDk2o6Tcaws1) | [Dj Adoni](https://open.spotify.com/artist/3JfbHWZ07sSBjbojTU2hAt), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [La Perversa](https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo) | [La Opinión Es Tuya](https://open.spotify.com/album/3uqErOIlbzRVHgNhNR9gqi) | 3:37 | 2023-05-26 | 2023-08-04 |
-| [La Palida](https://open.spotify.com/track/0dpvEhTjlOPRO9al8fg1Dw) | [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC) | [La Palida](https://open.spotify.com/album/0xrAWdqJYATjq9DH6QQrSc) | 2:07 | 2023-07-31 |  |
+| [La Palida](https://open.spotify.com/track/3QYjhjhR0XerDrQL9S2IO1) | [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC) | [La Palida](https://open.spotify.com/album/2fgXaL8kvKFZomRDOQ4tu6) | 2:07 | 2023-07-31 |  |
+| [La Palida](https://open.spotify.com/track/0dpvEhTjlOPRO9al8fg1Dw) | [Papaa Tyga](https://open.spotify.com/artist/7CE95BHNdEgoaQw0GPCHqC) | [La Palida](https://open.spotify.com/album/0xrAWdqJYATjq9DH6QQrSc) | 2:07 | 2023-07-31 | 2023-10-12 |
 | [La Pampara](https://open.spotify.com/track/27D9B8v0U0Dx4I1gys0Y1Y) | [Kiko el Crazy](https://open.spotify.com/artist/3NpG6SsHaQETkdQVZH6V1E) | [La Pampara](https://open.spotify.com/album/47wn5kQQYh8dCJq9nFdkjk) | 2:20 | 2023-02-09 | 2023-06-28 |
 | [La Pampara](https://open.spotify.com/track/5CMYuOwdkbwCGz9QY1nII6) | [Rochy RD](https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP), [El Chuky](https://open.spotify.com/artist/5wws3asJLgzs8bgsvUcp0p) | [Rochy Rd](https://open.spotify.com/album/3nFTTMmBmtZx3z9sJjUN9W) | 3:47 | 2022-03-18 | 2023-02-25 |
 | [La Peluca](https://open.spotify.com/track/3nesIPNFvUKprXRlhe5f9W) | [Ceky Viciny](https://open.spotify.com/artist/5UopXhshFFqRIMfeZrBclq), [Otro Idioma](https://open.spotify.com/artist/6X4HFvPmjg8jzBFdZ51cBy) | [La Peluca](https://open.spotify.com/album/7r1DnaoFhRfGKV6y5P1ni3) | 3:15 | 2022-03-18 | 2023-08-04 |

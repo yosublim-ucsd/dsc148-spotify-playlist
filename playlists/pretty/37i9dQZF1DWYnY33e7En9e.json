@@ -1,12 +1,12 @@
 {
   "description": "Hits of the 70s, 80s and 90s for gamers who love things retro.",
-  "num_followers": 448465,
+  "num_followers": 448366,
   "original_name": "Retro Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxmNjhhM2E1YmI1YWE3MWE5NDIzMWQ3YjczN2IyZjgyYzI4Mjk3ODcz",
+  "snapshot_id": "MCwyOGFiYjFkM2RjMTU5ZTc2M2ZiNWUwNDc3NzAxNDMxNWJhOWRhZDEx",
   "tracks": [
     {
       "added_at": "2023-01-18 15:06:49",
@@ -223,22 +223,6 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "Hotel California (2013 Remaster)",
-        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 391376,
-      "name": "Hotel California - 2013 Remaster",
-      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
-    },
-    {
-      "added_at": "2023-01-18 15:06:49",
-      "album": {
         "name": "Californication (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 329733,
       "name": "Californication",
       "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox"
+    },
+    {
+      "added_at": "2023-01-18 15:06:49",
+      "album": {
+        "name": "Hotel California (2013 Remaster)",
+        "url": "https://open.spotify.com/album/2widuo17g5CEC66IbzveRu"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 391376,
+      "name": "Hotel California - 2013 Remaster",
+      "url": "https://open.spotify.com/track/40riOy7x9W7GXjyGp4pjAv"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -635,22 +635,6 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "Ladies And Gentlemen... The Best Of George Michael",
-        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 300106,
-      "name": "Careless Whisper",
-      "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
-    },
-    {
-      "added_at": "2023-01-18 15:06:49",
-      "album": {
         "name": "So Tonight That I Might See",
         "url": "https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA"
       },
@@ -667,18 +651,18 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "Thriller 25 Super Deluxe Edition",
-        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
+        "name": "Ladies And Gentlemen... The Best Of George Michael",
+        "url": "https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl"
       },
       "artists": [
         {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 293826,
-      "name": "Billie Jean",
-      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
+      "duration_ms": 300106,
+      "name": "Careless Whisper",
+      "url": "https://open.spotify.com/track/4jDmJ51x1o9NZB5Nxxc7gY"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -699,18 +683,18 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "Blowin' Your Mind!",
-        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+        "name": "Thriller 25 Super Deluxe Edition",
+        "url": "https://open.spotify.com/album/1C2h7mLntPSeVYciMRTF4a"
       },
       "artists": [
         {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
         }
       ],
-      "duration_ms": 183306,
-      "name": "Brown Eyed Girl",
-      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
+      "duration_ms": 293826,
+      "name": "Billie Jean",
+      "url": "https://open.spotify.com/track/5ChkMS8OtdzJeqyybCc9R5"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -727,6 +711,22 @@
       "duration_ms": 208680,
       "name": "Kiss Me",
       "url": "https://open.spotify.com/track/754kgU5rWscRTfvlsuEwFp"
+    },
+    {
+      "added_at": "2023-01-18 15:06:49",
+      "album": {
+        "name": "Blowin' Your Mind!",
+        "url": "https://open.spotify.com/album/7dsWupQRlFuhG8FGiQAUjC"
+      },
+      "artists": [
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
+        }
+      ],
+      "duration_ms": 183306,
+      "name": "Brown Eyed Girl",
+      "url": "https://open.spotify.com/track/3yrSvpt2l1xhsV9Em88Pul"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -975,22 +975,6 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "Eagles (2013 Remaster)",
-        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
-      },
-      "artists": [
-        {
-          "name": "Eagles",
-          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
-        }
-      ],
-      "duration_ms": 211577,
-      "name": "Take It Easy - 2013 Remaster",
-      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
-    },
-    {
-      "added_at": "2023-01-18 15:06:49",
-      "album": {
         "name": "2001",
         "url": "https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N"
       },
@@ -1007,6 +991,22 @@
       "duration_ms": 222293,
       "name": "Forgot About Dre",
       "url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
+    },
+    {
+      "added_at": "2023-01-18 15:06:49",
+      "album": {
+        "name": "Eagles (2013 Remaster)",
+        "url": "https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7"
+      },
+      "artists": [
+        {
+          "name": "Eagles",
+          "url": "https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL"
+        }
+      ],
+      "duration_ms": 211577,
+      "name": "Take It Easy - 2013 Remaster",
+      "url": "https://open.spotify.com/track/4yugZvBYaoREkJKtbG08Qr"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
+        "name": "Led Zeppelin III (Remaster)",
+        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
+      },
+      "artists": [
+        {
+          "name": "Led Zeppelin",
+          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Immigrant Song - Remaster",
+      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
+    },
+    {
+      "added_at": "2023-01-18 15:06:49",
+      "album": {
         "name": "Come Into My Life (The Album)",
         "url": "https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe"
       },
@@ -1143,38 +1159,6 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "Led Zeppelin III (Remaster)",
-        "url": "https://open.spotify.com/album/6P5QHz4XtxOmS5EuiGIPut"
-      },
-      "artists": [
-        {
-          "name": "Led Zeppelin",
-          "url": "https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "Immigrant Song - Remaster",
-      "url": "https://open.spotify.com/track/78lgmZwycJ3nzsdgmPPGNx"
-    },
-    {
-      "added_at": "2023-01-18 15:06:49",
-      "album": {
-        "name": "Menagerie",
-        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
-      },
-      "artists": [
-        {
-          "name": "Bill Withers",
-          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
-        }
-      ],
-      "duration_ms": 254560,
-      "name": "Lovely Day",
-      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
-    },
-    {
-      "added_at": "2023-01-18 15:06:49",
-      "album": {
         "name": "In Utero (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6ohX7moZZnF1FwYrli1OJ6"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 270333,
       "name": "Nothing's Gonna Stop Us Now",
       "url": "https://open.spotify.com/track/3X7uFMzJrEE0sxn62qd8Ch"
+    },
+    {
+      "added_at": "2023-01-18 15:06:49",
+      "album": {
+        "name": "Menagerie",
+        "url": "https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c"
+      },
+      "artists": [
+        {
+          "name": "Bill Withers",
+          "url": "https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj"
+        }
+      ],
+      "duration_ms": 254560,
+      "name": "Lovely Day",
+      "url": "https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "Sublime",
-        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
-      },
-      "artists": [
-        {
-          "name": "Sublime",
-          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Santeria",
-      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
-    },
-    {
-      "added_at": "2023-01-18 15:06:49",
-      "album": {
         "name": "Fleetwood Mac",
         "url": "https://open.spotify.com/album/5VIQ3VaAoRKOEpJ0fewdvo"
       },
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+        "name": "Sublime",
+        "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
       "artists": [
         {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+          "name": "Sublime",
+          "url": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J"
         }
       ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
+      "duration_ms": 182746,
+      "name": "Santeria",
+      "url": "https://open.spotify.com/track/2hnMS47jN0etwvFPzYk11f"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -1347,6 +1331,22 @@
       "duration_ms": 284026,
       "name": "Kickstart My Heart",
       "url": "https://open.spotify.com/track/6imjJij6aCM0IbbODUzJQn"
+    },
+    {
+      "added_at": "2023-01-18 15:06:49",
+      "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "Tea For The Tillerman (Remastered 2020)",
-        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
-      },
-      "artists": [
-        {
-          "name": "Yusuf / Cat Stevens",
-          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
-        }
-      ],
-      "duration_ms": 200560,
-      "name": "Wild World",
-      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
-    },
-    {
-      "added_at": "2023-01-18 15:06:49",
-      "album": {
         "name": "Lethal Injection",
         "url": "https://open.spotify.com/album/7JlCbNWZszAdVKZdtHFQ5p"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 232773,
       "name": "You Know How We Do It",
       "url": "https://open.spotify.com/track/2Ih217RCGAmyQR68Nn7Cqo"
+    },
+    {
+      "added_at": "2023-01-18 15:06:49",
+      "album": {
+        "name": "Tea For The Tillerman (Remastered 2020)",
+        "url": "https://open.spotify.com/album/44VxbAytHpVi3Rq8hRhild"
+      },
+      "artists": [
+        {
+          "name": "Yusuf / Cat Stevens",
+          "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
+        }
+      ],
+      "duration_ms": 200560,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/7mjSHL2Eb0kAwiKbvNNyD9"
     },
     {
       "added_at": "2023-01-18 15:06:49",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2023-01-18 15:06:49",
       "album": {
-        "name": "The Writing's On The Wall",
-        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
-      },
-      "artists": [
-        {
-          "name": "Destiny's Child",
-          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
-        }
-      ],
-      "duration_ms": 271333,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
-    },
-    {
-      "added_at": "2023-01-18 15:06:49",
-      "album": {
         "name": "Dookie",
         "url": "https://open.spotify.com/album/4uG8q3GPuWHQlRbswMIRS6"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 178000,
       "name": "When I Come Around",
       "url": "https://open.spotify.com/track/1Dr1fXbc2IxaK1Mu8P8Khz"
+    },
+    {
+      "added_at": "2023-01-18 15:06:49",
+      "album": {
+        "name": "The Writing's On The Wall",
+        "url": "https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG"
+      },
+      "artists": [
+        {
+          "name": "Destiny's Child",
+          "url": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+        }
+      ],
+      "duration_ms": 271333,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/7H6ev70Weq6DdpZyyTmUXk"
     },
     {
       "added_at": "2023-01-18 15:06:49",

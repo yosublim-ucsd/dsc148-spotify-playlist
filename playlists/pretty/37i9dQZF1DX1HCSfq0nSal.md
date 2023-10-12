@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Darell
 
-[Spotify](https://open.spotify.com/user/spotify) - 776,584 likes - 45 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 776,837 likes - 45 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 | 10 | [Buenas](https://open.spotify.com/track/4sDpxaulErbJ9NBaJDC7cJ) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Buenas](https://open.spotify.com/album/2FRQH7JReYGUWXX86Pr6ag) | 3:12 |
 | 11 | [Dembow y Reggaeton](https://open.spotify.com/track/3OB01aM0Nf7tWds1TLEL3j) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [DEMBO$$](https://open.spotify.com/album/7bp8TEGxs1Q8bCB3HbzghV) | 4:08 |
 | 12 | [CARNET](https://open.spotify.com/track/1GKEH7oWPx8xDlDrggaEnJ) | [Caleb Calloway](https://open.spotify.com/artist/11usEAQkFE6UJwsyAKkchi), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [CARNET](https://open.spotify.com/album/0rmHm455rHhQamdptQjYn3) | 2:19 |
-| 13 | [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/6pdo6bxRLh7ELtuchVgyjx) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/4qNUVazTslSUfkTycl0Axs) | 2:50 |
+| 13 | [GANGSTERS Y PISTOLAS](https://open.spotify.com/track/2GOnlLJqDMvlXlEqD8AQqn) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz) | [MOR, No Le Temas a La Oscuridad](https://open.spotify.com/album/16ScBmKm5WA3RwvTqiQlJd) | 2:50 |
 | 14 | [REINA](https://open.spotify.com/track/0QRHOAeU8JRaVVn3UoZBih) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Saiko](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [ESTRELLA](https://open.spotify.com/album/0SoJvPHbKVhvmVJOp3kzp3) | 3:31 |
 | 15 | [GHETTO PRINCESS](https://open.spotify.com/track/6GgpoeDugrrXl06NIsE1Bo) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [GHETTO PRINCESS](https://open.spotify.com/album/5I5GpNMS30V1a23j2lKl2a) | 2:41 |
 | 16 | [FERXXO 151](https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [ICON](https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD) | [FERXXO 151](https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq) | 3:15 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 | 44 | [El Cielo](https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [El Cielo](https://open.spotify.com/album/6xEYRYXMWfcC7xLOU10O3f) | 3:11 |
 | 45 | [Mami Chula](https://open.spotify.com/track/4aJzxp3gimtAdgJn3DL776) | [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K) | [Mami Chula](https://open.spotify.com/album/7weNe4OIBROOCcMEOMeNlS) | 3:40 |
 
-Snapshot ID: `MCxmNTE2OWEyNjc4N2RiODI3Y2ZkNTJiOGEyYWEyMThhN2I2NTJkNDNl`
+Snapshot ID: `MCwzNDIxMjYxMTMyODdlNmIyNDQzZTAyYjJhOGIwYTQ4YmE5YWVjYzA0`

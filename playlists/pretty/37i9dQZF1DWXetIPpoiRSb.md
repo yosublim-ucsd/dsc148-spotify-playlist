@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > The freshest pop sounds\. Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,757 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,469 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 40 | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/track/22VHOlVYBqytsrAqV8yXBK) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Dial Drunk \(with Post Malone\)](https://open.spotify.com/album/4XahqkOmEsKLKEhBpX8DAe) | 3:33 |
 | 41 | [Rush](https://open.spotify.com/track/3xIMkM5LgbVDkpO74O3Np3) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Rush](https://open.spotify.com/album/35N2XoH2rveqI5FAB30HSf) | 2:36 |
 | 42 | [lie](https://open.spotify.com/track/2GQqCyDCD0Z7BL2otJkFRh) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [lie](https://open.spotify.com/album/6uy43Z8UWtPQS7tnddxU8G) | 3:34 |
-| 43 | [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/54Rx1BkEvkkJuNQZHIPw4n) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Essence \(feat\. Super Computer\)](https://open.spotify.com/album/38PJKHJDWKR0h9ITcnyeHm) | 2:48 |
+| 43 | [Essence \(feat\. Super Computer\)](https://open.spotify.com/track/3YQHgTo0898GHXRC2byH52) | [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe), [Super Computer](https://open.spotify.com/artist/0TcrI5Iv3yrdN36EhOhh3N) | [Alone In A Crowd](https://open.spotify.com/album/0x6KKhlAIZsuU6SVgSX9E9) | 2:48 |
 | 44 | [Big One](https://open.spotify.com/track/6PfFBEztSncke8MSCohK26) | [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [Big One](https://open.spotify.com/album/1ztl6Ly7lUmGWX2wJrpu9h) | 1:51 |
 | 45 | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP) | 2:54 |
 | 46 | [the grudge](https://open.spotify.com/track/3Nl5OkkmS5DaBZvuYofpAt) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:09 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 79 | [Stop Thinking About It](https://open.spotify.com/track/6Pmg5MkcA6xc4tuUKGLgB6) | [Sophia Veraz](https://open.spotify.com/artist/5MCKCM0EPBoVHTJCGOcybJ) | [Stop Thinking About It](https://open.spotify.com/album/0FzcialvWMP9Tbf2G6voU2) | 3:06 |
 | 80 | [eyes don't lie](https://open.spotify.com/track/2GWCZJWundoYi5IloWIgTX) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [eyes don't lie](https://open.spotify.com/album/55XQzGrXvQgpVWAn7mL7CT) | 2:30 |
 
-Snapshot ID: `MCxmZWRhMDNlYmQ0NDAxYjc5YzliODFhMjI5MjQwNzcxNDM3MTc2Nzcw`
+Snapshot ID: `MCw0YTlkMTY1Yjc4NzcyYzIwOGE5ODFhNTg0NjBmYzA3Njk2ODMxNTgz`

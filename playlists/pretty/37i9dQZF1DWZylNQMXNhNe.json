@@ -1,12 +1,12 @@
 {
   "description": "Os maiores hits e novidades de artistas LGBTQIA+ est\u00e3o aqui. Foto: Gloria Groove",
-  "num_followers": 224355,
+  "num_followers": 224236,
   "original_name": "AUGE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxNTM4ZWEyNjA0YzU3MTAwMTg2MjY2MThmMDFmYzYyOTMxNzBlMjA3",
+  "snapshot_id": "MCw2ZGM4YjI4ZWMwOTJiM2Q4MzZjMTBhMjFiYTljYWQ4YzU4ZTI5M2Rl",
   "tracks": [
     {
       "added_at": "2023-10-06 05:49:07",
@@ -747,26 +747,6 @@
     {
       "added_at": "2023-10-06 05:49:07",
       "album": {
-        "name": "Traviarcado",
-        "url": "https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y"
-      },
-      "artists": [
-        {
-          "name": "Bixarte",
-          "url": "https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o"
-        },
-        {
-          "name": "Urias",
-          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
-        }
-      ],
-      "duration_ms": 142722,
-      "name": "Pitbull Sem Coleira",
-      "url": "https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA"
-    },
-    {
-      "added_at": "2023-10-06 05:49:07",
-      "album": {
         "name": "BOROGOD\u00d3 pt.1",
         "url": "https://open.spotify.com/album/0KOlWmzLOTtPnmM8WAA5t2"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 169411,
       "name": "S\u00f3cia",
       "url": "https://open.spotify.com/track/6BsAf92aj9qKt2SdN8972M"
+    },
+    {
+      "added_at": "2023-10-06 05:49:07",
+      "album": {
+        "name": "Traviarcado",
+        "url": "https://open.spotify.com/album/29JRrndgwUbbGDjyEwre8y"
+      },
+      "artists": [
+        {
+          "name": "Bixarte",
+          "url": "https://open.spotify.com/artist/3Fpst9Ng2gdZjD0xfIla3o"
+        },
+        {
+          "name": "Urias",
+          "url": "https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs"
+        }
+      ],
+      "duration_ms": 142722,
+      "name": "Pitbull Sem Coleira",
+      "url": "https://open.spotify.com/track/01BOygx1zefZHjpmgkgqIA"
     },
     {
       "added_at": "2023-10-06 05:49:07",

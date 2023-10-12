@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 > 前週大きく注目を浴びた楽曲。ネクスト・ヒットをいち早く。 cover: Drake
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,365 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,390 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 23 | [Off The Record](https://open.spotify.com/track/3G7MgLuWLzUJQflWOCDZit) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Off The Record](https://open.spotify.com/album/7qch1xWGWuU5VxZEYBF5KW) | 3:08 |
 | 24 | [存在証明](https://open.spotify.com/track/0r1o3u1hfslfqiAu5ZA51O) | [KID PHENOMENON from EXILE TRIBE](https://open.spotify.com/artist/0fDuN5RNp3ysq68Zdz17MV) | [存在証明](https://open.spotify.com/album/5ltpF1aQJAWeuEIBgpU6dK) | 3:27 |
 | 25 | [BASH BASH \- feat\. JP THE WAVY & Awich](https://open.spotify.com/track/3du1NqFvvqJhqzssK5GPAB) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Awich](https://open.spotify.com/artist/0FnDCrmcQT8qz5TEsZIYw5) | [19](https://open.spotify.com/album/284soVdmAHfn5XhcDqSgbm) | 3:07 |
-| 26 | [ミックス](https://open.spotify.com/track/5sAf1YOrqP7t4uMng90FWR) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [ミックス](https://open.spotify.com/album/2IrEhqLiVmJZRgSY4W0djK) | 3:29 |
+| 26 | [Mix](https://open.spotify.com/track/0ObVtzwc7YEuMjDQSTQyCW) | [マルシィ](https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV) | [Mix](https://open.spotify.com/album/00p5rwTYsV62tV3RXRYZAO) | 3:29 |
 | 27 | [Amazing](https://open.spotify.com/track/4fUMgL19kixzHhrttFZXsD) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 4:05 |
 | 28 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 |
 | 29 | [3D \(feat\. Jack Harlow\) \(A\. G\. Cook Remix\)](https://open.spotify.com/track/7fQKDpB4i0hiQacjVCXVU2) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [3D : The Remixes](https://open.spotify.com/album/0fJ0beklzFwoBv01U8792s) | 3:08 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 99 | [愛の囚人たち](https://open.spotify.com/track/4E8aWkJkqZjph3XM6p5ooS) | [ルイ](https://open.spotify.com/artist/11YYwcMwOT9LS7GA4CO4R8) | [愛の囚人たち](https://open.spotify.com/album/2sGCP5Zmup2JnMOBCnUKrZ) | 4:41 |
 | 100 | [DISCONNECT](https://open.spotify.com/track/5xm3g16LLPV5kKtMa6u2kM) | [BLACK BERRY TIMES](https://open.spotify.com/artist/4J8XXHJfFASivijCfQwIj7) | [DISCONNECT](https://open.spotify.com/album/4IMSWtZdzt4PoUoi3Y4avI) | 2:49 |
 
-Snapshot ID: `MCxiMmJkNzYyZDNjNjc1ZTdmZmNhZmYzZjNkYTE5NGM0ZTM4MjRmYjEw`
+Snapshot ID: `MCw0ZWEyNWUyYTcyYjQ2YzZhOTBlMWQ1NTZhOWQ4OWMzZmUxOGVlZDI2`

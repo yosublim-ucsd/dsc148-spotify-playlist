@@ -1,12 +1,12 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 41223,
+  "num_followers": 41241,
   "original_name": "Legendary Labels: Verve Records",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwxMWZhZTdiZmZkZWRmYWYwYjE1ZjgxOGIyMDM4ZjExYTMxNTMxMjNk",
+  "snapshot_id": "MCwyZjYyN2YzYzhmNzkwN2RhYjMwZDFkZjBhZDUzODAxMmJmZTRjODIw",
   "tracks": [
     {
       "added_at": "2019-10-04 16:01:14",
@@ -575,22 +575,18 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
-        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
+        "name": "Ellis In Wonderland",
+        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
       },
       "artists": [
         {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        },
-        {
-          "name": "Paul Desmond Quartet",
-          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
+          "name": "Herb Ellis",
+          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
         }
       ],
-      "duration_ms": 345920,
-      "name": "Fall Out",
-      "url": "https://open.spotify.com/track/2RgIbUm4wAUhR5s78O8OoI"
+      "duration_ms": 224320,
+      "name": "It Could Happen To You",
+      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -615,18 +611,22 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "Ellis In Wonderland",
-        "url": "https://open.spotify.com/album/0eoeuhP2vaqXF05wiDTTWP"
+        "name": "Gerry Mulligan - Paul Desmond Quartet / Blues In Time",
+        "url": "https://open.spotify.com/album/4IUNUxPQYA2AglEfqDYogv"
       },
       "artists": [
         {
-          "name": "Herb Ellis",
-          "url": "https://open.spotify.com/artist/3cE7UG46bdFd8gHHgzyQEz"
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        },
+        {
+          "name": "Paul Desmond Quartet",
+          "url": "https://open.spotify.com/artist/7DhtcH8dO2bHDqRyVt0lVc"
         }
       ],
-      "duration_ms": 224320,
-      "name": "It Could Happen To You",
-      "url": "https://open.spotify.com/track/7ns8zu3jKepR1oed6TvglA"
+      "duration_ms": 345920,
+      "name": "Fall Out",
+      "url": "https://open.spotify.com/track/2RgIbUm4wAUhR5s78O8OoI"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -863,18 +863,18 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "The Argo, Verve And Impulse Big Band Studio Sessions",
-        "url": "https://open.spotify.com/album/55ECoXlUS7fIjkCrAfniS7"
+        "name": "Motion",
+        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
       },
       "artists": [
         {
-          "name": "Oliver Nelson",
-          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
         }
       ],
-      "duration_ms": 251640,
-      "name": "Miss Fine",
-      "url": "https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ"
+      "duration_ms": 457186,
+      "name": "All Of Me",
+      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -895,18 +895,18 @@
     {
       "added_at": "2019-10-04 16:01:14",
       "album": {
-        "name": "Motion",
-        "url": "https://open.spotify.com/album/5eREwMI0CzvPOH8V2HZZDU"
+        "name": "The Argo, Verve And Impulse Big Band Studio Sessions",
+        "url": "https://open.spotify.com/album/55ECoXlUS7fIjkCrAfniS7"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+          "name": "Oliver Nelson",
+          "url": "https://open.spotify.com/artist/2nQKUeZeleLGNsJj6WLUXN"
         }
       ],
-      "duration_ms": 457186,
-      "name": "All Of Me",
-      "url": "https://open.spotify.com/track/3Fa1u9uDaAvLq77HsS4yuM"
+      "duration_ms": 251640,
+      "name": "Miss Fine",
+      "url": "https://open.spotify.com/track/5BlMIbEVcF8JUJ49pRtYKQ"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -971,6 +971,22 @@
       "duration_ms": 209226,
       "name": "Movin' Wes - Pt. 1",
       "url": "https://open.spotify.com/track/5uwbSwv7uRUEMEy3YkqwrZ"
+    },
+    {
+      "added_at": "2019-10-02 08:54:10",
+      "album": {
+        "name": "An Image: Lee Konitz With Strings",
+        "url": "https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN"
+      },
+      "artists": [
+        {
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        }
+      ],
+      "duration_ms": 319666,
+      "name": "Round Midnight",
+      "url": "https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2019-10-02 08:54:10",
       "album": {
-        "name": "An Image: Lee Konitz With Strings",
-        "url": "https://open.spotify.com/album/3uW4dhafeqWlQrN9bXE3YN"
+        "name": "April In Paris: The Genius Of Charlie Parker #2",
+        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+          "name": "Charlie Parker",
+          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
         }
       ],
-      "duration_ms": 319666,
-      "name": "Round Midnight",
-      "url": "https://open.spotify.com/track/7LzDBgmMFhfcqPaYBTJoj4"
+      "duration_ms": 209146,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ"
     },
     {
       "added_at": "2019-10-02 08:54:10",
@@ -1079,22 +1095,6 @@
       "duration_ms": 270666,
       "name": "Let's Go Back To The Waltz",
       "url": "https://open.spotify.com/track/2JJJzJ5E8wx3H5CwuxZO0f"
-    },
-    {
-      "added_at": "2019-10-02 08:54:10",
-      "album": {
-        "name": "April In Paris: The Genius Of Charlie Parker #2",
-        "url": "https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ"
-      },
-      "artists": [
-        {
-          "name": "Charlie Parker",
-          "url": "https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC"
-        }
-      ],
-      "duration_ms": 209146,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/3Erex5JpPOWHUMY06cVPEJ"
     },
     {
       "added_at": "2019-10-02 08:54:10",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover: Ryan Gosling in Barbie
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,351 likes - 85 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,394 likes - 85 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 84 | [Near You](https://open.spotify.com/track/1rRN1xidonGamn3WDOVzhO) | [Caroline Kay](https://open.spotify.com/artist/57REoZVHv9nnbBPaZW2sAw) | [Overnight](https://open.spotify.com/album/7bXRwVIpeNmyU5d25AIEQu) | 4:03 |
 | 85 | [Company \- Live](https://open.spotify.com/track/1jcLzUX5Qmj1rmb77zVbtn) | [Stephen Sondheim’s Old Friends Original West End Concert Company](https://open.spotify.com/artist/5T4MTIb5xdglLaRsuuE2qk) | [Stephen Sondheim's Old Friends: A Celebration \(Live at the Sondheim Theatre\)](https://open.spotify.com/album/3lHyCiDs7pB6EPpjRFl0w8) | 1:38 |
 
-Snapshot ID: `MCxlYzhkYjExNjFmOWNmN2U5NmM4MzkxMGE1YWYzMmYwY2M0NmQ5ODUx`
+Snapshot ID: `MCw0ZDY4MzY0Y2Q5MWQ4ZWY0NzZjMjUwNmRiNmRjYTIxNTA1NmY1Njkw`

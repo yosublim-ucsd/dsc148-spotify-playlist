@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 
 > Místico y amazónico..\. Este es el sonido de latinoamérica\. Foto: DNGDNGDNG
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,877 likes - 60 songs - 4 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,330 likes - 60 songs - 4 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXacNXCQqbCEI.md) - [plain]
 | 54 | [Soma](https://open.spotify.com/track/1qA2L50nbrpDv9b53ifP88) | [Maajo](https://open.spotify.com/artist/1CHnBSP2xS4bRyHRenc5aO) | [Kuru Kuru](https://open.spotify.com/album/1VtknfjcZGa4thCJt9bcaP) | 5:11 |
 | 55 | [El Quemado](https://open.spotify.com/track/5W5S8hUx2LHauozu4zJMji) | [Federico Estevez](https://open.spotify.com/artist/78wJyJntuNWAPG0FbN8k41), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [De Aquí Hasta Aquí](https://open.spotify.com/album/3zcF5WOEhG12wtu4VFUNBY) | 3:16 |
 | 56 | [Pachamama](https://open.spotify.com/track/5wETbMw6PuupavwJ5ERA7B) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Claudia Manzo](https://open.spotify.com/artist/3CMX8YNfpVGTCUudvZPDpg) | [ATO 3: América do Sol](https://open.spotify.com/album/2h8ukNP8AiKigfNB2PuhPC) | 2:37 |
-| 57 | [Pua](https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Semillero](https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4) | 5:48 |
-| 58 | [Bye Bye](https://open.spotify.com/track/4IfzEViG2rW1mhZrxN45D1) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Bye Bye](https://open.spotify.com/album/2wiDl7atqcgGip0yIZQf2g) | 4:31 |
+| 57 | [Bye Bye](https://open.spotify.com/track/4IfzEViG2rW1mhZrxN45D1) | [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Bye Bye](https://open.spotify.com/album/2wiDl7atqcgGip0yIZQf2g) | 4:31 |
+| 58 | [Pua](https://open.spotify.com/track/4b3bYGxsCzLnPwQ5CyRlQX) | [Dengue Dengue Dengue](https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG), [Penya](https://open.spotify.com/artist/33E3A9UvKfjQno9m6S5xwU) | [Semillero](https://open.spotify.com/album/4yjnNPa3bH1Vwrepclo6d4) | 5:48 |
 | 59 | [Muíño](https://open.spotify.com/track/6zAuPi2fZsUYgXMIozkowv) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS) | [Solpor](https://open.spotify.com/album/2q1DwJpZOWhNW0NFYwS8rs) | 5:19 |
 | 60 | [Tú Me Llevas](https://open.spotify.com/track/2aC2w4iVxpRjbUd9BDIa2y) | [MOÜGLI](https://open.spotify.com/artist/786qoKu8y9vQHdegoxNJn9) | [Tú Me Llevas](https://open.spotify.com/album/4JjieslqBeHEzoKD9259l0) | 4:23 |
 
-Snapshot ID: `MCxiYTI0ODg0YmI2NjM0MTIzOTcxYzczZWIxNWE1ZDg2ZjEwOWE2MDE1`
+Snapshot ID: `MCwyM2FkZDllNzRiOWJmMmMwN2ZiNTBjNThmNWM4ZWQzNjdlNTRiZDQ3`

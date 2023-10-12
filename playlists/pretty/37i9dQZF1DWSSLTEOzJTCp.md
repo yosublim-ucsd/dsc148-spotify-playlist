@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 
 > why is this game so hard goddamnit \#SpotifyWrapped
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,266 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,305 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 25 | [A Drug From God](https://open.spotify.com/track/4skbQNtyjy8A7mo8oqe2oD) | [Chris Lake](https://open.spotify.com/artist/5Igpc9iLZ3YGtKeYfSrrOE), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab), [NPC](https://open.spotify.com/artist/3YEsNNbHlb88K9QCog4R0Y) | [A Drug From God](https://open.spotify.com/album/6tZzL3lTVgWhJb2cE2jz1f) | 3:12 |
 | 26 | [Color Of Your Soul](https://open.spotify.com/track/4rhooL7Cj0YkvIC4wGL7Jo) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [Color Of Your Soul](https://open.spotify.com/album/6o6palGHy3IqwNGXPQDYXn) | 3:22 |
 | 27 | [Mercy \(2022 Edit\)](https://open.spotify.com/track/4NmNw3RnHtp6t6M0DjP1v3) | [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [MØ](https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv) | [Anomaly](https://open.spotify.com/album/7J8SSnGauta2Uy7HKhEDMA) | 3:17 |
-| 28 | [Lay Me Down](https://open.spotify.com/track/3GKN5PYjlS7baPtrbdLtev) | [Ranji](https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p), [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Berg](https://open.spotify.com/artist/2r7sssoF6zZbPOG0U0YOem) | [Lay Me Down](https://open.spotify.com/album/3WKRpjVkajtN99InvxdLwX) | 3:30 |
-| 29 | [Shady Intentions](https://open.spotify.com/track/1dldHTwGWbTXgGmflUQlbC) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 3:05 |
+| 28 | [Shady Intentions](https://open.spotify.com/track/1dldHTwGWbTXgGmflUQlbC) | [NGHTMRE](https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF), [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Tori Levett](https://open.spotify.com/artist/0VXSswAMDSlObSftPEkPqL) | [DRMVRSE](https://open.spotify.com/album/11pjcRObX2pkqo9oczv5Gb) | 3:05 |
+| 29 | [Lay Me Down](https://open.spotify.com/track/3GKN5PYjlS7baPtrbdLtev) | [Ranji](https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p), [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Berg](https://open.spotify.com/artist/2r7sssoF6zZbPOG0U0YOem) | [Lay Me Down](https://open.spotify.com/album/3WKRpjVkajtN99InvxdLwX) | 3:30 |
 | 30 | [Falling Apart](https://open.spotify.com/track/5TQDtOeQ3IU2VqKbCn6Rwq) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Falling Apart](https://open.spotify.com/album/5ciCvi9pccBxbpOBwfHYom) | 3:58 |
 | 31 | [Highest Building \(feat\. Oklou\)](https://open.spotify.com/track/30afVBIbhnWYMU757iEleJ) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer), [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw) | [Palaces](https://open.spotify.com/album/2V1L71NRmzGYsqOqnjGimb) | 3:36 |
 | 32 | [FUNKONAUT](https://open.spotify.com/track/0fy3MozJBrM858gEIo3Yec) | [GRiZ](https://open.spotify.com/artist/25oLRSUjJk4YHNUsQXk7Ut), [LSDREAM](https://open.spotify.com/artist/3Hrqjumb6WHg2aAUHJHLND) | [FUNKONAUT](https://open.spotify.com/album/4Y2TV476edG8lB3h6vIKYZ) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSSLTEOzJTCp.md) - [plain]
 | 49 | [Deathstalker](https://open.spotify.com/track/3jToiObyGXOLaK5Xo15GZc) | [Black Tiger Sex Machine](https://open.spotify.com/artist/0o9qzOHuHkGZ3xMFKpMFkC), [YOOKiE](https://open.spotify.com/artist/26RHyTSsP5JoS4udf8txU5) | [Once Upon A Time In Cyberworld](https://open.spotify.com/album/7lKY2k6pNBzNlC19WIHXxS) | 3:45 |
 | 50 | [Desperado](https://open.spotify.com/track/2SW0q2M7fYw27ZZmxGGToo) | [Zomboy](https://open.spotify.com/artist/0ycHhPwPvoaO4VGzmMnXGq) | [Desperado](https://open.spotify.com/album/378W0F6qYxBYkINDywxZz6) | 3:53 |
 
-Snapshot ID: `MCw3Njg3ZTRkNTdhZWQxZWU4NmNhMmM4ZTIwODcxZmMzNTBjNjI2YWQ4`
+Snapshot ID: `MCxjZGE3N2Q1MzQ1ZmNhN2JhN2E2MjExZjMyYmQ0Njk2NTQ4NDA1Y2Jk`

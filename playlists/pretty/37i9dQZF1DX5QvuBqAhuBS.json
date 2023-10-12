@@ -1,12 +1,12 @@
 {
   "description": "The soundtrack to mall walking... once upon a time.",
-  "num_followers": 20719,
+  "num_followers": 20754,
   "original_name": "Mall Anthems",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCwyM2VmZWU1YjU3NGVmZTM1YTA2NGE1N2IxNzQ2Y2ZhZDE0MDI0MGFl",
+  "snapshot_id": "MCw0ODU5ZWVlOWYxYzdjNTc3NDYyMWQ0MzliYjUzZmE0MjBjMzJmOTUw",
   "tracks": [
     {
       "added_at": "2023-01-18 04:15:39",
@@ -771,22 +771,6 @@
     {
       "added_at": "2023-01-18 04:15:39",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
-    },
-    {
-      "added_at": "2023-01-18 04:15:39",
-      "album": {
         "name": "Know-It-All",
         "url": "https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu"
       },
@@ -803,18 +787,34 @@
     {
       "added_at": "2023-01-18 04:15:39",
       "album": {
-        "name": "In Between Dreams",
-        "url": "https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo"
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
       },
       "artists": [
         {
-          "name": "Jack Johnson",
-          "url": "https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3"
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
         }
       ],
-      "duration_ms": 191906,
-      "name": "Banana Pancakes",
-      "url": "https://open.spotify.com/track/451GvHwY99NKV4zdKPRWmv"
+      "duration_ms": 229586,
+      "name": "Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
+    },
+    {
+      "added_at": "2023-01-18 04:15:39",
+      "album": {
+        "name": "Crazy Love",
+        "url": "https://open.spotify.com/album/3MXDonOIzrIrCh0HvlACyj"
+      },
+      "artists": [
+        {
+          "name": "Michael Bubl\u00e9",
+          "url": "https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3"
+        }
+      ],
+      "duration_ms": 244586,
+      "name": "Haven't Met You Yet",
+      "url": "https://open.spotify.com/track/4fIWvT19w9PR0VVBuPYpWA"
     }
   ],
   "unique_name": "Mall Anthems",

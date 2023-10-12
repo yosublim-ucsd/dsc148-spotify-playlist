@@ -4,7 +4,7 @@
 
 > Amapiano tracks to fuel your beast mode!
 
-132 songs - 13 hr 11 min
+133 songs - 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,8 @@
 | [John Wick](https://open.spotify.com/track/4nLJnkaFq9VNYVz1SxJsXi) | [De Mthuda](https://open.spotify.com/artist/1w2P5nNsO5W7FYq2Oui0cM), [Sir Trill](https://open.spotify.com/artist/4QkKUb73NVonTlAZaShsuY), [Da Muziqal Chef](https://open.spotify.com/artist/25uuaH9QdKIygoWTDzKuve) | [Ace Of Spades \(Reshuffle\)](https://open.spotify.com/album/2kE4dNChxoaS64Xdt6XLvu) | 6:56 | 2022-09-15 |  |
 | [Ka Valungu](https://open.spotify.com/track/5Yx3xbh3ob1TzcSkTZRYjT) | [Tebza De DJ](https://open.spotify.com/artist/6sPahgGNaNy7ZR6cGsdMez), [DJ Nomza The King](https://open.spotify.com/artist/0MyssvvIeY27nMCrwnMmie) | [Ka Valungu](https://open.spotify.com/album/34z8LKlCdoWpkwKLJK5XZU) | 5:00 | 2023-08-10 |  |
 | [Kancane](https://open.spotify.com/track/0dHswGoIHgWfHSraVv9mnq) | [Konke](https://open.spotify.com/artist/6y5EP3L2WblCQsc8iuGeP9), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Nkulee501](https://open.spotify.com/artist/6NiMv0ab5p3HfDO7H92H75), [Skroef 28](https://open.spotify.com/artist/1dmGmys2aPdJowwjy8IK3F), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Kancane](https://open.spotify.com/album/5ai1amA8bctv0ozwOTEncb) | 6:22 | 2023-04-27 |  |
-| [Ke Star \(feat\. Vigro Deep\)](https://open.spotify.com/track/7uhOIYLVWbBZ6ISBoyiMrl) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Sghubu Ses Excellent](https://open.spotify.com/album/5p367ruOCWHEsZ0qi9XQiG) | 7:13 | 2022-09-15 |  |
+| [Ke Star \(feat\. Vigro Deep\)](https://open.spotify.com/track/21vYZmoBTqM2upLQbkN2dV) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Blecke](https://open.spotify.com/album/7DFR6SIjNhiDiviaQfGho7) | 7:13 | 2023-10-05 |  |
+| [Ke Star \(feat\. Vigro Deep\)](https://open.spotify.com/track/7uhOIYLVWbBZ6ISBoyiMrl) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Vigro Deep](https://open.spotify.com/artist/2mF7ygWz9oyJ3L6ZPWlZVH) | [Sghubu Ses Excellent](https://open.spotify.com/album/5p367ruOCWHEsZ0qi9XQiG) | 7:13 | 2022-09-15 | 2023-10-12 |
 | [Khekheleza \(Dlala Dlala\)](https://open.spotify.com/track/183zjMwtPbSQjsE71Yrfoo) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [EeQue](https://open.spotify.com/artist/4VqCBSJ9fvJ1XDQUd7K2Ft), [Thama Tee](https://open.spotify.com/artist/2mncgdDLbh8nahtbvLZEcR) | [Khekheleza \(Dlala Dlala\)](https://open.spotify.com/album/0xzQmemSpxC1d1XmNAQY80) | 5:29 | 2023-06-15 |  |
 | [Khuza Gogo](https://open.spotify.com/track/7zJYbquljYLkTShkGhiBTX) | [DBN Gogo](https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l), [Blaqnick & MasterBlaq](https://open.spotify.com/artist/19qLtUQKu1KK3UrQtIoVXF), [Mpura](https://open.spotify.com/artist/14MDqT8L01RPVlJc0BqLLA), [Ama Avenger](https://open.spotify.com/artist/0WY9mEje7cFCoFiEM61QxK), [M.J](https://open.spotify.com/artist/7bbakrxOYa3yL8DDzjU98P) | [Khuza Gogo](https://open.spotify.com/album/0MsgO41XUWYMHJmByMOUxr) | 6:20 | 2022-09-15 | 2023-06-23 |
 | [Khuzeka](https://open.spotify.com/track/0Q82DVXkVKLYkxVHRoZNzP) | [Josiah De Disciple](https://open.spotify.com/artist/0Es1TBdBiQPIdwQWLJelte), [Jessica LM](https://open.spotify.com/artist/5WZdBHpyO28vPlpOV1izX0) | [Spirits Of Makoela \- Vol 2: The Reintroduction](https://open.spotify.com/album/2HbElAmOjQbkmj5yT3aXo6) | 7:24 | 2022-09-15 | 2022-10-31 |

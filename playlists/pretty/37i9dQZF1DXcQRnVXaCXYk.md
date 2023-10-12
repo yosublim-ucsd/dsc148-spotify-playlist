@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 
 > Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,592 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,578 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 6 | [Feather](https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [emails i can’t send fwd:](https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ) | 3:05 |
 | 7 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 |
 | 8 | [Fingers Crossed](https://open.spotify.com/track/4wH7ZoqgETaACS9BlUkvuY) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Mirror](https://open.spotify.com/album/1nEJIdxjw5Y6LBlWLGJzzT) | 2:55 |
-| 9 | [Lipstick](https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lipstick](https://open.spotify.com/album/0xNBKoAOgkjxgDsmoa5lpV) | 3:28 |
-| 10 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 |
+| 9 | [Let Somebody Go](https://open.spotify.com/track/4cGqn0E8JCSY9gQllQj4Mf) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Music Of The Spheres](https://open.spotify.com/album/06mXfvDsRZNfnsGZvX2zpb) | 4:01 |
+| 10 | [Lipstick](https://open.spotify.com/track/1q4BCQssFe74UJmnWt5lov) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7) | [Lipstick](https://open.spotify.com/album/0xNBKoAOgkjxgDsmoa5lpV) | 3:28 |
 | 11 | [Crush](https://open.spotify.com/track/00Apys6jYrWA0Bse9Yon6O) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm), [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Crush](https://open.spotify.com/album/4zhSWdHOuYGS7EoJiY6PaE) | 2:55 |
 | 12 | [Mariposa](https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD) | [Peach Tree Rascals](https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe) | [Mariposa](https://open.spotify.com/album/0vpGo2ef7QNOKQHtd7qZeh) | 3:30 |
 | 13 | [Oh Caroline](https://open.spotify.com/track/14dJexYlvd3t3XAtD1pYW1) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:32 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 33 | [Me, Myself & I](https://open.spotify.com/track/5Up89wdeUunZgEqD8VqOTx) | [Mae Muller](https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB) | [Me, Myself & I](https://open.spotify.com/album/7kH8gHFaH8GMjaybGYAPC8) | 2:53 |
 | 34 | [grapejuice](https://open.spotify.com/track/203Opyo455Pw6m4SCmQSVs) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [FIL BO RIVA](https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN) | [postcard from Berlin](https://open.spotify.com/album/4caQnHY05Lo2yrUmwgT6Ko) | 3:14 |
 | 35 | [Sometimes… \(with Daya & Earthgang\)](https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:42 |
-| 36 | [Spend The Night](https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Spend The Night](https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ) | 3:13 |
-| 37 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 |
+| 36 | [Love Of Your Life](https://open.spotify.com/track/5iqfKcEGKhoeWTNqmZPiu3) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Love Of Your Life](https://open.spotify.com/album/1CD5H4mrIKActXVG1L1tY7) | 3:16 |
+| 37 | [Spend The Night](https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Spend The Night](https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ) | 3:13 |
 | 38 | [Butterflies](https://open.spotify.com/track/3HPS8Nh23hatP7iZ3E7qEz) | [James TW](https://open.spotify.com/artist/0B3N0ZINFWvizfa8bKiz4v) | [Heartbeat Changes](https://open.spotify.com/album/4g26rVn6hs2J1JcAjeZF3H) | 3:17 |
 | 39 | [Love Is Back](https://open.spotify.com/track/2xAffWASC4yddor8wW037Z) | [Celeste](https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc) | [Love Is Back](https://open.spotify.com/album/5SzPWTx8cNuBeIpuo21bPk) | 4:16 |
 | 40 | [when words fail](https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA) | [Lara Samira](https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3) | [when words fail](https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU) | 2:56 |
@@ -73,10 +73,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 63 | [Love You've Lost](https://open.spotify.com/track/5tf4wfXUBQiYXNARdTA4ti) | [OSKA](https://open.spotify.com/artist/4aT85lix0NSNB6w9Ozzksq) | [Honeymoon Phase](https://open.spotify.com/album/5Nh3LSPD9v1zdV14xnnPqi) | 3:39 |
 | 64 | [Fire](https://open.spotify.com/track/6G9LJpRVIm1ClUpHN1qDhw) | [Dion Cooper](https://open.spotify.com/artist/3SWdZOUoid5GMfH0lFVuFj), [MAXINE](https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz) | [Fire](https://open.spotify.com/album/060akZiOXb8ohBxC0ztzuV) | 2:39 |
 | 65 | [Rest of My Life](https://open.spotify.com/track/2g74De6TJrKkXQ8BYBgE2v) | [JC Stewart](https://open.spotify.com/artist/2TAqN8fwfaKauvviN4pOsv) | [When The Light Hits The Room](https://open.spotify.com/album/06kphLH7OC3vCT8cyiniep) | 2:57 |
-| 66 | [Room for Another](https://open.spotify.com/track/0dcJ754zhmVd3qCwv7oW5g) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Room for Another](https://open.spotify.com/album/43Msz3c7nU5vKAsXPdRekM) | 3:05 |
-| 67 | [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 |
+| 66 | [Next To You](https://open.spotify.com/track/3UZqOA4wSDFnauAP63sRZO) | [Wild Youth](https://open.spotify.com/artist/4wZxKygv7GA7oGYzk6bpid) | [Next To You](https://open.spotify.com/album/4Y9sJ6dLSRR8EQHn6mXPDA) | 2:59 |
+| 67 | [Room for Another](https://open.spotify.com/track/0dcJ754zhmVd3qCwv7oW5g) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Room for Another](https://open.spotify.com/album/43Msz3c7nU5vKAsXPdRekM) | 3:05 |
 | 68 | [good](https://open.spotify.com/track/6kuR6cGKmGoplhELslv6Fw) | [Wrabel](https://open.spotify.com/artist/7r2uG6BlFXKcwmh9ItqlII) | [these words are all for you](https://open.spotify.com/album/2N9lFXoevPmnTNr8KhK5PS) | 3:28 |
 | 69 | [We Were Liars](https://open.spotify.com/track/6KkBc1KCGGPRZ8cEz6E5iG) | [Atticus Blue](https://open.spotify.com/artist/5jBXUdZ1qWKhy263U0nXPs) | [We Were Liars](https://open.spotify.com/album/1fYonUxSmAnow1U8f2vhUl) | 2:50 |
 | 70 | [Sorry That I Do That](https://open.spotify.com/track/2WxCovJaXPloCHw0yJ0Z0z) | [Anna Clendening](https://open.spotify.com/artist/2y9j8qUwBMGPYPQJJxmYzD) | [Evolve EP](https://open.spotify.com/album/4le148qEn3xi1yh9bknqAh) | 2:29 |
 
-Snapshot ID: `MCw1Njc0ZWUwOGI3NjUwYWM1NDg4OWU2MDY3NDkyNGRkYWJlNmQzM2Nk`
+Snapshot ID: `MCw1OWQ2OGUxYWUxMjVhZjczNmQ1NjE3MGEzZmUwYTBmODdmMjg3NGQ3`

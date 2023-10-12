@@ -1,12 +1,12 @@
 {
   "description": "Para cantar y recordar.",
-  "num_followers": 80430,
+  "num_followers": 80503,
   "original_name": "Cl\u00e1sicos del Vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxiOGU1MDgxMWI1ODZjMjQ5N2Q1YTA5NzQ2YjBjZDRlZmQxNGI5MmFj",
+  "snapshot_id": "MCw0YTc5ZDgwMmMzZTExOGYwMDBhNDcyZGU1MzYzNTQ5MTVkMDIxODIy",
   "tracks": [
     {
       "added_at": "2023-02-13 23:17:15",
@@ -255,26 +255,6 @@
     {
       "added_at": "2023-02-13 23:17:15",
       "album": {
-        "name": "La Hora de la Verdad",
-        "url": "https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA"
-      },
-      "artists": [
-        {
-          "name": "Kaleth Morales",
-          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
-        },
-        {
-          "name": "Andres Herrera",
-          "url": "https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU"
-        }
-      ],
-      "duration_ms": 376533,
-      "name": "Vivo en el limbo",
-      "url": "https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz"
-    },
-    {
-      "added_at": "2023-02-13 23:17:15",
-      "album": {
         "name": "La Combinacion Vallenata Elite Vol. 5",
         "url": "https://open.spotify.com/album/7dzVsV1IrlFyrEcYr2KIR6"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 333946,
       "name": "Que pena",
       "url": "https://open.spotify.com/track/2YXvjidOJH62npeeKr2iZR"
+    },
+    {
+      "added_at": "2023-02-13 23:17:15",
+      "album": {
+        "name": "La Hora de la Verdad",
+        "url": "https://open.spotify.com/album/3Go9Lvj1m9UOzidlfDOFVA"
+      },
+      "artists": [
+        {
+          "name": "Kaleth Morales",
+          "url": "https://open.spotify.com/artist/1JzCCMAjM3FCr9eM3jp0uH"
+        },
+        {
+          "name": "Andres Herrera",
+          "url": "https://open.spotify.com/artist/2b7FVYTLTkP4YTT0VokeJU"
+        }
+      ],
+      "duration_ms": 376533,
+      "name": "Vivo en el limbo",
+      "url": "https://open.spotify.com/track/6qvCE9WhoF57af6boMwaOz"
     },
     {
       "added_at": "2023-02-13 23:17:15",
@@ -751,6 +751,22 @@
     {
       "added_at": "2023-02-13 23:17:15",
       "album": {
+        "name": "Alto Voltaje",
+        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
+      },
+      "artists": [
+        {
+          "name": "Daniel Calder\u00f3n",
+          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
+        }
+      ],
+      "duration_ms": 246800,
+      "name": "Infiel",
+      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
+    },
+    {
+      "added_at": "2023-02-13 23:17:15",
+      "album": {
         "name": "Unico",
         "url": "https://open.spotify.com/album/2gLXG7A0NC2pkVPauDFh0y"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 323733,
       "name": "De Millon a Cero",
       "url": "https://open.spotify.com/track/5GpzV7vCxkwdLloBSZg6Xg"
-    },
-    {
-      "added_at": "2023-02-13 23:17:15",
-      "album": {
-        "name": "Alto Voltaje",
-        "url": "https://open.spotify.com/album/58S0vKkRnOwYGwpDSXNsEX"
-      },
-      "artists": [
-        {
-          "name": "Daniel Calder\u00f3n",
-          "url": "https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA"
-        }
-      ],
-      "duration_ms": 246800,
-      "name": "Infiel",
-      "url": "https://open.spotify.com/track/1PTQMGoaQ2ZnWi3WBzFpwp"
     },
     {
       "added_at": "2023-02-13 23:17:15",

@@ -354,6 +354,28 @@
     {
       "album": {
         "name": "The Xtatik Circus",
+        "url": "https://open.spotify.com/album/2Fd7EJGE8564lHxKQclwAE"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Destra",
+          "url": "https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227213,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/2CuEoTltt7yzIT7ORP75Vy"
+    },
+    {
+      "album": {
+        "name": "The Xtatik Circus",
         "url": "https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I"
       },
       "artists": [
@@ -372,7 +394,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 227213,
       "name": "Carnival",
       "url": "https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff"
@@ -1450,6 +1472,28 @@
     {
       "album": {
         "name": "The Xtatik Experience",
+        "url": "https://open.spotify.com/album/5CYbWsXSKUZ9lAZNeRNFVf"
+      },
+      "artists": [
+        {
+          "name": "Machel Montano",
+          "url": "https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ"
+        },
+        {
+          "name": "Rikki Jai",
+          "url": "https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274626,
+      "name": "Mor Tor",
+      "url": "https://open.spotify.com/track/7oCilb334fFHHuYlpDE4RR"
+    },
+    {
+      "album": {
+        "name": "The Xtatik Experience",
         "url": "https://open.spotify.com/album/1A16ile1jSMMEhMvoRH0WN"
       },
       "artists": [
@@ -1464,7 +1508,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 274626,
       "name": "Mor Tor (feat. Rikki Jai)",
       "url": "https://open.spotify.com/track/3bmJVnAl031qUqToopD8xg"

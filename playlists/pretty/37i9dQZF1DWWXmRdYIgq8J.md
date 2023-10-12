@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,858 likes - 50 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,856 likes - 50 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Aur Chale \(feat\. Dil\-E\-Nadan\)](https://open.spotify.com/track/0rqf6vbpvLhynNJz6ya5zG) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Dil\-E\-Nadan](https://open.spotify.com/artist/34B244yve10xAS2LK6VknY) | [Independent Lady](https://open.spotify.com/album/5MX7SERtmC5ObbiWxgVhKb) | 3:24 |
-| 2 | [Mor Tor \(feat\. Rikki Jai\)](https://open.spotify.com/track/3bmJVnAl031qUqToopD8xg) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [The Xtatik Experience](https://open.spotify.com/album/1A16ile1jSMMEhMvoRH0WN) | 4:34 |
+| 2 | [Mor Tor](https://open.spotify.com/track/7oCilb334fFHHuYlpDE4RR) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [The Xtatik Experience](https://open.spotify.com/album/5CYbWsXSKUZ9lAZNeRNFVf) | 4:34 |
 | 3 | [Indian Gyal](https://open.spotify.com/track/2Vwpai1MSuaBJRXnMjAa3Y) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Indian Gyal](https://open.spotify.com/album/6SYuxFQV5iyRoI43DtDtQp) | 3:22 |
 | 4 | [Gunga Ghana](https://open.spotify.com/track/6scC03TvTwI1VbEGIYrD8R) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj), [Dubraj Persad](https://open.spotify.com/artist/4utj62fmWsquEdUPamiUDX) | [Gunga Ghana](https://open.spotify.com/album/5HHAYnNENqxTSYOnnx1Ilk) | 4:07 |
 | 5 | [Barman](https://open.spotify.com/track/4luG5N7yt5gV41Z2pzgtsu) | [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:53 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 14 | [Radica](https://open.spotify.com/track/15D65PvgOtMSNCNsPWNZUU) | [Kenneth Salick](https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r) | [Radica](https://open.spotify.com/album/3YfmVhke219CS6MGDYjnKt) | 4:24 |
 | 15 | [Lootala](https://open.spotify.com/track/1XbEmKkEdifeicWVbhbS3T) | [Sonny Mann](https://open.spotify.com/artist/7ISdKLHNOk7qDf9vIRwCa0) | [Soca Gold 2](https://open.spotify.com/album/67tWcKDetfKQS7o3sLV71y) | 5:02 |
 | 16 | [Jhulai Kai Jhulaneeya](https://open.spotify.com/track/4T2RNha3216ColKhrewoRe) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i), [Devanand Gattoo](https://open.spotify.com/artist/6YJbkTQjvcQIlMgs6B0gUf) | [Jhulai Kai Jhulaneeya](https://open.spotify.com/album/1J3jCiMaCw6vONtH5dD5CJ) | 3:53 |
-| 17 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 |
+| 17 | [Carnival](https://open.spotify.com/track/2CuEoTltt7yzIT7ORP75Vy) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Xtatik Circus](https://open.spotify.com/album/2Fd7EJGE8564lHxKQclwAE) | 3:47 |
 | 18 | [Prescription](https://open.spotify.com/track/4LKcY2x9F64lJmr3qeNhBm) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Soca Gold 2013](https://open.spotify.com/album/3P4NsDb4H3rL9YSiLoFuSS) | 3:31 |
 | 19 | [Chataniya](https://open.spotify.com/track/7wVx2fa8mMotK9FM6o9m6B) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Chataniya](https://open.spotify.com/album/66Zvn8tu5lGF34dWtcXFYU) | 3:45 |
 | 20 | [Omere](https://open.spotify.com/track/3tFQKzmd075MoWRYzph1pN) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Drupatee Ramgoonai](https://open.spotify.com/album/2FXMAs4LSzuJKBO7JkHdlz) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 49 | [Balama](https://open.spotify.com/track/3Zw2VFaqvZAkn1uMKX9jKe) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd) | [Dekho Lawa](https://open.spotify.com/album/0NhPsvgyL8J66KKggFU2KR) | 4:21 |
 | 50 | [Bhaio Bhin](https://open.spotify.com/track/0FNWncnBxzqcxMlpGCf6mI) | [Sarah](https://open.spotify.com/artist/33Gx2JOUU4jrmRhjxwaOxb), [Sally Sagram](https://open.spotify.com/artist/3h2YMkiocFuXM0jfTGMNB3) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 3:51 |
 
-Snapshot ID: `MCwxY2Y2MmIyMGNhNmUzMzM0MjU1MGYzMmVhMjQ5NzVkMjE0ZDczZTJk`
+Snapshot ID: `MCwwZjBjMWJhOGE5OGU3MzRhNjA4MWQxZWVjMmQxM2ExNTFkMzI3MWJm`

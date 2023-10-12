@@ -1,12 +1,12 @@
 {
   "description": "Need to get your energy level up? This will help!",
-  "num_followers": 605464,
+  "num_followers": 605660,
   "original_name": "Energy Booster: K-Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4N2Y2OTUxM2RiNDkxN2YwOTVjNGVmNTQ5OGIxYzZiNmM0ZTgwOGUz",
+  "snapshot_id": "MCw0YzQ2NDhmMmUxZDMwYjRkYjM0Mjk0NmM1YTE4ZDBmZjkxNDYzMGMw",
   "tracks": [
     {
       "added_at": "2023-08-09 05:33:20",
@@ -727,22 +727,6 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "SHALALA - The 1st Mini Album",
-        "url": "https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp"
-      },
-      "artists": [
-        {
-          "name": "TAEYONG",
-          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
-        }
-      ],
-      "duration_ms": 201106,
-      "name": "SHALALA",
-      "url": "https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 238143,
       "name": "Savage",
       "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "SHALALA - The 1st Mini Album",
+        "url": "https://open.spotify.com/album/4nVXazKGLH0udmv0licmlp"
+      },
+      "artists": [
+        {
+          "name": "TAEYONG",
+          "url": "https://open.spotify.com/artist/6SKusTjOAPsTZ6kareKQdm"
+        }
+      ],
+      "duration_ms": 201106,
+      "name": "SHALALA",
+      "url": "https://open.spotify.com/track/2gAX00D7NOBKdcKbOXdpFR"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -859,22 +859,6 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "FEARLESS",
-        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 168437,
-      "name": "FEARLESS",
-      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 200689,
       "name": "LALISA",
       "url": "https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "FEARLESS",
+        "url": "https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 168437,
+      "name": "FEARLESS",
+      "url": "https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "KARD 6th Mini Album 'ICKY'",
-        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
-      },
-      "artists": [
-        {
-          "name": "KARD",
-          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
-        }
-      ],
-      "duration_ms": 179240,
-      "name": "ICKY",
-      "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
         "name": "Kitsch",
         "url": "https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 195440,
       "name": "Kitsch",
       "url": "https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "KARD 6th Mini Album 'ICKY'",
+        "url": "https://open.spotify.com/album/5xRkcPqJ3KO578D11kj9jd"
+      },
+      "artists": [
+        {
+          "name": "KARD",
+          "url": "https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ"
+        }
+      ],
+      "duration_ms": 179240,
+      "name": "ICKY",
+      "url": "https://open.spotify.com/track/1OhotmnsJBmsHaKwACYMgJ"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 181520,
-      "name": "GO HARD",
-      "url": "https://open.spotify.com/track/5uZ5VUoj2al8GttE421bTD"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
         "name": "DIMENSION : ANSWER",
         "url": "https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 172373,
       "name": "In the morning",
       "url": "https://open.spotify.com/track/1Wcr8zrKqbUX0zwN8Dbr16"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 181520,
+      "name": "GO HARD",
+      "url": "https://open.spotify.com/track/5uZ5VUoj2al8GttE421bTD"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "HARD - The 8th Album",
-        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
-      },
-      "artists": [
-        {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
-        }
-      ],
-      "duration_ms": 176720,
-      "name": "HARD",
-      "url": "https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
         "name": "Sour & Sweet",
         "url": "https://open.spotify.com/album/7kLnuncjYJPmSHM2aLjyET"
       },
@@ -1303,54 +1287,6 @@
       "duration_ms": 147680,
       "name": "Sour & Sweet",
       "url": "https://open.spotify.com/track/3bcLtU0Z3MuUhhQHIVSSX2"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
-        "name": "A Midsummer NMIXX\u2019s Dream",
-        "url": "https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke"
-      },
-      "artists": [
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 183546,
-      "name": "Party O'Clock",
-      "url": "https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
-        "name": "Twicetagram",
-        "url": "https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Likey",
-      "url": "https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
-        "name": "Hello Future - The 1st Album Repackage",
-        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 220920,
-      "name": "Hello Future",
-      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1371,6 +1307,22 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
+        "name": "A Midsummer NMIXX\u2019s Dream",
+        "url": "https://open.spotify.com/album/0OM5hpJTbDQtetg6TQCOke"
+      },
+      "artists": [
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 183546,
+      "name": "Party O'Clock",
+      "url": "https://open.spotify.com/track/0HdcJkzhhhzID0nXEpIVgH"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
         "name": "Step Back",
         "url": "https://open.spotify.com/album/3gwL04bGAX4Kc2D5Wd7NMk"
       },
@@ -1383,6 +1335,38 @@
       "duration_ms": 228613,
       "name": "Step Back",
       "url": "https://open.spotify.com/track/3LCwQoTrdQgHsGJE5gGVqx"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "Hello Future - The 1st Album Repackage",
+        "url": "https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 220920,
+      "name": "Hello Future",
+      "url": "https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "HARD - The 8th Album",
+        "url": "https://open.spotify.com/album/3JZJEeWr3LShx36FYbMc5E"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        }
+      ],
+      "duration_ms": 176720,
+      "name": "HARD",
+      "url": "https://open.spotify.com/track/2VV1RIhTgeJ4PEMYz6TqDB"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1403,18 +1387,18 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "SEVENTEEN 1ST ALBUM [FIRST \u2018LOVE&LETTER\u2019]",
-        "url": "https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn"
+        "name": "Twicetagram",
+        "url": "https://open.spotify.com/album/3hJXmK5gWN9P6jtZL0Lr2y"
       },
       "artists": [
         {
-          "name": "SEVENTEEN",
-          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
         }
       ],
-      "duration_ms": 207299,
-      "name": "Pretty U",
-      "url": "https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM"
+      "duration_ms": 207813,
+      "name": "Likey",
+      "url": "https://open.spotify.com/track/0IEVKWduAaMcZepZQVr80T"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1435,6 +1419,22 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
+        "name": "SEVENTEEN 1ST ALBUM [FIRST \u2018LOVE&LETTER\u2019]",
+        "url": "https://open.spotify.com/album/50BrkBakrLWufmTLjCVBwn"
+      },
+      "artists": [
+        {
+          "name": "SEVENTEEN",
+          "url": "https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH"
+        }
+      ],
+      "duration_ms": 207299,
+      "name": "Pretty U",
+      "url": "https://open.spotify.com/track/1117juaaAkSIUsQxTmmcKM"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
         "name": "STAYDOM",
         "url": "https://open.spotify.com/album/71hjsg660uio3Z8bnbB6fS"
       },
@@ -1447,22 +1447,6 @@
       "duration_ms": 194080,
       "name": "ASAP",
       "url": "https://open.spotify.com/track/5BXr7hYZQOeRttkeWYTq5S"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
-        "name": "MADE",
-        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
-      },
-      "artists": [
-        {
-          "name": "BIGBANG",
-          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
-        }
-      ],
-      "duration_ms": 220177,
-      "name": "BANG BANG BANG",
-      "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
     },
     {
       "added_at": "2023-08-09 05:33:20",
@@ -1483,6 +1467,22 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
+        "name": "MADE",
+        "url": "https://open.spotify.com/album/2SPrl8C8pgSM5gXbAiyJHY"
+      },
+      "artists": [
+        {
+          "name": "BIGBANG",
+          "url": "https://open.spotify.com/artist/4Kxlr1PRlDKEB0ekOCyHgX"
+        }
+      ],
+      "duration_ms": 220177,
+      "name": "BANG BANG BANG",
+      "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
         "name": "EXODUS - The 2nd Album",
         "url": "https://open.spotify.com/album/0PepQsL30ADZO7gc4Tz7Af"
       },
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2023-08-09 05:33:20",
       "album": {
-        "name": "PANDORA'S BOX",
-        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
-      },
-      "artists": [
-        {
-          "name": "MAVE:",
-          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
-        }
-      ],
-      "duration_ms": 196826,
-      "name": "PANDORA",
-      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
-    },
-    {
-      "added_at": "2023-08-09 05:33:20",
-      "album": {
         "name": "SEVENTEEN 8th Mini Album 'Your Choice'",
         "url": "https://open.spotify.com/album/79VvXTQNeLr8KmvcdxN0Pc"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 186760,
       "name": "Ready to love",
       "url": "https://open.spotify.com/track/2FymmKBuog0loCuNXMwQID"
+    },
+    {
+      "added_at": "2023-08-09 05:33:20",
+      "album": {
+        "name": "PANDORA'S BOX",
+        "url": "https://open.spotify.com/album/3uYJ8J1nYZB3sXjRNKWHGz"
+      },
+      "artists": [
+        {
+          "name": "MAVE:",
+          "url": "https://open.spotify.com/artist/2ec7y2L98sHDYFylr7KqEx"
+        }
+      ],
+      "duration_ms": 196826,
+      "name": "PANDORA",
+      "url": "https://open.spotify.com/track/70yszWsLJvNZuZwaHNMROf"
     },
     {
       "added_at": "2023-08-09 05:33:20",

@@ -1,12 +1,12 @@
 {
   "description": "You're on top of the world. Don't forget it.",
-  "num_followers": 3774223,
+  "num_followers": 3771916,
   "original_name": "Confidence Boost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw4Mjg1YmUwZTk5OTNhMDIwODZkNGYyMjVjYzQ5NmM1OGQ0ODc1NzQ3",
+  "snapshot_id": "MCw1ZWFlM2QzMzNmOTZkZjIzY2QyOTMwMzEwZjI1ODI2YzJjYzA4MWM3",
   "tracks": [
     {
       "added_at": "2023-10-06 19:49:44",
@@ -75,22 +75,6 @@
     {
       "added_at": "2023-10-06 19:49:44",
       "album": {
-        "name": "What It Is (Versions)",
-        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
-      },
-      "artists": [
-        {
-          "name": "Doechii",
-          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
-        }
-      ],
-      "duration_ms": 189824,
-      "name": "What It Is (Solo Version)",
-      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
-    },
-    {
-      "added_at": "2023-10-06 19:49:44",
-      "album": {
         "name": "Endless Summer Vacation",
         "url": "https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ"
       },
@@ -103,6 +87,22 @@
       "duration_ms": 200600,
       "name": "Flowers",
       "url": "https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0"
+    },
+    {
+      "added_at": "2023-10-06 19:49:44",
+      "album": {
+        "name": "What It Is (Versions)",
+        "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
+      },
+      "artists": [
+        {
+          "name": "Doechii",
+          "url": "https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB"
+        }
+      ],
+      "duration_ms": 189824,
+      "name": "What It Is (Solo Version)",
+      "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
     },
     {
       "added_at": "2023-10-06 19:49:44",
@@ -911,22 +911,6 @@
     {
       "added_at": "2023-10-06 19:49:44",
       "album": {
-        "name": "Choose Your Fighter (From Barbie The Album)",
-        "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 137514,
-      "name": "Choose Your Fighter (From Barbie The Album)",
-      "url": "https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1"
-    },
-    {
-      "added_at": "2023-10-06 19:49:44",
-      "album": {
         "name": "Little Girl Gone",
         "url": "https://open.spotify.com/album/7tzZQfNdN5rWCYFcM24byP"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 188596,
       "name": "Little Girl Gone",
       "url": "https://open.spotify.com/track/56rpEOCBATYItSa4yPksfe"
+    },
+    {
+      "added_at": "2023-10-06 19:49:44",
+      "album": {
+        "name": "Choose Your Fighter (From Barbie The Album)",
+        "url": "https://open.spotify.com/album/718h0CzRHO6ums1CTrB5L1"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 137514,
+      "name": "Choose Your Fighter (From Barbie The Album)",
+      "url": "https://open.spotify.com/track/3SexEc7om0q1awRqi8nCd1"
     },
     {
       "added_at": "2023-10-06 19:49:44",
@@ -1239,22 +1239,18 @@
     {
       "added_at": "2023-10-06 19:49:44",
       "album": {
-        "name": "Drunk (And I Don't Wanna Go Home)",
-        "url": "https://open.spotify.com/album/6F6ZYE96lTFgzWotepEDhZ"
+        "name": "Come On Over (Diamond Edition / Super Deluxe)",
+        "url": "https://open.spotify.com/album/2aU5BWirMOaV1OpsakTIbV"
       },
       "artists": [
         {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 245625,
-      "name": "Drunk (And I Don't Wanna Go Home)",
-      "url": "https://open.spotify.com/track/0QULNNd9z5s35entfiiXoa"
+      "duration_ms": 233414,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/2mqaYmF0XmV8egZB6jQOtN"
     }
   ],
   "unique_name": "Confidence Boost",

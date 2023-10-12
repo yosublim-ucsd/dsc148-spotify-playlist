@@ -1,12 +1,12 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1530200,
+  "num_followers": 1529088,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2M2Q5ZDQyZjQzZTJkOTdhZmViNTY2NWQyMjI1YmFlYjRlZWYyOTk2",
+  "snapshot_id": "MCw5MDk4N2Q2M2RmZTc5OTFiYmI3MzQ1OTVmOTRmMzVhZTYxMzY1MDg3",
   "tracks": [
     {
       "added_at": "2023-10-06 04:00:00",
@@ -651,6 +651,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Say Hello EP",
+        "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
+      },
+      "artists": [
+        {
+          "name": "Enamour",
+          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
+        },
+        {
+          "name": "Meliha",
+          "url": "https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5"
+        }
+      ],
+      "duration_ms": 207111,
+      "name": "Say Hello",
+      "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Desire (with Sam Smith) [Cedric Gervais Remixes]",
         "url": "https://open.spotify.com/album/7zxqQLnexgfdIdtfDWDGIx"
       },
@@ -671,26 +691,6 @@
       "duration_ms": 259351,
       "name": "Desire (with Sam Smith) - Cedric Gervais Festival Mix",
       "url": "https://open.spotify.com/track/4E03xcSx0FZOfzEeTdcmRc"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Say Hello EP",
-        "url": "https://open.spotify.com/album/6CX0RyPKTxrgtNfazPtrKZ"
-      },
-      "artists": [
-        {
-          "name": "Enamour",
-          "url": "https://open.spotify.com/artist/6D1PUSzHf2Z4jTFIdhjJoO"
-        },
-        {
-          "name": "Meliha",
-          "url": "https://open.spotify.com/artist/1jQxjRh08iMoMSgZVKCVC5"
-        }
-      ],
-      "duration_ms": 207111,
-      "name": "Say Hello",
-      "url": "https://open.spotify.com/track/4cF6Pk7YaRtv91mSZa4nVi"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -855,26 +855,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "The Maker",
-        "url": "https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        },
-        {
-          "name": "Notelle",
-          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
-        }
-      ],
-      "duration_ms": 156795,
-      "name": "The Maker",
-      "url": "https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Tighter (feat. Jalja) [CamelPhat Remix]",
         "url": "https://open.spotify.com/album/7Kv9Cpvd2BWwMkiGqMxfUI"
       },
@@ -899,22 +879,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/0ouj5sd5ZHHQHkkz9LiPAI"
+        "name": "The Maker",
+        "url": "https://open.spotify.com/album/3iXFPnNVizKfo1pUerR7Md"
       },
       "artists": [
         {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
         },
         {
-          "name": "Lost Boy",
-          "url": "https://open.spotify.com/artist/4PRItSqasFLl62nmQVBq0C"
+          "name": "Notelle",
+          "url": "https://open.spotify.com/artist/2QH237xSFhmfZJHrRulT7U"
         }
       ],
-      "duration_ms": 214578,
-      "name": "Just the Kinda Feeling",
-      "url": "https://open.spotify.com/track/2tHBUiReIreeqlCldkBXUI"
+      "duration_ms": 156795,
+      "name": "The Maker",
+      "url": "https://open.spotify.com/track/4EKzntRiyE131lB2swX5TU"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -935,26 +915,6 @@
       "duration_ms": 335409,
       "name": "The Little Mushroom That Got Away",
       "url": "https://open.spotify.com/track/2luKkgm9p46Yf7cQ4pMWaR"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Numb (Joris Voorn Remix)",
-        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 237865,
-      "name": "Numb - Joris Voorn Remix, Edit",
-      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -983,6 +943,42 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Electric Feeling",
+        "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        }
+      ],
+      "duration_ms": 186239,
+      "name": "Electric Feeling",
+      "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Numb (Joris Voorn Remix)",
+        "url": "https://open.spotify.com/album/0vTR69DaeGYKkf4DNioMfF"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 237865,
+      "name": "Numb - Joris Voorn Remix, Edit",
+      "url": "https://open.spotify.com/track/4WuxGJdcbN9SPrNn3UFLFy"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Slipstream (feat. Julia Church)",
         "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
       },
@@ -999,22 +995,6 @@
       "duration_ms": 252073,
       "name": "Slipstream (feat. Julia Church)",
       "url": "https://open.spotify.com/track/64krw31lp3jUOuZHvGtgkB"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Electric Feeling",
-        "url": "https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9"
-      },
-      "artists": [
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        }
-      ],
-      "duration_ms": 186239,
-      "name": "Electric Feeling",
-      "url": "https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1039,22 +1019,6 @@
       "duration_ms": 177560,
       "name": "Through the Void",
       "url": "https://open.spotify.com/track/0F5z4xuXIpwks2KNI6DUFk"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Breathe Me In",
-        "url": "https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc"
-      },
-      "artists": [
-        {
-          "name": "Harrison",
-          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
-        }
-      ],
-      "duration_ms": 178420,
-      "name": "Breathe Me In",
-      "url": "https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1099,6 +1063,42 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Ginger",
+          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "I Want You - Edit",
+      "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Breathe Me In",
+        "url": "https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94"
+        }
+      ],
+      "duration_ms": 178420,
+      "name": "Breathe Me In",
+      "url": "https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "Further Away",
         "url": "https://open.spotify.com/album/5Cj5Y28x79njyaIIus6zNB"
       },
@@ -1139,26 +1139,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/1QziaajVxVFMQKs0vyqH4Y"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Ginger",
-          "url": "https://open.spotify.com/artist/5b0sKzG9NeO7OjbZJ61ZBN"
-        }
-      ],
-      "duration_ms": 207360,
-      "name": "I Want You - Edit",
-      "url": "https://open.spotify.com/track/5VzsokRZMpEDLTaXBPfUdJ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Dark Matter",
         "url": "https://open.spotify.com/album/1USrnunDsroJ3keCEZJpxr"
       },
@@ -1175,30 +1155,6 @@
       "duration_ms": 232245,
       "name": "Silenced",
       "url": "https://open.spotify.com/track/2sUkEAXJBIvh9EvuuOOKuW"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "All That Matters (Artbat Remix)",
-        "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        },
-        {
-          "name": "Troels Abrahamsen",
-          "url": "https://open.spotify.com/artist/69NymgZLeHlWbV4Sh1CO36"
-        },
-        {
-          "name": "ARTBAT",
-          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
-        }
-      ],
-      "duration_ms": 314880,
-      "name": "All That Matters - ARTBAT Remix Radio Edit",
-      "url": "https://open.spotify.com/track/4vLdWFBi8WgA00nWPUHaLS"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1227,6 +1183,46 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "All That Matters (Artbat Remix)",
+        "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Troels Abrahamsen",
+          "url": "https://open.spotify.com/artist/69NymgZLeHlWbV4Sh1CO36"
+        },
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        }
+      ],
+      "duration_ms": 314880,
+      "name": "All That Matters - ARTBAT Remix Radio Edit",
+      "url": "https://open.spotify.com/track/4vLdWFBi8WgA00nWPUHaLS"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Twisted Reality (Edit)",
+        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "duration_ms": 207360,
+      "name": "Twisted Reality - Edit",
+      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "The Remixes",
         "url": "https://open.spotify.com/album/0SI7sJIrvhZtGbUo97t0aX"
       },
@@ -1247,18 +1243,62 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Twisted Reality (Edit)",
-        "url": "https://open.spotify.com/album/2pkttY8alxMO6o2eogLegg"
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr"
       },
       "artists": [
         {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Marlo Rex",
+          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
         }
       ],
-      "duration_ms": 207360,
-      "name": "Twisted Reality - Edit",
-      "url": "https://open.spotify.com/track/22If8nq6QHdvcT2meERlcl"
+      "duration_ms": 178849,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Desire",
+        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "Desire",
+      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
+      },
+      "artists": [
+        {
+          "name": "Goodboys",
+          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
+        }
+      ],
+      "duration_ms": 147580,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1283,22 +1323,6 @@
       "duration_ms": 247991,
       "name": "Ready For More",
       "url": "https://open.spotify.com/track/0OQF6YgMW5gOe8k4wfvLRJ"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/0ll3Yf2B4alvZGWeydE3fT"
-      },
-      "artists": [
-        {
-          "name": "Goodboys",
-          "url": "https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei"
-        }
-      ],
-      "duration_ms": 147580,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/32E8uwM57X19l3uBOEuTB2"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1343,6 +1367,26 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
+        "name": "Gate / Masterplan",
+        "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
+      },
+      "artists": [
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
+        },
+        {
+          "name": "Kevin de Vries",
+          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
+        }
+      ],
+      "duration_ms": 343764,
+      "name": "Gate",
+      "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
         "name": "This Feeling (Yotto Remix)",
         "url": "https://open.spotify.com/album/6Rub1KknGrXsGBPJK2mJqN"
       },
@@ -1367,26 +1411,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Gate / Masterplan",
-        "url": "https://open.spotify.com/album/6cQx7mXhkQnfG96b3YlglI"
-      },
-      "artists": [
-        {
-          "name": "K\u00f6lsch",
-          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
-        },
-        {
-          "name": "Kevin de Vries",
-          "url": "https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx"
-        }
-      ],
-      "duration_ms": 343764,
-      "name": "Gate",
-      "url": "https://open.spotify.com/track/0lenLbjzr7nDOUt5Ll9iwf"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "Not Over Yet (feat. Grace Grundy)",
         "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
       },
@@ -1403,30 +1427,6 @@
       "duration_ms": 161904,
       "name": "Not Over Yet (feat. Grace Grundy)",
       "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Desire",
-        "url": "https://open.spotify.com/album/4X8oZTuxkb2ScktgqMbwJR"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "TELYKAST",
-          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
-        },
-        {
-          "name": "Linney",
-          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "Desire",
-      "url": "https://open.spotify.com/track/6dpgiVoEttQGpKd763nr4i"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1499,26 +1499,6 @@
       "duration_ms": 308053,
       "name": "Need To Feel Loved - Tinlicker Remix",
       "url": "https://open.spotify.com/track/5bHbUMtuZIpHtTPdoJmcaN"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "Marlo Rex",
-          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
-        }
-      ],
-      "duration_ms": 178849,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1643,22 +1623,18 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Promise You",
-        "url": "https://open.spotify.com/album/2T4T379VnWqQPYHMdy39fp"
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
       },
       "artists": [
         {
-          "name": "Matisse & Sadko",
-          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
-        },
-        {
-          "name": "Justin J. Moore",
-          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
         }
       ],
-      "duration_ms": 165714,
-      "name": "Promise You",
-      "url": "https://open.spotify.com/track/0gw7l4VVk82MCXoI1i3e8t"
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1683,18 +1659,22 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+        "name": "Promise You",
+        "url": "https://open.spotify.com/album/2T4T379VnWqQPYHMdy39fp"
       },
       "artists": [
         {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        },
+        {
+          "name": "Justin J. Moore",
+          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
         }
       ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+      "duration_ms": 165714,
+      "name": "Promise You",
+      "url": "https://open.spotify.com/track/0gw7l4VVk82MCXoI1i3e8t"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1831,22 +1811,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Affirmations",
-        "url": "https://open.spotify.com/album/7fLkWAvOwyWLPQDytTukiJ"
-      },
-      "artists": [
-        {
-          "name": "Autograf",
-          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/3umVRp5FJtkvh6VUZpra8C"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "You Take My Hand",
         "url": "https://open.spotify.com/album/3meERbSehneA03lgl071Io"
       },
@@ -1883,6 +1847,22 @@
       "duration_ms": 230497,
       "name": "Hard To Breathe (feat. Hannah Boleyn)",
       "url": "https://open.spotify.com/track/4aBLX1KrJim9OnvnTNfD2t"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Affirmations",
+        "url": "https://open.spotify.com/album/7fLkWAvOwyWLPQDytTukiJ"
+      },
+      "artists": [
+        {
+          "name": "Autograf",
+          "url": "https://open.spotify.com/artist/0FVj4JuzTyudaXAwfqDQ20"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3umVRp5FJtkvh6VUZpra8C"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -1971,26 +1951,6 @@
     {
       "added_at": "2023-10-06 04:00:00",
       "album": {
-        "name": "Should Have Seen It Coming",
-        "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
-      },
-      "artists": [
-        {
-          "name": "Franky Wah",
-          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
-        },
-        {
-          "name": "AETHO",
-          "url": "https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG"
-        }
-      ],
-      "duration_ms": 238072,
-      "name": "Should Have Seen It Coming",
-      "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
-    },
-    {
-      "added_at": "2023-10-06 04:00:00",
-      "album": {
         "name": "The Horizon (With You)",
         "url": "https://open.spotify.com/album/4GO1A8lXlVrAqy0It5up3Q"
       },
@@ -2007,6 +1967,26 @@
       "duration_ms": 187111,
       "name": "The Horizon (With You)",
       "url": "https://open.spotify.com/track/0TO3DquQQvJDchx14UOKBF"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Should Have Seen It Coming",
+        "url": "https://open.spotify.com/album/6yVQrYmOxFjvS4875yrfGa"
+      },
+      "artists": [
+        {
+          "name": "Franky Wah",
+          "url": "https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco"
+        },
+        {
+          "name": "AETHO",
+          "url": "https://open.spotify.com/artist/6d1k1QqEg5v7gVCJmbilHG"
+        }
+      ],
+      "duration_ms": 238072,
+      "name": "Should Have Seen It Coming",
+      "url": "https://open.spotify.com/track/5XU99uJiaZIlfy1ID23veH"
     },
     {
       "added_at": "2023-10-06 04:00:00",
@@ -2067,6 +2047,22 @@
       "duration_ms": 231288,
       "name": "Hide and Seek - Le Youth Remix",
       "url": "https://open.spotify.com/track/6uSLLJJ5r936DO1SASSViy"
+    },
+    {
+      "added_at": "2023-10-06 04:00:00",
+      "album": {
+        "name": "Silence",
+        "url": "https://open.spotify.com/album/7izgzmJXgDFAHiLDBxqkBF"
+      },
+      "artists": [
+        {
+          "name": "Kidnap",
+          "url": "https://open.spotify.com/artist/3PvqCbhNlq96JXxPszCMZT"
+        }
+      ],
+      "duration_ms": 245881,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/5J54xW5p85niQOxeq7GiD5"
     }
   ],
   "unique_name": "Night Rider",

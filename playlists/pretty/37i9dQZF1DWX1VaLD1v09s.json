@@ -1,12 +1,12 @@
 {
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
-  "num_followers": 77270,
+  "num_followers": 77216,
   "original_name": "Easter",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCw2MDA1ZmQ4NmI1NWI4NDc5MmQwM2Y3Yjk4MjYzNWRmZDUxZWNkMTZj",
+  "snapshot_id": "MCw0NDlmOTYzYWFjZDAzOTIyMzFiZDMwYjdjN2YwMjFhMzRjODM0NTg1",
   "tracks": [
     {
       "added_at": "2023-04-09 08:59:03",
@@ -947,18 +947,26 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Azusa The Next Generation",
-        "url": "https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1"
+        "name": "Poets & Saints",
+        "url": "https://open.spotify.com/album/4Ep9pR8RIXphUEEkgeELBK"
       },
       "artists": [
         {
-          "name": "Hezekiah Walker",
-          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
+          "name": "All Sons & Daughters",
+          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
+        },
+        {
+          "name": "Leslie Jordan",
+          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
+        },
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
         }
       ],
-      "duration_ms": 441546,
-      "name": "Every Praise - (album edit)",
-      "url": "https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7"
+      "duration_ms": 253706,
+      "name": "I Surrender",
+      "url": "https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -983,26 +991,18 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Poets & Saints",
-        "url": "https://open.spotify.com/album/4Ep9pR8RIXphUEEkgeELBK"
+        "name": "Azusa The Next Generation",
+        "url": "https://open.spotify.com/album/6DCAqtLpV7aZedYHy7hRA1"
       },
       "artists": [
         {
-          "name": "All Sons & Daughters",
-          "url": "https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir"
-        },
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        },
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+          "name": "Hezekiah Walker",
+          "url": "https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd"
         }
       ],
-      "duration_ms": 253706,
-      "name": "I Surrender",
-      "url": "https://open.spotify.com/track/13p3U002Sv8z722mFjTuWi"
+      "duration_ms": 441546,
+      "name": "Every Praise - (album edit)",
+      "url": "https://open.spotify.com/track/0nSrUpDjFouhaQB7dOi0h7"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1351,6 +1351,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "Becoming Who We Are",
+        "url": "https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif"
+      },
+      "artists": [
+        {
+          "name": "Kings Kaleidoscope",
+          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
+        }
+      ],
+      "duration_ms": 218973,
+      "name": "Grace Alone",
+      "url": "https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "Inheritance",
         "url": "https://open.spotify.com/album/1SCFaSCDkVrIzHed69fWMH"
       },
@@ -1367,22 +1383,6 @@
       "duration_ms": 157337,
       "name": "Oh, the Deep, Deep Love of Jesus (feat. Fernando Ortega)",
       "url": "https://open.spotify.com/track/0h5C31CdrgABjHATYcBq6e"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
-        "name": "Becoming Who We Are",
-        "url": "https://open.spotify.com/album/6BPm1T672Bd3SR0PnyLRif"
-      },
-      "artists": [
-        {
-          "name": "Kings Kaleidoscope",
-          "url": "https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A"
-        }
-      ],
-      "duration_ms": 218973,
-      "name": "Grace Alone",
-      "url": "https://open.spotify.com/track/5ufigJk0mtxqgWUsQ0PzwS"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 502333,
-      "name": "Believe For It - Live",
-      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "The Narrow Sea",
         "url": "https://open.spotify.com/album/6sYxNRjg8MYDCdkDT1BfM8"
       },
@@ -1823,6 +1807,22 @@
       "duration_ms": 313489,
       "name": "O Rock Eternal",
       "url": "https://open.spotify.com/track/5jESluIHyWKrA6DNA9HuUH"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/2Wf09CJNp4sH4Oq9KZOzor"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 502333,
+      "name": "Believe For It - Live",
+      "url": "https://open.spotify.com/track/2kSt5gqwUhufhV3mDP38JK"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "The Rebirth Of Kirk Franklin (Live)",
-        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 307733,
-      "name": "Hosanna - Live at Lakewood Church, Houston, TX - June 16, 2000",
-      "url": "https://open.spotify.com/track/7H7uouUOWcBHnBJkAf77Tm"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Fear No More EP",
         "url": "https://open.spotify.com/album/2x7hnyjNJgvS7rKDBck8zE"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 233216,
       "name": "Blessing I Can\u2019t See",
       "url": "https://open.spotify.com/track/21Inq0qVklN60Sn15ye3bS"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "The Rebirth Of Kirk Franklin (Live)",
+        "url": "https://open.spotify.com/album/1OSCxbStNDOwBaZIXcivce"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 307733,
+      "name": "Hosanna - Live at Lakewood Church, Houston, TX - June 16, 2000",
+      "url": "https://open.spotify.com/track/7H7uouUOWcBHnBJkAf77Tm"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2167,22 +2167,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "Yours Alone",
-        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
-      },
-      "artists": [
-        {
-          "name": "CityAlight",
-          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
-        }
-      ],
-      "duration_ms": 288134,
-      "name": "Jerusalem",
-      "url": "https://open.spotify.com/track/037u9C5umoOYx84lhm7EgA"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Cutting Edge 1 & 2",
         "url": "https://open.spotify.com/album/6w2F4U8DetNtAucmynDj5v"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 370360,
       "name": "I Could Sing of Your Love Forever",
       "url": "https://open.spotify.com/track/1yowMNvS59dTccbZosir2o"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "Yours Alone",
+        "url": "https://open.spotify.com/album/421AXhO4np8qzhiQ7hTDBI"
+      },
+      "artists": [
+        {
+          "name": "CityAlight",
+          "url": "https://open.spotify.com/artist/4UNta2jPQJ844nyw1bsyPg"
+        }
+      ],
+      "duration_ms": 288134,
+      "name": "Jerusalem",
+      "url": "https://open.spotify.com/track/037u9C5umoOYx84lhm7EgA"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2435,6 +2435,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
+        "name": "How Great",
+        "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        }
+      ],
+      "duration_ms": 292288,
+      "name": "Praise the King",
+      "url": "https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
         "name": "Hymns For The Christian Life",
         "url": "https://open.spotify.com/album/5ZfXouAZobXbesq60mVzIz"
       },
@@ -2455,26 +2471,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "From The Inside Out",
-        "url": "https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong UNITED",
-          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 256970,
-      "name": "Lead Me To The Cross",
-      "url": "https://open.spotify.com/track/7dfFcTLlCPxoJsRUv5MZ2f"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
@@ -2491,18 +2487,22 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "How Great",
-        "url": "https://open.spotify.com/album/5dDRZSDf7fUVAfag8lFBKW"
+        "name": "From The Inside Out",
+        "url": "https://open.spotify.com/album/4ivKc1Y5XCbbFlXavY2MgC"
       },
       "artists": [
         {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+          "name": "Hillsong UNITED",
+          "url": "https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
         }
       ],
-      "duration_ms": 292288,
-      "name": "Praise the King",
-      "url": "https://open.spotify.com/track/2aZ8ZkqwtVs5nEleyIKygM"
+      "duration_ms": 256970,
+      "name": "Lead Me To The Cross",
+      "url": "https://open.spotify.com/track/7dfFcTLlCPxoJsRUv5MZ2f"
     },
     {
       "added_at": "2023-04-09 08:59:03",
@@ -2563,22 +2563,6 @@
     {
       "added_at": "2023-04-09 08:59:03",
       "album": {
-        "name": "The Heat",
-        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
-      },
-      "artists": [
-        {
-          "name": "NEEDTOBREATHE",
-          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
-        }
-      ],
-      "duration_ms": 244720,
-      "name": "Signature of Divine (Yahweh)",
-      "url": "https://open.spotify.com/track/45RIQSrYQaUkEIvFFb8M8a"
-    },
-    {
-      "added_at": "2023-04-09 08:59:03",
-      "album": {
         "name": "Valley of the Shadow",
         "url": "https://open.spotify.com/album/6g1FJGqRLLOEhJX7snpcjv"
       },
@@ -2591,6 +2575,22 @@
       "duration_ms": 256127,
       "name": "Glory & Grace",
       "url": "https://open.spotify.com/track/1irfge2G36vfmvs97KV6T0"
+    },
+    {
+      "added_at": "2023-04-09 08:59:03",
+      "album": {
+        "name": "The Heat",
+        "url": "https://open.spotify.com/album/5OEL6rFpj2Ay6CbABAr3AU"
+      },
+      "artists": [
+        {
+          "name": "NEEDTOBREATHE",
+          "url": "https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G"
+        }
+      ],
+      "duration_ms": 244720,
+      "name": "Signature of Divine (Yahweh)",
+      "url": "https://open.spotify.com/track/45RIQSrYQaUkEIvFFb8M8a"
     },
     {
       "added_at": "2023-04-09 08:59:03",

@@ -1,12 +1,12 @@
 {
   "description": "Nothing but beautiful country love songs. ",
-  "num_followers": 1690432,
+  "num_followers": 1689368,
   "original_name": "Country Kind of Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MCxjMWE2NDI5NjUyMGViNDkxMmYwNTYwMjIxMTgxMTQyMWZhMzUzMWM2",
+  "snapshot_id": "MCxmODcyZmY4ZWZlOTc3ZmFkNDg3OTk3MzU3NTRlOWQ3MjcxOWNlZjI2",
   "tracks": [
     {
       "added_at": "2023-09-08 04:00:00",
@@ -275,18 +275,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "From A Room: Volume 2",
-        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
+        "name": "Your Man",
+        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "Josh Turner",
+          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
         }
       ],
-      "duration_ms": 210133,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/68JS5SFTnW5Yv9Vzw81Jf0"
+      "duration_ms": 211893,
+      "name": "Your Man",
+      "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -307,18 +307,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Your Man",
-        "url": "https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO"
+        "name": "From A Room: Volume 2",
+        "url": "https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5"
       },
       "artists": [
         {
-          "name": "Josh Turner",
-          "url": "https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 211893,
-      "name": "Your Man",
-      "url": "https://open.spotify.com/track/1WzAeadSKJhqykZFbJNmQv"
+      "duration_ms": 210133,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/68JS5SFTnW5Yv9Vzw81Jf0"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Good Person",
-        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Andress",
-          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
-        }
-      ],
-      "duration_ms": 196162,
-      "name": "Feel Like This",
-      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "American Saturday Night",
         "url": "https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 321640,
       "name": "Then",
       "url": "https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Good Person",
+        "url": "https://open.spotify.com/album/3Ua9kX869krW1M3UjEJVPv"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Andress",
+          "url": "https://open.spotify.com/artist/0jPnVIasXzBYjrlpO5irii"
+        }
+      ],
+      "duration_ms": 196162,
+      "name": "Feel Like This",
+      "url": "https://open.spotify.com/track/4QWXSTeUHFzU0INh7SNqSU"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Who Needs Pictures",
-        "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
+        "name": "Love,Heartbreak, & Everything in Between",
+        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
       },
       "artists": [
         {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+          "name": "Tenille Arts",
+          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
         }
       ],
-      "duration_ms": 226226,
-      "name": "We Danced",
-      "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
+      "duration_ms": 198208,
+      "name": "Somebody Like That",
+      "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Love,Heartbreak, & Everything in Between",
-        "url": "https://open.spotify.com/album/478FbS6cYoaEYreO0H4YOx"
+        "name": "Who Needs Pictures",
+        "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
       },
       "artists": [
         {
-          "name": "Tenille Arts",
-          "url": "https://open.spotify.com/artist/0gSAxSvAApQc71cTpoXDFu"
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
         }
       ],
-      "duration_ms": 198208,
-      "name": "Somebody Like That",
-      "url": "https://open.spotify.com/track/4K7wet87HnlWKi0CXWvg1i"
+      "duration_ms": 226226,
+      "name": "We Danced",
+      "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
     },
     {
       "added_at": "2023-09-08 04:00:00",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2023-09-08 04:00:00",
       "album": {
-        "name": "Hallelujah Nights",
-        "url": "https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90"
-      },
-      "artists": [
-        {
-          "name": "LANCO",
-          "url": "https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T"
-        }
-      ],
-      "duration_ms": 230013,
-      "name": "Born to Love You",
-      "url": "https://open.spotify.com/track/77a5Eu7lC3tG0Sukt2O91U"
-    },
-    {
-      "added_at": "2023-09-08 04:00:00",
-      "album": {
         "name": "Love You Like I Used To",
         "url": "https://open.spotify.com/album/7odU4foqIpRNmUSblazLBq"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 186613,
       "name": "Love You Like I Used To",
       "url": "https://open.spotify.com/track/1D7cfiC5mxqHfTCcOiRBej"
+    },
+    {
+      "added_at": "2023-09-08 04:00:00",
+      "album": {
+        "name": "Hallelujah Nights",
+        "url": "https://open.spotify.com/album/3he0Uva3KD5aNSHpJm9H90"
+      },
+      "artists": [
+        {
+          "name": "LANCO",
+          "url": "https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T"
+        }
+      ],
+      "duration_ms": 230013,
+      "name": "Born to Love You",
+      "url": "https://open.spotify.com/track/77a5Eu7lC3tG0Sukt2O91U"
     },
     {
       "added_at": "2023-09-08 04:00:00",

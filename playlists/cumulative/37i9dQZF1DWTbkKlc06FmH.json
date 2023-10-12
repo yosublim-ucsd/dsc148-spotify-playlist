@@ -5310,7 +5310,7 @@
       ],
       "date_added": "2022-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 148571,
       "name": "move",
       "url": "https://open.spotify.com/track/2Ryp5LkAWyJwRqoFd8N7Kk"
@@ -5923,6 +5923,28 @@
     },
     {
       "album": {
+        "name": "O.M.M (feat. Kenya Fujita)",
+        "url": "https://open.spotify.com/album/5jhY5eCkAE6FfOl2wPHw0P"
+      },
+      "artists": [
+        {
+          "name": "VivaOla",
+          "url": "https://open.spotify.com/artist/5t8n1FYliYmJ4tqtITVbF9"
+        },
+        {
+          "name": "\u85e4\u7530\u7e54\u4e5f",
+          "url": "https://open.spotify.com/artist/1gjcLvf9YDsoMiLWQT6spd"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147428,
+      "name": "O.M.M (feat. Kenya Fujita)",
+      "url": "https://open.spotify.com/track/5xuNygFHKubkXvqRMeNB8u"
+    },
+    {
+      "album": {
         "name": "O.M.M (feat. \u85e4\u7530\u7e54\u4e5f)",
         "url": "https://open.spotify.com/album/1q8b5fH5kvHVhaQwhsEXEF"
       },
@@ -5938,7 +5960,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 147428,
       "name": "O.M.M - feat. \u85e4\u7530\u7e54\u4e5f",
       "url": "https://open.spotify.com/track/2ctOBBuKRVEbK0BsShiaJq"
@@ -6856,6 +6878,28 @@
       "duration_ms": 215928,
       "name": "Roll",
       "url": "https://open.spotify.com/track/0sZ8GxpDyahXW8rkhv8fXL"
+    },
+    {
+      "album": {
+        "name": "Rouge feat. Taichi Mukai",
+        "url": "https://open.spotify.com/album/00t8byMoRv2LZrsEaH9X7K"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        },
+        {
+          "name": "Taichi Mukai",
+          "url": "https://open.spotify.com/artist/2oNStf3CKKLM5lnzELWMcH"
+        }
+      ],
+      "date_added": "2023-10-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217924,
+      "name": "Rouge feat. Taichi Mukai",
+      "url": "https://open.spotify.com/track/4FpxAbBBGBY8dFiMCsaOi7"
     },
     {
       "album": {
@@ -8070,7 +8114,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-11",
+      "date_removed": null,
       "duration_ms": 219813,
       "name": "Sunshine Baby",
       "url": "https://open.spotify.com/track/3vYv97XoLzoVhOhGCfs0lF"
@@ -10368,7 +10412,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2023-10-12",
       "duration_ms": 217924,
       "name": "\u30eb\u30fc\u30b8\u30e5 feat. \u5411\u4e95\u592a\u4e00",
       "url": "https://open.spotify.com/track/06KGPEWi5lFvv31MK7Qzu4"

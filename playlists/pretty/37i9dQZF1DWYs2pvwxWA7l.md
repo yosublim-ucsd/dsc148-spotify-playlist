@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 
 > The hottest Afropop records on the planet\. Cover: <a href="https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x?si=rQ1rx81LR8ujD4sklWgDTg"> Bnxn </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 522,291 likes - 70 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 522,468 likes - 70 songs - 3 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 24 | [understand](https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:54 |
 | 25 | [Unfortunately](https://open.spotify.com/track/6vvZsgPWTtMqfCPPwz2fDP) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [PALMWINE DIARIES VOL.1](https://open.spotify.com/album/4ehet3qgwyHG62UNZpgD5N) | 4:00 |
 | 26 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 |
-| 27 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 |
-| 28 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 |
+| 27 | [Sability](https://open.spotify.com/track/5V9XFfvCG4WP5ZdISOLvaF) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sability](https://open.spotify.com/album/3ACRYhith1SxOT6teukBvy) | 2:46 |
+| 28 | [Big 7](https://open.spotify.com/track/1OgoyOlrMJFqjE1eqQiCUc) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Big 7](https://open.spotify.com/album/75AHV3X6Pcy1aHJZabAwib) | 2:23 |
 | 29 | [Cold Outside](https://open.spotify.com/track/2jZ2MrAk8iNZk1dsI0Vr5z) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Cold Outside](https://open.spotify.com/album/7lVp4uiQQr65XGWwmwQWR0) | 3:01 |
 | 30 | [Babylon](https://open.spotify.com/track/0V9hYbo9uL11hqLP3u0yqA) | [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [WORLD BEST](https://open.spotify.com/album/6xKgLtmivZXc4TMDLK5trY) | 2:57 |
 | 31 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 42 | [Slow](https://open.spotify.com/track/04Out6ePtODoAuUqr38uXt) | [Bruce africa](https://open.spotify.com/artist/71XhX7PEkpLijcVUJuEcI3) | [Slow](https://open.spotify.com/album/2sPnCcwPuXdwD7dwssEITQ) | 3:03 |
 | 43 | [Ogaranya](https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Ogaranya](https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG) | 2:48 |
 | 44 | [PRAY](https://open.spotify.com/track/69bvwTwKZBlynqbMyZmEO2) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [PRAY](https://open.spotify.com/album/38stSF1VmGFy1VaatiMmp5) | 2:57 |
-| 45 | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW) | 2:44 |
-| 46 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 |
+| 45 | [Running](https://open.spotify.com/track/1tKsfYB65Kz74yk0HMCdcH) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [19 & Dangerous \(Deluxe\)](https://open.spotify.com/album/16ppCNm1KGCgUS0g3iKqh8) | 2:22 |
+| 46 | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn) | [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Likor \(feat\. Stonebwoy\)](https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW) | 2:44 |
 | 47 | [Hillary Remix \(feat\. Pabi Cooper\)](https://open.spotify.com/track/2ff14gUetkeu5ybyyPQbOt) | [Noon Dave](https://open.spotify.com/artist/7JkLbDtlEwAhFPn3o2kXAm), [Pabi Cooper](https://open.spotify.com/artist/6EG9v86LsCoq5HS4Jj1zCQ) | [Hillary Remix \(feat\. Pabi Cooper\)](https://open.spotify.com/album/53Cs8CxbqCXKA4fan2XSLH) | 2:54 |
 | 48 | [Body & Soul](https://open.spotify.com/track/1lrHmP6m1Qcmhwlg2yrjdU) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Body & Soul](https://open.spotify.com/album/4CwzVkma2EkIpKwXpHHUdQ) | 2:34 |
 | 49 | [Lanke](https://open.spotify.com/track/3mYXLXiDW6iRIht6dfusIy) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Lanke](https://open.spotify.com/album/6Di2j6dmIeMGuJDAd2m4ix) | 2:32 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs2pvwxWA7l.md) - [plain]
 | 69 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
 | 70 | [Single Again \(feat\. Ruger\) \- Remix](https://open.spotify.com/track/463mgOOvzTeyL2u2cmqKIE) | [Harmonize](https://open.spotify.com/artist/1eCaedusgydlcn69blHOvL), [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H) | [Single Again \(feat\. Ruger\) \[Remix\]](https://open.spotify.com/album/0xsygiGSVxNtNnz06K173w) | 3:56 |
 
-Snapshot ID: `MCxhNjRmOTdmODI0MjA0MDBiNmI5NWI5MmQxYTljYzA3NGE3Y2Q5Yzdh`
+Snapshot ID: `MCw3MTFjN2I2YTg1Y2Q5MmI1MDMyMWU2YTM2Njc0YWVkOWFlNzBiYTBi`
